@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "156", "column": "84", "message": "'||' is not followed by whitespace.", "type": "WhitespaceAround"}

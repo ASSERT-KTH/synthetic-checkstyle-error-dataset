@@ -40,8 +40,9 @@ public abstract class AbstractTemplate<T extends CtElement> implements Template<
 	 * verifies whether all template parameters are filled.
 	 */
 	public boolean isValid() {
-		try {			for (Field f : Parameters.getAllTemplateParameterFields(this.getClass())) {
-				if (f.get(this) == null) {
+		try {
+			for (Field f : Parameters.getAllTemplateParameterFields(this.getClass())) {
+				if (f.get (this) == null) {
 					return false;
 				}
 			}

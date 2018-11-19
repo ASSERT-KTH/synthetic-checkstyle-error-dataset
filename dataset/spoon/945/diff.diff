@@ -1,0 +1,5 @@
+21,22c21
+< import static spoon.testing.utils.Check.assertNotNull;
+< import static spoon.testing.utils.Check.assertIsSame;
+---
+> import static spoon.testing.utils.Check.assertNotNull;import static spoon.testing.utils.Check.assertIsSame;

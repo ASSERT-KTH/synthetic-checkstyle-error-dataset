@@ -1,0 +1,4 @@
+58c58
+< 	void setSourceOutputDirectory(File outputDirectory);
+---
+> 	void setSourceOutputDirectory (File outputDirectory);

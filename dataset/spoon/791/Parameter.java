@@ -19,8 +19,7 @@ package spoon.template;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
-import 
-java.lang.annotation.Target;
+import java.lang.annotation.Target;
 
 /**
  * This annotation should be placed on templates' fields or methods to indicate
@@ -31,7 +30,8 @@ java.lang.annotation.Target;
  * it is not necessary to annotate it with a {@link Local} annotation.
  */
 @Retention(RetentionPolicy.RUNTIME)
-@Target({ ElementType.FIELD, ElementType.METHOD })
+@Target({ ElementType.FIELD, 
+ElementType.METHOD })
 public @interface Parameter {
 	/**
 	 * Defines the name of the parameter (optional, mostly to avoid name

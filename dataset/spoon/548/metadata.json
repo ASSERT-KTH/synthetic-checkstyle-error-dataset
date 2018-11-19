@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-tab", "line": "84", "column": "119", "message": "')' is preceded with whitespace.", "type": "ParenPad"}
+{"injection_operator": "insertion-newline", "line": "84", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}

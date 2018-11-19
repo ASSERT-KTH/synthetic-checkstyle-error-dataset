@@ -1,0 +1,4 @@
+360c360
+< 			for (CtAnonymousExecutable e : sourceClass.getAnonymousExecutables()) {
+---
+> 			for(CtAnonymousExecutable e : sourceClass.getAnonymousExecutables()) {

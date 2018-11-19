@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-space", "line": "121", "column": "19", "message": "'if' is not followed by whitespace.", "type": "WhitespaceAfter"}
+{"injection_operator": "deletion-newline", "line": "66", "column": "201", "message": "'}' at column 97 should have line break before.", "type": "RightCurly"}

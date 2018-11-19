@@ -1,0 +1,5 @@
+22,23c22
+< 	public FileAssert(File actual) {
+< 		super(actual, FileAssert.class);
+---
+> 	public FileAssert(File actual) {		super(actual, FileAssert.class);

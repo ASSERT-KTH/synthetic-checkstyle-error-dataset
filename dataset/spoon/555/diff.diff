@@ -1,0 +1,4 @@
+63c63
+< 		final List<CtType<?>> expectedTypes = new ArrayList<>(expected.getTypes());
+---
+> 		final List<CtType<?>> expectedTypes = new ArrayList<>(expected.getTypes ());

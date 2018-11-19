@@ -1,0 +1,5 @@
+201c201,202
+< 			Set<CtType<?>> changedTypes = new HashSet<>();
+---
+> 			Set<CtType<?>> changedTypes = new HashSet<>
+> ();

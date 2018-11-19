@@ -1,0 +1,5 @@
+288,289c288
+< 		for (CtTypeMember typeMember: sourceClass.getTypeMembers()) {
+< 			if (typeMember instanceof CtType) {
+---
+> 		for (CtTypeMember typeMember: sourceClass.getTypeMembers()) {			if (typeMember instanceof CtType) {

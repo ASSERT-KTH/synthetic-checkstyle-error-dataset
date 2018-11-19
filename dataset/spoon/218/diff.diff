@@ -1,0 +1,4 @@
+427c427
+< 	public static <T> CtConstructor<T> insertConstructor(CtClass<T> targetClass, Template<?> template, CtConstructor<?> sourceConstructor) {
+---
+> 	public static<T> CtConstructor<T> insertConstructor(CtClass<T> targetClass, Template<?> template, CtConstructor<?> sourceConstructor) {

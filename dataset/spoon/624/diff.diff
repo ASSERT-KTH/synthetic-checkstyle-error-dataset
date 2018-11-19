@@ -1,0 +1,5 @@
+66c66,67
+< 	public static Factory build(Class<?>... classesToBuild) throws Exception {
+---
+> 	public 
+> static Factory build(Class<?>... classesToBuild) throws Exception {

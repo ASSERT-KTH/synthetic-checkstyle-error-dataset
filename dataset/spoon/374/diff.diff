@@ -1,0 +1,4 @@
+62c62
+< 		final List<CtType<?>> allExpected = expectedFactory.Type().getAll();
+---
+> 		final List<CtType<?>> allExpected = expectedFactory.Type(). getAll();

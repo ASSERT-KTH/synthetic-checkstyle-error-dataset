@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-newline", "line": "58", "column": "1", "message": "'(' should be on the previous line.", "type": "MethodParamPad"}
+{"injection_operator": "deletion-newline", "line": "40", "column": "98", "message": "'{' at column 84 should have line break after.", "type": "LeftCurly"}

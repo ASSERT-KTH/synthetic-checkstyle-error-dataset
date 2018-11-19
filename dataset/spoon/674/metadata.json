@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-space", "line": "95", "column": "26", "message": "'>' is followed by an illegal character.", "type": "GenericWhitespace"}
+{"injection_operator": "insertion-space", "line": "73", "message": "Indent must use tab characters", "type": "RegexpSinglelineJava"}

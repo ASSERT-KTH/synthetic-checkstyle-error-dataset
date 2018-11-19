@@ -34,7 +34,7 @@ public abstract class AbstractCtElementAssert<T extends AbstractCtElementAssert<
 	 * 		The expected element.
 	 * @return {@code this} assertion object.
 	 */
-	public T isEqualTo(CtElement expected) {
+	public T isEqualTo(CtElement expected	) {
 		assertNotNull(expected);
 		assertIsSame(actual, expected);
 
@@ -58,7 +58,7 @@ public abstract class AbstractCtElementAssert<T extends AbstractCtElementAssert<
 
 		process(actual.getFactory(), processors);
 
-		if (!actual.toString(). equals(expected)) {
+		if (!actual.toString().equals(expected)) {
 			throw new AssertionError(String.format("%1$s and %2$s aren't equals.", actual.getShortRepresentation(), expected));
 		}
 		return this.myself;

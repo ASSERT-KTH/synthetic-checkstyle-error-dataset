@@ -1,0 +1,4 @@
+31c31
+< 	private boolean forceRefresh = false;
+---
+> 	private boolean forceRefresh =false;

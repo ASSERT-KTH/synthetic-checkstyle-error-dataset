@@ -1,0 +1,4 @@
+123c123
+< 	private TemplateBuilder(CtClass<?> templateType, PatternBuilder patternBuilder, Template<?> template) {
+---
+> 	private TemplateBuilder(CtClass<? > templateType, PatternBuilder patternBuilder, Template<?> template) {

@@ -1,0 +1,5 @@
+628c628,629
+< 		env.debugMessage("source classpath: " + Arrays.toString(comp.getSourceClasspath()));
+---
+> 		env.debugMessage
+> ("source classpath: " + Arrays.toString(comp.getSourceClasspath()));

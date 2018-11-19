@@ -1,0 +1,4 @@
+23c23
+< import spoon.reflect.declaration.CtTypeMember;
+---
+> import spoon.reflect.declaration.CtTypeMember	;

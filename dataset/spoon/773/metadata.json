@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-space", "line": "244", "column": "53", "message": "'(' is followed by whitespace.", "type": "ParenPad"}
+{"injection_operator": "deletion-space", "line": "50", "column": "53", "message": "'=' is not followed by whitespace.", "type": "WhitespaceAround"}

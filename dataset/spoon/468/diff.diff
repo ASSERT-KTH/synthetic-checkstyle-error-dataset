@@ -1,0 +1,4 @@
+106c106
+< 			pb = new PatternBuilder(Collections.singletonList(templateRoot));
+---
+> 			 pb = new PatternBuilder(Collections.singletonList(templateRoot));

@@ -1,0 +1,4 @@
+42c42
+< 	public T isEqualTo(String expected) {
+---
+> 	public T isEqualTo(String expected){

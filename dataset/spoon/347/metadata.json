@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-space", "line": "51", "column": "108", "message": "'(' is preceded with whitespace.", "type": "MethodParamPad"}
+{"injection_operator": "insertion-space", "line": "56", "column": "100", "message": "';' is preceded with whitespace.", "type": "NoWhitespaceBefore"}

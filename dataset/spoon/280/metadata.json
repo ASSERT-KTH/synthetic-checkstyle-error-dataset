@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-tab", "line": "40", "column": "95", "message": "')' is preceded with whitespace.", "type": "ParenPad"}
+{"injection_operator": "insertion-tab", "line": "20", "column": "22", "message": "'.' is followed by whitespace.", "type": "NoWhitespaceAfter"}

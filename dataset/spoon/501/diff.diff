@@ -1,0 +1,4 @@
+48c48
+< 			for (Field f : RtHelper.getAllFields(p.getClass())) {
+---
+> 			for(Field f : RtHelper.getAllFields(p.getClass())) {

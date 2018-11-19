@@ -1,0 +1,5 @@
+25,26c25
+< import spoon.pattern.internal.matcher.TobeMatched;
+< import spoon.pattern.internal.node.ListOfNodes;
+---
+> import spoon.pattern.internal.matcher.TobeMatched;import spoon.pattern.internal.node.ListOfNodes;

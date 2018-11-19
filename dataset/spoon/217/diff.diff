@@ -1,0 +1,5 @@
+42c42,43
+< 	private final CtElement templateRoot;
+---
+> 	private final CtElement templateRoot
+> ;

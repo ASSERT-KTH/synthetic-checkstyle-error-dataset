@@ -1,0 +1,5 @@
+62c62,63
+< 	public T withProcessor(Class<? extends Processor<?>> processor) {
+---
+> 	public 
+> T withProcessor(Class<? extends Processor<?>> processor) {

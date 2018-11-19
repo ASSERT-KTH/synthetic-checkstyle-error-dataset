@@ -1,0 +1,4 @@
+45c45
+< 		if (!actual.getClass().equals(expected.getClass())) {
+---
+> 		if ( !actual.getClass().equals(expected.getClass())) {

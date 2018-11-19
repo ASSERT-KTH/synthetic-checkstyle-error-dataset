@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "54", "column": "60", "message": "'{' at column 53 should have line break after.", "type": "LeftCurly"}
+{"injection_operator": "insertion-space", "line": "30", "column": "79", "message": "',' is preceded with whitespace.", "type": "NoWhitespaceBefore"}

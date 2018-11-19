@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-newline", "line": "27", "column": "1", "message": "';' is preceded with whitespace.", "type": "NoWhitespaceBefore"}
+{"injection_operator": "insertion-space", "line": "290", "column": "47", "message": "'.' is followed by whitespace.", "type": "NoWhitespaceAfter"}

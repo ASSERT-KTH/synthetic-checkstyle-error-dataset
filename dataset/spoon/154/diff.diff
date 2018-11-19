@@ -1,0 +1,5 @@
+23c23,24
+< 		super(actual, CtPackageAssert.class);
+---
+> 		
+> super(actual, CtPackageAssert.class);

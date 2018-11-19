@@ -1,0 +1,5 @@
+52,53c52
+< 			b = Substitution.substitute(targetType, (Template<?>) this, c.getMethod("statements").getBody());
+< 		} else {
+---
+> 			b = Substitution.substitute(targetType, (Template<?>) this, c.getMethod("statements").getBody());		} else {

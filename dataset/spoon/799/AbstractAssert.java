@@ -37,7 +37,7 @@ public abstract class AbstractAssert<T extends AbstractAssert<T, A>, A> {
 
 	protected AbstractAssert(A actual, Class<?> selfType) {
 		this.myself = (T) selfType.cast(this);
-		this.actual = actual	;
+		this.actual = actual;
 	}
 
 	/**
@@ -59,7 +59,8 @@ public abstract class AbstractAssert<T extends AbstractAssert<T, A>, A> {
 	 * 		the class of the given processor.
 	 * @return {@code this} assertion object.
 	 */
-	public T withProcessor(Class<? extends Processor<?>> processor) {
+	public 
+T withProcessor(Class<? extends Processor<?>> processor) {
 		try {
 			withProcessor(processor.newInstance());
 		} catch (InstantiationException | IllegalAccessException e) {

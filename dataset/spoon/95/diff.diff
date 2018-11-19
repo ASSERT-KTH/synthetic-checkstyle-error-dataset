@@ -1,0 +1,4 @@
+36c36
+< 		return !Parameters.getAllTemplateParameterFields(this.getClass()).isEmpty();
+---
+> 		return!Parameters.getAllTemplateParameterFields(this.getClass()).isEmpty();

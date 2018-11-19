@@ -1,0 +1,4 @@
+142c142
+< 			model = new SpoonPom(mavenProject, sourceType, getEnvironment());
+---
+> 			model = new SpoonPom	(mavenProject, sourceType, getEnvironment());

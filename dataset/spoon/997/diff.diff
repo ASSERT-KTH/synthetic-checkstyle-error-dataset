@@ -1,0 +1,5 @@
+58,59c58
+< 	public Factory getFactory() {
+< 		return Substitution.getFactory(this);
+---
+> 	public Factory getFactory() {		return Substitution.getFactory(this);

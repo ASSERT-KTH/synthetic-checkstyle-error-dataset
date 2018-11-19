@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "19", "column": "65", "message": "';' is not followed by whitespace.", "type": "WhitespaceAfter"}
+{"injection_operator": "deletion-space", "line": "40", "column": "42", "message": "'>' is followed by an illegal character.", "type": "GenericWhitespace"}

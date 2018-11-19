@@ -1,0 +1,5 @@
+22,23c22
+< 	protected CtElementAssert(CtElement actual) {
+< 		super(actual, CtElementAssert.class);
+---
+> 	protected CtElementAssert(CtElement actual) {		super(actual, CtElementAssert.class);

@@ -1,0 +1,4 @@
+61c61
+< 		final List<CtType<?>> allActual = actualFactory.Type().getAll();
+---
+> 		final List<CtType<?>> allActual = actualFactory.Type().getAll ();

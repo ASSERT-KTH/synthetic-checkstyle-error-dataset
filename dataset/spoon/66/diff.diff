@@ -1,0 +1,4 @@
+78c78
+< 		this(jarPath, decompiledSrcPath, null, decompiler);
+---
+> 		this(jarPath, decompiledSrcPath,null, decompiler);

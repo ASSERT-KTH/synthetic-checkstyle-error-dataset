@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-space", "line": "62", "column": "61", "message": "'>' is followed by an illegal character.", "type": "GenericWhitespace"}
+{"injection_operator": "insertion-newline", "line": "92", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}

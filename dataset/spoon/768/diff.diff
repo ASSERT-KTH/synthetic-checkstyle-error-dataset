@@ -1,0 +1,5 @@
+66c66,67
+< 			throw new RuntimeException("Can't instantiate class processor.", e);
+---
+> 			throw new 
+> RuntimeException("Can't instantiate class processor.", e);

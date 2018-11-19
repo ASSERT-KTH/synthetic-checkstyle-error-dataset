@@ -1,0 +1,4 @@
+56c56
+< 			public int compare(CtType<?> o1, CtType<?> o2) {
+---
+> 			public int compare(CtType<?>o1, CtType<?> o2) {

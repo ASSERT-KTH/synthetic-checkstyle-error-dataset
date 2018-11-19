@@ -1,0 +1,4 @@
+146c146
+< 		patternBuilder.setAddGeneratedBy(addGeneratedBy);
+---
+> 		patternBuilder.setAddGeneratedBy(addGeneratedBy	);

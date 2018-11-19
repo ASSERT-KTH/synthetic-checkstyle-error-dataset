@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-newline", "line": "66", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}
+{"injection_operator": "insertion-space", "line": "148", "column": "68", "message": "'(' is preceded with whitespace.", "type": "MethodParamPad"}

@@ -1,0 +1,5 @@
+27c27,28
+< import spoon.support.compiler.jdt.FactoryCompilerConfig;
+---
+> import 
+> spoon.support.compiler.jdt.FactoryCompilerConfig;

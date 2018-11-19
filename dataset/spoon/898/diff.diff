@@ -1,0 +1,5 @@
+29,30c29
+< 		if (reference == null) {
+< 			throw new AssertionError("Your parameter can't be null.");
+---
+> 		if (reference == null) {			throw new AssertionError("Your parameter can't be null.");

@@ -1,0 +1,4 @@
+143c143
+< 	void generateProcessedSourceFiles(OutputType outputType, Filter<CtType<?>> typeFilter);
+---
+> 	void generateProcessedSourceFiles(OutputType outputType, Filter< CtType<?>> typeFilter);

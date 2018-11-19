@@ -1,0 +1,4 @@
+116c116
+< 				Collection<File> files = FileUtils.listFiles(e, new SuffixFileFilter(".java"), TrueFileFilter.INSTANCE);
+---
+> 				Collection<File> files = FileUtils.listFiles	(e, new SuffixFileFilter(".java"), TrueFileFilter.INSTANCE);

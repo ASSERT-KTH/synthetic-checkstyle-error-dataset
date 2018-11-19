@@ -1,0 +1,5 @@
+32c32,33
+< 		super(actual, selfType);
+---
+> 		super(actual
+> , selfType);

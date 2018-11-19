@@ -1,0 +1,4 @@
+54c54
+< 		class TypeComparator implements Comparator<CtType<?>> {
+---
+> 		class TypeComparator implements Comparator<CtType	<?>> {

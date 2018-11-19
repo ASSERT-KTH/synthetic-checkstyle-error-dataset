@@ -1,0 +1,4 @@
+48c48
+< 			c = targetType.getFactory().Class().get(this.getClass());
+---
+> 			c = targetType.getFactory().Class().get	(this.getClass());

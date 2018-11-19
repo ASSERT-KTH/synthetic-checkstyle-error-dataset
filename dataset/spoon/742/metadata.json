@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-space", "line": "60", "column": "85", "message": "')' is preceded with whitespace.", "type": "ParenPad"}
+{"injection_operator": "deletion-newline", "line": "138", "column": "29", "message": "'{' at column 8 should have line break after.", "type": "LeftCurly"}

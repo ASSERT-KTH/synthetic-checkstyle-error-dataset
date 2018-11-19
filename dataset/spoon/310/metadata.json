@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-tab", "line": "40", "column": "65", "message": "'(' is followed by whitespace.", "type": "ParenPad"}
+{"injection_operator": "deletion-space", "line": "56", "column": "53", "message": "'>' is followed by an illegal character.", "type": "GenericWhitespace"}

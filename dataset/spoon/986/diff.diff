@@ -1,0 +1,5 @@
+30c30,31
+< 	public SpoonException(String msg, Throwable e) {
+---
+> 	
+> public SpoonException(String msg, Throwable e) {

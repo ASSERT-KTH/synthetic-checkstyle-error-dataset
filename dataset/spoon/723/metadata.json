@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "27", "column": "44", "message": "'{' at column 37 should have line break after.", "type": "LeftCurly"}
+{"injection_operator": "insertion-newline", "line": "37", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}

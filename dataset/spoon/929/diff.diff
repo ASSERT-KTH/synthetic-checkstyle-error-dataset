@@ -1,0 +1,5 @@
+93,94c93
+< 					}
+< 					if (typeMember.getAnnotation(Local.class) != null) {
+---
+> 					}					if (typeMember.getAnnotation(Local.class) != null) {

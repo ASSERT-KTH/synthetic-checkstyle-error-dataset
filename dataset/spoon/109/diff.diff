@@ -1,0 +1,5 @@
+66,67c66
+< 			if (!currentActual.equals(currentExpected)) {
+< 				throw new AssertionError(String.format("%1$s and %2$s aren't equals.", currentActual.getQualifiedName(), currentExpected.getQualifiedName()));
+---
+> 			if (!currentActual.equals(currentExpected)) {				throw new AssertionError(String.format("%1$s and %2$s aren't equals.", currentActual.getQualifiedName(), currentExpected.getQualifiedName()));

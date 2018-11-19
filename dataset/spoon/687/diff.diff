@@ -1,0 +1,5 @@
+43c43,44
+< 		return isEqualTo(new File(expected));
+---
+> 		
+> return isEqualTo(new File(expected));

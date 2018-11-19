@@ -1,0 +1,4 @@
+35c35
+< 	public static <T extends File> T assertExists(T file) {
+---
+> 	public static <T extends File>T assertExists(T file) {

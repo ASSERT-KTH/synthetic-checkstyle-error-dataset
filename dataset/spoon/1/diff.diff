@@ -1,4 +1,5 @@
-69c69
-< 							p.getFactory().getEnvironment().report(p, Level.WARN,
+48c48,49
+< 	public CtBlock<R> getSubstitution(CtType<?> targetType) {
 ---
-> 							p. getFactory().getEnvironment().report(p, Level.WARN,
+> 	public 
+> CtBlock<R> getSubstitution(CtType<?> targetType) {

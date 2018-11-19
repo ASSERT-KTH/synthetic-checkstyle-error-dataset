@@ -1,0 +1,4 @@
+50c50
+< 	public static TemplateBuilder createPattern(CtElement templateRoot, Template<?> template) {
+---
+> 	public static TemplateBuilder createPattern	(CtElement templateRoot, Template<?> template) {

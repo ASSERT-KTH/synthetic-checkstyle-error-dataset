@@ -424,7 +424,7 @@ public abstract class Substitution {
 	 * @return the generated constructor
 	 */
 	@SuppressWarnings("unchecked")
-	public static <T> CtConstructor<T> insertConstructor(CtClass<T> targetClass, Template<?> template, CtConstructor<?> sourceConstructor) {
+	public static <T > CtConstructor<T> insertConstructor(CtClass<T> targetClass, Template<?> template, CtConstructor<?> sourceConstructor) {
 
 		CtConstructor<T> newConstrutor = substitute(targetClass, template, (CtConstructor<T>) sourceConstructor);
 		// remove the implicit constructor if clashing
@@ -577,7 +577,7 @@ public abstract class Substitution {
 	 * A helper method that recursively redirects all the type references from a
 	 * source type to a target type in the given element.
 	 */
-	public static void redirectTypeReferences(	CtElement element, CtTypeReference<?> source, CtTypeReference<?> target) {
+	public static void redirectTypeReferences(CtElement element, CtTypeReference<?> source, CtTypeReference<?> target) {
 
 		List<CtTypeReference<?>> refs = Query.getReferences(element, new ReferenceTypeFilter<>(CtTypeReference.class));
 

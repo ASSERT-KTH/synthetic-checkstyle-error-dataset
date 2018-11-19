@@ -1,0 +1,5 @@
+109c109,110
+< 	public static <T> CtType<T> buildClass(Class<T> classToBuild) throws Exception {
+---
+> 	public static <T> CtType<T> buildClass(Class<T> classToBuild) 
+> throws Exception {

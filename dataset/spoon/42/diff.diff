@@ -1,0 +1,5 @@
+34c34,35
+< public abstract class TypedBlockTemplateParameter<R> implements TemplateParameter<R> {
+---
+> public 
+> abstract class TypedBlockTemplateParameter<R> implements TemplateParameter<R> {

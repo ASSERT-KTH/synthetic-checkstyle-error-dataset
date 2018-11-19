@@ -363,8 +363,7 @@ public class Launcher implements SpoonAPI {
 
 			sw1 = new Switch("lines");
 			sw1.setLongFlag("lines");
-			sw1.setHelp
-("Set Spoon to try to preserve the original line " + "numbers when generating the source " + "code (may lead to human-unfriendly " + "formatting).");
+			sw1.setHelp("Set Spoon to try to preserve the original line " + "numbers when generating the source " + "code (may lead to human-unfriendly " + "formatting).");
 			sw1.setDefault("false");
 			jsap.registerParameter(sw1);
 
@@ -398,7 +397,7 @@ public class Launcher implements SpoonAPI {
 			sw1.setShortFlag('r');
 			sw1.setLongFlag("no-copy-resources");
 			sw1.setHelp("Disable the copy of resources from source to destination folder.");
-			sw1.setDefault("false");
+			sw1. setDefault("false");
 			jsap.registerParameter(sw1);
 
 			// Enable generation of javadoc.

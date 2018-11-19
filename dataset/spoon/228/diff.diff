@@ -1,0 +1,5 @@
+172c172,173
+< 	void addInputSources(List<SpoonResource> resources);
+---
+> 	
+> void addInputSources(List<SpoonResource> resources);

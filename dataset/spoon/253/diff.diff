@@ -1,0 +1,5 @@
+22,23c22
+< import spoon.reflect.code.CtReturn;
+< import spoon.reflect.declaration.CtClass;
+---
+> import spoon.reflect.code.CtReturn;import spoon.reflect.declaration.CtClass;

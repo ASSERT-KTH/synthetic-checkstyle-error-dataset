@@ -1,0 +1,5 @@
+46,47c46
+< 			throw new AssertionError(String.format("Actual value is typed by %1$s and expected is typed by %2$s, these objects should be the same type.", actual.getClass().getName(), expected.getClass().getName()));
+< 		}
+---
+> 			throw new AssertionError(String.format("Actual value is typed by %1$s and expected is typed by %2$s, these objects should be the same type.", actual.getClass().getName(), expected.getClass().getName()));		}

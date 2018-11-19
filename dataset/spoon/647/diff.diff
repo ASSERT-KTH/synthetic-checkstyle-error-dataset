@@ -1,0 +1,4 @@
+110c110
+< 	boolean compile(InputType... types);
+---
+> 	boolean compile(InputType... types	);

@@ -1,0 +1,5 @@
+156c156,157
+< 						t1 = targetType.getFactory().Type().createReference((Class<?>) o);
+---
+> 						t1 = targetType.getFactory().Type().createReference
+> ((Class<?>) o);

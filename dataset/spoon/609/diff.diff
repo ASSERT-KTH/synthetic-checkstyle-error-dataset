@@ -1,0 +1,5 @@
+65,66c65
+< 		} catch (InstantiationException | IllegalAccessException e) {
+< 			throw new RuntimeException("Can't instantiate class processor.", e);
+---
+> 		} catch (InstantiationException | IllegalAccessException e) {			throw new RuntimeException("Can't instantiate class processor.", e);

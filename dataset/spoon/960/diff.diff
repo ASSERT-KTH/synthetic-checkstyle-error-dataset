@@ -1,0 +1,4 @@
+70c70
+< 				.setAddGeneratedBy(isAddGeneratedBy()).substituteSingle(targetType, CtExpression.class);
+---
+> 				.setAddGeneratedBy( isAddGeneratedBy()).substituteSingle(targetType, CtExpression.class);

@@ -1,0 +1,4 @@
+46c46
+< import spoon.reflect.factory.Factory;
+---
+> import spoon.reflect.factory.Factory	;

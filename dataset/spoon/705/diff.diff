@@ -1,0 +1,4 @@
+481c481
+< 			Launcher.LOGGER.warn("The option --enable-comments (-c) is deprecated as it is now the default behaviour in Spoon.");
+---
+> 			 Launcher.LOGGER.warn("The option --enable-comments (-c) is deprecated as it is now the default behaviour in Spoon.");

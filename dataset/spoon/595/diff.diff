@@ -1,0 +1,4 @@
+375c375
+< 			msg = new StringBuilder("Classpath mode to use in Spoon: " + acceptedValues);
+---
+> 			msg =new StringBuilder("Classpath mode to use in Spoon: " + acceptedValues);

@@ -1,0 +1,4 @@
+38c38
+< 	public static CtBlock<?> getBlock(CtClass<? extends BlockTemplate> p) {
+---
+> 	public static CtBlock<?> getBlock(CtClass <? extends BlockTemplate> p) {

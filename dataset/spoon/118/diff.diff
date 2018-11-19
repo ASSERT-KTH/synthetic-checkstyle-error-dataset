@@ -1,0 +1,4 @@
+55c55
+< 	public JarLauncher(String jarPath, String decompiledSrcPath) {
+---
+> 	public JarLauncher(String jarPath	, String decompiledSrcPath) {

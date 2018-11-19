@@ -1,0 +1,4 @@
+38c38
+< 	protected AbstractAssert(A actual, Class<?> selfType) {
+---
+> 	protected AbstractAssert(A actual,Class<?> selfType) {

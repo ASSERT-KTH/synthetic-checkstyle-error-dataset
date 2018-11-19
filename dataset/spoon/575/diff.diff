@@ -1,0 +1,5 @@
+148c148,149
+< 			if (!t.equals(targetType.getFactory().Type().createReference(Template.class))) {
+---
+> 			if 
+> (!t.equals(targetType.getFactory().Type().createReference(Template.class))) {

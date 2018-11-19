@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-space", "line": "128", "column": "65", "message": "',' is not followed by whitespace.", "type": "WhitespaceAfter"}
+{"injection_operator": "insertion-tab", "line": "25", "column": "82", "message": "'>' is preceded with whitespace.", "type": "GenericWhitespace"}

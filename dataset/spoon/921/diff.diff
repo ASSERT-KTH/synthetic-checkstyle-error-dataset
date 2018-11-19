@@ -1,0 +1,4 @@
+144c144
+< 			throw new SpoonException("Unable to read the pom", e);
+---
+> 			throw new SpoonException("Unable to read the pom", e );

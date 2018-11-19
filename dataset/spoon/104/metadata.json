@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-space", "line": "43", "message": "Indent must use tab characters", "type": "RegexpSinglelineJava"}
+{"injection_operator": "insertion-tab", "line": "50", "column": "55", "message": "'.' is followed by whitespace.", "type": "NoWhitespaceAfter"}

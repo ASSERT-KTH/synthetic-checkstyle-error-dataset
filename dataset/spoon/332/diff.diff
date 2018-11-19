@@ -1,0 +1,4 @@
+644c644
+< 	public SpoonModelBuilder createCompiler(Factory factory, List<SpoonResource> inputSources, List<SpoonResource> templateSources) {
+---
+> 	public SpoonModelBuilder createCompiler(Factory factory, List<SpoonResource> inputSources,List<SpoonResource> templateSources) {

@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-space", "line": "110", "message": "Indent must use tab characters", "type": "RegexpSinglelineJava"}
+{"injection_operator": "insertion-newline", "line": "170", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}

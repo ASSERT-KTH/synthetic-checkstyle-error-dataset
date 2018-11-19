@@ -1,0 +1,5 @@
+170c170,171
+< 	public <T extends CtElement> T substituteSingle(CtType<?> targetType, Class<T> itemType) {
+---
+> 	public <T 
+> extends CtElement> T substituteSingle(CtType<?> targetType, Class<T> itemType) {

@@ -1,0 +1,4 @@
+217c217
+< 					if (type.getReferencedTypes().contains(changedType.getReference())) {
+---
+> 					if (type.getReferencedTypes().contains	(changedType.getReference())) {

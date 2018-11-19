@@ -1,0 +1,5 @@
+31c31,32
+< 	private boolean addGeneratedBy = false;
+---
+> 	private boolean addGeneratedBy = 
+> false;

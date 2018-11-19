@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "56", "column": "67", "message": "'{' at column 46 should have line break after.", "type": "LeftCurly"}
+{"injection_operator": "deletion-newline", "line": "123", "column": "17", "message": "'}' at column 3 should be alone on a line.", "type": "RightCurly"}

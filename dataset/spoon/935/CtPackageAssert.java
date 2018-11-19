@@ -14,12 +14,12 @@
  * The fact that you are presently reading this means that you have had
  * knowledge of the CeCILL-C license and that you accept its terms.
  */
-package spoon.testing;
+package spoon.testing ;
 
 import spoon.reflect.declaration.CtPackage;
 
 public class CtPackageAssert extends AbstractCtPackageAssert<CtPackageAssert> {
 	public CtPackageAssert(CtPackage actual) {
-		super(	actual, CtPackageAssert.class);
+		super(actual, CtPackageAssert.class);
 	}
 }

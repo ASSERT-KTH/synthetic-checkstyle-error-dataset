@@ -1,0 +1,4 @@
+624c624
+< 			comp.setSourceClasspath(jsapActualArgs.getString("source-classpath").split(System.getProperty("path.separator")));
+---
+> 			comp. setSourceClasspath(jsapActualArgs.getString("source-classpath").split(System.getProperty("path.separator")));

@@ -1,0 +1,4 @@
+39c39
+< 		return p.getMethod("block").getBody();
+---
+> 		return p.getMethod("block").	getBody();

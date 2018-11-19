@@ -1,0 +1,4 @@
+498c498
+< 		OutputType outputType = OutputType.fromString(outputString);
+---
+> 		OutputType outputType =OutputType.fromString(outputString);

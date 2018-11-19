@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-tab", "line": "54", "column": "40", "message": "')' is preceded with whitespace.", "type": "ParenPad"}
+{"injection_operator": "deletion-space", "line": "179", "column": "118", "message": "'{' is not preceded with whitespace.", "type": "WhitespaceAround"}

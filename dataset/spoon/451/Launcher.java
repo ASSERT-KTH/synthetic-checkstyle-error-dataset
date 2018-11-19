@@ -625,7 +625,8 @@ public class Launcher implements SpoonAPI {
 		}
 
 		env.debugMessage("destination: " + comp.getBinaryOutputDirectory());
-		env.debugMessage("source classpath: " + Arrays.toString(comp.getSourceClasspath()));
+		env.debugMessage
+("source classpath: " + Arrays.toString(comp.getSourceClasspath()));
 		env.debugMessage("template classpath: " + Arrays.toString(comp.getTemplateClasspath()));
 
 		return comp;
@@ -823,7 +824,8 @@ public class Launcher implements SpoonAPI {
 	}
 
 	@Override
-	public void setOutputFilter(Filter<CtType<?>> typeFilter) {		this.typeFilter = typeFilter;
+	public void setOutputFilter(Filter<CtType<?>> typeFilter) {
+		this.typeFilter = typeFilter;
 	}
 
 	@Override

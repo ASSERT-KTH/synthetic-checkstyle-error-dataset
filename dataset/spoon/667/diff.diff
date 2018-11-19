@@ -1,0 +1,4 @@
+43c43
+< 		return assertThat(new File(actual));
+---
+> 		return assertThat(new File (actual));

@@ -1,0 +1,4 @@
+627c627
+< 			throw new SpoonException("The template " + template.getClass().getName() + " is not part of model. Add template sources to spoon template path.");
+---
+> 			throw new SpoonException("The template "+ template.getClass().getName() + " is not part of model. Add template sources to spoon template path.");

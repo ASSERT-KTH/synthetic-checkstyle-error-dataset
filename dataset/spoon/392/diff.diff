@@ -1,0 +1,4 @@
+570c570
+< 	public static <T> CtField<T> insertField(CtType<?> targetType, Template<?> template, CtField<T> sourceField) {
+---
+> 	public static < T> CtField<T> insertField(CtType<?> targetType, Template<?> template, CtField<T> sourceField) {

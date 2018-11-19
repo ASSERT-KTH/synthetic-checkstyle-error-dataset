@@ -160,8 +160,7 @@ public class IncrementalLauncher extends Launcher {
 				mCacheInfo = loadCacheInfo(mCacheInfoFile);
 			} catch (InvalidClassException | SpoonException e) {
 				// Incompatible cache version or unable to load cache. So force rebuild.
-				forceRebuild = 
-true;
+				forceRebuild = true;
 			}
 		}
 
@@ -199,7 +198,8 @@ true;
 
 			List<CtType<?>> oldTypes = oldFactory.Type().getAll();
 
-			Set<CtType<?>> changedTypes = new HashSet<>();
+			Set<CtType<?>> changedTypes = new HashSet<>
+();
 			for (CtType<?> type : oldTypes) {
 				File typeFile = type.getPosition().getFile();
 				if (incrementalSources.contains(typeFile)) {

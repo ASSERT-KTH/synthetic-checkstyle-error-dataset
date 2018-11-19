@@ -1,0 +1,4 @@
+216c216
+< 	void addTemplateSources(List<SpoonResource> resources);
+---
+> 	void addTemplateSources(List<SpoonResource> resources );

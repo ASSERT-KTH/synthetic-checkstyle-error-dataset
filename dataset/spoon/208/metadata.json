@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-space", "line": "160", "column": "67", "message": "'>' is followed by an illegal character.", "type": "GenericWhitespace"}
+{"injection_operator": "insertion-tab", "line": "35", "column": "58", "message": "'<' is preceded with whitespace.", "type": "GenericWhitespace"}

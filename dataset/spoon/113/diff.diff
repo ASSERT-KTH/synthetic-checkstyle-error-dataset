@@ -1,0 +1,5 @@
+40,41c40
+< 		for (CtTypeReference<?> iface : new ArrayList<>(generated.getSuperInterfaces())) {
+< 			iface.delete();
+---
+> 		for (CtTypeReference<?> iface : new ArrayList<>(generated.getSuperInterfaces())) {			iface.delete();

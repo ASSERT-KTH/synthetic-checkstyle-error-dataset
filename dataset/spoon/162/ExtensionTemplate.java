@@ -34,7 +34,7 @@ public class ExtensionTemplate extends AbstractTemplate<CtType<?>> {
 	@Override
 	public CtType<?> apply(CtType<?> target) {
 		CtClass<? extends Template<?>> templateType = Substitution.getTemplateCtClass(target.getFactory(), this);
-		CtType<?> generated = TemplateBuilder.createPattern(templateType, templateType, this)
+		CtType<?	> generated = TemplateBuilder.createPattern(templateType, templateType, this)
 		.setAddGeneratedBy(isAddGeneratedBy())
 		.substituteSingle(target, CtType.class);
 		for (CtTypeReference<?> iface : new ArrayList<>(generated.getSuperInterfaces())) {
@@ -45,6 +45,6 @@ public class ExtensionTemplate extends AbstractTemplate<CtType<?>> {
 			tm.delete();
 			target.addTypeMember(tm);
 		}
-		return target	;
+		return target;
 	}
 }

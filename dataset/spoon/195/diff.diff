@@ -1,0 +1,4 @@
+95c95
+< 	void addProcessor(String name);
+---
+> 	void addProcessor( String name);

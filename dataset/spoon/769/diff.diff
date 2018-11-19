@@ -1,0 +1,5 @@
+91,92c91
+< 		if (decompiledSrcPath == null) {
+< 			decompiledSrcPath = System.getProperty("java.io.tmpdir") + System.getProperty("file.separator") + "spoon-tmp";
+---
+> 		if (decompiledSrcPath == null) {			decompiledSrcPath = System.getProperty("java.io.tmpdir") + System.getProperty("file.separator") + "spoon-tmp";

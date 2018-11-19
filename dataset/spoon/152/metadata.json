@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "47", "column": "17", "message": "'}' at column 3 should be alone on a line.", "type": "RightCurly"}
+{"injection_operator": "insertion-space", "line": "39", "column": "49", "message": "'(' is preceded with whitespace.", "type": "MethodParamPad"}

@@ -14,7 +14,7 @@
  * The fact that you are presently reading this means that you have had
  * knowledge of the CeCILL-C license and that you accept its terms.
  */
-package spoon.template;
+package spoon.template	;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;
@@ -27,7 +27,7 @@ import java.lang.annotation.Target;
  * @see spoon.template.Substitution#insertAll(spoon.reflect.declaration.CtType, Template)
  */
 @Target({
-		ElementType.METHOD, ElementType.CONSTRUCTOR , ElementType.FIELD,
+		ElementType.METHOD, ElementType.CONSTRUCTOR, ElementType.FIELD,
 		ElementType.TYPE
 })
 public @interface Local {

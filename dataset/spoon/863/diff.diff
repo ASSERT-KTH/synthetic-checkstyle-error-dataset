@@ -1,0 +1,4 @@
+119c119
+< 		pattern.forEachMatch(rootElement, consumer);
+---
+> 		pattern.forEachMatch(rootElement , consumer);

@@ -1,0 +1,4 @@
+34c34
+< public abstract class ExpressionTemplate<T> extends AbstractTemplate<CtExpression<T>> {
+---
+> public abstract class ExpressionTemplate<T> extends AbstractTemplate<CtExpression<T >> {

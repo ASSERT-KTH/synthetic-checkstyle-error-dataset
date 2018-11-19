@@ -1,0 +1,5 @@
+114,115c114
+< 	public static <T> CtType<T> buildClass(Class<T> classToBuild, boolean ensureFullclasspath) throws Exception {
+< 		if (ensureFullclasspath) {
+---
+> 	public static <T> CtType<T> buildClass(Class<T> classToBuild, boolean ensureFullclasspath) throws Exception {		if (ensureFullclasspath) {

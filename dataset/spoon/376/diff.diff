@@ -1,0 +1,4 @@
+550c550
+< 		CtType<?> result = TemplateBuilder.createPattern(templateType, template).substituteSingle(null, CtType.class);
+---
+> 		CtType<?> result = TemplateBuilder.createPattern(templateType, template).substituteSingle(null, CtType. class);

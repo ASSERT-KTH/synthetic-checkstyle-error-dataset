@@ -41,14 +41,14 @@ public abstract class AbstractCtPackageAssert<T extends AbstractCtPackageAssert<
 	 * @return {@code this} assertion object.
 	 */
 	public T isEqualTo(CtPackage expected) {
-		assertNotNull(expected);
+		assertNotNull(expected) ;
 
 		if (!actual.getSimpleName().equals(expected.getSimpleName())) {
 			throw new AssertionError(String.format("The actual package named %1$s isn't equals to the expected package named %2$s", actual.getSimpleName(), expected.getSimpleName()));
 		}
 
 		if (processors != null && !processors.isEmpty()) {
-			process(actual.getFactory(),processors);
+			process(actual.getFactory(), processors);
 		}
 
 		class TypeComparator implements Comparator<CtType<?>> {

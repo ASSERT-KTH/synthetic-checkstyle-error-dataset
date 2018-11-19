@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-newline", "line": "42", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}
+{"injection_operator": "deletion-space", "line": "45", "column": "39", "message": "'=' is not preceded with whitespace.", "type": "WhitespaceAround"}

@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-tab", "line": "32", "column": "66", "message": "'<' is preceded with whitespace.", "type": "GenericWhitespace"}
+{"injection_operator": "insertion-space", "line": "51", "message": "Indent must use tab characters", "type": "RegexpSinglelineJava"}

@@ -1,0 +1,4 @@
+78c78
+< 	public T withProcessor(String qualifiedName) {
+---
+> 	public T withProcessor	(String qualifiedName) {

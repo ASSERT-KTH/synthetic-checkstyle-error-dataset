@@ -1,0 +1,4 @@
+27c27
+< public class MavenLauncher extends Launcher {
+---
+>  public class MavenLauncher extends Launcher {

@@ -1,0 +1,4 @@
+520c520
+< 			for (String s : getArguments().getString("input").split("[" + File.pathSeparatorChar + "]")) {
+---
+> 			for(String s : getArguments().getString("input").split("[" + File.pathSeparatorChar + "]")) {

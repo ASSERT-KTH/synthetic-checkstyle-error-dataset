@@ -16,11 +16,10 @@
  */
 package spoon.testing;
 
-import spoon.reflect.declaration.CtPackage;
+import spoon.reflect.declaration.CtPackage ;
 
 public class CtPackageAssert extends AbstractCtPackageAssert<CtPackageAssert> {
 	public CtPackageAssert(CtPackage actual) {
-		super(actual, 
-CtPackageAssert.class);
+		super(actual, CtPackageAssert.class);
 	}
 }

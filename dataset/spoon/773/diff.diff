@@ -1,0 +1,4 @@
+50c50
+< 		CtClass<? extends BlockTemplate> c = Substitution.getTemplateCtClass(targetType, this);
+---
+> 		CtClass<? extends BlockTemplate> c =Substitution.getTemplateCtClass(targetType, this);

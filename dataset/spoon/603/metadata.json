@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-newline", "line": "680", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}
+{"injection_operator": "insertion-tab", "line": "39", "column": "45", "message": "'.' is followed by whitespace.", "type": "NoWhitespaceAfter"}

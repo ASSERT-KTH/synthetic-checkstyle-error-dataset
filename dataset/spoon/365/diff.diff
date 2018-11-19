@@ -1,0 +1,4 @@
+48c48
+< 	public CtBlock<R> getSubstitution(CtType<?> targetType) {
+---
+> 	public CtBlock<R> getSubstitution(CtType <?> targetType) {

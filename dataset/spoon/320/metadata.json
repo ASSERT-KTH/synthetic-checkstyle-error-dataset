@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-newline", "line": "43", "column": "1", "message": "'(' should be on the previous line.", "type": "MethodParamPad"}
+{"injection_operator": "insertion-tab", "line": "25", "column": "35", "message": "'<' is preceded with whitespace.", "type": "GenericWhitespace"}

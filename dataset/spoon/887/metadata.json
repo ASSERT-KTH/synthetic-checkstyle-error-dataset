@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-tab", "line": "44", "column": "53", "message": "'<' is preceded with whitespace.", "type": "GenericWhitespace"}
+{"injection_operator": "insertion-space", "line": "33", "column": "28", "message": "',' is preceded with whitespace.", "type": "NoWhitespaceBefore"}

@@ -104,7 +104,7 @@ public class JarLauncher extends Launcher {
 		}
 		decompiledSrc = new File(decompiledRoot, "src/main/java");
 		if (!decompiledSrc.exists()) {
-			decompiledSrc.	mkdirs();
+			decompiledSrc.mkdirs();
 			decompile = true;
 		}
 
@@ -133,7 +133,7 @@ public class JarLauncher extends Launcher {
 		if (pomPath != null) {
 			File srcPom =  new File(pomPath);
 			if (!srcPom.exists() || !srcPom.isFile()) {
-				throw new SpoonException("Pom " + srcPom.getPath() + " not found.");
+				throw new SpoonException("Pom "+ srcPom.getPath() + " not found.");
 			}
 			try {
 				pom = new File(decompiledRoot, "pom.xml");

@@ -1,0 +1,4 @@
+210c210
+< 			if (m.getAnnotation(Local.class) != null) {
+---
+> 			if ( m.getAnnotation(Local.class) != null) {

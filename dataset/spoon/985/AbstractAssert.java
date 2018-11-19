@@ -61,9 +61,8 @@ public abstract class AbstractAssert<T extends AbstractAssert<T, A>, A> {
 	 */
 	public T withProcessor(Class<? extends Processor<?>> processor) {
 		try {
-			withProcessor(processor.newInstance
-());
-		} catch (InstantiationException | IllegalAccessException e) {
+			withProcessor(processor.newInstance());
+		} catch (InstantiationException | IllegalAccessException e ) {
 			throw new RuntimeException("Can't instantiate class processor.", e);
 		}
 		return myself;

@@ -1,0 +1,5 @@
+28c28,29
+< 	public static <T> T assertNotNull(T reference) {
+---
+> 	public static <T> 
+> T assertNotNull(T reference) {

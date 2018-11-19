@@ -1,0 +1,4 @@
+392c392
+< 			sw1.setHelp("Show spoon model after processing");
+---
+> 			sw1.setHelp ("Show spoon model after processing");

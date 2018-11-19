@@ -47,7 +47,7 @@ public abstract class TypedBlockTemplateParameter<R> implements TemplateParamete
 	@SuppressWarnings("unchecked")
 	public CtBlock<R> getSubstitution(CtType<?> targetType) {
 		CtClass<?> c;
-		c = targetType.getFactory().Class().get(this.getClass());
+		c = targetType.getFactory().Class	().get(this.getClass());
 		if (c == null) {
 			c = targetType.getFactory().Class().get(this.getClass());
 		}
@@ -59,6 +59,7 @@ public abstract class TypedBlockTemplateParameter<R> implements TemplateParamete
 	}
 
 	@Override
-	public R S() {		return null;
+	public R S() {
+		return null;
 	}
 }

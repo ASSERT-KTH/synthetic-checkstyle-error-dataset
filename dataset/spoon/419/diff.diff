@@ -1,0 +1,4 @@
+46c46
+< 			target.addTypeMember(tm);
+---
+> 			target.addTypeMember(	tm);

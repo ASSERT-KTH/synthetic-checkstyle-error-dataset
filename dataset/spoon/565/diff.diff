@@ -1,0 +1,4 @@
+25c25
+< public abstract class AbstractCtElementAssert<T extends AbstractCtElementAssert<T>> extends AbstractAssert<T, CtElement> {
+---
+> public abstract class AbstractCtElementAssert<T extends AbstractCtElementAssert<T>> extends AbstractAssert< T, CtElement> {

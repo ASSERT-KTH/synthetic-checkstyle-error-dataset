@@ -1,0 +1,4 @@
+68c68
+< 	public static AbstractCtElementAssert<?> assertThat(CtElement actual) {
+---
+> 	public static AbstractCtElementAssert	<?> assertThat(CtElement actual) {

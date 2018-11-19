@@ -1,0 +1,5 @@
+52c52,53
+< 		return createPattern(templateRoot, templateType, template);
+---
+> 		return createPattern(templateRoot, templateType, 
+> template);

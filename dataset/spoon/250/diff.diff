@@ -1,0 +1,4 @@
+30c30
+< 		ElementType.METHOD, ElementType.CONSTRUCTOR, ElementType.FIELD,
+---
+> 		ElementType.METHOD,ElementType.CONSTRUCTOR, ElementType.FIELD,

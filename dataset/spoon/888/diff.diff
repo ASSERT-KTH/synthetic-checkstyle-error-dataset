@@ -1,0 +1,4 @@
+25c25
+< import static spoon.testing.utils.Check.assertExists;
+---
+> import static spoon.	testing.utils.Check.assertExists;

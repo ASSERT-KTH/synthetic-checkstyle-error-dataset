@@ -1,0 +1,4 @@
+316c316
+< 			opt2 = new FlaggedOption("template-classpath");
+---
+> 			opt2= new FlaggedOption("template-classpath");

@@ -1,0 +1,5 @@
+47,48c47
+< 		if (properties != null) {
+< 			for (Field f : RtHelper.getAllFields(p.getClass())) {
+---
+> 		if (properties != null) {			for (Field f : RtHelper.getAllFields(p.getClass())) {

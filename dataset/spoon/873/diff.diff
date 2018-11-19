@@ -1,0 +1,5 @@
+43c43,44
+< 		if (!actual.equals(expected)) {
+---
+> 		if (!actual.equals
+> (expected)) {

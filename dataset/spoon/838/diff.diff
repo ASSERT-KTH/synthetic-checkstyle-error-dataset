@@ -1,0 +1,5 @@
+41,42c41
+< 	public TemplateException(String message) {
+< 		super(message);
+---
+> 	public TemplateException(String message) {		super(message);

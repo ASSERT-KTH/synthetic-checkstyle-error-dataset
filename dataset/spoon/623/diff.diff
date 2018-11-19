@@ -1,0 +1,4 @@
+69c69
+< 				new PatternBuilderHelper(c).setReturnExpressionOfMethod("expression").getPatternElements().get(0), this)
+---
+> 				new PatternBuilderHelper (c).setReturnExpressionOfMethod("expression").getPatternElements().get(0), this)

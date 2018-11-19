@@ -1,0 +1,4 @@
+56c56
+< 			return Substitution.substitute(targetType, (Template<?>) this, m.getBody());
+---
+> 			return Substitution.substitute(targetType, (Template<?>) this, m.getBody())	;

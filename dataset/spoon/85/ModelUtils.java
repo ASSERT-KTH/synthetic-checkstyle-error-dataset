@@ -64,7 +64,8 @@ public final class ModelUtils {
 
 	/** Utility method for testing: creates the model of the given `classesToBuild` from src/test/java and returns the factory */
 	public static Factory build(Class<?>... classesToBuild) throws Exception {
-		return build(launcher -> {			launcher.getEnvironment().setNoClasspath(false);
+		return build(launcher -> {
+			launcher.getEnvironment().setNoClasspath(false);
 			launcher.getEnvironment().setCommentEnabled(false);
 		}, classesToBuild);
 	}
@@ -150,7 +151,8 @@ public final class ModelUtils {
 	}
 
 	/** checks that the file at path `outputDirectory` can be parsed with Spoon , given a compliance level and noclasspath option. */
-	public static void canBeBuilt(String outputDirectory, int complianceLevel, boolean noClasspath) {
+	public static void canBeBuilt(String outputDirectory, int 
+complianceLevel, boolean noClasspath) {
 		canBeBuilt(new File(outputDirectory), complianceLevel, noClasspath);
 	}
 

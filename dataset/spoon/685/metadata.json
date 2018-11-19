@@ -1,1 +1,1 @@
-{"injection_operator": "insertion-space", "line": "17", "column": "22", "message": "';' is preceded with whitespace.", "type": "NoWhitespaceBefore"}
+{"injection_operator": "insertion-space", "line": "27", "message": "Indent must use tab characters", "type": "RegexpSinglelineJava"}

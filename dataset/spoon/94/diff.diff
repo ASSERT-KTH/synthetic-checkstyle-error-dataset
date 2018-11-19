@@ -1,0 +1,4 @@
+300c300
+< 		newCacheInfo.inputSourcesMap = newSourcesMap;
+---
+> 		newCacheInfo.	inputSourcesMap = newSourcesMap;

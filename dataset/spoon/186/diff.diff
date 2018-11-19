@@ -1,0 +1,4 @@
+179c179
+< 	public <T extends CtElement> List<T> substituteList(Factory factory, CtType<?> targetType, Class<T> itemType) {
+---
+> 	public <T extends CtElement> List<T> substituteList(Factory factory, CtType<?> targetType, Class<T> itemType){

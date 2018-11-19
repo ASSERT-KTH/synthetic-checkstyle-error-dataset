@@ -1,0 +1,4 @@
+89c89
+< 	public JarLauncher(String jarPath, String decompiledSrcPath, String pom, Decompiler decompiler) {
+---
+> 	public JarLauncher(String jarPath	, String decompiledSrcPath, String pom, Decompiler decompiler) {

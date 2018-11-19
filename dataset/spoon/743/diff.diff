@@ -1,0 +1,4 @@
+46c46
+< 	public static void initProperties(Processor<?> p, ProcessorProperties properties) {
+---
+> 	public static void initProperties(Processor<?> p,ProcessorProperties properties) {

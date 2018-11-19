@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-space", "line": "50", "column": "19", "message": "'if' is not followed by whitespace.", "type": "WhitespaceAfter"}
+{"injection_operator": "insertion-tab", "line": "48", "column": "41", "message": "'(' is preceded with whitespace.", "type": "MethodParamPad"}

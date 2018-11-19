@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-space", "line": "63", "column": "20", "message": "'for' is not followed by whitespace.", "type": "WhitespaceAfter"}
+{"injection_operator": "insertion-space", "line": "24", "column": "14", "message": "';' is preceded with whitespace.", "type": "NoWhitespaceBefore"}

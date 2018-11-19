@@ -1,0 +1,4 @@
+59c59
+< 						obj = properties.get(String.class, f.getName());
+---
+> 						obj =properties.get(String.class, f.getName());

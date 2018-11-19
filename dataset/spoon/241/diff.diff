@@ -1,0 +1,4 @@
+189c189
+< 			mAddedSources = new HashSet<>(CollectionUtils.subtract(mInputSources, mCacheInfo.inputSourcesMap.keySet()));
+---
+> 			mAddedSources= new HashSet<>(CollectionUtils.subtract(mInputSources, mCacheInfo.inputSourcesMap.keySet()));

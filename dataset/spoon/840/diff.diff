@@ -1,0 +1,5 @@
+20,21c20
+< import spoon.reflect.code.CtStatementList;
+< import spoon.reflect.declaration.CtClass;
+---
+> import spoon.reflect.code.CtStatementList;import spoon.reflect.declaration.CtClass;

@@ -1,0 +1,4 @@
+179c179
+< 			mInputSources.forEach(f -> addInputResource(f.getPath()));
+---
+> 			mInputSources.forEach(f -> addInputResource (f.getPath()));

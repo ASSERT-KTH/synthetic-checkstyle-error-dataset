@@ -1,0 +1,4 @@
+242c242
+< 	public static void insertAllFields(CtType<?> targetType, Template<?> template) {
+---
+> 	public static void insertAllFields (CtType<?> targetType, Template<?> template) {

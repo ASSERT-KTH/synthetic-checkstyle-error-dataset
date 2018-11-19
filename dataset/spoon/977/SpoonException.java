@@ -21,12 +21,13 @@ public class SpoonException extends RuntimeException {
 	private static final long serialVersionUID = 1L;
 	public SpoonException() {
 	}
-	public SpoonException(String msg) {		super(msg);
+	public SpoonException(String msg) {
+		super(msg);
 	}
 	public SpoonException(Throwable e) {
 		super(e);
 	}
 	public SpoonException(String msg, Throwable e) {
-		super(msg, e);
+		super(msg, e );
 	}
 }

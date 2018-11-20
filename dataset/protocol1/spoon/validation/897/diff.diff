@@ -1,0 +1,4 @@
+53c53
+< 	public CtNewClass<T> clone() {
+---
+> 	public CtNewClass<T>clone() {

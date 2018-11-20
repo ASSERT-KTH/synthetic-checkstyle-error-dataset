@@ -1,0 +1,4 @@
+246c246
+< 					targetTypeRef = (CtTypeReference<?>) targetTypeObject;
+---
+> 					 targetTypeRef = (CtTypeReference<?>) targetTypeObject;

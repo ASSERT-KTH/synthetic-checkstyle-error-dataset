@@ -1,0 +1,4 @@
+37c37
+< 		public List<SpoonFile> getFiles(JDTBatchCompiler compiler) {
+---
+> 		public List	<SpoonFile> getFiles(JDTBatchCompiler compiler) {

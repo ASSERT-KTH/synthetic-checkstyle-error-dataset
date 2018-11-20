@@ -1,0 +1,4 @@
+54c54
+< 	CtReturn<R> clone();
+---
+> 	CtReturn<R> clone ();

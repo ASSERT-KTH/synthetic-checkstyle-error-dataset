@@ -1,0 +1,4 @@
+43c43
+< 	public <E extends CtJavaDocTag> E setType(String type) {
+---
+> 	public<E extends CtJavaDocTag> E setType(String type) {

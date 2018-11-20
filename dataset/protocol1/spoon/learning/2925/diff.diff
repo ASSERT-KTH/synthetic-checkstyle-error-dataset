@@ -1,0 +1,5 @@
+249c249,250
+< 	public CtFieldReference<T> clone() {
+---
+> 	public CtFieldReference<T> clone
+> () {

@@ -1,0 +1,4 @@
+209c209
+< 	static CtAnnotatedElementType getAnnotatedElementTypeForCtElement(CtElement element) {
+---
+> 	static CtAnnotatedElementType getAnnotatedElementTypeForCtElement(CtElement element ) {

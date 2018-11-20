@@ -1,0 +1,4 @@
+121c121
+< 		return "<virtual folder>: " + super.toString();
+---
+> 		return "<virtual folder>: "+ super.toString();

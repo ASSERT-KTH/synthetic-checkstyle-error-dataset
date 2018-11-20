@@ -1,0 +1,4 @@
+39c39
+< public interface CtVariableWrite<T> extends CtVariableAccess<T> {
+---
+> public interface CtVariableWrite<T> extends CtVariableAccess <T> {

@@ -1,0 +1,4 @@
+33c33
+< 	boolean matches(T element);
+---
+> 	boolean matches(T element	);

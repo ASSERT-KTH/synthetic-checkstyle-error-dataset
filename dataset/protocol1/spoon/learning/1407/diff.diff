@@ -1,0 +1,4 @@
+28c28
+< 	Path getOutputPath(CtModule module, CtPackage pack, CtType type);
+---
+> 	Path getOutputPath (CtModule module, CtPackage pack, CtType type);

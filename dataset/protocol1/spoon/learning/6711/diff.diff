@@ -1,0 +1,5 @@
+26c26,27
+< 	public SetContext(CtElement element, CtRole role, Set<?> original) {
+---
+> 	public 
+> SetContext(CtElement element, CtRole role, Set<?> original) {

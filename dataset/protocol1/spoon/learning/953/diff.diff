@@ -1,0 +1,4 @@
+308c308
+< 		if (this.moduleDirectives.isEmpty()) {
+---
+> 		if (this.moduleDirectives.isEmpty()){

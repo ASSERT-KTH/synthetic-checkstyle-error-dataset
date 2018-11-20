@@ -1,0 +1,4 @@
+225c225
+< 		final SignaturePrinter pr = new SignaturePrinter();
+---
+> 		final SignaturePrinter pr = new SignaturePrinter ();

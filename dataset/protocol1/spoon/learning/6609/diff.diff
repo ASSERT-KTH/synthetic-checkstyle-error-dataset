@@ -1,0 +1,5 @@
+23,24c23
+< import spoon.reflect.reference.CtLocalVariableReference;
+< import spoon.reflect.visitor.CtVisitor;
+---
+> import spoon.reflect.reference.CtLocalVariableReference;import spoon.reflect.visitor.CtVisitor;

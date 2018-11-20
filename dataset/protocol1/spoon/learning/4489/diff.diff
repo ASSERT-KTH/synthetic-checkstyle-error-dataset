@@ -1,0 +1,4 @@
+59c59
+< 	void end(Process process);
+---
+> 	void end( Process process);

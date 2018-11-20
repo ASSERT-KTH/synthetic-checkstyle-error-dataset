@@ -1,0 +1,4 @@
+134c134
+< 				if (factory.getEnvironment().getSpoonProgress() != null) {
+---
+> 				if (factory.getEnvironment().getSpoonProgress	() != null) {

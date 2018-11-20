@@ -1,0 +1,4 @@
+318c318
+< 	private void sendResultWithListener(CtTypeReference<?> classRef, boolean isClass, CtConsumer<Object> outputConsumer, CtConsumer<CtTypeReference<?>> runNext) {
+---
+> 	private void sendResultWithListener(CtTypeReference<?> classRef, boolean isClass, CtConsumer	<Object> outputConsumer, CtConsumer<CtTypeReference<?>> runNext) {

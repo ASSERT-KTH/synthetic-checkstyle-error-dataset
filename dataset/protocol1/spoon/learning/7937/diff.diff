@@ -1,0 +1,4 @@
+96c96
+< 			return query.isTerminated();
+---
+> 			return query.isTerminated	();

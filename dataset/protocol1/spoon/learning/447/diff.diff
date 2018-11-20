@@ -1,0 +1,4 @@
+157c157
+< 		Collection<CtMethod<Void>> methods = new ArrayList<>();
+---
+> 		Collection<CtMethod<Void>> methods =new ArrayList<>();

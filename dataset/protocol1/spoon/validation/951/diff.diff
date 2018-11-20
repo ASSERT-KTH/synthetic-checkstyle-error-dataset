@@ -1,0 +1,4 @@
+322c322
+< 		scan(CtRole.COMMENT, caseStatement.getComments());
+---
+> 		scan( CtRole.COMMENT, caseStatement.getComments());

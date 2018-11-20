@@ -1,0 +1,4 @@
+248c248
+< 					jdtCompiler.getEnvironment().getSpoonProgress().step(SpoonProgress.Process.COMPILE, currentElement, totalTask - remaining, totalTask);
+---
+> 					jdtCompiler.getEnvironment().getSpoonProgress	().step(SpoonProgress.Process.COMPILE, currentElement, totalTask - remaining, totalTask);

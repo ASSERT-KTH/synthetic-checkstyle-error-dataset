@@ -1,0 +1,4 @@
+87c87
+< 		biScan(null, element, other);
+---
+> 		biScan(null,element, other);

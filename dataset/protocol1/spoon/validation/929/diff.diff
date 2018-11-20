@@ -1,0 +1,5 @@
+51,52c51
+< 	public CtPackageDeclarationImpl clone() {
+< 		return (CtPackageDeclarationImpl) super.clone();
+---
+> 	public CtPackageDeclarationImpl clone() {		return (CtPackageDeclarationImpl) super.clone();

@@ -1,0 +1,4 @@
+141c141
+< 		getFactory().getEnvironment().getModelChangeListener().onListAdd(this, CtRole.MULTI_TYPE, this.types, type);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onListAdd(this , CtRole.MULTI_TYPE, this.types, type);

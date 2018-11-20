@@ -1,0 +1,5 @@
+39,40c39
+< 	ScanningMode(boolean visitElement, boolean visitChildren) {
+< 		this.visitElement = visitElement;
+---
+> 	ScanningMode(boolean visitElement, boolean visitChildren) {		this.visitElement = visitElement;

@@ -1,0 +1,4 @@
+43c43
+< 				&& processor.getProcessedElementTypes() != null) {
+---
+> 				&& processor. getProcessedElementTypes() != null) {

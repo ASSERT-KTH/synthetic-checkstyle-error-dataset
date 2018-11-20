@@ -1,0 +1,4 @@
+220c220
+< 				assert executableJDT != null;
+---
+> 				assert executableJDT!= null;

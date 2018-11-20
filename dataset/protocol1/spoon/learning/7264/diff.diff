@@ -1,0 +1,4 @@
+38c38
+< public interface CtCompilationUnit extends CtElement {
+---
+>  public interface CtCompilationUnit extends CtElement {

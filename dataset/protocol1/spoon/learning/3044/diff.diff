@@ -1,0 +1,5 @@
+230c230,231
+< 				for (int j = statementsToBeInserted.getStatements().size() - 1; j >= 0; j--) {
+---
+> 				for (int j = statementsToBeInserted.getStatements().size
+> () - 1; j >= 0; j--) {

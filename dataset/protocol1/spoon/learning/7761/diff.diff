@@ -1,0 +1,4 @@
+54c54
+< 		CtExecutable<?> exec = parameter.getParent(CtExecutable.class);
+---
+> 		CtExecutable<?> exec = parameter.getParent(CtExecutable.	class);

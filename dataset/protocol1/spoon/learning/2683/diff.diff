@@ -1,0 +1,4 @@
+68c68
+< 	public boolean isSubtypeOf(CtTypeReference<?> type) {
+---
+> 	public boolean isSubtypeOf( CtTypeReference<?> type) {

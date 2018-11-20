@@ -1,0 +1,4 @@
+226c226
+< 	public Set<CtExtendedModifier> getExtendedModifiers() {
+---
+> 	public Set<CtExtendedModifier	> getExtendedModifiers() {

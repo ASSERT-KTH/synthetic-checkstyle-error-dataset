@@ -1,0 +1,4 @@
+25c25
+< 		if (processors == null || processors.isEmpty()) {
+---
+> 		if (processors== null || processors.isEmpty()) {

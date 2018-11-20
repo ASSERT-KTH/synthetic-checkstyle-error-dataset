@@ -1,0 +1,4 @@
+1825c1825
+< 	public <T> void visitCtNewArray(final spoon.reflect.code.CtNewArray<T> newArray) {
+---
+> 	public <T> void visitCtNewArray(final spoon.reflect.code.CtNewArray<T> newArray){

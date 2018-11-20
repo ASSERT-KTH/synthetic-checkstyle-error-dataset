@@ -1,0 +1,5 @@
+33c33,34
+< 		while (cur >= 0 && getOriginalSourceCode().charAt(cur) != '\n') {
+---
+> 		while 
+> (cur >= 0 && getOriginalSourceCode().charAt(cur) != '\n') {

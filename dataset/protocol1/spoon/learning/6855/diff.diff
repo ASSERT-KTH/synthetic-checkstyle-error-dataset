@@ -1,0 +1,4 @@
+39c39
+< 			char c = text.charAt(i);
+---
+> 			char c = text. charAt(i);

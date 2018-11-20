@@ -1,0 +1,4 @@
+39c39
+< 		ByteArrayInputStream bi = new ByteArrayInputStream(serializedObject);
+---
+> 		ByteArrayInputStream bi = new ByteArrayInputStream(serializedObject)	;

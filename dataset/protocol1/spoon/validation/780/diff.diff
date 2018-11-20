@@ -1,0 +1,4 @@
+49c49
+< 	public CtFieldReference<T> getVariable() {
+---
+> 	public CtFieldReference<T>getVariable() {

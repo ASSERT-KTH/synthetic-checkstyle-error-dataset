@@ -1,0 +1,5 @@
+1783c1783,1784
+< 		replaceElementIfExist(reference.getType(), new spoon.support.visitor.replace.ReplacementVisitor.CtVariableReferenceTypeReplaceListener(reference));
+---
+> 		replaceElementIfExist(reference.getType
+> (), new spoon.support.visitor.replace.ReplacementVisitor.CtVariableReferenceTypeReplaceListener(reference));

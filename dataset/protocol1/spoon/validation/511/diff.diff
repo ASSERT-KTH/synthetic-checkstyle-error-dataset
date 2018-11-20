@@ -1,0 +1,4 @@
+162c162
+< 			if (peek.getKind() != null) {
+---
+> 			if(peek.getKind() != null) {

@@ -1,0 +1,4 @@
+111c111
+< 		if (isImplicit() && this.statements.size() > 1) {
+---
+> 		if (isImplicit() && this.statements.size() >1) {

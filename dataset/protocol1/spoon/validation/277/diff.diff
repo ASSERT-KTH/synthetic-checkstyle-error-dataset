@@ -1,0 +1,4 @@
+72c72
+< 	<T extends CtType<?>> T generateType(String typeQualifiedName, Map<String, Object> params);
+---
+> 	<T extends CtType<?>> T generateType(String typeQualifiedName, Map<String, Object> params	);

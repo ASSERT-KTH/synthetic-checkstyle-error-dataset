@@ -1,0 +1,5 @@
+53,54c53
+< 	public SourcePositionHolder getElement() {
+< 		return comment;
+---
+> 	public SourcePositionHolder getElement() {		return comment;

@@ -1,0 +1,4 @@
+75c75
+< 			fail(role, elements, others);
+---
+> 			fail (role, elements, others);

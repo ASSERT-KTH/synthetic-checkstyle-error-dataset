@@ -1,0 +1,4 @@
+71c71
+< 	public TemplateMatcher(CtElement templateRoot, CtClass<?> templateType) {
+---
+> 	public TemplateMatcher (CtElement templateRoot, CtClass<?> templateType) {

@@ -1,0 +1,4 @@
+36c36
+< 	private Map<String, CtTypeParameter> mapTypeParameters;
+---
+> 	private Map	<String, CtTypeParameter> mapTypeParameters;

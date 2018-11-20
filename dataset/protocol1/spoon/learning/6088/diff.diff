@@ -1,0 +1,5 @@
+208,209c208
+< 		}
+< 		return getBoundingType() != null && getBoundingType().isGenerics();
+---
+> 		}		return getBoundingType() != null && getBoundingType().isGenerics();

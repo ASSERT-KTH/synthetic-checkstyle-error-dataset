@@ -1,0 +1,5 @@
+136c136,137
+< 					throw new SpoonException("post condition broken " + reference);
+---
+> 					throw new SpoonException("post condition broken " + reference)
+> ;

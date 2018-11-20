@@ -1,0 +1,4 @@
+22c22
+< public class CtFieldReadImpl<T> extends CtFieldAccessImpl<T> implements CtFieldRead<T> {
+---
+> public class CtFieldReadImpl<T>extends CtFieldAccessImpl<T> implements CtFieldRead<T> {

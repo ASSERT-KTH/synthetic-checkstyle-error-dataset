@@ -1,0 +1,4 @@
+780c780
+< 	<T> CtArrayTypeReference<T[]> createArrayReference(CtType<T> type);
+---
+> 	<T> CtArrayTypeReference<T[]> createArrayReference(CtType<T> type );

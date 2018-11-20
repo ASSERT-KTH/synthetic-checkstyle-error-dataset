@@ -1,0 +1,5 @@
+21c21,22
+< import spoon.support.compiler.SnippetCompilationError;
+---
+> import spoon.support.compiler.SnippetCompilationError
+> ;

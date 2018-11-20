@@ -1,0 +1,5 @@
+84c84,85
+< 		if ((type.getActualClass() == float.class) || (type.getActualClass() == Float.class)) {
+---
+> 		if ((type.getActualClass() 
+> == float.class) || (type.getActualClass() == Float.class)) {

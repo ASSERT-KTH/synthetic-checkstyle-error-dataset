@@ -1,0 +1,5 @@
+108,109c108
+< 				public boolean matches(CtElement element) {
+< 					if (element instanceof CtType) {
+---
+> 				public boolean matches(CtElement element) {					if (element instanceof CtType) {

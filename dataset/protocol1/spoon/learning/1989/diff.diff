@@ -1,0 +1,4 @@
+85c85
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, THEN, thenExpression, this.thenExpression);
+---
+> 		getFactory().getEnvironment(). getModelChangeListener().onObjectUpdate(this, THEN, thenExpression, this.thenExpression);

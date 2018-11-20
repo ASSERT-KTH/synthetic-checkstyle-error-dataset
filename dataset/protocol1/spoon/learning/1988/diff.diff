@@ -1,0 +1,4 @@
+852c852
+< 		getFactory().getEnvironment().setBinaryOutputDirectory(path);
+---
+> 		getFactory().getEnvironment().setBinaryOutputDirectory(path );

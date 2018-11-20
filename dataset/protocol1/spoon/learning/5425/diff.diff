@@ -1,0 +1,4 @@
+27c27
+< public class PartialSourcePositionImpl extends NoSourcePosition {
+---
+> public class PartialSourcePositionImpl extends NoSourcePosition{

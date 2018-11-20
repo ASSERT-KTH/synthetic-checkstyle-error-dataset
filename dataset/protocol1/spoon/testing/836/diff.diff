@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.reflect.declaration.CtParameter;
+< import spoon.support.DerivedProperty;
+---
+> import spoon.reflect.declaration.CtParameter;import spoon.support.DerivedProperty;

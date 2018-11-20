@@ -1,0 +1,5 @@
+57c57,58
+< 		if (name == null || name.isEmpty()) {
+---
+> 		if (name == null || name.isEmpty
+> ()) {

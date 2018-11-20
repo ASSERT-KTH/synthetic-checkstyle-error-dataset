@@ -1,0 +1,4 @@
+66c66
+< 	List<CtCase<? super S>> getCases();
+---
+> 	List<CtCase<? super S>	> getCases();

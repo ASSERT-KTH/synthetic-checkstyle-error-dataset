@@ -1,0 +1,5 @@
+37c37,38
+< 			E e = iterator.next();
+---
+> 			
+> E e = iterator.next();

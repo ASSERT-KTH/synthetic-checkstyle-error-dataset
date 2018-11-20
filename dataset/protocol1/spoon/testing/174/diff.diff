@@ -1,0 +1,4 @@
+30c30
+< 	public String getName() {
+---
+> 	public String getName(){

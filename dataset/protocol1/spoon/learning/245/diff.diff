@@ -1,0 +1,5 @@
+22,23c22
+< import spoon.reflect.declaration.ParentNotInitializedException;
+< import spoon.reflect.reference.CtCatchVariableReference;
+---
+> import spoon.reflect.declaration.ParentNotInitializedException;import spoon.reflect.reference.CtCatchVariableReference;

@@ -1,0 +1,5 @@
+43c43,44
+< 	CtExpression<S> getCaseExpression();
+---
+> 	CtExpression<S> 
+> getCaseExpression();

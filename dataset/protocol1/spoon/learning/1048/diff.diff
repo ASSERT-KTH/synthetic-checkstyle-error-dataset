@@ -1,0 +1,4 @@
+45c45
+< 	public <T extends CtThrow> T setThrownExpression(CtExpression<? extends Throwable> expression) {
+---
+> 	public <T extends CtThrow> T setThrownExpression(CtExpression<? extends Throwable>expression) {

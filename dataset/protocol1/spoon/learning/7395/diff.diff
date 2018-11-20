@@ -1,0 +1,5 @@
+108c108,109
+< 	private Map<TypeBinding, CtTypeReference> exploringParameterizedBindings = new HashMap<>();
+---
+> 	private 
+> Map<TypeBinding, CtTypeReference> exploringParameterizedBindings = new HashMap<>();

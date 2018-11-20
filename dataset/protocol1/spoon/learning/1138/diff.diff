@@ -1,0 +1,4 @@
+166c166
+< 		if (isTerminated() || o == null) {
+---
+> 		if (	isTerminated() || o == null) {

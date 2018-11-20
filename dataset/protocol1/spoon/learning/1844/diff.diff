@@ -1,0 +1,4 @@
+59c59
+< 		while (parent != null && parent != topLevel && query.isTerminated() == false && parent.isParentInitialized()) {
+---
+> 		while (parent != null && parent!= topLevel && query.isTerminated() == false && parent.isParentInitialized()) {

@@ -1,0 +1,4 @@
+687c687
+< 		CtVariableWrite<T> e = new CtVariableWriteImpl<>();
+---
+> 		CtVariableWrite<T> e =new CtVariableWriteImpl<>();

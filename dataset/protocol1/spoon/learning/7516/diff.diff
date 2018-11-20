@@ -1,0 +1,5 @@
+50,51c50
+< 	public static TemplateBuilder createPattern(CtElement templateRoot, Template<?> template) {
+< 		CtClass<? extends Template<?>> templateType = Substitution.getTemplateCtClass(templateRoot.getFactory(), template);
+---
+> 	public static TemplateBuilder createPattern(CtElement templateRoot, Template<?> template) {		CtClass<? extends Template<?>> templateType = Substitution.getTemplateCtClass(templateRoot.getFactory(), template);

@@ -1,0 +1,5 @@
+50c50,51
+< 	void printSourceFragment(SourceFragment fragment, Boolean isModified);
+---
+> 	void printSourceFragment(SourceFragment fragment, 
+> Boolean isModified);

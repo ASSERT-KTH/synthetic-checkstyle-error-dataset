@@ -1,0 +1,4 @@
+38c38
+< 	<T> void generateInlineTargets(DefaultGenerator generator, ResultHolder<T> result, ImmutableMap parameters);
+---
+> 	<T> void generateInlineTargets(DefaultGenerator generator, ResultHolder<T	> result, ImmutableMap parameters);

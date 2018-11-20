@@ -1,0 +1,4 @@
+49c49
+< 	public Class<CtElement> getType() {
+---
+> 	 public Class<CtElement> getType() {

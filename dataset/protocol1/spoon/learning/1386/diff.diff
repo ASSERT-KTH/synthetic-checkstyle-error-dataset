@@ -1,0 +1,4 @@
+28c28
+< 	public ProgressLogger(StandardEnvironment environment) {
+---
+> 	public ProgressLogger(	StandardEnvironment environment) {

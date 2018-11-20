@@ -1,0 +1,5 @@
+178c178,179
+< 	private Map<MetamodelProperty, RootNode> roleToNode = new HashMap<>();
+---
+> 	private 
+> Map<MetamodelProperty, RootNode> roleToNode = new HashMap<>();

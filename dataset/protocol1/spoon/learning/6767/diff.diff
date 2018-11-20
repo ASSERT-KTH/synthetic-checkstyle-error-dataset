@@ -1,0 +1,4 @@
+105c105
+< 		if (formalTypeParameters == null || formalTypeParameters.isEmpty()) {
+---
+> 		if (formalTypeParameters ==null || formalTypeParameters.isEmpty()) {

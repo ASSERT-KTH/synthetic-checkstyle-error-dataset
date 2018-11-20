@@ -1,0 +1,4 @@
+102c102
+< 		List<V> values = new ArrayList<>(this.<T, List<V>>getValue(element));
+---
+> 		List<V> values = new ArrayList <>(this.<T, List<V>>getValue(element));

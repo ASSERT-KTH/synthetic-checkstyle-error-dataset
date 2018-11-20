@@ -1,0 +1,5 @@
+1034c1034,1035
+< 				ref.setPackage(jdtTreeBuilder.getContextBuilder().compilationUnitSpoon.getDeclaredPackage().getReference());
+---
+> 				ref.setPackage(jdtTreeBuilder.getContextBuilder().compilationUnitSpoon.getDeclaredPackage
+> ().getReference());

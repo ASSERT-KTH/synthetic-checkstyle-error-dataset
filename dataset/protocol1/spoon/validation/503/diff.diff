@@ -1,0 +1,4 @@
+40c40
+< 	<C extends CtCodeSnippet> C setValue(String value);
+---
+> 	<	C extends CtCodeSnippet> C setValue(String value);

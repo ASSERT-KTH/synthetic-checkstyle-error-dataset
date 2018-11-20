@@ -1,5 +1,0 @@
-36c36,37
-< 	public SpoonPom getPomFile() {
----
-> 	public SpoonPom getPomFile
-> () {

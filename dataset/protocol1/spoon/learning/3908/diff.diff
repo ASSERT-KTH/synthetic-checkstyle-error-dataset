@@ -1,0 +1,4 @@
+126c126
+< 		if (method.getDeclaringType().getSimpleName().endsWith("Impl")) {
+---
+> 		if (method. getDeclaringType().getSimpleName().endsWith("Impl")) {

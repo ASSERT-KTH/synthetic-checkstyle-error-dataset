@@ -1,0 +1,4 @@
+45c45
+< 	CtExpression<Boolean> getCondition();
+---
+> 	CtExpression	<Boolean> getCondition();

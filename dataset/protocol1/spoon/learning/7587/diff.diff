@@ -1,0 +1,4 @@
+45c45
+< 		return (List<T>) filtered;
+---
+> 		return (List <T>) filtered;

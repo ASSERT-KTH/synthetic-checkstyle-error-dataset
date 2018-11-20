@@ -1,0 +1,4 @@
+103c103
+< 		boolean ret = values.remove(value);
+---
+> 		boolean ret = values.	remove(value);

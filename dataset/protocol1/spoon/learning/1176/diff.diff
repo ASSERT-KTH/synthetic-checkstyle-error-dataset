@@ -1,0 +1,4 @@
+91c91
+< 				String methodOrFieldName = importName.substring(lastDot + 1);
+---
+> 				String methodOrFieldName =importName.substring(lastDot + 1);

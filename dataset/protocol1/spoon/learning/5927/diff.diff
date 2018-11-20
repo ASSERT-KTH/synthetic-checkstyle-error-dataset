@@ -1,0 +1,5 @@
+25c25,26
+< import static spoon.reflect.path.CtRole.LEFT_OPERAND;
+---
+> import 
+> static spoon.reflect.path.CtRole.LEFT_OPERAND;

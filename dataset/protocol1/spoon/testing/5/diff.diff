@@ -1,0 +1,5 @@
+75c75,76
+< 		if (value != null && valueClass.isInstance(value) == false) {
+---
+> 		if (value 
+> != null && valueClass.isInstance(value) == false) {

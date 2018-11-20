@@ -1,0 +1,5 @@
+20c20,21
+< package spoon.support.template;
+---
+> package 
+> spoon.support.template;

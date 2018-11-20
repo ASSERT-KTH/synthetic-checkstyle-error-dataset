@@ -1,0 +1,4 @@
+539c539
+< 		if (directory == null) {
+---
+> 		if (directory ==null) {

@@ -1,0 +1,4 @@
+196c196
+< 			packs.addAll(getSubPackageList(p));
+---
+> 			packs.addAll(getSubPackageList(p ));

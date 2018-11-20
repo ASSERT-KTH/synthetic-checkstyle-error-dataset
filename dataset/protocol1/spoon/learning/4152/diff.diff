@@ -1,0 +1,4 @@
+231c231
+< 	<R> CtMethod<R> getMethod(CtTypeReference<R> returnType, String name, CtTypeReference<?>... parameterTypes);
+---
+> 	<R> CtMethod<R	> getMethod(CtTypeReference<R> returnType, String name, CtTypeReference<?>... parameterTypes);

@@ -1,0 +1,4 @@
+28c28
+< 		this.outputDir = outputDir;
+---
+> 		this. outputDir = outputDir;

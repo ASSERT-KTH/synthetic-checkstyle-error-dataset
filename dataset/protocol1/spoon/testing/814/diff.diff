@@ -1,0 +1,5 @@
+60c60,61
+< 	<T extends CtSwitch<S>> T setSelector(CtExpression<S> selector);
+---
+> 	
+> <T extends CtSwitch<S>> T setSelector(CtExpression<S> selector);

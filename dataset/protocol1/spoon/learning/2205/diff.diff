@@ -1,0 +1,4 @@
+46c46
+< 	protected ModelSet(Comparator<? super CtElement> comparator) {
+---
+> 	protected ModelSet(Comparator<? super CtElement	> comparator) {

@@ -1,0 +1,5 @@
+127c127,128
+< 		CtVariable<?> var = getTarget().map(potentialDeclarationFnc).first();
+---
+> 		CtVariable<?> var = getTarget().map(potentialDeclarationFnc).first()
+> ;

@@ -1,0 +1,4 @@
+38c38
+< 	@PropertyGetter(role = CtRole.PACKAGE_REF)
+---
+> 	@PropertyGetter(role = CtRole.	PACKAGE_REF)

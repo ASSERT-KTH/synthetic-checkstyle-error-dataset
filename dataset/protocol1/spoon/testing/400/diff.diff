@@ -1,0 +1,5 @@
+360,361c360
+< 	public <T> void visitCtFieldReference(final spoon.reflect.reference.CtFieldReference<T> reference) {
+< 		spoon.reflect.reference.CtFieldReference<T> aCtFieldReference = reference.getFactory().Core().createFieldReference();
+---
+> 	public <T> void visitCtFieldReference(final spoon.reflect.reference.CtFieldReference<T> reference) {		spoon.reflect.reference.CtFieldReference<T> aCtFieldReference = reference.getFactory().Core().createFieldReference();

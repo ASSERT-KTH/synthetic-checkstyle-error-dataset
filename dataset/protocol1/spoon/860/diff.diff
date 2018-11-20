@@ -1,4 +1,0 @@
-284c284
-< 	public static void insertAllNestedTypes(CtType<?> targetType, Template<?> template) {
----
-> 	public static void insertAllNestedTypes(CtType<?> targetType,Template<?> template) {

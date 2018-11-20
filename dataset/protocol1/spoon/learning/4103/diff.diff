@@ -1,0 +1,5 @@
+65,66c65
+< 			public Iterator<X> iterator() {
+< 				return (Iterator) SetHandler.this.iterator(element);
+---
+> 			public Iterator<X> iterator() {				return (Iterator) SetHandler.this.iterator(element);

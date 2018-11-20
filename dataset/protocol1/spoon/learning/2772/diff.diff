@@ -1,0 +1,5 @@
+82,83c82
+< 	public <C extends CtStatement> C insertBefore(CtStatementList statements) {
+< 		CtStatementImpl.insertBefore(this, statements);
+---
+> 	public <C extends CtStatement> C insertBefore(CtStatementList statements) {		CtStatementImpl.insertBefore(this, statements);

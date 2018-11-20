@@ -1,0 +1,4 @@
+46c46
+< 			result = (CtTypeReference<?>) type;
+---
+> 			result = (CtTypeReference<?>)type;

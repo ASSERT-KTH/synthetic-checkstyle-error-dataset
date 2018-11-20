@@ -1,0 +1,4 @@
+53c53
+< 		return (pos1 < pos2) ? -1 : 1;
+---
+> 		return (pos1 <pos2) ? -1 : 1;

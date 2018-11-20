@@ -1,4 +1,0 @@
-45c45
-< 		CtBlock<?> b;
----
-> 		CtBlock	<?> b;

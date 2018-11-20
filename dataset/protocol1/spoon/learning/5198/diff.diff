@@ -1,0 +1,4 @@
+23c23
+< public class FixedOrderBasedOnFileNameCompilationUnitComparator implements Comparator<CompilationUnitDeclaration> {
+---
+> public class FixedOrderBasedOnFileNameCompilationUnitComparator implements Comparator<	CompilationUnitDeclaration> {

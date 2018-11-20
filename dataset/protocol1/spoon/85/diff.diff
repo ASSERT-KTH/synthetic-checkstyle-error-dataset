@@ -1,5 +1,0 @@
-154c154,155
-< 	public static void canBeBuilt(String outputDirectory, int complianceLevel, boolean noClasspath) {
----
-> 	public static void canBeBuilt(String outputDirectory, int 
-> complianceLevel, boolean noClasspath) {

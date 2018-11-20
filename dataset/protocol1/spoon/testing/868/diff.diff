@@ -1,0 +1,4 @@
+27c27
+< 	CtVariableReference<?> variable;
+---
+> 	CtVariableReference<?> variable ;

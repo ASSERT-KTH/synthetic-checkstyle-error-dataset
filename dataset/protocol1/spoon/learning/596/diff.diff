@@ -1,0 +1,4 @@
+175c175
+< 	@PropertySetter(role = CtRole.PACKAGE_DECLARATION)
+---
+> 	@PropertySetter(role = CtRole. PACKAGE_DECLARATION)

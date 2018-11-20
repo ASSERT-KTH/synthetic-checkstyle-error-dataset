@@ -1,0 +1,4 @@
+116c116
+< 			jScrollPane.setViewportView(getJTree());
+---
+> 			jScrollPane.setViewportView(getJTree()	);

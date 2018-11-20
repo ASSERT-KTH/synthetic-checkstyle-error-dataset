@@ -1,0 +1,4 @@
+109c109
+< 	TokenWriter writeComment(CtComment comment);
+---
+> 	TokenWriter writeComment(CtComment comment) ;

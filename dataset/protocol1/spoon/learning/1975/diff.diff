@@ -1,0 +1,4 @@
+121c121
+< 			return next.matchAllWith(targets);
+---
+> 			return next.matchAllWith (targets);

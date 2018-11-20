@@ -1,0 +1,5 @@
+33,34c33
+< 	public FieldAccessFilter(CtFieldReference<?> field) {
+< 		super(field);
+---
+> 	public FieldAccessFilter(CtFieldReference<?> field) {		super(field);

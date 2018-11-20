@@ -1,0 +1,4 @@
+102c102
+< 			visitor.visitAllStaticMembersImport((CtTypeMemberWildcardImportReference) localReference);
+---
+> 			visitor.visitAllStaticMembersImport(	(CtTypeMemberWildcardImportReference) localReference);

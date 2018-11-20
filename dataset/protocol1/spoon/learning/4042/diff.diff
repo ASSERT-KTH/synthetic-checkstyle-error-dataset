@@ -1,0 +1,4 @@
+105c105
+< 		return type == ctComment.type;
+---
+> 		return type ==ctComment.type;

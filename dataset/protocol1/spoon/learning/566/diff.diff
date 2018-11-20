@@ -1,0 +1,5 @@
+64c64,65
+< 		if (m.getParameters().size() == 2 && "int".equals(m.getParameters().get(0).getType().getSimpleName())) {
+---
+> 		if 
+> (m.getParameters().size() == 2 && "int".equals(m.getParameters().get(0).getType().getSimpleName())) {

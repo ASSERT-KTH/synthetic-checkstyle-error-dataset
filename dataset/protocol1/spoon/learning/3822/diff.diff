@@ -1,0 +1,4 @@
+185c185
+< 			if (!printedFiles.contains(moduleFile)) {
+---
+> 			if (!printedFiles.contains(	moduleFile)) {

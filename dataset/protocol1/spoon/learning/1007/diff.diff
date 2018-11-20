@@ -1,0 +1,4 @@
+402c402
+< 	public <T> CtThisAccess<T> createThisAccess(CtTypeReference<T> type, boolean isImplicit) {
+---
+> 	public <T> CtThisAccess<T> createThisAccess( CtTypeReference<T> type, boolean isImplicit) {

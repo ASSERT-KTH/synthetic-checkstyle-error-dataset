@@ -1,0 +1,4 @@
+129c129
+< 		((spoon.reflect.code.CtBreak) (other)).setTargetLabel(e.getTargetLabel());
+---
+> 		((spoon.reflect.code.CtBreak) ( other)).setTargetLabel(e.getTargetLabel());

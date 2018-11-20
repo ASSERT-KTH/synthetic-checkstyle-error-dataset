@@ -1,0 +1,4 @@
+162c162
+< 		if (qualifiedName.contains(CtType.INNERTTYPE_SEPARATOR)) {
+---
+> 		if (qualifiedName.	contains(CtType.INNERTTYPE_SEPARATOR)) {

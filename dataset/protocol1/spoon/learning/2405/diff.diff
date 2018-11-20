@@ -1,0 +1,4 @@
+76c76
+< 				throw new SpoonException("There is already a parameter: " + parameter.getName());
+---
+> 				throw new SpoonException("There is already a parameter: " + parameter.getName ());

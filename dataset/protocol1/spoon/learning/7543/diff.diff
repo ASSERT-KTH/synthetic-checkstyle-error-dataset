@@ -1,0 +1,4 @@
+38c38
+< 	public ListPrinter(TokenWriter printerHelper, boolean startPrefixSpace, String start, boolean startSuffixSpace, boolean nextPrefixSpace, String next, boolean nextSuffixSpace, boolean endPrefixSpace, String end) {
+---
+> 	public ListPrinter(TokenWriter printerHelper, boolean startPrefixSpace, String start, boolean startSuffixSpace, boolean nextPrefixSpace,String next, boolean nextSuffixSpace, boolean endPrefixSpace, String end) {

@@ -1,0 +1,5 @@
+56,57c56
+< 			return (CtFieldReference<T>) fieldReference;
+< 		}
+---
+> 			return (CtFieldReference<T>) fieldReference;		}

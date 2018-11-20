@@ -1,0 +1,4 @@
+331c331
+< 		for (CtModuleRequirement moduleRequirement : requiredModules) {
+---
+> 		for(CtModuleRequirement moduleRequirement : requiredModules) {

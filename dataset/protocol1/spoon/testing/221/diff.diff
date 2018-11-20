@@ -1,0 +1,5 @@
+63,64c63
+< 	public int getEndColumn() {
+< 		throw new UnsupportedOperationException("PartialSourcePosition only contains a CompilationUnit");
+---
+> 	public int getEndColumn() {		throw new UnsupportedOperationException("PartialSourcePosition only contains a CompilationUnit");

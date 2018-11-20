@@ -1,0 +1,4 @@
+157c157
+< 	@PropertySetter(role = PROVIDED_SERVICE)
+---
+> 	 @PropertySetter(role = PROVIDED_SERVICE)

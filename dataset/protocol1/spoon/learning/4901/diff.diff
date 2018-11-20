@@ -1,0 +1,4 @@
+139c139
+< 			if (!classNameFilter.test(className)) {
+---
+> 			if (!classNameFilter.test(className )) {

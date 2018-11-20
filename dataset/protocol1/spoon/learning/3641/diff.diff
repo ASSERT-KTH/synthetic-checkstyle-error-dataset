@@ -1,0 +1,4 @@
+46c46
+< 	default boolean isMandatory(ImmutableMap parameters) {
+---
+> 	default boolean isMandatory(	ImmutableMap parameters) {

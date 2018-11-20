@@ -1,0 +1,4 @@
+33c33
+< 	CtFieldReference<T> getVariable();
+---
+> 	CtFieldReference<T> getVariable()	;

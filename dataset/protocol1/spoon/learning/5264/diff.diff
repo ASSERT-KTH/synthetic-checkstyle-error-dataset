@@ -1,0 +1,4 @@
+53c53
+< 	public <T extends CtSynchronized> T setBlock(CtBlock<?> block) {
+---
+> 	public <T extends CtSynchronized> T setBlock(CtBlock< ?> block) {

@@ -1,0 +1,4 @@
+99c99
+< 			getPrinterHelper().setShouldWriteTabs(false);
+---
+> 			getPrinterHelper().setShouldWriteTabs(false)	;

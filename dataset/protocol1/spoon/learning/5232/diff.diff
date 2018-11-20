@@ -1,0 +1,5 @@
+470c470,471
+< 			case FULLCLASSPATH:
+---
+> 			case 
+> FULLCLASSPATH:

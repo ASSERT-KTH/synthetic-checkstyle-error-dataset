@@ -1,0 +1,4 @@
+70c70
+< 	public boolean isTryNextMatch(ImmutableMap parameters) {
+---
+> 	public boolean isTryNextMatch (ImmutableMap parameters) {

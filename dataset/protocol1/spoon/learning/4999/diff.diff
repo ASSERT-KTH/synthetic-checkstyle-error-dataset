@@ -1,0 +1,5 @@
+76,77c76
+< 	public boolean matches(CtLambda<?> lambda) {
+< 		return qualifiedNamesOfInterfaces.contains(lambda.getType().getQualifiedName());
+---
+> 	public boolean matches(CtLambda<?> lambda) {		return qualifiedNamesOfInterfaces.contains(lambda.getType().getQualifiedName());

@@ -1,0 +1,5 @@
+33c33,34
+< 	public MapContext(CtElement element, CtRole role, Map<K, V> map) {
+---
+> 	public MapContext
+> (CtElement element, CtRole role, Map<K, V> map) {

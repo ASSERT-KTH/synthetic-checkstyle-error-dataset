@@ -1,0 +1,4 @@
+74c74
+< 	TokenWriter writeOperator(String token);
+---
+> 	TokenWriter writeOperator	(String token);

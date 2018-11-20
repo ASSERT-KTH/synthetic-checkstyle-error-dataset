@@ -1,0 +1,4 @@
+74c74
+< 	private String lowercase = null; // modifier name in lowercase
+---
+> 	 private String lowercase = null; // modifier name in lowercase

@@ -1,0 +1,4 @@
+37c37
+< 	List<CtTypeReference<?>> getBounds();
+---
+> 	List<CtTypeReference<?>>getBounds();

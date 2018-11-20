@@ -1,0 +1,4 @@
+87c87
+< 				for (CtTypeParameter typeParam : method.getFormalCtTypeParameters()) {
+---
+> 				for (CtTypeParameter typeParam : method.	getFormalCtTypeParameters()) {

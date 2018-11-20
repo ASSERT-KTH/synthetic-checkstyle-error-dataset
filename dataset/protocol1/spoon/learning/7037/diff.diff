@@ -1,0 +1,5 @@
+209c209,210
+< 		return this.moduleReference != null ? this.moduleReference.getDeclaration() : null;
+---
+> 		
+> return this.moduleReference != null ? this.moduleReference.getDeclaration() : null;

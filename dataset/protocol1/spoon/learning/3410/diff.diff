@@ -1,0 +1,4 @@
+38c38
+< 	public SourceFragmentContextSet(MutableTokenWriter mutableTokenWriter, CtElement element, List<SourceFragment> fragments, ChangeResolver changeResolver) {
+---
+> 	public SourceFragmentContextSet(MutableTokenWriter mutableTokenWriter,CtElement element, List<SourceFragment> fragments, ChangeResolver changeResolver) {

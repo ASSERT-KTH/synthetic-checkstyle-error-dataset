@@ -1,0 +1,4 @@
+34c34
+< 			if (f.getPath().matches(regex)) {
+---
+> 			if (	f.getPath().matches(regex)) {

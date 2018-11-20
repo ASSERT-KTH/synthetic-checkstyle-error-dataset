@@ -1,0 +1,4 @@
+203c203
+< 		if ((subType == null) || subType.equals(getDeclaringType())) {
+---
+> 		if ((subType ==null) || subType.equals(getDeclaringType())) {

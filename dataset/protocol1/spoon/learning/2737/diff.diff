@@ -1,0 +1,4 @@
+59c59
+< 	private int getLastWhiteSpaceBefore(int index) {
+---
+> 	private int getLastWhiteSpaceBefore(int index ) {

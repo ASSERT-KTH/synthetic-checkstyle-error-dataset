@@ -1,0 +1,5 @@
+50c50,51
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, DOCUMENTATION_TYPE, type, this.type);
+---
+> 		getFactory
+> ().getEnvironment().getModelChangeListener().onObjectUpdate(this, DOCUMENTATION_TYPE, type, this.type);

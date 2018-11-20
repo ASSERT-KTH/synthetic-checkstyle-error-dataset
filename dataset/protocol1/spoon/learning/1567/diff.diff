@@ -1,0 +1,4 @@
+268c268
+< 	public boolean isOverriding(CtMethod<?> thisMethod, CtMethod<?> thatMethod) {
+---
+> 	public boolean isOverriding(CtMethod<?>thisMethod, CtMethod<?> thatMethod) {

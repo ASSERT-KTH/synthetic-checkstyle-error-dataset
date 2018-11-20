@@ -1,0 +1,4 @@
+63c63
+< 	boolean removeResource(CtLocalVariable<?> resource);
+---
+> 	boolean removeResource(	CtLocalVariable<?> resource);

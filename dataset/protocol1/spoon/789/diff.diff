@@ -1,4 +1,0 @@
-26c26
-< 	protected AbstractCtElementAssert(CtElement actual, Class<?> selfType) {
----
-> 	protected AbstractCtElementAssert(CtElement actual, Class <?> selfType) {

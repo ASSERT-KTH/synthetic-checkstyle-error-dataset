@@ -1,0 +1,5 @@
+54c54,55
+< 	Collection<CtModule> getAllModules();
+---
+> 	Collection<CtModule> getAllModules()
+> ;

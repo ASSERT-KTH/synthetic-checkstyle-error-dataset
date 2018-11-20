@@ -1,0 +1,4 @@
+81c81
+< 			parameterScopeFunction.apply(parameter, outputConsumer);
+---
+> 			parameterScopeFunction.apply(parameter, outputConsumer) ;

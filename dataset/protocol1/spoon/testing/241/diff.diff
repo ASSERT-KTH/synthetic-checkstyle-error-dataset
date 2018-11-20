@@ -1,0 +1,4 @@
+58c58
+< 			throw new SpoonException("Unsupported variable of type " + e.getClass().getName());
+---
+> 			throw new SpoonException(	"Unsupported variable of type " + e.getClass().getName());

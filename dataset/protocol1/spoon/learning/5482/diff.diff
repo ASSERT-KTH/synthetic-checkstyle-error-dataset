@@ -1,0 +1,4 @@
+19c19
+< import spoon.support.compiler.SpoonPom;
+---
+> import spoon.support.	compiler.SpoonPom;

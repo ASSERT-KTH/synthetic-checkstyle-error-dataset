@@ -1,0 +1,5 @@
+20c20,21
+< import spoon.reflect.declaration.CtImport;
+---
+> import spoon.reflect.declaration.CtImport
+> ;

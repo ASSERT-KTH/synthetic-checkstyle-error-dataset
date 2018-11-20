@@ -1,0 +1,5 @@
+452,453c452
+< 		}
+< 		if (allocationExpression.type == null) {
+---
+> 		}		if (allocationExpression.type == null) {

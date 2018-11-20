@@ -1,0 +1,4 @@
+20c20
+< import spoon.reflect.declaration.CtAnnotation;
+---
+> import spoon.	reflect.declaration.CtAnnotation;

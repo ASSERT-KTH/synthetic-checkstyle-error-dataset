@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "1825", "column": "89", "message": "'{' is not preceded with whitespace.", "type": "WhitespaceAround"}

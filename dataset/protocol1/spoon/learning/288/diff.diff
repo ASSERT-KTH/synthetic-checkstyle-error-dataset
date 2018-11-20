@@ -1,0 +1,4 @@
+27c27
+< import static spoon.reflect.path.CtRole.CAST;
+---
+> import static spoon.reflect.	path.CtRole.CAST;

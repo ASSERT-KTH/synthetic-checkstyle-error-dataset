@@ -1,0 +1,4 @@
+87c87
+< 				throw new SpoonException("The input of " + getClass().getSimpleName() + " must be a " + variableClass.getSimpleName() + " but is " + scope.getClass().getSimpleName());
+---
+> 				throw new SpoonException("The input of " + getClass().getSimpleName() + " must be a "+ variableClass.getSimpleName() + " but is " + scope.getClass().getSimpleName());

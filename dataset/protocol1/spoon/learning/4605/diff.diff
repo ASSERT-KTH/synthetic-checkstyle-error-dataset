@@ -1,0 +1,5 @@
+100c100,101
+< 	<E extends CtJavaDocTag> E setType(String type);
+---
+> 	<E extends CtJavaDocTag> E setType(String type)
+> ;

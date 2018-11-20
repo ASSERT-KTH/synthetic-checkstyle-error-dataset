@@ -1,0 +1,5 @@
+61c61,62
+< 		throw new SpoonException("Unexpected RoleHandler containerKind: " + containerKind);
+---
+> 		throw new 
+> SpoonException("Unexpected RoleHandler containerKind: " + containerKind);

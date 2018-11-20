@@ -1,0 +1,5 @@
+289,290c289
+< 	public <T extends CtStatement> T setLabel(String label) {
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, LABEL, label, this.label);
+---
+> 	public <T extends CtStatement> T setLabel(String label) {		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, LABEL, label, this.label);

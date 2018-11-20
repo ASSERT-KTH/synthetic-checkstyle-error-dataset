@@ -1,0 +1,4 @@
+55c55
+< 	<C extends CtUnaryOperator> C setKind(UnaryOperatorKind kind);
+---
+> 	 <C extends CtUnaryOperator> C setKind(UnaryOperatorKind kind);

@@ -1,0 +1,4 @@
+38c38
+< public interface CtTypeReference<T> extends CtReference, CtActualTypeContainer, CtTypeInformation, CtShadowable {
+---
+> public interface CtTypeReference <T> extends CtReference, CtActualTypeContainer, CtTypeInformation, CtShadowable {

@@ -1,0 +1,4 @@
+54c54
+< 		super(mutableTokenWriter, changeResolver, rootFragment.getGroupedChildrenFragments());
+---
+> 		super(mutableTokenWriter, changeResolver, rootFragment.getGroupedChildrenFragments ());

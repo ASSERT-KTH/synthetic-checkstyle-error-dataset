@@ -1,0 +1,4 @@
+88c88
+< import spoon.reflect.reference.CtArrayTypeReference;
+---
+> import spoon.reflect.reference. CtArrayTypeReference;

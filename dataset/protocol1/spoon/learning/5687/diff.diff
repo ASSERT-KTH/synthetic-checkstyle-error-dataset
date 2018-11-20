@@ -1,0 +1,4 @@
+98c98
+< 	public <T> CtInterface<T> get(Class<?> cl) {
+---
+> 	public <T> CtInterface<T> get(	Class<?> cl) {

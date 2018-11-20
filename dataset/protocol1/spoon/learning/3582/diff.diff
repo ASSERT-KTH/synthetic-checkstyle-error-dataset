@@ -1,0 +1,4 @@
+27c27
+< import spoon.support.visitor.SubInheritanceHierarchyResolver;
+---
+> import spoon.support.visitor.SubInheritanceHierarchyResolver	;

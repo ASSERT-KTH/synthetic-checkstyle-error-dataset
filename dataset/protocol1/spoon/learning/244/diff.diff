@@ -1,0 +1,4 @@
+64c64
+< 	public CtCodeElement getSubstitution(CtType<?> targetType) {
+---
+> 	public CtCodeElement getSubstitution	(CtType<?> targetType) {

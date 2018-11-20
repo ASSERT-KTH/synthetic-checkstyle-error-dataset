@@ -1,0 +1,4 @@
+535c535
+< 			printer.writeSpace().writeKeyword(startKeyword).writeSpace();
+---
+> 			printer.writeSpace().writeKeyword(startKeyword).writeSpace()	;

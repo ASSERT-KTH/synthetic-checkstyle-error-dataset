@@ -1,0 +1,4 @@
+45c45
+< 	public String getToken() {
+---
+> 	public String getToken(){

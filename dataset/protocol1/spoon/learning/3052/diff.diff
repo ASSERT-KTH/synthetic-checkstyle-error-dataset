@@ -1,0 +1,4 @@
+31c31
+< 	CompilationUnitWrapper(CtType type) {
+---
+> 	CompilationUnitWrapper(CtType type	) {

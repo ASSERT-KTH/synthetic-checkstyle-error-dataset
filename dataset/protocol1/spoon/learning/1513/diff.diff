@@ -1,0 +1,4 @@
+135c135
+< 			CtTypeReference ctTypeReference = jdtTreeBuilder.getReferencesBuilder().<Throwable>getTypeReference(typeReference.resolvedType);
+---
+> 			CtTypeReference ctTypeReference= jdtTreeBuilder.getReferencesBuilder().<Throwable>getTypeReference(typeReference.resolvedType);

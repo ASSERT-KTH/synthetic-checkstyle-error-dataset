@@ -1,0 +1,4 @@
+912c912
+< 			ref = this.jdtTreeBuilder.getFactory().Type().createIntersectionTypeReferenceWithBounds(bounds);
+---
+> 			ref = this.	jdtTreeBuilder.getFactory().Type().createIntersectionTypeReferenceWithBounds(bounds);

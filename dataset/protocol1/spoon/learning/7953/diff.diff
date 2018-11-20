@@ -1,0 +1,4 @@
+842c842
+< 	CtAnnotationType createAnnotationType(CtPackage owner, String simpleName);
+---
+> 	CtAnnotationType createAnnotationType(CtPackage owner, String simpleName );

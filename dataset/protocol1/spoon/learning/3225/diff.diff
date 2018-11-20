@@ -1,0 +1,5 @@
+51,52c51
+< 	public <T> CtInterface<T> create(CtType<T> owner, String simpleName) {
+< 		CtInterface<T> ctInterface = factory.Core().createInterface();
+---
+> 	public <T> CtInterface<T> create(CtType<T> owner, String simpleName) {		CtInterface<T> ctInterface = factory.Core().createInterface();

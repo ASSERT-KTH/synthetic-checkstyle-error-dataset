@@ -1,0 +1,4 @@
+44c44
+< 		this.includingSelf = includingSelf;
+---
+> 		this.includingSelf = includingSelf	;

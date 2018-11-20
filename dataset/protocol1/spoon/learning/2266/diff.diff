@@ -1,0 +1,4 @@
+57c57
+< 		List<SpoonFile> allFiles = sources.getAllJavaFiles();
+---
+> 		List<SpoonFile>allFiles = sources.getAllJavaFiles();

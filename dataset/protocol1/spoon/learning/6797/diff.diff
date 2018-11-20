@@ -1,0 +1,4 @@
+19c19
+< import spoon.SpoonException;
+---
+> import spoon.	SpoonException;

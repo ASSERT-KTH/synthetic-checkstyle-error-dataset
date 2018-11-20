@@ -1,0 +1,4 @@
+67c67
+< 				throw new AssertionError(String.format("%1$s and %2$s aren't equals.", currentActual.getQualifiedName(), currentExpected.getQualifiedName()));
+---
+> 				throw new AssertionError(String.format("%1$s and %2$s aren't equals.", currentActual.getQualifiedName() , currentExpected.getQualifiedName()));

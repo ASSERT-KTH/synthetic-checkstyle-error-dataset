@@ -1,0 +1,4 @@
+178c178
+< 	public <T extends CtStatementList> T addStatement(CtStatement statement) {
+---
+> 	public <T extends CtStatementList> T addStatement(CtStatement statement){

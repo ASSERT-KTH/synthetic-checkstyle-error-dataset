@@ -1,0 +1,4 @@
+101c101
+< 			.forEach(this::byElement);
+---
+> 			.forEach(this::byElement	);

@@ -1,0 +1,4 @@
+80c80
+< 	public <T extends CtReference> T setSimpleName(String simplename) {
+---
+> 	public <	T extends CtReference> T setSimpleName(String simplename) {

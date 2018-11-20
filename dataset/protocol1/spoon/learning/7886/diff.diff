@@ -1,0 +1,4 @@
+128c128
+< 					klass = this.factory.Type().get(zeClass);
+---
+> 					klass = this.factory.Type().get(zeClass)	;

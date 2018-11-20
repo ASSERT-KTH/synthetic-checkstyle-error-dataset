@@ -1,0 +1,4 @@
+108c108
+< 			if (matcher instanceof ElementNode) {
+---
+> 			if(matcher instanceof ElementNode) {

@@ -1,0 +1,4 @@
+34c34
+< 	@PropertyGetter(role = NAME)
+---
+> 	@PropertyGetter(role =NAME)

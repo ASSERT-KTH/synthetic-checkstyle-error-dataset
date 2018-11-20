@@ -1,0 +1,4 @@
+30c30
+< public interface CtAnnotationType<T extends Annotation> extends CtType<T> {
+---
+> public interface CtAnnotationType<T extends Annotation	> extends CtType<T> {

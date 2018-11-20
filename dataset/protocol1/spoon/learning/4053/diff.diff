@@ -1,0 +1,4 @@
+51c51
+< 	<T extends CtReference> T setSimpleName(String simpleName);
+---
+> 	<T extends CtReference> T setSimpleName(	String simpleName);

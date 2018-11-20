@@ -1,0 +1,5 @@
+132c132,133
+< 		for (CtElement ctElement : template) {
+---
+> 		for (CtElement 
+> ctElement : template) {

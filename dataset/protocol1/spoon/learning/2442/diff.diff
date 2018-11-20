@@ -1,0 +1,5 @@
+24c24,25
+< import static spoon.reflect.path.CtRole.BOUND;
+---
+> import static 
+> spoon.reflect.path.CtRole.BOUND;

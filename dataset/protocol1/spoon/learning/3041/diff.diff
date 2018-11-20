@@ -1,0 +1,4 @@
+394c394
+< 				CtCase previous = null;
+---
+> 				CtCase previous= null;

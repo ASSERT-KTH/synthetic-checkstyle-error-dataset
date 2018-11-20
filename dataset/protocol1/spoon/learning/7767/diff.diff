@@ -1,0 +1,4 @@
+31c31
+< import static spoon.reflect.path.CtRole.NESTED_TYPE;
+---
+> import static spoon.reflect.path.CtRole.NESTED_TYPE	;

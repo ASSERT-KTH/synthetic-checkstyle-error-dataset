@@ -1,0 +1,4 @@
+34c34
+< 	void setFactory(Factory factory);
+---
+> 	void setFactory(Factory factory) ;

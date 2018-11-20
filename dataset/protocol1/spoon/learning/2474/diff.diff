@@ -1,0 +1,4 @@
+1084c1084
+< 	private boolean visitTypeParameter(TypeParameter typeParameter, Scope scope) {
+---
+> 	private boolean visitTypeParameter(TypeParameter typeParameter, Scope scope){

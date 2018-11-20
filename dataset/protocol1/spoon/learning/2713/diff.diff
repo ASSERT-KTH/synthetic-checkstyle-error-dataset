@@ -1,0 +1,4 @@
+64c64
+< 			return element.equals(anIf.getThenStatement()) || element.equals(anIf.getElseStatement());
+---
+> 			return element.equals(	anIf.getThenStatement()) || element.equals(anIf.getElseStatement());

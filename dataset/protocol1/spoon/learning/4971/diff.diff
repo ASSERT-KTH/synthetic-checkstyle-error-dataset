@@ -1,0 +1,4 @@
+50c50
+< 		this.executable = executable;
+---
+> 		this.executable = executable ;

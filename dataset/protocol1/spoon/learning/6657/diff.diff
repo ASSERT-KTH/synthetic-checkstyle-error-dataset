@@ -1,0 +1,5 @@
+48c48,49
+< 	void visitAllTypesImport(CtPackageReference packageReference);
+---
+> 	void visitAllTypesImport(CtPackageReference 
+> packageReference);

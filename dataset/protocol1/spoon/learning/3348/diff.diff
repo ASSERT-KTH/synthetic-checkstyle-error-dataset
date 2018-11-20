@@ -1,0 +1,4 @@
+72c72
+< 		for (CtTypeReference<?> cast : casts) {
+---
+> 		for(CtTypeReference<?> cast : casts) {

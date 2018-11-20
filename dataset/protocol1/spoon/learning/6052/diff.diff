@@ -1,0 +1,4 @@
+56c56
+< 			cachedNestedTypeNames = new HashSet<>(allTypes.size());
+---
+> 			cachedNestedTypeNames =new HashSet<>(allTypes.size());

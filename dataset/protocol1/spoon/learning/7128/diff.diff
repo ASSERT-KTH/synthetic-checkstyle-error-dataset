@@ -1,0 +1,4 @@
+755c755
+< 		if (!(jdtTreeBuilder.getContextBuilder().stack.peek().node instanceof QualifiedAllocationExpression)) {
+---
+> 		if (! (jdtTreeBuilder.getContextBuilder().stack.peek().node instanceof QualifiedAllocationExpression)) {

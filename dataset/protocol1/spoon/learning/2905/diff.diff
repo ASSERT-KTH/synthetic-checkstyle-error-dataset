@@ -1,0 +1,4 @@
+1482c1482
+< 				access = helper.createTypeAccessNoClasspath(singleNameReference);
+---
+> 				access =helper.createTypeAccessNoClasspath(singleNameReference);

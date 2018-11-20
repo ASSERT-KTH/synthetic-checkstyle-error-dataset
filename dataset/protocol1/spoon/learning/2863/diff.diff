@@ -1,0 +1,5 @@
+107c107,108
+< 	<E extends CtJavaDocTag> E setType(TagType type);
+---
+> 	<E extends 
+> CtJavaDocTag> E setType(TagType type);

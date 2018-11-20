@@ -1,0 +1,4 @@
+49c49
+< 				if (f.isAnnotationPresent(Property.class)) {
+---
+> 				if (f.isAnnotationPresent(Property.class)){

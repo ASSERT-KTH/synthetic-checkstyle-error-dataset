@@ -1,4 +1,0 @@
-672c672
-< 			for (Field f : Parameters.getAllTemplateParameterFields(template.getClass())) {
----
-> 			for (Field f : Parameters.getAllTemplateParameterFields(template.getClass())){

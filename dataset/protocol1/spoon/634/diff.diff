@@ -1,5 +1,0 @@
-67c67,68
-< 		CtClass<? extends ExpressionTemplate<?>> c = Substitution.getTemplateCtClass(targetType, this);
----
-> 		CtClass<? 
-> extends ExpressionTemplate<?>> c = Substitution.getTemplateCtClass(targetType, this);

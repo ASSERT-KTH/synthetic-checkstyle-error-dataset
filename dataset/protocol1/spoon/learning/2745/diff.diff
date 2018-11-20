@@ -1,0 +1,5 @@
+32,33c32
+< 	public void decompile(String jarPath) {
+< 		ConsoleDecompiler.main(new String[]{jarPath, outputDir.getPath()});
+---
+> 	public void decompile(String jarPath) {		ConsoleDecompiler.main(new String[]{jarPath, outputDir.getPath()});

@@ -1,0 +1,4 @@
+56c56
+< 	private final List<MetamodelConcept> superConcepts = new ArrayList<>();
+---
+> 	private final List<MetamodelConcept	> superConcepts = new ArrayList<>();

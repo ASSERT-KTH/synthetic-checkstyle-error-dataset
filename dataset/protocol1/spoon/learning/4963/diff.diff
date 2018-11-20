@@ -1,0 +1,5 @@
+102,103c102
+< 	public static <R extends CtReference> List<R> getReferences(
+< 			Factory factory, Filter<R> filter) {
+---
+> 	public static <R extends CtReference> List<R> getReferences(			Factory factory, Filter<R> filter) {

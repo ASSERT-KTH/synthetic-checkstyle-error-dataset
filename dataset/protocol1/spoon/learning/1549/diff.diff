@@ -1,0 +1,5 @@
+48c48,49
+< 		List<CtStatement> statements = TemplateBuilder.createPattern(patternModel, this)
+---
+> 		List<CtStatement> statements = 
+> TemplateBuilder.createPattern(patternModel, this)

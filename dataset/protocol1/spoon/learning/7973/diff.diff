@@ -1,0 +1,4 @@
+128c128
+< 			o = new ImmutableMapImpl((Map) o);
+---
+> 			o = new ImmutableMapImpl((Map) o );

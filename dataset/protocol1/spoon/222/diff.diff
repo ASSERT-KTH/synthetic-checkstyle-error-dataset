@@ -1,4 +1,0 @@
-52c52
-< 			throw new IllegalStateException();
----
-> 			throw new IllegalStateException ();

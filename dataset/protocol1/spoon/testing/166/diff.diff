@@ -1,0 +1,5 @@
+82,83c82
+< 	public void addFormalType(CtTypeParameter parameterRef) {
+< 		throw new UnsupportedOperationException();
+---
+> 	public void addFormalType(CtTypeParameter parameterRef) {		throw new UnsupportedOperationException();

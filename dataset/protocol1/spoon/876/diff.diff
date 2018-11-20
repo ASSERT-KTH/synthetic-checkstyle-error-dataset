@@ -1,4 +1,0 @@
-160c160
-< 	public Map<String, Object> getTemplateParameters(CtType<?> targetType) {
----
-> 	public Map<String, Object> getTemplateParameters(CtType<?> targetType){

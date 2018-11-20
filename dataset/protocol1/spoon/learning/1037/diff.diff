@@ -1,0 +1,4 @@
+38c38
+< 		super(CtParameter.class, CtParameterReference.class);
+---
+> 		super(CtParameter.class, CtParameterReference.class)	;

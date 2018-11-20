@@ -1,0 +1,4 @@
+90c90
+< 		return removed != null && !removed.isEmpty();
+---
+> 		 return removed != null && !removed.isEmpty();

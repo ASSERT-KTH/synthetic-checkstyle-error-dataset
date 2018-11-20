@@ -1,0 +1,5 @@
+53c53,54
+< 	void step(Process process, String task);
+---
+> 	void step(Process process
+> , String task);

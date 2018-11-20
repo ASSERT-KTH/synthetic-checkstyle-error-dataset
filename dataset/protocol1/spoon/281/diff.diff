@@ -1,5 +1,0 @@
-24,25c24
-< import spoon.processing.ProcessorProperties;
-< import spoon.processing.Property;
----
-> import spoon.processing.ProcessorProperties;import spoon.processing.Property;

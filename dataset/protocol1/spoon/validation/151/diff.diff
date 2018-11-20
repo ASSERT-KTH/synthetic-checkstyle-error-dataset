@@ -1,0 +1,4 @@
+26c26
+< public interface CtPackageReference extends CtReference {
+---
+>  public interface CtPackageReference extends CtReference {

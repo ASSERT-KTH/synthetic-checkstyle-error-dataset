@@ -1,0 +1,4 @@
+22c22
+< public class ProcessInterruption extends RuntimeException {
+---
+> public class ProcessInterruption extends RuntimeException{

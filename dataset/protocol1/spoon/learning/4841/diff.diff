@@ -1,0 +1,4 @@
+111c111
+< 		int result = super.hashCode();
+---
+> 		int result = super.hashCode ();

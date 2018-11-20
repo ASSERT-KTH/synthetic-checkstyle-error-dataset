@@ -1,0 +1,4 @@
+202c202
+< 						throw new SpoonException("This should not happen. The children of local class which contains a field with new name should be skipped!");
+---
+> 						throw new SpoonException("This should not happen. The children of local class which contains a field with new name should be skipped!") ;

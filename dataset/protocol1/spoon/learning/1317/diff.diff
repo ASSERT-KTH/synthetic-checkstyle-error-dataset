@@ -1,0 +1,4 @@
+36c36
+< 	protected SetHandler(CtRole role, Class<T> targetType, Class<?> valueClass) {
+---
+> 	protected SetHandler(CtRole role, Class<T>targetType, Class<?> valueClass) {

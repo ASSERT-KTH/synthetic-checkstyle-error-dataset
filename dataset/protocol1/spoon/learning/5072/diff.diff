@@ -1,0 +1,4 @@
+70c70
+< 					ContainerKind kind = esf.getContainerKindInParent();
+---
+> 					ContainerKind kind= esf.getContainerKindInParent();

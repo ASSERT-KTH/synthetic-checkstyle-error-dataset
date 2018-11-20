@@ -1,0 +1,5 @@
+101c101,102
+< 	public static final int FIELDS_CONTAINER_DEFAULT_CAPACITY = 4;
+---
+> 	public static final int FIELDS_CONTAINER_DEFAULT_CAPACITY 
+> = 4;

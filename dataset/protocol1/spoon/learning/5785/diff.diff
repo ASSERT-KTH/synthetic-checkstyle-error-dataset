@@ -1,0 +1,5 @@
+57,58c57
+< 	public ExecutableReferenceFilter(CtExecutable<?> executable) {
+< 		addExecutable(executable);
+---
+> 	public ExecutableReferenceFilter(CtExecutable<?> executable) {		addExecutable(executable);

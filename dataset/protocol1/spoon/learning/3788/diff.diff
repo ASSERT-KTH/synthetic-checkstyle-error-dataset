@@ -1,0 +1,4 @@
+720c720
+< 		int len = buff.length;
+---
+> 		int len = buff.length	;

@@ -1,0 +1,4 @@
+93c93
+< 			return this.getContent().substring(0, indexEndSentence + 1).trim();
+---
+> 			return this.getContent(). substring(0, indexEndSentence + 1).trim();

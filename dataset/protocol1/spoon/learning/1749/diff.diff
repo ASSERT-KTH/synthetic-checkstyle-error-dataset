@@ -1,0 +1,4 @@
+382c382
+< 			if (sourceCode != null) {
+---
+> 			if (sourceCode != null){

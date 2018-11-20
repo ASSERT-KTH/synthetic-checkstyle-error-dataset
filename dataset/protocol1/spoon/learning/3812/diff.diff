@@ -1,0 +1,5 @@
+79c79,80
+< 			&& m.getParameters().size() == 1  && m.getParameters().get(0).getType().getQualifiedName().equals(String.class.getName())),
+---
+> 			&& m.getParameters().size() == 1  && m.getParameters().get
+> (0).getType().getQualifiedName().equals(String.class.getName())),

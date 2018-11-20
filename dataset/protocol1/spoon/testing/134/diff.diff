@@ -1,0 +1,4 @@
+56c56
+< 		return context.isOverriding(method, element);
+---
+> 		return context.isOverriding (method, element);

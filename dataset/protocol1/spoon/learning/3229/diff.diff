@@ -1,0 +1,4 @@
+377c377
+< 		if (setter != null) {
+---
+> 		if (setter != null){

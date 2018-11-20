@@ -1,0 +1,5 @@
+27,28c27
+< import spoon.reflect.declaration.CtElement;
+< import spoon.reflect.declaration.ParentNotInitializedException;
+---
+> import spoon.reflect.declaration.CtElement;import spoon.reflect.declaration.ParentNotInitializedException;

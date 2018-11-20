@@ -1,0 +1,5 @@
+29,30c29
+< import static spoon.reflect.path.CtRole.OPENED_PACKAGE;
+< import static spoon.reflect.path.CtRole.PROVIDED_SERVICE;
+---
+> import static spoon.reflect.path.CtRole.OPENED_PACKAGE;import static spoon.reflect.path.CtRole.PROVIDED_SERVICE;

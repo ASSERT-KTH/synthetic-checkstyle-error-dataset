@@ -1,0 +1,4 @@
+86c86
+< 			throw new SpoonException("There is more then one match");
+---
+> 			throw new SpoonException	("There is more then one match");

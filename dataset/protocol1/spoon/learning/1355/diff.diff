@@ -1,0 +1,5 @@
+44,45c44
+< 	public <C extends CtTypeAccess<A>> C setAccessedType(CtTypeReference<A> accessedType) {
+< 		if (accessedType != null) {
+---
+> 	public <C extends CtTypeAccess<A>> C setAccessedType(CtTypeReference<A> accessedType) {		if (accessedType != null) {

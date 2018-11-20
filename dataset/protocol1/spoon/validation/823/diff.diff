@@ -1,0 +1,5 @@
+37c37,38
+< 		super(role, targetType, valueClass);
+---
+> 		super(role, targetType
+> , valueClass);

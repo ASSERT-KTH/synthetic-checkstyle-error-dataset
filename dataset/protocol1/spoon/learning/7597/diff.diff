@@ -1,0 +1,4 @@
+49c49
+< 	<C extends CtVariable<T>> C setDefaultExpression(CtExpression<T> assignedExpression);
+---
+> 	<C extends CtVariable< T>> C setDefaultExpression(CtExpression<T> assignedExpression);

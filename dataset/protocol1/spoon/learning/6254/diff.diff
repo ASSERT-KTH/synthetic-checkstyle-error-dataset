@@ -1,0 +1,4 @@
+65c65
+< 	int getEndLine();
+---
+> 	int getEndLine() ;

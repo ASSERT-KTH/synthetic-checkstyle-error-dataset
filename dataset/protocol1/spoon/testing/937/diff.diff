@@ -1,0 +1,4 @@
+49c49
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, TARGET_LABEL, targetLabel, this.targetLabel);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this,TARGET_LABEL, targetLabel, this.targetLabel);

@@ -1,0 +1,4 @@
+770c770
+< 		this.cloneHelper.tailor(reference, aCtIntersectionTypeReference);
+---
+> 		this.cloneHelper.tailor(reference,aCtIntersectionTypeReference);

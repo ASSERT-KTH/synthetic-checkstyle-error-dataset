@@ -1,0 +1,4 @@
+39c39
+< 		if (current.length() <= 0 || other.length() <= 0) {
+---
+> 		if (current.	length() <= 0 || other.length() <= 0) {

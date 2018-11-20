@@ -1,0 +1,5 @@
+175,176c175
+< 		try (PrintStream stream = new PrintStream(packageAnnot)) {
+< 			stream.println(getPrinter().printPackageInfo(pack));
+---
+> 		try (PrintStream stream = new PrintStream(packageAnnot)) {			stream.println(getPrinter().printPackageInfo(pack));

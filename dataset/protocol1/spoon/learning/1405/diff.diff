@@ -1,0 +1,4 @@
+749c749
+< 			List<CtModuleReference> moduleReferences = new ArrayList<>();
+---
+> 			List<CtModuleReference> moduleReferences = new ArrayList <>();

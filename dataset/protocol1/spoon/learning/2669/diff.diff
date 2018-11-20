@@ -1,0 +1,5 @@
+65,66c65
+< 		if (this.includingSelf) {
+< 			scanner.scan(input);
+---
+> 		if (this.includingSelf) {			scanner.scan(input);

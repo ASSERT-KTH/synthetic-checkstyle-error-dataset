@@ -1,0 +1,5 @@
+26,27c26
+< 	public void accept(CtVisitor visitor) {
+< 		visitor.visitCtVariableWrite(this);
+---
+> 	public void accept(CtVisitor visitor) {		visitor.visitCtVariableWrite(this);

@@ -1,0 +1,4 @@
+82c82
+< 	void setBinaryOutputDirectory(String path);
+---
+> 	void setBinaryOutputDirectory(	String path);

@@ -1,0 +1,5 @@
+66c66,67
+< 		getFactory().getEnvironment().getModelChangeListener().onListDeleteAll(this, CATCH, this.catchers, new ArrayList<>(this.catchers));
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onListDeleteAll
+> (this, CATCH, this.catchers, new ArrayList<>(this.catchers));

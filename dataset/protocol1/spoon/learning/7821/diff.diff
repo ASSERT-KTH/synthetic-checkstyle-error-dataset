@@ -1,0 +1,5 @@
+100,101c100
+< 			} else if (node instanceof ParameterNode) {
+< 				addParameterCommentTo((CtElement) firstResult, new ParamOnElement((CtElement) firstResult, node));
+---
+> 			} else if (node instanceof ParameterNode) {				addParameterCommentTo((CtElement) firstResult, new ParamOnElement((CtElement) firstResult, node));

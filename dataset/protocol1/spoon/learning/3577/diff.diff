@@ -1,0 +1,4 @@
+60c60
+< 		CtPathImpl result = new CtPathImpl();
+---
+> 		 CtPathImpl result = new CtPathImpl();

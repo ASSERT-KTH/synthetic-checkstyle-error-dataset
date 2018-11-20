@@ -1,0 +1,4 @@
+96c96
+< 			if (type.getPackage() != null && factory.getEnvironment().getComplianceLevel() > 8) {
+---
+> 			if (	type.getPackage() != null && factory.getEnvironment().getComplianceLevel() > 8) {

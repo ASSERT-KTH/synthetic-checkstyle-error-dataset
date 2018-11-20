@@ -1,0 +1,5 @@
+219c219,220
+< 					scanInternal(role, element, fragment, isModified);
+---
+> 					scanInternal(role
+> , element, fragment, isModified);

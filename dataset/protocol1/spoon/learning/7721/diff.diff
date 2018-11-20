@@ -1,0 +1,4 @@
+1528c1528
+< 		if (!(context.stack.peekFirst().node instanceof Argument)) {
+---
+> 		if(!(context.stack.peekFirst().node instanceof Argument)) {

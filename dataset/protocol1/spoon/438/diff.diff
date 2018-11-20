@@ -1,4 +1,0 @@
-42c42
-< 		CtBlock<?> b = getExpressionBlock(p);
----
-> 		CtBlock<?> b = getExpressionBlock(p)	;

@@ -1,0 +1,4 @@
+90c90
+< 		getFactory().getEnvironment().getModelChangeListener().onListAdd(this, CASE, this.cases, c);
+---
+> 		getFactory().getEnvironment().	getModelChangeListener().onListAdd(this, CASE, this.cases, c);

@@ -1,0 +1,4 @@
+30c30
+< 		args.add("-enableJavadoc");
+---
+> 		args.add(	"-enableJavadoc");

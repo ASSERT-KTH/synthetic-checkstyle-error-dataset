@@ -1,0 +1,4 @@
+35c35
+< public interface CtArrayRead<T> extends CtArrayAccess<T, CtExpression<?>> {
+---
+> public interface CtArrayRead<T> extends CtArrayAccess<T, CtExpression	<?>> {

@@ -1,0 +1,5 @@
+51c51,52
+< 	<E extends CtJavaDoc> E setTags(List<CtJavaDocTag> tags);
+---
+> 	<E extends CtJavaDoc> E setTags(List<CtJavaDocTag> tags)
+> ;

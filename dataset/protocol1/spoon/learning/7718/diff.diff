@@ -1,0 +1,4 @@
+40c40
+< 	Deque<CtElement> stack = new ArrayDeque<>();
+---
+> 	Deque<CtElement> stack = new ArrayDeque	<>();

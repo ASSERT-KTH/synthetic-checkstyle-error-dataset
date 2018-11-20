@@ -1,0 +1,4 @@
+76c76
+< 		if (catcher == null) {
+---
+> 		if (catcher == null){

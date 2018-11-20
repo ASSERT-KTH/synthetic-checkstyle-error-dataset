@@ -1,0 +1,4 @@
+33c33
+< public interface CtCatchVariable<T> extends CtVariable<T>, CtMultiTypedElement, CtCodeElement {
+---
+> public interface CtCatchVariable<	T> extends CtVariable<T>, CtMultiTypedElement, CtCodeElement {

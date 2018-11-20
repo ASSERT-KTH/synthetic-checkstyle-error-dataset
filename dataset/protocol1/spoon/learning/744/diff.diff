@@ -1,0 +1,4 @@
+32c32
+< 	public FilteringFolder removeAllThatMatch(String regex) {
+---
+> 	public FilteringFolder removeAllThatMatch(String regex	) {

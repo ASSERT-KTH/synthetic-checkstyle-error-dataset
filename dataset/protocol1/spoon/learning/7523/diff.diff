@@ -1,0 +1,4 @@
+121c121
+< 	private CtClass<?> templateType;
+---
+> 	private CtClass<?	> templateType;

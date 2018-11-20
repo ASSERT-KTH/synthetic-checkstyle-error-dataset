@@ -1,0 +1,4 @@
+54c54
+< 	private CtModifierHandler modifierHandler = new CtModifierHandler(this);
+---
+> 	private CtModifierHandler modifierHandler =new CtModifierHandler(this);

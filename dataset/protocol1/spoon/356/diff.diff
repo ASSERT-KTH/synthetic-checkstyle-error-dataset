@@ -1,4 +1,0 @@
-153c153
-< 			addInputResource(decompiledSrc.getAbsolutePath());
----
-> 			addInputResource(decompiledSrc.getAbsolutePath())	;

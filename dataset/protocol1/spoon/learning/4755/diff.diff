@@ -1,0 +1,5 @@
+79c79,80
+< 					throw new SpoonException("cannot insert a statement before a super or this invocation.");
+---
+> 					throw new SpoonException
+> ("cannot insert a statement before a super or this invocation.");

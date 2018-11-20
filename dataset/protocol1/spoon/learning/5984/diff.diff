@@ -1,0 +1,5 @@
+528c528,529
+< 			int indexEnd = indexStart + modifier.getKind().toString().length() - 1;
+---
+> 			int indexEnd = indexStart + modifier.getKind().toString
+> ().length() - 1;

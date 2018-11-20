@@ -1,0 +1,4 @@
+80c80
+< 	protected void searchForPackageProtectedField(CtField<?> field, CtConsumer<Object> outputConsumer) {
+---
+> 	protected void searchForPackageProtectedField(CtField<?> field, CtConsumer<Object>outputConsumer) {

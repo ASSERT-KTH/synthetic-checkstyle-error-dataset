@@ -1,0 +1,5 @@
+45c45,46
+< 	public static final CloneHelper INSTANCE = new CloneHelper();
+---
+> 	public 
+> static final CloneHelper INSTANCE = new CloneHelper();

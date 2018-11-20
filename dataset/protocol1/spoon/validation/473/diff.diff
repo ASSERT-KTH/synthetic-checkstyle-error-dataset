@@ -1,0 +1,4 @@
+49c49
+< 		Set<Object> set = castTo(container, Set.class);
+---
+> 		Set<Object> set =castTo(container, Set.class);

@@ -1,0 +1,4 @@
+109c109
+< 					if (element instanceof CtType) {
+---
+> 					if(element instanceof CtType) {

@@ -1,0 +1,4 @@
+327c327
+< 		CtTypeParameter e = new CtTypeParameterImpl();
+---
+> 		CtTypeParameter e= new CtTypeParameterImpl();

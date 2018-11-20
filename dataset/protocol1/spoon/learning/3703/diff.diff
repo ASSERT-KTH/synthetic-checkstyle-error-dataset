@@ -1,0 +1,4 @@
+71c71
+< 	boolean removeAnnotation(CtAnnotation<? extends Annotation> annotation);
+---
+> 	boolean removeAnnotation(CtAnnotation<? extends Annotation>annotation);

@@ -1,0 +1,5 @@
+128,129c128
+< 	protected V set(T element, int index, V value) {
+< 		List<V> values = new ArrayList<>(this.<T, List<V>>getValue(element));
+---
+> 	protected V set(T element, int index, V value) {		List<V> values = new ArrayList<>(this.<T, List<V>>getValue(element));

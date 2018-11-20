@@ -1,0 +1,5 @@
+105c105,106
+< 		decompiledSrc = new File(decompiledRoot, "src/main/java");
+---
+> 		decompiledSrc = new 
+> File(decompiledRoot, "src/main/java");

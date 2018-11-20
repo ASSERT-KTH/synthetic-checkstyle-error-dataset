@@ -1,0 +1,5 @@
+272c272,273
+< 					String sigature = mmMethod.getSignature();
+---
+> 					
+> String sigature = mmMethod.getSignature();

@@ -1,0 +1,4 @@
+259c259
+< 					if (prettyPrinter.getContext().forceWildcardGenerics()) {
+---
+> 					if (	prettyPrinter.getContext().forceWildcardGenerics()) {

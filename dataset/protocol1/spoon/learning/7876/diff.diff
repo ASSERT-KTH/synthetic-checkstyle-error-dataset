@@ -1,0 +1,4 @@
+127c127
+< 			addEnumValue(enumValue);
+---
+> 			addEnumValue(enumValue)	;

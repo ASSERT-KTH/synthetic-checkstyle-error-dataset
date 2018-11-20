@@ -1,0 +1,4 @@
+609c609
+< 				if (wr.isUpper() != subWr.isUpper()) {
+---
+> 				if (wr.isUpper() != subWr.isUpper ()) {

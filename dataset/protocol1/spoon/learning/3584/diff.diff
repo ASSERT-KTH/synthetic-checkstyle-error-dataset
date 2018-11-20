@@ -1,0 +1,4 @@
+43c43
+< 			sb.append(childSourceFragment.getSourceCode());
+---
+> 			sb.append(	childSourceFragment.getSourceCode());

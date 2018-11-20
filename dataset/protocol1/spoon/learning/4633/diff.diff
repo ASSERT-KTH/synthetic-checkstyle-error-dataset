@@ -1,0 +1,4 @@
+82c82
+< 	public <T extends CtModule> T addModuleDirective(CtModuleDirective moduleDirective) {
+---
+> 	public <T extends CtModule> T addModuleDirective(CtModuleDirective moduleDirective){

@@ -1,0 +1,4 @@
+91c91
+< 	public <C extends CtMethod<T>> C setDefaultMethod(boolean defaultMethod) {
+---
+> 	public <C extends CtMethod<T>> C setDefaultMethod(boolean defaultMethod	) {

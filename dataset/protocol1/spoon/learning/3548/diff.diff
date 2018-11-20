@@ -1,0 +1,4 @@
+89c89
+< 		CompilationUnit cu = this.jdtTreeBuilder.getFactory().CompilationUnit().getOrCreate(new String(this.jdtTreeBuilder.getContextBuilder().compilationunitdeclaration.getFileName()));
+---
+> 		CompilationUnit cu = this.jdtTreeBuilder.getFactory().CompilationUnit().getOrCreate(new String(this. jdtTreeBuilder.getContextBuilder().compilationunitdeclaration.getFileName()));

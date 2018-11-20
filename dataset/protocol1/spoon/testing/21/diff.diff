@@ -1,0 +1,4 @@
+495c495
+< 		spoon.reflect.declaration.CtAnnotationMethod other = ((spoon.reflect.declaration.CtAnnotationMethod) (this.stack.peek()));
+---
+> 		spoon.reflect.declaration.CtAnnotationMethod other = ((spoon.reflect.declaration.CtAnnotationMethod) (this.stack.peek())) ;

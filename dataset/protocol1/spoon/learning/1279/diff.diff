@@ -1,0 +1,4 @@
+183c183
+< 		this.isShadow = isShadow;
+---
+> 		this.	isShadow = isShadow;

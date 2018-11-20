@@ -1,0 +1,4 @@
+865c865
+< 		if (throwStatement.getThrownExpression() == null && child instanceof CtExpression) {
+---
+> 		if (	throwStatement.getThrownExpression() == null && child instanceof CtExpression) {

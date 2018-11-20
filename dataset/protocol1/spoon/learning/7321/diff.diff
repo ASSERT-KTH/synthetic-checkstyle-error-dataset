@@ -1,0 +1,4 @@
+27c27
+< public interface CtCodeSnippetExpression<T> extends CtExpression<T>, CtCodeSnippet {
+---
+> public interface CtCodeSnippetExpression< T> extends CtExpression<T>, CtCodeSnippet {

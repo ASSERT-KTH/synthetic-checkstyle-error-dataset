@@ -1,0 +1,4 @@
+35c35
+< public interface CtBlock<R> extends CtStatement, CtStatementList, TemplateParameter<R> {
+---
+> public interface CtBlock	<R> extends CtStatement, CtStatementList, TemplateParameter<R> {

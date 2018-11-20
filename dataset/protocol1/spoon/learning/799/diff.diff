@@ -1,0 +1,4 @@
+50c50
+< 	String getPath();
+---
+> 	String getPath() ;

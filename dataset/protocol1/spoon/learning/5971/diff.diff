@@ -1,0 +1,4 @@
+176c176
+< 				if (this.jdtTreeBuilder.getFactory().getEnvironment().getNoClasspath() && annotation.isParentInitialized()) {
+---
+> 				if (this.jdtTreeBuilder.getFactory().getEnvironment().getNoClasspath() && annotation.isParentInitialized()){

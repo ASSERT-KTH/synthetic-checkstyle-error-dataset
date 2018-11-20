@@ -1,0 +1,4 @@
+51c51
+< 	@PropertyGetter(role = CtRole.IMPLEMENTATION_TYPE)
+---
+> 	 @PropertyGetter(role = CtRole.IMPLEMENTATION_TYPE)

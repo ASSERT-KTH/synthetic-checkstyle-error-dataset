@@ -1,0 +1,4 @@
+30c30
+< public interface CtVariable<T> extends CtNamedElement, CtTypedElement<T>, CtModifiable {
+---
+> public interface CtVariable<T> extends CtNamedElement,CtTypedElement<T>, CtModifiable {

@@ -1,0 +1,5 @@
+23,24c23
+< import spoon.reflect.annotations.PropertySetter;
+< import spoon.support.UnsettableProperty;
+---
+> import spoon.reflect.annotations.PropertySetter;import spoon.support.UnsettableProperty;

@@ -1,0 +1,4 @@
+192c192
+< 	public boolean isPrivate() {
+---
+> 	public boolean isPrivate(){

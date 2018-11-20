@@ -1,0 +1,4 @@
+26c26
+< import spoon.reflect.cu.CompilationUnit;
+---
+> import spoon.reflect. cu.CompilationUnit;

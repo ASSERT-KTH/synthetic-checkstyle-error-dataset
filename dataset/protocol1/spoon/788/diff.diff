@@ -1,5 +1,0 @@
-47,48c47
-< 		if (c == null) {
-< 			c = targetType.getFactory().Class().get(this.getClass());
----
-> 		if (c == null) {			c = targetType.getFactory().Class().get(this.getClass());

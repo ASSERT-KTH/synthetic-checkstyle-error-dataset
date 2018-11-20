@@ -1,0 +1,5 @@
+22,23c22
+< import spoon.reflect.reference.CtReference;
+< import spoon.reflect.visitor.CtInheritanceScanner;
+---
+> import spoon.reflect.reference.CtReference;import spoon.reflect.visitor.CtInheritanceScanner;

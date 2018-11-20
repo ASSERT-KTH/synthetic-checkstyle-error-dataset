@@ -1,0 +1,5 @@
+223,224c223
+< 		if (element instanceof CtField) {
+< 			return CtAnnotatedElementType.FIELD;
+---
+> 		if (element instanceof CtField) {			return CtAnnotatedElementType.FIELD;

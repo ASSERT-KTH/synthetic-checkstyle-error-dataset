@@ -1,0 +1,4 @@
+215c215
+< 			return CtAnnotatedElementType.METHOD;
+---
+> 			return CtAnnotatedElementType.METHOD ;

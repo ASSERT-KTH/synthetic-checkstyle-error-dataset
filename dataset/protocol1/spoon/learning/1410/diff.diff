@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.reflect.cu.SourcePositionHolder;
+< import spoon.reflect.declaration.ModifierKind;
+---
+> import spoon.reflect.cu.SourcePositionHolder;import spoon.reflect.declaration.ModifierKind;

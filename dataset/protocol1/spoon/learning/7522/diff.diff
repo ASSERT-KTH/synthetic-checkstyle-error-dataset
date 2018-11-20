@@ -1,0 +1,4 @@
+38c38
+< 	public TypeReferenceRuntimeBuilderContext(Type type, CtTypeReference<?> typeReference) {
+---
+> 	public TypeReferenceRuntimeBuilderContext(Type type,CtTypeReference<?> typeReference) {

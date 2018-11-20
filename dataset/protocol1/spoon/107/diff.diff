@@ -1,5 +1,0 @@
-33c33,34
-< public class ExtensionTemplate extends AbstractTemplate<CtType<?>> {
----
-> public class ExtensionTemplate 
-> extends AbstractTemplate<CtType<?>> {

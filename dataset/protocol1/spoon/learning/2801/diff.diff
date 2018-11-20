@@ -1,0 +1,4 @@
+88c88
+< 		if (statements == null || statements.isEmpty()) {
+---
+> 		if (statements == null ||statements.isEmpty()) {

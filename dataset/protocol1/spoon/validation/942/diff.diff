@@ -1,0 +1,5 @@
+82,83c82
+< 	public static Factory build(Consumer<Launcher> config, Class<?>... classesToBuild) throws Exception {
+< 		final Launcher launcher = new Launcher();
+---
+> 	public static Factory build(Consumer<Launcher> config, Class<?>... classesToBuild) throws Exception {		final Launcher launcher = new Launcher();

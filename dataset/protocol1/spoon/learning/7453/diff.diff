@@ -1,0 +1,5 @@
+83,84c83
+< import spoon.reflect.declaration.CtField;
+< import spoon.reflect.declaration.CtImport;
+---
+> import spoon.reflect.declaration.CtField;import spoon.reflect.declaration.CtImport;

@@ -1,0 +1,4 @@
+128c128
+< 				throw new SpoonException("Cannot get path for file: " + file.getAbsolutePath(), e);
+---
+> 				throw new SpoonException("Cannot get path for file: " + file.getAbsolutePath(), e)	;

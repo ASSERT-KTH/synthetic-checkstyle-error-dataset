@@ -1,5 +1,0 @@
-164c164,165
-< 			classpath = model.buildClassPath(mvnHome, sourceType, LOGGER, false);
----
-> 			classpath = model.buildClassPath(mvnHome, sourceType, LOGGER
-> , false);

@@ -1,0 +1,4 @@
+379c379
+< 	Charset getEncoding();
+---
+> 	Charset getEncoding() ;

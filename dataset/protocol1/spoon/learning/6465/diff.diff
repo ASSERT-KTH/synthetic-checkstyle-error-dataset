@@ -1,0 +1,5 @@
+20,21c20
+< import spoon.support.reflect.declaration.CtElementImpl;
+< import spoon.support.reflect.eval.VisitorPartialEvaluator;
+---
+> import spoon.support.reflect.declaration.CtElementImpl;import spoon.support.reflect.eval.VisitorPartialEvaluator;

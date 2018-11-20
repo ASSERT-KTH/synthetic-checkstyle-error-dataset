@@ -1,0 +1,4 @@
+647c647
+< 	static class CtAnnotationMethod_DEFAULT_EXPRESSION_RoleHandler extends SingleHandler<CtAnnotationMethod, CtExpression<?>> {
+---
+> 	static class CtAnnotationMethod_DEFAULT_EXPRESSION_RoleHandler extends SingleHandler<CtAnnotationMethod, CtExpression<	?>> {

@@ -1,0 +1,5 @@
+24c24,25
+< package spoon.compiler;
+---
+> package 
+> spoon.compiler;

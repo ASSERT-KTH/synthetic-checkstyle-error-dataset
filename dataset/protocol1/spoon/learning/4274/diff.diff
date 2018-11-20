@@ -1,0 +1,4 @@
+83c83
+< 	public final CtTypeReference<Boolean> BOOLEAN_PRIMITIVE = createReference(boolean.class);
+---
+> 	public final CtTypeReference<Boolean > BOOLEAN_PRIMITIVE = createReference(boolean.class);

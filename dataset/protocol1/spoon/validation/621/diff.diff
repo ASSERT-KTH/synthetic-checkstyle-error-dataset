@@ -1,0 +1,4 @@
+28c28
+< import spoon.reflect.declaration.CtElement;
+---
+> import spoon.	reflect.declaration.CtElement;

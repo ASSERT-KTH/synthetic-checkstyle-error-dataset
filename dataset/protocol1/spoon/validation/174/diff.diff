@@ -1,0 +1,4 @@
+45c45
+< 		getFactory().getEnvironment().getModelChangeListener().onSetDeleteAll(this, CtRole.MODIFIER, this.requiresModifiers, new HashSet<>(requiresModifiers));
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onSetDeleteAll(this,CtRole.MODIFIER, this.requiresModifiers, new HashSet<>(requiresModifiers));

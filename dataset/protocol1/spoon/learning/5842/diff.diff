@@ -1,0 +1,4 @@
+53c53
+< 	boolean isTryNextMatch(ImmutableMap parameters);
+---
+> 	boolean isTryNextMatch(ImmutableMap parameters );

@@ -1,0 +1,4 @@
+95c95
+< 							String name = getArguments().get("name");
+---
+> 							String name = getArguments().get	("name");

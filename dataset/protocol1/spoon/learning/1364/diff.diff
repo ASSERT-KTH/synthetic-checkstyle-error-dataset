@@ -1,0 +1,4 @@
+33c33
+< 					+ " is set as child of\n" + toDebugString(element.getParent())
+---
+> 					+ " is set as child of\n"+ toDebugString(element.getParent())

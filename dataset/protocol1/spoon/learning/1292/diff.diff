@@ -1,0 +1,5 @@
+52,53c52
+< 			}
+< 			if (o1 instanceof CtNamedElement && o2 instanceof CtNamedElement) {
+---
+> 			}			if (o1 instanceof CtNamedElement && o2 instanceof CtNamedElement) {

@@ -1,0 +1,4 @@
+45c45
+< 	<C extends CtVariableReference<T>> C setType(CtTypeReference<T> type);
+---
+> 	<C extends CtVariableReference<T>> C setType(CtTypeReference<	T> type);

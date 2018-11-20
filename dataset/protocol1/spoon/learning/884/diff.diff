@@ -1,0 +1,4 @@
+34c34
+< 				type.getSimpleName() + ".java",
+---
+> 				type.getSimpleName	() + ".java",

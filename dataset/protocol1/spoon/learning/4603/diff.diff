@@ -1,0 +1,4 @@
+35c35
+< 	public <T> void visitMethodImport(CtExecutableReference<T> executableReference) {
+---
+> 	public <T > void visitMethodImport(CtExecutableReference<T> executableReference) {

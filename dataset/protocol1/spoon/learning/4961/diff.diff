@@ -1,0 +1,4 @@
+38c38
+< 	<R extends CtElement> CtQuery filterChildren(Filter<R> filter);
+---
+> 	<	R extends CtElement> CtQuery filterChildren(Filter<R> filter);

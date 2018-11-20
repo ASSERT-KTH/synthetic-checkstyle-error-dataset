@@ -1,0 +1,4 @@
+57c57
+< 	public CtQuery createQuery(Iterable<?> inputs) {
+---
+> 	public CtQuery createQuery(Iterable<? > inputs) {

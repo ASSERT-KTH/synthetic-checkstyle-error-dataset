@@ -1,0 +1,4 @@
+124c124
+< 		CtType<?> declaringType = targetMethod.getDeclaringType();
+---
+> 		CtType<?	> declaringType = targetMethod.getDeclaringType();

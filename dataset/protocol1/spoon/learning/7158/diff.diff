@@ -1,0 +1,4 @@
+71c71
+< 		this.prettyPrinter = prettyPrinter;
+---
+> 		this.prettyPrinter= prettyPrinter;

@@ -1,0 +1,4 @@
+450c450
+< 	public void writeIfOrLoopBlock(CtStatement block) {
+---
+> 	public void writeIfOrLoopBlock	(CtStatement block) {

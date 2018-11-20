@@ -1,0 +1,4 @@
+790c790
+< 	<T> CtIntersectionTypeReference<T> createIntersectionTypeReferenceWithBounds(List<CtTypeReference<?>> bounds);
+---
+> 	<T> CtIntersectionTypeReference<T> createIntersectionTypeReferenceWithBounds(List<CtTypeReference<	?>> bounds);

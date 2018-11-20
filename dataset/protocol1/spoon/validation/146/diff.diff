@@ -1,0 +1,5 @@
+33c33,34
+< 	private Class<T> type;
+---
+> 	private Class<T> 
+> type;

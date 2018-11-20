@@ -1,0 +1,4 @@
+191c191
+< 					while ((count = zipInput.read(data, 0, buffer)) != -1) {
+---
+> 					while ((count =zipInput.read(data, 0, buffer)) != -1) {

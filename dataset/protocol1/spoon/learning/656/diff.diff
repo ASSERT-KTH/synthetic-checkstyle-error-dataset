@@ -1,0 +1,4 @@
+41c41
+< import org.eclipse.jdt.internal.compiler.lookup.ProblemBinding;
+---
+> import org.eclipse.jdt.internal.compiler.	lookup.ProblemBinding;

@@ -1,0 +1,4 @@
+233c233
+< 		addClassImport(ctEnum.getReference());
+---
+> 		addClassImport(ctEnum.getReference())	;

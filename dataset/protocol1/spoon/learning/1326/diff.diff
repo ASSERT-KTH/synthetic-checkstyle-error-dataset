@@ -1,0 +1,5 @@
+44c44,45
+< 	void save(Factory f, OutputStream out) throws IOException;
+---
+> 	void save(Factory f
+> , OutputStream out) throws IOException;

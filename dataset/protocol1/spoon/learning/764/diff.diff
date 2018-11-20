@@ -1,0 +1,4 @@
+71c71
+< 		if (getModifiers().contains(ModifierKind.PROTECTED)) {
+---
+> 		if (getModifiers(). contains(ModifierKind.PROTECTED)) {

@@ -1,0 +1,4 @@
+61c61
+< 	public <T extends CtTry> T setCatchers(List<CtCatch> catchers) {
+---
+> 	public <T extends CtTry> T setCatchers(List<CtCatch> catchers){

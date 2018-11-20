@@ -1,0 +1,4 @@
+55c55
+< 		if (this instanceof Template) {
+---
+> 		if(this instanceof Template) {

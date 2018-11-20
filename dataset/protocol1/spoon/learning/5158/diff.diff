@@ -1,0 +1,4 @@
+49c49
+< 	<C extends CtIntersectionTypeReference> C addBound(CtTypeReference<?> bound);
+---
+> 	<C extends CtIntersectionTypeReference> C addBound(	CtTypeReference<?> bound);

@@ -1,0 +1,4 @@
+17c17
+< package spoon.reflect.annotations;
+---
+> package spoon.reflect. annotations;

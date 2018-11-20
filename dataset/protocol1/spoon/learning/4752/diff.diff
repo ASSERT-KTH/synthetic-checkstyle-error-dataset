@@ -1,0 +1,5 @@
+26,27c26
+< 		if (element == null) {
+< 			return;
+---
+> 		if (element == null) {			return;

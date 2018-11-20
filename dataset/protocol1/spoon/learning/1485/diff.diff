@@ -1,0 +1,4 @@
+160c160
+< 	public <A extends Annotation> CtAnnotation<A> annotate(CtElement element, CtTypeReference<A> annotationType) {
+---
+> 	public <A extends Annotation> CtAnnotation<A> annotate(CtElement element,CtTypeReference<A> annotationType) {

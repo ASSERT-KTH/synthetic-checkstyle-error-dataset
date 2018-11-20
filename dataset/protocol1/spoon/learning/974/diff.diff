@@ -1,0 +1,5 @@
+96c96,97
+< 		return (Class<T>) Array.newInstance(c, 0).getClass();
+---
+> 		return (Class<T>) Array.newInstance(c
+> , 0).getClass();

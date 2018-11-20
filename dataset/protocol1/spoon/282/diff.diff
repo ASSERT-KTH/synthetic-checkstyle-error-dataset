@@ -1,4 +1,0 @@
-149c149
-< 			List<File> sourceDirectories = model.getSourceDirectories();
----
-> 			 List<File> sourceDirectories = model.getSourceDirectories();

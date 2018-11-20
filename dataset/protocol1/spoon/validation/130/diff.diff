@@ -1,0 +1,4 @@
+144c144
+< 			if (item == object) {
+---
+> 			if (item== object) {

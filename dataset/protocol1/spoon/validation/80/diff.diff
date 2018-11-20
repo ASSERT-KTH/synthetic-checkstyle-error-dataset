@@ -1,0 +1,5 @@
+20c20,21
+< import spoon.support.reflect.declaration.CtCompilationUnitImpl;
+---
+> import spoon.support.reflect.declaration.CtCompilationUnitImpl
+> ;

@@ -1,0 +1,4 @@
+420c420
+< 	public final void visitTypeReference(CtRole role, Type type) {
+---
+> 	public final void visitTypeReference(CtRole role, Type type	) {

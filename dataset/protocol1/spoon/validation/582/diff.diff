@@ -1,0 +1,4 @@
+880c880
+< 		scan(CtRole.CAST, f.getTypeCasts());
+---
+> 		scan(CtRole.CAST,f.getTypeCasts());

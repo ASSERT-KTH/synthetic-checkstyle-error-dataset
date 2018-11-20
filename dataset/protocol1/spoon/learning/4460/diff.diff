@@ -1,0 +1,5 @@
+501,502c501
+< 	<T> CtTypeReference<T> getTypeReference(TypeBinding binding, TypeReference ref) {
+< 		CtTypeReference<T> ctRef = getTypeReference(binding);
+---
+> 	<T> CtTypeReference<T> getTypeReference(TypeBinding binding, TypeReference ref) {		CtTypeReference<T> ctRef = getTypeReference(binding);

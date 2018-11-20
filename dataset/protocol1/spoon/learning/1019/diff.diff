@@ -1,0 +1,4 @@
+176c176
+< 			for (TypeVariable<Class<T>> generic : clazz.getTypeParameters()) {
+---
+> 			for (TypeVariable<Class<T>> generic : clazz.	getTypeParameters()) {

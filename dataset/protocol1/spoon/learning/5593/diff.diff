@@ -1,0 +1,4 @@
+57c57
+< 			.map(new SiblingsFunction().mode(SiblingsFunction.Mode.NEXT).includingSelf(true))
+---
+> 			.map(new SiblingsFunction().mode (SiblingsFunction.Mode.NEXT).includingSelf(true))

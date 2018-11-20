@@ -1,0 +1,4 @@
+35c35
+< 		Main.main(new String[]{jarPath, "--outputdir", outputDir.getPath()});
+---
+> 		Main.main(new String[]{jarPath,"--outputdir", outputDir.getPath()});

@@ -1,0 +1,4 @@
+60c60
+< 			if (value == null || value instanceof String || value instanceof Number || value instanceof Boolean || value instanceof Character) {
+---
+> 			if (value == null || value instanceof String || value instanceof Number|| value instanceof Boolean || value instanceof Character) {

@@ -1,0 +1,4 @@
+96c96
+< 		return getFactory().Type().get(Object.class);
+---
+> 		return getFactory().Type().	get(Object.class);

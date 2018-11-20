@@ -1,0 +1,5 @@
+108,109c108
+< 			} catch (IOException e) {
+< 				throw new SpoonException("Cannot get path for file: " + file.getAbsolutePath(), e);
+---
+> 			} catch (IOException e) {				throw new SpoonException("Cannot get path for file: " + file.getAbsolutePath(), e);

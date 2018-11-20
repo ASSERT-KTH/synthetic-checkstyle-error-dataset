@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.reflect.meta.RoleHandler;
+< import spoon.reflect.meta.impl.RoleHandlerHelper;
+---
+> import spoon.reflect.meta.RoleHandler;import spoon.reflect.meta.impl.RoleHandlerHelper;

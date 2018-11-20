@@ -1,0 +1,5 @@
+21c21,22
+< import spoon.reflect.visitor.chain.CtConsumableFunction;
+---
+> import spoon.reflect.visitor.chain.CtConsumableFunction
+> ;

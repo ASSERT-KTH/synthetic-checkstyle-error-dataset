@@ -1,5 +1,0 @@
-95c95,96
-< 	T apply(CtType<?> targetType);
----
-> 	T apply
-> (CtType<?> targetType);

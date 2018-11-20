@@ -1,0 +1,4 @@
+46c46
+< 	public FieldReferenceFunction(CtField<?> field) {
+---
+> 	public FieldReferenceFunction(CtField<?> field){

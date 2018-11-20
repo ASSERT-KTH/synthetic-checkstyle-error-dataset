@@ -1,0 +1,4 @@
+24c24
+< 	public SpoonException(String msg) {
+---
+> 	public SpoonException(String msg ) {

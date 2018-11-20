@@ -1,5 +1,0 @@
-347c347,348
-< 		if (targetType instanceof CtClass) {
----
-> 		if (targetType 
-> instanceof CtClass) {

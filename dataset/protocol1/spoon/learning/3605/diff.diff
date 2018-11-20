@@ -1,0 +1,5 @@
+44,45c44
+< 	public AnnotationFactory(Factory factory) {
+< 		super(factory);
+---
+> 	public AnnotationFactory(Factory factory) {		super(factory);

@@ -1,0 +1,5 @@
+113c113,114
+< 		visitor.visitCtJavaDoc(this);
+---
+> 		visitor.visitCtJavaDoc
+> (this);

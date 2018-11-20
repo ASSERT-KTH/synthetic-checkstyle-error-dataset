@@ -1,4 +1,0 @@
-19c19
-< import static spoon.pattern.internal.matcher.TobeMatched.getMatchedParameters;
----
-> import static spoon.pattern.	internal.matcher.TobeMatched.getMatchedParameters;

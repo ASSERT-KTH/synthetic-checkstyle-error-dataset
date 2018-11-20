@@ -1,0 +1,4 @@
+71c71
+< 			CtVariable<?> var = map(new PotentialVariableDeclarationFunction(simpleName)).first();
+---
+> 			CtVariable<?> var = map(new PotentialVariableDeclarationFunction(simpleName)).first ();

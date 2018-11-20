@@ -1,0 +1,4 @@
+79c79
+< 		if (element == templateRoot) {
+---
+> 		if (	element == templateRoot) {

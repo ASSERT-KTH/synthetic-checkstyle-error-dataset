@@ -1,0 +1,4 @@
+1731c1731
+< 		for (CtCatch c : tryWithResource.getCatchers()) {
+---
+> 		for (CtCatch c : tryWithResource.getCatchers()){

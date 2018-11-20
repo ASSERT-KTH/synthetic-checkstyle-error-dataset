@@ -1,0 +1,4 @@
+45c45
+< 		return this.reference.equals(reference);
+---
+> 		return this.reference.equals	(reference);

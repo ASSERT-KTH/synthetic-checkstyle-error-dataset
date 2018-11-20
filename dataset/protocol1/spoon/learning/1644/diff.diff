@@ -1,0 +1,5 @@
+79c79,80
+< 			printSpaces(-1);
+---
+> 			
+> printSpaces(-1);

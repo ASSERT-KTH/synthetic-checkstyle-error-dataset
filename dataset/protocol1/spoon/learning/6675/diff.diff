@@ -1,0 +1,4 @@
+64c64
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.CASE, caseExpression, this.caseExpression);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.CASE, caseExpression,this.caseExpression);

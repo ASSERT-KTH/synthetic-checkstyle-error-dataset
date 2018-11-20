@@ -1,0 +1,5 @@
+161,162c161
+< 					re.append(escapeRegExp(getStringValueWithMarkers().substring(start, region.from)));
+< 				} else if (start > 0) {
+---
+> 					re.append(escapeRegExp(getStringValueWithMarkers().substring(start, region.from)));				} else if (start > 0) {

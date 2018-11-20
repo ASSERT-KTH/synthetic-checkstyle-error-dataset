@@ -1,5 +1,0 @@
-34c34,35
-< 	protected final LinkedList<Processor<?>> processors = new LinkedList<>();
----
-> 	protected 
-> final LinkedList<Processor<?>> processors = new LinkedList<>();

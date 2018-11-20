@@ -1,0 +1,4 @@
+246c246
+< 		return compilationUnit == null ? null : compilationUnit.getLineSeparatorPositions();
+---
+> 		return compilationUnit == null ? null :compilationUnit.getLineSeparatorPositions();

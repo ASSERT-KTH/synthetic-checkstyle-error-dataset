@@ -1,0 +1,5 @@
+225,226c225
+< 	public boolean isShadow() {
+< 		return isShadow;
+---
+> 	public boolean isShadow() {		return isShadow;

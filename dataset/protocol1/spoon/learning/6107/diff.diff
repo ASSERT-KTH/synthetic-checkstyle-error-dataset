@@ -1,0 +1,4 @@
+69c69
+< 	public CtEnum<?> get(String qualifiedName) {
+---
+> 	public CtEnum<?	> get(String qualifiedName) {

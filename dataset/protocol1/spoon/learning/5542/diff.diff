@@ -1,0 +1,4 @@
+36c36
+< 	Collection<T> getElements(Collection<P> roots);
+---
+> 	Collection<	T> getElements(Collection<P> roots);

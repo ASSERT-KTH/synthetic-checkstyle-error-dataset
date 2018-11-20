@@ -1,0 +1,4 @@
+49c49
+< 	CtTargetedExpression<T, E> clone();
+---
+> 	CtTargetedExpression<T, E> clone	();

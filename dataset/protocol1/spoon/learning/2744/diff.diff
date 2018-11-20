@@ -1,0 +1,4 @@
+47c47
+< 		compiler.setCompilationUnits(unitList.toArray(new CompilationUnit[0]));
+---
+> 		compiler.setCompilationUnits(	unitList.toArray(new CompilationUnit[0]));

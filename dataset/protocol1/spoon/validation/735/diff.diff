@@ -1,0 +1,4 @@
+214c214
+< 	private void forEachIfCase(CtIf ifElement, BiConsumer<CtExpression<Boolean>, CtStatement> consumer) {
+---
+> 	private void forEachIfCase(CtIf ifElement, BiConsumer<CtExpression<Boolean>, CtStatement>consumer) {

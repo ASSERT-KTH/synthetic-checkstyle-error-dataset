@@ -1,0 +1,4 @@
+152c152
+< 	@PropertySetter(role = CONTAINED_TYPE)
+---
+> 	@PropertySetter(role= CONTAINED_TYPE)

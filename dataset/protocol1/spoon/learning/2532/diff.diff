@@ -1,0 +1,5 @@
+792c792,793
+< 		CompilationUnit cu = new CompilationUnitImpl();
+---
+> 		CompilationUnit cu = 
+> new CompilationUnitImpl();

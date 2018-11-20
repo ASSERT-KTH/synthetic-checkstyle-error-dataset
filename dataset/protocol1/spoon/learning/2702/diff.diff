@@ -1,0 +1,4 @@
+66c66
+< 		if (parent instanceof CtLoop) {
+---
+> 		if (parent instanceof CtLoop){

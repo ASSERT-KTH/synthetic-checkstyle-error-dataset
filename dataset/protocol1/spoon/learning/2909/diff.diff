@@ -1,0 +1,4 @@
+31c31
+< 	@MetamodelPropertyField(role = CtRole.COMMENT_TAG)
+---
+> 	@MetamodelPropertyField(role =CtRole.COMMENT_TAG)

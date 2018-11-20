@@ -1,0 +1,4 @@
+61c61
+< 		return type.isAssignableFrom(element.getClass());
+---
+> 		return type.isAssignableFrom( element.getClass());

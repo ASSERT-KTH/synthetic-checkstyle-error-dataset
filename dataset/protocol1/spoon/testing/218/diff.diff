@@ -1,0 +1,4 @@
+439c439
+< 		spoon.reflect.code.CtLiteral<T> aCtLiteral = literal.getFactory().Core().createLiteral();
+---
+> 		spoon.reflect.code.CtLiteral<T> aCtLiteral= literal.getFactory().Core().createLiteral();

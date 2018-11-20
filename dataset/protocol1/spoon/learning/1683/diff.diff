@@ -1,0 +1,5 @@
+40c40,41
+< 	public SubtypeFilter includingSelf(boolean includingSelf) {
+---
+> 	public SubtypeFilter includingSelf(boolean 
+> includingSelf) {

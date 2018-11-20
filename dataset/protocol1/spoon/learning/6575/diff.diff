@@ -1,0 +1,5 @@
+40,41c40
+< 			throw new ClassCastException("Unable to compare elements");
+< 		}
+---
+> 			throw new ClassCastException("Unable to compare elements");		}

@@ -1,0 +1,4 @@
+43c43
+< public interface CtClass<T> extends CtType<T>, CtStatement {
+---
+> public interface CtClass<T> extends CtType<T>,CtStatement {

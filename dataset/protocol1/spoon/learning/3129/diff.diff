@@ -1,0 +1,4 @@
+52c52
+< 				throw new FileNotFoundException("The following file does not exist: " + this.file.getCanonicalPath());
+---
+> 				throw new FileNotFoundException("The following file does not exist: " + this.file.	getCanonicalPath());

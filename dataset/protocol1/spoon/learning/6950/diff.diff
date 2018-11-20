@@ -1,0 +1,4 @@
+72c72
+< 			BufferedInputStream buffered = new BufferedInputStream(in);
+---
+> 			BufferedInputStream buffered =new BufferedInputStream(in);

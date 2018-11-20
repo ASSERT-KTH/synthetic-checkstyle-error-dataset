@@ -1,0 +1,4 @@
+58c58
+< 			if (isImportedInClassImports(ref.getDeclaringType())) {
+---
+> 			if (	isImportedInClassImports(ref.getDeclaringType())) {

@@ -1,0 +1,4 @@
+32c32
+< 		VisitorPartialEvaluator eval = new VisitorPartialEvaluator();
+---
+> 		VisitorPartialEvaluator eval =new VisitorPartialEvaluator();

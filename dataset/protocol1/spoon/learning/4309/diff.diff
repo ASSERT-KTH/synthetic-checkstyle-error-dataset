@@ -1,0 +1,4 @@
+22c22
+< import spoon.processing.FileGenerator;
+---
+>  import spoon.processing.FileGenerator;

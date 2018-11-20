@@ -1,0 +1,5 @@
+60c60,61
+< 	public boolean replaceNode(RootNode oldNode, RootNode newNode) {
+---
+> 	public boolean replaceNode(RootNode oldNode, 
+> RootNode newNode) {

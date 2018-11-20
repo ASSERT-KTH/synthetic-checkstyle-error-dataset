@@ -1,0 +1,4 @@
+102c102
+< 		if (!Objects.equals(content, ctComment.content)) {
+---
+> 		if (! Objects.equals(content, ctComment.content)) {

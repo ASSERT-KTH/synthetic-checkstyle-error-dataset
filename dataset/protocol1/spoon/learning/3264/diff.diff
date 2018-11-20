@@ -1,0 +1,5 @@
+50,51c50
+< 	public MethodFactory(Factory factory) {
+< 		super(factory);
+---
+> 	public MethodFactory(Factory factory) {		super(factory);

@@ -1,0 +1,4 @@
+96c96
+< 		public void mapEachResult(Function<T, T> consumer) {
+---
+> 		public void mapEachResult(Function<T , T> consumer) {

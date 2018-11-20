@@ -1,0 +1,5 @@
+37c37,38
+< public interface CtBinaryOperator<T> extends CtExpression<T> {
+---
+> public 
+> interface CtBinaryOperator<T> extends CtExpression<T> {

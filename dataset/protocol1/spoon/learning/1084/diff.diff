@@ -1,0 +1,5 @@
+427c427,428
+< 			throw new SpoonException("Invalid start/end interval. It overlaps multiple fragments.");
+---
+> 			
+> throw new SpoonException("Invalid start/end interval. It overlaps multiple fragments.");

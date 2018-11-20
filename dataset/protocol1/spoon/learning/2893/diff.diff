@@ -1,0 +1,5 @@
+51c51,52
+< 	<C extends CtExecutableReferenceExpression<T, E>> C setExecutable(CtExecutableReference<T> executable);
+---
+> 	<C extends CtExecutableReferenceExpression<T, E>> C setExecutable
+> (CtExecutableReference<T> executable);

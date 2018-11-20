@@ -1,0 +1,5 @@
+29c29,30
+< 	private SOURCE_TYPE sourceType;
+---
+> 	private SOURCE_TYPE 
+> sourceType;

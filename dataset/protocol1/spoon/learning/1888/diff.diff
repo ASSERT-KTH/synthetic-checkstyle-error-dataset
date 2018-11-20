@@ -1,0 +1,5 @@
+50c50,51
+< 	public void apply(CtElement input, CtConsumer<Object> outputConsumer) {
+---
+> 	public 
+> void apply(CtElement input, CtConsumer<Object> outputConsumer) {

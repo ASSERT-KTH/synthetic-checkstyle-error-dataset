@@ -1,0 +1,4 @@
+302c302
+< 	private <T> Map<String, T> entriesToMap(List<Map.Entry> entries) {
+---
+> 	private <T> Map<String, T> entriesToMap(List	<Map.Entry> entries) {

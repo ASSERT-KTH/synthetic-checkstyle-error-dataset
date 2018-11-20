@@ -1,0 +1,4 @@
+45c45
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.OPENED_PACKAGE, openedPackage, this.isOpen);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.OPENED_PACKAGE, openedPackage,this.isOpen);

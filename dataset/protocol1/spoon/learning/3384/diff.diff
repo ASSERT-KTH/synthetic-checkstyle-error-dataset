@@ -1,0 +1,4 @@
+54c54
+< 	protected void setResult(T result) {
+---
+> 	protected void setResult( T result) {

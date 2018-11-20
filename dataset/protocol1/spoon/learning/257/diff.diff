@@ -1,0 +1,5 @@
+153c153,154
+< 	public <C extends CtModifiable> C addModifier(ModifierKind modifier) {
+---
+> 	public 
+> <C extends CtModifiable> C addModifier(ModifierKind modifier) {

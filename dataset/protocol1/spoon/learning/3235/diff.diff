@@ -1,0 +1,5 @@
+127,128c127
+< 	public void visitPackage(Package aPackage) {
+< 		final CtPackage ctPackage = factory.Package().getOrCreate(aPackage.getName());
+---
+> 	public void visitPackage(Package aPackage) {		final CtPackage ctPackage = factory.Package().getOrCreate(aPackage.getName());

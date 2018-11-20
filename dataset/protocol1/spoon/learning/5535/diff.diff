@@ -1,0 +1,5 @@
+19,20c19
+< import java.util.Collection;
+< import java.util.regex.Pattern;
+---
+> import java.util.Collection;import java.util.regex.Pattern;

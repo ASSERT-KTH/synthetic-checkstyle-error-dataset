@@ -1,0 +1,4 @@
+33c33
+< 	Factory factory;
+---
+> 	 Factory factory;

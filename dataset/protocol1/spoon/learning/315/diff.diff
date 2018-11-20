@@ -1,0 +1,4 @@
+339c339
+< 		long time = date.getTime();
+---
+> 		long time = date.getTime()	;

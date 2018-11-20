@@ -1,0 +1,4 @@
+289c289
+< 		throw new SpoonException("ValueConvertor is not defined.");
+---
+> 		throw new SpoonException("ValueConvertor is not defined."	);

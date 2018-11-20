@@ -1,0 +1,4 @@
+26c26
+< 	protected LinkedHashSet<TypeTransformer> transformers;
+---
+> 	protected LinkedHashSet<	TypeTransformer> transformers;

@@ -1,0 +1,5 @@
+65c65,66
+< 	public static final int SWITCH_CASES_CONTAINER_DEFAULT_CAPACITY = 7;
+---
+> 	
+> public static final int SWITCH_CASES_CONTAINER_DEFAULT_CAPACITY = 7;

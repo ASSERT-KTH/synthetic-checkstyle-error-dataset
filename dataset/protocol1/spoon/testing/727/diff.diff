@@ -1,0 +1,4 @@
+66c66
+< 		spoon.reflect.declaration.CtAnonymousExecutable aCtAnonymousExecutable = anonymousExec.getFactory().Core().createAnonymousExecutable();
+---
+> 		spoon.reflect.declaration.CtAnonymousExecutable aCtAnonymousExecutable = anonymousExec.getFactory().Core().	createAnonymousExecutable();

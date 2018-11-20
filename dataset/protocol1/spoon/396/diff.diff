@@ -1,4 +1,0 @@
-683c683
-< 		outputProcessor.setFactory(this.getFactory());
----
-> 		outputProcessor.setFactory	(this.getFactory());

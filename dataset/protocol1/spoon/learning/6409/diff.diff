@@ -1,0 +1,4 @@
+34c34
+< 	public EnumFactory(Factory factory) {
+---
+> 	public EnumFactory( Factory factory) {

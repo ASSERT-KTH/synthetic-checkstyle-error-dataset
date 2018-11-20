@@ -1,0 +1,5 @@
+411c411,412
+< 	public <T extends CtModule> T setRootPackage(CtPackage rootPackage) {
+---
+> 	
+> public <T extends CtModule> T setRootPackage(CtPackage rootPackage) {

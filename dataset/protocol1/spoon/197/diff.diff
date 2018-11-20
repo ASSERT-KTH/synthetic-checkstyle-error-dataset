@@ -1,4 +1,0 @@
-62c62
-< 		Collections.sort(actualTypes, new TypeComparator());
----
-> 		Collections.sort	(actualTypes, new TypeComparator());

@@ -1,0 +1,5 @@
+192,193c192
+< 	public <T> CtExecutableReference<T> createReference(CtTypeReference<?> declaringType, boolean isStatic, CtTypeReference<T> type, String methodName, List<CtTypeReference<?>> parameterTypes) {
+< 		CtExecutableReference<T> methodRef = factory.Core().createExecutableReference();
+---
+> 	public <T> CtExecutableReference<T> createReference(CtTypeReference<?> declaringType, boolean isStatic, CtTypeReference<T> type, String methodName, List<CtTypeReference<?>> parameterTypes) {		CtExecutableReference<T> methodRef = factory.Core().createExecutableReference();

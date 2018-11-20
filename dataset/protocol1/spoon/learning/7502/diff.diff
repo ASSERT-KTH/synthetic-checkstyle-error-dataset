@@ -1,0 +1,4 @@
+383c383
+< 						if (astPair.element == parentOfPotentialVariable) {
+---
+> 						if (astPair.element== parentOfPotentialVariable) {

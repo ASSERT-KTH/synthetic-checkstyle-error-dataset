@@ -1,0 +1,5 @@
+574,575c574
+< 		}
+< 		w.setBody(evaluate(whileLoop.getBody()));
+---
+> 		}		w.setBody(evaluate(whileLoop.getBody()));

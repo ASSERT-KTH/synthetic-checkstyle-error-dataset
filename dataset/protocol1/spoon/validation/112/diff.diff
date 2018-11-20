@@ -1,0 +1,5 @@
+102c102,103
+< 			return result == null ? Collections.emptyList() : Collections.singletonList(result);
+---
+> 			
+> return result == null ? Collections.emptyList() : Collections.singletonList(result);

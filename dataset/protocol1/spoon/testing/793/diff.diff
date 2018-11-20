@@ -1,0 +1,4 @@
+42c42
+< 		CtTypeReference<?> typeRef = ((ResultHolder.Single<CtTypeReference<?>>) inputHolder).getResult();
+---
+> 		CtTypeReference<?>typeRef = ((ResultHolder.Single<CtTypeReference<?>>) inputHolder).getResult();

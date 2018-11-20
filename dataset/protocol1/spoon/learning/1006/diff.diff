@@ -1,0 +1,5 @@
+105,106c105
+< 		if (current instanceof CtExpression) {
+< 			while (!casts.isEmpty()) {
+---
+> 		if (current instanceof CtExpression) {			while (!casts.isEmpty()) {

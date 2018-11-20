@@ -1,4 +1,0 @@
-172c172
-< 	void addInputSources(List<SpoonResource> resources);
----
-> 	void addInputSources(List< SpoonResource> resources);

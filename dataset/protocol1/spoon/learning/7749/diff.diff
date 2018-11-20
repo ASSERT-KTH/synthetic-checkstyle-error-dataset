@@ -1,0 +1,4 @@
+82c82
+< 				getPackageName(qualifiedName)), getSimpleName(qualifiedName));
+---
+> 				getPackageName(qualifiedName)), getSimpleName(qualifiedName)	);

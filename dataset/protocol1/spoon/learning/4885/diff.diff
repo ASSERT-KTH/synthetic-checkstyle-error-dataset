@@ -1,0 +1,4 @@
+73c73
+< 		result.add(factory.Type().get(spoon.reflect.code.CtAbstractInvocation.class));
+---
+> 		result.add(factory.Type().get(spoon.reflect.code.	CtAbstractInvocation.class));

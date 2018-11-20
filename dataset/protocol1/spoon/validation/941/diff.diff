@@ -1,0 +1,5 @@
+26,27c26
+< import spoon.reflect.declaration.CtAnnotation;
+< import spoon.reflect.declaration.CtElement;
+---
+> import spoon.reflect.declaration.CtAnnotation;import spoon.reflect.declaration.CtElement;

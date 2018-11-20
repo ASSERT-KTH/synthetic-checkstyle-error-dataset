@@ -1,0 +1,4 @@
+96c96
+< 		CompilationUnit compilationUnit = sp.getCompilationUnit();
+---
+> 		CompilationUnit compilationUnit = sp. getCompilationUnit();

@@ -1,0 +1,4 @@
+240c240
+< 		if (this.annotations == CtElementImpl.<CtAnnotation<? extends Annotation>>emptyList()) {
+---
+> 		if (this.annotations == CtElementImpl.<CtAnnotation<? extends Annotation >>emptyList()) {

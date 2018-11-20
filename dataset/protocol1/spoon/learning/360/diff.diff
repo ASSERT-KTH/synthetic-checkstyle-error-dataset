@@ -1,0 +1,5 @@
+254c254,255
+< 		return findIndexOfNextFragment(childFragments, childFragmentIdx + 1, checkCollectionItems(filter(ElementSourceFragment.class, elementFragment -> elementFragment.getElement() == element)));
+---
+> 		return findIndexOfNextFragment(childFragments, childFragmentIdx + 1, checkCollectionItems(filter(ElementSourceFragment.class, elementFragment -> elementFragment.getElement
+> () == element)));

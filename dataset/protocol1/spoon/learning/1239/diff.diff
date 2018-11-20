@@ -1,0 +1,5 @@
+62c62,63
+< 	<T extends CtSynchronized> T setBlock(CtBlock<?> block);
+---
+> 	
+> <T extends CtSynchronized> T setBlock(CtBlock<?> block);

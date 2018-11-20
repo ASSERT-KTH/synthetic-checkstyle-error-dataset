@@ -1,0 +1,5 @@
+27c27,28
+< public class CtLiteralImpl<T> extends CtExpressionImpl<T> implements CtLiteral<T> {
+---
+> public class CtLiteralImpl<T> extends CtExpressionImpl<T> 
+> implements CtLiteral<T> {

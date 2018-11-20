@@ -1,0 +1,4 @@
+40c40
+< 	boolean matchesPrinterEvent(PrinterEvent event);
+---
+> 	boolean matchesPrinterEvent(PrinterEvent event );

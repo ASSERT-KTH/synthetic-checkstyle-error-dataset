@@ -1,0 +1,5 @@
+75,76c75
+< 	public boolean hasAdded() {
+< 		return added != null && !added.isEmpty();
+---
+> 	public boolean hasAdded() {		return added != null && !added.isEmpty();

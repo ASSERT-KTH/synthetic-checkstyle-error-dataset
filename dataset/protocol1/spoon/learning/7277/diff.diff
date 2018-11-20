@@ -1,0 +1,5 @@
+31,32c31
+< 	public CtFieldWrite<T> clone() {
+< 		return (CtFieldWrite<T>) super.clone();
+---
+> 	public CtFieldWrite<T> clone() {		return (CtFieldWrite<T>) super.clone();

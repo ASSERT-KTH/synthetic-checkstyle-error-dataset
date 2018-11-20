@@ -1,0 +1,5 @@
+93c93,94
+< 				CtType klass = this.getOrLoadClass(className);
+---
+> 				CtType 
+> klass = this.getOrLoadClass(className);

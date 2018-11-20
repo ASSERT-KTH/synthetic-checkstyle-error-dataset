@@ -1,0 +1,4 @@
+33c33
+< import spoon.reflect.visitor.DefaultJavaPrettyPrinter;
+---
+> import spoon.reflect.visitor.	DefaultJavaPrettyPrinter;

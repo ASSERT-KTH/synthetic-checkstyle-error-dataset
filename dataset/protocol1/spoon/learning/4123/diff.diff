@@ -1,0 +1,4 @@
+34c34
+< 	@MetamodelPropertyField(role = CONDITION)
+---
+> 	@MetamodelPropertyField(role= CONDITION)

@@ -1,0 +1,4 @@
+20c20
+< import spoon.support.modelobs.action.AddAction;
+---
+> import spoon.	support.modelobs.action.AddAction;

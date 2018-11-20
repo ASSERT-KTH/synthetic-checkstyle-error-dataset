@@ -1,0 +1,5 @@
+113c113,114
+< 					if (!AbstractPathElement.ARGUMENT_NAME_SEPARATOR.equals(token)) {
+---
+> 					
+> if (!AbstractPathElement.ARGUMENT_NAME_SEPARATOR.equals(token)) {

@@ -1,0 +1,5 @@
+254c254,255
+< 		for (CtTypeReference<?> actualTypeArgument : actualTypeArguments) {
+---
+> 		for (CtTypeReference<?> 
+> actualTypeArgument : actualTypeArguments) {

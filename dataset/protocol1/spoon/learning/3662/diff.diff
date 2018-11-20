@@ -1,0 +1,4 @@
+320c320
+< 			CtType<?> scope = executable.getDeclaringType();
+---
+> 			CtType<?> scope = executable.	getDeclaringType();

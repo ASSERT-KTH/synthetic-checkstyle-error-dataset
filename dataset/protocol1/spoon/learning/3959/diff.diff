@@ -1,0 +1,4 @@
+184c184
+< 		return INTEGER_PRIMITIVE.clone();
+---
+> 		return INTEGER_PRIMITIVE.clone()	;

@@ -1,0 +1,5 @@
+35,36c35
+< import spoon.reflect.declaration.CtMethod;
+< import spoon.reflect.declaration.CtShadowable;
+---
+> import spoon.reflect.declaration.CtMethod;import spoon.reflect.declaration.CtShadowable;

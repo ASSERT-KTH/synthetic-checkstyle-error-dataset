@@ -1,0 +1,4 @@
+84c84
+< 			public <T> void scanCtType(CtType<T> type) {
+---
+> 			public <T> void scanCtType(CtType<T>type) {

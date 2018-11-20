@@ -1,0 +1,4 @@
+34c34
+< 	public RefactoringException(Throwable e) {
+---
+> 	public RefactoringException(Throwable e){

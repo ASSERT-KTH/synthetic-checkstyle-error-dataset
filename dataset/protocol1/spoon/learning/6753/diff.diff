@@ -1,0 +1,5 @@
+57c57,58
+< 			} else if (position > start) {
+---
+> 			
+> } else if (position > start) {

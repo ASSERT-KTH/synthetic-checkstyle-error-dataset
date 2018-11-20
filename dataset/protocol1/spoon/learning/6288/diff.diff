@@ -1,0 +1,4 @@
+55c55
+< 		return (CtLiteral<T>) super.clone();
+---
+> 		return (CtLiteral<T >) super.clone();

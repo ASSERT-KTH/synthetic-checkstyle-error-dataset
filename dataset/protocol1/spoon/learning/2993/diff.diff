@@ -1,0 +1,4 @@
+194c194
+< 		return (getFile() == null ? s.getFile() == null : getFile().equals(s.getFile())) && getSourceEnd() == s.getSourceEnd() && getSourceStart() == s.getSourceStart();
+---
+> 		return (getFile() == null ? s.getFile() == null : getFile().equals(s.getFile())) && getSourceEnd() == s.getSourceEnd() && getSourceStart() == s.getSourceStart	();

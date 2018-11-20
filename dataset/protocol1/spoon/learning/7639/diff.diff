@@ -1,0 +1,5 @@
+100,101c100
+< 		if (string == null) {
+< 			return false;
+---
+> 		if (string == null) {			return false;

@@ -1,0 +1,4 @@
+48c48
+< 			char[] fn1 = u1.getFileName();
+---
+> 			char[] fn1= u1.getFileName();

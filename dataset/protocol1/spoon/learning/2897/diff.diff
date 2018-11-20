@@ -1,0 +1,5 @@
+104,105c104
+< 				write(" extends ");
+< 			} else {
+---
+> 				write(" extends ");			} else {

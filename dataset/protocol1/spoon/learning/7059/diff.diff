@@ -1,0 +1,5 @@
+58,59c58
+< 		if (target == null && template == null) {
+< 			return parameters;
+---
+> 		if (target == null && template == null) {			return parameters;

@@ -1,0 +1,5 @@
+37c37,38
+< 	private String lineSeparator = System.getProperty("line.separator");
+---
+> 	private 
+> String lineSeparator = System.getProperty("line.separator");

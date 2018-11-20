@@ -1,0 +1,4 @@
+118c118
+< 					if (sendToOutput(field, outputConsumer)) {
+---
+> 					if (sendToOutput(field, outputConsumer	)) {

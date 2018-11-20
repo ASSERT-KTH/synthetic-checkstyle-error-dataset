@@ -1,0 +1,4 @@
+275c275
+< 		List<T> results = generate(valueType, new ImmutableMapImpl(params, PatternBuilder.TARGET_TYPE, targetType.getReference()));
+---
+> 		List<T> results = generate(valueType , new ImmutableMapImpl(params, PatternBuilder.TARGET_TYPE, targetType.getReference()));

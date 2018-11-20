@@ -1,0 +1,4 @@
+247c247
+< 	public List<CtFieldReference<?>> getAllFields() {
+---
+> 	public List<CtFieldReference<?>	> getAllFields() {

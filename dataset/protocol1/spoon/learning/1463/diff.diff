@@ -1,0 +1,5 @@
+64,65c64
+< 		if (reference != null) {
+< 			reference.setParent(this);
+---
+> 		if (reference != null) {			reference.setParent(this);

@@ -1,0 +1,4 @@
+83c83
+< 		return modified != null && !modified.isEmpty();
+---
+> 		return modified != null && !modified.isEmpty ();

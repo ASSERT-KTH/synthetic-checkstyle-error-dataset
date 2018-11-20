@@ -1,4 +1,0 @@
-136c136
-< 				throw new SpoonException("Pom " + srcPom.getPath() + " not found.");
----
-> 				throw new SpoonException("Pom "+ srcPom.getPath() + " not found.");

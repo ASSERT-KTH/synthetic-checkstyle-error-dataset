@@ -1,0 +1,4 @@
+273c273
+< 			CtTypeReference<?> superTypeOfSubTypeParam = subTypeParam.getSuperclass();
+---
+> 			 CtTypeReference<?> superTypeOfSubTypeParam = subTypeParam.getSuperclass();

@@ -1,0 +1,4 @@
+22c22
+< public class CtVariableReadImpl<T> extends CtVariableAccessImpl<T> implements CtVariableRead<T> {
+---
+> public class CtVariableReadImpl<T> extends CtVariableAccessImpl< T> implements CtVariableRead<T> {

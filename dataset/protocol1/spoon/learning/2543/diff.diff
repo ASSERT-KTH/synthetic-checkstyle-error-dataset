@@ -1,0 +1,4 @@
+60c60
+< 				throw new SpoonException("Unsupported operator " + o.name());
+---
+> 				throw new SpoonException("Unsupported operator " + o. name());

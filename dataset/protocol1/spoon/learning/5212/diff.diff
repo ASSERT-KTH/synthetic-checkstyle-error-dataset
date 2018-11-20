@@ -1,0 +1,4 @@
+44c44
+< public interface CtInvocation<T> extends CtAbstractInvocation<T>, CtStatement, CtTargetedExpression<T, CtExpression<?>>, CtActualTypeContainer {
+---
+> public interface CtInvocation<T>extends CtAbstractInvocation<T>, CtStatement, CtTargetedExpression<T, CtExpression<?>>, CtActualTypeContainer {

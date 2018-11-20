@@ -1,0 +1,4 @@
+176c176
+< 	public <C extends CtRHSReceiver<T>> C setAssignment(CtExpression<T> assignment) {
+---
+> 	public <C extends CtRHSReceiver<T>> C setAssignment (CtExpression<T> assignment) {

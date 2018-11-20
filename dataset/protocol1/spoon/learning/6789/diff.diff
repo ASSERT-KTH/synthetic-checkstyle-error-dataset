@@ -1,0 +1,4 @@
+76c76
+< 	public <T> T[] toArray(T[] a) {
+---
+> 	public<T> T[] toArray(T[] a) {

@@ -1,0 +1,4 @@
+79c79
+< 					if (input == element) {
+---
+> 					if (input ==element) {

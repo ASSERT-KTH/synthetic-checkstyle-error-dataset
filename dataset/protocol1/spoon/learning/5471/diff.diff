@@ -1,0 +1,4 @@
+110c110
+< 		String[] classPathAr = System.getProperty("java.class.path").split(classPathSeparator);
+---
+> 		String[] classPathAr = System.getProperty("java.class.path").split (classPathSeparator);

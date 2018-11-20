@@ -1,0 +1,5 @@
+697c697,698
+< 				CtTypeReference<?> thatType = thatParameterTypes.get(i);
+---
+> 				CtTypeReference<?> 
+> thatType = thatParameterTypes.get(i);

@@ -1,0 +1,4 @@
+40c40
+< 	public static <K, V> V getOrCreate(Map<K, V> map, K key, Supplier<V> valueCreator, Consumer<V> initializer) {
+---
+> 	public static <K, V> V getOrCreate(Map<K, V> map	, K key, Supplier<V> valueCreator, Consumer<V> initializer) {

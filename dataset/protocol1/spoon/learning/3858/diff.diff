@@ -1,0 +1,4 @@
+201c201
+< 		getModelChangeListener().onListDelete(getOwner(), getRole(), list, index, oldElement);
+---
+> 		getModelChangeListener().onListDelete(getOwner(),getRole(), list, index, oldElement);

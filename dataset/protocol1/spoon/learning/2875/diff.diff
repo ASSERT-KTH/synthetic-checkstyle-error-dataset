@@ -1,0 +1,4 @@
+145c145
+< 	protected void doScan(CtRole role, CtElement element, ScanningMode mode) {
+---
+> 	protected void doScan(CtRole role, CtElement element, ScanningMode mode	) {

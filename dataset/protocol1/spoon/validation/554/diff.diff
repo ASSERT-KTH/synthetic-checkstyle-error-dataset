@@ -1,0 +1,5 @@
+57c57,58
+< 		propagateModelChange(new UpdateAction<>(new ObjectContext(currentElement, role), newValue, oldValue));
+---
+> 		propagateModelChange(new UpdateAction<>(new ObjectContext(currentElement, role), newValue, oldValue))
+> ;

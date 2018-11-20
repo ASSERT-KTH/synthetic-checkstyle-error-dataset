@@ -1,0 +1,4 @@
+81c81
+< 	<T, U> List<U> asList(T element);
+---
+> 	<T, U> List<U> asList(T element	);

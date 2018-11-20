@@ -1,0 +1,4 @@
+87c87
+< 		return rootElement.filterChildren(new TypeFilter<>(CtReference.class)).filterChildren(filter).list();
+---
+> 		 return rootElement.filterChildren(new TypeFilter<>(CtReference.class)).filterChildren(filter).list();

@@ -1,0 +1,4 @@
+23c23
+< public class CtArrayWriteImpl<T> extends CtArrayAccessImpl<T, CtExpression<?>> implements CtArrayWrite<T> {
+---
+> public class CtArrayWriteImpl<T> extends CtArrayAccessImpl<T, CtExpression<?	>> implements CtArrayWrite<T> {

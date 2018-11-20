@@ -1,0 +1,4 @@
+111c111
+< 	<T extends CtPackage> T addType(CtType<?> type);
+---
+> 	< T extends CtPackage> T addType(CtType<?> type);

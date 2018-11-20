@@ -1,0 +1,5 @@
+218,219c218
+< 							} else {
+< 								searchScope = variable.getParent();
+---
+> 							} else {								searchScope = variable.getParent();

@@ -1,0 +1,4 @@
+23c23
+< public class CtArrayReadImpl<T> extends CtArrayAccessImpl<T, CtExpression<?>> implements CtArrayRead<T> {
+---
+> public class CtArrayReadImpl<T> extends CtArrayAccessImpl<T, CtExpression<?>>implements CtArrayRead<T> {

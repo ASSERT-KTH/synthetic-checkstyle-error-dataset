@@ -1,0 +1,4 @@
+53c53
+< 		return (CtPackageReference) super.clone();
+---
+> 		return(CtPackageReference) super.clone();

@@ -1,0 +1,4 @@
+90c90
+< 			this.statements = new ArrayList<>(ModelElementContainerDefaultCapacities.CASE_STATEMENTS_CONTAINER_DEFAULT_CAPACITY);
+---
+> 			this.statements = new ArrayList	<>(ModelElementContainerDefaultCapacities.CASE_STATEMENTS_CONTAINER_DEFAULT_CAPACITY);

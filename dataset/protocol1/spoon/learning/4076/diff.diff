@@ -1,0 +1,5 @@
+437c437,438
+< 			result.add(createVariableRead(v.getReference(), v.getModifiers().contains(ModifierKind.STATIC)));
+---
+> 			result.add(createVariableRead(v.getReference()
+> , v.getModifiers().contains(ModifierKind.STATIC)));

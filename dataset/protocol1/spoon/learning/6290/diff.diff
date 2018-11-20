@@ -1,0 +1,4 @@
+522c522
+< 		CtExpression<?> operand = evaluate(operator.getOperand());
+---
+> 		CtExpression<	?> operand = evaluate(operator.getOperand());

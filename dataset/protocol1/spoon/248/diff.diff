@@ -1,5 +1,0 @@
-149c149,150
-< 				CtTypeReference<?> t1 = t;
----
-> 				CtTypeReference<?> t1 
-> = t;

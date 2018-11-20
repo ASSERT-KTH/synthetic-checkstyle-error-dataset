@@ -1,0 +1,4 @@
+75c75
+< 	boolean isStatic();
+---
+> 	boolean isStatic()	;

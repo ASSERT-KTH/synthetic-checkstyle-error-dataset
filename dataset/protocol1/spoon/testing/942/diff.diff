@@ -1,0 +1,4 @@
+390c390
+< 		protected void onCallbackSet(String stackClass, String stackMethodName, Class<?> callbackClass, String callbackMethod, int nrOfParams, int idxOfInputParam) {
+---
+> 		protected void onCallbackSet(String stackClass, String stackMethodName, Class<?> callbackClass, String callbackMethod, int nrOfParams, int idxOfInputParam	) {

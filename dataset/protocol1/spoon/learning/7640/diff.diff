@@ -1,0 +1,5 @@
+62c62,63
+< 	public <T> CtInterface<T> create(String qualifiedName) {
+---
+> 	public <T> 
+> CtInterface<T> create(String qualifiedName) {

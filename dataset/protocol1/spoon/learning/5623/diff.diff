@@ -1,0 +1,4 @@
+476c476
+< 				oldPosition.getSourceStart(), oldPosition.getSourceEnd(),
+---
+> 				oldPosition.getSourceStart(),oldPosition.getSourceEnd(),

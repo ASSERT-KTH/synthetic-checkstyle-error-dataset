@@ -1,0 +1,5 @@
+786,787c786
+< 	public void prettyprint() {
+< 		long tstart = System.currentTimeMillis();
+---
+> 	public void prettyprint() {		long tstart = System.currentTimeMillis();

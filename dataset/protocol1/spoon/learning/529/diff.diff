@@ -1,0 +1,4 @@
+34c34
+< 	T getTarget();
+---
+> 	T getTarget()	;

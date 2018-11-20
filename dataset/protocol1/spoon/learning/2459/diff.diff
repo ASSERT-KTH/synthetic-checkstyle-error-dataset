@@ -1,0 +1,5 @@
+40c40,41
+< public interface CtExecutableReferenceExpression<T, E extends CtExpression<?>> extends CtTargetedExpression<T, E> {
+---
+> public 
+> interface CtExecutableReferenceExpression<T, E extends CtExpression<?>> extends CtTargetedExpression<T, E> {

@@ -1,0 +1,4 @@
+36c36
+< 	Set<CtAnnotationMethod<?>> getAnnotationMethods();
+---
+> 	Set<CtAnnotationMethod<?>> getAnnotationMethods	();

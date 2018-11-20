@@ -1,0 +1,4 @@
+109c109
+< 		return targetRoot.filterChildren(this).list();
+---
+> 		return targetRoot.filterChildren(this).list ();

@@ -1,0 +1,4 @@
+38c38
+< 	CtBlock<R> clone();
+---
+> 	CtBlock	<R> clone();

@@ -1,0 +1,4 @@
+121c121
+< 	<T extends CtStatement> T getLastStatement();
+---
+> 	< T extends CtStatement> T getLastStatement();

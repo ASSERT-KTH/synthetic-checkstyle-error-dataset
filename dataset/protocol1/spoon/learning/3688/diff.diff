@@ -1,0 +1,5 @@
+31,32c31
+< import spoon.reflect.code.CtConditional;
+< import spoon.reflect.code.CtIf;
+---
+> import spoon.reflect.code.CtConditional;import spoon.reflect.code.CtIf;

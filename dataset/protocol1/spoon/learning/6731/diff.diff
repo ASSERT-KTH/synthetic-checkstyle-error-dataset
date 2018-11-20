@@ -1,0 +1,5 @@
+41c41,42
+< 	private boolean canBeProcessed(CtElement e) {
+---
+> 	private boolean canBeProcessed
+> (CtElement e) {

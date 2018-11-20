@@ -1,0 +1,4 @@
+48c48
+< 	 * Tries to decompress the file given the available {@link CompressionType}
+---
+> 	 * Tries to decompress the file given the available {@linkCompressionType}

@@ -1,0 +1,4 @@
+36c36
+< 	@MetamodelPropertyField(role = CASE)
+---
+> 	 @MetamodelPropertyField(role = CASE)

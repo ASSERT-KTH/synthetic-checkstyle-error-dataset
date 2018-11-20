@@ -1,0 +1,4 @@
+122c122
+< 			printer.write(com.trim()).writeln();
+---
+> 			printer.write(com.trim()	).writeln();

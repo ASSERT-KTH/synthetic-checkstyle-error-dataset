@@ -1,0 +1,4 @@
+38c38
+< 		return signaturePrinter1.getSignature().compareTo(signaturePrinter2.getSignature());
+---
+> 		return signaturePrinter1.getSignature().compareTo(signaturePrinter2.	getSignature());

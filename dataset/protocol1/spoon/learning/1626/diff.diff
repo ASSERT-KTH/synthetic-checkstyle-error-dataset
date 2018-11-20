@@ -1,0 +1,4 @@
+37c37
+< 	public CtExpression<T> getAssignment() {
+---
+> 	public CtExpression<T>getAssignment() {

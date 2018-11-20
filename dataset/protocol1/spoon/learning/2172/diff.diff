@@ -1,0 +1,4 @@
+90c90
+< 	public CtWildcardReference clone() {
+---
+> 	public CtWildcardReference clone () {

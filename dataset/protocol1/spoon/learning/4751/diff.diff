@@ -1,0 +1,4 @@
+87c87
+< 			cases = new ArrayList<>(SWITCH_CASES_CONTAINER_DEFAULT_CAPACITY);
+---
+> 			cases =new ArrayList<>(SWITCH_CASES_CONTAINER_DEFAULT_CAPACITY);

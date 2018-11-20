@@ -1,0 +1,4 @@
+21c21
+< 		super(ComplianceOptions.class);
+---
+> 		super(ComplianceOptions.class );

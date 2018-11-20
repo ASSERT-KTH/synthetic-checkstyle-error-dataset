@@ -1,0 +1,5 @@
+694c694,695
+< 			CtFieldReference<?> exist = fieldImports.get(ref.getSimpleName());
+---
+> 			CtFieldReference<?> 
+> exist = fieldImports.get(ref.getSimpleName());

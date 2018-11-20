@@ -1,0 +1,4 @@
+79c79
+< 				} else if (s.equals(CompressorStreamFactory.BZIP2)) {
+---
+> 				} else if(s.equals(CompressorStreamFactory.BZIP2)) {

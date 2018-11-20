@@ -1,0 +1,4 @@
+96c96
+< 	CtFieldReference<T> clone();
+---
+> 	CtFieldReference<T	> clone();

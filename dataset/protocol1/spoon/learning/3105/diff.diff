@@ -1,0 +1,5 @@
+40,41c40
+< 			return literal.getValue() + "F";
+< 		} else if (literal.getValue() instanceof Character) {
+---
+> 			return literal.getValue() + "F";		} else if (literal.getValue() instanceof Character) {

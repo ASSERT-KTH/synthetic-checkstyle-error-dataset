@@ -1,0 +1,5 @@
+121,122c121
+< 	public void scan(CtElement element) {
+< 		if (element == null || isTerminated()) {
+---
+> 	public void scan(CtElement element) {		if (element == null || isTerminated()) {

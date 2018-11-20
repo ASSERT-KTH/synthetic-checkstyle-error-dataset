@@ -1,0 +1,5 @@
+149c149,150
+< 	<C extends CtExecutableReference<T>> C setStatic(boolean b);
+---
+> 	<C extends CtExecutableReference<T>> 
+> C setStatic(boolean b);

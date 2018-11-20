@@ -1,4 +1,0 @@
-65c65
-< 	public boolean isAddGeneratedBy() {
----
-> 	public boolean isAddGeneratedBy(){

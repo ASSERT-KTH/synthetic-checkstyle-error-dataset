@@ -1,0 +1,4 @@
+130c130
+< 			List<CastInfo> casts = this.jdtTreeBuilder.getContextBuilder().casts;
+---
+> 			List<CastInfo> casts = this. jdtTreeBuilder.getContextBuilder().casts;

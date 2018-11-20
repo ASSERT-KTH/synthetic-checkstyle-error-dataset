@@ -1,0 +1,4 @@
+41c41
+< 		this.serviceType = usedService;
+---
+> 		this.serviceType= usedService;

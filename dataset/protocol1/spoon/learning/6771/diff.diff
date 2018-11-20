@@ -1,0 +1,4 @@
+34c34
+< import spoon.support.SpoonClassNotFoundException;
+---
+> import spoon.support.	SpoonClassNotFoundException;

@@ -1,0 +1,4 @@
+35c35
+< 	public Class<T> getType() {
+---
+> 	public Class<T>getType() {

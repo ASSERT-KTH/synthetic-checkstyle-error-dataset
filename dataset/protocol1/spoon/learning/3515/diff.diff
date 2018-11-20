@@ -1,0 +1,5 @@
+48,49c48
+< 	public ParameterScopeFunction(CtScannerListener queryListener) {
+< 		this.listener = queryListener;
+---
+> 	public ParameterScopeFunction(CtScannerListener queryListener) {		this.listener = queryListener;

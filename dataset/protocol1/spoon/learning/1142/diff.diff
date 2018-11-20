@@ -1,0 +1,5 @@
+24,25c24
+< 	public T compliance(int version) {
+< 		if (version < 10) {
+---
+> 	public T compliance(int version) {		if (version < 10) {

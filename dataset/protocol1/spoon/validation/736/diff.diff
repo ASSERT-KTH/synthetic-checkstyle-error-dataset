@@ -1,0 +1,5 @@
+124c124,125
+< 	void initProperties(ProcessorProperties properties);
+---
+> 	
+> void initProperties(ProcessorProperties properties);

@@ -1,0 +1,4 @@
+80c80
+< 	public void forEachParameterInfo(BiConsumer<ParameterInfo, RootNode> consumer) {
+---
+> 	public void forEachParameterInfo(BiConsumer<ParameterInfo, RootNode>consumer) {

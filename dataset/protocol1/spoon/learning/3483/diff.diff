@@ -1,0 +1,4 @@
+27c27
+< 	public FernflowerDecompiler(File outputDir) {
+---
+> 	public FernflowerDecompiler	(File outputDir) {

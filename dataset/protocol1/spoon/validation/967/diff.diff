@@ -1,0 +1,5 @@
+139c139,140
+< 			for (ListIterator<T> iter = result.listIterator(); iter.hasNext();) {
+---
+> 			
+> for (ListIterator<T> iter = result.listIterator(); iter.hasNext();) {

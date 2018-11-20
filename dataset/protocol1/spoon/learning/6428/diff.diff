@@ -1,0 +1,5 @@
+82,83c82
+< 	public CtCatch clone() {
+< 		return (CtCatch) super.clone();
+---
+> 	public CtCatch clone() {		return (CtCatch) super.clone();

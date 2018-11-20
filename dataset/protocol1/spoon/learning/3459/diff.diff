@@ -1,0 +1,5 @@
+111c111,112
+< 	public void process(Collection<? extends CtElement> elements) {
+---
+> 	public void process
+> (Collection<? extends CtElement> elements) {

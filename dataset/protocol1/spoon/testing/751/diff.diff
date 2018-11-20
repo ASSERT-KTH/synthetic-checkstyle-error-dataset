@@ -1,0 +1,4 @@
+635c635
+< 	public <T> void visitCtInterface(CtInterface<T> e) {
+---
+> 	public<T> void visitCtInterface(CtInterface<T> e) {

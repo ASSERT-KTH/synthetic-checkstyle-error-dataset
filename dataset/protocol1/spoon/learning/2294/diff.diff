@@ -1,0 +1,5 @@
+556c556,557
+< 	void setMainFactory(Factory mainFactory);
+---
+> 	void setMainFactory
+> (Factory mainFactory);

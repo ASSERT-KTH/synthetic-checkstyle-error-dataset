@@ -1,0 +1,4 @@
+324c324
+< 		if ((modifier & ClassFileConstants.AccProtected) != 0) {
+---
+> 		if ((modifier & ClassFileConstants.AccProtected)!= 0) {

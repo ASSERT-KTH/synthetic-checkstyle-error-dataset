@@ -1,0 +1,4 @@
+34c34
+< 		return (CtThisAccess<T>) super.clone();
+---
+> 		return (CtThisAccess<T>)super.clone();

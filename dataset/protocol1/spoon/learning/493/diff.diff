@@ -1,0 +1,5 @@
+365,366c365
+< 		if (!types.isEmpty()) {
+< 			for (CtType<?> ctType : types) {
+---
+> 		if (!types.isEmpty()) {			for (CtType<?> ctType : types) {

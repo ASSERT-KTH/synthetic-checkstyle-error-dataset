@@ -1,4 +1,0 @@
-45c45
-< 		SpoonModelBuilder comp = launcher.createCompiler();
----
-> 		SpoonModelBuilder comp= launcher.createCompiler();

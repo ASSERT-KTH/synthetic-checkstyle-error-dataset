@@ -1,0 +1,4 @@
+119c119
+< 			isArray = (e.getType() instanceof CtArrayTypeReference);
+---
+> 			isArray = (e.getType() instanceof CtArrayTypeReference)	;

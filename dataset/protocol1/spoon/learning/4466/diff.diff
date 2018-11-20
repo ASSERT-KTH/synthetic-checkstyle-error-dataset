@@ -1,0 +1,4 @@
+30c30
+< 	public static void assertCtElementEquals(CtElement ct1, CtElement ct2) {
+---
+> 	public static void assertCtElementEquals(CtElement ct1, CtElement ct2){

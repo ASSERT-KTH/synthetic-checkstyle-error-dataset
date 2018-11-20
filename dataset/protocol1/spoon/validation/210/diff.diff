@@ -1,0 +1,5 @@
+31,32c31
+< 	public String[] build() {
+< 		return args.toArray(new String[0]);
+---
+> 	public String[] build() {		return args.toArray(new String[0]);

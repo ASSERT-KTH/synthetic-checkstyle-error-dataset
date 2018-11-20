@@ -1,0 +1,4 @@
+48c48
+< 	int nextLineIndex(int index);
+---
+> 	int nextLineIndex(int index) ;

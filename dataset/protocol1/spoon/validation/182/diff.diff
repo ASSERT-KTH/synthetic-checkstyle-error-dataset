@@ -1,0 +1,4 @@
+54c54
+< 			CtFieldReference<Object> fieldReference = getFactory().Core().createFieldReference();
+---
+> 			CtFieldReference <Object> fieldReference = getFactory().Core().createFieldReference();

@@ -1,0 +1,4 @@
+208c208
+< 			if (patternNodes.replaceNode(oldNode, tobeUsedNode) == false) {
+---
+> 			if (patternNodes.replaceNode(oldNode, tobeUsedNode)== false) {

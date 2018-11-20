@@ -1,0 +1,5 @@
+142c142,143
+< 		return method.hashCode() ^ index;
+---
+> 		return method.hashCode() 
+> ^ index;

@@ -1,0 +1,4 @@
+27c27
+< 	int getModifierSourceStart();
+---
+> 	int getModifierSourceStart()	;

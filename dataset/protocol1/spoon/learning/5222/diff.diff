@@ -1,0 +1,4 @@
+49c49
+< 	@PropertySetter(role = DIMENSION)
+---
+> 	@PropertySetter(role =DIMENSION)

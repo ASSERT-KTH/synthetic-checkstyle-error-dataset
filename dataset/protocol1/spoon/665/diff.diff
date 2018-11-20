@@ -1,4 +1,0 @@
-192c192
-< 			Set<File> incrementalSources = new HashSet<>(mAddedSources);
----
-> 			Set<File	> incrementalSources = new HashSet<>(mAddedSources);

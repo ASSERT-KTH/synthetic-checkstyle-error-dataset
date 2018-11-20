@@ -1,0 +1,4 @@
+33c33
+< import spoon.support.sniper.SniperJavaPrettyPrinter;
+---
+> import spoon.support.sniper.SniperJavaPrettyPrinter ;

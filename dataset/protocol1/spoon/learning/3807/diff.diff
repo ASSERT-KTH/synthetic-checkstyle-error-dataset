@@ -1,0 +1,4 @@
+243c243
+< 			Object targetTypeObject = params.get(template.getClass().getSimpleName());
+---
+> 			Object targetTypeObject =params.get(template.getClass().getSimpleName());

@@ -1,0 +1,5 @@
+79c79,80
+< 			str.append(element.toString());
+---
+> 			str.append(element.toString())
+> ;

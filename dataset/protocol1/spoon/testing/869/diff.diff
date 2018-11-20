@@ -1,0 +1,4 @@
+56c56
+< 		List<CtStatement> listParents = this.map(new ParentFunction().includingSelf(true)).list();
+---
+> 		List<CtStatement> listParents = this.map (new ParentFunction().includingSelf(true)).list();

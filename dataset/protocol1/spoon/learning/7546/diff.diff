@@ -1,0 +1,4 @@
+230c230
+< 		((spoon.reflect.declaration.CtParameter<T>) (other)).setModifiers(e.getModifiers());
+---
+> 		( (spoon.reflect.declaration.CtParameter<T>) (other)).setModifiers(e.getModifiers());

@@ -1,0 +1,5 @@
+36c36,37
+< 			int declarationSourceStart, int declarationSourceEnd,
+---
+> 			int declarationSourceStart
+> , int declarationSourceEnd,

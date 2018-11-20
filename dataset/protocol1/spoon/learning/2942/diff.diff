@@ -1,0 +1,4 @@
+56c56
+< 	public <T extends CtModifiable> T removeModifier(ModifierKind modifier) {
+---
+> 	public <T extends CtModifiable> T removeModifier(ModifierKind modifier){

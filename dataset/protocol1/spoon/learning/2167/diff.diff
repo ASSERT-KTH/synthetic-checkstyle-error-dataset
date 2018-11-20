@@ -1,0 +1,4 @@
+128c128
+< 			public <T> void visitCtTypeReference(CtTypeReference<T> reference) {
+---
+> 			public <T>void visitCtTypeReference(CtTypeReference<T> reference) {

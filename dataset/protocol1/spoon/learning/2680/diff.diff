@@ -1,0 +1,5 @@
+40,41c40
+< 	public void accept(CtVisitor visitor) {
+< 		visitor.visitCtCatch(this);
+---
+> 	public void accept(CtVisitor visitor) {		visitor.visitCtCatch(this);

@@ -1,0 +1,4 @@
+36c36
+< 		for (ListIterator<E> iterator = this.listIterator(); iterator.hasNext();) {
+---
+> 		for (ListIterator<E> iterator= this.listIterator(); iterator.hasNext();) {

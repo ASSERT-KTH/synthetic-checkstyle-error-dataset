@@ -1,5 +1,0 @@
-49,50c49
-< 				if (f.isAnnotationPresent(Property.class)) {
-< 					Object obj = properties.get(f.getType(), f.getName());
----
-> 				if (f.isAnnotationPresent(Property.class)) {					Object obj = properties.get(f.getType(), f.getName());

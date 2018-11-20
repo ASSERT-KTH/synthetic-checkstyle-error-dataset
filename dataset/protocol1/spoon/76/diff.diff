@@ -1,5 +1,0 @@
-42,43c42
-< 	public static <T extends CtType<?>> T build(String packageName, String className) throws Exception {
-< 		Launcher launcher = new Launcher();
----
-> 	public static <T extends CtType<?>> T build(String packageName, String className) throws Exception {		Launcher launcher = new Launcher();

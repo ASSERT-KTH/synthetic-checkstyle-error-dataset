@@ -1,0 +1,5 @@
+198,199c198
+< 	public void visitCtContinue(CtContinue e) {
+< 		final CtContinue peek = (CtContinue) this.other;
+---
+> 	public void visitCtContinue(CtContinue e) {		final CtContinue peek = (CtContinue) this.other;

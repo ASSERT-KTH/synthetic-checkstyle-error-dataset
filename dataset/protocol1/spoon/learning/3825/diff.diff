@@ -1,0 +1,4 @@
+83c83
+< 		if (this.implementationTypes == CtElementImpl.<CtTypeReference>emptyList()) {
+---
+> 		if (this.implementationTypes == CtElementImpl.<CtTypeReference>emptyList ()) {

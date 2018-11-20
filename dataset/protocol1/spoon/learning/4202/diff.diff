@@ -1,0 +1,5 @@
+23,24c23
+< import spoon.reflect.declaration.CtConstructor;
+< import spoon.reflect.declaration.CtEnum;
+---
+> import spoon.reflect.declaration.CtConstructor;import spoon.reflect.declaration.CtEnum;

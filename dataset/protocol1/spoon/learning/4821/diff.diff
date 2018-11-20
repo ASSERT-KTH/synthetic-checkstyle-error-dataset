@@ -1,0 +1,5 @@
+25c25,26
+< public interface CtCatchVariableReference<T> extends CtVariableReference<T> {
+---
+> public 
+> interface CtCatchVariableReference<T> extends CtVariableReference<T> {

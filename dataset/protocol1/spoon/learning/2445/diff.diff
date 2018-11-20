@@ -1,0 +1,5 @@
+23c23,24
+< import static spoon.reflect.path.CtRole.EXPRESSION;
+---
+> import static 
+> spoon.reflect.path.CtRole.EXPRESSION;

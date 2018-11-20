@@ -1,0 +1,4 @@
+25c25
+< public interface CtInterface<T> extends CtType<T> {
+---
+> public interface CtInterface	<T> extends CtType<T> {

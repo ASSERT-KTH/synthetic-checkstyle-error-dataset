@@ -1,0 +1,4 @@
+279c279
+< 				subTypeParam = ((CtTypeParameterReference) superTypeOfSubTypeParam).getDeclaration();
+---
+> 				subTypeParam = ((CtTypeParameterReference) superTypeOfSubTypeParam).getDeclaration() ;

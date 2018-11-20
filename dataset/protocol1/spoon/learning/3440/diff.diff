@@ -1,0 +1,5 @@
+217c217,218
+< 			return ModifierKind.PROTECTED;
+---
+> 			return ModifierKind.PROTECTED
+> ;

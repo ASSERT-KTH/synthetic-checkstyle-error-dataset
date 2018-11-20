@@ -1,0 +1,4 @@
+34c34
+< 		CtElement simplified = eval.evaluate(e);
+---
+> 		CtElement simplified= eval.evaluate(e);

@@ -1,0 +1,4 @@
+188c188
+< 	CtTypeReference<?> getTypeErasure();
+---
+> 	CtTypeReference<?> getTypeErasure	();

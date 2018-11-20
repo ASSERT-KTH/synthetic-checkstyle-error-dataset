@@ -1,0 +1,4 @@
+208c208
+< 			public void addMethod(CtMethod ctMethod) {
+---
+> 			public void addMethod(CtMethod ctMethod){

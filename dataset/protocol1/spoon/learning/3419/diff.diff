@@ -1,0 +1,5 @@
+24c24,25
+< public class SpoonClassNotFoundException extends SpoonException {
+---
+> public class SpoonClassNotFoundException extends 
+> SpoonException {

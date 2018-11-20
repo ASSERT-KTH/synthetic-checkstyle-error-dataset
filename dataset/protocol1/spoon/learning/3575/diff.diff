@@ -1,0 +1,4 @@
+53c53
+< 	public boolean hasNestedTypeConflict(String name) {
+---
+> 	public boolean hasNestedTypeConflict( String name) {

@@ -1,0 +1,4 @@
+629c629
+< 		checkTemplateContracts(c);
+---
+> 		checkTemplateContracts	(c);

@@ -1,0 +1,5 @@
+479c479,480
+< 		List<SourceFragment> flatChildren = getChildrenFragments();
+---
+> 		List<SourceFragment> flatChildren = getChildrenFragments
+> ();

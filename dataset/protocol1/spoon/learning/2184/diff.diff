@@ -1,0 +1,4 @@
+42c42
+< 		if (getTarget() == null) {
+---
+> 		if (getTarget()== null) {

@@ -1,0 +1,5 @@
+193,194c193
+< 	public void removeStatement(CtStatement statement) {
+< 		if (statements == CtElementImpl.<CtStatement>emptyList()) {
+---
+> 	public void removeStatement(CtStatement statement) {		if (statements == CtElementImpl.<CtStatement>emptyList()) {

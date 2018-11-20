@@ -1,0 +1,5 @@
+789c789,790
+< 	public <T> void visitCtVariableWrite(final spoon.reflect.code.CtVariableWrite<T> variableWrite) {
+---
+> 	public <T> void 
+> visitCtVariableWrite(final spoon.reflect.code.CtVariableWrite<T> variableWrite) {

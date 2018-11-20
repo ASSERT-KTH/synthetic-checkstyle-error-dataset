@@ -1,0 +1,4 @@
+191c191
+< 			parameters[index] = new RtParameter(null, constructor.getParameterTypes()[index + offset], constructor.getGenericParameterTypes()[index], null, constructor, index);
+---
+> 			parameters[index] = new RtParameter(null, constructor.getParameterTypes()[index +offset], constructor.getGenericParameterTypes()[index], null, constructor, index);

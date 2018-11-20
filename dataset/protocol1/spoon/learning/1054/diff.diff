@@ -1,0 +1,4 @@
+45c45
+< 			ElementPrinterEvent elementEvent = (ElementPrinterEvent) event;
+---
+> 			ElementPrinterEvent elementEvent = (ElementPrinterEvent)event;

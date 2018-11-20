@@ -1,0 +1,4 @@
+1684c1684
+< 	public <T> void visitCtThisAccess(final spoon.reflect.code.CtThisAccess<T> thisAccess) {
+---
+> 	public <T> void visitCtThisAccess(final spoon.reflect.code.CtThisAccess<T> thisAccess){

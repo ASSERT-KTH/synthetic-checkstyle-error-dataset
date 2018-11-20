@@ -1,0 +1,5 @@
+70c70,71
+< import spoon.reflect.cu.position.CompoundSourcePosition;
+---
+> import spoon.reflect.cu.position.CompoundSourcePosition
+> ;

@@ -1,0 +1,4 @@
+20c20
+< import spoon.reflect.cu.position.NoSourcePosition;
+---
+> import spoon.reflect.cu.position.	NoSourcePosition;

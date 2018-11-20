@@ -1,0 +1,4 @@
+821c821
+< 		aCtVariableRead.setComments(this.cloneHelper.clone(variableRead.getComments()));
+---
+> 		aCtVariableRead.	setComments(this.cloneHelper.clone(variableRead.getComments()));

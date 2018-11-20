@@ -1,0 +1,4 @@
+37c37
+< 			throw new IllegalArgumentException("The parameter variable cannot be null.");
+---
+> 			 throw new IllegalArgumentException("The parameter variable cannot be null.");

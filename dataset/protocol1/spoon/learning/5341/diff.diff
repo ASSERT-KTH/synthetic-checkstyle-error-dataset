@@ -1,0 +1,5 @@
+233c233,234
+< 	public PrinterHelper adjustStartPosition(CtElement e) {
+---
+> 	public PrinterHelper adjustStartPosition
+> (CtElement e) {

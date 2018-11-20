@@ -1,0 +1,4 @@
+28c28
+< public class CompositeFilter<T extends CtElement> implements Filter<T> {
+---
+> public class CompositeFilter<T extends CtElement > implements Filter<T> {

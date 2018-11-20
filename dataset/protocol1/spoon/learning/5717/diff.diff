@@ -1,0 +1,5 @@
+77,78c77
+< 		if (forInit == CtElementImpl.<CtStatement>emptyList()) {
+< 			forInit = new ArrayList<>(FOR_INIT_STATEMENTS_CONTAINER_DEFAULT_CAPACITY);
+---
+> 		if (forInit == CtElementImpl.<CtStatement>emptyList()) {			forInit = new ArrayList<>(FOR_INIT_STATEMENTS_CONTAINER_DEFAULT_CAPACITY);

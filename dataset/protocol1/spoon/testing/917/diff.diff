@@ -1,0 +1,5 @@
+23,24c23
+< import spoon.pattern.internal.parameter.ParameterInfo;
+< import spoon.support.util.ImmutableMap;
+---
+> import spoon.pattern.internal.parameter.ParameterInfo;import spoon.support.util.ImmutableMap;

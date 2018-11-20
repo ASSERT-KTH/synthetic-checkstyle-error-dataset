@@ -1,0 +1,5 @@
+25c25,26
+< public interface SpoonFile extends SpoonResource {
+---
+> public interface SpoonFile extends 
+> SpoonResource {

@@ -1,0 +1,5 @@
+49,50c49
+< 	public boolean isUpper() {
+< 		return upper;
+---
+> 	public boolean isUpper() {		return upper;

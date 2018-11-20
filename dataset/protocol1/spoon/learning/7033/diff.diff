@@ -1,0 +1,4 @@
+218c218
+< 			getEnvironment().getSpoonProgress().end(SpoonProgress.Process.PRINT);
+---
+> 			getEnvironment().getSpoonProgress().end(SpoonProgress.Process.PRINT)	;

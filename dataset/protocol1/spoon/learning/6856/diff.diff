@@ -1,0 +1,5 @@
+215,216c215
+< 			}
+< 			hasWhite = true;
+---
+> 			}			hasWhite = true;

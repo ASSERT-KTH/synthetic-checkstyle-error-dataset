@@ -1,0 +1,4 @@
+39c39
+< 	@PropertySetter(role = CtRole.TYPE_ARGUMENT)
+---
+> 	@PropertySetter(role = CtRole.TYPE_ARGUMENT )

@@ -1,0 +1,4 @@
+70c70
+< 			qualifiedNamesOfInterfaces.add(typeInfo.getQualifiedName());
+---
+> 			qualifiedNamesOfInterfaces.add(typeInfo.getQualifiedName ());

@@ -1,0 +1,5 @@
+31c31,32
+< public class CtTryWithResourceImpl extends CtTryImpl implements CtTryWithResource {
+---
+> public class CtTryWithResourceImpl extends 
+> CtTryImpl implements CtTryWithResource {

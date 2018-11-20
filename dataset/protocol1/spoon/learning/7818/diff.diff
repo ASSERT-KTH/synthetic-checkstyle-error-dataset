@@ -1,0 +1,5 @@
+354,355c354
+< 	public CtContinue createContinue() {
+< 		CtContinue e = new CtContinueImpl();
+---
+> 	public CtContinue createContinue() {		CtContinue e = new CtContinueImpl();

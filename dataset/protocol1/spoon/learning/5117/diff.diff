@@ -1,0 +1,4 @@
+53c53
+< 	CtAnnotationType<T> clone();
+---
+> 	CtAnnotationType<	T> clone();

@@ -1,0 +1,4 @@
+121c121
+< 		for (CtStatement statement : statements.getStatements()) {
+---
+> 		for (CtStatement statement : statements.getStatements() ) {

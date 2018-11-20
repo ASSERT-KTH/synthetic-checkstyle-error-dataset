@@ -1,0 +1,4 @@
+65c65
+< 	public static <A extends CtElement, E extends CtElement> A assertIsSame(A actual, E expected) {
+---
+> 	public static<A extends CtElement, E extends CtElement> A assertIsSame(A actual, E expected) {

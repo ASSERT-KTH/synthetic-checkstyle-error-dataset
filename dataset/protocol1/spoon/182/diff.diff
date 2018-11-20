@@ -1,4 +1,0 @@
-82c82
-< 	public static AbstractCtPackageAssert<?> assertThat(CtPackage actual) {
----
-> 	public static AbstractCtPackageAssert <?> assertThat(CtPackage actual) {

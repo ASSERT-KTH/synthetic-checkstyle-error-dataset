@@ -1,0 +1,4 @@
+45c45
+< 		types.add(type);
+---
+> 		types.add	(type);

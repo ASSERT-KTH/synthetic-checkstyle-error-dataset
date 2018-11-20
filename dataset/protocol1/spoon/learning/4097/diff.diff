@@ -1,0 +1,4 @@
+167c167
+< 	private CtMethod valuesMethod() {
+---
+> 	private CtMethod valuesMethod(){

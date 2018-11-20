@@ -1,0 +1,4 @@
+115c115
+< 				int declarationSourceEnd = sourceEnd;
+---
+> 				int declarationSourceEnd = sourceEnd	;

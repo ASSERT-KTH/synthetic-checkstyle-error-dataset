@@ -1,0 +1,4 @@
+66c66
+< 			if (this.fieldImports.containsKey(ref.getSimpleName())) {
+---
+> 			if(this.fieldImports.containsKey(ref.getSimpleName())) {

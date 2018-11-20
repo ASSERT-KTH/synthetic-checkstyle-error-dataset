@@ -1,0 +1,4 @@
+164c164
+< 			sourcePath = Paths.get(directory.getAbsolutePath(), "src", "test", "java").toString();
+---
+> 			sourcePath = Paths.get(directory.getAbsolutePath(), "src", "test", "java").toString()	;

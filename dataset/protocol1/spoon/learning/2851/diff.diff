@@ -1,0 +1,4 @@
+133c133
+< 	public <C extends CtType<T>> C addTypeMemberAt(int position, CtTypeMember member) {
+---
+> 	public <C extends CtType<T>> C addTypeMemberAt(int position, CtTypeMember member){

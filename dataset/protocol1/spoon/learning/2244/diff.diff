@@ -1,0 +1,4 @@
+188c188
+< 		this.matchCondition = (Predicate) matchCondition;
+---
+> 		this.matchCondition = (Predicate)matchCondition;

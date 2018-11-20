@@ -1,0 +1,4 @@
+61c61
+< 	<T extends CtTypeMember> List<T> addToType(Class<T> valueType, Map<String, Object> params, CtType<?> targetType);
+---
+> 	<T extends CtTypeMember> List<T> addToType(Class<T> valueType, Map<String, Object> params, CtType<?> targetType)	;

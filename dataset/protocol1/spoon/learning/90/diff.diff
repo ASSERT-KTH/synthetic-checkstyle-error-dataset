@@ -1,0 +1,4 @@
+41c41
+< 				return ((CtTypeInformation) o1).getQualifiedName().compareTo(((CtTypeInformation) o2).getQualifiedName());
+---
+> 				return((CtTypeInformation) o1).getQualifiedName().compareTo(((CtTypeInformation) o2).getQualifiedName());

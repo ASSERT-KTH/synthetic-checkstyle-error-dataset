@@ -1,0 +1,4 @@
+168c168
+< 		va.setVariable(jdtTreeBuilder.getReferencesBuilder().<T>getVariableReference((VariableBinding) singleNameReference.binding));
+---
+> 		va.setVariable(jdtTreeBuilder. getReferencesBuilder().<T>getVariableReference((VariableBinding) singleNameReference.binding));

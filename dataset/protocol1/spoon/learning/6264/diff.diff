@@ -1,0 +1,4 @@
+82c82
+< 			getFactory().getEnvironment().getModelChangeListener().onListAdd(this, VALUE, this.enumValues, enumValue);
+---
+> 			getFactory().getEnvironment().	getModelChangeListener().onListAdd(this, VALUE, this.enumValues, enumValue);

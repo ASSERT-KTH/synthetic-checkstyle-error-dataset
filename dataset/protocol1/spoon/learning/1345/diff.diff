@@ -1,0 +1,5 @@
+95c95,96
+< 		return Metamodel.getOrCreate(role2Property, role, () -> new MetamodelProperty(role.getCamelCaseName(), role, this));
+---
+> 		return Metamodel.getOrCreate(role2Property, role, () -> 
+> new MetamodelProperty(role.getCamelCaseName(), role, this));

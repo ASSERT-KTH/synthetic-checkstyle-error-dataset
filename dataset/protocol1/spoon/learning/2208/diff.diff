@@ -1,0 +1,4 @@
+42c42
+< 	<C extends CtTypedElement> C setType(CtTypeReference<T> type);
+---
+> 	<C extends CtTypedElement>C setType(CtTypeReference<T> type);

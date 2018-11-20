@@ -1,0 +1,4 @@
+32c32
+< 		return isSufixOperator(o) == false;
+---
+> 		return isSufixOperator(o)== false;

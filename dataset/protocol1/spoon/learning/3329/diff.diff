@@ -1,0 +1,5 @@
+144c144,145
+< 	public CtCodeElement getSubstitution(CtType<?> targetType) {
+---
+> 	public CtCodeElement 
+> getSubstitution(CtType<?> targetType) {

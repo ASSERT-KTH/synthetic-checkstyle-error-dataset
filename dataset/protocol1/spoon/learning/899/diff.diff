@@ -1,0 +1,4 @@
+57c57
+< 	Set<ModifierKind> getModifiers();
+---
+> 	Set< ModifierKind> getModifiers();

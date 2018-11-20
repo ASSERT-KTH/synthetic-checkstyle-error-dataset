@@ -1,0 +1,4 @@
+38c38
+< 	CtConstructor<T> clone();
+---
+> 	CtConstructor<T> clone	();

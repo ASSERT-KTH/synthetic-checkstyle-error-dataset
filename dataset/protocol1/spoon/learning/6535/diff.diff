@@ -1,0 +1,4 @@
+109c109
+< 			return constructor.isVarArgs() && index == constructor.getParameterTypes().length - 1;
+---
+> 			return constructor.isVarArgs() && index == constructor.getParameterTypes ().length - 1;

@@ -1,0 +1,4 @@
+110c110
+< 		CtTypeReference<?> erasedCT = originCT.getTypeErasure();
+---
+> 		CtTypeReference<?> erasedCT = originCT.getTypeErasure() ;

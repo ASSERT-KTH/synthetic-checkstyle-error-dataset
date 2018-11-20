@@ -1,0 +1,4 @@
+35c35
+< 		if (sources == null || sources.isEmpty()) {
+---
+> 		if (sources ==null || sources.isEmpty()) {

@@ -1,0 +1,4 @@
+85c85
+< 	public <K, V> void onMapDeleteAll(CtElement currentElement, CtRole role,
+---
+> 	public <K, V	> void onMapDeleteAll(CtElement currentElement, CtRole role,

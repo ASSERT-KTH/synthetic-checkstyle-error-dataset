@@ -1,0 +1,4 @@
+73c73
+< 		public TobeMatched matchAllWith(TobeMatched targets) {
+---
+> 		public TobeMatched matchAllWith(TobeMatched targets	) {

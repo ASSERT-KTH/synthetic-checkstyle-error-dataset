@@ -1,0 +1,4 @@
+120c120
+< 			File file = this.factory.getEnvironment().getOutputDestinationHandler().getOutputPath(module, null, null).toFile();
+---
+> 			File file = this.factory.getEnvironment().getOutputDestinationHandler().getOutputPath(module, null,null).toFile();

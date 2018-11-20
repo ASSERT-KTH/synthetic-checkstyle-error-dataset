@@ -1,0 +1,4 @@
+55c55
+< 		int whiteSpaceCount = 0;
+---
+> 		int whiteSpaceCount =0;

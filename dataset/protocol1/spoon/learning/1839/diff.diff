@@ -1,0 +1,5 @@
+46,47c46
+< 	public void step(Process process, String task) {
+< 		environment.debugMessage("Step " + process + " " + task + " in " + (getCurrentTimeInMillis() - timer) + " ms");
+---
+> 	public void step(Process process, String task) {		environment.debugMessage("Step " + process + " " + task + " in " + (getCurrentTimeInMillis() - timer) + " ms");

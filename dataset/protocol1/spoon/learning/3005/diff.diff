@@ -1,0 +1,5 @@
+303c303,304
+< 		} else if (node instanceof AbstractMethodDeclaration) {
+---
+> 		
+> } else if (node instanceof AbstractMethodDeclaration) {

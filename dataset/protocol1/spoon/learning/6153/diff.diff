@@ -1,0 +1,5 @@
+262,263c262
+< 		} else if (child instanceof CtExpression && hasChildEqualsToDefaultValue(v)) {
+< 			v.setDefaultExpression((CtExpression<T>) child);
+---
+> 		} else if (child instanceof CtExpression && hasChildEqualsToDefaultValue(v)) {			v.setDefaultExpression((CtExpression<T>) child);

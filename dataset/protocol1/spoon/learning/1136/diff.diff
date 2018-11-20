@@ -1,0 +1,5 @@
+545,546c545
+< 				if (ctMethod.getAnnotation(unsettableProperty) != null) {
+< 					unsettable = Boolean.TRUE;
+---
+> 				if (ctMethod.getAnnotation(unsettableProperty) != null) {					unsettable = Boolean.TRUE;

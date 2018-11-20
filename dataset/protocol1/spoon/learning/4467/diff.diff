@@ -1,0 +1,4 @@
+32c32
+< 		return (CtFieldWrite<T>) super.clone();
+---
+> 		return (CtFieldWrite<T>)super.clone();

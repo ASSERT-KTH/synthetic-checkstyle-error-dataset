@@ -1,0 +1,4 @@
+50c50
+< import spoon.reflect.code.CtNewArray;
+---
+> import spoon.reflect.	code.CtNewArray;

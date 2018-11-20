@@ -1,0 +1,4 @@
+689c689
+< 		aCtSynchronized.setAnnotations(this.cloneHelper.clone(synchro.getAnnotations()));
+---
+> 		aCtSynchronized. setAnnotations(this.cloneHelper.clone(synchro.getAnnotations()));

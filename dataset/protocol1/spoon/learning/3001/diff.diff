@@ -1,0 +1,5 @@
+20,21c20
+< import spoon.reflect.declaration.CtElement;
+< import spoon.reflect.visitor.Filter;
+---
+> import spoon.reflect.declaration.CtElement;import spoon.reflect.visitor.Filter;

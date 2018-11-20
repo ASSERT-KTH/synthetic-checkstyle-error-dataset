@@ -1,0 +1,4 @@
+532c532
+< 			Consumer<T> elementPrinter) {
+---
+> 			Consumer<T>elementPrinter) {

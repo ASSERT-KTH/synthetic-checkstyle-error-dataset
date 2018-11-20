@@ -1,0 +1,5 @@
+138c138,139
+< 	public int hashCode() {
+---
+> 	public int hashCode
+> () {

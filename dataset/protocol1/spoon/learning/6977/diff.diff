@@ -1,0 +1,5 @@
+50c50,51
+< 	public static <E extends CtElement> List<E> getElements(Factory factory,
+---
+> 	public static <E extends CtElement> List<E> getElements(Factory 
+> factory,

@@ -1,0 +1,4 @@
+28c28
+< 	private Class<? extends Annotation> annotationType;
+---
+> 	private Class<? extends Annotation>annotationType;

@@ -1,0 +1,4 @@
+68c68
+< 	private final PatternBuilder patternBuilder;
+---
+> 	private final PatternBuilder patternBuilder ;

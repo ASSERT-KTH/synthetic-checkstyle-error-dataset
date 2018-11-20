@@ -1,0 +1,4 @@
+40c40
+< 	boolean isOverriding(CtMethod<?> superMethod);
+---
+> 	boolean isOverriding(CtMethod <?> superMethod);

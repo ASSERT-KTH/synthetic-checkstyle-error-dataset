@@ -1,0 +1,4 @@
+675c675
+< 		onCharSequence(lastType, buff, consumer);
+---
+> 		onCharSequence(lastType, buff, consumer) ;

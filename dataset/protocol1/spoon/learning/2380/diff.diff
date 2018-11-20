@@ -1,0 +1,4 @@
+20c20
+< import spoon.support.DerivedProperty;
+---
+> import spoon.support.DerivedProperty	;

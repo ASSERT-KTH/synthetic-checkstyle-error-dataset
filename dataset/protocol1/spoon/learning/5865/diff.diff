@@ -1,0 +1,4 @@
+494c494
+< 			CtField<?> field = (CtField<?>) typeMember;
+---
+> 			CtField<?> field = (CtField<?>)typeMember;

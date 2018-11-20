@@ -1,4 +1,0 @@
-106c106
-< 	CtModel buildModel();
----
-> 	CtModel buildModel() ;

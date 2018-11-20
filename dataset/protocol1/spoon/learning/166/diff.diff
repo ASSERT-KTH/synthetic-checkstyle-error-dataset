@@ -1,0 +1,4 @@
+31c31
+< 	<C extends CtType<T>> C setSuperclass(CtTypeReference<?> superClass);
+---
+> 	<C extends CtType<T>> C setSuperclass(CtTypeReference<?>superClass);

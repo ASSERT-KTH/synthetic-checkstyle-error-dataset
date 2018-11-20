@@ -1,0 +1,4 @@
+89c89
+< 			o = new LinkedHashSet<>(Arrays.asList((Object[]) o));
+---
+> 			o = new LinkedHashSet<>(Arrays.asList((Object[])o));

@@ -1,0 +1,4 @@
+30c30
+< 		CtPackage searchScope = input.getFactory().Package().getRootPackage();
+---
+> 		CtPackage searchScope= input.getFactory().Package().getRootPackage();

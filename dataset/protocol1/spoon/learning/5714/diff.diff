@@ -1,0 +1,4 @@
+45c45
+< 			Class<? extends CtElement> elementType) {
+---
+> 			Class<? extends CtElement>elementType) {

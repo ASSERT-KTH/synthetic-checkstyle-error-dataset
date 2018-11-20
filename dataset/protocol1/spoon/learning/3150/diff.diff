@@ -1,0 +1,4 @@
+122c122
+< 		return toFile().equals(((SpoonResource) obj).toFile());
+---
+> 		return toFile().equals	(((SpoonResource) obj).toFile());

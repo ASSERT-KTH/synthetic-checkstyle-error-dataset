@@ -1,0 +1,5 @@
+141,142c141
+< 	public DirectPrinterHelper getPrinterHelper() {
+< 		return (DirectPrinterHelper) delegate.getPrinterHelper();
+---
+> 	public DirectPrinterHelper getPrinterHelper() {		return (DirectPrinterHelper) delegate.getPrinterHelper();

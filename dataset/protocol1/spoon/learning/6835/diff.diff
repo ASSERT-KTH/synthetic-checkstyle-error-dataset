@@ -1,0 +1,4 @@
+361c361
+< 				return ((CtMethod<T>) e).hasModifier(ModifierKind.FINAL);
+---
+> 				return((CtMethod<T>) e).hasModifier(ModifierKind.FINAL);

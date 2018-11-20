@@ -1,0 +1,5 @@
+46,47c46
+< 			if (matcher != null) {
+< 				break;
+---
+> 			if (matcher != null) {				break;

@@ -1,0 +1,4 @@
+150c150
+< 			jScrollPane.setViewportView(getJTable());
+---
+> 			 jScrollPane.setViewportView(getJTable());

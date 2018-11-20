@@ -1,0 +1,4 @@
+50c50
+< 	<C extends CtType<T>> C setMethods(Set<CtMethod<?>> methods);
+---
+> 	<C extends CtType<T>> C setMethods(Set	<CtMethod<?>> methods);

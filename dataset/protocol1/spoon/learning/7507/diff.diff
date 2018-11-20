@@ -1,0 +1,4 @@
+136c136
+< 	@PropertySetter(role = ANNOTATION_TYPE)
+---
+> 	@PropertySetter(role = ANNOTATION_TYPE	)

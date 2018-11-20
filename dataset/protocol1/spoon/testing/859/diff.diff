@@ -1,0 +1,5 @@
+35,36c35
+< 	public VariableAccessFilter(CtVariableReference<?> variable) {
+< 		if (variable == null) {
+---
+> 	public VariableAccessFilter(CtVariableReference<?> variable) {		if (variable == null) {

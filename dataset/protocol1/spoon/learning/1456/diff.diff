@@ -1,0 +1,5 @@
+113c113,114
+< 		public <T extends Writable> T ignoreGenerics(boolean v) {
+---
+> 		public <T 
+> extends Writable> T ignoreGenerics(boolean v) {

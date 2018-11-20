@@ -1,0 +1,4 @@
+120c120
+< 		return new HashSet<>(processedAnnotationTypes.values());
+---
+> 		return new HashSet<>(processedAnnotationTypes.values())	;

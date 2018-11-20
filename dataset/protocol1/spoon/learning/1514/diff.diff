@@ -1,0 +1,4 @@
+40c40
+< 	<C extends CtOperatorAssignment<T, A>> C setKind(BinaryOperatorKind kind);
+---
+> 	<C extends CtOperatorAssignment<T, A >> C setKind(BinaryOperatorKind kind);

@@ -1,0 +1,4 @@
+23c23
+< import static spoon.reflect.path.CtRole.FOREACH_VARIABLE;
+---
+> import static spoon. reflect.path.CtRole.FOREACH_VARIABLE;

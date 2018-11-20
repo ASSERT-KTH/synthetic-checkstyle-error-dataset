@@ -1,0 +1,4 @@
+52c52
+< 	<C extends CtMethod<T>> C setDefaultMethod(boolean defaultMethod);
+---
+> 	<	C extends CtMethod<T>> C setDefaultMethod(boolean defaultMethod);

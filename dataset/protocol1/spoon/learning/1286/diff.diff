@@ -1,0 +1,5 @@
+374,375c374
+< 			if (e instanceof CtMethod) {
+< 				return ((CtMethod<T>) e).getModifiers();
+---
+> 			if (e instanceof CtMethod) {				return ((CtMethod<T>) e).getModifiers();

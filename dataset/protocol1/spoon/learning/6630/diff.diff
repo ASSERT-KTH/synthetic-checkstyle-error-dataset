@@ -1,0 +1,4 @@
+60c60
+< 	CtElement getDeclaration();
+---
+> 	CtElement getDeclaration	();

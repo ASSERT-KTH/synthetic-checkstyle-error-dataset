@@ -1,0 +1,5 @@
+44c44,45
+< 	@PropertySetter(role = IS_SHADOW)
+---
+> 	
+> @PropertySetter(role = IS_SHADOW)

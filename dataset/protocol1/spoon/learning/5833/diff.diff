@@ -1,0 +1,4 @@
+20c20
+< import org.eclipse.jdt.core.compiler.CategorizedProblem;
+---
+> import org.eclipse. jdt.core.compiler.CategorizedProblem;

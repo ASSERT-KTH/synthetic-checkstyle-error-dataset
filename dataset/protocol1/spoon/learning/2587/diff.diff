@@ -1,0 +1,4 @@
+51c51
+< 	@PropertySetter(role = CtRole.TYPE_REF)
+---
+> 	@PropertySetter(role =CtRole.TYPE_REF)

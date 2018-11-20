@@ -1,0 +1,5 @@
+25c25,26
+< import spoon.processing.Property;
+---
+> import 
+> spoon.processing.Property;

@@ -1,0 +1,4 @@
+45c45
+< 		if (accessedType != null) {
+---
+> 		if (accessedType!= null) {

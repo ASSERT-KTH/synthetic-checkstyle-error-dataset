@@ -1,0 +1,4 @@
+324c324
+< 			String child = spoonPom.toString();
+---
+> 			String child = spoonPom.toString	();

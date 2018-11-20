@@ -1,0 +1,5 @@
+55c55,56
+< 		return (CtTypeReference<Void>) getFactory().Type().VOID_PRIMITIVE.clone().<CtTypeAccess>setParent(this);
+---
+> 		return 
+> (CtTypeReference<Void>) getFactory().Type().VOID_PRIMITIVE.clone().<CtTypeAccess>setParent(this);

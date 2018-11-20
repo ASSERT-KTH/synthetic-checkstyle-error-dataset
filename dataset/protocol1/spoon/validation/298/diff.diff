@@ -1,0 +1,5 @@
+30,31c30
+< 	public QueryFactory(Factory factory) {
+< 		super(factory);
+---
+> 	public QueryFactory(Factory factory) {		super(factory);

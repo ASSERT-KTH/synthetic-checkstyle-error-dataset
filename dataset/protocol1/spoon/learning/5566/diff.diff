@@ -1,0 +1,5 @@
+169c169,170
+< 		result.add(factory.Type().get(spoon.reflect.reference.CtFieldReference.class));
+---
+> 		result.add(factory.Type().get(spoon.reflect.reference.CtFieldReference.class))
+> ;

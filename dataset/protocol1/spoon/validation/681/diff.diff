@@ -1,0 +1,4 @@
+46c46
+< 	protected Map<String, V> castValue(Object value) {
+---
+> 	protected Map<String	, V> castValue(Object value) {

@@ -1,0 +1,5 @@
+53c53,54
+< 		CtField<?> field = this.field;
+---
+> 		CtField<?> field = this.field
+> ;

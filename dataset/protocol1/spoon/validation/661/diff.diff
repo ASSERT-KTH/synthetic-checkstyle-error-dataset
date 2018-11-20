@@ -1,0 +1,4 @@
+26c26
+< 	public ProcessInterruption(String message) {
+---
+> 	public ProcessInterruption(String message){

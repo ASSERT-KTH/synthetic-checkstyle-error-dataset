@@ -1,0 +1,5 @@
+65,66c65
+< 		for (SourceFragment childSourceFragment : items) {
+< 			if (childSourceFragment instanceof ElementSourceFragment) {
+---
+> 		for (SourceFragment childSourceFragment : items) {			if (childSourceFragment instanceof ElementSourceFragment) {

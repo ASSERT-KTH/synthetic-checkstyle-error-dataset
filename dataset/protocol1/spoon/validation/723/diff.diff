@@ -1,0 +1,4 @@
+73c73
+< 			getFactory().getEnvironment().getModelChangeListener().onListAdd(this, BOUND, this.bounds, bound);
+---
+> 			getFactory().getEnvironment().getModelChangeListener().onListAdd	(this, BOUND, this.bounds, bound);

@@ -1,0 +1,5 @@
+20,21c20
+< import spoon.processing.TraversalStrategy;
+< import spoon.reflect.declaration.CtElement;
+---
+> import spoon.processing.TraversalStrategy;import spoon.reflect.declaration.CtElement;

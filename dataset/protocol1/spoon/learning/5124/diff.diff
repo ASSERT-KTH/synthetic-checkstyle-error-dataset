@@ -1,0 +1,5 @@
+84c84,85
+< 			for (String[] arg : args) {
+---
+> 			for (String[] arg 
+> : args) {

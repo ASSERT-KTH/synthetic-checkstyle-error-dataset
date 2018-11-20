@@ -1,0 +1,5 @@
+109c109,110
+< 	<T extends CtStatementList> T insertAfter(Filter<? extends CtStatement> insertionPoints, CtStatementList statements);
+---
+> 	<T extends CtStatementList> T insertAfter(Filter<? 
+> extends CtStatement> insertionPoints, CtStatementList statements);

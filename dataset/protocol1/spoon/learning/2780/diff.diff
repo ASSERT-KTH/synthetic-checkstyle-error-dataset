@@ -1,0 +1,5 @@
+218c218,219
+< 		return (C) this;
+---
+> 		return 
+> (C) this;

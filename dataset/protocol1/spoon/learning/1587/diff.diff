@@ -1,0 +1,4 @@
+72c72
+< import spoon.reflect.declaration.CtCompilationUnit;
+---
+> import spoon.reflect. declaration.CtCompilationUnit;

@@ -1,0 +1,4 @@
+71c71
+< 				printerTokenWriter.writeSpace();
+---
+> 				printerTokenWriter. writeSpace();

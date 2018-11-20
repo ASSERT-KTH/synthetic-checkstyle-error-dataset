@@ -1,4 +1,0 @@
-647c647
-< 		c.addTemplateSources(templateSources);
----
-> 		c.addTemplateSources( templateSources);

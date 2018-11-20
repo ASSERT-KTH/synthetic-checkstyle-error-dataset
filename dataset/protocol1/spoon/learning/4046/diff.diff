@@ -1,0 +1,4 @@
+85c85
+< 	<F, C extends CtType<Object>> C addFieldAtTop(CtField<F> field);
+---
+> 	< F, C extends CtType<Object>> C addFieldAtTop(CtField<F> field);

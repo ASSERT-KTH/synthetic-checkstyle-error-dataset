@@ -1,5 +1,0 @@
-62,63c62
-< 	public T withProcessor(Class<? extends Processor<?>> processor) {
-< 		try {
----
-> 	public T withProcessor(Class<? extends Processor<?>> processor) {		try {

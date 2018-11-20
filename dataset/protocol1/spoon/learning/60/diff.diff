@@ -1,0 +1,4 @@
+89c89
+< 		CtParameterReference<T> ref = factory.Core().createParameterReference();
+---
+> 		CtParameterReference<T> ref = factory.Core().	createParameterReference();

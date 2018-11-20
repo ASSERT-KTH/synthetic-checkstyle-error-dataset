@@ -1,0 +1,5 @@
+400c400,401
+< 					throw new SpoonException("The method " + callbackMethod + " with one parameter was not found on the class " + callbackClass.getName());
+---
+> 					throw new SpoonException("The method " + callbackMethod + " with one parameter was not found on the class " + callbackClass.getName
+> ());

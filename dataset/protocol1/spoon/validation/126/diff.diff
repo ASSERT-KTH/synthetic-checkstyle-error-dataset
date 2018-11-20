@@ -1,0 +1,5 @@
+79c79,80
+< 			setNotEqual(CtRole.NAME);
+---
+> 			setNotEqual
+> (CtRole.NAME);

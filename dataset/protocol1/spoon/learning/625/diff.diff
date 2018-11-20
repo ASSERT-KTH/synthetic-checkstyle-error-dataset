@@ -1,0 +1,4 @@
+293c293
+< 					sourceEnd = (int) (positions[qualifiedNameReference.indexOfFirstFieldBinding + i + 1] >>> 32) - 2;
+---
+> 					sourceEnd = (int) (positions[qualifiedNameReference.indexOfFirstFieldBinding + i + 1]>>> 32) - 2;

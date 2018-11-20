@@ -1,0 +1,4 @@
+46c46
+< 	JDTBuilder sources(SourceOptions<?> options);
+---
+> 	JDTBuilder sources(SourceOptions<?> options)	;

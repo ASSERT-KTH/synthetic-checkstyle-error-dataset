@@ -1,0 +1,4 @@
+91c91
+< 		switch (commentType) {
+---
+> 		switch ( commentType) {

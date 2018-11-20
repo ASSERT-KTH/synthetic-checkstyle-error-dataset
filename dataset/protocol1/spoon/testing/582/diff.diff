@@ -1,0 +1,4 @@
+25c25
+< public abstract class Context {
+---
+> public abstract class Context{

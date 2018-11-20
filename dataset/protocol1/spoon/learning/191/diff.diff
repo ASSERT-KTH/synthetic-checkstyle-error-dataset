@@ -1,0 +1,4 @@
+82c82
+< 	public static <T extends CtReference> List<T> getReferences(
+---
+> 	public static <T extends CtReference> List <T> getReferences(

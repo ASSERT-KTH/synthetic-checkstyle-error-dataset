@@ -1,0 +1,4 @@
+32c32
+< 	public void onPrintEvent(PrinterEvent event) {
+---
+> 	public void onPrintEvent (PrinterEvent event) {

@@ -1,0 +1,5 @@
+105c105,106
+< 	public void onSetDelete(CtElement currentElement, CtRole role, Set field, Collection<ModifierKind> oldValue) {
+---
+> 	public void 
+> onSetDelete(CtElement currentElement, CtRole role, Set field, Collection<ModifierKind> oldValue) {

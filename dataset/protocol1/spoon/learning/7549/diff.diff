@@ -1,0 +1,4 @@
+61c61
+< 		return (CtCodeSnippetExpression<T>) super.clone();
+---
+> 		return (CtCodeSnippetExpression<T>) super.clone()	;

@@ -1,0 +1,4 @@
+163c163
+< 							String currentQName = currentTypeRef.getQualifiedName();
+---
+> 							String currentQName = currentTypeRef. getQualifiedName();

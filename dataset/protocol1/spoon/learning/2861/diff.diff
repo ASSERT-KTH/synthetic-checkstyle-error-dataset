@@ -1,0 +1,4 @@
+35c35
+< 	public void accept(CtVisitor visitor) {
+---
+> 	public void accept(CtVisitor visitor){

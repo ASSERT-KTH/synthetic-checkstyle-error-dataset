@@ -1,0 +1,4 @@
+72c72
+< 							(element.isParentInitialized() ? "inconsistent" : "null") + " parent for " + element.getClass() + name + " - " + element.getPosition() + " - " + stack.peek()
+---
+> 							(element.isParentInitialized() ?"inconsistent" : "null") + " parent for " + element.getClass() + name + " - " + element.getPosition() + " - " + stack.peek()

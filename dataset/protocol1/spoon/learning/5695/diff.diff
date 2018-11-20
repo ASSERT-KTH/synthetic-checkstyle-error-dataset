@@ -1,0 +1,4 @@
+335c335
+< 	static List<CtTypeReference<?>> getTypeReferences(List<? extends CtType<?>> types) {
+---
+> 	static List<CtTypeReference<?>> getTypeReferences(List<? extends CtType <?>> types) {

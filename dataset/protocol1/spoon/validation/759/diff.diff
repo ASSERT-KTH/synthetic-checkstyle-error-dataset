@@ -1,0 +1,5 @@
+51,52c51
+< 	public T bootclasspath(String... bootclasspaths) {
+< 		if (bootclasspaths == null || bootclasspaths.length == 0) {
+---
+> 	public T bootclasspath(String... bootclasspaths) {		if (bootclasspaths == null || bootclasspaths.length == 0) {

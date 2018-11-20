@@ -1,0 +1,4 @@
+39c39
+< 	SET(0, false, 1, m -> m.getParameters().size() == 1 && m.getSimpleName().startsWith("set")),
+---
+> 	SET(0, false, 1,m -> m.getParameters().size() == 1 && m.getSimpleName().startsWith("set")),

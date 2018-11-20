@@ -1,0 +1,5 @@
+68,69c68
+< 		if (elements == null || elements.isEmpty()) {
+< 			return new ArrayList<>();
+---
+> 		if (elements == null || elements.isEmpty()) {			return new ArrayList<>();

@@ -1,0 +1,5 @@
+30,31c30
+< import spoon.reflect.reference.CtExecutableReference;
+< import spoon.reflect.reference.CtTypeReference;
+---
+> import spoon.reflect.reference.CtExecutableReference;import spoon.reflect.reference.CtTypeReference;

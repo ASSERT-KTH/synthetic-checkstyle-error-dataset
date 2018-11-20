@@ -1,0 +1,4 @@
+472c472
+< 		r.setDefaultExpression(evaluate(f.getDefaultExpression()));
+---
+> 		r.setDefaultExpression(evaluate(f.getDefaultExpression()) );

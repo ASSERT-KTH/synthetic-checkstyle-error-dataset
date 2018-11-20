@@ -1,0 +1,4 @@
+22c22
+< public class CtVariableWriteImpl<T> extends CtVariableAccessImpl<T> implements CtVariableWrite<T> {
+---
+> public class CtVariableWriteImpl<T> extends CtVariableAccessImpl<T	> implements CtVariableWrite<T> {

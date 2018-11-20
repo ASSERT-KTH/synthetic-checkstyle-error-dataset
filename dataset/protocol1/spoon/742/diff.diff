@@ -1,5 +1,0 @@
-138,139c138
-< 			try {
-< 				pom = new File(decompiledRoot, "pom.xml");
----
-> 			try {				pom = new File(decompiledRoot, "pom.xml");

@@ -1,0 +1,5 @@
+51c51,52
+< 		return new ChainOfMatchersImpl(matcher, createFromList(next, items, idx + 1));
+---
+> 		return new ChainOfMatchersImpl(matcher
+> , createFromList(next, items, idx + 1));

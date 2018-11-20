@@ -1,0 +1,4 @@
+32c32
+< public interface FileGenerator<T extends CtElement> extends Processor<T> {
+---
+>  public interface FileGenerator<T extends CtElement> extends Processor<T> {

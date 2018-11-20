@@ -1,0 +1,5 @@
+47c47,48
+< 		CtEnum<?> e = factory.Core().createEnum();
+---
+> 		
+> CtEnum<?> e = factory.Core().createEnum();

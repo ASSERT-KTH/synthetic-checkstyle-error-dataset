@@ -1,5 +1,0 @@
-112,113c112
-< 			this.decompiler = getDefaultDecompiler();
-< 		}
----
-> 			this.decompiler = getDefaultDecompiler();		}

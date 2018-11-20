@@ -1,0 +1,5 @@
+108,109c108
+< 		for (CtType t : from.getTypes()) {
+< 			for (CtType t2: to.getTypes()) {
+---
+> 		for (CtType t : from.getTypes()) {			for (CtType t2: to.getTypes()) {

@@ -1,0 +1,4 @@
+383c383
+< 				position = getFactory().Core().createSourcePosition((CompilationUnit) this, 0, sourceCode.length() - 1, getLineSeparatorPositions());
+---
+> 				position = getFactory().Core().createSourcePosition((CompilationUnit) this,0, sourceCode.length() - 1, getLineSeparatorPositions());

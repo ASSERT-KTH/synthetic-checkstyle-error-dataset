@@ -1,0 +1,4 @@
+349c349
+< 				writeComment(ctType, CommentOffset.TOP_FILE);
+---
+> 				writeComment(ctType, CommentOffset.TOP_FILE) ;

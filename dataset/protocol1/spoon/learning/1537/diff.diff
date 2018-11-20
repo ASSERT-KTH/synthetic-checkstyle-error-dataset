@@ -1,0 +1,4 @@
+46c46
+< 		boolean shouldTypeBeImported = this.shouldTypeBeImported(ref);
+---
+> 		boolean shouldTypeBeImported = this.shouldTypeBeImported(ref	);

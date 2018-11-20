@@ -1,0 +1,5 @@
+26,27c26
+< import spoon.reflect.declaration.CtModule;
+< import spoon.reflect.declaration.CtModuleRequirement;
+---
+> import spoon.reflect.declaration.CtModule;import spoon.reflect.declaration.CtModuleRequirement;

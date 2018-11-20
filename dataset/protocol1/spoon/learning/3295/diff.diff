@@ -1,0 +1,4 @@
+53c53
+< 		this.listener.onTokenWriterWrite(TokenType.SEPARATOR, token, null, () -> delegate.writeSeparator(token));
+---
+> 		this.listener.onTokenWriterWrite(TokenType.SEPARATOR, token,null, () -> delegate.writeSeparator(token));

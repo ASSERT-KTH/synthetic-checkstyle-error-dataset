@@ -1,0 +1,4 @@
+72c72
+< 	public int getEndColumn() {
+---
+> 	public int getEndColumn () {

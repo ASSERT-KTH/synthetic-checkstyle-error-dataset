@@ -1,0 +1,4 @@
+173c173
+< 	private static String createWrapperContent(final CtElement element, final Factory f, final CtTypeReference returnType) {
+---
+> 	private static String createWrapperContent	(final CtElement element, final Factory f, final CtTypeReference returnType) {

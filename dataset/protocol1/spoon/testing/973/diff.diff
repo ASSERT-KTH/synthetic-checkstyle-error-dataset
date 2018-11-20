@@ -1,0 +1,5 @@
+30,31c30
+< 	public SnippetCompilationError(List<String> problems) {
+< 		this.problems = problems;
+---
+> 	public SnippetCompilationError(List<String> problems) {		this.problems = problems;

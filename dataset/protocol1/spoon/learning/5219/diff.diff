@@ -1,0 +1,4 @@
+36c36
+< 	CtExpression<T> getDefaultExpression();
+---
+> 	CtExpression<T> getDefaultExpression()	;

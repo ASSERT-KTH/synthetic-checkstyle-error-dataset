@@ -1,0 +1,4 @@
+56c56
+< 		return ChainOfMatchersImpl.create(nodes, nextMatchers).matchAllWith(targets);
+---
+> 		return ChainOfMatchersImpl.	create(nodes, nextMatchers).matchAllWith(targets);

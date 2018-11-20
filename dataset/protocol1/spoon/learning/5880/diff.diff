@@ -1,0 +1,4 @@
+174c174
+< 			for (Object obj : ((Map) o).values()) {
+---
+> 			for (Object obj : ((Map) o).values	()) {

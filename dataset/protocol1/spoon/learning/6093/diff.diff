@@ -1,0 +1,4 @@
+177c177
+< 				launcher.getEnvironment().debugMessage("[ERROR][Agent] while loading transformed " + className);
+---
+> 				launcher.getEnvironment().	debugMessage("[ERROR][Agent] while loading transformed " + className);

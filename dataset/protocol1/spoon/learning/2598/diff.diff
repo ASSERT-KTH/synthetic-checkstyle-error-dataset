@@ -1,0 +1,4 @@
+131c131
+< 		checkSameTypingContext(classTypingContext, scopeMethod);
+---
+> 		checkSameTypingContext(classTypingContext, scopeMethod) ;

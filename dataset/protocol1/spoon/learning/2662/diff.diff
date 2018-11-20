@@ -1,0 +1,5 @@
+75c75,76
+< 	boolean shoudBeConsumed(CtAnnotation<? extends Annotation> annotation);
+---
+> 	boolean shoudBeConsumed(CtAnnotation<? extends Annotation> 
+> annotation);

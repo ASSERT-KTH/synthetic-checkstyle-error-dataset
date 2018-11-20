@@ -1,0 +1,4 @@
+39c39
+< 	CtRenameRefactoring<T> setTarget(T target);
+---
+> 	CtRenameRefactoring<T> setTarget(T target)	;

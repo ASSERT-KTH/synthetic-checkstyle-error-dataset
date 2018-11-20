@@ -1,0 +1,5 @@
+51c51,52
+< 	private ImmutableMapImpl(ImmutableMap parent, Map<String, Object> map, String parameterName, Object value) {
+---
+> 	private ImmutableMapImpl(ImmutableMap 
+> parent, Map<String, Object> map, String parameterName, Object value) {

@@ -1,4 +1,0 @@
-74c74
-< 	void setOutputFilter(String... qualifedNames);
----
-> 	 void setOutputFilter(String... qualifedNames);

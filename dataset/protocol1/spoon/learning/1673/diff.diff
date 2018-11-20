@@ -1,0 +1,4 @@
+161c161
+< 					result.append(mainType.getSimpleName());
+---
+> 					result.append(mainType.getSimpleName ());

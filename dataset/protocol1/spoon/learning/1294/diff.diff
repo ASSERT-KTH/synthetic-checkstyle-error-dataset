@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.compiler.Environment;
+< import spoon.reflect.visitor.PrinterHelper;
+---
+> import spoon.compiler.Environment;import spoon.reflect.visitor.PrinterHelper;

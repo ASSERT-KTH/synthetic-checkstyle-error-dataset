@@ -1,0 +1,4 @@
+269c269
+< 			ref.setPosition(jdtTreeBuilder.getPositionBuilder().buildPosition(sourceStart, sourceEnd));
+---
+> 			ref.setPosition(jdtTreeBuilder.getPositionBuilder().buildPosition(	sourceStart, sourceEnd));

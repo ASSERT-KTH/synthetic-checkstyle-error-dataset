@@ -1,5 +1,0 @@
-157c157,158
-< 			List<File> testSourceDirectories = model.getTestDirectories();
----
-> 			List<File> testSourceDirectories = model.getTestDirectories
-> ();

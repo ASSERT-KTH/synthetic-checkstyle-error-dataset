@@ -1,4 +1,0 @@
-33c33
-< public @interface Local {
----
-> public @interface Local{

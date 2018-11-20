@@ -1,0 +1,4 @@
+30c30
+< public class NamedElementFilter<T extends CtNamedElement> implements Filter<T> {
+---
+> public class NamedElementFilter<T extends CtNamedElement> implements Filter< T> {

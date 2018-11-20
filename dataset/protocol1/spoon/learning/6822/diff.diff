@@ -1,0 +1,5 @@
+44c44,45
+< 		return new ByteArrayInputStream(content.getBytes());
+---
+> 		return new ByteArrayInputStream(content.getBytes
+> ());

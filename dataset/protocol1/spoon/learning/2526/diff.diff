@@ -1,0 +1,4 @@
+94c94
+< 			for (Field f : c.getDeclaredFields()) {
+---
+> 			for (Field f : c.getDeclaredFields()	) {

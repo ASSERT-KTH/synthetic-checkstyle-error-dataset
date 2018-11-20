@@ -1,0 +1,4 @@
+33c33
+< 	public SubtypeFilter(CtTypeReference<?> superType) {
+---
+> 	public SubtypeFilter (CtTypeReference<?> superType) {

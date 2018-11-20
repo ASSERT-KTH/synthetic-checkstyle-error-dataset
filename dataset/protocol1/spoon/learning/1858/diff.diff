@@ -1,0 +1,5 @@
+519c519,520
+< 			actualTypeArguments = getTypeReferences(typeDeclarer.getFormalCtTypeParameters());
+---
+> 			actualTypeArguments = getTypeReferences(typeDeclarer.getFormalCtTypeParameters
+> ());

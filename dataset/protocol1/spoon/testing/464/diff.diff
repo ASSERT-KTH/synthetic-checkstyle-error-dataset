@@ -1,0 +1,5 @@
+25,26c25
+< import spoon.reflect.factory.Factory;
+< import spoon.reflect.factory.ModuleFactory;
+---
+> import spoon.reflect.factory.Factory;import spoon.reflect.factory.ModuleFactory;

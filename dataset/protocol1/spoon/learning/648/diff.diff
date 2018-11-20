@@ -1,0 +1,4 @@
+44c44
+< 	public ParentFunction includingSelf(boolean includingSelf) {
+---
+> 	public ParentFunction includingSelf(boolean includingSelf){

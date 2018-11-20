@@ -1,0 +1,4 @@
+101c101
+< 			setState(FIRST_FOR_VARIABLE, v);
+---
+> 			setState	(FIRST_FOR_VARIABLE, v);

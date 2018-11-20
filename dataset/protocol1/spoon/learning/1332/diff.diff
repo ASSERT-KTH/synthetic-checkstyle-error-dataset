@@ -1,0 +1,4 @@
+74c74
+< 		CtMethod<R> method = create(target, modifiers, returnType, name, parameters, thrownTypes);
+---
+> 		CtMethod<R> method= create(target, modifiers, returnType, name, parameters, thrownTypes);

@@ -1,0 +1,5 @@
+89c89,90
+< 	public CtTypeParameter getTypeParameter(GenericDeclaration genericDeclaration, String string) {
+---
+> 	
+> public CtTypeParameter getTypeParameter(GenericDeclaration genericDeclaration, String string) {

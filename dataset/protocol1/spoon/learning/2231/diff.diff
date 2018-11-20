@@ -1,0 +1,4 @@
+72c72
+< 	<T extends CtModifiable> T removeModifier(ModifierKind modifier);
+---
+> 	<	T extends CtModifiable> T removeModifier(ModifierKind modifier);

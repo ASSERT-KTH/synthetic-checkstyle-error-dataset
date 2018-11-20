@@ -1,0 +1,4 @@
+279c279
+< 	<T> CtThisAccess<T> createThisAccess(CtTypeReference<T> type, boolean isImplicit);
+---
+> 	<T> CtThisAccess< T> createThisAccess(CtTypeReference<T> type, boolean isImplicit);

@@ -1,0 +1,4 @@
+140c140
+< 				Files.copy(srcPom.toPath(), pom.toPath(), REPLACE_EXISTING);
+---
+> 				Files.copy(srcPom.toPath(), pom.toPath(), REPLACE_EXISTING	);

@@ -1,0 +1,5 @@
+182,183c182
+< 		} else if (other.getVisibility() == null) {
+< 			return false;
+---
+> 		} else if (other.getVisibility() == null) {			return false;

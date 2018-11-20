@@ -1,0 +1,4 @@
+50c50
+< 				.substituteList(c.getFactory(), targetType, CtStatement.class);
+---
+> 				.substituteList(c.getFactory(), targetType,CtStatement.class);

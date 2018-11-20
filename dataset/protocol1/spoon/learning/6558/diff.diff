@@ -1,0 +1,5 @@
+552c552,553
+< 				sourceEnd = getSourceEndOfTypeReference(contents, wildcard.bound, sourceEnd);
+---
+> 				sourceEnd = getSourceEndOfTypeReference(contents, wildcard.bound
+> , sourceEnd);

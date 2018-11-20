@@ -1,4 +1,0 @@
-35c35
-< public abstract class TypedStatementListTemplateParameter<R> implements TemplateParameter<R> {
----
-> public abstract class TypedStatementListTemplateParameter	<R> implements TemplateParameter<R> {

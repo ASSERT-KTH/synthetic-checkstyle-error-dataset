@@ -1,0 +1,4 @@
+99c99
+< 		getModelChangeListener().onSetDelete(getOwner(), getRole(), set, e);
+---
+> 		getModelChangeListener().onSetDelete(getOwner(), getRole(), set	, e);

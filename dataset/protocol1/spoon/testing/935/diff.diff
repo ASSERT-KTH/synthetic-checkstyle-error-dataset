@@ -1,0 +1,4 @@
+645c645
+< 			if (ref.getDeclaringType().getPackage() != null) {
+---
+> 			if (ref.	getDeclaringType().getPackage() != null) {

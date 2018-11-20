@@ -1,0 +1,4 @@
+164c164
+< 		if (thrownTypes == CtElementImpl.<CtTypeReference<? extends Throwable>>emptySet()) {
+---
+> 		if (thrownTypes == CtElementImpl.<CtTypeReference< ? extends Throwable>>emptySet()) {

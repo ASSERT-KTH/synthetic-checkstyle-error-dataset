@@ -1,0 +1,4 @@
+289c289
+< 			if (errorCount > 0) {
+---
+> 			if (errorCount> 0) {

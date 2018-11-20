@@ -1,0 +1,5 @@
+237c237,238
+< 		if (NULL_TYPE_NAME.equals(getSimpleName()) || NULL_TYPE_NAME.equals(type.getSimpleName())) {
+---
+> 		if (NULL_TYPE_NAME.equals
+> (getSimpleName()) || NULL_TYPE_NAME.equals(type.getSimpleName())) {

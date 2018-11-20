@@ -1,0 +1,5 @@
+97,98c97
+< 		if (cases == CtElementImpl.<CtCase<? super S>>emptyList()) {
+< 			return false;
+---
+> 		if (cases == CtElementImpl.<CtCase<? super S>>emptyList()) {			return false;

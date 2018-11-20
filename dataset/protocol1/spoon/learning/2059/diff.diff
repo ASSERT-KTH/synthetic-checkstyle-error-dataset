@@ -1,0 +1,5 @@
+42c42,43
+< 		for (CtType<?> ctType : jdtCompiler.getFactory().Type().getAll()) {
+---
+> 		for (CtType<?> ctType 
+> : jdtCompiler.getFactory().Type().getAll()) {

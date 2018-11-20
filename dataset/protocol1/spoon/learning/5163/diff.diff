@@ -1,0 +1,5 @@
+275c275,276
+< 		final List<File> binaries = new ArrayList<>();
+---
+> 		final List<File> binaries = new ArrayList<>
+> ();

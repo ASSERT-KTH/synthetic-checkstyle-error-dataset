@@ -1,0 +1,4 @@
+65c65
+< 				throw new SpoonException("The input of VariableReferenceFunction must be a CtVariable but is a " + variableOrScope.getClass().getSimpleName());
+---
+> 				throw new SpoonException("The input of VariableReferenceFunction must be a CtVariable but is a " + variableOrScope.getClass().getSimpleName())	;

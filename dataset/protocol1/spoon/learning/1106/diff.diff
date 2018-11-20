@@ -1,0 +1,5 @@
+80,81c80
+< 		if (type == null) {
+< 			return (C) this;
+---
+> 		if (type == null) {			return (C) this;

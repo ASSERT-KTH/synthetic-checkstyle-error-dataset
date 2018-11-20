@@ -1,0 +1,5 @@
+29c29,30
+< 	CtCatchVariable<T> getDeclaration();
+---
+> 	CtCatchVariable<T> 
+> getDeclaration();

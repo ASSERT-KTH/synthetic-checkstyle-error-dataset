@@ -1,0 +1,4 @@
+518c518
+< 		CtNewArray<T> e = new CtNewArrayImpl<>();
+---
+> 		CtNewArray<T>e = new CtNewArrayImpl<>();

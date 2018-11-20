@@ -1,0 +1,5 @@
+61c61,62
+< 			SourceFragment fragment = childFragments.get(i);
+---
+> 			SourceFragment fragment = childFragments.get
+> (i);

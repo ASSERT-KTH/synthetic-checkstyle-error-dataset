@@ -1,0 +1,5 @@
+351c351,352
+< 		CtType<?> declType = type.getDeclaringType();
+---
+> 		CtType<?> 
+> declType = type.getDeclaringType();

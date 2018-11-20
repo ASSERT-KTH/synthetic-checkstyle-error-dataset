@@ -1,0 +1,4 @@
+51c51
+< 	CtModule getDeclaringModule();
+---
+> 	CtModule getDeclaringModule	();

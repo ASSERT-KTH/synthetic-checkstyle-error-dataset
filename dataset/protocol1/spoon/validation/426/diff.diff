@@ -1,0 +1,4 @@
+48c48
+< 	boolean addProcessor(Processor<?> p);
+---
+> 	boolean addProcessor(	Processor<?> p);

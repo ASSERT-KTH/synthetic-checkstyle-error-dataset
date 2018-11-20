@@ -1,0 +1,5 @@
+349,350c349
+< 		if (types.length == 0) {
+< 			types = new InputType[]{InputType.CTTYPES};
+---
+> 		if (types.length == 0) {			types = new InputType[]{InputType.CTTYPES};

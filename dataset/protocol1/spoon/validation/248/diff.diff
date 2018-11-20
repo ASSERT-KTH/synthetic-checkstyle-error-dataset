@@ -1,0 +1,5 @@
+40c40,41
+< public abstract class ActionBasedChangeListenerImpl implements ActionBasedChangeListener, FineModelChangeListener {
+---
+> public abstract class ActionBasedChangeListenerImpl implements ActionBasedChangeListener
+> , FineModelChangeListener {

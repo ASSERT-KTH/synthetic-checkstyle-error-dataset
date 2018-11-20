@@ -1,0 +1,4 @@
+41c41
+< 	public CtTypeReference<T> getType() {
+---
+> 	public CtTypeReference <T> getType() {

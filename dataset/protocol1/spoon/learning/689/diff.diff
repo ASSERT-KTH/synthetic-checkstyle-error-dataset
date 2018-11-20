@@ -1,0 +1,4 @@
+55c55
+< 		EarlyTerminatingScanner<Boolean> scanner = new EarlyTerminatingScanner<Boolean>() {
+---
+> 		EarlyTerminatingScanner<Boolean> scanner = new EarlyTerminatingScanner	<Boolean>() {

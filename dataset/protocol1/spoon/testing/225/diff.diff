@@ -1,0 +1,4 @@
+78c78
+< 	<T extends CtSwitch<S>> T addCase(CtCase<? super S> c);
+---
+> 	<T extends CtSwitch<S>> T addCase (CtCase<? super S> c);

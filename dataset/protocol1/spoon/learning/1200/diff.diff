@@ -1,0 +1,5 @@
+22c22,23
+< import spoon.pattern.internal.node.RootNode;
+---
+> import 
+> spoon.pattern.internal.node.RootNode;

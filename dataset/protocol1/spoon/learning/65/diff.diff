@@ -1,0 +1,4 @@
+28c28
+< public interface Filter<T extends CtElement> {
+---
+> public interface Filter<	T extends CtElement> {

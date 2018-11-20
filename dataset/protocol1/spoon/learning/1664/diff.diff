@@ -1,0 +1,4 @@
+23c23
+< import spoon.reflect.reference.CtTypeMemberWildcardImportReference;
+---
+> import spoon.reflect.reference.CtTypeMemberWildcardImportReference	;

@@ -1,0 +1,4 @@
+168c168
+< 		((spoon.reflect.code.CtInvocation<T>) (other)).setLabel(e.getLabel());
+---
+> 		((spoon.reflect. code.CtInvocation<T>) (other)).setLabel(e.getLabel());

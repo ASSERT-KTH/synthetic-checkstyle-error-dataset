@@ -1,0 +1,5 @@
+80c80,81
+< 		if (usedType == null) {
+---
+> 		if (usedType 
+> == null) {

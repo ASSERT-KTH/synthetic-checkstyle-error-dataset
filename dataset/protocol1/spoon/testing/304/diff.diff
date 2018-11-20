@@ -1,0 +1,4 @@
+68c68
+< 				cuList.add(new CompilationUnit(content, fName, jdtCompiler.getEnvironment().getEncoding().displayName()));
+---
+> 				cuList.add(new CompilationUnit(content, fName, jdtCompiler.getEnvironment().getEncoding().displayName())	);

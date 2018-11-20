@@ -1,0 +1,4 @@
+56c56
+< 		List<CtExecutableReference<?>> l = new ArrayList<>(super.getDeclaredExecutables());
+---
+> 		List	<CtExecutableReference<?>> l = new ArrayList<>(super.getDeclaredExecutables());

@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.SpoonException;
+< import spoon.reflect.declaration.CtElement;
+---
+> import spoon.SpoonException;import spoon.reflect.declaration.CtElement;

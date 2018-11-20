@@ -1,0 +1,4 @@
+59c59
+< 	CtConstructor<T> getConstructor(CtTypeReference<?>... parameterTypes);
+---
+> 	CtConstructor	<T> getConstructor(CtTypeReference<?>... parameterTypes);

@@ -1,0 +1,4 @@
+435c435
+< 		if (inertTypeIndex > 0) {
+---
+> 		if (inertTypeIndex> 0) {

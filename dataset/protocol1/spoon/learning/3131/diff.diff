@@ -1,0 +1,4 @@
+42c42
+< 	@PropertyGetter(role = LEFT_OPERAND)
+---
+> 	@PropertyGetter(role = LEFT_OPERAND )

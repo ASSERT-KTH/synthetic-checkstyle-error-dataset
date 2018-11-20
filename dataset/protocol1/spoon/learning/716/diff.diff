@@ -1,0 +1,5 @@
+33c33,34
+< public interface CtParameter<T> extends CtVariable<T>, CtShadowable {
+---
+> public interface CtParameter<T> 
+> extends CtVariable<T>, CtShadowable {

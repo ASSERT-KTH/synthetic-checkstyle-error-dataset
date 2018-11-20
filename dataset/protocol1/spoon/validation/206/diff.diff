@@ -1,0 +1,4 @@
+34c34
+< abstract class MapHandler<T, V> extends AbstractRoleHandler<T, Map<String, V>, V> {
+---
+> abstract class MapHandler<T, V> extends AbstractRoleHandler<T, Map<String, V>,V> {

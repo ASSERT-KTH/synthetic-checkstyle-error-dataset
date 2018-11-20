@@ -1,0 +1,4 @@
+64c64
+< 	<T extends CtPackageExport> T setPackageReference(CtPackageReference packageReference);
+---
+> 	<T extends CtPackageExport> T setPackageReference( CtPackageReference packageReference);

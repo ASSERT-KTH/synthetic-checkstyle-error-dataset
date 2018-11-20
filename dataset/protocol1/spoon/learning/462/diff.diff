@@ -1,0 +1,5 @@
+44c44,45
+< 			for (Field f : Parameters.getAllTemplateParameterFields(this.getClass())) {
+---
+> 			for (Field f 
+> : Parameters.getAllTemplateParameterFields(this.getClass())) {

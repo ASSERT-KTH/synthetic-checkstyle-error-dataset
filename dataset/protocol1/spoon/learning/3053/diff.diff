@@ -1,0 +1,5 @@
+56,57c56
+< 		} catch (ParentNotInitializedException e) {
+< 			return false;
+---
+> 		} catch (ParentNotInitializedException e) {			return false;

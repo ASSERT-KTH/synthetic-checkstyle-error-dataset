@@ -1,0 +1,4 @@
+94c94
+< 			CtTypeReference<?> typeRef = typeParam.getSuperclass();
+---
+> 			CtTypeReference<?> typeRef= typeParam.getSuperclass();

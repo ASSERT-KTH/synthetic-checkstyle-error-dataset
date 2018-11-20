@@ -1,0 +1,5 @@
+54c54,55
+< 	@PropertyGetter(role = CtRole.MODULE_REF)
+---
+> 	
+> @PropertyGetter(role = CtRole.MODULE_REF)

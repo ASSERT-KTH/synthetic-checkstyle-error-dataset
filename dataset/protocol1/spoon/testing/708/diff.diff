@@ -1,0 +1,4 @@
+102c102
+< 	public <W, X> Map<String, X> asMap(W element) {
+---
+> 	public <W, X	> Map<String, X> asMap(W element) {

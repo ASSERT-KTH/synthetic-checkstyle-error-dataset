@@ -1,0 +1,5 @@
+145c145,146
+< 	public TemplateBuilder setAddGeneratedBy(boolean addGeneratedBy) {
+---
+> 	
+> public TemplateBuilder setAddGeneratedBy(boolean addGeneratedBy) {

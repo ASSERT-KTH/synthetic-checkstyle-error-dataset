@@ -1,0 +1,4 @@
+164c164
+< 			isRepeatable = (ctAnnotationType.getAnnotation(factory.Type().createReference(Repeatable.class)) != null);
+---
+> 			isRepeatable = (ctAnnotationType.getAnnotation(factory.Type().createReference(Repeatable.class))!= null);

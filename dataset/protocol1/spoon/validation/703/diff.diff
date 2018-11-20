@@ -1,0 +1,5 @@
+56c56,57
+< 			throw new SpoonException("The firstMatcher Node MUST NOT be null");
+---
+> 			
+> throw new SpoonException("The firstMatcher Node MUST NOT be null");

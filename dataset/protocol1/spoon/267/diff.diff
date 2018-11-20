@@ -1,5 +1,0 @@
-108c108,109
-< 	public <T extends CtElement> List<T> find(final CtElement targetRoot) {
----
-> 	public <T extends 
-> CtElement> List<T> find(final CtElement targetRoot) {

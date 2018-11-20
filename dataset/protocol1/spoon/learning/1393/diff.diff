@@ -1,0 +1,5 @@
+538c538,539
+< 	public boolean isAnnotationType() {
+---
+> 	public 
+> boolean isAnnotationType() {

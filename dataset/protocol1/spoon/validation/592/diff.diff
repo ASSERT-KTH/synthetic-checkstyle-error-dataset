@@ -1,0 +1,4 @@
+77c77
+< 		propagateModelChange(new AddAction<>(new ListContext(currentElement, role, field, index), newValue));
+---
+> 		propagateModelChange(new AddAction<>(new ListContext(currentElement, role, field,index), newValue));

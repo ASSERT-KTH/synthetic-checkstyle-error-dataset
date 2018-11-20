@@ -1,0 +1,4 @@
+301c301
+< 	private static synchronized CtTypeReference<TemplateParameter<?>> getTemplateParameterType(Factory factory) {
+---
+> 	private static synchronized CtTypeReference	<TemplateParameter<?>> getTemplateParameterType(Factory factory) {

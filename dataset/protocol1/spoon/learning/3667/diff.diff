@@ -1,0 +1,5 @@
+63c63,64
+< 		this(jdtCompiler, new NullOutputStream(), new NullOutputStream());
+---
+> 		this(jdtCompiler, new 
+> NullOutputStream(), new NullOutputStream());

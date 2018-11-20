@@ -1,0 +1,4 @@
+81c81
+< 	CtClass<?> getAnonymousClass();
+---
+> 	CtClass<?	> getAnonymousClass();

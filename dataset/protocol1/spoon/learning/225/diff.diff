@@ -1,0 +1,4 @@
+184c184
+< 			if (element instanceof CtConstructor && element.isImplicit()) {
+---
+> 			if(element instanceof CtConstructor && element.isImplicit()) {

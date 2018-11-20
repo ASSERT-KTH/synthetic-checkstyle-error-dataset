@@ -1,0 +1,4 @@
+17c17
+< package spoon.support.visitor.equals;
+---
+> package spoon.support.visitor.equals ;

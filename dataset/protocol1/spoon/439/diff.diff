@@ -1,4 +1,0 @@
-78c78
-< 			throw new SpoonException("Unexpected template instance " + template.getClass().getName() + ". Expects " + templateType.getQualifiedName());
----
-> 			throw new SpoonException("Unexpected template instance "+ template.getClass().getName() + ". Expects " + templateType.getQualifiedName());

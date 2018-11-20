@@ -1,0 +1,4 @@
+39c39
+< 		super(mutableTokenWriter, fragments, changeResolver);
+---
+> 		super(	mutableTokenWriter, fragments, changeResolver);

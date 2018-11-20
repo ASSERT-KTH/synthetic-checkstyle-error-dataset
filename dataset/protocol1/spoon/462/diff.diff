@@ -1,4 +1,0 @@
-23c23
-< 		super(actual, CtElementAssert.class);
----
-> 		super(actual,CtElementAssert.class);

@@ -1,0 +1,4 @@
+152c152
+< 		Set<CtRole> roles = elementToChangeRole.get(currentElement);
+---
+> 		Set<CtRole> roles = elementToChangeRole.get	(currentElement);

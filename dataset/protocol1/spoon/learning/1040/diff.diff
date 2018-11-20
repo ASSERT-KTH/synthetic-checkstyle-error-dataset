@@ -1,0 +1,5 @@
+76c76,77
+< 		return Collections.emptySet();
+---
+> 		return Collections.emptySet
+> ();

@@ -1,0 +1,4 @@
+68c68
+< 			if (factory.getEnvironment().getComplianceLevel() > 8) {
+---
+> 			if (factory.getEnvironment().getComplianceLevel() >8) {

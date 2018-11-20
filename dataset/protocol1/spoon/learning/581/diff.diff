@@ -1,0 +1,5 @@
+124,125c124
+< 	public void initProperties(ProcessorProperties properties) {
+< 		ProcessorUtils.initProperties(this, properties);
+---
+> 	public void initProperties(ProcessorProperties properties) {		ProcessorUtils.initProperties(this, properties);

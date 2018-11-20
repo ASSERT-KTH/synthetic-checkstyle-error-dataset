@@ -1,0 +1,5 @@
+240,241c240
+< 					referenceBindings.push((ReferenceBinding) nodeDeclaration.superclass.resolvedType);
+< 				}
+---
+> 					referenceBindings.push((ReferenceBinding) nodeDeclaration.superclass.resolvedType);				}

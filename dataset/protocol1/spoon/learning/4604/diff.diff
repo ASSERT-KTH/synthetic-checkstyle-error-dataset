@@ -1,0 +1,5 @@
+68c68,69
+< 	<T extends CtFor> T setForInit(List<CtStatement> forInit);
+---
+> 	<T extends CtFor> 
+> T setForInit(List<CtStatement> forInit);

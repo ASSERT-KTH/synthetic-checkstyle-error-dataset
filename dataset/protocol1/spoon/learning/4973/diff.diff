@@ -1,0 +1,4 @@
+37c37
+< import spoon.support.reflect.declaration.CtElementImpl;
+---
+> import spoon.support.reflect.	declaration.CtElementImpl;

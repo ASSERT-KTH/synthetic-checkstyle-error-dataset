@@ -1,0 +1,4 @@
+21c21
+< import spoon.reflect.annotations.PropertyGetter;
+---
+> import spoon.reflect.annotations.PropertyGetter	;

@@ -1,0 +1,4 @@
+49c49
+< 	CtRenameRefactoring<T> setNewName(String newName);
+---
+> 	CtRenameRefactoring<T> setNewName(	String newName);

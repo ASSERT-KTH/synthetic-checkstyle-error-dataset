@@ -1,0 +1,4 @@
+189c189
+< 		return factory.getModel().getRootPackage();
+---
+> 		return factory.getModel().getRootPackage ();

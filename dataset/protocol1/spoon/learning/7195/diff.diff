@@ -1,0 +1,4 @@
+39c39
+< 	ScanningMode(boolean visitElement, boolean visitChildren) {
+---
+> 	ScanningMode( boolean visitElement, boolean visitChildren) {

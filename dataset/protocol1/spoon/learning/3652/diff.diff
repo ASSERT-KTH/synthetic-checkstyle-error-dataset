@@ -1,0 +1,4 @@
+21c21
+< import spoon.support.reflect.eval.VisitorPartialEvaluator;
+---
+> import spoon. support.reflect.eval.VisitorPartialEvaluator;

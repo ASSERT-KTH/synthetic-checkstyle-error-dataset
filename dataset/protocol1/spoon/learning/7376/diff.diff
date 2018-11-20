@@ -1,0 +1,5 @@
+191c191,192
+< 			for (Type anInterface : clazz.getGenericInterfaces()) {
+---
+> 			for (Type 
+> anInterface : clazz.getGenericInterfaces()) {

@@ -1,0 +1,4 @@
+98c98
+< 						List<CtNamedElement> methodOrFields = klass.getElements(new NamedElementFilter<>(CtNamedElement.class, methodOrFieldName));
+---
+> 						List<CtNamedElement> methodOrFields= klass.getElements(new NamedElementFilter<>(CtNamedElement.class, methodOrFieldName));

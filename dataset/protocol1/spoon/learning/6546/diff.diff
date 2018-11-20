@@ -1,0 +1,4 @@
+51c51
+< 				return ((CtReference) o1).getSimpleName().compareTo(((CtReference) o2).getSimpleName());
+---
+> 				return ((CtReference) o1).getSimpleName().compareTo(((CtReference) o2).getSimpleName ());

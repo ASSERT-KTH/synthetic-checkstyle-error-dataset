@@ -1,0 +1,5 @@
+101,102c101
+< 	protected boolean remove(T element, Object value) {
+< 		List<V> values = new ArrayList<>(this.<T, List<V>>getValue(element));
+---
+> 	protected boolean remove(T element, Object value) {		List<V> values = new ArrayList<>(this.<T, List<V>>getValue(element));

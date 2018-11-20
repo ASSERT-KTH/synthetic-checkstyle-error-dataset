@@ -1,0 +1,4 @@
+85c85
+< 		result.add(factory.Type().get(spoon.reflect.code.CtCase.class));
+---
+> 		result. add(factory.Type().get(spoon.reflect.code.CtCase.class));

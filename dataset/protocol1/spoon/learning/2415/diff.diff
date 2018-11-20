@@ -1,0 +1,5 @@
+113,114c113
+< 		for (MMMethodKind k : values()) {
+< 			if (k.detector.test(method) && result.level <= k.level) {
+---
+> 		for (MMMethodKind k : values()) {			if (k.detector.test(method) && result.level <= k.level) {

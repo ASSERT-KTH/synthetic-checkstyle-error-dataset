@@ -1,0 +1,4 @@
+291c291
+< 	private <T> void visitFieldAccess(CtFieldAccess<T> fieldAccess) {
+---
+> 	private <T>void visitFieldAccess(CtFieldAccess<T> fieldAccess) {

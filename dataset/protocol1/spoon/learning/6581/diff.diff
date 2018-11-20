@@ -1,0 +1,4 @@
+68c68
+< 		switch (o) {
+---
+> 		switch(o) {

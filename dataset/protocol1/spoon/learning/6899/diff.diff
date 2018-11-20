@@ -1,0 +1,4 @@
+55c55
+< 			.getParent(CtCatch.class).getBody()
+---
+> 			 .getParent(CtCatch.class).getBody()

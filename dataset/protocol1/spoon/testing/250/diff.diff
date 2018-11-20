@@ -1,0 +1,4 @@
+57c57
+< 	<T extends CtTryWithResource> T addResource(CtLocalVariable<?> resource);
+---
+> 	<T extends CtTryWithResource> T addResource(CtLocalVariable<	?> resource);

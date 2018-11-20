@@ -1,0 +1,5 @@
+271c271,272
+< 			putLineNumberMapping(e.getPosition().getLine());
+---
+> 			
+> putLineNumberMapping(e.getPosition().getLine());

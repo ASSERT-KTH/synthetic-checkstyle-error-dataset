@@ -1,0 +1,4 @@
+93c93
+< 			targetMethod = ((CtLambda<?>) targetExecutable).getOverriddenMethod();
+---
+> 			targetMethod = (	(CtLambda<?>) targetExecutable).getOverriddenMethod();

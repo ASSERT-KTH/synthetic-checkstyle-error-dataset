@@ -1,0 +1,4 @@
+206c206
+< 		} else if (!e.getTargetLabel().equals(peek.getTargetLabel())) {
+---
+> 		} else if (! e.getTargetLabel().equals(peek.getTargetLabel())) {

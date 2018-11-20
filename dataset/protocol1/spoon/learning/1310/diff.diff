@@ -1,0 +1,4 @@
+35c35
+< public interface CtArrayAccess<T, E extends CtExpression<?>> extends CtTargetedExpression<T, E> {
+---
+> public interface CtArrayAccess<T, E extends CtExpression<?>> extends CtTargetedExpression <T, E> {

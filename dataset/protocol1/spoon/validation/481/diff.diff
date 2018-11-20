@@ -1,0 +1,4 @@
+148c148
+< 	public <T> void visitCtClass(CtClass<T> ctClass) {
+---
+> 	public<T> void visitCtClass(CtClass<T> ctClass) {

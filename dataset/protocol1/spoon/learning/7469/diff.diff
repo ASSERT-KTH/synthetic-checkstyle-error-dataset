@@ -1,0 +1,5 @@
+26,27c26
+< import spoon.reflect.declaration.CtField;
+< import spoon.reflect.declaration.CtParameter;
+---
+> import spoon.reflect.declaration.CtField;import spoon.reflect.declaration.CtParameter;

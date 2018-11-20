@@ -1,0 +1,4 @@
+38c38
+< import spoon.reflect.declaration.CtTypedElement;
+---
+> import spoon.reflect.declaration. CtTypedElement;

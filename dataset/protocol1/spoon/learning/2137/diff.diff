@@ -1,0 +1,4 @@
+44c44
+< 	@MetamodelPropertyField(role = ARGUMENT)
+---
+> 	@MetamodelPropertyField(role= ARGUMENT)

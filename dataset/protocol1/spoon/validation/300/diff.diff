@@ -1,0 +1,4 @@
+82c82
+< 	<I, R> CtQuery map(CtFunction<I, R> function);
+---
+> 	<I, R> CtQuery map(CtFunction<I, R > function);

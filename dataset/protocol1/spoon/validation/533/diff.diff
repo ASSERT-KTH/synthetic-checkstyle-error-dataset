@@ -1,0 +1,4 @@
+882c882
+< 		scan(CtRole.VARIABLE, f.getVariable());
+---
+> 		scan(CtRole.VARIABLE,f.getVariable());

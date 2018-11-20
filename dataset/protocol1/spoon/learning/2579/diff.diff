@@ -1,0 +1,4 @@
+90c90
+< 	<A extends Annotation> CtAnnotation<A> getAnnotation(
+---
+> 	<A extends Annotation> CtAnnotation<	A> getAnnotation(

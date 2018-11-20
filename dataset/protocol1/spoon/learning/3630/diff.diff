@@ -1,0 +1,4 @@
+356c356
+< 	public List<CtProvidedService> getProvidedServices() {
+---
+> 	public List<CtProvidedService> getProvidedServices(){

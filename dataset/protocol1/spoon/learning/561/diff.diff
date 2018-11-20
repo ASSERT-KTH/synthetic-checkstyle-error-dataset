@@ -1,0 +1,4 @@
+64c64
+< 	<T extends CtModifiable> T addModifier(ModifierKind modifier);
+---
+> 	<	T extends CtModifiable> T addModifier(ModifierKind modifier);

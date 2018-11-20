@@ -1,0 +1,4 @@
+39c39
+< 	void onDeleteAll(DeleteAllAction action);
+---
+> 	void onDeleteAll(	DeleteAllAction action);

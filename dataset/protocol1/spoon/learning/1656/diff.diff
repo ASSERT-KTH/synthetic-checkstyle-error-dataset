@@ -1,0 +1,4 @@
+61c61
+< 				List<CtTypeReference<?>> actTypeArgs = new ArrayList<>(result.getActualTypeArguments());
+---
+> 				List<CtTypeReference<?>> actTypeArgs = new ArrayList<>(result.getActualTypeArguments()	);

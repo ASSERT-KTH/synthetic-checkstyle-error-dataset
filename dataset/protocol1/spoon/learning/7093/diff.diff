@@ -1,0 +1,5 @@
+226,227c226
+< 		if (element instanceof CtConstructor) {
+< 			return CtAnnotatedElementType.CONSTRUCTOR;
+---
+> 		if (element instanceof CtConstructor) {			return CtAnnotatedElementType.CONSTRUCTOR;

@@ -1,0 +1,4 @@
+17c17
+< package spoon.support.visitor.java.internal;
+---
+> package spoon.	support.visitor.java.internal;

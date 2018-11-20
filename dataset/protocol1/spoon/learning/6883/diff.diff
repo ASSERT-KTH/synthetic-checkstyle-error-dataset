@@ -1,0 +1,5 @@
+136,137c136
+< 				if (!(s instanceof CtCase)) {
+< 					throw new RuntimeException("cannot insert something that is not case in a switch");
+---
+> 				if (!(s instanceof CtCase)) {					throw new RuntimeException("cannot insert something that is not case in a switch");

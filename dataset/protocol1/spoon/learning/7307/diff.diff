@@ -1,0 +1,5 @@
+51c51,52
+< 	public boolean matches(E element) {
+---
+> 	public boolean matches(E 
+> element) {

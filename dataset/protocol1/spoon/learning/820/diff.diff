@@ -1,0 +1,5 @@
+47c47,48
+< 		return (CtModuleReference) super.clone();
+---
+> 		
+> return (CtModuleReference) super.clone();

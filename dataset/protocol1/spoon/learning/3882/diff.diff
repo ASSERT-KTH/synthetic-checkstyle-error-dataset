@@ -1,0 +1,5 @@
+72c72,73
+< 	@PropertyGetter(role = OPERATOR_KIND)
+---
+> 	
+> @PropertyGetter(role = OPERATOR_KIND)

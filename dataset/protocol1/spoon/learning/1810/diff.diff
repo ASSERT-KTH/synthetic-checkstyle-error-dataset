@@ -1,0 +1,5 @@
+506c506,507
+< 			parameter(parameterName).setValueType(valueType).setContainerKind(multiple ? ContainerKind.LIST : ContainerKind.SINGLE)
+---
+> 			parameter(parameterName).setValueType(valueType).setContainerKind(multiple 
+> ? ContainerKind.LIST : ContainerKind.SINGLE)

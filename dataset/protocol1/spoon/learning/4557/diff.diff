@@ -1,0 +1,4 @@
+64c64
+< 			getFactory().getEnvironment().getModelChangeListener().onObjectDelete(this, BODY, this.body);
+---
+> 			getFactory().	getEnvironment().getModelChangeListener().onObjectDelete(this, BODY, this.body);

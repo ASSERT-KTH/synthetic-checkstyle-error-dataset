@@ -1,5 +1,0 @@
-23c23,24
-< 		super(actual, FileAssert.class);
----
-> 		
-> super(actual, FileAssert.class);

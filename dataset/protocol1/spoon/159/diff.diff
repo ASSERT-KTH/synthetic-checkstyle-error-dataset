@@ -1,4 +1,0 @@
-31c31
-< import spoon.reflect.declaration.CtInterface;
----
->  import spoon.reflect.declaration.CtInterface;

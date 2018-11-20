@@ -1,0 +1,4 @@
+17c17
+< package spoon.legacy;
+---
+> package spoon. legacy;

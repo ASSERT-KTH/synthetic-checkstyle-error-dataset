@@ -1,0 +1,4 @@
+194c194
+< 					if (currentSubTypes.isEmpty() == false) {
+---
+> 					if (currentSubTypes.isEmpty	() == false) {

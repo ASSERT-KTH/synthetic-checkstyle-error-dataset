@@ -1,0 +1,4 @@
+694c694
+< 		CtUsedService usedService = this.jdtTreeBuilder.getFactory().Module().createUsedService(typeReference);
+---
+> 		CtUsedService usedService = this.	jdtTreeBuilder.getFactory().Module().createUsedService(typeReference);

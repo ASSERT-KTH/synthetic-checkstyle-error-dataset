@@ -1,0 +1,4 @@
+24c24
+< public abstract class CollectionContext<T extends Collection<?>> extends Context {
+---
+> public abstract class CollectionContext<T extends Collection<? >> extends Context {

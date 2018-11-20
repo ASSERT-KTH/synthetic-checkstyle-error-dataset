@@ -1,0 +1,4 @@
+43c43
+< 	<T extends CtCatch> T setParameter(CtCatchVariable<? extends Throwable> parameter);
+---
+> 	<T extends CtCatch > T setParameter(CtCatchVariable<? extends Throwable> parameter);

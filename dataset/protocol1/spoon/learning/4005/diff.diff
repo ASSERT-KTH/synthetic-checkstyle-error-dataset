@@ -1,0 +1,4 @@
+41c41
+< 	<A extends CtAssert<T>> A setAssertExpression(CtExpression<Boolean> asserted);
+---
+> 	<	A extends CtAssert<T>> A setAssertExpression(CtExpression<Boolean> asserted);

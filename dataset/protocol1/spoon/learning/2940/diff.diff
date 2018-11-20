@@ -1,0 +1,4 @@
+138c138
+< 			result.addResult((T) obj);
+---
+> 			result.addResult((T) obj)	;

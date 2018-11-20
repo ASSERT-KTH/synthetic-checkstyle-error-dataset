@@ -1,4 +1,0 @@
-26c26
-< package spoon.template;
----
-> package spoon.	template;

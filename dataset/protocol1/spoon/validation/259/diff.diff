@@ -1,0 +1,4 @@
+31c31
+< public abstract class AbstractFilter<T extends CtElement> implements Filter<T> {
+---
+> public abstract class AbstractFilter<T extends CtElement> implements Filter< T> {

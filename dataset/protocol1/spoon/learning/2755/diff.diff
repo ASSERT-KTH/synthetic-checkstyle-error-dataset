@@ -1,0 +1,4 @@
+93c93
+< 		if (typeParam != null) {
+---
+> 		if (typeParam != null){

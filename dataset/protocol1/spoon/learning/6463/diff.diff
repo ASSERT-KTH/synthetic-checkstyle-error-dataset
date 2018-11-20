@@ -1,0 +1,5 @@
+143,144c143
+< 		} catch (ParentNotInitializedException e) {
+< 			return null;
+---
+> 		} catch (ParentNotInitializedException e) {			return null;

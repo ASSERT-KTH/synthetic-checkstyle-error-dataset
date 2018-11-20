@@ -1,0 +1,5 @@
+39c39,40
+< 		for (SpoonFile f : o.getAllFiles()) {
+---
+> 		
+> for (SpoonFile f : o.getAllFiles()) {

@@ -1,5 +1,0 @@
-82c82,83
-< 			throw new SpoonException("Unable to load processor \"" + qualifiedName + "\"", e);
----
-> 			throw new SpoonException("Unable to load processor \"" + qualifiedName + "\"", 
-> e);

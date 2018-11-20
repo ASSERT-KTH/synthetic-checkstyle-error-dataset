@@ -1,0 +1,4 @@
+268c268
+< 				if (MODEL_IFACE_PACKAGES.contains(iface.getPackage().getQualifiedName())) {
+---
+> 				if (MODEL_IFACE_PACKAGES.contains(iface.getPackage().getQualifiedName())){

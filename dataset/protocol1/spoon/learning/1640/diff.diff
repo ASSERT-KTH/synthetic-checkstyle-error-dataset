@@ -1,0 +1,4 @@
+30c30
+< 	public RefactoringException(String msg) {
+---
+> 	public RefactoringException(String msg	) {

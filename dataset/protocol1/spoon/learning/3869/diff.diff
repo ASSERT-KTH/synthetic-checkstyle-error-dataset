@@ -1,0 +1,4 @@
+51c51
+< 	public Collection<CtExecutableReference<?>> getDeclaredExecutables() {
+---
+> 	public Collection<CtExecutableReference <?>> getDeclaredExecutables() {

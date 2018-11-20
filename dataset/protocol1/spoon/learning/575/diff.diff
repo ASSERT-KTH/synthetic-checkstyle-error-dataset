@@ -1,0 +1,4 @@
+42c42
+< 		visitor.visitCtModuleReference(this);
+---
+> 		visitor.visitCtModuleReference(	this);

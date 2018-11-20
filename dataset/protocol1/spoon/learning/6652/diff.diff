@@ -1,0 +1,5 @@
+63,64c63
+< 	public static RoleHandler getRoleHandler(Class<? extends CtElement> targetClass, CtRole role) {
+< 		RoleHandler rh = getOptionalRoleHandler(targetClass, role);
+---
+> 	public static RoleHandler getRoleHandler(Class<? extends CtElement> targetClass, CtRole role) {		RoleHandler rh = getOptionalRoleHandler(targetClass, role);

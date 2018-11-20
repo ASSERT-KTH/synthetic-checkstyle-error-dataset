@@ -1,0 +1,5 @@
+412,413c412
+< 		if (rootPackage != null) {
+< 			rootPackage.setParent(this);
+---
+> 		if (rootPackage != null) {			rootPackage.setParent(this);

@@ -1,0 +1,4 @@
+114c114
+< 						if (getArguments().containsKey("signature")) {
+---
+> 						if (getArguments().containsKey("signature")	) {

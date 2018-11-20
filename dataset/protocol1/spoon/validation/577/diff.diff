@@ -1,0 +1,4 @@
+109c109
+< 				return (T) ((CtNamedElement) value).getSimpleName();
+---
+> 				return (T) ((CtNamedElement) value	).getSimpleName();

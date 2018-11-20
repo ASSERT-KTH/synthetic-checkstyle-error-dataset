@@ -1,0 +1,5 @@
+46c46,47
+< 			return Class.forName(name);
+---
+> 			return Class.forName
+> (name);

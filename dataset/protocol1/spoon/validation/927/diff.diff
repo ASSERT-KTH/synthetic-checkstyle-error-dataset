@@ -1,0 +1,5 @@
+49c49,50
+< public interface CtLocalVariable<T> extends CtStatement, CtVariable<T>, CtRHSReceiver<T> {
+---
+> public interface CtLocalVariable<T> extends 
+> CtStatement, CtVariable<T>, CtRHSReceiver<T> {

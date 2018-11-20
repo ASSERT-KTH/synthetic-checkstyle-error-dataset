@@ -1,0 +1,4 @@
+91c91
+< 	MMMethodKind(int valueParameterIndex, boolean multi, int level, Predicate<CtMethod<?>> detector) {
+---
+> 	MMMethodKind(int valueParameterIndex, boolean multi, int level, Predicate	<CtMethod<?>> detector) {

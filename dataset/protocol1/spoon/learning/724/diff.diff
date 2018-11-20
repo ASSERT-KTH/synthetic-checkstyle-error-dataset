@@ -1,0 +1,4 @@
+28c28
+< public class ProcessingVisitor extends CtScanner {
+---
+>  public class ProcessingVisitor extends CtScanner {

@@ -1,0 +1,4 @@
+92c92
+< 				Launcher.LOGGER.error(e.getMessage(), e);
+---
+> 				Launcher.LOGGER.error(e.getMessage	(), e);

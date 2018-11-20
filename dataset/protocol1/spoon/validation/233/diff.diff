@@ -1,0 +1,5 @@
+152,153c152
+< 	public String getLabel() {
+< 		return label;
+---
+> 	public String getLabel() {		return label;

@@ -1,0 +1,4 @@
+319c319
+< 	<T> CtLocalVariableReference<T> createLocalVariableReference(CtTypeReference<T> type, String name);
+---
+> 	<T> CtLocalVariableReference<T> createLocalVariableReference(CtTypeReference< T> type, String name);

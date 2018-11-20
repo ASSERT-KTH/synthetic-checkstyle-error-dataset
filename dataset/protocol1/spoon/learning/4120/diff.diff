@@ -1,0 +1,5 @@
+72c72,73
+< 		this.pattern = TemplateBuilder.createPattern(templateRoot, templateType, null).build(nodes -> this.patternModel = nodes);
+---
+> 		this.pattern = TemplateBuilder.createPattern(templateRoot, templateType, 
+> null).build(nodes -> this.patternModel = nodes);

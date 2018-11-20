@@ -1,0 +1,5 @@
+64c64,65
+< 	public <E extends CtComment> E setContent(String content) {
+---
+> 	public <E extends CtComment> E setContent
+> (String content) {

@@ -1,0 +1,5 @@
+107c107,108
+< 	@PropertySetter(role = THROWN)
+---
+> 	@PropertySetter(role 
+> = THROWN)

@@ -1,0 +1,4 @@
+146c146
+< 		return factory.Core().createModuleReference().setSimpleName(module.getSimpleName());
+---
+> 		return factory.Core().createModuleReference().setSimpleName(module.getSimpleName()	);

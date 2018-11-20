@@ -1,0 +1,5 @@
+69c69,70
+< 				for (CtParameter parameter : (List<CtParameter>) executable.getParameters()) {
+---
+> 				for (CtParameter parameter : (List<CtParameter>) executable.getParameters
+> ()) {

@@ -1,0 +1,5 @@
+39c39,40
+< 	CtExpression<? extends Throwable> getThrownExpression();
+---
+> 	CtExpression<? 
+> extends Throwable> getThrownExpression();

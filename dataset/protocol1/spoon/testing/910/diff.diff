@@ -1,0 +1,5 @@
+73,74c73
+< 				return super.setSimpleName(name);
+< 			}
+---
+> 				return super.setSimpleName(name);			}

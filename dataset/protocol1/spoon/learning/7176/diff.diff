@@ -1,0 +1,5 @@
+165c165,166
+< 	public CtTypeReference<?> getCurrentTypeReference() {
+---
+> 	public CtTypeReference<?> getCurrentTypeReference
+> () {

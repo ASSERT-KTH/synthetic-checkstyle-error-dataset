@@ -1,0 +1,4 @@
+90c90
+< 		if (list == null || idx < 0 || idx >= list.size()) {
+---
+> 		if (list == null || idx <0 || idx >= list.size()) {

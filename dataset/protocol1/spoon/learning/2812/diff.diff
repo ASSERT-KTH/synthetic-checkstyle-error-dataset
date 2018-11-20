@@ -1,0 +1,4 @@
+80c80
+< 	<C extends CtEnum<T>> C setEnumValues(List<CtEnumValue<?>> enumValues);
+---
+> 	<C extends CtEnum<T>> C setEnumValues(List<CtEnumValue	<?>> enumValues);

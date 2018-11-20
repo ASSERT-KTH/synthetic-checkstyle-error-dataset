@@ -1,0 +1,4 @@
+38c38
+< 			JDTBasedSpoonCompiler jdtCompiler = compiler.getJdtCompiler();
+---
+> 			JDTBasedSpoonCompiler jdtCompiler = compiler.getJdtCompiler	();

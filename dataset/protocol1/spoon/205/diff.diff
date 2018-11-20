@@ -1,4 +1,0 @@
-60c60
-< 						if (obj != null) {
----
-> 						if ( obj != null) {

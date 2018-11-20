@@ -1,0 +1,5 @@
+46,47c46
+< 	public <T> void generateTargets(DefaultGenerator generator, ResultHolder<T> result, ImmutableMap parameters) {
+< 		generator.getValueAs(parameterInfo, result, parameters);
+---
+> 	public <T> void generateTargets(DefaultGenerator generator, ResultHolder<T> result, ImmutableMap parameters) {		generator.getValueAs(parameterInfo, result, parameters);

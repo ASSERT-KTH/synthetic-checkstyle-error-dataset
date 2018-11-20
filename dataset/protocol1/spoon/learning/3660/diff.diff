@@ -1,0 +1,5 @@
+61c61,62
+< 	public CtType<T> getDeclaringType() {
+---
+> 	public CtType<T> 
+> getDeclaringType() {

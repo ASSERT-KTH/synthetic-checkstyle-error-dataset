@@ -1,0 +1,5 @@
+98,99c98
+< 		if (processors == null) {
+< 			processors = new LinkedList<>();
+---
+> 		if (processors == null) {			processors = new LinkedList<>();

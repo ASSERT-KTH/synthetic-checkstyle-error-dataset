@@ -1,5 +1,0 @@
-24,25c24
-< 	private Check() {
-< 		throw new AssertionError();
----
-> 	private Check() {		throw new AssertionError();

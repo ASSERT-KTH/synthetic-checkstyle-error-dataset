@@ -1,0 +1,4 @@
+68c68
+< 		if (getModifiers().contains(ModifierKind.PUBLIC)) {
+---
+> 		if (getModifiers(). contains(ModifierKind.PUBLIC)) {

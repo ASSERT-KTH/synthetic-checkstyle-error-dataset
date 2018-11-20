@@ -1,0 +1,4 @@
+115c115
+< 		constantMatchers.addAll(variableMatchers);
+---
+> 		constantMatchers.addAll(variableMatchers) ;

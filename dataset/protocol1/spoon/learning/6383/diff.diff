@@ -1,0 +1,5 @@
+65,66c65
+< 		if (!stack.isEmpty()) {
+< 			if (!element.isParentInitialized() || element.getParent() != stack.peek()) {
+---
+> 		if (!stack.isEmpty()) {			if (!element.isParentInitialized() || element.getParent() != stack.peek()) {

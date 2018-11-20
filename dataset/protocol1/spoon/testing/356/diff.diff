@@ -1,0 +1,4 @@
+46c46
+< 	public void apply(CtVariable<?> variable, CtConsumer<Object> outputConsumer) {
+---
+> 	public void apply(CtVariable<?> variable, CtConsumer<Object	> outputConsumer) {

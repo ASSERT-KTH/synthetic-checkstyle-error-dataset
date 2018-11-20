@@ -1,0 +1,5 @@
+588c588,589
+< 		private final spoon.reflect.reference.CtFieldReference element;
+---
+> 		private final spoon.reflect.reference.CtFieldReference element
+> ;

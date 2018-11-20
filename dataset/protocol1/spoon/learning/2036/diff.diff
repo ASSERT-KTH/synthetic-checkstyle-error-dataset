@@ -1,0 +1,4 @@
+82c82
+< 		protected CtConsumer<Object> next;
+---
+> 		protected CtConsumer<Object>next;

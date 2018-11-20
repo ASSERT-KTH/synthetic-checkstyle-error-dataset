@@ -1,0 +1,4 @@
+112c112
+< 		if (target instanceof Map.Entry) {
+---
+> 		if (target instanceof Map.Entry){

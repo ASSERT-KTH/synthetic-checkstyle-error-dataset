@@ -1,0 +1,4 @@
+35c35
+< 		if (literal.getValue() == null) {
+---
+> 		if (literal.getValue()== null) {

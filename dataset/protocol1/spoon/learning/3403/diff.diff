@@ -1,0 +1,5 @@
+112c112,113
+< 		V ret = values.remove(index);
+---
+> 		V ret = values.remove
+> (index);

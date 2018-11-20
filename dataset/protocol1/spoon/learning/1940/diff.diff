@@ -1,0 +1,4 @@
+2071c2071
+< 		replaceInListIfExist(expression.getComments(), new spoon.support.visitor.replace.ReplacementVisitor.CtElementCommentsReplaceListener(expression));
+---
+> 		replaceInListIfExist (expression.getComments(), new spoon.support.visitor.replace.ReplacementVisitor.CtElementCommentsReplaceListener(expression));

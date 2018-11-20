@@ -1,0 +1,4 @@
+41c41
+< 	public static boolean isArchive(File f) {
+---
+> 	public static boolean isArchive(	File f) {

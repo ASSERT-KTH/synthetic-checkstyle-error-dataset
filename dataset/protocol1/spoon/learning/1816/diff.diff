@@ -1,0 +1,4 @@
+170c170
+< 		String s = name().toLowerCase();
+---
+> 		String s = name().toLowerCase() ;

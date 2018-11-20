@@ -1,0 +1,4 @@
+130c130
+< 		if (thrownTypes != null) {
+---
+> 		if (thrownTypes != null ) {

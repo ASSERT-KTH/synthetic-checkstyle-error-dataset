@@ -1,0 +1,4 @@
+442c442
+< 		aCtLiteral.setType(this.cloneHelper.clone(literal.getType()));
+---
+> 		aCtLiteral. setType(this.cloneHelper.clone(literal.getType()));

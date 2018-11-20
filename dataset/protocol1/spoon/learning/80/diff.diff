@@ -1,0 +1,5 @@
+59c59,60
+< 	public <W, X> Set<X> asSet(W e) {
+---
+> 	public <W, X> Set<X> asSet
+> (W e) {

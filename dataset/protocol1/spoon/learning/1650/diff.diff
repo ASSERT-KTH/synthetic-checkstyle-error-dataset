@@ -1,0 +1,4 @@
+395c395
+< 		final char[][] declaringClass = CharOperation.subarray(qualifiedNameReference.tokens, 0, qualifiedNameReference.tokens.length - 1);
+---
+> 		final char[][] declaringClass = CharOperation.subarray(qualifiedNameReference.	tokens, 0, qualifiedNameReference.tokens.length - 1);

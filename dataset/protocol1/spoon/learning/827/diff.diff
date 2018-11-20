@@ -1,0 +1,4 @@
+97c97
+< 		if ((node instanceof Annotation)) {
+---
+> 		if((node instanceof Annotation)) {

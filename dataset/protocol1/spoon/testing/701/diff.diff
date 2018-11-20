@@ -1,0 +1,4 @@
+73c73
+< 			boolean visitNext = mode == Mode.ALL || mode == Mode.NEXT;
+---
+> 			boolean visitNext = mode == Mode.ALL || mode == Mode.	NEXT;

@@ -1,0 +1,5 @@
+131,132c131
+< 	public <T> CtFieldReference<T> createReference(Field field) {
+< 		CtFieldReference<T> fieldRef = factory.Core().createFieldReference();
+---
+> 	public <T> CtFieldReference<T> createReference(Field field) {		CtFieldReference<T> fieldRef = factory.Core().createFieldReference();

@@ -1,0 +1,4 @@
+111c111
+< 		reference.setFinal(field.hasModifier(ModifierKind.FINAL));
+---
+> 		 reference.setFinal(field.hasModifier(ModifierKind.FINAL));

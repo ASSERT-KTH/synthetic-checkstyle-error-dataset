@@ -1,0 +1,5 @@
+78,79c78
+< 			newList.set(idx, newValue);
+< 		} else {
+---
+> 			newList.set(idx, newValue);		} else {

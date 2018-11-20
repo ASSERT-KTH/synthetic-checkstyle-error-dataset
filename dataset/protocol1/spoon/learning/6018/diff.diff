@@ -1,0 +1,4 @@
+39c39
+< 		if (o2.getPosition().isValidPosition() == false) {
+---
+> 		if(o2.getPosition().isValidPosition() == false) {

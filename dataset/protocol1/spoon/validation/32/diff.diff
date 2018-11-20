@@ -1,0 +1,5 @@
+26,27c26
+< import spoon.reflect.meta.RoleHandler;
+< import spoon.reflect.path.CtRole;
+---
+> import spoon.reflect.meta.RoleHandler;import spoon.reflect.path.CtRole;

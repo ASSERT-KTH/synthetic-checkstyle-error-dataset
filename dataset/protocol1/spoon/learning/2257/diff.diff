@@ -1,0 +1,5 @@
+48c48,49
+< 		return printer.getResult().toCharArray();
+---
+> 		return 
+> printer.getResult().toCharArray();

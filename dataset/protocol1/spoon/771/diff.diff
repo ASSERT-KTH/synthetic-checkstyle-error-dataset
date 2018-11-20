@@ -1,5 +1,0 @@
-50,51c50
-< 		} catch (Exception e) {
-< 			throw new SpoonException(e);
----
-> 		} catch (Exception e) {			throw new SpoonException(e);

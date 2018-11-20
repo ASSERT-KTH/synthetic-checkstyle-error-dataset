@@ -1,0 +1,5 @@
+54c54,55
+< 	CtExecutableReferenceExpression<T, E> clone();
+---
+> 	CtExecutableReferenceExpression<T, E> 
+> clone();

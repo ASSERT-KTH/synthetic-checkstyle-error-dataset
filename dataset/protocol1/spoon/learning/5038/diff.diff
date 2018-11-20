@@ -1,0 +1,4 @@
+58c58
+< 	<T extends CtModuleRequirement> T setModuleReference(CtModuleReference moduleReference);
+---
+> 	<T extends CtModuleRequirement>T setModuleReference(CtModuleReference moduleReference);

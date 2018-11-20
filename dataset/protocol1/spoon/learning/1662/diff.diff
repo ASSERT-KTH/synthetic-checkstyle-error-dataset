@@ -1,0 +1,4 @@
+34c34
+< public interface CtFieldRead<T> extends CtFieldAccess<T>, CtVariableRead<T> {
+---
+> public interface CtFieldRead<T> extends CtFieldAccess<T>, CtVariableRead<	T> {

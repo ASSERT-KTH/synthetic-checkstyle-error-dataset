@@ -1,0 +1,5 @@
+33c33,34
+< 	public DefaultTokenWriter writeOperator(String token) {
+---
+> 	public DefaultTokenWriter writeOperator
+> (String token) {

@@ -1,0 +1,4 @@
+96c96
+< 							char[] modulePath = CharOperation.subarray(charName, 0, lastSlash);
+---
+> 							char[] modulePath = CharOperation.subarray( charName, 0, lastSlash);

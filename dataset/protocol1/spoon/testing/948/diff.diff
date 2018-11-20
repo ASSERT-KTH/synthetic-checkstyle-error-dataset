@@ -1,0 +1,5 @@
+95,96c95
+< 	public Class<T> getType() {
+< 		return (Class<T>) CtElement.class;
+---
+> 	public Class<T> getType() {		return (Class<T>) CtElement.class;

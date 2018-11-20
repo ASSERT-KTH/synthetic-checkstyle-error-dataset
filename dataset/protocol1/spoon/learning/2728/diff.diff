@@ -1,0 +1,4 @@
+40c40
+< 		this.visitElement = visitElement;
+---
+> 		this.visitElement = visitElement	;

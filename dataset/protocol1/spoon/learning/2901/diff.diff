@@ -1,0 +1,4 @@
+137c137
+< 		List<T> elements = patternType.filterChildren(filter).list();
+---
+> 		List<T> elements= patternType.filterChildren(filter).list();

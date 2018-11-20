@@ -1,0 +1,5 @@
+100,101c100
+< 	public void setQuery(CtQuery query) {
+< 		this.query = query;
+---
+> 	public void setQuery(CtQuery query) {		this.query = query;

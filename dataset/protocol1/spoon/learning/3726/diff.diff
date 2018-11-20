@@ -1,0 +1,4 @@
+60c60
+< 	<E extends CtElement> List<E> getElements(Filter<E> filter);
+---
+> 	<E extends CtElement> List<	E> getElements(Filter<E> filter);

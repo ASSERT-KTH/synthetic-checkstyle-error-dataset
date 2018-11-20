@@ -1,4 +1,0 @@
-171c171
-< 		return build().generator().generate(itemType, new ImmutableMapImpl(getTemplateParameters(targetType))).get(0);
----
-> 		return build().generator().generate(itemType, new ImmutableMapImpl(getTemplateParameters (targetType))).get(0);

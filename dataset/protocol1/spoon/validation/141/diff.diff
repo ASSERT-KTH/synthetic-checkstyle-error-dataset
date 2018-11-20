@@ -1,0 +1,4 @@
+87c87
+< 	<C extends CtFieldReference<T>> C setFinal(boolean b);
+---
+> 	<C extends CtFieldReference<T	>> C setFinal(boolean b);

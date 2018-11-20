@@ -1,0 +1,4 @@
+108c108
+< 		if (!(ref.isImplicit()) && classImports.containsKey(ref.getSimpleName())) {
+---
+> 		if (!( ref.isImplicit()) && classImports.containsKey(ref.getSimpleName())) {

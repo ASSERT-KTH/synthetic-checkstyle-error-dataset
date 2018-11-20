@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.reflect.cu.SourcePositionHolder;
+< import spoon.reflect.path.CtRole;
+---
+> import spoon.reflect.cu.SourcePositionHolder;import spoon.reflect.path.CtRole;

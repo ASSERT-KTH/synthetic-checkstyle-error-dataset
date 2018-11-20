@@ -1,0 +1,4 @@
+467c467
+< 		scan(CtRole.EXPRESSION, forLoop.getExpression());
+---
+> 		scan(CtRole.EXPRESSION, forLoop.getExpression() );

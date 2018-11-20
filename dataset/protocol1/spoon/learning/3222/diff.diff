@@ -1,0 +1,5 @@
+48,49c48
+< 	public <T> void generateTargets(DefaultGenerator generator, ResultHolder<T> result, ImmutableMap parameters) {
+< 		for (RootNode node : nodes) {
+---
+> 	public <T> void generateTargets(DefaultGenerator generator, ResultHolder<T> result, ImmutableMap parameters) {		for (RootNode node : nodes) {

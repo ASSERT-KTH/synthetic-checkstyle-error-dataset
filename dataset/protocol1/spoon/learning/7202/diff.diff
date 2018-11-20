@@ -1,0 +1,4 @@
+817c817
+< 		if (patternBuilder.getParameterInfo(paramName) == null) {
+---
+> 		if (patternBuilder.getParameterInfo(paramName) == null){

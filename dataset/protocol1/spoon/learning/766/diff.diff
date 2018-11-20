@@ -1,0 +1,5 @@
+20,21c20
+< import spoon.SpoonException;
+< import spoon.reflect.path.impl.AbstractPathElement;
+---
+> import spoon.SpoonException;import spoon.reflect.path.impl.AbstractPathElement;

@@ -1,0 +1,5 @@
+98c98,99
+< 		((spoon.reflect.declaration.CtType<T>) (other)).setModifiers(type.getModifiers());
+---
+> 		
+> ((spoon.reflect.declaration.CtType<T>) (other)).setModifiers(type.getModifiers());

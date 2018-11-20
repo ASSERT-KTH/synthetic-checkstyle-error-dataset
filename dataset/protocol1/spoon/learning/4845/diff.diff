@@ -1,0 +1,4 @@
+117c117
+< 			CtConstructor constructor = this.getFactory().createInvisibleArrayConstructor();
+---
+> 			CtConstructor constructor = this.getFactory ().createInvisibleArrayConstructor();

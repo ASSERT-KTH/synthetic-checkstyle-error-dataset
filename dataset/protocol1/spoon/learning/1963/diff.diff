@@ -1,0 +1,4 @@
+144c144
+< 		List<T> elements = getByFilter(filter);
+---
+> 		List<T> elements = getByFilter	(filter);

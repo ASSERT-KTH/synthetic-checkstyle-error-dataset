@@ -1,0 +1,4 @@
+57c57
+< 	<T extends CtStatementList> T addStatement(int index, CtStatement statement);
+---
+> 	 <T extends CtStatementList> T addStatement(int index, CtStatement statement);

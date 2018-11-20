@@ -1,0 +1,4 @@
+61c61
+< 		getFactory().getEnvironment().getModelChangeListener().onListDeleteAll(this, CtRole.IMPLEMENTATION_TYPE, this.implementationTypes, new ArrayList<>(this.implementationTypes));
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onListDeleteAll(this, CtRole.IMPLEMENTATION_TYPE,this.implementationTypes, new ArrayList<>(this.implementationTypes));

@@ -1,0 +1,4 @@
+153c153
+< 	@PropertyGetter(role = PROVIDED_SERVICE)
+---
+> 	@PropertyGetter( role = PROVIDED_SERVICE)

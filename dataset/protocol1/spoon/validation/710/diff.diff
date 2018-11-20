@@ -1,0 +1,4 @@
+87c87
+< 			o = new LinkedHashSet<>((List) o);
+---
+> 			o= new LinkedHashSet<>((List) o);

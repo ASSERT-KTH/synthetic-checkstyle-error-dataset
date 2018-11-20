@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.reflect.declaration.CtVariable;
+< import spoon.reflect.reference.CtCatchVariableReference;
+---
+> import spoon.reflect.declaration.CtVariable;import spoon.reflect.reference.CtCatchVariableReference;

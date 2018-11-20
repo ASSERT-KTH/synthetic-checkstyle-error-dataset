@@ -1,0 +1,4 @@
+68c68
+< 		executables.put(executable, executable);
+---
+> 		executables.put(executable	, executable);

@@ -1,0 +1,4 @@
+44c44
+< 	Collection<CtPackage> getAllPackages();
+---
+> 	Collection<	CtPackage> getAllPackages();

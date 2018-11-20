@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.reflect.declaration.CtModule;
+< import spoon.reflect.declaration.CtPackage;
+---
+> import spoon.reflect.declaration.CtModule;import spoon.reflect.declaration.CtPackage;

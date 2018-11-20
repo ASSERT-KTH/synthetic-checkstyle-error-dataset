@@ -1,0 +1,5 @@
+79c79,80
+< 			if (input instanceof CtTypeReference) {
+---
+> 			if (input 
+> instanceof CtTypeReference) {

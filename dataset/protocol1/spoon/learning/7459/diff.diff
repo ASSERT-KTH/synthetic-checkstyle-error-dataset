@@ -1,0 +1,5 @@
+46c46,47
+< 		return declaration.getParent().getReference();
+---
+> 		return declaration.getParent
+> ().getReference();

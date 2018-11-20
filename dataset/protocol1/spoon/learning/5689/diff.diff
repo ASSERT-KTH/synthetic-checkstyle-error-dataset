@@ -1,0 +1,4 @@
+66c66
+< 		this.packageReference = packageReference;
+---
+> 		this.packageReference = packageReference ;

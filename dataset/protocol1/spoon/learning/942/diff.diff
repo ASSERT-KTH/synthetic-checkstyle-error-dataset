@@ -1,0 +1,4 @@
+46c46
+< 	<C extends CtVariableAccess<T>> C setVariable(CtVariableReference<T> variable);
+---
+> 	<C extends CtVariableAccess<T>> C setVariable(CtVariableReference<T > variable);

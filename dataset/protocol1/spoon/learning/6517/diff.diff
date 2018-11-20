@@ -1,0 +1,5 @@
+37c37,38
+< 	public final boolean visitChildren;
+---
+> 	public 
+> final boolean visitChildren;

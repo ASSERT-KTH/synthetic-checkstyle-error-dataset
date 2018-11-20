@@ -1,0 +1,4 @@
+96c96
+< 							subMatches = new CtNamedPathElement(name).scanElements(roleHandler.asList(root));
+---
+> 							subMatches = new CtNamedPathElement(name).scanElements(roleHandler.asList(root)	);

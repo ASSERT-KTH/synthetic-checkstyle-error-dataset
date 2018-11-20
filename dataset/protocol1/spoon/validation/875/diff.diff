@@ -1,0 +1,5 @@
+39c39,40
+< 	public AbstractFilter(Class<? super T> type) {
+---
+> 	public AbstractFilter(Class<? 
+> super T> type) {

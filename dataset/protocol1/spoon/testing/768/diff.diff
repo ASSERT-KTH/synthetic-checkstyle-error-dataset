@@ -1,0 +1,4 @@
+36c36
+< 	void computeImports(CtElement element);
+---
+> 	void computeImports	(CtElement element);

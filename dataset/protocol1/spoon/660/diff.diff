@@ -1,4 +1,0 @@
-64c64
-< 	public abstract void statement() throws Throwable;
----
-> 	public abstract void statement() throws Throwable ;

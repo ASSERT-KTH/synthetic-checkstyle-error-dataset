@@ -1,0 +1,4 @@
+770c770
+< 	public <T> CtNewArray<T> createNewArray() {
+---
+> 	public <T> CtNewArray<T>createNewArray() {

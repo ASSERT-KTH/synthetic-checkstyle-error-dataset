@@ -1,0 +1,4 @@
+161c161
+< 		result.add(factory.Type().get(spoon.reflect.declaration.CtTypedElement.class));
+---
+> 		result.add(factory.Type().get(spoon.reflect.declaration.	CtTypedElement.class));

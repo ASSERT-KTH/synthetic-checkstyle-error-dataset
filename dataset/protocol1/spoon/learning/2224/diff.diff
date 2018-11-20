@@ -1,0 +1,4 @@
+251c251
+< 	public CtClass<T> clone() {
+---
+> 	public CtClass<T>clone() {

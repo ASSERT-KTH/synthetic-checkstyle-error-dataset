@@ -1,0 +1,4 @@
+93c93
+< 	public String getNewName() {
+---
+> 	 public String getNewName() {

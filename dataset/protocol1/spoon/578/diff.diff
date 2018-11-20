@@ -1,4 +1,0 @@
-118c118
-< 	public void forEachMatch(CtElement rootElement, CtConsumer<Match> consumer) {
----
-> 	public void forEachMatch(CtElement rootElement, CtConsumer<Match> consumer ) {

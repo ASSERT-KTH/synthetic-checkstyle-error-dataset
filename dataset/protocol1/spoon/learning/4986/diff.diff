@@ -1,0 +1,4 @@
+237c237
+< 	public <T extends CtElement> List<T> generate(Class<T> valueType, Map<String, Object> params) {
+---
+> 	public <T extends CtElement> List<T> generate(Class<T> valueType, Map<String, Object> params	) {

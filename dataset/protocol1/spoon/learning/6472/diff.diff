@@ -1,0 +1,5 @@
+28c28,29
+< public class DeclarationSourcePositionImpl extends CompoundSourcePositionImpl
+---
+> public class DeclarationSourcePositionImpl extends 
+> CompoundSourcePositionImpl

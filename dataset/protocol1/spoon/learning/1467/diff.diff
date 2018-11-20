@@ -1,0 +1,4 @@
+53c53
+< 	void onListDeleteAll(CtElement currentElement, CtRole role, List field, List oldValue);
+---
+> 	void onListDeleteAll(CtElement currentElement, CtRole role, List field , List oldValue);

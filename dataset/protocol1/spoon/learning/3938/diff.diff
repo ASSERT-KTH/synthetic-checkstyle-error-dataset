@@ -1,0 +1,4 @@
+136c136
+< 								matchs.add((CtElement) roleHandler.asMap(root).get(name));
+---
+> 								matchs.add((CtElement) roleHandler.asMap(root).get(name) );

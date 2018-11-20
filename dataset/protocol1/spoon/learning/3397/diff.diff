@@ -1,0 +1,4 @@
+461c461
+< 					logger.warn("You're trying to give source code in the classpath, this should be given to " + "addInputSource " + javaFiles);
+---
+> 					logger.warn("You're trying to give source code in the classpath, this should be given to " +"addInputSource " + javaFiles);

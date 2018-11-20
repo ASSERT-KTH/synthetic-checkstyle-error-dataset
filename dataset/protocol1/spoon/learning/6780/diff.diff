@@ -1,0 +1,4 @@
+155c155
+< 		for (CtType<?> t : getDeclaredTypes()) {
+---
+> 		for ( CtType<?> t : getDeclaredTypes()) {

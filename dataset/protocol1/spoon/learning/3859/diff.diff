@@ -1,0 +1,4 @@
+59c59
+< 	<T extends CtForEach> T setVariable(CtLocalVariable<?> variable);
+---
+> 	<T extends CtForEach> T setVariable(CtLocalVariable <?> variable);

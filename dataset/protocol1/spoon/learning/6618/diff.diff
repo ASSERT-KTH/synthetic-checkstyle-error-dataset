@@ -1,0 +1,4 @@
+33c33
+< 	String FIELD_SEPARATOR = "#";
+---
+> 	String FIELD_SEPARATOR = "#"	;

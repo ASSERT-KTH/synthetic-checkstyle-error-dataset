@@ -1,5 +1,0 @@
-61,62c61
-< 	public TemplateMatcher(CtElement templateRoot) {
-< 		this(templateRoot, templateRoot.getParent(CtClass.class));
----
-> 	public TemplateMatcher(CtElement templateRoot) {		this(templateRoot, templateRoot.getParent(CtClass.class));

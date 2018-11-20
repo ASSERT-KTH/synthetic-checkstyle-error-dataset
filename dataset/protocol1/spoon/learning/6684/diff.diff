@@ -1,0 +1,4 @@
+54c54
+< 	@PropertySetter(role = CtRole.OPENED_PACKAGE)
+---
+> 	@PropertySetter(role =CtRole.OPENED_PACKAGE)

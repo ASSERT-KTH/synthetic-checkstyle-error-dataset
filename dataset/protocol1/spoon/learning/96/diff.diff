@@ -1,0 +1,4 @@
+51c51
+< 	public boolean isOpenedPackage() {
+---
+> 	public boolean isOpenedPackage(){

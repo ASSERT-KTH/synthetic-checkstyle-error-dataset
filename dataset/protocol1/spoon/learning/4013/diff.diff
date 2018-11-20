@@ -1,0 +1,4 @@
+239c239
+< 			variableAccess = isLhsAssignment(contextBuilder, singleNameReference)
+---
+> 			variableAccess= isLhsAssignment(contextBuilder, singleNameReference)

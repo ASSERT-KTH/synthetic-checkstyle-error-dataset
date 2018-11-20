@@ -1,0 +1,5 @@
+253,254c253
+< 	public CtTypeReference<Object> objectType() {
+< 		return OBJECT.clone();
+---
+> 	public CtTypeReference<Object> objectType() {		return OBJECT.clone();

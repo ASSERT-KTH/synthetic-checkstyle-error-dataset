@@ -1,0 +1,4 @@
+28c28
+< public class CtLineElementComparator implements Comparator<CtElement>, Serializable {
+---
+> public class CtLineElementComparator implements Comparator <CtElement>, Serializable {

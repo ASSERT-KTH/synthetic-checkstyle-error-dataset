@@ -1,0 +1,4 @@
+63c63
+< 	public static void compileAndReplaceSnippetsIn(CtType<?> initialClass) {
+---
+> 	public static void compileAndReplaceSnippetsIn(CtType <?> initialClass) {

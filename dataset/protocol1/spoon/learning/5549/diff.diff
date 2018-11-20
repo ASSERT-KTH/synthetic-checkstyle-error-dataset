@@ -1,0 +1,5 @@
+52,53c52
+< 	public CtPath fromElement(CtElement el) throws CtPathException {
+< 		return fromElement(el, el.getParent(CtModelImpl.CtRootPackage.class));
+---
+> 	public CtPath fromElement(CtElement el) throws CtPathException {		return fromElement(el, el.getParent(CtModelImpl.CtRootPackage.class));

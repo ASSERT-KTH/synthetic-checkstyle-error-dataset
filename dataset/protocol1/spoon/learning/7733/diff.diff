@@ -1,0 +1,4 @@
+373c373
+< 						pb += " " + ((CtElement) notEqualOther).getPosition().toString();
+---
+> 						pb += " " + (	(CtElement) notEqualOther).getPosition().toString();

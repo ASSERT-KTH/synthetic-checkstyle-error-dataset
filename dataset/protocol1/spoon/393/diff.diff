@@ -1,5 +1,0 @@
-28,29c28
-< 	public static <T> T assertNotNull(T reference) {
-< 		if (reference == null) {
----
-> 	public static <T> T assertNotNull(T reference) {		if (reference == null) {

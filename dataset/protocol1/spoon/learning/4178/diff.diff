@@ -1,0 +1,5 @@
+1068c1068,1069
+< 				List<CtTypeReference<?>> parametersType = new ArrayList<>();
+---
+> 				List<CtTypeReference<?>> parametersType = 
+> new ArrayList<>();

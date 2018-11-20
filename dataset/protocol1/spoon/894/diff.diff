@@ -1,5 +1,0 @@
-26,27c26
-< import spoon.pattern.internal.node.ListOfNodes;
-< import spoon.reflect.declaration.CtClass;
----
-> import spoon.pattern.internal.node.ListOfNodes;import spoon.reflect.declaration.CtClass;

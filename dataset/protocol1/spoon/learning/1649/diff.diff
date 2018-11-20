@@ -1,0 +1,4 @@
+29c29
+< 	public static byte[] serialize(Object obj) throws IOException {
+---
+> 	public static byte[] serialize(Object obj) throws IOException{

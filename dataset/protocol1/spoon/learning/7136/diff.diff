@@ -1,0 +1,5 @@
+1799c1799,1800
+< 		replaceInListIfExist(reference.getAnnotations(), new spoon.support.visitor.replace.ReplacementVisitor.CtElementAnnotationsReplaceListener(reference));
+---
+> 		replaceInListIfExist(reference.getAnnotations
+> (), new spoon.support.visitor.replace.ReplacementVisitor.CtElementAnnotationsReplaceListener(reference));

@@ -1,0 +1,5 @@
+22c22,23
+< import org.eclipse.jdt.internal.compiler.batch.CompilationUnit;
+---
+> import 
+> org.eclipse.jdt.internal.compiler.batch.CompilationUnit;

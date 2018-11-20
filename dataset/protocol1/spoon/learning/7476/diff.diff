@@ -1,0 +1,4 @@
+61c61
+< 		CtClass<T> c = factory.Core().createClass();
+---
+> 		CtClass<T > c = factory.Core().createClass();

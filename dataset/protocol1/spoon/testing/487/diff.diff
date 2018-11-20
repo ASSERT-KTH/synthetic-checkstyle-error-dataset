@@ -1,0 +1,5 @@
+37c37,38
+< public interface CtTryWithResource extends CtTry {
+---
+> public interface 
+> CtTryWithResource extends CtTry {

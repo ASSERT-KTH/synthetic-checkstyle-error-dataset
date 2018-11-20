@@ -1,0 +1,4 @@
+33c33
+< abstract class AbstractRoleHandler<T, U, V> implements RoleHandler {
+---
+> abstract class AbstractRoleHandler<T, U, V > implements RoleHandler {

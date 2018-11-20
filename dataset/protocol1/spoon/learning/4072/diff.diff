@@ -1,0 +1,4 @@
+110c110
+< 			this.typeCasts = CtElementImpl.emptyList();
+---
+> 			this.typeCasts= CtElementImpl.emptyList();

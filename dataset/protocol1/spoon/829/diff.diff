@@ -1,5 +1,0 @@
-651c651,652
-< 						if (member.getSimpleName().equals(proxyName)) {
----
-> 						
-> if (member.getSimpleName().equals(proxyName)) {

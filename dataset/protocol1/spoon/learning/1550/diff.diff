@@ -1,0 +1,5 @@
+53,54c53
+< 	public void apply(CtParameter<?> parameter, CtConsumer<Object> outputConsumer) {
+< 		CtExecutable<?> exec = parameter.getParent(CtExecutable.class);
+---
+> 	public void apply(CtParameter<?> parameter, CtConsumer<Object> outputConsumer) {		CtExecutable<?> exec = parameter.getParent(CtExecutable.class);

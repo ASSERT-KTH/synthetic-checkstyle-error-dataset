@@ -1,0 +1,4 @@
+104c104
+< 		propagateModelChange(new DeleteAllAction(new MapContext<>(currentElement, role, field), oldValue));
+---
+> 		propagateModelChange(new DeleteAllAction(new MapContext<>(currentElement, role,field), oldValue));

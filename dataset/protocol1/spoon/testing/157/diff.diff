@@ -1,0 +1,4 @@
+38c38
+< 			if (comparator.compare(o, e) < 0) {
+---
+> 			if(comparator.compare(o, e) < 0) {

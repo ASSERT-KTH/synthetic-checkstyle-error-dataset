@@ -1,0 +1,5 @@
+31c31,32
+< 	@MetamodelPropertyField(role = EXPRESSION)
+---
+> 	@MetamodelPropertyField(role 
+> = EXPRESSION)

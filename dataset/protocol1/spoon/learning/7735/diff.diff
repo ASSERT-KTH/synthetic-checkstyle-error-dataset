@@ -1,0 +1,4 @@
+157c157
+< 			name = name.substring(0, name.lastIndexOf('.'));
+---
+> 			name = name.substring(0,name.lastIndexOf('.'));

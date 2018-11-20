@@ -1,4 +1,0 @@
-147c147
-< 			final AssertionError error = new AssertionError("Can't compile " + outputDirectoryFile.getName() + " because " + e.getMessage());
----
-> 			final AssertionError error =new AssertionError("Can't compile " + outputDirectoryFile.getName() + " because " + e.getMessage());

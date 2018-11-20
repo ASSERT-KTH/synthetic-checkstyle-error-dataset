@@ -1,0 +1,5 @@
+32,33c32
+< 	public CtPackage getDeclaration() {
+< 		return getFactory().Package().get(getSimpleName());
+---
+> 	public CtPackage getDeclaration() {		return getFactory().Package().get(getSimpleName());

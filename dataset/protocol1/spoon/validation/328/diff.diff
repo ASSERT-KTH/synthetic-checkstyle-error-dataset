@@ -1,0 +1,4 @@
+76c76
+< 	@PropertyGetter(role = IS_INFERRED)
+---
+> 	@PropertyGetter(	role = IS_INFERRED)

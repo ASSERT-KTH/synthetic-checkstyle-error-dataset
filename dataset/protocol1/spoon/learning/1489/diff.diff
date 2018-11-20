@@ -1,0 +1,5 @@
+530c530,531
+< 			modelBuilder.compile(InputType.FILES);
+---
+> 			
+> modelBuilder.compile(InputType.FILES);

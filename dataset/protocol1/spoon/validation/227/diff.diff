@@ -1,0 +1,4 @@
+75c75
+< 	<T extends GenericDeclaration> void visitTypeParameterReference(CtRole role, TypeVariable<T> parameter);
+---
+> 	<T extends GenericDeclaration> void visitTypeParameterReference(CtRole role, TypeVariable<T > parameter);

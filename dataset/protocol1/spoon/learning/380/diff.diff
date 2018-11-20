@@ -1,0 +1,4 @@
+126c126
+< 		if (parent instanceof CtTypeReference) {
+---
+> 		 if (parent instanceof CtTypeReference) {

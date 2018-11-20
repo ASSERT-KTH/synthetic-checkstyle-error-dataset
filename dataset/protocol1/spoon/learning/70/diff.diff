@@ -1,0 +1,4 @@
+78c78
+< 	public void addFormalType(CtTypeParameter parameterRef) {
+---
+> 	public void addFormalType(CtTypeParameter parameterRef){

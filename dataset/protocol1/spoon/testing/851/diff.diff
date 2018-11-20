@@ -1,0 +1,4 @@
+34c34
+< 	@MetamodelPropertyField(role = TARGET_LABEL)
+---
+> 	@MetamodelPropertyField(role =TARGET_LABEL)

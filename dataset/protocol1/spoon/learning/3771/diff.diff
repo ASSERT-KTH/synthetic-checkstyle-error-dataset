@@ -1,0 +1,4 @@
+24c24
+< 	public ObjectContext(CtElement ctElement, CtRole role) {
+---
+> 	public ObjectContext(CtElement ctElement, CtRole role){

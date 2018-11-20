@@ -1,0 +1,4 @@
+321c321
+< 		this.manager = manager;
+---
+> 		this. manager = manager;

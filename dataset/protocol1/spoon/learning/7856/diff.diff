@@ -1,0 +1,5 @@
+374c374,375
+< 		this.lineSeparatorPositions = lineSeparatorPositions;
+---
+> 		this.lineSeparatorPositions = lineSeparatorPositions
+> ;

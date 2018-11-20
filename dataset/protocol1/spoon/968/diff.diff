@@ -1,4 +1,0 @@
-21c21
-< public class CtPackageAssert extends AbstractCtPackageAssert<CtPackageAssert> {
----
-> public class CtPackageAssert extends AbstractCtPackageAssert<	CtPackageAssert> {

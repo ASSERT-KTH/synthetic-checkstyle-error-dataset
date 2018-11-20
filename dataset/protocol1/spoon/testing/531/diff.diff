@@ -1,0 +1,4 @@
+30c30
+< 	void onPrintEvent(PrinterEvent event);
+---
+> 	 void onPrintEvent(PrinterEvent event);

@@ -1,0 +1,4 @@
+529c529
+< 			scan(operator.getRightHandOperand());
+---
+> 			scan	(operator.getRightHandOperand());

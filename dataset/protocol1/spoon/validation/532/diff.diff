@@ -1,0 +1,4 @@
+293c293
+< 		scan(CtRole.ANNOTATION, operator.getAnnotations());
+---
+> 		scan(CtRole.ANNOTATION,operator.getAnnotations());

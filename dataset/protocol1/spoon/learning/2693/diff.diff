@@ -1,0 +1,5 @@
+42c42,43
+< 	public Context getContext() {
+---
+> 	public 
+> Context getContext() {

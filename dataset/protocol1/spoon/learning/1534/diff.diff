@@ -1,0 +1,4 @@
+143c143
+< 			getFactory().getEnvironment().getModelChangeListener().onListAdd(this, role, this.typeMembers, position, member);
+---
+> 			getFactory().getEnvironment().getModelChangeListener().onListAdd(this, role, this.typeMembers, position, member) ;

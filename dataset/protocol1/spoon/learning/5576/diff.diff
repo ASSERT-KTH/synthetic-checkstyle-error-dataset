@@ -1,0 +1,4 @@
+35c35
+< 	public OverridingMethodFilter(CtMethod<?> method) {
+---
+> 	public OverridingMethodFilter(CtMethod<? > method) {

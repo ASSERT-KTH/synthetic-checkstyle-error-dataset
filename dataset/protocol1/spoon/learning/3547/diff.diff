@@ -1,0 +1,4 @@
+94c94
+< 		modifiers.remove(new CtExtendedModifier(modifier, true));
+---
+> 		modifiers.remove(new CtExtendedModifier(modifier, true))	;

@@ -1,0 +1,5 @@
+210c210,211
+< 		String EOL = System.getProperty("line.separator");
+---
+> 		String EOL = System.getProperty
+> ("line.separator");

@@ -1,0 +1,4 @@
+125c125
+< 		type.getPackage().addType(clone);
+---
+> 		type.getPackage	().addType(clone);

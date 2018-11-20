@@ -1,0 +1,4 @@
+68c68
+< 				String[] lines = LINE_SEPARATORS_RE.split(content);
+---
+> 				String[] lines= LINE_SEPARATORS_RE.split(content);

@@ -1,0 +1,4 @@
+68c68
+< 	LocalVariableReferenceFunction(Class<?> variableClass, Class<?> variableReferenceClass) {
+---
+> 	LocalVariableReferenceFunction(Class<? > variableClass, Class<?> variableReferenceClass) {

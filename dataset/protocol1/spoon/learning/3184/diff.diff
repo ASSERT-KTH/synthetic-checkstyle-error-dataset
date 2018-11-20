@@ -1,0 +1,4 @@
+82c82
+< 		setTypeMember(tm -> typeMemberName.equals(tm.getSimpleName()));
+---
+> 		setTypeMember(tm -> typeMemberName.equals(tm.getSimpleName() ));

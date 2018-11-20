@@ -1,0 +1,5 @@
+29c29,30
+< 	CtModule getDeclaration();
+---
+> 	CtModule getDeclaration
+> ();

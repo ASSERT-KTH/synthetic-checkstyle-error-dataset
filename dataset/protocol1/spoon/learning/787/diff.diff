@@ -1,0 +1,4 @@
+44c44
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, OPERATOR_KIND, kind, this.kind);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, OPERATOR_KIND	, kind, this.kind);

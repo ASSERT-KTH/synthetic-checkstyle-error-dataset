@@ -1,0 +1,4 @@
+236c236
+< 		CtTypeReference<T> typeRef = factory.Type().createReference(type);
+---
+> 		CtTypeReference<T> typeRef = factory.Type().createReference (type);

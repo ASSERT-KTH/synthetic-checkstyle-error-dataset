@@ -1,0 +1,5 @@
+50,51c50
+< 			} while (!name.equals(var.getSimpleName()));
+< 		} catch (ParentNotInitializedException e) {
+---
+> 			} while (!name.equals(var.getSimpleName()));		} catch (ParentNotInitializedException e) {

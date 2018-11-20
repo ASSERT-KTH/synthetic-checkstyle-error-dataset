@@ -1,0 +1,4 @@
+58c58
+< 	int getTabCount(int index);
+---
+> 	int getTabCount(int index	);

@@ -1,0 +1,4 @@
+25c25
+< public enum FilteringOperator {
+---
+>  public enum FilteringOperator {

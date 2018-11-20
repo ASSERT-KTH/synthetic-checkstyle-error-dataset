@@ -1,0 +1,4 @@
+43c43
+< 	<T extends CtUsedService> T setServiceType(CtTypeReference providingType);
+---
+> 	<T extends CtUsedService> T setServiceType( CtTypeReference providingType);

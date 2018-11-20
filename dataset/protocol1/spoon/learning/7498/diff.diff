@@ -1,0 +1,4 @@
+195c195
+< 		((spoon.reflect.declaration.CtMethod<T>) (other)).setDefaultMethod(e.isDefaultMethod());
+---
+> 		((spoon.reflect.declaration.CtMethod<T>) (	other)).setDefaultMethod(e.isDefaultMethod());

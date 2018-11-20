@@ -1,0 +1,4 @@
+67c67
+< 	@PropertySetter(role = FOR_INIT)
+---
+> 	@PropertySetter(	role = FOR_INIT)

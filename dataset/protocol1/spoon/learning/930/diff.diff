@@ -1,0 +1,4 @@
+33c33
+< 		ConsoleDecompiler.main(new String[]{jarPath, outputDir.getPath()});
+---
+> 		ConsoleDecompiler.main(new String[]{jarPath	, outputDir.getPath()});

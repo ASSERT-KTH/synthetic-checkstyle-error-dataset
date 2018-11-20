@@ -1,0 +1,5 @@
+58,59c58
+< 					} else {
+< 						obj = properties.get(String.class, f.getName());
+---
+> 					} else {						obj = properties.get(String.class, f.getName());

@@ -1,0 +1,5 @@
+478c478,479
+< 	public <T> void visitCtLocalVariable(final CtLocalVariable<T> localVariable) {
+---
+> 	public <T> void 
+> visitCtLocalVariable(final CtLocalVariable<T> localVariable) {

@@ -1,0 +1,4 @@
+35c35
+< import spoon.support.reflect.CtModifierHandler;
+---
+>  import spoon.support.reflect.CtModifierHandler;

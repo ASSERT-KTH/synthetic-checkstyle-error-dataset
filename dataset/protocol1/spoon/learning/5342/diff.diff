@@ -1,0 +1,5 @@
+593c593,594
+< 		} else if (foreach.getExpression() == null && child instanceof CtExpression) {
+---
+> 		} else if (foreach.getExpression() == null 
+> && child instanceof CtExpression) {

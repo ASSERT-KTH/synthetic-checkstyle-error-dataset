@@ -1,0 +1,4 @@
+160c160
+< 	CtFieldReference<?> getDeclaredOrInheritedField(String fieldName);
+---
+> 	CtFieldReference<?> getDeclaredOrInheritedField( String fieldName);

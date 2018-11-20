@@ -1,0 +1,5 @@
+48,49c48
+< 	protected String getWrappedName(String containerName) {
+< 		return containerName + "$" + computer.getName();
+---
+> 	protected String getWrappedName(String containerName) {		return containerName + "$" + computer.getName();

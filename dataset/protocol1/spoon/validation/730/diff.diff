@@ -1,0 +1,4 @@
+163c163
+< 				setNotEqual(CtRole.OPERATOR_KIND);
+---
+> 				setNotEqual(CtRole. OPERATOR_KIND);

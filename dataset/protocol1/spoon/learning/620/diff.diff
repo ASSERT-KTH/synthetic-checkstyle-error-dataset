@@ -1,0 +1,4 @@
+47c47
+< public class SuperInheritanceHierarchyFunction implements CtConsumableFunction<CtTypeInformation>, CtQueryAware {
+---
+> public class SuperInheritanceHierarchyFunction implements CtConsumableFunction<CtTypeInformation >, CtQueryAware {

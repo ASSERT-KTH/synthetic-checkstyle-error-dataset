@@ -1,0 +1,5 @@
+95,96c95
+< 	public <T extends CtPackageExport> T addTargetExport(CtModuleReference targetExport) {
+< 		if (targetExport == null) {
+---
+> 	public <T extends CtPackageExport> T addTargetExport(CtModuleReference targetExport) {		if (targetExport == null) {

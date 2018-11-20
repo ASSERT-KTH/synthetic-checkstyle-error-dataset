@@ -1,0 +1,5 @@
+1069,1070c1069
+< 	public void visitCtModuleRequirement(CtModuleRequirement moduleRequirement) {
+< 		printer.writeKeyword("requires").writeSpace();
+---
+> 	public void visitCtModuleRequirement(CtModuleRequirement moduleRequirement) {		printer.writeKeyword("requires").writeSpace();

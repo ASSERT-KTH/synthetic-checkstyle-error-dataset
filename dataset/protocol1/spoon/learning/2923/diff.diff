@@ -1,0 +1,4 @@
+38c38
+< 	public RefactoringException(String msg, Throwable e) {
+---
+> 	public RefactoringException(String msg,Throwable e) {

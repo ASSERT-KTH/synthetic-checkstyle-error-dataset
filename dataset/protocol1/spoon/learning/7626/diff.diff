@@ -1,0 +1,4 @@
+198c198
+< 			if (statement != null) {
+---
+> 			if ( statement != null) {

@@ -1,0 +1,4 @@
+64c64
+< 	protected void searchForProtectedField(CtField<?> field, CtConsumer<Object> outputConsumer) {
+---
+> 	protected void searchForProtectedField(CtField<?> field, CtConsumer <Object> outputConsumer) {

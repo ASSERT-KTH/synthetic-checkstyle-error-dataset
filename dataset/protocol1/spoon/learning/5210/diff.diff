@@ -1,0 +1,4 @@
+257c257
+< 	public boolean isFinal() {
+---
+> 	public boolean isFinal(){

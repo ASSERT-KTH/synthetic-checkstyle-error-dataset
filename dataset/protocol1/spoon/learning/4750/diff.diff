@@ -1,0 +1,5 @@
+100,101c100
+< 		if (target != null) {
+< 			target.addField(newField);
+---
+> 		if (target != null) {			target.addField(newField);

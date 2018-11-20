@@ -1,0 +1,4 @@
+294c294
+< 	private static boolean isSameInSameScope(CtTypeParameter typeParam, CtTypeReference<?> typeRef) {
+---
+> 	private static boolean isSameInSameScope(CtTypeParameter typeParam	, CtTypeReference<?> typeRef) {

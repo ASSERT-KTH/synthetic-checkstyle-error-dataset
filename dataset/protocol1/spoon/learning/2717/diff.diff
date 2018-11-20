@@ -1,0 +1,4 @@
+144c144
+< 		for (CtStatement s : tobeInserted) {
+---
+> 		for(CtStatement s : tobeInserted) {

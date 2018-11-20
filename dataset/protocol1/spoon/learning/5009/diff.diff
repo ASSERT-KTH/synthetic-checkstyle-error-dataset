@@ -1,0 +1,5 @@
+97,98c97
+< 	public static <T> List<T> unmodifiableList(List<T> list) {
+< 		return list.isEmpty() ? Collections.<T>emptyList() : Collections.unmodifiableList(list);
+---
+> 	public static <T> List<T> unmodifiableList(List<T> list) {		return list.isEmpty() ? Collections.<T>emptyList() : Collections.unmodifiableList(list);

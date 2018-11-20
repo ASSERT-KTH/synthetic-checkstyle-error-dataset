@@ -1,0 +1,4 @@
+55c55
+< 	void removeArgument(CtExpression<?> argument);
+---
+> 	void removeArgument(CtExpression <?> argument);

@@ -1,5 +1,0 @@
-51c51,52
-< 			throw new SpoonException(e);
----
-> 			throw new SpoonException(e)
-> ;

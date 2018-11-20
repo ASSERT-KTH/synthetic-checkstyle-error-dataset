@@ -1,0 +1,4 @@
+60c60
+< 		if (inferConsumedAnnotationType() && processedAnnotationTypes.isEmpty()) {
+---
+> 		if (inferConsumedAnnotationType() &&processedAnnotationTypes.isEmpty()) {

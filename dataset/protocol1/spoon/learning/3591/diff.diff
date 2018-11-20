@@ -1,0 +1,4 @@
+127c127
+< 		if (jTree == null) {
+---
+> 		if ( jTree == null) {

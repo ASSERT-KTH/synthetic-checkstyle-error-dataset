@@ -1,0 +1,4 @@
+144c144
+< 				if (parent2 instanceof CtMethod) {
+---
+> 				if (parent2 instanceof CtMethod){

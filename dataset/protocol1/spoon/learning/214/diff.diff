@@ -1,0 +1,4 @@
+361c361
+< 				((CtClass<?>) targetType).addAnonymousExecutable(substitute(targetType, template, e));
+---
+> 				 ((CtClass<?>) targetType).addAnonymousExecutable(substitute(targetType, template, e));

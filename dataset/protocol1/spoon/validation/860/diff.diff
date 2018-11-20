@@ -1,0 +1,5 @@
+137c137,138
+< 	public static void canBeBuilt(File outputDirectoryFile, int complianceLevel, boolean noClasspath) {
+---
+> 	public 
+> static void canBeBuilt(File outputDirectoryFile, int complianceLevel, boolean noClasspath) {

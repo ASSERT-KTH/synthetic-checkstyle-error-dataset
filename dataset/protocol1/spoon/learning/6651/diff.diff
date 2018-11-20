@@ -1,0 +1,4 @@
+312c312
+< 		invocation.removeArgument(invocation.getArguments().get(this.parameterIndex));
+---
+> 		invocation.removeArgument(invocation.getArguments().get( this.parameterIndex));

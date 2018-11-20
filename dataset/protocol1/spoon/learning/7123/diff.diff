@@ -1,0 +1,4 @@
+30c30
+< 	TreeBuilderRequestor(JDTBasedSpoonCompiler jdtCompiler) {
+---
+> 	TreeBuilderRequestor	(JDTBasedSpoonCompiler jdtCompiler) {

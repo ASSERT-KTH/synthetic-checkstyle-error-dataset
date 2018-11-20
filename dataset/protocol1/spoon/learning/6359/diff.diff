@@ -1,0 +1,4 @@
+135c135
+< 			for (CtAnnotation<? extends Annotation> a : element.getAnnotations()) {
+---
+> 			for (CtAnnotation<? extends Annotation> a : element.getAnnotations() ) {

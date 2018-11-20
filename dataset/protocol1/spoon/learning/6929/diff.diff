@@ -1,0 +1,5 @@
+292c292,293
+< 		ctField.setSimpleName(field.getName());
+---
+> 		ctField.setSimpleName
+> (field.getName());

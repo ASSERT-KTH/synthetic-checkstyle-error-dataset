@@ -1,0 +1,5 @@
+41,42c41
+< 	public void transform(CtType type) {
+< 		for (TypeTransformer transformer: transformers) {
+---
+> 	public void transform(CtType type) {		for (TypeTransformer transformer: transformers) {

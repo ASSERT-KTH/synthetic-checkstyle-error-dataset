@@ -1,0 +1,5 @@
+25,26c25
+< import spoon.reflect.code.CtTry;
+< import spoon.reflect.declaration.CtType;
+---
+> import spoon.reflect.code.CtTry;import spoon.reflect.declaration.CtType;

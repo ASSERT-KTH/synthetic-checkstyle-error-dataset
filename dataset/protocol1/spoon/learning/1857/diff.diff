@@ -1,0 +1,5 @@
+33c33,34
+< public interface CtPackageDeclaration extends CtElement {
+---
+> public interface CtPackageDeclaration 
+> extends CtElement {

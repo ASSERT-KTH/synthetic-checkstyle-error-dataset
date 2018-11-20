@@ -1,0 +1,5 @@
+20c20,21
+< import spoon.reflect.code.CtCodeSnippetStatement;
+---
+> import spoon.reflect.code.CtCodeSnippetStatement
+> ;

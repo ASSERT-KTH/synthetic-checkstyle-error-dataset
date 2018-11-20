@@ -1,0 +1,5 @@
+186c186,187
+< 		Set<ModifierKind> modifiers = EnumSet.of(ModifierKind.STATIC);
+---
+> 		
+> Set<ModifierKind> modifiers = EnumSet.of(ModifierKind.STATIC);

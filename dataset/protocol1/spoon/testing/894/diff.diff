@@ -1,0 +1,5 @@
+30,31c30
+< import spoon.reflect.declaration.ModifierKind;
+< import spoon.reflect.path.CtRole;
+---
+> import spoon.reflect.declaration.ModifierKind;import spoon.reflect.path.CtRole;

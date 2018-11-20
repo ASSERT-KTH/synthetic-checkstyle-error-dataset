@@ -1,0 +1,4 @@
+64c64
+< 		if (expression != null) {
+---
+> 		if (expression !=null) {

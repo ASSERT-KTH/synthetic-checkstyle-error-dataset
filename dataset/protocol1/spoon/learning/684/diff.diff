@@ -1,0 +1,5 @@
+477c477,478
+< 		} else if (qualifiedNameReference.binding instanceof FieldBinding) {
+---
+> 		} else 
+> if (qualifiedNameReference.binding instanceof FieldBinding) {

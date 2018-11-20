@@ -1,0 +1,5 @@
+45,46c45
+< 	public FileSystemFolder(String path) {
+< 		this(new File(path));
+---
+> 	public FileSystemFolder(String path) {		this(new File(path));

@@ -1,0 +1,4 @@
+102c102
+< 	public <E extends CtElement> E addAnnotation(CtAnnotation<? extends Annotation> annotation) {
+---
+> 	public <E extends CtElement> E addAnnotation(CtAnnotation<? extends Annotation> annotation){

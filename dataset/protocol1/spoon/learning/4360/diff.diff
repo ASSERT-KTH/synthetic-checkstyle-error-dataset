@@ -1,0 +1,4 @@
+161c161
+< 		CtAnnotationType<A> ctAnnotationType = ((CtAnnotationType<A>) annotationType.getDeclaration());
+---
+> 		CtAnnotationType<A> ctAnnotationType = ((CtAnnotationType<A>)annotationType.getDeclaration());

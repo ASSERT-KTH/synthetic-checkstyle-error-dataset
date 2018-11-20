@@ -1,0 +1,4 @@
+45c45
+< 	public DefaultTokenWriter writeLiteral(String token) {
+---
+> 	 public DefaultTokenWriter writeLiteral(String token) {

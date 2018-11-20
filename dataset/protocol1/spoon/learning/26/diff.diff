@@ -1,0 +1,4 @@
+108c108
+< 		Object newValue = merger.apply(existingValue);
+---
+> 		Object newValue = merger.apply(existingValue	);

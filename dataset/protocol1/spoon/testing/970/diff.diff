@@ -1,0 +1,5 @@
+384c384,385
+< 	public <C extends CtType<Object>> C setSuperInterfaces(Set<CtTypeReference<?>> interfaces) {
+---
+> 	public <C extends CtType<Object>> 
+> C setSuperInterfaces(Set<CtTypeReference<?>> interfaces) {

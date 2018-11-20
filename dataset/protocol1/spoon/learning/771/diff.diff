@@ -1,0 +1,4 @@
+30c30
+< 	int getNameEnd();
+---
+> 	int getNameEnd() ;

@@ -1,4 +1,0 @@
-47c47
-< 			throw new AssertionError(String.format("The actual package named %1$s isn't equals to the expected package named %2$s", actual.getSimpleName(), expected.getSimpleName()));
----
-> 			throw new AssertionError(String.format("The actual package named %1$s isn't equals to the expected package named %2$s", actual.getSimpleName(),expected.getSimpleName()));

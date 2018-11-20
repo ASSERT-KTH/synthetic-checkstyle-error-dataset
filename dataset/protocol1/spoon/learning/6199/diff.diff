@@ -1,0 +1,4 @@
+116c116
+< 							matchs.addAll(new CtNamedPathElement(sign).scanElements(roleHandler.asSet(root)));
+---
+> 							matchs.addAll(new CtNamedPathElement(sign).scanElements( roleHandler.asSet(root)));

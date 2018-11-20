@@ -1,0 +1,4 @@
+107c107
+< 		return unitsToReturn.toArray(new CompilationUnitDeclaration[0]);
+---
+> 		return unitsToReturn. toArray(new CompilationUnitDeclaration[0]);

@@ -1,0 +1,4 @@
+62c62
+< 		ImmutableMap parameters = castTo(container, ImmutableMap.class);
+---
+> 		ImmutableMap parameters = castTo	(container, ImmutableMap.class);

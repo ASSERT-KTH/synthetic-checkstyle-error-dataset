@@ -1,4 +1,0 @@
-40c40
-< 		for (CtTypeReference<?> iface : new ArrayList<>(generated.getSuperInterfaces())) {
----
-> 		for (CtTypeReference<?	> iface : new ArrayList<>(generated.getSuperInterfaces())) {

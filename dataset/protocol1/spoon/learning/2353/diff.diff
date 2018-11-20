@@ -1,0 +1,5 @@
+133,134c133
+< 					reference.setSimpleName(cloneTypeName);
+< 				}
+---
+> 					reference.setSimpleName(cloneTypeName);				}

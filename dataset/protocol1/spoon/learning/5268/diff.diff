@@ -1,0 +1,4 @@
+56c56
+< 		return (CtThrow) super.clone();
+---
+> 		return (CtThrow)super.clone();

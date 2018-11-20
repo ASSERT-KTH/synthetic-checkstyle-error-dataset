@@ -1,0 +1,4 @@
+84c84
+< 				SingleHandler.this.setValue(element, value);
+---
+> 				SingleHandler.this.setValue( element, value);

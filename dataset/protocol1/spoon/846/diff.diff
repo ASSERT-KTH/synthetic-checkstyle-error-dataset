@@ -1,5 +1,0 @@
-84c84,85
-< 		return myself;
----
-> 		return 
-> myself;

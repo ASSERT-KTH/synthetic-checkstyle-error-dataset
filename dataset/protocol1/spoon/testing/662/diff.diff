@@ -1,0 +1,5 @@
+64,65c64
+< 		public <T> void visitCtField(CtField<T> field) {
+< 			throw new SpoonException("Field scope function is not supported");
+---
+> 		public <T> void visitCtField(CtField<T> field) {			throw new SpoonException("Field scope function is not supported");

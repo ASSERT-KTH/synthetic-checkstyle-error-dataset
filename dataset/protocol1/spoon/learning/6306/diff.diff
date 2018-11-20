@@ -1,0 +1,4 @@
+172c172
+< 	private boolean shoudBeProcessed(CtAnnotation<? extends Annotation> annotation) {
+---
+> 	private boolean shoudBeProcessed	(CtAnnotation<? extends Annotation> annotation) {

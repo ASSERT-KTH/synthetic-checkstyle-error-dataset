@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.reflect.declaration.CtTypedElement;
+< import spoon.reflect.reference.CtTypeReference;
+---
+> import spoon.reflect.declaration.CtTypedElement;import spoon.reflect.reference.CtTypeReference;

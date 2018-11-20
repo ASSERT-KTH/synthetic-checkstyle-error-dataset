@@ -1,0 +1,4 @@
+61c61
+< 				if (compiler.filesToBeIgnored.contains(f.getPath())) {
+---
+> 				if (compiler.	filesToBeIgnored.contains(f.getPath())) {

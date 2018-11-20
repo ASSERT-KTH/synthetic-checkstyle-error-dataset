@@ -1,0 +1,5 @@
+48,49c48
+< import static spoon.reflect.path.CtRole.PARAMETER;
+< import static spoon.reflect.path.CtRole.THROWN;
+---
+> import static spoon.reflect.path.CtRole.PARAMETER;import static spoon.reflect.path.CtRole.THROWN;

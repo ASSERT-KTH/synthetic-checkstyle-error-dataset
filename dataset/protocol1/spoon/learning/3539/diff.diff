@@ -1,0 +1,4 @@
+86c86
+< 	<T extends CtFor> T addForUpdate(CtStatement statement);
+---
+> 	<T extends CtFor	> T addForUpdate(CtStatement statement);

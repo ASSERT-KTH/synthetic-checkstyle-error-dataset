@@ -1,0 +1,5 @@
+304c304,305
+< 	protected void removeInvocationArguments() {
+---
+> 	protected 
+> void removeInvocationArguments() {

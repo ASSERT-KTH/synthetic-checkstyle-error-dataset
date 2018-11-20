@@ -1,0 +1,5 @@
+26c26,27
+< 	<T> T getValueAs(Factory factory, String parameterName, Object value, Class<T> valueClass);
+---
+> 	<T> T getValueAs(Factory factory, String parameterName
+> , Object value, Class<T> valueClass);

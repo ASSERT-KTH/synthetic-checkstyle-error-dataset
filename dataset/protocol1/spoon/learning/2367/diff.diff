@@ -1,0 +1,4 @@
+98c98
+< 	@PropertySetter(role = CONSTRUCTOR)
+---
+> 	@PropertySetter( role = CONSTRUCTOR)

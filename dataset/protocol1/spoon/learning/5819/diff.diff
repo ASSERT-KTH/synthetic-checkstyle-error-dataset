@@ -1,0 +1,4 @@
+43c43
+< 	public <C extends CtPathElement<P, T>> C addArgument(String key, String value) {
+---
+> 	public <C extends CtPathElement<P, T>>C addArgument(String key, String value) {

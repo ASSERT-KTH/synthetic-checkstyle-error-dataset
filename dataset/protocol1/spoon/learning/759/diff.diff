@@ -1,0 +1,5 @@
+25c25,26
+< public abstract class CtAbstractBiScanner extends CtAbstractVisitor {
+---
+> public abstract class CtAbstractBiScanner extends 
+> CtAbstractVisitor {

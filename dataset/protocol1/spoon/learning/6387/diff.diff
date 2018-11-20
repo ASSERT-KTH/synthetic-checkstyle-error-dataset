@@ -1,0 +1,4 @@
+189c189
+< 		thrownTypes.add(f.Class().<Throwable>get(Throwable.class).getReference());
+---
+> 		thrownTypes.add(f.Class().<Throwable>get( Throwable.class).getReference());

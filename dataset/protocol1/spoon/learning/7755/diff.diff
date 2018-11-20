@@ -1,0 +1,4 @@
+40c40
+< 	<C extends CtArrayAccess<T, E>> C setIndexExpression(CtExpression<Integer> expression);
+---
+> 	<C extends CtArrayAccess<T, E>> C setIndexExpression( CtExpression<Integer> expression);

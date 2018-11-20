@@ -1,0 +1,4 @@
+986c986
+< 		return Core().createDeclarationSourcePosition(compilationUnit, startSource, end, modifierStart, modifierEnd, declarationStart, declarationEnd, lineSeparatorPositions);
+---
+> 		return Core().createDeclarationSourcePosition(compilationUnit, startSource, end, modifierStart, modifierEnd	, declarationStart, declarationEnd, lineSeparatorPositions);

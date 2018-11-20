@@ -1,0 +1,5 @@
+168c168,169
+< 								targetSuperTypes.add(currentQName);
+---
+> 								
+> targetSuperTypes.add(currentQName);

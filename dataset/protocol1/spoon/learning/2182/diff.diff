@@ -1,0 +1,4 @@
+48c48
+< 	@PropertySetter(role = CtRole.SERVICE_TYPE)
+---
+> 	 @PropertySetter(role = CtRole.SERVICE_TYPE)

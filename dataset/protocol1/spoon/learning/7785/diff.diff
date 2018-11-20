@@ -1,0 +1,4 @@
+535c535
+< 			setSourceOutputDirectory(getArguments().getFile("output"));
+---
+> 			setSourceOutputDirectory	(getArguments().getFile("output"));

@@ -1,0 +1,4 @@
+62c62
+< 	protected AnnotatedElement getActualAnnotatedElement() {
+---
+> 	protected AnnotatedElement getActualAnnotatedElement(){

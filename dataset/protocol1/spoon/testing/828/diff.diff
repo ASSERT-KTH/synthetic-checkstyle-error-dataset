@@ -1,0 +1,4 @@
+43c43
+< 	<T extends CtNamedElement> T setSimpleName(String simpleName);
+---
+> 	<	T extends CtNamedElement> T setSimpleName(String simpleName);

@@ -1,0 +1,4 @@
+78c78
+< 	public <T extends CtElement> Set<T> clone(Set<T> elements) {
+---
+> 	public <T extends CtElement> Set <T> clone(Set<T> elements) {

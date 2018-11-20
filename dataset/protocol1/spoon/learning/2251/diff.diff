@@ -1,0 +1,4 @@
+96c96
+< 	public boolean removeCase(CtCase<? super S> c) {
+---
+> 	public boolean removeCase	(CtCase<? super S> c) {

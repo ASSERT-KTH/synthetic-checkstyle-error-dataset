@@ -1,0 +1,5 @@
+58,59c58
+< 			if (f.isJava()) {
+< 				result.add(f);
+---
+> 			if (f.isJava()) {				result.add(f);

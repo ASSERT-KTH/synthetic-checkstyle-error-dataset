@@ -1,0 +1,4 @@
+870c870
+< 		if (klass.equals(spoon.reflect.code.CtDo.class)) {
+---
+> 		if (klass.equals(spoon.reflect.code. CtDo.class)) {

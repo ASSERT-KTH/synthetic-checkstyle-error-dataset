@@ -1,0 +1,4 @@
+59c59
+< 		if (parent instanceof CtStatementList) {
+---
+> 		if (parent instanceof CtStatementList){

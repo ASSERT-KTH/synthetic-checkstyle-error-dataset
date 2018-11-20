@@ -1,0 +1,4 @@
+48c48
+< 		for (RoleHandler rh : ModelRoleHandlers.roleHandlers) {
+---
+> 		for(RoleHandler rh : ModelRoleHandlers.roleHandlers) {

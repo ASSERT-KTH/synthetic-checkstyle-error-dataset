@@ -1,0 +1,5 @@
+19c19,20
+< public class ComplianceOptions<T extends ComplianceOptions<T>> extends Options<T> {
+---
+> public class ComplianceOptions<T 
+> extends ComplianceOptions<T>> extends Options<T> {

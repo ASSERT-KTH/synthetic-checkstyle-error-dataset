@@ -1,0 +1,5 @@
+217,218c217
+< 	public boolean isAbstract() {
+< 		return this.modifierHandler.isAbstract();
+---
+> 	public boolean isAbstract() {		return this.modifierHandler.isAbstract();

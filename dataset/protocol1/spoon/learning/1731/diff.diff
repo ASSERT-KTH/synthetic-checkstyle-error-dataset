@@ -1,0 +1,4 @@
+411c411
+< 						throw new SpoonException("There is no source fragment for element " + element.getClass() + ". There is one for class " + getElement().getClass());
+---
+> 						throw new SpoonException("There is no source fragment for element " + element.getClass() + ". There is one for class " +getElement().getClass());

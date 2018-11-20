@@ -1,0 +1,4 @@
+76c76
+< 				return (X) ListHandler.this.get(element, index);
+---
+> 				return (X) ListHandler.this.get (element, index);

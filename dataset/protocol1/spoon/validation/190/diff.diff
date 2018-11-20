@@ -1,0 +1,4 @@
+23c23
+< import static spoon.reflect.path.CtRole.BODY;
+---
+> import static spoon.reflect.path.	CtRole.BODY;

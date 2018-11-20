@@ -1,0 +1,4 @@
+120c120
+< 		CompilationUnit cu = this.getFactory().CompilationUnit().getOrCreate(element);
+---
+> 		CompilationUnit cu = this.	getFactory().CompilationUnit().getOrCreate(element);

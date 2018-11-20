@@ -1,0 +1,4 @@
+56c56
+< 	Factory load(InputStream in) throws IOException;
+---
+> 	Factory load(InputStream in ) throws IOException;

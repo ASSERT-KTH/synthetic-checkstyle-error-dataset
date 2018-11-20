@@ -1,0 +1,5 @@
+62,63c62
+< 	public LambdaFilter addImplementingInterface(CtTypeInformation typeInfo) {
+< 		if (typeInfo instanceof CtType) {
+---
+> 	public LambdaFilter addImplementingInterface(CtTypeInformation typeInfo) {		if (typeInfo instanceof CtType) {

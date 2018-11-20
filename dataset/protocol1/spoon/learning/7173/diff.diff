@@ -1,0 +1,5 @@
+335c335,336
+< 		if (var != null) {
+---
+> 		if 
+> (var != null) {

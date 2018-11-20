@@ -1,0 +1,4 @@
+86c86
+< 		for (T element : elements) {
+---
+> 		 for (T element : elements) {

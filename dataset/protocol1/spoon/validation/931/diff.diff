@@ -1,0 +1,5 @@
+1931c1931,1932
+< 			super(CtRole.STATEMENT, CtStatementList.class, CtStatement.class);
+---
+> 			super(CtRole.STATEMENT, 
+> CtStatementList.class, CtStatement.class);

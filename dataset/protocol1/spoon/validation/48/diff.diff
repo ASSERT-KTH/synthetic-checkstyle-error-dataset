@@ -1,0 +1,5 @@
+93c93,94
+< 	<C extends CtFieldReference<T>> C setStatic(boolean b);
+---
+> 	<C extends CtFieldReference<T>> C setStatic(boolean 
+> b);

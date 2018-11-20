@@ -1,0 +1,4 @@
+151c151
+< 		this.buildModelFinished = buildModelFinished;
+---
+> 		this.buildModelFinished =buildModelFinished;

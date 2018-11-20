@@ -1,0 +1,4 @@
+119c119
+< 		constructor.addModifier(ModifierKind.PUBLIC);
+---
+> 		constructor.addModifier(ModifierKind.PUBLIC );

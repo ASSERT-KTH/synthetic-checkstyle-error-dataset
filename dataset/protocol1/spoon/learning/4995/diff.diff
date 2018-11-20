@@ -1,0 +1,4 @@
+434c434
+< 				if (e.getThenStatement() != null) {
+---
+> 				if (e.getThenStatement() !=null) {

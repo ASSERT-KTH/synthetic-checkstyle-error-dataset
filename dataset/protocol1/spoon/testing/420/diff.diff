@@ -1,0 +1,5 @@
+605,606c605
+< 	public CtCodeSnippetStatement createCodeSnippetStatement(String statement) {
+< 		return Code().createCodeSnippetStatement(statement);
+---
+> 	public CtCodeSnippetStatement createCodeSnippetStatement(String statement) {		return Code().createCodeSnippetStatement(statement);

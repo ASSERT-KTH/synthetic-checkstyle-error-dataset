@@ -1,0 +1,5 @@
+110c110,111
+< 	void report(Processor<?> processor, Level level, CtElement element, String message);
+---
+> 	void report(Processor<?> processor, Level 
+> level, CtElement element, String message);

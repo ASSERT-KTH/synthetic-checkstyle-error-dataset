@@ -1,0 +1,4 @@
+26c26
+< 		implements ProblemFixer<T> {
+---
+> 		implements ProblemFixer	<T> {

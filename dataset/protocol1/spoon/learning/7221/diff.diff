@@ -1,0 +1,4 @@
+45c45
+< 		if (getNewName() == null) {
+---
+> 		if(getNewName() == null) {

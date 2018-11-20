@@ -1,0 +1,4 @@
+133c133
+< 		getFactory().getEnvironment().getModelChangeListener().onListDelete(this, PARAMETER, parameters, parameters.indexOf(parameter), parameter);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onListDelete(this,PARAMETER, parameters, parameters.indexOf(parameter), parameter);

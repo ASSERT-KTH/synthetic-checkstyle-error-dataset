@@ -1,0 +1,5 @@
+17c17,18
+< package spoon.support.modelobs.action;
+---
+> package spoon.support.modelobs.action
+> ;

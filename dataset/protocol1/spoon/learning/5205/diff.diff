@@ -1,0 +1,5 @@
+427,428c427
+< 			itemValueType = valueType.getActualTypeArguments().get(1);
+< 		} else {
+---
+> 			itemValueType = valueType.getActualTypeArguments().get(1);		} else {

@@ -1,0 +1,5 @@
+23,24c23
+< import static spoon.reflect.path.CtRole.COMMENT_TYPE;
+< import static spoon.reflect.path.CtRole.COMMENT_CONTENT;
+---
+> import static spoon.reflect.path.CtRole.COMMENT_TYPE;import static spoon.reflect.path.CtRole.COMMENT_CONTENT;

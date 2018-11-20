@@ -1,0 +1,5 @@
+685c685,686
+< 		if (!(jdtTreeBuilder.getContextBuilder().stack.peek().node instanceof MessageSend)) {
+---
+> 		if (!(jdtTreeBuilder.getContextBuilder
+> ().stack.peek().node instanceof MessageSend)) {

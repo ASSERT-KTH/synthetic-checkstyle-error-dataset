@@ -1,0 +1,5 @@
+109,110c109
+< 					if (oldValue != null) {
+< 						SingleHandler.this.setValue(element, null);
+---
+> 					if (oldValue != null) {						SingleHandler.this.setValue(element, null);

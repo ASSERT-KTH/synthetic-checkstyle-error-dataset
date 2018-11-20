@@ -1,0 +1,4 @@
+163c163
+< 		if (elements != null && elements.isEmpty() == false) {
+---
+> 		if (elements != null&& elements.isEmpty() == false) {

@@ -1,0 +1,5 @@
+75,76c75
+< 		if (v != null) {
+< 			return v.getModifiers();
+---
+> 		if (v != null) {			return v.getModifiers();

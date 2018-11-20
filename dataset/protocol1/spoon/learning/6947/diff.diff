@@ -1,0 +1,4 @@
+154c154
+< 				classTypingContext = new ClassTypingContext(declaringTypeRef);
+---
+> 				classTypingContext = new ClassTypingContext	(declaringTypeRef);

@@ -1,0 +1,4 @@
+41c41
+< 	String getLabel();
+---
+> 	String getLabel() ;

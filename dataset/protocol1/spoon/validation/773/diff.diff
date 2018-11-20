@@ -1,0 +1,4 @@
+52c52
+< 		this.type = (Class<T>) method.getParameterTypes()[0];
+---
+> 		this.type =(Class<T>) method.getParameterTypes()[0];

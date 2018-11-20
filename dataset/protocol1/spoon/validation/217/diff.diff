@@ -1,0 +1,4 @@
+103c103
+< 	<R> void forEach(CtConsumer<R> consumer);
+---
+> 	<R> void forEach(CtConsumer< R> consumer);

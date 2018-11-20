@@ -1,0 +1,4 @@
+45c45
+< 	CtExpression<R> getReturnedExpression();
+---
+> 	CtExpression<R > getReturnedExpression();

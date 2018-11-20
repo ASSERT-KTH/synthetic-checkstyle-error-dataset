@@ -1,4 +1,0 @@
-81c81
-< 	boolean build(JDTBuilder builder);
----
-> 	boolean build(JDTBuilder builder)	;

@@ -1,0 +1,4 @@
+341c341
+< 			} else if ((type == char.class) && (ret.getClass() != char.class)) {
+---
+> 			} else if ((type == char.class) && (ret.getClass()!= char.class)) {

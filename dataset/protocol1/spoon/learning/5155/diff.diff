@@ -1,0 +1,4 @@
+320c320
+< 		enume = node.depthFirstEnumeration();
+---
+> 		enume= node.depthFirstEnumeration();

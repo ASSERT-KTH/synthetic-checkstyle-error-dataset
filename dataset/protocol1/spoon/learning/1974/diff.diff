@@ -1,0 +1,4 @@
+139c139
+< 		if (Modifier.isNative(mod)) {
+---
+> 		if (Modifier.isNative(mod)	) {

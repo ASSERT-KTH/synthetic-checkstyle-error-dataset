@@ -1,0 +1,4 @@
+72c72
+< 	REMOVE(0, true, 1, m -> m.getParameters().size() == 1 && m.getSimpleName().startsWith("remove")),
+---
+> 	REMOVE(0, true, 1, m -> m.getParameters(). size() == 1 && m.getSimpleName().startsWith("remove")),

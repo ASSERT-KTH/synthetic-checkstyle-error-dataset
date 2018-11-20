@@ -1,0 +1,5 @@
+73c73,74
+< 			throw new SpoonException(e);
+---
+> 			throw new 
+> SpoonException(e);

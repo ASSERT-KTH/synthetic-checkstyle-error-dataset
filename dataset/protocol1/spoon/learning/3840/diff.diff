@@ -1,0 +1,4 @@
+1441c1441
+< 			CtTypeReference<?> ref = newArray.getType();
+---
+> 			CtTypeReference<?> ref = newArray. getType();

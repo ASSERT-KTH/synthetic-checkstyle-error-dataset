@@ -1,0 +1,4 @@
+78c78
+< 					in = new LZMACompressorInputStream(buffered);
+---
+> 					in= new LZMACompressorInputStream(buffered);

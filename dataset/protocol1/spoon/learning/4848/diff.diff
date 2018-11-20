@@ -1,0 +1,4 @@
+44c44
+< 			return CtRole.COMMENT;
+---
+> 			return CtRole.	COMMENT;

@@ -1,0 +1,4 @@
+23c23
+< import spoon.reflect.visitor.CtInheritanceScanner;
+---
+> import spoon. reflect.visitor.CtInheritanceScanner;

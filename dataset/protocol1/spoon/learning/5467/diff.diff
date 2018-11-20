@@ -1,0 +1,4 @@
+51c51
+< import org.eclipse.jdt.internal.compiler.lookup.MethodBinding;
+---
+> import org.eclipse.jdt.internal.compiler.lookup.MethodBinding ;

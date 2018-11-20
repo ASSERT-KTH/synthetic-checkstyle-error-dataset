@@ -1,0 +1,4 @@
+37c37
+< import spoon.reflect.visitor.chain.CtQueryAware;
+---
+> import spoon.reflect.	visitor.chain.CtQueryAware;

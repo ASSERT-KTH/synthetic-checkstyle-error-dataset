@@ -1,0 +1,4 @@
+89c89
+< 			if (getParent() != null && getParent() instanceof CtConstructor && !getStatements().isEmpty()) {
+---
+> 			if (getParent() != null && getParent() instanceof CtConstructor&& !getStatements().isEmpty()) {

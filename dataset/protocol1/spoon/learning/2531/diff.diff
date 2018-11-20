@@ -1,0 +1,5 @@
+50c50,51
+< 	<T extends CtSynchronized> T setExpression(CtExpression<?> expression);
+---
+> 	<T 
+> extends CtSynchronized> T setExpression(CtExpression<?> expression);

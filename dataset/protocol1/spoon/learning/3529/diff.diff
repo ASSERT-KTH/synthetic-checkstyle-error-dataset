@@ -1,0 +1,4 @@
+19c19
+< public enum CommentOffset {
+---
+> public enum CommentOffset{

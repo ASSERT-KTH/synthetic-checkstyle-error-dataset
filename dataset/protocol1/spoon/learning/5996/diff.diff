@@ -1,0 +1,5 @@
+72c72,73
+< 	public <T extends CtSwitch<S>> T setSelector(CtExpression<S> selector) {
+---
+> 	public <T extends 
+> CtSwitch<S>> T setSelector(CtExpression<S> selector) {

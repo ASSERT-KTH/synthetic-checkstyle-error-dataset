@@ -1,0 +1,4 @@
+65c65
+< 			.filterChildren(new DirectReferenceFilter<CtFieldReference<?>>(field.getReference()))
+---
+> 			.filterChildren (new DirectReferenceFilter<CtFieldReference<?>>(field.getReference()))

@@ -1,0 +1,4 @@
+506c506
+< 			AnnotationInvocationHandler(CtAnnotation<? extends Annotation> annotation) {
+---
+> 			AnnotationInvocationHandler(CtAnnotation <? extends Annotation> annotation) {

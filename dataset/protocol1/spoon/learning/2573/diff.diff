@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.reflect.reference.CtReference;
+< import spoon.reflect.visitor.chain.CtFunction;
+---
+> import spoon.reflect.reference.CtReference;import spoon.reflect.visitor.chain.CtFunction;

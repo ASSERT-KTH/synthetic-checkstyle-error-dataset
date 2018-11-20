@@ -1,0 +1,4 @@
+68c68
+< 	public Set<ModifierKind> getModifiers() {
+---
+> 	public Set< ModifierKind> getModifiers() {

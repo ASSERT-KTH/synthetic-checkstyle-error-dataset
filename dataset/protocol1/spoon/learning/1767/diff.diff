@@ -1,0 +1,4 @@
+487c487
+< 		if (!report.isEmpty()) {
+---
+> 		if (	!report.isEmpty()) {

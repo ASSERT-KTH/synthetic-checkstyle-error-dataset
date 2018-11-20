@@ -1,0 +1,5 @@
+207c207,208
+< 	<C extends CtExpression<A>> C setTypeCasts(List<CtTypeReference<?>> types);
+---
+> 	<C extends 
+> CtExpression<A>> C setTypeCasts(List<CtTypeReference<?>> types);

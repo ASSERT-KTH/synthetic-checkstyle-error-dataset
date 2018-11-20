@@ -1,0 +1,5 @@
+61c61,62
+< 	<C extends CtAbstractInvocation<T>> C setArguments(List<CtExpression<?>> arguments);
+---
+> 	<C extends CtAbstractInvocation<T>> C setArguments(List<CtExpression<?>> 
+> arguments);

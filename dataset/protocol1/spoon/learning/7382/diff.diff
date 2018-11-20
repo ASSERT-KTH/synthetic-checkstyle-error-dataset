@@ -1,0 +1,4 @@
+252c252
+< 		if (jdtCompiler.getEnvironment().getNoClasspath()) {
+---
+> 		if(jdtCompiler.getEnvironment().getNoClasspath()) {

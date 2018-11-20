@@ -1,0 +1,4 @@
+76c76
+< 		for (; i < this.totalUnits; i++) {
+---
+> 		for (; i< this.totalUnits; i++) {

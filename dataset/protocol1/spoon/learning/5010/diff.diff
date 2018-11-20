@@ -1,0 +1,5 @@
+74c74,75
+< 		return (CtSynchronized) super.clone();
+---
+> 		return 
+> (CtSynchronized) super.clone();

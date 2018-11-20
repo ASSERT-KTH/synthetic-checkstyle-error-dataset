@@ -1,0 +1,5 @@
+66,67c66
+< 	public CtTypeAccess<A> clone() {
+< 		return (CtTypeAccess<A>) super.clone();
+---
+> 	public CtTypeAccess<A> clone() {		return (CtTypeAccess<A>) super.clone();

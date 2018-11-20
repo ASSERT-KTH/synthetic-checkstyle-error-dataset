@@ -1,0 +1,4 @@
+75c75
+< 			public void scan(CtElement element) {
+---
+> 			public void scan (CtElement element) {

@@ -1,0 +1,4 @@
+42c42
+< public interface CtModuleRequirement extends CtModuleDirective {
+---
+> public interface CtModuleRequirement extends CtModuleDirective{

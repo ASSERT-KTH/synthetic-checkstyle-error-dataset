@@ -1,0 +1,5 @@
+42c42,43
+< 	<S extends CtStatement> S compile() throws SnippetCompilationError;
+---
+> 	<S extends CtStatement> S compile
+> () throws SnippetCompilationError;

@@ -1,0 +1,4 @@
+31c31
+< 		this.jdtCompiler = jdtCompiler;
+---
+> 		this.jdtCompiler= jdtCompiler;

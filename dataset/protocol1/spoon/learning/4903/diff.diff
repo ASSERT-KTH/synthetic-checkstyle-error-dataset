@@ -1,0 +1,5 @@
+62c62,63
+< 	void onSetAdd(CtElement currentElement, CtRole role, Set field, CtElement newValue);
+---
+> 	void onSetAdd(CtElement currentElement, CtRole role, Set field, CtElement newValue)
+> ;

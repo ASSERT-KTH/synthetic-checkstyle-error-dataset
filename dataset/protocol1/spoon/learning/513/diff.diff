@@ -1,0 +1,5 @@
+37,38c37
+< 		if (regex == null) {
+< 			throw new IllegalArgumentException();
+---
+> 		if (regex == null) {			throw new IllegalArgumentException();

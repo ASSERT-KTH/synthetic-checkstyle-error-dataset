@@ -1,0 +1,5 @@
+54c54,55
+< 		return invocation.getExecutable().isOverriding(executable);
+---
+> 		
+> return invocation.getExecutable().isOverriding(executable);

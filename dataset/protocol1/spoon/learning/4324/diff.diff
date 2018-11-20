@@ -1,0 +1,4 @@
+120c120
+< 	public <C extends CtModifiable> C setModifiers(Set<ModifierKind> modifiers) {
+---
+> 	public <C extends CtModifiable> C setModifiers(Set<ModifierKind> modifiers){

@@ -1,0 +1,4 @@
+60c60
+< 		javaCompliance = factory.getEnvironment().getComplianceLevel();
+---
+> 		javaCompliance = factory.getEnvironment().getComplianceLevel() ;

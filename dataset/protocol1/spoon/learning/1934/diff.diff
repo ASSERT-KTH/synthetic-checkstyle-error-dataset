@@ -1,0 +1,4 @@
+356c356
+< 				request.getErrorHandler(s -> LOGGER.debug(s));
+---
+> 				request.	getErrorHandler(s -> LOGGER.debug(s));

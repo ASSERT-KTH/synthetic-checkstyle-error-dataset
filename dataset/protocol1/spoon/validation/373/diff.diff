@@ -1,0 +1,5 @@
+350c350,351
+< 		scan(CtRole.SUPER_TYPE, typeParameter.getSuperclass());
+---
+> 		scan
+> (CtRole.SUPER_TYPE, typeParameter.getSuperclass());

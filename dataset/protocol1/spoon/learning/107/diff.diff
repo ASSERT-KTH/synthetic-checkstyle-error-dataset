@@ -1,0 +1,4 @@
+56c56
+< 	public static List<SpoonResource> resources(String... paths)
+---
+> 	public static List<SpoonResource> resources( String... paths)

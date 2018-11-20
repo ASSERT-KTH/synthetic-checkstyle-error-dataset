@@ -1,0 +1,5 @@
+559c559,560
+< 	private static int findIndexOfLastChildTokenOfRoleHandler(List<SourceFragment> childFragments, int start, CtRole role) {
+---
+> 	private static int findIndexOfLastChildTokenOfRoleHandler(List<SourceFragment> childFragments
+> , int start, CtRole role) {

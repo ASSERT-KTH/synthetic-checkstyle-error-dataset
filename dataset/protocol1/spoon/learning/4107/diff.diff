@@ -1,0 +1,4 @@
+27c27
+< public class OverriddenMethodQuery implements CtConsumableFunction<CtMethod<?>> {
+---
+> public class OverriddenMethodQuery implements CtConsumableFunction<CtMethod< ?>> {

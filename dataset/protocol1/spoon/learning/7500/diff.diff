@@ -1,0 +1,4 @@
+84c84
+< 	<T extends CtTry> T setFinalizer(CtBlock<?> finalizer);
+---
+> 	<T extends CtTry> T setFinalizer( CtBlock<?> finalizer);

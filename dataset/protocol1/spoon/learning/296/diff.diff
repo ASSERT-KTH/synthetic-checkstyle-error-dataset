@@ -1,0 +1,4 @@
+57c57
+< 		return this.getType().toString() + "::new";
+---
+> 		return this.getType().toString	() + "::new";

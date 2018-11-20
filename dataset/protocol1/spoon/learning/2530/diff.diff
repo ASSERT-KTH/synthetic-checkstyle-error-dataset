@@ -1,0 +1,4 @@
+89c89
+< 	CtType<T> getTypeDeclaration();
+---
+> 	 CtType<T> getTypeDeclaration();

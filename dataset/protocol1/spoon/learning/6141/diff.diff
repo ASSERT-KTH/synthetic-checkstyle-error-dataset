@@ -1,0 +1,4 @@
+86c86
+< 	boolean removeParameter(CtParameter<?> parameter);
+---
+> 	boolean removeParameter (CtParameter<?> parameter);

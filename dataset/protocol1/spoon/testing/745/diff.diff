@@ -1,0 +1,5 @@
+142,143c142
+< 				throw new SpoonException("Unable to write " + pom.getPath());
+< 			}
+---
+> 				throw new SpoonException("Unable to write " + pom.getPath());			}

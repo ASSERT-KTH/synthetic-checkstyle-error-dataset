@@ -1,0 +1,5 @@
+54c54,55
+< 			return new FileInputStream(file);
+---
+> 			return new 
+> FileInputStream(file);

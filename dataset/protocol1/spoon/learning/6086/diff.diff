@@ -1,0 +1,4 @@
+42c42
+< 	@MetamodelPropertyField(role = CtRole.SUB_PACKAGE)
+---
+> 	@MetamodelPropertyField(role= CtRole.SUB_PACKAGE)

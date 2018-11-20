@@ -1,0 +1,4 @@
+43c43
+< 	public <T extends CtWhile> T setLoopingExpression(CtExpression<Boolean> expression) {
+---
+> 	public <T extends CtWhile> T setLoopingExpression(CtExpression<Boolean> expression){

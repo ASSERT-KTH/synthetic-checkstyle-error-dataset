@@ -1,0 +1,4 @@
+39c39
+< 	<T, U> U getValue(T element);
+---
+> 	<	T, U> U getValue(T element);

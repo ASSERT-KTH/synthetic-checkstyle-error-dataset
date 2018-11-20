@@ -1,0 +1,5 @@
+197,198c197
+< 		while (start < getStringValueWithMarkers().length()) {
+< 			start = getStringValueWithMarkers().indexOf(marker, start);
+---
+> 		while (start < getStringValueWithMarkers().length()) {			start = getStringValueWithMarkers().indexOf(marker, start);

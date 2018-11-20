@@ -1,0 +1,4 @@
+35c35
+< 	public <T extends CtUsedService> T setServiceType(CtTypeReference usedService) {
+---
+> 	public <T extends CtUsedService>T setServiceType(CtTypeReference usedService) {

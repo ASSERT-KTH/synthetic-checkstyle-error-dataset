@@ -1,0 +1,5 @@
+82,83c82
+< 	public TokenWriter writeCodeSnippet(String token) {
+< 		this.listener.onTokenWriterWrite(TokenType.CODE_SNIPPET, token, null, () -> delegate.writeCodeSnippet(token));
+---
+> 	public TokenWriter writeCodeSnippet(String token) {		this.listener.onTokenWriterWrite(TokenType.CODE_SNIPPET, token, null, () -> delegate.writeCodeSnippet(token));

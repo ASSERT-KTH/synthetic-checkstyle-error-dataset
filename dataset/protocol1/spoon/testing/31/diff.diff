@@ -1,0 +1,5 @@
+40c40,41
+< 	public void computeValue(ResultHolder<Object> outputHolder, ResultHolder<?> inputHolder) {
+---
+> 	public void computeValue(ResultHolder<Object> outputHolder
+> , ResultHolder<?> inputHolder) {

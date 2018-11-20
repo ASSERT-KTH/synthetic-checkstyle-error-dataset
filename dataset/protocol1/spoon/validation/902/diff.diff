@@ -1,0 +1,5 @@
+81c81,82
+< 		return (C) this;
+---
+> 		
+> return (C) this;

@@ -1,0 +1,5 @@
+31c31,32
+< public interface ProblemFixer<T extends CtElement> extends FactoryAccessor {
+---
+> public 
+> interface ProblemFixer<T extends CtElement> extends FactoryAccessor {

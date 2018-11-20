@@ -1,0 +1,5 @@
+171,172c171
+< 	public <C extends CtTypedElement> C setType(CtTypeReference<T> type) {
+< 		if (type != null) {
+---
+> 	public <C extends CtTypedElement> C setType(CtTypeReference<T> type) {		if (type != null) {

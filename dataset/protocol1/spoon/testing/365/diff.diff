@@ -1,0 +1,4 @@
+525c525
+< 	public <T> CtNewArray<T[]> createLiteralArray(T[] value) {
+---
+> 	public <T> CtNewArray<T[]>createLiteralArray(T[] value) {

@@ -1,0 +1,4 @@
+17c17
+< package spoon.pattern.internal.matcher;
+---
+> package spoon.pattern.	internal.matcher;

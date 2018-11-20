@@ -1,0 +1,4 @@
+22c22
+< import spoon.reflect.reference.CtModuleReference;
+---
+> import spoon.	reflect.reference.CtModuleReference;

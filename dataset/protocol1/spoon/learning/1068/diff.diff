@@ -1,0 +1,4 @@
+65c65
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.PACKAGE_REF, packageReference, this.packageReference);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this,CtRole.PACKAGE_REF, packageReference, this.packageReference);

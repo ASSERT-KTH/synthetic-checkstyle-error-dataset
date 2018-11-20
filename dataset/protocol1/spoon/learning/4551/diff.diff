@@ -1,0 +1,4 @@
+47c47
+< 		c.setSimpleName(simpleName);
+---
+> 		c.	setSimpleName(simpleName);

@@ -1,0 +1,5 @@
+31c31,32
+< 	public abstract void biScan(CtRole role, CtElement element, CtElement other);
+---
+> 	public abstract 
+> void biScan(CtRole role, CtElement element, CtElement other);

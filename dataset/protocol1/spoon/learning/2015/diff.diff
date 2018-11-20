@@ -1,0 +1,4 @@
+55c55
+< 		copy.put(parameterName, value);
+---
+> 		copy.	put(parameterName, value);

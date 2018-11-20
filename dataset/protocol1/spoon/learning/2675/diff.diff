@@ -1,0 +1,4 @@
+23c23
+< import spoon.reflect.factory.FactoryImpl;
+---
+> import spoon.reflect.factory. FactoryImpl;

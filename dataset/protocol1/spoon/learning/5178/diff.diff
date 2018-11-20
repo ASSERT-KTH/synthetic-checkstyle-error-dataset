@@ -1,0 +1,4 @@
+854c854
+< 		if (methods == null || methods.isEmpty()) {
+---
+> 		if(methods == null || methods.isEmpty()) {

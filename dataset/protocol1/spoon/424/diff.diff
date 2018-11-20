@@ -1,4 +1,0 @@
-61c61
-< 	public TemplateMatcher(CtElement templateRoot) {
----
-> 	 public TemplateMatcher(CtElement templateRoot) {

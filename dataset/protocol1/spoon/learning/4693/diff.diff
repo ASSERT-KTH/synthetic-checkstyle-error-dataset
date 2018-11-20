@@ -1,0 +1,4 @@
+74c74
+< 	LocalVariableReferenceFunction(Class<?> variableClass, Class<?> variableReferenceClass, CtVariable<?> variable) {
+---
+> 	LocalVariableReferenceFunction(Class<?> variableClass, Class<?> variableReferenceClass, CtVariable<?> variable ) {

@@ -1,0 +1,5 @@
+39,40c39
+< 	private static Matchers createFromList(Matchers next, List<? extends RootNode> items, int idx) {
+< 		RootNode matcher;
+---
+> 	private static Matchers createFromList(Matchers next, List<? extends RootNode> items, int idx) {		RootNode matcher;

@@ -1,0 +1,4 @@
+58c58
+< 	public <T> void writeNameAndParameters(CtExecutableReference<T> reference) {
+---
+> 	public <T> void writeNameAndParameters(CtExecutableReference<T> reference){

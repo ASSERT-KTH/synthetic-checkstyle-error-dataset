@@ -1,0 +1,4 @@
+44c44
+< 	public <C extends CtLiteral<T>> C setValue(T value) {
+---
+> 	public <C extends CtLiteral<T>> C setValue(T value){

@@ -1,0 +1,5 @@
+45c45,46
+< 	void onAdd(AddAction action);
+---
+> 	void 
+> onAdd(AddAction action);

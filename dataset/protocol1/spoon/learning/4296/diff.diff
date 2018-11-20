@@ -1,0 +1,4 @@
+244c244
+< 		CtClass<?> sourceClass = getTemplateCtClass(targetType, template);
+---
+> 		CtClass<?> sourceClass = getTemplateCtClass(targetType, template	);

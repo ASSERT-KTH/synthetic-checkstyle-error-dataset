@@ -1,0 +1,4 @@
+25c25
+< 	public int compare(CompilationUnitDeclaration o1, CompilationUnitDeclaration o2) {
+---
+> 	public int compare(CompilationUnitDeclaration o1, CompilationUnitDeclaration o2 ) {

@@ -1,0 +1,5 @@
+795c795,796
+< 	public <T> CtUnaryOperator<T> createUnaryOperator() {
+---
+> 	
+> public <T> CtUnaryOperator<T> createUnaryOperator() {

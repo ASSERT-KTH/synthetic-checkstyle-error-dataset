@@ -1,0 +1,4 @@
+37c37
+< 	private final Class<V> valueClass;
+---
+> 	 private final Class<V> valueClass;

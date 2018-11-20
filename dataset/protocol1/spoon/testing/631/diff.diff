@@ -1,0 +1,4 @@
+30c30
+< 	public SubFactory(Factory factory) {
+---
+> 	public SubFactory(Factory factory ) {

@@ -1,0 +1,4 @@
+263c263
+< 		scan(CtRole.PACKAGE_REF, reference.getPackage());
+---
+> 		scan(CtRole.PACKAGE_REF, reference.getPackage()) ;

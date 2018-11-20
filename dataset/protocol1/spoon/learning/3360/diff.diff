@@ -1,0 +1,5 @@
+59c59,60
+< 	private boolean includingInterfaces = true;
+---
+> 	private boolean 
+> includingInterfaces = true;

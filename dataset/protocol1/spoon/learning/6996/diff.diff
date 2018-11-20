@@ -1,0 +1,4 @@
+42c42
+< public class CtRolePathElement extends AbstractPathElement<CtElement, CtElement> {
+---
+> public class CtRolePathElement extends AbstractPathElement<CtElement, CtElement > {

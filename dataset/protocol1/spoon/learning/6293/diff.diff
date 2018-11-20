@@ -1,0 +1,4 @@
+21c21
+< import spoon.template.TemplateParameter;
+---
+> import spoon.template. TemplateParameter;

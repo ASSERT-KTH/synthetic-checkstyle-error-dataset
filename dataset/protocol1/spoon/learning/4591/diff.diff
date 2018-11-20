@@ -1,0 +1,4 @@
+40c40
+< 	public void step(Process process, String task, int taskId, int nbTask) {
+---
+> 	public void step(Process process, String task, int taskId,int nbTask) {

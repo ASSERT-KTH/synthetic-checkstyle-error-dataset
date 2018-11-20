@@ -1,0 +1,4 @@
+49c49
+< 	void addFile(SpoonFile source);
+---
+> 	void addFile( SpoonFile source);

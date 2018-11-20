@@ -1,0 +1,4 @@
+26c26
+< import spoon.support.UnsettableProperty;
+---
+> import spoon.	support.UnsettableProperty;

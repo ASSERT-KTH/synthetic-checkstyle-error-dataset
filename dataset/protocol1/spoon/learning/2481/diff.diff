@@ -1,0 +1,5 @@
+78,79c78
+< 	public void addProcessor(String qualifiedName) {
+< 		try {
+---
+> 	public void addProcessor(String qualifiedName) {		try {

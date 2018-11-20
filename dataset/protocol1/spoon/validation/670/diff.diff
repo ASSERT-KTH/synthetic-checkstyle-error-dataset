@@ -1,0 +1,4 @@
+261c261
+< 			return ((CtLiteral<?>) value).getValue();
+---
+> 			return ((CtLiteral<	?>) value).getValue();

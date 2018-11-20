@@ -1,0 +1,4 @@
+243c243
+< 			sb.append(getStringValueWithMarkers().substring(off));
+---
+> 			sb.	append(getStringValueWithMarkers().substring(off));

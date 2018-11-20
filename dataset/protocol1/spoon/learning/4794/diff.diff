@@ -1,0 +1,5 @@
+35c35,36
+< 	<T extends CtMultiTypedElement> T addMultiType(CtTypeReference<?> ref);
+---
+> 	<T extends CtMultiTypedElement> T addMultiType(CtTypeReference<?> ref)
+> ;

@@ -1,0 +1,5 @@
+127,128c127
+< 		for (CtParameter<?> p : c.getParameters()) {
+< 			scan(p.getType());
+---
+> 		for (CtParameter<?> p : c.getParameters()) {			scan(p.getType());

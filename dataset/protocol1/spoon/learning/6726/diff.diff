@@ -1,0 +1,5 @@
+57c57,58
+< 		for (CtTypeReference<?> sup : superInterfaces) {
+---
+> 		for (CtTypeReference<?> sup 
+> : superInterfaces) {

@@ -1,0 +1,4 @@
+55c55
+< 	Class<?> getTargetType();
+---
+> 	Class<?> getTargetType() ;

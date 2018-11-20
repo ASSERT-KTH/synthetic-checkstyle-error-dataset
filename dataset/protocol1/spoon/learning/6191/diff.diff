@@ -1,0 +1,4 @@
+49c49
+< 	private static Set<String> failingPatterns = new HashSet<>();
+---
+> 	private static Set<String> failingPatterns = new HashSet<> ();

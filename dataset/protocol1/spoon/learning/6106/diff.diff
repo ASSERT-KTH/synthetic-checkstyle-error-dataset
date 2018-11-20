@@ -1,0 +1,4 @@
+555c555
+< 		return factory.Core().createCatch().setParameter(catchVariable).setBody(ctBlock);
+---
+> 		return factory.Core().createCatch().setParameter(catchVariable).setBody (ctBlock);

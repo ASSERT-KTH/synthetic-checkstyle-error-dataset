@@ -1,0 +1,4 @@
+484c484
+< 	public <T> void visitArrayReference(CtRole role, Type typeArray) {
+---
+> 	public < T> void visitArrayReference(CtRole role, Type typeArray) {

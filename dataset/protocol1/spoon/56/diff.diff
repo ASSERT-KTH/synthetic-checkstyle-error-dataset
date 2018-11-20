@@ -1,4 +1,0 @@
-101c101
-< 	<T extends CtElement> void addProcessor(Processor<T> processor);
----
-> 	<	T extends CtElement> void addProcessor(Processor<T> processor);

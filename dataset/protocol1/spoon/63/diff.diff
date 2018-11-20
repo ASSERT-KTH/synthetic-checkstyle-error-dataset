@@ -1,5 +1,0 @@
-159c159,160
-< 				this.addInputResource(sourceDirectory.getAbsolutePath());
----
-> 				this.addInputResource(sourceDirectory.getAbsolutePath
-> ());

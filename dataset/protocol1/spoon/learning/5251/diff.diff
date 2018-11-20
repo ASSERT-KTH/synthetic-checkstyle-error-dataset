@@ -1,0 +1,4 @@
+63c63
+< 		if (position == null) {
+---
+> 		if (position == null){

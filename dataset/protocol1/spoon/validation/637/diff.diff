@@ -1,0 +1,4 @@
+110c110
+< 		return buildClass(classToBuild, true);
+---
+> 		return buildClass(classToBuild, true );

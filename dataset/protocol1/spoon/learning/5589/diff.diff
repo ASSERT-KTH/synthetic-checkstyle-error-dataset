@@ -1,0 +1,4 @@
+87c87
+< 				List<ParamOnElement> paramsOnElement = new ArrayList<>();
+---
+> 				List<ParamOnElement> paramsOnElement = new ArrayList<>()	;

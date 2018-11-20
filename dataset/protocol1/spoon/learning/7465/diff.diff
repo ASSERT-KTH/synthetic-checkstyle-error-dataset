@@ -1,0 +1,5 @@
+212c212,213
+< 			onPrintEvent(new ElementPrinterEvent(role, element) {
+---
+> 			onPrintEvent(new ElementPrinterEvent
+> (role, element) {

@@ -1,0 +1,4 @@
+58c58
+< 				return (T) factory.Code().createClassAccess(tr);
+---
+> 				 return (T) factory.Code().createClassAccess(tr);

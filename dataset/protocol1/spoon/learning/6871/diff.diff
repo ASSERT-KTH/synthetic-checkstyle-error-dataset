@@ -1,0 +1,5 @@
+200c200,201
+< 		} else if ("valueOf".equals(name) && parameterTypes.length == 1 && parameterTypes[0].equals(factory.Type().STRING)) {
+---
+> 		} else if ("valueOf".equals(name) && parameterTypes.length == 1 
+> && parameterTypes[0].equals(factory.Type().STRING)) {

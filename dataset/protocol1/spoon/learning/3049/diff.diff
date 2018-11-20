@@ -1,0 +1,4 @@
+40c40
+< 		try (ObjectInputStream si = new ObjectInputStream(bi)) {
+---
+> 		try(ObjectInputStream si = new ObjectInputStream(bi)) {

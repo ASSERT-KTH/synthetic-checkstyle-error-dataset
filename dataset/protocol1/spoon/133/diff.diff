@@ -1,5 +1,0 @@
-95c95,96
-< 	void addProcessor(String name);
----
-> 	void addProcessor(String name)
-> ;

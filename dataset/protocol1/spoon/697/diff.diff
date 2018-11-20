@@ -1,4 +1,0 @@
-156c156
-< 		if (!mIncrementalCacheDirectory.exists() || !mModelFile.exists() || !mCacheInfoFile.exists() || !mClassFilesDir.exists()) {
----
-> 		if (!mIncrementalCacheDirectory.exists() || !mModelFile.exists() || !mCacheInfoFile.exists() || !mClassFilesDir.exists	()) {

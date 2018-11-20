@@ -1,4 +1,0 @@
-23c23
-< 		super(actual, CtPackageAssert.class);
----
-> 		super( actual, CtPackageAssert.class);

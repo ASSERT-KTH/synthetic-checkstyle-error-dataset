@@ -1,0 +1,4 @@
+45c45
+< 				if (!((Class<?>) o).isAssignableFrom(e.getClass())) {
+---
+> 				if (!((Class<?>) o).isAssignableFrom(e.getClass())){

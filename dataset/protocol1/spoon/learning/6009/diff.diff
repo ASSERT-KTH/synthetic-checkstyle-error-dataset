@@ -1,0 +1,4 @@
+103c103
+< 		getFactory().getEnvironment().getModelChangeListener().onSetDelete(element, MODIFIER, modifiers, modifier);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onSetDelete(element,MODIFIER, modifiers, modifier);

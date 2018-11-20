@@ -1,0 +1,5 @@
+515,516c515
+< 	public boolean isCommentsEnabled() {
+< 		return enableComments;
+---
+> 	public boolean isCommentsEnabled() {		return enableComments;

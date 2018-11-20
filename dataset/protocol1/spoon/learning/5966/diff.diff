@@ -1,0 +1,5 @@
+35c35,36
+< 	public void acceptResult(CompilationResult result) {
+---
+> 	public void acceptResult(CompilationResult 
+> result) {

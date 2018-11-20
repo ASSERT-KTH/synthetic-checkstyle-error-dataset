@@ -1,0 +1,4 @@
+47c47
+< 	public static final int BLOCK_STATEMENTS_CONTAINER_DEFAULT_CAPACITY = 3;
+---
+> 	 public static final int BLOCK_STATEMENTS_CONTAINER_DEFAULT_CAPACITY = 3;

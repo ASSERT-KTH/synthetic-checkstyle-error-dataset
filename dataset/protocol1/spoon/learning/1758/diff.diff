@@ -1,0 +1,4 @@
+277c277
+< 				CompilationUnitDeclaration unit = result[i];
+---
+> 				CompilationUnitDeclaration unit = result[i]	;

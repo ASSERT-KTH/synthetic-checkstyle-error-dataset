@@ -1,0 +1,5 @@
+31c31,32
+< public interface ImportScanner {
+---
+> public 
+> interface ImportScanner {

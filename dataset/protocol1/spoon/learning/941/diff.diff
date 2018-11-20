@@ -1,0 +1,4 @@
+54c54
+< 	public final Factory getFactory() {
+---
+> 	public final Factory getFactory () {

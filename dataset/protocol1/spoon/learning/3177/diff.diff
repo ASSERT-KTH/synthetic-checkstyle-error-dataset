@@ -1,0 +1,4 @@
+32c32
+< 	public TypeFilter(Class<? super T> type) {
+---
+> 	public TypeFilter(Class<? super T> type ) {

@@ -1,0 +1,4 @@
+677c677
+< 			param = this.jdtTreeBuilder.getFactory().Core().createTypeParameterReference();
+---
+> 			param = this.jdtTreeBuilder.getFactory().Core().createTypeParameterReference()	;

@@ -1,0 +1,4 @@
+84c84
+< 	<U extends CtLocalVariable<T>> U setInferred(boolean inferred);
+---
+> 	<U extends CtLocalVariable<T>> U setInferred(boolean inferred	);

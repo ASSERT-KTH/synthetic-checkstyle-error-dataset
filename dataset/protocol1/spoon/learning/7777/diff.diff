@@ -1,0 +1,5 @@
+33c33,34
+< import spoon.compiler.SpoonResourceHelper;
+---
+> import 
+> spoon.compiler.SpoonResourceHelper;

@@ -1,0 +1,5 @@
+106,107c106
+< 			visitor = new ProcessingVisitor(getFactory());
+< 		}
+---
+> 			visitor = new ProcessingVisitor(getFactory());		}

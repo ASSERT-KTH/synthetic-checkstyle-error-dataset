@@ -1,0 +1,5 @@
+41,42c41
+< 	public void setFactory(Factory factory) {
+< 		this.factory = factory;
+---
+> 	public void setFactory(Factory factory) {		this.factory = factory;

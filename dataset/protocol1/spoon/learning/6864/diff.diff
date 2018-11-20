@@ -1,0 +1,4 @@
+46c46
+< 	public LambdaFilter(CtInterface<?> iface) {
+---
+> 	public LambdaFilter(	CtInterface<?> iface) {

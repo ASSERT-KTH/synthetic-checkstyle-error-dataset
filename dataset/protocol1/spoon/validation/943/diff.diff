@@ -1,0 +1,4 @@
+783c783
+< 	public <T> void visitCtTypeAccess(final CtTypeAccess<T> typeAccess) {
+---
+> 	public <T> void visitCtTypeAccess(final CtTypeAccess<T> typeAccess){

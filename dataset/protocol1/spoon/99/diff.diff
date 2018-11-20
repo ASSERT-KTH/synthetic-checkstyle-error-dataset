@@ -1,5 +1,0 @@
-53,54c53
-< 	public T isEqualTo(File expected) {
-< 		assertNotNull(expected);
----
-> 	public T isEqualTo(File expected) {		assertNotNull(expected);

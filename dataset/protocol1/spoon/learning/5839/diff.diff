@@ -1,0 +1,4 @@
+121c121
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.NAME, simpleName, this.name);
+---
+> 		getFactory().getEnvironment	().getModelChangeListener().onObjectUpdate(this, CtRole.NAME, simpleName, this.name);

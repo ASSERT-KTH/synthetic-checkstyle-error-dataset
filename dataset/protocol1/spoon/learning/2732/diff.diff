@@ -1,0 +1,5 @@
+53c53,54
+< 	public static AbstractFileAssert<?> assertThat(File actual) {
+---
+> 	public static 
+> AbstractFileAssert<?> assertThat(File actual) {

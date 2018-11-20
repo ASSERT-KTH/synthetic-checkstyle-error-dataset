@@ -1,0 +1,4 @@
+286c286
+< 	<T> void visitCtLocalVariable(CtLocalVariable<T> localVariable);
+---
+> 	<T>void visitCtLocalVariable(CtLocalVariable<T> localVariable);

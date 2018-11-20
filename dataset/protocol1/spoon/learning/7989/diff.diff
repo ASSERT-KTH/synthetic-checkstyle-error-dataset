@@ -1,0 +1,4 @@
+37c37
+< 	Map<String, Class<? extends A>> consumedAnnotationTypes = new TreeMap<>();
+---
+> 	Map<String, Class<? extends A>> consumedAnnotationTypes= new TreeMap<>();

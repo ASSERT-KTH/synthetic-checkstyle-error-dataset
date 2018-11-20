@@ -1,0 +1,4 @@
+44c44
+< 				CtCatch catchBlock = element.getParent(CtCatch.class);
+---
+> 				CtCatch catchBlock= element.getParent(CtCatch.class);

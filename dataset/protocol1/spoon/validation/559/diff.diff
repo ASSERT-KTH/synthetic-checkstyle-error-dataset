@@ -1,0 +1,4 @@
+81c81
+< 		return castTo(super.getValue(parameters), Set.class);
+---
+> 		return castTo(super.getValue(parameters), Set.class)	;

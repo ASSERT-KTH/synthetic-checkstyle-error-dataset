@@ -1,0 +1,4 @@
+44c44
+< 			CtBlock<?> body = getFactory().Code().getOrCreateCtBlock(statement);
+---
+> 			CtBlock<?> body= getFactory().Code().getOrCreateCtBlock(statement);

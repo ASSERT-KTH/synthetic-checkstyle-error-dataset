@@ -1,0 +1,5 @@
+77,78c77
+< 		if (hasInnerType(qualifiedName) > 0) {
+< 			CtClass<?> declaringClass = create(getDeclaringTypeName(qualifiedName));
+---
+> 		if (hasInnerType(qualifiedName) > 0) {			CtClass<?> declaringClass = create(getDeclaringTypeName(qualifiedName));

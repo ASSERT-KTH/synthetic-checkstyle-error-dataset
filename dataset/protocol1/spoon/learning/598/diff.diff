@@ -1,0 +1,5 @@
+44c44,45
+< public interface CtConstructorCall<T> extends CtTargetedExpression<T, CtExpression<?>>, CtAbstractInvocation<T>, CtStatement, CtActualTypeContainer {
+---
+> public interface CtConstructorCall<T> extends CtTargetedExpression<T, CtExpression<?>>, CtAbstractInvocation<T>, 
+> CtStatement, CtActualTypeContainer {

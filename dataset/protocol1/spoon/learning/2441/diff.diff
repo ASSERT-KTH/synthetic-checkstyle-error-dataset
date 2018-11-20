@@ -1,0 +1,4 @@
+58c58
+< 		t.setSimpleName(simpleName);
+---
+> 		t.setSimpleName	(simpleName);

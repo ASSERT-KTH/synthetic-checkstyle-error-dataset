@@ -1,0 +1,5 @@
+33c33,34
+< 	CtTypeReference<T> getType();
+---
+> 	CtTypeReference<T> getType()
+> ;

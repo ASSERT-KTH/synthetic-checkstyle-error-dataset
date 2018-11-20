@@ -1,0 +1,4 @@
+74c74
+< 	public void onListDeleteAll(CtElement currentElement, CtRole role,
+---
+> 	public void onListDeleteAll(CtElement currentElement, CtRole role	,

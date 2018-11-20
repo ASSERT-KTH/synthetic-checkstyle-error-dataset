@@ -1,0 +1,5 @@
+99,100c99
+< 			return rootFragment.getSourceFragmentOf(this, sp.getSourceStart(), sp.getSourceEnd() + 1);
+< 		} else {
+---
+> 			return rootFragment.getSourceFragmentOf(this, sp.getSourceStart(), sp.getSourceEnd() + 1);		} else {

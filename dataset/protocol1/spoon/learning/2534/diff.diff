@@ -1,0 +1,4 @@
+51c51
+< 	boolean isVarArgs();
+---
+> 	boolean isVarArgs	();

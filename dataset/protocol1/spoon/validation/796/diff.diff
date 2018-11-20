@@ -1,0 +1,4 @@
+563c563
+< 		scan(CtRole.COMMENT, m.getComments());
+---
+> 		scan(CtRole.COMMENT , m.getComments());

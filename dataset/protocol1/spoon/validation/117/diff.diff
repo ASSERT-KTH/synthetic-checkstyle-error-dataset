@@ -1,0 +1,4 @@
+65c65
+< 	public CtQuery createQuery(Object... input) {
+---
+> 	public CtQuery createQuery(	Object... input) {

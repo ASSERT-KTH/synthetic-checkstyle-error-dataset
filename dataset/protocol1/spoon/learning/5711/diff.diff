@@ -1,0 +1,5 @@
+127c127,128
+< 		return (C) this;
+---
+> 		return (C) 
+> this;

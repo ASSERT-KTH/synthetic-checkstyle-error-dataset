@@ -1,5 +1,0 @@
-115,116c115
-< 	public void run(String[] args) {
-< 		this.setArgs(args);
----
-> 	public void run(String[] args) {		this.setArgs(args);

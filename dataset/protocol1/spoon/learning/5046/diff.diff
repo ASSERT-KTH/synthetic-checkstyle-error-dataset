@@ -1,0 +1,4 @@
+87c87
+< 		if (module != null && !module.isUnnamedModule() && environment.getComplianceLevel() > 8) {
+---
+> 		if (module != null && !module.isUnnamedModule() && environment.getComplianceLevel()> 8) {

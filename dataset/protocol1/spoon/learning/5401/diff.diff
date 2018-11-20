@@ -1,0 +1,5 @@
+121c121,122
+< 		result = element;
+---
+> 		result = 
+> element;

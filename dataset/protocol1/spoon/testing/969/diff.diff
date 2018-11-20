@@ -1,0 +1,4 @@
+465c465
+< 		return Code().createVariableAssignment(variable, isStatic, expression);
+---
+> 		return Code(). createVariableAssignment(variable, isStatic, expression);

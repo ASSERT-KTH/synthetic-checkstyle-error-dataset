@@ -1,0 +1,4 @@
+119c119
+< 	OPENED_PACKAGE(MODULE_DIRECTIVE, obj -> obj instanceof CtPackageExport && ((CtPackageExport) obj).isOpenedPackage()),
+---
+> 	OPENED_PACKAGE(MODULE_DIRECTIVE,obj -> obj instanceof CtPackageExport && ((CtPackageExport) obj).isOpenedPackage()),

@@ -1,0 +1,4 @@
+113c113
+< 		List<T> result = new ArrayList<>();
+---
+> 		List<T> result= new ArrayList<>();

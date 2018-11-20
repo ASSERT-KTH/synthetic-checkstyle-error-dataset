@@ -1,0 +1,5 @@
+139,140c139
+< 		if (factory.getEnvironment().getSpoonProgress() != null) {
+< 			factory.getEnvironment().getSpoonProgress().end(SpoonProgress.Process.PROCESS);
+---
+> 		if (factory.getEnvironment().getSpoonProgress() != null) {			factory.getEnvironment().getSpoonProgress().end(SpoonProgress.Process.PROCESS);

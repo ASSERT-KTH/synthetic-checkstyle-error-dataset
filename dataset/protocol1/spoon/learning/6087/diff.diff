@@ -1,0 +1,5 @@
+156c156,157
+< 		return this.modifierHandler.getExtendedModifiers();
+---
+> 		
+> return this.modifierHandler.getExtendedModifiers();

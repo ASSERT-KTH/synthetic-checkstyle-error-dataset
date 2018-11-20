@@ -1,0 +1,4 @@
+231c231
+< 		spoon.reflect.code.CtConditional<T> aCtConditional = conditional.getFactory().Core().createConditional();
+---
+> 		spoon.reflect.code.	CtConditional<T> aCtConditional = conditional.getFactory().Core().createConditional();

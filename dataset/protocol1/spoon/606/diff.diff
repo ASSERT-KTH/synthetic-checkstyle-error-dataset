@@ -1,4 +1,0 @@
-724c724
-< 		if (env.shouldCompile()) {
----
-> 		if ( env.shouldCompile()) {

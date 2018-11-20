@@ -1,4 +1,0 @@
-25c25
-< public interface TemplateParameter<T> {
----
->  public interface TemplateParameter<T> {

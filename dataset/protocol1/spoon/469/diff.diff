@@ -1,5 +1,0 @@
-22c22,23
-< import static spoon.testing.utils.Check.assertIsSame;
----
-> import 
-> static spoon.testing.utils.Check.assertIsSame;

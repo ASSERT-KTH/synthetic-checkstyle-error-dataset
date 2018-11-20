@@ -1,0 +1,5 @@
+78,79c78
+< 	public void addFormalType(CtTypeParameter parameterRef) {
+< 		typeReference.addActualTypeArgument(parameterRef.getReference());
+---
+> 	public void addFormalType(CtTypeParameter parameterRef) {		typeReference.addActualTypeArgument(parameterRef.getReference());

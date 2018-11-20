@@ -1,0 +1,5 @@
+149c149,150
+< 		regions.sort((a, b) -> a.from - b.from);
+---
+> 		regions.sort((a, b) 
+> -> a.from - b.from);

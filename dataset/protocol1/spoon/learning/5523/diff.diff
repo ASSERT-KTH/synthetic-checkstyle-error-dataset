@@ -1,0 +1,4 @@
+36c36
+< 	boolean isValidPosition();
+---
+> 	boolean isValidPosition	();

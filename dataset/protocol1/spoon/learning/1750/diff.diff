@@ -1,0 +1,4 @@
+36c36
+< 		CompilationUnit cu = currentElement.getPosition().getCompilationUnit();
+---
+> 		CompilationUnit cu = currentElement.getPosition().	getCompilationUnit();

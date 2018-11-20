@@ -1,0 +1,4 @@
+44c44
+< 				&& getOriginalSourceCode().charAt(cur) != '\n') {
+---
+> 				&& getOriginalSourceCode().charAt( cur) != '\n') {

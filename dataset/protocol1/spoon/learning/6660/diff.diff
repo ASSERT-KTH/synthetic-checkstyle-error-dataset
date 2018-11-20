@@ -1,0 +1,5 @@
+56c56,57
+< 	CtTypeParameter getTypeParameter(GenericDeclaration genericDeclaration, String string);
+---
+> 	CtTypeParameter getTypeParameter(GenericDeclaration genericDeclaration, String string)
+> ;

@@ -1,0 +1,4 @@
+53c53
+< 		ctInterface.setSimpleName(simpleName);
+---
+> 		ctInterface.setSimpleName(simpleName	);

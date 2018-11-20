@@ -1,0 +1,4 @@
+24c24
+< 	public T compliance(int version) {
+---
+> 	public T compliance(int version	) {

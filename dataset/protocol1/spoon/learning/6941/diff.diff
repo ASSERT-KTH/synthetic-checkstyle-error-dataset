@@ -1,0 +1,4 @@
+620c620
+< 		endVisit(qualifiedTypeReference, (BlockScope) null);
+---
+> 		endVisit(qualifiedTypeReference, (BlockScope)null);

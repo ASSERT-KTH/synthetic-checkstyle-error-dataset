@@ -1,0 +1,4 @@
+93c93
+< 				printer.write(DefaultJavaPrettyPrinter.BLOCK_COMMENT_END);
+---
+> 				printer.write(DefaultJavaPrettyPrinter.BLOCK_COMMENT_END) ;

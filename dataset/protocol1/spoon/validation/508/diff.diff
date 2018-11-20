@@ -1,0 +1,4 @@
+70c70
+< 	private ConflictResolutionMode conflictResolutionMode = ConflictResolutionMode.FAIL;
+---
+> 	private ConflictResolutionMode conflictResolutionMode = ConflictResolutionMode.	FAIL;

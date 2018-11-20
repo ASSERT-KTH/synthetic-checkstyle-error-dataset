@@ -1,0 +1,5 @@
+199c199,200
+< 		public void onListDelete(CtElement currentElement, CtRole role, List field, int index, CtElement oldValue) {
+---
+> 		public void onListDelete(CtElement currentElement, CtRole 
+> role, List field, int index, CtElement oldValue) {

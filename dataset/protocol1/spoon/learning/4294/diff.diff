@@ -1,0 +1,5 @@
+40c40,41
+< 		this.simplifyGenerated = simplifyGenerated;
+---
+> 		this.simplifyGenerated = 
+> simplifyGenerated;

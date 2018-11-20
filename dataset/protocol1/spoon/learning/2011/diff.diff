@@ -1,0 +1,4 @@
+25c25
+< public interface CtModuleReference extends CtReference {
+---
+> public interface CtModuleReference extends CtReference{

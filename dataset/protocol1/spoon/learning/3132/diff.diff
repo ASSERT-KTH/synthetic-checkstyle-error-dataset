@@ -1,0 +1,4 @@
+30c30
+< 	int getBodyEnd();
+---
+> 	 int getBodyEnd();

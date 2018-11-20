@@ -1,0 +1,5 @@
+315c315,316
+< 	boolean shouldCompile();
+---
+> 	boolean 
+> shouldCompile();

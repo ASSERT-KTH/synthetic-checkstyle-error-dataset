@@ -1,0 +1,5 @@
+40c40,41
+< import spoon.reflect.reference.CtTypeReference;
+---
+> import spoon.reflect.reference.CtTypeReference
+> ;

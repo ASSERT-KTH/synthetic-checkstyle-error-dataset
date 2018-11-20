@@ -1,0 +1,5 @@
+67,68c67
+< 	private static final Set<String> NULL_PACKAGE_CLASSES = Collections.unmodifiableSet(new HashSet<>(
+< 			Arrays.asList("void", "boolean", "byte", "short", "char", "int", "float", "long", "double",
+---
+> 	private static final Set<String> NULL_PACKAGE_CLASSES = Collections.unmodifiableSet(new HashSet<>(			Arrays.asList("void", "boolean", "byte", "short", "char", "int", "float", "long", "double",

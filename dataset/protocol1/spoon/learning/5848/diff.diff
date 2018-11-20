@@ -1,0 +1,5 @@
+543,544c543
+< 				} catch (FileNotFoundException e) {
+< 					environment.report(null, Level.ERROR, "Unable to add template file: " + e.getMessage());
+---
+> 				} catch (FileNotFoundException e) {					environment.report(null, Level.ERROR, "Unable to add template file: " + e.getMessage());

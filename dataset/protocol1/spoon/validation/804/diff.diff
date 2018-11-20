@@ -1,0 +1,4 @@
+150c150
+< 	CtQuery failurePolicy(QueryFailurePolicy policy);
+---
+> 	CtQuery failurePolicy(QueryFailurePolicy policy	);

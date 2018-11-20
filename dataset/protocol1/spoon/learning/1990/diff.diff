@@ -1,0 +1,5 @@
+118,119c118
+< 	public CtComment clone() {
+< 		return (CtComment) super.clone();
+---
+> 	public CtComment clone() {		return (CtComment) super.clone();

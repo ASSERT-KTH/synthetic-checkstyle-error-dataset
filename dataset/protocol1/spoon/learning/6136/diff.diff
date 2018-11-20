@@ -1,0 +1,4 @@
+759c759
+< 				ref.setPackage(getPackageReference(binding.getPackage()));
+---
+> 				ref.setPackage(getPackageReference(binding.getPackage ()));

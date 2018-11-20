@@ -1,0 +1,5 @@
+75,76c75
+< 	public String toString() {
+< 		return STRING + getPattern() + getParamString();
+---
+> 	public String toString() {		return STRING + getPattern() + getParamString();

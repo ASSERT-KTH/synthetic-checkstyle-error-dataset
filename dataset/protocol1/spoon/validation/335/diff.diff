@@ -1,0 +1,5 @@
+37c37,38
+< 		signaturePrinter2.scan(o2);
+---
+> 		
+> signaturePrinter2.scan(o2);

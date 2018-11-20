@@ -1,0 +1,4 @@
+133c133
+< 		getFactory().getEnvironment().getModelChangeListener().onListDeleteAll(this, ARGUMENT, this.arguments, new ArrayList<>(this.arguments));
+---
+> 		getFactory().getEnvironment(). getModelChangeListener().onListDeleteAll(this, ARGUMENT, this.arguments, new ArrayList<>(this.arguments));

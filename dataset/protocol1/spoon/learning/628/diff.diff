@@ -1,0 +1,4 @@
+1001c1001
+< 		public void set(spoon.reflect.code.CtBlock replace) {
+---
+> 		public void set(spoon.reflect.	code.CtBlock replace) {

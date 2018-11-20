@@ -1,0 +1,5 @@
+321,322c321
+< 			if (isFirst) {
+< 				printer.writeln();
+---
+> 			if (isFirst) {				printer.writeln();

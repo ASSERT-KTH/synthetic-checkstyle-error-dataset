@@ -1,0 +1,5 @@
+245,246c245
+< 	private int[] getLineSeparatorPositions() {
+< 		return compilationUnit == null ? null : compilationUnit.getLineSeparatorPositions();
+---
+> 	private int[] getLineSeparatorPositions() {		return compilationUnit == null ? null : compilationUnit.getLineSeparatorPositions();

@@ -1,0 +1,4 @@
+256c256
+< 	<T> CtFieldRead<T> createFieldRead();
+---
+> 	<T> CtFieldRead<T>createFieldRead();

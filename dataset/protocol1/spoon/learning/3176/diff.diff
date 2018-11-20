@@ -1,0 +1,4 @@
+812c812
+< 		getEnvironment().debugMessage("pretty-printed in " + (System.currentTimeMillis() - tstart) + " ms");
+---
+> 		getEnvironment ().debugMessage("pretty-printed in " + (System.currentTimeMillis() - tstart) + " ms");

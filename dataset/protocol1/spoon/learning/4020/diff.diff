@@ -1,0 +1,5 @@
+95c95,96
+< 	<T extends CtStatementList> T insertBefore(Filter<? extends CtStatement> insertionPoints, CtStatementList statements);
+---
+> 	<T extends CtStatementList> T insertBefore(Filter<? extends CtStatement> insertionPoints, CtStatementList statements)
+> ;

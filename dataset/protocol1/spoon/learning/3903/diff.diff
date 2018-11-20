@@ -1,0 +1,4 @@
+42c42
+< 	void computeValue(ResultHolder<Object> outputHolder, ResultHolder<?> inputHolder);
+---
+> 	void computeValue( ResultHolder<Object> outputHolder, ResultHolder<?> inputHolder);

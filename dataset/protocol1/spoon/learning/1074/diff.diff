@@ -1,0 +1,4 @@
+42c42
+< 		this.rtType = rtType;
+---
+> 		this. rtType = rtType;

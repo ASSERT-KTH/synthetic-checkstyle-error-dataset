@@ -1,0 +1,4 @@
+79c79
+< 	protected List<SpoonFile> getFiles(JDTBatchCompiler compiler) {
+---
+> 	protected List< SpoonFile> getFiles(JDTBatchCompiler compiler) {

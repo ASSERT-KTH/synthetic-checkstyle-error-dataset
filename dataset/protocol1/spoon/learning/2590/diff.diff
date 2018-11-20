@@ -1,0 +1,4 @@
+23c23
+< import spoon.compiler.Environment;
+---
+> import spoon.compiler.Environment	;

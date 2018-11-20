@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.pattern.Quantifier;
+< import spoon.pattern.internal.DefaultGenerator;
+---
+> import spoon.pattern.Quantifier;import spoon.pattern.internal.DefaultGenerator;

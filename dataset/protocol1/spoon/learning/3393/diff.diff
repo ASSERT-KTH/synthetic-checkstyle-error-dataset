@@ -1,0 +1,4 @@
+741c741
+< 	private String getVersionMessage() {
+---
+> 	private String getVersionMessage	() {

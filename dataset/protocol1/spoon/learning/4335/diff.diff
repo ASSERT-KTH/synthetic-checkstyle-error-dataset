@@ -1,0 +1,4 @@
+58c58
+< 	public <W, X> java.util.List<X> asList(W e) {
+---
+> 	public <W, X> java.util.List<X> asList(W e){

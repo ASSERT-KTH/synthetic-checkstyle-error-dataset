@@ -1,0 +1,5 @@
+1000c1000,1001
+< 			castTarget(element).setThrownExpression(castValue(value));
+---
+> 			castTarget
+> (element).setThrownExpression(castValue(value));

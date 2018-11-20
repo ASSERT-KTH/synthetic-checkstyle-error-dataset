@@ -1,0 +1,4 @@
+102c102
+< 		if (arguments == null || arguments.isEmpty()) {
+---
+> 		if (arguments== null || arguments.isEmpty()) {

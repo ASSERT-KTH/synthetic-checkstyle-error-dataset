@@ -1,0 +1,4 @@
+34c34
+< 	public SpoonClassNotFoundException(String msg) {
+---
+> 	public SpoonClassNotFoundException	(String msg) {

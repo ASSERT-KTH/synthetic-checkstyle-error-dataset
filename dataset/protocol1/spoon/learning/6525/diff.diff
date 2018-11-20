@@ -1,0 +1,4 @@
+46c46
+< 	private void sortModuleDeclarationsFirst(ICompilationUnit[] sourceUnits) {
+---
+> 	 private void sortModuleDeclarationsFirst(ICompilationUnit[] sourceUnits) {

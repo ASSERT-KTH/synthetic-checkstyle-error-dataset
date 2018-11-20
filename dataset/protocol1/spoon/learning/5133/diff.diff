@@ -1,0 +1,4 @@
+49c49
+< 		this(method.getReference());
+---
+> 		 this(method.getReference());

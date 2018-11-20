@@ -1,0 +1,4 @@
+28c28
+< 		CtClass<?> spoon = getFactory().Class().create("spoon.Spoon");
+---
+> 		CtClass<?> spoon = getFactory	().Class().create("spoon.Spoon");

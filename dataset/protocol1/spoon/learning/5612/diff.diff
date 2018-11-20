@@ -1,0 +1,4 @@
+46c46
+< 	<C extends CtNamedElement> C setSimpleName(String simpleName);
+---
+> 	 <C extends CtNamedElement> C setSimpleName(String simpleName);

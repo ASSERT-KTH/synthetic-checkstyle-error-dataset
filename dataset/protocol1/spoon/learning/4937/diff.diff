@@ -1,0 +1,4 @@
+454c454
+< 			return Collections.singletonList(new TokenSourceFragment(getSourceCode(), TokenType.LITERAL));
+---
+> 			return Collections.singletonList(new TokenSourceFragment(getSourceCode(), TokenType.LITERAL)) ;

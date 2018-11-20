@@ -1,0 +1,4 @@
+31c31
+< public interface CtMethod<T> extends CtExecutable<T>, CtTypeMember, CtFormalTypeDeclarer, CtShadowable {
+---
+> public interface CtMethod<T	> extends CtExecutable<T>, CtTypeMember, CtFormalTypeDeclarer, CtShadowable {

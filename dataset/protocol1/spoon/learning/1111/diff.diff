@@ -1,0 +1,4 @@
+27c27
+< 	void accept(T t);
+---
+> 	void accept(T t	);

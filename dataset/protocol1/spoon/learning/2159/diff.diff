@@ -1,0 +1,4 @@
+107c107
+< 		if (this.moduleDirectives == CtElementImpl.<CtModuleDirective>emptyList()) {
+---
+> 		if (this.	moduleDirectives == CtElementImpl.<CtModuleDirective>emptyList()) {

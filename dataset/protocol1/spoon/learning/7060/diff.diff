@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.support.sniper.internal.ElementSourceFragment;
+< import spoon.support.Experimental;
+---
+> import spoon.support.sniper.internal.ElementSourceFragment;import spoon.support.Experimental;

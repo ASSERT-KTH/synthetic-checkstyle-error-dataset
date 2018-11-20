@@ -1,0 +1,4 @@
+33c33
+< public interface CtVariableRead<T> extends CtVariableAccess<T> {
+---
+> public interface CtVariableRead<T	> extends CtVariableAccess<T> {

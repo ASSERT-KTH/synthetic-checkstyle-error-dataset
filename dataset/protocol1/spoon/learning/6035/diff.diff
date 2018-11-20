@@ -1,0 +1,4 @@
+97c97
+< 	@PropertySetter(role = FOR_UPDATE)
+---
+> 	@PropertySetter(role = FOR_UPDATE )

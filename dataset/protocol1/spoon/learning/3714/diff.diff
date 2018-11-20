@@ -1,0 +1,4 @@
+399c399
+< 			if (type == Object.class) {
+---
+> 			if (type == Object.	class) {

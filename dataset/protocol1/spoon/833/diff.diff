@@ -1,4 +1,0 @@
-47c47
-< 			CtClass<? extends ExpressionTemplate<?>> p) {
----
-> 			CtClass<? extends ExpressionTemplate<?>>p) {

@@ -1,4 +1,0 @@
-39c39
-< 		assertIsSame(actual, expected);
----
-> 		assertIsSame(actual, expected );

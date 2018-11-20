@@ -1,0 +1,4 @@
+66c66
+< 	public SpoonFolder getParent() {
+---
+> 	public SpoonFolder getParent	() {

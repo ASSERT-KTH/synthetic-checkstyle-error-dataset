@@ -1,0 +1,4 @@
+34c34
+< 		this.requiredClass = requiredClass;
+---
+> 		this.requiredClass= requiredClass;

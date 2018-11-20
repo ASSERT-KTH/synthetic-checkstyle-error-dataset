@@ -1,0 +1,4 @@
+44c44
+< 	<T> void visitInterface(Class<T> clazz);
+---
+> 	< T> void visitInterface(Class<T> clazz);

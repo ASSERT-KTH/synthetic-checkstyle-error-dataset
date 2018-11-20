@@ -1,0 +1,4 @@
+227c227
+< 				if ("true".equals(System.getProperty(MetamodelProperty.class.getName() + "-noRoleHandler"))) {
+---
+> 				if ("true".equals(System.getProperty(MetamodelProperty.class.getName()+ "-noRoleHandler"))) {

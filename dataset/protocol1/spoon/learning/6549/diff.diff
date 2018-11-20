@@ -1,0 +1,4 @@
+116c116
+< 	REQUIRED_MODULE(MODULE_DIRECTIVE, obj -> obj instanceof CtModuleRequirement),
+---
+> 	REQUIRED_MODULE (MODULE_DIRECTIVE, obj -> obj instanceof CtModuleRequirement),

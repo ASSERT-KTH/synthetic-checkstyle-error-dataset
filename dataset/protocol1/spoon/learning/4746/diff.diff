@@ -1,0 +1,4 @@
+49c49
+< 	public JDTBuilder advancedOptions(AdvancedOptions<?> options) {
+---
+> 	public JDTBuilder advancedOptions(AdvancedOptions<?> options){

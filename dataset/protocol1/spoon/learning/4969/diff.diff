@@ -1,0 +1,4 @@
+34c34
+< 		this.superType = superType;
+---
+> 		 this.superType = superType;

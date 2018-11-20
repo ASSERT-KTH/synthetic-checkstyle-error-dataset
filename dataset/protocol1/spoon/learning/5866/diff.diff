@@ -1,0 +1,5 @@
+80c80,81
+< 					Launcher.LOGGER.error(e.getMessage(), e);
+---
+> 					Launcher.LOGGER.error(e.getMessage(), e)
+> ;

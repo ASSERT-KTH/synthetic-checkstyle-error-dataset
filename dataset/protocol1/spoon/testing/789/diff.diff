@@ -1,0 +1,5 @@
+133,134c133
+< 		//Sub inheritance hierarchy function, which remembers visited sub types and does not returns/visits them again
+< 		final SubInheritanceHierarchyResolver subHierarchyFnc = new SubInheritanceHierarchyResolver(declaringType.getFactory().getModel().getRootPackage());
+---
+> 		//Sub inheritance hierarchy function, which remembers visited sub types and does not returns/visits them again		final SubInheritanceHierarchyResolver subHierarchyFnc = new SubInheritanceHierarchyResolver(declaringType.getFactory().getModel().getRootPackage());

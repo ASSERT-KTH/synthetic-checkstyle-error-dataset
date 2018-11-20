@@ -1,0 +1,4 @@
+24c24
+< public class SpoonTagger extends AbstractManualProcessor {
+---
+> public class SpoonTagger extends AbstractManualProcessor{

@@ -1,0 +1,4 @@
+37c37
+< 		int len = text.length();
+---
+> 		int len = text.length	();

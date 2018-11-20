@@ -1,0 +1,4 @@
+46c46
+< 			if ("process".equals(m.getName()) && (m.getParameterTypes().length == 1)) {
+---
+> 			if ("process".equals(m.getName()) && (m.	getParameterTypes().length == 1)) {

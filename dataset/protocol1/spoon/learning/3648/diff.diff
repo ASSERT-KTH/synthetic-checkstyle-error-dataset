@@ -1,0 +1,4 @@
+90c90
+< 		return executable == genericDeclaration ? this.mapTypeParameters.get(string) : null;
+---
+> 		return executable== genericDeclaration ? this.mapTypeParameters.get(string) : null;

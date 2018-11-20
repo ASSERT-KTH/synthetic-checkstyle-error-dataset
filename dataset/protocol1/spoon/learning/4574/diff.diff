@@ -1,0 +1,5 @@
+61c61,62
+< 		if (!actual.toString().equals(expected)) {
+---
+> 		if (!actual.toString
+> ().equals(expected)) {

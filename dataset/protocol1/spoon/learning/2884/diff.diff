@@ -1,0 +1,4 @@
+285c285
+< 			switch (mmField.getContainerKind()) {
+---
+> 			switch(mmField.getContainerKind()) {

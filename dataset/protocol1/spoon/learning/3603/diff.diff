@@ -1,0 +1,4 @@
+686c686
+< 		while (off < str.length) {
+---
+> 		 while (off < str.length) {

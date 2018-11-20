@@ -1,0 +1,4 @@
+49c49
+< 	<T extends CtCase<S>> T setCaseExpression(CtExpression<S> caseExpression);
+---
+> 	<T extends CtCase <S>> T setCaseExpression(CtExpression<S> caseExpression);

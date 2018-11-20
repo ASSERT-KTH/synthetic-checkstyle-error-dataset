@@ -1,0 +1,4 @@
+20c20
+< import spoon.support.util.ImmutableMap;
+---
+> import spoon.support.util.ImmutableMap ;

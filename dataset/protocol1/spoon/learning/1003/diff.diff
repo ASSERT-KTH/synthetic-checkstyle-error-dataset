@@ -1,0 +1,5 @@
+41,42c41
+< 	public void accept(CtVisitor visitor) {
+< 		visitor.visitCtModuleReference(this);
+---
+> 	public void accept(CtVisitor visitor) {		visitor.visitCtModuleReference(this);

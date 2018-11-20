@@ -1,0 +1,4 @@
+86c86
+< 	Set<CtExtendedModifier> getExtendedModifiers();
+---
+> 	Set<CtExtendedModifier> getExtendedModifiers	();

@@ -1,0 +1,5 @@
+37,38c37
+< 	public PartialEvaluator createPartialEvaluator() {
+< 		return new VisitorPartialEvaluator();
+---
+> 	public PartialEvaluator createPartialEvaluator() {		return new VisitorPartialEvaluator();

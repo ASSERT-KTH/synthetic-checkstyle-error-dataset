@@ -1,0 +1,5 @@
+78,79c78
+< 		if (includingSelf) {
+< 			if (input instanceof CtTypeReference) {
+---
+> 		if (includingSelf) {			if (input instanceof CtTypeReference) {

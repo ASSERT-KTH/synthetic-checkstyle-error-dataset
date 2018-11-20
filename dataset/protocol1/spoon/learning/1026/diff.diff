@@ -1,0 +1,4 @@
+30c30
+< 	void decompile(String jarPath);
+---
+> 	void decompile(String jarPath );

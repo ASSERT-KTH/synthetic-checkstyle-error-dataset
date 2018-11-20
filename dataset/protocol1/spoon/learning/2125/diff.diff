@@ -1,0 +1,4 @@
+111c111
+< 	public <A extends Annotation> CtAnnotation<A> annotate(CtElement element, CtTypeReference<A> annotationType, String annotationElementName, Object value) {
+---
+> 	public <A extends Annotation> CtAnnotation<A> annotate(CtElement element, CtTypeReference<A> annotationType, String annotationElementName, Object value	) {

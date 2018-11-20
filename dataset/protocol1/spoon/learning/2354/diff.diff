@@ -1,0 +1,4 @@
+80c80
+< 	public <K, V> void onMapAdd(CtElement currentElement, CtRole role,
+---
+> 	public <K, V>void onMapAdd(CtElement currentElement, CtRole role,

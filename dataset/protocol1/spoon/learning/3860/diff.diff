@@ -1,0 +1,4 @@
+36c36
+< 	<E extends CtElement> E setAnnotations(List<CtAnnotation<? extends Annotation>> annotation);
+---
+> 	<E extends CtElement> E setAnnotations(List<CtAnnotation< ? extends Annotation>> annotation);

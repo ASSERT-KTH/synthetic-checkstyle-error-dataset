@@ -1,0 +1,5 @@
+37,38c37
+< 	default ElementSourceFragment getOriginalSourceFragment() {
+< 		return ElementSourceFragment.NO_SOURCE_FRAGMENT;
+---
+> 	default ElementSourceFragment getOriginalSourceFragment() {		return ElementSourceFragment.NO_SOURCE_FRAGMENT;

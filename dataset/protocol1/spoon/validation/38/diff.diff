@@ -1,0 +1,4 @@
+1946c1946
+< 	static class CtModule_SUB_PACKAGE_RoleHandler extends SingleHandler<CtModule, CtPackage> {
+---
+> 	static class CtModule_SUB_PACKAGE_RoleHandler extends SingleHandler<CtModule, CtPackage > {

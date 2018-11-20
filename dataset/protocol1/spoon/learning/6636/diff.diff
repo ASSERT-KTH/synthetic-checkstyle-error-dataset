@@ -1,0 +1,4 @@
+26c26
+< import org.eclipse.jdt.internal.compiler.IErrorHandlingPolicy;
+---
+> import org.eclipse.jdt.internal.	compiler.IErrorHandlingPolicy;

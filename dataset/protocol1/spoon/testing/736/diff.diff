@@ -1,0 +1,4 @@
+197c197
+< 		biScan(spoon.reflect.path.CtRole.COMMENT, caseStatement.getComments(), other.getComments());
+---
+> 		biScan(spoon.reflect.path.CtRole.COMMENT,caseStatement.getComments(), other.getComments());

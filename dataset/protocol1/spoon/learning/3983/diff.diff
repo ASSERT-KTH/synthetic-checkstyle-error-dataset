@@ -1,0 +1,5 @@
+20,21c20
+< import spoon.Launcher;
+< import spoon.reflect.ModelElementContainerDefaultCapacities;
+---
+> import spoon.Launcher;import spoon.reflect.ModelElementContainerDefaultCapacities;

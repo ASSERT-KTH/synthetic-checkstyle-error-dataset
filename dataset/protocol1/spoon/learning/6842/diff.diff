@@ -1,0 +1,4 @@
+30c30
+< 	public DeleteAllAction(Context context, Collection oldValue) {
+---
+> 	public DeleteAllAction(Context context, Collection oldValue){

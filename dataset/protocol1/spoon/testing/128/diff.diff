@@ -1,0 +1,4 @@
+637c637
+< 		spoon.reflect.code.CtStatementList other = ((spoon.reflect.code.CtStatementList) (this.stack.peek()));
+---
+> 		spoon.reflect.code.CtStatementList other = ((spoon.reflect.code.CtStatementList)(this.stack.peek()));

@@ -1,0 +1,4 @@
+321c321
+< 		e.setParent(getMainFactory().Package().getRootPackage());
+---
+> 		e.setParent(getMainFactory(). Package().getRootPackage());

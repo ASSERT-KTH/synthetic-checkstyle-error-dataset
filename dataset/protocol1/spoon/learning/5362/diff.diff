@@ -1,0 +1,4 @@
+150c150
+< 		return new RtMethod(method.getDeclaringClass(), method, method.getName(), method.getReturnType(),
+---
+> 		return new RtMethod (method.getDeclaringClass(), method, method.getName(), method.getReturnType(),

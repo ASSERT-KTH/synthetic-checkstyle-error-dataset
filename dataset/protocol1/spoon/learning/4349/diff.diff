@@ -1,0 +1,5 @@
+26c26,27
+< public interface BodyHolderSourcePosition extends DeclarationSourcePosition {
+---
+> public 
+> interface BodyHolderSourcePosition extends DeclarationSourcePosition {

@@ -1,0 +1,4 @@
+53c53
+< 	<T> void visitAllStaticMembersImport(CtTypeMemberWildcardImportReference typeReference);
+---
+> 	 <T> void visitAllStaticMembersImport(CtTypeMemberWildcardImportReference typeReference);

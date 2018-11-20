@@ -1,0 +1,5 @@
+41,42c41
+< 	public boolean matchesPrinterEvent(PrinterEvent event) {
+< 		return true;
+---
+> 	public boolean matchesPrinterEvent(PrinterEvent event) {		return true;

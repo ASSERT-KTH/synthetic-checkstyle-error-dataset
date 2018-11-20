@@ -1,0 +1,4 @@
+266c266
+< 		if (e.isPopupTrigger()) {
+---
+> 		if(e.isPopupTrigger()) {

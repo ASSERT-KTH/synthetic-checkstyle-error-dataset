@@ -1,0 +1,5 @@
+49c49,50
+< 	CtOperatorAssignment<T, A> clone();
+---
+> 	
+> CtOperatorAssignment<T, A> clone();

@@ -1,0 +1,5 @@
+17c17,18
+< package spoon.pattern.internal.node;
+---
+> package 
+> spoon.pattern.internal.node;

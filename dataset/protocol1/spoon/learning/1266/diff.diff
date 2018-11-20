@@ -1,0 +1,4 @@
+56c56
+< 		if (f.getEnvironment().getCompressionType() == CompressionType.GZIP) {
+---
+> 		if (f.getEnvironment().getCompressionType() == CompressionType.GZIP){

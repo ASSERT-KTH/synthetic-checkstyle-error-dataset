@@ -1,0 +1,4 @@
+173c173
+< 					CtType<?> localClass = (CtType<?>) element;
+---
+> 					CtType<?> localClass = (CtType<?>)element;

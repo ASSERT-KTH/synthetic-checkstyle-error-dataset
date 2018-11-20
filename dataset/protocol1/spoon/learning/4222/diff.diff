@@ -1,0 +1,4 @@
+19c19
+< import spoon.pattern.internal.ResultHolder;
+---
+> import spoon.pattern.internal.ResultHolder ;

@@ -1,0 +1,4 @@
+25c25
+< 	protected Factory factory;
+---
+> 	protected Factory factory	;

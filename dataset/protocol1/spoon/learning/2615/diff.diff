@@ -1,0 +1,4 @@
+40c40
+< 		return (CtUnboundVariableReference<T>) super.clone();
+---
+> 		return (CtUnboundVariableReference <T>) super.clone();

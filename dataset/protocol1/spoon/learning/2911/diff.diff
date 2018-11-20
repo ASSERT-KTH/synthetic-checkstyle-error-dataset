@@ -1,0 +1,4 @@
+71c71
+< 		CtStatementImpl.insertBefore(this, statement);
+---
+> 		CtStatementImpl.	insertBefore(this, statement);

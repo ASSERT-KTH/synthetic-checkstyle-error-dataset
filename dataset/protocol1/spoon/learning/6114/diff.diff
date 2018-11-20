@@ -1,0 +1,4 @@
+73c73
+< 	<C extends CtConditional<T>> C setCondition(CtExpression<Boolean> condition);
+---
+> 	<C extends CtConditional<T>> C setCondition(CtExpression< Boolean> condition);

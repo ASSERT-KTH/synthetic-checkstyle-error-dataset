@@ -1,0 +1,4 @@
+37c37
+< 	public RtParameter(String name, Class<?> type, Type genericType, RtMethod method, Constructor constructor, int index) {
+---
+> 	public RtParameter(String name, Class<?> type, Type genericType, RtMethod method, Constructor constructor,int index) {

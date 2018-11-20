@@ -1,0 +1,5 @@
+73c73,74
+< 	<T extends CtPackageExport> T addTargetExport(CtModuleReference targetExport);
+---
+> 	<T extends CtPackageExport> T 
+> addTargetExport(CtModuleReference targetExport);

@@ -1,0 +1,4 @@
+38c38
+< 	private CtTypeReference<T> type;
+---
+> 	private CtTypeReference<	T> type;

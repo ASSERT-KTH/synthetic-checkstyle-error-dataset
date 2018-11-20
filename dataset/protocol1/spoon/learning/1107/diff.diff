@@ -1,0 +1,5 @@
+72,73c72
+< 			if (var instanceof CtLocalVariable) {
+< 				return (CtLocalVariable<T>) var;
+---
+> 			if (var instanceof CtLocalVariable) {				return (CtLocalVariable<T>) var;

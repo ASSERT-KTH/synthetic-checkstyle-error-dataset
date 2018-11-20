@@ -1,0 +1,4 @@
+76c76
+< 	<A extends Annotation> A getAnnotation(Class<A> annotationType);
+---
+> 	< A extends Annotation> A getAnnotation(Class<A> annotationType);

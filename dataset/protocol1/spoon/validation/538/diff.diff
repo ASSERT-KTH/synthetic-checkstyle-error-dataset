@@ -1,0 +1,4 @@
+71c71
+< 	private <T> boolean addReference(CtTypeReference<T> ref) {
+---
+> 	private <T>boolean addReference(CtTypeReference<T> ref) {

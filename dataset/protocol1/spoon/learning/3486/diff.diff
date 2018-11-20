@@ -1,0 +1,5 @@
+48c48,49
+< 			int pos3 = o1.getPosition().getSourceEnd();
+---
+> 			int 
+> pos3 = o1.getPosition().getSourceEnd();

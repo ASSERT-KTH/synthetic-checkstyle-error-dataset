@@ -1,0 +1,5 @@
+23c23,24
+< public abstract class SubFactory {
+---
+> public 
+> abstract class SubFactory {

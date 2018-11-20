@@ -1,0 +1,5 @@
+192c192,193
+< 				ImmutableMap parameters = matcher.apply(targets.get(idxOfMatch), getParameters());
+---
+> 				ImmutableMap parameters = matcher.apply
+> (targets.get(idxOfMatch), getParameters());

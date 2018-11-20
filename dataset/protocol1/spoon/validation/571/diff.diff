@@ -1,0 +1,4 @@
+37c37
+< 	Package getActualPackage();
+---
+> 	Package getActualPackage() ;

@@ -1,0 +1,5 @@
+265,266c265
+< 			if (role == CtRole.COMMENT) {
+< 				return findIndexOfNextChildTokenOfElement(event.getElement());
+---
+> 			if (role == CtRole.COMMENT) {				return findIndexOfNextChildTokenOfElement(event.getElement());

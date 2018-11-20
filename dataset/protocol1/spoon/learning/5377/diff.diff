@@ -1,0 +1,5 @@
+46c46,47
+< 	@PropertyGetter(role = EXPRESSION)
+---
+> 	@PropertyGetter(role 
+> = EXPRESSION)

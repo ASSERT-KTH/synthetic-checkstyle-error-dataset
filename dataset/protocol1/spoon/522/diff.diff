@@ -1,4 +1,0 @@
-39c39
-< 		this.myself = (T) selfType.cast(this);
----
-> 		this.myself = (T)selfType.cast(this);

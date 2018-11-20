@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.reflect.code.CtFieldAccess;
+< import spoon.reflect.reference.CtFieldReference;
+---
+> import spoon.reflect.code.CtFieldAccess;import spoon.reflect.reference.CtFieldReference;

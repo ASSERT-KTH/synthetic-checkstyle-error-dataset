@@ -1,0 +1,5 @@
+227c227,228
+< 					new ScopeRespectingVariableScanner(name, clazz);
+---
+> 					
+> new ScopeRespectingVariableScanner(name, clazz);

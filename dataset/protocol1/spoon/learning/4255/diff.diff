@@ -1,0 +1,5 @@
+77,78c77
+< 			ObjectInputStream objectStream = new ObjectInputStream(new BufferedInputStream(fileStream))) {
+< 			return (CacheInfo) objectStream.readObject();
+---
+> 			ObjectInputStream objectStream = new ObjectInputStream(new BufferedInputStream(fileStream))) {			return (CacheInfo) objectStream.readObject();

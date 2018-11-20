@@ -1,0 +1,4 @@
+31c31
+< 		searchScope.filterChildren(new OverriddenMethodFilter(input)).forEach(outputConsumer);
+---
+> 		searchScope.	filterChildren(new OverriddenMethodFilter(input)).forEach(outputConsumer);

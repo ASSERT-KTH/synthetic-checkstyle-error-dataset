@@ -1,0 +1,4 @@
+51c51
+< 	public void apply(CtElement fieldOrScope, CtConsumer<Object> outputConsumer) {
+---
+> 	public void apply(CtElement fieldOrScope, CtConsumer<Object > outputConsumer) {

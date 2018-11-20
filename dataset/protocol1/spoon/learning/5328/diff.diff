@@ -1,0 +1,4 @@
+611c611
+< 			ElementSourceFragment rootFragment = compilationUnit.getOriginalSourceFragment();
+---
+> 			ElementSourceFragment rootFragment= compilationUnit.getOriginalSourceFragment();

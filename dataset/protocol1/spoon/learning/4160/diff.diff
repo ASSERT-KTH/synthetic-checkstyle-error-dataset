@@ -1,0 +1,4 @@
+174c174
+< 		this.setLocation((getGraphicsConfiguration().getDevice().getDisplayMode().getWidth() - getWidth()) / 2,
+---
+> 		this.setLocation((getGraphicsConfiguration().getDevice().getDisplayMode().getWidth() - getWidth()) / 2	,

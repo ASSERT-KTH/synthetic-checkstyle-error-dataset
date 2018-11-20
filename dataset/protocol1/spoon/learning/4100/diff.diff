@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.metamodel.MetamodelConcept;
+< import spoon.metamodel.MetamodelProperty;
+---
+> import spoon.metamodel.MetamodelConcept;import spoon.metamodel.MetamodelProperty;

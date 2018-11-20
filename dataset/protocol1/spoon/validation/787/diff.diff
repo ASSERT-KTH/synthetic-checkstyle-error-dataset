@@ -1,0 +1,4 @@
+41c41
+< 	void addProcessor(Class<? extends Processor<?>> type);
+---
+> 	 void addProcessor(Class<? extends Processor<?>> type);

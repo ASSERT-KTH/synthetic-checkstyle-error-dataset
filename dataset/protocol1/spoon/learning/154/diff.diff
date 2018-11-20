@@ -1,0 +1,4 @@
+46c46
+< 		this.modifierSourceEnd = modifierSourceEnd;
+---
+> 		this.modifierSourceEnd =modifierSourceEnd;

@@ -1,0 +1,5 @@
+19c19,20
+< import spoon.reflect.annotations.MetamodelPropertyField;
+---
+> import 
+> spoon.reflect.annotations.MetamodelPropertyField;

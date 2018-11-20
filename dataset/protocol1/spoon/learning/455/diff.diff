@@ -1,0 +1,4 @@
+79c79
+< 	public <C extends CtExpression<T>> C addTypeCast(CtTypeReference<?> type) {
+---
+> 	public <C extends CtExpression<T>> C addTypeCast(CtTypeReference<?>type) {

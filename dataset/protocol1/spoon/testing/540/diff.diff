@@ -1,0 +1,5 @@
+75c75,76
+< 	<T extends CtActualTypeContainer> T addActualTypeArgument(CtTypeReference<?> actualTypeArgument);
+---
+> 	<T extends CtActualTypeContainer> T addActualTypeArgument
+> (CtTypeReference<?> actualTypeArgument);

@@ -1,0 +1,4 @@
+24c24
+< import org.eclipse.jdt.internal.compiler.ast.ModuleDeclaration;
+---
+> import org.eclipse.jdt.internal.compiler. ast.ModuleDeclaration;

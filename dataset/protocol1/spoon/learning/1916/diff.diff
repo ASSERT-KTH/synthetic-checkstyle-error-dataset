@@ -1,0 +1,4 @@
+22c22
+< import spoon.pattern.internal.parameter.ParameterInfo;
+---
+> import spoon.pattern. internal.parameter.ParameterInfo;

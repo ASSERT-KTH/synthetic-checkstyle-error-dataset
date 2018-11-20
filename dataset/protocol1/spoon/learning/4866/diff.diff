@@ -1,0 +1,4 @@
+79c79
+< 		if (ref.getDeclaringType() != null) {
+---
+> 		if (ref.getDeclaringType() != null){

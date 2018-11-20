@@ -1,0 +1,4 @@
+26c26
+< 	private T oldValue;
+---
+> 	private T oldValue	;

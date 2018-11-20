@@ -1,0 +1,5 @@
+82,83c82
+< import spoon.reflect.declaration.CtModuleRequirement;
+< import spoon.reflect.declaration.CtPackage;
+---
+> import spoon.reflect.declaration.CtModuleRequirement;import spoon.reflect.declaration.CtPackage;

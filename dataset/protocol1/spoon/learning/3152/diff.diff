@@ -1,0 +1,5 @@
+238c238,239
+< 		Map<String, Object> params = new HashMap<>(getNamesToValues(template, (CtClass) f.Class().get(template.getClass())));
+---
+> 		Map<String, Object> params = new HashMap<>
+> (getNamesToValues(template, (CtClass) f.Class().get(template.getClass())));

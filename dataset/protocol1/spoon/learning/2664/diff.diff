@@ -1,0 +1,5 @@
+32,33c32
+< 	public void onPrintEvent(PrinterEvent event) {
+< 		event.print(null);
+---
+> 	public void onPrintEvent(PrinterEvent event) {		event.print(null);

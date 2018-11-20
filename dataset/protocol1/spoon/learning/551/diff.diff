@@ -1,0 +1,5 @@
+527,528c527
+< 			throw new RuntimeException("target is null in substitution");
+< 		}
+---
+> 			throw new RuntimeException("target is null in substitution");		}

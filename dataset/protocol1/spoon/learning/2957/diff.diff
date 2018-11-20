@@ -1,0 +1,4 @@
+49c49
+< 			int pos4 = o2.getPosition().getSourceEnd();
+---
+> 			int pos4 = o2.getPosition().getSourceEnd	();

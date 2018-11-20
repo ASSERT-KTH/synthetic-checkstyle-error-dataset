@@ -1,0 +1,4 @@
+176c176
+< 					for (CtFieldReference<?> fieldRef : fields) {
+---
+> 					for (CtFieldReference<?> fieldRef : fields){

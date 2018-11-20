@@ -1,0 +1,4 @@
+463c463
+< 				logger.warn("You specified the directory " + classOrJarFolder.getPath() + " in source classpath, please note that only class files will be considered. Jars and subdirectories will be ignored.");
+---
+> 				logger.warn("You specified the directory " + classOrJarFolder.getPath()+ " in source classpath, please note that only class files will be considered. Jars and subdirectories will be ignored.");

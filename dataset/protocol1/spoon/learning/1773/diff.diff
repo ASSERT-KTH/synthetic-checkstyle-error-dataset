@@ -1,0 +1,4 @@
+274c274
+< 	public List<File> getBinaryFiles() {
+---
+> 	public List<File>getBinaryFiles() {

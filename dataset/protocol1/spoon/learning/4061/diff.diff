@@ -1,0 +1,4 @@
+38c38
+< 		return (CtCodeElement) super.clone();
+---
+> 		return(CtCodeElement) super.clone();

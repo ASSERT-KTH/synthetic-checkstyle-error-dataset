@@ -1,0 +1,4 @@
+45c45
+< 		printComment(printer, comment.getCommentType(), comment.getContent(), tags);
+---
+> 		printComment(printer, comment.getCommentType	(), comment.getContent(), tags);

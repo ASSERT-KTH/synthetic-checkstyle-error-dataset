@@ -1,0 +1,4 @@
+77c77
+< 	public static RoleHandler getOptionalRoleHandler(Class<? extends CtElement> targetClass, CtRole role) {
+---
+> 	public static RoleHandler getOptionalRoleHandler(Class<	? extends CtElement> targetClass, CtRole role) {

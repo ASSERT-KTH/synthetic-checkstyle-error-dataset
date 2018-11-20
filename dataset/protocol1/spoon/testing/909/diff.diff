@@ -1,0 +1,5 @@
+521c521,522
+< 		scanCtElement(typeParameter);
+---
+> 		scanCtElement(typeParameter)
+> ;

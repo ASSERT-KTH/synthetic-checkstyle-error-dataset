@@ -1,0 +1,4 @@
+71c71
+< 			if (declType == null) {
+---
+> 			if(declType == null) {

@@ -1,0 +1,4 @@
+57c57
+< 	@PropertyGetter(role = CtRole.OPENED_PACKAGE)
+---
+> 	@PropertyGetter(role = CtRole.OPENED_PACKAGE )

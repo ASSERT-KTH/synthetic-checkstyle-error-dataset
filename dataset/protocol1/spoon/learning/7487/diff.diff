@@ -1,0 +1,5 @@
+164c164,165
+< 		return getExecutable() == null ? CtElementImpl.<CtTypeReference<?>>emptyList() : getExecutable().getActualTypeArguments();
+---
+> 		return getExecutable() 
+> == null ? CtElementImpl.<CtTypeReference<?>>emptyList() : getExecutable().getActualTypeArguments();

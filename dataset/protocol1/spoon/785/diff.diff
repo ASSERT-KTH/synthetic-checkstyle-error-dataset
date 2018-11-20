@@ -1,4 +1,0 @@
-80c80
-< 			withProcessor((Class<? extends Processor<?>>) Thread.currentThread().getContextClassLoader().loadClass(qualifiedName));
----
-> 			withProcessor((Class<? extends Processor <?>>) Thread.currentThread().getContextClassLoader().loadClass(qualifiedName));

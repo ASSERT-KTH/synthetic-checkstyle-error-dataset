@@ -1,0 +1,4 @@
+500c500
+< 	public <T> void visitCtClass(CtClass<T> e) {
+---
+> 	public <T> void visitCtClass(CtClass<T> e){

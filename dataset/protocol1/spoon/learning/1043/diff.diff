@@ -1,0 +1,5 @@
+82,83c82
+< 		for (CtElement element : roots) {
+< 			results.addAll(scanElements(getChildren(element)));
+---
+> 		for (CtElement element : roots) {			results.addAll(scanElements(getChildren(element)));

@@ -1,0 +1,4 @@
+46c46
+< 	public CtModuleReference clone() {
+---
+> 	public CtModuleReference clone(){

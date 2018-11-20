@@ -1,0 +1,4 @@
+82c82
+< 	public CtPath fromString(String pathStr) throws CtPathException {
+---
+> 	public CtPath fromString (String pathStr) throws CtPathException {

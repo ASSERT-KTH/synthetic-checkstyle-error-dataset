@@ -1,0 +1,4 @@
+29c29
+< 	R apply(T input);
+---
+> 	R apply(T input)	;

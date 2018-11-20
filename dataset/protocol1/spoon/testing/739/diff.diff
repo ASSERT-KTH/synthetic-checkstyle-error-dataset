@@ -1,0 +1,4 @@
+41c41
+< 	public void set(String name, Object o) {
+---
+> 	public void set(String name , Object o) {

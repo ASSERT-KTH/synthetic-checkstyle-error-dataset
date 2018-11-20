@@ -1,0 +1,4 @@
+38c38
+< 		this.comment = comment;
+---
+> 		this.comment =comment;

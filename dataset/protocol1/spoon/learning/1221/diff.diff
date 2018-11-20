@@ -1,0 +1,5 @@
+56,57c56
+< 					addProcessedElementType((Class<E>) c);
+< 				}
+---
+> 					addProcessedElementType((Class<E>) c);				}

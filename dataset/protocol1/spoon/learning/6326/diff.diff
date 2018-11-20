@@ -1,0 +1,4 @@
+97c97
+< 		return (CtAnnotationType<T>) super.clone();
+---
+> 		return (CtAnnotationType<T>) super.clone	();

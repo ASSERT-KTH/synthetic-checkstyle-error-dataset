@@ -1,0 +1,4 @@
+35c35
+< 	public CtVariableReference<T> getVariable() {
+---
+> 	public CtVariableReference<T>getVariable() {

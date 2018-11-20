@@ -1,0 +1,4 @@
+94c94
+< 		propagateModelChange(new DeleteAllAction(new ListContext(currentElement, role, field), oldValue));
+---
+> 		propagateModelChange(new DeleteAllAction	(new ListContext(currentElement, role, field), oldValue));

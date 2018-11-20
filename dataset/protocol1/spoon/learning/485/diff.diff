@@ -1,0 +1,4 @@
+27c27
+< import org.eclipse.jdt.internal.compiler.IProblemFactory;
+---
+> import org.eclipse.jdt.	internal.compiler.IProblemFactory;

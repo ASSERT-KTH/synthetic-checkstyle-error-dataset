@@ -1,0 +1,4 @@
+116c116
+< 			if (stat != target) {
+---
+> 			if (stat != target ) {

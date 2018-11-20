@@ -1,0 +1,4 @@
+38c38
+< public interface CtNewArray<T> extends CtExpression<T> {
+---
+> public interface CtNewArray<T> extends CtExpression<T	> {

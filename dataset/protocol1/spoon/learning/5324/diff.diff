@@ -1,0 +1,5 @@
+86c86,87
+< 			if (!Objects.equals(getSimpleName(), ref.getSimpleName())) {
+---
+> 			if (!Objects.equals(getSimpleName
+> (), ref.getSimpleName())) {

@@ -1,0 +1,5 @@
+37,38c37
+< import spoon.reflect.code.CtConditional;
+< import spoon.reflect.code.CtConstructorCall;
+---
+> import spoon.reflect.code.CtConditional;import spoon.reflect.code.CtConstructorCall;

@@ -1,0 +1,4 @@
+32c32
+< 	public void decompile(String jarPath) {
+---
+> 	public void decompile (String jarPath) {

@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.pattern.internal.ResultHolder;
+< import spoon.pattern.internal.parameter.ParameterInfo;
+---
+> import spoon.pattern.internal.ResultHolder;import spoon.pattern.internal.parameter.ParameterInfo;

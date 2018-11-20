@@ -1,0 +1,4 @@
+56c56
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, TYPE, type, this.type);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, TYPE,type, this.type);

@@ -1,0 +1,5 @@
+142c142,143
+< 			} else if (stack.size() > 0) {
+---
+> 			} else if (stack.size
+> () > 0) {

@@ -1,0 +1,5 @@
+102,103c102
+< 	public <W, X> Map<String, X> asMap(W element) {
+< 		throw new SpoonException("The value of CtRole." + getRole().name() + " cannot be adapted to Map for " + element.getClass().getSimpleName());
+---
+> 	public <W, X> Map<String, X> asMap(W element) {		throw new SpoonException("The value of CtRole." + getRole().name() + " cannot be adapted to Map for " + element.getClass().getSimpleName());

@@ -1,0 +1,4 @@
+22c22
+< public class CtAnnotationFieldAccessImpl<T> extends CtFieldAccessImpl<T> implements CtAnnotationFieldAccess<T> {
+---
+> public class CtAnnotationFieldAccessImpl<T> extends CtFieldAccessImpl<T	> implements CtAnnotationFieldAccess<T> {

@@ -1,0 +1,5 @@
+229c229,230
+< 		return findIndexOfNextFragment(childFragments, childFragmentIdx + 1, fragment -> Objects.equals(token, fragment.getSourceCode()));
+---
+> 		return findIndexOfNextFragment(childFragments, childFragmentIdx + 1, fragment -> Objects.equals(token
+> , fragment.getSourceCode()));

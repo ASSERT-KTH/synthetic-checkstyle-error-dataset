@@ -1,0 +1,4 @@
+36c36
+< public class AllTypeMembersFunction implements CtConsumableFunction<CtTypeInformation>, CtQueryAware {
+---
+> public class AllTypeMembersFunction implements CtConsumableFunction<CtTypeInformation>,CtQueryAware {

@@ -1,0 +1,4 @@
+120c120
+< 		while (type.getFactory().Type().get(type.getPackage().getQualifiedName() + "." + tentativeTypeName) != null) {
+---
+> 		while (type.getFactory().Type(). get(type.getPackage().getQualifiedName() + "." + tentativeTypeName) != null) {

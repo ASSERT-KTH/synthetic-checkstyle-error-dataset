@@ -1,0 +1,5 @@
+24c24,25
+< public interface SpoonFolder extends SpoonResource {
+---
+> public interface SpoonFolder 
+> extends SpoonResource {

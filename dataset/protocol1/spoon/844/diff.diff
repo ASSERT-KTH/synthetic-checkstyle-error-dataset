@@ -1,4 +1,0 @@
-66c66
-< 								throw new SpoonException("Error while assigning the value to " + f.getName(), e);
----
-> 								throw new SpoonException("Error while assigning the value to " + f.getName(),e);

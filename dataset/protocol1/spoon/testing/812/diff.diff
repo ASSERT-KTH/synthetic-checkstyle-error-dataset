@@ -1,0 +1,4 @@
+106c106
+< 	public Set<CtRole> getChanges(CtElement currentElement) {
+---
+> 	public Set<CtRole> getChanges(	CtElement currentElement) {

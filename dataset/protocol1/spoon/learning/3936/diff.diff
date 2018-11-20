@@ -1,0 +1,4 @@
+34c34
+< 	public DeleteAllAction(Context context, Map oldValue) {
+---
+> 	public DeleteAllAction(Context context,Map oldValue) {

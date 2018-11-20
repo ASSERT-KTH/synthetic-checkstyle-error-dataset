@@ -1,0 +1,4 @@
+124c124
+< 			removeModifier(ModifierKind.PRIVATE);
+---
+> 			removeModifier( ModifierKind.PRIVATE);

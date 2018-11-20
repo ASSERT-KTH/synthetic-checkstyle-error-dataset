@@ -1,0 +1,5 @@
+115,116c115
+< 	public <T> void visitCtTypeReference(CtTypeReference<T> reference) {
+< 		if (!(reference instanceof CtArrayTypeReference)) {
+---
+> 	public <T> void visitCtTypeReference(CtTypeReference<T> reference) {		if (!(reference instanceof CtArrayTypeReference)) {

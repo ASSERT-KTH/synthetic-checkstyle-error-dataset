@@ -1,0 +1,5 @@
+48c48,49
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, SNIPPET, value, this.value);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, SNIPPET, value
+> , this.value);

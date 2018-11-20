@@ -1,0 +1,4 @@
+1437c1437
+< 			castTarget(element).setIsOpenModule(castValue(value));
+---
+> 			castTarget(element).setIsOpenModule(castValue(value	));

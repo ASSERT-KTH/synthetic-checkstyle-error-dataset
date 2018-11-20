@@ -1,0 +1,4 @@
+194c194
+< 	public boolean hasModifier(ModifierKind modifier) {
+---
+> 	public boolean hasModifier(ModifierKind modifier){

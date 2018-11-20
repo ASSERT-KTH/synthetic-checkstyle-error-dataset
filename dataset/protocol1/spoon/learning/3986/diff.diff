@@ -1,0 +1,5 @@
+49c49,50
+< 		owner.addType(e);
+---
+> 		owner.addType
+> (e);

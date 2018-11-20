@@ -1,5 +1,0 @@
-45c45,46
-< 		CtClass<?> c = Substitution.getTemplateCtClass(targetType, this);
----
-> 		CtClass<?> c = Substitution.getTemplateCtClass(targetType
-> , this);

@@ -1,0 +1,4 @@
+19c19
+< import spoon.reflect.code.CtCatchVariable;
+---
+> import spoon.reflect.code.CtCatchVariable	;

@@ -1,4 +1,0 @@
-64c64
-< 			final CtType<?> currentActual = allActual.get(i);
----
-> 			final CtType<? > currentActual = allActual.get(i);

@@ -1,0 +1,4 @@
+30c30
+< public interface CtContinue extends CtLabelledFlowBreak {
+---
+>  public interface CtContinue extends CtLabelledFlowBreak {

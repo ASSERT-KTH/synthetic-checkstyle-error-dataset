@@ -1,0 +1,4 @@
+84c84
+< 		CtPackageReference ref = factory.Core().createPackageReference();
+---
+> 		CtPackageReference ref = factory.Core().	createPackageReference();

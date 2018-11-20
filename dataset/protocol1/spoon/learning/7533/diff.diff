@@ -1,0 +1,5 @@
+44,45c44
+< import static spoon.reflect.ModelElementContainerDefaultCapacities.PARAMETERS_CONTAINER_DEFAULT_CAPACITY;
+< import static spoon.reflect.path.CtRole.BODY;
+---
+> import static spoon.reflect.ModelElementContainerDefaultCapacities.PARAMETERS_CONTAINER_DEFAULT_CAPACITY;import static spoon.reflect.path.CtRole.BODY;

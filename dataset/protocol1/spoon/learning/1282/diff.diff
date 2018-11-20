@@ -1,0 +1,4 @@
+42c42
+< 			ctAnnotation.setAnnotationType((CtTypeReference<? extends Annotation>) typeReference);
+---
+> 			ctAnnotation.setAnnotationType((CtTypeReference<? extends Annotation>)typeReference);

@@ -1,0 +1,4 @@
+35c35
+< public interface CtThisAccess<T> extends CtTargetedExpression<T, CtExpression<?>> {
+---
+> public interface CtThisAccess<T> extends CtTargetedExpression< T, CtExpression<?>> {

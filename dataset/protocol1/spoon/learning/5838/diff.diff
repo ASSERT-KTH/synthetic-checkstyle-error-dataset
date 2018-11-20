@@ -1,0 +1,4 @@
+128c128
+< 		setMultiTypes(type == null ? emptyList() : Collections.singletonList(type));
+---
+> 		setMultiTypes(type == null ? emptyList() :Collections.singletonList(type));

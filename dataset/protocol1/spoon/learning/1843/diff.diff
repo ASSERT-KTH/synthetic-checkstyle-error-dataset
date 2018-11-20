@@ -1,0 +1,4 @@
+57c57
+< 	<C extends CtParameter<T>> C setVarArgs(boolean varArgs);
+---
+> 	<C extends CtParameter<T>> C setVarArgs(boolean varArgs)	;

@@ -1,0 +1,4 @@
+37c37
+< 	int beginOfLineIndex(int index);
+---
+> 	int beginOfLineIndex(int index	);

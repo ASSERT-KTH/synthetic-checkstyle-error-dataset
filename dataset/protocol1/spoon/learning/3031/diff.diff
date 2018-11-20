@@ -1,0 +1,4 @@
+54c54
+< 	public ModelConsistencyChecker(Environment environment, boolean fixInconsistencies, boolean fixNullParents) {
+---
+> 	public ModelConsistencyChecker(Environment environment	, boolean fixInconsistencies, boolean fixNullParents) {

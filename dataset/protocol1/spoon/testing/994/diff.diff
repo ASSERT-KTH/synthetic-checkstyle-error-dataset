@@ -1,0 +1,4 @@
+304c304
+< 		biScan(spoon.reflect.path.CtRole.COMMENT, reference.getComments(), other.getComments());
+---
+> 		biScan (spoon.reflect.path.CtRole.COMMENT, reference.getComments(), other.getComments());

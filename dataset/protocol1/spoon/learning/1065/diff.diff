@@ -1,0 +1,4 @@
+43c43
+< 		return Package.getPackage(getSimpleName());
+---
+> 		return Package.getPackage(getSimpleName ());

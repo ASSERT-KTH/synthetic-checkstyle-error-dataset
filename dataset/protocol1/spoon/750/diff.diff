@@ -1,5 +1,0 @@
-348c348,349
-< 			for (CtConstructor<?> c : sourceClass.getConstructors()) {
----
-> 			for (CtConstructor<?> c 
-> : sourceClass.getConstructors()) {

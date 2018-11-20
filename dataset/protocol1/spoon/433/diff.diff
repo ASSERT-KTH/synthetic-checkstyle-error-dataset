@@ -1,4 +1,0 @@
-24c24
-< 	private Check() {
----
-> 	private Check(){

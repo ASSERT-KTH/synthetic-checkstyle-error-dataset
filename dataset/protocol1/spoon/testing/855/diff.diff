@@ -1,0 +1,5 @@
+42c42,43
+< 	public void addPackage(CtPackage ctPackage) {
+---
+> 	public void addPackage(CtPackage 
+> ctPackage) {

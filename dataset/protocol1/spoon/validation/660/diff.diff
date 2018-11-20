@@ -1,0 +1,5 @@
+50,51c50
+< 			throw new SpoonException("The method matches with one parameter was not found on the class " + getClass().getName());
+< 		}
+---
+> 			throw new SpoonException("The method matches with one parameter was not found on the class " + getClass().getName());		}

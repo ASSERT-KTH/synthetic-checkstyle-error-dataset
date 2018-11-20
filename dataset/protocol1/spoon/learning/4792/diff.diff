@@ -1,0 +1,5 @@
+69c69,70
+< 				throw new SpoonException("Cannot use method without declaring type as scope of method typing context");
+---
+> 				
+> throw new SpoonException("Cannot use method without declaring type as scope of method typing context");

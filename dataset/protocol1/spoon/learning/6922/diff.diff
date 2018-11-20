@@ -1,0 +1,4 @@
+60c60
+< 	A getActualAnnotation();
+---
+> 	A getActualAnnotation()	;

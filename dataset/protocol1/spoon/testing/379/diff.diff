@@ -1,0 +1,4 @@
+50c50
+< 					Object obj = properties.get(f.getType(), f.getName());
+---
+> 					Object obj = properties.get (f.getType(), f.getName());

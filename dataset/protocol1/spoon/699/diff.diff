@@ -1,4 +1,0 @@
-140c140
-< 		factory.getEnvironment().setComplianceLevel(complianceLevel);
----
-> 		factory.getEnvironment().setComplianceLevel(complianceLevel );

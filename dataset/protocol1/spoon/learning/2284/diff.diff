@@ -1,0 +1,4 @@
+92c92
+< 	public <T extends CtElement> Map<String, T> clone(Map<String, T> elements) {
+---
+> 	public <T extends CtElement> Map<String, T> clone(Map<String, T>elements) {

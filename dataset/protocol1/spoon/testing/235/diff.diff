@@ -1,0 +1,4 @@
+277c277
+< 		this.scan(invocation.getArguments());
+---
+> 		 this.scan(invocation.getArguments());

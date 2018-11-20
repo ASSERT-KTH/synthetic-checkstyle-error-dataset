@@ -1,0 +1,4 @@
+19c19
+< public class AdvancedOptions<T extends AdvancedOptions<T>> extends Options<T> {
+---
+> public class AdvancedOptions<T extends AdvancedOptions<T>>extends Options<T> {

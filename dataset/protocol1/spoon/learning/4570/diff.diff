@@ -1,0 +1,5 @@
+35,36c35
+< 	public void acceptResult(CompilationResult result) {
+< 		if (result.hasErrors()) {
+---
+> 	public void acceptResult(CompilationResult result) {		if (result.hasErrors()) {

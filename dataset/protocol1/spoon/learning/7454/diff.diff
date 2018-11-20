@@ -1,0 +1,4 @@
+102c102
+< 		event.printSourceFragment(fragment, isFragmentModified(fragment));
+---
+> 		event.printSourceFragment(fragment, isFragmentModified (fragment));

@@ -1,4 +1,0 @@
-384c384
-< 		CtConstructor<T> newConstructor = targetClass.getFactory().Constructor().create(targetClass, sourceMethod);
----
-> 		CtConstructor<T> newConstructor = targetClass.getFactory().Constructor().create(targetClass,sourceMethod);

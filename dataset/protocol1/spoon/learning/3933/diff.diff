@@ -1,0 +1,4 @@
+42c42
+< import spoon.reflect.code.CtForEach;
+---
+> import spoon.reflect.code.	CtForEach;

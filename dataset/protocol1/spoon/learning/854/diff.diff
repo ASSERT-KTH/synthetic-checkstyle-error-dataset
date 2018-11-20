@@ -1,0 +1,5 @@
+97c97,98
+< 	public final void process(CtElement element) {
+---
+> 	public final void process(CtElement 
+> element) {

@@ -1,0 +1,4 @@
+27c27
+< public interface CtLoop extends CtStatement, TemplateParameter<Void>, CtBodyHolder {
+---
+> public interface CtLoop extends CtStatement, TemplateParameter<	Void>, CtBodyHolder {

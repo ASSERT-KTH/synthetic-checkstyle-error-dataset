@@ -1,0 +1,4 @@
+50c50
+< 		return (C) this;
+---
+> 		return (C) this	;

@@ -1,0 +1,5 @@
+65c65,66
+< 			Object newValue = merger.apply(null);
+---
+> 			
+> Object newValue = merger.apply(null);

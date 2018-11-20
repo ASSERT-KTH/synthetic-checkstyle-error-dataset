@@ -1,0 +1,4 @@
+77c77
+< 		return qualifiedNamesOfInterfaces.contains(lambda.getType().getQualifiedName());
+---
+> 		return qualifiedNamesOfInterfaces.contains(lambda.getType().getQualifiedName())	;

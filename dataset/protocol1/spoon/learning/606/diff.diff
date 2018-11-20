@@ -1,0 +1,4 @@
+56c56
+< 	CtField<T> clone();
+---
+> 	CtField<T> clone() ;

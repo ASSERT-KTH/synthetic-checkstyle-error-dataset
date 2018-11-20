@@ -1,0 +1,4 @@
+46c46
+< 		List<V> list = super.castValue(value);
+---
+> 		List<V > list = super.castValue(value);

@@ -1,0 +1,4 @@
+131c131
+< 	<A extends Annotation> void visitCtAnnotationType(CtAnnotationType<A> annotationType);
+---
+> 	<A extends Annotation> void visitCtAnnotationType(CtAnnotationType	<A> annotationType);

@@ -1,0 +1,4 @@
+22c22
+< public class ObjectContext extends Context {
+---
+> public class ObjectContext extends Context{

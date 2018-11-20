@@ -1,0 +1,4 @@
+17c17
+< package spoon.support.modelobs;
+---
+> package spoon.support. modelobs;

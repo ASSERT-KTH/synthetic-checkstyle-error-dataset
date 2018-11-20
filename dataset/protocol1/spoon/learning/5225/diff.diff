@@ -1,0 +1,4 @@
+246c246
+< 	<T> void visitCtFieldReference(CtFieldReference<T> reference);
+---
+> 	<T> void visitCtFieldReference(CtFieldReference<	T> reference);

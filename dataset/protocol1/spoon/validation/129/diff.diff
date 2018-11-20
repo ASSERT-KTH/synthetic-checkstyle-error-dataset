@@ -1,0 +1,5 @@
+61c61,62
+< 	public void onObjectUpdate(CtElement currentElement, CtRole role, Object newValue, Object oldValue) {
+---
+> 	public void onObjectUpdate(CtElement currentElement, CtRole role, Object newValue
+> , Object oldValue) {

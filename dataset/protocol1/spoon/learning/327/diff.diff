@@ -1,0 +1,5 @@
+65,66c65
+< 	 */
+< 	public static <E extends CtElement> List<E> getElements(
+---
+> 	 */	public static <E extends CtElement> List<E> getElements(

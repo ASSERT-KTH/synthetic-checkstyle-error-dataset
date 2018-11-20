@@ -1,0 +1,4 @@
+34c34
+< 	public int compare(CtElement o1, CtElement o2) {
+---
+> 	public int compare	(CtElement o1, CtElement o2) {

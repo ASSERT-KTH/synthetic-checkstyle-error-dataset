@@ -1,0 +1,5 @@
+81,82c81
+< 		} catch (ClassNotFoundException e) {
+< 			throw new SpoonException("Unable to load processor \"" + qualifiedName + "\"", e);
+---
+> 		} catch (ClassNotFoundException e) {			throw new SpoonException("Unable to load processor \"" + qualifiedName + "\"", e);

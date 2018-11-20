@@ -1,0 +1,4 @@
+38c38
+< 	protected Deque<CtElement> elementsDeque = new ArrayDeque<>();
+---
+> 	protected Deque<CtElement>elementsDeque = new ArrayDeque<>();

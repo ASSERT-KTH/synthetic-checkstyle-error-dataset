@@ -1,0 +1,4 @@
+123c123
+< 	private class CaseNode extends AbstractNode implements InlineNode {
+---
+> 	private class CaseNode extends AbstractNode implements InlineNode{

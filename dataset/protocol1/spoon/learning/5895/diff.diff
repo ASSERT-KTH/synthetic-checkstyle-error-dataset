@@ -1,0 +1,5 @@
+47c47,48
+< 	public RtMethod(Class<?> clazz, Method method, String name, Class<?> returnType, Type genericReturnType, TypeVariable<Method>[] typeParameters, Class<?>[] parameterTypes, Type[] genericParameterTypes, Class<?>[] exceptionTypes, int modifiers,
+---
+> 	public RtMethod(Class<?> clazz, Method method, String name, Class<?> returnType, Type genericReturnType, TypeVariable<Method>[] typeParameters, Class<?>[] parameterTypes
+> , Type[] genericParameterTypes, Class<?>[] exceptionTypes, int modifiers,

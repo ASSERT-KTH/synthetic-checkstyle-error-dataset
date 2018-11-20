@@ -1,0 +1,4 @@
+64c64
+< 	public <T extends CtElement> List<T> clone(List<T> elements) {
+---
+> 	public <T extends CtElement	> List<T> clone(List<T> elements) {

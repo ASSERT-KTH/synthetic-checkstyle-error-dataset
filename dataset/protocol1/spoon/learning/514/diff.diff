@@ -1,0 +1,4 @@
+66c66
+< 			if (!currentActual.equals(currentExpected)) {
+---
+> 			if (!currentActual.equals(	currentExpected)) {

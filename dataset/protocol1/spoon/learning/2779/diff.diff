@@ -1,0 +1,4 @@
+26c26
+< 		String s1 = new String(o1.getFileName());
+---
+> 		String s1 = new String (o1.getFileName());

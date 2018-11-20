@@ -1,4 +1,0 @@
-59c59
-< 		process(actual.getFactory(), processors);
----
-> 		process(	actual.getFactory(), processors);

@@ -1,0 +1,4 @@
+95c95
+< 			for (int j = lineSeparatorPositions[i]; j < position; j++) {
+---
+> 			for (int j = lineSeparatorPositions[i]; j < position	; j++) {

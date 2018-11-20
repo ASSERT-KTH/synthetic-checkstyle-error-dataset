@@ -1,0 +1,5 @@
+46c46,47
+< 	void step(Process process, String task, int taskId, int nbTask);
+---
+> 	void step(Process 
+> process, String task, int taskId, int nbTask);

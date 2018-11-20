@@ -1,0 +1,4 @@
+121c121
+< 		if (jar.lastModified() > decompiledSrc.lastModified()) {
+---
+> 		if ( jar.lastModified() > decompiledSrc.lastModified()) {

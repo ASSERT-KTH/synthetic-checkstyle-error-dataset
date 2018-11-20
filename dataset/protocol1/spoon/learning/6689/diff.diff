@@ -1,0 +1,4 @@
+50c50
+< 			ctVariable.setType(ctTypeReference);
+---
+> 			ctVariable.	setType(ctTypeReference);

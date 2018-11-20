@@ -1,0 +1,4 @@
+43c43
+< 	CtPath relativePath(CtElement parent);
+---
+> 	CtPath relativePath	(CtElement parent);

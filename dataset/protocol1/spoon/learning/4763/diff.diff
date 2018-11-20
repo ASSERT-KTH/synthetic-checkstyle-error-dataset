@@ -1,0 +1,4 @@
+117c117
+< 	boolean isAnonymous();
+---
+> 	boolean isAnonymous ();

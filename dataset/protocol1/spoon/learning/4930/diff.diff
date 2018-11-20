@@ -1,0 +1,5 @@
+459,460c459
+< 		if (classRaw.getPackage() != null) {
+< 			visitPackage(classRaw.getPackage());
+---
+> 		if (classRaw.getPackage() != null) {			visitPackage(classRaw.getPackage());

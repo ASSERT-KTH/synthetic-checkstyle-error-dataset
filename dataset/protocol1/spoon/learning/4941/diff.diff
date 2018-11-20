@@ -1,0 +1,4 @@
+240c240
+< 			while (line > e.getPosition().getLine()) {
+---
+> 			while (line > e.getPosition().getLine()){

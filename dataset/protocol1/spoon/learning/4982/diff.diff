@@ -1,0 +1,4 @@
+77c77
+< 		this.listener.onTokenWriterWrite(TokenType.IDENTIFIER, token, null, () -> delegate.writeIdentifier(token));
+---
+> 		this.listener.onTokenWriterWrite(TokenType.IDENTIFIER, token, null,() -> delegate.writeIdentifier(token));

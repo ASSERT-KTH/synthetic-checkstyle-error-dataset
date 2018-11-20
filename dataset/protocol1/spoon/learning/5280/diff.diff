@@ -1,0 +1,4 @@
+136c136
+< 		Object obj = generatePatternParameterElement(parameterInfo, result.getRequiredClass());
+---
+> 		Object obj= generatePatternParameterElement(parameterInfo, result.getRequiredClass());

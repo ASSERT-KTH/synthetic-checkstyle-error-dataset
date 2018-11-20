@@ -1,0 +1,5 @@
+102c102,103
+< 	public static <R extends CtReference> List<R> getReferences(
+---
+> 	public static <R extends CtReference> List<R> getReferences
+> (

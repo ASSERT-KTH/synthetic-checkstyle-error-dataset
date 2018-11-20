@@ -1,0 +1,4 @@
+45c45
+< 	private JDTTreeBuilderQuery() { }
+---
+> 	 private JDTTreeBuilderQuery() { }

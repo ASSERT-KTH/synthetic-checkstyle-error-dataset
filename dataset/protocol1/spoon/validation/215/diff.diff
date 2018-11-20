@@ -1,0 +1,4 @@
+20c20
+< import spoon.reflect.visitor.chain.CtQueryImpl;
+---
+>  import spoon.reflect.visitor.chain.CtQueryImpl;

@@ -1,4 +1,0 @@
-80c80
-< 		final List<CtPackage> actualPackages = new ArrayList<>(actual.getPackages());
----
-> 		final List<CtPackage>actualPackages = new ArrayList<>(actual.getPackages());

@@ -1,0 +1,5 @@
+61c61,62
+< 	<C extends CtType<Object>> C setTypeMembers(List<CtTypeMember> members);
+---
+> 	<C extends CtType<Object>> C setTypeMembers
+> (List<CtTypeMember> members);

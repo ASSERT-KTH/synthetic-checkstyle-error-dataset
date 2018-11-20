@@ -1,0 +1,4 @@
+521c521
+< 						lastOfSameRole = Math.max(lastOfSameRole, findIndexOfLastChildTokenOfRoleHandler(flatChildren, i + 1, role));
+---
+> 						 lastOfSameRole = Math.max(lastOfSameRole, findIndexOfLastChildTokenOfRoleHandler(flatChildren, i + 1, role));

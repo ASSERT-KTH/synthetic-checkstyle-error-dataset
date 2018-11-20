@@ -1,0 +1,5 @@
+116c116,117
+< 			return build(classToBuild).Type().get(classToBuild);
+---
+> 			return build(classToBuild).Type().get
+> (classToBuild);

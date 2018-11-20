@@ -1,0 +1,4 @@
+48c48
+< 	static void printComment(PrinterHelper printer, CtComment.CommentType commentType, String content, Collection<CtJavaDocTag> javaDocTags) {
+---
+> 	static void printComment(PrinterHelper printer, CtComment.CommentType commentType,String content, Collection<CtJavaDocTag> javaDocTags) {

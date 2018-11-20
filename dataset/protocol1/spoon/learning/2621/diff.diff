@@ -1,0 +1,4 @@
+66c66
+< 		if (mutableTokenWriter.isMuted() == false) {
+---
+> 		if (mutableTokenWriter.isMuted	() == false) {

@@ -1,0 +1,4 @@
+69c69
+< 	public DefaultTokenWriter writeComment(CtComment comment) {
+---
+> 	public DefaultTokenWriter writeComment(CtComment comment){

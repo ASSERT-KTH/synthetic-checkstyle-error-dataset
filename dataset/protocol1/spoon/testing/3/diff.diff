@@ -1,0 +1,5 @@
+42,43c42
+< 	public boolean matchesPrinterEvent(PrinterEvent event) {
+< 		CtRole role = event.getRole();
+---
+> 	public boolean matchesPrinterEvent(PrinterEvent event) {		CtRole role = event.getRole();

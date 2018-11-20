@@ -1,0 +1,4 @@
+40c40
+< 		ctPackage.addAnnotation(ctAnnotation);
+---
+> 		ctPackage.addAnnotation(ctAnnotation	);

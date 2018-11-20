@@ -1,0 +1,4 @@
+148c148
+< 		String fieldName = signature.substring(signature.indexOf(CtField.FIELD_SEPARATOR) + 1);
+---
+> 		String fieldName = signature.substring(signature. indexOf(CtField.FIELD_SEPARATOR) + 1);

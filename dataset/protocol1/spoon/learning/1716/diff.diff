@@ -1,0 +1,5 @@
+40,41c40
+< import spoon.reflect.code.CtFieldWrite;
+< import spoon.reflect.code.CtFor;
+---
+> import spoon.reflect.code.CtFieldWrite;import spoon.reflect.code.CtFor;

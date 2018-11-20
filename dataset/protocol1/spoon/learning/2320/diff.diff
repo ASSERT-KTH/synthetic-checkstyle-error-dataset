@@ -1,0 +1,4 @@
+45c45
+< 	<E extends CtShadowable> E setShadow(boolean isShadow);
+---
+> 	<E extends CtShadowable> E setShadow	(boolean isShadow);

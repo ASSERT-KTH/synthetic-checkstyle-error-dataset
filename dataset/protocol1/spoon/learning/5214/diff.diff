@@ -1,0 +1,5 @@
+125,126c125
+< 				return (other.constructor.equals(constructor) && other.index == index);
+< 			}
+---
+> 				return (other.constructor.equals(constructor) && other.index == index);			}

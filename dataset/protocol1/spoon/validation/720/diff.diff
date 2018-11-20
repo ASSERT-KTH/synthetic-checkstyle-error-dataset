@@ -1,0 +1,4 @@
+35c35
+< 	protected String join(String delimiter, String[] classpath) {
+---
+> 	protected String join(String delimiter, String[] classpath ) {

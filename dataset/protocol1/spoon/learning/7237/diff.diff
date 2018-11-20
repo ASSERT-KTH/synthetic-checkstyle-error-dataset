@@ -1,0 +1,4 @@
+72c72
+< 	<T extends CtModule> T setIsOpenModule(boolean openModule);
+---
+> 	<T extends CtModule>T setIsOpenModule(boolean openModule);

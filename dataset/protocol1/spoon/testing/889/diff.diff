@@ -1,0 +1,5 @@
+26c26,27
+< public class OverriddenMethodFilter implements Filter<CtMethod<?>> {
+---
+> public class 
+> OverriddenMethodFilter implements Filter<CtMethod<?>> {

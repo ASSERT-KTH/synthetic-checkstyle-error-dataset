@@ -1,0 +1,5 @@
+66c66,67
+< 	public void setQuery(CtQuery query) {
+---
+> 	public 
+> void setQuery(CtQuery query) {

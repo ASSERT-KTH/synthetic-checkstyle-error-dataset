@@ -1,0 +1,4 @@
+33c33
+< 	@MetamodelPropertyField(role = CtRole.IMPLEMENTATION_TYPE)
+---
+> 	@MetamodelPropertyField(role =CtRole.IMPLEMENTATION_TYPE)

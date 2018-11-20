@@ -1,0 +1,5 @@
+88,89c88
+< 		public <T> void visitCtCatchVariable(CtCatchVariable<T> catchVariable) {
+< 			catchVariableScopeFunction.apply(catchVariable, outputConsumer);
+---
+> 		public <T> void visitCtCatchVariable(CtCatchVariable<T> catchVariable) {			catchVariableScopeFunction.apply(catchVariable, outputConsumer);

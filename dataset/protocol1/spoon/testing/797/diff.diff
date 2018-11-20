@@ -1,0 +1,4 @@
+44c44
+< 		if (event.isWhitespace() || role == CtRole.COMMENT) {
+---
+> 		if (event.isWhitespace()|| role == CtRole.COMMENT) {

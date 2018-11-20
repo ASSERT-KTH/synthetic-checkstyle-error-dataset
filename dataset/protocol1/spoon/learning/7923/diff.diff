@@ -1,0 +1,4 @@
+205c205
+< 			for (Constructor<?> constructor : clazz.getDeclaredConstructors()) {
+---
+> 			for (Constructor<? > constructor : clazz.getDeclaredConstructors()) {

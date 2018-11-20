@@ -1,0 +1,5 @@
+52c52,53
+< 			if (isMod1 == isMod2) {
+---
+> 			if 
+> (isMod1 == isMod2) {

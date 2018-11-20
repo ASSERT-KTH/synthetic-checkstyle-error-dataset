@@ -1,0 +1,4 @@
+278c278
+< 			if (superTypeOfSubTypeParam instanceof CtTypeParameterReference) {
+---
+> 			 if (superTypeOfSubTypeParam instanceof CtTypeParameterReference) {

@@ -1,0 +1,4 @@
+43c43
+< 	@PropertyGetter(role = TRY_RESOURCE)
+---
+> 	@PropertyGetter(role = TRY_RESOURCE	)

@@ -1,0 +1,4 @@
+129c129
+< 			switch (((TokenSourceFragment) fragment).getType()) {
+---
+> 			switch (((TokenSourceFragment) fragment ).getType()) {

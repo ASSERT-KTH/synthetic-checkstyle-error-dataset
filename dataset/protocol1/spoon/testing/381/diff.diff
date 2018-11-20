@@ -1,0 +1,4 @@
+45c45
+< 	@PropertySetter(role = TARGET)
+---
+> 	@PropertySetter(role = TARGET )

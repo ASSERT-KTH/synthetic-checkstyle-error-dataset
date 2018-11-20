@@ -1,0 +1,4 @@
+36c36
+< 	public AbstractReferenceFilter(Class<? super T> type) {
+---
+> 	public AbstractReferenceFilter(Class<? super T> type	) {

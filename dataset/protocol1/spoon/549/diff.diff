@@ -1,5 +1,0 @@
-22,23c22
-< import spoon.reflect.declaration.CtType;
-< import spoon.reflect.declaration.CtTypeMember;
----
-> import spoon.reflect.declaration.CtType;import spoon.reflect.declaration.CtTypeMember;

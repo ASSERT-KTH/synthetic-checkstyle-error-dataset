@@ -1,0 +1,4 @@
+29c29
+< public interface CtArrayTypeReference<T> extends CtTypeReference<T> {
+---
+> public interface CtArrayTypeReference<T> extends CtTypeReference< T> {

@@ -1,0 +1,4 @@
+169c169
+< 	public <T extends CtStatement> T getStatement(int i) {
+---
+> 	public <T extends CtStatement	> T getStatement(int i) {

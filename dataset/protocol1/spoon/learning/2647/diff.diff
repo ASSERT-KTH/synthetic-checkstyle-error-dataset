@@ -1,0 +1,4 @@
+223c223
+< 		sbf.replace(i, i + ls.length(), hasWhite ? "" : " ");
+---
+> 		sbf.replace(i, i + ls.length(),hasWhite ? "" : " ");

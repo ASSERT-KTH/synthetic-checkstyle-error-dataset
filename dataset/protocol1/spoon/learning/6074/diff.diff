@@ -1,0 +1,4 @@
+63c63
+< 					throw new IndexOutOfBoundsException("Index: " + index + ", Size: " + size());
+---
+> 					throw new IndexOutOfBoundsException ("Index: " + index + ", Size: " + size());

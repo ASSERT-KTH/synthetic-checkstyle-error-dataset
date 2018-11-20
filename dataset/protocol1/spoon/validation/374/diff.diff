@@ -1,0 +1,5 @@
+511c511,512
+< 			public Object invoke(Object proxy, Method method, Object[] args) {
+---
+> 			public Object invoke
+> (Object proxy, Method method, Object[] args) {

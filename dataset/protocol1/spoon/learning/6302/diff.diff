@@ -1,0 +1,5 @@
+19,20c19
+< import static spoon.reflect.path.CtRole.BOUNDING_TYPE;
+< import static spoon.reflect.path.CtRole.IS_UPPER;
+---
+> import static spoon.reflect.path.CtRole.BOUNDING_TYPE;import static spoon.reflect.path.CtRole.IS_UPPER;

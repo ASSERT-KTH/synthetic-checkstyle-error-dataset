@@ -1,0 +1,4 @@
+398c398
+< 			if (assignement.getAssigned() == null) {
+---
+> 			if (assignement.getAssigned() == null ) {

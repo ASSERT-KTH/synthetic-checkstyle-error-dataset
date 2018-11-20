@@ -1,0 +1,4 @@
+73c73
+< 		if (element instanceof CtElement) {
+---
+> 		if(element instanceof CtElement) {

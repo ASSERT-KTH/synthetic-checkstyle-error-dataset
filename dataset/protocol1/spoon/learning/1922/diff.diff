@@ -1,0 +1,5 @@
+149,150c149
+< 			set.add(ModifierKind.PUBLIC);
+< 		}
+---
+> 			set.add(ModifierKind.PUBLIC);		}

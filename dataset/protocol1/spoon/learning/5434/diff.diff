@@ -1,0 +1,5 @@
+63,64c63
+< 	public <T extends CtForEach> T setVariable(CtLocalVariable<?> variable) {
+< 		if (variable != null) {
+---
+> 	public <T extends CtForEach> T setVariable(CtLocalVariable<?> variable) {		if (variable != null) {

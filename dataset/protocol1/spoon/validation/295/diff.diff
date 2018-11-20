@@ -1,0 +1,5 @@
+52,53c52
+< 			if (value instanceof Class) {
+< 				return (T) factory.Code().createClassAccess(factory.Type().createReference((Class) value));
+---
+> 			if (value instanceof Class) {				return (T) factory.Code().createClassAccess(factory.Type().createReference((Class) value));

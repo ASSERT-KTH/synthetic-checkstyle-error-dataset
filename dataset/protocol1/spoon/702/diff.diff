@@ -1,5 +1,0 @@
-203c203,204
-< 	void addTemplateSource(SpoonResource source);
----
-> 	
-> void addTemplateSource(SpoonResource source);

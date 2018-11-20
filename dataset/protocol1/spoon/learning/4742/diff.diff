@@ -1,0 +1,4 @@
+374c374
+< 	void setModelChangeListener(FineModelChangeListener modelChangeListener);
+---
+> 	void setModelChangeListener (FineModelChangeListener modelChangeListener);

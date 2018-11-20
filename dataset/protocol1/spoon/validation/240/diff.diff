@@ -1,0 +1,4 @@
+115c115
+< 		public Multiple(Class<T> requiredClass) {
+---
+> 		public Multiple(Class<T>requiredClass) {

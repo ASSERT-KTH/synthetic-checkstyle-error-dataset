@@ -1,0 +1,4 @@
+99c99
+< 	<T extends CtExecutable<R>> T setThrownTypes(Set<CtTypeReference<? extends Throwable>> thrownTypes);
+---
+> 	<T extends CtExecutable<R>> T setThrownTypes(Set<CtTypeReference<? extends Throwable >> thrownTypes);

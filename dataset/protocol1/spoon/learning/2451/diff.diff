@@ -1,0 +1,4 @@
+149c149
+< 			for (RtMethod method : getDeclaredMethods(clazz)) {
+---
+> 			for ( RtMethod method : getDeclaredMethods(clazz)) {

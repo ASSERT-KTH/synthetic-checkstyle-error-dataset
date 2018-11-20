@@ -1,0 +1,5 @@
+52c52,53
+< 		return super.matches(element) && element.getAnnotation(annotationType) != null;
+---
+> 		
+> return super.matches(element) && element.getAnnotation(annotationType) != null;

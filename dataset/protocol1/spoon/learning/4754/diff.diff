@@ -1,0 +1,5 @@
+59c59,60
+< 			out = new LZMACompressorOutputStream(out);
+---
+> 			out 
+> = new LZMACompressorOutputStream(out);

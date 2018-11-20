@@ -1,0 +1,4 @@
+34c34
+< 	public ZipFile(ZipFolder parent, String name, byte[] buffer) {
+---
+> 	public ZipFile(ZipFolder parent, String name,byte[] buffer) {

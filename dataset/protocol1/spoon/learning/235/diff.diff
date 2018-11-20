@@ -1,0 +1,4 @@
+153c153
+< 		int idx = list.indexOf(o);
+---
+> 		int idx =list.indexOf(o);

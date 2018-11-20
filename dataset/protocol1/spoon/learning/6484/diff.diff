@@ -1,0 +1,5 @@
+19c19,20
+< import spoon.reflect.code.CtArrayWrite;
+---
+> import 
+> spoon.reflect.code.CtArrayWrite;

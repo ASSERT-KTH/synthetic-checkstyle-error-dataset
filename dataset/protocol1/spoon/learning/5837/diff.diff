@@ -1,0 +1,4 @@
+29c29
+< import static spoon.reflect.path.CtRole.INTERFACE;
+---
+> import static spoon.reflect. path.CtRole.INTERFACE;

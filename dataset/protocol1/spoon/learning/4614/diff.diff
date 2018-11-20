@@ -1,0 +1,4 @@
+35c35
+< 		if (simplified != null) {
+---
+> 		if (simplified !=null) {

@@ -1,0 +1,4 @@
+51c51
+< 	public Map<String, CompilationUnit> getMap() {
+---
+> 	public Map<String, CompilationUnit > getMap() {

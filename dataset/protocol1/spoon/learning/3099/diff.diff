@@ -1,0 +1,4 @@
+55c55
+< 			if (position < (start = lineSeparatorPositions[m])) {
+---
+> 			if (position < (start = lineSeparatorPositions[m])	) {

@@ -1,0 +1,4 @@
+223c223
+< 	private CtElement addCommentToNear(final CtComment comment, final Collection<CtElement> elements) {
+---
+> 	 private CtElement addCommentToNear(final CtComment comment, final Collection<CtElement> elements) {

@@ -1,0 +1,5 @@
+80c80,81
+< 			getFactory().getEnvironment().getModelChangeListener().onSetDeleteAll(element, MODIFIER, this.modifiers, new HashSet<>(this.modifiers));
+---
+> 			getFactory().getEnvironment().getModelChangeListener().onSetDeleteAll(element, MODIFIER, this.modifiers
+> , new HashSet<>(this.modifiers));

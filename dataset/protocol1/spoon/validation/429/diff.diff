@@ -1,0 +1,4 @@
+65c65
+< 	public boolean isMandatory(ImmutableMap parameters) {
+---
+> 	public boolean isMandatory(	ImmutableMap parameters) {

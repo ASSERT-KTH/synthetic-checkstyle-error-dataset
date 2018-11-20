@@ -1,0 +1,5 @@
+199c199,200
+< 			List<CtType<?>> oldTypes = oldFactory.Type().getAll();
+---
+> 			List<CtType<?>> oldTypes = 
+> oldFactory.Type().getAll();

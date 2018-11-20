@@ -1,0 +1,4 @@
+98c98
+< 	protected abstract CtTypeReference<?> adaptTypeParameter(CtTypeParameter typeParam);
+---
+> 	protected abstract CtTypeReference	<?> adaptTypeParameter(CtTypeParameter typeParam);

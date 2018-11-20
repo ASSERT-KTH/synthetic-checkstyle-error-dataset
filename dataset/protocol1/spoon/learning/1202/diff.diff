@@ -1,0 +1,5 @@
+42c42,43
+< 	Object getValue(String parameterName);
+---
+> 	
+> Object getValue(String parameterName);

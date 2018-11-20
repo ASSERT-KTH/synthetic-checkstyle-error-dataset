@@ -1,0 +1,4 @@
+70c70
+< 	public <E extends CtElement> E setComments(List<CtComment> comments) {
+---
+> 	public <E extends CtElement> E setComments(List <CtComment> comments) {

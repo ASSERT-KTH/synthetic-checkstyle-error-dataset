@@ -1,0 +1,5 @@
+389c389,390
+< 	void setOutputType(OutputType outputType);
+---
+> 	void 
+> setOutputType(OutputType outputType);

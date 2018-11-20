@@ -1,0 +1,5 @@
+67c67,68
+< 				+ "\nname = " + getFragment(getNameStart(), getNameEnd());
+---
+> 				+ "\nname = " + getFragment(getNameStart
+> (), getNameEnd());

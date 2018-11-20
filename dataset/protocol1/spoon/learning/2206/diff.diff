@@ -1,0 +1,4 @@
+284c284
+< 		CtTypeReference<?> superClassRef = superTypeRef.getSuperclass();
+---
+> 		CtTypeReference<?	> superClassRef = superTypeRef.getSuperclass();

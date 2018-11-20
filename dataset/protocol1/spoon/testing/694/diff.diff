@@ -1,0 +1,4 @@
+61c61
+< 		if (requiredClass != null && requiredClass.isAssignableFrom(String.class) == false) {
+---
+> 		if (requiredClass!= null && requiredClass.isAssignableFrom(String.class) == false) {

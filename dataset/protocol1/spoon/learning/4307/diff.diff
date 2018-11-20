@@ -1,0 +1,4 @@
+144c144
+< 	public CtAssignment<T, A> clone() {
+---
+> 	public CtAssignment<T, A>clone() {

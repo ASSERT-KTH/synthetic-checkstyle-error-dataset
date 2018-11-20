@@ -1,0 +1,5 @@
+41c41,42
+< 	<T extends CtRHSReceiver<A>> T setAssignment(CtExpression<A> assignment);
+---
+> 	<T extends CtRHSReceiver<A>> T setAssignment(CtExpression<A> assignment)
+> ;

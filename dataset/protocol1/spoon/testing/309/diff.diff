@@ -1,0 +1,4 @@
+329c329
+< 		protected abstract Object _accept(Object input);
+---
+> 		protected abstract Object _accept(Object input)	;

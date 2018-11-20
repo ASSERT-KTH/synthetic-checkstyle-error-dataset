@@ -1,4 +1,0 @@
-131c131
-< 	Environment getEnvironment();
----
-> 	Environment getEnvironment	();

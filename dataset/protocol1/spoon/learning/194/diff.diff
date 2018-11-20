@@ -1,0 +1,5 @@
+43c43,44
+< 			if (o1 instanceof CtPackage && o2 instanceof CtPackage) {
+---
+> 			if (o1 instanceof CtPackage && o2 
+> instanceof CtPackage) {

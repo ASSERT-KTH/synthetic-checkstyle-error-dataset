@@ -1,0 +1,5 @@
+19c19,20
+< public enum CtImportKind {
+---
+> public 
+> enum CtImportKind {

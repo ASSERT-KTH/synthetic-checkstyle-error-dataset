@@ -1,0 +1,4 @@
+31c31
+< 	public <T> void visitTypeImport(CtTypeReference<T> typeReference) {
+---
+> 	public <T> void visitTypeImport(CtTypeReference <T> typeReference) {

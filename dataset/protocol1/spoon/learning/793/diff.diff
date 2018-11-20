@@ -1,0 +1,4 @@
+26c26
+< import spoon.reflect.reference.CtTypeReference;
+---
+> import spoon.reflect.reference.CtTypeReference	;

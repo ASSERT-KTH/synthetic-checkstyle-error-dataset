@@ -1,0 +1,4 @@
+309c309
+< 	public boolean isSameSignature(CtExecutable<?> thisExecutable, CtMethod<?> thatExecutable) {
+---
+> 	public boolean isSameSignature(CtExecutable<?> thisExecutable,CtMethod<?> thatExecutable) {

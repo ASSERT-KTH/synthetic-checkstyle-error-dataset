@@ -1,0 +1,4 @@
+46c46
+< 		if (!actual.getSimpleName().equals(expected.getSimpleName())) {
+---
+> 		if (!actual.getSimpleName().equals(expected.getSimpleName ())) {

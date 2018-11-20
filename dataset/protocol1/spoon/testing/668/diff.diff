@@ -1,0 +1,4 @@
+67c67
+< 				char[] content = IOUtils.toCharArray(inputStream, jdtCompiler.getEnvironment().getEncoding());
+---
+> 				char[] content = IOUtils.toCharArray	(inputStream, jdtCompiler.getEnvironment().getEncoding());

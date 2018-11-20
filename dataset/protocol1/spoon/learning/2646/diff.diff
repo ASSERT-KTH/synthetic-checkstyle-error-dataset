@@ -1,0 +1,4 @@
+49c49
+< import spoon.support.visitor.java.internal.TypeRuntimeBuilderContext;
+---
+> import spoon.support.visitor.	java.internal.TypeRuntimeBuilderContext;

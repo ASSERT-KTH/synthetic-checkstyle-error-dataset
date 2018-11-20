@@ -1,0 +1,4 @@
+48c48
+< 	public static boolean isFile(File f) {
+---
+> 	public static boolean isFile(File f){

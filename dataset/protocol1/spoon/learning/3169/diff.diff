@@ -1,0 +1,4 @@
+22c22
+< import spoon.support.util.EmptyClearableList;
+---
+> import spoon.support.util. EmptyClearableList;

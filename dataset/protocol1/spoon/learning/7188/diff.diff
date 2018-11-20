@@ -1,0 +1,4 @@
+88c88
+< 		int indexEndSentence = this.getContent().indexOf('.');
+---
+> 		int indexEndSentence= this.getContent().indexOf('.');

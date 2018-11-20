@@ -1,0 +1,5 @@
+66c66,67
+< 	<T extends CtStatement> T setLabel(String label);
+---
+> 	<T extends CtStatement> 
+> T setLabel(String label);

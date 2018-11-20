@@ -1,5 +1,0 @@
-29c29,30
-< public abstract class AbstractTemplate<T extends CtElement> implements Template<T> {
----
-> public abstract class AbstractTemplate<T extends CtElement> implements 
-> Template<T> {

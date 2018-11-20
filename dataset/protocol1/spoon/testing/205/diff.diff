@@ -1,0 +1,5 @@
+34c34,35
+< 	@PropertyGetter(role = TARGET_LABEL)
+---
+> 	
+> @PropertyGetter(role = TARGET_LABEL)

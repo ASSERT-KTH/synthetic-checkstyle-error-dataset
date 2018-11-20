@@ -1,0 +1,5 @@
+123,124c123
+< 			method.setModifiers(modifiers);
+< 		}
+---
+> 			method.setModifiers(modifiers);		}

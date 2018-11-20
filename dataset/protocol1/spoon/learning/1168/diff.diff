@@ -1,0 +1,4 @@
+216c216
+< 	<E extends CtElement> E setImplicit(boolean b);
+---
+> 	<E extends CtElement>E setImplicit(boolean b);

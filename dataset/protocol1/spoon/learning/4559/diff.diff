@@ -1,0 +1,4 @@
+46c46
+< 		if (expression != null) {
+---
+> 		if (expression!= null) {

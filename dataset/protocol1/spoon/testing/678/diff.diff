@@ -1,0 +1,4 @@
+28c28
+< 	Comparator<? super E> comparator;
+---
+> 	Comparator< ? super E> comparator;

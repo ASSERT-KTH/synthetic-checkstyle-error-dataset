@@ -1,0 +1,4 @@
+250c250
+< 		return (CtFieldReference<T>) super.clone();
+---
+> 		return (CtFieldReference<T >) super.clone();

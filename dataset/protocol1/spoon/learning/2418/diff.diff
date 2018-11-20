@@ -1,0 +1,4 @@
+53c53
+< 	<C extends CtExpression<T>> C addTypeCast(CtTypeReference<?> type);
+---
+> 	<C extends CtExpression<	T>> C addTypeCast(CtTypeReference<?> type);

@@ -1,0 +1,5 @@
+240c240,241
+< 		CtTypeReference<?> targetTypeRef = targetType == null ? null : targetType.getReference();
+---
+> 		CtTypeReference<?> targetTypeRef = 
+> targetType == null ? null : targetType.getReference();

@@ -1,0 +1,4 @@
+30c30
+< public abstract class AbstractFileAssert<T extends AbstractFileAssert<T>> extends AbstractAssert<T, File> {
+---
+> public abstract class AbstractFileAssert<	T extends AbstractFileAssert<T>> extends AbstractAssert<T, File> {

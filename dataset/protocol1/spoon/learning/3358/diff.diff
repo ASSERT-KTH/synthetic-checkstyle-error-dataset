@@ -1,0 +1,4 @@
+74c74
+< 	public void apply(CtTypeInformation input, final CtConsumer<Object> outputConsumer) {
+---
+> 	public void apply(CtTypeInformation input, final CtConsumer<Object> outputConsumer){

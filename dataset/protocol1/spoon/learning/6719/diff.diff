@@ -1,0 +1,4 @@
+52c52
+< 	<T extends CtStatement> T insertBefore(CtStatementList statements) throws ParentNotInitializedException;
+---
+> 	<T extends CtStatement	> T insertBefore(CtStatementList statements) throws ParentNotInitializedException;

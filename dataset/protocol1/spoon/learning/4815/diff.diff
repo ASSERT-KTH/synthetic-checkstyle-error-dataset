@@ -1,0 +1,4 @@
+96c96
+< 	public <T> CtBinaryOperator<T> createBinaryOperator(CtExpression<?> left, CtExpression<?> right, BinaryOperatorKind kind) {
+---
+> 	public <T> CtBinaryOperator<T> createBinaryOperator(CtExpression< ?> left, CtExpression<?> right, BinaryOperatorKind kind) {

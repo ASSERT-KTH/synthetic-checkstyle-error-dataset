@@ -1,0 +1,4 @@
+502c502
+< 		if (actualTypeArguments == CtElementImpl.<CtTypeReference<?>>emptyList()) {
+---
+> 		if(actualTypeArguments == CtElementImpl.<CtTypeReference<?>>emptyList()) {

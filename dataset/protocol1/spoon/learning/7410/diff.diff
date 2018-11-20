@@ -1,0 +1,5 @@
+209,210c209
+< 	public RootNode getNodeOfRole(CtRole attributeRole) {
+< 		return roleToNode.get(getFieldOfRole(attributeRole));
+---
+> 	public RootNode getNodeOfRole(CtRole attributeRole) {		return roleToNode.get(getFieldOfRole(attributeRole));

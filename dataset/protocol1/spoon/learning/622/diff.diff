@@ -1,0 +1,4 @@
+42c42
+< 		this.modifierSourceStart = modifierSourceStart;
+---
+> 		this.modifierSourceStart =modifierSourceStart;

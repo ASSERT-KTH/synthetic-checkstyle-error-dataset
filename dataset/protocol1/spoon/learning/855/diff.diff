@@ -1,0 +1,4 @@
+209c209
+< 				final CtAnnotationMethod<Object> field = factory.Core().createAnnotationMethod();
+---
+> 				final CtAnnotationMethod<Object> field= factory.Core().createAnnotationMethod();

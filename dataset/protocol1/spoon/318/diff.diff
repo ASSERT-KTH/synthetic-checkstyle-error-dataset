@@ -1,4 +1,0 @@
-149c149
-< 				this.getModelBuilder().setSourceClasspath(classpath);
----
-> 				this.getModelBuilder	().setSourceClasspath(classpath);

@@ -1,0 +1,4 @@
+33c33
+< 	public InvalidReplaceException(Throwable e) {
+---
+> 	public InvalidReplaceException(Throwable e){

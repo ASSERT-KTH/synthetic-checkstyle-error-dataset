@@ -1,0 +1,5 @@
+33c33,34
+< public class ListOfNodes extends AbstractNode {
+---
+> public class ListOfNodes extends 
+> AbstractNode {

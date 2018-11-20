@@ -1,0 +1,4 @@
+116c116
+< import spoon.support.reflect.code.CtAssertImpl;
+---
+> import spoon.support.reflect.code. CtAssertImpl;

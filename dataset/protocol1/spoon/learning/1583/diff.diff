@@ -1,0 +1,4 @@
+45c45
+< 	public <C extends CtTargetedExpression<T, CtExpression<?>>> C setTarget(CtExpression<?> target) {
+---
+> 	public <C extends CtTargetedExpression<T, CtExpression<?>>> C setTarget(	CtExpression<?> target) {

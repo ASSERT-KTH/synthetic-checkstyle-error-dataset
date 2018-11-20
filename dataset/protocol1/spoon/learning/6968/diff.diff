@@ -1,0 +1,4 @@
+113c113
+< 			o = new ArrayList<>((Set) o);
+---
+> 			o= new ArrayList<>((Set) o);

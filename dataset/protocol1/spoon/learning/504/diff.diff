@@ -1,0 +1,4 @@
+368c368
+< 			ref.setDeclaringType(createReference(type.getDeclaringType(), includingFormalTypeParameter));
+---
+> 			ref.setDeclaringType(createReference(type.getDeclaringType(), includingFormalTypeParameter ));

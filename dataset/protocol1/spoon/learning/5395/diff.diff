@@ -1,0 +1,4 @@
+60c60
+< 	CtVariableReference<T> clone();
+---
+> 	CtVariableReference<T> clone()	;

@@ -1,0 +1,5 @@
+42,43c42
+< 	public <T extends CtBodyHolder> T setBody(CtStatement statement) {
+< 		if (statement != null) {
+---
+> 	public <T extends CtBodyHolder> T setBody(CtStatement statement) {		if (statement != null) {

@@ -1,5 +1,0 @@
-96c96,97
-< 	public MavenLauncher(String mavenProject, String m2RepositoryPath, SOURCE_TYPE sourceType, String mvnHome) {
----
-> 	public MavenLauncher(String mavenProject, String m2RepositoryPath, SOURCE_TYPE 
-> sourceType, String mvnHome) {

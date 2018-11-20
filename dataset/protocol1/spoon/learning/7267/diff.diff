@@ -1,0 +1,4 @@
+59c59
+< 	public void addProcessor(Class<? extends Processor<?>> type) {
+---
+> 	public void addProcessor(Class<? extends Processor<?>> type){

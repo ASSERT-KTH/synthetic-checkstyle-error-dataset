@@ -1,0 +1,5 @@
+136c136,137
+< 	private <T extends CtElement> List<T> getByFilter(Filter<T> filter) {
+---
+> 	private 
+> <T extends CtElement> List<T> getByFilter(Filter<T> filter) {

@@ -1,0 +1,5 @@
+19,20c19
+< import spoon.reflect.reference.CtTypeReference;
+< import spoon.reflect.reference.CtVariableReference;
+---
+> import spoon.reflect.reference.CtTypeReference;import spoon.reflect.reference.CtVariableReference;

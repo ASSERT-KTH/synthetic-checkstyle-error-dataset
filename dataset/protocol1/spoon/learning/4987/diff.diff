@@ -1,0 +1,4 @@
+70c70
+< 		CommentHelper.printComment(printerHelper, comment);
+---
+> 		CommentHelper.printComment(printerHelper,comment);

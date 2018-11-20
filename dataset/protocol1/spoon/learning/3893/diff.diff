@@ -1,0 +1,4 @@
+41c41
+< 	public static final int PARAMETERS_CONTAINER_DEFAULT_CAPACITY = 2;
+---
+> 	public static final int PARAMETERS_CONTAINER_DEFAULT_CAPACITY = 2 ;

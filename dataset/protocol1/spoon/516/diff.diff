@@ -1,4 +1,0 @@
-37c37
-< 		CtType<?> generated = TemplateBuilder.createPattern(templateType, templateType, this)
----
-> 		CtType< ?> generated = TemplateBuilder.createPattern(templateType, templateType, this)

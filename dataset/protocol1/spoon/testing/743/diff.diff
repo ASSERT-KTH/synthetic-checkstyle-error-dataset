@@ -1,0 +1,4 @@
+101c101
+< 			File file = this.factory.getEnvironment().getOutputDestinationHandler().getOutputPath(module, type.getPackage(), type).toFile();
+---
+> 			File file = this.factory.getEnvironment().getOutputDestinationHandler().getOutputPath(module,type.getPackage(), type).toFile();

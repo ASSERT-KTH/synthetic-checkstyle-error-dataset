@@ -1,0 +1,4 @@
+70c70
+< 	public <C extends CtType<T>> C setSuperclass(CtTypeReference<?> superClass) {
+---
+> 	public <C extends CtType<T>> C setSuperclass(CtTypeReference<?>superClass) {

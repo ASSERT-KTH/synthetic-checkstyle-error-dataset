@@ -1,0 +1,4 @@
+116c116
+< 					throw new SpoonException("Ambiguous method kinds " + result.name() + " X " + k.name() + " for method " + method.getSignature());
+---
+> 					throw new SpoonException("Ambiguous method kinds " + result.name() + " X " + k.name() + " for method " +method.getSignature());

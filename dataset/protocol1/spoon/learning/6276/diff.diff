@@ -1,0 +1,4 @@
+423c423
+< 			private Deque<CtElement> previous = new ArrayDeque();
+---
+> 			private Deque<	CtElement> previous = new ArrayDeque();

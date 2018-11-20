@@ -1,0 +1,4 @@
+55c55
+< 	CtTypeMemberWildcardImportReference clone();
+---
+> 	CtTypeMemberWildcardImportReference clone() ;

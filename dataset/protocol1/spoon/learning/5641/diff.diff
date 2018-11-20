@@ -1,0 +1,5 @@
+80c80,81
+< 	<E extends CtJavaDoc> E removeTag(CtJavaDocTag tag);
+---
+> 	<E extends CtJavaDoc> 
+> E removeTag(CtJavaDocTag tag);

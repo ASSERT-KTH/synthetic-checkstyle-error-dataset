@@ -1,0 +1,5 @@
+33,34c33
+< 	default boolean accept(CtType type) {
+< 		return true;
+---
+> 	default boolean accept(CtType type) {		return true;

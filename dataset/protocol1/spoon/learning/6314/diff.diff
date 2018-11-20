@@ -1,0 +1,4 @@
+81c81
+< 				return SetHandler.this.add(element, castItemValue(value));
+---
+> 				return SetHandler.this.add(	element, castItemValue(value));

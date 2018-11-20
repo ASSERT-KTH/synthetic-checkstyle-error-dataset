@@ -1,0 +1,5 @@
+65c65,66
+< 	@PropertyGetter(role = CASE)
+---
+> 	@PropertyGetter(role 
+> = CASE)

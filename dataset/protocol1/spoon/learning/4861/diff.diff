@@ -1,0 +1,5 @@
+138c138,139
+< 	public Set<CtTypeReference<? extends Throwable>> getThrownTypes() {
+---
+> 	public 
+> Set<CtTypeReference<? extends Throwable>> getThrownTypes() {

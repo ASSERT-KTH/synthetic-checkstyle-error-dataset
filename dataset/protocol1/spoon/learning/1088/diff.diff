@@ -1,0 +1,4 @@
+52c52
+< 	public static Field[] getAllFields(Class<?> c) {
+---
+> 	public static Field[] getAllFields(Class<?> c ) {

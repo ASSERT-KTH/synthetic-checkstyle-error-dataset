@@ -1,0 +1,4 @@
+44c44
+< 	public <C extends CtTypeAccess<A>> C setAccessedType(CtTypeReference<A> accessedType) {
+---
+> 	public<C extends CtTypeAccess<A>> C setAccessedType(CtTypeReference<A> accessedType) {

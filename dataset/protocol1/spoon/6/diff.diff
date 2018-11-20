@@ -1,5 +1,0 @@
-24c24,25
-< 	private Check() {
----
-> 	private 
-> Check() {

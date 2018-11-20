@@ -1,0 +1,4 @@
+227c227
+< 		queryModel().filterChildren((CtTypeReference<?> typeRef) -> typeRef.equals(type))
+---
+> 		queryModel().filterChildren((CtTypeReference<?> typeRef) -> typeRef.	equals(type))

@@ -1,0 +1,4 @@
+43c43
+< 		return getMatchingElements(CtElement.class);
+---
+> 		return getMatchingElements(CtElement. class);

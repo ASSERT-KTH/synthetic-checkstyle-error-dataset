@@ -1,0 +1,4 @@
+66c66
+< 				+ "\nbody = " + getFragment(getBodyStart(), getBodyEnd());
+---
+> 				+ "\nbody = " +getFragment(getBodyStart(), getBodyEnd());

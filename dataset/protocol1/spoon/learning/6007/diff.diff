@@ -1,0 +1,4 @@
+61c61
+< 		this.rePattern = p;
+---
+> 		 this.rePattern = p;

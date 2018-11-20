@@ -1,0 +1,4 @@
+64c64
+< 		if (reference != null) {
+---
+> 		if (reference != null){

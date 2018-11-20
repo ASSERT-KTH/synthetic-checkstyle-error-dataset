@@ -1,0 +1,5 @@
+31c31,32
+< 	TobeMatched matchAllWith(TobeMatched targets);
+---
+> 	TobeMatched matchAllWith(TobeMatched targets)
+> ;

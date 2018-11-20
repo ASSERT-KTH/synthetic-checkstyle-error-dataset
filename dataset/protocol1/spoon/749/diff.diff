@@ -1,4 +1,0 @@
-40c40
-< 	public static void process(Factory factory, Collection<Processor<?>> processors) {
----
-> 	public static void process(Factory factory, Collection<Processor<?>> processors){

@@ -1,0 +1,5 @@
+27c27,28
+< 	public static final String VIRTUAL_FILE_NAME = "virtual_file";
+---
+> 	public static final String 
+> VIRTUAL_FILE_NAME = "virtual_file";

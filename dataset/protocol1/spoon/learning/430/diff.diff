@@ -1,0 +1,5 @@
+21c21,22
+< public class AstParentConsistencyChecker extends CtScanner {
+---
+> public class 
+> AstParentConsistencyChecker extends CtScanner {

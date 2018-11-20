@@ -1,0 +1,5 @@
+209c209,210
+< 		public <K, V> void onMapAdd(CtElement currentElement, CtRole role, Map<K, V> field, K key, CtElement newValue) {
+---
+> 		public <K, V> void onMapAdd(CtElement currentElement, CtRole role, 
+> Map<K, V> field, K key, CtElement newValue) {

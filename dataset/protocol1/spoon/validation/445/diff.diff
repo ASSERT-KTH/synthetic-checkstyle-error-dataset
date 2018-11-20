@@ -1,0 +1,5 @@
+138,139c138
+< 		public void mapEachResult(Function<T, T> consumer) {
+< 			for (ListIterator<T> iter = result.listIterator(); iter.hasNext();) {
+---
+> 		public void mapEachResult(Function<T, T> consumer) {			for (ListIterator<T> iter = result.listIterator(); iter.hasNext();) {

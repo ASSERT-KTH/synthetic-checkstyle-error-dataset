@@ -1,0 +1,4 @@
+43c43
+< 		return ((CtReturn<T>) b.getStatements().get(0)).getReturnedExpression();
+---
+> 		return ((CtReturn <T>) b.getStatements().get(0)).getReturnedExpression();

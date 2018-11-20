@@ -1,0 +1,4 @@
+66c66
+< 	CtEnumValue<?> getEnumValue(String name);
+---
+> 	CtEnumValue	<?> getEnumValue(String name);

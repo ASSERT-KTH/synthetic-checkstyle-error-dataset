@@ -1,0 +1,5 @@
+79c79,80
+< 			public X put(String key, X value) {
+---
+> 			public X put(String 
+> key, X value) {

@@ -1,0 +1,4 @@
+37c37
+< 	public <C extends CtArrayAccess<T, V>> C setIndexExpression(CtExpression<Integer> expression) {
+---
+> 	public <C extends CtArrayAccess<T, V>> C setIndexExpression(CtExpression<Integer	> expression) {

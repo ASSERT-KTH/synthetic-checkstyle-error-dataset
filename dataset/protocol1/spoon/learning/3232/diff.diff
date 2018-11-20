@@ -1,0 +1,4 @@
+487c487
+< 	public <C extends CtActualTypeContainer> C addActualTypeArgument(CtTypeReference<?> actualTypeArgument) {
+---
+> 	public <C extends CtActualTypeContainer> C addActualTypeArgument(CtTypeReference<? > actualTypeArgument) {

@@ -1,0 +1,4 @@
+50c50
+< 		CtStatementList l = targetType.getFactory().Core().createStatementList();
+---
+> 		CtStatementList l = targetType.getFactory().Core	().createStatementList();

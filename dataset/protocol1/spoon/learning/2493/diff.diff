@@ -1,0 +1,5 @@
+77c77,78
+< 	public boolean matches(CtElement element) {
+---
+> 	public boolean matches
+> (CtElement element) {

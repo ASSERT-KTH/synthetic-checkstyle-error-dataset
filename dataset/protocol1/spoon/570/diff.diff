@@ -1,5 +1,0 @@
-33c33,34
-< public abstract class BlockTemplate extends AbstractTemplate<CtBlock<?>> {
----
-> public 
-> abstract class BlockTemplate extends AbstractTemplate<CtBlock<?>> {

@@ -1,0 +1,4 @@
+64c64
+< 	protected void biScan(CtRole role, Collection<? extends CtElement> elements, Collection<? extends CtElement> others) {
+---
+> 	protected void biScan(CtRole role, Collection<? extends CtElement> elements, Collection<? extends CtElement	> others) {

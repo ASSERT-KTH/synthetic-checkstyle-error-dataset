@@ -1,0 +1,4 @@
+66c66
+< 				+ "\nmodifier = " + getFragment(getModifierSourceStart(), getModifierSourceEnd())
+---
+> 				+ "\nmodifier = " + getFragment(getModifierSourceStart(),getModifierSourceEnd())

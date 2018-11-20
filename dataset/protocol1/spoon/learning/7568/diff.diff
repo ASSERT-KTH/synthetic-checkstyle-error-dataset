@@ -1,0 +1,4 @@
+55c55
+< 	public void addAnnotation(CtAnnotation<Annotation> ctAnnotation) {
+---
+> 	public void addAnnotation(CtAnnotation<Annotation>ctAnnotation) {

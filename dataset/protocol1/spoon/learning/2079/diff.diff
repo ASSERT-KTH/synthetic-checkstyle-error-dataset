@@ -1,0 +1,4 @@
+35c35
+< 	CtVariableRead<T> clone();
+---
+> 	CtVariableRead< T> clone();

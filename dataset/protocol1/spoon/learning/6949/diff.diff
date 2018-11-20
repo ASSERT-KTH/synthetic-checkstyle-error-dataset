@@ -1,0 +1,4 @@
+94c94
+< 		parent.addMethod(clone);
+---
+> 		 parent.addMethod(clone);

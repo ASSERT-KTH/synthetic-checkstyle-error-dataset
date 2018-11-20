@@ -1,0 +1,4 @@
+25c25
+< public class DirectReferenceFilter<T extends CtReference> extends AbstractFilter<T> {
+---
+> public class DirectReferenceFilter<T extends CtReference> extends AbstractFilter<T	> {

@@ -1,0 +1,4 @@
+17c17
+< package spoon.reflect.path.impl;
+---
+>  package spoon.reflect.path.impl;

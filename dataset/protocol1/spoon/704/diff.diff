@@ -1,4 +1,0 @@
-75c75
-< 		return build(launcher -> launcher.getEnvironment().setNoClasspath(true), classesToBuild);
----
-> 		return build(launcher -> launcher.getEnvironment().setNoClasspath(	true), classesToBuild);

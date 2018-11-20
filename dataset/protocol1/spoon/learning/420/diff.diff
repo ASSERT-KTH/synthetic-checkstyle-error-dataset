@@ -1,0 +1,4 @@
+227c227
+< 			<T extends CtElement> List<T> insertFromLastStatement(List<T> statements, CtStatement target, CtStatementList statementsToBeInserted) {
+---
+> 			<T extends CtElement> List<T> insertFromLastStatement(List<T> statements, CtStatement target, CtStatementList statementsToBeInserted){

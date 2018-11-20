@@ -1,0 +1,4 @@
+49c49
+< 		final Collection<CtElement> elements = new ArrayList<>();
+---
+> 		final Collection<CtElement> elements =new ArrayList<>();

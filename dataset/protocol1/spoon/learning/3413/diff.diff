@@ -1,0 +1,5 @@
+202,203c202
+< 			this.jdtTreeBuilder.getLogger().debug(
+< 					format("Could not find declaration for variable %s at %s.",
+---
+> 			this.jdtTreeBuilder.getLogger().debug(					format("Could not find declaration for variable %s at %s.",

@@ -1,4 +1,0 @@
-27c27
-< import spoon.support.compiler.jdt.JDTBasedSpoonCompiler;
----
-> import spoon.support.compiler.	jdt.JDTBasedSpoonCompiler;

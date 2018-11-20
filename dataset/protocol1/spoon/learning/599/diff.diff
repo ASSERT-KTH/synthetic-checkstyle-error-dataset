@@ -1,0 +1,4 @@
+250c250
+< 		((spoon.reflect.code.CtUnaryOperator<T>) (other)).setKind(e.getKind());
+---
+> 		((spoon.reflect.code.CtUnaryOperator<T>) (other)).setKind(e.getKind	());

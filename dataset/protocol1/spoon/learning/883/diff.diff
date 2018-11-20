@@ -1,0 +1,4 @@
+34c34
+< 	SKIP_CHILDREN(true, false);
+---
+> 	SKIP_CHILDREN(true, false)	;

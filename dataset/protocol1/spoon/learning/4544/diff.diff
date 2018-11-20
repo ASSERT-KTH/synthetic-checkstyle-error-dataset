@@ -1,0 +1,5 @@
+661c661,662
+< 			CtExecutable<?> thisExecutable = (CtExecutable<?>) thisDeclarer;
+---
+> 			CtExecutable<?> thisExecutable = 
+> (CtExecutable<?>) thisDeclarer;

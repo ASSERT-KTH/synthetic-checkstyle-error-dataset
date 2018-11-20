@@ -1,5 +1,0 @@
-67c67,68
-< 			final CtType<?> expectedType = expectedTypes.get(i);
----
-> 			final 
-> CtType<?> expectedType = expectedTypes.get(i);

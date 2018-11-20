@@ -1,0 +1,4 @@
+324c324
+< 			opt2 = new FlaggedOption("destination");
+---
+> 			opt2 = new FlaggedOption("destination"	);

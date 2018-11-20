@@ -1,0 +1,5 @@
+22,23c22
+< import spoon.reflect.annotations.PropertySetter;
+< import spoon.template.TemplateParameter;
+---
+> import spoon.reflect.annotations.PropertySetter;import spoon.template.TemplateParameter;

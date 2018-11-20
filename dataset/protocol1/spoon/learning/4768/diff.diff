@@ -1,0 +1,4 @@
+46c46
+< 		if (isModifierKeyword(type, token)) {
+---
+> 		if (isModifierKeyword(type,token)) {

@@ -1,0 +1,4 @@
+67c67
+< 	public void addField(CtField<?> ctField) {
+---
+> 	public void addField(CtField	<?> ctField) {

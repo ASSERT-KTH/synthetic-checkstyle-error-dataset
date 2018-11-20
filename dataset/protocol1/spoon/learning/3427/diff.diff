@@ -1,0 +1,5 @@
+172,173c172
+< 	void setModelClass(CtClass<?> modelClass) {
+< 		this.modelClass = modelClass;
+---
+> 	void setModelClass(CtClass<?> modelClass) {		this.modelClass = modelClass;

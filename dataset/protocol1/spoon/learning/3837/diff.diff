@@ -1,0 +1,4 @@
+60c60
+< 		if (type.memberTypes() != null) {
+---
+> 		if (	type.memberTypes() != null) {

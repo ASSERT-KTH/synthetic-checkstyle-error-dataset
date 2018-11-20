@@ -1,0 +1,4 @@
+144c144
+< 			throw new AssertionError("assertSame violation");
+---
+> 			throw new AssertionError("assertSame violation"	);

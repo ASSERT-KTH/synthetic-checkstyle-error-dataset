@@ -1,0 +1,5 @@
+102,103c102
+< 		if (idx < 0) {
+< 			return list;
+---
+> 		if (idx < 0) {			return list;

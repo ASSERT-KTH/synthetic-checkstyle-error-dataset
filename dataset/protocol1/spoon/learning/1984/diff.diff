@@ -1,0 +1,5 @@
+506c506,507
+< 		return copyResources;
+---
+> 		
+> return copyResources;

@@ -1,0 +1,5 @@
+743c743,744
+< 			elementPrinterHelper.printList(ctEnum.getEnumValues(),
+---
+> 			elementPrinterHelper.printList(ctEnum.getEnumValues
+> (),

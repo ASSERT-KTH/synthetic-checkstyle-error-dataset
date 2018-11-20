@@ -1,0 +1,4 @@
+52c52
+< import spoon.reflect.code.CtOperatorAssignment;
+---
+> import spoon.reflect.code.CtOperatorAssignment ;

@@ -1,0 +1,4 @@
+161c161
+< 		((spoon.reflect.reference.CtFieldReference<T>) (other)).setFinal(e.isFinal());
+---
+> 		((spoon.reflect.reference.CtFieldReference<T>)(other)).setFinal(e.isFinal());

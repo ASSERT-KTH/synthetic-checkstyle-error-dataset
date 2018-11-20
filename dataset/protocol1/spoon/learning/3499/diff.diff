@@ -1,0 +1,5 @@
+95,96c95
+< 	public CtType<Object> getTypeDeclaration() {
+< 		return getFactory().Type().get(Object.class);
+---
+> 	public CtType<Object> getTypeDeclaration() {		return getFactory().Type().get(Object.class);

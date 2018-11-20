@@ -1,0 +1,4 @@
+80c80
+< 		if (type == null) {
+---
+> 		if (type ==null) {

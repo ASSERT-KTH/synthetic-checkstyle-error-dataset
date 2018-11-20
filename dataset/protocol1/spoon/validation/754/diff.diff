@@ -1,0 +1,5 @@
+57c57,58
+< 				&& (getOriginalSourceCode().charAt(cur) == ' ' || getOriginalSourceCode()
+---
+> 				&& (getOriginalSourceCode().charAt(cur) 
+> == ' ' || getOriginalSourceCode()

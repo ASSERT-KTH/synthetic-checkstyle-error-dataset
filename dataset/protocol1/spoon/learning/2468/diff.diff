@@ -1,0 +1,4 @@
+143c143
+< 		if (method.getParameters().isEmpty()) {
+---
+> 		if (method.getParameters().	isEmpty()) {

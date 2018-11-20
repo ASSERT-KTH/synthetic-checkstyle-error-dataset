@@ -1,0 +1,5 @@
+133c133,134
+< 		return new PatternPrinter().setPrintParametersAsComments(addParameterComments).printNode(modelValueResolver);
+---
+> 		return new PatternPrinter().setPrintParametersAsComments(addParameterComments).printNode
+> (modelValueResolver);

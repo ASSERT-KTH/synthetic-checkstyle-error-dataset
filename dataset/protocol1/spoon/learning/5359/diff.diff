@@ -1,0 +1,5 @@
+196,197c196
+< 			throw new SpoonException("There is no Node for element");
+< 		}
+---
+> 			throw new SpoonException("There is no Node for element");		}

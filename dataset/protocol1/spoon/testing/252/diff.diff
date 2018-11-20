@@ -1,0 +1,5 @@
+65c65,66
+< 	public void setComparator(Comparator<? super E> comparator) {
+---
+> 	public 
+> void setComparator(Comparator<? super E> comparator) {

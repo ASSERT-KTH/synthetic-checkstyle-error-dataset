@@ -1,0 +1,4 @@
+123c123
+< 		return (T) c.getMethod(i.getExecutable().getSimpleName(), argTypes.toArray(new Class[0]))
+---
+> 		return (T) c.getMethod(i.getExecutable().getSimpleName(), argTypes.toArray(new Class[0] ))

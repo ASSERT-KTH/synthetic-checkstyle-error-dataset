@@ -1,0 +1,4 @@
+49c49
+< 		} else if (this.localReference instanceof CtExecutableReference) {
+---
+> 		} else if(this.localReference instanceof CtExecutableReference) {

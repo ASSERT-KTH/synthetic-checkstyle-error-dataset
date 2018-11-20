@@ -1,0 +1,4 @@
+30c30
+< 	@MetamodelPropertyField(role = TARGET)
+---
+> 	@MetamodelPropertyField(role =TARGET)

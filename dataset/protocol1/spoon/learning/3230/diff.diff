@@ -1,0 +1,5 @@
+23,24c23
+< import spoon.reflect.factory.FactoryImpl;
+< import spoon.reflect.reference.CtReference;
+---
+> import spoon.reflect.factory.FactoryImpl;import spoon.reflect.reference.CtReference;

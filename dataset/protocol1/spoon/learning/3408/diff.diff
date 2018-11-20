@@ -1,0 +1,4 @@
+55c55
+< 	SourcePositionHolder getElement();
+---
+> 	SourcePositionHolder getElement ();

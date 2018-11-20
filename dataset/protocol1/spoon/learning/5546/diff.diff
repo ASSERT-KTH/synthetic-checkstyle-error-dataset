@@ -1,0 +1,4 @@
+43c43
+< 	<C extends CtIntersectionTypeReference> C setBounds(List<CtTypeReference<?>> bounds);
+---
+> 	<C extends CtIntersectionTypeReference> C setBounds(List<CtTypeReference <?>> bounds);

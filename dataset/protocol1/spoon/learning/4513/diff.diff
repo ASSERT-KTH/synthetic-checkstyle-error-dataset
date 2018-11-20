@@ -1,0 +1,4 @@
+38c38
+< public interface CtAssignment<T, A extends T> extends CtStatement, CtExpression<T>, CtRHSReceiver<A> {
+---
+> public interface CtAssignment<T, A extends T> extends CtStatement, CtExpression<T>, CtRHSReceiver<A	> {

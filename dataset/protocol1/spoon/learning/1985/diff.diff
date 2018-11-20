@@ -1,0 +1,4 @@
+1598c1598
+< 	public void visitCtTypeParameter(spoon.reflect.declaration.CtTypeParameter typeParameter) {
+---
+> 	public void visitCtTypeParameter(spoon.reflect.declaration.CtTypeParameter typeParameter){

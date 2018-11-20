@@ -1,0 +1,4 @@
+325c325
+< 				throw new SpoonException("Declaring type of executable is not same like scope of classTypingContext provided for method typing context");
+---
+> 				throw new SpoonException ("Declaring type of executable is not same like scope of classTypingContext provided for method typing context");

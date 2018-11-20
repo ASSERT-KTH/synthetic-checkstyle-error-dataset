@@ -1,0 +1,4 @@
+59c59
+< 		this.listener.onTokenWriterWrite(TokenType.OPERATOR, token, null, () -> delegate.writeOperator(token));
+---
+> 		this.listener.onTokenWriterWrite(TokenType.OPERATOR, token, null	, () -> delegate.writeOperator(token));

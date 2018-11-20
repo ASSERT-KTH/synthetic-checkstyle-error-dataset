@@ -1,0 +1,4 @@
+197c197
+< 			} else if (isSpaceFragment(fragment) && canPrintSpace) {
+---
+> 			} else if (	isSpaceFragment(fragment) && canPrintSpace) {

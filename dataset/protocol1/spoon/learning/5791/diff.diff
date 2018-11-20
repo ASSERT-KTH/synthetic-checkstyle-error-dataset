@@ -1,0 +1,4 @@
+89c89
+< 	<T extends CtModifiable> T setModifiers(Set<ModifierKind> modifiers);
+---
+> 	<	T extends CtModifiable> T setModifiers(Set<ModifierKind> modifiers);

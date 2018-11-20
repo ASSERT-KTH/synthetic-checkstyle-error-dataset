@@ -1,0 +1,4 @@
+19c19
+< import spoon.pattern.Generator;
+---
+> import spoon.pattern.	Generator;

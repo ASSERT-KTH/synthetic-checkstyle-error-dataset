@@ -1,0 +1,4 @@
+154c154
+< 						throw new CtPathException("Unexpected end of bracket " + token);
+---
+> 						throw new CtPathException(	"Unexpected end of bracket " + token);

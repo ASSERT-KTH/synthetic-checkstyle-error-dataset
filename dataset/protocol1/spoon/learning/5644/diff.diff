@@ -1,0 +1,4 @@
+204c204
+< 				ifStmt.setCondition(generator.generateSingleTarget(vrOfExpression, parameters, CtExpression.class));
+---
+> 				ifStmt.setCondition(generator.generateSingleTarget(vrOfExpression, parameters, CtExpression. class));

@@ -1,0 +1,5 @@
+90,91c90
+< 	protected AnnotatedElement getActualAnnotatedElement() {
+< 		return (AnnotatedElement) getActualField();
+---
+> 	protected AnnotatedElement getActualAnnotatedElement() {		return (AnnotatedElement) getActualField();

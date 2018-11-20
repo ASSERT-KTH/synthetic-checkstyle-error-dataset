@@ -1,0 +1,4 @@
+41c41
+< public abstract class ModelSet<T extends CtElement> extends AbstractSet<T> implements Serializable {
+---
+> public abstract class ModelSet<T extends CtElement> extends AbstractSet<T> implements Serializable{

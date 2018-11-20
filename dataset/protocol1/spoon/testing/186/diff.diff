@@ -1,0 +1,4 @@
+36c36
+< 	JDTBuilder annotationProcessingOptions(AnnotationProcessingOptions<?> options);
+---
+> 	JDTBuilder annotationProcessingOptions(	AnnotationProcessingOptions<?> options);

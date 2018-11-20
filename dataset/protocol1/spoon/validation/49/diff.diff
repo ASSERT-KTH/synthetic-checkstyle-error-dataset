@@ -1,0 +1,4 @@
+122c122
+< 		if (nrOfMatches >= 0) {
+---
+> 		if (nrOfMatches >= 0){

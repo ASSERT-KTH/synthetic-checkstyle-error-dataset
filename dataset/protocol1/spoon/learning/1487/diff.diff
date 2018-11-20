@@ -1,0 +1,4 @@
+72c72
+< 	@PropertySetter(role = CtRole.MODULE_REF)
+---
+> 	@PropertySetter(	role = CtRole.MODULE_REF)

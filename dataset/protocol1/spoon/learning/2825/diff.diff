@@ -1,0 +1,4 @@
+37c37
+< 	default ElementSourceFragment getOriginalSourceFragment() {
+---
+> 	default ElementSourceFragment getOriginalSourceFragment	() {

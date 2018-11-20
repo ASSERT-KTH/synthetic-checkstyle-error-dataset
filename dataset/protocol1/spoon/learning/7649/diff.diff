@@ -1,0 +1,5 @@
+115,116c115
+< 	public boolean hasModifier(ModifierKind modifier) {
+< 		return getModifiers().contains(modifier);
+---
+> 	public boolean hasModifier(ModifierKind modifier) {		return getModifiers().contains(modifier);

@@ -1,0 +1,5 @@
+29,30c29
+< import spoon.reflect.visitor.chain.CtQueryable;
+< import spoon.support.DerivedProperty;
+---
+> import spoon.reflect.visitor.chain.CtQueryable;import spoon.support.DerivedProperty;

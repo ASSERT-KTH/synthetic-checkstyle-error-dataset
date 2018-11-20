@@ -1,0 +1,4 @@
+105c105
+< 				if (reference.getDeclaration() != clone) {
+---
+> 				if ( reference.getDeclaration() != clone) {

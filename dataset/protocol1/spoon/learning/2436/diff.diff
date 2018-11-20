@@ -1,0 +1,5 @@
+27,28c27
+< 	public ASTPair(CtElement element, ASTNode node) {
+< 		this.element = element;
+---
+> 	public ASTPair(CtElement element, ASTNode node) {		this.element = element;

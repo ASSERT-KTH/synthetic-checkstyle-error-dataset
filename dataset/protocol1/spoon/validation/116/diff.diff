@@ -1,0 +1,5 @@
+137,138c137
+< 	public static void canBeBuilt(File outputDirectoryFile, int complianceLevel, boolean noClasspath) {
+< 		final Launcher launcher = new Launcher();
+---
+> 	public static void canBeBuilt(File outputDirectoryFile, int complianceLevel, boolean noClasspath) {		final Launcher launcher = new Launcher();

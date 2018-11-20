@@ -1,0 +1,4 @@
+54c54
+< 	@MetamodelPropertyField(role = CtRole.IS_INFERRED)
+---
+> 	@MetamodelPropertyField(role= CtRole.IS_INFERRED)

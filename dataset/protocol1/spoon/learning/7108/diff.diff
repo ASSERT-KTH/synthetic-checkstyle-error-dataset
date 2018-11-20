@@ -1,0 +1,5 @@
+97,98c97
+< 			public <T> void visitCtExecutableReference(CtExecutableReference<T> reference) {
+< 				CtExecutable<T> declaration = reference.getDeclaration();
+---
+> 			public <T> void visitCtExecutableReference(CtExecutableReference<T> reference) {				CtExecutable<T> declaration = reference.getDeclaration();

@@ -1,0 +1,5 @@
+383,384c383
+< 			if (exec.returnType instanceof VoidTypeBinding) {
+< 				ref.setType(getTypeReference(exec.declaringClass, true));
+---
+> 			if (exec.returnType instanceof VoidTypeBinding) {				ref.setType(getTypeReference(exec.declaringClass, true));

@@ -1,0 +1,5 @@
+85c85,86
+< 	protected SpoonFolder templates = new VirtualFolder();
+---
+> 	protected SpoonFolder templates = 
+> new VirtualFolder();

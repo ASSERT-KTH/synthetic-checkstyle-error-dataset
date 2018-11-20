@@ -1,0 +1,4 @@
+52c52
+< 	protected void printOriginSpacesUntilFragmentIndex(int index) {
+---
+> 	protected void printOriginSpacesUntilFragmentIndex(int index ) {

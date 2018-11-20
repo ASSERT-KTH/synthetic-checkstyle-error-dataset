@@ -1,0 +1,4 @@
+953c953
+< 		ref.setStatic((varbin.modifiers & ClassFileConstants.AccStatic) != 0);
+---
+> 		ref.setStatic((	varbin.modifiers & ClassFileConstants.AccStatic) != 0);

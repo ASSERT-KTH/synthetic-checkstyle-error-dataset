@@ -1,0 +1,5 @@
+129,130c129
+< 	public boolean removeParameter(CtParameter<?> parameter) {
+< 		if (parameters == CtElementImpl.<CtParameter<?>>emptyList()) {
+---
+> 	public boolean removeParameter(CtParameter<?> parameter) {		if (parameters == CtElementImpl.<CtParameter<?>>emptyList()) {

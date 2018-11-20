@@ -1,0 +1,4 @@
+43c43
+< 		ctVariable.addAnnotation(ctAnnotation);
+---
+> 		ctVariable.addAnnotation (ctAnnotation);

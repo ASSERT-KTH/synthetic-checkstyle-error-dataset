@@ -1,0 +1,4 @@
+34c34
+< 		if (processors == null || processors.length == 0) {
+---
+> 		if(processors == null || processors.length == 0) {

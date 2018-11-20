@@ -1,0 +1,4 @@
+168c168
+< 	<I> CtQuery map(CtConsumableFunction<I> queryStep);
+---
+> 	<I	> CtQuery map(CtConsumableFunction<I> queryStep);

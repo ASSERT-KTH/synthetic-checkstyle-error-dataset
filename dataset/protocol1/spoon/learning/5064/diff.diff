@@ -1,0 +1,4 @@
+40c40
+< 			if (o1 instanceof CtTypeInformation && o2 instanceof CtTypeInformation) {
+---
+> 			if(o1 instanceof CtTypeInformation && o2 instanceof CtTypeInformation) {

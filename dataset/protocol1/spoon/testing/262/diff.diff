@@ -1,0 +1,5 @@
+35,36c35
+< 		} else {
+< 			return (type.isAssignableFrom(result.getClass())) ? result : null;
+---
+> 		} else {			return (type.isAssignableFrom(result.getClass())) ? result : null;

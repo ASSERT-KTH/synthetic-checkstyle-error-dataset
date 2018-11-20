@@ -1,0 +1,4 @@
+60c60
+< 			.map(new CtScannerFunction().setListener(this.listener))
+---
+> 			.map(new CtScannerFunction().setListener(this.	listener))

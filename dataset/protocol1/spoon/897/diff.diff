@@ -1,5 +1,0 @@
-48,49c48
-< 	public CtBlock<R> getSubstitution(CtType<?> targetType) {
-< 		CtClass<?> c;
----
-> 	public CtBlock<R> getSubstitution(CtType<?> targetType) {		CtClass<?> c;

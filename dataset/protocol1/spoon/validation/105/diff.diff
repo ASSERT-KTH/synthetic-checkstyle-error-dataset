@@ -1,0 +1,4 @@
+40c40
+< 		for (String entry : classpath) {
+---
+> 		for (	String entry : classpath) {

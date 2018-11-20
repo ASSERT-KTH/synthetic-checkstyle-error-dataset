@@ -1,4 +1,0 @@
-53c53
-< 	public T isEqualTo(File expected) {
----
-> 	 public T isEqualTo(File expected) {

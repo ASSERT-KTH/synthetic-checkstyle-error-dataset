@@ -1,0 +1,4 @@
+309c309
+< 						if (name.toUpperCase().equals(name)) {
+---
+> 						if (name.toUpperCase().equals(name)	) {

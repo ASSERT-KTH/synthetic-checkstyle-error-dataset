@@ -1,4 +1,0 @@
-61c61
-< 		if (!actual.toString().equals(expected)) {
----
-> 		if (!actual.toString().equals(expected)	) {

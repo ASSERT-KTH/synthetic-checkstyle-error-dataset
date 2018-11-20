@@ -1,5 +1,0 @@
-572c572,573
-< 		targetType.addField(field);
----
-> 		targetType.addField
-> (field);

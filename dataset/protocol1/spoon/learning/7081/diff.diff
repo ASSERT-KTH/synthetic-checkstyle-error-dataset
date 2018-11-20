@@ -1,0 +1,5 @@
+36c36,37
+< 	CtFieldRead<T> clone();
+---
+> 	CtFieldRead<T> 
+> clone();

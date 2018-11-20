@@ -1,0 +1,4 @@
+37c37
+< 	CtCatchVariable<? extends Throwable> getParameter();
+---
+> 	CtCatchVariable<? extends Throwable> getParameter() ;

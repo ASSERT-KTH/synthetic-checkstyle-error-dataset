@@ -1,0 +1,4 @@
+58c58
+< import spoon.support.visitor.ClassTypingContext;
+---
+> import spoon.support.visitor. ClassTypingContext;

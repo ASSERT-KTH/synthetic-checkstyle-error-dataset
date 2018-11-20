@@ -1,0 +1,4 @@
+109c109
+< 		String classPathSeparator = System.getProperty("path.separator", ":");
+---
+> 		String classPathSeparator = System.getProperty("path.separator"	, ":");

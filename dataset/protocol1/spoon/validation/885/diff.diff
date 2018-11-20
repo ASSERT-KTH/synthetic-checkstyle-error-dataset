@@ -1,0 +1,5 @@
+47,48c47
+< 	public void accept(CtVisitor v) {
+< 		v.visitCtAnnotationMethod(this);
+---
+> 	public void accept(CtVisitor v) {		v.visitCtAnnotationMethod(this);

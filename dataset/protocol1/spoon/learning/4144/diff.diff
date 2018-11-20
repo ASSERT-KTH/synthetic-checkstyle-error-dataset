@@ -1,0 +1,5 @@
+156c156,157
+< 	public Collection<CtMethod<Void>> getMainMethods() {
+---
+> 	public Collection<CtMethod<Void>> getMainMethods
+> () {

@@ -1,0 +1,4 @@
+83c83
+< 	CtEnum<T> clone();
+---
+> 	CtEnum<T> clone ();

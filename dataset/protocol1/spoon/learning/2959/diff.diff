@@ -1,0 +1,5 @@
+275,276c275
+< 		public Class<?> loadClass(String s) throws ClassNotFoundException {
+< 			try {
+---
+> 		public Class<?> loadClass(String s) throws ClassNotFoundException {			try {

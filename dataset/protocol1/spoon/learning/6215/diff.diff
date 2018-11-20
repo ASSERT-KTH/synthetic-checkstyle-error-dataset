@@ -1,0 +1,5 @@
+585c585,586
+< 		return qualifiedName.substring(0, hasInnerType(qualifiedName));
+---
+> 		
+> return qualifiedName.substring(0, hasInnerType(qualifiedName));

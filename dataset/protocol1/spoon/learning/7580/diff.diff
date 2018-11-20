@@ -1,0 +1,4 @@
+23c23
+< public class CtThisAccessImpl<T> extends CtTargetedExpressionImpl<T, CtExpression<?>> implements CtThisAccess<T> {
+---
+> public class CtThisAccessImpl<T> extends CtTargetedExpressionImpl<T,CtExpression<?>> implements CtThisAccess<T> {

@@ -1,0 +1,4 @@
+154c154
+< 					final CtTypeReference<?> typeRef = (CtTypeReference<?>) element;
+---
+> 					final CtTypeReference<?> typeRef = (CtTypeReference<? >) element;

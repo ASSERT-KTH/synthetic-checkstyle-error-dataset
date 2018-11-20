@@ -1,0 +1,5 @@
+185c185,186
+< 			oldFactory.getModel().setBuildModelIsFinished(false);
+---
+> 			oldFactory.getModel().setBuildModelIsFinished
+> (false);

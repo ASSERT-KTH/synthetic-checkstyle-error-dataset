@@ -1,0 +1,4 @@
+160c160
+< 	private JTable getJTable() {
+---
+> 	private JTable getJTable(){

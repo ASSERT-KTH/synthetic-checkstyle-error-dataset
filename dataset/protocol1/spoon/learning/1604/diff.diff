@@ -1,0 +1,4 @@
+37c37
+< 			for (CategorizedProblem problem : result.problems) {
+---
+> 			for(CategorizedProblem problem : result.problems) {

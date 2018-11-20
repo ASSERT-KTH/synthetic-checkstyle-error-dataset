@@ -1,0 +1,4 @@
+292c292
+< 	public Set<MMMethod> getMethods() {
+---
+> 	public Set<MMMethod> getMethods	() {

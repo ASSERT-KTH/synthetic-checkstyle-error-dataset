@@ -1,0 +1,4 @@
+175c175
+< 				(getGraphicsConfiguration().getDevice().getDisplayMode().getHeight() - getHeight()) / 2);
+---
+> 				(getGraphicsConfiguration().getDevice	().getDisplayMode().getHeight() - getHeight()) / 2);

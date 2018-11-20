@@ -1,0 +1,4 @@
+50c50
+< 	void onListDelete(CtElement currentElement, CtRole role, List field, int index, CtElement oldValue);
+---
+> 	void onListDelete(CtElement currentElement, CtRole role, List field, int index	, CtElement oldValue);

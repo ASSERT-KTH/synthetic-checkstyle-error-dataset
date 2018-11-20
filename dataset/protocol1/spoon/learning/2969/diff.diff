@@ -1,0 +1,5 @@
+213,214c213
+< 	public CtMethod<T> clone() {
+< 		return (CtMethod<T>) super.clone();
+---
+> 	public CtMethod<T> clone() {		return (CtMethod<T>) super.clone();

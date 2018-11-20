@@ -1,0 +1,5 @@
+49c49,50
+< 	CtArrayAccess<T, E> clone();
+---
+> 	CtArrayAccess<T, E> clone()
+> ;

@@ -1,0 +1,5 @@
+26c26,27
+< 	void accept(CtVisitor visitor);
+---
+> 	
+> void accept(CtVisitor visitor);

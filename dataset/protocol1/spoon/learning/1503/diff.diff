@@ -1,0 +1,4 @@
+63c63
+< 	boolean removeCatcher(CtCatch catcher);
+---
+> 	boolean removeCatcher (CtCatch catcher);

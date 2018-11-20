@@ -1,0 +1,4 @@
+58c58
+< 	public <T extends CtSwitch<S>> T setCases(List<CtCase<? super S>> cases) {
+---
+> 	public <T extends CtSwitch<S>> T setCases(List<CtCase<? super S	>> cases) {

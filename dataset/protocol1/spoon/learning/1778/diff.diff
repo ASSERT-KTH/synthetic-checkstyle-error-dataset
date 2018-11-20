@@ -1,0 +1,4 @@
+51c51
+< 	GenericTypeAdapter getEnclosingGenericTypeAdapter();
+---
+> 	GenericTypeAdapter getEnclosingGenericTypeAdapter() ;

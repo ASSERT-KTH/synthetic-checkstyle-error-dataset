@@ -1,0 +1,4 @@
+276c276
+< 		final String output = getFactory()
+---
+> 		final String output= getFactory()

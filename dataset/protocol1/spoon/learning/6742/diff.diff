@@ -1,0 +1,4 @@
+45c45
+< 		Matcher m = regex.matcher(element.toString());
+---
+> 		Matcher m = regex.matcher(element.toString() );

@@ -1,0 +1,5 @@
+956c956,957
+< 	CtPackage createPackage(CtPackage parent, String simpleName);
+---
+> 	CtPackage createPackage
+> (CtPackage parent, String simpleName);

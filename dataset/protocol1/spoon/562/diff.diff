@@ -1,4 +1,0 @@
-54c54
-< 		return statements.get(0);
----
-> 		return statements.get(0 );

@@ -1,0 +1,5 @@
+143c143,144
+< 			for (Field f : RtHelper.getAllFields(template.getClass())) {
+---
+> 			for (Field f : RtHelper.getAllFields(template.getClass
+> ())) {

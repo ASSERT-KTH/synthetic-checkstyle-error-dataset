@@ -1,0 +1,4 @@
+87c87
+< 			if (ignoredParent != null && element != null && element.hasParent(ignoredParent)) {
+---
+> 			if (ignoredParent !=null && element != null && element.hasParent(ignoredParent)) {

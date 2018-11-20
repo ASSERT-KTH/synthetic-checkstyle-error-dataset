@@ -1,0 +1,4 @@
+40c40
+< 	boolean isUpper();
+---
+> 	boolean isUpper()	;

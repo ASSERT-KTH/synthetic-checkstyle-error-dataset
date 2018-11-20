@@ -1,0 +1,4 @@
+42c42
+< 	String printModuleInfo(CtModule module);
+---
+> 	String printModuleInfo(CtModule module)	;

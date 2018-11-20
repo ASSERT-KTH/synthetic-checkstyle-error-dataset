@@ -1,0 +1,4 @@
+49c49
+< 		CtClass<?> c;
+---
+> 		CtClass<	?> c;

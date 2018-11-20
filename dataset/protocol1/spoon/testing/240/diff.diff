@@ -1,0 +1,5 @@
+39,40c39
+< 				if (!hasMatch(f, element)) {
+< 					return false;
+---
+> 				if (!hasMatch(f, element)) {					return false;

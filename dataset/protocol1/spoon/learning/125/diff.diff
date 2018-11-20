@@ -1,0 +1,4 @@
+120c120
+< 	SERVICE_TYPE(MODULE_DIRECTIVE, obj -> obj instanceof CtUsedService),
+---
+> 	SERVICE_TYPE(	MODULE_DIRECTIVE, obj -> obj instanceof CtUsedService),

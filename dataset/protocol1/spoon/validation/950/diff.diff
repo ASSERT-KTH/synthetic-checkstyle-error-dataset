@@ -1,0 +1,4 @@
+25c25
+< public class CtPackageDeclarationImpl extends CtElementImpl implements CtPackageDeclaration {
+---
+> public class CtPackageDeclarationImpl extends CtElementImpl implements CtPackageDeclaration{

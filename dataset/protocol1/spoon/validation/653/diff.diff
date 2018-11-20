@@ -1,0 +1,4 @@
+44c44
+< 	public <C extends CtVariableAccess<T>> C setVariable(CtVariableReference<T> variable) {
+---
+> 	public <C extends CtVariableAccess<T>> C setVariable(CtVariableReference<	T> variable) {

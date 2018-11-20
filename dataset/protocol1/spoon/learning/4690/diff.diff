@@ -1,0 +1,5 @@
+221c221,222
+< 	public RootNode getOrCreateNodeOfRole(CtRole role, Map<CtElement, RootNode> patternElementToSubstRequests) {
+---
+> 	public RootNode getOrCreateNodeOfRole(CtRole role, Map<CtElement
+> , RootNode> patternElementToSubstRequests) {

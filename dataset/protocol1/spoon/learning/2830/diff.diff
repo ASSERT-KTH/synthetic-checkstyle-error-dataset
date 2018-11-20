@@ -1,0 +1,4 @@
+30c30
+< public class ParentNotInitializedException extends SpoonException {
+---
+>  public class ParentNotInitializedException extends SpoonException {

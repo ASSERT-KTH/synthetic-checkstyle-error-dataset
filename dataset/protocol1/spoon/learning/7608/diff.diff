@@ -1,0 +1,4 @@
+36c36
+< 	public void addTransformers(Collection<TypeTransformer> transformers) {
+---
+> 	public void addTransformers(Collection<TypeTransformer>transformers) {

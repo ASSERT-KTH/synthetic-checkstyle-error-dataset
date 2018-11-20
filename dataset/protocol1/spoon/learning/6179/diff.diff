@@ -1,0 +1,4 @@
+1029c1029
+< 		public void set(spoon.reflect.reference.CtTypeReference replace) {
+---
+> 		 public void set(spoon.reflect.reference.CtTypeReference replace) {

@@ -1,0 +1,4 @@
+49c49
+< 	Set<RequiresModifier> getRequiresModifiers();
+---
+> 	Set	<RequiresModifier> getRequiresModifiers();

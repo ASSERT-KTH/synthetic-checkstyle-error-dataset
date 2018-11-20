@@ -1,0 +1,4 @@
+110c110
+< 			} else if (value instanceof CtReference) {
+---
+> 			} else if (value instanceof CtReference){

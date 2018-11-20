@@ -1,0 +1,4 @@
+509c509
+< 			outputDirectory = outputDirectory.getCanonicalFile();
+---
+> 			outputDirectory= outputDirectory.getCanonicalFile();

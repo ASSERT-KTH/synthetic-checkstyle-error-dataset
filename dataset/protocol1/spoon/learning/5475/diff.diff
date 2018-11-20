@@ -1,0 +1,4 @@
+445c445
+< 					if (comment.getPosition().getSourceStart() > thenPosition.getSourceEnd() && comment.getPosition().getSourceEnd() < elsePosition.getSourceStart()) {
+---
+> 					if (comment.getPosition().getSourceStart() > thenPosition.getSourceEnd()&& comment.getPosition().getSourceEnd() < elsePosition.getSourceStart()) {

@@ -1,0 +1,4 @@
+225c225
+< 		throw new SpoonException("There is no sub role of CtRole." + name() + " for item class " + item.getClass());
+---
+> 		throw new SpoonException("There is no sub role of CtRole." + name() +" for item class " + item.getClass());

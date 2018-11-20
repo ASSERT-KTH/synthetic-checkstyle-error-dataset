@@ -1,0 +1,5 @@
+183c183,184
+< 			valueOfMethod.setParent(this);
+---
+> 			valueOfMethod.setParent(this)
+> ;

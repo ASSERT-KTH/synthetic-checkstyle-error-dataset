@@ -1,0 +1,4 @@
+59c59
+< 	public abstract void mapEachResult(Function<T, T> consumer);
+---
+> 	public abstract void mapEachResult(Function<T, T	> consumer);

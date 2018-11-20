@@ -1,0 +1,5 @@
+40c40,41
+< 	public CtExpression<R> getReturnedExpression() {
+---
+> 	
+> public CtExpression<R> getReturnedExpression() {

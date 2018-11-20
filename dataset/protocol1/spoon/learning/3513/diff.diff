@@ -1,0 +1,5 @@
+192,193c192
+< 		} else if (typeParamDeclarer instanceof CtConstructor<?>) {
+< 			if ((scopeMethod instanceof CtConstructor<?>) == false) {
+---
+> 		} else if (typeParamDeclarer instanceof CtConstructor<?>) {			if ((scopeMethod instanceof CtConstructor<?>) == false) {

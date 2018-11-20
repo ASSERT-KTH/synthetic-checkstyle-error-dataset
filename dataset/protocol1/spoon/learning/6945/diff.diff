@@ -1,0 +1,4 @@
+35c35
+< public interface CtVariableAccess<T> extends CtExpression<T> {
+---
+> public interface CtVariableAccess<T>extends CtExpression<T> {

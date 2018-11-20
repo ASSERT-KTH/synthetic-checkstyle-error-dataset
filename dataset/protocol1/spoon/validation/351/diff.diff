@@ -1,0 +1,4 @@
+39c39
+< 	@PropertyGetter(role = CtRole.IS_UPPER)
+---
+> 	@PropertyGetter(role = CtRole. IS_UPPER)

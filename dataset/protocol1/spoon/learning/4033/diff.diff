@@ -1,0 +1,4 @@
+99c99
+< 				pathElement = new CtTypedNameElement(load(token));
+---
+> 				pathElement = new CtTypedNameElement	(load(token));

@@ -1,0 +1,4 @@
+55c55
+< 		return bootclasspath(join(File.pathSeparator, bootclasspaths));
+---
+> 		return bootclasspath(join(File.pathSeparator, bootclasspaths ));

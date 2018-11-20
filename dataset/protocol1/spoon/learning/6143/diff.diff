@@ -1,0 +1,4 @@
+397c397
+< 		final CtTypeReference<T> declaringRef = jdtTreeBuilder.getReferencesBuilder().getTypeReference(declaringType);
+---
+> 		final CtTypeReference<T>declaringRef = jdtTreeBuilder.getReferencesBuilder().getTypeReference(declaringType);

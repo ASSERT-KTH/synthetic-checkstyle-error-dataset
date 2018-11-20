@@ -1,0 +1,4 @@
+62c62
+< 				if (statement.getLabel() != null && statement.getLabel().equals(this.getTargetLabel())) {
+---
+> 				if (statement.getLabel() != null&& statement.getLabel().equals(this.getTargetLabel())) {

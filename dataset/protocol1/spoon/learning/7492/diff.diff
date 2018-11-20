@@ -1,0 +1,5 @@
+45c45,46
+< 	CtVariableReference<T> getReference();
+---
+> 	
+> CtVariableReference<T> getReference();

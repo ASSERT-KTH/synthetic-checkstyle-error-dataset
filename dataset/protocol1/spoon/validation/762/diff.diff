@@ -1,0 +1,4 @@
+123c123
+< 			} else if (value instanceof Enum) {
+---
+> 			 } else if (value instanceof Enum) {

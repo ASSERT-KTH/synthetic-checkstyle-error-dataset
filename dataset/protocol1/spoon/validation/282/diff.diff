@@ -1,0 +1,5 @@
+40,41c40
+< import spoon.reflect.reference.CtArrayTypeReference;
+< import spoon.reflect.reference.CtFieldReference;
+---
+> import spoon.reflect.reference.CtArrayTypeReference;import spoon.reflect.reference.CtFieldReference;

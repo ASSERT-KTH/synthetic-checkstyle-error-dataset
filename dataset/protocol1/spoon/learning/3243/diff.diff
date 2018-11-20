@@ -1,0 +1,4 @@
+76c76
+< 				methodNames.add(((CtMethod<?>) executable).getSimpleName());
+---
+> 				methodNames.add(((CtMethod<? >) executable).getSimpleName());

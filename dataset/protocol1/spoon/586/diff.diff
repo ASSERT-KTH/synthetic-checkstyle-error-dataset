@@ -1,5 +1,0 @@
-106c106,107
-< 		this(mavenProject, sourceType, mvnHome, false);
----
-> 		this(mavenProject, sourceType, mvnHome, false)
-> ;

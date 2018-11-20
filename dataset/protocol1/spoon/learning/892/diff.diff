@@ -1,0 +1,4 @@
+63c63
+< 		this.content = content;
+---
+> 		this.content= content;

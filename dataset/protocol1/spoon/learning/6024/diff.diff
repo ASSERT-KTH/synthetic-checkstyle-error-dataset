@@ -1,0 +1,4 @@
+231c231
+< 					copy.add(indexOfTargetElement, (T) statementsToBeInserted.getStatements().get(j));
+---
+> 					copy.	add(indexOfTargetElement, (T) statementsToBeInserted.getStatements().get(j));

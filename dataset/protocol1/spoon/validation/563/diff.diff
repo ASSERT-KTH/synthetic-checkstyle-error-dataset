@@ -1,0 +1,4 @@
+36c36
+< 		if (classpath == null || classpath.length == 0) {
+---
+> 		if (classpath == null || classpath.length == 0){

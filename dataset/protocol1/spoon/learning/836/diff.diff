@@ -1,0 +1,4 @@
+115c115
+< 	public <C extends CtEnum<T>> C setEnumValues(List<CtEnumValue<?>> enumValues) {
+---
+> 	public <C extends CtEnum<T>>C setEnumValues(List<CtEnumValue<?>> enumValues) {

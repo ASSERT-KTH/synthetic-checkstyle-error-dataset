@@ -1,0 +1,4 @@
+183c183
+< 	void setModelInterface(CtInterface<?> modelInterface) {
+---
+> 	void setModelInterface(CtInterface<?> modelInterface	) {

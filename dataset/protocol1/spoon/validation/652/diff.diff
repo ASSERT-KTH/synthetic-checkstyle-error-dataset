@@ -1,0 +1,4 @@
+39c39
+< 		return classpath(join(File.pathSeparator, classpaths));
+---
+> 		return classpath	(join(File.pathSeparator, classpaths));

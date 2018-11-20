@@ -1,0 +1,5 @@
+268,269c268
+< 	private void scanInternal(CtRole role, CtElement element, SourceFragment fragment, Boolean isFragmentModified) {
+< 		if (mutableTokenWriter.isMuted()) {
+---
+> 	private void scanInternal(CtRole role, CtElement element, SourceFragment fragment, Boolean isFragmentModified) {		if (mutableTokenWriter.isMuted()) {

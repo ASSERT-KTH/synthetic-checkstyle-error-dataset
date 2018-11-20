@@ -1,0 +1,4 @@
+96c96
+< 	public List<CtAnnotation<? extends Annotation>> getAnnotations() {
+---
+> 	public List<CtAnnotation<? extends Annotation>>getAnnotations() {

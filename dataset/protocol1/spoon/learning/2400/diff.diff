@@ -1,0 +1,4 @@
+155c155
+< 		forEach.setExpression(generator.generateSingleTarget(iterableParameter, parameters, CtExpression.class));
+---
+> 		forEach.setExpression(generator.generateSingleTarget(iterableParameter, parameters, CtExpression.class))	;

@@ -1,0 +1,5 @@
+47c47,48
+< 	<T extends CtDo> T setLoopingExpression(CtExpression<Boolean> expression);
+---
+> 	
+> <T extends CtDo> T setLoopingExpression(CtExpression<Boolean> expression);

@@ -1,0 +1,5 @@
+53c53,54
+< 	<T1 extends CtBodyHolder> T1 setBody(CtStatement body);
+---
+> 	<T1 extends CtBodyHolder> 
+> T1 setBody(CtStatement body);

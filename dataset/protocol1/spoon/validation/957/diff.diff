@@ -1,0 +1,4 @@
+72c72
+< 	public <T> T getMatchingElement(Class<T> clazz) {
+---
+> 	public <T> T getMatchingElement(Class <T> clazz) {

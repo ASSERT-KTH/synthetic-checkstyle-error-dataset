@@ -1,0 +1,4 @@
+24c24
+< public class CtPathException extends SpoonException {
+---
+> public class CtPathException extends SpoonException{

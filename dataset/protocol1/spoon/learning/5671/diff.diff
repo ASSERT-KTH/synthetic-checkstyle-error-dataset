@@ -1,0 +1,4 @@
+74c74
+< 	public <C extends CtType<T>> C setSuperInterfaces(Set<CtTypeReference<?>> interfaces) {
+---
+> 	public <C extends CtType<T>>C setSuperInterfaces(Set<CtTypeReference<?>> interfaces) {

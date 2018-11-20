@@ -1,5 +1,0 @@
-132c132,133
-< 	public Pattern build() {
----
-> 	public Pattern 
-> build() {

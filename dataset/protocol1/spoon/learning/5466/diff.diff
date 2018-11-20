@@ -1,0 +1,5 @@
+81c81,82
+< 		this(classNameFilter, typeTransformer, "spoon-decompiled", "spoon-cache", "spoon-recompiled", null);
+---
+> 		this(classNameFilter, typeTransformer
+> , "spoon-decompiled", "spoon-cache", "spoon-recompiled", null);

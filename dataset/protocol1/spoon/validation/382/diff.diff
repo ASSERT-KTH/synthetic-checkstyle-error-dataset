@@ -1,0 +1,4 @@
+116c116
+< 		if (!(reference instanceof CtArrayTypeReference)) {
+---
+> 		if(!(reference instanceof CtArrayTypeReference)) {

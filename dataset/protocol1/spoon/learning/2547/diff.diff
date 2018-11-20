@@ -1,0 +1,5 @@
+98c98,99
+< 	public void scan(CtRole role, Map<String, ? extends CtElement> elements) {
+---
+> 	public 
+> void scan(CtRole role, Map<String, ? extends CtElement> elements) {

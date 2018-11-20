@@ -1,0 +1,4 @@
+349c349
+< 				properties.setProperty("includeScope", "runtime");
+---
+> 				properties.setProperty("includeScope","runtime");

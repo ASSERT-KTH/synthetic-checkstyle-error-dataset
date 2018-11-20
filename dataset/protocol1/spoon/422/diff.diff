@@ -1,4 +1,0 @@
-45c45
-< 			tm.delete();
----
-> 			tm. delete();

@@ -1,0 +1,4 @@
+69c69
+< 		final CtElement parent = input.getParent();
+---
+> 		final CtElement parent = input.getParent() ;

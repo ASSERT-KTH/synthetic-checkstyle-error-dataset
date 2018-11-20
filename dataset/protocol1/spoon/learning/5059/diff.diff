@@ -1,0 +1,4 @@
+49c49
+< 		if (s.isEmpty() || !Character.isJavaIdentifierStart(s.charAt(0))) {
+---
+> 		if(s.isEmpty() || !Character.isJavaIdentifierStart(s.charAt(0))) {

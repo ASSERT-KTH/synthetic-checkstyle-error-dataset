@@ -1,0 +1,4 @@
+292c292
+< 		if ("class".equals(fieldAccess.getVariable().getSimpleName())) {
+---
+> 		if("class".equals(fieldAccess.getVariable().getSimpleName())) {

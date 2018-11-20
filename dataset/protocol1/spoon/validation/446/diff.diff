@@ -1,0 +1,5 @@
+73c73,74
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.MODULE_REF, moduleReference, this.moduleReference);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.MODULE_REF, moduleReference, 
+> this.moduleReference);

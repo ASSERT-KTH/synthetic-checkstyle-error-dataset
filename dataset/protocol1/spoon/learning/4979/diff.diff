@@ -1,0 +1,5 @@
+48,49c48
+< import spoon.support.sniper.internal.SourceFragmentContextPrettyPrint;
+< import spoon.support.sniper.internal.SourceFragmentContextSet;
+---
+> import spoon.support.sniper.internal.SourceFragmentContextPrettyPrint;import spoon.support.sniper.internal.SourceFragmentContextSet;

@@ -1,0 +1,5 @@
+65c65,66
+< 		return getFragment(getSourceStart(), getSourceEnd())
+---
+> 		return getFragment
+> (getSourceStart(), getSourceEnd())

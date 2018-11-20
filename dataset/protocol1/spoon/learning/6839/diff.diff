@@ -1,0 +1,4 @@
+121c121
+< 	static String getStringLiteral(String value, boolean mayContainsSpecialCharacter) {
+---
+> 	static String getStringLiteral(String value , boolean mayContainsSpecialCharacter) {

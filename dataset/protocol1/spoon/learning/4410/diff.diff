@@ -1,0 +1,4 @@
+52c52
+< 			b = Substitution.substitute(targetType, (Template<?>) this, c.getMethod("statements").getBody());
+---
+> 			b = Substitution.substitute(targetType, (Template<?>) this, c.getMethod("statements").getBody()	);

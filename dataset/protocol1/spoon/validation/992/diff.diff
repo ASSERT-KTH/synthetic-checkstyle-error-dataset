@@ -1,0 +1,4 @@
+33c33
+< @Target({ ElementType.FIELD, ElementType.METHOD })
+---
+> @Target( { ElementType.FIELD, ElementType.METHOD })

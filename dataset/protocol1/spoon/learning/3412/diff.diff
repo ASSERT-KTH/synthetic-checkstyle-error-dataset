@@ -1,0 +1,5 @@
+108c108,109
+< 	public CtTypeReference<?> getTypeErasure() {
+---
+> 	public CtTypeReference<?> 
+> getTypeErasure() {

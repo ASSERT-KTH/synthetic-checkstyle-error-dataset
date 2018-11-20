@@ -1,5 +1,0 @@
-61c61,62
-< 	public abstract void block() throws Throwable;
----
-> 	public abstract 
-> void block() throws Throwable;

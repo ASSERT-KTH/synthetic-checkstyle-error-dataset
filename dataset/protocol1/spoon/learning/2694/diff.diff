@@ -1,0 +1,5 @@
+79,80c79
+< 			if (input instanceof CtTypeReference) {
+< 				outputConsumer.accept(((CtTypeReference<?>) input).getTypeDeclaration());
+---
+> 			if (input instanceof CtTypeReference) {				outputConsumer.accept(((CtTypeReference<?>) input).getTypeDeclaration());

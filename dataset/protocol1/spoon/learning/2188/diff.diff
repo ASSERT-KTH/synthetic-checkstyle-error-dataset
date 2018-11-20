@@ -1,0 +1,5 @@
+109,110c109
+< 			for (CtType t2: to.getTypes()) {
+< 				if (t2.getQualifiedName().equals(t.getQualifiedName()) && !t2.equals(t)) {
+---
+> 			for (CtType t2: to.getTypes()) {				if (t2.getQualifiedName().equals(t.getQualifiedName()) && !t2.equals(t)) {

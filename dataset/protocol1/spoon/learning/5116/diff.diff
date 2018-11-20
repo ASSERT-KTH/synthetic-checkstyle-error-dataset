@@ -1,0 +1,4 @@
+58c58
+< 		if (target == null && template == null) {
+---
+> 		if (	target == null && template == null) {

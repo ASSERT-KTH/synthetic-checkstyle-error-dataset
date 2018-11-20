@@ -1,0 +1,4 @@
+216c216
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, DECLARING_TYPE, declaringType, this.declaringType);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this,DECLARING_TYPE, declaringType, this.declaringType);

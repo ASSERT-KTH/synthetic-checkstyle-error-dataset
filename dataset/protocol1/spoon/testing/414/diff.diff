@@ -1,0 +1,4 @@
+44c44
+< 			name = typeRef.getSimpleName();
+---
+> 			name = typeRef.	getSimpleName();

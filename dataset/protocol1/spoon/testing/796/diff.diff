@@ -1,0 +1,4 @@
+72c72
+< 			boolean visitPrev = mode == Mode.ALL || mode == Mode.PREVIOUS;
+---
+> 			boolean visitPrev = mode== Mode.ALL || mode == Mode.PREVIOUS;

@@ -1,0 +1,4 @@
+60c60
+< 		for (CtTypeReference<?> reference : references) {
+---
+> 		for (CtTypeReference<?> reference : references	) {

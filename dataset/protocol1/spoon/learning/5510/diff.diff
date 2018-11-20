@@ -1,0 +1,5 @@
+99,100c99
+< 	public CtProvidedService clone() {
+< 		return (CtProvidedService) super.clone();
+---
+> 	public CtProvidedService clone() {		return (CtProvidedService) super.clone();

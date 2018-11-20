@@ -1,0 +1,4 @@
+41c41
+< public class CtEnumImpl<T extends Enum<?>> extends CtClassImpl<T> implements CtEnum<T> {
+---
+> public class CtEnumImpl< T extends Enum<?>> extends CtClassImpl<T> implements CtEnum<T> {

@@ -1,0 +1,5 @@
+286c286,287
+< 	void removeCompilationUnitFilter(CompilationUnitFilter filter);
+---
+> 	void removeCompilationUnitFilter
+> (CompilationUnitFilter filter);

@@ -1,0 +1,4 @@
+37c37
+< 	void addType(CtType<?> aType);
+---
+> 	void addType(CtType<?>aType);

@@ -1,0 +1,5 @@
+65,66c65
+< import spoon.reflect.declaration.CtAnnotation;
+< import spoon.reflect.declaration.CtAnnotationMethod;
+---
+> import spoon.reflect.declaration.CtAnnotation;import spoon.reflect.declaration.CtAnnotationMethod;

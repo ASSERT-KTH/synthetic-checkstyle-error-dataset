@@ -1,0 +1,5 @@
+334c334,335
+< 	CtCatch createCtCatch(String nameCatch, Class<? extends Throwable> exception, CtBlock<?> ctBlock);
+---
+> 	CtCatch createCtCatch(String nameCatch, Class<? 
+> extends Throwable> exception, CtBlock<?> ctBlock);

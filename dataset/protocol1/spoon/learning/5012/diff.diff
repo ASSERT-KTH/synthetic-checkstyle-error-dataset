@@ -1,0 +1,5 @@
+113c113,114
+< 		if (this.typeCasts == CtElementImpl.<CtTypeReference<?>>emptyList()) {
+---
+> 		
+> if (this.typeCasts == CtElementImpl.<CtTypeReference<?>>emptyList()) {

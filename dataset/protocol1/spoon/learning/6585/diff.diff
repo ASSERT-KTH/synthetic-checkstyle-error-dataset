@@ -1,0 +1,4 @@
+116c116
+< 		getModelChangeListener().onSetDeleteAll(getOwner(), getRole(), set, new LinkedHashSet<>(set));
+---
+> 		getModelChangeListener().onSetDeleteAll(getOwner(), getRole(), set, new LinkedHashSet<>(set))	;

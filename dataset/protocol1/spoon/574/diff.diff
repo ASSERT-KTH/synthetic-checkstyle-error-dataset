@@ -1,4 +1,0 @@
-264c264
-< 	void setTemplateClasspath(String... classpath);
----
-> 	void setTemplateClasspath(String	... classpath);

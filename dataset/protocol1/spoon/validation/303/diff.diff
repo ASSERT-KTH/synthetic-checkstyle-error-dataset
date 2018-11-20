@@ -1,0 +1,4 @@
+166c166
+< 		return getExecutable() == null ? null : getExecutable().getType();
+---
+> 		return getExecutable() == null ? null :getExecutable().getType();

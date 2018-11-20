@@ -1,0 +1,4 @@
+72c72
+< 	public void addEnumValue(CtEnumValue<?> ctEnumValue) {
+---
+> 	public void addEnumValue(CtEnumValue<? > ctEnumValue) {

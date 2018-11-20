@@ -1,0 +1,4 @@
+87c87
+< 		StringBuilder tentativeTypeName = new StringBuilder(method.getSimpleName() + "Copy");
+---
+> 		StringBuilder tentativeTypeName =new StringBuilder(method.getSimpleName() + "Copy");

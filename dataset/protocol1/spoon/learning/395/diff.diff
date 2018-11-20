@@ -1,0 +1,5 @@
+42c42,43
+< 	public static AbstractFileAssert<?> assertThat(String actual) {
+---
+> 	public static AbstractFileAssert<?> 
+> assertThat(String actual) {

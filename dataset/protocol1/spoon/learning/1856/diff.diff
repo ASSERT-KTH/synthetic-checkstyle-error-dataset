@@ -1,0 +1,5 @@
+41c41,42
+< 		checkArgsAreAscending(declarationSourceStart, modifierSourceStart, modifierSourceEnd + 1, sourceStart, sourceEnd + 1, declarationSourceEnd + 1);
+---
+> 		checkArgsAreAscending(declarationSourceStart, 
+> modifierSourceStart, modifierSourceEnd + 1, sourceStart, sourceEnd + 1, declarationSourceEnd + 1);

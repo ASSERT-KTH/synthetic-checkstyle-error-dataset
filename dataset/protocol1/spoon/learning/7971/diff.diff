@@ -1,0 +1,4 @@
+45c45
+< 	CtPackageDeclaration setReference(CtPackageReference reference);
+---
+> 	CtPackageDeclaration setReference(CtPackageReference reference)	;

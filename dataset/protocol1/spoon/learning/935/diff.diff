@@ -1,0 +1,4 @@
+257c257
+< 	public void report(Processor<?> processor, Level level, String message) {
+---
+> 	public void report(Processor<?> processor, Level level,String message) {

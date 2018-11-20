@@ -1,0 +1,4 @@
+73c73
+< 	public <C extends CtEnum<T>> C addEnumValue(CtEnumValue<?> enumValue) {
+---
+> 	public <C extends CtEnum<T>> C addEnumValue(CtEnumValue< ?> enumValue) {

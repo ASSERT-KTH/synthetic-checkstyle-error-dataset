@@ -1,0 +1,4 @@
+76c76
+< 	<T, U> Set<U> asSet(T element);
+---
+> 	<T, U> Set<U > asSet(T element);

@@ -1,0 +1,4 @@
+1012c1012
+< 			return ((U) ((Object) (castTarget(element).getOperand())));
+---
+> 			return ((U) ((Object)(castTarget(element).getOperand())));

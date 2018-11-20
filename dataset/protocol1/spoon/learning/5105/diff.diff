@@ -1,0 +1,5 @@
+102c102,103
+< 							this.imports.add(createImportWithPosition(methodOrField.getReference(), importRef));
+---
+> 							this.imports.add
+> (createImportWithPosition(methodOrField.getReference(), importRef));

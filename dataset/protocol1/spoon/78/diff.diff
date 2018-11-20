@@ -1,4 +1,0 @@
-58c58
-< 			super(template);
----
-> 			super(template) ;

@@ -1,0 +1,4 @@
+146c146
+< 	Collection<CtFieldReference<?>> getAllFields();
+---
+> 	Collection<CtFieldReference<?>> getAllFields() ;

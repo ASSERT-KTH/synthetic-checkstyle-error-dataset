@@ -1,0 +1,4 @@
+73c73
+< 		return (CtAssert<T>) super.clone();
+---
+> 		return(CtAssert<T>) super.clone();

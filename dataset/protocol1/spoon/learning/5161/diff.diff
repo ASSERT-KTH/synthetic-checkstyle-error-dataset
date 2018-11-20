@@ -1,0 +1,4 @@
+146c146
+< 		int nrTypes = 0;
+---
+> 		int nrTypes = 0 ;

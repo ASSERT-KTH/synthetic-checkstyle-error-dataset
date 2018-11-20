@@ -1,0 +1,4 @@
+24c24
+< import static spoon.reflect.path.CtRole.DIMENSION;
+---
+> import static spoon.reflect. path.CtRole.DIMENSION;

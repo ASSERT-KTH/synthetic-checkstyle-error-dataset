@@ -1,0 +1,4 @@
+33c33
+< 	public void scanCtNamedElement(CtNamedElement e) {
+---
+> 	public void scanCtNamedElement(CtNamedElement e){

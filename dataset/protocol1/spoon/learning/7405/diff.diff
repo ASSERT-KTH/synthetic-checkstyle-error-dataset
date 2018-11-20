@@ -1,0 +1,5 @@
+54c54,55
+< import java.util.Collection;
+---
+> import java.util.Collection
+> ;

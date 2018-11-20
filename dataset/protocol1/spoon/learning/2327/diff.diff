@@ -1,0 +1,4 @@
+54c54
+< 	Map<String, Object> asMap();
+---
+> 	Map<String	, Object> asMap();

@@ -1,0 +1,5 @@
+53,54c53
+< 	public SourceFragmentContextNormal(MutableTokenWriter mutableTokenWriter, ElementSourceFragment rootFragment, ChangeResolver changeResolver) {
+< 		super(mutableTokenWriter, changeResolver, rootFragment.getGroupedChildrenFragments());
+---
+> 	public SourceFragmentContextNormal(MutableTokenWriter mutableTokenWriter, ElementSourceFragment rootFragment, ChangeResolver changeResolver) {		super(mutableTokenWriter, changeResolver, rootFragment.getGroupedChildrenFragments());

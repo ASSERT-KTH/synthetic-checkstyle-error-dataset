@@ -1,0 +1,4 @@
+47c47
+< 		environment.debugMessage("Step " + process + " " + task + " in " + (getCurrentTimeInMillis() - timer) + " ms");
+---
+> 		environment.debugMessage("Step " + process + " " + task + " in " + (getCurrentTimeInMillis() - timer) + " ms" );

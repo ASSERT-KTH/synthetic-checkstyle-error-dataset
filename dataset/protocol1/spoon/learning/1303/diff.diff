@@ -1,0 +1,4 @@
+83c83
+< 		List<SpoonFolder> result = new ArrayList<>();
+---
+> 		List<SpoonFolder> result = new ArrayList<> ();

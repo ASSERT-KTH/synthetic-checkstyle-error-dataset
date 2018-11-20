@@ -1,0 +1,5 @@
+32c32,33
+< import org.eclipse.jdt.internal.compiler.impl.CompilerOptions;
+---
+> import 
+> org.eclipse.jdt.internal.compiler.impl.CompilerOptions;

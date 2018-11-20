@@ -1,0 +1,4 @@
+42c42
+< 			this.file = file.getCanonicalFile();
+---
+> 			this.file =file.getCanonicalFile();

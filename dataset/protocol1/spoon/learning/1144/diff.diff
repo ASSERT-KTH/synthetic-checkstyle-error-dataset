@@ -1,0 +1,5 @@
+94c94,95
+< 		return changedRoles.size() > 0;
+---
+> 		return changedRoles.size
+> () > 0;

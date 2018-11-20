@@ -1,0 +1,4 @@
+90c90
+< 			visitor.visitMethodImport((CtExecutableReference<?>) localReference);
+---
+> 			visitor.visitMethodImport((CtExecutableReference<?>)localReference);

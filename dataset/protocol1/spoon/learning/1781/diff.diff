@@ -1,0 +1,4 @@
+23c23
+< import spoon.reflect.visitor.chain.CtConsumer;
+---
+> import spoon.reflect.visitor.chain.CtConsumer	;

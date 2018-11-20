@@ -1,0 +1,4 @@
+150c150
+< 		return factory.Core().createModuleRequirement().setModuleReference(moduleReference);
+---
+> 		return factory.Core().createModuleRequirement().	setModuleReference(moduleReference);

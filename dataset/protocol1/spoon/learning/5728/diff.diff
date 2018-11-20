@@ -1,0 +1,5 @@
+49,50c49
+< 	public InputStream getContent() {
+< 		try {
+---
+> 	public InputStream getContent() {		try {

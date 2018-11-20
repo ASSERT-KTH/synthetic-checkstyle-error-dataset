@@ -1,0 +1,4 @@
+228c228
+< 		List<CtTypeParameter> thatTypeParameters = typeParamDeclarer.getFormalCtTypeParameters();
+---
+> 		List<CtTypeParameter> thatTypeParameters = typeParamDeclarer. getFormalCtTypeParameters();

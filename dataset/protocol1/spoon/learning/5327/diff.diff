@@ -1,0 +1,4 @@
+78c78
+< 	public static SpoonResource createResource(File f)
+---
+> 	public static SpoonResource createResource(File f	)

@@ -1,0 +1,4 @@
+31c31
+< 		this(element, role, original, -1);
+---
+> 		this(element, role, original, - 1);

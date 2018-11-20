@@ -1,0 +1,4 @@
+20c20
+< public class SpoonException extends RuntimeException {
+---
+> public class SpoonException extends RuntimeException{

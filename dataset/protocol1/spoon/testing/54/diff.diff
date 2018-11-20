@@ -1,0 +1,4 @@
+40c40
+< 	<T> CtType<T> getTopLevelType();
+---
+> 	<T> CtType< T> getTopLevelType();

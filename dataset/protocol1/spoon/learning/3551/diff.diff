@@ -1,0 +1,4 @@
+24c24
+< import spoon.reflect.declaration.CtType;
+---
+> import spoon.reflect.declaration.	CtType;

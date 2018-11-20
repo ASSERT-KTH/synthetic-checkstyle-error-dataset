@@ -1,0 +1,4 @@
+81c81
+< 	<N, C extends CtType<Object>> C addNestedType(CtType<N> nestedType);
+---
+> 	<N, C extends CtType<Object>> C addNestedType	(CtType<N> nestedType);

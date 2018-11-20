@@ -1,0 +1,4 @@
+872c872
+< 		biScan(spoon.reflect.path.CtRole.TARGET, f.getTarget(), other.getTarget());
+---
+> 		biScan(spoon.reflect.path.CtRole.TARGET, f.getTarget (), other.getTarget());

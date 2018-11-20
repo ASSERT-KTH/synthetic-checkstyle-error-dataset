@@ -1,0 +1,4 @@
+643c643
+< 			final CtReference declaring = this.getDeclaringReferenceFromImports(name.toCharArray());
+---
+> 			final CtReference declaring= this.getDeclaringReferenceFromImports(name.toCharArray());

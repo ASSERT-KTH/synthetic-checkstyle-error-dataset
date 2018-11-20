@@ -1,0 +1,4 @@
+424c424
+< 			contexts.peek().addTypeReference(role, ctTypeReference);
+---
+> 			contexts.peek().addTypeReference( role, ctTypeReference);

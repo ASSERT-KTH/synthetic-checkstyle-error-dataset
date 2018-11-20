@@ -1,0 +1,5 @@
+55,56c55
+< 	public CtStatement getLabelledStatement() {
+< 		List<CtStatement> listParents = this.map(new ParentFunction().includingSelf(true)).list();
+---
+> 	public CtStatement getLabelledStatement() {		List<CtStatement> listParents = this.map(new ParentFunction().includingSelf(true)).list();

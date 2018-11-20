@@ -1,0 +1,4 @@
+158c158
+< 			if (role.getCamelCaseName().toLowerCase().equals(name.toLowerCase()) || role.name().equals(name)) {
+---
+> 			if (role.getCamelCaseName().toLowerCase().equals(name.toLowerCase()	) || role.name().equals(name)) {

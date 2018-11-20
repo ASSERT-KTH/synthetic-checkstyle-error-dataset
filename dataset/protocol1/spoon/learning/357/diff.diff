@@ -1,0 +1,4 @@
+217c217
+< 		final ReferenceBuilder referenceBuilder = jdtTreeBuilder.getReferencesBuilder();
+---
+> 		final ReferenceBuilder referenceBuilder = jdtTreeBuilder.getReferencesBuilder()	;

@@ -1,0 +1,4 @@
+52c52
+< public interface CtElement extends FactoryAccessor, CtVisitable, Cloneable, CtQueryable, Serializable, SourcePositionHolder {
+---
+> public interface CtElement extends FactoryAccessor	, CtVisitable, Cloneable, CtQueryable, Serializable, SourcePositionHolder {

@@ -1,0 +1,5 @@
+50,51c50
+< 		if (variable != null) {
+< 			return (CtFieldReference<T>) variable;
+---
+> 		if (variable != null) {			return (CtFieldReference<T>) variable;

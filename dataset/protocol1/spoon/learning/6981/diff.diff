@@ -1,0 +1,4 @@
+151c151
+< 		return getOwner().getName() + "#" + getSignature();
+---
+> 		return getOwner ().getName() + "#" + getSignature();

@@ -1,0 +1,4 @@
+35c35
+< 	@MetamodelPropertyField(role = TYPE)
+---
+> 	@MetamodelPropertyField(role =TYPE)

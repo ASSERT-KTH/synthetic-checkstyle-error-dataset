@@ -1,0 +1,4 @@
+87c87
+< public interface Template<T extends CtElement> {
+---
+> public interface Template<T extends CtElement > {

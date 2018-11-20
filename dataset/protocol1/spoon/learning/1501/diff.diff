@@ -1,0 +1,4 @@
+159c159
+< 		throw new AssertionError(msg);
+---
+> 		throw new AssertionError( msg);

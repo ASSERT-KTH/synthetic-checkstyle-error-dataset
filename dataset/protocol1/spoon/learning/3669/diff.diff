@@ -1,0 +1,5 @@
+157,158c157
+< 		public void exit(CtElement element) {
+< 			if (element instanceof CtType) {
+---
+> 		public void exit(CtElement element) {			if (element instanceof CtType) {

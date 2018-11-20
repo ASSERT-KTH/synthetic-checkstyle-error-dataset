@@ -1,0 +1,4 @@
+175c175
+< 	public <E extends CtShadowable> E setShadow(boolean isShadow) {
+---
+> 	public <E extends CtShadowable>E setShadow(boolean isShadow) {

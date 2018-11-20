@@ -1,0 +1,4 @@
+106c106
+< 			new CatchVariableReferenceFunction((CtCatchVariable<?>) variable).apply(scope, outputConsumer);
+---
+> 			new CatchVariableReferenceFunction((CtCatchVariable <?>) variable).apply(scope, outputConsumer);

@@ -1,0 +1,4 @@
+485c485
+< 				if (comment.getPosition().getLine() <= e.getPosition().getLine()) {
+---
+> 				if(comment.getPosition().getLine() <= e.getPosition().getLine()) {

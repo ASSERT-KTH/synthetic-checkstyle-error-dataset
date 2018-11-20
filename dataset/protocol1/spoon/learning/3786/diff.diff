@@ -1,0 +1,5 @@
+264,265c264
+< 		} else {
+< 			this.templates.addFolder((SpoonFolder) source);
+---
+> 		} else {			this.templates.addFolder((SpoonFolder) source);

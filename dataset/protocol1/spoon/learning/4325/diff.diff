@@ -1,0 +1,4 @@
+40c40
+< 	public <T extends CtElement> List<T> evaluateOn(CtElement... startNode) {
+---
+> 	public <T extends CtElement> List <T> evaluateOn(CtElement... startNode) {

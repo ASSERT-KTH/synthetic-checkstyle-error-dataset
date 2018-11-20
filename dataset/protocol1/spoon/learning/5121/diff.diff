@@ -1,0 +1,5 @@
+362c362,363
+< 	<T> CtLambda<T> createLambda();
+---
+> 	<T> CtLambda<T> createLambda()
+> ;

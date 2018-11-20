@@ -1,0 +1,5 @@
+240c240,241
+< 		public int indexOfReference(List statements, CtElement target) {
+---
+> 		public int indexOfReference(List statements, CtElement 
+> target) {

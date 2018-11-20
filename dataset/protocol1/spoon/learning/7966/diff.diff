@@ -1,0 +1,5 @@
+33c33,34
+< 		return getFactory().Package().get(getSimpleName());
+---
+> 		return getFactory().Package
+> ().get(getSimpleName());

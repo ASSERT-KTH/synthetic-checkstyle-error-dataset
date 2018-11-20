@@ -1,0 +1,4 @@
+30c30
+< import static spoon.reflect.path.CtRole.ANNONYMOUS_EXECUTABLE;
+---
+> import static spoon.	reflect.path.CtRole.ANNONYMOUS_EXECUTABLE;

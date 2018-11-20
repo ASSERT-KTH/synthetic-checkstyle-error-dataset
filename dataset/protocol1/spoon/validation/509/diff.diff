@@ -1,0 +1,5 @@
+43,44c43
+< 	public <N extends CtNewClass> N setAnonymousClass(CtClass<?> anonymousClass) {
+< 		if (anonymousClass != null) {
+---
+> 	public <N extends CtNewClass> N setAnonymousClass(CtClass<?> anonymousClass) {		if (anonymousClass != null) {

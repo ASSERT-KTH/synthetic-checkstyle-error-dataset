@@ -1,0 +1,4 @@
+84c84
+< 			throw new SnippetCompilationError(problem.getMessage() + "at line " + problem.getSourceLineNumber());
+---
+> 			throw new SnippetCompilationError(problem.getMessage() + "at line " +problem.getSourceLineNumber());

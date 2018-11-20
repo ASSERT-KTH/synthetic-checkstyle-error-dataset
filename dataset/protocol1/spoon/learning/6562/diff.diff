@@ -1,0 +1,4 @@
+67c67
+< 				if ((!element.isParentInitialized() && fixNullParents) || (element.getParent() != stack.peek() && fixInconsistencies)) {
+---
+> 				if ((!element.isParentInitialized() && fixNullParents) || (element.	getParent() != stack.peek() && fixInconsistencies)) {

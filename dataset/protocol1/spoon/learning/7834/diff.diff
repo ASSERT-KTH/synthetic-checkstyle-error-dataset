@@ -1,0 +1,4 @@
+33c33
+< public abstract class AbstractAssert<T extends AbstractAssert<T, A>, A> {
+---
+> public abstract class AbstractAssert<T extends AbstractAssert<T, A>	, A> {

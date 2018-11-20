@@ -1,0 +1,4 @@
+86c86
+< 				throw new SpoonException("Cannot add second value into single value ConversionContext");
+---
+> 				throw new SpoonException ("Cannot add second value into single value ConversionContext");

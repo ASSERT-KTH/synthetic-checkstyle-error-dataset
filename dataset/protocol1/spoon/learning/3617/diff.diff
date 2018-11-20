@@ -1,0 +1,5 @@
+61c61,62
+< public interface CtLambda<T> extends CtExpression<T>, CtExecutable<T> {
+---
+> public interface CtLambda<T> 
+> extends CtExpression<T>, CtExecutable<T> {

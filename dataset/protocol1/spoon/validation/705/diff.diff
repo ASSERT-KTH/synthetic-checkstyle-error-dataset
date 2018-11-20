@@ -1,0 +1,4 @@
+51c51
+< 	public <T> List<T> getMatchingElements(Class<T> clazz) {
+---
+> 	public <T> List<T> getMatchingElements(Class <T> clazz) {

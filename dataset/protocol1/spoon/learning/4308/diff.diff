@@ -1,0 +1,4 @@
+67c67
+< 					snippetCompilationUnit = factory.CompilationUnit().removeFromCache(spoonFile.getName());
+---
+> 					snippetCompilationUnit = factory.CompilationUnit().removeFromCache( spoonFile.getName());

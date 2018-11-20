@@ -1,0 +1,4 @@
+75c75
+< 		consumedAnnotationTypes.put(annotationType.getName(), annotationType);
+---
+> 		consumedAnnotationTypes.put(annotationType.getName(),annotationType);

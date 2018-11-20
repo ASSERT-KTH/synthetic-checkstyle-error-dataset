@@ -1,0 +1,5 @@
+113,114c113
+< 		}
+< 		CtArrayTypeReference<?> erased = this.clone();
+---
+> 		}		CtArrayTypeReference<?> erased = this.clone();

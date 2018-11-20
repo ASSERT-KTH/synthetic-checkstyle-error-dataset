@@ -1,0 +1,4 @@
+133c133
+< 	CtTypeReference<?> getSuperclass();
+---
+> 	CtTypeReference<? > getSuperclass();

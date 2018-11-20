@@ -1,0 +1,4 @@
+31c31
+< 		try (ObjectOutputStream so = new ObjectOutputStream(bo)) {
+---
+> 		try (ObjectOutputStream so = new ObjectOutputStream(bo)){

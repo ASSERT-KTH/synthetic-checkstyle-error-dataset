@@ -1,0 +1,4 @@
+295c295
+< 						if (comment.getPosition().getSourceEnd() < dsp.getModifierSourceEnd()) {
+---
+> 						if (comment.getPosition	().getSourceEnd() < dsp.getModifierSourceEnd()) {

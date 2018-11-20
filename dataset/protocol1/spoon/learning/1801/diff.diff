@@ -1,0 +1,4 @@
+48c48
+< 	static boolean isJavaIdentifier(String s) {
+---
+> 	static boolean isJavaIdentifier (String s) {

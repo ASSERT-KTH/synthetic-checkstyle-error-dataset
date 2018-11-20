@@ -1,0 +1,5 @@
+172c172,173
+< 		if (type != null) {
+---
+> 		
+> if (type != null) {

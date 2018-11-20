@@ -1,0 +1,4 @@
+176c176
+< 		result.add(factory.Type().get(spoon.reflect.reference.CtTypeReference.class));
+---
+> 		result.add(factory.Type().get(spoon.reflect.reference.CtTypeReference.	class));

@@ -1,5 +1,0 @@
-66c66,67
-< 	String value() default "";
----
-> 	String value() default ""
-> ;

@@ -1,4 +1,0 @@
-135c135
-< 			if (!srcPom.exists() || !srcPom.isFile()) {
----
-> 			if (!srcPom.	exists() || !srcPom.isFile()) {

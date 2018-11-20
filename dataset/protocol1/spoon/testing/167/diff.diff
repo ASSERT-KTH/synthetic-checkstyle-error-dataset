@@ -1,0 +1,4 @@
+133c133
+< 		QueueProcessingManager processingManager = new QueueProcessingManager(getUnnamedModule().getFactory());
+---
+> 		QueueProcessingManager processingManager = new QueueProcessingManager(getUnnamedModule	().getFactory());

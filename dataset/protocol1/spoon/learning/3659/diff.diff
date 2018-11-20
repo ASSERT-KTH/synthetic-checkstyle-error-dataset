@@ -1,0 +1,4 @@
+202c202
+< 	public <C extends CtTypedElement> C setType(CtTypeReference<T> type) {
+---
+> 	public <C extends CtTypedElement> C setType(CtTypeReference<T>type) {

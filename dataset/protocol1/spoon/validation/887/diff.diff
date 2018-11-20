@@ -1,0 +1,4 @@
+87c87
+< 	void visitTypeReference(CtRole role, WildcardType type);
+---
+> 	void visitTypeReference(	CtRole role, WildcardType type);

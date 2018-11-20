@@ -1,0 +1,4 @@
+174c174
+< 	public <T extends CtStatement> T getLastStatement() {
+---
+> 	public <T extends CtStatement>T getLastStatement() {

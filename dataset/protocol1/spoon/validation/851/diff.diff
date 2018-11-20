@@ -1,0 +1,4 @@
+79c79
+< 	void visitTypeReference(CtRole role, Type type);
+---
+> 	void visitTypeReference(CtRole role, Type type	);

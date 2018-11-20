@@ -1,0 +1,5 @@
+22c22,23
+< 	void set(T replace);
+---
+> 	void set(T 
+> replace);

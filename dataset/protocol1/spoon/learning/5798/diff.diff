@@ -1,0 +1,4 @@
+53c53
+< 	<T extends CtMultiTypedElement> T setMultiTypes(List<CtTypeReference<?>> types);
+---
+> 	<T extends CtMultiTypedElement> T setMultiTypes(List<	CtTypeReference<?>> types);

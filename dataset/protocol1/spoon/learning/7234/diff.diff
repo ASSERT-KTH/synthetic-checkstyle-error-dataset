@@ -1,0 +1,4 @@
+46c46
+< 	public CtEnum<?> create(CtPackage owner, String simpleName) {
+---
+> 	public CtEnum<?> create (CtPackage owner, String simpleName) {

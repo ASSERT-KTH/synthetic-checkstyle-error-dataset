@@ -1,0 +1,5 @@
+29c29,30
+< @Target({ ElementType.TYPE, ElementType.METHOD })
+---
+> @Target({ ElementType.TYPE
+> , ElementType.METHOD })

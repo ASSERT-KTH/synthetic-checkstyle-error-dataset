@@ -1,0 +1,4 @@
+170c170
+< 		executableReference.setSimpleName(CtExecutableReference.CONSTRUCTOR_NAME);
+---
+> 		executableReference.setSimpleName (CtExecutableReference.CONSTRUCTOR_NAME);

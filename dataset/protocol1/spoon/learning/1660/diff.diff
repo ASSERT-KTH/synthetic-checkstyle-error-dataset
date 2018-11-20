@@ -1,0 +1,5 @@
+126,127c126
+< 		}
+< 		throw new IllegalStateException("not a javadoc comment");
+---
+> 		}		throw new IllegalStateException("not a javadoc comment");

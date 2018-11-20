@@ -1,0 +1,5 @@
+47c47,48
+< 	<C extends CtLiteral<T>> C setValue(T value);
+---
+> 	<C extends CtLiteral<T>> C setValue(T value)
+> ;

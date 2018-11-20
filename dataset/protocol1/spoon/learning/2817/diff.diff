@@ -1,0 +1,5 @@
+430c430,431
+< 			this.visitTypeReference(role, (WildcardType) type);
+---
+> 			
+> this.visitTypeReference(role, (WildcardType) type);

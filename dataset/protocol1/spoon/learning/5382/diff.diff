@@ -1,0 +1,5 @@
+843c843,844
+< 				boolean isInitializeStaticFinalField = isInitializeStaticFinalField(f.getTarget());
+---
+> 				boolean isInitializeStaticFinalField = isInitializeStaticFinalField(f.getTarget
+> ());

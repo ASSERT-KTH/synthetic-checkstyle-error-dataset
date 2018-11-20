@@ -1,0 +1,5 @@
+110c110,111
+< 	static String searchType(String typeName, ImportReference[] imports) {
+---
+> 	static String searchType(String typeName
+> , ImportReference[] imports) {

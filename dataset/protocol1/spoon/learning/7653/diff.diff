@@ -1,0 +1,4 @@
+68c68
+< 		this.outputConsumer = outputConsumer;
+---
+> 		this.	outputConsumer = outputConsumer;

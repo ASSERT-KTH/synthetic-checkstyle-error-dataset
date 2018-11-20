@@ -1,0 +1,4 @@
+21c21
+< class NotEqualException extends SpoonException {
+---
+> class NotEqualException extends SpoonException{

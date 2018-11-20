@@ -1,0 +1,4 @@
+239c239
+< 				finalMeths.add(m1);
+---
+> 				finalMeths.add(m1	);

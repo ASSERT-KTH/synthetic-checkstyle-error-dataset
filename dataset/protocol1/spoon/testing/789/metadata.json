@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "36", "column": "8", "message": "Unused import - spoon.support.visitor.SubInheritanceHierarchyResolver.", "type": "UnusedImports"}

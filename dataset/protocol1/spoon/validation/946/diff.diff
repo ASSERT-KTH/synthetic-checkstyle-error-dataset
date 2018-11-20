@@ -1,0 +1,4 @@
+48c48
+< 		this.anonymousClass = anonymousClass;
+---
+> 		this.anonymousClass= anonymousClass;

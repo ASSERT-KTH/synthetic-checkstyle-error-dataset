@@ -1,0 +1,4 @@
+136c136
+< 	@PropertyGetter(role = CtRole.IS_STATIC)
+---
+> 	@PropertyGetter( role = CtRole.IS_STATIC)

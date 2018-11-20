@@ -1,0 +1,5 @@
+690c690,691
+< 			throw new SpoonException("The content of your comment contain at least one line separator. "
+---
+> 			throw 
+> new SpoonException("The content of your comment contain at least one line separator. "

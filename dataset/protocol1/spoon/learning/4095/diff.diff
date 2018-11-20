@@ -1,0 +1,5 @@
+69,70c69
+< 			return ((Class<?>) literal.getValue()).getName();
+< 		} else {
+---
+> 			return ((Class<?>) literal.getValue()).getName();		} else {

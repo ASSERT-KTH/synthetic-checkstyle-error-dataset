@@ -1,0 +1,5 @@
+25,26c25
+< import spoon.reflect.declaration.CtTypedElement;
+< import spoon.reflect.declaration.ModifierKind;
+---
+> import spoon.reflect.declaration.CtTypedElement;import spoon.reflect.declaration.ModifierKind;

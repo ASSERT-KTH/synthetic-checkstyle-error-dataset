@@ -1,5 +1,0 @@
-22c22,23
-< 	public CtPackageAssert(CtPackage actual) {
----
-> 	public CtPackageAssert(CtPackage 
-> actual) {

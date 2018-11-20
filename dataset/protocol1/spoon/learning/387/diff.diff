@@ -1,0 +1,5 @@
+44c44,45
+< 	List<CtJavaDocTag> getTags();
+---
+> 	List<CtJavaDocTag> 
+> getTags();

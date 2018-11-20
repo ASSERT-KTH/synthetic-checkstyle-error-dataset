@@ -1,0 +1,4 @@
+50c50
+< 	public boolean matches(CtType<?> mayBeSubType) {
+---
+> 	 public boolean matches(CtType<?> mayBeSubType) {

@@ -1,0 +1,4 @@
+132c132
+< 	public <C extends CtModifiable> C removeModifier(ModifierKind modifier) {
+---
+> 	public <C extends CtModifiable> C removeModifier(ModifierKind modifier){

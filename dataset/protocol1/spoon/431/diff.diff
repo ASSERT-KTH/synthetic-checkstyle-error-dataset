@@ -1,4 +1,0 @@
-30c30
-< 			throw new AssertionError("Your parameter can't be null.");
----
-> 			throw new AssertionError("Your parameter can't be null.") ;

@@ -1,0 +1,4 @@
+175c175
+< 				scan(role, obj);
+---
+> 				scan(role,obj);

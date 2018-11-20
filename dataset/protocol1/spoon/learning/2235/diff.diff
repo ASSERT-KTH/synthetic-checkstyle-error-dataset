@@ -1,0 +1,4 @@
+37c37
+< public interface CtEnum<T extends Enum<?>> extends CtClass<T> {
+---
+> public interface CtEnum< T extends Enum<?>> extends CtClass<T> {

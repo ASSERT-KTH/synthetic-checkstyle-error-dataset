@@ -1,0 +1,4 @@
+35c35
+< 	public DeclarationSourcePositionImpl(CompilationUnit compilationUnit, int sourceStart, int sourceEnd,
+---
+> 	public DeclarationSourcePositionImpl(CompilationUnit compilationUnit	, int sourceStart, int sourceEnd,

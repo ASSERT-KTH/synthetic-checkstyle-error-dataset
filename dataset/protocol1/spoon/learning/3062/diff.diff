@@ -1,0 +1,5 @@
+40,41c40
+< 	public FieldFactory(Factory factory) {
+< 		super(factory);
+---
+> 	public FieldFactory(Factory factory) {		super(factory);

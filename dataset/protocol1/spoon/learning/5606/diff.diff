@@ -1,0 +1,4 @@
+202c202
+< 			for (CtType<?> type : oldTypes) {
+---
+> 			for (CtType<?> type : oldTypes){

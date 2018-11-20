@@ -1,0 +1,4 @@
+49c49
+< 	CtTypeReference<T> type;
+---
+> 	CtTypeReference<T>type;

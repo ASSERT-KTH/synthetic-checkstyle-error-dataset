@@ -1,0 +1,5 @@
+41,42c41
+< 	public LineFilter() {
+< 		super(CtStatement.class);
+---
+> 	public LineFilter() {		super(CtStatement.class);

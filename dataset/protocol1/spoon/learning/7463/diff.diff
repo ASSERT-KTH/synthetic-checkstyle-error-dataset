@@ -1,0 +1,4 @@
+54c54
+< 	void calculate(CtCompilationUnit sourceCompilationUnit, List<CtType<?>> types);
+---
+> 	void calculate(CtCompilationUnit sourceCompilationUnit, List<CtType<?>>types);

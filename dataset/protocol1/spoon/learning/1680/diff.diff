@@ -1,0 +1,4 @@
+55c55
+< 	public <S extends CtStatement> S compile() throws SnippetCompilationError {
+---
+> 	public <S extends CtStatement>S compile() throws SnippetCompilationError {

@@ -1,4 +1,0 @@
-87c87
-< 			comp.addInputSources(SpoonResourceHelper.resources("./src/test/java/" + classToBuild.getName().replace('.', '/') + ".java"));
----
-> 			comp.addInputSources(SpoonResourceHelper.resources("./src/test/java/" +classToBuild.getName().replace('.', '/') + ".java"));

@@ -1,0 +1,4 @@
+528c528
+< 	private void addNestedType(List<CtType<?>> list, CtType<?> t) {
+---
+> 	private void addNestedType(List<CtType<?>> list, CtType<?> t){

@@ -1,0 +1,5 @@
+60c60,61
+< 			fileName = type.getSimpleName() + DefaultJavaPrettyPrinter.JAVA_FILE_EXTENSION;
+---
+> 			fileName 
+> = type.getSimpleName() + DefaultJavaPrettyPrinter.JAVA_FILE_EXTENSION;

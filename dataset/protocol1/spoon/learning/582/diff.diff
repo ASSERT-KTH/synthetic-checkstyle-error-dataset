@@ -1,0 +1,4 @@
+39c39
+< public abstract class AbstractParameterInfo implements ParameterInfo {
+---
+> public abstract class AbstractParameterInfo implements ParameterInfo{

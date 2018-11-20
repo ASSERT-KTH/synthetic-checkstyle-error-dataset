@@ -1,0 +1,4 @@
+25c25
+< import org.apache.maven.model.io.xpp3.MavenXpp3Reader;
+---
+> import org. apache.maven.model.io.xpp3.MavenXpp3Reader;

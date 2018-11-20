@@ -1,0 +1,4 @@
+87c87
+< 	public final CtTypeReference<Long> LONG_PRIMITIVE = createReference(long.class);
+---
+> 	public final CtTypeReference<Long> LONG_PRIMITIVE = createReference(long.class)	;

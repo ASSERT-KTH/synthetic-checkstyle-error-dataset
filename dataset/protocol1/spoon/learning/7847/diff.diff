@@ -1,0 +1,4 @@
+143c143
+< 			klass.setSimpleName(klass.getSimpleName().replaceAll("^[0-9]*", ""));
+---
+> 			klass.setSimpleName(klass.getSimpleName().replaceAll(	"^[0-9]*", ""));

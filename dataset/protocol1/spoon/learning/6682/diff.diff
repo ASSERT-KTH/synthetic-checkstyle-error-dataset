@@ -1,0 +1,4 @@
+51c51
+< 	public void addTypeReference(CtRole role, CtTypeReference<?> ctTypeReference) {
+---
+> 	public void addTypeReference(CtRole role, CtTypeReference<?>ctTypeReference) {

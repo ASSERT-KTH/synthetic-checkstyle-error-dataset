@@ -1,0 +1,4 @@
+144c144
+< 	boolean removePackage(CtPackage pack);
+---
+> 	boolean removePackage(CtPackage pack) ;

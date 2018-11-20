@@ -1,0 +1,4 @@
+852c852
+< 		if (synchro.getExpression() == null && child instanceof CtExpression) {
+---
+> 		if (synchro.getExpression() ==null && child instanceof CtExpression) {

@@ -1,0 +1,4 @@
+43c43
+< 		if (declaration == null) {
+---
+> 		if(declaration == null) {

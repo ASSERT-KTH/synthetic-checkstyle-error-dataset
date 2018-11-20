@@ -1,0 +1,4 @@
+42c42
+< 	private int childFragmentIdx = -1;
+---
+> 	private int childFragmentIdx= -1;

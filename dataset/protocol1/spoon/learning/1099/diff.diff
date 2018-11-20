@@ -1,0 +1,4 @@
+59c59
+< 			if (parent instanceof CtStatement) {
+---
+> 			if (parent instanceof CtStatement){

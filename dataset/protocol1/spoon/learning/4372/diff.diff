@@ -1,0 +1,4 @@
+26c26
+< import static spoon.reflect.path.CtRole.OPERATOR_KIND;
+---
+> import static spoon.reflect.path.CtRole.	OPERATOR_KIND;

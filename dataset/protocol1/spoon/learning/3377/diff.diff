@@ -1,0 +1,4 @@
+22c22
+< 	static final NotEqualException INSTANCE = new NotEqualException();
+---
+> 	static final NotEqualException INSTANCE= new NotEqualException();

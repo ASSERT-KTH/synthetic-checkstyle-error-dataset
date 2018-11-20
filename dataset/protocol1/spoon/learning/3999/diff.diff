@@ -1,0 +1,5 @@
+510,511c510
+< 	public void setCopyResources(boolean copyResources) {
+< 		this.copyResources = copyResources;
+---
+> 	public void setCopyResources(boolean copyResources) {		this.copyResources = copyResources;

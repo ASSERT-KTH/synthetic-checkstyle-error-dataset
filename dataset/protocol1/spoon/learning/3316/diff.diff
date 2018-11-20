@@ -1,0 +1,4 @@
+276c276
+< 					return declarer.getFormalCtTypeParameters().indexOf(typeParam);
+---
+> 					return declarer.getFormalCtTypeParameters().indexOf(typeParam) ;

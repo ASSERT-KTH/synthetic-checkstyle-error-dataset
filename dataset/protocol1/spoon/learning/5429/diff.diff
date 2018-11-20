@@ -1,0 +1,4 @@
+245c245
+< 		return createType(ownerPackage, newTypeRef.getSimpleName(), params);
+---
+> 		return createType(ownerPackage, newTypeRef. getSimpleName(), params);

@@ -1,0 +1,4 @@
+136c136
+< 	CtIntersectionTypeReference<T> asCtIntersectionTypeReference();
+---
+> 	CtIntersectionTypeReference< T> asCtIntersectionTypeReference();

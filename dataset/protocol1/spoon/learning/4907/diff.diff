@@ -1,0 +1,4 @@
+102c102
+< 		CtConstructor<T> constructor = factory.Core().createConstructor();
+---
+> 		CtConstructor	<T> constructor = factory.Core().createConstructor();

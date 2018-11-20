@@ -1,4 +1,0 @@
-290c290
-< 				newSourcesMap.remove(r);
----
-> 				newSourcesMap. remove(r);

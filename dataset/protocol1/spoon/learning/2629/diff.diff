@@ -1,0 +1,5 @@
+79,80c79
+< 	public static boolean isLegalJavaPackageIdentifier(String string) {
+< 		if (string == null) {
+---
+> 	public static boolean isLegalJavaPackageIdentifier(String string) {		if (string == null) {

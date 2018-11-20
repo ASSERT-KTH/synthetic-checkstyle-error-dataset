@@ -1,0 +1,4 @@
+43c43
+< 		this.declarationSourceEnd = declarationSourceEnd;
+---
+> 		this.declarationSourceEnd= declarationSourceEnd;

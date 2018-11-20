@@ -1,0 +1,4 @@
+98c98
+< 			return new SerializationModelStreamer().load(new FileInputStream(file));
+---
+> 			return new SerializationModelStreamer().load(new FileInputStream(file ));

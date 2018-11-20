@@ -1,0 +1,4 @@
+54c54
+< 		return (CtNewClass<T>) super.clone();
+---
+> 		return(CtNewClass<T>) super.clone();

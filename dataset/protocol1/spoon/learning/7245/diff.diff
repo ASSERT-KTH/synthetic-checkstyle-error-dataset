@@ -1,0 +1,5 @@
+69,70c69
+< 	private int searchMatchInList(CtRole role, List<? extends CtElement> list, boolean scanChildren) {
+< 		int matchCount = 0;
+---
+> 	private int searchMatchInList(CtRole role, List<? extends CtElement> list, boolean scanChildren) {		int matchCount = 0;

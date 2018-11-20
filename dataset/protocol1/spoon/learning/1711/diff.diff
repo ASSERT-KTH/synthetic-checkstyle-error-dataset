@@ -1,0 +1,4 @@
+49c49
+< 	<T> void generateTargets(DefaultGenerator generator, ResultHolder<T> result, ImmutableMap parameters);
+---
+> 	<T> void generateTargets( DefaultGenerator generator, ResultHolder<T> result, ImmutableMap parameters);

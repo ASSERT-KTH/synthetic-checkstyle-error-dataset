@@ -1,5 +1,0 @@
-62c62,63
-< 		this(templateRoot, templateRoot.getParent(CtClass.class));
----
-> 		this(templateRoot
-> , templateRoot.getParent(CtClass.class));

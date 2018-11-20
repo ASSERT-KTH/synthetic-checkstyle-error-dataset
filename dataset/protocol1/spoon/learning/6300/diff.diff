@@ -1,0 +1,4 @@
+50c50
+< 	public CtOperatorAssignment<T, A> clone() {
+---
+> 	public CtOperatorAssignment<T, A>clone() {

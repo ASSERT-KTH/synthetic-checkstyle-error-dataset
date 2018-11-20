@@ -1,0 +1,4 @@
+242c242
+< 		if (mode == ScanningMode.SKIP_ALL) {
+---
+> 		if (mode== ScanningMode.SKIP_ALL) {

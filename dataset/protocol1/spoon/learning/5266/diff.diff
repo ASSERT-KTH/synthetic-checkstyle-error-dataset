@@ -1,0 +1,5 @@
+31c31,32
+< 	public <R extends CtCodeElement> R partiallyEvaluate() {
+---
+> 	public <R extends 
+> CtCodeElement> R partiallyEvaluate() {

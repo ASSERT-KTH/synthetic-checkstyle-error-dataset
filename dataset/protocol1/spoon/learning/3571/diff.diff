@@ -1,0 +1,4 @@
+54c54
+< 	public List<SpoonFile> getAllJavaFiles() {
+---
+> 	public List<SpoonFile	> getAllJavaFiles() {

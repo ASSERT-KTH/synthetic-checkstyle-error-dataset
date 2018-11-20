@@ -1,0 +1,4 @@
+91c91
+< 		for (CtElement e : stack) {
+---
+> 		for (CtElement e : stack){

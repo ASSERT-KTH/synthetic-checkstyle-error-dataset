@@ -1,5 +1,0 @@
-37,38c37
-< 			throw new AssertionError("You should specify an existing file.");
-< 		}
----
-> 			throw new AssertionError("You should specify an existing file.");		}

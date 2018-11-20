@@ -1,0 +1,4 @@
+54c54
+< 				throw new SpoonException("Match contains a " + object.getClass() + " which cannot be cast to " + clazz);
+---
+> 				throw new SpoonException("Match contains a " + object.getClass() + " which cannot be cast to " + clazz	);

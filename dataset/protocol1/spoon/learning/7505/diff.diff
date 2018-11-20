@@ -1,0 +1,4 @@
+63c63
+< 	private final Set<File> mInputSources;
+---
+> 	private final Set<File> mInputSources ;

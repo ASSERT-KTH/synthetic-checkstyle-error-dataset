@@ -1,0 +1,5 @@
+290c290,291
+< 				assertNotNull(fieldDeclaration);
+---
+> 				assertNotNull(fieldDeclaration)
+> ;

@@ -1,0 +1,4 @@
+80c80
+< 	<C extends CtNewArray<T>> C addElement(CtExpression<?> expression);
+---
+> 	<C extends CtNewArray< T>> C addElement(CtExpression<?> expression);

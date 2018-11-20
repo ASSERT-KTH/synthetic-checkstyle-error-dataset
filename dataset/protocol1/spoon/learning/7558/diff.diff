@@ -1,0 +1,5 @@
+37,38c37
+< 			int[] lineSeparatorPositions) {
+< 		super(compilationUnit,
+---
+> 			int[] lineSeparatorPositions) {		super(compilationUnit,

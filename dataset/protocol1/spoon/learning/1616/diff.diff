@@ -1,0 +1,4 @@
+265c265
+< 	public void mapLine(CtElement e, CtCompilationUnit unitExpected) {
+---
+> 	public void mapLine(CtElement e, CtCompilationUnit unitExpected){

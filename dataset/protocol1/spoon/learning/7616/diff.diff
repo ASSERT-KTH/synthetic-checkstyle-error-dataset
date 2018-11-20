@@ -1,0 +1,4 @@
+79c79
+< 	TokenWriter writeLiteral(String token);
+---
+> 	TokenWriter writeLiteral	(String token);

@@ -1,0 +1,5 @@
+22c22,23
+< package spoon.metamodel;
+---
+> package spoon.metamodel
+> ;

@@ -1,0 +1,5 @@
+64c64,65
+< 				files.add(new FileSystemFile(f));
+---
+> 				files.add
+> (new FileSystemFile(f));

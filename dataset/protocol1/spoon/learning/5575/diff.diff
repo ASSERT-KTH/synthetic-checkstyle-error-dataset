@@ -1,0 +1,4 @@
+45c45
+< 	List<CtCatch> catchers = emptyList();
+---
+> 	List<CtCatch>catchers = emptyList();

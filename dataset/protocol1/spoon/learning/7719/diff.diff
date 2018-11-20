@@ -1,0 +1,5 @@
+299c299,300
+< 		if ((errorCount + warningCount) > 0) {
+---
+> 		if ((errorCount 
+> + warningCount) > 0) {

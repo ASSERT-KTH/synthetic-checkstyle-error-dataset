@@ -1,0 +1,5 @@
+27,28c27
+< import spoon.reflect.declaration.CtImportKind;
+< import spoon.reflect.reference.CtTypeReference;
+---
+> import spoon.reflect.declaration.CtImportKind;import spoon.reflect.reference.CtTypeReference;

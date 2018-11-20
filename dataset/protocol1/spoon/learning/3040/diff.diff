@@ -1,0 +1,4 @@
+56c56
+< 	public PatternBuilderHelper(CtType<?> templateTemplate) {
+---
+> 	public PatternBuilderHelper( CtType<?> templateTemplate) {

@@ -1,0 +1,5 @@
+40c40,41
+< 	public Class<T> getRequiredClass() {
+---
+> 	public Class<T> getRequiredClass
+> () {

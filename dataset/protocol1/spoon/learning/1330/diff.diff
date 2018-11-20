@@ -1,0 +1,4 @@
+103c103
+< 		constructor.setModifiers(modifiers);
+---
+> 		constructor. setModifiers(modifiers);

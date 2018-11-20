@@ -1,4 +1,0 @@
-51c51
-< 		CtClass<? extends Template<?>> templateType = Substitution.getTemplateCtClass(templateRoot.getFactory(), template);
----
-> 		CtClass< ? extends Template<?>> templateType = Substitution.getTemplateCtClass(templateRoot.getFactory(), template);

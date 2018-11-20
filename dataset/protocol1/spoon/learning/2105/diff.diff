@@ -1,0 +1,5 @@
+42c42,43
+< 	public <T extends CtBodyHolder> T setBody(CtStatement statement) {
+---
+> 	public <T 
+> extends CtBodyHolder> T setBody(CtStatement statement) {

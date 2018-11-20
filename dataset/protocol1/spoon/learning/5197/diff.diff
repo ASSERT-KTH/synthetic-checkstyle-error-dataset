@@ -1,0 +1,5 @@
+33c33,34
+< 	@PropertyGetter(role = CtRole.TYPE_ARGUMENT)
+---
+> 	
+> @PropertyGetter(role = CtRole.TYPE_ARGUMENT)

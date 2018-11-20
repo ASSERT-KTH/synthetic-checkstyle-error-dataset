@@ -1,0 +1,4 @@
+48c48
+< 	public InvocationFilter(CtMethod<?> method) {
+---
+> 	public InvocationFilter(CtMethod< ?> method) {

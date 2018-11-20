@@ -1,0 +1,5 @@
+113c113,114
+< 		return (CtUnaryOperator<T>) super.clone();
+---
+> 		return (CtUnaryOperator<T>) super.clone()
+> ;

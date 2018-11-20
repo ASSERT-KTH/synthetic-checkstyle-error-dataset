@@ -1,0 +1,4 @@
+308c308
+< 		logger.info(message);
+---
+> 		logger.info(message)	;

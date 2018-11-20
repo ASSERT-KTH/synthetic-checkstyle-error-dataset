@@ -1,0 +1,4 @@
+99c99
+< 	<C extends CtClass<T>> C setConstructors(Set<CtConstructor<T>> constructors);
+---
+> 	<C extends CtClass<T>> C setConstructors(	Set<CtConstructor<T>> constructors);

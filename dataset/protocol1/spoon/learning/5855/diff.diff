@@ -1,0 +1,5 @@
+282c282,283
+< 					: new SourceFragmentContextSet(mutableTokenWriter, element, csf.getItems(), changeResolver);
+---
+> 					: new SourceFragmentContextSet(mutableTokenWriter
+> , element, csf.getItems(), changeResolver);

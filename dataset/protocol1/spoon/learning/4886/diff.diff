@@ -1,0 +1,5 @@
+87c87,88
+< 			addClone(others, element);
+---
+> 			addClone(others
+> , element);

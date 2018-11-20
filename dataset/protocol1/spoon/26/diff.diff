@@ -1,5 +1,0 @@
-71,72c71
-< 	public TemplateMatcher(CtElement templateRoot, CtClass<?> templateType) {
-< 		this.pattern = TemplateBuilder.createPattern(templateRoot, templateType, null).build(nodes -> this.patternModel = nodes);
----
-> 	public TemplateMatcher(CtElement templateRoot, CtClass<?> templateType) {		this.pattern = TemplateBuilder.createPattern(templateRoot, templateType, null).build(nodes -> this.patternModel = nodes);

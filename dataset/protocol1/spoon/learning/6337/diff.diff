@@ -1,0 +1,4 @@
+25c25
+< import static spoon.reflect.path.CtRole.IMPORT_REFERENCE;
+---
+> import static spoon.reflect.path. CtRole.IMPORT_REFERENCE;

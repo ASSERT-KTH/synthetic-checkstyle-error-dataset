@@ -1,0 +1,5 @@
+207,208c207
+< 	public CtCase<E> clone() {
+< 		return (CtCase<E>) super.clone();
+---
+> 	public CtCase<E> clone() {		return (CtCase<E>) super.clone();

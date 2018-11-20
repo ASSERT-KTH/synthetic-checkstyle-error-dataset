@@ -1,0 +1,5 @@
+178,179c178
+< 	public <T extends CtActualTypeContainer> T addActualTypeArgument(CtTypeReference<?> actualTypeArgument) {
+< 		if (getExecutable() != null) {
+---
+> 	public <T extends CtActualTypeContainer> T addActualTypeArgument(CtTypeReference<?> actualTypeArgument) {		if (getExecutable() != null) {

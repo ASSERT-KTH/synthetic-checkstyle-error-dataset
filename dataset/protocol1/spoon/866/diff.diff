@@ -1,4 +1,0 @@
-413c413
-< 			sw1.setLongFlag("disable-comments");
----
-> 			sw1.setLongFlag ("disable-comments");

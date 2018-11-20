@@ -1,0 +1,4 @@
+399c399
+< 		if (element == null) {
+---
+> 		if (element== null) {

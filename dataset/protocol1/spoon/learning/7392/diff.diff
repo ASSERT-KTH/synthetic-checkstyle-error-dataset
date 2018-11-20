@@ -1,0 +1,4 @@
+86c86
+< 		return (CtJavaDocTag) super.clone();
+---
+> 		return (CtJavaDocTag) super.	clone();

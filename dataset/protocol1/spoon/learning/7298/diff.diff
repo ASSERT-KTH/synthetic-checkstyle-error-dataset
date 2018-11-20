@@ -1,0 +1,4 @@
+79c79
+< 	@MetamodelPropertyField(role = CtRole.CONTAINED_TYPE)
+---
+> 	 @MetamodelPropertyField(role = CtRole.CONTAINED_TYPE)

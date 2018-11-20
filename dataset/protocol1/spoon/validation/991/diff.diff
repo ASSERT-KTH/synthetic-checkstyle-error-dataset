@@ -1,0 +1,4 @@
+167c167
+< 		return obj.toString().replaceAll("[\\r\\n\\t]+", "").replaceAll("\\s{2,}", " ");
+---
+> 		return obj.toString().replaceAll("[\\r\\n\\t]+", "" ).replaceAll("\\s{2,}", " ");

@@ -1,0 +1,4 @@
+456c456
+< 				declarationStart, declarationStart - 1,
+---
+> 				declarationStart, declarationStart -1,

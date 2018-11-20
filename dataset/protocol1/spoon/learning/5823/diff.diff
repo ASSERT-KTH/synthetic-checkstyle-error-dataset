@@ -1,0 +1,4 @@
+72c72
+< 	public <R, B extends R> CtMethod<R> create(CtClass<?> target, Set<ModifierKind> modifiers, CtTypeReference<R> returnType, String name, List<CtParameter<?>> parameters,
+---
+> 	public <R, B extends R> CtMethod<R>create(CtClass<?> target, Set<ModifierKind> modifiers, CtTypeReference<R> returnType, String name, List<CtParameter<?>> parameters,

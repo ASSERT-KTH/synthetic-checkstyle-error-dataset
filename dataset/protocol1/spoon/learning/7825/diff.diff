@@ -1,0 +1,4 @@
+300c300
+< 			opt2.setLongFlag("output");
+---
+> 			opt2.setLongFlag ("output");

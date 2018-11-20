@@ -1,0 +1,4 @@
+33c33
+< public class ParentFunction implements CtConsumableFunction<CtElement>, CtQueryAware {
+---
+> public class ParentFunction implements CtConsumableFunction	<CtElement>, CtQueryAware {

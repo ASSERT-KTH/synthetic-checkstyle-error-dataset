@@ -1,0 +1,4 @@
+53c53
+< 	public void initializeCompiler(JDTBatchCompiler compiler) {
+---
+> 	public void initializeCompiler( JDTBatchCompiler compiler) {

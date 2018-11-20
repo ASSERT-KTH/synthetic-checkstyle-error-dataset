@@ -1,0 +1,4 @@
+116c116
+< 		return (CtAnnotationMethod<T>) super.clone();
+---
+> 		return (CtAnnotationMethod<T>) super.clone ();

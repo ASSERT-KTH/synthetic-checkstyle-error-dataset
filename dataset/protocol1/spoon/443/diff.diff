@@ -1,4 +1,0 @@
-64c64
-< 			withProcessor(processor.newInstance());
----
-> 			withProcessor(	processor.newInstance());

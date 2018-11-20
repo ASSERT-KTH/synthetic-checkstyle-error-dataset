@@ -1,0 +1,4 @@
+51c51
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CONDITION, asserted, this.asserted);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this,CONDITION, asserted, this.asserted);

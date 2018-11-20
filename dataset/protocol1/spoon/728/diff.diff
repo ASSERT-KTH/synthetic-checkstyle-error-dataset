@@ -1,5 +1,0 @@
-61c61,62
-< 		final List<CtType<?>> actualTypes = new ArrayList<>(actual.getTypes());
----
-> 		final 
-> List<CtType<?>> actualTypes = new ArrayList<>(actual.getTypes());

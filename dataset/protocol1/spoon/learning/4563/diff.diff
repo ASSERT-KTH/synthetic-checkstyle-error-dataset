@@ -1,0 +1,5 @@
+42c42,43
+< 		super(CtCatchVariable.class, CtCatchVariableReference.class, catchVariable);
+---
+> 		super
+> (CtCatchVariable.class, CtCatchVariableReference.class, catchVariable);

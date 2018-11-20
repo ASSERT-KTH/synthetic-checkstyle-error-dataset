@@ -1,0 +1,5 @@
+60c60,61
+< 	String LINE_SEPARATOR = "\n";
+---
+> 	String LINE_SEPARATOR = "\n"
+> ;

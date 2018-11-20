@@ -1,0 +1,4 @@
+521c521
+< 	public void visitCtPackageDeclaration(CtPackageDeclaration packageDeclaration) {
+---
+> 	public void visitCtPackageDeclaration(CtPackageDeclaration packageDeclaration){

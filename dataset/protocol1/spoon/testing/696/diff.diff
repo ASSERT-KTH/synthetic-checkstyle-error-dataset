@@ -1,0 +1,4 @@
+56c56
+< 			if (outputType.toString().equals(string)) {
+---
+> 			if (	outputType.toString().equals(string)) {

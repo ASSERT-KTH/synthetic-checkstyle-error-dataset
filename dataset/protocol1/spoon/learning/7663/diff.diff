@@ -1,0 +1,4 @@
+51c51
+< 	public CtParameter<T> getDeclaration() {
+---
+> 	public CtParameter<T> getDeclaration () {

@@ -1,0 +1,5 @@
+182c182,183
+< 		return (ln >= 1) ? "(" + getFile().getAbsolutePath().replace('\\', '/').replace("C:/", "/") + ":" + ln + ")" : getFile().getAbsolutePath().replace('\\', '/').replace("C:/", "/");
+---
+> 		return (ln >= 1) ? "(" + getFile().getAbsolutePath().replace('\\', '/').replace("C:/"
+> , "/") + ":" + ln + ")" : getFile().getAbsolutePath().replace('\\', '/').replace("C:/", "/");

@@ -1,0 +1,4 @@
+93c93
+< 	Set<CtTypeReference<? extends Throwable>> getThrownTypes();
+---
+> 	Set<CtTypeReference<? extends Throwable>> getThrownTypes() ;

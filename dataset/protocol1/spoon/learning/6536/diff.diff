@@ -1,0 +1,4 @@
+33c33
+< public class RegexFilter<E extends CtElement> implements Filter<E> {
+---
+> public class RegexFilter<	E extends CtElement> implements Filter<E> {

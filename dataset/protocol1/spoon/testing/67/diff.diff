@@ -1,0 +1,4 @@
+39c39
+< 		context = new ClassTypingContext(method.getDeclaringType());
+---
+> 		context = new ClassTypingContext (method.getDeclaringType());

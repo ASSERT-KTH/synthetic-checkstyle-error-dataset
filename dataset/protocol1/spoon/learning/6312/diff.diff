@@ -1,0 +1,5 @@
+623,624c623
+< 	public <T> void visitCtClass(CtClass<T> ctClass) {
+< 		context.pushCurrentThis(ctClass);
+---
+> 	public <T> void visitCtClass(CtClass<T> ctClass) {		context.pushCurrentThis(ctClass);

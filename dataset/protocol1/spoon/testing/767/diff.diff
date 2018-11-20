@@ -1,0 +1,4 @@
+790c790
+< 		spoon.reflect.code.CtVariableWrite other = ((spoon.reflect.code.CtVariableWrite) (this.stack.peek()));
+---
+> 		spoon.reflect.code.CtVariableWrite other= ((spoon.reflect.code.CtVariableWrite) (this.stack.peek()));

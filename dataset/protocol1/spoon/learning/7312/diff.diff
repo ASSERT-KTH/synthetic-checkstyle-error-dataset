@@ -1,0 +1,5 @@
+48c48,49
+< 	public ParameterScopeFunction(CtScannerListener queryListener) {
+---
+> 	
+> public ParameterScopeFunction(CtScannerListener queryListener) {

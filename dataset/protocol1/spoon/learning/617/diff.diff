@@ -1,0 +1,4 @@
+19c19
+< import spoon.pattern.internal.node.RootNode;
+---
+> import spoon.pattern. internal.node.RootNode;

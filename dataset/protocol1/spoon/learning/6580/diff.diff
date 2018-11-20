@@ -1,0 +1,5 @@
+407c407,408
+< 								comment.getParent();
+---
+> 								
+> comment.getParent();

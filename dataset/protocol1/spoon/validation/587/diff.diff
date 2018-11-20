@@ -1,0 +1,5 @@
+71c71,72
+< 		getFactory().getEnvironment().getModelChangeListener().onListAdd(this, ARGUMENT, this.arguments, position, argument);
+---
+> 		getFactory
+> ().getEnvironment().getModelChangeListener().onListAdd(this, ARGUMENT, this.arguments, position, argument);

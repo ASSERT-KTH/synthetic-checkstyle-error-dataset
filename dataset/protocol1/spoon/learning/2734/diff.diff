@@ -1,0 +1,5 @@
+52,53c52
+< 		} catch (UnsupportedOperationException e) {
+< 			return false;
+---
+> 		} catch (UnsupportedOperationException e) {			return false;

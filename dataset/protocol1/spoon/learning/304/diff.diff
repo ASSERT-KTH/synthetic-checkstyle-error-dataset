@@ -1,0 +1,4 @@
+285c285
+< 	<M, C extends CtType<T>> C addMethod(CtMethod<M> method);
+---
+> 	<M, C extends CtType<T>> C addMethod(CtMethod<M> method)	;

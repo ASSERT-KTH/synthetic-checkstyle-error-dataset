@@ -1,0 +1,4 @@
+53c53
+< 	CtAssignment<T, A> clone();
+---
+> 	CtAssignment< T, A> clone();

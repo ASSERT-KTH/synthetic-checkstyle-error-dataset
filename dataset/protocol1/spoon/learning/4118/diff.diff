@@ -1,0 +1,5 @@
+274,275c274
+< 					if (interfaces != null) {
+< 						for (ReferenceBinding rb : interfaces) {
+---
+> 					if (interfaces != null) {						for (ReferenceBinding rb : interfaces) {

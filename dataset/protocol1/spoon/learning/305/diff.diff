@@ -1,0 +1,4 @@
+43c43
+< 	public Iterator<E> iterator() {
+---
+> 	public Iterator <E> iterator() {

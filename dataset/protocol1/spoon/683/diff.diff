@@ -1,4 +1,0 @@
-134c134
-< 			File srcPom =  new File(pomPath);
----
-> 			File srcPom =  new File (pomPath);

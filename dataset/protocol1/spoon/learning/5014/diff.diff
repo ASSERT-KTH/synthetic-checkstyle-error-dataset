@@ -1,0 +1,4 @@
+48c48
+< 		return (CtArrayAccess<T, V>) super.clone();
+---
+> 		return(CtArrayAccess<T, V>) super.clone();

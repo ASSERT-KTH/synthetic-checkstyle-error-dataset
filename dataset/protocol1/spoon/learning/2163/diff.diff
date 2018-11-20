@@ -1,0 +1,5 @@
+92c92,93
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.TYPE, type, this.type);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, 
+> CtRole.TYPE, type, this.type);

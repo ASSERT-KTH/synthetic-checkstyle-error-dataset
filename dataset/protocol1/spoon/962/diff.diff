@@ -1,5 +1,0 @@
-19c19,20
-< import spoon.SpoonException;
----
-> import spoon.SpoonException
-> ;

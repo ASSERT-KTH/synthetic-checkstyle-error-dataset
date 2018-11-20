@@ -1,0 +1,4 @@
+66c66
+< 		this.distinctSet = distinctSet;
+---
+> 		this.distinctSet = distinctSet	;

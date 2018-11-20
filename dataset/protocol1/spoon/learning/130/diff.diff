@@ -1,0 +1,4 @@
+472c472
+< 				CtMethod<?> method = (CtMethod<?>) typeMember;
+---
+> 				CtMethod<?> method =(CtMethod<?>) typeMember;

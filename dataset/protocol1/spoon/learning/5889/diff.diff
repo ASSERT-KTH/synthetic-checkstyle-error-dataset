@@ -1,0 +1,4 @@
+45c45
+< 				if (catchBlock == null) {
+---
+> 				if (catchBlock ==null) {

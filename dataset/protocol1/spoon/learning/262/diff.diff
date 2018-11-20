@@ -1,0 +1,4 @@
+313c313
+< 			nextSibling = nextSibling.add(sibling);
+---
+> 			nextSibling = nextSibling. add(sibling);

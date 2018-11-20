@@ -1,0 +1,4 @@
+47c47
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, NESTED_TYPE, anonymousClass, this.anonymousClass);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate	(this, NESTED_TYPE, anonymousClass, this.anonymousClass);

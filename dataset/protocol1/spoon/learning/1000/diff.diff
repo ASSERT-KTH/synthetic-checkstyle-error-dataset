@@ -1,0 +1,4 @@
+559c559
+< 				comment.getPosition().getSourceEnd());
+---
+> 				comment.getPosition(). getSourceEnd());

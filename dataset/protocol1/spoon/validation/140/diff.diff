@@ -1,0 +1,5 @@
+140c140,141
+< 			if (typeMember instanceof CtType) {
+---
+> 			
+> if (typeMember instanceof CtType) {

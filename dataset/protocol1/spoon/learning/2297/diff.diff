@@ -1,0 +1,4 @@
+41c41
+< 	Collection<CtType<?>> getAllTypes();
+---
+> 	Collection<CtType<? >> getAllTypes();

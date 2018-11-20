@@ -1,0 +1,4 @@
+35c35
+< public interface CtOperatorAssignment<T, A extends T> extends CtAssignment<T, A> {
+---
+> public interface CtOperatorAssignment<T, A extends T> extends CtAssignment <T, A> {

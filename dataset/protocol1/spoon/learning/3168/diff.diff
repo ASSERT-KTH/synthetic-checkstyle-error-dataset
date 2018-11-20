@@ -1,0 +1,4 @@
+214c214
+< 						((FieldBinding) qualifiedNameReference.binding).declaringClass.compoundName);
+---
+> 						((FieldBinding) qualifiedNameReference.binding).declaringClass.	compoundName);

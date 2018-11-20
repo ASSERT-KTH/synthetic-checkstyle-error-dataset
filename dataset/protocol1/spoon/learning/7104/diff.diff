@@ -1,0 +1,4 @@
+54c54
+< 	public LambdaFilter(CtTypeReference<?> iface) {
+---
+> 	public LambdaFilter(CtTypeReference	<?> iface) {

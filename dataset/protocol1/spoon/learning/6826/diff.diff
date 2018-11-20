@@ -1,0 +1,4 @@
+146c146
+< 				last.addPackage(next);
+---
+> 				last.addPackage(next)	;

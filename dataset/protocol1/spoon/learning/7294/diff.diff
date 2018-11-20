@@ -1,0 +1,4 @@
+115c115
+< 		return new HashSet<>(consumedAnnotationTypes.values());
+---
+> 		return new HashSet<>(consumedAnnotationTypes.values())	;

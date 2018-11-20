@@ -1,0 +1,4 @@
+19c19
+< import spoon.support.sniper.internal.ElementSourceFragment;
+---
+> import spoon.support.sniper.	internal.ElementSourceFragment;

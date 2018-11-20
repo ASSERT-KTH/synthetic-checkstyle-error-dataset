@@ -1,0 +1,4 @@
+241c241
+< 						throw new SpoonException("Unexpected variable " + variable.getClass().getName());
+---
+> 						throw new SpoonException("Unexpected variable " + variable. getClass().getName());

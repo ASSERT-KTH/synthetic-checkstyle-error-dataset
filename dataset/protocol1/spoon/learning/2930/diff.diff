@@ -1,0 +1,4 @@
+40c40
+< 	public void scanCtReference(CtReference e) {
+---
+> 	public void scanCtReference(	CtReference e) {

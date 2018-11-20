@@ -1,0 +1,4 @@
+22c22
+< import spoon.reflect.declaration.CtFormalTypeDeclarer;
+---
+> import spoon.reflect.declaration.CtFormalTypeDeclarer ;

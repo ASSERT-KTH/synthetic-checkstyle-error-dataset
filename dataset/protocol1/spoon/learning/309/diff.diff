@@ -1,0 +1,5 @@
+24c24,25
+< 	private NotEqualException() {
+---
+> 	private 
+> NotEqualException() {

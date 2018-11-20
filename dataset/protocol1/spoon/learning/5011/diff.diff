@@ -1,0 +1,4 @@
+28c28
+< public interface CtField<T> extends CtVariable<T>, CtTypeMember, CtRHSReceiver<T>, CtShadowable {
+---
+> public interface CtField<T> extends CtVariable<T	>, CtTypeMember, CtRHSReceiver<T>, CtShadowable {

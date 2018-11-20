@@ -1,0 +1,4 @@
+50c50
+< 	@MetamodelPropertyField(role = CtRole.MODIFIER)
+---
+> 	@MetamodelPropertyField(role =CtRole.MODIFIER)

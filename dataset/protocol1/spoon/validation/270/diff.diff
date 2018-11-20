@@ -1,0 +1,5 @@
+62c62,63
+< 	void visitField(Field field);
+---
+> 	void 
+> visitField(Field field);

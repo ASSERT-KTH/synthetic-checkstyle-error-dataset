@@ -1,0 +1,4 @@
+50c50
+< 	public boolean accept(CtType type) {
+---
+> 	public boolean accept(CtType type){

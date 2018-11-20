@@ -1,0 +1,5 @@
+32,33c32
+< 	public CtPathException(String message) {
+< 		super(message);
+---
+> 	public CtPathException(String message) {		super(message);

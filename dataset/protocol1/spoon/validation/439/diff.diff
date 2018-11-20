@@ -1,0 +1,5 @@
+90c90,91
+< 	<E extends CtComment> E setCommentType(CommentType commentType);
+---
+> 	<E extends 
+> CtComment> E setCommentType(CommentType commentType);

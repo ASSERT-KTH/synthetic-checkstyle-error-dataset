@@ -1,0 +1,4 @@
+126c126
+< 	private <T> T getFirstResult(ResultHolder<T> result, int firstResultIdx) {
+---
+> 	private <T>T getFirstResult(ResultHolder<T> result, int firstResultIdx) {

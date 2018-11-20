@@ -1,0 +1,4 @@
+48c48
+< 	List<CtTypeParameter> formalCtTypeParameters = emptyList();
+---
+> 	List	<CtTypeParameter> formalCtTypeParameters = emptyList();

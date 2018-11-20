@@ -1,0 +1,5 @@
+35c35,36
+< 	public List<CtPathElement> getElements() {
+---
+> 	
+> public List<CtPathElement> getElements() {

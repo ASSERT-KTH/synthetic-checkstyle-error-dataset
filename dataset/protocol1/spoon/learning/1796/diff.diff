@@ -1,0 +1,5 @@
+52c52,53
+< 	public <U> void generateTargets(DefaultGenerator generator, ResultHolder<U> result, ImmutableMap parameters) {
+---
+> 	public <U> void generateTargets(DefaultGenerator 
+> generator, ResultHolder<U> result, ImmutableMap parameters) {

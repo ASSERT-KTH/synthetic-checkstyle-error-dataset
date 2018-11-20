@@ -1,0 +1,4 @@
+410c410
+< 		if (classloader != null) {
+---
+> 		if (classloader!= null) {

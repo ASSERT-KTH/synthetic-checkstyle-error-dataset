@@ -1,0 +1,4 @@
+81c81
+< 	public CompositeFilter(FilteringOperator operator, Filter<T>... filters) {
+---
+> 	public CompositeFilter(	FilteringOperator operator, Filter<T>... filters) {

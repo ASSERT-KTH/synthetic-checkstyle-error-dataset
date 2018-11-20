@@ -1,0 +1,4 @@
+185c185
+< 		this.statements.add(index, statement);
+---
+> 		this.statements.add(index,statement);

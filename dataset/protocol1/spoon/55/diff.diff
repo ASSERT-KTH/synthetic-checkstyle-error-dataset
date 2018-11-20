@@ -1,5 +1,0 @@
-35c35,36
-< 	protected final A actual;
----
-> 	
-> protected final A actual;

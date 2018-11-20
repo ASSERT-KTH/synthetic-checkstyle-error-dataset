@@ -1,4 +1,0 @@
-45c45
-< 	public BlockTemplate() {
----
-> 	public BlockTemplate () {

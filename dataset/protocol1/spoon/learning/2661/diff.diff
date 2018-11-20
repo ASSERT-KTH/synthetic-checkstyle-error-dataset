@@ -1,0 +1,4 @@
+35c35
+< public interface CtModel extends Serializable, CtQueryable {
+---
+>  public interface CtModel extends Serializable, CtQueryable {

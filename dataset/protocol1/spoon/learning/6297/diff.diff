@@ -1,0 +1,4 @@
+96c96
+< 	public final CtTypeReference<List> LIST = createReference(List.class);
+---
+> 	public final CtTypeReference<List	> LIST = createReference(List.class);

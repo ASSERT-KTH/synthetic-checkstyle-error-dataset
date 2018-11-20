@@ -1,0 +1,5 @@
+76,77c76
+< 		if (catcher == null) {
+< 			return (T) this;
+---
+> 		if (catcher == null) {			return (T) this;

@@ -1,0 +1,4 @@
+40c40
+< public interface CtSuperAccess<T> extends CtVariableRead<T>, CtTargetedExpression<T, CtExpression<?>> {
+---
+> public interface CtSuperAccess	<T> extends CtVariableRead<T>, CtTargetedExpression<T, CtExpression<?>> {

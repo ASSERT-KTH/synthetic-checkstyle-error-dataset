@@ -1,0 +1,4 @@
+43c43
+< 	public T isEqualTo(CtPackage expected) {
+---
+> 	public T isEqualTo(CtPackage expected){

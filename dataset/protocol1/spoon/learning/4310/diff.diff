@@ -1,0 +1,4 @@
+60c60
+< 						objectRepresentation = getUserObject().toString();
+---
+> 						objectRepresentation = getUserObject ().toString();

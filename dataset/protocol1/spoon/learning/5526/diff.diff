@@ -1,0 +1,4 @@
+260c260
+< 		if (clazz.getPackage() != null) {
+---
+> 		 if (clazz.getPackage() != null) {

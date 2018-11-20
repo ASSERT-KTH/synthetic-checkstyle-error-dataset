@@ -1,0 +1,4 @@
+21c21
+< import spoon.reflect.declaration.CtField;
+---
+>  import spoon.reflect.declaration.CtField;

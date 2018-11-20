@@ -1,0 +1,4 @@
+26c26
+< 	private final CtMethod<?> method;
+---
+> 	 private final CtMethod<?> method;

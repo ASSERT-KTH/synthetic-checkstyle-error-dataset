@@ -1,0 +1,4 @@
+264c264
+< 		} else if (!ctImport.getImportKind().equals(peek.getImportKind())) {
+---
+> 		} else if (!ctImport.getImportKind().equals(peek.getImportKind	())) {

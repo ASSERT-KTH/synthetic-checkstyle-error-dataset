@@ -1,0 +1,4 @@
+26c26
+< 		return (Iterator<T>) EMPTY_ITERATOR;
+---
+> 		return (Iterator<T>) EMPTY_ITERATOR	;

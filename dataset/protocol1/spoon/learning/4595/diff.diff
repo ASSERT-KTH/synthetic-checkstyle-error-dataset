@@ -1,0 +1,4 @@
+62c62
+< 	@PropertyGetter(role = ACCESSED_TYPE)
+---
+> 	@PropertyGetter( role = ACCESSED_TYPE)

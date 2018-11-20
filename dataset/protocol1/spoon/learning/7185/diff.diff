@@ -1,0 +1,5 @@
+62,63c62
+< 	private static final Set<String> modifierKeywords = new HashSet<>(Arrays.asList(
+< 			"public", "protected", "private", "static", "default", "final"));
+---
+> 	private static final Set<String> modifierKeywords = new HashSet<>(Arrays.asList(			"public", "protected", "private", "static", "default", "final"));

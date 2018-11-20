@@ -1,0 +1,5 @@
+73c73,74
+< 		class PackageComparator implements Comparator<CtPackage> {
+---
+> 		class PackageComparator 
+> implements Comparator<CtPackage> {

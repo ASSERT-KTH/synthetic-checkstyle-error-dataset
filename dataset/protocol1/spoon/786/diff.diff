@@ -1,5 +1,0 @@
-44,45c44
-< 		for (CtTypeMember tm : new ArrayList<>(generated.getTypeMembers())) {
-< 			tm.delete();
----
-> 		for (CtTypeMember tm : new ArrayList<>(generated.getTypeMembers())) {			tm.delete();

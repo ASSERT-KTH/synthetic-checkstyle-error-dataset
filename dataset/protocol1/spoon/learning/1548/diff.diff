@@ -1,0 +1,4 @@
+139c139
+< 	Collection<CtFieldReference<?>> getDeclaredFields();
+---
+> 	Collection<CtFieldReference<?>> getDeclaredFields	();

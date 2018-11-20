@@ -1,0 +1,4 @@
+135c135
+< 		if (!Objects.equals(returnType, rtMethod.returnType)) {
+---
+> 		if (!Objects. equals(returnType, rtMethod.returnType)) {

@@ -1,0 +1,5 @@
+114c114,115
+< 		if (!m.getModifiers().containsAll(peek.getModifiers())) {
+---
+> 		
+> if (!m.getModifiers().containsAll(peek.getModifiers())) {

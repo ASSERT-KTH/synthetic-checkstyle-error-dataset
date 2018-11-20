@@ -1,0 +1,4 @@
+50c50
+< 	<T extends Annotation> void visitAnnotationClass(Class<T> clazz);
+---
+> 	<T extends Annotation> void visitAnnotationClass( Class<T> clazz);

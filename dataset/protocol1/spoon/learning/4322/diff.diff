@@ -1,0 +1,5 @@
+159c159,160
+< 				MetamodelProperty mmField = getOrCreateMMField(role);
+---
+> 				MetamodelProperty 
+> mmField = getOrCreateMMField(role);

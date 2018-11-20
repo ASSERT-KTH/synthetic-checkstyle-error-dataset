@@ -1,0 +1,4 @@
+33c33
+< import spoon.support.reflect.declaration.CtPackageImpl;
+---
+> import spoon.support.reflect.declaration. CtPackageImpl;

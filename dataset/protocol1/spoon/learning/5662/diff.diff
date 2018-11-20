@@ -1,0 +1,5 @@
+44c44,45
+< 	public static final int CASTS_CONTAINER_DEFAULT_CAPACITY = 1;
+---
+> 	public static final int CASTS_CONTAINER_DEFAULT_CAPACITY = 1
+> ;

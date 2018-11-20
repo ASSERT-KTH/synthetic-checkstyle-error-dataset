@@ -1,0 +1,4 @@
+77c77
+< 	<C extends CtType<Object>> C setNestedTypes(Set<CtType<?>> nestedTypes);
+---
+> 	<C extends CtType<Object>> C setNestedTypes(Set<CtType<?>>nestedTypes);

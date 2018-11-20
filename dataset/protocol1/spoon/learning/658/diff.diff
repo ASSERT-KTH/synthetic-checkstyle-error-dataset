@@ -1,0 +1,4 @@
+49c49
+< 		type = accessedType;
+---
+> 		type = accessedType ;

@@ -1,0 +1,4 @@
+58c58
+< 		CtModule topLevel = input.getFactory().getModel().getUnnamedModule();
+---
+> 		CtModule topLevel = input.getFactory().getModel().getUnnamedModule()	;

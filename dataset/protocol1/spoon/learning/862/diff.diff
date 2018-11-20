@@ -1,0 +1,4 @@
+72c72
+< 		final CtQuery q = ((CtQueryable) input).map(new SuperInheritanceHierarchyFunction(distinctSet == null ? new HashSet<>() : distinctSet).includingSelf(true));
+---
+> 		final CtQuery q = ((CtQueryable) input ).map(new SuperInheritanceHierarchyFunction(distinctSet == null ? new HashSet<>() : distinctSet).includingSelf(true));

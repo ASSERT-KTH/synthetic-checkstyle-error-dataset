@@ -1,0 +1,4 @@
+30c30
+< public interface CtRefactoring {
+---
+>  public interface CtRefactoring {

@@ -1,0 +1,4 @@
+36c36
+< import spoon.reflect.visitor.chain.CtQueryable;
+---
+> import spoon.reflect.visitor.chain.CtQueryable ;

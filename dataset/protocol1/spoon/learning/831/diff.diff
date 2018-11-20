@@ -1,0 +1,4 @@
+107c107
+< 		public void ignoreChildrenOf(CtElement element) {
+---
+> 		 public void ignoreChildrenOf(CtElement element) {

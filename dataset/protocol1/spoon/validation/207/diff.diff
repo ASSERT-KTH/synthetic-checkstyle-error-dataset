@@ -1,0 +1,5 @@
+131c131,132
+< 	void interrupt();
+---
+> 	void interrupt
+> ();

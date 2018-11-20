@@ -1,0 +1,4 @@
+86c86
+< 			if (folder != null && !result.contains(folder)) {
+---
+> 			if(folder != null && !result.contains(folder)) {

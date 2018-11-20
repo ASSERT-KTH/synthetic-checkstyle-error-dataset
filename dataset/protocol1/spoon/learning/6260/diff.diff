@@ -1,0 +1,4 @@
+41c41
+< public class CtAnnotationTypeImpl<T extends Annotation> extends CtTypeImpl<T> implements CtAnnotationType<T> {
+---
+> public class CtAnnotationTypeImpl<T extends Annotation> extends CtTypeImpl<T>implements CtAnnotationType<T> {

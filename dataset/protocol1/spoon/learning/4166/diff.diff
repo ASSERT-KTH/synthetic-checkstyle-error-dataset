@@ -1,0 +1,4 @@
+180c180
+< 		public <T> void generateTargets(DefaultGenerator generator, ResultHolder<T> result, ImmutableMap parameters) {
+---
+> 		public <T> void generateTargets(DefaultGenerator generator, ResultHolder< T> result, ImmutableMap parameters) {

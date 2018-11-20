@@ -1,0 +1,5 @@
+27c27,28
+< 	<T> T get(Class<T> type, String name);
+---
+> 	<T> 
+> T get(Class<T> type, String name);

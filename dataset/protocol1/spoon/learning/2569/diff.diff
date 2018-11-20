@@ -1,0 +1,4 @@
+17c17
+< package spoon.pattern;
+---
+> package spoon.pattern ;

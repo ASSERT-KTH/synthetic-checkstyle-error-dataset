@@ -1,0 +1,4 @@
+38c38
+< 	void apply(T input, CtConsumer<Object> outputConsumer);
+---
+> 	void apply (T input, CtConsumer<Object> outputConsumer);

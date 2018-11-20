@@ -1,0 +1,5 @@
+95c95,96
+< 		SourcePosition sp = this.getPosition();
+---
+> 		
+> SourcePosition sp = this.getPosition();

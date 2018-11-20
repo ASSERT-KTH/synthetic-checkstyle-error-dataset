@@ -1,0 +1,5 @@
+49c49,50
+< 	CtVariableAccess<T> clone();
+---
+> 	CtVariableAccess<T> clone
+> ();

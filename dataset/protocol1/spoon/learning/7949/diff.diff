@@ -1,0 +1,4 @@
+27c27
+< 	public CollectionContext(CtElement element, CtRole role, T copyOfTheCollection) {
+---
+> 	public CollectionContext(	CtElement element, CtRole role, T copyOfTheCollection) {

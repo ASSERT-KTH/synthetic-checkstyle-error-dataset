@@ -1,0 +1,5 @@
+46c46,47
+< 		this(jarPath, null, (String) null);
+---
+> 		this(jarPath, null
+> , (String) null);

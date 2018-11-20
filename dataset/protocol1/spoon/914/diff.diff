@@ -1,5 +1,0 @@
-32,33c32
-< import spoon.support.util.ImmutableMap;
-< import spoon.support.util.ImmutableMapImpl;
----
-> import spoon.support.util.ImmutableMap;import spoon.support.util.ImmutableMapImpl;

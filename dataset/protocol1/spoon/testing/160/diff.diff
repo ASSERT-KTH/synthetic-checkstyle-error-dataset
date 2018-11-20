@@ -1,0 +1,5 @@
+51,52c51
+< 		if (event instanceof TokenPrinterEvent) {
+< 			TokenPrinterEvent tpe = (TokenPrinterEvent) event;
+---
+> 		if (event instanceof TokenPrinterEvent) {			TokenPrinterEvent tpe = (TokenPrinterEvent) event;

@@ -1,0 +1,4 @@
+56c56
+< 	@PropertySetter(role = TRY_RESOURCE)
+---
+> 	@PropertySetter(role = TRY_RESOURCE	)

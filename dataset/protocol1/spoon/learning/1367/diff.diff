@@ -1,0 +1,4 @@
+37c37
+< 	<R extends CtElement> R evaluate(R element);
+---
+> 	<R extends CtElement> R evaluate( R element);

@@ -1,0 +1,5 @@
+45,46c45
+< 	public CtBlock<?> getBody() {
+< 		return body;
+---
+> 	public CtBlock<?> getBody() {		return body;

@@ -1,0 +1,4 @@
+86c86
+< 			hasSuperInterface = superType.isInterface();
+---
+> 			hasSuperInterface =superType.isInterface();

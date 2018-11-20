@@ -1,0 +1,4 @@
+47c47
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, EXPRESSION, expression, this.expression);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this,EXPRESSION, expression, this.expression);

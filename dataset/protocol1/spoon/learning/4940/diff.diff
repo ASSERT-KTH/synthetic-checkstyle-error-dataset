@@ -1,0 +1,5 @@
+35,36c35
+< 	CacheBasedConflictFinder(CtType<?> p_type) {
+< 		type = p_type;
+---
+> 	CacheBasedConflictFinder(CtType<?> p_type) {		type = p_type;

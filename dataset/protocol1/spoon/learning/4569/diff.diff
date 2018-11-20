@@ -1,0 +1,4 @@
+34c34
+< 		this.template = template;
+---
+> 		this.template =template;

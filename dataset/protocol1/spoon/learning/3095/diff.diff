@@ -1,0 +1,4 @@
+20c20
+< import spoon.reflect.declaration.CtConstructor;
+---
+> import spoon.reflect.declaration.	CtConstructor;

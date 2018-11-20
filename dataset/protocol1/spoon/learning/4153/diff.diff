@@ -1,0 +1,5 @@
+26c26,27
+< 	public static final SourceFragmentContextPrettyPrint INSTANCE = new SourceFragmentContextPrettyPrint();
+---
+> 	
+> public static final SourceFragmentContextPrettyPrint INSTANCE = new SourceFragmentContextPrettyPrint();

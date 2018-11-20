@@ -1,0 +1,5 @@
+44c44,45
+< 	private final CtScannerListener listener;
+---
+> 	
+> private final CtScannerListener listener;

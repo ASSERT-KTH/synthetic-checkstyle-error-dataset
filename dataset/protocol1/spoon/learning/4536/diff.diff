@@ -1,0 +1,4 @@
+51c51
+< 		} else if (this.localReference instanceof CtPackageReference) {
+---
+> 		} else if (this.localReference instanceof CtPackageReference	) {

@@ -1,0 +1,5 @@
+29,30c29
+< import spoon.support.modelobs.FineModelChangeListener;
+< import spoon.reflect.declaration.CtElement;
+---
+> import spoon.support.modelobs.FineModelChangeListener;import spoon.reflect.declaration.CtElement;

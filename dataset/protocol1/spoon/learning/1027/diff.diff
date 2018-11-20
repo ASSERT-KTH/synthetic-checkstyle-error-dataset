@@ -1,0 +1,5 @@
+40c40,41
+< 	CtTypeReference getServiceType();
+---
+> 	CtTypeReference getServiceType
+> ();

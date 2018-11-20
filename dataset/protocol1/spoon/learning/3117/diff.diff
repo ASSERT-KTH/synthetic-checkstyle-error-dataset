@@ -1,0 +1,4 @@
+117c117
+< 	boolean removeThrownType(CtTypeReference<? extends Throwable> throwType);
+---
+> 	boolean removeThrownType( CtTypeReference<? extends Throwable> throwType);

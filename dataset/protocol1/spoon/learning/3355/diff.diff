@@ -1,0 +1,4 @@
+342c342
+< 				elements.add(e.getLeftHandOperand());
+---
+> 				elements.	add(e.getLeftHandOperand());

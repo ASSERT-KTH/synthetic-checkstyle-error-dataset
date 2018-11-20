@@ -1,0 +1,5 @@
+27c27,28
+< import spoon.support.util.ImmutableMap;
+---
+> import 
+> spoon.support.util.ImmutableMap;

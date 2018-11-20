@@ -1,0 +1,4 @@
+297c297
+< 	protected void visitSuperInterfaces(CtTypeReference<?> type, CtConsumer<Object> outputConsumer) {
+---
+> 	protected void visitSuperInterfaces(CtTypeReference<?	> type, CtConsumer<Object> outputConsumer) {

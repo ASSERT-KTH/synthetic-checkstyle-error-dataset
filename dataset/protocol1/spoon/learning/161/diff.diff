@@ -1,0 +1,4 @@
+292c292
+< 						binaries.add(fileOfType);
+---
+> 						binaries.add(fileOfType	);

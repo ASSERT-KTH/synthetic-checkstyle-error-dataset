@@ -1,0 +1,4 @@
+66c66
+< 		if (resources == CtElementImpl.<CtLocalVariable<?>>emptyList()) {
+---
+> 		if (resources== CtElementImpl.<CtLocalVariable<?>>emptyList()) {

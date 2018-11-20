@@ -1,0 +1,4 @@
+24c24
+< package spoon.legacy;
+---
+> package spoon.legacy ;

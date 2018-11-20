@@ -1,0 +1,4 @@
+37c37
+< 	List<CtCase<? super S>> cases = emptyList();
+---
+> 	List<CtCase<? super S>> cases =emptyList();

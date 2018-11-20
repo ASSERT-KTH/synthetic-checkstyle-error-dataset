@@ -1,0 +1,5 @@
+123,124c123
+< 		if (SOURCE_TYPE.APP_SOURCE == sourceType || SOURCE_TYPE.ALL_SOURCE == sourceType) {
+< 			List<File> sourceDirectories = model.getSourceDirectories();
+---
+> 		if (SOURCE_TYPE.APP_SOURCE == sourceType || SOURCE_TYPE.ALL_SOURCE == sourceType) {			List<File> sourceDirectories = model.getSourceDirectories();

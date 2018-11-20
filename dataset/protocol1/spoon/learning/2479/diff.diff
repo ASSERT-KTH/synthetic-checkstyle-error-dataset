@@ -1,0 +1,4 @@
+43c43
+< 			throw new SpoonException("The target of refactoring is not defined");
+---
+> 			 throw new SpoonException("The target of refactoring is not defined");

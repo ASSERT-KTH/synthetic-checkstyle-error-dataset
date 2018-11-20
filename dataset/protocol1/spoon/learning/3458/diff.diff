@@ -1,0 +1,4 @@
+53c53
+< 	public void apply(CtCatchVariable<?> catchVariable, CtConsumer<Object> outputConsumer) {
+---
+> 	public void apply (CtCatchVariable<?> catchVariable, CtConsumer<Object> outputConsumer) {

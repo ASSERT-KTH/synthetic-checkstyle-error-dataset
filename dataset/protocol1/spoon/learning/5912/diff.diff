@@ -1,0 +1,4 @@
+40c40
+< 	public static final String RECURSIVE_WILDCARD = "**";
+---
+> 	public static final String RECURSIVE_WILDCARD= "**";

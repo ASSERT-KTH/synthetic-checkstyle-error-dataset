@@ -1,0 +1,5 @@
+53c53,54
+< 	public <T extends CtElement> Collection<T> clone(Collection<T> elements) {
+---
+> 	public <T extends CtElement> Collection<T> clone(Collection<T> 
+> elements) {

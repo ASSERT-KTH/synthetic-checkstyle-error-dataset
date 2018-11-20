@@ -1,0 +1,4 @@
+94c94
+< 	TokenWriter writeKeyword(String token);
+---
+> 	TokenWriter writeKeyword (String token);

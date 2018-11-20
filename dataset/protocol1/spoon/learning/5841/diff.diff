@@ -1,0 +1,4 @@
+55c55
+< 	public boolean ignoreGenerics() {
+---
+> 	public boolean ignoreGenerics () {

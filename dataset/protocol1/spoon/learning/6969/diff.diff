@@ -1,0 +1,5 @@
+105c105,106
+< 	private static void appendMap(StringBuilder sb, Map<String, Object> map) {
+---
+> 	private static void 
+> appendMap(StringBuilder sb, Map<String, Object> map) {

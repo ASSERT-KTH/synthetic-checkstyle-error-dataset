@@ -1,0 +1,5 @@
+110,111c110
+< 						throw new CtPathException("Argument name must be a word, but is: " + argName);
+< 					}
+---
+> 						throw new CtPathException("Argument name must be a word, but is: " + argName);					}

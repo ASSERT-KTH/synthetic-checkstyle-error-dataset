@@ -1,0 +1,5 @@
+83,84c83
+< 		public String toString() {
+< 			return JAVADOC_TAG_PREFIX + name().toLowerCase();
+---
+> 		public String toString() {			return JAVADOC_TAG_PREFIX + name().toLowerCase();

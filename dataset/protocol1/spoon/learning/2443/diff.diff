@@ -1,0 +1,4 @@
+41c41
+< 	public TemplateException(String message) {
+---
+> 	public TemplateException (String message) {

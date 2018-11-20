@@ -1,0 +1,5 @@
+449,450c449
+< 				} else {
+< 					throw new RuntimeException("Inconsistent stack");
+---
+> 				} else {					throw new RuntimeException("Inconsistent stack");

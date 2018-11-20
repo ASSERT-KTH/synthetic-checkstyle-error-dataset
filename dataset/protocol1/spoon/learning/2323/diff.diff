@@ -1,0 +1,4 @@
+129c129
+< 			return results.get(firstResultIdx);
+---
+> 			return results.get	(firstResultIdx);

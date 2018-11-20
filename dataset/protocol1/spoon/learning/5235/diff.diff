@@ -1,0 +1,5 @@
+197c197,198
+< 		return createFolders(getEnvironment().getOutputDestinationHandler()
+---
+> 		return createFolders(getEnvironment
+> ().getOutputDestinationHandler()

@@ -1,0 +1,5 @@
+121,122c121
+< 		if (jar.lastModified() > decompiledSrc.lastModified()) {
+< 			decompile = true;
+---
+> 		if (jar.lastModified() > decompiledSrc.lastModified()) {			decompile = true;

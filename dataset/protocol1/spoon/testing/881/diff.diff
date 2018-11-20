@@ -1,0 +1,5 @@
+136,137c136
+< 	public CompilationUnit getOrCreate(String filePath) {
+< 		CompilationUnit cu = cachedCompilationUnits.get(filePath);
+---
+> 	public CompilationUnit getOrCreate(String filePath) {		CompilationUnit cu = cachedCompilationUnits.get(filePath);

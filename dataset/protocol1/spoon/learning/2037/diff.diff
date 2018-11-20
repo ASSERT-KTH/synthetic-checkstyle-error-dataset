@@ -1,0 +1,4 @@
+134c134
+< 		if (ret && !factory.getEnvironment().checksAreSkipped() && this.hashCode() != o.hashCode()) {
+---
+> 		if (ret && !factory.getEnvironment().checksAreSkipped()&& this.hashCode() != o.hashCode()) {

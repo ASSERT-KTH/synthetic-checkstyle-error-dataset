@@ -1,0 +1,4 @@
+84c84
+< 	public CtTypeMemberWildcardImportReferenceImpl clone() {
+---
+> 	public CtTypeMemberWildcardImportReferenceImpl clone	() {

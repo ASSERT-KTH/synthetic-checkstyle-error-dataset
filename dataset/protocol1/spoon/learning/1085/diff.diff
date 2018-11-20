@@ -1,0 +1,4 @@
+65c65
+< 			CtExpression<Integer> indexExpression = ((CtArrayAccess<?, CtExpression<Integer>>) e.getParent()).getIndexExpression();
+---
+> 			CtExpression<Integer> indexExpression = ((CtArrayAccess<? , CtExpression<Integer>>) e.getParent()).getIndexExpression();

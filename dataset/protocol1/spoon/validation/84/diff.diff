@@ -1,0 +1,5 @@
+85,86c85
+< import spoon.reflect.declaration.CtMethod;
+< import spoon.reflect.declaration.CtModule;
+---
+> import spoon.reflect.declaration.CtMethod;import spoon.reflect.declaration.CtModule;

@@ -1,0 +1,4 @@
+42c42
+< 	CtSuperAccess<T> clone();
+---
+> 	CtSuperAccess<T> clone()	;

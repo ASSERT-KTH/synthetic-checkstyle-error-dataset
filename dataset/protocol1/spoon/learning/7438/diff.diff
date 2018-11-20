@@ -1,0 +1,4 @@
+43c43
+< 			if (transformer.accept(type)) {
+---
+> 			if (transformer.	accept(type)) {

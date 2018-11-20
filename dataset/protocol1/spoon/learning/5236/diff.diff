@@ -1,0 +1,5 @@
+76,77c76
+< 			if (nextSuffixSpace) {
+< 				printerTokenWriter.writeSpace();
+---
+> 			if (nextSuffixSpace) {				printerTokenWriter.writeSpace();

@@ -1,0 +1,5 @@
+27c27,28
+< import spoon.reflect.reference.CtModuleReference;
+---
+> import spoon.reflect.reference.CtModuleReference
+> ;

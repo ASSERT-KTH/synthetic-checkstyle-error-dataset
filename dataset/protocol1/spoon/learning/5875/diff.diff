@@ -1,0 +1,4 @@
+796c796
+< 			lambda.setExpression((CtExpression<T>) child);
+---
+> 			lambda.setExpression((CtExpression<T>)child);

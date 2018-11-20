@@ -1,0 +1,5 @@
+36,37c36
+< 		if (variable == null) {
+< 			throw new IllegalArgumentException("The parameter variable cannot be null.");
+---
+> 		if (variable == null) {			throw new IllegalArgumentException("The parameter variable cannot be null.");

@@ -1,0 +1,4 @@
+478c478
+< 					arrayTypeReference.setDeclaringType(typeReference);
+---
+> 					arrayTypeReference.setDeclaringType( typeReference);

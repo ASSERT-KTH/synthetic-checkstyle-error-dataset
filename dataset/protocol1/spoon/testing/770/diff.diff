@@ -1,0 +1,5 @@
+49,50c49
+< 			return findIndexOfNextChildTokenOfRole(0, role) >= 0;
+< 		}
+---
+> 			return findIndexOfNextChildTokenOfRole(0, role) >= 0;		}

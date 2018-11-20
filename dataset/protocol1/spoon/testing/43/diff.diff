@@ -1,0 +1,4 @@
+220c220
+< 		biScan(spoon.reflect.path.CtRole.TYPE_MEMBER, ctClass.getTypeMembers(), other.getTypeMembers());
+---
+> 		biScan(spoon.reflect.path. CtRole.TYPE_MEMBER, ctClass.getTypeMembers(), other.getTypeMembers());

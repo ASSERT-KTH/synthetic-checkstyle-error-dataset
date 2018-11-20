@@ -1,0 +1,4 @@
+626c626
+< 	public <R> void visitCtReturn(final spoon.reflect.code.CtReturn<R> returnStatement) {
+---
+> 	public <R>void visitCtReturn(final spoon.reflect.code.CtReturn<R> returnStatement) {

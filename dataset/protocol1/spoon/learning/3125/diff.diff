@@ -1,0 +1,4 @@
+51c51
+< 	<C extends CtArrayTypeReference<T>> C setComponentType(CtTypeReference<?> componentType);
+---
+> 	<	C extends CtArrayTypeReference<T>> C setComponentType(CtTypeReference<?> componentType);

@@ -1,0 +1,4 @@
+33c33
+< 	@PropertyGetter(role = BODY)
+---
+> 	@PropertyGetter(	role = BODY)

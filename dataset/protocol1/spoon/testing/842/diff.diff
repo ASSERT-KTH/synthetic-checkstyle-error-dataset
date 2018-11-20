@@ -1,0 +1,5 @@
+87,88c87
+< 	public void addTypeReference(CtRole role, CtTypeReference<?> ctTypeReference) {
+< 		throw new UnsupportedOperationException();
+---
+> 	public void addTypeReference(CtRole role, CtTypeReference<?> ctTypeReference) {		throw new UnsupportedOperationException();

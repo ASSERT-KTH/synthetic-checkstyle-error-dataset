@@ -1,0 +1,4 @@
+99c99
+< import spoon.reflect.declaration.CtTypeParameter;
+---
+> import spoon.	reflect.declaration.CtTypeParameter;

@@ -1,0 +1,5 @@
+48c48,49
+< 	protected void enter(CtElement e) {
+---
+> 	protected 
+> void enter(CtElement e) {

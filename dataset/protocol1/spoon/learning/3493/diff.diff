@@ -1,0 +1,5 @@
+88c88,89
+< 				for (Map.Entry<MetamodelProperty, RootNode> e : elementNode.getRoleToNode().entrySet()) {
+---
+> 				for (Map.Entry<MetamodelProperty
+> , RootNode> e : elementNode.getRoleToNode().entrySet()) {

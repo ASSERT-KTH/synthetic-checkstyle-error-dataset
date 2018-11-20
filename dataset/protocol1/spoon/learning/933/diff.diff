@@ -1,0 +1,4 @@
+165c165
+< 	public void scan(CtRole role, Object o) {
+---
+> 	public void scan(CtRole role, Object o ) {

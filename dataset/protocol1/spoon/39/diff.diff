@@ -1,5 +1,0 @@
-22c22,23
-< import java.lang.annotation.Target;
----
-> import java.lang.annotation.Target
-> ;

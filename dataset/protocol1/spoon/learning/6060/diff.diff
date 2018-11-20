@@ -1,0 +1,4 @@
+32c32
+< 	public TobeMatched matchAllWith(TobeMatched tobeMatched) {
+---
+> 	public TobeMatched matchAllWith (TobeMatched tobeMatched) {

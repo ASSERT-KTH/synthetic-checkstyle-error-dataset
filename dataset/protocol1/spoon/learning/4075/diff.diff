@@ -1,0 +1,4 @@
+56c56
+< 	<K, V> void onMapAdd(CtElement currentElement, CtRole role, Map<K, V> field, K key, CtElement newValue);
+---
+> 	<K, V> void onMapAdd(CtElement currentElement, CtRole role, Map< K, V> field, K key, CtElement newValue);

@@ -1,0 +1,4 @@
+48c48
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, ACCESSED_TYPE, accessedType, this.type);
+---
+> 		 getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, ACCESSED_TYPE, accessedType, this.type);

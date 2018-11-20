@@ -1,0 +1,4 @@
+28c28
+< import spoon.reflect.code.CtCatch;
+---
+> import spoon.	reflect.code.CtCatch;

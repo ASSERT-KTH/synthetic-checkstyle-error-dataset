@@ -1,0 +1,4 @@
+41c41
+< 	CtVariableWrite<T> clone();
+---
+> 	CtVariableWrite< T> clone();

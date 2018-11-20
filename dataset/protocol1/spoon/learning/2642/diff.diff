@@ -1,0 +1,4 @@
+222c222
+< 		if (instance == null) {
+---
+> 		if (instance == null){

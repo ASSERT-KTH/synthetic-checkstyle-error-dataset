@@ -1,0 +1,4 @@
+25c25
+< public class FieldAccessFilter extends VariableAccessFilter<CtFieldAccess<?>> {
+---
+> public class FieldAccessFilter extends VariableAccessFilter<CtFieldAccess<	?>> {

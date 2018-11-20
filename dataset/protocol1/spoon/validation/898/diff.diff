@@ -1,0 +1,4 @@
+36c36
+< 		if (variable == null && getFactory() != null) {
+---
+> 		if (variable == null && getFactory() != null){

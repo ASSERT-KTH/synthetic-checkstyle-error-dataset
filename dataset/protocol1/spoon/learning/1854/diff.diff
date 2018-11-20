@@ -1,0 +1,4 @@
+570c570
+< 	public MetamodelProperty getSuperProperty() {
+---
+> 	public MetamodelProperty getSuperProperty () {

@@ -1,0 +1,5 @@
+80,81c80
+< 	public void setAutoImport(boolean autoImport) {
+< 		this.autoImport = autoImport;
+---
+> 	public void setAutoImport(boolean autoImport) {		this.autoImport = autoImport;

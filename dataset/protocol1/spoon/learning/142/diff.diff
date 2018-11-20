@@ -1,0 +1,5 @@
+28c28,29
+< 	public abstract void biScan(CtElement element, CtElement other);
+---
+> 	public 
+> abstract void biScan(CtElement element, CtElement other);

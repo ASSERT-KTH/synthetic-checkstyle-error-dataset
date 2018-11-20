@@ -1,0 +1,4 @@
+217c217
+< 	private static final Filter<CtType<?>> typeFilter = new Filter<CtType<?>>() {
+---
+> 	private static final Filter<CtType<?>> typeFilter = new Filter<CtType<? >>() {

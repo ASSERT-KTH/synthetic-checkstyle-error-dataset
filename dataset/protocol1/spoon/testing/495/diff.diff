@@ -1,0 +1,4 @@
+51c51
+< 		return TemplateBuilder.createPattern(getBlock(c), this).setAddGeneratedBy(isAddGeneratedBy()).substituteSingle(targetType, CtBlock.class);
+---
+> 		return TemplateBuilder.createPattern(getBlock(c), this).setAddGeneratedBy(isAddGeneratedBy()).	substituteSingle(targetType, CtBlock.class);

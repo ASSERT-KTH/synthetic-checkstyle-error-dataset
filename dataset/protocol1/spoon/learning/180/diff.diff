@@ -1,0 +1,4 @@
+46c46
+< 		Collection<T> elements = new ArrayList<>();
+---
+> 		Collection<T> elements =new ArrayList<>();

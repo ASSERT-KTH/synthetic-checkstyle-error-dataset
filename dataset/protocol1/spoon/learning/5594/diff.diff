@@ -1,0 +1,4 @@
+242c242
+< 	public boolean isPublic() {
+---
+> 	public boolean isPublic(){

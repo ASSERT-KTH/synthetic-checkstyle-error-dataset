@@ -1,0 +1,5 @@
+76c76,77
+< 			packagePath = Paths.get(pack.getQualifiedName().replace('.', File.separatorChar));
+---
+> 			
+> packagePath = Paths.get(pack.getQualifiedName().replace('.', File.separatorChar));

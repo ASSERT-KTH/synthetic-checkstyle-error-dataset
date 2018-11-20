@@ -1,0 +1,5 @@
+61c61,62
+< 	public TokenWriter writeOperator(String token) {
+---
+> 	public TokenWriter writeOperator
+> (String token) {

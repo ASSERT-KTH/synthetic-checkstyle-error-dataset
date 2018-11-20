@@ -1,0 +1,4 @@
+34c34
+< 	public ListContext(CtElement element, CtRole role, List<?> original, int position) {
+---
+> 	public ListContext(CtElement element, CtRole role, List<?>original, int position) {

@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.reflect.path.CtRole;
+< import spoon.support.DerivedProperty;
+---
+> import spoon.reflect.path.CtRole;import spoon.support.DerivedProperty;

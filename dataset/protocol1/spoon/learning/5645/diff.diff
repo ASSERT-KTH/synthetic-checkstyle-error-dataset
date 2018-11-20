@@ -1,0 +1,4 @@
+61c61
+< 	public T getResult() {
+---
+> 	 public T getResult() {

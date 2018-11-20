@@ -1,0 +1,4 @@
+406c406
+< 		E current = (E) getParent();
+---
+> 		E current = (E) getParent()	;

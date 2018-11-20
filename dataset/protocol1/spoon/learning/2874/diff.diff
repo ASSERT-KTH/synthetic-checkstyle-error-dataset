@@ -1,0 +1,4 @@
+40c40
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.SERVICE_TYPE, usedService, this.serviceType);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, CtRole.SERVICE_TYPE, usedService,this.serviceType);

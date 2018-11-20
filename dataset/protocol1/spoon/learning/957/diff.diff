@@ -1,0 +1,4 @@
+33c33
+< 		return (CtArrayWrite<T>) super.clone();
+---
+> 		return (CtArrayWrite<T>)super.clone();

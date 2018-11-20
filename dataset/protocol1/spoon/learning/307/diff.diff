@@ -1,0 +1,5 @@
+50c50,51
+< 		if (searchMatchInList(role, Collections.singletonList(element), false) == 0) {
+---
+> 		if (searchMatchInList
+> (role, Collections.singletonList(element), false) == 0) {

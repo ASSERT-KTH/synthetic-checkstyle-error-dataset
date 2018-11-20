@@ -1,4 +1,0 @@
-25c25
-< import spoon.processing.Property;
----
-> import spoon.processing.Property ;

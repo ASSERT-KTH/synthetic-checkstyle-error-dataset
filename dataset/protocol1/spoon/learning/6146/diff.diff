@@ -1,0 +1,5 @@
+52,53c52
+< 	public CtExecutableReferenceExpression<T, E> clone() {
+< 		return (CtExecutableReferenceExpression<T, E>) super.clone();
+---
+> 	public CtExecutableReferenceExpression<T, E> clone() {		return (CtExecutableReferenceExpression<T, E>) super.clone();

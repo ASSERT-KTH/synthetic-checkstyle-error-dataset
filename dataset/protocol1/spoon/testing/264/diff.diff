@@ -1,0 +1,4 @@
+36c36
+< 			return (type.isAssignableFrom(result.getClass())) ? result : null;
+---
+> 			return ( type.isAssignableFrom(result.getClass())) ? result : null;

@@ -1,0 +1,4 @@
+30c30
+< 	SpoonFolder getParent();
+---
+> 	SpoonFolder getParent ();

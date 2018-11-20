@@ -1,0 +1,4 @@
+58c58
+< 		return new CtQueryImpl().addInput(inputs);
+---
+> 		 return new CtQueryImpl().addInput(inputs);

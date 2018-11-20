@@ -1,0 +1,4 @@
+45c45
+< 		for (int i = 0; i < roleHandlers.length; i++) {
+---
+> 		for (int i = 0; i < roleHandlers.length;i++) {

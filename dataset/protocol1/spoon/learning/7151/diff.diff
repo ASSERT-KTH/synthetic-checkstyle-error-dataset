@@ -1,0 +1,4 @@
+448c448
+< 				fieldReference.setDeclaringType(jdtTreeBuilder.getReferencesBuilder().getTypeReference(receiverType));
+---
+> 				fieldReference.setDeclaringType(jdtTreeBuilder.getReferencesBuilder	().getTypeReference(receiverType));

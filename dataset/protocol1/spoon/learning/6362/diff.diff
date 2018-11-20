@@ -1,0 +1,4 @@
+101c101
+< 				for (CtParameter<?> parameter : method.getParameters()) {
+---
+> 				for (CtParameter<?>parameter : method.getParameters()) {

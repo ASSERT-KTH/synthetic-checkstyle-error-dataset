@@ -1,0 +1,4 @@
+69c69
+< 			this.typeCasts = new ArrayList<>(CASTS_CONTAINER_DEFAULT_CAPACITY);
+---
+> 			this.typeCasts = new ArrayList<>( CASTS_CONTAINER_DEFAULT_CAPACITY);

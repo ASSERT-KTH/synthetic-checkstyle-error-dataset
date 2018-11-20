@@ -1,0 +1,5 @@
+73c73,74
+< 			if (newValue instanceof Map.Entry<?, ?>) {
+---
+> 			if (newValue instanceof Map.Entry<?, 
+> ?>) {

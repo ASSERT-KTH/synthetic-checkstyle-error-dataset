@@ -1,0 +1,5 @@
+144c144,145
+< 			String pathToClassFile = loader.getResource(className + ".class").getPath();
+---
+> 			
+> String pathToClassFile = loader.getResource(className + ".class").getPath();

@@ -1,0 +1,4 @@
+538c538
+< 	public <T> CtLambda<T> createLambda() {
+---
+> 	public <T> CtLambda<T> createLambda(){

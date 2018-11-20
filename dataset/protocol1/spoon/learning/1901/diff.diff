@@ -1,0 +1,5 @@
+46c46,47
+< 	<C extends CtAnnotationMethod<T>> C setDefaultExpression(CtExpression<T> assignedExpression);
+---
+> 	<C extends CtAnnotationMethod<T>> C 
+> setDefaultExpression(CtExpression<T> assignedExpression);

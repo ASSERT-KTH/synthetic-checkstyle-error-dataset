@@ -1,0 +1,4 @@
+39c39
+< 	List<SpoonFile> getAllJavaFiles();
+---
+> 	List<SpoonFile	> getAllJavaFiles();

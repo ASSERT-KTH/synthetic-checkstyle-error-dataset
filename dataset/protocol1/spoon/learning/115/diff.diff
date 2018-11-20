@@ -1,0 +1,5 @@
+29c29,30
+< 	private final TokenType type;
+---
+> 	private 
+> final TokenType type;

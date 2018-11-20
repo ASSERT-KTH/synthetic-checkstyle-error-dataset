@@ -1,0 +1,4 @@
+259c259
+< 		ctConstructor.setBody(factory.Core().createBlock());
+---
+> 		ctConstructor.setBody(	factory.Core().createBlock());

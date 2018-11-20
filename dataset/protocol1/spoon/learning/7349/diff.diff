@@ -1,0 +1,4 @@
+31c31
+< 	public CtEnumValue clone() {
+---
+> 	public CtEnumValue clone(){

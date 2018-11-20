@@ -1,0 +1,4 @@
+428c428
+< 			CtType<T> type = pack.getType(qualifiedName.substring(packageIndex + 1));
+---
+> 			CtType<T> type = pack.getType(qualifiedName.substring(packageIndex + 1)) ;

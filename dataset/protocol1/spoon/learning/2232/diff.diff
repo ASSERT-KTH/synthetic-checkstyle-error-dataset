@@ -1,0 +1,4 @@
+262c262
+< 		if (jdtCompiler.getEnvironment().getSpoonProgress() != null) {
+---
+> 		if (jdtCompiler.getEnvironment().getSpoonProgress	() != null) {

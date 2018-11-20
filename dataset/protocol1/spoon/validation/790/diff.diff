@@ -1,0 +1,4 @@
+76c76
+< 	public void onListAdd(CtElement currentElement, CtRole role, List field, int index, CtElement newValue) {
+---
+> 	public void onListAdd(CtElement currentElement, CtRole role, List field,int index, CtElement newValue) {

@@ -1,0 +1,5 @@
+141,142c141
+< 	public MetamodelProperty getProperty(CtRole role) {
+< 		return role2Property.get(role);
+---
+> 	public MetamodelProperty getProperty(CtRole role) {		return role2Property.get(role);

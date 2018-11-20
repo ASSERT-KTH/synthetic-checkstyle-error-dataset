@@ -1,0 +1,4 @@
+124c124
+< 		private void recurse(Collection<? extends CtElement> elements) {
+---
+> 		private void recurse(Collection <? extends CtElement> elements) {

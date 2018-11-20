@@ -1,0 +1,4 @@
+66c66
+< 	<R extends CtElement> CtQuery select(Filter<R> filter);
+---
+> 	 <R extends CtElement> CtQuery select(Filter<R> filter);

@@ -1,0 +1,4 @@
+35c35
+< 			hashCode += e.getSimpleName().hashCode();
+---
+> 			hashCode+= e.getSimpleName().hashCode();

@@ -1,0 +1,4 @@
+68c68
+< public class PotentialVariableDeclarationFunction implements CtConsumableFunction<CtElement>, CtQueryAware {
+---
+> public class PotentialVariableDeclarationFunction implements CtConsumableFunction<CtElement >, CtQueryAware {

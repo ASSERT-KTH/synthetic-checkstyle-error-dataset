@@ -1,0 +1,4 @@
+50c50
+< 		return "|" + getSourceCode() + "|";
+---
+> 		return "|" +getSourceCode() + "|";

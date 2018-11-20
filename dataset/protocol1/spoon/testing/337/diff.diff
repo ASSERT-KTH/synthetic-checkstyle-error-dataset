@@ -1,0 +1,5 @@
+129c129,130
+< 				return ScanningMode.NORMAL;
+---
+> 				return ScanningMode.NORMAL
+> ;

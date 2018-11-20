@@ -1,0 +1,4 @@
+25c25
+< import static spoon.reflect.path.CtRole.IS_DEFAULT;
+---
+> import static spoon.reflect.path.CtRole.IS_DEFAULT	;

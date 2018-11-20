@@ -1,0 +1,4 @@
+28c28
+< package spoon.support.sniper;
+---
+> package spoon. support.sniper;

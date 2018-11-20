@@ -1,0 +1,5 @@
+174,175c174
+< 	public List<CtElement> getPatternElements() {
+< 		return elements;
+---
+> 	public List<CtElement> getPatternElements() {		return elements;

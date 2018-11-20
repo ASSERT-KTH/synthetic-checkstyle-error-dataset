@@ -1,0 +1,4 @@
+81c81
+< 	public final boolean isPrivileged() {
+---
+> 	public final boolean isPrivileged () {

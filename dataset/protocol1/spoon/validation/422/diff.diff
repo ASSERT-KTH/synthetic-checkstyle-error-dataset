@@ -1,0 +1,4 @@
+49c49
+< 		return new CtQueryImpl(input);
+---
+> 		return new CtQueryImpl (input);

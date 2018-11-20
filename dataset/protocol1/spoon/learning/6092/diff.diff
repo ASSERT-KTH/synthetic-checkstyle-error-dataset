@@ -1,0 +1,5 @@
+27,28c27
+< import spoon.reflect.visitor.chain.CtQuery;
+< import spoon.reflect.visitor.chain.CtQueryAware;
+---
+> import spoon.reflect.visitor.chain.CtQuery;import spoon.reflect.visitor.chain.CtQueryAware;

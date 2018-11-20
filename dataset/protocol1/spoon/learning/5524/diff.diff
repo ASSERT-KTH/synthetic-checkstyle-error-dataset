@@ -1,0 +1,4 @@
+49c49
+< 	CtAnnotationMethod<T> clone();
+---
+> 	CtAnnotationMethod< T> clone();

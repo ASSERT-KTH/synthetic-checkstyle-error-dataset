@@ -1,5 +1,0 @@
-171c171,172
-< 		this.getEnvironment().setComplianceLevel(model.getSourceVersion());
----
-> 		
-> this.getEnvironment().setComplianceLevel(model.getSourceVersion());

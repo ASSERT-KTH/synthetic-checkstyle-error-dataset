@@ -1,0 +1,4 @@
+50c50
+< 		return (String) _properties.get("__NAME__");
+---
+> 		return (String) _properties.get("__NAME__" );

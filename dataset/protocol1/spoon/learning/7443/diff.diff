@@ -1,0 +1,4 @@
+533c533
+< 	CtExpression<?> createTargetFieldAccess(QualifiedNameReference qualifiedNameReference, CtFieldReference<Object> ref) {
+---
+> 	CtExpression<?> createTargetFieldAccess(QualifiedNameReference qualifiedNameReference	, CtFieldReference<Object> ref) {

@@ -1,0 +1,5 @@
+552,553c552
+< 	public CtCatch createCtCatch(String nameCatch, Class<? extends Throwable> exception, CtBlock<?> ctBlock) {
+< 		final CtCatchVariable<Throwable> catchVariable = factory.Core().<Throwable>createCatchVariable().<CtCatchVariable<Throwable>>setType(this.<Throwable>createCtTypeReference(exception))
+---
+> 	public CtCatch createCtCatch(String nameCatch, Class<? extends Throwable> exception, CtBlock<?> ctBlock) {		final CtCatchVariable<Throwable> catchVariable = factory.Core().<Throwable>createCatchVariable().<CtCatchVariable<Throwable>>setType(this.<Throwable>createCtTypeReference(exception))

@@ -1,0 +1,4 @@
+108c108
+< 		Map<String, Object> templateParameters = template == null ? null : Parameters.getTemplateParametersAsMap(f, null, template);
+---
+> 		Map<String, Object>templateParameters = template == null ? null : Parameters.getTemplateParametersAsMap(f, null, template);

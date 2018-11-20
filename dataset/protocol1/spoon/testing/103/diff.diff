@@ -1,0 +1,4 @@
+697c697
+< 		biScan(spoon.reflect.path.CtRole.CATCH, tryWithResource.getCatchers(), other.getCatchers());
+---
+> 		biScan( spoon.reflect.path.CtRole.CATCH, tryWithResource.getCatchers(), other.getCatchers());

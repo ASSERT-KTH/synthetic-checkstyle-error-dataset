@@ -1,0 +1,4 @@
+28c28
+< 	public <T> T get(Class<T> type, String name) {
+---
+> 	public <T> T get( Class<T> type, String name) {

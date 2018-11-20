@@ -1,0 +1,5 @@
+242c242,243
+< 	public boolean isUnnamedPackage() {
+---
+> 	public boolean isUnnamedPackage
+> () {

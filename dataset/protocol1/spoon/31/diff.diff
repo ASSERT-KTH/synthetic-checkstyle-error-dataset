@@ -1,4 +1,0 @@
-21c21
-< public class FileAssert extends AbstractFileAssert<FileAssert> {
----
-> public class FileAssert extends AbstractFileAssert <FileAssert> {

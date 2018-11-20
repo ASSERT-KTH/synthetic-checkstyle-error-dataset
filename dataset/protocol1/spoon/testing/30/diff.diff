@@ -1,0 +1,4 @@
+646c646
+< 				if (ref.getDeclaringType().getPackage().equals(this.targetType.getPackage())) {
+---
+> 				if (ref.getDeclaringType().getPackage(). equals(this.targetType.getPackage())) {

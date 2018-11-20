@@ -1,0 +1,4 @@
+48c48
+< 	public static void changeTypeName(final CtType<?> type, String name) {
+---
+> 	public static void changeTypeName(final CtType<? > type, String name) {

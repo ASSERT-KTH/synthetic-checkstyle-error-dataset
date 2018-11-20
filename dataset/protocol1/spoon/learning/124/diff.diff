@@ -1,0 +1,4 @@
+56c56
+< 			return m.getSimpleName().startsWith("add") || m.getSimpleName().startsWith("insert");
+---
+> 			return m.getSimpleName().startsWith("add") || m.getSimpleName().startsWith	("insert");

@@ -1,0 +1,4 @@
+50c50
+< 	<C extends CtAssignment<T, A>> C setAssigned(CtExpression<T> assigned);
+---
+> 	<C extends CtAssignment<T, A>>C setAssigned(CtExpression<T> assigned);

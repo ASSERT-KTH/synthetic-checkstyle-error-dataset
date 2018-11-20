@@ -1,0 +1,4 @@
+368c368
+< 								parameter(fieldRead.getVariable().getSimpleName()).getCurrentParameter(),
+---
+> 								parameter(fieldRead.getVariable().	getSimpleName()).getCurrentParameter(),

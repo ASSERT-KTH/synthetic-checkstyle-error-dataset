@@ -1,0 +1,4 @@
+68c68
+< 	<E extends CtElement> E setComments(List<CtComment> comments);
+---
+> 	<E extends CtElement> E setComments(List<CtComment> comments) ;

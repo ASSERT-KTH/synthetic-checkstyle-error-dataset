@@ -1,0 +1,4 @@
+28c28
+< 	public UndefinedParameterException(String message) {
+---
+> 	public UndefinedParameterException(String message){

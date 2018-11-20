@@ -1,0 +1,5 @@
+51c51,52
+< 	@PropertySetter(role = IS_DEFAULT)
+---
+> 	@PropertySetter(role 
+> = IS_DEFAULT)

@@ -1,0 +1,5 @@
+76c76,77
+< 			throw new ClassCastException(value.getClass().getName() + " cannot be cast to " + valueClass.getName());
+---
+> 			throw new ClassCastException(value.getClass
+> ().getName() + " cannot be cast to " + valueClass.getName());

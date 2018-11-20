@@ -1,0 +1,4 @@
+94c94
+< 				X oldValue = get(0);
+---
+> 				 X oldValue = get(0);

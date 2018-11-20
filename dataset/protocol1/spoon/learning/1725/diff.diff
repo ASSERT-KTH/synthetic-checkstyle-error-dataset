@@ -1,0 +1,5 @@
+396,397c396
+< 			throw new SpoonException("You cannot adapt a null type parameter.");
+< 		}
+---
+> 			throw new SpoonException("You cannot adapt a null type parameter.");		}

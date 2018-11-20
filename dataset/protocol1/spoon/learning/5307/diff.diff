@@ -1,0 +1,5 @@
+229,230c229
+< 			if (scanner.getResult() != null) {
+< 				return scanner.getResult();
+---
+> 			if (scanner.getResult() != null) {				return scanner.getResult();

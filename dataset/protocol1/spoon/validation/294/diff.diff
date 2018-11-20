@@ -1,0 +1,4 @@
+777c777
+< 		scan(CtRole.ANNOTATION, reference.getAnnotations());
+---
+> 		scan(CtRole.ANNOTATION,reference.getAnnotations());

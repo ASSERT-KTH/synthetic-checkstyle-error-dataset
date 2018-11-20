@@ -1,0 +1,4 @@
+184c184
+< 		if (typeParamDeclarer instanceof CtType<?>) {
+---
+> 		if (typeParamDeclarer instanceof CtType<?> ) {

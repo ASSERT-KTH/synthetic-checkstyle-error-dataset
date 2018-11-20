@@ -1,0 +1,4 @@
+47c47
+< 	void addEnumValue(CtEnumValue<?> ctEnumValue);
+---
+> 	void addEnumValue(CtEnumValue<?>ctEnumValue);

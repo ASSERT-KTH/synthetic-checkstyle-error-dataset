@@ -1,0 +1,4 @@
+78c78
+< 		for (CtPathElement element : elements) {
+---
+> 		for (CtPathElement element : elements){

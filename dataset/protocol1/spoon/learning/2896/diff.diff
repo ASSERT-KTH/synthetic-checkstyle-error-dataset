@@ -1,0 +1,4 @@
+152c152
+< 		int[] lineSeparatorPositions = declarationUnit.compilationResult.lineSeparatorPositions;
+---
+> 		int[] lineSeparatorPositions = declarationUnit.	compilationResult.lineSeparatorPositions;

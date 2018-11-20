@@ -1,4 +1,0 @@
-48c48
-< 	public TemplateException(Throwable cause) {
----
-> 	public TemplateException	(Throwable cause) {

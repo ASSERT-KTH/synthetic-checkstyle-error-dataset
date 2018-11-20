@@ -1,0 +1,5 @@
+426,427c426
+< 		for (int i = 0; i < length; i += 1) {
+< 			try {
+---
+> 		for (int i = 0; i < length; i += 1) {			try {

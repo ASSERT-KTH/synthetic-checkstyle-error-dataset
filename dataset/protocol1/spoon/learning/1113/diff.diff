@@ -1,0 +1,4 @@
+169c169
+< 			insertType.insertFromFirstStatement(block, target, statementsToBeInserted);
+---
+> 			insertType.insertFromFirstStatement(block, target, statementsToBeInserted	);

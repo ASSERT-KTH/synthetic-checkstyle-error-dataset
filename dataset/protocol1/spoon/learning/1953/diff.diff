@@ -1,0 +1,5 @@
+104,105c104
+< 		}
+< 		return Object.class;
+---
+> 		}		return Object.class;

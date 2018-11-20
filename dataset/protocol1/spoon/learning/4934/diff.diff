@@ -1,0 +1,4 @@
+148c148
+< 		return getModifiers().contains(ModifierKind.PROTECTED);
+---
+> 		return getModifiers ().contains(ModifierKind.PROTECTED);

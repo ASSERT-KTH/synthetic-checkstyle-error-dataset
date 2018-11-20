@@ -1,0 +1,5 @@
+35c35,36
+< 	public TokenPrinterEvent(TokenType type, String token, CtComment comment) {
+---
+> 	public TokenPrinterEvent(TokenType 
+> type, String token, CtComment comment) {

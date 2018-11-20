@@ -1,0 +1,4 @@
+36c36
+< 		super(new SignatureComparator());
+---
+> 		super(new SignatureComparator ());

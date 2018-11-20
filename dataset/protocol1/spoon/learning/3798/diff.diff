@@ -1,0 +1,4 @@
+263c263
+< 			return BinaryOperatorKind.LE;
+---
+> 			return BinaryOperatorKind. LE;

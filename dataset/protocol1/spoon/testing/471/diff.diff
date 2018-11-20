@@ -1,0 +1,5 @@
+56,57c56
+< 			return findIndexOfNextChildTokenByValue(event.getToken()) >= 0;
+< 		} else {
+---
+> 			return findIndexOfNextChildTokenByValue(event.getToken()) >= 0;		} else {

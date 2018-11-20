@@ -1,0 +1,4 @@
+61c61
+< 	<C extends CtBinaryOperator<T>> C setRightHandOperand(CtExpression<?> expression);
+---
+> 	<C extends CtBinaryOperator<T>> C setRightHandOperand	(CtExpression<?> expression);

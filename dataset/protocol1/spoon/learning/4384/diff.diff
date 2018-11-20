@@ -1,0 +1,4 @@
+171c171
+< 		for (CtTypeReference<?> t : types) {
+---
+> 		 for (CtTypeReference<?> t : types) {

@@ -1,0 +1,4 @@
+55c55
+< 	public Map<K, V> getMap() {
+---
+> 	public Map<K, V> getMap	() {

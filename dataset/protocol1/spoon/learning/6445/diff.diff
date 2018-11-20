@@ -1,0 +1,5 @@
+41c41,42
+< 	CtExpression<Boolean> getLoopingExpression();
+---
+> 	CtExpression<Boolean> getLoopingExpression
+> ();

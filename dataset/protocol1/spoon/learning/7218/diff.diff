@@ -1,0 +1,5 @@
+32c32,33
+< 			boolean isMandatory = isMandatory(targets.getParameters());
+---
+> 			boolean isMandatory = isMandatory(targets.getParameters
+> ());

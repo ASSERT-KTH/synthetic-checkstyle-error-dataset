@@ -1,0 +1,4 @@
+196c196
+< 		q.forEach(new CtConsumer<CtMethod<?>>() {
+---
+> 		q.	forEach(new CtConsumer<CtMethod<?>>() {

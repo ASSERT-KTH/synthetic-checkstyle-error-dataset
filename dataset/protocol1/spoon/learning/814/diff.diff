@@ -1,0 +1,5 @@
+539,540c539
+< 				}
+< 				if (element.isImplicit() && !(element instanceof CtBlock)) {
+---
+> 				}				if (element.isImplicit() && !(element instanceof CtBlock)) {

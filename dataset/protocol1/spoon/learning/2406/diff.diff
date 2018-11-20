@@ -1,0 +1,5 @@
+87c87,88
+< 	public void visitCtTypeParameterReference(CtTypeParameterReference ref) {
+---
+> 	public void visitCtTypeParameterReference(CtTypeParameterReference 
+> ref) {

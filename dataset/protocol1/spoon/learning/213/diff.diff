@@ -1,0 +1,4 @@
+316c316
+< 		sb.append(model.getArtifactId());
+---
+> 		sb.append(model.getArtifactId()	);

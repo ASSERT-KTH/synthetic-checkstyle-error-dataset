@@ -1,0 +1,4 @@
+75c75
+< 	List<File> getBinaryFiles();
+---
+> 	List<File> getBinaryFiles	();

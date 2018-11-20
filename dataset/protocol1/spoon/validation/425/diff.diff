@@ -1,0 +1,4 @@
+21c21
+< public class ClasspathOptions<T extends ClasspathOptions<T>> extends Options<T> {
+---
+> public class ClasspathOptions<T extends ClasspathOptions<T>> extends Options<	T> {

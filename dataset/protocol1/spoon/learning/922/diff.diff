@@ -1,0 +1,4 @@
+24c24
+< public class RefactoringException extends SpoonException {
+---
+> public class RefactoringException extends SpoonException{

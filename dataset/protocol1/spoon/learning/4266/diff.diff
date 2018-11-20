@@ -1,0 +1,4 @@
+58c58
+< 	protected boolean isNotEqual = false;
+---
+> 	protected boolean isNotEqual= false;

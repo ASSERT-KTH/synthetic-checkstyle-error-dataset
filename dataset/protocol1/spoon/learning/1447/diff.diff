@@ -1,0 +1,4 @@
+49c49
+< 	public boolean matches(CtMethod<?> element) {
+---
+> 	public boolean matches(CtMethod<?> element	) {

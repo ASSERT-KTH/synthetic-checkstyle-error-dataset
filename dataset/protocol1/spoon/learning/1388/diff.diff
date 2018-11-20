@@ -1,0 +1,5 @@
+89c89,90
+< 	public static final int COMMENT_CONTAINER_DEFAULT_CAPACITY = 2;
+---
+> 	public static final int COMMENT_CONTAINER_DEFAULT_CAPACITY 
+> = 2;

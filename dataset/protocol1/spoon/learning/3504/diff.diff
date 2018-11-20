@@ -1,0 +1,5 @@
+231c231,232
+< 	CtDo createDo();
+---
+> 	CtDo createDo()
+> ;

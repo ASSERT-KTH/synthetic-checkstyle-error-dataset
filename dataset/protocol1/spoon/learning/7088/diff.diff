@@ -1,0 +1,4 @@
+114c114
+< 	String getContent();
+---
+> 	String getContent() ;

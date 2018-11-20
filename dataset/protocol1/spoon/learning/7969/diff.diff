@@ -1,0 +1,4 @@
+39c39
+< 		this.printerTokenWriter = printerHelper;
+---
+> 		this.printerTokenWriter =printerHelper;

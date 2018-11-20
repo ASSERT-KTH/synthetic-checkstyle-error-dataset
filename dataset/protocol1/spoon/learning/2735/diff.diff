@@ -1,0 +1,4 @@
+40c40
+< 		this(new EqualsChecker());
+---
+> 		 this(new EqualsChecker());

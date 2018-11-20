@@ -1,0 +1,5 @@
+22,23c22
+< import spoon.SpoonException;
+< import spoon.reflect.cu.SourcePositionHolder;
+---
+> import spoon.SpoonException;import spoon.reflect.cu.SourcePositionHolder;

@@ -1,0 +1,5 @@
+149,150c149
+< 	public static <T> CtExpression<T> compileExpression(
+< 			CtCodeSnippetExpression<T> expr) throws SnippetCompilationError {
+---
+> 	public static <T> CtExpression<T> compileExpression(			CtCodeSnippetExpression<T> expr) throws SnippetCompilationError {

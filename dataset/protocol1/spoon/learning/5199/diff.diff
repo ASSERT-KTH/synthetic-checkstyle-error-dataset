@@ -1,0 +1,5 @@
+44c44,45
+< 	void onListAdd(CtElement currentElement, CtRole role, List field, int index, CtElement newValue);
+---
+> 	void onListAdd(CtElement currentElement, CtRole role, 
+> List field, int index, CtElement newValue);

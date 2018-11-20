@@ -1,0 +1,5 @@
+218c218,219
+< 		biScan(spoon.reflect.path.CtRole.INTERFACE, ctClass.getSuperInterfaces(), other.getSuperInterfaces());
+---
+> 		biScan(spoon.reflect.path.CtRole.INTERFACE, ctClass.getSuperInterfaces
+> (), other.getSuperInterfaces());

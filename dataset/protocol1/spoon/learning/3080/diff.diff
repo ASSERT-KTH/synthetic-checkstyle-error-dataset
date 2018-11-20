@@ -1,0 +1,4 @@
+81c81
+< 	public boolean isArchive() {
+---
+> 	public boolean isArchive () {

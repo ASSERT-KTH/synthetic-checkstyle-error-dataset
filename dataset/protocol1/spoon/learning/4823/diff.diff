@@ -1,0 +1,4 @@
+49c49
+< 		return Paths.get(directory.toString(), moduleDir.toString(), packagePath.toString(), fileName);
+---
+> 		return Paths.get(directory.toString(), moduleDir.toString(), packagePath.toString(), fileName)	;

@@ -1,0 +1,4 @@
+112c112
+< 			throw new IllegalArgumentException("The method " + method.getSignature() + " should be a " + CtAnnotationMethod.class.getName());
+---
+> 			throw new IllegalArgumentException("The method " + method.getSignature() + " should be a "+ CtAnnotationMethod.class.getName());

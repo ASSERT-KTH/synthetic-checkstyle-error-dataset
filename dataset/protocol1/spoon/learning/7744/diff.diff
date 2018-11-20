@@ -1,0 +1,4 @@
+92c92
+< 	<T extends CtFor> T setForUpdate(List<CtStatement> forUpdate);
+---
+> 	<T extends CtFor> T setForUpdate	(List<CtStatement> forUpdate);

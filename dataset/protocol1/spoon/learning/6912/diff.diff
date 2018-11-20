@@ -1,0 +1,4 @@
+65c65
+< 	ContainerKind getContainerKind();
+---
+> 	ContainerKind getContainerKind()	;

@@ -1,0 +1,4 @@
+19c19
+< import spoon.compiler.Environment;
+---
+> import spoon.compiler.Environment ;

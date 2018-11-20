@@ -1,4 +1,0 @@
-55c55
-< 		for (OutputType outputType : OutputType.values()) {
----
-> 		for (OutputType outputType : OutputType.values()	) {

@@ -1,0 +1,4 @@
+810c810
+< 	public <T> CtAnnotationMethod<T> createAnnotationMethod() {
+---
+> 	public <T> CtAnnotationMethod<T> createAnnotationMethod(){

@@ -1,0 +1,4 @@
+60c60
+< 	public boolean matches(T element) {
+---
+> 	public boolean matches	(T element) {

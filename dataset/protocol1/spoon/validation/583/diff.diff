@@ -1,0 +1,5 @@
+591c591,592
+< 		public <T, U> void setValue(T element, U value) {
+---
+> 		
+> public <T, U> void setValue(T element, U value) {

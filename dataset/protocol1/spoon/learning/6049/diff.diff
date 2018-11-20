@@ -1,0 +1,4 @@
+181c181
+< 	public <C extends CtTypedElement> C setType(CtTypeReference<Void> type) {
+---
+> 	public <	C extends CtTypedElement> C setType(CtTypeReference<Void> type) {

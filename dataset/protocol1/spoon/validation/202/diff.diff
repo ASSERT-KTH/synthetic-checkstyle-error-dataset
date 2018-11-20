@@ -1,0 +1,5 @@
+104,105c104
+< 	public <T extends CtAnnotation<A>> T addValue(String elementName, Object value) {
+< 		if (value instanceof CtExpression) {
+---
+> 	public <T extends CtAnnotation<A>> T addValue(String elementName, Object value) {		if (value instanceof CtExpression) {

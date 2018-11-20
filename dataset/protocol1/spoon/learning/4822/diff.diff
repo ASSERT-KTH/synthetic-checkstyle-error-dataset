@@ -1,0 +1,5 @@
+44,45c44
+< 	public <T> void visitClass(Class<T> clazz) {
+< 		if (clazz.getPackage() != null) {
+---
+> 	public <T> void visitClass(Class<T> clazz) {		if (clazz.getPackage() != null) {

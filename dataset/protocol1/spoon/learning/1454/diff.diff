@@ -1,0 +1,4 @@
+54c54
+< 	Set<Class<? extends A>> getProcessedAnnotationTypes();
+---
+> 	Set<Class<? extends A>> getProcessedAnnotationTypes() ;

@@ -1,0 +1,4 @@
+61c61
+< 		result.elements = new LinkedList<>(elements.subList(index, elements.size()));
+---
+> 		result.elements = new LinkedList<>(elements.subList(index, elements.size())) ;

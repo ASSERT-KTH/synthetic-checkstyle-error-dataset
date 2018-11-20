@@ -1,0 +1,4 @@
+87c87
+< 	<N extends CtNewClass> N setAnonymousClass(CtClass<?> anonymousClass);
+---
+> 	<N extends CtNewClass> N setAnonymousClass(CtClass<	?> anonymousClass);

@@ -1,0 +1,4 @@
+51c51
+< 	@MetamodelPropertyField(role = IS_STATIC)
+---
+> 	@MetamodelPropertyField( role = IS_STATIC)

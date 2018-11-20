@@ -1,0 +1,4 @@
+93c93
+< 		this.targets = new ArrayList<>(targets);
+---
+> 		 this.targets = new ArrayList<>(targets);

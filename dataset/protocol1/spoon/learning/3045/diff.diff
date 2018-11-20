@@ -1,0 +1,5 @@
+58,59c58
+< 		protected void onSizeChanged(int newSize) {
+< 			if (isImplicit() && (newSize > 1 || newSize == 0)) {
+---
+> 		protected void onSizeChanged(int newSize) {			if (isImplicit() && (newSize > 1 || newSize == 0)) {

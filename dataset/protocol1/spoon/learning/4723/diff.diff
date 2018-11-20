@@ -1,0 +1,4 @@
+34c34
+< abstract class SetHandler<T, V> extends AbstractRoleHandler<T, Set<V>, V> {
+---
+> abstract class SetHandler<T, V> extends AbstractRoleHandler<T, Set<V>,V> {

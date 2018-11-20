@@ -1,0 +1,4 @@
+55c55
+< 		for (CtLocalVariable<?> l : resources) {
+---
+> 		for (CtLocalVariable<?>l : resources) {

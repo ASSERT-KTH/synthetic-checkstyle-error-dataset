@@ -1,0 +1,4 @@
+185c185
+< 	public static void changeLocalVariableName(CtLocalVariable<?> localVariable, String newName) throws RefactoringException {
+---
+> 	public static void changeLocalVariableName(CtLocalVariable< ?> localVariable, String newName) throws RefactoringException {

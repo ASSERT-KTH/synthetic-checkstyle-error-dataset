@@ -1,0 +1,4 @@
+271c271
+< 	private int getIndexOfTypeParam(CtFormalTypeDeclarer declarer, CtTypeReference<?> typeRef) {
+---
+> 	private int getIndexOfTypeParam(CtFormalTypeDeclarer declarer, CtTypeReference <?> typeRef) {

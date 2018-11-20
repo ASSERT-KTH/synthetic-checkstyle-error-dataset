@@ -1,0 +1,4 @@
+77c77
+< 	public <C extends CtBinaryOperator<T>> C setKind(BinaryOperatorKind kind) {
+---
+> 	public<C extends CtBinaryOperator<T>> C setKind(BinaryOperatorKind kind) {

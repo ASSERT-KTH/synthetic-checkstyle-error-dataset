@@ -1,4 +1,0 @@
-65c65
-< 			final CtType<?> currentExpected = allExpected.get(i);
----
-> 			final CtType<	?> currentExpected = allExpected.get(i);

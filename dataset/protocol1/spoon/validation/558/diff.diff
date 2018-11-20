@@ -1,0 +1,4 @@
+56c56
+< 			getFactory().getEnvironment().getModelChangeListener().onSetAdd(this, CtRole.MODIFIER, this.requiresModifiers, requiresModifier);
+---
+> 			getFactory().getEnvironment().getModelChangeListener().onSetAdd(this, CtRole.MODIFIER,this.requiresModifiers, requiresModifier);

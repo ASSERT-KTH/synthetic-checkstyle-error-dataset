@@ -1,0 +1,4 @@
+123c123
+< 				getFactory().getEnvironment().reportProgressMessage(p.getClass().getName());
+---
+> 				getFactory	().getEnvironment().reportProgressMessage(p.getClass().getName());

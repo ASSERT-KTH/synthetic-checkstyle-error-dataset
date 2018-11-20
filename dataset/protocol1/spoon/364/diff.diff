@@ -1,5 +1,0 @@
-21c21,22
-< public class CtElementAssert extends AbstractCtElementAssert<CtElementAssert> {
----
-> public 
-> class CtElementAssert extends AbstractCtElementAssert<CtElementAssert> {

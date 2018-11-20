@@ -1,0 +1,5 @@
+78,79c78
+< 		}
+< 		return adaptTypeParameter(typeParamRef.getDeclaration());
+---
+> 		}		return adaptTypeParameter(typeParamRef.getDeclaration());

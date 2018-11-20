@@ -1,0 +1,4 @@
+120c120
+< 	<R> List<R> list(Class<R> itemClass);
+---
+> 	<R> List<R> list(Class<	R> itemClass);

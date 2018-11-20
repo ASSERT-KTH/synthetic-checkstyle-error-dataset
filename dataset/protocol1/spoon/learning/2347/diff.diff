@@ -1,0 +1,4 @@
+33c33
+< 	private final boolean nextSuffixSpace;
+---
+> 	private final boolean nextSuffixSpace ;

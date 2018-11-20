@@ -1,0 +1,4 @@
+76c76
+< 	public <T> CtClass<T> create(String qualifiedName) {
+---
+> 	public <T> CtClass<	T> create(String qualifiedName) {

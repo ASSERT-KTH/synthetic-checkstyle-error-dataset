@@ -1,0 +1,4 @@
+174c174
+< 	public List<CtElement> getPatternElements() {
+---
+> 	public List<CtElement> getPatternElements	() {

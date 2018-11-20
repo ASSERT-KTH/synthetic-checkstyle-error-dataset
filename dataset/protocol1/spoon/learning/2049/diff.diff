@@ -1,0 +1,5 @@
+26,27c26
+< 			return myself;
+< 		}
+---
+> 			return myself;		}

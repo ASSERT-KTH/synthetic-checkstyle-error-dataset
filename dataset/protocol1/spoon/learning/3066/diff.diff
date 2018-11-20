@@ -1,0 +1,5 @@
+48c48,49
+< 	<T extends CtFormalTypeDeclarer> T addFormalCtTypeParameter(CtTypeParameter formalTypeParameter);
+---
+> 	<T 
+> extends CtFormalTypeDeclarer> T addFormalCtTypeParameter(CtTypeParameter formalTypeParameter);

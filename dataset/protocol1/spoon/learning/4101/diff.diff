@@ -1,0 +1,4 @@
+47c47
+< 		set = new TreeSet<>(comparator);
+---
+> 		set = new TreeSet<>(comparator)	;

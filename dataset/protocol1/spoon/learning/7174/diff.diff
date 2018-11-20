@@ -1,0 +1,5 @@
+27c27,28
+< public interface CtQueryAware {
+---
+> public 
+> interface CtQueryAware {

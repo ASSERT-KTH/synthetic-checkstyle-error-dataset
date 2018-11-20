@@ -1,0 +1,4 @@
+55c55
+< 	public <W, X> java.util.Collection<X> asCollection(W element) {
+---
+> 	public <W, X> java.util.Collection<X	> asCollection(W element) {

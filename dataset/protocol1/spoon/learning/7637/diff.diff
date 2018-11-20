@@ -1,0 +1,4 @@
+74c74
+< 	<R> CtMethod<R> getOverriddenMethod();
+---
+> 	<R> CtMethod<	R> getOverriddenMethod();

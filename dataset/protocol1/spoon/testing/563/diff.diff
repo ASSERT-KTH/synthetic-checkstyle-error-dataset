@@ -1,0 +1,5 @@
+37,38c37
+< 	protected AbstractRuntimeBuilderContext(CtShadowable element) {
+< 		element.setShadow(true);
+---
+> 	protected AbstractRuntimeBuilderContext(CtShadowable element) {		element.setShadow(true);

@@ -1,0 +1,5 @@
+61c61,62
+< 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate(this, DEFAULT_EXPRESSION, assignedExpression, this.defaultExpression);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onObjectUpdate
+> (this, DEFAULT_EXPRESSION, assignedExpression, this.defaultExpression);

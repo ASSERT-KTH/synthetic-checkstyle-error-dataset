@@ -1,0 +1,4 @@
+134c134
+< 	CtRole(CtRole superRole, Predicate<Object> predicate) {
+---
+> 	CtRole(CtRole superRole, Predicate<Object	> predicate) {

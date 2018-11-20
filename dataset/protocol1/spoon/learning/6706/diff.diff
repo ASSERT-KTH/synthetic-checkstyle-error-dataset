@@ -1,0 +1,5 @@
+494c494,495
+< 		return autoSimplifySubstitutions;
+---
+> 		return autoSimplifySubstitutions
+> ;

@@ -1,0 +1,4 @@
+79c79
+< 			return create(declaringClass, getSimpleName(qualifiedName));
+---
+> 			return create(declaringClass	, getSimpleName(qualifiedName));

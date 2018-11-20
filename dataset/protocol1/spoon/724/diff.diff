@@ -1,5 +1,0 @@
-798c798,799
-< 							FileUtils.copyFileToDirectory((File) resource, new File(targetDirectory));
----
-> 							FileUtils.copyFileToDirectory((File) resource, 
-> new File(targetDirectory));

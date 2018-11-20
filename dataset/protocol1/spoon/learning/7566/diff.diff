@@ -1,0 +1,4 @@
+112c112
+< 		this.initProperties(loadProperties());
+---
+> 		this.initProperties(loadProperties	());

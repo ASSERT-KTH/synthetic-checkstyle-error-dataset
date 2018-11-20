@@ -1,0 +1,4 @@
+2289c2289
+< 			return ((U) ((Object) (castTarget(element).getValue())));
+---
+> 			return ((U) (	(Object) (castTarget(element).getValue())));

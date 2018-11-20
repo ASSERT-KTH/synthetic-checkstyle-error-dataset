@@ -1,0 +1,4 @@
+126c126
+< 				if (getFactory().Method().OBJECT_METHODS.stream().anyMatch(method::isOverriding)) {
+---
+> 				 if (getFactory().Method().OBJECT_METHODS.stream().anyMatch(method::isOverriding)) {

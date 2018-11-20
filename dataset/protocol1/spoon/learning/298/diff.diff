@@ -1,0 +1,4 @@
+105c105
+< 	<C extends CtClass<T>> C addConstructor(CtConstructor<T> constructor);
+---
+> 	<C extends CtClass<T>> C addConstructor	(CtConstructor<T> constructor);

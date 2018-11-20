@@ -1,0 +1,5 @@
+65,66c65
+< 	public List<CtElement> getModified() {
+< 		if (modified == null) {
+---
+> 	public List<CtElement> getModified() {		if (modified == null) {

@@ -1,0 +1,5 @@
+89c89,90
+< 		result = 31 * result + (kind != null ? kind.hashCode() : 0);
+---
+> 		result = 31 
+> * result + (kind != null ? kind.hashCode() : 0);

@@ -1,0 +1,4 @@
+57c57
+< 			this.simplename = simplename;
+---
+> 			this.simplename= simplename;

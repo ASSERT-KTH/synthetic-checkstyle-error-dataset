@@ -1,0 +1,5 @@
+227c227,228
+< 	private static final Filter<CtClass<?>> classFilter = new TypeFilter<>(CtClass.class);
+---
+> 	private static final Filter<CtClass<?>> classFilter 
+> = new TypeFilter<>(CtClass.class);

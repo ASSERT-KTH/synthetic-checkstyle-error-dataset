@@ -1,0 +1,5 @@
+364c364,365
+< 			sw1 = new Switch("lines");
+---
+> 			sw1 = 
+> new Switch("lines");

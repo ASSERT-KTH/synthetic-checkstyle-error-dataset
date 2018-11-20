@@ -1,0 +1,4 @@
+167c167
+< 	protected SignaturePrinter write(String value) {
+---
+> 	protected SignaturePrinter write(String value){

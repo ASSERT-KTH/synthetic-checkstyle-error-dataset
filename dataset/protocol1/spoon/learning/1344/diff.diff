@@ -1,0 +1,4 @@
+259c259
+< 	public ElementSourceFragment add(ElementSourceFragment other) {
+---
+> 	public ElementSourceFragment add(ElementSourceFragment other){

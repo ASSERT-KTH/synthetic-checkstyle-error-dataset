@@ -1,0 +1,4 @@
+99c99
+< 		if (newNameValidationRE != null && newNameValidationRE.matcher(newName).matches() == false) {
+---
+> 		if (newNameValidationRE != null && newNameValidationRE.matcher(newName).matches() == false){

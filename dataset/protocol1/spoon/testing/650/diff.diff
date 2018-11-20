@@ -1,0 +1,4 @@
+53c53
+< 	void initWithImports(Iterable<CtImport> importCollection);
+---
+> 	void initWithImports(Iterable <CtImport> importCollection);

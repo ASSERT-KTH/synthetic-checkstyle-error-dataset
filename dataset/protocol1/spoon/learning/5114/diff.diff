@@ -1,0 +1,4 @@
+315c315
+< 							field.setSimpleName(name);
+---
+> 							field.setSimpleName(name) ;

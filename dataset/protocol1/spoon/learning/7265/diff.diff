@@ -1,0 +1,4 @@
+166c166
+< 		CtPackage current = factory.getModel().getRootPackage();
+---
+> 		CtPackage current= factory.getModel().getRootPackage();

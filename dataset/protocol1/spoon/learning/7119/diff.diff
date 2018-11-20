@@ -1,0 +1,5 @@
+66c66,67
+< 	void setOutputFilter(Filter<CtType<?>> typeFilter);
+---
+> 	void setOutputFilter
+> (Filter<CtType<?>> typeFilter);

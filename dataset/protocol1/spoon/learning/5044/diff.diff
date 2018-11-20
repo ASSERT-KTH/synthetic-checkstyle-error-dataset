@@ -1,0 +1,4 @@
+123c123
+< 		public <T extends Writable> T ignoreStaticAccess(boolean v) {
+---
+> 		public<T extends Writable> T ignoreStaticAccess(boolean v) {

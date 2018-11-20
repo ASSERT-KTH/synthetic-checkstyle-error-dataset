@@ -1,0 +1,4 @@
+71c71
+< 		if (p.getTraversalStrategy() == TraversalStrategy.PRE_ORDER
+---
+> 		if (p.getTraversalStrategy()== TraversalStrategy.PRE_ORDER

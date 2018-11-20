@@ -1,0 +1,4 @@
+206c206
+< 	public <T extends CtPackage> T addType(CtType<?> type) {
+---
+> 	public<T extends CtPackage> T addType(CtType<?> type) {

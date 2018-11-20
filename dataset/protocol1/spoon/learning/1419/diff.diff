@@ -1,0 +1,4 @@
+33c33
+< 		for (SpoonResource f : new ArrayList<>(files)) {
+---
+> 		for (SpoonResource f : new ArrayList<>(files )) {

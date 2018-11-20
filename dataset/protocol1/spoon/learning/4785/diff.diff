@@ -1,0 +1,4 @@
+194c194
+< 		return getReference().isSubtypeOf(type);
+---
+> 		 return getReference().isSubtypeOf(type);

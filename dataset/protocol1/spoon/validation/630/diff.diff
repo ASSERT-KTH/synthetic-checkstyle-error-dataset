@@ -1,0 +1,4 @@
+477c477
+< 	static class CtConditional_CONDITION_RoleHandler extends SingleHandler<CtConditional, CtExpression<Boolean>> {
+---
+> 	static class CtConditional_CONDITION_RoleHandler extends SingleHandler<	CtConditional, CtExpression<Boolean>> {

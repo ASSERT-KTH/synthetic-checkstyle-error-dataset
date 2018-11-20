@@ -1,0 +1,4 @@
+245c245
+< 				if (targetTypeObject instanceof CtTypeReference<?>) {
+---
+> 				 if (targetTypeObject instanceof CtTypeReference<?>) {

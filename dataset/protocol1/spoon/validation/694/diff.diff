@@ -1,0 +1,4 @@
+96c96
+< 	Set<Class<? extends CtElement>> getProcessedElementTypes();
+---
+> 	Set<Class< ? extends CtElement>> getProcessedElementTypes();

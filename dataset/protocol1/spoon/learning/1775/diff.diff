@@ -1,0 +1,4 @@
+74c74
+< 	public TokenType getType() {
+---
+> 	public TokenType getType	() {

@@ -1,0 +1,4 @@
+35c35
+< abstract class AbstractRuntimeBuilderContext implements RuntimeBuilderContext {
+---
+> abstract class AbstractRuntimeBuilderContext implements RuntimeBuilderContext{

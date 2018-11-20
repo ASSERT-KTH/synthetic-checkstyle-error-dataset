@@ -1,0 +1,5 @@
+133c133,134
+< 		getFactory().getEnvironment().getModelChangeListener().onListAdd(this, CAST, typeCasts, type);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onListAdd(this, CAST, 
+> typeCasts, type);

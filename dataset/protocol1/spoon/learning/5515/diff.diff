@@ -1,0 +1,5 @@
+179,180c179
+< 			offset = 0;
+< 		} else if (lengthGenericParameterTypes == lengthParameterTypes - 1) {
+---
+> 			offset = 0;		} else if (lengthGenericParameterTypes == lengthParameterTypes - 1) {

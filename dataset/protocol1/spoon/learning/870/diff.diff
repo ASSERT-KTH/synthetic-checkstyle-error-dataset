@@ -1,0 +1,4 @@
+31c31
+< public interface CtPathElement<P extends CtElement, T extends CtElement> {
+---
+> public interface CtPathElement<P extends CtElement , T extends CtElement> {

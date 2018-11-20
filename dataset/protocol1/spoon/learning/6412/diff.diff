@@ -1,0 +1,4 @@
+516c516
+< 	private void addInlineStatements(String variableName, Object paramValue) {
+---
+> 	private void addInlineStatements( String variableName, Object paramValue) {

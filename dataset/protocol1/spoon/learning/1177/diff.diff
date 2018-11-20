@@ -1,0 +1,4 @@
+208c208
+< 		return (CtCase<E>) super.clone();
+---
+> 		return (CtCase<E>)super.clone();

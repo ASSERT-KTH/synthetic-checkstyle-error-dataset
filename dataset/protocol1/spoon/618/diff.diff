@@ -1,4 +1,0 @@
-168c168
-< 				throw new SpoonException("unable to create cache directory");
----
-> 				throw new SpoonException( "unable to create cache directory");

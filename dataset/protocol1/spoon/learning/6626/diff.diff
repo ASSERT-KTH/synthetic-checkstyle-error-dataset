@@ -1,0 +1,4 @@
+237c237
+< 		if (element != parent && element != null) {
+---
+> 		if (element != parent && element != null){

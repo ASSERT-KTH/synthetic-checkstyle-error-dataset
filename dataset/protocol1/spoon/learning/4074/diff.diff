@@ -1,0 +1,4 @@
+477c477
+< 		if (factory.getEnvironment().getDefaultFileGenerator() != null) {
+---
+> 		if (factory.getEnvironment().getDefaultFileGenerator () != null) {

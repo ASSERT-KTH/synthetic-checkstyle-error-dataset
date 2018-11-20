@@ -1,0 +1,4 @@
+29c29
+< import static spoon.reflect.path.CtRole.TARGET_LABEL;
+---
+> import static spoon.reflect.path.CtRole.TARGET_LABEL ;

@@ -1,0 +1,4 @@
+68c68
+< import org.eclipse.jdt.internal.compiler.lookup.VoidTypeBinding;
+---
+> import org.eclipse.jdt.	internal.compiler.lookup.VoidTypeBinding;

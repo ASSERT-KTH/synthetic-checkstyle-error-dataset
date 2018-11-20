@@ -1,0 +1,4 @@
+146c146
+< 		String type = signature.substring(0, signature.indexOf(' '));
+---
+> 		String type = signature.substring(0, signature.indexOf( ' '));

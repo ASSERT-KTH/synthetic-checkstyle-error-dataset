@@ -1,0 +1,4 @@
+65c65
+< 			return this == PARAM || this == THROWS;
+---
+> 			return this == PARAM || this ==THROWS;

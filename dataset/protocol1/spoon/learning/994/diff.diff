@@ -1,0 +1,4 @@
+32c32
+< 	public CtExpression<Integer> getIndexExpression() {
+---
+> 	public CtExpression<Integer>getIndexExpression() {

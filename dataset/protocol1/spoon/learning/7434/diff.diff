@@ -1,0 +1,4 @@
+54c54
+< 		return TOP_LEVEL_MODULE_NAME.equals(this.getSimpleName());
+---
+> 		return TOP_LEVEL_MODULE_NAME.	equals(this.getSimpleName());

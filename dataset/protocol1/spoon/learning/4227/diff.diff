@@ -1,0 +1,4 @@
+24c24
+< public class CtEnumValueImpl<T> extends CtFieldImpl<T> implements CtEnumValue<T> {
+---
+> public class CtEnumValueImpl<T>extends CtFieldImpl<T> implements CtEnumValue<T> {

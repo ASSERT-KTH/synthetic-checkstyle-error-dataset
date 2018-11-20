@@ -1,0 +1,4 @@
+41c41
+< 	<T> void visitClass(Class<T> clazz);
+---
+> 	<T> void visitClass(Class<T> clazz	);

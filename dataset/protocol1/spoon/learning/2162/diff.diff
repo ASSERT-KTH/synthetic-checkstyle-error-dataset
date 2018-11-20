@@ -1,0 +1,4 @@
+254c254
+< 				context.canBeRemoved = true;
+---
+> 				 context.canBeRemoved = true;

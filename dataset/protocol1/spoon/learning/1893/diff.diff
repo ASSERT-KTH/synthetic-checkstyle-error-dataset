@@ -1,0 +1,4 @@
+86c86
+< 	public <T extends Enum<?>> CtEnum<T> getEnum(Class<T> cl) {
+---
+> 	public <T extends Enum<?>> CtEnum<T> getEnum(Class< T> cl) {

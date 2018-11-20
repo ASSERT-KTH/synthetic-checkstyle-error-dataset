@@ -1,5 +1,0 @@
-497c497,498
-< 		String outputString = jsapActualArgs.getString("output-type");
----
-> 		String outputString = jsapActualArgs.getString
-> ("output-type");

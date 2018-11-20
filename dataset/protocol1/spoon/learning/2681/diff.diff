@@ -1,0 +1,4 @@
+147c147
+< 				if (declaration.hasParent(type)) {
+---
+> 				if(declaration.hasParent(type)) {

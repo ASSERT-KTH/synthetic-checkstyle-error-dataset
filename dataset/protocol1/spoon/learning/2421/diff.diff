@@ -1,0 +1,4 @@
+312c312
+< 				addCommentToNear(comment, new ArrayList<>(e.getStatements()));
+---
+> 				addCommentToNear(comment, new ArrayList<>(e.getStatements())) ;

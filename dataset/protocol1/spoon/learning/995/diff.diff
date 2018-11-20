@@ -1,0 +1,4 @@
+33c33
+< 	public VirtualFile(String content) {
+---
+> 	public VirtualFile(String content){

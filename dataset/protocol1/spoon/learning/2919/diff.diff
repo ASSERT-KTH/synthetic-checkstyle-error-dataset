@@ -1,0 +1,4 @@
+33c33
+< 	<R extends CtCodeElement> R partiallyEvaluate();
+---
+> 	< R extends CtCodeElement> R partiallyEvaluate();

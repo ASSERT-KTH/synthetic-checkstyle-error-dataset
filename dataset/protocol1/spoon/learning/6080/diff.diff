@@ -1,0 +1,4 @@
+141c141
+< 			CtClass klass = (CtClass) ret;
+---
+> 			CtClass klass= (CtClass) ret;

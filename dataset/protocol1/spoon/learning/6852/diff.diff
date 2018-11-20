@@ -1,0 +1,4 @@
+35c35
+< 		args.add("-preserveAllLocals");
+---
+> 		args.add("-preserveAllLocals"	);

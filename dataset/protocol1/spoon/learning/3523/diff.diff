@@ -1,0 +1,5 @@
+128c128,129
+< 		if (firstResultIdx < results.size()) {
+---
+> 		if (firstResultIdx 
+> < results.size()) {

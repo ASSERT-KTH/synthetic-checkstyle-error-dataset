@@ -1,0 +1,5 @@
+41c41,42
+< 	void forEachParameterInfo(BiConsumer<ParameterInfo, RootNode> consumer);
+---
+> 	void forEachParameterInfo
+> (BiConsumer<ParameterInfo, RootNode> consumer);

@@ -1,4 +1,0 @@
-54c54
-< 	public static OutputType fromString(String string) {
----
-> 	public static OutputType fromString( String string) {

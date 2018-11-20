@@ -1,0 +1,5 @@
+62,63c62
+< 	public Set<ModifierKind> getModifiers() {
+< 		return modifierHandler.getModifiers();
+---
+> 	public Set<ModifierKind> getModifiers() {		return modifierHandler.getModifiers();

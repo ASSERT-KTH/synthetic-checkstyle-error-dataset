@@ -1,0 +1,5 @@
+112c112,113
+< 	public void accept(CtVisitor visitor) {
+---
+> 	
+> public void accept(CtVisitor visitor) {

@@ -1,0 +1,5 @@
+63,64c63
+< 	public void apply(CtElement input, CtConsumer<Object> outputConsumer) {
+< 		scanner.next = outputConsumer;
+---
+> 	public void apply(CtElement input, CtConsumer<Object> outputConsumer) {		scanner.next = outputConsumer;

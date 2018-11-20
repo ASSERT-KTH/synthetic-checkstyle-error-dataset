@@ -1,0 +1,4 @@
+79c79
+< 						this.imports.add(createImportWithPosition(ctPackage.getReference(), importRef));
+---
+> 						this.imports.add(createImportWithPosition(ctPackage.getReference	(), importRef));

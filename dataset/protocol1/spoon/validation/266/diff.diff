@@ -1,0 +1,4 @@
+41c41
+< 	T getValue();
+---
+> 	 T getValue();

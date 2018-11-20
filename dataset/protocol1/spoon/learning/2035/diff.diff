@@ -1,0 +1,4 @@
+43c43
+< 			tags = ((CtJavaDoc) comment).getTags();
+---
+> 			tags= ((CtJavaDoc) comment).getTags();

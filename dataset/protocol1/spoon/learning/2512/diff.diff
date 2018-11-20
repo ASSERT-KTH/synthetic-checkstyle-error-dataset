@@ -1,0 +1,5 @@
+17c17,18
+< package spoon.support.visitor.replace;
+---
+> package 
+> spoon.support.visitor.replace;

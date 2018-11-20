@@ -1,0 +1,4 @@
+65c65
+< 	CtParameter<T> clone();
+---
+> 	 CtParameter<T> clone();

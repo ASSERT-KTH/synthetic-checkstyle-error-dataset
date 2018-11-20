@@ -1,0 +1,4 @@
+54c54
+< 		CtMethod m = c.getMethod("block");
+---
+> 		CtMethod m = c.getMethod("block"	);

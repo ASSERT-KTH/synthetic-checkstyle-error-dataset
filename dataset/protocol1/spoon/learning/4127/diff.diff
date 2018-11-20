@@ -1,0 +1,4 @@
+145c145
+< 			this.thrownTypes = CtElementImpl.emptySet();
+---
+> 			this.thrownTypes = CtElementImpl.emptySet ();

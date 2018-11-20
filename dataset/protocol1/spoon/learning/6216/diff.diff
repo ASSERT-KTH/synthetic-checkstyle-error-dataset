@@ -1,0 +1,5 @@
+61,62c61
+< 	public <C extends CtConditional<T>> C setElseExpression(CtExpression<T> elseExpression) {
+< 		if (elseExpression != null) {
+---
+> 	public <C extends CtConditional<T>> C setElseExpression(CtExpression<T> elseExpression) {		if (elseExpression != null) {

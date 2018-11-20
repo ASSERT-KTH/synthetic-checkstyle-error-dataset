@@ -1,0 +1,4 @@
+21c21
+< import spoon.reflect.visitor.CtScanner;
+---
+> import spoon.reflect.	visitor.CtScanner;

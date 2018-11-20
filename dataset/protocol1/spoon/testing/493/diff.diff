@@ -1,0 +1,4 @@
+566c566
+< 	public <T extends Enum<?>> void visitCtEnum(CtEnum<T> e) {
+---
+> 	public <T extends Enum<?>	> void visitCtEnum(CtEnum<T> e) {

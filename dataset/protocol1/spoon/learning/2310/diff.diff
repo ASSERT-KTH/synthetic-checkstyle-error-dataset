@@ -1,0 +1,4 @@
+46c46
+< 	public ConstructorFactory(Factory factory) {
+---
+> 	 public ConstructorFactory(Factory factory) {

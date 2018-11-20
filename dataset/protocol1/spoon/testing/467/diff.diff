@@ -1,0 +1,4 @@
+70c70
+< 		parent.accept(new CtScanner() {
+---
+> 		parent.accept(new CtScanner	() {

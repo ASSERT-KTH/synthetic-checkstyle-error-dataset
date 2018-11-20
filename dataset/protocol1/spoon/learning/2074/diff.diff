@@ -1,0 +1,4 @@
+99c99
+< 		((spoon.reflect.declaration.CtType<T>) (other)).setShadow(type.isShadow());
+---
+> 		((spoon.reflect.declaration.CtType<T>) (other)).setShadow(type.isShadow() );

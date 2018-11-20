@@ -1,0 +1,4 @@
+245c245
+< 		return findIndexOfNextFragment(childFragments, start, checkCollectionItems(filter(ElementSourceFragment.class, elementFragment -> elementFragment.getRoleInParent() == role)));
+---
+> 		return findIndexOfNextFragment(childFragments, start, checkCollectionItems(filter(ElementSourceFragment.class, elementFragment -> elementFragment.getRoleInParent () == role)));

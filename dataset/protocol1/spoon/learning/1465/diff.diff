@@ -1,0 +1,5 @@
+452c452,453
+< 		CtTypeAccess<?> typeAccess = jdtTreeBuilder.getFactory().Code().createTypeAccess(fieldReference.getDeclaringType());
+---
+> 		CtTypeAccess<?> typeAccess = jdtTreeBuilder.getFactory().Code().createTypeAccess
+> (fieldReference.getDeclaringType());

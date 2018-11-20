@@ -1,0 +1,4 @@
+66c66
+< 	public <T extends CtIf> T setCondition(CtExpression<Boolean> condition) {
+---
+> 	public <T extends CtIf> T setCondition(CtExpression	<Boolean> condition) {

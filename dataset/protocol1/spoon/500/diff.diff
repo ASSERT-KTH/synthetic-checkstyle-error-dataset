@@ -1,5 +1,0 @@
-48,49c48
-< 			for (Field f : RtHelper.getAllFields(p.getClass())) {
-< 				if (f.isAnnotationPresent(Property.class)) {
----
-> 			for (Field f : RtHelper.getAllFields(p.getClass())) {				if (f.isAnnotationPresent(Property.class)) {

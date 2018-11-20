@@ -1,4 +1,0 @@
-51c51
-< 		if (this instanceof Template) {
----
-> 		 if (this instanceof Template) {

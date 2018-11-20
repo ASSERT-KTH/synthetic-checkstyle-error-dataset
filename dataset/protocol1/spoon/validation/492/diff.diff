@@ -1,0 +1,4 @@
+58c58
+< 		if (dimensionExpressions == null || dimensionExpressions.isEmpty()) {
+---
+> 		if (dimensionExpressions == null ||dimensionExpressions.isEmpty()) {

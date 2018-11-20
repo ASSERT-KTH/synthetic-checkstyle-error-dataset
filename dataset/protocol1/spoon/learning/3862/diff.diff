@@ -1,0 +1,5 @@
+68c68,69
+< 			superType = getFactory().Type().objectType();
+---
+> 			superType = getFactory().Type
+> ().objectType();

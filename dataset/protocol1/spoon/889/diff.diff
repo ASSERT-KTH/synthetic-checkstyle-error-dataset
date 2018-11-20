@@ -1,5 +1,0 @@
-27c27,28
-< 	public SpoonException(Throwable e) {
----
-> 	
-> public SpoonException(Throwable e) {

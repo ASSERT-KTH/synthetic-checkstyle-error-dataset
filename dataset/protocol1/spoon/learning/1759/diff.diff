@@ -1,0 +1,4 @@
+22c22
+< public enum ScanningMode {
+---
+> public enum ScanningMode{

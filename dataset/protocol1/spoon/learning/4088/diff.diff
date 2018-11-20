@@ -1,0 +1,4 @@
+61c61
+< 			out = new BZip2CompressorOutputStream(out);
+---
+> 			out =new BZip2CompressorOutputStream(out);

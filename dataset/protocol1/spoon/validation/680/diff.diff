@@ -1,0 +1,5 @@
+41,42c41
+< 	public CtPackageReference getReference() {
+< 		return this.reference;
+---
+> 	public CtPackageReference getReference() {		return this.reference;

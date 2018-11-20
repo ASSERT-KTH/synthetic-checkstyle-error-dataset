@@ -1,0 +1,4 @@
+35c35
+< 	public void directPrint(String text) {
+---
+> 	public void directPrint(String text	) {

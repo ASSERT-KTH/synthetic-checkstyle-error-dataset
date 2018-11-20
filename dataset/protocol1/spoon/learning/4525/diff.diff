@@ -1,0 +1,4 @@
+2202c2202
+< 		replaceInListIfExist(compilationUnit.getAnnotations(), new spoon.support.visitor.replace.ReplacementVisitor.CtElementAnnotationsReplaceListener(compilationUnit));
+---
+> 		replaceInListIfExist(compilationUnit.getAnnotations(), new spoon.support. visitor.replace.ReplacementVisitor.CtElementAnnotationsReplaceListener(compilationUnit));

@@ -1,0 +1,4 @@
+195c195
+< 		getVisitedSet().remove(lastResolvedSuperclass.getQualifiedName());
+---
+> 		getVisitedSet(). remove(lastResolvedSuperclass.getQualifiedName());

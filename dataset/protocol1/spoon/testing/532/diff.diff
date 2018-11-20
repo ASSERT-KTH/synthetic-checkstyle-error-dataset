@@ -1,0 +1,5 @@
+668c668,669
+< 	public void visitCtThrow(final spoon.reflect.code.CtThrow throwStatement) {
+---
+> 	public void 
+> visitCtThrow(final spoon.reflect.code.CtThrow throwStatement) {

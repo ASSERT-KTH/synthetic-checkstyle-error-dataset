@@ -1,0 +1,4 @@
+119c119
+< 		this.statements.add(0, statement);
+---
+> 		this.statements.add(0,statement);

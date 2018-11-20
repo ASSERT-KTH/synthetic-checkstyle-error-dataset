@@ -1,0 +1,4 @@
+62c62
+< 		getFactory().getEnvironment().getModelChangeListener().onListDeleteAll(this, DIMENSION, this.dimensionExpressions, new ArrayList<>(this.dimensionExpressions));
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onListDeleteAll(this, DIMENSION, this.dimensionExpressions, new ArrayList<>(this.	dimensionExpressions));

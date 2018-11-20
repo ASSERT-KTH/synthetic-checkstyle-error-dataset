@@ -1,4 +1,0 @@
-37c37
-< 	public T isEqualTo(CtElement expected) {
----
-> 	public T isEqualTo(CtElement expected	) {

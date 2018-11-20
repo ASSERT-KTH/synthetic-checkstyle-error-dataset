@@ -1,0 +1,4 @@
+106c106
+< 			enclosingClassTypingContext = createEnclosingHierarchy(enclosing);
+---
+> 			 enclosingClassTypingContext = createEnclosingHierarchy(enclosing);

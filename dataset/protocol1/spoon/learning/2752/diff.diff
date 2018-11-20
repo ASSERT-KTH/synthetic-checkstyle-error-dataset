@@ -1,0 +1,4 @@
+1571c1571
+< 		context.enter(factory.Code().createLiteral(CharOperation.charToString(stringLiteral.source())), stringLiteral);
+---
+> 		context.enter(factory.	Code().createLiteral(CharOperation.charToString(stringLiteral.source())), stringLiteral);

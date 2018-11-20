@@ -1,0 +1,5 @@
+81c81,82
+< 	private <T> T getMatchingElement(Class<T> clazz, boolean failIfMany) {
+---
+> 	private 
+> <T> T getMatchingElement(Class<T> clazz, boolean failIfMany) {

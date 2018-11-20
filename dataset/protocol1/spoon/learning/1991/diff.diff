@@ -1,0 +1,4 @@
+756c756
+< 	public void endVisit(WhileStatement whileStatement, BlockScope scope) {
+---
+> 	public void endVisit(WhileStatement whileStatement,BlockScope scope) {

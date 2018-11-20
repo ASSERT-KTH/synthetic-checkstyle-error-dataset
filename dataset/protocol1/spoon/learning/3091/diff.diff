@@ -1,0 +1,4 @@
+74c74
+< 			return changeCollector.getChanges((CtElement) element);
+---
+> 			return changeCollector. getChanges((CtElement) element);

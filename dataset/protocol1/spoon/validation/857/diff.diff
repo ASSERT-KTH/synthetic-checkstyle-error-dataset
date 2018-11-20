@@ -1,0 +1,5 @@
+85,86c85
+< 		}
+< 		getFactory().getEnvironment().getModelChangeListener().onListDelete(this, ARGUMENT, arguments, arguments.indexOf(argument), argument);
+---
+> 		}		getFactory().getEnvironment().getModelChangeListener().onListDelete(this, ARGUMENT, arguments, arguments.indexOf(argument), argument);

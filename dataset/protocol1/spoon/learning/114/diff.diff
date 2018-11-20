@@ -1,0 +1,4 @@
+27c27
+< 		super(actual, selfType);
+---
+> 		super(actual,selfType);

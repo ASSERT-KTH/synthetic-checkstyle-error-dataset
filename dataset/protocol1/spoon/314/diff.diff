@@ -1,5 +1,0 @@
-26,27c26
-< import spoon.pattern.Pattern;
-< import spoon.pattern.PatternBuilderHelper;
----
-> import spoon.pattern.Pattern;import spoon.pattern.PatternBuilderHelper;

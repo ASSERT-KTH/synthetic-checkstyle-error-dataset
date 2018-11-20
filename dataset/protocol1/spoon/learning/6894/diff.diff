@@ -1,0 +1,5 @@
+259,260c259
+< 						.getLastSelectedPathComponent()).getUserObject());
+< 			}
+---
+> 						.getLastSelectedPathComponent()).getUserObject());			}

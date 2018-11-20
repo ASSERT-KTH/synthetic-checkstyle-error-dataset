@@ -1,0 +1,4 @@
+130c130
+< 		CtClass<? extends Template<?>> sourceClass = getTemplateCtClass(targetType, template);
+---
+> 		CtClass<? extends Template<?>> sourceClass = getTemplateCtClass( targetType, template);

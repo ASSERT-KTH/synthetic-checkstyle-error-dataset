@@ -1,0 +1,5 @@
+502,503c502
+< 	public A getActualAnnotation() {
+< 		class AnnotationInvocationHandler implements InvocationHandler {
+---
+> 	public A getActualAnnotation() {		class AnnotationInvocationHandler implements InvocationHandler {

@@ -1,0 +1,5 @@
+48,49c48
+< 	public int getLine() {
+< 		throw new UnsupportedOperationException("PartialSourcePosition only contains a CompilationUnit");
+---
+> 	public int getLine() {		throw new UnsupportedOperationException("PartialSourcePosition only contains a CompilationUnit");

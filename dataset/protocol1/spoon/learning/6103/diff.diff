@@ -1,0 +1,4 @@
+66c66
+< 	public static boolean isLegalJavaIdentifier(String string) {
+---
+> 	public static boolean isLegalJavaIdentifier	(String string) {

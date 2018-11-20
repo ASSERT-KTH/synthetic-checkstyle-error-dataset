@@ -1,0 +1,5 @@
+69c69,70
+< 			builder.append(value.getKey() + "=" + value.getValue());
+---
+> 			builder.append(value.getKey() + "=" + value.getValue
+> ());

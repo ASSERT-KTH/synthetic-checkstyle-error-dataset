@@ -1,0 +1,4 @@
+43c43
+< 	public <N extends CtNewClass> N setAnonymousClass(CtClass<?> anonymousClass) {
+---
+> 	public<N extends CtNewClass> N setAnonymousClass(CtClass<?> anonymousClass) {

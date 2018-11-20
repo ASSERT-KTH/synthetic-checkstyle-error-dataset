@@ -1,0 +1,5 @@
+295,296c295
+< 	public void visitCtCompilationUnit(spoon.reflect.declaration.CtCompilationUnit compilationUnit) {
+< 		((spoon.reflect.declaration.CtCompilationUnit) (other)).setFile(compilationUnit.getFile());
+---
+> 	public void visitCtCompilationUnit(spoon.reflect.declaration.CtCompilationUnit compilationUnit) {		((spoon.reflect.declaration.CtCompilationUnit) (other)).setFile(compilationUnit.getFile());

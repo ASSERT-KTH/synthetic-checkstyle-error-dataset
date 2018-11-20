@@ -1,0 +1,5 @@
+46,47c46
+< 		if (!actual.getSimpleName().equals(expected.getSimpleName())) {
+< 			throw new AssertionError(String.format("The actual package named %1$s isn't equals to the expected package named %2$s", actual.getSimpleName(), expected.getSimpleName()));
+---
+> 		if (!actual.getSimpleName().equals(expected.getSimpleName())) {			throw new AssertionError(String.format("The actual package named %1$s isn't equals to the expected package named %2$s", actual.getSimpleName(), expected.getSimpleName()));

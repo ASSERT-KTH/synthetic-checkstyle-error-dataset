@@ -1,0 +1,4 @@
+299c299
+< 		while ((enume != null) && enume.hasMoreElements()) {
+---
+> 		while ((enume !=null) && enume.hasMoreElements()) {

@@ -1,0 +1,4 @@
+34c34
+< 	List<CtTypeReference<?>> getActualTypeArguments();
+---
+> 	List <CtTypeReference<?>> getActualTypeArguments();

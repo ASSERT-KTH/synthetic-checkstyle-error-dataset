@@ -1,0 +1,4 @@
+41c41
+< 	public InputStream getContent() {
+---
+> 	public InputStream getContent(){

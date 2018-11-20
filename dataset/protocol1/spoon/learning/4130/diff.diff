@@ -1,0 +1,4 @@
+23c23
+< import static spoon.reflect.path.CtRole.EXECUTABLE_REF;
+---
+> import static spoon.reflect.path. CtRole.EXECUTABLE_REF;

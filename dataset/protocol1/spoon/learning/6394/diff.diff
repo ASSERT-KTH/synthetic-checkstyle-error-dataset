@@ -1,0 +1,5 @@
+84,85c84
+< 		if (endPrefixSpace) {
+< 			printerTokenWriter.writeSpace();
+---
+> 		if (endPrefixSpace) {			printerTokenWriter.writeSpace();

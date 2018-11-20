@@ -1,0 +1,4 @@
+54c54
+< 		if (canBeRegexp && canBeRegExpPattern(pattern) && !failingPatterns.contains(pattern)) {
+---
+> 		if (canBeRegexp&& canBeRegExpPattern(pattern) && !failingPatterns.contains(pattern)) {

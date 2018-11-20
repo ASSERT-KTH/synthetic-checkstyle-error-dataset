@@ -1,0 +1,5 @@
+156,157c156
+< 	public Collection<CtMethod<Void>> getMainMethods() {
+< 		Collection<CtMethod<Void>> methods = new ArrayList<>();
+---
+> 	public Collection<CtMethod<Void>> getMainMethods() {		Collection<CtMethod<Void>> methods = new ArrayList<>();

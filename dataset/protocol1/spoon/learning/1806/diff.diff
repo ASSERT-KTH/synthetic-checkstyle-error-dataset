@@ -1,0 +1,5 @@
+78,79c78
+< 		} else if (Character.UnicodeBlock.of(c) != Character.UnicodeBlock.BASIC_LATIN) {
+< 			if (c < 0x10) {
+---
+> 		} else if (Character.UnicodeBlock.of(c) != Character.UnicodeBlock.BASIC_LATIN) {			if (c < 0x10) {

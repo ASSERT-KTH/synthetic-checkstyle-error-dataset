@@ -1,0 +1,5 @@
+63,64c63
+< 		if (typeInfo instanceof CtType) {
+< 			if (typeInfo instanceof CtInterface) {
+---
+> 		if (typeInfo instanceof CtType) {			if (typeInfo instanceof CtInterface) {

@@ -1,0 +1,4 @@
+100c100
+< 		this.kind = kind;
+---
+> 		this.kind = kind ;

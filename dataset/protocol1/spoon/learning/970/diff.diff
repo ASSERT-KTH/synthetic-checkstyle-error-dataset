@@ -1,0 +1,5 @@
+32,33c32
+< 	public CtArrayRead<T> clone() {
+< 		return (CtArrayRead<T>) super.clone();
+---
+> 	public CtArrayRead<T> clone() {		return (CtArrayRead<T>) super.clone();

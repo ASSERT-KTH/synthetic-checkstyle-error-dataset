@@ -1,0 +1,5 @@
+77c77,78
+< 		for (CtStatement stmt : statements) {
+---
+> 		for (CtStatement 
+> stmt : statements) {

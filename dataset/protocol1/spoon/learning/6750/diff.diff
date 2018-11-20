@@ -1,0 +1,5 @@
+19,20c19
+< import org.apache.log4j.Level;
+< import spoon.Launcher;
+---
+> import org.apache.log4j.Level;import spoon.Launcher;

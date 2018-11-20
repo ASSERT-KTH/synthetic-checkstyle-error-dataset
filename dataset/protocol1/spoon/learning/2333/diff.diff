@@ -1,0 +1,4 @@
+32c32
+< 		addAll(elements);
+---
+> 		 addAll(elements);

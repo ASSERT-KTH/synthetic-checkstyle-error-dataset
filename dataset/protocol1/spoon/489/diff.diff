@@ -1,5 +1,0 @@
-87c87,88
-< 			final CtPackage expectedPackage = expectedPackages.get(i);
----
-> 			final CtPackage expectedPackage = expectedPackages.get(i)
-> ;

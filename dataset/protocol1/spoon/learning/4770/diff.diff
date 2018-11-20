@@ -1,0 +1,4 @@
+420c420
+< 				((CtFieldAccess<T>) va).setTarget(createThisAccess(((CtFieldReference<T>) variable).getDeclaringType()));
+---
+> 				((CtFieldAccess	<T>) va).setTarget(createThisAccess(((CtFieldReference<T>) variable).getDeclaringType()));

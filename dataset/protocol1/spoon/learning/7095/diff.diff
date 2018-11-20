@@ -1,0 +1,4 @@
+67c67
+< 		for (Iterator<Map.Entry<String, String>> iter = arguments.entrySet().iterator(); iter.hasNext();) {
+---
+> 		for (Iterator<Map.Entry<String, String>> iter = arguments.entrySet().iterator(); iter.hasNext();){

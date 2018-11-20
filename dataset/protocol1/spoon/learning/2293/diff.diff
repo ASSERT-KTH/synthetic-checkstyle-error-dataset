@@ -1,0 +1,4 @@
+37c37
+< 	public InvalidReplaceException(String msg, Throwable e) {
+---
+> 	public InvalidReplaceException(String msg,Throwable e) {

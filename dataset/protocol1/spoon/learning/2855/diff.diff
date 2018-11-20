@@ -1,0 +1,4 @@
+182c182
+< 					CollectionSourceFragment csf = (CollectionSourceFragment) fragment;
+---
+> 					CollectionSourceFragment csf= (CollectionSourceFragment) fragment;

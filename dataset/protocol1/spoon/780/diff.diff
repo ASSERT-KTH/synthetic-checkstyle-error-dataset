@@ -1,4 +1,0 @@
-152c152
-< 					Object o = Parameters.getValue(template, t.getSimpleName(), null);
----
-> 					Object o = Parameters.getValue(template, t.getSimpleName()	, null);

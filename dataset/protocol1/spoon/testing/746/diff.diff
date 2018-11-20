@@ -1,0 +1,5 @@
+219c219,220
+< 		public void onSetAdd(CtElement currentElement, CtRole role, Set field, CtElement newValue) {
+---
+> 		public void onSetAdd(CtElement currentElement, CtRole role, Set field
+> , CtElement newValue) {

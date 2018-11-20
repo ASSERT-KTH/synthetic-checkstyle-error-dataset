@@ -1,0 +1,4 @@
+96c96
+< 		launcher.getEnvironment().setNoClasspath(true);
+---
+> 		launcher.getEnvironment().setNoClasspath(true)	;

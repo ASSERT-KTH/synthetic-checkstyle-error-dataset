@@ -1,0 +1,5 @@
+21,22c21
+< import spoon.reflect.path.CtRole;
+< import spoon.reflect.reference.CtTypeReference;
+---
+> import spoon.reflect.path.CtRole;import spoon.reflect.reference.CtTypeReference;

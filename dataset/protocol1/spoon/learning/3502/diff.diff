@@ -1,0 +1,5 @@
+158c158,159
+< 				res.setValue(((Number) leftObject).doubleValue() <= ((Number) rightObject).doubleValue());
+---
+> 				res.setValue(((Number) 
+> leftObject).doubleValue() <= ((Number) rightObject).doubleValue());

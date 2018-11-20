@@ -1,0 +1,4 @@
+119c119
+< 	public final Set<Class<? extends A>> getProcessedAnnotationTypes() {
+---
+> 	public final Set<Class< ? extends A>> getProcessedAnnotationTypes() {

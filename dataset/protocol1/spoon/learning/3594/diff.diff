@@ -1,0 +1,4 @@
+200c200
+< 		return this.modifierHandler.isPublic();
+---
+> 		return this.modifierHandler.isPublic()	;

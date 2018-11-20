@@ -1,4 +1,0 @@
-44c44
-< 		assertNotNull(expected);
----
-> 		assertNotNull(expected) ;

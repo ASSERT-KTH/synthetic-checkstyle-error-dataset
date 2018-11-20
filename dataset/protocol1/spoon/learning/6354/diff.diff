@@ -1,0 +1,4 @@
+303c303
+< 			List<RtMethod> methods = getDeclaredMethods(annotation.annotationType());
+---
+> 			List<RtMethod> methods = getDeclaredMethods( annotation.annotationType());

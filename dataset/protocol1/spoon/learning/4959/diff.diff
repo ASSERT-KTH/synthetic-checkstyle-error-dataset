@@ -1,0 +1,4 @@
+144c144
+< 		if (forUpdate == CtElementImpl.<CtStatement>emptyList()) {
+---
+> 		if (forUpdate ==CtElementImpl.<CtStatement>emptyList()) {

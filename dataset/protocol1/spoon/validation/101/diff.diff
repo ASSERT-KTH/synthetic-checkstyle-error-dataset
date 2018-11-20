@@ -1,0 +1,5 @@
+361c361,362
+< 		CtNewArray<?> arrayExpression = (CtNewArray<?>) value;
+---
+> 		CtNewArray<?> arrayExpression = (CtNewArray<?>) value
+> ;

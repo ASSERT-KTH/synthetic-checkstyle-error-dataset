@@ -1,0 +1,5 @@
+174,175c174
+< 	public void extract(File destDir) {
+< 		try (ZipInputStream zipInput = new ZipInputStream(new BufferedInputStream(new FileInputStream(file)))) {
+---
+> 	public void extract(File destDir) {		try (ZipInputStream zipInput = new ZipInputStream(new BufferedInputStream(new FileInputStream(file)))) {

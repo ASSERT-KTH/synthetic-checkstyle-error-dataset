@@ -1,0 +1,4 @@
+42c42
+< 		return this.name().toLowerCase(Locale.US).replaceAll("_", "");
+---
+> 		return this.name().toLowerCase(Locale.US ).replaceAll("_", "");

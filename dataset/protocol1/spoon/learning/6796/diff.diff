@@ -1,0 +1,4 @@
+58c58
+< 	protected void searchForPrivateField(CtField<?> field, CtConsumer<Object> outputConsumer) {
+---
+> 	protected void searchForPrivateField(CtField<?> field, CtConsumer	<Object> outputConsumer) {

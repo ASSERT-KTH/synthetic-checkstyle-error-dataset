@@ -1,0 +1,4 @@
+65c65
+< 	<C extends CtType<Object>> C setFields(List<CtField<?>> fields);
+---
+> 	<C extends CtType<Object>>C setFields(List<CtField<?>> fields);

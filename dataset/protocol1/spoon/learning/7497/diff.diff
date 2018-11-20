@@ -1,0 +1,4 @@
+43c43
+< 	protected ModelSet<CtPackage> packs = new ModelSet<CtPackage>(QualifiedNameComparator.INSTANCE) {
+---
+> 	protected ModelSet<CtPackage> packs = new ModelSet<CtPackage>(QualifiedNameComparator.INSTANCE	) {

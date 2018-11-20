@@ -1,0 +1,4 @@
+67c67
+< 				if (param != null && !"null".equals(param.getSimpleName())) {
+---
+> 				if (param != null && ! "null".equals(param.getSimpleName())) {

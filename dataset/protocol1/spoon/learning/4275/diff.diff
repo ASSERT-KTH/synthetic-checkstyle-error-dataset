@@ -1,0 +1,4 @@
+45c45
+< 	public Collection<T> getElements(Collection<P> roots) {
+---
+> 	public Collection<T> getElements(Collection<P > roots) {

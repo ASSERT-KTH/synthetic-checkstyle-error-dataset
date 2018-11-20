@@ -1,0 +1,4 @@
+192c192
+< 	<N> boolean removeNestedType(CtType<N> nestedType);
+---
+> 	<N> boolean removeNestedType(CtType<N > nestedType);

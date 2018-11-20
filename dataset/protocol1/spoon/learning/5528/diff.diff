@@ -1,0 +1,4 @@
+26c26
+< 	NORMAL(true, true),
+---
+> 	 NORMAL(true, true),

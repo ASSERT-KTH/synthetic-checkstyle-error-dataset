@@ -1,0 +1,4 @@
+590c590
+< 	public <T> void visitCtEnumValue(CtEnumValue<T> enumValue) {
+---
+> 	public <T>void visitCtEnumValue(CtEnumValue<T> enumValue) {

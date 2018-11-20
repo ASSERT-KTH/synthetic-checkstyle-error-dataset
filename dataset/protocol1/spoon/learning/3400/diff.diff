@@ -1,0 +1,5 @@
+161c161,162
+< 		Factory f = templateType.getFactory();
+---
+> 		Factory f 
+> = templateType.getFactory();

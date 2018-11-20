@@ -1,0 +1,4 @@
+30c30
+< 	@MetamodelPropertyField(role = CtRole.SERVICE_TYPE)
+---
+> 	@MetamodelPropertyField(role =CtRole.SERVICE_TYPE)

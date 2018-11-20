@@ -1,0 +1,5 @@
+26,27c26
+< import spoon.compiler.builder.JDTBuilder;
+< import spoon.reflect.cu.CompilationUnit;
+---
+> import spoon.compiler.builder.JDTBuilder;import spoon.reflect.cu.CompilationUnit;

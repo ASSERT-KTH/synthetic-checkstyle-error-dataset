@@ -1,0 +1,4 @@
+77c77
+< 	protected boolean isJavaIdentifier(String name) {
+---
+> 	protected boolean isJavaIdentifier (String name) {

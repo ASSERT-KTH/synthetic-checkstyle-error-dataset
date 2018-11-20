@@ -1,0 +1,4 @@
+46c46
+< 		if (requiresModifiers == null || requiresModifiers.isEmpty()) {
+---
+> 		if (requiresModifiers == null|| requiresModifiers.isEmpty()) {

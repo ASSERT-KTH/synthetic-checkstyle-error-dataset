@@ -1,0 +1,5 @@
+69c69,70
+< 	public void setPosition(SourcePosition position) {
+---
+> 	public void 
+> setPosition(SourcePosition position) {

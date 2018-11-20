@@ -1,0 +1,5 @@
+94c94,95
+< 				+ "\t\t" + this.content + System.lineSeparator();
+---
+> 				+ 
+> "\t\t" + this.content + System.lineSeparator();

@@ -1,0 +1,4 @@
+109c109
+< 	@PropertyGetter(role = NESTED_TYPE)
+---
+> 	@PropertyGetter(role =NESTED_TYPE)

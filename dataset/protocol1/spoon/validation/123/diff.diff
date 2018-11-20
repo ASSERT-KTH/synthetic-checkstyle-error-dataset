@@ -1,0 +1,4 @@
+57c57
+< 	CtLocalVariableReference<T> getReference();
+---
+> 	CtLocalVariableReference<T> getReference()	;

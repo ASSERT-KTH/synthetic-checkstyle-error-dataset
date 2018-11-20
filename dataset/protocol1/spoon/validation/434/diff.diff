@@ -1,0 +1,4 @@
+136c136
+< 		propagateModelChange(new DeleteAllAction(new SetContext(currentElement, role, field), oldValue));
+---
+> 		propagateModelChange(new DeleteAllAction(new SetContext(currentElement,role, field), oldValue));

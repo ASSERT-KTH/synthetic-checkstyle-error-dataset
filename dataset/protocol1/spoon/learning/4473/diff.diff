@@ -1,0 +1,4 @@
+27c27
+< class CompilationUnitWrapper extends CompilationUnit {
+---
+> class CompilationUnitWrapper extends CompilationUnit{

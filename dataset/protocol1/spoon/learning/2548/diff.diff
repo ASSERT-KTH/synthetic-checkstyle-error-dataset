@@ -1,0 +1,5 @@
+96c96,97
+< 		final TypeReferenceRuntimeBuilderContext that = (TypeReferenceRuntimeBuilderContext) o;
+---
+> 		final TypeReferenceRuntimeBuilderContext that = (TypeReferenceRuntimeBuilderContext) 
+> o;

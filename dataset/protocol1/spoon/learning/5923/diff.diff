@@ -1,0 +1,4 @@
+86c86
+< 	<T, U> Map<String, U> asMap(T element);
+---
+> 	<T, U> Map<String, U> asMap(	T element);

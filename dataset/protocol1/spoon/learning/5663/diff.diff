@@ -1,0 +1,5 @@
+142,143c142
+< 							return handlePositionProblem("Cannot found beginning of cast expression until offset: " + getParentsSourceStart());
+< 						}
+---
+> 							return handlePositionProblem("Cannot found beginning of cast expression until offset: " + getParentsSourceStart());						}

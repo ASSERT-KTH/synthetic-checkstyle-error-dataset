@@ -1,0 +1,4 @@
+66c66
+< 			for (CtTypeReference<?> param : reference.getParameters()) {
+---
+> 			for(CtTypeReference<?> param : reference.getParameters()) {

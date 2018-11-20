@@ -1,0 +1,4 @@
+31c31
+< import java.lang.reflect.GenericDeclaration;
+---
+> import java.lang.reflect.	GenericDeclaration;

@@ -1,0 +1,4 @@
+224c224
+< 		PrinterHelper printer = new PrinterHelper(getFactory().getEnvironment());
+---
+> 		PrinterHelper printer =new PrinterHelper(getFactory().getEnvironment());

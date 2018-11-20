@@ -1,0 +1,5 @@
+29,30c29
+< 	public InvalidReplaceException(String msg) {
+< 		super(msg);
+---
+> 	public InvalidReplaceException(String msg) {		super(msg);

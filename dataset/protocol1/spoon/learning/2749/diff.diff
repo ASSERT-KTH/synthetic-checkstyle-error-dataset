@@ -1,0 +1,5 @@
+127c127,128
+< 	void removeStatement(CtStatement statement);
+---
+> 	void 
+> removeStatement(CtStatement statement);

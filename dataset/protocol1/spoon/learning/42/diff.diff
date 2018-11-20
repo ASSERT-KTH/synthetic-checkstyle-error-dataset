@@ -1,0 +1,4 @@
+844c844
+< 			child.setPosition(jdtTreeBuilder.getPositionBuilder().buildPosition((CtCase<E>) child));
+---
+> 			child.setPosition(jdtTreeBuilder.getPositionBuilder(). buildPosition((CtCase<E>) child));

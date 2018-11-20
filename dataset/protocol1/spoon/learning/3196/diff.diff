@@ -1,0 +1,4 @@
+41c41
+< 		this.visitChildren = visitChildren;
+---
+> 		this. visitChildren = visitChildren;

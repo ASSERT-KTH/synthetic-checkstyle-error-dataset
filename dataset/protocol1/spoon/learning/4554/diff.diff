@@ -1,0 +1,4 @@
+77c77
+< 		if (template != null && templateType.getQualifiedName().equals(template.getClass().getName()) == false) {
+---
+> 		if (template != null && templateType.getQualifiedName().equals	(template.getClass().getName()) == false) {

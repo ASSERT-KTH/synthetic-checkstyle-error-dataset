@@ -1,0 +1,5 @@
+1494c1494,1495
+< 		public <T, U> U getValue(T element) {
+---
+> 		public <T, 
+> U> U getValue(T element) {

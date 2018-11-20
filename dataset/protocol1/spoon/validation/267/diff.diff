@@ -1,0 +1,4 @@
+92c92
+< 	@PropertySetter(role = CtRole.IS_STATIC)
+---
+> 	 @PropertySetter(role = CtRole.IS_STATIC)

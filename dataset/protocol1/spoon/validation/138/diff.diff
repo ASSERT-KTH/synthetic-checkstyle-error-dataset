@@ -1,0 +1,4 @@
+53c53
+< 	void visitAnnotation(Annotation annotation);
+---
+> 	void visitAnnotation(Annotation annotation	);

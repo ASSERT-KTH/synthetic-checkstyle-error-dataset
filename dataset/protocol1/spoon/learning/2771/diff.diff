@@ -1,0 +1,5 @@
+545,546c545
+< 		if (Modifier.isSynchronized(modifiers)) {
+< 			ctModifiable.addModifier(ModifierKind.SYNCHRONIZED);
+---
+> 		if (Modifier.isSynchronized(modifiers)) {			ctModifiable.addModifier(ModifierKind.SYNCHRONIZED);

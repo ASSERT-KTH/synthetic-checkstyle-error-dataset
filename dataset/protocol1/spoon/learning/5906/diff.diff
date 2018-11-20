@@ -1,0 +1,5 @@
+60c60,61
+< 			scope = field.getFactory().getModel().getUnnamedModule();
+---
+> 			scope 
+> = field.getFactory().getModel().getUnnamedModule();

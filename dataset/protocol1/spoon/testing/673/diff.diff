@@ -1,0 +1,4 @@
+150c150
+< 	public <T extends CtModel> T setBuildModelIsFinished(boolean buildModelFinished) {
+---
+> 	public <T extends CtModel>T setBuildModelIsFinished(boolean buildModelFinished) {

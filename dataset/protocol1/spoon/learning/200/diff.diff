@@ -1,0 +1,5 @@
+47c47,48
+< 		CtStatement patternModel = c.getMethod("statement").getBody().getStatements().get(0);
+---
+> 		CtStatement patternModel = c.getMethod
+> ("statement").getBody().getStatements().get(0);

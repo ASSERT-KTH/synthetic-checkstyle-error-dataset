@@ -1,0 +1,5 @@
+80c80,81
+< 	private final List<CtElement> patternModel;
+---
+> 	private final List<CtElement> patternModel
+> ;

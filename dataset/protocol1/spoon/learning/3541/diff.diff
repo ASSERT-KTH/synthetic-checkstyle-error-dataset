@@ -1,0 +1,5 @@
+36,37c36
+< 	protected AnnotatedElement getActualAnnotatedElement() {
+< 		return null;
+---
+> 	protected AnnotatedElement getActualAnnotatedElement() {		return null;

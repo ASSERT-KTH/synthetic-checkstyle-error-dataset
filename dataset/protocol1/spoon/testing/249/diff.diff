@@ -1,0 +1,4 @@
+679c679
+< 		spoon.reflect.code.CtTry other = ((spoon.reflect.code.CtTry) (this.stack.peek()));
+---
+> 		spoon.reflect.code.CtTry other =((spoon.reflect.code.CtTry) (this.stack.peek()));

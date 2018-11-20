@@ -1,0 +1,5 @@
+17c17,18
+< package spoon.support.sniper.internal;
+---
+> package spoon.support.sniper.internal
+> ;

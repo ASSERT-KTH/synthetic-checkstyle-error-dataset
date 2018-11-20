@@ -1,0 +1,4 @@
+32c32
+< 		ev.checkEquals(ct1, ct2);
+---
+> 		 ev.checkEquals(ct1, ct2);

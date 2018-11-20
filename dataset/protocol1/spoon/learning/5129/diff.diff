@@ -1,0 +1,5 @@
+370,371c370
+< 	protected ContainerKind getContainerKind(Object existingValue, Object value) {
+< 		if (containerKind != null) {
+---
+> 	protected ContainerKind getContainerKind(Object existingValue, Object value) {		if (containerKind != null) {

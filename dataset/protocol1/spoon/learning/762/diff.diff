@@ -1,0 +1,5 @@
+277c277,278
+< 	void setNoClasspath(boolean option);
+---
+> 	void setNoClasspath(boolean option)
+> ;

@@ -1,0 +1,4 @@
+51c51
+< 	void addTypeReference(CtRole role, CtTypeReference<?> ctTypeReference);
+---
+> 	void addTypeReference(CtRole role,CtTypeReference<?> ctTypeReference);

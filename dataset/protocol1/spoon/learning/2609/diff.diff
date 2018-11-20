@@ -1,0 +1,5 @@
+59,60c59
+< 	Pattern(Factory factory, ListOfNodes modelValueResolver) {
+< 		this.modelValueResolver = modelValueResolver;
+---
+> 	Pattern(Factory factory, ListOfNodes modelValueResolver) {		this.modelValueResolver = modelValueResolver;

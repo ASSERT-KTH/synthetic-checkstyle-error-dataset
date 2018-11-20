@@ -1,0 +1,4 @@
+66c66
+< 		computer.computeValue((ResultHolder) result, inputHolder);
+---
+> 		computer.computeValue((ResultHolder) result , inputHolder);

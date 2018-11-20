@@ -1,0 +1,5 @@
+34,35c34
+< import spoon.reflect.code.CtForEach;
+< import spoon.reflect.code.CtIf;
+---
+> import spoon.reflect.code.CtForEach;import spoon.reflect.code.CtIf;

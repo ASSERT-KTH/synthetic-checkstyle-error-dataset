@@ -1,0 +1,4 @@
+28c28
+< import org.eclipse.jdt.internal.compiler.batch.CompilationUnit;
+---
+> import org.eclipse.jdt. internal.compiler.batch.CompilationUnit;

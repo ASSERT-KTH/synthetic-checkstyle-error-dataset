@@ -1,0 +1,4 @@
+145c145
+< 		modifierHandler.getVisibility();
+---
+> 		modifierHandler.getVisibility	();

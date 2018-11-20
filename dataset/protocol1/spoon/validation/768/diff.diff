@@ -1,0 +1,4 @@
+144c144
+< 		super.visitCtInterface(intrface);
+---
+> 		super.visitCtInterface( intrface);

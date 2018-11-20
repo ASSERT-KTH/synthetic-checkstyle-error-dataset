@@ -1,0 +1,5 @@
+31c31,32
+< 	<T extends CtElement> List<T> evaluateOn(CtElement... startNode);
+---
+> 	<T extends 
+> CtElement> List<T> evaluateOn(CtElement... startNode);

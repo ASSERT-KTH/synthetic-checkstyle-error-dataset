@@ -1,0 +1,4 @@
+565c565
+< 	public List<CtFieldReference<?>> getDeclaredFields() {
+---
+> 	public List<CtFieldReference<?>>getDeclaredFields() {

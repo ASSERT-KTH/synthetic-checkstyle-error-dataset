@@ -1,0 +1,4 @@
+39c39
+< 	public ImmutableMapImpl(Map<String, Object> map) {
+---
+> 	public ImmutableMapImpl(Map<String, Object> map){

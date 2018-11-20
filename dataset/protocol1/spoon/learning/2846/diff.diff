@@ -1,0 +1,4 @@
+70c70
+< 		return !KEYWORDS.contains(string) && isJavaIdentifier(string);
+---
+> 		return !KEYWORDS.contains(string) && isJavaIdentifier	(string);

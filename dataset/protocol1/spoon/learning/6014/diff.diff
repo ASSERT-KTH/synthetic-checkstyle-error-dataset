@@ -1,0 +1,5 @@
+61c61,62
+< 		if (parent instanceof CtLocalVariable) {
+---
+> 		if 
+> (parent instanceof CtLocalVariable) {

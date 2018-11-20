@@ -1,0 +1,4 @@
+53c53
+< 	protected Object addValueAs(Object container, Function<Object, Object> merger) {
+---
+> 	protected Object addValueAs(Object container, Function<Object,Object> merger) {

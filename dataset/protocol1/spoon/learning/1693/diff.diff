@@ -1,0 +1,5 @@
+20,21c20
+< import spoon.reflect.annotations.PropertySetter;
+< import spoon.reflect.path.CtRole;
+---
+> import spoon.reflect.annotations.PropertySetter;import spoon.reflect.path.CtRole;

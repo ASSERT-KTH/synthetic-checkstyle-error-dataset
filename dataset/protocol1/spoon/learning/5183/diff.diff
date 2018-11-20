@@ -1,0 +1,4 @@
+803c803
+< 							FileUtils.copyFileToDirectory((File) resource, new File(targetDirectory));
+---
+> 							 FileUtils.copyFileToDirectory((File) resource, new File(targetDirectory));

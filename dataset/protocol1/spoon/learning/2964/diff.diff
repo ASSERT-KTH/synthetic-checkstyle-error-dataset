@@ -1,0 +1,4 @@
+135c135
+< 					if (sendToOutput(ctCatch.getParameter(), outputConsumer)) {
+---
+> 					if (sendToOutput(ctCatch.getParameter	(), outputConsumer)) {

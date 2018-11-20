@@ -1,0 +1,4 @@
+58c58
+< 	CtIntersectionTypeReference<T> clone();
+---
+> 	CtIntersectionTypeReference<	T> clone();

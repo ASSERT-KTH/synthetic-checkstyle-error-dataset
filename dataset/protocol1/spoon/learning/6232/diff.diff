@@ -1,0 +1,5 @@
+53c53,54
+< 	public static final int FOR_INIT_STATEMENTS_CONTAINER_DEFAULT_CAPACITY = 1;
+---
+> 	public static final 
+> int FOR_INIT_STATEMENTS_CONTAINER_DEFAULT_CAPACITY = 1;

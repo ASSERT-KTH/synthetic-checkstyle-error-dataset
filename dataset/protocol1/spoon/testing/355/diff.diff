@@ -1,0 +1,4 @@
+591c591
+< 		biScan(spoon.reflect.path.CtRole.ANNOTATION, ctPackage.getAnnotations(), other.getAnnotations());
+---
+> 		biScan(spoon.reflect.path.CtRole.ANNOTATION, ctPackage.getAnnotations(),other.getAnnotations());

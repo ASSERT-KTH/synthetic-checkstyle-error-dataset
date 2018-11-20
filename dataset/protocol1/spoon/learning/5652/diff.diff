@@ -1,0 +1,4 @@
+349c349
+< 				va.setTarget(jdtTreeBuilder.getFactory().Code().createTypeAccess(ref.getDeclaringType()));
+---
+> 				va.setTarget(jdtTreeBuilder. getFactory().Code().createTypeAccess(ref.getDeclaringType()));

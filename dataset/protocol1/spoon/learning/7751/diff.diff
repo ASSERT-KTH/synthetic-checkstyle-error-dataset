@@ -1,0 +1,5 @@
+24c24,25
+< public class TypeFilter<T extends CtElement> extends AbstractFilter<T> {
+---
+> public class 
+> TypeFilter<T extends CtElement> extends AbstractFilter<T> {

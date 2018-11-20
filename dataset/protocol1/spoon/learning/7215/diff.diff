@@ -1,0 +1,4 @@
+61c61
+< 	public <T extends CtWildcardReference> T setBoundingType(CtTypeReference<?> superType) {
+---
+> 	public <T extends CtWildcardReference>T setBoundingType(CtTypeReference<?> superType) {

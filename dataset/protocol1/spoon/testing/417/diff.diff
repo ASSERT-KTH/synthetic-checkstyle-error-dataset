@@ -1,0 +1,4 @@
+91c91
+< 			return type.getPosition().getCompilationUnit();
+---
+> 			return type.getPosition().getCompilationUnit	();

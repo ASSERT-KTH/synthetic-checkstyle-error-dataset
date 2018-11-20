@@ -1,0 +1,4 @@
+53c53
+< 		environment.debugMessage("End " + process + " in " + (getCurrentTimeInMillis() - stepTimer) + " ms");
+---
+> 		environment.debugMessage("End " +process + " in " + (getCurrentTimeInMillis() - stepTimer) + " ms");

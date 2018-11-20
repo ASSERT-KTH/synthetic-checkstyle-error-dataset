@@ -1,5 +1,0 @@
-17c17,18
-< package spoon.template;
----
-> package spoon.template
-> ;

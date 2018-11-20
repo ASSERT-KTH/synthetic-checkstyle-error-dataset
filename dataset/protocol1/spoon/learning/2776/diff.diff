@@ -1,0 +1,4 @@
+36c36
+< import spoon.reflect.declaration.CtTypeMember;
+---
+> import spoon.	reflect.declaration.CtTypeMember;

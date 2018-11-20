@@ -1,0 +1,4 @@
+26c26
+< import static spoon.reflect.path.CtRole.VALUE;
+---
+> import static spoon.reflect.path. CtRole.VALUE;

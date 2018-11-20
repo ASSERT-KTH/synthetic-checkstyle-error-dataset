@@ -1,0 +1,4 @@
+38c38
+< 		return sources(sources.split(File.pathSeparator));
+---
+> 		 return sources(sources.split(File.pathSeparator));

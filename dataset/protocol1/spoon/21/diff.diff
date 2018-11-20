@@ -1,5 +1,0 @@
-58c58,59
-< 		final Factory expectedFactory = build(expected);
----
-> 		final Factory expectedFactory = 
-> build(expected);

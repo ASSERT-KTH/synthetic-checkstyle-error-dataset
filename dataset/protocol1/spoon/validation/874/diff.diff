@@ -1,0 +1,4 @@
+46c46
+< 	<T extends CtWildcardReference> T setUpper(boolean upper);
+---
+> 	<T extends CtWildcardReference> T setUpper	(boolean upper);

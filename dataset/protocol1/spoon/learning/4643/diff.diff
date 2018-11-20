@@ -1,0 +1,5 @@
+116c116,117
+< 			return createReference(e.getParent(CtType.class).getReference(), lambdaMethod == null ? null : lambdaMethod.getType().clone(), executableName, refs);
+---
+> 			return createReference(e.getParent(CtType.class).getReference(), lambdaMethod == null ? null : lambdaMethod.getType().clone()
+> , executableName, refs);

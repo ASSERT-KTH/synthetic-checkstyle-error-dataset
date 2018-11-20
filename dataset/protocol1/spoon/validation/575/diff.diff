@@ -1,0 +1,5 @@
+51,52c51
+< 		if (newValue == NO_MERGE) {
+< 			return NO_MERGE;
+---
+> 		if (newValue == NO_MERGE) {			return NO_MERGE;

@@ -1,0 +1,5 @@
+333,334c333
+< 		if ((modifier & ClassFileConstants.AccSynchronized) != 0) {
+< 			modifiers.add(new CtExtendedModifier(ModifierKind.SYNCHRONIZED, implicit));
+---
+> 		if ((modifier & ClassFileConstants.AccSynchronized) != 0) {			modifiers.add(new CtExtendedModifier(ModifierKind.SYNCHRONIZED, implicit));

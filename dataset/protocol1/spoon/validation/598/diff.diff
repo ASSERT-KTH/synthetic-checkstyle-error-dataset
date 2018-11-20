@@ -1,0 +1,4 @@
+40c40
+< 		this.type = (Class<T>) type;
+---
+> 		this.type = (Class<	T>) type;

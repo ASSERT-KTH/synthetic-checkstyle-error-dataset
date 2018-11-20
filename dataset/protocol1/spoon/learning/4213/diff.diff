@@ -1,0 +1,5 @@
+240,241c240
+< 			}
+< 			last = value;
+---
+> 			}			last = value;

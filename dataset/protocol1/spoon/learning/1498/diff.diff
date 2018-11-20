@@ -1,0 +1,4 @@
+78c78
+< 			try (ZipInputStream zipInput = new ZipInputStream(new BufferedInputStream(new FileInputStream(file)));
+---
+> 			try (ZipInputStream zipInput = new ZipInputStream(	new BufferedInputStream(new FileInputStream(file)));

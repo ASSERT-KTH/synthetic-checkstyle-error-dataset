@@ -1,5 +1,0 @@
-45c45,46
-< 	public abstract R block();
----
-> 	public abstract R 
-> block();

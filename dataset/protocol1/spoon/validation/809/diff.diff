@@ -1,0 +1,4 @@
+27c27
+< 	public Options(Class<?> type) {
+---
+> 	public Options(Class<?> type){

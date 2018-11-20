@@ -1,0 +1,4 @@
+35c35
+< 		SignaturePrinter signaturePrinter2 = new SignaturePrinter();
+---
+> 		SignaturePrinter signaturePrinter2 =new SignaturePrinter();

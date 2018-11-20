@@ -1,0 +1,5 @@
+49c49,50
+< 	public boolean isTab() {
+---
+> 	public boolean 
+> isTab() {

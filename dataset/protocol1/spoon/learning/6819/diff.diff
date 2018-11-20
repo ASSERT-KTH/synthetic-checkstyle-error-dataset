@@ -1,0 +1,4 @@
+38c38
+< 	CtFieldWrite<T> clone();
+---
+> 	CtFieldWrite<T> clone()	;

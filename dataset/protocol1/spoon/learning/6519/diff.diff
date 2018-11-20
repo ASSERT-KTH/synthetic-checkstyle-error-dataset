@@ -1,0 +1,4 @@
+52c52
+< 				return ((CtModifiable) this.element).hasModifier(modifier.getKind());
+---
+> 				return ((CtModifiable) this.element).hasModifier(modifier.getKind()) ;

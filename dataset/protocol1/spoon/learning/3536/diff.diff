@@ -1,0 +1,4 @@
+36c36
+< 	public abstract <T> T getChangedValue();
+---
+> 	public abstract <T>T getChangedValue();

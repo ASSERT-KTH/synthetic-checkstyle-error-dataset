@@ -1,0 +1,4 @@
+182c182
+< 	<T extends CtAnnotation<A>> T addValue(String elementName, CtLiteral<?> value);
+---
+> 	<T extends CtAnnotation<	A>> T addValue(String elementName, CtLiteral<?> value);

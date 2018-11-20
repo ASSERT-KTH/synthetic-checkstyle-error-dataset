@@ -1,0 +1,4 @@
+192c192
+< 			return getDeclaringType().getQualifiedName() + "#" + getSimpleName();
+---
+> 			return getDeclaringType().getQualifiedName() + "#" + getSimpleName ();

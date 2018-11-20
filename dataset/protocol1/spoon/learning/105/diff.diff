@@ -1,0 +1,4 @@
+97c97
+< 			this.value = value;
+---
+> 			this.value= value;

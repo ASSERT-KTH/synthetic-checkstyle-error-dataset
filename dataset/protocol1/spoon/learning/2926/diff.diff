@@ -1,0 +1,4 @@
+178c178
+< 		return (C) this;
+---
+> 		return (C)this;

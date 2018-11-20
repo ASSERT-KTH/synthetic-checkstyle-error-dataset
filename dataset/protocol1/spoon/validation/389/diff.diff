@@ -1,0 +1,4 @@
+33c33
+< 	<C extends CtReference> C setSimpleName(String simpleName);
+---
+> 	<C extends CtReference>C setSimpleName(String simpleName);

@@ -1,0 +1,4 @@
+45c45
+< 		if (this.value instanceof CtElement) {
+---
+> 		if(this.value instanceof CtElement) {

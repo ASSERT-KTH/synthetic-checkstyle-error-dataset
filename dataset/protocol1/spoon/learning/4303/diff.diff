@@ -1,0 +1,5 @@
+56,57c56
+< import org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding;
+< import org.eclipse.jdt.internal.compiler.lookup.ProblemBinding;
+---
+> import org.eclipse.jdt.internal.compiler.lookup.PolyTypeBinding;import org.eclipse.jdt.internal.compiler.lookup.ProblemBinding;

@@ -1,0 +1,4 @@
+102c102
+< 		if (this.formalCtTypeParameters == CtElementImpl.<CtTypeParameter>emptyList()) {
+---
+> 		if (this.formalCtTypeParameters== CtElementImpl.<CtTypeParameter>emptyList()) {

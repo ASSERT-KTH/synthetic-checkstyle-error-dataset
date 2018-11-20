@@ -1,0 +1,5 @@
+85c85,86
+< 	protected Path getModulePath(CtModule module) {
+---
+> 	protected Path getModulePath(CtModule 
+> module) {

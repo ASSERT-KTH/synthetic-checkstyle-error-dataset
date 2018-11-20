@@ -1,0 +1,5 @@
+147c147,148
+< 		getFactory().getEnvironment().getModelChangeListener().onListDelete(this, FOR_UPDATE, forUpdate, forUpdate.indexOf(statement), statement);
+---
+> 		getFactory().getEnvironment().getModelChangeListener().onListDelete(this, 
+> FOR_UPDATE, forUpdate, forUpdate.indexOf(statement), statement);

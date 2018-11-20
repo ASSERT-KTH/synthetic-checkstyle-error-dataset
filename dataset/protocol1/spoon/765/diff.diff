@@ -1,4 +1,0 @@
-60c60
-< 		public Map<File, Set<File>> inputSourcesMap;
----
-> 		public Map<File, Set<File>>inputSourcesMap;

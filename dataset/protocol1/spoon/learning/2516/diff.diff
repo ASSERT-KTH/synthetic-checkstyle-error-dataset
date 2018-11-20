@@ -1,0 +1,5 @@
+301c301,302
+< 	<T> CtInvocation<T> createInvocation();
+---
+> 	<T> CtInvocation<T> createInvocation()
+> ;

@@ -1,0 +1,4 @@
+106c106
+< 							compilationUnit.module = CharOperation.subarray(modulePath, lastSlash, modulePath.length);
+---
+> 							compilationUnit.module = CharOperation.subarray(modulePath, lastSlash,modulePath.length);

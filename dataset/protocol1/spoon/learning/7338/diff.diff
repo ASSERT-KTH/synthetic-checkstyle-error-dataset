@@ -1,0 +1,4 @@
+30c30
+< public interface CtAssert<T> extends CtStatement {
+---
+> public interface CtAssert< T> extends CtStatement {

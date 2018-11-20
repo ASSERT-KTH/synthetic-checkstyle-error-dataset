@@ -1,0 +1,4 @@
+67c67
+< 			throw new SpoonException("Unable to instantiate processor \"" + type.getName() + "\" - Your processor should have a constructor with no arguments", e);
+---
+> 			throw new SpoonException("Unable to instantiate processor \""+ type.getName() + "\" - Your processor should have a constructor with no arguments", e);

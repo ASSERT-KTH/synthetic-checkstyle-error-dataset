@@ -1,0 +1,5 @@
+116,117c116
+< 	public static CtField<?> getParameterField(CtClass<? extends Template<?>> templateClass, String parameterName) {
+< 		for (CtTypeMember typeMember : templateClass.getTypeMembers()) {
+---
+> 	public static CtField<?> getParameterField(CtClass<? extends Template<?>> templateClass, String parameterName) {		for (CtTypeMember typeMember : templateClass.getTypeMembers()) {

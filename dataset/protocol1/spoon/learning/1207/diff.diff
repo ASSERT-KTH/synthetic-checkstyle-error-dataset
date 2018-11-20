@@ -1,0 +1,5 @@
+72c72,73
+< 	<T extends CtModel> T setBuildModelIsFinished(boolean buildModelFinished);
+---
+> 	<T extends CtModel> T setBuildModelIsFinished(boolean 
+> buildModelFinished);

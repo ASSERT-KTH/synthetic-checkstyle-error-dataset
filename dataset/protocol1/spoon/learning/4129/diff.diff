@@ -1,0 +1,4 @@
+31c31
+< 	public TokenSourceFragment(String source, TokenType type) {
+---
+> 	public TokenSourceFragment(String source	, TokenType type) {

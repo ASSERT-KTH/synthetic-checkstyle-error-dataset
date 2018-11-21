@@ -1,0 +1,5 @@
+273c273,274
+<     public static String getArgLogDirectory(JSAPResult arguments) {
+---
+>     public static String getArgLogDirectory(JSAPResult 
+> arguments) {

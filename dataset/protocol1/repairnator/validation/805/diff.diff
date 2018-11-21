@@ -1,0 +1,5 @@
+29c29,30
+<                 Set<String> failingTests = failureLocation.getFailingMethods();
+---
+>                 Set<String> failingTests = 
+> failureLocation.getFailingMethods();

@@ -1,0 +1,4 @@
+22c22
+<     public static final String REMOTE_NAME = "saveFail";
+---
+>    public static final String REMOTE_NAME = "saveFail";

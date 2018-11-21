@@ -1,0 +1,4 @@
+74c74
+<             text += "git push [url to the fork]\n";
+---
+>            text += "git push [url to the fork]\n";

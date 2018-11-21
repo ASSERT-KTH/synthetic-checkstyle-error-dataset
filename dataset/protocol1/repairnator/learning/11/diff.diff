@@ -1,0 +1,4 @@
+96c96
+<                 boolean refreshStatus = RepairnatorConfig.getInstance().getJTravis().refresh(build);
+---
+>                 boolean refreshStatus = RepairnatorConfig.getInstance().getJTravis	().refresh(build);

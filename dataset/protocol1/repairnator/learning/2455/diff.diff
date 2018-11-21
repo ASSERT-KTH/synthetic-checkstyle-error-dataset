@@ -1,0 +1,4 @@
+52c52
+<         return Objects.hash(toolname, filePath, diff);
+---
+>        return Objects.hash(toolname, filePath, diff);

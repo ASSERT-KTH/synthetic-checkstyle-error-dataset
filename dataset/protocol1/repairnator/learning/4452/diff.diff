@@ -1,0 +1,4 @@
+49c49
+<             cloneRepo.setDataSerializer(this.getSerializers());
+---
+>            cloneRepo.setDataSerializer(this.getSerializers());

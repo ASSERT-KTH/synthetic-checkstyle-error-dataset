@@ -1,0 +1,4 @@
+317c317
+<         this.logger.info("PIPELINE EXECUTION SUMMARY");
+---
+>          this.logger.info("PIPELINE EXECUTION SUMMARY");

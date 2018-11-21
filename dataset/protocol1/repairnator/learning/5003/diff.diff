@@ -1,0 +1,4 @@
+79c79
+<     public void setNumberLines(int numberLines) {
+---
+>     public void 	setNumberLines(int numberLines) {

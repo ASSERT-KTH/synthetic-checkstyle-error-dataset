@@ -1,0 +1,4 @@
+36c36
+<             File targetDir = new File(this.getInspector().getRepoToPushLocalPath());
+---
+>             File targetDir = new File(this.getInspector(	).getRepoToPushLocalPath());

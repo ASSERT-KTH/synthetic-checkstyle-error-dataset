@@ -1,0 +1,4 @@
+22c22
+<         super.setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD);
+---
+>        super.setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD);

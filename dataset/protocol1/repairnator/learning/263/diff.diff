@@ -1,0 +1,4 @@
+169c169
+<         this.config.setSmtpUsername(LauncherUtils.getArgSmtpUsername(arguments));
+---
+>         this.config.setSmtpUsername(LauncherUtils.getArgSmtpUsername(	arguments));

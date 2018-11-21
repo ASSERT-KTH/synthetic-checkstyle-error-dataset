@@ -1,0 +1,5 @@
+74c74,75
+<         result.addProperty("totalPRBuilds", this.scanner.getTotalPRBuilds());
+---
+>         result.addProperty
+> ("totalPRBuilds", this.scanner.getTotalPRBuilds());

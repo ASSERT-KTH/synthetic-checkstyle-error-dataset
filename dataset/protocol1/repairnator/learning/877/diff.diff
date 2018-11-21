@@ -1,0 +1,4 @@
+15c15
+<     public AbstractNotifier(List<NotifierEngine> engines) {
+---
+>    public AbstractNotifier(List<NotifierEngine> engines) {

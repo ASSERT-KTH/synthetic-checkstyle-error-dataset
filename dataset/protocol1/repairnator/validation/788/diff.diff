@@ -1,0 +1,4 @@
+91c91
+<                 for (BuildToBeInspected buildToBeInspected : this.buildsToBeInspected.get(status)) {
+---
+>                for (BuildToBeInspected buildToBeInspected : this.buildsToBeInspected.get(status)) {

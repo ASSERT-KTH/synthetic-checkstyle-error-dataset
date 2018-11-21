@@ -1,0 +1,5 @@
+252c252,253
+<             ScannerDetailedDataSerializer scannerDetailedDataSerializer = new ScannerDetailedDataSerializer(this.engines, buildsToBeInspected);
+---
+>             ScannerDetailedDataSerializer scannerDetailedDataSerializer = new ScannerDetailedDataSerializer
+> (this.engines, buildsToBeInspected);

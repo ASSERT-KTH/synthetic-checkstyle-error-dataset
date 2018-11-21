@@ -1,0 +1,4 @@
+13c13
+<     public StepStatus shouldBeStopped(GatherTestInformation gatherTestInformation) {
+---
+>     public StepStatus shouldBeStopped(GatherTestInformation 	gatherTestInformation) {

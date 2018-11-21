@@ -1,0 +1,4 @@
+252c252
+<             RevCommit revCommitBase = revwalk.lookupCommit(git.getRepository().resolve(commitBaseSha));
+---
+>            RevCommit revCommitBase = revwalk.lookupCommit(git.getRepository().resolve(commitBaseSha));

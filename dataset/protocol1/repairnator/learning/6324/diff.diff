@@ -1,0 +1,5 @@
+113c113,114
+<     public Properties getProperties() {
+---
+>     
+> public Properties getProperties() {

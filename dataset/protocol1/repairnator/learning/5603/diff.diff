@@ -1,0 +1,4 @@
+120c120
+<                 List<String> newLines = new ArrayList<>();
+---
+>                 List<String> newLines = new ArrayList	<>();

@@ -1,0 +1,4 @@
+79c79
+<         jsap.registerParameter(LauncherUtils.defineArgNotifyto());
+---
+>         jsap.registerParameter(LauncherUtils.defineArgNotifyto	());

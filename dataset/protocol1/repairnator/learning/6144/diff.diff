@@ -1,0 +1,4 @@
+370c370
+<                     if (this.getInspector() instanceof ProjectInspector4Bears) {
+---
+>                      if (this.getInspector() instanceof ProjectInspector4Bears) {

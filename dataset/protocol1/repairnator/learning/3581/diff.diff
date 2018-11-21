@@ -1,0 +1,5 @@
+56c56,57
+<             LOGGER.info("SCANNER VERSION: "+properties.getProperty("SCANNER_VERSION"));
+---
+>             LOGGER.info("SCANNER VERSION: "+
+> properties.getProperty("SCANNER_VERSION"));

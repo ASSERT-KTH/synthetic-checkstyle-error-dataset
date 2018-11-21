@@ -1,0 +1,4 @@
+40c40
+<                     listOfTestToIgnore.add(new ArrayList<>(erroringTests));
+---
+>                    listOfTestToIgnore.add(new ArrayList<>(erroringTests));

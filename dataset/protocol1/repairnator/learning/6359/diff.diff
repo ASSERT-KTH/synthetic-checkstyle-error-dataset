@@ -1,0 +1,5 @@
+32c32,33
+<         if (stepStatus.isSuccess()) {
+---
+>         if (stepStatus.isSuccess()
+> ) {

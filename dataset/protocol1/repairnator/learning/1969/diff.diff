@@ -1,0 +1,4 @@
+142c142
+<         this.properties.getTests().setFailingModule(this.failingModulePath);
+---
+>        this.properties.getTests().setFailingModule(this.failingModulePath);

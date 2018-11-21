@@ -1,0 +1,4 @@
+26c26
+<         dataAsList.add(Utils.formatCompleteDate(new Date()));
+---
+>         dataAsList.add(Utils.formatCompleteDate(new Date()))	;

@@ -1,0 +1,5 @@
+154c154,155
+<     public Map<ScannedBuildStatus, List<BuildToBeInspected>> getListOfBuildsToBeInspectedFromProjects(String path) throws IOException {
+---
+>     public Map<ScannedBuildStatus, List<BuildToBeInspected>> getListOfBuildsToBeInspectedFromProjects(String path) throws 
+> IOException {

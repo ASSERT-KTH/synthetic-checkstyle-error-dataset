@@ -1,0 +1,4 @@
+20c20
+<         if (s.contains("[ERROR]")) {
+---
+>         if (s	.contains("[ERROR]")) {

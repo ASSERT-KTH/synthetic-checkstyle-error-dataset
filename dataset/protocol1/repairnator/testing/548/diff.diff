@@ -1,0 +1,4 @@
+84c84
+<             Build build = this.getBuggyBuild();
+---
+>            Build build = this.getBuggyBuild();

@@ -1,0 +1,4 @@
+17c17
+<             return (diffFail != 0) ? diffFail : diffErr;
+---
+>             return (diffFail != 0) ? diffFail : diffErr	;

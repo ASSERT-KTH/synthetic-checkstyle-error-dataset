@@ -1,0 +1,4 @@
+41c41
+<     public boolean getIsFork() {
+---
+>    public boolean getIsFork() {

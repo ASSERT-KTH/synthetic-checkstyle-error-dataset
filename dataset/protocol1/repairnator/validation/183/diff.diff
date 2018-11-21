@@ -1,0 +1,5 @@
+37c37,38
+<         if (!this.stepNames.contains(stepName)) {
+---
+>         if 
+> (!this.stepNames.contains(stepName)) {

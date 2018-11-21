@@ -1,0 +1,4 @@
+72c72
+<                 this.addStepError("Error while opening the local git repository, maybe it has not been initialized.", e);
+---
+>                 this.addStepError(	"Error while opening the local git repository, maybe it has not been initialized.", e);

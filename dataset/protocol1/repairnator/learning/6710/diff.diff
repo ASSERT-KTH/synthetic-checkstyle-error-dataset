@@ -1,0 +1,4 @@
+111c111
+<         calendar.set(Calendar.MILLISECOND, calendar.getMaximum(Calendar.MILLISECOND));
+---
+>         calendar.set(Calendar.MILLISECOND	, calendar.getMaximum(Calendar.MILLISECOND));

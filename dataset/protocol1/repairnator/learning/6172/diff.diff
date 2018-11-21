@@ -1,0 +1,5 @@
+36c36,37
+<         this.sha = sha;
+---
+>         this.sha = 
+> sha;

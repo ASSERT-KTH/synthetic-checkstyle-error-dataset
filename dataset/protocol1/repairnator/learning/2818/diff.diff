@@ -1,0 +1,4 @@
+40c40
+<         for (Map.Entry<String, Integer> stringIntegerEntry : durations.entrySet()) {
+---
+>         for (Map.Entry<String, 	Integer> stringIntegerEntry : durations.entrySet()) {

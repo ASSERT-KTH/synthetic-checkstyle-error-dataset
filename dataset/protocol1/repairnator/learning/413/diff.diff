@@ -1,0 +1,4 @@
+82c82
+<                         .addNextStep(new BuildProject(this, true, BuildProject.class.getSimpleName()+"PatchedBuildCandidate"))
+---
+>                         .addNextStep(new BuildProject(this, true, BuildProject.class	.getSimpleName()+"PatchedBuildCandidate"))

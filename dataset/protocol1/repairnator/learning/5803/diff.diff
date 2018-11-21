@@ -1,0 +1,4 @@
+37c37
+<         outputFile = new File(outputFile.getPath() + File.separator + filename);
+---
+>        outputFile = new File(outputFile.getPath() + File.separator + filename);

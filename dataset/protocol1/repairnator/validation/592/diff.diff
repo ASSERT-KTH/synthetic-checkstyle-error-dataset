@@ -1,0 +1,4 @@
+24c24
+<             List<FailureLocation> failureLocationList = new ArrayList<>(this.getInspector().getJobStatus().getFailureLocations());
+---
+>              List<FailureLocation> failureLocationList = new ArrayList<>(this.getInspector().getJobStatus().getFailureLocations());

@@ -1,0 +1,4 @@
+45c45
+<             this.reproductionDateBeginning = step.getDateBegin();
+---
+>             this.reproductionDateBeginning = step.getDateBegin	();

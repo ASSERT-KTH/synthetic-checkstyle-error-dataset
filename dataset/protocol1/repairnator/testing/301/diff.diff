@@ -1,0 +1,4 @@
+176c176
+<         return this.buildToBeInspected.getBuggyBuild();
+---
+>          return this.buildToBeInspected.getBuggyBuild();

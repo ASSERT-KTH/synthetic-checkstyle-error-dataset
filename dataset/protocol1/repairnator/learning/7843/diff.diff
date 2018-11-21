@@ -1,0 +1,5 @@
+48c48,49
+<                 logger.error("Error while inserting all documents", e);
+---
+>                 logger.error
+> ("Error while inserting all documents", e);

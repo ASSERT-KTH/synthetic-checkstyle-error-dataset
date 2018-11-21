@@ -1,0 +1,4 @@
+225c225
+<                     .addNextStep(new CommitPatch(this, CommitType.COMMIT_HUMAN_PATCH));
+---
+>                     .addNextStep(new CommitPatch(this, CommitType.COMMIT_HUMAN_PATCH)	);

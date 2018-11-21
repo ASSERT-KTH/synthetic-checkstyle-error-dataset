@@ -1,0 +1,4 @@
+357c357
+<         this.logger.info("PIPELINE FINDING: "+finding);
+---
+>        this.logger.info("PIPELINE FINDING: "+finding);

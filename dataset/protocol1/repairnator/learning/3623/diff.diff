@@ -1,0 +1,5 @@
+121c121,122
+<             HostConfig hostConfig = HostConfig.builder().appendBinds(this.logDirectory+":/var/log").build();
+---
+>             HostConfig hostConfig = HostConfig.
+> builder().appendBinds(this.logDirectory+":/var/log").build();

@@ -1,0 +1,4 @@
+325c325
+<                         TestsInformation testInfo = jobLog.getTestsInformation();
+---
+>                        TestsInformation testInfo = jobLog.getTestsInformation();

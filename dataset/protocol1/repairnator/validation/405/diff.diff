@@ -1,0 +1,4 @@
+145c145
+<         this.config.setSmtpPort(LauncherUtils.getArgSmtpPort(arguments));
+---
+>        this.config.setSmtpPort(LauncherUtils.getArgSmtpPort(arguments));

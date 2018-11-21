@@ -1,0 +1,4 @@
+68c68
+<         result.addProperty("totalRepoUsingTravis", this.scanner.getTotalRepoUsingTravis());
+---
+>         result	.addProperty("totalRepoUsingTravis", this.scanner.getTotalRepoUsingTravis());

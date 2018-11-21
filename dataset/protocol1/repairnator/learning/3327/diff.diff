@@ -1,0 +1,5 @@
+121,122c121
+<             timeout = MIN_TIMEOUT;
+<         }
+---
+>             timeout = MIN_TIMEOUT;        }

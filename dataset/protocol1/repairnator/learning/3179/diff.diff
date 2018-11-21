@@ -1,0 +1,4 @@
+7c7
+< import org.apache.maven.shared.invoker.Invoker;
+---
+> import org.apache.maven.shared.invoker.	Invoker;

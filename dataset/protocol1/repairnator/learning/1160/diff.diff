@@ -1,0 +1,5 @@
+269c269,270
+<         if (this.config.getOutputPath() != null && !this.config.getOutputPath().isEmpty()) {
+---
+>         
+> if (this.config.getOutputPath() != null && !this.config.getOutputPath().isEmpty()) {

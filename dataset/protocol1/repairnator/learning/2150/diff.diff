@@ -1,0 +1,4 @@
+43c43
+<     private void setConfigurationFromProperties(Properties properties, RepairnatorConfig config) throws RepairnatorConfigException {
+---
+>     private void setConfigurationFromProperties(Properties properties, RepairnatorConfig config	) throws RepairnatorConfigException {

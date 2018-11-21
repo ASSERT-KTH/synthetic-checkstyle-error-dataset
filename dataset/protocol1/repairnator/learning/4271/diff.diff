@@ -1,0 +1,4 @@
+10c10
+<         this.name = "";
+---
+>         this.name = ""	;

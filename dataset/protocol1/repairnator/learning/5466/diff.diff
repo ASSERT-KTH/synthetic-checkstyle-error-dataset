@@ -1,0 +1,4 @@
+37c37
+<                 this.getLogger().info("No commit has been done, so the end of the process will NOT be committed. Step bypassed.");
+---
+>                  this.getLogger().info("No commit has been done, so the end of the process will NOT be committed. Step bypassed.");

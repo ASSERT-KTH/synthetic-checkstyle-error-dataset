@@ -1,0 +1,4 @@
+48c48
+<     public void setNumberErroring(int numberErroring) {
+---
+>     public void setNumberErroring(int numberErroring	) {

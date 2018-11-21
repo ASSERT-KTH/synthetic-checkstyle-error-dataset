@@ -1,0 +1,5 @@
+253c253,254
+<         this.stepStatuses.add(stepStatus);
+---
+>         
+> this.stepStatuses.add(stepStatus);

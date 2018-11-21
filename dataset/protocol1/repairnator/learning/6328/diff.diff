@@ -1,0 +1,5 @@
+58c58,59
+<         dataCol.add(Runtime.getRuntime().totalMemory());
+---
+>         dataCol.add(Runtime.getRuntime().
+> totalMemory());

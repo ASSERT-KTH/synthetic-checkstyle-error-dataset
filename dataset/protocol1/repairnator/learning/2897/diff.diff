@@ -1,0 +1,4 @@
+79c79
+<             text += "We show on the following the 10 first patches: \n\n";
+---
+>             text += 	"We show on the following the 10 first patches: \n\n";

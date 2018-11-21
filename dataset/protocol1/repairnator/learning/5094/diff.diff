@@ -1,0 +1,4 @@
+31c31
+<         BuildToBeInspected buildToBeInspected = inspector.getBuildToBeInspected();
+---
+>          BuildToBeInspected buildToBeInspected = inspector.getBuildToBeInspected();

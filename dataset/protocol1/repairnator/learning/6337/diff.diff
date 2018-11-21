@@ -1,0 +1,5 @@
+48c48,49
+<         dataCol.add(Utils.formatOnlyDay(this.beginDate));
+---
+>         dataCol.add(Utils.
+> formatOnlyDay(this.beginDate));

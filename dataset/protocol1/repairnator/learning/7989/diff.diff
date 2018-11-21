@@ -1,0 +1,4 @@
+57c57
+<         dataCol.add(Runtime.getRuntime().freeMemory());
+---
+>          dataCol.add(Runtime.getRuntime().freeMemory());

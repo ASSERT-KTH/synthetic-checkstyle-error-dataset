@@ -1,0 +1,4 @@
+127c127
+<         opt2 = new FlaggedOption("maxinspectedbuilds");
+---
+>         opt2 = new FlaggedOption	("maxinspectedbuilds");

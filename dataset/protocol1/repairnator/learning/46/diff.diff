@@ -1,0 +1,4 @@
+153c153
+<             if (!this.repairnatorConfig.isSkipDelete() && exitStatus.statusCode() == 0) {
+---
+>             if (!this.repairnatorConfig.isSkipDelete	() && exitStatus.statusCode() == 0) {

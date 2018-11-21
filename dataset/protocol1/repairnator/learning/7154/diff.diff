@@ -1,0 +1,5 @@
+100,101c100
+<                 } else {
+<                     if (!childFile.delete()) {
+---
+>                 } else {                    if (!childFile.delete()) {

@@ -1,0 +1,4 @@
+72c72
+<     public MavenHelper(String pomFile, String goal, Properties properties, String name, ProjectInspector inspector, boolean enableHandlers, boolean skipCheckstyle) {
+---
+>     public MavenHelper(String pomFile, 	String goal, Properties properties, String name, ProjectInspector inspector, boolean enableHandlers, boolean skipCheckstyle) {

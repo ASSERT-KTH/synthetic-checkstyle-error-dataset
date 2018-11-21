@@ -1,0 +1,4 @@
+36c36
+<                 .addNextStep(new CheckoutBuggyBuild(this, true))
+---
+>                 .addNextStep(new CheckoutBuggyBuild	(this, true))

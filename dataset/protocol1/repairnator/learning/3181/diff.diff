@@ -1,0 +1,5 @@
+94c94,95
+<         if (this.repairnatorConfig.getLauncherMode() == LauncherMode.REPAIR || this.repairnatorConfig.getLauncherMode() == LauncherMode.CHECKSTYLE) {
+---
+>         if (this.repairnatorConfig.getLauncherMode() == LauncherMode.REPAIR || this.
+> repairnatorConfig.getLauncherMode() == LauncherMode.CHECKSTYLE) {

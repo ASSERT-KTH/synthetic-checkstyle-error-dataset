@@ -1,0 +1,4 @@
+165c165
+<         if (this.config.isCreatePR() || (this.config.getSmtpServer() != null && !this.config.getSmtpServer().isEmpty() && this.config.getNotifyTo() != null && this.config.getNotifyTo().length > 0)) {
+---
+>         if (this.config.isCreatePR() || (this.config.getSmtpServer() != null && !this.config.getSmtpServer().isEmpty() && this.config.getNotifyTo() != null && this.config.getNotifyTo().length > 0)) 	{

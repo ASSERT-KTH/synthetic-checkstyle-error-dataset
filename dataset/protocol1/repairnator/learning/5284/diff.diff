@@ -1,0 +1,5 @@
+112c112,113
+<         this.config.setRunId(LauncherUtils.getArgRunId(arguments));
+---
+>         this.config.setRunId(LauncherUtils.getArgRunId
+> (arguments));

@@ -1,0 +1,4 @@
+57c57
+<                 this.from = new InternetAddress(smtpUsername);
+---
+>                this.from = new InternetAddress(smtpUsername);

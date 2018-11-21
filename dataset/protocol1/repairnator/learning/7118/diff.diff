@@ -1,0 +1,4 @@
+47c47
+<             config.setZ3solverPath(properties.getProperty("z3path"));
+---
+>             config.setZ3solverPath(properties.getProperty	("z3path"));

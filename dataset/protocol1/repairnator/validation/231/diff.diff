@@ -1,0 +1,5 @@
+13c13,14
+< import fr.inria.spirals.repairnator.serializer.engines.json.MongoDBSerializerEngine;
+---
+> import fr.inria
+> .spirals.repairnator.serializer.engines.json.MongoDBSerializerEngine;

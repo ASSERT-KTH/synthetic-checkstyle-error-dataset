@@ -1,0 +1,4 @@
+50c50
+<     public void addFailureDetail(FailureDetail failureDetail) {
+---
+>     public void addFailureDetail(FailureDetail failureDetail) 	{

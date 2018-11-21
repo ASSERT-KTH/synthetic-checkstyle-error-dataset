@@ -1,0 +1,4 @@
+125c125
+<     public InvocationOutputHandler getErrorHandler() {
+---
+>    public InvocationOutputHandler getErrorHandler() {

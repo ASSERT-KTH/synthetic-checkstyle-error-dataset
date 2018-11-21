@@ -1,0 +1,4 @@
+15c15
+< public abstract class Serializer {
+---
+> public 	abstract class Serializer {

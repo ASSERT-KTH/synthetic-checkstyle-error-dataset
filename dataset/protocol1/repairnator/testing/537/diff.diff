@@ -1,0 +1,5 @@
+44c44,45
+<         List<StepStatus> stepStatuses = jobStatus.getStepStatuses();
+---
+>         List
+> <StepStatus> stepStatuses = jobStatus.getStepStatuses();

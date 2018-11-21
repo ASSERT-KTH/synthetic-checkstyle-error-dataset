@@ -1,0 +1,4 @@
+38c38
+<         if (status.getFatalError() != null) {
+---
+>        if (status.getFatalError() != null) {

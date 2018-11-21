@@ -1,0 +1,4 @@
+232c232
+<                     addNextStep(new WritePropertyFile(this)).
+---
+>                     addNextStep(new WritePropertyFile(	this)).

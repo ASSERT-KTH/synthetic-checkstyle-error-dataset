@@ -1,0 +1,5 @@
+270c270,271
+<                     File pomFile = new File(dir.getPath()+File.separator+Utils.POM_FILE);
+---
+>                     File pomFile = new File(dir
+> .getPath()+File.separator+Utils.POM_FILE);

@@ -1,0 +1,4 @@
+81c81
+<     public void setNbStatements(int nbStatements) {
+---
+>     public void setNbStatements(int nbStatements	) {

@@ -1,0 +1,5 @@
+14c14,15
+<     public TestProject(ProjectInspector inspector) {
+---
+>     public TestProject(ProjectInspector 
+> inspector) {

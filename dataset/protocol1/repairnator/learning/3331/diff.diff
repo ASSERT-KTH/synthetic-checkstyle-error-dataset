@@ -1,0 +1,4 @@
+75c75
+<         result.addProperty("nbBuilds", this.nbBuilds);
+---
+>         result.addProperty("nbBuilds", 	this.nbBuilds);

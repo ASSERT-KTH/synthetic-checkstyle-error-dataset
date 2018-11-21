@@ -1,0 +1,5 @@
+35,36c35
+<     public FailingClass addFailingClass(String failingClassName) {
+<         for (FailingClass failingClass : this.failingClasses) {
+---
+>     public FailingClass addFailingClass(String failingClassName) {        for (FailingClass failingClass : this.failingClasses) {

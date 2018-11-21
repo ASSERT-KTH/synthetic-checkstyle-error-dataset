@@ -1,0 +1,5 @@
+19,20c19
+<     protected void notifyEngines(String subject, String text) {
+<         for (NotifierEngine engine : this.engines) {
+---
+>     protected void notifyEngines(String subject, String text) {        for (NotifierEngine engine : this.engines) {

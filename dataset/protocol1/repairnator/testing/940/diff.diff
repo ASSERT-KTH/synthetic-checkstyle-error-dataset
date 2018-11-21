@@ -1,0 +1,4 @@
+10c10
+<     public int getNumberAdded() {
+---
+>    public int getNumberAdded() {

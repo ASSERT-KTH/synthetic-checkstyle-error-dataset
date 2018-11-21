@@ -1,0 +1,5 @@
+132c132,133
+<             if (RepairnatorConfig.getInstance().getDuration() != null) {
+---
+>             if (RepairnatorConfig
+> .getInstance().getDuration() != null) {

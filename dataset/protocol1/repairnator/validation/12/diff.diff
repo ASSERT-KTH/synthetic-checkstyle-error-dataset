@@ -1,0 +1,4 @@
+228c228
+<         this.getConfig().setGithubUserEmail(LauncherUtils.getArgGithubUserEmail(arguments));
+---
+>         this.getConfig().setGithubUserEmail(LauncherUtils	.getArgGithubUserEmail(arguments));

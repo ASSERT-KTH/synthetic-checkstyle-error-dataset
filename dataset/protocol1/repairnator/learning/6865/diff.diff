@@ -1,0 +1,4 @@
+25c25
+<             this.addStepError("No classpath or sources directory has been given. Nopol can't be launched.");
+---
+>            this.addStepError("No classpath or sources directory has been given. Nopol can't be launched.");

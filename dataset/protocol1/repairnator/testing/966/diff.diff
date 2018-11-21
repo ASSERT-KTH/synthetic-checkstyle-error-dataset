@@ -1,0 +1,5 @@
+59c59,60
+<     public Set<Failure> getFailures() {
+---
+>     public Set<
+> Failure> getFailures() {

@@ -1,0 +1,4 @@
+44c44
+<         super.setProjectInspector(inspector);
+---
+>         super.setProjectInspector(	inspector);

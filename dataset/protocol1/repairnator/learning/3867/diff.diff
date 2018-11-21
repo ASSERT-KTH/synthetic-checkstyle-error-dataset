@@ -1,0 +1,4 @@
+24c24
+<         Build build = buildToBeInspected.getBuggyBuild();
+---
+>        Build build = buildToBeInspected.getBuggyBuild();

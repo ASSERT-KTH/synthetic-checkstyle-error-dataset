@@ -1,0 +1,5 @@
+100c100,101
+<                     this.getInspector().getJobStatus().setGitBranchUrl(this.remoteRepoUrl + "/tree/" + branchName);
+---
+>                     this.getInspector().getJobStatus().
+> setGitBranchUrl(this.remoteRepoUrl + "/tree/" + branchName);

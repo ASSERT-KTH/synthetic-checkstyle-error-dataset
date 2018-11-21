@@ -1,0 +1,5 @@
+56c56,57
+<     private Properties readPropertiesFromInputStream(InputStream stream) throws IOException {
+---
+>     
+> private Properties readPropertiesFromInputStream(InputStream stream) throws IOException {

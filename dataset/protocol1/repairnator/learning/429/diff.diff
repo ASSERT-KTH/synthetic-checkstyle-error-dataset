@@ -1,0 +1,5 @@
+17c17,18
+< public class CommitPatch extends CommitFiles {
+---
+> public class CommitPatch 
+> extends CommitFiles {

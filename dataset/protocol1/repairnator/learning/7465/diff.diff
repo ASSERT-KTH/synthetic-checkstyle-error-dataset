@@ -1,0 +1,4 @@
+6c6
+< public class AstorJKaliRepair extends AstorRepair {
+---
+> public class AstorJKaliRepair 	extends AstorRepair {

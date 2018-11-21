@@ -1,0 +1,4 @@
+33c33
+<         Date reproductionDateBeginning = inspector.getJobStatus().getProperties().getReproductionBuggyBuild().getReproductionDateBeginning();
+---
+>         Date reproductionDateBeginning = inspector.getJobStatus().getProperties(	).getReproductionBuggyBuild().getReproductionDateBeginning();

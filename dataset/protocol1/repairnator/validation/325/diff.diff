@@ -1,0 +1,4 @@
+9c9
+<     private boolean isError;
+---
+>     private boolean isError	;

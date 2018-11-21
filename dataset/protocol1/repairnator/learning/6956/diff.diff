@@ -1,0 +1,4 @@
+16c16
+<         super.consumeLine(s);
+---
+>         super.consumeLine(s)	;

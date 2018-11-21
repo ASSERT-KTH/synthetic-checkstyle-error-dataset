@@ -1,0 +1,4 @@
+50c50
+<     public StatusKind getStatus() {
+---
+>    public StatusKind getStatus() {

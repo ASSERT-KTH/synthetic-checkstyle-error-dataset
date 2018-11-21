@@ -1,0 +1,5 @@
+21c21,22
+<     private static final String FILE_EXTENSION = ".json";
+---
+>     private static final String FILE_EXTENSION 
+> = ".json";

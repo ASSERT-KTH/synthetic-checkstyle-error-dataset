@@ -1,0 +1,4 @@
+98c98
+<             LOGGER.error("Error while killing docker container "+containerId, e);
+---
+>            LOGGER.error("Error while killing docker container "+containerId, e);

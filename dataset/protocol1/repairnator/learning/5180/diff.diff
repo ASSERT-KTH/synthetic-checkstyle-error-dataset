@@ -1,0 +1,5 @@
+27c27,28
+<         super.setComputeDirType(ComputeDirType.COMPUTE_TEST_DIR);
+---
+>         super.setComputeDirType(ComputeDirType
+> .COMPUTE_TEST_DIR);

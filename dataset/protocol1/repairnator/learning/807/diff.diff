@@ -1,0 +1,5 @@
+48c48,49
+<         this.numberPlugins = numberPlugins;
+---
+>         this
+> .numberPlugins = numberPlugins;

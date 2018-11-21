@@ -1,0 +1,5 @@
+341c341,342
+<         this.inspector.getJobStatus().addFreeMemoryByStep(this.name, Runtime.getRuntime().freeMemory());
+---
+>         
+> this.inspector.getJobStatus().addFreeMemoryByStep(this.name, Runtime.getRuntime().freeMemory());

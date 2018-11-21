@@ -1,0 +1,5 @@
+263c263,264
+<             Launcher.LOGGER.info(buildsToBeInspected.size()+" builds interesting to be inspected have been found ("+scanner.getTotalScannedBuilds()+" scanned builds.)");
+---
+>             Launcher.LOGGER.
+> info(buildsToBeInspected.size()+" builds interesting to be inspected have been found ("+scanner.getTotalScannedBuilds()+" scanned builds.)");

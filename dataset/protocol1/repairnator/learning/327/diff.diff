@@ -1,0 +1,4 @@
+67c67
+<         result.addProperty("dayReproducedBuild", Utils.formatOnlyDay(date));
+---
+>        result.addProperty("dayReproducedBuild", Utils.formatOnlyDay(date));

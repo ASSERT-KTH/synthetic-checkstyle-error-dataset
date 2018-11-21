@@ -1,0 +1,5 @@
+66c66,67
+<         result.addProperty("beginDay", Utils.formatOnlyDay(this.beginDate));
+---
+>         result.addProperty(
+> "beginDay", Utils.formatOnlyDay(this.beginDate));

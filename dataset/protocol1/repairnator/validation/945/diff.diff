@@ -1,0 +1,4 @@
+64c64
+<         List<String> testList = new ArrayList<>();
+---
+>         List<String> testList = new ArrayList<>()	;

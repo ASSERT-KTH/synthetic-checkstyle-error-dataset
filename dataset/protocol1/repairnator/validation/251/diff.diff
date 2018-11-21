@@ -1,0 +1,4 @@
+126c126
+<         FlaggedOption opt = new FlaggedOption("output");
+---
+>         FlaggedOption opt 	= new FlaggedOption("output");

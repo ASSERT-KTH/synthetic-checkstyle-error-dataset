@@ -1,0 +1,4 @@
+277c277
+<         String outputPath = this.config.getOutputPath();
+---
+>        String outputPath = this.config.getOutputPath();

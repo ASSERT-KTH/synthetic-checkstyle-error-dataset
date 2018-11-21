@@ -1,0 +1,4 @@
+207c207
+<                     .addNextStep(new ComputeSourceDir(this, false, false))
+---
+>                     .addNextStep(new ComputeSourceDir(this	, false, false))

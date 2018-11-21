@@ -1,0 +1,4 @@
+64c64
+<         dataCol.add(Utils.getTravisUrl(previousBuildId, previousBuildSlug));
+---
+>         dataCol.add(Utils.getTravisUrl(previousBuildId, 	previousBuildSlug));

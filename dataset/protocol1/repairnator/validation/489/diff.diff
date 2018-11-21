@@ -1,0 +1,5 @@
+227c227,228
+<                 if (masterBuild.getLanguage() == null || !masterBuild.getLanguage().equals("java")) {
+---
+>                 if (masterBuild.getLanguage() == 
+> null || !masterBuild.getLanguage().equals("java")) {

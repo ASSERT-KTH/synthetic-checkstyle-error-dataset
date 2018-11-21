@@ -1,0 +1,5 @@
+295c295,296
+<                 if (optionalLog.isPresent()) {
+---
+>                 if (optionalLog.isPresent(
+> )) {

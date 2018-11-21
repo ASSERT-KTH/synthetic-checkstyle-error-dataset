@@ -1,0 +1,5 @@
+23c23,24
+<             this.mongoDatabase = client.getDatabase(dbName);
+---
+>             this
+> .mongoDatabase = client.getDatabase(dbName);

@@ -1,0 +1,4 @@
+10c10
+<         this.lines = new Lines();
+---
+>         this.lines = new 	Lines();

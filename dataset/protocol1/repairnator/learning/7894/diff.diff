@@ -1,0 +1,4 @@
+31c31
+<         this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberSourceFiles(numberSourceFiles);
+---
+>          this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberSourceFiles(numberSourceFiles);

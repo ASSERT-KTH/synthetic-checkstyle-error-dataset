@@ -1,0 +1,4 @@
+429c429
+<             if (!newPaths.contains(path)) {
+---
+>            if (!newPaths.contains(path)) {

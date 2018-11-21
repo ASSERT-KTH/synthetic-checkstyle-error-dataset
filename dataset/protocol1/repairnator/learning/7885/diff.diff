@@ -1,0 +1,5 @@
+22c22,23
+<                 String attributeName = method.getName().replace("get", "");
+---
+>                 String attributeName = method.getName().replace(
+> "get", "");

@@ -1,0 +1,4 @@
+64c64
+<             if (step.getInspector().getBuildToBeInspected().getStatus() == ScannedBuildStatus.ONLY_FAIL ||
+---
+>            if (step.getInspector().getBuildToBeInspected().getStatus() == ScannedBuildStatus.ONLY_FAIL ||

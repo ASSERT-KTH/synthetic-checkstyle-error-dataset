@@ -1,0 +1,4 @@
+363c363
+<                 if (file.getFileName().toLowerCase().contains("/test/") && file.getFileName().endsWith(".java")) {
+---
+>                 if (file.getFileName().toLowerCase(	).contains("/test/") && file.getFileName().endsWith(".java")) {

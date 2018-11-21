@@ -1,0 +1,4 @@
+387c387
+<     public void gitResetPaths(String commit, List<String> paths, File gitDirectory) {
+---
+>     public void 	gitResetPaths(String commit, List<String> paths, File gitDirectory) {

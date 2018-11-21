@@ -1,0 +1,4 @@
+27c27
+<     private List<Object> serializeAsList(ProjectInspector inspector) {
+---
+>     private 	List<Object> serializeAsList(ProjectInspector inspector) {

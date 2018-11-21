@@ -1,0 +1,4 @@
+33c33
+<     public void setStatus(String status) {
+---
+>    public void setStatus(String status) {

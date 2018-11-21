@@ -1,0 +1,5 @@
+35,36c35
+<             result = helper.run();
+<         } catch (InterruptedException e) {
+---
+>             result = helper.run();        } catch (InterruptedException e) {

@@ -1,0 +1,4 @@
+20c20
+<                     this.getLogger().error("The reproduction of the bug and/or the patch failed. Step bypassed.");
+---
+>                     this.getLogger().error(	"The reproduction of the bug and/or the patch failed. Step bypassed.");

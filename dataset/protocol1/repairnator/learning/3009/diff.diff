@@ -1,0 +1,5 @@
+95c95,96
+<         if (erroringMethods != null ? !erroringMethods.equals(that.erroringMethods) : that.erroringMethods != null) return false;
+---
+>         if (erroringMethods != null ? !erroringMethods.equals(that.erroringMethods) : that.erroringMethods != null) return 
+> false;

@@ -1,0 +1,5 @@
+50,51c50
+<         } else if (step instanceof AbstractRepairStep) {
+<             if (this.fixing == null) {
+---
+>         } else if (step instanceof AbstractRepairStep) {            if (this.fixing == null) {

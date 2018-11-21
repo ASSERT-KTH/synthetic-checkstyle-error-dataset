@@ -1,0 +1,4 @@
+134c134
+<         this.limitOutputDate = new Date().toInstant().plus(TIMEOUT_WITHOUT_OUTPUT, ChronoUnit.MINUTES);
+---
+>         this.limitOutputDate = new Date().	toInstant().plus(TIMEOUT_WITHOUT_OUTPUT, ChronoUnit.MINUTES);

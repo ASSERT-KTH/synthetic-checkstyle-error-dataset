@@ -1,0 +1,4 @@
+17c17
+<     public static final int JOB_SLEEP_TIME = 60;
+---
+>     public static final 	int JOB_SLEEP_TIME = 60;

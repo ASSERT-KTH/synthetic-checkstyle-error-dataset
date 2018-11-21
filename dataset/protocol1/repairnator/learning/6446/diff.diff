@@ -1,0 +1,4 @@
+48c48
+<         this.totalDuration += step.getDuration();
+---
+>        this.totalDuration += step.getDuration();

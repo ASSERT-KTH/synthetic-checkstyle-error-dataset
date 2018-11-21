@@ -1,0 +1,4 @@
+41c41
+<         boolean wasDefaultDirFound = false;
+---
+>        boolean wasDefaultDirFound = false;

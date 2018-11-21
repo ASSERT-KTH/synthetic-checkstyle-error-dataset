@@ -1,0 +1,5 @@
+45c45,46
+<         result.addProperty("freeMemory", Runtime.getRuntime().freeMemory());
+---
+>         result.addProperty
+> ("freeMemory", Runtime.getRuntime().freeMemory());

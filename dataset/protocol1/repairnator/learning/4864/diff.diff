@@ -1,0 +1,5 @@
+48c48,49
+<             this.logger.error("Error while executing goal " + this.mavenHelper.getGoal()
+---
+>             this
+> .logger.error("Error while executing goal " + this.mavenHelper.getGoal()

@@ -1,0 +1,5 @@
+57,58c57
+<                     git = Git.open(targetDir);
+<                 }
+---
+>                     git = Git.open(targetDir);                }

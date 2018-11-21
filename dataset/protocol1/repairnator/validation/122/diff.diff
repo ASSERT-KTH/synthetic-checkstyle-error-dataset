@@ -1,0 +1,4 @@
+60c60
+<         Build build = buildToBeInspected.getPatchedBuild();
+---
+>        Build build = buildToBeInspected.getPatchedBuild();

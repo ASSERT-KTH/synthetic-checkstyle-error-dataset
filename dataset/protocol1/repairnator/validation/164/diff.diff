@@ -1,0 +1,4 @@
+13c13
+<     public String getTestClass() {
+---
+>    public String getTestClass() {

@@ -1,0 +1,5 @@
+44c44,45
+<         for (Map.Entry<String, List<String>> stringListEntry : inspector.getJobStatus().getStepErrors().entrySet()) {
+---
+>         for (Map.Entry<String, List<String>> stringListEntry : inspector.getJobStatus().getStepErrors(
+> ).entrySet()) {

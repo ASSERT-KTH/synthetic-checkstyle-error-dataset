@@ -1,0 +1,4 @@
+70c70
+<         pom = new File(pom, artifactId + "-" + versionId + ".pom");
+---
+>         pom 	= new File(pom, artifactId + "-" + versionId + ".pom");

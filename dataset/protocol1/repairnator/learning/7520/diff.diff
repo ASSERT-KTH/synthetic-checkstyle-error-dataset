@@ -1,0 +1,5 @@
+51c51,52
+<     public void setDate(Date date) {
+---
+>     public void setDate
+> (Date date) {

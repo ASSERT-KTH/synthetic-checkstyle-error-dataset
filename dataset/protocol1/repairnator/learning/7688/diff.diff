@@ -1,0 +1,4 @@
+7c7
+< import com.spotify.docker.client.messages.ContainerExit;
+---
+> import com.spotify.docker.client.messages.ContainerExit	;

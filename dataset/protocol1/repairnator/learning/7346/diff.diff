@@ -1,0 +1,4 @@
+23c23
+<         this.status = NopolStatus.NOTLAUNCHED;
+---
+>         this.	status = NopolStatus.NOTLAUNCHED;

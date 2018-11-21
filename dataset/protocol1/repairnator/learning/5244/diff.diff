@@ -1,0 +1,4 @@
+59c59
+<     private List<StepStatus> stepStatuses;
+---
+>    private List<StepStatus> stepStatuses;

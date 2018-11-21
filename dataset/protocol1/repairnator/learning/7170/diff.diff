@@ -1,0 +1,5 @@
+20c20,21
+<         this.patchedBuildId = patchedBuildId;
+---
+>         this.patchedBuildId 
+> = patchedBuildId;

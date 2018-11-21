@@ -1,0 +1,5 @@
+102c102,103
+<         jsap.registerParameter(LauncherUtils.defineArgBearsMode());
+---
+>         
+> jsap.registerParameter(LauncherUtils.defineArgBearsMode());

@@ -1,0 +1,4 @@
+16c16
+<     private Map<String, AbstractRepairStep> repairTools;
+---
+>     private Map<String, 	AbstractRepairStep> repairTools;

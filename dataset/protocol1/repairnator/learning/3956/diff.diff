@@ -1,0 +1,4 @@
+41c41
+<             this.getLogger().info("Repairnator is configured NOT to push. Step bypassed.");
+---
+>              this.getLogger().info("Repairnator is configured NOT to push. Step bypassed.");

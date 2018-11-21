@@ -1,0 +1,4 @@
+177c177
+<                 String head = ghForkedRepo.getOwnerName() + ":" + branchName;
+---
+>                String head = ghForkedRepo.getOwnerName() + ":" + branchName;

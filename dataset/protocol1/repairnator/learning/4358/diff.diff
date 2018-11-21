@@ -1,0 +1,5 @@
+11c11,12
+< import org.slf4j.LoggerFactory;
+---
+> import 
+> org.slf4j.LoggerFactory;

@@ -1,0 +1,4 @@
+234c234
+<                     previousBuild = jTravis.build().getEntityFromUri(Build.class, previousBuild.getUri()).get();
+---
+>                     previousBuild = jTravis.build().getEntityFromUri(Build.class, previousBuild.getUri()).get	();

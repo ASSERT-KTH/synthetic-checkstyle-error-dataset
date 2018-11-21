@@ -1,0 +1,4 @@
+90c90
+<         this.nbAngelicValues = nbAngelicValues;
+---
+>          this.nbAngelicValues = nbAngelicValues;

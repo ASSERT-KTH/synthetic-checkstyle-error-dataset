@@ -1,0 +1,4 @@
+134c134
+<             fileStringParser.setMustBeDirectory(true).setMustExist(true);
+---
+>            fileStringParser.setMustBeDirectory(true).setMustExist(true);

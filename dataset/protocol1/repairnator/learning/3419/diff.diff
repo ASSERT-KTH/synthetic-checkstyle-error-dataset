@@ -1,0 +1,5 @@
+24,25c24
+<             this.isConnected = true;
+<         } catch (Exception e) {
+---
+>             this.isConnected = true;        } catch (Exception e) {

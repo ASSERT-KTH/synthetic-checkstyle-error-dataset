@@ -1,0 +1,4 @@
+347c347
+<         Launcher launcher = new Launcher(args);
+---
+>        Launcher launcher = new Launcher(args);

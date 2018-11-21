@@ -1,0 +1,4 @@
+54c54
+<         result = 31 * result + (isError ? 1 : 0);
+---
+>        result = 31 * result + (isError ? 1 : 0);

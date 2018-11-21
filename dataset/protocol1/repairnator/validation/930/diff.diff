@@ -1,0 +1,4 @@
+404c404
+<             System.err.println("You must set the following environment variable: "+envVariable);
+---
+>             System.	err.println("You must set the following environment variable: "+envVariable);

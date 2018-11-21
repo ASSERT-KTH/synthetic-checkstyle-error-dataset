@@ -1,0 +1,4 @@
+30c30
+<         this.projectMetrics = new ProjectMetrics();
+---
+>        this.projectMetrics = new ProjectMetrics();

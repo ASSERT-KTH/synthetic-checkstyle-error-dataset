@@ -1,0 +1,4 @@
+37c37
+<         String message = "The following error has been encountered: ";
+---
+>        String message = "The following error has been encountered: ";

@@ -1,0 +1,4 @@
+64c64
+<         for (Failure failure : this.failures) {
+---
+>         for (	Failure failure : this.failures) {

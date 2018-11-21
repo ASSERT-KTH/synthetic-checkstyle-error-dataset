@@ -1,0 +1,4 @@
+198c198
+<         Map<ScannedBuildStatus, List<BuildToBeInspected>> results = new HashMap<>();
+---
+>         Map<ScannedBuildStatus, List<BuildToBeInspected>> results = new 	HashMap<>();

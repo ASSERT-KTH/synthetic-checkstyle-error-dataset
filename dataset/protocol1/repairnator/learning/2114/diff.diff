@@ -1,0 +1,4 @@
+32c32
+<     public static final String GITHUB_USER_NAME_PATTERN = "[a-zA-Z0-9](?:[a-zA-Z0-9]|[-](?=[a-zA-Z0-9]))*";
+---
+>     public static 	final String GITHUB_USER_NAME_PATTERN = "[a-zA-Z0-9](?:[a-zA-Z0-9]|[-](?=[a-zA-Z0-9]))*";

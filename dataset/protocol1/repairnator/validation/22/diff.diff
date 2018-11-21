@@ -1,0 +1,5 @@
+56c56,57
+<             List<String> sourceList = new ArrayList<>();
+---
+>             List<
+> String> sourceList = new ArrayList<>();

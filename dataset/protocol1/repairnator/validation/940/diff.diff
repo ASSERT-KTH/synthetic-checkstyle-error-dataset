@@ -1,0 +1,4 @@
+45c45
+<         dataCol.add(build.getRepository().getSlug());
+---
+>          dataCol.add(build.getRepository().getSlug());

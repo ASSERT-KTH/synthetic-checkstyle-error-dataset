@@ -1,0 +1,5 @@
+75c75,76
+<         RunnablePipelineContainer runnablePipelineContainer = new RunnablePipelineContainer(this, imageId, inputBuildId, this.dockerOutputDir, treatedBuildTracking);
+---
+>         RunnablePipelineContainer runnablePipelineContainer = new 
+> RunnablePipelineContainer(this, imageId, inputBuildId, this.dockerOutputDir, treatedBuildTracking);

@@ -1,0 +1,5 @@
+40,41c40
+<     public boolean equals(Object o) {
+<         if (this == o) return true;
+---
+>     public boolean equals(Object o) {        if (this == o) return true;

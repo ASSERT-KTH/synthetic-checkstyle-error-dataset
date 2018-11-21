@@ -1,0 +1,4 @@
+38c38
+<     private JsonElement serializeAsJson(BuildToBeInspected buildToBeInspected, RepairPatch patch) {
+---
+>     private JsonElement serializeAsJson	(BuildToBeInspected buildToBeInspected, RepairPatch patch) {

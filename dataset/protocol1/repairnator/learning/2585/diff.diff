@@ -1,0 +1,4 @@
+28c28
+<         result.add(buildToBeInspected.getRunId());
+---
+>        result.add(buildToBeInspected.getRunId());

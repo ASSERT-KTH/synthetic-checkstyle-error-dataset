@@ -1,0 +1,5 @@
+27c27,28
+<         MavenFilterOutputHandler outputFilter = new MavenFilterOutputHandler(helper);
+---
+>         MavenFilterOutputHandler outputFilter = new MavenFilterOutputHandler(
+> helper);

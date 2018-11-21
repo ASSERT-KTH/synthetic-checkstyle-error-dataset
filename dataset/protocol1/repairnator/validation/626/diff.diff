@@ -1,0 +1,5 @@
+81c81,82
+<         jsap.registerParameter(LauncherUtils.defineArgSmtpPort());
+---
+>         jsap.registerParameter(LauncherUtils
+> .defineArgSmtpPort());

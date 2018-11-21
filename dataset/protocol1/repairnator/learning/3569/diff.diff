@@ -1,0 +1,4 @@
+27c27
+<         this.getLogger().debug("Writing file with properties...");
+---
+>        this.getLogger().debug("Writing file with properties...");

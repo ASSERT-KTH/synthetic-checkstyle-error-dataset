@@ -1,0 +1,4 @@
+103c103
+<                 addStepError("Got exception when running AssertFixer: ", throwable);
+---
+>                addStepError("Got exception when running AssertFixer: ", throwable);

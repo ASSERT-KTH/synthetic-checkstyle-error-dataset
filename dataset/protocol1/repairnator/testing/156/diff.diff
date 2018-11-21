@@ -1,0 +1,4 @@
+256c256
+<             this.logger.debug("Build "+build.getId()+" is not interesting to be inspected.");
+---
+>             this.logger.debug("Build "+build.getId()+" is not interesting to be inspected.")	;

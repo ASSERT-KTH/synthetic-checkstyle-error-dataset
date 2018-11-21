@@ -1,0 +1,4 @@
+84c84
+<                 this.getInspector().getJobStatus().addFileToPush(CLASSPATH_FILENAME);
+---
+>                 this.getInspector().getJobStatus	().addFileToPush(CLASSPATH_FILENAME);

@@ -1,0 +1,4 @@
+23c23
+<             instance = new ErrorNotifier(engines);
+---
+>            instance = new ErrorNotifier(engines);

@@ -1,0 +1,4 @@
+66c66
+<         return Objects.hash(patchedBuild, buggyBuild, status, runId);
+---
+>         return Objects.hash(patchedBuild, buggyBuild, 	status, runId);

@@ -1,0 +1,4 @@
+28c28
+<         this.tests = new Tests();
+---
+>        this.tests = new Tests();

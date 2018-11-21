@@ -1,0 +1,5 @@
+29c29,30
+<     private final Logger logger = LoggerFactory.getLogger(ProjectInspector4Bears.class);
+---
+>     
+> private final Logger logger = LoggerFactory.getLogger(ProjectInspector4Bears.class);

@@ -1,0 +1,4 @@
+17c17
+<     public PipelineErrorSerializer(List<SerializerEngine> engines) {
+---
+>    public PipelineErrorSerializer(List<SerializerEngine> engines) {

@@ -1,0 +1,4 @@
+53c53
+<                 this.getLogger().error("Error while writing to repairnator.maven log.", e);
+---
+>                this.getLogger().error("Error while writing to repairnator.maven log.", e);

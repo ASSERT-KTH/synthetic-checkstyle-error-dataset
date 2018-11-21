@@ -1,0 +1,4 @@
+65c65
+<         text += "git fetch "+repoURL+" "+branchName+"\n";
+---
+>        text += "git fetch "+repoURL+" "+branchName+"\n";

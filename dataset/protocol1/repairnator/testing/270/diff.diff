@@ -1,0 +1,4 @@
+20c20
+<     public Checkstyle(ProjectInspector inspector, boolean blockingStep, String stepName) {
+---
+>     public 	Checkstyle(ProjectInspector inspector, boolean blockingStep, String stepName) {

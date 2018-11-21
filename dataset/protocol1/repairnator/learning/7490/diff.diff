@@ -1,0 +1,4 @@
+304c304
+<                         writer = new BufferedWriter(new FileWriter(statusPath));
+---
+>                        writer = new BufferedWriter(new FileWriter(statusPath));

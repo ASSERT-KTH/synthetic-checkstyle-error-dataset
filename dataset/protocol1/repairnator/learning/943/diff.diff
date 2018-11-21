@@ -1,0 +1,4 @@
+91c91
+<                         commit = this.createCommitForMetrics(prInformation, true);
+---
+>                        commit = this.createCommitForMetrics(prInformation, true);

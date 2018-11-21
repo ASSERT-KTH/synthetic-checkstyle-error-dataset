@@ -1,0 +1,5 @@
+52,53c52
+<             logger.error("Mongo connection is null, there was certainly a problem with the connection.");
+<         }
+---
+>             logger.error("Mongo connection is null, there was certainly a problem with the connection.");        }

@@ -1,0 +1,4 @@
+181c181
+<                     getLogger().warn("Error while checking if file " + file.toPath() + " contains ghOauth info.", e);
+---
+>                    getLogger().warn("Error while checking if file " + file.toPath() + " contains ghOauth info.", e);

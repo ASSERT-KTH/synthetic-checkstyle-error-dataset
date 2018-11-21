@@ -1,0 +1,4 @@
+51c51
+<     private String workspace;
+---
+>    private String workspace;

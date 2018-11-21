@@ -1,0 +1,5 @@
+23c23,24
+<                 this.setPushState(PushState.CHANGED_TESTS_COMMITTED);
+---
+>                 this.setPushState(PushState.CHANGED_TESTS_COMMITTED
+> );

@@ -1,0 +1,5 @@
+204c204,205
+<                     .addNextStep(new GatherTestInformation(this, true, new BuildShouldFail(), false))
+---
+>                     .addNextStep(new GatherTestInformation(this, true, new 
+> BuildShouldFail(), false))

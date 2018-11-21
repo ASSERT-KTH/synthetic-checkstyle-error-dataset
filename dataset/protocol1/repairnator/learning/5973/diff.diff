@@ -1,0 +1,4 @@
+110c110
+<         result.addProperty("committerEmail", committerEmail);
+---
+>        result.addProperty("committerEmail", committerEmail);

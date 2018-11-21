@@ -1,0 +1,4 @@
+44c44
+<         if (this.reproductionDateBeginning == null) { // so this is the first step
+---
+>         if (this.reproductionDateBeginning == 	null) { // so this is the first step

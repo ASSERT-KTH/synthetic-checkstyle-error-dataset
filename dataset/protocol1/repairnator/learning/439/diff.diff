@@ -1,0 +1,5 @@
+119c119,120
+<     protected void createPullRequest(List<File> patchList, int nbPatch) throws IOException, GitAPIException, URISyntaxException {
+---
+>     protected void createPullRequest(List<File> patchList, int nbPatch) throws IOException, GitAPIException, 
+> URISyntaxException {

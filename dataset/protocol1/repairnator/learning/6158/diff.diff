@@ -1,0 +1,4 @@
+12c12
+<     private MachineInfo machineInfo;
+---
+>     private 	MachineInfo machineInfo;

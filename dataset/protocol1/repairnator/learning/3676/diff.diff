@@ -1,0 +1,5 @@
+19c19,20
+<             return StepStatus.buildError(gatherTestInformation, PipelineState.NOTFAILING);
+---
+>             
+> return StepStatus.buildError(gatherTestInformation, PipelineState.NOTFAILING);

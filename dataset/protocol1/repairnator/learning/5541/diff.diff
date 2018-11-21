@@ -1,0 +1,4 @@
+149c149
+<                                 String failureType = testCase.getFailureType();
+---
+>                                String failureType = testCase.getFailureType();

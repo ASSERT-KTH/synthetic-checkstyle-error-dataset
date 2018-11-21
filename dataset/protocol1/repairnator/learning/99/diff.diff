@@ -1,0 +1,4 @@
+231c231
+<             this.processOutput(buildsToBeInspected);
+---
+>             this.	processOutput(buildsToBeInspected);

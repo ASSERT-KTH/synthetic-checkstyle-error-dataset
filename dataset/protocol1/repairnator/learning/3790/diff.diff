@@ -1,0 +1,4 @@
+43c43
+<         } catch (InterruptedException|DockerException e) {
+---
+>         } catch 	(InterruptedException|DockerException e) {

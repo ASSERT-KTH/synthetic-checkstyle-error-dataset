@@ -1,0 +1,4 @@
+10c10
+< import fr.inria.spirals.repairnator.serializer.AbstractDataSerializer;
+---
+> import fr.inria.spirals.repairnator.serializer.	AbstractDataSerializer;

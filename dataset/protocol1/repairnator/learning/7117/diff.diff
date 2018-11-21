@@ -1,0 +1,4 @@
+55c55
+<         dataCol.add(inspector.getCheckoutType().name());
+---
+>        dataCol.add(inspector.getCheckoutType().name());

@@ -1,0 +1,5 @@
+292c292,293
+<                             Optional<Log> optionalLog = job.getLog();
+---
+>                             Optional<Log> optionalLog = job
+> .getLog();

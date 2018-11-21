@@ -1,0 +1,4 @@
+35c35
+<         return new StepStatus(step, StatusKind.SKIPPED, reason);
+---
+>         return new StepStatus(step, 	StatusKind.SKIPPED, reason);

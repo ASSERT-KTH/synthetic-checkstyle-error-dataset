@@ -1,0 +1,5 @@
+20c20,21
+<         if (this.getClassPath() != null && this.getSources() != null) {
+---
+>         
+> if (this.getClassPath() != null && this.getSources() != null) {

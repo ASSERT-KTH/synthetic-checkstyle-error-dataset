@@ -1,0 +1,4 @@
+59c59
+<         this.getInspector().getJobStatus().setPlugins(plugins);
+---
+>        this.getInspector().getJobStatus().setPlugins(plugins);

@@ -1,0 +1,4 @@
+53c53
+<     private List<AbstractDataSerializer> serializers;
+---
+>    private List<AbstractDataSerializer> serializers;

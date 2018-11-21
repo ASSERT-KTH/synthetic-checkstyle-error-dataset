@@ -1,0 +1,4 @@
+29c29
+<             return StepStatus.buildSkipped(this,"No classpath or source directory given.");
+---
+>             return StepStatus.	buildSkipped(this,"No classpath or source directory given.");

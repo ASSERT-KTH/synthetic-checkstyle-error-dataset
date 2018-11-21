@@ -1,0 +1,4 @@
+24c24
+<         jsonReader.beginObject();
+---
+>        jsonReader.beginObject();

@@ -1,0 +1,5 @@
+16c16,17
+<             this.getLogger().info("Commit changes in the tests...");
+---
+>             this.getLogger().
+> info("Commit changes in the tests...");

@@ -1,0 +1,4 @@
+106c106
+<     private void initConfig(JSAPResult arguments) {
+---
+>     private void 	initConfig(JSAPResult arguments) {

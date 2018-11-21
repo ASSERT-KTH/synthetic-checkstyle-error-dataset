@@ -1,0 +1,4 @@
+78c78
+<                 LOGGER.info("New build submitted (id: "+build.getId()+") Total: "+this.nbSubmittedBuilds+" | Limit: "+maxSubmittedBuilds+")");
+---
+>                 LOGGER.info("New build submitted (id: "+build.getId()+") Total: "	+this.nbSubmittedBuilds+" | Limit: "+maxSubmittedBuilds+")");

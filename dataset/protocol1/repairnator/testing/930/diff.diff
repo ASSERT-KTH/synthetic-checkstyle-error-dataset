@@ -1,0 +1,4 @@
+54c54
+<             this.fixing.addStep(stepName, stepDuration);
+---
+>            this.fixing.addStep(stepName, stepDuration);

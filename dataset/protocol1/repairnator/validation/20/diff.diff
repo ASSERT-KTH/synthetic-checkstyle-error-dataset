@@ -1,0 +1,5 @@
+11c11,12
+<     public FailureDetail() {}
+---
+>     public FailureDetail
+> () {}

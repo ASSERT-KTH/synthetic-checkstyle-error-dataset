@@ -1,0 +1,4 @@
+50c50
+<         return RepairnatorConfig.getInstance();
+---
+>        return RepairnatorConfig.getInstance();

@@ -1,0 +1,4 @@
+15c15
+< import fr.inria.spirals.repairnator.process.step.checkoutrepository.CheckoutBuggyBuildSourceCode;
+---
+> import fr.inria.spirals	.repairnator.process.step.checkoutrepository.CheckoutBuggyBuildSourceCode;

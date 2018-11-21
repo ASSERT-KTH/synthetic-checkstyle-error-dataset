@@ -1,0 +1,4 @@
+18c18
+<     public InputBuildId(long buggyBuildId, long patchedBuildId) {
+---
+>     public 	InputBuildId(long buggyBuildId, long patchedBuildId) {

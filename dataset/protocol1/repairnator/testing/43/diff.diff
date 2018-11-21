@@ -1,0 +1,5 @@
+58c58,59
+<             this.testing.addStep(stepName, stepDuration);
+---
+>             this.testing.addStep
+> (stepName, stepDuration);

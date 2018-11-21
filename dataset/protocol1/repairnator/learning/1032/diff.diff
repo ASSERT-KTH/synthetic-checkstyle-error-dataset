@@ -1,0 +1,4 @@
+77c77
+<                         .addNextStep(new ComputeClasspath(this, false))
+---
+>                         .addNextStep(new ComputeClasspath	(this, false))

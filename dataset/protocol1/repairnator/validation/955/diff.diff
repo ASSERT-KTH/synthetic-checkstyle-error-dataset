@@ -1,0 +1,4 @@
+252c252
+<                         if (RepairnatorConfig.getInstance().getLauncherMode() == LauncherMode.CHECKSTYLE ) {
+---
+>                        if (RepairnatorConfig.getInstance().getLauncherMode() == LauncherMode.CHECKSTYLE ) {

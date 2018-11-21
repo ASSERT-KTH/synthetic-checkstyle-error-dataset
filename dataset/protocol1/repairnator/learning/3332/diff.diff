@@ -1,0 +1,5 @@
+41c41,42
+<         data.addProperty("date", Utils.formatCompleteDate(new Date()));
+---
+>         data.addProperty("date", Utils.formatCompleteDate(new Date())
+> );

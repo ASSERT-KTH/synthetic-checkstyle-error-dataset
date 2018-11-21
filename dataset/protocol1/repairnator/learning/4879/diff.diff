@@ -1,0 +1,4 @@
+85c85
+<         jsap.registerParameter(LauncherUtils.defineArgLogDirectory());
+---
+>        jsap.registerParameter(LauncherUtils.defineArgLogDirectory());

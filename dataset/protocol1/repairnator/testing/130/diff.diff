@@ -1,0 +1,4 @@
+115c115
+<                 GHRepository repo = gitHub.getRepository(this.getRepoSlug());
+---
+>                  GHRepository repo = gitHub.getRepository(this.getRepoSlug());

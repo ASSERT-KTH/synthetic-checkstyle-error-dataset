@@ -1,0 +1,4 @@
+98c98
+<         final Future<List<AssertFixerResult>> assertFixerExecution = executor.submit(() -> {
+---
+>         final Future<List<AssertFixerResult>> assertFixerExecution = executor.submit(	() -> {

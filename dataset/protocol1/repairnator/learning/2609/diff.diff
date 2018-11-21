@@ -1,0 +1,4 @@
+11c11
+<     PIPELINE_ERRORS("pipeline-errors"),
+---
+>     PIPELINE_ERRORS	("pipeline-errors"),

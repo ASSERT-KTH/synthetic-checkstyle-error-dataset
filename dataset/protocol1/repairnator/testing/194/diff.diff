@@ -1,0 +1,4 @@
+277c277
+<                     this.totalBuildInJavaFailingWithFailingTests++;
+---
+>                    this.totalBuildInJavaFailingWithFailingTests++;

@@ -1,0 +1,4 @@
+96c96
+<         opt2.setShortFlag('r');
+---
+>         opt2.setShortFlag('r'	);

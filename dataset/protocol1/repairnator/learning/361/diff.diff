@@ -1,0 +1,4 @@
+27c27
+<     public String getClassName() {
+---
+>     public String getClassName	() {

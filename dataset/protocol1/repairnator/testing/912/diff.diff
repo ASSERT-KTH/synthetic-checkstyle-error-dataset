@@ -1,0 +1,4 @@
+48c48
+<         element.add("freeMemoryByStep", elementFreeMemory);
+---
+>        element.add("freeMemoryByStep", elementFreeMemory);

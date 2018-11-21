@@ -1,0 +1,4 @@
+60c60
+<     private Map<String, Integer> stepsDurationsInSeconds;
+---
+>     private Map	<String, Integer> stepsDurationsInSeconds;

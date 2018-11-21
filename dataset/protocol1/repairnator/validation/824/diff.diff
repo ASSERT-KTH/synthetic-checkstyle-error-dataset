@@ -1,0 +1,4 @@
+58c58
+<     public void serialize(Repository repo, Reason reason, String comment) {
+---
+>     public void serialize(Repository repo, Reason 	reason, String comment) {

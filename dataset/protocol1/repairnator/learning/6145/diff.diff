@@ -1,0 +1,4 @@
+17c17
+<     public Lines getLines() {
+---
+>     public Lines getLines	() {

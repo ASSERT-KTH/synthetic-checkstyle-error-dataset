@@ -1,0 +1,4 @@
+120c120
+<         jsap.registerParameter(LauncherUtils.defineArgSmtpPassword());
+---
+>          jsap.registerParameter(LauncherUtils.defineArgSmtpPassword());

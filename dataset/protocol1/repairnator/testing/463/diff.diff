@@ -1,0 +1,5 @@
+47c47,48
+<     private void writeToFile(String s) {
+---
+>     
+> private void writeToFile(String s) {

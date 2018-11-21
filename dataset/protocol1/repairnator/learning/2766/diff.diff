@@ -1,0 +1,5 @@
+66c66,67
+<                 this.to.add(new InternetAddress(receiver));
+---
+>                 this.to.add
+> (new InternetAddress(receiver));

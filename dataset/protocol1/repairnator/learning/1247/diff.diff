@@ -1,0 +1,5 @@
+43,44c43
+<         }
+<         char c[] = string.toCharArray();
+---
+>         }        char c[] = string.toCharArray();

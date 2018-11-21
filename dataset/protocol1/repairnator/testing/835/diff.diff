@@ -1,0 +1,5 @@
+21c21,22
+<         super.setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD_TEST_CODE);
+---
+>         super.
+> setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD_TEST_CODE);

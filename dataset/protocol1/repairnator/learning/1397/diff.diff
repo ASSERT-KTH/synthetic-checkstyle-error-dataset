@@ -1,0 +1,4 @@
+11c11
+<     private Set<FailureDetail> failureDetails;
+---
+>    private Set<FailureDetail> failureDetails;

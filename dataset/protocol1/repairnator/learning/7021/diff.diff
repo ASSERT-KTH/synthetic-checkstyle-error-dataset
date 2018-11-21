@@ -1,0 +1,5 @@
+118c118,119
+<         this.config.setInputPath(LauncherUtils.getArgInput(arguments).getPath());
+---
+>         this.config.setInputPath(LauncherUtils.getArgInput(arguments).getPath
+> ());

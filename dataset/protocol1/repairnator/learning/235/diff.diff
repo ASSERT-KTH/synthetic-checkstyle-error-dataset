@@ -1,0 +1,5 @@
+54c54,55
+<         this.getLogger().debug("Computing project modules...");
+---
+>         this.getLogger().debug(
+> "Computing project modules...");

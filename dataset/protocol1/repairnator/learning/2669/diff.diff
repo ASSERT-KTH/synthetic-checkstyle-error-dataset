@@ -1,0 +1,4 @@
+84c84
+<             step.addStepError("Error while testing commit: " + e);
+---
+>             step	.addStepError("Error while testing commit: " + e);

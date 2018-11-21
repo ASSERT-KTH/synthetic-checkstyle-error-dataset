@@ -1,0 +1,4 @@
+38c38
+<             GitHelper gitHelper = this.getInspector().getGitHelper();
+---
+>             GitHelper gitHelper = this.getInspector().getGitHelper	();

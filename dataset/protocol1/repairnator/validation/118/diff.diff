@@ -1,0 +1,4 @@
+167c167
+<         if (this.whitelistWriter != null) {
+---
+>        if (this.whitelistWriter != null) {

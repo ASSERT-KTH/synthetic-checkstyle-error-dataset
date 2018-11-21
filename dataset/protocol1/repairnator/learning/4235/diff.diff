@@ -1,0 +1,4 @@
+107c107
+<                     commitMsg = "End of the bug and patch reproduction process";
+---
+>                    commitMsg = "End of the bug and patch reproduction process";

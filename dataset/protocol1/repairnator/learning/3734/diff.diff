@@ -1,0 +1,5 @@
+16c16,17
+<     public CheckoutBuggyBuildSourceCode(ProjectInspector inspector, boolean blockingStep, String stepName) {
+---
+>     public CheckoutBuggyBuildSourceCode(ProjectInspector 
+> inspector, boolean blockingStep, String stepName) {

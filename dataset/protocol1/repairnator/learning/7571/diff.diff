@@ -1,0 +1,5 @@
+63c63,64
+<         SerializedData data = new SerializedData(this.serializeAsList(build), this.serializeAsJson(build));
+---
+>         SerializedData data = new SerializedData(this.serializeAsList(build), 
+> this.serializeAsJson(build));

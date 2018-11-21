@@ -1,0 +1,5 @@
+179c179,180
+<                 String travisURL = Utils.getTravisUrl(this.getInspector().getBuggyBuild().getId(), this.getInspector().getRepoSlug());
+---
+>                 String travisURL = Utils.getTravisUrl
+> (this.getInspector().getBuggyBuild().getId(), this.getInspector().getRepoSlug());

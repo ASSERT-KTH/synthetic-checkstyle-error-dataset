@@ -1,0 +1,5 @@
+50c50,51
+<             cloneRepo.setNotifiers(this.getNotifiers());
+---
+>             
+> cloneRepo.setNotifiers(this.getNotifiers());

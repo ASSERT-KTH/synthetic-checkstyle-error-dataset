@@ -1,0 +1,4 @@
+55c55
+<         if (sources != null && sources.length > 0) {
+---
+>         if 	(sources != null && sources.length > 0) {

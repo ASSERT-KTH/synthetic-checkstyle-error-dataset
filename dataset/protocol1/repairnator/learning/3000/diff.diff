@@ -1,0 +1,4 @@
+95c95
+<                 commitMsg = "Human patch from " + this.getInspector().getRepoSlug() + "\n";
+---
+>                 commitMsg = "Human patch from " 	+ this.getInspector().getRepoSlug() + "\n";

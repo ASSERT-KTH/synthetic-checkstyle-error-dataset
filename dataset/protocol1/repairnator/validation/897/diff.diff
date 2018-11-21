@@ -1,0 +1,4 @@
+166c166
+<             this.config.setFork(true);
+---
+>            this.config.setFork(true);

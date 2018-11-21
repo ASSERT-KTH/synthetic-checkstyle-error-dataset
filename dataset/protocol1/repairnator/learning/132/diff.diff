@@ -1,0 +1,5 @@
+66c66,67
+<     public int getNbFailingTests() {
+---
+>     public 
+> int getNbFailingTests() {

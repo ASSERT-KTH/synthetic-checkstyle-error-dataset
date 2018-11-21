@@ -1,0 +1,5 @@
+157c157,158
+<                         FileUtils.copyFile(jsonResultFile, new File(this.getInspector().getRepoLocalPath()+"/repairnator.astor." + this.getAstorMode() + ".results.json"));
+---
+>                         FileUtils.copyFile(jsonResultFile, new File(this.getInspector(
+> ).getRepoLocalPath()+"/repairnator.astor." + this.getAstorMode() + ".results.json"));

@@ -1,0 +1,4 @@
+46c46
+<     public Set<FailureDetail> getFailureDetails() {
+---
+>    public Set<FailureDetail> getFailureDetails() {

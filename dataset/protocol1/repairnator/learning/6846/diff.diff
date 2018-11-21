@@ -1,0 +1,4 @@
+38c38
+<     public static StepStatus buildSkipped(AbstractStep step) {
+---
+>     public static StepStatus 	buildSkipped(AbstractStep step) {

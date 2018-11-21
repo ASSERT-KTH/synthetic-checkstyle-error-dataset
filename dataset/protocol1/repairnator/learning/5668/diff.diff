@@ -1,0 +1,5 @@
+29c29,30
+<     public EmailNotifierEngine(String[] receivers, String smtpServer, int smtpPort, boolean smtpTLS,
+---
+>     public EmailNotifierEngine(String[] receivers, String smtpServer, int 
+> smtpPort, boolean smtpTLS,

@@ -1,0 +1,5 @@
+6c6,7
+<     private Lines lines;
+---
+>     
+> private Lines lines;

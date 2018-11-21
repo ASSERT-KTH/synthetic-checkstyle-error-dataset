@@ -1,0 +1,4 @@
+10c10
+<         super(inspector, blockingStep);
+---
+>         super(inspector, 	blockingStep);

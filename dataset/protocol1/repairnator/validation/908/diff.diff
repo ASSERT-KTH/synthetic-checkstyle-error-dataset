@@ -1,0 +1,4 @@
+51c51
+<         if (classPath != null && sources != null) {
+---
+>         if (classPath 	!= null && sources != null) {

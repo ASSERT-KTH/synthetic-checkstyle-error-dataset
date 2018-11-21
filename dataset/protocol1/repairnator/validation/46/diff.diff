@@ -1,0 +1,4 @@
+438c438
+<             logger.info("The email notifier engine will be used.");
+---
+>              logger.info("The email notifier engine will be used.");

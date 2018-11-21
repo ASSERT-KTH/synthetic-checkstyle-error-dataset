@@ -1,0 +1,5 @@
+12c12,13
+<     private Set<FailureLocation> location;
+---
+>     private Set
+> <FailureLocation> location;

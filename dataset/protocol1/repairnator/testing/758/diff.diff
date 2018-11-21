@@ -1,0 +1,4 @@
+62c62
+<             this.building.addStep(stepName, stepDuration);
+---
+>             this.building.addStep(stepName	, stepDuration);

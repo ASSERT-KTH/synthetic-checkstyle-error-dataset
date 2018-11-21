@@ -1,0 +1,5 @@
+24c24,25
+<         super(engines, SerializerType.PROPERTIES);
+---
+>         super(engines, SerializerType.PROPERTIES
+> );

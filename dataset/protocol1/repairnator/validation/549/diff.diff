@@ -1,0 +1,4 @@
+47c47
+<         result.addProperty("runId", this.rtScanner.getRunId());
+---
+>        result.addProperty("runId", this.rtScanner.getRunId());

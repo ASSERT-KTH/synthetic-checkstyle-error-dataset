@@ -1,0 +1,4 @@
+9c9
+<     private int totalDuration;
+---
+>      private int totalDuration;

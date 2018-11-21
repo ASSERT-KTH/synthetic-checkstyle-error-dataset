@@ -1,0 +1,4 @@
+64c64
+<             this.getLogger().error("Error while computing metrics on source code of the whole repo.", e);
+---
+>             this.getLogger()	.error("Error while computing metrics on source code of the whole repo.", e);

@@ -1,0 +1,5 @@
+115c115,116
+<         String classpathFilePath = incriminatedModule + File.separator + CLASSPATH_FILENAME;
+---
+>         String classpathFilePath = incriminatedModule + File.
+> separator + CLASSPATH_FILENAME;

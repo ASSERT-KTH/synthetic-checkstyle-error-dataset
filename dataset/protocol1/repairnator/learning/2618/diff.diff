@@ -1,0 +1,5 @@
+107c107,108
+<         this.addDate(result, "buildReproductionDate", new Date());
+---
+>         this.addDate(result, "buildReproductionDate", new 
+> Date());

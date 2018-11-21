@@ -1,0 +1,4 @@
+58c58
+<         File pom = this.localRepository;
+---
+>        File pom = this.localRepository;

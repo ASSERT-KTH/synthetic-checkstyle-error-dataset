@@ -1,0 +1,5 @@
+56c56,57
+<     public void setNumberSkipping(int numberSkipping) {
+---
+>     public void setNumberSkipping
+> (int numberSkipping) {

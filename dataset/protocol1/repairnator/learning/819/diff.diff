@@ -1,0 +1,4 @@
+41c41
+<                 modules.addAll(Arrays.asList(moreModules));
+---
+>                modules.addAll(Arrays.asList(moreModules));

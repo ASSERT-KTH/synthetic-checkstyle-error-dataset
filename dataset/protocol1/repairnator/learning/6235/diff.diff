@@ -1,0 +1,4 @@
+154c154
+<                 LOGGER.info("(BUILD ID " + this.inputBuildId.getBuggyBuildId() + ") Container will be removed.");
+---
+>                 LOGGER.info("(BUILD ID " 	+ this.inputBuildId.getBuggyBuildId() + ") Container will be removed.");

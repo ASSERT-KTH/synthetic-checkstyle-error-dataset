@@ -1,0 +1,5 @@
+59c59,60
+<     public void consumeLine(String s) {
+---
+>     public 
+> void consumeLine(String s) {

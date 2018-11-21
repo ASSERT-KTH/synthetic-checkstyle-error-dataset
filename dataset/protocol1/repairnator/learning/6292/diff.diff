@@ -1,0 +1,5 @@
+16c16,17
+<     public CheckoutPatchedBuild(ProjectInspector inspector, boolean blockingStep, String stepName) {
+---
+>     public CheckoutPatchedBuild(ProjectInspector inspector, boolean 
+> blockingStep, String stepName) {

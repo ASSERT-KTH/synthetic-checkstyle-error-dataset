@@ -1,0 +1,5 @@
+8c8,9
+< public class MavenErrorHandler extends MavenOutputHandler {
+---
+> public 
+> class MavenErrorHandler extends MavenOutputHandler {

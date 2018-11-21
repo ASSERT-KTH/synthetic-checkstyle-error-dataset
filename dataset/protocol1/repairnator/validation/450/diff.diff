@@ -1,0 +1,5 @@
+26c26,27
+<     public BlacklistedSerializer(List<SerializerEngine> engines, RTScanner rtScanner) {
+---
+>     public BlacklistedSerializer(List
+> <SerializerEngine> engines, RTScanner rtScanner) {

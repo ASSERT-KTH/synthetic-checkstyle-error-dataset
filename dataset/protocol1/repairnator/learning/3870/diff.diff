@@ -1,0 +1,5 @@
+28c28,29
+<     public void serialize() {
+---
+>     public 
+> void serialize() {

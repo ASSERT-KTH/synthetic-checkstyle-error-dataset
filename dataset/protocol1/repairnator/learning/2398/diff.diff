@@ -1,0 +1,4 @@
+19c19
+<     public int getNumberChanged() {
+---
+>    public int getNumberChanged() {

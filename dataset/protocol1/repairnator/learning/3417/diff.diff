@@ -1,0 +1,4 @@
+181c181
+<         Date lookFromDate = arguments.getDate("lookFromDate");
+---
+>         Date lookFromDate = 	arguments.getDate("lookFromDate");

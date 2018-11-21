@@ -1,0 +1,4 @@
+124c124
+<                     this.nbErroringTests += testSuite.getNumberOfErrors();
+---
+>                      this.nbErroringTests += testSuite.getNumberOfErrors();

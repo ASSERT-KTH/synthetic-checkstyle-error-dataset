@@ -1,0 +1,4 @@
+75c75
+<     public int getNumberLines() {
+---
+>     public int getNumberLines(	) {

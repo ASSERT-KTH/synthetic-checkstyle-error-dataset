@@ -1,0 +1,5 @@
+42c42,43
+<                     text += "Data about this fixer build has been pushed on the following branch: "+status.getGitBranchUrl()+".\n";
+---
+>                     text += "Data about this fixer build has been pushed on the following branch: "
+> +status.getGitBranchUrl()+".\n";

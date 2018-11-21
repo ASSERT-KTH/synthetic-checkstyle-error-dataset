@@ -1,0 +1,4 @@
+95c95
+<         jsap.registerParameter(LauncherUtils.defineArgCreateOutputDir());
+---
+>         jsap.registerParameter(LauncherUtils	.defineArgCreateOutputDir());

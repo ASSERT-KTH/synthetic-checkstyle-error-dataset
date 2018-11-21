@@ -1,0 +1,4 @@
+8c8
+<     private String failingModule;
+---
+>    private String failingModule;

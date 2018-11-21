@@ -1,0 +1,4 @@
+39c39
+<     private static Logger LOGGER = LoggerFactory.getLogger(Launcher.class);
+---
+>     private static Logger LOGGER = 	LoggerFactory.getLogger(Launcher.class);

@@ -1,0 +1,4 @@
+127c127
+<         this.config.setDockerImageName(LauncherUtils.getArgDockerImageName(arguments));
+---
+>        this.config.setDockerImageName(LauncherUtils.getArgDockerImageName(arguments));

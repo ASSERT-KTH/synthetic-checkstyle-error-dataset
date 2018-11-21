@@ -1,0 +1,4 @@
+50c50
+<         } else if (step instanceof AbstractRepairStep) {
+---
+>         } else 	if (step instanceof AbstractRepairStep) {

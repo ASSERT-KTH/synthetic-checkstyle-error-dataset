@@ -1,0 +1,4 @@
+31c31
+<     public static final String REMOTE_REPO_EXT = ".git";
+---
+>     public static final String 	REMOTE_REPO_EXT = ".git";

@@ -1,0 +1,4 @@
+45c45
+<                 text += "You can find several information on the following about it: \n";
+---
+>                text += "You can find several information on the following about it: \n";

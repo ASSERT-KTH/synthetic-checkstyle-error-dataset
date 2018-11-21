@@ -1,0 +1,5 @@
+197c197,198
+<         this.config.setRepairTools(new HashSet<>(Arrays.asList(arguments.getStringArray("repairTools"))));
+---
+>         this.config.setRepairTools(new HashSet<>(Arrays.asList(arguments.getStringArray("repairTools")
+> )));

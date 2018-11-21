@@ -1,0 +1,4 @@
+56c56
+<         result.addProperty("dateEndStr", Utils.formatCompleteDate(this.scanner.getScannerRunningEndDate()));
+---
+>         result.addProperty("dateEndStr", 	Utils.formatCompleteDate(this.scanner.getScannerRunningEndDate()));

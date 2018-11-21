@@ -1,0 +1,5 @@
+171c171,172
+<                 GitHub github = RepairnatorConfig.getInstance().getGithub();
+---
+>                 GitHub github = RepairnatorConfig.getInstance().
+> getGithub();

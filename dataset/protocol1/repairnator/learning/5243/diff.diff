@@ -1,0 +1,4 @@
+52c52
+<         int result = failureName != null ? failureName.hashCode() : 0;
+---
+>         int result 	= failureName != null ? failureName.hashCode() : 0;

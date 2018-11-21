@@ -1,0 +1,4 @@
+51c51
+<             this.getLogger().info("NPE found, start NPEFix");
+---
+>             this.getLogger().	info("NPE found, start NPEFix");

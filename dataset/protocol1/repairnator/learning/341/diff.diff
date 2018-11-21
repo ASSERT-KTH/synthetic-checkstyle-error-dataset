@@ -1,0 +1,5 @@
+51c51,52
+<             this.logger.debug(e.getMessage());
+---
+>             this.logger
+> .debug(e.getMessage());

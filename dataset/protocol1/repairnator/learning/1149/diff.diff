@@ -1,0 +1,4 @@
+23c23
+<         this.failingMethods = new HashSet<String>();
+---
+>        this.failingMethods = new HashSet<String>();

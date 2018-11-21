@@ -1,0 +1,5 @@
+45c45,46
+<         dataCol.add(Utils.formatCompleteDate(build.getFinishedAt()));
+---
+>         dataCol.add(Utils.formatCompleteDate(build.
+> getFinishedAt()));

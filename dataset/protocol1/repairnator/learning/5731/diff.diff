@@ -1,0 +1,4 @@
+87c87
+<                 this.logger.debug("The pair of builds " + this.getBuggyBuild().getId() + ", " +
+---
+>                this.logger.debug("The pair of builds " + this.getBuggyBuild().getId() + ", " +

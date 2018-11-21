@@ -1,0 +1,4 @@
+142c142
+<         return new RepositoryModelResolver(this.localRepository.getAbsolutePath());
+---
+>         return new RepositoryModelResolver(this.localRepository.getAbsolutePath()	);

@@ -1,0 +1,4 @@
+84c84
+<     private void notify(List<RepairPatch> patches) {
+---
+>     private void notify	(List<RepairPatch> patches) {

@@ -1,0 +1,4 @@
+94c94
+<         if (failingMethods != null ? !failingMethods.equals(that.failingMethods) : that.failingMethods != null) return false;
+---
+>         if (failingMethods != null ? !failingMethods.equals(that	.failingMethods) : that.failingMethods != null) return false;

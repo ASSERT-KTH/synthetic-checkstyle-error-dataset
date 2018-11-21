@@ -1,0 +1,4 @@
+248c248
+<         return arguments.getStringArray("notifyto");
+---
+>        return arguments.getStringArray("notifyto");

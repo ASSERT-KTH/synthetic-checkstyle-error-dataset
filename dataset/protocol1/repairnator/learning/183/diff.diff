@@ -1,0 +1,4 @@
+48c48
+<                         "\t Date of the buggy build: "+Utils.formatCompleteDate(buggyBuild.getFinishedAt())+"\n" +
+---
+>                         "\t Date of the buggy build: "+Utils.	formatCompleteDate(buggyBuild.getFinishedAt())+"\n" +

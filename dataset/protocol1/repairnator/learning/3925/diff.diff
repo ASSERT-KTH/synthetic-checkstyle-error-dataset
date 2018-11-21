@@ -1,0 +1,4 @@
+51c51
+<                         "\t Url of the patched build: "+Utils.getTravisUrl(patchedBuild.getId(), slug)+"\n";
+---
+>                         "\t Url of the patched build: "+Utils.getTravisUrl(patchedBuild.getId(), slug)+"\n"	;

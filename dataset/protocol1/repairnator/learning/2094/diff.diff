@@ -1,0 +1,5 @@
+73c73,74
+<     public static String getCommitUrl(String commitId, String repoSlug) {
+---
+>     public static String getCommitUrl(String commitId, 
+> String repoSlug) {

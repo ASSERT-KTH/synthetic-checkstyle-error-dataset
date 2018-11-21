@@ -1,0 +1,5 @@
+15c15,16
+<     private static RepairToolsManager instance;
+---
+>     private 
+> static RepairToolsManager instance;

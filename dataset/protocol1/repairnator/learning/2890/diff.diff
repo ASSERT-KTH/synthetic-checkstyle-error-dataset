@@ -1,0 +1,4 @@
+150c150
+<         req.setModelResolver(new RepositoryModelResolver(localMavenRepository));
+---
+>         req.setModelResolver(new RepositoryModelResolver(localMavenRepository	));

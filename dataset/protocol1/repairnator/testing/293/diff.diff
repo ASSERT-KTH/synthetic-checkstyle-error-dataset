@@ -1,0 +1,4 @@
+29c29
+<             if (inspector4Bears.isBug()) {
+---
+>            if (inspector4Bears.isBug()) {

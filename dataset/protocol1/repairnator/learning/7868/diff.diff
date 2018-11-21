@@ -1,0 +1,4 @@
+66c66
+<         this.pullRequestId = pullRequestId;
+---
+>        this.pullRequestId = pullRequestId;

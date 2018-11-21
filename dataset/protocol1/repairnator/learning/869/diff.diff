@@ -1,0 +1,4 @@
+40c40
+<                 throw new RuntimeException("There was a problem when looking for the docker image with argument \""+imageName+"\": no image has been found.");
+---
+>                throw new RuntimeException("There was a problem when looking for the docker image with argument \""+imageName+"\": no image has been found.");

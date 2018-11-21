@@ -1,0 +1,4 @@
+24c24
+<     private Logger logger = LoggerFactory.getLogger(PatchNotifier.class);
+---
+>    private Logger logger = LoggerFactory.getLogger(PatchNotifier.class);

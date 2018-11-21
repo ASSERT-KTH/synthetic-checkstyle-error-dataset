@@ -1,0 +1,4 @@
+14c14
+<         this.getLogger().debug("Checking out the test code of the buggy build candidate...");
+---
+>        this.getLogger().debug("Checking out the test code of the buggy build candidate...");

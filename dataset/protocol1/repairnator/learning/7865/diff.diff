@@ -1,0 +1,4 @@
+160c160
+<                     this.addStepError("Error while executing git command to apply patch " + patch.getPath(), e);
+---
+>                    this.addStepError("Error while executing git command to apply patch " + patch.getPath(), e);

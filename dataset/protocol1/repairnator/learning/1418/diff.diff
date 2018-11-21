@@ -1,0 +1,5 @@
+16c16,17
+<         this.numberAdded = numberAdded;
+---
+>         this
+> .numberAdded = numberAdded;

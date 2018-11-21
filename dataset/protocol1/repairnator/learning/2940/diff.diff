@@ -1,0 +1,5 @@
+89c89,90
+<             patchNotifier.notify(this.getInspector(), this.getRepairToolName(), patches);
+---
+>             patchNotifier.notify(this
+> .getInspector(), this.getRepairToolName(), patches);

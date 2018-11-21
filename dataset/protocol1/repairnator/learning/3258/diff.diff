@@ -1,0 +1,4 @@
+149c149
+<         req.setValidationLevel(ModelBuildingRequest.VALIDATION_LEVEL_MINIMAL);
+---
+>         req.setValidationLevel(	ModelBuildingRequest.VALIDATION_LEVEL_MINIMAL);

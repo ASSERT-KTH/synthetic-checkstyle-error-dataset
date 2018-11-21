@@ -1,0 +1,5 @@
+336c336,337
+<                 for (int j = 0; j < (String.valueOf(higherDuration).length() - stepDuration.length()); j++) {
+---
+>                 for (int j = 0; j < (String.valueOf(higherDuration).length() - stepDuration.length
+> ()); j++) {

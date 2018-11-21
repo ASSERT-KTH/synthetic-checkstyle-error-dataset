@@ -1,0 +1,4 @@
+31c31
+<     public void setNumberDeleted(int numberDeleted) {
+---
+>    public void setNumberDeleted(int numberDeleted) {

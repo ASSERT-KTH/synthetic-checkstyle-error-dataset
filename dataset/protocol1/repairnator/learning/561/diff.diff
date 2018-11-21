@@ -1,0 +1,5 @@
+71c71,72
+<                                 if (file.getPath().equals(excludedFilePath)) {
+---
+>                                 if (file.getPath().
+> equals(excludedFilePath)) {

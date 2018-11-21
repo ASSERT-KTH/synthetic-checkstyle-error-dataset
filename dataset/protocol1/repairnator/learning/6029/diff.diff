@@ -1,0 +1,5 @@
+24c24,25
+<     private static final String DEFAULT_RUN_ID = "RUN-"+(counter++);
+---
+>     private static final String DEFAULT_RUN_ID = "RUN-"+(counter++
+> );

@@ -1,0 +1,5 @@
+49c49,50
+<         repositories.add(mainRepo);
+---
+>         repositories.add(
+> mainRepo);

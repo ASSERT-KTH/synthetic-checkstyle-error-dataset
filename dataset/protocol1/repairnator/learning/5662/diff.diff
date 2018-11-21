@@ -1,0 +1,5 @@
+31c31,32
+<         dataCol.add(this.scanner.getTotalScannedBuilds());
+---
+>         dataCol.add(this.scanner.getTotalScannedBuilds
+> ());

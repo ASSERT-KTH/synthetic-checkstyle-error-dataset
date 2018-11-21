@@ -1,0 +1,4 @@
+69c69
+<         result.addProperty("totalDuration", totalDuration);
+---
+>         result.addProperty(	"totalDuration", totalDuration);

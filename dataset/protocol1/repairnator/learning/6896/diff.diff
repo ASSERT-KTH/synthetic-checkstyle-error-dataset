@@ -1,0 +1,5 @@
+44c44,45
+<         data.addProperty("buildId", build.getId());
+---
+>         data.addProperty("buildId", build.getId
+> ());

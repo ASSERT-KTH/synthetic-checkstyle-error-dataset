@@ -1,0 +1,4 @@
+270c270
+<     public List<AbstractNotifier> getNotifiers() {
+---
+>    public List<AbstractNotifier> getNotifiers() {

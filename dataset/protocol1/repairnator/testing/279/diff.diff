@@ -1,0 +1,4 @@
+162c162
+<         Map<ScannedBuildStatus, List<BuildToBeInspected>> builds = getListOfBuildsFromRepo(repos);
+---
+>         Map<ScannedBuildStatus, List	<BuildToBeInspected>> builds = getListOfBuildsFromRepo(repos);

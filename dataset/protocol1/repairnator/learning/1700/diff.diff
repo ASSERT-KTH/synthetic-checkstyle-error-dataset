@@ -1,0 +1,5 @@
+315,316c315
+<     public void setProjectInspector(ProjectInspector inspector) {
+<         if (inspector != null) {
+---
+>     public void setProjectInspector(ProjectInspector inspector) {        if (inspector != null) {

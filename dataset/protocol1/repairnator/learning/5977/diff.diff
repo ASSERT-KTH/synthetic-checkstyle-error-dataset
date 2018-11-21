@@ -1,0 +1,4 @@
+129c129
+<                     if (inNotifBlock) {
+---
+>                     if (inNotifBlock	) {

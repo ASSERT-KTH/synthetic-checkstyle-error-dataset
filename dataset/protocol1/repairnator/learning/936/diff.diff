@@ -1,0 +1,5 @@
+14c14,15
+<     public void setBuggyBuild(Build buggyBuild) {
+---
+>     public void 
+> setBuggyBuild(Build buggyBuild) {

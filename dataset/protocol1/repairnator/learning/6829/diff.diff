@@ -1,0 +1,4 @@
+78c78
+<                 repository1Url = repository1Url.substring(0, repository1Url.length() - 1);
+---
+>                 repository1Url = repository1Url.substring(0, repository1Url	.length() - 1);

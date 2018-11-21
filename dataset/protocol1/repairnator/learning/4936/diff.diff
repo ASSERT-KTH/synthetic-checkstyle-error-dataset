@@ -1,0 +1,4 @@
+23c23
+<         this.getLogger().debug("Building project by installing artifacts with maven (skip test execution)...");
+---
+>        this.getLogger().debug("Building project by installing artifacts with maven (skip test execution)...");

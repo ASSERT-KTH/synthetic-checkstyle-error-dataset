@@ -1,0 +1,4 @@
+23c23
+<     public void setNumberRunning(int numberRunning) {
+---
+>     public void setNumberRunning(int 	numberRunning) {

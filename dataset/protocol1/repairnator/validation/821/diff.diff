@@ -1,0 +1,4 @@
+59c59
+<         this.buildRunner = new BuildRunner(this);
+---
+>         this.buildRunner = new BuildRunner(this)	;

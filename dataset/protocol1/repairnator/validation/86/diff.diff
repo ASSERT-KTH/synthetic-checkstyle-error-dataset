@@ -1,0 +1,4 @@
+132c132
+<                 RepairPatch patch = new RepairPatch(this.getRepairToolName(), result.getTestClass(), result.getDiff());
+---
+>                 RepairPatch patch = new RepairPatch(this	.getRepairToolName(), result.getTestClass(), result.getDiff());

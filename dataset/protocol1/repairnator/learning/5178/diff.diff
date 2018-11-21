@@ -1,0 +1,5 @@
+171c171,172
+<         ExecutorService executorService = Executors.newFixedThreadPool(this.config.getNbThreads());
+---
+>         ExecutorService executorService = Executors.newFixedThreadPool(this.config
+> .getNbThreads());

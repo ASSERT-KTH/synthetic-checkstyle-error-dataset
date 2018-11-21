@@ -1,0 +1,4 @@
+22c22
+<     public void setNumberDeleted(int numberDeleted) {
+---
+>      public void setNumberDeleted(int numberDeleted) {

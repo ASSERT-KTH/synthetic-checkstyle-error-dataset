@@ -1,0 +1,4 @@
+60c60
+<         MavenHelper helper = new MavenHelper(pomPath, goal, properties, this.getClass().getSimpleName(),
+---
+>         MavenHelper helper = new MavenHelper(pomPath, goal, properties, this.getClass().getSimpleName(	),

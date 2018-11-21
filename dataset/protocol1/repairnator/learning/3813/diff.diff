@@ -1,0 +1,4 @@
+25c25
+<     public void observe(ProjectInspector inspector) {
+---
+>    public void observe(ProjectInspector inspector) {

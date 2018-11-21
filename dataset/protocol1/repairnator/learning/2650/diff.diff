@@ -1,0 +1,4 @@
+61c61
+<         this.exceptionDetail = exceptionDetail;
+---
+>        this.exceptionDetail = exceptionDetail;

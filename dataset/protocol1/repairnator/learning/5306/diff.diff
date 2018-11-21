@@ -1,0 +1,5 @@
+214c214,215
+<             List<NotifierEngine> notifierEngines = LauncherUtils.initNotifierEngines(LOGGER);
+---
+>             
+> List<NotifierEngine> notifierEngines = LauncherUtils.initNotifierEngines(LOGGER);

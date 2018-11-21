@@ -1,0 +1,5 @@
+58,59c58
+<                     numberLines = java.getAsJsonPrimitive("code").getAsInt();
+<                 }
+---
+>                     numberLines = java.getAsJsonPrimitive("code").getAsInt();                }

@@ -1,0 +1,5 @@
+204c204,205
+<         this.getConfig().setMongodbName(LauncherUtils.getArgMongoDBName(arguments));
+---
+>         this.getConfig().setMongodbName(LauncherUtils
+> .getArgMongoDBName(arguments));

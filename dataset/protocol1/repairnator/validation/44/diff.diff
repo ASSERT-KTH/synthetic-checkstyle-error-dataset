@@ -1,0 +1,5 @@
+65c65,66
+<         for (File testFolder : tests) {
+---
+>         
+> for (File testFolder : tests) {

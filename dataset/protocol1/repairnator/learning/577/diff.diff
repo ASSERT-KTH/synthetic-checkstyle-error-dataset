@@ -1,0 +1,5 @@
+115c115,116
+<         opt2.setStringParser(JSAP.INTEGER_PARSER);
+---
+>         opt2.setStringParser(JSAP
+> .INTEGER_PARSER);

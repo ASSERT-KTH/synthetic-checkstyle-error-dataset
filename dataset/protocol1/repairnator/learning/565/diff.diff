@@ -1,0 +1,5 @@
+106c106,107
+<         result.addProperty("buildReproductionDateStr", Utils.formatCompleteDate(new Date()));
+---
+>         result.addProperty("buildReproductionDateStr", Utils.formatCompleteDate(new 
+> Date()));

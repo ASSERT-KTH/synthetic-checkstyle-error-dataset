@@ -1,0 +1,4 @@
+50c50
+<         String mainPomPath = this.getPom();
+---
+>        String mainPomPath = this.getPom();

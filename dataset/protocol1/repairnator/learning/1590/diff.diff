@@ -1,0 +1,4 @@
+92c92
+<     private void killDockerContainer(DockerClient docker, String containerId) {
+---
+>    private void killDockerContainer(DockerClient docker, String containerId) {

@@ -1,0 +1,4 @@
+38c38
+<             committerEmail = build.getCommitter().get().getEmail();
+---
+>             committerEmail = build.getCommitter()	.get().getEmail();

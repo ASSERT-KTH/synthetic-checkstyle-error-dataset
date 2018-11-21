@@ -1,0 +1,5 @@
+7c7,8
+< import fr.inria.spirals.repairnator.process.inspectors.properties.PropertiesSerializerAdapter;
+---
+> import fr
+> .inria.spirals.repairnator.process.inspectors.properties.PropertiesSerializerAdapter;

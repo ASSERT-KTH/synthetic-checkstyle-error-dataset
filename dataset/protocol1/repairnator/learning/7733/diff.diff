@@ -1,0 +1,4 @@
+91c91
+<         SerializedData data = new SerializedData(this.serializeAsList(inspector), this.serializeAsJson(inspector));
+---
+>         SerializedData data = new SerializedData(this.serializeAsList(inspector	), this.serializeAsJson(inspector));

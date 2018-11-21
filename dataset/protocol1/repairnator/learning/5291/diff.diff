@@ -1,0 +1,4 @@
+23c23
+<         if (this.getInspector().getPatchedBuild() != null) {
+---
+>        if (this.getInspector().getPatchedBuild() != null) {

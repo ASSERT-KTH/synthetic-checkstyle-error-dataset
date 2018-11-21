@@ -1,0 +1,5 @@
+238c238,239
+<                         + prInformation.getBase().getSHA1() + ". Operation aborted.");
+---
+>                         + 
+> prInformation.getBase().getSHA1() + ". Operation aborted.");

@@ -1,0 +1,5 @@
+25c25,26
+<         dataAsList.add(inspector.getBuildToBeInspected().getRunId());
+---
+>         dataAsList
+> .add(inspector.getBuildToBeInspected().getRunId());

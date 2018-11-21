@@ -1,0 +1,4 @@
+63c63
+<         int totalDuration = 0;
+---
+>        int totalDuration = 0;

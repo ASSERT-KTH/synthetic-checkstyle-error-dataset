@@ -1,0 +1,4 @@
+40c40
+<             String[] excludedFileNames = {".git", ".m2"};
+---
+>             String[] excludedFileNames = {".git"	, ".m2"};

@@ -1,0 +1,4 @@
+46c46
+<         String projectName = divideSlug[1];
+---
+>        String projectName = divideSlug[1];

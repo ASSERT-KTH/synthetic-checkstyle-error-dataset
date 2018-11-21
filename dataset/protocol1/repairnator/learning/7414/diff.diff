@@ -1,0 +1,5 @@
+21c21,22
+<             if (RepairnatorConfig.getInstance().getLauncherMode() == LauncherMode.BEARS && inspector instanceof ProjectInspector4Bears) {
+---
+>             if (RepairnatorConfig.getInstance().getLauncherMode
+> () == LauncherMode.BEARS && inspector instanceof ProjectInspector4Bears) {

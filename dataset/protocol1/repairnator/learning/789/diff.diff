@@ -1,0 +1,4 @@
+135c135
+<         nopolContext.setSolverPath(this.getConfig().getZ3solverPath());
+---
+>         nopolContext.setSolverPath(this	.getConfig().getZ3solverPath());

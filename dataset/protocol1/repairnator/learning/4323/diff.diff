@@ -1,0 +1,4 @@
+36c36
+<             this.addStepError("Repository " + repoSlug + " cannot be cloned.", e);
+---
+>             this.addStepError("Repository " 	+ repoSlug + " cannot be cloned.", e);

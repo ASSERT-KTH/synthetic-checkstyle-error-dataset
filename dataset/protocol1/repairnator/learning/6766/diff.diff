@@ -1,0 +1,4 @@
+38c38
+<         String typeOfFailures = StringUtils.join(jobStatus.getFailureNames(), ",") + "";
+---
+>         String typeOfFailures = StringUtils.join(jobStatus.getFailureNames(	), ",") + "";

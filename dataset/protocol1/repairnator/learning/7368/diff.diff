@@ -1,0 +1,5 @@
+134c134,135
+<                     this.getLogger().info("Exec following command: git checkout -- " + StringUtils.join(filesToCheckout, " "));
+---
+>                     this.getLogger()
+> .info("Exec following command: git checkout -- " + StringUtils.join(filesToCheckout, " "));

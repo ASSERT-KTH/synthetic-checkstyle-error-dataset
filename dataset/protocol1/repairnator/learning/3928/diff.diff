@@ -1,0 +1,4 @@
+39c39
+<             throw new RepairnatorConfigException("Error while reading the "+FILENAME+" file", e);
+---
+>            throw new RepairnatorConfigException("Error while reading the "+FILENAME+" file", e);

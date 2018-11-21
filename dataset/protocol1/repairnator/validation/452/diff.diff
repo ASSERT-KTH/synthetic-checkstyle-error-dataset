@@ -1,0 +1,5 @@
+109,110c109
+<             this.blacklistWriter = new FileWriter(blackListFile, true);
+<         } catch (IOException e) {
+---
+>             this.blacklistWriter = new FileWriter(blackListFile, true);        } catch (IOException e) {

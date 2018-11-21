@@ -1,0 +1,4 @@
+23c23
+<         this.numberDeleted = numberDeleted;
+---
+>         this.	numberDeleted = numberDeleted;

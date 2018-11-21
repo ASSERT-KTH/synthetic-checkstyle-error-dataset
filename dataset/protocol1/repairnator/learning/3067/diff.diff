@@ -1,0 +1,4 @@
+69c69
+<                     properties.getCommits().setFixerBuild(commit);
+---
+>                     properties.getCommits().setFixerBuild(commit	);

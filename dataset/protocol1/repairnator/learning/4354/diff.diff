@@ -1,0 +1,4 @@
+28c28
+<         this.beginDate = new Date();
+---
+>         this.beginDate = new 	Date();

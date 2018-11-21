@@ -1,0 +1,4 @@
+132c132
+<                             paths = this.getPaths(this.getInspector().getJobStatus().getTestDir(), git);
+---
+>                             paths = this.getPaths(this	.getInspector().getJobStatus().getTestDir(), git);

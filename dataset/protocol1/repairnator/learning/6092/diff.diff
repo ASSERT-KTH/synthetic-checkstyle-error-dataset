@@ -1,0 +1,5 @@
+101c101,102
+<             nopolInformation = new NopolInformation(failureLocation, IgnoreStatus.NOTHING_TO_IGNORE);
+---
+>             nopolInformation = new 
+> NopolInformation(failureLocation, IgnoreStatus.NOTHING_TO_IGNORE);

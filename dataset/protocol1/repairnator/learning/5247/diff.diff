@@ -1,0 +1,4 @@
+136c136
+<         if (this.config.isNotifyEndProcess()) {
+---
+>         if (this.config.	isNotifyEndProcess()) {

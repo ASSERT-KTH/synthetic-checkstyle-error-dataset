@@ -1,0 +1,4 @@
+79c79
+<                 LOGGER.info("Container will be removed.");
+---
+>                 LOGGER.info	("Container will be removed.");

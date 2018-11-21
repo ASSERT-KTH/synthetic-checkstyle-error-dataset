@@ -1,0 +1,4 @@
+19c19
+<             this.getLogger().info("Repairnator is configured to push. Init local repo to push and commit buggy build...");
+---
+>            this.getLogger().info("Repairnator is configured to push. Init local repo to push and commit buggy build...");

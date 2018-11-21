@@ -1,0 +1,4 @@
+40c40
+<             invoker.setErrorHandler(this.mavenHelper.getErrorHandler());
+---
+>             invoker.setErrorHandler(this.mavenHelper	.getErrorHandler());

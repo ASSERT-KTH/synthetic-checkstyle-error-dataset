@@ -1,0 +1,5 @@
+23c23,24
+<     public InspectorTimeSerializer(List<SerializerEngine> engines) {
+---
+>     public InspectorTimeSerializer(List
+> <SerializerEngine> engines) {

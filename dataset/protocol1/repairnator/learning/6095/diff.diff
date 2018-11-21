@@ -1,0 +1,4 @@
+45c45
+<                 Objects.equals(filePath, that.filePath) &&
+---
+>                 Objects.equals(filePath, that	.filePath) &&

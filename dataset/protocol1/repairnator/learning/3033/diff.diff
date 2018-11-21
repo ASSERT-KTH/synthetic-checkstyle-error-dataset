@@ -1,0 +1,4 @@
+42c42
+<         dataAsJson.addProperty("computedDay", Utils.formatOnlyDay(new Date()));
+---
+>         dataAsJson.addProperty("computedDay"	, Utils.formatOnlyDay(new Date()));

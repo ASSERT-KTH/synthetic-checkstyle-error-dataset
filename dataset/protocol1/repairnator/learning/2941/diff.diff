@@ -1,0 +1,5 @@
+82c82,83
+<         for (SerializerEngine engine : this.getEngines()) {
+---
+>         for (SerializerEngine engine : this.getEngines(
+> )) {

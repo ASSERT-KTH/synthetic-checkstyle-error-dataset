@@ -1,0 +1,4 @@
+162c162
+<         this.config.setOutputPath(LauncherUtils.getArgOutput(arguments).getPath());
+---
+>         this.	config.setOutputPath(LauncherUtils.getArgOutput(arguments).getPath());

@@ -1,0 +1,4 @@
+19c19
+<                         !((ProjectInspector4Bears) this.getInspector()).isBug()) {
+---
+>                         !((ProjectInspector4Bears) this.getInspector()).	isBug()) {

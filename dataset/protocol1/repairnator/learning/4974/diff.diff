@@ -1,0 +1,4 @@
+13c13
+<     private NopolStatus status;
+---
+>      private NopolStatus status;

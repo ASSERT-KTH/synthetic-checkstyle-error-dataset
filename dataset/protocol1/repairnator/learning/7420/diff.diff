@@ -1,0 +1,5 @@
+12c12,13
+< public class ComputeTestDir extends ComputeDir {
+---
+> public 
+> class ComputeTestDir extends ComputeDir {

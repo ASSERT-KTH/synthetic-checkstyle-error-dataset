@@ -1,0 +1,4 @@
+106c106
+<                 if (this.getConfig().getLauncherMode() == LauncherMode.BEARS) {
+---
+>                if (this.getConfig().getLauncherMode() == LauncherMode.BEARS) {

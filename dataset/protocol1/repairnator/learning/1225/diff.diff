@@ -1,0 +1,4 @@
+330c330
+<         this.getLogger().debug("STEP "+ (steps.indexOf(this) + 1)+"/"+ steps.size() +": "+this.name);
+---
+>         this.getLogger().debug("STEP "+ (steps.indexOf(this) + 	1)+"/"+ steps.size() +": "+this.name);

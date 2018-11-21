@@ -1,0 +1,5 @@
+70c70,71
+<         result.addProperty("endDateStr", Utils.formatCompleteDate(now));
+---
+>         result.addProperty("endDateStr", Utils.
+> formatCompleteDate(now));

@@ -1,0 +1,4 @@
+38c38
+<         dataAsJson.addProperty("buildId", inspector.getBuggyBuild().getId());
+---
+>        dataAsJson.addProperty("buildId", inspector.getBuggyBuild().getId());

@@ -1,0 +1,4 @@
+49c49
+<         for (Map.Entry<String, JsonElement> toolDiag : inspector.getJobStatus().getToolDiagnostic().entrySet()) {
+---
+>         for (Map.Entry<String, JsonElement> toolDiag : inspector.getJobStatus().	getToolDiagnostic().entrySet()) {

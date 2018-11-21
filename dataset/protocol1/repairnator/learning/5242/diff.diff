@@ -1,0 +1,4 @@
+12c12
+< public class BuildProject extends AbstractStep {
+---
+> public class 	BuildProject extends AbstractStep {

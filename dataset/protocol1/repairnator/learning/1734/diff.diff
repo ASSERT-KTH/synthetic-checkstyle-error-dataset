@@ -1,0 +1,4 @@
+104c104
+<                                         this.addStepError("Error while parsing JSON path file: diff content is null.");
+---
+>                                        this.addStepError("Error while parsing JSON path file: diff content is null.");

@@ -1,0 +1,4 @@
+49c49
+<             FileHelper.removeGhOauthFromCreatedFilesToPush(targetDir, this.getInspector().getJobStatus().getCreatedFilesToPush());
+---
+>             FileHelper.removeGhOauthFromCreatedFilesToPush(targetDir, this.	getInspector().getJobStatus().getCreatedFilesToPush());

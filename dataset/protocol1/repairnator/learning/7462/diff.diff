@@ -1,0 +1,4 @@
+130c130
+<         this.config.setGlobalTimeout(LauncherUtils.getArgGlobalTimeout(arguments));
+---
+>         this.config.setGlobalTimeout(LauncherUtils.getArgGlobalTimeout(	arguments));

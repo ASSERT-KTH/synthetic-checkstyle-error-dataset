@@ -1,0 +1,4 @@
+60c60
+<         if (sourceDir != null && targetDir != null) {
+---
+>         if (sourceDir != null && targetDir != null) 	{

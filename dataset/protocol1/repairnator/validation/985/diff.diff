@@ -1,0 +1,5 @@
+17c17,18
+<     public long getId() {
+---
+>     public long getId
+> () {

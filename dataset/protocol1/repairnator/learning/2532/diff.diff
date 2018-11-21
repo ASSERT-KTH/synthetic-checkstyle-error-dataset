@@ -1,0 +1,4 @@
+6c6
+< import fr.inria.spirals.repairnator.states.PipelineState;
+---
+> import fr.inria	.spirals.repairnator.states.PipelineState;

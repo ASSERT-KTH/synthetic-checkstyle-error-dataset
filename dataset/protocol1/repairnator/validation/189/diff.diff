@@ -1,0 +1,4 @@
+270c270
+<                         LOGGER.error("Error while getting log for job "+firstJob.getId());
+---
+>                         LOGGER.error("Error while getting log for job "+firstJob.getId())	;

@@ -1,0 +1,4 @@
+181c181
+<         this.inspector.getJobStatus().addStepError(this.name, error + " Original msg: " + exception.getMessage());
+---
+>         this.inspector.getJobStatus().	addStepError(this.name, error + " Original msg: " + exception.getMessage());

@@ -1,0 +1,5 @@
+20c20,21
+<         this.build = inspector.getBuggyBuild();
+---
+>         this.build 
+> = inspector.getBuggyBuild();

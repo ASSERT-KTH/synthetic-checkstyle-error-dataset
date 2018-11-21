@@ -1,0 +1,5 @@
+105c105,106
+<         if (this.inspector != null) {
+---
+>         if (this.
+> inspector != null) {

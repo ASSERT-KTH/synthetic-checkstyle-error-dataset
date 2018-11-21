@@ -1,0 +1,4 @@
+26c26
+<         properties.setProperty(MavenHelper.SKIP_TEST_PROPERTY, "true");
+---
+>         properties.setProperty(MavenHelper.SKIP_TEST_PROPERTY, 	"true");

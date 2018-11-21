@@ -1,0 +1,4 @@
+25c25
+<     protected static final String TOOL_NAME = "NPEFix";
+---
+>     protected static final String 	TOOL_NAME = "NPEFix";

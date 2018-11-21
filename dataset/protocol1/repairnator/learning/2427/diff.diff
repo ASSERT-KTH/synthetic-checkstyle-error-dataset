@@ -1,0 +1,4 @@
+71c71
+<             text += "git push "+jobStatus.getForkURL()+"\n";
+---
+>             text += "git push "+jobStatus.getForkURL	()+"\n";

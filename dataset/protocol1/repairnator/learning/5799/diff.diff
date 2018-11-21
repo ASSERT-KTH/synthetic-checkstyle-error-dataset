@@ -1,0 +1,4 @@
+19c19
+<         this.getLogger().error(s);
+---
+>        this.getLogger().error(s);

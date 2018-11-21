@@ -1,0 +1,5 @@
+188,189c188
+<             ghCommitPointer = prInformation.getHeadRef();
+<         }
+---
+>             ghCommitPointer = prInformation.getHeadRef();        }

@@ -1,0 +1,5 @@
+178,179c178
+<                         Files.write(file.toPath(), updatedContent.getBytes(charset));
+<                     }
+---
+>                         Files.write(file.toPath(), updatedContent.getBytes(charset));                    }

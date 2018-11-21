@@ -1,0 +1,4 @@
+390c390
+<             inspector = new ProjectInspector4Checkstyle(buildToBeInspected, this.getConfig().getWorkspacePath(), serializers, this.notifiers);
+---
+>             inspector = new ProjectInspector4Checkstyle(buildToBeInspected, this.getConfig().getWorkspacePath()	, serializers, this.notifiers);

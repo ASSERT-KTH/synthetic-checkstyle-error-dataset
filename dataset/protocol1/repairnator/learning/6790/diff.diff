@@ -1,0 +1,5 @@
+10c10,11
+<     StepStatus shouldBeStopped(GatherTestInformation gatherTestInformation);
+---
+>     StepStatus shouldBeStopped
+> (GatherTestInformation gatherTestInformation);

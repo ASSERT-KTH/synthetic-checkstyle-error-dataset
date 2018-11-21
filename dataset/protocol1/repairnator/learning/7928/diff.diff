@@ -1,0 +1,5 @@
+22c22,23
+<                 if (inspector.getBuildToBeInspected().getStatus() == ScannedBuildStatus.FAILING_AND_PASSING) {
+---
+>                 if (inspector.getBuildToBeInspected().getStatus() == ScannedBuildStatus.FAILING_AND_PASSING
+> ) {

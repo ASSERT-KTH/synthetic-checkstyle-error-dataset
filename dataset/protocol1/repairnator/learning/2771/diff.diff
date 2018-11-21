@@ -1,0 +1,4 @@
+34c34
+<         request.setProperties(this.mavenHelper.getProperties());
+---
+>         request.setProperties(	this.mavenHelper.getProperties());

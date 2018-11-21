@@ -1,0 +1,5 @@
+20c20,21
+<         this.inspector.getJobStatus().addStepError(name, s);
+---
+>         this.inspector.getJobStatus().addStepError(
+> name, s);

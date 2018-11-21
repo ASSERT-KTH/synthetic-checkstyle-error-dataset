@@ -1,0 +1,5 @@
+15c15,16
+<     private static final Logger LOGGER = LoggerFactory.getLogger(InspectJobs.class);
+---
+>     private static final Logger LOGGER = LoggerFactory.getLogger(InspectJobs
+> .class);

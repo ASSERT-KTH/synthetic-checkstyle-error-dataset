@@ -1,0 +1,4 @@
+45c45
+<         intermediateObject.addProperty("$date", MONGO_DATE_FORMAT.format(value));
+---
+>         intermediateObject.addProperty("$date", MONGO_DATE_FORMAT.format	(value));

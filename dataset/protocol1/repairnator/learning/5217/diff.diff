@@ -1,0 +1,4 @@
+85c85
+<                 msg.setText(message);
+---
+>                msg.setText(message);

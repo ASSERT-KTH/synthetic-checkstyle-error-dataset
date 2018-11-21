@@ -1,0 +1,5 @@
+112,113c112
+<                 throw new UnresolvableModelException("Could not download POM", groupId, artifactId, versionId, e);
+<             }
+---
+>                 throw new UnresolvableModelException("Could not download POM", groupId, artifactId, versionId, e);            }

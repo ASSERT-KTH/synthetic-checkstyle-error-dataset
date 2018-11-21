@@ -1,0 +1,4 @@
+106c106
+<         Calendar calendar = Calendar.getInstance();
+---
+>        Calendar calendar = Calendar.getInstance();

@@ -1,0 +1,4 @@
+254c254
+<                 getLogger().error("Error while renaming nopol log", e);
+---
+>                 getLogger().error("Error while renaming nopol log"	, e);

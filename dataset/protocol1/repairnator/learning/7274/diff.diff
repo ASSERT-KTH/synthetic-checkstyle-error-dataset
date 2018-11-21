@@ -1,0 +1,5 @@
+18c18,19
+<     public TestProject(ProjectInspector inspector, boolean blockingStep, String stepName) {
+---
+>     public TestProject(ProjectInspector inspector
+> , boolean blockingStep, String stepName) {

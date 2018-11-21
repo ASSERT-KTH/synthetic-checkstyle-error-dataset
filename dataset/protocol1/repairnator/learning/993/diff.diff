@@ -1,0 +1,4 @@
+122c122
+<                     this.nbPassingTests += runningTests - testSuite.getNumberOfFailures() - testSuite.getNumberOfErrors();
+---
+>                     this.nbPassingTests += runningTests - testSuite.getNumberOfFailures() - testSuite.getNumberOfErrors()	;

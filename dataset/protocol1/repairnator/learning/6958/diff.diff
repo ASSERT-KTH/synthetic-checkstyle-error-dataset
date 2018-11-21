@@ -1,0 +1,4 @@
+64c64
+<             pomOfCurrentDirPath = new File(this.getPom());
+---
+>            pomOfCurrentDirPath = new File(this.getPom());

@@ -1,0 +1,4 @@
+194c194
+<         File inputFile = new File(this.config.getInputPath());
+---
+>        File inputFile = new File(this.config.getInputPath());

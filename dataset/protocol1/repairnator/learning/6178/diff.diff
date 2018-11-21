@@ -1,0 +1,4 @@
+65c65
+<                     RemoteAddCommand remoteAdd = git.remoteAdd();
+---
+>                    RemoteAddCommand remoteAdd = git.remoteAdd();

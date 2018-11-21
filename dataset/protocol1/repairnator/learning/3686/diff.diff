@@ -1,0 +1,4 @@
+194c194
+<             this.config.setDuration((Duration) arguments.getObject("duration"));
+---
+>            this.config.setDuration((Duration) arguments.getObject("duration"));

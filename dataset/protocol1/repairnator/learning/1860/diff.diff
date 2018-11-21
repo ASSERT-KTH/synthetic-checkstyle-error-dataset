@@ -1,0 +1,4 @@
+30c30
+<                         result.add(attributeName, jsonSerializationContext.serialize(value));
+---
+>                        result.add(attributeName, jsonSerializationContext.serialize(value));

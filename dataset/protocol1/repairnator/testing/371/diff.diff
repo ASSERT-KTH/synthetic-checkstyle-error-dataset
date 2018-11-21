@@ -1,0 +1,5 @@
+52,53c52
+<                 this.fixing = new GlobalStepInfo();
+<             }
+---
+>                 this.fixing = new GlobalStepInfo();            }

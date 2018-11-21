@@ -1,0 +1,4 @@
+209c209
+<     public Throwable getFatalError() {
+---
+>     public Throwable getFatalError	() {

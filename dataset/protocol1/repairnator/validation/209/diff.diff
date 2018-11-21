@@ -1,0 +1,4 @@
+341c341
+<                 this.buildToBeInspected = new BuildToBeInspected(buggyBuild, patchedBuild, ScannedBuildStatus.PASSING_AND_PASSING_WITH_TEST_CHANGES, runId);
+---
+>                 this.buildToBeInspected = new BuildToBeInspected(buggyBuild, patchedBuild, ScannedBuildStatus	.PASSING_AND_PASSING_WITH_TEST_CHANGES, runId);

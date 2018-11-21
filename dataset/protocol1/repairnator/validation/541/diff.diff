@@ -1,0 +1,4 @@
+322c322
+<         if (buggyBuild.getFinishedAt() == null) {
+---
+>        if (buggyBuild.getFinishedAt() == null) {

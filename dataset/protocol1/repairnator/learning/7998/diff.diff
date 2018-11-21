@@ -1,0 +1,4 @@
+37c37
+<             File module = new File(pomFile.getParent() + File.separator + moduleName);
+---
+>             File module = new File(pomFile.getParent() 	+ File.separator + moduleName);

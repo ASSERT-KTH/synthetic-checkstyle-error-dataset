@@ -1,0 +1,4 @@
+26c26
+<     private final Logger logger = LoggerFactory.getLogger(ProjectScanner.class);
+---
+>     private final Logger 	logger = LoggerFactory.getLogger(ProjectScanner.class);

@@ -1,0 +1,5 @@
+71c71,72
+<             LOGGER.info("Start the container: "+containerName+" (id: "+containerId+")");
+---
+>             
+> LOGGER.info("Start the container: "+containerName+" (id: "+containerId+")");

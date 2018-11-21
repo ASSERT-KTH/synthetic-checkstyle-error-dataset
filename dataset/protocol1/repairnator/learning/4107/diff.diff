@@ -1,0 +1,4 @@
+59c59
+<     private int runMavenGoal(String pomPath, Properties properties) {
+---
+>     private int runMavenGoal(String 	pomPath, Properties properties) {

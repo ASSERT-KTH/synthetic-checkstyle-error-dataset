@@ -1,0 +1,4 @@
+40c40
+<         while (!shouldStop) {
+---
+>         while (!shouldStop) 	{

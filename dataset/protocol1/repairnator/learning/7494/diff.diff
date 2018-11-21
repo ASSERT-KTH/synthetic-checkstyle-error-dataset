@@ -1,0 +1,4 @@
+19c19
+<     private static final Logger LOGGER = LoggerFactory.getLogger(InspectBuilds.class);
+---
+>     private static final Logger LOGGER = LoggerFactory.getLogger(InspectBuilds.class)	;

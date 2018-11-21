@@ -1,0 +1,5 @@
+48c48,49
+<     private JsonElement serializeAsJson(ProjectInspector inspector) {
+---
+>     private 
+> JsonElement serializeAsJson(ProjectInspector inspector) {

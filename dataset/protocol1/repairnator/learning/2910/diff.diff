@@ -1,0 +1,4 @@
+176c176
+<                 String base = this.getInspector().getBuggyBuild().getBranch().getName();
+---
+>                 String base = this.getInspector().getBuggyBuild()	.getBranch().getName();

@@ -1,0 +1,4 @@
+37c37
+<             if (failingClass.getTestClass().equals(failingClassName)) {
+---
+>             if (failingClass.getTestClass().equals(failingClassName	)) {

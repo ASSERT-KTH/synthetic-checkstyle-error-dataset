@@ -1,0 +1,4 @@
+264c264
+<             getLogger().error("Error while removing the temp folder containing Nopol output", e);
+---
+>            getLogger().error("Error while removing the temp folder containing Nopol output", e);

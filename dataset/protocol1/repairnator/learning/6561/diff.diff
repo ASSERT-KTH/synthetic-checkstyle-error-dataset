@@ -1,0 +1,4 @@
+7c7
+<     private int numberPassing;
+---
+>      private int numberPassing;

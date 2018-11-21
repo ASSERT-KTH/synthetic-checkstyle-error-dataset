@@ -1,0 +1,4 @@
+35c35
+<         result.add(Utils.formatCompleteDate(new Date()));
+---
+>         result.add(Utils.formatCompleteDate(new Date	()));

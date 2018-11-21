@@ -1,0 +1,4 @@
+472c472
+<         this.githubUserEmail = githubUserEmail;
+---
+>        this.githubUserEmail = githubUserEmail;

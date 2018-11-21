@@ -1,0 +1,5 @@
+47c47,48
+<         if (tests == null || tests.length == 0) {
+---
+>         if (tests == null || 
+> tests.length == 0) {

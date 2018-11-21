@@ -1,0 +1,4 @@
+147c147
+<         aSwitch.setLongFlag("bearsDelimiter");
+---
+>        aSwitch.setLongFlag("bearsDelimiter");

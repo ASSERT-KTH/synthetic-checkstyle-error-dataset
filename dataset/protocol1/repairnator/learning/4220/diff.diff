@@ -1,0 +1,5 @@
+213c213,214
+<                 NopolResult result = nopol.getNopolResult();
+---
+>                 NopolResult result = nopol.getNopolResult(
+> );

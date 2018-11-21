@@ -1,0 +1,4 @@
+46c46
+<             this.exitCode = result.getExitCode();
+---
+>            this.exitCode = result.getExitCode();

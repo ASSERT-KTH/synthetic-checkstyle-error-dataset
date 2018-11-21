@@ -1,0 +1,5 @@
+109c109,110
+<         String incriminatedModule = this.getInspector().getJobStatus().getFailingModulePath();
+---
+>         String incriminatedModule = this.getInspector()
+> .getJobStatus().getFailingModulePath();

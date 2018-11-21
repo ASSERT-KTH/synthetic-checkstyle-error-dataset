@@ -1,0 +1,4 @@
+105c105
+<     public static Date getLastTimeFromDate(Date date) {
+---
+>     public static Date getLastTimeFromDate(	Date date) {

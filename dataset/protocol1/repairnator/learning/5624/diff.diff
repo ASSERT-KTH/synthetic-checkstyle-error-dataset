@@ -1,0 +1,5 @@
+37c37,38
+<             this.getInspector().getJobStatus().setTestDir(testDirs);
+---
+>             this.getInspector().getJobStatus()
+> .setTestDir(testDirs);

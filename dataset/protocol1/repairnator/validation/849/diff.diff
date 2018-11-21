@@ -1,0 +1,4 @@
+53c53
+<         result.addProperty("comment", comment);
+---
+>         result.addProperty(	"comment", comment);

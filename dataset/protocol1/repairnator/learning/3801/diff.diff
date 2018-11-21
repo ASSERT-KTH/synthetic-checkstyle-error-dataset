@@ -1,0 +1,5 @@
+54,55c54
+<                 LOGGER.error("Error while loading property file.", e);
+<             }
+---
+>                 LOGGER.error("Error while loading property file.", e);            }

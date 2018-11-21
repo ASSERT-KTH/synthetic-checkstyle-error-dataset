@@ -1,0 +1,5 @@
+14c14,15
+< public class InspectJobs implements Runnable {
+---
+> public 
+> class InspectJobs implements Runnable {

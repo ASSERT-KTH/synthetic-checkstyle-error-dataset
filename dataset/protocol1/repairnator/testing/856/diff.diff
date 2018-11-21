@@ -1,0 +1,5 @@
+44c44,45
+<         Map<String, Long> freeMemoryByStep = inspector.getJobStatus().getFreeMemoryByStep();
+---
+>         Map<String, Long> freeMemoryByStep = inspector.getJobStatus(
+> ).getFreeMemoryByStep();

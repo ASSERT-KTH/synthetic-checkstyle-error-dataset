@@ -1,0 +1,5 @@
+23,24c23
+<             return this.recordResults();
+<         } else {
+---
+>             return this.recordResults();        } else {

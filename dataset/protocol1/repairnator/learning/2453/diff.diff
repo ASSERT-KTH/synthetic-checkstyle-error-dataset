@@ -1,0 +1,5 @@
+8c8,9
+< public class MavenMuteOutputHandler extends MavenOutputHandler {
+---
+> public class MavenMuteOutputHandler 
+> extends MavenOutputHandler {

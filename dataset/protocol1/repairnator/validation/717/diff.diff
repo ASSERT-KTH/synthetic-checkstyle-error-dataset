@@ -1,0 +1,4 @@
+33c33
+<         Build previousBuild = buildToBeInspected.getBuggyBuild();
+---
+>        Build previousBuild = buildToBeInspected.getBuggyBuild();

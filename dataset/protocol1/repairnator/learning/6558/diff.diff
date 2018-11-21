@@ -1,0 +1,5 @@
+78c78,79
+<         if (patches.size() > LIMIT_NB_PATCH) {
+---
+>         if 
+> (patches.size() > LIMIT_NB_PATCH) {

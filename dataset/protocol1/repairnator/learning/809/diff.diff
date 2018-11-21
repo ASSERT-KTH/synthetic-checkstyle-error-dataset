@@ -1,0 +1,5 @@
+21c21,22
+<         this.discoverRepairTools();
+---
+>         this.
+> discoverRepairTools();

@@ -1,0 +1,4 @@
+135c135
+<                     inspectProcessDuration = new InspectProcessDuration(this.inspectBuilds, this.inspectJobs, this.buildRunner, this.endProcessNotifier);
+---
+>                     inspectProcessDuration = new InspectProcessDuration(this.inspectBuilds	, this.inspectJobs, this.buildRunner, this.endProcessNotifier);

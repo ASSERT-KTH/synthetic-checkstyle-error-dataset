@@ -1,0 +1,4 @@
+93c93
+<         LOGGER.info("Killing docker container: "+containerId);
+---
+>         LOGGER.info("Killing docker container: "+	containerId);

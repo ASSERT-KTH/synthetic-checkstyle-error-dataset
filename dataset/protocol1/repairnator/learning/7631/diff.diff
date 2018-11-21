@@ -1,0 +1,5 @@
+32c32,33
+<     public void setFreeMemory(long freeMemory) {
+---
+>     
+> public void setFreeMemory(long freeMemory) {

@@ -1,0 +1,5 @@
+61c61,62
+<         result.addProperty("duration", this.scanner.getScannerDuration());
+---
+>         result.addProperty(
+> "duration", this.scanner.getScannerDuration());

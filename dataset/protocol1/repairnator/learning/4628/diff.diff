@@ -1,0 +1,5 @@
+19c19,20
+<     private String diff;
+---
+>     private String 
+> diff;

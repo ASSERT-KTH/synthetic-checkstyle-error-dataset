@@ -1,0 +1,4 @@
+22c22
+<     private static final Logger LOGGER = LoggerFactory.getLogger(AbstractPoolManager.class);
+---
+>     private static 	final Logger LOGGER = LoggerFactory.getLogger(AbstractPoolManager.class);

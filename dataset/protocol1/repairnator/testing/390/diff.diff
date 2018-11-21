@@ -1,0 +1,4 @@
+48c48
+<         if (this.fileWriter != null) {
+---
+>        if (this.fileWriter != null) {

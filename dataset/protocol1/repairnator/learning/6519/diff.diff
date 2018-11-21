@@ -1,0 +1,4 @@
+23c23
+<     private static int counter = 0;
+---
+>      private static int counter = 0;

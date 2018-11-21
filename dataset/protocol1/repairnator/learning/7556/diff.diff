@@ -1,0 +1,4 @@
+45c45
+<         if (rootCall && modules.size() == 0) {
+---
+>         if (rootCall && modules.size() 	== 0) {

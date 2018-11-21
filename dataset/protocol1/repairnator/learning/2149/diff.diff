@@ -1,0 +1,5 @@
+9c9,10
+< public class CheckoutBuggyBuild extends CheckoutRepository {
+---
+> public class 
+> CheckoutBuggyBuild extends CheckoutRepository {

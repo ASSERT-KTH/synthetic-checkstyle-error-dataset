@@ -1,0 +1,5 @@
+61,62c61
+<                 } else {
+<                     if (this.commitType == CommitType.COMMIT_HUMAN_PATCH) {
+---
+>                 } else {                    if (this.commitType == CommitType.COMMIT_HUMAN_PATCH) {

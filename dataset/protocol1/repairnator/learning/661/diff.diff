@@ -1,0 +1,5 @@
+4c4,5
+<     protected static final String TOOL_NAME = "AstorJMut";
+---
+>     protected static 
+> final String TOOL_NAME = "AstorJMut";

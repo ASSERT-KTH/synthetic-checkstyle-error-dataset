@@ -1,0 +1,4 @@
+24c24
+<     public void setNumberCPU(int numberCPU) {
+---
+>     public void setNumberCPU(int numberCPU	) {

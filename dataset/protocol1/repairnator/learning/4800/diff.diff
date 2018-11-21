@@ -1,0 +1,5 @@
+33c33,34
+<                     logger.error("Error while serializing properties.", e);
+---
+>                     
+> logger.error("Error while serializing properties.", e);

@@ -1,0 +1,4 @@
+6c6
+< import fr.inria.spirals.repairnator.process.inspectors.properties.projectMetrics.ProjectMetrics;
+---
+> import fr.inria.spirals.repairnator.process.inspectors.properties	.projectMetrics.ProjectMetrics;

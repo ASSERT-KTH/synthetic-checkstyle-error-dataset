@@ -1,0 +1,4 @@
+5c5
+< import com.spotify.docker.client.exceptions.DockerCertificateException;
+---
+> import com.spotify.docker.client.exceptions	.DockerCertificateException;

@@ -1,0 +1,4 @@
+159c159
+<             final Future<NopolResult> nopolExecution = executor.submit(new Callable<NopolResult>() {
+---
+>             final Future<	NopolResult> nopolExecution = executor.submit(new Callable<NopolResult>() {

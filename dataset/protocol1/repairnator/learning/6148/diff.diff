@@ -1,0 +1,4 @@
+125c125
+<         this.commitType = commitType;
+---
+>         this.commitType 	= commitType;

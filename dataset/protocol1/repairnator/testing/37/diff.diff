@@ -1,0 +1,5 @@
+45c45,46
+<         for (Map.Entry<String, Long> stepFreeMemory : freeMemoryByStep.entrySet()) {
+---
+>         for (Map.Entry<String
+> , Long> stepFreeMemory : freeMemoryByStep.entrySet()) {

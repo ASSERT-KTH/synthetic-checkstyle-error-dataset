@@ -1,0 +1,4 @@
+43c43
+<         String humanDuration = Utils.getDuration(this.beginDate, now);
+---
+>         String humanDuration = Utils.getDuration	(this.beginDate, now);

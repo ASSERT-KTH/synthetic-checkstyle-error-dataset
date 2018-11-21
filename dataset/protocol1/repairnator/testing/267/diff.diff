@@ -1,0 +1,4 @@
+100c100
+<             MachineInfo machineInfo = properties.getReproductionBuggyBuild().getMachineInfo();
+---
+>             MachineInfo machineInfo = properties.getReproductionBuggyBuild	().getMachineInfo();

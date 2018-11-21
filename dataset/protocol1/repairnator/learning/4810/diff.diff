@@ -1,0 +1,5 @@
+32c32,33
+<         result.add(patch.getFilePath());
+---
+>         
+> result.add(patch.getFilePath());

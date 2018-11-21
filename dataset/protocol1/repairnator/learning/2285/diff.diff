@@ -1,0 +1,4 @@
+41c41
+<         dataAsJson.addProperty("computedDateStr", Utils.formatCompleteDate(new Date()));
+---
+>        dataAsJson.addProperty("computedDateStr", Utils.formatCompleteDate(new Date()));

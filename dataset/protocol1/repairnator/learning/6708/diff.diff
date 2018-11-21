@@ -1,0 +1,4 @@
+52c52
+<     public static String getHostname() {
+---
+>      public static String getHostname() {

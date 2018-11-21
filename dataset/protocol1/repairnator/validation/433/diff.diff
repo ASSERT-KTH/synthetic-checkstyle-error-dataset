@@ -1,0 +1,5 @@
+114c114,115
+<         opt.setLongFlag("input");
+---
+>         
+> opt.setLongFlag("input");

@@ -1,0 +1,4 @@
+221c221
+<                     getLogger().info("Obtain the following fork URL: "+forkedRepoUrl);
+---
+>                    getLogger().info("Obtain the following fork URL: "+forkedRepoUrl);

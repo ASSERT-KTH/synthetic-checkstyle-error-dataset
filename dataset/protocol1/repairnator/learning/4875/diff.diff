@@ -1,0 +1,4 @@
+48c48
+<     private Map<String, List<String>> stepErrors;
+---
+>     private Map<String, List<String>	> stepErrors;

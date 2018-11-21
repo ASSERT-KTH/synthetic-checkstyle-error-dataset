@@ -1,0 +1,4 @@
+36c36
+<                 Build buggyBuild = inspector.getBuggyBuild();
+---
+>                 Build 	buggyBuild = inspector.getBuggyBuild();

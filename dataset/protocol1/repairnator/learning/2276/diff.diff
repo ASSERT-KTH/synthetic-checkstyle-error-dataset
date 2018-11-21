@@ -1,0 +1,5 @@
+245c245,246
+<                 this.gitResetPaths(commitHeadSha, paths, git.getRepository().getDirectory().getParentFile());
+---
+>                 this.gitResetPaths(commitHeadSha, paths, git.getRepository().getDirectory().
+> getParentFile());

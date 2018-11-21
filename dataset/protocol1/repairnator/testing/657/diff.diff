@@ -1,0 +1,4 @@
+27c27
+<         if (inspector instanceof ProjectInspector4Bears) {
+---
+>        if (inspector instanceof ProjectInspector4Bears) {

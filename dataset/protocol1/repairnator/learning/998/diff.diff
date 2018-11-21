@@ -1,0 +1,4 @@
+308c308
+<         this.dockerImageName = dockerImageName;
+---
+>        this.dockerImageName = dockerImageName;

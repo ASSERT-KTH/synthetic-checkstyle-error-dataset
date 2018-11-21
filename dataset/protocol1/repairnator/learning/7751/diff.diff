@@ -1,0 +1,4 @@
+46c46
+<             this.addStepError("The file does not exist: " + file.getAbsolutePath() + ".");
+---
+>             this	.addStepError("The file does not exist: " + file.getAbsolutePath() + ".");

@@ -1,0 +1,5 @@
+28c28,29
+<         dataAsList.add(inspector.getRepoSlug());
+---
+>         
+> dataAsList.add(inspector.getRepoSlug());

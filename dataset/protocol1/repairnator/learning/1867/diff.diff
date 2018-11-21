@@ -1,0 +1,4 @@
+44c44
+<         result.addProperty("nbProcessors", Runtime.getRuntime().availableProcessors());
+---
+>        result.addProperty("nbProcessors", Runtime.getRuntime().availableProcessors());

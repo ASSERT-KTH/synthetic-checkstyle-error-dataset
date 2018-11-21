@@ -1,0 +1,5 @@
+114c114,115
+<             this.config.setLauncherMode(LauncherMode.BEARS);
+---
+>             this.config.setLauncherMode(
+> LauncherMode.BEARS);

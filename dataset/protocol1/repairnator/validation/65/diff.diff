@@ -1,0 +1,4 @@
+76c76
+<         result.addProperty("dayScanned", Utils.formatOnlyDay(date));
+---
+>        result.addProperty("dayScanned", Utils.formatOnlyDay(date));

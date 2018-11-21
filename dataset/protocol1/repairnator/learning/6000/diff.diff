@@ -1,0 +1,5 @@
+14c14,15
+< public class CloneRepository extends AbstractStep {
+---
+> public 
+> class CloneRepository extends AbstractStep {

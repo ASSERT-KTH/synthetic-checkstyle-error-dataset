@@ -1,0 +1,4 @@
+147c147
+<             BufferedReader reader = new BufferedReader(new FileReader(inputFile));
+---
+>            BufferedReader reader = new BufferedReader(new FileReader(inputFile));

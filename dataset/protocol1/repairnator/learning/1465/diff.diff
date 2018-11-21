@@ -1,0 +1,5 @@
+40c40,41
+<                 this.classPath.add(file.toURI().toURL());
+---
+>                 this.classPath.add(file.toURI().toURL
+> ());

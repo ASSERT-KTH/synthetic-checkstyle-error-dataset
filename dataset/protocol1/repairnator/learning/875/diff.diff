@@ -1,0 +1,4 @@
+44c44
+<                 FileHelper.copyDirectory(sourceDir, targetDir, excludedFileNames, false, this);
+---
+>                 FileHelper.copyDirectory(sourceDir	, targetDir, excludedFileNames, false, this);

@@ -1,0 +1,4 @@
+29c29
+<         this.patchDiff = new PatchDiff();
+---
+>        this.patchDiff = new PatchDiff();

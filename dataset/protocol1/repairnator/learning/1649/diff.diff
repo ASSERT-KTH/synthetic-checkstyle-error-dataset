@@ -1,0 +1,4 @@
+25c25
+<     private static final String DEFAULT_OUTPUT_DIR = "/var/log/repairnator";
+---
+>     private static final String DEFAULT_OUTPUT_DIR = 	"/var/log/repairnator";

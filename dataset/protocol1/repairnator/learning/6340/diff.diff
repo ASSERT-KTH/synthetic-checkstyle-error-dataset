@@ -1,0 +1,5 @@
+29c29,30
+<         SerializedData data = new SerializedData(this.serializeAsList(), this.serializeAsJson());
+---
+>         SerializedData data = new SerializedData(this.serializeAsList(
+> ), this.serializeAsJson());

@@ -1,0 +1,5 @@
+11c11,12
+<     public Build(long id, String url, Date date) {
+---
+>     public Build(
+> long id, String url, Date date) {

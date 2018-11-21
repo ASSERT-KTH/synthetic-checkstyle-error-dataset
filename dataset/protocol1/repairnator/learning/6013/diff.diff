@@ -1,0 +1,4 @@
+86c86
+<                 this.addStepError("The classpath file is empty.");
+---
+>                this.addStepError("The classpath file is empty.");

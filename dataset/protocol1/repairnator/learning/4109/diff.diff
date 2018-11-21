@@ -1,0 +1,4 @@
+8c8
+< import fr.inria.lille.repair.common.patch.Patch;
+---
+> import fr.inria.lille.	repair.common.patch.Patch;

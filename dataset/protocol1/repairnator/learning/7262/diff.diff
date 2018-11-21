@@ -1,0 +1,4 @@
+94c94
+<             container.killDockerContainer(this.getDockerClient(), false);
+---
+>            container.killDockerContainer(this.getDockerClient(), false);

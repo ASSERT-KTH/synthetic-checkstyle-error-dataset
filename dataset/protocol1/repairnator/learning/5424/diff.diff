@@ -1,0 +1,5 @@
+21c21,22
+<                     return StepStatus.buildSkipped(this, "The reproduction of the bug and/or the patch failed. Step bypassed.");
+---
+>                     return StepStatus.buildSkipped(this, "The reproduction of the bug and/or the patch failed. Step bypassed.")
+> ;

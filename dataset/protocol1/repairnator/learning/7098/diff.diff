@@ -1,0 +1,5 @@
+146,147c146
+<             gitHelper.initAllSubmodules(git);
+<         } catch (IOException | GitAPIException e) {
+---
+>             gitHelper.initAllSubmodules(git);        } catch (IOException | GitAPIException e) {

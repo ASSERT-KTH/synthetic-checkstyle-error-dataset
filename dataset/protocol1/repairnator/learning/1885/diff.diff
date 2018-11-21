@@ -1,0 +1,4 @@
+55c55
+<         result.addProperty("totalScannedBuilds", this.scanner.getTotalScannedBuilds());
+---
+>         result.addProperty("totalScannedBuilds", this.	scanner.getTotalScannedBuilds());

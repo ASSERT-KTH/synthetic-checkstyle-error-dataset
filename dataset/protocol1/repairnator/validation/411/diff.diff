@@ -1,0 +1,4 @@
+151c151
+<         this.config.setSkipDelete(LauncherUtils.getArgSkipDelete(arguments));
+---
+>        this.config.setSkipDelete(LauncherUtils.getArgSkipDelete(arguments));

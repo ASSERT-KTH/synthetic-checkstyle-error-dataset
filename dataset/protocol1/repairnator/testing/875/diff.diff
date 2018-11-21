@@ -1,0 +1,5 @@
+378c378,379
+<             this.logger.debug("GitHub rate limit: Limit: " + rateLimit.limit + " - Remaining: " + rateLimit.remaining + " - Reset hour: " + dateFormat.format(rateLimit.reset));
+---
+>             this.logger.debug("GitHub rate limit: Limit: " + rateLimit.limit + " - Remaining: " + rateLimit.remaining + 
+> " - Reset hour: " + dateFormat.format(rateLimit.reset));

@@ -1,0 +1,5 @@
+206c206,207
+<         this.plugins = plugins;
+---
+>         this.plugins = 
+> plugins;

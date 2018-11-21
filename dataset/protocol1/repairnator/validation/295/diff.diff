@@ -1,0 +1,4 @@
+353c353
+<             String project = buggyBuild.getRepository().getSlug().toLowerCase();
+---
+>            String project = buggyBuild.getRepository().getSlug().toLowerCase();

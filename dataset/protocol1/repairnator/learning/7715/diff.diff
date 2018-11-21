@@ -1,0 +1,5 @@
+57c57,58
+<         return Objects.equals(patchedBuild, that.patchedBuild) &&
+---
+>         return Objects.equals(patchedBuild, that.patchedBuild) 
+> &&

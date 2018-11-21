@@ -1,0 +1,4 @@
+197c197
+<         String parent = commitParents.get(0);
+---
+>        String parent = commitParents.get(0);

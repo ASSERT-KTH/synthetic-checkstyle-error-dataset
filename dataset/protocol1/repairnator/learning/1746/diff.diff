@@ -1,0 +1,4 @@
+54c54
+<         serializedData.add(new SerializedData(dataAsList, dataAsJson));
+---
+>        serializedData.add(new SerializedData(dataAsList, dataAsJson));

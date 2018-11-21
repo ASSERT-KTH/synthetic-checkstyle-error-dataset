@@ -1,0 +1,4 @@
+75c75
+<         this.addDate(result, "dateScanned", date);
+---
+>        this.addDate(result, "dateScanned", date);

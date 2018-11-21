@@ -1,0 +1,5 @@
+27c27,28
+<             logger.info("Cannot find "+FILENAME+" file in current directory. It will use the default one.");
+---
+>             logger.info("Cannot find "
+> +FILENAME+" file in current directory. It will use the default one.");

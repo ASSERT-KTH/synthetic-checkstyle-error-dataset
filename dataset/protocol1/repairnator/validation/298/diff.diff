@@ -1,0 +1,4 @@
+162c162
+<         this.config.setCreatePR(LauncherUtils.getArgCreatePR(arguments));
+---
+>         this.config.setCreatePR(LauncherUtils.getArgCreatePR	(arguments));

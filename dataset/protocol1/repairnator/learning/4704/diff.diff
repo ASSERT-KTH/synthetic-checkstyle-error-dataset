@@ -1,0 +1,4 @@
+97c97
+<         jsap.registerParameter(LauncherUtils.defineArgNotifyEndProcess());
+---
+>          jsap.registerParameter(LauncherUtils.defineArgNotifyEndProcess());

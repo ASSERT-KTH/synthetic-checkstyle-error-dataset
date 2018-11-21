@@ -1,0 +1,5 @@
+67,68c67
+<         if (writer != null) {
+<             for (SerializedData row : data) {
+---
+>         if (writer != null) {            for (SerializedData row : data) {

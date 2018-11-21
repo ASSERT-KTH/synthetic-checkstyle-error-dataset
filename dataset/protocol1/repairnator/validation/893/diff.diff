@@ -1,0 +1,4 @@
+100c100
+<                 Main main = new Main(configuration);
+---
+>                 Main main 	= new Main(configuration);

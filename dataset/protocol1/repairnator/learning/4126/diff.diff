@@ -1,0 +1,4 @@
+44c44
+<     public void addErroringMethod(String erroringMethod) {
+---
+>    public void addErroringMethod(String erroringMethod) {

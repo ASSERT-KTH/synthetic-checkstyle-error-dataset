@@ -1,0 +1,5 @@
+40c40,41
+<     public void setTotalMemory(long totalMemory) {
+---
+>     public void setTotalMemory
+> (long totalMemory) {

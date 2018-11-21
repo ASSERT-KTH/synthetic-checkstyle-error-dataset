@@ -1,0 +1,5 @@
+14c14,15
+<         ProjectInspector inspector = gatherTestInformation.getInspector();
+---
+>         ProjectInspector 
+> inspector = gatherTestInformation.getInspector();

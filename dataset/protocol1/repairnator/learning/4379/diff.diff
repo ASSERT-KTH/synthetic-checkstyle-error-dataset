@@ -1,0 +1,5 @@
+87,88c87
+<                         "Error while copying files to prepare the git repository folder towards to push data.", e);
+<             }
+---
+>                         "Error while copying files to prepare the git repository folder towards to push data.", e);            }

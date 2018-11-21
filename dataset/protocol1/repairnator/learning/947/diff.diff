@@ -1,0 +1,4 @@
+211c211
+<             overallMetrics.setNumberSkipping(this.nbSkippingTests);
+---
+>             overallMetrics.setNumberSkipping(this.	nbSkippingTests);

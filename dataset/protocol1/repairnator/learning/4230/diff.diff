@@ -1,0 +1,4 @@
+43c43
+<                     return new PasswordAuthentication(smtpUsername, smtpPassword);
+---
+>                    return new PasswordAuthentication(smtpUsername, smtpPassword);

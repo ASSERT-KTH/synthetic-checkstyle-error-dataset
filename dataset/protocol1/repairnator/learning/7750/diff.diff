@@ -1,0 +1,5 @@
+14c14,15
+< public class BuildShouldPass implements ContractForGatherTestInformation {
+---
+> public class BuildShouldPass implements 
+> ContractForGatherTestInformation {

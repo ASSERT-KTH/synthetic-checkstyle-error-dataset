@@ -1,0 +1,5 @@
+23c23,24
+<     private static final int NB_ELEMENT_TRAVIS_JOB = 250; // the number of elements returned by Travis Job endpoint
+---
+>     private static final 
+> int NB_ELEMENT_TRAVIS_JOB = 250; // the number of elements returned by Travis Job endpoint

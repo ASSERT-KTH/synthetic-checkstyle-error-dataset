@@ -1,0 +1,4 @@
+96c96
+<         return failures != null ? failures.equals(that.failures) : that.failures == null;
+---
+>         return failures != null ? failures.equals(that.failures) : that.failures == 	null;

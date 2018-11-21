@@ -1,0 +1,4 @@
+16c16
+<         this.getLogger().debug("Start to use nopol single repair to repair...");
+---
+>        this.getLogger().debug("Start to use nopol single repair to repair...");

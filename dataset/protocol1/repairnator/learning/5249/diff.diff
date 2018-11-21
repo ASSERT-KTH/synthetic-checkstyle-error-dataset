@@ -1,0 +1,5 @@
+26c26,27
+<                 super.setCommitType(CommitType.COMMIT_PROCESS_END);
+---
+>                 super.setCommitType(CommitType.
+> COMMIT_PROCESS_END);

@@ -1,0 +1,4 @@
+173c173
+<                 GHRepository originalRepository = github.getRepository(this.getInspector().getRepoSlug());
+---
+>                GHRepository originalRepository = github.getRepository(this.getInspector().getRepoSlug());

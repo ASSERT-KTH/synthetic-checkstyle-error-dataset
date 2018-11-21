@@ -1,0 +1,4 @@
+1c1
+< package fr.inria.spirals.repairnator.process.nopol;
+---
+> package fr.inria.spirals.repairnator	.process.nopol;

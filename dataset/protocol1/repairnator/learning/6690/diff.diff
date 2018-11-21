@@ -1,0 +1,4 @@
+33c33
+<                 String subject = "Fixer build found: "+inspector.getPatchedBuild().getId()+" - "+slug;
+---
+>                 String subject = "Fixer build found: "+inspector.	getPatchedBuild().getId()+" - "+slug;

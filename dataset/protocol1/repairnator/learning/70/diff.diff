@@ -1,0 +1,4 @@
+25c25
+< public abstract class AbstractStep {
+---
+> public abstract class AbstractStep 	{

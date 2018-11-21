@@ -1,0 +1,4 @@
+35c35
+<         dataCol.add(this.scanner.getTotalBuildInJavaFailingWithFailingTests());
+---
+>        dataCol.add(this.scanner.getTotalBuildInJavaFailingWithFailingTests());

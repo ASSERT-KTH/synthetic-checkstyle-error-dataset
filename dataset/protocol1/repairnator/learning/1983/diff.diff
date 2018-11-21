@@ -1,0 +1,4 @@
+35c35
+<                 this.getLogger().info("Commit human patch...");
+---
+>                 this.getLogger(	).info("Commit human patch...");

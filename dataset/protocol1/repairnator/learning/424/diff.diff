@@ -1,0 +1,4 @@
+20c20
+<     private Logger logger = LoggerFactory.getLogger(CSVSerializerEngine.class);
+---
+>     private Logger logger = LoggerFactory.getLogger	(CSVSerializerEngine.class);

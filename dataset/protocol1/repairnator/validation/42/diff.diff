@@ -1,0 +1,5 @@
+55,56c55
+<             return StepStatus.buildError(this, PipelineState.PLUGINSNOTCOMPUTED);
+<         } else if (plugins.size() == 0) {
+---
+>             return StepStatus.buildError(this, PipelineState.PLUGINSNOTCOMPUTED);        } else if (plugins.size() == 0) {

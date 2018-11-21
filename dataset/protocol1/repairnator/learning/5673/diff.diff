@@ -1,0 +1,5 @@
+12c12,13
+<     public FailureType(String name, String detail, boolean isError) {
+---
+>     
+> public FailureType(String name, String detail, boolean isError) {

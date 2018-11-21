@@ -1,0 +1,4 @@
+154c154
+<                     step.getInspector().getJobStatus().addFileToPush(Utils.TRAVIS_FILE);
+---
+>                     step.getInspector().getJobStatus().addFileToPush(Utils.	TRAVIS_FILE);

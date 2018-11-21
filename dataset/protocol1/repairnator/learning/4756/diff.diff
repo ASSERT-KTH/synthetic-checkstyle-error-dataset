@@ -1,0 +1,4 @@
+31c31
+<         this.properties = new Properties();
+---
+>          this.properties = new Properties();

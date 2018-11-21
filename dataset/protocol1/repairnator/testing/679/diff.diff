@@ -1,0 +1,4 @@
+30c30
+<                 return inspector4Bears.getBugType();
+---
+>                 return inspector4Bears.getBugType()	;

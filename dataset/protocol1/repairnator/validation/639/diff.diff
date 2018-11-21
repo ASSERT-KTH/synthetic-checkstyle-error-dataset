@@ -1,0 +1,4 @@
+8c8
+< import fr.inria.main.AstorOutputStatus;
+---
+> import fr.inria.main.AstorOutputStatus	;

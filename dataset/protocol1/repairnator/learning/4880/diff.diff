@@ -1,0 +1,4 @@
+48c48
+<         result.addProperty("dateWatchedStr", Utils.formatCompleteDate(new Date()));
+---
+>         result.addProperty("dateWatchedStr", 	Utils.formatCompleteDate(new Date()));

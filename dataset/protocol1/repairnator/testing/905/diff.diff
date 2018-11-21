@@ -1,0 +1,4 @@
+29c29
+<     public GlobalStepInfo getCloning() {
+---
+>     public GlobalStepInfo getCloning(	) {

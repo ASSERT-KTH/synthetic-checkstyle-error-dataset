@@ -1,0 +1,5 @@
+396c396,397
+<         this.duration = duration;
+---
+>         this.
+> duration = duration;

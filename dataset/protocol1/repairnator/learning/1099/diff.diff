@@ -1,0 +1,4 @@
+39c39
+<         dataAsJson.addProperty("repositoryName", inspector.getRepoSlug());
+---
+>         dataAsJson.addProperty("repositoryName", 	inspector.getRepoSlug());

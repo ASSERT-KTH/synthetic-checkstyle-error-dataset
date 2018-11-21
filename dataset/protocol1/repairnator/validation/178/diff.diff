@@ -1,0 +1,5 @@
+368c368,369
+<         HardwareInfoSerializer hardwareInfoSerializer = new HardwareInfoSerializer(this.engines, this.getConfig().getRunId(), this.getConfig().getBuildId()+"");
+---
+>         HardwareInfoSerializer hardwareInfoSerializer = new HardwareInfoSerializer(this.engines, 
+> this.getConfig().getRunId(), this.getConfig().getBuildId()+"");

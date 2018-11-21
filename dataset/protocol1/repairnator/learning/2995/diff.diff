@@ -1,0 +1,5 @@
+11c11,12
+<     public int getNumberAdded() {
+---
+>     public 
+> int getNumberAdded() {

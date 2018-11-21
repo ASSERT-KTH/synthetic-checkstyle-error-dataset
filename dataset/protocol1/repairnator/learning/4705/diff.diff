@@ -1,0 +1,4 @@
+14c14
+<     public static PeriodStringParser getParser() {
+---
+>    public static PeriodStringParser getParser() {

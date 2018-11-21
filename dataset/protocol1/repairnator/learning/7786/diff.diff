@@ -1,0 +1,4 @@
+62c62
+<                 logger.error("Error while writing json serialization", e);
+---
+>                logger.error("Error while writing json serialization", e);

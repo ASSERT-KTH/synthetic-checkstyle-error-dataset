@@ -1,0 +1,4 @@
+38c38
+<             modules.add(module);
+---
+>            modules.add(module);

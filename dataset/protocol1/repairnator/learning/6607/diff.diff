@@ -1,0 +1,5 @@
+149c149,150
+<     public void setFailureLocations(Set<FailureLocation> failureLocations) {
+---
+>     public void setFailureLocations(
+> Set<FailureLocation> failureLocations) {

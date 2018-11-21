@@ -1,0 +1,4 @@
+71c71
+<     public void setSources(File[] sources) {
+---
+>     public void setSources(File[	] sources) {

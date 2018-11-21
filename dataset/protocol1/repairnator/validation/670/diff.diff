@@ -1,0 +1,4 @@
+7c7
+< import eu.stamp.project.assertfixer.AssertFixerResult;
+---
+> import eu.stamp.project.assertfixer.AssertFixerResult	;

@@ -1,0 +1,5 @@
+304c304,305
+<         File repoDir = new File(this.inspector.getRepoLocalPath(), Utils.REMOTE_REPO_EXT);
+---
+>         File repoDir = new 
+> File(this.inspector.getRepoLocalPath(), Utils.REMOTE_REPO_EXT);

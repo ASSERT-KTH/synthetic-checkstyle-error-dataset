@@ -1,0 +1,5 @@
+12c12,13
+<     public RepairnatorConfigException(String msg, Throwable cause) {
+---
+>     public RepairnatorConfigException(String msg
+> , Throwable cause) {

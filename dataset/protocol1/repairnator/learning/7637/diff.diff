@@ -1,0 +1,4 @@
+67c67
+<         result.addProperty("beginDateStr", Utils.formatCompleteDate(this.beginDate));
+---
+>          result.addProperty("beginDateStr", Utils.formatCompleteDate(this.beginDate));

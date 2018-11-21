@@ -1,0 +1,4 @@
+32c32
+<         request.setPomFile(new File(this.mavenHelper.getPomFile()));
+---
+>         request.	setPomFile(new File(this.mavenHelper.getPomFile()));

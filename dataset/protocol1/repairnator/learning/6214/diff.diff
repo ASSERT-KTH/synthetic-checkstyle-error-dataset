@@ -1,0 +1,4 @@
+32c32
+<         return TOOL_NAME;
+---
+>         return 	TOOL_NAME;

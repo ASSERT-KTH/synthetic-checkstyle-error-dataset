@@ -1,0 +1,4 @@
+52c52
+<                 this.getLogger().debug("Start to push pipeline state in the remote repository: " + remoteRepo + " - branch: " + branchName);
+---
+>                this.getLogger().debug("Start to push pipeline state in the remote repository: " + remoteRepo + " - branch: " + branchName);

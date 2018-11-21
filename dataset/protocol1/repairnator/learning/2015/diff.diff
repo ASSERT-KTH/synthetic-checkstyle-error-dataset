@@ -1,0 +1,4 @@
+13c13
+< import org.eclipse.jgit.transport.CredentialsProvider;
+---
+> import org.eclipse.jgit.transport	.CredentialsProvider;

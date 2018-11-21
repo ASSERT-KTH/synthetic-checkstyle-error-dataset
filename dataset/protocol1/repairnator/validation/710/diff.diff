@@ -1,0 +1,4 @@
+39c39
+<             this.addStepError("Error while obtaining plugins from pom.xml: plugin section has not been found.");
+---
+>            this.addStepError("Error while obtaining plugins from pom.xml: plugin section has not been found.");

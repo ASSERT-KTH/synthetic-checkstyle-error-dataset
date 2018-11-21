@@ -1,0 +1,4 @@
+47c47
+<         this.reproductionDateEnd = step.getDateEnd(); // so this will always save the end of the last step executed
+---
+>        this.reproductionDateEnd = step.getDateEnd(); // so this will always save the end of the last step executed

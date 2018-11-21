@@ -1,0 +1,5 @@
+171,172c171
+<                     jobStatus.addFileToPush("repairnator.astor." + this.getAstorMode() + ".results.json");
+<                 }
+---
+>                     jobStatus.addFileToPush("repairnator.astor." + this.getAstorMode() + ".results.json");                }

@@ -1,0 +1,4 @@
+71c71
+<         result.addProperty("prNumber", build.getPullRequestNumber());
+---
+>        result.addProperty("prNumber", build.getPullRequestNumber());

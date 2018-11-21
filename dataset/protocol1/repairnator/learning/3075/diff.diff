@@ -1,0 +1,4 @@
+155c155
+<                                 this.failureNames.add(failureType);
+---
+>                                this.failureNames.add(failureType);

@@ -1,0 +1,5 @@
+111,112c111
+<                         addStepError("Got SpoonException while running " + repairToolName, e);
+<                     } catch (RuntimeException e) {
+---
+>                         addStepError("Got SpoonException while running " + repairToolName, e);                    } catch (RuntimeException e) {

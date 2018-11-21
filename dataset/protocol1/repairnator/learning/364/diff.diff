@@ -1,0 +1,4 @@
+26c26
+<         String message = "The following process: "+ processName +" launched on "+ Utils.getHostname()+ " the "+ this.launchDate.toString()+" and finished "+endDate.toString()+". "
+---
+>         String message = "The following process: "+ processName +" launched on "+ Utils.getHostname()+ " the "+ this.launchDate.toString(	)+" and finished "+endDate.toString()+". "

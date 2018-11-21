@@ -1,0 +1,5 @@
+69c69,70
+<             engine.serialize(allData, this.getType());
+---
+>             
+> engine.serialize(allData, this.getType());

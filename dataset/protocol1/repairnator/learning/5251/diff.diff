@@ -1,0 +1,4 @@
+55c55
+<                     .addNextStep(new BuildProject(this, true, BuildProject.class.getSimpleName()+"BuggyBuildCandidate"))
+---
+>                     .addNextStep(new BuildProject(this, true, BuildProject.class.getSimpleName(	)+"BuggyBuildCandidate"))

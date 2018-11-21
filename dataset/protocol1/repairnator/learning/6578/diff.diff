@@ -1,0 +1,5 @@
+154c154,155
+<                         .directory(new File(this.getInspector().getRepoLocalPath())).inheritIO();
+---
+>                         .directory(new File(this.getInspector().getRepoLocalPath()
+> )).inheritIO();

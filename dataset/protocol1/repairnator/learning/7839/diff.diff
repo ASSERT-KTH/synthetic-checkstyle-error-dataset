@@ -1,0 +1,4 @@
+452c452
+<         return bearsDelimiter;
+---
+>        return bearsDelimiter;

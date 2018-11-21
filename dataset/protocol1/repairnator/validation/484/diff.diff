@@ -1,0 +1,5 @@
+21c21,22
+<     public ComputePlugins(ProjectInspector inspector, boolean blockingStep) {
+---
+>     public ComputePlugins
+> (ProjectInspector inspector, boolean blockingStep) {

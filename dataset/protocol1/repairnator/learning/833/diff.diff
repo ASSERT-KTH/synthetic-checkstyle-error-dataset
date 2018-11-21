@@ -1,0 +1,4 @@
+195c195
+<         this.config.setBearsMode(BearsMode.valueOf(arguments.getString("bearsMode").toUpperCase()));
+---
+>        this.config.setBearsMode(BearsMode.valueOf(arguments.getString("bearsMode").toUpperCase()));

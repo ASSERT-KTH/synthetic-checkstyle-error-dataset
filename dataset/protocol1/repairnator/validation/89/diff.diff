@@ -1,0 +1,4 @@
+314c314
+<         return arguments.getInt("globalTimeout");
+---
+>         return arguments	.getInt("globalTimeout");

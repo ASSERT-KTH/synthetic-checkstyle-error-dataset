@@ -1,0 +1,5 @@
+28c28,29
+<             this.getInspector().setCheckoutType(CheckoutType.CHECKOUT_PATCHED_BUILD);
+---
+>             this.getInspector().setCheckoutType(CheckoutType.CHECKOUT_PATCHED_BUILD
+> );

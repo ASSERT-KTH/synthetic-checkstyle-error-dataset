@@ -1,0 +1,4 @@
+170c170
+<         this.config.setSmtpPassword(LauncherUtils.getArgSmtpPassword(arguments));
+---
+>         this.config.setSmtpPassword(LauncherUtils.getArgSmtpPassword(arguments	));

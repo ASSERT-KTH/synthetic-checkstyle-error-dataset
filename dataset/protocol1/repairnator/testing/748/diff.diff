@@ -1,0 +1,4 @@
+70c70
+<                 if (step instanceof CheckoutPatchedBuild || step instanceof ComputeSourceDir ||
+---
+>                if (step instanceof CheckoutPatchedBuild || step instanceof ComputeSourceDir ||

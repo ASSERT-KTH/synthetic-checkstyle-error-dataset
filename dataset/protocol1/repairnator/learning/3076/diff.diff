@@ -1,0 +1,4 @@
+165c165
+<         List<File> sortedFiles = new ArrayList<>(result);
+---
+>         List<File> sortedFiles = 	new ArrayList<>(result);

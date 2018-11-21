@@ -1,0 +1,4 @@
+103c103
+<                     if (build.getFinishedAt() != null) {
+---
+>                    if (build.getFinishedAt() != null) {

@@ -1,0 +1,4 @@
+72c72
+<             docker.startContainer(container.id());
+---
+>             docker	.startContainer(container.id());

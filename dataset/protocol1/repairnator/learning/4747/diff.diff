@@ -1,0 +1,4 @@
+41c41
+<             this.session = Session.getInstance(this.properties, new javax.mail.Authenticator() {
+---
+>             this.session = Session.getInstance(this.	properties, new javax.mail.Authenticator() {

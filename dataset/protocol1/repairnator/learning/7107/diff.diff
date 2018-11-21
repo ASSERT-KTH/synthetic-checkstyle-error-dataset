@@ -1,0 +1,4 @@
+45c45
+<             config.setPush(Boolean.parseBoolean(properties.getProperty("push")));
+---
+>            config.setPush(Boolean.parseBoolean(properties.getProperty("push")));

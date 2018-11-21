@@ -1,0 +1,4 @@
+7c7
+<     protected static final String TOOL_NAME = "AstorJKali";
+---
+>     protected 	static final String TOOL_NAME = "AstorJKali";

@@ -1,0 +1,5 @@
+40c40,41
+<         this.addDate(dataAsJson, "computedDate", new Date());
+---
+>         this
+> .addDate(dataAsJson, "computedDate", new Date());

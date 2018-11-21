@@ -1,0 +1,4 @@
+42c42
+<         this.failingClasses.add(failingClass);
+---
+>         this.failingClasses.add(failingClass)	;

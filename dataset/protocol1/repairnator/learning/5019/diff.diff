@@ -1,0 +1,4 @@
+193c193
+<             String branchLabel = ghCommitPointer.getLabel();
+---
+>             String branchLabel = ghCommitPointer.getLabel()	;

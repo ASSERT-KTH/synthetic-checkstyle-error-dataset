@@ -1,0 +1,5 @@
+65c65,66
+<                 return StepStatus.buildSkipped(this,"Error while running maven goal for NPEFix.");
+---
+>                 return StepStatus.buildSkipped(this,"Error while running maven goal for NPEFix.")
+> ;

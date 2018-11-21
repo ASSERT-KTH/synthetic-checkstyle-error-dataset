@@ -1,0 +1,4 @@
+43c43
+<         data.addProperty("runId", buildToBeInspected.getRunId());
+---
+>        data.addProperty("runId", buildToBeInspected.getRunId());

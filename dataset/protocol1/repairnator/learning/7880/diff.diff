@@ -1,0 +1,4 @@
+64c64
+<         result.addProperty("dateReproducedBuildStr", Utils.formatCompleteDate(date));
+---
+>          result.addProperty("dateReproducedBuildStr", Utils.formatCompleteDate(date));

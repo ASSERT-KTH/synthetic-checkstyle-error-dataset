@@ -1,0 +1,5 @@
+187,188c187
+<             LOGGER.error("Error while trying to kill docker container: the container id is not available. Maybe the container is not started yet.");
+<         } else {
+---
+>             LOGGER.error("Error while trying to kill docker container: the container id is not available. Maybe the container is not started yet.");        } else {

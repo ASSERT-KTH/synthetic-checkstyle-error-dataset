@@ -1,0 +1,4 @@
+39c39
+<         data.addProperty("buildId", buildToBeInspected.getBuggyBuild().getId());
+---
+>         data.addProperty("buildId", 	buildToBeInspected.getBuggyBuild().getId());

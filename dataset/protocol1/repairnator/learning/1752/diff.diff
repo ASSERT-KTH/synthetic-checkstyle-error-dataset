@@ -1,0 +1,4 @@
+37c37
+<         dataCol.add(inspector.getBuildToBeInspected().getRunId());
+---
+>         dataCol.add(inspector.getBuildToBeInspected(	).getRunId());

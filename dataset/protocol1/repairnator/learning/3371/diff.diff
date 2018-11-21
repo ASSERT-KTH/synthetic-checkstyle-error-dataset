@@ -1,0 +1,4 @@
+107c107
+<                         if (build.getState() == StateType.FAILED) {
+---
+>                         if 	(build.getState() == StateType.FAILED) {

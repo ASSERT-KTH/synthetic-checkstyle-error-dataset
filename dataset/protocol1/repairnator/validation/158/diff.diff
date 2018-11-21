@@ -1,0 +1,4 @@
+28c28
+<                 Set<String> erroringTests = failureLocation.getErroringMethods();
+---
+>                 Set<String> erroringTests 	= failureLocation.getErroringMethods();

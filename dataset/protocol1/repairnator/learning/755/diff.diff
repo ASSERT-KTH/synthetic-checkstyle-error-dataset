@@ -1,0 +1,5 @@
+59c59,60
+<         jsap.registerParameter(LauncherUtils.defineArgRunId());
+---
+>         jsap
+> .registerParameter(LauncherUtils.defineArgRunId());

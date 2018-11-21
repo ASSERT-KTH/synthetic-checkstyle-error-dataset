@@ -1,0 +1,4 @@
+311c311
+<             this.logger.info(this.steps.get(i).getName());
+---
+>            this.logger.info(this.steps.get(i).getName());

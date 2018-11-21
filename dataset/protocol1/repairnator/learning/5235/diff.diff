@@ -1,0 +1,5 @@
+299c299,300
+<                 getLogger().warn(
+---
+>                 getLogger().
+> warn(

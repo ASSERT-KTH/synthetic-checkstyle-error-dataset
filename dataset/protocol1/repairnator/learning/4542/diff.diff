@@ -1,0 +1,5 @@
+36c36,37
+<             this.addStepError("Error while testing the project.", e);
+---
+>             this.addStepError(
+> "Error while testing the project.", e);

@@ -1,0 +1,4 @@
+73c73
+<                     this.getLogger().warn("A case seems not to be considered. Buggy build will be used.");
+---
+>                     this.getLogger()	.warn("A case seems not to be considered. Buggy build will be used.");

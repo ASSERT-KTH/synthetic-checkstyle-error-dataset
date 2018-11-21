@@ -1,0 +1,4 @@
+81c81
+<         result.addProperty("travisURL", Utils.getTravisUrl(build.getId(), build.getRepository().getSlug()));
+---
+>         result.addProperty("travisURL", Utils.getTravisUrl(build.	getId(), build.getRepository().getSlug()));

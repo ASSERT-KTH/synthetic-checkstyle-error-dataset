@@ -1,0 +1,5 @@
+120c120,121
+<                 String commitCheckout = build.getCommit().getSha();
+---
+>                 String commitCheckout = build.getCommit().getSha
+> ();

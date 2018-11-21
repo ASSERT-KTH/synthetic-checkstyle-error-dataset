@@ -1,0 +1,4 @@
+187c187
+<         if (LauncherUtils.getArgDebug(arguments)) {
+---
+>         if (LauncherUtils.getArgDebug(arguments	)) {

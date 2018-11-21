@@ -1,0 +1,4 @@
+46c46
+<         String stepName = step.getName();
+---
+>        String stepName = step.getName();

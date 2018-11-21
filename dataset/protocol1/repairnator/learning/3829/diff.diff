@@ -1,0 +1,4 @@
+33c33
+<             super.setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD_SOURCE_CODE);
+---
+>            super.setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD_SOURCE_CODE);

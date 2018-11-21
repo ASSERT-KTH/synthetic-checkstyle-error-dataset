@@ -1,0 +1,5 @@
+50c50,51
+<             SerializedData serializedData = new SerializedData(this.serializeAsList(inspector, toolDiag.getKey(), toolDiag.getValue()), this.serializeAsJson(inspector, toolDiag.getKey(), toolDiag.getValue()));
+---
+>             SerializedData serializedData = new SerializedData(this.serializeAsList(inspector, toolDiag.getKey(), toolDiag.getValue()), 
+> this.serializeAsJson(inspector, toolDiag.getKey(), toolDiag.getValue()));

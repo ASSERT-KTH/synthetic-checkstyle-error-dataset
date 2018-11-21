@@ -1,0 +1,5 @@
+46,47c46
+<             this.exitCode = result.getExitCode();
+<         } catch (MavenInvocationException e) {
+---
+>             this.exitCode = result.getExitCode();        } catch (MavenInvocationException e) {

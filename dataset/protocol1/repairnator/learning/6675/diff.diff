@@ -1,0 +1,5 @@
+50c50,51
+<         if (this.getConfig().getRepairTools().contains(this.getRepairToolName())) {
+---
+>         if (this
+> .getConfig().getRepairTools().contains(this.getRepairToolName())) {

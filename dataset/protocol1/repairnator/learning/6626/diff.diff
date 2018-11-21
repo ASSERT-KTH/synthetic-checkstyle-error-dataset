@@ -1,0 +1,4 @@
+184c184
+<             lookToDate = Utils.getLastTimeFromDate(lookToDate);
+---
+>            lookToDate = Utils.getLastTimeFromDate(lookToDate);

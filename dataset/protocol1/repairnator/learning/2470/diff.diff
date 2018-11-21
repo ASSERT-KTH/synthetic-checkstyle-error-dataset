@@ -1,0 +1,5 @@
+330c330,331
+<                 if (this.config.isBearsDelimiter()) {
+---
+>                 if (this.config.
+> isBearsDelimiter()) {

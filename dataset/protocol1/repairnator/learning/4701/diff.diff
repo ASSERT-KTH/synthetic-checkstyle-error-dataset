@@ -1,0 +1,5 @@
+268c268,269
+<     private void processOutput(Map<ScannedBuildStatus, List<BuildToBeInspected>> listOfBuilds) {
+---
+>     private void processOutput(Map<
+> ScannedBuildStatus, List<BuildToBeInspected>> listOfBuilds) {

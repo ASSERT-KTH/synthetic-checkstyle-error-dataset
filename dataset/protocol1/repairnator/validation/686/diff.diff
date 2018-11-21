@@ -1,0 +1,4 @@
+201c201
+<             this.getConfig().setOutputPath(LauncherUtils.getArgOutput(arguments).getPath());
+---
+>             this.getConfig().setOutputPath(LauncherUtils.getArgOutput(arguments)	.getPath());

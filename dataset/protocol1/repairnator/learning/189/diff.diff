@@ -1,0 +1,5 @@
+95c95,96
+<         result.addProperty("scannedBuildStatus", buildToBeInspected.getStatus().name());
+---
+>         result.addProperty("scannedBuildStatus", buildToBeInspected.getStatus(
+> ).name());

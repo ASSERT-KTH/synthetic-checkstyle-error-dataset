@@ -1,0 +1,4 @@
+16c16
+<         if (this.getInspector().getJobStatus().getTestDir() == null) {
+---
+>        if (this.getInspector().getJobStatus().getTestDir() == null) {

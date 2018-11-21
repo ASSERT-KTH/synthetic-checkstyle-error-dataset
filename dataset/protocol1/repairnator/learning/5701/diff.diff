@@ -1,0 +1,4 @@
+52c52
+<             cloneRepo.addNextStep(new CheckoutBuggyBuild(this, true, CheckoutBuggyBuild.class.getSimpleName()+"Candidate"))
+---
+>             cloneRepo.addNextStep(new CheckoutBuggyBuild(this, true, CheckoutBuggyBuild.class.getSimpleName()+"Candidate"	))

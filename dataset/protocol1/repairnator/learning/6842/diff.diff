@@ -1,0 +1,4 @@
+53c53
+<                     RevCommit commit = super.getCommit();
+---
+>                    RevCommit commit = super.getCommit();

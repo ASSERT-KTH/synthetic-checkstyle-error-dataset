@@ -1,0 +1,4 @@
+25c25
+<             return StepStatus.buildError(this, PipelineState.SOURCEDIRNOTCOMPUTED);
+---
+>            return StepStatus.buildError(this, PipelineState.SOURCEDIRNOTCOMPUTED);

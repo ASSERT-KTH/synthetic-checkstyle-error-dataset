@@ -1,0 +1,4 @@
+9c9
+< import javax.mail.PasswordAuthentication;
+---
+>  import javax.mail.PasswordAuthentication;

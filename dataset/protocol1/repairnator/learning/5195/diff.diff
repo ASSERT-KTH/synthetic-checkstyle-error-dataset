@@ -1,0 +1,4 @@
+10c10
+< public class NopolAllTestsRepair extends AbstractNopolRepair {
+---
+> public class NopolAllTestsRepair extends AbstractNopolRepair 	{

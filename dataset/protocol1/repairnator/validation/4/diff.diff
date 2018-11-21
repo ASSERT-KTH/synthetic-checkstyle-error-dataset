@@ -1,0 +1,4 @@
+451c451
+<             MongoConnection mongoConnection = new MongoConnection(config.getMongodbHost(), config.getMongodbName());
+---
+>              MongoConnection mongoConnection = new MongoConnection(config.getMongodbHost(), config.getMongodbName());

@@ -1,0 +1,4 @@
+3c3
+< import fr.inria.jtravis.entities.v2.JobV2;
+---
+> import fr.inria.jtravis.entities.v2	.JobV2;

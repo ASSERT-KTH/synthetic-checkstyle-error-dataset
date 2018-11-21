@@ -1,0 +1,4 @@
+8c8
+< import com.spotify.docker.client.messages.HostConfig;
+---
+> import com.spotify.docker.client.messages	.HostConfig;

@@ -1,0 +1,5 @@
+9c9,10
+<     public CheckoutBuggyBuildTestCode(ProjectInspector inspector, boolean blockingStep) {
+---
+>     public CheckoutBuggyBuildTestCode(ProjectInspector inspector, 
+> boolean blockingStep) {

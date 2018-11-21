@@ -1,0 +1,4 @@
+63c63
+<                     .addNextStep(new TestProject(this, true, TestProject.class.getSimpleName()+"PatchedBuildCandidate"))
+---
+>                     .addNextStep(new TestProject(this, true, TestProject.class.getSimpleName(	)+"PatchedBuildCandidate"))

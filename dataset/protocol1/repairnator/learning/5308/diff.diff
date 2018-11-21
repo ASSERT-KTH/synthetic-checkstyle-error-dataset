@@ -1,0 +1,5 @@
+32c32,33
+<             result.add("ID="+build.getRepository().getId());
+---
+>             result.add("ID="+
+> build.getRepository().getId());

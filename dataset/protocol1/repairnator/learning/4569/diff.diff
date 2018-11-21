@@ -1,0 +1,4 @@
+37c37
+<         String jsonString = gson.toJson(this.getInspector().getJobStatus().getProperties());
+---
+>         String jsonString = gson.toJson(this.getInspector().	getJobStatus().getProperties());

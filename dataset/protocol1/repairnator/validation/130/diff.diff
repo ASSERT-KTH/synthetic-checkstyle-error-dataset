@@ -1,0 +1,5 @@
+49c49,50
+<     public void setError(boolean error) {
+---
+>     
+> public void setError(boolean error) {

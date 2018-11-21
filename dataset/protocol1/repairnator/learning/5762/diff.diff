@@ -1,0 +1,5 @@
+18c18,19
+<     private int nbStatements;
+---
+>     
+> private int nbStatements;

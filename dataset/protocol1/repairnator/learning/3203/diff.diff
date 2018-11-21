@@ -1,0 +1,4 @@
+12c12
+<     public ProcessSerializer(List<SerializerEngine> engines, SerializerType type) {
+---
+>      public ProcessSerializer(List<SerializerEngine> engines, SerializerType type) {

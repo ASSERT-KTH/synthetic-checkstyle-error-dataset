@@ -1,0 +1,4 @@
+136c136
+<                             FailingClass failingClass = properties.getTests().addFailingClass(testSuite.getFullClassName());
+---
+>                            FailingClass failingClass = properties.getTests().addFailingClass(testSuite.getFullClassName());

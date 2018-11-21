@@ -1,0 +1,4 @@
+39c39
+<             element.addProperty("patchedBuildId", inspector.getPatchedBuild().getId());
+---
+>            element.addProperty("patchedBuildId", inspector.getPatchedBuild().getId());

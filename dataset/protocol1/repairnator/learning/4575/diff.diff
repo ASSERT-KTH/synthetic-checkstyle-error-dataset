@@ -1,0 +1,4 @@
+39c39
+<         for (AbstractRepairStep repairStep : this.repairToolLoader) {
+---
+>         for (AbstractRepairStep repairStep : this.repairToolLoader) 	{

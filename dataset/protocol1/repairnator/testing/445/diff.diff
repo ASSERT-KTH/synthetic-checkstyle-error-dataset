@@ -1,0 +1,5 @@
+49,50c49
+<                 return stepStatus.getDiagnostic();
+<             }
+---
+>                 return stepStatus.getDiagnostic();            }

@@ -1,0 +1,5 @@
+165c165,166
+<         LOGGER.info("Find "+branchNames.size()+" branches to run.");
+---
+>         LOGGER.info("Find "+branchNames.
+> size()+" branches to run.");

@@ -1,0 +1,4 @@
+66c66
+<                     failure.getIsError() == isError) {
+---
+>                     failure.getIsError() == isError	) {

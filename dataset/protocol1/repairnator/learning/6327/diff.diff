@@ -1,0 +1,4 @@
+94c94
+<             logger.warn("From is null or to is empty. Notification won't be send.");
+---
+>            logger.warn("From is null or to is empty. Notification won't be send.");

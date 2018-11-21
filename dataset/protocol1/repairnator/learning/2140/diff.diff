@@ -1,0 +1,5 @@
+23c23,24
+< public class InspectorSerializer extends AbstractDataSerializer {
+---
+> public 
+> class InspectorSerializer extends AbstractDataSerializer {

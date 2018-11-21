@@ -1,0 +1,4 @@
+84c84
+<         Commits commits = this.getInspector().getJobStatus().getProperties().getCommits();
+---
+>         Commits commits = this.getInspector().getJobStatus().getProperties(	).getCommits();

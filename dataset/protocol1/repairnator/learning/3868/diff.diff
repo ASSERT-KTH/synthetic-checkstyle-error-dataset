@@ -1,0 +1,4 @@
+66c66
+<                     build = this.getInspector().getPatchedBuild();
+---
+>                    build = this.getInspector().getPatchedBuild();

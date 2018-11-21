@@ -1,0 +1,4 @@
+36c36
+<         dataAsJson.addProperty("hostname", Utils.getHostname());
+---
+>         dataAsJson.addProperty("hostname", Utils.	getHostname());

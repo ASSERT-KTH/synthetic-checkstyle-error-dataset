@@ -1,0 +1,4 @@
+43c43
+<         return model.getBuild().getPlugins();
+---
+>          return model.getBuild().getPlugins();

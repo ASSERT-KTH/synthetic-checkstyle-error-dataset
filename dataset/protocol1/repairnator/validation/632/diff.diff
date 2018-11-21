@@ -1,0 +1,4 @@
+57c57
+<         this.whiteListedRepository = new ArrayList<>();
+---
+>         this.whiteListedRepository = 	new ArrayList<>();

@@ -1,0 +1,5 @@
+142,143c142
+<                     return StepStatus.buildError(this, PipelineState.BUILDNOTCHECKEDOUT);
+<                 }
+---
+>                     return StepStatus.buildError(this, PipelineState.BUILDNOTCHECKEDOUT);                }

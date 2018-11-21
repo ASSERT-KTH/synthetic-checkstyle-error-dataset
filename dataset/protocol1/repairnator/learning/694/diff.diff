@@ -1,0 +1,5 @@
+47c47,48
+<                 RevCommit headRev = revWalk.parseCommit(oldHeadRef.getObjectId());
+---
+>                 RevCommit headRev = revWalk.parseCommit(oldHeadRef.getObjectId(
+> ));

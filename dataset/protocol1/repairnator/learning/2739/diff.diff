@@ -1,0 +1,5 @@
+133c133,134
+<         nopolContext.setMaxTimeInMinutes(timeout);
+---
+>         nopolContext.
+> setMaxTimeInMinutes(timeout);

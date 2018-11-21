@@ -1,0 +1,5 @@
+73c73,74
+<         jsap.registerParameter(LauncherUtils.defineArgMongoDBHost());
+---
+>         jsap.registerParameter
+> (LauncherUtils.defineArgMongoDBHost());

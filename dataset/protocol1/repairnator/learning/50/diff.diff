@@ -1,0 +1,4 @@
+12c12
+<     private long patchedBuildId = NO_PATCH;
+---
+>     private long patchedBuildId 	= NO_PATCH;

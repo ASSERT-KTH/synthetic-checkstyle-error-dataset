@@ -1,0 +1,4 @@
+38c38
+<             logger.error("Error while reading the config.ini file. ",e);
+---
+>            logger.error("Error while reading the config.ini file. ",e);

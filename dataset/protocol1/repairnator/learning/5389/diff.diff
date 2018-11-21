@@ -1,0 +1,5 @@
+189c189,190
+<             LOGGER.info("Killing the docker container with id "+containerId+". Forced killing date: "+this.limitDateBeforeKilling);
+---
+>             LOGGER.info("Killing the docker container with id "+containerId+". Forced killing date: "+this
+> .limitDateBeforeKilling);

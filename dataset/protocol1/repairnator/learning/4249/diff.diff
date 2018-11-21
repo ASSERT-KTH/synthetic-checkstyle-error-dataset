@@ -1,0 +1,4 @@
+81c81
+<         jsap.registerParameter(LauncherUtils.defineArgDockerImageName());
+---
+>         jsap.registerParameter	(LauncherUtils.defineArgDockerImageName());

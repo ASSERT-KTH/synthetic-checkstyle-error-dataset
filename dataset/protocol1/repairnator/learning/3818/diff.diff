@@ -1,0 +1,4 @@
+46c46
+<         dataCol.add(Utils.formatOnlyDay(build.getFinishedAt()));
+---
+>        dataCol.add(Utils.formatOnlyDay(build.getFinishedAt()));

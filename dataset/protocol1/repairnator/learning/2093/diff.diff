@@ -1,0 +1,4 @@
+44c44
+<         JsonObject intermediateObject = new JsonObject();
+---
+>         JsonObject intermediateObject = 	new JsonObject();

@@ -1,0 +1,4 @@
+119c119
+<     public void setBug(boolean bug, String bugType) {
+---
+>     public void 	setBug(boolean bug, String bugType) {

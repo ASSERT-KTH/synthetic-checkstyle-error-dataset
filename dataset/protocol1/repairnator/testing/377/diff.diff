@@ -1,0 +1,5 @@
+127c127,128
+<         int seconds = (int) (diffInMilliseconds / 1000) % 60;
+---
+>         int seconds = (int) (
+> diffInMilliseconds / 1000) % 60;

@@ -1,0 +1,5 @@
+57c57,58
+<         for (RepairPatch repairPatch : inspector.getJobStatus().getAllPatches()) {
+---
+>         for (RepairPatch repairPatch : inspector.getJobStatus().
+> getAllPatches()) {

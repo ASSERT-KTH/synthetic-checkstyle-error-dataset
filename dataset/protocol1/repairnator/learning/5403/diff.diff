@@ -1,0 +1,5 @@
+35c35,36
+<         if (gatherTestInformation.getNbRunningTests() == 0) {
+---
+>         if (gatherTestInformation.
+> getNbRunningTests() == 0) {

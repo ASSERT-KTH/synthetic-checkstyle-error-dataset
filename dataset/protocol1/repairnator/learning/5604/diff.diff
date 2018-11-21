@@ -1,0 +1,4 @@
+146c146
+<         nopolContext.setRootProject(new File(repoLocalPath).toPath());
+---
+>         nopolContext.setRootProject(new File	(repoLocalPath).toPath());

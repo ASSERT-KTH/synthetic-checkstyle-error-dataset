@@ -1,0 +1,5 @@
+64,65c64
+<         for (Failure failure : this.failures) {
+<             if (failure.getFailureName().equals(failureName) &&
+---
+>         for (Failure failure : this.failures) {            if (failure.getFailureName().equals(failureName) &&

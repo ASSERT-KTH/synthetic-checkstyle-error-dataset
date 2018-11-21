@@ -1,0 +1,4 @@
+127c127
+<             diag.addProperty("repairType", result.getRepairType().name());
+---
+>             diag.addProperty("repairType", result.getRepairType()	.name());

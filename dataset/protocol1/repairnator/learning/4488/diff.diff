@@ -1,0 +1,5 @@
+94c94,95
+<             committerIdent =  new PersonIdent(RepairnatorConfig.getInstance().getGithubUserName(), RepairnatorConfig.getInstance().getGithubUserEmail());
+---
+>             
+> committerIdent =  new PersonIdent(RepairnatorConfig.getInstance().getGithubUserName(), RepairnatorConfig.getInstance().getGithubUserEmail());

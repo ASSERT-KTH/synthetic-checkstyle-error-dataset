@@ -1,0 +1,4 @@
+30c30
+<         result.add(Utils.formatCompleteDate(build.getFinishedAt()));
+---
+>         result.add(Utils.formatCompleteDate(build.getFinishedAt()	));

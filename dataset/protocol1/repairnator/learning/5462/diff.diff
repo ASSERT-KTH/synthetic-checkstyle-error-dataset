@@ -1,0 +1,5 @@
+15c15,16
+<         if (gatherTestInformation.getNbErroringTests() + gatherTestInformation.getNbFailingTests() > 0) {
+---
+>         if (gatherTestInformation.getNbErroringTests() + gatherTestInformation.getNbFailingTests
+> () > 0) {

@@ -1,0 +1,5 @@
+18c18,19
+<                 if (this.getInspector() instanceof ProjectInspector4Bears &&
+---
+>                 if (
+> this.getInspector() instanceof ProjectInspector4Bears &&

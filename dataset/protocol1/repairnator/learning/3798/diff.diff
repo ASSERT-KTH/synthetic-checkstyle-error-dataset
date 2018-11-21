@@ -1,0 +1,5 @@
+70c70,71
+<         return GITHUB_URL + slug + REMOTE_REPO_EXT;
+---
+>         return GITHUB_URL + slug + REMOTE_REPO_EXT
+> ;

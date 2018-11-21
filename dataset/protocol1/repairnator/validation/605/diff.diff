@@ -1,0 +1,4 @@
+18c18
+<         this.testClass = testClass;
+---
+>         this.testClass = 	testClass;

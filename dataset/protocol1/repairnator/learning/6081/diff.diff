@@ -1,0 +1,4 @@
+37c37
+<             for (FailureType failureType : failureLocation.getFailures()) {
+---
+>             for (FailureType 	failureType : failureLocation.getFailures()) {

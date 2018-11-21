@@ -1,0 +1,4 @@
+20c20
+<         this.repairTools = new HashMap<>();
+---
+>         this.repairTools = new HashMap<>(	);

@@ -1,0 +1,5 @@
+311c311,312
+<             if (!failureNames.contains(failureDetail.getFailureName())) {
+---
+>             if (
+> !failureNames.contains(failureDetail.getFailureName())) {

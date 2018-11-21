@@ -1,0 +1,4 @@
+10c10
+<     private List<String> stepNames;
+---
+>     private List<String> stepNames	;

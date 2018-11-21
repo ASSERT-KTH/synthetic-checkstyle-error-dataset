@@ -1,0 +1,5 @@
+13c13,14
+< import fr.inria.spirals.repairnator.notifier.engines.NotifierEngine;
+---
+> import fr.inria.
+> spirals.repairnator.notifier.engines.NotifierEngine;

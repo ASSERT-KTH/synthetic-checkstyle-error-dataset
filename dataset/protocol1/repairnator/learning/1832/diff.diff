@@ -1,0 +1,5 @@
+17c17,18
+<     private ServiceLoader<AbstractRepairStep> repairToolLoader = ServiceLoader.load(AbstractRepairStep.class);
+---
+>     private ServiceLoader<AbstractRepairStep> repairToolLoader = ServiceLoader.load(AbstractRepairStep
+> .class);

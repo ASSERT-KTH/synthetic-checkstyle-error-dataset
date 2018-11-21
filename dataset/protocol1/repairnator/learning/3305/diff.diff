@@ -1,0 +1,5 @@
+23c23,24
+<     private Logger logger = LoggerFactory.getLogger(EmailNotifierEngine.class);
+---
+>     private Logger logger = LoggerFactory.getLogger
+> (EmailNotifierEngine.class);

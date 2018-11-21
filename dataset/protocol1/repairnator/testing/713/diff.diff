@@ -1,0 +1,4 @@
+237c237
+<             cloneRepo.setNotifiers(this.notifiers);
+---
+>            cloneRepo.setNotifiers(this.notifiers);

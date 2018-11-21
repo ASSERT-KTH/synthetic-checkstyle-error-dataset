@@ -1,0 +1,4 @@
+18c18
+<         ProjectInspector inspector = gatherTestInformation.getInspector();
+---
+>          ProjectInspector inspector = gatherTestInformation.getInspector();

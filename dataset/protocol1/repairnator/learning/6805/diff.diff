@@ -1,0 +1,4 @@
+58c58
+<             allData.add(new SerializedData(this.serializeAsList(inspector.getBuildToBeInspected(), repairPatch), this.serializeAsJson(inspector.getBuildToBeInspected(), repairPatch)));
+---
+>             allData.add(new SerializedData(this.serializeAsList(inspector.getBuildToBeInspected(), repairPatch), this.	serializeAsJson(inspector.getBuildToBeInspected(), repairPatch)));

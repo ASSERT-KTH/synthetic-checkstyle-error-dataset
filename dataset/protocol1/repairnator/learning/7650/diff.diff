@@ -1,0 +1,5 @@
+169c169,170
+<         if (LauncherUtils.getArgOutput(arguments) != null) {
+---
+>         if (LauncherUtils.getArgOutput
+> (arguments) != null) {

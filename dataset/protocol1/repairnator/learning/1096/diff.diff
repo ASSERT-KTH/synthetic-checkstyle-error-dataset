@@ -1,0 +1,4 @@
+43c43
+<         result.addProperty("hostname", Utils.getHostname());
+---
+>        result.addProperty("hostname", Utils.getHostname());

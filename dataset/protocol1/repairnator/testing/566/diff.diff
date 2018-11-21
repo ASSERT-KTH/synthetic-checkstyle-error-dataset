@@ -1,0 +1,5 @@
+47c47,48
+<             StepStatus stepStatus = stepStatuses.get(i);
+---
+>             StepStatus stepStatus = stepStatuses.get
+> (i);

@@ -1,0 +1,5 @@
+20c20,21
+<         this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberTestFiles(numberTestFiles);
+---
+>         this.getInspector().getJobStatus().getProperties().getProjectMetrics().
+> setNumberTestFiles(numberTestFiles);

@@ -1,0 +1,5 @@
+288,289c288
+<                 if (RepairnatorConfig.getInstance().getLauncherMode() == LauncherMode.BEARS) {
+<                     for (Job job : build.getJobs()) {
+---
+>                 if (RepairnatorConfig.getInstance().getLauncherMode() == LauncherMode.BEARS) {                    for (Job job : build.getJobs()) {

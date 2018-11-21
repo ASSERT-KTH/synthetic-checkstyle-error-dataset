@@ -1,0 +1,4 @@
+261c261
+<                             if (jobLog.getTestsInformation() != null && jobLog.getTestsInformation().getRunning() > 0) {
+---
+>                             if 	(jobLog.getTestsInformation() != null && jobLog.getTestsInformation().getRunning() > 0) {

@@ -1,0 +1,4 @@
+59c59
+<                 branchName = pullRequest.getHeadRef().getRef();
+---
+>                branchName = pullRequest.getHeadRef().getRef();

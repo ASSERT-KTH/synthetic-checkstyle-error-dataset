@@ -1,0 +1,5 @@
+23c23,24
+<         this.getLogger().debug("Launching tests with maven...");
+---
+>         
+> this.getLogger().debug("Launching tests with maven...");

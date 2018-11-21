@@ -1,0 +1,4 @@
+280c280
+<         String filePathExtension = outputPath.substring(lastIndexOfSeparator);
+---
+>        String filePathExtension = outputPath.substring(lastIndexOfSeparator);

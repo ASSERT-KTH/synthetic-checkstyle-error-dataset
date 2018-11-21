@@ -1,0 +1,5 @@
+20c20,21
+<     public StepStatus(AbstractStep step, StatusKind status, String diagnostic) {
+---
+>     public 
+> StepStatus(AbstractStep step, StatusKind status, String diagnostic) {

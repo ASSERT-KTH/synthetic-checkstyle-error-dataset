@@ -1,0 +1,5 @@
+234c234,235
+<                     this.addInBlacklistRepository(repository, BlacklistedSerializer.Reason.UNKNOWN_BUILD_TOOL, "");
+---
+>                     this.addInBlacklistRepository(repository, BlacklistedSerializer.Reason
+> .UNKNOWN_BUILD_TOOL, "");

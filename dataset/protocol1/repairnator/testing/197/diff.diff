@@ -1,0 +1,4 @@
+18c18
+<     private GlobalStepInfo cloning;
+---
+>    private GlobalStepInfo cloning;

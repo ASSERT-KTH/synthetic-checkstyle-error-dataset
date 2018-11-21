@@ -1,0 +1,4 @@
+92c92
+<             this.getInspector().getJobStatus().setRepairSourceDir(null);
+---
+>             this.getInspector().getJobStatus().setRepairSourceDir(null)	;

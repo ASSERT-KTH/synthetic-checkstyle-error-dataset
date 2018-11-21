@@ -1,0 +1,4 @@
+50c50
+<         result.addProperty("repoId", repo.getId());
+---
+>        result.addProperty("repoId", repo.getId());

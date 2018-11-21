@@ -1,0 +1,4 @@
+57c57
+<     private JsonElement serializeAsJson(BuildToBeInspected buildToBeInspected) {
+---
+>     private JsonElement serializeAsJson	(BuildToBeInspected buildToBeInspected) {

@@ -1,0 +1,4 @@
+43c43
+<         final RepairPatch that = (RepairPatch) o;
+---
+>         final RepairPatch that = (	RepairPatch) o;

@@ -1,0 +1,4 @@
+226c226
+<         this.getConfig().setZ3solverPath(arguments.getFile("z3").getPath());
+---
+>         this.getConfig().setZ3solverPath(arguments.getFile(	"z3").getPath());

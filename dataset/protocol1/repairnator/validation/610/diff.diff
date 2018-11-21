@@ -1,0 +1,4 @@
+42c42
+<         JobStatus jobStatus = this.getInspector().getJobStatus();
+---
+>         JobStatus jobStatus = this.getInspector	().getJobStatus();

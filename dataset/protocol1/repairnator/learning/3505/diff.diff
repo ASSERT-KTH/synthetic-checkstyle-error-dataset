@@ -1,0 +1,4 @@
+246c246
+<         File nopolLog = new File(System.getProperty("user.dir"), "debug.log");
+---
+>         File 	nopolLog = new File(System.getProperty("user.dir"), "debug.log");

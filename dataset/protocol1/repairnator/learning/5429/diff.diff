@@ -1,0 +1,4 @@
+166c166
+<         this.hasBeenPatched = hasBeenPatched;
+---
+>        this.hasBeenPatched = hasBeenPatched;

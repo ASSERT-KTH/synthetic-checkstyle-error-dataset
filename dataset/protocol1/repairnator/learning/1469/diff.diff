@@ -1,0 +1,4 @@
+213c213
+<         if (jobStatus.isHasBeenPatched() && !jobStatus.isHasBeenForked() && config.isFork()) {
+---
+>         if (jobStatus.isHasBeenPatched() && !jobStatus.isHasBeenForked() && 	config.isFork()) {

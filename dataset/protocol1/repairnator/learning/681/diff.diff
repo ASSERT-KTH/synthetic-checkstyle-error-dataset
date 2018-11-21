@@ -1,0 +1,4 @@
+99c99
+<             return value.get(index).toString();
+---
+>            return value.get(index).toString();

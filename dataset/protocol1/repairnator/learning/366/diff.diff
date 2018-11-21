@@ -1,0 +1,4 @@
+94c94
+<                         File dirFromPom = new File(pathDirFromPom);
+---
+>                        File dirFromPom = new File(pathDirFromPom);

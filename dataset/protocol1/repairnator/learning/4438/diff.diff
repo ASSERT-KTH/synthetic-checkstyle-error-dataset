@@ -1,0 +1,4 @@
+24c24
+<         String subject = "Process "+processName+" on "+Utils.getHostname()+" finished";
+---
+>          String subject = "Process "+processName+" on "+Utils.getHostname()+" finished";

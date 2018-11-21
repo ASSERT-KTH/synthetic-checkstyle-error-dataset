@@ -1,0 +1,5 @@
+193c193,194
+<         if (this.endProcessNotifier != null) {
+---
+>         if (this.endProcessNotifier != null
+> ) {

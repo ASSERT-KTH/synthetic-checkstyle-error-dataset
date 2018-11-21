@@ -1,0 +1,5 @@
+11c11,12
+<     private long buggyBuildId;
+---
+>     private long 
+> buggyBuildId;

@@ -1,0 +1,4 @@
+12c12
+<     public FailingClass(String testClass) {
+---
+>     public FailingClass(String testClass) 	{

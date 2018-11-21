@@ -1,0 +1,5 @@
+72c72,73
+<         result.addProperty("totalJavaFailingBuilds", this.scanner.getTotalBuildInJavaFailing());
+---
+>         result.addProperty("totalJavaFailingBuilds", this.scanner.getTotalBuildInJavaFailing
+> ());

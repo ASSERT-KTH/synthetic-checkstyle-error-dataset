@@ -1,0 +1,4 @@
+75c75
+<         result.addProperty("totalFailingAndPassingBuildPairs", this.scanner.getTotalNumberOfFailingAndPassingBuildPairs());
+---
+>         result.addProperty("totalFailingAndPassingBuildPairs", this.scanner.getTotalNumberOfFailingAndPassingBuildPairs()	);

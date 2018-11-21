@@ -1,0 +1,5 @@
+29c29,30
+<     private void computeMetricsOnSourceDirs(File[] dirs) {
+---
+>     private void computeMetricsOnSourceDirs(File[] 
+> dirs) {

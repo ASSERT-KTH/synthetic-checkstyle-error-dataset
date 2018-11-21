@@ -1,0 +1,4 @@
+64c64
+<         for (Map.Entry<String, Integer> stepDuration : durations.entrySet()) {
+---
+>         for (	Map.Entry<String, Integer> stepDuration : durations.entrySet()) {

@@ -1,0 +1,4 @@
+205c205
+<             Tests tests = properties.getTests();
+---
+>            Tests tests = properties.getTests();

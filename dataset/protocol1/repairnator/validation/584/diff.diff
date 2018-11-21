@@ -1,0 +1,4 @@
+231c231
+<         if (arguments.getFile("projectsToIgnore") != null) {
+---
+>         if (arguments.getFile("projectsToIgnore") 	!= null) {

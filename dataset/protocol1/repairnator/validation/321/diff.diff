@@ -1,0 +1,5 @@
+385c385,386
+<             for (java.util.Iterator<?> errs = arguments.getErrorMessageIterator(); errs.hasNext();) {
+---
+>             for (java.util.Iterator<?> errs = arguments.getErrorMessageIterator()
+> ; errs.hasNext();) {

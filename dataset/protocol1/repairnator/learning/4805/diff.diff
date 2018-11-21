@@ -1,0 +1,4 @@
+50c50
+<         dataCol.add(Utils.getTravisUrl(build.getId(), build.getRepository().getSlug()));
+---
+>        dataCol.add(Utils.getTravisUrl(build.getId(), build.getRepository().getSlug()));

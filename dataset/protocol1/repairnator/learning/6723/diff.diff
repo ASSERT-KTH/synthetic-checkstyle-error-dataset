@@ -1,0 +1,5 @@
+54c54,55
+<         this.logDirectory = logDirectory;
+---
+>         this.logDirectory = 
+> logDirectory;

@@ -1,0 +1,4 @@
+53c53
+<         result = 31 * result + (failureDetail != null ? failureDetail.hashCode() : 0);
+---
+>         result = 31 * result + (failureDetail != null ? failureDetail.hashCode() : 	0);

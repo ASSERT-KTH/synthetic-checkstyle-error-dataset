@@ -1,0 +1,4 @@
+237c237
+<         String imageId = DockerHelper.findDockerImage(this.config.getDockerImageName(), this.getDockerClient());
+---
+>         String imageId = DockerHelper.	findDockerImage(this.config.getDockerImageName(), this.getDockerClient());

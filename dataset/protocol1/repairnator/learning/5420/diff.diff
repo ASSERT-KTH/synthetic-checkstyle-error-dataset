@@ -1,0 +1,4 @@
+21c21
+<             this.runNopol(this.getInspector().getJobStatus().getFailureLocations(), Collections.EMPTY_LIST, true);
+---
+>             this.runNopol(this.getInspector().getJobStatus().getFailureLocations(), 	Collections.EMPTY_LIST, true);

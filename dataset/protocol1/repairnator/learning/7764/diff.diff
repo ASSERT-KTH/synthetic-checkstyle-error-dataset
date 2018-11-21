@@ -1,0 +1,4 @@
+44c44
+<     public void removeSubmittedRunnablePipelineContainer(RunnablePipelineContainer pipelineContainer) {
+---
+>     public void removeSubmittedRunnablePipelineContainer	(RunnablePipelineContainer pipelineContainer) {

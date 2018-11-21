@@ -1,0 +1,5 @@
+8c8,9
+<     public RepairnatorConfigException(String msg) {
+---
+>     public 
+> RepairnatorConfigException(String msg) {

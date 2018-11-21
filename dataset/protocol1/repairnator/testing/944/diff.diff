@@ -1,0 +1,4 @@
+42c42
+<             return StepStatus.buildError(this, PipelineState.NOTFAILING);
+---
+>            return StepStatus.buildError(this, PipelineState.NOTFAILING);

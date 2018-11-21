@@ -1,0 +1,4 @@
+31c31
+<             } else if (inspector4Bears.getJobStatus().isReproducedAsFail()) {
+---
+>             } else if (inspector4Bears.getJobStatus	().isReproducedAsFail()) {

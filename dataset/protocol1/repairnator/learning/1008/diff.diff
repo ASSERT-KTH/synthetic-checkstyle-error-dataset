@@ -1,0 +1,4 @@
+157c157
+<     public void setGitBranchUrl(String gitBranchUrl) {
+---
+>     public void 	setGitBranchUrl(String gitBranchUrl) {

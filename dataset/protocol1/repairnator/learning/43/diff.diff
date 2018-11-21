@@ -1,0 +1,5 @@
+56c56,57
+<         this.numberSourceFiles = numberSourceFiles;
+---
+>         this
+> .numberSourceFiles = numberSourceFiles;

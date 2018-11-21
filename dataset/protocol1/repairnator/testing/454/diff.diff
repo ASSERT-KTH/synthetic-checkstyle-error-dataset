@@ -1,0 +1,4 @@
+34c34
+<         reproductionDateBeginning = reproductionDateBeginning == null ? new Date() : reproductionDateBeginning;
+---
+>        reproductionDateBeginning = reproductionDateBeginning == null ? new Date() : reproductionDateBeginning;

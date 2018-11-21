@@ -1,0 +1,5 @@
+49,50c49
+<     private void writeNewLine(BufferedWriter stream, String line) {
+<         if (stream != null) {
+---
+>     private void writeNewLine(BufferedWriter stream, String line) {        if (stream != null) {

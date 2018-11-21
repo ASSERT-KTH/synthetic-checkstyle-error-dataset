@@ -1,0 +1,4 @@
+54c54
+<                 if (this.getConfig().getGithubToken() == null || this.getConfig().getGithubToken().equals("")) {
+---
+>                 if (this.getConfig().getGithubToken() == null || this.getConfig().getGithubToken().equals("")	) {

@@ -1,0 +1,4 @@
+186c186
+<         if (lookFromDate == null || lookToDate == null || lookFromDate.after(lookToDate)) {
+---
+>         if (lookFromDate == null || lookToDate 	== null || lookFromDate.after(lookToDate)) {

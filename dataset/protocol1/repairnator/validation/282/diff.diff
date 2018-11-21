@@ -1,0 +1,4 @@
+36c36
+<     public void addStep(String stepName, int stepDuration) {
+---
+>    public void addStep(String stepName, int stepDuration) {

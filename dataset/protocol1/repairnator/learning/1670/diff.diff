@@ -1,0 +1,5 @@
+62,63c62
+<         }
+<         this.getInspector().getJobStatus().setModules(modules);
+---
+>         }        this.getInspector().getJobStatus().setModules(modules);

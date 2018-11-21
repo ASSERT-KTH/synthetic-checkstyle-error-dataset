@@ -1,0 +1,4 @@
+58c58
+<         JsonObject result = new JsonObject();
+---
+>        JsonObject result = new JsonObject();

@@ -1,0 +1,4 @@
+50c50
+<     private List<Object> serializeAsList() {
+---
+>    private List<Object> serializeAsList() {

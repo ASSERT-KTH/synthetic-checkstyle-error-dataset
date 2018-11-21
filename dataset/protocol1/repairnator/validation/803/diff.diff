@@ -1,0 +1,4 @@
+209c209
+<                                 LOGGER.error("The build "+buggyBuildId+" will not be processed because there is no next build for it in the input file.");
+---
+>                                 LOGGER	.error("The build "+buggyBuildId+" will not be processed because there is no next build for it in the input file.");

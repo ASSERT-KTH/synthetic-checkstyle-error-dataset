@@ -1,0 +1,4 @@
+7c7
+<     void notify(String subject, String message);
+---
+>     void notify	(String subject, String message);

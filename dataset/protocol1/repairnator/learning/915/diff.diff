@@ -1,0 +1,4 @@
+88c88
+<         if (this.sleepTime == -1) {
+---
+>         if 	(this.sleepTime == -1) {

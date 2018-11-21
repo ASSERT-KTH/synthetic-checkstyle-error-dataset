@@ -1,0 +1,5 @@
+42,43c42
+<             return imageId;
+<         } catch (InterruptedException|DockerException e) {
+---
+>             return imageId;        } catch (InterruptedException|DockerException e) {

@@ -1,0 +1,4 @@
+288c288
+<                 if (RepairnatorConfig.getInstance().getLauncherMode() == LauncherMode.BEARS) {
+---
+>                 if (RepairnatorConfig.getInstance().getLauncherMode(	) == LauncherMode.BEARS) {

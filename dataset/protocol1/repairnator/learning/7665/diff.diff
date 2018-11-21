@@ -1,0 +1,5 @@
+57c57,58
+<                         this.setPushState(PushState.PATCH_COMMITTED);
+---
+>                         this.setPushState(
+> PushState.PATCH_COMMITTED);

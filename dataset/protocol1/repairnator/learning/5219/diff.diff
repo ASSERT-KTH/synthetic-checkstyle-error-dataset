@@ -1,0 +1,4 @@
+64c64
+<         this.waitingBuilds = new LinkedBlockingDeque<>(this.nbThreads*4);
+---
+>        this.waitingBuilds = new LinkedBlockingDeque<>(this.nbThreads*4);

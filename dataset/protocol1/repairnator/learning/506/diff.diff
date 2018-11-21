@@ -1,0 +1,5 @@
+40c40,41
+<     public void addFailingMethod(String failingMethod) {
+---
+>     public void 
+> addFailingMethod(String failingMethod) {

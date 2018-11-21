@@ -1,0 +1,4 @@
+16c16
+<         this.stepNames = new ArrayList<>();
+---
+>        this.stepNames = new ArrayList<>();

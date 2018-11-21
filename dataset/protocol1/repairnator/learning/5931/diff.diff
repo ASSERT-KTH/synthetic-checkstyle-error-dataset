@@ -1,0 +1,5 @@
+234c234,235
+<     private void observeAndNotify() {
+---
+>     
+> private void observeAndNotify() {

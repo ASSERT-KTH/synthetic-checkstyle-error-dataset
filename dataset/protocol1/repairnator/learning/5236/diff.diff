@@ -1,0 +1,5 @@
+24c24,25
+<             return Duration.parse(s);
+---
+>             return Duration.parse(s)
+> ;

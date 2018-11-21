@@ -1,0 +1,5 @@
+176c176,177
+<             this.logger.debug("Get repo " + slug);
+---
+>             this.logger.debug("Get repo " 
+> + slug);

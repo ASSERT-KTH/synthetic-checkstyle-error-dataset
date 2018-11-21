@@ -1,0 +1,4 @@
+350c350
+<             patchDiff.getFiles().setNumberDeleted(deletedFiles.size());
+---
+>             patchDiff.getFiles().setNumberDeleted(deletedFiles.size()	);

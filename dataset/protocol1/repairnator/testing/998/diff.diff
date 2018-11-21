@@ -1,0 +1,5 @@
+59c59,60
+<         } else if (step instanceof BuildProject &&
+---
+>         } else if 
+> (step instanceof BuildProject &&

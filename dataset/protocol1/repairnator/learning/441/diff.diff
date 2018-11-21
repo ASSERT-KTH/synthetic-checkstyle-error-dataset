@@ -1,0 +1,5 @@
+41c41,42
+<         if (string == null || string.length() == 0) {
+---
+>         if (string == null || 
+> string.length() == 0) {

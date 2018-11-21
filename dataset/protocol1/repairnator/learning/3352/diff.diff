@@ -1,0 +1,4 @@
+39c39
+<             this.docker = DockerHelper.initDockerClient();
+---
+>             this.docker = DockerHelper.initDockerClient(	);

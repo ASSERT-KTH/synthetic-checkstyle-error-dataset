@@ -1,0 +1,4 @@
+31c31
+<         dataCol.add(Utils.formatCompleteDate(this.scanner.getLookFromDate()));
+---
+>          dataCol.add(Utils.formatCompleteDate(this.scanner.getLookFromDate()));

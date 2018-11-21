@@ -1,0 +1,4 @@
+179c179
+<                 nopolInformation.setNbStatements(result.getNbStatements());
+---
+>                nopolInformation.setNbStatements(result.getNbStatements());

@@ -1,0 +1,4 @@
+57c57
+<     public void setProjectRootPomPath(String projectRootPomPath) {
+---
+>    public void setProjectRootPomPath(String projectRootPomPath) {

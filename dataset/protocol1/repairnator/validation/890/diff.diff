@@ -1,0 +1,5 @@
+46c46,47
+<                 for (List<String> testsToIgnore : listOfTestToIgnore) {
+---
+>                 for (List<String> testsToIgnore : listOfTestToIgnore
+> ) {

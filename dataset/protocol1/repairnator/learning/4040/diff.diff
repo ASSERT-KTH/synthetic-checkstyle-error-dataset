@@ -1,0 +1,4 @@
+138c138
+<         opt2 = new FlaggedOption("bearsMode");
+---
+>         opt2 = new FlaggedOption	("bearsMode");

@@ -1,0 +1,4 @@
+35c35
+<         String subject = "URGENT! Error on buggy build "+inspector.getBuggyBuild().getId()+" on machine "+ Utils.getHostname();
+---
+>         String subject = "URGENT! Error on buggy build "+inspector.getBuggyBuild().getId()+" on machine "+ Utils.	getHostname();

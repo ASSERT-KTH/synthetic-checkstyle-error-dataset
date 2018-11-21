@@ -1,0 +1,4 @@
+23c23
+<     private List<Object> serializeAsList(BuildToBeInspected buildToBeInspected, RepairPatch patch) {
+---
+>     private 	List<Object> serializeAsList(BuildToBeInspected buildToBeInspected, RepairPatch patch) {

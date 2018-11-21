@@ -1,0 +1,5 @@
+76c76,77
+<             LOGGER.info("The container has finished with status code: "+exitStatus.statusCode());
+---
+>             LOGGER.info("The container has finished with status code: "+
+> exitStatus.statusCode());

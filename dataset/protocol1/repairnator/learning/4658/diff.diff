@@ -1,0 +1,4 @@
+51c51
+<         this.fixerBuildForkRepo = fixerBuildForkRepo;
+---
+>         this.	fixerBuildForkRepo = fixerBuildForkRepo;

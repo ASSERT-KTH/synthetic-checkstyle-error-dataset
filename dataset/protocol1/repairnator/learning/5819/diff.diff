@@ -1,0 +1,4 @@
+64c64
+<         this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberModules(modules.length);
+---
+>         this.getInspector(	).getJobStatus().getProperties().getProjectMetrics().setNumberModules(modules.length);

@@ -1,0 +1,5 @@
+54c54,55
+<     public void serializeData(ProjectInspector inspector) {
+---
+>     public void serializeData(
+> ProjectInspector inspector) {

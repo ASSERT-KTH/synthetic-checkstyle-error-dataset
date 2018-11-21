@@ -1,0 +1,4 @@
+10c10
+< public class CheckoutPatchedBuild extends CheckoutRepository {
+---
+> public class CheckoutPatchedBuild extends CheckoutRepository 	{

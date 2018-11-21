@@ -1,0 +1,4 @@
+344c344
+<     private boolean thereIsDiffOnJavaFile(Build build, Build previousBuild) {
+---
+>    private boolean thereIsDiffOnJavaFile(Build build, Build previousBuild) {

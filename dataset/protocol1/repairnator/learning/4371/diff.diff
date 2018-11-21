@@ -1,0 +1,4 @@
+19c19
+< import fr.inria.spirals.repairnator.serializer.ScannerDetailedDataSerializer;
+---
+> import fr.inria.spirals.	repairnator.serializer.ScannerDetailedDataSerializer;

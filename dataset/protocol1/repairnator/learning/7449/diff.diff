@@ -1,0 +1,4 @@
+28c28
+<         this.githubId = githubId;
+---
+>         this	.githubId = githubId;

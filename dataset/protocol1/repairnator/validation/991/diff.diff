@@ -1,0 +1,4 @@
+11c11
+< import fr.inria.spirals.repairnator.process.inspectors.RepairPatch;
+---
+>  import fr.inria.spirals.repairnator.process.inspectors.RepairPatch;

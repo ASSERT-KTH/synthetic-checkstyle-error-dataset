@@ -1,0 +1,5 @@
+22,23c22
+<     public Serializer(List<SerializerEngine> engines, SerializerType type) {
+<         if (engines == null) {
+---
+>     public Serializer(List<SerializerEngine> engines, SerializerType type) {        if (engines == null) {

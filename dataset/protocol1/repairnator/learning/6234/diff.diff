@@ -1,0 +1,5 @@
+31c31,32
+<         for (List<String> strings : inspector.getJobStatus().getStepErrors().values()) {
+---
+>         for (List<String> strings : inspector.getJobStatus().getStepErrors().values(
+> )) {

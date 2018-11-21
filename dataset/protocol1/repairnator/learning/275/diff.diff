@@ -1,0 +1,4 @@
+57c57
+<     public void setIsPullRequest(boolean isPullRequest) {
+---
+>     public void setIsPullRequest(boolean isPullRequest	) {

@@ -1,0 +1,5 @@
+46c46,47
+<             config.setWorkspacePath(properties.getProperty("workspacePath"));
+---
+>             config.
+> setWorkspacePath(properties.getProperty("workspacePath"));

@@ -1,0 +1,4 @@
+38c38
+<             return StepStatus.buildError(gatherTestInformation, PipelineState.TESTFAILURES);
+---
+>             return StepStatus.buildError(gatherTestInformation, PipelineState.	TESTFAILURES);

@@ -1,0 +1,5 @@
+44,45c44
+<             throw new RuntimeException("Error while looking for the docker image",e);
+<         }
+---
+>             throw new RuntimeException("Error while looking for the docker image",e);        }

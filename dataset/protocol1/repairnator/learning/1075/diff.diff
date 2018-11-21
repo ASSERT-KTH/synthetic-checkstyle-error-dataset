@@ -1,0 +1,4 @@
+25c25
+<         String repoSlug = this.build.getRepository().getSlug();
+---
+>        String repoSlug = this.build.getRepository().getSlug();

@@ -1,0 +1,4 @@
+21c21
+<     public CommitPatch(ProjectInspector inspector, CommitType commitType) {
+---
+>     public CommitPatch(ProjectInspector 	inspector, CommitType commitType) {

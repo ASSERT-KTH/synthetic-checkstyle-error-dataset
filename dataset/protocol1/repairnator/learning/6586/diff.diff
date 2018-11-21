@@ -1,0 +1,4 @@
+93c93
+<         if (className != null ? !className.equals(that.className) : that.className != null) return false;
+---
+>         if (className != null ? !className.equals(that.className) 	: that.className != null) return false;

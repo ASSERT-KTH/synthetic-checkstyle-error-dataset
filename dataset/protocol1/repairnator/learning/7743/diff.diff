@@ -1,0 +1,5 @@
+69c69,70
+<     public static String getCompleteGithubRepoUrl(String slug) {
+---
+>     public static String getCompleteGithubRepoUrl(String 
+> slug) {

@@ -1,0 +1,4 @@
+37c37
+<     public String getDetail() {
+---
+>    public String getDetail() {

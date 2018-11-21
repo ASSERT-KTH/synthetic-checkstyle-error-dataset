@@ -1,0 +1,5 @@
+107c107,108
+<         this.getLogger().debug("Computing classpath from incriminated module...");
+---
+>         this.getLogger().
+> debug("Computing classpath from incriminated module...");

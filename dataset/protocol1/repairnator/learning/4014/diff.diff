@@ -1,0 +1,5 @@
+300c300,301
+<                         "Error while deleting the M2 local directory (" + this.inspector.getM2LocalPath() + "): " + e);
+---
+>                         "Error while deleting the M2 local directory (" 
+> + this.inspector.getM2LocalPath() + "): " + e);

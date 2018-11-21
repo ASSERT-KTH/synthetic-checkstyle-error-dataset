@@ -1,0 +1,4 @@
+19c19
+<     public ScannerSerializer4Bears(List<SerializerEngine> engines, ProjectScanner scanner) {
+---
+>    public ScannerSerializer4Bears(List<SerializerEngine> engines, ProjectScanner scanner) {

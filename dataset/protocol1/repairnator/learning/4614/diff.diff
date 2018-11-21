@@ -1,0 +1,4 @@
+138c138
+<         this.errorHandler = errorHandler;
+---
+>         this.errorHandler 	= errorHandler;

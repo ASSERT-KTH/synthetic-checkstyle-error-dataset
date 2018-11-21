@@ -1,0 +1,4 @@
+194c194
+<             this.endProcessNotifier.notifyEnd();
+---
+>             this.endProcessNotifier	.notifyEnd();

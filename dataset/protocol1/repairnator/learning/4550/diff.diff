@@ -1,0 +1,4 @@
+237c237
+<         this.hasBeenForked = hasBeenForked;
+---
+>        this.hasBeenForked = hasBeenForked;

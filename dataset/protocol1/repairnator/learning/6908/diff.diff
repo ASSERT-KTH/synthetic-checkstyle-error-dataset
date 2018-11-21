@@ -1,0 +1,5 @@
+61c61,62
+<         if (this.maxSubmittedBuilds == -1) {
+---
+>         if (this.
+> maxSubmittedBuilds == -1) {

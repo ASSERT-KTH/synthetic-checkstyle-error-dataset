@@ -1,0 +1,4 @@
+104c104
+<                         LOGGER.debug("Build finished (id:"+build.getId()+" | Status: "+build.getState()+")");
+---
+>                         LOGGER.debug	("Build finished (id:"+build.getId()+" | Status: "+build.getState()+")");

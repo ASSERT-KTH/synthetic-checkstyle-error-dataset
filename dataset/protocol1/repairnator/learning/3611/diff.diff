@@ -1,0 +1,4 @@
+55c55
+<                 this.from = new InternetAddress(smtpUsername + "@" + this.properties.getProperty("mail.smtp.host").replace("smtp.",""));
+---
+>                 this.from = new InternetAddress(smtpUsername + "@" + this.properties.getProperty("mail.smtp.host").replace("smtp.",""	));

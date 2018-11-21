@@ -1,0 +1,4 @@
+29c29
+<     public void serialize(List<SerializedData> data, SerializerType serializer) {
+---
+>     public void serialize(List<SerializedData> data, 	SerializerType serializer) {

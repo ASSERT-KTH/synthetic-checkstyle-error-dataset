@@ -1,0 +1,5 @@
+7c7,8
+< import com.spotify.docker.client.messages.Image;
+---
+> import com.spotify.docker.client.messages
+> .Image;

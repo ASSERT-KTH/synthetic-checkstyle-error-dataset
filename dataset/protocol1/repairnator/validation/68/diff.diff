@@ -1,0 +1,5 @@
+252c252,253
+<             if (executorService.awaitTermination(this.config.getGlobalTimeout(), TimeUnit.DAYS)) {
+---
+>             if (executorService.awaitTermination(this.config.
+> getGlobalTimeout(), TimeUnit.DAYS)) {

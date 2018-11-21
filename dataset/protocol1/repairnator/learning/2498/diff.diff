@@ -1,0 +1,4 @@
+34c34
+<     public static StepStatus buildSkipped(AbstractStep step, String reason) {
+---
+>     public static StepStatus buildSkipped(AbstractStep step	, String reason) {

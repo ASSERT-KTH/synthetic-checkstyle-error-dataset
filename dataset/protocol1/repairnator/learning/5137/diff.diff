@@ -1,0 +1,5 @@
+84c84,85
+<         String previousBuildSlug = (previousBuild != null) ? previousBuild.getRepository().getSlug() : "";
+---
+>         String previousBuildSlug = (previousBuild != null) ? previousBuild.getRepository().getSlug(
+> ) : "";

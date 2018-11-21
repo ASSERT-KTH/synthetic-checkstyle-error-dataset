@@ -1,0 +1,4 @@
+49c49
+<             config.setPushRemoteRepo(properties.getProperty("pushRemoteRepo"));
+---
+>            config.setPushRemoteRepo(properties.getProperty("pushRemoteRepo"));

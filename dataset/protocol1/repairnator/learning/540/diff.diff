@@ -1,0 +1,5 @@
+130c130,131
+<         this.getInspector().getJobStatus().setRepairClassPath(this.classPath);
+---
+>         this.getInspector().getJobStatus()
+> .setRepairClassPath(this.classPath);

@@ -1,0 +1,4 @@
+47c47
+<                     if (this.rtScanner.isRepositoryInteresting(job.getRepositoryId())) {
+---
+>                    if (this.rtScanner.isRepositoryInteresting(job.getRepositoryId())) {

@@ -1,0 +1,5 @@
+106c106,107
+<                     this.addStepError("Error while setting remote repository with the following URL: " + remoteRepo + ".", e);
+---
+>                     this.addStepError("Error while setting remote repository with the following URL: " + remoteRepo + ".", 
+> e);

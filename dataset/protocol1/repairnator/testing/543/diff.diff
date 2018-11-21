@@ -1,0 +1,5 @@
+10c10,11
+< import fr.inria.spirals.repairnator.process.step.checkoutrepository.CheckoutType;
+---
+> import fr.inria.spirals.repairnator.process.
+> step.checkoutrepository.CheckoutType;

@@ -1,0 +1,5 @@
+32c32,33
+<         this.numberDeleted = numberDeleted;
+---
+>         this.numberDeleted 
+> = numberDeleted;

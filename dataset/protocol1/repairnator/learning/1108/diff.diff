@@ -1,0 +1,4 @@
+212c212
+<         this.rootDirPath = rootDirPath;
+---
+>        this.rootDirPath = rootDirPath;

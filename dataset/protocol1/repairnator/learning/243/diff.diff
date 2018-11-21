@@ -1,0 +1,4 @@
+262c262
+<                 for (File dir : dirs) {
+---
+>                 for (File dir : dirs	) {

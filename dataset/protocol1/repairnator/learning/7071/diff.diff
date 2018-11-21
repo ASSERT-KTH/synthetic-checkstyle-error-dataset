@@ -1,0 +1,4 @@
+87c87
+<             engine.serialize(allData, this.getType());
+---
+>            engine.serialize(allData, this.getType());

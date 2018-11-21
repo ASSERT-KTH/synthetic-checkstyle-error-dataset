@@ -1,0 +1,5 @@
+100c100,101
+<         result.addProperty("repositoryName", build.getRepository().getSlug());
+---
+>         result.
+> addProperty("repositoryName", build.getRepository().getSlug());

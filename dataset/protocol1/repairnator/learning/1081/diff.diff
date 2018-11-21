@@ -1,0 +1,5 @@
+77c77,78
+<             this.getInspector().getJobStatus().addFileToPush(dirPath + patchFile.getName());
+---
+>             this.getInspector().getJobStatus().
+> addFileToPush(dirPath + patchFile.getName());

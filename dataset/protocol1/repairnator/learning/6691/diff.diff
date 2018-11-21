@@ -1,0 +1,4 @@
+314c314
+<                     FileHeader fileHeader = diffFormatter.toFileHeader(entry);
+---
+>                      FileHeader fileHeader = diffFormatter.toFileHeader(entry);

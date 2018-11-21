@@ -1,0 +1,4 @@
+358c358
+<     private boolean thereIsDiffOnTests(Build build, Build previousBuild) {
+---
+>     private boolean thereIsDiffOnTests(Build build	, Build previousBuild) {

@@ -1,0 +1,4 @@
+196c196
+<                             patchFile = patch.getFile(sourceFolder);
+---
+>                             patchFile = patch.getFile(	sourceFolder);

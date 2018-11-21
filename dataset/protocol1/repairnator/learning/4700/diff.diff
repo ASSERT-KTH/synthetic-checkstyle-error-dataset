@@ -1,0 +1,5 @@
+18,19c18
+<             throw new RuntimeException("Error while initializing docker client.");
+<         }
+---
+>             throw new RuntimeException("Error while initializing docker client.");        }

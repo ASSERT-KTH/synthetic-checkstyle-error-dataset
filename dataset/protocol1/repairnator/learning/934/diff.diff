@@ -1,0 +1,4 @@
+23c23
+<         this.getInspector().setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD);
+---
+>         this.getInspector()	.setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD);

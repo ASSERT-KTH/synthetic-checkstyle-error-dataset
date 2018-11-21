@@ -1,0 +1,4 @@
+102c102
+<         result = 31 * result + (failingMethods != null ? failingMethods.hashCode() : 0);
+---
+>         result = 31 * result + (failingMethods != null ? failingMethods.hashCode() 	: 0);

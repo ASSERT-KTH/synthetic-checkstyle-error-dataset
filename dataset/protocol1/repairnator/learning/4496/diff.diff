@@ -1,0 +1,4 @@
+180c180
+<         this.config.setNotifyTo(LauncherUtils.getArgNotifyto(arguments));
+---
+>        this.config.setNotifyTo(LauncherUtils.getArgNotifyto(arguments));

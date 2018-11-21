@@ -1,0 +1,4 @@
+350c350
+<                     this.logger.debug("First java file found: " + file.getFileName());
+---
+>                     this.logger.debug("First java file found: " + file.getFileName()	);

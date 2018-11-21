@@ -1,0 +1,5 @@
+19c19,20
+<     public AbstractDataSerializer(List<SerializerEngine> engines, SerializerType type) {
+---
+>     public AbstractDataSerializer(List<SerializerEngine
+> > engines, SerializerType type) {

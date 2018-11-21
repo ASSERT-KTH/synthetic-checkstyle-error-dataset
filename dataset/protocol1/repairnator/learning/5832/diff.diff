@@ -1,0 +1,4 @@
+48c48
+<         this.inspectBuilds.switchOff();
+---
+>         this.inspectBuilds.switchOff	();

@@ -1,0 +1,4 @@
+30c30
+<         this.githubId = githubId;
+---
+>         this.githubId 	= githubId;

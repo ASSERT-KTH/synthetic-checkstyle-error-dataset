@@ -1,0 +1,4 @@
+97c97
+<                 commitMsg += "This commit is based on the source code from the following commit: " + commits.getFixerBuild().getUrl() + "\n";
+---
+>                 commitMsg += "This commit is based on the source code from the following commit: " + commits.getFixerBuild().	getUrl() + "\n";

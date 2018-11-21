@@ -1,0 +1,4 @@
+9c9
+< import fr.inria.jtravis.entities.StateType;
+---
+> import fr.inria.jtravis.	entities.StateType;

@@ -1,0 +1,5 @@
+52c52,53
+<         result.addProperty("dayLimit", Utils.formatOnlyDay(this.scanner.getLookFromDate()));
+---
+>         
+> result.addProperty("dayLimit", Utils.formatOnlyDay(this.scanner.getLookFromDate()));

@@ -1,0 +1,4 @@
+43c43
+<             LOGGER.info("Start to run check container for branch "+branchName);
+---
+>            LOGGER.info("Start to run check container for branch "+branchName);

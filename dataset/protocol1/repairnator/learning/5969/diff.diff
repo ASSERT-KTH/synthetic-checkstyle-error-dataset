@@ -1,0 +1,5 @@
+33c33,34
+<                     this.setPushState(PushState.PROCESS_END_NOT_COMMITTED);
+---
+>                     this.setPushState(
+> PushState.PROCESS_END_NOT_COMMITTED);

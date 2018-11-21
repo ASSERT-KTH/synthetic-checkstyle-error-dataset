@@ -1,0 +1,4 @@
+58c58
+<     private Properties properties;
+---
+>     private Properties properties	;

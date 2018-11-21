@@ -1,0 +1,4 @@
+39c39
+<             stream = new BufferedWriter(new FileWriter(outputFile, true));
+---
+>             stream 	= new BufferedWriter(new FileWriter(outputFile, true));

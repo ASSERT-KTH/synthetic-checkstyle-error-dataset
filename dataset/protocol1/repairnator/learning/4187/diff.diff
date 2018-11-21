@@ -1,0 +1,4 @@
+28c28
+<         MavenHelper helper = new MavenHelper(this.getPom(), "install", properties, this.getClass().getSimpleName(), this.getInspector(), true);
+---
+>        MavenHelper helper = new MavenHelper(this.getPom(), "install", properties, this.getClass().getSimpleName(), this.getInspector(), true);

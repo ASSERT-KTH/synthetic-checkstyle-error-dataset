@@ -1,0 +1,5 @@
+81c81,82
+<         result.addProperty("runId", buildToBeInspected.getRunId());
+---
+>         result.addProperty("runId", buildToBeInspected.getRunId(
+> ));

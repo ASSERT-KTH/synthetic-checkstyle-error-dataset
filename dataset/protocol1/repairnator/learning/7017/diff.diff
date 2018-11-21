@@ -1,0 +1,4 @@
+65c65
+<     public TreatedBuildTracking prepareBeforeSubmitBuild(long buildId) {
+---
+>    public TreatedBuildTracking prepareBeforeSubmitBuild(long buildId) {

@@ -1,0 +1,5 @@
+351c351,352
+<             patchDiff.getLines().setNumberAdded(nbLineAdded);
+---
+>             patchDiff.getLines().setNumberAdded(nbLineAdded
+> );

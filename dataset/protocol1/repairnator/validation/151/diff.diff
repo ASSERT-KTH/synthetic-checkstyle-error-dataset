@@ -1,0 +1,4 @@
+17c17
+<         this.getLogger().debug("Start to use nopol with test exclusion strategy to repair...");
+---
+>         this.getLogger().debug("Start to use nopol with test exclusion strategy to repair...")	;

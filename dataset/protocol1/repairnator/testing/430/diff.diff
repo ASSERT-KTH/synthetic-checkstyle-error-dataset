@@ -1,0 +1,4 @@
+227c227
+<                 return new BuildToBeInspected(build, null, ScannedBuildStatus.ONLY_FAIL, this.runId);
+---
+>                 return new BuildToBeInspected(build, null, ScannedBuildStatus.ONLY_FAIL	, this.runId);

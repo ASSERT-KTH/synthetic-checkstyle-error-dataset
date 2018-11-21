@@ -1,0 +1,4 @@
+7c7
+<     private String url;
+---
+>      private String url;

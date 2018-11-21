@@ -1,0 +1,4 @@
+167c167
+<         return sortedFiles.toArray(new File[sortedFiles.size()]);
+---
+>         return 	sortedFiles.toArray(new File[sortedFiles.size()]);

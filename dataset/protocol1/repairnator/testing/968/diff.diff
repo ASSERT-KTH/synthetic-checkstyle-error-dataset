@@ -1,0 +1,4 @@
+36c36
+<         element.addProperty("buildStatus", inspector.getBuildToBeInspected().getStatus().name());
+---
+>         element.addProperty("buildStatus", inspector.getBuildToBeInspected().getStatus()	.name());

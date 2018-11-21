@@ -1,0 +1,4 @@
+42c42
+<         invoker.setOutputHandler(this.mavenHelper.getOutputHandler());
+---
+>        invoker.setOutputHandler(this.mavenHelper.getOutputHandler());

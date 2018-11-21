@@ -1,0 +1,4 @@
+18c18
+<     public JsonElement serialize(Properties properties, Type type, JsonSerializationContext jsonSerializationContext) {
+---
+>     public JsonElement serialize(	Properties properties, Type type, JsonSerializationContext jsonSerializationContext) {

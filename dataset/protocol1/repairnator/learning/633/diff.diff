@@ -1,0 +1,4 @@
+25c25
+<         File pomFile = new File(pomPath);
+---
+>        File pomFile = new File(pomPath);

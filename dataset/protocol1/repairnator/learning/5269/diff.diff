@@ -1,0 +1,4 @@
+108c108
+<                     this.addStepError("Error while executing a JGit operation.", e);
+---
+>                      this.addStepError("Error while executing a JGit operation.", e);

@@ -1,0 +1,5 @@
+41c41,42
+<             if (this.commitType == CommitType.COMMIT_BUGGY_BUILD) {
+---
+>             if (this.commitType == CommitType
+> .COMMIT_BUGGY_BUILD) {

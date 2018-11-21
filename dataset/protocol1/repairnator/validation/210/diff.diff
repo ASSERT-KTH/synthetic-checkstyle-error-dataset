@@ -1,0 +1,4 @@
+58c58
+<                 sourceList.add(source.getAbsolutePath());
+---
+>                 sourceList.add(source.getAbsolutePath())	;

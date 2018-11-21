@@ -1,0 +1,4 @@
+194c194
+<                 this.getLogger().info(file.getAbsolutePath());
+---
+>                 this.getLogger(	).info(file.getAbsolutePath());

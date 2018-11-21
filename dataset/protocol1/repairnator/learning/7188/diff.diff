@@ -1,0 +1,4 @@
+50c50
+<     private JSAP defineArgs() throws JSAPException {
+---
+>    private JSAP defineArgs() throws JSAPException {

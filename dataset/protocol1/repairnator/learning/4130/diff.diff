@@ -1,0 +1,4 @@
+50c50
+<         String filename = serializer.getFilename()+FILE_EXTENSION;
+---
+>         String filename = serializer.getFilename()	+FILE_EXTENSION;

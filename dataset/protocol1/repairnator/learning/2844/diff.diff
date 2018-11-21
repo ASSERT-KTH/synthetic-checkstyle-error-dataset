@@ -1,0 +1,4 @@
+29c29
+<         dataCol.add(this.scanner.getTotalRepoNumber());
+---
+>        dataCol.add(this.scanner.getTotalRepoNumber());

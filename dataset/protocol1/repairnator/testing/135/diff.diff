@@ -1,0 +1,4 @@
+105c105
+<             repository.setUrl(Utils.getSimpleGithubRepoUrl(this.getRepoSlug()));
+---
+>            repository.setUrl(Utils.getSimpleGithubRepoUrl(this.getRepoSlug()));

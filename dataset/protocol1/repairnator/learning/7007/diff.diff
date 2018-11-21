@@ -1,0 +1,5 @@
+110c110,111
+<         calendar.set(Calendar.SECOND, calendar.getMaximum(Calendar.SECOND));
+---
+>         calendar.set(Calendar.SECOND, calendar.getMaximum(Calendar.SECOND
+> ));

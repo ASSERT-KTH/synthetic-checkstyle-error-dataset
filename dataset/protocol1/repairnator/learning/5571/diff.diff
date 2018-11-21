@@ -1,0 +1,5 @@
+77c77,78
+<             if (classpathLine != null && !classpathLine.isEmpty()) {
+---
+>             if (
+> classpathLine != null && !classpathLine.isEmpty()) {

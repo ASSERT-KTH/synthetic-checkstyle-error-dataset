@@ -1,0 +1,4 @@
+3c3
+< public enum BearsMode {
+---
+> public enum BearsMode 	{

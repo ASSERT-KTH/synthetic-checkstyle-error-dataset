@@ -1,0 +1,5 @@
+344c344,345
+<             Optional<Build> optionalNextPassing = jTravis.build().getAfter(buggyBuild, true, StateType.PASSED);
+---
+>             Optional<Build> 
+> optionalNextPassing = jTravis.build().getAfter(buggyBuild, true, StateType.PASSED);

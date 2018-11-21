@@ -1,0 +1,5 @@
+15c15,16
+< import fr.inria.spirals.repairnator.process.step.paths.ComputeTestDir;
+---
+> import fr.inria.spirals.repairnator.process.
+> step.paths.ComputeTestDir;

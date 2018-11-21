@@ -1,0 +1,4 @@
+41c41
+<             this.addStepError("Repository " + this.getInspector().getRepoSlug() + " cannot be built.");
+---
+>            this.addStepError("Repository " + this.getInspector().getRepoSlug() + " cannot be built.");

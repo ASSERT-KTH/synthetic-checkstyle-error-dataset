@@ -1,0 +1,4 @@
+28c28
+<         super.setRootDirPath(this.getInspector().getRepoLocalPath());
+---
+>        super.setRootDirPath(this.getInspector().getRepoLocalPath());

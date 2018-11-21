@@ -1,0 +1,4 @@
+60c60
+<     public void setExceptionDetail(String exceptionDetail) {
+---
+>     public void 	setExceptionDetail(String exceptionDetail) {

@@ -1,0 +1,5 @@
+40c40,41
+<     public void setNumberFailing(int numberFailing) {
+---
+>     public void 
+> setNumberFailing(int numberFailing) {

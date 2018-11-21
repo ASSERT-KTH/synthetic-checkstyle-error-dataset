@@ -1,0 +1,4 @@
+25c25
+<         this.getInspector().setCheckoutType(CheckoutType.CHECKOUT_BUGGY_BUILD_TEST_CODE);
+---
+>         this.getInspector().setCheckoutType(CheckoutType	.CHECKOUT_BUGGY_BUILD_TEST_CODE);

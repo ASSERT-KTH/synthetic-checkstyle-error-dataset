@@ -1,0 +1,4 @@
+347c347
+<             int nbDot = 70 - stringSize;
+---
+>            int nbDot = 70 - stringSize;

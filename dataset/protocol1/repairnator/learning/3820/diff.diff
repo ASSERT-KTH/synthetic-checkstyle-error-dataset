@@ -1,0 +1,5 @@
+20c20,21
+<         for (Method method : Properties.class.getDeclaredMethods()) {
+---
+>         for (Method method 
+> : Properties.class.getDeclaredMethods()) {

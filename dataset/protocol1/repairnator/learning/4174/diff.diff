@@ -1,0 +1,5 @@
+307c307,308
+<                 FileUtils.deleteDirectory(this.inspector.getRepoLocalPath());
+---
+>                 FileUtils.deleteDirectory(this.
+> inspector.getRepoLocalPath());

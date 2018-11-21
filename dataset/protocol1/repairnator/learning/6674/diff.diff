@@ -1,0 +1,4 @@
+54c54
+<                     this.getInspector().getGitHelper().computePatchStats(this.getInspector().getJobStatus(), git, headRev, commit);
+---
+>                     this.getInspector().getGitHelper().computePatchStats(this.getInspector().getJobStatus()	, git, headRev, commit);

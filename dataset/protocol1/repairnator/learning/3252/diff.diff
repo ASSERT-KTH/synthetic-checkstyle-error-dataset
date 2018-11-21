@@ -1,0 +1,5 @@
+24c24,25
+<             super.setCheckoutType(CheckoutType.CHECKOUT_PATCHED_BUILD);
+---
+>             super.setCheckoutType(CheckoutType.
+> CHECKOUT_PATCHED_BUILD);

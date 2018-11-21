@@ -1,0 +1,4 @@
+38c38
+<         if (result == MavenHelper.MAVEN_SUCCESS) {
+---
+>          if (result == MavenHelper.MAVEN_SUCCESS) {

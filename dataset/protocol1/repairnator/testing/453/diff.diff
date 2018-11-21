@@ -1,0 +1,4 @@
+13c13
+< import fr.inria.spirals.repairnator.process.step.paths.ComputeModules;
+---
+> import fr.inria.spirals.repairnator.process.	step.paths.ComputeModules;

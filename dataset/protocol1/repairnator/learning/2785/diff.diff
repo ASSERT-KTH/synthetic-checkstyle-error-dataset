@@ -1,0 +1,5 @@
+33c33,34
+<         this.freeMemory = freeMemory;
+---
+>         this.
+> freeMemory = freeMemory;

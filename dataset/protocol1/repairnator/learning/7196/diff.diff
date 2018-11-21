@@ -1,0 +1,5 @@
+71c71,72
+<                 this.envValues.add("LOG_LEVEL=INFO");
+---
+>                 this.envValues
+> .add("LOG_LEVEL=INFO");

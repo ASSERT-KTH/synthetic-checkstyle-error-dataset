@@ -1,0 +1,5 @@
+185,186c185
+<     public void killDockerContainer(DockerClient docker, boolean remove) {
+<         if (this.containerId == null) {
+---
+>     public void killDockerContainer(DockerClient docker, boolean remove) {        if (this.containerId == null) {

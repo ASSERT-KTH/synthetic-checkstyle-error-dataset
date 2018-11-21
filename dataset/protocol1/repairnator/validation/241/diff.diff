@@ -1,0 +1,4 @@
+253c253
+<                             if (jobLog.getContent().contains("maven-checkstyle")) {
+---
+>                            if (jobLog.getContent().contains("maven-checkstyle")) {

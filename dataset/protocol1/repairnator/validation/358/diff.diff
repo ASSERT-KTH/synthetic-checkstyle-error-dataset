@@ -1,0 +1,4 @@
+131c131
+<                                 RepairPatch repairPatch = new RepairPatch(this.getRepairToolName(), "" , pv.getPatchDiff().getFormattedDiff());
+---
+>                                 RepairPatch repairPatch = new RepairPatch(this.getRepairToolName	(), "" , pv.getPatchDiff().getFormattedDiff());

@@ -1,0 +1,5 @@
+26c26,27
+<     public static StepStatus buildSuccess(AbstractStep step) {
+---
+>     
+> public static StepStatus buildSuccess(AbstractStep step) {

@@ -1,0 +1,4 @@
+77c77
+<             LOGGER.info("Build (id: "+build.getId()+") immediately submitted for running.");
+---
+>            LOGGER.info("Build (id: "+build.getId()+") immediately submitted for running.");

@@ -1,0 +1,5 @@
+243c243,244
+<                         if ((mode == BearsMode.BOTH || mode == BearsMode.PASSING_PASSING) && previousBuild.getState() == StateType.PASSED && thereIsDiffOnJavaFile(build, previousBuild) && thereIsDiffOnTests(build, previousBuild)) {
+---
+>                         if ((mode == BearsMode.BOTH || mode == BearsMode.PASSING_PASSING) && previousBuild.getState() == StateType
+> .PASSED && thereIsDiffOnJavaFile(build, previousBuild) && thereIsDiffOnTests(build, previousBuild)) {

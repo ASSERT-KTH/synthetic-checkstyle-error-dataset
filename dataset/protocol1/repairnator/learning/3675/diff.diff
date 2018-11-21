@@ -1,0 +1,5 @@
+33c33,34
+<     public static final String TEXT_PR = "This PR has been created automatically by [repairnator](https://github.com/Spirals-Team/repairnator).\n" +
+---
+>     public static final String 
+> TEXT_PR = "This PR has been created automatically by [repairnator](https://github.com/Spirals-Team/repairnator).\n" +

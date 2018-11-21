@@ -1,0 +1,4 @@
+288c288
+<             List<DiffEntry> entries = diffFormatter.scan(newTreeIter, oldTreeIter);
+---
+>             List<DiffEntry> entries = diffFormatter.scan(	newTreeIter, oldTreeIter);

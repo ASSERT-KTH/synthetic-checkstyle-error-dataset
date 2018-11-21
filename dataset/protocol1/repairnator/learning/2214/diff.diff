@@ -1,0 +1,4 @@
+96c96
+<             docker.removeContainer(containerId);
+---
+>            docker.removeContainer(containerId);

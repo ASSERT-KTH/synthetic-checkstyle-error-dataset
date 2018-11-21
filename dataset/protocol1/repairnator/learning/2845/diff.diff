@@ -1,0 +1,4 @@
+158c158
+<             this.config.setDebug(true);
+---
+>            this.config.setDebug(true);

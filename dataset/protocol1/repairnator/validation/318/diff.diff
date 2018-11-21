@@ -1,0 +1,4 @@
+125c125
+<             diag.addProperty("methodName", result.getTestMethod());
+---
+>             diag.addProperty("methodName", result.getTestMethod())	;

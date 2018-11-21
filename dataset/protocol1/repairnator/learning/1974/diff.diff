@@ -1,0 +1,5 @@
+90c90,91
+<         LOGGER.warn("The process will now stop. "+this.getRunning()+" docker containers will be stopped.");
+---
+>         LOGGER.warn("The process will now stop. "+
+> this.getRunning()+" docker containers will be stopped.");

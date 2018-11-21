@@ -1,0 +1,4 @@
+39c39
+<         FailureType that = (FailureType) o;
+---
+>        FailureType that = (FailureType) o;

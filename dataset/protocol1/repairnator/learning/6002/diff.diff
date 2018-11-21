@@ -1,0 +1,5 @@
+16c16,17
+<         if (this.getConfig().isPush()) {
+---
+>         if (
+> this.getConfig().isPush()) {

@@ -1,0 +1,5 @@
+366c366,367
+<             getLogger().error("Error while executing git command to create new branch and checkout it: " + e);
+---
+>             getLogger().
+> error("Error while executing git command to create new branch and checkout it: " + e);

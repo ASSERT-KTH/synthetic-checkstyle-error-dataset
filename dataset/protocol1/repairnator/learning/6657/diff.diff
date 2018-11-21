@@ -1,0 +1,4 @@
+19c19
+<     private static final String PROPERTY_FILENAME_BEARS = "bears.json";
+---
+>    private static final String PROPERTY_FILENAME_BEARS = "bears.json";

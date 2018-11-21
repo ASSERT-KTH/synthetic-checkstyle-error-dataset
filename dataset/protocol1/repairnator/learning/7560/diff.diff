@@ -1,0 +1,4 @@
+56c56
+<                     writer.write(oneData.getAsJson().toString());
+---
+>                    writer.write(oneData.getAsJson().toString());

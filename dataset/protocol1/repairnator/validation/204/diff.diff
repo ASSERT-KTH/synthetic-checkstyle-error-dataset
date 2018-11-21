@@ -1,0 +1,4 @@
+93c93
+<         String asJson = new GsonBuilder().setPrettyPrinting().create().toJson(configuration);
+---
+>         String asJson = new GsonBuilder().setPrettyPrinting().create	().toJson(configuration);

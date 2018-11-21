@@ -1,0 +1,4 @@
+96c96
+<                 fr.inria.spirals.repairnator.process.inspectors.properties.builds.Build patchedBuild = new fr.inria.spirals.repairnator.process.inspectors.properties.builds.Build(id, url, date);
+---
+>                 fr.inria.spirals.repairnator.process.inspectors.properties.builds.Build patchedBuild = new fr.inria.spirals.repairnator	.process.inspectors.properties.builds.Build(id, url, date);

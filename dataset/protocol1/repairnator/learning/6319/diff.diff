@@ -1,0 +1,4 @@
+34c34
+<                     imageId = image.id();
+---
+>                     imageId = image	.id();

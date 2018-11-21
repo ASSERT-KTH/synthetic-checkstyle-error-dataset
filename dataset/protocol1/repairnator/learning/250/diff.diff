@@ -1,0 +1,5 @@
+125c125,126
+<                             checkoutType != CheckoutType.CHECKOUT_BUGGY_BUILD_TEST_CODE) {
+---
+>                             checkoutType != CheckoutType
+> .CHECKOUT_BUGGY_BUILD_TEST_CODE) {

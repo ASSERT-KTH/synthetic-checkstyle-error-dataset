@@ -1,0 +1,4 @@
+52c52
+<             this.mavenHelper.getInspector().getJobStatus().addStepError(this.mavenHelper.getName(), e.getMessage());
+---
+>             this.mavenHelper.getInspector(	).getJobStatus().addStepError(this.mavenHelper.getName(), e.getMessage());

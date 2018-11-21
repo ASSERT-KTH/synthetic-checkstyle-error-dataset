@@ -1,0 +1,5 @@
+21c21,22
+<         super(engines, SerializerType.HARDWARE_INFO);
+---
+>         
+> super(engines, SerializerType.HARDWARE_INFO);

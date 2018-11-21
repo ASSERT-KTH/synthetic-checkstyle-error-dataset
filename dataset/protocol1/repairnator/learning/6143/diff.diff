@@ -1,0 +1,4 @@
+55c55
+<             Optional<PullRequest> pullRequestOptional = RepairnatorConfig.getInstance().getJTravis().pullRequest().fromBuild(buggyBuild);
+---
+>             Optional<PullRequest	> pullRequestOptional = RepairnatorConfig.getInstance().getJTravis().pullRequest().fromBuild(buggyBuild);

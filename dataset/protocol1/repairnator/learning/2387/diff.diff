@@ -1,0 +1,5 @@
+109c109,110
+<         calendar.set(Calendar.MINUTE, calendar.getMaximum(Calendar.MINUTE));
+---
+>         calendar.set
+> (Calendar.MINUTE, calendar.getMaximum(Calendar.MINUTE));

@@ -1,0 +1,4 @@
+98c98
+<                 commitMsg += "The mentioned commit triggered the following Travis build: " + builds.getFixerBuild().getUrl() + ".";
+---
+>                 commitMsg += "The mentioned commit triggered the following Travis build: " + builds.getFixerBuild	().getUrl() + ".";

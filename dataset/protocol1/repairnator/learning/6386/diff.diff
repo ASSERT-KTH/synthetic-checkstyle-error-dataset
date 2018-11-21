@@ -1,0 +1,4 @@
+47c47
+<         data.addProperty("filepath", patch.getFilePath());
+---
+>         data.addProperty("filepath", patch.getFilePath()	);

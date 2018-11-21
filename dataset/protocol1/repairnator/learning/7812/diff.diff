@@ -1,0 +1,4 @@
+34c34
+<         JobStatus status = inspector.getJobStatus();
+---
+>         JobStatus status = inspector.getJobStatus(	);

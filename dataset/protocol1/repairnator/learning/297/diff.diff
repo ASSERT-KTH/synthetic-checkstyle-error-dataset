@@ -1,0 +1,4 @@
+6c6
+<     private boolean isError;
+---
+>    private boolean isError;

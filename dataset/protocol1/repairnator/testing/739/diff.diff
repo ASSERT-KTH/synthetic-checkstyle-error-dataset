@@ -1,0 +1,4 @@
+104c104
+<             repository.setName(this.getRepoSlug());
+---
+>             repository.setName(this.getRepoSlug(	));

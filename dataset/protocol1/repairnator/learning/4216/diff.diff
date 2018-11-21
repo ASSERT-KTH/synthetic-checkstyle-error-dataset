@@ -1,0 +1,4 @@
+401c401
+<         if (getDateBegin() == null || getDateEnd() == null) {
+---
+>        if (getDateBegin() == null || getDateEnd() == null) {

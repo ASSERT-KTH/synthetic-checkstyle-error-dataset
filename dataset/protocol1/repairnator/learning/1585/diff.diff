@@ -1,0 +1,5 @@
+39c39,40
+<                 patches.size() + " patch(es) has been found for the following build: "+ Utils.getTravisUrl(buggyBuild.getId(), repository.getSlug())+".\n";
+---
+>                 patches.size() + " patch(es) has been found for the following build: "+ 
+> Utils.getTravisUrl(buggyBuild.getId(), repository.getSlug())+".\n";

@@ -1,0 +1,4 @@
+129c129
+<     public InvocationOutputHandler getOutputHandler() {
+---
+>     public InvocationOutputHandler getOutputHandler	() {

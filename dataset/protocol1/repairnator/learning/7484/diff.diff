@@ -1,0 +1,4 @@
+15c15
+<     private final Logger logger = LoggerFactory.getLogger(PropertiesSerializerAdapter.class);
+---
+>     private final Logger logger = 	LoggerFactory.getLogger(PropertiesSerializerAdapter.class);

@@ -1,0 +1,5 @@
+323c323,324
+<             if (stepDuration > higherDuration) {
+---
+>             if (
+> stepDuration > higherDuration) {

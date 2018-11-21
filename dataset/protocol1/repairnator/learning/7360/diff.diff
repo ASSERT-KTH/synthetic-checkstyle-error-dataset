@@ -1,0 +1,4 @@
+21c21
+< import fr.inria.spirals.repairnator.process.testinformation.FailureLocation;
+---
+> import fr.	inria.spirals.repairnator.process.testinformation.FailureLocation;

@@ -1,0 +1,4 @@
+36c36
+<         for (FailingClass failingClass : this.failingClasses) {
+---
+>         for (FailingClass failingClass : this	.failingClasses) {

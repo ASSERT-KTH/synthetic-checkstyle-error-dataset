@@ -1,0 +1,4 @@
+66c66
+<         this.stepErrors = new HashMap<>();
+---
+>         this.stepErrors = new HashMap<>	();

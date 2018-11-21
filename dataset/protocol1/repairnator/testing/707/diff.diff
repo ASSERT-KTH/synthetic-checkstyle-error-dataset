@@ -1,0 +1,5 @@
+327c327,328
+<         for (int i = 0; i < this.steps.size(); i++) {
+---
+>         for (int i = 0; i < this.steps.size(); 
+> i++) {

@@ -1,0 +1,4 @@
+44c44
+<         return Objects.equals(toolname, that.toolname) &&
+---
+>         return Objects.	equals(toolname, that.toolname) &&

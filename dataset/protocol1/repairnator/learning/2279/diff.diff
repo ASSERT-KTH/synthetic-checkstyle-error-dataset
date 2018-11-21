@@ -1,0 +1,5 @@
+104c104,105
+<         result.addProperty("buildFinishedDay", Utils.formatOnlyDay(build.getFinishedAt()));
+---
+>         result.
+> addProperty("buildFinishedDay", Utils.formatOnlyDay(build.getFinishedAt()));

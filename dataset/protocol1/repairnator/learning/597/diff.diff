@@ -1,0 +1,5 @@
+35c35,36
+<         this.getLogger().debug("Compute the line of code of the project");
+---
+>         this.getLogger().debug("Compute the line of code of the project"
+> );

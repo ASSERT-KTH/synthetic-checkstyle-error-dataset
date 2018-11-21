@@ -1,0 +1,4 @@
+141c141
+<                             failingClass.setNumberSkipping(testSuite.getNumberOfSkipped());
+---
+>                            failingClass.setNumberSkipping(testSuite.getNumberOfSkipped());

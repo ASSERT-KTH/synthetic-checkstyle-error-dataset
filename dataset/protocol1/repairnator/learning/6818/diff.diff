@@ -1,0 +1,4 @@
+89c89
+<         FailureLocation that = (FailureLocation) o;
+---
+>         FailureLocation that 	= (FailureLocation) o;

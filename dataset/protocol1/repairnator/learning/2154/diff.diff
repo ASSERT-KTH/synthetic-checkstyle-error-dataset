@@ -1,0 +1,4 @@
+89c89
+<         int nbKilled = 0;
+---
+>        int nbKilled = 0;

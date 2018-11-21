@@ -1,0 +1,4 @@
+52c52
+<         dataList.add(new SerializedData(new ArrayList<>(), element));
+---
+>        dataList.add(new SerializedData(new ArrayList<>(), element));

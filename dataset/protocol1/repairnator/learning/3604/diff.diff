@@ -1,0 +1,4 @@
+89c89
+<                         this.getLogger().debug("Here the grep return: " + processReturn);
+---
+>                        this.getLogger().debug("Here the grep return: " + processReturn);

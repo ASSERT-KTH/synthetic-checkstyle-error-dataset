@@ -1,0 +1,4 @@
+41c41
+<         String slug = repository.getSlug();
+---
+>        String slug = repository.getSlug();

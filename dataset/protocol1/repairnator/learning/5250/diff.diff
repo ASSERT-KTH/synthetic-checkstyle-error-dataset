@@ -1,0 +1,4 @@
+34c34
+<             AbstractStep cloneRepo = new CloneRepository(this);
+---
+>             AbstractStep cloneRepo = 	new CloneRepository(this);

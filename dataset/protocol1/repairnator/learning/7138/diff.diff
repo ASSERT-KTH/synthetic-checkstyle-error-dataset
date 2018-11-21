@@ -1,0 +1,5 @@
+10c10,11
+< import fr.inria.spirals.repairnator.process.testinformation.FailureType;
+---
+> import fr.inria.spirals.repairnator.
+> process.testinformation.FailureType;

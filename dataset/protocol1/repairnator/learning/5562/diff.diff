@@ -1,0 +1,5 @@
+119c119,120
+<         this.config.setOutputPath(LauncherUtils.getArgOutput(arguments).getAbsolutePath());
+---
+>         
+> this.config.setOutputPath(LauncherUtils.getArgOutput(arguments).getAbsolutePath());

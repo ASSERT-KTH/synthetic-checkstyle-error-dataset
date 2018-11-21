@@ -1,0 +1,4 @@
+42c42
+<                 this.addStepError("Error while adding the following file in the classpath: " +
+---
+>                  this.addStepError("Error while adding the following file in the classpath: " +

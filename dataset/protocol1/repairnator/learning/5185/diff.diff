@@ -1,0 +1,5 @@
+48,49c48
+<                         this.rtScanner.submitWaitingBuild(job.getBuildId());
+<                     }
+---
+>                         this.rtScanner.submitWaitingBuild(job.getBuildId());                    }

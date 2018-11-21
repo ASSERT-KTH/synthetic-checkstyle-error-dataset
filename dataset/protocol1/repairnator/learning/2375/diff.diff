@@ -1,0 +1,4 @@
+16c16
+< public class WatchedBuildSerializer extends Serializer {
+---
+> public 	class WatchedBuildSerializer extends Serializer {

@@ -1,0 +1,4 @@
+194c194
+<             String branchName = branchLabel.substring(branchLabel.indexOf(":") + 1, branchLabel.length());
+---
+>            String branchName = branchLabel.substring(branchLabel.indexOf(":") + 1, branchLabel.length());

@@ -1,0 +1,4 @@
+24c24
+<     public static RepairToolsManager getInstance() {
+---
+>     public 	static RepairToolsManager getInstance() {

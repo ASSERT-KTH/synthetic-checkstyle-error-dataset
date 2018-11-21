@@ -1,0 +1,4 @@
+120c120
+<                     int runningTests = testSuite.getNumberOfTests() - testSuite.getNumberOfSkipped();
+---
+>                    int runningTests = testSuite.getNumberOfTests() - testSuite.getNumberOfSkipped();

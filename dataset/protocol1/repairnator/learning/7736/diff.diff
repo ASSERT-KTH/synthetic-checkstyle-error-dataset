@@ -1,0 +1,5 @@
+39,40c39
+<         while (!new Date().toInstant().isAfter(endOfProcessDate)) {
+<             try {
+---
+>         while (!new Date().toInstant().isAfter(endOfProcessDate)) {            try {

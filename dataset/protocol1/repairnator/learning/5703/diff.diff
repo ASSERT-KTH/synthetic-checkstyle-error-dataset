@@ -1,0 +1,4 @@
+40c40
+<             if (moreModules != null && moreModules.length > 0) {
+---
+>             if (moreModules != null && moreModules.length > 	0) {

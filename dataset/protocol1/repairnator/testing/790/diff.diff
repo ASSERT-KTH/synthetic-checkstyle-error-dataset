@@ -1,0 +1,4 @@
+290c290
+<                         RepairnatorConfig.getInstance().getJTravis().refresh(job);
+---
+>                        RepairnatorConfig.getInstance().getJTravis().refresh(job);

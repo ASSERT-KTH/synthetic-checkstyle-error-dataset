@@ -1,0 +1,4 @@
+59c59
+<     public int getNumberTestFiles() {
+---
+>     public 	int getNumberTestFiles() {

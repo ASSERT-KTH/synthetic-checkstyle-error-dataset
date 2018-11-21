@@ -1,0 +1,5 @@
+27c27,28
+<         String repoLocalPath = this.getInspector().getRepoLocalPath();
+---
+>         String repoLocalPath = 
+> this.getInspector().getRepoLocalPath();

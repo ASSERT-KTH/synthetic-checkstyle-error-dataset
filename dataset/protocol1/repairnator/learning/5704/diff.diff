@@ -1,0 +1,4 @@
+46c46
+<                 collection.insertMany(listDocuments);
+---
+>                collection.insertMany(listDocuments);

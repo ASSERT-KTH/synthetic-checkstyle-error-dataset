@@ -1,0 +1,4 @@
+82c82
+<             LOGGER.info("TREATED Docker container : "+containerId);
+---
+>             LOGGER.info("TREATED Docker container : "+containerId)	;

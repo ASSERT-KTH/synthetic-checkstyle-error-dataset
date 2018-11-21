@@ -1,0 +1,4 @@
+20c20
+<         this.processDurations = new ProcessDurations();
+---
+>        this.processDurations = new ProcessDurations();

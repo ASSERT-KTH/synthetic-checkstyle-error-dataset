@@ -1,0 +1,5 @@
+331c331,332
+<                             logger.debug("No failing or erroring test found in build " + build.getId());
+---
+>                             logger.debug(
+> "No failing or erroring test found in build " + build.getId());

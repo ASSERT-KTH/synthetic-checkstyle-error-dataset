@@ -1,0 +1,5 @@
+6c6,7
+< public class RepairnatorConfigException extends Exception {
+---
+> public 
+> class RepairnatorConfigException extends Exception {

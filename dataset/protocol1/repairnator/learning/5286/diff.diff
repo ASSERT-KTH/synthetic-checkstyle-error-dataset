@@ -1,0 +1,4 @@
+62c62
+<         String state = getPrettyPrintState(inspector);
+---
+>        String state = getPrettyPrintState(inspector);

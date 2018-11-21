@@ -1,0 +1,5 @@
+18c18,19
+< import fr.inria.spirals.repairnator.process.nopol.NopolInformation;
+---
+> import fr.inria.spirals.
+> repairnator.process.nopol.NopolInformation;

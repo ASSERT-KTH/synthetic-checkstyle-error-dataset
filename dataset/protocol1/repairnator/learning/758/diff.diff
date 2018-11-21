@@ -1,0 +1,5 @@
+127c127,128
+<                     if (testSuite.getNumberOfFailures() > 0 || testSuite.getNumberOfErrors() > 0) {
+---
+>                     if (testSuite.getNumberOfFailures() > 0 || testSuite.getNumberOfErrors(
+> ) > 0) {

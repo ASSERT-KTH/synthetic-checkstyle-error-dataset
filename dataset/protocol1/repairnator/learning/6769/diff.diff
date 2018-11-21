@@ -1,0 +1,4 @@
+25c25
+<     private static final SimpleDateFormat fileDateFormat = new SimpleDateFormat("YYYY-MM-dd_HHmm");
+---
+>     private static final SimpleDateFormat fileDateFormat = 	new SimpleDateFormat("YYYY-MM-dd_HHmm");

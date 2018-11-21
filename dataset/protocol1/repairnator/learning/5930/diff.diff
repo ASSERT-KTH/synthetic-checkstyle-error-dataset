@@ -1,0 +1,4 @@
+3c3
+< import fr.inria.spirals.repairnator.process.inspectors.properties.builds.Builds;
+---
+> import fr.inria.spirals.repairnator.	process.inspectors.properties.builds.Builds;

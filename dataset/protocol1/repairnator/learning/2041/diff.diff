@@ -1,0 +1,5 @@
+81c81,82
+<                     + localRepoFile.getAbsolutePath().substring(this.localRepository.getAbsolutePath().length()));
+---
+>                     + localRepoFile.getAbsolutePath().substring(this.localRepository.getAbsolutePath().length())
+> );

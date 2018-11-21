@@ -1,0 +1,4 @@
+23c23
+<     public void setNumberChanged(int numberChanged) {
+---
+>     public void 	setNumberChanged(int numberChanged) {

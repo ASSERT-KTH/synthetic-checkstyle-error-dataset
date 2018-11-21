@@ -1,0 +1,4 @@
+49c49
+<         result.addProperty("dateBlacklistStr", Utils.formatCompleteDate(new Date()));
+---
+>         result	.addProperty("dateBlacklistStr", Utils.formatCompleteDate(new Date()));

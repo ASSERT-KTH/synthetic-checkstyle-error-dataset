@@ -1,0 +1,5 @@
+52,53c52
+<             result.addProperty("repository", "ID="+build.getRepository().getId());
+<         } else {
+---
+>             result.addProperty("repository", "ID="+build.getRepository().getId());        } else {

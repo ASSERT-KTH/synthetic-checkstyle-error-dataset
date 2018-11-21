@@ -1,0 +1,5 @@
+188c188,189
+<                 this.addStepError("Error while creating a dedicated branch for the patch.");
+---
+>                 this.addStepError(
+> "Error while creating a dedicated branch for the patch.");

@@ -1,0 +1,4 @@
+66c66
+<                 this.commit = git.commit().setMessage(commitMsg).setAuthor(GitHelper.getCommitterIdent()).setCommitter(GitHelper.getCommitterIdent()).call();
+---
+>                 this.commit 	= git.commit().setMessage(commitMsg).setAuthor(GitHelper.getCommitterIdent()).setCommitter(GitHelper.getCommitterIdent()).call();

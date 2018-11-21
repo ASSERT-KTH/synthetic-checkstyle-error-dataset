@@ -1,0 +1,4 @@
+61c61
+<     private Map<String, Long> freeMemoryByStep;
+---
+>      private Map<String, Long> freeMemoryByStep;

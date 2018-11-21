@@ -1,0 +1,5 @@
+17c17,18
+<             this.addStepError("Test code dir is null: it is therefore impossible to continue.");
+---
+>             this.addStepError("Test code dir is null: it is therefore impossible to continue."
+> );

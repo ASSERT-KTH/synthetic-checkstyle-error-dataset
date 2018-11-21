@@ -1,0 +1,4 @@
+49c49
+<             this.cloning.addStep(stepName, stepDuration);
+---
+>            this.cloning.addStep(stepName, stepDuration);

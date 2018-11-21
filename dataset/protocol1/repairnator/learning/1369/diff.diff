@@ -1,0 +1,4 @@
+31c31
+<     private String dockerOutputDir = DEFAULT_OUTPUT_DIR;
+---
+>    private String dockerOutputDir = DEFAULT_OUTPUT_DIR;

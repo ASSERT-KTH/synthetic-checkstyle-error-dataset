@@ -1,0 +1,4 @@
+25c25
+<     private String branchName;
+---
+>    private String branchName;

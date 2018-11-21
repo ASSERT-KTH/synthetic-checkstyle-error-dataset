@@ -1,0 +1,4 @@
+92c92
+<                 runnablePipelineContainer.killDockerContainer(this.docker, false);
+---
+>                 runnablePipelineContainer	.killDockerContainer(this.docker, false);

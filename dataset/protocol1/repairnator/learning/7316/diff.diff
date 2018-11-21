@@ -1,0 +1,5 @@
+20c20,21
+<         this.getLogger().debug("Checking out buggy build candidate...");
+---
+>         this.getLogger()
+> .debug("Checking out buggy build candidate...");

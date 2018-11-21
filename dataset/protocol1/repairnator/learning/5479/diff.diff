@@ -1,0 +1,5 @@
+80c80,81
+<             LOGGER.info("All threads currently running (Limit: "+this.nbThreads+"). Add build (id: "+build.getId()+") to wait list");
+---
+>             LOGGER
+> .info("All threads currently running (Limit: "+this.nbThreads+"). Add build (id: "+build.getId()+") to wait list");

@@ -1,0 +1,4 @@
+49c49
+<         dataCol.add(Utils.formatCompleteDate(this.beginDate));
+---
+>         dataCol.add(Utils.formatCompleteDate(this.beginDate	));

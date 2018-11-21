@@ -1,0 +1,5 @@
+85c85,86
+<                 if ((this.computeDirType == ComputeDirType.COMPUTE_SOURCE_DIR &&
+---
+>                 if ((this.
+> computeDirType == ComputeDirType.COMPUTE_SOURCE_DIR &&

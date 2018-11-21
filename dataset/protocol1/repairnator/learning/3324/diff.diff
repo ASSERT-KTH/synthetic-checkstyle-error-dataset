@@ -1,0 +1,4 @@
+44c44
+<             this.getLogger().debug("Get result from cloc process...");
+---
+>            this.getLogger().debug("Get result from cloc process...");

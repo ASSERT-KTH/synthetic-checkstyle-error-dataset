@@ -1,0 +1,5 @@
+16c16,17
+< import fr.inria.spirals.repairnator.serializer.ProcessSerializer;
+---
+> import fr.inria.spirals.repairnator
+> .serializer.ProcessSerializer;

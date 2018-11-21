@@ -1,0 +1,4 @@
+37c37
+<     private boolean fork;
+---
+>      private boolean fork;

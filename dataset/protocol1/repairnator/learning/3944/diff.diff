@@ -1,0 +1,4 @@
+3c3
+< import fr.inria.spirals.repairnator.serializer.SerializerType;
+---
+> import fr.inria.spirals.repairnator.serializer	.SerializerType;

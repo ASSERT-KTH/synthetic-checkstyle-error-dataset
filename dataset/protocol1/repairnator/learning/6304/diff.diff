@@ -1,0 +1,4 @@
+205c205
+<                     nopolInformation.setStatus(NopolStatus.NOPATCH);
+---
+>                    nopolInformation.setStatus(NopolStatus.NOPATCH);

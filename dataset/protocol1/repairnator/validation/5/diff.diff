@@ -1,0 +1,4 @@
+29c29
+<         Model model = MavenHelper.readPomXml(pomFile, this.getInspector().getM2LocalPath());
+---
+>         Model model = MavenHelper.readPomXml(pomFile, this.getInspector().getM2LocalPath())	;

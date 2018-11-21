@@ -1,0 +1,4 @@
+336c336
+<                         System.out.println(buildToBeInspected.getBuggyBuild().getId());
+---
+>                         System.out.println(buildToBeInspected.getBuggyBuild().getId())	;

@@ -1,0 +1,4 @@
+7c7
+<     private int occurrences;
+---
+>    private int occurrences;

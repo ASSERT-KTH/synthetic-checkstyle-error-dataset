@@ -1,0 +1,5 @@
+59c59,60
+<         SerializedData data = new SerializedData(this.serializeAsList(repo, reason, comment), this.serializeAsJson(repo, reason, comment));
+---
+>         
+> SerializedData data = new SerializedData(this.serializeAsList(repo, reason, comment), this.serializeAsJson(repo, reason, comment));

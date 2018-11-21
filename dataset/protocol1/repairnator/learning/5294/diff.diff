@@ -1,0 +1,4 @@
+35c35
+<             File sourceDir = new File(this.getInspector().getRepoLocalPath());
+---
+>             File 	sourceDir = new File(this.getInspector().getRepoLocalPath());

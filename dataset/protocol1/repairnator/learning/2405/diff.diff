@@ -1,0 +1,5 @@
+56c56,57
+<     private boolean hasBeenForked;
+---
+>     private boolean 
+> hasBeenForked;

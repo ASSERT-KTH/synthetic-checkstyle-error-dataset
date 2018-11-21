@@ -1,0 +1,4 @@
+15c15
+<             int diffErr = o2.getNbErrors() - o1.getNbErrors();
+---
+>             int diffErr = o2.getNbErrors(	) - o1.getNbErrors();

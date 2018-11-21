@@ -1,0 +1,5 @@
+53c53,54
+<             this.exitCode = MavenHelper.MAVEN_ERROR;
+---
+>             this.exitCode = MavenHelper.
+> MAVEN_ERROR;

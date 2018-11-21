@@ -1,0 +1,4 @@
+24c24
+<     private static final int DELAY_BETWEEN_DOCKER_IMAGE_REFRESH = 60; // in minutes
+---
+>      private static final int DELAY_BETWEEN_DOCKER_IMAGE_REFRESH = 60; // in minutes

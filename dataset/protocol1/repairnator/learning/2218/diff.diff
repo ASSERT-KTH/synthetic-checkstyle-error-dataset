@@ -1,0 +1,4 @@
+30c30
+<     private static final String SUREFIREREPORT_PATH = "/target/surefire-reports";
+---
+>    private static final String SUREFIREREPORT_PATH = "/target/surefire-reports";

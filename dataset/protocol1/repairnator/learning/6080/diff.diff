@@ -1,0 +1,5 @@
+60c60,61
+<         File parentDirectory = new File(this.getInspector().getRepoToPushLocalPath(), DEFAULT_DIR_PATCHES);
+---
+>         File parentDirectory = new File(this.getInspector().getRepoToPushLocalPath(
+> ), DEFAULT_DIR_PATCHES);

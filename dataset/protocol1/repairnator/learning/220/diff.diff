@@ -1,0 +1,4 @@
+50c50
+<         result.addProperty("dateBuildEndStr", Utils.formatCompleteDate(build.getFinishedAt()));
+---
+>         result.addProperty(	"dateBuildEndStr", Utils.formatCompleteDate(build.getFinishedAt()));

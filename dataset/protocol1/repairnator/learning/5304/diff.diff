@@ -1,0 +1,4 @@
+68c68
+<         this.addDate(result, "beginDate", this.beginDate);
+---
+>         this.addDate(result, 	"beginDate", this.beginDate);

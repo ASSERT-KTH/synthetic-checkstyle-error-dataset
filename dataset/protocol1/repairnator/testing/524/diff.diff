@@ -1,0 +1,4 @@
+16c16
+<     public Checkstyle(ProjectInspector inspector) {
+---
+>     public Checkstyle(ProjectInspector 	inspector) {

@@ -1,0 +1,4 @@
+46c46
+<         data.addProperty("diff", patch.getDiff());
+---
+>        data.addProperty("diff", patch.getDiff());

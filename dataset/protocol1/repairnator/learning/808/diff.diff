@@ -1,0 +1,4 @@
+181c181
+<     private String getLastKnowParent(GitHub gh, GHRepository ghRepo, Git git, String oldCommitSha, AbstractStep step) throws IOException {
+---
+>     private String getLastKnowParent(GitHub gh, GHRepository 	ghRepo, Git git, String oldCommitSha, AbstractStep step) throws IOException {

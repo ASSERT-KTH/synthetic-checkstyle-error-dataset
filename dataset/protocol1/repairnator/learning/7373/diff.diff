@@ -1,0 +1,4 @@
+42c42
+<         this.addDate(data, "dateStr", new Date());
+---
+>         this.addDate(data, "dateStr", new Date(	));

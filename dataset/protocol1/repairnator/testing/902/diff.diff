@@ -1,0 +1,4 @@
+14c14
+< public class GsonPathTypeAdapter extends TypeAdapter<Path> {
+---
+>  public class GsonPathTypeAdapter extends TypeAdapter<Path> {

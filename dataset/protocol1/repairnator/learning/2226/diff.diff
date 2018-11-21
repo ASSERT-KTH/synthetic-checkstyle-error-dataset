@@ -1,0 +1,4 @@
+269c269
+<             return StepStatus.buildSkipped(this,"No patch has been found.");
+---
+>            return StepStatus.buildSkipped(this,"No patch has been found.");

@@ -1,0 +1,4 @@
+241c241
+<         Launcher.LOGGER.info("Start to scan projects in Travis...");
+---
+>        Launcher.LOGGER.info("Start to scan projects in Travis...");

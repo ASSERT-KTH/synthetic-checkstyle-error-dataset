@@ -1,0 +1,4 @@
+70c70
+<             astorArgs.add("-srcjavafolder");
+---
+>            astorArgs.add("-srcjavafolder");

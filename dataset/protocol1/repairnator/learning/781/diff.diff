@@ -1,0 +1,4 @@
+8c8
+<     private boolean isFork;
+---
+>     private boolean 	isFork;

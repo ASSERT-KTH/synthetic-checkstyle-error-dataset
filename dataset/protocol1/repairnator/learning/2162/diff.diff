@@ -1,0 +1,4 @@
+65c65
+<     public void setPullRequestId(int pullRequestId) {
+---
+>      public void setPullRequestId(int pullRequestId) {

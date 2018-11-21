@@ -1,0 +1,4 @@
+56c56
+<         result.addProperty("repositoryName", build.getRepository().getSlug());
+---
+>        result.addProperty("repositoryName", build.getRepository().getSlug());

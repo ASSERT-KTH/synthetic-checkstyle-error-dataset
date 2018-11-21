@@ -1,0 +1,5 @@
+212c212,213
+<     protected void setCheckoutType(CheckoutType checkoutType) {
+---
+>     
+> protected void setCheckoutType(CheckoutType checkoutType) {

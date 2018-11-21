@@ -1,0 +1,5 @@
+61c61,62
+<                 step.getInspector().getCheckoutType().equals(CheckoutType.CHECKOUT_BUGGY_BUILD_SOURCE_CODE))) {
+---
+>                 step.getInspector().getCheckoutType().equals(
+> CheckoutType.CHECKOUT_BUGGY_BUILD_SOURCE_CODE))) {

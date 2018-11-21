@@ -1,0 +1,4 @@
+166c166
+<             killDockerContainer(docker, false);
+---
+>             killDockerContainer(docker	, false);

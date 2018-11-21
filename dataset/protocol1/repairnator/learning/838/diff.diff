@@ -1,0 +1,4 @@
+40c40
+<     private AbstractStep nextStep;
+---
+>    private AbstractStep nextStep;

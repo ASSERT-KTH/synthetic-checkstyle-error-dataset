@@ -1,0 +1,4 @@
+29c29
+<         this.inspectBuilds = inspectBuilds;
+---
+>        this.inspectBuilds = inspectBuilds;

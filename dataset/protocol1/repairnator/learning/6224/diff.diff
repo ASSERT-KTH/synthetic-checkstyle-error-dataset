@@ -1,0 +1,5 @@
+31c31,32
+<             MongoCollection<Document> collection = this.mongoDatabase.getCollection(serializer.getFilename());
+---
+>             MongoCollection<Document> 
+> collection = this.mongoDatabase.getCollection(serializer.getFilename());

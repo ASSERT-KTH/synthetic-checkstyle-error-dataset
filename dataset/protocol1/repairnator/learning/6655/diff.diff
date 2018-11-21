@@ -1,0 +1,5 @@
+67c67,68
+<                 Collection<File> files = FileUtils.listFiles(new File(this.getInspector().getJobStatus().getPomDirPath()+"/target/npefix"), new String[] { "json"}, false);
+---
+>                 Collection<File> files = FileUtils.listFiles(new File(this.getInspector().getJobStatus().getPomDirPath
+> ()+"/target/npefix"), new String[] { "json"}, false);

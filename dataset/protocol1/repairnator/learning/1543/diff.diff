@@ -1,0 +1,5 @@
+52c52,53
+<         mainRepo.setUrl(MAVEN_CENTRAL_URL_MIRROR_2);
+---
+>         mainRepo.setUrl(MAVEN_CENTRAL_URL_MIRROR_2
+> );

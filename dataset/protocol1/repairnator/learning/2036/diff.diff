@@ -1,0 +1,4 @@
+19c19
+< public class MongoDBSerializerEngine implements SerializerEngine {
+---
+>  public class MongoDBSerializerEngine implements SerializerEngine {

@@ -1,0 +1,4 @@
+5c5
+<     private String testClass;
+---
+>    private String testClass;

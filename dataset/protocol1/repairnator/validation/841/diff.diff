@@ -1,0 +1,5 @@
+83c83,84
+<             astorArgs.add("timezone:Europe/Paris:maxnumbersolutions:3:limitbysuspicious:false:maxmodificationpoints:1000:javacompliancelevel:8:logfilepath:"+this.getInspector().getRepoLocalPath()+"/repairnator.astor." + this.getAstorMode() + ".log");
+---
+>             astorArgs.add("timezone:Europe/Paris:maxnumbersolutions:3:limitbysuspicious:false:maxmodificationpoints:1000:javacompliancelevel:8:logfilepath:"+this.getInspector(
+> ).getRepoLocalPath()+"/repairnator.astor." + this.getAstorMode() + ".log");

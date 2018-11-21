@@ -1,0 +1,4 @@
+354c354
+<             this.getLogger().error("Error while computing stat on the patch.", e);
+---
+>             this.getLogger().error(	"Error while computing stat on the patch.", e);

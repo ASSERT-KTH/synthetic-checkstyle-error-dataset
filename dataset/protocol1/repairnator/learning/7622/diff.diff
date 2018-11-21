@@ -1,0 +1,4 @@
+20c20
+<     public HardwareInfoSerializer(List<SerializerEngine> engines, String runId, String buildId) {
+---
+>     public HardwareInfoSerializer(List<SerializerEngine> engines	, String runId, String buildId) {

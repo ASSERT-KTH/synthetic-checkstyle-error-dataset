@@ -1,0 +1,4 @@
+112c112
+<             this.notifiers = notifiers;
+---
+>            this.notifiers = notifiers;

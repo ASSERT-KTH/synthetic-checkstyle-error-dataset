@@ -1,0 +1,4 @@
+46c46
+<     public void setType(String type) {
+---
+>     public void setType(	String type) {

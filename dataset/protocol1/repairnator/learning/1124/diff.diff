@@ -1,0 +1,4 @@
+72c72
+<                         FileUtils.copyFile(patchesFiles, new File(this.getInspector().getRepoLocalPath()+"/repairnator.npefix.results"));
+---
+>                         FileUtils.copyFile(patchesFiles, new File(this.	getInspector().getRepoLocalPath()+"/repairnator.npefix.results"));

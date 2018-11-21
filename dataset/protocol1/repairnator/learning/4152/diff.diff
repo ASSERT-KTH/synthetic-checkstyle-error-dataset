@@ -1,0 +1,4 @@
+8c8
+<     private int numberFailing;
+---
+>      private int numberFailing;

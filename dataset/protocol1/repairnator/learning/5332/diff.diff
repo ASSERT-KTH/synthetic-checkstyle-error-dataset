@@ -1,0 +1,4 @@
+179c179
+<                                     Properties properties = this.getInspector().getJobStatus().getProperties();
+---
+>                                     Properties properties = this.	getInspector().getJobStatus().getProperties();

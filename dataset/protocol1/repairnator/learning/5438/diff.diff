@@ -1,0 +1,5 @@
+372,373c372
+<     public void gitAdd(List<String> files, Git git) {
+<         for (String file : files) {
+---
+>     public void gitAdd(List<String> files, Git git) {        for (String file : files) {

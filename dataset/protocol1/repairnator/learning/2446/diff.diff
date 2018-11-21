@@ -1,0 +1,4 @@
+29c29
+<         dataAsList.add(inspector.getBuggyBuild().getId());
+---
+>         dataAsList	.add(inspector.getBuggyBuild().getId());

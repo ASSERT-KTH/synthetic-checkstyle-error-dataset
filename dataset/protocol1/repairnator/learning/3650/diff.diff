@@ -1,0 +1,5 @@
+383c383,384
+<     public int getMaxInspectedBuilds() {
+---
+>     public int 
+> getMaxInspectedBuilds() {

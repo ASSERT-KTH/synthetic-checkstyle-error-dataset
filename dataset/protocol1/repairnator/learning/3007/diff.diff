@@ -1,0 +1,4 @@
+19c19
+<     private CommitType commitType;
+---
+>      private CommitType commitType;

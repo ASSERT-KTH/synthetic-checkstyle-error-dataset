@@ -1,0 +1,4 @@
+174c174
+<                 GHRepository ghForkedRepo = originalRepository.fork();
+---
+>                GHRepository ghForkedRepo = originalRepository.fork();

@@ -1,0 +1,4 @@
+133c133
+<         LOGGER.info("This will now stop.");
+---
+>        LOGGER.info("This will now stop.");

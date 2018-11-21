@@ -1,0 +1,4 @@
+21c21
+<     private List<Object> serializeAsList(ProjectInspector inspector, String toolName, JsonElement jsonElement) {
+---
+>    private List<Object> serializeAsList(ProjectInspector inspector, String toolName, JsonElement jsonElement) {

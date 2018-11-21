@@ -1,0 +1,5 @@
+33c33,34
+<             filePath = this.getInspector().getRepoLocalPath() + File.separator + PROPERTY_FILENAME_BEARS;
+---
+>             filePath = this.getInspector().getRepoLocalPath() + 
+> File.separator + PROPERTY_FILENAME_BEARS;

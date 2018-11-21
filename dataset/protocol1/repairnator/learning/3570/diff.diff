@@ -1,0 +1,4 @@
+14c14
+< public class PropertiesSerializerAdapter implements JsonSerializer<Properties> {
+---
+>  public class PropertiesSerializerAdapter implements JsonSerializer<Properties> {

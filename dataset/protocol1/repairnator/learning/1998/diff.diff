@@ -1,0 +1,4 @@
+17c17
+< import fr.inria.spirals.repairnator.process.step.gatherinfo.BuildShouldPass;
+---
+> import fr.inria.spirals.repairnator.process.step.	gatherinfo.BuildShouldPass;

@@ -1,0 +1,4 @@
+37c37
+<         String subject = "["+toolname+"] Patched build: "+buggyBuild.getId()+" - "+repository.getSlug();
+---
+>         String subject = "["+toolname+"] Patched build: "+	buggyBuild.getId()+" - "+repository.getSlug();

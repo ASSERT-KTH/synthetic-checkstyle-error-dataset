@@ -1,0 +1,5 @@
+10c10,11
+< import fr.inria.spirals.repairnator.states.ScannedBuildStatus;
+---
+> import fr.inria.spirals.repairnator.states
+> .ScannedBuildStatus;

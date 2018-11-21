@@ -1,0 +1,4 @@
+45c45
+<             return StepStatus.buildError(this, PipelineState.CHECKSTYLE_ERRORS);
+---
+>             return StepStatus.buildError(this, 	PipelineState.CHECKSTYLE_ERRORS);

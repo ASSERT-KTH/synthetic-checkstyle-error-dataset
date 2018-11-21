@@ -1,0 +1,4 @@
+115c115
+<                 this.getLogger().info("No commit has been done, so there is nothing to push. Step bypassed.");
+---
+>                this.getLogger().info("No commit has been done, so there is nothing to push. Step bypassed.");

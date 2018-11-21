@@ -1,0 +1,5 @@
+157,158c157
+<         try {
+<             for (File path : dir) {
+---
+>         try {            for (File path : dir) {

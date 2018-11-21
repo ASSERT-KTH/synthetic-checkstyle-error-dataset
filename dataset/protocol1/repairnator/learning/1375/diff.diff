@@ -1,0 +1,5 @@
+119c119,120
+<                 File[] dirs = this.searchForDirs(pomOfCurrentDirPath.getParent() + File.separator + module, false);
+---
+>                 File
+> [] dirs = this.searchForDirs(pomOfCurrentDirPath.getParent() + File.separator + module, false);

@@ -1,0 +1,5 @@
+26c26,27
+<                     Object value = method.invoke(properties);
+---
+>                     Object value = method.
+> invoke(properties);

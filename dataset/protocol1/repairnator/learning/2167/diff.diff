@@ -1,0 +1,4 @@
+144c144
+<                 File[] dirs = this.searchForDirs(parentPomXml.getParent(),false);
+---
+>                  File[] dirs = this.searchForDirs(parentPomXml.getParent(),false);

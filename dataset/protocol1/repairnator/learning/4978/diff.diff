@@ -1,0 +1,5 @@
+123c123,124
+<                     this.getLogger().debug("Get commit " + commitCheckout + " for repo " + this.getInspector().getRepoSlug());
+---
+>                     
+> this.getLogger().debug("Get commit " + commitCheckout + " for repo " + this.getInspector().getRepoSlug());

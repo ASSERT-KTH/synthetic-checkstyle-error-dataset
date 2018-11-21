@@ -1,0 +1,4 @@
+130c130
+<                     properties.setType("only_fail");
+---
+>                    properties.setType("only_fail");

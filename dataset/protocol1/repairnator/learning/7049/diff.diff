@@ -1,0 +1,5 @@
+20c20,21
+< public class InspectorTimeSerializer extends AbstractDataSerializer {
+---
+> public class InspectorTimeSerializer extends 
+> AbstractDataSerializer {

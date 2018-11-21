@@ -1,0 +1,4 @@
+26c26
+<         this.getLogger().debug("Run checkstyle on the project");
+---
+>         this.getLogger	().debug("Run checkstyle on the project");

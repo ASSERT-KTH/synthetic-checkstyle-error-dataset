@@ -1,0 +1,4 @@
+24c24
+<     public int getTotalDuration() {
+---
+>      public int getTotalDuration() {

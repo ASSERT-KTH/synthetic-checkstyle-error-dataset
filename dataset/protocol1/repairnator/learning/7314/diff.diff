@@ -1,0 +1,4 @@
+28c28
+<         this.getJobStatus().getProperties().setVersion("Checkstyle 0.1");
+---
+>         this.getJobStatus().getProperties().setVersion("Checkstyle 0.1")	;

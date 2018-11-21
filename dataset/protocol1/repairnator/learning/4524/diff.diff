@@ -1,0 +1,4 @@
+109c109
+<                     boolean successfulMerge = gitHelper.mergeTwoCommitsForPR(git, build, prInformation, repository, this, paths);
+---
+>                     boolean successfulMerge = gitHelper.mergeTwoCommitsForPR(git	, build, prInformation, repository, this, paths);

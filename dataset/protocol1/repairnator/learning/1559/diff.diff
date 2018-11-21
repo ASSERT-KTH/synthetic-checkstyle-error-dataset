@@ -1,0 +1,4 @@
+67c67
+<         this.pomDirPath = pomDirPath;
+---
+>        this.pomDirPath = pomDirPath;

@@ -1,0 +1,4 @@
+23c23
+<     public void setFailingModule(String failingModule) {
+---
+>     public void setFailingModule(String failingModule	) {

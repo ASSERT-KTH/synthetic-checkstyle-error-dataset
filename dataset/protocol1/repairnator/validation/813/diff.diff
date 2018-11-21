@@ -1,0 +1,4 @@
+11c11
+<     private List<Integer> stepDurations;
+---
+>    private List<Integer> stepDurations;

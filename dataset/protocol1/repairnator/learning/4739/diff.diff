@@ -1,0 +1,5 @@
+243c243,244
+<         ProjectScanner scanner = new ProjectScanner(this.config.getLookFromDate(), this.config.getLookToDate(), this.config.getRunId());
+---
+>         ProjectScanner scanner = new ProjectScanner
+> (this.config.getLookFromDate(), this.config.getLookToDate(), this.config.getRunId());

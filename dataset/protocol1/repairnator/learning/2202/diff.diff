@@ -1,0 +1,5 @@
+40c40,41
+<         this.setDockerImageName(RepairnatorConfig.getInstance().getDockerImageName());
+---
+>         this.setDockerImageName(RepairnatorConfig.getInstance().
+> getDockerImageName());

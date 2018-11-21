@@ -1,0 +1,5 @@
+61c61,62
+<     public static String getTravisUrl(long buildId, String slug) {
+---
+>     public static String getTravisUrl(
+> long buildId, String slug) {

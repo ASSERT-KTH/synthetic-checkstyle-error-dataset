@@ -1,0 +1,5 @@
+43c43,44
+<     private JsonObject serializeAsJson(Repository repo, Reason reason, String comment) {
+---
+>     private JsonObject serializeAsJson(
+> Repository repo, Reason reason, String comment) {

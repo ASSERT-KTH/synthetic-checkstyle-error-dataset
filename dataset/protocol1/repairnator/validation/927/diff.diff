@@ -1,0 +1,5 @@
+317c317,318
+<             LOGGER.error("Error while retrieving the buggy build. The process will exit now.");
+---
+>             LOGGER
+> .error("Error while retrieving the buggy build. The process will exit now.");

@@ -1,0 +1,4 @@
+167c167
+<         RunnableMavenInvoker runnableMavenInvoker = new RunnableMavenInvoker(this);
+---
+>        RunnableMavenInvoker runnableMavenInvoker = new RunnableMavenInvoker(this);

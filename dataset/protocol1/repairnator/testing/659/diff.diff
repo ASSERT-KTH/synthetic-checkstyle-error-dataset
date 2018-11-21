@@ -1,0 +1,4 @@
+36c36
+<         String filename = "repairnator.maven." + name.toLowerCase() + ".log";
+---
+>          String filename = "repairnator.maven." + name.toLowerCase() + ".log";

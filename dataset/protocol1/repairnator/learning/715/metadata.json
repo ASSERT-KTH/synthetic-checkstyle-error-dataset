@@ -1,0 +1,1 @@
+{"injection_operator": "insertion-newline", "line": "40", "message": "'\"A fixer build has been found for the following project: \"' has incorrect indentation level 0, expected level should be 20.", "type": "Indentation"}

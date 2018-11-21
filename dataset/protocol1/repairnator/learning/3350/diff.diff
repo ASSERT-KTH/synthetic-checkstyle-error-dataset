@@ -1,0 +1,4 @@
+40c40
+<         this.getJobStatus().getProperties().setVersion("Bears 1.0");
+---
+>         this.getJobStatus	().getProperties().setVersion("Bears 1.0");

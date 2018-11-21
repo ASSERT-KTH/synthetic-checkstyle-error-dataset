@@ -1,0 +1,4 @@
+36c36
+<         Gson gson = new GsonBuilder().setPrettyPrinting().registerTypeAdapter(Properties.class, new PropertiesSerializerAdapter()).create();
+---
+>        Gson gson = new GsonBuilder().setPrettyPrinting().registerTypeAdapter(Properties.class, new PropertiesSerializerAdapter()).create();

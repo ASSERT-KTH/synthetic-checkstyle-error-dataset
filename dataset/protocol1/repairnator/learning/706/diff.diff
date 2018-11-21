@@ -1,0 +1,4 @@
+41c41
+<         this.totalMemory = totalMemory;
+---
+>        this.totalMemory = totalMemory;

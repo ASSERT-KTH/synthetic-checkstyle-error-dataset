@@ -1,0 +1,5 @@
+41c41,42
+<             Optional<List<JobV2>> jobListOpt = RepairnatorConfig.getInstance().getJTravis().job().allFromV2();
+---
+>             Optional<List<JobV2>> jobListOpt = RepairnatorConfig.getInstance()
+> .getJTravis().job().allFromV2();

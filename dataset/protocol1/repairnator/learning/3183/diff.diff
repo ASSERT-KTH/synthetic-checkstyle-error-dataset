@@ -1,0 +1,5 @@
+23c23,24
+<     public static String findDockerImage(String imageName, DockerClient docker) {
+---
+>     public static String findDockerImage(
+> String imageName, DockerClient docker) {

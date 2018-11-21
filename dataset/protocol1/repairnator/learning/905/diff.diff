@@ -1,0 +1,5 @@
+63c63,64
+<         result.addProperty("containerId", containerId);
+---
+>         result.addProperty("containerId"
+> , containerId);

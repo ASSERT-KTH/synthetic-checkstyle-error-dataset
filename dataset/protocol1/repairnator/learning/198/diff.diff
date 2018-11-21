@@ -1,0 +1,4 @@
+49c49
+<         this.addDate(result, "dateBuildEnd", build.getFinishedAt());
+---
+>        this.addDate(result, "dateBuildEnd", build.getFinishedAt());

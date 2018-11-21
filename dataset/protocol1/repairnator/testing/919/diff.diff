@@ -1,0 +1,4 @@
+18c18
+<             return StepStatus.buildError(this, PipelineState.TESTDIRNOTCOMPUTED);
+---
+>              return StepStatus.buildError(this, PipelineState.TESTDIRNOTCOMPUTED);

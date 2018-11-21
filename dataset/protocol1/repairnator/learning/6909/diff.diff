@@ -1,0 +1,4 @@
+273c273
+<                         this.getLogger().info("A pom.xml was found in the following directory: "+dir.getPath());
+---
+>                        this.getLogger().info("A pom.xml was found in the following directory: "+dir.getPath());

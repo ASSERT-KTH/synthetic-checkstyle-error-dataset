@@ -1,0 +1,4 @@
+83c83
+<                 msg.addRecipients(Message.RecipientType.TO, recipients);
+---
+>                 msg.addRecipients	(Message.RecipientType.TO, recipients);

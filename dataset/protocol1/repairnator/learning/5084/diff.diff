@@ -1,0 +1,4 @@
+44c44
+<         Date date = new Date();
+---
+>         Date date 	= new Date();

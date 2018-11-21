@@ -1,0 +1,5 @@
+43c43,44
+<             this.getLogger().error("Cannot create file writer for file " + filePath + ".", e);
+---
+>             this.getLogger().error
+> ("Cannot create file writer for file " + filePath + ".", e);

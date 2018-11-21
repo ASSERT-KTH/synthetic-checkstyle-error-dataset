@@ -1,0 +1,5 @@
+25c25,26
+<         this.getLogger().debug("Computing the test directory ...");
+---
+>         this.getLogger().debug("Computing the test directory ..."
+> );

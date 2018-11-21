@@ -1,0 +1,5 @@
+37c37,38
+<                     listOfTestToIgnore.add(new ArrayList<>());
+---
+>                     listOfTestToIgnore.add(
+> new ArrayList<>());

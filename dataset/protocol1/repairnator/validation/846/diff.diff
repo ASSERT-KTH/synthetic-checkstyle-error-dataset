@@ -1,0 +1,4 @@
+245c245
+<             loader = (URLClassLoader) ClassLoader.getSystemClassLoader();
+---
+>            loader = (URLClassLoader) ClassLoader.getSystemClassLoader();

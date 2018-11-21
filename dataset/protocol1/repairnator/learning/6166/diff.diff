@@ -1,0 +1,4 @@
+88c88
+<                 commitMsg = "Bug commit from " + this.getInspector().getRepoSlug() + "\n";
+---
+>                commitMsg = "Bug commit from " + this.getInspector().getRepoSlug() + "\n";

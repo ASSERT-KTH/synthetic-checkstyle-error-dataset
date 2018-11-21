@@ -1,0 +1,5 @@
+17c17,18
+<             if (this.getInspector().getJobStatus().getLastPushState() != PushState.NONE) {
+---
+>             if (this.getInspector().getJobStatus().getLastPushState() != PushState.
+> NONE) {

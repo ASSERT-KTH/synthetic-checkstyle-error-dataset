@@ -1,0 +1,5 @@
+470c470,471
+<             path += config.getBuildId() > 0 ? "/"+config.getBuildId() : "";
+---
+>             path 
+> += config.getBuildId() > 0 ? "/"+config.getBuildId() : "";

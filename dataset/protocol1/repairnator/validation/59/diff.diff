@@ -1,0 +1,5 @@
+92,93c92
+<             this.whitelistWriter = new FileWriter(whiteListFile, true);
+<         } catch (IOException e) {
+---
+>             this.whitelistWriter = new FileWriter(whiteListFile, true);        } catch (IOException e) {

@@ -1,0 +1,4 @@
+6c6
+< public enum NopolStatus {
+---
+> public enum 	NopolStatus {

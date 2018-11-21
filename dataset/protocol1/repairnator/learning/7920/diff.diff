@@ -1,0 +1,5 @@
+60c60,61
+<         Build build = inspector.getBuggyBuild();
+---
+>         Build build 
+> = inspector.getBuggyBuild();

@@ -1,0 +1,4 @@
+55c55
+<                 modulePath + File.separator + DEFAULT_TEST_CLASSES_DIR + File.separator);
+---
+>                 modulePath + File.separator + DEFAULT_TEST_CLASSES_DIR + File.separator	);

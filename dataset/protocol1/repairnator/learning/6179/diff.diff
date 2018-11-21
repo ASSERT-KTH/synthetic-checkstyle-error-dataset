@@ -1,0 +1,4 @@
+23c23
+<                 attributeName = this.decapitalize(attributeName);
+---
+>                attributeName = this.decapitalize(attributeName);

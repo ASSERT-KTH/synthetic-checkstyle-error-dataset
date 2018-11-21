@@ -1,0 +1,5 @@
+44c44,45
+<                 if (this.remoteRepoUrl == null || this.remoteRepoUrl.equals("")) {
+---
+>                 if (this.remoteRepoUrl == null || this
+> .remoteRepoUrl.equals("")) {

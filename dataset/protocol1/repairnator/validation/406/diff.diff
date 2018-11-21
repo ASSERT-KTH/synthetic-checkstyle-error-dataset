@@ -1,0 +1,4 @@
+127c127
+<         opt.setShortFlag('o');
+---
+>         opt	.setShortFlag('o');

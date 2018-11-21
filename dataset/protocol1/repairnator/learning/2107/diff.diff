@@ -1,0 +1,4 @@
+10c10
+< public abstract class ProcessSerializer extends Serializer {
+---
+> public abstract class ProcessSerializer 	extends Serializer {

@@ -1,0 +1,5 @@
+82c82,83
+<             File[] sourceDirs = super.getResultDirs();
+---
+>             File
+> [] sourceDirs = super.getResultDirs();

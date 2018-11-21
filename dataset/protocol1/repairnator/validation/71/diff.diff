@@ -1,0 +1,4 @@
+157c157
+<         this.config.setGithubUserName(LauncherUtils.getArgGithubUserName(arguments));
+---
+>         this.config.setGithubUserName(LauncherUtils.getArgGithubUserName(arguments))	;

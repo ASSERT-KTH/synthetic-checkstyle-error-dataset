@@ -1,0 +1,5 @@
+32c32,33
+<             this.addStepError("Error while obtaining modules from pom.xml: module section has not been found.");
+---
+>             this.addStepError
+> ("Error while obtaining modules from pom.xml: module section has not been found.");

@@ -1,0 +1,4 @@
+94c94
+<         jgit.setLevel(Level.WARN);
+---
+>        jgit.setLevel(Level.WARN);

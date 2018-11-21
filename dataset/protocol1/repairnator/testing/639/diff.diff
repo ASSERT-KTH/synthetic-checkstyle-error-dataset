@@ -1,0 +1,4 @@
+225c225
+<             if (RepairnatorConfig.getInstance().getLauncherMode() == LauncherMode.REPAIR) {
+---
+>             if (RepairnatorConfig.getInstance().	getLauncherMode() == LauncherMode.REPAIR) {

@@ -1,0 +1,5 @@
+57c57,58
+<         result.addProperty("status", build.getState().name());
+---
+>         result.addProperty("status", build.getState().name(
+> ));

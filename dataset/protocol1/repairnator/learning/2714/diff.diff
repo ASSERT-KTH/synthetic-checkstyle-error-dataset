@@ -1,0 +1,5 @@
+3c3,4
+< import com.spotify.docker.client.DockerClient;
+---
+> import com.spotify.docker
+> .client.DockerClient;

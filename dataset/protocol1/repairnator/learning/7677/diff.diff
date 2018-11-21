@@ -1,0 +1,4 @@
+240c240
+<     private Map<ScannedBuildStatus, List<BuildToBeInspected>> runScanner() throws IOException {
+---
+>     private Map	<ScannedBuildStatus, List<BuildToBeInspected>> runScanner() throws IOException {

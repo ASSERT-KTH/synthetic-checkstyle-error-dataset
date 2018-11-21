@@ -1,0 +1,5 @@
+17c17,18
+<     private Logger logger = LoggerFactory.getLogger(RepairnatorConfigReader.class);
+---
+>     private Logger logger = LoggerFactory.
+> getLogger(RepairnatorConfigReader.class);

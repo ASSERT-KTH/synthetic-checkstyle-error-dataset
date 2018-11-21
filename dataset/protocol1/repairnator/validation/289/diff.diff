@@ -1,0 +1,4 @@
+26c26
+< public class AssertFixerRepair extends AbstractRepairStep {
+---
+> public 	class AssertFixerRepair extends AbstractRepairStep {

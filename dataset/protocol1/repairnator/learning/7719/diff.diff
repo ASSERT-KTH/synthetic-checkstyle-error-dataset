@@ -1,0 +1,5 @@
+11c11,12
+< import org.eclipse.jgit.api.errors.GitAPIException;
+---
+> import org.eclipse.jgit.api.errors
+> .GitAPIException;

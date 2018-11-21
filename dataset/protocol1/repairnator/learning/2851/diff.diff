@@ -1,0 +1,4 @@
+62c62
+<                     properties.getCommits().setBuggyBuild(commit);
+---
+>                     properties.getCommits().setBuggyBuild(	commit);

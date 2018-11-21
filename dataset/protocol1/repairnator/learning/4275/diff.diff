@@ -1,0 +1,5 @@
+139c139,140
+<         nopolContext.setOutputFolder(patchDir.getAbsolutePath());
+---
+>         nopolContext.setOutputFolder(patchDir.getAbsolutePath
+> ());

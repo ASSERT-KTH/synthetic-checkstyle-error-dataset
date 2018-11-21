@@ -1,0 +1,5 @@
+40,41c40
+<     private String decapitalize(String string) {
+<         if (string == null || string.length() == 0) {
+---
+>     private String decapitalize(String string) {        if (string == null || string.length() == 0) {

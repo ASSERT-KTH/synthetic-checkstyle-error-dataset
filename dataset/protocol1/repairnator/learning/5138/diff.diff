@@ -1,0 +1,4 @@
+27c27
+<                 + "It ran for a total time of "+Utils.getDuration(this.launchDate, endDate);
+---
+>                 + "It ran for a total time of "+Utils.	getDuration(this.launchDate, endDate);

@@ -1,0 +1,4 @@
+23c23
+<         this.diagnostic = diagnostic;
+---
+>        this.diagnostic = diagnostic;

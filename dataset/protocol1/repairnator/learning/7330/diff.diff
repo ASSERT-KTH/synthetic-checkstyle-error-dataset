@@ -1,0 +1,4 @@
+24c24
+<         super(buildToBeInspected, workspace, serializers, notifiers);
+---
+>        super(buildToBeInspected, workspace, serializers, notifiers);

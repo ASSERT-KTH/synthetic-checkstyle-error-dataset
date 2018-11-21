@@ -1,0 +1,4 @@
+227c227
+<     public void setFork(boolean fork) {
+---
+>     public void setFork(boolean fork) 	{

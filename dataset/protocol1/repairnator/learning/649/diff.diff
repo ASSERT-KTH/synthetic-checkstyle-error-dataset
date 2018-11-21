@@ -1,0 +1,5 @@
+29c29,30
+<             List<Image> allImages = docker.listImages(DockerClient.ListImagesParam.allImages());
+---
+>             List<Image> allImages = docker.
+> listImages(DockerClient.ListImagesParam.allImages());

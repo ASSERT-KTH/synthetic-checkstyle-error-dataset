@@ -1,0 +1,4 @@
+1c1
+< package fr.inria.spirals.repairnator.process.inspectors.properties.patchDiff;
+---
+> package fr.inria.spirals.repairnator	.process.inspectors.properties.patchDiff;

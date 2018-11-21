@@ -1,0 +1,4 @@
+11c11
+<     void serialize(List<SerializedData> data, SerializerType serializer);
+---
+>     void serialize(List<SerializedData> data, SerializerType serializer	);

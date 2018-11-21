@@ -1,0 +1,5 @@
+195c195,196
+<                             File sourceFolder = getSources()[i];
+---
+>                             File sourceFolder = getSources()[i
+> ];

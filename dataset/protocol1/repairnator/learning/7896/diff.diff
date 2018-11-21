@@ -1,0 +1,5 @@
+17c17,18
+< import fr.inria.spirals.repairnator.process.nopol.IgnoreStatus;
+---
+> import fr.inria
+> .spirals.repairnator.process.nopol.IgnoreStatus;

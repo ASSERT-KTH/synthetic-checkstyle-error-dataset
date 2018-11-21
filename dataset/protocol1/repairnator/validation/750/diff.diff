@@ -1,0 +1,4 @@
+165c165
+<         this.whiteListedRepository.add(repository.getId());
+---
+>         this.whiteListedRepository.add(repository.getId	());

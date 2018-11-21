@@ -1,0 +1,4 @@
+173c173
+<         commit.setRepoName(build.getRepository().getSlug());
+---
+>         commit.setRepoName(build.getRepository().getSlug	());

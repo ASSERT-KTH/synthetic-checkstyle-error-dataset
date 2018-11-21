@@ -1,0 +1,5 @@
+93c93,94
+<     protected void recordPatches(List<RepairPatch> patchList) {
+---
+>     protected void recordPatches(List<
+> RepairPatch> patchList) {

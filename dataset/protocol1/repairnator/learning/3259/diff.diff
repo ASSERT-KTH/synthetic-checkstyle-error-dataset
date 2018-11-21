@@ -1,0 +1,4 @@
+15c15
+<     public void setNumberAdded(int numberAdded) {
+---
+>     public void setNumberAdded(int 	numberAdded) {

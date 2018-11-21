@@ -1,0 +1,4 @@
+63c63
+<         return "[ " + this.step.getName() + " : " + this.status.name() + suffix + " ]";
+---
+>        return "[ " + this.step.getName() + " : " + this.status.name() + suffix + " ]";

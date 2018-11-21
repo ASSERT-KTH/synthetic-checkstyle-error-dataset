@@ -1,0 +1,4 @@
+194c194
+<         return this.getRepoSlug().replace('/', '-') + '-' + this.getBuggyBuild().getId() + '-' + formattedDate;
+---
+>         return this.getRepoSlug().replace('/', '-') + '-' + this.getBuggyBuild().getId	() + '-' + formattedDate;

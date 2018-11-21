@@ -1,0 +1,4 @@
+486c486
+<         if (ghToken != null && !ghToken.isEmpty()) {
+---
+>          if (ghToken != null && !ghToken.isEmpty()) {

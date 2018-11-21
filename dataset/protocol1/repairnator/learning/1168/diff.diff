@@ -1,0 +1,4 @@
+10c10
+<     public MavenMuteOutputHandler(MavenHelper mavenHelper) {
+---
+>    public MavenMuteOutputHandler(MavenHelper mavenHelper) {

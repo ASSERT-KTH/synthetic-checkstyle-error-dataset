@@ -1,0 +1,4 @@
+54c54
+<         this.addDate(result, "dateBegin", this.scanner.getScannerRunningBeginDate());
+---
+>         this.addDate(result, "dateBegin", this	.scanner.getScannerRunningBeginDate());

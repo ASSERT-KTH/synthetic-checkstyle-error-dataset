@@ -1,0 +1,4 @@
+231c231
+<                 step.addStepError("Commit head ref cannot be retrieved from the repository: "
+---
+>                step.addStepError("Commit head ref cannot be retrieved from the repository: "

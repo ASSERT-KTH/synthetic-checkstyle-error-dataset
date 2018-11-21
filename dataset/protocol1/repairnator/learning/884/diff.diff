@@ -1,0 +1,5 @@
+225c225,226
+<                 nopolInformation.setNbStatements(result.getNbStatements());
+---
+>                 nopolInformation.setNbStatements
+> (result.getNbStatements());

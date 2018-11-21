@@ -1,0 +1,5 @@
+65c65,66
+<         this.buildToBeInspected = buildToBeInspected;
+---
+>         
+> this.buildToBeInspected = buildToBeInspected;

@@ -1,0 +1,5 @@
+146c146,147
+<         LOGGER.info("Repository "+repository.getSlug()+" (id: "+repository.getId()+") is blacklisted. Reason: "+reason.name()+" Comment: "+comment);
+---
+>         LOGGER.info("Repository "+repository.getSlug()+
+> " (id: "+repository.getId()+") is blacklisted. Reason: "+reason.name()+" Comment: "+comment);

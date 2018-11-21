@@ -1,0 +1,5 @@
+21c21,22
+<     public static final String M2_HOME = "M2_HOME";
+---
+>     public static final String M2_HOME = 
+> "M2_HOME";

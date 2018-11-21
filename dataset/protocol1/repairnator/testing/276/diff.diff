@@ -1,0 +1,5 @@
+48c48,49
+<             if (stepStatus.getStatus() == StepStatus.StatusKind.FAILURE) {
+---
+>             
+> if (stepStatus.getStatus() == StepStatus.StatusKind.FAILURE) {

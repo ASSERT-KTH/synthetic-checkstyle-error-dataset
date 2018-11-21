@@ -1,0 +1,5 @@
+13c13,14
+<     private Logger logger = LoggerFactory.getLogger(MongoConnection.class);
+---
+>     private Logger logger = LoggerFactory.getLogger(MongoConnection
+> .class);

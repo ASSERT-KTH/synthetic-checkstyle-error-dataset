@@ -1,0 +1,5 @@
+24c24,25
+<         this.mongoDatabase = mongoConnection.getMongoDatabase();
+---
+>         this
+> .mongoDatabase = mongoConnection.getMongoDatabase();

@@ -1,0 +1,5 @@
+16c16,17
+< import org.slf4j.LoggerFactory;
+---
+> import org
+> .slf4j.LoggerFactory;

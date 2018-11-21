@@ -1,0 +1,4 @@
+36c36
+<     public long getTotalMemory() {
+---
+>     public long getTotalMemory() 	{

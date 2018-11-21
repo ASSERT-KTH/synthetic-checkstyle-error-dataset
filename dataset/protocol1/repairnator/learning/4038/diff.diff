@@ -1,0 +1,5 @@
+80c80,81
+<         this.numberLines = numberLines;
+---
+>         this.
+> numberLines = numberLines;

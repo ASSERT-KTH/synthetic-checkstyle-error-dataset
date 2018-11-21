@@ -1,0 +1,5 @@
+191c191,192
+<                 this.getLogger().info(this.resultDirs.length + " " + dirTypeName +" dirs were found:");
+---
+>                 this.getLogger().info(this.resultDirs.length + 
+> " " + dirTypeName +" dirs were found:");

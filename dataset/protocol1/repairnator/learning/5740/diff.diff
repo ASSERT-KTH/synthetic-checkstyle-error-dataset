@@ -1,0 +1,4 @@
+62c62
+<                 gitHelper.gitAdd(this.getInspector().getJobStatus().getCreatedFilesToPush(), git);
+---
+>                 gitHelper.gitAdd(this.getInspector().getJobStatus	().getCreatedFilesToPush(), git);

@@ -1,0 +1,4 @@
+65c65
+<     public static String getSimpleGithubRepoUrl(String slug) {
+---
+>    public static String getSimpleGithubRepoUrl(String slug) {

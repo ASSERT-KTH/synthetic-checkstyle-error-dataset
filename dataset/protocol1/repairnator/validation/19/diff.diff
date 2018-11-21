@@ -1,0 +1,4 @@
+26c26
+<         List<File> plugins = new ArrayList<>();
+---
+>        List<File> plugins = new ArrayList<>();

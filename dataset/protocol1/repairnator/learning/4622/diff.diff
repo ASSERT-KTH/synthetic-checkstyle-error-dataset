@@ -1,0 +1,4 @@
+25c25
+<         MavenHelper helper = new MavenHelper(this.getPom(), "test", null, this.getClass().getSimpleName(), this.getInspector(), false);
+---
+>         MavenHelper helper = new MavenHelper(this.getPom(), "test", null, this.getClass().getSimpleName(), this.getInspector(), 	false);

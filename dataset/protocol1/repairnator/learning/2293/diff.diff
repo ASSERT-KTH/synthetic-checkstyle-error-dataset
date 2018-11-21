@@ -1,0 +1,5 @@
+51c51,52
+<         text += "cd "+projectName+"\n";
+---
+>         text += 
+> "cd "+projectName+"\n";

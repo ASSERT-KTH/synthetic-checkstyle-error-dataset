@@ -1,0 +1,5 @@
+14c14,15
+<     public InputBuildId(long buggyBuildId) {
+---
+>     public InputBuildId
+> (long buggyBuildId) {

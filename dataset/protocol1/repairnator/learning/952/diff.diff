@@ -1,0 +1,4 @@
+15c15
+<         this.isError = isError;
+---
+>         this.	isError = isError;

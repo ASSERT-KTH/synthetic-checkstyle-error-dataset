@@ -1,0 +1,4 @@
+439c439
+<     public void setBearsMode(BearsMode bearsMode) {
+---
+>     public void setBearsMode	(BearsMode bearsMode) {

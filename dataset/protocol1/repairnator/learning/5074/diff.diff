@@ -1,0 +1,5 @@
+6c6,7
+< import org.apache.maven.shared.invoker.InvocationResult;
+---
+> import org.apache.maven.shared
+> .invoker.InvocationResult;

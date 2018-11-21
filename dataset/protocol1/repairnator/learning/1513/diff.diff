@@ -1,0 +1,4 @@
+9c9
+< import fr.inria.spirals.repairnator.process.inspectors.ProjectInspector4Bears;
+---
+> import fr.inria	.spirals.repairnator.process.inspectors.ProjectInspector4Bears;

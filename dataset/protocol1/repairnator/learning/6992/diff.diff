@@ -1,0 +1,4 @@
+46c46
+<         result.add(propertyName, intermediateObject);
+---
+>        result.add(propertyName, intermediateObject);

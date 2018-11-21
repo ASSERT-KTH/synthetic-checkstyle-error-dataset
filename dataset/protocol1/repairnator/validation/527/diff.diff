@@ -1,0 +1,5 @@
+392c392,393
+<             printUsage(jsap, launcherType);
+---
+>             printUsage(jsap, 
+> launcherType);

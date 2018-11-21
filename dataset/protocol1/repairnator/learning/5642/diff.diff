@@ -1,0 +1,4 @@
+178c178
+<         this.config.setGithubUserEmail(LauncherUtils.getArgGithubUserEmail(arguments));
+---
+>        this.config.setGithubUserEmail(LauncherUtils.getArgGithubUserEmail(arguments));

@@ -1,0 +1,4 @@
+196c196
+<             commit.setRepoName(ghCommitPointer.getRepository().getFullName());
+---
+>             commit.setRepoName(ghCommitPointer.getRepository().	getFullName());

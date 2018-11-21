@@ -1,0 +1,4 @@
+23c23
+<     HARDWARE_INFO("hardwareInfo"),
+---
+>     HARDWARE_INFO(	"hardwareInfo"),

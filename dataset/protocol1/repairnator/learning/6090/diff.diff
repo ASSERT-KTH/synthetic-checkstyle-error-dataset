@@ -1,0 +1,4 @@
+39c39
+<         int totalDuration = 0;
+---
+>        int totalDuration = 0;

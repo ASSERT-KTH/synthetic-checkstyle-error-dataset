@@ -1,0 +1,5 @@
+29c29,30
+<         sw.setShortFlag('h');
+---
+>         sw.setShortFlag('h'
+> );

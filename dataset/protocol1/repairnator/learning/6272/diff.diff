@@ -1,0 +1,5 @@
+31,32c31
+<     public boolean equals(Object o) {
+<         if (this == o) {
+---
+>     public boolean equals(Object o) {        if (this == o) {

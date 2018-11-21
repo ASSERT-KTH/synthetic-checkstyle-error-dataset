@@ -1,0 +1,5 @@
+299,300c299
+<                     path = entry.getOldPath();
+<                 } else {
+---
+>                     path = entry.getOldPath();                } else {

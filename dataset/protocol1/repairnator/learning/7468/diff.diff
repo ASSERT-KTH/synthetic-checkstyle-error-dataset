@@ -1,0 +1,5 @@
+124c124,125
+<         this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberLibrariesFailingModule(this.classPath.size());
+---
+>         this.getInspector().getJobStatus().getProperties().getProjectMetrics().
+> setNumberLibrariesFailingModule(this.classPath.size());

@@ -1,0 +1,4 @@
+329c329
+<             Optional<Build> optionalBuildPatch = jTravis.build().fromId(this.getConfig().getNextBuildId());
+---
+>             Optional<Build> optionalBuildPatch = jTravis.build()	.fromId(this.getConfig().getNextBuildId());

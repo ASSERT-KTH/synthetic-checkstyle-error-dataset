@@ -1,0 +1,5 @@
+56c56,57
+<                 logger.error("Error while writing in file", e);
+---
+>                 logger.error
+> ("Error while writing in file", e);

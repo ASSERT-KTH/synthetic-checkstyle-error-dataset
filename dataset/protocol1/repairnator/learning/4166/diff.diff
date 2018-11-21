@@ -1,0 +1,4 @@
+54c54
+<     private final Logger logger = LoggerFactory.getLogger(MavenHelper.class);
+---
+>    private final Logger logger = LoggerFactory.getLogger(MavenHelper.class);

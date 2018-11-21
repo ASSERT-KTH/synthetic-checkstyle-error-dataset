@@ -1,0 +1,4 @@
+188c188
+<                                     properties.getTests().addFailureDetail(failureDetail);
+---
+>                                     properties.	getTests().addFailureDetail(failureDetail);

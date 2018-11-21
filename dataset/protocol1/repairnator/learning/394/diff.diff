@@ -1,0 +1,4 @@
+59c59
+<     private String name;
+---
+>    private String name;

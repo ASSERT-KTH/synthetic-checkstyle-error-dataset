@@ -1,0 +1,4 @@
+89c89
+<         Switch sw1 = new Switch("humanPatch");
+---
+>        Switch sw1 = new Switch("humanPatch");

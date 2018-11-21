@@ -1,0 +1,5 @@
+403c403,404
+<         if (System.getenv(envVariable) == null || System.getenv(envVariable).equals("")) {
+---
+>         if (System.getenv(envVariable) == null || System
+> .getenv(envVariable).equals("")) {

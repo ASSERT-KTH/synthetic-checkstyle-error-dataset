@@ -1,0 +1,5 @@
+113c113,114
+<         for (File surefireDir : surefireDirs) {
+---
+>         for 
+> (File surefireDir : surefireDirs) {

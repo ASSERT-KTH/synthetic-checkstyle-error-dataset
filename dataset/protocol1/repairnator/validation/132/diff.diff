@@ -1,0 +1,4 @@
+70c70
+<         result.addProperty("buildId", build.getId());
+---
+>        result.addProperty("buildId", build.getId());

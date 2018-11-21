@@ -1,0 +1,5 @@
+73c73,74
+<                 this.getInspector().getRepoLocalPath() : this.getInspector().getJobStatus().getFailingModulePath();
+---
+>                 this.getInspector()
+> .getRepoLocalPath() : this.getInspector().getJobStatus().getFailingModulePath();

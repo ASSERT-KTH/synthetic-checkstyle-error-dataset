@@ -1,0 +1,4 @@
+65c65
+<             if (failure.getFailureName().equals(failureName) &&
+---
+>            if (failure.getFailureName().equals(failureName) &&

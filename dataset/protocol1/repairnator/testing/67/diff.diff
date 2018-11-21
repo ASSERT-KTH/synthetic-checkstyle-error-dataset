@@ -1,0 +1,4 @@
+46c46
+<             elementFreeMemory.addProperty(stepFreeMemory.getKey(), stepFreeMemory.getValue());
+---
+>             elementFreeMemory.addProperty(stepFreeMemory.getKey(), 	stepFreeMemory.getValue());

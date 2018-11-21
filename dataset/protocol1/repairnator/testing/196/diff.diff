@@ -1,0 +1,4 @@
+23c23
+<     public Path read(JsonReader jsonReader) throws IOException {
+---
+>     public Path read(JsonReader jsonReader	) throws IOException {

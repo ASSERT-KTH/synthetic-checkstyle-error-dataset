@@ -1,0 +1,4 @@
+24c24
+<                 this.getLogger().info("Commit process end...");
+---
+>                 this.getLogger().	info("Commit process end...");

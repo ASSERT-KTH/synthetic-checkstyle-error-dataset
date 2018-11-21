@@ -1,0 +1,4 @@
+76c76
+<         result.addProperty("totalPassingAndPassingBuildPairs", this.scanner.getTotalNumberOfPassingAndPassingBuildPairs());
+---
+>         result.addProperty("totalPassingAndPassingBuildPairs", this.scanner.	getTotalNumberOfPassingAndPassingBuildPairs());

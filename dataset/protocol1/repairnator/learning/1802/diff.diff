@@ -1,0 +1,5 @@
+21c21,22
+<     public WritePropertyFile(ProjectInspector inspector) {
+---
+>     public 
+> WritePropertyFile(ProjectInspector inspector) {

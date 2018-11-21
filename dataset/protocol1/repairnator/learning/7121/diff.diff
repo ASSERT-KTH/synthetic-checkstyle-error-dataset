@@ -1,0 +1,4 @@
+35c35
+<     public FailingClass addFailingClass(String failingClassName) {
+---
+>     public FailingClass addFailingClass(String 	failingClassName) {

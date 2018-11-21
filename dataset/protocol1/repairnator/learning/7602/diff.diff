@@ -1,0 +1,5 @@
+23c23,24
+<     public ProjectInspector4Checkstyle(BuildToBeInspected buildToBeInspected, String workspace, List<AbstractDataSerializer> serializers, List<AbstractNotifier> notifiers) {
+---
+>     public ProjectInspector4Checkstyle
+> (BuildToBeInspected buildToBeInspected, String workspace, List<AbstractDataSerializer> serializers, List<AbstractNotifier> notifiers) {

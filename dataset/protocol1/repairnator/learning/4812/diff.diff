@@ -1,0 +1,4 @@
+31c31
+<             this.addStepError("There is no patched build retrieved. This will stop now.");
+---
+>            this.addStepError("There is no patched build retrieved. This will stop now.");

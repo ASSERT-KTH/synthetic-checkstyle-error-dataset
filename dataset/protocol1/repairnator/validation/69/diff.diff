@@ -1,0 +1,4 @@
+194c194
+<             this.getConfig().setLauncherMode(LauncherMode.BEARS);
+---
+>            this.getConfig().setLauncherMode(LauncherMode.BEARS);

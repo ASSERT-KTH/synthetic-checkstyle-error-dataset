@@ -1,0 +1,4 @@
+20c20
+<     public int getNbSteps() {
+---
+>     public int getNbSteps(	) {

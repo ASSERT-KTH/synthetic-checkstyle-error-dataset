@@ -1,0 +1,5 @@
+237c237,238
+<         int localPassingTime = Math.round((afterNopol - beforeNopol) / 60000);
+---
+>         int localPassingTime = Math.round((afterNopol - beforeNopol
+> ) / 60000);

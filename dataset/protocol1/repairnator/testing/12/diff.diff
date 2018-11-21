@@ -1,0 +1,4 @@
+352c352
+<             this.logger.info(stepNameFormatted + stepStatus + stepDurationFormatted);
+---
+>            this.logger.info(stepNameFormatted + stepStatus + stepDurationFormatted);

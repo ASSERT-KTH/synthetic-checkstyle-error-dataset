@@ -1,0 +1,5 @@
+86c86,87
+<             multipleTestCases.put(failureLocation.getClassName(), failingMethods);
+---
+>             multipleTestCases.put(
+> failureLocation.getClassName(), failingMethods);

@@ -1,0 +1,4 @@
+50c50
+<         text += "mkdir "+projectName+"\n";
+---
+>         text += "mkdir "+	projectName+"\n";

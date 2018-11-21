@@ -1,0 +1,4 @@
+56c56
+<         dataCol.add(Runtime.getRuntime().availableProcessors());
+---
+>         dataCol.add(Runtime.getRuntime()	.availableProcessors());

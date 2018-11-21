@@ -1,0 +1,4 @@
+31c31
+<     private InputBuildId inputBuildId;
+---
+>     private 	InputBuildId inputBuildId;

@@ -1,0 +1,4 @@
+30c30
+<             this.getLogger().debug("Cloning repository " + repoSlug + " in the following directory: " + repoLocalPath);
+---
+>            this.getLogger().debug("Cloning repository " + repoSlug + " in the following directory: " + repoLocalPath);

@@ -1,0 +1,4 @@
+36c36
+<         for (String moduleName : model.getModules()) {
+---
+>         for (String moduleName : model.getModules()	) {

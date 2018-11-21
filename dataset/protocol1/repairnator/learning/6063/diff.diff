@@ -1,0 +1,4 @@
+18c18
+<     public Build getFixerBuild() {
+---
+>    public Build getFixerBuild() {

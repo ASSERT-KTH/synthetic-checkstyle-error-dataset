@@ -1,0 +1,5 @@
+92c92,93
+<         File rootRepo = new File(this.getInspector().getJobStatus().getPomDirPath());
+---
+>         File rootRepo = new File(this.getInspector().getJobStatus().
+> getPomDirPath());

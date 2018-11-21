@@ -1,0 +1,4 @@
+26c26
+<     public void setOccurrences(int occurrences) {
+---
+>    public void setOccurrences(int occurrences) {

@@ -1,0 +1,4 @@
+73c73
+<             File patchFile = new File(toolDirectory, "patch_" + (i++) + ".patch");
+---
+>             File patchFile = new File(toolDirectory, "patch_" + (i++	) + ".patch");

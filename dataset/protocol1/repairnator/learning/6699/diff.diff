@@ -1,0 +1,4 @@
+18c18
+<     protected static final String FILENAME = "repairconfig.ini";
+---
+>     protected static final String 	FILENAME = "repairconfig.ini";

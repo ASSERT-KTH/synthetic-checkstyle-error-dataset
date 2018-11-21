@@ -1,0 +1,4 @@
+440c440
+<             notifierEngines.add(new EmailNotifierEngine(config.getNotifyTo(), config.getSmtpServer(), config.getSmtpPort(), config.getSmtpTLS(), config.getSmtpUsername(), config.getSmtpPassword()));
+---
+>             notifierEngines.add	(new EmailNotifierEngine(config.getNotifyTo(), config.getSmtpServer(), config.getSmtpPort(), config.getSmtpTLS(), config.getSmtpUsername(), config.getSmtpPassword()));

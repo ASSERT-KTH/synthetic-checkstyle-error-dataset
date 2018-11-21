@@ -1,0 +1,5 @@
+173c173,174
+<         this.logger.debug("Checking the "+this.totalRepoNumber+" repositories.");
+---
+>         this.logger.debug("Checking the "+this
+> .totalRepoNumber+" repositories.");

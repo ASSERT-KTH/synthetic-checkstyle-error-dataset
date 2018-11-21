@@ -1,0 +1,4 @@
+69c69
+<         configuration.setPathToTestFolder(testList);
+---
+>        configuration.setPathToTestFolder(testList);

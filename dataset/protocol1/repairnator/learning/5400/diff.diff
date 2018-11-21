@@ -1,0 +1,4 @@
+15c15
+<     public SerializedData(List<Object> list, JsonElement jsonElement) {
+---
+>      public SerializedData(List<Object> list, JsonElement jsonElement) {

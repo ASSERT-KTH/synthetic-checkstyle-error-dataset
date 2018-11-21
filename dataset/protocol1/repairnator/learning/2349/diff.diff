@@ -1,0 +1,5 @@
+349c349,350
+<         if (!this.shouldStop) {
+---
+>         if (
+> !this.shouldStop) {

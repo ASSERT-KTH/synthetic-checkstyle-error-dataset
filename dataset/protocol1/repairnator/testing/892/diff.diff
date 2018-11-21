@@ -1,0 +1,4 @@
+175c175
+<         for (String slug : allSlugs) {
+---
+>         for (String slug : allSlugs) 	{

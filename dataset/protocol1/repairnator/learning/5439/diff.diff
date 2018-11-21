@@ -1,0 +1,4 @@
+80c80
+<                     File patchDir = new File(this.getInspector().getRepoLocalPath()+"/repairnatorPatches");
+---
+>                    File patchDir = new File(this.getInspector().getRepoLocalPath()+"/repairnatorPatches");

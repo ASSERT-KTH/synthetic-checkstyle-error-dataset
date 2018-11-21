@@ -1,0 +1,5 @@
+16c16,17
+<     public void write(JsonWriter jsonWriter, Path path) throws IOException {
+---
+>     public void write
+> (JsonWriter jsonWriter, Path path) throws IOException {

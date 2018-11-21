@@ -1,0 +1,4 @@
+289c289
+<                     for (Job job : build.getJobs()) {
+---
+>                    for (Job job : build.getJobs()) {

@@ -1,0 +1,5 @@
+6c6,7
+< import com.google.gson.JsonSerializer;
+---
+> import com.google.gson
+> .JsonSerializer;

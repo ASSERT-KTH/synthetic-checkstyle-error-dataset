@@ -1,0 +1,4 @@
+45c45
+<             dirPath = dirPath.getCanonicalFile();
+---
+>             dirPath = dirPath.	getCanonicalFile();

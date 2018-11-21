@@ -1,0 +1,4 @@
+102c102
+<         LOGGER.info("Build (id: "+pipelineContainer.getInputBuildId().getBuggyBuildId()+") has finished.");
+---
+>         LOGGER	.info("Build (id: "+pipelineContainer.getInputBuildId().getBuggyBuildId()+") has finished.");

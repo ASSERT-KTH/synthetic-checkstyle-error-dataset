@@ -1,0 +1,4 @@
+78c78
+<             serializedPatches.add(patchFile);
+---
+>             serializedPatches.add(patchFile	);

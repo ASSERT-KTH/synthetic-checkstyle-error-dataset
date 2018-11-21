@@ -1,0 +1,5 @@
+140,141c140
+<             forkedRepo = forkedRepo.replace("https://api.github.com/repos", "https://github.com");
+<         }
+---
+>             forkedRepo = forkedRepo.replace("https://api.github.com/repos", "https://github.com");        }

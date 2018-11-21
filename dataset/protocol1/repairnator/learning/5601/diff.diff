@@ -1,0 +1,5 @@
+61c61,62
+<             this.logger.debug("Build " + this.getBuggyBuild().getId() + " is not a failing build.");
+---
+>             this.logger.debug("Build " + this.getBuggyBuild().getId(
+> ) + " is not a failing build.");

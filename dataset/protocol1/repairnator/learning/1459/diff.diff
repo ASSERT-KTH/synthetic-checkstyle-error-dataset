@@ -1,0 +1,4 @@
+76c76
+<         Build previousBuild = inspector.getBuggyBuild();
+---
+>        Build previousBuild = inspector.getBuggyBuild();

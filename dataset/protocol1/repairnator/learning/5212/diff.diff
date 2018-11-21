@@ -1,0 +1,5 @@
+103c103,104
+<         result = 31 * result + (erroringMethods != null ? erroringMethods.hashCode() : 0);
+---
+>         result = 31 * result + (erroringMethods != null 
+> ? erroringMethods.hashCode() : 0);

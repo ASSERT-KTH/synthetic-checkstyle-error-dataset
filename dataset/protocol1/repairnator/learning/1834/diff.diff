@@ -1,0 +1,4 @@
+136c136
+<         nopolContext.setSynthesis(NopolContext.NopolSynthesis.DYNAMOTH);
+---
+>         nopolContext.setSynthesis(NopolContext.NopolSynthesis.	DYNAMOTH);

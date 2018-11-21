@@ -1,0 +1,5 @@
+32c32,33
+<             for (Image image : allImages) {
+---
+>             for 
+> (Image image : allImages) {

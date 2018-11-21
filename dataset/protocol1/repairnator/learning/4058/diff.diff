@@ -1,0 +1,4 @@
+16c16
+<     public void consumeLine(String s) {
+---
+>     public void 	consumeLine(String s) {

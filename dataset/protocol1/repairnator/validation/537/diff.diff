@@ -1,0 +1,4 @@
+141c141
+<         this.config.setMongodbHost(LauncherUtils.getArgMongoDBHost(arguments));
+---
+>         this.	config.setMongodbHost(LauncherUtils.getArgMongoDBHost(arguments));

@@ -1,0 +1,4 @@
+62c62
+<             this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberLines(numberLines);
+---
+>            this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberLines(numberLines);

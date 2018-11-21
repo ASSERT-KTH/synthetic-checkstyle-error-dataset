@@ -1,0 +1,5 @@
+114c114,115
+<             SurefireReportParser parser = new SurefireReportParser(Arrays.asList(new File[] { surefireDir }),
+---
+>             SurefireReportParser parser = new SurefireReportParser(Arrays.asList(new File[] { surefireDir }
+> ),

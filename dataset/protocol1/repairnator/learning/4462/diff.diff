@@ -1,0 +1,4 @@
+255c255
+<             MergeResult result = git.merge().include(revCommitBase).setFastForward(MergeCommand.FastForwardMode.NO_FF).call();
+---
+>             MergeResult result = git.merge().include(revCommitBase).setFastForward(MergeCommand.	FastForwardMode.NO_FF).call();

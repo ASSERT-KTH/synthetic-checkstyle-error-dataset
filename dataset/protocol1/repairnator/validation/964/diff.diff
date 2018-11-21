@@ -1,0 +1,5 @@
+178c178,179
+<         SerializerEngine mongoDBSerializerEngine = LauncherUtils.initMongoDBSerializerEngine(LOGGER);
+---
+>         SerializerEngine mongoDBSerializerEngine = 
+> LauncherUtils.initMongoDBSerializerEngine(LOGGER);

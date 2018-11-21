@@ -1,0 +1,5 @@
+72c72,73
+<         result.addProperty("buildFinishedDateStr", Utils.formatCompleteDate(build.getFinishedAt()));
+---
+>         result.addProperty("buildFinishedDateStr"
+> , Utils.formatCompleteDate(build.getFinishedAt()));

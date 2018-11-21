@@ -1,0 +1,5 @@
+8c8,9
+< import fr.inria.spirals.repairnator.serializer.engines.SerializerEngine;
+---
+> import fr.
+> inria.spirals.repairnator.serializer.engines.SerializerEngine;

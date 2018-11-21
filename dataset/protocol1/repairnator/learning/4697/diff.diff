@@ -1,0 +1,4 @@
+79c79
+<         this.addDate(result, "buildReproductionDate", new Date());
+---
+>        this.addDate(result, "buildReproductionDate", new Date());

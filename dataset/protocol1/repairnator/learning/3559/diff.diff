@@ -1,0 +1,5 @@
+6c6,7
+< import fr.inria.spirals.repairnator.process.maven.output.MavenMuteOutputHandler;
+---
+> import fr.inria.spirals.repairnator
+> .process.maven.output.MavenMuteOutputHandler;

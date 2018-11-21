@@ -1,0 +1,5 @@
+14c14,15
+< import fr.inria.spirals.repairnator.config.RepairnatorConfig;
+---
+> import fr.inria.spirals.repairnator.config.
+> RepairnatorConfig;

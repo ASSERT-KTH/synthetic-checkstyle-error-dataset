@@ -1,0 +1,5 @@
+93c93,94
+<         super.setFinalStep(new WritePropertyFile(this));
+---
+>         
+> super.setFinalStep(new WritePropertyFile(this));

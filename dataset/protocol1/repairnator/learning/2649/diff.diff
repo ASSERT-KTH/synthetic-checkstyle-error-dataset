@@ -1,0 +1,4 @@
+72c72
+<                     this.getLogger().debug("Check if a branch already exists in the remote repository...");
+---
+>                     this.getLogger().	debug("Check if a branch already exists in the remote repository...");

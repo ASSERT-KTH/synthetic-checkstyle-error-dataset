@@ -1,0 +1,4 @@
+81c81
+<         String realState = StringUtils.join(jobStatus.getStepStatuses(), " -> ");
+---
+>         String realState = StringUtils.join(jobStatus.	getStepStatuses(), " -> ");

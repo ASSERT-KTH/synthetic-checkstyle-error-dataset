@@ -1,0 +1,5 @@
+240c240,241
+<         this.setDockerOutputDir(this.config.getLogDirectory());
+---
+>         this.setDockerOutputDir(this.config.
+> getLogDirectory());

@@ -1,0 +1,4 @@
+159c159
+<             LOGGER.error("Error while building complete model. The raw model will be used. Error message: " + e.getMessage());
+---
+>             LOGGER.error("Error while building complete model. The raw model will be used. Error message: " + e.getMessage	());

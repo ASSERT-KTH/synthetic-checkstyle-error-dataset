@@ -1,0 +1,4 @@
+15c15
+<     public CheckoutBuggyBuild(ProjectInspector inspector, boolean blockingStep, String stepName) {
+---
+>    public CheckoutBuggyBuild(ProjectInspector inspector, boolean blockingStep, String stepName) {

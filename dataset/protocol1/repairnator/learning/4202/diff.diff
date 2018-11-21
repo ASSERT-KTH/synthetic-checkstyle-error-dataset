@@ -1,0 +1,5 @@
+23c23,24
+<         this(inspectBuilds, inspectJobs, buildRunner);
+---
+>         this(inspectBuilds, 
+> inspectJobs, buildRunner);

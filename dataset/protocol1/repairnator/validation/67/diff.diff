@@ -1,0 +1,4 @@
+53c53
+<         if (plugins == null) {
+---
+>        if (plugins == null) {

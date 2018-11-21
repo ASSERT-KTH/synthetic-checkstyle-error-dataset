@@ -1,0 +1,5 @@
+215c215,216
+<                 nopolInformation.setNbAngelicValues(result.getNbAngelicValues());
+---
+>                 nopolInformation.setNbAngelicValues(result.getNbAngelicValues()
+> );

@@ -1,0 +1,5 @@
+21c21,22
+<             if ((method.getParameterCount() == 0) && (method.getName().startsWith("get"))) {
+---
+>             if ((method.getParameterCount
+> () == 0) && (method.getName().startsWith("get"))) {

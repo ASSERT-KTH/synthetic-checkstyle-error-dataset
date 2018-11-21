@@ -1,0 +1,5 @@
+46c46,47
+<         result.addProperty("totalMemory", Runtime.getRuntime().totalMemory());
+---
+>         result
+> .addProperty("totalMemory", Runtime.getRuntime().totalMemory());

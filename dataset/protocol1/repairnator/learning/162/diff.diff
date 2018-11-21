@@ -1,0 +1,4 @@
+87c87
+<                     } else if (checkoutType == CheckoutType.CHECKOUT_BUGGY_BUILD ||
+---
+>                    } else if (checkoutType == CheckoutType.CHECKOUT_BUGGY_BUILD ||

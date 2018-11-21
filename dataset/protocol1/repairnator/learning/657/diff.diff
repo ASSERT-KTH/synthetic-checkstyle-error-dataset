@@ -1,0 +1,5 @@
+36c36,37
+<         Instant endOfProcessDate = new Date().toInstant().plus(duration);
+---
+>         Instant endOfProcessDate = new Date().toInstant(
+> ).plus(duration);

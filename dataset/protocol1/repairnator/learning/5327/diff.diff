@@ -1,0 +1,5 @@
+29c29,30
+< class RepositoryModelResolver implements ModelResolver {
+---
+> class RepositoryModelResolver implements ModelResolver 
+> {

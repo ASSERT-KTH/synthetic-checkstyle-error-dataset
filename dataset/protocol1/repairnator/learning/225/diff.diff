@@ -1,0 +1,4 @@
+35c35
+<             Properties properties = this.readPropertiesFromInputStream(inputStream);
+---
+>            Properties properties = this.readPropertiesFromInputStream(inputStream);

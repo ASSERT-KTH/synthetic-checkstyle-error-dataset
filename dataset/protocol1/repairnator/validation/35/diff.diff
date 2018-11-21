@@ -1,0 +1,5 @@
+60c60,61
+<         this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberPlugins(plugins.size());
+---
+>         this.getInspector().getJobStatus().getProperties().getProjectMetrics().setNumberPlugins(plugins.size(
+> ));

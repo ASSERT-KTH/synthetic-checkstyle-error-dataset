@@ -1,0 +1,4 @@
+39c39
+<             File[] moreModules = this.findModules(module.getPath() + File.separator + Utils.POM_FILE, false);
+---
+>            File[] moreModules = this.findModules(module.getPath() + File.separator + Utils.POM_FILE, false);

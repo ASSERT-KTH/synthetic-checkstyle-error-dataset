@@ -1,0 +1,4 @@
+255c255
+<         scannerSerializer.serialize();
+---
+>         scannerSerializer.serialize	();

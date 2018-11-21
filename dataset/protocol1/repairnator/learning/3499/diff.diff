@@ -1,0 +1,4 @@
+66c66
+<         if (this.config.isDebug()) {
+---
+>        if (this.config.isDebug()) {

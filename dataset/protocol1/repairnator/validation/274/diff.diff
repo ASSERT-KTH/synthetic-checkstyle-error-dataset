@@ -1,0 +1,5 @@
+146c146,147
+<         this.config.setSmtpTLS(LauncherUtils.getArgSmtpTLS(arguments));
+---
+>         this.config.setSmtpTLS(LauncherUtils.getArgSmtpTLS(arguments)
+> );

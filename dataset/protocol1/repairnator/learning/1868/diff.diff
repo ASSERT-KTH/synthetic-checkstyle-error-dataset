@@ -1,0 +1,5 @@
+16,17c16
+<             instance = new PeriodStringParser();
+<         }
+---
+>             instance = new PeriodStringParser();        }

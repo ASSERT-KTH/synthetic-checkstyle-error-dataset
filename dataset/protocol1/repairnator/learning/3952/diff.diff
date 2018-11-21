@@ -1,0 +1,4 @@
+15c15
+<     private MongoDatabase mongoDatabase;
+---
+>    private MongoDatabase mongoDatabase;

@@ -1,0 +1,4 @@
+31c31
+<             filePath = this.getInspector().getRepoLocalPath() + File.separator + PROPERTY_FILENAME;
+---
+>              filePath = this.getInspector().getRepoLocalPath() + File.separator + PROPERTY_FILENAME;

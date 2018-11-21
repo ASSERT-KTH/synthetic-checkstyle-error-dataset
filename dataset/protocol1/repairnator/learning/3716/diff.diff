@@ -1,0 +1,4 @@
+60c60
+<             logger.error("Error while creating from adresses, the notifier won't be usable.", e);
+---
+>             logger.error("Error while creating from adresses, the notifier won't be usable.", e)	;

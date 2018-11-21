@@ -1,0 +1,4 @@
+74c74
+<     public void serialize() {
+---
+>     public 	void serialize() {

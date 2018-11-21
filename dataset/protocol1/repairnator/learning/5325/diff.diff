@@ -1,0 +1,5 @@
+7c7,8
+<     protected static final String TOOL_NAME = "AstorJGenProg";
+---
+>     protected 
+> static final String TOOL_NAME = "AstorJGenProg";

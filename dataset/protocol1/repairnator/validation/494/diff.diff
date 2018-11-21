@@ -1,0 +1,5 @@
+52c52,53
+<         Configuration configuration = new Configuration();
+---
+>         Configuration 
+> configuration = new Configuration();

@@ -1,0 +1,4 @@
+34c34
+<     public static final String SKIP_TEST_PROPERTY = "maven.test.skip.exec";
+---
+>     public static final String SKIP_TEST_PROPERTY = "maven.test.skip.exec"	;

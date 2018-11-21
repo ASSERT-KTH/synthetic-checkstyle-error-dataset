@@ -1,0 +1,5 @@
+53,54c53
+<         }
+<         return StepStatus.buildError(this, PipelineState.PROPERTY_FILE_NOT_WRITTEN);
+---
+>         }        return StepStatus.buildError(this, PipelineState.PROPERTY_FILE_NOT_WRITTEN);

@@ -1,0 +1,4 @@
+33c33
+<         request.setGoals(Arrays.asList(this.mavenHelper.getGoal()));
+---
+>         request.setGoals(Arrays.asList(this.	mavenHelper.getGoal()));

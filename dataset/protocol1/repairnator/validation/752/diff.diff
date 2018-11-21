@@ -1,0 +1,4 @@
+92c92
+<                     allData.add(new SerializedData(this.serializeAsList(buildToBeInspected), this.serializeAsJson(buildToBeInspected)));
+---
+>                     allData.add(new SerializedData(this.serializeAsList(buildToBeInspected)	, this.serializeAsJson(buildToBeInspected)));

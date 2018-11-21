@@ -1,0 +1,4 @@
+119c119
+<         int timeout = (TOTAL_MAX_TIME - this.passingTime) / 2;
+---
+>         int timeout = (TOTAL_MAX_TIME - this.passingTime) / 	2;

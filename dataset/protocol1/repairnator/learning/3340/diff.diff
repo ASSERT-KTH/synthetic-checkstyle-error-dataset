@@ -1,0 +1,4 @@
+18c18
+<             super.setCommitType(CommitType.COMMIT_CHANGED_TESTS);
+---
+>             super.setCommitType(CommitType.COMMIT_CHANGED_TESTS	);

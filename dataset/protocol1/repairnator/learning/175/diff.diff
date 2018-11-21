@@ -1,0 +1,5 @@
+428,429c428
+<         for (String path : paths) {
+<             if (!newPaths.contains(path)) {
+---
+>         for (String path : paths) {            if (!newPaths.contains(path)) {

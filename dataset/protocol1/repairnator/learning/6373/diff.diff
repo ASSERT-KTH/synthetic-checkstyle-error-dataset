@@ -1,0 +1,5 @@
+15c15,16
+<         this.buggyBuildId = buggyBuildId;
+---
+>         this
+> .buggyBuildId = buggyBuildId;

@@ -1,0 +1,4 @@
+188c188
+<             this.getConfig().setDebug(true);
+---
+>              this.getConfig().setDebug(true);

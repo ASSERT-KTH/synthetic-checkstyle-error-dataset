@@ -1,0 +1,5 @@
+8c8,9
+< import fr.inria.spirals.repairnator.process.step.StepStatus;
+---
+> import fr.inria.spirals.repairnator.process.
+> step.StepStatus;

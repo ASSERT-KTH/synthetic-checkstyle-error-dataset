@@ -1,0 +1,5 @@
+28,29c28
+<             throw new ParseException("No period given to parse");
+<         }
+---
+>             throw new ParseException("No period given to parse");        }

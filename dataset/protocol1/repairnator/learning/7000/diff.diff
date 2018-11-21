@@ -1,0 +1,5 @@
+41c41,42
+<         FailingClass failingClass = new FailingClass(failingClassName);
+---
+>         
+> FailingClass failingClass = new FailingClass(failingClassName);

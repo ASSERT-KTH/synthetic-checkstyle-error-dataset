@@ -1,0 +1,5 @@
+126c126,127
+<             LOGGER.info("Start running RTScanner...");
+---
+>             LOGGER.info("Start running RTScanner..."
+> );

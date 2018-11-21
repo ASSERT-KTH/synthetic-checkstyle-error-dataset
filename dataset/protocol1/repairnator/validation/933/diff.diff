@@ -1,0 +1,4 @@
+51c51
+<         result.addProperty("repoName", repo.getSlug());
+---
+>          result.addProperty("repoName", repo.getSlug());

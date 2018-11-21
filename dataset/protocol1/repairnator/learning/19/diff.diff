@@ -1,0 +1,5 @@
+174c174,175
+<                 NopolResult result = nopolExecution.get(nopolContext.getMaxTimeInMinutes(), TimeUnit.MINUTES);
+---
+>                 NopolResult result = nopolExecution
+> .get(nopolContext.getMaxTimeInMinutes(), TimeUnit.MINUTES);

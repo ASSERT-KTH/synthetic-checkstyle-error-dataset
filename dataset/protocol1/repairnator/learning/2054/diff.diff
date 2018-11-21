@@ -1,0 +1,4 @@
+15c15
+<     private String projectRootPomPath;
+---
+>     private String projectRootPomPath	;

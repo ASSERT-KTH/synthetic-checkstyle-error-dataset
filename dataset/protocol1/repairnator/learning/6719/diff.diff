@@ -1,0 +1,5 @@
+50c50,51
+<         if (stream != null) {
+---
+>         
+> if (stream != null) {

@@ -1,0 +1,4 @@
+6c6
+<     private String testMethod;
+---
+>     private String 	testMethod;

@@ -1,0 +1,4 @@
+26c26
+<             throw new ParseException(e);
+---
+>            throw new ParseException(e);

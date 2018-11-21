@@ -1,0 +1,4 @@
+113c113
+<             addStepError("Error while executing AssertFixer", e);
+---
+>            addStepError("Error while executing AssertFixer", e);

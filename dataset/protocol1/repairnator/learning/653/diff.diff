@@ -1,0 +1,4 @@
+393c393
+<         gitReset.add(commit);
+---
+>        gitReset.add(commit);

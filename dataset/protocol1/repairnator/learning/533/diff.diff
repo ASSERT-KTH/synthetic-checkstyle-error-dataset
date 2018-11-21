@@ -1,0 +1,5 @@
+145c145,146
+<                             if (testCase.hasFailure() || testCase.hasError()) {
+---
+>                             if (testCase.hasFailure() || testCase.hasError()
+> ) {

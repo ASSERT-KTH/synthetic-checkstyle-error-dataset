@@ -1,0 +1,4 @@
+155c155
+<             final NoPol nopol = new NoPol(nopolContext);
+---
+>            final NoPol nopol = new NoPol(nopolContext);

@@ -1,0 +1,4 @@
+176c176
+<             LOGGER.warn("Whitelist file not initialized: the entry won't be written.");
+---
+>            LOGGER.warn("Whitelist file not initialized: the entry won't be written.");

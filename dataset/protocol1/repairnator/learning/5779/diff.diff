@@ -1,0 +1,5 @@
+9c9,10
+<     public CommitChangedTests(ProjectInspector inspector) {
+---
+>     public CommitChangedTests(ProjectInspector inspector
+> ) {

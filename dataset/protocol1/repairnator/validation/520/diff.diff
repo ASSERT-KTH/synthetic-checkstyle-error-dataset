@@ -1,0 +1,4 @@
+240c240
+<                     this.addInBlacklistRepository(repository, BlacklistedSerializer.Reason.USE_GRADLE, "");
+---
+>                     this.addInBlacklistRepository(repository, BlacklistedSerializer.Reason.USE_GRADLE	, "");

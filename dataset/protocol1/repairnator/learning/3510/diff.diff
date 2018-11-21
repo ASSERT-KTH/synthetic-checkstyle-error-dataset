@@ -1,0 +1,5 @@
+117c117,118
+<     public void serializeData(ProjectInspector inspector) {
+---
+>     public void serializeData(ProjectInspector inspector
+> ) {

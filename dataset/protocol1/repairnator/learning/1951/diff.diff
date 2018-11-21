@@ -1,0 +1,4 @@
+37c37
+<     public void setUrl(String url) {
+---
+>    public void setUrl(String url) {

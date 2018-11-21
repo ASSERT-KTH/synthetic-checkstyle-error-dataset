@@ -1,0 +1,4 @@
+344c344
+<         FlaggedOption opt = new FlaggedOption("ghOauth");
+---
+>        FlaggedOption opt = new FlaggedOption("ghOauth");

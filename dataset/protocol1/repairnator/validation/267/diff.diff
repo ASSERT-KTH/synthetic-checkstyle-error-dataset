@@ -1,0 +1,4 @@
+226c226
+<         FlaggedOption opt = new FlaggedOption("smtpPassword");
+---
+>         FlaggedOption opt 	= new FlaggedOption("smtpPassword");

@@ -1,0 +1,5 @@
+307c307,308
+<                         if (this.config.getLauncherMode() == LauncherMode.REPAIR) {
+---
+>                         if (this.config.getLauncherMode(
+> ) == LauncherMode.REPAIR) {

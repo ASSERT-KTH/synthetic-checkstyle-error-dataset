@@ -1,0 +1,4 @@
+105c105
+<             case COMMIT_PROCESS_END:
+---
+>             case 	COMMIT_PROCESS_END:

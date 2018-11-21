@@ -1,0 +1,5 @@
+34c34,35
+<             this.addStepError("Error while building", e);
+---
+>             this.addStepError("Error while building", e
+> );

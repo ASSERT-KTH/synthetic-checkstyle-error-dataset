@@ -1,0 +1,5 @@
+24c24,25
+< public class RunnablePipelineContainer implements Runnable {
+---
+> public 
+> class RunnablePipelineContainer implements Runnable {

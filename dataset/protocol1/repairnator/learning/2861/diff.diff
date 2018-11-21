@@ -1,0 +1,5 @@
+97c97,98
+<         LOGGER.info("Number of killed docker containers: "+nbKilled);
+---
+>         LOGGER.info
+> ("Number of killed docker containers: "+nbKilled);

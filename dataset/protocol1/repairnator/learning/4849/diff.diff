@@ -1,0 +1,4 @@
+12c12
+<         return numberAdded;
+---
+>        return numberAdded;

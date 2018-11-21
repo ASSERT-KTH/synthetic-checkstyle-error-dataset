@@ -1,0 +1,5 @@
+32c32,33
+<     public RunnablePipelineContainer(String imageId, String branchName) {
+---
+>     public RunnablePipelineContainer
+> (String imageId, String branchName) {

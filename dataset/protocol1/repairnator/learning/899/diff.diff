@@ -1,0 +1,4 @@
+343c343
+<         ReproductionBuggyBuild reproductionBuggyBuild = this.inspector.getJobStatus().getProperties().getReproductionBuggyBuild();
+---
+>         ReproductionBuggyBuild reproductionBuggyBuild = this.inspector	.getJobStatus().getProperties().getReproductionBuggyBuild();

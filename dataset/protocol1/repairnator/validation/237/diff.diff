@@ -1,0 +1,4 @@
+47c47
+<                     this.runNopol(Collections.singleton(failureLocation), testsToIgnore, ignoreError);
+---
+>                    this.runNopol(Collections.singleton(failureLocation), testsToIgnore, ignoreError);

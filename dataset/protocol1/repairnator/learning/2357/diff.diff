@@ -1,0 +1,4 @@
+58c58
+<         return this.getStatus() == StatusKind.SUCCESS;
+---
+>        return this.getStatus() == StatusKind.SUCCESS;

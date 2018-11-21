@@ -1,0 +1,4 @@
+361c361
+<             GHCommit.File[] modifiedFiles = compare.getFiles();
+---
+>             GHCommit.File[] modifiedFiles 	= compare.getFiles();

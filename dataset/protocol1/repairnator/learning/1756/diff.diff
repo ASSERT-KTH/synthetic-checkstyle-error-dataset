@@ -1,0 +1,4 @@
+130c130
+<             return StepStatus.buildSkipped(this, "No NPE found.");
+---
+>            return StepStatus.buildSkipped(this, "No NPE found.");

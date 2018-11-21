@@ -1,0 +1,4 @@
+265c265
+<             endProcessSerializer.setStatus("interrupted");
+---
+>            endProcessSerializer.setStatus("interrupted");

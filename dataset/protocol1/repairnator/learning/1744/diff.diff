@@ -1,0 +1,4 @@
+79c79
+<                     boolean effectivelyPatched = false;
+---
+>                      boolean effectivelyPatched = false;

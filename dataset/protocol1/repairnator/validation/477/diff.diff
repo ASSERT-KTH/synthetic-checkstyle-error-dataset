@@ -1,0 +1,5 @@
+31c31,32
+<     private List<Object> serializeAsList(Repository repo, Reason reason, String comment)  {
+---
+>     private List<Object> serializeAsList(Repository repo, Reason 
+> reason, String comment)  {

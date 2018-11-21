@@ -1,0 +1,4 @@
+25c25
+<     private int nbThreads;
+---
+>    private int nbThreads;

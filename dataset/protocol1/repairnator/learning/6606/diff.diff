@@ -1,0 +1,4 @@
+45c45
+<     public void setIsFork(boolean isFork) {
+---
+>     public void 	setIsFork(boolean isFork) {

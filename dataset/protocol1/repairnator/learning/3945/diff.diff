@@ -1,0 +1,4 @@
+31c31
+<                 String slug = inspector.getRepoSlug();
+---
+>                String slug = inspector.getRepoSlug();

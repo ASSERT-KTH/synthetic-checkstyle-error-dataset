@@ -1,0 +1,4 @@
+10c10
+< import fr.inria.spirals.repairnator.process.inspectors.properties.Properties;
+---
+> import fr.	inria.spirals.repairnator.process.inspectors.properties.Properties;

@@ -1,0 +1,4 @@
+53c53
+<         this.passingTime = passingTime;
+---
+>          this.passingTime = passingTime;

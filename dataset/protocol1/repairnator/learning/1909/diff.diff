@@ -1,0 +1,4 @@
+51c51
+<             if(!smtpUsername.contains("@")) {
+---
+>             if(!smtpUsername.contains	("@")) {

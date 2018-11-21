@@ -1,0 +1,4 @@
+39c39
+<                 .addNextStep(new Checkstyle(this));
+---
+>                .addNextStep(new Checkstyle(this));

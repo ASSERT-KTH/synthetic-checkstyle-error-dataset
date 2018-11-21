@@ -1,0 +1,4 @@
+128c128
+<             switch (this.getBuildToBeInspected().getStatus()) {
+---
+>             switch (this.getBuildToBeInspected	().getStatus()) {

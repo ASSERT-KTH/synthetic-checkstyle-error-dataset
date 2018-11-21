@@ -1,0 +1,4 @@
+17c17
+<         super(inspector, true);
+---
+>         super(inspector, true	);

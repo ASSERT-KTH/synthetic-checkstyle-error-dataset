@@ -1,0 +1,4 @@
+18c18
+<     private RTScanner rtScanner;
+---
+>      private RTScanner rtScanner;

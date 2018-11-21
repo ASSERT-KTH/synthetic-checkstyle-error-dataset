@@ -1,0 +1,5 @@
+19c19,20
+<     public void setName(String name) {
+---
+>     public void setName
+> (String name) {

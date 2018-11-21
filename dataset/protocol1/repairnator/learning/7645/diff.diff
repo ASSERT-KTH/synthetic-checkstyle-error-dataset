@@ -1,0 +1,5 @@
+6c6,7
+< public class AstorJGenProgRepair extends AstorRepair {
+---
+> public class AstorJGenProgRepair extends AstorRepair 
+> {

@@ -1,0 +1,4 @@
+40c40
+<         this.numberFailing = numberFailing;
+---
+>        this.numberFailing = numberFailing;

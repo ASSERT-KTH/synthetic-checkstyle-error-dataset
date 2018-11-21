@@ -1,0 +1,4 @@
+43c43
+<     public void addDate(JsonObject result, String propertyName, Date value) {
+---
+>     public void addDate(JsonObject result, 	String propertyName, Date value) {

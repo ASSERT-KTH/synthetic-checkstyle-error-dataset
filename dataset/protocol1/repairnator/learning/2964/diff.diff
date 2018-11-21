@@ -1,0 +1,4 @@
+15c15
+<         if (instance == null) {
+---
+>         if (instance == null	) {

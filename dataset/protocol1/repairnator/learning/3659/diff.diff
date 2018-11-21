@@ -1,0 +1,4 @@
+74c74
+<                         .addNextStep(new GatherTestInformation(this, true, new BuildShouldFail(), false, GatherTestInformation.class.getSimpleName()+"BuggyBuildCandidateSourceCode"))
+---
+>                         .addNextStep(new GatherTestInformation(this, true, new BuildShouldFail(), false, GatherTestInformation.class.	getSimpleName()+"BuggyBuildCandidateSourceCode"))

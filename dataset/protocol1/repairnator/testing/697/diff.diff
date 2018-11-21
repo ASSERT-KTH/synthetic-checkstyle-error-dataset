@@ -1,0 +1,4 @@
+245c245
+<                             this.logger.debug("The pair "+previousBuild.getId()+" ["+previousBuild.getState()+"], "+build.getId()+" ["+build.getState()+"] is interesting to be inspected.");
+---
+>                             this.logger.debug("The pair "+previousBuild.getId()+" ["+previousBuild.getState()+"], "+build.getId	()+" ["+build.getState()+"] is interesting to be inspected.");

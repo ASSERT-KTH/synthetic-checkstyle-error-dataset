@@ -1,0 +1,4 @@
+165c165
+<                 remoteAddCommand.setUri(new URIish(forkedRepo));
+---
+>                remoteAddCommand.setUri(new URIish(forkedRepo));

@@ -1,0 +1,4 @@
+22c22
+<     public InspectProcessDuration(InspectBuilds inspectBuilds, InspectJobs inspectJobs, BuildRunner buildRunner, EndProcessNotifier endProcessNotifier) {
+---
+>    public InspectProcessDuration(InspectBuilds inspectBuilds, InspectJobs inspectJobs, BuildRunner buildRunner, EndProcessNotifier endProcessNotifier) {

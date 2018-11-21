@@ -1,0 +1,4 @@
+8c8
+< public class MavenFilterOutputHandler extends MavenOutputHandler {
+---
+>  public class MavenFilterOutputHandler extends MavenOutputHandler {

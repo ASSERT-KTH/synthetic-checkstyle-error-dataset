@@ -1,0 +1,4 @@
+31c31
+<         InvocationRequest request = new DefaultInvocationRequest();
+---
+>        InvocationRequest request = new DefaultInvocationRequest();

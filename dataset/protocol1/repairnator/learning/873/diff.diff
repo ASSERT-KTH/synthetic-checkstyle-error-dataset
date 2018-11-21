@@ -1,0 +1,4 @@
+20c20
+<     private SerializerType type;
+---
+>    private SerializerType type;

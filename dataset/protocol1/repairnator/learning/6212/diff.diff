@@ -1,0 +1,4 @@
+176c176
+<         this.config.setNbThreads(LauncherUtils.getArgNbThreads(arguments));
+---
+>         this.config.setNbThreads(LauncherUtils.getArgNbThreads(arguments)	);

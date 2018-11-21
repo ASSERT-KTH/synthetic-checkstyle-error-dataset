@@ -1,0 +1,5 @@
+60c60,61
+<                 this.addStepError("Error while executing Maven goal", e);
+---
+>                 
+> this.addStepError("Error while executing Maven goal", e);

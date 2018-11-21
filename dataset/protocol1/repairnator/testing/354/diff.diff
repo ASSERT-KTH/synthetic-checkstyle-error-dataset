@@ -1,0 +1,5 @@
+26,27c26
+<                 this.setPushState(PushState.REPO_INITIALIZED);
+<             } else {
+---
+>                 this.setPushState(PushState.REPO_INITIALIZED);            } else {

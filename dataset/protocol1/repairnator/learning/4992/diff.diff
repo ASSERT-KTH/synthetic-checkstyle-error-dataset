@@ -1,0 +1,4 @@
+94c94
+<                     Ref branch = git.checkout().setCreateBranch(true).setName(branchName).call();
+---
+>                     Ref branch = git.checkout	().setCreateBranch(true).setName(branchName).call();

@@ -1,0 +1,5 @@
+169c169,170
+<         this.updateLastOutputDate();
+---
+>         this
+> .updateLastOutputDate();

@@ -1,0 +1,4 @@
+30c30
+<         if (this.getConfig().getLauncherMode() == LauncherMode.REPAIR) {
+---
+>         if (this.getConfig(	).getLauncherMode() == LauncherMode.REPAIR) {

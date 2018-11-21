@@ -1,0 +1,5 @@
+63c63,64
+<     public void addFailure(String failureName, boolean isError) {
+---
+>     public void addFailure(String 
+> failureName, boolean isError) {

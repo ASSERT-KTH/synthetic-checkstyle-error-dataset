@@ -1,0 +1,4 @@
+57c57
+<                 case CHECKOUT_BUGGY_BUILD_SOURCE_CODE:
+---
+>                 case CHECKOUT_BUGGY_BUILD_SOURCE_CODE	:

@@ -1,0 +1,4 @@
+54c54
+<             this.getLogger().info("No plugins was found.");
+---
+>             this.getLogger().info	("No plugins was found.");

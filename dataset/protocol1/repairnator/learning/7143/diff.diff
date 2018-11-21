@@ -1,0 +1,5 @@
+41c41,42
+<             logger.error("Error while creating file writer for: " + outputFile.getPath(), e);
+---
+>             logger.error("Error while creating file writer for: " 
+> + outputFile.getPath(), e);

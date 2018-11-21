@@ -1,0 +1,5 @@
+10c10,11
+< import java.io.InputStream;
+---
+> import java.io.
+> InputStream;

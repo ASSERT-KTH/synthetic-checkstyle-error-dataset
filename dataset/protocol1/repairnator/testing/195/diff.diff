@@ -1,0 +1,5 @@
+124,125c124
+<         }
+<         double diffInMilliseconds = this.scannerRunningEndDate.getTime() - this.scannerRunningBeginDate.getTime();
+---
+>         }        double diffInMilliseconds = this.scannerRunningEndDate.getTime() - this.scannerRunningBeginDate.getTime();

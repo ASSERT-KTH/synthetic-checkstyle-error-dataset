@@ -1,0 +1,4 @@
+27c27
+<         this.name = mavenHelper.getName();
+---
+>         this.name 	= mavenHelper.getName();

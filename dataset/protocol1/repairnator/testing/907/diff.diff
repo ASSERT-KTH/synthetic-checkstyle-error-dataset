@@ -1,0 +1,4 @@
+30c30
+<         JsonObject element = (JsonObject)gson.toJsonTree(inspector.getJobStatus().getProperties());
+---
+>         JsonObject element = (JsonObject)gson.toJsonTree(inspector.getJobStatus().getProperties())	;

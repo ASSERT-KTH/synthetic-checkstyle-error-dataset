@@ -1,0 +1,4 @@
+50c50
+<         this.shouldStop = true;
+---
+>         this.	shouldStop = true;

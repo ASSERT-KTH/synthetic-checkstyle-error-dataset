@@ -1,0 +1,5 @@
+31c31,32
+<         return new StepStatus(step, StatusKind.FAILURE, diagnostic.name());
+---
+>         return 
+> new StepStatus(step, StatusKind.FAILURE, diagnostic.name());

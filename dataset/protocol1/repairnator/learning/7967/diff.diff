@@ -1,0 +1,4 @@
+58c58
+<         this.isPullRequest = isPullRequest;
+---
+>        this.isPullRequest = isPullRequest;

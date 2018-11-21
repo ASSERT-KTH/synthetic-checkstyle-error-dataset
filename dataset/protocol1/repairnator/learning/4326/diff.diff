@@ -1,0 +1,4 @@
+74c74
+<         return "http://github.com/"+repoSlug+"/commit/"+commitId;
+---
+>         return "http://github.com/"+repoSlug+"/commit/"	+commitId;

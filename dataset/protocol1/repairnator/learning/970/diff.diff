@@ -1,0 +1,5 @@
+234,235c234
+<     private void observeAndNotify() {
+<         if (this.notifiers != null) {
+---
+>     private void observeAndNotify() {        if (this.notifiers != null) {

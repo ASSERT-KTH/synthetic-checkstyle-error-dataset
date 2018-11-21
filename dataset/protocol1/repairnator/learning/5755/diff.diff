@@ -1,0 +1,4 @@
+74c74
+<     public int getNbTotalTests() {
+---
+>     public 	int getNbTotalTests() {

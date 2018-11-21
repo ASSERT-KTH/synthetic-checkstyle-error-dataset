@@ -1,0 +1,4 @@
+36c36
+<         dataCol.add(this.scanner.getTotalBuildInJava());
+---
+>        dataCol.add(this.scanner.getTotalBuildInJava());

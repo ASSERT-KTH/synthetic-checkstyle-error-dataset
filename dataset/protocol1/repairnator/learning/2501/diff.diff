@@ -1,0 +1,4 @@
+8c8
+< public class CommitProcessEnd extends CommitFiles {
+---
+>  public class CommitProcessEnd extends CommitFiles {

@@ -1,0 +1,4 @@
+16c16
+<     public abstract void serialize();
+---
+>     public abstract void serialize()	;

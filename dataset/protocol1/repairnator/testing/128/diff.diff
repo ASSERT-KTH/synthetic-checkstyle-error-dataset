@@ -1,0 +1,5 @@
+87c87,88
+<             Date date = build.getFinishedAt();
+---
+>             
+> Date date = build.getFinishedAt();

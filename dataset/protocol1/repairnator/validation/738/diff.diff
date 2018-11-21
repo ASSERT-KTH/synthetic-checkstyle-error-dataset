@@ -1,0 +1,4 @@
+49c49
+<             return StepStatus.buildSkipped(this, "No test directory found, this step won't be executed.");
+---
+>             return StepStatus.	buildSkipped(this, "No test directory found, this step won't be executed.");

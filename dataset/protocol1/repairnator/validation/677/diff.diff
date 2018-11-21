@@ -1,0 +1,5 @@
+123c123,124
+<             diag.addProperty("success", result.isSuccess());
+---
+>             
+> diag.addProperty("success", result.isSuccess());

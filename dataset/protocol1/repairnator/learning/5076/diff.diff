@@ -1,0 +1,4 @@
+16c16
+<         this.failureDetails = new HashSet<>();
+---
+>        this.failureDetails = new HashSet<>();

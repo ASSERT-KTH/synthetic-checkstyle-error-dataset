@@ -1,0 +1,5 @@
+50c50,51
+<             dataAsJson.add(stringListEntry.getKey(), jsonElements);
+---
+>             dataAsJson.add(
+> stringListEntry.getKey(), jsonElements);

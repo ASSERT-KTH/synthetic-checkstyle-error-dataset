@@ -1,0 +1,4 @@
+45c45
+<     public void addGlobalStepInfo(AbstractStep step) {
+---
+>    public void addGlobalStepInfo(AbstractStep step) {

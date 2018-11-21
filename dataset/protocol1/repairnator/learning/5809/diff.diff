@@ -1,0 +1,4 @@
+54c54
+<     public GatherTestInformation(ProjectInspector inspector, boolean blockingStep, ContractForGatherTestInformation contract, boolean skipSettingStatusInformation, String stepName) {
+---
+>     public GatherTestInformation(ProjectInspector inspector, boolean blockingStep, ContractForGatherTestInformation contract, 	boolean skipSettingStatusInformation, String stepName) {

@@ -1,0 +1,4 @@
+15c15
+<     private static ErrorNotifier instance;
+---
+>    private static ErrorNotifier instance;

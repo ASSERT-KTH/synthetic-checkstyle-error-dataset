@@ -1,0 +1,4 @@
+117c117
+<         if (this.runMavenGoal(pomModule, properties) != MavenHelper.MAVEN_SUCCESS) {
+---
+>         if (this.runMavenGoal(pomModule, properties) 	!= MavenHelper.MAVEN_SUCCESS) {

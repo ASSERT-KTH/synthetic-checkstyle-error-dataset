@@ -1,0 +1,5 @@
+179c179,180
+<                 this.getInspector().getJobStatus().setHasBeenPatched(true);
+---
+>                 
+> this.getInspector().getJobStatus().setHasBeenPatched(true);

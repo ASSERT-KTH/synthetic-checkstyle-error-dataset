@@ -1,0 +1,4 @@
+37c37
+<                 .addNextStep(new BuildProject(this))
+---
+>                 .addNextStep(new 	BuildProject(this))

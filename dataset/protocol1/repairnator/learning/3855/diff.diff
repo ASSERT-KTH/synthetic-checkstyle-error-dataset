@@ -1,0 +1,4 @@
+122c122
+<                 boolean inNotifBlock = false;
+---
+>                boolean inNotifBlock = false;

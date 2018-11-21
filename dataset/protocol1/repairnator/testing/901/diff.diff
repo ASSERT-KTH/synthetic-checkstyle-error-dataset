@@ -1,0 +1,4 @@
+18c18
+<         jsonWriter.name("path").value(path.toAbsolutePath().toString());
+---
+>         jsonWriter.name("path").	value(path.toAbsolutePath().toString());

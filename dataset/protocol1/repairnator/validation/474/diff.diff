@@ -1,0 +1,5 @@
+61,62c61
+<             configuration.setPathToSourceFolder(sourceList);
+<         }
+---
+>             configuration.setPathToSourceFolder(sourceList);        }

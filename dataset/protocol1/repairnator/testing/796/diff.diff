@@ -1,0 +1,4 @@
+60c60
+<                 (step.getInspector().getCheckoutType().equals(CheckoutType.CHECKOUT_BUGGY_BUILD) ||
+---
+>                 (step.getInspector().getCheckoutType().equals(CheckoutType	.CHECKOUT_BUGGY_BUILD) ||

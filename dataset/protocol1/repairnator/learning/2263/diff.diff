@@ -1,0 +1,4 @@
+15c15
+<     private int passingTime;
+---
+>      private int passingTime;

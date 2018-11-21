@@ -1,0 +1,5 @@
+15c15,16
+<         this.failingClasses = new HashSet<>();
+---
+>         this.
+> failingClasses = new HashSet<>();

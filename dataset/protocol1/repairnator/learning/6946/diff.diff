@@ -1,0 +1,4 @@
+101c101
+<         int result = className != null ? className.hashCode() : 0;
+---
+>        int result = className != null ? className.hashCode() : 0;

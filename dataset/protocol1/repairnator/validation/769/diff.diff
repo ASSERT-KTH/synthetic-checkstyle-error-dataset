@@ -1,0 +1,4 @@
+74c74
+<         result.addProperty("dateScannedStr", Utils.formatCompleteDate(date));
+---
+>         result.addProperty("dateScannedStr"	, Utils.formatCompleteDate(date));

@@ -1,0 +1,4 @@
+155c155
+<     public void setSmtpServer(String smtpServer) {
+---
+>     public void setSmtpServer(String 	smtpServer) {

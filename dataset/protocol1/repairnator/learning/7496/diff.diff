@@ -1,0 +1,4 @@
+17c17
+< import java.util.Properties;
+---
+> import java.util	.Properties;

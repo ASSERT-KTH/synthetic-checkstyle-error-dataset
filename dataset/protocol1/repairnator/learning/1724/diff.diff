@@ -1,0 +1,4 @@
+10c10
+< public class BuildShouldFail implements ContractForGatherTestInformation {
+---
+> public class 	BuildShouldFail implements ContractForGatherTestInformation {

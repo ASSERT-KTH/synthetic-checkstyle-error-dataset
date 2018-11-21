@@ -1,0 +1,4 @@
+99c99
+<                         surefireDirs.add(file.toFile());
+---
+>                         surefireDirs.add(file.	toFile());

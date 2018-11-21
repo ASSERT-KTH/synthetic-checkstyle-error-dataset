@@ -1,0 +1,5 @@
+109c109,110
+<                     } catch (SpoonException e) {
+---
+>                     } catch (SpoonException 
+> e) {

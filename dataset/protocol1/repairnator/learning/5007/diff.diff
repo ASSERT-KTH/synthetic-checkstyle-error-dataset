@@ -1,0 +1,4 @@
+59c59
+<         String[] groupIds = groupId.split("\\.");
+---
+>        String[] groupIds = groupId.split("\\.");

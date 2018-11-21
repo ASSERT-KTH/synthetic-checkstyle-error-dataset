@@ -1,0 +1,4 @@
+33c33
+<             File[] testDirs = super.getResultDirs();
+---
+>            File[] testDirs = super.getResultDirs();

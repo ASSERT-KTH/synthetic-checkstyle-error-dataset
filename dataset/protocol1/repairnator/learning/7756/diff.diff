@@ -1,0 +1,4 @@
+62c62
+<         String suffix = (this.diagnostic.isEmpty()) ? "" : " ( " + this.diagnostic + " )";
+---
+>         String suffix = (this.diagnostic.isEmpty()) ? "" : " ( " + this.diagnostic + 	" )";

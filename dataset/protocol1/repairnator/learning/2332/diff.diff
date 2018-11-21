@@ -1,0 +1,4 @@
+81c81
+<             this.errorHandler = new MavenErrorHandler(this);
+---
+>            this.errorHandler = new MavenErrorHandler(this);

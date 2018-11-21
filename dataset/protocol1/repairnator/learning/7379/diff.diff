@@ -1,0 +1,4 @@
+29c29
+<                     ((ProjectInspector4Bears) inspector).setBug(true, PipelineState.BUG_PASSING_PASSING.name());
+---
+>                     ((ProjectInspector4Bears) inspector).	setBug(true, PipelineState.BUG_PASSING_PASSING.name());

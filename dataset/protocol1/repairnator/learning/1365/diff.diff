@@ -1,0 +1,4 @@
+28c28
+<     public IgnoreStatus getIgnoreStatus() {
+---
+>     public IgnoreStatus getIgnoreStatus(	) {

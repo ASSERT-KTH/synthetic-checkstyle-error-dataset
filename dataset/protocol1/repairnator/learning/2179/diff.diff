@@ -1,0 +1,4 @@
+46c46
+<                 RevWalk revWalk = new RevWalk(git.getRepository());
+---
+>                RevWalk revWalk = new RevWalk(git.getRepository());

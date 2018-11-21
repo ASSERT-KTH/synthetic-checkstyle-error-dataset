@@ -1,0 +1,4 @@
+73c73
+<         result.addProperty("duration", humanDuration);
+---
+>        result.addProperty("duration", humanDuration);

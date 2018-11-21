@@ -1,0 +1,5 @@
+25,26c25
+<                     ((ProjectInspector4Bears) inspector).setBug(true, PipelineState.BUG_FAILING_PASSING.name());
+<                 } else if (inspector.getBuildToBeInspected().getStatus() == ScannedBuildStatus.PASSING_AND_PASSING_WITH_TEST_CHANGES) {
+---
+>                     ((ProjectInspector4Bears) inspector).setBug(true, PipelineState.BUG_FAILING_PASSING.name());                } else if (inspector.getBuildToBeInspected().getStatus() == ScannedBuildStatus.PASSING_AND_PASSING_WITH_TEST_CHANGES) {

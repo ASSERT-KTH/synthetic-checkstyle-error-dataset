@@ -1,0 +1,5 @@
+73,74c73
+<         }
+<         this.envValues.add("LOG_FILENAME="+this.containerName);
+---
+>         }        this.envValues.add("LOG_FILENAME="+this.containerName);

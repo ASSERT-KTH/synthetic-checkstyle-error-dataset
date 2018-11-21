@@ -1,0 +1,4 @@
+6c6
+< import com.spotify.docker.client.exceptions.DockerException;
+---
+> import com.spotify.docker.	client.exceptions.DockerException;

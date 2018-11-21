@@ -1,0 +1,5 @@
+18c18,19
+<     private static final String PROPERTY_FILENAME = "repairnator.json";
+---
+>     private 
+> static final String PROPERTY_FILENAME = "repairnator.json";

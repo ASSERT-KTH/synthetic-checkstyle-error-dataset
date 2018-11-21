@@ -1,0 +1,4 @@
+74c74
+<                     build = this.getInspector().getBuggyBuild();
+---
+>                    build = this.getInspector().getBuggyBuild();

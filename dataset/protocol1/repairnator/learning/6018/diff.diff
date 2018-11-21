@@ -1,0 +1,4 @@
+74c74
+<             BufferedReader reader = new BufferedReader(new FileReader(new File(classpathFilePath)));
+---
+>             BufferedReader reader = new BufferedReader(new FileReader(new File	(classpathFilePath)));

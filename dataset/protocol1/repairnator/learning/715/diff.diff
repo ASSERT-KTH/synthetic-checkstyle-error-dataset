@@ -1,0 +1,5 @@
+39c39,40
+<                         "A fixer build has been found for the following project: "+slug+".\n";
+---
+>                         
+> "A fixer build has been found for the following project: "+slug+".\n";

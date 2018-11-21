@@ -1,0 +1,4 @@
+24c24
+<         if (docker == null) {
+---
+>          if (docker == null) {

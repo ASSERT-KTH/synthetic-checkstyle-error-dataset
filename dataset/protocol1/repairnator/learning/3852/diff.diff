@@ -1,0 +1,5 @@
+150c150,151
+<             String branchName = "repairnator-patch-" + Utils.formatFilenameDate(new Date()) + "-" + i;
+---
+>             String branchName 
+> = "repairnator-patch-" + Utils.formatFilenameDate(new Date()) + "-" + i;

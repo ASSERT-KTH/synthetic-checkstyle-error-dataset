@@ -1,0 +1,4 @@
+24c24
+<             this.addStepError("Source code dir is null: it is therefore impossible to continue.");
+---
+>            this.addStepError("Source code dir is null: it is therefore impossible to continue.");

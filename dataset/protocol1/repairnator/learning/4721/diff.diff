@@ -1,0 +1,4 @@
+105c105
+<                 if (serializedPatches != null) {
+---
+>                if (serializedPatches != null) {

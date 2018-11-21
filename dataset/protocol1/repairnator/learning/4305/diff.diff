@@ -1,0 +1,5 @@
+57c57,58
+<             HostConfig hostConfig = HostConfig.builder().appendBinds(this.repairnatorConfig.getOutputPath()+":/tmp/result.txt").build();
+---
+>             HostConfig hostConfig = HostConfig.builder().appendBinds(this.repairnatorConfig.getOutputPath()+":/tmp/result.txt")
+> .build();

@@ -1,0 +1,4 @@
+24c24
+<     private String remoteRepoUrl;
+---
+>     private 	String remoteRepoUrl;

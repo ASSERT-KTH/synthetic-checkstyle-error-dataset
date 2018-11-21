@@ -1,0 +1,5 @@
+249c249,250
+<                 if (errorNotifier != null) {
+---
+>                 
+> if (errorNotifier != null) {

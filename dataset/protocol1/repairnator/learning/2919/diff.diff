@@ -1,0 +1,4 @@
+14c14
+< import fr.inria.spirals.repairnator.serializer.HardwareInfoSerializer;
+---
+> import 	fr.inria.spirals.repairnator.serializer.HardwareInfoSerializer;

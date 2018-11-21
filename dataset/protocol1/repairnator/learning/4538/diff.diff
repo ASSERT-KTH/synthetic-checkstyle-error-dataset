@@ -1,0 +1,4 @@
+23c23
+<                 this.runNopol(Collections.singleton(failureLocation), Collections.EMPTY_LIST, true);
+---
+>                 this.runNopol(Collections	.singleton(failureLocation), Collections.EMPTY_LIST, true);

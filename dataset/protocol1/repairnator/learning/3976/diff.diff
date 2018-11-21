@@ -1,0 +1,5 @@
+37c37,38
+<         JSAPResult arguments = jsap.parse(args);
+---
+>         JSAPResult arguments 
+> = jsap.parse(args);

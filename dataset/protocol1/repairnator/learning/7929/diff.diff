@@ -1,0 +1,4 @@
+25c25
+<             throw new RuntimeException("Docker client has not been initialized. No docker image can be found.");
+---
+>             throw new 	RuntimeException("Docker client has not been initialized. No docker image can be found.");

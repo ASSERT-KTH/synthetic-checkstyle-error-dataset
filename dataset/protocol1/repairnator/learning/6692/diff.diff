@@ -1,0 +1,4 @@
+10c10
+<     private Set<FailingClass> failingClasses;
+---
+>    private Set<FailingClass> failingClasses;

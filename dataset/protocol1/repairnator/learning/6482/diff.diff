@@ -1,0 +1,4 @@
+28c28
+<                         result.add(attributeName, (JsonElement) value);
+---
+>                        result.add(attributeName, (JsonElement) value);

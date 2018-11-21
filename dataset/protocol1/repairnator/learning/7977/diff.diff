@@ -1,0 +1,4 @@
+77c77
+<                                     getLogger().debug("File not copied: " + file.getPath());
+---
+>                                     getLogger().debug("File not copied: " + 	file.getPath());

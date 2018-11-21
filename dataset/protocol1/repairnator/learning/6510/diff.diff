@@ -1,0 +1,5 @@
+21c21,22
+<     public static ErrorNotifier getInstance(List<NotifierEngine> engines) {
+---
+>     public static ErrorNotifier getInstance(
+> List<NotifierEngine> engines) {

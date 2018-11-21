@@ -1,0 +1,4 @@
+62c62
+<         result.addProperty("runId", this.scanner.getRunId());
+---
+>         result.addProperty("runId", this.scanner.getRunId())	;

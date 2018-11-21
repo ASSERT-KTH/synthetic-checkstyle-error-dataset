@@ -1,0 +1,4 @@
+30c30
+<                 throw new RepairnatorConfigException("Cannot load default "+FILENAME+" from resources.");
+---
+>                 throw new RepairnatorConfigException("Cannot load default "+FILENAME+	" from resources.");

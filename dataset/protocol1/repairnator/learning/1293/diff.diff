@@ -1,0 +1,4 @@
+10c10
+<     public String getAstorMode() {
+---
+>     public String getAstorMode(	) {

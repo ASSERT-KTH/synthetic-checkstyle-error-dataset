@@ -1,0 +1,4 @@
+44c44
+<         dataCol.add(buildToBeInspected.getStatus().name());
+---
+>        dataCol.add(buildToBeInspected.getStatus().name());

@@ -1,0 +1,4 @@
+43c43
+<         String branchName = buggyBuild.getBranch().getName();
+---
+>         String branchName = buggyBuild.getBranch	().getName();

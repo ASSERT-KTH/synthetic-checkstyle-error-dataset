@@ -1,0 +1,4 @@
+35c35
+<             this.addStepError("Error while obtaining build from pom.xml: build section has not been found.");
+---
+>            this.addStepError("Error while obtaining build from pom.xml: build section has not been found.");

@@ -1,0 +1,4 @@
+66c66
+<         return GITHUB_URL + slug;
+---
+>         return GITHUB_URL + slug	;

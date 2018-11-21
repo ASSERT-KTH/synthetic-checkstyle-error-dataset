@@ -1,0 +1,4 @@
+23c23
+<     public static String getPrettyPrintState(ProjectInspector inspector) {
+---
+>    public static String getPrettyPrintState(ProjectInspector inspector) {

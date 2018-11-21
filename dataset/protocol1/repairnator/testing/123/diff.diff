@@ -1,0 +1,5 @@
+103c103,104
+<             fr.inria.spirals.repairnator.process.inspectors.properties.repository.Repository repository = properties.getRepository();
+---
+>             fr.inria.spirals.repairnator.process.inspectors.properties.repository.Repository repository = properties.getRepository(
+> );

@@ -1,0 +1,5 @@
+50c50,51
+<         result.addProperty("dateLimitStr", Utils.formatCompleteDate(this.scanner.getLookFromDate()));
+---
+>         result.addProperty("dateLimitStr", Utils.formatCompleteDate(this.scanner
+> .getLookFromDate()));

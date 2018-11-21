@@ -1,0 +1,5 @@
+39c39,40
+<         Set<File> result = new HashSet<File>();
+---
+>         Set
+> <File> result = new HashSet<File>();

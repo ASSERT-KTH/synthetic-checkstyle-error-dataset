@@ -1,0 +1,4 @@
+51c51
+<         this.addDate(result, "dateLimit", this.scanner.getLookFromDate());
+---
+>        this.addDate(result, "dateLimit", this.scanner.getLookFromDate());

@@ -1,0 +1,4 @@
+76c76
+<         result.addProperty("realStatus", realState);
+---
+>         result.addProperty("realStatus", realState	);

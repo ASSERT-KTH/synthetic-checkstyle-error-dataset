@@ -1,0 +1,4 @@
+61c61
+<         this.inspectJobs = new InspectJobs(this);
+---
+>        this.inspectJobs = new InspectJobs(this);

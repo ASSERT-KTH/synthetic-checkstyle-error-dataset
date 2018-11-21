@@ -1,0 +1,5 @@
+61c61,62
+<                     Git git = Git.open(new File(this.getInspector().getRepoToPushLocalPath()));
+---
+>                     Git git = Git.open(new File(this.getInspector().getRepoToPushLocalPath())
+> );

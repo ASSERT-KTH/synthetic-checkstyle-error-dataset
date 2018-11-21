@@ -1,0 +1,4 @@
+21c21
+<     public RepairPatch(String toolname, String filePath, String diff) {
+---
+>     public RepairPatch(	String toolname, String filePath, String diff) {

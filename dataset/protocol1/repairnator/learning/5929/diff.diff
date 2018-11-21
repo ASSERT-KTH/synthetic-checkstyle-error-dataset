@@ -1,0 +1,4 @@
+64c64
+<                     .addNextStep(new GatherTestInformation(this, true, new BuildShouldPass(), true, GatherTestInformation.class.getSimpleName()+"PatchedBuildCandidate"))
+---
+>                     .addNextStep(new GatherTestInformation(this, true, new BuildShouldPass(	), true, GatherTestInformation.class.getSimpleName()+"PatchedBuildCandidate"))

@@ -1,0 +1,4 @@
+39c39
+<     private JsonElement serializeAsJson() {
+---
+>    private JsonElement serializeAsJson() {

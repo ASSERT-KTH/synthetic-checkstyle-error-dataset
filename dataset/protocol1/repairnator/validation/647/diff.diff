@@ -1,0 +1,5 @@
+296c296,297
+<                     Log jobLog = optionalLog.get();
+---
+>                     
+> Log jobLog = optionalLog.get();

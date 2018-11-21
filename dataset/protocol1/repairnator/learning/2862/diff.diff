@@ -1,0 +1,4 @@
+93c93
+<     private void checkJUnitInClasspath() {
+---
+>    private void checkJUnitInClasspath() {

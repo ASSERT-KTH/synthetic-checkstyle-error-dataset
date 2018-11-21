@@ -1,0 +1,5 @@
+61c61,62
+<             getLogger().debug("Source dir: " + sourceDir.getPath());
+---
+>             getLogger().debug("Source dir: " + sourceDir.getPath(
+> ));

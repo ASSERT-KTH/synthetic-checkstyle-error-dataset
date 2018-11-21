@@ -1,0 +1,4 @@
+37c37
+<             return StepStatus.buildError(this, PipelineState.NOTCLONABLE);
+---
+>             return StepStatus.buildError(this, PipelineState	.NOTCLONABLE);

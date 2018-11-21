@@ -1,0 +1,4 @@
+65c65
+<                     step.getInspector().getBuildToBeInspected().getStatus() == ScannedBuildStatus.FAILING_AND_PASSING) {
+---
+>                     step.getInspector().getBuildToBeInspected().getStatus() == ScannedBuildStatus	.FAILING_AND_PASSING) {

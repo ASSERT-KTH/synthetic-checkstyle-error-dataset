@@ -1,0 +1,4 @@
+65c65
+<     public Set<FailureLocation> getLocation() {
+---
+>     public Set<FailureLocation	> getLocation() {

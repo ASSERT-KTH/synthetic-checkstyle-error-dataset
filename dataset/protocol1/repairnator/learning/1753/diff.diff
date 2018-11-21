@@ -1,0 +1,4 @@
+55c55
+<                     text += "\tContact: "+contactAuthor.get().getEmail();
+---
+>                    text += "\tContact: "+contactAuthor.get().getEmail();

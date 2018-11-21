@@ -1,0 +1,4 @@
+74c74
+<         result.addProperty("endStatus", this.status);
+---
+>         result.addProperty("endStatus", this	.status);

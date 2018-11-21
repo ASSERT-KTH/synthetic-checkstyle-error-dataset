@@ -1,0 +1,4 @@
+32c32
+<                 return "BUG REPRODUCED";
+---
+>                return "BUG REPRODUCED";

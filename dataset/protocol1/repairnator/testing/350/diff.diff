@@ -1,0 +1,4 @@
+13c13
+<         super(inspector);
+---
+>        super(inspector);

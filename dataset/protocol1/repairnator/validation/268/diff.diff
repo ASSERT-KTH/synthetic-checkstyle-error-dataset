@@ -1,0 +1,4 @@
+37c37
+<         result.add(repo.getSlug());
+---
+>        result.add(repo.getSlug());

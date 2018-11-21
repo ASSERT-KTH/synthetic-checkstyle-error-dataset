@@ -1,0 +1,5 @@
+21c21,22
+<         this.getLogger().debug("Checking out patched build candidate...");
+---
+>         this.getLogger().
+> debug("Checking out patched build candidate...");

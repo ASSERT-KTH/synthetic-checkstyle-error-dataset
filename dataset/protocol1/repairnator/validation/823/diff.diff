@@ -1,0 +1,4 @@
+396c396
+<         inspector.run();
+---
+>         inspector.run(	);

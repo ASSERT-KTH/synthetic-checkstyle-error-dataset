@@ -1,0 +1,5 @@
+36c36,37
+<         if (jobStatus.isHasBeenPatched()) {
+---
+>         if (jobStatus.isHasBeenPatched
+> ()) {

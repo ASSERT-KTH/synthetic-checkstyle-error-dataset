@@ -1,0 +1,4 @@
+22c22
+<     public Object parse(String s) throws ParseException {
+---
+>     public Object parse(String s) throws 	ParseException {

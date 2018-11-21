@@ -1,0 +1,4 @@
+8c8
+< import fr.inria.spirals.repairnator.serializer.mongodb.MongoConnection;
+---
+> import fr.inria.spirals.repairnator	.serializer.mongodb.MongoConnection;

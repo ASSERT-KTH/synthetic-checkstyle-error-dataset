@@ -1,0 +1,4 @@
+296c296
+<             for (DiffEntry entry : entries) {
+---
+>            for (DiffEntry entry : entries) {

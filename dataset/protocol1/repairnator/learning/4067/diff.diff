@@ -1,0 +1,4 @@
+10c10
+<     private String url;
+---
+>     private 	String url;

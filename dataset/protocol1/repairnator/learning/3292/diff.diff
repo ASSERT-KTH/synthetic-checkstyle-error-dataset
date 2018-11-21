@@ -1,0 +1,4 @@
+49c49
+<         Map<String, Integer> durations = inspector.getJobStatus().getStepsDurationsInSeconds();
+---
+>         Map<String, Integer> durations = inspector.getJobStatus().getStepsDurationsInSeconds()	;

@@ -1,0 +1,5 @@
+36c36,37
+<             throw new IllegalStateException("dirTypeName and defaultDir are null. setComputeDirType() should be called first.");
+---
+>             
+> throw new IllegalStateException("dirTypeName and defaultDir are null. setComputeDirType() should be called first.");

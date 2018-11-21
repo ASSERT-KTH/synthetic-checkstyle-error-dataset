@@ -1,0 +1,5 @@
+66c66,67
+<             LOGGER.info("Create the container: "+containerName);
+---
+>             
+> LOGGER.info("Create the container: "+containerName);

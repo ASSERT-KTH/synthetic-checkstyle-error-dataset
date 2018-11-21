@@ -1,0 +1,4 @@
+122c122
+<                     this.addStepError("Error while getting the patch json file: no file found.");
+---
+>                    this.addStepError("Error while getting the patch json file: no file found.");

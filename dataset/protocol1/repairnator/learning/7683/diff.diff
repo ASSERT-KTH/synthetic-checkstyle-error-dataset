@@ -1,0 +1,4 @@
+86c86
+<         List<SerializedData> allData = new ArrayList<>();
+---
+>         List<SerializedData> allData = new ArrayList<>()	;

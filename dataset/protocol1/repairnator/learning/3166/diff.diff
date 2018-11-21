@@ -1,0 +1,4 @@
+26c26
+<             logger.error("Error while connecting to mongoDB, serializers won't be used.", e);
+---
+>             logger.error(	"Error while connecting to mongoDB, serializers won't be used.", e);

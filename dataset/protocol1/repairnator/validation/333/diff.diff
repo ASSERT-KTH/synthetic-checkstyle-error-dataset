@@ -1,0 +1,5 @@
+45c45,46
+<     public boolean getIsError() {
+---
+>     public 
+> boolean getIsError() {

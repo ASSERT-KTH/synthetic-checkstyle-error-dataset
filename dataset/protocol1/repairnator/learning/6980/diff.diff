@@ -1,0 +1,5 @@
+19c19,20
+<     protected void notifyEngines(String subject, String text) {
+---
+>     protected void notifyEngines
+> (String subject, String text) {

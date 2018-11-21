@@ -1,0 +1,4 @@
+14c14
+<     private static final int SLEEP_TIME = 10; // seconds
+---
+>      private static final int SLEEP_TIME = 10; // seconds

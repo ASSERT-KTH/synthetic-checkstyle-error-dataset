@@ -1,0 +1,4 @@
+58c58
+<                 Objects.equals(buggyBuild, that.buggyBuild) &&
+---
+>                 Objects.equals	(buggyBuild, that.buggyBuild) &&

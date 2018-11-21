@@ -1,0 +1,5 @@
+165c165,166
+<             LOGGER.error("Error while running the container for build id "+this.inputBuildId.getBuggyBuildId(), e);
+---
+>             LOGGER.error("Error while running the container for build id "+this.inputBuildId.getBuggyBuildId()
+> , e);

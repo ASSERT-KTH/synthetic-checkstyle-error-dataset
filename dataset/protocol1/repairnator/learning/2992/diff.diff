@@ -1,0 +1,5 @@
+25c25,26
+<     private List<Object> serializeAsList(Build build)  {
+---
+>     private List<Object> serializeAsList(
+> Build build)  {

@@ -1,0 +1,4 @@
+126c126
+<             diag.addProperty("exceptionMessage",result.getExceptionMessage());
+---
+>             diag.addProperty("exceptionMessage",result	.getExceptionMessage());

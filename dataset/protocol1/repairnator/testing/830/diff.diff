@@ -1,0 +1,4 @@
+364c364
+<                     this.logger.debug("First probable test file found: " + file.getFileName());
+---
+>                    this.logger.debug("First probable test file found: " + file.getFileName());

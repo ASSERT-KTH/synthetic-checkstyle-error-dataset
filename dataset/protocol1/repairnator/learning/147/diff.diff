@@ -1,0 +1,4 @@
+20c20
+<         super(engines, SerializerType.SCANNER4BEARS);
+---
+>         super(	engines, SerializerType.SCANNER4BEARS);

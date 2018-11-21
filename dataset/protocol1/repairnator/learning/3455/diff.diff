@@ -1,0 +1,5 @@
+9c9,10
+<     private int numberErroring;
+---
+>     
+> private int numberErroring;

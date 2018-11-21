@@ -1,0 +1,4 @@
+335c335
+<                                         nbLineAdded += edit.getLengthB();
+---
+>                                        nbLineAdded += edit.getLengthB();

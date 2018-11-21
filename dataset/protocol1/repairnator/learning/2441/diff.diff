@@ -1,0 +1,5 @@
+77c77,78
+<     public static String getBranchUrl(String branchName, String repoSlug) {
+---
+>     
+> public static String getBranchUrl(String branchName, String repoSlug) {

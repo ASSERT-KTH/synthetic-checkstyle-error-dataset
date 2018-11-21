@@ -1,0 +1,5 @@
+116c116,117
+<         return bugType;
+---
+>         
+> return bugType;

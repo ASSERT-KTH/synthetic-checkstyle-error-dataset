@@ -1,0 +1,4 @@
+123c123
+<                     return StepStatus.buildSkipped(this,"Error while reading patch file.");
+---
+>                    return StepStatus.buildSkipped(this,"Error while reading patch file.");

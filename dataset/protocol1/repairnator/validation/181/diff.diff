@@ -1,0 +1,4 @@
+17c17
+<     public void setTestClass(String testClass) {
+---
+>     public void setTestClass(	String testClass) {

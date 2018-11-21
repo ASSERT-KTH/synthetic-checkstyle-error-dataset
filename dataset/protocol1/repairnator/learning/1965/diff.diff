@@ -1,0 +1,4 @@
+30c30
+<         if (this.mongoDatabase != null) {
+---
+>         if (this.mongoDatabase 	!= null) {

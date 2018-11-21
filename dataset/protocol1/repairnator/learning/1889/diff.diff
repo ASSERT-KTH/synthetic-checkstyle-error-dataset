@@ -1,0 +1,4 @@
+37c37
+<         this.getInspector().setCheckoutType(getCheckoutType());
+---
+>         this.getInspector().setCheckoutType(getCheckoutType(	));

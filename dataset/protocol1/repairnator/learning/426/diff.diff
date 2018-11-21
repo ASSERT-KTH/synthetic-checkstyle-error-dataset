@@ -1,0 +1,4 @@
+493c493
+<                 mongoDbInfo = "mongodb://[hidden]" + mongoDbInfo.substring(indexOfArobase);
+---
+>                 mongoDbInfo = "mongodb://[hidden]" + mongoDbInfo.substring(indexOfArobase)	;

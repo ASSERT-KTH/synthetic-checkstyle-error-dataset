@@ -1,0 +1,5 @@
+77c77,78
+<                     BufferedReader stdin = new BufferedReader(new InputStreamReader(p.getInputStream()));
+---
+>                     BufferedReader stdin = new BufferedReader(new InputStreamReader(p.getInputStream
+> ()));

@@ -1,0 +1,5 @@
+53c53,54
+<                 Optional<GitUser> contactAuthor = patchedBuild.getAuthor();
+---
+>                 Optional<GitUser> contactAuthor 
+> = patchedBuild.getAuthor();

@@ -1,0 +1,4 @@
+91c91
+<         if (nbFailures != that.nbFailures) return false;
+---
+>        if (nbFailures != that.nbFailures) return false;

@@ -1,0 +1,4 @@
+31c31
+<     SerializerType(String filename) {
+---
+>     SerializerType	(String filename) {

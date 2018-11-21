@@ -1,0 +1,5 @@
+26c26,27
+<     public EndProcessSerializer(List<SerializerEngine> engines, String runId) {
+---
+>     public EndProcessSerializer
+> (List<SerializerEngine> engines, String runId) {

@@ -1,0 +1,4 @@
+63c63
+<                         this.setPushState(PushState.PATCH_NOT_COMMITTED);
+---
+>                        this.setPushState(PushState.PATCH_NOT_COMMITTED);

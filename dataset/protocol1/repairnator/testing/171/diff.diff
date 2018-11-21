@@ -1,0 +1,4 @@
+32c32
+<         element.addProperty("runId", RepairnatorConfig.getInstance().getRunId());
+---
+>        element.addProperty("runId", RepairnatorConfig.getInstance().getRunId());

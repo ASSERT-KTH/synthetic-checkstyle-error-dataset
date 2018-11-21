@@ -1,0 +1,4 @@
+50c50
+<         this.processDurations.addGlobalStepInfo(step);
+---
+>         this.processDurations.addGlobalStepInfo(step	);

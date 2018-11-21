@@ -1,0 +1,5 @@
+173c173,174
+<                     String content = new String(Files.readAllBytes(file.toPath()), charset);
+---
+>                     String content = new String(Files.readAllBytes(file.
+> toPath()), charset);

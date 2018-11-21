@@ -1,0 +1,5 @@
+14c14,15
+<             int diffFail = o2.getNbFailures() - o1.getNbFailures();
+---
+>             int 
+> diffFail = o2.getNbFailures() - o1.getNbFailures();

@@ -1,0 +1,5 @@
+171,172c171
+<                 this.whitelistWriter.flush();
+<             } catch (IOException e) {
+---
+>                 this.whitelistWriter.flush();            } catch (IOException e) {

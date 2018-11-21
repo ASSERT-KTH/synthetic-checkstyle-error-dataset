@@ -1,0 +1,5 @@
+226c226,227
+<                 getLogger().error("Error while forking the repository "+repositoryName, e);
+---
+>                 
+> getLogger().error("Error while forking the repository "+repositoryName, e);

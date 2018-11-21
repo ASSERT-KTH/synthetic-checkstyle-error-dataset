@@ -1,0 +1,4 @@
+10c10
+<     public enum StatusKind {
+---
+>     public enum 	StatusKind {

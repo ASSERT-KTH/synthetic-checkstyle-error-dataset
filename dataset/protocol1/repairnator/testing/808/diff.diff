@@ -1,0 +1,5 @@
+254c254,255
+<                     serializer.serializeData(this);
+---
+>                     serializer.serializeData(this
+> );

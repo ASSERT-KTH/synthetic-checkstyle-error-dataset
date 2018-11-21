@@ -1,0 +1,4 @@
+9c9
+< import eu.stamp.project.assertfixer.Main;
+---
+> import 	eu.stamp.project.assertfixer.Main;

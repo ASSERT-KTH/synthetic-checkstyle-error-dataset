@@ -1,0 +1,4 @@
+19c19
+< public class ComputePlugins extends AbstractStep {
+---
+> public class ComputePlugins extends 	AbstractStep {

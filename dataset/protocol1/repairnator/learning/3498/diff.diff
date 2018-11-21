@@ -1,0 +1,4 @@
+37c37
+<         LOGGER.info("The process will finish at: " + endOfProcessDate);
+---
+>        LOGGER.info("The process will finish at: " + endOfProcessDate);

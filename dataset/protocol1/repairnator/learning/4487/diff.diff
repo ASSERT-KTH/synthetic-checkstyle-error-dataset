@@ -1,0 +1,5 @@
+11c11,12
+<         this.githubId = 0;
+---
+>         this.
+> githubId = 0;

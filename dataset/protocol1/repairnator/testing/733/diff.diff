@@ -1,0 +1,4 @@
+47c47
+<         int stepDuration = step.getDuration();
+---
+>        int stepDuration = step.getDuration();

@@ -1,0 +1,4 @@
+95c95
+<             docker.killContainer(containerId);
+---
+>            docker.killContainer(containerId);

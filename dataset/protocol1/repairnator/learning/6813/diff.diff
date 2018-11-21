@@ -1,0 +1,5 @@
+33c33,34
+<                 if (image.repoTags() != null && image.repoTags().contains(imageName)) {
+---
+>                 if (image.repoTags() != null 
+> && image.repoTags().contains(imageName)) {

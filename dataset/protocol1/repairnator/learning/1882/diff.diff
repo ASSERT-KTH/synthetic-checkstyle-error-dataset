@@ -1,0 +1,4 @@
+42c42
+<             totalDuration += stringIntegerEntry.getValue();
+---
+>            totalDuration += stringIntegerEntry.getValue();

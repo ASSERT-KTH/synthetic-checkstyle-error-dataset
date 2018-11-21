@@ -1,0 +1,4 @@
+74c74
+<         this.freeMemoryByStep = new HashMap<>();
+---
+>         this	.freeMemoryByStep = new HashMap<>();

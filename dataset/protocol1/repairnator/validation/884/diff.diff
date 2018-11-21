@@ -1,0 +1,4 @@
+98c98
+<             final Future<AstorOutputStatus> astorExecution = executor.submit(new Callable<AstorOutputStatus>() {
+---
+>             final Future<AstorOutputStatus> astorExecution = executor.submit(new Callable<AstorOutputStatus>	() {

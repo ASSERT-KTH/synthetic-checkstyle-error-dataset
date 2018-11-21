@@ -1,0 +1,4 @@
+58c58
+<                 repoURL = Utils.getCompleteGithubRepoUrl(pullRequest.getOtherRepo().getFullName());
+---
+>                 repoURL = Utils.getCompleteGithubRepoUrl(pullRequest.getOtherRepo().	getFullName());

@@ -1,0 +1,4 @@
+21c21
+<             super.setCommitType(CommitType.COMMIT_BUGGY_BUILD);
+---
+>             super.setCommitType	(CommitType.COMMIT_BUGGY_BUILD);

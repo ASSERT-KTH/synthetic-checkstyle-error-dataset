@@ -1,0 +1,5 @@
+35c35,36
+<         this.addDate(element, "reproductionDate", reproductionDateBeginning);
+---
+>         this.addDate
+> (element, "reproductionDate", reproductionDateBeginning);

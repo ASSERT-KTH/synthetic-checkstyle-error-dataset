@@ -1,0 +1,4 @@
+371c371
+<         List<AbstractDataSerializer> serializers = new ArrayList<>();
+---
+>         List<AbstractDataSerializer> serializers = new 	ArrayList<>();

@@ -1,0 +1,5 @@
+271,272c271
+<             this.endProcessNotifier.notifyEnd();
+<         }
+---
+>             this.endProcessNotifier.notifyEnd();        }

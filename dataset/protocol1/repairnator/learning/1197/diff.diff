@@ -1,0 +1,5 @@
+8c8,9
+<     private static final int MAX_TIME_EXECUTION = 100; // in minutes
+---
+>     private 
+> static final int MAX_TIME_EXECUTION = 100; // in minutes

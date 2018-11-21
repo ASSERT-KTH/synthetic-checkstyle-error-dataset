@@ -1,0 +1,4 @@
+20c20
+<     public int getNumberCPU() {
+---
+>    public int getNumberCPU() {

@@ -1,0 +1,4 @@
+152c152
+<                                     failureType = failureType.substring(0, failureType.length() - 1);
+---
+>                                     failureType = failureType.substring(0, failureType.length(	) - 1);

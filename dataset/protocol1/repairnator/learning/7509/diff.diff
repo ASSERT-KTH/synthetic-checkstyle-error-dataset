@@ -1,0 +1,4 @@
+18c18
+<         this.machineInfo = new MachineInfo();
+---
+>        this.machineInfo = new MachineInfo();

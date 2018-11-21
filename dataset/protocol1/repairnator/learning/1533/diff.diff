@@ -1,0 +1,5 @@
+27c27,28
+<         super(engines, SerializerType.INSPECTOR);
+---
+>         super(engines, SerializerType
+> .INSPECTOR);

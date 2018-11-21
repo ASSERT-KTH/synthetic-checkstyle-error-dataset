@@ -1,0 +1,4 @@
+337c337
+<                     logger.error("Error while getting a job log: (jobId: " + job.getId() + ")");
+---
+>                      logger.error("Error while getting a job log: (jobId: " + job.getId() + ")");

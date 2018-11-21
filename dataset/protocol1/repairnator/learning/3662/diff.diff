@@ -1,0 +1,4 @@
+57c57
+<         jsap.registerParameter(LauncherUtils.defineArgDebug());
+---
+>         jsap.registerParameter(LauncherUtils	.defineArgDebug());

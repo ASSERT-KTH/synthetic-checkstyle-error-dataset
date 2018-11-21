@@ -1,0 +1,4 @@
+13c13
+<     protected static final String TOOL_NAME = "NopolTestExclusionStrategy";
+---
+>     protected static final String TOOL_NAME = 	"NopolTestExclusionStrategy";

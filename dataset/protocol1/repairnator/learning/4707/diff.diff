@@ -1,0 +1,4 @@
+76c76
+<                                 if (file.getPath().contains(excludedFileName)) {
+---
+>                                if (file.getPath().contains(excludedFileName)) {

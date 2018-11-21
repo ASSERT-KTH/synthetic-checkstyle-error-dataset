@@ -1,0 +1,4 @@
+130c130
+<         FileStringParser fileStringParser = FileStringParser.getParser();
+---
+>        FileStringParser fileStringParser = FileStringParser.getParser();

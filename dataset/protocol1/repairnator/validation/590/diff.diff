@@ -1,0 +1,4 @@
+75c75
+<             LOGGER.info("The pipeline will try to repair the following build id: "+this.getConfig().getBuildId());
+---
+>            LOGGER.info("The pipeline will try to repair the following build id: "+this.getConfig().getBuildId());

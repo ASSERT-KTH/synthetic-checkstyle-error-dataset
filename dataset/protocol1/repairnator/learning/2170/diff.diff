@@ -1,0 +1,5 @@
+48c48,49
+<             config.setOutputPath(properties.getProperty("jsonOutputPath"));
+---
+>             config.setOutputPath
+> (properties.getProperty("jsonOutputPath"));

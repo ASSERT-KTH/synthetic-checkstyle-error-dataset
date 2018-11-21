@@ -1,0 +1,5 @@
+300c300,301
+<             for (ScannedBuildStatus status : ScannedBuildStatus.values()) {
+---
+>             for (ScannedBuildStatus 
+> status : ScannedBuildStatus.values()) {

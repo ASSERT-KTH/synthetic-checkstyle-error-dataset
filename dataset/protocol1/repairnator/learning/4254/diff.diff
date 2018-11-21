@@ -1,0 +1,4 @@
+96c96
+<         result.addProperty("status", state);
+---
+>        result.addProperty("status", state);

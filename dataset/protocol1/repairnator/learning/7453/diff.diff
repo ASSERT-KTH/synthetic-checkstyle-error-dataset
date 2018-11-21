@@ -1,0 +1,5 @@
+46,47c46
+<         }
+<         return failureDetail != null ? failureDetail.equals(that.failureDetail) : that.failureDetail == null;
+---
+>         }        return failureDetail != null ? failureDetail.equals(that.failureDetail) : that.failureDetail == null;

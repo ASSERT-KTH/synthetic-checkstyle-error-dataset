@@ -1,0 +1,4 @@
+41c41
+<         element.addProperty("status",this.getPrettyPrintState(inspector));
+---
+>        element.addProperty("status",this.getPrettyPrintState(inspector));

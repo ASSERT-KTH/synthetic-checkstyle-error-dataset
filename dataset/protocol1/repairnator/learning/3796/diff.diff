@@ -1,0 +1,5 @@
+184c184,185
+<         if (arguments.contains("whitelist")) {
+---
+>         
+> if (arguments.contains("whitelist")) {

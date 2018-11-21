@@ -1,0 +1,4 @@
+345c345
+<         GHCompare compare = this.getCompare(build, previousBuild);
+---
+>         GHCompare compare = this.getCompare(	build, previousBuild);

@@ -1,0 +1,4 @@
+52c52
+<         result.addProperty("reason", reason.name());
+---
+>         result.addProperty("reason", reason.name())	;

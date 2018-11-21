@@ -1,0 +1,4 @@
+14c14
+<     private int numberPlugins;
+---
+>    private int numberPlugins;

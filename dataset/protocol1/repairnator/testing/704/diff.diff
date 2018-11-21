@@ -1,0 +1,4 @@
+47c47
+<     private BuildToBeInspected buildToBeInspected;
+---
+>    private BuildToBeInspected buildToBeInspected;

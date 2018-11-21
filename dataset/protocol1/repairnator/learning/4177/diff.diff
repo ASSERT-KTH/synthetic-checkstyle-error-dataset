@@ -1,0 +1,5 @@
+37c37,38
+<     private void addFileToClassPath(File file) {
+---
+>     private void addFileToClassPath
+> (File file) {

@@ -1,0 +1,4 @@
+217c217
+<         opt.setHelp("Username for authorized server");
+---
+>         opt.setHelp	("Username for authorized server");

@@ -1,0 +1,4 @@
+66c66
+<         text += "git checkout -b patch FETCH_HEAD\n";
+---
+>         text += 	"git checkout -b patch FETCH_HEAD\n";

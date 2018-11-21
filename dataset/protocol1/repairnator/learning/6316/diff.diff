@@ -1,0 +1,4 @@
+50c50
+<         dataCol.add(Utils.formatCompleteDate(date));
+---
+>        dataCol.add(Utils.formatCompleteDate(date));

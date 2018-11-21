@@ -1,0 +1,4 @@
+194c194
+<             } catch (MavenReportException e) {
+---
+>            } catch (MavenReportException e) {

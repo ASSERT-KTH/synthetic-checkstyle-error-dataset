@@ -1,0 +1,4 @@
+23c23
+<     private Logger logger = LoggerFactory.getLogger(InspectorSerializer4Bears.class);
+---
+>     private Logger logger = LoggerFactory.getLogger(InspectorSerializer4Bears.class)	;

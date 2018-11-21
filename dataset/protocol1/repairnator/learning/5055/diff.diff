@@ -1,0 +1,5 @@
+160,161c160
+<             return defaultModelBuilder.buildRawModel(pomXml, ModelBuildingRequest.VALIDATION_LEVEL_MINIMAL, true).get();
+<         }
+---
+>             return defaultModelBuilder.buildRawModel(pomXml, ModelBuildingRequest.VALIDATION_LEVEL_MINIMAL, true).get();        }

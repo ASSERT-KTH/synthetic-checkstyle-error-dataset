@@ -1,0 +1,4 @@
+113c113
+<         if (LauncherUtils.gerArgBearsMode(arguments)) {
+---
+>         if 	(LauncherUtils.gerArgBearsMode(arguments)) {

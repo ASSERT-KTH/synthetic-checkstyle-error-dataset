@@ -1,0 +1,5 @@
+10,11c10
+<     public int compare(FailureLocation o1, FailureLocation o2) {
+<         if (o1.equals(o2)) {
+---
+>     public int compare(FailureLocation o1, FailureLocation o2) {        if (o1.equals(o2)) {

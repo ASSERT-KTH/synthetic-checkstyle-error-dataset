@@ -1,0 +1,5 @@
+26c26,27
+< import fr.inria.spirals.repairnator.process.step.gatherinfo.GatherTestInformation;
+---
+> import fr.inria.spirals.repairnator
+> .process.step.gatherinfo.GatherTestInformation;

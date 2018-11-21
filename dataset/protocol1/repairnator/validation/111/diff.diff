@@ -1,0 +1,4 @@
+37c37
+<         if (build.getCommitter().isPresent()) {
+---
+>        if (build.getCommitter().isPresent()) {

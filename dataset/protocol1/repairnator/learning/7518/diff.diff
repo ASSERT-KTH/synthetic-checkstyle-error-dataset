@@ -1,0 +1,4 @@
+27c27
+<     public Date getReproductionDateEnd() {
+---
+>     public 	Date getReproductionDateEnd() {

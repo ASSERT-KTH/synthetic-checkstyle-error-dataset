@@ -1,0 +1,4 @@
+47c47
+<         this.addDate(result, "dateWatched", new Date());
+---
+>         this.addDate	(result, "dateWatched", new Date());

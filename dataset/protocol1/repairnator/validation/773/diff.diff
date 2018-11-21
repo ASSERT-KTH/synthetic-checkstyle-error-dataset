@@ -1,0 +1,4 @@
+242c242
+<                 } else if (buildTool == BuildTool.UNKNOWN) {
+---
+>                 } else if (buildTool == 	BuildTool.UNKNOWN) {

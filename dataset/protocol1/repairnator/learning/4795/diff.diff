@@ -1,0 +1,5 @@
+188c188,189
+<             LOGGER.error("Error while await termination. Force stopped "+ submittedRunnablePipelineContainers.size()+" docker container(s).", e);
+---
+>             LOGGER.error("Error while await termination. Force stopped "+ submittedRunnablePipelineContainers.size()
+> +" docker container(s).", e);

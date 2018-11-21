@@ -1,0 +1,4 @@
+9c9
+<     private String failureDetail;
+---
+>    private String failureDetail;

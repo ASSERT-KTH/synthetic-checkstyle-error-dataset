@@ -1,0 +1,4 @@
+146c146
+<                     result.addAll(Arrays.asList(dirs));
+---
+>                     result.addAll(Arrays.asList(dirs))	;

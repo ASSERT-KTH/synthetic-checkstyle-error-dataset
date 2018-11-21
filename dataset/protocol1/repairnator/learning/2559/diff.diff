@@ -1,0 +1,4 @@
+19c19
+<     private Logger logger = LoggerFactory.getLogger(JSONFileSerializerEngine.class);
+---
+>     private Logger logger = LoggerFactory	.getLogger(JSONFileSerializerEngine.class);

@@ -1,0 +1,4 @@
+3c3
+< import fr.inria.spirals.repairnator.process.inspectors.properties.machineInfo.MachineInfo;
+---
+> import 	fr.inria.spirals.repairnator.process.inspectors.properties.machineInfo.MachineInfo;

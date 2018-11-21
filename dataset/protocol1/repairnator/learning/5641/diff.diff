@@ -1,0 +1,4 @@
+179c179
+<     public void addStepError(String error, Throwable exception) {
+---
+>    public void addStepError(String error, Throwable exception) {

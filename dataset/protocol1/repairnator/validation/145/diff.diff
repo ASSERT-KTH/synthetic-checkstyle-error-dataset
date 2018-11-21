@@ -1,0 +1,4 @@
+208c208
+<         this.getConfig().setSmtpUsername(LauncherUtils.getArgSmtpUsername(arguments));
+---
+>         this.	getConfig().setSmtpUsername(LauncherUtils.getArgSmtpUsername(arguments));

@@ -1,0 +1,4 @@
+216c216
+<         JTravis jTravis = RepairnatorConfig.getInstance().getJTravis();
+---
+>         JTravis jTravis = 	RepairnatorConfig.getInstance().getJTravis();

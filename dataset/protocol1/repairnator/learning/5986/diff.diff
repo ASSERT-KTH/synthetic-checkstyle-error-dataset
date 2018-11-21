@@ -1,0 +1,4 @@
+8c8
+< import fr.inria.spirals.repairnator.process.inspectors.properties.reproductionBuggyBuild.ReproductionBuggyBuild;
+---
+> import fr.inria.spirals.repairnator.process.inspectors.properties.reproductionBuggyBuild	.ReproductionBuggyBuild;

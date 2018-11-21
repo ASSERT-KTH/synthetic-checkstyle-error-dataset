@@ -1,0 +1,5 @@
+108c108,109
+<         calendar.set(Calendar.HOUR_OF_DAY, calendar.getMaximum(Calendar.HOUR_OF_DAY));
+---
+>         calendar.set(Calendar.HOUR_OF_DAY
+> , calendar.getMaximum(Calendar.HOUR_OF_DAY));

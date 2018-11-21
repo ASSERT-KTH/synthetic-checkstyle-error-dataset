@@ -1,0 +1,5 @@
+143c143,144
+<             jobStatus.addFileToPush("repairnator.astor." + this.getAstorMode() + ".log");
+---
+>             jobStatus.addFileToPush("repairnator.astor." + 
+> this.getAstorMode() + ".log");

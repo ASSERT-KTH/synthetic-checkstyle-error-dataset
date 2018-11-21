@@ -1,0 +1,4 @@
+136c136
+<                             .directory(git.getRepository().getDirectory().getParentFile()).inheritIO();
+---
+>                             .directory(git.getRepository(	).getDirectory().getParentFile()).inheritIO();

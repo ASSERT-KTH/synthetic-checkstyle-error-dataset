@@ -1,0 +1,4 @@
+7c7
+<     private long freeMemory;
+---
+>      private long freeMemory;

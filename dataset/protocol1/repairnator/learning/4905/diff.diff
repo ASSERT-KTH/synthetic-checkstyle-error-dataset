@@ -1,0 +1,5 @@
+22c22,23
+<             for (FailureLocation failureLocation : this.getInspector().getJobStatus().getFailureLocations()) {
+---
+>             for (FailureLocation 
+> failureLocation : this.getInspector().getJobStatus().getFailureLocations()) {

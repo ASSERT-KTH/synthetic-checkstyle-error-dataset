@@ -1,0 +1,4 @@
+56c56
+<     public abstract void serializeData(ProjectInspector inspector);
+---
+>     public abstract void serializeData(	ProjectInspector inspector);

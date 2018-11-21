@@ -1,0 +1,5 @@
+398c398,399
+<         this.executeGitCommand(gitReset.toArray(new String[0]), gitDirectory);
+---
+>         this.executeGitCommand(
+> gitReset.toArray(new String[0]), gitDirectory);

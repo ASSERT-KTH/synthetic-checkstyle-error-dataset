@@ -1,0 +1,4 @@
+70c70
+<                 this.addStepError("Error while initializing the new local git repository.", e);
+---
+>                this.addStepError("Error while initializing the new local git repository.", e);

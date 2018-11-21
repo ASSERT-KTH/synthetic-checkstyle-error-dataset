@@ -1,0 +1,4 @@
+6c6
+<     private int numberCPU;
+---
+>    private int numberCPU;

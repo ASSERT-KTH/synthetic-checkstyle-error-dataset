@@ -1,0 +1,5 @@
+29c29,30
+<         for (NotifierEngine engine : this.engines) {
+---
+>         for (
+> NotifierEngine engine : this.engines) {

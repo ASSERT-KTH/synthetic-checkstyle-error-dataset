@@ -1,0 +1,5 @@
+302c302,303
+<                 List<String> lines = Files.readAllLines(new File(this.getConfig().getProjectsToIgnoreFilePath()).toPath());
+---
+>                 List<String
+> > lines = Files.readAllLines(new File(this.getConfig().getProjectsToIgnoreFilePath()).toPath());

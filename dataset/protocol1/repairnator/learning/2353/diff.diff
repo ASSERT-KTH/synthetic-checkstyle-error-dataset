@@ -1,0 +1,5 @@
+20,21c20
+<         for (Method method : Properties.class.getDeclaredMethods()) {
+<             if ((method.getParameterCount() == 0) && (method.getName().startsWith("get"))) {
+---
+>         for (Method method : Properties.class.getDeclaredMethods()) {            if ((method.getParameterCount() == 0) && (method.getName().startsWith("get"))) {

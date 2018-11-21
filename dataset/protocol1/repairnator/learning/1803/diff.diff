@@ -1,0 +1,4 @@
+64c64
+<                 this.addStepError("Error while running NPE fix: maybe the project does not contain a NPE?");
+---
+>                this.addStepError("Error while running NPE fix: maybe the project does not contain a NPE?");

@@ -1,0 +1,4 @@
+24c24
+<     public ScannerDetailedDataSerializer(List<SerializerEngine> engines, Map<ScannedBuildStatus, List<BuildToBeInspected>> buildsToBeInspected) {
+---
+>    public ScannerDetailedDataSerializer(List<SerializerEngine> engines, Map<ScannedBuildStatus, List<BuildToBeInspected>> buildsToBeInspected) {

@@ -1,0 +1,4 @@
+81c81
+<                         .addNextStep(new CheckoutPatchedBuild(this, true, CheckoutPatchedBuild.class.getSimpleName()+"Candidate"))
+---
+>                         .addNextStep(new CheckoutPatchedBuild(this, true, 	CheckoutPatchedBuild.class.getSimpleName()+"Candidate"))

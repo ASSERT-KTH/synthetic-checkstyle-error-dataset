@@ -1,0 +1,4 @@
+16c16
+<             inspector.getJobStatus().setReproducedAsFail(true);
+---
+>            inspector.getJobStatus().setReproducedAsFail(true);

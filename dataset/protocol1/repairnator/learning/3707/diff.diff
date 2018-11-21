@@ -1,0 +1,4 @@
+161c161
+<         this.config.setGithubToken(LauncherUtils.getArgGithubOAuth(arguments));
+---
+>        this.config.setGithubToken(LauncherUtils.getArgGithubOAuth(arguments));

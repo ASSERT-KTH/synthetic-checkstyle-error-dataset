@@ -1,0 +1,5 @@
+59c59,60
+<         this.fixerBuildBaseRepo = fixerBuildBaseRepo;
+---
+>         this.
+> fixerBuildBaseRepo = fixerBuildBaseRepo;

@@ -1,0 +1,4 @@
+406c406
+<         long timeEnd = getDateEnd().getTime();
+---
+>        long timeEnd = getDateEnd().getTime();

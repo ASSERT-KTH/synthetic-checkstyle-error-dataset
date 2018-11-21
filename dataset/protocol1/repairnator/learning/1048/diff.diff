@@ -1,0 +1,4 @@
+35c35
+<         if (dirTypeName == null || defaultDir == null) {
+---
+>         if (dirTypeName == null || defaultDir == null) 	{

@@ -1,0 +1,4 @@
+41c41
+<             this.stepDurations.add(this.stepDurations.size(), stepDuration);
+---
+>             this.stepDurations.add(this.stepDurations.size(	), stepDuration);

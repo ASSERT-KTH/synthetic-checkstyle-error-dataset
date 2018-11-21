@@ -1,0 +1,4 @@
+26c26
+<     public void setFixerBuild(Commit fixerBuild) {
+---
+>     public void setFixerBuild	(Commit fixerBuild) {

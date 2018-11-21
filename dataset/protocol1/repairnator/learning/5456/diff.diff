@@ -1,0 +1,5 @@
+104c104,105
+<     public ModelSource resolveModel(String groupId, String artifactId, String versionId)
+---
+>     public ModelSource resolveModel(String groupId, String artifactId, String versionId
+> )

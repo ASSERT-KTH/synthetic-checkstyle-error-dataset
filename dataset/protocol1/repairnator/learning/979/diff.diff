@@ -1,0 +1,5 @@
+15,16c15
+<     protected StepStatus businessExecute() {
+<         if (this.getConfig().isPush()) {
+---
+>     protected StepStatus businessExecute() {        if (this.getConfig().isPush()) {

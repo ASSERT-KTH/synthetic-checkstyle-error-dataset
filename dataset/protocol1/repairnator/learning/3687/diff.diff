@@ -1,0 +1,4 @@
+34c34
+<     public ScannedBuildStatus getStatus() {
+---
+>     public ScannedBuildStatus getStatus(	) {

@@ -1,0 +1,5 @@
+51c51,52
+<                 String humanPatchStr = this.repairnatorConfig.isHumanPatch() ? "--human-patch" : "";
+---
+>                 String humanPatchStr = this.repairnatorConfig.
+> isHumanPatch() ? "--human-patch" : "";

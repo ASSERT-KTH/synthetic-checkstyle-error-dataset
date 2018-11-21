@@ -1,0 +1,4 @@
+333c333
+<                 for (BuildToBeInspected buildToBeInspected : listOfBuilds.get(status)) {
+---
+>                 for (BuildToBeInspected buildToBeInspected : 	listOfBuilds.get(status)) {

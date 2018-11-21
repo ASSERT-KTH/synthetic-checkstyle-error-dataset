@@ -1,0 +1,4 @@
+110c110
+<                     this.addStepError("Error while executing git command to check branch existence.", e);
+---
+>                     this.addStepError(	"Error while executing git command to check branch existence.", e);

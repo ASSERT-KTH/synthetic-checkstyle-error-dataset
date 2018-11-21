@@ -1,0 +1,4 @@
+13c13
+<     private static final Logger LOGGER = LoggerFactory.getLogger(InspectProcessDuration.class);
+---
+>     private static final Logger LOGGER = LoggerFactory	.getLogger(InspectProcessDuration.class);

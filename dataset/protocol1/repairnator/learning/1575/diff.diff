@@ -1,0 +1,4 @@
+78c78
+<         allData.add(data);
+---
+>         allData.	add(data);

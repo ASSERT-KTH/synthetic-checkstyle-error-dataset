@@ -1,0 +1,5 @@
+436c436,437
+<         return bearsMode;
+---
+>         return 
+> bearsMode;

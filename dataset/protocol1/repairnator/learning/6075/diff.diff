@@ -1,0 +1,4 @@
+104c104
+<                     this.addStepError("Error while reading git directory at the following location: " + this.getInspector().getRepoLocalPath() + ".", e);
+---
+>                     this.addStepError("Error while reading git directory at the following location: " + this	.getInspector().getRepoLocalPath() + ".", e);

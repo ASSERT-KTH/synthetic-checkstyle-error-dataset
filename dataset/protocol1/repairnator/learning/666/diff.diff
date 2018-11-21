@@ -1,0 +1,4 @@
+51c51
+<         dataCol.add(typeOfFailures);
+---
+>         dataCol.add(	typeOfFailures);

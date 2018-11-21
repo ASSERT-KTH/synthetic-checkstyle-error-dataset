@@ -1,0 +1,5 @@
+61c61,62
+<         result.addProperty("dateLookedFromStr", Utils.formatCompleteDate(this.scanner.getLookFromDate()));
+---
+>         result.addProperty("dateLookedFromStr", 
+> Utils.formatCompleteDate(this.scanner.getLookFromDate()));

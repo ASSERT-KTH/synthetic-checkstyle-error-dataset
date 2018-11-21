@@ -1,0 +1,5 @@
+26c26,27
+<             instance = new RepairToolsManager();
+---
+>             instance = new RepairToolsManager
+> ();

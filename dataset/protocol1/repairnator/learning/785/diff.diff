@@ -1,0 +1,4 @@
+77c77
+<             if (repository1Url.endsWith("/")) {
+---
+>             if (repository1Url.endsWith	("/")) {

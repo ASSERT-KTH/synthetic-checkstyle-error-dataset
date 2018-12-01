@@ -1,0 +1,5 @@
+110,111c110
+<             if ("-".equals(token) || "--".equals(token))
+<             {
+---
+>             if ("-".equals(token) || "--".equals(token))            {

@@ -1,0 +1,4 @@
+206c206
+<             final OptionGroup group = options.getOptionGroup(opt);
+---
+>             final 	OptionGroup group = options.getOptionGroup(opt);

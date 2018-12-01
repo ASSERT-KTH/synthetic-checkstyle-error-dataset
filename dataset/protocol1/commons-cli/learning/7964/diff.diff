@@ -1,0 +1,4 @@
+406c406
+<         printHelp(getWidth(), cmdLineSyntax, null, options, null, false);
+---
+>         printHelp(getWidth(), cmdLineSyntax, null, options, null, false) ;

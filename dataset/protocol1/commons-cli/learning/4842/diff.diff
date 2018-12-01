@@ -1,0 +1,5 @@
+253,254c253
+<     protected void processProperties(final Properties properties) throws ParseException
+<     {
+---
+>     protected void processProperties(final Properties properties) throws ParseException    {

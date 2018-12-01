@@ -1,0 +1,5 @@
+20c20,21
+< import java.io.Serializable;
+---
+> import java.io.Serializable
+> ;

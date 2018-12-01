@@ -1,0 +1,5 @@
+78c78,79
+<         final StringBuilder buf = new StringBuilder("Missing required option");
+---
+>         final StringBuilder buf = new StringBuilder("Missing required option")
+> ;

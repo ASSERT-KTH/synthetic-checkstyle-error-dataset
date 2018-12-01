@@ -1,0 +1,4 @@
+699c699
+<             buff.append("<").append(option.getArgName() != null ? option.getArgName() : getArgName()).append(">");
+---
+>             buff.append("<").append	(option.getArgName() != null ? option.getArgName() : getArgName()).append(">");

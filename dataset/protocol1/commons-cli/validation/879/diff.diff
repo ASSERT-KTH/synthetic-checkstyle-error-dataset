@@ -1,0 +1,5 @@
+143,144c143
+<      *
+<      * @param pattern the pattern string
+---
+>      *     * @param pattern the pattern string

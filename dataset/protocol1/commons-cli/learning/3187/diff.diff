@@ -1,0 +1,4 @@
+52c52
+<     protected boolean skipParsing;
+---
+>     	protected boolean skipParsing;

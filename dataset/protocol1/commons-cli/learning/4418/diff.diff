@@ -1,0 +1,4 @@
+557c557
+<             else if (!getMatchingLongOptions(t).isEmpty())
+---
+>             else if (!getMatchingLongOptions(t).isEmpty	())

@@ -1,0 +1,5 @@
+50c50,51
+<     protected String[] flatten(final Options options, final String[] arguments, final boolean stopAtNonOption)
+---
+>     protected String[] flatten(final Options options, final String[] arguments
+> , final boolean stopAtNonOption)

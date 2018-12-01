@@ -1,0 +1,5 @@
+303c303,304
+<         opt = Util.stripLeadingHyphens(opt);
+---
+>         opt = Util.stripLeadingHyphens(opt)
+> ;

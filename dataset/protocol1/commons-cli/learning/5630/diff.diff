@@ -1,0 +1,4 @@
+687c687
+<         if (option.isRequired())
+---
+>         if(option.isRequired())

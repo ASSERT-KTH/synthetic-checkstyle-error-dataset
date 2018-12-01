@@ -1,0 +1,5 @@
+46,47c46
+<     /** a map of the options with the character key */
+<     private final Map<String, Option> shortOpts = new LinkedHashMap<String, Option>();
+---
+>     /** a map of the options with the character key */    private final Map<String, Option> shortOpts = new LinkedHashMap<String, Option>();

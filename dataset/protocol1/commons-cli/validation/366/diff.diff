@@ -1,0 +1,5 @@
+147,148c147
+<     public static Options parsePattern(final String pattern)
+<     {
+---
+>     public static Options parsePattern(final String pattern)    {

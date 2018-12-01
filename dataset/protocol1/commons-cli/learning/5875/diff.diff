@@ -1,0 +1,4 @@
+231c231
+<             currentOption = options.getOption(token);
+---
+>             currentOption = 	options.getOption(token);

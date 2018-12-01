@@ -1,0 +1,4 @@
+275c275
+<         this.defaultNewLine = newline;
+---
+>         this.defaultNewLine 	= newline;

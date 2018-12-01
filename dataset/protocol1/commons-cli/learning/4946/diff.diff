@@ -1,0 +1,4 @@
+500c500
+<             if (option.acceptsArg())
+---
+>             if (option	.acceptsArg())

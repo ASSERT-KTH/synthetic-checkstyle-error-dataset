@@ -1,0 +1,4 @@
+913c913
+<             pos = findWrapPos(text, width, 0);
+---
+>             pos = findWrapPos(text, width, 	0);

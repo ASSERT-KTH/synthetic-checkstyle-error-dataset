@@ -1,0 +1,4 @@
+24c24
+< import java.util.LinkedList;
+---
+> import java.util.LinkedList ;

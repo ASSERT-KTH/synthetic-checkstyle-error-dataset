@@ -1,0 +1,5 @@
+116,117c116
+<             else if (token.startsWith("--"))
+<             {
+---
+>             else if (token.startsWith("--"))            {

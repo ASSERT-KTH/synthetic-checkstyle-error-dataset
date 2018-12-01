@@ -1,0 +1,4 @@
+660c660
+<             if (it.hasNext())
+---
+>             if (it.hasNext() )

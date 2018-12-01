@@ -1,0 +1,5 @@
+68,69c68
+<             return (T) str;
+<         }
+---
+>             return (T) str;        }

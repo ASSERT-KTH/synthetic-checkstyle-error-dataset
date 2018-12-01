@@ -1,0 +1,4 @@
+767c767
+<         final StringBuffer sb = new StringBuffer(text.length());
+---
+>         final StringBuffer sb = new StringBuffer(text.length()) ;

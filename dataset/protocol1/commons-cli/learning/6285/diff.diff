@@ -1,0 +1,5 @@
+231,232c231
+<                     // ensure only one double-dash is added
+<                     if (!"--".equals(str))
+---
+>                     // ensure only one double-dash is added                    if (!"--".equals(str))

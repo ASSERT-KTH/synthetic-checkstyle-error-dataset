@@ -1,0 +1,4 @@
+988c988
+<             return pos + 1;
+---
+>             return pos+ 1;

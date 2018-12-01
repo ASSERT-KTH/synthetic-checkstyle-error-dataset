@@ -1,0 +1,5 @@
+68,69c68
+<     /**
+<      * @return the options in this group as a <code>Collection</code>
+---
+>     /**     * @return the options in this group as a <code>Collection</code>

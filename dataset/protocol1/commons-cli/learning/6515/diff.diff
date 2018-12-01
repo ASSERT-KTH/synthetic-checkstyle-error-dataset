@@ -1,0 +1,4 @@
+649c649
+<         final List<Option> optList = new ArrayList<Option>(group.getOptions());
+---
+>         final List<Option> optList = new ArrayList<	Option>(group.getOptions());

@@ -1,0 +1,5 @@
+68,69c68
+<                 if (!isValidChar(ch))
+<                 {
+---
+>                 if (!isValidChar(ch))                {

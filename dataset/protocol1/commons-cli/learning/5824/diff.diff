@@ -1,0 +1,4 @@
+866c866
+<             renderWrappedText(sb, width, nextLineTabStop, optBuf.toString());
+---
+>             renderWrappedText(sb, width, nextLineTabStop, optBuf.toString()) ;

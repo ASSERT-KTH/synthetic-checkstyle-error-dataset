@@ -1,0 +1,4 @@
+352c352
+<             if (processedOption.equals(option))
+---
+>             if (processedOption. equals(option))

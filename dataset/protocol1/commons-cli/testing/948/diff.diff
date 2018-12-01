@@ -1,0 +1,5 @@
+192,193c192
+<         // add it to the long option list
+<         if (opt.hasLongOpt())
+---
+>         // add it to the long option list        if (opt.hasLongOpt())

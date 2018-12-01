@@ -1,0 +1,4 @@
+524c524
+<             commandLine.addOption(opt);
+---
+>             commandLine.addOption(opt );

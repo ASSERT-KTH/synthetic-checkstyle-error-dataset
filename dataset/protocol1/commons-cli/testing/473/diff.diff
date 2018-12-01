@@ -1,0 +1,4 @@
+286c286
+<             if (longOpt.startsWith(opt))
+---
+>             if (longOpt.startsWith( opt))

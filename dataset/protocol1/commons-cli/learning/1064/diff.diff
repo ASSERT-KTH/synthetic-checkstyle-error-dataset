@@ -1,0 +1,5 @@
+79c79,80
+<         buf.append(missingOptions.size() == 1 ? "" : "s");
+---
+>         buf.append(missingOptions.size() == 
+> 1 ? "" : "s");

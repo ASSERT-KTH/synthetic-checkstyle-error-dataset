@@ -1,0 +1,4 @@
+568c568
+<         return hasNoValues() ? null : values.toArray(new String[values.size()]);
+---
+>         return 	hasNoValues() ? null : values.toArray(new String[values.size()]);

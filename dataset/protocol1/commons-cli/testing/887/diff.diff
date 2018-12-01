@@ -1,0 +1,4 @@
+55c55
+<     private final List<Object> requiredOpts = new ArrayList<Object>();
+---
+>     	private final List<Object> requiredOpts = new ArrayList<Object>();

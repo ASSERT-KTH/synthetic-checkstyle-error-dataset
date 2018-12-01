@@ -1,0 +1,4 @@
+679c679
+<     private void appendOption(final StringBuffer buff, final Option option, final boolean required)
+---
+>     private void appendOption(final StringBuffer buff, final 	Option option, final boolean required)

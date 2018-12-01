@@ -1,0 +1,4 @@
+257c257
+<         if (currentOption != null && currentOption.requiresArg())
+---
+>         if (currentOption != null && 	currentOption.requiresArg())

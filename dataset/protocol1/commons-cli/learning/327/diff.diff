@@ -1,0 +1,5 @@
+334c334,335
+<     public void processArgs(final Option opt, final ListIterator<String> iter) throws ParseException
+---
+>     public void processArgs(final Option opt
+> , final ListIterator<String> iter) throws ParseException

@@ -1,0 +1,5 @@
+416,417c416
+<         // option of the group
+<         if (getOptions().getOptionGroup(opt) != null)
+---
+>         // option of the group        if (getOptions().getOptionGroup(opt) != null)

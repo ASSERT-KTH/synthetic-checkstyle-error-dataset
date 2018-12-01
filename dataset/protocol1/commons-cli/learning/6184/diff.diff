@@ -1,0 +1,4 @@
+209c209
+<             if (!cmd.hasOption(option) && !selected)
+---
+>             if (!cmd.hasOption(option ) && !selected)

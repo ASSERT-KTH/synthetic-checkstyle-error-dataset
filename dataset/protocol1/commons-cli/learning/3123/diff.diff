@@ -1,0 +1,4 @@
+272c272
+<                 currentOption = options.getOption(ch);
+---
+>                 currentOption =options.getOption(ch);

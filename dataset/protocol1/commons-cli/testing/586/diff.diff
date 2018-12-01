@@ -1,0 +1,5 @@
+73c73,74
+<         for (final Option option : group.getOptions())
+---
+>         for (final Option option : 
+> group.getOptions())

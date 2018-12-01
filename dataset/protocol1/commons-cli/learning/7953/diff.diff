@@ -1,0 +1,5 @@
+41,42c41
+<     /** list of required options strings */
+<     private List requiredOptions;
+---
+>     /** list of required options strings */    private List requiredOptions;

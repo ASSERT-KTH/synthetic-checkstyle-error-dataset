@@ -1,0 +1,5 @@
+130,131c130
+<      * @param arguments the command line arguments
+<      * @param properties command line option name-value pairs
+---
+>      * @param arguments the command line arguments     * @param properties command line option name-value pairs

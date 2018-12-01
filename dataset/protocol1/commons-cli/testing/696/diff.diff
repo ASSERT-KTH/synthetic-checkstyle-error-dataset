@@ -1,0 +1,4 @@
+177c177
+<         option.setRequired(true);
+---
+>         option.setRequired( true);

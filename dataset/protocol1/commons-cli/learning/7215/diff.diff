@@ -1,0 +1,4 @@
+886c886
+<         public Builder optionalArg(final boolean isOptional)
+---
+>         public Builder optionalArg(final boolean 	isOptional)

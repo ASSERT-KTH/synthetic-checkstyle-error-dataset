@@ -1,0 +1,4 @@
+810c810
+<             final StringBuffer optBuf = new StringBuffer();
+---
+>             final StringBuffer optBuf 	= new StringBuffer();

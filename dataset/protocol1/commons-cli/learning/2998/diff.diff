@@ -1,0 +1,4 @@
+278c278
+<         return longOpt != null;
+---
+>         return 	longOpt != null;

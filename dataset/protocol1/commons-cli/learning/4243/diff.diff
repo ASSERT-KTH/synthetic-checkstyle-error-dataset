@@ -1,0 +1,5 @@
+58,59c58
+<      * @param <T> the type of argument
+<      * @return The instance of <code>clazz</code> initialised with
+---
+>      * @param <T> the type of argument     * @return The instance of <code>clazz</code> initialised with

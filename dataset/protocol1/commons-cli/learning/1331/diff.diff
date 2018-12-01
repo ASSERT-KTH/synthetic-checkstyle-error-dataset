@@ -1,0 +1,5 @@
+224,225c224
+<         if (stopAtNonOption && !options.hasOption(token))
+<         {
+---
+>         if (stopAtNonOption && !options.hasOption(token))        {

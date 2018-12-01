@@ -1,0 +1,5 @@
+571,572c571
+<                     currentOption = null;
+<                 }
+---
+>                     currentOption = null;                }

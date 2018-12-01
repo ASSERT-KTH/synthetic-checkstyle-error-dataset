@@ -1,0 +1,4 @@
+119c119
+<                 final String opt = pos == -1 ? token : token.substring(0, pos); // --foo
+---
+>                 final String opt = pos == -1 ? token : token.substring( 0, pos); // --foo

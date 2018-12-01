@@ -1,0 +1,4 @@
+74c74
+<         else if (PatternOptionBuilder.NUMBER_VALUE == clazz)
+---
+>         	else if (PatternOptionBuilder.NUMBER_VALUE == clazz)

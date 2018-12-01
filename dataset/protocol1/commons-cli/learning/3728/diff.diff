@@ -1,0 +1,5 @@
+846,847c846
+<          * @param description the description of the option.
+<          * @return this builder, to allow method chaining
+---
+>          * @param description the description of the option.         * @return this builder, to allow method chaining

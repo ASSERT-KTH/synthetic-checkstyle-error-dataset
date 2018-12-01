@@ -1,0 +1,5 @@
+146,147c146
+<     public static Number createNumber(final String str) throws ParseException
+<     {
+---
+>     public static Number createNumber(final String str) throws ParseException    {

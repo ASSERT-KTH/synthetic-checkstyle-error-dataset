@@ -1,0 +1,5 @@
+52,53c52
+<     public MissingOptionException(final List missingOptions)
+<     {
+---
+>     public MissingOptionException(final List missingOptions)    {

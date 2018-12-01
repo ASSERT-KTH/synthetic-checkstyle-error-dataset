@@ -1,0 +1,4 @@
+35c35
+<     private final Map<String, Option> optionMap = new LinkedHashMap<String, Option>();
+---
+>     private final Map<	String, Option> optionMap = new LinkedHashMap<String, Option>();

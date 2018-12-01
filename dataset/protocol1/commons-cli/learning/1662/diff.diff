@@ -1,0 +1,5 @@
+619,620c619
+<                 handleLongOptionWithEqual(token);
+<             }
+---
+>                 handleLongOptionWithEqual(token);            }

@@ -1,0 +1,5 @@
+137,138c137
+<      * @param properties      command line option name-value pairs
+<      * @param stopAtNonOption if <tt>true</tt> an unrecognized argument stops
+---
+>      * @param properties      command line option name-value pairs     * @param stopAtNonOption if <tt>true</tt> an unrecognized argument stops

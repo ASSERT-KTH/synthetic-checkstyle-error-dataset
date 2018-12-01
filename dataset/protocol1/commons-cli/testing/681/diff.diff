@@ -1,0 +1,4 @@
+94c94
+<         return new HashSet<OptionGroup>(optionGroups.values());
+---
+>         	return new HashSet<OptionGroup>(optionGroups.values());

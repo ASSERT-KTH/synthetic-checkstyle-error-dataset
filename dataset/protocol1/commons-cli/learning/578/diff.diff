@@ -1,0 +1,5 @@
+1005c1005,1006
+<             if (opt == null && longOpt == null)
+---
+>             if (opt == null && longOpt == 
+> null)

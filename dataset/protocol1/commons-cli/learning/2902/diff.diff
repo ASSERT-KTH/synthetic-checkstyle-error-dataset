@@ -1,0 +1,4 @@
+803c803
+<         if (getOptionComparator() != null)
+---
+>         if (getOptionComparator() != null )

@@ -1,0 +1,4 @@
+347c347
+<     private boolean isShortOption(final String token)
+---
+>     private boolean isShortOption(final String 	token)

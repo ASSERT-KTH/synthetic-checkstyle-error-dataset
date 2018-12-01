@@ -1,0 +1,5 @@
+284c284,285
+<         for (final String longOpt : longOpts.keySet())
+---
+>         for (final String longOpt : 
+> longOpts.keySet())

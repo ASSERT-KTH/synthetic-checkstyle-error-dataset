@@ -1,0 +1,5 @@
+281,282c281
+<             else if (stopAtNonOption)
+<             {
+---
+>             else if (stopAtNonOption)            {

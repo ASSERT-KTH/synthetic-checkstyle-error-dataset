@@ -1,0 +1,5 @@
+656c656,657
+<         return option != null && (option.getArgs() >= 2 || option.getArgs() == Option.UNLIMITED_VALUES);
+---
+>         return option != null && (option.getArgs() >= 2 || option.getArgs() == Option.UNLIMITED_VALUES)
+> ;

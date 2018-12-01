@@ -1,0 +1,4 @@
+686c686
+<         catch (final CloneNotSupportedException cnse)
+---
+>         	catch (final CloneNotSupportedException cnse)

@@ -1,0 +1,5 @@
+55c55,56
+<             final char ch = opt.charAt(0);
+---
+>             final char ch = opt.charAt(0)
+> ;

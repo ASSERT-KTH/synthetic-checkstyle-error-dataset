@@ -1,0 +1,4 @@
+178c178
+<         return (opt == null) ? longOpt : opt;
+---
+>         return (opt 	== null) ? longOpt : opt;

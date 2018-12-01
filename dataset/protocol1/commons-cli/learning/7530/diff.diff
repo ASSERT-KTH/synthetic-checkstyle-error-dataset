@@ -1,0 +1,5 @@
+188,189c188
+<     private void handleProperties(final Properties properties) throws ParseException
+<     {
+---
+>     private void handleProperties(final Properties properties) throws ParseException    {

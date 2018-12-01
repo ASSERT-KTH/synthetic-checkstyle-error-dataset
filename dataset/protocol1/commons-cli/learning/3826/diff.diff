@@ -1,0 +1,5 @@
+206,207c206
+<             final OptionGroup group = options.getOptionGroup(opt);
+<             final boolean selected = group != null && group.getSelected() != null;
+---
+>             final OptionGroup group = options.getOptionGroup(opt);            final boolean selected = group != null && group.getSelected() != null;

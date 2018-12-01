@@ -1,0 +1,4 @@
+107c107
+<             final String token = iter.next();
+---
+>             	final String token = iter.next();

@@ -1,0 +1,5 @@
+89c89,90
+<                         tokens.add(arg.substring(2)); // property=value
+---
+>                         tokens.add(arg.substring(2))
+> ; // property=value

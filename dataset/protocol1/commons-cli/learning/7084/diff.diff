@@ -1,0 +1,5 @@
+42,43c42
+<         }
+<         else if (str.startsWith("-"))
+---
+>         }        else if (str.startsWith("-"))

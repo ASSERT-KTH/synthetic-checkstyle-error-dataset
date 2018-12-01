@@ -1,0 +1,5 @@
+66,67c66
+<     private static String createMessage(final String option, final Collection<String> matchingOptions)
+<     {
+---
+>     private static String createMessage(final String option, final Collection<String> matchingOptions)    {

@@ -1,0 +1,4 @@
+85c85
+<                     else if (options.hasOption(arg.substring(0, 2)))
+---
+>                     else if (options	.hasOption(arg.substring(0, 2)))

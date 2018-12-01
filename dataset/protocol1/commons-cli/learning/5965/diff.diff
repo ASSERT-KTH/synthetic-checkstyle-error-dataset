@@ -1,0 +1,4 @@
+170c170
+<     public Object getOptionObject(final char opt)
+---
+>     public Object getOptionObject	(final char opt)

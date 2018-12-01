@@ -1,0 +1,5 @@
+41c41,42
+<             return str.substring(2, str.length());
+---
+>             return str.substring(2
+> , str.length());

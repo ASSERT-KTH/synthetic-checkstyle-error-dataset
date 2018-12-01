@@ -1,0 +1,4 @@
+363c363
+<         return optName.length() > 0 && options.hasShortOption(String.valueOf(optName.charAt(0)));
+---
+>         return optName.length() > 0 	&& options.hasShortOption(String.valueOf(optName.charAt(0)));

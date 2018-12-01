@@ -1,0 +1,5 @@
+322,323c322
+<      * @param opt character name of the option
+<      * @param defaultValue is the default value to be returned if the option
+---
+>      * @param opt character name of the option     * @param defaultValue is the default value to be returned if the option

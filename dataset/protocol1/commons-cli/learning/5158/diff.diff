@@ -1,0 +1,4 @@
+635c635
+<         for (i = t.length() - 2; i > 1; i--)
+---
+>         for (i = t	.length() - 2; i > 1; i--)

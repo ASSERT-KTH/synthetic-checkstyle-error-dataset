@@ -1,0 +1,5 @@
+96c96,97
+<         if (selected == null || selected.equals(option.getKey()))
+---
+>         if (selected == 
+> null || selected.equals(option.getKey()))

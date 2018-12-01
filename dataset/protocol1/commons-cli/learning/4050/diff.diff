@@ -1,0 +1,5 @@
+484c484,485
+<         final String opt = token.substring(0, pos);
+---
+>         final String opt = token.substring(0
+> , pos);

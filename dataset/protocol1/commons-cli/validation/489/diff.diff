@@ -1,0 +1,5 @@
+36,37c36
+<     public ParseException(final String message)
+<     {
+---
+>     public ParseException(final String message)    {

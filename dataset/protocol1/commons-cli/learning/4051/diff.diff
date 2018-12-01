@@ -1,0 +1,5 @@
+357c357,358
+<         final String optName = pos == -1 ? token.substring(1) : token.substring(1, pos);
+---
+>         final String optName = pos == -1 ? token.substring(1) : 
+> token.substring(1, pos);

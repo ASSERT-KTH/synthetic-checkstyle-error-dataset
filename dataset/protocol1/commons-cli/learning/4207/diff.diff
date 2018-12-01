@@ -1,0 +1,5 @@
+122c122,123
+<     public CommandLine parse(final Options options, final String[] arguments, final Properties properties) throws ParseException
+---
+>     public CommandLine parse(final Options options, final String[] arguments
+> , final Properties properties) throws ParseException

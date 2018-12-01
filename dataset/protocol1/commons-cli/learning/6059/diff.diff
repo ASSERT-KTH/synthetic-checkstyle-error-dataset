@@ -1,0 +1,5 @@
+242,243c242
+<             throw new ParseException("Unable to find file: " + str);
+<         }
+---
+>             throw new ParseException("Unable to find file: " + str);        }

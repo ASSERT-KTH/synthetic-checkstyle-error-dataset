@@ -1,0 +1,4 @@
+644c644
+<         if (opt != null ? !opt.equals(option.opt) : option.opt != null)
+---
+>         if 	(opt != null ? !opt.equals(option.opt) : option.opt != null)

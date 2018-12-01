@@ -1,0 +1,5 @@
+27,28c27
+<  */
+< public class AmbiguousOptionException extends UnrecognizedOptionException
+---
+>  */public class AmbiguousOptionException extends UnrecognizedOptionException

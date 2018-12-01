@@ -1,0 +1,4 @@
+24c24
+< public class UnrecognizedOptionException extends ParseException
+---
+> public class UnrecognizedOptionException 	extends ParseException

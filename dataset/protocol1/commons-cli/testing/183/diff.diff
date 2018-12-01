@@ -1,0 +1,4 @@
+148c148
+<         addOption(new Option(opt, longOpt, hasArg, description));
+---
+>         addOption(new Option(opt, longOpt,hasArg, description));

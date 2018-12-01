@@ -1,0 +1,5 @@
+837,838c837
+<                     optBuf.append("<").append(argName != null ? option.getArgName() : getArgName()).append(">");
+<                 }
+---
+>                     optBuf.append("<").append(argName != null ? option.getArgName() : getArgName()).append(">");                }

@@ -1,0 +1,4 @@
+269c269
+<     private void handleToken(final String token) throws ParseException
+---
+>     private void handleToken(final String 	token) throws ParseException

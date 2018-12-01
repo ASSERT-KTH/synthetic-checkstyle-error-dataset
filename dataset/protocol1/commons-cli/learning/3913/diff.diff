@@ -1,0 +1,5 @@
+500,501c500
+<      * @param cmdLineSyntax the syntax for this application
+<      * @param header the banner to display at the beginning of the help
+---
+>      * @param cmdLineSyntax the syntax for this application     * @param header the banner to display at the beginning of the help

@@ -1,0 +1,4 @@
+109c109
+<     public Option(final String opt, final String description) throws IllegalArgumentException
+---
+>     public Option( final String opt, final String description) throws IllegalArgumentException

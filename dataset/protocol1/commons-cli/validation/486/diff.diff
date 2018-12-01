@@ -1,0 +1,5 @@
+155c155,156
+<         for (int i = 0; i < pattern.length(); i++)
+---
+>         for (int i = 0; i < pattern.length()
+> ; i++)

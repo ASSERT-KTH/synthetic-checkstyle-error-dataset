@@ -1,0 +1,4 @@
+253c253
+<     public void setSyntaxPrefix(final String prefix)
+---
+>     	public void setSyntaxPrefix(final String prefix)

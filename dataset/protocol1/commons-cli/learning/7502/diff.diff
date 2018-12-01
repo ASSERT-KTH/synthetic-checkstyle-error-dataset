@@ -1,0 +1,4 @@
+158c158
+<     public String defaultOptPrefix = DEFAULT_OPT_PREFIX;
+---
+>     public String 	defaultOptPrefix = DEFAULT_OPT_PREFIX;

@@ -1,0 +1,4 @@
+93c93
+<     public static Object getValueClass(final char ch)
+---
+>     public 	static Object getValueClass(final char ch)

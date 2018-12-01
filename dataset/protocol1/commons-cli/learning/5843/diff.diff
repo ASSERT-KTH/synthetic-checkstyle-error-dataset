@@ -1,0 +1,4 @@
+187c187
+<                 tokens.add(iter.next());
+---
+>                 tokens.add(iter.next() );

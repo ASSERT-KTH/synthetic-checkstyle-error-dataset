@@ -1,0 +1,4 @@
+277c277
+<         else if ("--".equals(token))
+---
+>         else if ("--".equals	(token))

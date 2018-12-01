@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "47", "column": "9", "message": "Avoid nested blocks.", "type": "AvoidNestedBlocks"}

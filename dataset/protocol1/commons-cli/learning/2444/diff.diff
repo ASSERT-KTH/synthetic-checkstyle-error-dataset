@@ -1,0 +1,4 @@
+717c717
+<     public void printUsage(final PrintWriter pw, final int width, final String cmdLineSyntax)
+---
+>     public void printUsage(final 	PrintWriter pw, final int width, final String cmdLineSyntax)

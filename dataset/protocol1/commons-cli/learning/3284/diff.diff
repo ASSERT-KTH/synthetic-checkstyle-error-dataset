@@ -1,0 +1,4 @@
+453c453
+<         printHelp(getWidth(), cmdLineSyntax, header, options, footer, autoUsage);
+---
+>         	printHelp(getWidth(), cmdLineSyntax, header, options, footer, autoUsage);

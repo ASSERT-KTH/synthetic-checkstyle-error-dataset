@@ -1,0 +1,5 @@
+271c271,272
+<         currentToken = token;
+---
+>         currentToken = token
+> ;

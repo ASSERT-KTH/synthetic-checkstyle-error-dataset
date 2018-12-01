@@ -1,0 +1,4 @@
+64c64
+<     public static <T> T createValue(final String str, final Class<T> clazz) throws ParseException
+---
+>     public static <T	> T createValue(final String str, final Class<T> clazz) throws ParseException

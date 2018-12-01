@@ -1,0 +1,5 @@
+46,47c46
+<         // if opt is NULL do not check further
+<         if (opt == null)
+---
+>         // if opt is NULL do not check further        if (opt == null)

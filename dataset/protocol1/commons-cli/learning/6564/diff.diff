@@ -1,0 +1,4 @@
+37c37
+<     CommandLine parse(Options options, String[] arguments) throws ParseException;
+---
+>     CommandLine parse(Options 	options, String[] arguments) throws ParseException;

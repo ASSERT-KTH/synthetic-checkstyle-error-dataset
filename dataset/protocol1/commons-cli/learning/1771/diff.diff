@@ -1,0 +1,4 @@
+183c183
+<     protected Comparator<Option> optionComparator = new OptionComparator();
+---
+>     protected 	Comparator<Option> optionComparator = new OptionComparator();

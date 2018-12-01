@@ -1,0 +1,5 @@
+789,790c789
+<     protected StringBuffer renderOptions(final StringBuffer sb, final int width, final Options options, final int leftPad, final int descPad)
+<     {
+---
+>     protected StringBuffer renderOptions(final StringBuffer sb, final int width, final Options options, final int leftPad, final int descPad)    {

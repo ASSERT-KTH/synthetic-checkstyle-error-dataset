@@ -1,0 +1,5 @@
+72c72,73
+<     protected abstract String[] flatten(Options opts, String[] arguments, boolean stopAtNonOption)
+---
+>     protected abstract String[] flatten(Options opts, String[] arguments
+> , boolean stopAtNonOption)

@@ -1,0 +1,4 @@
+725c725
+<     boolean acceptsArg()
+---
+>     boolean 	acceptsArg()

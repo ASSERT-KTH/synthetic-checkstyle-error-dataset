@@ -1,0 +1,4 @@
+263c263
+<             if (opt.equals(option.getOpt()))
+---
+>             if (opt.equals( option.getOpt()))

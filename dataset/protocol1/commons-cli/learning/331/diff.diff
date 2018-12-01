@@ -1,0 +1,5 @@
+242,243c242
+<      *
+<      * @param opt string name of the option.
+---
+>      *     * @param opt string name of the option.

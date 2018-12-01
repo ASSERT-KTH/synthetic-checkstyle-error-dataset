@@ -1,0 +1,4 @@
+49c49
+<         return createValue(str, (Class<?>) obj);
+---
+>         return createValue(str, (Class	<?>) obj);

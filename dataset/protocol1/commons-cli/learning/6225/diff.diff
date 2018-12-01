@@ -1,0 +1,5 @@
+1003c1003,1004
+<         for (pos = startPos + width; pos >= startPos; --pos)
+---
+>         for (pos = startPos + 
+> width; pos >= startPos; --pos)

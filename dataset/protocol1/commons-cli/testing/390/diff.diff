@@ -1,0 +1,4 @@
+176c176
+<         final Option option = new Option(opt, longOpt, hasArg, description);
+---
+>         final Option option =new Option(opt, longOpt, hasArg, description);

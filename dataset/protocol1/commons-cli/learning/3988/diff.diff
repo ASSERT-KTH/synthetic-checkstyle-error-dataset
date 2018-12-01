@@ -1,0 +1,5 @@
+395,396c395
+<      *
+<      * @return the value separator character.
+---
+>      *     * @return the value separator character.

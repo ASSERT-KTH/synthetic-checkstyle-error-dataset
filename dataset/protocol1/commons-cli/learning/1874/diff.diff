@@ -1,0 +1,4 @@
+144c144
+<     public CommandLine parse(final Options options, String[] arguments, final Properties properties, final boolean stopAtNonOption)
+---
+>     public CommandLine parse	(final Options options, String[] arguments, final Properties properties, final boolean stopAtNonOption)

@@ -1,0 +1,5 @@
+94c94,95
+<         else if (PatternOptionBuilder.FILES_VALUE == clazz)
+---
+>         else if (PatternOptionBuilder.FILES_VALUE == 
+> clazz)

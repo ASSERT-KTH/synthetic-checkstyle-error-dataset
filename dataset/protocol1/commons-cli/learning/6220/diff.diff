@@ -1,0 +1,5 @@
+303,304c303
+<                 updateRequiredOptions(opt);
+<             }
+---
+>                 updateRequiredOptions(opt);            }

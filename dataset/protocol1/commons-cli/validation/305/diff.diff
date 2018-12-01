@@ -1,0 +1,5 @@
+56,57c56
+<     /** String class */
+<     public static final Class<String> STRING_VALUE = String.class;
+---
+>     /** String class */    public static final Class<String> STRING_VALUE = String.class;

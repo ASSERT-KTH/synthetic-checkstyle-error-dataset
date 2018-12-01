@@ -1,0 +1,5 @@
+480c480,481
+<         final int pos = token.indexOf('=');
+---
+>         final int pos = token.indexOf('=')
+> ;

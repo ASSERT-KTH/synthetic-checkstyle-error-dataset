@@ -1,0 +1,5 @@
+69,70c69
+<         }
+<         else if (PatternOptionBuilder.OBJECT_VALUE == clazz)
+---
+>         }        else if (PatternOptionBuilder.OBJECT_VALUE == clazz)

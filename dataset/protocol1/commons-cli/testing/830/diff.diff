@@ -1,0 +1,4 @@
+240c240
+<         return Collections.unmodifiableList(requiredOpts);
+---
+>         return 	Collections.unmodifiableList(requiredOpts);

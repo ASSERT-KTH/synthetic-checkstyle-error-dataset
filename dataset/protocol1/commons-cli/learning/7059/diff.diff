@@ -1,0 +1,4 @@
+59c59
+<                 throw new IllegalArgumentException("Illegal option name '" + ch + "'");
+---
+>                 throw new IllegalArgumentException("Illegal option name '" + 	ch + "'");

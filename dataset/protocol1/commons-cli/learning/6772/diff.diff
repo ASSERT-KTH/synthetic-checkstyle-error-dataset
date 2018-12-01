@@ -1,0 +1,5 @@
+319,320c319
+<             throw new MissingOptionException(getRequiredOptions());
+<         }
+---
+>             throw new MissingOptionException(getRequiredOptions());        }

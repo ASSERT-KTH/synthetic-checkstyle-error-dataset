@@ -1,0 +1,4 @@
+30c30
+< public class GnuParser extends Parser
+---
+> public 	class GnuParser extends Parser

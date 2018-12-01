@@ -1,0 +1,5 @@
+47c47,48
+<         this.matchingOptions = matchingOptions;
+---
+>         this.matchingOptions = matchingOptions
+> ;

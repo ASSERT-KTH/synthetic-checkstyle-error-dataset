@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "331", "column": "14", "message": "'=' is not followed by whitespace.", "type": "WhitespaceAround"}

@@ -1,0 +1,5 @@
+607,608c607
+<             }
+<             else if (isJavaProperty(opt))
+---
+>             }            else if (isJavaProperty(opt))

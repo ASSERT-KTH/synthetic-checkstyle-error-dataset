@@ -1,0 +1,5 @@
+85c85,86
+<         return isValidChar(c) || c == '?' || c == '@';
+---
+>         return isValidChar(c) || c == '?' || 
+> c == '@';

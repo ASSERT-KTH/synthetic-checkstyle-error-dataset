@@ -1,0 +1,4 @@
+479c479
+<                 add(value.substring(0, index));
+---
+>                 add(value.substring(0, index ));

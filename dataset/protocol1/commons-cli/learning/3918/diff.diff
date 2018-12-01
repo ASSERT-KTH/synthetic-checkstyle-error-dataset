@@ -1,0 +1,4 @@
+73c73
+<         while (it.hasNext())
+---
+>         while (it.hasNext	())

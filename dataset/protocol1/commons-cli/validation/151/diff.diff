@@ -1,0 +1,5 @@
+186c186,187
+<                 type = (Class<?>) getValueClass(ch);
+---
+>                 type = (Class<?>) getValueClass(ch)
+> ;

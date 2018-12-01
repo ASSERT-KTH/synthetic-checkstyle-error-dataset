@@ -1,0 +1,5 @@
+460,461c460
+<         // this Option has a separator character
+<         if (hasValueSeparator())
+---
+>         // this Option has a separator character        if (hasValueSeparator())

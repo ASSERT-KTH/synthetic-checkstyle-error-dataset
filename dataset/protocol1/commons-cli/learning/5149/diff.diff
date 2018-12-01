@@ -1,0 +1,5 @@
+765,766c765
+<             if (options.hasOption(ch))
+<             {
+---
+>             if (options.hasOption(ch))            {

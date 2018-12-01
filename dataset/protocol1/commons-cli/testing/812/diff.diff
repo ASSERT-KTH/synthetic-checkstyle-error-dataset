@@ -1,0 +1,5 @@
+355c355,356
+<         final StringBuilder buf = new StringBuilder();
+---
+>         final StringBuilder buf = new StringBuilder()
+> ;

@@ -1,0 +1,4 @@
+698c698
+<             buff.append(option.getOpt() == null ? longOptSeparator : " ");
+---
+>             buff.append( option.getOpt() == null ? longOptSeparator : " ");

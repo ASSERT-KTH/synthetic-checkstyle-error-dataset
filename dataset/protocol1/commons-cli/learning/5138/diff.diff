@@ -1,0 +1,4 @@
+386c386
+<         else if (getLongPrefix(token) != null && !token.startsWith("--"))
+---
+>         else if (getLongPrefix(token) != null && ! token.startsWith("--"))

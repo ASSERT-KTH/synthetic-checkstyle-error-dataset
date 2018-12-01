@@ -1,0 +1,4 @@
+82c82
+<     public static final Class<File[]> FILES_VALUE = File[].class;
+---
+>     public static final Class<File[]> FILES_VALUE = File [].class;

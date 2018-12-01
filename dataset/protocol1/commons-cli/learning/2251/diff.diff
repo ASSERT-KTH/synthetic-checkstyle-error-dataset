@@ -1,0 +1,4 @@
+654c654
+<         final Option option = options.getOption(opt);
+---
+>         final Option option = options.getOption(opt );

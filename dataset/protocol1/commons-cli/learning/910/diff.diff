@@ -1,0 +1,4 @@
+121c121
+<     public Object getParsedOptionValue(final Option option) throws ParseException
+---
+>     public Object getParsedOptionValue(final Option 	option) throws ParseException

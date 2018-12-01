@@ -1,0 +1,4 @@
+739c739
+<         final StringBuffer sb = new StringBuffer();
+---
+>         final StringBuffer sb = new StringBuffer() ;

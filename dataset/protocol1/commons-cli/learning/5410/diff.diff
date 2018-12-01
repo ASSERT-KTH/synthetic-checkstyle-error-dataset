@@ -1,0 +1,4 @@
+982c982
+<     protected int findWrapPos(final String text, final int width, final int startPos)
+---
+>     protected int findWrapPos	(final String text, final int width, final int startPos)

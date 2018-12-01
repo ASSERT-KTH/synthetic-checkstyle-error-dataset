@@ -1,0 +1,5 @@
+861,862c861
+<             if (option.getDescription() != null)
+<             {
+---
+>             if (option.getDescription() != null)            {

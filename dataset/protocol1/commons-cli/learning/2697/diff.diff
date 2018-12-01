@@ -1,0 +1,4 @@
+298c298
+<         if (currentOption != null && !currentOption.acceptsArg())
+---
+>         if (currentOption != null 	&& !currentOption.acceptsArg())

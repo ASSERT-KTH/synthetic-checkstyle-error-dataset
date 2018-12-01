@@ -1,0 +1,5 @@
+157c157,158
+<             final char ch = pattern.charAt(i);
+---
+>             final char ch = pattern.charAt(i)
+> ;

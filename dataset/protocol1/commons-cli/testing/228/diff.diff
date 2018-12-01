@@ -1,0 +1,5 @@
+68,69c68
+<             }
+<             else if (arg.startsWith("-"))
+---
+>             }            else if (arg.startsWith("-"))

@@ -1,0 +1,5 @@
+382,383c382
+<             throw new UnrecognizedOptionException("Unrecognized option: " + arg, arg);
+<         }
+---
+>             throw new UnrecognizedOptionException("Unrecognized option: " + arg, arg);        }

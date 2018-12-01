@@ -1,0 +1,4 @@
+985c985
+<         int pos = text.indexOf('\n', startPos);
+---
+>         int pos = text.indexOf( '\n', startPos);

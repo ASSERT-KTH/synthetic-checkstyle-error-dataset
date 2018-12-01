@@ -1,0 +1,4 @@
+861c861
+<         public Builder longOpt(final String longOpt)
+---
+>         public 	Builder longOpt(final String longOpt)

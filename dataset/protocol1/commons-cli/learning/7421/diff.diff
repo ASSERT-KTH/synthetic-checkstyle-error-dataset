@@ -1,0 +1,4 @@
+940c940
+<     private Appendable renderWrappedTextBlock(final StringBuffer sb, final int width, final int nextLineTabStop, final String text)
+---
+>     private Appendable renderWrappedTextBlock(final 	StringBuffer sb, final int width, final int nextLineTabStop, final String text)

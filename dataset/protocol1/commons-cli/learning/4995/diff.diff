@@ -1,0 +1,4 @@
+696c696
+<         if (option.hasArg() && (option.getArgName() == null || option.getArgName().length() != 0))
+---
+>         if (option	.hasArg() && (option.getArgName() == null || option.getArgName().length() != 0))

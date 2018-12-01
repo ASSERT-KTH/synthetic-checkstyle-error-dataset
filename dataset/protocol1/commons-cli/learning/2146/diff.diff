@@ -1,0 +1,5 @@
+590,591c590
+<             final String opt = t.substring(0, pos);
+<             final String value = t.substring(pos + 1);
+---
+>             final String opt = t.substring(0, pos);            final String value = t.substring(pos + 1);

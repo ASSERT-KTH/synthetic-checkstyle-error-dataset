@@ -1,0 +1,5 @@
+670,671c670
+<         if (option.hasArg())
+<         {
+---
+>         if (option.hasArg())        {

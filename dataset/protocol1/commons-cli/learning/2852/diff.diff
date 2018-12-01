@@ -1,0 +1,4 @@
+814c814
+<                 optBuf.append(lpad).append("   ").append(getLongOptPrefix()).append(option.getLongOpt());
+---
+>                 optBuf.append(lpad).append("   ").append(getLongOptPrefix()).append	(option.getLongOpt());

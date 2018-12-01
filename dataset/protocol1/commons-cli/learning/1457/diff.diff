@@ -1,0 +1,5 @@
+904,905c904
+<             nextLineTabStop = 1;
+<         }
+---
+>             nextLineTabStop = 1;        }

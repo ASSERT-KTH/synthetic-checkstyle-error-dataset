@@ -1,0 +1,5 @@
+769c769,770
+<                 if (currentOption != null && token.length() != i + 1)
+---
+>                 if (currentOption != null && token.length() != i + 
+> 1)

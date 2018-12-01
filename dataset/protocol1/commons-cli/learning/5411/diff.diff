@@ -1,0 +1,5 @@
+850c850,851
+<             final StringBuilder optBuf = new StringBuilder(prefixList.get(x++).toString());
+---
+>             final StringBuilder optBuf = new StringBuilder(prefixList.get(x
+> ++).toString());

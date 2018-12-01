@@ -1,0 +1,4 @@
+513c513
+<         private final CommandLine commandLine = new CommandLine();
+---
+>         private final CommandLine commandLine= new CommandLine();

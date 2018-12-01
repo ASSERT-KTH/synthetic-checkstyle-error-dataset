@@ -1,0 +1,4 @@
+140c140
+<     public Option(final String opt, final String longOpt, final boolean hasArg, final String description)
+---
+>     public Option(final String opt , final String longOpt, final boolean hasArg, final String description)

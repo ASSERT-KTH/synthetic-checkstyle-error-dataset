@@ -1,0 +1,5 @@
+208c208,209
+<             return new URL(str);
+---
+>             return new URL(str)
+> ;

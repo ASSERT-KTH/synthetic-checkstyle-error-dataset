@@ -1,0 +1,5 @@
+83c83,84
+<                         tokens.add(arg.substring(arg.indexOf('=') + 1)); // value
+---
+>                         tokens.add(arg.substring(arg.indexOf('=') + 
+> 1)); // value

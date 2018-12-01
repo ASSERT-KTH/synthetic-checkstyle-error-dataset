@@ -1,0 +1,5 @@
+89,90c89
+<         }
+<         else if (PatternOptionBuilder.EXISTING_FILE_VALUE == clazz)
+---
+>         }        else if (PatternOptionBuilder.EXISTING_FILE_VALUE == clazz)

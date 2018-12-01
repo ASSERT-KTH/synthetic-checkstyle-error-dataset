@@ -1,0 +1,4 @@
+553c553
+<             if (options.hasShortOption(t))
+---
+>             	if (options.hasShortOption(t))

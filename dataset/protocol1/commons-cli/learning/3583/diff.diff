@@ -1,0 +1,5 @@
+237c237,238
+<         return values.isEmpty() ? null : values.toArray(new String[values.size()]);
+---
+>         return values.isEmpty() ? 
+> null : values.toArray(new String[values.size()]);

@@ -1,0 +1,4 @@
+33c33
+<     static String stripLeadingHyphens(final String str)
+---
+>     static 	String stripLeadingHyphens(final String str)

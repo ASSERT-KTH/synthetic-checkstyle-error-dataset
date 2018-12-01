@@ -1,0 +1,5 @@
+544,545c544
+<             throw new IllegalArgumentException("cmdLineSyntax not provided");
+<         }
+---
+>             throw new IllegalArgumentException("cmdLineSyntax not provided");        }

@@ -1,0 +1,4 @@
+43c43
+<     protected String[] flatten(@SuppressWarnings("unused") final Options options,
+---
+>     protected String [] flatten(@SuppressWarnings("unused") final Options options,

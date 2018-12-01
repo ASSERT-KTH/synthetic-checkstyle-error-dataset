@@ -1,0 +1,4 @@
+358c358
+<         buf.append(shortOpts.toString());
+---
+>         	buf.append(shortOpts.toString());

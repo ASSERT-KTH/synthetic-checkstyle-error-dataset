@@ -1,0 +1,5 @@
+947c947,948
+<             while ((line = in.readLine()) != null)
+---
+>             while ((line = in.readLine()) != 
+> null)

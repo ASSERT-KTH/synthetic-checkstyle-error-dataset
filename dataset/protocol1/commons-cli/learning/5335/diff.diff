@@ -1,0 +1,4 @@
+944c944
+<             final BufferedReader in = new BufferedReader(new StringReader(text));
+---
+>             	final BufferedReader in = new BufferedReader(new StringReader(text));

@@ -1,0 +1,4 @@
+265c265
+<         return defaultSyntaxPrefix;
+---
+>         	return defaultSyntaxPrefix;

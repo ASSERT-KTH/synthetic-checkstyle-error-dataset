@@ -1,0 +1,5 @@
+657,658c657
+<     public int hashCode()
+<     {
+---
+>     public int hashCode()    {

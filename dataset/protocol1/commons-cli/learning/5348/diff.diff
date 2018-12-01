@@ -1,0 +1,5 @@
+127,128c127
+<     public CommandLine parse(final Options options, final String[] arguments, final boolean stopAtNonOption) throws ParseException
+<     {
+---
+>     public CommandLine parse(final Options options, final String[] arguments, final boolean stopAtNonOption) throws ParseException    {

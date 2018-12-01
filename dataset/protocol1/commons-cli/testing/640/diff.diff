@@ -1,0 +1,4 @@
+279c279
+<         if (longOpts.keySet().contains(opt))
+---
+>         if (longOpts.keySet().contains(opt) )

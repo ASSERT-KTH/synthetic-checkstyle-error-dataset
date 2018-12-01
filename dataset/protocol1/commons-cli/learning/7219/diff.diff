@@ -1,0 +1,4 @@
+43c43
+<     public static final int UNINITIALIZED = -1;
+---
+>     public static 	final int UNINITIALIZED = -1;

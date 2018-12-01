@@ -1,0 +1,5 @@
+310,311c310
+<      *
+<      * @param prefix the new value of 'longOptPrefix'
+---
+>      *     * @param prefix the new value of 'longOptPrefix'

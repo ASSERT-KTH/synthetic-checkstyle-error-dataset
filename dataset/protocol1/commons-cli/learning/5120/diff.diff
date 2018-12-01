@@ -1,0 +1,5 @@
+288,289c288
+<         }
+<         else if (token.startsWith("-") && !"-".equals(token))
+---
+>         }        else if (token.startsWith("-") && !"-".equals(token))

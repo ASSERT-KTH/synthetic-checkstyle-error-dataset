@@ -1,0 +1,5 @@
+32,33c32
+<     /** The command-line instance. */
+<     protected CommandLine cmd;
+---
+>     /** The command-line instance. */    protected CommandLine cmd;

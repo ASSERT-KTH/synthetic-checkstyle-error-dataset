@@ -1,0 +1,4 @@
+90c90
+<         this.longOpt = builder.longOpt;
+---
+>         this.longOpt = builder. longOpt;

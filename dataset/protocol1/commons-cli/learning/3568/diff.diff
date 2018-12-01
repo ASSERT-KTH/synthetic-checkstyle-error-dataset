@@ -1,0 +1,4 @@
+608c608
+<         buf.append(" :: ").append(description);
+---
+>         buf. append(" :: ").append(description);

@@ -1,0 +1,4 @@
+377c377
+<     public void setArgs(final int num)
+---
+>     	public void setArgs(final int num)

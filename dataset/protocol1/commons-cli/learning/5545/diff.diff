@@ -1,0 +1,4 @@
+452c452
+<         final List<String> matchingOpts = getMatchingLongOptions(token);
+---
+>         final List<String	> matchingOpts = getMatchingLongOptions(token);

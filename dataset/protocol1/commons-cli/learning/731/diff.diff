@@ -1,0 +1,4 @@
+24c24
+< public class AlreadySelectedException extends ParseException
+---
+> public 	class AlreadySelectedException extends ParseException

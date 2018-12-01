@@ -1,0 +1,4 @@
+218c218
+<         setType((Class<?>) type);
+---
+>         setType((Class<	?>) type);

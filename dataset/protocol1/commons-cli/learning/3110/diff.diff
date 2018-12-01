@@ -1,0 +1,4 @@
+40c40
+<     public MissingOptionException(final String message)
+---
+>     public MissingOptionException(final String 	message)

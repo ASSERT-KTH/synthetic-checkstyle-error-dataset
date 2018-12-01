@@ -1,0 +1,5 @@
+1007,1008c1007
+<                 throw new IllegalArgumentException("Either opt or longOpt must be specified");
+<             }
+---
+>                 throw new IllegalArgumentException("Either opt or longOpt must be specified");            }

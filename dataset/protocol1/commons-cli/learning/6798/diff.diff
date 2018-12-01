@@ -1,0 +1,4 @@
+625c625
+<     private boolean hasNoValues()
+---
+>     private boolean hasNoValues	()

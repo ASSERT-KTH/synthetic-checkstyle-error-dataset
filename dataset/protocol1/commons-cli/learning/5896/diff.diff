@@ -1,0 +1,5 @@
+44,45c44
+<     static void validateOption(final String opt) throws IllegalArgumentException
+<     {
+---
+>     static void validateOption(final String opt) throws IllegalArgumentException    {

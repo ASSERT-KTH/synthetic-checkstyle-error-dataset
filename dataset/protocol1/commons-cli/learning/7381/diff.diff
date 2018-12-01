@@ -1,0 +1,5 @@
+85c85,86
+<             buf.append(it.next());
+---
+>             buf.append(it.next())
+> ;

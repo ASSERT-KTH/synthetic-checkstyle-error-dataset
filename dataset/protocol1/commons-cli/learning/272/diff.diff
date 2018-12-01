@@ -1,0 +1,4 @@
+818c818
+<                 optBuf.append(lpad).append(getOptPrefix()).append(option.getOpt());
+---
+>                 	optBuf.append(lpad).append(getOptPrefix()).append(option.getOpt());

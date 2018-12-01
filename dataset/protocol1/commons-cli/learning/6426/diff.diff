@@ -1,0 +1,4 @@
+678c678
+<     public Object clone()
+---
+>     public Object clone	()

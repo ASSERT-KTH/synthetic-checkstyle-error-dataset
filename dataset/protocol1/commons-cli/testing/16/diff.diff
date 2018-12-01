@@ -1,0 +1,4 @@
+129c129
+<         addOption(opt, null, hasArg, description);
+---
+>         addOption(opt, null, hasArg, description );

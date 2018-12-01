@@ -1,0 +1,5 @@
+195,196c195
+<         for (final Enumeration<?> e = properties.propertyNames(); e.hasMoreElements();)
+<         {
+---
+>         for (final Enumeration<?> e = properties.propertyNames(); e.hasMoreElements();)        {

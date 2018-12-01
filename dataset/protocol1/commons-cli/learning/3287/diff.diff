@@ -1,0 +1,4 @@
+154c154
+<             return Long.valueOf(str);
+---
+>             return 	Long.valueOf(str);

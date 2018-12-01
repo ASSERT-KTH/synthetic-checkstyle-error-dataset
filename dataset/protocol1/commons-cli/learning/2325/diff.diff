@@ -1,0 +1,5 @@
+486,487c486
+<                           final Options options, final String footer, final boolean autoUsage)
+<     {
+---
+>                           final Options options, final String footer, final boolean autoUsage)    {

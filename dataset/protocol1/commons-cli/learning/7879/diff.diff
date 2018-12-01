@@ -1,0 +1,4 @@
+227c227
+<         final List<String> values = new ArrayList<String>();
+---
+>         final 	List<String> values = new ArrayList<String>();

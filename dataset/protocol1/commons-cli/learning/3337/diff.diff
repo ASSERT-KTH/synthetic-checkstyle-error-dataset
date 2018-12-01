@@ -1,0 +1,4 @@
+648c648
+<         if (longOpt != null ? !longOpt.equals(option.longOpt) : option.longOpt != null)
+---
+>         if (longOpt != null ? !longOpt.equals(option.longOpt) : option.longOpt != null )

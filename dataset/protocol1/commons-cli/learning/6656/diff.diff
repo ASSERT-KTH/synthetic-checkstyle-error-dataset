@@ -1,0 +1,4 @@
+692c692
+<             buff.append("--").append(option.getLongOpt());
+---
+>             buff.append( "--").append(option.getLongOpt());

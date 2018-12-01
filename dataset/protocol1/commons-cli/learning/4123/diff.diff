@@ -1,0 +1,5 @@
+86,87c86
+<     public boolean hasOption(final char opt)
+<     {
+---
+>     public boolean hasOption(final char opt)    {

@@ -1,0 +1,5 @@
+610,611c610
+<         if (type != null)
+<         {
+---
+>         if (type != null)        {

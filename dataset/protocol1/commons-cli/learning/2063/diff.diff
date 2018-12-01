@@ -1,0 +1,4 @@
+662c662
+<                 buff.append(" | ");
+---
+>                 buff.append	(" | ");

@@ -1,0 +1,4 @@
+40c40
+<     public UnrecognizedOptionException(final String message)
+---
+>     	public UnrecognizedOptionException(final String message)

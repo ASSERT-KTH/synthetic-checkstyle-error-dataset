@@ -1,0 +1,4 @@
+362c362
+<             throw new MissingArgumentException(opt);
+---
+>             throw new MissingArgumentException(opt );

@@ -1,0 +1,5 @@
+25c25,26
+< import java.util.Properties;
+---
+> import java.util.Properties
+> ;

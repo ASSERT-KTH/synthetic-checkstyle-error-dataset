@@ -1,0 +1,4 @@
+359c359
+<         buf.append(" ] [ long ");
+---
+>         buf.append(" ] [ long " );

@@ -1,0 +1,4 @@
+60c60
+<     static String stripLeadingAndTrailingQuotes(String str)
+---
+>     	static String stripLeadingAndTrailingQuotes(String str)

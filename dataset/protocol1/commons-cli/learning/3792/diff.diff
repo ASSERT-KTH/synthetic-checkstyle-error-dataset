@@ -1,0 +1,4 @@
+245c245
+<         if (!expectedOpts.isEmpty())
+---
+>         if (!expectedOpts. isEmpty())

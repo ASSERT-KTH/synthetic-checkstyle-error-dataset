@@ -1,0 +1,4 @@
+84c84
+<     public void setSelected(final Option option) throws AlreadySelectedException
+---
+>     public void setSelected	(final Option option) throws AlreadySelectedException

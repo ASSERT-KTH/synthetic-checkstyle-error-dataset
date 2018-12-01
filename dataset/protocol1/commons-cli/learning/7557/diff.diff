@@ -1,0 +1,4 @@
+255c255
+<         this.defaultSyntaxPrefix = prefix;
+---
+>         this	.defaultSyntaxPrefix = prefix;

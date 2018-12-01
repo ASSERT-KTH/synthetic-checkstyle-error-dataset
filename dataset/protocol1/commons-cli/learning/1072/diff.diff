@@ -1,0 +1,4 @@
+44c44
+<     protected void setOptions(final Options options)
+---
+>     protected void 	setOptions(final Options options)

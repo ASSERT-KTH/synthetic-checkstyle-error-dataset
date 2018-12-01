@@ -1,0 +1,5 @@
+497,498c497
+<             final String key = options.hasLongOption(opt) ? opt : matchingOpts.get(0);
+<             final Option option = options.getOption(key);
+---
+>             final String key = options.hasLongOption(opt) ? opt : matchingOpts.get(0);            final Option option = options.getOption(key);

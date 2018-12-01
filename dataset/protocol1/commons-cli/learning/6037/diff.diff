@@ -1,0 +1,4 @@
+36c36
+<     private final Collection<String> matchingOptions;
+---
+>     private 	final Collection<String> matchingOptions;

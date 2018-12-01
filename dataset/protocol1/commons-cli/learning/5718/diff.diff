@@ -1,0 +1,4 @@
+72c72
+<     CommandLine parse(Options options, String[] arguments, boolean stopAtNonOption) throws ParseException;
+---
+>     CommandLine parse(Options options, String[] 	arguments, boolean stopAtNonOption) throws ParseException;

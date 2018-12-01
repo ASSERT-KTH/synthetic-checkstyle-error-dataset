@@ -1,0 +1,4 @@
+129c129
+<                     throw new AmbiguousOptionException(opt, matchingOpts);
+---
+>                     	throw new AmbiguousOptionException(opt, matchingOpts);

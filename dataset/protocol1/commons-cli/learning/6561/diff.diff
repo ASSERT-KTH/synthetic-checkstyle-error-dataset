@@ -1,0 +1,5 @@
+243,244c243
+<      * @param opt string name of the option.
+<      * @return Values of the argument if option is set, and has an argument,
+---
+>      * @param opt string name of the option.     * @return Values of the argument if option is set, and has an argument,

@@ -1,0 +1,5 @@
+491,492c491
+<         else if (matchingOpts.size() > 1 && !options.hasLongOption(opt))
+<         {
+---
+>         else if (matchingOpts.size() > 1 && !options.hasLongOption(opt))        {

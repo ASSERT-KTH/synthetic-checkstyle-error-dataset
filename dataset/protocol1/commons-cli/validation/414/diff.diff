@@ -1,0 +1,4 @@
+104c104
+<                 return PatternOptionBuilder.CLASS_VALUE;
+---
+>                 return 	PatternOptionBuilder.CLASS_VALUE;

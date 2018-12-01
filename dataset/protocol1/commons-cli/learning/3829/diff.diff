@@ -1,0 +1,4 @@
+150c150
+<             if (option.getOpt() != null)
+---
+>             if (option	.getOpt() != null)

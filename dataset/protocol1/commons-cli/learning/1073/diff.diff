@@ -1,0 +1,4 @@
+317c317
+<         if (!getRequiredOptions().isEmpty())
+---
+>         if (!getRequiredOptions(). isEmpty())

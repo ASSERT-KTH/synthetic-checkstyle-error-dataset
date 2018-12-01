@@ -1,0 +1,4 @@
+979c979
+<         public Builder hasArg(final boolean hasArg)
+---
+>         public 	Builder hasArg(final boolean hasArg)

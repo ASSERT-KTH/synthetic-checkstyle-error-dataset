@@ -1,0 +1,4 @@
+329c329
+<         this.required = required;
+---
+>         this.required = 	required;

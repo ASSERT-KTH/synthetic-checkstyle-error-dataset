@@ -1,0 +1,5 @@
+124,125c124
+<      *
+<      * @return whether this option group is required
+---
+>      *     * @return whether this option group is required

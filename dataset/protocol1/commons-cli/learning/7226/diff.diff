@@ -1,0 +1,4 @@
+451c451
+<     public void printHelp(final String cmdLineSyntax, final String header, final Options options, final String footer, final boolean autoUsage)
+---
+>     public void printHelp(final String cmdLineSyntax, final String header, final Options options, final String footer, final boolean 	autoUsage)

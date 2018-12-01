@@ -1,0 +1,5 @@
+88c88,89
+<                         tokens.add(arg.substring(0, 2)); // -D
+---
+>                         tokens.add(arg.substring(0, 2))
+> ; // -D

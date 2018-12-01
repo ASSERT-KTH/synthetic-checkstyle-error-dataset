@@ -1,0 +1,5 @@
+409,410c409
+<         // the requiredOptions list
+<         if (opt.isRequired())
+---
+>         // the requiredOptions list        if (opt.isRequired())

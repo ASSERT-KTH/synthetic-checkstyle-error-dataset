@@ -1,0 +1,4 @@
+588c588
+<         final StringBuilder buf = new StringBuilder().append("[ option: ");
+---
+>         final StringBuilder buf = 	new StringBuilder().append("[ option: ");

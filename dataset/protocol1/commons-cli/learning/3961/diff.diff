@@ -1,0 +1,5 @@
+215c215,216
+<         this.defaultLeftPad = padding;
+---
+>         this.defaultLeftPad = padding
+> ;

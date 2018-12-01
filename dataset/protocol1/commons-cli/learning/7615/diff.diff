@@ -1,0 +1,5 @@
+238,239c238
+<             return new FileInputStream(str);
+<         }
+---
+>             return new FileInputStream(str);        }

@@ -1,0 +1,5 @@
+66,67c66
+<         if (PatternOptionBuilder.STRING_VALUE == clazz)
+<         {
+---
+>         if (PatternOptionBuilder.STRING_VALUE == clazz)        {

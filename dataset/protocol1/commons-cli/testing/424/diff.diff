@@ -1,0 +1,4 @@
+357c357
+<         buf.append("[ Options: [ short ");
+---
+>         buf.append	("[ Options: [ short ");

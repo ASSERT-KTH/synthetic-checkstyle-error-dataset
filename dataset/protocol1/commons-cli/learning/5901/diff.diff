@@ -1,0 +1,4 @@
+288c288
+<         return numberOfArgs > 0 || numberOfArgs == UNLIMITED_VALUES;
+---
+>         	return numberOfArgs > 0 || numberOfArgs == UNLIMITED_VALUES;

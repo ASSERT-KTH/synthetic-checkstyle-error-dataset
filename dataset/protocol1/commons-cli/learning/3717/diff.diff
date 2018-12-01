@@ -1,0 +1,4 @@
+807c807
+<         private boolean optionalArg;
+---
+>         	private boolean optionalArg;

@@ -1,0 +1,4 @@
+41c41
+<     private boolean required;
+---
+>     private boolean 	required;

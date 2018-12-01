@@ -1,0 +1,4 @@
+769c769
+<         renderWrappedTextBlock(sb, width, nextLineTabStop, text);
+---
+>         renderWrappedTextBlock( sb, width, nextLineTabStop, text);

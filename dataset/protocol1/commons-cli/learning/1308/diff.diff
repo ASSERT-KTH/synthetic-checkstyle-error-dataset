@@ -1,0 +1,4 @@
+715c715
+<         throw new UnsupportedOperationException("The addValue method is not intended for client use. "
+---
+>         throw new 	UnsupportedOperationException("The addValue method is not intended for client use. "

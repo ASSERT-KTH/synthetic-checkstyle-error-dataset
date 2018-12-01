@@ -1,0 +1,4 @@
+522c522
+<         return hasNoValues() ? null : values.get(0);
+---
+>         return 	hasNoValues() ? null : values.get(0);

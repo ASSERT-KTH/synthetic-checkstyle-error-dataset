@@ -1,0 +1,4 @@
+84c84
+<             return (T) createClass(str);
+---
+>             return 	(T) createClass(str);

@@ -1,0 +1,4 @@
+195c195
+<             longOpts.put(opt.getLongOpt(), opt);
+---
+>             longOpts.put(opt.getLongOpt	(), opt);

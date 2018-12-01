@@ -1,0 +1,5 @@
+149c149,150
+<     public String defaultNewLine = System.getProperty("line.separator");
+---
+>     public String defaultNewLine = System.getProperty("line.separator")
+> ;

@@ -1,0 +1,4 @@
+104c104
+<             throw new ParseException("Unable to handle the class: " + clazz);
+---
+>             throw new ParseException("Unable to handle the class: " + clazz );

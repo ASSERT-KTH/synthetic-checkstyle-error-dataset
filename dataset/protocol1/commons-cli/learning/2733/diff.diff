@@ -1,0 +1,4 @@
+158c158
+<     public Object getParsedOptionValue(final char opt) throws ParseException
+---
+>     public Object 	getParsedOptionValue(final char opt) throws ParseException

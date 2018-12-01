@@ -1,0 +1,5 @@
+488,489c488
+<      *
+<      * @return an array of the processed {@link Option}s.
+---
+>      *     * @return an array of the processed {@link Option}s.

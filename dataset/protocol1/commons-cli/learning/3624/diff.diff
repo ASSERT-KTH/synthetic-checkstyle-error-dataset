@@ -1,0 +1,5 @@
+51,52c51
+<     private void init()
+<     {
+---
+>     private void init()    {

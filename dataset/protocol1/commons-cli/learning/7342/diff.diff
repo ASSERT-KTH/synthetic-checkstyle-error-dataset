@@ -1,0 +1,4 @@
+144c144
+<         buff.append("[");
+---
+>         buff.append("[" );

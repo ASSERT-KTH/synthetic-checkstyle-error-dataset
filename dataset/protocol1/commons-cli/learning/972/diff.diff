@@ -1,0 +1,4 @@
+852c852
+<             if (optBuf.length() < max)
+---
+>             if 	(optBuf.length() < max)

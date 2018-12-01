@@ -1,0 +1,5 @@
+477,478c477
+<      *
+<      * @return an <code>Iterator</code> over the processed {@link Option}
+---
+>      *     * @return an <code>Iterator</code> over the processed {@link Option}

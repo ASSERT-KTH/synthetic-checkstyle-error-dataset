@@ -1,0 +1,4 @@
+377c377
+<         final boolean hasOption = getOptions().hasOption(arg);
+---
+>         final boolean 	hasOption = getOptions().hasOption(arg);

@@ -1,0 +1,4 @@
+653c653
+<         final String opt = token.substring(0, 1);
+---
+>         final String opt = token.substring(0, 1) ;

@@ -1,0 +1,4 @@
+360c360
+<         buf.append(longOpts);
+---
+>         buf. append(longOpts);

@@ -1,0 +1,5 @@
+391,392c391
+<     public void setOptionComparator(final Comparator<Option> comparator)
+<     {
+---
+>     public void setOptionComparator(final Comparator<Option> comparator)    {

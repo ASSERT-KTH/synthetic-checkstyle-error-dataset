@@ -1,0 +1,5 @@
+341,342c341
+<             // found an Option, not an argument
+<             if (getOptions().hasOption(str) && str.startsWith("-"))
+---
+>             // found an Option, not an argument            if (getOptions().hasOption(str) && str.startsWith("-"))

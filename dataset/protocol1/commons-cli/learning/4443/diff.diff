@@ -1,0 +1,4 @@
+922c922
+<             this.type = type;
+---
+>             this. type = type;

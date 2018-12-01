@@ -1,0 +1,4 @@
+406c406
+<     private void updateRequiredOptions(final Option opt) throws ParseException
+---
+>     private void updateRequiredOptions(final Option opt) 	throws ParseException

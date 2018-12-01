@@ -1,0 +1,5 @@
+213,214c213
+<     public void setLeftPadding(final int padding)
+<     {
+---
+>     public void setLeftPadding(final int padding)    {

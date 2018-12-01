@@ -1,0 +1,4 @@
+813c813
+<         private Class<?> type = String.class;
+---
+>         private Class<	?> type = String.class;

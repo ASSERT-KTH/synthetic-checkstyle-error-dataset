@@ -1,0 +1,4 @@
+79c79
+<                     if (opt.indexOf('=') != -1 && options.hasOption(opt.substring(0, opt.indexOf('='))))
+---
+>                     if (opt.indexOf('=') != -1 && options.hasOption(opt.substring(0, opt.indexOf('=' ))))

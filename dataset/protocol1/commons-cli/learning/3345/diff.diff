@@ -1,0 +1,4 @@
+46c46
+<     public static final int UNLIMITED_VALUES = -2;
+---
+>     public static 	final int UNLIMITED_VALUES = -2;

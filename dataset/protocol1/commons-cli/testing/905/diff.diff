@@ -1,0 +1,4 @@
+70c70
+<             requiredOpts.add(group);
+---
+>             requiredOpts.add( group);

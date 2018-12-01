@@ -1,0 +1,4 @@
+772c772
+<                     currentOption.addValueForProcessing(token.substring(i + 1));
+---
+>                     currentOption.addValueForProcessing(token.substring( i + 1));

@@ -1,0 +1,4 @@
+577c577
+<                     currentOption.addValueForProcessing(t.substring(1));
+---
+>                     currentOption.addValueForProcessing(t.substring(1 ));

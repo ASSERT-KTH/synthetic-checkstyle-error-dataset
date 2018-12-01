@@ -1,0 +1,4 @@
+190c190
+<         if (properties == null)
+---
+>         if (properties == 	null)

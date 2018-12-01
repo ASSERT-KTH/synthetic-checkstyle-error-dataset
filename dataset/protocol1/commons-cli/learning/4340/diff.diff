@@ -1,0 +1,4 @@
+45c45
+<             return str.substring(1, str.length());
+---
+>             	return str.substring(1, str.length());

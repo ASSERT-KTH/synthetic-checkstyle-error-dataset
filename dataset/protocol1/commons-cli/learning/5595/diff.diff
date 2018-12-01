@@ -1,0 +1,4 @@
+713c713
+<     private List<String> getMatchingLongOptions(final String token)
+---
+>     private 	List<String> getMatchingLongOptions(final String token)

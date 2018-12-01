@@ -1,0 +1,5 @@
+342c342,343
+<             if (getOptions().hasOption(str) && str.startsWith("-"))
+---
+>             if (getOptions().hasOption(str) && 
+> str.startsWith("-"))

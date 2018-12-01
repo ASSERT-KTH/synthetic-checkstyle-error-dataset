@@ -1,0 +1,5 @@
+463,464c463
+<      * @param header the banner to display at the beginning of the help
+<      * @param options the Options instance
+---
+>      * @param header the banner to display at the beginning of the help     * @param options the Options instance

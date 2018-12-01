@@ -1,0 +1,4 @@
+88c88
+<     public static final String DEFAULT_OPT_PREFIX = "-";
+---
+>     public static 	final String DEFAULT_OPT_PREFIX = "-";

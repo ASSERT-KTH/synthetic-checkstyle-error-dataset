@@ -1,0 +1,4 @@
+135c135
+<                     tokens.add("--" + currentOption.getLongOpt());
+---
+>                     tokens	.add("--" + currentOption.getLongOpt());

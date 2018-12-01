@@ -1,0 +1,4 @@
+404c404
+<     private void handleUnknownToken(final String token) throws ParseException
+---
+>     private void handleUnknownToken(final String token) throws 	ParseException

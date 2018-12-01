@@ -1,0 +1,4 @@
+600c600
+<             if (group != null)
+---
+>             if ( group != null)

@@ -1,0 +1,5 @@
+73c73,74
+<     private Class<?> type = String.class;
+---
+>     private Class<?> type = String.class
+> ;

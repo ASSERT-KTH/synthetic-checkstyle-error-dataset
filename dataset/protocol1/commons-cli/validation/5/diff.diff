@@ -1,0 +1,5 @@
+81,82c81
+<     /** File array class */
+<     public static final Class<File[]> FILES_VALUE = File[].class;
+---
+>     /** File array class */    public static final Class<File[]> FILES_VALUE = File[].class;

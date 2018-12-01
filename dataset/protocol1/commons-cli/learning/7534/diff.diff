@@ -1,0 +1,4 @@
+957c957
+<                 renderWrappedText(sb, width, nextLineTabStop, line);
+---
+>                 	renderWrappedText(sb, width, nextLineTabStop, line);

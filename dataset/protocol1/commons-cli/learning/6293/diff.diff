@@ -1,0 +1,4 @@
+721c721
+<         printWrapped(pw, width, getSyntaxPrefix().length() + argPos, getSyntaxPrefix() + cmdLineSyntax);
+---
+>         printWrapped(pw, 	width, getSyntaxPrefix().length() + argPos, getSyntaxPrefix() + cmdLineSyntax);

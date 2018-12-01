@@ -1,0 +1,4 @@
+263c263
+<     protected void burstToken(final String token, final boolean stopAtNonOption)
+---
+>     protected void burstToken(final String token , final boolean stopAtNonOption)

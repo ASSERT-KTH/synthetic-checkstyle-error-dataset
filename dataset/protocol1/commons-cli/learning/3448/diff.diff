@@ -1,0 +1,4 @@
+597c597
+<                 if (option != null && option.acceptsArg())
+---
+>                 if ( option != null && option.acceptsArg())

@@ -1,0 +1,4 @@
+129c129
+<         return parse(options, arguments, null, stopAtNonOption);
+---
+>         return parse(options, arguments, null, 	stopAtNonOption);

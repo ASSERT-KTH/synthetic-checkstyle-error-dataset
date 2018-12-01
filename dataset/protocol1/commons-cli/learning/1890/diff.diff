@@ -1,0 +1,5 @@
+35,36c35
+<     /** The list of options matching the partial name specified */
+<     private final Collection<String> matchingOptions;
+---
+>     /** The list of options matching the partial name specified */    private final Collection<String> matchingOptions;

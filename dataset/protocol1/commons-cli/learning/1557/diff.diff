@@ -1,0 +1,4 @@
+38c38
+<     private boolean eatTheRest;
+---
+>     private boolean eatTheRest ;

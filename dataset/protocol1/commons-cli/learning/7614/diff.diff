@@ -1,0 +1,4 @@
+284c284
+<     public String[] getOptionValues(final char opt)
+---
+>     public String[] getOptionValues(final 	char opt)

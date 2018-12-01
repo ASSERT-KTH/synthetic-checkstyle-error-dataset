@@ -1,0 +1,4 @@
+699c699
+<                 expectedOpts.remove(group);
+---
+>                 expectedOpts	.remove(group);

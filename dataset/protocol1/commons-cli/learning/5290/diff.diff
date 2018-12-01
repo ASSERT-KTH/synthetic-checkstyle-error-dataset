@@ -1,0 +1,5 @@
+600c600,601
+<                     currentOption.addValueForProcessing(value);
+---
+>                     currentOption.addValueForProcessing(value)
+> ;

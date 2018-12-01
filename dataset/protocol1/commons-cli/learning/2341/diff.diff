@@ -1,0 +1,4 @@
+351c351
+<                 opt.addValueForProcessing(Util.stripLeadingAndTrailingQuotes(str));
+---
+>                 opt	.addValueForProcessing(Util.stripLeadingAndTrailingQuotes(str));

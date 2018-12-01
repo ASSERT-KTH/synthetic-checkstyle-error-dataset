@@ -1,0 +1,4 @@
+26c26
+< public class MissingOptionException extends ParseException
+---
+> 	public class MissingOptionException extends ParseException

@@ -1,0 +1,4 @@
+469c469
+<         printHelp(width, cmdLineSyntax, header, options, footer, false);
+---
+>         printHelp(width, cmdLineSyntax, header, options, footer, false) ;

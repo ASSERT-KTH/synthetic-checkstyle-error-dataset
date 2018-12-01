@@ -1,0 +1,4 @@
+277c277
+<                 final String value = properties.getProperty(option);
+---
+>                 final String 	value = properties.getProperty(option);

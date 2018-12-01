@@ -1,0 +1,4 @@
+1070c1070
+<     private static class OptionComparator implements Comparator<Option>, Serializable
+---
+>     private static class OptionComparator implements Comparator<Option> , Serializable

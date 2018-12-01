@@ -1,0 +1,4 @@
+281c281
+<             return Collections.singletonList(opt);
+---
+>             return Collections.singletonList(opt) ;

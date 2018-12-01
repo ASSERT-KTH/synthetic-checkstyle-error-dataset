@@ -1,0 +1,5 @@
+98,99c98
+<         else if (PatternOptionBuilder.URL_VALUE == clazz)
+<         {
+---
+>         else if (PatternOptionBuilder.URL_VALUE == clazz)        {

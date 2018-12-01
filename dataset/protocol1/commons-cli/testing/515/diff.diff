@@ -1,0 +1,5 @@
+71c71,72
+<                 final String opt = Util.stripLeadingHyphens(arg);
+---
+>                 final String opt = Util.stripLeadingHyphens(arg)
+> ;

@@ -1,0 +1,5 @@
+142c142,143
+<         final Iterator<Option> iter = getOptions().iterator();
+---
+>         final Iterator<Option> iter = getOptions().iterator()
+> ;

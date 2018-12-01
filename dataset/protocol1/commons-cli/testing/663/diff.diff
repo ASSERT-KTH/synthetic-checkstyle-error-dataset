@@ -1,0 +1,4 @@
+305c305
+<         return shortOpts.containsKey(opt) || longOpts.containsKey(opt);
+---
+>         return shortOpts.containsKey(opt) || longOpts	.containsKey(opt);

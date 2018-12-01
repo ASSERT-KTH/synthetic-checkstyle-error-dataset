@@ -1,0 +1,5 @@
+49,50c49
+<     /** a map of the options with the long key */
+<     private final Map<String, Option> longOpts = new LinkedHashMap<String, Option>();
+---
+>     /** a map of the options with the long key */    private final Map<String, Option> longOpts = new LinkedHashMap<String, Option>();

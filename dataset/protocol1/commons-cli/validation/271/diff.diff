@@ -1,0 +1,4 @@
+63c63
+<     public static final Class<Number> NUMBER_VALUE = Number.class;
+---
+>     public static final Class<Number> NUMBER_VALUE = Number.class ;

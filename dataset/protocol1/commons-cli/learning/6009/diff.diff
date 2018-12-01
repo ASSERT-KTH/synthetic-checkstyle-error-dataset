@@ -1,0 +1,4 @@
+577c577
+<     public void printUsage(final PrintWriter pw, final int width, final String app, final Options options)
+---
+>     public void printUsage(final PrintWriter pw, final 	int width, final String app, final Options options)

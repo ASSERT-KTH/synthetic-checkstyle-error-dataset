@@ -1,0 +1,4 @@
+227c227
+<     public void setType(final Class<?> type)
+---
+>     public 	void setType(final Class<?> type)

@@ -1,0 +1,5 @@
+286,287c286
+<                         }
+<                         catch (final RuntimeException exp) //NOPMD
+---
+>                         }                        catch (final RuntimeException exp) //NOPMD

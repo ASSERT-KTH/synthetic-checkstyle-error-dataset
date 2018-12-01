@@ -1,0 +1,5 @@
+650,651c650
+<         if (getOptionComparator() != null)
+<         {
+---
+>         if (getOptionComparator() != null)        {

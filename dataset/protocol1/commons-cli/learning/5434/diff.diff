@@ -1,0 +1,5 @@
+379,380c379
+<      * @param opt name of the option.
+<      * @return The Properties mapped by the option, never <tt>null</tt>
+---
+>      * @param opt name of the option.     * @return The Properties mapped by the option, never <tt>null</tt>

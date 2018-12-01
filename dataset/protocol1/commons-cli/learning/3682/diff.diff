@@ -1,0 +1,4 @@
+95c95
+<     protected String[] flatten(final Options options, final String[] arguments, final boolean stopAtNonOption) throws ParseException
+---
+>     protected String[] flatten(final Options options, final 	String[] arguments, final boolean stopAtNonOption) throws ParseException

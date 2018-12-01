@@ -1,0 +1,4 @@
+311c311
+<         return !isOption(token) || isNegativeNumber(token);
+---
+>         return !isOption( token) || isNegativeNumber(token);

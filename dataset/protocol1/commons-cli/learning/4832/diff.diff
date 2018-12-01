@@ -1,0 +1,5 @@
+35c35,36
+<     private final List<String> tokens = new ArrayList<String>();
+---
+>     private final List<String> tokens = new ArrayList<String>()
+> ;

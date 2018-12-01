@@ -1,0 +1,4 @@
+611c611
+<                 handleOption(options.getOption(opt.substring(0, 1)));
+---
+>                 handleOption(options.getOption(opt	.substring(0, 1)));

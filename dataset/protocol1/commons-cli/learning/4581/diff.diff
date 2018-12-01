@@ -1,0 +1,4 @@
+982c982
+<             numberOfArgs = hasArg ? 1 : Option.UNINITIALIZED;
+---
+>             	numberOfArgs = hasArg ? 1 : Option.UNINITIALIZED;

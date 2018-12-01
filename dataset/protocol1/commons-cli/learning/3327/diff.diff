@@ -1,0 +1,5 @@
+145,146c145
+<                 if (token.length() == 2 || options.hasOption(token))
+<                 {
+---
+>                 if (token.length() == 2 || options.hasOption(token))                {

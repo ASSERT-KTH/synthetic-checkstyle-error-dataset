@@ -1,0 +1,5 @@
+404,405c404
+<     public void printHelp(final String cmdLineSyntax, final Options options)
+<     {
+---
+>     public void printHelp(final String cmdLineSyntax, final Options options)    {

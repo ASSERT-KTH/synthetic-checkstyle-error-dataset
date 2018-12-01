@@ -1,0 +1,4 @@
+265c265
+<         for (int i = 1; i < token.length(); i++)
+---
+>         for (int i = 1; i < token.length(); i++ )

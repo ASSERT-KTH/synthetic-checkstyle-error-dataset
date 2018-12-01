@@ -1,0 +1,4 @@
+899c899
+<         sb.append(rtrim(text.substring(0, pos))).append(getNewLine());
+---
+>         sb. append(rtrim(text.substring(0, pos))).append(getNewLine());

@@ -1,0 +1,5 @@
+859c859,860
+<             final int nextLineTabStop = max + descPad;
+---
+>             final int nextLineTabStop = max + 
+> descPad;

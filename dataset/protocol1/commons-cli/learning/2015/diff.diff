@@ -1,0 +1,4 @@
+287c287
+<                         catch (final RuntimeException exp) //NOPMD
+---
+>                         catch (final 	RuntimeException exp) //NOPMD

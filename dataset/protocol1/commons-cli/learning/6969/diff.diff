@@ -1,0 +1,5 @@
+478,479c478
+<     private void handleLongOptionWithEqual(final String token) throws ParseException
+<     {
+---
+>     private void handleLongOptionWithEqual(final String token) throws ParseException    {

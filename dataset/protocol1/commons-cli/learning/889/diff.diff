@@ -1,0 +1,4 @@
+79c79
+<     public static final int DEFAULT_LEFT_PAD = 1;
+---
+>     public static final int DEFAULT_LEFT_PAD = 	1;

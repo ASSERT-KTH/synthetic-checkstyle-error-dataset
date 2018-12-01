@@ -1,0 +1,5 @@
+968,969c968
+<         public Builder hasArg()
+<         {
+---
+>         public Builder hasArg()        {

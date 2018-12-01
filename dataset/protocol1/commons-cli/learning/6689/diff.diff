@@ -1,0 +1,4 @@
+44c44
+<     public AmbiguousOptionException(final String option, final Collection<String> matchingOptions)
+---
+>     public 	AmbiguousOptionException(final String option, final Collection<String> matchingOptions)

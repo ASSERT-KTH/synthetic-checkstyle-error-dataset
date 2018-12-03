@@ -1,5 +1,0 @@
-920,921c920
-<         public Builder type(final Class<?> type)
-<         {
----
->         public Builder type(final Class<?> type)        {

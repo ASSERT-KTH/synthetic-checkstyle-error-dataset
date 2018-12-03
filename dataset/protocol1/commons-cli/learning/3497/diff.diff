@@ -1,4 +1,0 @@
-536c536
-<         final int pos = t.indexOf('=');
----
->         final int pos =t.indexOf('=');

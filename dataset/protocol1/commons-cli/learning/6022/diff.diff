@@ -1,4 +1,0 @@
-64c64
-<     public boolean hasOption(final Option opt)
----
->     public boolean hasOption( final Option opt)

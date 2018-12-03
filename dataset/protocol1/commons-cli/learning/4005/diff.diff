@@ -1,5 +1,0 @@
-201,202c201
-<      * @return The URL in <code>str</code> is well-formed
-<      * @throws ParseException if the URL in <code>str</code> is not well-formed
----
->      * @return The URL in <code>str</code> is well-formed     * @throws ParseException if the URL in <code>str</code> is not well-formed

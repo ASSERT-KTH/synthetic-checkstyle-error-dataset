@@ -1,5 +1,0 @@
-204,205c204
-<     public static URL createURL(final String str) throws ParseException
-<     {
----
->     public static URL createURL(final String str) throws ParseException    {

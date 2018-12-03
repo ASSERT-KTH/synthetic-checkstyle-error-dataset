@@ -1,4 +1,0 @@
-307c307
-<     public void setDescription(final String description)
----
->     	public void setDescription(final String description)

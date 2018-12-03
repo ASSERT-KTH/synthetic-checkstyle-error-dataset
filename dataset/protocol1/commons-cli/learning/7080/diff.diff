@@ -1,4 +1,0 @@
-161c161
-<             if (option.getDescription() != null)
----
->             if ( option.getDescription() != null)

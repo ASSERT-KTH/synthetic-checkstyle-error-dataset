@@ -1,4 +1,0 @@
-101c101
-<     public DefaultParser(final boolean allowPartialMatching)
----
->     public DefaultParser(final boolean allowPartialMatching )

@@ -1,5 +1,0 @@
-46,47c46
-<      * @param option the option to add to this group
-<      * @return this option group with the option added
----
->      * @param option the option to add to this group     * @return this option group with the option added

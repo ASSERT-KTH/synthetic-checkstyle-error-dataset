@@ -1,4 +1,0 @@
-520c520
-<     public String getValue()
----
->     public 	String getValue()

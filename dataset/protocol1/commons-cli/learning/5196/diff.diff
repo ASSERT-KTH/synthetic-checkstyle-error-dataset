@@ -1,4 +1,0 @@
-77c77
-<         return hasOption(resolveOption(opt));
----
->         return hasOption(resolveOption(opt ));

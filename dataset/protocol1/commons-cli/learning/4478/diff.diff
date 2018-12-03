@@ -1,5 +1,0 @@
-111,112c111
-<       * @param classname the argument value
-<       * @return the initialised object
----
->       * @param classname the argument value      * @return the initialised object

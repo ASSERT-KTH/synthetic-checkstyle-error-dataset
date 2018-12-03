@@ -1,4 +1,0 @@
-157c157
-<         for (final OptionGroup group : options.getOptionGroups())
----
->         for (final OptionGroup group 	: options.getOptionGroups())

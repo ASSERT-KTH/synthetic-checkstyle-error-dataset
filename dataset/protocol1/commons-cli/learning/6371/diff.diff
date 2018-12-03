@@ -1,5 +1,0 @@
-421c421,422
-<         printHelp(getWidth(), cmdLineSyntax, null, options, null, autoUsage);
----
->         printHelp(getWidth(), cmdLineSyntax, null, options, null, autoUsage)
-> ;

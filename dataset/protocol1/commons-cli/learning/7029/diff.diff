@@ -1,5 +1,0 @@
-181,182c181
-<     private void gobble(final Iterator<String> iter)
-<     {
----
->     private void gobble(final Iterator<String> iter)    {

@@ -1,4 +1,0 @@
-127c127
-<         final String res = getOptionValue(option);
----
->         final String res = 	getOptionValue(option);

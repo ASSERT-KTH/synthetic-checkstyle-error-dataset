@@ -1,4 +1,0 @@
-151c151
-<                     final List<String> matchingOpts = options.getMatchingOptions(token);
----
->                     final List<String> matchingOpts = options.getMatchingOptions( token);

@@ -1,4 +1,0 @@
-274c274
-<                 if (currentOption.hasArg() && token.length() != i + 1)
----
->                 if (currentOption.hasArg() && 	token.length() != i + 1)

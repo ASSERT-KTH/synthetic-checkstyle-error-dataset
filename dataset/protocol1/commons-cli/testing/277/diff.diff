@@ -1,5 +1,0 @@
-168,169c168
-<      * @param longOpt Long multi-character name of the option.
-<      * @param hasArg flag signalling if an argument is required after this option
----
->      * @param longOpt Long multi-character name of the option.     * @param hasArg flag signalling if an argument is required after this option

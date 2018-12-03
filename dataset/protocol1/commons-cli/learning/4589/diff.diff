@@ -1,4 +1,0 @@
-40c40
-< public class Option implements Cloneable, Serializable
----
-> public class Option implements Cloneable, 	Serializable

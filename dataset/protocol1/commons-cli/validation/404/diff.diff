@@ -1,5 +1,0 @@
-68,69c68
-<     /** Class class */
-<     public static final Class<?> CLASS_VALUE = Class.class;
----
->     /** Class class */    public static final Class<?> CLASS_VALUE = Class.class;

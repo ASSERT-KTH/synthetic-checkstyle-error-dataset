@@ -1,4 +1,0 @@
-379c379
-<         final String t = pos == -1 ? token : token.substring(0, pos);
----
->         final String t = pos == -1 ? 	token : token.substring(0, pos);

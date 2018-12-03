@@ -1,4 +1,0 @@
-638c638
-<             if (options.hasLongOption(prefix))
----
->             if (options.hasLongOption(prefix ))

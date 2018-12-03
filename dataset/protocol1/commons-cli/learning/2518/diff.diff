@@ -1,5 +1,0 @@
-41,42c41
-<      * @param option          the partial option name
-<      * @param matchingOptions the options matching the name
----
->      * @param option          the partial option name     * @param matchingOptions the options matching the name

@@ -1,4 +1,0 @@
-138c138
-<                         tokens.add(token.substring(pos + 1));
----
->                         tokens.add(token.substring(pos + 1) );

@@ -1,4 +1,0 @@
-202c202
-<                 throw new UnrecognizedOptionException("Default option wasn't defined", option);
----
->                 throw new UnrecognizedOptionException("Default option wasn't defined", option );

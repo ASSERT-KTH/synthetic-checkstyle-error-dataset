@@ -1,4 +1,0 @@
-804c804
-<         private boolean required;
----
->         private 	boolean required;

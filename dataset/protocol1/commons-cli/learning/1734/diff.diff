@@ -1,4 +1,0 @@
-249c249
-<         return getOptionValues(resolveOption(opt));
----
->         return getOptionValues(resolveOption(opt ));

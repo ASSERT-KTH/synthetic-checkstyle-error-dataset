@@ -1,4 +1,0 @@
-87c87
-<         return parse(options, arguments, null, false);
----
->         return parse(options, arguments, null, false );

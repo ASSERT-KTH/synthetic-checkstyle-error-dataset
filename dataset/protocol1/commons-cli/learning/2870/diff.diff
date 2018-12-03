@@ -1,5 +1,0 @@
-553,554c553
-<             if (options.hasShortOption(t))
-<             {
----
->             if (options.hasShortOption(t))            {

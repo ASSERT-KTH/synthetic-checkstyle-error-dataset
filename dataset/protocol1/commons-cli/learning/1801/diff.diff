@@ -1,5 +1,0 @@
-339c339,340
-<         this.argName = argName;
----
->         this.argName = argName
-> ;

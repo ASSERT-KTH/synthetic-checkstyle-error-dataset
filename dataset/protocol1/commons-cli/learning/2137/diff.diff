@@ -1,4 +1,0 @@
-89c89
-<         this.description = builder.description;
----
->         this.description = builder.description ;

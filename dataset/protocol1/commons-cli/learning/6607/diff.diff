@@ -1,4 +1,0 @@
-482c482
-<                 value = value.substring(index + 1);
----
->                 value = value.substring(index + 1) ;

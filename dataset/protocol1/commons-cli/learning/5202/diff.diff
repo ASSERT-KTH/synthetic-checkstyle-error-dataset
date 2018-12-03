@@ -1,5 +1,0 @@
-791,792c791
-<         /** the name of the option */
-<         private final String opt;
----
->         /** the name of the option */        private final String opt;

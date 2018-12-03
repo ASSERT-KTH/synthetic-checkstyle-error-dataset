@@ -1,5 +1,0 @@
-55,56c55
-<     protected List getRequiredOptions()
-<     {
----
->     protected List getRequiredOptions()    {

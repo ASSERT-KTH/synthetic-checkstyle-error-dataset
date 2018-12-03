@@ -1,5 +1,0 @@
-298,299c298
-<      * @param opt short or long name of the {@link Option}
-<      * @return true if the named {@link Option} is a member of this {@link Options}
----
->      * @param opt short or long name of the {@link Option}     * @return true if the named {@link Option} is a member of this {@link Options}

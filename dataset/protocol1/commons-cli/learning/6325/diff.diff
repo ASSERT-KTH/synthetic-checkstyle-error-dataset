@@ -1,4 +1,0 @@
-470c470
-<     protected void addOption(final Option opt)
----
->     protected void addOption(final 	Option opt)

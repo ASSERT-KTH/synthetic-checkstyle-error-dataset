@@ -1,4 +1,0 @@
-316c316
-<         return getOptionValue(resolveOption(opt), defaultValue);
----
->         return 	getOptionValue(resolveOption(opt), defaultValue);

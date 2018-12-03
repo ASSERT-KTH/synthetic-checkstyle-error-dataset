@@ -1,5 +1,0 @@
-281,282c281
-<                     if (opt.getValues() == null || opt.getValues().length == 0)
-<                     {
----
->                     if (opt.getValues() == null || opt.getValues().length == 0)                    {

@@ -1,4 +1,0 @@
-72c72
-<         final Iterator<String> it = matchingOptions.iterator();
----
->         final Iterator<	String> it = matchingOptions.iterator();

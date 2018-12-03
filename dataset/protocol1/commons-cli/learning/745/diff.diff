@@ -1,5 +1,0 @@
-24,25c24
-<  */
-< public interface CommandLineParser
----
->  */public interface CommandLineParser

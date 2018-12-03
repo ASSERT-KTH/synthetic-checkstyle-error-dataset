@@ -1,4 +1,0 @@
-434c434
-<     public void printHelp(final String cmdLineSyntax, final String header, final Options options, final String footer)
----
->     	public void printHelp(final String cmdLineSyntax, final String header, final Options options, final String footer)

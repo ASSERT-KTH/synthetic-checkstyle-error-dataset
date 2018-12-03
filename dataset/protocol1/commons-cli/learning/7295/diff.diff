@@ -1,5 +1,0 @@
-143,144c143
-<      * @return the number represented by <code>str</code>
-<      * @throws ParseException if <code>str</code> is not a number
----
->      * @return the number represented by <code>str</code>     * @throws ParseException if <code>str</code> is not a number

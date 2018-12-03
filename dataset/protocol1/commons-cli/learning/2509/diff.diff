@@ -1,4 +1,0 @@
-147c147
-<         this.longOpt = longOpt;
----
->         this.longOpt = 	longOpt;

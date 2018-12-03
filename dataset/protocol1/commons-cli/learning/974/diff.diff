@@ -1,4 +1,0 @@
-620c620
-<                 appendOption(buff, option, option.isRequired());
----
->                 appendOption(buff, option , option.isRequired());

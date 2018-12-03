@@ -1,4 +1,0 @@
-682c682
-<             final Option option = (Option) super.clone();
----
->             final Option option = (Option) super.clone	();

@@ -1,5 +1,0 @@
-314c314,315
-<     public String getOptionValue(final String opt, final String defaultValue)
----
->     public String getOptionValue(final String opt
-> , final String defaultValue)

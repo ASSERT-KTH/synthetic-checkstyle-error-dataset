@@ -1,4 +1,0 @@
-459c459
-<             throw new AmbiguousOptionException(token, matchingOpts);
----
->             	throw new AmbiguousOptionException(token, matchingOpts);

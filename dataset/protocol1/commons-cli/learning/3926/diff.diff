@@ -1,4 +1,0 @@
-45c45
-<             @SuppressWarnings("unused") final boolean stopAtNonOption)
----
->             @SuppressWarnings("unused") final boolean stopAtNonOption )

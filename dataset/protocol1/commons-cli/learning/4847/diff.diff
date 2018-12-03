@@ -1,5 +1,0 @@
-103,104c103
-<         // process each command line token
-<         while (iter.hasNext())
----
->         // process each command line token        while (iter.hasNext())

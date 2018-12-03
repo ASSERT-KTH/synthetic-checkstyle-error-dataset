@@ -1,5 +1,0 @@
-215,216c215
-<      *
-<      * @return read-only Collection of {@link Option} objects in this descriptor
----
->      *     * @return read-only Collection of {@link Option} objects in this descriptor

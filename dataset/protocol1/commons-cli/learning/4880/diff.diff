@@ -1,4 +1,0 @@
-396c396
-<                     props.put(values.get(0), values.get(1));
----
->                     props.put(values.get(0), 	values.get(1));

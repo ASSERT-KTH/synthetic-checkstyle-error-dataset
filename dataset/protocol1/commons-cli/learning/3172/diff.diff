@@ -1,4 +1,0 @@
-95c95
-<         this.type = builder.type;
----
->         this.type = builder.type ;

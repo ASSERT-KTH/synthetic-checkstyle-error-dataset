@@ -1,4 +1,0 @@
-189c189
-<                 if (stopAtNonOption)
----
->                 if ( stopAtNonOption)

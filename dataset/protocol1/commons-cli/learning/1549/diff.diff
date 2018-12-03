@@ -1,5 +1,0 @@
-908c908,909
-<         final String padding = createPadding(nextLineTabStop);
----
->         final String padding = createPadding(nextLineTabStop)
-> ;

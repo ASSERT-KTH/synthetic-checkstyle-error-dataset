@@ -1,4 +1,0 @@
-591c591
-<             final String value = t.substring(pos + 1);
----
->             	final String value = t.substring(pos + 1);

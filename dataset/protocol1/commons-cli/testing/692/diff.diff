@@ -1,4 +1,0 @@
-319c319
-<         return longOpts.containsKey(opt);
----
->         return longOpts	.containsKey(opt);

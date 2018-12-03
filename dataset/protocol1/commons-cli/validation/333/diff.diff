@@ -1,5 +1,0 @@
-18c18,19
-< package org.apache.commons.cli;
----
-> package org.apache.commons.cli
-> ;

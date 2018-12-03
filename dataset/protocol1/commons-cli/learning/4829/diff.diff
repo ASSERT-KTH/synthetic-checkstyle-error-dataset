@@ -1,4 +1,0 @@
-482c482
-<         final String value = token.substring(pos + 1);
----
->         	final String value = token.substring(pos + 1);

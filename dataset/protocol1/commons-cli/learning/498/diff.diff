@@ -1,5 +1,0 @@
-118c118,119
-<                 final int pos = token.indexOf('=');
----
->                 final int pos = token.indexOf('=')
-> ;

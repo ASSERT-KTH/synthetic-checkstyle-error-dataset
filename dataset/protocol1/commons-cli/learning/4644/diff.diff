@@ -1,5 +1,0 @@
-529,530c529
-<      * to each line
-<      * @param descPad the number of characters of padding to be prefixed
----
->      * to each line     * @param descPad the number of characters of padding to be prefixed

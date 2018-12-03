@@ -1,5 +1,0 @@
-294,295c294
-<      * is not specified.
-<      * @return Value of the argument if option is set, and has an argument,
----
->      * is not specified.     * @return Value of the argument if option is set, and has an argument,

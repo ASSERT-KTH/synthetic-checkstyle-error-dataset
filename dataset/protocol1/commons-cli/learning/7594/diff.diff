@@ -1,5 +1,0 @@
-293,294c293
-<     public void setOptPrefix(final String prefix)
-<     {
----
->     public void setOptPrefix(final String prefix)    {

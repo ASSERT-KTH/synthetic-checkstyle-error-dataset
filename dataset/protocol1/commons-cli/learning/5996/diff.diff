@@ -1,4 +1,0 @@
-910c910
-<             this.required = required;
----
->             this.required = 	required;

@@ -1,5 +1,0 @@
-507,508c507
-<      */
-<     public static final class Builder
----
->      */    public static final class Builder

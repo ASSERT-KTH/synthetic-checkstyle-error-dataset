@@ -1,4 +1,0 @@
-100c100
-<             return (T) createURL(str);
----
->             	return (T) createURL(str);

@@ -1,5 +1,0 @@
-35c35,36
-<         if (str == null)
----
->         if (str == 
-> null)

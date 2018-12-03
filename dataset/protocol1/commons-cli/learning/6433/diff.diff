@@ -1,4 +1,0 @@
-299c299
-<     public String getOptionValue(final Option option, final String defaultValue)
----
->     public String getOptionValue(final Option option,final String defaultValue)

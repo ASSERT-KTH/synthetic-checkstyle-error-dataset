@@ -1,5 +1,0 @@
-60,61c60
-<      * the value of <code>str</code>.
-<      * @throws ParseException if the value creation for the given class failed
----
->      * the value of <code>str</code>.     * @throws ParseException if the value creation for the given class failed

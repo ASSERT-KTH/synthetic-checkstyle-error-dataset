@@ -1,5 +1,0 @@
-311,312c311
-<      * @param opt long name of the {@link Option}
-<      * @return true if the named {@link Option} is a member of this {@link Options}
----
->      * @param opt long name of the {@link Option}     * @return true if the named {@link Option} is a member of this {@link Options}

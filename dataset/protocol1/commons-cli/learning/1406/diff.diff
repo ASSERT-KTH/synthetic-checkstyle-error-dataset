@@ -1,5 +1,0 @@
-332,333c332
-<      * 
-<      * @param longOptSeparator the separator, typically ' ' or '='.
----
->      *      * @param longOptSeparator the separator, typically ' ' or '='.

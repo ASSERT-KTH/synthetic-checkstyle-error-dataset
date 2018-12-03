@@ -1,4 +1,0 @@
-76c76
-<     public static final Class<FileInputStream> EXISTING_FILE_VALUE = FileInputStream.class;
----
->     public static final Class<FileInputStream> 	EXISTING_FILE_VALUE = FileInputStream.class;

@@ -1,4 +1,0 @@
-891c891
-<         int pos = findWrapPos(text, width, 0);
----
->         int pos = findWrapPos(text, width, 	0);

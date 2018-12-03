@@ -1,4 +1,0 @@
-423c423
-<                 getRequiredOptions().remove(group);
----
->                 getRequiredOptions()	.remove(group);

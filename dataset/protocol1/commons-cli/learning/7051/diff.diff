@@ -1,5 +1,0 @@
-63,64c63
-<         // handle the multi character opt
-<         else
----
->         // handle the multi character opt        else

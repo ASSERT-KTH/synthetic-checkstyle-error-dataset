@@ -1,5 +1,0 @@
-68,69c68
-<         if (group.isRequired())
-<         {
----
->         if (group.isRequired())        {

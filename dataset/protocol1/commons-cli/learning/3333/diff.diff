@@ -1,5 +1,0 @@
-34,35c34
-<     /** holder for flattened tokens */
-<     private final List<String> tokens = new ArrayList<String>();
----
->     /** holder for flattened tokens */    private final List<String> tokens = new ArrayList<String>();

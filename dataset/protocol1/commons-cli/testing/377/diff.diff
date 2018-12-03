@@ -1,5 +1,0 @@
-185,186c185
-<      * @param opt the option that is to be added
-<      * @return the resulting Options instance
----
->      * @param opt the option that is to be added     * @return the resulting Options instance

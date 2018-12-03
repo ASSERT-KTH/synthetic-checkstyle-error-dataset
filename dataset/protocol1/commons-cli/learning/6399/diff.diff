@@ -1,5 +1,0 @@
-155,156c155
-<         }
-<         catch (final NumberFormatException e)
----
->         }        catch (final NumberFormatException e)

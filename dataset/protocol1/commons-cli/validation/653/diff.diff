@@ -1,4 +1,0 @@
-108c108
-<                 return PatternOptionBuilder.EXISTING_FILE_VALUE;
----
->                 return 	PatternOptionBuilder.EXISTING_FILE_VALUE;

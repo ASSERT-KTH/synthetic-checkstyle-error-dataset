@@ -1,4 +1,0 @@
-174c174
-<     public Options addRequiredOption(final String opt, final String longOpt, final boolean hasArg, final String description)
----
->     public Options addRequiredOption(final String opt, final String longOpt, final 	boolean hasArg, final String description)

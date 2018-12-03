@@ -1,5 +1,0 @@
-79c79,80
-<     private char valuesep;
----
->     private char valuesep
-> ;

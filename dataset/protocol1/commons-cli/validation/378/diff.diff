@@ -1,5 +1,0 @@
-53,54c53
-<  */
-< public class PatternOptionBuilder
----
->  */public class PatternOptionBuilder

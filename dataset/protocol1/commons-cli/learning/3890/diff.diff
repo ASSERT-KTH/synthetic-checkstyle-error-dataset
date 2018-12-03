@@ -1,4 +1,0 @@
-438c438
-<     void addValueForProcessing(final String value)
----
->     void addValueForProcessing(final String 	value)

@@ -1,5 +1,0 @@
-159,160c159
-<                 // requires bursting
-<                 else
----
->                 // requires bursting                else

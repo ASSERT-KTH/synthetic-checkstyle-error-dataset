@@ -1,5 +1,0 @@
-46,47c46
-<     /** the processed options */
-<     private final List<Option> options = new ArrayList<Option>();
----
->     /** the processed options */    private final List<Option> options = new ArrayList<Option>();

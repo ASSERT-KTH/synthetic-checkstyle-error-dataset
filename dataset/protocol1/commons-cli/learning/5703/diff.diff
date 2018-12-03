@@ -1,5 +1,0 @@
-572,573c572
-<                 }
-<                 else if (isJavaProperty(t))
----
->                 }                else if (isJavaProperty(t))

@@ -1,4 +1,0 @@
-98c98
-<                 return PatternOptionBuilder.OBJECT_VALUE;
----
->                 return PatternOptionBuilder	.OBJECT_VALUE;

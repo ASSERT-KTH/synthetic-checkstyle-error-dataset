@@ -1,4 +1,0 @@
-171c171
-<         final List<String> tokenList = Arrays.asList(flatten(getOptions(), arguments, stopAtNonOption));
----
->         final List<String> tokenList = Arrays.asList(flatten(getOptions(), arguments , stopAtNonOption));

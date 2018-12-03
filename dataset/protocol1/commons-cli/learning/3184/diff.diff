@@ -1,4 +1,0 @@
-47c47
-<         if (opt == null)
----
->         if (opt == null )

@@ -1,4 +1,0 @@
-49c49
-<     public OptionGroup addOption(final Option option)
----
->     public OptionGroup addOption( final Option option)

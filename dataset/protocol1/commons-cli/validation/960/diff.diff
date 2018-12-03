@@ -1,4 +1,0 @@
-110c110
-<                 return PatternOptionBuilder.FILE_VALUE;
----
->                 	return PatternOptionBuilder.FILE_VALUE;

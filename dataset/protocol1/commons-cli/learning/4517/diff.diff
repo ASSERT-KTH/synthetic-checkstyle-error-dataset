@@ -1,5 +1,0 @@
-567,568c567
-<                 if (opt != null && options.getOption(opt).acceptsArg())
-<                 {
----
->                 if (opt != null && options.getOption(opt).acceptsArg())                {

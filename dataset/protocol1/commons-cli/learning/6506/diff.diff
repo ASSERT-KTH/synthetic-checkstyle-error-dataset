@@ -1,4 +1,0 @@
-91c91
-<     public static final String DEFAULT_LONG_OPT_PREFIX = "--";
----
->     public static 	final String DEFAULT_LONG_OPT_PREFIX = "--";

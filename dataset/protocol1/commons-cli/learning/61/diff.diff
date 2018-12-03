@@ -1,4 +1,0 @@
-688c688
-<             throw new RuntimeException("A CloneNotSupportedException was thrown: " + cnse.getMessage());
----
->             throw new RuntimeException	("A CloneNotSupportedException was thrown: " + cnse.getMessage());

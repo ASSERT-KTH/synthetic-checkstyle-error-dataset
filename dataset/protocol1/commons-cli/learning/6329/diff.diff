@@ -1,5 +1,0 @@
-280,281c280
-<      *
-<      * @return the 'newLine'
----
->      *     * @return the 'newLine'

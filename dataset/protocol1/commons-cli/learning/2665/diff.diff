@@ -1,5 +1,0 @@
-321,322c321
-<      *
-<      * @param opt character name of the option
----
->      *     * @param opt character name of the option

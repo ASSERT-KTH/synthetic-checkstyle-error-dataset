@@ -1,4 +1,0 @@
-854c854
-<                 optBuf.append(createPadding(max - optBuf.length()));
----
->                 optBuf.append( createPadding(max - optBuf.length()));

@@ -1,4 +1,0 @@
-283c283
-<                 processNonOptionToken(token.substring(i), true);
----
->                 processNonOptionToken(token.substring(i), true );

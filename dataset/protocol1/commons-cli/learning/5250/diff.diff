@@ -1,4 +1,0 @@
-205c205
-<         return defaultWidth;
----
->         return defaultWidth ;

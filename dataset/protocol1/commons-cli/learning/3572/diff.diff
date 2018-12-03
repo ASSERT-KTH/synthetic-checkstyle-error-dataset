@@ -1,4 +1,0 @@
-148c148
-<         for (final Option opt : options.helpOptions())
----
->         for (final Option opt : options. helpOptions())

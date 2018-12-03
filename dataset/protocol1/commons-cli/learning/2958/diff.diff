@@ -1,5 +1,0 @@
-610c610,611
-<                     appendOptionGroup(buff, group);
----
->                     appendOptionGroup(buff
-> , group);

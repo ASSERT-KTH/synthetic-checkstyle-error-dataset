@@ -1,5 +1,0 @@
-31,32c31
-<      * @param arguments the command line arguments
-<      * @return the list of atomic option and value tokens
----
->      * @param arguments the command line arguments     * @return the list of atomic option and value tokens

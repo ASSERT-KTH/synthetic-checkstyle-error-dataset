@@ -1,4 +1,0 @@
-156c156
-<                     final Option opt = options.getOption(matchingOpts.get(0));
----
->                     final Option opt = options.getOption(matchingOpts.get	(0));

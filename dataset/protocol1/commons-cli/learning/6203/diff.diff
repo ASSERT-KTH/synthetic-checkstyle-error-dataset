@@ -1,5 +1,0 @@
-66c66,67
-<             for (final char ch : opt.toCharArray())
----
->             for (final char ch : 
-> opt.toCharArray())

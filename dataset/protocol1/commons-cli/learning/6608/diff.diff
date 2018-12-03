@@ -1,5 +1,0 @@
-23,24c23
-<  */
-< public class MissingArgumentException extends ParseException
----
->  */public class MissingArgumentException extends ParseException

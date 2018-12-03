@@ -1,5 +1,0 @@
-83,84c83
-<      * @param opt character name of the option.
-<      * @return true if set, false if not.
----
->      * @param opt character name of the option.     * @return true if set, false if not.

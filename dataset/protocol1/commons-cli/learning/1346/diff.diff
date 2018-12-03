@@ -1,5 +1,0 @@
-126,127c126
-<                 }
-<                 else if (matchingOpts.size() > 1)
----
->                 }                else if (matchingOpts.size() > 1)

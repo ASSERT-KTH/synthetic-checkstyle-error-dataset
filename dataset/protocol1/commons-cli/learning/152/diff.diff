@@ -1,5 +1,0 @@
-647,648c647
-<         }
-<         if (longOpt != null ? !longOpt.equals(option.longOpt) : option.longOpt != null)
----
->         }        if (longOpt != null ? !longOpt.equals(option.longOpt) : option.longOpt != null)

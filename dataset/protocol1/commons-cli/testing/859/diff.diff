@@ -1,4 +1,0 @@
-92c92
-<     Collection<OptionGroup> getOptionGroups()
----
->     	Collection<OptionGroup> getOptionGroups()

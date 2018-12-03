@@ -1,5 +1,0 @@
-112,113c112
-<       * @return the initialised object
-<       * @throws ParseException if the class could not be found or the object could not be created
----
->       * @return the initialised object      * @throws ParseException if the class could not be found or the object could not be created

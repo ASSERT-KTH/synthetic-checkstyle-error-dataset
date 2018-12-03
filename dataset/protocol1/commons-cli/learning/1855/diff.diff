@@ -1,5 +1,0 @@
-605,606c605
-<                     handleUnknownToken(token);
-<                 }
----
->                     handleUnknownToken(token);                }

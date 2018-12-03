@@ -1,5 +1,0 @@
-252,253c252
-<      * @param str the paths to the files
-<      * @return The File[] represented by <code>str</code>.
----
->      * @param str the paths to the files     * @return The File[] represented by <code>str</code>.

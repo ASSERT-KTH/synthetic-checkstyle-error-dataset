@@ -1,5 +1,0 @@
-183,184c183
-<     public String getOptionValue(final Option option)
-<     {
----
->     public String getOptionValue(final Option option)    {

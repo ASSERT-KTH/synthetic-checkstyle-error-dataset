@@ -1,4 +1,0 @@
-130c130
-<             return cl.newInstance();
----
->             return cl.newInstance() ;

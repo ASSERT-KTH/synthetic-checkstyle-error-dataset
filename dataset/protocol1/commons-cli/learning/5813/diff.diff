@@ -1,5 +1,0 @@
-34,35c34
-<     /** The option that triggered the exception. */
-<     private Option option;
----
->     /** The option that triggered the exception. */    private Option option;

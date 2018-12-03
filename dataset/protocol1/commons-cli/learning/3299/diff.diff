@@ -1,4 +1,0 @@
-592c592
-<         if (longOpt != null)
----
->         	if (longOpt != null)

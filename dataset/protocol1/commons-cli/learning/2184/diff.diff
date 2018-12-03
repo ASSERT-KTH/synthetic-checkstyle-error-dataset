@@ -1,4 +1,0 @@
-222c222
-<     private void processOptionToken(final String token, final boolean stopAtNonOption)
----
->     private void processOptionToken( final String token, final boolean stopAtNonOption)

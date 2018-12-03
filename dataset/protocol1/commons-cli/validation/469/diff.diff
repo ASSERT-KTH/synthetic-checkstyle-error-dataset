@@ -1,5 +1,0 @@
-65,66c65
-<     /** Date class */
-<     public static final Class<Date> DATE_VALUE = Date.class;
----
->     /** Date class */    public static final Class<Date> DATE_VALUE = Date.class;

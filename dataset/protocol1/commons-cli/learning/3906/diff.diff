@@ -1,4 +1,0 @@
-354c354
-<                 final List<String> values = processedOption.getValuesList();
----
->                 	final List<String> values = processedOption.getValuesList();

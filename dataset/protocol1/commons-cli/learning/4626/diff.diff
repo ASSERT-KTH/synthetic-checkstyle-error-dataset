@@ -1,5 +1,0 @@
-166,167c166
-<      * @deprecated due to System.err message. Instead use getParsedOptionValue(char)
-<      * @param opt the name of the option.
----
->      * @deprecated due to System.err message. Instead use getParsedOptionValue(char)     * @param opt the name of the option.

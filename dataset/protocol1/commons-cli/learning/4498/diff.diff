@@ -1,4 +1,0 @@
-594c594
-<             final Option option = it.next();
----
->             final Option option = it. next();

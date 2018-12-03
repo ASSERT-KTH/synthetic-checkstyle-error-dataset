@@ -1,4 +1,0 @@
-489c489
-<             handleUnknownToken(currentToken);
----
->             	handleUnknownToken(currentToken);

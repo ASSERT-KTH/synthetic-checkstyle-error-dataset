@@ -1,4 +1,0 @@
-47c47
-<     private final List<Option> options = new ArrayList<Option>();
----
->     private final List<Option> options 	= new ArrayList<Option>();

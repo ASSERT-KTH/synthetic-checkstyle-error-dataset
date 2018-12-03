@@ -1,5 +1,0 @@
-212,213c212
-<     public String getOptionValue(final char opt)
-<     {
----
->     public String getOptionValue(final char opt)    {

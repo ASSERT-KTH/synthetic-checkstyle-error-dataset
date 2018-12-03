@@ -1,4 +1,0 @@
-534c534
-<         final String t = Util.stripLeadingHyphens(token);
----
->         final 	String t = Util.stripLeadingHyphens(token);

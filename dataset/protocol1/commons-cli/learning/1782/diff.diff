@@ -1,5 +1,0 @@
-201,202c201
-<         if (stopAtNonOption && (currentOption == null || !currentOption.hasArg()))
-<         {
----
->         if (stopAtNonOption && (currentOption == null || !currentOption.hasArg()))        {

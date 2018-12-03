@@ -1,5 +1,0 @@
-820,821c820
-<                 if (option.hasLongOpt())
-<                 {
----
->                 if (option.hasLongOpt())                {

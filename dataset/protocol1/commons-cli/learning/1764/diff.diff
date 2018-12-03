@@ -1,4 +1,0 @@
-339c339
-<             final String str = iter.next();
----
->             final String 	str = iter.next();

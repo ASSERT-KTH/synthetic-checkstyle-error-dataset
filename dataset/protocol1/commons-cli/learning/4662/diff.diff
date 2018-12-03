@@ -1,4 +1,0 @@
-378c378
-<         final int pos = token.indexOf("=");
----
->         final int pos = token. indexOf("=");

@@ -1,4 +1,0 @@
-266c266
-<     public boolean hasOptionalArg()
----
->     public 	boolean hasOptionalArg()

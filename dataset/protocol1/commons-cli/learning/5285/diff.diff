@@ -1,5 +1,0 @@
-157,158c157
-<                     processOptionToken("-" + opt.getLongOpt(), stopAtNonOption);
-<                 }
----
->                     processOptionToken("-" + opt.getLongOpt(), stopAtNonOption);                }

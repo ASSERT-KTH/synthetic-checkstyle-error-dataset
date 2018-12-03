@@ -1,4 +1,0 @@
-594c594
-<             buf.append(" ").append(longOpt);
----
->             buf	.append(" ").append(longOpt);

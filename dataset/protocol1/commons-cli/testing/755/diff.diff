@@ -1,5 +1,0 @@
-139,140c139
-<      *
-<      * @param opt Short single-character name of the option.
----
->      *     * @param opt Short single-character name of the option.

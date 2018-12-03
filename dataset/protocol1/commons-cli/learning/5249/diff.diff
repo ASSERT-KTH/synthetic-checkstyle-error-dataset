@@ -1,5 +1,0 @@
-717,718c717
-<             return options.getMatchingOptions(token);
-<         }
----
->             return options.getMatchingOptions(token);        }

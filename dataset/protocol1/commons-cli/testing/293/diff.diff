@@ -1,5 +1,0 @@
-109,110c109
-<     public Options addOption(final String opt, final String description)
-<     {
----
->     public Options addOption(final String opt, final String description)    {

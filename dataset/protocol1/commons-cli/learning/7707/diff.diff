@@ -1,4 +1,0 @@
-537c537
-<     public String getValue(final int index) throws IndexOutOfBoundsException
----
->     public String getValue( final int index) throws IndexOutOfBoundsException

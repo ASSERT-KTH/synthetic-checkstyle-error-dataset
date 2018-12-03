@@ -1,4 +1,0 @@
-363c363
-<         return buf.toString();
----
->         return buf.toString	();

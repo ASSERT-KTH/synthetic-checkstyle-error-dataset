@@ -1,4 +1,0 @@
-52c52
-<     public MissingArgumentException(final Option option)
----
->     public MissingArgumentException(final Option 	option)

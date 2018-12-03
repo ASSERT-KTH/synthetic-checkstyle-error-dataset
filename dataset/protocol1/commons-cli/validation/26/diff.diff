@@ -1,4 +1,0 @@
-60c60
-<     public static final Class<Object> OBJECT_VALUE = Object.class;
----
->     public static final Class<	Object> OBJECT_VALUE = Object.class;

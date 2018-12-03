@@ -1,5 +1,0 @@
-870c870,871
-<                 sb.append(getNewLine());
----
->                 sb.append(getNewLine())
-> ;

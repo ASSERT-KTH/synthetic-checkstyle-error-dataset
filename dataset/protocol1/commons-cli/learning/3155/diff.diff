@@ -1,5 +1,0 @@
-77,78c77
-<      *
-<      * @return the related option
----
->      *     * @return the related option

@@ -1,5 +1,0 @@
-62,63c62
-<     /** Number class */
-<     public static final Class<Number> NUMBER_VALUE = Number.class;
----
->     /** Number class */    public static final Class<Number> NUMBER_VALUE = Number.class;

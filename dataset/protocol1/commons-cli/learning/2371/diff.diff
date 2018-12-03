@@ -1,4 +1,0 @@
-822c822
-<                     optBuf.append(',').append(getLongOptPrefix()).append(option.getLongOpt());
----
->                     optBuf.append(',' ).append(getLongOptPrefix()).append(option.getLongOpt());

@@ -1,4 +1,0 @@
-287c287
-<             handleLongOption(token);
----
->             handleLongOption( token);

@@ -1,5 +1,0 @@
-586,587c586
-<         if (getOptionComparator() != null)
-<         {
----
->         if (getOptionComparator() != null)        {

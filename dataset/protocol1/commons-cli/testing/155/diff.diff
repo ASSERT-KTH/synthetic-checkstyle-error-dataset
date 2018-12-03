@@ -1,4 +1,0 @@
-54c54
-<         boolean eatTheRest = false;
----
->         	boolean eatTheRest = false;

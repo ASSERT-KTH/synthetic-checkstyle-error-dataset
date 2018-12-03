@@ -1,4 +1,0 @@
-309c309
-<     private boolean isArgument(final String token)
----
->     private 	boolean isArgument(final String token)

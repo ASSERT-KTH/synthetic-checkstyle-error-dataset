@@ -1,5 +1,0 @@
-64c64,65
-<     private boolean required;
----
->     private boolean required
-> ;

@@ -1,5 +1,0 @@
-98,99c98
-<             selected = option.getKey();
-<         }
----
->             selected = option.getKey();        }

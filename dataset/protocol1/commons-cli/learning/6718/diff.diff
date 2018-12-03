@@ -1,5 +1,0 @@
-237,238c237
-<     public String getLongOpt()
-<     {
----
->     public String getLongOpt()    {

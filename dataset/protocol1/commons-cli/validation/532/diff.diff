@@ -1,5 +1,0 @@
-59,60c59
-<     /** Object class */
-<     public static final Class<Object> OBJECT_VALUE = Object.class;
----
->     /** Object class */    public static final Class<Object> OBJECT_VALUE = Object.class;

@@ -1,5 +1,0 @@
-309c309,310
-<         this.description = description;
----
->         this.description = description
-> ;

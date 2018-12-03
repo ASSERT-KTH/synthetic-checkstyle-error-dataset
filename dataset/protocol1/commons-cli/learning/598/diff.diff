@@ -1,5 +1,0 @@
-406,407c406
-<         if (token.startsWith("-") && token.length() > 1 && !stopAtNonOption)
-<         {
----
->         if (token.startsWith("-") && token.length() > 1 && !stopAtNonOption)        {

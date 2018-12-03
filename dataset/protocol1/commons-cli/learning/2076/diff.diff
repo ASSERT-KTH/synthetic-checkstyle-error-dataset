@@ -1,5 +1,0 @@
-1046,1047c1046
-<     protected String rtrim(final String s)
-<     {
----
->     protected String rtrim(final String s)    {

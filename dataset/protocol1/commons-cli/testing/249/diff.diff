@@ -1,4 +1,0 @@
-193c193
-<         if (opt.hasLongOpt())
----
->         if (opt	.hasLongOpt())

@@ -1,5 +1,0 @@
-40,41c40
-<     /** specified whether this group is required */
-<     private boolean required;
----
->     /** specified whether this group is required */    private boolean required;

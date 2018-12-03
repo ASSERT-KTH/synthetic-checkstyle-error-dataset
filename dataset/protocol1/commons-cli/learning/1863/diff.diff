@@ -1,4 +1,0 @@
-232c232
-<                     if (!"--".equals(str))
----
->                     if (!"--".equals	(str))

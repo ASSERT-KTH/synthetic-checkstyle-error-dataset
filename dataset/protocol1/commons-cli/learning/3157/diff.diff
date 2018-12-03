@@ -1,4 +1,0 @@
-357c357
-<     public void setArgName(final String name)
----
->     public void setArgName(final String name )

@@ -1,5 +1,0 @@
-38,39c38
-<     /** current Options */
-<     private Options options;
----
->     /** current Options */    private Options options;

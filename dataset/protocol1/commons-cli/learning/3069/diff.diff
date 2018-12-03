@@ -1,5 +1,0 @@
-122c122,123
-<         return parse(options, arguments, null, stopAtNonOption);
----
->         return parse(options
-> , arguments, null, stopAtNonOption);

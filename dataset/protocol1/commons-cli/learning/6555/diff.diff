@@ -1,4 +1,0 @@
-259c259
-<             throw new MissingArgumentException(currentOption);
----
->             throw 	new MissingArgumentException(currentOption);

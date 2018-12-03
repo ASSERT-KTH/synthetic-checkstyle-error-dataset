@@ -1,4 +1,0 @@
-192c192
-<             final Option option = Option.builder(String.valueOf(opt))
----
->             final Option option = Option.builder(String. valueOf(opt))

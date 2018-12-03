@@ -1,4 +1,0 @@
-375c375
-<     protected void processOption(final String arg, final ListIterator<String> iter) throws ParseException
----
->     protected void processOption(final String arg, final ListIterator<String> iter) 	throws ParseException

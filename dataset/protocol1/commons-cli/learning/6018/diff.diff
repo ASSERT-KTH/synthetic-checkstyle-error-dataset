@@ -1,4 +1,0 @@
-661c661
-<         result = 31 * result + (longOpt != null ? longOpt.hashCode() : 0);
----
->         result = 31 * result + (longOpt != null ? longOpt.hashCode() : 0) ;

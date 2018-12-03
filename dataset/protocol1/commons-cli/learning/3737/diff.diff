@@ -1,4 +1,0 @@
-86c86
-<         else if (PatternOptionBuilder.FILE_VALUE == clazz)
----
->         else if (PatternOptionBuilder.FILE_VALUE ==clazz)

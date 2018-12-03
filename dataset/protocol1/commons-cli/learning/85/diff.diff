@@ -1,4 +1,0 @@
-933c933
-<             return valueSeparator('=');
----
->             return valueSeparator( '=');

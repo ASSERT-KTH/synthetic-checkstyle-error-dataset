@@ -1,4 +1,0 @@
-992c992
-<         if (pos != -1 && pos <= width)
----
->         if (pos != -1 && pos <= width )

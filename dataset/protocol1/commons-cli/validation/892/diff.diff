@@ -1,4 +1,0 @@
-161c161
-<             if (!isValueCode(ch))
----
->             if (!isValueCode( ch))

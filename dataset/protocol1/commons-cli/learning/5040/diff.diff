@@ -1,4 +1,0 @@
-81c81
-<      * @throws AlreadySelectedException if an option from this group has 
----
->      * @throwsAlreadySelectedException if an option from this group has 

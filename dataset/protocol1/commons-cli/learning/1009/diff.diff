@@ -1,4 +1,0 @@
-388c388
-<     public void setValueSeparator(final char sep)
----
->     public void setValueSeparator(final char sep )

@@ -1,5 +1,0 @@
-199,200c199
-<     private void processNonOptionToken(final String value, final boolean stopAtNonOption)
-<     {
----
->     private void processNonOptionToken(final String value, final boolean stopAtNonOption)    {

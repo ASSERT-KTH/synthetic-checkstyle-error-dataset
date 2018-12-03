@@ -1,4 +1,0 @@
-767c767
-<                 handleOption(options.getOption(ch));
----
->                 handleOption( options.getOption(ch));

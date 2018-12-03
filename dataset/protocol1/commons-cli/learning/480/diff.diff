@@ -1,4 +1,0 @@
-125c125
-<                     processNonOptionToken(token, stopAtNonOption);
----
->                     processNonOptionToken	(token, stopAtNonOption);

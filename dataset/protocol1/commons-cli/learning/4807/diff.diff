@@ -1,5 +1,0 @@
-149,150c149
-<                 else if (!options.getMatchingOptions(token).isEmpty())
-<                 {
----
->                 else if (!options.getMatchingOptions(token).isEmpty())                {

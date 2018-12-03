@@ -1,5 +1,0 @@
-60c60,61
-<         this.group = group;
----
->         this.group = group
-> ;

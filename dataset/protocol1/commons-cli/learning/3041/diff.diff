@@ -1,4 +1,0 @@
-151c151
-<         this.stopAtNonOption = stopAtNonOption;
----
->         this.stopAtNonOption 	= stopAtNonOption;

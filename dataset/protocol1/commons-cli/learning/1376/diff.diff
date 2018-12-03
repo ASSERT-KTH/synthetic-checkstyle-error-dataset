@@ -1,4 +1,0 @@
-283c283
-<             currentOption.addValueForProcessing(Util.stripLeadingAndTrailingQuotes(token));
----
->             currentOption.addValueForProcessing(Util. stripLeadingAndTrailingQuotes(token));

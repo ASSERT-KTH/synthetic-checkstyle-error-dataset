@@ -1,4 +1,0 @@
-234c234
-<     public static FileInputStream openFile(String str) throws ParseException
----
->     public static FileInputStream openFile( String str) throws ParseException

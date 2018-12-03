@@ -1,4 +1,0 @@
-70c70
-<     public OptionGroup getOptionGroup()
----
->     public OptionGroup getOptionGroup	()

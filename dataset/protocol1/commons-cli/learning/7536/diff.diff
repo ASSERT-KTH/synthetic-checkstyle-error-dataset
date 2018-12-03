@@ -1,5 +1,0 @@
-803,804c803
-<         /** specifies whether this option is required to be present */
-<         private boolean required;
----
->         /** specifies whether this option is required to be present */        private boolean required;

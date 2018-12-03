@@ -1,5 +1,0 @@
-270,271c270
-<                 return option;
-<             }
----
->                 return option;            }

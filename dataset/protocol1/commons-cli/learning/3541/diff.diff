@@ -1,5 +1,0 @@
-291,292c291
-<             handleShortAndLongOption(token);
-<         }
----
->             handleShortAndLongOption(token);        }

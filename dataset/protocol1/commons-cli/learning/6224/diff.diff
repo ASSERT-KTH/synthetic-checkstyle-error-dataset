@@ -1,5 +1,0 @@
-78,79c78
-<             if (it.hasNext())
-<             {
----
->             if (it.hasNext())            {

@@ -1,5 +1,0 @@
-80,81c80
-<             return (T) createDate(str);
-<         }
----
->             return (T) createDate(str);        }

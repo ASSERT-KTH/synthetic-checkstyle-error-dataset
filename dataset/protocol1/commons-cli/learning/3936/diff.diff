@@ -1,5 +1,0 @@
-761,762c761
-<      * @param width The number of characters to display per line
-<      * @param nextLineTabStop The position on the next line for the first tab.
----
->      * @param width The number of characters to display per line     * @param nextLineTabStop The position on the next line for the first tab.

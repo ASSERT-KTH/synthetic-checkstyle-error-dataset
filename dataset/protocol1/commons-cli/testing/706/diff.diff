@@ -1,4 +1,0 @@
-146c146
-<     public Options addOption(final String opt, final String longOpt, final boolean hasArg, final String description)
----
->     public Options addOption(final String opt, final String longOpt , final boolean hasArg, final String description)

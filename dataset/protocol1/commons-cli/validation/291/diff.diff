@@ -1,4 +1,0 @@
-57c57
-<     public static final Class<String> STRING_VALUE = String.class;
----
->     public static final Class<String> STRING_VALUE = String	.class;

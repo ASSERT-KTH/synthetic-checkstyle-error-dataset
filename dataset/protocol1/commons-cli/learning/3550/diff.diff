@@ -1,4 +1,0 @@
-563c563
-<         if (footer != null && footer.trim().length() > 0)
----
->         if (footer != null && 	footer.trim().length() > 0)

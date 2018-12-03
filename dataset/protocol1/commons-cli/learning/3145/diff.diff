@@ -1,4 +1,0 @@
-96c96
-<         return Character.isJavaIdentifierPart(c);
----
->         return Character	.isJavaIdentifierPart(c);

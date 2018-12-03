@@ -1,5 +1,0 @@
-220,221c220
-<      *
-<      * @return the 'leftPadding'
----
->      *     * @return the 'leftPadding'

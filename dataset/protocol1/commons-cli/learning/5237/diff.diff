@@ -1,4 +1,0 @@
-991c991
-<         pos = text.indexOf('\t', startPos);
----
->         pos = 	text.indexOf('\t', startPos);

@@ -1,5 +1,0 @@
-490c490,491
-<         printHelp(pw, width, cmdLineSyntax, header, options, getLeftPadding(), getDescPadding(), footer, autoUsage);
----
->         printHelp(pw, width, cmdLineSyntax, header, options, getLeftPadding()
-> , getDescPadding(), footer, autoUsage);

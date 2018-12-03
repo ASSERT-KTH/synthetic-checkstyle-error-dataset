@@ -1,4 +1,0 @@
-388c388
-<         for (final Option option : options)
----
->         for (final Option option 	: options)

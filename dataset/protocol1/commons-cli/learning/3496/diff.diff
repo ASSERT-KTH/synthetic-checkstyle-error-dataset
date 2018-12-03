@@ -1,5 +1,0 @@
-524,525c524
-<      * @param width the number of characters to be displayed on each line
-<      * @param cmdLineSyntax the syntax for this application
----
->      * @param width the number of characters to be displayed on each line     * @param cmdLineSyntax the syntax for this application

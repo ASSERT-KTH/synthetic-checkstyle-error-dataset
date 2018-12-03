@@ -1,4 +1,0 @@
-268c268
-<             if (opt.equals(option.getLongOpt()))
----
->             if (opt.equals(option.getLongOpt()) )

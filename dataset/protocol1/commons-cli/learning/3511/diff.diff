@@ -1,4 +1,0 @@
-70c70
-<         buf.append("'  (could be: ");
----
->         buf	.append("'  (could be: ");

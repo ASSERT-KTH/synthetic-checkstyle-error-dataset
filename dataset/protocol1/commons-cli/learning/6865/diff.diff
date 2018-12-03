@@ -1,5 +1,0 @@
-24,25c24
-<  */
-< final class OptionValidator
----
->  */final class OptionValidator

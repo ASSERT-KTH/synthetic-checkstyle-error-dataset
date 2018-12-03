@@ -1,4 +1,0 @@
-826c826
-<             if (option.hasArg())
----
->             if (option.hasArg	())

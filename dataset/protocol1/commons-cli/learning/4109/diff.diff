@@ -1,4 +1,0 @@
-86c86
-<     private Option(final Builder builder)
----
->     private Option(final 	Builder builder)

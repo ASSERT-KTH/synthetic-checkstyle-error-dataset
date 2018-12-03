@@ -1,5 +1,0 @@
-230,231c230
-<      *
-<      * @param padding the new value of 'descPadding'
----
->      *     * @param padding the new value of 'descPadding'

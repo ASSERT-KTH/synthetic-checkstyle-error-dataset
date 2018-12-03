@@ -1,5 +1,0 @@
-57,58c57
-<     /** a map of the option groups */
-<     private final Map<String, OptionGroup> optionGroups = new LinkedHashMap<String, OptionGroup>();
----
->     /** a map of the option groups */    private final Map<String, OptionGroup> optionGroups = new LinkedHashMap<String, OptionGroup>();

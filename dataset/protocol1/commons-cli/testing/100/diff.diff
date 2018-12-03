@@ -1,4 +1,0 @@
-259c259
-<             return shortOpts.get(opt);
----
->             return shortOpts.get(opt );

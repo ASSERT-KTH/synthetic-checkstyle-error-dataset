@@ -1,4 +1,0 @@
-556c556
-<         return (value != null) ? value : defaultValue;
----
->         return (value != null ) ? value : defaultValue;

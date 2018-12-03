@@ -1,5 +1,0 @@
-70c70,71
-<                     throw new IllegalArgumentException("The option '" + opt + "' contains an illegal "
----
->                     throw new IllegalArgumentException("The option '" + opt + 
-> "' contains an illegal "

@@ -1,5 +1,0 @@
-82c82,83
-<                         tokens.add(arg.substring(0, arg.indexOf('='))); // --foo
----
->                         tokens.add(arg.substring(0, arg.indexOf('=')))
-> ; // --foo

@@ -1,4 +1,0 @@
-59c59
-<                 + "has already been selected: '" + group.getSelected() + "'");
----
->                 + "has already been selected: '" + group.getSelected() + 	"'");

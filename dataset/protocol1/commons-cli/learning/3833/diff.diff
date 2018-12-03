@@ -1,5 +1,0 @@
-47,48c47
-<     public static Object createValue(final String str, final Object obj) throws ParseException
-<     {
----
->     public static Object createValue(final String str, final Object obj) throws ParseException    {

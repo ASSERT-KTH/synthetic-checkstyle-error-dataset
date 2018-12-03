@@ -1,5 +1,0 @@
-81,82c81
-<         }
-<         else if (PatternOptionBuilder.CLASS_VALUE == clazz)
----
->         }        else if (PatternOptionBuilder.CLASS_VALUE == clazz)

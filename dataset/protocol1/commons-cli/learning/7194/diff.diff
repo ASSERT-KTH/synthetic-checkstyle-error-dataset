@@ -1,4 +1,0 @@
-60c60
-<         this.group = group;
----
->         this.group =group;

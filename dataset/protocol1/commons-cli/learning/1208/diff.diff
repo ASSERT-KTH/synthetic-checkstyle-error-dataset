@@ -1,4 +1,0 @@
-409c409
-<     public boolean hasValueSeparator()
----
->     	public boolean hasValueSeparator()

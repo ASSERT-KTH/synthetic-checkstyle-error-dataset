@@ -1,4 +1,0 @@
-570c570
-<                     currentOption.addValueForProcessing(t.substring(opt.length()));
----
->                     currentOption.addValueForProcessing(t.substring(opt.length() ));

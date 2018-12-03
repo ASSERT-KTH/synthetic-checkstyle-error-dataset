@@ -1,4 +1,0 @@
-301c301
-<     public boolean hasOption(String opt)
----
->     	public boolean hasOption(String opt)

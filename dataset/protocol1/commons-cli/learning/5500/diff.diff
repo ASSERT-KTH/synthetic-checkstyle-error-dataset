@@ -1,4 +1,0 @@
-41c41
-<     private Option currentOption;
----
->     private 	Option currentOption;

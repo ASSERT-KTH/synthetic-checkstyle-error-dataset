@@ -1,5 +1,0 @@
-152,153c152
-<                 return Double.valueOf(str);
-<             }
----
->                 return Double.valueOf(str);            }

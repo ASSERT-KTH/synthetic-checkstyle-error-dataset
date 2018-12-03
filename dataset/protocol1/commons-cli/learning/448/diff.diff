@@ -1,4 +1,0 @@
-314c314
-<     protected void checkRequiredOptions() throws MissingOptionException
----
->     	protected void checkRequiredOptions() throws MissingOptionException

@@ -1,5 +1,0 @@
-127,128c127
-<     public boolean isRequired()
-<     {
----
->     public boolean isRequired()    {

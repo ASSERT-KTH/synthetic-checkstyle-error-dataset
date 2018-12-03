@@ -1,4 +1,0 @@
-49c49
-<     protected Option currentOption;
----
->     	protected Option currentOption;

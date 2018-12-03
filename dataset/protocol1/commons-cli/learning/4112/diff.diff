@@ -1,4 +1,0 @@
-34c34
-<      * @throws ParseException if there are any problems encountered
----
->      * @throwsParseException if there are any problems encountered

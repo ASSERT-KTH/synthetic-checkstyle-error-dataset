@@ -1,4 +1,0 @@
-373c373
-<         if (!token.startsWith("-") || token.length() == 1)
----
->         if (!token. startsWith("-") || token.length() == 1)

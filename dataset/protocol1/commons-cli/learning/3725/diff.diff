@@ -1,4 +1,0 @@
-417c417
-<         if (getOptions().getOptionGroup(opt) != null)
----
->         if ( getOptions().getOptionGroup(opt) != null)

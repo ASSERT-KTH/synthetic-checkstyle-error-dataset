@@ -1,4 +1,0 @@
-47c47
-<         this.matchingOptions = matchingOptions;
----
->         	this.matchingOptions = matchingOptions;

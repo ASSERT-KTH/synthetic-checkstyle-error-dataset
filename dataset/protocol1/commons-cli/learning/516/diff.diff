@@ -1,4 +1,0 @@
-369c369
-<         return numberOfArgs > 1 || numberOfArgs == UNLIMITED_VALUES;
----
->         return numberOfArgs > 	1 || numberOfArgs == UNLIMITED_VALUES;

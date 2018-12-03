@@ -1,4 +1,0 @@
-470c470
-<             while (index != -1)
----
->             while (index != -1 )

@@ -1,5 +1,0 @@
-289,290c289
-<         else if (token.startsWith("-") && !"-".equals(token))
-<         {
----
->         else if (token.startsWith("-") && !"-".equals(token))        {

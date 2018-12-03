@@ -1,4 +1,0 @@
-201c201
-<     public Object getType()
----
->     	public Object getType()

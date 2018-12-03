@@ -1,4 +1,0 @@
-722c722
-<             if (options.hasLongOption(token))
----
->             if (options.hasLongOption	(token))

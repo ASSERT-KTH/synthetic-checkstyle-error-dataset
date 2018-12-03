@@ -1,4 +1,0 @@
-144c144
-<     public Object getParsedOptionValue(final String opt) throws ParseException
----
->     public 	Object getParsedOptionValue(final String opt) throws ParseException

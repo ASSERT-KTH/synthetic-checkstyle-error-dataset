@@ -1,5 +1,0 @@
-957,958c957
-<         public Builder valueSeparator(final char sep)
-<         {
----
->         public Builder valueSeparator(final char sep)        {

@@ -1,4 +1,0 @@
-85c85
-<     public static final Class<URL> URL_VALUE = URL.class;
----
->     	public static final Class<URL> URL_VALUE = URL.class;

@@ -1,5 +1,0 @@
-142,143c142
-<      * @param hasArg flag signalling if an argument is required after this option
-<      * @param description Self-documenting description
----
->      * @param hasArg flag signalling if an argument is required after this option     * @param description Self-documenting description

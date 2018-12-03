@@ -1,4 +1,0 @@
-71c71
-<     public Collection<Option> getOptions()
----
->     public 	Collection<Option> getOptions()

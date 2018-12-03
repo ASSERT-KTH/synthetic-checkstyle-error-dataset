@@ -1,4 +1,0 @@
-515c515
-<         printHelp(pw, width, cmdLineSyntax, header, options, leftPad, descPad, footer, false);
----
->         printHelp(pw, width, cmdLineSyntax,header, options, leftPad, descPad, footer, false);

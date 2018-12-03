@@ -1,4 +1,0 @@
-195c195
-<                 .type(type)
----
->                 	.type(type)

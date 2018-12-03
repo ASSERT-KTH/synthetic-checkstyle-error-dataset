@@ -1,4 +1,0 @@
-72c72
-<         return group;
----
->         	return group;

@@ -1,5 +1,0 @@
-384,385c384
-<     public Properties getOptionProperties(final String opt)
-<     {
----
->     public Properties getOptionProperties(final String opt)    {

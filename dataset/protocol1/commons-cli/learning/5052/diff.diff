@@ -1,4 +1,0 @@
-40c40
-<     public MissingArgumentException(final String message)
----
->     public MissingArgumentException	(final String message)

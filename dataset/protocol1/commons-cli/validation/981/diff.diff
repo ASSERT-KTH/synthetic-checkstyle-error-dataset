@@ -1,4 +1,0 @@
-79c79
-<     public static final Class<File> FILE_VALUE = File.class;
----
->     public static final Class<File> 	FILE_VALUE = File.class;

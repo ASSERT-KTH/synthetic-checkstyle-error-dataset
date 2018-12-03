@@ -1,5 +1,0 @@
-556,557c556
-<             }
-<             else if (!getMatchingLongOptions(t).isEmpty())
----
->             }            else if (!getMatchingLongOptions(t).isEmpty())

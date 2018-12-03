@@ -1,5 +1,0 @@
-116,117c116
-<      *     argument triggers a ParseException.
-<      * @return the <code>CommandLine</code>
----
->      *     argument triggers a ParseException.     * @return the <code>CommandLine</code>

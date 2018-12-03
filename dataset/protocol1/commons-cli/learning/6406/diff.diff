@@ -1,4 +1,0 @@
-94c94
-<     private static boolean isValidChar(final char c)
----
->     private static boolean 	isValidChar(final char c)

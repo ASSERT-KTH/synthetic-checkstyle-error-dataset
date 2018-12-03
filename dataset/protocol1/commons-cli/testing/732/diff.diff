@@ -1,5 +1,0 @@
-262c262,263
-<         return longOpts.get(opt);
----
->         return longOpts.get(opt)
-> ;

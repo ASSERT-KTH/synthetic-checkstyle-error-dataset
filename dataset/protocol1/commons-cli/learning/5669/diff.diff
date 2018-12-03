@@ -1,4 +1,0 @@
-32c32
-<     private OptionGroup group;
----
->     private OptionGroup 	group;

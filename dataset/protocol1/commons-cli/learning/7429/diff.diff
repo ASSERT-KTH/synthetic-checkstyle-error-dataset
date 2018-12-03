@@ -1,4 +1,0 @@
-323c323
-<             Double.parseDouble(token);
----
->             	Double.parseDouble(token);

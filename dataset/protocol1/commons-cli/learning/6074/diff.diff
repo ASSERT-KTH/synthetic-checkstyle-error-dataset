@@ -1,5 +1,0 @@
-156,157c156
-<         // clear the data from the groups
-<         for (final OptionGroup group : options.getOptionGroups())
----
->         // clear the data from the groups        for (final OptionGroup group : options.getOptionGroups())

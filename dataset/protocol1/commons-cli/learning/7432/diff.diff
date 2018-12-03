@@ -1,5 +1,0 @@
-276,277c276
-<     public boolean hasLongOpt()
-<     {
----
->     public boolean hasLongOpt()    {

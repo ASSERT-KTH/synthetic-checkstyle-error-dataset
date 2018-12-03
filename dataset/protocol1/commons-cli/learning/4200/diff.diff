@@ -1,5 +1,0 @@
-612,613c612
-<             buf.append(" :: ").append(type);
-<         }
----
->             buf.append(" :: ").append(type);        }

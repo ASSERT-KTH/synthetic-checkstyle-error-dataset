@@ -1,5 +1,0 @@
-166,167c166
-<      * @return The class if it is found
-<      * @throws ParseException if the class could not be found
----
->      * @return The class if it is found     * @throws ParseException if the class could not be found

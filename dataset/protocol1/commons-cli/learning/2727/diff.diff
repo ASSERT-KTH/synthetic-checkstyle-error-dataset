@@ -1,4 +1,0 @@
-627c627
-<         return values.isEmpty();
----
->         return values. isEmpty();

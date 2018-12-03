@@ -1,4 +1,0 @@
-229c229
-<                     final String str = iterator.next();
----
->                     final String str = iterator. next();

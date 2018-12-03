@@ -1,5 +1,0 @@
-93c93,94
-<                         eatTheRest = stopAtNonOption;
----
->                         eatTheRest = stopAtNonOption
-> ;

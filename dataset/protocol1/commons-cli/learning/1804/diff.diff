@@ -1,5 +1,0 @@
-1048,1049c1048
-<         if (s == null || s.length() == 0)
-<         {
----
->         if (s == null || s.length() == 0)        {

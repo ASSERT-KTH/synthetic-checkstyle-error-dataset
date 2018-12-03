@@ -1,5 +1,0 @@
-100c100,101
-<                 return PatternOptionBuilder.STRING_VALUE;
----
->                 return PatternOptionBuilder.STRING_VALUE
-> ;

@@ -1,5 +1,0 @@
-268,269c268
-<      * @param opt the partial name of the option
-<      * @return the options matching the partial name specified, or an empty list if none matches
----
->      * @param opt the partial name of the option     * @return the options matching the partial name specified, or an empty list if none matches

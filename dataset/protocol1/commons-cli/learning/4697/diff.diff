@@ -1,5 +1,0 @@
-122,123c122
-<         }
-<         catch (final ClassNotFoundException cnfe)
----
->         }        catch (final ClassNotFoundException cnfe)

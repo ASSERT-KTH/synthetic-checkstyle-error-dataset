@@ -1,4 +1,0 @@
-778c778
-<                 handleUnknownToken(stopAtNonOption && i > 1 ? token.substring(i) : token);
----
->                 handleUnknownToken(stopAtNonOption && i > 1 ? token	.substring(i) : token);

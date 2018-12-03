@@ -1,5 +1,0 @@
-227c227,228
-<         final List<String> values = new ArrayList<String>();
----
->         final List<String> values = new ArrayList<String>()
-> ;

@@ -1,4 +1,0 @@
-85c85
-<     public CommandLine parse(final Options options, final String[] arguments) throws ParseException
----
->     public CommandLine parse(final Options options, final String[	] arguments) throws ParseException

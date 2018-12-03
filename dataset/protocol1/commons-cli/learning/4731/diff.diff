@@ -1,5 +1,0 @@
-759,760c759
-<     protected void handleConcatenatedOptions(final String token) throws ParseException
-<     {
----
->     protected void handleConcatenatedOptions(final String token) throws ParseException    {

@@ -1,4 +1,0 @@
-629c629
-<     private String getLongPrefix(final String token)
----
->     private String 	getLongPrefix(final String token)

@@ -1,4 +1,0 @@
-75c75
-<     public boolean hasOption(final String opt)
----
->     public 	boolean hasOption(final String opt)

@@ -1,5 +1,0 @@
-456,457c456
-<         }
-<         else if (matchingOpts.size() > 1 && !options.hasLongOption(token))
----
->         }        else if (matchingOpts.size() > 1 && !options.hasLongOption(token))

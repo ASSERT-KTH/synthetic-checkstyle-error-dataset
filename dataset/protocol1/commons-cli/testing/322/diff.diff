@@ -1,5 +1,0 @@
-188,189c188
-<     public Options addOption(final Option opt)
-<     {
----
->     public Options addOption(final Option opt)    {

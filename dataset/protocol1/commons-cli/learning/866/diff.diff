@@ -1,5 +1,0 @@
-48,49c48
-<     /** The last option parsed. */
-<     protected Option currentOption;
----
->     /** The last option parsed. */    protected Option currentOption;

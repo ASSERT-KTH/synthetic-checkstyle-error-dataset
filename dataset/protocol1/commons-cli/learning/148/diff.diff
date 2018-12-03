@@ -1,5 +1,0 @@
-348c348,349
-<         final Properties props = new Properties();
----
->         final Properties props = new Properties()
-> ;

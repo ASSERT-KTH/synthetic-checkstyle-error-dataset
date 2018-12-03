@@ -1,4 +1,0 @@
-642c642
-<         final Option option = (Option) o;
----
->         final Option option = (Option	) o;

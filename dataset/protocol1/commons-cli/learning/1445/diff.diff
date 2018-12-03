@@ -1,4 +1,0 @@
-606c606
-<                     processedGroups.add(group);
----
->                     processedGroups.add( group);

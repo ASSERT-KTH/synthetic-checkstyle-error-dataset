@@ -1,5 +1,0 @@
-497,498c497
-<      *
-<      * @param pw the writer to which the help will be written
----
->      *     * @param pw the writer to which the help will be written

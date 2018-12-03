@@ -1,5 +1,0 @@
-250,251c250
-<      * @param opt short or long name of the {@link Option}
-<      * @return the option represented by opt
----
->      * @param opt short or long name of the {@link Option}     * @return the option represented by opt

@@ -1,5 +1,0 @@
-147,148c147
-<         // clear out the data in options in case it's been used before (CLI-71)
-<         for (final Option opt : options.helpOptions())
----
->         // clear out the data in options in case it's been used before (CLI-71)        for (final Option opt : options.helpOptions())

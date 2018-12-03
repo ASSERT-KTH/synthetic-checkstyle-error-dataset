@@ -1,4 +1,0 @@
-30c30
-< public class DefaultParser implements CommandLineParser
----
-> public class DefaultParser 	implements CommandLineParser

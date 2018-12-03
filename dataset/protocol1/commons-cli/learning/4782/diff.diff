@@ -1,4 +1,0 @@
-390c390
-<         this.valuesep = sep;
----
->         this.valuesep = 	sep;

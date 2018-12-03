@@ -1,5 +1,0 @@
-23,24c23
-<  */
-< public class AlreadySelectedException extends ParseException
----
->  */public class AlreadySelectedException extends ParseException

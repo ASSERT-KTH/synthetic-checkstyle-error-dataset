@@ -1,4 +1,0 @@
-583c583
-<                     handleConcatenatedOptions(token);
----
->                     handleConcatenatedOptions(token );

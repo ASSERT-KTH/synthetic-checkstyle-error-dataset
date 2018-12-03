@@ -1,4 +1,0 @@
-202c202
-<                 if (stopAtNonOption && !getOptions().hasOption(t))
----
->                 if (stopAtNonOption 	&& !getOptions().hasOption(t))

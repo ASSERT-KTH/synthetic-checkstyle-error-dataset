@@ -1,4 +1,0 @@
-765c765
-<             if (options.hasOption(ch))
----
->             if (options.hasOption	(ch))

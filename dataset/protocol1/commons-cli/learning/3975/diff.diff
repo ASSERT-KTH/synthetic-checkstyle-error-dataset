@@ -1,4 +1,0 @@
-88c88
-<         return hasOption(String.valueOf(opt));
----
->         return hasOption( String.valueOf(opt));

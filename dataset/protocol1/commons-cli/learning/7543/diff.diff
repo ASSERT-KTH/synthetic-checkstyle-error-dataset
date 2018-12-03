@@ -1,4 +1,0 @@
-344c344
-<                 iter.previous();
----
->                 iter.previous() ;

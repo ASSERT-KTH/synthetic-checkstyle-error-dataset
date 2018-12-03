@@ -1,4 +1,0 @@
-82c82
-<         else if (PatternOptionBuilder.CLASS_VALUE == clazz)
----
->         else if (PatternOptionBuilder.CLASS_VALUE== clazz)

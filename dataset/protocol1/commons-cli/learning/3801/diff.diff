@@ -1,4 +1,0 @@
-676c676
-<             currentOption = null;
----
->             currentOption 	= null;

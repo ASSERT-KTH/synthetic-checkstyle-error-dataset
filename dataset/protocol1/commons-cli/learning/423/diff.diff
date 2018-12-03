@@ -1,5 +1,0 @@
-203,204c203
-<     public int getWidth()
-<     {
----
->     public int getWidth()    {

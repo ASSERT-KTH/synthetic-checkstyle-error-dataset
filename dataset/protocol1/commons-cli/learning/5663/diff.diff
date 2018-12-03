@@ -1,5 +1,0 @@
-280,281c280
-<             }
-<             else if (stopAtNonOption)
----
->             }            else if (stopAtNonOption)

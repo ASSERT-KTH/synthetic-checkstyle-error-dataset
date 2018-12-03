@@ -1,5 +1,0 @@
-62,63c62
-<     public Collection<String> getNames()
-<     {
----
->     public Collection<String> getNames()    {

@@ -1,4 +1,0 @@
-315c315
-<     public boolean hasLongOption(String opt)
----
->     public boolean hasLongOption	(String opt)

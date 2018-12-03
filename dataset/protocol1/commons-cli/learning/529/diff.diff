@@ -1,5 +1,0 @@
-220,221c220
-<                     eatTheRest = true;
-<                 }
----
->                     eatTheRest = true;                }

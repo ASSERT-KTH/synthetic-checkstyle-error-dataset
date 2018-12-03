@@ -1,4 +1,0 @@
-65c65
-<             str = str.substring(1, length - 1);
----
->             str = str.substring(1, length - 1 );

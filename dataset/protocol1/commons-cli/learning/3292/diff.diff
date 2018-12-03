@@ -1,5 +1,0 @@
-463c463,464
-<             final String key = options.hasLongOption(token) ? token : matchingOpts.get(0);
----
->             final String key = options.hasLongOption(token) ? token : matchingOpts.get(0)
-> ;

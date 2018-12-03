@@ -1,4 +1,0 @@
-258c258
-<     private Option resolveOption(String opt)
----
->     private Option resolveOption(String opt )

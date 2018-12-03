@@ -1,4 +1,0 @@
-173c173
-<         final ListIterator<String> iterator = tokenList.listIterator();
----
->         final ListIterator<String> iterator 	= tokenList.listIterator();

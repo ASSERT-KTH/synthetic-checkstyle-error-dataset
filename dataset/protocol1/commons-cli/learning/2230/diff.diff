@@ -1,4 +1,0 @@
-386c386
-<         final Option opt = (Option) getOptions().getOption(arg).clone();
----
->         final Option opt = 	(Option) getOptions().getOption(arg).clone();

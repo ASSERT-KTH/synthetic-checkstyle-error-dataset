@@ -1,4 +1,0 @@
-46c46
-<     protected String currentToken;
----
->     protected 	String currentToken;

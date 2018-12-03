@@ -1,5 +1,0 @@
-355c355,356
-<                 iter.previous();
----
->                 iter.previous()
-> ;

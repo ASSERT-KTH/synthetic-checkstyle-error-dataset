@@ -1,4 +1,0 @@
-227c227
-<                 while (iterator.hasNext())
----
->                 while (iterator	.hasNext())

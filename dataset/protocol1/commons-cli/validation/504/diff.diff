@@ -1,4 +1,0 @@
-114c114
-<                 return PatternOptionBuilder.URL_VALUE;
----
->                 return 	PatternOptionBuilder.URL_VALUE;

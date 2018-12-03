@@ -1,5 +1,0 @@
-111,112c111
-<      * @param options         the <code>Options</code>
-<      * @param arguments       the <code>arguments</code>
----
->      * @param options         the <code>Options</code>     * @param arguments       the <code>arguments</code>

@@ -1,4 +1,0 @@
-464c464
-<             final char sep = getValueSeparator();
----
->             final char sep = getValueSeparator	();

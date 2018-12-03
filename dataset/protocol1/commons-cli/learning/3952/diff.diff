@@ -1,4 +1,0 @@
-651c651
-<     private boolean isJavaProperty(final String token)
----
->     private boolean isJavaProperty( final String token)

@@ -1,4 +1,0 @@
-329c329
-<     public boolean hasShortOption(String opt)
----
->     public boolean hasShortOption( String opt)

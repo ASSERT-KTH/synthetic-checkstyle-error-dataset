@@ -1,5 +1,0 @@
-212,213c212
-<             throw new ParseException("Unable to parse the URL: " + str);
-<         }
----
->             throw new ParseException("Unable to parse the URL: " + str);        }

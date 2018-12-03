@@ -1,5 +1,0 @@
-330c330,331
-<         return getOptionValue(String.valueOf(opt), defaultValue);
----
->         return getOptionValue(String.valueOf(opt)
-> , defaultValue);

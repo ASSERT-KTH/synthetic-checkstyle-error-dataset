@@ -1,5 +1,0 @@
-713,714c713
-<      * @param pw The printWriter to write the help to
-<      * @param width The number of characters per line for the usage statement.
----
->      * @param pw The printWriter to write the help to     * @param width The number of characters per line for the usage statement.

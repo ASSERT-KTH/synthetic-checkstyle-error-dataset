@@ -1,5 +1,0 @@
-229c229,230
-<         for (final Option processedOption : options)
----
->         for (final Option processedOption : 
-> options)

@@ -1,5 +1,0 @@
-847c847,848
-<         for (final Iterator<Option> it = optList.iterator(); it.hasNext();)
----
->         for (final Iterator<Option> it = optList.iterator()
-> ; it.hasNext();)

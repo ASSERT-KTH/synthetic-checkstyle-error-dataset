@@ -1,5 +1,0 @@
-54,55c54
-<     public Collection<String> getMatchingOptions()
-<     {
----
->     public Collection<String> getMatchingOptions()    {

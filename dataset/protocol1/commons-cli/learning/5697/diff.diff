@@ -1,5 +1,0 @@
-1034c1034,1035
-<         Arrays.fill(padding, ' ');
----
->         Arrays.fill(padding, ' ')
-> ;

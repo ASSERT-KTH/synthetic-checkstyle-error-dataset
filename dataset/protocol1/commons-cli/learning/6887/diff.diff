@@ -1,4 +1,0 @@
-895c895
-<             sb.append(rtrim(text));
----
->             sb.append( rtrim(text));

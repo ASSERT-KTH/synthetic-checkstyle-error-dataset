@@ -1,5 +1,0 @@
-267c267,268
-<             final String ch = String.valueOf(token.charAt(i));
----
->             final String ch = String.valueOf(token.charAt(i))
-> ;

@@ -1,5 +1,0 @@
-446,447c446
-<      * @param options the Options instance
-<      * @param footer the banner to display at the end of the help
----
->      * @param options the Options instance     * @param footer the banner to display at the end of the help

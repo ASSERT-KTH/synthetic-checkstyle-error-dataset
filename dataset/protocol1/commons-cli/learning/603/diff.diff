@@ -1,4 +1,0 @@
-158c158
-<                 buff.append(option.getLongOpt());
----
->                 buff.append(option. getLongOpt());

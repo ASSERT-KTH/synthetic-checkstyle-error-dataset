@@ -1,4 +1,0 @@
-360c360
-<             return true;
----
->             return 	true;

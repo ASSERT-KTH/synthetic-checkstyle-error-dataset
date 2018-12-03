@@ -1,4 +1,0 @@
-552c552
-<     public String getValue(final String defaultValue)
----
->     public String getValue(final String defaultValue )

@@ -1,5 +1,0 @@
-52,53c52
-<      * @param group  the option group already selected
-<      * @param option the option that triggered the exception
----
->      * @param group  the option group already selected     * @param option the option that triggered the exception

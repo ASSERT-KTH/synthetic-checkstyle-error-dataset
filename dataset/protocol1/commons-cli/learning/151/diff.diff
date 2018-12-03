@@ -1,4 +1,0 @@
-849c849
-<         public Builder desc(final String description)
----
->         public Builder desc(final String 	description)

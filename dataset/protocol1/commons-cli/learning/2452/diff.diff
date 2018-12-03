@@ -1,4 +1,0 @@
-268c268
-<         return optionalArg;
----
->         	return optionalArg;

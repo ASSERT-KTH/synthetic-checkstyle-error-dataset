@@ -1,5 +1,0 @@
-93,94c93
-<      *
-<      * @param opt the name of the option.
----
->      *     * @param opt the name of the option.

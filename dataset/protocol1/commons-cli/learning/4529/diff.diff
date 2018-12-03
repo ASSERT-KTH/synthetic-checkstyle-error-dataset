@@ -1,5 +1,0 @@
-58,59c58
-<     /**
-<      * @return the names of the options in this group as a 
----
->     /**     * @return the names of the options in this group as a 

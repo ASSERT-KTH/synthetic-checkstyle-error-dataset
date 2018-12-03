@@ -1,5 +1,0 @@
-481,482c481
-<     public Iterator<Option> iterator()
-<     {
----
->     public Iterator<Option> iterator()    {

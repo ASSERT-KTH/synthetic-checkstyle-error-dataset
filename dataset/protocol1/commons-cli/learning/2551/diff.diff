@@ -1,4 +1,0 @@
-350c350
-<         for (final Option processedOption : options)
----
->         for (final Option processedOption : options )

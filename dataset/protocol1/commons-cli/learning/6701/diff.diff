@@ -1,4 +1,0 @@
-117c117
-<     public void setRequired(final boolean required)
----
->     	public void setRequired(final boolean required)

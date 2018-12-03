@@ -1,5 +1,0 @@
-870,871c870
-<          * @param numberOfArgs the number of argument values
-<          * @return this builder, to allow method chaining
----
->          * @param numberOfArgs the number of argument values         * @return this builder, to allow method chaining

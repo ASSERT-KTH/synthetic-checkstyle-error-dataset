@@ -1,5 +1,0 @@
-187,188c187
-<      * @param str the date string
-<      * @return The date if <code>str</code> is a valid date string,
----
->      * @param str the date string     * @return The date if <code>str</code> is a valid date string,

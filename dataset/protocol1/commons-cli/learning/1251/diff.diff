@@ -1,4 +1,0 @@
-274c274
-<             if (!cmd.hasOption(option) && !selected)
----
->             if 	(!cmd.hasOption(option) && !selected)

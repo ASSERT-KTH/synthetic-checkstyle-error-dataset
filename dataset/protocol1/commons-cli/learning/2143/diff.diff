@@ -1,4 +1,0 @@
-47c47
-<         this.requiredOptions = new ArrayList(options.getRequiredOptions());
----
->         this.requiredOptions = new ArrayList( options.getRequiredOptions());

@@ -1,5 +1,0 @@
-278,279c278
-<         // for a perfect match return the single option only
-<         if (longOpts.keySet().contains(opt))
----
->         // for a perfect match return the single option only        if (longOpts.keySet().contains(opt))

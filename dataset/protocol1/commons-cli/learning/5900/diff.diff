@@ -1,4 +1,0 @@
-736c736
-<     boolean requiresArg()
----
->     	boolean requiresArg()

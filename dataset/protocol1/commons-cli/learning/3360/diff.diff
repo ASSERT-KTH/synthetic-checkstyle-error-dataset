@@ -1,5 +1,0 @@
-224,225c224
-<             // eat the remaining tokens
-<             if (eatTheRest)
----
->             // eat the remaining tokens            if (eatTheRest)

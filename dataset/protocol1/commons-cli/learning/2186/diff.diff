@@ -1,5 +1,0 @@
-188,189c188
-<         }
-<         final String[] values = getOptionValues(option);
----
->         }        final String[] values = getOptionValues(option);

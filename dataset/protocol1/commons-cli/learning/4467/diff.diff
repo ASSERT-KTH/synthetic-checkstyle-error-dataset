@@ -1,4 +1,0 @@
-39c39
-<         if (str.startsWith("--"))
----
->         if (str. startsWith("--"))

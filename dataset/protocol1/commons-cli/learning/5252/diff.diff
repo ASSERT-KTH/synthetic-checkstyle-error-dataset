@@ -1,4 +1,0 @@
-888c888
-<     protected StringBuffer renderWrappedText(final StringBuffer sb, final int width, 
----
->     protected StringBuffer renderWrappedText(final StringBuffer sb , final int width, 

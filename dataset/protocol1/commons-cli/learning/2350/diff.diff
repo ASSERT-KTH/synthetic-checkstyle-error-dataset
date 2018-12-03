@@ -1,4 +1,0 @@
-585c585
-<         final List<Option> optList = new ArrayList<Option>(options.getOptions());
----
->         final List<Option> optList = new 	ArrayList<Option>(options.getOptions());

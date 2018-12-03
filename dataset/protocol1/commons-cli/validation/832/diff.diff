@@ -1,5 +1,0 @@
-144,145c144
-<      * @param pattern the pattern string
-<      * @return The {@link Options} instance
----
->      * @param pattern the pattern string     * @return The {@link Options} instance

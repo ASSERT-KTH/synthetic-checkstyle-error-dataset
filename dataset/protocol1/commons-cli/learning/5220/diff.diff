@@ -1,5 +1,0 @@
-143,144c143
-<      * @return the list of atomic option and value tokens
-<      * @throws ParseException if there are any problems encountered
----
->      * @return the list of atomic option and value tokens     * @throws ParseException if there are any problems encountered

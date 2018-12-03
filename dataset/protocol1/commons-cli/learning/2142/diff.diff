@@ -1,4 +1,0 @@
-1086c1086
-<         public int compare(final Option opt1, final Option opt2)
----
->         public int compare(final 	Option opt1, final Option opt2)

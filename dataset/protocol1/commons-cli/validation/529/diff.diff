@@ -1,4 +1,0 @@
-106c106
-<                 return PatternOptionBuilder.DATE_VALUE;
----
->                 return PatternOptionBuilder. DATE_VALUE;

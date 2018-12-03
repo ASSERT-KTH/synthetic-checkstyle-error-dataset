@@ -1,4 +1,0 @@
-68c68
-<             return (T) str;
----
->             return (T) str ;

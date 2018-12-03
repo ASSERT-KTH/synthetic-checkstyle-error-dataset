@@ -1,5 +1,0 @@
-532,533c532
-<      * @param footer the banner to display at the end of the help
-<      * @param autoUsage whether to print an automatically generated
----
->      * @param footer the banner to display at the end of the help     * @param autoUsage whether to print an automatically generated

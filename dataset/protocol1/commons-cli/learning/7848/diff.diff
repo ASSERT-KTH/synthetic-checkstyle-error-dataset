@@ -1,5 +1,0 @@
-269,270c269
-<             if (options.hasOption(ch))
-<             {
----
->             if (options.hasOption(ch))            {

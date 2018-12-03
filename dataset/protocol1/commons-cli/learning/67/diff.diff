@@ -1,5 +1,0 @@
-37,38c37
-<     /** the name of the selected option */
-<     private String selected;
----
->     /** the name of the selected option */    private String selected;

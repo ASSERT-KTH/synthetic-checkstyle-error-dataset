@@ -1,4 +1,0 @@
-339c339
-<         return isLongOption(token) || isShortOption(token);
----
->         return isLongOption(token) 	|| isShortOption(token);

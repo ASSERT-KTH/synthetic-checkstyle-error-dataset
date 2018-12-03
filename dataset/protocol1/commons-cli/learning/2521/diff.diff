@@ -1,4 +1,0 @@
-78c78
-<         else if (PatternOptionBuilder.DATE_VALUE == clazz)
----
->         else if (PatternOptionBuilder	.DATE_VALUE == clazz)

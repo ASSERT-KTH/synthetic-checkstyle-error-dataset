@@ -1,4 +1,0 @@
-719c719
-<         final int argPos = cmdLineSyntax.indexOf(' ') + 1;
----
->         final int argPos 	= cmdLineSyntax.indexOf(' ') + 1;

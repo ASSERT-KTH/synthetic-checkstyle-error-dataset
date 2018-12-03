@@ -1,5 +1,0 @@
-806,807c806
-<         /** specifies whether the argument value of this Option is optional */
-<         private boolean optionalArg;
----
->         /** specifies whether the argument value of this Option is optional */        private boolean optionalArg;

@@ -1,5 +1,0 @@
-218,219c218
-<     public Collection<Option> getOptions()
-<     {
----
->     public Collection<Option> getOptions()    {

@@ -1,5 +1,0 @@
-47c47,48
-<     private final Map<String, Option> shortOpts = new LinkedHashMap<String, Option>();
----
->     private final Map<String, Option> shortOpts = new LinkedHashMap<String, Option>()
-> ;

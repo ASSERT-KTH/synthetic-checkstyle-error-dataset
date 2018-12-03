@@ -1,5 +1,0 @@
-43,44c43
-<     public AlreadySelectedException(final String message)
-<     {
----
->     public AlreadySelectedException(final String message)    {

@@ -1,4 +1,0 @@
-358c358
-<         if (options.hasShortOption(optName))
----
->         	if (options.hasShortOption(optName))

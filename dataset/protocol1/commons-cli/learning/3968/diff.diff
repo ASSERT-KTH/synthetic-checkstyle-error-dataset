@@ -1,5 +1,0 @@
-97,98c97
-<         }
-<         else if (PatternOptionBuilder.URL_VALUE == clazz)
----
->         }        else if (PatternOptionBuilder.URL_VALUE == clazz)

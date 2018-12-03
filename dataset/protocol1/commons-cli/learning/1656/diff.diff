@@ -1,5 +1,0 @@
-231,232c231
-<             if (processedOption.equals(option))
-<             {
----
->             if (processedOption.equals(option))            {

@@ -1,5 +1,0 @@
-255,256c255
-<         if (properties == null)
-<         {
----
->         if (properties == null)        {

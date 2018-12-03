@@ -1,5 +1,0 @@
-229,230c229
-<         if (options.hasOption(token))
-<         {
----
->         if (options.hasOption(token))        {

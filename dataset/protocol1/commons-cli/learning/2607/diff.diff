@@ -1,4 +1,0 @@
-486c486
-<         final List<String> matchingOpts = getMatchingLongOptions(opt);
----
->         final List<String> matchingOpts = getMatchingLongOptions(opt );

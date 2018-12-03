@@ -1,5 +1,0 @@
-53c53,54
-<         if (opt.length() == 1)
----
->         if (opt.length() == 
-> 1)

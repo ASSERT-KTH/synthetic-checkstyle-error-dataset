@@ -1,5 +1,0 @@
-436c436,437
-<         printHelp(cmdLineSyntax, header, options, footer, false);
----
->         printHelp(cmdLineSyntax
-> , header, options, footer, false);

@@ -1,4 +1,0 @@
-580c580
-<         final StringBuffer buff = new StringBuffer(getSyntaxPrefix()).append(app).append(" ");
----
->         final StringBuffer buff = new 	StringBuffer(getSyntaxPrefix()).append(app).append(" ");

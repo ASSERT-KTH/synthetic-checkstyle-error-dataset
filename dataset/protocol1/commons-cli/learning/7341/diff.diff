@@ -1,5 +1,0 @@
-111c111,112
-<         return selected;
----
->         return selected
-> ;

@@ -1,5 +1,0 @@
-586,587c586
-<     public String toString()
-<     {
----
->     public String toString()    {

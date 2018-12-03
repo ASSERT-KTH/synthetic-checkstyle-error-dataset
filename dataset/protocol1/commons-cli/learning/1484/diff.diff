@@ -1,5 +1,0 @@
-390c390,391
-<             if (opt.equals(option.getOpt()) || opt.equals(option.getLongOpt()))
----
->             if (opt.equals(option.getOpt()) || 
-> opt.equals(option.getLongOpt()))

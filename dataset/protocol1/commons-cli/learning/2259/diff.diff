@@ -1,4 +1,0 @@
-273c273
-<     public void setNewLine(final String newline)
----
->     public void 	setNewLine(final String newline)

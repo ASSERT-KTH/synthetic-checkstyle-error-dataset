@@ -1,4 +1,0 @@
-63c63
-<     @SuppressWarnings("unchecked") // returned value will have type T because it is fixed by clazz
----
->     @ SuppressWarnings("unchecked") // returned value will have type T because it is fixed by clazz

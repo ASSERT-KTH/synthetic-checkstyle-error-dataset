@@ -1,5 +1,0 @@
-118,119c118
-<                 final int pos = token.indexOf('=');
-<                 final String opt = pos == -1 ? token : token.substring(0, pos); // --foo
----
->                 final int pos = token.indexOf('=');                final String opt = pos == -1 ? token : token.substring(0, pos); // --foo

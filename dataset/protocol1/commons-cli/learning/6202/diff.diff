@@ -1,5 +1,0 @@
-432c432,433
-<             handleLongOptionWithoutEqual(token);
----
->             handleLongOptionWithoutEqual(token)
-> ;

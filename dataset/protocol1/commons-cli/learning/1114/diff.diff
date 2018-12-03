@@ -1,4 +1,0 @@
-32c32
-< public class PosixParser extends Parser
----
-> public class 	PosixParser extends Parser

@@ -1,4 +1,0 @@
-68c68
-<                 if (!isValidChar(ch))
----
->                 if (!isValidChar	(ch))

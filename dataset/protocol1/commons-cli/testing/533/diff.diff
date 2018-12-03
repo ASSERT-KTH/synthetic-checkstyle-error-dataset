@@ -1,5 +1,0 @@
-105c105,106
-<                 for (i++; i < arguments.length; i++) //NOPMD
----
->                 for (i++
-> ; i < arguments.length; i++) //NOPMD

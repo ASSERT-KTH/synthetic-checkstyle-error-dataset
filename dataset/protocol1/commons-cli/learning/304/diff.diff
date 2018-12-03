@@ -1,4 +1,0 @@
-101c101
-<         final Iterator<String> iter = Arrays.asList(arguments).iterator();
----
->         final Iterator	<String> iter = Arrays.asList(arguments).iterator();

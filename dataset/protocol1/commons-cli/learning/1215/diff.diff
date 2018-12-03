@@ -1,5 +1,0 @@
-725,726c725
-<     boolean acceptsArg()
-<     {
----
->     boolean acceptsArg()    {

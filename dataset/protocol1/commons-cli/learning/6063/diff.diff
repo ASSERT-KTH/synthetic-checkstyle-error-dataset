@@ -1,4 +1,0 @@
-631c631
-<     public boolean equals(final Object o)
----
->     	public boolean equals(final Object o)

@@ -1,5 +1,0 @@
-1013,1014c1013
-<         if (pos > startPos)
-<         {
----
->         if (pos > startPos)        {

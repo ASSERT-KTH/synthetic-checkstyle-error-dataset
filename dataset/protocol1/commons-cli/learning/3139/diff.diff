@@ -1,4 +1,0 @@
-371c371
-<     private boolean isLongOption(final String token)
----
->     private boolean isLongOption(final String token )

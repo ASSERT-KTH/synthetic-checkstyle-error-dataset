@@ -1,4 +1,0 @@
-442c442
-<             throw new RuntimeException("NO_ARGS_ALLOWED");
----
->             throw new RuntimeException("NO_ARGS_ALLOWED") ;

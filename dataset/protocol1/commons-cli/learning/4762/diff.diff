@@ -1,4 +1,0 @@
-912c912
-<             text = padding + text.substring(pos).trim();
----
->             text = padding + 	text.substring(pos).trim();

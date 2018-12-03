@@ -1,4 +1,0 @@
-337c337
-<     private boolean isOption(final String token)
----
->     private boolean isOption(final String token )

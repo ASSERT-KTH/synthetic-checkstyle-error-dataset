@@ -1,4 +1,0 @@
-156c156
-<             group.setSelected(null);
----
->             group.setSelected	(null);

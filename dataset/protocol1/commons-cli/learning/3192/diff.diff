@@ -1,5 +1,0 @@
-672,673c672
-<             currentOption = option;
-<         }
----
->             currentOption = option;        }

@@ -1,4 +1,0 @@
-190c190
-<         return (values == null) ? null : values[0];
----
->         return (values == null) ? null 	: values[0];

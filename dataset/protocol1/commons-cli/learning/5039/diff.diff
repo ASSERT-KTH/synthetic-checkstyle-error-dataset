@@ -1,5 +1,0 @@
-35,36c35
-<     /** commandline instance */
-<     protected CommandLine cmd;
----
->     /** commandline instance */    protected CommandLine cmd;

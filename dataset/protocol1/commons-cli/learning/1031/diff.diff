@@ -1,4 +1,0 @@
-302c302
-<         return (answer != null) ? answer : defaultValue;
----
->         return (answer != null ) ? answer : defaultValue;

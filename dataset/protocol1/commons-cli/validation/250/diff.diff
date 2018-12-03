@@ -1,4 +1,0 @@
-100c100
-<                 return PatternOptionBuilder.STRING_VALUE;
----
->                 return PatternOptionBuilder. STRING_VALUE;

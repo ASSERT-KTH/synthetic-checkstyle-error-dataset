@@ -1,4 +1,0 @@
-71c71
-<                                                        + "character : '" + ch + "'");
----
->                                                        + "character : '" + ch 	+ "'");

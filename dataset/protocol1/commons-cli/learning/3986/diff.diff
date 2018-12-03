@@ -1,4 +1,0 @@
-125c125
-<             throw new ParseException("Unable to find the class: " + classname);
----
->             throw new 	ParseException("Unable to find the class: " + classname);

@@ -1,4 +1,0 @@
-67c67
-<     private boolean optionalArg;
----
->     private 	boolean optionalArg;

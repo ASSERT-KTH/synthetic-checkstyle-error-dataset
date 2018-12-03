@@ -1,5 +1,0 @@
-167,168c167
-<             if (iter.hasNext())
-<             {
----
->             if (iter.hasNext())            {

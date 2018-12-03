@@ -1,5 +1,0 @@
-218,219c218
-<                 if (stopAtNonOption)
-<                 {
----
->                 if (stopAtNonOption)                {

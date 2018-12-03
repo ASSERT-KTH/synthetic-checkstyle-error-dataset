@@ -1,5 +1,0 @@
-272c272,273
-<             final boolean selected = group != null && group.getSelected() != null;
----
->             final boolean selected = group != null && group.getSelected() != 
-> null;

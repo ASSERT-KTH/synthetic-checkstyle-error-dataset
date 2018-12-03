@@ -1,5 +1,0 @@
-320,321c320
-<      *
-<      * @return the 'longOptPrefix'
----
->      *     * @return the 'longOptPrefix'

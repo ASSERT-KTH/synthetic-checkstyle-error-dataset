@@ -1,4 +1,0 @@
-485c485
-<                 index = value.indexOf(sep);
----
->                 index = value.indexOf( sep);

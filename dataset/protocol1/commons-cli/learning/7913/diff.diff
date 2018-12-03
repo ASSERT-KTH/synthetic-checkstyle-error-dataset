@@ -1,5 +1,0 @@
-548,549c548
-<      *
-<      * @return the value/first value of this Option or the 
----
->      *     * @return the value/first value of this Option or the 

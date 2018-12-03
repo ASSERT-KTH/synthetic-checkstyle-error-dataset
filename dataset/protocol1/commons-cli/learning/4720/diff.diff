@@ -1,4 +1,0 @@
-62c62
-<         final int length = str.length();
----
->         final int length 	= str.length();

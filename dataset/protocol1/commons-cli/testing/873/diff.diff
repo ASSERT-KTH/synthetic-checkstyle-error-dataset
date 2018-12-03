@@ -1,4 +1,0 @@
-288c288
-<                 matchingOpts.add(longOpt);
----
->                 matchingOpts.add( longOpt);

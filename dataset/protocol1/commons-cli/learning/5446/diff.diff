@@ -1,5 +1,0 @@
-131,132c131
-<      *
-<      * @param opt short representation of the option
----
->      *     * @param opt short representation of the option

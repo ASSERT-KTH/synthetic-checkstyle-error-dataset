@@ -1,5 +1,0 @@
-539c539,540
-<         return hasNoValues() ? null : values.get(index);
----
->         return hasNoValues() ? 
-> null : values.get(index);

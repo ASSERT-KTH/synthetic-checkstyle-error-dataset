@@ -1,4 +1,0 @@
-27c27
-< public class BasicParser extends Parser
----
-> public class BasicParser extends 	Parser

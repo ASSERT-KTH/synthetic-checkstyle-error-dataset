@@ -1,4 +1,0 @@
-255c255
-<     private void checkRequiredArgs() throws ParseException
----
->     private void checkRequiredArgs() throws 	ParseException

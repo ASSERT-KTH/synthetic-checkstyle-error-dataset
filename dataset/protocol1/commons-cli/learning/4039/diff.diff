@@ -1,4 +1,0 @@
-583c583
-<         final Collection<OptionGroup> processedGroups = new ArrayList<OptionGroup>();
----
->         	final Collection<OptionGroup> processedGroups = new ArrayList<OptionGroup>();

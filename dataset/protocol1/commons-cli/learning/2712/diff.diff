@@ -1,4 +1,0 @@
-162c162
-<                     burstToken(token, stopAtNonOption);
----
->                     burstToken(token,stopAtNonOption);

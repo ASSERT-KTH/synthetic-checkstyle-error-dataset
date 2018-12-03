@@ -1,4 +1,0 @@
-281c281
-<         else if (currentOption != null && currentOption.acceptsArg() && isArgument(token))
----
->         else if 	(currentOption != null && currentOption.acceptsArg() && isArgument(token))

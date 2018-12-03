@@ -1,4 +1,0 @@
-150c150
-<             if (str.indexOf('.') != -1)
----
->             if 	(str.indexOf('.') != -1)

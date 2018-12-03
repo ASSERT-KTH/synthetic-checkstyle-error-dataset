@@ -1,4 +1,0 @@
-836c836
-<                     optBuf.append(option.hasLongOpt() ? longOptSeparator : " ");
----
->                     optBuf.append(option.hasLongOpt()? longOptSeparator : " ");

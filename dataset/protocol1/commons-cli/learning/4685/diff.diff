@@ -1,4 +1,0 @@
-652c652
-<             Collections.sort(optList, getOptionComparator());
----
->             Collections.sort(optList, getOptionComparator() );

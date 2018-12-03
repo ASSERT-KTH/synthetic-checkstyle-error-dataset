@@ -1,5 +1,0 @@
-73,74c73
-<         }
-<         else if (PatternOptionBuilder.NUMBER_VALUE == clazz)
----
->         }        else if (PatternOptionBuilder.NUMBER_VALUE == clazz)

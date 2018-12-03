@@ -1,5 +1,0 @@
-339,340c339
-<      * @param opt the option whose OptionGroup is being queried.
-<      * @return the OptionGroup if <code>opt</code> is part of an OptionGroup, otherwise return null
----
->      * @param opt the option whose OptionGroup is being queried.     * @return the OptionGroup if <code>opt</code> is part of an OptionGroup, otherwise return null

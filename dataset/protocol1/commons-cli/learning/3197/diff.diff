@@ -1,4 +1,0 @@
-1033c1033
-<         final char[] padding = new char[len];
----
->         final 	char[] padding = new char[len];

@@ -1,5 +1,0 @@
-686,687c686
-<         if (option.getOpt() != null)
-<         {
----
->         if (option.getOpt() != null)        {

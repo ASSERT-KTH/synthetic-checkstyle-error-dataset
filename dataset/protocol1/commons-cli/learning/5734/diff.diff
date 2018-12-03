@@ -1,4 +1,0 @@
-185c185
-<             while (iter.hasNext())
----
->             while (iter.hasNext() )

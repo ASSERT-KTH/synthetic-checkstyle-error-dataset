@@ -1,0 +1,5 @@
+281,282c281
+<         List<DynamicRecord> changedDynamicRecords = Iterables.addToCollection(
+<                 nodeLabels.remove( 255 /*Initial labels go from 255 and down to 255-58*/, nodeStore ),
+---
+>         List<DynamicRecord> changedDynamicRecords = Iterables.addToCollection(                nodeLabels.remove( 255 /*Initial labels go from 255 and down to 255-58*/, nodeStore ),

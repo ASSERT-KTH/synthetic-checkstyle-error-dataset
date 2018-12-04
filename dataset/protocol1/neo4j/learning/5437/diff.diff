@@ -1,0 +1,4 @@
+51c51
+<         if ( server != null )
+---
+>         if( server != null )

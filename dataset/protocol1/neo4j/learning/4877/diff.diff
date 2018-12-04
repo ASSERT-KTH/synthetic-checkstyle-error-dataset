@@ -1,0 +1,5 @@
+34c34,35
+<     public void addProcedure( Class<?> procedureClass )
+---
+>     public void addProcedure( Class<?> procedureClass 
+> )

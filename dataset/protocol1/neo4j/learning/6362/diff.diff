@@ -1,0 +1,4 @@
+66c66
+<         this.maxSize = maxSize;
+---
+>         	this.maxSize = maxSize;

@@ -1,0 +1,4 @@
+145c145
+<             assertEquals( BASE_TX_ID, store.txId() );
+---
+>             assertEquals( BASE_TX_ID, store.	txId() );

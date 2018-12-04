@@ -1,0 +1,4 @@
+172c172
+<         return (removedProperties != null && removedProperties.contains( propertyKey ))
+---
+>         return (	removedProperties != null && removedProperties.contains( propertyKey ))

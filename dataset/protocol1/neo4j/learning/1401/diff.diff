@@ -1,0 +1,4 @@
+135c135
+<         String full = "1234:5678:9abc:def0:1234:5678:9abc:def0";
+---
+>         String full 	= "1234:5678:9abc:def0:1234:5678:9abc:def0";

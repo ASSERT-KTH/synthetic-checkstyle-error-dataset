@@ -1,0 +1,4 @@
+42c42
+<     long checkPointIfNeeded( TriggerInfo triggerInfo ) throws IOException;
+---
+>     long checkPointIfNeeded( TriggerInfo 	triggerInfo ) throws IOException;

@@ -1,0 +1,4 @@
+109c109
+<         plugins = new DefaultPluginManager( logProvider );
+---
+>         plugins = new DefaultPluginManager ( logProvider );

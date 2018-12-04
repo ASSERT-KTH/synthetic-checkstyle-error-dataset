@@ -1,0 +1,5 @@
+55c55,56
+<         return metadata.equals( that.metadata );
+---
+>         return metadata.equals
+> ( that.metadata );

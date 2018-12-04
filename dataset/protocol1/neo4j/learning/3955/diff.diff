@@ -1,0 +1,5 @@
+708,709c708
+<         }
+<         return value( 0 );
+---
+>         }        return value( 0 );

@@ -1,0 +1,5 @@
+53c53,54
+< public class ReversedMultiFileTransactionCursor implements TransactionCursor
+---
+> public class ReversedMultiFileTransactionCursor implements 
+> TransactionCursor

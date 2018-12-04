@@ -1,0 +1,4 @@
+33c33
+< public class TestLengthyArrayPacking extends AbstractNeo4jTestCase
+---
+> public 	class TestLengthyArrayPacking extends AbstractNeo4jTestCase

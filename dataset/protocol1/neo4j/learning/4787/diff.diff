@@ -1,0 +1,4 @@
+41c41
+<         char[] hexChars = new char[bytes.length * 2];
+---
+>         char[] hexChars= new char[bytes.length * 2];

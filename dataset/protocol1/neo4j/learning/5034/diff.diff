@@ -1,0 +1,4 @@
+44c44
+<         graph.setCurrentRelType( MyRelTypes.R1 );
+---
+>         graph	.setCurrentRelType( MyRelTypes.R1 );

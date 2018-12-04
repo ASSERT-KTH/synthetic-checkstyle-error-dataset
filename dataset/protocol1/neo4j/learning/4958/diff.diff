@@ -1,0 +1,4 @@
+24c24
+< import org.neo4j.logging.NullLog;
+---
+> import org.neo4j.logging.NullLog	;

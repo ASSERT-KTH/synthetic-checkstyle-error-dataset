@@ -1,0 +1,5 @@
+73c73,74
+<     private static ThreadLocal<String> currentTestClassName = new ThreadLocal<>();
+---
+>     private static ThreadLocal<String> currentTestClassName = new ThreadLocal<>
+> ();

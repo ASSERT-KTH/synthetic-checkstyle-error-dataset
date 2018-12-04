@@ -1,0 +1,5 @@
+143c143,144
+<     public void shouldRecoverTransactionWhereManyLabelsAreRemovedInTheFuture() throws Exception
+---
+>     public void 
+> shouldRecoverTransactionWhereManyLabelsAreRemovedInTheFuture() throws Exception

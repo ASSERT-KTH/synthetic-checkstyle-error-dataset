@@ -1,0 +1,5 @@
+119,120c119
+<         when( commandProvider.name() ).thenReturn( name );
+<         when( commandProvider.summary() ).thenReturn( summary );
+---
+>         when( commandProvider.name() ).thenReturn( name );        when( commandProvider.summary() ).thenReturn( summary );

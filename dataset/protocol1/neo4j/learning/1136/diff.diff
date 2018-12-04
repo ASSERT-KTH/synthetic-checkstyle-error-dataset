@@ -1,0 +1,5 @@
+127c127,128
+<         IdContainer idContainer = new IdContainer( fs, file, 5, false );
+---
+>         IdContainer idContainer 
+> = new IdContainer( fs, file, 5, false );

@@ -1,0 +1,4 @@
+45c45
+<         if ( config.get( ServerSettings.console_module_enabled ) )
+---
+>         if ( 	config.get( ServerSettings.console_module_enabled ) )

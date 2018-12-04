@@ -1,0 +1,5 @@
+169c169,170
+<         return ignoreLength ? 0 : Integer.compare( aLength, bLength );
+---
+>         return ignoreLength ? 0 : 
+> Integer.compare( aLength, bLength );

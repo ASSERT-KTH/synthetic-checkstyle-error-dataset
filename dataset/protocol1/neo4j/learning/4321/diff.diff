@@ -1,0 +1,4 @@
+54c54
+<         try ( Transaction tx = graphDb.beginTx() )
+---
+>         try ( 	Transaction tx = graphDb.beginTx() )

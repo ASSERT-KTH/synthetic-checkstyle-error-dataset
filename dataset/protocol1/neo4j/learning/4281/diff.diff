@@ -1,0 +1,4 @@
+54c54
+<         File storeDir = testDirectory.storeDir("notAbsolute");
+---
+>         File storeDir =testDirectory.storeDir("notAbsolute");

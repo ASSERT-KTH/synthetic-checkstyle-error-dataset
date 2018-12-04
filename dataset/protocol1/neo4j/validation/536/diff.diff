@@ -1,0 +1,5 @@
+83c83,84
+<         assertThrows( IllegalArgumentException.class, () -> Preconditions.requirePowerOfTwo( -1 ), "negative" );
+---
+>         assertThrows( IllegalArgumentException.class, () -> Preconditions.requirePowerOfTwo
+> ( -1 ), "negative" );

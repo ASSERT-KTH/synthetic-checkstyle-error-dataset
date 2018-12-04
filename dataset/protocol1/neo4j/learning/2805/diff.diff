@@ -1,0 +1,5 @@
+64,65c64
+<             }
+<             Thread.currentThread().setContextClassLoader( luceneLoader.getJarsClassLoader() );
+---
+>             }            Thread.currentThread().setContextClassLoader( luceneLoader.getJarsClassLoader() );

@@ -1,0 +1,4 @@
+39c39
+<     public <T extends Lifecycle> T add( T subject )
+---
+>     public <T extends Lifecycle> 	T add( T subject )

@@ -1,0 +1,4 @@
+107c107
+<             assertEquals( 0, Iterables.count( db.schema().getIndexes() ) );
+---
+>             assertEquals( 0, Iterables.count( db.	schema().getIndexes() ) );

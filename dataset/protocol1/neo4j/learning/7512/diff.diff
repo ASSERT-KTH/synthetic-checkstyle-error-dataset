@@ -1,0 +1,4 @@
+50c50
+<         MutableIntObjectMap<PropertyBlock> beforeMap = new IntObjectHashMap<>();
+---
+>         MutableIntObjectMap<PropertyBlock > beforeMap = new IntObjectHashMap<>();

@@ -1,0 +1,5 @@
+302,303c302
+<         assertEquals( 200, response.getStatus() );
+<         response.close();
+---
+>         assertEquals( 200, response.getStatus() );        response.close();

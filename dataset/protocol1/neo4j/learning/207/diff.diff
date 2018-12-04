@@ -1,0 +1,5 @@
+79,80c79
+<         String entity = json.assemble( new MappingRepresentation( "empty" )
+<         {
+---
+>         String entity = json.assemble( new MappingRepresentation( "empty" )        {

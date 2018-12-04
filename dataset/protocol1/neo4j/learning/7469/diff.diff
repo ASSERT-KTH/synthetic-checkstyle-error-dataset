@@ -1,0 +1,4 @@
+95c95
+<     public void messageSucceeded() throws IOException
+---
+>     public void messageSucceeded() 	throws IOException

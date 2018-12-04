@@ -1,0 +1,5 @@
+71c71,72
+<         public PageCacheConfig withInconsistentReads( boolean inconsistentReads )
+---
+>         
+> public PageCacheConfig withInconsistentReads( boolean inconsistentReads )

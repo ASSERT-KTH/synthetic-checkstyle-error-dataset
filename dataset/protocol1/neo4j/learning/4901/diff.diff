@@ -1,0 +1,5 @@
+130c130,131
+<     public static RelationshipTypeTokenCommand createRelationshipTypeToken( int id, int nameId )
+---
+>     public static RelationshipTypeTokenCommand createRelationshipTypeToken( int 
+> id, int nameId )

@@ -1,0 +1,5 @@
+214c214,215
+<         if ( lhs instanceof NumberValue && rhs instanceof NumberValue )
+---
+>         if 
+> ( lhs instanceof NumberValue && rhs instanceof NumberValue )

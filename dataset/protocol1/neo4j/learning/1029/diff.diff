@@ -1,0 +1,5 @@
+119c119,120
+<                 iterator( closeCounter::incrementAndGet, secondIter ) );
+---
+>                 iterator( closeCounter::incrementAndGet, secondIter ) 
+> );

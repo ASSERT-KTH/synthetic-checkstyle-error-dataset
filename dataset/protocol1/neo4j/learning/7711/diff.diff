@@ -1,0 +1,4 @@
+47c47
+<         public void withScope( Function<String,String> scopingRule )
+---
+>         public void withScope( Function<String,	String> scopingRule )

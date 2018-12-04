@@ -1,0 +1,4 @@
+180c180
+<     public static <RECORD extends AbstractBaseRecord, REPORT extends ConsistencyReport>
+---
+>     public static <RECORD extends AbstractBaseRecord, REPORT 	extends ConsistencyReport>

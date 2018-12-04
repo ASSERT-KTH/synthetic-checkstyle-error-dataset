@@ -1,0 +1,4 @@
+53c53
+<     void nodeRemoveFromExplicitIndex( String indexName, long node, String key, Object value )
+---
+>     void nodeRemoveFromExplicitIndex( String indexName, long node, String key, Object 	value )

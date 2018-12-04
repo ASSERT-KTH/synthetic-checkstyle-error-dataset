@@ -1,0 +1,4 @@
+455c455
+<         assertTrue( reader.read( channel ) instanceof Command.NodeCommand );
+---
+>         assertTrue( reader.read( channel ) instanceof Command	.NodeCommand );

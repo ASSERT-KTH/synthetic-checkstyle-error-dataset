@@ -1,0 +1,4 @@
+36c36
+<     private final Predicate<T> predicate;
+---
+>     private final 	Predicate<T> predicate;

@@ -1,0 +1,4 @@
+35c35
+< import org.neo4j.kernel.impl.api.index.sampling.IndexSamplingMode;
+---
+> 	import org.neo4j.kernel.impl.api.index.sampling.IndexSamplingMode;

@@ -1,0 +1,5 @@
+181,182c181
+<         String hostname1 = InetAddress.getLocalHost().getHostName().replace( '.', '-' );
+<         String host1 = InetAddress.getLocalHost().getHostAddress();
+---
+>         String hostname1 = InetAddress.getLocalHost().getHostName().replace( '.', '-' );        String host1 = InetAddress.getLocalHost().getHostAddress();

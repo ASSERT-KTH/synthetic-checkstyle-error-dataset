@@ -1,0 +1,5 @@
+1126,1127c1126
+<         final String key = "somekey";
+<         String value = "somevalue";
+---
+>         final String key = "somekey";        String value = "somevalue";

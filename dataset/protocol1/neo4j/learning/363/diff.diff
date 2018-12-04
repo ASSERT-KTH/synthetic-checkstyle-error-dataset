@@ -1,0 +1,5 @@
+180,181c180
+<         verifyConvertsValue( expectedNodeList, nodeList );
+<         verifyConvertsValue( expectedRelationshipList, relationshipList );
+---
+>         verifyConvertsValue( expectedNodeList, nodeList );        verifyConvertsValue( expectedRelationshipList, relationshipList );

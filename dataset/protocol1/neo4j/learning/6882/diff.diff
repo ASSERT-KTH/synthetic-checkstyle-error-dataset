@@ -1,0 +1,4 @@
+28c28
+<     void receivePanic( Throwable cause );
+---
+>     void receivePanic( Throwable cause )	;

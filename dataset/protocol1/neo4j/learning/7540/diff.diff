@@ -1,0 +1,4 @@
+144c144
+<         List<InternalIndexState> states = Iterables.asList( statesIterable );
+---
+>         List<InternalIndexState> states = Iterables.asList( statesIterable )	;

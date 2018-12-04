@@ -1,0 +1,5 @@
+321,322c321
+<     public void shouldSeeEntriesWhenOnlyLowestIsPresent()
+<     {
+---
+>     public void shouldSeeEntriesWhenOnlyLowestIsPresent()    {

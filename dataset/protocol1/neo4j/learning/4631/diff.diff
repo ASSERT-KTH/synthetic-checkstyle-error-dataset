@@ -1,0 +1,4 @@
+131c131
+<                 Values.pointValue( WGS84, 0, 0 ),
+---
+>                 Values.pointValue( WGS84, 0, 0 )	,

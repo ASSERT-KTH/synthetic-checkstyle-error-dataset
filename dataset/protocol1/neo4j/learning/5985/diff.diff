@@ -1,0 +1,4 @@
+45c45
+<     public static <T> Cursor<T> cursor( final T... items )
+---
+>     public static <T> Cursor<T> cursor( final 	T... items )

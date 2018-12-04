@@ -1,0 +1,5 @@
+69,70c69
+<         ) );
+<         OutputFormat format = new OutputFormat( new JsonFormat(), new URI( "http://localhost/" ), null );
+---
+>         ) );        OutputFormat format = new OutputFormat( new JsonFormat(), new URI( "http://localhost/" ), null );

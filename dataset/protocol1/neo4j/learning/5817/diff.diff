@@ -1,0 +1,4 @@
+30c30
+<     WritableFulltextIndex( IndexUpdateSink indexUpdateSink, LuceneFulltextIndex fulltextIndex )
+---
+>     WritableFulltextIndex ( IndexUpdateSink indexUpdateSink, LuceneFulltextIndex fulltextIndex )

@@ -1,0 +1,5 @@
+325,326c325
+<             MappingWriter propertiesWriter = crsWriter.newMapping( Representation.MAP, "properties" );
+<             propertiesWriter.writeString( "href", crs.getHref() + "ogcwkt/" );
+---
+>             MappingWriter propertiesWriter = crsWriter.newMapping( Representation.MAP, "properties" );            propertiesWriter.writeString( "href", crs.getHref() + "ogcwkt/" );

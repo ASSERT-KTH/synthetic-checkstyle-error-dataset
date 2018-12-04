@@ -1,0 +1,5 @@
+311,312c311
+<             public Object beforeCommit( TransactionData data ) throws Exception
+<             {
+---
+>             public Object beforeCommit( TransactionData data ) throws Exception            {

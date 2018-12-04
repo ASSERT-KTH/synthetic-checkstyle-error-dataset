@@ -1,0 +1,5 @@
+189c189,190
+<     void close() throws IOException;
+---
+>     void close
+> () throws IOException;

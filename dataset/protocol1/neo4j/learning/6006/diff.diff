@@ -1,0 +1,4 @@
+29c29
+<     StructureBuilder<Input,Result> add( String field, Input value );
+---
+>     StructureBuilder<Input,	Result> add( String field, Input value );

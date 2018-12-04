@@ -1,0 +1,4 @@
+67c67
+<         when( context.connectionState() ).thenReturn( connectionState );
+---
+>         when( context.connectionState () ).thenReturn( connectionState );

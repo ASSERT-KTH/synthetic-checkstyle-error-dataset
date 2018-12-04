@@ -1,0 +1,5 @@
+46c46,47
+<     private final InputEntity entity = new InputEntity();
+---
+>     private final InputEntity entity = new 
+> InputEntity();

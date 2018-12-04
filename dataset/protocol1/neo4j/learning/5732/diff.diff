@@ -1,0 +1,5 @@
+58,59c58
+<     QueueDistribution RELATIONSHIPS = new QueueDistribution()
+<     {
+---
+>     QueueDistribution RELATIONSHIPS = new QueueDistribution()    {

@@ -1,0 +1,4 @@
+44c44
+<     public String getUserMessage( TokenNameLookup tokenNameLookup )
+---
+>     public String getUserMessage( TokenNameLookup tokenNameLookup 	)

@@ -1,0 +1,4 @@
+101c101
+<     public String genericInput01( @Name( "foo" ) List<String> input )
+---
+>     public 	String genericInput01( @Name( "foo" ) List<String> input )

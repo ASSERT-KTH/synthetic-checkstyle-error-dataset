@@ -1,0 +1,4 @@
+52c52
+<         assertEquals( PullAllMessage.INSTANCE, decoder.decode( mock( Unpacker.class ) ) );
+---
+>         assertEquals( PullAllMessage.INSTANCE, decoder.decode( mock( Unpacker.	class ) ) );

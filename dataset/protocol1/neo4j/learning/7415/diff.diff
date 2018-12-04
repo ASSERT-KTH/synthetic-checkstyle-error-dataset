@@ -1,0 +1,4 @@
+34c34
+<     void target( NodeCursor cursor );
+---
+>     void target( 	NodeCursor cursor );

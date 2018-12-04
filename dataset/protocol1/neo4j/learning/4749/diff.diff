@@ -1,0 +1,5 @@
+1291,1292c1291
+<         try ( Transaction tx = graph.beginTx() )
+<         {
+---
+>         try ( Transaction tx = graph.beginTx() )        {

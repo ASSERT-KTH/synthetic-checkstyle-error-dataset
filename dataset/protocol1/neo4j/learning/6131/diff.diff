@@ -1,0 +1,4 @@
+206c206
+<         Set<T> added = added( true ); // we're doing both add and remove on it, so pass in true
+---
+>         Set<T> added = added( true )	; // we're doing both add and remove on it, so pass in true

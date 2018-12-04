@@ -1,0 +1,4 @@
+27c27
+<     long readLong( long offset );
+---
+>     long readLong(long offset );

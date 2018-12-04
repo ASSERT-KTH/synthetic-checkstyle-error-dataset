@@ -1,0 +1,5 @@
+39c39,40
+<         ExecutorService executor = Executors.newSingleThreadExecutor(  );
+---
+>         ExecutorService executor = Executors.newSingleThreadExecutor
+> (  );

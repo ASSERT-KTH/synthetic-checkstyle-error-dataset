@@ -1,0 +1,4 @@
+35c35
+<     public static List<Value[]> valueTupleList( Object... objects )
+---
+>     public static List<Value[]> valueTupleList(Object... objects )

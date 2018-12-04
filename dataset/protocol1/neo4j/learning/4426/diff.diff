@@ -1,0 +1,5 @@
+24c24,25
+<     public BufferOverflowException( String msg )
+---
+>     
+> public BufferOverflowException( String msg )

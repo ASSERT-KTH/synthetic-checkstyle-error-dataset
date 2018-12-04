@@ -1,0 +1,4 @@
+185c185
+<         FieldMapper[] fieldMappers = new FieldMapper[fields.size()];
+---
+>         FieldMapper[] fieldMappers = new FieldMapper	[fields.size()];

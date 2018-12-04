@@ -1,0 +1,5 @@
+57c57,58
+<         verify( monitor ).drained( connection, batch );
+---
+>         verify( monitor ).drained( connection, batch 
+> );

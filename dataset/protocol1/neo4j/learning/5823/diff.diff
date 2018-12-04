@@ -1,0 +1,4 @@
+51c51
+<         elementTestUtils = new ElementTestUtils( compilationRule );
+---
+>         elementTestUtils = 	new ElementTestUtils( compilationRule );

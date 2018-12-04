@@ -1,0 +1,5 @@
+207c207,208
+<                 logFile( start(), commit( txId - 1 ), position ),
+---
+>                 logFile( start(), commit( txId - 1 
+> ), position ),

@@ -1,0 +1,4 @@
+91c91
+<             data[i] = data[i] | other.data[i];
+---
+>             data[i] = data	[i] | other.data[i];

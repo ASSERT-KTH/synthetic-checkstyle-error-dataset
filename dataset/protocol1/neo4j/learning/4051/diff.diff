@@ -1,0 +1,4 @@
+77c77
+<         doThrow( new RuntimeException( "Just a random failure" ) ).when( kernelTransaction ).close();
+---
+>         doThrow( new RuntimeException( "Just a random failure" ) ).when( kernelTransaction )	.close();

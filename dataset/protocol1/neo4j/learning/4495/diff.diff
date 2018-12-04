@@ -1,0 +1,5 @@
+140,141c140
+<     public Stream<Records.SimpleTypesWrapper> simpleInput17( @Name( "foo" ) Object input )
+<     {
+---
+>     public Stream<Records.SimpleTypesWrapper> simpleInput17( @Name( "foo" ) Object input )    {

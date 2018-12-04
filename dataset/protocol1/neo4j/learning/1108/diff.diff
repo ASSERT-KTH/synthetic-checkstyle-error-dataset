@@ -1,0 +1,4 @@
+28c28
+< import org.neo4j.kernel.impl.util.DependencySatisfier;
+---
+> import org.	neo4j.kernel.impl.util.DependencySatisfier;

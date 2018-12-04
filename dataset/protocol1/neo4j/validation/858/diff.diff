@@ -1,0 +1,4 @@
+46c46
+<             settings.put( crs, SpaceFillingCurveSettingsFactory.fromConfig( this.maxBits, entry.getValue() ) );
+---
+>             settings.put( crs, SpaceFillingCurveSettingsFactory.fromConfig( this.maxBits, entry.getValue() 	) );

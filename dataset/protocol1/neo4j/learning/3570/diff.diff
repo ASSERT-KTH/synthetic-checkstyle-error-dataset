@@ -1,0 +1,5 @@
+314c314,315
+<     public void setOffset( int offset )
+---
+>     public 
+> void setOffset( int offset )

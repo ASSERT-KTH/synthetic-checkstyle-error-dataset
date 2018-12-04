@@ -1,0 +1,4 @@
+76c76
+<                 GraphDatabaseDependencies.newDependencies().userLogProvider( logProvider ) );
+---
+>                 GraphDatabaseDependencies.newDependencies(	).userLogProvider( logProvider ) );

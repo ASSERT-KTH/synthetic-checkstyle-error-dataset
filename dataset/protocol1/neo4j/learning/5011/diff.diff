@@ -1,0 +1,4 @@
+26c26
+<     public UnavailableException( String message )
+---
+>     public UnavailableException( 	String message )

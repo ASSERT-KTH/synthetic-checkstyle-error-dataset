@@ -1,0 +1,4 @@
+30c30
+< import org.neo4j.logging.FormattedLogProvider;
+---
+> import org.neo4j.logging.FormattedLogProvider	;

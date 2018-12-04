@@ -1,0 +1,5 @@
+42,43c42
+<     public Flushable prepareForFlush()
+<     {
+---
+>     public Flushable prepareForFlush()    {

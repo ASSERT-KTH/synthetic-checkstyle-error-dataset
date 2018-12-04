@@ -1,0 +1,5 @@
+48,49c48
+<         createDestination( databaseDestination );
+<         createDestination( transactionLogsDirectory );
+---
+>         createDestination( databaseDestination );        createDestination( transactionLogsDirectory );

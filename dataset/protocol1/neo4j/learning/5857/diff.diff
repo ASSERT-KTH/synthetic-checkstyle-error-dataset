@@ -1,0 +1,5 @@
+32c32,33
+<     boolean visited( long value ) throws E;
+---
+>     boolean visited
+> ( long value ) throws E;

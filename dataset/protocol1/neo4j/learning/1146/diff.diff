@@ -1,0 +1,5 @@
+140,141c140
+<     PrimitiveLongResourceIterator augment( PrimitiveLongResourceIterator elements );
+< }
+---
+>     PrimitiveLongResourceIterator augment( PrimitiveLongResourceIterator elements );}

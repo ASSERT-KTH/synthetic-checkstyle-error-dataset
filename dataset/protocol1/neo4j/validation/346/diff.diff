@@ -1,0 +1,4 @@
+91c91
+<                 super.getRecordByCursor( id, target, mode, cursor );
+---
+>                 super.getRecordByCursor( 	id, target, mode, cursor );

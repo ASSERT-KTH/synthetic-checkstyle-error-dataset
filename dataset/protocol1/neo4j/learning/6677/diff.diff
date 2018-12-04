@@ -1,0 +1,4 @@
+54c54
+<             result.put( method.name(), method );
+---
+>             result	.put( method.name(), method );

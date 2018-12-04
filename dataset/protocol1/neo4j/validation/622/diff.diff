@@ -1,0 +1,4 @@
+138c138
+<             return name.startsWith( "META-INF/services" ) ? super.getResourceAsStream( "test/" + name )
+---
+>             return name.startsWith( "META-INF/services" ) ? 	super.getResourceAsStream( "test/" + name )

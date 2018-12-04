@@ -1,0 +1,4 @@
+28c28
+<         super( format( "Current record format does not support %s. " +
+---
+>         super( format( "Current record format does not support %s. " 	+

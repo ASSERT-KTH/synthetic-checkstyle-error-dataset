@@ -1,0 +1,4 @@
+30c30
+<     protected KernelException( Status statusCode, Throwable cause, String message, Object... parameters )
+---
+>     protected KernelException( Status statusCode, Throwable cause, String message, Object... parameters 	)

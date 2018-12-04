@@ -1,0 +1,5 @@
+65c65,66
+<     private void assertOpen()
+---
+>     private void 
+> assertOpen()

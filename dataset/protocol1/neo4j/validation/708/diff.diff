@@ -1,0 +1,4 @@
+51c51
+<         int diff = (int) (number - baseNumber);
+---
+>         int diff = (int ) (number - baseNumber);

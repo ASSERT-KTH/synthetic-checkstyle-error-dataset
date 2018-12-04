@@ -1,0 +1,4 @@
+47c47
+<         return timezone == null ? TimeValue.now( clock, defaultZone ) : TimeValue.now( clock, timezone );
+---
+>         return timezone == null ? TimeValue.now( clock	, defaultZone ) : TimeValue.now( clock, timezone );

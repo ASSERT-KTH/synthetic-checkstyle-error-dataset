@@ -1,0 +1,5 @@
+156,157c156
+< import static org.neo4j.logging.AssertableLogProvider.inLog;
+< import static org.neo4j.register.Registers.newDoubleLongRegister;
+---
+> import static org.neo4j.logging.AssertableLogProvider.inLog;import static org.neo4j.register.Registers.newDoubleLongRegister;

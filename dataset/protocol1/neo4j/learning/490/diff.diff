@@ -1,0 +1,5 @@
+31c31,32
+<     void assertSchemaWritesAllowed() throws InvalidTransactionTypeKernelException;
+---
+>     void assertSchemaWritesAllowed
+> () throws InvalidTransactionTypeKernelException;

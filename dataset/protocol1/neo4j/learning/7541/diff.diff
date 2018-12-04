@@ -1,0 +1,5 @@
+33c33,34
+<     boolean visited( int value ) throws E;
+---
+>     boolean visited( int value 
+> ) throws E;

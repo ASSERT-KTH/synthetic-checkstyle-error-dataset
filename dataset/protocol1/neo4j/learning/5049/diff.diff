@@ -1,0 +1,4 @@
+51c51
+<         proxy.getLong();
+---
+>         proxy	.getLong();

@@ -1,0 +1,4 @@
+55c55
+<                 .in( "in", Neo4jTypes.NTList( Neo4jTypes.NTString ) )
+---
+>                 .	in( "in", Neo4jTypes.NTList( Neo4jTypes.NTString ) )

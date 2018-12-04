@@ -1,0 +1,5 @@
+85c85,86
+<     void copyFile( File from, File to ) throws IOException;
+---
+>     void copyFile( File 
+> from, File to ) throws IOException;

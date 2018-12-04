@@ -1,0 +1,4 @@
+75c75
+<                 while ( !Record.NULL_REFERENCE.is( nextProp ) )
+---
+>                 while ( !Record	.NULL_REFERENCE.is( nextProp ) )

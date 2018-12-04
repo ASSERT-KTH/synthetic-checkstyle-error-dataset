@@ -1,0 +1,4 @@
+114c114
+<     public synchronized void storeIndexFailure( String failure ) throws IOException
+---
+>     public synchronized void storeIndexFailure(String failure ) throws IOException

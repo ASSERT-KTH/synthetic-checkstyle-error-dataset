@@ -1,0 +1,4 @@
+150c150
+<         System.arraycopy( data, 0, result, 0, result.length );
+---
+>         System.arraycopy( data, 0, result	, 0, result.length );

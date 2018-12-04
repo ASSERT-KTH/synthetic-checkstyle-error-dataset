@@ -1,0 +1,5 @@
+50,51c50
+<         this.labelId = labelId;
+<         this.idRange = idRange;
+---
+>         this.labelId = labelId;        this.idRange = idRange;

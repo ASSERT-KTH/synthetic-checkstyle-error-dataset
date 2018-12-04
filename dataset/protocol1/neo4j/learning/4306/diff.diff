@@ -1,0 +1,4 @@
+51c51
+<     private static final ExecutionMonitor INVISIBLE = new ExecutionMonitor()
+---
+>     private 	static final ExecutionMonitor INVISIBLE = new ExecutionMonitor()

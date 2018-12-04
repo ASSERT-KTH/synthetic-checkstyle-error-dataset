@@ -1,0 +1,4 @@
+469c469
+<         public abstract void processNode( RecordStore<NodeRecord> store, NodeRecord node ) throws FAILURE;
+---
+>         public abstract void processNode( RecordStore<NodeRecord> store, 	NodeRecord node ) throws FAILURE;

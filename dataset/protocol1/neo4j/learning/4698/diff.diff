@@ -1,0 +1,5 @@
+45c45,46
+<         return "IndexEntry[nodeId=" + getId() + "]";
+---
+>         return "IndexEntry[nodeId=" + 
+> getId() + "]";

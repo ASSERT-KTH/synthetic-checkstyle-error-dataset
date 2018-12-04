@@ -1,0 +1,5 @@
+167,168c167
+<             assertNotComposite( predicates );
+<             IndexQuery.StringPrefixPredicate spp = (IndexQuery.StringPrefixPredicate) predicate;
+---
+>             assertNotComposite( predicates );            IndexQuery.StringPrefixPredicate spp = (IndexQuery.StringPrefixPredicate) predicate;

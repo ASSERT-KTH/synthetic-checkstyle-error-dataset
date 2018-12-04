@@ -1,0 +1,5 @@
+72c72,73
+<     void copyValue( GenericKey to, GenericKey from )
+---
+>     void copyValue( GenericKey to, 
+> GenericKey from )

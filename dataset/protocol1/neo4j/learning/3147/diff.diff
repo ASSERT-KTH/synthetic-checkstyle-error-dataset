@@ -1,0 +1,4 @@
+70c70
+<     boolean seen( long number, long[] meta );
+---
+>     boolean seen( long number, long[	] meta );

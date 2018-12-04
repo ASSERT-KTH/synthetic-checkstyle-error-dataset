@@ -1,0 +1,4 @@
+34c34
+< public interface Statement extends Resource, ResourceManager
+---
+> public interface Statement extends 	Resource, ResourceManager

@@ -1,0 +1,5 @@
+40c40,41
+<     public static long pageIdForRecord( long id, int pageSize, int recordSize )
+---
+>     public 
+> static long pageIdForRecord( long id, int pageSize, int recordSize )

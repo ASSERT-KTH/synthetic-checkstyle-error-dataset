@@ -1,0 +1,5 @@
+37,38c37
+<             private long first = initialFirst;
+<             private long second = initialSecond;
+---
+>             private long first = initialFirst;            private long second = initialSecond;

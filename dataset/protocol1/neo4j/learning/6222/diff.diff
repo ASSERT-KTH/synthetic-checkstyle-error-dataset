@@ -1,0 +1,4 @@
+105c105
+<     private DeadState( KeyFormat<Key> keys, ActiveState.Factory stateFactory, VersionContextSupplier versionContextSupplier )
+---
+>     private DeadState( KeyFormat<Key> keys, ActiveState.Factory stateFactory, VersionContextSupplier versionContextSupplier)

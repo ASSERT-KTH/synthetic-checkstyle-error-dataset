@@ -1,0 +1,4 @@
+158c158
+<         public IndexHits<Relationship> query( KernelTransaction ktx, String name, String key, Object queryOrQueryObject,
+---
+>         public IndexHits<Relationship> query( KernelTransaction ktx, String name, String key, 	Object queryOrQueryObject,

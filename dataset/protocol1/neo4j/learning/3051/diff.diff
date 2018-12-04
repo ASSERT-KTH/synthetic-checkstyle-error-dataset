@@ -1,0 +1,4 @@
+77c77
+<         when( indexProxy.getState() ).thenReturn( POPULATING );
+---
+>         when( indexProxy.getState() ).thenReturn( POPULATING 	);

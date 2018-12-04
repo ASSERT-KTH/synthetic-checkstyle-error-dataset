@@ -1,0 +1,5 @@
+45c45,46
+< import static org.neo4j.commandline.Util.isSameOrChildPath;
+---
+> import static 
+> org.neo4j.commandline.Util.isSameOrChildPath;

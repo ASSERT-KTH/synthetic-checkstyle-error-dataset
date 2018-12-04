@@ -1,0 +1,5 @@
+153c153,154
+<         assertThat( connection, serverImmediatelyDisconnects() );
+---
+>         assertThat( connection, 
+> serverImmediatelyDisconnects() );

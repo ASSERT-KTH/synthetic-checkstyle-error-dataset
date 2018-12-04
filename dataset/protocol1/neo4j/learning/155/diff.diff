@@ -1,0 +1,5 @@
+246c246,247
+<         cursor.getBytes( bytes );
+---
+>         cursor.getBytes( bytes 
+> );

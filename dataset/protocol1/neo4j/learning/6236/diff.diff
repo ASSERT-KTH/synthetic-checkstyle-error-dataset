@@ -1,0 +1,4 @@
+371c371
+<         return getRightArray( readFullByteArray( records, PropertyType.ARRAY ) ).asObject();
+---
+>         return 	getRightArray( readFullByteArray( records, PropertyType.ARRAY ) ).asObject();

@@ -1,0 +1,5 @@
+256c256,257
+<             public StoreChannel open( File fileName, OpenMode openMode ) throws IOException
+---
+>             public StoreChannel open( File fileName, OpenMode openMode 
+> ) throws IOException

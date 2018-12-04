@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "39", "message": "Annotation 'Nonnull' have incorrect indentation level 4, expected level should be 3.", "type": "AnnotationLocation"}

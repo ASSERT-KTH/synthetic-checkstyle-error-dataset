@@ -1,0 +1,5 @@
+31c31,32
+< public class StepStats implements StatsProvider
+---
+> public class StepStats implements 
+> StatsProvider

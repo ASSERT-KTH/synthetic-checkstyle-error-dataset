@@ -1,0 +1,5 @@
+55c55,56
+<         if ( !( o instanceof DelegatingPrincipal) )
+---
+>         if ( !( o 
+> instanceof DelegatingPrincipal) )

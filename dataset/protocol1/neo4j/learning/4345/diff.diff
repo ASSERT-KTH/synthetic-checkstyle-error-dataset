@@ -1,0 +1,5 @@
+288c288,289
+<         assertThat( poolThread.get().getName(), not( containsString( String.format( "[%s]", connection.remoteAddress() ) ) ) );
+---
+>         assertThat( poolThread.get().getName(), not( containsString( String.format( "[%s]", connection.remoteAddress() ) ) ) 
+> );

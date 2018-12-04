@@ -1,0 +1,4 @@
+62c62
+<         fs.renameFile( file, canonicalTarget, options );
+---
+>         fs.renameFile( file, canonicalTarget	, options );

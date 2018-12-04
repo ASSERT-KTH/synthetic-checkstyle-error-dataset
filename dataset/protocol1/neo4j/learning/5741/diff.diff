@@ -1,0 +1,4 @@
+129c129
+<         if ( continueWithLastItem && queue.isEmpty() )
+---
+>         if 	( continueWithLastItem && queue.isEmpty() )

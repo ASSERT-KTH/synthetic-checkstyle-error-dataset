@@ -1,0 +1,5 @@
+40c40,41
+<     public final TestDirectory testDirectory = TestDirectory.testDirectory();
+---
+>     public final TestDirectory testDirectory 
+> = TestDirectory.testDirectory();

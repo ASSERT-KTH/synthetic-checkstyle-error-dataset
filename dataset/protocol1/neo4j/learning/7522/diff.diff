@@ -1,0 +1,4 @@
+49c49
+<     <T> T get( Key<T> key ) throws ProcedureException;
+---
+>     <T> T get( Key<T> key 	) throws ProcedureException;

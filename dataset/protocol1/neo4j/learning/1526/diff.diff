@@ -1,0 +1,5 @@
+26c26,27
+<     public InvalidTransactionTypeKernelException( String message )
+---
+>     
+> public InvalidTransactionTypeKernelException( String message )

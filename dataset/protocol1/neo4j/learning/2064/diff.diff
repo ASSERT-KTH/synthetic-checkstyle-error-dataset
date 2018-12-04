@@ -1,0 +1,4 @@
+54c54
+<         public UserManager getUserManager( AuthSubject authSubject, boolean isUserManager )
+---
+>         public UserManager getUserManager(AuthSubject authSubject, boolean isUserManager )

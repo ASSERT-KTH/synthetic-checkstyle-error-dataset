@@ -1,0 +1,5 @@
+46,47c46
+<         StoreProcessor singlePassProcessor = mock( StoreProcessor.class );
+<         when( singlePassProcessor.getStage() ).thenReturn( Stage.SEQUENTIAL_FORWARD );
+---
+>         StoreProcessor singlePassProcessor = mock( StoreProcessor.class );        when( singlePassProcessor.getStage() ).thenReturn( Stage.SEQUENTIAL_FORWARD );

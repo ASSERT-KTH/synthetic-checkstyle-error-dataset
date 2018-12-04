@@ -1,0 +1,4 @@
+48c48
+<         this.character = character;
+---
+>         	this.character = character;

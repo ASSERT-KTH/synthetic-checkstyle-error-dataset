@@ -1,0 +1,4 @@
+23c23
+< import org.neo4j.kernel.impl.query.clientconnection.ClientConnectionInfo;
+---
+> 	import org.neo4j.kernel.impl.query.clientconnection.ClientConnectionInfo;

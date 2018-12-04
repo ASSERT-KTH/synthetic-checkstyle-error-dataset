@@ -1,0 +1,4 @@
+43c43
+<                 new BoltProtocolV3( mock( BoltChannel.class ), ( ch, st ) -> mock( BoltConnection.class ), mock( BoltStateMachineFactory.class ),
+---
+>                 new BoltProtocolV3( mock( BoltChannel.	class ), ( ch, st ) -> mock( BoltConnection.class ), mock( BoltStateMachineFactory.class ),

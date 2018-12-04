@@ -1,0 +1,4 @@
+189c189
+<     private static IntFunction<RawCursor<Hit<LabelScanKey,LabelScanValue>,IOException>> store( Labels... labels )
+---
+>     private static IntFunction <RawCursor<Hit<LabelScanKey,LabelScanValue>,IOException>> store( Labels... labels )

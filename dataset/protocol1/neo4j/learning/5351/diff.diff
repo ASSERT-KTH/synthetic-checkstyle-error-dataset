@@ -1,0 +1,4 @@
+71c71
+<         assertThat( ( (List<String>) map.get( "var" ) ).get( 1 ), is( "B" ) );
+---
+>         assertThat( ( (List<String>) map.get( "var" ) ).get( 1 ), is( "B" ) 	);

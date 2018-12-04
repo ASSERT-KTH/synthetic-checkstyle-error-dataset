@@ -1,0 +1,4 @@
+40c40
+< import org.neo4j.internal.kernel.api.procs.UserAggregator;
+---
+> import org.neo4j.internal.kernel.api.procs	.UserAggregator;

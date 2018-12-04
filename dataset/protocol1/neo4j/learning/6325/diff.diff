@@ -1,0 +1,5 @@
+486,487c486
+<         assertThat( connection, util.eventuallyReceives( msgFailure( Status.General.InvalidArguments,
+<                 "Old password and new password cannot be the same." ) ) );
+---
+>         assertThat( connection, util.eventuallyReceives( msgFailure( Status.General.InvalidArguments,                "Old password and new password cannot be the same." ) ) );

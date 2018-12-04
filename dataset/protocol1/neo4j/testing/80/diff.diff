@@ -1,0 +1,4 @@
+59c59
+< import static org.neo4j.bolt.v1.runtime.spi.Records.record;
+---
+> import static org.neo4j.bolt.	v1.runtime.spi.Records.record;

@@ -1,0 +1,4 @@
+31c31
+<     Map<String,String> apply( @Nonnull Map<String,String> rawConfiguration, @Nonnull Log log );
+---
+>     Map<String,String>apply( @Nonnull Map<String,String> rawConfiguration, @Nonnull Log log );

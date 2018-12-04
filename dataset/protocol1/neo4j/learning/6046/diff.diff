@@ -1,0 +1,4 @@
+40c40
+<     public static final byte CURRENT_LOG_VERSION = 6;
+---
+>     public static final byte CURRENT_LOG_VERSION 	= 6;

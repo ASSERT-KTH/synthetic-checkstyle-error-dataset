@@ -1,0 +1,5 @@
+129c129,130
+<         assertThat( page2, is( not( 0L ) ) );
+---
+>         assertThat( page2, is( not( 0L 
+> ) ) );

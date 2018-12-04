@@ -1,0 +1,4 @@
+63c63
+<     WritableChannel putLong( long value ) throws IOException;
+---
+>     WritableChannel putLong( 	long value ) throws IOException;

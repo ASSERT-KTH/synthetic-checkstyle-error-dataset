@@ -1,0 +1,5 @@
+42c42,43
+<             assertTrue( GroupReferenceEncoding.isRelationship( GroupReferenceEncoding.encodeRelationship( reference ) ) );
+---
+>             assertTrue( GroupReferenceEncoding.isRelationship( GroupReferenceEncoding.encodeRelationship( 
+> reference ) ) );

@@ -1,0 +1,5 @@
+46c46,47
+<             assertArrayEquals( "1234567\n".toCharArray(), charactersOf( chunk ) );
+---
+>             assertArrayEquals( "1234567\n".toCharArray(), 
+> charactersOf( chunk ) );

@@ -1,0 +1,5 @@
+85c85,86
+<     public static RangePredicate<?> range( int propertyKeyId,
+---
+>     public static RangePredicate<?> 
+> range( int propertyKeyId,

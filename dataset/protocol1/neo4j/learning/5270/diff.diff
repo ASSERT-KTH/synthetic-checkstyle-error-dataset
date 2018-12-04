@@ -1,0 +1,5 @@
+34c34,35
+<     public void corruptedLogFile( long version, Throwable t )
+---
+>     public void corruptedLogFile
+> ( long version, Throwable t )

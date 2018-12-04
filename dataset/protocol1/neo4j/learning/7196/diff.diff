@@ -1,0 +1,5 @@
+45c45,46
+<     void ping() throws IOException
+---
+>     void ping() throws 
+> IOException

@@ -1,0 +1,5 @@
+307c307,308
+<             assertThat( getFloat( address ), is( (float) 1 ) );
+---
+>             
+> assertThat( getFloat( address ), is( (float) 1 ) );

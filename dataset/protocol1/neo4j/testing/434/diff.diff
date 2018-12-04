@@ -1,0 +1,4 @@
+86c86
+<                 if ( nextKeyIndex == -1 || layout.compare( candidate, nextKey ) < 0 )
+---
+>                 if( nextKeyIndex == -1 || layout.compare( candidate, nextKey ) < 0 )

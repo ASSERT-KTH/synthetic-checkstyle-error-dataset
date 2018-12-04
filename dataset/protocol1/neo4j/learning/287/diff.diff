@@ -1,0 +1,4 @@
+31c31
+< import org.neo4j.index.internal.gbptree.Header;
+---
+> import org.neo4j	.index.internal.gbptree.Header;

@@ -1,0 +1,4 @@
+31c31
+<     void acceptUpdate( MultipleIndexPopulator.MultipleIndexUpdater updater, IndexEntryUpdate<?> update,
+---
+>     void acceptUpdate( MultipleIndexPopulator.MultipleIndexUpdater 	updater, IndexEntryUpdate<?> update,

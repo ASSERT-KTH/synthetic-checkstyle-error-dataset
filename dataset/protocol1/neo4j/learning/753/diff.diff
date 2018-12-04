@@ -1,0 +1,4 @@
+39c39
+<     public void setSeed( byte[] seed )
+---
+>     public void setSeed( byte	[] seed )

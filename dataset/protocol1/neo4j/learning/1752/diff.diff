@@ -1,0 +1,5 @@
+29c29,30
+<     IdGenerator open( File filename, int grabSize, IdType idType, LongSupplier highId, long maxId );
+---
+>     IdGenerator open( File filename, int grabSize, IdType idType, LongSupplier 
+> highId, long maxId );

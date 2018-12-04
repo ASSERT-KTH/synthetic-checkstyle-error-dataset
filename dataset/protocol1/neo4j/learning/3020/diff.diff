@@ -1,0 +1,5 @@
+57,58c57
+<             if ( key != nullKey && visitor.visited( (int) key ) )
+<             {
+---
+>             if ( key != nullKey && visitor.visited( (int) key ) )            {

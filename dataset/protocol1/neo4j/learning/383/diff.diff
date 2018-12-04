@@ -1,0 +1,5 @@
+61c61,62
+<     int propertyKeyCreateForName( String propertyKeyName ) throws IllegalTokenNameException;
+---
+>     
+> int propertyKeyCreateForName( String propertyKeyName ) throws IllegalTokenNameException;

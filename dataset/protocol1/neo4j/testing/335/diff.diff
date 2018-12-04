@@ -1,0 +1,5 @@
+188c188,189
+<     public abstract void putShort( int offset, short value );
+---
+>     public abstract 
+> void putShort( int offset, short value );

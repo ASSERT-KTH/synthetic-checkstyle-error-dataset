@@ -1,0 +1,5 @@
+61c61,62
+<         verify( webServer ).addJAXRSClasses( anyListOf( String.class ), anyString(), any() );
+---
+>         verify
+> ( webServer ).addJAXRSClasses( anyListOf( String.class ), anyString(), any() );

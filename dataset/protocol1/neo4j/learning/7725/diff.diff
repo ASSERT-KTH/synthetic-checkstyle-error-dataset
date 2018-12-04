@@ -1,0 +1,4 @@
+80c80
+<     private SnapshotExecutionEngine snapshotEngine( GraphDatabaseCypherService queryService, Config config,
+---
+>     private SnapshotExecutionEngine snapshotEngine ( GraphDatabaseCypherService queryService, Config config,

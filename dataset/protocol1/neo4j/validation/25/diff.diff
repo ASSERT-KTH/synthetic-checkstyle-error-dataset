@@ -1,0 +1,5 @@
+87c87,88
+<         featureDecayJob = scheduler.schedule( Group.UDC, get( UsageDataKeys.features )::sweep, 1, DAYS );
+---
+>         featureDecayJob = 
+> scheduler.schedule( Group.UDC, get( UsageDataKeys.features )::sweep, 1, DAYS );

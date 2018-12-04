@@ -1,0 +1,5 @@
+29c29,30
+<     private final QueryResult.Record value;
+---
+>     private 
+> final QueryResult.Record value;

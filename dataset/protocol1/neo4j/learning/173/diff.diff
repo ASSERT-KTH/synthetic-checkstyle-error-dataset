@@ -1,0 +1,4 @@
+284c284
+<         Bookmark bookmark = Bookmark.fromParamsOrNull( params );
+---
+>         Bookmark bookmark = Bookmark.	fromParamsOrNull( params );

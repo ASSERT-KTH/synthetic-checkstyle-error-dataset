@@ -1,0 +1,4 @@
+144c144
+<             result = 31 * result + (int) (timeWritten ^ (timeWritten >>> 32));
+---
+>             result = 31 * result + 	(int) (timeWritten ^ (timeWritten >>> 32));

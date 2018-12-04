@@ -1,0 +1,4 @@
+43c43
+<                     .header( "WWW-Authenticate", "Basic realm=\"" + e.getRealm() + "\"" )
+---
+>                     .header( "WWW-Authenticate", "Basic realm=\"" + e.getRealm() + 	"\"" )

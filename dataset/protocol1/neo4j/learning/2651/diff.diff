@@ -1,0 +1,4 @@
+145c145
+<         codes[0] = max( inputLength, 1 ) << 25;
+---
+>         codes	[0] = max( inputLength, 1 ) << 25;

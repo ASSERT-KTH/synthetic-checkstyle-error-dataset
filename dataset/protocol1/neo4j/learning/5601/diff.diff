@@ -1,0 +1,5 @@
+48,49c48
+<         this.checkPointer = checkPointer;
+<         this.appender = appender;
+---
+>         this.checkPointer = checkPointer;        this.appender = appender;

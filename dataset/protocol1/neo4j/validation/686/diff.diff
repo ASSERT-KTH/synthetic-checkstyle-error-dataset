@@ -1,0 +1,5 @@
+121,122c121
+<     public void lifeStarts() throws LifecycleException
+<     {
+---
+>     public void lifeStarts() throws LifecycleException    {

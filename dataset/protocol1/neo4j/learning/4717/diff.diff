@@ -1,0 +1,4 @@
+73c73
+<         ThresholdConfigValue value = parse( configValue );
+---
+>         ThresholdConfigValue value = parse ( configValue );

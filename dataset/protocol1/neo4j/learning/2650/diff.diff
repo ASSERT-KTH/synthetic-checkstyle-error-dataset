@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.lucene.index.IndexWriter;
+< import org.apache.lucene.index.SegmentInfos;
+---
+> import org.apache.lucene.index.IndexWriter;import org.apache.lucene.index.SegmentInfos;

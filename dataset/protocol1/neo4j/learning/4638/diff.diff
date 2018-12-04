@@ -1,0 +1,5 @@
+39c39,40
+<     void handle( Header.Entry entry, Object value );
+---
+>     void handle( Header.Entry 
+> entry, Object value );

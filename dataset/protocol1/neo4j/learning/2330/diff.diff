@@ -1,0 +1,4 @@
+24c24
+< class SourceExtractor extends DataExtractor
+---
+> class SourceExtractor extends 	DataExtractor

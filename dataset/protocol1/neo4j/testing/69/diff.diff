@@ -1,0 +1,5 @@
+233,234c233
+<     private static class CountingMonitor implements TransactionTemplate.Monitor
+<     {
+---
+>     private static class CountingMonitor implements TransactionTemplate.Monitor    {

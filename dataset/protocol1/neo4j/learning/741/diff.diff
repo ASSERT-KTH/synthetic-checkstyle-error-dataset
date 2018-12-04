@@ -1,0 +1,4 @@
+27c27
+< import java.util.concurrent.atomic.AtomicBoolean;
+---
+> import java.util.concurrent.atomic	.AtomicBoolean;

@@ -1,0 +1,4 @@
+140c140
+<     public void prepareFolder( File folder ) throws IOException
+---
+>     public void prepareFolder( File folder ) 	throws IOException

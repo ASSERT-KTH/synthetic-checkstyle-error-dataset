@@ -1,0 +1,4 @@
+39c39
+<         try ( LockGroup locks = new LockGroup() )
+---
+>         try ( 	LockGroup locks = new LockGroup() )

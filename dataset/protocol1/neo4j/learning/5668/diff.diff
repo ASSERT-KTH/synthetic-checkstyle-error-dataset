@@ -1,0 +1,4 @@
+100c100
+<                     throw new IllegalArgumentException( entry.toString() );
+---
+>                     throw 	new IllegalArgumentException( entry.toString() );

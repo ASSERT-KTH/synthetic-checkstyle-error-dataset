@@ -1,0 +1,4 @@
+286c286
+<         public void checkReference( RelationshipGroupRecord record, RelationshipRecord referred,
+---
+>         public void checkReference ( RelationshipGroupRecord record, RelationshipRecord referred,

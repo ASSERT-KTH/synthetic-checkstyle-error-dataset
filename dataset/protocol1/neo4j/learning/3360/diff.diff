@@ -1,0 +1,4 @@
+141c141
+<         Collection<DynamicRecord> existingRecords = node.getDynamicLabelRecords();
+---
+>         Collection<DynamicRecord> 	existingRecords = node.getDynamicLabelRecords();

@@ -1,0 +1,5 @@
+27c27,28
+<     abstract class Position extends CursorPosition<Position>
+---
+>     abstract 
+> class Position extends CursorPosition<Position>

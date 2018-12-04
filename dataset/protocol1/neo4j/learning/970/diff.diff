@@ -1,0 +1,5 @@
+98,99c98
+<         final SchemaRead schemaRead = schemaWithIndexes( index );
+<         setUpdates( schemaRead, 1, 1, 1 );
+---
+>         final SchemaRead schemaRead = schemaWithIndexes( index );        setUpdates( schemaRead, 1, 1, 1 );

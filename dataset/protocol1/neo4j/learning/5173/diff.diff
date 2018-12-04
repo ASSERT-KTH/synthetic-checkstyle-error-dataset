@@ -1,0 +1,4 @@
+60c60
+<     void writeBoolean( boolean value ) throws E;
+---
+>     void writeBoolean ( boolean value ) throws E;

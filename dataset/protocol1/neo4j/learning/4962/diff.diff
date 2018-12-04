@@ -1,0 +1,4 @@
+52c52
+<         PathExpander expander = mock( PathExpander.class );
+---
+>         PathExpander expander = mock( 	PathExpander.class );

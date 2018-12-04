@@ -1,0 +1,5 @@
+186c186,187
+<     private boolean isEmptyRange( KEY treeKeyFrom, KEY treeKeyTo )
+---
+>     private boolean 
+> isEmptyRange( KEY treeKeyFrom, KEY treeKeyTo )

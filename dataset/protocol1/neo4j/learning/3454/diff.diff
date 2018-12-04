@@ -1,0 +1,4 @@
+68c68
+<     public Value[] getValues()
+---
+>     public Value[] getValues ()

@@ -1,0 +1,5 @@
+415c415,416
+<     private static String generationComparisonFromResult( long result )
+---
+>     private static String generationComparisonFromResult( long 
+> result )

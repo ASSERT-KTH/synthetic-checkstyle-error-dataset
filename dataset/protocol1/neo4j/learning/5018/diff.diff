@@ -1,0 +1,4 @@
+27c27
+< public interface LogForceWaitEvent extends AutoCloseable
+---
+> public interface LogForceWaitEvent extends 	AutoCloseable

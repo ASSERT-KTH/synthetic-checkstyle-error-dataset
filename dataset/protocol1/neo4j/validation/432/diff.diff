@@ -1,0 +1,4 @@
+41c41
+<     public List<Consumer<MethodEmitter>> actions()
+---
+>     public List<Consumer <MethodEmitter>> actions()

@@ -1,0 +1,4 @@
+52c52
+<         return other.equals( value );
+---
+>         return other.equals( value 	);

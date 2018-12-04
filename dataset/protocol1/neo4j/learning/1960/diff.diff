@@ -1,0 +1,4 @@
+31c31
+< public class FirstItemIterable<T> implements Iterable<T>
+---
+> public class 	FirstItemIterable<T> implements Iterable<T>

@@ -1,0 +1,5 @@
+95,96c95
+<                                            .build();
+<         life.add( logFiles );
+---
+>                                            .build();        life.add( logFiles );

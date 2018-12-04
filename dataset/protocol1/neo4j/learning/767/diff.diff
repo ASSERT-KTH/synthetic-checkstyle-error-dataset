@@ -1,0 +1,5 @@
+122,123c122
+<                 pageSize = cursor.getInt();
+<                 layoutIdentifier = cursor.getLong();
+---
+>                 pageSize = cursor.getInt();                layoutIdentifier = cursor.getLong();

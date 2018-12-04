@@ -1,0 +1,4 @@
+200c200
+<     private QueryExecutionType( Execution execution, QueryType type )
+---
+>     	private QueryExecutionType( Execution execution, QueryType type )

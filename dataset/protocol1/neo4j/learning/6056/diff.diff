@@ -1,0 +1,4 @@
+47c47
+<     public static Matcher<Exception> exception( Class<? extends Exception> type, Matcher<String> message )
+---
+>     public static Matcher <Exception> exception( Class<? extends Exception> type, Matcher<String> message )

@@ -1,0 +1,4 @@
+70c70
+<                     "Found more than one implementation of " + serviceName + ": " + factories );
+---
+>                     "Found more than one implementation of " + serviceName + ": " 	+ factories );

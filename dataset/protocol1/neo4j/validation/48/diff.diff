@@ -1,0 +1,4 @@
+125c125
+<                 Document document = documentRepresentingProperties( entityId, descriptor.propertyNames(), values );
+---
+>                 Document document = documentRepresentingProperties( entityId, descriptor.propertyNames(), values 	);

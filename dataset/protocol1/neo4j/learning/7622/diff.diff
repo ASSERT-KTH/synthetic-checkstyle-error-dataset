@@ -1,0 +1,4 @@
+35c35
+<     public InvalidSettingException( String message )
+---
+>     public InvalidSettingException( String 	message )

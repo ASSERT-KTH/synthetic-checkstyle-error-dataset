@@ -1,0 +1,4 @@
+131c131
+<     static final Value[] EXTREME_CARTESIAN_POINT_3D = new Value[]{
+---
+>     static final Value[] EXTREME_CARTESIAN_POINT_3D 	= new Value[]{

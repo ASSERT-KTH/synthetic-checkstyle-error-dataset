@@ -1,0 +1,4 @@
+77c77
+<         return () -> ref.modify( indexMap ->
+---
+>         	return () -> ref.modify( indexMap ->

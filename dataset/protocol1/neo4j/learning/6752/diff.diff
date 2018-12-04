@@ -1,0 +1,4 @@
+38c38
+<     public RootCauseMatcher( Class<T> rootCause, String message )
+---
+>     public RootCauseMatcher( Class< T> rootCause, String message )

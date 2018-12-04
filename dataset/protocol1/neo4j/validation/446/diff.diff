@@ -1,0 +1,5 @@
+83,84c83
+<     public void executeQueryWithoutRetries() throws QueryExecutionKernelException
+<     {
+---
+>     public void executeQueryWithoutRetries() throws QueryExecutionKernelException    {

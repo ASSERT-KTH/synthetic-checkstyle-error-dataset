@@ -1,0 +1,5 @@
+40c40,41
+<         return data.readByte();
+---
+>         
+> return data.readByte();

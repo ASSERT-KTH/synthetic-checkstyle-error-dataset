@@ -1,0 +1,4 @@
+138c138
+<         assertEquals( 3, nodeList.get( 2 ).getId() );
+---
+>         assertEquals( 3, nodeList.get( 2 ).getId() )	;

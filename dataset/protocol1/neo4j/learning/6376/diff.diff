@@ -1,0 +1,5 @@
+44,45c44
+<         this.visitor = visitor;
+<         this.roughEntityCountProgress = roughEntityCountProgress;
+---
+>         this.visitor = visitor;        this.roughEntityCountProgress = roughEntityCountProgress;

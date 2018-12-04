@@ -1,0 +1,5 @@
+60c60,61
+<         try ( LongCollisionValues values = new LongCollisionValues( factory, 100 ) )
+---
+>         try ( LongCollisionValues values 
+> = new LongCollisionValues( factory, 100 ) )

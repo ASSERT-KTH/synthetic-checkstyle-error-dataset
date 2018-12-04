@@ -1,0 +1,4 @@
+36c36
+< import org.neo4j.graphdb.traversal.TraversalBranch;
+---
+> import org	.neo4j.graphdb.traversal.TraversalBranch;

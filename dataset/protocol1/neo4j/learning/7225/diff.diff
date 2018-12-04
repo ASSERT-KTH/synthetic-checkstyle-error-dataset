@@ -1,0 +1,5 @@
+27,28c27
+<     SchemaRule loadSingleSchemaRule( long ruleId ) throws MalformedSchemaRuleException;
+< }
+---
+>     SchemaRule loadSingleSchemaRule( long ruleId ) throws MalformedSchemaRuleException;}

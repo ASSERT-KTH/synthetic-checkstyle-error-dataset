@@ -1,0 +1,4 @@
+156c156
+<                             long nodeId = randomValues.nextLongValue( totalNodes ).value();
+---
+>                             long nodeId = randomValues.nextLongValue( totalNodes 	).value();

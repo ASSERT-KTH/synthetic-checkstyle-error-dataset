@@ -1,0 +1,4 @@
+57c57
+<         if ( names == null || names.isEmpty() )
+---
+>         if ( names 	== null || names.isEmpty() )

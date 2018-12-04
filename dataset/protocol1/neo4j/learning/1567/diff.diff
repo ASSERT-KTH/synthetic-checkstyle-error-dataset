@@ -1,0 +1,4 @@
+42c42
+<     MetadataCollector( int entriesPerPage, HeaderField<?>[] headerFields, ReadableBuffer expectedFormat )
+---
+>     MetadataCollector( int entriesPerPage, HeaderField <?>[] headerFields, ReadableBuffer expectedFormat )

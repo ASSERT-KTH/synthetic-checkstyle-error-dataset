@@ -1,0 +1,4 @@
+247c247
+<         read.getRecordByCursor( reference, record, RecordLoad.CHECK, pageCursor );
+---
+>         read.getRecordByCursor( reference, record, RecordLoad.CHECK, 	pageCursor );

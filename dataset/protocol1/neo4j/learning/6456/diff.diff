@@ -1,0 +1,5 @@
+41c41,42
+<     TraversalBranch next( TraversalContext metadata );
+---
+>     TraversalBranch next( TraversalContext metadata 
+> );

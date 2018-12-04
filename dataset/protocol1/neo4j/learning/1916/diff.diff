@@ -1,0 +1,4 @@
+118c118
+<         assertCoordinatesEqual( new double[]{30.655691, 104.081602}, row );
+---
+>         assertCoordinatesEqual( new double[]{	30.655691, 104.081602}, row );

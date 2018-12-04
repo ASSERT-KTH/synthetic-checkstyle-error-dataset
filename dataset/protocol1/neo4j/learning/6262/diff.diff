@@ -1,0 +1,4 @@
+40c40
+<     byte INDEX_ADD_RELATIONSHIP_COMMAND = (byte) 12;
+---
+>     byte INDEX_ADD_RELATIONSHIP_COMMAND= (byte) 12;

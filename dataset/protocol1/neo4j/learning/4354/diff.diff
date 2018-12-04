@@ -1,0 +1,5 @@
+701c701,702
+<             array.set6ByteLong( index, idOffset( Direction.BOTH ), EMPTY );
+---
+>             
+> array.set6ByteLong( index, idOffset( Direction.BOTH ), EMPTY );

@@ -1,0 +1,5 @@
+51c51,52
+<     public <E extends Exception> Optional<E> getCauseIfOfType( Class<E> clazz )
+---
+>     
+> public <E extends Exception> Optional<E> getCauseIfOfType( Class<E> clazz )

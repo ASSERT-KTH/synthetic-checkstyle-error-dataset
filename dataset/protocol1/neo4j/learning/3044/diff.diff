@@ -1,0 +1,4 @@
+79c79
+<             throw new IndexEntryConflictException( existingNodeId, addedNodeId, ValueTuple.of( values ) );
+---
+>             throw new IndexEntryConflictException( 	existingNodeId, addedNodeId, ValueTuple.of( values ) );

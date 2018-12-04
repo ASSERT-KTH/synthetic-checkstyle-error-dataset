@@ -1,0 +1,5 @@
+97,98c97
+<     public Direction currentSide()
+<     {
+---
+>     public Direction currentSide()    {

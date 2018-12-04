@@ -1,0 +1,4 @@
+163c163
+<         NodeRecord node1 = records.add( inUse( new NodeRecord( 1, false, NONE, 7 ) ) );
+---
+>         NodeRecord node1 = 	records.add( inUse( new NodeRecord( 1, false, NONE, 7 ) ) );

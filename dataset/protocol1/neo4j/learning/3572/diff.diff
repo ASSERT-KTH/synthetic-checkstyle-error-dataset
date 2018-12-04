@@ -1,0 +1,5 @@
+33c33,34
+<     static File getMigratedFile( File file )
+---
+>     static File getMigratedFile( File 
+> file )

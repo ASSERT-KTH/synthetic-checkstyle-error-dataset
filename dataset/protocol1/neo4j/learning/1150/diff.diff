@@ -1,0 +1,4 @@
+30c30
+<         if ( !fetchNext() )
+---
+>         if ( !fetchNext(	) )

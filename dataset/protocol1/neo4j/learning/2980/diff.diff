@@ -1,0 +1,4 @@
+38c38
+< import org.neo4j.kernel.api.index.NodePropertyAccessor;
+---
+> import org	.neo4j.kernel.api.index.NodePropertyAccessor;

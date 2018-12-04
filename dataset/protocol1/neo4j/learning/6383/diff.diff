@@ -1,0 +1,4 @@
+66c66
+<                 try ( IndexReader reader = indexProxy.newReader() )
+---
+>                 try ( 	IndexReader reader = indexProxy.newReader() )

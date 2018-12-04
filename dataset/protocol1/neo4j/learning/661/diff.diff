@@ -1,0 +1,5 @@
+38,39c38
+<     public void unlock( Channel channel )
+<     {
+---
+>     public void unlock( Channel channel )    {

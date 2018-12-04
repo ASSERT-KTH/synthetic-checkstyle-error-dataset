@@ -1,0 +1,5 @@
+33,34c33
+<             throw new IllegalArgumentException( "Cannot add null locks. See LockService.NOLOCK instead." );
+<         }
+---
+>             throw new IllegalArgumentException( "Cannot add null locks. See LockService.NOLOCK instead." );        }

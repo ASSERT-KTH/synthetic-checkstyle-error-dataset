@@ -1,0 +1,4 @@
+49c49
+<         logTrace( 2, 5, fmt, args );
+---
+>         logTrace( 	2, 5, fmt, args );

@@ -1,0 +1,4 @@
+26c26
+< public interface PrimitiveLongResourceIterator extends LongIterator, Resource
+---
+> public interface PrimitiveLongResourceIterator extends LongIterator, 	Resource

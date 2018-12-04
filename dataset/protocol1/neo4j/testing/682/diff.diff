@@ -1,0 +1,4 @@
+33c33
+<     TimeCheckPointThreshold( long thresholdMillis, Clock clock )
+---
+>     TimeCheckPointThreshold( long thresholdMillis, Clock 	clock )

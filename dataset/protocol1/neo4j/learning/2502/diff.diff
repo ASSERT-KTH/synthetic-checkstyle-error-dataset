@@ -1,0 +1,4 @@
+152c152
+<         return (searchResult & HIT_MASK) == HIT_FLAG;
+---
+>         return 	(searchResult & HIT_MASK) == HIT_FLAG;

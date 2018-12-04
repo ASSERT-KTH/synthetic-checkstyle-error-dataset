@@ -1,0 +1,4 @@
+316c316
+<         index.verifyUniqueness( nodePropertyAccessor, new int[]{PROPERTY_KEY_ID} );
+---
+>         index.verifyUniqueness( nodePropertyAccessor, 	new int[]{PROPERTY_KEY_ID} );

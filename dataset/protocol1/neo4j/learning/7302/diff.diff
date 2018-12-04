@@ -1,0 +1,4 @@
+38c38
+< class CompositeLabelScanValueIterator extends PrimitiveLongBaseIterator implements PrimitiveLongResourceIterator
+---
+> class CompositeLabelScanValueIterator extends PrimitiveLongBaseIterator implements 	PrimitiveLongResourceIterator

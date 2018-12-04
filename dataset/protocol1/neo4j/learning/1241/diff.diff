@@ -1,0 +1,5 @@
+74c74,75
+<                + ", uri=" + uri + ", method=" + method + ", status=" + status + ", entity=" + entity
+---
+>                + ", uri=" + uri + ", method=" + method 
+> + ", status=" + status + ", entity=" + entity

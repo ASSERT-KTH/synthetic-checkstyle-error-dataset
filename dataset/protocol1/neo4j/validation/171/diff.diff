@@ -1,0 +1,5 @@
+45,46c45
+<     public Lifecycle newInstance( KernelContext context, Dependencies dependencies )
+<     {
+---
+>     public Lifecycle newInstance( KernelContext context, Dependencies dependencies )    {

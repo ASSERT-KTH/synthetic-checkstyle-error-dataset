@@ -1,0 +1,4 @@
+54c54
+<         this.luceneIndex = luceneIndex;
+---
+>         this.luceneIndex =luceneIndex;

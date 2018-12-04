@@ -1,0 +1,4 @@
+25c25
+< public class URLAccessValidationError extends Exception
+---
+> public 	class URLAccessValidationError extends Exception

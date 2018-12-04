@@ -1,0 +1,4 @@
+103c103
+<         StringBuilder output1 = new StringBuilder();
+---
+>         StringBuilder output1 = new StringBuilder ();

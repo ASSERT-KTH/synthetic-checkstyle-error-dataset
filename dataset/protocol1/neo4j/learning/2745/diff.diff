@@ -1,0 +1,5 @@
+51c51,52
+<     @Description( "The current version of the Neo4j store logical log." )
+---
+>     @Description( "The current version of the Neo4j store logical log." 
+> )

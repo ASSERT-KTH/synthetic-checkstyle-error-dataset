@@ -1,0 +1,4 @@
+58c58
+<     private final Lock cacheUpdateLock = new StampedLock().asWriteLock();
+---
+>     private final Lock cacheUpdateLock = new StampedLock ().asWriteLock();

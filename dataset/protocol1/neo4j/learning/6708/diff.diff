@@ -1,0 +1,4 @@
+93c93
+<         assertThrows( IllegalArgumentException.class, () -> converter.apply( "bogus" ) );
+---
+>         assertThrows( IllegalArgumentException.class, () -> converter.apply( "bogus" ) )	;

@@ -1,0 +1,5 @@
+198c198,199
+<         abstract void notInUse( ConsistencyReport.PropertyConsistencyReport report, PropertyRecord property );
+---
+>         abstract void notInUse( 
+> ConsistencyReport.PropertyConsistencyReport report, PropertyRecord property );

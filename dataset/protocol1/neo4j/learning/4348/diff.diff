@@ -1,0 +1,4 @@
+127c127
+<                 visitor.getField( target.materialize( method ), field );
+---
+>                 visitor.getField( target.materialize( method )	, field );

@@ -1,0 +1,4 @@
+518c518
+<                     is( expectedBlock.getSingleValueInt() ) );
+---
+>                     is( expectedBlock.getSingleValueInt() ) )	;

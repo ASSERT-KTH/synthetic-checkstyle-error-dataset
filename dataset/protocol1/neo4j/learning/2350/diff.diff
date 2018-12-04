@@ -1,0 +1,4 @@
+142c142
+<         return parseMeta( format, pageSize, layoutIdentifier, layoutMajorVersion, layoutMinorVersion );
+---
+>         return parseMeta( format, pageSize, layoutIdentifier, 	layoutMajorVersion, layoutMinorVersion );

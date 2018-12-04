@@ -1,0 +1,4 @@
+79c79
+<     public final boolean equals( boolean x )
+---
+>     public 	final boolean equals( boolean x )

@@ -1,0 +1,5 @@
+123c123,124
+<             duplicationValidator.apply( visitedElements ).forEach( messagePrinter::print );
+---
+>             duplicationValidator.apply( visitedElements 
+> ).forEach( messagePrinter::print );

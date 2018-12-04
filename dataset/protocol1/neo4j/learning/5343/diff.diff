@@ -1,0 +1,4 @@
+39c39
+<                 name + " must be an integer value, but was a " + value.getClass().getSimpleName() );
+---
+>                 name +" must be an integer value, but was a " + value.getClass().getSimpleName() );

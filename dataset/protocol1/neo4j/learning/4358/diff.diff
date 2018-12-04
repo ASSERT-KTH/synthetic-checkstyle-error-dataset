@@ -1,0 +1,5 @@
+24c24,25
+<     private static String BAR = "bar";
+---
+>     private static 
+> String BAR = "bar";

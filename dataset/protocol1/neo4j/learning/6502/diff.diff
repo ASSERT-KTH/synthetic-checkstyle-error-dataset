@@ -1,0 +1,5 @@
+152,153c152
+<                 }
+<                 degreeTwoNode.createRelationshipTo( leafNode, TestRelationshipType.CONNECTED );
+---
+>                 }                degreeTwoNode.createRelationshipTo( leafNode, TestRelationshipType.CONNECTED );

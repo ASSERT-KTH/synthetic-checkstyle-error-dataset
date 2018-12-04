@@ -1,0 +1,5 @@
+1090,1091c1090
+<             group.loops( traversal );
+<             break;
+---
+>             group.loops( traversal );            break;

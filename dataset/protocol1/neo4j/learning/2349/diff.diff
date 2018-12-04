@@ -1,0 +1,4 @@
+64c64
+<     FulltextIndexTransactionStateVisitor( FulltextIndexDescriptor descriptor, MutableLongSet modifiedEntityIdsInThisTransaction,
+---
+>     FulltextIndexTransactionStateVisitor( FulltextIndexDescriptor descriptor, MutableLongSet 	modifiedEntityIdsInThisTransaction,

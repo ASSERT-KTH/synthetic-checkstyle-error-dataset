@@ -1,0 +1,4 @@
+185c185
+<         write.nodeAddLabel( node, tx.tokenWrite().labelGetOrCreateForName( "Node" ) );
+---
+>         write.nodeAddLabel( node, tx	.tokenWrite().labelGetOrCreateForName( "Node" ) );

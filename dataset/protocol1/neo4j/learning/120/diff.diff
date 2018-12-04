@@ -1,0 +1,4 @@
+45c45
+<         return methodsByName.get( name );
+---
+>         return methodsByName.get( name )	;

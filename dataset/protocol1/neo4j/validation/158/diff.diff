@@ -1,0 +1,4 @@
+84c84
+<         assertThat( counter.get(), equalTo( 1 ) );
+---
+>         assertThat( 	counter.get(), equalTo( 1 ) );

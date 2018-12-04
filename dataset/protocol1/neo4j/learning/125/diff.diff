@@ -1,0 +1,4 @@
+68c68
+<     protected ResourceIterator<Relationship> expandRelationshipsWithoutChecks( PathExpander expander )
+---
+>     protected ResourceIterator<Relationship> expandRelationshipsWithoutChecks( PathExpander 	expander )

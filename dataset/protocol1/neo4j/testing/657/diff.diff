@@ -1,0 +1,4 @@
+56c56
+<         when(tokens.getTokenById( nonIndexedProperty )).thenReturn( new NamedToken( nonIndexedPropertyName, nonIndexedProperty ) );
+---
+>         when(tokens.	getTokenById( nonIndexedProperty )).thenReturn( new NamedToken( nonIndexedPropertyName, nonIndexedProperty ) );

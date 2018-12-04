@@ -1,0 +1,4 @@
+276c276
+<     public String getSchemaConstraintLabelUniquenessUri( String label )
+---
+>     public 	String getSchemaConstraintLabelUniquenessUri( String label )

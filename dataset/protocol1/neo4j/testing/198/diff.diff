@@ -1,0 +1,4 @@
+162c162
+<                 path.addLast( currentNode );
+---
+>                 path.addLast( currentNode 	);

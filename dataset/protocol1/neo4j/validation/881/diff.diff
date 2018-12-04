@@ -1,0 +1,4 @@
+134c134
+<         transaction.dataRead().graphProperties( properties );
+---
+>         transaction.dataRead ().graphProperties( properties );

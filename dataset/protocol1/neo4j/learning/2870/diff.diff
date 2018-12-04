@@ -1,0 +1,4 @@
+60c60
+<     protected IndexSample performSampling() throws IndexNotFoundKernelException
+---
+>     	protected IndexSample performSampling() throws IndexNotFoundKernelException

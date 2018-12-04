@@ -1,0 +1,5 @@
+56c56,57
+<                 running.set( true );
+---
+>                 running.set( true 
+> );

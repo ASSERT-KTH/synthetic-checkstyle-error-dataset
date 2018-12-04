@@ -1,0 +1,4 @@
+83c83
+<         public void install( Channel channel )
+---
+>         public void install(Channel channel )

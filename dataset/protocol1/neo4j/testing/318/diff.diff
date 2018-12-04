@@ -1,0 +1,4 @@
+58c58
+<     public List<Object> getResultAsList()
+---
+>     public 	List<Object> getResultAsList()

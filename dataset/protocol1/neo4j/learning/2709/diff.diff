@@ -1,0 +1,4 @@
+43c43
+<         String instanceStr = String.valueOf( instance );
+---
+>         String instanceStr = String.	valueOf( instance );

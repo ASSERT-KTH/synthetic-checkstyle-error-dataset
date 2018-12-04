@@ -1,0 +1,4 @@
+63c63
+<         public boolean visit( StorageCommand element ) throws IOException
+---
+>         public boolean 	visit( StorageCommand element ) throws IOException

@@ -1,0 +1,5 @@
+545,546c545
+<             assertQueryFindsIds( ktx, NODE_INDEX_NAME, "thing zebra", firstID, secondID );
+<         }
+---
+>             assertQueryFindsIds( ktx, NODE_INDEX_NAME, "thing zebra", firstID, secondID );        }

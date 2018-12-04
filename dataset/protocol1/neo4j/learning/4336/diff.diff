@@ -1,0 +1,4 @@
+33c33
+< public interface PathFinder<P extends Path>
+---
+> public interface PathFinder<P extends Path >

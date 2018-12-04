@@ -1,0 +1,4 @@
+30c30
+< import static org.neo4j.procedure.Mode.WRITE;
+---
+> import static org.neo4j.	procedure.Mode.WRITE;

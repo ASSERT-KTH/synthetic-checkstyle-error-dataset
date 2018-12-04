@@ -1,0 +1,5 @@
+35c35,36
+<     private static RelationshipType T1 = withName( "T1" );
+---
+>     private static RelationshipType T1 = withName( 
+> "T1" );

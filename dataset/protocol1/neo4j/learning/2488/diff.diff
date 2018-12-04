@@ -1,0 +1,4 @@
+83c83
+<         AtomicBoolean shouldContinue = new AtomicBoolean( true );
+---
+>         AtomicBoolean shouldContinue = new AtomicBoolean( true);

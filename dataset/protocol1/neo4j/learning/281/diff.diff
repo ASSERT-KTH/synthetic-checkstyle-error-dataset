@@ -1,0 +1,4 @@
+129c129
+<         AtomicLong txId = new AtomicLong( 0 );
+---
+>         AtomicLong txId = new AtomicLong( 	0 );

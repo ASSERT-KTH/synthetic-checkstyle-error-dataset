@@ -1,0 +1,4 @@
+48c48
+<     protected void process( NodeRecord[] batch, BatchSender sender ) throws Throwable
+---
+>     protected void process( 	NodeRecord[] batch, BatchSender sender ) throws Throwable

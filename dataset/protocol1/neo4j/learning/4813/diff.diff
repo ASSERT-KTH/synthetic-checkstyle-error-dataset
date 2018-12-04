@@ -1,0 +1,4 @@
+27c27
+< public interface DatabaseManager extends Lifecycle
+---
+> public interface DatabaseManager 	extends Lifecycle

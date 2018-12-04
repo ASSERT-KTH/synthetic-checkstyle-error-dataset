@@ -1,0 +1,4 @@
+45c45
+<         if ( connection != null )
+---
+>         if ( connection 	!= null )

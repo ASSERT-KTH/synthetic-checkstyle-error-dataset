@@ -1,0 +1,5 @@
+29,30c29
+<     public FailedLoadFunction( UserFunctionSignature signature )
+<     {
+---
+>     public FailedLoadFunction( UserFunctionSignature signature )    {

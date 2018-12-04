@@ -1,0 +1,5 @@
+104c104,105
+<     private static int compareLongAgainstRawType( long lhs, long rhsRawBits, byte rhsType )
+---
+>     private static int compareLongAgainstRawType( long 
+> lhs, long rhsRawBits, byte rhsType )

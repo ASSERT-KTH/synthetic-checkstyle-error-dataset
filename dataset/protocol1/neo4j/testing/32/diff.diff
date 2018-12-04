@@ -1,0 +1,4 @@
+147c147
+<                 equalTo( stringArray( "Separating", "by", "comma", "is", "a", "common", "use", "case" ) ) );
+---
+>                 equalTo( stringArray( "Separating", "by", "comma", "is", "a", "common", "use", "case" ) ) )	;

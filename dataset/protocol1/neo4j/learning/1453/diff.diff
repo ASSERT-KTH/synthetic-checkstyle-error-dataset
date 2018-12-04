@@ -1,0 +1,5 @@
+65,66c65
+<         assertThat( error.status(), equalTo( Status.General.DatabaseUnavailable ) );
+<         assertThat( error.cause(), equalTo( ex ) );
+---
+>         assertThat( error.status(), equalTo( Status.General.DatabaseUnavailable ) );        assertThat( error.cause(), equalTo( ex ) );

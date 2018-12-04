@@ -1,0 +1,4 @@
+36c36
+<     public String getFailedIndexName()
+---
+>     public String getFailedIndexName ()

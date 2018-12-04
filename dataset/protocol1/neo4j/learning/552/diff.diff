@@ -1,0 +1,5 @@
+37,38c37
+<     public JmxDomainRepresentation( String name )
+<     {
+---
+>     public JmxDomainRepresentation( String name )    {

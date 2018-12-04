@@ -1,0 +1,5 @@
+92c92,93
+<                     l = labels = Values.stringArray( ls.toArray( new String[ls.size()] ) );
+---
+>                     l = labels = Values.stringArray( 
+> ls.toArray( new String[ls.size()] ) );

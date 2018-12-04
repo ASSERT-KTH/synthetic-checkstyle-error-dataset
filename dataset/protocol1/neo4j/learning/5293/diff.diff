@@ -1,0 +1,4 @@
+44c44
+<             throws IndexNotApplicableKernelException, IndexNotFoundKernelException
+---
+>             throws 	IndexNotApplicableKernelException, IndexNotFoundKernelException

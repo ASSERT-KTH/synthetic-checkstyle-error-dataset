@@ -1,0 +1,4 @@
+27c27
+<     public AllSimplePaths( int maxDepth, PathExpander expander )
+---
+>     public AllSimplePaths( int maxDepth, PathExpander expander)

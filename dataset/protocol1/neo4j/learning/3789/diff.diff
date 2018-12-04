@@ -1,0 +1,4 @@
+46c46
+<         assertFalse( server().baseUri()
+---
+>         assertFalse( server().baseUri ()

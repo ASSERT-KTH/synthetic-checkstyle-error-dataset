@@ -1,0 +1,4 @@
+30c30
+< @Retention( RetentionPolicy.RUNTIME )
+---
+> @	Retention( RetentionPolicy.RUNTIME )

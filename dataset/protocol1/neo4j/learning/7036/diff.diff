@@ -1,0 +1,5 @@
+66c66,67
+<         if ( Analyzer.class.getName().isEmpty() || CheckClassAdapter.class.getName().isEmpty() )
+---
+>         if ( Analyzer.class.getName().isEmpty() || CheckClassAdapter.class.getName().isEmpty() 
+> )

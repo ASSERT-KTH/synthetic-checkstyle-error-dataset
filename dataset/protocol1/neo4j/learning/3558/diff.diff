@@ -1,0 +1,4 @@
+63c63
+<     public char[] data()
+---
+>     public char[] 	data()

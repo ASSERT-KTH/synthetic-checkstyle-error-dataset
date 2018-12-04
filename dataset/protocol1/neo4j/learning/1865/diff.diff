@@ -1,0 +1,4 @@
+95c95
+<                 builder.append( number.doubleValue() );
+---
+>                 	builder.append( number.doubleValue() );

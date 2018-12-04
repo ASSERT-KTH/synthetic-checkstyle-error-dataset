@@ -1,0 +1,5 @@
+123c123,124
+<         DynamicRecord firstRecord = new DynamicRecord( 0L );
+---
+>         DynamicRecord firstRecord 
+> = new DynamicRecord( 0L );

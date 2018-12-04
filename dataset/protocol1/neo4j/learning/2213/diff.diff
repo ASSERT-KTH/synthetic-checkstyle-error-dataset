@@ -1,0 +1,5 @@
+44c44,45
+<     public void migrate( DatabaseLayout directoryLayout, DatabaseLayout migrationLayout, ProgressReporter progressMonitor,
+---
+>     public void migrate( DatabaseLayout directoryLayout, DatabaseLayout migrationLayout, 
+> ProgressReporter progressMonitor,

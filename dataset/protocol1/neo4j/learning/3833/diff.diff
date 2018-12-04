@@ -1,0 +1,4 @@
+40c40
+<     Object[] getList( GraphDatabaseAPI graphDb, ParameterList parameters,
+---
+>     Object[] getList( 	GraphDatabaseAPI graphDb, ParameterList parameters,

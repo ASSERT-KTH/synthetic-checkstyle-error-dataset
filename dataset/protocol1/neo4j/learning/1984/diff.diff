@@ -1,0 +1,4 @@
+53c53
+<         return pattern.matcher( message.statement() ).matches();
+---
+>         return pattern	.matcher( message.statement() ).matches();

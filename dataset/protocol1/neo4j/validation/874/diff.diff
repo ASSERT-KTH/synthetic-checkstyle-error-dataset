@@ -1,0 +1,5 @@
+47c47,48
+<     void debug( @Nonnull String message );
+---
+>     void debug
+> ( @Nonnull String message );

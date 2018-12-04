@@ -1,0 +1,4 @@
+82c82
+<     public void renameFile( File from, File to, CopyOption... copyOptions ) throws IOException
+---
+>     public void renameFile( File from, File to, CopyOption... copyOptions) throws IOException

@@ -1,0 +1,4 @@
+75c75
+<         int type = transaction.tokenWrite().relationshipTypeGetOrCreateForName( "RELATED" );
+---
+>         int type = transaction.tokenWrite().relationshipTypeGetOrCreateForName( "RELATED" )	;

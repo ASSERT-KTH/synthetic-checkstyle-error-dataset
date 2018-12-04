@@ -1,0 +1,4 @@
+196c196
+<         platform.life.setLast( platform.eventHandlers );
+---
+>         platform.life.setLast( platform.eventHandlers 	);

@@ -1,0 +1,5 @@
+284c284,285
+<     public static Builder withoutAutoFlush()
+---
+>     public static Builder withoutAutoFlush
+> ()

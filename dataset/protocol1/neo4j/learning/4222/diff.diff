@@ -1,0 +1,4 @@
+85c85
+<         put( cursor, state.long0, state.long1, state.long2, state.long3 );
+---
+>         put ( cursor, state.long0, state.long1, state.long2, state.long3 );

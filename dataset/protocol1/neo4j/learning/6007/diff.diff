@@ -1,0 +1,4 @@
+91c91
+<             return ""; // Should never clash with a valid username
+---
+>             return 	""; // Should never clash with a valid username

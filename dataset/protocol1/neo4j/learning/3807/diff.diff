@@ -1,0 +1,5 @@
+98,99c98
+<         assertEquals( "myInt", values.get( 0 ).name() );
+<         assertEquals( Optional.empty(), values.get( 0 ).description() );
+---
+>         assertEquals( "myInt", values.get( 0 ).name() );        assertEquals( Optional.empty(), values.get( 0 ).description() );

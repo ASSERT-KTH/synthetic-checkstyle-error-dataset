@@ -1,0 +1,5 @@
+47,48c47
+<     private final FilterChain filterChain = mock( FilterChain.class );
+<     private final CollectUserAgentFilter filter = new CollectUserAgentFilter( agents );
+---
+>     private final FilterChain filterChain = mock( FilterChain.class );    private final CollectUserAgentFilter filter = new CollectUserAgentFilter( agents );

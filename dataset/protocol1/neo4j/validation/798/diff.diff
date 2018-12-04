@@ -1,0 +1,4 @@
+46c46
+<     private final boolean warnOnUnknownSettings;
+---
+>     private 	final boolean warnOnUnknownSettings;

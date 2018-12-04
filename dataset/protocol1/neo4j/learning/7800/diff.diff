@@ -1,0 +1,4 @@
+268c268
+<         return new StubGroupCursor.GroupData( 0, 0, 0, 0 );
+---
+>         return 	new StubGroupCursor.GroupData( 0, 0, 0, 0 );

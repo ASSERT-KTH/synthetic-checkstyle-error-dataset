@@ -1,0 +1,4 @@
+51c51
+<         double slope = (bottomThreshold - topThreshold) / maxDepth;
+---
+>         double slope = (bottomThreshold -topThreshold) / maxDepth;

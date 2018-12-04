@@ -1,0 +1,4 @@
+56c56
+< import org.neo4j.kernel.impl.transaction.log.files.LogFilesBuilder;
+---
+> import 	org.neo4j.kernel.impl.transaction.log.files.LogFilesBuilder;

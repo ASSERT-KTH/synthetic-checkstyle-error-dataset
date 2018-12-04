@@ -1,0 +1,5 @@
+97c97,98
+<                 new Object[]{Number.class, NTNumber, Long.MAX_VALUE, Long.MAX_VALUE},
+---
+>                 new Object[]{Number.class, NTNumber, 
+> Long.MAX_VALUE, Long.MAX_VALUE},

@@ -1,0 +1,5 @@
+33c33,34
+<     public RelationshipIndexRepresentation( String name, Map<String, String> config )
+---
+>     public RelationshipIndexRepresentation( String name, Map<String, 
+> String> config )

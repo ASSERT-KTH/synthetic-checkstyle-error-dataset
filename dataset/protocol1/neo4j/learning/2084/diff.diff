@@ -1,0 +1,4 @@
+25c25
+< import org.neo4j.values.ValueMapper;
+---
+> 	import org.neo4j.values.ValueMapper;

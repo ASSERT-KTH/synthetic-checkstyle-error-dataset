@@ -1,0 +1,4 @@
+122c122
+<     public void cantChangeToCurrentPassword() throws Exception
+---
+>     public void 	cantChangeToCurrentPassword() throws Exception

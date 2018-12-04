@@ -1,0 +1,4 @@
+47c47
+<             harness.run( 1, TimeUnit.MINUTES );
+---
+>             harness.run ( 1, TimeUnit.MINUTES );

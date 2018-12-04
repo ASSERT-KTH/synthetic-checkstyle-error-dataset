@@ -1,0 +1,4 @@
+44c44
+<     public void shouldCheckMultipleMonitors()
+---
+>     public void shouldCheckMultipleMonitors(	)

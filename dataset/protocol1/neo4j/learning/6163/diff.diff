@@ -1,0 +1,4 @@
+344c344
+<             cursor.putShort( offset + Integer.BYTES, (short) (value >>> Integer.SIZE) );
+---
+>             cursor.putShort( offset + Integer.BYTES, (short) (value >>> Integer.SIZE) )	;

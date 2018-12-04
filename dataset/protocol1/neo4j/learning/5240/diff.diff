@@ -1,0 +1,4 @@
+27c27
+<     public TransportThrottleException( String message )
+---
+>     public TransportThrottleException( String 	message )

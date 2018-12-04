@@ -1,0 +1,5 @@
+27c27,28
+<     void process( RequestMessage message, BoltResponseHandler handler ) throws BoltConnectionFatality;
+---
+>     
+> void process( RequestMessage message, BoltResponseHandler handler ) throws BoltConnectionFatality;

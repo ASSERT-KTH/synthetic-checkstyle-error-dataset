@@ -1,0 +1,5 @@
+288c288,289
+<                 KeyValueStoreFile.scanAll( file, 0, metadata, key, value );
+---
+>                 KeyValueStoreFile.scanAll( file, 0, 
+> metadata, key, value );

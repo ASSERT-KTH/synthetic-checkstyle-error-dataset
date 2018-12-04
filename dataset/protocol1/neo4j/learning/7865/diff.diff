@@ -1,0 +1,4 @@
+42c42
+< import static org.neo4j.values.storable.Values.byteArray;
+---
+> import static 	org.neo4j.values.storable.Values.byteArray;

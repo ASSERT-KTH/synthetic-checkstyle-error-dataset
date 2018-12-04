@@ -1,0 +1,4 @@
+100c100
+<         if ( upper == upToVersion - 1 )
+---
+>         if ( 	upper == upToVersion - 1 )

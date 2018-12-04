@@ -1,0 +1,4 @@
+114c114
+<         identifier ^= identifier << 21;
+---
+>         identifier ^= identifier << 21	;

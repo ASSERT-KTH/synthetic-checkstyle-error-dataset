@@ -1,0 +1,5 @@
+27c27,28
+<     NativeIndexPopulator<KEY,VALUE> part( File partFileName );
+---
+>     NativeIndexPopulator<KEY,VALUE> part
+> ( File partFileName );

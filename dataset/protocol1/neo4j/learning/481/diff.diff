@@ -1,0 +1,4 @@
+40c40
+<     public AuthProviderFailedException( String msg, Throwable cause )
+---
+>     public AuthProviderFailedException ( String msg, Throwable cause )

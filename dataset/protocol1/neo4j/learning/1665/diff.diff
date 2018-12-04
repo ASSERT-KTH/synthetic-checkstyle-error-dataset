@@ -1,0 +1,4 @@
+29c29
+<         super( Status.General.IndexCorruptionDetected, "The index is in a failed state: '%s'.", indexFailureCause );
+---
+>         super( Status	.General.IndexCorruptionDetected, "The index is in a failed state: '%s'.", indexFailureCause );

@@ -1,0 +1,5 @@
+57c57,58
+<         exception.expectMessage( "Cannot delete node<" + node.getId() + ">, because it still has relationships. " +
+---
+>         
+> exception.expectMessage( "Cannot delete node<" + node.getId() + ">, because it still has relationships. " +

@@ -1,0 +1,5 @@
+59c59,60
+<             throw new NotFoundException( type + " index '" + name + "' doesn't exist" );
+---
+>             throw new NotFoundException( type + 
+> " index '" + name + "' doesn't exist" );

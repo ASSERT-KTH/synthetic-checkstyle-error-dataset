@@ -1,0 +1,4 @@
+55c55
+<         expected.put( "key", "" );
+---
+>         expected.put( "key"	, "" );

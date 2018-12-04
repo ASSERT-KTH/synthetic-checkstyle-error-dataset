@@ -1,0 +1,5 @@
+26,27c26
+<     IndexStatisticsKey( long indexId )
+<     {
+---
+>     IndexStatisticsKey( long indexId )    {

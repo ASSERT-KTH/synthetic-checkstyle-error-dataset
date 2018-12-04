@@ -1,0 +1,4 @@
+166c166
+<     private boolean indexIsOnline( PartitionedIndexStorage indexStorage, IndexDescriptor descriptor ) throws IOException
+---
+>     private boolean indexIsOnline( PartitionedIndexStorage indexStorage, 	IndexDescriptor descriptor ) throws IOException

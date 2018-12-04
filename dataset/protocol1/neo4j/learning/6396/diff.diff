@@ -1,0 +1,5 @@
+267,268c267
+<         if ( !indexFile.exists() )
+<         {
+---
+>         if ( !indexFile.exists() )        {

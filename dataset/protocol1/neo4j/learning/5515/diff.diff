@@ -1,0 +1,5 @@
+243c243,244
+<         when( provider.configMatches( anyMap(), anyMap() ) ).thenReturn( false );
+---
+>         when( provider.configMatches( anyMap
+> (), anyMap() ) ).thenReturn( false );

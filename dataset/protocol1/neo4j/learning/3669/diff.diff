@@ -1,0 +1,5 @@
+63c63,64
+<         IndexReference index = mock( IndexReference.class );
+---
+>         
+> IndexReference index = mock( IndexReference.class );

@@ -1,0 +1,5 @@
+149c149,150
+<     public void dataTo( byte[] target, int targetPos )
+---
+>     public void dataTo( byte[] target, 
+> int targetPos )

@@ -1,0 +1,4 @@
+134c134
+<         return MAXIMUM_PARTITION_SIZE - partition.getIndexWriter().maxDoc() >= numDocs;
+---
+>         return MAXIMUM_PARTITION_SIZE 	- partition.getIndexWriter().maxDoc() >= numDocs;

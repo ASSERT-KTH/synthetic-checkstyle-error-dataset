@@ -1,0 +1,4 @@
+133c133
+<         throw new IllegalArgumentException( "Max allowed groups is " + 0xFFFF + ", but wanted " + numberOfGroups );
+---
+>         throw new IllegalArgumentException( "Max allowed groups is " + 0xFFFF 	+ ", but wanted " + numberOfGroups );

@@ -1,0 +1,4 @@
+55c55
+<                 path( baseIndexDirectory, provider.getKey() + "-" +  provider.getVersion(), String.valueOf( indexId ) ) );
+---
+>                 path( baseIndexDirectory, provider.getKey() + "-" +  provider	.getVersion(), String.valueOf( indexId ) ) );

@@ -1,0 +1,5 @@
+122,123c122
+<         tail = values.length;
+<         head = 0;
+---
+>         tail = values.length;        head = 0;

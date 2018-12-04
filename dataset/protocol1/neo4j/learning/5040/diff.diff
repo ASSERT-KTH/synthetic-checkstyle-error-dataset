@@ -1,0 +1,5 @@
+279c279,280
+<             value.foreach( ( k, v ) -> map.put( k, v.map( this ) ) );
+---
+>             value.foreach( ( k, v ) -> map.put( k, v.map( this ) ) 
+> );

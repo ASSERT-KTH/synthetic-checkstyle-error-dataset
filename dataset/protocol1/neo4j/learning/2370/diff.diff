@@ -1,0 +1,5 @@
+26c26,27
+<     IdRange nextIdBatch( int size );
+---
+>     IdRange nextIdBatch
+> ( int size );

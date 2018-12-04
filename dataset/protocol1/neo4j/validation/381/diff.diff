@@ -1,0 +1,4 @@
+147c147
+<             for ( int i = 0; i < doublePropValues.size(); i++ )
+---
+>             for ( int i = 0; i < doublePropValues	.size(); i++ )

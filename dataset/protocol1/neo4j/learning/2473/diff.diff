@@ -1,0 +1,4 @@
+402c402
+<         createSuccessorIfNeeded( cursor, structurePropagation, UPDATE_MID_CHILD,
+---
+>         createSuccessorIfNeeded( 	cursor, structurePropagation, UPDATE_MID_CHILD,

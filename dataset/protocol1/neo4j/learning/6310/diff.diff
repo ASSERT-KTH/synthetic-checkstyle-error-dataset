@@ -1,0 +1,5 @@
+171c171,172
+<             labeledNode.setProperty( PROPERTY_KEY, PROPERTY_VALUE );
+---
+>             labeledNode.setProperty( PROPERTY_KEY, 
+> PROPERTY_VALUE );

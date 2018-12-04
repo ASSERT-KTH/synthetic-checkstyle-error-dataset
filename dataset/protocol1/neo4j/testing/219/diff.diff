@@ -1,0 +1,5 @@
+54c54,55
+<         when( store.nextId() ).thenAnswer( invocation -> nextId.incrementAndGet() );
+---
+>         when( store.nextId() ).thenAnswer( invocation 
+> -> nextId.incrementAndGet() );

@@ -1,0 +1,5 @@
+27c27,28
+<     Result executeQuery( String query, MapValue parameters, TransactionalContext context )
+---
+>     Result executeQuery( String query, MapValue parameters, 
+> TransactionalContext context )

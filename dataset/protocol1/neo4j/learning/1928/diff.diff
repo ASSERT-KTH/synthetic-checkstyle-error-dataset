@@ -1,0 +1,4 @@
+55c55
+<         ServerControls serverControls = mock( ServerControls.class );
+---
+>         ServerControls serverControls = mock( ServerControls	.class );

@@ -1,0 +1,4 @@
+78c78
+<     BidirectionalTraversalDescription mirroredSides( TraversalDescription sideDescription );
+---
+>     	BidirectionalTraversalDescription mirroredSides( TraversalDescription sideDescription );

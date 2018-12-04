@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "28", "message": "Line is longer than 160 characters (found 226).", "type": "LineLength"}

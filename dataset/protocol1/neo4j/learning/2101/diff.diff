@@ -1,0 +1,4 @@
+129c129
+<         while ( !isWantedTypeAndInUse() );
+---
+>         while ( !isWantedTypeAndInUse(	) );

@@ -1,0 +1,4 @@
+131c131
+<         return getDelegate().getIndexPopulationProgress();
+---
+>         return getDelegate().	getIndexPopulationProgress();

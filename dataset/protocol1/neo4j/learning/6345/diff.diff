@@ -1,0 +1,4 @@
+98c98
+<         TraversalDescription traversalDescription = graphDb.traversalDescription()
+---
+>         TraversalDescription traversalDescription = graphDb.traversalDescription(	)

@@ -1,0 +1,5 @@
+40c40,41
+<         result.accept( new BoltResult.Visitor()
+---
+>         result.accept( 
+> new BoltResult.Visitor()

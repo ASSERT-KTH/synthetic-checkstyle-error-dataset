@@ -1,0 +1,5 @@
+69,70c69
+<         GraphDatabaseService database = startDatabaseWithFormatUnspecifiedUpgrade( storeDir, StandardV3_4.NAME );
+<         try ( Transaction transaction = database.beginTx() )
+---
+>         GraphDatabaseService database = startDatabaseWithFormatUnspecifiedUpgrade( storeDir, StandardV3_4.NAME );        try ( Transaction transaction = database.beginTx() )

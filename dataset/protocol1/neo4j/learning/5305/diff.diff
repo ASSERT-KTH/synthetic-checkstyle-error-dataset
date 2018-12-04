@@ -1,0 +1,4 @@
+35c35
+<         this.diagnosticsManager = diagnosticsManager;
+---
+>         this.diagnosticsManager = 	diagnosticsManager;

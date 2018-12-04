@@ -1,0 +1,4 @@
+109c109
+<             public void recoveryCleanupRegistered( File indexFile, IndexDescriptor indexDescriptor )
+---
+>             public void recoveryCleanupRegistered( 	File indexFile, IndexDescriptor indexDescriptor )

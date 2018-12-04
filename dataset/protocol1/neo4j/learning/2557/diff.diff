@@ -1,0 +1,4 @@
+58c58
+<                         long dynamicLabelRecordId = firstDynamicLabelRecordId( nodeRecord.getLabelField() );
+---
+>                         long 	dynamicLabelRecordId = firstDynamicLabelRecordId( nodeRecord.getLabelField() );

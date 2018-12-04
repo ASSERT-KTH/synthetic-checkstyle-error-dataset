@@ -1,0 +1,4 @@
+24c24
+< import org.neo4j.kernel.impl.transaction.log.ReadableClosableChannel;
+---
+> 	import org.neo4j.kernel.impl.transaction.log.ReadableClosableChannel;

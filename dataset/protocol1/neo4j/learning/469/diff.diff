@@ -1,0 +1,4 @@
+244c244
+<             uniqueValues.add( value );
+---
+>             uniqueValues.add ( value );

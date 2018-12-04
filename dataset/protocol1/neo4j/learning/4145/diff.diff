@@ -1,0 +1,4 @@
+30c30
+< import static org.neo4j.bolt.v1.messaging.example.Support.NO_PROPERTIES;
+---
+> import static org.neo4j.bolt.v1	.messaging.example.Support.NO_PROPERTIES;

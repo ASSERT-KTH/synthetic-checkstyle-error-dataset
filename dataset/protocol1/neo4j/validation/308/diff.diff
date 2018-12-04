@@ -1,0 +1,4 @@
+143c143
+<                 "@%s usage error: expected aggregation type <%s> to define exactly 1 method with this annotation. %s.",
+---
+>                 	"@%s usage error: expected aggregation type <%s> to define exactly 1 method with this annotation. %s.",

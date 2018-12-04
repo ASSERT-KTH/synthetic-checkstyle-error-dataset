@@ -1,0 +1,5 @@
+126c126,127
+<             throw new UnsupportedOperationException( "StringFormat.complete(MappingWriter)" );
+---
+>             
+> throw new UnsupportedOperationException( "StringFormat.complete(MappingWriter)" );

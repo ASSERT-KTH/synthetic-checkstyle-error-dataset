@@ -1,0 +1,4 @@
+35c35
+<         return new TransactionTerminationGuard( ktx );
+---
+>         return new 	TransactionTerminationGuard( ktx );

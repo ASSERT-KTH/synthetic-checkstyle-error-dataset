@@ -1,0 +1,5 @@
+31c31,32
+<         return System.getProperty( "java.version" );
+---
+>         
+> return System.getProperty( "java.version" );

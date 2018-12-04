@@ -1,0 +1,4 @@
+39c39
+<         this( Collections.singletonList( chain ) );
+---
+>         this( Collections.singletonList( chain ) 	);

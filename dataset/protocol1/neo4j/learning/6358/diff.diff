@@ -1,0 +1,5 @@
+56,57c56
+<     public static ResourceIterator<File> forIndex( File indexFolder, IndexWriter indexWriter ) throws IOException
+<     {
+---
+>     public static ResourceIterator<File> forIndex( File indexFolder, IndexWriter indexWriter ) throws IOException    {

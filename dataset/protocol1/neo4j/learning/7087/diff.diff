@@ -1,0 +1,4 @@
+278c278
+<         assertEquals( MAX_SIZE - MIN_SIZE , stateMonitor.created.get() );
+---
+>         assertEquals( MAX_SIZE - MIN_SIZE , stateMonitor.created.get () );

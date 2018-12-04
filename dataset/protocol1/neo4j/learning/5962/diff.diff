@@ -1,0 +1,5 @@
+86c86,87
+<             if ( key != nullKey && visitor.visited( key, table.value( i ) ) )
+---
+>             if ( key != nullKey && visitor.visited( key, table.value( i ) 
+> ) )

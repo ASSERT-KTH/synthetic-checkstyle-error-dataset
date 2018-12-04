@@ -1,0 +1,4 @@
+66c66
+<         for ( int i = 0; i < values.length(); i++ )
+---
+>         for ( int i = 0; i < values.length (); i++ )

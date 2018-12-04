@@ -1,0 +1,5 @@
+32c32,33
+< public class CollectionMatcher<T> extends TypeSafeMatcher<Collection<T>>
+---
+> public class 
+> CollectionMatcher<T> extends TypeSafeMatcher<Collection<T>>

@@ -1,0 +1,4 @@
+52c52
+<         assertEquals( AckFailureMessage.INSTANCE, decoder.decode( mock( Unpacker.class ) ) );
+---
+>         assertEquals( AckFailureMessage.INSTANCE, decoder.decode( mock( 	Unpacker.class ) ) );

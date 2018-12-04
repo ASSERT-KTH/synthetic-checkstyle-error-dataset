@@ -1,0 +1,5 @@
+864c864,865
+<         Input input = new CsvInput( nodeHeader, defaultFormatNodeFileHeader(),
+---
+>         Input input = 
+> new CsvInput( nodeHeader, defaultFormatNodeFileHeader(),

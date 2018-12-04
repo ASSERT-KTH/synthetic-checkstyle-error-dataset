@@ -1,0 +1,4 @@
+51c51
+<     CompositeLabelScanValueIterator( List<PrimitiveLongResourceIterator> iterators, boolean trueForAll )
+---
+>     CompositeLabelScanValueIterator ( List<PrimitiveLongResourceIterator> iterators, boolean trueForAll )

@@ -1,0 +1,4 @@
+53c53
+<         assertTrue( accessor.isDirty() );
+---
+>         assertTrue( accessor.isDirty () );

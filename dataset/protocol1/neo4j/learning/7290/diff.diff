@@ -1,0 +1,5 @@
+85c85,86
+<     public String getPopulationFailure( StoreIndexDescriptor descriptor ) throws IllegalStateException
+---
+>     public String getPopulationFailure( StoreIndexDescriptor descriptor ) 
+> throws IllegalStateException

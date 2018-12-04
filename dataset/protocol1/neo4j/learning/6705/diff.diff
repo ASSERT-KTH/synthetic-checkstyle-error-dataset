@@ -1,0 +1,4 @@
+86c86
+<         IndexSearcher searcher = new IndexSearcher( reader );
+---
+>         IndexSearcher searcher = new IndexSearcher ( reader );

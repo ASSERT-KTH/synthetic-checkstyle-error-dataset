@@ -1,0 +1,4 @@
+24c24
+< public class DieCommand implements WorkerCommand<CommandState, Void>
+---
+> public 	class DieCommand implements WorkerCommand<CommandState, Void>

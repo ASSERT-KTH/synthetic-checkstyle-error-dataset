@@ -1,0 +1,5 @@
+37c37,38
+<     void afterCommit( ReadableTransactionState state, KernelTransaction transaction, OUTCOME outcome );
+---
+>     void afterCommit( ReadableTransactionState state, KernelTransaction 
+> transaction, OUTCOME outcome );

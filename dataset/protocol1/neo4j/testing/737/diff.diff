@@ -1,0 +1,5 @@
+55,56c55
+<         File indexFile = Mockito.mock( File.class );
+<         when( indexFile.isDirectory() ).thenReturn( false );
+---
+>         File indexFile = Mockito.mock( File.class );        when( indexFile.isDirectory() ).thenReturn( false );

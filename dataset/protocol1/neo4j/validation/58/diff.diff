@@ -1,0 +1,5 @@
+91,92c91
+<         expectPaths( getGraphDb().traversalDescription().evaluator( includeWhereEndNodeIs( c, h, g ) ).traverse( a ),
+<                 "a,b,c", "a,b,h", "a,f,g" );
+---
+>         expectPaths( getGraphDb().traversalDescription().evaluator( includeWhereEndNodeIs( c, h, g ) ).traverse( a ),                "a,b,c", "a,b,h", "a,f,g" );

@@ -1,0 +1,4 @@
+51c51
+<         packer.packStructHeader( 1, message.signature() );
+---
+>         packer.packStructHeader( 1, message	.signature() );

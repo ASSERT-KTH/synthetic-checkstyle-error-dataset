@@ -1,0 +1,4 @@
+231c231
+<         Map<String, Object> secondPath = list.get( 1 );
+---
+>         Map<String, Object> secondPath = 	list.get( 1 );

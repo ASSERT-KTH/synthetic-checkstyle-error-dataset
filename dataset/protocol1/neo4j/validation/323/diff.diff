@@ -1,0 +1,4 @@
+114c114
+<         if ( nodeStore.getRecord( nodeId, nodeRecord, FORCE ).inUse() )
+---
+>         if ( nodeStore.getRecord ( nodeId, nodeRecord, FORCE ).inUse() )

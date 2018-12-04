@@ -1,0 +1,5 @@
+65c65,66
+<                       ". Namely " + statementLocksFactory.getClass().getSimpleName() );
+---
+>                       ". Namely " + statementLocksFactory.getClass().getSimpleName
+> () );

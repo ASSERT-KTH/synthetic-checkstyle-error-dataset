@@ -1,0 +1,4 @@
+197c197
+<         Mockito.doThrow( RuntimeException.class ).when( initialTransaction ).close();
+---
+>         Mockito.doThrow( RuntimeException.	class ).when( initialTransaction ).close();

@@ -1,0 +1,4 @@
+66c66
+<     public static StoreIndexDescriptor constraintIndexRule( long ruleId, int labelId, int propertyId,
+---
+>     public static StoreIndexDescriptor constraintIndexRule( long ruleId, int 	labelId, int propertyId,

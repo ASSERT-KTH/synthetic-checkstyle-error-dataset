@@ -1,0 +1,4 @@
+77c77
+<             buf.putLong( toIntExact( offset ), value );
+---
+>             	buf.putLong( toIntExact( offset ), value );

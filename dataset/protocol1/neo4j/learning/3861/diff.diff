@@ -1,0 +1,5 @@
+185c185,186
+<         collector.setScorer( constantScorer( 1.0f ) );
+---
+>         collector.setScorer( constantScorer
+> ( 1.0f ) );

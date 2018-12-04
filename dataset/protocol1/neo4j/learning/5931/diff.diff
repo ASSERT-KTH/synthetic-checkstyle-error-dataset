@@ -1,0 +1,4 @@
+34c34
+<     void run( LOCAL threadLocalState ) throws Exception;
+---
+>     void run ( LOCAL threadLocalState ) throws Exception;

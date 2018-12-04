@@ -1,0 +1,5 @@
+81c81,82
+<             forSchema( forLabel( 1, 2 ), IndexProviderDescriptor.UNDECIDED ).withId( indexId ).withoutCapabilities();
+---
+>             forSchema( forLabel( 1, 2 ), IndexProviderDescriptor.UNDECIDED 
+> ).withId( indexId ).withoutCapabilities();

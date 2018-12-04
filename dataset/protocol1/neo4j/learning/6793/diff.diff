@@ -1,0 +1,4 @@
+51c51
+<         KernelTransaction kernelTransaction = mockKernelTransaction();
+---
+>         KernelTransaction kernelTransaction 	= mockKernelTransaction();

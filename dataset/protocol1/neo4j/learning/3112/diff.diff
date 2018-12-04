@@ -1,0 +1,4 @@
+59c59
+<         File pkPath = new File( testDirectory.directory(), "key" );
+---
+>         File 	pkPath = new File( testDirectory.directory(), "key" );

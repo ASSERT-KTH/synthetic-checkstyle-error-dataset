@@ -1,0 +1,5 @@
+999,1000c999
+<             actual.process( update );
+<             updatesTarget.add( update );
+---
+>             actual.process( update );            updatesTarget.add( update );

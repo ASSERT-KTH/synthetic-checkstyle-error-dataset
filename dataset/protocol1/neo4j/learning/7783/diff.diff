@@ -1,0 +1,5 @@
+163,164c163
+<         channel.putFloat( floatValue );
+<         channel.putDouble( doubleValue );
+---
+>         channel.putFloat( floatValue );        channel.putDouble( doubleValue );

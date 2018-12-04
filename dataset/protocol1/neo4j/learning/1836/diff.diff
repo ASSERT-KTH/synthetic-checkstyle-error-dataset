@@ -1,0 +1,4 @@
+34c34
+<         return type == PrimitiveTypeFetcher.RELATIONSHIP || check( branch );
+---
+>         return type == PrimitiveTypeFetcher.RELATIONSHIP || check( 	branch );

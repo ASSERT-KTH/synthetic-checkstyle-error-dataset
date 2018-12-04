@@ -1,0 +1,4 @@
+44c44
+<     private final ProgressReporter progressReporter = mock( ProgressReporter.class );
+---
+>     private 	final ProgressReporter progressReporter = mock( ProgressReporter.class );

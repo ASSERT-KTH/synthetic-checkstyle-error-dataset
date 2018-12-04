@@ -1,0 +1,4 @@
+53c53
+<     private static final String INDEX_NAME = "testIndex";
+---
+>     private 	static final String INDEX_NAME = "testIndex";

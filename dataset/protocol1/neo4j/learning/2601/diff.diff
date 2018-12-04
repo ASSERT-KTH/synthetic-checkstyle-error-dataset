@@ -1,0 +1,4 @@
+28c28
+<             ( a, b ) -> Long.compare( b.ticket, a.ticket );
+---
+>             ( a, b ) 	-> Long.compare( b.ticket, a.ticket );

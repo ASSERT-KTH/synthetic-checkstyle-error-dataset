@@ -1,0 +1,4 @@
+55c55
+<         verify( connectionTracker, never() ).add( any() );
+---
+>         verify( connectionTracker, never() ).add( any() 	);

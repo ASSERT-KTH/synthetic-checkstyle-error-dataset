@@ -1,0 +1,5 @@
+136,137c136
+<                 time(12, 0, 0, 0, UTC).add( DurationValue.duration( 1, 1, 900, 0 ) ) );
+<         assertEquals( time(12, 0, 2, 0, UTC),
+---
+>                 time(12, 0, 0, 0, UTC).add( DurationValue.duration( 1, 1, 900, 0 ) ) );        assertEquals( time(12, 0, 2, 0, UTC),

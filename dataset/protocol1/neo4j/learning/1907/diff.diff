@@ -1,0 +1,5 @@
+36,37c36
+< import static org.neo4j.graphdb.traversal.BranchCollisionPolicies.STANDARD;
+< import static org.neo4j.graphdb.traversal.SideSelectorPolicies.ALTERNATING;
+---
+> import static org.neo4j.graphdb.traversal.BranchCollisionPolicies.STANDARD;import static org.neo4j.graphdb.traversal.SideSelectorPolicies.ALTERNATING;

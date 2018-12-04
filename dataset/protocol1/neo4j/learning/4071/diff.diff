@@ -1,0 +1,5 @@
+125c125,126
+<         visitor.visitRelCount( 4, 1, -1, "MATCH (:Director)-[:DIRECTED]->() RETURN count(*)", 11915L );
+---
+>         
+> visitor.visitRelCount( 4, 1, -1, "MATCH (:Director)-[:DIRECTED]->() RETURN count(*)", 11915L );

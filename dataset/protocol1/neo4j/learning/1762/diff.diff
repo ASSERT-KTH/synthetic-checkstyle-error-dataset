@@ -1,0 +1,4 @@
+284c284
+<             when( file.exists() ).thenReturn( true );
+---
+>             when( file.exists () ).thenReturn( true );

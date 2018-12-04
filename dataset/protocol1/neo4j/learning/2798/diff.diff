@@ -1,0 +1,4 @@
+132c132
+<             assertEquals( third, records.next() );
+---
+>             assertEquals( 	third, records.next() );

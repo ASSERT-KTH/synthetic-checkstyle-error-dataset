@@ -1,0 +1,5 @@
+45,46c45
+<     Key<Clock> SYSTEM_CLOCK = Key.key( "SystemClock", Clock.class );
+<     Key<Clock> STATEMENT_CLOCK = Key.key( "StatementClock", Clock.class );
+---
+>     Key<Clock> SYSTEM_CLOCK = Key.key( "SystemClock", Clock.class );    Key<Clock> STATEMENT_CLOCK = Key.key( "StatementClock", Clock.class );

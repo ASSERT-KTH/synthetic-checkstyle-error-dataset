@@ -1,0 +1,5 @@
+33,34c33
+<     private final long id;
+<     private final Long owningConstraintId;
+---
+>     private final long id;    private final Long owningConstraintId;

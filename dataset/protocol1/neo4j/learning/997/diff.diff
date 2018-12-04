@@ -1,0 +1,4 @@
+70c70
+<                             labelId == ((org.neo4j.kernel.impl.store.counts.keys.NodeKey) o).labelId;
+---
+>                             labelId == ((org.neo4j.kernel	.impl.store.counts.keys.NodeKey) o).labelId;

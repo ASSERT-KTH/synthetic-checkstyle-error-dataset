@@ -1,0 +1,5 @@
+96c96,97
+<         Path destination = testDirectory.directory( "the-destination" ).toPath();
+---
+>         Path destination 
+> = testDirectory.directory( "the-destination" ).toPath();

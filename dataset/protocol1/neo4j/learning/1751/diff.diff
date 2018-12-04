@@ -1,0 +1,4 @@
+27c27
+< public interface AsyncEventSender<T extends AsyncEvent>
+---
+> public interface AsyncEventSender<T extends 	AsyncEvent>

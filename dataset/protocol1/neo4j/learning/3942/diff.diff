@@ -1,0 +1,4 @@
+147c147
+<                     if ( currentIterator.hasNext() )
+---
+>                     if ( currentIterator.hasNext(	) )

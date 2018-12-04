@@ -1,0 +1,5 @@
+161c161,162
+<     private static final Consumer<PageCursor> writeClean = pageCursor -> pageCursor.putByte( CLEAN );
+---
+>     private static 
+> final Consumer<PageCursor> writeClean = pageCursor -> pageCursor.putByte( CLEAN );

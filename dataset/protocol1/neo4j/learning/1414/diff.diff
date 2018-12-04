@@ -1,0 +1,4 @@
+93c93
+<                     buffer.put( edge.getType(), current = group = new BufferedGroup( edge, current ) );
+---
+>                     buffer.put( edge.getType(), current = group = new BufferedGroup( edge, 	current ) );

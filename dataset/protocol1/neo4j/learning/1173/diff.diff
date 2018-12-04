@@ -1,0 +1,5 @@
+96,97c96
+<         assertEquals( providerDescriptionMap, result[7] );
+<         assertEquals( indexingService.getIndexId( descriptor ), result[8] );
+---
+>         assertEquals( providerDescriptionMap, result[7] );        assertEquals( indexingService.getIndexId( descriptor ), result[8] );

@@ -1,0 +1,4 @@
+65c65
+<         Preconditions.checkState( true, "must not fail" );
+---
+>         Preconditions.checkState ( true, "must not fail" );

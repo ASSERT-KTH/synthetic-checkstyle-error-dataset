@@ -1,0 +1,4 @@
+101c101
+<             serializer.putMapping( "cause", new ExceptionRepresentation( cause ) );
+---
+>             serializer.putMapping( "cause", new ExceptionRepresentation(cause ) );

@@ -1,0 +1,4 @@
+62c62
+<         testDateTypeWithPrecedingInLinedLong( DateValue.ordinalDate( 4800, 1 ) );
+---
+>         testDateTypeWithPrecedingInLinedLong( DateValue.	ordinalDate( 4800, 1 ) );

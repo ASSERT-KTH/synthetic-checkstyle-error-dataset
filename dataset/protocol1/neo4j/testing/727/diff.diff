@@ -1,0 +1,5 @@
+66,67c66
+<     public void shouldApplyChangesWithIntermediateConstraintViolations() throws Exception
+<     {
+---
+>     public void shouldApplyChangesWithIntermediateConstraintViolations() throws Exception    {

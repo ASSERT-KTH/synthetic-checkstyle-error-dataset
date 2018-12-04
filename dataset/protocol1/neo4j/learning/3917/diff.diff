@@ -1,0 +1,5 @@
+97,98c97
+<         Node indexedNode = mock( Node.class );
+<         when( graphdb.createNode() ).thenReturn( indexedNode );
+---
+>         Node indexedNode = mock( Node.class );        when( graphdb.createNode() ).thenReturn( indexedNode );

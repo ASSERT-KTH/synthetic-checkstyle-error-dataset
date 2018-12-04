@@ -1,0 +1,4 @@
+73c73
+<         int size = calculator.applyAsInt( new Value[] {
+---
+>         int size = calculator.applyAsInt( new Value[] 	{

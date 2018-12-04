@@ -1,0 +1,4 @@
+128c128
+<         assertEquals( keySize, extractKeySize( readKeySize ) );
+---
+>         assertEquals ( keySize, extractKeySize( readKeySize ) );

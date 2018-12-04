@@ -1,0 +1,4 @@
+46c46
+<     private ConsistencyReportLog( Supplier<PrintWriter> writerSupplier, Object maybeLock, boolean autoFlush )
+---
+>     private ConsistencyReportLog( Supplier<PrintWriter> writerSupplier, Object maybeLock	, boolean autoFlush )

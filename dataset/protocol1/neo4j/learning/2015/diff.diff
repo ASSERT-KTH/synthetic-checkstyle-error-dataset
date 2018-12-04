@@ -1,0 +1,4 @@
+103c103
+<         return new File( args.get( HOME_DIR_ARG ) );
+---
+>         return new File( args.get( HOME_DIR_ARG ) )	;

@@ -1,0 +1,5 @@
+60,61c60
+<     public void open( FileSystemAbstraction fs, Configuration configuration )
+<     {
+---
+>     public void open( FileSystemAbstraction fs, Configuration configuration )    {

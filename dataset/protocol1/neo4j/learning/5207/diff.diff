@@ -1,0 +1,4 @@
+64c64
+<         ordered.verify( out ).accept( "    bam" );
+---
+>         	ordered.verify( out ).accept( "    bam" );

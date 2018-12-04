@@ -1,0 +1,5 @@
+91c91,92
+<         if ( securityContext.subject() == AuthSubject.ANONYMOUS )
+---
+>         if ( 
+> securityContext.subject() == AuthSubject.ANONYMOUS )

@@ -1,0 +1,4 @@
+85c85
+<                     reference.packageName(), reference.name(), JavaFileObject.Kind.SOURCE ), source ) );
+---
+>                     reference.packageName(), reference.name(), JavaFileObject.Kind.SOURCE ), source) );

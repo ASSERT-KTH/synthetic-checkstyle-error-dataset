@@ -1,0 +1,4 @@
+80c80
+<     List<List<PropertyContainer>> getPaths( Node targetNode );
+---
+>     List< List<PropertyContainer>> getPaths( Node targetNode );

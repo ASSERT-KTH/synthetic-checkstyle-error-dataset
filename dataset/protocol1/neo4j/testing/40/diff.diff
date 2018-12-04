@@ -1,0 +1,4 @@
+66c66
+<         Scan( RecordStore<R> store, boolean forward, final Predicate<? super R>... filters )
+---
+>         Scan( RecordStore<R> store, boolean forward, 	final Predicate<? super R>... filters )

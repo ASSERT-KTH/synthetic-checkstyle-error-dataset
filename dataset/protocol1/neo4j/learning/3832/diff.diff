@@ -1,0 +1,4 @@
+39c39
+<     public static StubStatementDeserializer statements( Statement... statements )
+---
+>     public 	static StubStatementDeserializer statements( Statement... statements )

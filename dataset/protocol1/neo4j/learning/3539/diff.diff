@@ -1,0 +1,4 @@
+87c87
+<         EphemeralFileSystemAbstraction fileSystem = fileSystemRule.get();
+---
+>         EphemeralFileSystemAbstraction fileSystem = fileSystemRule.get ();

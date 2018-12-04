@@ -1,0 +1,4 @@
+100c100
+<                     IndexEntryUpdate.add( node.getId(), descriptor, Values.of( value1 ) ) ) ) );
+---
+>                     IndexEntryUpdate.add( node.getId()	, descriptor, Values.of( value1 ) ) ) ) );

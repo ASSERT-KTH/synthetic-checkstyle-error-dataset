@@ -1,0 +1,5 @@
+225,226c225
+<     private TextValue nextAsciiTextValue()
+<     {
+---
+>     private TextValue nextAsciiTextValue()    {

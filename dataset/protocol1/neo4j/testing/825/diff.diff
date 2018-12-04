@@ -1,0 +1,4 @@
+31c31
+< class LocalDateTimeIndexKey extends NativeIndexSingleValueKey<LocalDateTimeIndexKey>
+---
+> class LocalDateTimeIndexKey extends NativeIndexSingleValueKey <LocalDateTimeIndexKey>

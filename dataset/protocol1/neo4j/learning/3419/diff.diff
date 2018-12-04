@@ -1,0 +1,4 @@
+748c748
+<                             setRecord( cursor, Position.LAST_TRANSACTION_ID, transactionId );
+---
+>                             setRecord ( cursor, Position.LAST_TRANSACTION_ID, transactionId );

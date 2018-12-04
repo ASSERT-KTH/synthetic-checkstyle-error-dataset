@@ -1,0 +1,4 @@
+81c81
+<         this.configOptions = new ConfigOptions( setting );
+---
+>         this	.configOptions = new ConfigOptions( setting );

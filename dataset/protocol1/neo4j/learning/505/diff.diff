@@ -1,0 +1,5 @@
+124,125c124
+<         Log log = mock( Log.class );
+<         DatabaseAvailabilityGuard databaseAvailabilityGuard = getDatabaseAvailabilityGuard( clock, log );
+---
+>         Log log = mock( Log.class );        DatabaseAvailabilityGuard databaseAvailabilityGuard = getDatabaseAvailabilityGuard( clock, log );

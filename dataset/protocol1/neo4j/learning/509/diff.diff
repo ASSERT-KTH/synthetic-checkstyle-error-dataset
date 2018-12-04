@@ -1,0 +1,4 @@
+106c106
+<         fileSystemRule.create( databaseLayout.file( getVersionedLogFileName( "some", "4" ) ) ).close();
+---
+>         fileSystemRule.create( databaseLayout.file ( getVersionedLogFileName( "some", "4" ) ) ).close();

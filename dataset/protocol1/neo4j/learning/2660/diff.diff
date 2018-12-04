@@ -1,0 +1,4 @@
+25c25
+< import static org.neo4j.kernel.impl.transaction.log.entry.LogEntryVersion.CURRENT;
+---
+> import static org.neo4j.kernel.impl.transaction.log.entry.LogEntryVersion.	CURRENT;

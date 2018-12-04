@@ -1,0 +1,4 @@
+113c113
+<         assertThat(instance, equalTo(foo));
+---
+>         assertThat (instance, equalTo(foo));

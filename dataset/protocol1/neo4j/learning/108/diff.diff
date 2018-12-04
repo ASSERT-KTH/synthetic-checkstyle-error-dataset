@@ -1,0 +1,4 @@
+102c102
+<     public void shouldSetTheBaseUriToTheSameProtocolAsTheXForwardProtoHeader()
+---
+>     	public void shouldSetTheBaseUriToTheSameProtocolAsTheXForwardProtoHeader()

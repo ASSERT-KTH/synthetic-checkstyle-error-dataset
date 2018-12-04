@@ -1,0 +1,4 @@
+90c90
+<             throw new IllegalStateException( "Already started" );
+---
+>             	throw new IllegalStateException( "Already started" );

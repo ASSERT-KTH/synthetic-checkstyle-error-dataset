@@ -1,0 +1,5 @@
+54c54,55
+<         node.setLabelField( inlinedLabels, asList( new DynamicRecord( 1L ), new DynamicRecord( 2L ) ) );
+---
+>         node.setLabelField( inlinedLabels, asList( new DynamicRecord( 1L ), new DynamicRecord( 2L 
+> ) ) );

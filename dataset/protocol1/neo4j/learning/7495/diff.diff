@@ -1,0 +1,5 @@
+28,29c28
+<     Iterator<Pair<Integer, String>> labels();
+<     Iterator<Pair<Integer, String>> properties();
+---
+>     Iterator<Pair<Integer, String>> labels();    Iterator<Pair<Integer, String>> properties();

@@ -1,0 +1,4 @@
+35c35
+< public abstract class NestingIterator<T, U> extends PrefetchingIterator<T>
+---
+> public abstract class NestingIterator<T, U> 	extends PrefetchingIterator<T>

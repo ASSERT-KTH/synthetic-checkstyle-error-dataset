@@ -1,0 +1,5 @@
+39,40c39
+<      * @return an {@link TransactionCursor} capable of returning {@link CommittedTransactionRepresentation} instances
+<      * for committed transactions, starting from the specified {@code transactionIdToStartFrom}.
+---
+>      * @return an {@link TransactionCursor} capable of returning {@link CommittedTransactionRepresentation} instances     * for committed transactions, starting from the specified {@code transactionIdToStartFrom}.

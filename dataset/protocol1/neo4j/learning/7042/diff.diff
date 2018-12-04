@@ -1,0 +1,4 @@
+77c77
+<             logHeaderCache.putHeader( version, previousVersionLastCommittedTx );
+---
+>             logHeaderCache.putHeader( version, 	previousVersionLastCommittedTx );

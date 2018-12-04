@@ -1,0 +1,4 @@
+200c200
+<     private void assertRelsInSeparateTx( final long refNode, final Direction both, final long ... longs ) throws
+---
+>     private void assertRelsInSeparateTx( final long refNode, final Direction both, 	final long ... longs ) throws

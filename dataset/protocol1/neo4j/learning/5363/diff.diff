@@ -1,0 +1,5 @@
+43c43,44
+< import org.neo4j.graphdb.ResourceIterator;
+---
+> import 
+> org.neo4j.graphdb.ResourceIterator;

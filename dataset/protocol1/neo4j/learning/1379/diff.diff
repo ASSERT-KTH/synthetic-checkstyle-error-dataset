@@ -1,0 +1,5 @@
+31c31,32
+<     private final List<StorageCommand> commands = new ArrayList<>();
+---
+>     
+> private final List<StorageCommand> commands = new ArrayList<>();

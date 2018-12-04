@@ -1,0 +1,4 @@
+56c56
+<     static <T> Injectable<T> injectable( Class<T> type, T obj )
+---
+>     static <T> Injectable<T> injectable( Class<T> type, 	T obj )

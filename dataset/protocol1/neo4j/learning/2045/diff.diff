@@ -1,0 +1,5 @@
+27c27,28
+<     public static final Comparator<? super NodeLabelUpdate> SORT_BY_NODE_ID =
+---
+>     public static final Comparator<? super 
+> NodeLabelUpdate> SORT_BY_NODE_ID =

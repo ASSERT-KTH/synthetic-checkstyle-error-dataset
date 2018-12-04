@@ -1,0 +1,5 @@
+116c116,117
+<         File aFile = testDirectory.file( "a" );
+---
+>         File aFile = 
+> testDirectory.file( "a" );

@@ -1,0 +1,4 @@
+41c41
+<     public static <R extends AbstractBaseRecord> Iterable<R> cloned( Iterable<R> actual )
+---
+>     public static <R extends AbstractBaseRecord> Iterable<R> cloned( Iterable<R> 	actual )

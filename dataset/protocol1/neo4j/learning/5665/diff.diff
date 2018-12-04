@@ -1,0 +1,4 @@
+408c408
+<     private static int getTemporalType( long firstBlock )
+---
+>     private static int 	getTemporalType( long firstBlock )

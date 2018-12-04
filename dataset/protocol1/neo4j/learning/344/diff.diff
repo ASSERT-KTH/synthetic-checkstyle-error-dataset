@@ -1,0 +1,4 @@
+40c40
+<         assertEquals( parse( "PT5H" ), build( entry( "hours", of( 5 ) ).create() ) );
+---
+>         assertEquals( parse( "PT5H" ), build( entry( "hours", 	of( 5 ) ).create() ) );

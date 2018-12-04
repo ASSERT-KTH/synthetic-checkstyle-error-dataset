@@ -1,0 +1,5 @@
+231c231,232
+<         when( servletRequest.getRequestURL() ).thenReturn( new StringBuffer( "http://bar.baz:7474/db/data/" ) );
+---
+>         when( servletRequest.getRequestURL() 
+> ).thenReturn( new StringBuffer( "http://bar.baz:7474/db/data/" ) );

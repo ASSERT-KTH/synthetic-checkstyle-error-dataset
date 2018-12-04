@@ -1,0 +1,4 @@
+44c44
+<                 buildDecoders( connection, responseMessageWriter, logService ) );
+---
+>                 buildDecoders( connection, responseMessageWriter	, logService ) );

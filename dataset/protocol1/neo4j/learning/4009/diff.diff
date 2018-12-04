@@ -1,0 +1,4 @@
+380c380
+<         IndexEntryUpdate<?> propertyUpdate = createIndexEntryUpdate( index1 );
+---
+>         IndexEntryUpdate<? > propertyUpdate = createIndexEntryUpdate( index1 );

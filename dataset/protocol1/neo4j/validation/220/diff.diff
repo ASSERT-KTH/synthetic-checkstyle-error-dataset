@@ -1,0 +1,4 @@
+74c74
+<             assertEquals( "3", nodes.next().getProperty( "name" ) );
+---
+>             assertEquals( "3", nodes.next().getProperty( "name" ) 	);

@@ -1,0 +1,4 @@
+118c118
+<             protected DataProvider dataProvider()
+---
+>             protected DataProvider dataProvider(	)

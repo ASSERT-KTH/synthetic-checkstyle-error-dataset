@@ -1,0 +1,5 @@
+49c49,50
+<         execute( new DeleteIndexCommand() );
+---
+>         execute( new 
+> DeleteIndexCommand() );

@@ -1,0 +1,5 @@
+50c50,51
+<         String javaHome = System.getProperty( "java.home" );
+---
+>         String javaHome = 
+> System.getProperty( "java.home" );

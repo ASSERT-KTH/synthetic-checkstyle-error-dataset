@@ -1,0 +1,5 @@
+39c39,40
+<     public RunCarefully( Iterable<Runnable> operations )
+---
+>     public RunCarefully( Iterable<Runnable> 
+> operations )

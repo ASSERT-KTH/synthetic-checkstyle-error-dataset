@@ -1,0 +1,5 @@
+32c32,33
+<     private final Log log;
+---
+>     
+> private final Log log;

@@ -1,0 +1,4 @@
+393c393
+<         PhysicalTransactionRepresentation tx = new PhysicalTransactionRepresentation( commands );
+---
+>         PhysicalTransactionRepresentation tx 	= new PhysicalTransactionRepresentation( commands );

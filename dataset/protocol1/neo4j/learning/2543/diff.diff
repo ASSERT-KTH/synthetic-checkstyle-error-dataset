@@ -1,0 +1,4 @@
+63c63
+<     public void init() throws IOException
+---
+>     public void 	init() throws IOException

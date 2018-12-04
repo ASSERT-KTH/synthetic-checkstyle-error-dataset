@@ -1,0 +1,4 @@
+40c40
+<         VirtualValue virtual = new MyVirtualValue( 42 );
+---
+>         VirtualValue virtual = new MyVirtualValue( 42);

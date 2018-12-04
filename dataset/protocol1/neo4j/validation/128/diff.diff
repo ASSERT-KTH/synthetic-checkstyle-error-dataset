@@ -1,0 +1,4 @@
+77c77
+<             procedures.put( name, proc, signature.caseInsensitive() );
+---
+>             procedures.put( name, proc, signature.caseInsensitive(	) );

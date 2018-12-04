@@ -1,0 +1,4 @@
+30c30
+< import static org.neo4j.bolt.v3.messaging.request.CommitMessage.COMMIT_MESSAGE;
+---
+> import static org.neo4j.bolt	.v3.messaging.request.CommitMessage.COMMIT_MESSAGE;

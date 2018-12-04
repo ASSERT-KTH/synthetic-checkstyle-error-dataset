@@ -1,0 +1,4 @@
+56c56
+<     private final DefaultFileSystemRule fileSystemRule = new DefaultFileSystemRule();
+---
+>     	private final DefaultFileSystemRule fileSystemRule = new DefaultFileSystemRule();

@@ -1,0 +1,5 @@
+73c73,74
+<     private void shouldHandleIndexDropConcurrentlyWithOperation( NodeOperation operation ) throws Throwable
+---
+>     private void shouldHandleIndexDropConcurrentlyWithOperation( NodeOperation operation ) throws 
+> Throwable

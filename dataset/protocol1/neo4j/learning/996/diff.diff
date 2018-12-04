@@ -1,0 +1,5 @@
+121,122c121
+<         int second = 2;
+<         PriorityMap<Integer, Integer, Double> map = PriorityMap.withSelfKeyNaturalOrder( false, false);
+---
+>         int second = 2;        PriorityMap<Integer, Integer, Double> map = PriorityMap.withSelfKeyNaturalOrder( false, false);

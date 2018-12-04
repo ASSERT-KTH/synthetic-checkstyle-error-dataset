@@ -1,0 +1,5 @@
+34,35c34
+<         this.downstreamIdleTime = downstreamIdleTime;
+<         TicketedBatch b = new TicketedBatch( ticket, batch );
+---
+>         this.downstreamIdleTime = downstreamIdleTime;        TicketedBatch b = new TicketedBatch( ticket, batch );

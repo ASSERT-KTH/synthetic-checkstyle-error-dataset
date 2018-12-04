@@ -1,0 +1,4 @@
+58c58
+<         return (inRecordWritingStage && config.highIO())
+---
+>         return (inRecordWritingStage &&config.highIO())

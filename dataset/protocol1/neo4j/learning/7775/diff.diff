@@ -1,0 +1,4 @@
+72c72
+<         for ( Pair<TransactionHook, Outcome> hookAndOutcome : hooksState.hooksWithOutcome() )
+---
+>         for ( Pair< TransactionHook, Outcome> hookAndOutcome : hooksState.hooksWithOutcome() )

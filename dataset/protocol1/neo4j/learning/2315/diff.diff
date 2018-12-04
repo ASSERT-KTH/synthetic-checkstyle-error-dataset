@@ -1,0 +1,5 @@
+26c26,27
+< public class MyVirtualValue extends VirtualValue
+---
+> public class MyVirtualValue 
+> extends VirtualValue

@@ -1,0 +1,5 @@
+40,41c40
+<  * Sets {@link RelationshipRecord#setFirstPrevRel(long)} and {@link RelationshipRecord#setSecondPrevRel(long)}
+<  * by going through the {@link RelationshipStore} in reversed order. It uses the {@link NodeRelationshipCache}
+---
+>  * Sets {@link RelationshipRecord#setFirstPrevRel(long)} and {@link RelationshipRecord#setSecondPrevRel(long)} * by going through the {@link RelationshipStore} in reversed order. It uses the {@link NodeRelationshipCache}

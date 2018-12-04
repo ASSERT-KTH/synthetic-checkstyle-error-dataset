@@ -1,0 +1,5 @@
+60c60,61
+<     public void acceptMemoryStatsVisitor( MemoryStatsVisitor visitor )
+---
+>     public 
+> void acceptMemoryStatsVisitor( MemoryStatsVisitor visitor )

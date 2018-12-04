@@ -1,0 +1,4 @@
+76c76
+<         Log log = logProvider.getLog( HttpServletRequest.class );
+---
+>         Log log = logProvider.getLog ( HttpServletRequest.class );

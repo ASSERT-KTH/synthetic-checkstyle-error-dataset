@@ -1,0 +1,5 @@
+147,148c147
+<             n1 = graphDb.createNode( label( "Foo" ) );
+<             n2 = graphDb.createNode();
+---
+>             n1 = graphDb.createNode( label( "Foo" ) );            n2 = graphDb.createNode();

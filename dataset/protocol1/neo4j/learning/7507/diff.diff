@@ -1,0 +1,4 @@
+83c83
+<             throw new IllegalStateException( "Nothing in queue" );
+---
+>             throw new IllegalStateException ( "Nothing in queue" );

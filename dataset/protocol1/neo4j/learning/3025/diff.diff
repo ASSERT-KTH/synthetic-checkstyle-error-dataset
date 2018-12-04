@@ -1,0 +1,5 @@
+129c129,130
+<             throw new ToolFailureException( "Check aborted due to exception", e );
+---
+>             throw new ToolFailureException
+> ( "Check aborted due to exception", e );

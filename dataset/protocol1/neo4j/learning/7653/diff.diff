@@ -1,0 +1,5 @@
+185,186c185
+<                 PageCursorTracerSupplier.NULL, log, EmptyVersionContextSupplier.EMPTY, jobScheduler );
+<         return pageCacheFactory.getOrCreatePageCache();
+---
+>                 PageCursorTracerSupplier.NULL, log, EmptyVersionContextSupplier.EMPTY, jobScheduler );        return pageCacheFactory.getOrCreatePageCache();

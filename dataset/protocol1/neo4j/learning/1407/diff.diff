@@ -1,0 +1,4 @@
+53c53
+<     private final Value value = Values.of( "value" );
+---
+>     private final Value value = 	Values.of( "value" );

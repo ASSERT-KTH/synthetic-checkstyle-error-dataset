@@ -1,0 +1,4 @@
+88c88
+<         channel.read( buf, position );
+---
+>         channel.read( 	buf, position );

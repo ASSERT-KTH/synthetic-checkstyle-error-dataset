@@ -1,0 +1,4 @@
+26c26
+<     WritableBuffer putByte( int offset, byte value );
+---
+>     WritableBuffer putByte( int offset, 	byte value );

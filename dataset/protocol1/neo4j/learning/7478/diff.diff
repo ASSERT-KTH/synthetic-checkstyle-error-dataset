@@ -1,0 +1,4 @@
+89c89
+<     public void error( @Nonnull String message )
+---
+>     public void error(@Nonnull String message )

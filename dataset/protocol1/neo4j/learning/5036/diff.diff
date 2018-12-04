@@ -1,0 +1,5 @@
+41c41,42
+<         String result = "Unable to find transaction " + missingTxId + " in any of my logical logs";
+---
+>         String result 
+> = "Unable to find transaction " + missingTxId + " in any of my logical logs";

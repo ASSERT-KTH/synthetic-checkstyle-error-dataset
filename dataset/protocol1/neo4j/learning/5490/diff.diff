@@ -1,0 +1,5 @@
+28,29c28
+<      * points of execution there may be a need to bring this iterator fully up to date with concurrent changes.
+<      * Calling this method will invalidate any ids that have been cached ahead of it, e.g. read from store, so that
+---
+>      * points of execution there may be a need to bring this iterator fully up to date with concurrent changes.     * Calling this method will invalidate any ids that have been cached ahead of it, e.g. read from store, so that

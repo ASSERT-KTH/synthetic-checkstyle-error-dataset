@@ -1,0 +1,4 @@
+239c239
+<         return newUpdater( mock( SchemaIndex.class ), mock( LuceneIndexWriter.class ), sampler );
+---
+>         return 	newUpdater( mock( SchemaIndex.class ), mock( LuceneIndexWriter.class ), sampler );

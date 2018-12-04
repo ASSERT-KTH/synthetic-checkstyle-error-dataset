@@ -1,0 +1,4 @@
+254c254
+<     private static boolean invalidZipEntry( String name )
+---
+>     private static boolean invalidZipEntry( String 	name )

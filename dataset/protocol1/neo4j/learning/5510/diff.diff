@@ -1,0 +1,5 @@
+64,65c64
+<                                     org.neo4j.graphdb.traversal.BranchCollisionPolicy collisionPolicy,
+<                                     PathEvaluator collisionEvaluator, int maxDepth,
+---
+>                                     org.neo4j.graphdb.traversal.BranchCollisionPolicy collisionPolicy,                                    PathEvaluator collisionEvaluator, int maxDepth,

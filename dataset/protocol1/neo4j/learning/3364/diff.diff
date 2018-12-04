@@ -1,0 +1,5 @@
+108c108,109
+<             document.add( new StringField( LuceneExplicitIndex.KEY_START_NODE_ID, "" + startNode, Store.YES ) );
+---
+>             document.add
+> ( new StringField( LuceneExplicitIndex.KEY_START_NODE_ID, "" + startNode, Store.YES ) );

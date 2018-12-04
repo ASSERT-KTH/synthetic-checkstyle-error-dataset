@@ -1,0 +1,5 @@
+97,98c97
+<         assertEquals( cpath.get( 3 ), graph.getRelationship( "b2", "c2" ) );
+<         assertEquals( cpath.get( 5 ), graph.getRelationship( "c2", "d2" ) );
+---
+>         assertEquals( cpath.get( 3 ), graph.getRelationship( "b2", "c2" ) );        assertEquals( cpath.get( 5 ), graph.getRelationship( "c2", "d2" ) );

@@ -1,0 +1,4 @@
+44c44
+<         public void pruneLogs( long currentVersion )
+---
+>         public void pruneLogs(long currentVersion )

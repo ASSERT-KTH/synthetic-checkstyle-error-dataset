@@ -1,0 +1,4 @@
+75c75
+<         assertArrayEquals( expected.asArray(), reverse.asArray() );
+---
+>         assertArrayEquals( expected.asArray(), reverse.asArray() 	);

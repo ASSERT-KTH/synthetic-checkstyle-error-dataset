@@ -1,0 +1,4 @@
+377c377
+<                     translationTable( neoStores.getLabelTokenStore(), StatementConstants.ANY_LABEL );
+---
+>                     translationTable( neoStores.getLabelTokenStore(), StatementConstants.ANY_LABEL 	);

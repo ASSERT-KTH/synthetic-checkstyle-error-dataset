@@ -1,0 +1,4 @@
+102c102
+<                 node.setProperty( "foo", new double[] { 0, 0, i, i } );
+---
+>                 node.setProperty( "foo", new double[	] { 0, 0, i, i } );

@@ -1,0 +1,4 @@
+250c250
+<     private static long writeResult( byte pointerStateA, byte pointerStateB, long generationA, long generationB )
+---
+>     private static long writeResult( 	byte pointerStateA, byte pointerStateB, long generationA, long generationB )

@@ -1,0 +1,4 @@
+218c218
+<             return delegate.visitRelationshipCommand( command );
+---
+>             return delegate.visitRelationshipCommand( command 	);

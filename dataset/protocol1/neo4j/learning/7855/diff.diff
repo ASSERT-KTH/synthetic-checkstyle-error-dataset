@@ -1,0 +1,4 @@
+30c30
+<     Object readValue( String input ) throws BadInputException;
+---
+>     Object readValue( String input) throws BadInputException;

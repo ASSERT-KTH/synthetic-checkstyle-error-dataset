@@ -1,0 +1,5 @@
+41,42c41
+< import static java.util.Arrays.asList;
+< import static org.hamcrest.MatcherAssert.assertThat;
+---
+> import static java.util.Arrays.asList;import static org.hamcrest.MatcherAssert.assertThat;

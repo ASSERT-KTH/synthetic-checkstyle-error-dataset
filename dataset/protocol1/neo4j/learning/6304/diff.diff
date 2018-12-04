@@ -1,0 +1,4 @@
+183c183
+<     private void collectBadRelationship( Collector collector )
+---
+>     private void collectBadRelationship( Collector collector)

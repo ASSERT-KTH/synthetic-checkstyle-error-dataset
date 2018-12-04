@@ -1,0 +1,5 @@
+64c64,65
+<     public IndexHits<Relationship> query( String key, Object queryOrQueryObjectOrNull, Node startNodeOrNull,
+---
+>     public IndexHits<Relationship> query
+> ( String key, Object queryOrQueryObjectOrNull, Node startNodeOrNull,

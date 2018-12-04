@@ -1,0 +1,4 @@
+38c38
+<     void satisfyWith( Executor executor );
+---
+>     void satisfyWith( Executor executor 	);

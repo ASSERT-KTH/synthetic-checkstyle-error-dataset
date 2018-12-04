@@ -1,0 +1,4 @@
+221c221
+<         public void writeByteArray( byte[] value )
+---
+>         public void writeByteArray(byte[] value )

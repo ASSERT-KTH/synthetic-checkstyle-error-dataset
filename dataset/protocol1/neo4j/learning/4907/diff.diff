@@ -1,0 +1,4 @@
+30c30
+<     public static final FormatFamily INSTANCE = new StandardFormatFamily();
+---
+>     public static final FormatFamily 	INSTANCE = new StandardFormatFamily();

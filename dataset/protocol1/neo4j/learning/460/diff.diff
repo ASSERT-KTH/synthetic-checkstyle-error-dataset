@@ -1,0 +1,4 @@
+237c237
+<     void removeNodeProperty( long node, String property );
+---
+>     	void removeNodeProperty( long node, String property );

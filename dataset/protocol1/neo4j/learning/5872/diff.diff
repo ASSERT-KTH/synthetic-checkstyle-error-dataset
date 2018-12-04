@@ -1,0 +1,4 @@
+497c497
+<         byte blockSize = channel.get(); // the size is stored in bytes // 1
+---
+>         byte blockSize 	= channel.get(); // the size is stored in bytes // 1

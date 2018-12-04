@@ -1,0 +1,5 @@
+35,36c35
+< import org.neo4j.kernel.impl.MyRelTypes;
+< import org.neo4j.kernel.impl.transaction.log.entry.LogEntry;
+---
+> import org.neo4j.kernel.impl.MyRelTypes;import org.neo4j.kernel.impl.transaction.log.entry.LogEntry;

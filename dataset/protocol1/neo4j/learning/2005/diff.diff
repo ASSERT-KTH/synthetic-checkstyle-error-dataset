@@ -1,0 +1,5 @@
+31c31,32
+<     protected TestLayout<MutableLong,MutableLong> getLayout( RandomRule random )
+---
+>     protected TestLayout<MutableLong,MutableLong> getLayout( 
+> RandomRule random )

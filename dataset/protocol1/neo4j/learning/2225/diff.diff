@@ -1,0 +1,4 @@
+167c167
+<         assertThat( c.getByte(), is( (byte) 2 ) );
+---
+>         assertThat( 	c.getByte(), is( (byte) 2 ) );

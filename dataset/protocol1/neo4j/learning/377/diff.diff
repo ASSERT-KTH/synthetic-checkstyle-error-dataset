@@ -1,0 +1,4 @@
+86c86
+<                     rawConfiguration.putIfAbsent( GraphDatabaseSettings.transaction_timeout.name(), value );
+---
+>                     rawConfiguration.putIfAbsent( GraphDatabaseSettings	.transaction_timeout.name(), value );

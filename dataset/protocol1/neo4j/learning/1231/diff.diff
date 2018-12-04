@@ -1,0 +1,4 @@
+75c75
+<         Entry otherState = getStateForCurrentSelector();
+---
+>         Entry otherState = getStateForCurrentSelector(	);

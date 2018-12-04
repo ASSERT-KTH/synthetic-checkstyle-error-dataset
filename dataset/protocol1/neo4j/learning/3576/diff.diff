@@ -1,0 +1,4 @@
+41c41
+<         Config configuration = Config.defaults( GraphDatabaseSettings.pagecache_memory, "8m" );
+---
+>         Config configuration = Config.defaults ( GraphDatabaseSettings.pagecache_memory, "8m" );

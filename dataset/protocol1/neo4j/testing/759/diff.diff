@@ -1,0 +1,5 @@
+106,107c106
+<                     to != null ? to.floatValue() : Float.MAX_VALUE, includeFrom, includeTo );
+<         }
+---
+>                     to != null ? to.floatValue() : Float.MAX_VALUE, includeFrom, includeTo );        }

@@ -1,0 +1,4 @@
+173c173
+<         PartAccessor( PageCache pageCache, FileSystemAbstraction fs, TemporalIndexFiles.FileLayout<KEY> fileLayout,
+---
+>         PartAccessor( PageCache pageCache, FileSystemAbstraction 	fs, TemporalIndexFiles.FileLayout<KEY> fileLayout,

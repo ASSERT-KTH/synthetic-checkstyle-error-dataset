@@ -1,0 +1,5 @@
+32c32,33
+< public abstract class VirtualValue extends AnyValue
+---
+> public abstract class VirtualValue extends 
+> AnyValue

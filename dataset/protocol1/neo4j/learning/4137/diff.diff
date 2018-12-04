@@ -1,0 +1,4 @@
+70c70
+<         assertTrue( LogEntryVersion.moreRecentVersionExists( LogEntryVersion.V2_3_5 ) );
+---
+>         assertTrue( LogEntryVersion	.moreRecentVersionExists( LogEntryVersion.V2_3_5 ) );

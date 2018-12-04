@@ -1,0 +1,5 @@
+59c59,60
+<                     verify( factory, times( 1 ) ).apply( candidate );
+---
+>                     verify
+> ( factory, times( 1 ) ).apply( candidate );

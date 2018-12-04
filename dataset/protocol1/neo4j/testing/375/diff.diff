@@ -1,0 +1,4 @@
+37c37
+<     public TemporalParseException( String errorMsg, String parsedData, int errorIndex )
+---
+>     public TemporalParseException( String errorMsg, String parsedData	, int errorIndex )

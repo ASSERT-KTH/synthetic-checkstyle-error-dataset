@@ -1,0 +1,4 @@
+308c308
+<         for ( Relationship relationship : predecessorRelationShips )
+---
+>         for 	( Relationship relationship : predecessorRelationShips )

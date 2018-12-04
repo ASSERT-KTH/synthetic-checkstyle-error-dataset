@@ -1,0 +1,4 @@
+52c52
+<     IndexSamplingMode( boolean sampleOnlyIfUpdated, boolean blockUntilAllScheduled )
+---
+>     IndexSamplingMode ( boolean sampleOnlyIfUpdated, boolean blockUntilAllScheduled )

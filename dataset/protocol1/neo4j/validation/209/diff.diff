@@ -1,0 +1,5 @@
+85c85,86
+<         public OtherThreadRule<Void> threadA = new OtherThreadRule<>();
+---
+>         public OtherThreadRule<Void> threadA = 
+> new OtherThreadRule<>();

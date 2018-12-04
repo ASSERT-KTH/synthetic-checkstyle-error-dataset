@@ -1,0 +1,4 @@
+83c83
+<         CallableUserFunction function = procedureCompiler.compileFunction( LoggingFunction.class ).get( 0 );
+---
+>         CallableUserFunction function = procedureCompiler.compileFunction( LoggingFunction.class ).get( 	0 );

@@ -1,0 +1,4 @@
+97c97
+<         verify( jobScheduler, times( 1 ) ).schedule( eq( Group.CHECKPOINT ), any( Runnable.class ),
+---
+>         verify( jobScheduler, times( 1 ) ).schedule( eq( Group.CHECKPOINT )	, any( Runnable.class ),

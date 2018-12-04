@@ -1,0 +1,4 @@
+41c41
+<     protected void process( TypeElement annotationType, Element annotated, AnnotationMirror annotation,
+---
+>     protected 	void process( TypeElement annotationType, Element annotated, AnnotationMirror annotation,

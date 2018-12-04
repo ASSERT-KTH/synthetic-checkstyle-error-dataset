@@ -1,0 +1,4 @@
+38c38
+<         assertEquals( "Wrong minThreads value for 1 core", 6, jtc.getMinThreads() );
+---
+>         assertEquals( "Wrong minThreads value for 1 core"	, 6, jtc.getMinThreads() );

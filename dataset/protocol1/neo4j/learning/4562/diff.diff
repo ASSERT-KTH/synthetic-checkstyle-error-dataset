@@ -1,0 +1,5 @@
+47,48c47
+<         if ( index + 1 < transactions.length )
+<         {
+---
+>         if ( index + 1 < transactions.length )        {

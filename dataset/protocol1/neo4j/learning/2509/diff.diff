@@ -1,0 +1,4 @@
+57c57
+<     void merge( KEY key, VALUE value, ValueMerger<KEY,VALUE> valueMerger );
+---
+>     void merge( KEY 	key, VALUE value, ValueMerger<KEY,VALUE> valueMerger );

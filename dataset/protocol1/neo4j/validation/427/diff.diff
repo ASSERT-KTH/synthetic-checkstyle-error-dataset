@@ -1,0 +1,5 @@
+301,302c301
+<                 for ( IndexProvider aliveProvider : aliveProviders )
+<                 {
+---
+>                 for ( IndexProvider aliveProvider : aliveProviders )                {

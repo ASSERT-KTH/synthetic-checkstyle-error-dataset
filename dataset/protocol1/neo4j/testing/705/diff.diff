@@ -1,0 +1,4 @@
+73c73
+<         return constructUserMessage( context, tokenNameLookup, constraint );
+---
+>         return constructUserMessage( context	, tokenNameLookup, constraint );

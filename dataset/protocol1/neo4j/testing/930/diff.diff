@@ -1,0 +1,4 @@
+30c30
+<     private final ImportLogic.Monitor monitor;
+---
+>     	private final ImportLogic.Monitor monitor;

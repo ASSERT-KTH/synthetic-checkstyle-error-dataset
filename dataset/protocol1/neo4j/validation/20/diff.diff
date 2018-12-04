@@ -1,0 +1,5 @@
+102,103c102
+<         cursor.putInt( (int) value );
+<         cursor.putShort( (short) (value >>> Integer.SIZE) );
+---
+>         cursor.putInt( (int) value );        cursor.putShort( (short) (value >>> Integer.SIZE) );

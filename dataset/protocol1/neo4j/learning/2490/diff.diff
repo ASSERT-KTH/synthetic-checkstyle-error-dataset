@@ -1,0 +1,5 @@
+39,40c39
+<         for ( byte i = 0; i < numberOfBytes; i++ )
+<         {
+---
+>         for ( byte i = 0; i < numberOfBytes; i++ )        {

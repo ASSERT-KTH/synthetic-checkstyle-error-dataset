@@ -1,0 +1,4 @@
+41c41
+<                 b.ternaryEquals( a ) );
+---
+>                 b.ternaryEquals( 	a ) );

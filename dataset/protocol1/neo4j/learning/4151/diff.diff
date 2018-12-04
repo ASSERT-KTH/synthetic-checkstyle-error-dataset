@@ -1,0 +1,4 @@
+75c75
+<         neoStores.getRelationshipTypeTokenStore().setHighId( Short.MAX_VALUE - RELATIONSHIP_COUNT / 2 );
+---
+>         neoStores.getRelationshipTypeTokenStore().setHighId( Short.MAX_VALUE -RELATIONSHIP_COUNT / 2 );

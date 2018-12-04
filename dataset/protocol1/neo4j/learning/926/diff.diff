@@ -1,0 +1,4 @@
+90c90
+<         try ( GlobalStoreLocker storeLocker = new GlobalStoreLocker( fileSystemRule.get(), storeLayout ) )
+---
+>         try ( GlobalStoreLocker storeLocker = new GlobalStoreLocker( fileSystemRule	.get(), storeLayout ) )

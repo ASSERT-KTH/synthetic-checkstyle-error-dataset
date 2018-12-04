@@ -1,0 +1,5 @@
+44,45c44
+<     public IntegrityValidator( NeoStores neoStores, IndexingService indexes )
+<     {
+---
+>     public IntegrityValidator( NeoStores neoStores, IndexingService indexes )    {

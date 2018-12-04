@@ -1,0 +1,5 @@
+56,57c56
+<     public String timestamp( long timeWritten, TimeZone timeZone )
+<     {
+---
+>     public String timestamp( long timeWritten, TimeZone timeZone )    {

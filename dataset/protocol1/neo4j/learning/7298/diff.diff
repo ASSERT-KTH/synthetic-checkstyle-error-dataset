@@ -1,0 +1,4 @@
+307c307
+<         assertEqual( expected, actual );
+---
+>         assertEqual( 	expected, actual );

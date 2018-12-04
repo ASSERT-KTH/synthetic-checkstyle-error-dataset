@@ -1,0 +1,4 @@
+22c22
+< public interface Credential
+---
+> public 	interface Credential

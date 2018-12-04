@@ -1,0 +1,5 @@
+77c77,78
+<         QueryStatistics statistics = mock( QueryStatistics.class );
+---
+>         QueryStatistics 
+> statistics = mock( QueryStatistics.class );

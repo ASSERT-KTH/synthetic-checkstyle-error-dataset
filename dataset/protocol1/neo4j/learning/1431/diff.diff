@@ -1,0 +1,5 @@
+49,50c49
+< import org.eclipse.collections.impl.lazy.AbstractLazyIterable;
+< import org.eclipse.collections.impl.map.mutable.primitive.SynchronizedLongLongMap;
+---
+> import org.eclipse.collections.impl.lazy.AbstractLazyIterable;import org.eclipse.collections.impl.map.mutable.primitive.SynchronizedLongLongMap;

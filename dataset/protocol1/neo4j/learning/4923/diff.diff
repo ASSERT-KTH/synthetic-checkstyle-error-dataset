@@ -1,0 +1,5 @@
+79c79,80
+<             return reader.read( cbuf, off, Math.max( len / 2, 1 ) );
+---
+>             return reader.read( cbuf, off, Math.max( len / 2, 1 ) 
+> );

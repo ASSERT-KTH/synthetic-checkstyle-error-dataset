@@ -1,0 +1,4 @@
+148c148
+<         return delegate.listFiles( directory, filter );
+---
+>         return delegate.listFiles( directory	, filter );

@@ -1,0 +1,4 @@
+101c101
+<         builder.append( " ∆" ).append( fitInProgress( currentDelta ) );
+---
+>         builder	.append( " ∆" ).append( fitInProgress( currentDelta ) );

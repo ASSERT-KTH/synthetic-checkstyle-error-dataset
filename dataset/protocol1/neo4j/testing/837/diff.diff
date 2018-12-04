@@ -1,0 +1,5 @@
+30,31c30
+<     GraphDatabaseFacade newGraphDatabase( Config config, Dependencies dependencies );
+< }
+---
+>     GraphDatabaseFacade newGraphDatabase( Config config, Dependencies dependencies );}

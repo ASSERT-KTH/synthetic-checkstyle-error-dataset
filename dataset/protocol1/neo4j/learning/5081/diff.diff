@@ -1,0 +1,5 @@
+30c30,31
+<     public LabelTokenRecord initialize( boolean inUse, int nameId )
+---
+>     public 
+> LabelTokenRecord initialize( boolean inUse, int nameId )

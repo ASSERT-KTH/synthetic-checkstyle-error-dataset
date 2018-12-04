@@ -1,0 +1,4 @@
+70c70
+<         PropertyKeyTokenRecord propertyKeyTokenRecord = new PropertyKeyTokenRecord( getIntId() );
+---
+>         PropertyKeyTokenRecord 	propertyKeyTokenRecord = new PropertyKeyTokenRecord( getIntId() );

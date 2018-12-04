@@ -1,0 +1,5 @@
+40,41c40
+<         for ( X509Certificate x509Certificate : x509Certificates )
+<         {
+---
+>         for ( X509Certificate x509Certificate : x509Certificates )        {

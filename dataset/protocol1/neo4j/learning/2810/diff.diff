@@ -1,0 +1,4 @@
+51c51
+<         assertEquals( "-1L", formatArgument( -1L ) );
+---
+>         	assertEquals( "-1L", formatArgument( -1L ) );

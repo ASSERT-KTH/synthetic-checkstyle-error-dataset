@@ -1,0 +1,4 @@
+37c37
+<         assertEquals( "Failed to load security module with key 'non-existent-security-module'.", argumentException.getMessage() );
+---
+>         assertEquals( 	"Failed to load security module with key 'non-existent-security-module'.", argumentException.getMessage() );

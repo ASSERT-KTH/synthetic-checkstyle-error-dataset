@@ -1,0 +1,4 @@
+87c87
+<         LongIterator source = iterator( 3L, 5L );
+---
+>         LongIterator source= iterator( 3L, 5L );

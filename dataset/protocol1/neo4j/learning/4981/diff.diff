@@ -1,0 +1,4 @@
+87c87
+<         adversary.injectFailure( IllegalArgumentException.class, IOException.class );
+---
+>         adversary.injectFailure( IllegalArgumentException.class	, IOException.class );

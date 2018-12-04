@@ -1,0 +1,4 @@
+44c44
+<     private final IndexReader reader;
+---
+>     private final 	IndexReader reader;

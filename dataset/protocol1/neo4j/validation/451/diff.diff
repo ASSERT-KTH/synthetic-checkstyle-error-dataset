@@ -1,0 +1,4 @@
+36c36
+<     KernelTransaction beginTransaction( LoginContext loginContext, Duration txTimeout, Map<String,Object> txMetaData );
+---
+>     KernelTransaction beginTransaction( LoginContext loginContext, Duration txTimeout, Map<String,Object > txMetaData );

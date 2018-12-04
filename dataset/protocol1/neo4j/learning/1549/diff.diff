@@ -1,0 +1,4 @@
+73c73
+<     public final RuleChain rules = RuleChain.outerRule( random ).around( directory );
+---
+>     public final RuleChain rules = RuleChain.outerRule( random )	.around( directory );

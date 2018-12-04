@@ -1,0 +1,5 @@
+101,102c101
+<         queue.enqueue( 3 );
+<         assertFalse( queue.isEmpty() );
+---
+>         queue.enqueue( 3 );        assertFalse( queue.isEmpty() );

@@ -1,0 +1,5 @@
+61c61,62
+<         this.packer = packerProvider.newPacker( output );
+---
+>         this.packer 
+> = packerProvider.newPacker( output );

@@ -1,0 +1,5 @@
+26c26,27
+<     public static final byte SIGNATURE = 0x0E;
+---
+>     public 
+> static final byte SIGNATURE = 0x0E;

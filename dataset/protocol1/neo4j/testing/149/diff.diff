@@ -1,0 +1,4 @@
+93c93
+<         case RawBits.DOUBLE:
+---
+>         	case RawBits.DOUBLE:

@@ -1,0 +1,5 @@
+61c61,62
+<     TransactionCursor getTransactions( LogPosition position ) throws IOException;
+---
+>     TransactionCursor getTransactions( LogPosition position ) 
+> throws IOException;

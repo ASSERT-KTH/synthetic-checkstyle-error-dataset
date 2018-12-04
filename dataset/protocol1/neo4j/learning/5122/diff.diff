@@ -1,0 +1,4 @@
+141c141
+<                 try ( RawCursor<Hit<RawBytes,RawBytes>,IOException> seek = tree.seek( entry.first(), entry.first() ) )
+---
+>                 try 	( RawCursor<Hit<RawBytes,RawBytes>,IOException> seek = tree.seek( entry.first(), entry.first() ) )

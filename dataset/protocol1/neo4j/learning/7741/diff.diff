@@ -1,0 +1,4 @@
+69c69
+<                 assertArrayEquals( arrayValue, (byte[]) node.getProperty( "array" ) );
+---
+>                 	assertArrayEquals( arrayValue, (byte[]) node.getProperty( "array" ) );

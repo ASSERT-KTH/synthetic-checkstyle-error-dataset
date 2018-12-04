@@ -1,0 +1,4 @@
+42c42
+<         ResourceIterator<Long> it2 = spy( asResourceIterator( iterator( 5L, 6L, 7L ) ) );
+---
+>         ResourceIterator<Long> it2 = spy( asResourceIterator( iterator( 5L, 6L, 7L ) 	) );

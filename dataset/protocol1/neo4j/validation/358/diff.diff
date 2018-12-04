@@ -1,0 +1,5 @@
+102,103c102
+<             String s = crs.getTable().getTableId() + "-" + Integer.toString( crs.getCode() );
+<             this.indexFile = new File( indexDirectory, s );
+---
+>             String s = crs.getTable().getTableId() + "-" + Integer.toString( crs.getCode() );            this.indexFile = new File( indexDirectory, s );

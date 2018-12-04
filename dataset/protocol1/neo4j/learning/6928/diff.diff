@@ -1,0 +1,4 @@
+46c46
+<     AuthenticationResult authenticate( Map<String,Object> authToken ) throws AuthenticationException;
+---
+>     AuthenticationResult authenticate( Map<String,	Object> authToken ) throws AuthenticationException;

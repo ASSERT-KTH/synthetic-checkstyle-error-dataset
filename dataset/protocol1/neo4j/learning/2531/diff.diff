@@ -1,0 +1,4 @@
+50c50
+<         PortProvider portProvider = new CoordinatingPortProvider( portRepository, port -> false );
+---
+>         PortProvider portProvider= new CoordinatingPortProvider( portRepository, port -> false );

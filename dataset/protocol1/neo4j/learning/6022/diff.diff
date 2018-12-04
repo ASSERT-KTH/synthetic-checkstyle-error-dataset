@@ -1,0 +1,4 @@
+82c82
+<             if ( item != null && item.inUse() )
+---
+>             if ( item 	!= null && item.inUse() )

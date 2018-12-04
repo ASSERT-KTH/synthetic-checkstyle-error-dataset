@@ -1,0 +1,5 @@
+144c144,145
+<                 throw new IllegalStateException( "Unknown index key: " + indexKeyByte );
+---
+>                 throw new 
+> IllegalStateException( "Unknown index key: " + indexKeyByte );

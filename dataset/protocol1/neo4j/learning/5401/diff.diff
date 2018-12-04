@@ -1,0 +1,5 @@
+136,137c136
+<      * <li>2-3: New log version has been set, starting the writer will create the new log file idempotently.
+<      * At this point there may be complete transactions in the previous log version which may not have been
+---
+>      * <li>2-3: New log version has been set, starting the writer will create the new log file idempotently.     * At this point there may be complete transactions in the previous log version which may not have been

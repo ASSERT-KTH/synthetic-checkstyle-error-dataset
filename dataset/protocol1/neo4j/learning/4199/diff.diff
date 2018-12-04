@@ -1,0 +1,4 @@
+130c130
+<     public void writeInteger( long value )
+---
+>     public void writeInteger ( long value )

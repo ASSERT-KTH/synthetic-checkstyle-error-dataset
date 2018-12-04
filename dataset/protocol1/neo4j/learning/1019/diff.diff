@@ -1,0 +1,4 @@
+59c59
+<     protected ListWriter serializeList( String type )
+---
+>     protected ListWriter serializeList( 	String type )

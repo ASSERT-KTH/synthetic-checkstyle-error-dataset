@@ -1,0 +1,4 @@
+44c44
+<     public String prettyPrint( TokenNameLookup tokenNameLookup )
+---
+>     public String prettyPrint ( TokenNameLookup tokenNameLookup )

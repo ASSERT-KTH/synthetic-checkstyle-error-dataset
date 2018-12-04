@@ -1,0 +1,4 @@
+101c101
+<             return log.infoLogger();
+---
+>             return log.infoLogger ();

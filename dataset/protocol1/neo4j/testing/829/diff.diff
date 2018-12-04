@@ -1,0 +1,5 @@
+161c161,162
+<             long lineNumber, long position, Object id, Object[] properties, Long propertyId,
+---
+>             long lineNumber, long position, Object 
+> id, Object[] properties, Long propertyId,

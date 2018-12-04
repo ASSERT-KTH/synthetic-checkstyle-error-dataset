@@ -1,0 +1,5 @@
+64c64,65
+<         Path basePath = testDirectory.storeDir("notCanonical").toPath();
+---
+>         Path basePath 
+> = testDirectory.storeDir("notCanonical").toPath();

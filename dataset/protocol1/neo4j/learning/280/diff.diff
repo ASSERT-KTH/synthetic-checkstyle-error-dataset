@@ -1,0 +1,5 @@
+278c278,279
+<     public void shouldNotLeakStatsToNextStatement() throws Throwable
+---
+>     public void shouldNotLeakStatsToNextStatement() 
+> throws Throwable

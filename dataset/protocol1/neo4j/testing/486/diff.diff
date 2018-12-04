@@ -1,0 +1,5 @@
+262,263c262
+<             ThreadToStatementContextBridge statementBridge =
+<                     db.getDependencyResolver().resolveDependency( ThreadToStatementContextBridge.class );
+---
+>             ThreadToStatementContextBridge statementBridge =                    db.getDependencyResolver().resolveDependency( ThreadToStatementContextBridge.class );

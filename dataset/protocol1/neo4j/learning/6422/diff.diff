@@ -1,0 +1,4 @@
+43c43
+<     private Comparison cmp( AnyValue v1, AnyValue v2, boolean ternary )
+---
+>     	private Comparison cmp( AnyValue v1, AnyValue v2, boolean ternary )

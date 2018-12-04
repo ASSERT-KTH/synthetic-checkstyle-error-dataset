@@ -1,0 +1,4 @@
+35c35
+< import static org.mockito.Mockito.when;
+---
+> import static org.mockito.Mockito.when	;

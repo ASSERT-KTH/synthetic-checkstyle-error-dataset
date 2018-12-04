@@ -1,0 +1,4 @@
+99c99
+<             if ( o1.getCompareId() & o2.getCompareId() )
+---
+>             if ( o1	.getCompareId() & o2.getCompareId() )

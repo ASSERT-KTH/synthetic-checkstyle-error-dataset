@@ -1,0 +1,4 @@
+28c28
+< @Service.Implementation( AnalyzerProvider.class )
+---
+> @Service.Implementation	( AnalyzerProvider.class )

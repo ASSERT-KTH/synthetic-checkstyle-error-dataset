@@ -1,0 +1,4 @@
+44c44
+<         semaphore = new Semaphore( 0 );
+---
+>         semaphore =new Semaphore( 0 );

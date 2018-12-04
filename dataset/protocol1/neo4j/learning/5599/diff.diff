@@ -1,0 +1,4 @@
+105c105
+<         void set( Direction side, int depth )
+---
+>         void set( 	Direction side, int depth )

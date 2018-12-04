@@ -1,0 +1,4 @@
+71c71
+<         return serverIdMakesSense( entry.getLocalId() ) &&
+---
+>         return serverIdMakesSense( entry.	getLocalId() ) &&

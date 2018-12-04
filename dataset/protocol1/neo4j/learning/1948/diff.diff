@@ -1,0 +1,5 @@
+221c221,222
+<         public Delegator( GraphDatabaseBuilder actual )
+---
+>         
+> public Delegator( GraphDatabaseBuilder actual )

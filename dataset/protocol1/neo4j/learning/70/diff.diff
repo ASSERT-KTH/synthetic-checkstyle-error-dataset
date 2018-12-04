@@ -1,0 +1,4 @@
+416c416
+<             result[i * 2 + 1] = buffer[i].value;
+---
+>             result[i * 2 + 	1] = buffer[i].value;

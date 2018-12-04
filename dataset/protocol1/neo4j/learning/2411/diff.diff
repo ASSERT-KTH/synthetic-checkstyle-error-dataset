@@ -1,0 +1,4 @@
+89c89
+<             assertThat( node.getProperty( "random" ), is( 42 ) );
+---
+>             assertThat( node.getProperty( "random" )	, is( 42 ) );

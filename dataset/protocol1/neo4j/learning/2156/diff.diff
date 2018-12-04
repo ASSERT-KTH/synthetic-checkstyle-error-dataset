@@ -1,0 +1,4 @@
+94c94
+<     abstract void initValueAsLowest( int stateSlot, ValueGroup valueGroup );
+---
+>     abstract void initValueAsLowest( int stateSlot, ValueGroup valueGroup )	;

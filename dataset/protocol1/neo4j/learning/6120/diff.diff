@@ -1,0 +1,4 @@
+348c348
+<             final long value = prevMemory.readLong( (long) i * Long.BYTES );
+---
+>             final long value = prevMemory.readLong( (long) 	i * Long.BYTES );

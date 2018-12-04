@@ -1,0 +1,4 @@
+25c25
+< public enum IndexValueCapability
+---
+> public enum 	IndexValueCapability

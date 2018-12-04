@@ -1,0 +1,4 @@
+99c99
+<     private static Analyzer createAnalyzer( String analyzerName )
+---
+>     private 	static Analyzer createAnalyzer( String analyzerName )

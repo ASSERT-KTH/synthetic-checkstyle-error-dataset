@@ -1,0 +1,4 @@
+61c61
+<         GraphDatabaseService db = new TestGraphDatabaseFactory().newEmbeddedDatabase( dir );
+---
+>         GraphDatabaseService db = new TestGraphDatabaseFactory(	).newEmbeddedDatabase( dir );

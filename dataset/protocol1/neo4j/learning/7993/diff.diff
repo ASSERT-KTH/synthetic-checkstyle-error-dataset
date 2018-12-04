@@ -1,0 +1,5 @@
+48c48,49
+<     public static <V> Future<List<V>> combine( final Future<? extends V>... futures )
+---
+>     public static 
+> <V> Future<List<V>> combine( final Future<? extends V>... futures )

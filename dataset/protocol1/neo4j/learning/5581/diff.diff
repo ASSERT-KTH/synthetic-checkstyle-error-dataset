@@ -1,0 +1,4 @@
+141c141
+<     public static ConstraintRule readUniquenessConstraintRule( long id, int labelId, ByteBuffer buffer )
+---
+>     public static ConstraintRule readUniquenessConstraintRule( long id, int labelId, ByteBuffer 	buffer )

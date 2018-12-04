@@ -1,0 +1,4 @@
+87c87
+<     TransactionMetadataCache.TransactionMetadata getMetadataFor( long transactionId )
+---
+>     TransactionMetadataCache.TransactionMetadata 	getMetadataFor( long transactionId )

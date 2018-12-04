@@ -1,0 +1,4 @@
+155c155
+<         switch ( (int) key.long1 )
+---
+>         switch ( 	(int) key.long1 )

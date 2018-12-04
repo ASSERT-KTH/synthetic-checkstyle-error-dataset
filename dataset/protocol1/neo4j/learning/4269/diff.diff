@@ -1,0 +1,5 @@
+226c226,227
+<         assertEquals( getExpected( 27, 28 ), storeSizeBean.getSchemaStoreSize() );
+---
+>         assertEquals
+> ( getExpected( 27, 28 ), storeSizeBean.getSchemaStoreSize() );

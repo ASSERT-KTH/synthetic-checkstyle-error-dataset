@@ -1,0 +1,4 @@
+156c156
+<         doc.add( new StringField( "test", UUID.randomUUID().toString(), Field.Store.YES ) );
+---
+>         doc.	add( new StringField( "test", UUID.randomUUID().toString(), Field.Store.YES ) );

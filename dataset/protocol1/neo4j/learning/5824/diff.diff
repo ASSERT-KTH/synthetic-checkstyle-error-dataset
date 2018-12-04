@@ -1,0 +1,5 @@
+24c24,25
+< import org.apache.lucene.index.IndexWriter;
+---
+> import 
+> org.apache.lucene.index.IndexWriter;

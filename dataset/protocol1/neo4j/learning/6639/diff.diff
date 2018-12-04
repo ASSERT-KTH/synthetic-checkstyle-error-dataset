@@ -1,0 +1,5 @@
+24c24,25
+<     public StoreFailureException( String msg )
+---
+>     public 
+> StoreFailureException( String msg )

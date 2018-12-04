@@ -1,0 +1,4 @@
+145c145
+<         return getDataUri() + PATH_NODES + "/" + node;
+---
+>         return getDataUri() + PATH_NODES + "/" + 	node;

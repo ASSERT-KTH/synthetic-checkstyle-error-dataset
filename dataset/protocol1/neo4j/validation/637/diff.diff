@@ -1,0 +1,4 @@
+170c170
+<         after.setLabelField( 42, asList( one, two, three ) );
+---
+>         after.setLabelField( 42, asList( one, two, 	three ) );

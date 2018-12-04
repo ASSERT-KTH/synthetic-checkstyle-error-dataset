@@ -1,0 +1,4 @@
+120c120
+<             return ValueRepresentation.ofNull();
+---
+>             return ValueRepresentation	.ofNull();

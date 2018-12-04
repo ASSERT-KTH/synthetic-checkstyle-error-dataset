@@ -1,0 +1,4 @@
+138c138
+<     static int positionOf( int searchResult )
+---
+>     static int 	positionOf( int searchResult )

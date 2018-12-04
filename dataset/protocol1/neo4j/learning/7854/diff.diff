@@ -1,0 +1,4 @@
+28c28
+<         super( BASE_RECORD_SIZE, StandardFormatSettings.LABEL_TOKEN_MAXIMUM_ID_BITS );
+---
+>         super( BASE_RECORD_SIZE, StandardFormatSettings.	LABEL_TOKEN_MAXIMUM_ID_BITS );

@@ -1,0 +1,5 @@
+39,40c39
+<             throw new UnsupportedOperationException( "multiple bytecode checkers" );
+<         }
+---
+>             throw new UnsupportedOperationException( "multiple bytecode checkers" );        }

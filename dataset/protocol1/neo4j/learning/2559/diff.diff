@@ -1,0 +1,5 @@
+51c51,52
+<         int percent = max == 0 ? HUNDRED : Math.min( HUNDRED, (int) ((current * HUNDRED) / max) );
+---
+>         int percent = max == 0 ? HUNDRED : 
+> Math.min( HUNDRED, (int) ((current * HUNDRED) / max) );

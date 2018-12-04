@@ -1,0 +1,5 @@
+50,51c50
+<     private ExecutionEngine executionEngine;
+<     private TransactionalContextFactory contextFactory;
+---
+>     private ExecutionEngine executionEngine;    private TransactionalContextFactory contextFactory;

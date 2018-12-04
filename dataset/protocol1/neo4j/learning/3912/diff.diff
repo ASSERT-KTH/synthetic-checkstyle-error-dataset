@@ -1,0 +1,5 @@
+382,383c382
+<         machine.process( PullAllMessage.INSTANCE, recorder );
+<         machine.process( new RunMessage( "COMMIT", EMPTY_MAP ), nullResponseHandler() );
+---
+>         machine.process( PullAllMessage.INSTANCE, recorder );        machine.process( new RunMessage( "COMMIT", EMPTY_MAP ), nullResponseHandler() );

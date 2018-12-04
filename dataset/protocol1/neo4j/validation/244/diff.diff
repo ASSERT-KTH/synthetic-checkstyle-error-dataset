@@ -1,0 +1,4 @@
+29c29
+<         state.tx = state.graphDb.beginTx();
+---
+>         state.tx = state.graphDb.beginTx ();

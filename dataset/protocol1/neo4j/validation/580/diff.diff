@@ -1,0 +1,4 @@
+120c120
+<             race.addContestant( indexDrop( index ), 1 );
+---
+>             race.addContestant( indexDrop( index ), 1 )	;

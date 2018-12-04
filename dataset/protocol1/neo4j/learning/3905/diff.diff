@@ -1,0 +1,4 @@
+117c117
+<             packer.pack( Values.of( 4.012 ) );
+---
+>             packer.pack( Values.of( 4.012 ) 	);

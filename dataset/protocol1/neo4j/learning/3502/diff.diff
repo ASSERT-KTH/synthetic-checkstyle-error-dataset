@@ -1,0 +1,5 @@
+41,42c41
+<      * @param channel {@link ReadableClosableChannel} to read the data from.
+<      * @param marker {@link LogPositionMarker} marking the position in the {@code channel} that is the
+---
+>      * @param channel {@link ReadableClosableChannel} to read the data from.     * @param marker {@link LogPositionMarker} marking the position in the {@code channel} that is the

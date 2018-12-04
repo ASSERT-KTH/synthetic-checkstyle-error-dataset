@@ -1,0 +1,4 @@
+36c36
+<     static void validateQuery( IndexCapability capability, IndexOrder indexOrder, IndexQuery[] predicates )
+---
+>     static void validateQuery( IndexCapability capability	, IndexOrder indexOrder, IndexQuery[] predicates )

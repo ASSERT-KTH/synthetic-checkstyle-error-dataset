@@ -1,0 +1,4 @@
+39c39
+<             return ADDED.forLabel( before, after, label ) && REMOVED.forLabel( before, after, label );
+---
+>             return ADDED.forLabel( before, after, label 	) && REMOVED.forLabel( before, after, label );

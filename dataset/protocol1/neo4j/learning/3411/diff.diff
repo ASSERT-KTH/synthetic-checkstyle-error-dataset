@@ -1,0 +1,5 @@
+57,58c57
+<         }
+<         Bits bits = Bits.bitsFromBytes( array );
+---
+>         }        Bits bits = Bits.bitsFromBytes( array );

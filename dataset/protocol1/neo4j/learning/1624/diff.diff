@@ -1,0 +1,4 @@
+41c41
+<     void addToCoveredArea( long size );
+---
+>     void addToCoveredArea( long size 	);

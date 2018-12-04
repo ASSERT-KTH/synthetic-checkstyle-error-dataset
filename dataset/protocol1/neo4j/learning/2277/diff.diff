@@ -1,0 +1,4 @@
+115c115
+<             return (float) progress.getCompleted() / (float) progress.getTotal();
+---
+>             return (float) progress.getCompleted() / (float) progress.getTotal ();

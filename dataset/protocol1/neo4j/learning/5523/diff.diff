@@ -1,0 +1,4 @@
+104c104
+<         this.trust_all = group.scope( setting( "trust_all", BOOLEAN, FALSE ) );
+---
+>         this.trust_all = group.scope ( setting( "trust_all", BOOLEAN, FALSE ) );

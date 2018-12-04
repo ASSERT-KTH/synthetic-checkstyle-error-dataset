@@ -1,0 +1,5 @@
+112c112,113
+<                 for ( Future<? extends V> future : futures )
+---
+>                 for ( Future<? extends V> 
+> future : futures )

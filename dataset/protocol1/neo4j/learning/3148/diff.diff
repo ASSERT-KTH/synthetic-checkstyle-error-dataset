@@ -1,0 +1,4 @@
+36c36
+<     public Stream<Long> wrongReturnTypeFunction( @Name( "foo" ) String parameter )
+---
+>     public Stream<Long> wrongReturnTypeFunction(@Name( "foo" ) String parameter )

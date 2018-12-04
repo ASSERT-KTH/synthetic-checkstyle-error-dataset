@@ -1,0 +1,4 @@
+38c38
+<     private final FacadeMethod<Index<Node>> facadeMethod;
+---
+>     private final FacadeMethod<Index<Node >> facadeMethod;

@@ -1,0 +1,4 @@
+39c39
+< import org.neo4j.kernel.api.explicitindex.AutoIndexing;
+---
+> import org.	neo4j.kernel.api.explicitindex.AutoIndexing;

@@ -1,0 +1,4 @@
+145c145
+<             int keyBId = tx.tokenRead().propertyKey( keyB( i ) );
+---
+>             int keyBId = tx.tokenRead().propertyKey( keyB( i 	) );

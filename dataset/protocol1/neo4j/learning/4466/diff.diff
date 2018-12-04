@@ -1,0 +1,5 @@
+193,194c193
+<     public void exitWithFailureIfConfigSpecifiedButConfigFileDoesNotExist() throws Exception
+<     {
+---
+>     public void exitWithFailureIfConfigSpecifiedButConfigFileDoesNotExist() throws Exception    {

@@ -1,0 +1,5 @@
+44c44,45
+<         long nullKey = table.nullKey();
+---
+>         long nullKey 
+> = table.nullKey();

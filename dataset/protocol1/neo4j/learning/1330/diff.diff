@@ -1,0 +1,5 @@
+211,212c211
+<     public void checkPointMustBeAbleToExpandCapacity()
+<     {
+---
+>     public void checkPointMustBeAbleToExpandCapacity()    {

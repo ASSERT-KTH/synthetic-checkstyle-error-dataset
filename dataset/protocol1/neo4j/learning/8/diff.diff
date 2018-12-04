@@ -1,0 +1,4 @@
+54c54
+<         entry = logEntryReader.readLogEntry( channel );
+---
+>         entry = logEntryReader.readLogEntry( 	channel );

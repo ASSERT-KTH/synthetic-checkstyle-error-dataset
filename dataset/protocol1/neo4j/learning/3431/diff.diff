@@ -1,0 +1,4 @@
+105c105
+<     public IndexUpdater newPopulatingUpdater( NodePropertyAccessor accessor )
+---
+>     public IndexUpdater 	newPopulatingUpdater( NodePropertyAccessor accessor )

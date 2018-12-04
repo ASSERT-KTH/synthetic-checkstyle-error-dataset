@@ -1,0 +1,4 @@
+69c69
+<         return new Decorator<Path>( wrapped )
+---
+>         return new Decorator<Path >( wrapped )

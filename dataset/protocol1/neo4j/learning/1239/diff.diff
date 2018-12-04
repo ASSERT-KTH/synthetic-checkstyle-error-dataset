@@ -1,0 +1,4 @@
+126c126
+<             assertEquals( i, key[0] & 0xFF );
+---
+>             assertEquals( i, key[0]& 0xFF );

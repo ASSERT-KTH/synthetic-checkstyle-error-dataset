@@ -1,0 +1,4 @@
+109c109
+<     Configuration DEFAULT = new Default();
+---
+>     Configuration DEFAULT = new Default ();

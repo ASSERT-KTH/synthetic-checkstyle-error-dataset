@@ -1,0 +1,5 @@
+96c96,97
+<             assertNext( relationships[3], iterator );
+---
+>             assertNext( relationships[3], iterator 
+> );

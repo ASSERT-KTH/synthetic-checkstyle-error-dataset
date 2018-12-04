@@ -1,0 +1,5 @@
+160c160,161
+<     static IndexEntryUpdate<LabelSchemaDescriptor> add( Value... value )
+---
+>     static IndexEntryUpdate<LabelSchemaDescriptor> add( Value... value 
+> )

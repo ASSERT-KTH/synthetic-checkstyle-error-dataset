@@ -1,0 +1,5 @@
+43,44c43
+<     private final EntityType type;
+<     private final Collection<String> properties;
+---
+>     private final EntityType type;    private final Collection<String> properties;

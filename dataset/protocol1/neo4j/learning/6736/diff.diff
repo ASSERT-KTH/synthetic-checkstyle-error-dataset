@@ -1,0 +1,5 @@
+79,80c79
+<             return singleUpdater.initialize( tree.writer() );
+<         }
+---
+>             return singleUpdater.initialize( tree.writer() );        }

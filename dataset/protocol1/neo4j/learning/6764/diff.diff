@@ -1,0 +1,4 @@
+126c126
+<         assertTrue( map.put( second, 2d) );
+---
+>         assertTrue( map.put( second, 2d) 	);

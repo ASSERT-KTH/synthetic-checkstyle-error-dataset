@@ -1,0 +1,4 @@
+57c57
+<         verify( connection ).stop();
+---
+>         verify( connection ).	stop();

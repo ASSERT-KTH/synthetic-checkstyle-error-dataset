@@ -1,0 +1,4 @@
+70c70
+<     public Injectable<E> getInjectable( ComponentContext ic, Context a, Class<E> c )
+---
+>     public Injectable< E> getInjectable( ComponentContext ic, Context a, Class<E> c )

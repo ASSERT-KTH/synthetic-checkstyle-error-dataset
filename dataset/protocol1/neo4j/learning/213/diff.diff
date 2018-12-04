@@ -1,0 +1,5 @@
+405c405,406
+<         long excl = (s & EXL_MASK) >>> MOD_BITS + CNT_BITS + SEQ_BITS;
+---
+>         long excl 
+> = (s & EXL_MASK) >>> MOD_BITS + CNT_BITS + SEQ_BITS;

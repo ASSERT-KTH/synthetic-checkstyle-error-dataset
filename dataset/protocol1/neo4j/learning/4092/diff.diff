@@ -1,0 +1,4 @@
+105c105
+<         KernelTransactionImplementation tx = mock( KernelTransactionImplementation.class );
+---
+>         KernelTransactionImplementation tx = mock( KernelTransactionImplementation.	class );

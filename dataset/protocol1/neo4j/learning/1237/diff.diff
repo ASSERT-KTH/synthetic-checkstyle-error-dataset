@@ -1,0 +1,5 @@
+131c131,132
+<     private boolean isNotEmptyDirectory( File file )
+---
+>     private boolean isNotEmptyDirectory( File 
+> file )

@@ -1,0 +1,4 @@
+33c33
+<     boolean injectFailureOrMischief( Class<? extends Throwable>... failureTypes );
+---
+>     boolean injectFailureOrMischief( Class<? 	extends Throwable>... failureTypes );

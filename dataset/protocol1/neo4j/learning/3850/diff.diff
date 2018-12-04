@@ -1,0 +1,5 @@
+26c26,27
+<     VALUE put( long key, VALUE value );
+---
+>     VALUE put
+> ( long key, VALUE value );

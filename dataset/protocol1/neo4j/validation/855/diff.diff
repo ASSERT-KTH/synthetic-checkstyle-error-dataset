@@ -1,0 +1,4 @@
+38c38
+<     boolean maxCostExceeded( T currentCost );
+---
+>     boolean maxCostExceeded(T currentCost );

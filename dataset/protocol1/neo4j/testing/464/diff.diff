@@ -1,0 +1,5 @@
+45c45,46
+<     public Iterator<T> iterator()
+---
+>     public 
+> Iterator<T> iterator()

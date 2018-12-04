@@ -1,0 +1,5 @@
+24c24,25
+< public interface StoreHeaderFormat<HEADER extends StoreHeader>
+---
+> public interface StoreHeaderFormat<HEADER extends 
+> StoreHeader>

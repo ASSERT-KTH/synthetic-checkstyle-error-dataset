@@ -1,0 +1,5 @@
+100c100,101
+<         result = 31 * result + (int) (byteOffset ^ (byteOffset >>> 32));
+---
+>         result = 31 * result + (int) 
+> (byteOffset ^ (byteOffset >>> 32));

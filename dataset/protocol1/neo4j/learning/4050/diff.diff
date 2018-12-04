@@ -1,0 +1,4 @@
+24c24
+< package org.neo4j.helpers.collection;
+---
+> package org.neo4j.helpers.	collection;

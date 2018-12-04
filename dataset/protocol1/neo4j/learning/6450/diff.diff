@@ -1,0 +1,5 @@
+393c393,394
+<             final PagedFile pf = pageCache.map( file, filePageSize );
+---
+>             final 
+> PagedFile pf = pageCache.map( file, filePageSize );

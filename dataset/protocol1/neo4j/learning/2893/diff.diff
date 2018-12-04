@@ -1,0 +1,5 @@
+101c101,102
+<     private static VersionContext getCursorContext( TransactionalContext context )
+---
+>     private 
+> static VersionContext getCursorContext( TransactionalContext context )

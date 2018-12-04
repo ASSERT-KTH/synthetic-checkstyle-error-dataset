@@ -1,0 +1,5 @@
+55c55,56
+<         File file = new File( directory, "config" );
+---
+>         File file = new 
+> File( directory, "config" );

@@ -1,0 +1,5 @@
+66,67c66
+<     DocumentContext getDocument( EntityId entityId, boolean allowCreate )
+<     {
+---
+>     DocumentContext getDocument( EntityId entityId, boolean allowCreate )    {

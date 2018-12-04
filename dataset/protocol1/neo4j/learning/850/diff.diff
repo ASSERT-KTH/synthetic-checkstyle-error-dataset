@@ -1,0 +1,5 @@
+116c116,117
+<     abstract RecordStore<?> getRecordStore( StoreAccess storeAccess );
+---
+>     abstract RecordStore<?> getRecordStore( 
+> StoreAccess storeAccess );

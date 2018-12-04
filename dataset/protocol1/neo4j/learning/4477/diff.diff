@@ -1,0 +1,5 @@
+55c55,56
+<         when( neoServer.getDatabase() ).thenReturn( database );
+---
+>         when
+> ( neoServer.getDatabase() ).thenReturn( database );

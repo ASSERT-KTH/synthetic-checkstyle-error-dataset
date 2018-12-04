@@ -1,0 +1,4 @@
+142c142
+<         RecordChange<NodeRecord,Void> deletedNode = mock( RecordChange.class );
+---
+>         RecordChange<NodeRecord,Void>deletedNode = mock( RecordChange.class );

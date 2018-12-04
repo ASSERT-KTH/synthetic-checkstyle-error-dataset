@@ -1,0 +1,4 @@
+63c63
+<     PrimitiveLongResourceIterator nodesWithAnyOfLabels( long fromId, int[] labelIds );
+---
+>     PrimitiveLongResourceIterator nodesWithAnyOfLabels( 	long fromId, int[] labelIds );

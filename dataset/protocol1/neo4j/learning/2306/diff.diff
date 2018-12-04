@@ -1,0 +1,4 @@
+24c24
+< import org.apache.lucene.analysis.core.LowerCaseFilter;
+---
+> import org.apache.lucene.analysis	.core.LowerCaseFilter;

@@ -1,0 +1,4 @@
+152c152
+<         final Map<String,String> udcFields = new HashMap<>();
+---
+>         final Map<String,String> udcFields = 	new HashMap<>();

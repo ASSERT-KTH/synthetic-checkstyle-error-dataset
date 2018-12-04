@@ -1,0 +1,4 @@
+41c41
+<         return ( (Number) relationship.getProperty( costPropertyName, defaultCost ) ).doubleValue();
+---
+>         return ( (Number) relationship.getProperty( costPropertyName, defaultCost ) ).doubleValue()	;

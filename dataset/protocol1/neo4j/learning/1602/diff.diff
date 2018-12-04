@@ -1,0 +1,5 @@
+22,23c22
+< import org.neo4j.internal.kernel.api.Kernel;
+< import org.neo4j.scheduler.JobScheduler;
+---
+> import org.neo4j.internal.kernel.api.Kernel;import org.neo4j.scheduler.JobScheduler;

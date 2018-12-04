@@ -1,0 +1,4 @@
+35c35
+<             Predicate<RelationshipRecord> filter, int nodeTypes, StatsProvider... additionalStatsProvider )
+---
+>             Predicate<RelationshipRecord>filter, int nodeTypes, StatsProvider... additionalStatsProvider )

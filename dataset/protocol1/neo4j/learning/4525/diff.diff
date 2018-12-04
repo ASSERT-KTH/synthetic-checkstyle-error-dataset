@@ -1,0 +1,5 @@
+50,51c50
+<         assertTypeName( double.class, "D" );
+<         assertTypeName( boolean.class, "Z" );
+---
+>         assertTypeName( double.class, "D" );        assertTypeName( boolean.class, "Z" );

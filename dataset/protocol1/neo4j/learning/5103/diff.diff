@@ -1,0 +1,4 @@
+40c40
+< import static org.neo4j.values.storable.ValueWriter.ArrayType.STRING;
+---
+> import static org.neo4j.values.storable.ValueWriter.ArrayType	.STRING;

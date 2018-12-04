@@ -1,0 +1,5 @@
+223c223,224
+<         return select( predicate, new LongHashSet() );
+---
+>         return select
+> ( predicate, new LongHashSet() );

@@ -1,0 +1,4 @@
+86c86
+<         LucenePartitionAllDocumentsReader reader2 = new LucenePartitionAllDocumentsReader( partitionSearcher2 );
+---
+>         LucenePartitionAllDocumentsReader reader2 =new LucenePartitionAllDocumentsReader( partitionSearcher2 );

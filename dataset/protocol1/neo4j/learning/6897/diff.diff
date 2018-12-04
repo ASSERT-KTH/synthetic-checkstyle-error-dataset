@@ -1,0 +1,4 @@
+125c125
+<         for ( Class<? extends PropertyContainer> cls : new Class[] {Node.class, Relationship.class} )
+---
+>         for ( Class<? extends PropertyContainer> cls : new Class[] {Node.	class, Relationship.class} )

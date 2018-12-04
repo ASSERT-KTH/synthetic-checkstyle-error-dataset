@@ -1,0 +1,4 @@
+36c36
+< import org.neo4j.internal.kernel.api.security.AuthSubject;
+---
+> import org.neo4j.internal.kernel.api.security.AuthSubject	;

@@ -1,0 +1,5 @@
+48c48,49
+<     public void print( Consumer<String> output )
+---
+>     public void print
+> ( Consumer<String> output )

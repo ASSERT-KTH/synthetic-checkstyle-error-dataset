@@ -1,0 +1,4 @@
+64c64
+<         buffer.position( readPosition );
+---
+>         buffer.position( readPosition 	);

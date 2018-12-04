@@ -1,0 +1,5 @@
+73,74c73
+<     protected void removed( IndexEntryUpdate<?> update )
+<     {
+---
+>     protected void removed( IndexEntryUpdate<?> update )    {

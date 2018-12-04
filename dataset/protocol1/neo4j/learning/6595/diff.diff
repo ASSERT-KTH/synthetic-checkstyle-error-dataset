@@ -1,0 +1,5 @@
+51,52c51
+<     private final LogEntryStart start = new LogEntryStart( 0, 0, 0, 0, null, startPosition );
+<     private final LogEntryCommand command = new LogEntryCommand(
+---
+>     private final LogEntryStart start = new LogEntryStart( 0, 0, 0, 0, null, startPosition );    private final LogEntryCommand command = new LogEntryCommand(

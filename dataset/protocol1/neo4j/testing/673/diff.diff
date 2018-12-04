@@ -1,0 +1,4 @@
+51c51
+<         StageControl control = mock( StageControl.class );
+---
+>         StageControl control = mock( StageControl.	class );

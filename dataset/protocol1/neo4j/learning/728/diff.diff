@@ -1,0 +1,5 @@
+60,61c60
+<      * that the configuration doesn't need to be checked.
+<      * @return {@code true} if the index with the specific {@code name} and {@code entityType} exists, otherwise {@code false}.
+---
+>      * that the configuration doesn't need to be checked.     * @return {@code true} if the index with the specific {@code name} and {@code entityType} exists, otherwise {@code false}.

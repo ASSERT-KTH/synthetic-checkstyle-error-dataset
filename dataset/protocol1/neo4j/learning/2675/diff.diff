@@ -1,0 +1,4 @@
+30c30
+<     ProgressiveState<Key> initialize( RotationStrategy rotation ) throws IOException
+---
+>     ProgressiveState<Key> initialize( RotationStrategy 	rotation ) throws IOException

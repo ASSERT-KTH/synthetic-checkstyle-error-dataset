@@ -1,0 +1,5 @@
+26c26,27
+<         extends RelationshipDataAccessor, SuspendableCursor<RelationshipTraversalCursor.Position>
+---
+>         extends 
+> RelationshipDataAccessor, SuspendableCursor<RelationshipTraversalCursor.Position>

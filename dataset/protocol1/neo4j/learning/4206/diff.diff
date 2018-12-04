@@ -1,0 +1,5 @@
+69c69,70
+<         this( channel, output, machine, logService, listener, queueMonitor, DEFAULT_MAX_BATCH_SIZE );
+---
+>         this( channel, output, machine, logService, listener, queueMonitor, 
+> DEFAULT_MAX_BATCH_SIZE );

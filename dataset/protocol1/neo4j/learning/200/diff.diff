@@ -1,0 +1,5 @@
+291c291,292
+<         try ( PageCursor cursor = pagedFile.io( pageId, PagedFile.PF_SHARED_READ_LOCK ) )
+---
+>         try ( PageCursor cursor = pagedFile.io( 
+> pageId, PagedFile.PF_SHARED_READ_LOCK ) )

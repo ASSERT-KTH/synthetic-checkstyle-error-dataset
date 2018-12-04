@@ -1,0 +1,5 @@
+169,170c169
+<             assertThat( e.getMessage(), containsString( "multiple log versions" ) );
+<         }
+---
+>             assertThat( e.getMessage(), containsString( "multiple log versions" ) );        }

@@ -1,0 +1,4 @@
+107c107
+<                 writer.addDocument( LuceneDocumentStructure.documentRepresentingProperties( nodeId, values ) );
+---
+>                 writer.addDocument( LuceneDocumentStructure.documentRepresentingProperties( nodeId, values 	) );

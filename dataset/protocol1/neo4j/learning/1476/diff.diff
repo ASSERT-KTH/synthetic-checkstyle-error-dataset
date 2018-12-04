@@ -1,0 +1,4 @@
+24c24
+<     long INITIAL_LOG_VERSION = 0;
+---
+>     long 	INITIAL_LOG_VERSION = 0;

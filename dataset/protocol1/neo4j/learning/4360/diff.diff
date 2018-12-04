@@ -1,0 +1,5 @@
+156,157c156
+<                 diff.add( "Other has constraint " + otherConstraint + " which I don't" );
+<             }
+---
+>                 diff.add( "Other has constraint " + otherConstraint + " which I don't" );            }

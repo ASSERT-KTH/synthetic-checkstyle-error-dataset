@@ -1,0 +1,4 @@
+27c27
+<     public static final NoStoreHeader NO_STORE_HEADER = new NoStoreHeader();
+---
+>     public static final NoStoreHeader NO_STORE_HEADER = new 	NoStoreHeader();

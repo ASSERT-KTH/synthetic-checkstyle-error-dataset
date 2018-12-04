@@ -1,0 +1,4 @@
+26c26
+< import org.neo4j.kernel.impl.transaction.command.Command;
+---
+> import org.neo4j.kernel	.impl.transaction.command.Command;

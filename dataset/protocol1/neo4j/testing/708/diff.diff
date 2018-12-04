@@ -1,0 +1,4 @@
+114c114
+<                 l.add( Values.stringValue( substring ) );
+---
+>                 l.add( Values	.stringValue( substring ) );

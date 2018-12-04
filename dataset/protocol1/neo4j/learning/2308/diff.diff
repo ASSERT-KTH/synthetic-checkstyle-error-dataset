@@ -1,0 +1,5 @@
+40,41c40
+<     private final PagedFile pagedFile;
+<     private final Condition condition;
+---
+>     private final PagedFile pagedFile;    private final Condition condition;

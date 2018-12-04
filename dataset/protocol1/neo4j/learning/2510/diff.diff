@@ -1,0 +1,4 @@
+30c30
+< public interface DijkstraPriorityQueue<CostType>
+---
+> public interface DijkstraPriorityQueue< CostType>

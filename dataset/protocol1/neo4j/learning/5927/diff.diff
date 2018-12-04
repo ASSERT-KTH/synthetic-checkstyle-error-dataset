@@ -1,0 +1,4 @@
+28c28
+<     public static final DiscardAllMessage INSTANCE = new DiscardAllMessage();
+---
+>     public static final DiscardAllMessage 	INSTANCE = new DiscardAllMessage();

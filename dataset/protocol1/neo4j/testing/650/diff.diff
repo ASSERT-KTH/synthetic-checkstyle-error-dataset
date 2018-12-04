@@ -1,0 +1,5 @@
+173c173,174
+<     public static Matcher<? extends LogEntry> checkPoint( final LogPosition position )
+---
+>     public static Matcher<? extends LogEntry> checkPoint
+> ( final LogPosition position )

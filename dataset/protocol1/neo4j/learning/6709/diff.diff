@@ -1,0 +1,4 @@
+72c72
+<     private static final int NODE_COUNT_BASELINE = 10;
+---
+>     private static 	final int NODE_COUNT_BASELINE = 10;

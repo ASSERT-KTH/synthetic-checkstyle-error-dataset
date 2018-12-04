@@ -1,0 +1,5 @@
+39c39,40
+<     private final PageCachedNumberArrayFactory factory = new PageCachedNumberArrayFactory( mock( PageCache.class ), new File( "storeDir" ) );
+---
+>     private final PageCachedNumberArrayFactory factory = new PageCachedNumberArrayFactory( mock( PageCache.class ), new 
+> File( "storeDir" ) );

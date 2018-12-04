@@ -1,0 +1,4 @@
+56c56
+<     public static long getNanosOfDayUTC( OffsetTime value )
+---
+>     public static long 	getNanosOfDayUTC( OffsetTime value )

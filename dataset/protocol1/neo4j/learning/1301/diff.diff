@@ -1,0 +1,4 @@
+81c81
+<         IdRange idRange = (IdRange) o;
+---
+>         IdRange idRange = (IdRange ) o;

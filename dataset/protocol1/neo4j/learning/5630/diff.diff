@@ -1,0 +1,4 @@
+28c28
+< import static org.mockito.Mockito.when;
+---
+> import 	static org.mockito.Mockito.when;

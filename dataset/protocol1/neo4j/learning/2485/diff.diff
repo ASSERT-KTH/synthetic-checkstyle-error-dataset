@@ -1,0 +1,4 @@
+41c41
+<     private final IndexSpecificSpaceFillingCurveSettingsCache spatialSettings;
+---
+>     private final 	IndexSpecificSpaceFillingCurveSettingsCache spatialSettings;

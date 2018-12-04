@@ -1,0 +1,5 @@
+118c118,119
+<     TraversalDescription evaluator( PathEvaluator evaluator );
+---
+>     TraversalDescription evaluator( PathEvaluator evaluator 
+> );

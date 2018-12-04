@@ -1,0 +1,4 @@
+66c66
+<         long sampleSize = Math.addExact( sample1.sampleSize(), sample2.sampleSize() );
+---
+>         long sampleSize = Math.addExact( sample1.sampleSize(), sample2.sampleSize() 	);

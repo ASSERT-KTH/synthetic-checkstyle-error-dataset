@@ -1,0 +1,4 @@
+34c34
+<     HelpCommand( Usage usage, Consumer<String> output, CommandLocator locator )
+---
+>     HelpCommand( Usage usage, Consumer<String> output, CommandLocator locator 	)

@@ -1,0 +1,4 @@
+40c40
+<     private final String key;
+---
+>     private final String 	key;

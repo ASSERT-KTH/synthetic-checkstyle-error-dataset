@@ -1,0 +1,4 @@
+73c73
+<                 debugLog.error( message, error.cause() );
+---
+>                 debugLog.error( message, error.cause() )	;

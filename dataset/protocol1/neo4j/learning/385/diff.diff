@@ -1,0 +1,5 @@
+106,107c106
+<         String body = getResponseText(response);
+<         response.close();
+---
+>         String body = getResponseText(response);        response.close();

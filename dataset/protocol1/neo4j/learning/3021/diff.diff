@@ -1,0 +1,4 @@
+72c72
+<             deletedInTx = tx.dataWrite().relationshipCreate(node, relType, node);
+---
+>             deletedInTx = tx.dataWrite().relationshipCreate(	node, relType, node);

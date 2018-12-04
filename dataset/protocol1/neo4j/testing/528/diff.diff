@@ -1,0 +1,4 @@
+36c36
+<     private Representation representation;
+---
+>     private Representation 	representation;

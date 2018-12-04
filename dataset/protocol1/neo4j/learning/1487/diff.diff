@@ -1,0 +1,5 @@
+206c206,207
+<             hits = (Collection<?>) JsonHelper.readJson( entity );
+---
+>             hits = (Collection<?>) JsonHelper.readJson( 
+> entity );

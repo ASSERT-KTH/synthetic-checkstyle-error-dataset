@@ -1,0 +1,5 @@
+118,119c118
+<         SchemaDescriptor descriptor = fulltextAdapter.schemaFor( NODE, new String[]{LABEL.name()}, settings, PROP );
+<         IndexReference nodes;
+---
+>         SchemaDescriptor descriptor = fulltextAdapter.schemaFor( NODE, new String[]{LABEL.name()}, settings, PROP );        IndexReference nodes;

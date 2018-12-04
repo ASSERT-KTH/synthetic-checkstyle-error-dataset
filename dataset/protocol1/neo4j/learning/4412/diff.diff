@@ -1,0 +1,4 @@
+89c89
+<         private AtomicInteger closed = new AtomicInteger();
+---
+>         private AtomicInteger closed= new AtomicInteger();

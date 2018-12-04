@@ -1,0 +1,4 @@
+103c103
+<                 graph.getAllNodes(), graph.getAllEdges() ).calculate();
+---
+>                 graph.getAllNodes(), graph.getAllEdges() 	).calculate();

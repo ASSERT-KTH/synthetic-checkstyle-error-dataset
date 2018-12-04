@@ -1,0 +1,4 @@
+67c67
+<         assertThat( node2, inTxS( not( hasProperty( "key2" ) ) ) );
+---
+>         assertThat( node2, inTxS( not( 	hasProperty( "key2" ) ) ) );

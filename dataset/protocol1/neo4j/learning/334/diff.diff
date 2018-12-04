@@ -1,0 +1,5 @@
+88c88,89
+<             assertThat( e.getCause().getCause().getMessage(), allOf(
+---
+>             assertThat( e.getCause().getCause
+> ().getMessage(), allOf(

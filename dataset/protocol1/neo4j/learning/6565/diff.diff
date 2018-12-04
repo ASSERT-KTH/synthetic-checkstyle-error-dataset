@@ -1,0 +1,4 @@
+46c46
+<         assertThat( buffer.array(), equalTo( new byte[]{1, 2, 3, 4, 5, 0, 0, 0, 0, 0} ) );
+---
+>         assertThat( buffer.array(), equalTo( new byte[]{1, 2, 3, 4, 5, 0, 0, 0, 	0, 0} ) );

@@ -1,0 +1,4 @@
+36c36
+<     public AccessStatsKeepingStoreAccess( NeoStores neoStore, AccessStatistics accessStatistics )
+---
+>     public AccessStatsKeepingStoreAccess(NeoStores neoStore, AccessStatistics accessStatistics )

@@ -1,0 +1,4 @@
+182c182
+<         return newFormattedLog( writer, Level.DEBUG );
+---
+>         return newFormattedLog( writer, 	Level.DEBUG );

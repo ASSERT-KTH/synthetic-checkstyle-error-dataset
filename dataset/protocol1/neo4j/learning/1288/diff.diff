@@ -1,0 +1,4 @@
+43c43
+< public interface TransactionApplier extends Visitor<StorageCommand,IOException>, CommandVisitor, AutoCloseable
+---
+> public interface TransactionApplier extends Visitor< StorageCommand,IOException>, CommandVisitor, AutoCloseable

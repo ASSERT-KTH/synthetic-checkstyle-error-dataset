@@ -1,0 +1,5 @@
+44c44,45
+<         intObjectMap.put( 1, "a" );
+---
+>         intObjectMap.put( 1, 
+> "a" );

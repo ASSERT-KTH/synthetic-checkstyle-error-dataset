@@ -1,0 +1,5 @@
+68c68,69
+<     void nodeDoRemoveLabel( long labelId, long nodeId );
+---
+>     
+> void nodeDoRemoveLabel( long labelId, long nodeId );

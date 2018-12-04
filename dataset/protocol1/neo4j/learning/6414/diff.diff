@@ -1,0 +1,5 @@
+161,162c161
+<         assertNotNull( neo4j );
+<         assertTrue( neo4j.credentials().matchesPassword( password ) );
+---
+>         assertNotNull( neo4j );        assertTrue( neo4j.credentials().matchesPassword( password ) );

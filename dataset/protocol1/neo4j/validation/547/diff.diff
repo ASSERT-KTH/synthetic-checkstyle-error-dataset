@@ -1,0 +1,5 @@
+70c70,71
+<         assertThat( response, succeededWithMetadata( "server", BOLT_SERVER_VERSION_PREFIX + Version.getNeo4jVersion() ) );
+---
+>         assertThat( response, succeededWithMetadata
+> ( "server", BOLT_SERVER_VERSION_PREFIX + Version.getNeo4jVersion() ) );

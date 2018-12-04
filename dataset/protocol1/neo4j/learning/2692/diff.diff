@@ -1,0 +1,4 @@
+190c190
+<         PrimitiveLongArrayQueue queue = createQueue();
+---
+>         PrimitiveLongArrayQueue queue = createQueue()	;

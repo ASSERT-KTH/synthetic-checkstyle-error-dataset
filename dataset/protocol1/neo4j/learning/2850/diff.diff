@@ -1,0 +1,4 @@
+64c64
+<                                           RotationMonitor monitor, DatabaseLayout databaseLayout );
+---
+>                                           RotationMonitor monitor, DatabaseLayout 	databaseLayout );

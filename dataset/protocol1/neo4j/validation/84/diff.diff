@@ -1,0 +1,4 @@
+160c160
+<             assertFalse( "should only access a single node", nodes.next() );
+---
+>             assertFalse( "should only access a single node", nodes	.next() );

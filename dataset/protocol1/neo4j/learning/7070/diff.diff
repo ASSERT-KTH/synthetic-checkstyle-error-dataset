@@ -1,0 +1,4 @@
+108c108
+<         this.trusted_dir = group.scope( derivedDefault( "trusted_dir", base_directory, "trusted" ) );
+---
+>         this.trusted_dir = group.scope( derivedDefault ( "trusted_dir", base_directory, "trusted" ) );

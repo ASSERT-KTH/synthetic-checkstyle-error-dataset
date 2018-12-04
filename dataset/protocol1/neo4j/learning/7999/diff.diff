@@ -1,0 +1,5 @@
+68,69c68
+<             record.setFirstInSecondChain( true );
+<             secondPrevRel = cache.getCount( record.getSecondNode(), typeId, Direction.INCOMING );
+---
+>             record.setFirstInSecondChain( true );            secondPrevRel = cache.getCount( record.getSecondNode(), typeId, Direction.INCOMING );

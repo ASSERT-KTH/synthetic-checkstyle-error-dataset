@@ -1,0 +1,5 @@
+66c66,67
+<         final boolean result = locator.visit( channel );
+---
+>         final boolean result = locator.visit( 
+> channel );

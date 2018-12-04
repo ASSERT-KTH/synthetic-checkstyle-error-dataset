@@ -1,0 +1,4 @@
+55c55
+<         RemoveCommand readRemoveCommand = (RemoveCommand) reader.read( channel );
+---
+>         RemoveCommand readRemoveCommand= (RemoveCommand) reader.read( channel );

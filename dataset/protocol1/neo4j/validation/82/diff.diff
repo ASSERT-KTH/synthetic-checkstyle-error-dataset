@@ -1,0 +1,4 @@
+41c41
+<     public static final String NAME = "standard";
+---
+>     public 	static final String NAME = "standard";

@@ -1,0 +1,4 @@
+26c26
+<     static <N> Provider<N> NULL()
+---
+>     static <N> Provider<N > NULL()

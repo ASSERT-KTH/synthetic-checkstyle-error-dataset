@@ -1,0 +1,5 @@
+58c58,59
+<             verify( handler ).handle( eq( extensionFactory ), any( UnsatisfiedDependencyException.class ) );
+---
+>             verify( handler ).handle( 
+> eq( extensionFactory ), any( UnsatisfiedDependencyException.class ) );

@@ -1,0 +1,4 @@
+83c83
+<             public long next()
+---
+>             	public long next()

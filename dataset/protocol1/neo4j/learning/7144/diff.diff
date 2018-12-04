@@ -1,0 +1,5 @@
+38,39c38
+<  * relationships imported and loads those {@link NodeRecord records} from store.</li>
+<  * <li>{@link RecordProcessorStep} / {@link SparseNodeFirstRelationshipProcessor} uses {@link NodeRelationshipCache}
+---
+>  * relationships imported and loads those {@link NodeRecord records} from store.</li> * <li>{@link RecordProcessorStep} / {@link SparseNodeFirstRelationshipProcessor} uses {@link NodeRelationshipCache}

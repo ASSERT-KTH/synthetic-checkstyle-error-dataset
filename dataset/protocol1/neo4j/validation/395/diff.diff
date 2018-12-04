@@ -1,0 +1,5 @@
+78c78,79
+<     private static class VerifyingIdOrderingQueue implements IdOrderingQueue
+---
+>     private static class VerifyingIdOrderingQueue 
+> implements IdOrderingQueue

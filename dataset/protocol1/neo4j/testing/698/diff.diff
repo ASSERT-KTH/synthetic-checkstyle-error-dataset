@@ -1,0 +1,5 @@
+29,30c29
+<  * {@link LogVersionBridge} naturally transitioning from one {@link LogVersionedStoreChannel} to the next,
+<  * i.e. to log version with one higher version than the current.
+---
+>  * {@link LogVersionBridge} naturally transitioning from one {@link LogVersionedStoreChannel} to the next, * i.e. to log version with one higher version than the current.

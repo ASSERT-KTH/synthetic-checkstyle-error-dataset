@@ -1,0 +1,5 @@
+43c43,44
+<     public static final TextValue WORKS_FOR = stringValue( "WORKS_FOR" );
+---
+>     public static final TextValue WORKS_FOR = 
+> stringValue( "WORKS_FOR" );

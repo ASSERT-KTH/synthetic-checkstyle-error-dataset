@@ -1,0 +1,4 @@
+26c26
+<     void write( Value value, WritableBuffer header );
+---
+>     void write( Value value, WritableBuffer header )	;

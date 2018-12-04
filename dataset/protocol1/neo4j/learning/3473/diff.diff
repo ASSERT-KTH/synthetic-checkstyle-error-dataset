@@ -1,0 +1,4 @@
+48c48
+<         return levelIds.add( type.getId( branch ) );
+---
+>         return 	levelIds.add( type.getId( branch ) );

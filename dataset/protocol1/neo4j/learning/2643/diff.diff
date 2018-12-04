@@ -1,0 +1,5 @@
+614,615c614
+<         assertTrue( mark.isEndOfLine() );
+<         assertNextValue( seeker, mark, COMMA, "d" );
+---
+>         assertTrue( mark.isEndOfLine() );        assertNextValue( seeker, mark, COMMA, "d" );

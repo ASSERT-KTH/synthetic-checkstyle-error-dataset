@@ -1,0 +1,4 @@
+31c31
+<     protected static final int LENGTH_MASK = (int) (LENGTH_BITS >>> (64 - RADIX_BITS));
+---
+>     protected static final int LENGTH_MASK = (int) (	LENGTH_BITS >>> (64 - RADIX_BITS));

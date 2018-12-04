@@ -1,0 +1,5 @@
+90c90,91
+<         JsonNode data = JsonHelper.jsonNode( response.entity() );
+---
+>         
+> JsonNode data = JsonHelper.jsonNode( response.entity() );

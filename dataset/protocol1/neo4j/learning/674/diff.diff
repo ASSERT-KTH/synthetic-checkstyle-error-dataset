@@ -1,0 +1,4 @@
+761c761
+<                     types.add( RelationshipType.withName( tokenRead.relationshipTypeName( relationships.type() ) ) );
+---
+>                     types.add( RelationshipType.withName( tokenRead.relationshipTypeName( relationships.type() ) ) )	;

@@ -1,0 +1,5 @@
+84c84,85
+<             File[] files = fileSystem.listFiles( sourceToCompress );
+---
+>             File[] files 
+> = fileSystem.listFiles( sourceToCompress );

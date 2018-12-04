@@ -1,0 +1,4 @@
+63c63
+<             Evaluation bla = evaluator.evaluate( position, state );
+---
+>             Evaluation bla 	= evaluator.evaluate( position, state );

@@ -1,0 +1,5 @@
+98c98,99
+<                 pageCacheStresser.stress( pageCacheUnderTest, condition );
+---
+>                 pageCacheStresser.stress( 
+> pageCacheUnderTest, condition );

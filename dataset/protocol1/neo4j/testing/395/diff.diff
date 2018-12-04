@@ -1,0 +1,4 @@
+65c65
+<         this.fileMap = fileMap;
+---
+>         	this.fileMap = fileMap;

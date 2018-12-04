@@ -1,0 +1,5 @@
+95c95,96
+<                 db.execute( "MERGE (n:Node {id: {a}}) ", map( "a", nextId() % 100 ) );
+---
+>                 db.execute( "MERGE (n:Node {id: {a}}) ", map( "a", nextId() % 100 ) 
+> );

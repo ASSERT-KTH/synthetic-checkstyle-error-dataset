@@ -1,0 +1,4 @@
+66c66
+<     RecordReference<RelationshipGroupRecord> relationshipGroup( long id );
+---
+>     RecordReference <RelationshipGroupRecord> relationshipGroup( long id );

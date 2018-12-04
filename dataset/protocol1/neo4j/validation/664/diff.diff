@@ -1,0 +1,4 @@
+63c63
+<             toStartWith[index++] = propertyBlock.getKeyIndexId();
+---
+>             toStartWith[index++] =propertyBlock.getKeyIndexId();

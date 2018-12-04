@@ -1,0 +1,5 @@
+32,33c32
+<         this.element = element;
+<         this.errorMessage = String.format( errorMessage, args );
+---
+>         this.element = element;        this.errorMessage = String.format( errorMessage, args );

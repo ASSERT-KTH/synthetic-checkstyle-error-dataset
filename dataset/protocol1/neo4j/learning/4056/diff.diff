@@ -1,0 +1,4 @@
+57c57
+<         IntStream.range( 0, pages / 32 ).parallel().forEach( id -> verifyPageMetaDataIsAccessible( pageList, id * 32 ) );
+---
+>         IntStream.range( 0, pages / 32 	).parallel().forEach( id -> verifyPageMetaDataIsAccessible( pageList, id * 32 ) );

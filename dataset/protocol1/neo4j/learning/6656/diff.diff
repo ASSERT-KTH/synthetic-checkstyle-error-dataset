@@ -1,0 +1,5 @@
+53,54c53
+<     private final PrimitiveLongArrayQueue readFromDisk = new PrimitiveLongArrayQueue();
+<     private final StoreChannel channel;
+---
+>     private final PrimitiveLongArrayQueue readFromDisk = new PrimitiveLongArrayQueue();    private final StoreChannel channel;

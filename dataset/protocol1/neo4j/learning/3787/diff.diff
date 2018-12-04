@@ -1,0 +1,4 @@
+23c23
+< public abstract class ScoredEntityRepresentation<E extends ObjectRepresentation & ExtensibleRepresentation & EntityRepresentation>
+---
+> public abstract class ScoredEntityRepresentation<E extends ObjectRepresentation & 	ExtensibleRepresentation & EntityRepresentation>

@@ -1,0 +1,5 @@
+44c44,45
+<         Map<String,String> result = MapUtil.load( inputStream );
+---
+>         
+> Map<String,String> result = MapUtil.load( inputStream );

@@ -1,0 +1,4 @@
+69c69
+<     public <E extends Exception> void writeTo( AnyValueWriter<E> writer )
+---
+>     public <E extends Exception> void 	writeTo( AnyValueWriter<E> writer )

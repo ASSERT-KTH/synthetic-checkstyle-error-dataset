@@ -1,0 +1,5 @@
+386c386,387
+<     public boolean hasProperty( String key )
+---
+>     public boolean hasProperty( String key 
+> )

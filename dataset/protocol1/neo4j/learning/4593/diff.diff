@@ -1,0 +1,5 @@
+111,112c111
+<                 return Values.byteArray( bytes );
+<             }
+---
+>                 return Values.byteArray( bytes );            }

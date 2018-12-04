@@ -1,0 +1,4 @@
+42c42
+<             return reader.maxCount();
+---
+>             return reader.maxCount ();

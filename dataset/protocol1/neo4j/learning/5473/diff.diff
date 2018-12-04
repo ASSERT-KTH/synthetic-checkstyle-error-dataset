@@ -1,0 +1,4 @@
+506c506
+<         public void beginArray( int size, ArrayType arrayType ) throws IllegalArgumentException
+---
+>         public void 	beginArray( int size, ArrayType arrayType ) throws IllegalArgumentException

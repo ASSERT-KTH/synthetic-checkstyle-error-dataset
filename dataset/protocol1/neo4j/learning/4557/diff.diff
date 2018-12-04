@@ -1,0 +1,4 @@
+52c52
+<                .append( LOG_HEADER_SIZE );
+---
+>                .append( LOG_HEADER_SIZE )	;

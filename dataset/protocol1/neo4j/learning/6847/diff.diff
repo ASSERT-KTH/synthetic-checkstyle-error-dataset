@@ -1,0 +1,4 @@
+34c34
+<     boolean remove( long element );
+---
+>     boolean remove(long element );

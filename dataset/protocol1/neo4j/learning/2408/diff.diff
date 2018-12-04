@@ -1,0 +1,4 @@
+93c93
+<             URLAccessRules.fileAccess().validate( config, new URL( "file:///../baz.csv" ) );
+---
+>             URLAccessRules.fileAccess().validate( 	config, new URL( "file:///../baz.csv" ) );

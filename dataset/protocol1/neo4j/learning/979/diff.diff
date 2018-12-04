@@ -1,0 +1,4 @@
+144c144
+<     public Node methodWithIntParam( @Source GraphDatabaseService db, @Parameter( name = "id", optional = false ) int id )
+---
+>     public Node methodWithIntParam( @Source GraphDatabaseService db, @Parameter( name = "id", optional = false 	) int id )

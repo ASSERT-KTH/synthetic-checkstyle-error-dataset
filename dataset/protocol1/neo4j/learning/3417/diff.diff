@@ -1,0 +1,4 @@
+87c87
+<             assertThat( e.getCause(), instanceOf( UnableToValidateConstraintException.class ) );
+---
+>             	assertThat( e.getCause(), instanceOf( UnableToValidateConstraintException.class ) );

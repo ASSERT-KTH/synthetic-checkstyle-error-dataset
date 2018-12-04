@@ -1,0 +1,4 @@
+59c59
+<                 operation( "nodeExists", ( read, write, schema ) -> read.nodeExists( 0 ) ),
+---
+>                 operation ( "nodeExists", ( read, write, schema ) -> read.nodeExists( 0 ) ),

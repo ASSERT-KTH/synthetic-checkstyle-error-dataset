@@ -1,0 +1,4 @@
+24c24
+< public class PackOutputClosedException extends IOException
+---
+> public 	class PackOutputClosedException extends IOException

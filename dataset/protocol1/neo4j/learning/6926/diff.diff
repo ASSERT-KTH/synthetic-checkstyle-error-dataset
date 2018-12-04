@@ -1,0 +1,4 @@
+182c182
+<         db.restartDatabase( DatabaseRule.RestartAction.EMPTY );
+---
+>         db.restartDatabase( DatabaseRule	.RestartAction.EMPTY );

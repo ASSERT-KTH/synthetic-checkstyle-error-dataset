@@ -1,0 +1,4 @@
+60c60
+<         System.arraycopy( from.long0Array, 0, to.long0Array, 0, length );
+---
+>         System.arraycopy( from.long0Array, 0, to.long0Array, 0, length 	);

@@ -1,0 +1,5 @@
+44c44,45
+<         this.indexDirectory = indexDirectory;
+---
+>         this.indexDirectory 
+> = indexDirectory;

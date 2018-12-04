@@ -1,0 +1,5 @@
+37c37,38
+<     public ThisShouldNotHappenError( String developer, String message, Throwable cause )
+---
+>     public ThisShouldNotHappenError( String 
+> developer, String message, Throwable cause )

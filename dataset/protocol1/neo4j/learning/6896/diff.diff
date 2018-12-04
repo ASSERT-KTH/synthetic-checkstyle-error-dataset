@@ -1,0 +1,4 @@
+29c29
+<     EventLoopGroup createEventLoopGroup( int numberOfThreads, ThreadFactory threadFactory );
+---
+>     EventLoopGroup createEventLoopGroup(int numberOfThreads, ThreadFactory threadFactory );

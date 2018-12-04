@@ -1,0 +1,4 @@
+57c57
+<                         if ( keyValue.length == 2 )
+---
+>                         if ( keyValue.length 	== 2 )

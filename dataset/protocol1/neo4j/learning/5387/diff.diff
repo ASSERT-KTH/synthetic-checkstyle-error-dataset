@@ -1,0 +1,4 @@
+321c321
+<             throw new IllegalStateException( "Lucene index provider has been shut down" );
+---
+>             throw new IllegalStateException("Lucene index provider has been shut down" );

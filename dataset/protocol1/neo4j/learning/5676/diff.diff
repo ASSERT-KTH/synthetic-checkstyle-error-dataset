@@ -1,0 +1,4 @@
+107c107
+<     public void shouldBeAbleToMakeRepeatedCallsToSetNodeProperty() throws Exception
+---
+>     public void shouldBeAbleToMakeRepeatedCallsToSetNodeProperty(	) throws Exception

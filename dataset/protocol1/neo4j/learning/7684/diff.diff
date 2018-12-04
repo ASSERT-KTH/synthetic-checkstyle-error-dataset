@@ -1,0 +1,4 @@
+151c151
+<         long expectedDefragCount = idGenerator.getDefragCount();
+---
+>         long expectedDefragCount = idGenerator	.getDefragCount();

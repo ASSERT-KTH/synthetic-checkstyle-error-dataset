@@ -1,0 +1,5 @@
+54c54,55
+<         assertEquals( 1.0, floydWarshall.getCost( graph.getNode( "a" ), graph.getNode( "b" ) ), 0.0 );
+---
+>         assertEquals( 1.0, floydWarshall.getCost
+> ( graph.getNode( "a" ), graph.getNode( "b" ) ), 0.0 );

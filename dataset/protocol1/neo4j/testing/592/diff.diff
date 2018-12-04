@@ -1,0 +1,4 @@
+48c48
+<     static Profiler profiler()
+---
+>     	static Profiler profiler()

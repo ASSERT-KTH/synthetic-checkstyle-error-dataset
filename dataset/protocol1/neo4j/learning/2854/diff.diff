@@ -1,0 +1,5 @@
+129,130c129
+<         long now;
+<         long deadline = System.nanoTime() + TimeUnit.MICROSECONDS.toNanos( micros );
+---
+>         long now;        long deadline = System.nanoTime() + TimeUnit.MICROSECONDS.toNanos( micros );

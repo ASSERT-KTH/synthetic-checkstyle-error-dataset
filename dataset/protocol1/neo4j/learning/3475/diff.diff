@@ -1,0 +1,5 @@
+61c61,62
+<     private final IndexConfigStore indexConfigStore;
+---
+>     private final IndexConfigStore 
+> indexConfigStore;

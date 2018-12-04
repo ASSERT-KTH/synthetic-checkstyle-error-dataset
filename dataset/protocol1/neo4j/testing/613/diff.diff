@@ -1,0 +1,5 @@
+46c46,47
+<     public static PrimitiveRelationshipStream of( Object list )
+---
+>     public static 
+> PrimitiveRelationshipStream of( Object list )

@@ -1,0 +1,5 @@
+75c75,76
+<     public <T> T map( ValueMapper<T> mapper )
+---
+>     public <T> 
+> T map( ValueMapper<T> mapper )

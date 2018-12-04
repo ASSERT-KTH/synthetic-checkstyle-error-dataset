@@ -1,0 +1,5 @@
+91c91,92
+<     public FlushableChannel putDouble( double value ) throws IOException
+---
+>     public FlushableChannel putDouble
+> ( double value ) throws IOException

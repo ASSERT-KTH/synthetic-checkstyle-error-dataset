@@ -1,0 +1,4 @@
+28c28
+< import org.neo4j.test.rule.SuppressOutput;
+---
+> import org.	neo4j.test.rule.SuppressOutput;

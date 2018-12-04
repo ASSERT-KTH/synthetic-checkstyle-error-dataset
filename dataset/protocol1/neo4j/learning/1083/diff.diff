@@ -1,0 +1,4 @@
+79c79
+<         public void failed( Throwable e )
+---
+>         public 	void failed( Throwable e )

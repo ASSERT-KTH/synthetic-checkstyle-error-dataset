@@ -1,0 +1,5 @@
+68,69c68
+<         con.setUseCaches( false );
+<         con.connect();
+---
+>         con.setUseCaches( false );        con.connect();

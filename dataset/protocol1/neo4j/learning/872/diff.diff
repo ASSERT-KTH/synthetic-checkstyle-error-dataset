@@ -1,0 +1,5 @@
+50c50,51
+<     IndexReference indexCreate( SchemaDescriptor descriptor, Optional<String> name ) throws SchemaKernelException;
+---
+>     IndexReference indexCreate( SchemaDescriptor descriptor, Optional<String> name 
+> ) throws SchemaKernelException;

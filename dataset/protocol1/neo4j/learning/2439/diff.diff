@@ -1,0 +1,4 @@
+149c149
+<             BlockingMerge( IndexWriter writer, MergePolicy.OneMerge merge, CountDownLatch executionLatch )
+---
+>             BlockingMerge( IndexWriter writer, MergePolicy.OneMerge merge	, CountDownLatch executionLatch )

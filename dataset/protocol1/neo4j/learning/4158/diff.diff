@@ -1,0 +1,4 @@
+35c35
+<     public AnyValue apply( Context ctx, AnyValue[] input ) throws ProcedureException
+---
+>     public AnyValue apply( Context ctx, AnyValue[] input ) throws 	ProcedureException

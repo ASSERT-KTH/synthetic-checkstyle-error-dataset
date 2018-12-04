@@ -1,0 +1,4 @@
+26c26
+<     void authenticatedAsUser( String username, String userAgent );
+---
+>     	void authenticatedAsUser( String username, String userAgent );

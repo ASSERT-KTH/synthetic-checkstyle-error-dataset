@@ -1,0 +1,5 @@
+47c47,48
+<                 ((KernelException) getCause()).getUserMessage( tokenNameLookup ) );
+---
+>                 ((KernelException) getCause()).getUserMessage( 
+> tokenNameLookup ) );

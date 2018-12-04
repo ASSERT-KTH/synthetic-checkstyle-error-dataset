@@ -1,0 +1,4 @@
+36c36
+<     public Void doWork( CommandState state )
+---
+>     public Void doWork( CommandState 	state )

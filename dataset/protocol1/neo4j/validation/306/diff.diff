@@ -1,0 +1,5 @@
+114c114,115
+<     public void shouldCreateAndOpenStoreWithNoDataWithHeader() throws Exception
+---
+>     public void shouldCreateAndOpenStoreWithNoDataWithHeader() 
+> throws Exception

@@ -1,0 +1,5 @@
+77,78c77
+<             assertEquals( group, read );
+<         }
+---
+>             assertEquals( group, read );        }

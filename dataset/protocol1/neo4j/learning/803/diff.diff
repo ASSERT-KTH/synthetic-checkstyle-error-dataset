@@ -1,0 +1,5 @@
+54,55c54
+<         this.states = states;
+<         this.generator = generator;
+---
+>         this.states = states;        this.generator = generator;

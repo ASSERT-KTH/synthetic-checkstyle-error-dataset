@@ -1,0 +1,5 @@
+122c122,123
+<         clientA.releaseShared( NODE, 1L );
+---
+>         clientA.releaseShared( NODE, 
+> 1L );

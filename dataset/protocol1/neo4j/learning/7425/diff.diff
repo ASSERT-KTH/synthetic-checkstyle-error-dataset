@@ -1,0 +1,4 @@
+76c76
+<                             return new ListRepresentation( getType( nested ), nested );
+---
+>                             return new ListRepresentation( 	getType( nested ), nested );

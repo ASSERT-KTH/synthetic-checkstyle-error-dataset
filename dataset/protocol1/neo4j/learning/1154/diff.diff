@@ -1,0 +1,5 @@
+34c34,35
+<     public static <T> IOFunction<T,T> identity()
+---
+>     public static <T> IOFunction<T,T> identity
+> ()

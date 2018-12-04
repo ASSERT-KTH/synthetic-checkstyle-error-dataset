@@ -1,0 +1,4 @@
+52c52
+<                 relationshipType.name().toLowerCase(), relationshipType.name(), propertyKey );
+---
+>                 relationshipType.name().toLowerCase(), relationshipType	.name(), propertyKey );

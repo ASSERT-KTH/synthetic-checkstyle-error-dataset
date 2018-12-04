@@ -1,0 +1,4 @@
+57c57
+<     void shouldMakeShutdownIntoHumanReadableShutdownMessage()
+---
+>     void shouldMakeShutdownIntoHumanReadableShutdownMessage(	)

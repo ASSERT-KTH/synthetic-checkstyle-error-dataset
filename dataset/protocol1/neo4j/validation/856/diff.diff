@@ -1,0 +1,4 @@
+35c35
+< import org.neo4j.kernel.impl.store.record.PropertyRecord;
+---
+> import org.neo4j.kernel.impl.store	.record.PropertyRecord;

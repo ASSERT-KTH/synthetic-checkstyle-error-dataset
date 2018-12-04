@@ -1,0 +1,4 @@
+34c34
+<         for ( Object val : content )
+---
+>         for (Object val : content )

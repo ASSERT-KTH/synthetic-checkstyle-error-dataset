@@ -1,0 +1,5 @@
+60c60,61
+<     private static Function<UserAggregationFunction,Optional<String>> customNameExtractor()
+---
+>     private static Function<UserAggregationFunction,Optional<String>> 
+> customNameExtractor()

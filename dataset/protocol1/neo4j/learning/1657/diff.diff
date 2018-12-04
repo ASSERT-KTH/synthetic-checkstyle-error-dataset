@@ -1,0 +1,4 @@
+106c106
+<     void verifyUpdates( IndexEntryUpdate<IndexDescriptor>[] updates )
+---
+>     void verifyUpdates( IndexEntryUpdate<IndexDescriptor>[	] updates )

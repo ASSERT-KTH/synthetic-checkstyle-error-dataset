@@ -1,0 +1,4 @@
+249c249
+<         int readTotal = 0;
+---
+>         int readTotal 	= 0;

@@ -1,0 +1,4 @@
+91c91
+<             final LongIterator indexIds = indexMap.indexIds();
+---
+>             final LongIterator indexIds = indexMap.indexIds(	);

@@ -1,0 +1,4 @@
+41c41
+< import org.neo4j.kernel.availability.AvailabilityGuard;
+---
+> import org.neo4j.kernel	.availability.AvailabilityGuard;

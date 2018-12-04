@@ -1,0 +1,4 @@
+115c115
+<                 .getRecordByCursor( anyLong(), any( NodeRecord.class ), any( RecordLoad.class ), any( PageCursor.class ) );
+---
+>                 .getRecordByCursor( anyLong(), any( NodeRecord.class ), any( RecordLoad.class ), any( PageCursor.	class ) );

@@ -1,0 +1,5 @@
+28,29c28
+<     public RelationshipIndexRepresentation( String name )
+<     {
+---
+>     public RelationshipIndexRepresentation( String name )    {

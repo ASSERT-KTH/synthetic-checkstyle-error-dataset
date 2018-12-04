@@ -1,0 +1,4 @@
+54c54
+<         String nodeName = labelName.toLowerCase();
+---
+>         String nodeName = labelName.toLowerCase()	;

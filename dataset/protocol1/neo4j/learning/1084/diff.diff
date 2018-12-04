@@ -1,0 +1,4 @@
+102c102
+<         File storeDir = testDirectory.absolutePath();
+---
+>         File storeDir = testDirectory.absolutePath ();

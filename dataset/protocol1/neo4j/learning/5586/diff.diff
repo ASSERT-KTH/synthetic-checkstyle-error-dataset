@@ -1,0 +1,5 @@
+32c32,33
+<     NODE_INDEX_NAMES( new FacadeMethod<>( "String[] nodeIndexNames()", IndexManager::nodeIndexNames ) ),
+---
+>     
+> NODE_INDEX_NAMES( new FacadeMethod<>( "String[] nodeIndexNames()", IndexManager::nodeIndexNames ) ),

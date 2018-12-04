@@ -1,0 +1,5 @@
+58,59c58
+<         out.println();
+<         throwable.printStackTrace( out );
+---
+>         out.println();        throwable.printStackTrace( out );

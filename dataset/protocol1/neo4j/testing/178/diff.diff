@@ -1,0 +1,5 @@
+141,142c141
+<         StoreFactory factory = factory( customThreshold );
+<         NeoStores neoStores = factory.openAllNeoStores( true );
+---
+>         StoreFactory factory = factory( customThreshold );        NeoStores neoStores = factory.openAllNeoStores( true );

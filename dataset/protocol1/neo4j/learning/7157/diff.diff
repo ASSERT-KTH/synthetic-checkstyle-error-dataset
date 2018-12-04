@@ -1,0 +1,4 @@
+57c57
+<                 mock( StorageEngine.class ), Config.defaults() );
+---
+>                 mock( StorageEngine	.class ), Config.defaults() );

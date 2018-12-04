@@ -1,0 +1,5 @@
+42c42,43
+<         switch ( update.updateMode() )
+---
+>         switch ( update.updateMode() 
+> )

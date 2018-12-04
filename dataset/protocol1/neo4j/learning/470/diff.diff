@@ -1,0 +1,4 @@
+64c64
+<     protected IndexProvider internalCreate( PageCache pageCache, File storeDir, FileSystemAbstraction fs, IndexProvider.Monitor monitor, Config config,
+---
+>     protected IndexProvider internalCreate( PageCache pageCache, 	File storeDir, FileSystemAbstraction fs, IndexProvider.Monitor monitor, Config config,

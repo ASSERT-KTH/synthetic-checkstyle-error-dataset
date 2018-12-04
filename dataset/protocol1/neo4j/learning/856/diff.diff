@@ -1,0 +1,4 @@
+66c66
+<         cursor = new PhysicalTransactionCursor<>( channel, entryReader );
+---
+>         cursor = new PhysicalTransactionCursor<>( channel, entryReader 	);

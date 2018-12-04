@@ -1,0 +1,5 @@
+272c272,273
+<                 builder.append( "<button>Search</button>\n" );
+---
+>                 builder.append( 
+> "<button>Search</button>\n" );

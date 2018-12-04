@@ -1,0 +1,4 @@
+57c57
+<     public void returnsCorrectLastTransactionTimestampWhenStartedForClosedTx()
+---
+>     public void returnsCorrectLastTransactionTimestampWhenStartedForClosedTx(	)

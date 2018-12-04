@@ -1,0 +1,5 @@
+63c63,64
+<     private static Map<String,PropertyGetter> buildSerialization( Class<?> type )
+---
+>     private 
+> static Map<String,PropertyGetter> buildSerialization( Class<?> type )

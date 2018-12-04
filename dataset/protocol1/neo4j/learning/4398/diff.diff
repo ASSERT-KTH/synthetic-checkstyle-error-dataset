@@ -1,0 +1,4 @@
+46c46
+<     public static UnsatisfiedDependencyStrategy print( PrintStream out )
+---
+>     public static 	UnsatisfiedDependencyStrategy print( PrintStream out )

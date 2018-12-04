@@ -1,0 +1,5 @@
+83,84c83
+<         indexType.addToDocument( document, STRING_TEST_FIELD2, "value2"  );
+<         indexType.addToDocument( document, NUMERIC_TEST_FIELD, 1  );
+---
+>         indexType.addToDocument( document, STRING_TEST_FIELD2, "value2"  );        indexType.addToDocument( document, NUMERIC_TEST_FIELD, 1  );

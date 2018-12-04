@@ -1,0 +1,5 @@
+23c23,24
+< import org.neo4j.internal.kernel.api.schema.SchemaDescriptor;
+---
+> import 
+> org.neo4j.internal.kernel.api.schema.SchemaDescriptor;

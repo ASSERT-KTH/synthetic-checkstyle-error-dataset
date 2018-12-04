@@ -1,0 +1,5 @@
+141,142c141
+<         this.clean = clean;
+<         this.valid = valid;
+---
+>         this.clean = clean;        this.valid = valid;

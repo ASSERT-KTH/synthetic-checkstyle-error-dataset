@@ -1,0 +1,4 @@
+56c56
+<         for ( IndexProvider provider : indexProviders )
+---
+>         for( IndexProvider provider : indexProviders )

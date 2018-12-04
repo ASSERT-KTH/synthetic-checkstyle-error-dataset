@@ -1,0 +1,5 @@
+42c42,43
+<         assertEquals( description, calledWith.get() );
+---
+>         
+> assertEquals( description, calledWith.get() );

@@ -1,0 +1,4 @@
+209c209
+<         assertThat( ByteUnit.parse( "1 PB" ), is( 1125899906842624L ) );
+---
+>         assertThat( ByteUnit.parse( "1 PB" ), is ( 1125899906842624L ) );

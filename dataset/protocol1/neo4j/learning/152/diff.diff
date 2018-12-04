@@ -1,0 +1,5 @@
+1012,1013c1012
+<                 for ( Pair<Long,T> entry : nodesWithValues )
+<                 {
+---
+>                 for ( Pair<Long,T> entry : nodesWithValues )                {

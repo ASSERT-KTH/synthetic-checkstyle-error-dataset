@@ -1,0 +1,5 @@
+170,171c170
+<         exception.expectMessage( "Unable to find a usable public no-argument constructor " +
+<                                  "in the class `WierdConstructorFunction`. Please add a " +
+---
+>         exception.expectMessage( "Unable to find a usable public no-argument constructor " +                                 "in the class `WierdConstructorFunction`. Please add a " +

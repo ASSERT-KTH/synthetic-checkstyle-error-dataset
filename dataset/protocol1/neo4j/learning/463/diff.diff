@@ -1,0 +1,5 @@
+82,83c82
+<         theOtherBuffer = actual.read( theOtherBuffer, theOtherBuffer.front() );
+<         String sourceDescriptionAfterRead = actual.sourceDescription();
+---
+>         theOtherBuffer = actual.read( theOtherBuffer, theOtherBuffer.front() );        String sourceDescriptionAfterRead = actual.sourceDescription();

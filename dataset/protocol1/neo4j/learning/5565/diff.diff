@@ -1,0 +1,4 @@
+35c35
+<     void acquireExclusive( LockTracer tracer, ResourceType resourceType, long... resourceIds ) throws AcquireLockTimeoutException;
+---
+>     void acquireExclusive(LockTracer tracer, ResourceType resourceType, long... resourceIds ) throws AcquireLockTimeoutException;

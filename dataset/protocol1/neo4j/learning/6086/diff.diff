@@ -1,0 +1,5 @@
+245c245,246
+<             actual.setConfig( config );
+---
+>             
+> actual.setConfig( config );

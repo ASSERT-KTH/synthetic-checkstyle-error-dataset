@@ -1,0 +1,4 @@
+100c100
+<             String delimiter = paramString.isEmpty() || paramString.endsWith( "{" ) ? "" : ",";
+---
+>             String delimiter = paramString.isEmpty() || paramString.endsWith( "{" 	) ? "" : ",";

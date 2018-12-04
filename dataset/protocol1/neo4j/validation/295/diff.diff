@@ -1,0 +1,5 @@
+135,136c135
+<                 return Optional.of( stateA.isClean() ? stateA : stateB );
+<             }
+---
+>                 return Optional.of( stateA.isClean() ? stateA : stateB );            }

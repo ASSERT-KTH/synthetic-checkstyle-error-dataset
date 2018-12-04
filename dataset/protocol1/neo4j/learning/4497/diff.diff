@@ -1,0 +1,5 @@
+31,32c31
+<     abstract class BasicUserAggregationFunction implements CallableUserAggregationFunction
+<     {
+---
+>     abstract class BasicUserAggregationFunction implements CallableUserAggregationFunction    {

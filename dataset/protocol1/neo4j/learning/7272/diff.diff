@@ -1,0 +1,4 @@
+65c65
+<         add( new ReadRecordsStep<>( control(), config, true, store, new RecordDataAssembler<>( store::newRecord, readFilter ) ) );
+---
+>         add( new ReadRecordsStep<>( control(), config	, true, store, new RecordDataAssembler<>( store::newRecord, readFilter ) ) );

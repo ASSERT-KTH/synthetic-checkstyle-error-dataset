@@ -1,0 +1,5 @@
+56,57c56
+<                 nested( String.class, nested( String.class, values( AtomicLong.class ) ) ) );
+<         String keyLevelOne = "first";
+---
+>                 nested( String.class, nested( String.class, values( AtomicLong.class ) ) ) );        String keyLevelOne = "first";

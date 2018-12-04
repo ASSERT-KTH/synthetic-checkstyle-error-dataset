@@ -1,0 +1,4 @@
+207c207
+<         public void visitRelPropertyChanges( long id, Iterator<StorageProperty> added,
+---
+>         public 	void visitRelPropertyChanges( long id, Iterator<StorageProperty> added,

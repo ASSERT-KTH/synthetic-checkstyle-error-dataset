@@ -1,0 +1,5 @@
+229,230c229
+<         assertEquals( "1001KiB", ByteUnit.bytesToString( 1025000 ) );
+<         assertEquals( "9.775MiB", ByteUnit.bytesToString( 10250000 ) );
+---
+>         assertEquals( "1001KiB", ByteUnit.bytesToString( 1025000 ) );        assertEquals( "9.775MiB", ByteUnit.bytesToString( 10250000 ) );

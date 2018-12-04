@@ -1,0 +1,5 @@
+37,38c37
+<         super( delegate );
+<         this.propertyKeys = propertyKeys;
+---
+>         super( delegate );        this.propertyKeys = propertyKeys;

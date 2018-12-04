@@ -1,0 +1,5 @@
+63,64c63
+<         this.keyCertChain = keyCertChain;
+<         this.tlsVersions = tlsVersions == null ? null : tlsVersions.toArray( new String[tlsVersions.size()] );
+---
+>         this.keyCertChain = keyCertChain;        this.tlsVersions = tlsVersions == null ? null : tlsVersions.toArray( new String[tlsVersions.size()] );

@@ -1,0 +1,5 @@
+49,50c49
+<         assertNotSame( NOT_AVAILABLE, HEAP_ALLOCATION );
+<         assertThat( HEAP_ALLOCATION, instanceOf( SunManagementHeapAllocation.class ) );
+---
+>         assertNotSame( NOT_AVAILABLE, HEAP_ALLOCATION );        assertThat( HEAP_ALLOCATION, instanceOf( SunManagementHeapAllocation.class ) );

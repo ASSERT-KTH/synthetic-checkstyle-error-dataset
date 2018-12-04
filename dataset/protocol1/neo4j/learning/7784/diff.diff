@@ -1,0 +1,5 @@
+150c150,151
+<             assertEquals( "result", result.get( "columns" ).get( 0 ).asText() );
+---
+>             assertEquals( "result", result.get( 
+> "columns" ).get( 0 ).asText() );

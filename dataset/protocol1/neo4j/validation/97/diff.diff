@@ -1,0 +1,4 @@
+161c161
+<         Node b = to1.getEndNode();
+---
+>         Node b = to1.getEndNode()	;

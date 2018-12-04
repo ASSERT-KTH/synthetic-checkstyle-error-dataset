@@ -1,0 +1,5 @@
+55c55,56
+<             Object resource = element.resource();
+---
+>             Object resource = element.resource
+> ();

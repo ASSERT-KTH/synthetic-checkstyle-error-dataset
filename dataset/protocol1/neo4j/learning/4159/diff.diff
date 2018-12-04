@@ -1,0 +1,4 @@
+35c35
+<         storeView.replaceIndexCounts( indexId, 0, 0, 0 );
+---
+>         storeView.replaceIndexCounts( indexId	, 0, 0, 0 );

@@ -1,0 +1,5 @@
+31,32c31
+<     protected OffHeapRegularNumberArray( long length, int shift, long base, MemoryAllocationTracker allocationTracker )
+<     {
+---
+>     protected OffHeapRegularNumberArray( long length, int shift, long base, MemoryAllocationTracker allocationTracker )    {

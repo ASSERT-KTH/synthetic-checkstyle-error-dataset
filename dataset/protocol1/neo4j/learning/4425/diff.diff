@@ -1,0 +1,5 @@
+58,59c58
+<             IndexProviderDescriptor providerDescriptor = provider.getProviderDescriptor();
+<             requireNonNull( providerDescriptor );
+---
+>             IndexProviderDescriptor providerDescriptor = provider.getProviderDescriptor();            requireNonNull( providerDescriptor );

@@ -1,0 +1,4 @@
+33c33
+<         return ByteBuffer.wrap( input.getBytes( StandardCharsets.UTF_8 ) );
+---
+>         return 	ByteBuffer.wrap( input.getBytes( StandardCharsets.UTF_8 ) );

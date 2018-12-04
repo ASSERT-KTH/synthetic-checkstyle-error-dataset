@@ -1,0 +1,4 @@
+28c28
+<     public MappingResourceIterator( ResourceIterator<S> sourceResourceIterator )
+---
+>     public MappingResourceIterator( ResourceIterator<S> 	sourceResourceIterator )

@@ -1,0 +1,4 @@
+627c627
+<         graphDatabaseAPI.index().forNodes( explicitIndexName ).add( node, key, value );
+---
+>         graphDatabaseAPI.index().	forNodes( explicitIndexName ).add( node, key, value );

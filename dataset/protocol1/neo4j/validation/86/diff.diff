@@ -1,0 +1,4 @@
+46c46
+<     protected void process( T[] batch, BatchSender sender )
+---
+>     protected void 	process( T[] batch, BatchSender sender )

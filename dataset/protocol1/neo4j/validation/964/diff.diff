@@ -1,0 +1,4 @@
+132c132
+<         this.targetSize = minSize;
+---
+>         this.targetSize = minSize	;

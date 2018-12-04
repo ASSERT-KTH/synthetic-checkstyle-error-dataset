@@ -1,0 +1,4 @@
+57c57
+<         long allocatedBytes = HEAP_ALLOCATION.allocatedBytes( currentThread() );
+---
+>         long allocatedBytes= HEAP_ALLOCATION.allocatedBytes( currentThread() );

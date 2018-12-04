@@ -1,0 +1,4 @@
+78c78
+<         Map<String,String> config = stringMap(
+---
+>         Map<String,String > config = stringMap(

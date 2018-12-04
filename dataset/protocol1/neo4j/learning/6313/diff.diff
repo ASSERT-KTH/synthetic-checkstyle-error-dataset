@@ -1,0 +1,5 @@
+55c55,56
+<         assertEquals( arrayRecordsBefore + 1, dynamicArrayRecordsInUse() );
+---
+>         
+> assertEquals( arrayRecordsBefore + 1, dynamicArrayRecordsInUse() );

@@ -1,0 +1,5 @@
+114,115c114
+<         Value[] multiAfter = {Values.of( "Hello" ), Values.of( "Hi" )};
+<         IndexEntryUpdate<?> multiChange = IndexEntryUpdate
+---
+>         Value[] multiAfter = {Values.of( "Hello" ), Values.of( "Hi" )};        IndexEntryUpdate<?> multiChange = IndexEntryUpdate

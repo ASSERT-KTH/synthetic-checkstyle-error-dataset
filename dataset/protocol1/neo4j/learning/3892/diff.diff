@@ -1,0 +1,4 @@
+143c143
+<                     ctx.fireUserEventTriggered( new SslHandlerDetailsRegisteredEvent( ciphers, protocols ) );
+---
+>                     ctx.fireUserEventTriggered( new SslHandlerDetailsRegisteredEvent( ciphers	, protocols ) );

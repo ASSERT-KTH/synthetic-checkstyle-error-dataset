@@ -1,0 +1,4 @@
+44c44
+<         final CountsAccessor.Updater updater = mock( CountsAccessor.Updater.class );
+---
+>         final CountsAccessor.Updater updater = mock ( CountsAccessor.Updater.class );

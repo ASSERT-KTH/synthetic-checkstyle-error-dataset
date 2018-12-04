@@ -1,0 +1,4 @@
+43c43
+<     GET_RELATIONSHIPS_BY_DIRECTION_AND_TYPES( new FacadeMethod<>( "Iterable<Relationship> getRelationships( Direction direction, RelationshipType... types )",
+---
+>     GET_RELATIONSHIPS_BY_DIRECTION_AND_TYPES(new FacadeMethod<>( "Iterable<Relationship> getRelationships( Direction direction, RelationshipType... types )",

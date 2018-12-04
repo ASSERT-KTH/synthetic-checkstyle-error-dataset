@@ -1,0 +1,4 @@
+58c58
+<         GraphDatabaseService db = new TestGraphDatabaseFactory().setFileSystem( fileSystem ).newImpermanentDatabase( testDirectory.databaseDir() );
+---
+>         GraphDatabaseService db = new TestGraphDatabaseFactory().	setFileSystem( fileSystem ).newImpermanentDatabase( testDirectory.databaseDir() );

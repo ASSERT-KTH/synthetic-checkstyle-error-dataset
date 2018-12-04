@@ -1,0 +1,5 @@
+71c71,72
+<         EnumMap<IndexSlot,IndexProvider> instances = new EnumMap<>( IndexSlot.class );
+---
+>         
+> EnumMap<IndexSlot,IndexProvider> instances = new EnumMap<>( IndexSlot.class );

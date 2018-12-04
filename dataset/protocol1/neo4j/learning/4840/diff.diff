@@ -1,0 +1,4 @@
+445c445
+<             return equals( (long[]) b, a );
+---
+>             return equals( (long[]) b	, a );

@@ -1,0 +1,4 @@
+41c41
+<         this.output = new ChunkedOutput( this.channel, TransportThrottleGroup.NO_THROTTLE );
+---
+>         this.output = new ChunkedOutput( this	.channel, TransportThrottleGroup.NO_THROTTLE );

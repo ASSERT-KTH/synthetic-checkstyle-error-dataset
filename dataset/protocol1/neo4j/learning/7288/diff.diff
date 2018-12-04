@@ -1,0 +1,4 @@
+36c36
+<         return parameters.getStringList( name );
+---
+>         	return parameters.getStringList( name );

@@ -1,0 +1,5 @@
+40c40,41
+<     void init() throws Throwable;
+---
+>     
+> void init() throws Throwable;

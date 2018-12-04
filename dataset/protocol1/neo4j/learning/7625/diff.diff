@@ -1,0 +1,4 @@
+79c79
+<         LabelScanStore labelScanStore = getLabelScanStore();
+---
+>         LabelScanStore labelScanStore = 	getLabelScanStore();

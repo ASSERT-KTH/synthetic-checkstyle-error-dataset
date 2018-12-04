@@ -1,0 +1,5 @@
+29,30c29
+<     void unlock( Channel channel );
+< }
+---
+>     void unlock( Channel channel );}

@@ -1,0 +1,5 @@
+64,65c64
+<         assertEqual( floatValue( 1.0f ), floatValue( 1.0f ) );
+<         assertEqual( doubleValue( 1.0 ), doubleValue( 1.0 ) );
+---
+>         assertEqual( floatValue( 1.0f ), floatValue( 1.0f ) );        assertEqual( doubleValue( 1.0 ), doubleValue( 1.0 ) );

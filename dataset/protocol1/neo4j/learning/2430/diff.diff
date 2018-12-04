@@ -1,0 +1,4 @@
+50c50
+<             TraversalBranch next = current.next( expander, metadata );
+---
+>             TraversalBranch next = current.	next( expander, metadata );

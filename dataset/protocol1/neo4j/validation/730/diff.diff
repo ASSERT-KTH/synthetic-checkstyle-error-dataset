@@ -1,0 +1,4 @@
+46c46
+<     long getNumberOfRolledBackTransactions();
+---
+>     	long getNumberOfRolledBackTransactions();

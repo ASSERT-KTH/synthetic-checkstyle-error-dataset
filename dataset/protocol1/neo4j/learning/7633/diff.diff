@@ -1,0 +1,5 @@
+61c61,62
+<             FeatureToggles.flag( IndexWriterConfigs.class, "custom.merge.scheduler", true );
+---
+>             FeatureToggles.flag( IndexWriterConfigs.class, 
+> "custom.merge.scheduler", true );

@@ -1,0 +1,4 @@
+32c32
+<         assertFacadeMethodsThrowNotInTransaction( obtainEntity(), ConstraintDefinitionFacadeMethods.values() );
+---
+>         assertFacadeMethodsThrowNotInTransaction( obtainEntity(), ConstraintDefinitionFacadeMethods	.values() );

@@ -1,0 +1,5 @@
+30,31c30
+< import static org.neo4j.unsafe.impl.batchimport.staging.Step.ORDER_SEND_DOWNSTREAM;
+< import static org.neo4j.unsafe.impl.batchimport.staging.Step.RECYCLE_BATCHES;
+---
+> import static org.neo4j.unsafe.impl.batchimport.staging.Step.ORDER_SEND_DOWNSTREAM;import static org.neo4j.unsafe.impl.batchimport.staging.Step.RECYCLE_BATCHES;

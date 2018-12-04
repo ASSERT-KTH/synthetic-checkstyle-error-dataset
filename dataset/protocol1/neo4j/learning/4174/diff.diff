@@ -1,0 +1,4 @@
+269c269
+<         if ( lhs instanceof Character && rhs instanceof String )
+---
+>         if ( lhs 	instanceof Character && rhs instanceof String )

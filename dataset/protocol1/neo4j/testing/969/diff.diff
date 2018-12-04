@@ -1,0 +1,4 @@
+27c27
+<     Map<String, List<String>> getExensionsFor( Class<?> type );
+---
+>     Map<String, List<String >> getExensionsFor( Class<?> type );

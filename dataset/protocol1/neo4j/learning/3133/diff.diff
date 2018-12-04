@@ -1,0 +1,4 @@
+170c170
+<         int start = 0, length = value.length();
+---
+>         int start= 0, length = value.length();

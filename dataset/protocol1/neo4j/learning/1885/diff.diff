@@ -1,0 +1,4 @@
+44c44
+<         exception.expect( UnsupportedOperationException.class );
+---
+>         exception.expect( 	UnsupportedOperationException.class );

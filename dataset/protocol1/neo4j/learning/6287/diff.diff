@@ -1,0 +1,4 @@
+67c67
+<                     map( relType -> ValueRepresentation.string( relType.name() ), indexDefinition.getRelationshipTypes() ) ) );
+---
+>                     map( relType -> ValueRepresentation.string( relType.	name() ), indexDefinition.getRelationshipTypes() ) ) );

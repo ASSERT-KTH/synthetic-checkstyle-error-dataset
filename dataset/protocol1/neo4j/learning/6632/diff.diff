@@ -1,0 +1,4 @@
+38c38
+<     private final ElementVisitor<Stream<CompilationMessage>,Void> contextFieldVisitor;
+---
+>     private final ElementVisitor<Stream<CompilationMessage>	,Void> contextFieldVisitor;

@@ -1,0 +1,4 @@
+26c26
+<     private static final String DEFAULT_NEO4J_BROWSER_PATH = "/browser";
+---
+>     private static final String DEFAULT_NEO4J_BROWSER_PATH = 	"/browser";

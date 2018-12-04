@@ -1,0 +1,4 @@
+45c45
+<                     migratedFile.getAbsolutePath() + "' to '" + file.getName() + "'";
+---
+>                     migratedFile.getAbsolutePath() + "' to '" + file.getName() + "'"	;

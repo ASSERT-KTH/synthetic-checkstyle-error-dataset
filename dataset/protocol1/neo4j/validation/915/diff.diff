@@ -1,0 +1,4 @@
+74c74
+<         TransactionQueue queue = new TransactionQueue( batchSize, applier );
+---
+>         TransactionQueue queue = new TransactionQueue ( batchSize, applier );

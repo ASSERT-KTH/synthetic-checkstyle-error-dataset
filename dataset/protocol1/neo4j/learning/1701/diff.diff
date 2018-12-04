@@ -1,0 +1,5 @@
+172c172,173
+<         ListConverter converter = new ListConverter( Boolean.class, NTBoolean );
+---
+>         ListConverter converter = new ListConverter
+> ( Boolean.class, NTBoolean );

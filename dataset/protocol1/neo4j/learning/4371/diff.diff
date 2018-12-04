@@ -1,0 +1,5 @@
+87c87,88
+<         assertThat( agents.recentItems(), hasSize( 0 ) );
+---
+>         assertThat( agents.recentItems(), hasSize( 
+> 0 ) );

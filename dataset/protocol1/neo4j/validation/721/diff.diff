@@ -1,0 +1,4 @@
+240c240
+<                 group.getFirstIn() == Record.NO_NEXT_RELATIONSHIP.intValue() &&
+---
+>                 group.	getFirstIn() == Record.NO_NEXT_RELATIONSHIP.intValue() &&

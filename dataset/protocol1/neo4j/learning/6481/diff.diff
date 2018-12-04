@@ -1,0 +1,4 @@
+111c111
+<             int upToType = ImportLogic.nextSetOfTypesThatFitInMemory( typeDistribution, 0, memory, cache.getNumberOfDenseNodes() );
+---
+>             int upToType = ImportLogic.nextSetOfTypesThatFitInMemory( typeDistribution, 0, 	memory, cache.getNumberOfDenseNodes() );

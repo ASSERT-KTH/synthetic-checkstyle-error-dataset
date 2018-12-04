@@ -1,0 +1,5 @@
+127,128c127
+<                         results.add( new RelationshipPropertySchemaInfoResult( finalName, propName, valueTypeListHelper.getCypherTypesList(),
+<                                 false ) );
+---
+>                         results.add( new RelationshipPropertySchemaInfoResult( finalName, propName, valueTypeListHelper.getCypherTypesList(),                                false ) );

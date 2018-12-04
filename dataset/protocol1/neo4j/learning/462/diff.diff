@@ -1,0 +1,5 @@
+246,247c246
+<     private void removeChildAt( PageCursor cursor, int pos, int keyCount )
+<     {
+---
+>     private void removeChildAt( PageCursor cursor, int pos, int keyCount )    {

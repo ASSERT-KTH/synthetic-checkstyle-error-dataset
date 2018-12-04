@@ -1,0 +1,5 @@
+303c303,304
+<             IoPrimitiveUtils.writeInt( channel, buffer( 4 ), VERSION );
+---
+>             IoPrimitiveUtils.writeInt( channel, buffer
+> ( 4 ), VERSION );

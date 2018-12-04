@@ -1,0 +1,4 @@
+165c165
+<     private final <T> void shouldDelegate( Function<T,Configuration> configFactory, Function<Configuration,T> getter, T... expectedValues )
+---
+>     private final <T> void shouldDelegate( Function<T,Configuration> configFactory, Function<Configuration,T> getter, T... 	expectedValues )

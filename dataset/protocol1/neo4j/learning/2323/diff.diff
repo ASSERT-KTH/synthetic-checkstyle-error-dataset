@@ -1,0 +1,4 @@
+81c81
+<                 new Dijkstra<>( (double) 0, graph.getNode( "s" ), graph.getNode( "e" ), ( relationship, direction ) -> {
+---
+>                 new Dijkstra<>( (double) 0, graph.getNode( "s" ), graph.getNode ( "e" ), ( relationship, direction ) -> {

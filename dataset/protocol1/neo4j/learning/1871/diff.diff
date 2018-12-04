@@ -1,0 +1,5 @@
+24c24,25
+< public class AggregationError implements CompilationMessage
+---
+> public 
+> class AggregationError implements CompilationMessage

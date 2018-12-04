@@ -1,0 +1,4 @@
+278c278
+<         if ( possibleEndNodes.length == 1 )
+---
+>         	if ( possibleEndNodes.length == 1 )

@@ -1,0 +1,4 @@
+59c59
+<         if ( !from.hasCompatibleCapabilities( to, CapabilityType.INDEX ) )
+---
+>         if ( !from.hasCompatibleCapabilities( to, CapabilityType.INDEX ) 	)

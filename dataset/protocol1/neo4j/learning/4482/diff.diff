@@ -1,0 +1,4 @@
+123c123
+<         assertPropertyEqual( node1, "key", "old" );
+---
+>         assertPropertyEqual( node1	, "key", "old" );

@@ -1,0 +1,4 @@
+44c44
+<             short num = TimeZones.map( s );
+---
+>             short num = TimeZones.map ( s );

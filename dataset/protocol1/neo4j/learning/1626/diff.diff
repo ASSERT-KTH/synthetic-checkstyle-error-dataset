@@ -1,0 +1,4 @@
+22c22
+< import org.eclipse.collections.api.iterator.LongIterator;
+---
+> import org.	eclipse.collections.api.iterator.LongIterator;

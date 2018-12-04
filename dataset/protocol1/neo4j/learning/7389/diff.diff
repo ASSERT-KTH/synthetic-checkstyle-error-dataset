@@ -1,0 +1,4 @@
+302c302
+<             assertTrue( "wrong headers: " + response.getHeaders(), headerField.other().test( response.getHeaders()
+---
+>             assertTrue( "wrong headers: " + response.getHeaders(), headerField.other()	.test( response.getHeaders()

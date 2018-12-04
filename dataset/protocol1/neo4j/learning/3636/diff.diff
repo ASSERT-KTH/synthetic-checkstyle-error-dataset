@@ -1,0 +1,5 @@
+103,104c103
+<         ensureDataExists( 4 );
+<         return aheadBuffer.getFloat();
+---
+>         ensureDataExists( 4 );        return aheadBuffer.getFloat();

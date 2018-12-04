@@ -1,0 +1,4 @@
+48c48
+<             byte[] additionalHeader = generateAdditionalHeader();
+---
+>             byte[] additionalHeader = generateAdditionalHeader(	);

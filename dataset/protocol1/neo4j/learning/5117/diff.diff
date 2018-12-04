@@ -1,0 +1,5 @@
+46,47c46
+<     void visit( long relationshipId, int typeId, long startNodeId, long endNodeId ) throws EXCEPTION;
+< }
+---
+>     void visit( long relationshipId, int typeId, long startNodeId, long endNodeId ) throws EXCEPTION;}

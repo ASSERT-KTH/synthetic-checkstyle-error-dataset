@@ -1,0 +1,4 @@
+34c34
+<     void single( long reference );
+---
+>     void single( long reference )	;

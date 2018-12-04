@@ -1,0 +1,4 @@
+70c70
+<         return AdminCommandSection.general();
+---
+>         return AdminCommandSection.general()	;

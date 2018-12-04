@@ -1,0 +1,4 @@
+157c157
+<         array.get( index, scratchBuffer );
+---
+>         array.get( 	index, scratchBuffer );

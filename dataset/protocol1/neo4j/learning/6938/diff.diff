@@ -1,0 +1,5 @@
+105c105,106
+<         assertEquals( 1, req.getRemotePort());
+---
+>         assertEquals( 
+> 1, req.getRemotePort());

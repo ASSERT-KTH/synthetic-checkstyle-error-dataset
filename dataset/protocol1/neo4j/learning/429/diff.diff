@@ -1,0 +1,4 @@
+230c230
+<                 return tx.schemaRead().indexUpdatesAndSize( indexId( tx ), Registers.newDoubleLongRegister() );
+---
+>                 return tx	.schemaRead().indexUpdatesAndSize( indexId( tx ), Registers.newDoubleLongRegister() );

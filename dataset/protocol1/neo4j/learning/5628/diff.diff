@@ -1,0 +1,5 @@
+49,50c49
+<     public void read( BoltResponseMessageWriter messageWriter ) throws IOException
+<     {
+---
+>     public void read( BoltResponseMessageWriter messageWriter ) throws IOException    {

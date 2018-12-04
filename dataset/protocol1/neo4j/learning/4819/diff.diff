@@ -1,0 +1,4 @@
+165c165
+<             db.execute( "MATCH (user1:User { userId: {user1} }), (user2:User { userId: {user2} }) " +
+---
+>             db.execute( 	"MATCH (user1:User { userId: {user1} }), (user2:User { userId: {user2} }) " +

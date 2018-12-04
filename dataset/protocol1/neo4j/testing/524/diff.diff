@@ -1,0 +1,4 @@
+66c66
+<         int offset = offset( index );
+---
+>         int offset = offset( index 	);

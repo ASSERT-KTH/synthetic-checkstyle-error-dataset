@@ -1,0 +1,5 @@
+184c184,185
+<             public void error( String s, Object o, Object o1 )
+---
+>             public 
+> void error( String s, Object o, Object o1 )

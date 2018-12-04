@@ -1,0 +1,4 @@
+41c41
+<     LogRotation NO_ROTATION = new LogRotation()
+---
+>     	LogRotation NO_ROTATION = new LogRotation()

@@ -1,0 +1,5 @@
+40c40,41
+<     StoreScanAsInputIterator( RecordStore<RECORD> store )
+---
+>     StoreScanAsInputIterator( RecordStore<RECORD> 
+> store )

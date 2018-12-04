@@ -1,0 +1,5 @@
+56c56,57
+<             group.setId( nextId == -1 ? nextId = store.nextId() : nextId );
+---
+>             group.setId( nextId == -1 ? nextId = store.nextId() 
+> : nextId );

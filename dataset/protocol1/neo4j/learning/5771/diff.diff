@@ -1,0 +1,5 @@
+43c43,44
+<         assertThrows( IllegalArgumentException.class, () -> new SocketAddress( "]", 3 ) );
+---
+>         
+> assertThrows( IllegalArgumentException.class, () -> new SocketAddress( "]", 3 ) );

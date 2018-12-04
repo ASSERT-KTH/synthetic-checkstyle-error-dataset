@@ -1,0 +1,5 @@
+54,55c54
+<     private final LabelScanStore labelScanStore;
+<     protected final LockService locks;
+---
+>     private final LabelScanStore labelScanStore;    protected final LockService locks;

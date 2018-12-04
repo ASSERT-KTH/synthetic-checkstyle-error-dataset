@@ -1,0 +1,5 @@
+106c106,107
+<         Process process = Runtime.getRuntime().exec( new String[] { "jps", "-l" } );
+---
+>         Process process 
+> = Runtime.getRuntime().exec( new String[] { "jps", "-l" } );

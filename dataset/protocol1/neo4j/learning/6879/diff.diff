@@ -1,0 +1,4 @@
+81c81
+<     abstract String serialize( RepresentationFormat format, URI baseUri, ExtensionInjector extensions );
+---
+>     abstract String 	serialize( RepresentationFormat format, URI baseUri, ExtensionInjector extensions );

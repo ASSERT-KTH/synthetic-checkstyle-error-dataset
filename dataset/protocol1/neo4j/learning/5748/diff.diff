@@ -1,0 +1,5 @@
+56,57c56
+<         serializer.putRelativeUri( "relationship", PATH_RELATIONSHIPS );
+<         serializer.putRelativeUri( "node_index", PATH_NODE_INDEX );
+---
+>         serializer.putRelativeUri( "relationship", PATH_RELATIONSHIPS );        serializer.putRelativeUri( "node_index", PATH_NODE_INDEX );

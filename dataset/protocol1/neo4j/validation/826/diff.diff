@@ -1,0 +1,5 @@
+72c72,73
+<     void acceptDiagnosticsVisitor( Object visitor );
+---
+>     void 
+> acceptDiagnosticsVisitor( Object visitor );

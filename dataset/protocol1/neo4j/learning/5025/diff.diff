@@ -1,0 +1,4 @@
+91c91
+<     private static void initFromForRange( RangePredicate<?> rangePredicate, NumberIndexKey treeKeyFrom )
+---
+>     private static void initFromForRange ( RangePredicate<?> rangePredicate, NumberIndexKey treeKeyFrom )

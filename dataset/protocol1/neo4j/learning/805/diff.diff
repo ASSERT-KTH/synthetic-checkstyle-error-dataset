@@ -1,0 +1,4 @@
+63c63
+<     Iterable<RecordProxy<RECORD,ADDITIONAL>> changes();
+---
+>     Iterable <RecordProxy<RECORD,ADDITIONAL>> changes();

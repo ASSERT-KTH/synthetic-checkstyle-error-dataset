@@ -1,0 +1,5 @@
+46,47c46
+<     HAS_RELATIONSHIP_BY_DIRECTION_AND_TYPE(
+<             new FacadeMethod<>( "boolean hasRelationship( Direction direction, RelationshipType... types )", n -> n.hasRelationship( BOTH, FOO ) ) ),
+---
+>     HAS_RELATIONSHIP_BY_DIRECTION_AND_TYPE(            new FacadeMethod<>( "boolean hasRelationship( Direction direction, RelationshipType... types )", n -> n.hasRelationship( BOTH, FOO ) ) ),

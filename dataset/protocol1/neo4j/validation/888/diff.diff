@@ -1,0 +1,4 @@
+30c30
+<     ExplicitIndexProgressor( ExplicitIndexHits hits, ExplicitClient client )
+---
+>     ExplicitIndexProgressor( ExplicitIndexHits hits, ExplicitClient client 	)

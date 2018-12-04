@@ -1,0 +1,5 @@
+114c114,115
+<             mergeScheduler.getExecutionLatch().countDown();
+---
+>             mergeScheduler.getExecutionLatch().countDown
+> ();

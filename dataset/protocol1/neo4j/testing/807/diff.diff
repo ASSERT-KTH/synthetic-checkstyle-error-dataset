@@ -1,0 +1,4 @@
+38c38
+<         assertSetAndGet( cache, 10, 45 );
+---
+>         assertSetAndGet( 	cache, 10, 45 );

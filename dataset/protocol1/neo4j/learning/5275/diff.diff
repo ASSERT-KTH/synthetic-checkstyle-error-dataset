@@ -1,0 +1,4 @@
+125c125
+<     private static void assertHelloMessageMatches( HelloMessage expected, RequestMessage actual )
+---
+>     private static void assertHelloMessageMatches( HelloMessage expected, RequestMessage actual)

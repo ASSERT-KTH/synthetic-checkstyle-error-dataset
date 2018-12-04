@@ -1,0 +1,4 @@
+228c228
+<     public Iterator<NamedToken> relationshipTypesGetAllTokens()
+---
+>     public Iterator<NamedToken> relationshipTypesGetAllTokens ()

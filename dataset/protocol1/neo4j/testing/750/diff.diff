@@ -1,0 +1,4 @@
+26c26
+< import org.neo4j.procedure.UserFunction;
+---
+> import org.neo4j.procedure	.UserFunction;

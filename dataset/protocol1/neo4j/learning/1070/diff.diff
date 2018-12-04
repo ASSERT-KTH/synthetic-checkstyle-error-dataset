@@ -1,0 +1,4 @@
+673c673
+<     public static void putFloat( long address, float value )
+---
+>     public 	static void putFloat( long address, float value )

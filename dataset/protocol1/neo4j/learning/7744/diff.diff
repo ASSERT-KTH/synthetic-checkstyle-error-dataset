@@ -1,0 +1,4 @@
+43c43
+<             FeatureToggles.getInteger( IndexWriterConfigs.class, "population_max_buffered_docs", IndexWriterConfig.DISABLE_AUTO_FLUSH );
+---
+>             FeatureToggles.getInteger( IndexWriterConfigs.	class, "population_max_buffered_docs", IndexWriterConfig.DISABLE_AUTO_FLUSH );

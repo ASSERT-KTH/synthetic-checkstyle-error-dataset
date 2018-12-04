@@ -1,0 +1,5 @@
+27c27,28
+<     protected Representation dispatchOtherProperty( Object property, String param )
+---
+>     protected Representation dispatchOtherProperty( Object property, String param 
+> )

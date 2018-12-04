@@ -1,0 +1,5 @@
+56c56,57
+<                 firstAvail = first.visit( firstKey, firstValue );
+---
+>                 firstAvail = first.visit
+> ( firstKey, firstValue );

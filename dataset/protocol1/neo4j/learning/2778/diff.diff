@@ -1,0 +1,4 @@
+70c70
+<                 node.delete();
+---
+>                 node.delete(	);

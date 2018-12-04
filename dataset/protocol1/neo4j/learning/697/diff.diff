@@ -1,0 +1,4 @@
+30c30
+< public class BigIdTracker extends AbstractTracker<ByteArray>
+---
+> public class BigIdTracker extends AbstractTracker <ByteArray>

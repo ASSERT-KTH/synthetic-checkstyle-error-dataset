@@ -1,0 +1,4 @@
+47c47
+<         long latestTxId = TransactionIdStore.BASE_TX_ID;
+---
+>         long latestTxId = 	TransactionIdStore.BASE_TX_ID;

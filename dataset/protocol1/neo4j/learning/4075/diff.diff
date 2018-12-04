@@ -1,0 +1,5 @@
+65c65,66
+<             String value = URLEncoder.encode( beanName.toString(), StandardCharsets.UTF_8.name() )
+---
+>             String 
+> value = URLEncoder.encode( beanName.toString(), StandardCharsets.UTF_8.name() )

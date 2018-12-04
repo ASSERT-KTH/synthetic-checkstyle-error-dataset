@@ -1,0 +1,5 @@
+273c273,274
+<         private final OutputStream out;
+---
+>         
+> private final OutputStream out;

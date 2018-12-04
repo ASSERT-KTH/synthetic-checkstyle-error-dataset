@@ -1,0 +1,4 @@
+40c40
+<     private static final URLAccessRule FILE_ACCESS = new FileURLAccessRule();
+---
+>     private static final URLAccessRule FILE_ACCESS = 	new FileURLAccessRule();

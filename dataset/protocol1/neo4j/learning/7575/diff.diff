@@ -1,0 +1,4 @@
+55c55
+<         ParameterBuilder( Class<?> suiteClass ) throws InitializationError
+---
+>         ParameterBuilder( Class<?> 	suiteClass ) throws InitializationError

@@ -1,0 +1,5 @@
+59,60c59
+<         state.setReadyState( readyState );
+<         state.setInterruptedState( interruptedState );
+---
+>         state.setReadyState( readyState );        state.setInterruptedState( interruptedState );

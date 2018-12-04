@@ -1,0 +1,5 @@
+42c42,43
+<     public void printProfile( PrintStream out, String profileTitle )
+---
+>     public void printProfile( PrintStream out, String 
+> profileTitle )

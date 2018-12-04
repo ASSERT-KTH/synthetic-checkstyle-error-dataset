@@ -1,0 +1,5 @@
+73c73,74
+<     void halt()
+---
+>     void halt
+> ()

@@ -1,0 +1,4 @@
+69c69
+<     private final Lock forceLock = new ReentrantLock();
+---
+>     private 	final Lock forceLock = new ReentrantLock();

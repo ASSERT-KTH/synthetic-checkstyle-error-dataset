@@ -1,0 +1,5 @@
+308c308,309
+<         assertEquals( "Wrong response status. response: " + data.entity, responseCode, response.getStatus() );
+---
+>         assertEquals( "Wrong response status. response: " + data.entity, responseCode, response.getStatus
+> () );

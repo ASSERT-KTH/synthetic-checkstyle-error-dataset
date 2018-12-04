@@ -1,0 +1,5 @@
+25c25,26
+< package org.neo4j.helpers;
+---
+> package 
+> org.neo4j.helpers;

@@ -1,0 +1,4 @@
+33c33
+<     void add( TrackedNetworkConnection connection );
+---
+>     void add ( TrackedNetworkConnection connection );

@@ -1,0 +1,5 @@
+27,28c27
+<  * number representations like {@link #setInt(long, int, int) int} or {@link #setLong(long, int, long) long},
+<  * even a special {@link #set6ByteLong(long, int, long) 6B long}. More can easily be added on demand.
+---
+>  * number representations like {@link #setInt(long, int, int) int} or {@link #setLong(long, int, long) long}, * even a special {@link #set6ByteLong(long, int, long) 6B long}. More can easily be added on demand.

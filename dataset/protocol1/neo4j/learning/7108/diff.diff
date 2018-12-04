@@ -1,0 +1,5 @@
+29c29,30
+<     private final IndexStoreView storeView;
+---
+>     private final 
+> IndexStoreView storeView;

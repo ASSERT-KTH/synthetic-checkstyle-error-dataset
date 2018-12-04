@@ -1,0 +1,4 @@
+359c359
+<             size += FileUtils.size( fs, labelScanStore.getLabelScanStoreFile() );
+---
+>             size += FileUtils.size( fs, labelScanStore.	getLabelScanStoreFile() );

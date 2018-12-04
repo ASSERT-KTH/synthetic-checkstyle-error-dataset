@@ -1,0 +1,5 @@
+169c169,170
+<         return highMark == NO_ID;
+---
+>         return highMark 
+> == NO_ID;

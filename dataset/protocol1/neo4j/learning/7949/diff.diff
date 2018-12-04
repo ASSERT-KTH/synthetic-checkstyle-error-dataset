@@ -1,0 +1,4 @@
+86c86
+<         return Objects.equals( meta, that.meta );
+---
+>         return 	Objects.equals( meta, that.meta );

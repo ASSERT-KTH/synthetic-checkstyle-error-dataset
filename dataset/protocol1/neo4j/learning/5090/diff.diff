@@ -1,0 +1,5 @@
+106c106,107
+<     public void removesOldMessagesLog() throws Exception
+---
+>     public void removesOldMessagesLog
+> () throws Exception

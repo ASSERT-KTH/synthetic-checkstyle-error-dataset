@@ -1,0 +1,5 @@
+81,82c81
+<         Function<Object,Object> mockFunction = mock( Function.class );
+<         when( mockFunction.apply( o1 ) ).thenReturn( o1a );
+---
+>         Function<Object,Object> mockFunction = mock( Function.class );        when( mockFunction.apply( o1 ) ).thenReturn( o1a );

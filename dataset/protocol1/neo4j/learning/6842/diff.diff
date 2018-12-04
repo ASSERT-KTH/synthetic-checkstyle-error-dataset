@@ -1,0 +1,5 @@
+106c106,107
+<         assertEquals( expected.length, i, "has all expected values" );
+---
+>         
+> assertEquals( expected.length, i, "has all expected values" );

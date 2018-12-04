@@ -1,0 +1,4 @@
+109c109
+<     public static PathFinder<Path> shortestPath( PathExpander expander, int maxDepth, int maxHitCount )
+---
+>     public static PathFinder<Path> shortestPath( PathExpander expander, int maxDepth, int maxHitCount 	)

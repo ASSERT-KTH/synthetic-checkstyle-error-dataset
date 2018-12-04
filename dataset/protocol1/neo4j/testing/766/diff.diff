@@ -1,0 +1,5 @@
+79c79,80
+<         String asString = value();
+---
+>         String asString = 
+> value();

@@ -1,0 +1,5 @@
+56,57c56
+<     public void checkDiffReference( REFERENCED oldReferenced, REFERENCED newReferenced, RecordAccess records )
+<     {
+---
+>     public void checkDiffReference( REFERENCED oldReferenced, REFERENCED newReferenced, RecordAccess records )    {

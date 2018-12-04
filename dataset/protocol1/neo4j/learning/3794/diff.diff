@@ -1,0 +1,4 @@
+45c45
+< public class SchemaStore extends AbstractDynamicStore implements Iterable<SchemaRule>
+---
+> public class SchemaStore extends AbstractDynamicStore implements Iterable<SchemaRule >

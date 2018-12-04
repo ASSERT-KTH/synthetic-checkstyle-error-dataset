@@ -1,0 +1,5 @@
+66,67c66
+<         Map<String, String> nestedMap = (Map<String, String>) nested;
+<         assertThat( nestedMap, hasEntry( "key", "valuable" ) );
+---
+>         Map<String, String> nestedMap = (Map<String, String>) nested;        assertThat( nestedMap, hasEntry( "key", "valuable" ) );

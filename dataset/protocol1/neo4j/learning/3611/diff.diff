@@ -1,0 +1,4 @@
+39c39
+< import static org.neo4j.graphdb.traversal.Evaluation.INCLUDE_AND_CONTINUE;
+---
+> import static 	org.neo4j.graphdb.traversal.Evaluation.INCLUDE_AND_CONTINUE;

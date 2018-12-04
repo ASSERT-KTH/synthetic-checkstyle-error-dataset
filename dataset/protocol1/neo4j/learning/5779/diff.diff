@@ -1,0 +1,5 @@
+22c22,23
+< public interface ReadableClosablePositionAwareChannel extends ReadableClosableChannel, PositionAwareChannel
+---
+> public interface ReadableClosablePositionAwareChannel 
+> extends ReadableClosableChannel, PositionAwareChannel

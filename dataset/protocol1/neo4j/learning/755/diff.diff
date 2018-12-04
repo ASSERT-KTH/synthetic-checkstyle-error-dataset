@@ -1,0 +1,4 @@
+59c59
+<     public static Stream<FileHandle> streamFilesRecursive( File directory, FileSystemAbstraction fs ) throws IOException
+---
+>     public static Stream<FileHandle> streamFilesRecursive( File directory, 	FileSystemAbstraction fs ) throws IOException

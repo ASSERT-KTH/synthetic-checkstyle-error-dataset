@@ -1,0 +1,4 @@
+39c39
+< public interface PropertyEntry<T extends PropertyContainer>
+---
+> public interface PropertyEntry<T extends 	PropertyContainer>

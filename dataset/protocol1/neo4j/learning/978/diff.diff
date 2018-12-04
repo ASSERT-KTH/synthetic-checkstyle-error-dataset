@@ -1,0 +1,5 @@
+275c275,276
+<     private void insertValueSlotsAt( PageCursor cursor, int pos, int numberOfSlots, int keyCount )
+---
+>     private void insertValueSlotsAt( PageCursor cursor, int 
+> pos, int numberOfSlots, int keyCount )

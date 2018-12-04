@@ -1,0 +1,5 @@
+26c26,27
+< public class NodeValueIndexCursorLuceneTest extends AbstractNodeValueIndexCursorTest
+---
+> public class NodeValueIndexCursorLuceneTest 
+> extends AbstractNodeValueIndexCursorTest

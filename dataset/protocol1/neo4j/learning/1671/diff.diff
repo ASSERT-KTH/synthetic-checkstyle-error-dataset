@@ -1,0 +1,4 @@
+48c48
+<         IndexDirectoryStructure parentDirectoryStructure = directoriesByProvider( databaseDirectory ).forProvider( descriptor );
+---
+>         IndexDirectoryStructure 	parentDirectoryStructure = directoriesByProvider( databaseDirectory ).forProvider( descriptor );

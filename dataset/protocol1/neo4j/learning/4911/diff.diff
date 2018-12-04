@@ -1,0 +1,4 @@
+146c146
+<         StubCursorFactory cursors = new StubCursorFactory().withRelationshipTraversalCursors( relationshipCursor );
+---
+>         StubCursorFactory cursors = new StubCursorFactory ().withRelationshipTraversalCursors( relationshipCursor );

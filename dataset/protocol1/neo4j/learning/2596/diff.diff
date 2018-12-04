@@ -1,0 +1,4 @@
+146c146
+<                 public long asTimeStamp( long months, long days, long seconds, long nanos )
+---
+>                 public long asTimeStamp( long months, long days, long seconds, long 	nanos )

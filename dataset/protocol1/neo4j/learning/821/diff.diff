@@ -1,0 +1,4 @@
+129c129
+<             public boolean next() throws EX
+---
+>             public boolean next(	) throws EX

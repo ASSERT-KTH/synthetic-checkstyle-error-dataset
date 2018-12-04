@@ -1,0 +1,5 @@
+68,69c68
+<     private static NodeRecord createdNode()
+<     {
+---
+>     private static NodeRecord createdNode()    {

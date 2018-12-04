@@ -1,0 +1,5 @@
+41,42c41
+<     char[] convert( Object[] data )
+<     {
+---
+>     char[] convert( Object[] data )    {

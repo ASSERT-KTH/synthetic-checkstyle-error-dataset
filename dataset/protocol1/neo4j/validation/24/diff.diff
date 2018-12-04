@@ -1,0 +1,5 @@
+72c72,73
+<     private void addExistingFiles( List<SpatialFile> existing )
+---
+>     private void addExistingFiles( List<SpatialFile> 
+> existing )

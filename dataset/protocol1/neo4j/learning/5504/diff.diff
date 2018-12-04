@@ -1,0 +1,4 @@
+78c78
+<         while ( elems.hasNext() )
+---
+>         while 	( elems.hasNext() )

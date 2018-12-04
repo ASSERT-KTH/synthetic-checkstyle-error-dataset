@@ -1,0 +1,4 @@
+33c33
+<     Object extract( GraphDatabaseAPI graphDb, Object source, ParameterList parameters ) throws BadInputException
+---
+>     Object extract( GraphDatabaseAPI graphDb, Object source	, ParameterList parameters ) throws BadInputException

@@ -1,0 +1,4 @@
+145c145
+<         List<AnyValue> values = Arrays.stream( objs )
+---
+>         List<AnyValue>values = Arrays.stream( objs )

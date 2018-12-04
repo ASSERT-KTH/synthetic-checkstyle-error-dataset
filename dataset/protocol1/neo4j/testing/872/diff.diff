@@ -1,0 +1,4 @@
+31c31
+<     public Statement( String statement, Map<String, Object> parameters, boolean includeStats,
+---
+>     public Statement( String statement, Map<String, Object > parameters, boolean includeStats,

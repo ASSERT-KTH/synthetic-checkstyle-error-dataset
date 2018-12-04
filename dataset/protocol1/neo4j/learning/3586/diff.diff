@@ -1,0 +1,5 @@
+436c436,437
+<     public void shouldHandleExecutionEngineThrowingUndeclaredCheckedExceptions() throws Exception
+---
+>     public void shouldHandleExecutionEngineThrowingUndeclaredCheckedExceptions() throws 
+> Exception

@@ -1,0 +1,5 @@
+153c153,154
+<             long firstInEndNodeChain = record.isFirstInSecondChain() ? 0x2 : 0;
+---
+>             
+> long firstInEndNodeChain = record.isFirstInSecondChain() ? 0x2 : 0;

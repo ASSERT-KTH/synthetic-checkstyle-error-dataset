@@ -1,0 +1,5 @@
+233,234c233
+<                  "and also flattens collections of nodes and relationships, including paths." )
+<     public void return_results_in_graph_format() throws JsonParseException
+---
+>                  "and also flattens collections of nodes and relationships, including paths." )    public void return_results_in_graph_format() throws JsonParseException

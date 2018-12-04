@@ -1,0 +1,5 @@
+297c297,298
+<             assertEquals( (1L << 2) | (1L << 11), table.hopBits( index ) );
+---
+>             assertEquals( (1L 
+> << 2) | (1L << 11), table.hopBits( index ) );

@@ -1,0 +1,5 @@
+126c126,127
+<         return Arrays.hashCode( propertyIds ) + 31 * labelId;
+---
+>         return Arrays.hashCode
+> ( propertyIds ) + 31 * labelId;

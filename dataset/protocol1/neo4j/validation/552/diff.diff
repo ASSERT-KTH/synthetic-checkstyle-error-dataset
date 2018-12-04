@@ -1,0 +1,4 @@
+428c428
+<             return !cursor.next();
+---
+>             return !cursor.next ();

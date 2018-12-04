@@ -1,0 +1,4 @@
+72c72
+<         ListValue expected = list( longValue( 7L ), longValue( 6L ), longValue( 5L ) );
+---
+>         ListValue 	expected = list( longValue( 7L ), longValue( 6L ), longValue( 5L ) );

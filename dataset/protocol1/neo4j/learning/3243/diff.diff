@@ -1,0 +1,5 @@
+281c281,282
+<     public static <T> Iterator<T> map( final IntFunction<T> mapFunction, final PrimitiveIntIterator source )
+---
+>     public static <T> Iterator<T> map( final IntFunction<T> mapFunction, final 
+> PrimitiveIntIterator source )

@@ -1,0 +1,5 @@
+76,77c76
+<                 }
+<                 node.setProperty( "name", name );
+---
+>                 }                node.setProperty( "name", name );

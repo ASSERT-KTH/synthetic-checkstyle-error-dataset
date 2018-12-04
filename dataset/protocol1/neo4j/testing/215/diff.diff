@@ -1,0 +1,5 @@
+112,113c112
+<             protected PlatformModule createPlatform( File storeDir, Config config, Dependencies dependencies )
+<             {
+---
+>             protected PlatformModule createPlatform( File storeDir, Config config, Dependencies dependencies )            {

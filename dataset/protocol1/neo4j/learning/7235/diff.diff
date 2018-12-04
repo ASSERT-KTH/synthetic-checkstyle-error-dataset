@@ -1,0 +1,4 @@
+69c69
+<             assertConsistent( random.nextString(), random.nextString(), TextValue::plus );
+---
+>             assertConsistent( random.nextString(), random.nextString (), TextValue::plus );

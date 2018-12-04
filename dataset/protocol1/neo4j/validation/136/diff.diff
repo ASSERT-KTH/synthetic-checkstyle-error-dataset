@@ -1,0 +1,5 @@
+48c48,49
+<     public static DynamicRecord allocateRecord( long id )
+---
+>     public static DynamicRecord 
+> allocateRecord( long id )

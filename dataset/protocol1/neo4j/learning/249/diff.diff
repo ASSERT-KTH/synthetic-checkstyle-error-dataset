@@ -1,0 +1,4 @@
+298c298
+<             HashMap<String,T> services = new HashMap<>();
+---
+>             HashMap<String,T> services = new HashMap <>();

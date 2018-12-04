@@ -1,0 +1,5 @@
+190,191c190
+<             out.writeNumberField( "offset", position.getOffset() );
+<             out.writeNumberField( "line", position.getLine() );
+---
+>             out.writeNumberField( "offset", position.getOffset() );            out.writeNumberField( "line", position.getLine() );

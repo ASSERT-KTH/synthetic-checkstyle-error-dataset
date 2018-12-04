@@ -1,0 +1,4 @@
+74c74
+<             TransactionHook hook = hookAndOutcome.first();
+---
+>             TransactionHook hook = hookAndOutcome.first ();

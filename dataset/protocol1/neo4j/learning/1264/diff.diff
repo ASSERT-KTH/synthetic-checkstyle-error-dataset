@@ -1,0 +1,4 @@
+53c53
+<     public InternalTransaction beginTransaction( KernelTransaction.Type type, LoginContext loginContext )
+---
+>     public InternalTransaction beginTransaction( KernelTransaction	.Type type, LoginContext loginContext )

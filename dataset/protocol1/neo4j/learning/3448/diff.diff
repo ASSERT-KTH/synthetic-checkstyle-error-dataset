@@ -1,0 +1,5 @@
+32c32,33
+<     private final Map<IndexIdentifier, Pair<Integer, IndexType>> cache = Collections.synchronizedMap(
+---
+>     private final Map<IndexIdentifier, 
+> Pair<Integer, IndexType>> cache = Collections.synchronizedMap(

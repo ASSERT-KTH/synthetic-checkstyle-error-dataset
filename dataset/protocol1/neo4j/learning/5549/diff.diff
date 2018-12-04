@@ -1,0 +1,5 @@
+41c41,42
+< public class FileUserRepository extends AbstractUserRepository implements FileRepository
+---
+> public class FileUserRepository extends AbstractUserRepository 
+> implements FileRepository

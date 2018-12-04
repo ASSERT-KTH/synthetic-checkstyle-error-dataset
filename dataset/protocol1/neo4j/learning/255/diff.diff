@@ -1,0 +1,5 @@
+24c24,25
+< public abstract class NamedFunction<FROM, TO> implements ThrowingFunction<FROM, TO, RuntimeException>
+---
+> public abstract 
+> class NamedFunction<FROM, TO> implements ThrowingFunction<FROM, TO, RuntimeException>

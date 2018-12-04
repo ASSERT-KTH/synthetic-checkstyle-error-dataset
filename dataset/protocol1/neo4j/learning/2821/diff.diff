@@ -1,0 +1,4 @@
+50c50
+<         throw new IllegalArgumentException( "Mandatory argument \"" + name + "\" not supplied." );
+---
+>         throw new IllegalArgumentException( "Mandatory argument \"" + name +"\" not supplied." );

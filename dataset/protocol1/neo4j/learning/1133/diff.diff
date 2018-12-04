@@ -1,0 +1,5 @@
+24,25c24
+< import org.junit.jupiter.migrationsupport.rules.EnableRuleMigrationSupport;
+< import org.junit.rules.TemporaryFolder;
+---
+> import org.junit.jupiter.migrationsupport.rules.EnableRuleMigrationSupport;import org.junit.rules.TemporaryFolder;

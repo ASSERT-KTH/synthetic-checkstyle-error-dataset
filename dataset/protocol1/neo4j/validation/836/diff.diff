@@ -1,0 +1,5 @@
+46,47c46
+<  * The returned {@link LongIterator} aren't closable so the cursors retrieved are managed
+<  * inside of this reader and closed between each new query and on {@link #close()}.
+---
+>  * The returned {@link LongIterator} aren't closable so the cursors retrieved are managed * inside of this reader and closed between each new query and on {@link #close()}.

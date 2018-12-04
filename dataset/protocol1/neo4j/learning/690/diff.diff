@@ -1,0 +1,5 @@
+37c37,38
+<     long ID_NOT_FOUND = -1;
+---
+>     long 
+> ID_NOT_FOUND = -1;

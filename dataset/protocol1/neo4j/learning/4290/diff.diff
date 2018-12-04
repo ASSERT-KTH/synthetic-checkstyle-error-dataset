@@ -1,0 +1,5 @@
+114c114,115
+<     public Iterable<StoreIndexDescriptor> onlineRules()
+---
+>     public 
+> Iterable<StoreIndexDescriptor> onlineRules()

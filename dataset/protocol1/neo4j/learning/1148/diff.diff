@@ -1,0 +1,4 @@
+113c113
+<                 if ( qIndex1 != qIndex2 )
+---
+>                 if 	( qIndex1 != qIndex2 )

@@ -1,0 +1,4 @@
+120c120
+<     public void markAsFailed( String failure ) throws IOException
+---
+>     public void 	markAsFailed( String failure ) throws IOException

@@ -1,0 +1,4 @@
+37c37
+<     public ListConverter( Type type, Neo4jTypes.AnyType neoType )
+---
+>     public ListConverter( Type type, Neo4jTypes.AnyType neoType 	)

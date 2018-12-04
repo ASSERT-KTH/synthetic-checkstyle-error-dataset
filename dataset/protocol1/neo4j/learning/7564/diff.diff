@@ -1,0 +1,4 @@
+26c26
+< package org.neo4j.graphalgo.impl.shortestpath;
+---
+> package org.neo4j.graphalgo	.impl.shortestpath;

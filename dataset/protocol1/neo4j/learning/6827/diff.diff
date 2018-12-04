@@ -1,0 +1,4 @@
+115c115
+<         return ValueMath.subtract( doubleValue(), b );
+---
+>         return ValueMath.subtract ( doubleValue(), b );

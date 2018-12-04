@@ -1,0 +1,4 @@
+306c306
+<                             config.get( GraphDatabaseSettings.store_user_log_rotation_delay ).toMillis(),
+---
+>                             config.get( GraphDatabaseSettings.store_user_log_rotation_delay ).toMillis (),

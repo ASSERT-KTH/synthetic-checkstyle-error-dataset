@@ -1,0 +1,5 @@
+95c95,96
+<         assertEquals( 1, values.size() );
+---
+>         assertEquals( 1, values.size() 
+> );

@@ -1,0 +1,5 @@
+331c331,332
+<         return delegate.getOffset();
+---
+>         
+> return delegate.getOffset();

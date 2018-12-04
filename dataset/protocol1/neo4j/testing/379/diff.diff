@@ -1,0 +1,5 @@
+46c46,47
+<         try ( Transaction bobTransaction = dataBase.beginTx() )
+---
+>         try ( Transaction bobTransaction = 
+> dataBase.beginTx() )

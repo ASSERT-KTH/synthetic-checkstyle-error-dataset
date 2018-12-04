@@ -1,0 +1,4 @@
+338c338
+<     public Iterable<String> getNodeLabels( long node )
+---
+>     public Iterable<String> getNodeLabels( long node)

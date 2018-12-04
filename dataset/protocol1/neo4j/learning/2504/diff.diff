@@ -1,0 +1,4 @@
+53c53
+<             hash = hashFunction.update( hash, longValue( i ) );
+---
+>             	hash = hashFunction.update( hash, longValue( i ) );

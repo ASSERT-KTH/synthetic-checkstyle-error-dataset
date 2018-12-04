@@ -1,0 +1,5 @@
+241,242c241
+<     /** Invoke a read-only aggregation function by name, and set the transaction's access mode to
+<      * {@link AccessMode.Static#READ READ} for the duration of the function execution.
+---
+>     /** Invoke a read-only aggregation function by name, and set the transaction's access mode to     * {@link AccessMode.Static#READ READ} for the duration of the function execution.

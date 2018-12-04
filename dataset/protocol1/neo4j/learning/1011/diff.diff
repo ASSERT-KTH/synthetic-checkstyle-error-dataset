@@ -1,0 +1,4 @@
+73c73
+<         cursor.putLong( key.rawValueBits );
+---
+>         cursor.putLong( key.rawValueBits )	;

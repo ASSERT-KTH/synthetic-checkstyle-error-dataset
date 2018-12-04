@@ -1,0 +1,5 @@
+87,88c87
+<                     if ( StandardWatchEventKinds.ENTRY_DELETE == kind )
+<                     {
+---
+>                     if ( StandardWatchEventKinds.ENTRY_DELETE == kind )                    {

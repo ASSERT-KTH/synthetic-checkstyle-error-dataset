@@ -1,0 +1,4 @@
+110c110
+<         when( executingQuery.reportedWaitingTimeNanos() ).thenReturn( 1L );
+---
+>         when( executingQuery.reportedWaitingTimeNanos() ).thenReturn( 1L )	;

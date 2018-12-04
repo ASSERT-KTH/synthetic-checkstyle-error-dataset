@@ -1,0 +1,4 @@
+47c47
+<     public ProfiledInterval profile( Thread threadToProfile, long initialDelayNanos )
+---
+>     	public ProfiledInterval profile( Thread threadToProfile, long initialDelayNanos )

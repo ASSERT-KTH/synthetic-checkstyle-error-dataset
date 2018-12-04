@@ -1,0 +1,4 @@
+69c69
+<         int codepoint = "€".codePointAt( 0 );
+---
+>         int codepoint ="€".codePointAt( 0 );

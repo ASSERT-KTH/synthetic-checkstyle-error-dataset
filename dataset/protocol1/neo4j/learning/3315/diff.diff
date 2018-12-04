@@ -1,0 +1,4 @@
+66c66
+<             public void initChannel( Channel ch )
+---
+>             public void initChannel(Channel ch )

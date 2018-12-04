@@ -1,0 +1,5 @@
+92c92,93
+<                 char ch = string.charAt( index );
+---
+>                 
+> char ch = string.charAt( index );

@@ -1,0 +1,4 @@
+38c38
+<         labelDesc = SchemaDescriptorFactory.forLabel( LABEL_ID, 1 );
+---
+>         labelDesc =SchemaDescriptorFactory.forLabel( LABEL_ID, 1 );

@@ -1,0 +1,5 @@
+59c59,60
+<     public Data get( int offset )
+---
+>     
+> public Data get( int offset )

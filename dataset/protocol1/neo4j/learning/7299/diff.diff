@@ -1,0 +1,4 @@
+32c32
+<     void describeListParameter( String name, Class<?> type, boolean optional, String description );
+---
+>     void describeListParameter( String name, Class< ?> type, boolean optional, String description );

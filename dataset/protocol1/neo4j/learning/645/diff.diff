@@ -1,0 +1,4 @@
+39c39
+<                 String.format( "Supplied bookmark [%s] does not conform to pattern %s", bookmarkObject, BOOKMARK_TX_PREFIX ) );
+---
+>                 String.format( 	"Supplied bookmark [%s] does not conform to pattern %s", bookmarkObject, BOOKMARK_TX_PREFIX ) );

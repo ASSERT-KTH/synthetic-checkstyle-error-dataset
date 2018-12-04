@@ -1,0 +1,5 @@
+46,47c46
+<         this.logFiles = logFiles;
+<         this.logRotation = logRotation;
+---
+>         this.logFiles = logFiles;        this.logRotation = logRotation;

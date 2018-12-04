@@ -1,0 +1,4 @@
+45c45
+<             propertyMap.put( propertyIds[i], values[i] );
+---
+>             propertyMap.put( propertyIds[i], values[i	] );

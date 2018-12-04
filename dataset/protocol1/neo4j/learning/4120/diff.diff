@@ -1,0 +1,5 @@
+59c59,60
+<         if ( Iterables.count( data.createdNodes() ) == 0 )
+---
+>         if ( Iterables.count
+> ( data.createdNodes() ) == 0 )

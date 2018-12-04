@@ -1,0 +1,5 @@
+54c54,55
+<         return factory.newLongArray( chunkSize, defaultValue, base );
+---
+>         
+> return factory.newLongArray( chunkSize, defaultValue, base );

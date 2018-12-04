@@ -1,0 +1,4 @@
+25c25
+< public class TestGraphDatabaseBuilder extends GraphDatabaseBuilder
+---
+> public 	class TestGraphDatabaseBuilder extends GraphDatabaseBuilder

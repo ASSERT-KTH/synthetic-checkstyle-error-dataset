@@ -1,0 +1,4 @@
+155c155
+<     void set5ByteLong( long index, int offset, long value );
+---
+>     void set5ByteLong( long index, int offset, long 	value );

@@ -1,0 +1,5 @@
+57c57,58
+<         return pack( getLong( address( index ) + 2 ) );
+---
+>         return pack( getLong( address( index ) + 
+> 2 ) );

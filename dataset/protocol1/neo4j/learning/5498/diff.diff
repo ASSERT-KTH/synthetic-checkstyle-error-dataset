@@ -1,0 +1,5 @@
+132c132,133
+<         builder = builder.withFixture( cypherFileOrDirectory );
+---
+>         builder = builder.withFixture
+> ( cypherFileOrDirectory );

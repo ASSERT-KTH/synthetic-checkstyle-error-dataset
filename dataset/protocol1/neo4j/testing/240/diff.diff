@@ -1,0 +1,5 @@
+41,42c41
+<     private final CoreAPIAvailabilityGuard availability;
+<     private final ThrowingFunction<URL, URL, URLAccessValidationError> urlValidator;
+---
+>     private final CoreAPIAvailabilityGuard availability;    private final ThrowingFunction<URL, URL, URLAccessValidationError> urlValidator;

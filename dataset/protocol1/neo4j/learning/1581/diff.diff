@@ -1,0 +1,4 @@
+44c44
+<             return System.nanoTime();
+---
+>             return System.nanoTime ();

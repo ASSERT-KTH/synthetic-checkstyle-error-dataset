@@ -1,0 +1,4 @@
+40c40
+<         if ( e.getRealm() != null )
+---
+>         if ( e.getRealm() 	!= null )

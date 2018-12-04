@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.internal.kernel.api.procs;
+---
+> package 	org.neo4j.internal.kernel.api.procs;

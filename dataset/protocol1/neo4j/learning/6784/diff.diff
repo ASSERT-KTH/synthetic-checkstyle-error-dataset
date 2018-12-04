@@ -1,0 +1,4 @@
+129c129
+<     private StoreAccess createStoreWithOneHighDegreeNodeAndSeveralDegreeTwoNodes( int nDegreeTwoNodes )
+---
+>     private StoreAccess createStoreWithOneHighDegreeNodeAndSeveralDegreeTwoNodes ( int nDegreeTwoNodes )

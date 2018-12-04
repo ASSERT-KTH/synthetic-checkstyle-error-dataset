@@ -1,0 +1,4 @@
+54c54
+<                     if ( mirror.getAnnotationType().asElement().equals( type ) )
+---
+>                     if ( mirror	.getAnnotationType().asElement().equals( type ) )

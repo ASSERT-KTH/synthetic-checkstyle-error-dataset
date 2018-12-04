@@ -1,0 +1,5 @@
+32c32,33
+< public class AggregatingIndexSampler implements IndexSampler
+---
+> public class AggregatingIndexSampler implements 
+> IndexSampler

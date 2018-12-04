@@ -1,0 +1,5 @@
+185c185,186
+<     private long randomLong( int maxBits )
+---
+>     private 
+> long randomLong( int maxBits )

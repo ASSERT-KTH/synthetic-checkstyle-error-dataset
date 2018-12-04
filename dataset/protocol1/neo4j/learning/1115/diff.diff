@@ -1,0 +1,4 @@
+136c136
+<         Result result = database.execute( "MATCH (n) RETURN n.c as c, n.b as b" );
+---
+>         Result result 	= database.execute( "MATCH (n) RETURN n.c as c, n.b as b" );

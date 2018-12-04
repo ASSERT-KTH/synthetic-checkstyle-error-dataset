@@ -1,0 +1,4 @@
+32c32
+<     public static final String LATEST_STORE_VERSION = StandardV3_4.STORE_VERSION;
+---
+>     public static final String LATEST_STORE_VERSION = 	StandardV3_4.STORE_VERSION;

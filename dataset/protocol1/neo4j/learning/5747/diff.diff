@@ -1,0 +1,5 @@
+23,24c23
+<  * A SchemaComputer computes values of type R from SchemaDescriptors. To get the concrete type of the target schema
+<  * descriptor, a visitor pattern is used to bounce the code path into the correct overloaded computeSpecific variant.
+---
+>  * A SchemaComputer computes values of type R from SchemaDescriptors. To get the concrete type of the target schema * descriptor, a visitor pattern is used to bounce the code path into the correct overloaded computeSpecific variant.

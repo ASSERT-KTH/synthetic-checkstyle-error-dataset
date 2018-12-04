@@ -1,0 +1,5 @@
+251,252c251
+<     public boolean relationshipDelete( long relationship ) throws AutoIndexingKernelException
+<     {
+---
+>     public boolean relationshipDelete( long relationship ) throws AutoIndexingKernelException    {

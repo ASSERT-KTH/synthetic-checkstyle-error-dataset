@@ -1,0 +1,4 @@
+83c83
+<         DataSourceManager.Listener listener = mock( DataSourceManager.Listener.class );
+---
+>         DataSourceManager.	Listener listener = mock( DataSourceManager.Listener.class );

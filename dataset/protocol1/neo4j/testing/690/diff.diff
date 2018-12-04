@@ -1,0 +1,5 @@
+117c117,118
+<         verify( metricsMonitor ).messageProcessingStarted( anyLong() );
+---
+>         verify( metricsMonitor ).messageProcessingStarted( 
+> anyLong() );

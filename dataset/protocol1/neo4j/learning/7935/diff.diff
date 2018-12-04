@@ -1,0 +1,4 @@
+38c38
+<         final TableKeyIterator<VALUE> longIterator = new TableKeyIterator<>( table, this );
+---
+>         final 	TableKeyIterator<VALUE> longIterator = new TableKeyIterator<>( table, this );

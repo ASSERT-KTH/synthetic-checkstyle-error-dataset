@@ -1,0 +1,4 @@
+39c39
+< public final class Assert
+---
+> public 	final class Assert

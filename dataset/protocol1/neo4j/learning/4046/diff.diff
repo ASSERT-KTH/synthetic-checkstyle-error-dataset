@@ -1,0 +1,5 @@
+121c121,122
+<                     "Key layout does only support DurationValue, tried to create key from " + value );
+---
+>                     "Key layout does only support DurationValue, tried to create key from " 
+> + value );

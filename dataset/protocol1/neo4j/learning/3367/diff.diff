@@ -1,0 +1,4 @@
+358c358
+<     private void copyIfFrozen()
+---
+>     private 	void copyIfFrozen()

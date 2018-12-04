@@ -1,0 +1,4 @@
+45c45
+<         visitor.addMetadata( "bookmark", stringValue( bookmark.toString() ) );
+---
+>         visitor.	addMetadata( "bookmark", stringValue( bookmark.toString() ) );

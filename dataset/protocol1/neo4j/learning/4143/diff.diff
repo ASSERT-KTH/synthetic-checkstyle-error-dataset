@@ -1,0 +1,4 @@
+139c139
+<         referenceCheck.checkDiffReference( new PropertyRecord( 0 ), new PropertyRecord( 0 ), null );
+---
+>         referenceCheck.checkDiffReference( new PropertyRecord( 0), new PropertyRecord( 0 ), null );

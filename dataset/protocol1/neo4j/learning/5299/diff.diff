@@ -1,0 +1,4 @@
+60c60
+<     public void writeKey( PageCursor cursor, DurationIndexKey key )
+---
+>     public void writeKey( PageCursor cursor, DurationIndexKey key)

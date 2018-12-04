@@ -1,0 +1,5 @@
+27c27,28
+<     <E extends Exception> void visitKeys( PrimitiveIntVisitor<E> visitor ) throws E;
+---
+>     <E extends Exception> void visitKeys( PrimitiveIntVisitor<E> visitor ) throws 
+> E;

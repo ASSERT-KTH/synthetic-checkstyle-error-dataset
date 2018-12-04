@@ -1,0 +1,4 @@
+170c170
+<         MapValue nestedNodeMap = VirtualValues.map( new String[]{"a", "b", "c"}, new AnyValue[]{nodeList, nodeMap, nestedNodeList} );
+---
+>         MapValue nestedNodeMap = VirtualValues.map( new String[]{"a", "b"	, "c"}, new AnyValue[]{nodeList, nodeMap, nestedNodeList} );

@@ -1,0 +1,4 @@
+47c47
+<         return (nodeTypes & mask) != 0;
+---
+>         return (nodeTypes & 	mask) != 0;

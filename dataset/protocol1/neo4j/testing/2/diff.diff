@@ -1,0 +1,4 @@
+36c36
+<     public ReaderLogVersionBridge( LogFiles logFiles )
+---
+>     	public ReaderLogVersionBridge( LogFiles logFiles )

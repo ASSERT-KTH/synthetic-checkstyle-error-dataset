@@ -1,0 +1,5 @@
+501,502c501
+<             this.indexId = capableIndexDescriptor.getId();
+<             this.flipper = flipper;
+---
+>             this.indexId = capableIndexDescriptor.getId();            this.flipper = flipper;

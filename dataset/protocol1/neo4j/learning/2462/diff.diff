@@ -1,0 +1,5 @@
+96,97c96
+<             writer = writerSupplier.get();
+<             writeLog( writer, message );
+---
+>             writer = writerSupplier.get();            writeLog( writer, message );

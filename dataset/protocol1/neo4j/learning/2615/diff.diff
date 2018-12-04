@@ -1,0 +1,5 @@
+85c85,86
+<         assertEquals( "server1.example.com", listenSocketAddress.getHostname() );
+---
+>         assertEquals
+> ( "server1.example.com", listenSocketAddress.getHostname() );

@@ -1,0 +1,4 @@
+27c27
+<     InputIterator iterator();
+---
+>     InputIterator iterator ();

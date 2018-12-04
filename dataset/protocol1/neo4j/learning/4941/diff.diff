@@ -1,0 +1,5 @@
+41c41,42
+<     void createIndex( IndexEntityType entityType, String indexName, Map<String, String> config );
+---
+>     void createIndex( IndexEntityType entityType, String indexName, Map<String, String> config 
+> );

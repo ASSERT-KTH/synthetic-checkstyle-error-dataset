@@ -1,0 +1,5 @@
+29c29,30
+<     <T> T satisfyDependency( T dependency );
+---
+>     <T> T satisfyDependency( 
+> T dependency );

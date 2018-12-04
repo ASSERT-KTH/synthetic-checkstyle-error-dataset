@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.bolt.v1.messaging.response;
+---
+> package org.neo4j.	bolt.v1.messaging.response;

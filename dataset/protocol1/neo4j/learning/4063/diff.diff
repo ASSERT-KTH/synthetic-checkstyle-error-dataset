@@ -1,0 +1,4 @@
+23c23
+< public class JsonBuildRuntimeException extends RuntimeException
+---
+> public class 	JsonBuildRuntimeException extends RuntimeException

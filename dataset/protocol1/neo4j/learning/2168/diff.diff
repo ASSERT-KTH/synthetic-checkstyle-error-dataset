@@ -1,0 +1,4 @@
+26c26
+<     void setCurrent( int groupReference, int firstOut, int firstIn, int firstLoop );
+---
+>     	void setCurrent( int groupReference, int firstOut, int firstIn, int firstLoop );

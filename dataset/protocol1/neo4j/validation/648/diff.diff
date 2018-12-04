@@ -1,0 +1,4 @@
+53c53
+<         long neoStoreSize = totalMemoryUsageOf( baseMemory );
+---
+>         long neoStoreSize =totalMemoryUsageOf( baseMemory );

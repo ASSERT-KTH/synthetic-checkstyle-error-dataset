@@ -1,0 +1,4 @@
+87c87
+<         RawCursor<Hit<LabelScanKey,LabelScanValue>,IOException> cursor;
+---
+>         RawCursor <Hit<LabelScanKey,LabelScanValue>,IOException> cursor;

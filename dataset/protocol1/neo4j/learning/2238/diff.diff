@@ -1,0 +1,5 @@
+69c69,70
+<                 path( node( 1L ), rel( 2L, 1L, 3L ), node( 2L ), rel( 3L, 2L, 1L ), node( 1L ) ) );
+---
+>                 path( node( 1L ), rel( 2L, 1L, 3L ), node( 2L ), rel( 3L, 2L, 1L 
+> ), node( 1L ) ) );

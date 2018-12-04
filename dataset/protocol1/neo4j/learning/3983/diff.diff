@@ -1,0 +1,5 @@
+23,24c23
+< import org.neo4j.kernel.impl.index.IndexConfigStore;
+< import org.neo4j.unsafe.batchinsert.BatchInserterIndexProvider;
+---
+> import org.neo4j.kernel.impl.index.IndexConfigStore;import org.neo4j.unsafe.batchinsert.BatchInserterIndexProvider;

@@ -1,0 +1,4 @@
+28c28
+<     void notifyStatusChanged( Object instance, LifecycleStatus from, LifecycleStatus to );
+---
+>     void notifyStatusChanged( Object instance, LifecycleStatus from, LifecycleStatus to 	);

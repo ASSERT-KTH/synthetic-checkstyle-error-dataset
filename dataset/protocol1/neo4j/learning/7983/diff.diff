@@ -1,0 +1,4 @@
+100c100
+<         Map<String,Object> map = JsonHelper.jsonToMap( response.getEntity() );
+---
+>         Map<String,Object> map = JsonHelper.jsonToMap( 	response.getEntity() );

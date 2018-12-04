@@ -1,0 +1,5 @@
+80,81c80
+<     public void shouldGiveBackExcessIdsOnClose()
+<     {
+---
+>     public void shouldGiveBackExcessIdsOnClose()    {

@@ -1,0 +1,4 @@
+93c93
+<         return (T) Proxy.newProxyInstance( target.getClassLoader(), new Class<?>[]{target}, new MirroredInvocationHandler<>( imposter ) );
+---
+>         return (T) Proxy.newProxyInstance( target.getClassLoader(), new 	Class<?>[]{target}, new MirroredInvocationHandler<>( imposter ) );

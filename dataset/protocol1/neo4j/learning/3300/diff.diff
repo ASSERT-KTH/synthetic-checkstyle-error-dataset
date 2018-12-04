@@ -1,0 +1,5 @@
+72,73c72
+<     public boolean id( Object id, Group group )
+<     {
+---
+>     public boolean id( Object id, Group group )    {

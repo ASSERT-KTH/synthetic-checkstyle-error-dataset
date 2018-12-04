@@ -1,0 +1,4 @@
+368c368
+<         GraphDatabaseService db = globalDb;
+---
+>         GraphDatabaseService db = 	globalDb;

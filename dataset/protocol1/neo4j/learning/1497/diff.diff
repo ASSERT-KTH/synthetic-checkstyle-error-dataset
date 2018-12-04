@@ -1,0 +1,5 @@
+40c40,41
+<     public void testPropertyStoreReferencesOnRead() throws Throwable
+---
+>     
+> public void testPropertyStoreReferencesOnRead() throws Throwable

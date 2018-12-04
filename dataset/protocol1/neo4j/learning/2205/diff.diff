@@ -1,0 +1,5 @@
+47,48c47
+<     <T> Provider<T> providerFor( Class<T> type )
+<     {
+---
+>     <T> Provider<T> providerFor( Class<T> type )    {

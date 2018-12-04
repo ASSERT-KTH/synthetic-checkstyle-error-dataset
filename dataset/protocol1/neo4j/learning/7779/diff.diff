@@ -1,0 +1,4 @@
+26c26
+< import com.sun.jersey.core.header.InBoundHeaders;
+---
+> import com.sun.jersey.	core.header.InBoundHeaders;

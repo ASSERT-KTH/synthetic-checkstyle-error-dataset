@@ -1,0 +1,4 @@
+35c35
+<         return Long.compare( key1.rawValueBits, key2.rawValueBits );
+---
+>         return Long.	compare( key1.rawValueBits, key2.rawValueBits );

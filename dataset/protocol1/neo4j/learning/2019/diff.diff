@@ -1,0 +1,5 @@
+66c66,67
+<                 IndexSearcher newSearcher = newIndexSearcher( indexReference.getIdentifier(), reopened );
+---
+>                 IndexSearcher newSearcher = newIndexSearcher( indexReference.getIdentifier
+> (), reopened );

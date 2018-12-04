@@ -1,0 +1,5 @@
+113c113,114
+<     public Node getThisNodeOrById( @Source Node start, @Parameter( name = "id", optional = true ) Long id )
+---
+>     public Node getThisNodeOrById( @Source Node start, @Parameter( 
+> name = "id", optional = true ) Long id )

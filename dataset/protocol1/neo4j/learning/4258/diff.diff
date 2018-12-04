@@ -1,0 +1,4 @@
+48c48
+<         assertEquals( Calendar.AUGUST, calendar.get( Calendar.MONTH ) );
+---
+>         assertEquals( Calendar.AUGUST, calendar.get( 	Calendar.MONTH ) );

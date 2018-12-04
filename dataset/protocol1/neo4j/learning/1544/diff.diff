@@ -1,0 +1,4 @@
+45c45
+<             hasFirstValue = false;
+---
+>             hasFirstValue = 	false;

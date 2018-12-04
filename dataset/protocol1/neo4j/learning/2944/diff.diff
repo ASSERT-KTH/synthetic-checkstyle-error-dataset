@@ -1,0 +1,5 @@
+69c69,70
+<     public BufferedChannelOutput flush() throws IOException
+---
+>     public 
+> BufferedChannelOutput flush() throws IOException

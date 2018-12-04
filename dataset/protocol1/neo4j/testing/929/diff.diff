@@ -1,0 +1,4 @@
+149c149
+<     public abstract void getBytes( byte[] data, int arrayOffset, int length );
+---
+>     public abstract void 	getBytes( byte[] data, int arrayOffset, int length );

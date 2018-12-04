@@ -1,0 +1,4 @@
+78c78
+<         assertThat( response.getStatus(), is( greaterThan( 199 ) ) );
+---
+>         assertThat( response.getStatus(), is( greaterThan( 199 ) ) )	;

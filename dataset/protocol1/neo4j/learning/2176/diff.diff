@@ -1,0 +1,4 @@
+106c106
+<                 "1.7" ) ).checkJvmCompatibilityAndIssueWarning();
+---
+>                 "1.7" ) )	.checkJvmCompatibilityAndIssueWarning();

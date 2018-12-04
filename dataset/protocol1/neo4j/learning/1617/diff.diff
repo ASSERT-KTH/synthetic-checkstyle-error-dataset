@@ -1,0 +1,4 @@
+62c62
+<         Dependencies dependencies = new Dependencies();
+---
+>         Dependencies dependencies = new 	Dependencies();

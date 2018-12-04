@@ -1,0 +1,4 @@
+42c42
+<     StubRelationshipCursor( List<TestRelationshipChain> store )
+---
+>     StubRelationshipCursor( List<TestRelationshipChain > store )

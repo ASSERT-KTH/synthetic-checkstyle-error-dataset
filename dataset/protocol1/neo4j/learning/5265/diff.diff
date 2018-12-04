@@ -1,0 +1,5 @@
+75c75,76
+<         Iterable<Representation> propertyKeyRepresentations = map( converter, indexDefinition.getPropertyKeys() );
+---
+>         Iterable<Representation> 
+> propertyKeyRepresentations = map( converter, indexDefinition.getPropertyKeys() );

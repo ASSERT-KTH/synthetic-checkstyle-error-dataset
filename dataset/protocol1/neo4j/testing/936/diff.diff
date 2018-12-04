@@ -1,0 +1,4 @@
+207c207
+<         LogEntryWriter writer = new LogEntryWriter( channel.writer() );
+---
+>         LogEntryWriter writer= new LogEntryWriter( channel.writer() );

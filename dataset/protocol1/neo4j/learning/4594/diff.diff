@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.consistency.checking.full;
+---
+> package org	.neo4j.consistency.checking.full;

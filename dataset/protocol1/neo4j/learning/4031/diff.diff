@@ -1,0 +1,4 @@
+39c39
+<         String protocol = request.getScheme();
+---
+>         String protocol = request.getScheme ();

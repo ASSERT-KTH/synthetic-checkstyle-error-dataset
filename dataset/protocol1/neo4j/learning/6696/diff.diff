@@ -1,0 +1,5 @@
+41,42c41
+<     BoltProtocol create( long protocolVersion, BoltChannel channel );
+< }
+---
+>     BoltProtocol create( long protocolVersion, BoltChannel channel );}

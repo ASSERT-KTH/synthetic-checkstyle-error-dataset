@@ -1,0 +1,5 @@
+61c61,62
+<             throw new IllegalStateException( Thread.currentThread() + " already has a transaction bound" );
+---
+>             throw new 
+> IllegalStateException( Thread.currentThread() + " already has a transaction bound" );

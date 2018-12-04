@@ -1,0 +1,4 @@
+31c31
+<     public static LabelSchemaDescriptor forLabel( int labelId, int... propertyIds )
+---
+>     public static LabelSchemaDescriptor forLabel( int labelId, int... propertyIds 	)

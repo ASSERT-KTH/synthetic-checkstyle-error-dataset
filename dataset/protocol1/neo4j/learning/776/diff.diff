@@ -1,0 +1,4 @@
+39c39
+< import org.neo4j.kernel.impl.transaction.log.entry.LogEntryByteCodes;
+---
+> import org.neo4j.kernel.impl.transaction.log.	entry.LogEntryByteCodes;

@@ -1,0 +1,5 @@
+121,122c121
+<             assertEquals( 100.0, progress.getCompletedPercentage(), 0.0001 );
+<         }
+---
+>             assertEquals( 100.0, progress.getCompletedPercentage(), 0.0001 );        }

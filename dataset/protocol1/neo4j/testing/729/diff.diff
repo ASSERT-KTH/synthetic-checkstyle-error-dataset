@@ -1,0 +1,4 @@
+138c138
+<         IndexSample sample = sampler.result();
+---
+>         IndexSample sample = 	sampler.result();

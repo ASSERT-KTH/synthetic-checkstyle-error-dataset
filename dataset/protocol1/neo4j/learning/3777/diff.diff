@@ -1,0 +1,4 @@
+264c264
+<                     ZoneOffset currentOffset = assertValidArgument( () -> ZonedDateTime.ofInstant( Instant.now(), timezone() ) ).getOffset();
+---
+>                     ZoneOffset currentOffset = assertValidArgument( () -> 	ZonedDateTime.ofInstant( Instant.now(), timezone() ) ).getOffset();

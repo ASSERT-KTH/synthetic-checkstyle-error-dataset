@@ -1,0 +1,4 @@
+93c93
+<         Collection instance = dependencies.resolveDependency( Collection.class );
+---
+>         Collection instance =dependencies.resolveDependency( Collection.class );

@@ -1,0 +1,4 @@
+42c42
+<     public static <T> Future<T> forkFuture( Callable<T> callable )
+---
+>     public static 	<T> Future<T> forkFuture( Callable<T> callable )

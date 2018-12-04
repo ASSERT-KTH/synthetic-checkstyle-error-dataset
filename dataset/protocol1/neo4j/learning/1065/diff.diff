@@ -1,0 +1,4 @@
+48c48
+<     private class MyIteratorWrapper extends IteratorWrapper<T, U>
+---
+>     private class MyIteratorWrapper extends IteratorWrapper<T, U >

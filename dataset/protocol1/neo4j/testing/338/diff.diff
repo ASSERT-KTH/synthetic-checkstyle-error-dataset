@@ -1,0 +1,5 @@
+50c50,51
+<         return Arrays.asList( HEAP, OFF_HEAP, AUTO_WITHOUT_PAGECACHE, CHUNKED_FIXED_SIZE );
+---
+>         return Arrays.asList( HEAP, OFF_HEAP, AUTO_WITHOUT_PAGECACHE, 
+> CHUNKED_FIXED_SIZE );

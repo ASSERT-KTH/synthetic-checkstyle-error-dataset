@@ -1,0 +1,5 @@
+66,67c66
+<         String propertyKey = properties.newInstance();
+<         Map<String,Object> definition = map( "property_keys", singletonList( propertyKey ) );
+---
+>         String propertyKey = properties.newInstance();        Map<String,Object> definition = map( "property_keys", singletonList( propertyKey ) );

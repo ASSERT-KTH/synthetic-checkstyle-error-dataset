@@ -1,0 +1,4 @@
+30c30
+<     protected TransientFailureException( String message, Throwable cause )
+---
+>     protected TransientFailureException( String message, Throwable 	cause )

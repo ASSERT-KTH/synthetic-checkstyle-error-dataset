@@ -1,0 +1,4 @@
+132c132
+<         CompletableFuture<T> future = new CompletableFuture<>();
+---
+>         CompletableFuture<T> future 	= new CompletableFuture<>();

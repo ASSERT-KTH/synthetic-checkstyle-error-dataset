@@ -1,0 +1,5 @@
+602c602,603
+<         assertFalse( "locking thread completed", lockAcquisition.completed() );
+---
+>         
+> assertFalse( "locking thread completed", lockAcquisition.completed() );

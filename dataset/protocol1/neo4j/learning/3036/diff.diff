@@ -1,0 +1,4 @@
+88c88
+<         long generationB = 78;
+---
+>         	long generationB = 78;

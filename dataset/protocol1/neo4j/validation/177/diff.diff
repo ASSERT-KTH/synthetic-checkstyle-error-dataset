@@ -1,0 +1,5 @@
+38c38,39
+<     private final List<Group> byId = new ArrayList<>( asList( Group.GLOBAL ) );
+---
+>     private 
+> final List<Group> byId = new ArrayList<>( asList( Group.GLOBAL ) );

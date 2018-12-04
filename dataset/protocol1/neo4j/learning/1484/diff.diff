@@ -1,0 +1,4 @@
+63c63
+<         TraversalDescription sideBase = db.traversalDescription().breadthFirst().uniqueness( NODE_PATH );
+---
+>         TraversalDescription 	sideBase = db.traversalDescription().breadthFirst().uniqueness( NODE_PATH );

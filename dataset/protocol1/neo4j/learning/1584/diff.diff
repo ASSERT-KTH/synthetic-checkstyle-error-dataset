@@ -1,0 +1,5 @@
+31,32c31
+< import org.neo4j.graphdb.traversal.TraversalBranch;
+< import org.neo4j.helpers.collection.PrefetchingResourceIterator;
+---
+> import org.neo4j.graphdb.traversal.TraversalBranch;import org.neo4j.helpers.collection.PrefetchingResourceIterator;

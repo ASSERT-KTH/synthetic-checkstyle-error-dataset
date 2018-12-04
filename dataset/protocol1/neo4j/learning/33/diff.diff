@@ -1,0 +1,4 @@
+26c26
+< import org.neo4j.graphalgo.impl.path.DijkstraBidirectional;
+---
+> import org.neo4j.graphalgo.impl.	path.DijkstraBidirectional;

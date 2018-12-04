@@ -1,0 +1,5 @@
+79c79,80
+<         databaseAvailabilityGuard.fulfill( REQUIREMENT_1 );
+---
+>         databaseAvailabilityGuard.fulfill
+> ( REQUIREMENT_1 );

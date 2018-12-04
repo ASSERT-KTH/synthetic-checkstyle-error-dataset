@@ -1,0 +1,5 @@
+83c83,84
+<     private final Queue<Long> freeList;
+---
+>     private 
+> final Queue<Long> freeList;

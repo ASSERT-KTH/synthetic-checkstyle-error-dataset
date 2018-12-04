@@ -1,0 +1,5 @@
+117c117,118
+<         applySetting( FulltextConfig.fulltext_default_analyzer, ENGLISH );
+---
+>         applySetting( 
+> FulltextConfig.fulltext_default_analyzer, ENGLISH );

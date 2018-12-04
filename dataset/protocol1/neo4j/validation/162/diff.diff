@@ -1,0 +1,5 @@
+48c48,49
+<         return typeConfigurations.computeIfAbsent( idType, this::createIdTypeConfiguration );
+---
+>         
+> return typeConfigurations.computeIfAbsent( idType, this::createIdTypeConfiguration );

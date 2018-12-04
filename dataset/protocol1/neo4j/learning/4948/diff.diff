@@ -1,0 +1,4 @@
+480c480
+<     public StorageRelationshipGroupCursor allocateRelationshipGroupCursor()
+---
+>     public StorageRelationshipGroupCursor allocateRelationshipGroupCursor(	)

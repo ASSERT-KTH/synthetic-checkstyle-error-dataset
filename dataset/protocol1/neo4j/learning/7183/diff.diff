@@ -1,0 +1,4 @@
+61c61
+<             HttpResponse response = httpclient.execute( httpget );
+---
+>             HttpResponse response = 	httpclient.execute( httpget );

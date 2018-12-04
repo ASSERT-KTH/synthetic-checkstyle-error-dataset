@@ -1,0 +1,5 @@
+132c132,133
+<         LockService locks = new ReentrantLockService();
+---
+>         LockService locks = 
+> new ReentrantLockService();

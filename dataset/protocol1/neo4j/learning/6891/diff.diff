@@ -1,0 +1,4 @@
+49c49
+<         return underlyingObjectToObject( this.source.next() );
+---
+>         return underlyingObjectToObject( this.source	.next() );

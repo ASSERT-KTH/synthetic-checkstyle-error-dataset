@@ -1,0 +1,4 @@
+97c97
+<         defValue = rangeKey.equals( "min" ) ? -1 * defValue : defValue;
+---
+>         defValue = rangeKey.equals( "min" )? -1 * defValue : defValue;

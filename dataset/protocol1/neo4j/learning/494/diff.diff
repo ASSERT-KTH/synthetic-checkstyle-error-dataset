@@ -1,0 +1,5 @@
+32c32,33
+< public class GraphDatabaseConfigurationMigrator extends BaseConfigurationMigrator
+---
+> public class GraphDatabaseConfigurationMigrator extends 
+> BaseConfigurationMigrator

@@ -1,0 +1,4 @@
+89c89
+<     IndexHits<T> getBetween( Long startTimestampOrNull, Long endTimestampOrNull, boolean reversed );
+---
+>     IndexHits<T> getBetween( Long startTimestampOrNull, Long 	endTimestampOrNull, boolean reversed );

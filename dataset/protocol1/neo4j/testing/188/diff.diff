@@ -1,0 +1,4 @@
+99c99
+<         when( indexReader.maxDoc() ).thenReturn( maxDoc );
+---
+>         when( indexReader.maxDoc() ).thenReturn( 	maxDoc );

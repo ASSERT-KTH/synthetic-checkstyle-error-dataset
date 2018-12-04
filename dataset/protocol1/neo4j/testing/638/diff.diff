@@ -1,0 +1,4 @@
+72c72
+<         when( layout.databaseDirectory() ).thenReturn( databaseDir );
+---
+>         when( layout.databaseDirectory() ).thenReturn( databaseDir )	;

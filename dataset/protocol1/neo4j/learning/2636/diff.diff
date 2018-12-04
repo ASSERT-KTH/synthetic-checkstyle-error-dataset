@@ -1,0 +1,5 @@
+54,55c54
+<      * @param position {@link LogPosition} of the first transaction that the cursor will return.
+<      * @return an {@link TransactionCursor} capable of returning {@link CommittedTransactionRepresentation} instances
+---
+>      * @param position {@link LogPosition} of the first transaction that the cursor will return.     * @return an {@link TransactionCursor} capable of returning {@link CommittedTransactionRepresentation} instances

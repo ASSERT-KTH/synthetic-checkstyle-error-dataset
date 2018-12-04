@@ -1,0 +1,4 @@
+185c185
+<         awaitEx( condition, timeout, unit, DEFAULT_POLL_INTERVAL, TimeUnit.MILLISECONDS );
+---
+>         awaitEx( condition, 	timeout, unit, DEFAULT_POLL_INTERVAL, TimeUnit.MILLISECONDS );

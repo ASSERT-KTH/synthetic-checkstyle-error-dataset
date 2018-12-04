@@ -1,0 +1,4 @@
+116c116
+<     default void verifyDeferredConstraints( NodePropertyAccessor accessor )  throws IndexEntryConflictException, IOException
+---
+>     default void verifyDeferredConstraints( NodePropertyAccessor accessor )  throws 	IndexEntryConflictException, IOException

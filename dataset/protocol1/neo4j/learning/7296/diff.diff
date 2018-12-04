@@ -1,0 +1,5 @@
+37c37,38
+<     public static final String BOLT_SERVER_VERSION_PREFIX = "Neo4j/";
+---
+>     public static final String 
+> BOLT_SERVER_VERSION_PREFIX = "Neo4j/";

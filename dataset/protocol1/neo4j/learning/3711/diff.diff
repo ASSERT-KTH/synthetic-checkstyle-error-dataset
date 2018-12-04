@@ -1,0 +1,4 @@
+178c178
+<                         Double.longBitsToDouble( 0x1L ), Double.longBitsToDouble( 0x7L ) ),
+---
+>                         Double.longBitsToDouble( 0x1L ), Double.longBitsToDouble( 0x7L ) 	),

@@ -1,0 +1,4 @@
+77c77
+<                     final Internal internalAnnotation = f.getAnnotation( Internal.class );
+---
+>                     final 	Internal internalAnnotation = f.getAnnotation( Internal.class );

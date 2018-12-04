@@ -1,0 +1,4 @@
+79c79
+<         assertFalse( toMap( uris ).containsKey( "bolt" ) );
+---
+>         assertFalse( toMap( uris ).containsKey( "bolt" ) 	);

@@ -1,0 +1,5 @@
+85c85,86
+<     public byte[] chunk( int chunkSize, ResponseMessage... messages ) throws IOException
+---
+>     public byte[] chunk( int chunkSize, ResponseMessage... messages ) 
+> throws IOException

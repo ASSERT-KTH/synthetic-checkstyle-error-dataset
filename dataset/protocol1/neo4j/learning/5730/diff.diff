@@ -1,0 +1,5 @@
+170c170,171
+<         hasRightKeyInsert = false;
+---
+>         
+> hasRightKeyInsert = false;

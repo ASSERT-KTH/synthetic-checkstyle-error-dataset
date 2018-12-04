@@ -1,0 +1,4 @@
+45c45
+<             output.accept( Arguments.rightColumnFormatted( left, arguments.usage(), left.length() + 1 ) );
+---
+>             output.accept ( Arguments.rightColumnFormatted( left, arguments.usage(), left.length() + 1 ) );

@@ -1,0 +1,5 @@
+76,77c76
+<                 relDirection = direction.reverse();
+<             }
+---
+>                 relDirection = direction.reverse();            }

@@ -1,0 +1,5 @@
+89c89,90
+<     private AuthenticationResult update( Map<String,Object> authToken )
+---
+>     private AuthenticationResult update( 
+> Map<String,Object> authToken )

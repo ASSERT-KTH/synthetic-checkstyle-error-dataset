@@ -1,0 +1,4 @@
+26c26
+< public interface DatabaseFulltextIndex extends DatabaseIndex<FulltextIndexReader>
+---
+> public interface DatabaseFulltextIndex 	extends DatabaseIndex<FulltextIndexReader>

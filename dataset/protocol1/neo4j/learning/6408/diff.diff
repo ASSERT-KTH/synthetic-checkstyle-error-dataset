@@ -1,0 +1,4 @@
+28c28
+<     public static <K,V> Collector<Map.Entry<K,V>,?,Map<K,V>> entriesToMap()
+---
+>     public static <K,V> Collector<Map.Entry<K,V>,	?,Map<K,V>> entriesToMap()

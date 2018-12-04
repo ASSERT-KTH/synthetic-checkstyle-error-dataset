@@ -1,0 +1,4 @@
+80c80
+<     private void deleteIndexes( File indexRootDirectory ) throws IOException
+---
+>     	private void deleteIndexes( File indexRootDirectory ) throws IOException

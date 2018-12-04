@@ -1,0 +1,5 @@
+128,129c128
+<         if ( rules.hasNext() )
+<         {
+---
+>         if ( rules.hasNext() )        {

@@ -1,0 +1,5 @@
+98c98,99
+<         SpatialFile( CoordinateReferenceSystem crs, ConfiguredSpaceFillingCurveSettingsCache configuredSettings, File indexDirectory )
+---
+>         SpatialFile( 
+> CoordinateReferenceSystem crs, ConfiguredSpaceFillingCurveSettingsCache configuredSettings, File indexDirectory )

@@ -1,0 +1,4 @@
+165c165
+<         public TemporalIndexPartReader<?> newLocalTime()
+---
+>         public 	TemporalIndexPartReader<?> newLocalTime()

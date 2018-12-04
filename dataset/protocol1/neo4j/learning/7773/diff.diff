@@ -1,0 +1,5 @@
+263c263,264
+<         verify( log ).warn( notAvailableMessage( "org.neo4j.kernel.impl.proc.safeUserFunctionInUnsafeAPIClass" ) );
+---
+>         verify( log ).warn( notAvailableMessage( "org.neo4j.kernel.impl.proc.safeUserFunctionInUnsafeAPIClass" 
+> ) );

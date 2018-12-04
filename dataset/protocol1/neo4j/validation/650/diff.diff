@@ -1,0 +1,5 @@
+35,36c35
+<     public StoreFileMetadata( File file, int recordSize, boolean isLogFile )
+<     {
+---
+>     public StoreFileMetadata( File file, int recordSize, boolean isLogFile )    {

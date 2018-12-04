@@ -1,0 +1,5 @@
+375c375,376
+<         return beginTransactionInternal( type, loginContext, config.get( transaction_timeout ).toMillis() );
+---
+>         return beginTransactionInternal( type, loginContext, config.get( 
+> transaction_timeout ).toMillis() );

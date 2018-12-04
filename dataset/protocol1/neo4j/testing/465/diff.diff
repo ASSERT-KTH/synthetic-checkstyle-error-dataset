@@ -1,0 +1,4 @@
+42c42
+<             return ((Number) costProp).intValue();
+---
+>             return (( Number) costProp).intValue();

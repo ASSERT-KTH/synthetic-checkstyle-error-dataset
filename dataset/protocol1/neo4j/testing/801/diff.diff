@@ -1,0 +1,5 @@
+159c159,160
+<         UserService userService = new UserService( userManagerSupplier, new JsonFormat(), outputFormat );
+---
+>         UserService userService = new UserService( userManagerSupplier, new JsonFormat(), outputFormat 
+> );

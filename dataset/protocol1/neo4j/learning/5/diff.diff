@@ -1,0 +1,5 @@
+812,813c812
+<     public void visitChangedNodes( NodeChangeVisitor visitor, int nodeTypes )
+<     {
+---
+>     public void visitChangedNodes( NodeChangeVisitor visitor, int nodeTypes )    {

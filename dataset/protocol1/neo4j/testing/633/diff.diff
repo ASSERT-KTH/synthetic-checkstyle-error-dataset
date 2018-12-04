@@ -1,0 +1,5 @@
+191,192c191
+<         closeExistingPageCache();
+<         Integer pageSize = selectConfig( baseConfig.pageSize, overriddenConfig.pageSize, null );
+---
+>         closeExistingPageCache();        Integer pageSize = selectConfig( baseConfig.pageSize, overriddenConfig.pageSize, null );

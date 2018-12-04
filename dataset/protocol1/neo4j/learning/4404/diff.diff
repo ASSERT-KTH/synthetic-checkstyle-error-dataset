@@ -1,0 +1,5 @@
+99c99,100
+<     synchronized void signalFailure( Throwable e )
+---
+>     synchronized 
+> void signalFailure( Throwable e )

@@ -1,0 +1,4 @@
+58c58
+<         record.setNextProp( add( inUse( new PropertyRecord( 7 ) ) ).getId() );
+---
+>         record.setNextProp( add( inUse( new PropertyRecord( 7 ) ) ).getId () );

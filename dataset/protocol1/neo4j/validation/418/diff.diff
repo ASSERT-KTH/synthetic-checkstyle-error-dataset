@@ -1,0 +1,5 @@
+41c41,42
+<     public static HostnamePort getConnectorAddress( GraphDatabaseAPI db, String connectorKey )
+---
+>     public 
+> static HostnamePort getConnectorAddress( GraphDatabaseAPI db, String connectorKey )

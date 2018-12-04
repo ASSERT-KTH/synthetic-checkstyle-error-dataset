@@ -1,0 +1,4 @@
+41c41
+<         return new SpatialIndexPopulator.PartPopulator( pageCache, fs, spatialFile.getLayoutForNewIndex(), monitor, indexDescriptor,
+---
+>         return new SpatialIndexPopulator.PartPopulator( pageCache, fs, spatialFile.	getLayoutForNewIndex(), monitor, indexDescriptor,

@@ -1,0 +1,4 @@
+24c24
+< public class NodeCursorTest extends NodeCursorTestBase<ReadTestSupport>
+---
+> 	public class NodeCursorTest extends NodeCursorTestBase<ReadTestSupport>

@@ -1,0 +1,5 @@
+61c61,62
+<     public static LocalVariables copy( LocalVariables original )
+---
+>     public 
+> static LocalVariables copy( LocalVariables original )

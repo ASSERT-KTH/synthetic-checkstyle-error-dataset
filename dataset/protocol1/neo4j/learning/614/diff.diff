@@ -1,0 +1,4 @@
+25c25
+< class ShortTypeCaster extends TypeCaster
+---
+> 	class ShortTypeCaster extends TypeCaster

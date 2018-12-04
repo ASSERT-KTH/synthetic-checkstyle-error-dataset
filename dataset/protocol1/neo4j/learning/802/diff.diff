@@ -1,0 +1,5 @@
+51c51,52
+<         int secondChecksum = 456;
+---
+>         int 
+> secondChecksum = 456;

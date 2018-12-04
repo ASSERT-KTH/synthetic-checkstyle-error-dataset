@@ -1,0 +1,4 @@
+26c26
+< import org.neo4j.kernel.impl.store.record.NodeRecord;
+---
+> import org.neo4j.kernel.impl.store.record.	NodeRecord;

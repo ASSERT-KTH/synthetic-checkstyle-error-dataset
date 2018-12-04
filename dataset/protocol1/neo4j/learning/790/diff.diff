@@ -1,0 +1,5 @@
+48c48,49
+<                 new NumberArrayFactory.AllocationFailure( new OutOfMemoryError( "OOM2" ), OFF_HEAP ) ) );
+---
+>                 new NumberArrayFactory.AllocationFailure( new OutOfMemoryError( "OOM2" ), OFF_HEAP 
+> ) ) );

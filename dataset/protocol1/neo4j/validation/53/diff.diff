@@ -1,0 +1,4 @@
+36c36
+< import org.neo4j.kernel.impl.store.record.ConstraintRule;
+---
+> import org.neo4j.kernel.impl	.store.record.ConstraintRule;

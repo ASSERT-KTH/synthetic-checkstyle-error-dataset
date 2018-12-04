@@ -1,0 +1,5 @@
+31,32c31
+<     private InputEntity[] entities;
+<     private int cursor;
+---
+>     private InputEntity[] entities;    private int cursor;

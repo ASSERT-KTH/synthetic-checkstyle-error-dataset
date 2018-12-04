@@ -1,0 +1,5 @@
+46c46,47
+<         return new MappingResourceIterator<T, U>( source.iterator() )
+---
+>         return new 
+> MappingResourceIterator<T, U>( source.iterator() )

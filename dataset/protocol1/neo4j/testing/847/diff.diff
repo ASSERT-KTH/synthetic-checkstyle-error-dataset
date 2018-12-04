@@ -1,0 +1,5 @@
+35,36c35
+<         StubIndexCursor cursor = new StubIndexCursor();
+<         StubProgressor progressor = new StubProgressor();
+---
+>         StubIndexCursor cursor = new StubIndexCursor();        StubProgressor progressor = new StubProgressor();

@@ -1,0 +1,4 @@
+158c158
+<             TransactionToApply transaction = new TransactionToApply( transactionRepresentation );
+---
+>             TransactionToApply transaction = new TransactionToApply( 	transactionRepresentation );

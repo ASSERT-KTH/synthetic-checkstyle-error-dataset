@@ -1,0 +1,4 @@
+56c56
+<         DatabaseLayout databaseLayout = rules.directory().databaseLayout();
+---
+>         DatabaseLayout databaseLayout =rules.directory().databaseLayout();

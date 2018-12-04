@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.io.fs.watcher.resource;
+---
+> package org.neo4j.io	.fs.watcher.resource;

@@ -1,0 +1,4 @@
+135c135
+<         assertThat( tracer.usageRatio(), closeTo( 0.5, 0.0001 ) );
+---
+>         assertThat( tracer.usageRatio(), closeTo( 	0.5, 0.0001 ) );

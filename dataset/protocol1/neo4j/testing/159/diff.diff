@@ -1,0 +1,5 @@
+70c70,71
+<                         "at:%d. Any later transaction after %s are unreadable and will be truncated.",
+---
+>                         
+> "at:%d. Any later transaction after %s are unreadable and will be truncated.",

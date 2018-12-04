@@ -1,0 +1,5 @@
+76c76,77
+<     private static class AssertableProgressReporter implements ProgressReporter
+---
+>     private 
+> static class AssertableProgressReporter implements ProgressReporter

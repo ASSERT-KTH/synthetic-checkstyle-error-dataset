@@ -1,0 +1,5 @@
+53,54c53
+<     private TestGraphDatabaseFactory graphDatabaseFactory;
+<     private GraphDatabaseService gdb;
+---
+>     private TestGraphDatabaseFactory graphDatabaseFactory;    private GraphDatabaseService gdb;

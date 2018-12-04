@@ -1,0 +1,5 @@
+214,215c214
+<         NodeRecord notInUseNode = getNode( nodeId, false );
+<         nodeStore.updateRecord( inUseNode );
+---
+>         NodeRecord notInUseNode = getNode( nodeId, false );        nodeStore.updateRecord( inUseNode );

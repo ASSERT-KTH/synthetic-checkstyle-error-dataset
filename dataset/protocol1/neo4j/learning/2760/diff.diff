@@ -1,0 +1,4 @@
+33c33
+<         return longLayout().withKeyPadding( random.intBetween( 0, 10 ) ).build();
+---
+>         return longLayout().withKeyPadding( random.intBetween( 0, 10 ) ).build(	);

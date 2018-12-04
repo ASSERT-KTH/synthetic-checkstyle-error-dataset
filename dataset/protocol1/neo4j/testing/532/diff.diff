@@ -1,0 +1,4 @@
+45c45
+<     public FulltextIndexPopulator( FulltextIndexDescriptor descriptor, DatabaseIndex<FulltextIndexReader> luceneFulltext,
+---
+>     public FulltextIndexPopulator( FulltextIndexDescriptor descriptor, DatabaseIndex< FulltextIndexReader> luceneFulltext,

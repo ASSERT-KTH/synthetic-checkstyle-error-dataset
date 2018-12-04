@@ -1,0 +1,4 @@
+24c24
+< public enum TestLabels implements Label
+---
+> public enum 	TestLabels implements Label

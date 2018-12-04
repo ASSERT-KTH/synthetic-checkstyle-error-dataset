@@ -1,0 +1,4 @@
+228c228
+<     public static void awaitForever( BooleanSupplier condition, long checkInterval, TimeUnit unit )
+---
+>     public static void awaitForever( BooleanSupplier condition	, long checkInterval, TimeUnit unit )

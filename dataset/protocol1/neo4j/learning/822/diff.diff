@@ -1,0 +1,4 @@
+43c43
+< import org.neo4j.internal.kernel.api.security.SecurityContext;
+---
+> import org.neo4j.internal.kernel.api.	security.SecurityContext;

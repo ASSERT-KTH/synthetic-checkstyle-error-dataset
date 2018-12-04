@@ -1,0 +1,4 @@
+59c59
+<     final EntryUpdater<Key> resetter( Lock lock, Runnable runnable )
+---
+>     final EntryUpdater <Key> resetter( Lock lock, Runnable runnable )

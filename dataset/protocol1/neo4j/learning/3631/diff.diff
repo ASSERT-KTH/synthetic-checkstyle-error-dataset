@@ -1,0 +1,5 @@
+62,63c62
+<     public void shouldClearFlags()
+<     {
+---
+>     public void shouldClearFlags()    {

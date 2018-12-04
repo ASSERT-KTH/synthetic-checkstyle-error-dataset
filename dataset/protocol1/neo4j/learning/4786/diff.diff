@@ -1,0 +1,5 @@
+57,58c57
+<         super( "Explicit indexes" );
+<         this.fileSystem = fileSystem;
+---
+>         super( "Explicit indexes" );        this.fileSystem = fileSystem;

@@ -1,0 +1,5 @@
+42c42,43
+<         return new Properties( properties );
+---
+>         return new 
+> Properties( properties );

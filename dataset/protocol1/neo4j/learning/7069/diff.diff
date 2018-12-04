@@ -1,0 +1,5 @@
+24c24,25
+<     public MissingEndQuoteException( SourceTraceability source, int startingLine, char quoteChar )
+---
+>     public MissingEndQuoteException( SourceTraceability source, int startingLine, char 
+> quoteChar )

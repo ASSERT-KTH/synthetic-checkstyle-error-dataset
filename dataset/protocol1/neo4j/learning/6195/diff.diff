@@ -1,0 +1,4 @@
+33c33
+<     abstract EntryUpdater<Key> resetter( Lock lock, Runnable runnable );
+---
+>     abstract 	EntryUpdater<Key> resetter( Lock lock, Runnable runnable );

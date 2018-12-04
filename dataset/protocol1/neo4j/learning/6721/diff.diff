@@ -1,0 +1,5 @@
+27c27,28
+<     public ThirdPartyJaxRsPackage( String packageName, String mountPoint )
+---
+>     public 
+> ThirdPartyJaxRsPackage( String packageName, String mountPoint )

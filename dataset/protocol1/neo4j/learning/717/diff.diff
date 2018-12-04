@@ -1,0 +1,4 @@
+60c60
+<         AuthenticationStrategy authStrategy = newAuthStrategy( clock, 3 );
+---
+>         AuthenticationStrategy authStrategy 	= newAuthStrategy( clock, 3 );

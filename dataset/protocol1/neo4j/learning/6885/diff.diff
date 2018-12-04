@@ -1,0 +1,4 @@
+27c27
+<     UnstableSnapshotException( String message, Object... parameters )
+---
+>     UnstableSnapshotException( String message, Object... parameters)

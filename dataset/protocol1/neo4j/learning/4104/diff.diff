@@ -1,0 +1,4 @@
+27c27
+<     void node( NodeCursor cursor );
+---
+>     void node( 	NodeCursor cursor );

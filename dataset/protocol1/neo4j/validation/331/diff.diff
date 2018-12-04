@@ -1,0 +1,4 @@
+100c100
+<             NANOSECONDS.sleep( measurementDurationNs );
+---
+>             NANOSECONDS.sleep( measurementDurationNs 	);

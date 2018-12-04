@@ -1,0 +1,4 @@
+98c98
+<             setting = (BaseSetting) setting( settingName, INTEGER, NO_DEFAULT );
+---
+>             setting = (BaseSetting) setting( settingName, 	INTEGER, NO_DEFAULT );

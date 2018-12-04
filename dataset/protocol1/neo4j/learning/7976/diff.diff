@@ -1,0 +1,4 @@
+90c90
+<         EmbeddedProxySPI manager = mock( EmbeddedProxySPI.class );
+---
+>         EmbeddedProxySPI manager 	= mock( EmbeddedProxySPI.class );

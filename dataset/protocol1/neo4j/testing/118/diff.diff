@@ -1,0 +1,4 @@
+54c54
+<         long[] nodes = lookup.get( label );
+---
+>         long[] nodes = lookup.get( label )	;

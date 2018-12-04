@@ -1,0 +1,5 @@
+72c72,73
+<         assertThat( "", crs.getCalculator().distance( cart( -1000000.0, -1000000.0 ), cart( 1000000.0, 1000000.0 ) ), closeTo( 2828427.0, 1.0 ) );
+---
+>         assertThat( "", crs.getCalculator().distance( cart( -1000000.0, -1000000.0 ), cart( 1000000.0, 1000000.0 ) ), closeTo( 2828427.0, 
+> 1.0 ) );

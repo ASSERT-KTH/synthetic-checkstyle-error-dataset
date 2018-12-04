@@ -1,0 +1,5 @@
+51,52c51
+<         Log log = dependencies.getLogService().getInternalLogProvider().getLog( loggingClass() );
+<         Monitors monitors = dependencies.monitors();
+---
+>         Log log = dependencies.getLogService().getInternalLogProvider().getLog( loggingClass() );        Monitors monitors = dependencies.monitors();

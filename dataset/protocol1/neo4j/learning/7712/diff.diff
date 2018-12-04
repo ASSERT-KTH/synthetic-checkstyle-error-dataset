@@ -1,0 +1,4 @@
+35c35
+<     public ArrayIOCursor( T... entries )
+---
+>     public 	ArrayIOCursor( T... entries )

@@ -1,0 +1,4 @@
+127c127
+<         rawValueBits = Float.floatToIntBits( value );
+---
+>         rawValueBits =Float.floatToIntBits( value );

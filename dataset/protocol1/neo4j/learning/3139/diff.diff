@@ -1,0 +1,4 @@
+98c98
+<         for ( int index = 0; index < maxLength; index++ )
+---
+>         for ( int index = 0; index < maxLength; index++ 	)

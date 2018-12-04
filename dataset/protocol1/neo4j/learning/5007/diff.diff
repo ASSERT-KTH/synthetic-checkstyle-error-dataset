@@ -1,0 +1,4 @@
+190c190
+<         return delegate.openAsReader( fileName, charset );
+---
+>         return delegate.openAsReader( fileName, charset 	);

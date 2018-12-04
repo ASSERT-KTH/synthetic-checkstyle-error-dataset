@@ -1,0 +1,4 @@
+258c258
+<         protected Void dispatchLongArrayProperty( PropertyArray<long[], Long> array, String param )
+---
+>         protected Void dispatchLongArrayProperty( PropertyArray<long[], Long> array, 	String param )

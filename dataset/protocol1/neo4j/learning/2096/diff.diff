@@ -1,0 +1,5 @@
+102,103c102
+<         public Clock withZone( ZoneId zone )
+<         {
+---
+>         public Clock withZone( ZoneId zone )        {

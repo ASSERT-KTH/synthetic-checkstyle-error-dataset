@@ -1,0 +1,4 @@
+36c36
+<         String template = "This is a $FIRST that $SECOND $THIRD!";
+---
+>         String 	template = "This is a $FIRST that $SECOND $THIRD!";

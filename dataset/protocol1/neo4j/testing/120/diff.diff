@@ -1,0 +1,4 @@
+298c298
+<         for ( int i = offset; i < offset + length; i++ )
+---
+>         for ( 	int i = offset; i < offset + length; i++ )

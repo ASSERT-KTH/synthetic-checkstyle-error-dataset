@@ -1,0 +1,4 @@
+28c28
+<     BoltScheduler get( BoltChannel channel );
+---
+>     BoltScheduler get( BoltChannel channel);

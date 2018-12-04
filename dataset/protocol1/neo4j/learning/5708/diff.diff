@@ -1,0 +1,5 @@
+77c77,78
+<             creator.create( schemaWrite, forLabel( 0, 0 ), "something-completely-different" );
+---
+>             creator.create( schemaWrite, forLabel( 0, 0 ), 
+> "something-completely-different" );

@@ -1,0 +1,5 @@
+109,110c109
+<         GraphDatabaseFacade db = mock( GraphDatabaseFacade.class );
+<         DependencyResolver dependencyResolver = mock( DependencyResolver.class );
+---
+>         GraphDatabaseFacade db = mock( GraphDatabaseFacade.class );        DependencyResolver dependencyResolver = mock( DependencyResolver.class );

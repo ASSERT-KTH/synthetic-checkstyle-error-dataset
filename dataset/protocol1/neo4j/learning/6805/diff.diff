@@ -1,0 +1,4 @@
+59c59
+<     public static <T> CollectionMatcher<T> matchesCollection( T... toMatch )
+---
+>     public static 	<T> CollectionMatcher<T> matchesCollection( T... toMatch )

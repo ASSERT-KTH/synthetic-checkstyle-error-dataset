@@ -1,0 +1,4 @@
+22c22
+< final class ValueLookup<Value> extends ValueSink
+---
+> 	final class ValueLookup<Value> extends ValueSink

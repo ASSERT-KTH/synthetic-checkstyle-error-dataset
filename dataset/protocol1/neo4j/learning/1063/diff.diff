@@ -1,0 +1,5 @@
+31,32c31
+<     public TransactionLogWriter( LogEntryWriter writer )
+<     {
+---
+>     public TransactionLogWriter( LogEntryWriter writer )    {

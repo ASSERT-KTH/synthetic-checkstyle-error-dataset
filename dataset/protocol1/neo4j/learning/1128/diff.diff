@@ -1,0 +1,4 @@
+72c72
+<         assertThat( agents.recentItems(), hasItems( "agent1", "agent2" ) );
+---
+>         assertThat( agents.recentItems(), hasItems ( "agent1", "agent2" ) );

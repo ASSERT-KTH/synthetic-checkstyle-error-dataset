@@ -1,0 +1,5 @@
+51,52c51
+<     Collection<EntityId> query( Query query, QueryContext contextOrNull )
+<     {
+---
+>     Collection<EntityId> query( Query query, QueryContext contextOrNull )    {

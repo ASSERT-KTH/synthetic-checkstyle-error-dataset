@@ -1,0 +1,4 @@
+46c46
+<         long tempIdPropertySize = estimates.numberOfNodes() * recordFormats.property().getRecordSize( NO_STORE_HEADER );
+---
+>         long tempIdPropertySize = estimates.numberOfNodes () * recordFormats.property().getRecordSize( NO_STORE_HEADER );

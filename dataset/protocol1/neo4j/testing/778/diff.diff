@@ -1,0 +1,5 @@
+24c24,25
+< import org.neo4j.kernel.impl.util.monitoring.ProgressReporter;
+---
+> import 
+> org.neo4j.kernel.impl.util.monitoring.ProgressReporter;

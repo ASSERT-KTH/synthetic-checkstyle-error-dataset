@@ -1,0 +1,4 @@
+50c50
+< import org.neo4j.kernel.impl.transaction.log.TransactionIdStore;
+---
+> import org.	neo4j.kernel.impl.transaction.log.TransactionIdStore;

@@ -1,0 +1,5 @@
+429c429,430
+<     private void assertDeepEquals( Map<String,byte[]> expected, Headers actual )
+---
+>     private void assertDeepEquals( Map<String,byte[]> expected, 
+> Headers actual )

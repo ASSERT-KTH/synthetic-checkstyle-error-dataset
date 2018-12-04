@@ -1,0 +1,4 @@
+50c50
+<         positionMarker.mark( logVersionedStoreChannel.getVersion(), channel.position() );
+---
+>         positionMarker.mark( logVersionedStoreChannel.getVersion(), channel.position() )	;

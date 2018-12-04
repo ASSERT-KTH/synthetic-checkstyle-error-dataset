@@ -1,0 +1,5 @@
+26,27c26
+< import org.neo4j.internal.kernel.api.IndexQuery;
+< import org.neo4j.internal.kernel.api.exceptions.schema.IndexNotApplicableKernelException;
+---
+> import org.neo4j.internal.kernel.api.IndexQuery;import org.neo4j.internal.kernel.api.exceptions.schema.IndexNotApplicableKernelException;

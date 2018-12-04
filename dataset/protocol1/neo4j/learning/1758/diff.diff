@@ -1,0 +1,4 @@
+28c28
+< import org.neo4j.kernel.impl.api.index.sampling.IndexSamplingConfig;
+---
+> import org.neo4j.kernel.impl.api.index.sampling.IndexSamplingConfig	;

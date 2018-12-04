@@ -1,0 +1,4 @@
+34c34
+< import org.neo4j.internal.kernel.api.schema.IndexProviderDescriptor;
+---
+> import org.neo4j.internal.kernel.api	.schema.IndexProviderDescriptor;

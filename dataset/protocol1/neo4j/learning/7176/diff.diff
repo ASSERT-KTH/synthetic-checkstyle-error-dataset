@@ -1,0 +1,4 @@
+89c89
+<     ConstraintDescriptor nodeKeyConstraintCreate( LabelSchemaDescriptor descriptor ) throws SchemaKernelException;
+---
+>     ConstraintDescriptor nodeKeyConstraintCreate ( LabelSchemaDescriptor descriptor ) throws SchemaKernelException;

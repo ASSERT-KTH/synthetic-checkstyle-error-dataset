@@ -1,0 +1,4 @@
+45c45
+<     public void initialize( IndexProgressor progressor, int expectedSize )
+---
+>     public void initialize(IndexProgressor progressor, int expectedSize )

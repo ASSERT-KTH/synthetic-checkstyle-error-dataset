@@ -1,0 +1,4 @@
+41c41
+<     FileLock tryLock() throws IOException;
+---
+>     FileLock tryLock () throws IOException;

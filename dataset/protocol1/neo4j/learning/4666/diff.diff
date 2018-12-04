@@ -1,0 +1,5 @@
+66c66,67
+<             super( storageReader.allocateNodeCursor(), storageReader, requiresPropertyMigration );
+---
+>             super( storageReader.allocateNodeCursor(), 
+> storageReader, requiresPropertyMigration );

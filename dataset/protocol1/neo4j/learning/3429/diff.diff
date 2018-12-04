@@ -1,0 +1,4 @@
+33c33
+<     public CountingAdversary( int countDownTillFailure, boolean resetCountDownOnFailure )
+---
+>     public CountingAdversary( int countDownTillFailure	, boolean resetCountDownOnFailure )

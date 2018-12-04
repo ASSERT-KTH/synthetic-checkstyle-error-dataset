@@ -1,0 +1,4 @@
+114c114
+<         return new TypeSafeMatcher<HTTP.Response>()
+---
+>         return new TypeSafeMatcher <HTTP.Response>()

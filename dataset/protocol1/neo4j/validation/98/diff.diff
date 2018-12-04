@@ -1,0 +1,5 @@
+51c51,52
+<         add( new ReadRecordsStep<>( control(), config, false, store ) );
+---
+>         add( new ReadRecordsStep<>( 
+> control(), config, false, store ) );

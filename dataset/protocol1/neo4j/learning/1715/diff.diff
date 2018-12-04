@@ -1,0 +1,4 @@
+35c35
+<         assertThat(CustomNameExtractor.getName( () -> "   name  ", () -> "  " )).contains( "name" );
+---
+>         assertThat(CustomNameExtractor.getName( () -> "   name  ", () ->"  " )).contains( "name" );

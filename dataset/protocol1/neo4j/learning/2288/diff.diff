@@ -1,0 +1,5 @@
+83c83,84
+<     String propertyKeyName( int propertyKeyId ) throws PropertyKeyIdNotFoundKernelException;
+---
+>     String propertyKeyName
+> ( int propertyKeyId ) throws PropertyKeyIdNotFoundKernelException;

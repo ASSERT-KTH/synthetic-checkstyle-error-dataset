@@ -1,0 +1,5 @@
+50c50,51
+<              LogPositionMarker marker, CommandReaderFactory commandReaderFactory ) throws IOException;
+---
+>              
+> LogPositionMarker marker, CommandReaderFactory commandReaderFactory ) throws IOException;

@@ -1,0 +1,4 @@
+233c233
+<         assertProperty( node, propertyKey, "hello" );
+---
+>         assertProperty( node, propertyKey	, "hello" );

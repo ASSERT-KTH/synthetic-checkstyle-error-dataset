@@ -1,0 +1,4 @@
+172c172
+<     Register.DoubleLongRegister indexUpdatesAndSize( IndexReference index, Register.DoubleLongRegister target )
+---
+>     Register.DoubleLongRegister indexUpdatesAndSize( IndexReference index, 	Register.DoubleLongRegister target )

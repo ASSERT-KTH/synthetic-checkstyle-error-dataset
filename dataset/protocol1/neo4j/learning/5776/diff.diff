@@ -1,0 +1,4 @@
+211c211
+<         return files == null ? Collections.emptyList()
+---
+>         return files == null ? Collections	.emptyList()

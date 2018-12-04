@@ -1,0 +1,4 @@
+34c34
+< import org.neo4j.test.rule.concurrent.OtherThreadRule;
+---
+> import org.neo4j	.test.rule.concurrent.OtherThreadRule;

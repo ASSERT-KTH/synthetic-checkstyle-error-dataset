@@ -1,0 +1,4 @@
+44c44
+<         return exception( type, equalTo( message ) );
+---
+>         return exception ( type, equalTo( message ) );

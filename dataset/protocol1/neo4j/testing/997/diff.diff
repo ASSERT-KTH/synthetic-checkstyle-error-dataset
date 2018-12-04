@@ -1,0 +1,5 @@
+26,27c26
+< import org.neo4j.consistency.report.ConsistencyReport.NeoStoreConsistencyReport;
+< import org.neo4j.consistency.report.ConsistencyReport.NodeConsistencyReport;
+---
+> import org.neo4j.consistency.report.ConsistencyReport.NeoStoreConsistencyReport;import org.neo4j.consistency.report.ConsistencyReport.NodeConsistencyReport;

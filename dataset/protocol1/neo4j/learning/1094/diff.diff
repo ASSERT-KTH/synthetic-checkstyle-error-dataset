@@ -1,0 +1,4 @@
+86c86
+<         return Iterables.asList( Service.load( StatementLocksFactory.class ) );
+---
+>         return Iterables.asList ( Service.load( StatementLocksFactory.class ) );

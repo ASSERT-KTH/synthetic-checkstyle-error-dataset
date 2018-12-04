@@ -1,0 +1,5 @@
+36,37c36
+<  * Any user-provided store directory will be transformed to canonical file form and any subsequent store layout file
+<  * lookup should be considered as operations that provide canonical file form.
+---
+>  * Any user-provided store directory will be transformed to canonical file form and any subsequent store layout file * lookup should be considered as operations that provide canonical file form.

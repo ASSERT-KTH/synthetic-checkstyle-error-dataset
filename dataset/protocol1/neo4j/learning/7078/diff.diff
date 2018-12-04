@@ -1,0 +1,4 @@
+30c30
+< public class SpecificDepthTraversalTest extends TraversalTestBase
+---
+> public 	class SpecificDepthTraversalTest extends TraversalTestBase

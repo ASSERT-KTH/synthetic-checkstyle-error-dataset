@@ -1,0 +1,5 @@
+329c329,330
+<                 reusableField = encoding.encodeField( key, value );
+---
+>                 
+> reusableField = encoding.encodeField( key, value );

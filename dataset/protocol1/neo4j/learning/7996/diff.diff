@@ -1,0 +1,4 @@
+41c41
+<     void progress( long add );
+---
+>     void 	progress( long add );

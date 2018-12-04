@@ -1,0 +1,5 @@
+79,80c79
+<     static SpatialIndexType get( int id )
+<     {
+---
+>     static SpatialIndexType get( int id )    {

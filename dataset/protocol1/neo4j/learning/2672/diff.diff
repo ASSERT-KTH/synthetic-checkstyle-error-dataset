@@ -1,0 +1,5 @@
+235c235,236
+<         List<DirectRecordProxy> directRecordProxies = new ArrayList<>( batch.values() );
+---
+>         List<DirectRecordProxy> 
+> directRecordProxies = new ArrayList<>( batch.values() );

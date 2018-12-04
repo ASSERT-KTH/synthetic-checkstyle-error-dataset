@@ -1,0 +1,4 @@
+82c82
+<             validator.validateNodeRecord( record );
+---
+>             validator.validateNodeRecord( record 	);

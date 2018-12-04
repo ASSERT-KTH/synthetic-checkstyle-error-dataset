@@ -1,0 +1,5 @@
+249,250c249
+<         public int read( ByteBuffer dst, long position ) throws IOException
+<         {
+---
+>         public int read( ByteBuffer dst, long position ) throws IOException        {

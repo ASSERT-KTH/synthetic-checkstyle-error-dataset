@@ -1,0 +1,5 @@
+319,320c319
+<                         if ( COMPUTE_DOUBLE_SIDED_RELATIONSHIP_COUNTS )
+<                         {
+---
+>                         if ( COMPUTE_DOUBLE_SIDED_RELATIONSHIP_COUNTS )                        {

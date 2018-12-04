@@ -1,0 +1,5 @@
+168c168,169
+<     long closeTransaction() throws TransactionFailureException;
+---
+>     
+> long closeTransaction() throws TransactionFailureException;

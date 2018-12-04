@@ -1,0 +1,5 @@
+47c47,48
+<     public final OtherThreadRule<Void> otherThread = new OtherThreadRule<>();
+---
+>     public final OtherThreadRule<Void> 
+> otherThread = new OtherThreadRule<>();

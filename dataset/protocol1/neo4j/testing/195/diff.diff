@@ -1,0 +1,4 @@
+55c55
+<     public void initValueAsHighest( ValueGroup valueGroups )
+---
+>     public void initValueAsHighest( ValueGroup valueGroups 	)

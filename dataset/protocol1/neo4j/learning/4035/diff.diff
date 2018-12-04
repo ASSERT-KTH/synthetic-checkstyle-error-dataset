@@ -1,0 +1,4 @@
+111c111
+<         Listeners<Listener> listeners = newListeners( listener1, listener2 );
+---
+>         Listeners<Listener> listeners 	= newListeners( listener1, listener2 );

@@ -1,0 +1,5 @@
+170c170,171
+<             return accessor.selectOrElse( crs, SpatialIndexAccessor.PartAccessor::newReader, null );
+---
+>             return accessor.selectOrElse
+> ( crs, SpatialIndexAccessor.PartAccessor::newReader, null );

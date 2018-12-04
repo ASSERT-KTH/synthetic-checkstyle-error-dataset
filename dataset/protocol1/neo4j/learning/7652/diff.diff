@@ -1,0 +1,4 @@
+40c40
+<     private final LogPositionMarker lastGoodPositionMarker = new LogPositionMarker();
+---
+>     private final LogPositionMarker lastGoodPositionMarker 	= new LogPositionMarker();

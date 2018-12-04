@@ -1,0 +1,5 @@
+50c50,51
+<             File entryFile = new File( entry );
+---
+>             File entryFile = new File( entry 
+> );

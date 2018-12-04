@@ -1,0 +1,5 @@
+214c214,215
+<     private static String name( Class<?> location, String name )
+---
+>     private static 
+> String name( Class<?> location, String name )

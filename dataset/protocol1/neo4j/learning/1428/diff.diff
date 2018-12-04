@@ -1,0 +1,5 @@
+74,75c74
+<         private LongArray array;
+<         private int contestant;
+---
+>         private LongArray array;        private int contestant;

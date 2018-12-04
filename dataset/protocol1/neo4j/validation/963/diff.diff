@@ -1,0 +1,4 @@
+30c30
+< final class CursorExceptionWithPreciseStackTrace extends CursorException
+---
+> final class 	CursorExceptionWithPreciseStackTrace extends CursorException

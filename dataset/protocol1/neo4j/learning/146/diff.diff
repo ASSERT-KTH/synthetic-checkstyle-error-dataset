@@ -1,0 +1,5 @@
+66c66,67
+<         LogEntryReader<ReadableClosablePositionAwareChannel> reader = new VersionAwareLogEntryReader<>();
+---
+>         LogEntryReader<ReadableClosablePositionAwareChannel> reader = 
+> new VersionAwareLogEntryReader<>();

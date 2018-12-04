@@ -1,0 +1,5 @@
+33c33,34
+<     private static final String userSeparator = ":";
+---
+>     private static 
+> final String userSeparator = ":";

@@ -1,0 +1,4 @@
+87c87
+<                         relationshipStore.getRecord( relationshipIdInMiddleOfChain, relationshipStore.newRecord(), NORMAL ) );
+---
+>                         relationshipStore.getRecord( relationshipIdInMiddleOfChain, relationshipStore.newRecord()	, NORMAL ) );

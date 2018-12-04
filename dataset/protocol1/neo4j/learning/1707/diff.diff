@@ -1,0 +1,4 @@
+124c124
+<         clientA.acquireExclusive( TRACER, NODE, 2L );
+---
+>         clientA	.acquireExclusive( TRACER, NODE, 2L );

@@ -1,0 +1,5 @@
+52c52,53
+<         return substring( start, Math.max( length() - start, start ) );
+---
+>         return substring( start, 
+> Math.max( length() - start, start ) );

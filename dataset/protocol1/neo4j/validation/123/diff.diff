@@ -1,0 +1,5 @@
+143,144c143
+<             try ( Lock inner = second = locks.acquireNodeLock( 666, LockService.LockType.WRITE_LOCK ) )
+<             {
+---
+>             try ( Lock inner = second = locks.acquireNodeLock( 666, LockService.LockType.WRITE_LOCK ) )            {

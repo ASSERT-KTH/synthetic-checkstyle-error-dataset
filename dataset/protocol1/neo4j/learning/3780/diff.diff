@@ -1,0 +1,5 @@
+48c48,49
+<     List<Setting<T>> settings( Map<String,String> params );
+---
+>     List<Setting<T>> settings( Map<String,String> 
+> params );

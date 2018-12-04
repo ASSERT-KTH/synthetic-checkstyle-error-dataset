@@ -1,0 +1,5 @@
+25,26c25
+< import org.neo4j.internal.diagnostics.DiagnosticsPhase;
+< import org.neo4j.kernel.impl.transaction.log.entry.LogHeader;
+---
+> import org.neo4j.internal.diagnostics.DiagnosticsPhase;import org.neo4j.kernel.impl.transaction.log.entry.LogHeader;

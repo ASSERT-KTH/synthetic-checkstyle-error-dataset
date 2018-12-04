@@ -1,0 +1,5 @@
+56,57c56
+<  *     <li>{@link org.neo4j.graphdb.Path}</li>
+<  *     <li>{@link java.util.Map} with key {@link String} and value of any type in this list, including {@link java.util.Map}</li>
+---
+>  *     <li>{@link org.neo4j.graphdb.Path}</li> *     <li>{@link java.util.Map} with key {@link String} and value of any type in this list, including {@link java.util.Map}</li>

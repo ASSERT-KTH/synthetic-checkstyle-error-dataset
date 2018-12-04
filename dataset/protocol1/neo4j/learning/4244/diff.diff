@@ -1,0 +1,5 @@
+57,58c57
+<     public static Matcher<QueryResult.Record> eqRecord( final Matcher<?>... expectedFieldValues )
+<     {
+---
+>     public static Matcher<QueryResult.Record> eqRecord( final Matcher<?>... expectedFieldValues )    {

@@ -1,0 +1,5 @@
+66c66,67
+<     public RandomRule withSeedForAllTests( long seed )
+---
+>     public RandomRule withSeedForAllTests
+> ( long seed )

@@ -1,0 +1,5 @@
+35,36c35
+<     public DeadlockDetectedException( String message, Throwable cause )
+<     {
+---
+>     public DeadlockDetectedException( String message, Throwable cause )    {

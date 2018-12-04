@@ -1,0 +1,4 @@
+42c42
+<     protected IntArrayBasedKeyTable<VALUE> newInstance( int newCapacity )
+---
+>     protected IntArrayBasedKeyTable<VALUE > newInstance( int newCapacity )

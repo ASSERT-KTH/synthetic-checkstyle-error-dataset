@@ -1,0 +1,5 @@
+235c235,236
+<         assertThat( labels( result.getBefore() ), equalTo( labels( cmd.getBefore() ) ) );
+---
+>         assertThat( labels( result.getBefore() 
+> ), equalTo( labels( cmd.getBefore() ) ) );

@@ -1,0 +1,4 @@
+34c34
+<     public StoreFailureException( String msg, Throwable cause )
+---
+>     public StoreFailureException( String msg, Throwable cause)

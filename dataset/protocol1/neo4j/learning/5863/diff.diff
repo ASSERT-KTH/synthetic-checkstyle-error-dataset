@@ -1,0 +1,4 @@
+50c50
+<     public PageCacheAndDependenciesRule rules = new PageCacheAndDependenciesRule().with( new DefaultFileSystemRule() );
+---
+>     public PageCacheAndDependenciesRule rules = new PageCacheAndDependenciesRule().	with( new DefaultFileSystemRule() );

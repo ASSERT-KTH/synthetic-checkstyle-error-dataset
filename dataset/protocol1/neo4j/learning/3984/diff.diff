@@ -1,0 +1,4 @@
+41c41
+<     private final LongSupplier actualHeapSizeLookup;
+---
+>     private 	final LongSupplier actualHeapSizeLookup;

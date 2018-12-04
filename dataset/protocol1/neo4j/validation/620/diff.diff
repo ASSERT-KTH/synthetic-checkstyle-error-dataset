@@ -1,0 +1,4 @@
+26c26
+< public class GBPTreeReadWriteFixedSizeTest extends GBPTreeReadWriteTestBase<MutableLong,MutableLong>
+---
+> public class GBPTreeReadWriteFixedSizeTest extends GBPTreeReadWriteTestBase<MutableLong,	MutableLong>

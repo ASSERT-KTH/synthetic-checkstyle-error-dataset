@@ -1,0 +1,5 @@
+142c142,143
+<                                 if ( dataRead.countsForRelationship( Read.ANY_LABEL, relId, labelId ) > 0 )
+---
+>                                 if ( dataRead.countsForRelationship( Read.ANY_LABEL, relId, labelId 
+> ) > 0 )

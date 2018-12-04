@@ -1,0 +1,5 @@
+151c151,152
+<         Result result = database.execute( "MATCH (n) RETURN n.c" );
+---
+>         Result result = database.execute( "MATCH (n) RETURN n.c" 
+> );

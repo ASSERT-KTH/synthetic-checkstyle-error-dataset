@@ -1,0 +1,5 @@
+122,123c122
+<             builder.withProperty( ServerSettings.http_strict_transport_security.name(), hstsValue );
+<         }
+---
+>             builder.withProperty( ServerSettings.http_strict_transport_security.name(), hstsValue );        }

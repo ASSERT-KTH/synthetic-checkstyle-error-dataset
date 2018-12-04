@@ -1,0 +1,5 @@
+56,57c56
+<         assertEquals( convertedMap.get( "pageCacheHits" ), longValue( 3L ) );
+<         assertEquals( convertedMap.get( "pageCacheMisses" ), longValue( 2L ) );
+---
+>         assertEquals( convertedMap.get( "pageCacheHits" ), longValue( 3L ) );        assertEquals( convertedMap.get( "pageCacheMisses" ), longValue( 2L ) );

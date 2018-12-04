@@ -1,0 +1,5 @@
+40,41c40
+< import static org.neo4j.kernel.impl.api.index.SchemaIndexTestHelper.awaitLatch;
+< import static org.neo4j.kernel.impl.api.index.SchemaIndexTestHelper.mockIndexProxy;
+---
+> import static org.neo4j.kernel.impl.api.index.SchemaIndexTestHelper.awaitLatch;import static org.neo4j.kernel.impl.api.index.SchemaIndexTestHelper.mockIndexProxy;

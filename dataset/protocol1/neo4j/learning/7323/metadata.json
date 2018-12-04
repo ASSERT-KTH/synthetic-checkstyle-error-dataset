@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "190", "column": "130", "message": "Only one statement per line allowed.", "type": "OneStatementPerLine"}

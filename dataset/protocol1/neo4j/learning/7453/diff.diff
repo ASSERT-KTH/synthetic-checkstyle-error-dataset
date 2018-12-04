@@ -1,0 +1,4 @@
+59c59
+<         try ( StoreChannel channel = fileSystem.open( file, OpenMode.READ_WRITE ) )
+---
+>         try ( StoreChannel channel = 	fileSystem.open( file, OpenMode.READ_WRITE ) )

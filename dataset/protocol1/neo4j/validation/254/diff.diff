@@ -1,0 +1,4 @@
+87c87
+<         Path path = getFirstPath( traverse );
+---
+>         Path path = 	getFirstPath( traverse );

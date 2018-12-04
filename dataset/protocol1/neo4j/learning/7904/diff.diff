@@ -1,0 +1,5 @@
+272c272,273
+<             return delegate.visitIndexAddRelationshipCommand( command );
+---
+>             
+> return delegate.visitIndexAddRelationshipCommand( command );

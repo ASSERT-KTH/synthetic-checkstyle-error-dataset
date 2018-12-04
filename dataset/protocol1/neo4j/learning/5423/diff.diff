@@ -1,0 +1,5 @@
+42c42,43
+<         management.validate( getClass() );
+---
+>         management.validate
+> ( getClass() );

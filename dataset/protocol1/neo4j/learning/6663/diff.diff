@@ -1,0 +1,4 @@
+530c530
+<         createTestDatabase( fileSystem, storeDir ).shutdown();
+---
+>         createTestDatabase( fileSystem, storeDir ).shutdown(	);

@@ -1,0 +1,5 @@
+32,33c32
+<     public static JarLoaderSupplier of( String... jarPaths )
+<     {
+---
+>     public static JarLoaderSupplier of( String... jarPaths )    {

@@ -1,0 +1,5 @@
+133,134c133
+<         public boolean multilineFields()
+<         {
+---
+>         public boolean multilineFields()        {

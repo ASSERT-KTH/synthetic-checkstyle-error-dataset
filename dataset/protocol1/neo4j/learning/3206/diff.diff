@@ -1,0 +1,5 @@
+171c171,172
+<         when( tracker.canExecuteMoreSamplingJobs() ).thenReturn( true );
+---
+>         when( tracker.canExecuteMoreSamplingJobs() ).thenReturn
+> ( true );

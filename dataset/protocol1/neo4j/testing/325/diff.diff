@@ -1,0 +1,4 @@
+22c22
+< public class CursorValue<T>
+---
+> 	public class CursorValue<T>

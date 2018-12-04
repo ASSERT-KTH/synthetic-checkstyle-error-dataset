@@ -1,0 +1,4 @@
+40c40
+<     public RetryACoupleOfTimesHandler( Predicate<Throwable> retriable )
+---
+>     public RetryACoupleOfTimesHandler( 	Predicate<Throwable> retriable )

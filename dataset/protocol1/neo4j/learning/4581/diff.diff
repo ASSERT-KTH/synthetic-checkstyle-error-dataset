@@ -1,0 +1,4 @@
+93c93
+<         if ( sortedResultIterator == null )
+---
+>         if ( sortedResultIterator == null)

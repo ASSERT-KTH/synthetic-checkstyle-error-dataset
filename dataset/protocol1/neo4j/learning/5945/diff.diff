@@ -1,0 +1,4 @@
+34c34
+<     default void fileDeleted( String fileName )
+---
+>     	default void fileDeleted( String fileName )

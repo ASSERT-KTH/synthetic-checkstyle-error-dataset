@@ -1,0 +1,4 @@
+87c87
+<     public <T> Supplier<T> provideDependency( final Class<T> type )
+---
+>     public <T> Supplier<T> provideDependency( final Class<T> type 	)

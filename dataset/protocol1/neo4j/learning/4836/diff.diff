@@ -1,0 +1,4 @@
+52c52
+<     default void writeVirtualNodeHack( Object node )
+---
+>     default void writeVirtualNodeHack(Object node )

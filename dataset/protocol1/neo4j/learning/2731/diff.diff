@@ -1,0 +1,5 @@
+413c413,414
+<         assertTrue( neoStoreCommand.getAfter().isUseFixedReferences() );
+---
+>         assertTrue
+> ( neoStoreCommand.getAfter().isUseFixedReferences() );

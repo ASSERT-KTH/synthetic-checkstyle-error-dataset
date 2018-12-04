@@ -1,0 +1,4 @@
+70c70
+<             children.add( convert( child ) );
+---
+>             children.add( convert( 	child ) );

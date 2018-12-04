@@ -1,0 +1,5 @@
+44c44,45
+<     private static String[] requireNonEmpty( String[] array )
+---
+>     private 
+> static String[] requireNonEmpty( String[] array )

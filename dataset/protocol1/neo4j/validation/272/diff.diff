@@ -1,0 +1,4 @@
+189c189
+<     private RuntimeException consumeAndChainException( T instance, Consumer<T> consumer, RuntimeException exception )
+---
+>     private RuntimeException consumeAndChainException ( T instance, Consumer<T> consumer, RuntimeException exception )

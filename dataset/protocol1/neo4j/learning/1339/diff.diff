@@ -1,0 +1,5 @@
+31,32c31
+< import static org.mockito.Mockito.when;
+< import static org.mockito.internal.verification.VerificationModeFactory.times;
+---
+> import static org.mockito.Mockito.when;import static org.mockito.internal.verification.VerificationModeFactory.times;

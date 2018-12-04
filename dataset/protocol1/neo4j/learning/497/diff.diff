@@ -1,0 +1,5 @@
+170c170,171
+<     public void shouldThrowIfVersionIsNotANumber() throws IOException
+---
+>     public void shouldThrowIfVersionIsNotANumber() 
+> throws IOException

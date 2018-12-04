@@ -1,0 +1,5 @@
+24,25c24
+< import org.neo4j.internal.kernel.api.TokenNameLookup;
+< import org.neo4j.internal.kernel.api.schema.SchemaUtil;
+---
+> import org.neo4j.internal.kernel.api.TokenNameLookup;import org.neo4j.internal.kernel.api.schema.SchemaUtil;

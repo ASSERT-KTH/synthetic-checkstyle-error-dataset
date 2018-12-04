@@ -1,0 +1,5 @@
+190,191c190
+<     private void assertNotComposite( IndexQuery[] predicates )
+<     {
+---
+>     private void assertNotComposite( IndexQuery[] predicates )    {

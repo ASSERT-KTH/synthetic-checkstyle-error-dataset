@@ -1,0 +1,4 @@
+57c57
+<     public ProcessStreamHandler( Process process, boolean quiet, String prefix, StreamExceptionHandler failureHandler )
+---
+>     public ProcessStreamHandler( Process process, boolean quiet	, String prefix, StreamExceptionHandler failureHandler )

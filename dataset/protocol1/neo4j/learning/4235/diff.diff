@@ -1,0 +1,4 @@
+473c473
+<                     PrimitiveLongCollections.asArray( reader.nodesWithAnyOfLabels( new int[] {labelId1, labelId2, labelId3} ) ) );
+---
+>                     PrimitiveLongCollections.asArray ( reader.nodesWithAnyOfLabels( new int[] {labelId1, labelId2, labelId3} ) ) );

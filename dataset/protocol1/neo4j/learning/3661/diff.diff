@@ -1,0 +1,5 @@
+88c88,89
+<     public boolean equals( long[] x )
+---
+>     public boolean equals( 
+> long[] x )

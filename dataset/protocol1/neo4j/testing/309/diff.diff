@@ -1,0 +1,4 @@
+251c251
+<         assertEquals( "Relationship[" + id + "].labels", type, relationship.get( "type" ).getTextValue() );
+---
+>         assertEquals( "Relationship[" + id + "].labels", 	type, relationship.get( "type" ).getTextValue() );

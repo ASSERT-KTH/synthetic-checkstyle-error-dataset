@@ -1,0 +1,4 @@
+72c72
+<         return PrimitiveArrayValues.equals( x, value );
+---
+>         return PrimitiveArrayValues.equals( x	, value );

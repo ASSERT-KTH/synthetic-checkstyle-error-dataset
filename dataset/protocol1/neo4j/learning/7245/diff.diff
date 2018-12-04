@@ -1,0 +1,4 @@
+36c36
+<             String settingName, String settingValue, String defaultHostname, int defaultPort,
+---
+>             String 	settingName, String settingValue, String defaultHostname, int defaultPort,

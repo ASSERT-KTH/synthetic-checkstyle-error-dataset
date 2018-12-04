@@ -1,0 +1,5 @@
+29,30c29
+<     IdCapacityExceededException( IdType idType, long id, long maxId )
+<     {
+---
+>     IdCapacityExceededException( IdType idType, long id, long maxId )    {

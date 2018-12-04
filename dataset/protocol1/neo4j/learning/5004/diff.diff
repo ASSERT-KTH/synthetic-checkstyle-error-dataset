@@ -1,0 +1,4 @@
+172c172
+<     public Neo4jRule withAggregationFunction( Class<?> functionClass )
+---
+>     public Neo4jRule withAggregationFunction( 	Class<?> functionClass )

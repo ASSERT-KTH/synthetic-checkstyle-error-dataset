@@ -1,0 +1,4 @@
+47c47
+<             nextChannel = logFiles.openForVersion( channel.getVersion() + 1 );
+---
+>             nextChannel = logFiles.openForVersion( channel.getVersion() + 	1 );

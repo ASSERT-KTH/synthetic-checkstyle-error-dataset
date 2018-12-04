@@ -1,0 +1,5 @@
+41,42c41
+<     final CURSOR entityCursor;
+<     private final StoragePropertyCursor propertyCursor;
+---
+>     final CURSOR entityCursor;    private final StoragePropertyCursor propertyCursor;

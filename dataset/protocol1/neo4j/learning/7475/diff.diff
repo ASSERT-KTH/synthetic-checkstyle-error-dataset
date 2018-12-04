@@ -1,0 +1,5 @@
+24c24,25
+< public class DefaultFileSystemRule extends FileSystemRule<DefaultFileSystemAbstraction>
+---
+> public class DefaultFileSystemRule 
+> extends FileSystemRule<DefaultFileSystemAbstraction>

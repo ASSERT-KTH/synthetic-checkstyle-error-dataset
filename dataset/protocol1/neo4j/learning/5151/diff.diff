@@ -1,0 +1,5 @@
+32,33c32
+<     protected RecordReference<DynamicRecord> name( RecordAccess records, int id )
+<     {
+---
+>     protected RecordReference<DynamicRecord> name( RecordAccess records, int id )    {

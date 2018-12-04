@@ -1,0 +1,4 @@
+34c34
+< abstract class StoreScanAsInputIterator<RECORD extends AbstractBaseRecord> implements InputIterator
+---
+> abstract class StoreScanAsInputIterator<RECORD extends AbstractBaseRecord> 	implements InputIterator

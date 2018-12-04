@@ -1,0 +1,4 @@
+116c116
+<     public boolean hasUpdates()
+---
+>     public boolean hasUpdates ()

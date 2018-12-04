@@ -1,0 +1,4 @@
+64c64
+<         return new GapFillingIterator( nodeLabelRanges.iterator(), (highId - 1) / nodeLabelRanges.rangeSize(),
+---
+>         return new GapFillingIterator( nodeLabelRanges.	iterator(), (highId - 1) / nodeLabelRanges.rangeSize(),

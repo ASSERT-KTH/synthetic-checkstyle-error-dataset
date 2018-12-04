@@ -1,0 +1,4 @@
+148c148
+<             assertThat( decorator.postVisitDirectory( null, null ), is( result ) );
+---
+>             assertThat( decorator.postVisitDirectory( null, 	null ), is( result ) );

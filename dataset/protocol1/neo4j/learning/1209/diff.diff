@@ -1,0 +1,5 @@
+87c87,88
+<             throw new IllegalArgumentException( "At least one failure type, otherwise there's no point in this provider" );
+---
+>             throw new IllegalArgumentException
+> ( "At least one failure type, otherwise there's no point in this provider" );

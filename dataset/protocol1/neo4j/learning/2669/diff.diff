@@ -1,0 +1,4 @@
+279c279
+<             long claimedSize = channel.size();
+---
+>             long 	claimedSize = channel.size();

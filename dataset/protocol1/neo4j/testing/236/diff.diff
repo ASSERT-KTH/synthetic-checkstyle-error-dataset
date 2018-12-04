@@ -1,0 +1,5 @@
+27c27,28
+< import org.neo4j.io.fs.watcher.resource.WatchedResource;
+---
+> import 
+> org.neo4j.io.fs.watcher.resource.WatchedResource;

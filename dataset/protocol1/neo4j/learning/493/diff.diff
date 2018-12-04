@@ -1,0 +1,5 @@
+98c98,99
+<     public StoreChannel create( File fileName ) throws IOException
+---
+>     public StoreChannel create
+> ( File fileName ) throws IOException

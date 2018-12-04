@@ -1,0 +1,5 @@
+222,223c222
+<                 getClass().getSimpleName() );
+<         IOException exception = new IOException( "Failure" );
+---
+>                 getClass().getSimpleName() );        IOException exception = new IOException( "Failure" );

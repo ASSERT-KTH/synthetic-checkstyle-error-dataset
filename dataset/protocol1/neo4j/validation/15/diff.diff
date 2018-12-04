@@ -1,0 +1,5 @@
+59c59,60
+<                 to.process( IndexEntryUpdate.add( update.getEntityId(), update.indexKey(), update.values() ) );
+---
+>                 to.process( IndexEntryUpdate.add( update.getEntityId
+> (), update.indexKey(), update.values() ) );

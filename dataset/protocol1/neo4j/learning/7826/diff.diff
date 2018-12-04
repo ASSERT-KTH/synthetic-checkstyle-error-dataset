@@ -1,0 +1,5 @@
+656c656,657
+<             TreeState state = TreeStatePair.selectNewestValidState( states );
+---
+>             
+> TreeState state = TreeStatePair.selectNewestValidState( states );

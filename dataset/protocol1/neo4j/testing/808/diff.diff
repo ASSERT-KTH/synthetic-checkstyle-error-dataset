@@ -1,0 +1,4 @@
+155c155
+<             securityManager.checkRead( file );
+---
+>             securityManager	.checkRead( file );

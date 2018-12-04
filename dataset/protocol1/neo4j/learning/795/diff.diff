@@ -1,0 +1,5 @@
+77,78c77
+<         db.shutdown();
+<         File internalLog = new File( testDir.directory( "logs" ), INTERNAL_LOG_FILE );
+---
+>         db.shutdown();        File internalLog = new File( testDir.directory( "logs" ), INTERNAL_LOG_FILE );

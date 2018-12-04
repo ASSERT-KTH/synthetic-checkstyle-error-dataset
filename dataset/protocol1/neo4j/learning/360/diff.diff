@@ -1,0 +1,5 @@
+30,31c30
+<     public static AdminCommandSection instance()
+<     {
+---
+>     public static AdminCommandSection instance()    {

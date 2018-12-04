@@ -1,0 +1,5 @@
+41,42c41
+<     public int compare( Value v1, Value v2 )
+<     {
+---
+>     public int compare( Value v1, Value v2 )    {

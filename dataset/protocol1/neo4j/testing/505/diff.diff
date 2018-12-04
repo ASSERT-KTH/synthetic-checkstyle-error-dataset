@@ -1,0 +1,4 @@
+91c91
+<         assertCanEncode( "+,0123456789' -" );
+---
+>         assertCanEncode( "+,0123456789' -" 	);

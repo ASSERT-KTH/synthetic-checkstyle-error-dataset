@@ -1,0 +1,5 @@
+1042c1042,1043
+<     public static final Setting<String> bolt_ssl_policy = setting( "bolt.ssl_policy", STRING, LEGACY_POLICY_NAME );
+---
+>     
+> public static final Setting<String> bolt_ssl_policy = setting( "bolt.ssl_policy", STRING, LEGACY_POLICY_NAME );

@@ -1,0 +1,4 @@
+187c187
+<         inOrder.verify( txApplier3 ).visitRelationshipTypeTokenCommand( cmd );
+---
+>         inOrder.verify( txApplier3 ).visitRelationshipTypeTokenCommand ( cmd );

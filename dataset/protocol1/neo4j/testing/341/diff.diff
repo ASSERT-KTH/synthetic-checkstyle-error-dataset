@@ -1,0 +1,5 @@
+35,36c35
+<     public abstract int valueSize();
+< }
+---
+>     public abstract int valueSize();}

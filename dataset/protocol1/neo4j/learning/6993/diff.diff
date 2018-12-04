@@ -1,0 +1,5 @@
+106,107c106
+<         assertThat( internalLog.isFile(), is( true ) );
+<         assertThat( internalLog.length(), greaterThan( 0L ) );
+---
+>         assertThat( internalLog.isFile(), is( true ) );        assertThat( internalLog.length(), greaterThan( 0L ) );

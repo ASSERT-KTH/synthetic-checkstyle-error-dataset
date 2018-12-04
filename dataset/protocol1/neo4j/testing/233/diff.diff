@@ -1,0 +1,4 @@
+65c65
+<         SimpleTriggerInfo that = (SimpleTriggerInfo) o;
+---
+>         SimpleTriggerInfo that 	= (SimpleTriggerInfo) o;

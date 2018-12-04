@@ -1,0 +1,5 @@
+24c24,25
+<     void visitDegree( int type, long outgoing, long incoming );
+---
+>     void visitDegree( int type, long outgoing, long incoming 
+> );

@@ -1,0 +1,5 @@
+40c40,41
+<     private CloseTrackingIndexReader reader = new CloseTrackingIndexReader();
+---
+>     private CloseTrackingIndexReader reader 
+> = new CloseTrackingIndexReader();

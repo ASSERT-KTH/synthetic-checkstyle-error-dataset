@@ -1,0 +1,5 @@
+103,104c103
+<                        ", last checkpoint was made in version " + upToVersion;
+<             }
+---
+>                        ", last checkpoint was made in version " + upToVersion;            }

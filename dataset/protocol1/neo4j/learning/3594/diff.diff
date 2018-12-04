@@ -1,0 +1,4 @@
+24c24
+<     boolean safeToProcessInAnyState();
+---
+>     	boolean safeToProcessInAnyState();

@@ -1,0 +1,5 @@
+25,26c25
+<  * A proper response to a caught exception of this type is to cancel the unit of work that produced
+<  * this exception and retry the unit of work again, as a whole.
+---
+>  * A proper response to a caught exception of this type is to cancel the unit of work that produced * this exception and retry the unit of work again, as a whole.

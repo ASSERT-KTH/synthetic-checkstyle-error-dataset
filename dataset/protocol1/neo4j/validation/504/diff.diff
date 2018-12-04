@@ -1,0 +1,4 @@
+41c41
+<     long acquireNewId( long stableGeneration, long unstableGeneration ) throws IOException;
+---
+>     long acquireNewId( long stableGeneration, long 	unstableGeneration ) throws IOException;

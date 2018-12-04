@@ -1,0 +1,5 @@
+92c92,93
+<     public abstract IdMapper idMapper( NumberArrayFactory numberArrayFactory, Groups groups );
+---
+>     public abstract IdMapper 
+> idMapper( NumberArrayFactory numberArrayFactory, Groups groups );

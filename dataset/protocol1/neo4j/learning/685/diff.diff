@@ -1,0 +1,4 @@
+142c142
+<             assertNotNull( "Expected tx begin to throw TransactionFailureException when tx manager breaks.",
+---
+>             assertNotNull( 	"Expected tx begin to throw TransactionFailureException when tx manager breaks.",

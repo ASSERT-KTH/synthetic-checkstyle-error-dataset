@@ -1,0 +1,5 @@
+54,55c54
+<             final MemoryBlock block = decorator.allocate( 128, tracker );
+<             blocks.add( block );
+---
+>             final MemoryBlock block = decorator.allocate( 128, tracker );            blocks.add( block );

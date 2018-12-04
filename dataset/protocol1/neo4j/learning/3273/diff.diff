@@ -1,0 +1,5 @@
+52,53c52
+<         relationshipTypeTokenRecord.addNameRecords( getNameRecords() );
+<         return relationshipTypeTokenRecord;
+---
+>         relationshipTypeTokenRecord.addNameRecords( getNameRecords() );        return relationshipTypeTokenRecord;

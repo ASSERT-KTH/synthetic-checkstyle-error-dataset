@@ -1,0 +1,5 @@
+125,126c125
+<         assertEquals( nodeCount, cache.prepare( 0 ) );
+<         boolean thereAreMoreGroups = true;
+---
+>         assertEquals( nodeCount, cache.prepare( 0 ) );        boolean thereAreMoreGroups = true;

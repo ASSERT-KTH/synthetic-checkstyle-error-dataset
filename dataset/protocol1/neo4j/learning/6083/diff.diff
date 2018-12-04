@@ -1,0 +1,4 @@
+26c26
+< import org.junit.rules.RuleChain;
+---
+> import 	org.junit.rules.RuleChain;

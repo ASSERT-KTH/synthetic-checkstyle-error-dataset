@@ -1,0 +1,4 @@
+84c84
+<         public static final Setting<Integer> lucene_searcher_cache_size = GraphDatabaseSettings.lucene_searcher_cache_size;
+---
+>         public static final Setting<Integer> lucene_searcher_cache_size = GraphDatabaseSettings.	lucene_searcher_cache_size;

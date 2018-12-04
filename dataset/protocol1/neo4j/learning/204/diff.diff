@@ -1,0 +1,5 @@
+52c52,53
+<             if ( indexFilter.test( i ) )
+---
+>             
+> if ( indexFilter.test( i ) )

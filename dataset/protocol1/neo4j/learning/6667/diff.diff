@@ -1,0 +1,4 @@
+58c58
+<         when( baseMemorySupplier.getAsLong() ).thenReturn( gibiBytes( 1 ) );
+---
+>         when( baseMemorySupplier	.getAsLong() ).thenReturn( gibiBytes( 1 ) );

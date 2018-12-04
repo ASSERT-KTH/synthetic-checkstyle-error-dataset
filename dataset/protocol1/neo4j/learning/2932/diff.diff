@@ -1,0 +1,4 @@
+46c46
+<             hexChars[j * 2 + 1] = hexArray[v & 0x0F];
+---
+>             hexChars[j * 2+ 1] = hexArray[v & 0x0F];

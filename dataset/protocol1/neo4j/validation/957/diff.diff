@@ -1,0 +1,4 @@
+53c53
+<     void writeInteger( RepresentationType type, long value )
+---
+>     void writeInteger( RepresentationType type	, long value )

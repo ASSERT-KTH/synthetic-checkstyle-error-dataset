@@ -1,0 +1,5 @@
+58,59c58
+< import org.neo4j.kernel.impl.transaction.log.checkpoint.CheckPointer;
+< import org.neo4j.kernel.impl.transaction.log.checkpoint.SimpleTriggerInfo;
+---
+> import org.neo4j.kernel.impl.transaction.log.checkpoint.CheckPointer;import org.neo4j.kernel.impl.transaction.log.checkpoint.SimpleTriggerInfo;

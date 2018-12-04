@@ -1,0 +1,5 @@
+64c64,65
+<         return buf.readLong();
+---
+>         return buf.readLong
+> ();

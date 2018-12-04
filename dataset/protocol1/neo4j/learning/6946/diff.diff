@@ -1,0 +1,4 @@
+57c57
+<             boolean success = context.resetMachine();
+---
+>             boolean success = context.resetMachine ();

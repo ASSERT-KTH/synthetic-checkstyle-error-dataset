@@ -1,0 +1,4 @@
+39c39
+< public class SabotageNativeIndex implements DatabaseRule.RestartAction
+---
+> 	public class SabotageNativeIndex implements DatabaseRule.RestartAction

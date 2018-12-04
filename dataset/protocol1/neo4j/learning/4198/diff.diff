@@ -1,0 +1,4 @@
+40c40
+<         return new Statement()
+---
+>         return 	new Statement()

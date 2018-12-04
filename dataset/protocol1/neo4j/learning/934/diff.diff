@@ -1,0 +1,4 @@
+48c48
+<         DuplicatingLog log = logProvider.getLog( "test context" );
+---
+>         DuplicatingLog log = logProvider.	getLog( "test context" );

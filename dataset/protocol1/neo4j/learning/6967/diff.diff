@@ -1,0 +1,5 @@
+30,31c30
+<     FileMapping( File file, MuninnPagedFile pagedFile )
+<     {
+---
+>     FileMapping( File file, MuninnPagedFile pagedFile )    {

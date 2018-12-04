@@ -1,0 +1,4 @@
+51c51
+<         verify( response ).addHeader( "X-Frame-Options", "DENY" );
+---
+>         verify( response ).addHeader( "X-Frame-Options", "DENY" )	;

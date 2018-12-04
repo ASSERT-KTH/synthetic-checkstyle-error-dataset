@@ -1,0 +1,5 @@
+88c88,89
+<             throw new IllegalStateException( "Message has already been started, index: " + currentMessageStartIndex );
+---
+>             
+> throw new IllegalStateException( "Message has already been started, index: " + currentMessageStartIndex );

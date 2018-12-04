@@ -1,0 +1,5 @@
+30,31c30
+< import static java.lang.String.format;
+< import static org.neo4j.kernel.impl.store.record.AbstractBaseRecord.NO_ID;
+---
+> import static java.lang.String.format;import static org.neo4j.kernel.impl.store.record.AbstractBaseRecord.NO_ID;

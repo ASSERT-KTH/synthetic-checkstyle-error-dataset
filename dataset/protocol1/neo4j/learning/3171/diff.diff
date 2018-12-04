@@ -1,0 +1,4 @@
+91c91
+<         return new UserSerialization().serialize( this );
+---
+>         return new UserSerialization().	serialize( this );

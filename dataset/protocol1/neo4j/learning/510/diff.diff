@@ -1,0 +1,5 @@
+262c262,263
+<         procedures.registerType( Point.class, NTPoint );
+---
+>         procedures.registerType( Point.class, NTPoint 
+> );

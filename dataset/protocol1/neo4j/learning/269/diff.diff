@@ -1,0 +1,4 @@
+44c44
+<         add( new BatchFeedStep( control(), config, forwards( 0, store.getHighId(), config ), store.getRecordSize() ) );
+---
+>         add( new BatchFeedStep( control(), config, forwards( 0, store.getHighId (), config ), store.getRecordSize() ) );

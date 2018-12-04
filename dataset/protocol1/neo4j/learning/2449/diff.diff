@@ -1,0 +1,4 @@
+80c80
+<         int[] result = new int[count];
+---
+>         int[] result =new int[count];

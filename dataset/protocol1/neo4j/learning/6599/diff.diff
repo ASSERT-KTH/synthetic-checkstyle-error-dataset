@@ -1,0 +1,4 @@
+81c81
+<     private final TestDirectory directory = TestDirectory.testDirectory( getClass(), fs.get() );
+---
+>     private final TestDirectory directory = TestDirectory.testDirectory( getClass(), fs.get() 	);

@@ -1,0 +1,5 @@
+111c111,112
+<             Type componentType = paramType.getActualTypeArguments()[0];
+---
+>             
+> Type componentType = paramType.getActualTypeArguments()[0];

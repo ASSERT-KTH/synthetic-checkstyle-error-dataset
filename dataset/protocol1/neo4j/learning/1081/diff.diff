@@ -1,0 +1,4 @@
+28c28
+<     MemoryTracker NONE = () -> 0;
+---
+>     MemoryTracker NONE = ()-> 0;

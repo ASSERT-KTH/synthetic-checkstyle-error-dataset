@@ -1,0 +1,4 @@
+70c70
+<         return recordFormats1.getFormatFamily().equals( recordFormats2.getFormatFamily() );
+---
+>         return recordFormats1.getFormatFamily()	.equals( recordFormats2.getFormatFamily() );

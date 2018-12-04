@@ -1,0 +1,4 @@
+75c75
+<         void accept( Collection<IndexEntryUpdate<?>> updates ) throws IndexEntryConflictException;
+---
+>         void accept(Collection<IndexEntryUpdate<?>> updates ) throws IndexEntryConflictException;

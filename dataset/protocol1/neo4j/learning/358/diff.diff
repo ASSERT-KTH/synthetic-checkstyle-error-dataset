@@ -1,0 +1,5 @@
+94c94,95
+<         return new ValueContext( value ).indexNumeric();
+---
+>         return new ValueContext( value ).indexNumeric
+> ();

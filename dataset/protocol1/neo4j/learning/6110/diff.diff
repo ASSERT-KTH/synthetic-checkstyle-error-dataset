@@ -1,0 +1,4 @@
+79c79
+<     public int[] getCacheSlotSizes()
+---
+>     public int[	] getCacheSlotSizes()

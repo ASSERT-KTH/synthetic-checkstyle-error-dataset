@@ -1,0 +1,5 @@
+98,99c98
+<     private final byte version;
+<     private final LogEntryParser<LogEntry>[] entryTypes;
+---
+>     private final byte version;    private final LogEntryParser<LogEntry>[] entryTypes;

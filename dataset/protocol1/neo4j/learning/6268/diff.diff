@@ -1,0 +1,4 @@
+81c81
+<             throwOneOf( OutOfMemoryError.class, NullPointerException.class );
+---
+>             throwOneOf( OutOfMemoryError	.class, NullPointerException.class );

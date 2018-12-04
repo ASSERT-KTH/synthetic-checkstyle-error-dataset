@@ -1,0 +1,5 @@
+215c215,216
+<                 genericMap( new LinkedHashMap<>(), "type", property.getGeometryType(), "coordinates",
+---
+>                 genericMap
+> ( new LinkedHashMap<>(), "type", property.getGeometryType(), "coordinates",

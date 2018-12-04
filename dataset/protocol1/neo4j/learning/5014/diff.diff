@@ -1,0 +1,4 @@
+35c35
+<         super( STANDARD_ANALYZER_NAME );
+---
+>         super ( STANDARD_ANALYZER_NAME );

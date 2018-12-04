@@ -1,0 +1,5 @@
+105c105,106
+<     static ScoreEntityIterator mergeIterators( List<ScoreEntityIterator> iterators )
+---
+>     static ScoreEntityIterator mergeIterators( List<ScoreEntityIterator> iterators 
+> )

@@ -1,0 +1,5 @@
+42c42,43
+<     ConstraintDefinition createNodeKeyConstraint( IndexDefinition indexDefinition );
+---
+>     
+> ConstraintDefinition createNodeKeyConstraint( IndexDefinition indexDefinition );

@@ -1,0 +1,4 @@
+93c93
+<             Value from = random.randomValues().nextValueOfType( type );
+---
+>             Value from 	= random.randomValues().nextValueOfType( type );

@@ -1,0 +1,5 @@
+291,292c291
+<                 terminate();
+<                 throw e;
+---
+>                 terminate();                throw e;

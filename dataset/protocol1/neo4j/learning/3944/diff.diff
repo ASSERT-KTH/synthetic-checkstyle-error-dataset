@@ -1,0 +1,4 @@
+173c173
+<             REPORT extends ConsistencyReport.PrimitiveConsistencyReport> Check<RECORD,REPORT> noCheck()
+---
+>             REPORT extends ConsistencyReport.PrimitiveConsistencyReport> Check<RECORD,	REPORT> noCheck()

@@ -1,0 +1,4 @@
+38c38
+<     public EventLoopGroup createEventLoopGroup( int numberOfThreads, ThreadFactory threadFactory )
+---
+>     public EventLoopGroup 	createEventLoopGroup( int numberOfThreads, ThreadFactory threadFactory )

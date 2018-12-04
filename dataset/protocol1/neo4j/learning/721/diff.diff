@@ -1,0 +1,4 @@
+61c61
+<                                                   : PropertyType.getPropertyTypeOrThrow( valueBlocks[0] );
+---
+>                                                   	: PropertyType.getPropertyTypeOrThrow( valueBlocks[0] );

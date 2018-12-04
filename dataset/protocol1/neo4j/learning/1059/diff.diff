@@ -1,0 +1,5 @@
+61c61,62
+<     void removeRelationship( long entity, String key, long startNode, long endNode );
+---
+>     void removeRelationship( long 
+> entity, String key, long startNode, long endNode );

@@ -1,0 +1,5 @@
+52c52,53
+<         CompiledIndexUtils.indexSeek( read, mock( CursorFactory.class ), index, "hello" );
+---
+>         CompiledIndexUtils.indexSeek( read, mock( CursorFactory.class ), index, 
+> "hello" );

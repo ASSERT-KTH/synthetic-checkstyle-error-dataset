@@ -1,0 +1,4 @@
+53c53
+<                 Iterables.count( new ExceptionHandlingIterable( () -> new Iterator()
+---
+>                 Iterables	.count( new ExceptionHandlingIterable( () -> new Iterator()

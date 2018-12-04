@@ -1,0 +1,5 @@
+207,208c207
+<         private long sendTime;
+<         private long ticket;
+---
+>         private long sendTime;        private long ticket;

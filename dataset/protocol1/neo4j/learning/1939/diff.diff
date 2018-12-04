@@ -1,0 +1,5 @@
+408,409c408
+<             ResourceIterator<Node> result = graph.findNodes( LABEL1, "name", "Stefan" );
+<             assertEquals( asSet( node1, node2 ), asSet( result ) );
+---
+>             ResourceIterator<Node> result = graph.findNodes( LABEL1, "name", "Stefan" );            assertEquals( asSet( node1, node2 ), asSet( result ) );

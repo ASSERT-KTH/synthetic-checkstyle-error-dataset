@@ -1,0 +1,4 @@
+45c45
+<                 functionVisitor.validateName( executableElement ),
+---
+>                 functionVisitor	.validateName( executableElement ),

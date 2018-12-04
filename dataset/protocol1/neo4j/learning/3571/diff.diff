@@ -1,0 +1,4 @@
+118c118
+<                     TIME_ZONE_STRING_TO_SHORT.put( line, (short) (TIME_ZONE_SHORT_TO_STRING.size() - 1) );
+---
+>                     TIME_ZONE_STRING_TO_SHORT.put( line, (short) (TIME_ZONE_SHORT_TO_STRING.size(	) - 1) );

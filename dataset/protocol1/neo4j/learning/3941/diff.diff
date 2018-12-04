@@ -1,0 +1,5 @@
+86c86,87
+<         lockManager.getWriteLock( LockTracer.NONE, node, lockTransaction );
+---
+>         lockManager.getWriteLock( LockTracer.NONE, node, 
+> lockTransaction );

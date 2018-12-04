@@ -1,0 +1,5 @@
+66c66,67
+<                 TimeValue.time( 43_200_000_000_000L, ZoneOffset.UTC ), // Noon
+---
+>                 TimeValue.time( 
+> 43_200_000_000_000L, ZoneOffset.UTC ), // Noon

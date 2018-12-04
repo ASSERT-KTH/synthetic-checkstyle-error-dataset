@@ -1,0 +1,5 @@
+61,62c61
+<     private static final int DATA_SIZE = 100;
+<     protected static final long NULL = Record.NULL_REFERENCE.intValue();
+---
+>     private static final int DATA_SIZE = 100;    protected static final long NULL = Record.NULL_REFERENCE.intValue();

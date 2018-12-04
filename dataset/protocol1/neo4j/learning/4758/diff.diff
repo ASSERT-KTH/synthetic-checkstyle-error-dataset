@@ -1,0 +1,4 @@
+92c92
+<         public ProgressListener progressForPart( String part, long totalCount )
+---
+>         public ProgressListener progressForPart( String part, long totalCount 	)

@@ -1,0 +1,4 @@
+34c34
+<     public IndexPopulationFailedKernelException( String indexUserDescription, String message )
+---
+>     public IndexPopulationFailedKernelException(String indexUserDescription, String message )

@@ -1,0 +1,4 @@
+22c22
+< import javax.ws.rs.ext.Provider;
+---
+> import javax.	ws.rs.ext.Provider;

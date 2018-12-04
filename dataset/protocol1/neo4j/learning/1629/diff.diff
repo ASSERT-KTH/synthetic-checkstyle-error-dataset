@@ -1,0 +1,4 @@
+420c420
+<                 allShortestPathsHasBeenFound = queue.isEmpty()
+---
+>                 allShortestPathsHasBeenFound 	= queue.isEmpty()

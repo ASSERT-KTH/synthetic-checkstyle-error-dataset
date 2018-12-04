@@ -1,0 +1,5 @@
+28,29c28
+<     private long byteOffset;
+<     private boolean specified;
+---
+>     private long byteOffset;    private boolean specified;

@@ -1,0 +1,4 @@
+40c40
+<     File[] logFiles();
+---
+>     File[] logFiles()	;

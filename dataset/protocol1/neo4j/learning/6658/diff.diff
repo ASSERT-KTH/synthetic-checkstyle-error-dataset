@@ -1,0 +1,5 @@
+89c89,90
+<                     byte[] dataHeader = PropertyType.ARRAY.readDynamicRecordHeader( data );
+---
+>                     byte[] 
+> dataHeader = PropertyType.ARRAY.readDynamicRecordHeader( data );

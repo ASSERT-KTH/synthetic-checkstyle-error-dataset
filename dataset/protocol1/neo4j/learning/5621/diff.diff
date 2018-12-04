@@ -1,0 +1,4 @@
+50c50
+<         when( store.getStorageFile() ).thenReturn( new File( "node-store" ) );
+---
+>         when( store.getStorageFile() ).thenReturn( 	new File( "node-store" ) );

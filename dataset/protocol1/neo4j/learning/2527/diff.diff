@@ -1,0 +1,4 @@
+72c72
+<                     closeListener.isTransactionClosed() );
+---
+>                     closeListener.isTransactionClosed(	) );

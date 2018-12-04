@@ -1,0 +1,4 @@
+106c106
+<         Path txLogsDestination = testDirectory.directory( "txLogsDestination" ).toPath();
+---
+>         Path 	txLogsDestination = testDirectory.directory( "txLogsDestination" ).toPath();

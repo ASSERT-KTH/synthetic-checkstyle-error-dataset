@@ -1,0 +1,5 @@
+20c20,21
+< package org.neo4j.kernel.impl.transaction.log.pruning;
+---
+> package 
+> org.neo4j.kernel.impl.transaction.log.pruning;

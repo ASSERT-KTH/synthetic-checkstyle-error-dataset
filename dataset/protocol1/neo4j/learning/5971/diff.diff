@@ -1,0 +1,4 @@
+28c28
+< public interface PluginManager extends ExtensionInjector, PluginInvocator
+---
+> public interface 	PluginManager extends ExtensionInjector, PluginInvocator

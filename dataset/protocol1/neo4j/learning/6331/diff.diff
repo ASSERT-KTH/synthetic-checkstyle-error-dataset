@@ -1,0 +1,4 @@
+28c28
+< import org.neo4j.kernel.impl.transaction.log.TransactionAppender;
+---
+> import org.neo4j.kernel.impl.transaction	.log.TransactionAppender;

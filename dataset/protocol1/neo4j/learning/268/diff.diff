@@ -1,0 +1,5 @@
+404,405c404
+<             assertEquals( 1, e.getSuppressed().length );
+<             assertEquals( stopRuntimeException, e.getSuppressed()[0].getCause() );
+---
+>             assertEquals( 1, e.getSuppressed().length );            assertEquals( stopRuntimeException, e.getSuppressed()[0].getCause() );

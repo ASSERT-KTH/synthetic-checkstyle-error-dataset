@@ -1,0 +1,4 @@
+109c109
+<         Authentication authentication = createAuthentication();
+---
+>         Authentication authentication =createAuthentication();

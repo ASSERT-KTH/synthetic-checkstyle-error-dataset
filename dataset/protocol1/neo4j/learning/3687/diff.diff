@@ -1,0 +1,5 @@
+105c105,106
+<                 migrator.apply( stringMap( "unsupported.dbms.executiontime_limit.time", "120s" ), getLog() );
+---
+>                 migrator.apply( stringMap( "unsupported.dbms.executiontime_limit.time", "120s" 
+> ), getLog() );

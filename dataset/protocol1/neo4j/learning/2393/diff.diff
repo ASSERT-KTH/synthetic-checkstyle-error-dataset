@@ -1,0 +1,4 @@
+110c110
+<         queue = new PriorityQueue<>( 11, ( o1, o2 ) -> costComparator.compare( o1.getCost(), o2.getCost() ) );
+---
+>         queue = new PriorityQueue<>( 11, ( o1, o2 ) -> costComparator.compare( o1.	getCost(), o2.getCost() ) );

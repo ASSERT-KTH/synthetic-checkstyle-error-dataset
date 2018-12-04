@@ -1,0 +1,5 @@
+44,45c44
+<     private final IndexDirectoryStructure directoryStructure;
+<     private final SpaceFillingCurveConfiguration configuration;
+---
+>     private final IndexDirectoryStructure directoryStructure;    private final SpaceFillingCurveConfiguration configuration;

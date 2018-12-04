@@ -1,0 +1,4 @@
+39c39
+<     public AcquireLockTimeoutException( String message, Status statusCode )
+---
+>     public AcquireLockTimeoutException ( String message, Status statusCode )

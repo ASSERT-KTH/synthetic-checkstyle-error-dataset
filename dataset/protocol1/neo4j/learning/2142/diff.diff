@@ -1,0 +1,5 @@
+58,59c58
+<                 throw new IllegalStateException( "Invalid value " + value + ", max is " + maxValue );
+<             }
+---
+>                 throw new IllegalStateException( "Invalid value " + value + ", max is " + maxValue );            }

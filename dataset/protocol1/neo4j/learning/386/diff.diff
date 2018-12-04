@@ -1,0 +1,4 @@
+85c85
+<     public RecordFormat<RelationshipGroupRecord> relationshipGroup()
+---
+>     public RecordFormat <RelationshipGroupRecord> relationshipGroup()

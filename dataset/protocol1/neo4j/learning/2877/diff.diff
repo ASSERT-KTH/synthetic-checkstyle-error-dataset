@@ -1,0 +1,5 @@
+151c151,152
+<         return (side * sideSize()) + (labelId * itemsPerLabel + relationshipTypeId);
+---
+>         return (side * sideSize()) + (labelId * itemsPerLabel 
+> + relationshipTypeId);

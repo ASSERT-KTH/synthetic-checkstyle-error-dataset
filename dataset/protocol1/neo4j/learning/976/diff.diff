@@ -1,0 +1,4 @@
+93c93
+<         verify( report ).emptyName( name );
+---
+>         verify( report ).emptyName ( name );

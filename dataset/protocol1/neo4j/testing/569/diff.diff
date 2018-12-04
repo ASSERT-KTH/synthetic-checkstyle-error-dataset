@@ -1,0 +1,5 @@
+54c54,55
+<     public StringAggregator shouldNotHaveParameters( @Name( "hello" ) String hello )
+---
+>     public StringAggregator shouldNotHaveParameters( 
+> @Name( "hello" ) String hello )

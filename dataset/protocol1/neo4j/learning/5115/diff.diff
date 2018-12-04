@@ -1,0 +1,4 @@
+43c43
+<     public void shouldDisallowDirectoryListings() throws Exception
+---
+>     public void shouldDisallowDirectoryListings () throws Exception

@@ -1,0 +1,4 @@
+70c70
+<     public static BoltStateMachine newMachineWithTransaction() throws AuthenticationException, BoltConnectionFatality
+---
+>     public static BoltStateMachine newMachineWithTransaction () throws AuthenticationException, BoltConnectionFatality

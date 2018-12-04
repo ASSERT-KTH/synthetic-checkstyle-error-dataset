@@ -1,0 +1,4 @@
+90c90
+<         if ( other == null || !(other instanceof PathValue) )
+---
+>         if ( other == null || !(other instanceof 	PathValue) )

@@ -1,0 +1,4 @@
+44c44
+<         provider = new LuceneBatchInserterIndexProviderNewImpl( inserter );
+---
+>         provider = new LuceneBatchInserterIndexProviderNewImpl ( inserter );

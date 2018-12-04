@@ -1,0 +1,5 @@
+600c600,601
+<         Duration duration = Duration.ofSeconds( 73 );
+---
+>         Duration duration = Duration.ofSeconds
+> ( 73 );

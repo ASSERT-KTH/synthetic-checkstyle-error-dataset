@@ -1,0 +1,4 @@
+35c35
+<         return JSONPrettifier.parse( json );
+---
+>         return JSONPrettifier.parse ( json );

@@ -1,0 +1,4 @@
+27c27
+<     public IndexCountsRemover( final IndexStoreView storeView, final long indexId )
+---
+>     public 	IndexCountsRemover( final IndexStoreView storeView, final long indexId )

@@ -1,0 +1,4 @@
+104c104
+<     public static <T extends AutoCloseable> void closeAllSilently( T... closeables )
+---
+>     public static <T extends AutoCloseable> 	void closeAllSilently( T... closeables )

@@ -1,0 +1,4 @@
+39c39
+<     private MutableDiffSetsImpl( Set<T> addedElements, Set<T> removedElements )
+---
+>     private MutableDiffSetsImpl( Set<T> addedElements, Set<T>removedElements )

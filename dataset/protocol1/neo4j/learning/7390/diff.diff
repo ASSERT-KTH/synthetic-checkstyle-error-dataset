@@ -1,0 +1,5 @@
+33,34c33
+<     abstract class Adapter<RECORD> implements RecordProcessor<RECORD>
+<     {
+---
+>     abstract class Adapter<RECORD> implements RecordProcessor<RECORD>    {

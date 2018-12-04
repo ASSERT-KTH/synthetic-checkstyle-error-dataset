@@ -1,0 +1,4 @@
+1109c1109
+<             Value value = access.relationshipProperty( relationshipValue.id(), access.propertyKey( key ) );
+---
+>             Value value = access.relationshipProperty( relationshipValue.id(), access.propertyKey( key ) 	);

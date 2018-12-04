@@ -1,0 +1,4 @@
+496c496
+<         public boolean handle( CommandVisitor handler ) throws IOException
+---
+>         public boolean handle ( CommandVisitor handler ) throws IOException

@@ -1,0 +1,4 @@
+123c123
+<         try ( ZipInputStream zipInputStream = new ZipInputStream( new BufferedInputStream( new FileInputStream( archiveFile ) ) ) )
+---
+>         try ( ZipInputStream zipInputStream= new ZipInputStream( new BufferedInputStream( new FileInputStream( archiveFile ) ) ) )

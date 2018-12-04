@@ -1,0 +1,5 @@
+43c43,44
+<     static final String PROPERTY_ARRAY_STORE = "neostore.propertystore.db.arrays";
+---
+>     static 
+> final String PROPERTY_ARRAY_STORE = "neostore.propertystore.db.arrays";

@@ -1,0 +1,5 @@
+58,59c58
+<         nodeStore.updateRecord( node( 2, false, 0, 0 ) );
+<         nodeStore.setHighestPossibleIdInUse( 2 );
+---
+>         nodeStore.updateRecord( node( 2, false, 0, 0 ) );        nodeStore.setHighestPossibleIdInUse( 2 );

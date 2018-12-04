@@ -1,0 +1,5 @@
+169c169,170
+<                             item -> item instanceof IndexDefineCommand
+---
+>                             item 
+> -> item instanceof IndexDefineCommand

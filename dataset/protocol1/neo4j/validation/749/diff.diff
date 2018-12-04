@@ -1,0 +1,5 @@
+247,248c247
+<         }
+<         if ( userLogFileStream != null )
+---
+>         }        if ( userLogFileStream != null )

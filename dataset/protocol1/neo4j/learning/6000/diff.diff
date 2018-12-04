@@ -1,0 +1,4 @@
+26c26
+<     void fail( Exception failure );
+---
+>     void fail(Exception failure );

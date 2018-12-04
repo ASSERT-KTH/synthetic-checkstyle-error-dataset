@@ -1,0 +1,5 @@
+100c100,101
+<         if ( name == null || name.length() == 0 )
+---
+>         if ( name 
+> == null || name.length() == 0 )

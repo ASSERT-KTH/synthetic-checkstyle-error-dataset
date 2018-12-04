@@ -1,0 +1,4 @@
+34c34
+<         super( capableIndexDescriptor, null );
+---
+>         super ( capableIndexDescriptor, null );

@@ -1,0 +1,4 @@
+52c52
+<             while ( cursor.shouldRetry() );
+---
+>             while( cursor.shouldRetry() );

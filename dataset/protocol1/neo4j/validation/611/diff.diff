@@ -1,0 +1,4 @@
+25c25
+< public interface StorageRelationshipCursor extends RelationshipVisitor<RuntimeException>, StorageEntityCursor
+---
+> public interface StorageRelationshipCursor extends RelationshipVisitor <RuntimeException>, StorageEntityCursor

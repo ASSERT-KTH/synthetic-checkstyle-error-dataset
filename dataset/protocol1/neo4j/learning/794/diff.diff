@@ -1,0 +1,4 @@
+22c22
+< public class InvalidIdGeneratorException extends StoreFailureException
+---
+> public class InvalidIdGeneratorException extends 	StoreFailureException

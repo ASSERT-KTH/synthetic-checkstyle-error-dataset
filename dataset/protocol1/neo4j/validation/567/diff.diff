@@ -1,0 +1,5 @@
+115c115,116
+<         private FulltextIndexUpdater( boolean idempotent, boolean refresh )
+---
+>         private 
+> FulltextIndexUpdater( boolean idempotent, boolean refresh )

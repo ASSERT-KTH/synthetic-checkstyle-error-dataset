@@ -1,0 +1,4 @@
+51c51
+<     public TransactionExecutionStatistic( KernelTransactionImplementation tx, SystemNanoClock clock, long startTimeMillis )
+---
+>     public TransactionExecutionStatistic( KernelTransactionImplementation tx, SystemNanoClock 	clock, long startTimeMillis )

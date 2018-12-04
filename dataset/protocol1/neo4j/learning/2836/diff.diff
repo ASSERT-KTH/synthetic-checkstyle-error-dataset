@@ -1,0 +1,4 @@
+62c62
+<         return new DefaultCheckPointerTracer( monitor, jobScheduler );
+---
+>         return new DefaultCheckPointerTracer(monitor, jobScheduler );

@@ -1,0 +1,4 @@
+28c28
+< public interface OutsideWorld extends Closeable
+---
+> public interface OutsideWorld 	extends Closeable

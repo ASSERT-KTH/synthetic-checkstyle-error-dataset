@@ -1,0 +1,5 @@
+151,152c151
+<         assert !hasLoadedAdditionalProperties : "Calling propertiesChanged() is not valid after non-changed " +
+<                                                 "properties have already been loaded.";
+---
+>         assert !hasLoadedAdditionalProperties : "Calling propertiesChanged() is not valid after non-changed " +                                                "properties have already been loaded.";

@@ -1,0 +1,4 @@
+135c135
+<         ConsistencyCheckService service = mock( ConsistencyCheckService.class );
+---
+>         ConsistencyCheckService service =mock( ConsistencyCheckService.class );

@@ -1,0 +1,5 @@
+192,193c192
+<             node.setProperty( propertyKey, value );
+<             tx.success();
+---
+>             node.setProperty( propertyKey, value );            tx.success();

@@ -1,0 +1,4 @@
+24c24
+<     void print( LinePrinter out );
+---
+>     void print ( LinePrinter out );

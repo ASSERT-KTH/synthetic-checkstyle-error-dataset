@@ -1,0 +1,5 @@
+26c26,27
+< import org.neo4j.internal.kernel.api.IndexQuery.RangePredicate;
+---
+> import 
+> org.neo4j.internal.kernel.api.IndexQuery.RangePredicate;

@@ -1,0 +1,4 @@
+40c40
+<         String header = HTTP.basicAuthHeader( username, password );
+---
+>         String header= HTTP.basicAuthHeader( username, password );

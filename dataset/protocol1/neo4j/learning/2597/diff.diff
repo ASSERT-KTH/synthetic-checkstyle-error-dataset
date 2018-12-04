@@ -1,0 +1,4 @@
+42c42
+<             this.nanos = NANOSECONDS.convert( time, unit );
+---
+>             this.nanos = NANOSECONDS.convert( time, 	unit );

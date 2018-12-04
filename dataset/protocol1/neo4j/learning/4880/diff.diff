@@ -1,0 +1,4 @@
+99c99
+<         updater.process( change( 4, descriptor, "before2", "after2" ) );
+---
+>         updater.process( change( 4, descriptor, "before2", 	"after2" ) );

@@ -1,0 +1,4 @@
+28c28
+<     private static final Pattern SLF4J_PLACEHOLDER = Pattern.compile( "\\{}" );
+---
+>     	private static final Pattern SLF4J_PLACEHOLDER = Pattern.compile( "\\{}" );

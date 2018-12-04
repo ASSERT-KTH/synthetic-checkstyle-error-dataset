@@ -1,0 +1,5 @@
+120c120,121
+<         assertThat( multiAfter, equalTo( multiChange.values() ) );
+---
+>         assertThat( multiAfter, equalTo( 
+> multiChange.values() ) );

@@ -1,0 +1,4 @@
+49c49
+<             totalProcessingTime.add( nanoTime() - startTime );
+---
+>             totalProcessingTime.add( nanoTime() - 	startTime );

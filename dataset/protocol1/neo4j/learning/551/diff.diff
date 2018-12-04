@@ -1,0 +1,4 @@
+35c35
+<     NativeLuceneFusionIndexProviderFactory( String key )
+---
+>     NativeLuceneFusionIndexProviderFactory(String key )

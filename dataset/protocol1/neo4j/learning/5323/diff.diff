@@ -1,0 +1,4 @@
+96c96
+<     public PluginManager getExtensionManager()
+---
+>     public PluginManager getExtensionManager ()

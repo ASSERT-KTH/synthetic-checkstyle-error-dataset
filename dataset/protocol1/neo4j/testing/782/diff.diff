@@ -1,0 +1,5 @@
+110,111c110
+<         }
+<         return Long.compare( byteOffset, o.byteOffset );
+---
+>         }        return Long.compare( byteOffset, o.byteOffset );

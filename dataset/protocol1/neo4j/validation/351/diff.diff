@@ -1,0 +1,5 @@
+70,71c70
+<         double yA = EARTH_RADIUS * cLa1 * Math.sin( longitude1 );
+<         double zA = EARTH_RADIUS * Math.sin( latitude1 );
+---
+>         double yA = EARTH_RADIUS * cLa1 * Math.sin( longitude1 );        double zA = EARTH_RADIUS * Math.sin( latitude1 );

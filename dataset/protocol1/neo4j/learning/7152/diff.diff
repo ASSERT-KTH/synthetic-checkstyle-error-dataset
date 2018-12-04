@@ -1,0 +1,4 @@
+138c138
+<         verify( report ).previousDoesNotReferenceBack( prev );
+---
+>         verify( report 	).previousDoesNotReferenceBack( prev );

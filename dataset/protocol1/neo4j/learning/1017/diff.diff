@@ -1,0 +1,4 @@
+28c28
+<     ON( new FacadeMethod<>( "IndexCreator on( String propertyKey )", self -> self.on( "property" ) ) ),
+---
+>     ON( new FacadeMethod<> ( "IndexCreator on( String propertyKey )", self -> self.on( "property" ) ) ),

@@ -1,0 +1,4 @@
+25c25
+< public class ConsistencyCheckIncompleteException extends Exception
+---
+> public class ConsistencyCheckIncompleteException 	extends Exception

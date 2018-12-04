@@ -1,0 +1,5 @@
+54,55c54
+<             version++;
+<             highestGapFreeNumber = outOfOrderQueue.pollHighestGapFree( number, metaArray );
+---
+>             version++;            highestGapFreeNumber = outOfOrderQueue.pollHighestGapFree( number, metaArray );

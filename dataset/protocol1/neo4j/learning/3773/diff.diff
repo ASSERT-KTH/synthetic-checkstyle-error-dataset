@@ -1,0 +1,4 @@
+27c27
+<     SerializeTransactionEvent NULL = () ->
+---
+>     	SerializeTransactionEvent NULL = () ->

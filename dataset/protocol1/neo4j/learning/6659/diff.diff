@@ -1,0 +1,5 @@
+26,27c26
+< import org.neo4j.kernel.impl.transaction.state.IntegrityValidator;
+< import org.neo4j.kernel.impl.transaction.state.RecordChangeSet;
+---
+> import org.neo4j.kernel.impl.transaction.state.IntegrityValidator;import org.neo4j.kernel.impl.transaction.state.RecordChangeSet;

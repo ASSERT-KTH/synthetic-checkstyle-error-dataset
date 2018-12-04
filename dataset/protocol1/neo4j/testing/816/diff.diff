@@ -1,0 +1,4 @@
+50c50
+< import org.neo4j.kernel.impl.store.MetaDataStore.Position;
+---
+> import org.neo4j.kernel.impl.store	.MetaDataStore.Position;

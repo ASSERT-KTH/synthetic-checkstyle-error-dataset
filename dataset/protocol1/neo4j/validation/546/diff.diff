@@ -1,0 +1,4 @@
+162c162
+<             throw new IllegalArgumentException( "Cannot multiply with " + numberValue );
+---
+>             throw new IllegalArgumentException( "Cannot multiply with " + 	numberValue );

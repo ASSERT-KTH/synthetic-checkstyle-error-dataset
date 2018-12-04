@@ -1,0 +1,4 @@
+771c771
+<             int label1 = tx.tokenWrite().labelGetOrCreateForName( "labe1" );
+---
+>             int label1 	= tx.tokenWrite().labelGetOrCreateForName( "labe1" );

@@ -1,0 +1,4 @@
+36c36
+<     static <E extends Exception> ThrowingAction<E> noop()
+---
+>     static <E 	extends Exception> ThrowingAction<E> noop()

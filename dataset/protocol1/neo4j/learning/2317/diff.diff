@@ -1,0 +1,5 @@
+40c40,41
+<     Log getUserLog( Class loggingClass );
+---
+>     Log 
+> getUserLog( Class loggingClass );

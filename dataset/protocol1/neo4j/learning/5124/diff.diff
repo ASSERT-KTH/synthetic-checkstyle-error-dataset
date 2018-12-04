@@ -1,0 +1,4 @@
+63c63
+<         Monitors monitors = resolver.resolveDependency( Monitors.class );
+---
+>         Monitors monitors = resolver.resolveDependency( Monitors.class 	);

@@ -1,0 +1,5 @@
+35,36c35
+< import static org.hamcrest.CoreMatchers.endsWith;
+< import static org.hamcrest.CoreMatchers.sameInstance;
+---
+> import static org.hamcrest.CoreMatchers.endsWith;import static org.hamcrest.CoreMatchers.sameInstance;

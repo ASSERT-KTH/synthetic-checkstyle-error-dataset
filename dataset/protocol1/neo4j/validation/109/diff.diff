@@ -1,0 +1,4 @@
+152c152
+<         assertEquals( "1.2.3", collector.getUdcParams().get( UdcConstants.VERSION ) );
+---
+>         assertEquals( "1.2.3", collector	.getUdcParams().get( UdcConstants.VERSION ) );

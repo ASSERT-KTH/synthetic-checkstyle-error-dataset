@@ -1,0 +1,5 @@
+51,52c51
+<         Counts counts = new DefaultCounts( 2 );
+<         counts.incAndGet( Type.activeCache, 0 );
+---
+>         Counts counts = new DefaultCounts( 2 );        counts.incAndGet( Type.activeCache, 0 );

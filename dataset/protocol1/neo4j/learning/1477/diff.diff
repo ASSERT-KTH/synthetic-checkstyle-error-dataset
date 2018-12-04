@@ -1,0 +1,5 @@
+157,158c157
+<     public void shouldAccessRelationshipLabels()
+<     {
+---
+>     public void shouldAccessRelationshipLabels()    {

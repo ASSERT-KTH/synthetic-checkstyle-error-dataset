@@ -1,0 +1,5 @@
+301c301,302
+<         byte inUseFlag = channel.get();
+---
+>         byte 
+> inUseFlag = channel.get();

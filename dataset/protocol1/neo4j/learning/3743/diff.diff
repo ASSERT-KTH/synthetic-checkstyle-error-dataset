@@ -1,0 +1,5 @@
+66,67c66
+<         visitor.visitAllNodesCount( 135242L );
+<         visitor.visitNodeCount( 1, "Person", 135213L );
+---
+>         visitor.visitAllNodesCount( 135242L );        visitor.visitNodeCount( 1, "Person", 135213L );

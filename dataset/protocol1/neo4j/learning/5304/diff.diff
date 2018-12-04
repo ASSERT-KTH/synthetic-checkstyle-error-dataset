@@ -1,0 +1,4 @@
+225c225
+<     public int getCurrentPageSize()
+---
+>     public int getCurrentPageSize(	)

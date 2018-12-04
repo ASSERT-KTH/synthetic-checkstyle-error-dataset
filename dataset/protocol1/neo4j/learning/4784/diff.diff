@@ -1,0 +1,5 @@
+74c74,75
+<         allRels = (ResourceIterable<Relationship>) firstNode.getRelationships();
+---
+>         allRels = (ResourceIterable<Relationship>) firstNode.getRelationships
+> ();

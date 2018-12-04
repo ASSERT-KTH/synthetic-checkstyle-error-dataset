@@ -1,0 +1,4 @@
+53c53
+<         String labelName = escapeLabelOrRelTyp( tokenNameLookup.labelGetName( schema.getLabelId() ) );
+---
+>         String labelName =escapeLabelOrRelTyp( tokenNameLookup.labelGetName( schema.getLabelId() ) );

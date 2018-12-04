@@ -1,0 +1,4 @@
+136c136
+<         try ( RealOutsideWorld outsideWorld = new RealOutsideWorld() )
+---
+>         try( RealOutsideWorld outsideWorld = new RealOutsideWorld() )

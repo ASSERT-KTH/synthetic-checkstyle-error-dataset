@@ -1,0 +1,5 @@
+499c499,500
+<             String jar = main.getProtectionDomain().getCodeSource().getLocation().getPath();
+---
+>             String jar = main.getProtectionDomain().getCodeSource().getLocation().getPath
+> ();

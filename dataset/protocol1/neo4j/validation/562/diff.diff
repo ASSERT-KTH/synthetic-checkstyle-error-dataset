@@ -1,0 +1,4 @@
+39c39
+<         int bytesLeft = itemSize;
+---
+>         int bytesLeft =itemSize;

@@ -1,0 +1,4 @@
+59c59
+<         IndexSamplingJobQueue<Long> jobQueue = new IndexSamplingJobQueue<>( samplingUpdatePredicate );
+---
+>         IndexSamplingJobQueue<Long> jobQueue 	= new IndexSamplingJobQueue<>( samplingUpdatePredicate );

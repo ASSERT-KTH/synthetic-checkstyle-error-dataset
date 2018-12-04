@@ -1,0 +1,4 @@
+126c126
+<     Value asValue( GenericKey state )
+---
+>     	Value asValue( GenericKey state )

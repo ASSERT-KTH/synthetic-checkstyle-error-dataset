@@ -1,0 +1,4 @@
+40c40
+<     public void enqueued( BoltConnection to, Job job )
+---
+>     public 	void enqueued( BoltConnection to, Job job )

@@ -1,0 +1,4 @@
+55c55
+<         IOCursor<String> delegate = new ArrayIOCursor<>( strings );
+---
+>         IOCursor<String> delegate = new ArrayIOCursor<>( strings);

@@ -1,0 +1,5 @@
+157,158c157
+<     void shouldFailWhenMultipleBookmarksHaveExtraneousTrailingCharacters()
+<     {
+---
+>     void shouldFailWhenMultipleBookmarksHaveExtraneousTrailingCharacters()    {

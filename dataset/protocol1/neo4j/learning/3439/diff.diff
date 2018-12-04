@@ -1,0 +1,4 @@
+50c50
+<         int labelId1;
+---
+>         int labelId1	;

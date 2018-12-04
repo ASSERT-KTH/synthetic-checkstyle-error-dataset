@@ -1,0 +1,4 @@
+592c592
+<         for ( TxLockElement tle : txLockElementMap.values() )
+---
+>         for ( TxLockElement tle : txLockElementMap	.values() )

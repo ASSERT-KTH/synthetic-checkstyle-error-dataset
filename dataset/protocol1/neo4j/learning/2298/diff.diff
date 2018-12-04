@@ -1,0 +1,4 @@
+42c42
+<         PrimitiveLongResourceIterator iterator = PrimitiveLongResourceCollections.iterator( resource, 1, 2, 3, 4 );
+---
+>         PrimitiveLongResourceIterator iterator = PrimitiveLongResourceCollections.iterator( resource, 1, 2, 3, 	4 );

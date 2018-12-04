@@ -1,0 +1,4 @@
+82c82
+<         int percent = (int) (totalRead * 100 / size);
+---
+>         int percent = (int) (totalRead * 100 / 	size);

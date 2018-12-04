@@ -1,0 +1,4 @@
+69c69
+<             single( db.schema().getConstraints( label ).iterator() ).drop();
+---
+>             single( db.schema().getConstraints( label ).iterator() 	).drop();

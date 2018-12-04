@@ -1,0 +1,5 @@
+216,217c216
+<         public boolean visitRelationshipCommand( RelationshipCommand command ) throws IOException
+<         {
+---
+>         public boolean visitRelationshipCommand( RelationshipCommand command ) throws IOException        {

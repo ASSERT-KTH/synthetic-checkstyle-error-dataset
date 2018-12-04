@@ -1,0 +1,4 @@
+89c89
+<         assertThat( data.get( "password_change" ).asText(), equalTo( passwordURL( "neo4j" ) ) );
+---
+>         assertThat( data.get( "password_change" ).asText(), equalTo( passwordURL( "neo4j" ) ) )	;

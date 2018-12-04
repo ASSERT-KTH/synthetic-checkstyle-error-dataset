@@ -1,0 +1,5 @@
+26c26,27
+<     public UriPathWildcardMatcher( String uriPath )
+---
+>     public UriPathWildcardMatcher( String uriPath 
+> )

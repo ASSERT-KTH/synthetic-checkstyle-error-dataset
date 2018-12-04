@@ -1,0 +1,4 @@
+63c63
+<         List<File> snapshot = streamFilesRecursiveInner( canonicalizedDirectory, fs ).collect( toList() );
+---
+>         List<File> snapshot =streamFilesRecursiveInner( canonicalizedDirectory, fs ).collect( toList() );

@@ -1,0 +1,5 @@
+51c51,52
+<         long deadline = clock.millis() + unit.toMillis( timeout );
+---
+>         long deadline = clock.millis
+> () + unit.toMillis( timeout );

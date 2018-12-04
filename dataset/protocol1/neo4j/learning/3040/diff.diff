@@ -1,0 +1,5 @@
+54c54,55
+<                 settings.put( new BoltConnector( DEFAULT_CONNECTOR_KEY ).encryption_level.name(), DISABLED.name() );
+---
+>                 settings.put( 
+> new BoltConnector( DEFAULT_CONNECTOR_KEY ).encryption_level.name(), DISABLED.name() );

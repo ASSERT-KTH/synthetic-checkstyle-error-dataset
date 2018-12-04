@@ -1,0 +1,5 @@
+120c120,121
+<                 return typeUtils.isSameType( key, typeMirrors.typeMirror( String.class ) ) &&
+---
+>                 
+> return typeUtils.isSameType( key, typeMirrors.typeMirror( String.class ) ) &&

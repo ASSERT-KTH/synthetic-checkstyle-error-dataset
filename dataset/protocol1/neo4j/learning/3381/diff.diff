@@ -1,0 +1,4 @@
+39c39
+<         recentlyVisited = new LruCache<>( "Recently visited", ((Number) parameter).intValue() );
+---
+>         recentlyVisited = new LruCache<>( "Recently visited", ((Number) parameter).intValue() )	;

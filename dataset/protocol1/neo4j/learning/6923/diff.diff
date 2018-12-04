@@ -1,0 +1,4 @@
+25c25
+< public interface MajorFlushEvent extends AutoCloseablePageCacheTracerEvent
+---
+> public interface MajorFlushEvent extends 	AutoCloseablePageCacheTracerEvent

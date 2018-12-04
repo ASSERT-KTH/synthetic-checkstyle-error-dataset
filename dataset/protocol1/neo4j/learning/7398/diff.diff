@@ -1,0 +1,4 @@
+27c27
+<     public EndNodeNotFoundException( NodeNotFoundException e )
+---
+>     public EndNodeNotFoundException( NodeNotFoundException e 	)

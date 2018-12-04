@@ -1,0 +1,5 @@
+78,79c78
+<     public synchronized void drained( BoltConnection from, Collection<Job> batch )
+<     {
+---
+>     public synchronized void drained( BoltConnection from, Collection<Job> batch )    {

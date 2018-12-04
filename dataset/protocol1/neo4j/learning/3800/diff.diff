@@ -1,0 +1,4 @@
+48c48
+<     <T> void tryCatchBlock( Consumer<T> body, Consumer<T> handler, LocalVariable exception, T block );
+---
+>     <T> void tryCatchBlock( Consumer<T> body, Consumer<T> 	handler, LocalVariable exception, T block );

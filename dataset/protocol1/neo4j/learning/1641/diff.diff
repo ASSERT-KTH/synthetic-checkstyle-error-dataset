@@ -1,0 +1,4 @@
+63c63
+<     private static final long MASK_USAGE_COUNT = (1L << SHIFT_SWAPPER_ID) - 1L;
+---
+>     private 	static final long MASK_USAGE_COUNT = (1L << SHIFT_SWAPPER_ID) - 1L;

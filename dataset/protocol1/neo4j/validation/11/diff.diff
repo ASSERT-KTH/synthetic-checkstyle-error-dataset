@@ -1,0 +1,4 @@
+120c120
+<         assertThat( notification.getDescription(),
+---
+>         assertThat( notification.getDescription (),

@@ -1,0 +1,5 @@
+31,32c31
+< import static org.neo4j.bolt.v1.runtime.BoltAuthenticationHelper.processAuthentication;
+< import static org.neo4j.util.Preconditions.checkState;
+---
+> import static org.neo4j.bolt.v1.runtime.BoltAuthenticationHelper.processAuthentication;import static org.neo4j.util.Preconditions.checkState;

@@ -1,0 +1,4 @@
+26c26
+< public class PluginLookupException extends Exception
+---
+> 	public class PluginLookupException extends Exception

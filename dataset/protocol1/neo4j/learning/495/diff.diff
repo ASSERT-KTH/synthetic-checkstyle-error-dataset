@@ -1,0 +1,5 @@
+361c361,362
+<     private Iterable<Node> map2Nodes( LongIterable ids )
+---
+>     private Iterable<Node> 
+> map2Nodes( LongIterable ids )

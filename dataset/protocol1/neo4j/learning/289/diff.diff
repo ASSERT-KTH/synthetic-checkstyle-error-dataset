@@ -1,0 +1,4 @@
+34c34
+<         return new LabelTokenRecord( -1 );
+---
+>         return new LabelTokenRecord( 	-1 );

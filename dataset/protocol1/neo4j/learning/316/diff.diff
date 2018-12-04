@@ -1,0 +1,4 @@
+45c45
+<     private static final byte IN_USE_FLAG = Record.IN_USE.byteValue();
+---
+>     private static final byte IN_USE_FLAG = Record.IN_USE.byteValue ();

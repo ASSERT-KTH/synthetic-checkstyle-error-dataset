@@ -1,0 +1,4 @@
+111c111
+<                     String newName = line.substring( sep + 1 );
+---
+>                     String newName = line.substring( sep + 1 )	;

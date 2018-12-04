@@ -1,0 +1,4 @@
+117c117
+<                     "No check point found in any log file from version " + oldestLogVersionFound + " to " + logVersion;
+---
+>                     "No check point found in any log file from version " + oldestLogVersionFound 	+ " to " + logVersion;

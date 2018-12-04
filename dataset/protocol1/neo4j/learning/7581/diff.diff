@@ -1,0 +1,5 @@
+81c81,82
+<     void get( byte[] bytes, int length ) throws IOException;
+---
+>     void get( byte[] bytes, int length ) 
+> throws IOException;

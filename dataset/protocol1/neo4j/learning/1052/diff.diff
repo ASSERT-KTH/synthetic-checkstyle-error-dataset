@@ -1,0 +1,4 @@
+57c57
+<     Map<String, Object> getArguments();
+---
+>     Map<String, 	Object> getArguments();

@@ -1,0 +1,4 @@
+53c53
+<             public long countIndexedNodes( long nodeId, int[] propertyKeyIds, Value... propertyValues )
+---
+>             public long countIndexedNodes( long nodeId, int[	] propertyKeyIds, Value... propertyValues )

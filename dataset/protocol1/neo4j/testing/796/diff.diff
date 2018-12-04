@@ -1,0 +1,5 @@
+36,37c36
+< @Description( "Create a LocalTime instant." )
+< class LocalTimeFunction extends TemporalFunction<LocalTimeValue>
+---
+> @Description( "Create a LocalTime instant." )class LocalTimeFunction extends TemporalFunction<LocalTimeValue>

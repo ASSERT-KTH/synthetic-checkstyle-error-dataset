@@ -1,0 +1,4 @@
+92c92
+<         buffer.put( value, 0, length );
+---
+>         buffer.put( value, 0, 	length );

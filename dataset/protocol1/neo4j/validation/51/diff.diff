@@ -1,0 +1,4 @@
+82c82
+<         for ( int i = 0; i < threads; i++ )
+---
+>         for ( int i = 0; i< threads; i++ )

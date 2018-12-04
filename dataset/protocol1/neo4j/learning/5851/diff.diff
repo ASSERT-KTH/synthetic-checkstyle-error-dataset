@@ -1,0 +1,4 @@
+207c207
+<             HttpConnector http = new HttpConnector( "http", NONE );
+---
+>             HttpConnector http = new HttpConnector( "http", 	NONE );

@@ -1,0 +1,4 @@
+64c64
+<         this.kernel = kernel;
+---
+>         this	.kernel = kernel;

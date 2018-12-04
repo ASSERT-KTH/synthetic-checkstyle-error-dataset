@@ -1,0 +1,5 @@
+71c71,72
+<         verify( wrapped, never() ).visitFileFailed( any(), any() );
+---
+>         verify( wrapped, never() ).visitFileFailed( any(), any
+> () );

@@ -1,0 +1,4 @@
+24c24
+< import static org.junit.jupiter.api.Assertions.assertThrows;
+---
+> import static org.junit.jupiter	.api.Assertions.assertThrows;

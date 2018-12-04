@@ -1,0 +1,4 @@
+26c26
+< import javax.ws.rs.core.MediaType;
+---
+> import javax.ws.rs	.core.MediaType;

@@ -1,0 +1,4 @@
+219c219
+<             int initialSize = Math.min( 32, maxDoc );
+---
+>             int initialSize 	= Math.min( 32, maxDoc );

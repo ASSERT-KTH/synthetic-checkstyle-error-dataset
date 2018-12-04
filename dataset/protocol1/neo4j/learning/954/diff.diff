@@ -1,0 +1,4 @@
+35c35
+<     void processSpecific( SchemaDescriptor schema );
+---
+>     	void processSpecific( SchemaDescriptor schema );

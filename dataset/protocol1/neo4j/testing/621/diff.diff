@@ -1,0 +1,5 @@
+249c249,250
+<         RuntimeException boom = new RuntimeException( "boom" );
+---
+>         RuntimeException boom = new RuntimeException( 
+> "boom" );

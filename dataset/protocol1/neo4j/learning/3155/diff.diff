@@ -1,0 +1,4 @@
+86c86
+<     protected abstract Runnable wholeFileRacer( NumberArray array, int contestant );
+---
+>     protected abstract Runnable wholeFileRacer( NumberArray array, int contestant 	);

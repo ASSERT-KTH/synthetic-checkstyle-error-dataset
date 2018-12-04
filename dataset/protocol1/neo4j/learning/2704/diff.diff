@@ -1,0 +1,5 @@
+96,97c96
+<             RelationshipExplicitIndexCursor cursor, String index, String key, Object value, long source, long target )
+<             throws ExplicitIndexNotFoundKernelException;
+---
+>             RelationshipExplicitIndexCursor cursor, String index, String key, Object value, long source, long target )            throws ExplicitIndexNotFoundKernelException;

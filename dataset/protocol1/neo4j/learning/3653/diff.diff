@@ -1,0 +1,4 @@
+100c100
+<         return removed( false ).remove( item );
+---
+>         return removed( false ).remove( item )	;

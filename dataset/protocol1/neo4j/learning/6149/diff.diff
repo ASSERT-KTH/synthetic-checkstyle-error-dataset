@@ -1,0 +1,5 @@
+60,61c60
+<     public SchemaRecordCheck( SchemaRuleAccess ruleAccess, IndexAccessors indexAccessors )
+<     {
+---
+>     public SchemaRecordCheck( SchemaRuleAccess ruleAccess, IndexAccessors indexAccessors )    {

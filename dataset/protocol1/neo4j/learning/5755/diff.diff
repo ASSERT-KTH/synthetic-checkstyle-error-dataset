@@ -1,0 +1,4 @@
+389c389
+<             ++FrozenCopy.this.modCount;
+---
+>             	++FrozenCopy.this.modCount;

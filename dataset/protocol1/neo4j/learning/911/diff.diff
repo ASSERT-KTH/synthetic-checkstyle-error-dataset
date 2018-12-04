@@ -1,0 +1,5 @@
+68,69c68
+<         graph.makeEdge( "a", "e", "cost", 1 );
+<         graph.makeEdge( "b", "c", "cost", (byte) 1 );
+---
+>         graph.makeEdge( "a", "e", "cost", 1 );        graph.makeEdge( "b", "c", "cost", (byte) 1 );

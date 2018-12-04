@@ -1,0 +1,4 @@
+45c45
+<         return contents;
+---
+>         	return contents;

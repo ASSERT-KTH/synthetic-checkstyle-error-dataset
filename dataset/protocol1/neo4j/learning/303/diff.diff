@@ -1,0 +1,4 @@
+70c70
+<         final ClassGuardedAdversary adversary = new ClassGuardedAdversary(
+---
+>         	final ClassGuardedAdversary adversary = new ClassGuardedAdversary(

@@ -1,0 +1,4 @@
+182c182
+<             dijkstraExpander = new DijkstraPathExpander( expander, shortestSoFar, epsilon,
+---
+>             	dijkstraExpander = new DijkstraPathExpander( expander, shortestSoFar, epsilon,

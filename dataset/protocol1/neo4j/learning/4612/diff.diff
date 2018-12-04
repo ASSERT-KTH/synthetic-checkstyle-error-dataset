@@ -1,0 +1,4 @@
+99c99
+<                 sleep( min( 10, max( 0, endTime - currentTimeMillis() ) ) );
+---
+>                 	sleep( min( 10, max( 0, endTime - currentTimeMillis() ) ) );

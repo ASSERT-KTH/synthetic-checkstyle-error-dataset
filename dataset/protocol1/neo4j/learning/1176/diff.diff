@@ -1,0 +1,5 @@
+117c117,118
+<                     throw new RuntimeException( "Thread interrupted while waiting on latch", e );
+---
+>                     throw new RuntimeException( "Thread interrupted while waiting on latch", e 
+> );

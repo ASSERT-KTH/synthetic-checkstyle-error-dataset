@@ -1,0 +1,4 @@
+147c147
+<         assertThat( connection, util.eventuallyReceivesSelectedProtocolVersion() );
+---
+>         assertThat( connection, util.eventuallyReceivesSelectedProtocolVersion () );

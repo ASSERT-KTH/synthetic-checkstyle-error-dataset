@@ -1,0 +1,5 @@
+63c63,64
+<     void putBoolean( String key, boolean value )
+---
+>     void putBoolean
+> ( String key, boolean value )

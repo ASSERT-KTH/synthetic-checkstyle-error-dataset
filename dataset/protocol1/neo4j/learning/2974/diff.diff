@@ -1,0 +1,5 @@
+218c218,219
+<         public void cacheRecompile( Pair<String,scala.collection.immutable.Map<String,Class<?>>> key )
+---
+>         public void cacheRecompile( Pair<String,scala.collection.immutable.Map<String,Class<?>>> 
+> key )

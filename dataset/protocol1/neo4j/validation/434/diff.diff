@@ -1,0 +1,4 @@
+96c96
+<             db.schema().constraintFor( LABEL ).assertPropertyIsUnique( "prop" ).create();
+---
+>             db.schema().constraintFor( LABEL ).	assertPropertyIsUnique( "prop" ).create();

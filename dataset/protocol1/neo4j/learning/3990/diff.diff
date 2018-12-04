@@ -1,0 +1,4 @@
+67c67
+<     void checkPoint( LogPosition logPosition, LogCheckPointEvent logCheckPointEvent ) throws IOException;
+---
+>     void checkPoint( 	LogPosition logPosition, LogCheckPointEvent logCheckPointEvent ) throws IOException;

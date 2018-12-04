@@ -1,0 +1,4 @@
+56c56
+<         AssertableLogProvider logProvider1 = new AssertableLogProvider();
+---
+>         	AssertableLogProvider logProvider1 = new AssertableLogProvider();

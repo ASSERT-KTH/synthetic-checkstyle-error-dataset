@@ -1,0 +1,4 @@
+59c59
+<         return new TypeSafeMatcher<QueryResult.Record>()
+---
+>         return new TypeSafeMatcher<QueryResult.	Record>()

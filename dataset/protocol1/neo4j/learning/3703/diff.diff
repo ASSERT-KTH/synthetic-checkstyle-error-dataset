@@ -1,0 +1,4 @@
+44c44
+< import static org.neo4j.unsafe.impl.batchimport.cache.NumberArrayFactory.OFF_HEAP;
+---
+> import static org.neo4j.unsafe.impl.batchimport	.cache.NumberArrayFactory.OFF_HEAP;

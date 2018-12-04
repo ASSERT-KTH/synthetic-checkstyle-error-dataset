@@ -1,0 +1,4 @@
+47c47
+<         assertCanEncodeAndDecodeToSameValue( new byte[]{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0} );
+---
+>         assertCanEncodeAndDecodeToSameValue( new byte[]{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0} )	;

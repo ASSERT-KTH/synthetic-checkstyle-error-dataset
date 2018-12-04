@@ -1,0 +1,4 @@
+71c71
+<     public static int collect( boolean skipBadRelationships, boolean skipDuplicateNodes, boolean ignoreExtraColumns )
+---
+>     public static int collect(boolean skipBadRelationships, boolean skipDuplicateNodes, boolean ignoreExtraColumns )

@@ -1,0 +1,4 @@
+72c72
+<                     "Unable to read fixture file '" + fixturePath.getAbsolutePath() + "': " + e.getMessage(), e );
+---
+>                     "Unable to read fixture file '" + fixturePath.getAbsolutePath () + "': " + e.getMessage(), e );

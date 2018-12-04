@@ -1,0 +1,5 @@
+55c55,56
+<         assertEquals(1, constraints( recoveredDatabase ).size());
+---
+>         assertEquals(1, constraints
+> ( recoveredDatabase ).size());

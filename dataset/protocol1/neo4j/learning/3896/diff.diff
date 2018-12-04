@@ -1,0 +1,4 @@
+35c35
+< public class FieldVisitor extends SimpleElementVisitor8<Stream<CompilationMessage>,Void>
+---
+> public class FieldVisitor extends SimpleElementVisitor8<Stream<CompilationMessage> ,Void>

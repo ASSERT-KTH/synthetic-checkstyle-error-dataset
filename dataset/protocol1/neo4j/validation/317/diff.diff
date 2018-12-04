@@ -1,0 +1,5 @@
+44,45c44
+<         this.highestGapFreeMeta = this.metaArray = initialMeta;
+<         this.outOfOrderQueue = new SequenceArray( initialMeta.length + 1, initialArraySize );
+---
+>         this.highestGapFreeMeta = this.metaArray = initialMeta;        this.outOfOrderQueue = new SequenceArray( initialMeta.length + 1, initialArraySize );

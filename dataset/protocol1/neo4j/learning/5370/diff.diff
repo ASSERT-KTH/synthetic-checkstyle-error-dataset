@@ -1,0 +1,5 @@
+52c52,53
+<     final void initValueAsLowest( int stateSlot, ValueGroup valueGroup )
+---
+>     final void initValueAsLowest( 
+> int stateSlot, ValueGroup valueGroup )

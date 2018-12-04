@@ -1,0 +1,5 @@
+282c282,283
+<                     void flush( GraphDatabaseAPI db )
+---
+>                     void 
+> flush( GraphDatabaseAPI db )

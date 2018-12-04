@@ -1,0 +1,4 @@
+25c25
+< import org.neo4j.kernel.impl.transaction.log.LogFileInformation;
+---
+> import org.neo4j.kernel.impl	.transaction.log.LogFileInformation;

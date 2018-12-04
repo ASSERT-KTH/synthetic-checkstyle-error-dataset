@@ -1,0 +1,4 @@
+37c37
+<     private final Iterator<U> source;
+---
+>     private final Iterator<U> source	;

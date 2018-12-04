@@ -1,0 +1,4 @@
+39c39
+< public class LabelChainWalker<RECORD extends AbstractBaseRecord, REPORT extends ConsistencyReport> implements
+---
+> public class LabelChainWalker <RECORD extends AbstractBaseRecord, REPORT extends ConsistencyReport> implements

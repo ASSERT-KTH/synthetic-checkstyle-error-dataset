@@ -1,0 +1,5 @@
+41c41,42
+<     RelationshipProxy newRelationshipProxy( long id, long startNodeId, int typeId, long endNodeId );
+---
+>     RelationshipProxy newRelationshipProxy( 
+> long id, long startNodeId, int typeId, long endNodeId );

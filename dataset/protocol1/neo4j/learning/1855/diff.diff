@@ -1,0 +1,4 @@
+51c51
+<         this.batchSize = batchSize;
+---
+>         this.	batchSize = batchSize;

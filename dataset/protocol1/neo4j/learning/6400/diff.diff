@@ -1,0 +1,4 @@
+272c272
+<         keeper = getFreeIdKeeperAggressive( channel, batchSize );
+---
+>         keeper = getFreeIdKeeperAggressive( 	channel, batchSize );

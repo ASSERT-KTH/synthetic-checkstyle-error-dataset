@@ -1,0 +1,4 @@
+77c77
+<         log.info( "When the going gets weird" );
+---
+>         log.info( 	"When the going gets weird" );

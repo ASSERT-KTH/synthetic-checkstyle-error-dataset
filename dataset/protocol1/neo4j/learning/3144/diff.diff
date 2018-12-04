@@ -1,0 +1,4 @@
+58c58
+< import static org.neo4j.unsafe.impl.batchimport.input.csv.DataFactories.defaultFormatRelationshipFileHeader;
+---
+> import static org.neo4j.unsafe.impl.batchimport	.input.csv.DataFactories.defaultFormatRelationshipFileHeader;

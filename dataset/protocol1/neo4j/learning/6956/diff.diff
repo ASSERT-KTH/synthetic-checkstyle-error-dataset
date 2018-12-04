@@ -1,0 +1,5 @@
+116c116,117
+<         Stream<CompilationMessage> errors = visitor.visit( function );
+---
+>         Stream<CompilationMessage> errors = visitor.visit( function 
+> );

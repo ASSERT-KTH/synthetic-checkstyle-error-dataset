@@ -1,0 +1,4 @@
+42c42
+<     double indexUniqueValueSelectivity( int labelId, int... propertyKeyIds );
+---
+>     double indexUniqueValueSelectivity( 	int labelId, int... propertyKeyIds );

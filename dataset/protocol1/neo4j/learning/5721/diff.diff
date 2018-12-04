@@ -1,0 +1,4 @@
+193c193
+<             assertQueryGetsValue( server, "CALL countNodes", 3L );
+---
+>             assertQueryGetsValue( server, 	"CALL countNodes", 3L );

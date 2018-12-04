@@ -1,0 +1,4 @@
+28c28
+<     public static final NoStoreHeaderFormat NO_STORE_HEADER_FORMAT = new NoStoreHeaderFormat();
+---
+>     public static 	final NoStoreHeaderFormat NO_STORE_HEADER_FORMAT = new NoStoreHeaderFormat();

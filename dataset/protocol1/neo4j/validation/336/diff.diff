@@ -1,0 +1,5 @@
+35,36c35
+< import org.neo4j.storageengine.api.schema.CapableIndexDescriptor;
+< import org.neo4j.storageengine.api.schema.IndexReader;
+---
+> import org.neo4j.storageengine.api.schema.CapableIndexDescriptor;import org.neo4j.storageengine.api.schema.IndexReader;

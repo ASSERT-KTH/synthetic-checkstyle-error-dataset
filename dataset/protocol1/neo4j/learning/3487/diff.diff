@@ -1,0 +1,4 @@
+23c23
+< import org.neo4j.storageengine.api.lock.ResourceType;
+---
+> import org	.neo4j.storageengine.api.lock.ResourceType;

@@ -1,0 +1,4 @@
+72c72
+<         assertTrue( isSameOrChildPath( directory.directory( "a/b" ).toPath(), directory.directory( "/a/./b" ).toPath() ) );
+---
+>         assertTrue( isSameOrChildPath( directory.directory( "a/b" ).toPath(), directory.directory( "/a/./b" 	).toPath() ) );

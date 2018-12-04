@@ -1,0 +1,4 @@
+63c63
+<     public int numberOfProperties()
+---
+>     public int 	numberOfProperties()

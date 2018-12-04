@@ -1,0 +1,4 @@
+100c100
+<     public boolean isCreated()
+---
+>     public boolean isCreated ()

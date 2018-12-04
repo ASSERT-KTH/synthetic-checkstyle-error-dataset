@@ -1,0 +1,5 @@
+110,111c110
+<             assertFalse( itr.hasNext() );
+<             tx.success();
+---
+>             assertFalse( itr.hasNext() );            tx.success();

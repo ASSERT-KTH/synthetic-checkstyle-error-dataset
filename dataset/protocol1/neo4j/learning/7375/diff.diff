@@ -1,0 +1,5 @@
+110c110,111
+<         return localVariables.get( name );
+---
+>         return localVariables.get
+> ( name );

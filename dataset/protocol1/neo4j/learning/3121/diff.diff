@@ -1,0 +1,4 @@
+134c134
+<         return new RelationshipValue.DirectRelationshipValue( id, startNode, endNode, type, properties );
+---
+>         return new RelationshipValue.DirectRelationshipValue( id, startNode, endNode, type, 	properties );

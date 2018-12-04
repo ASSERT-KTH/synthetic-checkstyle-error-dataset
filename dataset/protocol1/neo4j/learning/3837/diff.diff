@@ -1,0 +1,5 @@
+80c80,81
+<         int statusCode = response.getStatus();
+---
+>         int statusCode = response.getStatus
+> ();

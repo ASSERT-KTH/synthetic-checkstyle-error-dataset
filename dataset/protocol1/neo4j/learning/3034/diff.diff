@@ -1,0 +1,5 @@
+212c212,213
+<         FileSystemAbstraction fileSystemAbstraction = new DelegatingFileSystemAbstraction( fileSystemRule.get() )
+---
+>         FileSystemAbstraction 
+> fileSystemAbstraction = new DelegatingFileSystemAbstraction( fileSystemRule.get() )

@@ -1,0 +1,4 @@
+29c29
+< class UnsupportedIndexDeletionPolicy extends RuntimeException
+---
+> 	class UnsupportedIndexDeletionPolicy extends RuntimeException

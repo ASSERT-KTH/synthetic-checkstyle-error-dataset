@@ -1,0 +1,4 @@
+174c174
+<     protected Collection<PluginPoint> getDefaultExtensionPoints( PluginPointFactory pluginPointFactory )
+---
+>     protected Collection<PluginPoint> 	getDefaultExtensionPoints( PluginPointFactory pluginPointFactory )

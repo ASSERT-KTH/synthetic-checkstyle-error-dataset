@@ -1,0 +1,5 @@
+363c363,364
+<     private static IndexAccessors configureIndexAccessors()
+---
+>     private static 
+> IndexAccessors configureIndexAccessors()

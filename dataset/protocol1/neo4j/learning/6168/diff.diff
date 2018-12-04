@@ -1,0 +1,5 @@
+742c742,743
+<         return dispatchArray( array, param );
+---
+>         return 
+> dispatchArray( array, param );

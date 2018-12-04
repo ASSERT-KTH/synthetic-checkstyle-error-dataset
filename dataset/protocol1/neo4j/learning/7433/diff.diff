@@ -1,0 +1,5 @@
+113c113,114
+< import static org.objectweb.asm.Opcodes.T_SHORT;
+---
+> import static 
+> org.objectweb.asm.Opcodes.T_SHORT;

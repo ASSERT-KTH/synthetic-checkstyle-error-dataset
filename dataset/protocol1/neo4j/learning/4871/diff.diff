@@ -1,0 +1,4 @@
+70c70
+<     public <T> Iterable<? extends T> resolveTypeDependencies( Class<T> type )
+---
+>     public <T > Iterable<? extends T> resolveTypeDependencies( Class<T> type )

@@ -1,0 +1,4 @@
+85c85
+<     public void die() throws Exception
+---
+>     public void die () throws Exception

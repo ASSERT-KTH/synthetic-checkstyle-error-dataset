@@ -1,0 +1,4 @@
+34c34
+< public abstract class ReadOnlyAbstractDatabaseIndex<INDEX extends AbstractLuceneIndex<READER>, READER extends IndexReader>
+---
+> public abstract class ReadOnlyAbstractDatabaseIndex<INDEX extends AbstractLuceneIndex <READER>, READER extends IndexReader>

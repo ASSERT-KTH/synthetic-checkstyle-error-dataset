@@ -1,0 +1,5 @@
+66,67c66
+< import static org.junit.Assert.fail;
+< import static org.neo4j.bolt.v1.messaging.util.MessageMatchers.msgSuccess;
+---
+> import static org.junit.Assert.fail;import static org.neo4j.bolt.v1.messaging.util.MessageMatchers.msgSuccess;

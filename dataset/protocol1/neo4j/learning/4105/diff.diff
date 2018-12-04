@@ -1,0 +1,4 @@
+35c35
+< public interface IndexUpdates extends Iterable<IndexEntryUpdate<SchemaDescriptor>>
+---
+> public interface IndexUpdates extends 	Iterable<IndexEntryUpdate<SchemaDescriptor>>

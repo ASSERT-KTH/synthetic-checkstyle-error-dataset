@@ -1,0 +1,4 @@
+99c99
+<         return ownedIndex;
+---
+>         return ownedIndex	;

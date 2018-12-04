@@ -1,0 +1,5 @@
+26,27c26
+<     public DatabaseShutdownException( )
+<     {
+---
+>     public DatabaseShutdownException( )    {

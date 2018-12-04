@@ -1,0 +1,5 @@
+70,71c70
+<         store.getRecordByCursor( id, record, RecordLoad.CHECK, cursor );
+<         return record.inUse() && filter.test( record );
+---
+>         store.getRecordByCursor( id, record, RecordLoad.CHECK, cursor );        return record.inUse() && filter.test( record );

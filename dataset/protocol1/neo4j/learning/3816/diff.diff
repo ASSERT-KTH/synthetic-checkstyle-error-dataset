@@ -1,0 +1,4 @@
+74c74
+<                 if ( NoneStrictMath.compare( path.weight(), foundWeight, epsilon ) <= 0 )
+---
+>                 if ( NoneStrictMath.compare( path.weight()	, foundWeight, epsilon ) <= 0 )

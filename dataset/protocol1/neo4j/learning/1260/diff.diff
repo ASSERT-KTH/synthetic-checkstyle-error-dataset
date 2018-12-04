@@ -1,0 +1,5 @@
+109c109,110
+<                         new RunMessage( "UNWIND [1,2,3] AS a RETURN a, a * a AS a_squared" ),
+---
+>                         new RunMessage( "UNWIND [1,2,3] AS a RETURN a, a * a AS a_squared" 
+> ),

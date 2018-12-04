@@ -1,0 +1,5 @@
+86c86,87
+<         long highest = 0;
+---
+>         long highest 
+> = 0;

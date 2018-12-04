@@ -1,0 +1,5 @@
+35c35,36
+<     abstract class Adapter<T, F> implements Action<T, F>
+---
+>     abstract class Adapter<T, F> implements 
+> Action<T, F>

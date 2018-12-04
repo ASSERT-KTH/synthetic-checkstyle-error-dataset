@@ -1,0 +1,4 @@
+35c35
+<     public StartupWaiter( AvailabilityGuard availabilityGuard, long timeout )
+---
+>     public StartupWaiter( AvailabilityGuard availabilityGuard	, long timeout )

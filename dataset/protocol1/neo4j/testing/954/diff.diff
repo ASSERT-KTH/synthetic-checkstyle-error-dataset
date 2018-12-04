@@ -1,0 +1,4 @@
+25c25
+< import static org.hamcrest.Matchers.arrayContaining;
+---
+> import static org.hamcrest	.Matchers.arrayContaining;

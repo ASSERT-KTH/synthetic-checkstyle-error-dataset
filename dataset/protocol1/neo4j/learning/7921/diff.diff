@@ -1,0 +1,4 @@
+77c77
+<     RecordFormat<RelationshipRecord> relationship();
+---
+>     RecordFormat<RelationshipRecord> relationship ();

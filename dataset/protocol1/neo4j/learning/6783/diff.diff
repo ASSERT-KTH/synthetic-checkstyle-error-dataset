@@ -1,0 +1,4 @@
+211c211
+<         return withExtension( mountPath, extension.getPackage().getName() );
+---
+>         return withExtension( mountPath, 	extension.getPackage().getName() );

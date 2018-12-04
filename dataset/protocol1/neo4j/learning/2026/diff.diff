@@ -1,0 +1,5 @@
+55c55,56
+<     final void clear()
+---
+>     final void clear
+> ()

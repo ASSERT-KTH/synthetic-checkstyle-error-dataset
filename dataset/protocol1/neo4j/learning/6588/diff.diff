@@ -1,0 +1,4 @@
+37c37
+<         Statement statement = mock( Statement.class );
+---
+>         	Statement statement = mock( Statement.class );

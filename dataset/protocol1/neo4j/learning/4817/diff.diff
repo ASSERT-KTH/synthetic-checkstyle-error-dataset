@@ -1,0 +1,5 @@
+99c99,100
+<     private final HashMap<String, String> staticContent = new HashMap<>();
+---
+>     private final HashMap<String, String> 
+> staticContent = new HashMap<>();

@@ -1,0 +1,4 @@
+137c137
+<         assertThat( indexMap.getRelatedIndexes( entityTokens( 3 ), noEntityToken, IntSets.immutable.empty(), RELATIONSHIP ),
+---
+>         assertThat ( indexMap.getRelatedIndexes( entityTokens( 3 ), noEntityToken, IntSets.immutable.empty(), RELATIONSHIP ),

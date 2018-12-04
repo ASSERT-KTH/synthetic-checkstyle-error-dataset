@@ -1,0 +1,4 @@
+47c47
+<         return iterator.hasNext() ? iterator.next() : null;
+---
+>         return iterator.hasNext() ? iterator.next(): null;

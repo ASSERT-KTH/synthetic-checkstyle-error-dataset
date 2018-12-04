@@ -1,0 +1,4 @@
+45c45
+<         ValueGroup id1 = v1.valueGroup();
+---
+>         ValueGroup id1= v1.valueGroup();

@@ -1,0 +1,4 @@
+30c30
+<     public AggregationError( Element element, String contents, Object... args )
+---
+>     public AggregationError( Element element, String contents, Object... args 	)

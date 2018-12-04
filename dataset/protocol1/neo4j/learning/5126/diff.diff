@@ -1,0 +1,4 @@
+161c161
+<                     outRef.write( bytes );
+---
+>                     	outRef.write( bytes );

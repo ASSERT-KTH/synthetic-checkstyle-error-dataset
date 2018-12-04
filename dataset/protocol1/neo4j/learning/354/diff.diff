@@ -1,0 +1,5 @@
+39,40c39
+<         DEFAULT_VALUE = new byte[SIZE];
+<         Arrays.fill( DEFAULT_VALUE, (byte) -1 );
+---
+>         DEFAULT_VALUE = new byte[SIZE];        Arrays.fill( DEFAULT_VALUE, (byte) -1 );

@@ -1,0 +1,4 @@
+51c51
+<     public LocalVariable get( String name )
+---
+>     public LocalVariable get( String name)

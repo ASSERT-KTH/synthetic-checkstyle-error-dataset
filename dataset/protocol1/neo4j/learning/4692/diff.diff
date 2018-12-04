@@ -1,0 +1,5 @@
+43c43,44
+<         assertEquals( new URI( "http://base.local:8765/test/path" ), response.getMetadata().getFirst( "Location" ) );
+---
+>         assertEquals( 
+> new URI( "http://base.local:8765/test/path" ), response.getMetadata().getFirst( "Location" ) );

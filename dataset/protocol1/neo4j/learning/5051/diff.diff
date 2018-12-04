@@ -1,0 +1,4 @@
+34c34
+<         Lock lock1 = mock( Lock.class );
+---
+>         Lock lock1 = mock( Lock	.class );

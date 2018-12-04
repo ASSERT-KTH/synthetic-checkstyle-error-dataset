@@ -1,0 +1,4 @@
+398c398
+<         PathFinder finder = factory.dijkstra( PathExpanders.allTypesAndDirections() );
+---
+>         PathFinder finder 	= factory.dijkstra( PathExpanders.allTypesAndDirections() );

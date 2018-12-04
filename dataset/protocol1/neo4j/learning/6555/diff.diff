@@ -1,0 +1,4 @@
+63c63
+<         this.mode = mode;
+---
+>         this.	mode = mode;

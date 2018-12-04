@@ -1,0 +1,4 @@
+234c234
+<                 if ( i >= propertyCount )
+---
+>                 if ( i >=propertyCount )

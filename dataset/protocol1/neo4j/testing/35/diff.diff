@@ -1,0 +1,5 @@
+26c26,27
+<         super( cause, "Failed to transition index to new context: %s", cause.getMessage() );
+---
+>         super( cause, "Failed to transition index to new context: %s", 
+> cause.getMessage() );

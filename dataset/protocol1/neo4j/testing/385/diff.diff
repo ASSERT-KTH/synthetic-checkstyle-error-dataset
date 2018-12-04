@@ -1,0 +1,4 @@
+176c176
+<         return new Neo4jError( Status.General.UnknownError, any != null ? any.getMessage() : null, any, isFatal );
+---
+>         return new Neo4jError( Status.General.UnknownError, any!= null ? any.getMessage() : null, any, isFatal );

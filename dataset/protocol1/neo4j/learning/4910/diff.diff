@@ -1,0 +1,4 @@
+617c617
+<             for ( int available; (available = (int) (source.size() - source.position())) > 0; )
+---
+>             for ( int available; (available = 	(int) (source.size() - source.position())) > 0; )

@@ -1,0 +1,5 @@
+45,46c45
+<         String accessStr = accessStatistics.getAccessStatSummary();
+<         logger.info( format( "=== %s ===", name ) );
+---
+>         String accessStr = accessStatistics.getAccessStatSummary();        logger.info( format( "=== %s ===", name ) );

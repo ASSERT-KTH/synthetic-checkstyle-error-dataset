@@ -1,0 +1,5 @@
+115,116c115
+<         }
+<         assertTrue( "delete " + file, file.delete() );
+---
+>         }        assertTrue( "delete " + file, file.delete() );

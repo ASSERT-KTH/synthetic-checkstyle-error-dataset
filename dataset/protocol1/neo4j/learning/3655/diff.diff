@@ -1,0 +1,5 @@
+190c190,191
+<     private static class TestMonitor implements CypherCacheHitMonitor<Pair<String,scala.collection.immutable.Map<String, Class<?>>>>
+---
+>     private static class TestMonitor implements CypherCacheHitMonitor<Pair<String,scala.collection.immutable.Map<String, 
+> Class<?>>>>

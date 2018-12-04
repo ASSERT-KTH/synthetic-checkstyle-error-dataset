@@ -1,0 +1,5 @@
+40c40,41
+<         if ( costProp instanceof Number )
+---
+>         
+> if ( costProp instanceof Number )

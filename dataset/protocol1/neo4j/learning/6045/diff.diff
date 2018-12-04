@@ -1,0 +1,5 @@
+66c66,67
+<         when( connectionFactory.newConnection( eq( boltChannel ), any() ) ).thenReturn( mock( BoltConnection.class ) );
+---
+>         when( connectionFactory.newConnection( eq
+> ( boltChannel ), any() ) ).thenReturn( mock( BoltConnection.class ) );

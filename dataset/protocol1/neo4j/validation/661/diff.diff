@@ -1,0 +1,4 @@
+154c154
+<         HTTP.RawPayload passwordChange = quotedJson( "{'password': '" + newPassword + "'}" );
+---
+>         HTTP.RawPayload passwordChange = quotedJson( "{'password': '" + newPassword 	+ "'}" );

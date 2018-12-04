@@ -1,0 +1,4 @@
+55c55
+<     public int labelGetOrCreateForName( String labelName ) throws IllegalTokenNameException, TooManyLabelsException
+---
+>     public int labelGetOrCreateForName ( String labelName ) throws IllegalTokenNameException, TooManyLabelsException

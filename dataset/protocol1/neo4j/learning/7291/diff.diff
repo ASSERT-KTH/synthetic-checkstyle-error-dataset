@@ -1,0 +1,5 @@
+29c29,30
+<     Iterator<Pair<Integer, String>> properties();
+---
+>     
+> Iterator<Pair<Integer, String>> properties();

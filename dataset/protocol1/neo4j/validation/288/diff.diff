@@ -1,0 +1,5 @@
+59c59,60
+<     public final void addNumber( Number value )
+---
+>     public final void addNumber( 
+> Number value )

@@ -1,0 +1,5 @@
+51c51,52
+<         public int label( int offset )
+---
+>         public int label
+> ( int offset )

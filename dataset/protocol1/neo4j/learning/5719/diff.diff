@@ -1,0 +1,5 @@
+192,193c192
+<         HilbertSpaceFillingCurve2D curve = new HilbertSpaceFillingCurve2D( envelope, 1 );
+<         assertAtLevel( curve, envelope );
+---
+>         HilbertSpaceFillingCurve2D curve = new HilbertSpaceFillingCurve2D( envelope, 1 );        assertAtLevel( curve, envelope );

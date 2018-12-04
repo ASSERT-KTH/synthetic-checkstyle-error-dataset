@@ -1,0 +1,5 @@
+81c81,82
+<         Value fromValue = rangePredicate.fromValue();
+---
+>         Value fromValue 
+> = rangePredicate.fromValue();

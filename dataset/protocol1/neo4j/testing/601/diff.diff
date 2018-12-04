@@ -1,0 +1,5 @@
+324c324,325
+<             currentDotOnLine = target;
+---
+>             currentDotOnLine = 
+> target;

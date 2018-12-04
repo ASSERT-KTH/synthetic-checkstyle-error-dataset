@@ -1,0 +1,5 @@
+56c56,57
+<                 nested( String.class, nested( String.class, values( AtomicLong.class ) ) ) );
+---
+>                 nested( String.class, nested( String.class, values( 
+> AtomicLong.class ) ) ) );

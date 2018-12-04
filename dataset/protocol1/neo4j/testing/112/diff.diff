@@ -1,0 +1,4 @@
+71c71
+<         queue.offer( offeredId++ );
+---
+>         queue.offer( offeredId	++ );

@@ -1,0 +1,5 @@
+203,204c203
+<     private static Map<IdType,Long> getHighIds( GraphDatabaseAPI db )
+<     {
+---
+>     private static Map<IdType,Long> getHighIds( GraphDatabaseAPI db )    {

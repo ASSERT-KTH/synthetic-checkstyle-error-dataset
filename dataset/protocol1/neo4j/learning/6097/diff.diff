@@ -1,0 +1,5 @@
+41c41,42
+<     SortingTraverserIterator( Resource resource, Comparator<? super Path> sortingStrategy, MonoDirectionalTraverserIterator source )
+---
+>     SortingTraverserIterator( Resource resource, 
+> Comparator<? super Path> sortingStrategy, MonoDirectionalTraverserIterator source )

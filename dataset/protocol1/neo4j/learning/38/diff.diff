@@ -1,0 +1,4 @@
+26c26
+< import org.neo4j.bolt.v3.messaging.request.BeginMessage;
+---
+> import org.neo4j	.bolt.v3.messaging.request.BeginMessage;

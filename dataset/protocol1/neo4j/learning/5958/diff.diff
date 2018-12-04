@@ -1,0 +1,5 @@
+53,54c53
+<         exhaust( iterator );
+<         verify( cursor, times( 1 ) ).close();
+---
+>         exhaust( iterator );        verify( cursor, times( 1 ) ).close();

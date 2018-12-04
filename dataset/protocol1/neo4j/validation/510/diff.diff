@@ -1,0 +1,4 @@
+90c90
+<         shouldGetCustomSettingsFor( crs, 30, new double[]{-180, -90, -1000000}, new double[]{180, 90, 1000000} );
+---
+>         shouldGetCustomSettingsFor( crs, 30	, new double[]{-180, -90, -1000000}, new double[]{180, 90, 1000000} );

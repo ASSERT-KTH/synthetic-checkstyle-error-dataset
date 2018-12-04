@@ -1,0 +1,4 @@
+135c135
+<     void relationshipRemoveFromExplicitIndex( String indexName, long relationship, String key )
+---
+>     	void relationshipRemoveFromExplicitIndex( String indexName, long relationship, String key )

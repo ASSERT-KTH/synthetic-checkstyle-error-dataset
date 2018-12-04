@@ -1,0 +1,4 @@
+53c53
+<     LONGITUDE( "longitude" )
+---
+>     LONGITUDE( "longitude" 	)

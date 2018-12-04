@@ -1,0 +1,4 @@
+166c166
+<         result = 31 * result + (additionalHeader != null ? Arrays.hashCode( additionalHeader ) : 0);
+---
+>         result = 31 	* result + (additionalHeader != null ? Arrays.hashCode( additionalHeader ) : 0);

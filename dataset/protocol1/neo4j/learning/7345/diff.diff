@@ -1,0 +1,5 @@
+79,80c79
+<     public void works6( @Name( "test" ) List<Node> supported )
+<     {
+---
+>     public void works6( @Name( "test" ) List<Node> supported )    {

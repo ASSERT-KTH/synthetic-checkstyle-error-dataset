@@ -1,0 +1,4 @@
+104c104
+<         assertNull( cursor.get() );
+---
+>         assertNull( 	cursor.get() );

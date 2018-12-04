@@ -1,0 +1,4 @@
+27c27
+< import org.neo4j.io.pagecache.tracing.cursor.context.VersionContextSupplier;
+---
+> import org.neo4j.io.pagecache.tracing.cursor.context	.VersionContextSupplier;

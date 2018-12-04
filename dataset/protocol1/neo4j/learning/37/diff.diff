@@ -1,0 +1,5 @@
+144c144,145
+<                 return path( parentStructure.directoryForIndex( indexId ), fileNameFriendly( descriptor ) );
+---
+>                 return path( parentStructure.directoryForIndex( indexId 
+> ), fileNameFriendly( descriptor ) );

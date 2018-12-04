@@ -1,0 +1,4 @@
+108c108
+<         when( idGeneratorFactory.open( any( File.class ), eq( idType ), any( LongSupplier.class ), anyLong() ) )
+---
+>         when( idGeneratorFactory.open( 	any( File.class ), eq( idType ), any( LongSupplier.class ), anyLong() ) )

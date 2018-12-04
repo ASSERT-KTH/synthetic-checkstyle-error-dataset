@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.server.rest.management.console;
+---
+> package org.neo4j.	server.rest.management.console;

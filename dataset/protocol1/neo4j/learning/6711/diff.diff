@@ -1,0 +1,4 @@
+140c140
+<         cursor.putShort( GenerationSafePointer.checksumOf( generation, pointer ) );
+---
+>         cursor.	putShort( GenerationSafePointer.checksumOf( generation, pointer ) );

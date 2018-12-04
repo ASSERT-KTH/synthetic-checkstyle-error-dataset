@@ -1,0 +1,5 @@
+73c73,74
+<     public final RandomRule random = new RandomRule();
+---
+>     public final RandomRule random = new 
+> RandomRule();

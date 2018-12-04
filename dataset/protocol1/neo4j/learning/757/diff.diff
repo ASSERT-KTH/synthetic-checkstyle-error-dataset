@@ -1,0 +1,5 @@
+45c45,46
+<         int SLOT_REFERENCE = 3;
+---
+>         
+> int SLOT_REFERENCE = 3;

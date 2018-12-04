@@ -1,0 +1,4 @@
+106c106
+<             ((Logger) target).log( "[AsyncLog @ " + timestamp() + "]  " + message, (Object[]) parameter );
+---
+>             (	(Logger) target).log( "[AsyncLog @ " + timestamp() + "]  " + message, (Object[]) parameter );

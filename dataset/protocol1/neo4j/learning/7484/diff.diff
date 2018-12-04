@@ -1,0 +1,4 @@
+70c70
+<     public void writeKey( PageCursor cursor, ZonedDateTimeIndexKey key )
+---
+>     public void 	writeKey( PageCursor cursor, ZonedDateTimeIndexKey key )

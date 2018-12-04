@@ -1,0 +1,5 @@
+66,67c66
+<         assertThat( tracers.transactionTracer, is( TransactionTracer.NULL ) );
+<         assertNoWarning();
+---
+>         assertThat( tracers.transactionTracer, is( TransactionTracer.NULL ) );        assertNoWarning();

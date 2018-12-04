@@ -1,0 +1,4 @@
+24c24
+< public class CommitCommand implements WorkerCommand<CommandState, Void>
+---
+> public class CommitCommand 	implements WorkerCommand<CommandState, Void>

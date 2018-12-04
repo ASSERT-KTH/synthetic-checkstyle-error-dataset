@@ -1,0 +1,5 @@
+96c96,97
+<         return open( fileName, OpenMode.READ_WRITE );
+---
+>         return 
+> open( fileName, OpenMode.READ_WRITE );

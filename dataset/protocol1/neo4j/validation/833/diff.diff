@@ -1,0 +1,4 @@
+31c31
+<     public static final String IDENTIFIER = "test-dummy-neo-index";
+---
+>     public static 	final String IDENTIFIER = "test-dummy-neo-index";

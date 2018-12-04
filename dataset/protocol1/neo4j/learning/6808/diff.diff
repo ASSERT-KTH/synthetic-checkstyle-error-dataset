@@ -1,0 +1,4 @@
+351c351
+<     private static FileWatcher getFileWatcher( GraphDatabaseService database )
+---
+>     	private static FileWatcher getFileWatcher( GraphDatabaseService database )

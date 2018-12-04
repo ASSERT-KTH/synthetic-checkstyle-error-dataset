@@ -1,0 +1,5 @@
+27,28c27
+<     private final String index;
+<     private final String entityType;
+---
+>     private final String index;    private final String entityType;

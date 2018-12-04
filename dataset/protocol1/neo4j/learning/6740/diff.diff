@@ -1,0 +1,5 @@
+107c107,108
+<         File from = new File( "/a/b" );
+---
+>         File from = 
+> new File( "/a/b" );

@@ -1,0 +1,4 @@
+40c40
+<     public static final RecordFormats RECORD_FORMATS = new StandardV3_2();
+---
+>     public static final RecordFormats 	RECORD_FORMATS = new StandardV3_2();

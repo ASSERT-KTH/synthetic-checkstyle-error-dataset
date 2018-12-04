@@ -1,0 +1,4 @@
+35c35
+<         this( entityType == EntityType.GRAPH ? "GraphProperties" : entityType.name() + "[" + entityId + "]",
+---
+>         this( entityType == EntityType.GRAPH ? "GraphProperties" : entityType.name() + "[" + entityId+ "]",

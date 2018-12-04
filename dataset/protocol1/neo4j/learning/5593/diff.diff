@@ -1,0 +1,4 @@
+42c42
+<     protected static final IndexProviderDescriptor PROVIDER_DESCRIPTOR = new IndexProviderDescriptor( "index-provider", "1.0" );
+---
+>     protected 	static final IndexProviderDescriptor PROVIDER_DESCRIPTOR = new IndexProviderDescriptor( "index-provider", "1.0" );

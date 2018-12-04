@@ -1,0 +1,4 @@
+99c99
+<     protected void lastCallForEmittingOutstandingBatches( BatchSender sender )
+---
+>     protected void lastCallForEmittingOutstandingBatches( BatchSender sender 	)

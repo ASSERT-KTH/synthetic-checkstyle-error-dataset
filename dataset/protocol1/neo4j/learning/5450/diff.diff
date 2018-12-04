@@ -1,0 +1,5 @@
+51,52c51
+<         if ( property instanceof CompositeData[] )
+<         {
+---
+>         if ( property instanceof CompositeData[] )        {

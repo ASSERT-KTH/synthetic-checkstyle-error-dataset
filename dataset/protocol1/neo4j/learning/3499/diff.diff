@@ -1,0 +1,5 @@
+28c28,29
+<     public boolean next()
+---
+>     public 
+> boolean next()

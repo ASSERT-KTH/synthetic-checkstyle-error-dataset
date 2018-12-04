@@ -1,0 +1,4 @@
+28c28
+< public interface Scan<Cursor extends org.neo4j.internal.kernel.api.Cursor>
+---
+> public interface Scan<Cursor 	extends org.neo4j.internal.kernel.api.Cursor>

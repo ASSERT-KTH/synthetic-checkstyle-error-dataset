@@ -1,0 +1,5 @@
+405,406c405
+<             ValueProducer values, Factory<PrimitiveCollection> factoryA, Factory<PrimitiveCollection> factoryB )
+<     {
+---
+>             ValueProducer values, Factory<PrimitiveCollection> factoryA, Factory<PrimitiveCollection> factoryB )    {

@@ -1,0 +1,4 @@
+578c578
+<         long[] result = new long[numberOfLongs];
+---
+>         long[] result 	= new long[numberOfLongs];

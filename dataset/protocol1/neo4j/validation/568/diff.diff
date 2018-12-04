@@ -1,0 +1,5 @@
+46,47c46
+<     public AuthorizationViolationException( String msg, Throwable cause )
+<     {
+---
+>     public AuthorizationViolationException( String msg, Throwable cause )    {

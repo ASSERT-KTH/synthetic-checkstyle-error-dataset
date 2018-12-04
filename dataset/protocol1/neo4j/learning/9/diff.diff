@@ -1,0 +1,5 @@
+70c70,71
+<     double getDouble() throws IOException;
+---
+>     double getDouble() throws 
+> IOException;

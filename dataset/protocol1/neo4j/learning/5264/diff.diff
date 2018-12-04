@@ -1,0 +1,4 @@
+96c96
+<         long[] rebuildLabels = readNodesForLabel( labelScanStore );
+---
+>         long[] rebuildLabels =readNodesForLabel( labelScanStore );

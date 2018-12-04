@@ -1,0 +1,4 @@
+161c161
+<         assertNotEquals( s5, cache.getLastCleanedElement() );
+---
+>         assertNotEquals( s5, cache.	getLastCleanedElement() );

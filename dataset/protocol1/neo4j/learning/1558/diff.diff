@@ -1,0 +1,4 @@
+28c28
+< import static org.neo4j.kernel.impl.transaction.command.Command.Mode.fromRecordState;
+---
+> import static org.neo4j.kernel.impl.transaction.command.Command.	Mode.fromRecordState;

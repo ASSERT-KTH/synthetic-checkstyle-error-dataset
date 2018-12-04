@@ -1,0 +1,4 @@
+70c70
+<         public void removeChecked( long expectedValue )
+---
+>         public void removeChecked( long expectedValue 	)

@@ -1,0 +1,4 @@
+41c41
+<         public StoreApplyEvent beginStoreApply()
+---
+>         	public StoreApplyEvent beginStoreApply()

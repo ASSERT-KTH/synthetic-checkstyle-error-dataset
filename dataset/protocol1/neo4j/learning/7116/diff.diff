@@ -1,0 +1,5 @@
+134c134,135
+<         return other != null && ((other instanceof Value && equals( (Value) other )) || (other instanceof Point && equals( (Point) other )));
+---
+>         return other != null 
+> && ((other instanceof Value && equals( (Value) other )) || (other instanceof Point && equals( (Point) other )));

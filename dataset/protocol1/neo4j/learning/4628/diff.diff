@@ -1,0 +1,5 @@
+125,126c125
+<         public Boolean answer( InvocationOnMock invocationOnMock )
+<         {
+---
+>         public Boolean answer( InvocationOnMock invocationOnMock )        {

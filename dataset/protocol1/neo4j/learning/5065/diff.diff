@@ -1,0 +1,5 @@
+101c101,102
+<             boolean fromInclusive = random.nextBoolean();
+---
+>             boolean 
+> fromInclusive = random.nextBoolean();

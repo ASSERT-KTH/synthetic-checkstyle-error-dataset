@@ -1,0 +1,5 @@
+282,283c282
+<             killDb();
+<             return null;
+---
+>             killDb();            return null;

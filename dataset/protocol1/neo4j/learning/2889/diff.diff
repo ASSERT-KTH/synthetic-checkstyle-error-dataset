@@ -1,0 +1,5 @@
+28c28,29
+< public interface RecoveryApplier extends Visitor<CommittedTransactionRepresentation,Exception>, AutoCloseable
+---
+> public interface 
+> RecoveryApplier extends Visitor<CommittedTransactionRepresentation,Exception>, AutoCloseable

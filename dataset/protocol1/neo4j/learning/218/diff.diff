@@ -1,0 +1,4 @@
+34c34
+<     public static Comparison comparison( long cmp )
+---
+>     public static Comparison comparison ( long cmp )

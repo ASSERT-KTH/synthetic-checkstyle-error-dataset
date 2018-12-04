@@ -1,0 +1,4 @@
+76c76
+<     public Stream<CompilationMessage> visitVariable( VariableElement field, Void ignored )
+---
+>     public Stream< CompilationMessage> visitVariable( VariableElement field, Void ignored )

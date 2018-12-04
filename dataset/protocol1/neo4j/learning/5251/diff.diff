@@ -1,0 +1,4 @@
+36c36
+<     protected int createKey( Transaction transaction, String name ) throws IllegalTokenNameException
+---
+>     protected int createKey( Transaction transaction, String name ) 	throws IllegalTokenNameException

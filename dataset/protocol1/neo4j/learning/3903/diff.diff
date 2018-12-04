@@ -1,0 +1,4 @@
+217c217
+<             assertThat( fs.listFiles( other ).length, is( 1 ) );
+---
+>             assertThat( fs.listFiles( other ).length, is( 	1 ) );

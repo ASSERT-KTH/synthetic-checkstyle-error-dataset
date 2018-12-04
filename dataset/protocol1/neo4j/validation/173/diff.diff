@@ -1,0 +1,5 @@
+207,208c207
+<     void searchHitOnLastWithFullInternal()
+<     {
+---
+>     void searchHitOnLastWithFullInternal()    {

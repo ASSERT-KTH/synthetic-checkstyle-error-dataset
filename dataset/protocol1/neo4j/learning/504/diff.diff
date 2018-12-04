@@ -1,0 +1,5 @@
+64c64,65
+<         add( new BatchFeedStep( control(), config, backwards( 0, store.getHighId(), config ), store.getRecordSize() ) );
+---
+>         add( new BatchFeedStep
+> ( control(), config, backwards( 0, store.getHighId(), config ), store.getRecordSize() ) );

@@ -1,0 +1,4 @@
+48c48
+<     @Description( "An identifier that, together with store creation time, uniquely identifies this Neo4j graph store." )
+---
+>     @Description( "An identifier that, together with store creation time, uniquely identifies this Neo4j graph store.")

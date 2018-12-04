@@ -1,0 +1,5 @@
+32c32,33
+<     VALUE get( int key );
+---
+>     VALUE get( int 
+> key );

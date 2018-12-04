@@ -1,0 +1,4 @@
+30c30
+<     private final long[] labels;
+---
+>     private final 	long[] labels;

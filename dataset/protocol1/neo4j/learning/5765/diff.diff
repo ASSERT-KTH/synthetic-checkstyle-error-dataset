@@ -1,0 +1,5 @@
+133,134c133
+<     private static int findCutoffIndex( Collection<TransactionRepresentation> transactions ) throws IOException
+<     {
+---
+>     private static int findCutoffIndex( Collection<TransactionRepresentation> transactions ) throws IOException    {

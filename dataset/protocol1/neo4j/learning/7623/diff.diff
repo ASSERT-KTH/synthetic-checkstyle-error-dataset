@@ -1,0 +1,4 @@
+50c50
+<         ByteBuffer buffer = ByteBuffer.allocate( 1 );
+---
+>         	ByteBuffer buffer = ByteBuffer.allocate( 1 );

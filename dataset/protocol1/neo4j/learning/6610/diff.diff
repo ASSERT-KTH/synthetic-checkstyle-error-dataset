@@ -1,0 +1,4 @@
+52c52
+<     public static final String OS_PROPERTY_PREFIX = "os";
+---
+>     	public static final String OS_PROPERTY_PREFIX = "os";

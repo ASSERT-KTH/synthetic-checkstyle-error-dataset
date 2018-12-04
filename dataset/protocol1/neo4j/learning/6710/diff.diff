@@ -1,0 +1,4 @@
+135c135
+<     Lock acquireWriteLock( PropertyContainer entity );
+---
+>     Lock acquireWriteLock( PropertyContainer entity 	);

@@ -1,0 +1,4 @@
+58c58
+<     public String missingParameterAnnotation( @Name( "foo" ) String foo, String oops )
+---
+>     public String missingParameterAnnotation( @Name( "foo" ) String foo, String oops 	)

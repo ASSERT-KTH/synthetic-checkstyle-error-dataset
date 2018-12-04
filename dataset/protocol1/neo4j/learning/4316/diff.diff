@@ -1,0 +1,5 @@
+44c44,45
+<     TopDocsIterator( Query query, QueryContext context, IndexSearcher searcher ) throws IOException
+---
+>     TopDocsIterator
+> ( Query query, QueryContext context, IndexSearcher searcher ) throws IOException

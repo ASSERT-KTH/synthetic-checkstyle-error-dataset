@@ -1,0 +1,4 @@
+98c98
+<         writer.write( new FailureMessage( errorStatus, errorMessage ) );
+---
+>         writer.write ( new FailureMessage( errorStatus, errorMessage ) );

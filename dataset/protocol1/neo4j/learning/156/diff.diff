@@ -1,0 +1,4 @@
+47c47
+<         super( NAME, topic, config, ORDER_SEND_DOWNSTREAM | RECYCLE_BATCHES );
+---
+>         super( NAME, topic, config, ORDER_SEND_DOWNSTREAM | RECYCLE_BATCHES);

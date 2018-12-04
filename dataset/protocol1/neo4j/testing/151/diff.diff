@@ -1,0 +1,4 @@
+232c232
+<     public abstract File getCurrentFile();
+---
+>     public 	abstract File getCurrentFile();

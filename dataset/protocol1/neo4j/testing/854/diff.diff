@@ -1,0 +1,4 @@
+87c87
+<         return Arrays.asList(reader1, reader2);
+---
+>         return Arrays.	asList(reader1, reader2);

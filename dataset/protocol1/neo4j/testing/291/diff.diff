@@ -1,0 +1,4 @@
+28c28
+<     static final BaseUri DEFAULT_SOURCE_BASE = new BaseUri( "compiler:/" );
+---
+>     static final BaseUri DEFAULT_SOURCE_BASE= new BaseUri( "compiler:/" );

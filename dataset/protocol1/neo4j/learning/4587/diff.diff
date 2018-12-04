@@ -1,0 +1,4 @@
+60c60
+<             throw new IllegalStateException( "The updater is not available." );
+---
+>             throw new IllegalStateException ( "The updater is not available." );

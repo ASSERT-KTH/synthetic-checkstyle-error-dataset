@@ -1,0 +1,4 @@
+41c41
+<     private static GraphDatabaseService graphdb;
+---
+>     	private static GraphDatabaseService graphdb;

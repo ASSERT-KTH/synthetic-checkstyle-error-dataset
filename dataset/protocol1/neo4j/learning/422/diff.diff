@@ -1,0 +1,4 @@
+72c72
+<         verify( target, times( 2 ) ).returnVoid();
+---
+>         verify( target, times ( 2 ) ).returnVoid();

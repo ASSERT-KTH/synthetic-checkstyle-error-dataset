@@ -1,0 +1,4 @@
+36c36
+< import static org.neo4j.helpers.collection.Iterables.iterable;
+---
+> import static org.neo4j.helpers.collection.Iterables	.iterable;

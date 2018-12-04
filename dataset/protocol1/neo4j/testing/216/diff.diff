@@ -1,0 +1,5 @@
+41c41,42
+<         JaxRsResponse response = new RestRequest( server().baseUri() ).get( "a/different/relative/data/uri/" );
+---
+>         JaxRsResponse response = new 
+> RestRequest( server().baseUri() ).get( "a/different/relative/data/uri/" );

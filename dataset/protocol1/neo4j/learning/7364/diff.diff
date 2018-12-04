@@ -1,0 +1,4 @@
+59c59
+<             rel = start.createRelationshipTo( end, type );
+---
+>             rel = start.	createRelationshipTo( end, type );

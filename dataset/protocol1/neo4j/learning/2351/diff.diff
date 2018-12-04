@@ -1,0 +1,5 @@
+595c595,596
+<         add( inUse( new NodeRecord( 1, false, 42, NONE ) ) );
+---
+>         add
+> ( inUse( new NodeRecord( 1, false, 42, NONE ) ) );

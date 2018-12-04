@@ -1,0 +1,5 @@
+75c75,76
+<         BoltStateMachine stateMachine = mock( BoltStateMachine.class );
+---
+>         
+> BoltStateMachine stateMachine = mock( BoltStateMachine.class );

@@ -1,0 +1,4 @@
+323c323
+<         return populations.stream().flatMapToInt( this::propertyKeyIds ).distinct().toArray();
+---
+>         return populations.stream().flatMapToInt ( this::propertyKeyIds ).distinct().toArray();

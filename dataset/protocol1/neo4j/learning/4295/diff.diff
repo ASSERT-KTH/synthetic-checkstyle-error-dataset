@@ -1,0 +1,4 @@
+56c56
+<         assertThat( HTTP.GET( node ).status(), equalTo( 200 ) );
+---
+>         assertThat( HTTP.GET( node ).status(), equalTo( 200 ) 	);

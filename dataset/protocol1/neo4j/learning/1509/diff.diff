@@ -1,0 +1,4 @@
+94c94
+<         assertTrue( isValidHttpHeaderName( HttpHeaders.ACCEPT_ENCODING ) );
+---
+>         assertTrue ( isValidHttpHeaderName( HttpHeaders.ACCEPT_ENCODING ) );

@@ -1,0 +1,5 @@
+44c44,45
+<     synchronized int reserveNextPort( String trace )
+---
+>     synchronized int 
+> reserveNextPort( String trace )

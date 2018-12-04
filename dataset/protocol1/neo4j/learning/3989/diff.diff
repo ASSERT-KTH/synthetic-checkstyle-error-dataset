@@ -1,0 +1,5 @@
+24,25c24
+<     void consistencyCheck();
+< }
+---
+>     void consistencyCheck();}

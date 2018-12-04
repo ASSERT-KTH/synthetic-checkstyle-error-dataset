@@ -1,0 +1,4 @@
+37c37
+<                 .add( "management", config.get( ServerSettings.management_api_path ).getPath() + "/", NORMAL )
+---
+>                 .add( "management", config.get( ServerSettings.management_api_path ).	getPath() + "/", NORMAL )

@@ -1,0 +1,5 @@
+27c27,28
+<     private final int indentation;
+---
+>     private final 
+> int indentation;

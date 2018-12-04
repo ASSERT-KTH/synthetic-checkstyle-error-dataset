@@ -1,0 +1,4 @@
+52c52
+<         this.partCursors = parts.toArray( new RawCursor[0] );
+---
+>         this.partCursors = parts.toArray( 	new RawCursor[0] );

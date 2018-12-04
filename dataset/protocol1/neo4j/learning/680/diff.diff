@@ -1,0 +1,5 @@
+119c119,120
+<         public boolean hasOpenStatement()
+---
+>         public boolean 
+> hasOpenStatement()

@@ -1,0 +1,5 @@
+51,52c51
+<     static <T> void assertConsistent( String string1, String string2, BiFunction<TextValue,TextValue,T> test )
+<     {
+---
+>     static <T> void assertConsistent( String string1, String string2, BiFunction<TextValue,TextValue,T> test )    {

@@ -1,0 +1,4 @@
+147c147
+<         EntityUpdates expected = EntityUpdates.forEntity( 0 ).removed( key, value ).build();
+---
+>         	EntityUpdates expected = EntityUpdates.forEntity( 0 ).removed( key, value ).build();

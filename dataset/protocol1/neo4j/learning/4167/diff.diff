@@ -1,0 +1,4 @@
+95c95
+<         public double hitRatio()
+---
+>         	public double hitRatio()

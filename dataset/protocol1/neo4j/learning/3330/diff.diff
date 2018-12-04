@@ -1,0 +1,5 @@
+153c153,154
+<         assertTrue( e.causesFailureMessage() );
+---
+>         assertTrue( e.causesFailureMessage
+> () );

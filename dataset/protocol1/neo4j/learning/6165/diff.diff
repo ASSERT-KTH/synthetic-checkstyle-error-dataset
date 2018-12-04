@@ -1,0 +1,5 @@
+63c63,64
+<             a.createRelationshipTo( c, withName( "TRIANGLE" ) );
+---
+>             
+> a.createRelationshipTo( c, withName( "TRIANGLE" ) );

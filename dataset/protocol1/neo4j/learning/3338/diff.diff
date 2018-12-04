@@ -1,0 +1,5 @@
+22,23c22
+< import com.sun.jersey.api.client.ClientResponse;
+< import com.sun.jersey.core.util.StringKeyObjectValueIgnoreCaseMultivaluedMap;
+---
+> import com.sun.jersey.api.client.ClientResponse;import com.sun.jersey.core.util.StringKeyObjectValueIgnoreCaseMultivaluedMap;

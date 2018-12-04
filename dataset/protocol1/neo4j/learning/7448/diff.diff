@@ -1,0 +1,5 @@
+157,158c157
+<         assertThat( entity = iterator.next(), instanceOf( Node.class ) );
+<         assertEquals( 2, ((Entity) entity).getId() );
+---
+>         assertThat( entity = iterator.next(), instanceOf( Node.class ) );        assertEquals( 2, ((Entity) entity).getId() );

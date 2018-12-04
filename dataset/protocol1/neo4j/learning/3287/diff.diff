@@ -1,0 +1,4 @@
+290c290
+<             return (Query) value;
+---
+>             return(Query) value;

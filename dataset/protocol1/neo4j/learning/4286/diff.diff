@@ -1,0 +1,4 @@
+55c55
+<                 target.write( first, second );
+---
+>                 target.write( first	, second );

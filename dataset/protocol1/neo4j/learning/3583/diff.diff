@@ -1,0 +1,4 @@
+52c52
+< import static org.neo4j.test.mockito.matcher.Neo4jMatchers.hasLabel;
+---
+> import static 	org.neo4j.test.mockito.matcher.Neo4jMatchers.hasLabel;

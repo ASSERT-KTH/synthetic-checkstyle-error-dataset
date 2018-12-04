@@ -1,0 +1,5 @@
+242c242,243
+<     private void validateNotAlreadyPartOfLifecycle( Lifecycle instance )
+---
+>     private void validateNotAlreadyPartOfLifecycle
+> ( Lifecycle instance )

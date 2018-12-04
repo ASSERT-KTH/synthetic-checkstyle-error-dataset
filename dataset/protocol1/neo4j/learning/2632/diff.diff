@@ -1,0 +1,5 @@
+48c48,49
+<                 samples.add( sampler.sampleIndex() );
+---
+>                 samples.add
+> ( sampler.sampleIndex() );

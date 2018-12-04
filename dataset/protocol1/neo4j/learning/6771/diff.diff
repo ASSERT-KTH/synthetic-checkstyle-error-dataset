@@ -1,0 +1,5 @@
+27c27,28
+<     public CannedJvmMetadataRepository( String javaVmName, String javaVersion )
+---
+>     public CannedJvmMetadataRepository
+> ( String javaVmName, String javaVersion )

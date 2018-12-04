@@ -1,0 +1,4 @@
+72c72
+<             throw new InvalidArgumentsException( "Deleting yourself (user '" + username + "') is not allowed." );
+---
+>             throw new InvalidArgumentsException( "Deleting yourself (user '" + username + "') is not allowed." )	;

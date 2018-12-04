@@ -1,0 +1,4 @@
+150c150
+<         DummyJob fourthJob = new DummyJob( "fourth", allRuns );
+---
+>         DummyJob fourthJob 	= new DummyJob( "fourth", allRuns );

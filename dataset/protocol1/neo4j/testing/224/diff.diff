@@ -1,0 +1,5 @@
+45c45,46
+<         ProgressListener progressListener = mock( ProgressListener.class );
+---
+>         ProgressListener progressListener = mock
+> ( ProgressListener.class );

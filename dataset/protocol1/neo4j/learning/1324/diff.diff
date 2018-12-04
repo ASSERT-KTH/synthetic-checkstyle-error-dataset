@@ -1,0 +1,5 @@
+43c43,44
+<         final Object propertyValue = wrappingConfiguration.getProperty( ServerSettings.rest_api_path.name() );
+---
+>         final Object propertyValue = wrappingConfiguration.getProperty
+> ( ServerSettings.rest_api_path.name() );

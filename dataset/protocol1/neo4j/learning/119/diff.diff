@@ -1,0 +1,4 @@
+22c22
+< abstract class TestLayout<KEY,VALUE> extends Layout.Adapter<KEY,VALUE> implements KeyValueSeeder<KEY,VALUE>
+---
+> abstract class TestLayout<KEY,VALUE>extends Layout.Adapter<KEY,VALUE> implements KeyValueSeeder<KEY,VALUE>

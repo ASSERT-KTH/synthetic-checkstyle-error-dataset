@@ -1,0 +1,4 @@
+58c58
+<         return Optional.ofNullable( database );
+---
+>         return Optional.ofNullable( 	database );

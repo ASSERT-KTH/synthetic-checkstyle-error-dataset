@@ -1,0 +1,4 @@
+394c394
+<     public void addingUniquenessConstraintWhenDuplicateDataExistsGivesNiceError()
+---
+>     public void 	addingUniquenessConstraintWhenDuplicateDataExistsGivesNiceError()

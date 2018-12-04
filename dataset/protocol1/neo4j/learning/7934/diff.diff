@@ -1,0 +1,5 @@
+53c53,54
+<                 .withProperty( transaction_timeout.name(), "10" )
+---
+>                 
+> .withProperty( transaction_timeout.name(), "10" )

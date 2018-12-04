@@ -1,0 +1,5 @@
+59c59,60
+<                 "{'statements': [{'statement': 'MATCH (n {prop : 1}) SET n.prop = 3'}]}" ) );
+---
+>                 
+> "{'statements': [{'statement': 'MATCH (n {prop : 1}) SET n.prop = 3'}]}" ) );

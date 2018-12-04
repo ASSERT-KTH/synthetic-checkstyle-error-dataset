@@ -1,0 +1,5 @@
+68,69c68
+<         changes.addRelationship( 3, TYPE, OUTGOING );
+<         changes.addRelationship( 4, TYPE, LOOP );
+---
+>         changes.addRelationship( 3, TYPE, OUTGOING );        changes.addRelationship( 4, TYPE, LOOP );

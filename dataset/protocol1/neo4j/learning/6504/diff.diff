@@ -1,0 +1,4 @@
+171c171
+<         Future<Long> done = threading.execute( new NamedFunction<GraphDatabaseService, Long>( "create-nodes" )
+---
+>         Future<Long>done = threading.execute( new NamedFunction<GraphDatabaseService, Long>( "create-nodes" )

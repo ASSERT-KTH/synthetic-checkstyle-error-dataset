@@ -1,0 +1,5 @@
+53c53,54
+<         shouldGetSettingsFor( Config.defaults(), CoordinateReferenceSystem.Cartesian, 2, 60, new Envelope( -1000000, 1000000, -1000000, 1000000 ) );
+---
+>         shouldGetSettingsFor( Config.defaults(), CoordinateReferenceSystem.Cartesian, 2, 
+> 60, new Envelope( -1000000, 1000000, -1000000, 1000000 ) );

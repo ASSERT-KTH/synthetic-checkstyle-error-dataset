@@ -1,0 +1,4 @@
+22c22
+< public abstract class StoreFailureException extends RuntimeException
+---
+> public abstract 	class StoreFailureException extends RuntimeException

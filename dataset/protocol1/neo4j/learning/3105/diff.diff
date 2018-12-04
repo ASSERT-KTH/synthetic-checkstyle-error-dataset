@@ -1,0 +1,5 @@
+48c48,49
+<     public abstract Lifecycle newInstance( KernelContext context, DEPENDENCIES dependencies );
+---
+>     public abstract Lifecycle newInstance( KernelContext context, DEPENDENCIES 
+> dependencies );

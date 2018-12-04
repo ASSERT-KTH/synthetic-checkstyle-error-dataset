@@ -1,0 +1,5 @@
+60c60,61
+<         return Service.load( CheckPointThresholdPolicy.class, policyName );
+---
+>         return 
+> Service.load( CheckPointThresholdPolicy.class, policyName );

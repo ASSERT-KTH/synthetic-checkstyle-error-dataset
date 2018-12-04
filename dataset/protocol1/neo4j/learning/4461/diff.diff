@@ -1,0 +1,5 @@
+47,48c47
+<     public synchronized void addAll( boolean force, Iterator<T> items )
+<     {
+---
+>     public synchronized void addAll( boolean force, Iterator<T> items )    {

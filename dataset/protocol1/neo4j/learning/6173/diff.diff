@@ -1,0 +1,4 @@
+59c59
+<     public void shouldClearTheCache()
+---
+>     	public void shouldClearTheCache()

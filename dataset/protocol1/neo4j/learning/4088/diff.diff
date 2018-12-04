@@ -1,0 +1,4 @@
+58c58
+<                     documentIsFromStore && idsModifiedInTransactionState.contains( id );
+---
+>                     documentIsFromStore && idsModifiedInTransactionState.	contains( id );

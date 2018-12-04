@@ -1,0 +1,4 @@
+49c49
+<         assertThat( map.get( "var" ), is( "A" ) );
+---
+>         assertThat( map.get( 	"var" ), is( "A" ) );

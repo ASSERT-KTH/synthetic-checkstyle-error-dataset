@@ -1,0 +1,4 @@
+37c37
+<     protected abstract DataProvider dataProvider() throws IOException;
+---
+>     protected abstract DataProvider dataProvider(	) throws IOException;

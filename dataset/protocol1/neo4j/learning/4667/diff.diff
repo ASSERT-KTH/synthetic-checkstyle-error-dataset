@@ -1,0 +1,5 @@
+37c37,38
+<     public Boolean visitType( TypeElement element, Void aVoid )
+---
+>     public Boolean visitType( TypeElement element, Void 
+> aVoid )

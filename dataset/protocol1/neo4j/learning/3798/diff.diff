@@ -1,0 +1,5 @@
+71c71,72
+<     public ConsoleService( ConsoleSessionFactory sessionFactory, Database database, LogProvider logProvider, OutputFormat output )
+---
+>     public 
+> ConsoleService( ConsoleSessionFactory sessionFactory, Database database, LogProvider logProvider, OutputFormat output )

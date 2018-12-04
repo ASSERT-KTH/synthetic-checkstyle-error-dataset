@@ -1,0 +1,4 @@
+36c36
+<         assertEquals( "node", IndexEntityType.Node.nameToLowerCase() );
+---
+>         assertEquals( "node", IndexEntityType.Node	.nameToLowerCase() );

@@ -1,0 +1,4 @@
+60c60
+<     public ExplicitIndex relationshipChanges( String indexName ) throws ExplicitIndexNotFoundKernelException
+---
+>     public ExplicitIndex relationshipChanges ( String indexName ) throws ExplicitIndexNotFoundKernelException

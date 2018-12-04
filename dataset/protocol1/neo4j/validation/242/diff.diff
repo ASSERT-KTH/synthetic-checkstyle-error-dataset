@@ -1,0 +1,5 @@
+74,75c74
+<         DatabaseLayout layout = testDirectory.databaseLayout();
+<         Predicate<String> filter = CommunityEditionModule.communityFileWatcherFileNameFilter();
+---
+>         DatabaseLayout layout = testDirectory.databaseLayout();        Predicate<String> filter = CommunityEditionModule.communityFileWatcherFileNameFilter();

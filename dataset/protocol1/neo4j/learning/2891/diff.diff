@@ -1,0 +1,5 @@
+32,33c32
+<         this.method = method;
+<         this.errorMessage = String.format( message, args );
+---
+>         this.method = method;        this.errorMessage = String.format( message, args );

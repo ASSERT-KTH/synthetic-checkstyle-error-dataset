@@ -1,0 +1,4 @@
+548c548
+<                 builder.put( headerFields.get( entry.getKey() ), entry.getValue() );
+---
+>                 builder.put ( headerFields.get( entry.getKey() ), entry.getValue() );

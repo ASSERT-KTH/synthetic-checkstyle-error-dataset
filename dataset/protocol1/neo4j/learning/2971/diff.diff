@@ -1,0 +1,5 @@
+25c25,26
+< public final class StandardFormatSettings
+---
+> public 
+> final class StandardFormatSettings

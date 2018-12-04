@@ -1,0 +1,4 @@
+30c30
+<     public CursorException( String message )
+---
+>     public 	CursorException( String message )

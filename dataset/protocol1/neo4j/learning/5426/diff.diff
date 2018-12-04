@@ -1,0 +1,4 @@
+109c109
+<         if ( string == null )
+---
+>         if 	( string == null )

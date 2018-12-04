@@ -1,0 +1,4 @@
+56c56
+<     PropertyContainerState EMPTY = new EmptyPropertyContainerState();
+---
+>     PropertyContainerState EMPTY = new EmptyPropertyContainerState(	);

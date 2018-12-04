@@ -1,0 +1,4 @@
+217c217
+<         connection.send( util.chunk( new RunMessage( "UNWIND RANGE (1, 100) AS x RETURN x" ) ) );
+---
+>         connection.send( util.chunk( new RunMessage( "UNWIND RANGE (1, 100) AS x RETURN x" ) ) )	;

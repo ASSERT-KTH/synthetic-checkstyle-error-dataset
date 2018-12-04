@@ -1,0 +1,4 @@
+82c82
+<     private Map<String,Object> toMap( DiscoverableURIs uris )
+---
+>     private Map<String,Object> 	toMap( DiscoverableURIs uris )

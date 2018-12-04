@@ -1,0 +1,5 @@
+61c61,62
+<         verify( fileSystemMock ).close();
+---
+>         verify( fileSystemMock ).close
+> ();

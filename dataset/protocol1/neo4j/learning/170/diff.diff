@@ -1,0 +1,4 @@
+31c31
+< import org.neo4j.graphdb.factory.module.edition.CommunityEditionModule;
+---
+> import org.neo4j.graphdb.factory	.module.edition.CommunityEditionModule;

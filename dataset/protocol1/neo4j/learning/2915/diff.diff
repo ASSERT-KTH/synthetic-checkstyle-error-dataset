@@ -1,0 +1,5 @@
+24c24,25
+< public class RelationshipTypeNotFoundException extends KernelException
+---
+> public 
+> class RelationshipTypeNotFoundException extends KernelException

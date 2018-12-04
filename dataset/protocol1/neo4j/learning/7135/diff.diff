@@ -1,0 +1,5 @@
+96c96,97
+<         expectedException.expectMessage( "Null value" );
+---
+>         
+> expectedException.expectMessage( "Null value" );

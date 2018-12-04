@@ -1,0 +1,4 @@
+51c51
+<     int[] relationshipPropertyIds( long node );
+---
+>     	int[] relationshipPropertyIds( long node );

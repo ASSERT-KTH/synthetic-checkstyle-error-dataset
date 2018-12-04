@@ -1,0 +1,5 @@
+37c37,38
+<     Log getLog( String name );
+---
+>     Log getLog
+> ( String name );

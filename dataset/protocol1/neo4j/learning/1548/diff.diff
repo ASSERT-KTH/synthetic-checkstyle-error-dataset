@@ -1,0 +1,5 @@
+73,74c73
+<         TransactionLogFileInformation info = new TransactionLogFileInformation( logFiles, logHeaderCache, context );
+<         long expected = 5;
+---
+>         TransactionLogFileInformation info = new TransactionLogFileInformation( logFiles, logHeaderCache, context );        long expected = 5;

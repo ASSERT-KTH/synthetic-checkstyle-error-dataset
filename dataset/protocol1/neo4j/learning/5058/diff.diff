@@ -1,0 +1,4 @@
+69c69
+<                 Path zipFsPath = fileSystem.isDirectory( sourceToCompress ) ? zipFs.getPath( rootPath.relativize( sourcePath ).toString() )
+---
+>                 Path zipFsPath = fileSystem	.isDirectory( sourceToCompress ) ? zipFs.getPath( rootPath.relativize( sourcePath ).toString() )

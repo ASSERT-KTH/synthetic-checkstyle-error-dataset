@@ -1,0 +1,4 @@
+62c62
+<         NativeIndexHeaderReader headerReader = new NativeIndexHeaderReader( NO_HEADER_READER );
+---
+>         NativeIndexHeaderReader headerReader = new NativeIndexHeaderReader( NO_HEADER_READER 	);

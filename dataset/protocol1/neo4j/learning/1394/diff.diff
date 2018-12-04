@@ -1,0 +1,5 @@
+311c311,312
+<     void relationshipProperties( long relationshipReference, long reference, PropertyCursor cursor );
+---
+>     void 
+> relationshipProperties( long relationshipReference, long reference, PropertyCursor cursor );

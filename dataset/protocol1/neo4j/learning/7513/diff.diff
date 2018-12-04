@@ -1,0 +1,4 @@
+30c30
+< import org.neo4j.unsafe.impl.batchimport.store.BatchingNeoStores;
+---
+> import org.neo4j.unsafe.impl.batchimport.store	.BatchingNeoStores;

@@ -1,0 +1,5 @@
+450c450,451
+<         assertEquals( transaction, stateMachine.ctx.currentTransaction );
+---
+>         assertEquals
+> ( transaction, stateMachine.ctx.currentTransaction );

@@ -1,0 +1,4 @@
+66c66
+<             select( value.getCoordinateReferenceSystem() ).process( update );
+---
+>             select( value.getCoordinateReferenceSystem() ).process( update 	);

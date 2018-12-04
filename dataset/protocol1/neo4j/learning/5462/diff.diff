@@ -1,0 +1,4 @@
+78c78
+<         assertEquals( 17, ( (Number) map.get( "long" ) ).longValue() );
+---
+>         assertEquals( 17, ( (Number ) map.get( "long" ) ).longValue() );

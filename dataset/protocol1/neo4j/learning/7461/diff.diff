@@ -1,0 +1,4 @@
+55c55
+<     ArrayList<LoggingEvent> getEventsList()
+---
+>     ArrayList<LoggingEvent>getEventsList()

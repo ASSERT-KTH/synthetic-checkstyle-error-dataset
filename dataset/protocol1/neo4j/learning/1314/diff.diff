@@ -1,0 +1,4 @@
+186c186
+<                     protected ValueRepresentation fetchNextOrNull()
+---
+>                     	protected ValueRepresentation fetchNextOrNull()

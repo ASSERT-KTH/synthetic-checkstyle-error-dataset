@@ -1,0 +1,4 @@
+123c123
+<                                 "RestrictedContextTypes#kernelTransaction" ) ), tuple( Diagnostic.Kind.WARNING,
+---
+>                                 "RestrictedContextTypes#kernelTransaction" ) ), 	tuple( Diagnostic.Kind.WARNING,

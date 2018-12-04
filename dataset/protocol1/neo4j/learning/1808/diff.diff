@@ -1,0 +1,4 @@
+144c144
+<                 ConstraintDescriptorFactory.uniqueForLabel( labelId, readConstraintPropertyKeys( buffer ) ),
+---
+>                 ConstraintDescriptorFactory.uniqueForLabel( labelId, 	readConstraintPropertyKeys( buffer ) ),

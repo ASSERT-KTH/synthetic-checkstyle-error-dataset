@@ -1,0 +1,5 @@
+54c54,55
+<                 .withProperty( ServerSettings.transaction_idle_timeout.name(), "1" ).build();
+---
+>                 .withProperty( 
+> ServerSettings.transaction_idle_timeout.name(), "1" ).build();

@@ -1,0 +1,4 @@
+125c125
+<             RelationshipExplicitIndexCursor cursor, String index, String key, Object query, long source, long target )
+---
+>             RelationshipExplicitIndexCursor cursor, String index, String key, Object query, long source	, long target )

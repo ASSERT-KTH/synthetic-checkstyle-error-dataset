@@ -1,0 +1,4 @@
+76c76
+<             if ( block.getValueBlocks().length > freeBlocksInCurrentRecord )
+---
+>             if ( block.	getValueBlocks().length > freeBlocksInCurrentRecord )

@@ -1,0 +1,4 @@
+30c30
+<     private final long max;
+---
+>     private final long 	max;

@@ -1,0 +1,4 @@
+50c50
+<         this.zonedDateTime = new FileLayout<>( new File( indexDirectory, "zonedDateTime" ), new ZonedDateTimeLayout(), ValueGroup.ZONED_DATE_TIME );
+---
+>         this.zonedDateTime = new FileLayout<>( 	new File( indexDirectory, "zonedDateTime" ), new ZonedDateTimeLayout(), ValueGroup.ZONED_DATE_TIME );

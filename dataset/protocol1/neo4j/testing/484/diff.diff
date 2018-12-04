@@ -1,0 +1,4 @@
+76c76
+<         BatchInserterImpl inserter = new BatchInserterImpl( databaseDirectory, fileSystem, config, kernelExtensions );
+---
+>         	BatchInserterImpl inserter = new BatchInserterImpl( databaseDirectory, fileSystem, config, kernelExtensions );

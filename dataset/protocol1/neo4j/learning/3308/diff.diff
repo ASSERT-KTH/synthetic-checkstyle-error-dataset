@@ -1,0 +1,5 @@
+46c46,47
+<     public void drained( BoltConnection from, Collection<Job> batch )
+---
+>     public void 
+> drained( BoltConnection from, Collection<Job> batch )

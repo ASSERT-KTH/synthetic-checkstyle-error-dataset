@@ -1,0 +1,5 @@
+48c48,49
+<                 settings.put( new BoltConnector( DEFAULT_CONNECTOR_KEY ).enabled.name(), "true" );
+---
+>                 settings.put( new BoltConnector( DEFAULT_CONNECTOR_KEY 
+> ).enabled.name(), "true" );

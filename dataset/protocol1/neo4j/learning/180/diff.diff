@@ -1,0 +1,5 @@
+72c72,73
+<     public List<FieldSignature> inputSignature()
+---
+>     public List<FieldSignature> inputSignature
+> ()

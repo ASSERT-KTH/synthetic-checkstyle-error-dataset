@@ -1,0 +1,4 @@
+38c38
+<     void bindTransactionToCurrentThread( KernelTransaction tx );
+---
+>     void bindTransactionToCurrentThread(KernelTransaction tx );

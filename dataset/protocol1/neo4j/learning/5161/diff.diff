@@ -1,0 +1,5 @@
+129,130c129
+<         File corruptedLogsFolder = new File( storeDir, CORRUPTED_TX_LOGS_BASE_NAME );
+<         fs.mkdirs( corruptedLogsFolder );
+---
+>         File corruptedLogsFolder = new File( storeDir, CORRUPTED_TX_LOGS_BASE_NAME );        fs.mkdirs( corruptedLogsFolder );

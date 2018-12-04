@@ -1,0 +1,4 @@
+48c48
+<         verify( monitor ).mayExceedNodeIdCapacity( formats.node().getMaxId(), estimates.numberOfNodes() );
+---
+>         verify( monitor ).mayExceedNodeIdCapacity( formats.node().getMaxId(	), estimates.numberOfNodes() );

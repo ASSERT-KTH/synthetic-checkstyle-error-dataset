@@ -1,0 +1,5 @@
+26,27c26
+<     IndexSampleKey( long indexId )
+<     {
+---
+>     IndexSampleKey( long indexId )    {

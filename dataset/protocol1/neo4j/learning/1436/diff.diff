@@ -1,0 +1,4 @@
+73c73
+<         return new DefaultParameterValue( value, Neo4jTypes.NTByteArray );
+---
+>         return new DefaultParameterValue(value, Neo4jTypes.NTByteArray );

@@ -1,0 +1,4 @@
+34c34
+<             long totalProcessingTime, long average,
+---
+>             	long totalProcessingTime, long average,

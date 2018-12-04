@@ -1,0 +1,4 @@
+66c66
+<             assert p1.getCoordinateReferenceSystem().getDimension() == dimension;
+---
+>             assert p1.getCoordinateReferenceSystem()	.getDimension() == dimension;

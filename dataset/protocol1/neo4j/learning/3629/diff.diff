@@ -1,0 +1,4 @@
+38c38
+<         Config serverDefaultConfig = Config.builder().withServerDefaults().build();
+---
+>         Config serverDefaultConfig = Config	.builder().withServerDefaults().build();

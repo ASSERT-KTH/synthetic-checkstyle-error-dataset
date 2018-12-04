@@ -1,0 +1,4 @@
+73c73
+<                 if ( method.getReturnType().equals( Supplier.class ) )
+---
+>                 if ( method.getReturnType ().equals( Supplier.class ) )

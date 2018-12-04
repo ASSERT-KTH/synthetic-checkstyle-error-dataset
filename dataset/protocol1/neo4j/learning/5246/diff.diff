@@ -1,0 +1,5 @@
+84c84,85
+<     public void add( Function<GraphDatabaseService,Void> fixtureFunction )
+---
+>     public void 
+> add( Function<GraphDatabaseService,Void> fixtureFunction )

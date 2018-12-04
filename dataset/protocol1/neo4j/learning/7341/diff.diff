@@ -1,0 +1,4 @@
+103c103
+<             x = this.length() - other.length();
+---
+>             x = this.length() - other	.length();

@@ -1,0 +1,4 @@
+277c277
+<     abstract Query encodeQuery( Value value, int propertyNumber );
+---
+>     abstract Query encodeQuery( Value value	, int propertyNumber );

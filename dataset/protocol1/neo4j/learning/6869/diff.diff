@@ -1,0 +1,5 @@
+29c29,30
+<         assert assertionEnabled = true;
+---
+>         
+> assert assertionEnabled = true;

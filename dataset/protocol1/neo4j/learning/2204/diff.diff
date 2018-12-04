@@ -1,0 +1,5 @@
+59c59,60
+<     Counts NONE = new Counts()
+---
+>     Counts NONE 
+> = new Counts()

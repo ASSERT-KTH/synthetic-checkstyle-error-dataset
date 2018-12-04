@@ -1,0 +1,5 @@
+47,48c47
+<             response.setStatus( code );
+<             response.addHeader( HttpHeaders.CONTENT_TYPE, "application/json; charset=UTF-8" );
+---
+>             response.setStatus( code );            response.addHeader( HttpHeaders.CONTENT_TYPE, "application/json; charset=UTF-8" );

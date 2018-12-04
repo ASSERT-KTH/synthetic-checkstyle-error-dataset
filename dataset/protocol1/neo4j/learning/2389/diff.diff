@@ -1,0 +1,4 @@
+145c145
+<         long a = idGenerator.nextId();
+---
+>         long 	a = idGenerator.nextId();

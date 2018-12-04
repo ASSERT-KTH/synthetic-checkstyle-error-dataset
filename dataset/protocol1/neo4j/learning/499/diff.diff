@@ -1,0 +1,4 @@
+34c34
+<     public LoggingProvider( LogProvider logProvider )
+---
+>     public LoggingProvider( LogProvider logProvider)

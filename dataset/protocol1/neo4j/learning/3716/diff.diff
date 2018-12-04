@@ -1,0 +1,5 @@
+60c60,61
+<         return (secondsOfDayLocal - secondsOffset) * NANOS_PER_SECOND + value.getNano();
+---
+>         return (secondsOfDayLocal - secondsOffset) * NANOS_PER_SECOND 
+> + value.getNano();

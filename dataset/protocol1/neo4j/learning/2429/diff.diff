@@ -1,0 +1,5 @@
+64c64,65
+<         return IndexEntryUpdate.change( nodeId, schema, toValues( o1 ), toValues( o2 ) );
+---
+>         return IndexEntryUpdate.change
+> ( nodeId, schema, toValues( o1 ), toValues( o2 ) );

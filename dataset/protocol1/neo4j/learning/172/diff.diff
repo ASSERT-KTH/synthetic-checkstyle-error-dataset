@@ -1,0 +1,4 @@
+23c23
+< import org.junit.rules.Timeout;
+---
+> import org.junit.rules	.Timeout;

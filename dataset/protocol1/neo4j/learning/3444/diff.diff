@@ -1,0 +1,4 @@
+174c174
+<         if ( type == PropertyType.STRING && data.length <= MAX_CHARS_IN_TO_STRING )
+---
+>         if ( type == 	PropertyType.STRING && data.length <= MAX_CHARS_IN_TO_STRING )

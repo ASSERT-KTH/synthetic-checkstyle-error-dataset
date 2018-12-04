@@ -1,0 +1,5 @@
+45c45,46
+<         FileSystemAbstraction special = mock( FileSystemAbstraction.class );
+---
+>         
+> FileSystemAbstraction special = mock( FileSystemAbstraction.class );

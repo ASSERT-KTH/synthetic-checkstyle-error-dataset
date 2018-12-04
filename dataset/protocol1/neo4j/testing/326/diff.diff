@@ -1,0 +1,4 @@
+30c30
+<     @UserFunction( name = "randomUUID" )
+---
+>    @UserFunction( name = "randomUUID" )

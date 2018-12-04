@@ -1,0 +1,4 @@
+66c66
+<         assertTrue( fs.fileExists( failureFile ) );
+---
+>         	assertTrue( fs.fileExists( failureFile ) );

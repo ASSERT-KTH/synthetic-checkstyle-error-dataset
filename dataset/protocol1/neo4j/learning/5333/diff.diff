@@ -1,0 +1,4 @@
+113c113
+<         IndexConfigStore config = newIndexConfigStore( names, applierName );
+---
+>         IndexConfigStore config = newIndexConfigStore ( names, applierName );

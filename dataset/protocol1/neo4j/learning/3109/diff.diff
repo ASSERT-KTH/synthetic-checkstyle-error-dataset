@@ -1,0 +1,4 @@
+68c68
+<         long diff = 0;
+---
+>         long diff= 0;

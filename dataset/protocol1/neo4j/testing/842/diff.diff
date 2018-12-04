@@ -1,0 +1,4 @@
+61c61
+<     public static PrimitiveLongResourceIterator filter( PrimitiveLongResourceIterator source, LongPredicate filter )
+---
+>     public static PrimitiveLongResourceIterator filter( PrimitiveLongResourceIterator source	, LongPredicate filter )

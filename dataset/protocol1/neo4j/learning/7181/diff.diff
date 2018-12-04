@@ -1,0 +1,5 @@
+79c79,80
+<                         assertEquals( String.format( "Expected system exit code:%d but was: %d.",
+---
+>                         assertEquals( String.format
+> ( "Expected system exit code:%d but was: %d.",

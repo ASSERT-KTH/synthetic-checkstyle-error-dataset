@@ -1,0 +1,4 @@
+37c37
+<     private JarLoaderSupplier( String... jarPaths )
+---
+>     private JarLoaderSupplier( String	... jarPaths )

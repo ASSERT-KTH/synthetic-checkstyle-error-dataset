@@ -1,0 +1,5 @@
+53c53,54
+<         BoltConnection connection = newConnection( metricsMonitor );
+---
+>         
+> BoltConnection connection = newConnection( metricsMonitor );

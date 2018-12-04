@@ -1,0 +1,5 @@
+61,62c61
+<     public boolean equals( Object o )
+<     {
+---
+>     public boolean equals( Object o )    {

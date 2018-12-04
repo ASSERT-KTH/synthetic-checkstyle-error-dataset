@@ -1,0 +1,4 @@
+98c98
+<         Traverser traverser = getGraphDb().traversalDescription().evaluator( atDepth( 0 ) ).traverse( a );
+---
+>         Traverser traverser = getGraphDb().traversalDescription ().evaluator( atDepth( 0 ) ).traverse( a );

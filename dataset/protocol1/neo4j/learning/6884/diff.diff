@@ -1,0 +1,4 @@
+53c53
+<         luceneIndex.verifyUniqueness( accessor, propertyKeyIds );
+---
+>         	luceneIndex.verifyUniqueness( accessor, propertyKeyIds );

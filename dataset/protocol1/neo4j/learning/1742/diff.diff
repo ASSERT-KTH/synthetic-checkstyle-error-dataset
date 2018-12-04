@@ -1,0 +1,4 @@
+133c133
+<             logs[logVersion] = transactions( transactionCounts[logVersion], txId );
+---
+>             logs[logVersion] = transactions( 	transactionCounts[logVersion], txId );

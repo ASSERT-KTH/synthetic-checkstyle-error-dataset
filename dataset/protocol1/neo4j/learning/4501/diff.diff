@@ -1,0 +1,4 @@
+23c23
+< import org.neo4j.unsafe.impl.batchimport.Configuration;
+---
+> import org.neo4j.unsafe.impl.batchimport.	Configuration;

@@ -1,0 +1,4 @@
+39c39
+<     public static final long VERSION = 3;
+---
+>     public static final long VERSION = 	3;

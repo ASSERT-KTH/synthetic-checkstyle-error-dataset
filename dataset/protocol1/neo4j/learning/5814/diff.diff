@@ -1,0 +1,5 @@
+94c94,95
+<         assertThat( recommendOsMemory( gibiBytes( 1 ) ), between( mebiBytes( 450 ), mebiBytes( 550 ) ) );
+---
+>         assertThat( recommendOsMemory( gibiBytes( 1 ) ), between( mebiBytes( 450 ), mebiBytes( 550 ) 
+> ) );

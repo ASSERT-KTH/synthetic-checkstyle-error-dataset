@@ -1,0 +1,4 @@
+26c26
+<     boolean visit( Buffer key, Buffer value ) throws IOException;
+---
+>     boolean visit( Buffer key, Buffer value) throws IOException;

@@ -1,0 +1,4 @@
+47c47
+< import org.neo4j.kernel.impl.transaction.log.checkpoint.CheckPointer;
+---
+> import org.neo4j.kernel.impl.	transaction.log.checkpoint.CheckPointer;

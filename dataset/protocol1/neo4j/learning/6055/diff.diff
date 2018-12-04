@@ -1,0 +1,5 @@
+106,107c106
+<             p5 = tx.tokenWrite().propertyKeyCreateForName( "p5" );
+<             tx.dataWrite().nodeSetProperty( node, p1, Values.of( 1 ) );
+---
+>             p5 = tx.tokenWrite().propertyKeyCreateForName( "p5" );            tx.dataWrite().nodeSetProperty( node, p1, Values.of( 1 ) );

@@ -1,0 +1,4 @@
+30c30
+< abstract class AbstractTracker<ARRAY extends NumberArray> implements Tracker
+---
+> abstract class AbstractTracker< ARRAY extends NumberArray> implements Tracker

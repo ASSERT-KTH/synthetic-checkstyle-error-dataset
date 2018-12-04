@@ -1,0 +1,4 @@
+43c43
+<         this.relationships = new InternalAutoIndexOperations( propertyKeyLookup, InternalAutoIndexOperations.EntityType.RELATIONSHIP );
+---
+>         this	.relationships = new InternalAutoIndexOperations( propertyKeyLookup, InternalAutoIndexOperations.EntityType.RELATIONSHIP );

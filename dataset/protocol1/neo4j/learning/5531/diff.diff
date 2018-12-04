@@ -1,0 +1,5 @@
+24c24,25
+< public class ParameterTypeError implements CompilationMessage
+---
+> public class 
+> ParameterTypeError implements CompilationMessage

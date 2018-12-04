@@ -1,0 +1,4 @@
+52c52
+<         Iterator<NamedToken> propIdsBeforeCommit = transaction.tokenRead().propertyKeyGetAllTokens();
+---
+>         Iterator<NamedToken> propIdsBeforeCommit = transaction.	tokenRead().propertyKeyGetAllTokens();

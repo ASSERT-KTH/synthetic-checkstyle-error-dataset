@@ -1,0 +1,4 @@
+340c340
+<         PageSwapperFactory factory = createSwapperFactory();
+---
+>         PageSwapperFactory factory =createSwapperFactory();

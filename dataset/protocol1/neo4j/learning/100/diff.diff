@@ -1,0 +1,4 @@
+36c36
+<     boolean process( T item );
+---
+>     boolean process( 	T item );

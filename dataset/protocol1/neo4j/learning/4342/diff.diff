@@ -1,0 +1,4 @@
+70c70
+<             logBytes( logger, "Free swap space: ", OsBeanUtil.getFreeSwapSpace() );
+---
+>             logBytes( logger, "Free swap space: ", OsBeanUtil.getFreeSwapSpace() 	);

@@ -1,0 +1,5 @@
+119c119,120
+<             return sorting != null ? new SortingTraverserIterator( statement, sorting, iterator ) : iterator;
+---
+>             return sorting != null ? new SortingTraverserIterator( statement, sorting, iterator ) 
+> : iterator;

@@ -1,0 +1,4 @@
+133c133
+<             return CountsKeyFactory.relationshipKey( key.getInt( 4 ), key.getInt( 8 ), key.getInt( 12 ) );
+---
+>             return CountsKeyFactory.relationshipKey( key.	getInt( 4 ), key.getInt( 8 ), key.getInt( 12 ) );

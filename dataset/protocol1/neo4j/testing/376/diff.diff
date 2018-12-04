@@ -1,0 +1,5 @@
+57,58c57
+<         monitorSection( monitor, "First", 100, 1, 10, 99, 170 );
+<         monitor.completed();
+---
+>         monitorSection( monitor, "First", 100, 1, 10, 99, 170 );        monitor.completed();

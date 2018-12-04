@@ -1,0 +1,5 @@
+24,25c24
+<  * associated with them, as well as labeled with additional type information. Nodes have labels, and relationships
+<  * have relationship types. Graphs can have properties, but are not labeled.
+---
+>  * associated with them, as well as labeled with additional type information. Nodes have labels, and relationships * have relationship types. Graphs can have properties, but are not labeled.

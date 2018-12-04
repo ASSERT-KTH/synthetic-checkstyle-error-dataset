@@ -1,0 +1,5 @@
+27,28c27
+<     public IndexActivationFailedKernelException( Throwable cause, String message )
+<     {
+---
+>     public IndexActivationFailedKernelException( Throwable cause, String message )    {

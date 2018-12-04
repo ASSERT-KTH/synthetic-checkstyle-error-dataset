@@ -1,0 +1,4 @@
+61c61
+<             description = description.expand( PathExpanders.forTypeAndDirection( ONE, OUTGOING ) );
+---
+>             description= description.expand( PathExpanders.forTypeAndDirection( ONE, OUTGOING ) );

@@ -1,0 +1,4 @@
+75c75
+<         StoreChannel storeChannel = fileSystemRule.get().open( file, OpenMode.READ );
+---
+>         StoreChannel storeChannel = fileSystemRule.get().open( file, OpenMode	.READ );

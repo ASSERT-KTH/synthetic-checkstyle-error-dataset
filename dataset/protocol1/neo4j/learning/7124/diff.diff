@@ -1,0 +1,5 @@
+26,27c26
+<     void assertRecordsEquals( RECORD written, RECORD read );
+< }
+---
+>     void assertRecordsEquals( RECORD written, RECORD read );}

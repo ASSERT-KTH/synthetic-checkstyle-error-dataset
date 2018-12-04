@@ -1,0 +1,5 @@
+57c57,58
+<                 ? DynamicNodeLabels.get( node, nodeStore )
+---
+>                 ? DynamicNodeLabels.get
+> ( node, nodeStore )

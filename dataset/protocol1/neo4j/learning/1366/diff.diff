@@ -1,0 +1,4 @@
+28c28
+<     boolean addAll( PrimitiveIntIterator values );
+---
+>     boolean addAll( PrimitiveIntIterator values);

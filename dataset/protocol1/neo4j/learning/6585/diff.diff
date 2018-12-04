@@ -1,0 +1,4 @@
+24c24
+<     void corruptedLogFile( long version, Throwable t );
+---
+>     void corruptedLogFile( long 	version, Throwable t );

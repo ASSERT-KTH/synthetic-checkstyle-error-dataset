@@ -1,0 +1,5 @@
+216,217c216
+<         Value prevValue = Values.of( "prevValue" );
+<         state.relationshipDoRemoveProperty( 1L, propertyKeyId );
+---
+>         Value prevValue = Values.of( "prevValue" );        state.relationshipDoRemoveProperty( 1L, propertyKeyId );

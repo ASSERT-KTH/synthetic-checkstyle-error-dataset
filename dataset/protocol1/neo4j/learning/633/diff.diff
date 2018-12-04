@@ -1,0 +1,4 @@
+70c70
+<         BoltChannel boltChannel = new BoltChannel( "bolt-1", "bolt", channel );
+---
+>         BoltChannel boltChannel = new BoltChannel( "bolt-1"	, "bolt", channel );

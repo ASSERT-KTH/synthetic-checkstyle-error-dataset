@@ -1,0 +1,5 @@
+54c54,55
+<     public boolean isOpen()
+---
+>     
+> public boolean isOpen()

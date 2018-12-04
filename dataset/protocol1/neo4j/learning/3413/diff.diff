@@ -1,0 +1,4 @@
+23c23
+< package org.neo4j.graphdb.config;
+---
+> 	package org.neo4j.graphdb.config;

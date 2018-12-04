@@ -1,0 +1,5 @@
+58c58,59
+<     private static class Scan<R extends AbstractBaseRecord> extends PrefetchingResourceIterator<R>
+---
+>     
+> private static class Scan<R extends AbstractBaseRecord> extends PrefetchingResourceIterator<R>

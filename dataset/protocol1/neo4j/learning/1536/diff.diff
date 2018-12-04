@@ -1,0 +1,4 @@
+143c143
+<         cursor.setOffset( offsetBefore );
+---
+>         cursor.setOffset( 	offsetBefore );

@@ -1,0 +1,5 @@
+48c48,49
+<         return ( kernelExtensionFactory, e ) -> out.println( kernelExtensionFactory + " missing dep " + e );
+---
+>         return ( kernelExtensionFactory, e ) -> out.println( kernelExtensionFactory + " missing dep " + e 
+> );

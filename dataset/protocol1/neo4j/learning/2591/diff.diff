@@ -1,0 +1,5 @@
+197c197,198
+<         protected Optional<EntryUpdater<Key>> optionalUpdater( long version, Lock lock )
+---
+>         protected Optional<EntryUpdater<Key>> 
+> optionalUpdater( long version, Lock lock )

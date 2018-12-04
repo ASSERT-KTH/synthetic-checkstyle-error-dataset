@@ -1,0 +1,5 @@
+64c64,65
+<             db.schema().constraintFor( label( "Label1" ) ).assertPropertyIsUnique( "key1" ).create();
+---
+>             db.schema().constraintFor( label( "Label1" ) ).assertPropertyIsUnique( "key1" 
+> ).create();

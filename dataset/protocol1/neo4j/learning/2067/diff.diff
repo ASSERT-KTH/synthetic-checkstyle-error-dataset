@@ -1,0 +1,4 @@
+82c82
+<     public SuppressOutput suppressOutput = SuppressOutput.suppressAll();
+---
+>     public SuppressOutput suppressOutput = SuppressOutput.suppressAll ();

@@ -1,0 +1,4 @@
+98c98
+<                 long c = getByte( offset + 2 ) & 0xFF;
+---
+>                 long c = getByte( offset + 2 ) & 0xFF	;

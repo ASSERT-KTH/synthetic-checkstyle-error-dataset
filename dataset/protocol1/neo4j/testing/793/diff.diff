@@ -1,0 +1,5 @@
+62c62,63
+<         return methodReference( typeReference( owner ), returns, name, modifiers, parameters );
+---
+>         return methodReference( typeReference( owner ), 
+> returns, name, modifiers, parameters );

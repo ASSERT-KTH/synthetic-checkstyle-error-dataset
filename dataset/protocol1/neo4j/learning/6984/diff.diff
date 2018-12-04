@@ -1,0 +1,5 @@
+46c46,47
+<             void copyTo( DoubleLong.Out target );
+---
+>             void copyTo( DoubleLong.Out 
+> target );

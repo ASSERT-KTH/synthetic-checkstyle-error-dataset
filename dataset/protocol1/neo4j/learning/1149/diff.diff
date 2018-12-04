@@ -1,0 +1,4 @@
+32c32
+<     private final EmbeddedProxySPI EmbeddedProxySPI;
+---
+>     private 	final EmbeddedProxySPI EmbeddedProxySPI;

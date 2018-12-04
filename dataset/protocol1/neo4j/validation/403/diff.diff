@@ -1,0 +1,4 @@
+44c44
+<         this.limitationsUnion = limitationsUnion( capabilities );
+---
+>         this.limitationsUnion = limitationsUnion( capabilities )	;

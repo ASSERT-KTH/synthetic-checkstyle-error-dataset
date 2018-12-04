@@ -1,0 +1,5 @@
+64c64,65
+<         return ElementFilter.methodsIn( types.asElement( mirror ).getEnclosedElements() ).stream()
+---
+>         return ElementFilter.methodsIn( types.asElement
+> ( mirror ).getEnclosedElements() ).stream()

@@ -1,0 +1,4 @@
+205c205
+<                 assertEquals( barLabel, labels.label( 1 ) );
+---
+>                 	assertEquals( barLabel, labels.label( 1 ) );

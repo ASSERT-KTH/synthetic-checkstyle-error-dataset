@@ -1,0 +1,4 @@
+77c77
+<         Map<String, Object> serialized = serializeToStringThenParseAsToMap( new CypherResultRepresentation( result,
+---
+>         Map<String	, Object> serialized = serializeToStringThenParseAsToMap( new CypherResultRepresentation( result,

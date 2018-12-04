@@ -1,0 +1,5 @@
+61,62c61
+<     @SuppressWarnings( "boxing" )
+<     protected void writeInteger( String type, String key, long value )
+---
+>     @SuppressWarnings( "boxing" )    protected void writeInteger( String type, String key, long value )

@@ -1,0 +1,4 @@
+41c41
+<     FileWatcher SILENT_WATCHER = new SilentFileWatcher();
+---
+>     FileWatcher SILENT_WATCHER 	= new SilentFileWatcher();

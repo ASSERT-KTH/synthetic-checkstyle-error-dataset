@@ -1,0 +1,4 @@
+160c160
+<         httpAdvertisedAddress = advertisedAddressFor( config, httpConnector );
+---
+>         httpAdvertisedAddress = advertisedAddressFor( config, 	httpConnector );

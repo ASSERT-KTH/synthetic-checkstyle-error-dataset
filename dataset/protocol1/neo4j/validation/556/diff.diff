@@ -1,0 +1,4 @@
+77c77
+<         TransactionToApply[] txs = new TransactionToApply[batchSize];
+---
+>         TransactionToApply[] txs = new TransactionToApply[	batchSize];

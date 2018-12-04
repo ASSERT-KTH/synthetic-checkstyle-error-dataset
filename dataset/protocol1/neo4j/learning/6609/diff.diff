@@ -1,0 +1,4 @@
+24c24
+< import org.neo4j.consistency.store.synthetic.LabelScanDocument;
+---
+> import org.neo4j.consistency.	store.synthetic.LabelScanDocument;

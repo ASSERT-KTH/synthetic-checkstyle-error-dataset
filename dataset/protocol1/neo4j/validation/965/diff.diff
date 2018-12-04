@@ -1,0 +1,4 @@
+27c27
+< import org.neo4j.internal.kernel.api.Transaction.Type;
+---
+> import org.neo4j.internal.kernel.api.Transaction.Type	;

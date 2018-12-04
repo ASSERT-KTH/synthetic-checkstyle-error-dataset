@@ -1,0 +1,4 @@
+112c112
+<                         (dir == Direction.BOTH) ? node.getRelationships( type ) : node.getRelationships( type, dir );
+---
+>                         (dir == Direction.BOTH) ? node.getRelationships( type ) : 	node.getRelationships( type, dir );

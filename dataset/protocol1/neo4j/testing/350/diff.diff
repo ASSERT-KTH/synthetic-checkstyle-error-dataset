@@ -1,0 +1,5 @@
+29c29,30
+<     String PATH_SCHEMA_INDEX = "schema/index";
+---
+>     String PATH_SCHEMA_INDEX = 
+> "schema/index";

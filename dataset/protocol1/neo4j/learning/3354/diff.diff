@@ -1,0 +1,5 @@
+63,64c63
+<             String length = response.getHeaders( "CONTENT-LENGTH" )[0].getValue();
+<             byte[] data = new byte[Integer.valueOf( length )];
+---
+>             String length = response.getHeaders( "CONTENT-LENGTH" )[0].getValue();            byte[] data = new byte[Integer.valueOf( length )];

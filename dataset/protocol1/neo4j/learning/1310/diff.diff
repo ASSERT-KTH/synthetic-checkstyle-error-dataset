@@ -1,0 +1,4 @@
+298c298
+<         Assume.assumeTrue( supportsDirectTraversal() );
+---
+>         Assume	.assumeTrue( supportsDirectTraversal() );

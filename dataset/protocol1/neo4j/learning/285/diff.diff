@@ -1,0 +1,4 @@
+54c54
+<             if ( usedMemory.compareAndSet( usedMemoryBefore, usedMemoryAfter ) )
+---
+>             if( usedMemory.compareAndSet( usedMemoryBefore, usedMemoryAfter ) )

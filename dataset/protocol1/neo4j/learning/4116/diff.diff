@@ -1,0 +1,4 @@
+33c33
+<     boolean visited( long key, long value ) throws E;
+---
+>     boolean visited( long key, long value ) throws E	;

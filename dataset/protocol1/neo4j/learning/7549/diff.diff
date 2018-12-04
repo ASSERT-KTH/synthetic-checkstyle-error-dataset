@@ -1,0 +1,5 @@
+35c35,36
+<     public void visit( ResourceType resourceType, long resourceId, String description, long estimatedWaitTime,
+---
+>     public 
+> void visit( ResourceType resourceType, long resourceId, String description, long estimatedWaitTime,

@@ -1,0 +1,4 @@
+478c478
+<         public ExplicitIndexHits get( String key, Object valueOrNull, long startNode, long endNode )
+---
+>         public 	ExplicitIndexHits get( String key, Object valueOrNull, long startNode, long endNode )

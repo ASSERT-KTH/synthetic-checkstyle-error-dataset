@@ -1,0 +1,5 @@
+260c260,261
+<         updateAndCommit( asList( add( nodeId, value ), add( nodeId2, value2 ) ) );
+---
+>         updateAndCommit( asList( add( nodeId, value ), add
+> ( nodeId2, value2 ) ) );

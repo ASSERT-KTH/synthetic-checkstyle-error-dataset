@@ -1,0 +1,4 @@
+31c31
+<         this.counts = new int[maxLevel + 1];
+---
+>         this.counts = 	new int[maxLevel + 1];

@@ -1,0 +1,4 @@
+72c72
+<         when( fileSystem.fileExists( fileName2 ) ).thenReturn( true );
+---
+>         when( fileSystem.fileExists( 	fileName2 ) ).thenReturn( true );

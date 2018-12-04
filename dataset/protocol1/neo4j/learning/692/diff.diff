@@ -1,0 +1,5 @@
+113,114c113
+<         String[] arguments = {"123"};
+<         setPasswordCommand.execute( arguments );
+---
+>         String[] arguments = {"123"};        setPasswordCommand.execute( arguments );

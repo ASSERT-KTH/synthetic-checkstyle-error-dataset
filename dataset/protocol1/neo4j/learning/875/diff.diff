@@ -1,0 +1,5 @@
+435c435,436
+<         protected PropertyRecord createNullRecord( long id )
+---
+>         protected PropertyRecord createNullRecord( 
+> long id )

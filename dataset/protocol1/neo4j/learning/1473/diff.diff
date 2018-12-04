@@ -1,0 +1,4 @@
+58c58
+<     class EmptyPropertyContainerState implements PropertyContainerState
+---
+>     class EmptyPropertyContainerState 	implements PropertyContainerState

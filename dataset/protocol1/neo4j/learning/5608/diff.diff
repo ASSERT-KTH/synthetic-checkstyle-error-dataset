@@ -1,0 +1,4 @@
+39c39
+< import static org.neo4j.kernel.impl.index.schema.GeometryType.hasCoordinates;
+---
+> import static 	org.neo4j.kernel.impl.index.schema.GeometryType.hasCoordinates;

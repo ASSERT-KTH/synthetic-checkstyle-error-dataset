@@ -1,0 +1,4 @@
+61c61
+<             this.max[dim] = max;
+---
+>             this.max[dim] = max	;

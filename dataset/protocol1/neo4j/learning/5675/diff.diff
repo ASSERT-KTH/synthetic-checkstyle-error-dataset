@@ -1,0 +1,4 @@
+79c79
+<                 freeBlocksInCurrentRecord = PropertyType.getPayloadSizeLongs();
+---
+>                 freeBlocksInCurrentRecord = PropertyType	.getPayloadSizeLongs();

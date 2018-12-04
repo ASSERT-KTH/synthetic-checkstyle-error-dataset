@@ -1,0 +1,5 @@
+92c92,93
+<     private Logger getLogger( LogRecord record, Log log )
+---
+>     private Logger getLogger( 
+> LogRecord record, Log log )

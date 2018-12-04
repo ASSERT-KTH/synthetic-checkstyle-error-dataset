@@ -1,0 +1,4 @@
+36c36
+<     public void process( IndexEntryUpdate<?> update ) throws IndexEntryConflictException
+---
+>     public void process( IndexEntryUpdate<?> 	update ) throws IndexEntryConflictException

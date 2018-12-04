@@ -1,0 +1,5 @@
+30,31c30
+<  * Writes batches of transactions, each containing groups of commands to a log that is guaranteed to be recoverable,
+<  * i.e. consistently readable, in the event of failure.
+---
+>  * Writes batches of transactions, each containing groups of commands to a log that is guaranteed to be recoverable, * i.e. consistently readable, in the event of failure.

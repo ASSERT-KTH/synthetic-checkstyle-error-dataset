@@ -1,0 +1,4 @@
+141c141
+<                     return (Representation) obj;
+---
+>                     return(Representation) obj;

@@ -1,0 +1,5 @@
+56c56,57
+<         verify( connectionTracker ).remove( connection );
+---
+>         verify( connectionTracker ).remove
+> ( connection );

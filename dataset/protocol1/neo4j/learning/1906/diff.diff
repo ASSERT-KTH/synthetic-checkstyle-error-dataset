@@ -1,0 +1,4 @@
+38c38
+<     CancellationRequest NEVER_CANCELLED = () -> false;
+---
+>     CancellationRequest NEVER_CANCELLED = () -> false	;

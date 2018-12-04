@@ -1,0 +1,5 @@
+168,169c168
+<             private boolean hasSeenNext;
+<             private boolean hasNext;
+---
+>             private boolean hasSeenNext;            private boolean hasNext;

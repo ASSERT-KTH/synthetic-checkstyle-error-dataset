@@ -1,0 +1,4 @@
+104c104
+<         InternalTransaction transaction = new TopLevelTransaction( kernelTransaction );
+---
+>         InternalTransaction transaction = new TopLevelTransaction ( kernelTransaction );

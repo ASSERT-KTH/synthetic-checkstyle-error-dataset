@@ -1,0 +1,4 @@
+86c86
+<             return new Result<>( target, -1, failure );
+---
+>             return new Result<>( target, -	1, failure );

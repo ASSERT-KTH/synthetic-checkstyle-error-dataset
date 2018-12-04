@@ -1,0 +1,4 @@
+31c31
+< import org.neo4j.internal.kernel.api.exceptions.explicitindex.AutoIndexingKernelException;
+---
+> import org.neo4j.internal.kernel.api.exceptions.explicitindex	.AutoIndexingKernelException;

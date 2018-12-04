@@ -1,0 +1,5 @@
+33,34c33
+<     public OptionalHostnamePort( Optional<String> hostname, Optional<Integer> port, Optional<Integer> upperRangePort )
+<     {
+---
+>     public OptionalHostnamePort( Optional<String> hostname, Optional<Integer> port, Optional<Integer> upperRangePort )    {

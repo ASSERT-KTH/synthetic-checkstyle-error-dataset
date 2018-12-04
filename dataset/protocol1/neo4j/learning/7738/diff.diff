@@ -1,0 +1,5 @@
+62c62,63
+<             throw new IllegalArgumentException( "Cannot lookup names for tokens of type: " + type );
+---
+>             throw new IllegalArgumentException( "Cannot lookup names for tokens of type: " + 
+> type );

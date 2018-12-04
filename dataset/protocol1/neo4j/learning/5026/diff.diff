@@ -1,0 +1,4 @@
+447c447
+<             return oldValue.asObjectCopy();
+---
+>             return oldValue.asObjectCopy(	);

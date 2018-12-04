@@ -1,0 +1,4 @@
+189c189
+<             read.nodeProperties( node.nodeReference(), node.propertiesReference(), props );
+---
+>             read.nodeProperties( 	node.nodeReference(), node.propertiesReference(), props );

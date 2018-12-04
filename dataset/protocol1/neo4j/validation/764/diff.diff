@@ -1,0 +1,4 @@
+46c46
+<                 declaredType.getTypeArguments().stream().map( this::visit ).reduce( ( a, b ) -> a && b ).orElse( Boolean.TRUE );
+---
+>                 declaredType	.getTypeArguments().stream().map( this::visit ).reduce( ( a, b ) -> a && b ).orElse( Boolean.TRUE );

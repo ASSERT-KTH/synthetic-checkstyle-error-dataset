@@ -1,0 +1,4 @@
+40c40
+<     public AuthenticationException( Status status, String message, Throwable e )
+---
+>     public AuthenticationException( 	Status status, String message, Throwable e )

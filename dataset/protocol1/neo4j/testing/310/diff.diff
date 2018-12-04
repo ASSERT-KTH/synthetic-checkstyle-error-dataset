@@ -1,0 +1,5 @@
+33,34c33
+<     public RelationshipAutoIndexerFacade( Supplier<ReadableRelationshipIndex> idxSupplier,
+<                                           AutoIndexOperations autoIndexing )
+---
+>     public RelationshipAutoIndexerFacade( Supplier<ReadableRelationshipIndex> idxSupplier,                                          AutoIndexOperations autoIndexing )

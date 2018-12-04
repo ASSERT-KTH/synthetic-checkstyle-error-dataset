@@ -1,0 +1,4 @@
+30c30
+<     public MalformedSchemaRuleException( Throwable cause, String message, Object... parameters )
+---
+>     public 	MalformedSchemaRuleException( Throwable cause, String message, Object... parameters )

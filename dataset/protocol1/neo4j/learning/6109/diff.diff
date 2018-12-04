@@ -1,0 +1,4 @@
+79c79
+<         return new KernelStatement( transaction, null, storageReader,
+---
+>         return new KernelStatement( 	transaction, null, storageReader,

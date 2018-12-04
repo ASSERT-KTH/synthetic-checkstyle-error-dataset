@@ -1,0 +1,5 @@
+31,32c31
+<     protected Runnable wholeFileRacer( NumberArray array, int contestant )
+<     {
+---
+>     protected Runnable wholeFileRacer( NumberArray array, int contestant )    {

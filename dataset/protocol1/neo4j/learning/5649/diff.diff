@@ -1,0 +1,4 @@
+143c143
+<         return new PathExpanderBuilder( expander.addRelationshipFilter( filter ) );
+---
+>         return new PathExpanderBuilder( expander.addRelationshipFilter( filter 	) );

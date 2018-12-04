@@ -1,0 +1,5 @@
+49c49,50
+<             new TransactionMetadataCache.TransactionMetadata( -1, -1, LogPosition.start( 0 ), BASE_TX_CHECKSUM,
+---
+>             new TransactionMetadataCache.TransactionMetadata( -1, 
+> -1, LogPosition.start( 0 ), BASE_TX_CHECKSUM,

@@ -1,0 +1,4 @@
+30c30
+<     private static final int MAJOR_VERSION = 0;
+---
+>     private static final 	int MAJOR_VERSION = 0;

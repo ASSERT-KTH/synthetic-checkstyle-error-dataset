@@ -1,0 +1,5 @@
+49,50c49
+<         this.defrag = idRange.getDefragIds();
+<         this.start = idRange.getRangeStart();
+---
+>         this.defrag = idRange.getDefragIds();        this.start = idRange.getRangeStart();

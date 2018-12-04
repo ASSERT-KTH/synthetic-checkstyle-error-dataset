@@ -1,0 +1,5 @@
+101c101,102
+<         byte[] invalidMessage = rawData.getBytes();
+---
+>         byte[] invalidMessage = 
+> rawData.getBytes();

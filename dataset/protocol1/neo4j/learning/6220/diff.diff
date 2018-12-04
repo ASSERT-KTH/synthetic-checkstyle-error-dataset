@@ -1,0 +1,5 @@
+185c185,186
+<             for ( Value secondValue : allValues )
+---
+>             for ( Value secondValue : allValues 
+> )

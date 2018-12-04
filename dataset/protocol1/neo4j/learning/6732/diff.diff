@@ -1,0 +1,4 @@
+390c390
+<             }, database.getGraph().schema().getConstraints( label( labelName ) ) );
+---
+>             }, database.getGraph ().schema().getConstraints( label( labelName ) ) );

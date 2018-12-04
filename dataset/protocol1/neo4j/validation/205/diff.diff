@@ -1,0 +1,5 @@
+71c71,72
+<     COUNTS_STORE_A( false, DatabaseFileNames.COUNTS_STORE_A ),
+---
+>     COUNTS_STORE_A( false, DatabaseFileNames.COUNTS_STORE_A 
+> ),

@@ -1,0 +1,4 @@
+210c210
+<     protected Headers initialHeaders( long txId )
+---
+>     protected Headers initialHeaders( long 	txId )

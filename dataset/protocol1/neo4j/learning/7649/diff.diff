@@ -1,0 +1,4 @@
+79c79
+<             session.run( "MATCH (n)            CALL " + procedureNamespace + ".simpleInput08(n) RETURN n" );
+---
+>             session.run( "MATCH (n)            CALL " + 	procedureNamespace + ".simpleInput08(n) RETURN n" );

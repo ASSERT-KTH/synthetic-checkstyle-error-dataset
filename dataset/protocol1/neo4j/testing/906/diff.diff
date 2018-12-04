@@ -1,0 +1,4 @@
+178c178
+<     private int randomInt( int maxBits )
+---
+>     private int randomInt( int 	maxBits )

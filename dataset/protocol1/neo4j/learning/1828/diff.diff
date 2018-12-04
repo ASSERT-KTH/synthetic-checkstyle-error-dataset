@@ -1,0 +1,4 @@
+150c150
+<     public <R> R execute( WorkerCommand<T, R> cmd, long timeout, TimeUnit unit ) throws Exception
+---
+>     public <R> R execute ( WorkerCommand<T, R> cmd, long timeout, TimeUnit unit ) throws Exception

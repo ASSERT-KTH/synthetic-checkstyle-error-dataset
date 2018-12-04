@@ -1,0 +1,4 @@
+68c68
+<         arrayRecordIds.reset();
+---
+>         	arrayRecordIds.reset();

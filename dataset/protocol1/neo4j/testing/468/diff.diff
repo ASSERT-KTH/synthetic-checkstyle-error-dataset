@@ -1,0 +1,5 @@
+45c45,46
+<     RecordAccess<PropertyKeyTokenRecord, Void> getPropertyKeyTokenChanges();
+---
+>     
+> RecordAccess<PropertyKeyTokenRecord, Void> getPropertyKeyTokenChanges();

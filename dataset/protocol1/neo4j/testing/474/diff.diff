@@ -1,0 +1,5 @@
+32c32,33
+<         this.age = age < 0 ? DEFAULT_AGE : age;
+---
+>         this.age = age < 0 ? 
+> DEFAULT_AGE : age;

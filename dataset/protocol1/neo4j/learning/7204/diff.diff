@@ -1,0 +1,4 @@
+85c85
+<         Map<String,String> migratedProperties = migrator.apply( stringMap( "dbms.transaction_timeout", "120s" ), getLog() );
+---
+>         Map<String,String> migratedProperties = migrator.apply( stringMap( "dbms.transaction_timeout", 	"120s" ), getLog() );

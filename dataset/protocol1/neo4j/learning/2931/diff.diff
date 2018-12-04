@@ -1,0 +1,4 @@
+129c129
+<             value.writeTo( writer );
+---
+>             	value.writeTo( writer );

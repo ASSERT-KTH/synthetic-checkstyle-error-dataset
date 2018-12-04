@@ -1,0 +1,5 @@
+47,48c47
+<         Read read = mock( Read.class );
+<         IndexReference index = mock( IndexReference.class );
+---
+>         Read read = mock( Read.class );        IndexReference index = mock( IndexReference.class );

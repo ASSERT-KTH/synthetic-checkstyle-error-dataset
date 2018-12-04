@@ -1,0 +1,4 @@
+60c60
+<         return proxy( key, loader.load( key, additionalData ), additionalData, false );
+---
+>         	return proxy( key, loader.load( key, additionalData ), additionalData, false );

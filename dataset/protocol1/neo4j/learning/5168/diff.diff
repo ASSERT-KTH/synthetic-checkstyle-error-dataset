@@ -1,0 +1,4 @@
+71c71
+<                     if ( j % numberOfAdders == finalI )
+---
+>                     if ( j 	% numberOfAdders == finalI )

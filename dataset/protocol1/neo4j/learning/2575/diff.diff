@@ -1,0 +1,5 @@
+222,223c222
+<             return dispatchDoubleProperty( (Double) property, param );
+<         }
+---
+>             return dispatchDoubleProperty( (Double) property, param );        }

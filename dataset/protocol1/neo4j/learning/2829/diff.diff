@@ -1,0 +1,4 @@
+32c32
+<     RelationshipIndex getOrCreateRelationshipIndex( String indexName, Map<String, String> customConfiguration );
+---
+>     RelationshipIndex getOrCreateRelationshipIndex( String indexName, Map<String	, String> customConfiguration );

@@ -1,0 +1,4 @@
+30c30
+<     Optional<GraphDatabaseFacade> getDatabaseFacade( String name );
+---
+>     Optional<GraphDatabaseFacade> getDatabaseFacade( String name);

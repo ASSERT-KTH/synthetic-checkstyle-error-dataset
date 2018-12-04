@@ -1,0 +1,5 @@
+40c40,41
+<     public void niceSproc2( @Name( "foo" ) String parameter )
+---
+>     
+> public void niceSproc2( @Name( "foo" ) String parameter )

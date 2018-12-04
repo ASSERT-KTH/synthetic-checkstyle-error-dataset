@@ -1,0 +1,5 @@
+54c54,55
+<         when( portProbe.isOccupied( 43 ) ).thenReturn( false );
+---
+>         when( portProbe.isOccupied( 43 ) 
+> ).thenReturn( false );

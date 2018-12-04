@@ -1,0 +1,4 @@
+89c89
+<         LogEntryCommit commit = (LogEntryCommit) o;
+---
+>         	LogEntryCommit commit = (LogEntryCommit) o;

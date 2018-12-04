@@ -1,0 +1,4 @@
+57c57
+<                  "Return the number of relationships of a particular direction for a node.\n" +
+---
+>                  	"Return the number of relationships of a particular direction for a node.\n" +

@@ -1,0 +1,4 @@
+35c35
+<         return new InputMappingStructureBuilder<>( mapping, builder );
+---
+>         return new InputMappingStructureBuilder<>( mapping, builder )	;

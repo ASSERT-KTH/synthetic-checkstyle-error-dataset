@@ -1,0 +1,4 @@
+420c420
+<                 equalTo( nodeEntry("", Arrays.asList(), "prop2", Arrays.asList( "Integer", "Float" ), false) ),
+---
+>                 equalTo( nodeEntry(""	, Arrays.asList(), "prop2", Arrays.asList( "Integer", "Float" ), false) ),

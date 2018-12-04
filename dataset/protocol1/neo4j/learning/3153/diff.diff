@@ -1,0 +1,4 @@
+42c42
+<         if ( this == o )
+---
+>         if ( this 	== o )

@@ -1,0 +1,4 @@
+43c43
+<     private IndexCreatorImpl( InternalSchemaActions actions, Label label, Optional<String> indexName, Collection<String> propertyKeys )
+---
+>     private IndexCreatorImpl( 	InternalSchemaActions actions, Label label, Optional<String> indexName, Collection<String> propertyKeys )

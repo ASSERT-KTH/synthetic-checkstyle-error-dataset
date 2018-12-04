@@ -1,0 +1,5 @@
+54c54,55
+<         deps.satisfyDependencies( fileSystem, config, logService, pageCache, recoveryCollector, monitors, jobScheduler, tokenHolders );
+---
+>         deps.satisfyDependencies( 
+> fileSystem, config, logService, pageCache, recoveryCollector, monitors, jobScheduler, tokenHolders );

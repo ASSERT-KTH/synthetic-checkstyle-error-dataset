@@ -1,0 +1,4 @@
+34c34
+<     Resource EMPTY = () -> {};
+---
+>     Resource EMPTY = (	) -> {};

@@ -1,0 +1,5 @@
+56c56,57
+<         return new File( indexDirectory, fileNames.next() );
+---
+>         return new File( 
+> indexDirectory, fileNames.next() );

@@ -1,0 +1,4 @@
+69c69
+<         return slots.get( array.get( index ), slot );
+---
+>         return slots.get( array.get( index )	, slot );

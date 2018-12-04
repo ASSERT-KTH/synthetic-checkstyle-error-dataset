@@ -1,0 +1,5 @@
+24c24,25
+<     long put( long key, long value );
+---
+>     long 
+> put( long key, long value );

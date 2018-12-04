@@ -1,0 +1,5 @@
+96c96,97
+<     long write( long startFilePageId, long[] bufferAddresses, int arrayOffset, int length ) throws IOException;
+---
+>     long write
+> ( long startFilePageId, long[] bufferAddresses, int arrayOffset, int length ) throws IOException;

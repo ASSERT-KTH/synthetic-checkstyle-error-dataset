@@ -1,0 +1,5 @@
+105c105,106
+<         while ( ( theElement = clock.poll() ) != null )
+---
+>         while 
+> ( ( theElement = clock.poll() ) != null )

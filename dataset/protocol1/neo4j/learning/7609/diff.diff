@@ -1,0 +1,4 @@
+84c84
+<                     int value = random.nextInt();
+---
+>                     int 	value = random.nextInt();

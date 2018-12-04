@@ -1,0 +1,5 @@
+302,303c302
+<         TokenRead tokenRead = transaction.tokenRead();
+<         int person = tokenRead.nodeLabel( "Person" );
+---
+>         TokenRead tokenRead = transaction.tokenRead();        int person = tokenRead.nodeLabel( "Person" );

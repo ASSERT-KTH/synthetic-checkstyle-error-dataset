@@ -1,0 +1,5 @@
+88c88,89
+<         File dir = new File( args.get( ImportTool.Options.STORE_DIR.key() ) );
+---
+>         File dir = 
+> new File( args.get( ImportTool.Options.STORE_DIR.key() ) );

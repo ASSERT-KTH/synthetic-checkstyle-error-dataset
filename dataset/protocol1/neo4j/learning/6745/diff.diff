@@ -1,0 +1,5 @@
+74c74,75
+<     public <E extends Exception> void writeTo( ValueWriter<E> writer ) throws E
+---
+>     public <E extends Exception> void writeTo( ValueWriter<E> writer 
+> ) throws E

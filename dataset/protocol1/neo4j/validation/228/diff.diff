@@ -1,0 +1,5 @@
+170c170,171
+<     public JaxRsResponse get( String path, final MediaType acceptType )
+---
+>     public JaxRsResponse get( 
+> String path, final MediaType acceptType )

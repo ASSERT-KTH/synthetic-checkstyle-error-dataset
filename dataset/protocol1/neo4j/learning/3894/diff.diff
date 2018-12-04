@@ -1,0 +1,4 @@
+39c39
+<     private final RequestMessageDecoder decoder = new BeginMessageDecoder( responseHandler );
+---
+>     private final RequestMessageDecoder decoder= new BeginMessageDecoder( responseHandler );

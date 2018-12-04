@@ -1,0 +1,5 @@
+182c182,183
+<         TransactionLogFilesContext filesContext = buildContext();
+---
+>         TransactionLogFilesContext filesContext 
+> = buildContext();

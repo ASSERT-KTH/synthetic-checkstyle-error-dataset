@@ -1,0 +1,5 @@
+30c30,31
+<         assertFacadeMethodsThrowNotInTransaction( obtainEntity(), GraphDatabaseServiceFacadeMethods.values() );
+---
+>         assertFacadeMethodsThrowNotInTransaction( obtainEntity
+> (), GraphDatabaseServiceFacadeMethods.values() );

@@ -1,0 +1,4 @@
+158c158
+<             HashCodeComputer that = (HashCodeComputer) o;
+---
+>             HashCodeComputer that =(HashCodeComputer) o;

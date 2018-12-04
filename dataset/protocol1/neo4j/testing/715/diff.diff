@@ -1,0 +1,5 @@
+285c285,286
+<         Relationship rel1 = node.createRelationshipTo( db.createNode(), MyRelTypes.TEST );
+---
+>         Relationship rel1 
+> = node.createRelationshipTo( db.createNode(), MyRelTypes.TEST );

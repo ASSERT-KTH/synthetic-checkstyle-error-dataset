@@ -1,0 +1,4 @@
+71c71
+<         return new RecoveryStartInformationProvider( tailScanner, NO_MONITOR ).get().isRecoveryRequired();
+---
+>         return new RecoveryStartInformationProvider( tailScanner, NO_MONITOR ).get().isRecoveryRequired ();

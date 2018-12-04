@@ -1,0 +1,4 @@
+209c209
+<         try ( Transaction tx = database.getGraph().beginTransaction( implicit, AUTH_DISABLED ) )
+---
+>         try ( Transaction tx = database.getGraph().beginTransaction( implicit, 	AUTH_DISABLED ) )

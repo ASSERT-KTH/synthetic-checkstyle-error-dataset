@@ -1,0 +1,4 @@
+60c60
+<             while ( l < lhs.length && lhs[l] < rhs[r] )
+---
+>             while ( l < lhs.length && lhs[l] < rhs[r	] )

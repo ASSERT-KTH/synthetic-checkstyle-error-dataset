@@ -1,0 +1,4 @@
+63c63
+<         if ( queue[headIndex % queue.length] != expectedValue )
+---
+>         if ( queue	[headIndex % queue.length] != expectedValue )

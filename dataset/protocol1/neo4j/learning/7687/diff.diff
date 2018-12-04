@@ -1,0 +1,4 @@
+44c44
+<     interface VisitableDiagnostics<T> extends DiagnosticsExtractor<T>
+---
+>     	interface VisitableDiagnostics<T> extends DiagnosticsExtractor<T>

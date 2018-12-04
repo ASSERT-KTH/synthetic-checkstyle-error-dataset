@@ -1,0 +1,5 @@
+38,39c38
+<         }
+<         indexProviders.put( name, index );
+---
+>         }        indexProviders.put( name, index );

@@ -1,0 +1,4 @@
+28c28
+<     WritableBuffer putShort( int offset, short value );
+---
+>     WritableBuffer putShort ( int offset, short value );

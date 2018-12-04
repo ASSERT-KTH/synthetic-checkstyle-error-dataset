@@ -1,0 +1,5 @@
+54,55c54
+<     public static class UnmappableRecord
+<     {
+---
+>     public static class UnmappableRecord    {

@@ -1,0 +1,4 @@
+54c54
+<         this.propertyDeleter = new PropertyDeleter( propertyTraverser );
+---
+>         this.propertyDeleter = 	new PropertyDeleter( propertyTraverser );

@@ -1,0 +1,4 @@
+42c42
+<         testRecordDistribution( QueueDistribution.ROUND_ROBIN );
+---
+>         testRecordDistribution( QueueDistribution.ROUND_ROBIN )	;

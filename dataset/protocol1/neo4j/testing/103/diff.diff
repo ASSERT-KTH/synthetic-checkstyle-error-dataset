@@ -1,0 +1,5 @@
+249,250c249
+<                         cacheAccess.putToCacheSingle( node.getId(), SLOT_PREV_OR_NEXT, NEXT );
+<                     }
+---
+>                         cacheAccess.putToCacheSingle( node.getId(), SLOT_PREV_OR_NEXT, NEXT );                    }

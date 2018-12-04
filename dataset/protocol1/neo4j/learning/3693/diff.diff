@@ -1,0 +1,5 @@
+66c66,67
+<                 engine.comparativeCheck( dereference.lookup( records, record.getNextBlock() ), this );
+---
+>                 engine.comparativeCheck( dereference.lookup
+> ( records, record.getNextBlock() ), this );

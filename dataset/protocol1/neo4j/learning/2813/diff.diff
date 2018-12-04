@@ -1,0 +1,4 @@
+31c31
+< import org.neo4j.internal.kernel.api.schema.constraints.ConstraintDescriptor;
+---
+> import org.neo4j.internal.kernel.api	.schema.constraints.ConstraintDescriptor;

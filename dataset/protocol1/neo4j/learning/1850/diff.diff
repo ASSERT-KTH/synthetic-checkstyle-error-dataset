@@ -1,0 +1,4 @@
+43c43
+< import static org.neo4j.helpers.collection.Iterators.asList;
+---
+> import static org.neo4j.helpers.collection.Iterators	.asList;

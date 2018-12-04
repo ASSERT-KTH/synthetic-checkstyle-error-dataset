@@ -1,0 +1,5 @@
+502c502,503
+<                                             : shortestPath( lengthChecker, maxDepth ) );
+---
+>                                             : shortestPath( lengthChecker, maxDepth ) 
+> );

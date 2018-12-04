@@ -1,0 +1,5 @@
+100,101c100
+<         for ( Function<GraphDatabaseService,Void> fixtureFunction : fixtureFunctions )
+<         {
+---
+>         for ( Function<GraphDatabaseService,Void> fixtureFunction : fixtureFunctions )        {

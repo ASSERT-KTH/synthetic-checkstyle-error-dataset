@@ -1,0 +1,4 @@
+24c24
+< public class RelationshipScanCursorTest extends RelationshipScanCursorTestBase<ReadTestSupport>
+---
+> public class RelationshipScanCursorTest 	extends RelationshipScanCursorTestBase<ReadTestSupport>

@@ -1,0 +1,4 @@
+60c60
+< import org.neo4j.graphdb.RelationshipType;
+---
+> import org	.neo4j.graphdb.RelationshipType;

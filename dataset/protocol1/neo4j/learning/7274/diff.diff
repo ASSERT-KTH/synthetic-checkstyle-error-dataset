@@ -1,0 +1,4 @@
+70c70
+<     PackOutput writeLong( long value ) throws IOException;
+---
+>     PackOutput writeLong( long value ) throws 	IOException;

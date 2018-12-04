@@ -1,0 +1,4 @@
+74c74
+<     public static long encodeGroup( long groupId )
+---
+>     public static 	long encodeGroup( long groupId )

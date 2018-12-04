@@ -1,0 +1,5 @@
+56,57c56
+<         if ( graphDb != null )
+<         {
+---
+>         if ( graphDb != null )        {

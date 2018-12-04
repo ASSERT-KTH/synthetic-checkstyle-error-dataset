@@ -1,0 +1,5 @@
+274c274,275
+<     private static void assertItems( PrimitiveLongIterator iterator, long... expectedItems )
+---
+>     private static void 
+> assertItems( PrimitiveLongIterator iterator, long... expectedItems )

@@ -1,0 +1,5 @@
+225c225,226
+<     private IndexingService getIndexingService( GraphDatabaseService database )
+---
+>     private 
+> IndexingService getIndexingService( GraphDatabaseService database )

@@ -1,0 +1,4 @@
+29c29
+< import static org.neo4j.kernel.impl.transaction.log.pruning.ThresholdConfigParser.parse;
+---
+> import static org.neo4j.kernel.impl.transaction.log.	pruning.ThresholdConfigParser.parse;

@@ -1,0 +1,4 @@
+196c196
+<     private static BoltChannel newBoltChannel( EmbeddedChannel rawChannel )
+---
+>     private static 	BoltChannel newBoltChannel( EmbeddedChannel rawChannel )

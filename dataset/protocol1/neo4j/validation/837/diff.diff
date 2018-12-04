@@ -1,0 +1,4 @@
+49c49
+<         allocation.put( threadId, allocatedBytes( threadId ) + bytes );
+---
+>         allocation.put( threadId, allocatedBytes ( threadId ) + bytes );

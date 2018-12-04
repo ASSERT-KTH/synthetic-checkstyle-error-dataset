@@ -1,0 +1,4 @@
+28c28
+<     public String niceFunction( String parameter, String otherParam )
+---
+>     public String niceFunction( String 	parameter, String otherParam )

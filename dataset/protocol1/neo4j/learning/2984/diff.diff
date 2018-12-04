@@ -1,0 +1,5 @@
+234c234,235
+<         assertEquals( inRelCount + outRelCount + loopRelCount, degreeForDirection( cursor, RelationshipDirection.LOOP) );
+---
+>         assertEquals( inRelCount + outRelCount 
+> + loopRelCount, degreeForDirection( cursor, RelationshipDirection.LOOP) );

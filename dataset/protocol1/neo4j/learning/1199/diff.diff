@@ -1,0 +1,4 @@
+148c148
+<         if ( left.values.length != right.values.length )
+---
+>         if ( left.values.length 	!= right.values.length )

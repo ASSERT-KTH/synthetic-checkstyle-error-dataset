@@ -1,0 +1,4 @@
+36c36
+<         assert value != null;
+---
+>         assert value !=null;

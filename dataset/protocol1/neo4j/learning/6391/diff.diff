@@ -1,0 +1,4 @@
+40c40
+<     R computeSpecific( LabelSchemaDescriptor schema );
+---
+>     R computeSpecific( 	LabelSchemaDescriptor schema );

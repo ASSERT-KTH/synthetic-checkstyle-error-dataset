@@ -1,0 +1,5 @@
+48c48,49
+<     public int compareTo( VirtualValue other, Comparator<AnyValue> comparator )
+---
+>     public int 
+> compareTo( VirtualValue other, Comparator<AnyValue> comparator )

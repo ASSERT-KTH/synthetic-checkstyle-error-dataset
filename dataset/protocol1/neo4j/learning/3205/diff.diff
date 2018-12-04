@@ -1,0 +1,4 @@
+42c42
+<     public boolean allowsWrites()
+---
+>     public boolean 	allowsWrites()

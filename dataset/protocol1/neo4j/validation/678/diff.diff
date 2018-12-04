@@ -1,0 +1,5 @@
+71,72c71
+<         LauncherDiscoveryRequest discoveryRequest = LauncherDiscoveryRequestBuilder.request()
+<                 .selectors( selectMethod( ProfilerExtensionVerificationTest.class, testName ))
+---
+>         LauncherDiscoveryRequest discoveryRequest = LauncherDiscoveryRequestBuilder.request()                .selectors( selectMethod( ProfilerExtensionVerificationTest.class, testName ))

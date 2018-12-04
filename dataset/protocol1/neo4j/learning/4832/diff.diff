@@ -1,0 +1,4 @@
+117c117
+<                 long startCount = read.countsForRelationshipWithoutTxState( label.id(), t.id(), -1 );
+---
+>                 long startCount = read.countsForRelationshipWithoutTxState( label.id(), t.id (), -1 );

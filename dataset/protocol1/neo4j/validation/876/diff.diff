@@ -1,0 +1,5 @@
+116,117c116
+<         if ( o instanceof RelationTypeSchemaDescriptor )
+<         {
+---
+>         if ( o instanceof RelationTypeSchemaDescriptor )        {

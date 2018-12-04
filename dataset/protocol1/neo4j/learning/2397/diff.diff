@@ -1,0 +1,5 @@
+61,62c61
+<         BoltIOException e = assertThrows( BoltIOException.class,
+<                 () -> parseTransactionMetadata( asMapValue( map( "tx_metadata", "{key1: 'value1', key2: 'value2'}" ) ) ) );
+---
+>         BoltIOException e = assertThrows( BoltIOException.class,                () -> parseTransactionMetadata( asMapValue( map( "tx_metadata", "{key1: 'value1', key2: 'value2'}" ) ) ) );

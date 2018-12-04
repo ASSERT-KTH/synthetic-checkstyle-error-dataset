@@ -1,0 +1,4 @@
+28c28
+<     private final ByteBuffer buffer = ByteBuffer.allocate( 64 * 1024 );
+---
+>     private final ByteBuffer buffer = ByteBuffer.allocate( 64 * 1024 	);

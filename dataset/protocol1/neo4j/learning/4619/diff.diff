@@ -1,0 +1,4 @@
+49c49
+<         long recordsPerCPU = RecordDistributor.calculateRecordsPerCpu( store.maxCount(), numberOfThreads );
+---
+>         long recordsPerCPU = RecordDistributor.calculateRecordsPerCpu( store.maxCount(), numberOfThreads )	;

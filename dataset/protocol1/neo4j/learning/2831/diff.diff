@@ -1,0 +1,4 @@
+80c80
+<         result = 31 * result + recordType().hashCode();
+---
+>         result = 31 * result + recordType().	hashCode();

@@ -1,0 +1,5 @@
+67c67,68
+<         return db.bidirectionalTraversalDescription().startSide( side.expand( expander ).evaluator( toDepth( onDepth / 2 ) ) )
+---
+>         return db.bidirectionalTraversalDescription().startSide( side.expand( 
+> expander ).evaluator( toDepth( onDepth / 2 ) ) )

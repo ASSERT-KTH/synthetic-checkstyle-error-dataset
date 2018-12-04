@@ -1,0 +1,4 @@
+187c187
+<     static final TypeReference[] NO_TYPES = new TypeReference[0];
+---
+>     static final 	TypeReference[] NO_TYPES = new TypeReference[0];

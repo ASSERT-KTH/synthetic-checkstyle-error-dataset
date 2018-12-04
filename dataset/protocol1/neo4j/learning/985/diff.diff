@@ -1,0 +1,4 @@
+474c474
+<         assertNextValue( seeker, mark, COMMA, "s\"ix" );
+---
+>         assertNextValue( seeker, mark, COMMA, "s\"ix" )	;

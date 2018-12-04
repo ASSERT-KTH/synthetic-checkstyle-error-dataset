@@ -1,0 +1,5 @@
+76c76,77
+<             assertThat( logEntries( crashedFs, logFile ), containsExactly(
+---
+>             assertThat
+> ( logEntries( crashedFs, logFile ), containsExactly(

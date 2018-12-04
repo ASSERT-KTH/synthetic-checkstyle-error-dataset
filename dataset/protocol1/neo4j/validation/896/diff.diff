@@ -1,0 +1,5 @@
+39,40c39
+<         Neo4jPack.Packer packer = mock( Neo4jPack.Packer.class );
+<         IgnoredMessageEncoder encoder = new IgnoredMessageEncoder();
+---
+>         Neo4jPack.Packer packer = mock( Neo4jPack.Packer.class );        IgnoredMessageEncoder encoder = new IgnoredMessageEncoder();

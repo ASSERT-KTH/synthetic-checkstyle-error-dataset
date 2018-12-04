@@ -1,0 +1,5 @@
+69c69,70
+<         public Lock acquireNodeLock( long nodeId, LockType type )
+---
+>         public 
+> Lock acquireNodeLock( long nodeId, LockType type )

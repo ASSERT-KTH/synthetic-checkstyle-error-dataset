@@ -1,0 +1,4 @@
+48c48
+<         public abstract RawIterator<Object[], ProcedureException> apply(
+---
+>         public abstract RawIterator<Object[], ProcedureException> apply (

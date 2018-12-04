@@ -1,0 +1,4 @@
+145c145
+<                 Values.pointValue( WGS84, -90, -90 ),
+---
+>                 Values.pointValue( WGS84, -90, -90 	),

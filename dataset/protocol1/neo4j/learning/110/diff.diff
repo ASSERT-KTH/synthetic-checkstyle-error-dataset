@@ -1,0 +1,4 @@
+82c82
+<         NodeValueClientFilter filter = initializeFilter( IndexQuery.exists( 12 ) );
+---
+>         NodeValueClientFilter filter =initializeFilter( IndexQuery.exists( 12 ) );

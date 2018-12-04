@@ -1,0 +1,4 @@
+50c50
+<     abstract IndexSearcher asSearcher( TxDataHolder holder, QueryContext context );
+---
+>     abstract IndexSearcher asSearcher( TxDataHolder holder, QueryContext context);

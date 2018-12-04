@@ -1,0 +1,4 @@
+268c268
+<                 new LogPosition( endLogVersion, Integer.MAX_VALUE + 17L ) );
+---
+>                 new LogPosition( endLogVersion, Integer.MAX_VALUE + 17L) );

@@ -1,0 +1,5 @@
+45c45,46
+<     public void shouldRemoveIndexCountsWhenTheIndexItselfIsDropped() throws IOException
+---
+>     public 
+> void shouldRemoveIndexCountsWhenTheIndexItselfIsDropped() throws IOException

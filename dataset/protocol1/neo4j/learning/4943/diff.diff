@@ -1,0 +1,5 @@
+40c40,41
+<         return locksFactory.newInstance( config, clock, ResourceTypes.values() );
+---
+>         
+> return locksFactory.newInstance( config, clock, ResourceTypes.values() );

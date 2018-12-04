@@ -1,0 +1,4 @@
+110c110
+<             SYMBOL_CHARS[i++] = c;
+---
+>             SYMBOL_CHARS[i++] = c	;

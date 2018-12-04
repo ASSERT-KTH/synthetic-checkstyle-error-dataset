@@ -1,0 +1,5 @@
+57c57,58
+<             public void processSpecific( org.neo4j.internal.kernel.api.schema.SchemaDescriptor schemaDescriptor )
+---
+>             public void 
+> processSpecific( org.neo4j.internal.kernel.api.schema.SchemaDescriptor schemaDescriptor )

@@ -1,0 +1,4 @@
+25c25
+< public class TransactionStreamingState extends AbstractStreamingState
+---
+> public 	class TransactionStreamingState extends AbstractStreamingState

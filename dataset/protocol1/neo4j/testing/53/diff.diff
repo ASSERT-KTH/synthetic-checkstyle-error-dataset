@@ -1,0 +1,4 @@
+60c60
+<             long transactionTimeoutMillis = activeTransaction.timeoutMillis();
+---
+>             long transactionTimeoutMillis = activeTransaction.timeoutMillis ();

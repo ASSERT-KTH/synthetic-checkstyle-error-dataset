@@ -1,0 +1,5 @@
+28c28,29
+<         super( cause.getMessage(), cause );
+---
+>         super( cause.getMessage(), cause 
+> );

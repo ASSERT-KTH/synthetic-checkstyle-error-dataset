@@ -1,0 +1,5 @@
+89c89,90
+<         Object myObject = MAPPER.readValue( json, Object.class );
+---
+>         Object 
+> myObject = MAPPER.readValue( json, Object.class );

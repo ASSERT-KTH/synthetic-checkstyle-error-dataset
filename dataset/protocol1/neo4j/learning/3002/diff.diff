@@ -1,0 +1,4 @@
+258c258
+<             assertThrows( IndexEntryConflictException.class, () -> verifier.verify( nodePropertyAccessor, PROPERTY_KEY_IDS, updatedPropertyValues ) );
+---
+>             assertThrows( IndexEntryConflictException.class, () ->verifier.verify( nodePropertyAccessor, PROPERTY_KEY_IDS, updatedPropertyValues ) );

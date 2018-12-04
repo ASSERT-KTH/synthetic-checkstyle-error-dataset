@@ -1,0 +1,5 @@
+64,65c64
+<         assertThat( charValue( 'a' ).trim(), equalTo( charValue( 'a' ) ) );
+<         assertThat( charValue( ' ' ).trim(), equalTo( EMPTY_STRING ) );
+---
+>         assertThat( charValue( 'a' ).trim(), equalTo( charValue( 'a' ) ) );        assertThat( charValue( ' ' ).trim(), equalTo( EMPTY_STRING ) );

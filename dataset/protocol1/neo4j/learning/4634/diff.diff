@@ -1,0 +1,4 @@
+54c54
+<         return overlap >= 0.99 || depth >= maxDepth;
+---
+>         return overlap >= 0.99 || depth >= maxDepth	;

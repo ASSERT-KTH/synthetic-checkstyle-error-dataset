@@ -1,0 +1,4 @@
+33c33
+<         return new Resource( type, name, producer );
+---
+>         return new Resource ( type, name, producer );

@@ -1,0 +1,4 @@
+121c121
+<                 if ( path.length() == 0 )
+---
+>                 if ( path.	length() == 0 )

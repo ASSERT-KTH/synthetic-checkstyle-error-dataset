@@ -1,0 +1,5 @@
+28c28,29
+<     public RetrieveResult( String section, Map<String,Object> data )
+---
+>     public RetrieveResult( 
+> String section, Map<String,Object> data )

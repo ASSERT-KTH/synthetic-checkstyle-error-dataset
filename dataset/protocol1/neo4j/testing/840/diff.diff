@@ -1,0 +1,4 @@
+25c25
+<     String PATH_NODE_INDEX = "index/node";
+---
+>     String PATH_NODE_INDEX= "index/node";

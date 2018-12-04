@@ -1,0 +1,4 @@
+89c89
+<         GraphDatabaseService graphDatabaseService = dbRule.getGraphDatabaseAPI();
+---
+>         GraphDatabaseService graphDatabaseService = dbRule.getGraphDatabaseAPI(	);

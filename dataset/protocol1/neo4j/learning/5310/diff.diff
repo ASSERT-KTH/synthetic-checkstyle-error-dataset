@@ -1,0 +1,4 @@
+50c50
+<     public Neo4jWithSocket server = new Neo4jWithSocket( getClass(),
+---
+>     public 	Neo4jWithSocket server = new Neo4jWithSocket( getClass(),

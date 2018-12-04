@@ -1,0 +1,5 @@
+40,41c40
+<     protected GraphDatabaseService obtainEntityInTransaction( GraphDatabaseService graphDatabaseService )
+<     {
+---
+>     protected GraphDatabaseService obtainEntityInTransaction( GraphDatabaseService graphDatabaseService )    {

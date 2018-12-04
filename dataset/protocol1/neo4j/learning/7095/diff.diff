@@ -1,0 +1,5 @@
+53,54c53
+<     private final Set<ConstraintDefinition> constraints = new HashSet<>();
+<     private long highestNodeId;
+---
+>     private final Set<ConstraintDefinition> constraints = new HashSet<>();    private long highestNodeId;

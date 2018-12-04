@@ -1,0 +1,5 @@
+120c120,121
+<     static boolean isInternal( PageCursor cursor )
+---
+>     static boolean isInternal( PageCursor cursor 
+> )

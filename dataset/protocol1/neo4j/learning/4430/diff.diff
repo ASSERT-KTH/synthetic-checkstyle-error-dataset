@@ -1,0 +1,5 @@
+28,29c28
+<     public static FieldReference field( TypeReference owner, TypeReference type, String name )
+<     {
+---
+>     public static FieldReference field( TypeReference owner, TypeReference type, String name )    {

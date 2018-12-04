@@ -1,0 +1,5 @@
+52c52,53
+<             String string1 = random.nextAsciiString();
+---
+>             String 
+> string1 = random.nextAsciiString();

@@ -1,0 +1,4 @@
+102c102
+<                            CheckerEngine<CountsEntry,ConsistencyReport.CountsConsistencyReport> engine,
+---
+>                            CheckerEngine< CountsEntry,ConsistencyReport.CountsConsistencyReport> engine,

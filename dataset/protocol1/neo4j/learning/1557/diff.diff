@@ -1,0 +1,4 @@
+87c87
+<             TransactionCountersChecker checker = new TransactionCountersChecker( counts );
+---
+>             TransactionCountersChecker 	checker = new TransactionCountersChecker( counts );

@@ -1,0 +1,4 @@
+40c40
+<         assertEquals( "1m42s30ms405μs60ns", nanosToString( 102030405060L ) );
+---
+>         	assertEquals( "1m42s30ms405μs60ns", nanosToString( 102030405060L ) );

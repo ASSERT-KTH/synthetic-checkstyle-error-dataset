@@ -1,0 +1,4 @@
+40c40
+< import static org.neo4j.graphdb.factory.GraphDatabaseSettings.pagecache_memory;
+---
+> import static org.neo4j.graphdb.factory.	GraphDatabaseSettings.pagecache_memory;

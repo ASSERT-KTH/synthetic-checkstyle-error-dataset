@@ -1,0 +1,4 @@
+36c36
+<     private final JsonFormat input = new JsonFormat();
+---
+>     private 	final JsonFormat input = new JsonFormat();

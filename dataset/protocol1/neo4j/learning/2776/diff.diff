@@ -1,0 +1,5 @@
+87,88c87
+<         if ( element == 0 )
+<         {
+---
+>         if ( element == 0 )        {

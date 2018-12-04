@@ -1,0 +1,4 @@
+67c67
+<         assertEquals( asSet( 2L ), diffSets.getRemoved() );
+---
+>         assertEquals( asSet ( 2L ), diffSets.getRemoved() );

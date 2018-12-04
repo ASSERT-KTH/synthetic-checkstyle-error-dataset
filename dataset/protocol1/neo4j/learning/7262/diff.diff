@@ -1,0 +1,5 @@
+113c113,114
+<     public String genericInput03( @Name( "foo" ) Map<String,List<Node>> input )
+---
+>     public String 
+> genericInput03( @Name( "foo" ) Map<String,List<Node>> input )

@@ -1,0 +1,5 @@
+25c25,26
+< public abstract class AbstractExplicitIndexHits extends PrimitiveLongBaseIterator implements ExplicitIndexHits
+---
+> public abstract class AbstractExplicitIndexHits extends PrimitiveLongBaseIterator implements 
+> ExplicitIndexHits

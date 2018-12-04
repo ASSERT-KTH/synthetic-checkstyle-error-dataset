@@ -1,0 +1,4 @@
+35c35
+<     public void encode( Neo4jPack.Packer packer, SuccessMessage message ) throws IOException
+---
+>     public void encode( Neo4jPack.Packer packer, SuccessMessage message ) 	throws IOException

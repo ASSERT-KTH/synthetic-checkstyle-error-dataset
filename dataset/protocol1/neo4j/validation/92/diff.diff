@@ -1,0 +1,4 @@
+103c103
+<     public void mustRebuildFusionIndexIfCompletelyMissing() throws IOException
+---
+>     public void mustRebuildFusionIndexIfCompletelyMissing () throws IOException

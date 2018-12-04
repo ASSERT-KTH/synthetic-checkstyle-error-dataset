@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.kernel.impl.store.allocator;
+---
+> package org.neo4j.kernel.impl.store	.allocator;

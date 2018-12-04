@@ -1,0 +1,5 @@
+192c192,193
+<             assertEquals( 25, source.getDegree( RelationshipType.withName( "Type0" ) ) );
+---
+>             assertEquals( 
+> 25, source.getDegree( RelationshipType.withName( "Type0" ) ) );

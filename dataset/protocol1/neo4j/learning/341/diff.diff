@@ -1,0 +1,4 @@
+57c57
+<         this.numberOfBatches = batchSize == 0 ? 0 : (totalCount - 1) / batchSize + 1;
+---
+>         this.numberOfBatches = batchSize == 0 	? 0 : (totalCount - 1) / batchSize + 1;

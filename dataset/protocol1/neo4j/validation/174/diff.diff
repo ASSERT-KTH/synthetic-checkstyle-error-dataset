@@ -1,0 +1,5 @@
+484c484,485
+<                 this.array = Array.newInstance( char.class, size );
+---
+>                 
+> this.array = Array.newInstance( char.class, size );

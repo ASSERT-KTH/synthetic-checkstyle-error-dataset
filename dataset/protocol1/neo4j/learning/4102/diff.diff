@@ -1,0 +1,4 @@
+23c23
+< public interface BoundedIterable<RECORD> extends Iterable<RECORD>, AutoCloseable
+---
+> public interface BoundedIterable<RECORD> extends Iterable<RECORD >, AutoCloseable

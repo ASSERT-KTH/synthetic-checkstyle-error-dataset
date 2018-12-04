@@ -1,0 +1,4 @@
+167c167
+<         final String left = format( "  %s", argument.optionsListing() );
+---
+>         final String left = format( "  %s", argument	.optionsListing() );

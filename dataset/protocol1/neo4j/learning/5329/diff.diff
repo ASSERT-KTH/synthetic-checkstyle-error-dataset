@@ -1,0 +1,5 @@
+85c85,86
+<         indexType.addToDocument( document, NUMERIC_TEST_FIELD2, 2  );
+---
+>         indexType.addToDocument( 
+> document, NUMERIC_TEST_FIELD2, 2  );

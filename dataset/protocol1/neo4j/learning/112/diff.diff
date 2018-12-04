@@ -1,0 +1,5 @@
+76,77c76
+<         if ( other instanceof org.neo4j.kernel.impl.store.counts.keys.NodeKey )
+<         {
+---
+>         if ( other instanceof org.neo4j.kernel.impl.store.counts.keys.NodeKey )        {

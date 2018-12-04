@@ -1,0 +1,5 @@
+40c40,41
+<     protected T fetchNextOrNull()
+---
+>     
+> protected T fetchNextOrNull()

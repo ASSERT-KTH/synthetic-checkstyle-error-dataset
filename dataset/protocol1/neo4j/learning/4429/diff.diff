@@ -1,0 +1,5 @@
+37c37,38
+<     long getValue( String field );
+---
+>     long getValue( 
+> String field );

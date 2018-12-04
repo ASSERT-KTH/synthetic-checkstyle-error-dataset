@@ -1,0 +1,4 @@
+68c68
+<         if ( key == Keys.io_throughput )
+---
+>         if ( key == Keys.io_throughput)

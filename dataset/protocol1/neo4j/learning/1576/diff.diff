@@ -1,0 +1,5 @@
+29c29,30
+<     CREATE( new FacadeMethod<>( "IndexDefinition create()", IndexCreator::create ) );
+---
+>     CREATE( new 
+> FacadeMethod<>( "IndexDefinition create()", IndexCreator::create ) );

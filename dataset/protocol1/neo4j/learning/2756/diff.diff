@@ -1,0 +1,4 @@
+61c61
+<             assertEquals( correctConfig, graphDb.index().getConfiguration( graphDb.index().forNodes( "default" ) ) );
+---
+>             assertEquals( correctConfig, graphDb.index().getConfiguration( graphDb.index ().forNodes( "default" ) ) );

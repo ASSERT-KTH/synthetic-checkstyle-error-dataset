@@ -1,0 +1,5 @@
+45,46c45
+< import org.neo4j.kernel.impl.factory.AccessCapability;
+< import org.neo4j.kernel.impl.factory.DatabaseInfo;
+---
+> import org.neo4j.kernel.impl.factory.AccessCapability;import org.neo4j.kernel.impl.factory.DatabaseInfo;

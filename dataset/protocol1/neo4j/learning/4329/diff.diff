@@ -1,0 +1,5 @@
+32c32,33
+<     private final LuceneDataSource dataSource;
+---
+>     private final LuceneDataSource 
+> dataSource;

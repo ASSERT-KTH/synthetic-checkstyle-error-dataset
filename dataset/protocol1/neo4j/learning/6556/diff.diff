@@ -1,0 +1,5 @@
+74c74,75
+<     private synchronized ClassHandle makeHandle( String packageName, String name, TypeReference parent )
+---
+>     private synchronized ClassHandle makeHandle( String packageName, String name, TypeReference 
+> parent )

@@ -1,0 +1,4 @@
+25c25
+< import org.neo4j.kernel.api.index.IndexAccessor;
+---
+> import org.neo4j.kernel.api.index.	IndexAccessor;

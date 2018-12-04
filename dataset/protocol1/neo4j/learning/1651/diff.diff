@@ -1,0 +1,4 @@
+51c51
+<         HTTP.Response response = HTTP.POST( server.baseUri().resolve( "db/data/node" ).toString(), quotedJson( "{'name':'My Node'}" ) );
+---
+>         HTTP.Response response = HTTP.POST( server.	baseUri().resolve( "db/data/node" ).toString(), quotedJson( "{'name':'My Node'}" ) );

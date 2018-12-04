@@ -1,0 +1,4 @@
+58c58
+<         assertEquals( entity, "\"expected value\"" );
+---
+>         assertEquals( entity	, "\"expected value\"" );

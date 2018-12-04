@@ -1,0 +1,4 @@
+44c44
+<         log.info( "--- " + this + " START ---" );
+---
+>         log.info( "--- " + this +" START ---" );

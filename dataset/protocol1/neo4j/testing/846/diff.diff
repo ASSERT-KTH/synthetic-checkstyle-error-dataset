@@ -1,0 +1,4 @@
+75c75
+<             ReadableTransactionState state, TxStateVisitor visitor );
+---
+>             ReadableTransactionState state, TxStateVisitor visitor )	;

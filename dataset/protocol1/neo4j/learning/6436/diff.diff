@@ -1,0 +1,4 @@
+133c133
+<         long epochSecondUTC = cursor.getLong();
+---
+>         long epochSecondUTC = cursor.	getLong();

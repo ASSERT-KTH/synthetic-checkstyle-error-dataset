@@ -1,0 +1,4 @@
+92c92
+<         while ( !clientState.compareAndSet( currentValue, newValue ) );
+---
+>         while ( 	!clientState.compareAndSet( currentValue, newValue ) );

@@ -1,0 +1,5 @@
+31c31,32
+<     private static final ThreadLocal<RFC1123> INSTANCES = new ThreadLocal<>();
+---
+>     private static final ThreadLocal<RFC1123> 
+> INSTANCES = new ThreadLocal<>();

@@ -1,0 +1,5 @@
+32c32,33
+<     protected final int h;
+---
+>     protected final int 
+> h;

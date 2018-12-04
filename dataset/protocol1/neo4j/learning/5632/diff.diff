@@ -1,0 +1,5 @@
+204c204,205
+<         return functionSignature( namespaceAndName ).build().name();
+---
+>         return 
+> functionSignature( namespaceAndName ).build().name();

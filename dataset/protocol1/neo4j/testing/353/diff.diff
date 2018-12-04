@@ -1,0 +1,5 @@
+52c52,53
+<         assertEquals( convertedMap.get( "identifiers" ), ValueUtils.asListValue( getIdentifiers() ));
+---
+>         assertEquals( convertedMap.get( 
+> "identifiers" ), ValueUtils.asListValue( getIdentifiers() ));

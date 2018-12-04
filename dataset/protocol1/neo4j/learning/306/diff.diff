@@ -1,0 +1,5 @@
+123c123,124
+<                 if ( type != expected.type() && !(expected.type().isExplained() && type.isExplained()) )
+---
+>                 if ( type != expected.type
+> () && !(expected.type().isExplained() && type.isExplained()) )

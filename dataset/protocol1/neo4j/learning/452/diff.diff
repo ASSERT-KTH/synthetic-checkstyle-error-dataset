@@ -1,0 +1,5 @@
+34,35c34
+<     FilteringNativeHitIterator( RawCursor<Hit<KEY,VALUE>,IOException> seeker,
+<             Collection<RawCursor<Hit<KEY,VALUE>,IOException>> toRemoveFromWhenExhausted, IndexQuery[] filters )
+---
+>     FilteringNativeHitIterator( RawCursor<Hit<KEY,VALUE>,IOException> seeker,            Collection<RawCursor<Hit<KEY,VALUE>,IOException>> toRemoveFromWhenExhausted, IndexQuery[] filters )

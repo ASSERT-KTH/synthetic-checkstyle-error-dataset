@@ -1,0 +1,4 @@
+80c80
+<         ensurePercentReported( HUNDRED );
+---
+>         	ensurePercentReported( HUNDRED );

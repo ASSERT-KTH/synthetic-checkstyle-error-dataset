@@ -1,0 +1,5 @@
+66c66,67
+<         catch ( SyntaxException error )
+---
+>         catch ( SyntaxException 
+> error )

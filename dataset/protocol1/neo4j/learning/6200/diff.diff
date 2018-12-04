@@ -1,0 +1,5 @@
+733,734c733
+<                 in.readBytes( buffer, offset, size );
+<             }
+---
+>                 in.readBytes( buffer, offset, size );            }

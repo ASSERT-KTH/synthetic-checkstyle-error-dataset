@@ -1,0 +1,5 @@
+1537c1537,1538
+<     public Response allPaths( @PathParam( "nodeId" ) long startNode, String body )
+---
+>     
+> public Response allPaths( @PathParam( "nodeId" ) long startNode, String body )

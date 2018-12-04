@@ -1,0 +1,5 @@
+170,171c170
+<         writer.writeStartEntry( 1, 2, startTime, 3, new byte[0] );
+<         writer.writeCommitEntry( 4, commitTime );
+---
+>         writer.writeStartEntry( 1, 2, startTime, 3, new byte[0] );        writer.writeCommitEntry( 4, commitTime );

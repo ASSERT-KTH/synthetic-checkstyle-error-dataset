@@ -1,0 +1,5 @@
+37,38c37
+<     private volatile TextArray labels;
+<     private volatile MapValue properties;
+---
+>     private volatile TextArray labels;    private volatile MapValue properties;

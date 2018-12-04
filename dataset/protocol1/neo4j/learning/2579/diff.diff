@@ -1,0 +1,5 @@
+90,91c90
+<         KernelTransactionImplementation transaction =
+<                 new KernelTransactionImplementation( Config.defaults(), mock( StatementOperationParts.class ), mock( SchemaWriteGuard.class ),
+---
+>         KernelTransactionImplementation transaction =                new KernelTransactionImplementation( Config.defaults(), mock( StatementOperationParts.class ), mock( SchemaWriteGuard.class ),

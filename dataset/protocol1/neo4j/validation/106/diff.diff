@@ -1,0 +1,5 @@
+195c195,196
+<                 "pageCacheHitRatio", doubleValue( 4.0 / 7 )
+---
+>                 "pageCacheHitRatio", doubleValue( 
+> 4.0 / 7 )

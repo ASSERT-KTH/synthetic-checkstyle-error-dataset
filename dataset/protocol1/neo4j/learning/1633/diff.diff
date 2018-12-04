@@ -1,0 +1,4 @@
+142c142
+<         System.out.println( "ArtifactId: " + kernelVersion.artifactId );
+---
+>         System.out.println ( "ArtifactId: " + kernelVersion.artifactId );

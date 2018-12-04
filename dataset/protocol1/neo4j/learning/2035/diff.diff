@@ -1,0 +1,4 @@
+83c83
+<             if ( e.getClass().getCanonicalName().equals( "com.ibm.tools.attach.AttachNotSupportedException" ) )
+---
+>             if ( e.getClass ().getCanonicalName().equals( "com.ibm.tools.attach.AttachNotSupportedException" ) )

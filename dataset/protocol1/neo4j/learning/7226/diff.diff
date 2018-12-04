@@ -1,0 +1,4 @@
+82c82
+<         long nodeId = createNodeWithValue( value );
+---
+>         long nodeId = createNodeWithValue( value 	);

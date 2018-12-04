@@ -1,0 +1,4 @@
+37c37
+<     public static IndexDescriptor uniqueForLabel( int labelId, int... propertyIds )
+---
+>     public static IndexDescriptor uniqueForLabel( int labelId, int... 	propertyIds )

@@ -1,0 +1,5 @@
+142c142,143
+<             Node highNode = db.createNode();
+---
+>             Node highNode = db.createNode
+> ();

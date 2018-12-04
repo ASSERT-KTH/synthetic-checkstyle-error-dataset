@@ -1,0 +1,4 @@
+35c35
+< import com.sun.jersey.spi.container.WebApplication;
+---
+> import com.sun.jersey.spi.container.WebApplication	;

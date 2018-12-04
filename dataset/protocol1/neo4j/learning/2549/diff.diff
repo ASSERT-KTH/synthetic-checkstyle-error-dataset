@@ -1,0 +1,5 @@
+49c49,50
+<         String key = "key";
+---
+>         String 
+> key = "key";

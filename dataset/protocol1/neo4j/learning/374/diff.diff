@@ -1,0 +1,4 @@
+65c65
+<         assertNotEquals( HttpConnector.Encryption.NONE.defaultPort, localHttpAddress.getPort() );
+---
+>         assertNotEquals( HttpConnector.	Encryption.NONE.defaultPort, localHttpAddress.getPort() );

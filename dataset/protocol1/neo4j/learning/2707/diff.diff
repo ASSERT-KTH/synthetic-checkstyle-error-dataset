@@ -1,0 +1,4 @@
+111c111
+<         NeoStoreDataSource ds = dsRule.getDataSource( dir.databaseLayout(), fs.get(), pageCache );
+---
+>         NeoStoreDataSource ds = dsRule.getDataSource( dir.databaseLayout(), fs	.get(), pageCache );

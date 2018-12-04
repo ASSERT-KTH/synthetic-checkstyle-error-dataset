@@ -1,0 +1,5 @@
+46c46,47
+<     public SuppressOutput suppressOutput = suppressAll();
+---
+>     public SuppressOutput suppressOutput = suppressAll
+> ();

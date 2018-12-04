@@ -1,0 +1,5 @@
+22,23c22
+< import org.junit.Rule;
+< import org.junit.Test;
+---
+> import org.junit.Rule;import org.junit.Test;

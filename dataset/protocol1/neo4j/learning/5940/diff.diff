@@ -1,0 +1,4 @@
+69c69
+<         verify( webServer ).addJAXRSPackages( any( List.class ), anyString(), anyCollection() );
+---
+>         verify( webServer )	.addJAXRSPackages( any( List.class ), anyString(), anyCollection() );

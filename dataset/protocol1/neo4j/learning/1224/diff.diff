@@ -1,0 +1,4 @@
+67c67
+<         graph.makeEdge( "a", "b" );
+---
+>         graph.makeEdge( "a", 	"b" );

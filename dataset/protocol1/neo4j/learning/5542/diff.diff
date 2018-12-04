@@ -1,0 +1,4 @@
+74c74
+<         RecoveryStartInformation recoveryStartInformation = new RecoveryStartInformationProvider( tailScanner, monitor ).get();
+---
+>         RecoveryStartInformation recoveryStartInformation = new RecoveryStartInformationProvider( tailScanner, monitor )	.get();

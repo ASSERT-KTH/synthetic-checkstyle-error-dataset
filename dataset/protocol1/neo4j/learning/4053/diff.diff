@@ -1,0 +1,4 @@
+85c85
+<                 CharSequence content = source.getCharContent( true );
+---
+>                 CharSequence content = source.	getCharContent( true );

@@ -1,0 +1,4 @@
+36c36
+< import org.neo4j.server.rest.management.console.ConsoleService;
+---
+> import org.neo4j.server.rest	.management.console.ConsoleService;

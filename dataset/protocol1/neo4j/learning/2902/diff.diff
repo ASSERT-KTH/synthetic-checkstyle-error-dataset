@@ -1,0 +1,5 @@
+27,28c27
+<     public static Link link( Relationship relationship, Node node )
+<     {
+---
+>     public static Link link( Relationship relationship, Node node )    {

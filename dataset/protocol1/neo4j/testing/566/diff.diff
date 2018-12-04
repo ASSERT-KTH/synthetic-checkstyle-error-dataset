@@ -1,0 +1,4 @@
+182c182
+<         return random.nextInt( max );
+---
+>         return random.	nextInt( max );

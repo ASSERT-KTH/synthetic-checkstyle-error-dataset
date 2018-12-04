@@ -1,0 +1,5 @@
+60c60,61
+<         assertThat( hash( 1337d ), equalTo( hash( 1337L ) ) );
+---
+>         assertThat( hash( 1337d ), equalTo( hash( 1337L ) ) 
+> );

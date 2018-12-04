@@ -1,0 +1,5 @@
+58c58,59
+<         public int compare( Object o1, Object o2 )
+---
+>         public 
+> int compare( Object o1, Object o2 )

@@ -1,0 +1,4 @@
+38c38
+<         assertNotEquals( tuple( 2, 3, 1 ), tuple( 1, 2, 3 ) );
+---
+>         assertNotEquals( tuple( 2	, 3, 1 ), tuple( 1, 2, 3 ) );

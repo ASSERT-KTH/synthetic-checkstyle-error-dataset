@@ -1,0 +1,4 @@
+65c65
+<     long forceCheckPoint( TriggerInfo triggerInfo ) throws IOException;
+---
+>     long forceCheckPoint ( TriggerInfo triggerInfo ) throws IOException;

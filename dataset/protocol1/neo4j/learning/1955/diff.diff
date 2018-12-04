@@ -1,0 +1,4 @@
+73c73
+<             return "a special test integer";
+---
+>             return 	"a special test integer";

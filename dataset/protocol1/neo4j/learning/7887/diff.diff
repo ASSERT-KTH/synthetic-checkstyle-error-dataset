@@ -1,0 +1,4 @@
+91c91
+<     public SeverityLevel getSeverity()
+---
+>     	public SeverityLevel getSeverity()

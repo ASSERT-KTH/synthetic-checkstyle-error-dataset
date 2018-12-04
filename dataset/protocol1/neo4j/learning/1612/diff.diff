@@ -1,0 +1,4 @@
+57c57
+<             commitResource = begin.stringFromContent( "commit" );
+---
+>             commitResource = begin.stringFromContent( "commit" 	);

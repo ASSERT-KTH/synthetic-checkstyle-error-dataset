@@ -1,0 +1,4 @@
+44c44
+<     private IndexedEntityRepresentation( MappingRepresentation entity, long entityId, String key, String value,
+---
+>     private IndexedEntityRepresentation( MappingRepresentation entity, long entityId, String key, 	String value,

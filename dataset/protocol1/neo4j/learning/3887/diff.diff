@@ -1,0 +1,4 @@
+40c40
+<     void acquire( Channel channel ) throws TransportThrottleException;
+---
+>     	void acquire( Channel channel ) throws TransportThrottleException;

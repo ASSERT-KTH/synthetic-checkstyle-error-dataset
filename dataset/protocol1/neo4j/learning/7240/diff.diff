@@ -1,0 +1,5 @@
+24c24,25
+<     public DataAfterQuoteException( SourceTraceability source, String readValue )
+---
+>     public DataAfterQuoteException( SourceTraceability 
+> source, String readValue )

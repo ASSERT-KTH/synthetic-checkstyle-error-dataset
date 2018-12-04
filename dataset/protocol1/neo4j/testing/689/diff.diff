@@ -1,0 +1,4 @@
+147c147
+<         printLog( "User Log File", userLogFile, out );
+---
+>         printLog( 	"User Log File", userLogFile, out );

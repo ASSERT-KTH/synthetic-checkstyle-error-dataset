@@ -1,0 +1,5 @@
+246,247c246
+<             super.markAsDirty();
+<             wrongLastClosedTxId = false;
+---
+>             super.markAsDirty();            wrongLastClosedTxId = false;

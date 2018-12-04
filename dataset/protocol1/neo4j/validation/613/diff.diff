@@ -1,0 +1,4 @@
+261c261
+<             if ( path.endNode().equals( endNode ) )
+---
+>             if ( 	path.endNode().equals( endNode ) )

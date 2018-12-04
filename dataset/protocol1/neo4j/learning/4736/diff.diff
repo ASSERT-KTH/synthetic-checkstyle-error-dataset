@@ -1,0 +1,4 @@
+757c757
+<                 logger.log( "%s=%s", param.getKey(), param.getValue() );
+---
+>                 logger.log( "%s=%s", param.	getKey(), param.getValue() );

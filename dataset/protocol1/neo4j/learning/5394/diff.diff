@@ -1,0 +1,5 @@
+47c47,48
+< import static org.neo4j.graphdb.factory.GraphDatabaseSettings.auth_enabled;
+---
+> import static 
+> org.neo4j.graphdb.factory.GraphDatabaseSettings.auth_enabled;

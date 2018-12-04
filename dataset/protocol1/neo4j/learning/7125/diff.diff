@@ -1,0 +1,4 @@
+967c967
+<         Set<Label> givenLabels = new HashSet<>( labels.length );
+---
+>         Set<Label> 	givenLabels = new HashSet<>( labels.length );

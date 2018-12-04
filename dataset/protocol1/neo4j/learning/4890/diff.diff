@@ -1,0 +1,5 @@
+138,139c138
+<         else if ( property instanceof boolean[] )
+<         {
+---
+>         else if ( property instanceof boolean[] )        {

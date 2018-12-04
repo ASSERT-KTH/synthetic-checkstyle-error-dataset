@@ -1,0 +1,4 @@
+93c93
+<             this.events = requireNonNull( events );
+---
+>             this.	events = requireNonNull( events );

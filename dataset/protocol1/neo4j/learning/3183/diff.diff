@@ -1,0 +1,5 @@
+26c26,27
+<     public UnsupportedFormatCapabilityException( Capability capability )
+---
+>     public UnsupportedFormatCapabilityException( Capability capability 
+> )

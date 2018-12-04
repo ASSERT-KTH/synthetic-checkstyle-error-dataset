@@ -1,0 +1,5 @@
+51c51,52
+<         description.appendText( "a string matching /" );
+---
+>         
+> description.appendText( "a string matching /" );

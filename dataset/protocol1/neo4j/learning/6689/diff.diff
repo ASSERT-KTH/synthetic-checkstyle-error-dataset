@@ -1,0 +1,4 @@
+518c518
+<                 int pageSize = pagedFile.pageSize();
+---
+>                 int pageSize 	= pagedFile.pageSize();

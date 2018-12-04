@@ -1,0 +1,4 @@
+58c58
+<     private SnapshotExecutionEngine.ParametrizedQueryExecutor executor;
+---
+>     	private SnapshotExecutionEngine.ParametrizedQueryExecutor executor;

@@ -1,0 +1,5 @@
+89c89,90
+<                     description.appendText( "a throwable with suppressed:\n" );
+---
+>                     
+> description.appendText( "a throwable with suppressed:\n" );

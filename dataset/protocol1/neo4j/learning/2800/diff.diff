@@ -1,0 +1,4 @@
+66c66
+<     ReadableLogChannel getReader( LogPosition position, LogVersionBridge logVersionBridge ) throws IOException;
+---
+>     ReadableLogChannel getReader( LogPosition position, LogVersionBridge 	logVersionBridge ) throws IOException;

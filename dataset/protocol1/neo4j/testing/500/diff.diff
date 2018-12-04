@@ -1,0 +1,4 @@
+41c41
+<         serialize( new MappingSerializer( writer, baseUri, extensions ) );
+---
+>         serialize( new MappingSerializer( writer	, baseUri, extensions ) );

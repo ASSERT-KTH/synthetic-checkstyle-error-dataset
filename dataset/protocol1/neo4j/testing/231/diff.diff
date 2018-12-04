@@ -1,0 +1,5 @@
+162c162,163
+<         state.long1 = numberType;
+---
+>         state.long1 = 
+> numberType;

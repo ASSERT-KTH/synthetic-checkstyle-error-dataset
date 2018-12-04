@@ -1,0 +1,4 @@
+61c61
+<         key.bytes = new byte[node.keyValueSizeCap() + 1];
+---
+>         key.bytes = new byte[node.keyValueSizeCap() + 	1];

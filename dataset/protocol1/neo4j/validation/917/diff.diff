@@ -1,0 +1,4 @@
+91c91
+<         Kernel kernel = testSupport.kernelToTest();
+---
+>         Kernel kernel= testSupport.kernelToTest();

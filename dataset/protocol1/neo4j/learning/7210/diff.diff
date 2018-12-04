@@ -1,0 +1,5 @@
+26c26,27
+<     public static final String REALM = "WallyWorld"; // as per RFC2617 :-)
+---
+>     public static 
+> final String REALM = "WallyWorld"; // as per RFC2617 :-)

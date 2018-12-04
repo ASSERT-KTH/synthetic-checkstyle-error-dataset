@@ -1,0 +1,4 @@
+46c46
+<     public long finalise( long intermediateHash )
+---
+>     	public long finalise( long intermediateHash )

@@ -1,0 +1,4 @@
+46c46
+<         relationshipTypeTokenRecord.setInUse( inUse() );
+---
+>         relationshipTypeTokenRecord.setInUse( 	inUse() );

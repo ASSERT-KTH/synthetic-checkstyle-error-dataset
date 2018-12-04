@@ -1,0 +1,4 @@
+41c41
+<     IndexReference indexCreate( SchemaDescriptor descriptor ) throws SchemaKernelException;
+---
+>     IndexReference indexCreate( SchemaDescriptor descriptor ) throws 	SchemaKernelException;

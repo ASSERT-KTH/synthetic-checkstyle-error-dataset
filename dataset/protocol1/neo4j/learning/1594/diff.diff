@@ -1,0 +1,5 @@
+32c32,33
+<     GraphDatabaseFacade createDatabase( String name );
+---
+>     
+> GraphDatabaseFacade createDatabase( String name );

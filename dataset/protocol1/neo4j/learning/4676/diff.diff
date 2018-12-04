@@ -1,0 +1,4 @@
+70c70
+<         if ( checker != null )
+---
+>         if( checker != null )

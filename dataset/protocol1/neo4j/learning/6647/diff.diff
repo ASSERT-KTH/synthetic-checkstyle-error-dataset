@@ -1,0 +1,4 @@
+36c36
+<             self -> self.forRelationships( "foo", null ) ) ),
+---
+>             self -> self.forRelationships( "foo", null ) 	) ),

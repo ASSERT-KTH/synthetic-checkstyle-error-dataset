@@ -1,0 +1,4 @@
+41c41
+<                 recordStream -> context.connectionState().getResponseHandler().onRecords( recordStream, pull ) );
+---
+>                 recordStream-> context.connectionState().getResponseHandler().onRecords( recordStream, pull ) );

@@ -1,0 +1,5 @@
+78,79c78
+<         currentRightmostNodeGeneration = newRightmostNodeGeneration;
+<         currentRightmostRightSiblingPointer = newRightmostRightSiblingPointer;
+---
+>         currentRightmostNodeGeneration = newRightmostNodeGeneration;        currentRightmostRightSiblingPointer = newRightmostRightSiblingPointer;

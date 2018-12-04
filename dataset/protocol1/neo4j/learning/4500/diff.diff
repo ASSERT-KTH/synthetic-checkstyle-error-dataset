@@ -1,0 +1,4 @@
+65c65
+<             if ( null != indexProxy )
+---
+>             if ( null 	!= indexProxy )

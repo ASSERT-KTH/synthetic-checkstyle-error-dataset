@@ -1,0 +1,5 @@
+55c55,56
+<         verify( read, times( 1 ) ).nodeIndexSeek( any(), any(), any(), anyBoolean(), any() );
+---
+>         verify( read, times
+> ( 1 ) ).nodeIndexSeek( any(), any(), any(), anyBoolean(), any() );

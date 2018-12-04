@@ -1,0 +1,5 @@
+172,173c172
+<             for ( Logger logger : loggers )
+<             {
+---
+>             for ( Logger logger : loggers )            {

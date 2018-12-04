@@ -1,0 +1,4 @@
+83c83
+<         connector.setName( name );
+---
+>         connector.setName( name 	);

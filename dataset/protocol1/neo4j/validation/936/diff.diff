@@ -1,0 +1,5 @@
+224c224,225
+<         File databaseDirectory = databaseLayout( storeDirectory ).databaseDirectory();
+---
+>         File databaseDirectory = databaseLayout( storeDirectory 
+> ).databaseDirectory();

@@ -1,0 +1,5 @@
+248,249c248
+<             if ( reporter != null )
+<             {
+---
+>             if ( reporter != null )            {

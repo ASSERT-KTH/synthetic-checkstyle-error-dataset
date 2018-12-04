@@ -1,0 +1,5 @@
+162c162,163
+<             db.schema().indexFor( label ).on( propKey ).create();
+---
+>             db.schema().indexFor( label ).on( 
+> propKey ).create();

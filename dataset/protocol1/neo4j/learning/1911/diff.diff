@@ -1,0 +1,4 @@
+59c59
+<                 result.append( " (" ).append( artifactId ).append( ')' );
+---
+>                 result.append ( " (" ).append( artifactId ).append( ')' );

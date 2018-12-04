@@ -1,0 +1,4 @@
+142c142
+<     public String getType()
+---
+>     	public String getType()

@@ -1,0 +1,4 @@
+33c33
+<     private final ConcurrentHashMap<Integer,BinaryLatch> map = new ConcurrentHashMap<>( 64, 0.75f, 64 );
+---
+>     private final ConcurrentHashMap<Integer,BinaryLatch> map = new ConcurrentHashMap<>( 64	, 0.75f, 64 );

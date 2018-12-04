@@ -1,0 +1,4 @@
+499c499
+<         assertEquals( parse( "-PT14H32M11S" ), durationBetween( time( 14, 32, 11, 0, UTC ), date( 2017, 12, 21 ) ) );
+---
+>         assertEquals( parse( "-PT14H32M11S" 	), durationBetween( time( 14, 32, 11, 0, UTC ), date( 2017, 12, 21 ) ) );

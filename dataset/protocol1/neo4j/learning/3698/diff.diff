@@ -1,0 +1,5 @@
+29c29,30
+< public interface Injectable<T>
+---
+> public 
+> interface Injectable<T>

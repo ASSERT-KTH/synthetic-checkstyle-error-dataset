@@ -1,0 +1,4 @@
+42c42
+<     private final IndexStoreView storeView = mock( IndexStoreView.class );
+---
+>     private final IndexStoreView storeView = mock( IndexStoreView	.class );

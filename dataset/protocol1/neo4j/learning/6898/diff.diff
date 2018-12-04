@@ -1,0 +1,5 @@
+123c123,124
+<     private void addAllowedMethodIfValid( String methodName, HttpServletResponse response )
+---
+>     private void 
+> addAllowedMethodIfValid( String methodName, HttpServletResponse response )

@@ -1,0 +1,5 @@
+45c45,46
+< import static org.neo4j.bolt.testing.NullResponseHandler.nullResponseHandler;
+---
+> import static 
+> org.neo4j.bolt.testing.NullResponseHandler.nullResponseHandler;

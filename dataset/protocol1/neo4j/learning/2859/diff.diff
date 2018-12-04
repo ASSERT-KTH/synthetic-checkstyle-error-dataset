@@ -1,0 +1,4 @@
+74c74
+<             setValueWithOldSetting( value, rawConfiguration );
+---
+>             setValueWithOldSetting( value, 	rawConfiguration );

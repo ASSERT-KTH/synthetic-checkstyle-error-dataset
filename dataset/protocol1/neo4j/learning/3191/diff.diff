@@ -1,0 +1,5 @@
+26,27c26
+< import org.neo4j.kernel.impl.transaction.log.files.LogFiles;
+< import org.neo4j.kernel.impl.transaction.log.rotation.LogRotation;
+---
+> import org.neo4j.kernel.impl.transaction.log.files.LogFiles;import org.neo4j.kernel.impl.transaction.log.rotation.LogRotation;

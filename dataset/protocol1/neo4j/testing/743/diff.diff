@@ -1,0 +1,4 @@
+120c120
+<             config.put( GraphDatabaseSettings.array_block_size.name(),
+---
+>             config.put( GraphDatabaseSettings	.array_block_size.name(),

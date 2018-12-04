@@ -1,0 +1,4 @@
+110c110
+<             dependencies = dependencies.userLogProvider( userLogProvider );
+---
+>             dependencies = 	dependencies.userLogProvider( userLogProvider );

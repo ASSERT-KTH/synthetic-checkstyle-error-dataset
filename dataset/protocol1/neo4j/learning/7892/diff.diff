@@ -1,0 +1,4 @@
+49c49
+<         allocatedBytes.add( bytes );
+---
+>         allocatedBytes.add( 	bytes );

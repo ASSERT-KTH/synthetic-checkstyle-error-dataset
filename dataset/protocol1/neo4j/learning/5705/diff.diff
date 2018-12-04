@@ -1,0 +1,4 @@
+24c24
+<     protected abstract void value( ReadableBuffer value );
+---
+>     protected abstract void value ( ReadableBuffer value );

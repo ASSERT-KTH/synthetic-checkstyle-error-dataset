@@ -1,0 +1,5 @@
+109c109,110
+<             return Long.compare( logVersion, o.logVersion );
+---
+>             return Long.compare( 
+> logVersion, o.logVersion );

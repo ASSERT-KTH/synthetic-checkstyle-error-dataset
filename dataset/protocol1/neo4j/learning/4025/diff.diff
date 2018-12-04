@@ -1,0 +1,4 @@
+111c111
+<         public Float get()
+---
+>         public Float get(	)

@@ -1,0 +1,4 @@
+1175c1175
+<         state.relCreate( 1, 0, 0, 0 );
+---
+>         state.relCreate( 1, 0, 0, 0 )	;

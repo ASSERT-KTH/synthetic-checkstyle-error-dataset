@@ -1,0 +1,4 @@
+56c56
+<         Path symbolicLink = Files.createSymbolicLink( linkPath, storeDir.toPath() );
+---
+>         Path symbolicLink 	= Files.createSymbolicLink( linkPath, storeDir.toPath() );

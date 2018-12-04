@@ -1,0 +1,5 @@
+41c41,42
+<         for ( String indexName : indexManager.nodeIndexNames() )
+---
+>         for ( String indexName : indexManager.nodeIndexNames() 
+> )

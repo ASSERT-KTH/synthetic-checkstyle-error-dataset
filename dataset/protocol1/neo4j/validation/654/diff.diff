@@ -1,0 +1,4 @@
+46c46
+<     abstract Collection<EntityId> getOrphans( String key );
+---
+>     abstract Collection<EntityId> getOrphans ( String key );

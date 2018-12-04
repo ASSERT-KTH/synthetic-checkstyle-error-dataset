@@ -1,0 +1,5 @@
+79c79,80
+<         verify( delegate, times( invocations ) ).watch( file2 );
+---
+>         verify( delegate, times( invocations ) 
+> ).watch( file2 );

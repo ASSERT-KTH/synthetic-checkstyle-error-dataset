@@ -1,0 +1,5 @@
+46,47c46
+< import static org.mockito.Mockito.verify;
+< import static org.neo4j.bolt.v3.messaging.BoltProtocolV3ComponentFactory.encode;
+---
+> import static org.mockito.Mockito.verify;import static org.neo4j.bolt.v3.messaging.BoltProtocolV3ComponentFactory.encode;

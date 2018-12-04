@@ -1,0 +1,5 @@
+32c32,33
+<     public static class LongWrapper
+---
+>     public 
+> static class LongWrapper

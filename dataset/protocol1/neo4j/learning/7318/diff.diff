@@ -1,0 +1,4 @@
+32c32
+<     public ProcedureException( Status statusCode, String message,
+---
+>     public ProcedureException( Status statusCode, String message	,

@@ -1,0 +1,4 @@
+26c26
+< class NeoStoreCheck extends PrimitiveRecordCheck<NeoStoreRecord,ConsistencyReport.NeoStoreConsistencyReport>
+---
+> 	class NeoStoreCheck extends PrimitiveRecordCheck<NeoStoreRecord,ConsistencyReport.NeoStoreConsistencyReport>

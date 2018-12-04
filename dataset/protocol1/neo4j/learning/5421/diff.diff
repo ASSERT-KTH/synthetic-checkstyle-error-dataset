@@ -1,0 +1,4 @@
+981c981
+<         setDeadSpace( fromCursor, deadSpace + totalMovedBytes );
+---
+>         setDeadSpace( fromCursor, deadSpace +totalMovedBytes );

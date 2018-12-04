@@ -1,0 +1,5 @@
+43c43,44
+<         ListValue expected = list( longValue( 6L ), longValue( 8L ), longValue( 9L ), longValue( 11L ) );
+---
+>         ListValue expected = 
+> list( longValue( 6L ), longValue( 8L ), longValue( 9L ), longValue( 11L ) );

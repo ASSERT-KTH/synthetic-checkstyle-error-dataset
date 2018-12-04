@@ -1,0 +1,5 @@
+123,124c123
+<             throw new SchemaRuleNotFoundException( SchemaRule.Kind.map( descriptor ), descriptor.schema() );
+<         }
+---
+>             throw new SchemaRuleNotFoundException( SchemaRule.Kind.map( descriptor ), descriptor.schema() );        }

@@ -1,0 +1,5 @@
+157c157,158
+<                     "Field `%s` on `%s` must be non-final and public.", field.getName(), cls.getSimpleName() );
+---
+>                     "Field `%s` on `%s` must be non-final and public.", 
+> field.getName(), cls.getSimpleName() );

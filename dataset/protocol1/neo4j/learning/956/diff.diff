@@ -1,0 +1,5 @@
+50c50,51
+<         format = new SimpleDateFormat( "EEE, dd MMM yyyy HH:mm:ss Z", Locale.US );
+---
+>         format = new SimpleDateFormat( "EEE, dd MMM yyyy HH:mm:ss Z", 
+> Locale.US );

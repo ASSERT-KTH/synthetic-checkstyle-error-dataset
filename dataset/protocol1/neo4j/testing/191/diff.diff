@@ -1,0 +1,5 @@
+125c125,126
+<         public Value getNodePropertyValue( long nodeId, int propertyKeyId )
+---
+>         public Value 
+> getNodePropertyValue( long nodeId, int propertyKeyId )

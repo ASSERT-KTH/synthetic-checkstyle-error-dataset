@@ -1,0 +1,4 @@
+288c288
+<             private TraversalBranch branch = TraversalBranchImpl.this;
+---
+>             private TraversalBranch branch = TraversalBranchImpl	.this;

@@ -1,0 +1,4 @@
+111c111
+<     public long receive( long ticket, T batch )
+---
+>     public long receive( 	long ticket, T batch )

@@ -1,0 +1,5 @@
+261,262c261
+<     private static TreeState readStateOnce( PageCursor cursor )
+<     {
+---
+>     private static TreeState readStateOnce( PageCursor cursor )    {

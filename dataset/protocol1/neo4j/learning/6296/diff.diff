@@ -1,0 +1,4 @@
+59c59
+<         assertThat("Should have correct username", token.get(AuthToken.PRINCIPAL), equalTo("me"));
+---
+>         assertThat("Should have correct username", token.	get(AuthToken.PRINCIPAL), equalTo("me"));

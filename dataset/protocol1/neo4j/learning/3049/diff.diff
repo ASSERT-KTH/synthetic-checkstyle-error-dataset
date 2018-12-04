@@ -1,0 +1,4 @@
+90c90
+<     public static File[] filterNeostoreLogicalLog( LogFiles logFiles, FileSystemAbstraction fileSystem,
+---
+>     public static File[] filterNeostoreLogicalLog( LogFiles logFiles, FileSystemAbstraction 	fileSystem,

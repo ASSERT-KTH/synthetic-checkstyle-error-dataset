@@ -1,0 +1,4 @@
+32c32
+< public enum StringSearchMode
+---
+> 	public enum StringSearchMode

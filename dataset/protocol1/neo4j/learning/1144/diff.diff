@@ -1,0 +1,5 @@
+77,78c77
+<         }
+<         this.next = reference >= 0 ? reference : NO_ID;
+---
+>         }        this.next = reference >= 0 ? reference : NO_ID;

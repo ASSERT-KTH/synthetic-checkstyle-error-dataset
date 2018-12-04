@@ -1,0 +1,5 @@
+80c80,81
+<         IndexReference index = createUniquenessConstraint( labelId, propertyId1 );
+---
+>         IndexReference index = createUniquenessConstraint( labelId, 
+> propertyId1 );

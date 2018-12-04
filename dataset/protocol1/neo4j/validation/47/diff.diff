@@ -1,0 +1,5 @@
+61c61,62
+<             volatile T instance;
+---
+>             volatile 
+> T instance;

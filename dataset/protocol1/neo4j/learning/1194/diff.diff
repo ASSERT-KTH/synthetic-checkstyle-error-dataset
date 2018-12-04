@@ -1,0 +1,5 @@
+37,38c37
+<  * {@link KernelExtensionFactoryContractTest}) takes the opposite approach, it treats
+<  * the extension implementation as a black box to assert that it fulfills the
+---
+>  * {@link KernelExtensionFactoryContractTest}) takes the opposite approach, it treats * the extension implementation as a black box to assert that it fulfills the

@@ -1,0 +1,5 @@
+312c312,313
+<         return unsafe.compareAndSwapLong( obj, offset, expected, update );
+---
+>         
+> return unsafe.compareAndSwapLong( obj, offset, expected, update );

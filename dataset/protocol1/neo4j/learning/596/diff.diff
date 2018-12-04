@@ -1,0 +1,4 @@
+101c101
+<         when( threshold.reached( any(), eq( 3L ), any() ) )
+---
+>         when( threshold.reached( any(), eq( 3L ), 	any() ) )

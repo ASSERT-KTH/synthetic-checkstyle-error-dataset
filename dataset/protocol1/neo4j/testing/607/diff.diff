@@ -1,0 +1,5 @@
+343c343,344
+<     public abstract void shiftBytes( int sourceOffset, int length, int shift );
+---
+>     public abstract void shiftBytes( int sourceOffset, int length, 
+> int shift );

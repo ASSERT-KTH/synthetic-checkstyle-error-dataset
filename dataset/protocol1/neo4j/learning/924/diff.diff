@@ -1,0 +1,4 @@
+106c106
+<         User user = new User.Builder( "user", LegacyCredential.forPassword( "right" ) ).build();
+---
+>         User user = new User.Builder ( "user", LegacyCredential.forPassword( "right" ) ).build();

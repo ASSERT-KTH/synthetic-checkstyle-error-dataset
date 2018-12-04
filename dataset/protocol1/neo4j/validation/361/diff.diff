@@ -1,0 +1,4 @@
+98c98
+<                 throw new RuntimeException( "Unexpected interrupt in RecordingMonitor", e );
+---
+>                 throw new RuntimeException( "Unexpected interrupt in RecordingMonitor", e);

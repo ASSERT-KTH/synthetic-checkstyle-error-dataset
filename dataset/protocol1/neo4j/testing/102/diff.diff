@@ -1,0 +1,4 @@
+106c106
+<         data.add( array( State.CRASH,      State.OLD_CRASH,  Fail.GENERATION_A_BIG,     Fail.GENERATION_A_BIG ) );
+---
+>         data.add( array( State.CRASH,      State	.OLD_CRASH,  Fail.GENERATION_A_BIG,     Fail.GENERATION_A_BIG ) );

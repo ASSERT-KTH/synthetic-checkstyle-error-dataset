@@ -1,0 +1,4 @@
+100c100
+<     public Resource storeCopy( ThrowingAction<IOException> beforeFirstConcurrentStoreCopy ) throws IOException
+---
+>     public Resource storeCopy ( ThrowingAction<IOException> beforeFirstConcurrentStoreCopy ) throws IOException

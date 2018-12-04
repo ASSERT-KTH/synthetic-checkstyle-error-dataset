@@ -1,0 +1,5 @@
+29c29,30
+<     private static final NullLogService INSTANCE = new NullLogService();
+---
+>     private static final NullLogService INSTANCE = new 
+> NullLogService();

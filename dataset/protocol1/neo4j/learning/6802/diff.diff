@@ -1,0 +1,5 @@
+32,33c32
+< import org.neo4j.bolt.v3.runtime.TransactionReadyState;
+< import org.neo4j.bolt.v3.runtime.TransactionStreamingState;
+---
+> import org.neo4j.bolt.v3.runtime.TransactionReadyState;import org.neo4j.bolt.v3.runtime.TransactionStreamingState;

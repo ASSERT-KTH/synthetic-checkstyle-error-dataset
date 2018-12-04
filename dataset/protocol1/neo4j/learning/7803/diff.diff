@@ -1,0 +1,4 @@
+37c37
+<     public final EphemeralFileSystemRule fs = new EphemeralFileSystemRule();
+---
+>     public final EphemeralFileSystemRule fs = 	new EphemeralFileSystemRule();

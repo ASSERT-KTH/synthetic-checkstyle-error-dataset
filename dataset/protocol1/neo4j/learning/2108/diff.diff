@@ -1,0 +1,5 @@
+45c45,46
+<                 .withProperty( GraphDatabaseSettings.auth_enabled.name(), "false" ).build();
+---
+>                 .withProperty( GraphDatabaseSettings.auth_enabled.name(), "false" 
+> ).build();

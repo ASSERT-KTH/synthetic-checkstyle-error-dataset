@@ -1,0 +1,4 @@
+44c44
+<     private static final int HEADER_LENGTH = BYTE_POS_NEXT + PAGE_ID_SIZE;
+---
+>     private static final int HEADER_LENGTH= BYTE_POS_NEXT + PAGE_ID_SIZE;

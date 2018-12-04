@@ -1,0 +1,5 @@
+37c37,38
+<     <T> Representation invoke( GraphDatabaseAPI graphDb, String name, Class<T> type, String method, T context,
+---
+>     <T> Representation invoke( GraphDatabaseAPI graphDb, String name, 
+> Class<T> type, String method, T context,

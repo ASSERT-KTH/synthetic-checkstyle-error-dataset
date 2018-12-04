@@ -1,0 +1,5 @@
+58c58,59
+<     public void registerExecutingQuery( KernelStatement statement, ExecutingQuery executingQuery )
+---
+>     
+> public void registerExecutingQuery( KernelStatement statement, ExecutingQuery executingQuery )

@@ -1,0 +1,4 @@
+39c39
+< import static org.neo4j.procedure.Mode.DBMS;
+---
+> 	import static org.neo4j.procedure.Mode.DBMS;

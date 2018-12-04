@@ -1,0 +1,4 @@
+28c28
+<     SimpleLongLayout layout = longLayout().build();
+---
+>     SimpleLongLayout layout= longLayout().build();

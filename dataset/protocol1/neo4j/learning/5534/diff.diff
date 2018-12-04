@@ -1,0 +1,5 @@
+67,68c67
+<         assertTrue( reader.isClosed(), "Reader should be closed." );
+<         assertTrue( indexReference.isWriterClosed(), "Reader should be closed." );
+---
+>         assertTrue( reader.isClosed(), "Reader should be closed." );        assertTrue( indexReference.isWriterClosed(), "Reader should be closed." );

@@ -1,0 +1,5 @@
+100c100,101
+<     private static void put6ByteLong( PageCursor cursor, long value )
+---
+>     private static 
+> void put6ByteLong( PageCursor cursor, long value )

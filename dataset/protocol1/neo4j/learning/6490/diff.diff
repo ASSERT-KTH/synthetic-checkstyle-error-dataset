@@ -1,0 +1,4 @@
+64c64
+<         assertFalse( "no more than " + edges + " relationships", edge.next() );
+---
+>         assertFalse( "no more than " + edges + " relationships", edge	.next() );

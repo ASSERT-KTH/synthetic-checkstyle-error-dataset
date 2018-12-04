@@ -1,0 +1,5 @@
+218,219c218
+<     private static final int CHUNK_SIZE = 100;
+<     private final Random random = new Random( 1234 );
+---
+>     private static final int CHUNK_SIZE = 100;    private final Random random = new Random( 1234 );

@@ -1,0 +1,4 @@
+50c50
+<         indexWriter = new IndexWriter( dir, IndexWriterConfigs.standard() );
+---
+>         indexWriter = new IndexWriter( dir	, IndexWriterConfigs.standard() );

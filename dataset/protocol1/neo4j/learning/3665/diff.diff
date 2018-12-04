@@ -1,0 +1,5 @@
+91c91,92
+<         return LuceneIndexSnapshots.forIndex( partitionFolder, directory );
+---
+>         return LuceneIndexSnapshots.forIndex( partitionFolder, directory 
+> );

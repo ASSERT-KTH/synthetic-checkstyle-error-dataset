@@ -1,0 +1,4 @@
+114c114
+<             expected.add( nodeWithProp( tx, "bachelor" ) );
+---
+>             expected.add( nodeWithProp( tx, "bachelor" 	) );

@@ -1,0 +1,5 @@
+65,66c65
+<         this.engine = engine;
+<         this.queryService = queryService;
+---
+>         this.engine = engine;        this.queryService = queryService;

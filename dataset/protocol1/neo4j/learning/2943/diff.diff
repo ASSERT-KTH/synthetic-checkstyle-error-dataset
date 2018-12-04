@@ -1,0 +1,4 @@
+63c63
+<         checkState( readyState != null, "Ready state not set" );
+---
+>         checkState( readyState != null, "Ready state not set" 	);

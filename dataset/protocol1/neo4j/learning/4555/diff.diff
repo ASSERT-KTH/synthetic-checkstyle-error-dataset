@@ -1,0 +1,5 @@
+398,399c398
+<     void shouldOnlyContainAddedValues_2()
+<     {
+---
+>     void shouldOnlyContainAddedValues_2()    {

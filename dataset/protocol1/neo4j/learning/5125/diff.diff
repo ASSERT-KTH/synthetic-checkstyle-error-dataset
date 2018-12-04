@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.kernel.impl.store.id;
+---
+> package org.neo4j.kernel.impl.store	.id;

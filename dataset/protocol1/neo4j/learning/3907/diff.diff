@@ -1,0 +1,5 @@
+334c334,335
+<         ConstraintIndexCreator creator = new ConstraintIndexCreator( () -> kernel, indexingService, propertyAccessor, logProvider );
+---
+>         ConstraintIndexCreator creator = 
+> new ConstraintIndexCreator( () -> kernel, indexingService, propertyAccessor, logProvider );

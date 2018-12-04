@@ -1,0 +1,4 @@
+54c54
+<         if ( !super.includePath( path, startBranch, endBranch ) )
+---
+>         if ( !super.includePath ( path, startBranch, endBranch ) )

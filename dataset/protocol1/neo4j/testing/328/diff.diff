@@ -1,0 +1,5 @@
+158c158,159
+<         RelationshipReferenceEncoding encoding = RelationshipReferenceEncoding.parseEncoding( reference );
+---
+>         
+> RelationshipReferenceEncoding encoding = RelationshipReferenceEncoding.parseEncoding( reference );

@@ -1,0 +1,4 @@
+106c106
+<         checkState( txReadyState != null, "TransactionReady state not set" );
+---
+>         checkState( 	txReadyState != null, "TransactionReady state not set" );

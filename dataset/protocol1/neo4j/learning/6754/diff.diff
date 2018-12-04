@@ -1,0 +1,4 @@
+43c43
+<     void put( KEY key, VALUE value );
+---
+>     void put( KEY key, VALUE value 	);

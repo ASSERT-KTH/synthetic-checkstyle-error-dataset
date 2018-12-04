@@ -1,0 +1,5 @@
+22c22,23
+< public interface PrimitiveIntCollection extends PrimitiveCollection, PrimitiveIntIterable
+---
+> public interface PrimitiveIntCollection extends 
+> PrimitiveCollection, PrimitiveIntIterable

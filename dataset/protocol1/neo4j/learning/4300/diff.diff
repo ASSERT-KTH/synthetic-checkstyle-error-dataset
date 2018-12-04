@@ -1,0 +1,5 @@
+146,147c146
+<             list.add( arrayData( name + "DynamicByteArray5", factory.newDynamicByteArray( CHUNK_SIZE, defaultByteArray( 5 ) ),
+<                     random -> random.nextInt( 1_000_000_000 ), ( array, index, value ) -> array.setInt( index, 1, (Integer) value ),
+---
+>             list.add( arrayData( name + "DynamicByteArray5", factory.newDynamicByteArray( CHUNK_SIZE, defaultByteArray( 5 ) ),                    random -> random.nextInt( 1_000_000_000 ), ( array, index, value ) -> array.setInt( index, 1, (Integer) value ),

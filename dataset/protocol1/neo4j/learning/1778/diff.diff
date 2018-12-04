@@ -1,0 +1,4 @@
+70c70
+<                     StorageCommand command = commandReader.byVersion( version.byteCode() ).read( channel );
+---
+>                     StorageCommand command= commandReader.byVersion( version.byteCode() ).read( channel );

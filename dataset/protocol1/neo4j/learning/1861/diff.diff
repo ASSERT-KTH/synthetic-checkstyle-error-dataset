@@ -1,0 +1,5 @@
+112c112,113
+<     public long size() throws IOException
+---
+>     public long size() throws 
+> IOException

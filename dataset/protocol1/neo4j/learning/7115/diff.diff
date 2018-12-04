@@ -1,0 +1,5 @@
+32c32,33
+< import org.neo4j.kernel.impl.util.monitoring.SilentProgressReporter;
+---
+> import 
+> org.neo4j.kernel.impl.util.monitoring.SilentProgressReporter;

@@ -1,0 +1,5 @@
+24c24,25
+<     void transactionalLogRecordReadFailure( long[] offsets, int offsetCursor, long logVersion );
+---
+>     void transactionalLogRecordReadFailure( long[] offsets, int offsetCursor, long 
+> logVersion );

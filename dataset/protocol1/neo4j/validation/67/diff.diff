@@ -1,0 +1,5 @@
+115c115,116
+<         return delegate.hitRatio();
+---
+>         return delegate.hitRatio
+> ();

@@ -1,0 +1,5 @@
+45c45,46
+<         implements ComparativeRecordChecker<RECORD, NodeRecord, REPORT>
+---
+>         implements 
+> ComparativeRecordChecker<RECORD, NodeRecord, REPORT>

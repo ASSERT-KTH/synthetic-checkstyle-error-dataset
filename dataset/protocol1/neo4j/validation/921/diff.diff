@@ -1,0 +1,4 @@
+40c40
+<         values.put( "THIRD", "act as a template!" );
+---
+>         values.	put( "THIRD", "act as a template!" );

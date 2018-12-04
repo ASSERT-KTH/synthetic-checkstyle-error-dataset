@@ -1,0 +1,4 @@
+57c57
+<         return new HelloMessage( meta );
+---
+>         return new HelloMessage( meta);

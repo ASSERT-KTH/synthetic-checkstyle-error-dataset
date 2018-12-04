@@ -1,0 +1,4 @@
+96c96
+<         if ( bookmarksObject == Values.NO_VALUE )
+---
+>         if ( bookmarksObject == Values.	NO_VALUE )

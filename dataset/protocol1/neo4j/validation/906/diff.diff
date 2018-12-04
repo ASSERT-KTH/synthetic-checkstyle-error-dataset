@@ -1,0 +1,5 @@
+256c256,257
+<                             Iterator<? extends PropertyContainer> temp = current;
+---
+>                             
+> Iterator<? extends PropertyContainer> temp = current;

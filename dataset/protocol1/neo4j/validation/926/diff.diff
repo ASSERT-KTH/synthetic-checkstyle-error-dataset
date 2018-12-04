@@ -1,0 +1,4 @@
+45c45
+<         contextClassLoader = Thread.currentThread().getContextClassLoader();
+---
+>         contextClassLoader = Thread.currentThread ().getContextClassLoader();

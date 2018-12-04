@@ -1,0 +1,5 @@
+22,23c22
+< import org.neo4j.unsafe.impl.batchimport.staging.HumanUnderstandableExecutionMonitor.ExternalMonitor;
+< import org.neo4j.unsafe.impl.batchimport.staging.OnDemandDetailsExecutionMonitor.Monitor;
+---
+> import org.neo4j.unsafe.impl.batchimport.staging.HumanUnderstandableExecutionMonitor.ExternalMonitor;import org.neo4j.unsafe.impl.batchimport.staging.OnDemandDetailsExecutionMonitor.Monitor;

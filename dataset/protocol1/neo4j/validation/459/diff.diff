@@ -1,0 +1,4 @@
+79c79
+<     public void writeInteger( int value ) throws E
+---
+>     public void writeInteger( int value ) 	throws E

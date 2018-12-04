@@ -1,0 +1,5 @@
+77c77,78
+<     InternalTransaction beginTransaction( KernelTransaction.Type type, LoginContext loginContext, long timeout, TimeUnit unit );
+---
+>     InternalTransaction beginTransaction( KernelTransaction.Type type, LoginContext loginContext, long timeout, TimeUnit 
+> unit );

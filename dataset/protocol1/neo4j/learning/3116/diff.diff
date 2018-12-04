@@ -1,0 +1,5 @@
+590c590,591
+<                     NodeRelationshipCache.this.setCount( array, index, offset, 0 );
+---
+>                     NodeRelationshipCache.this.setCount( array, index, 
+> offset, 0 );

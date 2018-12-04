@@ -1,0 +1,5 @@
+110,111c110
+<     public void rtrim()
+<     {
+---
+>     public void rtrim()    {

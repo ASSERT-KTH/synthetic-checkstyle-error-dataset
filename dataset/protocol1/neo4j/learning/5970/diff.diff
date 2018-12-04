@@ -1,0 +1,5 @@
+30,31c30
+< import org.neo4j.kernel.impl.locking.SimpleStatementLocks;
+< import org.neo4j.kernel.impl.locking.SimpleStatementLocksFactory;
+---
+> import org.neo4j.kernel.impl.locking.SimpleStatementLocks;import org.neo4j.kernel.impl.locking.SimpleStatementLocksFactory;

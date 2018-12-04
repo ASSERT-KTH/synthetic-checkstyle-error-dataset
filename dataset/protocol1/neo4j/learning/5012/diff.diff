@@ -1,0 +1,4 @@
+102c102
+<         try ( Transaction tx = transaction() )
+---
+>         try ( Transaction tx = 	transaction() )

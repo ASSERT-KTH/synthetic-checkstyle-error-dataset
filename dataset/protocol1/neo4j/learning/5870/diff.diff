@@ -1,0 +1,4 @@
+64c64
+<         sb.append( String.format( "Full thread dump %s (%s %s):\n\n", vmName, vmVersion, vmInfoString ) );
+---
+>         sb.append( String.format ( "Full thread dump %s (%s %s):\n\n", vmName, vmVersion, vmInfoString ) );

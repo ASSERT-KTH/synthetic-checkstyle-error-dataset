@@ -1,0 +1,5 @@
+33,34c33
+<         super( message, cause );
+<         this.status = Status.General.InvalidArguments;
+---
+>         super( message, cause );        this.status = Status.General.InvalidArguments;

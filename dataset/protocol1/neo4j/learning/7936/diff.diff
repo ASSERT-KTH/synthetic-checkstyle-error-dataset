@@ -1,0 +1,5 @@
+90c90,91
+<     private static final IndexDescriptor UNIQUE_INDEX = TestIndexDescriptorFactory.uniqueForLabel( 1, PROP_ID );
+---
+>     private static final IndexDescriptor UNIQUE_INDEX = TestIndexDescriptorFactory.uniqueForLabel( 
+> 1, PROP_ID );

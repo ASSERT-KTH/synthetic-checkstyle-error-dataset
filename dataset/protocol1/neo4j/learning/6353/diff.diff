@@ -1,0 +1,5 @@
+36,37c36
+< import org.neo4j.logging.Log;
+< import org.neo4j.logging.internal.LogService;
+---
+> import org.neo4j.logging.Log;import org.neo4j.logging.internal.LogService;

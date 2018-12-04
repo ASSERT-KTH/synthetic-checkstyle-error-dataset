@@ -1,0 +1,5 @@
+20c20,21
+< package org.neo4j.bolt.v1.messaging.encoder;
+---
+> package 
+> org.neo4j.bolt.v1.messaging.encoder;

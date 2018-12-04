@@ -1,0 +1,5 @@
+249c249,250
+<         freelist.visitFreelistPageIds( id -> assertTrue( expected.remove( id ) ) );
+---
+>         freelist.visitFreelistPageIds
+> ( id -> assertTrue( expected.remove( id ) ) );

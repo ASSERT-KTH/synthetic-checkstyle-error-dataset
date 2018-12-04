@@ -1,0 +1,4 @@
+63c63
+<         assertEquals( "Wrong acceptor value for max cores", 2982, jtc.getAcceptors() );
+---
+>         	assertEquals( "Wrong acceptor value for max cores", 2982, jtc.getAcceptors() );

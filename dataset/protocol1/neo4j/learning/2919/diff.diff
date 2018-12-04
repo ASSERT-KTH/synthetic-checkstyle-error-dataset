@@ -1,0 +1,5 @@
+91c91,92
+<     private final Random rand = new Random( seed );
+---
+>     private final Random rand 
+> = new Random( seed );

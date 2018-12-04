@@ -1,0 +1,5 @@
+95,96c95
+<             verify( cursor2, never() ).close();
+<             LongIterator first = reader.nodesWithLabel( LABEL_ID );
+---
+>             verify( cursor2, never() ).close();            LongIterator first = reader.nodesWithLabel( LABEL_ID );

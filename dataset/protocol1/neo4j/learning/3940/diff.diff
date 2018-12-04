@@ -1,0 +1,4 @@
+38c38
+<     protected RelationshipTraversalCursor cursor;
+---
+>     	protected RelationshipTraversalCursor cursor;

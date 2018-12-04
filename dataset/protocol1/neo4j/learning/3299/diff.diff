@@ -1,0 +1,5 @@
+353,354c353
+<                                         costComparator.compare( myDistances.get( target ), newCost ) == 0 )
+<                                 {
+---
+>                                         costComparator.compare( myDistances.get( target ), newCost ) == 0 )                                {

@@ -1,0 +1,4 @@
+26c26
+< public interface AutoCloseablePlus extends AutoCloseable
+---
+> public 	interface AutoCloseablePlus extends AutoCloseable

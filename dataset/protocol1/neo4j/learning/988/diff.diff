@@ -1,0 +1,4 @@
+121c121
+<         while ( areEqual && aIterator.hasNext() && bIterator.hasNext() )
+---
+>         while ( areEqual && aIterator.hasNext() 	&& bIterator.hasNext() )

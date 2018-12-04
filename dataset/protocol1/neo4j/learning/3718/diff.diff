@@ -1,0 +1,4 @@
+52c52
+<     Evaluation evaluate( Path path, BranchState<STATE> state );
+---
+>     Evaluation 	evaluate( Path path, BranchState<STATE> state );

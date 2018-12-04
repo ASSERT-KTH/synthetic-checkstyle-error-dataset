@@ -1,0 +1,5 @@
+115,116c115
+<         PropertyRecord next = add( notInUse( new PropertyRecord( 51 ) ) );
+<         property.setNextProp( next.getId() );
+---
+>         PropertyRecord next = add( notInUse( new PropertyRecord( 51 ) ) );        property.setNextProp( next.getId() );

@@ -1,0 +1,5 @@
+79c79,80
+<         return client.activeLockCount();
+---
+>         
+> return client.activeLockCount();

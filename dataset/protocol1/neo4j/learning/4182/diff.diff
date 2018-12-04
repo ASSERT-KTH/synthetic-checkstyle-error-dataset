@@ -1,0 +1,4 @@
+77c77
+<                 assertEquals( suppressed.getMessage(), failed.next() );
+---
+>                 	assertEquals( suppressed.getMessage(), failed.next() );

@@ -1,0 +1,5 @@
+140c140,141
+<             verify( action, times( 1 ) ).apply();
+---
+>             verify( action, times( 1 ) ).apply
+> ();

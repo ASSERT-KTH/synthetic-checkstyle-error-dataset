@@ -1,0 +1,4 @@
+30c30
+<     public InconsistencyReport( InconsistencyLogger logger, ConsistencySummaryStatistics summary )
+---
+>     	public InconsistencyReport( InconsistencyLogger logger, ConsistencySummaryStatistics summary )

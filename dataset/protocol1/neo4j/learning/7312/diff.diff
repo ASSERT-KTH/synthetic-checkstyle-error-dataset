@@ -1,0 +1,4 @@
+52c52
+<     protected IntArray addChunk( long chunkSize, long base )
+---
+>     protected IntArray addChunk( long chunkSize, long base 	)

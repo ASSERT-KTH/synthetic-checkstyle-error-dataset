@@ -1,0 +1,4 @@
+35c35
+< import static org.junit.Assert.fail;
+---
+> import static 	org.junit.Assert.fail;

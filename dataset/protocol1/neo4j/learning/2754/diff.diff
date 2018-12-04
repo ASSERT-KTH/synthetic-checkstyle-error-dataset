@@ -1,0 +1,4 @@
+37c37
+<         int intermediary = get( fromIndex );
+---
+>         int 	intermediary = get( fromIndex );

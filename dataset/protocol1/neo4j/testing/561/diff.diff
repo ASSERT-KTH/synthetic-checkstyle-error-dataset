@@ -1,0 +1,4 @@
+36c36
+<     public AuthProviderTimeoutException( String msg, Throwable cause )
+---
+>     public AuthProviderTimeoutException( String msg, 	Throwable cause )

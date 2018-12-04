@@ -1,0 +1,4 @@
+36c36
+< import org.neo4j.bolt.v1.messaging.response.FailureMessage;
+---
+> import org	.neo4j.bolt.v1.messaging.response.FailureMessage;

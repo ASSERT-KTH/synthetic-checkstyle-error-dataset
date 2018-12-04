@@ -1,0 +1,4 @@
+27c27
+<     IdGenerator open( File filename, IdType idType, LongSupplier highId, long maxId );
+---
+>     IdGenerator open( 	File filename, IdType idType, LongSupplier highId, long maxId );

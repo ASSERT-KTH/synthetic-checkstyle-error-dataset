@@ -1,0 +1,4 @@
+717c717
+<             return new ThrowingAggregator();
+---
+>             return new ThrowingAggregator(	);

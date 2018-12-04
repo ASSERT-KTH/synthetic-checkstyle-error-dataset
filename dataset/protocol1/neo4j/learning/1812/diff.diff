@@ -1,0 +1,4 @@
+79c79
+<             Status status = ((Status.HasStatus) t).status();
+---
+>             Status status =((Status.HasStatus) t).status();

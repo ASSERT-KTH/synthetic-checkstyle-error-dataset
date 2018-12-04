@@ -1,0 +1,5 @@
+29,30c29
+< import org.neo4j.unsafe.impl.batchimport.input.Group;
+< import org.neo4j.unsafe.impl.batchimport.input.InputEntityVisitor;
+---
+> import org.neo4j.unsafe.impl.batchimport.input.Group;import org.neo4j.unsafe.impl.batchimport.input.InputEntityVisitor;

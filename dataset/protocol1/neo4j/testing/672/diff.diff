@@ -1,0 +1,4 @@
+35c35
+<     public static Lifecycle multiple( Lifecycle... lifecycles )
+---
+>     public static Lifecycle 	multiple( Lifecycle... lifecycles )

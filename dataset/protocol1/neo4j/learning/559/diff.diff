@@ -1,0 +1,5 @@
+190c190,191
+<                     type.add( ops, entityId, name, newValue.asObject() );
+---
+>                     type.add( ops, entityId, name, newValue.asObject
+> () );

@@ -1,0 +1,4 @@
+187c187
+<         throw new IllegalStateException( "Transaction id is not available." );
+---
+>         throw new IllegalStateException ( "Transaction id is not available." );

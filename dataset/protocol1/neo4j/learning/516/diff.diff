@@ -1,0 +1,4 @@
+69c69
+<     public VirtualValueGroup valueGroup()
+---
+>     public VirtualValueGroup valueGroup(	)

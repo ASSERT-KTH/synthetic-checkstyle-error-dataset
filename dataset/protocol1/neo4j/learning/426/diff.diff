@@ -1,0 +1,4 @@
+31c31
+< import org.neo4j.kernel.api.index.IndexDirectoryStructure;
+---
+> import org.neo4j	.kernel.api.index.IndexDirectoryStructure;

@@ -1,0 +1,5 @@
+31c31,32
+< public class Slf4jLogProvider implements LogProvider
+---
+> public 
+> class Slf4jLogProvider implements LogProvider

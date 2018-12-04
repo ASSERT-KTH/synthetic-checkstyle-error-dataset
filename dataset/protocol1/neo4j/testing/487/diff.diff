@@ -1,0 +1,4 @@
+168c168
+<         assertCanEncode( "http://ok" );
+---
+>         	assertCanEncode( "http://ok" );

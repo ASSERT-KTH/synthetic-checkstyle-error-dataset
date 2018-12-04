@@ -1,0 +1,5 @@
+45c45,46
+<                 descriptor.userDescription( TOKEN_NAME_LOOKUP ), new RuntimeException() );
+---
+>                 descriptor.userDescription( TOKEN_NAME_LOOKUP ), new RuntimeException() 
+> );

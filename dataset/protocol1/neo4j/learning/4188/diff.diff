@@ -1,0 +1,4 @@
+42c42
+<         assertTrue(Iterables.single(services) instanceof CommunityCypherEngineProvider );
+---
+>         assertTrue(Iterables.single(services	) instanceof CommunityCypherEngineProvider );

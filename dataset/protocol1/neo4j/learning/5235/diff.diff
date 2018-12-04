@@ -1,0 +1,5 @@
+177c177,178
+<         exception.expect( ProcedureException.class );
+---
+>         exception.expect( 
+> ProcedureException.class );

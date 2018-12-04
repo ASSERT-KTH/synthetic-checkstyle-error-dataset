@@ -1,0 +1,5 @@
+47c47,48
+<         if ( !(value instanceof Number) && value.toString() == null )
+---
+>         if ( !(value instanceof Number) && value.toString() == 
+> null )

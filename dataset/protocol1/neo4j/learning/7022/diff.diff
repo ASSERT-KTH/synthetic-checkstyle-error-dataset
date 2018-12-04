@@ -1,0 +1,5 @@
+82,83c82
+<             fail( "Expected IllegalStateException to be thrown" );
+<         }
+---
+>             fail( "Expected IllegalStateException to be thrown" );        }

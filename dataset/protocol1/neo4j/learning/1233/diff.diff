@@ -1,0 +1,4 @@
+53c53
+<     long BASE_TX_CHECKSUM = 0;
+---
+>     long BASE_TX_CHECKSUM 	= 0;

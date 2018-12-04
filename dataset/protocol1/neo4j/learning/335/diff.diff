@@ -1,0 +1,4 @@
+40c40
+<     void updateUser( String username, String userAgent );
+---
+>     void updateUser( String username, 	String userAgent );

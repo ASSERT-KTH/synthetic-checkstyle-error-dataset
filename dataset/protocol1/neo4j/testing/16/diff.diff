@@ -1,0 +1,4 @@
+33c33
+<     TransactionCursor getTransactions( LogPosition recoveryFromPosition ) throws IOException;
+---
+>     TransactionCursor getTransactions ( LogPosition recoveryFromPosition ) throws IOException;

@@ -1,0 +1,4 @@
+38c38
+<     private final IndexConfigStoreProvider configStoreProvider;
+---
+>     private final IndexConfigStoreProvider configStoreProvider	;

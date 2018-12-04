@@ -1,0 +1,5 @@
+62,63c62
+<         when(request.getServletPath()).thenReturn( "index.js" );
+<         HttpServletResponse response = mock(HttpServletResponse.class);
+---
+>         when(request.getServletPath()).thenReturn( "index.js" );        HttpServletResponse response = mock(HttpServletResponse.class);

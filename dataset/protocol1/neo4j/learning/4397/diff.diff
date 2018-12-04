@@ -1,0 +1,4 @@
+42c42
+< public class TestTopFetchingWeightedPathIterator extends Neo4jAlgoTestCase
+---
+> public 	class TestTopFetchingWeightedPathIterator extends Neo4jAlgoTestCase

@@ -1,0 +1,4 @@
+387c387
+<         Set<T> set = new HashSet<>();
+---
+>         Set<T> set 	= new HashSet<>();

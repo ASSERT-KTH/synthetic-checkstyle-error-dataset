@@ -1,0 +1,5 @@
+85c85,86
+<         when( connector.getServer() ).thenReturn( new Server() );
+---
+>         when( connector.getServer() ).thenReturn( new Server
+> () );

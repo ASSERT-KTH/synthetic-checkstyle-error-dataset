@@ -1,0 +1,4 @@
+42c42
+<     boolean isLogFile( File file );
+---
+>     boolean isLogFile( 	File file );

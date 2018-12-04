@@ -1,0 +1,4 @@
+53c53
+<     private static List<RequestMessageDecoder> buildDecoders( BoltConnection connection, BoltResponseMessageWriter responseMessageWriter,
+---
+>     private static List<RequestMessageDecoder> buildDecoders( BoltConnection 	connection, BoltResponseMessageWriter responseMessageWriter,

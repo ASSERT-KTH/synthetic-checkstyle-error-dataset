@@ -1,0 +1,5 @@
+24c24,25
+< public enum DirectionWrapper
+---
+> public 
+> enum DirectionWrapper

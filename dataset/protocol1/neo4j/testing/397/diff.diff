@@ -1,0 +1,4 @@
+38c38
+<     public EntityOutputFormat( RepresentationFormat format, URI baseUri, ExtensionInjector extensions )
+---
+>     public EntityOutputFormat( RepresentationFormat format, URI 	baseUri, ExtensionInjector extensions )

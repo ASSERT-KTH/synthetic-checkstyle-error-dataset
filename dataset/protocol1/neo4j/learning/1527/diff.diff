@@ -1,0 +1,4 @@
+45c45
+<         super( channel, output, machine, logService, listener, queueMonitor, maxBatchSize );
+---
+>         	super( channel, output, machine, logService, listener, queueMonitor, maxBatchSize );

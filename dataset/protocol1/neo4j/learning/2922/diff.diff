@@ -1,0 +1,5 @@
+88c88,89
+<                 printError( "Unable to communicate with JMX endpoint. Reason: " + e.getMessage(), e );
+---
+>                 printError( "Unable to communicate with JMX endpoint. Reason: " + e.getMessage(), e 
+> );

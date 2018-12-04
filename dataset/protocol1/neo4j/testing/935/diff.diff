@@ -1,0 +1,4 @@
+45c45
+<         verify( actual ).tryLock();
+---
+>         verify( 	actual ).tryLock();

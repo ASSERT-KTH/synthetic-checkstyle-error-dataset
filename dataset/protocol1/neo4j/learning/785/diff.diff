@@ -1,0 +1,5 @@
+54c54,55
+<     void uninstall( Channel channel );
+---
+>     void uninstall( Channel 
+> channel );

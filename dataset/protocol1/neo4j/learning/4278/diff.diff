@@ -1,0 +1,5 @@
+92c92,93
+<                transactionRepresentation.equals( that.transactionRepresentation );
+---
+>                
+> transactionRepresentation.equals( that.transactionRepresentation );

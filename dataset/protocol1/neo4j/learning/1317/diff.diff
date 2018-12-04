@@ -1,0 +1,4 @@
+214c214
+<             database.schema().awaitIndexesOnline( 1, TimeUnit.MINUTES );
+---
+>             database.schema().awaitIndexesOnline( 1, TimeUnit.MINUTES 	);

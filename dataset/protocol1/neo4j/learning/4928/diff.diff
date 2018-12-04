@@ -1,0 +1,4 @@
+23c23
+< import org.neo4j.internal.kernel.api.schema.LabelSchemaDescriptor;
+---
+> import org.neo4j.internal.kernel.api.schema.	LabelSchemaDescriptor;

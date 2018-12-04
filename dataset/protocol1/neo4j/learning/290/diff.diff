@@ -1,0 +1,4 @@
+102c102
+<         for ( Object objName : server.queryNames( null, null ) )
+---
+>         for ( Object objName : server.queryNames( null, 	null ) )

@@ -1,0 +1,4 @@
+116c116
+<         Outer.ClassWithSyntheticField syntheticField = new Outer().classWithSyntheticField();
+---
+>         Outer.ClassWithSyntheticField syntheticField = new Outer()	.classWithSyntheticField();

@@ -1,0 +1,5 @@
+45c45,46
+<         try ( EphemeralFileSystemAbstraction fs = new EphemeralFileSystemAbstraction() )
+---
+>         try ( EphemeralFileSystemAbstraction 
+> fs = new EphemeralFileSystemAbstraction() )

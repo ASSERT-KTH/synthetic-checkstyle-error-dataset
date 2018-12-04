@@ -1,0 +1,4 @@
+139c139
+<                 treeKeyFrom.fromDerivedValue( Long.MIN_VALUE, range.min );
+---
+>                 treeKeyFrom	.fromDerivedValue( Long.MIN_VALUE, range.min );

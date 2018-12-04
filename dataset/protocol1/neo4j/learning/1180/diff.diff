@@ -1,0 +1,5 @@
+36c36,37
+<                                                     Kernel kernel ) throws KernelException
+---
+>                                                     Kernel kernel ) throws 
+> KernelException

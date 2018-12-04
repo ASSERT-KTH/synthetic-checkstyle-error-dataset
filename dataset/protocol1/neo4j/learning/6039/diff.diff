@@ -1,0 +1,5 @@
+47c47,48
+<         for ( int attemptsLeft = attempts - 1; attemptsLeft >= 0; attemptsLeft-- )
+---
+>         for ( int attemptsLeft 
+> = attempts - 1; attemptsLeft >= 0; attemptsLeft-- )

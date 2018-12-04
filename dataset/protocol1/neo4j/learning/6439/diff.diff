@@ -1,0 +1,4 @@
+36c36
+<     boolean next( InputChunk chunk ) throws IOException;
+---
+>     boolean next(InputChunk chunk ) throws IOException;

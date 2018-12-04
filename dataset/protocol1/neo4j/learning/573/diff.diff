@@ -1,0 +1,5 @@
+72c72,73
+<         when( result.hasNext() ).thenReturn( false );
+---
+>         when( result.hasNext
+> () ).thenReturn( false );

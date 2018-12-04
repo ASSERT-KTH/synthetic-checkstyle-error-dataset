@@ -1,0 +1,5 @@
+61c61,62
+<                 migrationLayout.listDatabaseFiles( ( dir, name ) -> true ).length );
+---
+>                 migrationLayout.listDatabaseFiles
+> ( ( dir, name ) -> true ).length );

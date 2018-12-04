@@ -1,0 +1,4 @@
+62c62
+<         try ( DurationLogger durationLogger = new DurationLogger( log, "Sampling index " + indexUserDescription ) )
+---
+>         try ( DurationLogger durationLogger = new DurationLogger( log	, "Sampling index " + indexUserDescription ) )

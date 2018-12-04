@@ -1,0 +1,5 @@
+56c56,57
+<             long highest = source.getLastEntryId();
+---
+>             long highest = source.getLastEntryId
+> ();

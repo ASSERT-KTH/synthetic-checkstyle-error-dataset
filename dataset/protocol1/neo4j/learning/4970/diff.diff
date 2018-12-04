@@ -1,0 +1,5 @@
+43c43,44
+<     static final short CURRENT_FORMAT_VERSION = CURRENT_LOG_VERSION & 0xFF;
+---
+>     static final short CURRENT_FORMAT_VERSION 
+> = CURRENT_LOG_VERSION & 0xFF;

@@ -1,0 +1,4 @@
+74c74
+<                         for ( Relationship relationship : node.getRelationships() )
+---
+>                         for (Relationship relationship : node.getRelationships() )

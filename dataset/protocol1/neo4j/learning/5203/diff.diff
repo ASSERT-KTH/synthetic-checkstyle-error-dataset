@@ -1,0 +1,5 @@
+159,160c159
+<         int authorId = 1;
+<         final long timeStarted = 12345;
+---
+>         int authorId = 1;        final long timeStarted = 12345;

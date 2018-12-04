@@ -1,0 +1,4 @@
+61c61
+<                 for ( File file : fixturePath.listFiles( cypherFileOrDirectoryFilter ) )
+---
+>                 for ( File file : fixturePath	.listFiles( cypherFileOrDirectoryFilter ) )

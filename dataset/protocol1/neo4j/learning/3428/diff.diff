@@ -1,0 +1,4 @@
+112c112
+<                 return index < array.length;
+---
+>                 return index < array.	length;

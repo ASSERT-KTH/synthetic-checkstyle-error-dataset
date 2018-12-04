@@ -1,0 +1,4 @@
+27c27
+< import org.neo4j.graphdb.traversal.Evaluator;
+---
+> import org.neo4j.graphdb.traversal.	Evaluator;

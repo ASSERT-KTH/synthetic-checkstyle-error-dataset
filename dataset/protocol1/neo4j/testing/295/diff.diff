@@ -1,0 +1,4 @@
+75c75
+<         int compare = Long.compare( nanosOfDayUTC, other.nanosOfDayUTC );
+---
+>         int compare = Long.compare( nanosOfDayUTC, other	.nanosOfDayUTC );

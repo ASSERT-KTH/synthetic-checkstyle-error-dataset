@@ -1,0 +1,5 @@
+164,165c164
+<                 .execute( null, null, "exception" );
+<         verify( outsideWorld, never() ).printStacktrace( exception );
+---
+>                 .execute( null, null, "exception" );        verify( outsideWorld, never() ).printStacktrace( exception );

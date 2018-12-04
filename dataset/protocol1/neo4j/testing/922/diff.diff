@@ -1,0 +1,4 @@
+266c266
+<     Relationship createRelationshipTo( Node otherNode, RelationshipType type );
+---
+>     Relationship createRelationshipTo( Node 	otherNode, RelationshipType type );

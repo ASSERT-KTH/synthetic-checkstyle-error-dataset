@@ -1,0 +1,4 @@
+34c34
+<     WrappedAccessMode( AccessMode original, AccessMode wrapping )
+---
+>     WrappedAccessMode( 	AccessMode original, AccessMode wrapping )

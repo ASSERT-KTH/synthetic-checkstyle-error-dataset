@@ -1,0 +1,4 @@
+197c197
+<             string = string.trim();
+---
+>             string = string.	trim();

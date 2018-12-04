@@ -1,0 +1,4 @@
+26c26
+< class WritableFulltextIndex extends WritableAbstractDatabaseIndex<LuceneFulltextIndex,FulltextIndexReader> implements DatabaseFulltextIndex
+---
+> class WritableFulltextIndex extends 	WritableAbstractDatabaseIndex<LuceneFulltextIndex,FulltextIndexReader> implements DatabaseFulltextIndex

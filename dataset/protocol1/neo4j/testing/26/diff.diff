@@ -1,0 +1,4 @@
+43c43
+<         return new Neo4jError( getStatusCode(), this );
+---
+>         return new Neo4jError( getStatusCode(), this )	;

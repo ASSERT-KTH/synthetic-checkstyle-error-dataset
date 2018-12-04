@@ -1,0 +1,5 @@
+353,354c353
+<         assertNull( stateMachine.ctx.currentResult );
+<         assertNull( stateMachine.ctx.currentTransaction );
+---
+>         assertNull( stateMachine.ctx.currentResult );        assertNull( stateMachine.ctx.currentTransaction );

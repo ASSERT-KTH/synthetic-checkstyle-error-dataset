@@ -1,0 +1,4 @@
+31c31
+<     protected abstract E exception( String method );
+---
+>     	protected abstract E exception( String method );

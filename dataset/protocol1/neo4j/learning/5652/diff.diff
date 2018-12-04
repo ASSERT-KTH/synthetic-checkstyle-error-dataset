@@ -1,0 +1,5 @@
+127c127,128
+<         } ).newFacade( storeLocation.storeDir(), Config.defaults(), state.databaseDependencies() );
+---
+>         } ).newFacade( storeLocation.storeDir
+> (), Config.defaults(), state.databaseDependencies() );

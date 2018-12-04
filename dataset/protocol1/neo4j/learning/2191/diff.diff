@@ -1,0 +1,5 @@
+199,200c199
+<     public void shouldFlushSchemaStateAfterPopulation() throws Exception
+<     {
+---
+>     public void shouldFlushSchemaStateAfterPopulation() throws Exception    {

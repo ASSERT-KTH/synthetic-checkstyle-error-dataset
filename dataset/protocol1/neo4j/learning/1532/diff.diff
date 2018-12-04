@@ -1,0 +1,4 @@
+45c45
+<         log.error( "Failed to open index:" + descriptor.getId() + ". " + action, cause );
+---
+>         log	.error( "Failed to open index:" + descriptor.getId() + ". " + action, cause );

@@ -1,0 +1,5 @@
+865,866c865
+<     private void updateMidChild( PageCursor cursor, StructurePropagation<KEY> structurePropagation, int childPos,
+<             long stableGeneration, long unstableGeneration )
+---
+>     private void updateMidChild( PageCursor cursor, StructurePropagation<KEY> structurePropagation, int childPos,            long stableGeneration, long unstableGeneration )

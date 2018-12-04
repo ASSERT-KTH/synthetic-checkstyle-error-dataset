@@ -1,0 +1,4 @@
+345c345
+<         KeyValueStoreFile open( Metadata metadata, int keySize, int valueSize )
+---
+>         KeyValueStoreFile open(Metadata metadata, int keySize, int valueSize )

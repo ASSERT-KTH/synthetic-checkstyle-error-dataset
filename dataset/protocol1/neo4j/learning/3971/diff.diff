@@ -1,0 +1,5 @@
+117c117,118
+<             throw new MBeanException( (Exception) e.getTargetException() );
+---
+>             throw new MBeanException( (Exception) 
+> e.getTargetException() );

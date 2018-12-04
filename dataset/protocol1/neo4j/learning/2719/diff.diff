@@ -1,0 +1,5 @@
+279c279,280
+<         setupLogFiles( logFile( checkPoint() ), logFile( start(), commit( 2 ) ) );
+---
+>         setupLogFiles
+> ( logFile( checkPoint() ), logFile( start(), commit( 2 ) ) );

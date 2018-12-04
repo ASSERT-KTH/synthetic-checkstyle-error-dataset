@@ -1,0 +1,4 @@
+64c64
+<             int lowByte = Character.digit( hexString.charAt( i + 1 ), 16 );
+---
+>             int lowByte = Character.digit( 	hexString.charAt( i + 1 ), 16 );

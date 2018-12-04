@@ -1,0 +1,4 @@
+107c107
+<     private IndexReference createIndexReference( WritableIndexReferenceFactory indexReferenceFactory ) throws Exception
+---
+>     	private IndexReference createIndexReference( WritableIndexReferenceFactory indexReferenceFactory ) throws Exception

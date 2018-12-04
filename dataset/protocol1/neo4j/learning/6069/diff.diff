@@ -1,0 +1,5 @@
+69c69,70
+<         return new AsyncLogger( events, log.warnLogger() );
+---
+>         return new AsyncLogger( 
+> events, log.warnLogger() );

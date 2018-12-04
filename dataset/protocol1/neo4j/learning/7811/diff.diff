@@ -1,0 +1,4 @@
+38c38
+<         return this.getClass().getResource( "/org/neo4j/tooling/procedure/procedures/" + relativePath );
+---
+>         return this.getClass()	.getResource( "/org/neo4j/tooling/procedure/procedures/" + relativePath );

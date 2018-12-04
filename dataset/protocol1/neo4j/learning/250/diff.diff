@@ -1,0 +1,4 @@
+268c268
+<             this.log = log;
+---
+>             this.log = log	;

@@ -1,0 +1,4 @@
+40c40
+< import static org.neo4j.io.pagecache.tracing.PageCacheTracer.NULL;
+---
+> import static org	.neo4j.io.pagecache.tracing.PageCacheTracer.NULL;

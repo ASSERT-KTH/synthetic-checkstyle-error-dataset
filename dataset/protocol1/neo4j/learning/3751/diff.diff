@@ -1,0 +1,5 @@
+93c93,94
+<     public static <T, E extends Exception> void forAll( ThrowingConsumer<T,E> consumer, T[] subjects ) throws E
+---
+>     public static <T, E extends Exception> void forAll( ThrowingConsumer<T,E> consumer, T[] subjects 
+> ) throws E

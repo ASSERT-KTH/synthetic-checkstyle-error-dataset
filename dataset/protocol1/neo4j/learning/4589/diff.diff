@@ -1,0 +1,5 @@
+235,236c235
+<                 IllegalStateException.class );
+<         return delegate.next();
+---
+>                 IllegalStateException.class );        return delegate.next();

@@ -1,0 +1,4 @@
+36c36
+<     public <E extends Exception> void writeTo( AnyValueWriter<E> writer ) throws E
+---
+>     public <E extends Exception> void writeTo( AnyValueWriter< E> writer ) throws E

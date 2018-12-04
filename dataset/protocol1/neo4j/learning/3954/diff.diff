@@ -1,0 +1,5 @@
+67c67,68
+<         else if ( message instanceof PullAllMessage )
+---
+>         else 
+> if ( message instanceof PullAllMessage )

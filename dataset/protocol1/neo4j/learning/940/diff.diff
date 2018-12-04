@@ -1,0 +1,4 @@
+29c29
+<                 " This is what I read: '" + readValue + "'" );
+---
+>                 " This is what I read: '" + readValue + "'" )	;

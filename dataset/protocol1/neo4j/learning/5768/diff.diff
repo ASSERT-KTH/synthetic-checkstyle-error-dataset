@@ -1,0 +1,5 @@
+171,172c171
+<      * @param txConsumer a consumer that takes transactions.
+<      * @throws TransactionFailureException if an error occurs other than those specified in {@link #retryOn(Predicate)}
+---
+>      * @param txConsumer a consumer that takes transactions.     * @throws TransactionFailureException if an error occurs other than those specified in {@link #retryOn(Predicate)}

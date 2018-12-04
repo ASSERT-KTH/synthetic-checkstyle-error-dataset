@@ -1,0 +1,5 @@
+212,213c212
+<         Config config = Config.defaults();
+<         IdGeneratorFactory idGeneratorFactory = mock( IdGeneratorFactory.class );
+---
+>         Config config = Config.defaults();        IdGeneratorFactory idGeneratorFactory = mock( IdGeneratorFactory.class );

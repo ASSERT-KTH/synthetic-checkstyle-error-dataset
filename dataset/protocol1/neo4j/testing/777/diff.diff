@@ -1,0 +1,4 @@
+76c76
+<     protected abstract EntryUpdater<Key> updater( long version, Lock lock );
+---
+>     protected abstract EntryUpdater<Key> updater ( long version, Lock lock );

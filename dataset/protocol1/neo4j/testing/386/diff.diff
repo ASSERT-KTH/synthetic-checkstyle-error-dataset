@@ -1,0 +1,4 @@
+104c104
+<     default Stream<T> stream()
+---
+>     default Stream< T> stream()

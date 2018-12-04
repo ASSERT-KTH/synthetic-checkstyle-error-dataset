@@ -1,0 +1,5 @@
+30c30,31
+<     public static final VersionContextSupplier EMPTY = new EmptyVersionContextSupplier();
+---
+>     public static 
+> final VersionContextSupplier EMPTY = new EmptyVersionContextSupplier();

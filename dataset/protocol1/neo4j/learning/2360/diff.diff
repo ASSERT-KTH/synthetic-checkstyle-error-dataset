@@ -1,0 +1,5 @@
+235,236c235
+<             platformModule.life.add( securityModule );
+<             this.securityProvider = securityModule;
+---
+>             platformModule.life.add( securityModule );            this.securityProvider = securityModule;

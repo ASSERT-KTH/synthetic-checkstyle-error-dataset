@@ -1,0 +1,4 @@
+130c130
+<         return predicate instanceof IndexQuery.ExactPredicate || predicate instanceof IndexQuery.RangePredicate;
+---
+>         return 	predicate instanceof IndexQuery.ExactPredicate || predicate instanceof IndexQuery.RangePredicate;

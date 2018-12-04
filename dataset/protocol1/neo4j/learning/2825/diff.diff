@@ -1,0 +1,5 @@
+160c160,161
+<             if ( relationshipsAdded.removeRelationship( relId, typeId, direction ) )
+---
+>             if ( relationshipsAdded.removeRelationship( relId, typeId, direction 
+> ) )

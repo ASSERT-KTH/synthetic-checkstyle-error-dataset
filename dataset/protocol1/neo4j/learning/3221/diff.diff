@@ -1,0 +1,5 @@
+33c33,34
+<     private final AtomicReference<String> failedFactoriesDescription = new AtomicReference<>();
+---
+>     private final AtomicReference<String> failedFactoriesDescription = 
+> new AtomicReference<>();

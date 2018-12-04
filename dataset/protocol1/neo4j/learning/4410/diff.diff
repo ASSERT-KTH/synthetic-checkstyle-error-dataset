@@ -1,0 +1,4 @@
+24c24
+< public interface IOFunction<T, R> extends ThrowingFunction<T,R,IOException>
+---
+> public interface IOFunction<T, R>extends ThrowingFunction<T,R,IOException>

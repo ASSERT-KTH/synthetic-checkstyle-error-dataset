@@ -1,0 +1,4 @@
+41c41
+<         FileChannel mockChannel = mock(FileChannel.class);
+---
+>         FileChannel mockChannel =mock(FileChannel.class);

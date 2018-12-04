@@ -1,0 +1,5 @@
+87c87,88
+<                 for ( int line = 1, i = 0; i < content.length(); i++ )
+---
+>                 for ( int line 
+> = 1, i = 0; i < content.length(); i++ )

@@ -1,0 +1,5 @@
+491c491,492
+<         return Objects.hash( super.hashCode(), commandType, indexNameId, entityType, entityId, keyId, valueType, value );
+---
+>         return Objects.hash( super.hashCode(), commandType, indexNameId, entityType, 
+> entityId, keyId, valueType, value );

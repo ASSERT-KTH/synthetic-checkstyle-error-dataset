@@ -1,0 +1,4 @@
+30c30
+<     long remove( long key );
+---
+>     long 	remove( long key );

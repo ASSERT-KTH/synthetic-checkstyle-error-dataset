@@ -1,0 +1,5 @@
+38c38,39
+<         assertEquals( indexRoot, indexFolder );
+---
+>         
+> assertEquals( indexRoot, indexFolder );

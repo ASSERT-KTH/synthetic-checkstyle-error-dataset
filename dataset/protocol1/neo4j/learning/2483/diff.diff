@@ -1,0 +1,4 @@
+32c32
+<     String INITIAL_PASSWORD = "neo4j";
+---
+>     	String INITIAL_PASSWORD = "neo4j";

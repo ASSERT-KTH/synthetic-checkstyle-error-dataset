@@ -1,0 +1,4 @@
+64c64
+<         throw new IllegalArgumentException( "Unsupported character '" + value + "'" );
+---
+>         throw new IllegalArgumentException( "Unsupported character '" + value 	+ "'" );

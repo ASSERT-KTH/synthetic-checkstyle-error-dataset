@@ -1,0 +1,4 @@
+39c39
+<         return Float.NaN;
+---
+>         	return Float.NaN;

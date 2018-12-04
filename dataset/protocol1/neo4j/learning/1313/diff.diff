@@ -1,0 +1,4 @@
+49c49
+<         this.collectionsFactory = collectionsFactory;
+---
+>         this.collectionsFactory 	= collectionsFactory;

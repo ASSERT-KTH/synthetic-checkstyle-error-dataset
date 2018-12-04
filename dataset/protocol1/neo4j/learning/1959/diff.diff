@@ -1,0 +1,5 @@
+221,222c221
+<         nodeStore.getRecord( nodeId, nodeRecord, RecordLoad.NORMAL );
+<         return nodeRecord;
+---
+>         nodeStore.getRecord( nodeId, nodeRecord, RecordLoad.NORMAL );        return nodeRecord;

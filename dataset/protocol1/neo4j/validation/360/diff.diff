@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.logging.internal;
+---
+> package org.	neo4j.logging.internal;

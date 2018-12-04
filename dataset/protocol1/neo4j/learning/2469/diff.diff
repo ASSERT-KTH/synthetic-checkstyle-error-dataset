@@ -1,0 +1,4 @@
+35c35
+<     SET_PROPERTY( new FacadeMethod<>( "void setProperty( String key, Object value )", n -> n.setProperty( "foo", 42 ) ) ),
+---
+>     SET_PROPERTY(new FacadeMethod<>( "void setProperty( String key, Object value )", n -> n.setProperty( "foo", 42 ) ) ),

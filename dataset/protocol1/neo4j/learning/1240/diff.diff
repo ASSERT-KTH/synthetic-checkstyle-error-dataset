@@ -1,0 +1,5 @@
+37c37,38
+<         assertEquals( 5L, array.get( 4 ) );
+---
+>         assertEquals( 5L, 
+> array.get( 4 ) );

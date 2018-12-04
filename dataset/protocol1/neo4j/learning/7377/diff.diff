@@ -1,0 +1,5 @@
+142c142,143
+<     public KernelTransactionImplementation newTransaction( long lastTransactionIdWhenStarted, LoginContext loginContext )
+---
+>     public KernelTransactionImplementation newTransaction( long lastTransactionIdWhenStarted, LoginContext loginContext 
+> )

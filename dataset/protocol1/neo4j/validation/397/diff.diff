@@ -1,0 +1,4 @@
+131c131
+<         for ( DynamicRecord record : command.getRecordsAfter() )
+---
+>         for ( DynamicRecord record : command.getRecordsAfter())

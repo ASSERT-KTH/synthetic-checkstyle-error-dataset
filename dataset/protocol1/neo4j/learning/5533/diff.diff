@@ -1,0 +1,4 @@
+297c297
+<             return (31 * hashCode( array[0] ) + hashCode( array[1] )) * 31  + hashCode( array[2] );
+---
+>             return (31 * hashCode( array[0] ) + hashCode( array[1] )	) * 31  + hashCode( array[2] );

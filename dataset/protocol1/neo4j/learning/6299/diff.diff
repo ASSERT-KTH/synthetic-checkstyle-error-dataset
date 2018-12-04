@@ -1,0 +1,4 @@
+102c102
+<             assertEquals( FILTER_TX_STATE, parseEncoding( RelationshipReferenceEncoding.encodeForTxStateFiltering( reference ) ) );
+---
+>             assertEquals( FILTER_TX_STATE, parseEncoding( RelationshipReferenceEncoding.	encodeForTxStateFiltering( reference ) ) );

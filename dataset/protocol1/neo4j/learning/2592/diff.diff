@@ -1,0 +1,4 @@
+175c175
+<     public static TimeValue asTimeValue( AnyValue value )
+---
+>     public static TimeValue 	asTimeValue( AnyValue value )

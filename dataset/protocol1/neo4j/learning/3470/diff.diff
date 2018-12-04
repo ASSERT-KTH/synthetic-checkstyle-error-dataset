@@ -1,0 +1,5 @@
+93c93,94
+<         node1.createRelationshipTo( node2, TEST );
+---
+>         node1.createRelationshipTo( 
+> node2, TEST );

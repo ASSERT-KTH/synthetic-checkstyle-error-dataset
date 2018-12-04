@@ -1,0 +1,4 @@
+85c85
+<             PagedFile pagedFile = pageCache.map( tempFile, pageCache.pageSize(), DELETE_ON_CLOSE, CREATE );
+---
+>             PagedFile 	pagedFile = pageCache.map( tempFile, pageCache.pageSize(), DELETE_ON_CLOSE, CREATE );

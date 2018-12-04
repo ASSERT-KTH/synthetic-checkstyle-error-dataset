@@ -1,0 +1,5 @@
+45,46c45
+<     private long count;
+<     private long totalCount;
+---
+>     private long count;    private long totalCount;

@@ -1,0 +1,4 @@
+34c34
+<     public LongFunction<IdSequence> apply( IdSequence idSequence )
+---
+>     public LongFunction< IdSequence> apply( IdSequence idSequence )

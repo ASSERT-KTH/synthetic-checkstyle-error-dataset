@@ -1,0 +1,4 @@
+91c91
+<         List<Class<?>> listenerInterfaces = getAllInterfaces( monitorListener );
+---
+>         List< Class<?>> listenerInterfaces = getAllInterfaces( monitorListener );

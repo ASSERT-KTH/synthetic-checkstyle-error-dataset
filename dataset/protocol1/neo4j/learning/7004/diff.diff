@@ -1,0 +1,5 @@
+43c43,44
+<     long INITIAL_STAMP = 0;
+---
+>     long INITIAL_STAMP = 
+> 0;

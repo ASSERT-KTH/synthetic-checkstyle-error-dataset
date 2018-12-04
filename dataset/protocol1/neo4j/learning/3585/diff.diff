@@ -1,0 +1,5 @@
+49,50c49
+<         GraphDatabaseService graphdb = mock( GraphDatabaseService.class );
+<         @SuppressWarnings( "unchecked" )
+---
+>         GraphDatabaseService graphdb = mock( GraphDatabaseService.class );        @SuppressWarnings( "unchecked" )

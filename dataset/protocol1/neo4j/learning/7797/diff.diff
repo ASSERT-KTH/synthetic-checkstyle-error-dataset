@@ -1,0 +1,4 @@
+77c77
+<                 shouldWrite( new boolean[]{true, false}, beginArray( 2, BOOLEAN ), true, false, endArray() ),
+---
+>                 shouldWrite( new boolean[]{true, false}, beginArray( 2, BOOLEAN ), true, false, endArray(	) ),

@@ -1,0 +1,5 @@
+26c26,27
+<     <K, V> V get( K key );
+---
+>     <K, 
+> V> V get( K key );

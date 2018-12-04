@@ -1,0 +1,4 @@
+46c46
+<         for ( Map.Entry<String,AnyValue> entry : entries )
+---
+>         for 	( Map.Entry<String,AnyValue> entry : entries )

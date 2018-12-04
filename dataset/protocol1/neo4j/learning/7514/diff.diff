@@ -1,0 +1,4 @@
+48c48
+<         this.indexWriter = new IndexWriter( directory, writerConfig );
+---
+>         this.indexWriter = new IndexWriter( directory, writerConfig 	);

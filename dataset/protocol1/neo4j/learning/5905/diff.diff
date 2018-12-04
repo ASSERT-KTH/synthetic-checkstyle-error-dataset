@@ -1,0 +1,5 @@
+119,120c119
+<         long existing = cursor.getLong( cursor.getOffset() );
+<         cursor.putLong( cursor.getOffset(), ~existing );
+---
+>         long existing = cursor.getLong( cursor.getOffset() );        cursor.putLong( cursor.getOffset(), ~existing );

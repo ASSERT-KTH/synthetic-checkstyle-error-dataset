@@ -1,0 +1,5 @@
+181,182c181
+<         builder.setConfig( keep_logical_logs, logPruning );
+<         this.db = (GraphDatabaseAPI) builder.newGraphDatabase();
+---
+>         builder.setConfig( keep_logical_logs, logPruning );        this.db = (GraphDatabaseAPI) builder.newGraphDatabase();

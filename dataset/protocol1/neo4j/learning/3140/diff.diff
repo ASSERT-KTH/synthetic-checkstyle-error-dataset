@@ -1,0 +1,5 @@
+99,100c99
+<         public int read( char[] into, int offset, int length )
+<         {
+---
+>         public int read( char[] into, int offset, int length )        {

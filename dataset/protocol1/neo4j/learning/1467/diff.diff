@@ -1,0 +1,4 @@
+68c68
+<         createRelationshipExplicitIndexWithSingleRelationship( db, indexName );
+---
+>         createRelationshipExplicitIndexWithSingleRelationship ( db, indexName );

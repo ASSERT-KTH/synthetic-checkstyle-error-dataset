@@ -1,0 +1,5 @@
+26,27c26
+<     private final String statement;
+<     private final Map<String, Object> parameters;
+---
+>     private final String statement;    private final Map<String, Object> parameters;

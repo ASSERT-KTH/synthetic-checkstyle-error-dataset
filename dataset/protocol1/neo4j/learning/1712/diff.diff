@@ -1,0 +1,4 @@
+67c67
+<             throw new NonUniqueTokenException( tokenType, token.name(), token.id(), previous );
+---
+>             throw new 	NonUniqueTokenException( tokenType, token.name(), token.id(), previous );

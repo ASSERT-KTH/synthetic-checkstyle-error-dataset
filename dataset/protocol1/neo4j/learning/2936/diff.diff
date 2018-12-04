@@ -1,0 +1,4 @@
+64c64
+<             throw new IllegalArgumentException( "Date is null" );
+---
+>             throw new IllegalArgumentException("Date is null" );

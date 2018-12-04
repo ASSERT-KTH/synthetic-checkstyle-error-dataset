@@ -1,0 +1,4 @@
+100c100
+<         assertEquals( 10, stateMonitor.disposed.get() );
+---
+>         assertEquals( 10, stateMonitor.disposed	.get() );

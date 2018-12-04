@@ -1,0 +1,4 @@
+36c36
+<     OUTCOME beforeCommit( ReadableTransactionState state, KernelTransaction transaction, StorageReader storageReader );
+---
+>     OUTCOME beforeCommit( ReadableTransactionState state, KernelTransaction transaction, StorageReader storageReader);

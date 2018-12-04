@@ -1,0 +1,4 @@
+31c31
+<     AbstractLogEntry( LogEntryVersion version, byte type )
+---
+>     AbstractLogEntry( LogEntryVersion version, byte type 	)

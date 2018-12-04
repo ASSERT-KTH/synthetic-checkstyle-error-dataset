@@ -1,0 +1,4 @@
+147c147
+<         assertEquals( 200, new RestRequest().get( server.baseUri().toString() + "db/manage/server/console" ).getStatus() );
+---
+>         assertEquals( 200, new RestRequest().get( server	.baseUri().toString() + "db/manage/server/console" ).getStatus() );

@@ -1,0 +1,5 @@
+39,40c39
+<     public void returns_value_if_trimmed_name_is_empty()
+<     {
+---
+>     public void returns_value_if_trimmed_name_is_empty()    {

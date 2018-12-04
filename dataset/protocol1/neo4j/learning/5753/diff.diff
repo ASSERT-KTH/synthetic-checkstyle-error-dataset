@@ -1,0 +1,4 @@
+206c206
+<             Iterable<Relationship> expand = expander.expand( this, BranchState.NO_STATE );
+---
+>             Iterable<Relationship> expand 	= expander.expand( this, BranchState.NO_STATE );

@@ -1,0 +1,4 @@
+328c328
+<                     read.relationships( start.id, group.outgoingReference(), relationship );
+---
+>                     read.relationships( start.id, group.outgoingReference(	), relationship );

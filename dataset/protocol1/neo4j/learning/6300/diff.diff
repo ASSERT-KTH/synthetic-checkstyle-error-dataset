@@ -1,0 +1,4 @@
+37c37
+< import org.neo4j.bolt.v3.messaging.request.HelloMessage;
+---
+> import org.neo4j.bolt.v3.messaging.request	.HelloMessage;

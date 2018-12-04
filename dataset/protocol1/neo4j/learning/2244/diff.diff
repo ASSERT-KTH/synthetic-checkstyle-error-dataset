@@ -1,0 +1,4 @@
+32c32
+< import static org.neo4j.values.storable.CoordinateReferenceSystem.Cartesian;
+---
+> import static org.neo4j.	values.storable.CoordinateReferenceSystem.Cartesian;

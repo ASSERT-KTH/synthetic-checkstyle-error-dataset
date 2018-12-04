@@ -1,0 +1,4 @@
+106c106
+<     ResourceIterator<File> snapshotFiles();
+---
+>     ResourceIterator<File> snapshotFiles(	);

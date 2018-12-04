@@ -1,0 +1,4 @@
+120c120
+<                         warning( "org.neo4j.kernel.internal.GraphDatabaseAPI",
+---
+>                         warning ( "org.neo4j.kernel.internal.GraphDatabaseAPI",

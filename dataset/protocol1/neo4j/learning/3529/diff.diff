@@ -1,0 +1,5 @@
+95,96c95
+<                 "version", GraphDatabaseSettings.SchemaIndex.NATIVE_BTREE10.providerVersion() );
+<         assertEquals( providerDescriptionMap, result[7] );
+---
+>                 "version", GraphDatabaseSettings.SchemaIndex.NATIVE_BTREE10.providerVersion() );        assertEquals( providerDescriptionMap, result[7] );

@@ -1,0 +1,4 @@
+27c27
+< package org.neo4j.index.impl.lucene.explicit;
+---
+> package org.neo4j.index.impl.lucene.	explicit;

@@ -1,0 +1,4 @@
+83c83
+<         for ( HeaderField<?> field : fields() )
+---
+>         for ( HeaderField< ?> field : fields() )

@@ -1,0 +1,5 @@
+71,72c71
+<             for ( int i = offset, j = other.offset; i < byteLength; i++, j++ )
+<             {
+---
+>             for ( int i = offset, j = other.offset; i < byteLength; i++, j++ )            {

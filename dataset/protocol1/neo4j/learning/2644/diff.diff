@@ -1,0 +1,5 @@
+45c45,46
+<         GraphFactory factory = new SimpleGraphFactory( mockDb );
+---
+>         GraphFactory factory = new SimpleGraphFactory( 
+> mockDb );

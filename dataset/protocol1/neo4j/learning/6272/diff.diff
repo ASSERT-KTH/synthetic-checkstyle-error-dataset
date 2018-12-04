@@ -1,0 +1,5 @@
+57c57,58
+<         public void apply( long iteration ) throws AcquireLockTimeoutException
+---
+>         public void apply( long iteration ) 
+> throws AcquireLockTimeoutException

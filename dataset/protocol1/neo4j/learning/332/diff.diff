@@ -1,0 +1,4 @@
+174c174
+<             if ( requiredChecker.isRecoveryRequiredAt( databaseLayout ) )
+---
+>             if ( requiredChecker.	isRecoveryRequiredAt( databaseLayout ) )

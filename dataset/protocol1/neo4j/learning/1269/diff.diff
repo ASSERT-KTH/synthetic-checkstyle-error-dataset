@@ -1,0 +1,5 @@
+43c43,44
+<         assertTemporalEquals( data, "0001-10-02T00:00+01:00", "datetime" );
+---
+>         assertTemporalEquals( data, "0001-10-02T00:00+01:00", 
+> "datetime" );

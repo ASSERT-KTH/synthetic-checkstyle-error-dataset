@@ -1,0 +1,4 @@
+35c35
+<     public float value()
+---
+>     public float 	value()

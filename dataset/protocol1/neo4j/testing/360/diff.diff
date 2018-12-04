@@ -1,0 +1,4 @@
+137c137
+<             return Integer.parseInt( GraphDatabaseSettings.label_block_size.getDefaultValue() ) +
+---
+>             return Integer.parseInt( GraphDatabaseSettings.label_block_size.getDefaultValue() 	) +

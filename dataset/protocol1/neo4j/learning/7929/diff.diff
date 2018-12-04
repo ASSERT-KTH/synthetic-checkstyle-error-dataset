@@ -1,0 +1,4 @@
+75c75
+<                 if ( channel.size() > mebiBytes( 10 ) )
+---
+>                 if ( channel.size()> mebiBytes( 10 ) )

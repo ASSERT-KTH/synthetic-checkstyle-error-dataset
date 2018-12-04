@@ -1,0 +1,4 @@
+52c52
+<             httpclient.getConnectionManager().shutdown();
+---
+>             httpclient.getConnectionManager ().shutdown();

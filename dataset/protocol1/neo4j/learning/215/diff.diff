@@ -1,0 +1,5 @@
+462,463c462
+<         outputOrder.verify( output ).errors( argThat( hasErrors( Status.Statement.ExecutionFailed ) ) );
+<         outputOrder.verify( output ).finish();
+---
+>         outputOrder.verify( output ).errors( argThat( hasErrors( Status.Statement.ExecutionFailed ) ) );        outputOrder.verify( output ).finish();

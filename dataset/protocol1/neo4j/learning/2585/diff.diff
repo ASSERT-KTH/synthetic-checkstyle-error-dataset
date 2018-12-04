@@ -1,0 +1,5 @@
+49,50c49
+<         if ( message instanceof ResetMessage )
+<         {
+---
+>         if ( message instanceof ResetMessage )        {

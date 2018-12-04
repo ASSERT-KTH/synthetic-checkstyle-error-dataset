@@ -1,0 +1,5 @@
+36c36,37
+<                 () -> AbstractEditionModule.setupSecurityModule( null, null, mock( Log.class ), null, "non-existent-security-module" ) );
+---
+>                 () -> AbstractEditionModule.setupSecurityModule( null, null, mock
+> ( Log.class ), null, "non-existent-security-module" ) );

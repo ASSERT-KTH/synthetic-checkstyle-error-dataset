@@ -1,0 +1,4 @@
+40c40
+< import static org.junit.Assert.assertNotSame;
+---
+> import static org.junit.	Assert.assertNotSame;

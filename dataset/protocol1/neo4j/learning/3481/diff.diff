@@ -1,0 +1,4 @@
+86c86
+<         return type == Type.UNIQUE;
+---
+>         	return type == Type.UNIQUE;

@@ -1,0 +1,4 @@
+336c336
+<     public void shouldGiveHelpfulErrorOnNullMessageException() throws Throwable
+---
+>     public 	void shouldGiveHelpfulErrorOnNullMessageException() throws Throwable

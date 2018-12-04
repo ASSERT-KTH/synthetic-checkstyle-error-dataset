@@ -1,0 +1,4 @@
+35c35
+<     <E extends Exception> void visitEntries( PrimitiveLongIntVisitor<E> visitor ) throws E;
+---
+>     <E extends Exception> void visitEntries( PrimitiveLongIntVisitor <E> visitor ) throws E;

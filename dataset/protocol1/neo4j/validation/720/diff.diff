@@ -1,0 +1,5 @@
+65,66c65
+<         registry.put( registryKey, future );
+<         return new PooledJobHandle( future, registryKey, registry );
+---
+>         registry.put( registryKey, future );        return new PooledJobHandle( future, registryKey, registry );

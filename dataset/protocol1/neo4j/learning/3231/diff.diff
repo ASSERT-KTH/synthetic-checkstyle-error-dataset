@@ -1,0 +1,5 @@
+332c332,333
+<                     ", next=" + next + ", " + mode +
+---
+>                     ", next=" + next + 
+> ", " + mode +

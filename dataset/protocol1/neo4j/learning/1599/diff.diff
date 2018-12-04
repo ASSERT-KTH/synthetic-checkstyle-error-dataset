@@ -1,0 +1,5 @@
+369c369,370
+<                 ((LifeSupport) instance.instance).toString( indent + 3, sb );
+---
+>                 
+> ((LifeSupport) instance.instance).toString( indent + 3, sb );

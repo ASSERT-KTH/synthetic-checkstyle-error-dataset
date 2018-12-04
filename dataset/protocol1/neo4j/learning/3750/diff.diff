@@ -1,0 +1,4 @@
+772c772
+<     protected T dispatchIntegerArrayProperty( PropertyArray<int[], Integer> array, K param )
+---
+>     protected T dispatchIntegerArrayProperty( PropertyArray<int[], Integer> array, K 	param )

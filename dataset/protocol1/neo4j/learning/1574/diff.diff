@@ -1,0 +1,5 @@
+70c70,71
+<         Path debugLog = Paths.get( "logs", "debug.log" );
+---
+>         Path 
+> debugLog = Paths.get( "logs", "debug.log" );

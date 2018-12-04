@@ -1,0 +1,4 @@
+82c82
+<         IndexImplementation index2 = mock( IndexImplementation.class );
+---
+>         IndexImplementation index2 = mock( IndexImplementation	.class );

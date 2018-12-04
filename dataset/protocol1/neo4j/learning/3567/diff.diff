@@ -1,0 +1,5 @@
+47,48c47
+< import org.neo4j.internal.kernel.api.exceptions.schema.IndexNotFoundKernelException;
+< import org.neo4j.internal.kernel.api.procs.ProcedureSignature;
+---
+> import org.neo4j.internal.kernel.api.exceptions.schema.IndexNotFoundKernelException;import org.neo4j.internal.kernel.api.procs.ProcedureSignature;

@@ -1,0 +1,5 @@
+172c172,173
+<     public void moveToDirectory( File file, File toDirectory ) throws IOException
+---
+>     public void 
+> moveToDirectory( File file, File toDirectory ) throws IOException

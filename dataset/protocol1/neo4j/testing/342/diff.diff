@@ -1,0 +1,4 @@
+31c31
+< @Target( {ElementType.TYPE, ElementType.FIELD} )
+---
+> @Target( {ElementType.TYPE, ElementType.FIELD})

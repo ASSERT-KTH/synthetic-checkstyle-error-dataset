@@ -1,0 +1,4 @@
+24c24
+<     public DataException( String message )
+---
+>     public DataException ( String message )

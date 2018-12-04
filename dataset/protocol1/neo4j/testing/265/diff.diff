@@ -1,0 +1,4 @@
+123c123
+<             for ( int i = 0; i < maxProperties && blocksOccupied < 4; )
+---
+>             for 	( int i = 0; i < maxProperties && blocksOccupied < 4; )

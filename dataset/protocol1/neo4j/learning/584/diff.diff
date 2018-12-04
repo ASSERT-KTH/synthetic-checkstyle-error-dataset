@@ -1,0 +1,4 @@
+68c68
+<     public void shouldRecordMultipleUserAgents() throws IOException, ServletException
+---
+>     	public void shouldRecordMultipleUserAgents() throws IOException, ServletException

@@ -1,0 +1,4 @@
+83c83
+<     Stage SEQUENTIAL_FORWARD = new Adapter( false, true, "General purpose" );
+---
+>     Stage SEQUENTIAL_FORWARD = new 	Adapter( false, true, "General purpose" );

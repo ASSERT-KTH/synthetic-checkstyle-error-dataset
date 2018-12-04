@@ -1,0 +1,5 @@
+27,28c27
+<     public static final byte SIGNATURE = 0x7F;
+<     private final Status status;
+---
+>     public static final byte SIGNATURE = 0x7F;    private final Status status;

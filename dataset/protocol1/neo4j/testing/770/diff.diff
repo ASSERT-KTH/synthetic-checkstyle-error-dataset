@@ -1,0 +1,4 @@
+31c31
+<     private static final long serialVersionUID = 3662922094534872711L;
+---
+>     private 	static final long serialVersionUID = 3662922094534872711L;

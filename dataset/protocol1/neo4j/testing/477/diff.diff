@@ -1,0 +1,5 @@
+26,27c26
+<  * 2. As parameter for {@link Read#nodeIndexScan(IndexReference, NodeValueIndexCursor, IndexOrder, boolean)} and
+<  * {@link Read#nodeIndexSeek(IndexReference, NodeValueIndexCursor, IndexOrder, boolean, IndexQuery...)}. Where {@link #NONE} is used when
+---
+>  * 2. As parameter for {@link Read#nodeIndexScan(IndexReference, NodeValueIndexCursor, IndexOrder, boolean)} and * {@link Read#nodeIndexSeek(IndexReference, NodeValueIndexCursor, IndexOrder, boolean, IndexQuery...)}. Where {@link #NONE} is used when

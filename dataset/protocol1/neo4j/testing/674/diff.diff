@@ -1,0 +1,5 @@
+184c184,185
+<     TraversalDescription expand( PathExpander<?> expander );
+---
+>     TraversalDescription expand( 
+> PathExpander<?> expander );

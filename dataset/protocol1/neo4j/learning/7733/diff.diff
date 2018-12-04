@@ -1,0 +1,4 @@
+85c85
+<         expected.expect( InvalidSettingException.class );
+---
+>         expected.expect ( InvalidSettingException.class );

@@ -1,0 +1,4 @@
+138c138
+<         try ( BatchingNeoStores stores = batchingNeoStoresWithExternalPageCache( storage.fileSystem(), storage.pageCache(), NULL,
+---
+>         try ( BatchingNeoStores stores = batchingNeoStoresWithExternalPageCache( 	storage.fileSystem(), storage.pageCache(), NULL,

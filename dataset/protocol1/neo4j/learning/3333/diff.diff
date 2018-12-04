@@ -1,0 +1,4 @@
+26c26
+< import org.neo4j.kernel.api.index.IndexProvider;
+---
+> import org.neo4j.kernel.api.index.	IndexProvider;

@@ -1,0 +1,4 @@
+779c779
+<     public static int getIntVolatile( long address )
+---
+>     public static int 	getIntVolatile( long address )

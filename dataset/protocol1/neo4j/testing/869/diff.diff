@@ -1,0 +1,4 @@
+70c70
+<         Predicate<String> filter = string -> string.contains( "a" );
+---
+>         Predicate<String> filter = string -> string.contains ( "a" );

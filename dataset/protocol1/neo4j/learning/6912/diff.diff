@@ -1,0 +1,4 @@
+28c28
+< import static org.neo4j.bolt.v1.messaging.example.Nodes.CAROL;
+---
+> import static org.neo4j.bolt.v1.messaging.	example.Nodes.CAROL;

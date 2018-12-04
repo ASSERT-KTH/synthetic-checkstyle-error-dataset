@@ -1,0 +1,4 @@
+48c48
+<     private final List<KernelExtensionFactory<?>> kernelExtensions;
+---
+>     private final List< KernelExtensionFactory<?>> kernelExtensions;

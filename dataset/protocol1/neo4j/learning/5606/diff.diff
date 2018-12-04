@@ -1,0 +1,5 @@
+45c45,46
+< import static org.neo4j.internal.kernel.api.TokenRead.NO_TOKEN;
+---
+> import 
+> static org.neo4j.internal.kernel.api.TokenRead.NO_TOKEN;

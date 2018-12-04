@@ -1,0 +1,4 @@
+43c43
+< import static org.mockito.Mockito.verifyNoMoreInteractions;
+---
+> 	import static org.mockito.Mockito.verifyNoMoreInteractions;

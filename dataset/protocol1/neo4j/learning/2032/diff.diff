@@ -1,0 +1,5 @@
+29,30c29
+< import org.neo4j.unsafe.impl.batchimport.staging.Stage;
+< import static org.neo4j.unsafe.impl.batchimport.RecordIdIterator.allIn;
+---
+> import org.neo4j.unsafe.impl.batchimport.staging.Stage;import static org.neo4j.unsafe.impl.batchimport.RecordIdIterator.allIn;

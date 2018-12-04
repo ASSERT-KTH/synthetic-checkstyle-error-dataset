@@ -1,0 +1,5 @@
+69c69,70
+<         assertNotEquals( b + " should not be equivalent to " + a, b, a );
+---
+>         assertNotEquals( b + " should not be equivalent to " 
+> + a, b, a );

@@ -1,0 +1,5 @@
+139,140c139
+<         put6BLong( cursor, generation );
+<         cursor.putShort( GenerationSafePointer.checksumOf( generation, pointer ) );
+---
+>         put6BLong( cursor, generation );        cursor.putShort( GenerationSafePointer.checksumOf( generation, pointer ) );

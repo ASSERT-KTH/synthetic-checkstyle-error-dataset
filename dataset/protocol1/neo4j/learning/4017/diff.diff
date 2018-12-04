@@ -1,0 +1,5 @@
+64c64,65
+<         currentInstant = currentInstant.plus( tickDuration );
+---
+>         currentInstant = 
+> currentInstant.plus( tickDuration );

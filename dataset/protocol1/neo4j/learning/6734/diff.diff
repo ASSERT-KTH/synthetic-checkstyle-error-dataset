@@ -1,0 +1,4 @@
+62c62
+<         StringIndexKey key = new StringIndexKey();
+---
+>         StringIndexKey key= new StringIndexKey();

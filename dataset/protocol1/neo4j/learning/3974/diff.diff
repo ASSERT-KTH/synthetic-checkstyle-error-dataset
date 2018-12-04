@@ -1,0 +1,5 @@
+154c154,155
+<             return CompletableFuture.supplyAsync( () -> executeBatch( connection ), threadPool );
+---
+>             return CompletableFuture.supplyAsync( () 
+> -> executeBatch( connection ), threadPool );

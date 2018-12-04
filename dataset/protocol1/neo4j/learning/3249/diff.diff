@@ -1,0 +1,4 @@
+42c42
+<         return hashSingleValueToInt( intermediateHash + value );
+---
+>         return hashSingleValueToInt( intermediateHash + 	value );

@@ -1,0 +1,5 @@
+110c110,111
+<         assertEntry( map.pop(), entity, 2d );
+---
+>         assertEntry( map.pop(), entity, 
+> 2d );

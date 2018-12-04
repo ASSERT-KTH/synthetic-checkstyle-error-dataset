@@ -1,0 +1,5 @@
+58,59c58
+<             throw new org.neo4j.graphdb.TransactionFailureException( e.getMessage(), e );
+<         }
+---
+>             throw new org.neo4j.graphdb.TransactionFailureException( e.getMessage(), e );        }

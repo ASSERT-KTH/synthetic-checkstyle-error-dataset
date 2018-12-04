@@ -1,0 +1,4 @@
+62c62
+<     protected synchronized int createToken( String name ) throws KernelException
+---
+>     protected 	synchronized int createToken( String name ) throws KernelException

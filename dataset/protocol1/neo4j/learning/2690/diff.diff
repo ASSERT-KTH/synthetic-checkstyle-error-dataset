@@ -1,0 +1,5 @@
+120,121c120
+<                     ioException = new IOException( e );
+<                     closed = true;
+---
+>                     ioException = new IOException( e );                    closed = true;

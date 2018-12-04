@@ -1,0 +1,4 @@
+38c38
+<     void dropIndexDefinitions( IndexDefinition indexDefinition );
+---
+>     void 	dropIndexDefinitions( IndexDefinition indexDefinition );

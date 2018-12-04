@@ -1,0 +1,4 @@
+41c41
+<         return new StandardAnalyzer();
+---
+>         return new StandardAnalyzer ();

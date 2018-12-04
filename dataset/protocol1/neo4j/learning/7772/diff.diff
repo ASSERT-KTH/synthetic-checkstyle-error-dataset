@@ -1,0 +1,5 @@
+58c58,59
+<         if ( thread != Thread.currentThread() )
+---
+>         if 
+> ( thread != Thread.currentThread() )

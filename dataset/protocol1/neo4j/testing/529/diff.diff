@@ -1,0 +1,4 @@
+28c28
+< import org.neo4j.gis.spatial.index.curves.SpaceFillingCurveConfiguration;
+---
+> import org.neo4j.gis.spatial.index	.curves.SpaceFillingCurveConfiguration;

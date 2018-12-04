@@ -1,0 +1,5 @@
+29,30c29
+< import org.neo4j.graphdb.traversal.Evaluation;
+< import org.neo4j.graphdb.traversal.InitialBranchState;
+---
+> import org.neo4j.graphdb.traversal.Evaluation;import org.neo4j.graphdb.traversal.InitialBranchState;

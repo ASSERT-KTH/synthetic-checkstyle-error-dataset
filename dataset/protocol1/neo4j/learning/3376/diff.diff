@@ -1,0 +1,4 @@
+60c60
+<     void init( long nodeReference, long reference );
+---
+>     void init( long nodeReference, 	long reference );

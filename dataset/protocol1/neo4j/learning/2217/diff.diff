@@ -1,0 +1,5 @@
+54,55c54
+<         singleValue[0] = putLong( address( index ) + 1, value[0] );
+<         return singleValue;
+---
+>         singleValue[0] = putLong( address( index ) + 1, value[0] );        return singleValue;

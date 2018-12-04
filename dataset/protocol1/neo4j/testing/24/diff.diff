@@ -1,0 +1,4 @@
+80c80
+<         terminateWithMinusOneIfNeeded( update.getLabelsBefore(), bc );
+---
+>         terminateWithMinusOneIfNeeded( update.	getLabelsBefore(), bc );

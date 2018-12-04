@@ -1,0 +1,5 @@
+285c285,286
+<         if ( isArray != reference.isArray )
+---
+>         if 
+> ( isArray != reference.isArray )

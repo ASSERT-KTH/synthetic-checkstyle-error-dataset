@@ -1,0 +1,5 @@
+233c233,234
+<         public RecordCheck<RelationshipGroupRecord,RelationshipGroupConsistencyReport> decorateRelationshipGroupChecker(
+---
+>         
+> public RecordCheck<RelationshipGroupRecord,RelationshipGroupConsistencyReport> decorateRelationshipGroupChecker(

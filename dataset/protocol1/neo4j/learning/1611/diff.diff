@@ -1,0 +1,4 @@
+142c142
+<         return findMethod( SUN_OS_BEAN, methodName );
+---
+>         return findMethod( SUN_OS_BEAN	, methodName );

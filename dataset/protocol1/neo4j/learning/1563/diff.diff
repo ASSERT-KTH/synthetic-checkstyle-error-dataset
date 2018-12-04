@@ -1,0 +1,5 @@
+188c188,189
+<     public void shouldFindFirstRecordGreaterThanIfNoExactMatch() throws Exception
+---
+>     public void shouldFindFirstRecordGreaterThanIfNoExactMatch
+> () throws Exception

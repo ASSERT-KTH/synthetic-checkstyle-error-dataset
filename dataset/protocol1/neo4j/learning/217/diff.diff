@@ -1,0 +1,4 @@
+800c800
+<         for ( RelationshipType type : types )
+---
+>         for (RelationshipType type : types )

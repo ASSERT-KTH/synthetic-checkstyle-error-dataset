@@ -1,0 +1,4 @@
+63c63
+<         abstract RotationStrategy create( FileSystemAbstraction fs, PageCache pages, ProgressiveFormat format,
+---
+>         abstract RotationStrategy create ( FileSystemAbstraction fs, PageCache pages, ProgressiveFormat format,

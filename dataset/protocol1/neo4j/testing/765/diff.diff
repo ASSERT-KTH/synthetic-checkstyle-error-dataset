@@ -1,0 +1,4 @@
+41c41
+<     void swap( long fromIndex, long toIndex );
+---
+>     void swap( long 	fromIndex, long toIndex );

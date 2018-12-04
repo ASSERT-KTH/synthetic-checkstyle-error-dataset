@@ -1,0 +1,4 @@
+45c45
+<         private final CountDownLatch reached = new CountDownLatch( 1 );
+---
+>         private final CountDownLatch reached = new CountDownLatch(1 );

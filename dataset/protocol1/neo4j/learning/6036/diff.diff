@@ -1,0 +1,4 @@
+323c323
+<         Node nodeF = graph.makeNode( "F" );
+---
+>         Node nodeF = graph.makeNode ( "F" );

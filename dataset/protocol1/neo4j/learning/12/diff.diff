@@ -1,0 +1,4 @@
+93c93
+<         return NoneStrictMath.compare( cost, shortestSoFar.doubleValue(), epsilon ) <= 0;
+---
+>         return NoneStrictMath.compare( cost, 	shortestSoFar.doubleValue(), epsilon ) <= 0;

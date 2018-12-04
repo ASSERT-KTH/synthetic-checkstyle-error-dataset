@@ -1,0 +1,5 @@
+128,129c128
+<         for ( int i = 0; i < trueForOnes.length; i++ )
+<         {
+---
+>         for ( int i = 0; i < trueForOnes.length; i++ )        {

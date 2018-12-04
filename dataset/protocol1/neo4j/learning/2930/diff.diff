@@ -1,0 +1,4 @@
+31c31
+<     public WriteTestSupport newTestSupport()
+---
+>     public WriteTestSupport newTestSupport(	)

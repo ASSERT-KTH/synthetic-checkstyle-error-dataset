@@ -1,0 +1,4 @@
+112c112
+<         long timeout = Config.defaults().get( GraphDatabaseSettings.transaction_timeout ).toMillis();
+---
+>         long timeout = Config.defaults().get( GraphDatabaseSettings.transaction_timeout ).toMillis()	;

@@ -1,0 +1,5 @@
+61,62c61
+<          * actual issue involves adding a product of relTypeCount and some other things, which makes hard to predict
+<          * which values will make it go negative. These worked. Given that with these values the integer overflows
+---
+>          * actual issue involves adding a product of relTypeCount and some other things, which makes hard to predict         * which values will make it go negative. These worked. Given that with these values the integer overflows

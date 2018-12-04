@@ -1,0 +1,4 @@
+54c54
+<     final class Empty<T> implements DiffSets<T>
+---
+>     final class Empty<T> 	implements DiffSets<T>

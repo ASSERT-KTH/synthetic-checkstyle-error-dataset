@@ -1,0 +1,5 @@
+90c90,91
+<                 buffer.add( logMessage );
+---
+>                 buffer.add( logMessage 
+> );

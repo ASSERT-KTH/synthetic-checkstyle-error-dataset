@@ -1,0 +1,4 @@
+195c195
+<                 buffer.asCharBuffer().put( chars, position, length );
+---
+>                 buffer.asCharBuffer().put( chars, position, length )	;

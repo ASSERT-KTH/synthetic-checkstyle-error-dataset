@@ -1,0 +1,4 @@
+24c24
+< import org.neo4j.kernel.impl.store.record.AbstractBaseRecord;
+---
+> import org.neo4j.kernel.impl.store.record.	AbstractBaseRecord;

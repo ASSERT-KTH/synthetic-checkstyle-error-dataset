@@ -1,0 +1,5 @@
+180,181c180
+<             assertEquals( error, e );
+<         }
+---
+>             assertEquals( error, e );        }

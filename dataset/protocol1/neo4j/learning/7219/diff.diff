@@ -1,0 +1,5 @@
+45c45,46
+<         return HopScotchHashingAlgorithm.put( table, monitor, DEFAULT_HASHING, key, value, this );
+---
+>         return HopScotchHashingAlgorithm.put( 
+> table, monitor, DEFAULT_HASHING, key, value, this );

@@ -1,0 +1,4 @@
+61c61
+<         Validators.CONTAINS_EXISTING_DATABASE.validate( databaseDirectory.toFile() );
+---
+>         Validators.CONTAINS_EXISTING_DATABASE.validate( databaseDirectory.toFile () );

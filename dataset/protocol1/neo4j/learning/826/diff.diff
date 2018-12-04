@@ -1,0 +1,4 @@
+101c101
+<         if ( injectsRestrictedType( fieldType ) )
+---
+>         if ( injectsRestrictedType( fieldType ))

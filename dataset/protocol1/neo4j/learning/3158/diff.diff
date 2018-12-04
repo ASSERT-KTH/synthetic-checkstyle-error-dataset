@@ -1,0 +1,4 @@
+51c51
+<     public IndexProviderStore( File file, FileSystemAbstraction fileSystem, long expectedVersion, boolean allowUpgrade )
+---
+>     public IndexProviderStore( File file, FileSystemAbstraction fileSystem, long 	expectedVersion, boolean allowUpgrade )

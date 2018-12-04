@@ -1,0 +1,4 @@
+63c63
+<         processor.processRelationshipTypeToken( this, record );
+---
+>         processor.processRelationshipTypeToken ( this, record );

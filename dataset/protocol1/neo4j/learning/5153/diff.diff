@@ -1,0 +1,4 @@
+48c48
+<     TransactionApplier EMPTY = new Adapter();
+---
+>     TransactionApplier EMPTY =new Adapter();

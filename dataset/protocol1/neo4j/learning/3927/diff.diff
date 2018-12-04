@@ -1,0 +1,5 @@
+54,55c54
+<         // since lucene use ServiceLocator to load services, context class loader need to be replaced as well
+<         ClassLoader contextClassLoader = Thread.currentThread().getContextClassLoader();
+---
+>         // since lucene use ServiceLocator to load services, context class loader need to be replaced as well        ClassLoader contextClassLoader = Thread.currentThread().getContextClassLoader();

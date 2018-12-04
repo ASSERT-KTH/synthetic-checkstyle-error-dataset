@@ -1,0 +1,4 @@
+24c24
+< import org.neo4j.internal.kernel.api.exceptions.explicitindex.ExplicitIndexNotFoundKernelException;
+---
+> import org.neo4j.internal.kernel.	api.exceptions.explicitindex.ExplicitIndexNotFoundKernelException;

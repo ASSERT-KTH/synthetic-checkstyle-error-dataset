@@ -1,0 +1,4 @@
+214c214
+<         try ( Transaction transaction = kernel.beginTransaction( implicit, AUTH_DISABLED ) )
+---
+>         try ( Transaction transaction 	= kernel.beginTransaction( implicit, AUTH_DISABLED ) )

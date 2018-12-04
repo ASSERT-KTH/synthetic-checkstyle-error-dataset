@@ -1,0 +1,5 @@
+69c69,70
+<         Log log = mock( Log.class );
+---
+>         Log 
+> log = mock( Log.class );

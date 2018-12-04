@@ -1,0 +1,5 @@
+25,26c25
+< import org.neo4j.bolt.messaging.BoltRequestMessageReader;
+< import org.neo4j.bolt.messaging.BoltResponseMessageWriter;
+---
+> import org.neo4j.bolt.messaging.BoltRequestMessageReader;import org.neo4j.bolt.messaging.BoltResponseMessageWriter;

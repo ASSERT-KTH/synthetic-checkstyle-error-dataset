@@ -1,0 +1,4 @@
+33c33
+<         this.contents = String.format( contents, args );
+---
+>         this.contents = String.	format( contents, args );

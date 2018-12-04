@@ -1,0 +1,5 @@
+47,48c47
+<     public static final String CHARACTER = RepresentationType.CHAR.valueName;
+<     public static final String CHARACTER_LIST = RepresentationType.CHAR.listName;
+---
+>     public static final String CHARACTER = RepresentationType.CHAR.valueName;    public static final String CHARACTER_LIST = RepresentationType.CHAR.listName;

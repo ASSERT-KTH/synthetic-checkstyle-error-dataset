@@ -1,0 +1,4 @@
+38c38
+<         this.indexCapability = indexCapability;
+---
+>         this.indexCapability = indexCapability	;

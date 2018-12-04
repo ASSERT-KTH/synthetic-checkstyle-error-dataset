@@ -1,0 +1,5 @@
+361c361,362
+<         return indexDescriptor != null ? indexDescriptor : IndexReference.NO_INDEX;
+---
+>         return indexDescriptor != null ? 
+> indexDescriptor : IndexReference.NO_INDEX;

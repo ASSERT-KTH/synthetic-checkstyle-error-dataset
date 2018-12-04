@@ -1,0 +1,5 @@
+68,69c68
+<         long[] resourceIds = {17};
+<         WaitingOnLock status =
+---
+>         long[] resourceIds = {17};        WaitingOnLock status =

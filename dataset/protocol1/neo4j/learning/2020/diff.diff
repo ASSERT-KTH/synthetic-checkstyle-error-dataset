@@ -1,0 +1,5 @@
+56c56,57
+<             public Object beforeCommit( TransactionData data )
+---
+>             public Object 
+> beforeCommit( TransactionData data )

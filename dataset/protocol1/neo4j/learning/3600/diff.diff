@@ -1,0 +1,5 @@
+72c72,73
+<     BatchInserterIndex relationshipIndex( String indexName, Map<String, String> config );
+---
+>     BatchInserterIndex relationshipIndex( String indexName, Map<String, String> 
+> config );

@@ -1,0 +1,5 @@
+55c55,56
+<     private static final String KEY = "fulltext";
+---
+>     private static final String 
+> KEY = "fulltext";

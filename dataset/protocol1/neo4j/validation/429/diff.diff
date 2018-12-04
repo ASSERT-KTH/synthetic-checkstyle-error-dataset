@@ -1,0 +1,5 @@
+152c152,153
+<         for ( int i = 0; i < min.length && intersects; i++ )
+---
+>         for ( int i = 0; i < min.length && intersects; 
+> i++ )

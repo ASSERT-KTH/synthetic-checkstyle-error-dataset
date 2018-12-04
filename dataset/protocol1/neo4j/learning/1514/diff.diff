@@ -1,0 +1,4 @@
+23c23
+< import com.sun.jersey.api.core.HttpResponseContext;
+---
+> import com.sun.jersey.api.	core.HttpResponseContext;

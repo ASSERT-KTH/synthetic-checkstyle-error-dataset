@@ -1,0 +1,4 @@
+147c147
+<         for ( NumberValue a : integers )
+---
+>         for 	( NumberValue a : integers )

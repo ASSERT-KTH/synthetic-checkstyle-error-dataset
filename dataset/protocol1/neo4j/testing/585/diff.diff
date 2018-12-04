@@ -1,0 +1,5 @@
+38,39c38
+<     int nanoOfSecond;
+<     long epochSecond;
+---
+>     int nanoOfSecond;    long epochSecond;

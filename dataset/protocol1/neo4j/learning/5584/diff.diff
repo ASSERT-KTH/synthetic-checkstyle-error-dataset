@@ -1,0 +1,5 @@
+213c213,214
+<             httpget.setHeader( "Accept", "application/json" );
+---
+>             httpget.setHeader( 
+> "Accept", "application/json" );

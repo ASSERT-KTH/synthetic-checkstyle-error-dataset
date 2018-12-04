@@ -1,0 +1,5 @@
+48,49c48
+<         this.relType = relType;
+<         this.propertyName = propertyName;
+---
+>         this.relType = relType;        this.propertyName = propertyName;

@@ -1,0 +1,4 @@
+65c65
+<         visitor.visitIndex( TestIndexDescriptorFactory.forLabel( 1, 2 ), ":Person(uid)", 1.0d, 135164L );
+---
+>         visitor.visitIndex( TestIndexDescriptorFactory.forLabel( 1, 2 ), ":Person(uid)"	, 1.0d, 135164L );

@@ -1,0 +1,4 @@
+114c114
+<         assertThat( stringWriterLog.isDebugEnabled(), is( true ) );
+---
+>         assertThat( stringWriterLog.isDebugEnabled(), is( true ) 	);

@@ -1,0 +1,4 @@
+59c59
+<         assertEquals( "Transaction timeout should be retrieved.", 100, transactionTimeout );
+---
+>         assertEquals( "Transaction timeout should be retrieved."	, 100, transactionTimeout );

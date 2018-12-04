@@ -1,0 +1,4 @@
+67c67
+<     static final RelationshipType RELTYPE = RelationshipType.withName( "type" );
+---
+>     static final RelationshipType RELTYPE = 	RelationshipType.withName( "type" );

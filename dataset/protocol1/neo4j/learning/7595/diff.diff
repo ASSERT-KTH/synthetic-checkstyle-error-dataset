@@ -1,0 +1,5 @@
+84,85c84
+<         try ( CountsAccessor.IndexStatsUpdater updater = counts.updateIndexCounts() )
+<         {
+---
+>         try ( CountsAccessor.IndexStatsUpdater updater = counts.updateIndexCounts() )        {

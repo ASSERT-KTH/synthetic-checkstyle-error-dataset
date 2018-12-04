@@ -1,0 +1,5 @@
+42,43c42
+<         if ( connection instanceof JettyHttpConnection )
+<         {
+---
+>         if ( connection instanceof JettyHttpConnection )        {

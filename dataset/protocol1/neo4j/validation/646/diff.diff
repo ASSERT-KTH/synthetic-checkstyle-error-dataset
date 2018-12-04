@@ -1,0 +1,4 @@
+52c52
+<     T getCost( Relationship relationship, Direction direction );
+---
+>     T getCost( Relationship relationship, 	Direction direction );

@@ -1,0 +1,5 @@
+65c65,66
+<     public int maxDepth( Envelope referenceEnvelope, Envelope range, int nbrDim, int maxLevel )
+---
+>     public int maxDepth( Envelope referenceEnvelope, Envelope 
+> range, int nbrDim, int maxLevel )

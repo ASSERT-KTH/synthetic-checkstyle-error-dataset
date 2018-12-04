@@ -1,0 +1,5 @@
+151c151,152
+<         List<Relationship> currentPreds = predecessors.get( currentNode );
+---
+>         List<Relationship> currentPreds = predecessors.get( currentNode 
+> );

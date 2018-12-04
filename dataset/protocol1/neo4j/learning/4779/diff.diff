@@ -1,0 +1,5 @@
+116,117c116
+<     public void shouldNotScheduleNewJobIfHandlingSchedulingError() throws Throwable
+<     {
+---
+>     public void shouldNotScheduleNewJobIfHandlingSchedulingError() throws Throwable    {

@@ -1,0 +1,4 @@
+181c181
+<                 progress = progress.substring( 0, PROGRESS_WIDTH - 1 );
+---
+>                 progress = progress.substring( 0, PROGRESS_WIDTH - 1 )	;

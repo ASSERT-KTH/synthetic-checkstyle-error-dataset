@@ -1,0 +1,5 @@
+52c52,53
+<     public boolean stopAtThisDepth( double overlap, int depth, int maxDepth )
+---
+>     public boolean 
+> stopAtThisDepth( double overlap, int depth, int maxDepth )

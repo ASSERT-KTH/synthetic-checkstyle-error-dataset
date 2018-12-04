@@ -1,0 +1,4 @@
+131c131
+<         this.knownProperties = new IntObjectHashMap<>();
+---
+>         this.knownProperties = new IntObjectHashMap <>();

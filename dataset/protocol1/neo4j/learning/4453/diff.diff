@@ -1,0 +1,5 @@
+170c170,171
+<         assertEquals( 0L, iterator.next() );
+---
+>         assertEquals
+> ( 0L, iterator.next() );

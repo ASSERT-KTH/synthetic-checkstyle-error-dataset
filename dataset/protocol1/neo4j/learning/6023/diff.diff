@@ -1,0 +1,4 @@
+160c160
+<         File customLogLocation = databaseLayout.file( "customLogLocation" );
+---
+>         File customLogLocation = databaseLayout.file( "customLogLocation" )	;

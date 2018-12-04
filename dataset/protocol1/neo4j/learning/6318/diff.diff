@@ -1,0 +1,4 @@
+26c26
+< package org.neo4j.graphdb.index;
+---
+> package org.neo4j.graphdb.	index;

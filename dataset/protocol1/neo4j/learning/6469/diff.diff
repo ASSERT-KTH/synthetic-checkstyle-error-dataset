@@ -1,0 +1,4 @@
+47c47
+<         return graph.databaseLayout().databaseDirectory();
+---
+>         return graph.databaseLayout()	.databaseDirectory();

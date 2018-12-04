@@ -1,0 +1,5 @@
+158c158,159
+<     private static Stream<RequestMessage> illegalV3Messages() throws BoltIOException
+---
+>     private static Stream<RequestMessage> illegalV3Messages() throws 
+> BoltIOException

@@ -1,0 +1,5 @@
+97c97,98
+<         LogPruning pruning = new LogPruningImpl( fs, logFiles, logProvider, factory, clock, config );
+---
+>         LogPruning pruning = 
+> new LogPruningImpl( fs, logFiles, logProvider, factory, clock, config );

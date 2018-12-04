@@ -1,0 +1,4 @@
+25c25
+< class MapIterable<FROM, TO> implements Iterable<TO>
+---
+> class 	MapIterable<FROM, TO> implements Iterable<TO>

@@ -1,0 +1,4 @@
+131c131
+<         try ( ByteArrayOutputStream baos = new ByteArrayOutputStream() )
+---
+>         try 	( ByteArrayOutputStream baos = new ByteArrayOutputStream() )

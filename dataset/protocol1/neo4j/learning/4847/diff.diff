@@ -1,0 +1,5 @@
+65c65,66
+<         FailureMessage that = (FailureMessage) o;
+---
+>         FailureMessage 
+> that = (FailureMessage) o;

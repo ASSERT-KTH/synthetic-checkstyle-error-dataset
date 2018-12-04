@@ -1,0 +1,5 @@
+41,42c41
+<     private final Loader<RECORD, ADDITIONAL> loader;
+<     private final Map<Long,DirectRecordProxy> batch = new HashMap<>();
+---
+>     private final Loader<RECORD, ADDITIONAL> loader;    private final Map<Long,DirectRecordProxy> batch = new HashMap<>();

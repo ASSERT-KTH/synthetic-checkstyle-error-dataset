@@ -1,0 +1,4 @@
+77c77
+<     public static CypherPlanRepresentation newFromProvider( final Function<Object, ExecutionPlanDescription> planProvider )
+---
+>     public static CypherPlanRepresentation newFromProvider ( final Function<Object, ExecutionPlanDescription> planProvider )

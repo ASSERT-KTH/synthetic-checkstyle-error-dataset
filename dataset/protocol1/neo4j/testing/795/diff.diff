@@ -1,0 +1,5 @@
+54c54,55
+<         assertEquals( "bolt://banana.com:1234", toMap(uris).get("bolt") );
+---
+>         assertEquals( "bolt://banana.com:1234", toMap(uris).get
+> ("bolt") );

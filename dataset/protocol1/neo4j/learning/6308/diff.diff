@@ -1,0 +1,5 @@
+29,30c29
+< import org.neo4j.cypher.internal.javacompat.QueryResultProvider;
+< import org.neo4j.kernel.impl.query.TransactionalContext;
+---
+> import org.neo4j.cypher.internal.javacompat.QueryResultProvider;import org.neo4j.kernel.impl.query.TransactionalContext;

@@ -1,0 +1,4 @@
+76c76
+< import org.neo4j.test.rule.fs.DefaultFileSystemRule;
+---
+> import org.neo4j.test.rule	.fs.DefaultFileSystemRule;

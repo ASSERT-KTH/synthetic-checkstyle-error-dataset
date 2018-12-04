@@ -1,0 +1,4 @@
+30c30
+<     public ResourceCloseFailureException( String message, Throwable cause )
+---
+>     public ResourceCloseFailureException( String message, Throwable cause 	)

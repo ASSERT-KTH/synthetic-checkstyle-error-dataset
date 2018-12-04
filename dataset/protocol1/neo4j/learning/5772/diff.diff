@@ -1,0 +1,5 @@
+43,44c43
+<     private final long logVersion = 2L;
+<     private final LogTailScanner tailScanner = mock( LogTailScanner.class );
+---
+>     private final long logVersion = 2L;    private final LogTailScanner tailScanner = mock( LogTailScanner.class );

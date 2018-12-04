@@ -1,0 +1,4 @@
+27c27
+<     private final LogProvider userLogProvider;
+---
+>     private final LogProvider 	userLogProvider;

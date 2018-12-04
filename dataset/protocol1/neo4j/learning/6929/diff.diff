@@ -1,0 +1,4 @@
+22c22
+< public interface TestResource extends AutoCloseable
+---
+> 	public interface TestResource extends AutoCloseable

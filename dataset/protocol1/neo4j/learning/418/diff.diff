@@ -1,0 +1,5 @@
+69,70c69
+<     public ChunkedOutput( Channel ch, int bufferSize, TransportThrottleGroup throttleGroup )
+<     {
+---
+>     public ChunkedOutput( Channel ch, int bufferSize, TransportThrottleGroup throttleGroup )    {

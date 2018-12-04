@@ -1,0 +1,4 @@
+46c46
+<         return Pair.of( originValue, centerPointValue );
+---
+>         return Pair	.of( originValue, centerPointValue );

@@ -1,0 +1,5 @@
+99,100c99
+<         Value[] valuesB = createValues();
+<         long firstPropertyIdB = storeValuesAsPropertyChain( creator, owner, valuesB );
+---
+>         Value[] valuesB = createValues();        long firstPropertyIdB = storeValuesAsPropertyChain( creator, owner, valuesB );

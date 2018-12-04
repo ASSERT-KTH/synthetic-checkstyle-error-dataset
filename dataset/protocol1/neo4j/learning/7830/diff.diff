@@ -1,0 +1,5 @@
+31c31,32
+<     public abstract long id();
+---
+>     
+> public abstract long id();

@@ -1,0 +1,5 @@
+60c60,61
+<     boolean hasAnyEntries( long version );
+---
+>     boolean hasAnyEntries( 
+> long version );

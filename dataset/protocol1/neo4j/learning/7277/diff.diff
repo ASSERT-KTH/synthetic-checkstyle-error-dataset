@@ -1,0 +1,4 @@
+53c53
+<         assertEquals( 100L, average.average() );
+---
+>         assertEquals( 100L, average.average() )	;

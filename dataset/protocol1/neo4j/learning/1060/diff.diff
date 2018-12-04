@@ -1,0 +1,4 @@
+24c24
+< public interface DynamicRecordAllocator
+---
+> public 	interface DynamicRecordAllocator

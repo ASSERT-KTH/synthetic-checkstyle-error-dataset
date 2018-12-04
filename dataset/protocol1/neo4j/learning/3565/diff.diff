@@ -1,0 +1,5 @@
+125c125,126
+<         try ( Transaction transaction = database.beginTx() )
+---
+>         try 
+> ( Transaction transaction = database.beginTx() )

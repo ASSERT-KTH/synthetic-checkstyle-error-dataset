@@ -1,0 +1,5 @@
+59c59,60
+<     public T random( RandomValues random )
+---
+>     public T random( 
+> RandomValues random )

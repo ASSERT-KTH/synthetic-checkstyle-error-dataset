@@ -1,0 +1,4 @@
+42c42
+<     final IndexAccessor accessor;
+---
+>     	final IndexAccessor accessor;

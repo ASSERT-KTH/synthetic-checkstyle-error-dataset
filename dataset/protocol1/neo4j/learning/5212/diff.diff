@@ -1,0 +1,4 @@
+299c299
+<             try ( LockWrapper ignored = writeLock( updateLock ) )
+---
+>             try ( LockWrapper ignored = writeLock ( updateLock ) )

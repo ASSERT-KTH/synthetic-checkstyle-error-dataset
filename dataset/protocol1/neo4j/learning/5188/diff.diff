@@ -1,0 +1,4 @@
+352c352
+<             consumer.accept( marker ); // <-- marker has the last good position
+---
+>             consumer.accept( 	marker ); // <-- marker has the last good position

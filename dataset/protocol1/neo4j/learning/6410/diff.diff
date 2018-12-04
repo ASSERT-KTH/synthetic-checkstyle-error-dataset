@@ -1,0 +1,5 @@
+173c173,174
+<         return cpuTimeMillis < 0 ? null : cpuTimeMillis;
+---
+>         return cpuTimeMillis < 0 
+> ? null : cpuTimeMillis;

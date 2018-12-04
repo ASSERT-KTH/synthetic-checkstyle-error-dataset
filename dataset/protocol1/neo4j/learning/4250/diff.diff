@@ -1,0 +1,5 @@
+42,43c42
+<         Node startNode, Direction direction, RelationshipType... relTypes )
+<     {
+---
+>         Node startNode, Direction direction, RelationshipType... relTypes )    {

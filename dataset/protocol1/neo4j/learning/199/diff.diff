@@ -1,0 +1,5 @@
+33c33,34
+<     TableKeyIterator( Table<VALUE> table, AbstractHopScotchCollection<VALUE> collection )
+---
+>     TableKeyIterator
+> ( Table<VALUE> table, AbstractHopScotchCollection<VALUE> collection )

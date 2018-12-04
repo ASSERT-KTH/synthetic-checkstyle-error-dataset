@@ -1,0 +1,5 @@
+103c103,104
+<                 if ( method.getAnnotation( Test.class ) != null )
+---
+>                 if ( method.getAnnotation( Test.class ) 
+> != null )

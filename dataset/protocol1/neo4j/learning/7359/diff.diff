@@ -1,0 +1,5 @@
+43,44c43
+<             String message = "The repository file '" + file.getAbsolutePath() + "' has been marked as migrated. " +
+<                     "If you are sure that you want use this repository you need to manually rename the file '" +
+---
+>             String message = "The repository file '" + file.getAbsolutePath() + "' has been marked as migrated. " +                    "If you are sure that you want use this repository you need to manually rename the file '" +

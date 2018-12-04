@@ -1,0 +1,4 @@
+101c101
+<         verifyKillsConnection( () -> machine.process( init, recorder ) );
+---
+>         verifyKillsConnection( (	) -> machine.process( init, recorder ) );

@@ -1,0 +1,5 @@
+266,267c266
+<                     expectedMaxMemory -= grabSize;
+<                 }
+---
+>                     expectedMaxMemory -= grabSize;                }

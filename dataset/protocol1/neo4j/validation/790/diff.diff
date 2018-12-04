@@ -1,0 +1,5 @@
+78,79c78
+<         OnlyVersionTailInformation( LogEntryVersion logEntryVersion )
+<         {
+---
+>         OnlyVersionTailInformation( LogEntryVersion logEntryVersion )        {

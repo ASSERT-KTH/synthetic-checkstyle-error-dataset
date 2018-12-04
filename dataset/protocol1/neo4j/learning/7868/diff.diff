@@ -1,0 +1,4 @@
+202c202
+<                     .withIndexRootFolder( new File( testDir.directory( "reopenIndexFolder" ), "reopenIndex" ) )
+---
+>                     .withIndexRootFolder( new File( 	testDir.directory( "reopenIndexFolder" ), "reopenIndex" ) )

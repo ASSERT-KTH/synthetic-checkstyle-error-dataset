@@ -1,0 +1,4 @@
+38c38
+< import static org.neo4j.kernel.recovery.RecoveryStartInformationProvider.NO_MONITOR;
+---
+> import static org.neo4j.kernel.recovery.RecoveryStartInformationProvider	.NO_MONITOR;

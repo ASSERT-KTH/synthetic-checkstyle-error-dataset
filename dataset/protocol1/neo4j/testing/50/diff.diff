@@ -1,0 +1,5 @@
+281,282c281
+<         if ( isPrimitive != reference.isPrimitive )
+<         {
+---
+>         if ( isPrimitive != reference.isPrimitive )        {

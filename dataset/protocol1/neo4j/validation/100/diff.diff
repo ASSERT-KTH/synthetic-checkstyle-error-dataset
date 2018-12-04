@@ -1,0 +1,5 @@
+43c43,44
+<         final ConnectorPortRegister portRegister = db.getDependencyResolver().resolveDependency( ConnectorPortRegister.class );
+---
+>         final ConnectorPortRegister portRegister = 
+> db.getDependencyResolver().resolveDependency( ConnectorPortRegister.class );

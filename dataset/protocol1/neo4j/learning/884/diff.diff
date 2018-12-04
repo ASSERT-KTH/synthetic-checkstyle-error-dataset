@@ -1,0 +1,4 @@
+305c305
+<         verify( populator ).markAsFailed( failure( batchFlushError ).asString() );
+---
+>         verify( populator 	).markAsFailed( failure( batchFlushError ).asString() );

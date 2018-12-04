@@ -1,0 +1,4 @@
+35c35
+<     RecordAccess<NodeRecord, Void> getNodeRecords();
+---
+>     RecordAccess<NodeRecord, Void>getNodeRecords();

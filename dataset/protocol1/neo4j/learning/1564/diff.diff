@@ -1,0 +1,4 @@
+169c169
+<                 if ( valueCategories.length == 1 && valueCategories[0] == ValueCategory.UNKNOWN )
+---
+>                 if ( valueCategories.length == 1 && valueCategories[0] == ValueCategory	.UNKNOWN )

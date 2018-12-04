@@ -1,0 +1,4 @@
+1166c1166
+<         assertEquals( properties, helper.getNodeProperties( parseLong( uri.substring( uri.lastIndexOf( '/' ) + 1
+---
+>         assertEquals( properties, helper.getNodeProperties ( parseLong( uri.substring( uri.lastIndexOf( '/' ) + 1

@@ -1,0 +1,5 @@
+51c51,52
+<         public final <Value> Value get( HeaderField<Value> field )
+---
+>         public final <Value> Value get
+> ( HeaderField<Value> field )

@@ -1,0 +1,4 @@
+112c112
+<         public boolean allowsProcedureWith( String[] allowed )
+---
+>         public boolean allowsProcedureWith( String[] 	allowed )

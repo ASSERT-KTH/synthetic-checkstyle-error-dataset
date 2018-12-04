@@ -1,0 +1,5 @@
+35,36c35
+< import static java.util.concurrent.TimeUnit.SECONDS;
+< import static org.mockito.Mockito.mock;
+---
+> import static java.util.concurrent.TimeUnit.SECONDS;import static org.mockito.Mockito.mock;

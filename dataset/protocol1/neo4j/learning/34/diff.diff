@@ -1,0 +1,5 @@
+56c56,57
+<             record.setNextRel( nextRel );
+---
+>             
+> record.setNextRel( nextRel );

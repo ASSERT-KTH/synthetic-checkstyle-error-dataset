@@ -1,0 +1,5 @@
+49c49,50
+<     public void enqueueUpdate( DatabaseIndex<? extends IndexReader> index, IndexUpdater indexUpdater, IndexEntryUpdate<?> update )
+---
+>     public void enqueueUpdate( DatabaseIndex<? extends IndexReader> index, IndexUpdater indexUpdater, 
+> IndexEntryUpdate<?> update )

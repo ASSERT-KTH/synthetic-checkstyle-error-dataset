@@ -1,0 +1,5 @@
+128c128,129
+<             Node node = database.createNode( pointNode );
+---
+>             Node 
+> node = database.createNode( pointNode );

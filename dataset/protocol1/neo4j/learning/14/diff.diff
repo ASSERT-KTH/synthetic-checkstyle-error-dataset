@@ -1,0 +1,5 @@
+31c31,32
+< public class TickOnAccessClock extends Clock
+---
+> public class TickOnAccessClock extends 
+> Clock

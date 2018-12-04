@@ -1,0 +1,5 @@
+28c28,29
+<     private final float value;
+---
+>     private 
+> final float value;

@@ -1,0 +1,5 @@
+67c67,68
+<             if ( ArrayUtils.contains( entityTokenFilter, Math.toIntExact( candidate ) ) )
+---
+>             if ( ArrayUtils.contains( entityTokenFilter, Math.toIntExact( 
+> candidate ) ) )

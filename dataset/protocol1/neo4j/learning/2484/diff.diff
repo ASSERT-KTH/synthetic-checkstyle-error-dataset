@@ -1,0 +1,4 @@
+22c22
+< import org.neo4j.graphalgo.WeightedPath;
+---
+> import 	org.neo4j.graphalgo.WeightedPath;

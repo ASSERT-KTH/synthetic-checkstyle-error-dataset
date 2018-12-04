@@ -1,0 +1,4 @@
+131c131
+<         public void startedRotating( long currentVersion )
+---
+>         public void 	startedRotating( long currentVersion )

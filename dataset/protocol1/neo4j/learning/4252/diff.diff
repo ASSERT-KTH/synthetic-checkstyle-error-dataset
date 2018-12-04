@@ -1,0 +1,4 @@
+81c81
+<         allRels = (ResourceIterable<Relationship>) secondNode.getRelationships( relType );
+---
+>         allRels = ( ResourceIterable<Relationship>) secondNode.getRelationships( relType );

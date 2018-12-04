@@ -1,0 +1,5 @@
+31c31,32
+<     protected GraphFactory createGraphFactory( Config config )
+---
+>     protected GraphFactory createGraphFactory
+> ( Config config )

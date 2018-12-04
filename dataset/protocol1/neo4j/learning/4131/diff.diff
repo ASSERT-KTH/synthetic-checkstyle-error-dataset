@@ -1,0 +1,4 @@
+129c129
+<     protected BoltResultHandle newBoltResultHandle( String statement, MapValue params, TransactionalContext transactionalContext )
+---
+>     protected BoltResultHandle newBoltResultHandle( String statement, MapValue params, TransactionalContext transactionalContext)

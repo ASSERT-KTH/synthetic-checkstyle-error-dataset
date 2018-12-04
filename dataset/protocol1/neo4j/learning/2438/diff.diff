@@ -1,0 +1,4 @@
+46c46
+<     T addCosts( T c1, T c2 );
+---
+>     T addCosts( T c1, 	T c2 );

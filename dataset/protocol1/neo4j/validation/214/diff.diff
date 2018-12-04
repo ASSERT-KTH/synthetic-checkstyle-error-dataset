@@ -1,0 +1,4 @@
+74c74
+<     public abstract static class CheckAdapter implements RecordCheck<CountsEntry,ConsistencyReport.CountsConsistencyReport>
+---
+>     public abstract static class CheckAdapter implements RecordCheck<CountsEntry,ConsistencyReport.CountsConsistencyReport >

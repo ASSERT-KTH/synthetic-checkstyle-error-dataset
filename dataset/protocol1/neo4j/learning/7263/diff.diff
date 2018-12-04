@@ -1,0 +1,5 @@
+56,57c56
+<         Map<String,Object> meta = InitMessageDecoder.readMetaDataMap( unpacker );
+<         return new HelloMessage( meta );
+---
+>         Map<String,Object> meta = InitMessageDecoder.readMetaDataMap( unpacker );        return new HelloMessage( meta );

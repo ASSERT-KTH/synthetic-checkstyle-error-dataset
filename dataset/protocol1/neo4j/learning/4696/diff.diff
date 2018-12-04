@@ -1,0 +1,5 @@
+103c103,104
+<                 Iterables.asSet( getAllNodesWithLabel( First ) ) );
+---
+>                 Iterables.asSet( getAllNodesWithLabel( First ) ) 
+> );

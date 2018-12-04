@@ -1,0 +1,5 @@
+99c99,100
+<         Preconditions.checkState( names.size() == 1, "Database file has more then one file names." );
+---
+>         Preconditions.checkState( names.size
+> () == 1, "Database file has more then one file names." );

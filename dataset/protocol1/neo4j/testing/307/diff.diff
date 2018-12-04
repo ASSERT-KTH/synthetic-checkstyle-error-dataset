@@ -1,0 +1,5 @@
+152c152,153
+<     public abstract void verifyDeferredConstraints( NodePropertyAccessor propertyAccessor ) throws IndexEntryConflictException;
+---
+>     public abstract void verifyDeferredConstraints( NodePropertyAccessor 
+> propertyAccessor ) throws IndexEntryConflictException;

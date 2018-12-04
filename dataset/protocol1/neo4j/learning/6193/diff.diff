@@ -1,0 +1,5 @@
+258c258,259
+<         Node node1 = graphDb.createNode();
+---
+>         
+> Node node1 = graphDb.createNode();

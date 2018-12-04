@@ -1,0 +1,4 @@
+133c133
+<     long maxCachedPages();
+---
+>     long maxCachedPages ();

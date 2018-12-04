@@ -1,0 +1,5 @@
+29,30c29
+< import static org.junit.Assert.assertSame;
+< import static org.mockito.Mockito.mock;
+---
+> import static org.junit.Assert.assertSame;import static org.mockito.Mockito.mock;

@@ -1,0 +1,5 @@
+101,102c101
+<         Path subdir = directory.resolve( "a-subdirectory" );
+<         Files.createDirectories( subdir );
+---
+>         Path subdir = directory.resolve( "a-subdirectory" );        Files.createDirectories( subdir );

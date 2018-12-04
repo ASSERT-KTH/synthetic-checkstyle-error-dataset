@@ -1,0 +1,4 @@
+142c142
+<         return dependencyResolver.resolveDependency( ThreadToStatementContextBridge.class ).getKernelTransactionBoundToThisThread( true );
+---
+>         return dependencyResolver.resolveDependency( ThreadToStatementContextBridge	.class ).getKernelTransactionBoundToThisThread( true );

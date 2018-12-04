@@ -1,0 +1,5 @@
+67c67,68
+<         verifyProvidedFileSystemOpenAfterShutdown( inserter( getStoreDir(), fs, getConfig(), getKernelExtensions() ), fs );
+---
+>         verifyProvidedFileSystemOpenAfterShutdown( 
+> inserter( getStoreDir(), fs, getConfig(), getKernelExtensions() ), fs );

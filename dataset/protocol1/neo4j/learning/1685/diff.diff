@@ -1,0 +1,4 @@
+59c59
+<         this.arrayRecordSize = arrayRecordSize;
+---
+>         this.arrayRecordSize = arrayRecordSize	;

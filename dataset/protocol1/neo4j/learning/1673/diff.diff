@@ -1,0 +1,4 @@
+78c78
+<             public boolean trimStrings()
+---
+>             public boolean trimStrings(	)

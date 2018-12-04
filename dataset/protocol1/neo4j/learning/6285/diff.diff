@@ -1,0 +1,5 @@
+144c144,145
+<                                 format( "Invalid connector setting: %s", s.getKey() ) ) )
+---
+>                                 format
+> ( "Invalid connector setting: %s", s.getKey() ) ) )

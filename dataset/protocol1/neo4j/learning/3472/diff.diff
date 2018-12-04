@@ -1,0 +1,5 @@
+75c75,76
+<         throwable.printStackTrace( out );
+---
+>         throwable.printStackTrace( 
+> out );

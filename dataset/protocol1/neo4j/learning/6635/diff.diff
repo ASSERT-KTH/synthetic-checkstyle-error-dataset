@@ -1,0 +1,5 @@
+194c194,195
+<                     "Single property schema requires one property but had " + propertyIds.length );
+---
+>                     "Single property schema requires one property but had " 
+> + propertyIds.length );

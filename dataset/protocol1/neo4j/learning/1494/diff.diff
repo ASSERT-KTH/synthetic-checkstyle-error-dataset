@@ -1,0 +1,4 @@
+95c95
+<         when( formats.capabilities() ).thenReturn( capabilities );
+---
+>         when( formats.capabilities() 	).thenReturn( capabilities );

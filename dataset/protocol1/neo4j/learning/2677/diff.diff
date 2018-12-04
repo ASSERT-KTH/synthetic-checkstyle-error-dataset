@@ -1,0 +1,5 @@
+257c257,258
+<                 if ( deleted == numberOfRelationships )
+---
+>                 if ( 
+> deleted == numberOfRelationships )

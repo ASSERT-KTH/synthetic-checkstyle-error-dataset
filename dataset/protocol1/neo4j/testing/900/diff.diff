@@ -1,0 +1,4 @@
+1333c1333
+<         URI start = (URI) service.createNode( null ).getMetadata().getFirst( "Location" );
+---
+>         URI start = (URI) service.createNode( null ).getMetadata(	).getFirst( "Location" );

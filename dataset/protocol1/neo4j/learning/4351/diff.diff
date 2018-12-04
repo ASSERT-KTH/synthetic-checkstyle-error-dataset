@@ -1,0 +1,5 @@
+85c85,86
+<         StubCursorFactory cursors = new StubCursorFactory().withGroupCursors( groupCursor );
+---
+>         StubCursorFactory cursors = new StubCursorFactory().withGroupCursors
+> ( groupCursor );

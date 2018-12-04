@@ -1,0 +1,4 @@
+245c245
+<         map.forEachKey( consumer );
+---
+>         map.forEachKey( consumer )	;

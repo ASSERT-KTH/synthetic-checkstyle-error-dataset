@@ -1,0 +1,5 @@
+192c192,193
+<         machine.process( new RunMessage( "COMMIT", EMPTY_MAP ), recorder );
+---
+>         machine.process( 
+> new RunMessage( "COMMIT", EMPTY_MAP ), recorder );

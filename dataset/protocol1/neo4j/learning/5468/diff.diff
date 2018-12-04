@@ -1,0 +1,5 @@
+57,58c57
+<         this.msgLog = logProvider.getLog( getClass() );
+<         this.strategyFactory = strategyFactory;
+---
+>         this.msgLog = logProvider.getLog( getClass() );        this.strategyFactory = strategyFactory;

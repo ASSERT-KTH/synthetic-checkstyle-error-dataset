@@ -1,0 +1,5 @@
+399c399,400
+<         File tempStoreDirectory = temporaryDatabaseLayout.getStoreLayout().storeDirectory();
+---
+>         File tempStoreDirectory = temporaryDatabaseLayout.getStoreLayout
+> ().storeDirectory();

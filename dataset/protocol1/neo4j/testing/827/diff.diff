@@ -1,0 +1,5 @@
+55c55,56
+<             public ExecutionOrder orderComparedTo( KernelEventHandler other )
+---
+>             public ExecutionOrder orderComparedTo( KernelEventHandler other 
+> )

@@ -1,0 +1,4 @@
+147c147
+<         StoreMigrator migrator = new StoreMigrator( fileSystemRule.get(), pageCache, config, logService, jobScheduler );
+---
+>         StoreMigrator migrator = new StoreMigrator(fileSystemRule.get(), pageCache, config, logService, jobScheduler );

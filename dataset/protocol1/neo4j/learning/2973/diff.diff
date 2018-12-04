@@ -1,0 +1,5 @@
+75,76c75
+<             totalReportedBatches += diff;
+<             progress( diff );
+---
+>             totalReportedBatches += diff;            progress( diff );

@@ -1,0 +1,4 @@
+65c65
+<         assertThat( visitor().visit( typeMirrorTestUtils().typeOf( HashMap.class, String.class, Object.class ) ) )
+---
+>         assertThat( visitor().visit( typeMirrorTestUtils().typeOf( HashMap.class, String.class, Object.	class ) ) )

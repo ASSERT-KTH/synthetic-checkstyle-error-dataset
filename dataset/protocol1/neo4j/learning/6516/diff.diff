@@ -1,0 +1,4 @@
+73c73
+<         INSTANCE.validate( RandomStringUtils.randomAlphabetic( 10 ) );
+---
+>         INSTANCE.validate( RandomStringUtils.randomAlphabetic( 10 ) )	;

@@ -1,0 +1,5 @@
+196,197c196
+<         this.version = version;
+<         writeOut();
+---
+>         this.version = version;        writeOut();

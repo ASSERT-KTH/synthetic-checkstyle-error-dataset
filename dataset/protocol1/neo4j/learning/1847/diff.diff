@@ -1,0 +1,4 @@
+50c50
+<     protected boolean fetchNext()
+---
+>     protected boolean fetchNext ()

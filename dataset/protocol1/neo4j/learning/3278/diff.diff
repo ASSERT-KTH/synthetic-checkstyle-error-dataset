@@ -1,0 +1,4 @@
+64c64
+<         Supplier<KernelTransaction> ktxSupplier = () -> graphDb.getDependencyResolver()
+---
+>         Supplier<KernelTransaction> ktxSupplier = () -> graphDb	.getDependencyResolver()

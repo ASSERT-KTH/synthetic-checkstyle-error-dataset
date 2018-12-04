@@ -1,0 +1,4 @@
+93c93
+<     static PrimitiveLongResourceIterator augment( PrimitiveLongResourceIterator source, LongSet addedElements, LongSet removedElements )
+---
+>     static PrimitiveLongResourceIterator 	augment( PrimitiveLongResourceIterator source, LongSet addedElements, LongSet removedElements )

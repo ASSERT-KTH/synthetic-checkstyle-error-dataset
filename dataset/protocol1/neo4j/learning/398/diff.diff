@@ -1,0 +1,4 @@
+24c24
+< public interface ResponseMessageEncoder<T extends ResponseMessage>
+---
+> public interface ResponseMessageEncoder <T extends ResponseMessage>

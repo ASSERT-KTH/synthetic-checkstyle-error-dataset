@@ -1,0 +1,4 @@
+43c43
+<         String encodedValue = LuceneDocumentStructure.encodedStringValuesForSampling( update.values() );
+---
+>         String encodedValue =LuceneDocumentStructure.encodedStringValuesForSampling( update.values() );

@@ -1,0 +1,5 @@
+162,163c162
+<     public void shouldCompleteInitializationOfStoresWithIncompleteHeaders() throws Exception
+<     {
+---
+>     public void shouldCompleteInitializationOfStoresWithIncompleteHeaders() throws Exception    {

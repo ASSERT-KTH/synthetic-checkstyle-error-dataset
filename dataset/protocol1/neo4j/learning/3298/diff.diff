@@ -1,0 +1,5 @@
+134c134,135
+<             return output.ok( this.invokeGraphDatabaseExtension( name, method, input.readParameterList( data ) ) );
+---
+>             return output.ok( this.invokeGraphDatabaseExtension
+> ( name, method, input.readParameterList( data ) ) );

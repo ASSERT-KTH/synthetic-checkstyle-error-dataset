@@ -1,0 +1,4 @@
+76c76
+<                 validator.onWellFormedChain( labelIds( recordList ), engine, records );
+---
+>                 validator.onWellFormedChain( labelIds( recordList ), 	engine, records );

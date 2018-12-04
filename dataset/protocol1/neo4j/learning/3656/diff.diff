@@ -1,0 +1,5 @@
+379,380c379
+<             for ( DynamicRecord record : recordsAfter )
+<             {
+---
+>             for ( DynamicRecord record : recordsAfter )            {

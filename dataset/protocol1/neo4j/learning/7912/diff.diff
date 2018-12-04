@@ -1,0 +1,4 @@
+25c25
+< interface NativeIndexPopulatorPartSupplier<KEY extends NativeIndexKey<KEY>,VALUE extends NativeIndexValue>
+---
+> interface NativeIndexPopulatorPartSupplier<KEY extends NativeIndexKey<KEY>	,VALUE extends NativeIndexValue>

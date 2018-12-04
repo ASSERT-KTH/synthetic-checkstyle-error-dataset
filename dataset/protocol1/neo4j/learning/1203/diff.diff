@@ -1,0 +1,4 @@
+51c51
+<         return new ListWrappingWriter( list, interactive );
+---
+>         return new ListWrappingWriter( list	, interactive );

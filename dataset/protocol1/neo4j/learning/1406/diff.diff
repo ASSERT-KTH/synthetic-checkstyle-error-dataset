@@ -1,0 +1,5 @@
+66c66,67
+<         return other.equals( value );
+---
+>         return other.equals( value 
+> );

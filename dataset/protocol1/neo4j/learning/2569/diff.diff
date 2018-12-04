@@ -1,0 +1,4 @@
+39c39
+<     private int intermediarySize = DEFAULT_INTERMEDIARY_SIZE;
+---
+>     private int intermediarySize 	= DEFAULT_INTERMEDIARY_SIZE;

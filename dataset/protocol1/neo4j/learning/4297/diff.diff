@@ -1,0 +1,5 @@
+27,28c27
+< import static org.neo4j.kernel.configuration.Settings.optionsObeyCase;
+< import static org.neo4j.kernel.configuration.Settings.setting;
+---
+> import static org.neo4j.kernel.configuration.Settings.optionsObeyCase;import static org.neo4j.kernel.configuration.Settings.setting;

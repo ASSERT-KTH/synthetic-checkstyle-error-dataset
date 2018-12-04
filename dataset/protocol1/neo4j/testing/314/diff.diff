@@ -1,0 +1,5 @@
+133,134c133
+<     public void shouldIgnoreClassesWithNoProcedures() throws Throwable
+<     {
+---
+>     public void shouldIgnoreClassesWithNoProcedures() throws Throwable    {

@@ -1,0 +1,4 @@
+59c59
+<         assertEquals( iae.getMessage(), "Null value" );
+---
+>         assertEquals ( iae.getMessage(), "Null value" );

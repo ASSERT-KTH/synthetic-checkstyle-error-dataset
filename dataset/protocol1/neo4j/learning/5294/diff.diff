@@ -1,0 +1,4 @@
+50c50
+<     public static final UsageDataKey<RecentK<String>> clientNames = key( "neo4j.clientNames", () -> new RecentK<>( 10 ) );
+---
+>     public static final UsageDataKey<RecentK<String>> clientNames = key( "neo4j.clientNames", () -> new RecentK<>( 10 ) )	;

@@ -1,0 +1,4 @@
+53c53
+<     private static final String PATH_EXTENSION = "/{name}";
+---
+>     private static final String 	PATH_EXTENSION = "/{name}";

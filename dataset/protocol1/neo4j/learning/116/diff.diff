@@ -1,0 +1,4 @@
+49c49
+<         private static final SkippingReference INSTANCE = new SkippingReference();
+---
+>         	private static final SkippingReference INSTANCE = new SkippingReference();

@@ -1,0 +1,4 @@
+93c93
+<         assertThat( converted, equalTo( ntMap( map( "key", "value" ) ) ) );
+---
+>         assertThat( converted, equalTo( 	ntMap( map( "key", "value" ) ) ) );

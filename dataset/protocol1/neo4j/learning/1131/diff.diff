@@ -1,0 +1,4 @@
+85c85
+<                 is( FileVisitResult.CONTINUE));
+---
+>                 is( FileVisitResult.	CONTINUE));

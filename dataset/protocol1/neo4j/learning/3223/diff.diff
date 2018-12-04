@@ -1,0 +1,5 @@
+109c109,110
+<     public void writeLocalTime( LocalTime localTime )
+---
+>     public void writeLocalTime( LocalTime localTime 
+> )

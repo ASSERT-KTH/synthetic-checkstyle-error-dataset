@@ -1,0 +1,4 @@
+28c28
+<         super( UdcKernelExtensionFactory.KEY, UdcKernelExtensionFactory.class );
+---
+>         super( UdcKernelExtensionFactory.KEY, UdcKernelExtensionFactory.class )	;

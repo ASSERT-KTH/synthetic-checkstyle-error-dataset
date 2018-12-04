@@ -1,0 +1,5 @@
+237c237,238
+<         return getOrCreateWithOutcome( key, value ).entity();
+---
+>         return getOrCreateWithOutcome( key, 
+> value ).entity();

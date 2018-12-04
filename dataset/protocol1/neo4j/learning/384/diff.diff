@@ -1,0 +1,4 @@
+80c80
+<         assertEquals( 3, channel.inboundMessages().size() );
+---
+>         assertEquals( 3, channel.	inboundMessages().size() );

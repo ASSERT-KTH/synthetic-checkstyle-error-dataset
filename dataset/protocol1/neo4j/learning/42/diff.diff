@@ -1,0 +1,4 @@
+49c49
+<         assertNotEqual( stringValue( "" ), virtual );
+---
+>         	assertNotEqual( stringValue( "" ), virtual );

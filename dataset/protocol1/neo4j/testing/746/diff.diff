@@ -1,0 +1,4 @@
+38c38
+<     protected boolean isAwaitingLockAcquisition( WaitDetails details )
+---
+>     protected boolean isAwaitingLockAcquisition ( WaitDetails details )

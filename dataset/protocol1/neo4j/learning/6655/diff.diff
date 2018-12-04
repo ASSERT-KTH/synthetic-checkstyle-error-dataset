@@ -1,0 +1,4 @@
+35c35
+<             entity.setProperty( property.key, property.value );
+---
+>             entity.setProperty( property.key, property.value 	);

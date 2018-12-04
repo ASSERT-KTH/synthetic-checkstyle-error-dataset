@@ -1,0 +1,5 @@
+47c47,48
+<     public FakeHeapAllocation add( long threadId, long bytes )
+---
+>     public FakeHeapAllocation add( 
+> long threadId, long bytes )

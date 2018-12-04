@@ -1,0 +1,4 @@
+200c200
+<         ctx.init( null, new TrustManager[]{new InsecureTrustManager()}, null );
+---
+>         	ctx.init( null, new TrustManager[]{new InsecureTrustManager()}, null );

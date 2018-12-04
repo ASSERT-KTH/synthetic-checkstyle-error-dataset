@@ -1,0 +1,5 @@
+56c56,57
+<         RelationshipTypeTokenRecord label = inUse( new RelationshipTypeTokenRecord( 42 ) );
+---
+>         RelationshipTypeTokenRecord label = inUse( new RelationshipTypeTokenRecord( 42 
+> ) );

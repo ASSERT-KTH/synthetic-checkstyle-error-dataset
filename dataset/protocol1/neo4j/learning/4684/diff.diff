@@ -1,0 +1,4 @@
+977c977
+<     private <T> T resolveInternalDependency( Class<T> type )
+---
+>     private <T> T 	resolveInternalDependency( Class<T> type )

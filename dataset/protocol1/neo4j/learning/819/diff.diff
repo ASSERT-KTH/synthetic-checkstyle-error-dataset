@@ -1,0 +1,5 @@
+23c23,24
+< public interface PrimitiveIntVisitor<E extends Exception>
+---
+> public interface 
+> PrimitiveIntVisitor<E extends Exception>

@@ -1,0 +1,5 @@
+55c55,56
+<         Set<Long> resultSet = toSet( iterator );
+---
+>         Set<Long> resultSet = toSet( 
+> iterator );

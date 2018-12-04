@@ -1,0 +1,4 @@
+47c47
+<     void failed( Throwable e );
+---
+>     	void failed( Throwable e );

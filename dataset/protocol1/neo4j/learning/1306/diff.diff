@@ -1,0 +1,5 @@
+113,114c113
+<         when( freeMemorySupplier.getAsLong() ).thenReturn( gibiBytes( 10 ) );
+<         when( baseMemorySupplier.getAsLong() ).thenReturn( gibiBytes( 1 ) );
+---
+>         when( freeMemorySupplier.getAsLong() ).thenReturn( gibiBytes( 10 ) );        when( baseMemorySupplier.getAsLong() ).thenReturn( gibiBytes( 1 ) );

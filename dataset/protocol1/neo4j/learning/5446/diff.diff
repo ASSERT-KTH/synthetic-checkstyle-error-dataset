@@ -1,0 +1,4 @@
+37c37
+<             importer = new DatabaseImporter( parsedArgs, config, outsideWorld );
+---
+>             importer = new DatabaseImporter(parsedArgs, config, outsideWorld );

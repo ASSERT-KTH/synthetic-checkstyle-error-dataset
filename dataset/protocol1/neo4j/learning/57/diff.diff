@@ -1,0 +1,4 @@
+38c38
+<     public static final String NAME = "Node Degrees";
+---
+>     public static final String NAME 	= "Node Degrees";

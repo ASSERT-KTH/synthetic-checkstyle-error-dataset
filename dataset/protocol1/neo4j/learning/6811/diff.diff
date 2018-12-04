@@ -1,0 +1,5 @@
+191,192c191
+<         addIndex( "baz" );
+<         Config config = Config.defaults( cacheSizeConfig() );
+---
+>         addIndex( "baz" );        Config config = Config.defaults( cacheSizeConfig() );

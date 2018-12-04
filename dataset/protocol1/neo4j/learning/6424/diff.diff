@@ -1,0 +1,5 @@
+37,38c37
+<      * @param maxDepth the maximum depth that was calculated to recurse to,
+<      * @return if the algorithm should recurse deeper, returns {@code false}; if the algorithm
+---
+>      * @param maxDepth the maximum depth that was calculated to recurse to,     * @return if the algorithm should recurse deeper, returns {@code false}; if the algorithm

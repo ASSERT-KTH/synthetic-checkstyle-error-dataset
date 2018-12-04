@@ -1,0 +1,4 @@
+28c28
+< public class BatchFeedStep extends PullingProducerStep
+---
+> 	public class BatchFeedStep extends PullingProducerStep

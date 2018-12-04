@@ -1,0 +1,4 @@
+162c162
+<             chars = readCharArray( channel, buffer, chars );
+---
+>             chars = 	readCharArray( channel, buffer, chars );

@@ -1,0 +1,4 @@
+26c26
+<         return System.getProperty( "java.vm.name" );
+---
+>         return System.getProperty ( "java.vm.name" );

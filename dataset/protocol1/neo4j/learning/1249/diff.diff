@@ -1,0 +1,4 @@
+42c42
+<         this( new RandomAdversary( 0.5, 0.0, 0.0 ) );
+---
+>         this( 	new RandomAdversary( 0.5, 0.0, 0.0 ) );

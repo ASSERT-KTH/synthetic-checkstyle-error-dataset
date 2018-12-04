@@ -1,0 +1,5 @@
+172c172,173
+<                     super.renameFile( oldLocation, newLocation, copyOptions );
+---
+>                     super.renameFile( 
+> oldLocation, newLocation, copyOptions );

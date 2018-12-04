@@ -1,0 +1,4 @@
+35c35
+<     static HeaderField<byte[]>[] headerFields( String[] keys )
+---
+>     static HeaderField<byte[]>[] headerFields ( String[] keys )

@@ -1,0 +1,5 @@
+138c138,139
+<         when( tokens.propertyKeyGetAllTokens() ).thenAnswer( asTokens( propKeys ) );
+---
+>         when( tokens.propertyKeyGetAllTokens() ).thenAnswer( asTokens( propKeys 
+> ) );

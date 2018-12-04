@@ -1,0 +1,5 @@
+40c40,41
+<     private long totalCount;
+---
+>     private long 
+> totalCount;

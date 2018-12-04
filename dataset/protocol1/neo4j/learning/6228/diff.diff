@@ -1,0 +1,4 @@
+179c179
+<                       Statement statement = ((KernelTransaction)transaction).acquireStatement() )
+---
+>                       Statement statement = ((KernelTransaction )transaction).acquireStatement() )

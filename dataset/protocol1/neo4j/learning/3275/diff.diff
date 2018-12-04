@@ -1,0 +1,4 @@
+108c108
+<         final SchemaRead schemaRead = mock( SchemaRead.class );
+---
+>         final SchemaRead schemaRead= mock( SchemaRead.class );

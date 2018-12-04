@@ -1,0 +1,5 @@
+99c99,100
+<             public boolean equals( Object that )
+---
+>             public boolean equals( Object 
+> that )

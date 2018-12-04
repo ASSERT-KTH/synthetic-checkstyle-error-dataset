@@ -1,0 +1,5 @@
+99,100c99
+<     private static TestStatementLocksFactorySelector newLoader( Locks locks, StatementLocksFactory... factories )
+<     {
+---
+>     private static TestStatementLocksFactorySelector newLoader( Locks locks, StatementLocksFactory... factories )    {

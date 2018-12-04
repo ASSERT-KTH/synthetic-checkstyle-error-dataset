@@ -1,0 +1,4 @@
+40c40
+<         try ( IndexProcedures ignored = new IndexProcedures( kernelTransaction, null ) )
+---
+>         try ( IndexProcedures ignored = new IndexProcedures( kernelTransaction, 	null ) )

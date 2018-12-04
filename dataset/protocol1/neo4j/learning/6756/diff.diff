@@ -1,0 +1,4 @@
+290c290
+<             assertEquals( 0L, hopBits );
+---
+>             	assertEquals( 0L, hopBits );

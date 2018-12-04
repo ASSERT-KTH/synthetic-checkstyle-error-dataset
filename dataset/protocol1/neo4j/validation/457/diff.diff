@@ -1,0 +1,5 @@
+375c375,376
+<         machine.process( new RunMessage( "MATCH (n:Victim) DELETE n", EMPTY_PARAMS ), recorder );
+---
+>         machine.process
+> ( new RunMessage( "MATCH (n:Victim) DELETE n", EMPTY_PARAMS ), recorder );

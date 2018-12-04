@@ -1,0 +1,4 @@
+71c71
+<         Log log1 = logProvider.getLog( "log 1" );
+---
+>         Log 	log1 = logProvider.getLog( "log 1" );

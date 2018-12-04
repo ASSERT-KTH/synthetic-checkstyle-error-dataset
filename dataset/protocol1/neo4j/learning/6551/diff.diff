@@ -1,0 +1,4 @@
+39c39
+<         this( statement, VirtualValues.EMPTY_MAP );
+---
+>         	this( statement, VirtualValues.EMPTY_MAP );

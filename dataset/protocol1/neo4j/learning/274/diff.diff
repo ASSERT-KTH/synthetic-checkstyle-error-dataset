@@ -1,0 +1,4 @@
+157c157
+<             if ( relationshipCursor.next() && schema.isAffected( new long[]{relationshipCursor.type()} ) )
+---
+>             if ( relationshipCursor.next() &&schema.isAffected( new long[]{relationshipCursor.type()} ) )

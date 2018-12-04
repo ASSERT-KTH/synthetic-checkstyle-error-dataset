@@ -1,0 +1,5 @@
+466,467c466
+<             assertValidValue( value );
+<             RelationshipData entity = new RelationshipData( entityId, startNode, endNode );
+---
+>             assertValidValue( value );            RelationshipData entity = new RelationshipData( entityId, startNode, endNode );

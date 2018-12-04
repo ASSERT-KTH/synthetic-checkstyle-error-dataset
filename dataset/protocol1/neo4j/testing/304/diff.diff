@@ -1,0 +1,5 @@
+30,31c30
+< import org.neo4j.storageengine.api.schema.IndexProgressor.NodeValueClient;
+< import org.neo4j.values.storable.Value;
+---
+> import org.neo4j.storageengine.api.schema.IndexProgressor.NodeValueClient;import org.neo4j.values.storable.Value;

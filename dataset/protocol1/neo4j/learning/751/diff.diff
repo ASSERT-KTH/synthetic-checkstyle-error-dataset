@@ -1,0 +1,5 @@
+316,317c316
+<                 if ( i == 0 || ++key == keySize || i == buffer.length - 1 )
+<                 {
+---
+>                 if ( i == 0 || ++key == keySize || i == buffer.length - 1 )                {

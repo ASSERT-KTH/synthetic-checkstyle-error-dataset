@@ -1,0 +1,5 @@
+126c126,127
+<         String asValueString = hasCoordinates( state ) ? asValue( state ).toString() : "NO_COORDINATES";
+---
+>         String asValueString = hasCoordinates( state ) ? 
+> asValue( state ).toString() : "NO_COORDINATES";

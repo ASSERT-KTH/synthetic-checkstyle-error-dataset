@@ -1,0 +1,4 @@
+68c68
+<         change.getOrLoad( 3, null ).forReadingData();
+---
+>         change.getOrLoad( 3, null ).forReadingData()	;

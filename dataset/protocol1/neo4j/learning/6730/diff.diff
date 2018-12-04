@@ -1,0 +1,4 @@
+41c41
+<     protected IndexManager obtainEntityInTransaction( GraphDatabaseService graphDatabaseService )
+---
+>     protected IndexManager obtainEntityInTransaction( GraphDatabaseService graphDatabaseService 	)

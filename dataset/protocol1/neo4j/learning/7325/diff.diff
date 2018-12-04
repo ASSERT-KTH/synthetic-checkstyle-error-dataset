@@ -1,0 +1,5 @@
+55c55,56
+<         RotationTimerFactory.RotationTimer fakeTimer = fakeTimerFactory.createTimer();
+---
+>         RotationTimerFactory.RotationTimer fakeTimer = fakeTimerFactory.createTimer
+> ();

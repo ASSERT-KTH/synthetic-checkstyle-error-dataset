@@ -1,0 +1,4 @@
+68c68
+< import static org.objectweb.asm.Opcodes.IFGE;
+---
+> import static org.objectweb.asm	.Opcodes.IFGE;

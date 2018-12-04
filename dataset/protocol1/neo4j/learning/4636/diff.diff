@@ -1,0 +1,4 @@
+55c55
+<     IndexHits<Relationship> get( String key, Object valueOrNull, Node startNodeOrNull,
+---
+>     IndexHits<Relationship> get( String key, 	Object valueOrNull, Node startNodeOrNull,

@@ -1,0 +1,4 @@
+58c58
+<         for ( ; original.hasNext() && matched.hasNext(); )
+---
+>         for ( ; original.hasNext()&& matched.hasNext(); )

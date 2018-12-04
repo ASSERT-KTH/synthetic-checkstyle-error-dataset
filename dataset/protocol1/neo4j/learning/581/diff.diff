@@ -1,0 +1,4 @@
+75c75
+< import static org.hamcrest.Matchers.is;
+---
+> import static org.hamcrest.	Matchers.is;

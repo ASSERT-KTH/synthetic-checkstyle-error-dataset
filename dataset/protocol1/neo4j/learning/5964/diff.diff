@@ -1,0 +1,5 @@
+170c170,171
+<         new Loader().load( archive, newDirectory, newTxLogsDirectory );
+---
+>         
+> new Loader().load( archive, newDirectory, newTxLogsDirectory );

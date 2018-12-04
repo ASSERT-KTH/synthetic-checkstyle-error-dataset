@@ -1,0 +1,4 @@
+24c24
+< public class AckFailureMessage implements RequestMessage
+---
+> public class AckFailureMessage 	implements RequestMessage

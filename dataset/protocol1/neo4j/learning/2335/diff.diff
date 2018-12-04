@@ -1,0 +1,5 @@
+25c25,26
+<     CollectionsFactorySupplier ON_HEAP = () -> OnHeapCollectionsFactory.INSTANCE;
+---
+>     CollectionsFactorySupplier ON_HEAP = 
+> () -> OnHeapCollectionsFactory.INSTANCE;

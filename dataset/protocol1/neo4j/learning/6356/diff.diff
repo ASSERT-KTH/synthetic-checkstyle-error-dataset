@@ -1,0 +1,5 @@
+114,115c114
+<         ByteBuffer buffer = ByteBuffer.wrap(bytes).order( ByteOrder.LITTLE_ENDIAN );
+<         buffer.putLong( 123456789L );
+---
+>         ByteBuffer buffer = ByteBuffer.wrap(bytes).order( ByteOrder.LITTLE_ENDIAN );        buffer.putLong( 123456789L );

@@ -1,0 +1,4 @@
+107c107
+<                 this.swapperMappings = swapperMappings; // Volatile store synchronizes-with loads in getters.
+---
+>                 this.swapperMappings 	= swapperMappings; // Volatile store synchronizes-with loads in getters.

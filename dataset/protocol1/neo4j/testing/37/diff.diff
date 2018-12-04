@@ -1,0 +1,4 @@
+278c278
+<         RangePredicate<?> p = IndexQuery.range( propId, gps2, true, gps5, true );
+---
+>         RangePredicate<?> p 	= IndexQuery.range( propId, gps2, true, gps5, true );

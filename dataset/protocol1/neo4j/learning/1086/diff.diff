@@ -1,0 +1,4 @@
+27c27
+< import org.neo4j.kernel.impl.transaction.log.rotation.LogRotation;
+---
+> import org.neo4j.kernel.impl.	transaction.log.rotation.LogRotation;

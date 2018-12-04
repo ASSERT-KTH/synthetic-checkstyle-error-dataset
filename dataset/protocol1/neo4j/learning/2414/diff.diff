@@ -1,0 +1,5 @@
+36c36,37
+<         assertEquals( Collections.emptyList(), list( RawIterator.of() ) );
+---
+>         assertEquals( Collections.emptyList(), list( 
+> RawIterator.of() ) );

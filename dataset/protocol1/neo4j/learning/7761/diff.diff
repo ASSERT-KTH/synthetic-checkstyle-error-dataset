@@ -1,0 +1,5 @@
+49c49,50
+<             if ( latestLogEntryVersion != null && LogEntryVersion.moreRecentVersionExists( latestLogEntryVersion ) )
+---
+>             if ( latestLogEntryVersion != null && LogEntryVersion.moreRecentVersionExists( 
+> latestLogEntryVersion ) )

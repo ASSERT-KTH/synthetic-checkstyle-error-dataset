@@ -1,0 +1,4 @@
+124c124
+<                         if ( progressor.next() )
+---
+>                         if ( progressor	.next() )

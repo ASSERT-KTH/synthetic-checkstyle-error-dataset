@@ -1,0 +1,5 @@
+31c31,32
+<     String newConnectionId( String connector );
+---
+>     String newConnectionId( 
+> String connector );

@@ -1,0 +1,5 @@
+28c28,29
+<     public WriteOperationsNotAllowedException( String msg, Status statusCode )
+---
+>     public WriteOperationsNotAllowedException( 
+> String msg, Status statusCode )

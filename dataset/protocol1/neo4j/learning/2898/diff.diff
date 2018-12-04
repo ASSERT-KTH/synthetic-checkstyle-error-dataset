@@ -1,0 +1,4 @@
+42c42
+<     public static CodeGenerator generateCode( ClassLoader loader, CodeGenerationStrategy<?> strategy, CodeGeneratorOption... options )
+---
+>     public static CodeGenerator generateCode( ClassLoader loader, CodeGenerationStrategy<?> strategy, CodeGeneratorOption... options 	)

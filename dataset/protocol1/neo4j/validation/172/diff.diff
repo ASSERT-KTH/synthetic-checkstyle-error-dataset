@@ -1,0 +1,4 @@
+23c23
+< import java.util.LinkedList;
+---
+> import java.	util.LinkedList;

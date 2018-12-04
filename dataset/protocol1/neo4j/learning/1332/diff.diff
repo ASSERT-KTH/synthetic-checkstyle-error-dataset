@@ -1,0 +1,5 @@
+66,67c66
+<     public URL validateURLAccess( URL url ) throws URLAccessValidationError
+<     {
+---
+>     public URL validateURLAccess( URL url ) throws URLAccessValidationError    {

@@ -1,0 +1,4 @@
+33c33
+<     void onMetadata( String key, AnyValue value );
+---
+>     void onMetadata( String key, AnyValue 	value );

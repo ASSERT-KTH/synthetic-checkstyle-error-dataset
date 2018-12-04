@@ -1,0 +1,5 @@
+24,25c24
+< import org.neo4j.kernel.impl.spi.KernelContext;
+< import org.neo4j.kernel.impl.transaction.state.DataSourceManager;
+---
+> import org.neo4j.kernel.impl.spi.KernelContext;import org.neo4j.kernel.impl.transaction.state.DataSourceManager;

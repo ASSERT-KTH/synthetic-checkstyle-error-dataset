@@ -1,0 +1,4 @@
+539c539
+<             node.setLabelField( inlinedLabelsLongRepresentation( labels ), Collections.emptyList() );
+---
+>             node.setLabelField( inlinedLabelsLongRepresentation( labels ), Collections.emptyList() )	;

@@ -1,0 +1,4 @@
+30c30
+<     boolean visit( LogPosition position, long firstTransactionIdInLog, long lastTransactionIdInLog );
+---
+>     boolean visit( LogPosition position, long firstTransactionIdInLog, long lastTransactionIdInLog 	);

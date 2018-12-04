@@ -1,0 +1,4 @@
+32c32
+<     MediaType MEDIA_TYPE = new MediaType( APPLICATION_JSON_TYPE.getType(),
+---
+>     MediaType MEDIA_TYPE = new MediaType( APPLICATION_JSON_TYPE.getType()	,

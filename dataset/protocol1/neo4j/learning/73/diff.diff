@@ -1,0 +1,4 @@
+42c42
+<     public boolean matchesSafely( IndexHits<T> indexHits )
+---
+>     public boolean matchesSafely( IndexHits< T> indexHits )

@@ -1,0 +1,5 @@
+22,23c22
+< import org.neo4j.kernel.api.labelscan.LabelScanStore;
+< import org.neo4j.kernel.api.labelscan.LabelScanWriter;
+---
+> import org.neo4j.kernel.api.labelscan.LabelScanStore;import org.neo4j.kernel.api.labelscan.LabelScanWriter;

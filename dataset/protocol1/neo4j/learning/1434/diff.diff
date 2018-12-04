@@ -1,0 +1,4 @@
+36c36
+<     void properties( PropertyCursor cursor );
+---
+>     void properties(PropertyCursor cursor );

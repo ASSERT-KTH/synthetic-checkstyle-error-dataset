@@ -1,0 +1,5 @@
+71,72c71
+<     public void serverShouldSupportSsl() throws Exception
+<     {
+---
+>     public void serverShouldSupportSsl() throws Exception    {

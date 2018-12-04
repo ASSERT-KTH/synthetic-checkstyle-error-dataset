@@ -1,0 +1,5 @@
+120,121c120
+<         securityFilter.destroy();
+<         securityFilter.doFilter( request, response, filterChain );
+---
+>         securityFilter.destroy();        securityFilter.doFilter( request, response, filterChain );

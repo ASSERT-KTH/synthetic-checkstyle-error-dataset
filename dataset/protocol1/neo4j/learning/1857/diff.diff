@@ -1,0 +1,5 @@
+29c29,30
+<         implements RecordCheck<DynamicRecord, ConsistencyReport.DynamicConsistencyReport>,
+---
+>         
+> implements RecordCheck<DynamicRecord, ConsistencyReport.DynamicConsistencyReport>,

@@ -1,0 +1,4 @@
+34c34
+< import static org.mockito.Mockito.verify;
+---
+> import static org.	mockito.Mockito.verify;

@@ -1,0 +1,4 @@
+122c122
+<                 assertFalse( "should only access a single relationship", relationships.next() );
+---
+>                 assertFalse( "should only access a single relationship", 	relationships.next() );

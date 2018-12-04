@@ -1,0 +1,5 @@
+65c65,66
+<         for ( ClassByteCodeWriter writer : classes.values() )
+---
+>         for 
+> ( ClassByteCodeWriter writer : classes.values() )

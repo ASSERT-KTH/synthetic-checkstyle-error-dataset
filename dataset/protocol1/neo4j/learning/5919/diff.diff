@@ -1,0 +1,5 @@
+35c35,36
+<         int codepoint = "$".codePointAt( 0 );
+---
+>         int 
+> codepoint = "$".codePointAt( 0 );

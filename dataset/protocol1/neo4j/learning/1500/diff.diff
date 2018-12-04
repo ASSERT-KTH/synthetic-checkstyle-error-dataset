@@ -1,0 +1,5 @@
+282c282,283
+<             for ( int i = 0; i < relTypes.length; i++ )
+---
+>             for ( int i 
+> = 0; i < relTypes.length; i++ )

@@ -1,0 +1,4 @@
+43c43
+<             Index<Node> index = indexManager.forNodes( indexName );
+---
+>             Index<Node> 	index = indexManager.forNodes( indexName );

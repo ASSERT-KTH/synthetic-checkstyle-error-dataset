@@ -1,0 +1,5 @@
+124c124,125
+<             setValueAt( idx, value );
+---
+>             
+> setValueAt( idx, value );

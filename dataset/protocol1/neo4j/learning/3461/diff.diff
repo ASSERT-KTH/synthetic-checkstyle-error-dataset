@@ -1,0 +1,5 @@
+90,91c90
+<         assertEquals( 2, map.size() );
+<         assertEquals( "General-Test", map.get( AdminCommandSection.general() ) );
+---
+>         assertEquals( 2, map.size() );        assertEquals( "General-Test", map.get( AdminCommandSection.general() ) );

@@ -1,0 +1,4 @@
+22c22
+< public class NoSuchTransactionException extends MissingLogDataException
+---
+> public class 	NoSuchTransactionException extends MissingLogDataException

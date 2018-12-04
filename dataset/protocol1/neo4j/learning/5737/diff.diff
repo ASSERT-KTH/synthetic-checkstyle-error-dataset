@@ -1,0 +1,4 @@
+44c44
+<         if ( progressor != null )
+---
+>         if ( progressor != 	null )

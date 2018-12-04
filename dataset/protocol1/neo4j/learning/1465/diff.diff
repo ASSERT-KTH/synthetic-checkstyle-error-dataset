@@ -1,0 +1,4 @@
+110c110
+<     protected void addTypeSpecificDetails( StringJoiner joiner, GenericKey state )
+---
+>     protected void addTypeSpecificDetails( 	StringJoiner joiner, GenericKey state )

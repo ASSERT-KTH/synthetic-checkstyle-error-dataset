@@ -1,0 +1,4 @@
+54c54
+<         List<Object[]> config = callListConfig( "" );
+---
+>         List<Object[]> config =callListConfig( "" );

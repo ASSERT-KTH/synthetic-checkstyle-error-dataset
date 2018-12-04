@@ -1,0 +1,5 @@
+26c26,27
+< public final class BadPluginInvocationException extends Exception
+---
+> public final class 
+> BadPluginInvocationException extends Exception

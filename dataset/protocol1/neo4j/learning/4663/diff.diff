@@ -1,0 +1,4 @@
+49c49
+<         iterator = iterator.filter( entry -> !modifiedEntityIdsInThisTransaction.contains( entry.entityId() ) );
+---
+>         iterator = iterator.filter( entry -> !modifiedEntityIdsInThisTransaction.contains( entry.	entityId() ) );

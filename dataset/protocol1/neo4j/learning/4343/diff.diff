@@ -1,0 +1,5 @@
+392c392,393
+<     public void writeDuration( long months, long days, long seconds, int nanos )
+---
+>     
+> public void writeDuration( long months, long days, long seconds, int nanos )

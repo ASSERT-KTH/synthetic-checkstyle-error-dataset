@@ -1,0 +1,4 @@
+23c23
+<         extends ReadableClosablePositionAwareChannel, VersionableLog
+---
+>         extends ReadableClosablePositionAwareChannel	, VersionableLog

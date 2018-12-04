@@ -1,0 +1,5 @@
+43,44c43
+<         int pageSize = (int) ByteUnit.kibiBytes( 8 );
+<         long pageCacheSize = ByteUnit.gibiBytes( 513 ) + pageSize;
+---
+>         int pageSize = (int) ByteUnit.kibiBytes( 8 );        long pageCacheSize = ByteUnit.gibiBytes( 513 ) + pageSize;

@@ -1,0 +1,5 @@
+90c90,91
+<         key.initFromValue( 0, value, NativeIndexKey.Inclusion.LOW );
+---
+>         key.initFromValue( 0, 
+> value, NativeIndexKey.Inclusion.LOW );

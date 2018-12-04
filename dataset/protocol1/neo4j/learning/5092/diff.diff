@@ -1,0 +1,4 @@
+53c53
+<             return dispatchCompositeDataArray( (CompositeData[]) property, param );
+---
+>             return dispatchCompositeDataArray( (CompositeData	[]) property, param );

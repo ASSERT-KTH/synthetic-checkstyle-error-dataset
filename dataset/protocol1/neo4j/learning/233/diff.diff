@@ -1,0 +1,5 @@
+142,143c142
+<         int cursor = 0;
+<         int l = 0;
+---
+>         int cursor = 0;        int l = 0;

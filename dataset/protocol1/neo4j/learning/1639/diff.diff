@@ -1,0 +1,4 @@
+38c38
+<     public static UnsatisfiedDependencyStrategy ignore()
+---
+>     public static 	UnsatisfiedDependencyStrategy ignore()

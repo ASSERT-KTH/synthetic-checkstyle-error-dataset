@@ -1,0 +1,4 @@
+30c30
+<     public DefaultRelationshipTypeCreator( Supplier<Kernel> kernelSupplier )
+---
+>     public DefaultRelationshipTypeCreator( Supplier<Kernel> 	kernelSupplier )

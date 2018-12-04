@@ -1,0 +1,5 @@
+164c164,165
+<     private Long derivedValueFor( long[] normalizedValues, int level )
+---
+>     private Long derivedValueFor( long[] 
+> normalizedValues, int level )

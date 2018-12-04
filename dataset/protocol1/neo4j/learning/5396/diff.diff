@@ -1,0 +1,4 @@
+143c143
+<             return v1.compareTo( v2, this );
+---
+>             return v1.compareTo( v2, this 	);

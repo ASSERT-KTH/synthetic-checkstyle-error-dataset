@@ -1,0 +1,5 @@
+26,27c26
+< import org.neo4j.kernel.impl.store.record.PropertyRecord;
+< import org.neo4j.kernel.impl.store.record.RelationshipGroupRecord;
+---
+> import org.neo4j.kernel.impl.store.record.PropertyRecord;import org.neo4j.kernel.impl.store.record.RelationshipGroupRecord;

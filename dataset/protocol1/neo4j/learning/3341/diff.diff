@@ -1,0 +1,5 @@
+877c877,878
+<         return new Action( reprNode( node ) + ".setProperty( property, " + reprValue( value ) + " );" )
+---
+>         return new Action( reprNode( node ) + ".setProperty( property, " + reprValue
+> ( value ) + " );" )

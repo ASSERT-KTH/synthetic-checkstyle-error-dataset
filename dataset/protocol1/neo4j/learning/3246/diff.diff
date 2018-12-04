@@ -1,0 +1,5 @@
+42c42,43
+<     RelationshipGroupCursor allocateRelationshipGroupCursor();
+---
+>     
+> RelationshipGroupCursor allocateRelationshipGroupCursor();

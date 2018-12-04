@@ -1,0 +1,4 @@
+161c161
+<         return new GBPTreeBuilder<>( pageCache, storage.directory().file( "index" ), layout ).build();
+---
+>         return new GBPTreeBuilder<>( pageCache, storage.directory().	file( "index" ), layout ).build();

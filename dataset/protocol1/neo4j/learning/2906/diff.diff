@@ -1,0 +1,5 @@
+27c27,28
+< import org.neo4j.consistency.report.ConsistencyReport.DynamicLabelConsistencyReport;
+---
+> import 
+> org.neo4j.consistency.report.ConsistencyReport.DynamicLabelConsistencyReport;

@@ -1,0 +1,4 @@
+34c34
+<     Object[] getList( GraphDatabaseAPI graphDb, ParameterList parameters, String name ) throws BadInputException
+---
+>     Object[] getList ( GraphDatabaseAPI graphDb, ParameterList parameters, String name ) throws BadInputException

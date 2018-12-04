@@ -1,0 +1,4 @@
+92c92
+<         if ( !logTailInformation.commitsAfterLastCheckpoint() )
+---
+>         if ( !logTailInformation	.commitsAfterLastCheckpoint() )

@@ -1,0 +1,4 @@
+48c48
+<         NodeStore nodeStore = mock( NodeStore.class );
+---
+>         NodeStore nodeStore = mock( NodeStore.class )	;

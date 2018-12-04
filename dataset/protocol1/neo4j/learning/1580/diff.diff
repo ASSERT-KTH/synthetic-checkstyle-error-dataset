@@ -1,0 +1,4 @@
+358c358
+<         localTimeArray( SIZE_LOCAL_TIME, 504, i -> random.randomValues().nextLocalTimeArrayRaw( i, i ) ),
+---
+>         localTimeArray( SIZE_LOCAL_TIME, 504, 	i -> random.randomValues().nextLocalTimeArrayRaw( i, i ) ),

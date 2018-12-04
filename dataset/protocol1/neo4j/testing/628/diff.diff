@@ -1,0 +1,5 @@
+24c24,25
+<     private ByteCodeChecker bytecodeChecker;
+---
+>     private ByteCodeChecker 
+> bytecodeChecker;

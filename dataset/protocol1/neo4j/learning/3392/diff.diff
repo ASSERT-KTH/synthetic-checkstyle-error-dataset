@@ -1,0 +1,5 @@
+1040c1040,1041
+<                 assertEquals( "prop2", propertyKeyTokenHolder.getTokenById( keyId ).name() );
+---
+>                 assertEquals( "prop2", propertyKeyTokenHolder.getTokenById( keyId 
+> ).name() );

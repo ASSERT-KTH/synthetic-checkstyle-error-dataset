@@ -1,0 +1,4 @@
+41c41
+< import org.neo4j.kernel.impl.store.record.TokenRecord;
+---
+> import org	.neo4j.kernel.impl.store.record.TokenRecord;

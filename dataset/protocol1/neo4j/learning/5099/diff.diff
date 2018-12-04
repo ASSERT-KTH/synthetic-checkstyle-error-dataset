@@ -1,0 +1,4 @@
+25c25
+< import static org.neo4j.helpers.collection.Iterables.asArray;
+---
+> 	import static org.neo4j.helpers.collection.Iterables.asArray;

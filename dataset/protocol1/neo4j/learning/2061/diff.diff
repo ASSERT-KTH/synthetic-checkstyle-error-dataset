@@ -1,0 +1,5 @@
+101,102c101
+<                     builder.append( "<h2>" + caption + "</h2>\n" );
+<                     append( builder, map.get( "data" ), ObjectType.PROPERTIES );
+---
+>                     builder.append( "<h2>" + caption + "</h2>\n" );                    append( builder, map.get( "data" ), ObjectType.PROPERTIES );

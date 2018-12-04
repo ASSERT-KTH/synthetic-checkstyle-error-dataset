@@ -1,0 +1,4 @@
+162c162
+<                                                 BigEndianByteArrayBuffer.toString( value.buffer ) );
+---
+>                                                 BigEndianByteArrayBuffer.toString( value	.buffer ) );

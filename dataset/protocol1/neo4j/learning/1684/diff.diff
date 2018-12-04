@@ -1,0 +1,4 @@
+48c48
+<         at( index ).set( index, value );
+---
+>         at ( index ).set( index, value );

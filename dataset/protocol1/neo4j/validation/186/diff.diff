@@ -1,0 +1,4 @@
+111c111
+<                 indexes.add( db.schema().indexFor( label( i ) ).on( KEY ).create() );
+---
+>                 indexes.add( db.schema().indexFor( label( i ) ).on( KEY ).	create() );

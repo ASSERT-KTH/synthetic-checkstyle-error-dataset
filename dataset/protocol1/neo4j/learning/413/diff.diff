@@ -1,0 +1,5 @@
+257,258c257
+<         public void processSpecific( RelationTypeSchemaDescriptor schema )
+<         {
+---
+>         public void processSpecific( RelationTypeSchemaDescriptor schema )        {

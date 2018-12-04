@@ -1,0 +1,4 @@
+159c159
+<         Result result = database.execute( "profile MATCH (n) RETURN n.c" );
+---
+>         Result result = database.execute( 	"profile MATCH (n) RETURN n.c" );

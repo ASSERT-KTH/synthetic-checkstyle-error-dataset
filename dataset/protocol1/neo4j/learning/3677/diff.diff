@@ -1,0 +1,4 @@
+504c504
+<                 Predicate<? super R>... filters ) throws FAILURE
+---
+>                 Predicate<? super 	R>... filters ) throws FAILURE

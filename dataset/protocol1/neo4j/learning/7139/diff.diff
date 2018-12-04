@@ -1,0 +1,4 @@
+34c34
+<     public long initialise( long seed )
+---
+>     public 	long initialise( long seed )

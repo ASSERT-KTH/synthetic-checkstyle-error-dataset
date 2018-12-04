@@ -1,0 +1,4 @@
+134c134
+<     private Magic( String description, Charset encoding, byte[] bytes )
+---
+>     private Magic( String description, Charset encoding, byte[] 	bytes )

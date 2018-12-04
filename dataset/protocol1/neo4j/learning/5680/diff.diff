@@ -1,0 +1,5 @@
+156c156,157
+<         IndexDescriptor index = TestIndexDescriptorFactory.forLabel( 123, 456 );
+---
+>         IndexDescriptor index = TestIndexDescriptorFactory.forLabel
+> ( 123, 456 );

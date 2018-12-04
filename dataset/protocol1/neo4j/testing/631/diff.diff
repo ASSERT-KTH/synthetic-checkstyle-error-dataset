@@ -1,0 +1,5 @@
+42c42,43
+<     public LogVersionedStoreChannel next( LogVersionedStoreChannel channel ) throws IOException
+---
+>     public LogVersionedStoreChannel next( LogVersionedStoreChannel 
+> channel ) throws IOException

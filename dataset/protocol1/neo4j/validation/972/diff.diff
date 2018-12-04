@@ -1,0 +1,4 @@
+43c43
+<         private final NetworkConnectionIdGenerator idGenerator = new NetworkConnectionIdGenerator();
+---
+>         private final NetworkConnectionIdGenerator idGenerator = new NetworkConnectionIdGenerator ();

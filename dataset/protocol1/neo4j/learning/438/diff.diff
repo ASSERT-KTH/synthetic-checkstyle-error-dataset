@@ -1,0 +1,4 @@
+94c94
+<     private static ActionFactory<Sets, String> actionFactory( final Random random )
+---
+>     private 	static ActionFactory<Sets, String> actionFactory( final Random random )

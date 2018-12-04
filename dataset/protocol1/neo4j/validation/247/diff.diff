@@ -1,0 +1,4 @@
+65c65
+<     double nextDouble();
+---
+>     double 	nextDouble();

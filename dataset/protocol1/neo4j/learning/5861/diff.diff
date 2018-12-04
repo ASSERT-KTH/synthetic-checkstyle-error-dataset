@@ -1,0 +1,4 @@
+152c152
+<             flags = Arrays.copyOf( flags, newSize );
+---
+>             flags = Arrays.copyOf( 	flags, newSize );

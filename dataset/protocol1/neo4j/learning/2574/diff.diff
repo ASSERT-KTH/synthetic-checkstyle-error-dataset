@@ -1,0 +1,4 @@
+40c40
+<         public SideSelector create( BranchSelector start, BranchSelector end, int maxDepth )
+---
+>         public SideSelector create( BranchSelector start, BranchSelector end, int 	maxDepth )

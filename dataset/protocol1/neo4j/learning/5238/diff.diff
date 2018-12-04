@@ -1,0 +1,5 @@
+218,219c218
+<                 Header header = null;
+<                 Data data = dataFactory.create( config );
+---
+>                 Header header = null;                Data data = dataFactory.create( config );

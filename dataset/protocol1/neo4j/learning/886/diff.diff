@@ -1,0 +1,4 @@
+95c95
+<         GraphDatabaseService db = graphDatabaseService( config );
+---
+>         GraphDatabaseService db = graphDatabaseService( config )	;

@@ -1,0 +1,5 @@
+27c27,28
+< public enum ConstraintDefinitionFacadeMethods implements Consumer<ConstraintDefinition>
+---
+> public enum ConstraintDefinitionFacadeMethods 
+> implements Consumer<ConstraintDefinition>

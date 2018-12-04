@@ -1,0 +1,4 @@
+22c22
+< import static org.neo4j.values.storable.ValueCategory.NO_CATEGORY;
+---
+> import static org.neo4j.values.storable.ValueCategory	.NO_CATEGORY;

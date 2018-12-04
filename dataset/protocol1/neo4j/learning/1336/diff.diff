@@ -1,0 +1,4 @@
+74c74
+<         return new TransactionHandle( kernel, engine, queryService, registry, uriScheme, implicitTransaction,
+---
+>         return new TransactionHandle( kernel, engine, queryService, registry	, uriScheme, implicitTransaction,

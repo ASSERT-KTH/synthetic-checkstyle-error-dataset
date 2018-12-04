@@ -1,0 +1,4 @@
+36c36
+<     long applyTo( LabelScanWriter writer ) throws IOException;
+---
+>     long applyTo ( LabelScanWriter writer ) throws IOException;

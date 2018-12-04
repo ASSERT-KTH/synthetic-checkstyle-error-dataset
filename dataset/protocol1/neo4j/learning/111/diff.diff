@@ -1,0 +1,4 @@
+58c58
+<         verify( cursor, times( 1 ) ).close();
+---
+>         	verify( cursor, times( 1 ) ).close();

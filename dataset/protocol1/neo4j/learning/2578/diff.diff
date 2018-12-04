@@ -1,0 +1,4 @@
+37c37
+< import org.neo4j.kernel.impl.store.id.DefaultIdGeneratorFactory;
+---
+> import org	.neo4j.kernel.impl.store.id.DefaultIdGeneratorFactory;

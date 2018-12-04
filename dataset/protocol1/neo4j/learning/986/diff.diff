@@ -1,0 +1,5 @@
+275,276c275
+<         try ( Transaction tx = db.beginTx() )
+<         {
+---
+>         try ( Transaction tx = db.beginTx() )        {

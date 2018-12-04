@@ -1,0 +1,5 @@
+62,63c62
+<             return new VanillaUTF8Encoder();
+<         }
+---
+>             return new VanillaUTF8Encoder();        }

@@ -1,0 +1,4 @@
+110c110
+<     public String getHost( String defaultHost )
+---
+>     public String getHost ( String defaultHost )

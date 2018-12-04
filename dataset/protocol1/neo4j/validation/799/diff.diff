@@ -1,0 +1,5 @@
+134,135c134
+<     public void shouldGetContentLengthHeaderWhenRetrievingNode()
+<     {
+---
+>     public void shouldGetContentLengthHeaderWhenRetrievingNode()    {

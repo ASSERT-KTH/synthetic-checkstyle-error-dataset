@@ -1,0 +1,4 @@
+60c60
+<         luceneSchemaIndex = new ReadOnlyDatabaseSchemaIndex( indexStorage, TestIndexDescriptorFactory.forLabel( 0, 0 ), samplingConfig,
+---
+>         luceneSchemaIndex = new ReadOnlyDatabaseSchemaIndex( 	indexStorage, TestIndexDescriptorFactory.forLabel( 0, 0 ), samplingConfig,

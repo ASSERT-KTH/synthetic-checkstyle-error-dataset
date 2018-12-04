@@ -1,0 +1,4 @@
+42c42
+<         this.endOfLine = endOfLine;
+---
+>         this.endOfLine 	= endOfLine;

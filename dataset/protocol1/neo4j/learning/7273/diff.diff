@@ -1,0 +1,4 @@
+30c30
+<     private final int[] transport = new int[1];
+---
+>     private final int	[] transport = new int[1];

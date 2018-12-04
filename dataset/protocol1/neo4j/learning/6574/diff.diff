@@ -1,0 +1,5 @@
+30c30,31
+<     MemoryBlock allocate( long size, MemoryAllocationTracker tracker );
+---
+>     MemoryBlock allocate
+> ( long size, MemoryAllocationTracker tracker );

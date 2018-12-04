@@ -1,0 +1,4 @@
+282c282
+<         boolean res = ((s & UNL_MASK) == 0) && compareAndSetState( address, s, s + EXL_MASK );
+---
+>         boolean res = ((s &UNL_MASK) == 0) && compareAndSetState( address, s, s + EXL_MASK );

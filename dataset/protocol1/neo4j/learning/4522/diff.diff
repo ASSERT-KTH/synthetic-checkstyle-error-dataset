@@ -1,0 +1,5 @@
+75c75,76
+<         if ( !cursor.next( (length - 1) / entriesPerPage ) )
+---
+>         if ( !cursor.next( (length - 
+> 1) / entriesPerPage ) )

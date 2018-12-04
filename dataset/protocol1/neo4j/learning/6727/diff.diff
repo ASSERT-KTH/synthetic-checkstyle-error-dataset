@@ -1,0 +1,4 @@
+41c41
+<     SideSelector create( BranchSelector start, BranchSelector end, int maxDepth );
+---
+>     SideSelector create( BranchSelector start, BranchSelector end	, int maxDepth );

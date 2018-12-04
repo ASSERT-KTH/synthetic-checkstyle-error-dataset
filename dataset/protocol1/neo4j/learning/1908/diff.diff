@@ -1,0 +1,4 @@
+67c67
+<         catch ( NotInTransactionException e )
+---
+>         catch ( NotInTransactionException 	e )

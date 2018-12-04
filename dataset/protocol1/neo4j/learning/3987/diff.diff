@@ -1,0 +1,5 @@
+122,123c122
+<     static long readPointer( PageCursor cursor )
+<     {
+---
+>     static long readPointer( PageCursor cursor )    {

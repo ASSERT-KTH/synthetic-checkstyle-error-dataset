@@ -1,0 +1,4 @@
+47c47
+<         this.localTime = new FileLayout<>( new File( indexDirectory, "localTime" ), new LocalTimeLayout(), ValueGroup.LOCAL_TIME );
+---
+>         this.localTime = new FileLayout<>( new File( indexDirectory, "localTime" ), new LocalTimeLayout(	), ValueGroup.LOCAL_TIME );

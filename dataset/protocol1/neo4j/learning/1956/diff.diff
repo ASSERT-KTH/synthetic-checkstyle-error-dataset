@@ -1,0 +1,5 @@
+621c621,622
+<         TemporalHeader header = new TemporalHeader( TemporalType.TEMPORAL_LOCAL_DATE_TIME.temporalType );
+---
+>         TemporalHeader header = new TemporalHeader( TemporalType.TEMPORAL_LOCAL_DATE_TIME.temporalType 
+> );

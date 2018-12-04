@@ -1,0 +1,4 @@
+194c194
+<             Option<String> value = Iterables.firstOrNull( entry.getValue() );
+---
+>             Option<String> value =Iterables.firstOrNull( entry.getValue() );

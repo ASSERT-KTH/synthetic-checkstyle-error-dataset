@@ -1,0 +1,5 @@
+57c57,58
+<         return (int) ((id * recordSize) % pageSize);
+---
+>         
+> return (int) ((id * recordSize) % pageSize);

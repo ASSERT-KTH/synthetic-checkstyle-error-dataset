@@ -1,0 +1,4 @@
+74c74
+<         return new LongKeyObjectValueTable<>( newCapacity );
+---
+>         return new LongKeyObjectValueTable<>(newCapacity );

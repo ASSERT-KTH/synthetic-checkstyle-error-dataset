@@ -1,0 +1,4 @@
+47c47
+<     public boolean checkFull( Path path )
+---
+>     	public boolean checkFull( Path path )

@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.tooling.procedure.procedures.invalid.bad_record_field_type;
+---
+> package org.neo4j.tooling.procedure.procedures.invalid.bad_record_field_type	;

@@ -1,0 +1,5 @@
+29,30c29
+<     public DynamicLocksFactory( String key, String... altKeys )
+<     {
+---
+>     public DynamicLocksFactory( String key, String... altKeys )    {

@@ -1,0 +1,5 @@
+64,65c64
+<                                 toValueString( oldValue ) );
+<                         collisions++;
+---
+>                                 toValueString( oldValue ) );                        collisions++;

@@ -1,0 +1,4 @@
+44c44
+<         String name = nameSupplier.get().trim();
+---
+>         String name = nameSupplier	.get().trim();

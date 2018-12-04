@@ -1,0 +1,4 @@
+57c57
+<         Config config = mock( Config.class );
+---
+>         Config config= mock( Config.class );

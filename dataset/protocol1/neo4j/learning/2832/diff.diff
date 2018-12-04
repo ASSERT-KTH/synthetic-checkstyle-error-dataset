@@ -1,0 +1,4 @@
+41c41
+<         table[actualIndex + 2] = value[0];
+---
+>         table[actualIndex+ 2] = value[0];

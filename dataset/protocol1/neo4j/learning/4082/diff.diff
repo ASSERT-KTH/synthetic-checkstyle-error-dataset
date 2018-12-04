@@ -1,0 +1,4 @@
+167c167
+<         bbox.expandToInclude( right );
+---
+>         bbox.expandToInclude ( right );

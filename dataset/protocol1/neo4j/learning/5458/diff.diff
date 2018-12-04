@@ -1,0 +1,5 @@
+45c45,46
+<     void acquireSharedRelationshipLock( long... ids );
+---
+>     void 
+> acquireSharedRelationshipLock( long... ids );

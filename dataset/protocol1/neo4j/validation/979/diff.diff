@@ -1,0 +1,4 @@
+100c100
+<     public static <T, V> Supplier<T> adapted( final Supplier<V> supplier, final Function<V,T> adaptor )
+---
+>     public static 	<T, V> Supplier<T> adapted( final Supplier<V> supplier, final Function<V,T> adaptor )

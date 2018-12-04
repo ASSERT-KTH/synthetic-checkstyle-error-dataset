@@ -1,0 +1,5 @@
+52,53c52
+<         boolean inUse = isInUse( headerByte );
+<         record.setInUse( inUse );
+---
+>         boolean inUse = isInUse( headerByte );        record.setInUse( inUse );

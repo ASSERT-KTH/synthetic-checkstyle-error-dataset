@@ -1,0 +1,4 @@
+60c60
+<     default <R> ResourceIterator<R> map( Function<T,R> map )
+---
+>     default <R> ResourceIterator< R> map( Function<T,R> map )

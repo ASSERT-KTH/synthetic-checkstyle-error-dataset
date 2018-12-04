@@ -1,0 +1,4 @@
+31c31
+<     public boolean matches( String uri )
+---
+>     public boolean matches(String uri )

@@ -1,0 +1,5 @@
+32c32,33
+<     public NodeIndexRepresentation( String name, Map<String, String> type )
+---
+>     public NodeIndexRepresentation( String name, Map<String, String> 
+> type )

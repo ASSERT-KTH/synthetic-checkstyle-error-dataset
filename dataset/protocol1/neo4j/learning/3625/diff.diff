@@ -1,0 +1,4 @@
+33c33
+<     private final LogicalTransactionStore logicalTransactionStore;
+---
+>     private final 	LogicalTransactionStore logicalTransactionStore;

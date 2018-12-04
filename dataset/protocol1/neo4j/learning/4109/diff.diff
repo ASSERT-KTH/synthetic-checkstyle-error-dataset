@@ -1,0 +1,4 @@
+31c31
+<     boolean hasLabel( int label );
+---
+>     boolean hasLabel(int label );

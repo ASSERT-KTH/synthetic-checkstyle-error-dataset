@@ -1,0 +1,4 @@
+72c72
+<         assertThat( hostnamePort.getPort(), equalTo( 1243 ) );
+---
+>         assertThat( hostnamePort.getPort(), equalTo ( 1243 ) );

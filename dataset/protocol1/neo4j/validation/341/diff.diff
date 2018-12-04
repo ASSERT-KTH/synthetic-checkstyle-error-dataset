@@ -1,0 +1,5 @@
+535c535,536
+<     public Response getAllRelationshipProperties( long relationshipId )
+---
+>     public Response getAllRelationshipProperties( long 
+> relationshipId )

@@ -1,0 +1,4 @@
+55c55
+<         return new FulltextIndexBuilder( descriptor, config, propertyKeyTokenHolder );
+---
+>         return new FulltextIndexBuilder( descriptor	, config, propertyKeyTokenHolder );

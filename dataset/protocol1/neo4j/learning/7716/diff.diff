@@ -1,0 +1,5 @@
+68c68,69
+<         return new GivenTransactionCursor( transactions );
+---
+>         return new GivenTransactionCursor
+> ( transactions );

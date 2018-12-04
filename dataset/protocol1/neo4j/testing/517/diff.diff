@@ -1,0 +1,4 @@
+48c48
+<         final LogEntryStart start = new LogEntryStart( version, 1, 2, 3, 4, new byte[]{5}, new LogPosition( 0, 31 ) );
+---
+>         final LogEntryStart start = new LogEntryStart( 	version, 1, 2, 3, 4, new byte[]{5}, new LogPosition( 0, 31 ) );

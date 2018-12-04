@@ -1,0 +1,4 @@
+63c63
+<     public BatchOperationService( @Context WebServer webServer, @Context OutputFormat output, @Context UsageData usage )
+---
+>     public BatchOperationService( @Context WebServer webServer, @Context OutputFormat output, @Context UsageData usage 	)

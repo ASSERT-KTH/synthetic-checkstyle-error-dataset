@@ -1,0 +1,4 @@
+46c46
+<                          LongerShortString.invertedBitMask( LongerShortString.NUMERICAL, LongerShortString.DATE ) );
+---
+>                          LongerShortString.invertedBitMask( LongerShortString.NUMERICAL, LongerShortString.DATE ) 	);

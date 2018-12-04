@@ -1,0 +1,4 @@
+74c74
+<     private static boolean isTransactionExpired( KernelTransactionHandle activeTransaction, long nowMillis, long transactionTimeoutMillis )
+---
+>     private static boolean 	isTransactionExpired( KernelTransactionHandle activeTransaction, long nowMillis, long transactionTimeoutMillis )

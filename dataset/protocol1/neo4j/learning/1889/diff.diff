@@ -1,0 +1,4 @@
+85c85
+<             long currentPageId = cursor.getCurrentPageId();
+---
+>             long currentPageId = cursor.getCurrentPageId ();

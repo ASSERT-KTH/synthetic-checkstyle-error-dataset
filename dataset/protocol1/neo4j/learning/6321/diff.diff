@@ -1,0 +1,4 @@
+62c62
+<         JsonNode data = JsonHelper.jsonNode( response.entity() );
+---
+>         JsonNode data =JsonHelper.jsonNode( response.entity() );

@@ -1,0 +1,4 @@
+116c116
+<                 actualHits.add( deepCopy( scan.get() ) );
+---
+>                 actualHits.add( deepCopy( scan.get(	) ) );

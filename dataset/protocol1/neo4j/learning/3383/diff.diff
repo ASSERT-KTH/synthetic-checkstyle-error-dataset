@@ -1,0 +1,5 @@
+135c135,136
+<         long hob = hash( labelId + hash( propertyKeyId ) );
+---
+>         long hob = hash
+> ( labelId + hash( propertyKeyId ) );

@@ -1,0 +1,4 @@
+51c51
+<         PhysicalFlushableChannel channel = new PhysicalFlushableChannel( fs.open( directory.file( "file" ), OpenMode.READ_WRITE ) );
+---
+>         PhysicalFlushableChannel channel = new PhysicalFlushableChannel( fs.open( 	directory.file( "file" ), OpenMode.READ_WRITE ) );

@@ -1,0 +1,4 @@
+619c619
+<         Collection<Object> result = new ArrayList<>();
+---
+>         Collection<Object> result = 	new ArrayList<>();

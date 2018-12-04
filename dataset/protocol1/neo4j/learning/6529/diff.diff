@@ -1,0 +1,4 @@
+54c54
+<     protected BaseRecordFormat( Function<StoreHeader,Integer> recordSize, int recordHeaderSize, int idBits )
+---
+>     protected BaseRecordFormat( Function<StoreHeader,Integer> recordSize, int recordHeaderSize, int 	idBits )

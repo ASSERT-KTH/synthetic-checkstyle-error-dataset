@@ -1,0 +1,4 @@
+59c59
+<         String result = stateStore.get( "key" );
+---
+>         String result= stateStore.get( "key" );

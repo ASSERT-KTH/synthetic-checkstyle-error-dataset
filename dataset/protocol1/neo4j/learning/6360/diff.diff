@@ -1,0 +1,5 @@
+167c167,168
+<         assertEquals( 9, iterator.nextId() );
+---
+>         assertEquals( 9, iterator.nextId
+> () );

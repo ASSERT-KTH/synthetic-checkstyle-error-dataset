@@ -1,0 +1,5 @@
+80c80,81
+<         assertEquals( rpath.get( 1 ), graph.getRelationship( "b2", "c2" ) );
+---
+>         assertEquals
+> ( rpath.get( 1 ), graph.getRelationship( "b2", "c2" ) );

@@ -1,0 +1,5 @@
+130,131c130
+<         public ExplicitIndexHits query( String key, Object queryOrQueryObject )
+<         {
+---
+>         public ExplicitIndexHits query( String key, Object queryOrQueryObject )        {

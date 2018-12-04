@@ -1,0 +1,4 @@
+62c62
+<         if ( other instanceof VirtualValue && ((VirtualValue) other).valueGroup() == valueGroup() )
+---
+>         if ( other instanceof VirtualValue &&((VirtualValue) other).valueGroup() == valueGroup() )

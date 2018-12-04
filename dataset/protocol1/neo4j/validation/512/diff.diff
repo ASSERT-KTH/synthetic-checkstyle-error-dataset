@@ -1,0 +1,4 @@
+33c33
+<     public BoltConnectionAuthFatality( String message, Throwable cause )
+---
+>     public BoltConnectionAuthFatality( String message, Throwable cause 	)

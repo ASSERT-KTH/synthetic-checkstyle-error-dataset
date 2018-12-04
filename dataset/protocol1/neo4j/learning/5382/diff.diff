@@ -1,0 +1,4 @@
+253c253
+<                 key.writeFloatingPoint( Float.intBitsToFloat( c.getInt() ) );
+---
+>                 key.writeFloatingPoint( Float.intBitsToFloat( c	.getInt() ) );

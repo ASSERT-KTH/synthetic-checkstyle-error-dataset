@@ -1,0 +1,4 @@
+70c70
+<         assertEquals( 0, tracer.numberOfCheckPointEvents() );
+---
+>         assertEquals( 0, 	tracer.numberOfCheckPointEvents() );

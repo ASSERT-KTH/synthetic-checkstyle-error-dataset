@@ -1,0 +1,4 @@
+29c29
+<     NeoStoreCheck( RecordField<NeoStoreRecord,NeoStoreConsistencyReport>...fields )
+---
+>     NeoStoreCheck(RecordField<NeoStoreRecord,NeoStoreConsistencyReport>...fields )

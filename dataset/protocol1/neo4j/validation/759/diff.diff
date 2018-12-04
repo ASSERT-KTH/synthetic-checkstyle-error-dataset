@@ -1,0 +1,4 @@
+101c101
+<             notifySingleListener( listener, notification );
+---
+>             notifySingleListener ( listener, notification );

@@ -1,0 +1,5 @@
+112c112,113
+<                 result.append( diagnostic.getKind().name() )
+---
+>                 result.append( diagnostic.getKind().name() 
+> )

@@ -1,0 +1,4 @@
+300c300
+<             assert set[i] < set[i + 1] : "Array is not a sorted set: has " + set[i] + " before " + set[i + 1];
+---
+>             assert set[i] < set[i 	+ 1] : "Array is not a sorted set: has " + set[i] + " before " + set[i + 1];

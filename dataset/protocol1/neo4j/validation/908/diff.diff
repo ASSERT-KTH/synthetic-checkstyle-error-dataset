@@ -1,0 +1,4 @@
+111c111
+<                     if ( traversal.targetNodeReference() == nodeCursor.nodeReference() )
+---
+>                     if ( traversal.targetNodeReference() == nodeCursor.nodeReference(	) )

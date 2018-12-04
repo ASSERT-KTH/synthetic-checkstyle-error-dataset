@@ -1,0 +1,4 @@
+300c300
+<         return Values.doubleValue( Double.longBitsToDouble( getBlocks()[block + 1] ) );
+---
+>         return Values.doubleValue( 	Double.longBitsToDouble( getBlocks()[block + 1] ) );

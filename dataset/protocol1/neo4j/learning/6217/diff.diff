@@ -1,0 +1,5 @@
+80c80,81
+<         assertThat( "", crs.getCalculator().distance( cart( 0.0, 0.0, 0.0 ), cart( 0.0, 1.0, 0.0 ) ), equalTo( 1.0 ) );
+---
+>         assertThat( "", crs.getCalculator().distance( cart( 0.0, 0.0, 
+> 0.0 ), cart( 0.0, 1.0, 0.0 ) ), equalTo( 1.0 ) );

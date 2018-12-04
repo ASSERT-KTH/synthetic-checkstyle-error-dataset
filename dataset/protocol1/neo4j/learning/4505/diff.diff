@@ -1,0 +1,4 @@
+197c197
+<                         collector.state = in_error;
+---
+>                         collector.state = 	in_error;

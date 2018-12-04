@@ -1,0 +1,5 @@
+30,31c30
+<  * Creating a snapshot creates a list and one additional book keeping object per open transaction.
+<  * No thread doing normal transaction work should create snapshots, only threads that monitor transactions.
+---
+>  * Creating a snapshot creates a list and one additional book keeping object per open transaction. * No thread doing normal transaction work should create snapshots, only threads that monitor transactions.

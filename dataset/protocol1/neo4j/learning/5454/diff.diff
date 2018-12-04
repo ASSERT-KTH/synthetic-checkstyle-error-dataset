@@ -1,0 +1,4 @@
+762c762
+<             Function<? super Value, ? extends NV> valueFunction )
+---
+>             Function<? super Value, 	? extends NV> valueFunction )

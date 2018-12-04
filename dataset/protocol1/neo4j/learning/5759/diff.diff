@@ -1,0 +1,5 @@
+80c80,81
+<                 long threshold = Math.round( config.updateRatio() * size );
+---
+>                 
+> long threshold = Math.round( config.updateRatio() * size );

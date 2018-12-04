@@ -1,0 +1,4 @@
+34c34
+< import static java.lang.String.format;
+---
+> 	import static java.lang.String.format;

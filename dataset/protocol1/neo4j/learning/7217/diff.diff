@@ -1,0 +1,5 @@
+42,43c42
+<      * Specifies if the {@link UniquenessFilter} must handle start branches eagerly. Depending on the
+<      * level of uniqueness it is not always necessary to eagerly exhaust start
+---
+>      * Specifies if the {@link UniquenessFilter} must handle start branches eagerly. Depending on the     * level of uniqueness it is not always necessary to eagerly exhaust start

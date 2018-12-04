@@ -1,0 +1,4 @@
+37c37
+< import org.neo4j.kernel.configuration.ConnectorPortRegister;
+---
+> import org.neo4j.kernel.configuration.ConnectorPortRegister	;

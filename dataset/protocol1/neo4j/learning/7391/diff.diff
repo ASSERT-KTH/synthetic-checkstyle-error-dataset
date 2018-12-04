@@ -1,0 +1,4 @@
+325c325
+<             MappingWriter propertiesWriter = crsWriter.newMapping( Representation.MAP, "properties" );
+---
+>             MappingWriter propertiesWriter = crsWriter.newMapping ( Representation.MAP, "properties" );

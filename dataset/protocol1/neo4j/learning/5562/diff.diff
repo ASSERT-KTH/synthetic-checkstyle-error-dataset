@@ -1,0 +1,5 @@
+54,55c54
+<         expectedException.expect( ArithmeticException.class );
+<         expectedException.expectMessage( "Value 32768 is too big to be represented as short" );
+---
+>         expectedException.expect( ArithmeticException.class );        expectedException.expectMessage( "Value 32768 is too big to be represented as short" );

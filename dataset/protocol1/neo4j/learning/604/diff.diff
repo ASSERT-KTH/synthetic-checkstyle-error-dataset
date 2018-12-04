@@ -1,0 +1,5 @@
+46,47c46
+< import org.neo4j.kernel.impl.core.DefaultRelationshipTypeCreator;
+< import org.neo4j.kernel.impl.core.DelegatingTokenHolder;
+---
+> import org.neo4j.kernel.impl.core.DefaultRelationshipTypeCreator;import org.neo4j.kernel.impl.core.DelegatingTokenHolder;

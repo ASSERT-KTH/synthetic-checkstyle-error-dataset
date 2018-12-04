@@ -1,0 +1,4 @@
+48c48
+<         result.append( "\n\tNumber of errors: " ).append( errorCount );
+---
+>         result.append( "\n\tNumber of errors: " ).	append( errorCount );

@@ -1,0 +1,4 @@
+176c176
+<         List<PluginPoint> result = new ArrayList<>();
+---
+>         	List<PluginPoint> result = new ArrayList<>();

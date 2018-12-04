@@ -1,0 +1,4 @@
+72c72
+<         valueBlocks[0] |= key;
+---
+>         valueBlocks	[0] |= key;

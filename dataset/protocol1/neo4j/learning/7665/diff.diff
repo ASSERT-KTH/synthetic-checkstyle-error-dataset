@@ -1,0 +1,4 @@
+34c34
+<     FullStoreChangeStream EMPTY = writer -> 0;
+---
+>     FullStoreChangeStream EMPTY = writer -> 	0;

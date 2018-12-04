@@ -1,0 +1,4 @@
+70c70
+<     private static final int PAGE_SIZE = 256;
+---
+>     private static final int 	PAGE_SIZE = 256;

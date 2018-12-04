@@ -1,0 +1,4 @@
+76c76
+<                 applier.visitIndexDefineCommand( definitions );
+---
+>                 applier	.visitIndexDefineCommand( definitions );

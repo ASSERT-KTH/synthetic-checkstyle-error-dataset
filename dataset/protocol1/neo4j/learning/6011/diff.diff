@@ -1,0 +1,5 @@
+66c66,67
+<                 compiler.getStandardFileManager( diagnostics, configuration.locale(), configuration.charset() ) );
+---
+>                 compiler.getStandardFileManager( diagnostics, configuration.locale
+> (), configuration.charset() ) );

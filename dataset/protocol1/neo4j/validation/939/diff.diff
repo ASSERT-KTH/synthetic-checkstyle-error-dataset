@@ -1,0 +1,4 @@
+41c41
+<     public CompilationRule compilation = new CompilationRule();
+---
+>     public CompilationRule compilation 	= new CompilationRule();

@@ -1,0 +1,4 @@
+25c25
+< public interface NodeIndexCursor extends Cursor
+---
+> public interface NodeIndexCursor 	extends Cursor

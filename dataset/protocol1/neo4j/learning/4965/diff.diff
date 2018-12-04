@@ -1,0 +1,4 @@
+287c287
+<             verify( indexStatisticsKey( indexId ), updates, size );
+---
+>             verify( indexStatisticsKey( 	indexId ), updates, size );

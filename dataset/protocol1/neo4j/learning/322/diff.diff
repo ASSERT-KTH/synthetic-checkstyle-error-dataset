@@ -1,0 +1,5 @@
+688,689c688
+<         }
+<         else if ( !saneRead() )
+---
+>         }        else if ( !saneRead() )

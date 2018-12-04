@@ -1,0 +1,5 @@
+40c40,41
+<         QueryEngineProvider provider2 = mock( QueryEngineProvider.class );
+---
+>         QueryEngineProvider 
+> provider2 = mock( QueryEngineProvider.class );

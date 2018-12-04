@@ -1,0 +1,4 @@
+39c39
+<         Envelope range = new Envelope( -180, 180, -90, 90 );
+---
+>         Envelope range= new Envelope( -180, 180, -90, 90 );

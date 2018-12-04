@@ -1,0 +1,4 @@
+165c165
+<         SslPolicy sslPolicy = sslPolicyLoader.getPolicy( null );
+---
+>         SslPolicy sslPolicy =sslPolicyLoader.getPolicy( null );

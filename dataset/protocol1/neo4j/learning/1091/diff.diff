@@ -1,0 +1,4 @@
+91c91
+<             assertValidUsername( user.name() );
+---
+>             assertValidUsername ( user.name() );

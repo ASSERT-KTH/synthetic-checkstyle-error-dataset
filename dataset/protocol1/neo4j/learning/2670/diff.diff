@@ -1,0 +1,5 @@
+72c72,73
+<         throw new IllegalArgumentException( "No lock manager found with the name '" + key + "'." );
+---
+>         throw new IllegalArgumentException( "No lock manager found with the name '" + 
+> key + "'." );

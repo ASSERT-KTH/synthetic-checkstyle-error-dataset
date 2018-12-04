@@ -1,0 +1,4 @@
+106c106
+<     private static class PercentageSupplier implements Supplier<Float>
+---
+>     private static class PercentageSupplier 	implements Supplier<Float>

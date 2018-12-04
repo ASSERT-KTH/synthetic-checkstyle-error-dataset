@@ -1,0 +1,5 @@
+125,126c125
+<         assertCompare( new byte[]{1, 2, 3}, LESS_THAN, new byte[]{1, 2, 4} );
+<         assertCompare( new byte[]{1, 2, 3}, LESS_THAN, new byte[]{2, 2, 3} );
+---
+>         assertCompare( new byte[]{1, 2, 3}, LESS_THAN, new byte[]{1, 2, 4} );        assertCompare( new byte[]{1, 2, 3}, LESS_THAN, new byte[]{2, 2, 3} );

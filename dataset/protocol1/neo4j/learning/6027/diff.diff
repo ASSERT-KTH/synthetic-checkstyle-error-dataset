@@ -1,0 +1,5 @@
+33,34c33
+<     public void remove()
+<     {
+---
+>     public void remove()    {

@@ -1,0 +1,5 @@
+30c30,31
+<     IndexIdentifier( IndexEntityType entityType, String indexName )
+---
+>     IndexIdentifier
+> ( IndexEntityType entityType, String indexName )

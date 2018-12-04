@@ -1,0 +1,5 @@
+108c108,109
+<     private StoreChannel chan( boolean channelShouldBeClosed ) throws IOException
+---
+>     private StoreChannel chan( boolean channelShouldBeClosed ) 
+> throws IOException

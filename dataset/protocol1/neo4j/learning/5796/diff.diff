@@ -1,0 +1,4 @@
+81c81
+<         if ( !indexes.hasNext() )
+---
+>         if ( !indexes.hasNext(	) )

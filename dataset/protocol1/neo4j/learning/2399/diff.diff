@@ -1,0 +1,4 @@
+200c200
+<             return item != null ? item.cursor() : EMPTY_CURSOR;
+---
+>             return item != null 	? item.cursor() : EMPTY_CURSOR;

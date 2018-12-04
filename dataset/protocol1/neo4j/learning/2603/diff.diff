@@ -1,0 +1,5 @@
+56c56,57
+<         socket.setSoTimeout( 30000 * 1000 ); // TOOD
+---
+>         socket.setSoTimeout( 30000 
+> * 1000 ); // TOOD

@@ -1,0 +1,5 @@
+27c27,28
+< abstract class HeapNumberArray<N extends NumberArray<N>> extends BaseNumberArray<N>
+---
+> abstract 
+> class HeapNumberArray<N extends NumberArray<N>> extends BaseNumberArray<N>

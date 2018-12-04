@@ -1,0 +1,5 @@
+167,168c167
+<             for ( NumberValue b : floats )
+<             {
+---
+>             for ( NumberValue b : floats )            {

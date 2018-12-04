@@ -1,0 +1,5 @@
+129c129,130
+<         this.timestamp = System.currentTimeMillis();
+---
+>         
+> this.timestamp = System.currentTimeMillis();

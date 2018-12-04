@@ -1,0 +1,4 @@
+40c40
+<     private volatile String username;
+---
+>     private volatile 	String username;

@@ -1,0 +1,4 @@
+26c26
+< public final class LowerCaseKeywordAnalyzer extends Analyzer
+---
+> public 	final class LowerCaseKeywordAnalyzer extends Analyzer

@@ -1,0 +1,5 @@
+101,102c101
+<         if ( !InlineNodeLabels.tryInlineInNodeRecord( node, labelIds, changedDynamicRecords ) )
+<         {
+---
+>         if ( !InlineNodeLabels.tryInlineInNodeRecord( node, labelIds, changedDynamicRecords ) )        {

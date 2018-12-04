@@ -1,0 +1,4 @@
+41c41
+<     private final Map<Node,Collection<TraversalBranch>[]> paths = new HashMap<>( 1000 );
+---
+>     private final Map<Node,	Collection<TraversalBranch>[]> paths = new HashMap<>( 1000 );

@@ -1,0 +1,4 @@
+286c286
+<                     return target.equals( path.endNode() ) ? evaluationIfMatch : evaluationIfNoMatch;
+---
+>                     return target.equals( path.endNode() ) ? evaluationIfMatch 	: evaluationIfNoMatch;

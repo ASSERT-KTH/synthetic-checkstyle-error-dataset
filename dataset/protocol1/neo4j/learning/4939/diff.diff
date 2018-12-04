@@ -1,0 +1,4 @@
+34c34
+<     public MultipleUnderlyingStorageExceptions( Set<Pair<SchemaDescriptor, UnderlyingStorageException>> exceptions )
+---
+>     public 	MultipleUnderlyingStorageExceptions( Set<Pair<SchemaDescriptor, UnderlyingStorageException>> exceptions )

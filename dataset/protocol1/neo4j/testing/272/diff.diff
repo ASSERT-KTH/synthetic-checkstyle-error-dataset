@@ -1,0 +1,5 @@
+35,36c35
+< import static java.lang.Integer.max;
+< import static java.lang.Integer.min;
+---
+> import static java.lang.Integer.max;import static java.lang.Integer.min;

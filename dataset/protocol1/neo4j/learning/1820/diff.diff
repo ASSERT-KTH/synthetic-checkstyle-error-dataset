@@ -1,0 +1,4 @@
+74c74
+<             return relationship != null && relationship.getId() == idToCompare;
+---
+>             return relationship != null && 	relationship.getId() == idToCompare;

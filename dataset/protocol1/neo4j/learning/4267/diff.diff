@@ -1,0 +1,5 @@
+25,26c25
+< import org.neo4j.kernel.impl.api.index.sampling.IndexSamplingConfig;
+< import org.neo4j.kernel.impl.api.index.sampling.IndexSamplingController;
+---
+> import org.neo4j.kernel.impl.api.index.sampling.IndexSamplingConfig;import org.neo4j.kernel.impl.api.index.sampling.IndexSamplingController;

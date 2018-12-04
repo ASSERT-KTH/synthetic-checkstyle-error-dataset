@@ -1,0 +1,4 @@
+32c32
+<         super( createTestClientSupplier(), address -> URI.create( "wss://" + address.getHost() + ":" + address.getPort() ) );
+---
+>         super( createTestClientSupplier (), address -> URI.create( "wss://" + address.getHost() + ":" + address.getPort() ) );

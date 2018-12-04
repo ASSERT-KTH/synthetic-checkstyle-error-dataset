@@ -1,0 +1,5 @@
+96c96,97
+<         Class<?> type = dependency.getClass();
+---
+>         Class<?> type = 
+> dependency.getClass();

@@ -1,0 +1,4 @@
+181c181
+<         if ( node.isDense() )
+---
+>         if 	( node.isDense() )

@@ -1,0 +1,4 @@
+312c312
+<     boolean nodeExists( long id );
+---
+>     	boolean nodeExists( long id );

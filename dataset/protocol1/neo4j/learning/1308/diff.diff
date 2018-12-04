@@ -1,0 +1,4 @@
+38c38
+<         state.index.remove( state.node, key, value );
+---
+>         state.index.remove( state.node, key	, value );

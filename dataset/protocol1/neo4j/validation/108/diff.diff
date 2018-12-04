@@ -1,0 +1,5 @@
+64c64,65
+<         Node node = graphdb.getGraphDatabaseAPI().createNode();
+---
+>         Node node = graphdb.getGraphDatabaseAPI().createNode
+> ();

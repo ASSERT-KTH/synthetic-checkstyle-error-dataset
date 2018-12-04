@@ -1,0 +1,5 @@
+32,33c32
+< import org.neo4j.kernel.api.impl.schema.LuceneIndexProviderFactory;
+< import org.neo4j.kernel.extension.KernelExtensionFactory;
+---
+> import org.neo4j.kernel.api.impl.schema.LuceneIndexProviderFactory;import org.neo4j.kernel.extension.KernelExtensionFactory;

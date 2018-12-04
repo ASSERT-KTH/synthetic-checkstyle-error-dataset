@@ -1,0 +1,5 @@
+31c31,32
+<     public static final String ROOT_PATH = "/greeting";
+---
+>     public 
+> static final String ROOT_PATH = "/greeting";

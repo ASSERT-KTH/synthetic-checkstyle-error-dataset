@@ -1,0 +1,4 @@
+335c335
+<     private static <T, C extends Collection<T>> void addUnique( C collection, T item )
+---
+>     private static <T	, C extends Collection<T>> void addUnique( C collection, T item )

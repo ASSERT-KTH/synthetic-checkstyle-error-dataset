@@ -1,0 +1,4 @@
+140c140
+<                 List<Object> tb = (List<Object>) serialized.get( "stackTrace" );
+---
+>                 List< Object> tb = (List<Object>) serialized.get( "stackTrace" );

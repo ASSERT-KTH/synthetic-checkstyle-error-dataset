@@ -1,0 +1,4 @@
+64c64
+<             Node node = db.getNodeById( nodeId );
+---
+>             Node node = db.getNodeById( nodeId 	);

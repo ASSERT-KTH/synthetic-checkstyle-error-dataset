@@ -1,0 +1,4 @@
+59c59
+<         buffer1.compact( buffer2, buffer1.pivot() + 2 /*simulate reading 2 chars*/ );
+---
+>         buffer1.compact( buffer2, buffer1.pivot() +2 /*simulate reading 2 chars*/ );

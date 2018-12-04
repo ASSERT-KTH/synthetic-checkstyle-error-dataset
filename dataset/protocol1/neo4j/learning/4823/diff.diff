@@ -1,0 +1,4 @@
+26c26
+< package org.neo4j.unsafe.impl.batchimport.staging;
+---
+> package 	org.neo4j.unsafe.impl.batchimport.staging;

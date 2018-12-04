@@ -1,0 +1,5 @@
+89c89,90
+<     public void shouldReturnPoint2DWithLatitudeAndLongitude() throws Exception
+---
+>     public void shouldReturnPoint2DWithLatitudeAndLongitude() throws 
+> Exception

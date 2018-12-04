@@ -1,0 +1,5 @@
+305c305,306
+<                 buffer.append( delimiter );
+---
+>                 buffer.append( 
+> delimiter );

@@ -1,0 +1,5 @@
+108c108,109
+<         HexPrinter printer = new HexPrinter( out ).withLineNumberFormat( 5, "[", "]" );
+---
+>         HexPrinter printer = new 
+> HexPrinter( out ).withLineNumberFormat( 5, "[", "]" );

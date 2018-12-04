@@ -1,0 +1,5 @@
+32c32,33
+< import static org.neo4j.graphdb.factory.GraphDatabaseSettings.check_point_policy;
+---
+> import static org.neo4j.graphdb.factory.GraphDatabaseSettings.
+> check_point_policy;

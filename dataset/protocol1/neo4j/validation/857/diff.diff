@@ -1,0 +1,4 @@
+119c119
+<         final PackStream.Packer packer = new PackStream.Packer( out );
+---
+>         final PackStream.	Packer packer = new PackStream.Packer( out );

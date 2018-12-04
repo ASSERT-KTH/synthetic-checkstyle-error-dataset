@@ -1,0 +1,5 @@
+33c33,34
+<     protected SingleSourceShortestPath<Integer> getSingleSourceAlgorithm(
+---
+>     protected SingleSourceShortestPath<Integer> 
+> getSingleSourceAlgorithm(

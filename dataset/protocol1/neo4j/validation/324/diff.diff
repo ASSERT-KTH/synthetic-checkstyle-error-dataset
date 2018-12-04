@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.kernel.api.query;
+---
+> package org.neo4j.kernel	.api.query;

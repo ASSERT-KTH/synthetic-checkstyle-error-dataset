@@ -1,0 +1,4 @@
+46c46
+<                     return new LogEntryStart( version, masterId, authorId, timeWritten,
+---
+>                     return new LogEntryStart( 	version, masterId, authorId, timeWritten,

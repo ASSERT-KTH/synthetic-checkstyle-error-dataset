@@ -1,0 +1,4 @@
+45c45
+<     public void process( IndexEntryUpdate<?> update )
+---
+>     public void 	process( IndexEntryUpdate<?> update )

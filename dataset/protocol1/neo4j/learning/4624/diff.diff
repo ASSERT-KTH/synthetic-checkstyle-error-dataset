@@ -1,0 +1,5 @@
+652c652,653
+<                 else if ( iterator.hasNext() )
+---
+>                 else 
+> if ( iterator.hasNext() )

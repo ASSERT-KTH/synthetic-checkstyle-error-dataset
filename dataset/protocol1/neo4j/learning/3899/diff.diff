@@ -1,0 +1,5 @@
+115,116c115
+<         buffer.putLong( 123456789L );
+<         buffer.flip();
+---
+>         buffer.putLong( 123456789L );        buffer.flip();

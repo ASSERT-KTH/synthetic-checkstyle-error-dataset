@@ -1,0 +1,4 @@
+1616c1616
+<             Node node = db.createNode( LABEL );
+---
+>             Node node = db.	createNode( LABEL );

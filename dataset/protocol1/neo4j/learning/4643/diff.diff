@@ -1,0 +1,4 @@
+82c82
+<     private void convertAndAssert( long[] before, long[] after, long[] expectedRemoved, long[] expectedAdded )
+---
+>     private 	void convertAndAssert( long[] before, long[] after, long[] expectedRemoved, long[] expectedAdded )

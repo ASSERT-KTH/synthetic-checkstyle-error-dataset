@@ -1,0 +1,4 @@
+70c70
+<         Map<String, AtomicLong> levelTwo = levelOne.get( keyLevelTwo );
+---
+>         Map<String, 	AtomicLong> levelTwo = levelOne.get( keyLevelTwo );

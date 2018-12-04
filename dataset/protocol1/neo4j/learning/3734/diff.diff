@@ -1,0 +1,4 @@
+282c282
+<                         result.add( cursor.nodeReference() );
+---
+>                         result.add( cursor	.nodeReference() );

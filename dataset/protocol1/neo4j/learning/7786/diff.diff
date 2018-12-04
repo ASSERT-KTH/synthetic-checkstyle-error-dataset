@@ -1,0 +1,4 @@
+60c60
+<         return t.hashCode();
+---
+>         return t.hashCode ();

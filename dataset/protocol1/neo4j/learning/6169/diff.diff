@@ -1,0 +1,5 @@
+27c27,28
+< public final class ExtensionPointRepresentation extends ObjectRepresentation implements ParameterDescriptionConsumer
+---
+> public final 
+> class ExtensionPointRepresentation extends ObjectRepresentation implements ParameterDescriptionConsumer

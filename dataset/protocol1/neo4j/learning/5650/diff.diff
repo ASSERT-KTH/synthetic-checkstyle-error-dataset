@@ -1,0 +1,5 @@
+43,44c43
+<     private final PrintStream err;
+<     private final boolean verbose;
+---
+>     private final PrintStream err;    private final boolean verbose;

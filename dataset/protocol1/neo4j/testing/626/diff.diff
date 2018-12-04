@@ -1,0 +1,5 @@
+450,451c450
+<     public void acceptMemoryStatsVisitor( MemoryStatsVisitor visitor )
+<     {
+---
+>     public void acceptMemoryStatsVisitor( MemoryStatsVisitor visitor )    {

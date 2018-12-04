@@ -1,0 +1,4 @@
+159c159
+<                 result = prime * result + name.hashCode();
+---
+>                 result = prime *result + name.hashCode();

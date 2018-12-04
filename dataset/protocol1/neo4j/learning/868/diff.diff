@@ -1,0 +1,4 @@
+85c85
+<         List<FieldSignature> signature = new MethodSignatureCompiler( new TypeMappers() ).signatureFor( echo );
+---
+>         List<FieldSignature> signature = new MethodSignatureCompiler ( new TypeMappers() ).signatureFor( echo );

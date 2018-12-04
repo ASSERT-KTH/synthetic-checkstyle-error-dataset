@@ -1,0 +1,4 @@
+35c35
+<     boolean unregisterIndexProvider( String name );
+---
+>     boolean unregisterIndexProvider( String name);

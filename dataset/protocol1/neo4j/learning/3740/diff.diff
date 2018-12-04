@@ -1,0 +1,5 @@
+25c25,26
+<     public NotCurrentStoreVersionException( String expectedVersion, String foundVersion, String msg,
+---
+>     public NotCurrentStoreVersionException( String 
+> expectedVersion, String foundVersion, String msg,

@@ -1,0 +1,4 @@
+29c29
+< public interface TransactionRegistry
+---
+> public 	interface TransactionRegistry

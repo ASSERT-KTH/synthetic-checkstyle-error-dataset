@@ -1,0 +1,4 @@
+172c172
+<     public Iterator<CapableIndexDescriptor> indexesByProperty( int propertyId )
+---
+>     public Iterator<CapableIndexDescriptor> 	indexesByProperty( int propertyId )

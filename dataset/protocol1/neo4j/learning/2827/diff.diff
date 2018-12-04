@@ -1,0 +1,4 @@
+76c76
+<         return new NumberAwareStringComparator().compare( first, other );
+---
+>         return 	new NumberAwareStringComparator().compare( first, other );

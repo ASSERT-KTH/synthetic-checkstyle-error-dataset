@@ -1,0 +1,5 @@
+43c43,44
+<                     int additionalHeaderLength = channel.getInt();
+---
+>                     int additionalHeaderLength 
+> = channel.getInt();

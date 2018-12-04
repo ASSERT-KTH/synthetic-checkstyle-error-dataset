@@ -1,0 +1,5 @@
+360c360,361
+<             int length = safeCastLongToInt( high - low );
+---
+>             int length 
+> = safeCastLongToInt( high - low );

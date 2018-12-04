@@ -1,0 +1,4 @@
+51c51
+<     static final class Rotation<Key> extends RotationState<Key>
+---
+>     static final class Rotation< Key> extends RotationState<Key>

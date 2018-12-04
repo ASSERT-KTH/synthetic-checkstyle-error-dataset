@@ -1,0 +1,4 @@
+24c24
+<     public static Permissions noPermissions()
+---
+>     public static Permissions noPermissions(	)

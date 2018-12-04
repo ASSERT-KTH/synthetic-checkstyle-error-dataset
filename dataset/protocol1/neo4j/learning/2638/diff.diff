@@ -1,0 +1,4 @@
+76c76
+<         for ( NamedToken token : tokens )
+---
+>         for ( 	NamedToken token : tokens )

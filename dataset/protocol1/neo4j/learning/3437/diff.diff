@@ -1,0 +1,5 @@
+75,76c75
+<     @Mapping( "description" )
+<     public ValueRepresentation getDescription() throws IntrospectionException, InstanceNotFoundException,
+---
+>     @Mapping( "description" )    public ValueRepresentation getDescription() throws IntrospectionException, InstanceNotFoundException,

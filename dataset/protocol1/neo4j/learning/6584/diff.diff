@@ -1,0 +1,4 @@
+63c63
+<         read.singleNode( sourceNodeReference(), cursor );
+---
+>         read.singleNode( sourceNodeReference (), cursor );

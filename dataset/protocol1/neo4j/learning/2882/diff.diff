@@ -1,0 +1,4 @@
+49c49
+<             protected T map( U object )
+---
+>             protected T 	map( U object )

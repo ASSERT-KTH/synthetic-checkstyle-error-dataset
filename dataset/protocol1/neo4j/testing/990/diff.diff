@@ -1,0 +1,5 @@
+26c26,27
+< public class IndexClockCache extends ClockCache<IndexIdentifier, IndexReference>
+---
+> public class IndexClockCache extends 
+> ClockCache<IndexIdentifier, IndexReference>

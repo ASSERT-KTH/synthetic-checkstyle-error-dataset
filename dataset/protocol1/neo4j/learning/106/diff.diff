@@ -1,0 +1,4 @@
+299c299
+<                 MetaDataStore.getRecord( pageCache, neoStore, Position.LAST_CLOSED_TRANSACTION_LOG_VERSION );
+---
+>                 MetaDataStore.getRecord( pageCache, neoStore, 	Position.LAST_CLOSED_TRANSACTION_LOG_VERSION );

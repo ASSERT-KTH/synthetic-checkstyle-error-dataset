@@ -1,0 +1,4 @@
+955c955
+<         assertFalse( recordChangeSet.getNodeRecords().getOrLoad( nodeId, null ).forReadingData().isDense() );
+---
+>         assertFalse( recordChangeSet	.getNodeRecords().getOrLoad( nodeId, null ).forReadingData().isDense() );

@@ -1,0 +1,4 @@
+44c44
+<     public static class MyOutputRecord
+---
+>     public static 	class MyOutputRecord

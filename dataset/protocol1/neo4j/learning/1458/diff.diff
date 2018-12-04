@@ -1,0 +1,4 @@
+49c49
+<         BoltResultHandleV3( String statement, MapValue params, TransactionalContext transactionalContext )
+---
+>         BoltResultHandleV3( String statement, MapValue params, TransactionalContext transactionalContext)

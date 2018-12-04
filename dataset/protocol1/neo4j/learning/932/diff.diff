@@ -1,0 +1,4 @@
+26c26
+<     void endFailure( ExecutingQuery query , Throwable failure );
+---
+>     void endFailure( ExecutingQuery query , Throwable failure 	);

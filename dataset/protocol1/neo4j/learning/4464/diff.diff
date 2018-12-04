@@ -1,0 +1,5 @@
+25,26c25
+< import static java.lang.String.format;
+< import static java.nio.charset.StandardCharsets.UTF_8;
+---
+> import static java.lang.String.format;import static java.nio.charset.StandardCharsets.UTF_8;

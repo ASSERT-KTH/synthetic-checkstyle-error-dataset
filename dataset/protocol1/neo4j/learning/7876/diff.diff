@@ -1,0 +1,4 @@
+89c89
+<         StorageReader storageReader = mock( StorageReader.class );
+---
+>         StorageReader storageReader= mock( StorageReader.class );

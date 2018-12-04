@@ -1,0 +1,4 @@
+436c436
+<         LogPosition startPosition = LogPosition.start( logFiles.getHighestLogVersion() );
+---
+>         LogPosition startPosition = LogPosition.start( logFiles.getHighestLogVersion() 	);

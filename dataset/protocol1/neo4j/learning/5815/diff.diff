@@ -1,0 +1,5 @@
+80c80,81
+<         long half = store.getHighId() / 2;
+---
+>         long 
+> half = store.getHighId() / 2;

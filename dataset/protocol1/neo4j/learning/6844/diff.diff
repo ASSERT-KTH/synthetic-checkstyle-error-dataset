@@ -1,0 +1,4 @@
+64c64
+<         List<IndexEntryUpdate<?>> updates = generateUpdatesFromValues( values );
+---
+>         List<IndexEntryUpdate<?>> updates = generateUpdatesFromValues( 	values );

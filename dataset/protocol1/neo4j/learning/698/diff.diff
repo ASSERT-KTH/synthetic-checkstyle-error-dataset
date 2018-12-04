@@ -1,0 +1,4 @@
+24c24
+< public class ProcedureException extends KernelException
+---
+> 	public class ProcedureException extends KernelException

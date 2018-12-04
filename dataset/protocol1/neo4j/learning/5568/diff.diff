@@ -1,0 +1,4 @@
+96c96
+<         assertThat( "2D distance should match", crs.getCalculator().distance( geo( -45.0, 0.0 ), geo( 45.0, 0.0 ) ), closeTo( 10000000.0, 20000.0 ) );
+---
+>         assertThat( "2D distance should match"	, crs.getCalculator().distance( geo( -45.0, 0.0 ), geo( 45.0, 0.0 ) ), closeTo( 10000000.0, 20000.0 ) );

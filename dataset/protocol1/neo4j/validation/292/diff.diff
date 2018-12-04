@@ -1,0 +1,4 @@
+29c29
+< interface SuspendableCursor<Position extends CursorPosition<Position>> extends Cursor
+---
+> interface SuspendableCursor <Position extends CursorPosition<Position>> extends Cursor

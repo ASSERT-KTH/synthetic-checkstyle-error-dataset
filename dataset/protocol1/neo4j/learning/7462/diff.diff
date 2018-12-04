@@ -1,0 +1,5 @@
+55c55,56
+<         assertArrayEquals( new byte[]{}, result );
+---
+>         
+> assertArrayEquals( new byte[]{}, result );

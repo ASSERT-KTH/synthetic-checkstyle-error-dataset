@@ -1,0 +1,5 @@
+134c134,135
+<         rawValueBits = Double.doubleToLongBits( value );
+---
+>         rawValueBits = Double.doubleToLongBits( value 
+> );

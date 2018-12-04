@@ -1,0 +1,5 @@
+38,39c38
+<                     extended.computeIfAbsent( extension.getExtendedEntity(), k -> new EntityExtensionRepresentation() );
+<             entity.add( extension );
+---
+>                     extended.computeIfAbsent( extension.getExtendedEntity(), k -> new EntityExtensionRepresentation() );            entity.add( extension );

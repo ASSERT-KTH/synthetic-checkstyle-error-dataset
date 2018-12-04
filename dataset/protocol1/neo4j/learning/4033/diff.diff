@@ -1,0 +1,5 @@
+213c213,214
+<                 .stdErrLine( "command failed: the provided initial password was not set because existing Neo4j users were " +
+---
+>                 .stdErrLine( "command failed: the provided initial password was not set because existing Neo4j users were " 
+> +

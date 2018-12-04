@@ -1,0 +1,5 @@
+90c90,91
+<         return new ServerListRepresentation( getType( results ), results );
+---
+>         return new ServerListRepresentation( getType( results ), 
+> results );

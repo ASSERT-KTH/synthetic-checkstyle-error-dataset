@@ -1,0 +1,4 @@
+42c42
+<             protected Path fetchNextOrNull()
+---
+>             	protected Path fetchNextOrNull()

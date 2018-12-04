@@ -1,0 +1,4 @@
+151c151
+<                 assertCountRelationships( relationship, nRelationshipsInStore + 1, n1, type, n2 );
+---
+>                 assertCountRelationships( relationship, nRelationshipsInStore + 1	, n1, type, n2 );

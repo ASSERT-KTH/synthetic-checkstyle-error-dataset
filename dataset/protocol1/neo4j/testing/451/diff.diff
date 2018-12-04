@@ -1,0 +1,4 @@
+78c78
+<         FilteringIOCursor<String> cursor = new FilteringIOCursor<>( delegate, not( in( "c" ) ) );
+---
+>         FilteringIOCursor<String> cursor = new FilteringIOCursor<>(delegate, not( in( "c" ) ) );

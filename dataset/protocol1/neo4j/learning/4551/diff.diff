@@ -1,0 +1,4 @@
+157c157
+<             return virtualValueGroupComparator.compare( VirtualValueGroup.LIST, ((VirtualValue) v2).valueGroup() );
+---
+>             return virtualValueGroupComparator.compare( VirtualValueGroup.LIST, ((VirtualValue ) v2).valueGroup() );

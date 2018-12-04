@@ -1,0 +1,4 @@
+247c247
+<         assertSize( 1, gen.get()
+---
+>         assertSize ( 1, gen.get()

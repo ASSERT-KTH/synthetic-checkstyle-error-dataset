@@ -1,0 +1,5 @@
+25,26c25
+< import org.neo4j.graphdb.index.fulltext.AnalyzerProvider;
+< import org.neo4j.helpers.Service;
+---
+> import org.neo4j.graphdb.index.fulltext.AnalyzerProvider;import org.neo4j.helpers.Service;

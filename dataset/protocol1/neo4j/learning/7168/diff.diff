@@ -1,0 +1,4 @@
+29c29
+< import org.apache.lucene.document.IntField;
+---
+> import 	org.apache.lucene.document.IntField;

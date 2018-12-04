@@ -1,0 +1,5 @@
+80,81c80
+<         }
+<         return new ExpressionTemplate( method.returns() )
+---
+>         }        return new ExpressionTemplate( method.returns() )

@@ -1,0 +1,5 @@
+61c61,62
+<         return timeMakesSense( entry.getTimeWritten() ) && transactionIdMakesSense( entry );
+---
+>         return timeMakesSense( entry.getTimeWritten() 
+> ) && transactionIdMakesSense( entry );

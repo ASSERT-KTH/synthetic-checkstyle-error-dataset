@@ -1,0 +1,5 @@
+40c40,41
+<     static final ZonedTimeType ZONED_TIME = new ZonedTimeType( (byte) 4 );
+---
+>     static final ZonedTimeType ZONED_TIME = new ZonedTimeType
+> ( (byte) 4 );

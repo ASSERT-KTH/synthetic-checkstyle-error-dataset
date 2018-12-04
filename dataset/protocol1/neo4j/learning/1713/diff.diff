@@ -1,0 +1,4 @@
+124c124
+<             try ( NodeCursor nodes = cursors.allocateNodeCursor() )
+---
+>             try ( NodeCursor nodes= cursors.allocateNodeCursor() )

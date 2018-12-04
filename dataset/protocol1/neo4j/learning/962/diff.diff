@@ -1,0 +1,4 @@
+109c109
+<             deletedInTx = createNode( tx.dataWrite(), labelOne );
+---
+>             deletedInTx = createNode( 	tx.dataWrite(), labelOne );

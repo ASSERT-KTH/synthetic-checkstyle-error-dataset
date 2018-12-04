@@ -1,0 +1,5 @@
+24c24,25
+< public enum TestRelType implements RelationshipType
+---
+> public enum TestRelType implements 
+> RelationshipType

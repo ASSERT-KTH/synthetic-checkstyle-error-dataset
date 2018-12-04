@@ -1,0 +1,5 @@
+32c32,33
+<     IS_CONSTRAINT_TYPE( new FacadeMethod<>( "boolean isConstraintType( ConstraintType type )", self -> self.isConstraintType( ConstraintType.UNIQUENESS ) ) ),
+---
+>     IS_CONSTRAINT_TYPE( new FacadeMethod<>( "boolean isConstraintType( ConstraintType type )", 
+> self -> self.isConstraintType( ConstraintType.UNIQUENESS ) ) ),

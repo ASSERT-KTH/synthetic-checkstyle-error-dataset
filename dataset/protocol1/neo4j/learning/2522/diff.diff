@@ -1,0 +1,4 @@
+65c65
+<         return time( hour, minute, second, nanosOfSecond, parseOffset( offset ) );
+---
+>         	return time( hour, minute, second, nanosOfSecond, parseOffset( offset ) );

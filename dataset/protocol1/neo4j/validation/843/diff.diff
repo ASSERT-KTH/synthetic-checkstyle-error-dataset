@@ -1,0 +1,4 @@
+58c58
+<                 : relationship -> new RelationshipTypeDecorator( relationship, defaultType );
+---
+>                 : relationship -> new RelationshipTypeDecorator ( relationship, defaultType );

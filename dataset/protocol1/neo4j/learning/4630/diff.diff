@@ -1,0 +1,4 @@
+557c557
+<         return getRecord( store, id, RecordLoad.NORMAL );
+---
+>         return 	getRecord( store, id, RecordLoad.NORMAL );

@@ -1,0 +1,4 @@
+43c43
+<         diagnosticsManager.prependProvider( new KernelDiagnostics.Versions( databaseInfo, neoStoreDataSource.getStoreId() ) );
+---
+>         diagnosticsManager.prependProvider( 	new KernelDiagnostics.Versions( databaseInfo, neoStoreDataSource.getStoreId() ) );

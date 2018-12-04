@@ -1,0 +1,4 @@
+28c28
+< import org.neo4j.upgrade.loader.EmbeddedJarLoader;
+---
+> import org.neo4j.upgrade	.loader.EmbeddedJarLoader;

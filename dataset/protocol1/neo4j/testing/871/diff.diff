@@ -1,0 +1,5 @@
+113c113,114
+<         assertSerializesNeoValue( map( "k", 133.7d ) );
+---
+>         assertSerializesNeoValue( map( "k", 133.7d ) 
+> );

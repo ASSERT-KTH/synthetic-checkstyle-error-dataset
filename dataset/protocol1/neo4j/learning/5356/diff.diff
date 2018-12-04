@@ -1,0 +1,5 @@
+26,27c26
+<     public static final String INCOMPATIBLE_JVM_WARNING = "You are using an unsupported Java runtime. Please" +
+<             " use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.";
+---
+>     public static final String INCOMPATIBLE_JVM_WARNING = "You are using an unsupported Java runtime. Please" +            " use Oracle(R) Java(TM) Runtime Environment 8, OpenJDK(TM) 8 or IBM J9.";

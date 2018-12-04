@@ -1,0 +1,5 @@
+45c45,46
+<         RotationTimerFactory.RotationTimer anotherTimer = timerFactory.createTimer();
+---
+>         RotationTimerFactory.RotationTimer anotherTimer = 
+> timerFactory.createTimer();

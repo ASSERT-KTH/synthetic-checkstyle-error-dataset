@@ -1,0 +1,5 @@
+161c161,162
+<         public PartitionedIndexStorage indexStorageOf( long indexId )
+---
+>         public PartitionedIndexStorage indexStorageOf( 
+> long indexId )

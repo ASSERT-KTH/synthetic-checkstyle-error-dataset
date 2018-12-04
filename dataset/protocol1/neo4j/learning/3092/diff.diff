@@ -1,0 +1,4 @@
+64c64
+<         cursor.setOffset( 0 );
+---
+>         cursor.setOffset ( 0 );

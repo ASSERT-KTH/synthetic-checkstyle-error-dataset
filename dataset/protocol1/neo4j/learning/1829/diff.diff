@@ -1,0 +1,5 @@
+124c124,125
+<             assertThat( value.toString(), value.compareTo( longValue( 1337 + BOUND ) ), lessThanOrEqualTo( 0 ) );
+---
+>             assertThat( value.toString(), 
+> value.compareTo( longValue( 1337 + BOUND ) ), lessThanOrEqualTo( 0 ) );

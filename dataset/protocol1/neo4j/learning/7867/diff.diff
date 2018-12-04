@@ -1,0 +1,4 @@
+42c42
+<         this.neoServer = neoServer;
+---
+>         this.neoServer= neoServer;

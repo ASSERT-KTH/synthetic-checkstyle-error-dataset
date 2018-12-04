@@ -1,0 +1,4 @@
+93c93
+<         try ( Transaction tx = dbRule.getGraphDatabaseAPI().beginTx() )
+---
+>         try ( Transaction tx = dbRule.getGraphDatabaseAPI().	beginTx() )

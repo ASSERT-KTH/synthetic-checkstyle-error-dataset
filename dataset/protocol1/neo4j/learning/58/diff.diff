@@ -1,0 +1,4 @@
+53c53
+<         return has( nodeTypes, mask );
+---
+>         return has( 	nodeTypes, mask );

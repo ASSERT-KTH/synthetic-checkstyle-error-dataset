@@ -1,0 +1,5 @@
+96,97c96
+<                 writerConfigFactory = () -> IndexWriterConfigs.population( descriptor.analyzer() );
+<             }
+---
+>                 writerConfigFactory = () -> IndexWriterConfigs.population( descriptor.analyzer() );            }

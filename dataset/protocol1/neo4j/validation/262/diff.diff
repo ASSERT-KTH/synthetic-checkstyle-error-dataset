@@ -1,0 +1,5 @@
+299c299,300
+<         doThrow( new FileAlreadyExistsException( "the-archive-path" ) ).when( dumper ).dump( any(), any(), any(), any() );
+---
+>         doThrow( new FileAlreadyExistsException( "the-archive-path" ) 
+> ).when( dumper ).dump( any(), any(), any(), any() );

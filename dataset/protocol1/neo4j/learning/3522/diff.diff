@@ -1,0 +1,4 @@
+124c124
+<         addCurveRule( 3, 2, 0, 1 );
+---
+>         addCurveRule( 3	, 2, 0, 1 );

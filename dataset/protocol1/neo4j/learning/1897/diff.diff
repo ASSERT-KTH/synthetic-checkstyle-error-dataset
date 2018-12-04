@@ -1,0 +1,4 @@
+64c64
+<         when( files.getLogFileForVersion( 2 ) ).thenReturn( fileName2 );
+---
+>         when ( files.getLogFileForVersion( 2 ) ).thenReturn( fileName2 );

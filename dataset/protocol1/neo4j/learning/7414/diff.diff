@@ -1,0 +1,4 @@
+22c22
+< import java.nio.file.Path;
+---
+> import java.nio.file.Path	;

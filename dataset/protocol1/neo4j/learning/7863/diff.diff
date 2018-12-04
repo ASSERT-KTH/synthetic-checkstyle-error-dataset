@@ -1,0 +1,5 @@
+151c151,152
+<         String fromKey3 = cache.get( key3 );
+---
+>         String fromKey3 
+> = cache.get( key3 );

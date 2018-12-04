@@ -1,0 +1,4 @@
+49c49
+<         this.localDateTime = new FileLayout<>( new File( indexDirectory, "localDateTime" ), new LocalDateTimeLayout(), ValueGroup.LOCAL_DATE_TIME );
+---
+>         this.localDateTime = new FileLayout<>( 	new File( indexDirectory, "localDateTime" ), new LocalDateTimeLayout(), ValueGroup.LOCAL_DATE_TIME );

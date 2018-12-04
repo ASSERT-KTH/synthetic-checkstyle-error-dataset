@@ -1,0 +1,4 @@
+45c45
+<         public <T> T get( Setting<T> setting )
+---
+>         public <T > T get( Setting<T> setting )

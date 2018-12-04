@@ -1,0 +1,5 @@
+116c116,117
+<                 valueType = VALUE_TYPE_FLOAT;
+---
+>                 valueType = 
+> VALUE_TYPE_FLOAT;

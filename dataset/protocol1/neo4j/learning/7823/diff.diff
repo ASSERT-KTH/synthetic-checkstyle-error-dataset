@@ -1,0 +1,4 @@
+30c30
+<         super( kernelContext, kernelExtensionFactories, dependencies, unsatisfiedDependencyStrategy, ExtensionType.DATABASE );
+---
+>         super( kernelContext, kernelExtensionFactories, dependencies, unsatisfiedDependencyStrategy, ExtensionType.DATABASE);

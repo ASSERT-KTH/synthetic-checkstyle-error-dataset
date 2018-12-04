@@ -1,0 +1,4 @@
+56c56
+<                     slf4jLogger.debug( message );
+---
+>                     	slf4jLogger.debug( message );

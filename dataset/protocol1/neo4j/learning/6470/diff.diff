@@ -1,0 +1,5 @@
+40c40,41
+<     String getName();
+---
+>     String getName
+> ();

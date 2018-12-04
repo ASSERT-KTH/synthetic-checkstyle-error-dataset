@@ -1,0 +1,5 @@
+29,30c29
+<     Comparison( int cmp )
+<     {
+---
+>     Comparison( int cmp )    {

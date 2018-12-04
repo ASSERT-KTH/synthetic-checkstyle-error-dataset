@@ -1,0 +1,4 @@
+51c51
+<                     String[] pair = param.split( "=" );
+---
+>                     String[] pair = 	param.split( "=" );

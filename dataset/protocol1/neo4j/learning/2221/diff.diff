@@ -1,0 +1,5 @@
+42,43c42
+<     byte INDEX_DELETE_COMMAND = (byte) 14;
+<     byte INDEX_CREATE_COMMAND = (byte) 15;
+---
+>     byte INDEX_DELETE_COMMAND = (byte) 14;    byte INDEX_CREATE_COMMAND = (byte) 15;

@@ -1,0 +1,4 @@
+24c24
+<     public LockNotFoundException( String message )
+---
+>     public LockNotFoundException( String 	message )

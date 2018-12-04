@@ -1,0 +1,5 @@
+33,34c33
+< import org.neo4j.bolt.security.auth.AuthenticationResult;
+< import org.neo4j.bolt.v1.messaging.request.AckFailureMessage;
+---
+> import org.neo4j.bolt.security.auth.AuthenticationResult;import org.neo4j.bolt.v1.messaging.request.AckFailureMessage;

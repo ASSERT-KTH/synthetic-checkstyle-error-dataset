@@ -1,0 +1,4 @@
+37c37
+<     ResourceLocker NONE = ( tracer, resourceType, resourceIds ) ->
+---
+>     ResourceLocker NONE= ( tracer, resourceType, resourceIds ) ->

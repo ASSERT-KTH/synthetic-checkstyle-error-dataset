@@ -1,0 +1,5 @@
+155c155,156
+<         return new SchemaRuleCommand( Collections.emptyList(), singletonList( record ), rule );
+---
+>         return new SchemaRuleCommand( 
+> Collections.emptyList(), singletonList( record ), rule );

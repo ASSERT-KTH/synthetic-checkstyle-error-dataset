@@ -1,0 +1,5 @@
+27,28c27
+<  * in case if they will not finish for specified timeout rotation will be terminated and exception will be thrown.
+<  * @see org.neo4j.kernel.impl.store.kvstore.AbstractKeyValueStore.RotationTask
+---
+>  * in case if they will not finish for specified timeout rotation will be terminated and exception will be thrown. * @see org.neo4j.kernel.impl.store.kvstore.AbstractKeyValueStore.RotationTask

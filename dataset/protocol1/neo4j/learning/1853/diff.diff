@@ -1,0 +1,5 @@
+35,36c35
+<     public void should404OnAnyUriEndingInWADL() throws Exception
+<     {
+---
+>     public void should404OnAnyUriEndingInWADL() throws Exception    {

@@ -1,0 +1,5 @@
+46c46,47
+<     void visit( long relationshipId, int typeId, long startNodeId, long endNodeId );
+---
+>     void visit( long relationshipId, int typeId, long 
+> startNodeId, long endNodeId );

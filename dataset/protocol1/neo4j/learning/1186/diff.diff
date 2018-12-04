@@ -1,0 +1,4 @@
+26c26
+<     VALUE value( long seed );
+---
+>     VALUE value( long 	seed );

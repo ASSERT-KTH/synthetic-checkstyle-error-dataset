@@ -1,0 +1,4 @@
+70c70
+<         DefaultTransactionTracer tracer = new DefaultTransactionTracer( clock, monitor, jobScheduler );
+---
+>         	DefaultTransactionTracer tracer = new DefaultTransactionTracer( clock, monitor, jobScheduler );

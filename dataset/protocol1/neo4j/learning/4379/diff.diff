@@ -1,0 +1,4 @@
+162c162
+<         Term term = new Term( ValueEncoding.String.key( 0 ), prefix );
+---
+>         Term term = new 	Term( ValueEncoding.String.key( 0 ), prefix );

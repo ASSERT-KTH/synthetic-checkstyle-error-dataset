@@ -1,0 +1,4 @@
+139c139
+<     private static Status statusCode( Throwable current )
+---
+>     private static Status statusCode( Throwable current)

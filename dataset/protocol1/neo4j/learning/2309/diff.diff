@@ -1,0 +1,4 @@
+182c182
+<     static class PartAccessor extends NativeIndexAccessor<SpatialIndexKey,NativeIndexValue>
+---
+>     static class PartAccessor extends NativeIndexAccessor<SpatialIndexKey,	NativeIndexValue>

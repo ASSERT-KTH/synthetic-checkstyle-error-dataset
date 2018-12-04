@@ -1,0 +1,4 @@
+95c95
+<         SortField[] sortFields = new SortField[1 + additionalKeys.length];
+---
+>         SortField[] sortFields = new SortField[1 + 	additionalKeys.length];

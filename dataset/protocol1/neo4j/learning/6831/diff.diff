@@ -1,0 +1,5 @@
+49c49,50
+<                 serializer.putRelativeUri( key, uri.toString() );
+---
+>                 serializer.putRelativeUri( key, 
+> uri.toString() );

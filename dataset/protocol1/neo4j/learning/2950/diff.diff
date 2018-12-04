@@ -1,0 +1,4 @@
+42c42
+<             graphDb.index().forNodes( "foo" ).add( graphDb.createNode(), "bar", "this is it" );
+---
+>             graphDb.index().forNodes( "foo" ).add( graphDb.createNode (), "bar", "this is it" );

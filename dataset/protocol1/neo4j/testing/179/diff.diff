@@ -1,0 +1,5 @@
+61c61,62
+<             return Stream.of( new RetrieveResult( NAME, data ) );
+---
+>             return Stream.of( new RetrieveResult( NAME, data ) 
+> );

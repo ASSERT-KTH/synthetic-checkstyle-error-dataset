@@ -1,0 +1,5 @@
+75c75,76
+<                 verify( that( explained( READ_ONLY ) )
+---
+>                 verify( 
+> that( explained( READ_ONLY ) )

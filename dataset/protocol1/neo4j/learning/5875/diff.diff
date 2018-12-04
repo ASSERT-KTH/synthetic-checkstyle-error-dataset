@@ -1,0 +1,5 @@
+53c53,54
+<     public WatchedResource watch( File file ) throws IOException
+---
+>     public WatchedResource 
+> watch( File file ) throws IOException

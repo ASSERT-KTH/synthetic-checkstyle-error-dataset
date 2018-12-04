@@ -1,0 +1,5 @@
+93c93,94
+<         head = (head + 1) & (values.length - 1);
+---
+>         head 
+> = (head + 1) & (values.length - 1);

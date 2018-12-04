@@ -1,0 +1,5 @@
+350,351c350
+<     public void shouldLogContentOfTheMessageOnIOError() throws Exception
+<     {
+---
+>     public void shouldLogContentOfTheMessageOnIOError() throws Exception    {

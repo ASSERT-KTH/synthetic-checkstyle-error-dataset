@@ -1,0 +1,4 @@
+49c49
+<     private final JobHandle jobHandle = mock( JobHandle.class );
+---
+>     private final JobHandle jobHandle = mock( JobHandle.	class );

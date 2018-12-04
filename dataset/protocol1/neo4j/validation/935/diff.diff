@@ -1,0 +1,5 @@
+285c285,286
+<     public abstract StoreMigrationParticipant storeMigrationParticipant( FileSystemAbstraction fs, PageCache pageCache );
+---
+>     public abstract StoreMigrationParticipant storeMigrationParticipant( FileSystemAbstraction 
+> fs, PageCache pageCache );

@@ -1,0 +1,4 @@
+35c35
+< import org.neo4j.bolt.v1.messaging.request.PullAllMessage;
+---
+> import org.neo4j.bolt.v1.messaging.request	.PullAllMessage;

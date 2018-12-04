@@ -1,0 +1,4 @@
+65c65
+<         long uniqueValues = Math.addExact( sample1.uniqueValues(), sample2.uniqueValues() );
+---
+>         long uniqueValues = Math.addExact( sample1.uniqueValues(), sample2.uniqueValues() )	;

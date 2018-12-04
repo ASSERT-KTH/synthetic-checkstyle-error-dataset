@@ -1,0 +1,4 @@
+33c33
+< import static org.neo4j.kernel.impl.store.record.Record.NULL_REFERENCE;
+---
+> import static 	org.neo4j.kernel.impl.store.record.Record.NULL_REFERENCE;

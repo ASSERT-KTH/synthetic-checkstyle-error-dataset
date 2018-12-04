@@ -1,0 +1,5 @@
+46c46,47
+<     void kernelPanic( ErrorState error );
+---
+>     void kernelPanic( ErrorState error 
+> );

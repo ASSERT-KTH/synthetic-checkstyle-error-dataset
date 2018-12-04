@@ -1,0 +1,4 @@
+37c37
+<     protected abstract void visitSource( TypeReference reference, CharSequence sourceCode );
+---
+>     protected abstract void visitSource( TypeReference reference, CharSequence sourceCode )	;

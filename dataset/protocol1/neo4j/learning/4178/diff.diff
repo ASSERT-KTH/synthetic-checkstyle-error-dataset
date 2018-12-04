@@ -1,0 +1,4 @@
+89c89
+<         return "RUN " + statement + ' ' + params;
+---
+>         return "RUN " + statement 	+ ' ' + params;

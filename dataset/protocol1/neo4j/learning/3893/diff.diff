@@ -1,0 +1,4 @@
+97c97
+<                 Iterator<? extends T> iterator = candidates.iterator();
+---
+>                 Iterator<? extends T> iterator = candidates.	iterator();

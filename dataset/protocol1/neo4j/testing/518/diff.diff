@@ -1,0 +1,4 @@
+49c49
+<     public void shouldAdvertiseBoltIfExplicitlyConfigured() throws Exception
+---
+>     public void shouldAdvertiseBoltIfExplicitlyConfigured () throws Exception

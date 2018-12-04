@@ -1,0 +1,5 @@
+601c601,602
+<     public Register.DoubleLongRegister indexSample( IndexReference index, Register.DoubleLongRegister target )
+---
+>     public Register.DoubleLongRegister indexSample( IndexReference index, Register.DoubleLongRegister target 
+> )

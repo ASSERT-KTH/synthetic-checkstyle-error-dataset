@@ -1,0 +1,5 @@
+115,116c115
+<      * accordingly afterwards. If no characters were read due to end reached then {@link #hasAvailable()} will
+<      * return {@code false} after this call, likewise {@link #available()} will return 0.
+---
+>      * accordingly afterwards. If no characters were read due to end reached then {@link #hasAvailable()} will     * return {@code false} after this call, likewise {@link #available()} will return 0.

@@ -1,0 +1,4 @@
+57c57
+<                 offset = i - 1;
+---
+>                 offset = i- 1;

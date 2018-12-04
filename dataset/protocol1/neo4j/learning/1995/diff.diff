@@ -1,0 +1,5 @@
+50c50,51
+<     public Iterator<Document> iterator()
+---
+>     public Iterator<Document> 
+> iterator()

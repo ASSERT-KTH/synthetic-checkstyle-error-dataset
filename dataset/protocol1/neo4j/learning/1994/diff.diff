@@ -1,0 +1,4 @@
+402c402
+<             if ( !(fieldsFromHeader instanceof PointBuilder) )
+---
+>             if 	( !(fieldsFromHeader instanceof PointBuilder) )

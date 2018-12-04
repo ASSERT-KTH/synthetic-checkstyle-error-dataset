@@ -1,0 +1,4 @@
+192c192
+<         joiner.add( toString( state ) );
+---
+>         joiner.add( toString ( state ) );

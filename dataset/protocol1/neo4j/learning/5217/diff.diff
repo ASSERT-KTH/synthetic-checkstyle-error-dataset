@@ -1,0 +1,4 @@
+28c28
+< import org.neo4j.internal.kernel.api.exceptions.schema.IndexNotFoundKernelException;
+---
+> import org.neo4j.internal.kernel.api.exceptions.schema	.IndexNotFoundKernelException;

@@ -1,0 +1,5 @@
+70,71c70
+<     private static void addFormatSetting( Map<String,String> configMap, Setting setting, int value )
+<     {
+---
+>     private static void addFormatSetting( Map<String,String> configMap, Setting setting, int value )    {

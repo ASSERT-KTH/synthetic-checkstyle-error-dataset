@@ -1,0 +1,4 @@
+24c24
+<     void doWork();
+---
+>     	void doWork();

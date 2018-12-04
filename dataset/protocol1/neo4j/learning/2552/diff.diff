@@ -1,0 +1,4 @@
+116c116
+<         NeoStoreDataSource dataSource1 = mock( NeoStoreDataSource.class );
+---
+>         NeoStoreDataSource dataSource1 	= mock( NeoStoreDataSource.class );

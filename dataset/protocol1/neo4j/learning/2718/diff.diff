@@ -1,0 +1,5 @@
+42,43c42
+< import org.neo4j.test.GraphDescription.PROP;
+< import org.neo4j.test.GraphDescription.REL;
+---
+> import org.neo4j.test.GraphDescription.PROP;import org.neo4j.test.GraphDescription.REL;

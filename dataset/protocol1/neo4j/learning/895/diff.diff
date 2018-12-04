@@ -1,0 +1,5 @@
+599c599,600
+<                 ? new LongCollisionValues( NumberArrayFactory.HEAP, numberOfCollisions )
+---
+>                 ? new LongCollisionValues( NumberArrayFactory.HEAP, 
+> numberOfCollisions )

@@ -1,0 +1,4 @@
+103c103
+<         throw new IllegalStateException( "Default database not found" );
+---
+>         throw new IllegalStateException ( "Default database not found" );

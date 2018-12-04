@@ -1,0 +1,5 @@
+48,49c48
+<     public synchronized int createToken( String name ) throws KernelException
+<     {
+---
+>     public synchronized int createToken( String name ) throws KernelException    {

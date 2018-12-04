@@ -1,0 +1,4 @@
+30c30
+<     static <KEY> boolean contains( List<KEY> expectedKeys, KEY key, Comparator<KEY> comparator )
+---
+>     static <KEY> boolean contains( List<KEY> expectedKeys, KEY key, Comparator <KEY> comparator )

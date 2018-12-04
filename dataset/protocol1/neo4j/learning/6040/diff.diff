@@ -1,0 +1,5 @@
+166c166,167
+<             throw new IllegalArgumentException( "Unknown outcome: " + result.outcome.name() );
+---
+>             throw new IllegalArgumentException( "Unknown outcome: " + result.outcome.name
+> () );

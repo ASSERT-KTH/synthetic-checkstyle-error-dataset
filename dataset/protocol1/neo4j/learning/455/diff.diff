@@ -1,0 +1,5 @@
+195c195,196
+<             n1 = tx.dataWrite().nodeCreate();
+---
+>             n1 = 
+> tx.dataWrite().nodeCreate();

@@ -1,0 +1,5 @@
+94c94,95
+<             put( LOOKUP_BY_VERSION, -version.byteCode(), version );
+---
+>             put
+> ( LOOKUP_BY_VERSION, -version.byteCode(), version );

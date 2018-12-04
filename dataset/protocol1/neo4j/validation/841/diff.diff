@@ -1,0 +1,5 @@
+64c64,65
+<         DatabaseHealth databaseHealth = new DatabaseHealth( mock( DatabasePanicEventGenerator.class ),
+---
+>         DatabaseHealth databaseHealth = new DatabaseHealth
+> ( mock( DatabasePanicEventGenerator.class ),

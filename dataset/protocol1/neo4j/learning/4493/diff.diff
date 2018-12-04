@@ -1,0 +1,5 @@
+41,42c41
+<     private final LongIterator nodeIds;
+<     private final DataImporter.Monitor storeMonitor;
+---
+>     private final LongIterator nodeIds;    private final DataImporter.Monitor storeMonitor;

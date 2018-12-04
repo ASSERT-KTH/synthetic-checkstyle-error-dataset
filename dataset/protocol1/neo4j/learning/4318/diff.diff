@@ -1,0 +1,4 @@
+101c101
+<         return new DBMSModule( webServer, getConfig(), discoverableURIs );
+---
+>         return new DBMSModule( webServer, getConfig(), discoverableURIs )	;

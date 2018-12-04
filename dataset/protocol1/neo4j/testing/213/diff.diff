@@ -1,0 +1,4 @@
+30c30
+<     long add( Object id );
+---
+>     long add( Object id 	);

@@ -1,0 +1,4 @@
+68c68
+<             this.resourceName = resourceName;
+---
+>             this.resourceName= resourceName;

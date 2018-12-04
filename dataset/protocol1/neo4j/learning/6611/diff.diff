@@ -1,0 +1,5 @@
+336,337c336
+<                             "                                           [default:true]%n" +
+<                             "  --check-label-scan-store=<true|false>    Perform checks on the label scan%n" +
+---
+>                             "                                           [default:true]%n" +                            "  --check-label-scan-store=<true|false>    Perform checks on the label scan%n" +

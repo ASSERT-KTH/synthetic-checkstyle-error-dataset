@@ -1,0 +1,5 @@
+85c85,86
+<         delegate.create( filename, highId, throwIfFileExists );
+---
+>         delegate.create( filename, highId, 
+> throwIfFileExists );

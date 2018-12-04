@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.kernel.impl.index.schema.config;
+---
+> package org.neo4j.kernel.impl.index.	schema.config;

@@ -1,0 +1,4 @@
+24c24
+< class ReadOnlyFulltextIndex extends ReadOnlyAbstractDatabaseIndex<LuceneFulltextIndex,FulltextIndexReader> implements DatabaseFulltextIndex
+---
+> class ReadOnlyFulltextIndex extends ReadOnlyAbstractDatabaseIndex<LuceneFulltextIndex,FulltextIndexReader> implements 	DatabaseFulltextIndex

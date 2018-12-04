@@ -1,0 +1,5 @@
+25,26c25
+< import org.neo4j.bolt.messaging.RequestMessage;
+< import org.neo4j.bolt.messaging.RequestMessageDecoder;
+---
+> import org.neo4j.bolt.messaging.RequestMessage;import org.neo4j.bolt.messaging.RequestMessageDecoder;

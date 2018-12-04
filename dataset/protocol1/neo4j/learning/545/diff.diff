@@ -1,0 +1,4 @@
+36c36
+<         this.array = new long[length];
+---
+>         this.	array = new long[length];

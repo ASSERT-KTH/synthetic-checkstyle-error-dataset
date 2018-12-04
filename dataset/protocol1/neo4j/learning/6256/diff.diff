@@ -1,0 +1,4 @@
+40c40
+<     void log( @Nonnull String message, @Nonnull Throwable throwable );
+---
+>     void log ( @Nonnull String message, @Nonnull Throwable throwable );

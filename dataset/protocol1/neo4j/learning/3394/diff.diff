@@ -1,0 +1,5 @@
+951,952c951
+<                         providerDescriptor );
+<         ktx.txState().indexDoAdd( index );
+---
+>                         providerDescriptor );        ktx.txState().indexDoAdd( index );

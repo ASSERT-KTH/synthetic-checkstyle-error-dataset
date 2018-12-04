@@ -1,0 +1,4 @@
+60c60
+<     public static byte safeCastIntToUnsignedByte( int value )
+---
+>     public 	static byte safeCastIntToUnsignedByte( int value )

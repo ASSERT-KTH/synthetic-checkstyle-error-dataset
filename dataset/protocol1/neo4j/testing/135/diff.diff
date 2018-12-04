@@ -1,0 +1,5 @@
+42c42,43
+<         when( databaseDir.getTotalSpace() ).thenReturn( 100L );
+---
+>         when( databaseDir.getTotalSpace() ).thenReturn
+> ( 100L );

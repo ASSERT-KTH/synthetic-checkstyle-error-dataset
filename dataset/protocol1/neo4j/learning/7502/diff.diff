@@ -1,0 +1,5 @@
+126c126,127
+<         return output.ok( new ListRepresentation( "bean", beans ) );
+---
+>         return output.ok( new 
+> ListRepresentation( "bean", beans ) );

@@ -1,0 +1,4 @@
+195c195
+<         assertThat( node.getProperty( "arr" ), is(new String[]{}));
+---
+>         assertThat( node.getProperty( "arr" )	, is(new String[]{}));

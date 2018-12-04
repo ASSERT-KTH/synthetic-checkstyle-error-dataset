@@ -1,0 +1,5 @@
+117c117,118
+<         String[] arguments = {"--mode=database", "--database=bar", "--from=" + from.getAbsolutePath()};
+---
+>         String[] arguments = {"--mode=database", "--database=bar", 
+> "--from=" + from.getAbsolutePath()};

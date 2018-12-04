@@ -1,0 +1,5 @@
+77c77,78
+<             public synchronized void add( long progress )
+---
+>             public synchronized void add( long 
+> progress )

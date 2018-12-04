@@ -1,0 +1,4 @@
+118c118
+<         thrown.expect( NoSuchElementException.class );
+---
+>         thrown.expect( 	NoSuchElementException.class );

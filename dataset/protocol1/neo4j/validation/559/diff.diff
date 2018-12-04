@@ -1,0 +1,4 @@
+43c43
+<         final OffHeapBlockAllocator allocator = mock( OffHeapBlockAllocator.class );
+---
+>         final OffHeapBlockAllocator 	allocator = mock( OffHeapBlockAllocator.class );

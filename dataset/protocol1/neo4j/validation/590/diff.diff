@@ -1,0 +1,4 @@
+70c70
+<     ExecutionOrder orderComparedTo( KernelEventHandler other );
+---
+>     ExecutionOrder orderComparedTo( KernelEventHandler 	other );

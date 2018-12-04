@@ -1,0 +1,4 @@
+29c29
+<     void check( ClassLoader classpathLoader, Collection<ByteCodes> byteCodes ) throws CompilationFailureException;
+---
+>     void check( ClassLoader classpathLoader, Collection<ByteCodes> byteCodes) throws CompilationFailureException;

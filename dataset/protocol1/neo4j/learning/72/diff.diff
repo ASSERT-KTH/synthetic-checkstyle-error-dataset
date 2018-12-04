@@ -1,0 +1,4 @@
+105c105
+<         this.facade = new OperationsFacade( this, statementOperations );
+---
+>         this.facade = new OperationsFacade( this, statementOperations);

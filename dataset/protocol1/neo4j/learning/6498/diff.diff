@@ -1,0 +1,5 @@
+46c46,47
+<     byte UPDATE_NODE_COUNTS_COMMAND = (byte) 17;
+---
+>     byte UPDATE_NODE_COUNTS_COMMAND = (byte) 
+> 17;

@@ -1,0 +1,5 @@
+64c64,65
+<         assertThat( charValue( 'a' ).trim(), equalTo( charValue( 'a' ) ) );
+---
+>         assertThat( charValue( 'a' ).trim(), 
+> equalTo( charValue( 'a' ) ) );

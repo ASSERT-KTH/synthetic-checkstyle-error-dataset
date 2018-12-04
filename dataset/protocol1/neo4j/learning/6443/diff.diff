@@ -1,0 +1,5 @@
+100,101c100
+<         PREV( Record.NO_PREVIOUS_PROPERTY )
+<         {
+---
+>         PREV( Record.NO_PREVIOUS_PROPERTY )        {

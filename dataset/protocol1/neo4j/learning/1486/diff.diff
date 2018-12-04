@@ -1,0 +1,5 @@
+31,32c31
+< import org.neo4j.kernel.impl.store.id.IdGeneratorImpl;
+< import org.neo4j.kernel.impl.store.id.validation.ReservedIdException;
+---
+> import org.neo4j.kernel.impl.store.id.IdGeneratorImpl;import org.neo4j.kernel.impl.store.id.validation.ReservedIdException;

@@ -1,0 +1,5 @@
+52c52,53
+<         int capacity = table.capacity();
+---
+>         int capacity = 
+> table.capacity();

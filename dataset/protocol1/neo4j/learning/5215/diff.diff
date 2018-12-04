@@ -1,0 +1,4 @@
+26c26
+< public abstract class KernelException extends Exception implements Status.HasStatus
+---
+> public abstract class KernelException extends 	Exception implements Status.HasStatus

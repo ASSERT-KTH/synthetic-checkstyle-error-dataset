@@ -1,0 +1,5 @@
+87,88c87
+<         IndexPopulationProgress progress = new IndexPopulationProgress( 1, 2 );
+<         assertEquals( 1L, progress.getCompletedCount() );
+---
+>         IndexPopulationProgress progress = new IndexPopulationProgress( 1, 2 );        assertEquals( 1L, progress.getCompletedCount() );

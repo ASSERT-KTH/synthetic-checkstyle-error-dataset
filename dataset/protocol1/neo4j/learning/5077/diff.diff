@@ -1,0 +1,4 @@
+110c110
+<             assertEquals( config, db.index().getConfiguration( index ) );
+---
+>             assertEquals( config, db.	index().getConfiguration( index ) );

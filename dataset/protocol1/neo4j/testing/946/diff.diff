@@ -1,0 +1,5 @@
+25,26c25
+< import org.neo4j.bolt.messaging.ResponseMessageEncoder;
+< import org.neo4j.bolt.v1.messaging.response.IgnoredMessage;
+---
+> import org.neo4j.bolt.messaging.ResponseMessageEncoder;import org.neo4j.bolt.v1.messaging.response.IgnoredMessage;

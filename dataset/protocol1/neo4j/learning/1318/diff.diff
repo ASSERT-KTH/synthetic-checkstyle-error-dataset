@@ -1,0 +1,5 @@
+100c100,101
+<                     return new ImpermanentPlatformModule( storeDir, config, databaseInfo, dependencies );
+---
+>                     return new ImpermanentPlatformModule( storeDir, config, 
+> databaseInfo, dependencies );

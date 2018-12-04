@@ -1,0 +1,5 @@
+40c40,41
+<         IgnoredMessageEncoder encoder = new IgnoredMessageEncoder();
+---
+>         IgnoredMessageEncoder encoder = new 
+> IgnoredMessageEncoder();

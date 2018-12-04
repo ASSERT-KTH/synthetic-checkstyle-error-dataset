@@ -1,0 +1,5 @@
+67c67,68
+<         compilerFactory = mock( CompilerFactory.class );
+---
+>         compilerFactory = mock( CompilerFactory.class 
+> );

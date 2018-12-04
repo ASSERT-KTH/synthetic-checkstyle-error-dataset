@@ -1,0 +1,4 @@
+242c242
+<     public boolean isNaN()
+---
+>     public boolean isNaN ()

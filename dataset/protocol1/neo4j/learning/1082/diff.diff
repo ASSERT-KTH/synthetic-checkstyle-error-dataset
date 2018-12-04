@@ -1,0 +1,4 @@
+55c55
+<                 leafs[i] = graphDb.createNode();
+---
+>                 leafs[i] = graphDb	.createNode();

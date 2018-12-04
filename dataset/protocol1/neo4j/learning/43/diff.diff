@@ -1,0 +1,4 @@
+37c37
+< import org.neo4j.storageengine.api.TransactionApplicationMode;
+---
+> 	import org.neo4j.storageengine.api.TransactionApplicationMode;

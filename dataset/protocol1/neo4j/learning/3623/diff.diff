@@ -1,0 +1,4 @@
+69c69
+<         Key http_cypher_endpoint = new Key( 0 );
+---
+>         Key http_cypher_endpoint = new Key( 0 )	;

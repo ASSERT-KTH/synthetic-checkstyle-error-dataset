@@ -1,0 +1,5 @@
+222c222,223
+<                 new RunMessage( "CALL db.labels() YIELD label" ),
+---
+>                 
+> new RunMessage( "CALL db.labels() YIELD label" ),

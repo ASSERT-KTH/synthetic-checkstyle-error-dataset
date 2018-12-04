@@ -1,0 +1,4 @@
+247c247
+<                 key.writeInteger( c.getLong() );
+---
+>                 key.writeInteger ( c.getLong() );

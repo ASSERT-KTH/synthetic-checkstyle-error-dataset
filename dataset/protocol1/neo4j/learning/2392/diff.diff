@@ -1,0 +1,4 @@
+50c50
+<         return currentSize >= maxSize;
+---
+>         return currentSize >=maxSize;

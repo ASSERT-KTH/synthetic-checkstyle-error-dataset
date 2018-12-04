@@ -1,0 +1,5 @@
+29,30c29
+<      * Get the index provider descriptor for the index provider with the given name, or the
+<      * descriptor of the default index provider, if no name was given.
+---
+>      * Get the index provider descriptor for the index provider with the given name, or the     * descriptor of the default index provider, if no name was given.

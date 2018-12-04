@@ -1,0 +1,4 @@
+54c54
+<     private TestRelationshipChain outC = new TestRelationshipChain( 42L )
+---
+>     private TestRelationshipChain outC = new TestRelationshipChain(42L )

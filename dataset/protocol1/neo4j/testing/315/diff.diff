@@ -1,0 +1,4 @@
+46c46
+<     PackInput readBytes( byte[] into, int offset, int toRead ) throws IOException;
+---
+>     PackInput readBytes( byte	[] into, int offset, int toRead ) throws IOException;

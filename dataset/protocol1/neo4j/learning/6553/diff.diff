@@ -1,0 +1,4 @@
+170c170
+<             byte[] data = new byte[(int) channel.size()];
+---
+>             byte[] data = new byte[(int) channel.size()]	;

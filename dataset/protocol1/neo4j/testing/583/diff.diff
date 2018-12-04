@@ -1,0 +1,5 @@
+41,42c41
+< import org.neo4j.kernel.impl.store.PropertyKeyTokenStore;
+< import org.neo4j.kernel.impl.store.PropertyStore;
+---
+> import org.neo4j.kernel.impl.store.PropertyKeyTokenStore;import org.neo4j.kernel.impl.store.PropertyStore;

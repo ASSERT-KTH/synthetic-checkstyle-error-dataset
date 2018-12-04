@@ -1,0 +1,5 @@
+31c31,32
+< public class ReadOnlyCountsTracker extends CountsTracker
+---
+> public 
+> class ReadOnlyCountsTracker extends CountsTracker

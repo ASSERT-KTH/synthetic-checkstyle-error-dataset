@@ -1,0 +1,5 @@
+77,78c77
+<         RawBytes key = layout.newKey();
+<         RawBytes value = layout.newValue();
+---
+>         RawBytes key = layout.newKey();        RawBytes value = layout.newValue();

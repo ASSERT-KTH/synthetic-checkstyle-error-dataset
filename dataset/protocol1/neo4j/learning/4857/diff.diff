@@ -1,0 +1,4 @@
+268c268
+<         IOFunction<File,CharReadable> opener = new FromFile( charset );
+---
+>         IOFunction<File,CharReadable> opener = 	new FromFile( charset );

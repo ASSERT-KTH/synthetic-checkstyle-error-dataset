@@ -1,0 +1,5 @@
+117c117,118
+<         List<Object> data = asList( "cat", 21, 22, 23, 24L, (byte) 25, 26.0, (float) 22, "dog" );
+---
+>         List<Object> data = asList( "cat", 21, 22, 
+> 23, 24L, (byte) 25, 26.0, (float) 22, "dog" );

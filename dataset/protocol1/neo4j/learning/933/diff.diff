@@ -1,0 +1,5 @@
+703,704c703
+<         }
+<         else if ( integer < Byte.MAX_VALUE && integer > Byte.MIN_VALUE )
+---
+>         }        else if ( integer < Byte.MAX_VALUE && integer > Byte.MIN_VALUE )

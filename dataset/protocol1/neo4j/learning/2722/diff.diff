@@ -1,0 +1,5 @@
+29c29,30
+< import org.neo4j.graphdb.mockfs.EphemeralFileSystemAbstraction;
+---
+> import 
+> org.neo4j.graphdb.mockfs.EphemeralFileSystemAbstraction;

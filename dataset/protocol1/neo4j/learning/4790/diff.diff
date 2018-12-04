@@ -1,0 +1,4 @@
+51c51
+<     protected void writeLog( @Nonnull PrintWriter out, @Nonnull String message, @Nonnull Throwable throwable )
+---
+>     protected void writeLog( @Nonnull PrintWriter out	, @Nonnull String message, @Nonnull Throwable throwable )

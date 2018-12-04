@@ -1,0 +1,4 @@
+24c24
+<     IndexProxy create( Throwable failure );
+---
+>     IndexProxy create( Throwable failure);

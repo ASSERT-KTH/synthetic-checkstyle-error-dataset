@@ -1,0 +1,5 @@
+33c33,34
+< import static org.neo4j.graphdb.traversal.Evaluation.INCLUDE_AND_PRUNE;
+---
+> import 
+> static org.neo4j.graphdb.traversal.Evaluation.INCLUDE_AND_PRUNE;

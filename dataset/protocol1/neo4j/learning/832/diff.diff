@@ -1,0 +1,5 @@
+32,33c32
+<  * {@link Lifecycle#init()} must prepare implementing class to be reused, probably by cleaning current state. After
+<  * this, implementing class must be ready to receive new jobs through {@link #add(CleanupJob)}.
+---
+>  * {@link Lifecycle#init()} must prepare implementing class to be reused, probably by cleaning current state. After * this, implementing class must be ready to receive new jobs through {@link #add(CleanupJob)}.

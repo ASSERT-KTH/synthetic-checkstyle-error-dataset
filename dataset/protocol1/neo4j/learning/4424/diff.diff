@@ -1,0 +1,5 @@
+26c26,27
+<         super( proxyClazz.getSimpleName() + " has been closed. No more interactions allowed." );
+---
+>         super( 
+> proxyClazz.getSimpleName() + " has been closed. No more interactions allowed." );

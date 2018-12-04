@@ -1,0 +1,4 @@
+68c68
+<         assertThat( PrimitiveArrays.intersect( new long[]{14, 15, 16}, new long[]{1, 2, 3} ),
+---
+>         assertThat( PrimitiveArrays.intersect( new long[]{14, 15, 16}, new long[]	{1, 2, 3} ),

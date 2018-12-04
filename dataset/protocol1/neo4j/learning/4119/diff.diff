@@ -1,0 +1,4 @@
+1346c1346
+<     static void assertDefinedInOrder( Pair<org.neo4j.values.AnyValue, String>... values )
+---
+>     static void assertDefinedInOrder( Pair<org.neo4j.values.AnyValue	, String>... values )

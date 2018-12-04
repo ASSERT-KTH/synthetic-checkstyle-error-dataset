@@ -1,0 +1,5 @@
+85c85,86
+<             int increment( int delta );
+---
+>             int increment( int delta 
+> );

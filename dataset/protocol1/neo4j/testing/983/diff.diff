@@ -1,0 +1,5 @@
+43c43,44
+<     private final ConcurrentMap<CoordinateReferenceSystem,SpaceFillingCurveSettings> specificIndexConfigCache = new ConcurrentHashMap<>();
+---
+>     private final ConcurrentMap<CoordinateReferenceSystem,SpaceFillingCurveSettings> 
+> specificIndexConfigCache = new ConcurrentHashMap<>();

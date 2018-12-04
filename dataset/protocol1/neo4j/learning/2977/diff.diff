@@ -1,0 +1,4 @@
+37c37
+<         public boolean forLabel( long[] before, long[] after, long label )
+---
+>         public boolean forLabel( long[] before, 	long[] after, long label )

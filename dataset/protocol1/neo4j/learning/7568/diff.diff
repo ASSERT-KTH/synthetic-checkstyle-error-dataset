@@ -1,0 +1,5 @@
+234c234,235
+<         public StoreFileListingBuilder includeSchemaIndexStoreFiles()
+---
+>         public 
+> StoreFileListingBuilder includeSchemaIndexStoreFiles()

@@ -1,0 +1,4 @@
+28c28
+<         super( capacity, 3 + 1, 32, new long[]{NULL} );
+---
+>         super( capacity, 3 +1, 32, new long[]{NULL} );

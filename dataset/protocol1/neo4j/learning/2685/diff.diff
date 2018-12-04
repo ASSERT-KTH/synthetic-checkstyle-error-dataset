@@ -1,0 +1,4 @@
+20c20
+< package org.neo4j.kernel.impl.traversal;
+---
+> package org.neo4j.kernel.impl.	traversal;

@@ -1,0 +1,5 @@
+59c59,60
+<         int result = resourceType.hashCode();
+---
+>         int result = resourceType.hashCode
+> ();

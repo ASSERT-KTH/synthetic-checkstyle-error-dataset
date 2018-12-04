@@ -1,0 +1,4 @@
+425c425
+<         verify( rotationListener ).rotationError( eq( exception ), any( OutputStream.class ) );
+---
+>         verify( 	rotationListener ).rotationError( eq( exception ), any( OutputStream.class ) );

@@ -1,0 +1,4 @@
+24c24
+< public interface GraphHolder
+---
+> 	public interface GraphHolder

@@ -1,0 +1,5 @@
+50,51c50
+<     private final boolean encryptionRequired;
+<     private final boolean isEncrypted;
+---
+>     private final boolean encryptionRequired;    private final boolean isEncrypted;

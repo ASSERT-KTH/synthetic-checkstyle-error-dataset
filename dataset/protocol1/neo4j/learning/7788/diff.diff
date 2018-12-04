@@ -1,0 +1,4 @@
+159c159
+<             assertEquals( value, primitive.getProperty( key ) );
+---
+>             assertEquals( value	, primitive.getProperty( key ) );

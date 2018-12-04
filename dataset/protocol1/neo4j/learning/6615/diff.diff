@@ -1,0 +1,5 @@
+79c79,80
+<     boolean isDirectory( File file );
+---
+>     boolean isDirectory( File file 
+> );

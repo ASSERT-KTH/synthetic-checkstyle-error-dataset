@@ -1,0 +1,4 @@
+198c198
+<         try ( org.neo4j.graphdb.Transaction tx = graphDb.beginTx() )
+---
+>         try ( org.neo4j.graphdb.Transaction tx 	= graphDb.beginTx() )

@@ -1,0 +1,4 @@
+55c55
+<         return new DefaultTransactionTracer( monitor, jobScheduler );
+---
+>         return new DefaultTransactionTracer( 	monitor, jobScheduler );

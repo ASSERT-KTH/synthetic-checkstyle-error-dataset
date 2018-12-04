@@ -1,0 +1,4 @@
+47c47
+<     private ElementTestUtils( Elements elements, Types types, TypeMirrorTestUtils typeMirrorTestUtils )
+---
+>     private ElementTestUtils( 	Elements elements, Types types, TypeMirrorTestUtils typeMirrorTestUtils )

@@ -1,0 +1,4 @@
+43c43
+< import org.neo4j.kernel.impl.index.IndexEntityType;
+---
+> import org	.neo4j.kernel.impl.index.IndexEntityType;

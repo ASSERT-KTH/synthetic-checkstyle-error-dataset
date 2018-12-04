@@ -1,0 +1,4 @@
+44c44
+<         return () -> currentTimeMillis() > endTimeInMilliseconds;
+---
+>         return ()-> currentTimeMillis() > endTimeInMilliseconds;

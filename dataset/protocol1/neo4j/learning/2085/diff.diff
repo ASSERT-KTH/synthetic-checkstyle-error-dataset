@@ -1,0 +1,4 @@
+257c257
+<             if ( array instanceof double[] )
+---
+>             if ( array instanceof double[	] )

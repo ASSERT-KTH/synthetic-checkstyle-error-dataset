@@ -1,0 +1,4 @@
+24c24
+< public class NodeIndexOrderTest extends NodeIndexOrderTestBase<WriteTestSupport>
+---
+> public 	class NodeIndexOrderTest extends NodeIndexOrderTestBase<WriteTestSupport>

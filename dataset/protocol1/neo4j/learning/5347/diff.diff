@@ -1,0 +1,4 @@
+58c58
+<         PageCache pageCache = pageCacheRule.getPageCache( fileSystemRule.get() );
+---
+>         PageCache pageCache = pageCacheRule.	getPageCache( fileSystemRule.get() );

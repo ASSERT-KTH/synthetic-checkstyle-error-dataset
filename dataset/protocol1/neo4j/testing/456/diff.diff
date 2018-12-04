@@ -1,0 +1,5 @@
+64c64,65
+<     private static final long POINTER_B = 6;
+---
+>     private static final 
+> long POINTER_B = 6;

@@ -1,0 +1,4 @@
+48c48
+<     Collection<Injectable<?>> start( GraphDatabaseService graphDatabaseService, Configuration config );
+---
+>     Collection<Injectable<?>> 	start( GraphDatabaseService graphDatabaseService, Configuration config );

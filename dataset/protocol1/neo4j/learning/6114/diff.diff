@@ -1,0 +1,4 @@
+46c46
+<     static final String KEY_ANALYZER = "analyzer";
+---
+>     	static final String KEY_ANALYZER = "analyzer";

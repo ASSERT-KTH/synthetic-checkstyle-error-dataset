@@ -1,0 +1,5 @@
+887c887,888
+<         Map<String, ?> resultMap = (Map<String, ?>) ((List<?>) ((Map<String, ?>) (readJson( resultString ))).get("results")).get( 0 );
+---
+>         Map<String, ?> resultMap = (Map<String, ?>) ((List<?>) ((Map<String, ?>) (readJson( 
+> resultString ))).get("results")).get( 0 );

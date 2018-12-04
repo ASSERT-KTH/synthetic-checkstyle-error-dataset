@@ -1,0 +1,4 @@
+76c76
+<     private void buffer( long nodeReference, long relationshipReference )
+---
+>     private void buffer(long nodeReference, long relationshipReference )

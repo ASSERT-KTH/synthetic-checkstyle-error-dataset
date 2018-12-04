@@ -1,0 +1,5 @@
+246,247c246
+<         TestThrottleLock lockOverride = new TestThrottleLock();
+<         FakeClock clock = Clocks.fakeClock( 1, TimeUnit.SECONDS );
+---
+>         TestThrottleLock lockOverride = new TestThrottleLock();        FakeClock clock = Clocks.fakeClock( 1, TimeUnit.SECONDS );

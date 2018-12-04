@@ -1,0 +1,5 @@
+121c121,122
+<             return MathUtil.portion( getPageCacheHits(), getPageCacheMisses() );
+---
+>             
+> return MathUtil.portion( getPageCacheHits(), getPageCacheMisses() );

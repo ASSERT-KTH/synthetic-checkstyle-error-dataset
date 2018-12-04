@@ -1,0 +1,5 @@
+32,33c32
+< import org.neo4j.kernel.configuration.Config;
+< import org.neo4j.kernel.impl.storageengine.impl.recordstorage.PropertyRecordChange;
+---
+> import org.neo4j.kernel.configuration.Config;import org.neo4j.kernel.impl.storageengine.impl.recordstorage.PropertyRecordChange;

@@ -1,0 +1,5 @@
+163c163,164
+<         public RelationshipRepresentation( Representation<? super Node> nodes )
+---
+>         public 
+> RelationshipRepresentation( Representation<? super Node> nodes )

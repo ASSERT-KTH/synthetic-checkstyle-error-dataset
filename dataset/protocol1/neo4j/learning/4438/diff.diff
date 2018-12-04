@@ -1,0 +1,4 @@
+26c26
+<     public InvalidArgumentsException( String message )
+---
+>     public InvalidArgumentsException( String 	message )

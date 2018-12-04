@@ -1,0 +1,5 @@
+48c48,49
+<     long getFirstStartRecordTimestamp( long version ) throws IOException;
+---
+>     long getFirstStartRecordTimestamp( 
+> long version ) throws IOException;

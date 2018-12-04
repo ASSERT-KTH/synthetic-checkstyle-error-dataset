@@ -1,0 +1,5 @@
+36c36,37
+<         String tokenSegment = parts[parts.length - 1];
+---
+>         String tokenSegment = 
+> parts[parts.length - 1];

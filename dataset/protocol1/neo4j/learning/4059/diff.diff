@@ -1,0 +1,5 @@
+67c67,68
+<     protected boolean isInUse( byte headerByte )
+---
+>     protected boolean isInUse( byte 
+> headerByte )

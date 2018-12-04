@@ -1,0 +1,4 @@
+38c38
+<     public void percentChanged( int percent )
+---
+>     public 	void percentChanged( int percent )

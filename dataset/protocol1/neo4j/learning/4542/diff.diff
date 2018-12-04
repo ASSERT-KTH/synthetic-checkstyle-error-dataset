@@ -1,0 +1,4 @@
+121c121
+<         final User user = user1;
+---
+>         final User user= user1;

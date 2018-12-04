@@ -1,0 +1,5 @@
+47,48c47
+< import org.neo4j.register.Register;
+< import org.neo4j.register.Registers;
+---
+> import org.neo4j.register.Register;import org.neo4j.register.Registers;

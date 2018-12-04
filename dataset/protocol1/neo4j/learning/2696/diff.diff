@@ -1,0 +1,4 @@
+41c41
+<     double[] convert( Object[] data )
+---
+>     double[] convert( Object[] data)

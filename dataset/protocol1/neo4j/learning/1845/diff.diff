@@ -1,0 +1,4 @@
+51c51
+< public class BoltResponseMessageWriterV1 implements BoltResponseMessageWriter
+---
+> public class 	BoltResponseMessageWriterV1 implements BoltResponseMessageWriter

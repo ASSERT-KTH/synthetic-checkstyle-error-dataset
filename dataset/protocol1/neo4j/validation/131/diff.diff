@@ -1,0 +1,4 @@
+109c109
+<         return (int) (mix( identifier ) & faultLockMask);
+---
+>         	return (int) (mix( identifier ) & faultLockMask);

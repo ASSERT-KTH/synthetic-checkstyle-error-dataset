@@ -1,0 +1,5 @@
+55c55,56
+<     protected static final JsonFactory jsonFactory = new JsonFactory().disable( JsonGenerator.Feature.FLUSH_PASSED_TO_STREAM );
+---
+>     protected static 
+> final JsonFactory jsonFactory = new JsonFactory().disable( JsonGenerator.Feature.FLUSH_PASSED_TO_STREAM );

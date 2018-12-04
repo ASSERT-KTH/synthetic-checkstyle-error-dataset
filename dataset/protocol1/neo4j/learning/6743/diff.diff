@@ -1,0 +1,5 @@
+106c106,107
+<             System.arraycopy( lhs, l, merged, m, lhs.length - l );
+---
+>             System.arraycopy
+> ( lhs, l, merged, m, lhs.length - l );

@@ -1,0 +1,5 @@
+281c281,282
+<     private static long intPair( int left, int right )
+---
+>     private static 
+> long intPair( int left, int right )

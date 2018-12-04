@@ -1,0 +1,4 @@
+192c192
+<             node.property( "localTime", LocalTime.of( 1, i % 60, 0 ) );
+---
+>             node.property( "localTime", LocalTime.of( 1, i % 60, 0 ) )	;

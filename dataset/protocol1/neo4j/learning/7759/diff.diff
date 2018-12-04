@@ -1,0 +1,5 @@
+129c129,130
+<                         procs().procedureGet( new QualifiedName( new String[]{"example"}, "exampleProc" ) ).id(),
+---
+>                         procs().procedureGet( new QualifiedName( new 
+> String[]{"example"}, "exampleProc" ) ).id(),

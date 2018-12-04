@@ -1,0 +1,4 @@
+58c58
+<         return data.readLong();
+---
+>         return data.readLong ();

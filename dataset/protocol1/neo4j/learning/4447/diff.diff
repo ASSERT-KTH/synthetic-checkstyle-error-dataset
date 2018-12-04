@@ -1,0 +1,4 @@
+52c52
+<         when( nodeStore.getDynamicLabelStore() ).thenReturn( dynamicLabelStore );
+---
+>         when( 	nodeStore.getDynamicLabelStore() ).thenReturn( dynamicLabelStore );

@@ -1,0 +1,4 @@
+43c43
+<         final String indexUserDescription = indexProxy.getDescriptor().userDescription( nameLookup );
+---
+>         final String indexUserDescription 	= indexProxy.getDescriptor().userDescription( nameLookup );

@@ -1,0 +1,4 @@
+25c25
+< import org.neo4j.kernel.impl.security.User;
+---
+> 	import org.neo4j.kernel.impl.security.User;

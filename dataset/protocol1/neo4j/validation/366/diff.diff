@@ -1,0 +1,5 @@
+39,40c39
+< import static org.neo4j.values.storable.LocalTimeValue.localTime;
+< import static org.neo4j.values.storable.TimeValue.time;
+---
+> import static org.neo4j.values.storable.LocalTimeValue.localTime;import static org.neo4j.values.storable.TimeValue.time;

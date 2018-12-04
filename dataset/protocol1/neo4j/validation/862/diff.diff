@@ -1,0 +1,5 @@
+25,26c25
+< import org.neo4j.internal.kernel.api.schema.constraints.ConstraintDescriptor;
+< import org.neo4j.kernel.api.exceptions.Status;
+---
+> import org.neo4j.internal.kernel.api.schema.constraints.ConstraintDescriptor;import org.neo4j.kernel.api.exceptions.Status;

@@ -1,0 +1,5 @@
+65,66c65
+<      * @param quotationCharacter character to interpret quotation character.
+<      * @return a {@link CharSeeker} with optional {@link ThreadAheadReadable read-ahead} capability.
+---
+>      * @param quotationCharacter character to interpret quotation character.     * @return a {@link CharSeeker} with optional {@link ThreadAheadReadable read-ahead} capability.

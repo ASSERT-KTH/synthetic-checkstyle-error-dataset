@@ -1,0 +1,4 @@
+83c83
+<     protected abstract void progress( long progress );
+---
+>     protected 	abstract void progress( long progress );

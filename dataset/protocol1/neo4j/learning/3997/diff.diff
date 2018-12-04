@@ -1,0 +1,5 @@
+100c100,101
+<     public final SuppressOutput suppressOutput = SuppressOutput.suppress( SuppressOutput.System.values() );
+---
+>     public final SuppressOutput 
+> suppressOutput = SuppressOutput.suppress( SuppressOutput.System.values() );

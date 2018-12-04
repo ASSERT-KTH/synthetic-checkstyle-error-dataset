@@ -1,0 +1,4 @@
+124c124
+<         assertPaths( finder.findAllPaths( nodeA, nodeB ), "A,B" );
+---
+>         assertPaths( finder.findAllPaths( nodeA, nodeB ), 	"A,B" );

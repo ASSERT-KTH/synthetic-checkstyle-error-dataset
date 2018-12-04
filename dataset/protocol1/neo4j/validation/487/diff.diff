@@ -1,0 +1,4 @@
+604c604
+<           .append( totalWriteCount ).append( " for " ).append( resource ).append( "\n" )
+---
+>           .append( totalWriteCount ).append( " for " ).append( resource )	.append( "\n" )

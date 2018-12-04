@@ -1,0 +1,5 @@
+212,213c212
+<                              : Stream.of( files )
+<                                .filter( f -> fileSystem.isDirectory( f ) && StringUtils.isNumeric( f.getName() ) )
+---
+>                              : Stream.of( files )                               .filter( f -> fileSystem.isDirectory( f ) && StringUtils.isNumeric( f.getName() ) )

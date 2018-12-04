@@ -1,0 +1,5 @@
+60c60,61
+<         int result = nodes[0].hashCode();
+---
+>         int result 
+> = nodes[0].hashCode();

@@ -1,0 +1,5 @@
+22,23c22
+< import com.google.testing.compile.CompilationRule;
+< import com.google.testing.compile.CompileTester.UnsuccessfulCompilationClause;
+---
+> import com.google.testing.compile.CompilationRule;import com.google.testing.compile.CompileTester.UnsuccessfulCompilationClause;

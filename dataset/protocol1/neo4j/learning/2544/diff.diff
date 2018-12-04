@@ -1,0 +1,5 @@
+137c137,138
+<     private static void bulk( final LinkedList<Log> remaining, final ArrayList<Log> bulkLogs, final Consumer<Log> finalConsumer )
+---
+>     private static void bulk( final LinkedList<Log> 
+> remaining, final ArrayList<Log> bulkLogs, final Consumer<Log> finalConsumer )

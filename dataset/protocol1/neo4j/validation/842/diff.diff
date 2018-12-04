@@ -1,0 +1,5 @@
+26c26,27
+<     long rotate() throws IOException;
+---
+>     long rotate
+> () throws IOException;

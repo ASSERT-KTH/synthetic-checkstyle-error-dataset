@@ -1,0 +1,5 @@
+61,62c61
+<      * @param fileForAdditionalErrorInformationOrNull when in {@code strict} mode the exception can be
+<      * amended with information about which file the channel represents, if any. Purely for better forensics
+---
+>      * @param fileForAdditionalErrorInformationOrNull when in {@code strict} mode the exception can be     * amended with information about which file the channel represents, if any. Purely for better forensics

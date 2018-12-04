@@ -1,0 +1,5 @@
+33c33,34
+<     SCHEMA( CapabilityType.STORE ),
+---
+>     
+> SCHEMA( CapabilityType.STORE ),

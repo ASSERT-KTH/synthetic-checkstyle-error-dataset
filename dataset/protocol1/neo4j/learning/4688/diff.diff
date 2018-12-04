@@ -1,0 +1,4 @@
+202c202
+<         PropertyRecord before = readPropertyRecord( id, channel );
+---
+>         PropertyRecord before = readPropertyRecord( id, channel 	);

@@ -1,0 +1,4 @@
+45c45
+<     public void log( @Nonnull String message )
+---
+>     public 	void log( @Nonnull String message )

@@ -1,0 +1,4 @@
+51c51
+<     public Pair<String, String> evaluate( String script )
+---
+>     public Pair<String, String> evaluate( String script)

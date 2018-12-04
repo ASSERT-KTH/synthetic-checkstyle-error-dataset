@@ -1,0 +1,4 @@
+135c135
+<         return get( Lookup.field( fieldType, fieldName ), fieldType );
+---
+>         return get ( Lookup.field( fieldType, fieldName ), fieldType );

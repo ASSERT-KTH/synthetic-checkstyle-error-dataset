@@ -1,0 +1,4 @@
+53c53
+<         monitors.addMonitorListener( new LoggingMonitor( log ), descriptorString() );
+---
+>         monitors.addMonitorListener( new LoggingMonitor( log )	, descriptorString() );

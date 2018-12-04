@@ -1,0 +1,4 @@
+59c59
+<     File getPartitionFolder( int partition );
+---
+>     File getPartitionFolder( int partition 	);

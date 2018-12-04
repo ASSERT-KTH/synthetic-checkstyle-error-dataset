@@ -1,0 +1,4 @@
+70c70
+<     TestServerBuilder withExtension( String mountPath, Class<?> extension );
+---
+>     TestServerBuilder withExtension( String mountPath, Class<? > extension );

@@ -1,0 +1,5 @@
+121,122c121
+<         public void writeNodeReference( long nodeId )
+<         {
+---
+>         public void writeNodeReference( long nodeId )        {

@@ -1,0 +1,5 @@
+151,152c151
+<         private final MutableDouble otherSideShortest;
+<         private final double epsilon;
+---
+>         private final MutableDouble otherSideShortest;        private final double epsilon;

@@ -1,0 +1,4 @@
+22c22
+< public interface LabelSchemaSupplier extends SchemaDescriptorSupplier
+---
+> public 	interface LabelSchemaSupplier extends SchemaDescriptorSupplier

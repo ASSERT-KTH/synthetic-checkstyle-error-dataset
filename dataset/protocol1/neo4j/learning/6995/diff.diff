@@ -1,0 +1,4 @@
+259c259
+<         when( indexingService.snapshotIndexFiles() ).thenReturn( snapshot );
+---
+>         when( indexingService.snapshotIndexFiles() ).thenReturn( snapshot 	);

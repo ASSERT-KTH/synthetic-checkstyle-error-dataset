@@ -1,0 +1,5 @@
+26c26,27
+<     public static final DatabaseInfo COMMUNITY = new DatabaseInfo( Edition.community, OperationalMode.single );
+---
+>     public static final DatabaseInfo COMMUNITY = new DatabaseInfo( 
+> Edition.community, OperationalMode.single );

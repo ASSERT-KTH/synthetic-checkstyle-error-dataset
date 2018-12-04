@@ -1,0 +1,4 @@
+42c42
+< import org.neo4j.test.rule.ImpermanentDatabaseRule;
+---
+> import 	org.neo4j.test.rule.ImpermanentDatabaseRule;

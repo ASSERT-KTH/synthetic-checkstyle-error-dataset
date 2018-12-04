@@ -1,0 +1,5 @@
+121c121,122
+<         long estimatedCacheSize = gibiBytes( 2 );
+---
+>         long 
+> estimatedCacheSize = gibiBytes( 2 );

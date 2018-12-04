@@ -1,0 +1,4 @@
+42c42
+<         IndexProgressor[] parts = {mock(IndexProgressor.class), mock(IndexProgressor.class)};
+---
+>         IndexProgressor[] parts = {mock(IndexProgressor.class	), mock(IndexProgressor.class)};

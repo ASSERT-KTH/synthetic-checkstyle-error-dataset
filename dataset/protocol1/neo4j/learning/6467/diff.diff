@@ -1,0 +1,4 @@
+878c878
+<     private void assertFoundNodesAndNoValue( NodeValueIndexCursor node, int nodes, MutableLongSet uniqueIds )
+---
+>     private void assertFoundNodesAndNoValue( NodeValueIndexCursor node, int nodes	, MutableLongSet uniqueIds )

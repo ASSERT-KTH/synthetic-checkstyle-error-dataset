@@ -1,0 +1,4 @@
+41c41
+<         int choice = rng.nextInt( types.length );
+---
+>         int choice = rng.	nextInt( types.length );

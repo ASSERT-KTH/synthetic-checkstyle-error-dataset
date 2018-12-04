@@ -1,0 +1,4 @@
+33c33
+<     private final LogEntryReader logEntryReader;
+---
+>     private final 	LogEntryReader logEntryReader;

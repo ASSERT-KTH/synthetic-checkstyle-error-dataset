@@ -1,0 +1,4 @@
+65c65
+<             long val1 = value & ~LENGTH_BITS;
+---
+>             long val1= value & ~LENGTH_BITS;

@@ -1,0 +1,4 @@
+69c69
+<     void apply( Material material ) throws Exception;
+---
+>     void 	apply( Material material ) throws Exception;

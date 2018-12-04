@@ -1,0 +1,5 @@
+141,142c141
+<         first.setData( RandomUtils.nextBytes( dataSize == 0 ? BLOCK_SIZE - formats.dynamic().getRecordHeaderSize() : 10 ) );
+<         store.updateRecord( first );
+---
+>         first.setData( RandomUtils.nextBytes( dataSize == 0 ? BLOCK_SIZE - formats.dynamic().getRecordHeaderSize() : 10 ) );        store.updateRecord( first );

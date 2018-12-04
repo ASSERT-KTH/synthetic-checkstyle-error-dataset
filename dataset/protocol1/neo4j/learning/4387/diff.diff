@@ -1,0 +1,4 @@
+49c49
+<     private Function<String,NumericDocValues> ndvs = s -> DocValues.emptyNumeric();
+---
+>     	private Function<String,NumericDocValues> ndvs = s -> DocValues.emptyNumeric();

@@ -1,0 +1,4 @@
+42c42
+<     public int compareTo( FormatFamily formatFamily )
+---
+>     public int compareTo ( FormatFamily formatFamily )

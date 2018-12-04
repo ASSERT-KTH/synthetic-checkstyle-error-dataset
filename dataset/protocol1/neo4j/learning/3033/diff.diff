@@ -1,0 +1,4 @@
+56c56
+<         fixture = prepareDirectoryAndPageCache( LongArrayTest.class );
+---
+>         fixture 	= prepareDirectoryAndPageCache( LongArrayTest.class );

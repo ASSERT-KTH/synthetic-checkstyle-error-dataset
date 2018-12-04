@@ -1,0 +1,4 @@
+50c50
+<         return format( "-[%d]-", id );
+---
+>         return format( "-[%d]-", id )	;

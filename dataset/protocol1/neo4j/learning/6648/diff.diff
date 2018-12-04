@@ -1,0 +1,5 @@
+43,44c43
+<  * thread can also verify their consistency, by taking the sum of their respective N field across all records, and
+<  * comparing it to the number of increments they've done. The records are protected by entity locks, since page write
+---
+>  * thread can also verify their consistency, by taking the sum of their respective N field across all records, and * comparing it to the number of increments they've done. The records are protected by entity locks, since page write

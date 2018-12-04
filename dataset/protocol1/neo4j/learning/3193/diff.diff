@@ -1,0 +1,5 @@
+65,66c65
+<         Configuration config = config();
+<         ProgressExecutionMonitor progressExecutionMonitor = new ProgressExecutionMonitor( batchSize, config );
+---
+>         Configuration config = config();        ProgressExecutionMonitor progressExecutionMonitor = new ProgressExecutionMonitor( batchSize, config );

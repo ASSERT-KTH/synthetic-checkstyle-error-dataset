@@ -1,0 +1,5 @@
+77c77,78
+<         long nextRelId = direction.fieldFor( nodeId, currentRecord ).relOf( currentRecord );
+---
+>         long 
+> nextRelId = direction.fieldFor( nodeId, currentRecord ).relOf( currentRecord );

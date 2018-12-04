@@ -1,0 +1,5 @@
+61c61,62
+<     private static final class AdditiveLabelsDecorator extends InputEntityVisitor.Delegate
+---
+>     private static final class AdditiveLabelsDecorator extends 
+> InputEntityVisitor.Delegate

@@ -1,0 +1,4 @@
+34c34
+<         Table table = mock( Table.class );
+---
+>         Table table = mock( 	Table.class );

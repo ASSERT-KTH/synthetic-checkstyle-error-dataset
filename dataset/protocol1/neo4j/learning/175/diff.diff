@@ -1,0 +1,4 @@
+136c136
+<     GenericLayout layout( StoreIndexDescriptor descriptor, File storeFile )
+---
+>     GenericLayout layout( StoreIndexDescriptor descriptor, 	File storeFile )

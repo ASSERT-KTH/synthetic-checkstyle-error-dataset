@@ -1,0 +1,4 @@
+44c44
+<         this.relationshipTypeTokenStore = neoStores.getRelationshipTypeTokenStore();
+---
+>         this.relationshipTypeTokenStore = neoStores.getRelationshipTypeTokenStore ();

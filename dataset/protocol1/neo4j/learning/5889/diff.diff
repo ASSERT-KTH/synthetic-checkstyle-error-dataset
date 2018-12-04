@@ -1,0 +1,5 @@
+222c222,223
+<     public void instanceOf( TypeReference type, Expression expression )
+---
+>     public void 
+> instanceOf( TypeReference type, Expression expression )

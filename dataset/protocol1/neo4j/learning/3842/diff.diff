@@ -1,0 +1,4 @@
+37c37
+<     Credential INACCESSIBLE = new Credential()
+---
+>     Credential INACCESSIBLE = new Credential(	)

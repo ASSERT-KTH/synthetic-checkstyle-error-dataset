@@ -1,0 +1,5 @@
+89c89,90
+<         monitor.takesArgs( "ha", 12, obj );
+---
+>         monitor.takesArgs
+> ( "ha", 12, obj );

@@ -1,0 +1,5 @@
+27c27,28
+<     LifecycleStatus status = LifecycleStatus.NONE;
+---
+>     LifecycleStatus status = 
+> LifecycleStatus.NONE;

@@ -1,0 +1,5 @@
+70,71c70
+<             txSize = 0;
+<             intermediaryCommit();
+---
+>             txSize = 0;            intermediaryCommit();

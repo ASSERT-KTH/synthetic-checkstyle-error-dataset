@@ -1,0 +1,4 @@
+122c122
+<     public void setLastCommittedAndClosedTransactionId( long transactionId, long checksum, long commitTimestamp,
+---
+>     public void setLastCommittedAndClosedTransactionId( 	long transactionId, long checksum, long commitTimestamp,

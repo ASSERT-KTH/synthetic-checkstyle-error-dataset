@@ -1,0 +1,4 @@
+474c474
+<         Value.parseHeaderInformation( text, "time/datetime", fields );
+---
+>         Value.parseHeaderInformation( 	text, "time/datetime", fields );

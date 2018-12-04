@@ -1,0 +1,4 @@
+27c27
+< public abstract class DynamicLocksFactory extends Service implements LocksFactory
+---
+> public abstract class DynamicLocksFactory extends Service 	implements LocksFactory

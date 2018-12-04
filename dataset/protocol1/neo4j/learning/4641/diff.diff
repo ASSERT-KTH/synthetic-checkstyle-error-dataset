@@ -1,0 +1,5 @@
+31,32c31
+<     public TestPropertyAccessor( List<Value> propertyValues )
+<     {
+---
+>     public TestPropertyAccessor( List<Value> propertyValues )    {

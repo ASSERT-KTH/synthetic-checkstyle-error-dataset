@@ -1,0 +1,4 @@
+77c77
+<     public void visitRelationshipCount( int startLabelId, int typeId, int endLabelId, long count )
+---
+>     public void visitRelationshipCount( int startLabelId, int typeId, int endLabelId, 	long count )

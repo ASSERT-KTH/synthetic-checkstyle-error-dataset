@@ -1,0 +1,4 @@
+30c30
+<         if ( target instanceof Configuration )
+---
+>         if 	( target instanceof Configuration )

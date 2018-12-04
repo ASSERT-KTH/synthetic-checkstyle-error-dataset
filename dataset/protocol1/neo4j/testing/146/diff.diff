@@ -1,0 +1,5 @@
+46,47c46
+<         public void ensureHeavy( Object o )
+<         {
+---
+>         public void ensureHeavy( Object o )        {

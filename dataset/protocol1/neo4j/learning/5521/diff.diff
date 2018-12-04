@@ -1,0 +1,5 @@
+318c318,319
+<             return Objects.equals( position, that.position ) &&
+---
+>             return Objects.equals
+> ( position, that.position ) &&

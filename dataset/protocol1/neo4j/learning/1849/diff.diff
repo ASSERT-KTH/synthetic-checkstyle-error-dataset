@@ -1,0 +1,4 @@
+55c55
+<         when( config.jobLimit() ).thenReturn( 2 );
+---
+>         when( config.jobLimit() ).thenReturn( 	2 );

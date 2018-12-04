@@ -1,0 +1,4 @@
+41c41
+<             if ( client.acceptNode( ids.next(), (Value[]) null ) )
+---
+>             if ( client.acceptNode( ids.next(), ( Value[]) null ) )

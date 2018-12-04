@@ -1,0 +1,4 @@
+102c102
+<             this.participants.add( participant );
+---
+>             this.participants.add( 	participant );

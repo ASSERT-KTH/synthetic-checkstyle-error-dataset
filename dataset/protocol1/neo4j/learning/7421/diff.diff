@@ -1,0 +1,5 @@
+190c190,191
+<             ScoreEntityIterator.ScoreEntry scoredResult = result.next();
+---
+>             ScoreEntityIterator.ScoreEntry 
+> scoredResult = result.next();

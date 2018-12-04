@@ -1,0 +1,4 @@
+43c43
+< public @interface Documented
+---
+> 	public @interface Documented

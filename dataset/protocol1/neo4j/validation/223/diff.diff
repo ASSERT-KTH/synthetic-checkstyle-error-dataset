@@ -1,0 +1,5 @@
+50,51c50
+<             Node node1 = service.createNode();
+<             Node node2 = service.createNode();
+---
+>             Node node1 = service.createNode();            Node node2 = service.createNode();

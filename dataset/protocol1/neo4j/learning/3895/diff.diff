@@ -1,0 +1,4 @@
+80c80
+<     public void validateSchemaRule( SchemaRule schemaRule ) throws TransactionFailureException
+---
+>     public void validateSchemaRule ( SchemaRule schemaRule ) throws TransactionFailureException

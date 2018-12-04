@@ -1,0 +1,4 @@
+30c30
+< import org.neo4j.kernel.configuration.Config;
+---
+> import org.neo4j.kernel.	configuration.Config;

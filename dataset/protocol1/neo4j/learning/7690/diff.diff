@@ -1,0 +1,4 @@
+35c35
+<     public int compareTo( FloatingPointArray other )
+---
+>     	public int compareTo( FloatingPointArray other )

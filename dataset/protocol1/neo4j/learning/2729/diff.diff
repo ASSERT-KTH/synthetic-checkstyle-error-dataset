@@ -1,0 +1,5 @@
+37,38c37
+<     protected static final int HEADER_SIZE = 1;
+<     private final int inUseBitMaskForFirstByte;
+---
+>     protected static final int HEADER_SIZE = 1;    private final int inUseBitMaskForFirstByte;

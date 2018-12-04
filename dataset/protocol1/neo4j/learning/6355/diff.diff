@@ -1,0 +1,4 @@
+45c45
+<     TestDirectory testDirectory;
+---
+>     TestDirectory testDirectory	;

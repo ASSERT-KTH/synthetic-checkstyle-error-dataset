@@ -1,0 +1,4 @@
+170c170
+<         return IndexQueryHelper.remove( nodeId, index.schema(), oldValue );
+---
+>         return IndexQueryHelper.remove( nodeId, index	.schema(), oldValue );

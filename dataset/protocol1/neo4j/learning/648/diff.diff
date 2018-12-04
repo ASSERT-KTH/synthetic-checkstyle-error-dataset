@@ -1,0 +1,4 @@
+60c60
+<         when( neoStores.getRelationshipGroupStore() ).thenReturn( relationshipGroupStore );
+---
+>         when( neoStores.getRelationshipGroupStore () ).thenReturn( relationshipGroupStore );

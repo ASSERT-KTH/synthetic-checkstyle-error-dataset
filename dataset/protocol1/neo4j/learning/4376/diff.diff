@@ -1,0 +1,4 @@
+39c39
+<         else if ( jettyMaxThreads > MAX_THREADS )
+---
+>         else if ( 	jettyMaxThreads > MAX_THREADS )

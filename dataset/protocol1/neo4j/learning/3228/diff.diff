@@ -1,0 +1,4 @@
+160c160
+<         assertEquals( 0, estimates.numberOfRelationshipProperties() );
+---
+>         assertEquals( 0, estimates.numberOfRelationshipProperties(	) );

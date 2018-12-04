@@ -1,0 +1,5 @@
+62c62,63
+<         float comparison = 0.5f;
+---
+>         float comparison 
+> = 0.5f;

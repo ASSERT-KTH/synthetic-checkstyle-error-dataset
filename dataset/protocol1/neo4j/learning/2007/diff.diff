@@ -1,0 +1,5 @@
+68,69c68
+<         final List<String> states = new ArrayList<>();
+<         final Barrier.Control phaseA = new Barrier.Control();
+---
+>         final List<String> states = new ArrayList<>();        final Barrier.Control phaseA = new Barrier.Control();

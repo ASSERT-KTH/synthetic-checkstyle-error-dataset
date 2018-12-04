@@ -1,0 +1,4 @@
+66c66
+<     N at( long index );
+---
+>     N at( long index 	);

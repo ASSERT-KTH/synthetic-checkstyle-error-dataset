@@ -1,0 +1,5 @@
+68,69c68
+<                 .properties();
+<         assertThat( properties,
+---
+>                 .properties();        assertThat( properties,

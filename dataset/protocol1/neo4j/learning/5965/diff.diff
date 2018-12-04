@@ -1,0 +1,5 @@
+28,29c28
+<     Object get( GraphDatabaseAPI graphDb, ParameterList parameters, String name ) throws BadInputException
+<     {
+---
+>     Object get( GraphDatabaseAPI graphDb, ParameterList parameters, String name ) throws BadInputException    {

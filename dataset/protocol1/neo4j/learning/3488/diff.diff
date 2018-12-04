@@ -1,0 +1,4 @@
+162c162
+<         StoreFileMetadata fileMetadata = Iterators.last( neoStoreDataSource.listStoreFiles( true ) );
+---
+>         StoreFileMetadata fileMetadata = Iterators.last( neoStoreDataSource	.listStoreFiles( true ) );

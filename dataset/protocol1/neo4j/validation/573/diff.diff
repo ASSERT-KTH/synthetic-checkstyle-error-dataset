@@ -1,0 +1,4 @@
+161c161
+<         assertSame( FALSE, and( FALSE, expression ) );
+---
+>         assertSame( FALSE, 	and( FALSE, expression ) );

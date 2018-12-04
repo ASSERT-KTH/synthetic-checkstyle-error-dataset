@@ -1,0 +1,4 @@
+50c50
+<     public NodePropertySchemaInfoResult( String nodeType, List<String> nodeLabelsList, String propertyName, List<String> cypherTypes, boolean mandatory )
+---
+>     public NodePropertySchemaInfoResult( String nodeType, List<String> nodeLabelsList, String propertyName, List<String> cypherTypes, 	boolean mandatory )

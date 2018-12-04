@@ -1,0 +1,4 @@
+126c126
+<         NodeRecord node = new NodeRecord( id );
+---
+>         	NodeRecord node = new NodeRecord( id );

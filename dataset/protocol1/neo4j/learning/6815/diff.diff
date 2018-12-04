@@ -1,0 +1,4 @@
+106c106
+<         public Directory open( File dir )
+---
+>         public Directory 	open( File dir )

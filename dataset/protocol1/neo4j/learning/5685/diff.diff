@@ -1,0 +1,5 @@
+191c191,192
+<     public static Expression or( final Expression lhs, final Expression rhs )
+---
+>     public 
+> static Expression or( final Expression lhs, final Expression rhs )

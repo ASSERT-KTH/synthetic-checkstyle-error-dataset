@@ -1,0 +1,4 @@
+51c51
+<         return new Implementation( resourceType, resourceId )
+---
+>         return new Implementation( resourceType, resourceId 	)

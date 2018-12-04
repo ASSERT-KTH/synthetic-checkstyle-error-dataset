@@ -1,0 +1,5 @@
+84c84,85
+<                             Node node = db.createNode();
+---
+>                             Node node = 
+> db.createNode();

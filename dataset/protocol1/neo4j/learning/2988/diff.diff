@@ -1,0 +1,5 @@
+49c49,50
+<     int getInt() throws IOException;
+---
+>     
+> int getInt() throws IOException;

@@ -1,0 +1,5 @@
+26c26,27
+<     void encode( Neo4jPack.Packer packer, T message ) throws IOException;
+---
+>     
+> void encode( Neo4jPack.Packer packer, T message ) throws IOException;

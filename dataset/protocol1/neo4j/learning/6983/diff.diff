@@ -1,0 +1,4 @@
+95c95
+< import static org.hamcrest.CoreMatchers.is;
+---
+> import static org.hamcrest.CoreMatchers.is	;

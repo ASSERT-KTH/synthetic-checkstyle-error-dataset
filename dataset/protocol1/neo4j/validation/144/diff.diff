@@ -1,0 +1,4 @@
+24c24
+<     CheckPointTracer NULL = () -> LogCheckPointEvent.NULL;
+---
+>     CheckPointTracer NULL = (	) -> LogCheckPointEvent.NULL;

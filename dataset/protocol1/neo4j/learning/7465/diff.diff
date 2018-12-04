@@ -1,0 +1,5 @@
+80,81c80
+<      * @return {@code true} if this step has received AND processed all batches from upstream, or in
+<      * the case of a producer, that this step has produced all batches.
+---
+>      * @return {@code true} if this step has received AND processed all batches from upstream, or in     * the case of a producer, that this step has produced all batches.

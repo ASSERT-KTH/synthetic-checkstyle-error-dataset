@@ -1,0 +1,4 @@
+260c260
+<                     log.error( "Failed to commit transaction.", e );
+---
+>                     	log.error( "Failed to commit transaction.", e );

@@ -1,0 +1,5 @@
+103,104c103
+<             Iterator<StorageProperty> changed, IntIterable removed )
+<     {
+---
+>             Iterator<StorageProperty> changed, IntIterable removed )    {

@@ -1,0 +1,4 @@
+48c48
+<             nodeStore.getRecord( nodeId, nodeRecord, RecordLoad.FORCE );
+---
+>             nodeStore.getRecord( nodeId, nodeRecord, RecordLoad	.FORCE );

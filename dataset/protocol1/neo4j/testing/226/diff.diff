@@ -1,0 +1,4 @@
+146c146
+<                     current.setLength( current.length() - 1 );
+---
+>                     current.setLength( current.length(	) - 1 );

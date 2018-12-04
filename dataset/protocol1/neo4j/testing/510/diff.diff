@@ -1,0 +1,5 @@
+124c124,125
+<                             verifyNodeCorrectlyIndexedUniquely( nodeId, values, engine, indexRule, reader );
+---
+>                             verifyNodeCorrectlyIndexedUniquely
+> ( nodeId, values, engine, indexRule, reader );

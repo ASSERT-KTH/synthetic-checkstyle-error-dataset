@@ -1,0 +1,4 @@
+46c46
+<         WebServer webServer = mock( WebServer.class );
+---
+>         WebServer webServer = mock( WebServer.class 	);

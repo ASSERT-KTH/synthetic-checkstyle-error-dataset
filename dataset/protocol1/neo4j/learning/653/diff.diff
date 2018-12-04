@@ -1,0 +1,4 @@
+24c24
+<     public UnexpectedEndOfInputException( String message )
+---
+>     public UnexpectedEndOfInputException ( String message )

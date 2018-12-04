@@ -1,0 +1,4 @@
+65c65
+<                     if ( activeTransaction.markForTermination( Status.Transaction.TransactionTimedOut ) )
+---
+>                     if (activeTransaction.markForTermination( Status.Transaction.TransactionTimedOut ) )

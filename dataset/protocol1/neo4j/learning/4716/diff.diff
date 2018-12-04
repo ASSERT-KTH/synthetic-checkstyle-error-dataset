@@ -1,0 +1,4 @@
+263c263
+<         BoltProtocolFactory handlerFactory = newProtocolFactory( 1, protocol );
+---
+>         BoltProtocolFactory 	handlerFactory = newProtocolFactory( 1, protocol );

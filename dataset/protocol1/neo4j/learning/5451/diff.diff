@@ -1,0 +1,5 @@
+29,30c29
+<     protected Action( Command command, String format, Object... parameters )
+<     {
+---
+>     protected Action( Command command, String format, Object... parameters )    {

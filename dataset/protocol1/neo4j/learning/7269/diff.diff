@@ -1,0 +1,5 @@
+44c44,45
+<         return format( schema, context, tokenNameLookup );
+---
+>         return format( schema, context, tokenNameLookup 
+> );

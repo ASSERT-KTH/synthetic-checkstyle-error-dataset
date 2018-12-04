@@ -1,0 +1,5 @@
+370c370,371
+<         assertFalse( clientB.trySharedLock( NODE, 1000 ) );
+---
+>         assertFalse( clientB.trySharedLock( NODE, 1000 ) 
+> );

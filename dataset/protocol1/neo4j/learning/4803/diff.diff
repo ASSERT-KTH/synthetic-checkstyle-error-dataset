@@ -1,0 +1,5 @@
+50,51c50
+<         long index = 243;
+<         int value = 5485748;
+---
+>         long index = 243;        int value = 5485748;

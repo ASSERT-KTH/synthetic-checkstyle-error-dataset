@@ -1,0 +1,5 @@
+152,153c152
+<             lock.readLock().unlock();
+<         }
+---
+>             lock.readLock().unlock();        }

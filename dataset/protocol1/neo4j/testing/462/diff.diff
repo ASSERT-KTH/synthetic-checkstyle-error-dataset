@@ -1,0 +1,5 @@
+108c108,109
+<             if ( schema.entityType() == EntityType.NODE && schema.isAffected( labels ) )
+---
+>             if ( schema.entityType() == EntityType.NODE 
+> && schema.isAffected( labels ) )

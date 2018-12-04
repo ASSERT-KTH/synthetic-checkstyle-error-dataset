@@ -1,0 +1,5 @@
+29,30c29
+<         super( creator );
+<         super.config.put( GraphDatabaseSettings.pagecache_memory.name(), "8m" );
+---
+>         super( creator );        super.config.put( GraphDatabaseSettings.pagecache_memory.name(), "8m" );

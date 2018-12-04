@@ -1,0 +1,4 @@
+44c44
+< import static org.junit.Assert.assertNotEquals;
+---
+> import 	static org.junit.Assert.assertNotEquals;

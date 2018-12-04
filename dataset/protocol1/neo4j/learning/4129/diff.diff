@@ -1,0 +1,5 @@
+40c40,41
+<         return next.length() == 0 ? 0d : evaluator.getCost(
+---
+>         return next.length() == 
+> 0 ? 0d : evaluator.getCost(

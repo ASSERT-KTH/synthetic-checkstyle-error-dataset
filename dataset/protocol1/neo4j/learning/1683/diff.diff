@@ -1,0 +1,5 @@
+28,29c28
+< import org.neo4j.internal.kernel.api.IndexOrder;
+< import org.neo4j.internal.kernel.api.IndexQuery;
+---
+> import org.neo4j.internal.kernel.api.IndexOrder;import org.neo4j.internal.kernel.api.IndexQuery;

@@ -1,0 +1,4 @@
+38c38
+<     public int getNextFreePort( String trace )
+---
+>     public int 	getNextFreePort( String trace )

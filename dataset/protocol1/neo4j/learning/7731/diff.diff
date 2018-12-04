@@ -1,0 +1,4 @@
+68c68
+<     public void stopAutoIndexingProperty( String propName )
+---
+>     	public void stopAutoIndexingProperty( String propName )

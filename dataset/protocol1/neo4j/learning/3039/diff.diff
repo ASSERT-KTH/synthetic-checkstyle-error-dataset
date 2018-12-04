@@ -1,0 +1,4 @@
+81c81
+<         Collection<T> items = new ArrayList<>( queue.size() );
+---
+>         Collection<T> items = new ArrayList<>( queue.size(	) );

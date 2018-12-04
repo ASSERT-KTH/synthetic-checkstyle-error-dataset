@@ -1,0 +1,5 @@
+75c75,76
+<         Index<Node> index = createNodeIndex( db );
+---
+>         
+> Index<Node> index = createNodeIndex( db );

@@ -1,0 +1,4 @@
+80c80
+<         cleanupRule.add( indexReference );
+---
+>         cleanupRule.add( indexReference 	);

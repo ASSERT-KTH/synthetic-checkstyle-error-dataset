@@ -1,0 +1,5 @@
+68c68,69
+<     int relationshipTypeCreateForName( String relationshipTypeName ) throws IllegalTokenNameException;
+---
+>     int relationshipTypeCreateForName( String relationshipTypeName ) throws 
+> IllegalTokenNameException;

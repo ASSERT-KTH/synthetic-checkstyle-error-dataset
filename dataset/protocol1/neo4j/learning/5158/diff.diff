@@ -1,0 +1,5 @@
+61c61,62
+<     public void shouldOnlyRecordTheFirstFieldOfTheUserAgentString() throws IOException, ServletException
+---
+>     public void shouldOnlyRecordTheFirstFieldOfTheUserAgentString() 
+> throws IOException, ServletException

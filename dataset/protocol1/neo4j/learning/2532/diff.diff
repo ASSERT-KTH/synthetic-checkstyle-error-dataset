@@ -1,0 +1,4 @@
+51c51
+<     private final Map<String, String> configOverrides;
+---
+>     private final Map<String, String > configOverrides;

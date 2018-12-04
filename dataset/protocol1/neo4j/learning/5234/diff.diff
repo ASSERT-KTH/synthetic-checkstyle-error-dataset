@@ -1,0 +1,5 @@
+42,43c42
+<     public InputStreamAwaiter( Clock clock, InputStream input )
+<     {
+---
+>     public InputStreamAwaiter( Clock clock, InputStream input )    {

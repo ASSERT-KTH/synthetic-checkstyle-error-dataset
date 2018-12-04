@@ -1,0 +1,5 @@
+198c198,199
+<         public BiFunction<Double,Double,Boolean> interestFunction()
+---
+>         
+> public BiFunction<Double,Double,Boolean> interestFunction()

@@ -1,0 +1,4 @@
+126c126
+<             result.append( pre ).append( field ).append( ": " ).append( get( field ) );
+---
+>             result.append( pre ).append( field ).append( ": " ).append( get( field ) 	);

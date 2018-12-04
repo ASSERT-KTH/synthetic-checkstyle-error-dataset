@@ -1,0 +1,4 @@
+69c69
+<         verifyOverhead( node, oneByteKeyMax + 1, oneByteValueMax +  1, 4 );
+---
+>         verifyOverhead( node, oneByteKeyMax + 1, oneByteValueMax +  1, 4 )	;

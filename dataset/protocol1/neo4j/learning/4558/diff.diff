@@ -1,0 +1,5 @@
+36c36,37
+<     public LockAcquisitionTimeoutException( ResourceType resourceType, long resourceId, long timeoutMillis )
+---
+>     public LockAcquisitionTimeoutException( ResourceType resourceType, long 
+> resourceId, long timeoutMillis )

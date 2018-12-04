@@ -1,0 +1,5 @@
+51c51,52
+<     public static final String INTEGER = RepresentationType.INTEGER.valueName;
+---
+>     public static final String INTEGER = 
+> RepresentationType.INTEGER.valueName;

@@ -1,0 +1,4 @@
+71c71
+<             previousDepth.set( branch.length() );
+---
+>             previousDepth.set( branch.length() 	);

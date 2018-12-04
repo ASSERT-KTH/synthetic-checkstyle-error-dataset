@@ -1,0 +1,5 @@
+24c24,25
+< public class TransportThrottleException extends BoltConnectionFatality
+---
+> public class TransportThrottleException extends 
+> BoltConnectionFatality

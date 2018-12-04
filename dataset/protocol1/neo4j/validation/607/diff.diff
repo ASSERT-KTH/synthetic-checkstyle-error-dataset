@@ -1,0 +1,4 @@
+27c27
+< import org.neo4j.kernel.api.exceptions.ResourceCloseFailureException;
+---
+> import org.neo4j.kernel	.api.exceptions.ResourceCloseFailureException;

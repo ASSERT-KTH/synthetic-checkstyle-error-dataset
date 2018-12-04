@@ -1,0 +1,4 @@
+71c71
+<         assertThat( machine.state(), instanceOf( FailedState.class ) );
+---
+>         assertThat( machine.state(), instanceOf( FailedState.class ) 	);

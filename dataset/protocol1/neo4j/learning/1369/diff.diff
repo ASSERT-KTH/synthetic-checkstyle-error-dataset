@@ -1,0 +1,4 @@
+27c27
+< public class DatabaseProvider extends InjectableProvider<Database>
+---
+> public class DatabaseProvider extends InjectableProvider <Database>

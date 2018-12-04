@@ -1,0 +1,4 @@
+166c166
+<         String newName = String.format( "%s [%s] ", originalName, connection.remoteAddress() );
+---
+>         String newName = 	String.format( "%s [%s] ", originalName, connection.remoteAddress() );

@@ -1,0 +1,5 @@
+146c146,147
+<         assertTrue( SchemaDescriptorPredicates.hasProperty( rule, propId( b ) ) );
+---
+>         assertTrue( SchemaDescriptorPredicates.hasProperty
+> ( rule, propId( b ) ) );

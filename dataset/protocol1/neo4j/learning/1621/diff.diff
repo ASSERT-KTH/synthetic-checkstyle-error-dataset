@@ -1,0 +1,5 @@
+183,184c183
+<         int[] typeIds = relTypeIds( types, transaction.tokenRead() );
+<         return innerHasRelationships( transaction, direction, typeIds );
+---
+>         int[] typeIds = relTypeIds( types, transaction.tokenRead() );        return innerHasRelationships( transaction, direction, typeIds );

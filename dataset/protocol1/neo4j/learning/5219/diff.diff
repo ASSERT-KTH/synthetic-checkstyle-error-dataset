@@ -1,0 +1,5 @@
+84c84,85
+<         TestAnotherGeneralSection testAnotherGeneralSection = new TestAnotherGeneralSection();
+---
+>         TestAnotherGeneralSection testAnotherGeneralSection = 
+> new TestAnotherGeneralSection();

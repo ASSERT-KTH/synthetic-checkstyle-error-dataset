@@ -1,0 +1,4 @@
+26c26
+<     public DatabaseIndexIndexProviderApprovalTest( TestValue value )
+---
+>     public DatabaseIndexIndexProviderApprovalTest( TestValue 	value )

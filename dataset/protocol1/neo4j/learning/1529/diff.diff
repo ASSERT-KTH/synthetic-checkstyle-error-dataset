@@ -1,0 +1,4 @@
+41c41
+<         uris.forEach( ( key, uri ) ->
+---
+>         uris.forEach( (key, uri ) ->

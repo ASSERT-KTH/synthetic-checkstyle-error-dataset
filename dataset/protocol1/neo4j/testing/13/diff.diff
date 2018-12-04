@@ -1,0 +1,5 @@
+61,62c61
+<         when( indexDir.isDirectory() ).thenReturn( true );
+<         when( indexDir.listFiles()).thenReturn( new File[] {indexFile} );
+---
+>         when( indexDir.isDirectory() ).thenReturn( true );        when( indexDir.listFiles()).thenReturn( new File[] {indexFile} );

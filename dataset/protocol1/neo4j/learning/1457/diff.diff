@@ -1,0 +1,4 @@
+101c101
+<             throwable.printStackTrace( out );
+---
+>             throwable	.printStackTrace( out );

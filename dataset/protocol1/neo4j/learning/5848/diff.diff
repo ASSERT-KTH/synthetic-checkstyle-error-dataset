@@ -1,0 +1,5 @@
+71c71,72
+<         when( source.getFirstStartRecordTimestamp( version ) ).thenReturn( 800L );
+---
+>         
+> when( source.getFirstStartRecordTimestamp( version ) ).thenReturn( 800L );

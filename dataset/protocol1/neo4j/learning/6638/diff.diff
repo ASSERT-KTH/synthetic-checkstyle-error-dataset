@@ -1,0 +1,4 @@
+37c37
+<     public DefaultBoltProtocolFactory( BoltConnectionFactory connectionFactory, BoltStateMachineFactory stateMachineFactory,
+---
+>     public DefaultBoltProtocolFactory( BoltConnectionFactory connectionFactory, 	BoltStateMachineFactory stateMachineFactory,

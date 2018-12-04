@@ -1,0 +1,4 @@
+76c76
+<     void relationshipTypeDoCreateForName( String relationshipTypeName, int id );
+---
+>     void relationshipTypeDoCreateForName( String 	relationshipTypeName, int id );

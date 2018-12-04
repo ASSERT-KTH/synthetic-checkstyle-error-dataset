@@ -1,0 +1,4 @@
+41c41
+<         if ( fileSystem.fileExists( migratedFile ) )
+---
+>         if( fileSystem.fileExists( migratedFile ) )

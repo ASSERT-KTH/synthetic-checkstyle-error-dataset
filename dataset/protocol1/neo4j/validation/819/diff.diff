@@ -1,0 +1,4 @@
+112c112
+<                     cursor.initialize( descriptor, IndexProgressor.EMPTY, predicates, indexOrder, needsValues );
+---
+>                     cursor.initialize( descriptor, IndexProgressor.EMPTY, predicates, indexOrder, 	needsValues );

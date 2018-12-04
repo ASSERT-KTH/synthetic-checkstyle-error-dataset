@@ -1,0 +1,4 @@
+62c62
+<         assertEquals( Group.GLOBAL, groups.getOrCreate( null ) );
+---
+>         assertEquals( Group.GLOBAL, groups.getOrCreate( null 	) );

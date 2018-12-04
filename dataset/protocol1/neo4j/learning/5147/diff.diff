@@ -1,0 +1,5 @@
+75c75,76
+<             record.initialize( inUse, type,
+---
+>             
+> record.initialize( inUse, type,

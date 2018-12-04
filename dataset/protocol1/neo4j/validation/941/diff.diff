@@ -1,0 +1,5 @@
+901,902c901
+<                                     asList( node.getLabels() ) );
+<                         }
+---
+>                                     asList( node.getLabels() ) );                        }

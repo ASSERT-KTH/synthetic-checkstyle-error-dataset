@@ -1,0 +1,4 @@
+68c68
+<         protected void serialize( MappingSerializer serializer )
+---
+>         protected void 	serialize( MappingSerializer serializer )

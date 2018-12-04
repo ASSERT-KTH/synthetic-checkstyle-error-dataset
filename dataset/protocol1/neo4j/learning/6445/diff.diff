@@ -1,0 +1,5 @@
+39c39,40
+< public interface CharReadable extends Closeable, SourceTraceability
+---
+> public interface CharReadable extends Closeable, 
+> SourceTraceability

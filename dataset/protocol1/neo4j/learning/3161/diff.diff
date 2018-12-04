@@ -1,0 +1,4 @@
+99c99
+<             assertEquals( 1 + i, subRange.nextId() );
+---
+>             assertEquals( 1 	+ i, subRange.nextId() );

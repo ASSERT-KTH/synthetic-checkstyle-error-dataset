@@ -1,0 +1,5 @@
+28c28,29
+< import org.neo4j.kernel.impl.transaction.log.TransactionCursor;
+---
+> import 
+> org.neo4j.kernel.impl.transaction.log.TransactionCursor;

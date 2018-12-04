@@ -1,0 +1,5 @@
+148c148,149
+<                 if ( entry != null && (nextHead == null || entry.score > nextHead.score) )
+---
+>                 if ( entry != null && (nextHead == null || entry.score > nextHead.score) 
+> )

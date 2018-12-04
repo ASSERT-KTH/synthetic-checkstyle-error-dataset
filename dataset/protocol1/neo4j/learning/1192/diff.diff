@@ -1,0 +1,5 @@
+51,52c51
+<         description.appendText( "a string matching /" );
+<         description.appendText( pattern.toString() );
+---
+>         description.appendText( "a string matching /" );        description.appendText( pattern.toString() );

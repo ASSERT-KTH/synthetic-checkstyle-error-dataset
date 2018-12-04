@@ -1,0 +1,4 @@
+135c135
+<         return new UserResult( username, flags );
+---
+>         return new UserResult ( username, flags );

@@ -1,0 +1,5 @@
+35,36c35
+< import org.neo4j.kernel.api.schema.constraints.UniquenessConstraintDescriptor;
+< import org.neo4j.kernel.impl.store.record.ConstraintRule;
+---
+> import org.neo4j.kernel.api.schema.constraints.UniquenessConstraintDescriptor;import org.neo4j.kernel.impl.store.record.ConstraintRule;

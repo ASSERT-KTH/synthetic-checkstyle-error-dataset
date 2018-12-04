@@ -1,0 +1,4 @@
+45c45
+<         BinaryLatch latch = latches.takeOrAwaitLatch( 0 );
+---
+>         BinaryLatch latch = latches.takeOrAwaitLatch( 	0 );

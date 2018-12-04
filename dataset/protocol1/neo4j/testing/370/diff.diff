@@ -1,0 +1,5 @@
+153,154c153
+<     public void shouldExtractGraphFromListInMapInTheRow() throws Exception
+<     {
+---
+>     public void shouldExtractGraphFromListInMapInTheRow() throws Exception    {

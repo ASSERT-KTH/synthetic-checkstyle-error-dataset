@@ -1,0 +1,5 @@
+201c201,202
+<         FlushablePositionAwareChannel writer = logFile.getWriter();
+---
+>         
+> FlushablePositionAwareChannel writer = logFile.getWriter();

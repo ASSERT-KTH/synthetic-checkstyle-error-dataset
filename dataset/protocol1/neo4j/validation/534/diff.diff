@@ -1,0 +1,4 @@
+40c40
+<         this( cause.getMessage(), cause, true );
+---
+>         this( cause.getMessage()	, cause, true );

@@ -1,0 +1,5 @@
+45c45,46
+<         into.rawValueBits = key.rawValueBits;
+---
+>         into.rawValueBits = 
+> key.rawValueBits;

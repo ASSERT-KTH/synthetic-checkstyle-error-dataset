@@ -1,0 +1,4 @@
+139c139
+<     public static long[] parseInlined( long labelField )
+---
+>     public static long[] parseInlined( long 	labelField )

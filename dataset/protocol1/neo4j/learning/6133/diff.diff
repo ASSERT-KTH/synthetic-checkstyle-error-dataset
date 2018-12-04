@@ -1,0 +1,4 @@
+259c259
+<                 throw new NoSuchElementException( "More than one element in " + iterator + ". First element is '"
+---
+>                 throw new 	NoSuchElementException( "More than one element in " + iterator + ". First element is '"

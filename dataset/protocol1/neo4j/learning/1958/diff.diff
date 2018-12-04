@@ -1,0 +1,4 @@
+357c357
+<                 public void log( @Nonnull String format, @Nonnull Object... arguments )
+---
+>                 public void log( @Nonnull String 	format, @Nonnull Object... arguments )

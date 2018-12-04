@@ -1,0 +1,4 @@
+54c54
+<         assertThat( node1, inTxS( hasProperty( "key1" ).withValue( "value1" ) ) );
+---
+>         	assertThat( node1, inTxS( hasProperty( "key1" ).withValue( "value1" ) ) );

@@ -1,0 +1,4 @@
+52c52
+<         return Optional.ofNullable( this.replacement );
+---
+>         return 	Optional.ofNullable( this.replacement );

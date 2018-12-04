@@ -1,0 +1,4 @@
+97c97
+<     boolean tryExtract( Mark mark, Extractor<?> extractor, CSVHeaderInformation optionalData );
+---
+>     boolean tryExtract( Mark mark	, Extractor<?> extractor, CSVHeaderInformation optionalData );

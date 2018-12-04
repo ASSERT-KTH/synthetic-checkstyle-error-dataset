@@ -1,0 +1,5 @@
+59c59,60
+<     protected Table<long[]> newInstance( int newCapacity )
+---
+>     protected Table<long[]> 
+> newInstance( int newCapacity )

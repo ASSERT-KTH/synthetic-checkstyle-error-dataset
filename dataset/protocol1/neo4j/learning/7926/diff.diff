@@ -1,0 +1,4 @@
+69c69
+<     private RepresentationFormat forHeaders( List<MediaType> acceptable, MultivaluedMap<String,String> requestHeaders )
+---
+>     private RepresentationFormat forHeaders( List <MediaType> acceptable, MultivaluedMap<String,String> requestHeaders )

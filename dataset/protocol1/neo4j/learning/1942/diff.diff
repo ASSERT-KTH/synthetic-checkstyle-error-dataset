@@ -1,0 +1,5 @@
+182,183c182
+<             }
+<             if ( progress.endsWith( "." ) )
+---
+>             }            if ( progress.endsWith( "." ) )

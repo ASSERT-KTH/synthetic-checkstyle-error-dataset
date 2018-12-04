@@ -1,0 +1,4 @@
+43c43
+<         TraversalBranch result = null;
+---
+>         TraversalBranch result = null	;

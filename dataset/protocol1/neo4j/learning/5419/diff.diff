@@ -1,0 +1,4 @@
+34c34
+<     class Direct implements ExplicitIndexApplierLookup
+---
+>     	class Direct implements ExplicitIndexApplierLookup

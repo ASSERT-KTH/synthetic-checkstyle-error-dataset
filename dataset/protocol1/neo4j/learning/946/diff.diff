@@ -1,0 +1,5 @@
+24,25c24
+<     void assertCanWrite();
+< }
+---
+>     void assertCanWrite();}

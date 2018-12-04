@@ -1,0 +1,4 @@
+60c60
+<         return new SpatialLayout( crs, configuredSettings.forCRS( crs ).curve() );
+---
+>         return new SpatialLayout( crs, configuredSettings.forCRS( crs ).curve () );

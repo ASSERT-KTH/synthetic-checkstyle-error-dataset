@@ -1,0 +1,5 @@
+75c75,76
+<                 int recordOffset = (recordId % recordsPerPage) * recordSize;
+---
+>                 int recordOffset = (recordId 
+> % recordsPerPage) * recordSize;

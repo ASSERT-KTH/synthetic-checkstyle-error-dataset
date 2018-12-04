@@ -1,0 +1,4 @@
+698c698
+<     public static OutputStream openAsOutputStream( Path path, boolean append ) throws IOException
+---
+>     public static OutputStream openAsOutputStream( Path path, boolean append ) throws 	IOException

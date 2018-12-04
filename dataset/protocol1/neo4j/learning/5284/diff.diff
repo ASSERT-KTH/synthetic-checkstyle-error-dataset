@@ -1,0 +1,4 @@
+112c112
+<     public static long calculateRecordsPerCpu( long highId, int numberOfThreads )
+---
+>     public static long calculateRecordsPerCpu( 	long highId, int numberOfThreads )

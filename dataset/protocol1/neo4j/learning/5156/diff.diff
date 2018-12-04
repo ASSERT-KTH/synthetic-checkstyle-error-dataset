@@ -1,0 +1,4 @@
+109c109
+<                 AssertableLogProvider.inLog( "log 2" ).info( "The weird turn pro" )
+---
+>                 AssertableLogProvider.inLog( 	"log 2" ).info( "The weird turn pro" )

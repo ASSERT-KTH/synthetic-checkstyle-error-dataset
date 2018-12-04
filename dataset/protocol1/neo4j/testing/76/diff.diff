@@ -1,0 +1,4 @@
+61c61
+<             Neo4jMBean bean = new KernelBean( kernelData, dataSourceManager, support );
+---
+>             Neo4jMBean bean = new KernelBean( kernelData, 	dataSourceManager, support );

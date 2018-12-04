@@ -1,0 +1,4 @@
+94c94
+<     class State<STATE> extends Adapter<STATE>
+---
+>     class State<STATE> extends Adapter< STATE>

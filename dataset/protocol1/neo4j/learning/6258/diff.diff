@@ -1,0 +1,4 @@
+61c61
+<         type = group.scope( setting( "type", optionsObeyCase( ConnectorType.class ), NO_DEFAULT ) );
+---
+>         type = group.scope( setting( "type"	, optionsObeyCase( ConnectorType.class ), NO_DEFAULT ) );

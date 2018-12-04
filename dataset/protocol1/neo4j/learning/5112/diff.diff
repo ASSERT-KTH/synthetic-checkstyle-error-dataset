@@ -1,0 +1,5 @@
+69,70c69
+<         EagerResult eagerResult;
+<         int attempt = 0;
+---
+>         EagerResult eagerResult;        int attempt = 0;

@@ -1,0 +1,5 @@
+114c114,115
+<     public JaxRsResponse get( String path )
+---
+>     
+> public JaxRsResponse get( String path )

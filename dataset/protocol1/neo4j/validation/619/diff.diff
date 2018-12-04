@@ -1,0 +1,5 @@
+108c108,109
+<     public abstract NumberValue plus( double b );
+---
+>     public abstract NumberValue plus( double b 
+> );

@@ -1,0 +1,4 @@
+83c83
+<         assertEqualContent( Arrays.asList( 3.14, 42.0 ), (List) map.get( "double array" ) );
+---
+>         assertEqualContent ( Arrays.asList( 3.14, 42.0 ), (List) map.get( "double array" ) );

@@ -1,0 +1,4 @@
+27c27
+< final class IndexCommandDetector implements org.neo4j.helpers.collection.Visitor<StorageCommand,IOException>
+---
+> final class IndexCommandDetector 	implements org.neo4j.helpers.collection.Visitor<StorageCommand,IOException>

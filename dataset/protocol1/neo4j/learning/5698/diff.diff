@@ -1,0 +1,4 @@
+201c201
+<                 FieldMapper fieldMapper = new FieldMapper( getter, checker );
+---
+>                 FieldMapper fieldMapper = new FieldMapper( getter, checker )	;

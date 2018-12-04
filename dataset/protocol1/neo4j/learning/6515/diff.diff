@@ -1,0 +1,4 @@
+165c165
+<         counts.incrementRelationshipCount( label, type, ANY_LABEL, outgoing );
+---
+>         counts	.incrementRelationshipCount( label, type, ANY_LABEL, outgoing );

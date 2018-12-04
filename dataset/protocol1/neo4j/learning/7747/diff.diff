@@ -1,0 +1,4 @@
+69c69
+<         AutoCloseable closeable = rule.add( mock( AutoCloseable.class ) );
+---
+>         AutoCloseable closeable = rule.add( mock ( AutoCloseable.class ) );

@@ -1,0 +1,4 @@
+30c30
+<     WritableBuffer putChar( int offset, char value );
+---
+>     WritableBuffer putChar( int 	offset, char value );

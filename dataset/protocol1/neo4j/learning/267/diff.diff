@@ -1,0 +1,4 @@
+45c45
+<     synchronized boolean processHistory( Consumer<HEvents.HEvent> processor )
+---
+>     synchronized boolean processHistory( 	Consumer<HEvents.HEvent> processor )

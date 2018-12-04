@@ -1,0 +1,4 @@
+91c91
+<     public static final RepresentationType FLOAT = new RepresentationType( "float", "floats", float.class );
+---
+>     	public static final RepresentationType FLOAT = new RepresentationType( "float", "floats", float.class );

@@ -1,0 +1,4 @@
+223c223
+<         doThrow( expectedFailure ).when( failingCloseable ).close();
+---
+>         doThrow( expectedFailure 	).when( failingCloseable ).close();

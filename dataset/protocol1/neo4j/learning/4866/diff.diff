@@ -1,0 +1,4 @@
+50c50
+<                 cache.incrementGroupCount( record.getOwningNode() );
+---
+>                 cache.incrementGroupCount( 	record.getOwningNode() );

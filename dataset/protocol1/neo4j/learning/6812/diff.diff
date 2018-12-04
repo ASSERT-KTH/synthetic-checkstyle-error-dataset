@@ -1,0 +1,4 @@
+30c30
+<     void shouldCreateDifferentIdentifierWithDifferentName()
+---
+>     void shouldCreateDifferentIdentifierWithDifferentName ()

@@ -1,0 +1,5 @@
+37c37,38
+<         assertThat( FileVisitors.justContinue().visitFileFailed( null, null ), is( FileVisitResult.CONTINUE ) );
+---
+>         
+> assertThat( FileVisitors.justContinue().visitFileFailed( null, null ), is( FileVisitResult.CONTINUE ) );

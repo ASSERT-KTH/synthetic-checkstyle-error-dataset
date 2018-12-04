@@ -1,0 +1,5 @@
+32,33c32
+<     private final Analyzer analyzer;
+<     private final String analyzerName;
+---
+>     private final Analyzer analyzer;    private final String analyzerName;

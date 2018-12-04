@@ -1,0 +1,4 @@
+132c132
+<         <T> T top( Function<ExecutingQuery,T> accessor )
+---
+>         <T> T top( Function <ExecutingQuery,T> accessor )

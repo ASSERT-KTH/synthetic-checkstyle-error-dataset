@@ -1,0 +1,4 @@
+154c154
+<     private final Label myLabel = Label.label( "MYLABEL" );
+---
+>     private final Label myLabel= Label.label( "MYLABEL" );

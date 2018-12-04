@@ -1,0 +1,5 @@
+313c313,314
+<     public void newInstance( TypeReference type )
+---
+>     public void newInstance( 
+> TypeReference type )

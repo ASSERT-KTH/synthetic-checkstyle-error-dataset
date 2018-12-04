@@ -1,0 +1,5 @@
+40,41c40
+<                 .withFlag( "nice_guy" ).build();
+<         assertThat( u1, equalTo( u1 ) );
+---
+>                 .withFlag( "nice_guy" ).build();        assertThat( u1, equalTo( u1 ) );

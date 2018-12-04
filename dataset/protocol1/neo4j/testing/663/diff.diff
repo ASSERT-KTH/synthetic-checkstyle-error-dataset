@@ -1,0 +1,4 @@
+61c61
+<     <E extends Exception> void accept( QueryResult.QueryResultVisitor<E> visitor )
+---
+>     <E extends Exception> void accept ( QueryResult.QueryResultVisitor<E> visitor )

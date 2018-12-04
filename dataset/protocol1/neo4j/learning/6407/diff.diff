@@ -1,0 +1,4 @@
+87c87
+<     static IndexDirectoryStructure nativeIndexDirectoryStructure( DatabaseLayout databaseLayout )
+---
+>     static IndexDirectoryStructure nativeIndexDirectoryStructure ( DatabaseLayout databaseLayout )

@@ -1,0 +1,4 @@
+88c88
+<         QueryExecutionEngine executionEngine = mock( QueryExecutionEngine.class );
+---
+>         QueryExecutionEngine executionEngine = 	mock( QueryExecutionEngine.class );

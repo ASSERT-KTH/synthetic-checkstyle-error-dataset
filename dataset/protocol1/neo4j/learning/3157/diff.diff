@@ -1,0 +1,5 @@
+36c36,37
+<         ListValue inner = list( NO_VALUE, longValue( 6L ), NO_VALUE,
+---
+>         ListValue inner = list( NO_VALUE, longValue( 6L ), 
+> NO_VALUE,

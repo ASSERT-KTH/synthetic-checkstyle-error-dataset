@@ -1,0 +1,4 @@
+76c76
+<     public static FusionIndexProvider newInstance( PageCache pageCache, File databaseDirectory, FileSystemAbstraction fs,
+---
+>     public static FusionIndexProvider 	newInstance( PageCache pageCache, File databaseDirectory, FileSystemAbstraction fs,

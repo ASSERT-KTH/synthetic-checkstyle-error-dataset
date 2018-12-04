@@ -1,0 +1,4 @@
+22c22
+< import org.apache.lucene.index.Fields;
+---
+> import org.apache.lucene	.index.Fields;

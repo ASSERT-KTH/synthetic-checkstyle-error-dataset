@@ -1,0 +1,4 @@
+174c174
+<                     return type.getMethod( prefix + methodName ).getAnnotation( Description.class );
+---
+>                     	return type.getMethod( prefix + methodName ).getAnnotation( Description.class );

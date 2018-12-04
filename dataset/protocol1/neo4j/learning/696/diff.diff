@@ -1,0 +1,4 @@
+24c24
+<     public InputException( String message, Throwable cause )
+---
+>     public InputException( String 	message, Throwable cause )

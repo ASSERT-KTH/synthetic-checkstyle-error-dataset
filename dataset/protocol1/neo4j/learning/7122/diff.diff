@@ -1,0 +1,4 @@
+41c41
+<         CommunityCommitProcessFactory factory = new CommunityCommitProcessFactory();
+---
+>         CommunityCommitProcessFactory factory 	= new CommunityCommitProcessFactory();

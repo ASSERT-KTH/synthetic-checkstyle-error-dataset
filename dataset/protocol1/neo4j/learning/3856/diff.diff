@@ -1,0 +1,5 @@
+45c45,46
+<     public AdversarialChannelDefaultFileSystemAbstraction( RandomAdversary adversary )
+---
+>     public 
+> AdversarialChannelDefaultFileSystemAbstraction( RandomAdversary adversary )

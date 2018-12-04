@@ -1,0 +1,4 @@
+95c95
+<         assertFalse( fileSystem.fileExists( authInitFile ) );
+---
+>         assertFalse( fileSystem.	fileExists( authInitFile ) );

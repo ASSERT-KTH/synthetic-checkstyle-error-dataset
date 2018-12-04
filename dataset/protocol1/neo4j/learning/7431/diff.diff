@@ -1,0 +1,5 @@
+48,49c48
+< import static java.util.Arrays.asList;
+< import static org.junit.Assert.assertEquals;
+---
+> import static java.util.Arrays.asList;import static org.junit.Assert.assertEquals;

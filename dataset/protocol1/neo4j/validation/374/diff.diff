@@ -1,0 +1,4 @@
+30c30
+<     public CatchClause( Parameter exception, List<Consumer<MethodEmitter>> actions )
+---
+>     public CatchClause( Parameter exception, List<Consumer<MethodEmitter>> actions)

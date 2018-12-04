@@ -1,0 +1,4 @@
+40c40
+<     ConstraintDefinition createPropertyUniquenessConstraint( IndexDefinition indexDefinition );
+---
+>     ConstraintDefinition createPropertyUniquenessConstraint ( IndexDefinition indexDefinition );

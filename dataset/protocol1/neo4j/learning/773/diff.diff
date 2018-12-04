@@ -1,0 +1,4 @@
+227c227
+<     LocalTime getLocalTimePart()
+---
+>     LocalTime 	getLocalTimePart()

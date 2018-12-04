@@ -1,0 +1,4 @@
+93c93
+<         public Entry( String name, Type type, Group group, Extractor<?> extractor )
+---
+>         public Entry( String name, Type type, Group 	group, Extractor<?> extractor )

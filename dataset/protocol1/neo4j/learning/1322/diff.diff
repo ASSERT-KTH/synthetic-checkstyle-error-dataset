@@ -1,0 +1,4 @@
+28c28
+<     private final LifeSupport life = new LifeSupport();
+---
+>     private final LifeSupport life 	= new LifeSupport();

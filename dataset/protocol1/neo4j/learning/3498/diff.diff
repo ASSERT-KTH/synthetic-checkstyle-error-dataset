@@ -1,0 +1,5 @@
+37c37,38
+< import static org.hamcrest.Matchers.not;
+---
+> import static 
+> org.hamcrest.Matchers.not;

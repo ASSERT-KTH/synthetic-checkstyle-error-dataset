@@ -1,0 +1,4 @@
+36c36
+<         assertThat( fromRecordState( true, true ), equalTo( Command.Mode.CREATE ) );
+---
+>         assertThat( fromRecordState( true, true ), equalTo( Command.Mode.CREATE ) 	);

@@ -1,0 +1,5 @@
+63,64c63
+<     public static LocalDateTimeValue localDateTime( DateValue date, LocalTimeValue time )
+<     {
+---
+>     public static LocalDateTimeValue localDateTime( DateValue date, LocalTimeValue time )    {

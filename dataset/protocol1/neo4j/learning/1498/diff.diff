@@ -1,0 +1,4 @@
+55c55
+<         assertThat( portProvider.getNextFreePort( "foo" ), is( 40 ) );
+---
+>         assertThat( portProvider.getNextFreePort( "foo" )	, is( 40 ) );

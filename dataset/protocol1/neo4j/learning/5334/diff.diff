@@ -1,0 +1,4 @@
+354c354
+<         assertFalse( autoIndexer.getAutoIndex().get( "testProp", "node1" ).hasNext() );
+---
+>         assertFalse( autoIndexer.getAutoIndex().get( 	"testProp", "node1" ).hasNext() );

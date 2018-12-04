@@ -1,0 +1,4 @@
+53c53
+<     public final RuleChain ruleChain = RuleChain.outerRule( fileSystemRule ).around( pageCacheRule );
+---
+>     public final RuleChain ruleChain = RuleChain.outerRule( fileSystemRule ).around( pageCacheRule )	;

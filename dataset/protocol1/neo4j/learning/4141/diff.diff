@@ -1,0 +1,5 @@
+61c61,62
+<         return create( pageCache, storeDir, fs, monitor, config, operationalMode, recoveryCleanupWorkCollector );
+---
+>         return create
+> ( pageCache, storeDir, fs, monitor, config, operationalMode, recoveryCleanupWorkCollector );

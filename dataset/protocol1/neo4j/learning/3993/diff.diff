@@ -1,0 +1,4 @@
+64c64
+<             log.info( "Found single implementation of " + serviceName +
+---
+>             log.info ( "Found single implementation of " + serviceName +

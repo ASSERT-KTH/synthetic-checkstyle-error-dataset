@@ -1,0 +1,4 @@
+31c31
+<                 FieldReference field = method.clazz.getField( name );
+---
+>                 FieldReference field = method.clazz.getField( name 	);

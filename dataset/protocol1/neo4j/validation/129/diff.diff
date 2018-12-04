@@ -1,0 +1,4 @@
+52c52
+<         public Iterator<StorageProperty> addedProperties()
+---
+>         public Iterator<StorageProperty> addedProperties ()

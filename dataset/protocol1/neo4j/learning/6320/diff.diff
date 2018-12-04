@@ -1,0 +1,4 @@
+31c31
+<     public static final EpollConfigurationProvider INSTANCE = new EpollConfigurationProvider();
+---
+>     public static final EpollConfigurationProvider INSTANCE = new EpollConfigurationProvider()	;

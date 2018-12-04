@@ -1,0 +1,4 @@
+75c75
+<         assertThat( counter.get(), equalTo( 0 ) );
+---
+>         assertThat( counter.get()	, equalTo( 0 ) );

@@ -1,0 +1,4 @@
+82c82
+<             RecordProxy<RelationshipGroupRecord, Integer> closestPreviousChange = existingGroup.closestPrevious();
+---
+>             RecordProxy<RelationshipGroupRecord, Integer> closestPreviousChange 	= existingGroup.closestPrevious();

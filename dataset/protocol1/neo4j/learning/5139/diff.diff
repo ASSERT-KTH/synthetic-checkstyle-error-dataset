@@ -1,0 +1,4 @@
+29c29
+<     LogFileCreationMonitor NO_MONITOR = new Adapter();
+---
+>     LogFileCreationMonitor NO_MONITOR =new Adapter();

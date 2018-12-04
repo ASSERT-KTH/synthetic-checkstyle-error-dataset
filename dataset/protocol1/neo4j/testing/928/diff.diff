@@ -1,0 +1,4 @@
+241c241
+<         for ( int prop = 0; prop < lastPropertyOffset; prop++ )
+---
+>         for ( int prop = 0; prop < lastPropertyOffset; 	prop++ )

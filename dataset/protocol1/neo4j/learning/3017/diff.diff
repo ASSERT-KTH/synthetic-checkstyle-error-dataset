@@ -1,0 +1,5 @@
+33c33,34
+<     void visitIndexStatistics( long indexId, long updates, long size );
+---
+>     void visitIndexStatistics( 
+> long indexId, long updates, long size );

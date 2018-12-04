@@ -1,0 +1,4 @@
+44c44
+<                 orderCapability = ArrayUtils.add( orderCapability, IndexOrder.NONE );
+---
+>                 	orderCapability = ArrayUtils.add( orderCapability, IndexOrder.NONE );

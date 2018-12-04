@@ -1,0 +1,4 @@
+115c115
+<             return NumberValues.compareLongAgainstDouble( lhs, Float.intBitsToFloat( (int) rhsRawBits ) );
+---
+>             return NumberValues.compareLongAgainstDouble( lhs, Float.intBitsToFloat( (int) rhsRawBits 	) );

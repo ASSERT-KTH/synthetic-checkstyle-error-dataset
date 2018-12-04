@@ -1,0 +1,5 @@
+126,127c126
+<         File shortFile = directory.file( "empty" );
+<         fs.deleteFile( shortFile );
+---
+>         File shortFile = directory.file( "empty" );        fs.deleteFile( shortFile );

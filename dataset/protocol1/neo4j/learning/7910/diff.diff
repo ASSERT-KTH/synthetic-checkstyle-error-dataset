@@ -1,0 +1,4 @@
+41c41
+<     public static final UsageDataKey<String> version = key( "neo4j.version", "N/A" );
+---
+>     public 	static final UsageDataKey<String> version = key( "neo4j.version", "N/A" );

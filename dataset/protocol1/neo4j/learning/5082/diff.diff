@@ -1,0 +1,4 @@
+78c78
+<         assertThat( secondInTx1.status(), is( 200 ) );
+---
+>         assertThat( 	secondInTx1.status(), is( 200 ) );

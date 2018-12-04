@@ -1,0 +1,4 @@
+33c33
+<     public CombinedIndexHits( Collection<ExplicitIndexHits> iterators )
+---
+>     public CombinedIndexHits( 	Collection<ExplicitIndexHits> iterators )

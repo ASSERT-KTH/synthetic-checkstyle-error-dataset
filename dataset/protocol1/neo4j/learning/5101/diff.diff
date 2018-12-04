@@ -1,0 +1,4 @@
+82c82
+<         if ( archiveIfExists && fs.isDirectory( rootIndexDirectory ) && fs.fileExists( rootIndexDirectory ) && fs.listFiles( rootIndexDirectory ).length > 0 )
+---
+>         if ( archiveIfExists && fs.isDirectory( rootIndexDirectory ) && fs.fileExists( rootIndexDirectory ) && fs.listFiles( rootIndexDirectory ).length >0 )

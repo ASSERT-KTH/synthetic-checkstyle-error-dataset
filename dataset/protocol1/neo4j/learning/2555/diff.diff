@@ -1,0 +1,5 @@
+86c86,87
+<     private DirectoryFactory.InMemoryDirectoryFactory dirFactory;
+---
+>     private 
+> DirectoryFactory.InMemoryDirectoryFactory dirFactory;

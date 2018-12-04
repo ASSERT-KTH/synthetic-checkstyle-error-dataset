@@ -1,0 +1,4 @@
+30c30
+<     DoubleLongRegister nodeCount( int labelId, DoubleLongRegister target );
+---
+>     DoubleLongRegister nodeCount( int labelId	, DoubleLongRegister target );

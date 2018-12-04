@@ -1,0 +1,4 @@
+133c133
+<         for ( from = 0, to = 0; from < length; from++ )
+---
+>         for ( from = 0	, to = 0; from < length; from++ )

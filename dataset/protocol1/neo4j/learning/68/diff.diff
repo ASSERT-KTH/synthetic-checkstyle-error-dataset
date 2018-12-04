@@ -1,0 +1,4 @@
+36c36
+<     long getLogVersion( File historyLogFile );
+---
+>     long getLogVersion(File historyLogFile );

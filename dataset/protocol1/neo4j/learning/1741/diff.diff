@@ -1,0 +1,5 @@
+49c49,50
+<     private void writeMeta( JsonGenerator out, Iterable<String> columns, Result.ResultRow row ) throws IOException
+---
+>     private void writeMeta( JsonGenerator out, Iterable<String> columns, 
+> Result.ResultRow row ) throws IOException

@@ -1,0 +1,4 @@
+65c65
+<         assertEquals( "Wrong maxThreads value for max cores", 53685, jtc.getMaxThreads() );
+---
+>         assertEquals( "Wrong maxThreads value for max cores", 53685, jtc.getMaxThreads () );

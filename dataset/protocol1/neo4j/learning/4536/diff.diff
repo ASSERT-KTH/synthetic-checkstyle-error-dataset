@@ -1,0 +1,5 @@
+27,28c27
+<     private List<Data> data;
+<     private long originNodeId;
+---
+>     private List<Data> data;    private long originNodeId;

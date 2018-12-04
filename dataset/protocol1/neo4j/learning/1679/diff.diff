@@ -1,0 +1,4 @@
+216c216
+<                 sameThreadExecutor(), NullLogProvider.getInstance(), mock( SchemaState.class ) );
+---
+>                 sameThreadExecutor()	, NullLogProvider.getInstance(), mock( SchemaState.class ) );

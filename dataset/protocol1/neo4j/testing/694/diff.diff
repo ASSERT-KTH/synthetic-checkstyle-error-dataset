@@ -1,0 +1,4 @@
+42c42
+<     public void shouldCloseExhaustedCursors() throws Exception
+---
+>     public void shouldCloseExhaustedCursors() throws 	Exception

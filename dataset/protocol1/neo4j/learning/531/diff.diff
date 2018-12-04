@@ -1,0 +1,5 @@
+87,88c87
+<         IndexPopulator populator = createIndexPopulator();
+<         IndexUpdater indexUpdater = mock( IndexUpdater.class );
+---
+>         IndexPopulator populator = createIndexPopulator();        IndexUpdater indexUpdater = mock( IndexUpdater.class );

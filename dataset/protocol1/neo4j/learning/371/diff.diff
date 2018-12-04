@@ -1,0 +1,5 @@
+197c197,198
+<                     return iterator.hasNext();
+---
+>                     
+> return iterator.hasNext();

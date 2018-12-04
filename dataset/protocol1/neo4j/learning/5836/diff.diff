@@ -1,0 +1,5 @@
+54c54,55
+<             return new URI( sb.toString() );
+---
+>             
+> return new URI( sb.toString() );

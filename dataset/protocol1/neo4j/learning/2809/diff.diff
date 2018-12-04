@@ -1,0 +1,5 @@
+31,32c31
+< import org.neo4j.server.plugins.DisabledPluginManager;
+< import org.neo4j.server.plugins.PluginManager;
+---
+> import org.neo4j.server.plugins.DisabledPluginManager;import org.neo4j.server.plugins.PluginManager;

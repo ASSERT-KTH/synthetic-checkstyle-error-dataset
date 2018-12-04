@@ -1,0 +1,4 @@
+28c28
+< import org.neo4j.io.fs.OpenMode;
+---
+> import org.neo4j.io.	fs.OpenMode;

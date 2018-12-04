@@ -1,0 +1,5 @@
+24c24,25
+< public interface PrimitiveIntSet extends PrimitiveIntCollection, IntPredicate
+---
+> public interface 
+> PrimitiveIntSet extends PrimitiveIntCollection, IntPredicate

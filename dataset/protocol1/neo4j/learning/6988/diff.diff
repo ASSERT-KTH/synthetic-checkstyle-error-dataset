@@ -1,0 +1,5 @@
+94c94,95
+<     protected static byte set( byte headerByte, int bitMask, boolean value )
+---
+>     protected static byte 
+> set( byte headerByte, int bitMask, boolean value )

@@ -1,0 +1,5 @@
+41,42c41
+<     void shouldReturnHttpsUriWhenConfigured() throws Throwable
+<     {
+---
+>     void shouldReturnHttpsUriWhenConfigured() throws Throwable    {

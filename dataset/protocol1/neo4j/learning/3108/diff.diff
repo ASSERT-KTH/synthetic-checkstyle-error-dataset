@@ -1,0 +1,5 @@
+60c60,61
+<     public void bulk( @Nonnull Consumer<Logger> consumer )
+---
+>     public void 
+> bulk( @Nonnull Consumer<Logger> consumer )

@@ -1,0 +1,4 @@
+66c66
+<     long getCoveredArea()
+---
+>     long getCoveredArea ()

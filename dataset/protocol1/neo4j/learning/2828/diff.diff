@@ -1,0 +1,4 @@
+44c44
+<         PropertyContainerStateImpl state = new PropertyContainerStateImpl( 1, OnHeapCollectionsFactory.INSTANCE );
+---
+>         PropertyContainerStateImpl state = new PropertyContainerStateImpl(1, OnHeapCollectionsFactory.INSTANCE );

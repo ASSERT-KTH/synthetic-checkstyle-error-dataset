@@ -1,0 +1,4 @@
+287c287
+<                 .request( method, server.baseUri().resolve( path ).toString(), payload );
+---
+>                 .request( method, server.baseUri().resolve( path ).toString(), payload )	;

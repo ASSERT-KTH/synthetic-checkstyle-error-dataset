@@ -1,0 +1,4 @@
+482c482
+<         private final CountDownLatch readerStartSignal;
+---
+>         	private final CountDownLatch readerStartSignal;

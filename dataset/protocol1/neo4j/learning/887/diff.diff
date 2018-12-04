@@ -1,0 +1,4 @@
+41c41
+<         return new HighIdTransactionApplier( neoStores );
+---
+>         return new HighIdTransactionApplier( neoStores )	;

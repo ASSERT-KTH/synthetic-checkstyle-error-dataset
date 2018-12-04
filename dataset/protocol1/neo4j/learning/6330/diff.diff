@@ -1,0 +1,4 @@
+389c389
+<                                        + "(?<shortDOY>[0-9]{3}))" + "|" // ordinal date
+---
+>                                        + "(?<shortDOY>[0-9]{3}))" 	+ "|" // ordinal date

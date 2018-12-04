@@ -1,0 +1,4 @@
+80c80
+<         if ( this == o )
+---
+>         if ( this 	== o )

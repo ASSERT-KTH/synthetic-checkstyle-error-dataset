@@ -1,0 +1,4 @@
+48c48
+<         map.put( "indexType", "SCHEMA INDEX" );
+---
+>         map.put( "indexType", 	"SCHEMA INDEX" );

@@ -1,0 +1,5 @@
+31c31,32
+<         openOptions = new OpenOption[] {PageCacheOpenOptions.NO_CHANNEL_STRIPING};
+---
+>         openOptions = new OpenOption[] 
+> {PageCacheOpenOptions.NO_CHANNEL_STRIPING};

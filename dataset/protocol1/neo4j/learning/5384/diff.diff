@@ -1,0 +1,4 @@
+102c102
+<         IdGenerator idGenerator = new IdGeneratorImpl( fsr.get(), file, 1, Long.MAX_VALUE, false, IdType.NODE, () -> 0L );
+---
+>         	IdGenerator idGenerator = new IdGeneratorImpl( fsr.get(), file, 1, Long.MAX_VALUE, false, IdType.NODE, () -> 0L );

@@ -1,0 +1,5 @@
+65c65,66
+<         ordered.verify( out ).accept( "        A summary" );
+---
+>         ordered.verify( out 
+> ).accept( "        A summary" );

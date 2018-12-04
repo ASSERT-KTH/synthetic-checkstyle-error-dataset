@@ -1,0 +1,4 @@
+34c34
+<         long idToCompare = type.getId( source );
+---
+>         long idToCompare = type.getId( source 	);

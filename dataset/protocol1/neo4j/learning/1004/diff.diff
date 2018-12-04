@@ -1,0 +1,5 @@
+38c38,39
+<     public DatabaseHealth( DatabasePanicEventGenerator dbpe, Log log )
+---
+>     public DatabaseHealth( DatabasePanicEventGenerator dbpe, Log 
+> log )

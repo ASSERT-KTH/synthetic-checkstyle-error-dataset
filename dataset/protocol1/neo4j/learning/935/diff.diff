@@ -1,0 +1,5 @@
+60,61c60
+<     public String works2( @Name( "test" ) List<List<Object>> supported )
+<     {
+---
+>     public String works2( @Name( "test" ) List<List<Object>> supported )    {

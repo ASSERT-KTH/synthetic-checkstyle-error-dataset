@@ -1,0 +1,4 @@
+359c359
+<         initialize( cursor.getLong() );
+---
+>         	initialize( cursor.getLong() );

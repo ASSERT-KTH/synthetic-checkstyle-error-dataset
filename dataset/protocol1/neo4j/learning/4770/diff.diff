@@ -1,0 +1,4 @@
+314c314
+<         Command[] commands = Command.values();
+---
+>         Command[] commands 	= Command.values();

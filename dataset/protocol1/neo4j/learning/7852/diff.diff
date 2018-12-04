@@ -1,0 +1,4 @@
+52c52
+<         NamedToken type = relationshipTypeTokenStore.getToken( (int) command.getKey() );
+---
+>         NamedToken type = relationshipTypeTokenStore.getToken( ( int) command.getKey() );

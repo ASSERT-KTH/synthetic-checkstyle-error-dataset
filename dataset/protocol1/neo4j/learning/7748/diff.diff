@@ -1,0 +1,4 @@
+237c237
+<     public void rewind()
+---
+>     public void rewind ()

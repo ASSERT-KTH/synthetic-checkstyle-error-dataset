@@ -1,0 +1,4 @@
+109c109
+<         assertEquals( 123, socketAddress.getPort() );
+---
+>         	assertEquals( 123, socketAddress.getPort() );

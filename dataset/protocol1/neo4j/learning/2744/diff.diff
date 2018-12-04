@@ -1,0 +1,4 @@
+57c57
+<         final int maxNonEmptyLogCount = 2;
+---
+>         final int maxNonEmptyLogCount = 	2;

@@ -1,0 +1,4 @@
+82c82
+<         values = (VALUE[]) new Object[capacity];
+---
+>         values 	= (VALUE[]) new Object[capacity];

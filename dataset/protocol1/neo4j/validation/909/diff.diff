@@ -1,0 +1,4 @@
+55c55
+<         AtomicInteger counter = new AtomicInteger( 0 );
+---
+>         AtomicInteger counter= new AtomicInteger( 0 );

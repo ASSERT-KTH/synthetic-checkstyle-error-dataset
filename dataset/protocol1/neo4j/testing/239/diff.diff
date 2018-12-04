@@ -1,0 +1,5 @@
+134c134,135
+<         protected boolean fetchNext()
+---
+>         
+> protected boolean fetchNext()

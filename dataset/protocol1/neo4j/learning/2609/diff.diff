@@ -1,0 +1,4 @@
+101c101
+<         if ( generation < MIN_GENERATION || generation > MAX_GENERATION )
+---
+>         if 	( generation < MIN_GENERATION || generation > MAX_GENERATION )

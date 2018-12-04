@@ -1,0 +1,5 @@
+283c283,284
+<                 db.createNode( label( "Person" ) ).setProperty( "name", "Sneaky Steve" );
+---
+>                 db.createNode( label( "Person" ) ).setProperty( "name", 
+> "Sneaky Steve" );

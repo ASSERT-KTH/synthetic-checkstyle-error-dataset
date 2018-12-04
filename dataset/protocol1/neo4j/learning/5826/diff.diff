@@ -1,0 +1,4 @@
+123c123
+<             Iterator<DynamicRecord> records = store.getRecords( 1, FORCE ).iterator();
+---
+>             	Iterator<DynamicRecord> records = store.getRecords( 1, FORCE ).iterator();

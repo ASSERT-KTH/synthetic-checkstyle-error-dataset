@@ -1,0 +1,4 @@
+117c117
+<             assertEquals( LOG_HEADER_SIZE, read );
+---
+>             	assertEquals( LOG_HEADER_SIZE, read );

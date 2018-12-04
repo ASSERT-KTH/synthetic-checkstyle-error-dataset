@@ -1,0 +1,4 @@
+51c51
+<     BoltResult EMPTY = new BoltResult()
+---
+>     BoltResult EMPTY = 	new BoltResult()

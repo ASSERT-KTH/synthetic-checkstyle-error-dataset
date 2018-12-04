@@ -1,0 +1,4 @@
+92c92
+<     private void assertDetectsDeadlock( LockCommand... commands )
+---
+>     private void assertDetectsDeadlock(LockCommand... commands )

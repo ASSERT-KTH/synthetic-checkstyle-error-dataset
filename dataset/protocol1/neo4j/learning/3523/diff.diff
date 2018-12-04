@@ -1,0 +1,4 @@
+93c93
+<                 return typeArguments.size() == 1 && test( typeArguments.get( 0 ) );
+---
+>                 return typeArguments.size()== 1 && test( typeArguments.get( 0 ) );

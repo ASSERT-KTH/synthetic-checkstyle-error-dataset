@@ -1,0 +1,5 @@
+100,101c100
+<             Collections.addAll( fields, clazz.getDeclaredFields() );
+<             clazz = clazz.getSuperclass();
+---
+>             Collections.addAll( fields, clazz.getDeclaredFields() );            clazz = clazz.getSuperclass();

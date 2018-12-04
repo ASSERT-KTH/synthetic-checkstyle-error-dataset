@@ -1,0 +1,4 @@
+40c40
+<         this( indexDefinition, Schema.IndexState.ONLINE, IndexPopulationProgress.DONE );
+---
+>         this( indexDefinition, Schema.IndexState.ONLINE	, IndexPopulationProgress.DONE );

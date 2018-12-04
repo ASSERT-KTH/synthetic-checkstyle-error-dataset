@@ -1,0 +1,4 @@
+100c100
+<             nextIdToFetch = propRecord.getNextProp();
+---
+>             nextIdToFetch = propRecord.	getNextProp();

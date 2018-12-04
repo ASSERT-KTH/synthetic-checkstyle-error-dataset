@@ -1,0 +1,4 @@
+126c126
+<         List<RequestMessage> messages = asList( AckFailureMessage.INSTANCE, PullAllMessage.INSTANCE, DiscardAllMessage.INSTANCE,
+---
+>         	List<RequestMessage> messages = asList( AckFailureMessage.INSTANCE, PullAllMessage.INSTANCE, DiscardAllMessage.INSTANCE,

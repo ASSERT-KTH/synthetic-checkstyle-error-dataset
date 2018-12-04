@@ -1,0 +1,5 @@
+51c51,52
+<             String protocol = url.getProtocol();
+---
+>             
+> String protocol = url.getProtocol();

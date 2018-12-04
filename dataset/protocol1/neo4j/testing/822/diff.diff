@@ -1,0 +1,4 @@
+35c35
+<     void apply( IndexUpdates updates ) throws IOException, IndexEntryConflictException;
+---
+>     	void apply( IndexUpdates updates ) throws IOException, IndexEntryConflictException;

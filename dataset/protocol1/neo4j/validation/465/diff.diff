@@ -1,0 +1,5 @@
+52,53c52
+<             String uuid = "xyz";
+<             Relationship relationship = node1.createRelationshipTo( node2, RelationshipType.withName( "related" ) );
+---
+>             String uuid = "xyz";            Relationship relationship = node1.createRelationshipTo( node2, RelationshipType.withName( "related" ) );

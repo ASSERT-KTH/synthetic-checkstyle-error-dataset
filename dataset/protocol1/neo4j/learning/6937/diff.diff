@@ -1,0 +1,4 @@
+85c85
+<                 procedureSignature( "org", "myproc2" ).out( "age", NTInteger ).build(),
+---
+>                 procedureSignature( "org"	, "myproc2" ).out( "age", NTInteger ).build(),

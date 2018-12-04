@@ -1,0 +1,5 @@
+51,52c51
+<                         .create() ) );
+<         assertEquals( parse( "P1Y2M3W4DT5H6M7.800000009S" ), build(
+---
+>                         .create() ) );        assertEquals( parse( "P1Y2M3W4DT5H6M7.800000009S" ), build(

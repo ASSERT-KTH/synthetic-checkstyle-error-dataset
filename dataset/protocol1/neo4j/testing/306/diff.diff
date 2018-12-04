@@ -1,0 +1,5 @@
+32c32,33
+<     public IndexedEntityRepresentation( Node node, String key, String value, IndexRepresentation indexRepresentation )
+---
+>     public IndexedEntityRepresentation
+> ( Node node, String key, String value, IndexRepresentation indexRepresentation )

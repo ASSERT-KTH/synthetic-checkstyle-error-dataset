@@ -1,0 +1,5 @@
+232,233c232
+<         Response response = testDiscoveryService().getDiscoveryDocument( uriInfo( baseUri ) );
+<         String json = new String( (byte[]) response.getEntity() );
+---
+>         Response response = testDiscoveryService().getDiscoveryDocument( uriInfo( baseUri ) );        String json = new String( (byte[]) response.getEntity() );

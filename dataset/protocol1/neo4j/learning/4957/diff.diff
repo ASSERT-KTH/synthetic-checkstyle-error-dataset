@@ -1,0 +1,5 @@
+88,89c88
+<         if ( info.length() > longestInfo )
+<         {
+---
+>         if ( info.length() > longestInfo )        {

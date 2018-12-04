@@ -1,0 +1,4 @@
+74c74
+<         setBytesLength( to, (int) from.long0 );
+---
+>         setBytesLength ( to, (int) from.long0 );

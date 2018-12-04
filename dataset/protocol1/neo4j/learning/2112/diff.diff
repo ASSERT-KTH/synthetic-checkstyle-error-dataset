@@ -1,0 +1,5 @@
+64c64,65
+<         private final boolean read;
+---
+>         private final 
+> boolean read;

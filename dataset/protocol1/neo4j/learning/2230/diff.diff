@@ -1,0 +1,4 @@
+204c204
+<         assertThat( countNodes(), equalTo( nodesInDatabaseBeforeTransaction ) );
+---
+>         assertThat( countNodes(), 	equalTo( nodesInDatabaseBeforeTransaction ) );

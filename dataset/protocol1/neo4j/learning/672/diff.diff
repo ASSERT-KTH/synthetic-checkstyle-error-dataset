@@ -1,0 +1,4 @@
+87c87
+<         Matcher hostnamePortWithBracketsMatcher = hostnamePortPatternExt.matcher( settingValue );
+---
+>         Matcher hostnamePortWithBracketsMatcher = hostnamePortPatternExt.	matcher( settingValue );

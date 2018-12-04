@@ -1,0 +1,4 @@
+54c54
+<         assertThat( partialOverlapConf.maxDepth( range, range, 2, 30 ), equalTo( 1 ) );
+---
+>         assertThat( partialOverlapConf.maxDepth( range, range, 2, 30 ), equalTo ( 1 ) );

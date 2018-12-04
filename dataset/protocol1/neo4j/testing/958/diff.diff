@@ -1,0 +1,4 @@
+50c50
+<     void notNull( Expression expression );
+---
+>     void notNull( 	Expression expression );

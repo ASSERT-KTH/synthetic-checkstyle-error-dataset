@@ -1,0 +1,5 @@
+71c71,72
+<                  "Authenticate by sending a username and a password to Neo4j using HTTP Basic Auth.\n" +
+---
+>                  "Authenticate by sending a username and a password to Neo4j using HTTP Basic Auth.\n" 
+> +

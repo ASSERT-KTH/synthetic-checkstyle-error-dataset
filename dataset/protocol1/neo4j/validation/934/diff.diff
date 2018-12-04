@@ -1,0 +1,5 @@
+191c191,192
+<                 .that( asList( JavaFileObjectUtils.INSTANCE.procedureSource( "valid/Procedures.java" ),
+---
+>                 .that( asList( JavaFileObjectUtils.INSTANCE.procedureSource
+> ( "valid/Procedures.java" ),

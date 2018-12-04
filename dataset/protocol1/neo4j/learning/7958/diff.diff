@@ -1,0 +1,4 @@
+878c878
+<         throw new UnsupportedOperationException();
+---
+>         throw new UnsupportedOperationException ();

@@ -1,0 +1,4 @@
+41c41
+<         this.editionModule = editionModule;
+---
+>         this.editionModule = 	editionModule;

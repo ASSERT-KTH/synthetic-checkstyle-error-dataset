@@ -1,0 +1,5 @@
+95c95,96
+<     public long createUniquenessConstraintIndex( KernelTransactionImplementation transaction, SchemaDescriptor descriptor, String provider )
+---
+>     
+> public long createUniquenessConstraintIndex( KernelTransactionImplementation transaction, SchemaDescriptor descriptor, String provider )

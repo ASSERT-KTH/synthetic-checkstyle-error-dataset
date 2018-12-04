@@ -1,0 +1,4 @@
+84c84
+<         final MutableLongSet rels = relTypeToRelsMap.getIfAbsentPut( typeId, LongHashSet::new );
+---
+>         final MutableLongSet rels= relTypeToRelsMap.getIfAbsentPut( typeId, LongHashSet::new );

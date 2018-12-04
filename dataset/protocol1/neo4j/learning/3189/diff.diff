@@ -1,0 +1,4 @@
+80c80
+<                 path( node( 1L ), rel( 2L, 1L, 3L ), node( 3L ) ),
+---
+>                 path( node( 1L ), 	rel( 2L, 1L, 3L ), node( 3L ) ),

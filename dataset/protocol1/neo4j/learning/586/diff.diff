@@ -1,0 +1,5 @@
+273c273,274
+<         public JavaFileObject getJavaFileForOutput( Location location, String className,
+---
+>         
+> public JavaFileObject getJavaFileForOutput( Location location, String className,

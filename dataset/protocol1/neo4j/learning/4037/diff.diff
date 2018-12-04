@@ -1,0 +1,4 @@
+62c62
+<         return wrapping.allowsPropertyReads( propertyKey );
+---
+>         return wrapping.allowsPropertyReads( propertyKey 	);

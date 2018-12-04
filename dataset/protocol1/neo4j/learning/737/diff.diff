@@ -1,0 +1,4 @@
+125c125
+<         try ( Transaction transaction = graph.beginTx() )
+---
+>         try ( Transaction transaction =graph.beginTx() )

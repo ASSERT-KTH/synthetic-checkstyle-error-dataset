@@ -1,0 +1,5 @@
+133,134c133
+<         TxData fullTxData = toFullTxData();
+<         holder.set( fullTxData );
+---
+>         TxData fullTxData = toFullTxData();        holder.set( fullTxData );

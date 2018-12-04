@@ -1,0 +1,4 @@
+42c42
+<             return super.compareTo( other );
+---
+>             return super.compareTo( 	other );

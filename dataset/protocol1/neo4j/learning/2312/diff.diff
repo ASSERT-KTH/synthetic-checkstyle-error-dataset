@@ -1,0 +1,4 @@
+145c145
+<         when( container.getAllProperties() ).thenReturn( properties.getProperties() );
+---
+>         when( container.getAllProperties() ).thenReturn( 	properties.getProperties() );

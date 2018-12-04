@@ -1,0 +1,4 @@
+39c39
+<     Map<String,String> validate( @Nonnull Config config, @Nonnull Log log ) throws InvalidSettingException;
+---
+>     Map<String,String> validate( @Nonnull Config config, @Nonnull Log log ) 	throws InvalidSettingException;

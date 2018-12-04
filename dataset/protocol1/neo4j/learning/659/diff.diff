@@ -1,0 +1,5 @@
+20c20,21
+< package org.neo4j.kernel.impl.factory;
+---
+> package 
+> org.neo4j.kernel.impl.factory;

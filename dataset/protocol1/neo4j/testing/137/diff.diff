@@ -1,0 +1,4 @@
+66c66
+<         Catcher catcher = new Catcher();
+---
+>         Catcher catcher = new 	Catcher();

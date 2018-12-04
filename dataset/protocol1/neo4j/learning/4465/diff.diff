@@ -1,0 +1,4 @@
+52c52
+<         long[] values = new long[]{1};
+---
+>         long[] values = new long[]	{1};

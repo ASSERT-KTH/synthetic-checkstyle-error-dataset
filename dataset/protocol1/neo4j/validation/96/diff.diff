@@ -1,0 +1,4 @@
+51c51
+<     public BoltResponseHandler responseHandler()
+---
+>     	public BoltResponseHandler responseHandler()

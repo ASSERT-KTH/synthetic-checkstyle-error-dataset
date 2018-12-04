@@ -1,0 +1,4 @@
+184c184
+<         Map<String, String> configProps = new HashMap<>();
+---
+>         	Map<String, String> configProps = new HashMap<>();

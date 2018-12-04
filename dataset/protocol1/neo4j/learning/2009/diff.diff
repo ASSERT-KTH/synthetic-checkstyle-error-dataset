@@ -1,0 +1,4 @@
+169c169
+<         doThrow( error ).when( output ).messageSucceeded();
+---
+>         doThrow( error ).when( 	output ).messageSucceeded();

@@ -1,0 +1,5 @@
+93c93,94
+<     private void assertCanEncodeAndDecodeToSameValue( Object value, int payloadSize )
+---
+>     private 
+> void assertCanEncodeAndDecodeToSameValue( Object value, int payloadSize )

@@ -1,0 +1,5 @@
+47,48c47
+<  *     <li>{@link java.util.List} of elements of any valid field type, including {@link java.util.List}</li>
+<  *     <li>{@link Object}, meaning any of the valid return types above</li>
+---
+>  *     <li>{@link java.util.List} of elements of any valid field type, including {@link java.util.List}</li> *     <li>{@link Object}, meaning any of the valid return types above</li>

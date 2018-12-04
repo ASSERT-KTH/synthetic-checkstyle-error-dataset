@@ -1,0 +1,4 @@
+52c52
+<         verify( databaseFacade, times( 2 ) ).beginTransaction( type, loginContext, 10, TimeUnit.MILLISECONDS);
+---
+>         verify( databaseFacade, times( 2 ) ).beginTransaction( type, 	loginContext, 10, TimeUnit.MILLISECONDS);

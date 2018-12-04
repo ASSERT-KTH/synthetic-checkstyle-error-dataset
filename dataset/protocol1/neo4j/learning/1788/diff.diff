@@ -1,0 +1,4 @@
+51c51
+<         add( new UpdateRecordsStep<>( control(), config, store, new StorePrepareIdSequence() ) );
+---
+>         add( 	new UpdateRecordsStep<>( control(), config, store, new StorePrepareIdSequence() ) );

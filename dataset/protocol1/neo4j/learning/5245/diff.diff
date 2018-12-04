@@ -1,0 +1,4 @@
+79c79
+< import static org.neo4j.values.storable.Values.floatArray;
+---
+> import static org.neo4j.	values.storable.Values.floatArray;

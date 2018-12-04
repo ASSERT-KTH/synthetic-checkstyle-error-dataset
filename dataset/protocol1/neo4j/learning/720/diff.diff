@@ -1,0 +1,5 @@
+118,119c118
+<         assertEncoding( "T1991-03-05T12:45:13.000008676|1992-04-06T05:04:50.000000076|",
+<                 new LocalDateTime[]{LocalDateTimeValue.localDateTime( 1991, 3, 5, 12, 45, 13, 8676 ).asObjectCopy(),
+---
+>         assertEncoding( "T1991-03-05T12:45:13.000008676|1992-04-06T05:04:50.000000076|",                new LocalDateTime[]{LocalDateTimeValue.localDateTime( 1991, 3, 5, 12, 45, 13, 8676 ).asObjectCopy(),

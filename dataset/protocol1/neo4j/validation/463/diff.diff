@@ -1,0 +1,4 @@
+116c116
+<         into.idRange = get6ByteLong( cursor );
+---
+>         into.idRange = get6ByteLong( cursor )	;

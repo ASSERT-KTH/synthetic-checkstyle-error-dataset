@@ -1,0 +1,4 @@
+36c36
+<     public static final AtomicInteger configuredCounter = new AtomicInteger();
+---
+>     public static final AtomicInteger 	configuredCounter = new AtomicInteger();

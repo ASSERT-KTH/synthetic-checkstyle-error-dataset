@@ -1,0 +1,5 @@
+41c41,42
+<         Supplier<LabelScanReader> scanStore = mock( Supplier.class );
+---
+>         Supplier<LabelScanReader> 
+> scanStore = mock( Supplier.class );

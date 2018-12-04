@@ -1,0 +1,5 @@
+33c33,34
+<     W apply( T t, U u, V v );
+---
+>     W apply
+> ( T t, U u, V v );

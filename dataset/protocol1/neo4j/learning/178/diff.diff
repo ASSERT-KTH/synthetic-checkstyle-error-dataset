@@ -1,0 +1,5 @@
+198c198,199
+<         long[] nodeSample = sample( nodeDataFactory, nodeHeaderFactory, valueSizeCalculator, node -> node.labels().length );
+---
+>         long[] nodeSample = 
+> sample( nodeDataFactory, nodeHeaderFactory, valueSizeCalculator, node -> node.labels().length );

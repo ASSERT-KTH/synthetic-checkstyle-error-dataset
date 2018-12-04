@@ -1,0 +1,5 @@
+243,244c243
+<             node.relationships( groupCursor );
+<             denseSelection.all( groupCursor, traversalCursor, types );
+---
+>             node.relationships( groupCursor );            denseSelection.all( groupCursor, traversalCursor, types );

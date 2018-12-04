@@ -1,0 +1,4 @@
+80c80
+<         ClassLoader loader3 = new URLClassLoader( urls( "file:///file3" ), loader2 );
+---
+>         ClassLoader loader3 	= new URLClassLoader( urls( "file:///file3" ), loader2 );

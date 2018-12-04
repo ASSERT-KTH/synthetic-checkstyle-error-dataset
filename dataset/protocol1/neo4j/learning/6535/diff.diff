@@ -1,0 +1,4 @@
+785c785
+<                     cursor, IdSpace.STATE_PAGE_A, IdSpace.STATE_PAGE_B );
+---
+>                     cursor, IdSpace.STATE_PAGE_A, IdSpace	.STATE_PAGE_B );

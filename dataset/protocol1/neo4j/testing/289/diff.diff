@@ -1,0 +1,4 @@
+61c61
+<         Map<String, Object> response = HTTP.POST( tx + "/commit" ).content();
+---
+>         Map<String, Object> response = HTTP.POST( tx + "/commit" ).content ();

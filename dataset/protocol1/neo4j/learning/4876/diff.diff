@@ -1,0 +1,4 @@
+48c48
+<         this.position = delegateChannel.position();
+---
+>         this.position= delegateChannel.position();

@@ -1,0 +1,5 @@
+168,169c168
+<     public long bytesWritten()
+<     {
+---
+>     public long bytesWritten()    {

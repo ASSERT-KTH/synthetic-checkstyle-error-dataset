@@ -1,0 +1,5 @@
+58,59c58
+<         Path file = Paths.get( "/some/path" );
+<         onDirectory( operation, wrapped ).visitFile( file, null );
+---
+>         Path file = Paths.get( "/some/path" );        onDirectory( operation, wrapped ).visitFile( file, null );

@@ -1,0 +1,5 @@
+96c96,97
+<         private Signal( CountDownLatch latch )
+---
+>         private Signal( 
+> CountDownLatch latch )

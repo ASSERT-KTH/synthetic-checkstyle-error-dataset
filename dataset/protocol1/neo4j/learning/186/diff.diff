@@ -1,0 +1,5 @@
+115c115,116
+<     void set( long index, byte[] value );
+---
+>     void set( 
+> long index, byte[] value );

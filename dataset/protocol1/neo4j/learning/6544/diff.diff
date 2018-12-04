@@ -1,0 +1,4 @@
+100c100
+<     public void runOutOfDiskSpace( boolean outOfSpace )
+---
+>     public void runOutOfDiskSpace( boolean outOfSpace)

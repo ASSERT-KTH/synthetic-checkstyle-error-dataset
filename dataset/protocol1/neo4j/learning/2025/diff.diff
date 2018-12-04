@@ -1,0 +1,4 @@
+100c100
+<         BoltConnector bolt = new BoltConnector( DEFAULT_CONNECTOR_KEY );
+---
+>         BoltConnector bolt = new BoltConnector( DEFAULT_CONNECTOR_KEY )	;

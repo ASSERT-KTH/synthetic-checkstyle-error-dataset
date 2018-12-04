@@ -1,0 +1,5 @@
+41,42c41
+<         StubProgressor otherProgressor = new StubProgressor();
+<         cursor.initialize( otherProgressor );
+---
+>         StubProgressor otherProgressor = new StubProgressor();        cursor.initialize( otherProgressor );

@@ -1,0 +1,5 @@
+40c40,41
+< import org.neo4j.graphdb.Label;
+---
+> import 
+> org.neo4j.graphdb.Label;

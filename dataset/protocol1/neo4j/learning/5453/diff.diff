@@ -1,0 +1,5 @@
+152c152,153
+<         public UniqueRelationshipFactory( GraphDatabaseService graphdb, String index )
+---
+>         public 
+> UniqueRelationshipFactory( GraphDatabaseService graphdb, String index )

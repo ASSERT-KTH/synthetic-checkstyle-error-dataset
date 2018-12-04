@@ -1,0 +1,5 @@
+79,80c79
+<         long nodeId = 11;
+<         int value1 = 1;
+---
+>         long nodeId = 11;        int value1 = 1;

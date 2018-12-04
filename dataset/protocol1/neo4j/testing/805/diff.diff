@@ -1,0 +1,4 @@
+42c42
+<     ExtensionPointRepresentation describe( String name, Class<?> type, String method ) throws PluginLookupException;
+---
+>     ExtensionPointRepresentation describe( String 	name, Class<?> type, String method ) throws PluginLookupException;

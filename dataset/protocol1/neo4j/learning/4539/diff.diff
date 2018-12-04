@@ -1,0 +1,4 @@
+119c119
+<         PointerChecking.checkPointer( result, true );
+---
+>         PointerChecking.checkPointer( result, true )	;

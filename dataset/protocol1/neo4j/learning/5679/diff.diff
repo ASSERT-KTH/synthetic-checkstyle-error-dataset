@@ -1,0 +1,5 @@
+367,368c367
+<         String myProperty1 = uriPartForType + "-myProperty1-" + millis;
+<         String myProperty2 = uriPartForType + "-myProperty2-" + millis;
+---
+>         String myProperty1 = uriPartForType + "-myProperty1-" + millis;        String myProperty2 = uriPartForType + "-myProperty2-" + millis;

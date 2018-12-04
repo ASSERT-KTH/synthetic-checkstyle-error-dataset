@@ -1,0 +1,4 @@
+493c493
+<         return txState != null && txState.hasChanges();
+---
+>         return txState != null && txState.hasChanges(	);

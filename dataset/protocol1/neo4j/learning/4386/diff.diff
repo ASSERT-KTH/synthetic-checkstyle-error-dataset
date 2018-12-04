@@ -1,0 +1,4 @@
+87c87
+<         verify( logHeaderCache, times( 1 ) ).putHeader( version, expected - 1 );
+---
+>         verify( logHeaderCache, times( 1 ) ).putHeader( version, expected- 1 );

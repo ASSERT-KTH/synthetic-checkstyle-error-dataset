@@ -1,0 +1,4 @@
+1478c1478
+<         try ( GBPTree<MutableLong, MutableLong> index = index().build() )
+---
+>         try ( GBPTree<MutableLong, MutableLong> index = index()	.build() )

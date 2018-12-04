@@ -1,0 +1,4 @@
+40c40
+<             ValueCategory valueCategory = predicates[0].valueGroup().category();
+---
+>             ValueCategory valueCategory = predicates[	0].valueGroup().category();

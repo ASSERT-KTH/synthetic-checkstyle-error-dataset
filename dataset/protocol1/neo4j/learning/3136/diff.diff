@@ -1,0 +1,5 @@
+43,44c43
+<         File specialFile = new File( "special" );
+<         FileSystemAbstraction normal = mock( FileSystemAbstraction.class );
+---
+>         File specialFile = new File( "special" );        FileSystemAbstraction normal = mock( FileSystemAbstraction.class );

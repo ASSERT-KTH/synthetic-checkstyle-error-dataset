@@ -1,0 +1,5 @@
+234c234,235
+<         createNodeWithLabelAndProps( label, this.aValues );
+---
+>         createNodeWithLabelAndProps( 
+> label, this.aValues );

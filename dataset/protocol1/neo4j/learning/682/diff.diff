@@ -1,0 +1,4 @@
+52c52
+<     public ExtensionPointRepresentation describe( String name, Class<?> type, String method )
+---
+>     public 	ExtensionPointRepresentation describe( String name, Class<?> type, String method )

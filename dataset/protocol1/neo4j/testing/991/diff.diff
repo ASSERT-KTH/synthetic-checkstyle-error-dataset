@@ -1,0 +1,4 @@
+120c120
+<         rawValueBits = value;
+---
+>         rawValueBits= value;

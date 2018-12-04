@@ -1,0 +1,5 @@
+67,68c67
+<     public FlushableChannel putShort( short value ) throws IOException
+<     {
+---
+>     public FlushableChannel putShort( short value ) throws IOException    {

@@ -1,0 +1,5 @@
+143c143,144
+<             return lookup( key, new ValueRegister( target ) );
+---
+>             return lookup( key, new ValueRegister( 
+> target ) );

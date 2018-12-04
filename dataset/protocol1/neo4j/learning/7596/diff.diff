@@ -1,0 +1,4 @@
+268c268
+<             if ( !expectation.remove( element ) )
+---
+>             	if ( !expectation.remove( element ) )

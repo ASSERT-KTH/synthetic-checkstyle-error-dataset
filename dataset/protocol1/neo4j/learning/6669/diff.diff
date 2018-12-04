@@ -1,0 +1,4 @@
+43c43
+<         super( new LuceneSchemaIndex( indexStorage, descriptor, samplingConfig, readOnlyIndexPartitionFactory ) );
+---
+>         super( new LuceneSchemaIndex( indexStorage, descriptor, samplingConfig, 	readOnlyIndexPartitionFactory ) );

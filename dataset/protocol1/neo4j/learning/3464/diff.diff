@@ -1,0 +1,4 @@
+187c187
+<         assertEquals( 3, subRange.nextId() );
+---
+>         assertEquals( 3, subRange	.nextId() );

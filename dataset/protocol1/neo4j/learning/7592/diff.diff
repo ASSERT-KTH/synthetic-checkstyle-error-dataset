@@ -1,0 +1,5 @@
+330,331c330
+<     public Stream<String> listAvailableAnalyzers()
+<     {
+---
+>     public Stream<String> listAvailableAnalyzers()    {

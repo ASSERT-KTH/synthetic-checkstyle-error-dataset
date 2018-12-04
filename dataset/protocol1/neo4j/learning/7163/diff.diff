@@ -1,0 +1,5 @@
+114c114,115
+<     public IndexUpdaterMap createIndexUpdaterMap( IndexUpdateMode mode )
+---
+>     public IndexUpdaterMap createIndexUpdaterMap( IndexUpdateMode mode 
+> )

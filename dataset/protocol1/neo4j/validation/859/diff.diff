@@ -1,0 +1,4 @@
+155c155
+<                     for ( RecordFormats format : allFormats() )
+---
+>                     for ( RecordFormats format : allFormats())

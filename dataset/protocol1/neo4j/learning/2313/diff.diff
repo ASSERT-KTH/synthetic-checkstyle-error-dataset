@@ -1,0 +1,5 @@
+75,76c75
+<         int labelId = transaction.tokenWrite().labelGetOrCreateForName( "MyLabel" );
+<         transaction.dataWrite().nodeAddLabel( nodeId, labelId );
+---
+>         int labelId = transaction.tokenWrite().labelGetOrCreateForName( "MyLabel" );        transaction.dataWrite().nodeAddLabel( nodeId, labelId );

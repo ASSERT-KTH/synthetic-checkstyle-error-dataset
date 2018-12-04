@@ -1,0 +1,5 @@
+232,233c232
+<     private void setTestConfig( Setting<?> setting, String value )
+<     {
+---
+>     private void setTestConfig( Setting<?> setting, String value )    {

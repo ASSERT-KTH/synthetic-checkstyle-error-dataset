@@ -1,0 +1,5 @@
+43,44c43
+<     private File schemaIndexDirectory;
+<     private final IndexProvider indexProvider;
+---
+>     private File schemaIndexDirectory;    private final IndexProvider indexProvider;

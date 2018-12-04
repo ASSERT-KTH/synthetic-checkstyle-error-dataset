@@ -1,0 +1,4 @@
+917c917
+<                 try ( CodeBlock doStuff = conditional.ifStatement( not( equal( conditional.load( "lhs" ), conditional.load( "rhs" ) ) ) ) )
+---
+>                 try ( CodeBlock doStuff = conditional.ifStatement( not( equal( conditional.load( "lhs" ), conditional.	load( "rhs" ) ) ) ) )

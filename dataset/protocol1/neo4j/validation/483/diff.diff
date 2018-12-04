@@ -1,0 +1,4 @@
+417c417
+<             secondRelID = createRelationshipIndexableByPropertyValue( secondNodeID, firstNodeID, "And now, something completely different" );
+---
+>             secondRelID = 	createRelationshipIndexableByPropertyValue( secondNodeID, firstNodeID, "And now, something completely different" );

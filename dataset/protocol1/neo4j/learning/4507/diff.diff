@@ -1,0 +1,5 @@
+431,432c431
+<         assertThat( connection, util.eventuallyReceivesSelectedProtocolVersion() );
+<         assertThat( connection, util.eventuallyReceives( msgSuccess() ) );
+---
+>         assertThat( connection, util.eventuallyReceivesSelectedProtocolVersion() );        assertThat( connection, util.eventuallyReceives( msgSuccess() ) );

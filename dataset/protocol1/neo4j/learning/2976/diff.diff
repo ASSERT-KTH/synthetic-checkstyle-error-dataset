@@ -1,0 +1,4 @@
+96c96
+<         return (byte) (value ? headerByte | bitMask : headerByte);
+---
+>         return (byte) (value ? headerByte | bitMask 	: headerByte);

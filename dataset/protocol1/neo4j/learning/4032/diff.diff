@@ -1,0 +1,5 @@
+193c193,194
+<     public <T> T execute( Function<Transaction, T> txFunction ) throws TransactionFailureException
+---
+>     public <T> T execute( Function<Transaction, T> txFunction 
+> ) throws TransactionFailureException

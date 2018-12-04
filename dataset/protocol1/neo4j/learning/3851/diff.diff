@@ -1,0 +1,5 @@
+58,59c58
+<     private final ImportLogic.Monitor monitor;
+<     private final JobScheduler jobScheduler;
+---
+>     private final ImportLogic.Monitor monitor;    private final JobScheduler jobScheduler;

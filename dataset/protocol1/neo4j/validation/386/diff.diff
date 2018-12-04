@@ -1,0 +1,4 @@
+43c43
+<     public static final NodeValue CAROL = nodeValue(
+---
+>     public static 	final NodeValue CAROL = nodeValue(

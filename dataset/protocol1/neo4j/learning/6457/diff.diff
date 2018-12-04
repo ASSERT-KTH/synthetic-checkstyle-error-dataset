@@ -1,0 +1,4 @@
+67c67
+<         servletHolder.setInitParameter( ResourceConfig.PROPERTY_CONTAINER_REQUEST_FILTERS, getRequestFilterConfig() );
+---
+>         servletHolder.setInitParameter( 	ResourceConfig.PROPERTY_CONTAINER_REQUEST_FILTERS, getRequestFilterConfig() );

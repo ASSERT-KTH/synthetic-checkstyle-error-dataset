@@ -1,0 +1,4 @@
+73c73
+<     public static final Setting<String> udc_registration_key = buildSetting( "unsupported.dbms.udc.reg", STRING, "unreg" ).constraint(
+---
+>     public static final Setting<String> udc_registration_key = buildSetting ( "unsupported.dbms.udc.reg", STRING, "unreg" ).constraint(

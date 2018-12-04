@@ -1,0 +1,4 @@
+55c55
+<                 portProvider = new CoordinatingPortProvider( portRepository, portProbe );
+---
+>                 portProvider = new CoordinatingPortProvider( portRepository, 	portProbe );

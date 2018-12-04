@@ -1,0 +1,5 @@
+29c29,30
+< public interface TransactionRepresentation extends CommandStream
+---
+> public interface 
+> TransactionRepresentation extends CommandStream

@@ -1,0 +1,5 @@
+100c100,101
+<             public void log( @Nonnull String message, @Nonnull Throwable throwable )
+---
+>             public void log( @Nonnull String message, @Nonnull Throwable throwable 
+> )

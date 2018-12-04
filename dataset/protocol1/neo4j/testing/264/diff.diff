@@ -1,0 +1,4 @@
+35c35
+<         String baseUrl = "http://baseurl/";
+---
+>         String baseUrl = 	"http://baseurl/";

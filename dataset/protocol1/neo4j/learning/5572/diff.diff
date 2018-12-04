@@ -1,0 +1,5 @@
+88,89c88
+<         }
+<         else if ( lhsType == FLOAT )
+---
+>         }        else if ( lhsType == FLOAT )

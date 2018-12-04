@@ -1,0 +1,4 @@
+518c518
+<         IndexProvider native20Provider = mockIndexProviderWithAccessor( native20Descriptor );
+---
+>         IndexProvider native20Provider = 	mockIndexProviderWithAccessor( native20Descriptor );

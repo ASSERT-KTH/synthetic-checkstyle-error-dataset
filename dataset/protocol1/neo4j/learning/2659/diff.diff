@@ -1,0 +1,4 @@
+34c34
+< import static org.mockito.Mockito.never;
+---
+> import static 	org.mockito.Mockito.never;

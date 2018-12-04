@@ -1,0 +1,4 @@
+44c44
+<     protected Table<VALUE> newInstance( int newCapacity )
+---
+>     protected 	Table<VALUE> newInstance( int newCapacity )

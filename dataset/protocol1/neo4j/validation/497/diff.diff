@@ -1,0 +1,4 @@
+72c72
+<     public void setSlotSizes( int... slotSizes )
+---
+>     public void setSlotSizes( int... slotSizes)

@@ -1,0 +1,5 @@
+30,31c30
+<     void write( ResponseMessage message ) throws IOException;
+< }
+---
+>     void write( ResponseMessage message ) throws IOException;}

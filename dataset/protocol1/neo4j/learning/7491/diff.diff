@@ -1,0 +1,4 @@
+109c109
+<         return LongStream.rangeClosed( lower, upper );
+---
+>         return LongStream.rangeClosed( lower, 	upper );

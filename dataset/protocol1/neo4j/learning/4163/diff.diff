@@ -1,0 +1,4 @@
+55c55
+<         allocatedBytes.add( -bytes );
+---
+>         allocatedBytes.add( 	-bytes );

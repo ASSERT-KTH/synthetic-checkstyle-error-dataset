@@ -1,0 +1,4 @@
+46c46
+<     public static final PropertyValueComparator<Number> COMPARE_NUMBERS = new PropertyValueComparator<Number>()
+---
+>     public static final PropertyValueComparator<Number> COMPARE_NUMBERS =new PropertyValueComparator<Number>()

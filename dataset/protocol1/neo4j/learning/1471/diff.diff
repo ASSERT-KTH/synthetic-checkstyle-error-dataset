@@ -1,0 +1,5 @@
+74c74,75
+<     public Set<String> getAutoIndexedProperties()
+---
+>     
+> public Set<String> getAutoIndexedProperties()

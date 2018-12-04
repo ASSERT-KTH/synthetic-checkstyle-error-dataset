@@ -1,0 +1,5 @@
+115,116c115
+<         clientA.close();
+<         clientA.tryExclusiveLock( NODE, 1L );
+---
+>         clientA.close();        clientA.tryExclusiveLock( NODE, 1L );

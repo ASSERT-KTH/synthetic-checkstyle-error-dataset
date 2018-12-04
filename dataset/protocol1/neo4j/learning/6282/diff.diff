@@ -1,0 +1,5 @@
+26c26,27
+<     BoltStateMachineState process( RequestMessage message, StateMachineContext context ) throws BoltConnectionFatality;
+---
+>     BoltStateMachineState process( 
+> RequestMessage message, StateMachineContext context ) throws BoltConnectionFatality;

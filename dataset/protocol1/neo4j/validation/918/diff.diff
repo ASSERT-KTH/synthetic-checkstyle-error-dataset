@@ -1,0 +1,4 @@
+37c37
+< import org.neo4j.internal.kernel.api.IndexQuery.IndexQueryType;
+---
+> import org.neo4j.	internal.kernel.api.IndexQuery.IndexQueryType;

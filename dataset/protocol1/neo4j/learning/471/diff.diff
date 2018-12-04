@@ -1,0 +1,5 @@
+172c172,173
+<         void write( N array, int index, Object value );
+---
+>         void write( N array, int index, Object 
+> value );

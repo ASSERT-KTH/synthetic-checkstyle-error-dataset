@@ -1,0 +1,4 @@
+48c48
+<     private final Log log;
+---
+>     private final Log log	;

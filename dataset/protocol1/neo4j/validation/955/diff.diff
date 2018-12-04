@@ -1,0 +1,5 @@
+29,30c29
+<     TestLayout<MutableLong,MutableLong> getLayout()
+<     {
+---
+>     TestLayout<MutableLong,MutableLong> getLayout()    {

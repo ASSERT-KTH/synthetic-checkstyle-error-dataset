@@ -1,0 +1,5 @@
+42,43c42
+<     public Operation getOperation()
+<     {
+---
+>     public Operation getOperation()    {

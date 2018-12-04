@@ -1,0 +1,5 @@
+84c84,85
+<         return oldFormat.getFormatFamily().compareTo( newFormat.getFormatFamily() ) > 0;
+---
+>         return oldFormat.getFormatFamily().compareTo( 
+> newFormat.getFormatFamily() ) > 0;

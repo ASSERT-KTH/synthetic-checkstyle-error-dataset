@@ -1,0 +1,5 @@
+28,29c28
+<     void init( long nodeReference, long reference );
+< }
+---
+>     void init( long nodeReference, long reference );}

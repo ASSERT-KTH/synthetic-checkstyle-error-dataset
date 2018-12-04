@@ -1,0 +1,5 @@
+102,103c102
+<     public byte getByte( long index, int offset )
+<     {
+---
+>     public byte getByte( long index, int offset )    {

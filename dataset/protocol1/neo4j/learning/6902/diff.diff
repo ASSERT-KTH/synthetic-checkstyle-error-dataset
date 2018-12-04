@@ -1,0 +1,4 @@
+85c85
+<         properties.put( GraphDatabaseSettings.data_directory.name(), testDir.databaseDir().toString() );
+---
+>         properties.put( GraphDatabaseSettings.data_directory.name(), testDir.databaseDir().toString () );

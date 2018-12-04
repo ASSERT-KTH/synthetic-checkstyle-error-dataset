@@ -1,0 +1,5 @@
+47,48c47
+< import static org.junit.jupiter.api.Assertions.assertThrows;
+< import static org.neo4j.kernel.api.impl.schema.LuceneIndexProvider.defaultDirectoryStructure;
+---
+> import static org.junit.jupiter.api.Assertions.assertThrows;import static org.neo4j.kernel.api.impl.schema.LuceneIndexProvider.defaultDirectoryStructure;

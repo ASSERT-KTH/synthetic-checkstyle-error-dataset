@@ -1,0 +1,5 @@
+50c50,51
+<         if ( absoluteWay + absoluteStep > 1f )
+---
+>         if 
+> ( absoluteWay + absoluteStep > 1f )

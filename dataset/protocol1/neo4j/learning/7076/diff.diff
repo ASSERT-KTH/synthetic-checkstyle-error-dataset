@@ -1,0 +1,4 @@
+31c31
+<     @Mapping( "weight" )
+---
+>     @Mapping("weight" )

@@ -1,0 +1,5 @@
+47c47,48
+<         this.stderr = new PrintStream( stderr );
+---
+>         this.stderr 
+> = new PrintStream( stderr );

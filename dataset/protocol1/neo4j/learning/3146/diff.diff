@@ -1,0 +1,4 @@
+104c104
+<         updateAndCommit( accessor, asList( add( 1L, "value1" ) ) );
+---
+>         updateAndCommit( accessor, asList ( add( 1L, "value1" ) ) );

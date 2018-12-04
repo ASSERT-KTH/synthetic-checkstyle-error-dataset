@@ -1,0 +1,4 @@
+72c72
+<             graphDb.schema().constraintFor( label ).assertPropertyIsUnique( propertyKey ).create();
+---
+>             graphDb.schema().constraintFor( label ).assertPropertyIsUnique ( propertyKey ).create();

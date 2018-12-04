@@ -1,0 +1,5 @@
+27c27,28
+< public class HeapIntArray extends HeapNumberArray<IntArray> implements IntArray
+---
+> public class HeapIntArray extends HeapNumberArray<IntArray> implements 
+> IntArray

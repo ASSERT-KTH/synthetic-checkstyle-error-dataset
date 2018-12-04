@@ -1,0 +1,4 @@
+39c39
+<     TransactionLogFilesHelper( File directory, String name )
+---
+>     TransactionLogFilesHelper( File directory	, String name )

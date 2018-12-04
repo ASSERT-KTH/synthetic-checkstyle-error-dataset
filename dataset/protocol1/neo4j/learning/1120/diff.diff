@@ -1,0 +1,5 @@
+175c175,176
+<         return new SimpleHit<>( intoKey, intoValue );
+---
+>         return new SimpleHit<>( intoKey, intoValue 
+> );

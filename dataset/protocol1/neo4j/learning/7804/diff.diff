@@ -1,0 +1,4 @@
+25c25
+<     long UNKNOWN_MAX_COUNT = -1;
+---
+>     long 	UNKNOWN_MAX_COUNT = -1;

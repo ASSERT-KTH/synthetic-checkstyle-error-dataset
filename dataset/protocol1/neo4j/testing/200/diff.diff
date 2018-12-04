@@ -1,0 +1,4 @@
+263c263
+<         private void reportProgress()
+---
+>         private void reportProgress ()

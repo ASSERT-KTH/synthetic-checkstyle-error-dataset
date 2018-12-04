@@ -1,0 +1,5 @@
+43c43,44
+<     public abstract long get( RelationshipRecord rel );
+---
+>     public abstract long get( 
+> RelationshipRecord rel );

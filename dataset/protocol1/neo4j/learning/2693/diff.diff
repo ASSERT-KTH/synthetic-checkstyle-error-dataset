@@ -1,0 +1,4 @@
+56c56
+<                 assertEquals( format( "comparing %s and %s", vi, vj ), expected, keyI.compareValueTo( keyJ ) );
+---
+>                 assertEquals( format( "comparing %s and %s", vi, vj ), expected	, keyI.compareValueTo( keyJ ) );

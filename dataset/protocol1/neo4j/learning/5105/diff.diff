@@ -1,0 +1,5 @@
+33c33,34
+<     private final Header.Entry entry2 = new Header.Entry( null, Type.TYPE, null, extractors.string() );
+---
+>     private final Header.Entry entry2 = new Header.Entry
+> ( null, Type.TYPE, null, extractors.string() );

@@ -1,0 +1,4 @@
+246c246
+<             return new ListRepresentation( itemConverter.type(), new IterableWrapper<Representation, Object>(
+---
+>             return new ListRepresentation(itemConverter.type(), new IterableWrapper<Representation, Object>(

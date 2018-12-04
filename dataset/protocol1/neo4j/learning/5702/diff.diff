@@ -1,0 +1,5 @@
+210,211c210
+<         public long getPropertyStoreSize()
+<         {
+---
+>         public long getPropertyStoreSize()        {

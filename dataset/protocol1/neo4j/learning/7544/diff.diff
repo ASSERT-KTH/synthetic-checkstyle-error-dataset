@@ -1,0 +1,5 @@
+99c99,100
+<     public boolean isReadOnly()
+---
+>     
+> public boolean isReadOnly()

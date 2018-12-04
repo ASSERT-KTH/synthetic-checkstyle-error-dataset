@@ -1,0 +1,5 @@
+77c77,78
+<                 throw new IOException( "Unable to write to disk, reported bytes written was " + bytesWritten );
+---
+>                 throw new IOException( 
+> "Unable to write to disk, reported bytes written was " + bytesWritten );

@@ -1,0 +1,4 @@
+85c85
+<         for ( StatsProvider provider : providers )
+---
+>         for ( StatsProvider provider : providers 	)

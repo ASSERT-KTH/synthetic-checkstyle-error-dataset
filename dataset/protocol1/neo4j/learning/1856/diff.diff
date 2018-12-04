@@ -1,0 +1,4 @@
+82c82
+<         long[] rangeDefrag = EMPTY_LONG_ARRAY;
+---
+>         long[] rangeDefrag 	= EMPTY_LONG_ARRAY;

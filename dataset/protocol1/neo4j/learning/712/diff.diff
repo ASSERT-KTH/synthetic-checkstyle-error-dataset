@@ -1,0 +1,5 @@
+40c40,41
+<     private static final String STRING_TEST_FIELD = "testString";
+---
+>     private static final String 
+> STRING_TEST_FIELD = "testString";

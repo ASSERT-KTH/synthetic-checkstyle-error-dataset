@@ -1,0 +1,4 @@
+64c64
+<         assertEquals( '4', buffer2.array()[4] );
+---
+>         assertEquals( 	'4', buffer2.array()[4] );

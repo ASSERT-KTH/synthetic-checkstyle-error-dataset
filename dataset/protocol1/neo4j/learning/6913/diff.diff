@@ -1,0 +1,4 @@
+65c65
+<                     array.set( i, i );
+---
+>                     array.set( i, i 	);

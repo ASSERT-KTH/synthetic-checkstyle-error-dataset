@@ -1,0 +1,5 @@
+152c152,153
+<         NodeRecord nodeRecord = new NodeRecord( 0L );
+---
+>         NodeRecord nodeRecord = new 
+> NodeRecord( 0L );

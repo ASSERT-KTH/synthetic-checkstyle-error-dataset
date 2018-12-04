@@ -1,0 +1,5 @@
+29c29,30
+< public class CloseableResourceManager implements ResourceManager
+---
+> public class 
+> CloseableResourceManager implements ResourceManager

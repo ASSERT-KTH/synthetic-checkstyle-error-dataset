@@ -1,0 +1,5 @@
+36c36,37
+<         long returnVal = length | longValue;
+---
+>         long returnVal 
+> = length | longValue;

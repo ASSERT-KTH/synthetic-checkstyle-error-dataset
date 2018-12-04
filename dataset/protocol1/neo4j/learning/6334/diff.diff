@@ -1,0 +1,5 @@
+59c59,60
+<     protected BoltRequestMessageReader createMessageReader( BoltChannel channel, Neo4jPack neo4jPack, BoltConnection connection, LogService logging )
+---
+>     protected BoltRequestMessageReader createMessageReader( 
+> BoltChannel channel, Neo4jPack neo4jPack, BoltConnection connection, LogService logging )

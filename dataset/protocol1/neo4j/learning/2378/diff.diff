@@ -1,0 +1,4 @@
+32c32
+<     DirectSearcherReference( IndexSearcher searcher, Closeable resource )
+---
+>     DirectSearcherReference(IndexSearcher searcher, Closeable resource )

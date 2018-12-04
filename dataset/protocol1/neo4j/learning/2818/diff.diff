@@ -1,0 +1,4 @@
+30c30
+<     private Function<String,String> scopingRule = Function.identity();
+---
+>     private Function<String,String> scopingRule = Function.identity()	;

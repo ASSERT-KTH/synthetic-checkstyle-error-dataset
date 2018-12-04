@@ -1,0 +1,4 @@
+43c43
+< import static org.neo4j.internal.kernel.api.security.LoginContext.AUTH_DISABLED;
+---
+> import static org.neo4j.internal.kernel.	api.security.LoginContext.AUTH_DISABLED;

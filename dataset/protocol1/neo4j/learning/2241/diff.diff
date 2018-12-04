@@ -1,0 +1,4 @@
+42c42
+<     List<Coordinate> getCoordinates();
+---
+>     List<Coordinate>getCoordinates();

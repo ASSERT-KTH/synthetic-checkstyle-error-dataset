@@ -1,0 +1,5 @@
+48c48,49
+<         for ( char expected = 0; expected < Character.MAX_VALUE; expected++ )
+---
+>         for ( char expected = 0; expected 
+> < Character.MAX_VALUE; expected++ )

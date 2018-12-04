@@ -1,0 +1,5 @@
+206c206,207
+<             assertIncoming( (ResourceIterator<R>) iterator, sourceNode, type );
+---
+>             
+> assertIncoming( (ResourceIterator<R>) iterator, sourceNode, type );

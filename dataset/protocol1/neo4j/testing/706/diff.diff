@@ -1,0 +1,5 @@
+341c341,342
+<         assertFalse( test( p, gps1_3d ) );
+---
+>         assertFalse( test( p, gps1_3d 
+> ) );

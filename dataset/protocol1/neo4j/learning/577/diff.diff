@@ -1,0 +1,4 @@
+49c49
+<             FeatureToggles.getDouble( IndexWriterConfigs.class, "nocfs.ratio", 1.0 );
+---
+>             FeatureToggles.getDouble( IndexWriterConfigs.class, "nocfs.ratio", 1.0 )	;

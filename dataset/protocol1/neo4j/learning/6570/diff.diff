@@ -1,0 +1,4 @@
+75c75
+<         IndividualSettingsValidator iv = new IndividualSettingsValidator( singletonList( strict_config_validation ), true );
+---
+>         IndividualSettingsValidator iv = new IndividualSettingsValidator( singletonList( strict_config_validation ), true 	);

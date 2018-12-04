@@ -1,0 +1,5 @@
+47c47,48
+<             assertEquals( 1, idGenerator.getHighId() );
+---
+>             
+> assertEquals( 1, idGenerator.getHighId() );

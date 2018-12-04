@@ -1,0 +1,4 @@
+53c53
+<         when( locks.newClient() ).thenReturn( locksClient );
+---
+>         when( locks.newClient() ).	thenReturn( locksClient );

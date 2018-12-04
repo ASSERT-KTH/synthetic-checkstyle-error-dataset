@@ -1,0 +1,5 @@
+513c513,514
+<         StoreIndexDescriptor nativeBtree10Index  = storeIndex( 5, 1, 5, nativeBtree10Descriptor );
+---
+>         StoreIndexDescriptor nativeBtree10Index  = storeIndex
+> ( 5, 1, 5, nativeBtree10Descriptor );

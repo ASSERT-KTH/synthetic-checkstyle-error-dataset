@@ -1,0 +1,4 @@
+25c25
+< public class BoltProtocolBreachFatality extends BoltConnectionFatality
+---
+> 	public class BoltProtocolBreachFatality extends BoltConnectionFatality

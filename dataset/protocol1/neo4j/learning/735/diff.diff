@@ -1,0 +1,5 @@
+114c114,115
+<         try ( InputStream stream = fileSystemRule.get().openAsInputStream( file ) )
+---
+>         try ( InputStream stream = fileSystemRule.get
+> ().openAsInputStream( file ) )

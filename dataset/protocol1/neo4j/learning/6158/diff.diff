@@ -1,0 +1,5 @@
+30,31c30
+< import static org.mockito.Mockito.when;
+< import static org.neo4j.helpers.collection.Iterators.array;
+---
+> import static org.mockito.Mockito.when;import static org.neo4j.helpers.collection.Iterators.array;

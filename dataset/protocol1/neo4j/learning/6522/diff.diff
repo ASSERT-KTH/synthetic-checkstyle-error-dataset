@@ -1,0 +1,5 @@
+49,50c49
+<             root = db.createNode();
+<             createRelationshipsOnNode( db, root, 40 );
+---
+>             root = db.createNode();            createRelationshipsOnNode( db, root, 40 );

@@ -1,0 +1,5 @@
+438,439c438
+<             }
+<             if ( o == null || getClass() != o.getClass() )
+---
+>             }            if ( o == null || getClass() != o.getClass() )

@@ -1,0 +1,4 @@
+205c205
+<         channel = new EmbeddedChannel( newDecoder( connection ) );
+---
+>         	channel = new EmbeddedChannel( newDecoder( connection ) );

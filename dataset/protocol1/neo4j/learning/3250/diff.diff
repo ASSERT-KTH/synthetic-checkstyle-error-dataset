@@ -1,0 +1,4 @@
+22c22
+< public abstract class FooService extends Service
+---
+> public abstract class FooService 	extends Service

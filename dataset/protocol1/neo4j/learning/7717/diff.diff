@@ -1,0 +1,4 @@
+224c224
+<                         any(), eq( new ConsistencyFlags( false, false, false, true ) ) );
+---
+>                         any(), eq( new 	ConsistencyFlags( false, false, false, true ) ) );

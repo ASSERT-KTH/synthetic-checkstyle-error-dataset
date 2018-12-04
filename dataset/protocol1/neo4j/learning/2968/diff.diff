@@ -1,0 +1,5 @@
+137c137,138
+<         if ( !notifications.iterator().hasNext() )
+---
+>         if ( 
+> !notifications.iterator().hasNext() )

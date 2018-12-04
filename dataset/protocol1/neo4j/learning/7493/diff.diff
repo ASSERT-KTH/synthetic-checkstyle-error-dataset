@@ -1,0 +1,5 @@
+97c97,98
+<             scanStore.init();
+---
+>             
+> scanStore.init();

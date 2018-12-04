@@ -1,0 +1,4 @@
+53c53
+<         int protocolVersion = 42;
+---
+>         int protocolVersion 	= 42;

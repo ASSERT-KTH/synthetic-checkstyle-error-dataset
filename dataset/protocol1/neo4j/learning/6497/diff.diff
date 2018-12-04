@@ -1,0 +1,5 @@
+59c59,60
+<     FlushableChannel putDouble( double value ) throws IOException;
+---
+>     FlushableChannel putDouble( double 
+> value ) throws IOException;

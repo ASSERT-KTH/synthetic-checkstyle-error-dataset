@@ -1,0 +1,4 @@
+48c48
+<         return String.format( "CONSTRAINT ON ()-[ %s:%s ]-() ASSERT exists(%s.%s)",
+---
+>         return String.format( 	"CONSTRAINT ON ()-[ %s:%s ]-() ASSERT exists(%s.%s)",

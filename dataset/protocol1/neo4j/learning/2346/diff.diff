@@ -1,0 +1,5 @@
+45c45,46
+<     WritableChannel putShort( short value ) throws IOException;
+---
+>     
+> WritableChannel putShort( short value ) throws IOException;

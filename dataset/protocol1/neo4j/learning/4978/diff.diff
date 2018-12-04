@@ -1,0 +1,4 @@
+33c33
+< public class PingerHandler implements HttpRequestHandler
+---
+> public class PingerHandler implements 	HttpRequestHandler

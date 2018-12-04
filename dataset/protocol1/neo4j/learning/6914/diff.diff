@@ -1,0 +1,4 @@
+45c45
+<     protected Double addPriority( TraversalBranch source,
+---
+>     protected 	Double addPriority( TraversalBranch source,

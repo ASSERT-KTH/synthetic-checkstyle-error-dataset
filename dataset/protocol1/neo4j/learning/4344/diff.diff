@@ -1,0 +1,4 @@
+320c320
+<         return RecordPageLocationCalculator.offsetForId( id, pagedFile.pageSize(), recordSize );
+---
+>         return RecordPageLocationCalculator	.offsetForId( id, pagedFile.pageSize(), recordSize );

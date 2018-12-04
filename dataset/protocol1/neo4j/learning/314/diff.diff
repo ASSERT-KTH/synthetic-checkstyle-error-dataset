@@ -1,0 +1,4 @@
+151c151
+<             int crsTableId = Byte.toUnsignedInt( header[3] );
+---
+>             int crsTableId = Byte.toUnsignedInt( header[3	] );

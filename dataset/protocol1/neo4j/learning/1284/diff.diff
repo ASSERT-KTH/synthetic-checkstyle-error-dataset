@@ -1,0 +1,4 @@
+51c51
+<         textValueValidator.validate( value );
+---
+>         textValueValidator.validate ( value );

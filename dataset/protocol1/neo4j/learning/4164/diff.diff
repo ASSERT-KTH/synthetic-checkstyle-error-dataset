@@ -1,0 +1,5 @@
+30c30,31
+<     Index<Node> getOrCreateNodeIndex( String indexName, Map<String, String> customConfiguration );
+---
+>     Index<Node> getOrCreateNodeIndex( String 
+> indexName, Map<String, String> customConfiguration );

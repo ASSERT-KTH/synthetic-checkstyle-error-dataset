@@ -1,0 +1,4 @@
+22c22
+< import org.apache.lucene.search.IndexSearcher;
+---
+> import 	org.apache.lucene.search.IndexSearcher;

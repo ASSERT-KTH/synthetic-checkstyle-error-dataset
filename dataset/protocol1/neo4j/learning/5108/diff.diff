@@ -1,0 +1,5 @@
+22c22,23
+< public class InvalidArgumentsException extends Exception implements Status.HasStatus
+---
+> public class InvalidArgumentsException extends Exception 
+> implements Status.HasStatus

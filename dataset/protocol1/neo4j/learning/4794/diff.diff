@@ -1,0 +1,4 @@
+68c68
+<         HTTP.Response response = HTTP.GET( server.baseUri().resolve( "db/manage/server/console" ).toString() );
+---
+>         HTTP.Response response 	= HTTP.GET( server.baseUri().resolve( "db/manage/server/console" ).toString() );

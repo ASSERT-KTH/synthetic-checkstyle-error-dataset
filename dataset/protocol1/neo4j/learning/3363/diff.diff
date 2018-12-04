@@ -1,0 +1,4 @@
+98c98
+<             return node == null ? 23 : 14 ^ node.hashCode();
+---
+>             return node == null ? 23 : 14 ^ node.hashCode()	;

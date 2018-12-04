@@ -1,0 +1,4 @@
+172c172
+<         private final NodeValue[] nodes;
+---
+>         private final NodeValue[] nodes	;

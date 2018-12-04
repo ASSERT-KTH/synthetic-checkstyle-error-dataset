@@ -1,0 +1,5 @@
+35,36c35
+<         if ( jettyMaxThreads < 1 )
+<         {
+---
+>         if ( jettyMaxThreads < 1 )        {

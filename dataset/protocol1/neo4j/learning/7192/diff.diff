@@ -1,0 +1,4 @@
+53c53
+< public abstract class AnalyzerProvider extends Service
+---
+> public abstract class AnalyzerProvider 	extends Service

@@ -1,0 +1,5 @@
+25c25,26
+< public class AllSimplePaths extends AllPaths
+---
+> public class AllSimplePaths 
+> extends AllPaths

@@ -1,0 +1,5 @@
+40,41c40
+< import static org.neo4j.helpers.collection.MapUtil.map;
+< import static org.neo4j.kernel.api.security.AuthToken.newBasicAuthToken;
+---
+> import static org.neo4j.helpers.collection.MapUtil.map;import static org.neo4j.kernel.api.security.AuthToken.newBasicAuthToken;

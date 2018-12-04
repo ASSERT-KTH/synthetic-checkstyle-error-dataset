@@ -1,0 +1,4 @@
+103c103
+<             int id = ktx().tokenRead().nodeLabel( label.name() );
+---
+>             int id = ktx().tokenRead().nodeLabel ( label.name() );

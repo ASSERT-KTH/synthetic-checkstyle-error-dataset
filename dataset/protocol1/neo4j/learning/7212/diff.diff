@@ -1,0 +1,4 @@
+91c91
+<         assertThrows( AssertionError.class, () -> VirtualValues.path( nodes(), relationships( 1L ) ) );
+---
+>         assertThrows( AssertionError.class	, () -> VirtualValues.path( nodes(), relationships( 1L ) ) );

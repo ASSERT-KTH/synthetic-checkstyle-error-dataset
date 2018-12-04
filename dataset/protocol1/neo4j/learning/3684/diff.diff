@@ -1,0 +1,4 @@
+43c43
+<     public BufferedIdController( BufferingIdGeneratorFactory bufferingIdGeneratorFactory, JobScheduler scheduler )
+---
+>     public BufferedIdController ( BufferingIdGeneratorFactory bufferingIdGeneratorFactory, JobScheduler scheduler )

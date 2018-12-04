@@ -1,0 +1,5 @@
+291,292c291
+<         public void addPagesFlushed( int pageCount )
+<         {
+---
+>         public void addPagesFlushed( int pageCount )        {

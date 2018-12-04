@@ -1,0 +1,4 @@
+60c60
+<                         path.append( "/" ).append( value.type.valueName );
+---
+>                         path.append( "/" ).append( 	value.type.valueName );

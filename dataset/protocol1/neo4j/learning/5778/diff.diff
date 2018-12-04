@@ -1,0 +1,5 @@
+90c90,91
+<     public int getDocCount( String field )
+---
+>     public int getDocCount
+> ( String field )

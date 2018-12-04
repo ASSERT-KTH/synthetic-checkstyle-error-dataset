@@ -1,0 +1,5 @@
+30c30,31
+<     protected ConsistencyCheckerTask( String name, Statistics statistics, int threads )
+---
+>     protected ConsistencyCheckerTask( String name, 
+> Statistics statistics, int threads )

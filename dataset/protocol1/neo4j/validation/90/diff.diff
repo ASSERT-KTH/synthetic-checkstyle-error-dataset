@@ -1,0 +1,4 @@
+147c147
+<                 record ) ).processedWith( processor() ).failsToCompile().withErrorCount( 3 );
+---
+>                 	record ) ).processedWith( processor() ).failsToCompile().withErrorCount( 3 );

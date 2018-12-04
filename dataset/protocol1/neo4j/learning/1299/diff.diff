@@ -1,0 +1,4 @@
+86c86
+<         String response = CLIENT.resource( thirdPartyServiceUri.toString() )
+---
+>         String response = CLIENT.resource( thirdPartyServiceUri.toString() 	)

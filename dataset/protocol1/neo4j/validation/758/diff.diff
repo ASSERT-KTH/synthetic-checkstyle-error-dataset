@@ -1,0 +1,4 @@
+73c73
+<         protected GraphDatabaseService newEmbeddedDatabase( File storeDir, Config config,
+---
+>         protected 	GraphDatabaseService newEmbeddedDatabase( File storeDir, Config config,

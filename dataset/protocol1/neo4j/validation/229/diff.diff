@@ -1,0 +1,5 @@
+24,25c24
+< import org.neo4j.kernel.api.index.IndexUpdater;
+< import org.neo4j.kernel.impl.api.index.IndexUpdateMode;
+---
+> import org.neo4j.kernel.api.index.IndexUpdater;import org.neo4j.kernel.impl.api.index.IndexUpdateMode;

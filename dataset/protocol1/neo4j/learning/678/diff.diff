@@ -1,0 +1,4 @@
+86c86
+<     private static class ClockCacheTest<K, E> extends ClockCache<K, E>
+---
+>     private static class ClockCacheTest<K, E> extends 	ClockCache<K, E>

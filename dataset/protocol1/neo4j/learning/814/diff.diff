@@ -1,0 +1,4 @@
+266c266
+<         public void pack( boolean value ) throws IOException
+---
+>         public void pack( boolean value ) throws 	IOException

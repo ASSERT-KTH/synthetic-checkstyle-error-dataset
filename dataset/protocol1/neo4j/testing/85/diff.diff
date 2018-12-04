@@ -1,0 +1,4 @@
+352c352
+<         final CountDownLatch readerCompletedLatch = new CountDownLatch( 1 );
+---
+>         final CountDownLatch readerCompletedLatch = new CountDownLatch( 	1 );

@@ -1,0 +1,4 @@
+30c30
+<     private final long id;
+---
+>     private final long 	id;

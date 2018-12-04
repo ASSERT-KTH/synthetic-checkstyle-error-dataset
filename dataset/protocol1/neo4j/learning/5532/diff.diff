@@ -1,0 +1,4 @@
+63c63
+<     private final Visitor<NodeLabelUpdate,Exception> labelUpdateVisitor = mock( Visitor.class );
+---
+>     private final 	Visitor<NodeLabelUpdate,Exception> labelUpdateVisitor = mock( Visitor.class );

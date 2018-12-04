@@ -1,0 +1,5 @@
+71,72c71
+<                     if ( iface instanceof ParameterizedType )
+<                     {
+---
+>                     if ( iface instanceof ParameterizedType )                    {

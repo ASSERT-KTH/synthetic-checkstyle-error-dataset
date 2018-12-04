@@ -1,0 +1,4 @@
+54c54
+<         private final IdGenerator delegate;
+---
+>         	private final IdGenerator delegate;

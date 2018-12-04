@@ -1,0 +1,5 @@
+74,75c74
+<             return Stream.of( new AggregationError( aggregationFunction,
+<                     "Unsupported return type <%s> of aggregation function.", returnType.toString(),
+---
+>             return Stream.of( new AggregationError( aggregationFunction,                    "Unsupported return type <%s> of aggregation function.", returnType.toString(),

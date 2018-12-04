@@ -1,0 +1,4 @@
+94c94
+<     private static void assertBuffer( char[] expectedChars, SectionedCharBuffer buffer, int charsInBack, int charsInFront )
+---
+>     private static void assertBuffer( char[] expectedChars, SectionedCharBuffer buffer, int charsInBack, int charsInFront 	)

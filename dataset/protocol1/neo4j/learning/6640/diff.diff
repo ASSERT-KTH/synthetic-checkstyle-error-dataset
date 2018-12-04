@@ -1,0 +1,4 @@
+40c40
+< import static org.neo4j.index.internal.gbptree.CrashGenerationCleaner.MAX_BATCH_SIZE;
+---
+> import static org.neo4j	.index.internal.gbptree.CrashGenerationCleaner.MAX_BATCH_SIZE;

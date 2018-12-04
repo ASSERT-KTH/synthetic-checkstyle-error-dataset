@@ -1,0 +1,4 @@
+71c71
+<         serializer.putMapping( "resources", new MappingRepresentation( "resources" )
+---
+>         serializer.putMapping( "resources", new MappingRepresentation("resources" )

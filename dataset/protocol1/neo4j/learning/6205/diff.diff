@@ -1,0 +1,4 @@
+52c52
+<     @Mock( answer = Answers.RETURNS_DEEP_STUBS )
+---
+>     @Mock( answer= Answers.RETURNS_DEEP_STUBS )

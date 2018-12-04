@@ -1,0 +1,4 @@
+93c93
+<     private final Label C = Label.label( "C" );
+---
+>     private 	final Label C = Label.label( "C" );

@@ -1,0 +1,4 @@
+86c86
+<     AuthSubject AUTH_DISABLED = new AuthSubject()
+---
+>     AuthSubject AUTH_DISABLED 	= new AuthSubject()

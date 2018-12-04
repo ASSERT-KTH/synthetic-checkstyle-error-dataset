@@ -1,0 +1,5 @@
+44,45c44
+<         public boolean isAffected( long[] entityIds )
+<         {
+---
+>         public boolean isAffected( long[] entityIds )        {

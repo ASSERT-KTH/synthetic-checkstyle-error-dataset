@@ -1,0 +1,5 @@
+245c245,246
+<     public void getField( Expression target, FieldReference field )
+---
+>     public void getField
+> ( Expression target, FieldReference field )

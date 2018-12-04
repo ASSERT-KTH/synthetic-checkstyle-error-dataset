@@ -1,0 +1,5 @@
+90,91c90
+<         KernelTransactionImplementation tx = mock( KernelTransactionImplementation.class );
+<         when( tx.isOpen() ).thenReturn( true );
+---
+>         KernelTransactionImplementation tx = mock( KernelTransactionImplementation.class );        when( tx.isOpen() ).thenReturn( true );

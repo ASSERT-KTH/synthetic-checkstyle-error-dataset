@@ -1,0 +1,5 @@
+283c283,284
+<     private boolean atLeastOneRelevantChange( SchemaDescriptor schema )
+---
+>     private boolean atLeastOneRelevantChange( SchemaDescriptor 
+> schema )

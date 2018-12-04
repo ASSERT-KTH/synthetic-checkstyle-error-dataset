@@ -1,0 +1,4 @@
+34c34
+<     private final Collection<Pair<Key,Stat>> stats = new ArrayList<>();
+---
+>     private final Collection<Pair<Key,Stat>> stats =new ArrayList<>();

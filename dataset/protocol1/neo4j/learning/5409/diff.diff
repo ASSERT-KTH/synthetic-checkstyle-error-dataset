@@ -1,0 +1,4 @@
+49c49
+<         boolean inUse = isInUse( headerByte );
+---
+>         boolean 	inUse = isInUse( headerByte );

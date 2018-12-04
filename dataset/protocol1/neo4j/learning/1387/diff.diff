@@ -1,0 +1,4 @@
+57c57
+<     private static final String CUSTOM_DB_NAME = "customDbName";
+---
+>     private static final String CUSTOM_DB_NAME = 	"customDbName";

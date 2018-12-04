@@ -1,0 +1,4 @@
+96c96
+<     Map<String, Object> getMetaData();
+---
+>     Map <String, Object> getMetaData();

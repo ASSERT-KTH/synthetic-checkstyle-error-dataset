@@ -1,0 +1,5 @@
+124,125c124
+<                 node.setProperty( propertyKey, propertyValue );
+<                 db.index().forNodes( INDEX_NAME ).add( node, propertyKey, propertyValue );
+---
+>                 node.setProperty( propertyKey, propertyValue );                db.index().forNodes( INDEX_NAME ).add( node, propertyKey, propertyValue );

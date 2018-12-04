@@ -1,0 +1,5 @@
+61,62c61
+<         }
+<         this.indexNumeric = true;
+---
+>         }        this.indexNumeric = true;

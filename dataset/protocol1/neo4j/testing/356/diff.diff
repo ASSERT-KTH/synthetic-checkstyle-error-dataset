@@ -1,0 +1,5 @@
+60c60,61
+<         nextCheckPointTime = clock.millis() + timeMillisThreshold;
+---
+>         nextCheckPointTime = clock.millis() + 
+> timeMillisThreshold;

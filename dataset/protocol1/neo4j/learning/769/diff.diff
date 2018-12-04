@@ -1,0 +1,5 @@
+77,78c77
+<         return ( pageCache, fs, dir, monitor, collector, readOnly ) ->
+<                 new GenericNativeIndexProvider( dir, pageCache, fs, monitor, collector, readOnly, Config.defaults() );
+---
+>         return ( pageCache, fs, dir, monitor, collector, readOnly ) ->                new GenericNativeIndexProvider( dir, pageCache, fs, monitor, collector, readOnly, Config.defaults() );

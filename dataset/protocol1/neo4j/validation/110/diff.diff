@@ -1,0 +1,4 @@
+102c102
+<                 if ( Exceptions.contains( e, CorruptIndexException.class ) || exceptionContainsStackTraceElementFromPackage( e, "org.apache.lucene" ) )
+---
+>                 if ( 	Exceptions.contains( e, CorruptIndexException.class ) || exceptionContainsStackTraceElementFromPackage( e, "org.apache.lucene" ) )

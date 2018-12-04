@@ -1,0 +1,4 @@
+28c28
+<     private long originNodeId;
+---
+>     private long originNodeId	;

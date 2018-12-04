@@ -1,0 +1,5 @@
+247c247,248
+<         packer.packMapHeader( 2 );
+---
+>         packer.packMapHeader
+> ( 2 );

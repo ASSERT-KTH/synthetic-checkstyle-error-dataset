@@ -1,0 +1,4 @@
+96c96
+<         private final AtomicInteger depth = new AtomicInteger();
+---
+>         private final AtomicInteger depth = new AtomicInteger()	;

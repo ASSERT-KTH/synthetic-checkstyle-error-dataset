@@ -1,0 +1,4 @@
+39c39
+<         while ( iterator.hasNext() )
+---
+>         while ( iterator.	hasNext() )

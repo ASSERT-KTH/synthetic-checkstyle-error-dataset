@@ -1,0 +1,4 @@
+77c77
+<         validator = new GenericIndexKeyValidator( tree.keyValueSizeCap(), layout );
+---
+>         validator = new GenericIndexKeyValidator( tree.keyValueSizeCap(), 	layout );

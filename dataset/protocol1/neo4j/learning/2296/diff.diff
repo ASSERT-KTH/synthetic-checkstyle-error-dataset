@@ -1,0 +1,4 @@
+43c43
+<         return NumberType.FLOATING_POINT;
+---
+>         	return NumberType.FLOATING_POINT;

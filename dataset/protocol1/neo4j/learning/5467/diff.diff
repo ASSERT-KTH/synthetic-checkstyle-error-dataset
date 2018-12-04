@@ -1,0 +1,5 @@
+118c118,119
+<         cursor.putLong( long3 );
+---
+>         
+> cursor.putLong( long3 );

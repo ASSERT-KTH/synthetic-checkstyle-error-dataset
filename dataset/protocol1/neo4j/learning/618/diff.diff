@@ -1,0 +1,4 @@
+102c102
+<         return Values.doubleValue( a + b );
+---
+>         return Values.doubleValue( a 	+ b );

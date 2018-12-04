@@ -1,0 +1,4 @@
+38c38
+<     public FilteringIterable( Iterable<T> source, Predicate<T> predicate )
+---
+>     public 	FilteringIterable( Iterable<T> source, Predicate<T> predicate )

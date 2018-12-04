@@ -1,0 +1,4 @@
+24c24
+< public class LabelTokenRecordFormat extends TokenRecordFormat<LabelTokenRecord>
+---
+> public class 	LabelTokenRecordFormat extends TokenRecordFormat<LabelTokenRecord>

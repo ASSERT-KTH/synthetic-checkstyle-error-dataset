@@ -1,0 +1,4 @@
+55c55
+<         assertEquals( "server1.internal", advertisedSocketAddress.getHostname() );
+---
+>         assertEquals( "server1.internal", advertisedSocketAddress.getHostname () );

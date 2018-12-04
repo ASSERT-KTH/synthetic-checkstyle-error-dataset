@@ -1,0 +1,4 @@
+157c157
+<     public static <E extends Enum<E>> E flag( Class<?> location, String name, E defaultValue )
+---
+>     public static <E extends Enum<E>> E flag ( Class<?> location, String name, E defaultValue )

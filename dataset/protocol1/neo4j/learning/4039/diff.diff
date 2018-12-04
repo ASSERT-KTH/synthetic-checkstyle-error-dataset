@@ -1,0 +1,5 @@
+118,119c118
+<         public RecordFormat<NodeRecord> node()
+<         {
+---
+>         public RecordFormat<NodeRecord> node()        {

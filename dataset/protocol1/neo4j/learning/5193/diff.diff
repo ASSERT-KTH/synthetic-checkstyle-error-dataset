@@ -1,0 +1,4 @@
+44c44
+<             batch.commitment( new FakeCommitment( txId, transactionIdStore ), txId );
+---
+>             batch.commitment( new FakeCommitment( txId, transactionIdStore ), 	txId );

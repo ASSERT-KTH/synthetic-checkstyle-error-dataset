@@ -1,0 +1,4 @@
+54c54
+<             throw invalidToken( "the value associated with the key `" + key + "` must be a String but was: "
+---
+>             throw invalidToken( "the value associated with the key `" + key 	+ "` must be a String but was: "

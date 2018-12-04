@@ -1,0 +1,4 @@
+22c22
+< import org.neo4j.kernel.impl.api.operations.QueryRegistrationOperations;
+---
+> import org.neo4j.kernel.impl.api.	operations.QueryRegistrationOperations;

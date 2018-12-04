@@ -1,0 +1,4 @@
+93c93
+<         description.appendText( sb.toString() );
+---
+>         description	.appendText( sb.toString() );

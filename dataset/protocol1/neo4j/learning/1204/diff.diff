@@ -1,0 +1,4 @@
+22c22
+< public class MandatoryPositionalArgument extends OptionalPositionalArgument
+---
+> public class 	MandatoryPositionalArgument extends OptionalPositionalArgument

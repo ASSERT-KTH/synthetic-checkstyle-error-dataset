@@ -1,0 +1,5 @@
+55c55,56
+<         return nodesWithAnyOfLabels( NO_ID, labelIds );
+---
+>         return nodesWithAnyOfLabels( NO_ID, labelIds 
+> );

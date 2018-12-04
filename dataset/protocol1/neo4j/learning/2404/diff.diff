@@ -1,0 +1,4 @@
+377c377
+<     private Level levelForContext( String context )
+---
+>     private 	Level levelForContext( String context )

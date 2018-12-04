@@ -1,0 +1,5 @@
+68c68,69
+<     private NodeRecord node( long id, boolean dense, long nextRel, long nextProp )
+---
+>     private NodeRecord node( long id, boolean dense, 
+> long nextRel, long nextProp )

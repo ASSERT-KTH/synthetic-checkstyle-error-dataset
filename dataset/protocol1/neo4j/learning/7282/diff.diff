@@ -1,0 +1,4 @@
+26c26
+< public class NodeReference extends VirtualNodeValue
+---
+> public class NodeReference 	extends VirtualNodeValue

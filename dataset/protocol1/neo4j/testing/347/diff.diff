@@ -1,0 +1,5 @@
+278c278,279
+<             assertNextEquals( expectedItem, iterator );
+---
+>             
+> assertNextEquals( expectedItem, iterator );

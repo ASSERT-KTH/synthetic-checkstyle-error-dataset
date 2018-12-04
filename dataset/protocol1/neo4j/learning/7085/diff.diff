@@ -1,0 +1,4 @@
+27c27
+< import org.neo4j.storageengine.api.schema.StoreIndexDescriptor;
+---
+> import org.neo4j	.storageengine.api.schema.StoreIndexDescriptor;

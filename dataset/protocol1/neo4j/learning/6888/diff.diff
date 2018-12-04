@@ -1,0 +1,4 @@
+68c68
+<         this.out = new OutputStreamWriter( out );
+---
+>         this.out = new OutputStreamWriter( 	out );

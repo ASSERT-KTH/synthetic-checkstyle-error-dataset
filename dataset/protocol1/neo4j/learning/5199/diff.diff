@@ -1,0 +1,5 @@
+51,52c51
+<     protected TestLayout<RawBytes,RawBytes> getLayout()
+<     {
+---
+>     protected TestLayout<RawBytes,RawBytes> getLayout()    {

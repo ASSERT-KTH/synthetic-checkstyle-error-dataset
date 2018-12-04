@@ -1,0 +1,4 @@
+53c53
+<         private final ComponentRegistry.Provider<?> provider;
+---
+>         private 	final ComponentRegistry.Provider<?> provider;

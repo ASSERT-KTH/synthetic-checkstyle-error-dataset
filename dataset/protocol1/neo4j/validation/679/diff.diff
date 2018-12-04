@@ -1,0 +1,4 @@
+45c45
+<         AccessStats accessStats = new AccessStats( store.getClass().getSimpleName(), store.getRecordsPerPage() );
+---
+>         AccessStats accessStats = new AccessStats( 	store.getClass().getSimpleName(), store.getRecordsPerPage() );

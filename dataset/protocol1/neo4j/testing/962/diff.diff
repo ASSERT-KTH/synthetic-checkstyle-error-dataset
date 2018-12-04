@@ -1,0 +1,4 @@
+54c54
+<                     Collections.singletonList( inputField( "input", Neo4jTypes.NTAny ) ),
+---
+>                     Collections.singletonList( inputField ( "input", Neo4jTypes.NTAny ) ),

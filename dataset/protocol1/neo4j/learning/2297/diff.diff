@@ -1,0 +1,5 @@
+105c105,106
+<     private long nodeCount()
+---
+>     private long 
+> nodeCount()

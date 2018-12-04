@@ -1,0 +1,4 @@
+57c57
+<             addedNodeId = newKey.getEntityId();
+---
+>             addedNodeId = newKey.	getEntityId();

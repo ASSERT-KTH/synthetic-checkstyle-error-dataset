@@ -1,0 +1,4 @@
+66c66
+<     void dumpDiagnostics( T source, DiagnosticsPhase phase, Logger logger );
+---
+>     void dumpDiagnostics( T source, DiagnosticsPhase phase, Logger logger 	);

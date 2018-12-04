@@ -1,0 +1,5 @@
+253c253,254
+<                         .build( new URI( uri ), method );
+---
+>                         
+> .build( new URI( uri ), method );

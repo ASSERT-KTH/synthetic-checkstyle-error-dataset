@@ -1,0 +1,5 @@
+211c211,212
+<         TransactionHandleRegistry registry = new TransactionHandleRegistry( clock, timeoutLength, logProvider );
+---
+>         TransactionHandleRegistry registry = new TransactionHandleRegistry( 
+> clock, timeoutLength, logProvider );

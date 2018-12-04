@@ -1,0 +1,4 @@
+67c67
+<         serializer.putString( "neo4j_version", Version.getNeo4jVersion() );
+---
+>         serializer.	putString( "neo4j_version", Version.getNeo4jVersion() );

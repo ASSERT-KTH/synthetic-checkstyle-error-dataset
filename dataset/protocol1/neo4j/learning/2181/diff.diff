@@ -1,0 +1,4 @@
+213c213
+<     public void maxPages( long maxPages )
+---
+>     public void maxPages ( long maxPages )

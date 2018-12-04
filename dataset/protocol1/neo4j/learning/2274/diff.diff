@@ -1,0 +1,4 @@
+41c41
+<     public static PrimitiveNodeStream of( long[] array )
+---
+>     public static PrimitiveNodeStream of( long[	] array )

@@ -1,0 +1,5 @@
+60,61c60
+<     private final FileSystemAbstraction fs;
+<     final int keySize;
+---
+>     private final FileSystemAbstraction fs;    final int keySize;

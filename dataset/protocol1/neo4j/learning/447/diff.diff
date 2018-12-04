@@ -1,0 +1,5 @@
+357,358c357
+<         while ( branch.length() > 0 )
+<         {
+---
+>         while ( branch.length() > 0 )        {

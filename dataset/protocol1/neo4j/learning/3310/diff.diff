@@ -1,0 +1,5 @@
+31c31,32
+< import org.neo4j.bolt.v3.messaging.BoltRequestMessageReaderV3;
+---
+> import 
+> org.neo4j.bolt.v3.messaging.BoltRequestMessageReaderV3;

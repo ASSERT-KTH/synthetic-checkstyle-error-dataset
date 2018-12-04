@@ -1,0 +1,5 @@
+36,37c36
+<     public Response sayHello( String name )
+<     {
+---
+>     public Response sayHello( String name )    {

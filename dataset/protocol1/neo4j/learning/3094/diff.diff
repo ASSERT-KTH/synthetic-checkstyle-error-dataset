@@ -1,0 +1,4 @@
+28c28
+< package org.neo4j.index.lucene;
+---
+> package org.neo4j.index.	lucene;

@@ -1,0 +1,5 @@
+97c97,98
+<         return created - createdDuringPopulation;
+---
+>         return 
+> created - createdDuringPopulation;

@@ -1,0 +1,4 @@
+228c228
+<             throw illegalState( writer, "write data" );
+---
+>             throw illegalState( writer, "write data" 	);

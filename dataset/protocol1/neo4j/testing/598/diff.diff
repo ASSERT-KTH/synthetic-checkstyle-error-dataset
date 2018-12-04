@@ -1,0 +1,5 @@
+40c40,41
+<     public String describe( long transactionId )
+---
+>     public String describe
+> ( long transactionId )

@@ -1,0 +1,4 @@
+96c96
+<                 time = clock.nanoTime() - time;
+---
+>                 time = clock.nanoTime(	) - time;

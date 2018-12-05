@@ -1,0 +1,4 @@
+292c292
+<         while (offset < inputLineLength) {
+---
+>         while 	(offset < inputLineLength) {

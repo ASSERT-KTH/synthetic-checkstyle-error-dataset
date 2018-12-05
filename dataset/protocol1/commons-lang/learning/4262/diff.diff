@@ -1,0 +1,4 @@
+40c40
+< public class ConstantInitializer<T> implements ConcurrentInitializer<T> {
+---
+> public class ConstantInitializer<T> 	implements ConcurrentInitializer<T> {

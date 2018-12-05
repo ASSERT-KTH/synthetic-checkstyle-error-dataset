@@ -1,0 +1,5 @@
+862,863c862
+<         if (this == other) {
+<             return 0;
+---
+>         if (this == other) {            return 0;

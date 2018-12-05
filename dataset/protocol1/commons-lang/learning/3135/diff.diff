@@ -1,0 +1,4 @@
+421c421
+<     static final class TrimMatcher extends StrMatcher {
+---
+>     static final class 	TrimMatcher extends StrMatcher {

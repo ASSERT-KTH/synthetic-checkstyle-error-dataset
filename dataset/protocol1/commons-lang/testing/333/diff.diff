@@ -1,0 +1,4 @@
+679c679
+<     public static float[] nullToEmpty(final float[] array) {
+---
+>     public static float[] 	nullToEmpty(final float[] array) {

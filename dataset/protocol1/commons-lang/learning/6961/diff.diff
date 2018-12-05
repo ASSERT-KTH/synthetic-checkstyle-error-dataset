@@ -1,0 +1,4 @@
+294c294
+<         Validate.isTrue(field != null, "The field must not be null");
+---
+>         Validate.	isTrue(field != null, "The field must not be null");

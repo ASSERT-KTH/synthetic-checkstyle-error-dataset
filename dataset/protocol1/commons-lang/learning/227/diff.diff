@@ -1,0 +1,4 @@
+588c588
+<             } else if (Character.isTitleCase(ch)) {
+---
+>             } else if (Character.isTitleCase(ch)) 	{

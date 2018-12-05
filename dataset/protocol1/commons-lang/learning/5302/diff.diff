@@ -1,0 +1,5 @@
+1126c1126,1127
+<         Validate.notNull(className, "className must not be null.");
+---
+>         
+> Validate.notNull(className, "className must not be null.");

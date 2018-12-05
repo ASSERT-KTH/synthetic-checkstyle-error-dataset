@@ -1,0 +1,4 @@
+106c106
+<     private StringBuilder spacer(final int spaces) {
+---
+>     private StringBuilder spacer(final int 	spaces) {

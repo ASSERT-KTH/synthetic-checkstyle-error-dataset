@@ -1,0 +1,5 @@
+512c512,513
+<         style.append(buffer, null, array, null);
+---
+>         style.append(buffer, 
+> null, array, null);

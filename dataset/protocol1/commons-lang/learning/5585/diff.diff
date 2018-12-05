@@ -1,0 +1,5 @@
+553c553,554
+<     public void setSummaryObjectEndText(final String summaryObjectEndText) { // NOPMD as this is implementing the abstract class
+---
+>     public void setSummaryObjectEndText(final String 
+> summaryObjectEndText) { // NOPMD as this is implementing the abstract class

@@ -1,0 +1,5 @@
+390,391c390
+<     public long getPeriod() {
+<         return period;
+---
+>     public long getPeriod() {        return period;

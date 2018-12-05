@@ -1,0 +1,4 @@
+51c51
+<         {"\u00A9", "&copy;"}, // © - copyright sign
+---
+>         	{"\u00A9", "&copy;"}, // © - copyright sign

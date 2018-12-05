@@ -1,0 +1,4 @@
+1040c1040
+<         } else if (str1 == str2) {
+---
+>         } else if (str1 	== str2) {

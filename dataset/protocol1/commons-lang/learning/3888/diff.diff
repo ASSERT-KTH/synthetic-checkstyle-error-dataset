@@ -1,0 +1,5 @@
+98c98,99
+<     public static NumericEntityEscaper outsideOf(final int codepointLow, final int codepointHigh) {
+---
+>     public static 
+> NumericEntityEscaper outsideOf(final int codepointLow, final int codepointHigh) {

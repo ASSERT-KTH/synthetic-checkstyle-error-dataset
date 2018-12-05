@@ -1,0 +1,5 @@
+103c103,104
+<                                     input.charAt(end) >= 'A' && input.charAt(end) <= 'F' ) ) {
+---
+>                                     input.charAt(end) >= 'A' && input.charAt(end) <= 'F' ) 
+> ) {

@@ -1,0 +1,4 @@
+823c823
+<                 if (!TypeUtils.equals(childType, parentType)) {
+---
+>                 if (!TypeUtils.equals(childType, parentType)	) {

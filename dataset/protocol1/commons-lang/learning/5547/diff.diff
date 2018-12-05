@@ -1,0 +1,5 @@
+196c196,197
+<             final char[] chars = Character.toChars(searchChar);
+---
+>             final char[] 
+> chars = Character.toChars(searchChar);

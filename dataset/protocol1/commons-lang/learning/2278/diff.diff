@@ -1,0 +1,5 @@
+1136,1137c1136
+<             } else {
+<                 classNameBuffer.append("L").append(className).append(";");
+---
+>             } else {                classNameBuffer.append("L").append(className).append(";");

@@ -1,0 +1,5 @@
+618c618,619
+<     private static ConcurrentMap<Locale, Strategy> getCache(final int field) {
+---
+>     private static 
+> ConcurrentMap<Locale, Strategy> getCache(final int field) {

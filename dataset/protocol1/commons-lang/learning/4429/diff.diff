@@ -1,0 +1,4 @@
+354c354
+<         {"\u20AC", "&euro;"}, // -- euro sign, U+20AC NEW -->
+---
+>         {	"\u20AC", "&euro;"}, // -- euro sign, U+20AC NEW -->

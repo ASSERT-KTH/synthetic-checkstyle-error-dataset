@@ -1,0 +1,5 @@
+167c167,168
+<     static JavaVersion get(final String nom) {
+---
+>     static 
+> JavaVersion get(final String nom) {

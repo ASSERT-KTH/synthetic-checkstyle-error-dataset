@@ -1,0 +1,5 @@
+286c286,287
+<     public static FastDateFormat getTimeInstance(final int style, final TimeZone timeZone) {
+---
+>     public static FastDateFormat getTimeInstance(final 
+> int style, final TimeZone timeZone) {

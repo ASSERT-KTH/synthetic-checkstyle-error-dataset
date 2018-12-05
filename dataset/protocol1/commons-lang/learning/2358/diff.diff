@@ -1,0 +1,4 @@
+96c96
+<     public <T> ReflectionDiffBuilder(final T lhs, final T rhs, final ToStringStyle style) {
+---
+>     public <T> ReflectionDiffBuilder(	final T lhs, final T rhs, final ToStringStyle style) {

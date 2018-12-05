@@ -1,0 +1,5 @@
+305c305,306
+<             if (inputLineLength - offset <= wrapLength) {
+---
+>             if (inputLineLength - 
+> offset <= wrapLength) {

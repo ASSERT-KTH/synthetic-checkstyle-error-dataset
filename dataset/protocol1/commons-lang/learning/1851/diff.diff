@@ -1,0 +1,4 @@
+81c81
+<     private static class EventBindingInvocationHandler implements InvocationHandler {
+---
+>     private static class EventBindingInvocationHandler 	implements InvocationHandler {

@@ -1,0 +1,4 @@
+56c56
+<                 this.lookupMap.put(seq[0].toString(), seq[1].toString());
+---
+>                 this.lookupMap.put(seq	[0].toString(), seq[1].toString());

@@ -1,0 +1,5 @@
+94c94,95
+<     public boolean checkState() {
+---
+>     
+> public boolean checkState() {

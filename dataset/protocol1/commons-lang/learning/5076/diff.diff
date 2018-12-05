@@ -1,0 +1,5 @@
+972c972,973
+<     public ToStringBuilder appendSuper(final String superToString) {
+---
+>     public 
+> ToStringBuilder appendSuper(final String superToString) {

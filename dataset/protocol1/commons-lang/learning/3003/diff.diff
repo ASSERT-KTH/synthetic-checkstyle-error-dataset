@@ -1,0 +1,5 @@
+176c176,177
+<     public byte decrementAndGet() {
+---
+>     public byte 
+> decrementAndGet() {

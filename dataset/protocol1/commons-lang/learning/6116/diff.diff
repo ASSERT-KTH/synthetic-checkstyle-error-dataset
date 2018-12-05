@@ -1,0 +1,4 @@
+69c69
+<         this.value = value.booleanValue();
+---
+>         this.value = value.	booleanValue();

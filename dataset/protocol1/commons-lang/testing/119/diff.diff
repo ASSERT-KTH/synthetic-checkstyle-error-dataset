@@ -1,0 +1,4 @@
+1180c1180
+<         return append(value).appendNewLine();
+---
+>         return append(value).appendNewLine(	);

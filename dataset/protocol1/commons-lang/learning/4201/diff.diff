@@ -1,0 +1,4 @@
+223c223
+<             final Long count = Long.valueOf(threadCounter.incrementAndGet());
+---
+>             	final Long count = Long.valueOf(threadCounter.incrementAndGet());

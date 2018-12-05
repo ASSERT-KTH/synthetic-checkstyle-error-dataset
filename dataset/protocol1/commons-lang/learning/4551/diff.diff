@@ -1,0 +1,5 @@
+144c144,145
+<     public short getShortRawValue(final short holder) {
+---
+>     public short 
+> getShortRawValue(final short holder) {

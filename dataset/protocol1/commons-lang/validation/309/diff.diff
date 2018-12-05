@@ -1,0 +1,5 @@
+98,99c98
+<             throw new SerializationException("IOException while reading or closing cloned object data", ex);
+<         }
+---
+>             throw new SerializationException("IOException while reading or closing cloned object data", ex);        }

@@ -1,0 +1,4 @@
+136c136
+<     static int indexOf(final CharSequence cs, final CharSequence searchChar, final int start) {
+---
+>     static int indexOf(final CharSequence cs, 	final CharSequence searchChar, final int start) {

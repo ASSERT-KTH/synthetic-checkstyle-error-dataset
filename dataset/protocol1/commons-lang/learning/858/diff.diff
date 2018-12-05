@@ -1,0 +1,4 @@
+573c573
+<         for (final Iterator<?> it = iterable.iterator(); it.hasNext(); i++) {
+---
+>         for (final Iterator<?> it = iterable.iterator(); it.hasNext(); i++	) {

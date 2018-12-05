@@ -1,0 +1,4 @@
+364c364
+<                     end = Character.MAX_CODE_POINT;
+---
+>                     end = 	Character.MAX_CODE_POINT;

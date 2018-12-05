@@ -1,0 +1,4 @@
+118c118
+<         Validate.isTrue(threadGroupName != null, "The thread group name must not be null");
+---
+>         Validate.isTrue(threadGroupName != null, 	"The thread group name must not be null");

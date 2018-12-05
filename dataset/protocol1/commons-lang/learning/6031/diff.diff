@@ -1,0 +1,4 @@
+338c338
+<                         wrappedLine.append(str, offset, str.length());
+---
+>                         wrappedLine.append(str	, offset, str.length());

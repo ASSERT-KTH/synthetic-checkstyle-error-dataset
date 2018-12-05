@@ -1,0 +1,5 @@
+709c709,710
+<         return toBooleanObject(str) == Boolean.TRUE;
+---
+>         return toBooleanObject(str) 
+> == Boolean.TRUE;

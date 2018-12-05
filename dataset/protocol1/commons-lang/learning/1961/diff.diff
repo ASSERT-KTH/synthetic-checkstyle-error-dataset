@@ -1,0 +1,4 @@
+551c551
+<         writeField(field, (Object) null, value, forceAccess);
+---
+>         writeField(field, 	(Object) null, value, forceAccess);

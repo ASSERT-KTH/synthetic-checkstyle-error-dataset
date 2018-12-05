@@ -1,0 +1,4 @@
+36c36
+<     private final HashSet<Character> prefixSet;
+---
+>     private final HashSet<Character> 	prefixSet;

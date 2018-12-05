@@ -1,0 +1,5 @@
+76c76,77
+<     public MutableInt(final String value) {
+---
+>     public MutableInt(final 
+> String value) {

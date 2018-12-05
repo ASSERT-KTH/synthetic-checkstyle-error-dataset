@@ -1,0 +1,4 @@
+233c233
+<     public void setFormatByArgumentIndex(final int argumentIndex, final Format newFormat) {
+---
+>     public void setFormatByArgumentIndex(final int argumentIndex, final 	Format newFormat) {

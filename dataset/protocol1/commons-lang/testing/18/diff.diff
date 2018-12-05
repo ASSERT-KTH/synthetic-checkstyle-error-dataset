@@ -1,0 +1,5 @@
+1510c1510,1511
+<             String str = (obj == null ? getNullText() : obj.toString());
+---
+>             String str = 
+> (obj == null ? getNullText() : obj.toString());

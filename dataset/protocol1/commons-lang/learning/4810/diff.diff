@@ -1,0 +1,4 @@
+787c787
+<             pos.setIndex(idx);
+---
+>             pos.setIndex(	idx);

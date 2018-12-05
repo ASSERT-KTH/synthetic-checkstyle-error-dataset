@@ -1,0 +1,5 @@
+270,271c270
+<             for (; i < parameterTypes.length; i++) {
+<                 if (!ClassUtils.isAssignable(parameterTypes[i], varArgParameterType, true)) {
+---
+>             for (; i < parameterTypes.length; i++) {                if (!ClassUtils.isAssignable(parameterTypes[i], varArgParameterType, true)) {

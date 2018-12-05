@@ -1,0 +1,5 @@
+537c537,538
+<     public <B extends Appendable> B format(final Calendar calendar, final B buf) {
+---
+>     public 
+> <B extends Appendable> B format(final Calendar calendar, final B buf) {

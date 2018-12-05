@@ -1,0 +1,4 @@
+227c227
+<         return type.isPrimitive() || type.isEnum() || type.isAnnotation()
+---
+>         	return type.isPrimitive() || type.isEnum() || type.isAnnotation()

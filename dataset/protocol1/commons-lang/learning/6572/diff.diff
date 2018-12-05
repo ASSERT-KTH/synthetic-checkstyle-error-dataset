@@ -1,0 +1,4 @@
+589c589
+<                 buffer[i] = Character.toLowerCase(ch);
+---
+>                 buffer[i] = 	Character.toLowerCase(ch);

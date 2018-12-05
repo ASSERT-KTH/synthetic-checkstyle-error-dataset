@@ -1,0 +1,5 @@
+425,426c425
+<         if (type == null) {
+<             return true;
+---
+>         if (type == null) {            return true;

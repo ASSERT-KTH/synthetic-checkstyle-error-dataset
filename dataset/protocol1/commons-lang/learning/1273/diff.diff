@@ -1,0 +1,5 @@
+617c617,618
+<                 final char ch2 = str.charAt(2);
+---
+>                 final char ch2 
+> = str.charAt(2);

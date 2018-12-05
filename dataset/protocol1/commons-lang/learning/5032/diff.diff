@@ -1,0 +1,4 @@
+37c37
+<     public CloneFailedException(final String message) {
+---
+>     public CloneFailedException(final String message) 	{

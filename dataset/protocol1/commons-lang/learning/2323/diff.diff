@@ -1,0 +1,4 @@
+234c234
+<         {"\u2190", "&larr;"}, // leftwards arrow, U+2190 ISOnum -->
+---
+>         {"\u2190", "&la	rr;"}, // leftwards arrow, U+2190 ISOnum -->

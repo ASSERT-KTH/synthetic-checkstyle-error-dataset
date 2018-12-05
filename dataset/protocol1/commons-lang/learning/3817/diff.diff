@@ -1,0 +1,4 @@
+149c149
+<         return Type.X86.equals(type);
+---
+>         	return Type.X86.equals(type);

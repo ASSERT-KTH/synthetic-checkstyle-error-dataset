@@ -1,0 +1,4 @@
+534c534
+<                         && (bypassReflectionClasses.contains(lhsClass) || bypassReflectionClasses.contains(rhsClass))) {
+---
+>                         && (bypassReflectionClasses.contains	(lhsClass) || bypassReflectionClasses.contains(rhsClass))) {

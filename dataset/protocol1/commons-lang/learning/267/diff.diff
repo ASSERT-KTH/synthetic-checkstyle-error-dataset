@@ -1,0 +1,4 @@
+376c376
+<         for (final String parsePattern : parsePatterns) {
+---
+>         for (final String 	parsePattern : parsePatterns) {

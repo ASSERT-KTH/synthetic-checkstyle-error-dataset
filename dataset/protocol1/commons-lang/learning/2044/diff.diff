@@ -1,0 +1,4 @@
+43c43
+<     public AggregateTranslator(final CharSequenceTranslator... translators) {
+---
+>     public 	AggregateTranslator(final CharSequenceTranslator... translators) {

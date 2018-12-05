@@ -1,0 +1,4 @@
+362c362
+<         return HTML40_EXTENDED_UNESCAPE.clone();
+---
+>         return HTML40_EXTENDED_UNESCAPE.clone()	;

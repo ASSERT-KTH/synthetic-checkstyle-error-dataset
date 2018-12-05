@@ -1,0 +1,5 @@
+824,825c824
+<             }
+<             if (objectToTest instanceof byte[]) {
+---
+>             }            if (objectToTest instanceof byte[]) {

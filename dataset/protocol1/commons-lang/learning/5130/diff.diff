@@ -1,0 +1,4 @@
+489c489
+<         Validate.isTrue(writer != null, "The PrintWriter must not be null");
+---
+>         Validate.isTrue(writer != null, "The PrintWriter must not be null")	;

@@ -1,0 +1,4 @@
+125c125
+<         return new AggregateTranslator(newArray);
+---
+>         	return new AggregateTranslator(newArray);

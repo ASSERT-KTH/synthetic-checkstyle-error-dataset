@@ -1,0 +1,4 @@
+245c245
+<             primitiveTypes.put("short", short.class);
+---
+>             primitiveTypes.put("short", 	short.class);

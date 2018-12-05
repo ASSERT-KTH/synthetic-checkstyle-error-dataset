@@ -1,0 +1,5 @@
+71,72c71
+<     private static void init_PPC_32Bit() {
+<         final Processor processor = new Processor(Processor.Arch.BIT_32, Processor.Type.PPC);
+---
+>     private static void init_PPC_32Bit() {        final Processor processor = new Processor(Processor.Arch.BIT_32, Processor.Type.PPC);

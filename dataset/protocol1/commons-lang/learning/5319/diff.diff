@@ -1,0 +1,4 @@
+177c177
+<             throw new ArithmeticException("The denominator must not be negative");
+---
+>             	throw new ArithmeticException("The denominator must not be negative");

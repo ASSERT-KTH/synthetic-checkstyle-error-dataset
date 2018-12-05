@@ -1,0 +1,5 @@
+257c257,258
+<         private static final String CSV_QUOTE_STR = String.valueOf(CSV_QUOTE);
+---
+>         private static final String CSV_QUOTE_STR 
+> = String.valueOf(CSV_QUOTE);

@@ -1,0 +1,4 @@
+1032c1032
+<             out = (byte) ((out & ~mask) | bits);
+---
+>             out = (byte) ((out & ~	mask) | bits);

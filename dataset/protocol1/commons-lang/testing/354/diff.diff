@@ -1,0 +1,4 @@
+8496c8496
+<         for (int i = array.length; i > 1; i--) {
+---
+>         for (	int i = array.length; i > 1; i--) {

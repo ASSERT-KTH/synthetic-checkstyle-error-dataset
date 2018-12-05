@@ -1,0 +1,5 @@
+305c305,306
+<         int months = end.get(Calendar.MONTH) - start.get(Calendar.MONTH);
+---
+>         int months = 
+> end.get(Calendar.MONTH) - start.get(Calendar.MONTH);

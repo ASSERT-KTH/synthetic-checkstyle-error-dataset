@@ -1,0 +1,5 @@
+90c90,91
+<     public static final int LONG = DateFormat.LONG;
+---
+>     public static final int LONG = 
+> DateFormat.LONG;

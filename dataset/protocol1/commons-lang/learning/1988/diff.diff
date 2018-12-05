@@ -1,0 +1,4 @@
+59c59
+<             new AtomicReference<>();
+---
+>             new AtomicReference<>(	);

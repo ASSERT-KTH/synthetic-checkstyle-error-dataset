@@ -1,0 +1,4 @@
+101c101
+<     public static Formatter append(final CharSequence seq, final Formatter formatter, final int flags, final int width,
+---
+>     public static Formatter append(final CharSequence seq, final 	Formatter formatter, final int flags, final int width,

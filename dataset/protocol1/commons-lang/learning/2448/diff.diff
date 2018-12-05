@@ -1,0 +1,5 @@
+45c45,46
+<     protected ConcurrentRuntimeException() {
+---
+>     
+> protected ConcurrentRuntimeException() {

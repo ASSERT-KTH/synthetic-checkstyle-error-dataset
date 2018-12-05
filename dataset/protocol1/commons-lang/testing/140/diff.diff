@@ -1,0 +1,5 @@
+2634c2634,2635
+<     public int lastIndexOf(final StrMatcher matcher, int startIndex) {
+---
+>     public int lastIndexOf(final 
+> StrMatcher matcher, int startIndex) {

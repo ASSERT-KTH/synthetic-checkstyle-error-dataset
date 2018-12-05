@@ -1,0 +1,4 @@
+367c367
+<     public int compareTo(final MutableInt other) {
+---
+>     public int compareTo(final MutableInt 	other) {

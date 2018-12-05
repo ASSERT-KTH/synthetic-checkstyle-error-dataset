@@ -1,0 +1,4 @@
+56c56
+<         return getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT, TimeZone.getDefault(), Locale.getDefault());
+---
+>         return getDateTimeInstance(DateFormat.SHORT, DateFormat.SHORT, 	TimeZone.getDefault(), Locale.getDefault());

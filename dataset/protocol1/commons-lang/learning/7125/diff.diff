@@ -1,0 +1,4 @@
+446c446
+<         return bool ? trueValue : falseValue;
+---
+>         return bool ? trueValue : falseValue	;

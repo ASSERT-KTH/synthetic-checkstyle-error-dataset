@@ -1,0 +1,5 @@
+1778c1778,1779
+<     public static int truncatedCompareTo(final Date date1, final Date date2, final int field) {
+---
+>     public 
+> static int truncatedCompareTo(final Date date1, final Date date2, final int field) {

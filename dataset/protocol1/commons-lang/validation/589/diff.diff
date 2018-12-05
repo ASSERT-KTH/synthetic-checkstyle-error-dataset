@@ -1,0 +1,4 @@
+2130c2130
+<             summaryObjectEndText = StringUtils.EMPTY;
+---
+>             summaryObjectEndText = StringUtils.EMPTY	;

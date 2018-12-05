@@ -1,0 +1,4 @@
+178c178
+<         checkIntervalData = new AtomicReference<>(new CheckIntervalData(0, 0));
+---
+>         checkIntervalData = new AtomicReference<>(new CheckIntervalData(0, 0))	;

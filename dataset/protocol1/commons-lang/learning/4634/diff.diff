@@ -1,0 +1,5 @@
+315,316c315
+<     public long longValue() {
+<         return (long) value;
+---
+>     public long longValue() {        return (long) value;

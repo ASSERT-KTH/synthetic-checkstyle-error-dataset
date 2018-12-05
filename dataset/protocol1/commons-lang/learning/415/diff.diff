@@ -1,0 +1,4 @@
+243c243
+<             return Arrays.equals(keys, ((MultipartKey) obj).keys);
+---
+>             return 	Arrays.equals(keys, ((MultipartKey) obj).keys);

@@ -1,0 +1,4 @@
+463c463
+<                 return src.length > srcPos + 3 && src[srcPos + 3] ? '7' : '6';
+---
+>                 return src.length > srcPos + 3 && src	[srcPos + 3] ? '7' : '6';

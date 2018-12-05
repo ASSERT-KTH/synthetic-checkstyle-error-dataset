@@ -1,0 +1,5 @@
+1190c1190,1191
+<     public static void exclusiveBetween(final long start, final long end, final long value, final String message) {
+---
+>     public static void exclusiveBetween(final 
+> long start, final long end, final long value, final String message) {

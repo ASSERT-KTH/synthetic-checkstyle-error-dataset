@@ -1,0 +1,4 @@
+42c42
+<         return consumed ? 1 : 0;
+---
+>         return consumed ? 1 : 0	;

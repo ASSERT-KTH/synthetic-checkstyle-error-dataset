@@ -1,0 +1,5 @@
+355,356c355
+<     public int hashCode() {
+<         return (int) (value ^ (value >>> 32));
+---
+>     public int hashCode() {        return (int) (value ^ (value >>> 32));

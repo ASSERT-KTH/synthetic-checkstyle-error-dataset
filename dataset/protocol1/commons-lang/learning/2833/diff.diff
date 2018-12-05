@@ -1,0 +1,4 @@
+191c191
+<         return randomGraph(RandomUtils.nextInt(minLengthInclusive, maxLengthExclusive));
+---
+>         return randomGraph	(RandomUtils.nextInt(minLengthInclusive, maxLengthExclusive));

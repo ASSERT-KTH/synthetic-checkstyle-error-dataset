@@ -1,0 +1,4 @@
+152c152
+<     public static byte[] serialize(final Serializable obj) {
+---
+>     public 	static byte[] serialize(final Serializable obj) {

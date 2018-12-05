@@ -1,0 +1,5 @@
+234c234,235
+<         throw new UnsupportedOperationException();
+---
+>         throw 
+> new UnsupportedOperationException();

@@ -1,0 +1,5 @@
+309,310c309
+<     public static char binaryToHexDigit(final boolean[] src, final int srcPos) {
+<         if (src.length == 0) {
+---
+>     public static char binaryToHexDigit(final boolean[] src, final int srcPos) {        if (src.length == 0) {

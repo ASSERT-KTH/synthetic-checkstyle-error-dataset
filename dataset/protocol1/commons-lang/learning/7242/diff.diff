@@ -1,0 +1,4 @@
+173c173
+<         {"\u039A", "&Kappa;"}, // greek capital letter kappa, U+039A -->
+---
+>         {"\u039A", "&Kap	pa;"}, // greek capital letter kappa, U+039A -->

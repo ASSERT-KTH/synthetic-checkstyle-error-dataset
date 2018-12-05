@@ -1,0 +1,4 @@
+1019c1019
+<     public static byte binaryToByte(final boolean[] src, final int srcPos, final byte dstInit, final int dstPos,
+---
+>     public static byte binaryToByte(final boolean[] src, final int srcPos, final byte dstInit, final int dstPos	,

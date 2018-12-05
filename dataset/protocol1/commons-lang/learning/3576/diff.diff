@@ -1,0 +1,4 @@
+345c345
+<     public Double toDouble() {
+---
+>     public Double toDouble() 	{

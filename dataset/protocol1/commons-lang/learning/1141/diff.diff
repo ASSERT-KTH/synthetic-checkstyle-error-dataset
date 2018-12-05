@@ -1,0 +1,5 @@
+824c824,825
+<             final int bits = (0xf & hexDigitToInt(src.charAt(i + srcPos))) << shift;
+---
+>             final 
+> int bits = (0xf & hexDigitToInt(src.charAt(i + srcPos))) << shift;

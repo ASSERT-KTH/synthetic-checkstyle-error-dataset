@@ -1,0 +1,5 @@
+72c72,73
+<         final Processor processor = new Processor(Processor.Arch.BIT_32, Processor.Type.PPC);
+---
+>         final Processor processor = new 
+> Processor(Processor.Arch.BIT_32, Processor.Type.PPC);

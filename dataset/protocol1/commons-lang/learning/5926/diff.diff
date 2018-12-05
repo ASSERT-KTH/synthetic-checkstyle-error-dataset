@@ -1,0 +1,5 @@
+380c380,381
+<     public boolean equals(final Object obj) {
+---
+>     public boolean equals(final Object 
+> obj) {

@@ -1,0 +1,5 @@
+75c75,76
+<         while ((result = reference.get()) == null) {
+---
+>         while ((result = reference.get()) == 
+> null) {

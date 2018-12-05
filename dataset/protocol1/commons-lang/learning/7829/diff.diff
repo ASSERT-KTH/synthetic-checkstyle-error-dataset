@@ -1,0 +1,4 @@
+76c76
+<             if (factory.compareAndSet(null, this)) {
+---
+>             if (factory.compareAndSet(	null, this)) {

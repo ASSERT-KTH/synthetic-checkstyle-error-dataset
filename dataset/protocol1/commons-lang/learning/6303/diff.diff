@@ -1,0 +1,5 @@
+230,231c230
+<             if (!locale.getVariant().isEmpty()) {
+<                 list.add(new Locale(locale.getLanguage(), locale.getCountry()));
+---
+>             if (!locale.getVariant().isEmpty()) {                list.add(new Locale(locale.getLanguage(), locale.getCountry()));

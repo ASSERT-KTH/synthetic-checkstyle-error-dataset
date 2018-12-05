@@ -1,0 +1,5 @@
+187,188c187
+<     private static boolean isNumericAreaCode(final String str) {
+<         return StringUtils.isNumeric(str) && str.length() == 3;
+---
+>     private static boolean isNumericAreaCode(final String str) {        return StringUtils.isNumeric(str) && str.length() == 3;

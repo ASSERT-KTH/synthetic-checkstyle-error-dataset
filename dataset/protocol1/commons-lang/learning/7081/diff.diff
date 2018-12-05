@@ -1,0 +1,4 @@
+99c99
+<                     if (Character.isLowSurrogate(c2)) {
+---
+>                     if (Character.isLowSurrogate	(c2)) {

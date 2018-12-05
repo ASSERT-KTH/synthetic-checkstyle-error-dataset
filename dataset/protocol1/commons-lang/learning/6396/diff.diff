@@ -1,0 +1,5 @@
+1402c1402,1403
+<     public static long getFragmentInHours(final Date date, final int fragment) {
+---
+>     public 
+> static long getFragmentInHours(final Date date, final int fragment) {

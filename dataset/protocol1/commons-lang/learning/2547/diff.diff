@@ -1,0 +1,4 @@
+1699c1699
+<                 c = c.getEnclosingClass();
+---
+>                 c = 	c.getEnclosingClass();

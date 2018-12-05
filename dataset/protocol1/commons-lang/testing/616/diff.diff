@@ -1,0 +1,4 @@
+2995c2995
+<                 n = n_offset;
+---
+>                 n = n_offset	;

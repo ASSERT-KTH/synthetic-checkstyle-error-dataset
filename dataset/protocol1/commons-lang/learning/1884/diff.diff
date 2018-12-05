@@ -1,0 +1,5 @@
+579c579,580
+<     public static final String JAVA_VM_SPECIFICATION_NAME = getSystemProperty("java.vm.specification.name");
+---
+>     public static final 
+> String JAVA_VM_SPECIFICATION_NAME = getSystemProperty("java.vm.specification.name");

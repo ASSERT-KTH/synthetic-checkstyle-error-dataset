@@ -1,0 +1,5 @@
+59c59,60
+<     public int getOffset(final int era, final int year, final int month, final int day, final int dayOfWeek, final int milliseconds) {
+---
+>     public int getOffset(final int era, final int year, final int month, final int day, final int dayOfWeek, 
+> final int milliseconds) {

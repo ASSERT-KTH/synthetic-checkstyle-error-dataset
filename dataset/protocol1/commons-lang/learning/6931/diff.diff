@@ -1,0 +1,4 @@
+1008c1008
+<             style.appendToString(buffer, toString);
+---
+>             style	.appendToString(buffer, toString);

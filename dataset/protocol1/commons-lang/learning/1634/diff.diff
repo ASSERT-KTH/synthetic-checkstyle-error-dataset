@@ -1,0 +1,4 @@
+375c375
+<             return ClassUtils.isAssignable((Class<?>) type, toClass);
+---
+>             return ClassUtils.isAssignable((Class<?>) type, toClass	);

@@ -1,0 +1,5 @@
+276,277c276
+<         if (thisStart < 0 || start < 0 || length < 0) {
+<             return false;
+---
+>         if (thisStart < 0 || start < 0 || length < 0) {            return false;

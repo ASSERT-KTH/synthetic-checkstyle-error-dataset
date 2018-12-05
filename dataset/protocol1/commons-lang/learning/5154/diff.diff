@@ -1,0 +1,4 @@
+98c98
+<     public static Collection<Thread> findThreadsByName(final String threadName, final ThreadGroup threadGroup) {
+---
+>     public static Collection	<Thread> findThreadsByName(final String threadName, final ThreadGroup threadGroup) {

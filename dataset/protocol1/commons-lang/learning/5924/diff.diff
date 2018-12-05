@@ -1,0 +1,4 @@
+8562c8562
+<     public static int getFuzzyDistance(final CharSequence term, final CharSequence query, final Locale locale) {
+---
+>     public static int getFuzzyDistance(final CharSequence term, final CharSequence query, 	final Locale locale) {

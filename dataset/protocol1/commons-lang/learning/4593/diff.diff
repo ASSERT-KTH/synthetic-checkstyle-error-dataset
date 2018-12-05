@@ -1,0 +1,5 @@
+240c240,241
+<         return reflectionCompare(lhs, rhs, false, null, excludeFields);
+---
+>         return reflectionCompare(lhs, rhs, false, null, 
+> excludeFields);

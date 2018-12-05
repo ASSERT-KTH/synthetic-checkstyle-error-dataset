@@ -1,0 +1,4 @@
+128c128
+<         return (getLeft() == null ? 0 : getLeft().hashCode()) ^
+---
+>         return (getLeft(	) == null ? 0 : getLeft().hashCode()) ^

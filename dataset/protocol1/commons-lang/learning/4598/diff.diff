@@ -1,0 +1,4 @@
+760c760
+<         final int d2 = tmodd1 == 0 ? d1 : greatestCommonDivisor(tmodd1, d1);
+---
+>         final int d2 = tmodd1 == 0 	? d1 : greatestCommonDivisor(tmodd1, d1);

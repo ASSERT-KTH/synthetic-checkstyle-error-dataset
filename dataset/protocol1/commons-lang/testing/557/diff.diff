@@ -1,0 +1,5 @@
+914,915c914
+<     public StrBuilder append(final char ch) {
+<         final int len = length();
+---
+>     public StrBuilder append(final char ch) {        final int len = length();

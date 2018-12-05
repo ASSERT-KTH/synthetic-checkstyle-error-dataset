@@ -1,0 +1,5 @@
+675,676c675
+<         } else if (lhs instanceof byte[]) {
+<             append((byte[]) lhs, (byte[]) rhs);
+---
+>         } else if (lhs instanceof byte[]) {            append((byte[]) lhs, (byte[]) rhs);

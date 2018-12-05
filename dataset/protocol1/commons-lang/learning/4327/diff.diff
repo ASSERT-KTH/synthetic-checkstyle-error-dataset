@@ -1,0 +1,4 @@
+101c101
+<             while (end < seqEnd && ( input.charAt(end) >= '0' && input.charAt(end) <= '9' ||
+---
+>             while (end < seqEnd && ( input.charAt(end) >= '0' && input.charAt(end	) <= '9' ||

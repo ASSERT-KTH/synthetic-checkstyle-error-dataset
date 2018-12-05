@@ -1,0 +1,4 @@
+405c405
+<         super.setFieldSeparatorAtEnd(fieldSeparatorAtEnd);
+---
+>         super.setFieldSeparatorAtEnd(	fieldSeparatorAtEnd);

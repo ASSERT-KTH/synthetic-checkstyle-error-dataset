@@ -1,0 +1,5 @@
+201c201,202
+<         } catch (final NoSuchMethodException | SecurityException ignored) { // NOPMD
+---
+>         
+> } catch (final NoSuchMethodException | SecurityException ignored) { // NOPMD

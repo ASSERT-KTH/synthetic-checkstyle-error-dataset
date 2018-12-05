@@ -1,0 +1,4 @@
+213c213
+<         if (Double.isNaN(b)) {
+---
+>         if (Double.isNaN	(b)) {

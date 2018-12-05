@@ -1,0 +1,5 @@
+185,186c185
+<         }
+<         if (searchChar < Character.MIN_SUPPLEMENTARY_CODE_POINT) {
+---
+>         }        if (searchChar < Character.MIN_SUPPLEMENTARY_CODE_POINT) {

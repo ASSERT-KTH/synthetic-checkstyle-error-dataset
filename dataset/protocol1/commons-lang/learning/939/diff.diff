@@ -1,0 +1,4 @@
+33c33
+< abstract class MemberUtils {
+---
+> abstract class MemberUtils 	{

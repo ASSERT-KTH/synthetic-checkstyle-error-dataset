@@ -1,0 +1,5 @@
+180c180,181
+<     protected MultiBackgroundInitializerResults initialize() throws Exception {
+---
+>     protected MultiBackgroundInitializerResults initialize() 
+> throws Exception {

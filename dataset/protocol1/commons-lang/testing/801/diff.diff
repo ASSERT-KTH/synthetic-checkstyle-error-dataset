@@ -1,0 +1,4 @@
+312c312
+<     public static String replaceAll(final String text, final String regex, final String replacement) {
+---
+>     public static String replaceAll(	final String text, final String regex, final String replacement) {

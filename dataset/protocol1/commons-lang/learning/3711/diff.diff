@@ -1,0 +1,4 @@
+354c354
+<             return value == ((MutableByte) obj).byteValue();
+---
+>             return value == ((MutableByte) obj	).byteValue();

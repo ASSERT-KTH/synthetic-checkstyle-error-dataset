@@ -1,0 +1,4 @@
+885c885
+<             toString = getNumerator() + "/" + getDenominator();
+---
+>             toString = getNumerator() 	+ "/" + getDenominator();

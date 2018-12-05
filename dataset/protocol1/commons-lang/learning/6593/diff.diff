@@ -1,0 +1,5 @@
+156c156,157
+<     public static void isTrue(final boolean expression, final String message, final Object... values) {
+---
+>     public static void isTrue(final boolean expression, final String 
+> message, final Object... values) {

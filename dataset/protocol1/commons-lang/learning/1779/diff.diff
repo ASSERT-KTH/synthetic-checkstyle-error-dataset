@@ -1,0 +1,5 @@
+695c695,696
+<         private final Map<String, Integer> lKeyValues;
+---
+>         private final Map<String, 
+> Integer> lKeyValues;

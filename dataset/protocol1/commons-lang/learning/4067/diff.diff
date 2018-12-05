@@ -1,0 +1,5 @@
+177,178c177
+<             return ((String) cs).lastIndexOf(searchChar, start);
+<         }
+---
+>             return ((String) cs).lastIndexOf(searchChar, start);        }

@@ -1,0 +1,4 @@
+832c832
+<     public ToStringBuilder append(final String fieldName, final long[] array, final boolean fullDetail) {
+---
+>     public ToStringBuilder append(final String fieldName, final long[] array, 	final boolean fullDetail) {

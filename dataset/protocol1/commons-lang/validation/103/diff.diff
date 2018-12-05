@@ -1,0 +1,5 @@
+447,448c447
+<             toString = "[" + minimum + ".." + maximum + "]";
+<         }
+---
+>             toString = "[" + minimum + ".." + maximum + "]";        }

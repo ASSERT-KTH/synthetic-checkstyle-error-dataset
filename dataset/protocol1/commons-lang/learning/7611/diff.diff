@@ -1,0 +1,4 @@
+1473c1473
+<     public static final ParameterizedType parameterize(final Class<?> raw,
+---
+>     public static final ParameterizedType parameterize(final Class<?> raw	,

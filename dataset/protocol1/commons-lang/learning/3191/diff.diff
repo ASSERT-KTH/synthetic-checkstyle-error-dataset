@@ -1,0 +1,5 @@
+251,252c251
+<             throw new NullPointerException(String.format(message, values));
+<         }
+---
+>             throw new NullPointerException(String.format(message, values));        }

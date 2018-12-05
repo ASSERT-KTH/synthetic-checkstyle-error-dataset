@@ -1,0 +1,5 @@
+261c261,262
+<         int numer2 = 0; // the current, setup in calculation
+---
+>         int numer2 
+> = 0; // the current, setup in calculation

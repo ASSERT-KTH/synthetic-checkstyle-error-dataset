@@ -1,0 +1,4 @@
+93c93
+<         EventBindingInvocationHandler(final Object target, final String methodName, final String[] eventTypes) {
+---
+>         EventBindingInvocationHandler(final Object target, final String methodName, final String[] eventTypes	) {

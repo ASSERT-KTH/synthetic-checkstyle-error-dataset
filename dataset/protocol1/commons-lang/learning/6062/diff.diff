@@ -1,0 +1,4 @@
+123c123
+<                     entityValue = Integer.parseInt(input.subSequence(start, end).toString(), 10);
+---
+>                     entityValue = Integer.parseInt(input.subSequence(start, end).toString()	, 10);

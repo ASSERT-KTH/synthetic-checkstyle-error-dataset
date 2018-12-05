@@ -1,0 +1,5 @@
+315c315,316
+<         {"\u2660", "&spades;"}, // black spade suit, U+2660 ISOpub -->
+---
+>         
+> {"\u2660", "&spades;"}, // black spade suit, U+2660 ISOpub -->

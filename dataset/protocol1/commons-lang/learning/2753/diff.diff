@@ -1,0 +1,4 @@
+94c94
+<     public static Character toCharacterObject(final char ch) {
+---
+>     	public static Character toCharacterObject(final char ch) {

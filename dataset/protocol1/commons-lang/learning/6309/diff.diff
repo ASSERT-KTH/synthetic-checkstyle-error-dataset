@@ -1,0 +1,4 @@
+799c799
+<     public ToStringBuilder append(final String fieldName, final long value) {
+---
+>     public ToStringBuilder append(final String fieldName, 	final long value) {

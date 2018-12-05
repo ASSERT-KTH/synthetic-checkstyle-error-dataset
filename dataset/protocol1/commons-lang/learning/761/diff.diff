@@ -1,0 +1,5 @@
+847,848c847
+<         if (lhs.length != rhs.length) {
+<             this.setEquals(false);
+---
+>         if (lhs.length != rhs.length) {            this.setEquals(false);

@@ -1,0 +1,4 @@
+53c53
+< public class RecursiveToStringStyle extends ToStringStyle {
+---
+> public class RecursiveToStringStyle extends 	ToStringStyle {

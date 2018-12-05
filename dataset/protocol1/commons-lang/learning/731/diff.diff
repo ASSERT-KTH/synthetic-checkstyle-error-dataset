@@ -1,0 +1,4 @@
+6986c6986
+<             if (ch == str.charAt(i)) {
+---
+>             if (ch == 	str.charAt(i)) {

@@ -1,0 +1,5 @@
+110,111c110
+<     public int hashCode() {
+<         return 37 << 4 | value.hashCode();
+---
+>     public int hashCode() {        return 37 << 4 | value.hashCode();

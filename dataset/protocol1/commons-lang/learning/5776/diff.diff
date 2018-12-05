@@ -1,0 +1,5 @@
+48,49c48
+<         try {
+<             MethodUtils.invokeMethod(eventSource, "add" + listenerType.getSimpleName(), listener);
+---
+>         try {            MethodUtils.invokeMethod(eventSource, "add" + listenerType.getSimpleName(), listener);

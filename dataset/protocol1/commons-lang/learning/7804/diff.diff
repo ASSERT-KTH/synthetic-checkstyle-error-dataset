@@ -1,0 +1,4 @@
+270c270
+<                 out.write(CSV_QUOTE);
+---
+>                 out.	write(CSV_QUOTE);

@@ -1,0 +1,5 @@
+257c257,258
+<         if (this.runningState == State.RUNNING) {
+---
+>         if 
+> (this.runningState == State.RUNNING) {

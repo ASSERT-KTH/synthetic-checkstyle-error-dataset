@@ -1,0 +1,5 @@
+641,642c641
+<     public static <T extends Comparable<? super T>> int compare(final T c1, final T c2) {
+<         return compare(c1, c2, false);
+---
+>     public static <T extends Comparable<? super T>> int compare(final T c1, final T c2) {        return compare(c1, c2, false);

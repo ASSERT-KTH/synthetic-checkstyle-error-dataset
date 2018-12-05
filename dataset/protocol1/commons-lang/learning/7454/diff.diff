@@ -1,0 +1,4 @@
+604c604
+<         return noNullElements(iterable, DEFAULT_NO_NULL_ELEMENTS_COLLECTION_EX_MESSAGE);
+---
+>         return noNullElements(iterable, 	DEFAULT_NO_NULL_ELEMENTS_COLLECTION_EX_MESSAGE);

@@ -1,0 +1,4 @@
+316c316
+<         style.append(buffer, null, array, null);
+---
+>         style.append	(buffer, null, array, null);

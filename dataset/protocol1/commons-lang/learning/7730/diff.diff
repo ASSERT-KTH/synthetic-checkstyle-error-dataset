@@ -1,0 +1,4 @@
+407c407
+<         return STRATEGY_MAP.get(state);
+---
+>         return STRATEGY_MAP	.get(state);

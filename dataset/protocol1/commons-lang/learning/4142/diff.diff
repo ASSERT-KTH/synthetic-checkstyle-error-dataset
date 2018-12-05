@@ -1,0 +1,4 @@
+889c889
+<                 simpleQuote(sb.append('|'), zoneName);
+---
+>                 simpleQuote(sb.append(	'|'), zoneName);

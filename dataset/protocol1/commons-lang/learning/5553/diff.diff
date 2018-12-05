@@ -1,0 +1,5 @@
+280c280,281
+<         final List<Throwable> list = new ArrayList<>();
+---
+>         
+> final List<Throwable> list = new ArrayList<>();

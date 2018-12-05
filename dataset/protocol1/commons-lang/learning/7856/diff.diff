@@ -1,0 +1,5 @@
+76,77c76
+<     private static void init_PPC_64Bit() {
+<         final Processor processor = new Processor(Processor.Arch.BIT_64, Processor.Type.PPC);
+---
+>     private static void init_PPC_64Bit() {        final Processor processor = new Processor(Processor.Arch.BIT_64, Processor.Type.PPC);

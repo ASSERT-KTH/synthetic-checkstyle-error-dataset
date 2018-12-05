@@ -1,0 +1,5 @@
+652,653c652
+<                         this.append(fieldName, fieldValue, !field.isAnnotationPresent(ToStringSummary.class));
+<                     }
+---
+>                         this.append(fieldName, fieldValue, !field.isAnnotationPresent(ToStringSummary.class));                    }

@@ -1,0 +1,4 @@
+76c76
+<     public abstract M getMiddle();
+---
+>     	public abstract M getMiddle();

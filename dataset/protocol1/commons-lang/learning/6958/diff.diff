@@ -1,0 +1,4 @@
+147c147
+<     public static StrMatcher quoteMatcher() {
+---
+>     	public static StrMatcher quoteMatcher() {

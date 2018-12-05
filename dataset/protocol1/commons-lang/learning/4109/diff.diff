@@ -1,0 +1,4 @@
+104c104
+<         return toFullyQualifiedPath(context.getPackage(), resourceName);
+---
+>         	return toFullyQualifiedPath(context.getPackage(), resourceName);

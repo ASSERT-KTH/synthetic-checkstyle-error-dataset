@@ -1,0 +1,5 @@
+46,47c46
+<     public CloneFailedException(final Throwable cause) {
+<         super(cause);
+---
+>     public CloneFailedException(final Throwable cause) {        super(cause);

@@ -1,0 +1,5 @@
+958c958,959
+<             append(fieldName + "." + diff.getFieldName(),
+---
+>             
+> append(fieldName + "." + diff.getFieldName(),

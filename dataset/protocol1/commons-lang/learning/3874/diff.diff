@@ -1,0 +1,4 @@
+1001c1001
+<         if (trimmer != null) {
+---
+>         if (trimmer != null	) {

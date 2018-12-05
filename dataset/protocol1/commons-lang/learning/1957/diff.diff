@@ -1,0 +1,4 @@
+103c103
+< public class HashCodeBuilder implements Builder<Integer> {
+---
+> public class HashCodeBuilder 	implements Builder<Integer> {

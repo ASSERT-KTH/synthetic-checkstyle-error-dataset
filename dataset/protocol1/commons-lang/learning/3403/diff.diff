@@ -1,0 +1,5 @@
+75,76c75
+<         while ((result = reference.get()) == null) {
+<             if (factory.compareAndSet(null, this)) {
+---
+>         while ((result = reference.get()) == null) {            if (factory.compareAndSet(null, this)) {

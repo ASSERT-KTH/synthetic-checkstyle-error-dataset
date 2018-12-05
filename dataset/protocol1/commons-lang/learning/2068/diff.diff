@@ -1,0 +1,5 @@
+28c28,29
+< public class MutableObject<T> implements Mutable<T>, Serializable {
+---
+> public class MutableObject<T> implements 
+> Mutable<T>, Serializable {

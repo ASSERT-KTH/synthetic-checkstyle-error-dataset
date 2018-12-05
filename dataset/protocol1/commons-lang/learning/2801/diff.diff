@@ -1,0 +1,4 @@
+582c582
+<     public ToStringBuilder append(final String fieldName, final byte[] array) {
+---
+>     public ToStringBuilder append(final String fieldName, final byte[] array) 	{

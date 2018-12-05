@@ -1,0 +1,4 @@
+303c303
+<         if (componentType.equals(Float.TYPE)) {
+---
+>         if (componentType.equals(Float	.TYPE)) {

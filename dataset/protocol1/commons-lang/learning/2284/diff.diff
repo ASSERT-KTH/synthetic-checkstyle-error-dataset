@@ -1,0 +1,4 @@
+83c83
+<         appendIdentityHashCode(buffer, coll);
+---
+>         	appendIdentityHashCode(buffer, coll);

@@ -1,0 +1,4 @@
+183c183
+<         final Pair<IDKey, IDKey> pair = getRegisterPair(lhs, rhs);
+---
+>         final Pair	<IDKey, IDKey> pair = getRegisterPair(lhs, rhs);

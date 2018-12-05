@@ -1,0 +1,5 @@
+127c127,128
+<     public String getFormattedExceptionMessage(final String baseMessage) {
+---
+>     public String 
+> getFormattedExceptionMessage(final String baseMessage) {

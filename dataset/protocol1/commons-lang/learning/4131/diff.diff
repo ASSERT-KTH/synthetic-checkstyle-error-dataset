@@ -1,0 +1,4 @@
+1277c1277
+<             return getRawType((ParameterizedType) type);
+---
+>             return getRawType((ParameterizedType) type)	;

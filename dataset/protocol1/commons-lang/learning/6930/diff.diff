@@ -1,0 +1,4 @@
+285c285
+<         return format(calendar, pattern, null, null);
+---
+>         return format(calendar, pattern, null, null)	;

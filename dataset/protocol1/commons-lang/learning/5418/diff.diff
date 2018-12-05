@@ -1,0 +1,5 @@
+962c962,963
+<     public static final boolean IS_JAVA_1_9 = getJavaVersionMatches("9");
+---
+>     public static final boolean 
+> IS_JAVA_1_9 = getJavaVersionMatches("9");

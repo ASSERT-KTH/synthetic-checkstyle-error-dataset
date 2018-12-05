@@ -1,0 +1,4 @@
+278c278
+<         Class<L> listenerInterface = (Class<L>) srcListeners.getClass().getComponentType();
+---
+>         Class<L> listenerInterface = (Class<L>) srcListeners.getClass(	).getComponentType();

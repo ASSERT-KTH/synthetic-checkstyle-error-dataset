@@ -1,0 +1,4 @@
+64c64
+<     public MutableInt(final Number value) {
+---
+>     public MutableInt(final 	Number value) {

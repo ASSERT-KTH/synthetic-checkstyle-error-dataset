@@ -1,0 +1,4 @@
+228c228
+<         super.setArrayEnd(arrayEnd);
+---
+>         	super.setArrayEnd(arrayEnd);

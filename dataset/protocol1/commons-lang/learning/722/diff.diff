@@ -1,0 +1,5 @@
+958,959c958
+<             this.ignoredMatcher = ignored;
+<         }
+---
+>             this.ignoredMatcher = ignored;        }

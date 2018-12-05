@@ -1,0 +1,4 @@
+1128c1128
+<     public static Type[] normalizeUpperBounds(final Type[] bounds) {
+---
+>     public static Type[] 	normalizeUpperBounds(final Type[] bounds) {

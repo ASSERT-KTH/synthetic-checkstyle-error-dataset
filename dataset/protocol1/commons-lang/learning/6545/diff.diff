@@ -1,0 +1,4 @@
+401c401
+<         return ch < 128;
+---
+>     	    return ch < 128;

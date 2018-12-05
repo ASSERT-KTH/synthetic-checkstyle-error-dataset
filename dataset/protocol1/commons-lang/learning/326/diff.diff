@@ -1,0 +1,5 @@
+371c371,372
+<             if (pos + len > bufferEnd) {
+---
+>             
+> if (pos + len > bufferEnd) {

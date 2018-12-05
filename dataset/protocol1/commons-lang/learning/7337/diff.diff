@@ -1,0 +1,4 @@
+784c784
+<         Validate.isTrue(field != null, "Cannot locate declared field %s.%s", cls.getName(), fieldName);
+---
+>         Validate.isTrue	(field != null, "Cannot locate declared field %s.%s", cls.getName(), fieldName);

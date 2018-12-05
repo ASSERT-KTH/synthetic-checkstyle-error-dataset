@@ -1,0 +1,4 @@
+537c537
+<         protected long fetchCheckInterval(final EventCountCircuitBreaker breaker) {
+---
+>         protected long fetchCheckInterval(final EventCountCircuitBreaker breaker) 	{

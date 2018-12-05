@@ -1,0 +1,5 @@
+654,655c654
+<                 }
+<                 if (this.count != tok2.count) {
+---
+>                 }                if (this.count != tok2.count) {

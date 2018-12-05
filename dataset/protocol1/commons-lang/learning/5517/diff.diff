@@ -1,0 +1,4 @@
+148c148
+<             buf.insert(leftJustify ? i : 0, padChar);
+---
+>             buf.insert(leftJustify ? 	i : 0, padChar);

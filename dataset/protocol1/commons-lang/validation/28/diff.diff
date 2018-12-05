@@ -1,0 +1,4 @@
+264c264
+<     private boolean useShortClassName = false;
+---
+>     private boolean 	useShortClassName = false;

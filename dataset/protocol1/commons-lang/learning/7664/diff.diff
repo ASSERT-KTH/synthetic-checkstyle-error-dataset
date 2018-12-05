@@ -1,0 +1,5 @@
+142,143c142
+<     public byte incrementAndGet() {
+<         value++;
+---
+>     public byte incrementAndGet() {        value++;

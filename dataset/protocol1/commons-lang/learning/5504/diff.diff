@@ -1,0 +1,4 @@
+968c968
+<         if (!isAssignable(cls, superClass)) {
+---
+>         if (!isAssignable(cls, superClass)) 	{

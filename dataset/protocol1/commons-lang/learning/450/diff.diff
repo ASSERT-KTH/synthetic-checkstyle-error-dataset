@@ -1,0 +1,4 @@
+140c140
+<                 "Specified ellipsis '%1$s' exceeds precision of %2$s", ellipsis, Integer.valueOf(precision));
+---
+>                 "Specified ellipsis '%1$s' exceeds precision of %2$s", ellipsis, Integer.valueOf(precision))	;

@@ -1,0 +1,4 @@
+8620c8620
+<     public static void shuffle(final long[] array, final Random random) {
+---
+>     public static void shuffle(final long	[] array, final Random random) {

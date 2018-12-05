@@ -1,0 +1,4 @@
+88c88
+<         return group != null && group.charAt(0) == '-';
+---
+>         return group != null && group.charAt(0) == 	'-';

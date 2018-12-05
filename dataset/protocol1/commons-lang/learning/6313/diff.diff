@@ -1,0 +1,4 @@
+302c302
+<         style.append(buffer, null, value);
+---
+>         	style.append(buffer, null, value);

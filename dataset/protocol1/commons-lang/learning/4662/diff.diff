@@ -1,0 +1,4 @@
+741c741
+<         style.append(buffer, fieldName, array, Boolean.valueOf(fullDetail));
+---
+>         style.	append(buffer, fieldName, array, Boolean.valueOf(fullDetail));

@@ -1,0 +1,4 @@
+36c36
+< abstract class FormatCache<F extends Format> {
+---
+> abstract class FormatCache<	F extends Format> {

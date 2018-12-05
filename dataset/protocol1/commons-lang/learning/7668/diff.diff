@@ -1,0 +1,4 @@
+140c140
+<         return "\\u" + hex(codepoint);
+---
+>         return "\\u" + hex	(codepoint);

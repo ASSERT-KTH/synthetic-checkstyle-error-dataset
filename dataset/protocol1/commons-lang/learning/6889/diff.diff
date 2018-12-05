@@ -1,0 +1,4 @@
+292c292
+<     public int setBoolean(final int holder, final boolean flag) {
+---
+>     public int setBoolean(final 	int holder, final boolean flag) {

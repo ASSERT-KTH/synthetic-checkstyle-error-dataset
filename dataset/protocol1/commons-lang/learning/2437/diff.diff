@@ -1,0 +1,4 @@
+178c178
+<     public static FastDateFormat getInstance(final String pattern, final TimeZone timeZone, final Locale locale) {
+---
+>     public static FastDateFormat getInstance(final String pattern, final TimeZone timeZone, final Locale 	locale) {

@@ -1,0 +1,5 @@
+63c63,64
+<         Validate.isTrue(array.length != 0, "Array cannot be empty.");
+---
+>         Validate.isTrue(array.length 
+> != 0, "Array cannot be empty.");

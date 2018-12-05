@@ -1,0 +1,4 @@
+643c643
+<         AccessibleObject.setAccessible(fields, true);
+---
+>         AccessibleObject.setAccessible(fields, true)	;

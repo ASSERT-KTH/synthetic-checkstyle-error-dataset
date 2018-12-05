@@ -1,0 +1,4 @@
+31c31
+< public class NumericEntityEscaper extends CodePointTranslator {
+---
+> public class NumericEntityEscaper 	extends CodePointTranslator {

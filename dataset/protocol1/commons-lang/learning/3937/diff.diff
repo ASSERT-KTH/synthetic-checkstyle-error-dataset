@@ -1,0 +1,5 @@
+118,119c118
+<         if (codepoint > 0xffff) {
+<             out.write(toUtf16Escape(codepoint));
+---
+>         if (codepoint > 0xffff) {            out.write(toUtf16Escape(codepoint));

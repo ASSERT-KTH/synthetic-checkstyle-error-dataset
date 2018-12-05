@@ -1,0 +1,4 @@
+512c512
+<     public static final String escapeJson(final String input) {
+---
+>     	public static final String escapeJson(final String input) {

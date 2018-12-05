@@ -1,0 +1,4 @@
+196c196
+<                     && (useTransients || !Modifier.isTransient(field.getModifiers()))
+---
+>                     && (useTransients || !Modifier.isTransient(field.getModifiers(	)))

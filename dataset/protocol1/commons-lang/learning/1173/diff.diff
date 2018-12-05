@@ -1,0 +1,5 @@
+130c130,131
+<             (getRight() == null ? 0 : getRight().hashCode());
+---
+>             (getRight() == null 
+> ? 0 : getRight().hashCode());

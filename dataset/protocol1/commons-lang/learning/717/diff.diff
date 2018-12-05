@@ -1,0 +1,5 @@
+313c313,314
+<             this.daemon = Boolean.valueOf(daemon);
+---
+>             this.daemon 
+> = Boolean.valueOf(daemon);

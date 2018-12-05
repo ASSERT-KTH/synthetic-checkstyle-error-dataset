@@ -1,0 +1,5 @@
+40c40,41
+<         if (input.charAt(index) == '\\' && index + 1 < input.length() && input.charAt(index + 1) == 'u') {
+---
+>         if (input.charAt(index) == '\\' && index + 1 < input.length() && input.charAt(index 
+> + 1) == 'u') {

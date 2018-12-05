@@ -1,0 +1,4 @@
+348c348
+<         return wrappedLine.toString();
+---
+>         return 	wrappedLine.toString();

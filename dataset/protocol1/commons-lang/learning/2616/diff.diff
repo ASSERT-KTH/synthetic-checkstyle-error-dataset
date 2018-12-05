@@ -1,0 +1,4 @@
+239c239
+<     private static int hashMember(final String name, final Object value) {
+---
+>     	private static int hashMember(final String name, final Object value) {

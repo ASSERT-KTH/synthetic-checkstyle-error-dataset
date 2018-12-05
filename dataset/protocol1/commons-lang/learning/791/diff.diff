@@ -1,0 +1,5 @@
+1761c1761,1762
+<         return truncatedCal1.compareTo(truncatedCal2);
+---
+>         return 
+> truncatedCal1.compareTo(truncatedCal2);

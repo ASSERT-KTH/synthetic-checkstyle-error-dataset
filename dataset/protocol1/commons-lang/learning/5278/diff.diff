@@ -1,0 +1,5 @@
+338c338,339
+<     public Byte toByte() {
+---
+>     public 
+> Byte toByte() {

@@ -1,0 +1,5 @@
+427c427,428
+<                 final Comparable<Object> comparable = (Comparable<Object>) lhs;
+---
+>                 final Comparable<Object> comparable 
+> = (Comparable<Object>) lhs;

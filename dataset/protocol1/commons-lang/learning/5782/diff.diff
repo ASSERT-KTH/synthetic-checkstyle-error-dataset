@@ -1,0 +1,5 @@
+311,312c311
+<             }
+<             final FormatFactory factory = registry.get(name);
+---
+>             }            final FormatFactory factory = registry.get(name);

@@ -1,0 +1,4 @@
+51c51
+<     void setValue(T value);
+---
+>     void setValue(	T value);

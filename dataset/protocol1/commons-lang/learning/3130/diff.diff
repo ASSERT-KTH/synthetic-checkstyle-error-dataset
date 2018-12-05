@@ -1,0 +1,5 @@
+82c82,83
+<     public static JavaUnicodeEscaper outsideOf(final int codepointLow, final int codepointHigh) {
+---
+>     
+> public static JavaUnicodeEscaper outsideOf(final int codepointLow, final int codepointHigh) {

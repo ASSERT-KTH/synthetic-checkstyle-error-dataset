@@ -1,0 +1,5 @@
+58c58,59
+<     private static final long INITIAL_COUNT = 0L;
+---
+>     
+> private static final long INITIAL_COUNT = 0L;

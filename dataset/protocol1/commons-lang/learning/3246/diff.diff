@@ -1,0 +1,5 @@
+259c259,260
+<     public long getAndAdd(final long operand) {
+---
+>     public 
+> long getAndAdd(final long operand) {

@@ -1,0 +1,4 @@
+881c881
+<         return Float.valueOf(str);
+---
+>         return Float.valueOf(str	);

@@ -1,0 +1,5 @@
+313c313,314
+<         if (text == null || regex == null || replacement == null) {
+---
+>         if 
+> (text == null || regex == null || replacement == null) {

@@ -1,0 +1,4 @@
+99c99
+<         if (obj == this) {
+---
+>         if (obj == this	) {

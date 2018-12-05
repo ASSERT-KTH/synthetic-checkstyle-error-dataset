@@ -1,0 +1,4 @@
+57c57
+<                     out.write((char) value);
+---
+>                     out	.write((char) value);

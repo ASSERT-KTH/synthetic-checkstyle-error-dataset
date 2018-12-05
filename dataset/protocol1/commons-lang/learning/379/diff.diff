@@ -1,0 +1,5 @@
+712,713c712
+<             if (StringUtils.isBlank(w)) {
+<                 return false;
+---
+>             if (StringUtils.isBlank(w)) {                return false;

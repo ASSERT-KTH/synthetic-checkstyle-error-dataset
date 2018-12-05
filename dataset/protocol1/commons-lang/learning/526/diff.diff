@@ -1,0 +1,4 @@
+906c906
+<         buf.append(priorVariables.remove(0));
+---
+>         buf.append	(priorVariables.remove(0));

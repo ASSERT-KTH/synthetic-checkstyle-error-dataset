@@ -1,0 +1,5 @@
+1578,1579c1578
+<             return equals((ParameterizedType) t1, t2);
+<         }
+---
+>             return equals((ParameterizedType) t1, t2);        }

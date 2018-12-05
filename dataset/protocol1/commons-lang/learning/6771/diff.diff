@@ -1,0 +1,4 @@
+50c50
+<     public SerializationException(final String msg) {
+---
+>     public SerializationException(final 	String msg) {

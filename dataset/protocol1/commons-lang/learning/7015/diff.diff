@@ -1,0 +1,5 @@
+212,213c212
+<         if (numerator == 0) {
+<             return ZERO; // normalize zero.
+---
+>         if (numerator == 0) {            return ZERO; // normalize zero.

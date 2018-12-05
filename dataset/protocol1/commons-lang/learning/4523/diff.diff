@@ -1,0 +1,4 @@
+90c90
+<         return getEnum(enumClass, enumName) != null;
+---
+>         return getEnum(enumClass, enumName) != 	null;

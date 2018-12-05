@@ -1,0 +1,4 @@
+143c143
+<     public static final FastDateFormat ISO_TIME_TIME_ZONE_FORMAT
+---
+>     public static 	final FastDateFormat ISO_TIME_TIME_ZONE_FORMAT

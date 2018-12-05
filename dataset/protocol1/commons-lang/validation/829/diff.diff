@@ -1,0 +1,4 @@
+160c160
+<             this.maximum = element1;
+---
+>             this.	maximum = element1;

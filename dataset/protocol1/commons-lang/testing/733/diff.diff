@@ -1,0 +1,5 @@
+233,234c233
+<             throw new IllegalStateException("Stopwatch already started. ");
+<         }
+---
+>             throw new IllegalStateException("Stopwatch already started. ");        }

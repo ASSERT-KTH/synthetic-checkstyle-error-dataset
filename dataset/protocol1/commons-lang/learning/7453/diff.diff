@@ -1,0 +1,4 @@
+173c173
+<     public static final String JAVA_AWT_GRAPHICSENV = getSystemProperty("java.awt.graphicsenv");
+---
+>     public static final 	String JAVA_AWT_GRAPHICSENV = getSystemProperty("java.awt.graphicsenv");

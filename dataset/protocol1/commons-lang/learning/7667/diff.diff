@@ -1,0 +1,4 @@
+995c995
+<             comparison = lhs.length < rhs.length ? -1 : 1;
+---
+>             comparison = lhs.length < rhs.length ? -1 : 	1;

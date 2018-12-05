@@ -1,0 +1,4 @@
+154c154
+<             seconds = milliseconds / DateUtils.MILLIS_PER_SECOND;
+---
+>             	seconds = milliseconds / DateUtils.MILLIS_PER_SECOND;

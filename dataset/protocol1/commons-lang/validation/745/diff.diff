@@ -1,0 +1,5 @@
+113c113,114
+<     public static int nextInt() {
+---
+>     
+> public static int nextInt() {

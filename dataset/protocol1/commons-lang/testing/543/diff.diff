@@ -1,0 +1,5 @@
+237,238c237
+<     public static String formatPeriodISO(final long startMillis, final long endMillis) {
+<         return formatPeriod(startMillis, endMillis, ISO_EXTENDED_FORMAT_PATTERN, false, TimeZone.getDefault());
+---
+>     public static String formatPeriodISO(final long startMillis, final long endMillis) {        return formatPeriod(startMillis, endMillis, ISO_EXTENDED_FORMAT_PATTERN, false, TimeZone.getDefault());

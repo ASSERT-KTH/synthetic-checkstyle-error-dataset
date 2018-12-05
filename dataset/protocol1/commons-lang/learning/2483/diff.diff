@@ -1,0 +1,5 @@
+331c331,332
+<         if (src.length > srcPos + 1 && src[srcPos + 1]) {
+---
+>         if (src.length > srcPos + 
+> 1 && src[srcPos + 1]) {

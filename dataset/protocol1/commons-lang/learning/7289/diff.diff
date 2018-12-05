@@ -1,0 +1,4 @@
+971c971
+<     public static boolean or(final boolean... array) {
+---
+>     public static boolean or(	final boolean... array) {

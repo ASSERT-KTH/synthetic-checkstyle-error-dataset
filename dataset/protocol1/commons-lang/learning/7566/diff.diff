@@ -1,0 +1,4 @@
+1177c1177
+<     public static String getShortCanonicalName(final Object object, final String valueIfNull) {
+---
+>     public static String getShortCanonicalName	(final Object object, final String valueIfNull) {

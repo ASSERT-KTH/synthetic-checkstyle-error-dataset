@@ -1,0 +1,5 @@
+125c125,126
+<     <B extends Appendable> B format(Date date, B buf);
+---
+>     <B 
+> extends Appendable> B format(Date date, B buf);

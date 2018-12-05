@@ -1,0 +1,4 @@
+244c244
+<         if (Float.isNaN(a)) {
+---
+>         if (Float.isNaN(a	)) {

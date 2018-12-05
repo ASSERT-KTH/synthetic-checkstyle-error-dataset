@@ -1,0 +1,4 @@
+84c84
+<         try (ClassLoaderAwareObjectInputStream in = new ClassLoaderAwareObjectInputStream(bais,
+---
+>         try (	ClassLoaderAwareObjectInputStream in = new ClassLoaderAwareObjectInputStream(bais,

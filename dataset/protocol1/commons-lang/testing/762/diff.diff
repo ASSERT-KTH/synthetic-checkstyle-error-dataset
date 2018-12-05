@@ -1,0 +1,5 @@
+3647,3648c3647
+<         if (array == null) {
+<             return INDEX_NOT_FOUND;
+---
+>         if (array == null) {            return INDEX_NOT_FOUND;

@@ -1,0 +1,4 @@
+109c109
+<         this.value = value.intValue();
+---
+>         this	.value = value.intValue();

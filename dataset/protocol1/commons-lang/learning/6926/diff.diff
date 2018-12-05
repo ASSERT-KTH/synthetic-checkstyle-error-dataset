@@ -1,0 +1,5 @@
+715,716c715
+<         } else {
+<             for (final double element : array) {
+---
+>         } else {            for (final double element : array) {

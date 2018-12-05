@@ -1,0 +1,5 @@
+40c40,41
+<         final int codepoint = Character.codePointAt(input, index);
+---
+>         
+> final int codepoint = Character.codePointAt(input, index);

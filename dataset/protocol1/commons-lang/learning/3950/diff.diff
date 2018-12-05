@@ -1,0 +1,5 @@
+209,210c209
+<     public void subtract(final byte operand) {
+<         this.value -= operand;
+---
+>     public void subtract(final byte operand) {        this.value -= operand;

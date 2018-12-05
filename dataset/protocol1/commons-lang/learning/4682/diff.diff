@@ -1,0 +1,5 @@
+192c192,193
+<         return modify(str, set, true);
+---
+>         return modify(str, 
+> set, true);

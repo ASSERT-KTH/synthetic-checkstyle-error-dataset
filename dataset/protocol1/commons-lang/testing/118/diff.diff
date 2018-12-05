@@ -1,0 +1,4 @@
+147c147
+<             milliseconds = milliseconds - (hours * DateUtils.MILLIS_PER_HOUR);
+---
+>             milliseconds = milliseconds - 	(hours * DateUtils.MILLIS_PER_HOUR);

@@ -1,0 +1,5 @@
+463,464c463
+<     public static Object readField(final Object target, final String fieldName, final boolean forceAccess) throws IllegalAccessException {
+<         Validate.isTrue(target != null, "target object must not be null");
+---
+>     public static Object readField(final Object target, final String fieldName, final boolean forceAccess) throws IllegalAccessException {        Validate.isTrue(target != null, "target object must not be null");

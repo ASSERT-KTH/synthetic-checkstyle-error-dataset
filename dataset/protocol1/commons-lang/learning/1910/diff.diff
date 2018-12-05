@@ -1,0 +1,5 @@
+372c372,373
+<         final int text = pos.getIndex();
+---
+>         final int text = 
+> pos.getIndex();

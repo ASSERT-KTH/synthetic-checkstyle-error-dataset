@@ -1,0 +1,5 @@
+153,154c153
+<         }
+<         final CharSet chars = CharSet.getInstance(set);
+---
+>         }        final CharSet chars = CharSet.getInstance(set);

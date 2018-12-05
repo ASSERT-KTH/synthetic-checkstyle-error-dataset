@@ -1,0 +1,5 @@
+357,358c357
+<         if (componentType.equals(Float.TYPE)) {
+<             return Arrays.hashCode((float[]) o);
+---
+>         if (componentType.equals(Float.TYPE)) {            return Arrays.hashCode((float[]) o);

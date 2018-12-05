@@ -1,0 +1,5 @@
+75c75,76
+<     StringBuffer format(long millis, StringBuffer buf);
+---
+>     
+> StringBuffer format(long millis, StringBuffer buf);

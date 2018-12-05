@@ -1,0 +1,5 @@
+220c220,221
+<     public void subtract(final Number operand) {
+---
+>     public 
+> void subtract(final Number operand) {

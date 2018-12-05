@@ -1,0 +1,4 @@
+669c669
+<                 firstSigDigit = str.charAt(i);
+---
+>                 firstSigDigit = str.charAt	(i);

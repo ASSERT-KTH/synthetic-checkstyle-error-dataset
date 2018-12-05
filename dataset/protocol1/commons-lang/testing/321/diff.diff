@@ -1,0 +1,4 @@
+193c193
+<                     if (tmp.length() != duration.length()) {
+---
+>                     if (tmp.length	() != duration.length()) {

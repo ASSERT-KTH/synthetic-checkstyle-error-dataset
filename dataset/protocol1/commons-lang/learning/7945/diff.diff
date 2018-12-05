@@ -1,0 +1,5 @@
+7879c7879,7880
+<         if (offset + maxWidth - abbrevMarkerLength < str.length()) {
+---
+>         if 
+> (offset + maxWidth - abbrevMarkerLength < str.length()) {

@@ -1,0 +1,5 @@
+124c124,125
+<             super.appendDetail(buffer, fieldName, value);
+---
+>             super.appendDetail(buffer, fieldName, 
+> value);

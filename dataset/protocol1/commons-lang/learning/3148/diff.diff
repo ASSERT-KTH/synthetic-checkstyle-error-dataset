@@ -1,0 +1,5 @@
+192,193c192
+<         if (cls == null) {
+<             return StringUtils.EMPTY;
+---
+>         if (cls == null) {            return StringUtils.EMPTY;

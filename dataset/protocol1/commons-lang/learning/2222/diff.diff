@@ -1,0 +1,4 @@
+1744c1744
+<     private static boolean withDecimalsParsing(final String str, final int beginIdx) {
+---
+>     private static boolean 	withDecimalsParsing(final String str, final int beginIdx) {

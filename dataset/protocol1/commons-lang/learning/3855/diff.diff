@@ -1,0 +1,5 @@
+126c126,127
+<         final Collection<Thread> result = new ArrayList<>();
+---
+>         final Collection<Thread> result = new 
+> ArrayList<>();

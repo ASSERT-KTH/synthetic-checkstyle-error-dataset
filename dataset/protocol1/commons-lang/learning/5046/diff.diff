@@ -1,0 +1,5 @@
+291c291,292
+<     public double getAndAdd(final Number operand) {
+---
+>     
+> public double getAndAdd(final Number operand) {

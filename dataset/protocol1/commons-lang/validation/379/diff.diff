@@ -1,0 +1,4 @@
+693c693
+<     private static void appendFullDigits(final Appendable buffer, int value, int minFieldWidth) throws IOException {
+---
+>     private static 	void appendFullDigits(final Appendable buffer, int value, int minFieldWidth) throws IOException {

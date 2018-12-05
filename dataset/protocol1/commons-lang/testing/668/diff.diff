@@ -1,0 +1,4 @@
+336c336
+<         this.runningState = State.SUSPENDED;
+---
+>         this.runningState = State	.SUSPENDED;

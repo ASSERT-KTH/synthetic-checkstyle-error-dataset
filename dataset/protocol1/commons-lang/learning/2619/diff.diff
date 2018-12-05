@@ -1,0 +1,5 @@
+354c354,355
+<             final List<Locale> list = new ArrayList<>(Arrays.asList(Locale.getAvailableLocales()));  // extra safe
+---
+>             final List<Locale> list = 
+> new ArrayList<>(Arrays.asList(Locale.getAvailableLocales()));  // extra safe

@@ -1,0 +1,5 @@
+86c86,87
+<     private volatile T object = (T) NO_INIT;
+---
+>     private volatile T object 
+> = (T) NO_INIT;

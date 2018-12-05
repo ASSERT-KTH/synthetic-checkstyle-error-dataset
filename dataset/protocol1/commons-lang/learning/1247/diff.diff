@@ -1,0 +1,4 @@
+185c185
+<         final List<Throwable> list = getThrowableList(throwable);
+---
+>         final List<	Throwable> list = getThrowableList(throwable);

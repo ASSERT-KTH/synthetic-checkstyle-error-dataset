@@ -1,0 +1,4 @@
+813c813
+<                                         + startMatchLen, pos - startPos
+---
+>                                         + startMatchLen, pos 	- startPos

@@ -1,0 +1,5 @@
+317c317,318
+<         while (minutes < 0) {
+---
+>         while (minutes < 
+> 0) {

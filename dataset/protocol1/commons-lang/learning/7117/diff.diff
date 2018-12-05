@@ -1,0 +1,5 @@
+636c636,637
+<         final StringTokenizer frames = new StringTokenizer(stackTrace, linebreak);
+---
+>         final 
+> StringTokenizer frames = new StringTokenizer(stackTrace, linebreak);

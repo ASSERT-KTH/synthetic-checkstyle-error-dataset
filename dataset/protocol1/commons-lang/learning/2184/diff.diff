@@ -1,0 +1,4 @@
+575c575
+<     public static String swapCase(final String str) {
+---
+>     public static String swapCase(final String 	str) {

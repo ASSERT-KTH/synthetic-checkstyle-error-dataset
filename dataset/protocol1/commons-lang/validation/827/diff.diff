@@ -1,0 +1,4 @@
+26c26
+< public interface Typed<T> {
+---
+> public interface Typed<T> 	{

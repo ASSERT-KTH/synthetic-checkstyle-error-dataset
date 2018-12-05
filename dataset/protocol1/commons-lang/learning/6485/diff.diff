@@ -1,0 +1,5 @@
+32c32,33
+< public class MutableBoolean implements Mutable<Boolean>, Serializable, Comparable<MutableBoolean> {
+---
+> public class MutableBoolean implements 
+> Mutable<Boolean>, Serializable, Comparable<MutableBoolean> {

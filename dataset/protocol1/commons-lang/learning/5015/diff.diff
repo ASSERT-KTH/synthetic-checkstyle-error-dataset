@@ -1,0 +1,5 @@
+522,523c522
+<         for (final Object name : coll) {
+<             if (name != null) {
+---
+>         for (final Object name : coll) {            if (name != null) {

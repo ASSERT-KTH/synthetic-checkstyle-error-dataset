@@ -1,0 +1,5 @@
+451,452c451
+<                 } else if (value.equals(s)) {
+<                     buffer.append(paddedValue(seconds, padWithZeros, count));
+---
+>                 } else if (value.equals(s)) {                    buffer.append(paddedValue(seconds, padWithZeros, count));

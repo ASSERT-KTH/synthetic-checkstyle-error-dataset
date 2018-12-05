@@ -1,0 +1,4 @@
+1539c1539
+<             longToByteArray(src.getLeastSignificantBits(), 0, dst, dstPos + 8, nBytes - 8);
+---
+>             longToByteArray(src.getLeastSignificantBits(), 	0, dst, dstPos + 8, nBytes - 8);

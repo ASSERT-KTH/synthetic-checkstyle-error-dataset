@@ -1,0 +1,4 @@
+497c497
+<     private static void register(final Object value) {
+---
+>     private static void register	(final Object value) {

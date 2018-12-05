@@ -1,0 +1,4 @@
+111c111
+<                 if (hasMatchingParametersMethod(method)) {
+---
+>                 if (	hasMatchingParametersMethod(method)) {

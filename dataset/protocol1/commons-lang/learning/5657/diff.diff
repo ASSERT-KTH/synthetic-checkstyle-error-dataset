@@ -1,0 +1,5 @@
+284c284,285
+<     public static String format(final Calendar calendar, final String pattern) {
+---
+>     
+> public static String format(final Calendar calendar, final String pattern) {

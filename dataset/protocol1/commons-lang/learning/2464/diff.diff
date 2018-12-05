@@ -1,0 +1,4 @@
+113c113
+<         {"\u00E7", "&ccedil;"}, // ç - lowercase c, cedilla
+---
+>         {	"\u00E7", "&ccedil;"}, // ç - lowercase c, cedilla

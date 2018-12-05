@@ -1,0 +1,5 @@
+1062,1063c1062
+<         }
+<         return new String(chars);
+---
+>         }        return new String(chars);

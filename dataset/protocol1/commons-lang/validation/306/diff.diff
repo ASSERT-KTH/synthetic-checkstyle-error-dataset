@@ -1,0 +1,4 @@
+369c369
+<         return new ReflectionToStringBuilder(object, style, null, reflectUpToClass, outputTransients, outputStatics, excludeNullValues)
+---
+>         return new ReflectionToStringBuilder(object, 	style, null, reflectUpToClass, outputTransients, outputStatics, excludeNullValues)

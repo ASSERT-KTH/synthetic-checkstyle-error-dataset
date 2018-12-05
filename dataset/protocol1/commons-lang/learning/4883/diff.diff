@@ -1,0 +1,5 @@
+220,221c220
+<         if (denominator < 0) {
+<             if (numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE) {
+---
+>         if (denominator < 0) {            if (numerator == Integer.MIN_VALUE || denominator == Integer.MIN_VALUE) {

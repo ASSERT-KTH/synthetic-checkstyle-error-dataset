@@ -1,0 +1,5 @@
+226,227c226
+<     public void subtract(final double operand) {
+<         this.value -= operand;
+---
+>     public void subtract(final double operand) {        this.value -= operand;

@@ -1,0 +1,5 @@
+346c346,347
+<         return Double.valueOf(doubleValue());
+---
+>         return 
+> Double.valueOf(doubleValue());

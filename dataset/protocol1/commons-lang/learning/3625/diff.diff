@@ -1,0 +1,4 @@
+181c181
+<             return new CharMatcher(chars[0]);
+---
+>             	return new CharMatcher(chars[0]);

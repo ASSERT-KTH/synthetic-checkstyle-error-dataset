@@ -1,0 +1,4 @@
+75c75
+<     public abstract boolean incrementAndCheckState(T increment);
+---
+>     public abstract boolean incrementAndCheckState(	T increment);

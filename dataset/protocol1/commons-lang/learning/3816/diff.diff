@@ -1,0 +1,4 @@
+26c26
+< package org.apache.commons.lang3.exception;
+---
+> package org.apache.commons.	lang3.exception;

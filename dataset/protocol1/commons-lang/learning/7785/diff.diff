@@ -1,0 +1,5 @@
+765,766c765
+<             throw new ArithmeticException("overflow: numerator too large after multiply");
+<         }
+---
+>             throw new ArithmeticException("overflow: numerator too large after multiply");        }

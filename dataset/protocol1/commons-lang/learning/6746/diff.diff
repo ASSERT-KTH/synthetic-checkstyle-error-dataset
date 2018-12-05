@@ -1,0 +1,4 @@
+281c281
+<         if (srcLen < length || otherLen < length) {
+---
+>         if (srcLen < length || otherLen < length) 	{

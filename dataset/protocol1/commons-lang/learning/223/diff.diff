@@ -1,0 +1,5 @@
+1076,1077c1076
+<         try {
+<             return cloneReset();
+---
+>         try {            return cloneReset();

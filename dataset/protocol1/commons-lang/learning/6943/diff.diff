@@ -1,0 +1,5 @@
+384c384,385
+<     public static final CharSequenceTranslator UNESCAPE_CSV = new CsvUnescaper();
+---
+>     public static final CharSequenceTranslator UNESCAPE_CSV 
+> = new CsvUnescaper();

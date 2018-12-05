@@ -1,0 +1,4 @@
+245c245
+<             if (toParse.length >= 2) {
+---
+>             	if (toParse.length >= 2) {

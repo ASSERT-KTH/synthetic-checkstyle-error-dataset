@@ -1,0 +1,5 @@
+248,249c248
+<         } else {
+<             return NumberUtils.toFloat(value, defaultReturnValue);
+---
+>         } else {            return NumberUtils.toFloat(value, defaultReturnValue);

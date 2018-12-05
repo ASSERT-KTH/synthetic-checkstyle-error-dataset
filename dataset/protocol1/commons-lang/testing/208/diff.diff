@@ -1,0 +1,4 @@
+536c536
+<             return append((StringBuilder) seq);
+---
+>             return append	((StringBuilder) seq);

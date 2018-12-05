@@ -1,0 +1,4 @@
+39c39
+<     public final int translate(final CharSequence input, final int index, final Writer out) throws IOException {
+---
+>     public final int translate(final CharSequence input, final int index, final Writer out) throws 	IOException {

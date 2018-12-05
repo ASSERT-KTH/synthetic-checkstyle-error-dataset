@@ -1,0 +1,4 @@
+58c58
+<     public static <L, R> Pair<L, R> of(final L left, final R right) {
+---
+>     public static <L, R> Pair	<L, R> of(final L left, final R right) {

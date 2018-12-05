@@ -1,0 +1,4 @@
+325c325
+<             this.priority = Integer.valueOf(priority);
+---
+>             this.priority = Integer.valueOf(priority	);

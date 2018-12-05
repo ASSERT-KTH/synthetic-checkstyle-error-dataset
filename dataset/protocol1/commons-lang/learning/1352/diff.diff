@@ -1,0 +1,4 @@
+370c370
+<         if (!Arrays.equals(lhs, rhs)) {
+---
+>         if (!	Arrays.equals(lhs, rhs)) {

@@ -1,0 +1,4 @@
+858c858
+<     public static final String USER_TIMEZONE = getSystemProperty("user.timezone");
+---
+>     public static final String USER_TIMEZONE = getSystemProperty(	"user.timezone");

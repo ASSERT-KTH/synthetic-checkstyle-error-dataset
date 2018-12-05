@@ -1,0 +1,5 @@
+3001,3002c3001
+<             if (pos + len > size()) {
+<                 len = StrBuilder.this.size() - pos;
+---
+>             if (pos + len > size()) {                len = StrBuilder.this.size() - pos;

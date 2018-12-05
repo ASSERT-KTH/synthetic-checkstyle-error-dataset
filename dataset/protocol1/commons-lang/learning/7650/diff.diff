@@ -1,0 +1,4 @@
+785c785
+<     public static final String USER_DIR = getSystemProperty(USER_DIR_KEY);
+---
+>     public 	static final String USER_DIR = getSystemProperty(USER_DIR_KEY);

@@ -1,0 +1,4 @@
+522c522
+<     public void setSummaryObjectStartText(final String summaryObjectStartText) { // NOPMD as this is implementing the abstract class
+---
+>     public void setSummaryObjectStartText(	final String summaryObjectStartText) { // NOPMD as this is implementing the abstract class

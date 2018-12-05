@@ -1,0 +1,4 @@
+547c547
+<         return runningState.isStopped();
+---
+>         	return runningState.isStopped();

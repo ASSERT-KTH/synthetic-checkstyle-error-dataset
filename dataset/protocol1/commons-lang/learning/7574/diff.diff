@@ -1,0 +1,5 @@
+127c127,128
+<         return context.getName().replace('.', '/') + "/" + resourceName;
+---
+>         return context.getName().replace('.', 
+> '/') + "/" + resourceName;

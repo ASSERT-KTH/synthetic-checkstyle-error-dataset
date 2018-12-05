@@ -1,0 +1,4 @@
+215c215
+<         return date1.getTime() == date2.getTime();
+---
+>         return date1.getTime() 	== date2.getTime();

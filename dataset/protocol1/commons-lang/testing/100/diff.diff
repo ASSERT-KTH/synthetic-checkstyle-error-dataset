@@ -1,0 +1,4 @@
+5288c5288
+<         final float[] joinedArray = new float[array1.length + array2.length];
+---
+>         final float[	] joinedArray = new float[array1.length + array2.length];

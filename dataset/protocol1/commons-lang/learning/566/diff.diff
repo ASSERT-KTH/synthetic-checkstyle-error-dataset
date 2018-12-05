@@ -1,0 +1,5 @@
+104,105c104
+<             return Charset.isSupported(name);
+<         } catch (final IllegalCharsetNameException ex) {
+---
+>             return Charset.isSupported(name);        } catch (final IllegalCharsetNameException ex) {

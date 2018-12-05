@@ -1,0 +1,4 @@
+387c387
+<             if (src[srcPos + 1]) {
+---
+>             if (src[srcPos 	+ 1]) {

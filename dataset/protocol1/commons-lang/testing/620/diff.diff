@@ -1,0 +1,4 @@
+37c37
+<         if (codepoint >= Character.MIN_SURROGATE && codepoint <= Character.MAX_SURROGATE) {
+---
+>         if (codepoint >= Character.MIN_SURROGATE && codepoint <= 	Character.MAX_SURROGATE) {

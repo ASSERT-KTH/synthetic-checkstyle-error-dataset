@@ -1,0 +1,4 @@
+399c399
+<             threads = new Thread[count + (count / 2) + 1]; //slightly grow the array size
+---
+>             threads = new Thread[count + (count / 2) + 	1]; //slightly grow the array size

@@ -1,0 +1,4 @@
+123c123
+<     public ContextedException(final Throwable cause) {
+---
+>     public ContextedException(final Throwable cause) 	{

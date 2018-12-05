@@ -1,0 +1,5 @@
+272c272,273
+<         final int srcLen = cs.length() - thisStart;
+---
+>         
+> final int srcLen = cs.length() - thisStart;

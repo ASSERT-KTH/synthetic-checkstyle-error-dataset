@@ -1,0 +1,5 @@
+290c290,291
+<         final StringBuilder wrappedLine = new StringBuilder(inputLineLength + 32);
+---
+>         final StringBuilder wrappedLine = new StringBuilder(inputLineLength + 
+> 32);

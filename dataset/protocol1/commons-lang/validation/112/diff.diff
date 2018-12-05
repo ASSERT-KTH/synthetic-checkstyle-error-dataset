@@ -1,0 +1,4 @@
+199c199
+<             final int end = Math.max(nom.length(), nom.indexOf(',', firstComma));
+---
+>             final int end = Math.max(nom.length(), nom.indexOf(',', firstComma	));

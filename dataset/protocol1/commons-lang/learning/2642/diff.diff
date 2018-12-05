@@ -1,0 +1,5 @@
+469,470c469
+<     public ToStringBuilder append(final Object obj) {
+<         style.append(buffer, null, obj, null);
+---
+>     public ToStringBuilder append(final Object obj) {        style.append(buffer, null, obj, null);

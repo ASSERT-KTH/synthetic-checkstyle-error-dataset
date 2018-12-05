@@ -1,0 +1,4 @@
+748c748
+<         this.getStyle().reflectionAppendArrayDetail(this.getStringBuffer(), null, array);
+---
+>         this.getStyle().reflectionAppendArrayDetail(this.getStringBuffer(), null	, array);

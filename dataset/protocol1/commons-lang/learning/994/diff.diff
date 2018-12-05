@@ -1,0 +1,4 @@
+112c112
+<     private static final int DEFAULT_MULTIPLIER_VALUE = 37;
+---
+>     private static final int 	DEFAULT_MULTIPLIER_VALUE = 37;

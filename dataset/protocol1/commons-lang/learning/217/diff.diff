@@ -1,0 +1,4 @@
+131c131
+<         return Arch.BIT_32.equals(arch);
+---
+>         return Arch.BIT_32.equals	(arch);

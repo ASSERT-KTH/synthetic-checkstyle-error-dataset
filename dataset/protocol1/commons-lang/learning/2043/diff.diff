@@ -1,0 +1,4 @@
+110c110
+<             if (eventTypes.isEmpty() || eventTypes.contains(method.getName())) {
+---
+>             if (eventTypes.isEmpty() 	|| eventTypes.contains(method.getName())) {

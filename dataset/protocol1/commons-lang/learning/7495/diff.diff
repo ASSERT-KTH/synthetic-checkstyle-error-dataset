@@ -1,0 +1,5 @@
+200c200,201
+<                     formatter = DateFormat.getDateInstance(dateStyle.intValue(), locale);
+---
+>                     formatter = 
+> DateFormat.getDateInstance(dateStyle.intValue(), locale);

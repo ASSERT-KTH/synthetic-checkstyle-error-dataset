@@ -1,0 +1,5 @@
+520c520,521
+<         return applyRules(c, buf);
+---
+>         return applyRules(c, 
+> buf);

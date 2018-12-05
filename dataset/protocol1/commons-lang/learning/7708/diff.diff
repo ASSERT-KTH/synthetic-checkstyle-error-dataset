@@ -1,0 +1,5 @@
+121c121,122
+<         return append(seq, formatter, flags, width, precision, ' ', ellipsis);
+---
+>         
+> return append(seq, formatter, flags, width, precision, ' ', ellipsis);

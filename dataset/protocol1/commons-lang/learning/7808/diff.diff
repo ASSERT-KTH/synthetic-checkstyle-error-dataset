@@ -1,0 +1,4 @@
+755c755
+<         final BigInteger upv = BigInteger.valueOf(fraction.numerator).multiply(BigInteger.valueOf(denominator / d1));
+---
+>         final BigInteger upv = BigInteger.valueOf(fraction.numerator).multiply	(BigInteger.valueOf(denominator / d1));

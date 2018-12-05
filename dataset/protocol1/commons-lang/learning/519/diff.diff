@@ -1,0 +1,4 @@
+99c99
+<         diffBuilder = new DiffBuilder(lhs, rhs, style);
+---
+>         diffBuilder = new DiffBuilder(	lhs, rhs, style);

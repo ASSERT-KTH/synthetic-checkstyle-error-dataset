@@ -1,0 +1,5 @@
+406c406,407
+<             if (count == 0 && numberOfChars > 1) {
+---
+>             if (count == 0 && 
+> numberOfChars > 1) {

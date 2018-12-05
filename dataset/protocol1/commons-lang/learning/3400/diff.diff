@@ -1,0 +1,4 @@
+79c79
+<     private static final boolean[] FTFF = {false, true, false, false};
+---
+>     private static final boolean[] FTFF 	= {false, true, false, false};

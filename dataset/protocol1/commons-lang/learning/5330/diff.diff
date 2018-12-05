@@ -1,0 +1,5 @@
+553c553,554
+<                     .getCheckIntervalStart()
+---
+>                     
+> .getCheckIntervalStart()

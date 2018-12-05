@@ -1,0 +1,4 @@
+276c276
+<     public float getAndAdd(final float operand) {
+---
+>     public float getAndAdd	(final float operand) {

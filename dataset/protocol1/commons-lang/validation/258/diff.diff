@@ -1,0 +1,5 @@
+190c190,191
+<     public static <T> T deserialize(final InputStream inputStream) {
+---
+>     public 
+> static <T> T deserialize(final InputStream inputStream) {

@@ -1,0 +1,4 @@
+574c574
+<         if (Math.abs(u) == 1 || Math.abs(v) == 1) {
+---
+>         if (Math.abs(u) == 1 || Math.abs	(v) == 1) {

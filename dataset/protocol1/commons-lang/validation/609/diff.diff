@@ -1,0 +1,4 @@
+55c55
+<             for (final CharSequence[] seq : lookup) {
+---
+>             for (final CharSequence[] 	seq : lookup) {

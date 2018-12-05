@@ -1,0 +1,5 @@
+131c131,132
+<     public StrBuilder(final String str) {
+---
+>     public StrBuilder(final String 
+> str) {

@@ -1,0 +1,5 @@
+172c172,173
+<     public synchronized boolean start() {
+---
+>     public 
+> synchronized boolean start() {

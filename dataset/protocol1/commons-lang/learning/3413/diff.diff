@@ -1,0 +1,4 @@
+164c164
+<         final long last = value;
+---
+>         	final long last = value;

@@ -1,0 +1,4 @@
+584c584
+<         super(checkNotNull(object), style, buffer);
+---
+>         super	(checkNotNull(object), style, buffer);

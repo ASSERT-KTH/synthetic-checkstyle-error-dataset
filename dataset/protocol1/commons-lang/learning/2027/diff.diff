@@ -1,0 +1,4 @@
+95c95
+<     public void setValue(final double value) {
+---
+>     	public void setValue(final double value) {

@@ -1,0 +1,5 @@
+61c61,62
+<         return replaceAll(text, regex, StringUtils.EMPTY);
+---
+>         return 
+> replaceAll(text, regex, StringUtils.EMPTY);

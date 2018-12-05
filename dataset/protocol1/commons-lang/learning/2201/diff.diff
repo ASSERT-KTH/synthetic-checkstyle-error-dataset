@@ -1,0 +1,5 @@
+88c88,89
+<             final char firstChar = input.charAt(start);
+---
+>             
+> final char firstChar = input.charAt(start);

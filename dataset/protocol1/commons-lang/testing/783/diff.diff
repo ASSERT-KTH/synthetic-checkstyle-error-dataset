@@ -1,0 +1,4 @@
+1709c1709
+<             System.arraycopy(buffer, index, buffer, index + 5, size - index);
+---
+>             System.arraycopy(buffer, index, buffer, 	index + 5, size - index);

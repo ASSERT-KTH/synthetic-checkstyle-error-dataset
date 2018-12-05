@@ -1,0 +1,4 @@
+2451c2451
+<         public void append(final StringBuffer buffer, final String fieldName,
+---
+>         public void append(final 	StringBuffer buffer, final String fieldName,

@@ -1,0 +1,5 @@
+237,238c237
+<                 list.add(defaultLocale);
+<             }
+---
+>                 list.add(defaultLocale);            }

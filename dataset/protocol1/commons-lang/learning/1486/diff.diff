@@ -1,0 +1,5 @@
+649,650c649
+<             for (final byte element : array) {
+<                 append(element);
+---
+>             for (final byte element : array) {                append(element);

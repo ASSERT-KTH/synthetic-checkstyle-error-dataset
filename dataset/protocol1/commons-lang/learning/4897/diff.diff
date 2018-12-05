@@ -1,0 +1,4 @@
+509c509
+<         final Field field = getDeclaredField(cls, fieldName, forceAccess);
+---
+>         final Field field 	= getDeclaredField(cls, fieldName, forceAccess);

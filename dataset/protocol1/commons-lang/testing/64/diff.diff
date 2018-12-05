@@ -1,0 +1,4 @@
+125c125
+<     public boolean isInfinite() {
+---
+>     public boolean 	isInfinite() {

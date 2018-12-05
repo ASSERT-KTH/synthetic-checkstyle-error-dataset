@@ -1,0 +1,4 @@
+61c61
+<     public SerializationException(final Throwable cause) {
+---
+>     	public SerializationException(final Throwable cause) {

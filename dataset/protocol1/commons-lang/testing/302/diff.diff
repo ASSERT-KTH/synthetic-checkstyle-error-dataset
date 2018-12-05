@@ -1,0 +1,4 @@
+229c229
+<         if (this.runningState == State.STOPPED) {
+---
+>         if (this.	runningState == State.STOPPED) {

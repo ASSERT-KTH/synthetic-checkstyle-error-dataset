@@ -1,0 +1,5 @@
+187c187,188
+<             return range.end < start || range.start > end;
+---
+>             
+> return range.end < start || range.start > end;

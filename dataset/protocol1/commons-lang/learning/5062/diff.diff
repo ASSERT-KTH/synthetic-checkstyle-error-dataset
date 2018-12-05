@@ -1,0 +1,4 @@
+143c143
+<         return getDateTimeInstance(Integer.valueOf(dateStyle), Integer.valueOf(timeStyle), timeZone, locale);
+---
+>         return getDateTimeInstance(Integer.valueOf(dateStyle), Integer.valueOf	(timeStyle), timeZone, locale);

@@ -1,0 +1,4 @@
+848c848
+<                     || Double.TYPE.equals(toClass);
+---
+>                     || Double.	TYPE.equals(toClass);

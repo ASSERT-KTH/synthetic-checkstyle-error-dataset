@@ -1,0 +1,5 @@
+225c225,226
+<     public static String formatUTC(final Date date, final String pattern) {
+---
+>     public static 
+> String formatUTC(final Date date, final String pattern) {

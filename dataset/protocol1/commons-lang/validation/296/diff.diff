@@ -1,0 +1,4 @@
+28c28
+< public enum JavaVersion {
+---
+> 	public enum JavaVersion {

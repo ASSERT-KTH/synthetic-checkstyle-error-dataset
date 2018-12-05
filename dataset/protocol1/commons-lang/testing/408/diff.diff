@@ -1,0 +1,5 @@
+3542c3542,3543
+<         if (array == null) {
+---
+>         if (array 
+> == null) {

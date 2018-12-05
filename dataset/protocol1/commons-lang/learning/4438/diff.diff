@@ -1,0 +1,4 @@
+63c63
+<     public static final Double DOUBLE_ONE = Double.valueOf(1.0d);
+---
+>     public static final Double 	DOUBLE_ONE = Double.valueOf(1.0d);

@@ -1,0 +1,4 @@
+120c120
+<             boolean isSuspended() {
+---
+>             boolean isSuspended	() {

@@ -1,0 +1,5 @@
+419,420c419
+<     protected ScheduledFuture<?> startTimer() {
+<         return getExecutorService().scheduleAtFixedRate(new Runnable() {
+---
+>     protected ScheduledFuture<?> startTimer() {        return getExecutorService().scheduleAtFixedRate(new Runnable() {

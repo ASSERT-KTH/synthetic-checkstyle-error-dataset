@@ -1,0 +1,4 @@
+166c166
+<     public static StrMatcher charMatcher(final char ch) {
+---
+>     	public static StrMatcher charMatcher(final char ch) {

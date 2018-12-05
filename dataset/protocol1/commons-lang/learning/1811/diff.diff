@@ -1,0 +1,5 @@
+135c135,136
+<     public void addInitializer(final String name, final BackgroundInitializer<?> init) {
+---
+>     public void addInitializer(final String name, final BackgroundInitializer<?> 
+> init) {

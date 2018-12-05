@@ -1,0 +1,4 @@
+406c406
+<     public static boolean reflectionEquals(final Object lhs, final Object rhs, final boolean testTransients, final Class<?> reflectUpToClass,
+---
+>     public static boolean reflectionEquals(final Object 	lhs, final Object rhs, final boolean testTransients, final Class<?> reflectUpToClass,

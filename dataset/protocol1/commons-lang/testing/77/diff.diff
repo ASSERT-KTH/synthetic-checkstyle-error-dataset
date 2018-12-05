@@ -1,0 +1,5 @@
+595,596c595
+<         if (values != null) {
+<             for (final T value : values) {
+---
+>         if (values != null) {            for (final T value : values) {

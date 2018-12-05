@@ -1,0 +1,4 @@
+56c56
+<     private final ConcurrentMap<I, Future<O>> cache = new ConcurrentHashMap<>();
+---
+>     private final ConcurrentMap<I, Future<O>> cache = new ConcurrentHashMap<>	();

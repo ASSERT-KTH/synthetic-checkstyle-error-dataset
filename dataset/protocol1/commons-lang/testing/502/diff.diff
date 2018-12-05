@@ -1,0 +1,5 @@
+246,247c246
+<     public int addAndGet(final Number operand) {
+<         this.value += operand.intValue();
+---
+>     public int addAndGet(final Number operand) {        this.value += operand.intValue();

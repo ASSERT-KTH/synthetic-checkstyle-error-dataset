@@ -1,0 +1,5 @@
+162c162,163
+<         for (final BackgroundInitializer<?> bi : childInitializers.values()) {
+---
+>         for (final 
+> BackgroundInitializer<?> bi : childInitializers.values()) {

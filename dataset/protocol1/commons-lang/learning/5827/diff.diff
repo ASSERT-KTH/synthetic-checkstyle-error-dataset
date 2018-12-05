@@ -1,0 +1,4 @@
+123c123
+<         namingPattern = builder.namingPattern;
+---
+>         namingPattern = builder.	namingPattern;

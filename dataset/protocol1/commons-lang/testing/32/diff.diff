@@ -1,0 +1,5 @@
+298,299c298
+<     public StrBuilder clear() {
+<         size = 0;
+---
+>     public StrBuilder clear() {        size = 0;

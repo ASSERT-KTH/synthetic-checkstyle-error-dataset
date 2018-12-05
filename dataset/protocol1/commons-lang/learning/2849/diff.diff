@@ -1,0 +1,5 @@
+138c138,139
+<     public static StrMatcher doubleQuoteMatcher() {
+---
+>     public 
+> static StrMatcher doubleQuoteMatcher() {

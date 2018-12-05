@@ -1,0 +1,5 @@
+105c105,106
+<         } catch (final IllegalCharsetNameException ex) {
+---
+>         } catch (final IllegalCharsetNameException 
+> ex) {

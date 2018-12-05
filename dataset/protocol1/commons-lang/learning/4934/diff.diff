@@ -1,0 +1,5 @@
+534c534,535
+<         final int delimLen = delimiters == null ? -1 : delimiters.length;
+---
+>         final int delimLen 
+> = delimiters == null ? -1 : delimiters.length;

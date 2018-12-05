@@ -1,0 +1,4 @@
+292c292
+<         final float last = value;
+---
+>         final 	float last = value;

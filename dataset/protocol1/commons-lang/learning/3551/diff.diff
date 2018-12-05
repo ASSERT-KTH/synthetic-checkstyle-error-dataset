@@ -1,0 +1,5 @@
+425,426c425
+<             if (comparator == null) {
+<                 @SuppressWarnings("unchecked") // assume this can be done; if not throw CCE as per Javadoc
+---
+>             if (comparator == null) {                @SuppressWarnings("unchecked") // assume this can be done; if not throw CCE as per Javadoc

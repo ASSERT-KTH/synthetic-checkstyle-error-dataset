@@ -1,0 +1,5 @@
+303c303,304
+<     private class InitializationTask implements Callable<T> {
+---
+>     
+> private class InitializationTask implements Callable<T> {

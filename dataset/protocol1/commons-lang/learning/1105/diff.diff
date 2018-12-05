@@ -1,0 +1,4 @@
+191c191
+<             new LookupTranslator(EntityArrays.BASIC_ESCAPE()),
+---
+>             new LookupTranslator(EntityArrays.BASIC_ESCAPE()	),

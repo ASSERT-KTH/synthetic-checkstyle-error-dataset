@@ -1,0 +1,5 @@
+54,55c54
+<     protected UnicodeEscaper(final int below, final int above, final boolean between) {
+<         this.below = below;
+---
+>     protected UnicodeEscaper(final int below, final int above, final boolean between) {        this.below = below;

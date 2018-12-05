@@ -1,0 +1,4 @@
+1669c1669
+<     public StrBuilder insert(final int index, final char chars[], final int offset, final int length) {
+---
+>     public StrBuilder insert(final int index, final char chars[], final int offset, final int 	length) {

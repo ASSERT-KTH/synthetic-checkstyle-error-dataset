@@ -1,0 +1,5 @@
+385c385,386
+<     public ToStringBuilder append(final float value) {
+---
+>     public ToStringBuilder 
+> append(final float value) {

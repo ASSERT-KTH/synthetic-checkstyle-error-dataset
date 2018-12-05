@@ -1,0 +1,4 @@
+19c19
+< import java.util.regex.Pattern;
+---
+> import java.util.regex.	Pattern;

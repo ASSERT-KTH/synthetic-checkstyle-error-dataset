@@ -1,0 +1,4 @@
+1206c1206
+<         this.enableSubstitutionInVariables = enableSubstitutionInVariables;
+---
+>         this	.enableSubstitutionInVariables = enableSubstitutionInVariables;

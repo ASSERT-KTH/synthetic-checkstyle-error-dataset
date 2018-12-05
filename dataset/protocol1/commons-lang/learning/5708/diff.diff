@@ -1,0 +1,5 @@
+508,509c508
+<     public static <T> T[] noNullElements(final T[] array, final String message, final Object... values) {
+<         notNull(array);
+---
+>     public static <T> T[] noNullElements(final T[] array, final String message, final Object... values) {        notNull(array);

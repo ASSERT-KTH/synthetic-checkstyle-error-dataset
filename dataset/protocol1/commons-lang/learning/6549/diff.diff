@@ -1,0 +1,4 @@
+430c430
+<         return add(date, Calendar.WEEK_OF_YEAR, amount);
+---
+>         return add(date, Calendar.WEEK_OF_YEAR, amount)	;

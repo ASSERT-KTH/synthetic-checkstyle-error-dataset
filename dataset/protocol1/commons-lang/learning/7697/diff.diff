@@ -1,0 +1,4 @@
+447c447
+<             throw new IllegalStateException("TimedSemaphore is shut down!");
+---
+>             	throw new IllegalStateException("TimedSemaphore is shut down!");

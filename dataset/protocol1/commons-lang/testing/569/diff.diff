@@ -1,0 +1,4 @@
+218c218
+<     public static String removePattern(final String text, final String regex) {
+---
+>     public static String removePattern(final String text, 	final String regex) {

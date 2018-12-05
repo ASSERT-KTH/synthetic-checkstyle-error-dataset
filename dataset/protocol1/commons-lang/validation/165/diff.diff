@@ -1,0 +1,4 @@
+581c581
+<             final T object, final ToStringStyle style, final StringBuffer buffer,
+---
+>             final T object, final 	ToStringStyle style, final StringBuffer buffer,

@@ -1,0 +1,5 @@
+61,62c61
+<     private static void init_IA64_32Bit() {
+<         final Processor processor = new Processor(Processor.Arch.BIT_32, Processor.Type.IA_64);
+---
+>     private static void init_IA64_32Bit() {        final Processor processor = new Processor(Processor.Arch.BIT_32, Processor.Type.IA_64);

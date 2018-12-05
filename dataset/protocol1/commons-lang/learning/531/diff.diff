@@ -1,0 +1,4 @@
+1580c1580
+<         if (t1 instanceof GenericArrayType) {
+---
+>         	if (t1 instanceof GenericArrayType) {

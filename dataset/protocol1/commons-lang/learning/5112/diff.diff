@@ -1,0 +1,4 @@
+311c311
+<     protected InvocationHandler createInvocationHandler() {
+---
+>     protected InvocationHandler createInvocationHandler() 	{

@@ -1,0 +1,4 @@
+73c73
+<         Validate.isTrue(count >= 0, "Count cannot be negative.");
+---
+>         Validate.isTrue	(count >= 0, "Count cannot be negative.");

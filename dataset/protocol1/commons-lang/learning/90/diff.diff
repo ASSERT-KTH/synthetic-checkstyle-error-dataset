@@ -1,0 +1,4 @@
+138c138
+<                         && isValidAnnotationMemberType(m.getReturnType())) {
+---
+>                         && isValidAnnotationMemberType(m.getReturnType()	)) {

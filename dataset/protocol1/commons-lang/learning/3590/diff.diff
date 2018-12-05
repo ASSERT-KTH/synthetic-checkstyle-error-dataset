@@ -1,0 +1,4 @@
+150c150
+<     public static int count(final String str, final String... set) {
+---
+>     public static int count(final String str	, final String... set) {

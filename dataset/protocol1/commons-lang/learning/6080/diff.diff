@@ -1,0 +1,5 @@
+204c204,205
+<                 if (chars[0] == high && chars[1] == low) {
+---
+>                 if (chars[0] == high && chars[1] 
+> == low) {

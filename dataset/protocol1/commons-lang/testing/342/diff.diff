@@ -1,0 +1,4 @@
+439c439
+<     public static void identityToString(final Appendable appendable, final Object object) throws IOException {
+---
+>     public static void identityToString(final Appendable appendable, final 	Object object) throws IOException {

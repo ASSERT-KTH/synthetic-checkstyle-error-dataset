@@ -1,0 +1,5 @@
+212c212,213
+<             } catch (final ClassCastException ex) {
+---
+>             } catch 
+> (final ClassCastException ex) {

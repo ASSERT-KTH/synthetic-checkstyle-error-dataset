@@ -1,0 +1,5 @@
+771,772c771
+<                     while (length-- > 0) {
+<                         Array.set(result, length, Array.get(obj, length));
+---
+>                     while (length-- > 0) {                        Array.set(result, length, Array.get(obj, length));

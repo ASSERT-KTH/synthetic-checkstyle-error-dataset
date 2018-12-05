@@ -1,0 +1,4 @@
+68c68
+<     private final AtomicReference<T> reference = new AtomicReference<>();
+---
+>     private final AtomicReference<T> reference = new AtomicReference<>()	;

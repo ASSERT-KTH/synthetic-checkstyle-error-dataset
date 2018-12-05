@@ -1,0 +1,4 @@
+222c222
+<         final Collection<Thread> result = findThreads(new ThreadIdPredicate(threadId));
+---
+>         final Collection<Thread> 	result = findThreads(new ThreadIdPredicate(threadId));

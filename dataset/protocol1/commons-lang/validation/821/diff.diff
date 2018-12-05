@@ -1,0 +1,4 @@
+33c33
+<     Type getType();
+---
+>     Type getType	();

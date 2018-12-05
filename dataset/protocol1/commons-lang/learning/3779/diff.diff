@@ -1,0 +1,5 @@
+114,115c114
+<     public O compute(final I arg) throws InterruptedException {
+<         while (true) {
+---
+>     public O compute(final I arg) throws InterruptedException {        while (true) {

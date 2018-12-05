@@ -1,0 +1,5 @@
+635c635,636
+<     protected List<String> tokenize(final char[] srcChars, final int offset, final int count) {
+---
+>     protected List<String> tokenize(final char[] srcChars, final 
+> int offset, final int count) {

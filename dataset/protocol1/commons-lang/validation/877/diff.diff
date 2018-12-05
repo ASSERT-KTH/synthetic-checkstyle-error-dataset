@@ -1,0 +1,5 @@
+645,646c645
+<     public int hashCode() {
+<         return mPattern.hashCode() + 13 * (mTimeZone.hashCode() + 13 * mLocale.hashCode());
+---
+>     public int hashCode() {        return mPattern.hashCode() + 13 * (mTimeZone.hashCode() + 13 * mLocale.hashCode());

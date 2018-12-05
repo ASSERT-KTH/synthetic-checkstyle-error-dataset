@@ -1,0 +1,4 @@
+366c366
+<         if (str == null || parsePatterns == null) {
+---
+>         	if (str == null || parsePatterns == null) {

@@ -1,0 +1,5 @@
+88c88,89
+<     private final Arch arch;
+---
+>     private 
+> final Arch arch;

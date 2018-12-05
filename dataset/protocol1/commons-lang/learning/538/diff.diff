@@ -1,0 +1,5 @@
+80,81c80
+<     public T get() throws ConcurrentException {
+<         T result = reference.get();
+---
+>     public T get() throws ConcurrentException {        T result = reference.get();

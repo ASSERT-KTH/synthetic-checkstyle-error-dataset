@@ -1,0 +1,4 @@
+226c226
+<     public void subtract(final double operand) {
+---
+>     	public void subtract(final double operand) {

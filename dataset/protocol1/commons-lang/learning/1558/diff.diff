@@ -1,0 +1,4 @@
+618c618
+<             final int shift = i * 16 + dstPos;
+---
+>             final int shift = i * 16 + 	dstPos;

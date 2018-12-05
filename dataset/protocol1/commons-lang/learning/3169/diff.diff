@@ -1,0 +1,5 @@
+108,109c108
+<     public MultiBackgroundInitializer() {
+<         super();
+---
+>     public MultiBackgroundInitializer() {        super();

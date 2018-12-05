@@ -1,0 +1,4 @@
+27c27
+< public class MutableDouble extends Number implements Comparable<MutableDouble>, Mutable<Number> {
+---
+> 	public class MutableDouble extends Number implements Comparable<MutableDouble>, Mutable<Number> {

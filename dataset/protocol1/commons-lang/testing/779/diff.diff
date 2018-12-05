@@ -1,0 +1,4 @@
+4890c4890
+<         return getLength(array) == 0;
+---
+>         return 	getLength(array) == 0;

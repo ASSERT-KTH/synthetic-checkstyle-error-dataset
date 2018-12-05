@@ -1,0 +1,4 @@
+861c861
+<             this.delimMatcher = StrMatcher.noneMatcher();
+---
+>             this.delimMatcher = StrMatcher.noneMatcher()	;

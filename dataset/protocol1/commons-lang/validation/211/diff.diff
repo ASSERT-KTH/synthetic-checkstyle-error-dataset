@@ -1,0 +1,5 @@
+53c53,54
+<         int _longest = 0;
+---
+>         int _longest 
+> = 0;

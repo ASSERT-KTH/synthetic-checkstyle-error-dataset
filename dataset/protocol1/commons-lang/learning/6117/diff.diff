@@ -1,0 +1,4 @@
+318c318
+<         public boolean test(final Thread thread) {
+---
+>         public boolean test	(final Thread thread) {

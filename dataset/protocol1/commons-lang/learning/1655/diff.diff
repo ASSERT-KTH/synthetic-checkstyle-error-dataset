@@ -1,0 +1,4 @@
+590c590
+<         while (parentClass != null) {
+---
+>         while (parentClass != null) 	{

@@ -1,0 +1,4 @@
+72c72
+<     public final Type getType() {
+---
+>     public final Type getType() 	{

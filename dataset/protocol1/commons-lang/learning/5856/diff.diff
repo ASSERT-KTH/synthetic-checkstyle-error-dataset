@@ -1,0 +1,4 @@
+113c113
+<     <B extends Appendable> B format(long millis, B buf);
+---
+>     <B extends Appendable> B format(	long millis, B buf);

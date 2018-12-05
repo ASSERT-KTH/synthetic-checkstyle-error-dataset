@@ -1,0 +1,4 @@
+291c291
+<         Class<?> cls = type;
+---
+>         Class<?	> cls = type;

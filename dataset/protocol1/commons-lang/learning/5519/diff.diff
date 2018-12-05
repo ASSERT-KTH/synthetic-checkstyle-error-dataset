@@ -1,0 +1,5 @@
+516c516,517
+<     public String next() {
+---
+>     public 
+> String next() {

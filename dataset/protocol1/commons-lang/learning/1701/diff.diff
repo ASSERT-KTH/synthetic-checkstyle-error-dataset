@@ -1,0 +1,5 @@
+136,137c136
+<     public ContextedException(final String message, final Throwable cause) {
+<         super(message, cause);
+---
+>     public ContextedException(final String message, final Throwable cause) {        super(message, cause);

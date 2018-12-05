@@ -1,0 +1,4 @@
+363c363
+<         return findThreads(getSystemThreadGroup(), true, predicate);
+---
+>         return findThreads(getSystemThreadGroup(), 	true, predicate);

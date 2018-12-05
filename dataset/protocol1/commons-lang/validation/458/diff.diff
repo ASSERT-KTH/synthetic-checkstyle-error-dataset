@@ -1,0 +1,5 @@
+49,50c49
+<     public LookupTranslator(final CharSequence[]... lookup) {
+<         lookupMap = new HashMap<>();
+---
+>     public LookupTranslator(final CharSequence[]... lookup) {        lookupMap = new HashMap<>();

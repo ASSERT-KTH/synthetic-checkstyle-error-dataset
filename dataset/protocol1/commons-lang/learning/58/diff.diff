@@ -1,0 +1,5 @@
+537c537,538
+<         boolean parse(final FastDateParser parser, final Calendar calendar, final String source, final ParsePosition pos, final int maxWidth) {
+---
+>         boolean parse(final FastDateParser parser, final Calendar calendar, final String source, 
+> final ParsePosition pos, final int maxWidth) {

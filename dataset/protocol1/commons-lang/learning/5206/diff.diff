@@ -1,0 +1,4 @@
+1734c1734
+<     public static <T> Typed<T> wrap(final Class<T> type) {
+---
+>     public static 	<T> Typed<T> wrap(final Class<T> type) {

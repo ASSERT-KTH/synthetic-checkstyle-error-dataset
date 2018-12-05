@@ -1,0 +1,4 @@
+106c106
+<         {"\u00E0", "&agrave;"}, // à - lowercase a, grave accent
+---
+>         	{"\u00E0", "&agrave;"}, // à - lowercase a, grave accent

@@ -1,0 +1,4 @@
+68c68
+<     public ConcurrentRuntimeException(final String msg, final Throwable cause) {
+---
+>     public ConcurrentRuntimeException(	final String msg, final Throwable cause) {

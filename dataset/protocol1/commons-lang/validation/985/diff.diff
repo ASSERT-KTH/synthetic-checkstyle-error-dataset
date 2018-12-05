@@ -1,0 +1,4 @@
+432c432
+<         return new ReflectionToStringBuilder(object).setExcludeFieldNames(excludeFieldNames).toString();
+---
+>         return 	new ReflectionToStringBuilder(object).setExcludeFieldNames(excludeFieldNames).toString();

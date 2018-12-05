@@ -1,0 +1,4 @@
+247c247
+<         final V result = map.putIfAbsent(key, value);
+---
+>         final V result = map	.putIfAbsent(key, value);

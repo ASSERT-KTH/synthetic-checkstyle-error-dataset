@@ -1,0 +1,5 @@
+159,160c159
+<         if (setStrs.length == 1) {
+<             final CharSet common = COMMON.get(setStrs[0]);
+---
+>         if (setStrs.length == 1) {            final CharSet common = COMMON.get(setStrs[0]);

@@ -1,0 +1,4 @@
+1002c1002
+<                 acls = allInterfaces.get(interfaceIndex++);
+---
+>                 acls = allInterfaces.get(interfaceIndex	++);

@@ -1,0 +1,4 @@
+462c462
+<         pos.setIndex(pos.getIndex() + 1);
+---
+>         pos.setIndex(	pos.getIndex() + 1);

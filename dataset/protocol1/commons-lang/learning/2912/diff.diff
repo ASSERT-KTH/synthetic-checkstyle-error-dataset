@@ -1,0 +1,4 @@
+141c141
+<         final IDKey left = new IDKey(lhs);
+---
+>         final IDKey left = new IDKey(lhs	);

@@ -1,0 +1,4 @@
+189c189
+<         {"\u03B1", "&alpha;"}, // greek small letter alpha, U+03B1 ISOgrk3 -->
+---
+>         {"\u03B1", "&al	pha;"}, // greek small letter alpha, U+03B1 ISOgrk3 -->

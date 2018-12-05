@@ -1,0 +1,4 @@
+202c202
+<     public void setArrayStart(final String arrayStart) { // NOPMD as this is implementing the abstract class
+---
+>     public 	void setArrayStart(final String arrayStart) { // NOPMD as this is implementing the abstract class

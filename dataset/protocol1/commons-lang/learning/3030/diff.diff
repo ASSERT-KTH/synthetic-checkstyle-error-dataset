@@ -1,0 +1,4 @@
+348c348
+<         return toByte(str, (byte) 0);
+---
+>         return toByte(	str, (byte) 0);

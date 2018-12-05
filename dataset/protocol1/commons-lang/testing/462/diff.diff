@@ -1,0 +1,4 @@
+50c50
+<                 .append(':'), minutes).toString();
+---
+>                 .append	(':'), minutes).toString();

@@ -1,0 +1,4 @@
+85c85
+<     public BitField(final int mask) {
+---
+>     public BitField(final 	int mask) {

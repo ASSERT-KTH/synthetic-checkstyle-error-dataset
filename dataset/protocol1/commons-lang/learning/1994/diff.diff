@@ -1,0 +1,5 @@
+905c905,906
+<         final List<Class<?>> classes = (searchSupers ? getAllSuperclassesAndInterfaces(cls)
+---
+>         final List<Class<?>> classes = (searchSupers ? 
+> getAllSuperclassesAndInterfaces(cls)

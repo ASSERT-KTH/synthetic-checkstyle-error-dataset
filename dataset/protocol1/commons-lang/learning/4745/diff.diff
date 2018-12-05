@@ -1,0 +1,4 @@
+1664c1664
+<                 if (!allowSigns) {
+---
+>                 if (!allowSigns	) {

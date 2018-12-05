@@ -1,0 +1,4 @@
+326c326
+<             Integer.valueOf(constants.length), enumClass.getSimpleName(), Integer.valueOf(Long.SIZE));
+---
+>             Integer.valueOf(constants	.length), enumClass.getSimpleName(), Integer.valueOf(Long.SIZE));

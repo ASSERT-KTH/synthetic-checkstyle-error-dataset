@@ -1,0 +1,4 @@
+660c660
+<         return "FastDateFormat[" + printer.getPattern() + "," + printer.getLocale() + "," + printer.getTimeZone().getID() + "]";
+---
+>         return "FastDateFormat[" + printer.getPattern() + "," + printer.getLocale() + "," 	+ printer.getTimeZone().getID() + "]";

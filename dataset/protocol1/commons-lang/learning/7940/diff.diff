@@ -1,0 +1,4 @@
+117c117
+<     public void setValue(final Boolean value) {
+---
+>     public void setValue(final Boolean value) 	{

@@ -1,0 +1,5 @@
+749c749,750
+<                     } catch (final NumberFormatException nfe) { // NOPMD
+---
+>                     } catch (final NumberFormatException 
+> nfe) { // NOPMD

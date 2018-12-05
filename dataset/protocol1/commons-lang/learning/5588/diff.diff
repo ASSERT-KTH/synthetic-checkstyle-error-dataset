@@ -1,0 +1,4 @@
+87c87
+<     StringBuffer format(Date date, StringBuffer buf);
+---
+>     StringBuffer format(Date date, StringBuffer buf	);

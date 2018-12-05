@@ -1,0 +1,4 @@
+174c174
+<     public static String getShortClassName(final Object object, final String valueIfNull) {
+---
+>     public static String getShortClassName(final 	Object object, final String valueIfNull) {

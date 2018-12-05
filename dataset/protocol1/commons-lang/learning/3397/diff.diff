@@ -1,0 +1,4 @@
+916c916
+<                     toProperString = getProperWhole() + " " + properNumerator + "/" + getDenominator();
+---
+>                     toProperString 	= getProperWhole() + " " + properNumerator + "/" + getDenominator();

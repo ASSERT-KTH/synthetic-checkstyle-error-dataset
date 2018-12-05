@@ -1,0 +1,5 @@
+388c388,389
+<         System.arraycopy(buffer, startIndex, chars, 0, len);
+---
+>         System.arraycopy(buffer, startIndex, chars, 0, 
+> len);

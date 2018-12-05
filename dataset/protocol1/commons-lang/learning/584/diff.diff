@@ -1,0 +1,5 @@
+118c118,119
+<     public void increment() {
+---
+>     public 
+> void increment() {

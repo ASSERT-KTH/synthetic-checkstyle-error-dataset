@@ -1,0 +1,4 @@
+89c89
+<     protected TypeLiteral() {
+---
+>     protected TypeLiteral(	) {

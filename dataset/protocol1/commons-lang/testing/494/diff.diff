@@ -1,0 +1,5 @@
+208,209c208
+<                 if (tmp.length() != duration.length()) {
+<                     duration = tmp;
+---
+>                 if (tmp.length() != duration.length()) {                    duration = tmp;

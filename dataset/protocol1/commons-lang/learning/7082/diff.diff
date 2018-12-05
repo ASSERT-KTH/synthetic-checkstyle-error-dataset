@@ -1,0 +1,4 @@
+482c482
+<     private abstract static class StateStrategy {
+---
+>     private 	abstract static class StateStrategy {

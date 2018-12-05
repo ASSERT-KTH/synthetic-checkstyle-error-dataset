@@ -1,0 +1,4 @@
+135c135
+<         if (Float.isNaN(b)) {
+---
+>         if (	Float.isNaN(b)) {

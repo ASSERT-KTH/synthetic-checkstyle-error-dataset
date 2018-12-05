@@ -1,0 +1,4 @@
+835c835
+<                                         if ((valueDelimiterMatchLen = valueDelimMatcher.isMatch(varNameExprChars, i)) != 0) {
+---
+>                                         if ((valueDelimiterMatchLen = valueDelimMatcher.isMatch(varNameExprChars, i	)) != 0) {

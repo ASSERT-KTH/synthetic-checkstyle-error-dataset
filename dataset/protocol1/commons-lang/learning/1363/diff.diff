@@ -1,0 +1,4 @@
+189c189
+<     public static Collection<Thread> getAllThreads() {
+---
+>     public static Collection<Thread> getAllThreads(	) {

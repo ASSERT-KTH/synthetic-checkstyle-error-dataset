@@ -1,0 +1,4 @@
+137c137
+<         long minutes      = 0;
+---
+>         long minutes      = 	0;

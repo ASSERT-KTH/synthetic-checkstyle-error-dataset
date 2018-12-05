@@ -1,0 +1,4 @@
+379c379
+<     public Range<T> intersectionWith(final Range<T> other) {
+---
+>     public Range<	T> intersectionWith(final Range<T> other) {

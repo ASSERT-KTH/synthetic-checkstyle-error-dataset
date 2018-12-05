@@ -1,0 +1,4 @@
+452c452
+<         } while (len > 0 && pos.getIndex() < pattern.length());
+---
+>         } while (len > 0 && pos.getIndex() < pattern	.length());

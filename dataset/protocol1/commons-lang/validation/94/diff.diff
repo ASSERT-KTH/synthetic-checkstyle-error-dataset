@@ -1,0 +1,5 @@
+668,669c668
+<     public String[] getExcludeFieldNames() {
+<         return this.excludeFieldNames.clone();
+---
+>     public String[] getExcludeFieldNames() {        return this.excludeFieldNames.clone();

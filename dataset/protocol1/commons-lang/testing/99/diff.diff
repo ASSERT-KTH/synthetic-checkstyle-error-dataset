@@ -1,0 +1,4 @@
+5891c5891
+<     public static float[] add(final float[] array, final int index, final float element) {
+---
+>     public static float[] add(final float[] array, final int index, final float element	) {

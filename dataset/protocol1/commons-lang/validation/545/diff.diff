@@ -1,0 +1,4 @@
+1450c1450
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final boolean[] array) {
+---
+>     protected void appendDetail(final StringBuffer buffer, final String fieldName, final boolean[] array	) {

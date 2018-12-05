@@ -1,0 +1,5 @@
+566c566,567
+<         method = getAccessibleMethodFromInterfaceNest(cls, methodName,
+---
+>         method = 
+> getAccessibleMethodFromInterfaceNest(cls, methodName,

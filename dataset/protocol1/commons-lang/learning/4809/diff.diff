@@ -1,0 +1,4 @@
+357c357
+<             HEX_DIGITS[(ch >> 4) & 15] +
+---
+>             	HEX_DIGITS[(ch >> 4) & 15] +

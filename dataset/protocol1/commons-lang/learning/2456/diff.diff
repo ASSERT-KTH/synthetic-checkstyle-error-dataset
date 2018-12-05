@@ -1,0 +1,5 @@
+7880c7880,7881
+<             return abbrevMarker + abbreviate(str.substring(offset), abbrevMarker, maxWidth - abbrevMarkerLength);
+---
+>             return abbrevMarker + 
+> abbreviate(str.substring(offset), abbrevMarker, maxWidth - abbrevMarkerLength);

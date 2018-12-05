@@ -1,0 +1,5 @@
+595c595,596
+<     public static String[] getStackFrames(final Throwable throwable) {
+---
+>     public 
+> static String[] getStackFrames(final Throwable throwable) {

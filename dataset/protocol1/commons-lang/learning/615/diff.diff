@@ -1,0 +1,4 @@
+58c58
+<     private static final StrMatcher TRIM_MATCHER = new TrimMatcher();
+---
+>     private static final StrMatcher TRIM_MATCHER = new TrimMatcher(	);

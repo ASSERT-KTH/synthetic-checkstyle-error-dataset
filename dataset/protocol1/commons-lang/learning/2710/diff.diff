@@ -1,0 +1,4 @@
+456c456
+<     public static final String escapeJava(final String input) {
+---
+>     public static final String escapeJava(	final String input) {

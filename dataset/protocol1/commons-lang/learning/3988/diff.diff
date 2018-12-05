@@ -1,0 +1,4 @@
+377c377
+<     public int compareTo(final MutableByte other) {
+---
+>     public int 	compareTo(final MutableByte other) {

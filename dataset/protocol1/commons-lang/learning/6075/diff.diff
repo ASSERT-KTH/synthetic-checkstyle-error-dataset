@@ -1,0 +1,5 @@
+416c416,417
+<             final char ch = buffer[i];
+---
+>             final char 
+> ch = buffer[i];

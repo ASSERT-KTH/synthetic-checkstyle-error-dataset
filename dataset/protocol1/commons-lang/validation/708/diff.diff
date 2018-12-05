@@ -1,0 +1,5 @@
+180c180,181
+<         } else if ("1.6".equals(nom)) {
+---
+>         } else if 
+> ("1.6".equals(nom)) {

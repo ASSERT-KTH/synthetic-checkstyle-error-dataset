@@ -1,0 +1,5 @@
+117c117,118
+<     public R setValue(final R value) {
+---
+>     public R setValue(final R 
+> value) {

@@ -1,0 +1,4 @@
+59c59
+<                 if (sz < _shortest) {
+---
+>                 	if (sz < _shortest) {

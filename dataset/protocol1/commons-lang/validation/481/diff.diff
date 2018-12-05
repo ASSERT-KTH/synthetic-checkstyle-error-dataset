@@ -1,0 +1,4 @@
+58c58
+<                 final int sz = seq[0].length();
+---
+>                 final 	int sz = seq[0].length();

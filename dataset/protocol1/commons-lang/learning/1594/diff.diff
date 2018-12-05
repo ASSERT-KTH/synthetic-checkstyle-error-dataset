@@ -1,0 +1,4 @@
+118c118
+<     public static float min(final float a, final float b, final float c) {
+---
+>     public static float min(final float a, final float b, final 	float c) {

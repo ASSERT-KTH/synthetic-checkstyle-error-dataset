@@ -1,0 +1,5 @@
+288,289c288
+<     public byte byteValue() {
+<         return value;
+---
+>     public byte byteValue() {        return value;

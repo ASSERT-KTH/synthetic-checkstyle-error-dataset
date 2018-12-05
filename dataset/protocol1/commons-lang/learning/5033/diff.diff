@@ -1,0 +1,5 @@
+535,536c535
+<     private static void getAllInterfaces(Class<?> cls, final HashSet<Class<?>> interfacesFound) {
+<         while (cls != null) {
+---
+>     private static void getAllInterfaces(Class<?> cls, final HashSet<Class<?>> interfacesFound) {        while (cls != null) {

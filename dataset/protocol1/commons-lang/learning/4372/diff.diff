@@ -1,0 +1,4 @@
+101c101
+<     StringBuffer format(Calendar calendar, StringBuffer buf);
+---
+>     StringBuffer format(Calendar calendar, 	StringBuffer buf);

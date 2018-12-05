@@ -1,0 +1,4 @@
+1432c1432
+<             appendDetail(buffer, fieldName, array);
+---
+>             appendDetail	(buffer, fieldName, array);

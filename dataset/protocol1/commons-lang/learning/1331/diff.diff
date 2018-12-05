@@ -1,0 +1,4 @@
+65c65
+<         {"\u00B7", "&middot;"}, // middle dot = Georgian comma = Greek middle dot
+---
+>         {	"\u00B7", "&middot;"}, // middle dot = Georgian comma = Greek middle dot

@@ -1,0 +1,4 @@
+339c339
+<     public String getFieldSeparator() { // NOPMD as this is implementing the abstract class
+---
+>     public String getFieldSeparator() 	{ // NOPMD as this is implementing the abstract class

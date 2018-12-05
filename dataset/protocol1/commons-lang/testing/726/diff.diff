@@ -1,0 +1,4 @@
+1061c1061
+<     public static long CONST(final long v) {
+---
+>     public static long CONST(final 	long v) {

@@ -1,0 +1,4 @@
+41c41
+<             throw new IllegalArgumentException(hours + " hours out of range");
+---
+>             throw 	new IllegalArgumentException(hours + " hours out of range");

@@ -1,0 +1,5 @@
+575c575,576
+<     public static String getStackTrace(final Throwable throwable) {
+---
+>     public static String getStackTrace(final Throwable 
+> throwable) {

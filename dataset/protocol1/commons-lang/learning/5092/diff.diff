@@ -1,0 +1,5 @@
+476c476,477
+<         return super.getSizeEndText();
+---
+>         
+> return super.getSizeEndText();

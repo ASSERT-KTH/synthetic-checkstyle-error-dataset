@@ -1,0 +1,4 @@
+373c373
+<         return method.invoke(null, args);
+---
+>         return method.	invoke(null, args);

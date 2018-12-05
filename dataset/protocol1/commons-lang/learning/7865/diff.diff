@@ -1,0 +1,4 @@
+373c373
+<     public static boolean reflectionEquals(final Object lhs, final Object rhs, final boolean testTransients) {
+---
+>     public static boolean reflectionEquals(	final Object lhs, final Object rhs, final boolean testTransients) {

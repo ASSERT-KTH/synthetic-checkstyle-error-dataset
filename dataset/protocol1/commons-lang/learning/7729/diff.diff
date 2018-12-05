@@ -1,0 +1,4 @@
+294c294
+<             Matcher matcher = patternToWrapOn.matcher(
+---
+>             Matcher 	matcher = patternToWrapOn.matcher(

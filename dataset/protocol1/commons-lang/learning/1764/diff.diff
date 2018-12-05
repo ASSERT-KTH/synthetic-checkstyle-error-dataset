@@ -1,0 +1,5 @@
+973c973,974
+<         if (array == null) {
+---
+>         if (array 
+> == null) {

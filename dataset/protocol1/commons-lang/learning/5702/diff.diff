@@ -1,0 +1,4 @@
+192c192
+<         return start <= range.start && end >= range.end;
+---
+>         return start <= range.start && end >= range	.end;

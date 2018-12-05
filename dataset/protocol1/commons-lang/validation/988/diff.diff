@@ -1,0 +1,5 @@
+181,182c181
+<             return JAVA_1_6;
+<         } else if ("1.7".equals(nom)) {
+---
+>             return JAVA_1_6;        } else if ("1.7".equals(nom)) {

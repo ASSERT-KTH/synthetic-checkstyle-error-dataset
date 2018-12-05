@@ -1,0 +1,5 @@
+315c315,316
+<     public ToStringBuilder append(final byte[] array) {
+---
+>     public ToStringBuilder 
+> append(final byte[] array) {

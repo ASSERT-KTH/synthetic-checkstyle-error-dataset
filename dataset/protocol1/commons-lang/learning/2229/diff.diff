@@ -1,0 +1,5 @@
+158,159c158
+<                 if (legacyCause != null) {
+<                     return legacyCause;
+---
+>                 if (legacyCause != null) {                    return legacyCause;

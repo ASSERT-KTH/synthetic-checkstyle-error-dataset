@@ -1,0 +1,4 @@
+160c160
+<             final CharSet common = COMMON.get(setStrs[0]);
+---
+>             final CharSet common = 	COMMON.get(setStrs[0]);

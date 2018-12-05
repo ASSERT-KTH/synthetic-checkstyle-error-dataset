@@ -1,0 +1,5 @@
+279c279,280
+<             return putIfAbsent(map, key, init.get());
+---
+>             
+> return putIfAbsent(map, key, init.get());

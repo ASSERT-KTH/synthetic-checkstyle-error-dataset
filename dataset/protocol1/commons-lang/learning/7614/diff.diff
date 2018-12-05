@@ -1,0 +1,5 @@
+563,564c563
+<     public static List<Class<?>> convertClassNamesToClasses(final List<String> classNames) {
+<         if (classNames == null) {
+---
+>     public static List<Class<?>> convertClassNamesToClasses(final List<String> classNames) {        if (classNames == null) {

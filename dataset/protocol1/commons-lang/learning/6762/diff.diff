@@ -1,0 +1,4 @@
+79c79
+<                 if (inChars != null && ch == inChars) {
+---
+>                 if (	inChars != null && ch == inChars) {

@@ -1,0 +1,5 @@
+64c64,65
+<     public MutableByte(final Number value) {
+---
+>     
+> public MutableByte(final Number value) {

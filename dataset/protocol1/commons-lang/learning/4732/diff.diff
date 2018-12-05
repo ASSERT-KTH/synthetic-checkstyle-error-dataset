@@ -1,0 +1,4 @@
+293c293
+<       private static Executable of(final Constructor<?> constructor) {
+---
+>       private static Executable of(final Constructor<?	> constructor) {

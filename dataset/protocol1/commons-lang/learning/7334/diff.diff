@@ -1,0 +1,5 @@
+107c107,108
+<         return getEnumIgnoreCase(enumClass, enumName) != null;
+---
+>         return getEnumIgnoreCase(enumClass, 
+> enumName) != null;

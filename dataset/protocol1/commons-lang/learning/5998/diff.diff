@@ -1,0 +1,4 @@
+119c119
+<     public static FastDateFormat getInstance() {
+---
+>     public static 	FastDateFormat getInstance() {

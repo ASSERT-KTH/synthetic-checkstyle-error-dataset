@@ -1,0 +1,4 @@
+242c242
+<                 final Map<String, BackgroundInitializer<?>> inits,
+---
+>                 final 	Map<String, BackgroundInitializer<?>> inits,

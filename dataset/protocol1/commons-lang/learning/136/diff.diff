@@ -1,0 +1,4 @@
+822c822
+<     public static final String USER_LANGUAGE = getSystemProperty("user.language");
+---
+>     public static final String USER_LANGUAGE 	= getSystemProperty("user.language");

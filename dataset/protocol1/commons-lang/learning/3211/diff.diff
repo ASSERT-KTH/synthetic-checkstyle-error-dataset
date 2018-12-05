@@ -1,0 +1,4 @@
+42c42
+< public interface Diffable<T> {
+---
+> public interface 	Diffable<T> {

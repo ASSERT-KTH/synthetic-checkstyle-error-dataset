@@ -1,0 +1,4 @@
+51c51
+<     public static <L, R> MutablePair<L, R> of(final L left, final R right) {
+---
+>     public static <L	, R> MutablePair<L, R> of(final L left, final R right) {

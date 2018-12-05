@@ -1,0 +1,5 @@
+209,210c209
+<         if (StringUtils.isEmpty(str)) {
+<             return NONE_MATCHER;
+---
+>         if (StringUtils.isEmpty(str)) {            return NONE_MATCHER;

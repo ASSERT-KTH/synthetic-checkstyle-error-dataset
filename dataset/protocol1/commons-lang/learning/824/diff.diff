@@ -1,0 +1,5 @@
+47c47,48
+<     public static final CharSet EMPTY = new CharSet((String) null);
+---
+>     public static final CharSet EMPTY = new CharSet((String) 
+> null);

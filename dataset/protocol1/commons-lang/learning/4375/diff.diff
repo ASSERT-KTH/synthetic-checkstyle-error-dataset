@@ -1,0 +1,4 @@
+113c113
+<         final char[] surrogatePair = Character.toChars(codepoint);
+---
+>         final char[] surrogatePair = Character	.toChars(codepoint);

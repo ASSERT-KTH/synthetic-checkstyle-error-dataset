@@ -1,0 +1,4 @@
+323c323
+<         if (a1.length != a2.length) {
+---
+>         if (a1.length != a2.length) 	{

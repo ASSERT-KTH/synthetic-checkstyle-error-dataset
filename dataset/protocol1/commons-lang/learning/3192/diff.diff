@@ -1,0 +1,5 @@
+154,155c154
+<     public static char toChar(final Character ch, final char defaultValue) {
+<         if (ch == null) {
+---
+>     public static char toChar(final Character ch, final char defaultValue) {        if (ch == null) {

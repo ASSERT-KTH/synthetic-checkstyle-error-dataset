@@ -1,0 +1,5 @@
+53,54c53
+<     public int translate(final CharSequence input, final int index, final Writer out) throws IOException {
+<         for (final CharSequenceTranslator translator : translators) {
+---
+>     public int translate(final CharSequence input, final int index, final Writer out) throws IOException {        for (final CharSequenceTranslator translator : translators) {

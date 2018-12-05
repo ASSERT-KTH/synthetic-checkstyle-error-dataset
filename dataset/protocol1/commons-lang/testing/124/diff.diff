@@ -1,0 +1,4 @@
+763c763
+<     public static <T> T clone(final T obj) {
+---
+>     public static <T> T clone(final T obj) 	{

@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "463", "column": "138", "message": "'{' at column 138 should have line break after.", "type": "LeftCurly"}

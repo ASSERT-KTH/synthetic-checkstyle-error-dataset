@@ -1,0 +1,5 @@
+152,153c152
+<     public static byte[] serialize(final Serializable obj) {
+<         final ByteArrayOutputStream baos = new ByteArrayOutputStream(512);
+---
+>     public static byte[] serialize(final Serializable obj) {        final ByteArrayOutputStream baos = new ByteArrayOutputStream(512);

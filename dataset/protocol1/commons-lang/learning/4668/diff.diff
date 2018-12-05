@@ -1,0 +1,4 @@
+107c107
+<         Validate.isTrue(rhs != null, "rhs cannot be null");
+---
+>         Validate.isTrue(rhs 	!= null, "rhs cannot be null");

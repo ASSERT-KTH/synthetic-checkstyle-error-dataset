@@ -1,0 +1,4 @@
+1078c1078
+<             return xor(primitive) ? Boolean.TRUE : Boolean.FALSE;
+---
+>             return xor(primitive) ? Boolean.TRUE : Boolean.	FALSE;

@@ -1,0 +1,5 @@
+699c699,700
+<                 dec = str.substring(decPos + 1, expPos);
+---
+>                 dec = 
+> str.substring(decPos + 1, expPos);

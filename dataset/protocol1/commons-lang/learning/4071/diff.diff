@@ -1,0 +1,4 @@
+1090c1090
+<     Object cloneReset() throws CloneNotSupportedException {
+---
+>     Object cloneReset	() throws CloneNotSupportedException {

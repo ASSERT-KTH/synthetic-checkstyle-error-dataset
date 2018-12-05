@@ -1,0 +1,4 @@
+129c129
+<             (getMiddle() == null ? 0 : getMiddle().hashCode()) ^
+---
+>             (getMiddle(	) == null ? 0 : getMiddle().hashCode()) ^

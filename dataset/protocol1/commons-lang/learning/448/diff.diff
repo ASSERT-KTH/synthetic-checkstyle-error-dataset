@@ -1,0 +1,4 @@
+538c538
+<         return super.getSummaryObjectEndText();
+---
+>         	return super.getSummaryObjectEndText();

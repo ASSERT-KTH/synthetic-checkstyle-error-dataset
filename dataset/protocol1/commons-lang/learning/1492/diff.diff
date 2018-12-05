@@ -1,0 +1,4 @@
+543c543
+<     public static void removeCommonFrames(final List<String> causeFrames, final List<String> wrapperFrames) {
+---
+>     public static void removeCommonFrames(final List<String> 	causeFrames, final List<String> wrapperFrames) {

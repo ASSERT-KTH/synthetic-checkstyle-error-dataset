@@ -1,0 +1,5 @@
+45c45,46
+<         {"\u00A3", "&pound;"}, // pound sign
+---
+>         
+> {"\u00A3", "&pound;"}, // pound sign

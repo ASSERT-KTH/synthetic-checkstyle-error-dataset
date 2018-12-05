@@ -1,0 +1,5 @@
+141,142c141
+<     public EventListenerSupport(final Class<L> listenerInterface, final ClassLoader classLoader) {
+<         this();
+---
+>     public EventListenerSupport(final Class<L> listenerInterface, final ClassLoader classLoader) {        this();

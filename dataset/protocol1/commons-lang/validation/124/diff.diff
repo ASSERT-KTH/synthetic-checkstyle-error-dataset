@@ -1,0 +1,4 @@
+2447c2447
+<             super.append(buffer, fieldName, array, fullDetail);
+---
+>             super.	append(buffer, fieldName, array, fullDetail);

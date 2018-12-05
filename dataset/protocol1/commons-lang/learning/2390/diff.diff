@@ -1,0 +1,5 @@
+252,253c252
+<     public static List<Field> getFieldsListWithAnnotation(final Class<?> cls, final Class<? extends Annotation> annotationCls) {
+<         Validate.isTrue(annotationCls != null, "The annotation class must not be null");
+---
+>     public static List<Field> getFieldsListWithAnnotation(final Class<?> cls, final Class<? extends Annotation> annotationCls) {        Validate.isTrue(annotationCls != null, "The annotation class must not be null");

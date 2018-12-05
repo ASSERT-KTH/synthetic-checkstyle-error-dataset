@@ -1,0 +1,4 @@
+155c155
+<     public void setDefaultFullDetail(final boolean defaultFullDetail) { // NOPMD as this is implementing the abstract class
+---
+>     public void setDefaultFullDetail(final boolean defaultFullDetail) 	{ // NOPMD as this is implementing the abstract class

@@ -1,0 +1,5 @@
+238c238,239
+<         return format(new Date(millis), pattern, UTC_TIME_ZONE, locale);
+---
+>         return format(new Date(millis), pattern, 
+> UTC_TIME_ZONE, locale);

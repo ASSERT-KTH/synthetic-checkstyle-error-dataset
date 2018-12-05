@@ -1,0 +1,5 @@
+291,292c291
+<             return -1;
+<         } else if (isBefore(element)) {
+---
+>             return -1;        } else if (isBefore(element)) {

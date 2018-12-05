@@ -1,0 +1,4 @@
+266c266
+<     private static class CharacterIterator implements Iterator<Character> {
+---
+>     private static class CharacterIterator implements 	Iterator<Character> {

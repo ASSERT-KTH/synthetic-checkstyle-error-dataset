@@ -1,0 +1,5 @@
+411,412c411
+<         }
+<         final String name = object.getClass().getName();
+---
+>         }        final String name = object.getClass().getName();

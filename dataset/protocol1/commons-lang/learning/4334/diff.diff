@@ -1,0 +1,5 @@
+701c701,702
+<         if (start >= len) {
+---
+>         if 
+> (start >= len) {

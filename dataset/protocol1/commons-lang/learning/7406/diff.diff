@@ -1,0 +1,4 @@
+780c780
+<                 public Short[] getRight() {
+---
+>                 public Short[] 	getRight() {

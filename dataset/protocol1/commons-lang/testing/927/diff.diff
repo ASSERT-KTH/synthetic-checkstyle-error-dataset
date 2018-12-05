@@ -1,0 +1,5 @@
+1600c1600,1601
+<     public StrBuilder insert(final int index, final Object obj) {
+---
+>     public StrBuilder insert(final 
+> int index, final Object obj) {

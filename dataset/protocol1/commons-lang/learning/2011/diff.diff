@@ -1,0 +1,4 @@
+339c339
+<                         offset = inputLineLength;
+---
+>                         offset = inputLineLength	;

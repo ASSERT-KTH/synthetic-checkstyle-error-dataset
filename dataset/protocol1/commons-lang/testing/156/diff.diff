@@ -1,0 +1,5 @@
+129,130c129
+<         if (baseMessage != null) {
+<             buffer.append(baseMessage);
+---
+>         if (baseMessage != null) {            buffer.append(baseMessage);

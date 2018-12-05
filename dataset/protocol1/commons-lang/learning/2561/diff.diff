@@ -1,0 +1,5 @@
+732c732,733
+<     private Fraction addSub(final Fraction fraction, final boolean isAdd) {
+---
+>     private Fraction addSub(final 
+> Fraction fraction, final boolean isAdd) {

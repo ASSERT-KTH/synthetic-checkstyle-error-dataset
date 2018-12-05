@@ -1,0 +1,5 @@
+875c875,876
+<     public static void matchesPattern(final CharSequence input, final String pattern, final String message, final Object... values) {
+---
+>     public static void matchesPattern(final CharSequence input, final String pattern, final 
+> String message, final Object... values) {

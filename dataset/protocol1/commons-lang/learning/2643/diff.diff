@@ -1,0 +1,5 @@
+608c608,609
+<         if (array == null) {
+---
+>         if (array == 
+> null) {

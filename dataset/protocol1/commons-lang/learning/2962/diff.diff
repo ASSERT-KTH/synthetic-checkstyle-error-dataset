@@ -1,0 +1,4 @@
+77c77
+<                 reference.set(initialize());
+---
+>                 reference	.set(initialize());

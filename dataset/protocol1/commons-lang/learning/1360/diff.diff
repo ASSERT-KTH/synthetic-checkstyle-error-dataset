@@ -1,0 +1,5 @@
+1522,1523c1522
+<         final Map<TypeVariable<?>, Type> typeArgMappings) {
+<         Validate.notNull(raw, "raw class is null");
+---
+>         final Map<TypeVariable<?>, Type> typeArgMappings) {        Validate.notNull(raw, "raw class is null");

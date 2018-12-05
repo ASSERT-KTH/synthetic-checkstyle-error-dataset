@@ -1,0 +1,5 @@
+121,122c121
+<     public static boolean equals(final Annotation a1, final Annotation a2) {
+<         if (a1 == a2) {
+---
+>     public static boolean equals(final Annotation a1, final Annotation a2) {        if (a1 == a2) {

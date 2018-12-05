@@ -1,0 +1,5 @@
+633,634c633
+<     static List<String> getStackFrameList(final Throwable t) {
+<         final String stackTrace = getStackTrace(t);
+---
+>     static List<String> getStackFrameList(final Throwable t) {        final String stackTrace = getStackTrace(t);

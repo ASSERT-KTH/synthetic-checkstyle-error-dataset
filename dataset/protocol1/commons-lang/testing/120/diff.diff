@@ -1,0 +1,4 @@
+43c43
+<         if (minutes >= MINUTES_PER_HOUR) {
+---
+>         if (minutes >= MINUTES_PER_HOUR	) {

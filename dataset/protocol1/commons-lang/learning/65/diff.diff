@@ -1,0 +1,4 @@
+253c253
+<         return cal1.get(Calendar.MILLISECOND) == cal2.get(Calendar.MILLISECOND) &&
+---
+>         return 	cal1.get(Calendar.MILLISECOND) == cal2.get(Calendar.MILLISECOND) &&

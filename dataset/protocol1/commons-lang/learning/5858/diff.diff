@@ -1,0 +1,5 @@
+106,107c106
+<     public boolean translate(final int codepoint, final Writer out) throws IOException {
+<         if (between) {
+---
+>     public boolean translate(final int codepoint, final Writer out) throws IOException {        if (between) {

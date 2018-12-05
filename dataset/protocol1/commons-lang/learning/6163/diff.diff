@@ -1,0 +1,4 @@
+1094c1094
+<     public static int compare(final boolean x, final boolean y) {
+---
+>     	public static int compare(final boolean x, final boolean y) {

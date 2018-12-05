@@ -1,0 +1,4 @@
+67c67
+<     public static JavaUnicodeEscaper between(final int codepointLow, final int codepointHigh) {
+---
+>     public static JavaUnicodeEscaper between(final int codepointLow, final int codepointHigh	) {

@@ -1,0 +1,4 @@
+72c72
+<         Validate.notNull(pattern, "pattern must not be null");
+---
+>         	Validate.notNull(pattern, "pattern must not be null");

@@ -1,0 +1,4 @@
+552c552
+<             final Class<? super T> reflectUpToClass, final boolean outputTransients, final boolean outputStatics) {
+---
+>             final Class<? super T	> reflectUpToClass, final boolean outputTransients, final boolean outputStatics) {

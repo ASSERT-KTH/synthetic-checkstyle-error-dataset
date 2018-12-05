@@ -1,0 +1,4 @@
+249c249
+<             primitiveTypes.put("double", double.class);
+---
+>             primitiveTypes.put(	"double", double.class);

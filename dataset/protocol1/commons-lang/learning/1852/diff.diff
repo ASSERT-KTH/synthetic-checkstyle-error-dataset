@@ -1,0 +1,5 @@
+190c190,191
+<     public ContextedException setContextValue(final String label, final Object value) {
+---
+>     
+> public ContextedException setContextValue(final String label, final Object value) {

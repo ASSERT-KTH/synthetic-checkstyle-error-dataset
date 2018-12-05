@@ -1,0 +1,5 @@
+122,123c122
+<     private void checkCallable(final Callable<T> call) {
+<         Validate.isTrue(call != null, "Callable must not be null!");
+---
+>     private void checkCallable(final Callable<T> call) {        Validate.isTrue(call != null, "Callable must not be null!");

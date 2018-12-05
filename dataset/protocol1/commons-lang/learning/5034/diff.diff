@@ -1,0 +1,4 @@
+1042c1042
+<     public static final boolean IS_OS_400 = getOsMatchesName("OS/400");
+---
+>     public static final boolean IS_OS_400 = getOsMatchesName("OS/400"	);

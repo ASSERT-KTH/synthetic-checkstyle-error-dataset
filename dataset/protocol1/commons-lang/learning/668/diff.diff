@@ -1,0 +1,5 @@
+125c125,126
+<         Validate.notNull(context, "Parameter '%s' must not be null!", "context" );
+---
+>         Validate.notNull(context, 
+> "Parameter '%s' must not be null!", "context" );

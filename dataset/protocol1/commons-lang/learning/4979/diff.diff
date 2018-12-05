@@ -1,0 +1,5 @@
+287c287,288
+<     public static String random(final int count, final int start, final int end, final boolean letters, final boolean numbers) {
+---
+>     public static String random(final int count, final 
+> int start, final int end, final boolean letters, final boolean numbers) {

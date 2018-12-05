@@ -1,0 +1,4 @@
+170c170
+<         return (ch >= start && ch <= end) != negated;
+---
+>         return (ch >= 	start && ch <= end) != negated;

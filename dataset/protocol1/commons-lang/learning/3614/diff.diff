@@ -1,0 +1,4 @@
+119c119
+<             out.write(toUtf16Escape(codepoint));
+---
+>             out.write(toUtf16Escape(codepoint))	;

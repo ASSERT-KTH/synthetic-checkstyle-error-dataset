@@ -1,0 +1,4 @@
+368c368
+<             final boolean outputStatics, final boolean excludeNullValues, final Class<? super T> reflectUpToClass) {
+---
+>             final boolean outputStatics, final boolean excludeNullValues, final Class<? 	super T> reflectUpToClass) {

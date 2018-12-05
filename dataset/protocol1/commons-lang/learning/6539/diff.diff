@@ -1,0 +1,4 @@
+206c206
+<         return findThreads(new NamePredicate(threadName));
+---
+>         return findThreads(	new NamePredicate(threadName));

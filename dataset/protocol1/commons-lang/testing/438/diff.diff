@@ -1,0 +1,5 @@
+819c819,820
+<             throw new StringIndexOutOfBoundsException("startIndex must be valid");
+---
+>             throw new 
+> StringIndexOutOfBoundsException("startIndex must be valid");

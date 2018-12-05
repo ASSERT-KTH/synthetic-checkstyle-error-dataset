@@ -1,0 +1,5 @@
+2334c2334,2335
+<         for (int i = 0; i < len; i++, offset1++, offset2++) {
+---
+>         for (int i = 
+> 0; i < len; i++, offset1++, offset2++) {

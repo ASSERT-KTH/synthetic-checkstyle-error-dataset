@@ -1,0 +1,4 @@
+620c620
+<                 public Integer[] getRight() {
+---
+>                 public Integer[	] getRight() {

@@ -1,0 +1,4 @@
+281c281
+<         if (wrapLength < 1) {
+---
+>         if (wrapLength < 1) 	{

@@ -1,0 +1,4 @@
+1124c1124
+<             throw new IllegalArgumentException("(nShorts-1)*16+srcPos is greater or equal to than 32");
+---
+>             throw new 	IllegalArgumentException("(nShorts-1)*16+srcPos is greater or equal to than 32");

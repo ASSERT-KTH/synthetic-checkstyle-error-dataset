@@ -1,0 +1,5 @@
+221c221,222
+<     public static Thread findThreadById(final long threadId) {
+---
+>     
+> public static Thread findThreadById(final long threadId) {

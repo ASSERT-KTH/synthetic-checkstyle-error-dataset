@@ -1,0 +1,5 @@
+465c465,466
+<         final Class<?> cls = target.getClass();
+---
+>         final 
+> Class<?> cls = target.getClass();

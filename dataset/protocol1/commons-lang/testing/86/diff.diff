@@ -1,0 +1,4 @@
+219c219
+<         return replacePattern(text, regex, StringUtils.EMPTY);
+---
+>         return 	replacePattern(text, regex, StringUtils.EMPTY);

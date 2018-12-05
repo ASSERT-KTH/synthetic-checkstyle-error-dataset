@@ -1,0 +1,5 @@
+175,176c175
+<         if (bool == null) {
+<             return valueIfNull;
+---
+>         if (bool == null) {            return valueIfNull;

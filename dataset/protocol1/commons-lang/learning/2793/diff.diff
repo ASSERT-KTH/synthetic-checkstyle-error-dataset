@@ -1,0 +1,4 @@
+870c870
+<             append((short[]) object);
+---
+>             	append((short[]) object);

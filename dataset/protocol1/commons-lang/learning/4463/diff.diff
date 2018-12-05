@@ -1,0 +1,4 @@
+106c106
+<                     object = result = initialize();
+---
+>                     	object = result = initialize();

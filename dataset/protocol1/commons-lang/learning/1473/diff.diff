@@ -1,0 +1,5 @@
+392c392,393
+<     private static final String[][] BASIC_UNESCAPE = invert(BASIC_ESCAPE);
+---
+>     private static final String[][] BASIC_UNESCAPE = 
+> invert(BASIC_ESCAPE);

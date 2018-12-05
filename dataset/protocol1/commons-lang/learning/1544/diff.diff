@@ -1,0 +1,4 @@
+66c66
+<     public final R right;
+---
+>     	public final R right;

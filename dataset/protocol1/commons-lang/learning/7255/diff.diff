@@ -1,0 +1,5 @@
+594,595c594
+<     public static Date setMinutes(final Date date, final int amount) {
+<         return set(date, Calendar.MINUTE, amount);
+---
+>     public static Date setMinutes(final Date date, final int amount) {        return set(date, Calendar.MINUTE, amount);

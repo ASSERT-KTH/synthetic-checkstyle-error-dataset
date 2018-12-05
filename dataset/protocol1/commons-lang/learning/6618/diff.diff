@@ -1,0 +1,5 @@
+838c838,839
+<                 return append(fieldName, (int[]) lhs, (int[]) rhs);
+---
+>                 return append(fieldName, 
+> (int[]) lhs, (int[]) rhs);

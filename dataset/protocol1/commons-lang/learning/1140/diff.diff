@@ -1,0 +1,4 @@
+52c52
+<     T get() throws ConcurrentException;
+---
+>     T get	() throws ConcurrentException;

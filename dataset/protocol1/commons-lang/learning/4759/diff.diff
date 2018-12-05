@@ -1,0 +1,5 @@
+87c87,88
+<     public static NumericEntityEscaper between(final int codepointLow, final int codepointHigh) {
+---
+>     public static NumericEntityEscaper 
+> between(final int codepointLow, final int codepointHigh) {

@@ -1,0 +1,5 @@
+919c919,920
+<                 toProperString = getNumerator() + "/" + getDenominator();
+---
+>                 
+> toProperString = getNumerator() + "/" + getDenominator();

@@ -1,0 +1,4 @@
+512c512
+<             switch (ch) {
+---
+>             switch (ch) 	{

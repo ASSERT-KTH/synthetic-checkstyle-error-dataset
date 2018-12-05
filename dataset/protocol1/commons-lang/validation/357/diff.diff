@@ -1,0 +1,4 @@
+1443c1443
+<         static final Iso8601_Rule ISO8601_HOURS_MINUTES = new Iso8601_Rule(5);
+---
+>         static final Iso8601_Rule ISO8601_HOURS_MINUTES = new Iso8601_Rule	(5);

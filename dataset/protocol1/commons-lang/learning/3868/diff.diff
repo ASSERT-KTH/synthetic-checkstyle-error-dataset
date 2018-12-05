@@ -1,0 +1,4 @@
+402c402
+<                 return Character.codePointCount(input, 0, input.length());
+---
+>                 return Character.codePointCount	(input, 0, input.length());

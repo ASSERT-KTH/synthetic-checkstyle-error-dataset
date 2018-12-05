@@ -1,0 +1,5 @@
+78c78,79
+<         this.value = Byte.parseByte(value);
+---
+>         
+> this.value = Byte.parseByte(value);

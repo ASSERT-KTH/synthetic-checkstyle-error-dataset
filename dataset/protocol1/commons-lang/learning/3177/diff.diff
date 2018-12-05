@@ -1,0 +1,4 @@
+35c35
+<     public static final Long LONG_ZERO = Long.valueOf(0L);
+---
+>     public static final Long 	LONG_ZERO = Long.valueOf(0L);

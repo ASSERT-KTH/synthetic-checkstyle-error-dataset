@@ -1,0 +1,5 @@
+884,885c884
+<         if (toString == null) {
+<             toString = getNumerator() + "/" + getDenominator();
+---
+>         if (toString == null) {            toString = getNumerator() + "/" + getDenominator();

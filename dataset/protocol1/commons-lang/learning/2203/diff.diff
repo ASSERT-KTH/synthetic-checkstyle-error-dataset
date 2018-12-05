@@ -1,0 +1,5 @@
+61,62c61
+<         if (d == 1) {
+<             return d;
+---
+>         if (d == 1) {            return d;

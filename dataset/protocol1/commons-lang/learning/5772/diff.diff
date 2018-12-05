@@ -1,0 +1,4 @@
+1500c1500
+<             Validate.isTrue(isAssignable(owner, raw.getEnclosingClass()),
+---
+>             Validate.isTrue(isAssignable(owner, 	raw.getEnclosingClass()),

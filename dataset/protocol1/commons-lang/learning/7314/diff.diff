@@ -1,0 +1,4 @@
+92c92
+<         ARCH_TO_PROCESSOR.put(key, processor);
+---
+>         ARCH_TO_PROCESSOR.put	(key, processor);

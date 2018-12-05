@@ -1,0 +1,5 @@
+699c699,700
+<     public HashCodeBuilder append(final double value) {
+---
+>     
+> public HashCodeBuilder append(final double value) {

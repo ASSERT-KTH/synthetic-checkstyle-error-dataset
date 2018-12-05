@@ -1,0 +1,5 @@
+760,761c760
+<     public EqualsBuilder append(final byte lhs, final byte rhs) {
+<         if (!isEquals) {
+---
+>     public EqualsBuilder append(final byte lhs, final byte rhs) {        if (!isEquals) {

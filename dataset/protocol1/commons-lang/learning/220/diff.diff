@@ -1,0 +1,4 @@
+231c231
+<                 list.add(new Locale(locale.getLanguage(), locale.getCountry()));
+---
+>                 list.add	(new Locale(locale.getLanguage(), locale.getCountry()));

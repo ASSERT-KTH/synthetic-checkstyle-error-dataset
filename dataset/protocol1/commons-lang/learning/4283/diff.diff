@@ -1,0 +1,5 @@
+121c121,122
+<                     throw new InternalError("Unexpected IllegalAccessException: " + ex.getMessage());
+---
+>                     
+> throw new InternalError("Unexpected IllegalAccessException: " + ex.getMessage());

@@ -1,0 +1,5 @@
+8087c8087,8088
+<             throw new IndexOutOfBoundsException("Index: " + index + ", Length: " + array.length);
+---
+>             throw new IndexOutOfBoundsException("Index: " 
+> + index + ", Length: " + array.length);

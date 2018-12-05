@@ -1,0 +1,4 @@
+180c180
+<             max = max(array[j], max);
+---
+>             max 	= max(array[j], max);

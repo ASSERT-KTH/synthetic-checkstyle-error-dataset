@@ -1,0 +1,5 @@
+169,170c169
+<     public void decrement() {
+<         value--;
+---
+>     public void decrement() {        value--;

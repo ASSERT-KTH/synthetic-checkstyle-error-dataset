@@ -1,0 +1,4 @@
+98c98
+<         checkCallable(call);
+---
+>         checkCallable(call)	;

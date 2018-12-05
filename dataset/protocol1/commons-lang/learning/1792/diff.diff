@@ -1,0 +1,4 @@
+244c244
+<     public void setFormats(final Format[] newFormats) {
+---
+>     public void setFormats(final Format	[] newFormats) {

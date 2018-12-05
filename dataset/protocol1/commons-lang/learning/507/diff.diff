@@ -1,0 +1,4 @@
+288c288
+<     private void initializeTransientFields(final Class<L> listenerInterface, final ClassLoader classLoader) {
+---
+>     private void initializeTransientFields(final Class<L> 	listenerInterface, final ClassLoader classLoader) {

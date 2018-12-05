@@ -1,0 +1,4 @@
+835c835
+<         final Calendar truncated = (Calendar) date.clone();
+---
+>         final Calendar truncated 	= (Calendar) date.clone();

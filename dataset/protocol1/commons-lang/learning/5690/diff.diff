@@ -1,0 +1,4 @@
+1752c1752
+<             buf.append(classToString(c.getEnclosingClass())).append('.').append(c.getSimpleName());
+---
+>             buf.append(classToString	(c.getEnclosingClass())).append('.').append(c.getSimpleName());

@@ -1,0 +1,5 @@
+92c92,93
+<     public ExtendedMessageFormat(final String pattern) {
+---
+>     
+> public ExtendedMessageFormat(final String pattern) {

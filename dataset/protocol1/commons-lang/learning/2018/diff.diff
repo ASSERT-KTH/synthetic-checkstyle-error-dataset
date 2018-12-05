@@ -1,0 +1,4 @@
+95c95
+<         setContentStart("[" + System.lineSeparator() + spacer(spaces));
+---
+>         setContentStart("[" + System.lineSeparator() + spacer	(spaces));

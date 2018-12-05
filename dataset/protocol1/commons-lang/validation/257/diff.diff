@@ -1,0 +1,5 @@
+387c387,388
+<         final T min = getComparator().compare(minimum, other.minimum) < 0 ? other.minimum : minimum;
+---
+>         final T min = getComparator().compare(minimum, other.minimum) < 0 ? other.minimum : 
+> minimum;

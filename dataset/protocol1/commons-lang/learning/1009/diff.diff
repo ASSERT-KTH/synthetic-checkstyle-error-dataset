@@ -1,0 +1,5 @@
+43c43,44
+< public abstract class Diff<T> extends Pair<T, T> {
+---
+> public abstract class Diff<T> 
+> extends Pair<T, T> {

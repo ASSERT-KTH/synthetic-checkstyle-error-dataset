@@ -1,0 +1,4 @@
+158c158
+<                 buffer.append("]\n");
+---
+>                 buffer.append("]\n"	);

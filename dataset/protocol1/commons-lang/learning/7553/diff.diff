@@ -1,0 +1,4 @@
+147c147
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final long[] array) {
+---
+>     protected void appendDetail(final StringBuffer buffer	, final String fieldName, final long[] array) {

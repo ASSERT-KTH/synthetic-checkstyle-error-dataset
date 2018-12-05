@@ -1,0 +1,4 @@
+84c84
+<     public boolean inDaylightTime(final Date date) {
+---
+>     public boolean inDaylightTime	(final Date date) {

@@ -1,0 +1,5 @@
+753c753,754
+<         if ((nBytes - 1) * 8 + dstPos >= 16) {
+---
+>         if ((nBytes - 1) 
+> * 8 + dstPos >= 16) {

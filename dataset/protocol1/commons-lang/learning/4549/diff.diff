@@ -1,0 +1,5 @@
+103,104c103
+<             synchronized (this) {
+<                 result = object;
+---
+>             synchronized (this) {                result = object;

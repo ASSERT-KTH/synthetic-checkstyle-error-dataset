@@ -1,0 +1,5 @@
+2340c2340,2341
+<         if (isEmpty(seq) || isEmpty(searchChars)) {
+---
+>         if (isEmpty(seq) 
+> || isEmpty(searchChars)) {

@@ -1,0 +1,5 @@
+132,133c132
+<         if (!type.equals(type2)) {
+<             return false;
+---
+>         if (!type.equals(type2)) {            return false;

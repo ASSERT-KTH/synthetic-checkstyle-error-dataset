@@ -1,0 +1,4 @@
+69c69
+<     public StringBuffer format(final Object obj, final StringBuffer toAppendTo,
+---
+>     public StringBuffer format(final Object obj, final StringBuffer 	toAppendTo,

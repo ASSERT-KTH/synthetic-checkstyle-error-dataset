@@ -1,0 +1,5 @@
+268,269c268
+<         }
+<         final CharSet other = (CharSet) obj;
+---
+>         }        final CharSet other = (CharSet) obj;

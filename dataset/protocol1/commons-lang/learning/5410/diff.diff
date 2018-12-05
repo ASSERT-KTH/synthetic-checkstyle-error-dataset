@@ -1,0 +1,4 @@
+512c512
+<                 final Object[] values2 = ArrayUtils.add(values, Integer.valueOf(i));
+---
+>                 final Object[] 	values2 = ArrayUtils.add(values, Integer.valueOf(i));

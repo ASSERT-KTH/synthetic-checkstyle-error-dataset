@@ -1,0 +1,5 @@
+855,856c855
+<     private static boolean isAllZeros(final String str) {
+<         if (str == null) {
+---
+>     private static boolean isAllZeros(final String str) {        if (str == null) {

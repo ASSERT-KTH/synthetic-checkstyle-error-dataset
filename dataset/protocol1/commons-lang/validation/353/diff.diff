@@ -1,0 +1,4 @@
+72c72
+<     public static byte[] nextBytes(final int count) {
+---
+>     public static byte[] nextBytes(	final int count) {

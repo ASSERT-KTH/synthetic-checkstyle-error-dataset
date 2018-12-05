@@ -1,0 +1,4 @@
+1244c1244
+<     public static Iterator<?> iterator(final Object focus, final int rangeStyle) {
+---
+>     public static Iterator<	?> iterator(final Object focus, final int rangeStyle) {

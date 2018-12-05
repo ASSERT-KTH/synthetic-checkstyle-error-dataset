@@ -1,0 +1,4 @@
+34c34
+<     private final int above;
+---
+>     	private final int above;

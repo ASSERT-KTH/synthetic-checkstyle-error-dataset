@@ -1,0 +1,5 @@
+570c570,571
+<     private <B extends Appendable> B applyRules(final Calendar calendar, final B buf) {
+---
+>     private 
+> <B extends Appendable> B applyRules(final Calendar calendar, final B buf) {

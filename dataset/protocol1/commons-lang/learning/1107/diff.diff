@@ -1,0 +1,5 @@
+338,339c338
+<     public Byte toByte() {
+<         return Byte.valueOf(byteValue());
+---
+>     public Byte toByte() {        return Byte.valueOf(byteValue());

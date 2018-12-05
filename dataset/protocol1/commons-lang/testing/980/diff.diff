@@ -1,0 +1,4 @@
+817c817
+<     public static <T> T cloneIfPossible(final T obj) {
+---
+>     public static <T> T cloneIfPossible(	final T obj) {

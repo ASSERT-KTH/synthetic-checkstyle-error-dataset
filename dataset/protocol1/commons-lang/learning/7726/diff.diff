@@ -1,0 +1,4 @@
+210c210
+<         this.value -= operand;
+---
+>         this.value -= operand	;

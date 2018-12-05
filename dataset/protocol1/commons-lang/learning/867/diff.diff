@@ -1,0 +1,4 @@
+181c181
+<     public static StrTokenizer getCSVInstance(final char[] input) {
+---
+>     public static StrTokenizer getCSVInstance(final char[] input	) {

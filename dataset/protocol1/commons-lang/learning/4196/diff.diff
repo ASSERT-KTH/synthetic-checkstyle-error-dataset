@@ -1,0 +1,5 @@
+64c64,65
+<     public T getValue() {
+---
+>     public 
+> T getValue() {

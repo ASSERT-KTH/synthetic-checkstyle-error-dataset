@@ -1,0 +1,4 @@
+236c236
+<             thread.setDaemon(getDaemonFlag().booleanValue());
+---
+>             thread.setDaemon(getDaemonFlag().	booleanValue());

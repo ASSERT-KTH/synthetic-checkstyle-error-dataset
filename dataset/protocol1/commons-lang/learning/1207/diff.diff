@@ -1,0 +1,5 @@
+84c84,85
+<         appendDetail(buffer, fieldName, coll.toArray());
+---
+>         appendDetail(buffer, 
+> fieldName, coll.toArray());

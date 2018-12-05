@@ -1,0 +1,4 @@
+1019c1019
+<             throw new IllegalArgumentException("Variable prefix must not be null!");
+---
+>             throw new 	IllegalArgumentException("Variable prefix must not be null!");

@@ -1,0 +1,4 @@
+8925c8925
+<         if (suffixes != null && suffixes.length > 0) {
+---
+>         if (suffixes != null && suffixes.length 	> 0) {

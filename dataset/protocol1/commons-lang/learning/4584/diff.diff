@@ -1,0 +1,4 @@
+133c133
+<     public int getRawValue(final int holder) {
+---
+>     public int getRawValue(final int holder) 	{

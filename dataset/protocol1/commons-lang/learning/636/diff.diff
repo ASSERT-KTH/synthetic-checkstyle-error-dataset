@@ -1,0 +1,5 @@
+123c123,124
+<         Validate.isTrue(call != null, "Callable must not be null!");
+---
+>         Validate.isTrue(call != null, 
+> "Callable must not be null!");

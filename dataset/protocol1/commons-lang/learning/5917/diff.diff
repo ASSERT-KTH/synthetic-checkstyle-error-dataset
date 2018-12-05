@@ -1,0 +1,5 @@
+65,66c65
+<     public NotImplementedException(final Throwable cause) {
+<         this(cause, null);
+---
+>     public NotImplementedException(final Throwable cause) {        this(cause, null);

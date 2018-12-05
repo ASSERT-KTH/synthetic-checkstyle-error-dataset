@@ -1,0 +1,5 @@
+523,524c523
+<                 REGISTRY.remove();
+<             }
+---
+>                 REGISTRY.remove();            }

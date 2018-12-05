@@ -1,0 +1,4 @@
+378c378
+<     private CheckIntervalData nextCheckIntervalData(final int increment,
+---
+>     private CheckIntervalData nextCheckIntervalData(	final int increment,

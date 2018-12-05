@@ -1,0 +1,4 @@
+260c260
+<                 public Byte getRight() {
+---
+>                 public Byte getRight(	) {

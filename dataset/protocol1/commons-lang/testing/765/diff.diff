@@ -1,0 +1,5 @@
+47c47,48
+<         offset = negate ? -milliseconds : milliseconds;
+---
+>         offset = negate ? -milliseconds : 
+> milliseconds;

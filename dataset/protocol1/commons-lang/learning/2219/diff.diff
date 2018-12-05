@@ -1,0 +1,5 @@
+354,355c354
+<             return valueIfNull;
+<         }
+---
+>             return valueIfNull;        }

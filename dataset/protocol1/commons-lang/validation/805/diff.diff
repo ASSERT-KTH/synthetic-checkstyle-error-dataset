@@ -1,0 +1,4 @@
+150c150
+<     public static long nextLong() {
+---
+>     public static long nextLong	() {

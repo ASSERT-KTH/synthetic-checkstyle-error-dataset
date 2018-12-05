@@ -1,0 +1,4 @@
+1323c1323
+<     public static String shortToHex(final short src, final int srcPos, final String dstInit, final int dstPos,
+---
+>     	public static String shortToHex(final short src, final int srcPos, final String dstInit, final int dstPos,

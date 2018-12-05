@@ -1,0 +1,4 @@
+160c160
+<     private static final String[][] HTML40_EXTENDED_ESCAPE = {
+---
+>     private static 	final String[][] HTML40_EXTENDED_ESCAPE = {

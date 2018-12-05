@@ -1,0 +1,4 @@
+290c290
+<     private static boolean isAccessible(final Class<?> type) {
+---
+>     private static boolean isAccessible	(final Class<?> type) {

@@ -1,0 +1,4 @@
+426c426
+<     private static final String[][] JAVA_CTRL_CHARS_ESCAPE = {
+---
+>     private static final String[]	[] JAVA_CTRL_CHARS_ESCAPE = {

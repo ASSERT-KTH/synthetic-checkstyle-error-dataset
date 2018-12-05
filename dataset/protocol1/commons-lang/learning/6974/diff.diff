@@ -1,0 +1,4 @@
+785c785
+<                     chars = buf.buffer; // in case buffer was altered
+---
+>                     chars 	= buf.buffer; // in case buffer was altered

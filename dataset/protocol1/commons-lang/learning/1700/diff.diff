@@ -1,0 +1,5 @@
+106c106,107
+<     public static final int RANGE_WEEK_RELATIVE = 3;
+---
+>     public static final int RANGE_WEEK_RELATIVE 
+> = 3;

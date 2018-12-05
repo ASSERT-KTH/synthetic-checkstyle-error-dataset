@@ -1,0 +1,4 @@
+148c148
+<     public boolean isX86() {
+---
+>     public boolean isX86(	) {

@@ -1,0 +1,4 @@
+129c129
+<     public short getAndIncrement() {
+---
+>     public 	short getAndIncrement() {

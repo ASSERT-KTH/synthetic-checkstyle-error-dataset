@@ -1,0 +1,4 @@
+340c340
+<     public synchronized int getLastAcquiresPerPeriod() {
+---
+>     public synchronized 	int getLastAcquiresPerPeriod() {

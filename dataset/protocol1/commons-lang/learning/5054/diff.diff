@@ -1,0 +1,4 @@
+286c286
+<             return annotationArrayMemberEquals((Annotation[]) o1, (Annotation[]) o2);
+---
+>             return annotationArrayMemberEquals(	(Annotation[]) o1, (Annotation[]) o2);

@@ -1,0 +1,4 @@
+126c126
+<             return MethodUtils.getAccessibleMethod(target.getClass(), methodName, method.getParameterTypes()) != null;
+---
+>             return MethodUtils.getAccessibleMethod(target.getClass()	, methodName, method.getParameterTypes()) != null;

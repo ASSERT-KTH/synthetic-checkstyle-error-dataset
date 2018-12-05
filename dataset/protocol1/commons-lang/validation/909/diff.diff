@@ -1,0 +1,4 @@
+366c366
+<         if (otherRange == null) {
+---
+>         if (otherRange 	== null) {

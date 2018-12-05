@@ -1,0 +1,4 @@
+54c54
+<         final Thread thread = findThreadById(threadId);
+---
+>         final Thread thread = findThreadById	(threadId);

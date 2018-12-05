@@ -1,0 +1,5 @@
+154,155c154
+<     static JavaVersion getJavaVersion(final String nom) {
+<         return get(nom);
+---
+>     static JavaVersion getJavaVersion(final String nom) {        return get(nom);

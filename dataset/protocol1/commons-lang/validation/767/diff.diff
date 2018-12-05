@@ -1,0 +1,4 @@
+217c217
+<                     rule = selectNumberRule(Calendar.YEAR, tokenLen < 4 ? 4 : tokenLen);
+---
+>                     rule = selectNumberRule(Calendar.YEAR, tokenLen < 	4 ? 4 : tokenLen);

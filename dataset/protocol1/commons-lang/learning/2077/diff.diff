@@ -1,0 +1,5 @@
+590,591c590
+<         while (parentClass != null) {
+<             if (Modifier.isPublic(parentClass.getModifiers())) {
+---
+>         while (parentClass != null) {            if (Modifier.isPublic(parentClass.getModifiers())) {

@@ -1,0 +1,4 @@
+81c81
+<         T result = reference.get();
+---
+>         T result = reference.get(	);

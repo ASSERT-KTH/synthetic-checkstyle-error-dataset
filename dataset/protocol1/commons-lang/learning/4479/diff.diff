@@ -1,0 +1,4 @@
+1796c1796
+<                 buf.append(((Class<?>) useOwner).getName());
+---
+>                 buf.append(((Class<?>) useOwner).getName	());

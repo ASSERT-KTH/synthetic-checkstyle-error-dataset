@@ -1,0 +1,4 @@
+363c363
+<         if (componentType.equals(Boolean.TYPE)) {
+---
+>         if (componentType	.equals(Boolean.TYPE)) {

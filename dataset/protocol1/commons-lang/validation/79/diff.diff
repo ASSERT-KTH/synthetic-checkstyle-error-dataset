@@ -1,0 +1,5 @@
+208c208,209
+<         Validate.isTrue(startInclusive >= 0, "Both range values must be non-negative.");
+---
+>         Validate.isTrue(startInclusive >= 
+> 0, "Both range values must be non-negative.");

@@ -1,0 +1,4 @@
+193c193
+<         spaces += INDENT;
+---
+>         spaces 	+= INDENT;

@@ -1,0 +1,4 @@
+131c131
+<     public void setUseFieldNames(final boolean useFieldNames) { // NOPMD as this is implementing the abstract class
+---
+>     public void setUseFieldNames(final 	boolean useFieldNames) { // NOPMD as this is implementing the abstract class

@@ -1,0 +1,5 @@
+88c88,89
+<     private static void addProcessor(final String key, final Processor processor) {
+---
+>     
+> private static void addProcessor(final String key, final Processor processor) {

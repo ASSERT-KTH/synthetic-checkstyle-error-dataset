@@ -1,0 +1,5 @@
+643c643,644
+<             appendArray(lhs, rhs);
+---
+>             appendArray(lhs, 
+> rhs);

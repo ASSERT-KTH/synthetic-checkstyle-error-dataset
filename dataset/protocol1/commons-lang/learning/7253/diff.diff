@@ -1,0 +1,4 @@
+209c209
+<         if (!(obj instanceof CharRange)) {
+---
+>         if (!(obj instanceof CharRange)	) {

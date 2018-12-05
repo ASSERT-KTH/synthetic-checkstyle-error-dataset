@@ -1,0 +1,4 @@
+316c316
+<                 wrappedLine.append(newLineStr);
+---
+>                 wrappedLine.	append(newLineStr);

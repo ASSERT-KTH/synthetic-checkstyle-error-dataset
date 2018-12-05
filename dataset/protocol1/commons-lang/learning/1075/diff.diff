@@ -1,0 +1,4 @@
+142c142
+<         if (precision >= 0 && precision < seq.length()) {
+---
+>         if (precision >= 0 && precision < seq.length(	)) {

@@ -1,0 +1,5 @@
+414c414,415
+<     private static final String[][] APOS_UNESCAPE = invert(APOS_ESCAPE);
+---
+>     
+> private static final String[][] APOS_UNESCAPE = invert(APOS_ESCAPE);

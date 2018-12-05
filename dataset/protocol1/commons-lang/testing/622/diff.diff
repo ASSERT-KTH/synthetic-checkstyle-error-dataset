@@ -1,0 +1,4 @@
+335c335
+<     public double doubleValue() {
+---
+>     public double 	doubleValue() {

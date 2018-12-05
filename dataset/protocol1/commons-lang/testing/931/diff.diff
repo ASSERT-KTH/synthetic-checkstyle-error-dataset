@@ -1,0 +1,4 @@
+262c262
+<         return regex.matcher(text).replaceAll(replacement);
+---
+>         return regex.matcher(text).replaceAll	(replacement);

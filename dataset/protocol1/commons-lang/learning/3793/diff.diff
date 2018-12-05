@@ -1,0 +1,4 @@
+171c171
+<                 totalCost += getObjectTransformationCost(destClass, Object.class) + varArgsCost;
+---
+>                 	totalCost += getObjectTransformationCost(destClass, Object.class) + varArgsCost;

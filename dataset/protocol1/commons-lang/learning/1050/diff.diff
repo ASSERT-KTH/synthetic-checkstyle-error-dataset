@@ -1,0 +1,5 @@
+96c96,97
+<     public CallableBackgroundInitializer(final Callable<T> call, final ExecutorService exec) {
+---
+>     public 
+> CallableBackgroundInitializer(final Callable<T> call, final ExecutorService exec) {

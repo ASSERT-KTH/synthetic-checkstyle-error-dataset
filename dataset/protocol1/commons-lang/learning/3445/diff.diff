@@ -1,0 +1,5 @@
+713,714c713
+<         if (array == null) {
+<             iTotal = iTotal * iConstant;
+---
+>         if (array == null) {            iTotal = iTotal * iConstant;

@@ -1,0 +1,5 @@
+373c373,374
+<         return getNanoTime() / NANO_2_MILLIS;
+---
+>         
+> return getNanoTime() / NANO_2_MILLIS;

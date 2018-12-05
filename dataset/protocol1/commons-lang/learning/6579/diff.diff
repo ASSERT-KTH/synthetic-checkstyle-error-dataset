@@ -1,0 +1,4 @@
+60c60
+<             map.put(e.name(), e);
+---
+>             map.put(e.name(), e	);

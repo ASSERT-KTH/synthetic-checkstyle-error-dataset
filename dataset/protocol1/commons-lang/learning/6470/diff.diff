@@ -1,0 +1,4 @@
+72c72
+<     public final T get() throws ConcurrentException {
+---
+>     public final T get() throws 	ConcurrentException {

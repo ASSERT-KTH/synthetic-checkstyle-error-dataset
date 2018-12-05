@@ -1,0 +1,5 @@
+1017c1017,1018
+<             throw new IllegalArgumentException("Supplied value must be a valid byte literal between -32768 and 32767: [" + v + "]");
+---
+>             throw new IllegalArgumentException("Supplied value must be a valid byte literal between -32768 and 32767: [" + v + 
+> "]");

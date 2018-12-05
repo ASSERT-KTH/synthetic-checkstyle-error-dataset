@@ -1,0 +1,5 @@
+210,211c210
+<                     pattern= previous;
+<                 }
+---
+>                     pattern= previous;                }

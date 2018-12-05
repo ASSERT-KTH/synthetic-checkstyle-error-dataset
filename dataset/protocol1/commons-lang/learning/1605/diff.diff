@@ -1,0 +1,4 @@
+627c627
+<                 if (!Modifier.isPublic(anInterface.getModifiers())) {
+---
+>                 if (!Modifier.isPublic(anInterface.getModifiers(	))) {

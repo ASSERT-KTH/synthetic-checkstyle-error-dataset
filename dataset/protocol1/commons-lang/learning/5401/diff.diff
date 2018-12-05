@@ -1,0 +1,5 @@
+382c382,383
+<             && Double.doubleToLongBits(((MutableDouble) obj).value) == Double.doubleToLongBits(value);
+---
+>             && Double.doubleToLongBits(((MutableDouble) obj).value) 
+> == Double.doubleToLongBits(value);

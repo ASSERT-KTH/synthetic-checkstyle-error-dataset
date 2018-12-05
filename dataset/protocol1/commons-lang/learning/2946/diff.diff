@@ -1,0 +1,5 @@
+792c792,793
+<             final long bits = (0xfL & hexDigitToInt(src.charAt(i + srcPos))) << shift;
+---
+>             final long bits = (0xfL & 
+> hexDigitToInt(src.charAt(i + srcPos))) << shift;

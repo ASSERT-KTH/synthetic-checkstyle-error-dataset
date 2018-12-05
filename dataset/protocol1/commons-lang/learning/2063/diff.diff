@@ -1,0 +1,4 @@
+50c50
+<         if (child == null || parent == null) {
+---
+>         if (child == null || parent == 	null) {

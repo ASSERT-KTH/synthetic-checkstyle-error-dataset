@@ -1,0 +1,4 @@
+272c272
+<         return format(date, pattern, null, null);
+---
+>         return 	format(date, pattern, null, null);

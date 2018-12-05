@@ -1,0 +1,4 @@
+41c41
+<     private final EnumSet<OPTION> options;
+---
+>     private final EnumSet	<OPTION> options;

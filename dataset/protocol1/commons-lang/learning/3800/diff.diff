@@ -1,0 +1,4 @@
+89c89
+<         return Short.valueOf(this.value);
+---
+>         return Short.valueOf	(this.value);

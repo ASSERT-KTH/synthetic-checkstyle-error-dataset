@@ -1,0 +1,4 @@
+594c594
+<         final Field field = getField(cls, fieldName, forceAccess);
+---
+>         final Field field = getField(cls	, fieldName, forceAccess);

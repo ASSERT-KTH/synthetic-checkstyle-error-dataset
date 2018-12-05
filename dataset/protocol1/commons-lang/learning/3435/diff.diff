@@ -1,0 +1,4 @@
+647c647
+<             iTotal = iTotal * iConstant;
+---
+>             iTotal = 	iTotal * iConstant;

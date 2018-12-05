@@ -1,0 +1,4 @@
+279c279
+<         final ExtendedMessageFormat rhs = (ExtendedMessageFormat) obj;
+---
+>         final ExtendedMessageFormat rhs = (ExtendedMessageFormat) 	obj;

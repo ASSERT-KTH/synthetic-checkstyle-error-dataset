@@ -1,0 +1,4 @@
+349c349
+<             return Arrays.hashCode((int[]) o);
+---
+>             return Arrays	.hashCode((int[]) o);

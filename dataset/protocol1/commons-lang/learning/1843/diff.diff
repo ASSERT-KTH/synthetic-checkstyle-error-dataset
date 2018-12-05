@@ -1,0 +1,4 @@
+526c526
+<                 frames.add(throwables[i].toString());
+---
+>                 frames.add(throwables[i].toString	());

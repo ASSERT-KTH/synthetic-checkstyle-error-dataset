@@ -1,0 +1,5 @@
+57,58c57
+<                     + " method which takes a parameter of type " + listenerType.getName() + ".");
+<         } catch (final InvocationTargetException e) {
+---
+>                     + " method which takes a parameter of type " + listenerType.getName() + ".");        } catch (final InvocationTargetException e) {

@@ -1,0 +1,5 @@
+377,378c377
+<     public int compareTo(final MutableShort other) {
+<         return NumberUtils.compare(this.value, other.value);
+---
+>     public int compareTo(final MutableShort other) {        return NumberUtils.compare(this.value, other.value);

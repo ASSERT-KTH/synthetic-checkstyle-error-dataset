@@ -1,0 +1,5 @@
+88,89c88
+<     private static void addProcessor(final String key, final Processor processor) {
+<         if (ARCH_TO_PROCESSOR.containsKey(key)) {
+---
+>     private static void addProcessor(final String key, final Processor processor) {        if (ARCH_TO_PROCESSOR.containsKey(key)) {

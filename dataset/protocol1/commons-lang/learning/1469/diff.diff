@@ -1,0 +1,4 @@
+461c461
+<     public static String random(final int count, final char... chars) {
+---
+>     public static String random	(final int count, final char... chars) {

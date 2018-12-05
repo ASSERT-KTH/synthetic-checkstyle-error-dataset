@@ -1,0 +1,5 @@
+167c167,168
+<         final StrTokenizer tok = getCSVClone();
+---
+>         final StrTokenizer tok = 
+> getCSVClone();

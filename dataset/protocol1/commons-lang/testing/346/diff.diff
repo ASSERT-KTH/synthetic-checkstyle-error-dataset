@@ -1,0 +1,4 @@
+2112c2112
+<     public static void swap(final boolean[] array, int offset1, int offset2, int len) {
+---
+>     public static void swap(final 	boolean[] array, int offset1, int offset2, int len) {

@@ -1,0 +1,5 @@
+45c45,46
+<     private static final StrLookup<String> NONE_LOOKUP = new MapStrLookup<>(null);
+---
+>     private static final 
+> StrLookup<String> NONE_LOOKUP = new MapStrLookup<>(null);

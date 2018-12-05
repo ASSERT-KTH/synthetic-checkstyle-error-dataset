@@ -1,0 +1,4 @@
+42c42
+<     private boolean value;
+---
+>     private boolean 	value;

@@ -1,0 +1,4 @@
+82c82
+<         final ByteArrayInputStream bais = new ByteArrayInputStream(objectData);
+---
+>         final 	ByteArrayInputStream bais = new ByteArrayInputStream(objectData);

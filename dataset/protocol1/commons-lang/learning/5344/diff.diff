@@ -1,0 +1,4 @@
+797c797
+<         final boolean allZeros = isAllZeros(mant) && isAllZeros(exp);
+---
+>         final boolean allZeros = isAllZeros(mant) && isAllZeros	(exp);

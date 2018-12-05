@@ -1,0 +1,4 @@
+599c599
+<         return printer.getTimeZone();
+---
+>         return printer.getTimeZone	();

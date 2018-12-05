@@ -1,0 +1,4 @@
+412c412
+<         final List<String> list = new ArrayList<>(array.length);
+---
+>         final List<String> list = new ArrayList<>(array.length)	;

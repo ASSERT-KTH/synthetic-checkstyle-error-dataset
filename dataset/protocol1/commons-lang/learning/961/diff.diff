@@ -1,0 +1,4 @@
+666c666
+<         int count = 0;
+---
+>         int count = 	0;

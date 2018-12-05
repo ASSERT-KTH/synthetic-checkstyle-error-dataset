@@ -1,0 +1,4 @@
+332c332
+<     static final class ConstantFuture<T> implements Future<T> {
+---
+>     static final class ConstantFuture<T	> implements Future<T> {

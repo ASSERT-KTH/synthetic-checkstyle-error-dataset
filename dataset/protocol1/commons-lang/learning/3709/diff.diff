@@ -1,0 +1,4 @@
+444c444
+<             return random(count, 0, 0, false, false, null, RANDOM);
+---
+>             return random(count, 	0, 0, false, false, null, RANDOM);

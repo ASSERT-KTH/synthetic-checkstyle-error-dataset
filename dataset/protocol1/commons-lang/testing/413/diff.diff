@@ -1,0 +1,4 @@
+132c132
+<         if (obj instanceof Map.Entry<?, ?>) {
+---
+>         if (obj instanceof Map.Entry<?, ?>) 	{

@@ -1,0 +1,4 @@
+254c254
+<         return toString(object, style, outputTransients, outputStatics, null);
+---
+>         	return toString(object, style, outputTransients, outputStatics, null);

@@ -1,0 +1,5 @@
+103c103,104
+<     public static final int FULL = DateFormat.FULL;
+---
+>     public static final int FULL 
+> = DateFormat.FULL;

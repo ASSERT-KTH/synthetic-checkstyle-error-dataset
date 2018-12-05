@@ -1,0 +1,4 @@
+467c467
+<             if (toTypeArg == null && fromTypeArg instanceof Class) {
+---
+>             if (toTypeArg == null && fromTypeArg instanceof Class	) {

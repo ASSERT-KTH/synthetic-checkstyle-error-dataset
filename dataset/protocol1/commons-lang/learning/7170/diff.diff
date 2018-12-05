@@ -1,0 +1,5 @@
+443c443,444
+<         if (chars == null) {
+---
+>         
+> if (chars == null) {

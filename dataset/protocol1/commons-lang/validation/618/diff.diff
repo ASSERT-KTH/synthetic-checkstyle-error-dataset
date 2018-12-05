@@ -1,0 +1,4 @@
+49c49
+<     public LookupTranslator(final CharSequence[]... lookup) {
+---
+>     public LookupTranslator(final CharSequence[	]... lookup) {

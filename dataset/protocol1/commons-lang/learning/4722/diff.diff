@@ -1,0 +1,5 @@
+56c56,57
+<     public static final Fraction ONE_HALF = new Fraction(1, 2);
+---
+>     public static final 
+> Fraction ONE_HALF = new Fraction(1, 2);

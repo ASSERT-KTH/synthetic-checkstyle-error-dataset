@@ -1,0 +1,5 @@
+118c118,119
+<         if (StringUtils.isEmpty(str) || deepEmpty(set)) {
+---
+>         
+> if (StringUtils.isEmpty(str) || deepEmpty(set)) {

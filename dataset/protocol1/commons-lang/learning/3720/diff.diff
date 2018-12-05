@@ -1,0 +1,4 @@
+119c119
+<             args = MethodUtils.getVarArgs(args, methodParameterTypes);
+---
+>             args = MethodUtils.getVarArgs(args, methodParameterTypes)	;

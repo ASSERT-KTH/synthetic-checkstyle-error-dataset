@@ -1,0 +1,4 @@
+784c784
+<             for (final int element : array) {
+---
+>             for 	(final int element : array) {

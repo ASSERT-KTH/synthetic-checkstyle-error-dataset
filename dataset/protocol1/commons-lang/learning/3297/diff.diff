@@ -1,0 +1,5 @@
+103,104c103
+<     public Format getFormatter() {
+<         return this.formatter;
+---
+>     public Format getFormatter() {        return this.formatter;

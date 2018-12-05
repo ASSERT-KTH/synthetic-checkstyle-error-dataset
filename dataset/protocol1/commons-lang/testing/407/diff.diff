@@ -1,0 +1,5 @@
+259,260c259
+<         }
+<         this.runningState = State.STOPPED;
+---
+>         }        this.runningState = State.STOPPED;

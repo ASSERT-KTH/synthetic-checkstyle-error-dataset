@@ -1,0 +1,4 @@
+227c227
+<         {"\u2111", "&image;"}, // blackletter capital I = imaginary part, U+2111 ISOamso -->
+---
+>         {"\u2111", "&im	age;"}, // blackletter capital I = imaginary part, U+2111 ISOamso -->

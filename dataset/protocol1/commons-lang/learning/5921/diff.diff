@@ -1,0 +1,4 @@
+343c343
+<     public ToStringBuilder append(final char[] array) {
+---
+>     	public ToStringBuilder append(final char[] array) {

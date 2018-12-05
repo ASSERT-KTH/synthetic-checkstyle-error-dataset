@@ -1,0 +1,4 @@
+308c308
+<             Validate.isTrue(name != null, "The name must not be null");
+---
+>             Validate.isTrue(name != null, 	"The name must not be null");

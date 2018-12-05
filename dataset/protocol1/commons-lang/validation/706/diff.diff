@@ -1,0 +1,5 @@
+1800c1800,1801
+<         this.arrayEnd = arrayEnd;
+---
+>         this.arrayEnd 
+> = arrayEnd;

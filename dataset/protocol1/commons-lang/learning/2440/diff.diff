@@ -1,0 +1,5 @@
+399c399,400
+<         parser= new FastDateParser(pattern, timeZone, locale, centuryStart);
+---
+>         parser= new FastDateParser(pattern, timeZone, locale, 
+> centuryStart);

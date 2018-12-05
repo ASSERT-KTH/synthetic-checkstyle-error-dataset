@@ -1,0 +1,5 @@
+1856c1856,1857
+<     public static void swap(final Object[] array, final int offset1, final int offset2) {
+---
+>     public static void swap(final Object[] array, final 
+> int offset1, final int offset2) {

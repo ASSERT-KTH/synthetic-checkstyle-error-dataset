@@ -1,0 +1,5 @@
+441c441,442
+<             return buffer[pos] <= 32 ? 1 : 0;
+---
+>             return buffer[pos] <= 32 ? 
+> 1 : 0;

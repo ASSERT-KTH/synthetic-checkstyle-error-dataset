@@ -1,0 +1,4 @@
+877c877
+<     public static Float createFloat(final String str) {
+---
+>     public static Float createFloat(	final String str) {

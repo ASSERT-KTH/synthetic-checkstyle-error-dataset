@@ -1,0 +1,5 @@
+244c244,245
+<             primitiveTypes.put("byte", byte.class);
+---
+>             primitiveTypes.put("byte", 
+> byte.class);

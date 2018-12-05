@@ -1,0 +1,5 @@
+1394,1395c1394
+<             }
+<             appendDetail(buffer, fieldName, array[i]);
+---
+>             }            appendDetail(buffer, fieldName, array[i]);

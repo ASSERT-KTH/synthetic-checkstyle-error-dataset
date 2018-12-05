@@ -1,0 +1,5 @@
+58,59c58
+<                 } catch (final NumberFormatException nfe) {
+<                     throw new IllegalArgumentException("Unable to parse unicode value: " + unicode, nfe);
+---
+>                 } catch (final NumberFormatException nfe) {                    throw new IllegalArgumentException("Unable to parse unicode value: " + unicode, nfe);

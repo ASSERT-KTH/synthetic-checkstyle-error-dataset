@@ -1,0 +1,5 @@
+268c268,269
+<             return arrayMemberEquals(type.getComponentType(), o1, o2);
+---
+>             return 
+> arrayMemberEquals(type.getComponentType(), o1, o2);

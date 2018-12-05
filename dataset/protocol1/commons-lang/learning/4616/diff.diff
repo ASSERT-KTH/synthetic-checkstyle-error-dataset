@@ -1,0 +1,4 @@
+58c58
+<     public final String translate(final CharSequence input) {
+---
+>     	public final String translate(final CharSequence input) {

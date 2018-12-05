@@ -1,0 +1,4 @@
+515c515
+<     public static Object invokeExactStaticMethod(final Class<?> cls, final String methodName,
+---
+>     public static Object invokeExactStaticMethod(final Class<?> cls, 	final String methodName,

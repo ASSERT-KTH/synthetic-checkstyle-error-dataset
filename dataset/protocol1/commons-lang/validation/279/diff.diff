@@ -1,0 +1,4 @@
+797c797
+<     public ReflectionToStringBuilder setExcludeFieldNames(final String... excludeFieldNamesParam) {
+---
+>     public ReflectionToStringBuilder setExcludeFieldNames(final String... 	excludeFieldNamesParam) {

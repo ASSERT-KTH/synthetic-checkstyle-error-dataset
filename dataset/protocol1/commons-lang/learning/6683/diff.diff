@@ -1,0 +1,4 @@
+929c929
+<         return setQuoteMatcher(StrMatcher.charMatcher(quote));
+---
+>         return setQuoteMatcher(StrMatcher.charMatcher(quote	));

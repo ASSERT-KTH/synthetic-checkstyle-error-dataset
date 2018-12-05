@@ -1,0 +1,4 @@
+126c126
+<             return Enum.valueOf(enumClass, enumName);
+---
+>             return Enum	.valueOf(enumClass, enumName);

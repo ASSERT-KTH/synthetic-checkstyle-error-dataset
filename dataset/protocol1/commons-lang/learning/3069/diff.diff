@@ -1,0 +1,4 @@
+182c182
+<     public static final FastDateFormat ISO_TIME_NO_T_TIME_ZONE_FORMAT = ISO_8601_EXTENDED_TIME_TIME_ZONE_FORMAT;
+---
+>     public static final FastDateFormat ISO_TIME_NO_T_TIME_ZONE_FORMAT 	= ISO_8601_EXTENDED_TIME_TIME_ZONE_FORMAT;

@@ -1,0 +1,4 @@
+202c202
+<             NumericEntityEscaper.between(0xe, 0x1f),
+---
+>             NumericEntityEscaper.between(0xe, 	0x1f),

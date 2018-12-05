@@ -1,0 +1,4 @@
+1804c1804
+<             this.endFinal = endFinal;
+---
+>             this.endFinal = 	endFinal;

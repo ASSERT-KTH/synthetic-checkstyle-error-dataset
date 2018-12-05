@@ -1,0 +1,4 @@
+969c969
+<         return cls != null && cls.getEnclosingClass() != null;
+---
+>         return cls != null && 	cls.getEnclosingClass() != null;

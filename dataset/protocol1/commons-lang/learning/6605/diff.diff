@@ -1,0 +1,4 @@
+379c379
+<     public static Object readDeclaredStaticField(final Class<?> cls, final String fieldName, final boolean forceAccess) throws IllegalAccessException {
+---
+>     public static Object readDeclaredStaticField(final Class	<?> cls, final String fieldName, final boolean forceAccess) throws IllegalAccessException {

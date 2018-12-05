@@ -1,0 +1,4 @@
+93c93
+<         return between(element, element, comparator);
+---
+>         return between(element, element, comparator	);

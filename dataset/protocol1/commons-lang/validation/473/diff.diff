@@ -1,0 +1,4 @@
+240c240
+<         private static final Map<String, Class<?>> primitiveTypes =
+---
+>         private 	static final Map<String, Class<?>> primitiveTypes =

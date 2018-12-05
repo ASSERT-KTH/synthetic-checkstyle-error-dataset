@@ -1,0 +1,4 @@
+139c139
+<         Validate.isTrue(ellipsis == null || precision < 0 || ellipsis.length() <= precision,
+---
+>         Validate.isTrue(ellipsis == null || precision < 0 || ellipsis.length(	) <= precision,

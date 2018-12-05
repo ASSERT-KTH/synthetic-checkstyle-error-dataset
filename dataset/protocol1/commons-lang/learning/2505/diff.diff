@@ -1,0 +1,5 @@
+63c63,64
+<     public static final String UTF_16 = "UTF-16";
+---
+>     public 
+> static final String UTF_16 = "UTF-16";

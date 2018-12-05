@@ -1,0 +1,4 @@
+43c43
+<     Format getFormat(String name, String arguments, Locale locale);
+---
+>     	Format getFormat(String name, String arguments, Locale locale);

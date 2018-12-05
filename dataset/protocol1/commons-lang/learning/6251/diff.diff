@@ -1,0 +1,4 @@
+91c91
+<         return getObject() != null ? getObject().hashCode() : 0;
+---
+>         return getObject() 	!= null ? getObject().hashCode() : 0;

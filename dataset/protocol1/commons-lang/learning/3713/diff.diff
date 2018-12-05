@@ -1,0 +1,4 @@
+168c168
+<             final Class<?> destClass = destArgs[destArgs.length-1].getComponentType();
+---
+>             final Class	<?> destClass = destArgs[destArgs.length-1].getComponentType();

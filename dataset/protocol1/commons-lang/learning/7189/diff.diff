@@ -1,0 +1,4 @@
+1192c1192
+<             dst[dstPos + i] = (byte) (0xff & (src >> shift));
+---
+>             dst[dstPos + i] = (byte) (0xff & (src >> shift))	;

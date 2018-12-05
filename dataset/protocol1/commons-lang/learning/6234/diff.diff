@@ -1,0 +1,4 @@
+6386c6386
+<             return rightPad(str, size, String.valueOf(padChar));
+---
+>             return rightPad(str, size	, String.valueOf(padChar));

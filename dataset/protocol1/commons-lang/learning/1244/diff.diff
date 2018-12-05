@@ -1,0 +1,4 @@
+55c55
+<             final int consumed = translator.translate(input, index, out);
+---
+>             final int consumed = translator.translate	(input, index, out);

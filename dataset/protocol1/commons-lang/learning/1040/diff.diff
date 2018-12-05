@@ -1,0 +1,4 @@
+112c112
+<     private void appendFields(final Class<?> clazz) {
+---
+>     private void appendFields(final Class<	?> clazz) {

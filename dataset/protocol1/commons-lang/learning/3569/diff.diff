@@ -1,0 +1,4 @@
+866c866
+<                                             varLen, priorVariables);
+---
+>                                             varLen	, priorVariables);

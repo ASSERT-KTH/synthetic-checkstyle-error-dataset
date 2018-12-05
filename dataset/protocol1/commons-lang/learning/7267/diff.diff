@@ -1,0 +1,5 @@
+42c42,43
+<     private static final String FMT_TO_STRING = "ConstantInitializer@%d [ object = %s ]";
+---
+>     
+> private static final String FMT_TO_STRING = "ConstantInitializer@%d [ object = %s ]";

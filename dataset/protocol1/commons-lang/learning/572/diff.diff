@@ -1,0 +1,4 @@
+121c121
+<     public final CharSequenceTranslator with(final CharSequenceTranslator... translators) {
+---
+>     public final CharSequenceTranslator with(final CharSequenceTranslator... translators	) {

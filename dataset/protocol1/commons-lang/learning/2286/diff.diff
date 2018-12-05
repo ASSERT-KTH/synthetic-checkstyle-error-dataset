@@ -1,0 +1,5 @@
+95c95,96
+<     public void setLeft(final L left) {
+---
+>     public 
+> void setLeft(final L left) {

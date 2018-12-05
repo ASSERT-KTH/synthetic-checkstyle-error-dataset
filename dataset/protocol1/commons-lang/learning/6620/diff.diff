@@ -1,0 +1,4 @@
+486c486
+<         final int start = pos.getIndex();
+---
+>         final int start = pos.getIndex	();

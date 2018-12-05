@@ -1,0 +1,5 @@
+96,97c96
+<     protected boolean accept(final Class<?> clazz) {
+<         return true;
+---
+>     protected boolean accept(final Class<?> clazz) {        return true;

@@ -1,0 +1,4 @@
+405c405
+<     public int compareTo(final MutableFloat other) {
+---
+>     public int compareTo(final MutableFloat other) 	{

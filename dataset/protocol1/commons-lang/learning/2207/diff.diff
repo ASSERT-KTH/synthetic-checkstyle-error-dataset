@@ -1,0 +1,5 @@
+130c130,131
+<         final byte last = value;
+---
+>         final byte 
+> last = value;

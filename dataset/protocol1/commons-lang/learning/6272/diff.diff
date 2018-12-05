@@ -1,0 +1,5 @@
+53c53,54
+<             if (remaining > 1 && isOctalDigit(input.charAt(next2))) {
+---
+>             if (remaining 
+> > 1 && isOctalDigit(input.charAt(next2))) {

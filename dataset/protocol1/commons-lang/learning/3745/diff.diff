@@ -1,0 +1,4 @@
+745c745
+<     public EqualsBuilder append(final char lhs, final char rhs) {
+---
+>     public EqualsBuilder append(	final char lhs, final char rhs) {

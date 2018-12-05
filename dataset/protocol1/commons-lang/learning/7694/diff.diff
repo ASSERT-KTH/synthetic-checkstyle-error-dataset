@@ -1,0 +1,5 @@
+572,573c572
+<             case 2: {
+<                 final char ch0 = str.charAt(0);
+---
+>             case 2: {                final char ch0 = str.charAt(0);

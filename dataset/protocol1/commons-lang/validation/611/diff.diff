@@ -1,0 +1,5 @@
+241,242c241
+<     private static float toFloatVersion(final String value) {
+<         final int defaultReturnValue = -1;
+---
+>     private static float toFloatVersion(final String value) {        final int defaultReturnValue = -1;

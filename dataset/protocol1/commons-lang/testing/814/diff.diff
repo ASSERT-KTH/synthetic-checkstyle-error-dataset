@@ -1,0 +1,5 @@
+60c60,61
+<     public final L left;
+---
+>     
+> public final L left;

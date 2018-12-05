@@ -1,0 +1,4 @@
+64c64
+<         MemberUtils.setAccessibleWorkaround(field);
+---
+>         MemberUtils.setAccessibleWorkaround(field)	;

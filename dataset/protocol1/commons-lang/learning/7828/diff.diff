@@ -1,0 +1,5 @@
+66,67c66
+<     public static NumericEntityEscaper below(final int codepoint) {
+<         return outsideOf(codepoint, Integer.MAX_VALUE);
+---
+>     public static NumericEntityEscaper below(final int codepoint) {        return outsideOf(codepoint, Integer.MAX_VALUE);

@@ -1,0 +1,4 @@
+276c276
+<         if (thisStart < 0 || start < 0 || length < 0) {
+---
+>         if (thisStart < 0 || start < 0 || length < 0) 	{

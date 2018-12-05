@@ -1,0 +1,5 @@
+136,137c136
+<     private static Locale parseLocale(final String str) {
+<         if (isISO639LanguageCode(str)) {
+---
+>     private static Locale parseLocale(final String str) {        if (isISO639LanguageCode(str)) {

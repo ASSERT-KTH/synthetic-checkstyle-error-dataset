@@ -1,0 +1,5 @@
+250c250,251
+<                 final Object[] entry = (Object[]) object;
+---
+>                 final Object[] entry = 
+> (Object[]) object;

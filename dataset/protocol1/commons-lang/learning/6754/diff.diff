@@ -1,0 +1,5 @@
+85c85,86
+<     String getPattern();
+---
+>     String 
+> getPattern();

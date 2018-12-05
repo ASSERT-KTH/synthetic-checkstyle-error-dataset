@@ -1,0 +1,4 @@
+1472c1472
+<             throw new IllegalArgumentException("nBools-1+srcPos is greater or equal to than 16");
+---
+>             throw 	new IllegalArgumentException("nBools-1+srcPos is greater or equal to than 16");

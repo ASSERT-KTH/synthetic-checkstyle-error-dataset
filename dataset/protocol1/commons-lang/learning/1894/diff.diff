@@ -1,0 +1,4 @@
+6630c6630
+<         final int pads = size - strLen;
+---
+>         final int 	pads = size - strLen;

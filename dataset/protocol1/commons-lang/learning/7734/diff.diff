@@ -1,0 +1,4 @@
+55c55
+<         if (thread != null && threadGroup.equals(thread.getThreadGroup())) {
+---
+>         if (thread != null && threadGroup.	equals(thread.getThreadGroup())) {

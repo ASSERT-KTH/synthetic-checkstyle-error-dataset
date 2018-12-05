@@ -1,0 +1,5 @@
+66c66,67
+< public abstract class AtomicInitializer<T> implements ConcurrentInitializer<T> {
+---
+> public abstract 
+> class AtomicInitializer<T> implements ConcurrentInitializer<T> {

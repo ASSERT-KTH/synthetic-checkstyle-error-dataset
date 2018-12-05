@@ -1,0 +1,4 @@
+71c71
+<     private boolean isOctalDigit(final char ch) {
+---
+>     private boolean isOctalDigit(final char 	ch) {

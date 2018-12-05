@@ -1,0 +1,5 @@
+877c877,878
+<         } else if (object instanceof float[]) {
+---
+>         } else if (object instanceof 
+> float[]) {

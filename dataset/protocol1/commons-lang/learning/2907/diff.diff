@@ -1,0 +1,5 @@
+829c829,830
+<                                     for (int i = 0; i < varNameExprChars.length; i++) {
+---
+>                                     for (int i = 0; 
+> i < varNameExprChars.length; i++) {

@@ -1,0 +1,4 @@
+150c150
+<         formatter.format(buf.toString());
+---
+>         formatter	.format(buf.toString());

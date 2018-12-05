@@ -1,0 +1,5 @@
+1558c1558,1559
+<         if (src.length - srcPos < 16) {
+---
+>         if (src.length - srcPos 
+> < 16) {

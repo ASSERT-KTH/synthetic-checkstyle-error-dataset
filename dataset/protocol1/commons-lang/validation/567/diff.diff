@@ -1,0 +1,5 @@
+92c92,93
+<     public static <T> Range<T> is(final T element, final Comparator<T> comparator) {
+---
+>     public static <T> Range<T> is(final T element, final Comparator<T> 
+> comparator) {

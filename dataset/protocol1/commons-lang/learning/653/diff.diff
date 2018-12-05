@@ -1,0 +1,5 @@
+58,59c58
+<         } catch (final InvocationTargetException e) {
+<             throw new RuntimeException("Unable to add listener.", e.getCause());
+---
+>         } catch (final InvocationTargetException e) {            throw new RuntimeException("Unable to add listener.", e.getCause());

@@ -1,0 +1,5 @@
+63,64c63
+<             this.options = EnumSet.copyOf(Arrays.asList(new OPTION[] { OPTION.semiColonRequired }));
+<         }
+---
+>             this.options = EnumSet.copyOf(Arrays.asList(new OPTION[] { OPTION.semiColonRequired }));        }

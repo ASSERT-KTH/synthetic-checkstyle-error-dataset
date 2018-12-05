@@ -1,0 +1,4 @@
+1521c1521
+<     public static final ParameterizedType parameterizeWithOwner(final Type owner, final Class<?> raw,
+---
+>     public static final ParameterizedType parameterizeWithOwner(final Type owner, final Class<?> raw	,

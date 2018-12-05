@@ -1,0 +1,4 @@
+847c847
+<     public static String toStringOnOff(final boolean bool) {
+---
+>     public static String toStringOnOff(final boolean 	bool) {

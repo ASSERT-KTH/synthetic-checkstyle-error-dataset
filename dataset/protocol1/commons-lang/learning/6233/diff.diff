@@ -1,0 +1,4 @@
+167c167
+<         {"\u0394", "&Delta;"}, // greek capital letter delta, U+0394 ISOgrk3 -->
+---
+>         	{"\u0394", "&Delta;"}, // greek capital letter delta, U+0394 ISOgrk3 -->

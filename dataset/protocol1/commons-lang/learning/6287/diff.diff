@@ -1,0 +1,4 @@
+115c115
+<         return format(parseObject(input));
+---
+>         return 	format(parseObject(input));

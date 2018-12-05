@@ -1,0 +1,4 @@
+167c167
+<     public boolean isArrayContentDetail() { // NOPMD as this is implementing the abstract class
+---
+>     public 	boolean isArrayContentDetail() { // NOPMD as this is implementing the abstract class

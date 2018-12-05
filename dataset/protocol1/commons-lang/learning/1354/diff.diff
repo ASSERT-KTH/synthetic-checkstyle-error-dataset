@@ -1,0 +1,4 @@
+7120c7120
+<     public static boolean isAlphanumericSpace(final CharSequence cs) {
+---
+>     public static boolean isAlphanumericSpace(final CharSequence cs	) {

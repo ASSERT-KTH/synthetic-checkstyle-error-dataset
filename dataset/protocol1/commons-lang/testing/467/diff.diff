@@ -1,0 +1,4 @@
+514c514
+<     public static void identityToString(final StringBuilder builder, final Object object) {
+---
+>     public static void identityToString(final StringBuilder builder, final Object object	) {

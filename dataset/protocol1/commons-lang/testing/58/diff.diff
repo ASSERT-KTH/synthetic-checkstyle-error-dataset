@@ -1,0 +1,5 @@
+86c86,87
+<     public ImmutablePair(final L left, final R right) {
+---
+>     public ImmutablePair(final L 
+> left, final R right) {

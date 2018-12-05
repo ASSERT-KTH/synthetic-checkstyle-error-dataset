@@ -1,0 +1,4 @@
+471c471
+<         public CheckIntervalData increment(final int delta) {
+---
+>         public CheckIntervalData increment(final int 	delta) {

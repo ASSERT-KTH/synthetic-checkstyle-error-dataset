@@ -1,0 +1,4 @@
+113c113
+<             return ((CharSequence) object).length() == 0;
+---
+>             return ((CharSequence) object).	length() == 0;

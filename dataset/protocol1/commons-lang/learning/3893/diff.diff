@@ -1,0 +1,5 @@
+85c85,86
+<     public static boolean isTrue(final Boolean bool) {
+---
+>     public 
+> static boolean isTrue(final Boolean bool) {

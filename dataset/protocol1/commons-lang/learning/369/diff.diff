@@ -1,0 +1,5 @@
+1505,1506c1505
+<             throw new IllegalArgumentException("nBools-1+srcPos is greater or equal to than 8");
+<         }
+---
+>             throw new IllegalArgumentException("nBools-1+srcPos is greater or equal to than 8");        }

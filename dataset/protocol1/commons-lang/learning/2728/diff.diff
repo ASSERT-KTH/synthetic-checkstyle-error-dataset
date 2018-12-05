@@ -1,0 +1,4 @@
+358c358
+<             HEX_DIGITS[(ch) & 15];
+---
+>             HEX_DIGITS[(ch) & 	15];

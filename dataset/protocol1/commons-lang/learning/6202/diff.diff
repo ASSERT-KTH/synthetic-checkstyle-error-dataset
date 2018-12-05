@@ -1,0 +1,4 @@
+263c263
+<     public double addAndGet(final Number operand) {
+---
+>     public double addAndGet	(final Number operand) {

@@ -1,0 +1,4 @@
+99c99
+<         callable = call;
+---
+>         callable = call	;

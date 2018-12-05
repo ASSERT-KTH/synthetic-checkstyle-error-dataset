@@ -1,0 +1,5 @@
+355c355,356
+<     public static String replaceFirst(final String text, final Pattern regex, final String replacement) {
+---
+>     public static String replaceFirst(final 
+> String text, final Pattern regex, final String replacement) {

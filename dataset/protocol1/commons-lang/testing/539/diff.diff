@@ -1,0 +1,5 @@
+95,96c95
+<     public void setValue(final float value) {
+<         this.value = value;
+---
+>     public void setValue(final float value) {        this.value = value;

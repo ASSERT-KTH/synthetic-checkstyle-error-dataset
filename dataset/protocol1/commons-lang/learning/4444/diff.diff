@@ -1,0 +1,4 @@
+239c239
+<         return new StrSubstitutor(StrLookup.systemPropertiesLookup()).replace(source);
+---
+>         return new StrSubstitutor(StrLookup.systemPropertiesLookup()).replace(source	);

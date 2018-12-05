@@ -1,0 +1,5 @@
+1214c1214,1215
+<     public static byte[] shortToByteArray(final short src, final int srcPos, final byte[] dst, final int dstPos,
+---
+>     public static byte[] shortToByteArray(final 
+> short src, final int srcPos, final byte[] dst, final int dstPos,

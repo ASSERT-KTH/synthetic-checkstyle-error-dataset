@@ -1,0 +1,4 @@
+575c575
+<         if (src.length == 0 && srcPos == 0 || 0 == nInts) {
+---
+>         if (src.length == 0 && srcPos == 0 || 0 	== nInts) {

@@ -1,0 +1,4 @@
+1239c1239
+<                 append(it.next());
+---
+>                 append(it.	next());

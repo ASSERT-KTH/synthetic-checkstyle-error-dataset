@@ -1,0 +1,5 @@
+163,164c163
+<     public int getAndDecrement() {
+<         final int last = value;
+---
+>     public int getAndDecrement() {        final int last = value;

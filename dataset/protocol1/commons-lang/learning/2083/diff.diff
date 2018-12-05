@@ -1,0 +1,5 @@
+543,544c543
+<                 uncapitalizeNext = true;
+<             } else if (uncapitalizeNext) {
+---
+>                 uncapitalizeNext = true;            } else if (uncapitalizeNext) {

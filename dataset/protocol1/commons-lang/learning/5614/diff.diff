@@ -1,0 +1,5 @@
+670c670,671
+<         final long s = (long) x + (long) y;
+---
+>         final 
+> long s = (long) x + (long) y;

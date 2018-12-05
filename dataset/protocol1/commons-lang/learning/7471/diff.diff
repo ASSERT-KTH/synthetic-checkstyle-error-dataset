@@ -1,0 +1,5 @@
+1665,1666c1665
+<         if (calendar == null) {
+<             throw  new IllegalArgumentException("The date must not be null");
+---
+>         if (calendar == null) {            throw  new IllegalArgumentException("The date must not be null");

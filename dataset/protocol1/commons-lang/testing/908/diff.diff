@@ -1,0 +1,5 @@
+107c107,108
+<         return replaceAll(text, regex, StringUtils.EMPTY);
+---
+>         
+> return replaceAll(text, regex, StringUtils.EMPTY);

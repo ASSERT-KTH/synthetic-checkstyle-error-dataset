@@ -1,0 +1,4 @@
+707c707
+<     public static boolean containsAllWords(final CharSequence word, final CharSequence... words) {
+---
+>     public static boolean containsAllWords(	final CharSequence word, final CharSequence... words) {

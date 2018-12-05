@@ -1,0 +1,4 @@
+123c123
+<           out.write(HEX_DIGITS[(codepoint >> 8) & 15]);
+---
+>           out.write(HEX_DIGITS[(codepoint >> 8) 	& 15]);

@@ -1,0 +1,4 @@
+57c57
+<     public static <L, M, R> ImmutableTriple<L, M, R> nullTriple() {
+---
+>     	public static <L, M, R> ImmutableTriple<L, M, R> nullTriple() {

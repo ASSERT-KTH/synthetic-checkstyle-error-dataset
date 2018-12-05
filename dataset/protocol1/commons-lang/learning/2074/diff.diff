@@ -1,0 +1,4 @@
+415c415
+<                 appendQuotedString(pattern, pos, sb);
+---
+>                 appendQuotedString(pattern, 	pos, sb);

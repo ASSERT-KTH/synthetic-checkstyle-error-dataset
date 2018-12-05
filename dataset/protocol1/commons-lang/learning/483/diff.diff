@@ -1,0 +1,4 @@
+204c204
+<                 set.add(CharRange.isIn(str.charAt(pos), str.charAt(pos + 2)));
+---
+>                 set.add(CharRange.isIn	(str.charAt(pos), str.charAt(pos + 2)));

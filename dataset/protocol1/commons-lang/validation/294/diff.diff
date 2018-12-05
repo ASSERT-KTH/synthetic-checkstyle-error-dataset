@@ -1,0 +1,4 @@
+43c43
+<     private final Comparator<T> comparator;
+---
+>     private final Comparator	<T> comparator;

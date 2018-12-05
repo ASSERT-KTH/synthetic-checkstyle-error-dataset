@@ -1,0 +1,5 @@
+94c94,95
+<     public static int nextInt(final int startInclusive, final int endExclusive) {
+---
+>     
+> public static int nextInt(final int startInclusive, final int endExclusive) {

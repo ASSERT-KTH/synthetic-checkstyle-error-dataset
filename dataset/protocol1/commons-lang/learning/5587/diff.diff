@@ -1,0 +1,5 @@
+47c47,48
+<             if (index + i < input.length() && input.charAt(index + i) == '+') {
+---
+>             if (index + i < input.length() && 
+> input.charAt(index + i) == '+') {

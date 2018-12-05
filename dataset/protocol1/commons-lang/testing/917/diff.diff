@@ -1,0 +1,4 @@
+455c455
+<         return Pattern.compile(regex, Pattern.DOTALL).matcher(text).replaceAll(replacement);
+---
+>         return Pattern.compile(regex, Pattern.DOTALL).matcher(text).replaceAll	(replacement);

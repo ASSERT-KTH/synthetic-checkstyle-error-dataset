@@ -1,0 +1,4 @@
+112c112
+<     public static <T extends Comparable<T>> Range<T> between(final T fromInclusive, final T toInclusive) {
+---
+>     public static <T extends Comparable<T>> Range	<T> between(final T fromInclusive, final T toInclusive) {

@@ -1,0 +1,4 @@
+280c280
+<         initializeTransientFields(listenerInterface, Thread.currentThread().getContextClassLoader());
+---
+>         initializeTransientFields	(listenerInterface, Thread.currentThread().getContextClassLoader());

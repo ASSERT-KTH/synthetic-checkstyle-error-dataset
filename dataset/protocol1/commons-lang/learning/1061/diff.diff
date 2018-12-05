@@ -1,0 +1,4 @@
+375c375
+<             switch (pattern.charAt(pos.getIndex())) {
+---
+>             switch (pattern.charAt(	pos.getIndex())) {

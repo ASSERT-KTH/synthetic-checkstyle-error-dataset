@@ -1,0 +1,4 @@
+86c86
+<         return append(seq, formatter, flags, width, precision, ' ', null);
+---
+>         return append(seq, formatter, flags, 	width, precision, ' ', null);

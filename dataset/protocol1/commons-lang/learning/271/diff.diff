@@ -1,0 +1,5 @@
+69c69,70
+<             final char temp = start;
+---
+>             final 
+> char temp = start;

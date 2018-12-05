@@ -1,0 +1,4 @@
+301c301
+<     public static <E extends Enum<E>> EnumSet<E> processBitVectors(final Class<E> enumClass, final long... values) {
+---
+>     public static <E extends Enum<E>> EnumSet	<E> processBitVectors(final Class<E> enumClass, final long... values) {

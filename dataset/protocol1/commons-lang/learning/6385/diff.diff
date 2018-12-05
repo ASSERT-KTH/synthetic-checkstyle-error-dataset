@@ -1,0 +1,4 @@
+432c432
+<                 comparison = comparator2.compare(lhs, rhs);
+---
+>                 comparison = comparator2.compare(lhs	, rhs);

@@ -1,0 +1,5 @@
+73c73,74
+<         Character inChars = null;
+---
+>         Character inChars 
+> = null;

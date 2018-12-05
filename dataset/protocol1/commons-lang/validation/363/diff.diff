@@ -1,0 +1,4 @@
+77c77
+<         if (prefixSet.contains(input.charAt(index))) {
+---
+>         	if (prefixSet.contains(input.charAt(index))) {

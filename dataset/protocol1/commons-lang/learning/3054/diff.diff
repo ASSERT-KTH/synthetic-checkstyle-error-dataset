@@ -1,0 +1,4 @@
+71c71
+<         protected String getShortClassName(final java.lang.Class<?> cls) {
+---
+>         protected String getShortClassName(final java.	lang.Class<?> cls) {

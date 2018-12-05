@@ -1,0 +1,4 @@
+538c538
+<         style.append(buffer, fieldName, array, null);
+---
+>         style.	append(buffer, fieldName, array, null);

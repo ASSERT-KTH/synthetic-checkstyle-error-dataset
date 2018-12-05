@@ -1,0 +1,5 @@
+639,640c639
+<                 for (final Type bound : lowerBounds) {
+<                     if (!isAssignable(toBound, bound, typeVarAssigns)) {
+---
+>                 for (final Type bound : lowerBounds) {                    if (!isAssignable(toBound, bound, typeVarAssigns)) {

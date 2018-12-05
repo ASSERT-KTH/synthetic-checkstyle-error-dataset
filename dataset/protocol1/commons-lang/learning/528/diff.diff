@@ -1,0 +1,4 @@
+574c574
+<             if (it.next() == null) {
+---
+>             if (	it.next() == null) {

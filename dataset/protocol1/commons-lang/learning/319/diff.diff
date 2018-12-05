@@ -1,0 +1,4 @@
+339c339
+<         return Short.valueOf(shortValue());
+---
+>         return Short	.valueOf(shortValue());

@@ -1,0 +1,4 @@
+291c291
+<         if (this.runningState != State.RUNNING) {
+---
+>         	if (this.runningState != State.RUNNING) {

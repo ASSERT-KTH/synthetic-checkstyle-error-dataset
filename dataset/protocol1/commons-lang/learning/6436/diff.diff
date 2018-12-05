@@ -1,0 +1,5 @@
+1695,1696c1695
+<                     || chars[i] == 'F')) {
+<                 return foundDigit;
+---
+>                     || chars[i] == 'F')) {                return foundDigit;

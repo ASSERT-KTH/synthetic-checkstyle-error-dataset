@@ -1,0 +1,5 @@
+840c840,841
+<             if (objectToTest instanceof long[]) {
+---
+>             if 
+> (objectToTest instanceof long[]) {

@@ -1,0 +1,5 @@
+236,237c236
+<             if (chars.contains(chr) == expect) {
+<                 buffer.append(chr);
+---
+>             if (chars.contains(chr) == expect) {                buffer.append(chr);

@@ -1,0 +1,5 @@
+296c296,297
+<     public static class NamePredicate implements ThreadPredicate, ThreadGroupPredicate {
+---
+>     public static class 
+> NamePredicate implements ThreadPredicate, ThreadGroupPredicate {

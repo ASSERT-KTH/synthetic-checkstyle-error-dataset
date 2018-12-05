@@ -1,0 +1,5 @@
+58,59c58
+<     public static boolean nextBoolean() {
+<         return RANDOM.nextBoolean();
+---
+>     public static boolean nextBoolean() {        return RANDOM.nextBoolean();

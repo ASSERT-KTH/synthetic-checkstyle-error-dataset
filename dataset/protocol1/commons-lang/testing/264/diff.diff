@@ -1,0 +1,5 @@
+53c53,54
+<     public abstract boolean translate(int codepoint, Writer out) throws IOException;
+---
+>     public abstract boolean translate(int codepoint, Writer out) throws 
+> IOException;

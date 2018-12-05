@@ -1,0 +1,5 @@
+910c910,911
+<             final Method[] methods = (ignoreAccess ? acls.getDeclaredMethods() : acls.getMethods());
+---
+>             final Method[] methods 
+> = (ignoreAccess ? acls.getDeclaredMethods() : acls.getMethods());

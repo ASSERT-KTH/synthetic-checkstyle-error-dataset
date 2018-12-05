@@ -1,0 +1,4 @@
+908c908
+<         final List<Method> annotatedMethods = new ArrayList<>();
+---
+>         final List<Method> annotatedMethods = 	new ArrayList<>();

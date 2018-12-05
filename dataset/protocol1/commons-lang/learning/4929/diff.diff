@@ -1,0 +1,4 @@
+365c365
+<     public synchronized int getAvailablePermits() {
+---
+>     public synchronized int getAvailablePermits(	) {

@@ -1,0 +1,4 @@
+74c74
+<     public MutableTriple(final L left, final M middle, final R right) {
+---
+>     public MutableTriple(final L left, final M middle, final 	R right) {

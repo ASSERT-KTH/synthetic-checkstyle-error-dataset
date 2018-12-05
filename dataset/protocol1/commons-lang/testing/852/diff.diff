@@ -1,0 +1,5 @@
+294c294,295
+<         this.stopTime = System.nanoTime();
+---
+>         
+> this.stopTime = System.nanoTime();

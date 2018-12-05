@@ -1,0 +1,4 @@
+1779c1779
+<         final Date truncatedDate1 = truncate(date1, field);
+---
+>         final 	Date truncatedDate1 = truncate(date1, field);

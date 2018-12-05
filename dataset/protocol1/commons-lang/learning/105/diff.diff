@@ -1,0 +1,4 @@
+54c54
+<     public CircuitBreakingException(final String message) {
+---
+>     public CircuitBreakingException(final 	String message) {

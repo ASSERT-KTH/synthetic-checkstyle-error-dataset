@@ -1,0 +1,4 @@
+131c131
+<         private final Map<String, V> map;
+---
+>         private final Map<String, V> map	;

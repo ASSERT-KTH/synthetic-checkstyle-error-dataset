@@ -1,0 +1,5 @@
+355c355,356
+<     public static Boolean toBooleanObject(final Integer value, final Integer trueValue, final Integer falseValue, final Integer nullValue) {
+---
+>     public static Boolean 
+> toBooleanObject(final Integer value, final Integer trueValue, final Integer falseValue, final Integer nullValue) {

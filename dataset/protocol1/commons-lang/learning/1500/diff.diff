@@ -1,0 +1,4 @@
+76c76
+<         for (int i = 1; i < sz; i++) {
+---
+>         for (int i 	= 1; i < sz; i++) {

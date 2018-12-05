@@ -1,0 +1,4 @@
+86c86
+<         return parser.parseObject(source, pos);
+---
+>         return parser.parseObject(source, 	pos);

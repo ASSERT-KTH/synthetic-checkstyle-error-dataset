@@ -1,0 +1,4 @@
+223c223
+<         return 83 + start + 7 * end + (negated ? 1 : 0);
+---
+>         return 83 + start + 7 * end + (	negated ? 1 : 0);

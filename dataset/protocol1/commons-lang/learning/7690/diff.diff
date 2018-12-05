@@ -1,0 +1,4 @@
+102c102
+<     private final String namingPattern;
+---
+>     private final 	String namingPattern;

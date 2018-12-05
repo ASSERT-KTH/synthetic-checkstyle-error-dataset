@@ -1,0 +1,4 @@
+349c349
+<                                 final char[] chars, final Random random) {
+---
+>                                 final 	char[] chars, final Random random) {

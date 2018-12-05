@@ -1,0 +1,5 @@
+341,342c341
+<     private static int arrayMemberHash(final Class<?> componentType, final Object o) {
+<         if (componentType.equals(Byte.TYPE)) {
+---
+>     private static int arrayMemberHash(final Class<?> componentType, final Object o) {        if (componentType.equals(Byte.TYPE)) {

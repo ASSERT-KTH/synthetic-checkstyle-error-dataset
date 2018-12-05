@@ -1,0 +1,5 @@
+205,206c205
+<     public short setShortValue(final short holder, final short value) {
+<         return (short) setValue(holder, value);
+---
+>     public short setShortValue(final short holder, final short value) {        return (short) setValue(holder, value);

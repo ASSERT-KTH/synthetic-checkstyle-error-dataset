@@ -1,0 +1,4 @@
+60c60
+<                 TypeUtils.getTypeArguments(getClass(), Diff.class).get(
+---
+>                 TypeUtils.getTypeArguments(getClass(	), Diff.class).get(

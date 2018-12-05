@@ -1,0 +1,4 @@
+123c123
+<         newArray[0] = this;
+---
+>         newArray[0] = this	;

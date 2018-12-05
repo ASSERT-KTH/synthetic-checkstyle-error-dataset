@@ -1,0 +1,5 @@
+264c264,265
+<                 throw new IllegalStateException("CsvEscaper should never reach the [1] index");
+---
+>                 throw 
+> new IllegalStateException("CsvEscaper should never reach the [1] index");

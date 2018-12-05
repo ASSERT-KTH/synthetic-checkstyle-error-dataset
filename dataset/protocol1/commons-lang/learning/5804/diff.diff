@@ -1,0 +1,4 @@
+1060c1060
+<         if (lhs == null || rhs == null) {
+---
+>         if (lhs == null || rhs 	== null) {

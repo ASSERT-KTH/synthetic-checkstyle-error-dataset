@@ -1,0 +1,4 @@
+223c223
+<         return duration.trim();
+---
+>         return duration.	trim();

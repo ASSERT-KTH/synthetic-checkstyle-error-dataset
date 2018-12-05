@@ -1,0 +1,5 @@
+427,428c427
+<         if (hashCode == 0) {
+<             result = 17;
+---
+>         if (hashCode == 0) {            result = 17;

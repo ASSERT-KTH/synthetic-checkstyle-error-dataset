@@ -1,0 +1,5 @@
+50,51c50
+<         if ("Z".equals(pattern) || "UTC".equals(pattern)) {
+<             return GREENWICH;
+---
+>         if ("Z".equals(pattern) || "UTC".equals(pattern)) {            return GREENWICH;

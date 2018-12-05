@@ -1,0 +1,4 @@
+1201c1201
+<         return bounds.length == 0 ? new Type[] { null } : bounds;
+---
+>         return bounds.length == 0 ? new Type[] { 	null } : bounds;

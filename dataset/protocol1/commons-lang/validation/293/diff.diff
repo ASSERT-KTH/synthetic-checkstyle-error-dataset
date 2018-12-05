@@ -1,0 +1,4 @@
+384c384
+<         if (this.equals(other)) {
+---
+>         if (	this.equals(other)) {

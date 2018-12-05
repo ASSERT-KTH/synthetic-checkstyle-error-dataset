@@ -1,0 +1,5 @@
+105c105,106
+<     public void setRight(final R right) {
+---
+>     public void setRight(final R 
+> right) {

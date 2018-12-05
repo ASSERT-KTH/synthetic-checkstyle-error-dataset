@@ -1,0 +1,4 @@
+192c192
+<     public static StrMatcher charSetMatcher(final String chars) {
+---
+>     public static StrMatcher charSetMatcher(final String chars) 	{

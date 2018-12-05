@@ -1,0 +1,4 @@
+346c346
+<         wrappedLine.append(str, offset, str.length());
+---
+>         wrappedLine.append(str, offset, str.length(	));

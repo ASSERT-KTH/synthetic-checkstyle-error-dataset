@@ -1,0 +1,5 @@
+308,309c308
+<     public long longValue() {
+<         return value;
+---
+>     public long longValue() {        return value;

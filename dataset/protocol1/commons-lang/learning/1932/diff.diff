@@ -1,0 +1,5 @@
+311,312c311
+<             throw new IllegalArgumentException("Cannot convert an empty array.");
+<         }
+---
+>             throw new IllegalArgumentException("Cannot convert an empty array.");        }

@@ -1,0 +1,4 @@
+600c600
+<         if (startIndex < 0 || startIndex > str.length()) {
+---
+>         if (startIndex < 0 || startIndex > 	str.length()) {

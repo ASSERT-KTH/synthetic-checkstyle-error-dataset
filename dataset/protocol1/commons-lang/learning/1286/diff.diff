@@ -1,0 +1,5 @@
+1225c1225,1226
+<             for (final Type bound : getImplicitBounds(typeVar)) {
+---
+>             for (final Type bound 
+> : getImplicitBounds(typeVar)) {

@@ -1,0 +1,4 @@
+81c81
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final Collection<?> coll) {
+---
+>     protected void appendDetail(	final StringBuffer buffer, final String fieldName, final Collection<?> coll) {

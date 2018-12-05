@@ -1,0 +1,5 @@
+210,211c210
+<     int getListenerCount() {
+<         return listeners.size();
+---
+>     int getListenerCount() {        return listeners.size();

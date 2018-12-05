@@ -1,0 +1,4 @@
+66c66
+<     private static final StrMatcher DOUBLE_QUOTE_MATCHER = new CharMatcher('"');
+---
+>     private static final StrMatcher DOUBLE_QUOTE_MATCHER = new CharMatcher(	'"');

@@ -1,0 +1,4 @@
+798c798
+<                                         pos, offset, bufEnd)) != 0) {
+---
+>                                         pos, offset, bufEnd)) != 	0) {

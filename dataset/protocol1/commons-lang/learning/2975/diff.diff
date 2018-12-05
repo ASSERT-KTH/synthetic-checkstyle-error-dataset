@@ -1,0 +1,4 @@
+1004c1004
+<         return setVariablePrefixMatcher(StrMatcher.charMatcher(prefix));
+---
+>         return setVariablePrefixMatcher(	StrMatcher.charMatcher(prefix));

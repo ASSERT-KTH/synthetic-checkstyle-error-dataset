@@ -1,0 +1,5 @@
+365,366c365
+<         }
+<         return Arrays.hashCode((Object[]) o);
+---
+>         }        return Arrays.hashCode((Object[]) o);

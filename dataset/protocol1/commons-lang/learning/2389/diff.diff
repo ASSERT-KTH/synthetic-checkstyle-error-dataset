@@ -1,0 +1,4 @@
+63c63
+<     public static String squeeze(final String str, final String... set) {
+---
+>     public static String squeeze(final String str, final String... set) 	{

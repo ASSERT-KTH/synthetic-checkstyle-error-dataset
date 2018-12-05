@@ -1,0 +1,5 @@
+677,678c677
+<         } else if (lhs instanceof double[]) {
+<             append((double[]) lhs, (double[]) rhs);
+---
+>         } else if (lhs instanceof double[]) {            append((double[]) lhs, (double[]) rhs);

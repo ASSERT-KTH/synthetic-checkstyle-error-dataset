@@ -1,0 +1,4 @@
+117c117
+<                             readField(field, right, true));
+---
+>                             readField(field, right, true	));

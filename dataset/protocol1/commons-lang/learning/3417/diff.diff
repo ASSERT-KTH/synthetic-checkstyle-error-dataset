@@ -1,0 +1,5 @@
+91c91,92
+<     private final Set<CharRange> set = Collections.synchronizedSet(new HashSet<>());
+---
+>     private final Set<CharRange> set 
+> = Collections.synchronizedSet(new HashSet<>());

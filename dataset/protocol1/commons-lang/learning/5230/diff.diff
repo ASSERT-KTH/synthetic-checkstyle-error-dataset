@@ -1,0 +1,4 @@
+491c491
+<     public EqualsBuilder reflectionAppend(final Object lhs, final Object rhs) {
+---
+>     public EqualsBuilder reflectionAppend(final Object 	lhs, final Object rhs) {

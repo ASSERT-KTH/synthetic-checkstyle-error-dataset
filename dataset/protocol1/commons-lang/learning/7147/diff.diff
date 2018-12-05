@@ -1,0 +1,5 @@
+690c690,691
+<     public static <T extends Collection<?>> T validIndex(final T collection, final int index, final String message, final Object... values) {
+---
+>     public static <T extends Collection<?>> T validIndex(final 
+> T collection, final int index, final String message, final Object... values) {

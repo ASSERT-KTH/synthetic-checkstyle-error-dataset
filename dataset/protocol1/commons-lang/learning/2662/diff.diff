@@ -1,0 +1,4 @@
+32c32
+< public interface Mutable<T> {
+---
+> public interface Mutable<T> 	{

@@ -1,0 +1,4 @@
+519c519
+<         final Set<IDKey> registry = getRegistry();
+---
+>         final Set<IDKey> registry = getRegistry()	;

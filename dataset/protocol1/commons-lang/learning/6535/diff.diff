@@ -1,0 +1,5 @@
+173,174c173
+<         public String lookup(final String key) {
+<             if (!key.isEmpty()) {
+---
+>         public String lookup(final String key) {            if (!key.isEmpty()) {

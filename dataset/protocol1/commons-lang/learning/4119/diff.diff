@@ -1,0 +1,4 @@
+130c130
+<             } catch (final NoSuchFieldException ex) { // NOPMD
+---
+>             } catch 	(final NoSuchFieldException ex) { // NOPMD

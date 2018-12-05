@@ -1,0 +1,5 @@
+56,57c56
+<             if (consumed != 0) {
+<                 return consumed;
+---
+>             if (consumed != 0) {                return consumed;

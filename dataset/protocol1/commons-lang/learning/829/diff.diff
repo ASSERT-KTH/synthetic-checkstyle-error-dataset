@@ -1,0 +1,4 @@
+253c253
+<     public String getFormattedExceptionMessage(final String baseMessage) {
+---
+>     public String 	getFormattedExceptionMessage(final String baseMessage) {

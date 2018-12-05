@@ -1,0 +1,5 @@
+188,189c188
+<                 if (cs.charAt(i) == searchChar) {
+<                     return i;
+---
+>                 if (cs.charAt(i) == searchChar) {                    return i;

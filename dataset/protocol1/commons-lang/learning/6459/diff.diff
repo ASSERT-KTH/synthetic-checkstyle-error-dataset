@@ -1,0 +1,4 @@
+80c80
+<     public CallableBackgroundInitializer(final Callable<T> call) {
+---
+>     public CallableBackgroundInitializer	(final Callable<T> call) {

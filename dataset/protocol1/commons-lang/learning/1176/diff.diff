@@ -1,0 +1,4 @@
+101c101
+<         return String.format("[%s: %s, %s]", fieldName, getLeft(), getRight());
+---
+>         return String.format("[%s: %s, %s]"	, fieldName, getLeft(), getRight());

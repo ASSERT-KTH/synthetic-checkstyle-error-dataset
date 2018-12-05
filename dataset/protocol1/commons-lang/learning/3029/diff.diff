@@ -1,0 +1,4 @@
+159c159
+<         super.appendDetail(buffer, fieldName, array);
+---
+>         super	.appendDetail(buffer, fieldName, array);

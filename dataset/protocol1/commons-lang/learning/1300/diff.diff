@@ -1,0 +1,5 @@
+786c786,787
+<             final int value = Integer.parseInt(source.substring(pos.getIndex(), idx));
+---
+>             final 
+> int value = Integer.parseInt(source.substring(pos.getIndex(), idx));

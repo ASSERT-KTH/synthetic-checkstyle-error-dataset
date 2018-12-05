@@ -1,0 +1,4 @@
+68c68
+<             min = min(array[i], min);
+---
+>             	min = min(array[i], min);

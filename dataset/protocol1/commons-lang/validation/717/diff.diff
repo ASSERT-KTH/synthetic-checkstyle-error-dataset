@@ -1,0 +1,4 @@
+431c431
+<     public static String toStringExclude(final Object object, final String... excludeFieldNames) {
+---
+>     public static 	String toStringExclude(final Object object, final String... excludeFieldNames) {

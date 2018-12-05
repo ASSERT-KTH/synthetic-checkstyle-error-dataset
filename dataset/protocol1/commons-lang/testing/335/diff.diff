@@ -1,0 +1,4 @@
+415c415
+<             return System.nanoTime() - this.startTime;
+---
+>             return System.nanoTime() - this.	startTime;

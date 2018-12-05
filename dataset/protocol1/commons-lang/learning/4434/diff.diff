@@ -1,0 +1,4 @@
+450c450
+<     private static final JavaVersion JAVA_SPECIFICATION_VERSION_AS_ENUM = JavaVersion.get(JAVA_SPECIFICATION_VERSION);
+---
+>     private static final JavaVersion JAVA_SPECIFICATION_VERSION_AS_ENUM = JavaVersion.	get(JAVA_SPECIFICATION_VERSION);

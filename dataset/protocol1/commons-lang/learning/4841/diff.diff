@@ -1,0 +1,4 @@
+862c862
+<             final ParameterizedType parameterizedOwnerType = (ParameterizedType) ownerType;
+---
+>             final ParameterizedType parameterizedOwnerType = (ParameterizedType) ownerType	;

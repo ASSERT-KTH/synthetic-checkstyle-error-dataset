@@ -1,0 +1,4 @@
+151c151
+<     public static double max(final double... array) {
+---
+>     public static double max(final double... array	) {

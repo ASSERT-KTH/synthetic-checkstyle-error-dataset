@@ -1,0 +1,5 @@
+718c718,719
+<     public static <T extends Collection<?>> T validIndex(final T collection, final int index) {
+---
+>     public static <T extends Collection<?>> 
+> T validIndex(final T collection, final int index) {

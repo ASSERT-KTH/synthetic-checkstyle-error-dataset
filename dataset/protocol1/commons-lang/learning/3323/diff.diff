@@ -1,0 +1,4 @@
+261c261
+<         Collections.addAll(condensed, values);
+---
+>         Collections.addAll(condensed, 	values);

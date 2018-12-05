@@ -1,0 +1,5 @@
+1620,1621c1620
+<                         && (chars[i] < 'A' || chars[i] > 'F')) {
+<                         return false;
+---
+>                         && (chars[i] < 'A' || chars[i] > 'F')) {                        return false;

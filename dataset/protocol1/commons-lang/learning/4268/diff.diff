@@ -1,0 +1,4 @@
+313c313
+<     public static Object readStaticField(final Class<?> cls, final String fieldName) throws IllegalAccessException {
+---
+>     public static Object readStaticField(final Class<?> cls, final 	String fieldName) throws IllegalAccessException {

@@ -1,0 +1,4 @@
+554c554
+<         super.setSummaryObjectEndText(summaryObjectEndText);
+---
+>         super.setSummaryObjectEndText	(summaryObjectEndText);

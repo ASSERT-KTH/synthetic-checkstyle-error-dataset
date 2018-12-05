@@ -1,0 +1,5 @@
+1415,1416c1415
+<                 result = ArrayUtils.remove(result, i--);
+<             } else {
+---
+>                 result = ArrayUtils.remove(result, i--);            } else {

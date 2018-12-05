@@ -1,0 +1,4 @@
+117c117
+<         return Float.isNaN(value);
+---
+>         	return Float.isNaN(value);

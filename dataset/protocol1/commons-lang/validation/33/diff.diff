@@ -1,0 +1,4 @@
+2511c2511
+<             super.append(buffer, fieldName, array, fullDetail);
+---
+>             super.append	(buffer, fieldName, array, fullDetail);

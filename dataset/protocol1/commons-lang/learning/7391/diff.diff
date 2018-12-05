@@ -1,0 +1,5 @@
+88c88,89
+<         return new UnicodeEscaper(codepointLow, codepointHigh, false);
+---
+>         return new UnicodeEscaper(codepointLow, codepointHigh, 
+> false);

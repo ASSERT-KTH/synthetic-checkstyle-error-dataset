@@ -1,0 +1,5 @@
+135c135,136
+<         return future != null;
+---
+>         return future != 
+> null;

@@ -1,0 +1,4 @@
+78c78
+<         addEventListener(eventSource, listenerType, listener);
+---
+>         addEventListener(eventSource, 	listenerType, listener);

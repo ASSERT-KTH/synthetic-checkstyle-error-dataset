@@ -1,0 +1,5 @@
+188c188,189
+<         if (numeratorValue < Integer.MIN_VALUE || numeratorValue > Integer.MAX_VALUE) {
+---
+>         if (numeratorValue < 
+> Integer.MIN_VALUE || numeratorValue > Integer.MAX_VALUE) {

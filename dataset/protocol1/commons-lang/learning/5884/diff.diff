@@ -1,0 +1,4 @@
+3510c3510
+<     public static String[] splitPreserveAllTokens(final String str, final char separatorChar) {
+---
+>     public static 	String[] splitPreserveAllTokens(final String str, final char separatorChar) {

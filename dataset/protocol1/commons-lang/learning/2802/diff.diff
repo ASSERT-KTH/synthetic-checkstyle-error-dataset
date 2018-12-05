@@ -1,0 +1,4 @@
+661c661
+<                     return Long.valueOf(rhs);
+---
+>                     return Long.valueOf(rhs)	;

@@ -1,0 +1,5 @@
+583c583,584
+<         case 'h':  // Hour in am/pm (1-12), i.e. midday/midnight is 12, not 0
+---
+>         case 
+> 'h':  // Hour in am/pm (1-12), i.e. midday/midnight is 12, not 0

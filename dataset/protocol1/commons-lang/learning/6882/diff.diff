@@ -1,0 +1,4 @@
+201c201
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final float[] array) {
+---
+>     protected void appendDetail(final StringBuffer 	buffer, final String fieldName, final float[] array) {

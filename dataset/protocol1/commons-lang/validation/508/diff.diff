@@ -1,0 +1,4 @@
+388c388
+<         final T max = getComparator().compare(maximum, other.maximum) < 0 ? maximum : other.maximum;
+---
+>         final T max = getComparator().compare(maximum, other.maximum) 	< 0 ? maximum : other.maximum;

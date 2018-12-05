@@ -1,0 +1,5 @@
+102c102,103
+<         if (!(obj instanceof TypeLiteral)) {
+---
+>         if (!(obj instanceof 
+> TypeLiteral)) {

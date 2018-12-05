@@ -1,0 +1,5 @@
+1219c1219,1220
+<         if (iterable != null) {
+---
+>         if (iterable != 
+> null) {

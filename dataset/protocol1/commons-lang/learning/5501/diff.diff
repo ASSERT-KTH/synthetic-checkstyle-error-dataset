@@ -1,0 +1,4 @@
+178c178
+<         return StringUtils.isAllUpperCase(str) && str.length() == 2;
+---
+>         return StringUtils.isAllUpperCase(str) && 	str.length() == 2;

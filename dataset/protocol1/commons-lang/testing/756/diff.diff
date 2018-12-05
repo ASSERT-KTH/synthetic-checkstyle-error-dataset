@@ -1,0 +1,5 @@
+3277,3278c3277
+<             for (int i = startIndex; i >= 0; i--) {
+<                 if (array[i] == null) {
+---
+>             for (int i = startIndex; i >= 0; i--) {                if (array[i] == null) {

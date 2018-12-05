@@ -1,0 +1,5 @@
+175,176c175
+<             return value == ((MutableBoolean) obj).booleanValue();
+<         }
+---
+>             return value == ((MutableBoolean) obj).booleanValue();        }

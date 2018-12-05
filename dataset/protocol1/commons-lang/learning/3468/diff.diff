@@ -1,0 +1,4 @@
+450c450
+<             len = StrMatcher.splitMatcher().isMatch(buffer, pos.getIndex());
+---
+>             len = StrMatcher.splitMatcher(	).isMatch(buffer, pos.getIndex());

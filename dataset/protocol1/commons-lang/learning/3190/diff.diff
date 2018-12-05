@@ -1,0 +1,5 @@
+112,113c112
+<     public NotImplementedException(final String message, final Throwable cause, final String code) {
+<         super(message, cause);
+---
+>     public NotImplementedException(final String message, final Throwable cause, final String code) {        super(message, cause);

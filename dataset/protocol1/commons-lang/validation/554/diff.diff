@@ -1,0 +1,5 @@
+257c257,258
+<     public boolean isEndedBy(final T element) {
+---
+>     public boolean isEndedBy(final T 
+> element) {

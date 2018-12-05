@@ -1,0 +1,4 @@
+146c146
+<     public double getAndIncrement() {
+---
+>     public double getAndIncrement() 	{

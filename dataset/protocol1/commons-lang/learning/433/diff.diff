@@ -1,0 +1,4 @@
+208c208
+<     public static Fraction getReducedFraction(int numerator, int denominator) {
+---
+>     public 	static Fraction getReducedFraction(int numerator, int denominator) {

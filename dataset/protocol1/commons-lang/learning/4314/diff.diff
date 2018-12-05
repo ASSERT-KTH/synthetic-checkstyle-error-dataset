@@ -1,0 +1,5 @@
+673c673,674
+<             for (int idx = 0; idx < formatField.length(); ++idx) {
+---
+>             for (int idx = 0; 
+> idx < formatField.length(); ++idx) {

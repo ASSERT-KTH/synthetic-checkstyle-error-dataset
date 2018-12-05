@@ -1,0 +1,4 @@
+137c137
+<         Validate.isTrue(init != null, "Child initializer must not be null!");
+---
+>         Validate.isTrue(	init != null, "Child initializer must not be null!");

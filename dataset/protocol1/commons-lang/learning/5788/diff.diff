@@ -1,0 +1,4 @@
+648c648
+<             throw new IllegalArgumentException("offset cannot be negative");
+---
+>             throw 	new IllegalArgumentException("offset cannot be negative");

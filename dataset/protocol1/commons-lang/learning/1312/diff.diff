@@ -1,0 +1,4 @@
+130c130
+<         return ARCH_TO_PROCESSOR.get(value);
+---
+>         return ARCH_TO_PROCESSOR.get	(value);

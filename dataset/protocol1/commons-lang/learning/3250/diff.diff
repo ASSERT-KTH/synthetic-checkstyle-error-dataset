@@ -1,0 +1,4 @@
+260c260
+<         objectOutputStream.writeObject(serializableListeners.toArray(prototypeArray));
+---
+>         objectOutputStream.writeObject(serializableListeners.	toArray(prototypeArray));

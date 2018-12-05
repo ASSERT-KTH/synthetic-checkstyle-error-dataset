@@ -1,0 +1,5 @@
+1181c1181,1182
+<     public void append(final StringBuffer buffer, final String fieldName, final byte[] array, final Boolean fullDetail) {
+---
+>     public void append(final StringBuffer buffer, 
+> final String fieldName, final byte[] array, final Boolean fullDetail) {

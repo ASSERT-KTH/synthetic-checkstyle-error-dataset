@@ -1,0 +1,4 @@
+1018c1018
+<     public static final boolean IS_OS_AIX = getOsMatchesName("AIX");
+---
+>     public static final boolean IS_OS_AIX = getOsMatchesName("AIX"	);

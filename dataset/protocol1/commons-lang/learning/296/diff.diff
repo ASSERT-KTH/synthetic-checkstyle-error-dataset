@@ -1,0 +1,4 @@
+244c244
+<     public static <T> Constructor<T> getMatchingAccessibleConstructor(final Class<T> cls,
+---
+>     public static <T> Constructor<T> getMatchingAccessibleConstructor(final Class<	T> cls,

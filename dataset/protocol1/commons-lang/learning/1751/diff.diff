@@ -1,0 +1,4 @@
+639c639
+<         while (frames.hasMoreTokens()) {
+---
+>         while (	frames.hasMoreTokens()) {

@@ -1,0 +1,4 @@
+1073c1073
+<     public static void inclusiveBetween(final double start, final double end, final double value) {
+---
+>     public static void inclusiveBetween(final double start, final double end, final double value) 	{

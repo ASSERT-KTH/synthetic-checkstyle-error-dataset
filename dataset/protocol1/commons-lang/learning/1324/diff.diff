@@ -1,0 +1,4 @@
+56c56
+<     public ConstantInitializer(final T obj) {
+---
+>     public ConstantInitializer(	final T obj) {

@@ -1,0 +1,5 @@
+837c837,838
+<                                             varDefaultValue = varNameExpr.substring(i + valueDelimiterMatchLen);
+---
+>                                             
+> varDefaultValue = varNameExpr.substring(i + valueDelimiterMatchLen);

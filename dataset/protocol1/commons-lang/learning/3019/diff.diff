@@ -1,0 +1,5 @@
+395,396c395
+<     long now() {
+<         return System.nanoTime();
+---
+>     long now() {        return System.nanoTime();

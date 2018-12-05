@@ -1,0 +1,4 @@
+770c770
+<                     result = Array.newInstance(componentType, length);
+---
+>                     result = Array.newInstance(	componentType, length);

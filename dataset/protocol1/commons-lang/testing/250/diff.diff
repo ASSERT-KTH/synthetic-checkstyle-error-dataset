@@ -1,0 +1,5 @@
+2232c2232,2233
+<         int pos = size - len;
+---
+>         int pos = size - 
+> len;

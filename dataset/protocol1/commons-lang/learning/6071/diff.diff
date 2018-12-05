@@ -1,0 +1,4 @@
+303c303
+<     public static final String JAVA_EXT_DIRS = getSystemProperty("java.ext.dirs");
+---
+>     public static final String JAVA_EXT_DIRS = getSystemProperty(	"java.ext.dirs");

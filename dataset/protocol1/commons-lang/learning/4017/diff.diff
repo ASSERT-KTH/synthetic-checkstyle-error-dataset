@@ -1,0 +1,5 @@
+164,165c164
+<     public static int hashCode(final Annotation a) {
+<         int result = 0;
+---
+>     public static int hashCode(final Annotation a) {        int result = 0;

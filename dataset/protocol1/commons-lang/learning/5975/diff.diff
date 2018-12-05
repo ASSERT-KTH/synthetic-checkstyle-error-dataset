@@ -1,0 +1,5 @@
+136,137c136
+<             } catch (final ExecutionException e) {
+<                 if (recalculate) {
+---
+>             } catch (final ExecutionException e) {                if (recalculate) {

@@ -1,0 +1,4 @@
+1427c1427
+<     public static final boolean IS_OS_WINDOWS_NT = getOsMatchesName(OS_NAME_WINDOWS_PREFIX + " NT");
+---
+>     public static final boolean IS_OS_WINDOWS_NT = 	getOsMatchesName(OS_NAME_WINDOWS_PREFIX + " NT");

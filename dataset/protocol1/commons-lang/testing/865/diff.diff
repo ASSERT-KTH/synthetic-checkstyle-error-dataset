@@ -1,0 +1,4 @@
+982c982
+<     public StrBuilder appendln(final String str) {
+---
+>     public StrBuilder appendln(final 	String str) {

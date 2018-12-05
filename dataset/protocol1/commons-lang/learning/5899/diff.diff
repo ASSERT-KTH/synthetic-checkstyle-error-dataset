@@ -1,0 +1,5 @@
+523,524c523
+<                 removeCommonFrames(trace, nextTrace);
+<             }
+---
+>                 removeCommonFrames(trace, nextTrace);            }

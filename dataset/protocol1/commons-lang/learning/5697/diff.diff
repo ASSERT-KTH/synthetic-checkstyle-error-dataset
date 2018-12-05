@@ -1,0 +1,4 @@
+1519c1519
+<         return new File(System.getProperty(JAVA_HOME_KEY));
+---
+>         return 	new File(System.getProperty(JAVA_HOME_KEY));

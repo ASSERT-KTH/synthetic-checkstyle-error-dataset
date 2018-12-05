@@ -1,0 +1,4 @@
+820c820
+<         private static final String GMT_OPTION = TimeZones.GMT_ID + "[+-]\\d{1,2}:\\d{2}";
+---
+>         private static final String GMT_OPTION = TimeZones	.GMT_ID + "[+-]\\d{1,2}:\\d{2}";

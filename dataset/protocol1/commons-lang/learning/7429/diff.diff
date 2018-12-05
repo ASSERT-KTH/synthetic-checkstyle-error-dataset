@@ -1,0 +1,5 @@
+262c262,263
+<     static boolean regionMatches(final CharSequence cs, final boolean ignoreCase, final int thisStart,
+---
+>     static boolean regionMatches(final 
+> CharSequence cs, final boolean ignoreCase, final int thisStart,

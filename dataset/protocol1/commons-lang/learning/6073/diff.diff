@@ -1,0 +1,4 @@
+283c283
+<         return !ObjectUtils.notEqual(registry, rhs.registry);
+---
+>         return 	!ObjectUtils.notEqual(registry, rhs.registry);

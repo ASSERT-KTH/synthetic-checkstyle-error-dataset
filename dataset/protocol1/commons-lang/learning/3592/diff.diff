@@ -1,0 +1,4 @@
+111c111
+<             changeSupport.firePropertyChange(PROPERTY_NAME, !isOpen(newState), isOpen(newState));
+---
+>             changeSupport.firePropertyChange(PROPERTY_NAME, !	isOpen(newState), isOpen(newState));

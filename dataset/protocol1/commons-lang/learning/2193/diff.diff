@@ -1,0 +1,4 @@
+818c818
+<         if ((nHex - 1) * 4 + dstPos >= 32) {
+---
+>         if ((nHex - 	1) * 4 + dstPos >= 32) {

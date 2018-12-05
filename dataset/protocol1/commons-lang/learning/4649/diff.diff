@@ -1,0 +1,4 @@
+2289c2289
+<     public static int indexOfAnyBut(final CharSequence cs, final char... searchChars) {
+---
+>     public static int 	indexOfAnyBut(final CharSequence cs, final char... searchChars) {

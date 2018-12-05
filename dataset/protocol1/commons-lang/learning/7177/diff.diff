@@ -1,0 +1,4 @@
+289c289
+<         if (!lhsClazz.isInstance(rhs)) {
+---
+>         if (!lhsClazz.isInstance(	rhs)) {

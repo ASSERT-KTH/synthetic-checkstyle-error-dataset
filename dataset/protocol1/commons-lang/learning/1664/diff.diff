@@ -1,0 +1,5 @@
+49,50c49
+<             MethodUtils.invokeMethod(eventSource, "add" + listenerType.getSimpleName(), listener);
+<         } catch (final NoSuchMethodException e) {
+---
+>             MethodUtils.invokeMethod(eventSource, "add" + listenerType.getSimpleName(), listener);        } catch (final NoSuchMethodException e) {

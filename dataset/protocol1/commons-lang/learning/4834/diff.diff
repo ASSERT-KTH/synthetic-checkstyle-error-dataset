@@ -1,0 +1,4 @@
+907c907
+<             } else if ((numerator > 0 ? -numerator : numerator) < -denominator) {
+---
+>             } else if ((numerator > 0 ? -numerator : numerator) < -denominator) 	{

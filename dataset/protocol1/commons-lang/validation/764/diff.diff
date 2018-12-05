@@ -1,0 +1,5 @@
+82c82,83
+<     public final Type value;
+---
+>     public 
+> final Type value;

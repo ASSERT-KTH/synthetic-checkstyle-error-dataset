@@ -1,0 +1,4 @@
+1706c1706
+<         return buf.append(':').append(typeVariableToString(var)).toString();
+---
+>         return buf.append(':').append(typeVariableToString(var)).toString	();

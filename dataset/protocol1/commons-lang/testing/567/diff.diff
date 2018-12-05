@@ -1,0 +1,4 @@
+1113c1113
+<     public StrBuilder appendln(final char[] chars, final int startIndex, final int length) {
+---
+>     public StrBuilder appendln	(final char[] chars, final int startIndex, final int length) {

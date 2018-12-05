@@ -1,0 +1,5 @@
+63c63,64
+<     private final long threshold;
+---
+>     
+> private final long threshold;

@@ -1,0 +1,4 @@
+845c845
+<         if (strLen > 0) {
+---
+>         if (strLen > 	0) {

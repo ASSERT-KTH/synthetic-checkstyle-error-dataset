@@ -1,0 +1,5 @@
+168c168,169
+<     private static class SystemPropertiesStrLookup extends StrLookup<String> {
+---
+>     private static class SystemPropertiesStrLookup 
+> extends StrLookup<String> {

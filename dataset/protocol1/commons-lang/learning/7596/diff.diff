@@ -1,0 +1,4 @@
+758c758
+<             final int shift = i * 8 + dstPos;
+---
+>             final 	int shift = i * 8 + dstPos;

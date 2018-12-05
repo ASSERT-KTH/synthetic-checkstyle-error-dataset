@@ -1,0 +1,4 @@
+360c360
+<     public static String format(final Calendar calendar, final String pattern, final Locale locale) {
+---
+>     public 	static String format(final Calendar calendar, final String pattern, final Locale locale) {

@@ -1,0 +1,4 @@
+298c298
+<         {"\u22A5", "&perp;"}, // up tack = orthogonal to = perpendicular, U+22A5 ISOtech -->
+---
+>         	{"\u22A5", "&perp;"}, // up tack = orthogonal to = perpendicular, U+22A5 ISOtech -->

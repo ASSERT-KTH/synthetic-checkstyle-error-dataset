@@ -1,0 +1,4 @@
+246c246
+<     public int addAndGet(final Number operand) {
+---
+>     public int addAndGet(final Number operand) 	{

@@ -1,0 +1,4 @@
+42c42
+< public interface CircuitBreaker<T> {
+---
+> public interface CircuitBreaker<T> 	{

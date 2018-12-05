@@ -1,0 +1,4 @@
+262c262
+<     protected int getTaskCount() {
+---
+>     protected int getTaskCount(	) {

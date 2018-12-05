@@ -1,0 +1,5 @@
+63c63,64
+<     public static final long[] EMPTY_LONG_ARRAY = new long[0];
+---
+>     
+> public static final long[] EMPTY_LONG_ARRAY = new long[0];

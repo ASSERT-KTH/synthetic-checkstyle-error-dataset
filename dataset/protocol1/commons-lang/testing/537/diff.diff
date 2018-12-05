@@ -1,0 +1,4 @@
+2290c2290
+<         len = Math.min(Math.min(len, array.length - offset1), array.length - offset2);
+---
+>         len = Math.min(	Math.min(len, array.length - offset1), array.length - offset2);

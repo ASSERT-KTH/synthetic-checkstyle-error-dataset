@@ -1,0 +1,4 @@
+95c95
+<     private static final Map<Class<?>, Class<?>> primitiveWrapperMap = new HashMap<>();
+---
+>     private static final 	Map<Class<?>, Class<?>> primitiveWrapperMap = new HashMap<>();

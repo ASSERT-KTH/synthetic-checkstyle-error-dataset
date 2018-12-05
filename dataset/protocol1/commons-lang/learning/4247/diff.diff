@@ -1,0 +1,5 @@
+787c787,788
+<             comparison = -1;
+---
+>             comparison = 
+> -1;

@@ -1,0 +1,4 @@
+337c337
+<         private BackgroundInitializer<?> checkName(final String name) {
+---
+>         private BackgroundInitializer<?> checkName(final String 	name) {

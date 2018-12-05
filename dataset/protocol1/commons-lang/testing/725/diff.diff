@@ -1,0 +1,5 @@
+1236,1237c1236
+<     public StrBuilder appendAll(final Iterator<?> it) {
+<         if (it != null) {
+---
+>     public StrBuilder appendAll(final Iterator<?> it) {        if (it != null) {

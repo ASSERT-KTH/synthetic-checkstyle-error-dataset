@@ -1,0 +1,4 @@
+977c977
+<         final Type midType = getClosestParentType(cls, superClass);
+---
+>         final Type midType = getClosestParentType(cls, 	superClass);

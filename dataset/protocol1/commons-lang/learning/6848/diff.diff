@@ -1,0 +1,4 @@
+6861c6861
+<         final int newCodePoints[] = new int[strLen]; // cannot be longer than the char array
+---
+>         final int newCodePoints	[] = new int[strLen]; // cannot be longer than the char array

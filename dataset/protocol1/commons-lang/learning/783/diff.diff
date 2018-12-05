@@ -1,0 +1,4 @@
+1646c1646
+<             } else if (chars[i] == '.') {
+---
+>             	} else if (chars[i] == '.') {

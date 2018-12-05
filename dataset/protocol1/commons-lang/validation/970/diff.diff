@@ -1,0 +1,5 @@
+55,56c55
+<         if (m.matches()) {
+<             final int hours = parseInt(m.group(2));
+---
+>         if (m.matches()) {            final int hours = parseInt(m.group(2));

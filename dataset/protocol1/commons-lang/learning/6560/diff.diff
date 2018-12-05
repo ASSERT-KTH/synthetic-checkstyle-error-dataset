@@ -1,0 +1,5 @@
+207c207,208
+<     public Object getFirstContextValue(final String label) {
+---
+>     public Object 
+> getFirstContextValue(final String label) {

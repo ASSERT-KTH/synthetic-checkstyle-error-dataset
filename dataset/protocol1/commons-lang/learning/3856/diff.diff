@@ -1,0 +1,4 @@
+6865c6865
+<             final int codepoint = str.codePointAt(inOffset);
+---
+>             final int codepoint = str.codePointAt(inOffset)	;

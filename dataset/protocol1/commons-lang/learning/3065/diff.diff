@@ -1,0 +1,4 @@
+206c206
+<             } else if (remainder >= 2 && str.charAt(pos) == '^') {
+---
+>             } else if (remainder >= 2 && str.charAt(pos) 	== '^') {

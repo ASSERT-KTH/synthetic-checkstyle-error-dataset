@@ -1,0 +1,5 @@
+32c32,33
+< public abstract class CodePointTranslator extends CharSequenceTranslator {
+---
+> public 
+> abstract class CodePointTranslator extends CharSequenceTranslator {

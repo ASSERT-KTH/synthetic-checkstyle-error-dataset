@@ -1,0 +1,4 @@
+569c569
+<     public static void writeStaticField(final Class<?> cls, final String fieldName, final Object value) throws IllegalAccessException {
+---
+>     public static void writeStaticField(	final Class<?> cls, final String fieldName, final Object value) throws IllegalAccessException {

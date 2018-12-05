@@ -1,0 +1,4 @@
+668c668
+<             append((long[]) lhs, (long[]) rhs);
+---
+>             append((long[]) lhs, (long[	]) rhs);

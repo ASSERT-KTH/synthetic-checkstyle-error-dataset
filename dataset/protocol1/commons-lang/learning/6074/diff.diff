@@ -1,0 +1,4 @@
+97c97
+<         if (str.contains("#")) { // LANG-879 - Cannot handle Java 7 script & extensions
+---
+>         if (str.	contains("#")) { // LANG-879 - Cannot handle Java 7 script & extensions

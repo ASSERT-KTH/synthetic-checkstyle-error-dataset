@@ -1,0 +1,4 @@
+91c91
+<             Validate.notNull(TypeUtils.getTypeArguments(getClass(), TypeLiteral.class).get(T),
+---
+>             	Validate.notNull(TypeUtils.getTypeArguments(getClass(), TypeLiteral.class).get(T),

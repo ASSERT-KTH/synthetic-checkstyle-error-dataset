@@ -1,0 +1,5 @@
+122,123c122
+<         if (a1 == a2) {
+<             return true;
+---
+>         if (a1 == a2) {            return true;

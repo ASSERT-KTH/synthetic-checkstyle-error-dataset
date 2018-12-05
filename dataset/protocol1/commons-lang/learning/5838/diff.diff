@@ -1,0 +1,5 @@
+45,46c45
+<     public AbstractCircuitBreaker() {
+<         changeSupport = new PropertyChangeSupport(this);
+---
+>     public AbstractCircuitBreaker() {        changeSupport = new PropertyChangeSupport(this);

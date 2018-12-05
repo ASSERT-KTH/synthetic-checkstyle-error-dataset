@@ -1,0 +1,4 @@
+310c310
+<     public static boolean isAssignable(final Type type, final Type toType) {
+---
+>     public static boolean isAssignable	(final Type type, final Type toType) {

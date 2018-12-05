@@ -1,0 +1,4 @@
+340c340
+<         return method.invoke(object, args);
+---
+>         	return method.invoke(object, args);

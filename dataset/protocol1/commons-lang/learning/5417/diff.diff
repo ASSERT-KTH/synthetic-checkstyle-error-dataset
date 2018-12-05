@@ -1,0 +1,4 @@
+972c972
+<     public StrTokenizer setIgnoredChar(final char ignored) {
+---
+>     public StrTokenizer setIgnoredChar(final 	char ignored) {

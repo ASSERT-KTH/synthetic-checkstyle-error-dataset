@@ -1,0 +1,4 @@
+90c90
+<     private transient L[] prototypeArray;
+---
+>     private transient L[] prototypeArray	;

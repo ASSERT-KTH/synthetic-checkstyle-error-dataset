@@ -1,0 +1,4 @@
+561c561
+<                 final char ch0 = str.charAt(0);
+---
+>                 final char ch0 = str.	charAt(0);

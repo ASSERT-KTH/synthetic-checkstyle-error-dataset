@@ -1,0 +1,5 @@
+1001,1002c1001
+<         if (array == null) {
+<             appendNullText(buffer, fieldName);
+---
+>         if (array == null) {            appendNullText(buffer, fieldName);

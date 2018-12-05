@@ -1,0 +1,5 @@
+42c42,43
+<     private static final ImmutableTriple NULL = of(null, null, null);
+---
+>     private static final ImmutableTriple NULL 
+> = of(null, null, null);

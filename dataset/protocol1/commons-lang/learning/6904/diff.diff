@@ -1,0 +1,5 @@
+326,327c326
+<     public static String getName(final Object object) {
+<         return getName(object, StringUtils.EMPTY);
+---
+>     public static String getName(final Object object) {        return getName(object, StringUtils.EMPTY);

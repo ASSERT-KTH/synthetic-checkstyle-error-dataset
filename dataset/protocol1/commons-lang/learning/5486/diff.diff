@@ -1,0 +1,4 @@
+128c128
+<         if (field.getName().indexOf(ClassUtils.INNER_CLASS_SEPARATOR_CHAR) != -1) {
+---
+>         if (field.getName().indexOf(ClassUtils.INNER_CLASS_SEPARATOR_CHAR) != -	1) {

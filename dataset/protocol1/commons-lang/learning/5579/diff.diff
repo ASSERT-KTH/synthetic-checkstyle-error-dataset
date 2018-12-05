@@ -1,0 +1,4 @@
+3109c3109
+<             int start = str.indexOf(open, pos);
+---
+>             int start = str.indexOf(open, 	pos);

@@ -1,0 +1,4 @@
+301c301
+<     private void createProxy(final Class<L> listenerInterface, final ClassLoader classLoader) {
+---
+>     private 	void createProxy(final Class<L> listenerInterface, final ClassLoader classLoader) {

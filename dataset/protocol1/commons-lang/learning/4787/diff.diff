@@ -1,0 +1,4 @@
+90c90
+<         changeState(State.OPEN);
+---
+>         changeState	(State.OPEN);

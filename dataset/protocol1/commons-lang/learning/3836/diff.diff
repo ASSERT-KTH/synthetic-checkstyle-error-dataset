@@ -1,0 +1,4 @@
+1058c1058
+<         final ClassLoader loader = contextCL == null ? ClassUtils.class.getClassLoader() : contextCL;
+---
+>         final ClassLoader loader = contextCL == null ? ClassUtils.class.getClassLoader(	) : contextCL;

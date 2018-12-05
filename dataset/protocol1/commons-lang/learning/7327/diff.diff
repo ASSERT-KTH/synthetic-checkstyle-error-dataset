@@ -1,0 +1,4 @@
+105c105
+<     private final Integer priority;
+---
+>     private final Integer 	priority;

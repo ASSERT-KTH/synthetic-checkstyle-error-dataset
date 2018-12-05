@@ -1,0 +1,4 @@
+552c552
+<             return nextData.getCheckIntervalStart() != currentData
+---
+>             return nextData	.getCheckIntervalStart() != currentData

@@ -1,0 +1,4 @@
+1031c1031
+<             final int mask = 0x1 << shift;
+---
+>             final 	int mask = 0x1 << shift;

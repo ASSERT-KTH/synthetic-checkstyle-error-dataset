@@ -1,0 +1,4 @@
+265c265
+<         return cls == null ? valueIfNull : cls.getSimpleName();
+---
+>         	return cls == null ? valueIfNull : cls.getSimpleName();

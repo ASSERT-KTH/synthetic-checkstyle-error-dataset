@@ -1,0 +1,4 @@
+4104c4104
+<     public static int lastIndexOf(final float[] array, final float valueToFind) {
+---
+>     public static int lastIndexOf(final float[] array, 	final float valueToFind) {

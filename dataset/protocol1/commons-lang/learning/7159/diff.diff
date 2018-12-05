@@ -1,0 +1,4 @@
+301c301
+<             return Arrays.equals((long[]) o1, (long[]) o2);
+---
+>             return 	Arrays.equals((long[]) o1, (long[]) o2);

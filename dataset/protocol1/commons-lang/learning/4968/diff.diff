@@ -1,0 +1,4 @@
+382c382
+<     protected FastDateFormat(final String pattern, final TimeZone timeZone, final Locale locale) {
+---
+>     protected FastDateFormat(final String pattern, final TimeZone timeZone, final Locale locale	) {

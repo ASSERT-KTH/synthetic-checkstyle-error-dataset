@@ -1,0 +1,4 @@
+403c403
+<     public static int reflectionHashCode(final Object object, final boolean testTransients) {
+---
+>     public static int reflectionHashCode(final Object object, final boolean testTransients) 	{

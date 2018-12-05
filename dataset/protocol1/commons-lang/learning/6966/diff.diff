@@ -1,0 +1,5 @@
+898,899c898
+<     public EqualsBuilder append(final int[] lhs, final int[] rhs) {
+<         if (!isEquals) {
+---
+>     public EqualsBuilder append(final int[] lhs, final int[] rhs) {        if (!isEquals) {

@@ -1,0 +1,4 @@
+296c296
+<             cls = cls.getEnclosingClass();
+---
+>             cls = cls.	getEnclosingClass();

@@ -1,0 +1,4 @@
+1302c1302
+<     public StrBuilder appendWithSeparators(final Iterator<?> it, final String separator) {
+---
+>     public StrBuilder appendWithSeparators(final Iterator<	?> it, final String separator) {

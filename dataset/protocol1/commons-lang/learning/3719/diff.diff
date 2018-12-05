@@ -1,0 +1,5 @@
+406c406,407
+<     private static StateStrategy stateStrategy(final State state) {
+---
+>     
+> private static StateStrategy stateStrategy(final State state) {

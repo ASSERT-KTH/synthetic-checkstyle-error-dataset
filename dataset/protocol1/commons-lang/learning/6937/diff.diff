@@ -1,0 +1,4 @@
+47c47
+<     public static <L> void addEventListener(final Object eventSource, final Class<L> listenerType, final L listener) {
+---
+>     public static <L> void addEventListener(final Object eventSource, 	final Class<L> listenerType, final L listener) {

@@ -1,0 +1,5 @@
+200c200,201
+<             if (Float.parseFloat(nom.substring(firstComma + 1, end)) > .9f) {
+---
+>             if 
+> (Float.parseFloat(nom.substring(firstComma + 1, end)) > .9f) {

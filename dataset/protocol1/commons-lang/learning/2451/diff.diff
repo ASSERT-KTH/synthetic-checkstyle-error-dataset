@@ -1,0 +1,4 @@
+38c38
+<         return ISO8859_1_ESCAPE.clone();
+---
+>         return ISO8859_1_ESCAPE.clone	();

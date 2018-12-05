@@ -1,0 +1,5 @@
+950,951c950
+<         }
+<         int pos = 0; // offset within string
+---
+>         }        int pos = 0; // offset within string

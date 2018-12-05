@@ -1,0 +1,4 @@
+204c204
+<         final EnumSet<E> condensed = EnumSet.noneOf(enumClass);
+---
+>         final EnumSet<E> condensed = EnumSet.noneOf	(enumClass);

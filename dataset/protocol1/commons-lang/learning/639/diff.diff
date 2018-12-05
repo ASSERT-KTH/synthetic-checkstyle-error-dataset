@@ -1,0 +1,4 @@
+337c337
+<             return ch == buffer[pos] ? 1 : 0;
+---
+>             return ch == 	buffer[pos] ? 1 : 0;

@@ -1,0 +1,5 @@
+922,923c922
+<     public static byte CONST(final byte v) {
+<         return v;
+---
+>     public static byte CONST(final byte v) {        return v;

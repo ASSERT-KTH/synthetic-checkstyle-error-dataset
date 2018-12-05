@@ -1,0 +1,4 @@
+104c104
+<         if (left.equals(right)) {
+---
+>         if (	left.equals(right)) {

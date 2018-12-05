@@ -1,0 +1,5 @@
+35c35,36
+< public class ConcurrentRuntimeException extends RuntimeException {
+---
+> public class ConcurrentRuntimeException 
+> extends RuntimeException {

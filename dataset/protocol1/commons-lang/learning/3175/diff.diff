@@ -1,0 +1,5 @@
+976,977c976
+<         if (array.length == 0) {
+<             throw new IllegalArgumentException("Array is empty");
+---
+>         if (array.length == 0) {            throw new IllegalArgumentException("Array is empty");

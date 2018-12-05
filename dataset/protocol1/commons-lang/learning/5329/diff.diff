@@ -1,0 +1,5 @@
+290,291c290
+<     public int hashCode() {
+<         int result = super.hashCode();
+---
+>     public int hashCode() {        int result = super.hashCode();

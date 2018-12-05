@@ -1,0 +1,4 @@
+66c66
+<         return 0;
+---
+>         return 0	;

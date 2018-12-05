@@ -1,0 +1,4 @@
+411c411
+<             return this.stopTime - this.startTime;
+---
+>             return 	this.stopTime - this.startTime;

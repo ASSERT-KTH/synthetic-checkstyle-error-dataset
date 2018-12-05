@@ -1,0 +1,5 @@
+489c489,490
+<         return DurationFormatUtils.formatDurationHMS(getTime());
+---
+>         return 
+> DurationFormatUtils.formatDurationHMS(getTime());

@@ -1,0 +1,4 @@
+2037c2037
+<                 replaceImpl(index, index + searchLen, searchLen, replaceStr, replaceLen);
+---
+>                 replaceImpl(index, index + searchLen	, searchLen, replaceStr, replaceLen);

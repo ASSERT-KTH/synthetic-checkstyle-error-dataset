@@ -1,0 +1,4 @@
+49c49
+<             twoDigits(new StringBuilder(9).append("GMT").append(negate ? '-' : '+'), hours)
+---
+>             twoDigits(new StringBuilder(9).append("GMT").append(negate ? 	'-' : '+'), hours)

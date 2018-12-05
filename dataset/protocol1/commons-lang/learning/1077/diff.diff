@@ -1,0 +1,4 @@
+404c404
+<                 if (type.equals(throwables[i].getClass())) {
+---
+>                 if (type.equals(throwables[i].getClass(	))) {

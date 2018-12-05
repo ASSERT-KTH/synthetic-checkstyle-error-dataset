@@ -1,0 +1,4 @@
+349c349
+<     public StrTokenizer(final char[] input, final String delim) {
+---
+>     public StrTokenizer(final char[] input, final 	String delim) {

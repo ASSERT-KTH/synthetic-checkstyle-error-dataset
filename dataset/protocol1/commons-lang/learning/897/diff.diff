@@ -1,0 +1,4 @@
+99c99
+<         return findThreads(threadGroup, false, new NamePredicate(threadName));
+---
+>         return 	findThreads(threadGroup, false, new NamePredicate(threadName));

@@ -1,0 +1,4 @@
+180c180
+<         return new ToStringBuilder(array, ToStringStyle.SIMPLE_STYLE).append(array).toString();
+---
+>         return new ToStringBuilder	(array, ToStringStyle.SIMPLE_STYLE).append(array).toString();

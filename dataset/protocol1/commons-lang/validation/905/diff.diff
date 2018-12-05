@@ -1,0 +1,4 @@
+722c722
+<     public boolean isAppendTransients() {
+---
+>     public 	boolean isAppendTransients() {

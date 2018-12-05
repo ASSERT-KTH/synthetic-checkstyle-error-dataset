@@ -1,0 +1,5 @@
+412,413c412
+<             return format(((Long) obj).longValue(), toAppendTo);
+<         } else {
+---
+>             return format(((Long) obj).longValue(), toAppendTo);        } else {

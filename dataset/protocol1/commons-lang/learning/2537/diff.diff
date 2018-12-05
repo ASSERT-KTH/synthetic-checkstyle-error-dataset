@@ -1,0 +1,4 @@
+802c802
+<                 final int trimmedLen = getTrimmerMatcher().isMatch(srcChars, pos, start, len);
+---
+>                 final int trimmedLen = getTrimmerMatcher().isMatch(srcChars, pos, 	start, len);

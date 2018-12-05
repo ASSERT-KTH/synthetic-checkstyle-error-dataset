@@ -1,0 +1,5 @@
+102,103c102
+<     private static void addProcessors(final Processor processor, final String... keys) {
+<         for (final String key : keys) {
+---
+>     private static void addProcessors(final Processor processor, final String... keys) {        for (final String key : keys) {

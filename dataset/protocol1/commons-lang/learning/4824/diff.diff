@@ -1,0 +1,4 @@
+1326c1326
+<     public static long getFragmentInSeconds(final Date date, final int fragment) {
+---
+>     public static 	long getFragmentInSeconds(final Date date, final int fragment) {

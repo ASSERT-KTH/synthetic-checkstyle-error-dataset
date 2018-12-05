@@ -1,0 +1,4 @@
+5390c5390
+<         final boolean[] newArray = (boolean[]) copyArrayGrow1(array, Boolean.TYPE);
+---
+>         final boolean[] newArray = (boolean[]) copyArrayGrow1(array	, Boolean.TYPE);

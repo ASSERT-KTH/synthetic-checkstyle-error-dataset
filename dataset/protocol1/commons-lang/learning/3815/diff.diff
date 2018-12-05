@@ -1,0 +1,4 @@
+47c47
+<         = new ConcurrentHashMap<>(7);
+---
+>         = new 	ConcurrentHashMap<>(7);

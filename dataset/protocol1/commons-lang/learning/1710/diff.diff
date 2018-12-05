@@ -1,0 +1,5 @@
+90c90,91
+<             final int consumed = translate(input, pos, out);
+---
+>             final int consumed = 
+> translate(input, pos, out);

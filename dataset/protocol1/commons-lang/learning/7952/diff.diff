@@ -1,0 +1,5 @@
+79c79,80
+<     public Boolean getValue() {
+---
+>     public Boolean 
+> getValue() {

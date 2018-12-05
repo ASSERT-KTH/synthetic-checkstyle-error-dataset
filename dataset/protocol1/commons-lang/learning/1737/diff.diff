@@ -1,0 +1,4 @@
+110c110
+<         super.setUseIdentityHashCode(useIdentityHashCode);
+---
+>         super.	setUseIdentityHashCode(useIdentityHashCode);

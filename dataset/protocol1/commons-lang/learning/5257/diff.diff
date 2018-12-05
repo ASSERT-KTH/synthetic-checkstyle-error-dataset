@@ -1,0 +1,4 @@
+379c379
+<         return periodCount == 0 ? 0 : (double) totalAcquireCount
+---
+>         return 	periodCount == 0 ? 0 : (double) totalAcquireCount

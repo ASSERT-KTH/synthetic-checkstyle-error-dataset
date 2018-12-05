@@ -1,0 +1,4 @@
+231c231
+<     private static String modify(final String str, final String[] set, final boolean expect) {
+---
+>     private static 	String modify(final String str, final String[] set, final boolean expect) {

@@ -1,0 +1,5 @@
+178c178,179
+<         return (holder & _mask) == _mask;
+---
+>         return 
+> (holder & _mask) == _mask;

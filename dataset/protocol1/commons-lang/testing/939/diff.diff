@@ -1,0 +1,4 @@
+143c143
+<             milliseconds = milliseconds - (days * DateUtils.MILLIS_PER_DAY);
+---
+>             milliseconds = 	milliseconds - (days * DateUtils.MILLIS_PER_DAY);

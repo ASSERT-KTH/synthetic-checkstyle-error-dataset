@@ -1,0 +1,4 @@
+95c95
+<                 out.write(c1);
+---
+>                 out	.write(c1);

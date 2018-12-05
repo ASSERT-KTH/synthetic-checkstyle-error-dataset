@@ -1,0 +1,4 @@
+100c100
+<     protected BackgroundInitializer() {
+---
+>     	protected BackgroundInitializer() {

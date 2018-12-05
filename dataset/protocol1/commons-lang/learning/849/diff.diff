@@ -1,0 +1,4 @@
+710c710
+<             regex.setLength(regex.length()-1);
+---
+>             regex.setLength(regex.	length()-1);

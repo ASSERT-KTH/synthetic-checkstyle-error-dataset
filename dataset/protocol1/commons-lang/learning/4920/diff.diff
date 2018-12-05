@@ -1,0 +1,5 @@
+83c83,84
+<     public final String getFieldName() {
+---
+>     
+> public final String getFieldName() {

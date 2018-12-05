@@ -1,0 +1,4 @@
+59c59
+<             throw new RuntimeException("Unable to add listener.", e.getCause());
+---
+>             throw new RuntimeException("Unable to add listener.", e.getCause	());

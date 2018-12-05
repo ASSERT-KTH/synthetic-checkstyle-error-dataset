@@ -1,0 +1,4 @@
+345c345
+<         public boolean test(final Thread thread) {
+---
+>         public boolean test(final Thread thread) 	{

@@ -1,0 +1,5 @@
+272c272,273
+<     public void reset() {
+---
+>     public 
+> void reset() {

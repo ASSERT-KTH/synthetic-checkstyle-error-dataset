@@ -1,0 +1,4 @@
+55c55
+<         super(ConcurrentUtils.checkedException(cause));
+---
+>         super(ConcurrentUtils.checkedException(cause))	;

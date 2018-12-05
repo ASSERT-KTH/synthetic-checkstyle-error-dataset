@@ -1,0 +1,5 @@
+400c400,401
+<             seconds += 60 * minutes;
+---
+>             seconds += 60 
+> * minutes;

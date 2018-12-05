@@ -1,0 +1,5 @@
+101,102c101
+<     public static StrMatcher spaceMatcher() {
+<         return SPACE_MATCHER;
+---
+>     public static StrMatcher spaceMatcher() {        return SPACE_MATCHER;

@@ -1,0 +1,4 @@
+318c318
+<     public float floatValue() {
+---
+>     public float floatValue	() {

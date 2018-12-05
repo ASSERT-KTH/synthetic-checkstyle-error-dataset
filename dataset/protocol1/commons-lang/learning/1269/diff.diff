@@ -1,0 +1,5 @@
+40c40,41
+<     O compute(I arg) throws InterruptedException;
+---
+>     O compute(I arg) throws 
+> InterruptedException;

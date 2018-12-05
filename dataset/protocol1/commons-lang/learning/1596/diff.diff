@@ -1,0 +1,5 @@
+113c113,114
+<         this.middle = middle;
+---
+>         this.middle 
+> = middle;

@@ -1,0 +1,5 @@
+254,255c254
+<     public long getClosingInterval() {
+<         return closingInterval;
+---
+>     public long getClosingInterval() {        return closingInterval;

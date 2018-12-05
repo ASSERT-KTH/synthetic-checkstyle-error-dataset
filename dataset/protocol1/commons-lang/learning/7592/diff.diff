@@ -1,0 +1,4 @@
+303c303
+<         return pattern.equals(other.pattern)
+---
+>         return pattern.equals	(other.pattern)

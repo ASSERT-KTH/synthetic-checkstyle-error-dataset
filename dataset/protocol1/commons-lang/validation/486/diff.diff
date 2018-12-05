@@ -1,0 +1,4 @@
+820c820
+<                 throw new IllegalArgumentException("Specified class is not a superclass of the object");
+---
+>                 throw new 	IllegalArgumentException("Specified class is not a superclass of the object");

@@ -1,0 +1,4 @@
+178c178
+<         for (final E constant : values) {
+---
+>         for (final E constant : 	values) {

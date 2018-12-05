@@ -1,0 +1,4 @@
+490c490
+<             switch (c[pos.getIndex()]) {
+---
+>             	switch (c[pos.getIndex()]) {

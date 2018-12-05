@@ -1,0 +1,4 @@
+45c45
+<         for (int i = 1; i < array.length; i++) {
+---
+>         for (int i = 1; i < array.length; i	++) {

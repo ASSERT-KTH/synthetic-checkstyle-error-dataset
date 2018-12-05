@@ -1,0 +1,4 @@
+178c178
+<         spaces -= INDENT;
+---
+>         spaces -= 	INDENT;

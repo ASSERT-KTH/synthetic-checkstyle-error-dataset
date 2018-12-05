@@ -1,0 +1,5 @@
+509c509,510
+<         notNull(array);
+---
+>         
+> notNull(array);

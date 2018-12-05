@@ -1,0 +1,4 @@
+454c454
+<         if (this.splitState != SplitState.SPLIT) {
+---
+>         if (this.splitState != 	SplitState.SPLIT) {

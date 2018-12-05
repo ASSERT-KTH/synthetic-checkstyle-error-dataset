@@ -1,0 +1,4 @@
+76c76
+<         this.value = Float.parseFloat(value);
+---
+>         this.value = Float.parseFloat(	value);

@@ -1,0 +1,4 @@
+1021c1021
+<     public StrBuilder appendln(final StringBuffer str) {
+---
+>     public StrBuilder appendln(final StringBuffer 	str) {

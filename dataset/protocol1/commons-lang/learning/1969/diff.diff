@@ -1,0 +1,4 @@
+340c340
+<                 throw new NoSuchElementException(
+---
+>                 	throw new NoSuchElementException(

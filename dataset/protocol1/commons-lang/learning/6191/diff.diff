@@ -1,0 +1,4 @@
+312c312
+<     static final class CharMatcher extends StrMatcher {
+---
+>     	static final class CharMatcher extends StrMatcher {

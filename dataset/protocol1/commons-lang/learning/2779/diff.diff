@@ -1,0 +1,4 @@
+155c155
+<     private final long period;
+---
+>     private final long 	period;

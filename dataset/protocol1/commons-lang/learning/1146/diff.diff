@@ -1,0 +1,4 @@
+1038c1038
+<         if (array == null) {
+---
+>         if (array == null	) {

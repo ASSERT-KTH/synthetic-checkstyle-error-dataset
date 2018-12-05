@@ -1,0 +1,5 @@
+220,221c220
+<     public void subtract(final Number operand) {
+<         this.value -= operand.longValue();
+---
+>     public void subtract(final Number operand) {        this.value -= operand.longValue();

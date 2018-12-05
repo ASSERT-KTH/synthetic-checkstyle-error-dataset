@@ -1,0 +1,4 @@
+116c116
+<         if (!ClassUtils.isPrimitiveWrapper(value.getClass()) && !String.class.equals(value.getClass())
+---
+>         if (!ClassUtils.isPrimitiveWrapper(value.getClass()) && !String.class.equals(	value.getClass())

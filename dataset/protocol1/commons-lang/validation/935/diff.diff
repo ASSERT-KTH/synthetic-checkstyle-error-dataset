@@ -1,0 +1,4 @@
+38c38
+<     private final int longest;
+---
+>     	private final int longest;

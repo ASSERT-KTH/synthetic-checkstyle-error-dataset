@@ -1,0 +1,5 @@
+89c89,90
+<         return new ConcurrentRuntimeException(ex.getMessage(), ex.getCause());
+---
+>         return 
+> new ConcurrentRuntimeException(ex.getMessage(), ex.getCause());

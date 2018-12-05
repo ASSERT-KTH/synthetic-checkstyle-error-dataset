@@ -1,0 +1,5 @@
+280c280,281
+<         private final char[] chars;
+---
+>         
+> private final char[] chars;

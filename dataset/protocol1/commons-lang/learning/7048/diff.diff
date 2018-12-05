@@ -1,0 +1,4 @@
+44c44
+<         final StringBuilder builder = new StringBuilder();
+---
+>         final StringBuilder builder 	= new StringBuilder();

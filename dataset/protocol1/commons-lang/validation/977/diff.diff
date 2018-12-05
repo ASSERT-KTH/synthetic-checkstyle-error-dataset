@@ -1,0 +1,4 @@
+107c107
+<     JAVA_RECENT(maxVersion(), Float.toString(maxVersion()));
+---
+>     JAVA_RECENT	(maxVersion(), Float.toString(maxVersion()));

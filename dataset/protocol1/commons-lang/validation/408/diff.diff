@@ -1,0 +1,4 @@
+85c85
+<                 final String result = lookupMap.get(subSeq.toString());
+---
+>                 final String result = lookupMap.get(subSeq.toString(	));

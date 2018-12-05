@@ -1,0 +1,4 @@
+504c504
+<            appendCyclicObject(buffer, fieldName, value);
+---
+>            appendCyclicObject(buffer, fieldName	, value);

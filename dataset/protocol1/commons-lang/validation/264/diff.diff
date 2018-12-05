@@ -1,0 +1,4 @@
+415c415
+<                    maximum.equals(range.maximum);
+---
+>                    maximum.	equals(range.maximum);

@@ -1,0 +1,5 @@
+109c109,110
+<     public void setUseIdentityHashCode(final boolean useIdentityHashCode) { // NOPMD as this is implementing the abstract class
+---
+>     public 
+> void setUseIdentityHashCode(final boolean useIdentityHashCode) { // NOPMD as this is implementing the abstract class

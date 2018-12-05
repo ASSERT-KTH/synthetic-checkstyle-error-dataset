@@ -1,0 +1,4 @@
+255c255
+<         final List<Field> annotatedFields = new ArrayList<>();
+---
+>         final List	<Field> annotatedFields = new ArrayList<>();

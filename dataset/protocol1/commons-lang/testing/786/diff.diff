@@ -1,0 +1,4 @@
+34c34
+< public final class ImmutablePair<L, R> extends Pair<L, R> {
+---
+> public final class ImmutablePair<L, 	R> extends Pair<L, R> {

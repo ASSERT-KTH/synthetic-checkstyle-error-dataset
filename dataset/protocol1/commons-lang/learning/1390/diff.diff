@@ -1,0 +1,5 @@
+99c99,100
+<         if (this.getClass() == obj.getClass()) {
+---
+>         if 
+> (this.getClass() == obj.getClass()) {

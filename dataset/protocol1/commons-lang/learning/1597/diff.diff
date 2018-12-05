@@ -1,0 +1,5 @@
+603c603,604
+<     public static <T extends Iterable<?>> T noNullElements(final T iterable) {
+---
+>     public static <T extends Iterable<?>> T noNullElements(final 
+> T iterable) {

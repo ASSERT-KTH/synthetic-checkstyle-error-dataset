@@ -1,0 +1,5 @@
+221c221,222
+<         this.value -= operand.longValue();
+---
+>         this.value -= 
+> operand.longValue();

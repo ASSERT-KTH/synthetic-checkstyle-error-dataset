@@ -1,0 +1,5 @@
+174c174,175
+<                 totalCost += getObjectTransformationCost(sourceClass, destClass) + varArgsCost;
+---
+>                 totalCost += getObjectTransformationCost(sourceClass, destClass) + 
+> varArgsCost;

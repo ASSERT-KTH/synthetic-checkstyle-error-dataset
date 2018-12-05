@@ -1,0 +1,4 @@
+125c125
+<         return checkState();
+---
+>         return checkState	();

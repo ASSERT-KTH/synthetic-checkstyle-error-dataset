@@ -1,0 +1,4 @@
+275c275
+<     public static <T> T[] notEmpty(final T[] array) {
+---
+>     public static <T	> T[] notEmpty(final T[] array) {

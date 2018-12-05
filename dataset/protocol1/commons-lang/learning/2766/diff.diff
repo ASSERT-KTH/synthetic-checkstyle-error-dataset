@@ -1,0 +1,4 @@
+957c957
+<         for (final Diff<?> diff : diffResult.getDiffs()) {
+---
+>         for (final Diff	<?> diff : diffResult.getDiffs()) {

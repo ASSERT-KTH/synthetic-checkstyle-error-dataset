@@ -1,0 +1,4 @@
+55c55
+<         return sb.append((char) ('0' + (n / 10))).append((char) ('0' + (n % 10)));
+---
+>         return sb.append((char) ('0' + (n / 10)	)).append((char) ('0' + (n % 10)));

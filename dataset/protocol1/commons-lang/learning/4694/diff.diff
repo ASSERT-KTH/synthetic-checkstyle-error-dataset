@@ -1,0 +1,4 @@
+96c96
+<         setFieldSeparator("," + System.lineSeparator() + spacer(spaces));
+---
+>         setFieldSeparator("," + System.lineSeparator() + spacer	(spaces));

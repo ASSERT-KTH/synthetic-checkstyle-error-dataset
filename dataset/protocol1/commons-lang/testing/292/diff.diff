@@ -1,0 +1,4 @@
+451c451
+<     public static String replacePattern(final String text, final String regex, final String replacement) {
+---
+>     public static String replacePattern(final String text	, final String regex, final String replacement) {

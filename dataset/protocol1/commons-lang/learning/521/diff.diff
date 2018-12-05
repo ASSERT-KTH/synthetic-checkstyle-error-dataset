@@ -1,0 +1,5 @@
+53,54c53
+<     public MutableShort(final short value) {
+<         super();
+---
+>     public MutableShort(final short value) {        super();

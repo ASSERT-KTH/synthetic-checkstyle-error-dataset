@@ -1,0 +1,4 @@
+234c234
+<     public String getMessage() {
+---
+>     public String 	getMessage() {

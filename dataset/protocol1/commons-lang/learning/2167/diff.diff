@@ -1,0 +1,4 @@
+264c264
+<     public String getContentStart() { // NOPMD as this is implementing the abstract class
+---
+>     	public String getContentStart() { // NOPMD as this is implementing the abstract class

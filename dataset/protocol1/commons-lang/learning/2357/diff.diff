@@ -1,0 +1,4 @@
+256c256
+<         {"\u2207", "&nabla;"}, // nabla = backward difference, U+2207 ISOtech -->
+---
+>         {"\u2207", "&na	bla;"}, // nabla = backward difference, U+2207 ISOtech -->

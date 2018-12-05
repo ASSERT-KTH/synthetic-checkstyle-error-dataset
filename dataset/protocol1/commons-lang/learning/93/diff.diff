@@ -1,0 +1,4 @@
+551c551
+<             return f.pow(power / 2).multiplyBy(this);
+---
+>             return f.pow(power / 2).multiplyBy(	this);

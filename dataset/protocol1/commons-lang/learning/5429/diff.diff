@@ -1,0 +1,5 @@
+60c60,61
+<         return new ImmutableTriple<>(left, middle, right);
+---
+>         return new 
+> ImmutableTriple<>(left, middle, right);

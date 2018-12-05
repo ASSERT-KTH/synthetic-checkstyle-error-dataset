@@ -1,0 +1,4 @@
+324c324
+<     public static <T extends Collection<?>> T notEmpty(final T collection) {
+---
+>     public static <T extends Collection	<?>> T notEmpty(final T collection) {

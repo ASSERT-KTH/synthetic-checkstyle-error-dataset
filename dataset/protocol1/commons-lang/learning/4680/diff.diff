@@ -1,0 +1,5 @@
+441c441,442
+<         CheckIntervalData(final int count, final long intervalStart) {
+---
+>         CheckIntervalData(final int count, 
+> final long intervalStart) {

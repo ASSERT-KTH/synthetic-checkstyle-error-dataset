@@ -1,0 +1,5 @@
+96c96,97
+<       return new CompareToBuilder().append(getLeft(), other.getLeft())
+---
+>       return new 
+> CompareToBuilder().append(getLeft(), other.getLeft())

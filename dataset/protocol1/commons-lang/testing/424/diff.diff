@@ -1,0 +1,4 @@
+316c316
+<             throw new StringIndexOutOfBoundsException(index);
+---
+>             throw new StringIndexOutOfBoundsException	(index);

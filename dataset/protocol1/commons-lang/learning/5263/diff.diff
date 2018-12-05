@@ -1,0 +1,4 @@
+132c132
+<         changeSupport.removePropertyChangeListener(listener);
+---
+>         	changeSupport.removePropertyChangeListener(listener);

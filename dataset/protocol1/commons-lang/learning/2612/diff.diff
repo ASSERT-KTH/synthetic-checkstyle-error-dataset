@@ -1,0 +1,5 @@
+229c229,230
+<     private static float getPrimitivePromotionCost(final Class<?> srcClass, final Class<?> destClass) {
+---
+>     private static float 
+> getPrimitivePromotionCost(final Class<?> srcClass, final Class<?> destClass) {

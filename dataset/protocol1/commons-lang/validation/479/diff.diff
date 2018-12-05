@@ -1,0 +1,4 @@
+58c58
+<     public static boolean nextBoolean() {
+---
+>     public 	static boolean nextBoolean() {

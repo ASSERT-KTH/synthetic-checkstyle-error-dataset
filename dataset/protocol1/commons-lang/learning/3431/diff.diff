@@ -1,0 +1,4 @@
+126c126
+<         return new CharRange(start, end, true);
+---
+>         return new CharRange(start, end, true)	;

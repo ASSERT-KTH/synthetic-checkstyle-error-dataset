@@ -1,0 +1,4 @@
+312c312
+<         public Builder daemon(final boolean daemon) {
+---
+>         public Builder daemon(final boolean daemon) 	{

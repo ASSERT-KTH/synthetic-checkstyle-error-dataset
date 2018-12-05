@@ -1,0 +1,5 @@
+135,136c135
+<         try {
+<             for (final Method m : type.getDeclaredMethods()) {
+---
+>         try {            for (final Method m : type.getDeclaredMethods()) {

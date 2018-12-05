@@ -1,0 +1,5 @@
+78c78,79
+<             int max = longest;
+---
+>             int max = 
+> longest;

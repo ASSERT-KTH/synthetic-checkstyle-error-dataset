@@ -1,0 +1,4 @@
+103c103
+<         for (Class<?> acls = cls; acls != null; acls = acls.getSuperclass()) {
+---
+>         for (Class<?> acls = cls; acls != null; acls = acls.getSuperclass()) 	{

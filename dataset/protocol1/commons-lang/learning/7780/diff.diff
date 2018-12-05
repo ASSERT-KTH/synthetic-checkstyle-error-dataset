@@ -1,0 +1,5 @@
+987,988c987
+<             throw new IllegalArgumentException("Variable prefix matcher must not be null!");
+<         }
+---
+>             throw new IllegalArgumentException("Variable prefix matcher must not be null!");        }

@@ -1,0 +1,5 @@
+373c373,374
+<     public static String[][] BASIC_ESCAPE() {
+---
+>     public static 
+> String[][] BASIC_ESCAPE() {

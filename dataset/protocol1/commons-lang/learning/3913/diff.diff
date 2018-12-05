@@ -1,0 +1,4 @@
+312c312
+<                     current = (char) (current + 1);
+---
+>                     current = 	(char) (current + 1);

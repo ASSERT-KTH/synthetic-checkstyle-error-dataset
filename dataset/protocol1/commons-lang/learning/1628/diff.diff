@@ -1,0 +1,5 @@
+224,225c224
+<             thread.setName(String.format(getNamingPattern(), count));
+<         }
+---
+>             thread.setName(String.format(getNamingPattern(), count));        }

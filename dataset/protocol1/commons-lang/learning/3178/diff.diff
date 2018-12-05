@@ -1,0 +1,4 @@
+83c83
+<         COMMON.put("a-zA-Z", ASCII_ALPHA);
+---
+>         COMMON.put("a-zA-Z", ASCII_ALPHA	);

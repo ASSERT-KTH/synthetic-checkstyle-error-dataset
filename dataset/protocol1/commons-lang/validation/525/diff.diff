@@ -1,0 +1,5 @@
+955c955,956
+<     protected void reflectionAppendArrayDetail(final StringBuffer buffer, final String fieldName, final Object array) {
+---
+>     protected void reflectionAppendArrayDetail(final 
+> StringBuffer buffer, final String fieldName, final Object array) {

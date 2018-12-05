@@ -1,0 +1,5 @@
+380c380,381
+<                 / (double) periodCount;
+---
+>                 / 
+> (double) periodCount;

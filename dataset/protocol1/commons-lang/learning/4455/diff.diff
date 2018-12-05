@@ -1,0 +1,5 @@
+1598c1598,1599
+<     public static boolean isCreatable(final String str) {
+---
+>     
+> public static boolean isCreatable(final String str) {

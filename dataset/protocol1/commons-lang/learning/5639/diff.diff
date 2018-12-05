@@ -1,0 +1,4 @@
+71c71
+<     private static void init_PPC_32Bit() {
+---
+>     private static void init_PPC_32Bit() 	{

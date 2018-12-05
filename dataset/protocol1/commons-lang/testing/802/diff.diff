@@ -1,0 +1,4 @@
+142c142
+<     public static String removeFirst(final String text, final Pattern regex) {
+---
+>     	public static String removeFirst(final String text, final Pattern regex) {

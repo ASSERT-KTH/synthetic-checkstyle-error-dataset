@@ -1,0 +1,4 @@
+804c804
+<     public HashCodeBuilder append(final long value) {
+---
+>     public 	HashCodeBuilder append(final long value) {

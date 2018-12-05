@@ -1,0 +1,4 @@
+220c220
+<         duration = StringUtils.replaceOnce(duration, " 1 minutes", " 1 minute");
+---
+>         duration = StringUtils.replaceOnce(	duration, " 1 minutes", " 1 minute");

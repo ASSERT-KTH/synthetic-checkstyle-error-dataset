@@ -1,0 +1,4 @@
+144c144
+<     public static <E extends Enum<E>> E getEnumIgnoreCase(final Class<E> enumClass, final String enumName) {
+---
+>     public static <E extends Enum	<E>> E getEnumIgnoreCase(final Class<E> enumClass, final String enumName) {

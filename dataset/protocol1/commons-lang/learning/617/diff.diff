@@ -1,0 +1,5 @@
+227,228c227
+<         if (getUncaughtExceptionHandler() != null) {
+<             thread.setUncaughtExceptionHandler(getUncaughtExceptionHandler());
+---
+>         if (getUncaughtExceptionHandler() != null) {            thread.setUncaughtExceptionHandler(getUncaughtExceptionHandler());

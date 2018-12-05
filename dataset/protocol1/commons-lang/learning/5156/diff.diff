@@ -1,0 +1,4 @@
+46c46
+<     private static final String SIMPLEST_FORMAT = "%s";
+---
+>     private static final String 	SIMPLEST_FORMAT = "%s";

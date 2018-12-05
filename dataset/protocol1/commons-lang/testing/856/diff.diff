@@ -1,0 +1,5 @@
+1781,1782c1781
+<     public StrBuilder insert(final int index, final double value) {
+<         return insert(index, String.valueOf(value));
+---
+>     public StrBuilder insert(final int index, final double value) {        return insert(index, String.valueOf(value));

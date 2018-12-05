@@ -1,0 +1,4 @@
+188c188
+<     private SplitState splitState = SplitState.UNSPLIT;
+---
+>     private SplitState splitState 	= SplitState.UNSPLIT;

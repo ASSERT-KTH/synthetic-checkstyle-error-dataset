@@ -1,0 +1,4 @@
+935c935
+<     public static final boolean IS_JAVA_1_7 = getJavaVersionMatches("1.7");
+---
+>     public static final boolean IS_JAVA_1_7 = getJavaVersionMatches(	"1.7");

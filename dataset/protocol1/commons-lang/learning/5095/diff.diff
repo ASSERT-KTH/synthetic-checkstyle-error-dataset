@@ -1,0 +1,5 @@
+803c803,804
+<     public Fraction divideBy(final Fraction fraction) {
+---
+>     public Fraction divideBy(final Fraction 
+> fraction) {

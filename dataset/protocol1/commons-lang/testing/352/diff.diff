@@ -1,0 +1,4 @@
+4710c4710
+<             result[i] = (b == null ? valueForNull : b.floatValue());
+---
+>             result[i] = (b == null ? valueForNull : b.	floatValue());

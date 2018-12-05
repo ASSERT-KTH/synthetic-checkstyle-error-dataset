@@ -1,0 +1,5 @@
+29c29,30
+<     private static final int MILLISECONDS_PER_MINUTE = 60 * 1000;
+---
+>     private static final int MILLISECONDS_PER_MINUTE = 
+> 60 * 1000;

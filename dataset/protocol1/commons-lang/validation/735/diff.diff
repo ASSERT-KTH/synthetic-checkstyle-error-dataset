@@ -1,0 +1,5 @@
+1140c1140,1141
+<         public int estimateLength() {
+---
+>         public 
+> int estimateLength() {

@@ -1,0 +1,5 @@
+130c130,131
+<         final long last = value;
+---
+>         final long last = 
+> value;

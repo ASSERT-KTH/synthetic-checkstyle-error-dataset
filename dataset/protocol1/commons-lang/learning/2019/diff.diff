@@ -1,0 +1,5 @@
+59c59,60
+<         Validate.notNull(resourceName, "Parameter '%s' must not be null!", "resourceName");
+---
+>         Validate.notNull(resourceName, 
+> "Parameter '%s' must not be null!", "resourceName");

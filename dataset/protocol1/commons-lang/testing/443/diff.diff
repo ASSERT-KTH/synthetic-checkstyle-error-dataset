@@ -1,0 +1,4 @@
+519c519
+<                     buffer = new StringBuilder();
+---
+>                     buffer = new 	StringBuilder();

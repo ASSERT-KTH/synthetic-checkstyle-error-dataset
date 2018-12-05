@@ -1,0 +1,4 @@
+230c230
+<             throw new IllegalStateException("Stopwatch must be reset before being restarted. ");
+---
+>             throw 	new IllegalStateException("Stopwatch must be reset before being restarted. ");

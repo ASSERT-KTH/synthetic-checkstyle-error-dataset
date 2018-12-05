@@ -1,0 +1,4 @@
+673c673
+<         } else if (lhs instanceof char[]) {
+---
+>         } else if (lhs instanceof char[]	) {

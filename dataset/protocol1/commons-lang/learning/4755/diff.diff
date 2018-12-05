@@ -1,0 +1,4 @@
+68c68
+<         return new JavaUnicodeEscaper(codepointLow, codepointHigh, true);
+---
+>         return new JavaUnicodeEscaper(codepointLow	, codepointHigh, true);

@@ -1,0 +1,4 @@
+197c197
+<         if ((v - 1.) < 1.) { // then we need to check decimals > .9
+---
+>         if ((v - 1.	) < 1.) { // then we need to check decimals > .9

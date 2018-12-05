@@ -1,0 +1,4 @@
+444c444
+<         return reflectionHashCode(object, ReflectionToStringBuilder.toNoNullStringArray(excludeFields));
+---
+>         return reflectionHashCode(object, ReflectionToStringBuilder.toNoNullStringArray(excludeFields))	;

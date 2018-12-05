@@ -1,0 +1,5 @@
+375,376c375
+<                 if (chars[i] != buffer[pos]) {
+<                     return 0;
+---
+>                 if (chars[i] != buffer[pos]) {                    return 0;

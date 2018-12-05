@@ -1,0 +1,4 @@
+90c90
+<         return "[GmtTimeZone id=\"" + zoneId + "\",offset=" + offset + ']';
+---
+>         return "[GmtTimeZone id=\"" + zoneId + "\",offset=" 	+ offset + ']';

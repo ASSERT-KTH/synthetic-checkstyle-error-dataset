@@ -1,0 +1,4 @@
+980c980
+<             time = time - millisecs;
+---
+>             	time = time - millisecs;

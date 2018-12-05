@@ -1,0 +1,5 @@
+64,65c64
+<     public T getValue() {
+<         return this.value;
+---
+>     public T getValue() {        return this.value;

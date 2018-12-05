@@ -1,0 +1,4 @@
+387c387
+<         return hash;
+---
+>         	return hash;

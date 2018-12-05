@@ -1,0 +1,5 @@
+133c133,134
+<             final Map.Entry<?, ?> other = (Map.Entry<?, ?>) obj;
+---
+>             final Map.Entry<?, ?> other = (Map.Entry<?, 
+> ?>) obj;

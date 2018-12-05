@@ -1,0 +1,5 @@
+670,671c670
+<         } else if (str.equals(nullString)) {
+<             return null;
+---
+>         } else if (str.equals(nullString)) {            return null;

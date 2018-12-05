@@ -1,0 +1,4 @@
+137c137
+<         Validate.isTrue(ch != null, "The Character must not be null");
+---
+>         Validate.isTrue	(ch != null, "The Character must not be null");

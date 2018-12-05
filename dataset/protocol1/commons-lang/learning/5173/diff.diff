@@ -1,0 +1,5 @@
+689c689,690
+<     public static final String OS_ARCH = getSystemProperty("os.arch");
+---
+>     
+> public static final String OS_ARCH = getSystemProperty("os.arch");

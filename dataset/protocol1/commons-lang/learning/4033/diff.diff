@@ -1,0 +1,4 @@
+731c731
+<     private static boolean isDelimiter(final char ch, final char[] delimiters) {
+---
+>     private static boolean isDelimiter(final char ch, final char[] delimiters) 	{

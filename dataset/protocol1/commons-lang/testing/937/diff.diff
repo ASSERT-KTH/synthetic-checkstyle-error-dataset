@@ -1,0 +1,4 @@
+775c775
+<                     result = ((Object[]) obj).clone();
+---
+>                     result = ((Object[]) obj).	clone();

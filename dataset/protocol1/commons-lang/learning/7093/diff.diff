@@ -1,0 +1,5 @@
+619,620c619
+<         if (source == null) {
+<             return false;
+---
+>         if (source == null) {            return false;

@@ -1,0 +1,5 @@
+220c220,221
+<     public static <T> Constructor<T> getAccessibleConstructor(final Constructor<T> ctor) {
+---
+>     public static <T> 
+> Constructor<T> getAccessibleConstructor(final Constructor<T> ctor) {

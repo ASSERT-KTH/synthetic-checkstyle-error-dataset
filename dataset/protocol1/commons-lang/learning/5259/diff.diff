@@ -1,0 +1,4 @@
+327c327
+<             pos = str.indexOf('/');
+---
+>             pos = str.indexOf('/')	;

@@ -1,0 +1,5 @@
+72c72,73
+< public class FastDateFormat extends Format implements DateParser, DatePrinter {
+---
+> public class FastDateFormat 
+> extends Format implements DateParser, DatePrinter {

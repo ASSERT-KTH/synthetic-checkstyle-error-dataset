@@ -1,0 +1,4 @@
+268c268
+<                 out.write(input.toString());
+---
+>                 	out.write(input.toString());

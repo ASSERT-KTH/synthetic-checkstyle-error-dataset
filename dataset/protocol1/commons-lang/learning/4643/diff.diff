@@ -1,0 +1,4 @@
+255c255
+<     public static Throwable[] getThrowables(final Throwable throwable) {
+---
+>     public static 	Throwable[] getThrowables(final Throwable throwable) {

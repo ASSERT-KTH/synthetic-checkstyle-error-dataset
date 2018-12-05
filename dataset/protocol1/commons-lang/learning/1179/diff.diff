@@ -1,0 +1,4 @@
+206c206
+<         return notNull(object, DEFAULT_IS_NULL_EX_MESSAGE);
+---
+>         return notNull(	object, DEFAULT_IS_NULL_EX_MESSAGE);

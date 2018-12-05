@@ -1,0 +1,5 @@
+190c190,191
+<         for (final BackgroundInitializer<?> bi : inits.values()) {
+---
+>         for (final BackgroundInitializer<?> bi 
+> : inits.values()) {

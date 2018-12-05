@@ -1,0 +1,4 @@
+77c77
+<                 new Class[] { listenerType }, new EventBindingInvocationHandler(target, methodName, eventTypes)));
+---
+>                 new Class[] { listenerType }, new EventBindingInvocationHandler	(target, methodName, eventTypes)));

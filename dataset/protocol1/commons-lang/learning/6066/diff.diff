@@ -1,0 +1,4 @@
+1098c1098
+<     public static boolean isInstance(final Object value, final Type type) {
+---
+>     public static boolean isInstance(final 	Object value, final Type type) {

@@ -1,0 +1,5 @@
+209c209,210
+<         final long[] result = new long[(enumClass.getEnumConstants().length - 1) / Long.SIZE + 1];
+---
+>         final long[] result = new long[(enumClass.getEnumConstants().length - 
+> 1) / Long.SIZE + 1];

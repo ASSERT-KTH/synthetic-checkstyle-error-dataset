@@ -1,0 +1,5 @@
+671c671,672
+<     public static final String LINE_SEPARATOR = getSystemProperty("line.separator");
+---
+>     
+> public static final String LINE_SEPARATOR = getSystemProperty("line.separator");

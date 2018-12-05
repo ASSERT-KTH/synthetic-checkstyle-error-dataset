@@ -1,0 +1,4 @@
+76c76
+<         this.value = Double.parseDouble(value);
+---
+>         	this.value = Double.parseDouble(value);

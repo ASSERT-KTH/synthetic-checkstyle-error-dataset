@@ -1,0 +1,4 @@
+99c99
+<     public static boolean isSupported(final String name) {
+---
+>     public static boolean 	isSupported(final String name) {

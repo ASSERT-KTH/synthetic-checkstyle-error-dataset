@@ -1,0 +1,5 @@
+63c63,64
+<             final StringWriter writer = new StringWriter(input.length() * 2);
+---
+>             final StringWriter writer = 
+> new StringWriter(input.length() * 2);

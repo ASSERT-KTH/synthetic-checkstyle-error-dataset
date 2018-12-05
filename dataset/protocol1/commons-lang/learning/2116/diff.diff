@@ -1,0 +1,4 @@
+257c257
+<         return list.toArray(new Throwable[list.size()]);
+---
+>         return list.toArray(	new Throwable[list.size()]);

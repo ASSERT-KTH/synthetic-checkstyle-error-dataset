@@ -1,0 +1,4 @@
+302c302
+<         final EnumSet<E> results = EnumSet.noneOf(asEnum(enumClass));
+---
+>         final EnumSet<E	> results = EnumSet.noneOf(asEnum(enumClass));

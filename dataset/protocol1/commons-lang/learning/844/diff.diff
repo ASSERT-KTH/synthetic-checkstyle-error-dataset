@@ -1,0 +1,4 @@
+59c59
+<                     throw new IllegalArgumentException("Unable to parse unicode value: " + unicode, nfe);
+---
+>                     throw new IllegalArgumentException	("Unable to parse unicode value: " + unicode, nfe);

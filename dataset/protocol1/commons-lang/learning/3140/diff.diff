@@ -1,0 +1,4 @@
+486c486
+<         substitute(buf, 0, buf.length());
+---
+>         substitute(buf, 0, buf.length())	;

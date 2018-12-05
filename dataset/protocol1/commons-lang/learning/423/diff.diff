@@ -1,0 +1,4 @@
+784c784
+<                     buf.deleteCharAt(pos - 1);
+---
+>                     buf	.deleteCharAt(pos - 1);

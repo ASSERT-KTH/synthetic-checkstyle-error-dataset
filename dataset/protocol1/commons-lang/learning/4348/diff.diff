@@ -1,0 +1,5 @@
+354,355c354
+<         StringMatcher(final String str) {
+<             super();
+---
+>         StringMatcher(final String str) {            super();

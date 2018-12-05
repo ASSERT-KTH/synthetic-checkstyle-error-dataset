@@ -1,0 +1,4 @@
+202c202
+<         asEnum(enumClass);
+---
+>         asEnum(enumClass)	;

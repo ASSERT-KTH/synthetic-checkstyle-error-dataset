@@ -1,0 +1,4 @@
+78c78
+<     Object getFirstContextValue(String label);
+---
+>     Object getFirstContextValue(	String label);

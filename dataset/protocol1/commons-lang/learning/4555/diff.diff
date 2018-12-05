@@ -1,0 +1,5 @@
+89c89,90
+<         return Byte.valueOf(this.value);
+---
+>         
+> return Byte.valueOf(this.value);

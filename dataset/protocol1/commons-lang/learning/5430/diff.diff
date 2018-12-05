@@ -1,0 +1,4 @@
+178c178
+<         Set<Pair<IDKey, IDKey>> registry = getRegistry();
+---
+>         Set<Pair<IDKey, IDKey>	> registry = getRegistry();

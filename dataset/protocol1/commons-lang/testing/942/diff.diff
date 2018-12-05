@@ -1,0 +1,4 @@
+100c100
+<         if (!(other instanceof GmtTimeZone)) {
+---
+>         if 	(!(other instanceof GmtTimeZone)) {

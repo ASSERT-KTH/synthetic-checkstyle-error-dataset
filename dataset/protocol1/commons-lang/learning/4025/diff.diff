@@ -1,0 +1,4 @@
+109c109
+<         return new EventListenerSupport<>(listenerInterface);
+---
+>         return 	new EventListenerSupport<>(listenerInterface);

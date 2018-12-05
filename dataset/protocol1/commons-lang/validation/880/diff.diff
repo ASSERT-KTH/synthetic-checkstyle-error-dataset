@@ -1,0 +1,4 @@
+773c773
+<     public void setAppendTransients(final boolean appendTransients) {
+---
+>     public void setAppendTransients	(final boolean appendTransients) {

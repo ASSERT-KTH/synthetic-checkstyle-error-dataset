@@ -1,0 +1,5 @@
+328,329c328
+<     public boolean isAfterRange(final Range<T> otherRange) {
+<         if (otherRange == null) {
+---
+>     public boolean isAfterRange(final Range<T> otherRange) {        if (otherRange == null) {

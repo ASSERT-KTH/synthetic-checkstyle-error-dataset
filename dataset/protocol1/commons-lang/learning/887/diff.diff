@@ -1,0 +1,4 @@
+196c196
+<     public void addListener(final L listener, final boolean allowDuplicate) {
+---
+>     	public void addListener(final L listener, final boolean allowDuplicate) {

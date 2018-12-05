@@ -1,0 +1,5 @@
+318c318,319
+<     public double doubleValue() {
+---
+>     
+> public double doubleValue() {

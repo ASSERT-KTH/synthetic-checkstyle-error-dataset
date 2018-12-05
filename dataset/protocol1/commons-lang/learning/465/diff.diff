@@ -1,0 +1,5 @@
+72c72,73
+<         return random(count, false, false);
+---
+>         return random(count, false, 
+> false);

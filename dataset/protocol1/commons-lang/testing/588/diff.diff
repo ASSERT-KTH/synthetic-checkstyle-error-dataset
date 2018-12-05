@@ -1,0 +1,4 @@
+703c703
+<         Validate.notEmpty(items, "null/empty items");
+---
+>         Validate.notEmpty	(items, "null/empty items");

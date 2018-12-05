@@ -1,0 +1,5 @@
+130c130,131
+<         final int last = value;
+---
+>         final 
+> int last = value;

@@ -1,0 +1,4 @@
+411c411
+<         return text.replaceFirst(regex, replacement);
+---
+>         return text.replaceFirst(	regex, replacement);

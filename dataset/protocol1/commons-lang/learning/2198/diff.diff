@@ -1,0 +1,4 @@
+4765c4765
+<         final List<?> subList = list.subList(startIndex, endIndex);
+---
+>         final List<?> subList 	= list.subList(startIndex, endIndex);

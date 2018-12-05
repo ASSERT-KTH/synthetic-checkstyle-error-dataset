@@ -1,0 +1,5 @@
+76,77c76
+<         for (int i = 1; i < sz; i++) {
+<             ch = chrs[i];
+---
+>         for (int i = 1; i < sz; i++) {            ch = chrs[i];

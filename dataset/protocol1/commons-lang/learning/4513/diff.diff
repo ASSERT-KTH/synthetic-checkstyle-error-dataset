@@ -1,0 +1,5 @@
+138,139c138
+<             final int precision, final char padChar, final CharSequence ellipsis) {
+<         Validate.isTrue(ellipsis == null || precision < 0 || ellipsis.length() <= precision,
+---
+>             final int precision, final char padChar, final CharSequence ellipsis) {        Validate.isTrue(ellipsis == null || precision < 0 || ellipsis.length() <= precision,

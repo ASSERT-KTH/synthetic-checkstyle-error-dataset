@@ -1,0 +1,4 @@
+342c342
+<             if ((c == START_FMT || c == END_FE) && result.length() > 0) {
+---
+>             	if ((c == START_FMT || c == END_FE) && result.length() > 0) {

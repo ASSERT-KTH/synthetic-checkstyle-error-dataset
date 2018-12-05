@@ -1,0 +1,5 @@
+199c199,200
+<     public int compareTo(final MutableBoolean other) {
+---
+>     public 
+> int compareTo(final MutableBoolean other) {

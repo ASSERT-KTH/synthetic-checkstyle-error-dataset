@@ -1,0 +1,4 @@
+94c94
+<         this.toString = String.format("%s<%s>", TypeLiteral.class.getSimpleName(), TypeUtils.toString(value));
+---
+>         this.toString = String.format("%s<%s>", TypeLiteral.class.	getSimpleName(), TypeUtils.toString(value));

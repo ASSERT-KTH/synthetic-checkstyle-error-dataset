@@ -1,0 +1,4 @@
+268c268
+<         int index2 = start;
+---
+>         int index2 = 	start;

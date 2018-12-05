@@ -1,0 +1,5 @@
+1977c1977,1978
+<     protected void setFieldSeparatorAtEnd(final boolean fieldSeparatorAtEnd) {
+---
+>     protected void setFieldSeparatorAtEnd(final 
+> boolean fieldSeparatorAtEnd) {

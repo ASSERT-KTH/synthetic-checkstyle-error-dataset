@@ -1,0 +1,5 @@
+668c668,669
+<             if (startIndex < 0 || startIndex > totalLength) {
+---
+>             if (startIndex < 0 || startIndex 
+> > totalLength) {

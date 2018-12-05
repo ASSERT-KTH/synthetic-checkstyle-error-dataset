@@ -1,0 +1,5 @@
+557c557,558
+<     private Strategy getStrategy(final char f, final int width, final Calendar definingCalendar) {
+---
+>     private Strategy getStrategy(final char f, 
+> final int width, final Calendar definingCalendar) {

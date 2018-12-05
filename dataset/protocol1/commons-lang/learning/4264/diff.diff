@@ -1,0 +1,4 @@
+80c80
+<         F format = cInstanceCache.get(key);
+---
+>         F format = cInstanceCache.get	(key);

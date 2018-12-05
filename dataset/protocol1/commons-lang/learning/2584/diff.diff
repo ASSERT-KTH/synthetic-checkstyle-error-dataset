@@ -1,0 +1,5 @@
+64c64,65
+<         if (StringUtils.isEmpty(str) || deepEmpty(set)) {
+---
+>         if (StringUtils.isEmpty(str) || 
+> deepEmpty(set)) {

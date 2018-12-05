@@ -1,0 +1,4 @@
+57c57
+<     private static final String DEFAULT_IS_NULL_EX_MESSAGE = "The validated object is null";
+---
+>     private static final String 	DEFAULT_IS_NULL_EX_MESSAGE = "The validated object is null";

@@ -1,0 +1,4 @@
+29c29
+< public class MutableShort extends Number implements Comparable<MutableShort>, Mutable<Number> {
+---
+> public class MutableShort extends Number implements Comparable<MutableShort>, 	Mutable<Number> {

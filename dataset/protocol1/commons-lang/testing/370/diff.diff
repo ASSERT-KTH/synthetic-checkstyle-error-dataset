@@ -1,0 +1,4 @@
+593c593
+<     public static <T extends Comparable<? super T>> T min(final T... values) {
+---
+>     public static <T extends Comparable<	? super T>> T min(final T... values) {

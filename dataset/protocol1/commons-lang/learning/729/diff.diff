@@ -1,0 +1,4 @@
+217c217
+<             Thread.currentThread().interrupt();
+---
+>             	Thread.currentThread().interrupt();

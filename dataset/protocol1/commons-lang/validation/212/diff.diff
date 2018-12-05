@@ -1,0 +1,4 @@
+465c465
+<         return String.format(format, minimum, maximum, comparator);
+---
+>         return String.format(format, minimum, maximum, comparator)	;

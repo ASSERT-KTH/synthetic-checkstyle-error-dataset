@@ -1,0 +1,5 @@
+94c94,95
+<     private static volatile ToStringStyle defaultStyle = ToStringStyle.DEFAULT_STYLE;
+---
+>     private static volatile ToStringStyle defaultStyle 
+> = ToStringStyle.DEFAULT_STYLE;

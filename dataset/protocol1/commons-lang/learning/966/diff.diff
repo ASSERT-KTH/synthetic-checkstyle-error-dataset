@@ -1,0 +1,4 @@
+145c145
+<         final Map<String, String> r = new HashMap<>();
+---
+>         final Map<String, String> r = new HashMap<	>();

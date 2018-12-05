@@ -1,0 +1,5 @@
+305c305,306
+<         return collection;
+---
+>         
+> return collection;

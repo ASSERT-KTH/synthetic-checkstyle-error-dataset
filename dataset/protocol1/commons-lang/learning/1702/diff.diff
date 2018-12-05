@@ -1,0 +1,5 @@
+259c259,260
+<     public short getAndAdd(final short operand) {
+---
+>     
+> public short getAndAdd(final short operand) {

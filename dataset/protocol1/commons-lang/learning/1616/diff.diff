@@ -1,0 +1,4 @@
+367c367
+<         return super.isFieldSeparatorAtStart();
+---
+>         return super.isFieldSeparatorAtStart	();

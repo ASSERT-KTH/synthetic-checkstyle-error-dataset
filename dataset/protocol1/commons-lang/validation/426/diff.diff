@@ -1,0 +1,4 @@
+662c662
+<     protected void appendSummary(final StringBuffer buffer, final String fieldName, final Object value) {
+---
+>     protected void appendSummary(final StringBuffer buffer, final String 	fieldName, final Object value) {

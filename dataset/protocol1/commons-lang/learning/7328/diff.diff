@@ -1,0 +1,4 @@
+40c40
+<         Validate.isTrue(array != null, "The Array must not be null");
+---
+>         Validate	.isTrue(array != null, "The Array must not be null");

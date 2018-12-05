@@ -1,0 +1,5 @@
+484c484,485
+<     static final Object M = "M";
+---
+>     static 
+> final Object M = "M";

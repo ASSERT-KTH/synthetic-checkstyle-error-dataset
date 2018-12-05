@@ -1,0 +1,5 @@
+173,174c173
+<         if (startInclusive == endInclusive) {
+<             return startInclusive;
+---
+>         if (startInclusive == endInclusive) {            return startInclusive;

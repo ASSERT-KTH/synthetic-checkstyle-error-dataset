@@ -1,0 +1,4 @@
+196c196
+<             return getPrimitivePromotionCost(srcClass, destClass);
+---
+>             return 	getPrimitivePromotionCost(srcClass, destClass);

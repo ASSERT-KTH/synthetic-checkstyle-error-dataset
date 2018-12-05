@@ -1,0 +1,4 @@
+776c776
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final byte value) {
+---
+>     protected void appendDetail(final StringBuffer buffer, final String fieldName	, final byte value) {

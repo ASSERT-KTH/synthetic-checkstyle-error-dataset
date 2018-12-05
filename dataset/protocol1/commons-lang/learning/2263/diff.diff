@@ -1,0 +1,4 @@
+446c446
+<         return random(count, chars.toCharArray());
+---
+>         	return random(count, chars.toCharArray());

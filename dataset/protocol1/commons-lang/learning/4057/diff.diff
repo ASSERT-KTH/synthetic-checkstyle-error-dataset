@@ -1,0 +1,5 @@
+98c98,99
+<             throw new IllegalArgumentException("Cannot interpret '" + hexDigit + "' as a hexadecimal digit");
+---
+>             throw new IllegalArgumentException("Cannot interpret '" 
+> + hexDigit + "' as a hexadecimal digit");

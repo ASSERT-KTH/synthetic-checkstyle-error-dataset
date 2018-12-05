@@ -1,0 +1,4 @@
+302c302
+<     public static FastDateFormat getTimeInstance(final int style, final TimeZone timeZone, final Locale locale) {
+---
+>     public static FastDateFormat getTimeInstance(final int style, final TimeZone timeZone, final Locale 	locale) {

@@ -1,0 +1,5 @@
+292,293c292
+<     public int setBoolean(final int holder, final boolean flag) {
+<         return flag ? set(holder) : clear(holder);
+---
+>     public int setBoolean(final int holder, final boolean flag) {        return flag ? set(holder) : clear(holder);

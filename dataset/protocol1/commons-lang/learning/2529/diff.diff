@@ -1,0 +1,4 @@
+913c913
+<         for (int i = 0; i < lhs.length && isEquals; ++i) {
+---
+>         for (int i = 0; i 	< lhs.length && isEquals; ++i) {

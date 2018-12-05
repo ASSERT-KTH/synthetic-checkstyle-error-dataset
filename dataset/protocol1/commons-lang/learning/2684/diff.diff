@@ -1,0 +1,4 @@
+306c306
+<         if (componentType.equals(Double.TYPE)) {
+---
+>         if 	(componentType.equals(Double.TYPE)) {

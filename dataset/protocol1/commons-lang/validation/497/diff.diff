@@ -1,0 +1,4 @@
+1554c1554
+<             buffer.append(fieldName);
+---
+>             	buffer.append(fieldName);

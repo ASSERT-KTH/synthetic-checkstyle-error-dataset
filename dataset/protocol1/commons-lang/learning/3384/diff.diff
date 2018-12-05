@@ -1,0 +1,4 @@
+628c628
+<         return initials(str, null);
+---
+>         	return initials(str, null);

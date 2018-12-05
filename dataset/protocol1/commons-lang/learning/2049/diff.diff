@@ -1,0 +1,5 @@
+288c288,289
+<         style.append(buffer, null, array, null);
+---
+>         style.append(buffer, null, 
+> array, null);

@@ -1,0 +1,4 @@
+233c233
+<         final StringBuilder buffer = new StringBuilder(str.length());
+---
+>         final StringBuilder buffer = new StringBuilder(str	.length());

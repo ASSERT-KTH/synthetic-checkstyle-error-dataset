@@ -1,0 +1,5 @@
+1664c1664,1665
+<     private static long getFragment(final Calendar calendar, final int fragment, final TimeUnit unit) {
+---
+>     private static long getFragment(final Calendar calendar, 
+> final int fragment, final TimeUnit unit) {

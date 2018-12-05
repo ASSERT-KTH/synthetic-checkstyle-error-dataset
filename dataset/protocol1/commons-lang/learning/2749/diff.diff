@@ -1,0 +1,5 @@
+322,323c322
+<     public static String format(final Calendar calendar, final String pattern, final TimeZone timeZone) {
+<         return format(calendar, pattern, timeZone, null);
+---
+>     public static String format(final Calendar calendar, final String pattern, final TimeZone timeZone) {        return format(calendar, pattern, timeZone, null);

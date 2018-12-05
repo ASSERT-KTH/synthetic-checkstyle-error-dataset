@@ -1,0 +1,4 @@
+136c136
+<     public ContextedRuntimeException(final String message, final Throwable cause) {
+---
+>     public ContextedRuntimeException(final String message, 	final Throwable cause) {

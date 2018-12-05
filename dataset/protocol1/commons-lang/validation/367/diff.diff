@@ -1,0 +1,4 @@
+188c188
+<         return nextDouble(0, Double.MAX_VALUE);
+---
+>         return nextDouble(0, 	Double.MAX_VALUE);

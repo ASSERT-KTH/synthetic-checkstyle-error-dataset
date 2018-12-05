@@ -1,0 +1,5 @@
+126c126,127
+<         uncaughtExceptionHandler = builder.exceptionHandler;
+---
+>         uncaughtExceptionHandler = 
+> builder.exceptionHandler;

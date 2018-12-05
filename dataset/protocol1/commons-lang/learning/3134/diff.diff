@@ -1,0 +1,4 @@
+75c75
+<         {"\u00C1", "&Aacute;"}, // Á - uppercase A, acute accent
+---
+>         	{"\u00C1", "&Aacute;"}, // Á - uppercase A, acute accent

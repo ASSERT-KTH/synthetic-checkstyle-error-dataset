@@ -1,0 +1,4 @@
+47c47
+<     private final List<Pair<String, Object>> contextValues = new ArrayList<>();
+---
+>     private final List<Pair<String, Object>> contextValues = new ArrayList<>	();

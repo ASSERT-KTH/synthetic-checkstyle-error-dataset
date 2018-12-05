@@ -1,0 +1,5 @@
+818,819c818
+<         }
+<         isEquals = lhs == rhs;
+---
+>         }        isEquals = lhs == rhs;

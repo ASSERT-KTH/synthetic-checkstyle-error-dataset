@@ -1,0 +1,5 @@
+7839,7840c7839
+<         while ((index = indexOf(array, element, indices[count - 1] + 1)) != INDEX_NOT_FOUND) {
+<             indices[count++] = index;
+---
+>         while ((index = indexOf(array, element, indices[count - 1] + 1)) != INDEX_NOT_FOUND) {            indices[count++] = index;

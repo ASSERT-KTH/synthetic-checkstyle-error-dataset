@@ -1,0 +1,5 @@
+109,110c109
+<         if (object == null) {
+<             return true;
+---
+>         if (object == null) {            return true;

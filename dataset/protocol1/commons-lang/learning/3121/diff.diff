@@ -1,0 +1,4 @@
+306c306
+<         return flag ? setShort(holder) : clearShort(holder);
+---
+>         return flag 	? setShort(holder) : clearShort(holder);

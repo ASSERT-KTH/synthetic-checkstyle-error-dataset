@@ -1,0 +1,4 @@
+157c157
+<         return HTML40_EXTENDED_ESCAPE.clone();
+---
+>         return HTML40_EXTENDED_ESCAPE.clone	();

@@ -1,0 +1,4 @@
+492c492
+<         super.setSizeEndText(sizeEndText);
+---
+>         super.setSizeEndText	(sizeEndText);

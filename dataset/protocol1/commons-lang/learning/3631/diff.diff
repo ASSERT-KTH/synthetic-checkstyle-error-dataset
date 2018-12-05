@@ -1,0 +1,4 @@
+718c718
+<         return readWithQuotes(srcChars, start, len, workArea, tokenList, 0, 0);
+---
+>         return readWithQuotes(srcChars, start, 	len, workArea, tokenList, 0, 0);

@@ -1,0 +1,4 @@
+292c292
+<         this.prototypeArray = array;
+---
+>         this.prototypeArray = 	array;

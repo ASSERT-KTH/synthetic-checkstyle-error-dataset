@@ -1,0 +1,5 @@
+495,496c495
+<     public static boolean isAsciiAlphaLower(final char ch) {
+<         return ch >= 'a' && ch <= 'z';
+---
+>     public static boolean isAsciiAlphaLower(final char ch) {        return ch >= 'a' && ch <= 'z';

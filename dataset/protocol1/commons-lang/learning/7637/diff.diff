@@ -1,0 +1,5 @@
+1258c1258,1259
+<     public static final boolean IS_OS_OPEN_BSD = getOsMatchesName("OpenBSD");
+---
+>     public static final boolean IS_OS_OPEN_BSD = 
+> getOsMatchesName("OpenBSD");

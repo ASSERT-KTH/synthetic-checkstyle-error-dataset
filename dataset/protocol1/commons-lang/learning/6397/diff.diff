@@ -1,0 +1,5 @@
+1692c1692,1693
+<     public static boolean isJavaVersionAtLeast(final JavaVersion requiredVersion) {
+---
+>     public static boolean 
+> isJavaVersionAtLeast(final JavaVersion requiredVersion) {

@@ -1,0 +1,4 @@
+186c186
+<                 if (c[pos.getIndex()] != END_FE) {
+---
+>                 if (c[pos.getIndex(	)] != END_FE) {

@@ -1,0 +1,4 @@
+113c113
+<                 if (isSet(OPTION.errorIfNoSemiColon)) {
+---
+>                 if (isSet(OPTION.errorIfNoSemiColon	)) {

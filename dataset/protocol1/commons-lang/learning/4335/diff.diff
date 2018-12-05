@@ -1,0 +1,4 @@
+1739c1739
+<             return withDecimalsParsing(str, 1);
+---
+>             return withDecimalsParsing	(str, 1);

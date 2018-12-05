@@ -1,0 +1,5 @@
+213,214c213
+<     public static List<Field> getAllFieldsList(final Class<?> cls) {
+<         Validate.isTrue(cls != null, "The class must not be null");
+---
+>     public static List<Field> getAllFieldsList(final Class<?> cls) {        Validate.isTrue(cls != null, "The class must not be null");

@@ -1,0 +1,4 @@
+162c162
+<         return (holder & _mask) != 0;
+---
+>         return 	(holder & _mask) != 0;

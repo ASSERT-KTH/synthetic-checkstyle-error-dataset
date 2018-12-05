@@ -1,0 +1,4 @@
+56c56
+<     public MutableBoolean(final boolean value) {
+---
+>     public 	MutableBoolean(final boolean value) {

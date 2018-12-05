@@ -1,0 +1,4 @@
+255c255
+<         private static final char CSV_DELIMITER = ',';
+---
+>         private static final char CSV_DELIMITER = ','	;

@@ -1,0 +1,5 @@
+273,274c273
+<         }
+<         return comparator.compare(element, maximum) > 0;
+---
+>         }        return comparator.compare(element, maximum) > 0;

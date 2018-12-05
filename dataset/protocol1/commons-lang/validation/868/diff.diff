@@ -1,0 +1,4 @@
+1359c1359
+<         public int estimateLength() {
+---
+>         public 	int estimateLength() {

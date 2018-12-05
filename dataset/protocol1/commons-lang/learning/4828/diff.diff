@@ -1,0 +1,4 @@
+471c471
+<     public static Date addMinutes(final Date date, final int amount) {
+---
+>     	public static Date addMinutes(final Date date, final int amount) {

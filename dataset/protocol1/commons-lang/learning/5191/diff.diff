@@ -1,0 +1,4 @@
+38c38
+<     private static final String S_DOES_NOT_SEEM_TO_BE_AN_ENUM_TYPE = "%s does not seem to be an Enum type";
+---
+>     private static final String S_DOES_NOT_SEEM_TO_BE_AN_ENUM_TYPE 	= "%s does not seem to be an Enum type";

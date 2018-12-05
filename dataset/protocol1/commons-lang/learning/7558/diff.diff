@@ -1,0 +1,4 @@
+805c805
+<         iTotal = iTotal * iConstant + ((int) (value ^ (value >> 32)));
+---
+>         iTotal = iTotal * iConstant + ((int) (value ^ (value 	>> 32)));

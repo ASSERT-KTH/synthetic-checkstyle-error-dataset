@@ -1,0 +1,5 @@
+700,701c700
+<         if (comparison != 0) {
+<             return this;
+---
+>         if (comparison != 0) {            return this;

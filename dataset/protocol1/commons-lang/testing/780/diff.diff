@@ -1,0 +1,4 @@
+264c264
+<         this.value += operand.floatValue();
+---
+>         this.value 	+= operand.floatValue();

@@ -1,0 +1,5 @@
+74c74,75
+<     public static <L> void bindEventsToMethod(final Object target, final String methodName, final Object eventSource,
+---
+>     public static <L> 
+> void bindEventsToMethod(final Object target, final String methodName, final Object eventSource,

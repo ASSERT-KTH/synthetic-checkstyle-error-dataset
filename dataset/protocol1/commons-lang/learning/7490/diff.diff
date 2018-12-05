@@ -1,0 +1,5 @@
+562c562,563
+<             return breaker.getClosingInterval();
+---
+>             
+> return breaker.getClosingInterval();

@@ -1,0 +1,5 @@
+780c780,781
+<     public Fraction multiplyBy(final Fraction fraction) {
+---
+>     public Fraction multiplyBy(final 
+> Fraction fraction) {

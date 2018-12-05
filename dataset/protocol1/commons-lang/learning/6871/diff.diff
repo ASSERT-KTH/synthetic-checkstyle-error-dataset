@@ -1,0 +1,5 @@
+283c283,284
+<     public static <E extends Enum<E>> EnumSet<E> processBitVector(final Class<E> enumClass, final long value) {
+---
+>     public static 
+> <E extends Enum<E>> EnumSet<E> processBitVector(final Class<E> enumClass, final long value) {

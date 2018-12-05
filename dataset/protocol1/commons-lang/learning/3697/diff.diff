@@ -1,0 +1,4 @@
+250c250
+<     public ToStringBuilder(final Object object, ToStringStyle style, StringBuffer buffer) {
+---
+>     public ToStringBuilder(final Object object, 	ToStringStyle style, StringBuffer buffer) {

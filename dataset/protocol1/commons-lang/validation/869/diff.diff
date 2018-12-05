@@ -1,0 +1,5 @@
+74c74,75
+< public abstract class TypeLiteral<T> implements Typed<T> {
+---
+> public abstract 
+> class TypeLiteral<T> implements Typed<T> {

@@ -1,0 +1,4 @@
+68c68
+<     public MutablePair(final L left, final R right) {
+---
+>     public MutablePair(final L left, final R right) 	{

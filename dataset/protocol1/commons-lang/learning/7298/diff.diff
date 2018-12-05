@@ -1,0 +1,4 @@
+558c558
+<         style.append(buffer, fieldName, array, Boolean.valueOf(fullDetail));
+---
+>         style.append(	buffer, fieldName, array, Boolean.valueOf(fullDetail));

@@ -1,0 +1,4 @@
+242c242
+<         final int defaultReturnValue = -1;
+---
+>         final int defaultReturnValue = -	1;

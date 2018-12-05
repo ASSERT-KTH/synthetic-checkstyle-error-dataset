@@ -1,0 +1,5 @@
+113c113,114
+<         for (final Field field : FieldUtils.getAllFields(clazz)) {
+---
+>         for 
+> (final Field field : FieldUtils.getAllFields(clazz)) {

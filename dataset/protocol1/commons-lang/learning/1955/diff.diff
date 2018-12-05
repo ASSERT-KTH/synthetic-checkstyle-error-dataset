@@ -1,0 +1,4 @@
+173c173
+<                 final Class<?> sourceClass = srcArgs[srcArgs.length-1].getComponentType();
+---
+>                 final Class<	?> sourceClass = srcArgs[srcArgs.length-1].getComponentType();

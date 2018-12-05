@@ -1,0 +1,4 @@
+2780c2780
+<             if (c1 != c2 && Character.toUpperCase(c1) != Character.toUpperCase(c2)) {
+---
+>             if (c1 != c2 && Character	.toUpperCase(c1) != Character.toUpperCase(c2)) {

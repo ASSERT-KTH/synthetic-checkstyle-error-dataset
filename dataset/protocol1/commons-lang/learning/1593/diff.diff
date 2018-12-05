@@ -1,0 +1,4 @@
+165c165
+<             final boolean explicitArrayForVarags = srcArgs.length == destArgs.length && srcArgs[srcArgs.length-1].isArray();
+---
+>             final boolean explicitArrayForVarags = srcArgs.length == destArgs.	length && srcArgs[srcArgs.length-1].isArray();

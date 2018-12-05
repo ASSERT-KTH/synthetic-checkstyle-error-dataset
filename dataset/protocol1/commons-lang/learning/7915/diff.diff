@@ -1,0 +1,4 @@
+51c51
+<             if (index + i + 4 <= input.length()) {
+---
+>             if (index + i 	+ 4 <= input.length()) {

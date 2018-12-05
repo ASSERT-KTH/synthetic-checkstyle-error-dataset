@@ -1,0 +1,5 @@
+102,103c102
+<             final int precision, final char padChar) {
+<         return append(seq, formatter, flags, width, precision, padChar, null);
+---
+>             final int precision, final char padChar) {        return append(seq, formatter, flags, width, precision, padChar, null);

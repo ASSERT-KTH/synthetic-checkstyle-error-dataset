@@ -1,0 +1,4 @@
+196c196
+<         while (pos < len) {
+---
+>         while (pos < 	len) {

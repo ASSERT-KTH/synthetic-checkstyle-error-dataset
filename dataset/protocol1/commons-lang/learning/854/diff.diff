@@ -1,0 +1,5 @@
+152,153c152
+<     public static long toLong(final String str) {
+<         return toLong(str, 0L);
+---
+>     public static long toLong(final String str) {        return toLong(str, 0L);

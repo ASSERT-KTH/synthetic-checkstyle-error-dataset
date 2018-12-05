@@ -1,0 +1,4 @@
+737c737
+<             methodArray = ArrayUtils.addAll(methodArray, klass.getDeclaredMethods());
+---
+>             methodArray = ArrayUtils.addAll(methodArray, klass	.getDeclaredMethods());

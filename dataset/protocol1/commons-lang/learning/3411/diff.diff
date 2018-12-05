@@ -1,0 +1,4 @@
+48c48
+<     private static final String DEFAULT_NOT_NAN_EX_MESSAGE =
+---
+>     private static final String DEFAULT_NOT_NAN_EX_MESSAGE 	=

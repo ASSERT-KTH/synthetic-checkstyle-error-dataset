@@ -1,0 +1,5 @@
+970c970,971
+<     private static final Strategy DAY_OF_YEAR_STRATEGY = new NumberStrategy(Calendar.DAY_OF_YEAR);
+---
+>     private static final Strategy DAY_OF_YEAR_STRATEGY 
+> = new NumberStrategy(Calendar.DAY_OF_YEAR);

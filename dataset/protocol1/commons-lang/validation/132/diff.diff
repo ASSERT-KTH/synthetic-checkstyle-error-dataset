@@ -1,0 +1,4 @@
+1374c1374
+<             appendSummary(buffer, fieldName, array);
+---
+>             appendSummary(buffer, fieldName	, array);

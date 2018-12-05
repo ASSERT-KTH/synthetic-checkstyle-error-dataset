@@ -1,0 +1,4 @@
+65c65
+<             final IDKey idKey = (IDKey) other;
+---
+>             final IDKey idKey = 	(IDKey) other;

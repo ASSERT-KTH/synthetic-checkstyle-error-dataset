@@ -1,0 +1,5 @@
+79,80c79
+<     public boolean useDaylightTime() {
+<         return false;
+---
+>     public boolean useDaylightTime() {        return false;

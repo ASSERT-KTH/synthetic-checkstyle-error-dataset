@@ -1,0 +1,5 @@
+197c197,198
+<     private static Throwable getCauseUsingMethodName(final Throwable throwable, final String methodName) {
+---
+>     private static Throwable getCauseUsingMethodName(final Throwable throwable, final String 
+> methodName) {

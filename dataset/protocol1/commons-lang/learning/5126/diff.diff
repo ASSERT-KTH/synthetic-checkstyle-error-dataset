@@ -1,0 +1,4 @@
+200c200
+<         this.value += operand.byteValue();
+---
+>         this.value += operand.byteValue(	);

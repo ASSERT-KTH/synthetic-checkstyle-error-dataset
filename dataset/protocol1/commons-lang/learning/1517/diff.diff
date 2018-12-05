@@ -1,0 +1,5 @@
+83,84c83
+<         if (result == null) {
+<             result = initialize();
+---
+>         if (result == null) {            result = initialize();

@@ -1,0 +1,5 @@
+304c304,305
+<         return indexOf(throwable, clazz, 0, false);
+---
+>         return 
+> indexOf(throwable, clazz, 0, false);

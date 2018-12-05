@@ -1,0 +1,4 @@
+354c354
+<             new LookupTranslator(EntityArrays.ISO8859_1_UNESCAPE()),
+---
+>             new LookupTranslator(EntityArrays.ISO8859_1_UNESCAPE	()),

@@ -1,0 +1,5 @@
+193c193,194
+<         return (StrTokenizer) TSV_TOKENIZER_PROTOTYPE.clone();
+---
+>         return 
+> (StrTokenizer) TSV_TOKENIZER_PROTOTYPE.clone();

@@ -1,0 +1,5 @@
+353c353,354
+<         super.setFieldSeparator(fieldSeparator);
+---
+>         
+> super.setFieldSeparator(fieldSeparator);

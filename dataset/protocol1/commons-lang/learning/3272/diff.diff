@@ -1,0 +1,5 @@
+1018c1018,1019
+<             throw new IllegalArgumentException("The array must not contain any null elements");
+---
+>             throw 
+> new IllegalArgumentException("The array must not contain any null elements");

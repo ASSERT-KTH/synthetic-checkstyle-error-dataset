@@ -1,0 +1,4 @@
+293c293
+<         return flag ? set(holder) : clear(holder);
+---
+>         return flag ? set(holder) : clear(holder)	;

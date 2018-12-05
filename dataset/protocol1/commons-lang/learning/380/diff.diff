@@ -1,0 +1,4 @@
+82c82
+<         return context.getName() + "." + resourceName;
+---
+>         return context.getName(	) + "." + resourceName;

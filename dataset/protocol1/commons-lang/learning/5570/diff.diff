@@ -1,0 +1,5 @@
+369,370c369
+<     private String parseFormatDescription(final String pattern, final ParsePosition pos) {
+<         final int start = pos.getIndex();
+---
+>     private String parseFormatDescription(final String pattern, final ParsePosition pos) {        final int start = pos.getIndex();

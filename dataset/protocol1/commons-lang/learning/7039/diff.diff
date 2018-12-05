@@ -1,0 +1,4 @@
+82c82
+<     static final Locale JAPANESE_IMPERIAL = new Locale("ja", "JP", "JP");
+---
+>     static final Locale JAPANESE_IMPERIAL = 	new Locale("ja", "JP", "JP");

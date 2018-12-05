@@ -1,0 +1,4 @@
+186c186
+<             numeratorValue = whole * (long) denominator + numerator;
+---
+>             numeratorValue = whole * 	(long) denominator + numerator;

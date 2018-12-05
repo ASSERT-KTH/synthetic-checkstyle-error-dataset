@@ -1,0 +1,4 @@
+77c77
+<         return outsideOf(0, codepoint);
+---
+>         return 	outsideOf(0, codepoint);

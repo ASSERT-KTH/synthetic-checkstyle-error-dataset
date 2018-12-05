@@ -1,0 +1,4 @@
+1028c1028
+<         public void appendTo(final Appendable buffer, final Calendar calendar) throws IOException {
+---
+>         public void appendTo(final Appendable buffer, final Calendar calendar) throws 	IOException {

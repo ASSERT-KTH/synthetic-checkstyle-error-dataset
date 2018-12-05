@@ -1,0 +1,5 @@
+36c36,37
+<     public boolean translate(final int codepoint, final Writer out) throws IOException {
+---
+>     public boolean 
+> translate(final int codepoint, final Writer out) throws IOException {

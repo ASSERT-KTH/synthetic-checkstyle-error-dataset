@@ -1,0 +1,5 @@
+308c308,309
+<     public static String format(final Date date, final String pattern, final TimeZone timeZone) {
+---
+>     public static String format(final Date date, final 
+> String pattern, final TimeZone timeZone) {

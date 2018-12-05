@@ -1,0 +1,5 @@
+571c571,572
+<             method = getAccessibleMethodFromSuperclass(cls, methodName,
+---
+>             method = 
+> getAccessibleMethodFromSuperclass(cls, methodName,

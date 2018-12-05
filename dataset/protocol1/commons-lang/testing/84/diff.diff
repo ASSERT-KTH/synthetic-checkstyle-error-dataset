@@ -1,0 +1,4 @@
+134c134
+<             return Objects.equals(getKey(), other.getKey())
+---
+>             return Objects.equals(getKey	(), other.getKey())

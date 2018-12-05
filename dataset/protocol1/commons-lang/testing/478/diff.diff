@@ -1,0 +1,5 @@
+383c383,384
+<         return obj instanceof MutableFloat
+---
+>         return obj 
+> instanceof MutableFloat

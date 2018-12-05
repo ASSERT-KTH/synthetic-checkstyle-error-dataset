@@ -1,0 +1,4 @@
+82c82
+<     private static final Object NO_INIT = new Object();
+---
+>     private static final Object NO_INIT = new Object	();

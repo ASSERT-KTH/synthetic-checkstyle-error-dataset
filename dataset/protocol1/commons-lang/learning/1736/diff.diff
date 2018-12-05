@@ -1,0 +1,4 @@
+44c44
+<     String format(long millis);
+---
+>     String format(long millis)	;

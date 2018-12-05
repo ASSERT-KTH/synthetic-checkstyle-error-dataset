@@ -1,0 +1,4 @@
+225c225
+<         return nextFloat(0, Float.MAX_VALUE);
+---
+>         return 	nextFloat(0, Float.MAX_VALUE);

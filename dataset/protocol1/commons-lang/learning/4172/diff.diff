@@ -1,0 +1,4 @@
+131c131
+<         if (Modifier.isTransient(field.getModifiers())) {
+---
+>         if (	Modifier.isTransient(field.getModifiers())) {

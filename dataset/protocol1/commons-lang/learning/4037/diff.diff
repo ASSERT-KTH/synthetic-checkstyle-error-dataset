@@ -1,0 +1,4 @@
+618c618
+<     private static Method getAccessibleMethodFromInterfaceNest(Class<?> cls,
+---
+>     private static Method getAccessibleMethodFromInterfaceNest(	Class<?> cls,

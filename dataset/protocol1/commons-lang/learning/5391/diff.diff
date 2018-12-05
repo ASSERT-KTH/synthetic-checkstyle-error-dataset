@@ -1,0 +1,4 @@
+681c681
+<         } else if (lhs instanceof boolean[]) {
+---
+>         } else if (lhs instanceof 	boolean[]) {

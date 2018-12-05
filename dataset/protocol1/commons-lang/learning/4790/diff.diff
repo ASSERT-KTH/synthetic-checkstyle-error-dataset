@@ -1,0 +1,5 @@
+108c108,109
+<     public static <T> EventListenerSupport<T> create(final Class<T> listenerInterface) {
+---
+>     public static <T> EventListenerSupport<T> create(final 
+> Class<T> listenerInterface) {

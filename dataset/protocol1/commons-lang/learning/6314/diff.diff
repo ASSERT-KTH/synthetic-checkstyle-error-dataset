@@ -1,0 +1,4 @@
+843c843
+<             if (object.getClass().isArray()) {
+---
+>             if (	object.getClass().isArray()) {

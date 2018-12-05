@@ -1,0 +1,5 @@
+47c47,48
+<     private final Type type;
+---
+>     private final Type 
+> type;

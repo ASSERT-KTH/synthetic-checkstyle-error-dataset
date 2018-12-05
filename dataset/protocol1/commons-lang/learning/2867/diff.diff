@@ -1,0 +1,4 @@
+299c299
+<         isVarArgs = method.isVarArgs();
+---
+>         	isVarArgs = method.isVarArgs();

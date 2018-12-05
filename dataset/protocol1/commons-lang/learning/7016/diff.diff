@@ -1,0 +1,4 @@
+74c74
+<             buffer.append(ReflectionToStringBuilder.toString(value, this));
+---
+>             buffer.append(ReflectionToStringBuilder.toString(value, this))	;

@@ -1,0 +1,4 @@
+954c954
+<         if (nBools - 1 + dstPos >= 32) {
+---
+>         	if (nBools - 1 + dstPos >= 32) {

@@ -1,0 +1,4 @@
+116c116
+<                     diffBuilder.append(field.getName(), readField(field, left, true),
+---
+>                     diffBuilder.append(field.getName(), readField(field, left, 	true),

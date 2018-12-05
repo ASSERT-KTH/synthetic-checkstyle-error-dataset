@@ -1,0 +1,4 @@
+505c505
+<         for (int i = 0; i < format.length(); i++) {
+---
+>         for (int i = 0; i 	< format.length(); i++) {

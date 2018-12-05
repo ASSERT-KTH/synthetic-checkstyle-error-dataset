@@ -1,0 +1,4 @@
+281c281
+<         return 89 + set.hashCode();
+---
+>         	return 89 + set.hashCode();

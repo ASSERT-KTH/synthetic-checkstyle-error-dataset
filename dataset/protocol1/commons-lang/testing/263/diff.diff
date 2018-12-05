@@ -1,0 +1,4 @@
+87c87
+<         return Float.valueOf(this.value);
+---
+>         return Float.valueOf(	this.value);

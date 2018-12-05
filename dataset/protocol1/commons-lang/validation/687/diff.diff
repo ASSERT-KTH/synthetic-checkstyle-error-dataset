@@ -1,0 +1,4 @@
+612c612
+<         if (Modifier.isStatic(field.getModifiers()) && !this.isAppendStatics()) {
+---
+>         if (Modifier.isStatic(field.getModifiers()) && !	this.isAppendStatics()) {

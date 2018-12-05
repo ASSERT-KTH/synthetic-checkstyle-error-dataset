@@ -1,0 +1,4 @@
+208c208
+<     public static StrMatcher stringMatcher(final String str) {
+---
+>     public static StrMatcher 	stringMatcher(final String str) {

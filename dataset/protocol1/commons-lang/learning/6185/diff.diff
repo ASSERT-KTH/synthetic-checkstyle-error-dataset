@@ -1,0 +1,4 @@
+887c887
+<     public DiffBuilder append(final String fieldName, final Object[] lhs,
+---
+>     public DiffBuilder append(final 	String fieldName, final Object[] lhs,

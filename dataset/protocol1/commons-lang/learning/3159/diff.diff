@@ -1,0 +1,4 @@
+255c255
+<             return TFTF.clone();
+---
+>             return TFTF	.clone();

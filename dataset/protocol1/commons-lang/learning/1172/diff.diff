@@ -1,0 +1,5 @@
+1671c1671,1672
+<         final int offset = (unit == TimeUnit.DAYS) ? 0 : 1;
+---
+>         final int offset = (unit 
+> == TimeUnit.DAYS) ? 0 : 1;

@@ -1,0 +1,5 @@
+888c888,889
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final boolean value) {
+---
+>     protected void appendDetail(final StringBuffer buffer, 
+> final String fieldName, final boolean value) {

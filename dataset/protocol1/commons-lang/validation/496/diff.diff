@@ -1,0 +1,5 @@
+77,78c77
+<         if (prefixSet.contains(input.charAt(index))) {
+<             int max = longest;
+---
+>         if (prefixSet.contains(input.charAt(index))) {            int max = longest;

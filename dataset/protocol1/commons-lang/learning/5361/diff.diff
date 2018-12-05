@@ -1,0 +1,5 @@
+500,501c500
+<                 public Float getRight() {
+<                     return Float.valueOf(rhs);
+---
+>                 public Float getRight() {                    return Float.valueOf(rhs);

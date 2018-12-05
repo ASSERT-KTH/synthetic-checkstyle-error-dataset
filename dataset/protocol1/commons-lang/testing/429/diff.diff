@@ -1,0 +1,5 @@
+344c344,345
+<             return value == ((MutableInt) obj).intValue();
+---
+>             
+> return value == ((MutableInt) obj).intValue();

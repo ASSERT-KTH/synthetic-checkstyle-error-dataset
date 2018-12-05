@@ -1,0 +1,5 @@
+120,121c120
+<     public Type getType() {
+<         return value;
+---
+>     public Type getType() {        return value;

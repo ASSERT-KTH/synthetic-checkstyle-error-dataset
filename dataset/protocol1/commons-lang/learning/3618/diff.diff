@@ -1,0 +1,5 @@
+66,67c66
+<     public ConcurrentException(final String msg, final Throwable cause) {
+<         super(msg, ConcurrentUtils.checkedException(cause));
+---
+>     public ConcurrentException(final String msg, final Throwable cause) {        super(msg, ConcurrentUtils.checkedException(cause));

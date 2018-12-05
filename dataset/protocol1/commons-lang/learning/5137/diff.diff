@@ -1,0 +1,5 @@
+116c116,117
+<             Future<O> future = cache.get(arg);
+---
+>             
+> Future<O> future = cache.get(arg);

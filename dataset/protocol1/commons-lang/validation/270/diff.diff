@@ -1,0 +1,4 @@
+501c501
+<     public ReflectionToStringBuilder(final Object object, final ToStringStyle style) {
+---
+>     public 	ReflectionToStringBuilder(final Object object, final ToStringStyle style) {

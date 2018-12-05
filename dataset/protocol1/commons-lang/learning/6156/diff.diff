@@ -1,0 +1,4 @@
+96c96
+<     protected boolean accept(final Class<?> clazz) {
+---
+>     protected boolean accept(	final Class<?> clazz) {

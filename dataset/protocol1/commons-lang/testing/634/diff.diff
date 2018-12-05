@@ -1,0 +1,5 @@
+746,747c746
+<         if (strLen > 0) {
+<             final int len = length();
+---
+>         if (strLen > 0) {            final int len = length();

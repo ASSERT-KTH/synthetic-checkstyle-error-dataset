@@ -1,0 +1,4 @@
+193c193
+<     public Comparator<T> getComparator() {
+---
+>     public Comparator	<T> getComparator() {

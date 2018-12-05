@@ -1,0 +1,4 @@
+651c651
+<                     if (!excludeNullValues || fieldValue != null) {
+---
+>                     	if (!excludeNullValues || fieldValue != null) {

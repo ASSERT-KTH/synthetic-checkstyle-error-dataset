@@ -1,0 +1,4 @@
+120c120
+<             buffer.append(ReflectionToStringBuilder.toString(value, this));
+---
+>             buffer.append(ReflectionToStringBuilder.toString(	value, this));

@@ -1,0 +1,5 @@
+804c804,805
+<     public static void writeDeclaredField(final Object target, final String fieldName, final Object value) throws IllegalAccessException {
+---
+>     public static void writeDeclaredField(final Object target, 
+> final String fieldName, final Object value) throws IllegalAccessException {

@@ -1,0 +1,5 @@
+633c633,634
+<     public static final String JAVA_VM_VENDOR = getSystemProperty("java.vm.vendor");
+---
+>     public 
+> static final String JAVA_VM_VENDOR = getSystemProperty("java.vm.vendor");

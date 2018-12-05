@@ -1,0 +1,4 @@
+999c999
+<             append(lhs[i], rhs[i]);
+---
+>             	append(lhs[i], rhs[i]);

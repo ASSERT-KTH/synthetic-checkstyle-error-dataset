@@ -1,0 +1,4 @@
+327c327
+<             currentData = checkIntervalData.get();
+---
+>             currentData 	= checkIntervalData.get();

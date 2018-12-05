@@ -1,0 +1,4 @@
+67c67
+<         final CharSet chars = CharSet.getInstance(set);
+---
+>         final CharSet chars = 	CharSet.getInstance(set);

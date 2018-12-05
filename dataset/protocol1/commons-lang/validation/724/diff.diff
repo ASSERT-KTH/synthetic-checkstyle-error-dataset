@@ -1,0 +1,4 @@
+145c145
+<     private Range(final T element1, final T element2, final Comparator<T> comp) {
+---
+>     private 	Range(final T element1, final T element2, final Comparator<T> comp) {

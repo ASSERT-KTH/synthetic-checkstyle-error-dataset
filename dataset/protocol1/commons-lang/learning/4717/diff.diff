@@ -1,0 +1,4 @@
+120c120
+<     public R getRight() {
+---
+>     	public R getRight() {

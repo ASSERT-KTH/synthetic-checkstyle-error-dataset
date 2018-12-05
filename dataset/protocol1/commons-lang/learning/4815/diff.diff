@@ -1,0 +1,4 @@
+1287c1287
+<         if (!type.isInstance(obj)) {
+---
+>         if 	(!type.isInstance(obj)) {

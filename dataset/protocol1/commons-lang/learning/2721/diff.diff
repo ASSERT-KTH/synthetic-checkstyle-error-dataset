@@ -1,0 +1,5 @@
+99c99,100
+<     public NotImplementedException(final Throwable cause, final String code) {
+---
+>     public NotImplementedException(final Throwable cause, final String 
+> code) {

@@ -1,0 +1,5 @@
+346c346,347
+<             return Arrays.hashCode((short[]) o);
+---
+>             return Arrays.hashCode((short[]) 
+> o);

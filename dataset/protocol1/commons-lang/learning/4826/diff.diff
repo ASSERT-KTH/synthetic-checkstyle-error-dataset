@@ -1,0 +1,4 @@
+690c690
+<         final int expPos = str.indexOf('e') + str.indexOf('E') + 1; // assumes both not present
+---
+>         final int expPos = str.indexOf('e') + str.indexOf(	'E') + 1; // assumes both not present

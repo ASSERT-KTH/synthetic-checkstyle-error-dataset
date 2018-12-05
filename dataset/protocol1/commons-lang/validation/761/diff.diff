@@ -1,0 +1,4 @@
+270c270
+<     public boolean isBefore(final T element) {
+---
+>     public boolean isBefore(final T element	) {

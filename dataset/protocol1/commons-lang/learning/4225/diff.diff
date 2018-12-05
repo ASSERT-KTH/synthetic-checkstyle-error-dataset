@@ -1,0 +1,4 @@
+247c247
+<         this.value += operand.shortValue();
+---
+>         this.value += operand.shortValue	();

@@ -1,0 +1,4 @@
+41c41
+<     private static final TimeZone UTC_TIME_ZONE = FastTimeZone.getGmtTimeZone();
+---
+>     private static final TimeZone UTC_TIME_ZONE = 	FastTimeZone.getGmtTimeZone();

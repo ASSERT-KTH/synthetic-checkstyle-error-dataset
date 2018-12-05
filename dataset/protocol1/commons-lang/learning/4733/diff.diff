@@ -1,0 +1,4 @@
+1083c1083
+<     public static int compare(final String str1, final String str2) {
+---
+>     public static int compare(final 	String str1, final String str2) {

@@ -1,0 +1,4 @@
+729c729
+<     public static String escapeXml11(final String input) {
+---
+>     public 	static String escapeXml11(final String input) {

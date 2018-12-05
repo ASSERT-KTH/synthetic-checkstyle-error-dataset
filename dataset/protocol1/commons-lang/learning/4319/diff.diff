@@ -1,0 +1,4 @@
+187c187
+<         return value ? Boolean.TRUE.hashCode() : Boolean.FALSE.hashCode();
+---
+>         return value ? 	Boolean.TRUE.hashCode() : Boolean.FALSE.hashCode();

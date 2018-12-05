@@ -1,0 +1,5 @@
+333c333,334
+<             throw new IllegalStateException("Stopwatch must be running to suspend. ");
+---
+>             throw new 
+> IllegalStateException("Stopwatch must be running to suspend. ");

@@ -1,0 +1,5 @@
+485c485,486
+<     public static void printRootCauseStackTrace(final Throwable throwable, final PrintWriter writer) {
+---
+>     public 
+> static void printRootCauseStackTrace(final Throwable throwable, final PrintWriter writer) {

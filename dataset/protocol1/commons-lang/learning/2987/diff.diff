@@ -1,0 +1,4 @@
+87c87
+<         {"\u00CD", "&Iacute;"}, // Í - uppercase I, acute accent
+---
+>         {"\u00CD", "&Iacu	te;"}, // Í - uppercase I, acute accent

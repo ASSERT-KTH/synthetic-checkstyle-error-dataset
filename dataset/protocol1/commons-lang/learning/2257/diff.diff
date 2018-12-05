@@ -1,0 +1,5 @@
+310c310,311
+<     public static boolean isAllEmpty(final CharSequence... css) {
+---
+>     public static 
+> boolean isAllEmpty(final CharSequence... css) {

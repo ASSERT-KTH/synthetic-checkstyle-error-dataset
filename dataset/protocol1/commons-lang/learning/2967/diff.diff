@@ -1,0 +1,4 @@
+89c89
+<             if (firstChar == 'x' || firstChar == 'X') {
+---
+>             if (	firstChar == 'x' || firstChar == 'X') {

@@ -1,0 +1,5 @@
+108c108,109
+<     private final Boolean daemon;
+---
+>     
+> private final Boolean daemon;

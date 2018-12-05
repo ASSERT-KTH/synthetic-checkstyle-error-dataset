@@ -1,0 +1,5 @@
+326c326,327
+<     public static int indexOfThrowable(final Throwable throwable, final Class<?> clazz, final int fromIndex) {
+---
+>     public static int indexOfThrowable(final Throwable throwable, final Class<?> clazz, final 
+> int fromIndex) {

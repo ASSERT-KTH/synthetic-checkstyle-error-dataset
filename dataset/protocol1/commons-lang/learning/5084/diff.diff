@@ -1,0 +1,4 @@
+227c227
+<         if (getUncaughtExceptionHandler() != null) {
+---
+>         if (getUncaughtExceptionHandler(	) != null) {

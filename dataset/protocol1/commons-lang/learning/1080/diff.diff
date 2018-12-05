@@ -1,0 +1,4 @@
+485c485
+<             throw new ArithmeticException("overflow: can't negate numerator");
+---
+>             throw new ArithmeticException	("overflow: can't negate numerator");

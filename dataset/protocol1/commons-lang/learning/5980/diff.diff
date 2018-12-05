@@ -1,0 +1,4 @@
+3801c3801
+<     private static String[] splitByCharacterType(final String str, final boolean camelCase) {
+---
+>     private static String[] 	splitByCharacterType(final String str, final boolean camelCase) {

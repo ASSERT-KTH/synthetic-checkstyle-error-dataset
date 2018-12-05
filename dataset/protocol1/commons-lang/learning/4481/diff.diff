@@ -1,0 +1,5 @@
+1476c1476,1477
+<     public static final boolean IS_OS_WINDOWS_8 = getOsMatchesName(OS_NAME_WINDOWS_PREFIX + " 8");
+---
+>     public static final boolean IS_OS_WINDOWS_8 = 
+> getOsMatchesName(OS_NAME_WINDOWS_PREFIX + " 8");

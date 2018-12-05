@@ -1,0 +1,5 @@
+593c593,594
+<                     return parentClass.getMethod(methodName, parameterTypes);
+---
+>                     
+> return parentClass.getMethod(methodName, parameterTypes);

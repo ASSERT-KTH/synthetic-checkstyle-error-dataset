@@ -1,0 +1,4 @@
+415c415
+<                 public Double getLeft() {
+---
+>                 public 	Double getLeft() {

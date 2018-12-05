@@ -1,0 +1,5 @@
+282,283c282
+<             if (range.negated) {
+<                 if (range.start == 0) {
+---
+>             if (range.negated) {                if (range.start == 0) {

@@ -1,0 +1,4 @@
+272c272
+<     public static final AlwaysTruePredicate ALWAYS_TRUE_PREDICATE = new AlwaysTruePredicate();
+---
+>     public static final 	AlwaysTruePredicate ALWAYS_TRUE_PREDICATE = new AlwaysTruePredicate();

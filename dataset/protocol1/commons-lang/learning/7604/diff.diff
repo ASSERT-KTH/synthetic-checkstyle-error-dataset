@@ -1,0 +1,4 @@
+122c122
+<     public void addChangeListener(final PropertyChangeListener listener) {
+---
+>     public void addChangeListener	(final PropertyChangeListener listener) {

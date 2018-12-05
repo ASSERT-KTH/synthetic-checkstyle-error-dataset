@@ -1,0 +1,5 @@
+518c518,519
+<     public boolean isStarted() {
+---
+>     public boolean 
+> isStarted() {

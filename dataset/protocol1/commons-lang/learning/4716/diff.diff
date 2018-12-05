@@ -1,0 +1,5 @@
+71c71,72
+<     private final Object right;
+---
+>     private final Object 
+> right;

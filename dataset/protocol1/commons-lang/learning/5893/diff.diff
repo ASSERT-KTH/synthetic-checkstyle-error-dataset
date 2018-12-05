@@ -1,0 +1,4 @@
+699c699
+<     public CompareToBuilder append(final long[] lhs, final long[] rhs) {
+---
+>     public CompareToBuilder append(final long[] lhs, final long[] 	rhs) {

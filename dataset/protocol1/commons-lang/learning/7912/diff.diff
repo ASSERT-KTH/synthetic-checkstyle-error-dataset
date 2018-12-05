@@ -1,0 +1,4 @@
+396c396
+<         return System.nanoTime();
+---
+>         return System.nanoTime(	);

@@ -1,0 +1,5 @@
+168c168,169
+<         public abstract State oppositeState();
+---
+>         public abstract 
+> State oppositeState();

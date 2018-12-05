@@ -1,0 +1,4 @@
+46c46
+<             final int next = index + 1;
+---
+>             final int next = index 	+ 1;

@@ -1,0 +1,5 @@
+185,186c185
+<     public static String keep(final String str, final String... set) {
+<         if (str == null) {
+---
+>     public static String keep(final String str, final String... set) {        if (str == null) {

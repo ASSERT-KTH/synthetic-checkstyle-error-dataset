@@ -1,0 +1,4 @@
+235c235
+<         return comparator.compare(element, minimum) < 0;
+---
+>         return 	comparator.compare(element, minimum) < 0;

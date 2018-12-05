@@ -1,0 +1,5 @@
+223c223,224
+<         return result.isEmpty() ? null : result.iterator().next();
+---
+>         return result.isEmpty() ? null : 
+> result.iterator().next();

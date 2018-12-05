@@ -1,0 +1,4 @@
+315c315
+<                 wrappedLine.append(str, offset, spaceToWrapAt);
+---
+>                 wrappedLine.	append(str, offset, spaceToWrapAt);

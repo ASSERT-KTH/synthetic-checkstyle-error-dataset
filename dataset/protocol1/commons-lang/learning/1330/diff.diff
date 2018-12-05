@@ -1,0 +1,5 @@
+1636c1636,1637
+<         sz--; // don't want to loop to the last char, check it afterwords
+---
+>         
+> sz--; // don't want to loop to the last char, check it afterwords

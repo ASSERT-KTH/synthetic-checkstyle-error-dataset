@@ -1,0 +1,4 @@
+115c115
+<                 && Objects.equals(getMiddle(), other.getMiddle())
+---
+>                 && Objects.equals(getMiddle(), other.getMiddle(	))

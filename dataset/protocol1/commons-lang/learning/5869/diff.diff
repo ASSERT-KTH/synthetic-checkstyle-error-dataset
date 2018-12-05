@@ -1,0 +1,5 @@
+159c159,160
+<             totalCost += getObjectTransformationCost(srcArgs[i], destArgs[i]);
+---
+>             totalCost += 
+> getObjectTransformationCost(srcArgs[i], destArgs[i]);

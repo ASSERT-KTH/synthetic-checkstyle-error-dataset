@@ -1,0 +1,4 @@
+1056c1056
+<         if (this.getObject() == null) {
+---
+>         if (this.getObject() == null	) {

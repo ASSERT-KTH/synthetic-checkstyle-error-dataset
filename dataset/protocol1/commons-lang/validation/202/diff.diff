@@ -1,0 +1,5 @@
+818c818,819
+<             final Object object = getObject();
+---
+>             final 
+> Object object = getObject();

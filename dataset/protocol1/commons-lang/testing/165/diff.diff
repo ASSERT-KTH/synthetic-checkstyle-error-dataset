@@ -1,0 +1,5 @@
+112,113c112
+<             boolean isStarted() {
+<                 return false;
+---
+>             boolean isStarted() {                return false;

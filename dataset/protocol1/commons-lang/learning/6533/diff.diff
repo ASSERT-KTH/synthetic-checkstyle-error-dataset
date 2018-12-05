@@ -1,0 +1,5 @@
+130c130,131
+<         Validate.notNull(type, "Annotation %s with null annotationType()", a1);
+---
+>         
+> Validate.notNull(type, "Annotation %s with null annotationType()", a1);

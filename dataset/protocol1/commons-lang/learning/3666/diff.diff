@@ -1,0 +1,4 @@
+137c137
+<         return cs.toString().indexOf(searchChar.toString(), start);
+---
+>         return cs.toString().indexOf(searchChar.	toString(), start);

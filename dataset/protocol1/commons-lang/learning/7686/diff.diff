@@ -1,0 +1,5 @@
+298,299c298
+<     public int intValue() {
+<         return value;
+---
+>     public int intValue() {        return value;

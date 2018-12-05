@@ -1,0 +1,5 @@
+50c50,51
+<         if ("Z".equals(pattern) || "UTC".equals(pattern)) {
+---
+>         if ("Z".equals(pattern) || 
+> "UTC".equals(pattern)) {

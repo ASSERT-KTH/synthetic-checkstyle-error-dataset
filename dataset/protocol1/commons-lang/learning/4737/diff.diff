@@ -1,0 +1,5 @@
+202c202,203
+<                 final char high = cs.charAt(i);
+---
+>                 final char high 
+> = cs.charAt(i);

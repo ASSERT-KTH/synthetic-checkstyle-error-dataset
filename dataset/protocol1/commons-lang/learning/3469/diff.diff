@@ -1,0 +1,4 @@
+638c638
+<     public boolean replaceIn(final StringBuffer source, final int offset, final int length) {
+---
+>     public boolean replaceIn(final 	StringBuffer source, final int offset, final int length) {

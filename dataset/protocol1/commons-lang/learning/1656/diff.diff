@@ -1,0 +1,4 @@
+640c640
+<         final List<String> tokenList = new ArrayList<>();
+---
+>         final List<String> 	tokenList = new ArrayList<>();

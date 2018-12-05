@@ -1,0 +1,4 @@
+2367c2367
+<         private static final String FIELD_NAME_QUOTE = "\"";
+---
+>         private static final String FIELD_NAME_QUOTE 	= "\"";

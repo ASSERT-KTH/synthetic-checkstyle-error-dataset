@@ -1,0 +1,4 @@
+97c97
+<         } catch (final IOException ex) {
+---
+>         } catch (final IOException ex) 	{

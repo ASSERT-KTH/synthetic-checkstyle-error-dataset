@@ -1,0 +1,5 @@
+113c113,114
+<         return value == null ? 0 : value.hashCode();
+---
+>         return value == null ? 0 
+> : value.hashCode();

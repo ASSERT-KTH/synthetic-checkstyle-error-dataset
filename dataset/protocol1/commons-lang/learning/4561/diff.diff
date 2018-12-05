@@ -1,0 +1,5 @@
+260c260,261
+<     public static String format(final long millis, final String pattern) {
+---
+>     public 
+> static String format(final long millis, final String pattern) {

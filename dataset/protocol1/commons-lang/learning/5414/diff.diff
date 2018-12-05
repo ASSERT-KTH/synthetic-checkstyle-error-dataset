@@ -1,0 +1,5 @@
+54,55c54
+<         } catch (final IllegalAccessException e) {
+<             throw new IllegalArgumentException("Class " + eventSource.getClass().getName()
+---
+>         } catch (final IllegalAccessException e) {            throw new IllegalArgumentException("Class " + eventSource.getClass().getName()

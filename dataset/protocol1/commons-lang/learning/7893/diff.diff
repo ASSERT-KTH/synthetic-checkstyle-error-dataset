@@ -1,0 +1,4 @@
+127c127
+<         final NamePredicate threadNamePredicate = new NamePredicate(threadName);
+---
+>         final NamePredicate threadNamePredicate = new NamePredicate(threadName	);

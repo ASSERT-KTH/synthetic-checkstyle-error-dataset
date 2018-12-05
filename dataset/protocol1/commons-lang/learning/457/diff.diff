@@ -1,0 +1,4 @@
+592c592
+<     public static final String escapeHtml4(final String input) {
+---
+>     public static final String escapeHtml4(final String input	) {

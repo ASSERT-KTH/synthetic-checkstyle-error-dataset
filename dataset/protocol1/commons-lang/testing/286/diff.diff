@@ -1,0 +1,4 @@
+5066c5066
+<             return clone(array1);
+---
+>             return clone	(array1);

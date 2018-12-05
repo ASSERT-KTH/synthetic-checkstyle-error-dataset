@@ -1,0 +1,4 @@
+646c646
+<         return mPattern.hashCode() + 13 * (mTimeZone.hashCode() + 13 * mLocale.hashCode());
+---
+>         return mPattern.hashCode() + 13 * (mTimeZone.hashCode(	) + 13 * mLocale.hashCode());

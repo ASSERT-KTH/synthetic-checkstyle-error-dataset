@@ -1,0 +1,4 @@
+128c128
+<             return obj == this || obj instanceof GenericArrayType && TypeUtils.equals(this, (GenericArrayType) obj);
+---
+>             return obj == this || obj instanceof GenericArrayType && TypeUtils	.equals(this, (GenericArrayType) obj);

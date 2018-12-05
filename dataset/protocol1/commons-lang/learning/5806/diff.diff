@@ -1,0 +1,5 @@
+112,113c112
+<     protected String toUtf16Escape(final int codepoint) {
+<         final char[] surrogatePair = Character.toChars(codepoint);
+---
+>     protected String toUtf16Escape(final int codepoint) {        final char[] surrogatePair = Character.toChars(codepoint);

@@ -1,0 +1,4 @@
+237c237
+<         final List<Field> annotatedFieldsList = getFieldsListWithAnnotation(cls, annotationCls);
+---
+>         	final List<Field> annotatedFieldsList = getFieldsListWithAnnotation(cls, annotationCls);

@@ -1,0 +1,4 @@
+43c43
+<         final int remaining = input.length() - index - 1; // how many characters left, ignoring the first \
+---
+>         final int remaining = input.length() - 	index - 1; // how many characters left, ignoring the first \

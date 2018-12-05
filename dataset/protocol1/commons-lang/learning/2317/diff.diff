@@ -1,0 +1,5 @@
+101,102c101
+<             return ((String) cs).indexOf(searchChar, start);
+<         }
+---
+>             return ((String) cs).indexOf(searchChar, start);        }

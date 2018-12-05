@@ -1,0 +1,5 @@
+664c664,665
+<     public static String getMessage(final Throwable th) {
+---
+>     
+> public static String getMessage(final Throwable th) {

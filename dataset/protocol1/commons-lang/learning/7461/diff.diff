@@ -1,0 +1,4 @@
+62c62
+<             CHAR_STRING_ARRAY[c] = String.valueOf(c);
+---
+>             CHAR_STRING_ARRAY[c] = String.valueOf(c); 

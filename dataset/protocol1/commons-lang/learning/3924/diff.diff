@@ -1,0 +1,5 @@
+345,346c345
+<     public Double toDouble() {
+<         return Double.valueOf(doubleValue());
+---
+>     public Double toDouble() {        return Double.valueOf(doubleValue());

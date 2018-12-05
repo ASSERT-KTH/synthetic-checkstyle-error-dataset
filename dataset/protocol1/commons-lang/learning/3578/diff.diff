@@ -1,0 +1,4 @@
+217c217
+<         this.value += operand.doubleValue();
+---
+>         	this.value += operand.doubleValue();

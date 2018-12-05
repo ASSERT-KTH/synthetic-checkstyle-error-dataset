@@ -1,0 +1,5 @@
+143c143,144
+<             final CharSequence _ellipsis = ObjectUtils.defaultIfNull(ellipsis, StringUtils.EMPTY);
+---
+>             final CharSequence _ellipsis 
+> = ObjectUtils.defaultIfNull(ellipsis, StringUtils.EMPTY);

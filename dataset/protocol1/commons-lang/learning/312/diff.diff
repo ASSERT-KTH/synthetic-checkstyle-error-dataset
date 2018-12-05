@@ -1,0 +1,4 @@
+340c340
+<             Validate.notNull(handler, "Uncaught exception handler must not be null!");
+---
+>             Validate.notNull	(handler, "Uncaught exception handler must not be null!");

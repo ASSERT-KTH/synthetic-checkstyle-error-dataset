@@ -1,0 +1,5 @@
+317,318c317
+<                 hasNext = false;
+<             }
+---
+>                 hasNext = false;            }

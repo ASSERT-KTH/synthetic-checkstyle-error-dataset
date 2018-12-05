@@ -1,0 +1,4 @@
+345c345
+<     public Float toFloat() {
+---
+>     	public Float toFloat() {

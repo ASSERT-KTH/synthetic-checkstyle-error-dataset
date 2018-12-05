@@ -1,0 +1,5 @@
+168c168,169
+<     public static double nextDouble(final double startInclusive, final double endInclusive) {
+---
+>     public static double 
+> nextDouble(final double startInclusive, final double endInclusive) {

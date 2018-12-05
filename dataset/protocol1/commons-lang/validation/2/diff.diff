@@ -1,0 +1,5 @@
+249c249,250
+<             return NumberUtils.toFloat(value, defaultReturnValue);
+---
+>             return NumberUtils.toFloat(value, 
+> defaultReturnValue);

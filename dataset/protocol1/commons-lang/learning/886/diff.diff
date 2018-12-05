@@ -1,0 +1,4 @@
+735c735
+<     private int readWithQuotes(final char[] srcChars, final int start, final int len, final StrBuilder workArea,
+---
+>     private int 	readWithQuotes(final char[] srcChars, final int start, final int len, final StrBuilder workArea,

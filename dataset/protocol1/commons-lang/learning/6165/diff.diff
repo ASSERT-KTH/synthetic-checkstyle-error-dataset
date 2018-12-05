@@ -1,0 +1,5 @@
+543c543,544
+<     public static final String JAVA_VM_INFO = getSystemProperty("java.vm.info");
+---
+>     public static 
+> final String JAVA_VM_INFO = getSystemProperty("java.vm.info");

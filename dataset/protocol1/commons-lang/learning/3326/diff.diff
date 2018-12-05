@@ -1,0 +1,4 @@
+875c875
+<     public static Class<?> primitiveToWrapper(final Class<?> cls) {
+---
+>     	public static Class<?> primitiveToWrapper(final Class<?> cls) {

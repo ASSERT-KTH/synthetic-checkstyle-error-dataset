@@ -1,0 +1,4 @@
+103c103
+<         return zoneId == ((GmtTimeZone) other).zoneId;
+---
+>         return zoneId == ((	GmtTimeZone) other).zoneId;

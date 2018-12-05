@@ -1,0 +1,5 @@
+563c563,564
+<     public static Date setDays(final Date date, final int amount) {
+---
+>     public static 
+> Date setDays(final Date date, final int amount) {

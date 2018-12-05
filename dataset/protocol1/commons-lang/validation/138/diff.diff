@@ -1,0 +1,5 @@
+56c56,57
+<             final int hours = parseInt(m.group(2));
+---
+>             final int hours 
+> = parseInt(m.group(2));

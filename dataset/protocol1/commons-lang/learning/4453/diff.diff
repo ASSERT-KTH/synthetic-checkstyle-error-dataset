@@ -1,0 +1,4 @@
+89c89
+< public class ToStringBuilder implements Builder<String> {
+---
+> public class ToStringBuilder implements 	Builder<String> {

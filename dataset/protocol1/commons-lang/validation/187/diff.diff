@@ -1,0 +1,4 @@
+1218c1218
+<         TwentyFourHourField(final NumberRule rule) {
+---
+>         TwentyFourHourField	(final NumberRule rule) {

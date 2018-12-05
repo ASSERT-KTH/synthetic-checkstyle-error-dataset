@@ -1,0 +1,4 @@
+730c730
+<     public EqualsBuilder append(final short lhs, final short rhs) {
+---
+>     public EqualsBuilder append(final short lhs, final 	short rhs) {

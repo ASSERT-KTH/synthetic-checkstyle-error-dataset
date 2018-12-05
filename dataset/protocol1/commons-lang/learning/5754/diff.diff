@@ -1,0 +1,4 @@
+834c834
+<             if (objectToTest instanceof float[]) {
+---
+>             if (objectToTest instanceof float[	]) {

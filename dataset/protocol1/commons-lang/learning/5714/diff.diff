@@ -1,0 +1,5 @@
+112c112,113
+<     public void setMiddle(final M middle) {
+---
+>     public 
+> void setMiddle(final M middle) {

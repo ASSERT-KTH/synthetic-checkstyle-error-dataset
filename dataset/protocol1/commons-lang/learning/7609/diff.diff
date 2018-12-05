@@ -1,0 +1,5 @@
+65c65,66
+<     public static final CharSet ASCII_ALPHA_UPPER = new CharSet("A-Z");
+---
+>     public static final CharSet 
+> ASCII_ALPHA_UPPER = new CharSet("A-Z");

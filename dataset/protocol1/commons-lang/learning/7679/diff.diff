@@ -1,0 +1,5 @@
+838c838,839
+<     public HashCodeBuilder append(final Object object) {
+---
+>     public HashCodeBuilder append(final 
+> Object object) {

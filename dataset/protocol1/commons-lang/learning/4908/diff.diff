@@ -1,0 +1,5 @@
+723c723,724
+<                 final Field modifiersField = Field.class.getDeclaredField("modifiers");
+---
+>                 final 
+> Field modifiersField = Field.class.getDeclaredField("modifiers");

@@ -1,0 +1,4 @@
+106c106
+<     public static String removeAll(final String text, final String regex) {
+---
+>     public static String removeAll(final String text, 	final String regex) {

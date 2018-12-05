@@ -1,0 +1,5 @@
+247,248c247
+<     protected final synchronized ExecutorService getActiveExecutor() {
+<         return executor;
+---
+>     protected final synchronized ExecutorService getActiveExecutor() {        return executor;

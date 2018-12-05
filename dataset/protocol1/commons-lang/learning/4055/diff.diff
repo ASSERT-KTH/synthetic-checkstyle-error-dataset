@@ -1,0 +1,4 @@
+177c177
+<     StringBuffer format(Object obj, StringBuffer toAppendTo, FieldPosition pos);
+---
+>     StringBuffer format(Object obj, StringBuffer toAppendTo, 	FieldPosition pos);

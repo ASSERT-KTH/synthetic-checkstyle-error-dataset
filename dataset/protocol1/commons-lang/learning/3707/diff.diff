@@ -1,0 +1,4 @@
+57c57
+<         final Processor processor = new Processor(Processor.Arch.BIT_64, Processor.Type.X86);
+---
+>         final Processor processor = new Processor(Processor.Arch.BIT_64, Processor.	Type.X86);

@@ -1,0 +1,5 @@
+113,114c113
+<     public static String formatDuration(final long durationMillis, final String format) {
+<         return formatDuration(durationMillis, format, true);
+---
+>     public static String formatDuration(final long durationMillis, final String format) {        return formatDuration(durationMillis, format, true);

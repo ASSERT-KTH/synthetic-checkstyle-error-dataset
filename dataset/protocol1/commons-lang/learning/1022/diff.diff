@@ -1,0 +1,4 @@
+843c843
+<             hashCode = 37 * (37 * 17 + getNumerator()) + getDenominator();
+---
+>             hashCode = 37 * 	(37 * 17 + getNumerator()) + getDenominator();

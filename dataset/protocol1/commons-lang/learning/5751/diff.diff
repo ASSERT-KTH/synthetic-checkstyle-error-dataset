@@ -1,0 +1,5 @@
+1019c1019,1020
+<     public Object getObject() {
+---
+>     
+> public Object getObject() {

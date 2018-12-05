@@ -1,0 +1,5 @@
+47,48c47
+<     private NumericEntityEscaper(final int below, final int above, final boolean between) {
+<         this.below = below;
+---
+>     private NumericEntityEscaper(final int below, final int above, final boolean between) {        this.below = below;

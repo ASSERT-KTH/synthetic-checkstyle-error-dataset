@@ -1,0 +1,5 @@
+603,604c603
+<         }
+<         final StrBuilder buf = new StrBuilder().append(source);
+---
+>         }        final StrBuilder buf = new StrBuilder().append(source);

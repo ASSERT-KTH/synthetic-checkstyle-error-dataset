@@ -1,0 +1,4 @@
+643c643
+<     public DiffBuilder append(final String fieldName, final long lhs,
+---
+>     public DiffBuilder append(final String fieldName, 	final long lhs,

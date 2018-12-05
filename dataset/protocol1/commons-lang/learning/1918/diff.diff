@@ -1,0 +1,5 @@
+831,832c831
+<     private boolean isQuote(final char[] srcChars, final int pos, final int len, final int quoteStart, final int quoteLen) {
+<         for (int i = 0; i < quoteLen; i++) {
+---
+>     private boolean isQuote(final char[] srcChars, final int pos, final int len, final int quoteStart, final int quoteLen) {        for (int i = 0; i < quoteLen; i++) {

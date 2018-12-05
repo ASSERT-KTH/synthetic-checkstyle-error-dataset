@@ -1,0 +1,4 @@
+271c271
+<                 rule = new TextField(Calendar.AM_PM, AmPmStrings);
+---
+>                 rule = new TextField(Calendar.AM_PM, AmPmStrings)	;

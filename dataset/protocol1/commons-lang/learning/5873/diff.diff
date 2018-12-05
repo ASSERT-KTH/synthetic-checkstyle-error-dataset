@@ -1,0 +1,4 @@
+139c139
+<     public boolean is64Bit() {
+---
+>     public 	boolean is64Bit() {

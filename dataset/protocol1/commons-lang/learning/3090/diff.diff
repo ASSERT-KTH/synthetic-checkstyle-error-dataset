@@ -1,0 +1,5 @@
+550c550,551
+<             for (final Type bound : getImplicitUpperBounds((WildcardType) type)) {
+---
+>             for (final Type bound 
+> : getImplicitUpperBounds((WildcardType) type)) {

@@ -1,0 +1,4 @@
+124c124
+<     public static String toFullyQualifiedPath(final Package context, final String resourceName) {
+---
+>     public static String toFullyQualifiedPath(final Package context, final String resourceName) 	{

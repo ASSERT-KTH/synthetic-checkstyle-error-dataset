@@ -1,0 +1,4 @@
+246c246
+<             primitiveTypes.put("int", int.class);
+---
+>             primitiveTypes.put("int", int.class)	;

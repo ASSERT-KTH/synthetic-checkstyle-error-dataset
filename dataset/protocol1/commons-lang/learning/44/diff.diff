@@ -1,0 +1,4 @@
+34c34
+<     public static final String GMT_ID = "GMT";
+---
+>     public static final 	String GMT_ID = "GMT";

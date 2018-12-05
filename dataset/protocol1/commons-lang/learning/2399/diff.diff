@@ -1,0 +1,4 @@
+86c86
+<         return m != null && Modifier.isPublic(m.getModifiers()) && !m.isSynthetic();
+---
+>         return m != null && Modifier.isPublic(m.getModifiers()) && !m.isSynthetic()	;

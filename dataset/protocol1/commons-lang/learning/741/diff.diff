@@ -1,0 +1,4 @@
+121c121
+<     public static <E extends Enum<E>> E getEnum(final Class<E> enumClass, final String enumName) {
+---
+>     public static <	E extends Enum<E>> E getEnum(final Class<E> enumClass, final String enumName) {

@@ -1,0 +1,5 @@
+127c127,128
+<     private boolean accept(final Field field) {
+---
+>     private 
+> boolean accept(final Field field) {

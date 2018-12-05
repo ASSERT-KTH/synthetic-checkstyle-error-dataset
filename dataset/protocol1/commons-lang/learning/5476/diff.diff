@@ -1,0 +1,5 @@
+974,975c974
+<         int modify(final FastDateParser parser, final int iValue) {
+<             return iValue == 7 ? Calendar.SUNDAY : iValue + 1;
+---
+>         int modify(final FastDateParser parser, final int iValue) {            return iValue == 7 ? Calendar.SUNDAY : iValue + 1;

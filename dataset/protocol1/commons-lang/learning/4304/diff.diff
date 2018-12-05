@@ -1,0 +1,4 @@
+45c45
+<     public CircuitBreakingException(final String message, final Throwable cause) {
+---
+>     public 	CircuitBreakingException(final String message, final Throwable cause) {

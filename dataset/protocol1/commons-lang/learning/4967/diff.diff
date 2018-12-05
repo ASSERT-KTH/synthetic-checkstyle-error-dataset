@@ -1,0 +1,4 @@
+6246c6246
+<             return repeat(str.charAt(0), repeat);
+---
+>             return repeat(str	.charAt(0), repeat);

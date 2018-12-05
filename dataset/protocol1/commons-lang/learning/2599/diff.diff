@@ -1,0 +1,4 @@
+177c177
+<         long total = 0;
+---
+>         long total = 0	;

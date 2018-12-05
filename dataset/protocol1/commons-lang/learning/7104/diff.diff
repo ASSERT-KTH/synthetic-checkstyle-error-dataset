@@ -1,0 +1,4 @@
+255c255
+<     public void setFormatsByArgumentIndex(final Format[] newFormats) {
+---
+>     public void setFormatsByArgumentIndex(	final Format[] newFormats) {

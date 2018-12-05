@@ -1,0 +1,5 @@
+120c120,121
+<     private F getDateTimeInstance(final Integer dateStyle, final Integer timeStyle, final TimeZone timeZone, Locale locale) {
+---
+>     private F getDateTimeInstance(final Integer dateStyle, final Integer 
+> timeStyle, final TimeZone timeZone, Locale locale) {

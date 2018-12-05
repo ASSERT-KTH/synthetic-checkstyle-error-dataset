@@ -1,0 +1,4 @@
+79c79
+<         final MultipartKey key = new MultipartKey(pattern, timeZone, locale);
+---
+>         final MultipartKey key = new MultipartKey	(pattern, timeZone, locale);

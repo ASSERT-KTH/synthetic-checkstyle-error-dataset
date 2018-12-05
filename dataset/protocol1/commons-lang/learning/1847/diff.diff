@@ -1,0 +1,5 @@
+65,66c65
+<             return writer.toString();
+<         } catch (final IOException ioe) {
+---
+>             return writer.toString();        } catch (final IOException ioe) {

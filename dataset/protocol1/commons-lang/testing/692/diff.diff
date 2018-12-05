@@ -1,0 +1,5 @@
+5599,5600c5599
+<         }
+<         return Array.newInstance(newArrayComponentType, 1);
+---
+>         }        return Array.newInstance(newArrayComponentType, 1);

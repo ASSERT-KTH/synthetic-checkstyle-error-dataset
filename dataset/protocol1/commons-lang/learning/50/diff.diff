@@ -1,0 +1,4 @@
+357c357
+<         Validate.isTrue(object != null, "The object to build a hash code for must not be null");
+---
+>         Validate.isTrue(	object != null, "The object to build a hash code for must not be null");

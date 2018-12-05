@@ -1,0 +1,5 @@
+902,903c902
+<         if (lhs == rhs) {
+<             return this;
+---
+>         if (lhs == rhs) {            return this;

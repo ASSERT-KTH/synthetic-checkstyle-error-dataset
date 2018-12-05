@@ -1,0 +1,4 @@
+110c110
+<         if (state.compareAndSet(newState.oppositeState(), newState)) {
+---
+>         if (state.compareAndSet(newState.oppositeState(), newState	)) {

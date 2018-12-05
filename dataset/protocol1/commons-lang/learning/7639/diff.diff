@@ -1,0 +1,4 @@
+326c326
+<                 return initialize();
+---
+>                 return initialize	();

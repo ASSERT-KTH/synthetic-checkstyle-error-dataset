@@ -1,0 +1,5 @@
+1010c1010,1011
+<         if (cs1 instanceof String && cs2 instanceof String) {
+---
+>         
+> if (cs1 instanceof String && cs2 instanceof String) {

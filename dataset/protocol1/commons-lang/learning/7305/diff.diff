@@ -1,0 +1,5 @@
+106c106,107
+<     Locale getLocale();
+---
+>     Locale 
+> getLocale();

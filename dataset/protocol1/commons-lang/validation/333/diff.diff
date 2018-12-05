@@ -1,0 +1,5 @@
+214c214,215
+<         return startInclusive + ((endInclusive - startInclusive) * RANDOM.nextFloat());
+---
+>         return startInclusive + 
+> ((endInclusive - startInclusive) * RANDOM.nextFloat());

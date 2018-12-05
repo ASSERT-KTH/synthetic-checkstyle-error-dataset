@@ -1,0 +1,4 @@
+1090c1090
+<     public static final boolean IS_OS_MAC_OSX = getOsMatchesName("Mac OS X");
+---
+>     public static final boolean IS_OS_MAC_OSX = 	getOsMatchesName("Mac OS X");

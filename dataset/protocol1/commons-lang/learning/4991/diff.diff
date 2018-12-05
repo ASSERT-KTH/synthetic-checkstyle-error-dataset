@@ -1,0 +1,4 @@
+48c48
+<         init_PPC_64Bit();
+---
+>         init_PPC_64Bit()	;

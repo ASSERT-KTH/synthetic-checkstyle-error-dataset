@@ -1,0 +1,4 @@
+919c919
+<         if (Double.isNaN(value)) {
+---
+>         if 	(Double.isNaN(value)) {

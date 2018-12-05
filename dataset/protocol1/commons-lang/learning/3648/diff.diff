@@ -1,0 +1,5 @@
+318c318,319
+<     public byte setByteBoolean(final byte holder, final boolean flag) {
+---
+>     public byte setByteBoolean(final byte holder, 
+> final boolean flag) {

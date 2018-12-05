@@ -1,0 +1,4 @@
+1260c1260
+<                 sb.append(intToHexDigit(bits));
+---
+>                 sb.append(intToHexDigit(bits))	;

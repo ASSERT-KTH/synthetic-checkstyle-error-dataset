@@ -1,0 +1,4 @@
+306c306
+<                     if (range.end == Character.MAX_VALUE) {
+---
+>                     if (	range.end == Character.MAX_VALUE) {

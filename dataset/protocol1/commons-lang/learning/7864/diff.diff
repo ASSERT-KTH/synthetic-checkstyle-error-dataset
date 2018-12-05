@@ -1,0 +1,5 @@
+111,112c111
+<         } else {
+<             if (codepoint >= below && codepoint <= above) {
+---
+>         } else {            if (codepoint >= below && codepoint <= above) {

@@ -1,0 +1,4 @@
+84c84
+<     private final String toString;
+---
+>     private 	final String toString;

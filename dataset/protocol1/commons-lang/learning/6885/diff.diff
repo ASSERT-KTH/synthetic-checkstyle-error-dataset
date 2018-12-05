@@ -1,0 +1,5 @@
+309c309,310
+<         return format(date, pattern, timeZone, null);
+---
+>         
+> return format(date, pattern, timeZone, null);

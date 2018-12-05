@@ -1,0 +1,4 @@
+41c41
+<         final boolean consumed = translate(codepoint, out);
+---
+>         final boolean consumed = translate(	codepoint, out);

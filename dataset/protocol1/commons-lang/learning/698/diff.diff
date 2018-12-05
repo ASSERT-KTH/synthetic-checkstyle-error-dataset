@@ -1,0 +1,4 @@
+1126c1126
+<     public static final boolean IS_OS_MAC_OSX_JAGUAR = getOsMatches("Mac OS X", "10.2");
+---
+>     public static final boolean IS_OS_MAC_OSX_JAGUAR 	= getOsMatches("Mac OS X", "10.2");

@@ -1,0 +1,4 @@
+162c162
+<         final Pair<IDKey, IDKey> swappedPair = Pair.of(pair.getRight(), pair.getLeft());
+---
+>         final Pair<IDKey, IDKey> swappedPair = Pair.of(pair.getRight	(), pair.getLeft());

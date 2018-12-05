@@ -1,0 +1,4 @@
+35c35
+< public final class ImmutableTriple<L, M, R> extends Triple<L, M, R> {
+---
+> public final class ImmutableTriple	<L, M, R> extends Triple<L, M, R> {

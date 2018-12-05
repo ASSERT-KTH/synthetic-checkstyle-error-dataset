@@ -1,0 +1,4 @@
+901c901
+<             buffer.append(mValues[calendar.get(mField)]);
+---
+>             buffer.append(mValues[calendar.get(mField	)]);

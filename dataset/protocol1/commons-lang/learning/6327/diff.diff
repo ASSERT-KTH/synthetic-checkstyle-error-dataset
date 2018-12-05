@@ -1,0 +1,4 @@
+85c85
+<             if (!reference.compareAndSet(null, result)) {
+---
+>             if (!reference.compareAndSet(null, result)) 	{

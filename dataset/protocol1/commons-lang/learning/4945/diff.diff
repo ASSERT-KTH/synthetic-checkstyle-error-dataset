@@ -1,0 +1,5 @@
+333c333,334
+<         public Object invoke(final Object unusedProxy, final Method method, final Object[] args) throws Throwable {
+---
+>         public Object invoke(final Object unusedProxy, final Method method, final Object[] args) 
+> throws Throwable {

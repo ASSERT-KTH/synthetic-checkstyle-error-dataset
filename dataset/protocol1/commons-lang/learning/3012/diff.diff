@@ -1,0 +1,4 @@
+184c184
+<     private static void reflectionAppend(final Object object, final Class<?> clazz, final HashCodeBuilder builder, final boolean useTransients,
+---
+>     private static void reflectionAppend(final Object object, final Class<?> clazz, final HashCodeBuilder builder	, final boolean useTransients,

@@ -1,0 +1,5 @@
+312c312,313
+<         return new String(new char[] {ch});
+---
+>         
+> return new String(new char[] {ch});

@@ -1,0 +1,5 @@
+250,251c250
+<                 serializableListeners.add(listener);
+<             } catch (final IOException exception) {
+---
+>                 serializableListeners.add(listener);            } catch (final IOException exception) {

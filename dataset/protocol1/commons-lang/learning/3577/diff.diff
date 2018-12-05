@@ -1,0 +1,5 @@
+112c112,113
+<         final ConstantInitializer<?> c = (ConstantInitializer<?>) obj;
+---
+>         final ConstantInitializer<?> 
+> c = (ConstantInitializer<?>) obj;

@@ -1,0 +1,4 @@
+99c99
+<     protected static boolean isOpen(final State state) {
+---
+>     	protected static boolean isOpen(final State state) {

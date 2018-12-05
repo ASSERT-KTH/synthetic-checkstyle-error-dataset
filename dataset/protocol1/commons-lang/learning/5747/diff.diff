@@ -1,0 +1,4 @@
+1661c1661
+<         Validate.notNull(type);
+---
+>         Validate.notNull(type	);

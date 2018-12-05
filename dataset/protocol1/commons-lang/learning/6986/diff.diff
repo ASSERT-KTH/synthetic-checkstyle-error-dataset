@@ -1,0 +1,4 @@
+41c41
+<     private static final String[][] ISO8859_1_ESCAPE = {
+---
+>     private static final String[][] ISO8859_1_ESCAPE 	= {

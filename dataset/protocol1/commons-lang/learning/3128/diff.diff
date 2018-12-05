@@ -1,0 +1,5 @@
+1068c1068,1069
+<     public StrSubstitutor setVariableSuffix(final char suffix) {
+---
+>     public StrSubstitutor setVariableSuffix(final 
+> char suffix) {

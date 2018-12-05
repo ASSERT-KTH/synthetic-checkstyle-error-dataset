@@ -1,0 +1,4 @@
+124c124
+<         System.arraycopy(translators, 0, newArray, 1, translators.length);
+---
+>         System.arraycopy(translators, 0, newArray, 1, translators.length	);

@@ -1,0 +1,5 @@
+147c147,148
+<         final double last = value;
+---
+>         
+> final double last = value;

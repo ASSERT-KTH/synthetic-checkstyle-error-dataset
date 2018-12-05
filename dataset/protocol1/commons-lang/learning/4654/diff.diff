@@ -1,0 +1,4 @@
+67c67
+<         final Processor processor = new Processor(Processor.Arch.BIT_64, Processor.Type.IA_64);
+---
+>         final Processor processor = new Processor(Processor.Arch.	BIT_64, Processor.Type.IA_64);

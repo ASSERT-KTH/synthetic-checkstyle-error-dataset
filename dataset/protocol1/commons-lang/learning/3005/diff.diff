@@ -1,0 +1,4 @@
+692c692
+<         if (index < 0 || index >= collection.size()) {
+---
+>         if (index < 0 || index >= collection.size()) 	{

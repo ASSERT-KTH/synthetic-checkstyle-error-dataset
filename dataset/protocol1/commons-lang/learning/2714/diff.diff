@@ -1,0 +1,4 @@
+337c337
+<         Validate.isTrue(field != null, "Cannot locate field '%s' on %s", fieldName, cls);
+---
+>         Validate.isTrue(field != null, "Cannot locate field '%s' on %s", fieldName	, cls);

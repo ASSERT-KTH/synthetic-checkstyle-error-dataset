@@ -1,0 +1,4 @@
+93c93
+<         {"\u00D3", "&Oacute;"}, // Ó - uppercase O, acute accent
+---
+>         {"\u00D3", "&Oacu	te;"}, // Ó - uppercase O, acute accent

@@ -1,0 +1,4 @@
+403c403
+<     private String insertFormats(final String pattern, final ArrayList<String> customPatterns) {
+---
+>     private String insertFormats(final String pattern, final ArrayList<String> customPatterns	) {

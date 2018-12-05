@@ -1,0 +1,4 @@
+130c130
+<                 final char[] chars = Character.toChars(entityValue);
+---
+>                 final char[] chars = Character.toChars(entityValue)	;

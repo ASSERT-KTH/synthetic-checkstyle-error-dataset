@@ -1,0 +1,4 @@
+827c827
+<     public static void writeDeclaredField(final Object target, final String fieldName, final Object value, final boolean forceAccess)
+---
+>     public static void writeDeclaredField(final Object target, final String 	fieldName, final Object value, final boolean forceAccess)

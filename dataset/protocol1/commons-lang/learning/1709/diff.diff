@@ -1,0 +1,4 @@
+729c729
+<                     modifiersField.setInt(field, field.getModifiers() & ~Modifier.FINAL);
+---
+>                     modifiersField.	setInt(field, field.getModifiers() & ~Modifier.FINAL);

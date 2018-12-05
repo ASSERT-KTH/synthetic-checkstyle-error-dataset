@@ -1,0 +1,4 @@
+294c294
+<           return new Executable(constructor);
+---
+>           return new Executable	(constructor);

@@ -1,0 +1,5 @@
+738c738,739
+<             for (final Map.Entry<T, MutableInt> e : occurrences.entrySet()) {
+---
+>             for 
+> (final Map.Entry<T, MutableInt> e : occurrences.entrySet()) {

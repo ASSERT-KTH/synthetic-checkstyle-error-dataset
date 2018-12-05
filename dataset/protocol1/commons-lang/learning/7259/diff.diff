@@ -1,0 +1,4 @@
+459c459
+<         final String trace[] = getRootCauseStackTrace(throwable);
+---
+>         final String trace	[] = getRootCauseStackTrace(throwable);

@@ -1,0 +1,4 @@
+743c743
+<                 value = value / 10;
+---
+>                 value 	= value / 10;

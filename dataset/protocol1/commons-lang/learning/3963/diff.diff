@@ -1,0 +1,4 @@
+22c22
+< package org.apache.commons.lang3.tuple;
+---
+> package org.apache.commons.lang3.	tuple;

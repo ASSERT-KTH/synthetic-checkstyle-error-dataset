@@ -1,0 +1,4 @@
+1119c1119
+<                 min = array[i];
+---
+>                 min = array[	i];

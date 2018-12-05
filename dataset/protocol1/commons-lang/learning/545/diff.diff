@@ -1,0 +1,4 @@
+1258c1258
+<             if (dstPos + i == append) {
+---
+>             if (dstPos + i 	== append) {

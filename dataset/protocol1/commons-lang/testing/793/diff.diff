@@ -1,0 +1,4 @@
+5114c5114
+<         final boolean[] joinedArray = new boolean[array1.length + array2.length];
+---
+>         final boolean[] joinedArray = new 	boolean[array1.length + array2.length];

@@ -1,0 +1,5 @@
+286c286,287
+<             final char c1 = cs.charAt(index1++);
+---
+>             final char c1 
+> = cs.charAt(index1++);

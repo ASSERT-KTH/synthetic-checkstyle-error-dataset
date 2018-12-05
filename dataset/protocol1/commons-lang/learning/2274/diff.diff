@@ -1,0 +1,5 @@
+441,442c441
+<         CheckIntervalData(final int count, final long intervalStart) {
+<             eventCount = count;
+---
+>         CheckIntervalData(final int count, final long intervalStart) {            eventCount = count;

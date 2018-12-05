@@ -1,0 +1,5 @@
+200,201c200
+<         }
+<         return str.charAt(0);
+---
+>         }        return str.charAt(0);

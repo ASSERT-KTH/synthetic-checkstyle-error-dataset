@@ -1,0 +1,5 @@
+53c53,54
+<                 final CharSequence unicode = input.subSequence(index + i, index + i + 4);
+---
+>                 
+> final CharSequence unicode = input.subSequence(index + i, index + i + 4);

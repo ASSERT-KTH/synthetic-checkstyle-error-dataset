@@ -1,0 +1,4 @@
+298c298
+<     public int intValue() {
+---
+>     public 	int intValue() {

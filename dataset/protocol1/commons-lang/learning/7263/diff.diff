@@ -1,0 +1,4 @@
+422c422
+<     public long longValue() {
+---
+>     public long 	longValue() {

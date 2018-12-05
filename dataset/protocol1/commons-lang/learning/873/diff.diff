@@ -1,0 +1,4 @@
+1017c1017
+<         } catch (final NullPointerException ex) {
+---
+>         } catch (final 	NullPointerException ex) {

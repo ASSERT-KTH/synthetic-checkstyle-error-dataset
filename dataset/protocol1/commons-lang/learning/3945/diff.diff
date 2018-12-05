@@ -1,0 +1,4 @@
+126c126
+<                 final Field test = class1.getField(fieldName);
+---
+>                 final Field test = class1.getField(fieldName	);

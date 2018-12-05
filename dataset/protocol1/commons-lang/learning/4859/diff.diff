@@ -1,0 +1,4 @@
+292c292
+<             return Arrays.equals((short[]) o1, (short[]) o2);
+---
+>             return Arrays.equals((short[]) o1, (short[]) o2)	;

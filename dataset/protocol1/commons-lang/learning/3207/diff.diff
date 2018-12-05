@@ -1,0 +1,4 @@
+157c157
+<     public static boolean toBoolean(final Boolean bool) {
+---
+>     	public static boolean toBoolean(final Boolean bool) {

@@ -1,0 +1,5 @@
+79c79,80
+<     public static <T> T invokeConstructor(final Class<T> cls, Object... args)
+---
+>     public static 
+> <T> T invokeConstructor(final Class<T> cls, Object... args)

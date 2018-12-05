@@ -1,0 +1,4 @@
+325c325
+<             final long time = now();
+---
+>             final 	long time = now();

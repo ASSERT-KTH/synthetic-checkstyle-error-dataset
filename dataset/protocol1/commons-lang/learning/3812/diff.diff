@@ -1,0 +1,5 @@
+93c93,94
+<         setArrayEnd(System.lineSeparator() + spacer(spaces - INDENT) + "}");
+---
+>         setArrayEnd(System.lineSeparator() + spacer(spaces - INDENT) 
+> + "}");

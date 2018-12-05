@@ -1,0 +1,5 @@
+253c253,254
+<                 testObjectOutputStream = new ObjectOutputStream(new ByteArrayOutputStream());
+---
+>                 testObjectOutputStream 
+> = new ObjectOutputStream(new ByteArrayOutputStream());

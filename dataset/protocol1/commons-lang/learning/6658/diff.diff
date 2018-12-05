@@ -1,0 +1,4 @@
+255c255
+<                 public Byte getLeft() {
+---
+>                 public Byte getLeft(	) {

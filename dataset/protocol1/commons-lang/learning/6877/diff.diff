@@ -1,0 +1,4 @@
+39c39
+<     private static final String ENUM_CLASS_MUST_BE_DEFINED = "EnumClass must be defined.";
+---
+>     private static 	final String ENUM_CLASS_MUST_BE_DEFINED = "EnumClass must be defined.";

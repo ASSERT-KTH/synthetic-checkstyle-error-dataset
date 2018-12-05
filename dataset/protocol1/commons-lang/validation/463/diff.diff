@@ -1,0 +1,4 @@
+352c352
+<             || otherRange.contains(maximum)
+---
+>             || otherRange.contains(	maximum)

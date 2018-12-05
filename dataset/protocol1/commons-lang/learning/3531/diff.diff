@@ -1,0 +1,4 @@
+107c107
+<             final boolean semiNext = end != seqEnd && input.charAt(end) == ';';
+---
+>             final boolean semiNext = end != seqEnd 	&& input.charAt(end) == ';';

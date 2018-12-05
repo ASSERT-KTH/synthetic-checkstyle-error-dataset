@@ -1,0 +1,4 @@
+295c295
+<         Validate.isTrue(Modifier.isStatic(field.getModifiers()), "The field '%s' is not static", field.getName());
+---
+>         Validate.isTrue	(Modifier.isStatic(field.getModifiers()), "The field '%s' is not static", field.getName());

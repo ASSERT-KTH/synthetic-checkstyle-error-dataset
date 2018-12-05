@@ -1,0 +1,4 @@
+1021c1021
+<         final TypeVariable<?>[] typeVars = getRawType(parameterizedType).getTypeParameters();
+---
+>         final TypeVariable<?>[] typeVars 	= getRawType(parameterizedType).getTypeParameters();

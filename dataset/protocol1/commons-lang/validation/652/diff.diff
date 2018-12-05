@@ -1,0 +1,4 @@
+787c787
+<         this.excludeNullValues = excludeNullValues;
+---
+>         this.excludeNullValues 	= excludeNullValues;

@@ -1,0 +1,4 @@
+303c303
+<         {"\u2309", "&rceil;"}, // right ceiling, U+2309 ISOamsc -->
+---
+>         {"\u2309", "&rce	il;"}, // right ceiling, U+2309 ISOamsc -->

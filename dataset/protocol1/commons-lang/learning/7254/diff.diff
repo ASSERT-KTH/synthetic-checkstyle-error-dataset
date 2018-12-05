@@ -1,0 +1,4 @@
+55c55
+<                 if (remaining > 2 && isZeroToThree(input.charAt(next)) && isOctalDigit(input.charAt(next3))) {
+---
+>                 if (remaining > 2 && isZeroToThree(input.charAt(next)) && isOctalDigit(input.charAt(	next3))) {

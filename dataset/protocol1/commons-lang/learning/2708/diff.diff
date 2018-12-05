@@ -1,0 +1,4 @@
+95c95
+<     public static final int MEDIUM = DateFormat.MEDIUM;
+---
+>     public static final int MEDIUM = DateFormat	.MEDIUM;

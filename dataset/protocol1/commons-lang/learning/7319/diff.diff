@@ -1,0 +1,4 @@
+1127c1127
+<             final int shift = i * 16 + srcPos;
+---
+>             final int shift = 	i * 16 + srcPos;

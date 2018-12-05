@@ -1,0 +1,5 @@
+94c94,95
+<     public Format getParser() {
+---
+>     public Format 
+> getParser() {

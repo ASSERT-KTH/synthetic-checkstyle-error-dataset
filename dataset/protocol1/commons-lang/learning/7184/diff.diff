@@ -1,0 +1,4 @@
+889c889
+<         return getTypeArguments(getClosestParentType(cls, toClass), toClass, typeVarAssigns);
+---
+>         return getTypeArguments(getClosestParentType(cls, toClass	), toClass, typeVarAssigns);

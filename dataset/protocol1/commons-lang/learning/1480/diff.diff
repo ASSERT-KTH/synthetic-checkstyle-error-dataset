@@ -1,0 +1,5 @@
+1335c1335,1336
+<             final int bits = 0xF & (src >> shift);
+---
+>             final 
+> int bits = 0xF & (src >> shift);

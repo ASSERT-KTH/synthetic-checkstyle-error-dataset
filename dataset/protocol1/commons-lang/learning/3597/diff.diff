@@ -1,0 +1,5 @@
+767,768c767
+<         if (objectsTriviallyEqual) {
+<             return this;
+---
+>         if (objectsTriviallyEqual) {            return this;

@@ -1,0 +1,4 @@
+55c55
+< public abstract class AtomicSafeInitializer<T> implements
+---
+> public abstract class AtomicSafeInitializer<T	> implements

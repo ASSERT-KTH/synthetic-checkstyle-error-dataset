@@ -1,0 +1,4 @@
+485c485
+<         final StrBuilder buf = new StrBuilder(source.length()).append(source);
+---
+>         final StrBuilder buf = new 	StrBuilder(source.length()).append(source);

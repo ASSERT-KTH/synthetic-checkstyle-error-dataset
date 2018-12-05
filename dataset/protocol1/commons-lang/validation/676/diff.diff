@@ -1,0 +1,4 @@
+173c173
+<             return JAVA_1_2;
+---
+>             	return JAVA_1_2;

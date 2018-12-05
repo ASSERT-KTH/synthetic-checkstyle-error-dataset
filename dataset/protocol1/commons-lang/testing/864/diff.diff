@@ -1,0 +1,5 @@
+69c69,70
+<     public int getRawOffset() {
+---
+>     public 
+> int getRawOffset() {

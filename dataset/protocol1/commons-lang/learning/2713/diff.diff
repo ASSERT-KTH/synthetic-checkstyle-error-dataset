@@ -1,0 +1,4 @@
+466c466
+<     private static Map<String, Integer> appendDisplayNames(final Calendar cal, final Locale locale, final int field, final StringBuilder regex) {
+---
+>     private static Map<String, Integer> appendDisplayNames(final Calendar cal	, final Locale locale, final int field, final StringBuilder regex) {

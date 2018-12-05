@@ -1,0 +1,4 @@
+1336c1336
+<         return a;
+---
+>         return 	a;

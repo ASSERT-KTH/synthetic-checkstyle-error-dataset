@@ -1,0 +1,4 @@
+694c694
+<                 getQuoteMatcher().isMatch(srcChars, start, start, len) > 0) {
+---
+>                 getQuoteMatcher(	).isMatch(srcChars, start, start, len) > 0) {

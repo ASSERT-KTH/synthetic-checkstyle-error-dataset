@@ -1,0 +1,4 @@
+107c107
+<         final StringBuilder sb = new StringBuilder();
+---
+>         final StringBuilder sb 	= new StringBuilder();

@@ -1,0 +1,4 @@
+344c344
+<             return value == ((MutableLong) obj).longValue();
+---
+>             return value == ((MutableLong) obj).	longValue();

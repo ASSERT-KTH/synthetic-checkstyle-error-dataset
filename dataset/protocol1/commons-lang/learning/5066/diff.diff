@@ -1,0 +1,4 @@
+1442c1442
+<                     private void walkInterfaces(final Set<Class<?>> addTo, final Class<?> c) {
+---
+>                     private void 	walkInterfaces(final Set<Class<?>> addTo, final Class<?> c) {

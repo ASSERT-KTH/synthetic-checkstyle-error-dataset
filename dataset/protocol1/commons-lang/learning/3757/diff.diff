@@ -1,0 +1,5 @@
+475c475,476
+<     public String getSizeEndText() { // NOPMD as this is implementing the abstract class
+---
+>     
+> public String getSizeEndText() { // NOPMD as this is implementing the abstract class

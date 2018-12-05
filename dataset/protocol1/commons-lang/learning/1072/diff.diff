@@ -1,0 +1,4 @@
+78c78
+<         addProcessors(processor, "ppc64", "power64", "powerpc64", "power_pc64", "power_rs64");
+---
+>         addProcessors(processor, "ppc64", "power64", 	"powerpc64", "power_pc64", "power_rs64");

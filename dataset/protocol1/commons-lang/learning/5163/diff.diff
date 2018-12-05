@@ -1,0 +1,4 @@
+245c245
+<     public int getClosingThreshold() {
+---
+>     public int getClosingThreshold() 	{

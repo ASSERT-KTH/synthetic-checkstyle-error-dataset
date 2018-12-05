@@ -1,0 +1,4 @@
+116c116
+<     public int compareTo(final Pair<L, R> other) {
+---
+>     public int compareTo(final 	Pair<L, R> other) {

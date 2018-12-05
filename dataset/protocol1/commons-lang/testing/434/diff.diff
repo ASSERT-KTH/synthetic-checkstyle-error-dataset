@@ -1,0 +1,5 @@
+31c31,32
+<     private static final int HOURS_PER_DAY = 24;
+---
+>     private static final int 
+> HOURS_PER_DAY = 24;

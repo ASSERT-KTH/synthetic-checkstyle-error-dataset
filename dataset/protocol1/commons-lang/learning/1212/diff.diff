@@ -1,0 +1,5 @@
+245,246c245
+<     public String getRawMessage() {
+<         return super.getMessage();
+---
+>     public String getRawMessage() {        return super.getMessage();

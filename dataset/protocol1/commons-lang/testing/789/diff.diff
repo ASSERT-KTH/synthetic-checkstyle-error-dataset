@@ -1,0 +1,4 @@
+1507c1507
+<     public StrBuilder appendFixedWidthPadLeft(final Object obj, final int width, final char padChar) {
+---
+>     public StrBuilder appendFixedWidthPadLeft(final Object obj, final int width, final char padChar) 	{

@@ -1,0 +1,4 @@
+316c316
+<         return (long) value;
+---
+>         return 	(long) value;

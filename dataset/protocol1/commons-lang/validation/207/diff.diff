@@ -1,0 +1,5 @@
+81c81,82
+<         final byte[] objectData = serialize(object);
+---
+>         
+> final byte[] objectData = serialize(object);

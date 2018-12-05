@@ -1,0 +1,4 @@
+255c255
+<                         rc= rc*7 + key.hashCode();
+---
+>                         rc= rc*7 + key	.hashCode();

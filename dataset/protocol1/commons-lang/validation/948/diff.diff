@@ -1,0 +1,4 @@
+250c250
+<             primitiveTypes.put("boolean", boolean.class);
+---
+>             primitiveTypes.put	("boolean", boolean.class);

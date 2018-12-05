@@ -1,0 +1,4 @@
+230c230
+<         denominator /= gcd;
+---
+>         denominator 	/= gcd;

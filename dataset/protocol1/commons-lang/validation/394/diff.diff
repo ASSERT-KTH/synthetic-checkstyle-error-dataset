@@ -1,0 +1,5 @@
+988,989c988
+<             } else {
+<                 appendDigits(buffer, value);
+---
+>             } else {                appendDigits(buffer, value);

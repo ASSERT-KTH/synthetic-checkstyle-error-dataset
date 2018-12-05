@@ -1,0 +1,4 @@
+73c73
+<             = FastDateFormat.getInstance("yyyy-MM-dd'T'HH:mm:ssZZ");
+---
+>             	= FastDateFormat.getInstance("yyyy-MM-dd'T'HH:mm:ssZZ");

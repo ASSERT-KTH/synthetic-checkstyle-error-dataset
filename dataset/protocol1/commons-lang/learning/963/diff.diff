@@ -1,0 +1,4 @@
+177c177
+<                 } catch (final SecurityException scex) {
+---
+>                 } 	catch (final SecurityException scex) {

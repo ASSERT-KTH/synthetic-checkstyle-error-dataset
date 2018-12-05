@@ -1,0 +1,4 @@
+106c106
+<         return right;
+---
+>         return right	;

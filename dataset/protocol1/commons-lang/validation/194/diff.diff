@@ -1,0 +1,4 @@
+978c978
+<             appendTo(buffer, calendar.get(Calendar.MONTH) + 1);
+---
+>             appendTo(buffer, calendar.get(Calendar.MONTH) + 	1);

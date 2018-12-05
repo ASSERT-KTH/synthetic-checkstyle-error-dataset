@@ -1,0 +1,4 @@
+1727c1727
+<     static boolean isOSMatch(final String osName, final String osVersion, final String osNamePrefix, final String osVersionPrefix) {
+---
+>     static boolean isOSMatch(final String osName, final String osVersion, final String osNamePrefix, final String 	osVersionPrefix) {

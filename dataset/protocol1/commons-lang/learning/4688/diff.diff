@@ -1,0 +1,4 @@
+115c115
+<         while (true) {
+---
+>         while (true	) {

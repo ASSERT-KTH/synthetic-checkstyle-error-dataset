@@ -1,0 +1,4 @@
+679c679
+<             append(lhs[i], rhs[i], comparator);
+---
+>             append(lhs[i], rhs[i], comparator	);

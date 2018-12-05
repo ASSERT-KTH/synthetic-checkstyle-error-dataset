@@ -1,0 +1,5 @@
+78c78,79
+<             if (ch == lastChar) {
+---
+>             if 
+> (ch == lastChar) {

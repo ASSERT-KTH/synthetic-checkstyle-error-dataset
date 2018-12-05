@@ -1,0 +1,5 @@
+2508c2508,2509
+<                         "FullDetail must be true when using JsonToStringStyle");
+---
+>                         
+> "FullDetail must be true when using JsonToStringStyle");

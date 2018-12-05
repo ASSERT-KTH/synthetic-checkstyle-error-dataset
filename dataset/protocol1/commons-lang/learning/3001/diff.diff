@@ -1,0 +1,5 @@
+79,80c79
+<     public static String toFullyQualifiedName(final Package context, final String resourceName) {
+<         Validate.notNull(context, "Parameter '%s' must not be null!", "context" );
+---
+>     public static String toFullyQualifiedName(final Package context, final String resourceName) {        Validate.notNull(context, "Parameter '%s' must not be null!", "context" );

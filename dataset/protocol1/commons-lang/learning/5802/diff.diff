@@ -1,0 +1,4 @@
+151c151
+<         if (StringUtils.isEmpty(str) || deepEmpty(set)) {
+---
+>         if (StringUtils.isEmpty(str) || deepEmpty(set)) 	{

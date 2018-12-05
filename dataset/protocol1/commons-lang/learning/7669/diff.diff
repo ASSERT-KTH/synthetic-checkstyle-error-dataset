@@ -1,0 +1,4 @@
+858c858
+<     public static List<Method> getMethodsListWithAnnotation(final Class<?> cls, final Class<? extends Annotation> annotationCls) {
+---
+>     public static List<Method> getMethodsListWithAnnotation(final Class	<?> cls, final Class<? extends Annotation> annotationCls) {

@@ -1,0 +1,5 @@
+505c505,506
+<         return uncapitalize(str, null);
+---
+>         return 
+> uncapitalize(str, null);

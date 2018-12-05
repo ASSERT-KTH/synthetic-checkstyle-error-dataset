@@ -1,0 +1,5 @@
+522c522,523
+<     public CompareToBuilder append(final char lhs, final char rhs) {
+---
+>     public CompareToBuilder append(final char lhs, 
+> final char rhs) {

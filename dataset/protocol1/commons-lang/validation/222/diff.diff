@@ -1,0 +1,5 @@
+75c75,76
+<     void close();
+---
+>     void 
+> close();

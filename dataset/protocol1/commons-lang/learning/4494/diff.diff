@@ -1,0 +1,4 @@
+477c477
+<         assert pattern.toCharArray()[pos.getIndex()] == QUOTE :
+---
+>         assert pattern.toCharArray()[pos.getIndex()	] == QUOTE :

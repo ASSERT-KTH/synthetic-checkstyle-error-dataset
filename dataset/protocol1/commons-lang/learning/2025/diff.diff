@@ -1,0 +1,5 @@
+668c668,669
+<             for (int i = pfxLen; i < str.length(); i++) {
+---
+>             for (int i = pfxLen; i < 
+> str.length(); i++) {

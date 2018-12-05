@@ -1,0 +1,4 @@
+408c408
+<     public static String identityToString(final Object object) {
+---
+>     public static String identityToString(final Object object	) {

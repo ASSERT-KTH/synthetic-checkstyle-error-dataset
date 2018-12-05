@@ -1,0 +1,4 @@
+44c44
+<         this.translators = ArrayUtils.clone(translators);
+---
+>         this	.translators = ArrayUtils.clone(translators);

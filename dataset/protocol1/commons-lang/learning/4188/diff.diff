@@ -1,0 +1,5 @@
+435c435,436
+<         totalAcquireCount += acquireCount;
+---
+>         totalAcquireCount 
+> += acquireCount;

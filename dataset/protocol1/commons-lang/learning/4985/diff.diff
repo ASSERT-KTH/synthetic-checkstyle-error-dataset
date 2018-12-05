@@ -1,0 +1,5 @@
+386c386,387
+<     public static String format(final Date date, final String pattern, final TimeZone timeZone, final Locale locale) {
+---
+>     public static String 
+> format(final Date date, final String pattern, final TimeZone timeZone, final Locale locale) {

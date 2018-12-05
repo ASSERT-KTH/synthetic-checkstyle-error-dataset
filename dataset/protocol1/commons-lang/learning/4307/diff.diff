@@ -1,0 +1,4 @@
+667c667
+<             char firstSigDigit = 0; // strip leading zeroes
+---
+>             char 	firstSigDigit = 0; // strip leading zeroes

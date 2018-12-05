@@ -1,0 +1,4 @@
+354c354
+<             throw new IllegalStateException("Stopwatch must be suspended to resume. ");
+---
+>             throw new IllegalStateException("Stopwatch must be suspended to resume. "	);

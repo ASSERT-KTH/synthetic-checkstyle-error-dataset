@@ -1,0 +1,5 @@
+560,561c560
+<         if (comparison != 0) {
+<             return this;
+---
+>         if (comparison != 0) {            return this;

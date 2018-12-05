@@ -1,0 +1,4 @@
+57c57
+<         return cs == null ? null : cs.subSequence(start, cs.length());
+---
+>         return cs == null ? null : cs.subSequence(start, cs.length(	));

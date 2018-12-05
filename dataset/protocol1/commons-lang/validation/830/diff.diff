@@ -1,0 +1,4 @@
+502c502
+<         super(checkNotNull(object), style);
+---
+>         super(checkNotNull(object)	, style);

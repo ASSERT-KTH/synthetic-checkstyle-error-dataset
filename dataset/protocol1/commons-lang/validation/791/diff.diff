@@ -1,0 +1,4 @@
+278c278
+<         protected Class<?> resolveClass(final ObjectStreamClass desc) throws IOException, ClassNotFoundException {
+---
+>         protected Class<?> resolveClass(final ObjectStreamClass desc) throws IOException	, ClassNotFoundException {

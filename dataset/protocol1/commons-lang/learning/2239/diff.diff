@@ -1,0 +1,4 @@
+287c287
+<     public synchronized boolean isShutdown() {
+---
+>     	public synchronized boolean isShutdown() {

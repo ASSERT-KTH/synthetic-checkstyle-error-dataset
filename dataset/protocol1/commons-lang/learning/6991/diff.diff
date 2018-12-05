@@ -1,0 +1,5 @@
+100c100,101
+<         this.type = type;
+---
+>         
+> this.type = type;

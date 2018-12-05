@@ -1,0 +1,4 @@
+269c269
+<     private void readObject(final ObjectInputStream objectInputStream) throws IOException, ClassNotFoundException {
+---
+>     private void 	readObject(final ObjectInputStream objectInputStream) throws IOException, ClassNotFoundException {

@@ -1,0 +1,4 @@
+402c402
+<                 codePoint = chars[random.nextInt(gap) + start];
+---
+>                 codePoint = chars	[random.nextInt(gap) + start];

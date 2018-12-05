@@ -1,0 +1,4 @@
+756c756
+<         final BigInteger t = isAdd ? uvp.add(upv) : uvp.subtract(upv);
+---
+>         final BigInteger t = isAdd ? uvp.add(upv) : uvp.subtract(upv)	;

@@ -1,0 +1,5 @@
+53c53,54
+<     public static final FastDateFormat ISO_8601_EXTENDED_DATETIME_FORMAT
+---
+>     public static final FastDateFormat 
+> ISO_8601_EXTENDED_DATETIME_FORMAT

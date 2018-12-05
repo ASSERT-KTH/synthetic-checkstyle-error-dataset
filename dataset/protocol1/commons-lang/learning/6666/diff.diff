@@ -1,0 +1,4 @@
+85c85
+< public abstract class BackgroundInitializer<T> implements
+---
+> public abstract class BackgroundInitializer<T> 	implements

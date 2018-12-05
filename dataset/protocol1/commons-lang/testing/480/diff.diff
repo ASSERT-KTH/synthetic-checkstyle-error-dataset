@@ -1,0 +1,4 @@
+658c658
+<     public static <T extends Comparable<? super T>> int compare(final T c1, final T c2, final boolean nullGreater) {
+---
+>     public static <T extends Comparable<? super T>> int compare(final T c1, final T 	c2, final boolean nullGreater) {

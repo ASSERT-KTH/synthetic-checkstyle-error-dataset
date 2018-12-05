@@ -1,0 +1,4 @@
+93c93
+<     boolean incrementAndCheckState(T increment);
+---
+>     boolean incrementAndCheckState(T increment	);

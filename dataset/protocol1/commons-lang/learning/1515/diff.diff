@@ -1,0 +1,4 @@
+60c60
+<         return toFullyQualifiedName(context.getPackage(), resourceName);
+---
+>         return toFullyQualifiedName(context.getPackage(), resourceName	);

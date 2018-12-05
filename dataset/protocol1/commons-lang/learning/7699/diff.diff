@@ -1,0 +1,5 @@
+112,113c112
+<     public void setMiddle(final M middle) {
+<         this.middle = middle;
+---
+>     public void setMiddle(final M middle) {        this.middle = middle;

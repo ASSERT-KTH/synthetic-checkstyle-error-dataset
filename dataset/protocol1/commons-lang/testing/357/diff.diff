@@ -1,0 +1,5 @@
+393c393,394
+<         return timeUnit.convert(getNanoTime(), TimeUnit.NANOSECONDS);
+---
+>         
+> return timeUnit.convert(getNanoTime(), TimeUnit.NANOSECONDS);

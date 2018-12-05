@@ -1,0 +1,4 @@
+60c60
+<         if (!o.isAccessible() && Modifier.isPublic(m.getModifiers()) && isPackageAccess(m.getDeclaringClass().getModifiers())) {
+---
+>         if (!o.isAccessible() && Modifier.isPublic(m.getModifiers(	)) && isPackageAccess(m.getDeclaringClass().getModifiers())) {

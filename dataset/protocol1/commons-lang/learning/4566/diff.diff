@@ -1,0 +1,4 @@
+663c663
+<         if (StringUtils.isEmpty(tok)) {
+---
+>         if (StringUtils.isEmpty(tok)) 	{

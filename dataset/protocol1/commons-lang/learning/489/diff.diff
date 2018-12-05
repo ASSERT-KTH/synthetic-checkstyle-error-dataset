@@ -1,0 +1,4 @@
+156c156
+<             final Object obj = map.get(key);
+---
+>             final Object obj = map.get	(key);

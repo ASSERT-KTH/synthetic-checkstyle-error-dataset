@@ -1,0 +1,4 @@
+34c34
+< public class CharSet implements Serializable {
+---
+> public 	class CharSet implements Serializable {

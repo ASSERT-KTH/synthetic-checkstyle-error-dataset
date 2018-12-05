@@ -1,0 +1,4 @@
+150c150
+<                 (getValue() == null ? 0 : getValue().hashCode());
+---
+>                 (getValue() == null ? 0 : getValue	().hashCode());

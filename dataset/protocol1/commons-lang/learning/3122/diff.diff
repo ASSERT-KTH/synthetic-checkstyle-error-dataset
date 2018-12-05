@@ -1,0 +1,5 @@
+270,271c270
+<     public int isMatch(final char[] buffer, final int pos) {
+<         return isMatch(buffer, pos, 0, buffer.length);
+---
+>     public int isMatch(final char[] buffer, final int pos) {        return isMatch(buffer, pos, 0, buffer.length);

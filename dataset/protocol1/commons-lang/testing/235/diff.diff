@@ -1,0 +1,4 @@
+794c794
+<             final T checked = (T) result;
+---
+>             final 	T checked = (T) result;

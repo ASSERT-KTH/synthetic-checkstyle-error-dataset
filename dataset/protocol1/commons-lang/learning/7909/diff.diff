@@ -1,0 +1,5 @@
+351c351,352
+<     public static FastDateFormat getDateTimeInstance(final int dateStyle, final int timeStyle, final TimeZone timeZone) {
+---
+>     public static FastDateFormat getDateTimeInstance(final int 
+> dateStyle, final int timeStyle, final TimeZone timeZone) {

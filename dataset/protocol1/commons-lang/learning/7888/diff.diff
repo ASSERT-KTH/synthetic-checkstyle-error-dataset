@@ -1,0 +1,5 @@
+174c174,175
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final byte[] array) {
+---
+>     protected void appendDetail(final StringBuffer buffer, final String fieldName, final byte[] 
+> array) {

@@ -1,0 +1,5 @@
+113c113,114
+<             final Triple<?, ?, ?> other = (Triple<?, ?, ?>) obj;
+---
+>             final Triple<?, 
+> ?, ?> other = (Triple<?, ?, ?>) obj;

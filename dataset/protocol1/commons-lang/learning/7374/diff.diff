@@ -1,0 +1,4 @@
+300c300
+<             namingPattern = pattern;
+---
+>             namingPattern 	= pattern;

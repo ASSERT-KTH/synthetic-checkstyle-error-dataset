@@ -1,0 +1,5 @@
+405c405,406
+<         return Double.compare(this.value, other.value);
+---
+>         
+> return Double.compare(this.value, other.value);

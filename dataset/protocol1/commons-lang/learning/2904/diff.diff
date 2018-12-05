@@ -1,0 +1,4 @@
+377c377
+<             final FastDateParser fdp = new FastDateParser(parsePattern, tz, lcl);
+---
+>             final FastDateParser fdp 	= new FastDateParser(parsePattern, tz, lcl);

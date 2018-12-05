@@ -1,0 +1,4 @@
+142c142
+<     F getDateTimeInstance(final int dateStyle, final int timeStyle, final TimeZone timeZone, final Locale locale) {
+---
+>     F getDateTimeInstance(final int dateStyle, final int timeStyle, final 	TimeZone timeZone, final Locale locale) {

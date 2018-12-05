@@ -1,0 +1,5 @@
+204c204,205
+<                 pattern = ((SimpleDateFormat) formatter).toPattern();
+---
+>                 pattern 
+> = ((SimpleDateFormat) formatter).toPattern();

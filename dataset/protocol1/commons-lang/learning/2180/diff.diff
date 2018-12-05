@@ -1,0 +1,5 @@
+57c57,58
+<         return new MutableTriple<>(left, middle, right);
+---
+>         return 
+> new MutableTriple<>(left, middle, right);

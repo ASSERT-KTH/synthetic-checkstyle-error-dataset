@@ -1,0 +1,4 @@
+27c27
+< public class SerializationException extends RuntimeException {
+---
+> 	public class SerializationException extends RuntimeException {

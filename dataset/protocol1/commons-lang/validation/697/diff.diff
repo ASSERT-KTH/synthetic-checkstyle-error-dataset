@@ -1,0 +1,4 @@
+430c430
+<             result = 37 * result + minimum.hashCode();
+---
+>             result = 37 * result + minimum.	hashCode();

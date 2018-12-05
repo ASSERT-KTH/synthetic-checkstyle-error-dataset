@@ -1,0 +1,4 @@
+380c380
+<                 days += start.getActualMaximum(Calendar.DAY_OF_MONTH);
+---
+>                 days += start.getActualMaximum	(Calendar.DAY_OF_MONTH);

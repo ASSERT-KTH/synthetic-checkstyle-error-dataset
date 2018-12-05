@@ -1,0 +1,5 @@
+57,58c57
+<                     out.write((char) value);
+<                 } catch (final NumberFormatException nfe) {
+---
+>                     out.write((char) value);                } catch (final NumberFormatException nfe) {

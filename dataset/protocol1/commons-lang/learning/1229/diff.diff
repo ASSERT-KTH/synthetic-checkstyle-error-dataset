@@ -1,0 +1,4 @@
+104c104
+<         return toInt(str, 0);
+---
+>         return toInt(str, 0)	;

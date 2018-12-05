@@ -1,0 +1,4 @@
+736c736
+<         for (final Class<?> klass : superclassList) {
+---
+>         for (final Class<?> klass 	: superclassList) {

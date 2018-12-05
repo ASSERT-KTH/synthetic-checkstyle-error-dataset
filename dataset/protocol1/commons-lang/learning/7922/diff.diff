@@ -1,0 +1,4 @@
+87c87
+<     public static <V> StrLookup<V> mapLookup(final Map<String, V> map) {
+---
+>     	public static <V> StrLookup<V> mapLookup(final Map<String, V> map) {

@@ -1,0 +1,5 @@
+114c114,115
+<     public String reformat(final String input) throws ParseException {
+---
+>     public 
+> String reformat(final String input) throws ParseException {

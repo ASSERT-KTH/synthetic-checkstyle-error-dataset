@@ -1,0 +1,5 @@
+210c210,211
+<                     tmp = StringUtils.replaceOnce(duration, " 0 hours", StringUtils.EMPTY);
+---
+>                     tmp = StringUtils.replaceOnce(duration, 
+> " 0 hours", StringUtils.EMPTY);

@@ -1,0 +1,5 @@
+89c89,90
+<     public static <E extends Enum<E>> boolean isValidEnum(final Class<E> enumClass, final String enumName) {
+---
+>     public static <E 
+> extends Enum<E>> boolean isValidEnum(final Class<E> enumClass, final String enumName) {

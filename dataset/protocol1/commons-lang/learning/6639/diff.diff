@@ -1,0 +1,4 @@
+346c346
+<             return thread != null && thread.getId() == threadId;
+---
+>             return thread != null && thread	.getId() == threadId;

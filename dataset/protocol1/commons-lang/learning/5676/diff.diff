@@ -1,0 +1,5 @@
+59c59,60
+<         this.type = ObjectUtils.defaultIfNull(
+---
+>         this.type 
+> = ObjectUtils.defaultIfNull(

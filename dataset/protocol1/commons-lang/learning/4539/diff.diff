@@ -1,0 +1,4 @@
+1002c1002
+<                     return getClass(classLoader, className.substring(0, lastDotIndex) +
+---
+>                     return 	getClass(classLoader, className.substring(0, lastDotIndex) +

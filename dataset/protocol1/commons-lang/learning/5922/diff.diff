@@ -1,0 +1,4 @@
+318c318
+<         {"\u2665", "&hearts;"}, // black heart suit = valentine, U+2665 ISOpub -->
+---
+>         	{"\u2665", "&hearts;"}, // black heart suit = valentine, U+2665 ISOpub -->

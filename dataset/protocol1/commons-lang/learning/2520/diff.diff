@@ -1,0 +1,5 @@
+271,272c271
+<     public static String format(final Date date, final String pattern) {
+<         return format(date, pattern, null, null);
+---
+>     public static String format(final Date date, final String pattern) {        return format(date, pattern, null, null);

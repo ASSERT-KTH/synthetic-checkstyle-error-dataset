@@ -1,0 +1,5 @@
+784c784,785
+<             throw (RuntimeException) throwable;
+---
+>             throw (RuntimeException) 
+> throwable;

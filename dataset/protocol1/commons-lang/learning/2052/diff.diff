@@ -1,0 +1,4 @@
+6677c6677
+<         str = leftPad(str, strLen + pads / 2, padStr);
+---
+>         str = leftPad(str	, strLen + pads / 2, padStr);

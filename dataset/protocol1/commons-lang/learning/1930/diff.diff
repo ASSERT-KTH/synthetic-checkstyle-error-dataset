@@ -1,0 +1,4 @@
+747c747
+<         return ExceptionUtils.<R, RuntimeException>typeErasure(throwable);
+---
+>         return ExceptionUtils.<R, RuntimeException	>typeErasure(throwable);

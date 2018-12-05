@@ -1,0 +1,4 @@
+874c874
+<         if (lhs.length != rhs.length) {
+---
+>         if (lhs.	length != rhs.length) {

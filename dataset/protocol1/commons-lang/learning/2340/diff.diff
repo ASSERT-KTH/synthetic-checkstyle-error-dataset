@@ -1,0 +1,4 @@
+277c277
+<         return getSimpleName(object, StringUtils.EMPTY);
+---
+>         return 	getSimpleName(object, StringUtils.EMPTY);

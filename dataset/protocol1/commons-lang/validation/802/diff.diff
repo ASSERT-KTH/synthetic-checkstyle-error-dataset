@@ -1,0 +1,4 @@
+998c998
+<         private final int mField;
+---
+>         private final int mField	;

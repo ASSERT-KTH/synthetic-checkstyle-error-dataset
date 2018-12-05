@@ -1,0 +1,4 @@
+214c214
+<     private final ToStringStyle style;
+---
+>     private final ToStringStyle style	;

@@ -1,0 +1,4 @@
+71c71
+<     public static final CharSet ASCII_NUMERIC = new CharSet("0-9");
+---
+>     	public static final CharSet ASCII_NUMERIC = new CharSet("0-9");

@@ -1,0 +1,4 @@
+551c551
+<                 final CheckIntervalData currentData, final CheckIntervalData nextData) {
+---
+>                 final CheckIntervalData 	currentData, final CheckIntervalData nextData) {

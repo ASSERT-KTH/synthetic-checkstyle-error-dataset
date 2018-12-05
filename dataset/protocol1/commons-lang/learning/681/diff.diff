@@ -1,0 +1,4 @@
+45c45
+<     private final Format formatter;
+---
+>     private final Format formatter	;

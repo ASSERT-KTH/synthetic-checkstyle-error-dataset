@@ -1,0 +1,5 @@
+54c54,55
+<     protected UnicodeEscaper(final int below, final int above, final boolean between) {
+---
+>     
+> protected UnicodeEscaper(final int below, final int above, final boolean between) {

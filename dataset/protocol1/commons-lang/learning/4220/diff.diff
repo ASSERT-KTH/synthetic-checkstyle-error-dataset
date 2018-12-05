@@ -1,0 +1,4 @@
+212c212
+<         final CharRange other = (CharRange) obj;
+---
+>         final CharRange other = (CharRange) 	obj;

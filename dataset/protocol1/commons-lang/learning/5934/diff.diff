@@ -1,0 +1,5 @@
+8510,8511c8510
+<             if (matchFlags[i]) {
+<                 ms2[si] = max.charAt(i);
+---
+>             if (matchFlags[i]) {                ms2[si] = max.charAt(i);

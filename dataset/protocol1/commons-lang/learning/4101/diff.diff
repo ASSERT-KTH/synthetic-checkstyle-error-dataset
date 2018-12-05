@@ -1,0 +1,4 @@
+1025c1025
+<     public StrTokenizer setEmptyTokenAsNull(final boolean emptyAsNull) {
+---
+>     public 	StrTokenizer setEmptyTokenAsNull(final boolean emptyAsNull) {

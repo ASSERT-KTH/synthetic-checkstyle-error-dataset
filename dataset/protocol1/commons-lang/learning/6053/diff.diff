@@ -1,0 +1,5 @@
+233,234c233
+<     public L[] getListeners() {
+<         return listeners.toArray(prototypeArray);
+---
+>     public L[] getListeners() {        return listeners.toArray(prototypeArray);

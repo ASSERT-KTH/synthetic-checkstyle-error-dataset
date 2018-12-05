@@ -1,0 +1,5 @@
+30c30,31
+<     private static final Pattern GMT_PATTERN = Pattern.compile("^(?:(?i)GMT)?([+-])?(\\d\\d?)?(:?(\\d\\d?))?$");
+---
+>     private static final Pattern GMT_PATTERN = 
+> Pattern.compile("^(?:(?i)GMT)?([+-])?(\\d\\d?)?(:?(\\d\\d?))?$");

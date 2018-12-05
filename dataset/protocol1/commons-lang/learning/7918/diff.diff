@@ -1,0 +1,4 @@
+96c96
+<             this.eventTypes = new HashSet<>(Arrays.asList(eventTypes));
+---
+>             this.eventTypes 	= new HashSet<>(Arrays.asList(eventTypes));

@@ -1,0 +1,4 @@
+701c701
+<         removeFinalModifier(field, true);
+---
+>         removeFinalModifier(	field, true);

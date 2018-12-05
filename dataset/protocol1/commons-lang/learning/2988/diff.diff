@@ -1,0 +1,5 @@
+287c287,288
+<         return cache.getTimeInstance(style, timeZone, null);
+---
+>         
+> return cache.getTimeInstance(style, timeZone, null);

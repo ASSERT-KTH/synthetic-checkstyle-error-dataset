@@ -1,0 +1,5 @@
+97c97,98
+<     public void setValue(final long value) {
+---
+>     public void 
+> setValue(final long value) {

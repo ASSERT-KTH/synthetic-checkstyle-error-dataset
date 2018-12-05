@@ -1,0 +1,5 @@
+74,75c74
+<                 if (Annotation.class.isAssignableFrom(iface)) {
+<                     @SuppressWarnings("unchecked") // OK because we just checked the assignability
+---
+>                 if (Annotation.class.isAssignableFrom(iface)) {                    @SuppressWarnings("unchecked") // OK because we just checked the assignability

@@ -1,0 +1,5 @@
+356c356,357
+<             final boolean testTransients, final Class<? super T> reflectUpToClass, final String... excludeFields) {
+---
+>             final boolean testTransients, final Class<? super T> reflectUpToClass, final String... 
+> excludeFields) {

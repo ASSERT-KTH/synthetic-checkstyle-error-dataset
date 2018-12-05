@@ -1,0 +1,4 @@
+883c883
+<             append((Object[]) object);
+---
+>             append((Object[]) 	object);

@@ -1,0 +1,5 @@
+76c76,77
+<     private final int _shift_count;
+---
+>     private 
+> final int _shift_count;

@@ -1,0 +1,5 @@
+87c87,88
+< public class ContextedRuntimeException extends RuntimeException implements ExceptionContext {
+---
+> public 
+> class ContextedRuntimeException extends RuntimeException implements ExceptionContext {

@@ -1,0 +1,4 @@
+1186c1186
+<     public static final boolean IS_OS_MAC_OSX_LION = getOsMatches("Mac OS X", "10.7");
+---
+>     public 	static final boolean IS_OS_MAC_OSX_LION = getOsMatches("Mac OS X", "10.7");

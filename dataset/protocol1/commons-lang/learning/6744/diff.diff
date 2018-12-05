@@ -1,0 +1,4 @@
+270c270
+<     public int isMatch(final char[] buffer, final int pos) {
+---
+>     public int isMatch(final char	[] buffer, final int pos) {

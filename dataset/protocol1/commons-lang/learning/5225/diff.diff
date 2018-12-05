@@ -1,0 +1,5 @@
+63c63,64
+<             throw new IllegalArgumentException("Less than 4 hex digits in unicode value: '" + input.subSequence(index, input.length())
+---
+>             throw new IllegalArgumentException("Less than 4 hex digits in unicode value: '" 
+> + input.subSequence(index, input.length())

@@ -1,0 +1,5 @@
+405c405,406
+<             final int numberOfChars = Character.charCount(codePoint);
+---
+>             final 
+> int numberOfChars = Character.charCount(codePoint);

@@ -1,0 +1,4 @@
+178c178
+<         float max = array[0];
+---
+>         float 	max = array[0];

@@ -1,0 +1,4 @@
+79c79
+<             if (index + longest > input.length()) {
+---
+>             if (index + longest > input.length()	) {

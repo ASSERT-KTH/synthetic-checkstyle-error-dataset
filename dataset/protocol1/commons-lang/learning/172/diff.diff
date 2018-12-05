@@ -1,0 +1,4 @@
+535c535
+<     public static Method getAccessibleMethod(final Class<?> cls, final String methodName,
+---
+>     public static Method getAccessibleMethod(final Class<?> cls	, final String methodName,

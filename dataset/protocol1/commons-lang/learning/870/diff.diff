@@ -1,0 +1,4 @@
+225c225
+<                 className = className.substring(1, className.length() - 1);
+---
+>                 className = className.substring(1, className.length() - 	1);

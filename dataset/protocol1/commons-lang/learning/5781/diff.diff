@@ -1,0 +1,4 @@
+685c685
+<     private int readNextToken(final char[] srcChars, int start, final int len, final StrBuilder workArea, final List<String> tokenList) {
+---
+>     private int readNextToken(final char[] srcChars, int 	start, final int len, final StrBuilder workArea, final List<String> tokenList) {

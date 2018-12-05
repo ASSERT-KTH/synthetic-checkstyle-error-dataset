@@ -1,0 +1,4 @@
+200c200
+<         return BooleanUtils.compare(this.value, other.value);
+---
+>         return BooleanUtils.	compare(this.value, other.value);

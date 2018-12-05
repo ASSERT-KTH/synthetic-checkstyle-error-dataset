@@ -1,0 +1,4 @@
+667c667
+<         boolean isNumber() {
+---
+>         boolean isNumber(	) {

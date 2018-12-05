@@ -1,0 +1,5 @@
+2969c2969,2970
+<         if (startIndexInclusive < 0) {
+---
+>         if (startIndexInclusive 
+> < 0) {

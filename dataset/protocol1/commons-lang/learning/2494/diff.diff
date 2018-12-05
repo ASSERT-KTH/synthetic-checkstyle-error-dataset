@@ -1,0 +1,4 @@
+248c248
+<         return result != null ? result : value;
+---
+>         return result != null ? result : value	;

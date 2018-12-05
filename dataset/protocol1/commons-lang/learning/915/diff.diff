@@ -1,0 +1,5 @@
+31c31,32
+<     private static final String[] CHAR_STRING_ARRAY = new String[128];
+---
+>     private static final String[] CHAR_STRING_ARRAY = new 
+> String[128];

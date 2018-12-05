@@ -1,0 +1,5 @@
+88,89c88
+<     public Long getValue() {
+<         return Long.valueOf(this.value);
+---
+>     public Long getValue() {        return Long.valueOf(this.value);

@@ -1,0 +1,4 @@
+56c56
+<                     final int value = Integer.parseInt(unicode.toString(), 16);
+---
+>                     final int value = Integer.parseInt	(unicode.toString(), 16);

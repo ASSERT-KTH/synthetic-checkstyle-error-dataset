@@ -1,0 +1,5 @@
+4549c4549,4550
+<         final byte[] result = new byte[array.length];
+---
+>         final byte[] result = new 
+> byte[array.length];

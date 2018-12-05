@@ -1,0 +1,4 @@
+174c174
+<     public static <T> T defaultIfNull(final T object, final T defaultValue) {
+---
+>     public static <T> T defaultIfNull(final 	T object, final T defaultValue) {

@@ -1,0 +1,4 @@
+80c80
+<     public final void translate(final CharSequence input, final Writer out) throws IOException {
+---
+>     public final void translate(final 	CharSequence input, final Writer out) throws IOException {

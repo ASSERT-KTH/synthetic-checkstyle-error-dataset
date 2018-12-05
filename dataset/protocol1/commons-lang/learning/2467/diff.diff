@@ -1,0 +1,4 @@
+59c59
+<     public static final char PACKAGE_SEPARATOR_CHAR = '.';
+---
+>     public static final char PACKAGE_SEPARATOR_CHAR = 	'.';

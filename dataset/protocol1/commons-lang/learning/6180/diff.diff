@@ -1,0 +1,4 @@
+111c111
+<     public ContextedRuntimeException(final String message) {
+---
+>     public ContextedRuntimeException(final String message) 	{

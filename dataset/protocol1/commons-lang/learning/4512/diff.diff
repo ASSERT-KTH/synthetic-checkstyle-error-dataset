@@ -1,0 +1,4 @@
+357c357
+<     public static final String JAVA_LIBRARY_PATH = getSystemProperty("java.library.path");
+---
+>     public static final String JAVA_LIBRARY_PATH = getSystemProperty("java.library.path")	;

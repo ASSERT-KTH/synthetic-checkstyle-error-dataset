@@ -1,0 +1,4 @@
+83c83
+<     private static final int[][] fields = {
+---
+>     private static final int[][] fields 	= {

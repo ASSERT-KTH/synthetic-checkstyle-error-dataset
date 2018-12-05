@@ -1,0 +1,5 @@
+129,130c129
+<             if (entityValue > 0xFFFF) {
+<                 final char[] chars = Character.toChars(entityValue);
+---
+>             if (entityValue > 0xFFFF) {                final char[] chars = Character.toChars(entityValue);

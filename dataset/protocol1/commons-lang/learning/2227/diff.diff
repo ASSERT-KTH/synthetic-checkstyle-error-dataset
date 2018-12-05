@@ -1,0 +1,4 @@
+1338c1338
+<     public static boolean isArrayType(final Type type) {
+---
+>     public 	static boolean isArrayType(final Type type) {

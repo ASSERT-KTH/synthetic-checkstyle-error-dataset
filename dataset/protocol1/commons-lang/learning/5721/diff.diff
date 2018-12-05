@@ -1,0 +1,4 @@
+579c579
+<         final char[] buffer = str.toCharArray();
+---
+>         final char[] buffer 	= str.toCharArray();

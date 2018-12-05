@@ -1,0 +1,4 @@
+137c137
+<             return 2 + end - start + (isHex ? 1 : 0) + (semiNext ? 1 : 0);
+---
+>             return 2 + end - start + (isHex ? 1 : 0	) + (semiNext ? 1 : 0);

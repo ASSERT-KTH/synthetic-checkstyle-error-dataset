@@ -1,0 +1,4 @@
+3674c3674
+<                         if (sizePlus1++ == max) {
+---
+>                         if (sizePlus1++ 	== max) {

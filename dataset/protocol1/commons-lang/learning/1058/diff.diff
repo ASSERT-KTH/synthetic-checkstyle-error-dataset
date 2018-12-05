@@ -1,0 +1,4 @@
+249c249
+<         final int sign = value < 0 ? -1 : 1;
+---
+>         final int 	sign = value < 0 ? -1 : 1;

@@ -1,0 +1,4 @@
+323c323
+<         pos = str.indexOf(' ');
+---
+>         pos = str.indexOf(' '	);

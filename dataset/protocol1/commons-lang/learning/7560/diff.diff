@@ -1,0 +1,5 @@
+116,117c116
+<                 && Objects.equals(getRight(), other.getRight());
+<         }
+---
+>                 && Objects.equals(getRight(), other.getRight());        }

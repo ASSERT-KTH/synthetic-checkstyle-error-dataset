@@ -1,0 +1,4 @@
+396c396
+<     public static <T extends CharSequence> T notEmpty(final T chars, final String message, final Object... values) {
+---
+>     public static <T extends 	CharSequence> T notEmpty(final T chars, final String message, final Object... values) {

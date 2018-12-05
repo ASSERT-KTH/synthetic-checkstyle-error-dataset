@@ -1,0 +1,4 @@
+365c365
+<     public boolean isBeforeRange(final Range<T> otherRange) {
+---
+>     	public boolean isBeforeRange(final Range<T> otherRange) {

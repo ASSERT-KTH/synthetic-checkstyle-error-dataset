@@ -1,0 +1,5 @@
+103c103,104
+<     public Format getFormatter() {
+---
+>     public 
+> Format getFormatter() {

@@ -1,0 +1,5 @@
+592,593c592
+<             final Map<TypeVariable<?>, Type> typeVarAssigns) {
+<         if (type == null) {
+---
+>             final Map<TypeVariable<?>, Type> typeVarAssigns) {        if (type == null) {

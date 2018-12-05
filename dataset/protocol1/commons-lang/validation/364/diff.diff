@@ -1,0 +1,4 @@
+525c525
+<             } else if (value instanceof long[]) {
+---
+>             } else if (value instanceof long[]	) {

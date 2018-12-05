@@ -1,0 +1,4 @@
+52c52
+<     DiffResult diff(T obj);
+---
+>     DiffResult diff	(T obj);

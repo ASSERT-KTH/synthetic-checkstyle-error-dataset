@@ -1,0 +1,4 @@
+78c78
+<         this.right = right;
+---
+>         this.right 	= right;

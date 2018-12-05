@@ -1,0 +1,4 @@
+114c114
+<             return Objects.equals(getLeft(), other.getLeft())
+---
+>             return Objects.equals(getLeft	(), other.getLeft())

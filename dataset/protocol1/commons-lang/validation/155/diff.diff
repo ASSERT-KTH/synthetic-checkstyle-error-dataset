@@ -1,0 +1,5 @@
+569c569,570
+<                     appendDetail(buffer, fieldName, (float[]) value);
+---
+>                     
+> appendDetail(buffer, fieldName, (float[]) value);

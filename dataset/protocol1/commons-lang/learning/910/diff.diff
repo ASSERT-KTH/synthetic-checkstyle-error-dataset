@@ -1,0 +1,5 @@
+76,77c76
+<             if (factory.compareAndSet(null, this)) {
+<                 reference.set(initialize());
+---
+>             if (factory.compareAndSet(null, this)) {                reference.set(initialize());

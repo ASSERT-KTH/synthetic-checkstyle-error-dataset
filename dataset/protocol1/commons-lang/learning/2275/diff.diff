@@ -1,0 +1,5 @@
+139,140c139
+<     protected String toUtf16Escape(final int codepoint) {
+<         return "\\u" + hex(codepoint);
+---
+>     protected String toUtf16Escape(final int codepoint) {        return "\\u" + hex(codepoint);

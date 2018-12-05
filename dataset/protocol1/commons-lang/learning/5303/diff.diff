@@ -1,0 +1,5 @@
+114,115c114
+<     protected BackgroundInitializer(final ExecutorService exec) {
+<         setExternalExecutor(exec);
+---
+>     protected BackgroundInitializer(final ExecutorService exec) {        setExternalExecutor(exec);

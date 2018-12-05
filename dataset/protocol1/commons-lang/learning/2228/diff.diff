@@ -1,0 +1,5 @@
+255,256c255
+<     public final synchronized void setLimit(final int limit) {
+<         this.limit = limit;
+---
+>     public final synchronized void setLimit(final int limit) {        this.limit = limit;

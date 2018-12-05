@@ -1,0 +1,4 @@
+903c903
+<             } else if (numerator == denominator) {
+---
+>             } else if (numerator == denominator) 	{

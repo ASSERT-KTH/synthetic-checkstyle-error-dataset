@@ -1,0 +1,4 @@
+332c332
+<         return isAfter(otherRange.maximum);
+---
+>         	return isAfter(otherRange.maximum);

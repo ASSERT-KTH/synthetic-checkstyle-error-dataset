@@ -1,0 +1,4 @@
+597c597
+<             return width>2 ?LITERAL_YEAR_STRATEGY :ABBREVIATED_YEAR_STRATEGY;
+---
+>             return width>2 ?	LITERAL_YEAR_STRATEGY :ABBREVIATED_YEAR_STRATEGY;

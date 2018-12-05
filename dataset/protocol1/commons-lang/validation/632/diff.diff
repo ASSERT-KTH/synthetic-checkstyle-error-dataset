@@ -1,0 +1,4 @@
+816c816
+<     public void setUpToClass(final Class<?> clazz) {
+---
+>     public void setUpToClass(final Class<?	> clazz) {

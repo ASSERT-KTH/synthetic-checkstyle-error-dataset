@@ -1,0 +1,4 @@
+77c77
+<         this.used = new AtomicLong(INITIAL_COUNT);
+---
+>         	this.used = new AtomicLong(INITIAL_COUNT);

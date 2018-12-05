@@ -1,0 +1,5 @@
+709c709,710
+<             lKeyValues = appendDisplayNames(definingCalendar, locale, field, regex);
+---
+>             lKeyValues = 
+> appendDisplayNames(definingCalendar, locale, field, regex);

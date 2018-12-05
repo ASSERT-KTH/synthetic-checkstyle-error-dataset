@@ -1,0 +1,5 @@
+439c439,440
+<         return JAVA_CTRL_CHARS_UNESCAPE.clone();
+---
+>         
+> return JAVA_CTRL_CHARS_UNESCAPE.clone();

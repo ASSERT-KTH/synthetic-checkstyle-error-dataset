@@ -1,0 +1,5 @@
+631c631,632
+<     public static <T> T[] validIndex(final T[] array, final int index, final String message, final Object... values) {
+---
+>     public static <T> T[] validIndex(final T[] array, final int index, 
+> final String message, final Object... values) {

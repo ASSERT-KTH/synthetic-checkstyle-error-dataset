@@ -1,0 +1,5 @@
+42,43c42
+<     private static void init() {
+<         init_X86_32Bit();
+---
+>     private static void init() {        init_X86_32Bit();

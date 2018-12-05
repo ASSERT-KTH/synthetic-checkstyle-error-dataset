@@ -1,0 +1,5 @@
+1087c1087,1088
+<     public StrBuilder appendln(final StrBuilder str, final int startIndex, final int length) {
+---
+>     public 
+> StrBuilder appendln(final StrBuilder str, final int startIndex, final int length) {

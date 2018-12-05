@@ -1,0 +1,4 @@
+787c787
+<                         + obj.getClass().getName(), e);
+---
+>                         + obj.getClass()	.getName(), e);

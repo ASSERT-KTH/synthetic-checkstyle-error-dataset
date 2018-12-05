@@ -1,0 +1,5 @@
+49c49,50
+<     public static TimeZone getGmtTimeZone(final String pattern) {
+---
+>     public static TimeZone getGmtTimeZone(final String 
+> pattern) {

@@ -1,0 +1,4 @@
+249c249
+<     public static <T> T[] notEmpty(final T[] array, final String message, final Object... values) {
+---
+>     public static <T> T[] notEmpty(final T[] array, final String message, final Object... values	) {

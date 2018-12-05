@@ -1,0 +1,5 @@
+57c57,58
+<     public static <E extends Enum<E>> Map<String, E> getEnumMap(final Class<E> enumClass) {
+---
+>     public static 
+> <E extends Enum<E>> Map<String, E> getEnumMap(final Class<E> enumClass) {

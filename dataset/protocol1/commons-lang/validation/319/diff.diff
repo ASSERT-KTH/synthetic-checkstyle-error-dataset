@@ -1,0 +1,4 @@
+163c163
+<     public static String toString(final Object object, final ToStringStyle style) {
+---
+>     public static String toString(final Object object, final ToStringStyle 	style) {

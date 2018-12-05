@@ -1,0 +1,5 @@
+675c675,676
+<         style.append(buffer, fieldName, array, null);
+---
+>         
+> style.append(buffer, fieldName, array, null);

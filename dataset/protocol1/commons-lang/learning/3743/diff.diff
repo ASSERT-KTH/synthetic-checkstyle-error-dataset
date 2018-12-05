@@ -1,0 +1,5 @@
+8503c8503,8504
+<         for (int i = 0, si = 0; i < min.length(); i++) {
+---
+>         for (int i = 0, si 
+> = 0; i < min.length(); i++) {

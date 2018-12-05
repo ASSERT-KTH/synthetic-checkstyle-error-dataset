@@ -1,0 +1,5 @@
+84c84,85
+<         if (input.charAt(index) == '&' && index < seqEnd - 2 && input.charAt(index + 1) == '#') {
+---
+>         if (input.charAt(index) 
+> == '&' && index < seqEnd - 2 && input.charAt(index + 1) == '#') {

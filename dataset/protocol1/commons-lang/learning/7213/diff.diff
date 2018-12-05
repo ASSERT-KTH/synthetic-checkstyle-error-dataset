@@ -1,0 +1,4 @@
+200c200
+<                 set.add(CharRange.isNotIn(str.charAt(pos + 1), str.charAt(pos + 3)));
+---
+>                 set.add(CharRange.	isNotIn(str.charAt(pos + 1), str.charAt(pos + 3)));

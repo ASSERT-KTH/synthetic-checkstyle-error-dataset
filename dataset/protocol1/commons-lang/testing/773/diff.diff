@@ -1,0 +1,5 @@
+64c64,65
+<         this.value = value.floatValue();
+---
+>         
+> this.value = value.floatValue();

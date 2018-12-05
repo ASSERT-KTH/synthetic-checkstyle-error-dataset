@@ -1,0 +1,4 @@
+340c340
+<     private static <E extends Enum<E>> Class<E> asEnum(final Class<E> enumClass) {
+---
+>     private static <E extends 	Enum<E>> Class<E> asEnum(final Class<E> enumClass) {

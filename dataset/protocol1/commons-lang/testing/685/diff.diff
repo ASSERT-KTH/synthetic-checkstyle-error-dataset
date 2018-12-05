@@ -1,0 +1,4 @@
+70c70
+<     public abstract L getLeft();
+---
+>     public abstract L 	getLeft();

@@ -1,0 +1,5 @@
+118c118,119
+<                 final Callable<O> eval = new Callable<O>() {
+---
+>                 final Callable<O> eval = new 
+> Callable<O>() {

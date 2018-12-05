@@ -1,0 +1,5 @@
+48c48,49
+<     private final String fieldName;
+---
+>     
+> private final String fieldName;

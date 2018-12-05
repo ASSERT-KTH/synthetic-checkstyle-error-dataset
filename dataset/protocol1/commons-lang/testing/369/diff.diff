@@ -1,0 +1,4 @@
+368c368
+<         return NumberUtils.compare(this.value, other.value);
+---
+>         return NumberUtils.compare(this	.value, other.value);

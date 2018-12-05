@@ -1,0 +1,5 @@
+303c303,304
+<         public int isMatch(final char[] buffer, final int pos, final int bufferStart, final int bufferEnd) {
+---
+>         public int isMatch(final char[] buffer, final int pos, final 
+> int bufferStart, final int bufferEnd) {

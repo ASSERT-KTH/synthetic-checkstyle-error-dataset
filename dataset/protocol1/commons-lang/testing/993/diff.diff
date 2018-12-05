@@ -1,0 +1,4 @@
+2208c2208
+<             final char aux = array[offset1];
+---
+>             final char aux = array	[offset1];

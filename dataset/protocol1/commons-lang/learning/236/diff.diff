@@ -1,0 +1,4 @@
+392c392
+<     public static Collection<Thread> findThreads(final ThreadGroup group, final boolean recurse, final ThreadPredicate predicate) {
+---
+>     public static Collection<Thread> findThreads(final ThreadGroup 	group, final boolean recurse, final ThreadPredicate predicate) {

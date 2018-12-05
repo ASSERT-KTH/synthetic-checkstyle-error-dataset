@@ -1,0 +1,4 @@
+1499c1499
+<     public static boolean[] byteToBinary(final byte src, final int srcPos, final boolean[] dst, final int dstPos,
+---
+>     	public static boolean[] byteToBinary(final byte src, final int srcPos, final boolean[] dst, final int dstPos,

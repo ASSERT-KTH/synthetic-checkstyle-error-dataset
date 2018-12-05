@@ -1,0 +1,4 @@
+36c36
+<     private final int offset;
+---
+>     private 	final int offset;

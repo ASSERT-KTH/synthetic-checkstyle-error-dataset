@@ -1,0 +1,4 @@
+28c28
+<     private static final int NOT_FOUND = -1;
+---
+>     private static final int NOT_FOUND = -1	;

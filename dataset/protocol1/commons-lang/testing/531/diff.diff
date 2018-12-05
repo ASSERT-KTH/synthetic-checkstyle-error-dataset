@@ -1,0 +1,5 @@
+229c229,230
+<     public int capacity() {
+---
+>     
+> public int capacity() {

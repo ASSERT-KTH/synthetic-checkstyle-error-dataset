@@ -1,0 +1,4 @@
+41c41
+<     private static final ImmutablePair NULL = of(null, null);
+---
+>     private 	static final ImmutablePair NULL = of(null, null);

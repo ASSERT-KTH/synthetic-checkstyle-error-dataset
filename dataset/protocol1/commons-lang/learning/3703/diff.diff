@@ -1,0 +1,5 @@
+479c479,480
+<         if (StringUtils.isEmpty(str) || delimLen == 0) {
+---
+>         if (StringUtils.isEmpty(str) 
+> || delimLen == 0) {

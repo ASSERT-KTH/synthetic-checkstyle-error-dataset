@@ -1,0 +1,4 @@
+316c316
+<         return text.replaceAll(regex, replacement);
+---
+>         return 	text.replaceAll(regex, replacement);

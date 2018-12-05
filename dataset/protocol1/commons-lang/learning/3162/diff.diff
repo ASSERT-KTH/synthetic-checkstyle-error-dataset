@@ -1,0 +1,4 @@
+47c47
+<     private NumericEntityEscaper(final int below, final int above, final boolean between) {
+---
+>     private NumericEntityEscaper(	final int below, final int above, final boolean between) {

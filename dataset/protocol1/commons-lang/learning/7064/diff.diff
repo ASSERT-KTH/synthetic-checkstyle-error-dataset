@@ -1,0 +1,4 @@
+542c542
+<         comparison = Byte.compare(lhs, rhs);
+---
+>         comparison = Byte.compare(	lhs, rhs);

@@ -1,0 +1,5 @@
+1156,1157c1156
+<         if (StringUtils.isEmpty(valueDelimiter)) {
+<             setValueDelimiterMatcher(null);
+---
+>         if (StringUtils.isEmpty(valueDelimiter)) {            setValueDelimiterMatcher(null);

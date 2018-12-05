@@ -1,0 +1,5 @@
+159,160c159
+<     public String toString() {
+<         return "(" + getLeft() + ',' + getRight() + ')';
+---
+>     public String toString() {        return "(" + getLeft() + ',' + getRight() + ')';

@@ -1,0 +1,4 @@
+540c540
+<     public static <T> T[] noNullElements(final T[] array) {
+---
+>     public static <T> T[] noNullElements	(final T[] array) {

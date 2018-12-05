@@ -1,0 +1,5 @@
+106c106,107
+<     public void setTrue() {
+---
+>     
+> public void setTrue() {

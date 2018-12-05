@@ -1,0 +1,5 @@
+114c114,115
+<         return "\\u" + hex(surrogatePair[0]) + "\\u" + hex(surrogatePair[1]);
+---
+>         return "\\u" + 
+> hex(surrogatePair[0]) + "\\u" + hex(surrogatePair[1]);

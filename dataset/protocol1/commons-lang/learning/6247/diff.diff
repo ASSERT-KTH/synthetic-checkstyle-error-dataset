@@ -1,0 +1,5 @@
+114c114,115
+<     public O compute(final I arg) throws InterruptedException {
+---
+>     public O compute(final 
+> I arg) throws InterruptedException {

@@ -1,0 +1,4 @@
+356c356
+<             HEX_DIGITS[(ch >> 8) & 15] +
+---
+>             HEX_DIGITS[(ch >> 8)	 & 15] +

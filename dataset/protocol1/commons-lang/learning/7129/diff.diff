@@ -1,0 +1,5 @@
+870c870,871
+<                                     bufEnd += change;
+---
+>                                     bufEnd += 
+> change;

@@ -1,0 +1,4 @@
+188c188
+<         return StringUtils.isNumeric(str) && str.length() == 3;
+---
+>         return StringUtils.isNumeric(str	) && str.length() == 3;

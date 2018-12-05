@@ -1,0 +1,5 @@
+565c565,566
+<             throw new IllegalArgumentException("Unmatched quote in format: " + format);
+---
+>             throw 
+> new IllegalArgumentException("Unmatched quote in format: " + format);

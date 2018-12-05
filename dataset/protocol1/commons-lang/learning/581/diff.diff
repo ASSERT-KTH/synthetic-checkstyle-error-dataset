@@ -1,0 +1,5 @@
+119c119,120
+<         return min(min(a, b), c);
+---
+>         return min(min(a, 
+> b), c);

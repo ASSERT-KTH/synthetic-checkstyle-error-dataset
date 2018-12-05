@@ -1,0 +1,4 @@
+287c287
+<         final Pattern patternToWrapOn = Pattern.compile(wrapOn);
+---
+>         final Pattern patternToWrapOn = Pattern.compile(wrapOn	);

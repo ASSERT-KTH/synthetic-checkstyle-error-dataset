@@ -1,0 +1,4 @@
+63c63
+<     private static final String DEFAULT_NOT_BLANK_EX_MESSAGE = "The validated character sequence is blank";
+---
+>     private static final String 	DEFAULT_NOT_BLANK_EX_MESSAGE = "The validated character sequence is blank";

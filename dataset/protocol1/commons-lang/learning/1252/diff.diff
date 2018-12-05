@@ -1,0 +1,4 @@
+911c911
+<         for (final boolean element : array) {
+---
+>         for (final boolean element : 	array) {

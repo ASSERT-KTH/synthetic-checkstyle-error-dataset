@@ -1,0 +1,4 @@
+876c876
+<             append((double[]) object);
+---
+>             append((double	[]) object);

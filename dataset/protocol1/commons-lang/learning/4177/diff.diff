@@ -1,0 +1,4 @@
+1767c1767
+<         final String[] versionPrefixParts = osVersionPrefix.split("\\.");
+---
+>         final String[] versionPrefixParts = osVersionPrefix.split("\\.")	;

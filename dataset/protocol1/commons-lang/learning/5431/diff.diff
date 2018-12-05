@@ -1,0 +1,4 @@
+95c95
+<     public int compareTo(final Triple<L, M, R> other) {
+---
+>     public int compareTo(final Triple<L, M, R> other) 	{

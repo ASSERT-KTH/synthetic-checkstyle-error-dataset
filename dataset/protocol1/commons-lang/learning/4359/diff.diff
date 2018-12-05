@@ -1,0 +1,5 @@
+816c816,817
+<                                     final StrBuilder bufName = new StrBuilder(varNameExpr);
+---
+>                                     
+> final StrBuilder bufName = new StrBuilder(varNameExpr);

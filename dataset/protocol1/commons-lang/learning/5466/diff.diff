@@ -1,0 +1,5 @@
+111,112c111
+<         }
+<         if (obj instanceof Triple<?, ?, ?>) {
+---
+>         }        if (obj instanceof Triple<?, ?, ?>) {

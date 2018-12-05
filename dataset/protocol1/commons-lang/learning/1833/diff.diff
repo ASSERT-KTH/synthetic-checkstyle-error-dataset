@@ -1,0 +1,4 @@
+866c866
+<             append((long[]) object);
+---
+>             append((long[]) object	);

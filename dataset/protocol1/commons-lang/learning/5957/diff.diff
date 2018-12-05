@@ -1,0 +1,5 @@
+354c354,355
+<             return value == ((MutableShort) obj).shortValue();
+---
+>             return 
+> value == ((MutableShort) obj).shortValue();

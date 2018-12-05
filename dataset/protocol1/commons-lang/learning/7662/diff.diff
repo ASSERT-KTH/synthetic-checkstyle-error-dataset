@@ -1,0 +1,4 @@
+89c89
+<         return Long.valueOf(this.value);
+---
+>         return Long.valueOf(this.	value);

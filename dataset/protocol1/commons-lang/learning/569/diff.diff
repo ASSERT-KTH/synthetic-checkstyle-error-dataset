@@ -1,0 +1,5 @@
+322,323c322
+<     private static boolean annotationArrayMemberEquals(final Annotation[] a1, final Annotation[] a2) {
+<         if (a1.length != a2.length) {
+---
+>     private static boolean annotationArrayMemberEquals(final Annotation[] a1, final Annotation[] a2) {        if (a1.length != a2.length) {

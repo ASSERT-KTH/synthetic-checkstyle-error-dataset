@@ -1,0 +1,5 @@
+445c445,446
+<         return super.getSizeStartText();
+---
+>         return 
+> super.getSizeStartText();

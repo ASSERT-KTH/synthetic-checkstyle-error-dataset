@@ -1,0 +1,4 @@
+1573c1573
+<         return isCreatable(str);
+---
+>         return isCreatable(str)	;

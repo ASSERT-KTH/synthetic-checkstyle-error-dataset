@@ -1,0 +1,4 @@
+1452c1452
+<     public static final boolean IS_OS_WINDOWS_VISTA = getOsMatchesName(OS_NAME_WINDOWS_PREFIX + " Vista");
+---
+>     public static final boolean IS_OS_WINDOWS_VISTA 	= getOsMatchesName(OS_NAME_WINDOWS_PREFIX + " Vista");

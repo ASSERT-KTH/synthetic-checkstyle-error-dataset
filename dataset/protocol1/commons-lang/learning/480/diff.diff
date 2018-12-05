@@ -1,0 +1,5 @@
+171,172c171
+<                 totalCost += getObjectTransformationCost(destClass, Object.class) + varArgsCost;
+<             } else if (explicitArrayForVarags) {
+---
+>                 totalCost += getObjectTransformationCost(destClass, Object.class) + varArgsCost;            } else if (explicitArrayForVarags) {

@@ -1,0 +1,5 @@
+99,100c99
+<                     if (Character.isLowSurrogate(c2)) {
+<                       out.write(c2);
+---
+>                     if (Character.isLowSurrogate(c2)) {                      out.write(c2);

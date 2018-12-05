@@ -1,0 +1,5 @@
+97,98c97
+<     public L getLeft() {
+<         return left;
+---
+>     public L getLeft() {        return left;

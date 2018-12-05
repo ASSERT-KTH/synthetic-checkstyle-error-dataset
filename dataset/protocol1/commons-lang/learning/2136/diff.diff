@@ -1,0 +1,5 @@
+341c341,342
+<     private static int arrayMemberHash(final Class<?> componentType, final Object o) {
+---
+>     private 
+> static int arrayMemberHash(final Class<?> componentType, final Object o) {

@@ -1,0 +1,5 @@
+155c155,156
+<         final StringBuilder stripCustom = new StringBuilder(pattern.length());
+---
+>         final StringBuilder stripCustom 
+> = new StringBuilder(pattern.length());

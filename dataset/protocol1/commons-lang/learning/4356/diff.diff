@@ -1,0 +1,4 @@
+91c91
+<         {"\u00D1", "&Ntilde;"}, // Ñ - uppercase N, tilde
+---
+>         {"\u00D1", "&Nti	lde;"}, // Ñ - uppercase N, tilde

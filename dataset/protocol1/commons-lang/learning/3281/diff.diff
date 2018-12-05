@@ -1,0 +1,5 @@
+80c80,81
+< public abstract class LazyInitializer<T> implements ConcurrentInitializer<T> {
+---
+> public abstract 
+> class LazyInitializer<T> implements ConcurrentInitializer<T> {

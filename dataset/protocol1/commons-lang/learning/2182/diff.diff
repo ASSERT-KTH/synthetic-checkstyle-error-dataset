@@ -1,0 +1,4 @@
+86c86
+<         return random(count, 32, 127, false, false);
+---
+>         return random(count, 32, 127, false	, false);

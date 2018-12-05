@@ -1,0 +1,4 @@
+295c295
+<         this.splitState = SplitState.SPLIT;
+---
+>         this.splitState = 	SplitState.SPLIT;

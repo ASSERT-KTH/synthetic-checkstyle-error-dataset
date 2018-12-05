@@ -1,0 +1,4 @@
+53c53
+<         return outsideOf(codepoint, Integer.MAX_VALUE);
+---
+>         return outsideOf(codepoint, Integer	.MAX_VALUE);

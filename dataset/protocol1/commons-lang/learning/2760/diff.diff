@@ -1,0 +1,4 @@
+115c115
+<         throw new UnsupportedOperationException("Cannot alter Diff object.");
+---
+>         	throw new UnsupportedOperationException("Cannot alter Diff object.");

@@ -1,0 +1,5 @@
+242c242,243
+<     private void writeObject(final ObjectOutputStream objectOutputStream) throws IOException {
+---
+>     private void writeObject(final ObjectOutputStream objectOutputStream) throws 
+> IOException {

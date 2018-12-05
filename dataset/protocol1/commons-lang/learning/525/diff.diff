@@ -1,0 +1,4 @@
+212c212
+<                 set.add(CharRange.is(str.charAt(pos)));
+---
+>                 set.add(CharRange.is(str.charAt(	pos)));

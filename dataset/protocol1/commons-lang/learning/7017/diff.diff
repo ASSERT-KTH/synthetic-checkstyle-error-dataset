@@ -1,0 +1,4 @@
+212c212
+<         return new StringMatcher(str);
+---
+>         return new StringMatcher	(str);

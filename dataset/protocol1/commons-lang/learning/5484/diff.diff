@@ -1,0 +1,4 @@
+54c54
+<     public CompositeFormat(final Format parser, final Format formatter) {
+---
+>     public CompositeFormat(final Format parser, final Format 	formatter) {

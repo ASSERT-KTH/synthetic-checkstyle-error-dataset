@@ -1,0 +1,4 @@
+684c684
+<             field.setAccessible(true);
+---
+>             field.setAccessible(true)	;

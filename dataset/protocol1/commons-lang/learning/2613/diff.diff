@@ -1,0 +1,5 @@
+314c314,315
+<             } else if (current < range.end) {
+---
+>             
+> } else if (current < range.end) {

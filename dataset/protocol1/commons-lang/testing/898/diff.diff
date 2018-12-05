@@ -1,0 +1,4 @@
+258c258
+<     public static String replaceAll(final String text, final Pattern regex, final String replacement) {
+---
+>     public static String replaceAll(final String text, final Pattern regex, final String replacement) 	{

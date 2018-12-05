@@ -1,0 +1,5 @@
+58c58,59
+<         final Class<?> cParent = child.getSuperclass();
+---
+>         
+> final Class<?> cParent = child.getSuperclass();

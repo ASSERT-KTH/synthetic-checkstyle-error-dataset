@@ -1,0 +1,5 @@
+779c779,780
+<     public static void writeField(final Object target, final String fieldName, final Object value, final boolean forceAccess)
+---
+>     public static void 
+> writeField(final Object target, final String fieldName, final Object value, final boolean forceAccess)

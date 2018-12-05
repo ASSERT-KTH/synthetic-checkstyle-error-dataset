@@ -1,0 +1,4 @@
+227c227
+<     public void setArrayEnd(final String arrayEnd) { // NOPMD as this is implementing the abstract class
+---
+>     public void setArrayEnd(final String arrayEnd	) { // NOPMD as this is implementing the abstract class

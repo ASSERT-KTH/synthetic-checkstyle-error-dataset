@@ -1,0 +1,4 @@
+56c56
+<     public static <L, M, R> MutableTriple<L, M, R> of(final L left, final M middle, final R right) {
+---
+>     public static <	L, M, R> MutableTriple<L, M, R> of(final L left, final M middle, final R right) {

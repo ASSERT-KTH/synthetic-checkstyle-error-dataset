@@ -1,0 +1,5 @@
+37c37,38
+<     protected final AtomicReference<State> state = new AtomicReference<>(State.CLOSED);
+---
+>     
+> protected final AtomicReference<State> state = new AtomicReference<>(State.CLOSED);

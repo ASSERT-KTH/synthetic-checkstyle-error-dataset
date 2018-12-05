@@ -1,0 +1,4 @@
+85c85
+<     public static Field getField(final Class<?> cls, final String fieldName, final boolean forceAccess) {
+---
+>     public static Field getField(final Class<?> cls, final String fieldName, final 	boolean forceAccess) {

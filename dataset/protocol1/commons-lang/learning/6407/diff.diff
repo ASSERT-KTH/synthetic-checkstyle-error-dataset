@@ -1,0 +1,5 @@
+25c25,26
+< public class CloneFailedException extends RuntimeException {
+---
+> public class CloneFailedException 
+> extends RuntimeException {

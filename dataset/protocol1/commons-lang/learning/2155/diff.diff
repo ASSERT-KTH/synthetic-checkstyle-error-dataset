@@ -1,0 +1,4 @@
+1054c1054
+<         this.suffixMatcher = suffixMatcher;
+---
+>         this.	suffixMatcher = suffixMatcher;

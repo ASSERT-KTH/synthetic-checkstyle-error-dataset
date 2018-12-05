@@ -1,0 +1,5 @@
+559c559,560
+<     public CompareToBuilder append(final double lhs, final double rhs) {
+---
+>     
+> public CompareToBuilder append(final double lhs, final double rhs) {

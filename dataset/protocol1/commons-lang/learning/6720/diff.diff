@@ -1,0 +1,4 @@
+27c27
+< package org.apache.commons.lang3.text.translate;
+---
+> package 	org.apache.commons.lang3.text.translate;

@@ -1,0 +1,4 @@
+274c274
+<         {"\u2228", "&or;"}, // logical or = vee, U+2228 ISOtech -->
+---
+>         {	"\u2228", "&or;"}, // logical or = vee, U+2228 ISOtech -->

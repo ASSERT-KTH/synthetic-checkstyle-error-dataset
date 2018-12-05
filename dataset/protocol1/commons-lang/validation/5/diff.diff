@@ -1,0 +1,4 @@
+222c222
+<         return comparator.compare(element, minimum) > -1 && comparator.compare(element, maximum) < 1;
+---
+>         return comparator.compare(element, minimum) > -1 && comparator.compare(element, maximum	) < 1;

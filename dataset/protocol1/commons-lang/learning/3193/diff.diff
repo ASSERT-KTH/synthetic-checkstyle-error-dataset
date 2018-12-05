@@ -1,0 +1,5 @@
+120,121c120
+<                 if (high == chars[0] && low == chars[1]) {
+<                     return i;
+---
+>                 if (high == chars[0] && low == chars[1]) {                    return i;

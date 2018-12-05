@@ -1,0 +1,4 @@
+59c59
+<         int d = BooleanUtils.toInteger(parent.equals(cParent));
+---
+>         int d = BooleanUtils.	toInteger(parent.equals(cParent));

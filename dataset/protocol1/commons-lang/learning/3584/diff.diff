@@ -1,0 +1,4 @@
+324c324
+<     public static <T> Future<T> constantFuture(final T value) {
+---
+>     public static 	<T> Future<T> constantFuture(final T value) {

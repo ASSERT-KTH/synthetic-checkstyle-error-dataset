@@ -1,0 +1,5 @@
+52c52,53
+<     public static final Fraction ONE = new Fraction(1, 1);
+---
+>     
+> public static final Fraction ONE = new Fraction(1, 1);

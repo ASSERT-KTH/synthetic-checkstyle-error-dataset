@@ -1,0 +1,4 @@
+913c913
+<     public static final boolean IS_JAVA_1_5 = getJavaVersionMatches("1.5");
+---
+>     public static final boolean IS_JAVA_1_5 	= getJavaVersionMatches("1.5");

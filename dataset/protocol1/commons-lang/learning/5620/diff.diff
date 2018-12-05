@@ -1,0 +1,4 @@
+84c84
+<     public static double min(final double a, final double b, final double c) {
+---
+>     public static double 	min(final double a, final double b, final double c) {

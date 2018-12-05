@@ -1,0 +1,4 @@
+248c248
+<     public abstract int isMatch(char[] buffer, int pos, int bufferStart, int bufferEnd);
+---
+>     public abstract int isMatch(char[] buffer	, int pos, int bufferStart, int bufferEnd);

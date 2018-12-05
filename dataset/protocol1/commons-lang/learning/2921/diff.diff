@@ -1,0 +1,4 @@
+690c690
+<                     getIgnoredMatcher().isMatch(srcChars, start, start, len),
+---
+>                     getIgnoredMatcher()	.isMatch(srcChars, start, start, len),

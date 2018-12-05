@@ -1,0 +1,4 @@
+66c66
+<     private static void init_IA64_64Bit() {
+---
+>     private static void init_IA64_64Bit(	) {

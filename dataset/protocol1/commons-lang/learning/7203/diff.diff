@@ -1,0 +1,5 @@
+813,814c813
+<         if (cls.equals(toClass)) {
+<             return true;
+---
+>         if (cls.equals(toClass)) {            return true;

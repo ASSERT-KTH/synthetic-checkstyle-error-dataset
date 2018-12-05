@@ -1,0 +1,4 @@
+859c859
+<     public CompareToBuilder append(final byte[] lhs, final byte[] rhs) {
+---
+>     public CompareToBuilder append(final byte[] lhs, final byte	[] rhs) {

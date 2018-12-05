@@ -1,0 +1,4 @@
+123c123
+<         return (short) getValue(holder);
+---
+>         return (short) getValue	(holder);

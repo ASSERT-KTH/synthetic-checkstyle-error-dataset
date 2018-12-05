@@ -1,0 +1,5 @@
+668c668,669
+<         return ESCAPE_XML.translate(input);
+---
+>         return 
+> ESCAPE_XML.translate(input);

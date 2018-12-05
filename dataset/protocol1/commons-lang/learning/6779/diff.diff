@@ -1,0 +1,5 @@
+306,307c306
+<         if (componentType.equals(Double.TYPE)) {
+<             return Arrays.equals((double[]) o1, (double[]) o2);
+---
+>         if (componentType.equals(Double.TYPE)) {            return Arrays.equals((double[]) o1, (double[]) o2);

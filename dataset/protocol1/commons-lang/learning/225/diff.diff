@@ -1,0 +1,4 @@
+300c300
+<             for (final Locale locale : locales) {
+---
+>             for (final Locale locale : locales	) {

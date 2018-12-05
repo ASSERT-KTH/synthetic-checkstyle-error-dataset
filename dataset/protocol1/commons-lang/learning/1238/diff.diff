@@ -1,0 +1,4 @@
+236c236
+<     public static Field[] getFieldsWithAnnotation(final Class<?> cls, final Class<? extends Annotation> annotationCls) {
+---
+>     public static Field[] getFieldsWithAnnotation(final Class<?> cls, final Class<? 	extends Annotation> annotationCls) {

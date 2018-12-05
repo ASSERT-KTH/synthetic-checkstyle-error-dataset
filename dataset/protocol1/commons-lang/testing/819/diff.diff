@@ -1,0 +1,4 @@
+146c146
+<     public float getAndIncrement() {
+---
+>     public float getAndIncrement	() {

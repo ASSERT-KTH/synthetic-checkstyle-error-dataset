@@ -1,0 +1,5 @@
+452c452,453
+<         if (text == null || regex == null || replacement == null) {
+---
+>         if (text 
+> == null || regex == null || replacement == null) {

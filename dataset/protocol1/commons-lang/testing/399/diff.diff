@@ -1,0 +1,4 @@
+392c392
+<     public long getTime(final TimeUnit timeUnit) {
+---
+>     public long getTime	(final TimeUnit timeUnit) {

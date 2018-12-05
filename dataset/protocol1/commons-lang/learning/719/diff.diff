@@ -1,0 +1,5 @@
+68c68,69
+<         final StringBuilder buffer = new StringBuilder(str.length());
+---
+>         final StringBuilder 
+> buffer = new StringBuilder(str.length());

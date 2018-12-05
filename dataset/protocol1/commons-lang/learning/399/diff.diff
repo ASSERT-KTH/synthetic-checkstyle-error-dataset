@@ -1,0 +1,4 @@
+587c587
+<     private static Method getAccessibleMethodFromSuperclass(final Class<?> cls,
+---
+>     private static Method getAccessibleMethodFromSuperclass	(final Class<?> cls,

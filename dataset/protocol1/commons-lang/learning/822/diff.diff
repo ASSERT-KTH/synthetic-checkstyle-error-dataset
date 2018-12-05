@@ -1,0 +1,4 @@
+590c590
+<             return SECOND_STRATEGY;
+---
+>             return SECOND_STRATEGY	;

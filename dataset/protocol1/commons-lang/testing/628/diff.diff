@@ -1,0 +1,5 @@
+149c149,150
+<         return (getKey() == null ? 0 : getKey().hashCode()) ^
+---
+>         return (getKey() == null ? 
+> 0 : getKey().hashCode()) ^

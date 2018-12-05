@@ -1,0 +1,5 @@
+175c175,176
+<         return String.format(format, getLeft(), getRight());
+---
+>         return 
+> String.format(format, getLeft(), getRight());

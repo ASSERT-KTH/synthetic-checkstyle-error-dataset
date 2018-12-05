@@ -1,0 +1,4 @@
+142c142
+<     public static Fraction getFraction(int numerator, int denominator) {
+---
+>     public static Fraction getFraction(int numerator	, int denominator) {

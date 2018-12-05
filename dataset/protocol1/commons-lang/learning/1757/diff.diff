@@ -1,0 +1,4 @@
+279c279
+<             newLineStr = System.lineSeparator();
+---
+>             newLineStr = System.lineSeparator()	;

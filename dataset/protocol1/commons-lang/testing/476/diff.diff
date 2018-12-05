@@ -1,0 +1,4 @@
+160c160
+<         return "(" + getLeft() + ',' + getRight() + ')';
+---
+>         return "(" + getLeft() + ',' + getRight(	) + ')';

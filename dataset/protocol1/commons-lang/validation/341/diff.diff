@@ -1,0 +1,4 @@
+681c681
+<         appendFieldEnd(buffer, fieldName);
+---
+>         appendFieldEnd(buffer, 	fieldName);

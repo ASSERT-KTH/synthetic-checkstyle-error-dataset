@@ -1,0 +1,5 @@
+949c949,950
+<     public static int binaryToInt(final boolean[] src, final int srcPos, final int dstInit, final int dstPos,
+---
+>     public static int binaryToInt(final boolean[] src, final int srcPos, final 
+> int dstInit, final int dstPos,

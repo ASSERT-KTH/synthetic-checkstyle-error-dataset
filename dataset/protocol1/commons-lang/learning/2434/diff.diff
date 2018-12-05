@@ -1,0 +1,4 @@
+930c930
+<     public static Long createLong(final String str) {
+---
+>     public 	static Long createLong(final String str) {

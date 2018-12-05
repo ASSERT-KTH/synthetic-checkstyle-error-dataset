@@ -1,0 +1,4 @@
+71c71
+<         if (!ClassUtils.isPrimitiveWrapper(value.getClass()) &&
+---
+>         if (!ClassUtils.isPrimitiveWrapper(value.	getClass()) &&

@@ -1,0 +1,5 @@
+94c94,95
+<                 if (start == seqEnd) {
+---
+>                 if 
+> (start == seqEnd) {

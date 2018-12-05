@@ -1,0 +1,5 @@
+313c313,314
+<         public boolean test(final ThreadGroup threadGroup) {
+---
+>         public boolean 
+> test(final ThreadGroup threadGroup) {

@@ -1,0 +1,4 @@
+507c507
+<         return bool.booleanValue() ? trueValue : falseValue;
+---
+>         return bool.booleanValue	() ? trueValue : falseValue;

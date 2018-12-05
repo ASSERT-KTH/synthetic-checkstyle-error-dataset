@@ -1,0 +1,4 @@
+353c353
+<         if (this.runningState != State.SUSPENDED) {
+---
+>         if (this.runningState != State.	SUSPENDED) {

@@ -1,0 +1,4 @@
+174c174
+<     public EventCountCircuitBreaker(final int openingThreshold, final long openingInterval,
+---
+>     public 	EventCountCircuitBreaker(final int openingThreshold, final long openingInterval,

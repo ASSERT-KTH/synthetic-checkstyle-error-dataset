@@ -1,0 +1,5 @@
+93,94c93
+<             if (StringUtils.equals(label, pair.getKey())) {
+<                 return pair.getValue();
+---
+>             if (StringUtils.equals(label, pair.getKey())) {                return pair.getValue();

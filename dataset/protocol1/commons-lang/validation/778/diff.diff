@@ -1,0 +1,5 @@
+80c80,81
+<                 max = input.length() - index;
+---
+>                 max = input.length() - 
+> index;

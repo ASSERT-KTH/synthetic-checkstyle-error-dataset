@@ -1,0 +1,5 @@
+66c66,67
+<     private CharRange(char start, char end, final boolean negated) {
+---
+>     private CharRange(char start, char end, final 
+> boolean negated) {

@@ -1,0 +1,4 @@
+883c883
+<         if (toClass.equals(cls)) {
+---
+>         if (toClass.equals(	cls)) {

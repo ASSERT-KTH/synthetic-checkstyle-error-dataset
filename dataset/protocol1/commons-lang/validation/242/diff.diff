@@ -1,0 +1,4 @@
+77c77
+<     private static final TypeVariable<Class<TypeLiteral>> T = TypeLiteral.class.getTypeParameters()[0];
+---
+>     private static final TypeVariable<Class<TypeLiteral>	> T = TypeLiteral.class.getTypeParameters()[0];

@@ -1,0 +1,5 @@
+712c712,713
+<     public HashCodeBuilder append(final double[] array) {
+---
+>     public HashCodeBuilder append(final double[] 
+> array) {

@@ -1,0 +1,5 @@
+948c948,949
+<         } catch (final NullPointerException ex) {
+---
+>         
+> } catch (final NullPointerException ex) {

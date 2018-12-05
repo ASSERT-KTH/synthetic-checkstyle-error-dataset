@@ -1,0 +1,4 @@
+554c554
+<                 if (previous != null && previous.getValue().equals(value)) {
+---
+>                 if (previous != null && previous.getValue(	).equals(value)) {

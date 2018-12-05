@@ -1,0 +1,5 @@
+123,124c123
+<         }
+<         final String pattern = getPatternForStyle(dateStyle, timeStyle, locale);
+---
+>         }        final String pattern = getPatternForStyle(dateStyle, timeStyle, locale);

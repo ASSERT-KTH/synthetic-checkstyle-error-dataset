@@ -1,0 +1,4 @@
+483c483
+<         System.arraycopy(args, methodParameterTypes.length - 1, varArgsArray, 0, varArgLength);
+---
+>         System.arraycopy(args, methodParameterTypes.length - 1	, varArgsArray, 0, varArgLength);

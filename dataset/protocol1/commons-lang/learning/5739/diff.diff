@@ -1,0 +1,4 @@
+945c945
+<             throw new ClassCastException("Could not find ceiling of for type: " + date.getClass());
+---
+>             throw new ClassCastException("Could not find ceiling of for type: " + date.getClass())	;

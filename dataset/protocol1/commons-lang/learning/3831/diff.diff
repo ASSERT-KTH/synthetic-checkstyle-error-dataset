@@ -1,0 +1,4 @@
+1822c1822
+<     public static int compare(final byte x, final byte y) {
+---
+>     public static int compare(final byte x, final byte 	y) {

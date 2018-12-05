@@ -1,0 +1,5 @@
+100c100,101
+<             final MutableObject<?> that = (MutableObject<?>) obj;
+---
+>             
+> final MutableObject<?> that = (MutableObject<?>) obj;

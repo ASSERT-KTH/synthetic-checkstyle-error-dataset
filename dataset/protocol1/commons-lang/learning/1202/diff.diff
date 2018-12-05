@@ -1,0 +1,4 @@
+350c350
+<             error = !Character.isDigit(c);
+---
+>             error 	= !Character.isDigit(c);

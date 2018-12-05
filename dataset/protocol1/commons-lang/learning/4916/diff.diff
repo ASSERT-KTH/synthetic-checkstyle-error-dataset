@@ -1,0 +1,4 @@
+295c295
+<             lhsClazz = lhsClazz.getSuperclass();
+---
+>             lhsClazz = lhsClazz.getSuperclass()	;

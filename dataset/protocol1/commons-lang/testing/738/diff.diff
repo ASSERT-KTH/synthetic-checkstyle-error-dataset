@@ -1,0 +1,4 @@
+2148c2148
+<         for (int leftIdx = 0, rightIdx = size - 1; leftIdx < half; leftIdx++, rightIdx--) {
+---
+>         for (int leftIdx = 0, rightIdx = size - 1; leftIdx < half; 	leftIdx++, rightIdx--) {

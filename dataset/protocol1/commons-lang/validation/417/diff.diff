@@ -1,0 +1,4 @@
+96c96
+<             throw new SerializationException("ClassNotFoundException while reading cloned object data", ex);
+---
+>             throw new SerializationException(	"ClassNotFoundException while reading cloned object data", ex);

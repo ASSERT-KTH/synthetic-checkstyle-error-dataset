@@ -1,0 +1,5 @@
+37c37,38
+<     private final int shortest;
+---
+>     private 
+> final int shortest;

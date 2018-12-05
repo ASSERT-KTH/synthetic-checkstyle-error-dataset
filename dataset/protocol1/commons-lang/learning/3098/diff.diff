@@ -1,0 +1,4 @@
+832c832
+<                 return append(fieldName, (double[]) lhs, (double[]) rhs);
+---
+>                 return append(fieldName, (	double[]) lhs, (double[]) rhs);

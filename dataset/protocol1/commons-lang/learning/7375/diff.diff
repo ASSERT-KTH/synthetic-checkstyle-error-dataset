@@ -1,0 +1,4 @@
+33c33
+<     private final int below;
+---
+>     private final 	int below;

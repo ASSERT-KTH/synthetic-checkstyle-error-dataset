@@ -1,0 +1,5 @@
+81,82c81
+<         if (format == null) {
+<             format = createInstance(pattern, timeZone, locale);
+---
+>         if (format == null) {            format = createInstance(pattern, timeZone, locale);

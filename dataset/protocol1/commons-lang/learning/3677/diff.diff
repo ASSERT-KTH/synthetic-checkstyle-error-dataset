@@ -1,0 +1,4 @@
+222c222
+<     public static class MultiBackgroundInitializerResults {
+---
+>     public static 	class MultiBackgroundInitializerResults {

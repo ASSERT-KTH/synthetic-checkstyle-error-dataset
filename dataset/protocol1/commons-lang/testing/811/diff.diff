@@ -1,0 +1,4 @@
+164c164
+<         final int last = value;
+---
+>         final 	int last = value;

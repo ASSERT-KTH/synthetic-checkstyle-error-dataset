@@ -1,0 +1,5 @@
+1693c1693,1694
+<         return JAVA_SPECIFICATION_VERSION_AS_ENUM.atLeast(requiredVersion);
+---
+>         return 
+> JAVA_SPECIFICATION_VERSION_AS_ENUM.atLeast(requiredVersion);

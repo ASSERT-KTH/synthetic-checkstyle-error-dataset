@@ -1,0 +1,4 @@
+91c91
+<         setArrayStart("{" + System.lineSeparator() + spacer(spaces));
+---
+>         setArrayStart("{" + System.lineSeparator() 	+ spacer(spaces));

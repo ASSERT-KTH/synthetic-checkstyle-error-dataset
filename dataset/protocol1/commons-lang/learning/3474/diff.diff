@@ -1,0 +1,4 @@
+634c634
+<             throw new IndexOutOfBoundsException(String.format(message, values));
+---
+>             throw new 	IndexOutOfBoundsException(String.format(message, values));

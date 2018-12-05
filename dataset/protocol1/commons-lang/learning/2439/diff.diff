@@ -1,0 +1,5 @@
+145,146c145
+<     public char getEnd() {
+<         return this.end;
+---
+>     public char getEnd() {        return this.end;

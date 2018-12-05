@@ -1,0 +1,5 @@
+141c141,142
+<     public EventListenerSupport(final Class<L> listenerInterface, final ClassLoader classLoader) {
+---
+>     public EventListenerSupport(final Class<L> listenerInterface, 
+> final ClassLoader classLoader) {

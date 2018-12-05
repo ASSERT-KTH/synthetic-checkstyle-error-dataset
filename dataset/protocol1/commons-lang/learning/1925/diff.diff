@@ -1,0 +1,5 @@
+80c80,81
+<     private boolean isZeroToThree(final char ch) {
+---
+>     
+> private boolean isZeroToThree(final char ch) {

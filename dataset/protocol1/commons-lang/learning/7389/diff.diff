@@ -1,0 +1,4 @@
+1723c1723
+<     public static boolean truncatedEquals(final Calendar cal1, final Calendar cal2, final int field) {
+---
+>     public static boolean truncatedEquals(final Calendar cal1, 	final Calendar cal2, final int field) {

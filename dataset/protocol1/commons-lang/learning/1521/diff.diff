@@ -1,0 +1,4 @@
+190c190
+<     static String getPatternForStyle(final Integer dateStyle, final Integer timeStyle, final Locale locale) {
+---
+>     static String getPatternForStyle(final Integer dateStyle, 	final Integer timeStyle, final Locale locale) {

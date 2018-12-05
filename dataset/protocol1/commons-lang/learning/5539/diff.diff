@@ -1,0 +1,4 @@
+38c38
+<         ARCH_TO_PROCESSOR = new HashMap<>();
+---
+>         ARCH_TO_PROCESSOR 	= new HashMap<>();

@@ -1,0 +1,5 @@
+2563c2563,2564
+<         protected void appendDetail(final StringBuffer buffer, final String fieldName, final char value) {
+---
+>         protected void appendDetail(final StringBuffer buffer, 
+> final String fieldName, final char value) {

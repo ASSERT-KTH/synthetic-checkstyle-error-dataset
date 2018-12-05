@@ -1,0 +1,4 @@
+341c341
+<             final char cur = current;
+---
+>             final char cur = 	current;

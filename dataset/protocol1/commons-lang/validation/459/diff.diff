@@ -1,0 +1,4 @@
+243c243
+<         if (value.contains(".")) {
+---
+>         if (value.contains(".")	) {

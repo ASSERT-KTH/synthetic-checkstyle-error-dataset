@@ -1,0 +1,4 @@
+39c39
+<     public static JavaUnicodeEscaper above(final int codepoint) {
+---
+>     public static 	JavaUnicodeEscaper above(final int codepoint) {

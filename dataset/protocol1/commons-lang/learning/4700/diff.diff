@@ -1,0 +1,4 @@
+693c693
+<             throw new IndexOutOfBoundsException(String.format(message, values));
+---
+>             throw new IndexOutOfBoundsException(String.format(message	, values));

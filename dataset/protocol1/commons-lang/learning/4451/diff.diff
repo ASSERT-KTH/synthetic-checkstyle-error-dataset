@@ -1,0 +1,4 @@
+66c66
+<     public ConcurrentException(final String msg, final Throwable cause) {
+---
+>     public ConcurrentException(final String msg, 	final Throwable cause) {

@@ -1,0 +1,5 @@
+691c691,692
+<                     getTrimmerMatcher().isMatch(srcChars, start, start, len));
+---
+>                     getTrimmerMatcher().isMatch(srcChars, 
+> start, start, len));

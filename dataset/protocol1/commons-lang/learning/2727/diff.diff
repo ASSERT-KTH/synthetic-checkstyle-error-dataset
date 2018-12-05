@@ -1,0 +1,5 @@
+788c788,789
+<         final int d2 = greatestCommonDivisor(fraction.numerator, denominator);
+---
+>         final int d2 = greatestCommonDivisor(fraction.numerator, 
+> denominator);

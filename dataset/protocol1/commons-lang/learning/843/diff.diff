@@ -1,0 +1,5 @@
+864c864,865
+<             public Object getRight() {
+---
+>             public 
+> Object getRight() {

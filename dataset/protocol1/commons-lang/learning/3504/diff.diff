@@ -1,0 +1,4 @@
+99c99
+<         this.arch = arch;
+---
+>         this.arch = arch	;

@@ -1,0 +1,4 @@
+61c61
+<                         Diff.class.getTypeParameters()[0]), Object.class);
+---
+>                         Diff.class.getTypeParameters()	[0]), Object.class);

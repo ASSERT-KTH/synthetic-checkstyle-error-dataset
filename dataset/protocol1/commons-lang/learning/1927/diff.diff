@@ -1,0 +1,5 @@
+45c45,46
+<     private static final StrMatcher TAB_MATCHER = new CharMatcher('\t');
+---
+>     private 
+> static final StrMatcher TAB_MATCHER = new CharMatcher('\t');

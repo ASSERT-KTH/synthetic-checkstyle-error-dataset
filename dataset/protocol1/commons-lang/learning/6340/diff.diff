@@ -1,0 +1,5 @@
+144,145c144
+<     public static String[][] ISO8859_1_UNESCAPE() {
+<         return ISO8859_1_UNESCAPE.clone();
+---
+>     public static String[][] ISO8859_1_UNESCAPE() {        return ISO8859_1_UNESCAPE.clone();

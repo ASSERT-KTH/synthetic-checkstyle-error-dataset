@@ -1,0 +1,5 @@
+311c311,312
+<     public boolean containsRange(final Range<T> otherRange) {
+---
+>     public boolean containsRange(final Range<T> 
+> otherRange) {

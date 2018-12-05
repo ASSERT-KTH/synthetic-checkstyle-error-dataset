@@ -1,0 +1,4 @@
+155c155
+<     public static final String JAVA_AWT_FONTS = getSystemProperty("java.awt.fonts");
+---
+>     public static final String JAVA_AWT_FONTS = getSystemProperty("java.awt.fonts")	;

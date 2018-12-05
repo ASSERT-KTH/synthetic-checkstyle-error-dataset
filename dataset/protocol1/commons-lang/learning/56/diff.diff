@@ -1,0 +1,5 @@
+392c392,393
+<     public boolean isFieldSeparatorAtEnd() { // NOPMD as this is implementing the abstract class
+---
+>     public boolean 
+> isFieldSeparatorAtEnd() { // NOPMD as this is implementing the abstract class

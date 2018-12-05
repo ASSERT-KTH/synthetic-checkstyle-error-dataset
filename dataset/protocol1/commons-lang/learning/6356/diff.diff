@@ -1,0 +1,5 @@
+426,427c426
+<         if (bool == null) {
+<             return null;
+---
+>         if (bool == null) {            return null;

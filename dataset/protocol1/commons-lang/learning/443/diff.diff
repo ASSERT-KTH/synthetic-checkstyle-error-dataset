@@ -1,0 +1,5 @@
+366c366,367
+<         this(variableResolver, prefixMatcher, suffixMatcher, escape, DEFAULT_VALUE_DELIMITER);
+---
+>         this(variableResolver, prefixMatcher, suffixMatcher, escape, 
+> DEFAULT_VALUE_DELIMITER);

@@ -1,0 +1,5 @@
+2807,2808c2807
+<             if (thisBuf[i] != otherBuf[i]) {
+<                 return false;
+---
+>             if (thisBuf[i] != otherBuf[i]) {                return false;

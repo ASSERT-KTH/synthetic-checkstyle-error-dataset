@@ -1,0 +1,5 @@
+220c220,221
+<     private void initializeThread(final Thread thread) {
+---
+>     
+> private void initializeThread(final Thread thread) {

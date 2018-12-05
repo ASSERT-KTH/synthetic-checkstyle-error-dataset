@@ -1,0 +1,4 @@
+234c234
+<             final StringBuilder buf = new StringBuilder(4);
+---
+>             final StringBuilder buf 	= new StringBuilder(4);

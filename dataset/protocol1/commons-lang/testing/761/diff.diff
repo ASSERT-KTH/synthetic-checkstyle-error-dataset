@@ -1,0 +1,4 @@
+818c818
+<         final T clone = clone(obj);
+---
+>         final T clone = clone(	obj);

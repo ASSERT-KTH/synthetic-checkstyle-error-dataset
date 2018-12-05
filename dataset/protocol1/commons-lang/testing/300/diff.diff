@@ -1,0 +1,5 @@
+3160,3161c3160
+<         if (offset < 0) {
+<             offset += n;
+---
+>         if (offset < 0) {            offset += n;

@@ -1,0 +1,5 @@
+537,538c537
+<         }
+<         if (seq instanceof StringBuffer) {
+---
+>         }        if (seq instanceof StringBuffer) {

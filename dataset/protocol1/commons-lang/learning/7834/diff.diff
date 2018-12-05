@@ -1,0 +1,4 @@
+960c960
+<     public static Map<TypeVariable<?>, Type> determineTypeArguments(final Class<?> cls,
+---
+>     public static Map<TypeVariable<?>	, Type> determineTypeArguments(final Class<?> cls,

@@ -1,0 +1,4 @@
+650c650
+<             if (obj2 instanceof Token) {
+---
+>             	if (obj2 instanceof Token) {

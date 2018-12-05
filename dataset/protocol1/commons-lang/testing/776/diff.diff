@@ -1,0 +1,4 @@
+55c55
+<     public static <L, R> ImmutablePair<L, R> nullPair() {
+---
+>     public static <L, R> ImmutablePair<	L, R> nullPair() {

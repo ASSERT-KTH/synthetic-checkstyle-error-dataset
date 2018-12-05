@@ -1,0 +1,4 @@
+136c136
+<         return Integer.toHexString(codepoint).toUpperCase(Locale.ENGLISH);
+---
+>         return Integer.toHexString(codepoint).toUpperCase(	Locale.ENGLISH);

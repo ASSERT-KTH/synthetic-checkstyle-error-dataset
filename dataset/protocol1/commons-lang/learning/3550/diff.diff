@@ -1,0 +1,4 @@
+94c94
+<     private Future<T> future;  // @GuardedBy("this")
+---
+>     	private Future<T> future;  // @GuardedBy("this")

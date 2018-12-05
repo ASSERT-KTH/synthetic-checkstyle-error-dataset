@@ -1,0 +1,4 @@
+373c373
+<     public static <T extends Map<?, ?>> T notEmpty(final T map) {
+---
+>     public static <T extends 	Map<?, ?>> T notEmpty(final T map) {

@@ -1,0 +1,4 @@
+285c285
+<             denom0 = denom1;
+---
+>             	denom0 = denom1;

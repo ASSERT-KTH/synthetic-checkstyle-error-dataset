@@ -1,0 +1,5 @@
+43,44c43
+<             while (index + i < input.length() && input.charAt(index + i) == 'u') {
+<                 i++;
+---
+>             while (index + i < input.length() && input.charAt(index + i) == 'u') {                i++;

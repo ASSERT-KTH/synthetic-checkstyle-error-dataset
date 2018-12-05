@@ -1,0 +1,4 @@
+103c103
+<     public DiffBuilder(final Object lhs, final Object rhs,
+---
+>     public DiffBuilder(final Object 	lhs, final Object rhs,

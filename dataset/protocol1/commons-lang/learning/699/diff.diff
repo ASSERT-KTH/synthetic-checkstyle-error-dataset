@@ -1,0 +1,5 @@
+967,968c967
+<         if (lhs == null || rhs == null) {
+<             this.setEquals(false);
+---
+>         if (lhs == null || rhs == null) {            this.setEquals(false);

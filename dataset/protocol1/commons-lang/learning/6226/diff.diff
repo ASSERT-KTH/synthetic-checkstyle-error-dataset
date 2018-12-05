@@ -1,0 +1,5 @@
+525c525,526
+<         style.append(buffer, fieldName, value);
+---
+>         
+> style.append(buffer, fieldName, value);

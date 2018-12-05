@@ -1,0 +1,4 @@
+467c467
+<         final StrBuilder buf = new StrBuilder(length).append(source, offset, length);
+---
+>         final StrBuilder buf = new StrBuilder(length	).append(source, offset, length);

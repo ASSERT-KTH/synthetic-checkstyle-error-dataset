@@ -1,0 +1,4 @@
+357c357
+<         if (array == null) {
+---
+>         	if (array == null) {

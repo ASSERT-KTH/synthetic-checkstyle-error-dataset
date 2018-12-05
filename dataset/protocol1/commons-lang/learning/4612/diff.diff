@@ -1,0 +1,4 @@
+493c493
+<             return now - currentData.getCheckIntervalStart() > fetchCheckInterval(breaker);
+---
+>             return now - currentData.getCheckIntervalStart() > fetchCheckInterval(	breaker);

@@ -1,0 +1,4 @@
+98c98
+<     public Processor(final Arch arch, final Type type) {
+---
+>     public Processor(	final Arch arch, final Type type) {

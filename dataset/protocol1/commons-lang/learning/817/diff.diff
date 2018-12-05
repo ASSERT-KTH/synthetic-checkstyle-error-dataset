@@ -1,0 +1,5 @@
+868c868,869
+<                                             + varLen - (endPos - startPos);
+---
+>                                             + varLen - (endPos 
+> - startPos);

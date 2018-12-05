@@ -1,0 +1,4 @@
+71c71
+<     private final Callable<T> callable;
+---
+>     	private final Callable<T> callable;

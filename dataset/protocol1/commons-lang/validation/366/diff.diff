@@ -1,0 +1,5 @@
+87c87,88
+<     private static boolean parseSign(final String group) {
+---
+>     private static boolean parseSign(final 
+> String group) {

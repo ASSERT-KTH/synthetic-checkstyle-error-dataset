@@ -1,0 +1,4 @@
+4340c4340
+<     public static String join(final short[] array, final char separator, final int startIndex, final int endIndex) {
+---
+>     public static String join(final short[] array, final char separator	, final int startIndex, final int endIndex) {

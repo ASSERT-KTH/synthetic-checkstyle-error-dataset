@@ -1,0 +1,5 @@
+480c480,481
+<     public StringBuffer format(final Date date, final StringBuffer buf) {
+---
+>     public StringBuffer format(final Date date, final 
+> StringBuffer buf) {

@@ -1,0 +1,5 @@
+54c54,55
+<         final Matcher m = GMT_PATTERN.matcher(pattern);
+---
+>         final Matcher 
+> m = GMT_PATTERN.matcher(pattern);

@@ -1,0 +1,4 @@
+1299c1299
+<         public void appendTo(final Appendable buffer, final int value) throws IOException {
+---
+>         public void appendTo(final Appendable 	buffer, final int value) throws IOException {

@@ -1,0 +1,5 @@
+267c267,268
+<         private Integer priority;
+---
+>         
+> private Integer priority;

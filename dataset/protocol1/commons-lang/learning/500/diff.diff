@@ -1,0 +1,4 @@
+356c356
+<         return getPackageName(object.getClass());
+---
+>         return getPackageName(object.getClass()	);

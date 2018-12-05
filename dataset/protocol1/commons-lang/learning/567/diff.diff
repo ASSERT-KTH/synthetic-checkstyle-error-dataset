@@ -1,0 +1,4 @@
+44c44
+<         {"\u00A2", "&cent;"}, // cent sign
+---
+>         {	"\u00A2", "&cent;"}, // cent sign

@@ -1,0 +1,4 @@
+103c103
+<     public DiffResult build() {
+---
+>     public DiffResult build() 	{

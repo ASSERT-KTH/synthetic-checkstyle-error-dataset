@@ -1,0 +1,5 @@
+48c48,49
+<             final int next3 = index + 3;
+---
+>             final int 
+> next3 = index + 3;

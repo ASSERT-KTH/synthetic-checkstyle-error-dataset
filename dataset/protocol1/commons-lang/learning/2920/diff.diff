@@ -1,0 +1,4 @@
+89c89
+<          namePrimitiveMap.put("void", Void.TYPE);
+---
+>          namePrimitiveMap.put("void", Void.TYPE)	;

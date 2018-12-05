@@ -1,0 +1,4 @@
+237c237
+<     public static String formatUTC(final long millis, final String pattern, final Locale locale) {
+---
+>     public static String formatUTC(	final long millis, final String pattern, final Locale locale) {

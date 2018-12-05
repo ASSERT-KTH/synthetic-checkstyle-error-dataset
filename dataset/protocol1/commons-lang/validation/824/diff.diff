@@ -1,0 +1,4 @@
+251c251
+<             primitiveTypes.put("char", char.class);
+---
+>             primitiveTypes.put(	"char", char.class);

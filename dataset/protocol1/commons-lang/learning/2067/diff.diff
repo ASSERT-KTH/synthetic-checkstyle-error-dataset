@@ -1,0 +1,5 @@
+289,290c289
+<       private static Executable of(final Method method) {
+<           return new Executable(method);
+---
+>       private static Executable of(final Method method) {          return new Executable(method);

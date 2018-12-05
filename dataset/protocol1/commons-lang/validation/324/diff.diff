@@ -1,0 +1,5 @@
+1089c1089,1090
+<         static final TwoDigitYearField INSTANCE = new TwoDigitYearField();
+---
+>         static final TwoDigitYearField 
+> INSTANCE = new TwoDigitYearField();

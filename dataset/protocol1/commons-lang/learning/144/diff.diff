@@ -1,0 +1,5 @@
+33c33,34
+< public class CompositeFormat extends Format {
+---
+> public class CompositeFormat extends 
+> Format {

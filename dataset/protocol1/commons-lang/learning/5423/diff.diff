@@ -1,0 +1,5 @@
+109c109,110
+<         this.value = value.shortValue();
+---
+>         this.value = 
+> value.shortValue();

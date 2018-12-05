@@ -1,0 +1,4 @@
+364c364
+<             final char[] rhs) {
+---
+>             final char	[] rhs) {

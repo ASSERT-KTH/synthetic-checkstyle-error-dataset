@@ -1,0 +1,4 @@
+71c71
+<     public F getInstance(final String pattern, TimeZone timeZone, Locale locale) {
+---
+>     public F getInstance(final String 	pattern, TimeZone timeZone, Locale locale) {

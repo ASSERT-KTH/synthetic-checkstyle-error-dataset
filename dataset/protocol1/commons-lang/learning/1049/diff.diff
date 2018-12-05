@@ -1,0 +1,5 @@
+64c64,65
+<     public void setUseClassName(final boolean useClassName) { // NOPMD as this is implementing the abstract class
+---
+>     public void setUseClassName(final boolean 
+> useClassName) { // NOPMD as this is implementing the abstract class

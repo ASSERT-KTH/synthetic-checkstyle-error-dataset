@@ -1,0 +1,4 @@
+287c287
+<         public boolean isException(final String name) {
+---
+>         public boolean 	isException(final String name) {

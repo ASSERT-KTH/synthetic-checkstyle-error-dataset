@@ -1,0 +1,5 @@
+54c54,55
+<     private static StringBuilder twoDigits(final StringBuilder sb, final int n) {
+---
+>     private 
+> static StringBuilder twoDigits(final StringBuilder sb, final int n) {

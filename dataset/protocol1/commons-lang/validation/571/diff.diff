@@ -1,0 +1,5 @@
+310c310,311
+<         return new ReflectionToStringBuilder(object, style, null, reflectUpToClass, outputTransients, outputStatics)
+---
+>         return new ReflectionToStringBuilder(object, style, null, reflectUpToClass, outputTransients, 
+> outputStatics)

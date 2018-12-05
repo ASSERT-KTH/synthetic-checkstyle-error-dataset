@@ -1,0 +1,5 @@
+1537,1538c1537
+<         for (final TypeVariable<?> var : variables) {
+<             Validate.isTrue(mappings.containsKey(var), "missing argument mapping for %s", toString(var));
+---
+>         for (final TypeVariable<?> var : variables) {            Validate.isTrue(mappings.containsKey(var), "missing argument mapping for %s", toString(var));

@@ -1,0 +1,5 @@
+402,403c402
+<         }
+<         System.arraycopy(buffer, 0, destination, 0, len);
+---
+>         }        System.arraycopy(buffer, 0, destination, 0, len);

@@ -1,0 +1,4 @@
+941c941
+<     public static void finite(final double value) {
+---
+>     public static 	void finite(final double value) {

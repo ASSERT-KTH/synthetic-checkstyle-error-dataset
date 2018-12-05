@@ -1,0 +1,5 @@
+117c117,118
+<     public static boolean containsAny(final String str, final String... set) {
+---
+>     public static 
+> boolean containsAny(final String str, final String... set) {

@@ -1,0 +1,4 @@
+6730c6730
+<         return str.toUpperCase(locale);
+---
+>         	return str.toUpperCase(locale);

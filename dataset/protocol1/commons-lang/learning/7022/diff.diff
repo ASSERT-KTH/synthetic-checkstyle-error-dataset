@@ -1,0 +1,5 @@
+63,64c63
+<     public CircuitBreakingException(final Throwable cause) {
+<         super(cause);
+---
+>     public CircuitBreakingException(final Throwable cause) {        super(cause);

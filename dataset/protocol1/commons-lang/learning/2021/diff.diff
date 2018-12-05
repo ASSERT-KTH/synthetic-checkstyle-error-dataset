@@ -1,0 +1,4 @@
+87c87
+<     public NotImplementedException(final String message, final String code) {
+---
+>     public NotImplementedException(final String message	, final String code) {

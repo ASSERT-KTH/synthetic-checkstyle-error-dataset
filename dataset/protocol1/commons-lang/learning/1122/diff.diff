@@ -1,0 +1,4 @@
+347c347
+<         return indexOf(throwable, type, 0, true);
+---
+>         return indexOf(	throwable, type, 0, true);

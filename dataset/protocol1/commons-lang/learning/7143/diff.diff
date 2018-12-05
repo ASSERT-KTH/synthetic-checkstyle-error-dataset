@@ -1,0 +1,4 @@
+118c118
+<                 final char high = cs.charAt(i);
+---
+>                 	final char high = cs.charAt(i);

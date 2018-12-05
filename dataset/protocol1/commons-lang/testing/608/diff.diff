@@ -1,0 +1,5 @@
+65,66c65
+<             if (StringUtils.equals(label, p.getKey())) {
+<                 iter.remove();
+---
+>             if (StringUtils.equals(label, p.getKey())) {                iter.remove();

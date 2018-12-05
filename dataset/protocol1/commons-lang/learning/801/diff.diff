@@ -1,0 +1,5 @@
+51c51,52
+<             throw new IllegalArgumentException("Class " + eventSource.getClass().getName()
+---
+>             throw new IllegalArgumentException("Class " 
+> + eventSource.getClass().getName()

@@ -1,0 +1,4 @@
+162c162
+<             throw new IllegalStateException("Unchecked exception", throwable);
+---
+>             throw new IllegalStateException	("Unchecked exception", throwable);

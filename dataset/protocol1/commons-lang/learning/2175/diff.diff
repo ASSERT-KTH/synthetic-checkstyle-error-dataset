@@ -1,0 +1,4 @@
+112c112
+<         {"\u00E6", "&aelig;"}, // æ - lowercase ae
+---
+>         {"\u00E6", "&ael	ig;"}, // æ - lowercase ae

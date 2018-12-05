@@ -1,0 +1,5 @@
+987c987,988
+<             comparison = -1;
+---
+>             comparison 
+> = -1;

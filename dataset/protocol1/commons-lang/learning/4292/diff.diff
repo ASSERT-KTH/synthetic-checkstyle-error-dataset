@@ -1,0 +1,5 @@
+102,103c102
+<     static int compareConstructorFit(final Constructor<?> left, final Constructor<?> right, final Class<?>[] actual) {
+<       return compareParameterTypes(Executable.of(left), Executable.of(right), actual);
+---
+>     static int compareConstructorFit(final Constructor<?> left, final Constructor<?> right, final Class<?>[] actual) {      return compareParameterTypes(Executable.of(left), Executable.of(right), actual);

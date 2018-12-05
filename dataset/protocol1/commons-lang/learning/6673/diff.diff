@@ -1,0 +1,5 @@
+827c827,828
+<         if (!(obj instanceof Fraction)) {
+---
+>         if (!(obj instanceof 
+> Fraction)) {

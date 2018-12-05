@@ -1,0 +1,4 @@
+50c50
+<     boolean isOpen();
+---
+>     boolean isOpen	();

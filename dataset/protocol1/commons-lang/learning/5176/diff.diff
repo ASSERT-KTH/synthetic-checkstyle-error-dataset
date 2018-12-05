@@ -1,0 +1,4 @@
+206c206
+<                 if (previous != null) {
+---
+>                 	if (previous != null) {

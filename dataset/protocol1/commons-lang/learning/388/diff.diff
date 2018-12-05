@@ -1,0 +1,5 @@
+205,206c205
+<     public static Collection<Thread> findThreadsByName(final String threadName) {
+<         return findThreads(new NamePredicate(threadName));
+---
+>     public static Collection<Thread> findThreadsByName(final String threadName) {        return findThreads(new NamePredicate(threadName));

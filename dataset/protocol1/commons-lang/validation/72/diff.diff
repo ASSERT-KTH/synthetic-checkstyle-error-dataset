@@ -1,0 +1,4 @@
+1120c1120
+<     public void append(final StringBuffer buffer, final String fieldName, final short[] array, final Boolean fullDetail) {
+---
+>     public void append(final StringBuffer buffer, final 	String fieldName, final short[] array, final Boolean fullDetail) {

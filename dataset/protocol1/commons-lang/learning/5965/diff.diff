@@ -1,0 +1,5 @@
+79c79,80
+<     public static String toFullyQualifiedName(final Package context, final String resourceName) {
+---
+>     
+> public static String toFullyQualifiedName(final Package context, final String resourceName) {

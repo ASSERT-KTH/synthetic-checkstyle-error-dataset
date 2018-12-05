@@ -1,0 +1,4 @@
+59c59
+<     boolean isClosed();
+---
+>     boolean 	isClosed();

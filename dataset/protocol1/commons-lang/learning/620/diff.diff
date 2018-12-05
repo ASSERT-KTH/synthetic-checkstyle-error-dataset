@@ -1,0 +1,4 @@
+257c257
+<             if (field.getAnnotation(annotationCls) != null) {
+---
+>             if (field.	getAnnotation(annotationCls) != null) {

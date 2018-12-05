@@ -1,0 +1,5 @@
+32c32,33
+<     private static final TimeZone GREENWICH = new GmtTimeZone(false, 0, 0);
+---
+>     private static 
+> final TimeZone GREENWICH = new GmtTimeZone(false, 0, 0);

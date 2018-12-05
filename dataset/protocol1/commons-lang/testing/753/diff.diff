@@ -1,0 +1,5 @@
+237,238c237
+<     public void subtract(final Number operand) {
+<         this.value -= operand.floatValue();
+---
+>     public void subtract(final Number operand) {        this.value -= operand.floatValue();

@@ -1,0 +1,4 @@
+117c117
+<                 && accept(value.getClass())) {
+---
+>                 && accept(value	.getClass())) {

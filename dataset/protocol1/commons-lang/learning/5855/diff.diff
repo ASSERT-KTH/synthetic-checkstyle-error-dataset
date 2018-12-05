@@ -1,0 +1,4 @@
+821c821
+<                                 final int endPos = pos;
+---
+>                                 final int endPos = pos	;

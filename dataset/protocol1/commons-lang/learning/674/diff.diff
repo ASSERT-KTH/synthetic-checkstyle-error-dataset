@@ -1,0 +1,5 @@
+234,235c234
+<     public String getMessage() {
+<         return getFormattedExceptionMessage(super.getMessage());
+---
+>     public String getMessage() {        return getFormattedExceptionMessage(super.getMessage());

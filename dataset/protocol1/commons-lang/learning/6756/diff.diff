@@ -1,0 +1,4 @@
+132c132
+<     public static FastDateFormat getInstance(final String pattern) {
+---
+>     public static FastDateFormat getInstance(final 	String pattern) {

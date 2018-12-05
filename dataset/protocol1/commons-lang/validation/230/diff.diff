@@ -1,0 +1,5 @@
+99,100c99
+<         if (obj == this) {
+<             return true;
+---
+>         if (obj == this) {            return true;

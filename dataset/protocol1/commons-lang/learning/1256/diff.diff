@@ -1,0 +1,4 @@
+621c621
+<     public int getMaxLengthEstimate() {
+---
+>     public int getMaxLengthEstimate(	) {

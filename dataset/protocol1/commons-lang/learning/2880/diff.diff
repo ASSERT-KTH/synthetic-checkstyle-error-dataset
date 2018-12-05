@@ -1,0 +1,4 @@
+404c404
+<     public int compareTo(final MutableDouble other) {
+---
+>     public int compareTo(final 	MutableDouble other) {

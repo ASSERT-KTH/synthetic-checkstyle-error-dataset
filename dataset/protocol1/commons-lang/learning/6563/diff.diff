@@ -1,0 +1,4 @@
+59c59
+<         for (final E e: enumClass.getEnumConstants()) {
+---
+>         for (final E e: enumClass.getEnumConstants()) 	{

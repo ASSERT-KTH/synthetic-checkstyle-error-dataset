@@ -1,0 +1,4 @@
+66c66
+<     public static NumericEntityEscaper below(final int codepoint) {
+---
+>     public static NumericEntityEscaper 	below(final int codepoint) {

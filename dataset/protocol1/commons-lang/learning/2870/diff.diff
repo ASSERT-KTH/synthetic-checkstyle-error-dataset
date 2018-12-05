@@ -1,0 +1,5 @@
+100c100,101
+<         return new CharRange(ch, ch, true);
+---
+>         return new CharRange(ch, ch, 
+> true);

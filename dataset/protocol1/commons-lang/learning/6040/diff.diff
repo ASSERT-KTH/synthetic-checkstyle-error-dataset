@@ -1,0 +1,5 @@
+960c960,961
+<             final int bits = (src[i + srcPos] ? 1 : 0) << shift;
+---
+>             final int bits = (src[i + srcPos] ? 1 : 0) << 
+> shift;

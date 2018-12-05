@@ -1,0 +1,4 @@
+156c156
+<     public static String[][] HTML40_EXTENDED_ESCAPE() {
+---
+>     public static String[]	[] HTML40_EXTENDED_ESCAPE() {

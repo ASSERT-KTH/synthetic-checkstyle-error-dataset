@@ -1,0 +1,4 @@
+407c407
+<     public static Integer toIntegerObject(final boolean bool) {
+---
+>     public static Integer toIntegerObject(final boolean 	bool) {

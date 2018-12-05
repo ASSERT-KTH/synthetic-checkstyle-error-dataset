@@ -1,0 +1,5 @@
+807c807,808
+<         hierarchyTraversal: while (hierarchy.hasNext()) {
+---
+>         hierarchyTraversal: while 
+> (hierarchy.hasNext()) {

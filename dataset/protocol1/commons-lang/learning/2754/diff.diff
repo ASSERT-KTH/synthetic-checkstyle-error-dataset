@@ -1,0 +1,4 @@
+574c574
+<                 final char ch1 = str.charAt(1);
+---
+>                 final char ch1 = str.charAt(	1);

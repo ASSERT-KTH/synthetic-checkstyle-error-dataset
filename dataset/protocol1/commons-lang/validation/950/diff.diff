@@ -1,0 +1,4 @@
+909c909
+<             appendDetail(buffer, fieldName, array);
+---
+>             appendDetail	(buffer, fieldName, array);

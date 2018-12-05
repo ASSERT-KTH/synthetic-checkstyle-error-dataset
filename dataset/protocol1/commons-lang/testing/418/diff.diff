@@ -1,0 +1,4 @@
+135c135
+<                     && Objects.equals(getValue(), other.getValue());
+---
+>                     && Objects.equals(getValue(	), other.getValue());

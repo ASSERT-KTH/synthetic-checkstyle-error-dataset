@@ -1,0 +1,4 @@
+30c30
+<     private static final int MINUTES_PER_HOUR = 60;
+---
+>     private static final int MINUTES_PER_HOUR = 	60;

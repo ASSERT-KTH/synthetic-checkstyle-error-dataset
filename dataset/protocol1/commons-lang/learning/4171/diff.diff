@@ -1,0 +1,4 @@
+576c576
+<         if (StringUtils.isEmpty(str)) {
+---
+>         if (	StringUtils.isEmpty(str)) {

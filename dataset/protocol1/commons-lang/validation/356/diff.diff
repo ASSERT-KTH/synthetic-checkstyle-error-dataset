@@ -1,0 +1,4 @@
+246c246
+<                 return NumberUtils.toFloat(toParse[0] + '.' + toParse[1], defaultReturnValue);
+---
+>                 return 	NumberUtils.toFloat(toParse[0] + '.' + toParse[1], defaultReturnValue);

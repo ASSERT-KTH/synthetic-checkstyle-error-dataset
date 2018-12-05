@@ -1,0 +1,4 @@
+374c374
+<         return format(new Date(millis), pattern, timeZone, locale);
+---
+>         return format(new Date(millis), pattern, 	timeZone, locale);

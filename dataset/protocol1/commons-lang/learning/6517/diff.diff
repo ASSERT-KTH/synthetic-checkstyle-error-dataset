@@ -1,0 +1,5 @@
+156,157c156
+<         for (final char c : str.toCharArray()) {
+<             if (chars.contains(c)) {
+---
+>         for (final char c : str.toCharArray()) {            if (chars.contains(c)) {

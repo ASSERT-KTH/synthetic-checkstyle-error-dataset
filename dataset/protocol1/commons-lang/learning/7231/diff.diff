@@ -1,0 +1,5 @@
+307,308c307
+<             return Arrays.equals((double[]) o1, (double[]) o2);
+<         }
+---
+>             return Arrays.equals((double[]) o1, (double[]) o2);        }

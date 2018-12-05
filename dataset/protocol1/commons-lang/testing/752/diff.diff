@@ -1,0 +1,5 @@
+2458c2458,2459
+<     public int indexOf(final String str, int startIndex) {
+---
+>     public int indexOf(final String 
+> str, int startIndex) {

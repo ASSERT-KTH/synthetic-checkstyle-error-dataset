@@ -1,0 +1,5 @@
+1255c1255,1256
+<         for (int i = 0; i < nHexs; i++) {
+---
+>         for (int i 
+> = 0; i < nHexs; i++) {

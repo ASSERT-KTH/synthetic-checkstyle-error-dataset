@@ -1,0 +1,5 @@
+51,52c51
+<     private static void init_X86_32Bit() {
+<         final Processor processor = new Processor(Processor.Arch.BIT_32, Processor.Type.X86);
+---
+>     private static void init_X86_32Bit() {        final Processor processor = new Processor(Processor.Arch.BIT_32, Processor.Type.X86);

@@ -1,0 +1,5 @@
+108,109c108
+<             if (codepoint < below || codepoint > above) {
+<                 return false;
+---
+>             if (codepoint < below || codepoint > above) {                return false;

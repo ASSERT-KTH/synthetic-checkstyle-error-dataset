@@ -1,0 +1,5 @@
+253c253,254
+<     public static String toString(final Object object, final ToStringStyle style, final boolean outputTransients, final boolean outputStatics) {
+---
+>     public static String toString(final Object 
+> object, final ToStringStyle style, final boolean outputTransients, final boolean outputStatics) {

@@ -1,0 +1,4 @@
+61c61
+<     public static float min(final float... array) {
+---
+>     public static 	float min(final float... array) {

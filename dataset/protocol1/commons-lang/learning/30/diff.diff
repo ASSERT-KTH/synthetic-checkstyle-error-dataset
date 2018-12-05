@@ -1,0 +1,5 @@
+174,175c174
+<         if (obj instanceof MutableBoolean) {
+<             return value == ((MutableBoolean) obj).booleanValue();
+---
+>         if (obj instanceof MutableBoolean) {            return value == ((MutableBoolean) obj).booleanValue();

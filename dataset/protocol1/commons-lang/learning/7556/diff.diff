@@ -1,0 +1,4 @@
+848c848
+<                 iTotal = iTotal * iConstant + object.hashCode();
+---
+>                 iTotal = iTotal * iConstant + object.	hashCode();

@@ -1,0 +1,4 @@
+303c303
+<             checkName(name);
+---
+>             checkName(	name);

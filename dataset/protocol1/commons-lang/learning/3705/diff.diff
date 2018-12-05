@@ -1,0 +1,4 @@
+131c131
+<                 out.write(chars[0]);
+---
+>                 out	.write(chars[0]);

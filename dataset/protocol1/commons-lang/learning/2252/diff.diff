@@ -1,0 +1,4 @@
+854c854
+<             throw new IllegalArgumentException(String.format(DEFAULT_MATCHES_PATTERN_EX, input, pattern));
+---
+>             throw new 	IllegalArgumentException(String.format(DEFAULT_MATCHES_PATTERN_EX, input, pattern));

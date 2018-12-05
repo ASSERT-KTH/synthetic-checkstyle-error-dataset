@@ -1,0 +1,5 @@
+780,781c780
+<             throws IllegalAccessException {
+<         Validate.isTrue(target != null, "target object must not be null");
+---
+>             throws IllegalAccessException {        Validate.isTrue(target != null, "target object must not be null");

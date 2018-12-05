@@ -1,0 +1,4 @@
+531c531
+<     public boolean isSuspended() {
+---
+>     public boolean isSuspended(	) {

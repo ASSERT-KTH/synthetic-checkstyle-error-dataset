@@ -1,0 +1,5 @@
+84c84,85
+<                 final CharSequence subSeq = input.subSequence(index, index + i);
+---
+>                 final CharSequence subSeq 
+> = input.subSequence(index, index + i);

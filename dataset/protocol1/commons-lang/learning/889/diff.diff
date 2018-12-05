@@ -1,0 +1,4 @@
+194c194
+<                 if (!ArrayUtils.contains(excludeFields, field.getName())
+---
+>                 if (	!ArrayUtils.contains(excludeFields, field.getName())

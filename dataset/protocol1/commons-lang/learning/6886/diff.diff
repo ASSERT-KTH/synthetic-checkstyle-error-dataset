@@ -1,0 +1,5 @@
+340,341c340
+<     private static <E extends Enum<E>> Class<E> asEnum(final Class<E> enumClass) {
+<         Validate.notNull(enumClass, ENUM_CLASS_MUST_BE_DEFINED);
+---
+>     private static <E extends Enum<E>> Class<E> asEnum(final Class<E> enumClass) {        Validate.notNull(enumClass, ENUM_CLASS_MUST_BE_DEFINED);

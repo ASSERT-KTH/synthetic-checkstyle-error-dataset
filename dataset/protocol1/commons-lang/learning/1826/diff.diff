@@ -1,0 +1,4 @@
+642c642
+<             final int at = token.indexOf("at");
+---
+>             	final int at = token.indexOf("at");

@@ -1,0 +1,4 @@
+79c79
+<     public abstract R getRight();
+---
+>     public abstract R getRight	();

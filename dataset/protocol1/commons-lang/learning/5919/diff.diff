@@ -1,0 +1,4 @@
+1691c1691
+<             case Calendar.DAY_OF_YEAR:
+---
+>             	case Calendar.DAY_OF_YEAR:

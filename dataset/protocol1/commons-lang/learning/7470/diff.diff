@@ -1,0 +1,5 @@
+273c273,274
+<         if (map == null || init == null) {
+---
+>         if (map == null || init == 
+> null) {

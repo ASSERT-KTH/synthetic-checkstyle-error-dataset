@@ -1,0 +1,4 @@
+584c584
+<         throw new UnsupportedOperationException("set() is unsupported");
+---
+>         throw new 	UnsupportedOperationException("set() is unsupported");

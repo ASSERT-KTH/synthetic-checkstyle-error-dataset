@@ -1,0 +1,4 @@
+165c165
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final short[] array) {
+---
+>     protected void appendDetail(final StringBuffer buffer, 	final String fieldName, final short[] array) {

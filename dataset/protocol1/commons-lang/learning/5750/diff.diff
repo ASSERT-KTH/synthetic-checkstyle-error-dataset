@@ -1,0 +1,4 @@
+503c503
+<     public String replace(final StringBuffer source, final int offset, final int length) {
+---
+>     public String replace(final StringBuffer source, final int offset, final int length	) {

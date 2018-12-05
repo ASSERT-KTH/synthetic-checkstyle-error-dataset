@@ -1,0 +1,4 @@
+43c43
+< public class NotImplementedException extends UnsupportedOperationException {
+---
+> public class 	NotImplementedException extends UnsupportedOperationException {

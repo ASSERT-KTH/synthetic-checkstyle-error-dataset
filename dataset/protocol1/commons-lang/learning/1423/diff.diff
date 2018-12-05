@@ -1,0 +1,4 @@
+167c167
+<         for (final Method m : type.getDeclaredMethods()) {
+---
+>         for (final Method m : type.getDeclaredMethods	()) {

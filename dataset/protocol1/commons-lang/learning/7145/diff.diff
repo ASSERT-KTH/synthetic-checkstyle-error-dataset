@@ -1,0 +1,5 @@
+377c377,378
+<     private static final String[][] BASIC_ESCAPE = {
+---
+>     
+> private static final String[][] BASIC_ESCAPE = {

@@ -1,0 +1,4 @@
+128c128
+<     static class MapStrLookup<V> extends StrLookup<V> {
+---
+>     static 	class MapStrLookup<V> extends StrLookup<V> {

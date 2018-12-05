@@ -1,0 +1,4 @@
+328c328
+<                     matcher = patternToWrapOn.matcher(str.substring(offset + wrapLength));
+---
+>                     matcher = 	patternToWrapOn.matcher(str.substring(offset + wrapLength));

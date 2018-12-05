@@ -1,0 +1,4 @@
+2782c2782
+<     public static void shift(final char[] array, int startIndexInclusive, int endIndexExclusive, int offset) {
+---
+>     public static void shift(final char[] array, int startIndexInclusive	, int endIndexExclusive, int offset) {

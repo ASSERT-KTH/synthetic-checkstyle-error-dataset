@@ -1,0 +1,4 @@
+319c319
+<     private boolean performStateCheck(final int increment) {
+---
+>     private boolean performStateCheck(final int 	increment) {

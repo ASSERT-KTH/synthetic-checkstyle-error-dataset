@@ -1,0 +1,4 @@
+218c218
+<     public boolean contains(final T element) {
+---
+>     public boolean contains(	final T element) {

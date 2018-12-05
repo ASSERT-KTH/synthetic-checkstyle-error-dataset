@@ -1,0 +1,4 @@
+152c152
+<                         valueStr = value.toString();
+---
+>                         valueStr 	= value.toString();

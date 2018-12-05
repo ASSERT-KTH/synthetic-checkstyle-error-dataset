@@ -1,0 +1,4 @@
+2471c2471
+<                         if (i < csLast && searchChars[j + 1] == cs.charAt(i + 1)) {
+---
+>                         if (i < csLast && searchChars[j + 	1] == cs.charAt(i + 1)) {

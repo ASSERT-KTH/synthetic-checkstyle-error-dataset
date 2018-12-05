@@ -1,0 +1,4 @@
+1708c1708
+<     static boolean isJavaVersionMatch(final String version, final String versionPrefix) {
+---
+>     static boolean isJavaVersionMatch(final String version	, final String versionPrefix) {

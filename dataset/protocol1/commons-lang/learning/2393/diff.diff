@@ -1,0 +1,4 @@
+724c724
+<             final int bits = (0xff & src[i + srcPos]) << shift;
+---
+>             final int bits = (	0xff & src[i + srcPos]) << shift;

@@ -1,0 +1,4 @@
+146c146
+<         final boolean leftJustify = (flags & LEFT_JUSTIFY) == LEFT_JUSTIFY;
+---
+>         final boolean leftJustify = (flags & LEFT_JUSTIFY) == 	LEFT_JUSTIFY;

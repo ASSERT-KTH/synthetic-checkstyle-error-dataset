@@ -1,0 +1,4 @@
+361c361
+<         return format(calendar, pattern, null, locale);
+---
+>         return format(	calendar, pattern, null, locale);

@@ -1,0 +1,4 @@
+88c88
+<         return new MapStrLookup<>(map);
+---
+>         	return new MapStrLookup<>(map);

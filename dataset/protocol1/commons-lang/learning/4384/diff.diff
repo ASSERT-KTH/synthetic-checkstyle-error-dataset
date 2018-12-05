@@ -1,0 +1,4 @@
+609c609
+<     public static Date setSeconds(final Date date, final int amount) {
+---
+>     public static Date setSeconds	(final Date date, final int amount) {

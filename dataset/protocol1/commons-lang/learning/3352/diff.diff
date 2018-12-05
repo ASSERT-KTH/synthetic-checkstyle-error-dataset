@@ -1,0 +1,5 @@
+716c716,717
+<             for (final double element : array) {
+---
+>             for (final double element : 
+> array) {

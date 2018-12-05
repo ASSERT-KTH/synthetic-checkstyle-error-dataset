@@ -1,0 +1,4 @@
+328c328
+<     public Long toLong() {
+---
+>     public Long toLong	() {

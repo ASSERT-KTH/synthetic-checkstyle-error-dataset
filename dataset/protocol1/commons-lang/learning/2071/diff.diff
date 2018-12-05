@@ -1,0 +1,5 @@
+95,96c95
+<     public int compareTo(final Triple<L, M, R> other) {
+<       return new CompareToBuilder().append(getLeft(), other.getLeft())
+---
+>     public int compareTo(final Triple<L, M, R> other) {      return new CompareToBuilder().append(getLeft(), other.getLeft())

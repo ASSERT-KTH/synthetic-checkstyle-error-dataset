@@ -1,0 +1,4 @@
+70c70
+<     public static final String UTF_16BE = "UTF-16BE";
+---
+>     public static final String UTF_16BE 	= "UTF-16BE";

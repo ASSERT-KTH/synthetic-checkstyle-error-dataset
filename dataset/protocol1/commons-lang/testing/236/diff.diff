@@ -1,0 +1,5 @@
+396c396,397
+<             minutes += 60 * hours;
+---
+>             minutes 
+> += 60 * hours;

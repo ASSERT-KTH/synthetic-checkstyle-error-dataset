@@ -1,0 +1,4 @@
+220c220
+<         if (denominator < 0) {
+---
+>         if (	denominator < 0) {

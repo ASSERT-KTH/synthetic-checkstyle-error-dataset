@@ -1,0 +1,5 @@
+648c648,649
+<     public ToStringBuilder append(final String fieldName, final char[] array, final boolean fullDetail) {
+---
+>     public ToStringBuilder append(final String fieldName, final char[] 
+> array, final boolean fullDetail) {

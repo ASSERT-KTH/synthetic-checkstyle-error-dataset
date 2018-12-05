@@ -1,0 +1,4 @@
+277c277
+<         final double last = value;
+---
+>         final double 	last = value;

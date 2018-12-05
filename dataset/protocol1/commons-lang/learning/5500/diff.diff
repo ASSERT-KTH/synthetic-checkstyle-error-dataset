@@ -1,0 +1,5 @@
+801,802c801
+<     public EqualsBuilder append(final float lhs, final float rhs) {
+<         if (!isEquals) {
+---
+>     public EqualsBuilder append(final float lhs, final float rhs) {        if (!isEquals) {

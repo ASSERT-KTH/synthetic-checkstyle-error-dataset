@@ -1,0 +1,5 @@
+331,332c331
+<     public static boolean notEqual(final Object object1, final Object object2) {
+<         return !equals(object1, object2);
+---
+>     public static boolean notEqual(final Object object1, final Object object2) {        return !equals(object1, object2);

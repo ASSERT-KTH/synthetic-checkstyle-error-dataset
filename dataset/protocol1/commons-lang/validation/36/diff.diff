@@ -1,0 +1,4 @@
+2128c2128
+<     protected void setSummaryObjectEndText(String summaryObjectEndText) {
+---
+>     protected void setSummaryObjectEndText	(String summaryObjectEndText) {

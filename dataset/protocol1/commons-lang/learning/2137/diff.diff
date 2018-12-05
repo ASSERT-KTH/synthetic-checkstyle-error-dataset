@@ -1,0 +1,4 @@
+214c214
+<             final char c = pattern.charAt(currentIdx);
+---
+>             final char c 	= pattern.charAt(currentIdx);

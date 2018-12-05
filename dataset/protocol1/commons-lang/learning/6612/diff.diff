@@ -1,0 +1,4 @@
+198c198
+<     public EventCountCircuitBreaker(final int openingThreshold, final long checkInterval, final TimeUnit checkUnit,
+---
+>     public EventCountCircuitBreaker(final int openingThreshold	, final long checkInterval, final TimeUnit checkUnit,

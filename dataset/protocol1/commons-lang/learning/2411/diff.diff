@@ -1,0 +1,5 @@
+116c116,117
+<     public static ToStringStyle getDefaultStyle() {
+---
+>     
+> public static ToStringStyle getDefaultStyle() {

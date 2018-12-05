@@ -1,0 +1,5 @@
+35c35,36
+<     private static final Map<String, Processor> ARCH_TO_PROCESSOR;
+---
+>     
+> private static final Map<String, Processor> ARCH_TO_PROCESSOR;

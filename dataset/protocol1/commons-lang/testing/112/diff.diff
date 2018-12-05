@@ -1,0 +1,4 @@
+1194c1194
+<     public <T> StrBuilder appendAll(@SuppressWarnings("unchecked") final T... array) {
+---
+>     public <T> StrBuilder appendAll(@SuppressWarnings(	"unchecked") final T... array) {

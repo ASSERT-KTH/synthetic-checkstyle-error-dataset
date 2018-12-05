@@ -1,0 +1,4 @@
+878c878
+<             append((float[]) object);
+---
+>             append((float[]) object	);

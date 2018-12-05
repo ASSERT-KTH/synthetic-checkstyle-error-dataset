@@ -1,0 +1,4 @@
+379c379
+<         super.setFieldSeparatorAtStart(fieldSeparatorAtStart);
+---
+>         super.setFieldSeparatorAtStart(	fieldSeparatorAtStart);

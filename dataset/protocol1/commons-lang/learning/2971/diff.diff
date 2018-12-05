@@ -1,0 +1,5 @@
+45c45,46
+<     private final T object;
+---
+>     private final 
+> T object;

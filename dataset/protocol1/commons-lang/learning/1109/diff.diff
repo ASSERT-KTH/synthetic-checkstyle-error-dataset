@@ -1,0 +1,5 @@
+100c100,101
+<     public JavaUnicodeEscaper(final int below, final int above, final boolean between) {
+---
+>     public JavaUnicodeEscaper(final 
+> int below, final int above, final boolean between) {

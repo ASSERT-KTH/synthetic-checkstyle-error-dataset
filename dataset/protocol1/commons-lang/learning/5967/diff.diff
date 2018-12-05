@@ -1,0 +1,4 @@
+243c243
+<         final ArrayList<L> serializableListeners = new ArrayList<>();
+---
+>         final ArrayList<L> serializableListeners = new ArrayList	<>();

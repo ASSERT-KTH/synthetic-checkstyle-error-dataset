@@ -1,0 +1,5 @@
+156c156,157
+<     protected void appendDetail(final StringBuffer buffer, final String fieldName, final int[] array) {
+---
+>     protected 
+> void appendDetail(final StringBuffer buffer, final String fieldName, final int[] array) {

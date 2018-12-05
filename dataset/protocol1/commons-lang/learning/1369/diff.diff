@@ -1,0 +1,4 @@
+1059c1059
+<             style.appendEnd(this.getStringBuffer(), this.getObject());
+---
+>             style.appendEnd(this.getStringBuffer(), this.	getObject());

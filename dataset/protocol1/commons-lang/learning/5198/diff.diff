@@ -1,0 +1,5 @@
+297,298c297
+<         public Builder namingPattern(final String pattern) {
+<             Validate.notNull(pattern, "Naming pattern must not be null!");
+---
+>         public Builder namingPattern(final String pattern) {            Validate.notNull(pattern, "Naming pattern must not be null!");

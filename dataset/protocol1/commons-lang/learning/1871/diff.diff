@@ -1,0 +1,5 @@
+457c457,458
+<             append((boolean[]) lhs, (boolean[]) rhs);
+---
+>             append((boolean[]) lhs, 
+> (boolean[]) rhs);

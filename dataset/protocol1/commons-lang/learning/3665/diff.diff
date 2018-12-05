@@ -1,0 +1,5 @@
+1042,1043c1042
+<             if (array[j] < min) {
+<                 min = array[j];
+---
+>             if (array[j] < min) {                min = array[j];

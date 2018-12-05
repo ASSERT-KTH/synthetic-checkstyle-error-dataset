@@ -1,0 +1,4 @@
+61c61
+<     private static final long NANO_2_MILLIS = 1000000L;
+---
+>     private static final long NANO_2_MILLIS 	= 1000000L;

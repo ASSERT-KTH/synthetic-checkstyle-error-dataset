@@ -1,0 +1,4 @@
+170c170
+<                 stripCustom.append(START_FE).append(index);
+---
+>                 	stripCustom.append(START_FE).append(index);

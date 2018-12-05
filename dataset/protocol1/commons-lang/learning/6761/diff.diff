@@ -1,0 +1,4 @@
+1693c1693
+<                 result += unit.convert(calendar.get(Calendar.HOUR_OF_DAY), TimeUnit.HOURS);
+---
+>                 	result += unit.convert(calendar.get(Calendar.HOUR_OF_DAY), TimeUnit.HOURS);

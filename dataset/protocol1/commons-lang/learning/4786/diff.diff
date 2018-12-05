@@ -1,0 +1,5 @@
+1198c1198,1199
+<     public static final boolean IS_OS_MAC_OSX_MOUNTAIN_LION = getOsMatches("Mac OS X", "10.8");
+---
+>     public static final boolean 
+> IS_OS_MAC_OSX_MOUNTAIN_LION = getOsMatches("Mac OS X", "10.8");

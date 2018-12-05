@@ -1,0 +1,4 @@
+1985c1985
+<         return CharSequenceUtils.indexOf(seq, searchSeq, 0) >= 0;
+---
+>         	return CharSequenceUtils.indexOf(seq, searchSeq, 0) >= 0;

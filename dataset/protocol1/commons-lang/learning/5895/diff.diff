@@ -1,0 +1,4 @@
+101c101
+<             return this.value.equals(that.value);
+---
+>             return this.value.equals	(that.value);

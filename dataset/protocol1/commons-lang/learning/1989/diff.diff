@@ -1,0 +1,5 @@
+477c477,478
+<             this.chars = null;
+---
+>             
+> this.chars = null;

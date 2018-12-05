@@ -1,0 +1,4 @@
+119c119
+<                 final char low = cs.charAt(i + 1);
+---
+>                 final 	char low = cs.charAt(i + 1);

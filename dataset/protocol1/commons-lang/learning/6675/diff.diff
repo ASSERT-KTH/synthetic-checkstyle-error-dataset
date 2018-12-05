@@ -1,0 +1,4 @@
+363c363
+<             reflectionAppend(object, clazz, builder, testTransients, excludeFields);
+---
+>             reflectionAppend(object, clazz, builder, testTransients, excludeFields)	;

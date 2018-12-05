@@ -1,0 +1,4 @@
+108c108
+<     public MultiBackgroundInitializer() {
+---
+>     public MultiBackgroundInitializer(	) {

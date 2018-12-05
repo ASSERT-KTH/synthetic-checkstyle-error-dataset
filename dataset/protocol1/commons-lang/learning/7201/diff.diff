@@ -1,0 +1,4 @@
+147c147
+<         for (int i = buf.length(); i < width; i++) {
+---
+>         	for (int i = buf.length(); i < width; i++) {

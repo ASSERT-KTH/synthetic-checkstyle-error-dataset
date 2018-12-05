@@ -1,0 +1,5 @@
+62,63c62
+<             if (!(other instanceof IDKey)) {
+<                 return false;
+---
+>             if (!(other instanceof IDKey)) {                return false;

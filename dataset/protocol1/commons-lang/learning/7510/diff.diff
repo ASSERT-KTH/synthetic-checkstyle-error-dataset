@@ -1,0 +1,4 @@
+344c344
+<                     return Integer.parseInt(result.toString());
+---
+>                     return Integer.parseInt(result.toString()	);

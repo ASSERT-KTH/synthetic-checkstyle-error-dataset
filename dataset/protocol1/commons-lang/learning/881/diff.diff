@@ -1,0 +1,4 @@
+51c51
+<     public abstract int translate(CharSequence input, int index, Writer out) throws IOException;
+---
+>     public abstract int translate(CharSequence input, int index, Writer out) throws IOException	;

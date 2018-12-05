@@ -1,0 +1,5 @@
+237,238c237
+<     public static String formatUTC(final long millis, final String pattern, final Locale locale) {
+<         return format(new Date(millis), pattern, UTC_TIME_ZONE, locale);
+---
+>     public static String formatUTC(final long millis, final String pattern, final Locale locale) {        return format(new Date(millis), pattern, UTC_TIME_ZONE, locale);

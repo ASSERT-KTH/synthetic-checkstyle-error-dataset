@@ -1,0 +1,4 @@
+106c106
+<     public void setValue(final Number value) {
+---
+>     public void 	setValue(final Number value) {

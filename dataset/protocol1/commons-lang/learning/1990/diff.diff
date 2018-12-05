@@ -1,0 +1,5 @@
+289c289,290
+<       private static Executable of(final Method method) {
+---
+>       private static Executable 
+> of(final Method method) {

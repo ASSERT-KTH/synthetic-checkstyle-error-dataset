@@ -1,0 +1,4 @@
+182c182
+<     private int lastCallsPerPeriod; // @GuardedBy("this")
+---
+>     private int 	lastCallsPerPeriod; // @GuardedBy("this")

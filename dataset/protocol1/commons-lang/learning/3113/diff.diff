@@ -1,0 +1,4 @@
+56c56
+<         this.formatter = formatter;
+---
+>         this.formatter = 	formatter;

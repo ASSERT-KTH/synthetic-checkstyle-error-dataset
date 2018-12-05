@@ -1,0 +1,4 @@
+259c259
+<     public int getAndAdd(final int operand) {
+---
+>     	public int getAndAdd(final int operand) {

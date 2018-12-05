@@ -1,0 +1,4 @@
+79c79
+<     private List<L> listeners = new CopyOnWriteArrayList<>();
+---
+>     private List<L> listeners = new CopyOnWriteArrayList<>(	);

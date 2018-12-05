@@ -1,0 +1,5 @@
+772c772,773
+<         for (int offset = 0; offset < classArray.length; offset++) {
+---
+>         for (int offset = 0; offset < classArray.length; 
+> offset++) {

@@ -1,0 +1,5 @@
+133,134c133
+<     public static <T> Range<T> between(final T fromInclusive, final T toInclusive, final Comparator<T> comparator) {
+<         return new Range<>(fromInclusive, toInclusive, comparator);
+---
+>     public static <T> Range<T> between(final T fromInclusive, final T toInclusive, final Comparator<T> comparator) {        return new Range<>(fromInclusive, toInclusive, comparator);

@@ -1,0 +1,5 @@
+345c345,346
+<     public StrSubstitutor(final StrLookup<?> variableResolver, final String prefix, final String suffix,
+---
+>     public 
+> StrSubstitutor(final StrLookup<?> variableResolver, final String prefix, final String suffix,

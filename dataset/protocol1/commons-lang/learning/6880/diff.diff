@@ -1,0 +1,4 @@
+87c87
+<         return Double.valueOf(this.value);
+---
+>         return Double.valueOf(this	.value);

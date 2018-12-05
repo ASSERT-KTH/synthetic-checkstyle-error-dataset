@@ -1,0 +1,4 @@
+236c236
+<         this.startTimeMillis = System.currentTimeMillis();
+---
+>         this.startTimeMillis = System.	currentTimeMillis();

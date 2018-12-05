@@ -1,0 +1,4 @@
+221c221
+<         if (!isAsciiNumeric(ch)) {
+---
+>         if 	(!isAsciiNumeric(ch)) {

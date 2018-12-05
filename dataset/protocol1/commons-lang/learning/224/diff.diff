@@ -1,0 +1,4 @@
+34c34
+< public @interface HashCodeExclude {
+---
+> public 	@interface HashCodeExclude {

@@ -1,0 +1,4 @@
+78c78
+<         this.value = Long.parseLong(value);
+---
+>         this.value = Long.parseLong	(value);

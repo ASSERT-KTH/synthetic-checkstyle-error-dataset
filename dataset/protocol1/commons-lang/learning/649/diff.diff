@@ -1,0 +1,5 @@
+569,570c569
+<                 throw new ArithmeticException("overflow: gcd is 2^31");
+<             }
+---
+>                 throw new ArithmeticException("overflow: gcd is 2^31");            }

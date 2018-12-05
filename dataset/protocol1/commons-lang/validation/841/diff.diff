@@ -1,0 +1,4 @@
+557c557
+<                     appendSummary(buffer, fieldName, (char[]) value);
+---
+>                     appendSummary	(buffer, fieldName, (char[]) value);

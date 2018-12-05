@@ -1,0 +1,4 @@
+711c711
+<         for (final CharSequence w : words) {
+---
+>         for 	(final CharSequence w : words) {

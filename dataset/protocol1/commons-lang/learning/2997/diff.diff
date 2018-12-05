@@ -1,0 +1,4 @@
+75c75
+<                     @SuppressWarnings("unchecked") // OK because we just checked the assignability
+---
+>                     @SuppressWarnings	("unchecked") // OK because we just checked the assignability

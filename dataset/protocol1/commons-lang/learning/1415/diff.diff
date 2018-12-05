@@ -1,0 +1,4 @@
+449c449
+<     public static final String JAVA_SPECIFICATION_VERSION = getSystemProperty("java.specification.version");
+---
+>     public static final String JAVA_SPECIFICATION_VERSION = getSystemProperty("java.specification.version")	;

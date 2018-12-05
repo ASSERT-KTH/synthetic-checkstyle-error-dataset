@@ -1,0 +1,4 @@
+121c121
+<     public boolean isUseFieldNames() { // NOPMD as this is implementing the abstract class
+---
+>     public boolean 	isUseFieldNames() { // NOPMD as this is implementing the abstract class

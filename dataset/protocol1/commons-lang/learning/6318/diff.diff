@@ -1,0 +1,4 @@
+482c482
+<         str = str.toLowerCase();
+---
+>         str = str	.toLowerCase();

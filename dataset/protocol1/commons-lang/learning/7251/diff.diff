@@ -1,0 +1,5 @@
+242c242,243
+<     public static <K, V> V putIfAbsent(final ConcurrentMap<K, V> map, final K key, final V value) {
+---
+>     public static <K, V> 
+> V putIfAbsent(final ConcurrentMap<K, V> map, final K key, final V value) {

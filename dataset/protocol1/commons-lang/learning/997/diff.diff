@@ -1,0 +1,5 @@
+198,199c198
+<             if (start == sz - 1) {
+<                 return NOT_FOUND;
+---
+>             if (start == sz - 1) {                return NOT_FOUND;

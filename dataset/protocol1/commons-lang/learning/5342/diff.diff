@@ -1,0 +1,5 @@
+93c93,94
+<     private static final StrTokenizer TSV_TOKENIZER_PROTOTYPE;
+---
+>     private static final StrTokenizer 
+> TSV_TOKENIZER_PROTOTYPE;

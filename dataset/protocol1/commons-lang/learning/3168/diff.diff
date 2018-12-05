@@ -1,0 +1,4 @@
+182c182
+<         this.closingInterval = closingUnit.toNanos(closingInterval);
+---
+>         this.closingInterval = closingUnit.toNanos(closingInterval)	;

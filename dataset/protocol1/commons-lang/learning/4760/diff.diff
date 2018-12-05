@@ -1,0 +1,4 @@
+1021c1021
+<         if (src.length == 0 && srcPos == 0 || 0 == nBools) {
+---
+>         if (src.length == 0 && srcPos == 0 || 	0 == nBools) {

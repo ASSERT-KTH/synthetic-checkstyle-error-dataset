@@ -1,0 +1,5 @@
+538,539c538
+<     public CompareToBuilder append(final byte lhs, final byte rhs) {
+<         if (comparison != 0) {
+---
+>     public CompareToBuilder append(final byte lhs, final byte rhs) {        if (comparison != 0) {

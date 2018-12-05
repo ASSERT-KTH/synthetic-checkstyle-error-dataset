@@ -1,0 +1,4 @@
+127c127
+<     public int hashCode() {
+---
+>     public int hashCode	() {

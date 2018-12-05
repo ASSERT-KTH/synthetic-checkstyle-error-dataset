@@ -1,0 +1,5 @@
+99c99,100
+<         return new NumericEntityEscaper(codepointLow, codepointHigh, false);
+---
+>         return new 
+> NumericEntityEscaper(codepointLow, codepointHigh, false);

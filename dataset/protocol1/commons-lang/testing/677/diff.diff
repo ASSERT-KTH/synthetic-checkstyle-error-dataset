@@ -1,0 +1,4 @@
+1918c1918
+<     public StrBuilder deleteFirst(final StrMatcher matcher) {
+---
+>     public StrBuilder deleteFirst(final 	StrMatcher matcher) {

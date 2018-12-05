@@ -1,0 +1,4 @@
+56c56
+<     private static void init_X86_64Bit() {
+---
+>     private static void init_X86_64Bit(	) {

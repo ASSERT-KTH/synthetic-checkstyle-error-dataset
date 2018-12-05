@@ -1,0 +1,5 @@
+150c150,151
+<         return namingPattern;
+---
+>         
+> return namingPattern;

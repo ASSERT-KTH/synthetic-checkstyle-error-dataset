@@ -1,0 +1,5 @@
+204c204,205
+<                 final Format f = it.next();
+---
+>                 
+> final Format f = it.next();

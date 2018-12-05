@@ -1,0 +1,4 @@
+141c141
+<         super.reflectionAppendArrayDetail(buffer, fieldName, array);
+---
+>         super.reflectionAppendArrayDetail(buffer, 	fieldName, array);

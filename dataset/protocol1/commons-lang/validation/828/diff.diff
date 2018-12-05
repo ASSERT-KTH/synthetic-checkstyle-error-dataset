@@ -1,0 +1,4 @@
+92c92
+<                 "%s does not assign type parameter %s", getClass(), TypeUtils.toLongString(T));
+---
+>                 "%s does not assign type parameter %s", getClass(), TypeUtils	.toLongString(T));

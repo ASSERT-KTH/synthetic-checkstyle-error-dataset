@@ -1,0 +1,4 @@
+157c157
+<     public boolean isIA64() {
+---
+>     public boolean isIA64(	) {

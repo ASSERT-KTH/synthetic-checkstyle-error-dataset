@@ -1,0 +1,5 @@
+54c54,55
+<     public ConcurrentException(final Throwable cause) {
+---
+>     public ConcurrentException(final 
+> Throwable cause) {

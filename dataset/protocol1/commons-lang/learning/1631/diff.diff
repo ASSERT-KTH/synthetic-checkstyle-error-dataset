@@ -1,0 +1,5 @@
+88c88,89
+<     public void setUseShortClassName(final boolean useShortClassName) { // NOPMD as this is implementing the abstract class
+---
+>     public void setUseShortClassName(final boolean 
+> useShortClassName) { // NOPMD as this is implementing the abstract class

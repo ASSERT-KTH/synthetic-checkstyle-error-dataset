@@ -1,0 +1,5 @@
+7857c7857,7858
+<         final int abbrevMarkerLength = abbrevMarker.length();
+---
+>         final 
+> int abbrevMarkerLength = abbrevMarker.length();

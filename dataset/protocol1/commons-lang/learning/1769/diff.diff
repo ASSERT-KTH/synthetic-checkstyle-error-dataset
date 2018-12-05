@@ -1,0 +1,4 @@
+63c63
+<         final Field field = getField(cls, fieldName, false);
+---
+>         final Field field = getField(cls, fieldName, 	false);

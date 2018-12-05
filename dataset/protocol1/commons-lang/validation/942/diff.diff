@@ -1,0 +1,5 @@
+1348c1348,1349
+<     protected void appendSummary(final StringBuffer buffer, final String fieldName, final double[] array) {
+---
+>     protected void appendSummary(final StringBuffer buffer, 
+> final String fieldName, final double[] array) {

@@ -1,0 +1,5 @@
+488c488,489
+<     public static final String JAVA_VENDOR = getSystemProperty("java.vendor");
+---
+>     
+> public static final String JAVA_VENDOR = getSystemProperty("java.vendor");

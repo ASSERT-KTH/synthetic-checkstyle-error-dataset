@@ -1,0 +1,5 @@
+205c205,206
+<         for (final E constant : values) {
+---
+>         
+> for (final E constant : values) {

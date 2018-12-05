@@ -1,0 +1,4 @@
+725c725
+<     public static final String OS_VERSION = getSystemProperty("os.version");
+---
+>     public static final String OS_VERSION 	= getSystemProperty("os.version");

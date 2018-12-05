@@ -1,0 +1,5 @@
+243c243,244
+<     public static float max(final float a, final float b) {
+---
+>     public static float max(final 
+> float a, final float b) {

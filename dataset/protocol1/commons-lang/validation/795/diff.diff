@@ -1,0 +1,4 @@
+1007c1007
+<         PaddedNumberField(final int field, final int size) {
+---
+>         PaddedNumberField(final int field, final 	int size) {

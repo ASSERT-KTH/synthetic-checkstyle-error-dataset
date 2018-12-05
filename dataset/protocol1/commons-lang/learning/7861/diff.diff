@@ -1,0 +1,5 @@
+974c974,975
+<         int modify(final FastDateParser parser, final int iValue) {
+---
+>         int 
+> modify(final FastDateParser parser, final int iValue) {

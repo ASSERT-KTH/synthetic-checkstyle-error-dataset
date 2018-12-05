@@ -1,0 +1,4 @@
+521c521
+<             registry.remove(new IDKey(value));
+---
+>             registry	.remove(new IDKey(value));

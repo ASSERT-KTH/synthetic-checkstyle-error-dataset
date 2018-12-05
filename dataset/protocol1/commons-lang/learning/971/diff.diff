@@ -1,0 +1,4 @@
+238c238
+<         return annotatedFieldsList.toArray(new Field[annotatedFieldsList.size()]);
+---
+>         return annotatedFieldsList.toArray(new Field[annotatedFieldsList.size()]	);

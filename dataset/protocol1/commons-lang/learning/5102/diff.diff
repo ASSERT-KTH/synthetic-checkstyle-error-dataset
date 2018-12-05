@@ -1,0 +1,5 @@
+76,77c76
+<     public NotImplementedException(final String message, final Throwable cause) {
+<         this(message, cause, null);
+---
+>     public NotImplementedException(final String message, final Throwable cause) {        this(message, cause, null);

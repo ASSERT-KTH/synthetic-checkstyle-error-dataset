@@ -1,0 +1,5 @@
+208,209c208
+<     public static StrMatcher stringMatcher(final String str) {
+<         if (StringUtils.isEmpty(str)) {
+---
+>     public static StrMatcher stringMatcher(final String str) {        if (StringUtils.isEmpty(str)) {

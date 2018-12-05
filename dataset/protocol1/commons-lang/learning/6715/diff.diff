@@ -1,0 +1,4 @@
+63c63
+<         addProcessors(processor, "ia64_32", "ia64n");
+---
+>         addProcessors(processor, "ia64_32", "ia64n")	;

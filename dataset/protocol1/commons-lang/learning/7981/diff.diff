@@ -1,0 +1,5 @@
+717,718c717
+<                 exp = str.substring(expPos + 1, str.length() - 1);
+<             } else {
+---
+>                 exp = str.substring(expPos + 1, str.length() - 1);            } else {

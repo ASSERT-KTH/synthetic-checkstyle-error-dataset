@@ -1,0 +1,4 @@
+389c389
+<         private static final char CSV_QUOTE = '"';
+---
+>         	private static final char CSV_QUOTE = '"';

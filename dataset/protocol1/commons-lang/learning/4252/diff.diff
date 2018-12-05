@@ -1,0 +1,4 @@
+562c562
+<             for (final Type bound : getImplicitBounds((TypeVariable<?>) type)) {
+---
+>             for (final 	Type bound : getImplicitBounds((TypeVariable<?>) type)) {

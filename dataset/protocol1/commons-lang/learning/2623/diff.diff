@@ -1,0 +1,4 @@
+146c146
+<                 && !(ex instanceof Error), "Not a checked exception: " + ex);
+---
+>                 && !	(ex instanceof Error), "Not a checked exception: " + ex);

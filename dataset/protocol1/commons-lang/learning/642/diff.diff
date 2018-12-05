@@ -1,0 +1,5 @@
+319c319,320
+<         return flag ? setByte(holder) : clearByte(holder);
+---
+>         return flag ? setByte(holder) : 
+> clearByte(holder);

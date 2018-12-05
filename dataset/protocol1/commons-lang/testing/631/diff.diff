@@ -1,0 +1,5 @@
+492c492,493
+<         final String hexString = Integer.toHexString(System.identityHashCode(object));
+---
+>         final String 
+> hexString = Integer.toHexString(System.identityHashCode(object));

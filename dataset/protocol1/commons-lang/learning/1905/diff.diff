@@ -1,0 +1,4 @@
+379c379
+<         if (chars == null && (numbers && end <= zero_digit_ascii
+---
+>         if 	(chars == null && (numbers && end <= zero_digit_ascii

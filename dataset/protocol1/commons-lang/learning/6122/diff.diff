@@ -1,0 +1,5 @@
+303c303,304
+<                 if (current == Character.MAX_VALUE) {
+---
+>                 if (current == 
+> Character.MAX_VALUE) {

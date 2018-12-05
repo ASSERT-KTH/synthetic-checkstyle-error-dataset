@@ -1,0 +1,4 @@
+143c143
+<         return replaceFirst(text, regex, StringUtils.EMPTY);
+---
+>         return replaceFirst(text, regex, StringUtils.	EMPTY);

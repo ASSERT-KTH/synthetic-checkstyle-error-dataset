@@ -1,0 +1,5 @@
+334c334,335
+<             return isAssignable(type, (GenericArrayType) toType, typeVarAssigns);
+---
+>             return 
+> isAssignable(type, (GenericArrayType) toType, typeVarAssigns);

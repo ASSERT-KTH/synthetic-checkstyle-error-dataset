@@ -1,0 +1,4 @@
+155c155
+<         if (this.comparator.compare(element1, element2) < 1) {
+---
+>         if (this.comparator.	compare(element1, element2) < 1) {

@@ -1,0 +1,4 @@
+60c60
+<             out.write( Integer.parseInt(builder.toString(), 8) );
+---
+>             out.write( Integer	.parseInt(builder.toString(), 8) );

@@ -1,0 +1,4 @@
+506c506
+<         public abstract boolean isStateTransition(EventCountCircuitBreaker breaker,
+---
+>         public abstract boolean isStateTransition(	EventCountCircuitBreaker breaker,

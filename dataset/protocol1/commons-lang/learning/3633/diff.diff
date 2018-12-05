@@ -1,0 +1,4 @@
+197c197
+<         {"\u03B9", "&iota;"}, // greek small letter iota, U+03B9 ISOgrk3 -->
+---
+>         	{"\u03B9", "&iota;"}, // greek small letter iota, U+03B9 ISOgrk3 -->

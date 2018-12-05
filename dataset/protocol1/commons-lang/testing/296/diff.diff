@@ -1,0 +1,4 @@
+41c41
+< public class DefaultExceptionContext implements ExceptionContext, Serializable {
+---
+> public class 	DefaultExceptionContext implements ExceptionContext, Serializable {

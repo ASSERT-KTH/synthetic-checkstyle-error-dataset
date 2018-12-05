@@ -1,0 +1,4 @@
+103c103
+<     public M getMiddle() {
+---
+>     public M getMiddle() 	{

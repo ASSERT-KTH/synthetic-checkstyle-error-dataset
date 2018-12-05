@@ -1,0 +1,5 @@
+495c495,496
+<     public StringBuffer format(final Calendar calendar, final StringBuffer buf) {
+---
+>     public StringBuffer format(final Calendar calendar, 
+> final StringBuffer buf) {

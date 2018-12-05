@@ -1,0 +1,4 @@
+19c19
+< import java.util.EnumMap;
+---
+> import java.	util.EnumMap;

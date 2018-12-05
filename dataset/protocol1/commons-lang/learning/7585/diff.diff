@@ -1,0 +1,4 @@
+167c167
+<         return Type.PPC.equals(type);
+---
+>         return Type.PPC.equals(type	);

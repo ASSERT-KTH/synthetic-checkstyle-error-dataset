@@ -1,0 +1,5 @@
+675,676c675
+<                 if (sIdx == source.length()) {
+<                     pos.setErrorIndex(sIdx);
+---
+>                 if (sIdx == source.length()) {                    pos.setErrorIndex(sIdx);

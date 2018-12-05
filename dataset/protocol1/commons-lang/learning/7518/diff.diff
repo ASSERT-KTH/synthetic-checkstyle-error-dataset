@@ -1,0 +1,4 @@
+333c333
+<         if (stateStrategy(currentState).isStateTransition(this, currentData, nextData)) {
+---
+>         if (stateStrategy(currentState).	isStateTransition(this, currentData, nextData)) {

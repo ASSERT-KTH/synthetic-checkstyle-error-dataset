@@ -1,0 +1,4 @@
+176c176
+<     private enum SplitState {
+---
+>     private 	enum SplitState {

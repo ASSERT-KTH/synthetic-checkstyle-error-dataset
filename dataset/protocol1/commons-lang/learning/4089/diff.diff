@@ -1,0 +1,5 @@
+599c599,600
+<                 whitespace = Character.isWhitespace(ch);
+---
+>                 
+> whitespace = Character.isWhitespace(ch);

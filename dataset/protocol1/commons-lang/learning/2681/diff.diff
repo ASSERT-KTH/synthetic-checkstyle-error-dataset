@@ -1,0 +1,4 @@
+188c188
+<         int getMaxWidth(final ListIterator<StrategyAndWidth> lt) {
+---
+>         	int getMaxWidth(final ListIterator<StrategyAndWidth> lt) {

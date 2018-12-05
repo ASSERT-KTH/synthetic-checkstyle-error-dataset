@@ -1,0 +1,4 @@
+110c110
+<                 if (isSet(OPTION.semiColonRequired)) {
+---
+>                 if (isSet(OPTION	.semiColonRequired)) {

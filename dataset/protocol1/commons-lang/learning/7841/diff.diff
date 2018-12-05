@@ -1,0 +1,4 @@
+253c253
+<     static class CsvEscaper extends CharSequenceTranslator {
+---
+>     static class CsvEscaper extends CharSequenceTranslator 	{

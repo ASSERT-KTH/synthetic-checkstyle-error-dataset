@@ -1,0 +1,4 @@
+3695c3695
+<         if (startIndex < 0) {
+---
+>         if 	(startIndex < 0) {

@@ -1,0 +1,4 @@
+157c157
+<         final ParsePosition pos = new ParsePosition(0);
+---
+>         final ParsePosition pos = new 	ParsePosition(0);

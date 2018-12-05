@@ -1,0 +1,4 @@
+347c347
+<     public static <T extends Map<?, ?>> T notEmpty(final T map, final String message, final Object... values) {
+---
+>     public static <T extends Map<?, ?>> T notEmpty(final T map, final String message, final Object... 	values) {

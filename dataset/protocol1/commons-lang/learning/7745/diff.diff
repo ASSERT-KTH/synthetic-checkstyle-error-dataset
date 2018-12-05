@@ -1,0 +1,5 @@
+61c61,62
+<     public static ConcurrentException extractCause(final ExecutionException ex) {
+---
+>     public static ConcurrentException 
+> extractCause(final ExecutionException ex) {

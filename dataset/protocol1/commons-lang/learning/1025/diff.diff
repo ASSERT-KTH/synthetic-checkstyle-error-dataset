@@ -1,0 +1,4 @@
+330c330
+<             final List<Locale> locales = availableLocaleList();
+---
+>             final List<Locale> 	locales = availableLocaleList();

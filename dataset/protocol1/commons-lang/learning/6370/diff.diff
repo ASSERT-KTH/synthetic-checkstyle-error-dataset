@@ -1,0 +1,4 @@
+662c662
+<     public static <T> T[] validIndex(final T[] array, final int index) {
+---
+>     public static <T	> T[] validIndex(final T[] array, final int index) {

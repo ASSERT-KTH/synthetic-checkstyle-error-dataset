@@ -1,0 +1,4 @@
+95c95
+<         return offset;
+---
+>         return 	offset;

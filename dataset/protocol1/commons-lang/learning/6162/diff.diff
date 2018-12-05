@@ -1,0 +1,4 @@
+93c93
+<     public ImmutableTriple(final L left, final M middle, final R right) {
+---
+>     public ImmutableTriple(final L left	, final M middle, final R right) {

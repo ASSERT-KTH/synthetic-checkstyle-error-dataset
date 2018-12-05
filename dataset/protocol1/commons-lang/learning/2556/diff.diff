@@ -1,0 +1,5 @@
+113c113,114
+<         return Objects.equals(getObject(), c.getObject());
+---
+>         return 
+> Objects.equals(getObject(), c.getObject());

@@ -1,0 +1,4 @@
+976c976
+<         return new DiffResult(left, right, diffs, style);
+---
+>         return new DiffResult(left	, right, diffs, style);

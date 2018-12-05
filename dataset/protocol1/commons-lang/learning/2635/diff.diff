@@ -1,0 +1,4 @@
+162c162
+<         return cache.getInstance(pattern, null, locale);
+---
+>         return cache	.getInstance(pattern, null, locale);

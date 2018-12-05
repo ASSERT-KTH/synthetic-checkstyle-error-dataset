@@ -1,0 +1,4 @@
+215c215
+<         return format(new Date(millis), pattern, UTC_TIME_ZONE, null);
+---
+>         return format(new Date(millis), pattern, UTC_TIME_ZONE, null	);

@@ -1,0 +1,4 @@
+419c419
+<         map.put(State.OPEN, new StateStrategyOpen());
+---
+>         map.put	(State.OPEN, new StateStrategyOpen());

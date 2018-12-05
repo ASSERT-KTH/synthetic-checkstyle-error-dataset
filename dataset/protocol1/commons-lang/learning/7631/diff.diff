@@ -1,0 +1,5 @@
+176,177c176
+<     public short decrementAndGet() {
+<         value--;
+---
+>     public short decrementAndGet() {        value--;

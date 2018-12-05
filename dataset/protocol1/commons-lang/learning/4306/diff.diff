@@ -1,0 +1,4 @@
+59c59
+<     private static final String JAVA_IO_TMPDIR_KEY = "java.io.tmpdir";
+---
+>     private static final String JAVA_IO_TMPDIR_KEY 	= "java.io.tmpdir";

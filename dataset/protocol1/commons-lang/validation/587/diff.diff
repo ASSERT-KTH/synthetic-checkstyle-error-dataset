@@ -1,0 +1,4 @@
+77c77
+<     public static <T extends Serializable> T clone(final T object) {
+---
+>     public 	static <T extends Serializable> T clone(final T object) {

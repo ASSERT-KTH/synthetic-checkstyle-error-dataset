@@ -1,0 +1,5 @@
+242c242,243
+<             return part1 ^ arrayMemberHash(value.getClass().getComponentType(), value);
+---
+>             return part1 ^ arrayMemberHash(value.getClass().getComponentType(), 
+> value);

@@ -1,0 +1,4 @@
+298c298
+<             Validate.notNull(pattern, "Naming pattern must not be null!");
+---
+>             Validate	.notNull(pattern, "Naming pattern must not be null!");

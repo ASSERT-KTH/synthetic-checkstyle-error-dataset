@@ -1,0 +1,4 @@
+233c233
+<         private StrategyAndWidth literal() {
+---
+>         private StrategyAndWidth literal(	) {

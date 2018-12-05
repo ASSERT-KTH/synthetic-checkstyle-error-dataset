@@ -1,0 +1,5 @@
+353c353,354
+<         if (obj instanceof MutableShort) {
+---
+>         
+> if (obj instanceof MutableShort) {

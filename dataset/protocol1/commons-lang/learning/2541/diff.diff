@@ -1,0 +1,4 @@
+54c54
+<         for (final CharSequenceTranslator translator : translators) {
+---
+>         for (final CharSequenceTranslator translator : translators) 	{

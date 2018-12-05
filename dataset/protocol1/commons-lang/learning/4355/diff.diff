@@ -1,0 +1,5 @@
+355c355,356
+<     public static <T> int reflectionHashCode(final int initialNonZeroOddNumber, final int multiplierNonZeroOddNumber, final T object,
+---
+>     public static <T> int 
+> reflectionHashCode(final int initialNonZeroOddNumber, final int multiplierNonZeroOddNumber, final T object,

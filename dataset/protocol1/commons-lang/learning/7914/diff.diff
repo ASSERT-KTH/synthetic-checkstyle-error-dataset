@@ -1,0 +1,5 @@
+1096c1096,1097
+<     public static void inclusiveBetween(final double start, final double end, final double value, final String message) {
+---
+>     public static void inclusiveBetween(final double start, final 
+> double end, final double value, final String message) {

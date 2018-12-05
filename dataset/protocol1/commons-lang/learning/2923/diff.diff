@@ -1,0 +1,5 @@
+270c270,271
+<                     if (result == null || MemberUtils.compareConstructorFit(ctor, result, parameterTypes) < 0) {
+---
+>                     if (result == null || MemberUtils.compareConstructorFit(ctor, 
+> result, parameterTypes) < 0) {

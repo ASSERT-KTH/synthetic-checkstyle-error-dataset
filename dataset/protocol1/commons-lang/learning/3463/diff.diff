@@ -1,0 +1,4 @@
+130c130
+<     public boolean is32Bit() {
+---
+>     public boolean 	is32Bit() {

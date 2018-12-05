@@ -1,0 +1,4 @@
+86c86
+<     public Float getValue() {
+---
+>     	public Float getValue() {

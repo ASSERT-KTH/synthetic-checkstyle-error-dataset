@@ -1,0 +1,4 @@
+166c166
+<     public boolean isPPC() {
+---
+>     public boolean isPPC	() {

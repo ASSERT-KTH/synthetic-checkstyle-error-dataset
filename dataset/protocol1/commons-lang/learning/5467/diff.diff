@@ -1,0 +1,4 @@
+724c724
+<             final short rhs) {
+---
+>             final short rhs) 	{

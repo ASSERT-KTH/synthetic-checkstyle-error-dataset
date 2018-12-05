@@ -1,0 +1,5 @@
+246,247c246
+<     public short addAndGet(final Number operand) {
+<         this.value += operand.shortValue();
+---
+>     public short addAndGet(final Number operand) {        this.value += operand.shortValue();

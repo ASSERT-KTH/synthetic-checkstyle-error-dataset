@@ -1,0 +1,4 @@
+669c669
+<     private static int addAndCheck(final int x, final int y) {
+---
+>     private static int addAndCheck(	final int x, final int y) {

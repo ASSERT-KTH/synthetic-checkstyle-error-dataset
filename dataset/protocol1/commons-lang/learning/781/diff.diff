@@ -1,0 +1,5 @@
+692,693c692
+<         if (index < 0 || index >= collection.size()) {
+<             throw new IndexOutOfBoundsException(String.format(message, values));
+---
+>         if (index < 0 || index >= collection.size()) {            throw new IndexOutOfBoundsException(String.format(message, values));

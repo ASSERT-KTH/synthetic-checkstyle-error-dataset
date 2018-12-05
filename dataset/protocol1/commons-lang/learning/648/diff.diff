@@ -1,0 +1,4 @@
+305c305
+<     public short setShortBoolean(final short holder, final boolean flag) {
+---
+>     public short setShortBoolean(	final short holder, final boolean flag) {

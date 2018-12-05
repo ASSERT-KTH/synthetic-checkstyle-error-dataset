@@ -1,0 +1,5 @@
+155c155,156
+<         return String.format(format, getLeft(), getMiddle(), getRight());
+---
+>         return String.format(format, getLeft(), getMiddle(), 
+> getRight());

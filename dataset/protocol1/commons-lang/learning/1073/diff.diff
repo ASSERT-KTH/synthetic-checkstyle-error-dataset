@@ -1,0 +1,4 @@
+338c338
+<     public Short toShort() {
+---
+>     public Short 	toShort() {

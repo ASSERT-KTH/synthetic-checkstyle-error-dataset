@@ -1,0 +1,4 @@
+1628c1628
+<                 str.getChars(0, strLen, buffer, index);
+---
+>                 str.getChars(0, strLen, buffer, 	index);

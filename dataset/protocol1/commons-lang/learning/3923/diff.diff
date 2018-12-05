@@ -1,0 +1,4 @@
+134c134
+<             throw new IllegalArgumentException(String.format(message, Double.valueOf(value)));
+---
+>             throw new IllegalArgumentException(String.format(message, Double.valueOf(	value)));

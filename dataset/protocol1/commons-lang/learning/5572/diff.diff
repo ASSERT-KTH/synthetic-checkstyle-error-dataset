@@ -1,0 +1,4 @@
+357c357
+<     public ToStringBuilder append(final double value) {
+---
+>     public ToStringBuilder append(	final double value) {

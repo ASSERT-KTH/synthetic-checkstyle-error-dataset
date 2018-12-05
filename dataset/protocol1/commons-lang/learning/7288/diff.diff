@@ -1,0 +1,4 @@
+670c670
+<                 if (firstSigDigit == '0') { // count leading zeroes
+---
+>                 	if (firstSigDigit == '0') { // count leading zeroes

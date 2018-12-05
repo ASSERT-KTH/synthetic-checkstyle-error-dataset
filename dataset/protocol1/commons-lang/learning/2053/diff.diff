@@ -1,0 +1,5 @@
+327c327,328
+<     public void setFieldNameValueSeparator(final String fieldNameValueSeparator) { // NOPMD as this is implementing the abstract class
+---
+>     public 
+> void setFieldNameValueSeparator(final String fieldNameValueSeparator) { // NOPMD as this is implementing the abstract class

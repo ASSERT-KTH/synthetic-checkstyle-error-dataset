@@ -1,0 +1,5 @@
+54c54,55
+<                 builder.append(input.charAt(next2));
+---
+>                 
+> builder.append(input.charAt(next2));

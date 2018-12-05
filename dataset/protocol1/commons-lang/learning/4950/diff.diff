@@ -1,0 +1,4 @@
+395c395
+<                 case Character.PRIVATE_USE:
+---
+>                 case Character.	PRIVATE_USE:

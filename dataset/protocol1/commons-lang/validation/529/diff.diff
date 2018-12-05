@@ -1,0 +1,5 @@
+205c205,206
+<     public static float nextFloat(final float startInclusive, final float endInclusive) {
+---
+>     public static 
+> float nextFloat(final float startInclusive, final float endInclusive) {

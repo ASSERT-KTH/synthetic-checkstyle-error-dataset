@@ -1,0 +1,4 @@
+274c274
+<                         Constructor<T> constructor = (Constructor<T>) ctor;
+---
+>                         Constructor<T> constructor = 	(Constructor<T>) ctor;

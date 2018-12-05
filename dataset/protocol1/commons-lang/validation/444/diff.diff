@@ -1,0 +1,4 @@
+1347c1347
+<         TimeZoneNameRule(final TimeZone timeZone, final Locale locale, final int style) {
+---
+>         TimeZoneNameRule(final TimeZone timeZone, final Locale locale, 	final int style) {

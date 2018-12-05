@@ -1,0 +1,4 @@
+253c253
+<                 rule = new TextField(Calendar.DAY_OF_WEEK, tokenLen < 4 ? shortWeekdays : weekdays);
+---
+>                 rule = new TextField(Calendar.DAY_OF_WEEK, tokenLen < 4 ? 	shortWeekdays : weekdays);

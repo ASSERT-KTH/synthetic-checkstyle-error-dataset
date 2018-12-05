@@ -1,0 +1,4 @@
+3949c3949
+<         return lastIndexOf(array, valueToFind, Integer.MAX_VALUE, tolerance);
+---
+>         return lastIndexOf(array, valueToFind, Integer.MAX_VALUE, 	tolerance);

@@ -1,0 +1,5 @@
+56c56,57
+<         this(message, (String) null);
+---
+>         this(message, (String) 
+> null);

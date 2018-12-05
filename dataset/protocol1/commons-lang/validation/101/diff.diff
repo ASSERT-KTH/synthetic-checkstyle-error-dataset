@@ -1,0 +1,5 @@
+131c131,132
+<     public static long nextLong(final long startInclusive, final long endExclusive) {
+---
+>     
+> public static long nextLong(final long startInclusive, final long endExclusive) {

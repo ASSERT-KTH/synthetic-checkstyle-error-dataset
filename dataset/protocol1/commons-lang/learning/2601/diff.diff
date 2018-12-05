@@ -1,0 +1,4 @@
+1057c1057
+<         final ClassLoader contextCL = Thread.currentThread().getContextClassLoader();
+---
+>         final ClassLoader contextCL = Thread.currentThread	().getContextClassLoader();

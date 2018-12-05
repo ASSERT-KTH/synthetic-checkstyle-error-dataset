@@ -1,0 +1,4 @@
+200c200
+<                         final Object fieldValue = field.get(object);
+---
+>                         final 	Object fieldValue = field.get(object);

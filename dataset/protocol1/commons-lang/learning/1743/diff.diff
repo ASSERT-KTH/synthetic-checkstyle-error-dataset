@@ -1,0 +1,4 @@
+8522c8522
+<         for (int mi = 0; mi < min.length(); mi++) {
+---
+>         for (int mi = 0; mi < min	.length(); mi++) {

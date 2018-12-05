@@ -1,0 +1,5 @@
+112c112,113
+<     public NotImplementedException(final String message, final Throwable cause, final String code) {
+---
+>     public NotImplementedException(final String message, final Throwable cause, final 
+> String code) {

@@ -1,0 +1,5 @@
+870c870,871
+<         if (length < 0 || (startIndex + length) > chars.length) {
+---
+>         if (length < 0 || (startIndex + length) 
+> > chars.length) {

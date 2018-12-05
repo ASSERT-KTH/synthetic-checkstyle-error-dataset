@@ -1,0 +1,5 @@
+833,834c833
+<             throw new IllegalArgumentException("The date must not be null");
+<         }
+---
+>             throw new IllegalArgumentException("The date must not be null");        }

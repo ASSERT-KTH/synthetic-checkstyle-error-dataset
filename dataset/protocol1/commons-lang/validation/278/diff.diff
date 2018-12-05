@@ -1,0 +1,4 @@
+399c399
+<         return toNoNullStringArray(collection.toArray());
+---
+>         	return toNoNullStringArray(collection.toArray());

@@ -1,0 +1,4 @@
+58c58
+<     private final AtomicReference<AtomicSafeInitializer<T>> factory =
+---
+>     private final AtomicReference<AtomicSafeInitializer<T>> 	factory =

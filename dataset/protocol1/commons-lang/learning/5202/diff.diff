@@ -1,0 +1,4 @@
+574c574
+<             register(lhs, rhs);
+---
+>             register(lhs, 	rhs);

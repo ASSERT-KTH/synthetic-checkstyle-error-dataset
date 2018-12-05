@@ -1,0 +1,4 @@
+76c76
+<     public static <L, R> ImmutablePair<L, R> of(final L left, final R right) {
+---
+>     public static 	<L, R> ImmutablePair<L, R> of(final L left, final R right) {

@@ -1,0 +1,5 @@
+152,153c152
+<                         valueStr = value.toString();
+<                     } catch (final Exception e) {
+---
+>                         valueStr = value.toString();                    } catch (final Exception e) {

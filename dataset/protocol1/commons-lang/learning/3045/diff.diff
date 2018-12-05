@@ -1,0 +1,5 @@
+393,394c393
+<             if (src[srcPos + 1]) {
+<                 return src[srcPos] ? 'e' : '6';
+---
+>             if (src[srcPos + 1]) {                return src[srcPos] ? 'e' : '6';

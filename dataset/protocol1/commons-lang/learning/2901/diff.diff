@@ -1,0 +1,4 @@
+431c431
+<             threadGroups = new ThreadGroup[count + (count / 2) + 1]; //slightly grow the array size
+---
+>             threadGroups = new ThreadGroup[count + (count / 2) 	+ 1]; //slightly grow the array size

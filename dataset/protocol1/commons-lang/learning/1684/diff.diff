@@ -1,0 +1,5 @@
+181,182c181
+<     public final Thread.UncaughtExceptionHandler getUncaughtExceptionHandler() {
+<         return uncaughtExceptionHandler;
+---
+>     public final Thread.UncaughtExceptionHandler getUncaughtExceptionHandler() {        return uncaughtExceptionHandler;

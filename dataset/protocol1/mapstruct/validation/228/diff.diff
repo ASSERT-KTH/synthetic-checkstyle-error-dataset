@@ -1,0 +1,5 @@
+72c72,73
+<             DecoratorConstructor decoratorConstructor = new DecoratorConstructor(
+---
+>             DecoratorConstructor 
+> decoratorConstructor = new DecoratorConstructor(

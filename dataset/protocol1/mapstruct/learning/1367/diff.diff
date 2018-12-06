@@ -1,0 +1,4 @@
+79c79
+<     public static String capitalize(String string) {
+---
+>     	public static String capitalize(String string) {

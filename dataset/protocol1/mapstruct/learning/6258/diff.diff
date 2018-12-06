@@ -1,0 +1,5 @@
+17,18c17
+< import org.mapstruct.ap.internal.util.FormattingMessager;
+< import org.mapstruct.ap.internal.version.VersionInformation;
+---
+> import org.mapstruct.ap.internal.util.FormattingMessager;import org.mapstruct.ap.internal.version.VersionInformation;

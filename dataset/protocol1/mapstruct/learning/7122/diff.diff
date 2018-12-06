@@ -1,0 +1,5 @@
+21c21,22
+< import org.mapstruct.ap.internal.writer.Writable.Context;
+---
+> import 
+> org.mapstruct.ap.internal.writer.Writable.Context;

@@ -1,0 +1,5 @@
+28,29c28
+<                             boolean fieldAssignment) {
+<         super( rhs, fieldAssignment );
+---
+>                             boolean fieldAssignment) {        super( rhs, fieldAssignment );

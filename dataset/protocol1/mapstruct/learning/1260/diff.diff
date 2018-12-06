@@ -1,0 +1,4 @@
+205c205
+<             State doHandleCharacter(char c, StateContext context) {
+---
+>             State doHandleCharacter(	char c, StateContext context) {

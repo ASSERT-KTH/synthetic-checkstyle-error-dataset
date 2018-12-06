@@ -1,0 +1,4 @@
+231c231
+<         return typeElement != null && typeElement.getModifiers().contains( Modifier.ABSTRACT );
+---
+>         return typeElement != null && typeElement.getModifiers().contains ( Modifier.ABSTRACT );

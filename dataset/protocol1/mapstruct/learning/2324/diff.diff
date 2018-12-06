@@ -1,0 +1,5 @@
+48,49c48
+<         else {
+<             return "String.valueOf( <SOURCE> )";
+---
+>         else {            return "String.valueOf( <SOURCE> )";

@@ -1,0 +1,5 @@
+48,49c48
+<  * generated implementations of all the mapper methods will be passed to this constructor. A typical implementation will
+<  * store the passed delegate in a field of the decorator and make use of it in the decorator methods:
+---
+>  * generated implementations of all the mapper methods will be passed to this constructor. A typical implementation will * store the passed delegate in a field of the decorator and make use of it in the decorator methods:

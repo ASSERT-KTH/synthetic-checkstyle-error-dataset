@@ -1,0 +1,5 @@
+110c110,111
+<         if ( type.getKind() == TypeKind.ERROR ) {
+---
+>         if ( type.getKind
+> () == TypeKind.ERROR ) {

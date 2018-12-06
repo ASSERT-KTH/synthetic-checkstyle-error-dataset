@@ -1,0 +1,4 @@
+58c58
+<     static boolean isSubtype(Types types, TypeMirror t1, TypeMirror t2) {
+---
+>     static boolean isSubtype(Types types, TypeMirror 	t1, TypeMirror t2) {

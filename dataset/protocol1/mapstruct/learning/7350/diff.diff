@@ -1,0 +1,5 @@
+24c24,25
+<     public NoArgumentConstructor(String name, Set<SupportingConstructorFragment> fragments) {
+---
+>     public NoArgumentConstructor(String 
+> name, Set<SupportingConstructorFragment> fragments) {

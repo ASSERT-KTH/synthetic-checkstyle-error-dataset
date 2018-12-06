@@ -1,0 +1,4 @@
+70c70
+<     static boolean isPublicNotStatic(Accessor accessor) {
+---
+>     static 	boolean isPublicNotStatic(Accessor accessor) {

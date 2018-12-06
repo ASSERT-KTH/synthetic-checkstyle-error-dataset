@@ -1,0 +1,4 @@
+40c40
+<     public boolean failsBuild() {
+---
+>     public 	boolean failsBuild() {

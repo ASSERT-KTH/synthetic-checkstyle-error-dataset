@@ -1,0 +1,5 @@
+12,13c12
+< import org.mapstruct.BeanMapping;
+< import org.mapstruct.BeforeMapping;
+---
+> import org.mapstruct.BeanMapping;import org.mapstruct.BeforeMapping;

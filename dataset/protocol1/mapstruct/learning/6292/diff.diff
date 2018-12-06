@@ -1,0 +1,4 @@
+36c36
+<         this.includeAnnotationsOnField = includeAnnotationsOnField;
+---
+>         this.includeAnnotationsOnField 	= includeAnnotationsOnField;

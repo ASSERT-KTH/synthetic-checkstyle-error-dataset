@@ -1,0 +1,4 @@
+303c303
+<                 Mapping mapping = Mapping.forIgnore( targetPropertyName );
+---
+>                 Mapping mapping = Mapping	.forIgnore( targetPropertyName );

@@ -1,0 +1,4 @@
+322c322
+<             result = prime * result + ( ( sourceType == null ) ? 0 : sourceType.hashCode() );
+---
+>             result = prime * result + ( ( sourceType ==null ) ? 0 : sourceType.hashCode() );

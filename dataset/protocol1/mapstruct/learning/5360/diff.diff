@@ -1,0 +1,4 @@
+119c119
+<             return COMPILER_NAME_ECLIPSE_JDT + " (Batch) " + getLibraryName( processingEnv.getClass(), true );
+---
+>             return COMPILER_NAME_ECLIPSE_JDT + " (Batch) " +getLibraryName( processingEnv.getClass(), true );

@@ -1,0 +1,5 @@
+138,139c138
+<                         Message.PROPERTYMAPPING_NO_READ_ACCESSOR_FOR_TARGET_TYPE,
+<                         targetPropertyName
+---
+>                         Message.PROPERTYMAPPING_NO_READ_ACCESSOR_FOR_TARGET_TYPE,                        targetPropertyName

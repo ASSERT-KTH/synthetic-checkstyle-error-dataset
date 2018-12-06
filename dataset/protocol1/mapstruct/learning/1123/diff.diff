@@ -1,0 +1,4 @@
+20c20
+<     private final boolean isValid;
+---
+>     	private final boolean isValid;

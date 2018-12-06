@@ -1,0 +1,5 @@
+16c16,17
+< import org.mapstruct.ap.internal.model.common.TypeFactory;
+---
+> import org.mapstruct.ap.internal.model.common.TypeFactory
+> ;

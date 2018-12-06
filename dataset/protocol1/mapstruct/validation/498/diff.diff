@@ -1,0 +1,4 @@
+22c22
+<     public EnumConstantWrapper(Assignment decoratedAssignment, Type enumType ) {
+---
+>     public EnumConstantWrapper (Assignment decoratedAssignment, Type enumType ) {

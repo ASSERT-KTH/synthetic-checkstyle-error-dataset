@@ -1,0 +1,4 @@
+93c93
+<     public static SelectionCriteria forMappingMethods(SelectionParameters selectionParameters,
+---
+>     public static SelectionCriteria forMappingMethods(SelectionParameters 	selectionParameters,

@@ -1,0 +1,5 @@
+31,32c31
+<     public Type getType() {
+<         return type;
+---
+>     public Type getType() {        return type;

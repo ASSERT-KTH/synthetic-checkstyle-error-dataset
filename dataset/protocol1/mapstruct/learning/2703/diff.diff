@@ -1,0 +1,5 @@
+84c84,85
+<     protected void adjustDecorator(Mapper mapper, InjectionStrategyPrism injectionStrategy) {
+---
+>     protected void adjustDecorator(Mapper mapper, 
+> InjectionStrategyPrism injectionStrategy) {

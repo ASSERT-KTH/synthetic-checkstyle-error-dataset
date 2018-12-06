@@ -1,0 +1,5 @@
+204,205c204
+<      * <a href="http://mapstruct.org">mapstruct.org</a> or
+<      * <a href="https://github.com/mapstruct/mapstruct">github.com/mapstruct/mapstruct</a> to share what problem you
+---
+>      * <a href="http://mapstruct.org">mapstruct.org</a> or     * <a href="https://github.com/mapstruct/mapstruct">github.com/mapstruct/mapstruct</a> to share what problem you

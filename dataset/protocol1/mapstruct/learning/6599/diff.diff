@@ -1,0 +1,5 @@
+340c340,341
+<     private boolean isValidReferencedOrFactoryMethod(int sourceParamCount, int targetParamCount,
+---
+>     private boolean 
+> isValidReferencedOrFactoryMethod(int sourceParamCount, int targetParamCount,

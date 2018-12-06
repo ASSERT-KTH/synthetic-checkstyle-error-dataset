@@ -1,0 +1,5 @@
+54c54,55
+<     public boolean isSubtype(TypeMirror t1, TypeMirror t2) {
+---
+>     public boolean isSubtype(TypeMirror t1
+> , TypeMirror t2) {

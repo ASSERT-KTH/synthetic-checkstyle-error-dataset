@@ -1,0 +1,4 @@
+37c37
+<     protected List<Annotation> getMapperReferenceAnnotations() {
+---
+>     protected List	<Annotation> getMapperReferenceAnnotations() {

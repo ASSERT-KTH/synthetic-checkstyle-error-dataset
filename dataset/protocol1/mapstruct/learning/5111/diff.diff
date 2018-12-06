@@ -1,0 +1,4 @@
+15c15
+< public class CharWrapperToStringConversion extends SimpleConversion {
+---
+> 	public class CharWrapperToStringConversion extends SimpleConversion {

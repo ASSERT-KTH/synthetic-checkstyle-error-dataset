@@ -1,0 +1,5 @@
+800c800,801
+<         String getterPropertyName = accessorNaming.getPropertyName( getterMethod );
+---
+>         String getterPropertyName = accessorNaming.getPropertyName( getterMethod )
+> ;

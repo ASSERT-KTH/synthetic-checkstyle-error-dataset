@@ -1,0 +1,5 @@
+233,234c233
+<                 nextType = typeFactory.getReturnType(
+<                     (DeclaredType) typeBasedOnMethod( initial ).getTypeMirror(),
+---
+>                 nextType = typeFactory.getReturnType(                    (DeclaredType) typeBasedOnMethod( initial ).getTypeMirror(),

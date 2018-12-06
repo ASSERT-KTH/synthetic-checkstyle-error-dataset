@@ -1,0 +1,4 @@
+492c492
+<             Type replacement = new Type(
+---
+>             Type replacement = new Type (

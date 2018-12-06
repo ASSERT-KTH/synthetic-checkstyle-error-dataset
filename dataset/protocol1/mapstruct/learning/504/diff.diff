@@ -1,0 +1,5 @@
+162c162,163
+<                         sourcePropertyNames = Arrays.copyOfRange( segments, 1, segments.length );
+---
+>                         sourcePropertyNames = Arrays.copyOfRange
+> ( segments, 1, segments.length );

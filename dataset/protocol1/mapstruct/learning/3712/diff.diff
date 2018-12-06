@@ -1,0 +1,5 @@
+19,20c19
+<  * Base class for {@link ConversionProvider}s creating {@link TypeConversion}s which don't declare any exception types.
+<  *
+---
+>  * Base class for {@link ConversionProvider}s creating {@link TypeConversion}s which don't declare any exception types. *

@@ -1,0 +1,5 @@
+82,83c82
+<     public static String singularize(String plural) {
+<         for ( ReplaceRule replaceRule : SINGULAR_RULES ) {
+---
+>     public static String singularize(String plural) {        for ( ReplaceRule replaceRule : SINGULAR_RULES ) {

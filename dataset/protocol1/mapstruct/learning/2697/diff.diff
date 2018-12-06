@@ -1,0 +1,5 @@
+207c207,208
+<             List<PropertyEntry> sourceEntries = new ArrayList<>();
+---
+>             List<PropertyEntry> sourceEntries = new ArrayList<>
+> ();

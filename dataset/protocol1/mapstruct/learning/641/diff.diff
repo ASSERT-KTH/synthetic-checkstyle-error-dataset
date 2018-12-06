@@ -1,0 +1,5 @@
+126,127c126
+<  *         PersonDto dto = delegate.personToPersonDto( person );
+<  *         dto.setName( person.getFirstName() + " " + person.getLastName() );
+---
+>  *         PersonDto dto = delegate.personToPersonDto( person ); *         dto.setName( person.getFirstName() + " " + person.getLastName() );

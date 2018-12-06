@@ -1,0 +1,4 @@
+48c48
+<             && mapMapping.keyNumberFormat().isEmpty()
+---
+>             && mapMapping	.keyNumberFormat().isEmpty()

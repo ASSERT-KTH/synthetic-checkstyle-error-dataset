@@ -1,0 +1,4 @@
+31c31
+<                 typeFactory.getType( DatatypeConstants.class )
+---
+>                 typeFactory.getType( DatatypeConstants.class 	)

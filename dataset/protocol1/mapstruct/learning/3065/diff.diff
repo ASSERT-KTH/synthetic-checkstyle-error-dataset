@@ -1,0 +1,4 @@
+66c66
+<             if ( existingField.getVariableName().equals( ref.getVariableName() ) ) {
+---
+>             if ( existingField.getVariableName().equals( ref. getVariableName() ) ) {

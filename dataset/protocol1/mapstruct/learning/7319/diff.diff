@@ -1,0 +1,4 @@
+82c82
+< public @interface Named {
+---
+> public 	@interface Named {

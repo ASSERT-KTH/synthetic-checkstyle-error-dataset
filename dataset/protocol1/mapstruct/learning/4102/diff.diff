@@ -1,0 +1,5 @@
+52c52,53
+<         AccessorNamingUtils getAccessorNaming();
+---
+>         AccessorNamingUtils getAccessorNaming
+> ();

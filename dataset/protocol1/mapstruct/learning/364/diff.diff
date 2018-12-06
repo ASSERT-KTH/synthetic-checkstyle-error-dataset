@@ -1,0 +1,5 @@
+345c345,346
+<                 MappingMethod enumMappingMethod = builder
+---
+>                 MappingMethod enumMappingMethod = 
+> builder

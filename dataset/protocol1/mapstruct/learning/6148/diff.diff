@@ -1,0 +1,5 @@
+30,31c30
+<             result = defaultValue;
+<         }
+---
+>             result = defaultValue;        }

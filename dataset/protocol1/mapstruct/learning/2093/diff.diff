@@ -1,0 +1,4 @@
+78c78
+<             if ( accessorNaming.isAdderMethod( method ) ) {
+---
+>             if ( accessorNaming.isAdderMethod( method 	) ) {

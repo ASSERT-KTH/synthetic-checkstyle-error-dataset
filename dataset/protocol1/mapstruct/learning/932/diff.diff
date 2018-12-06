@@ -1,0 +1,4 @@
+167c167
+<                 Collection<ExecutableElement> buildMethods = findBuildMethods( builderElement, typeElement );
+---
+>                 Collection<ExecutableElement> buildMethods = findBuildMethods( builderElement, typeElement 	);

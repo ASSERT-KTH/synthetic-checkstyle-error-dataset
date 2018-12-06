@@ -1,0 +1,5 @@
+47,48c47
+<  * <em>Important:</em> the order of methods declared within one type can not be guaranteed, as it depends on the
+<  * compiler and the processing environment implementation.
+---
+>  * <em>Important:</em> the order of methods declared within one type can not be guaranteed, as it depends on the * compiler and the processing environment implementation.

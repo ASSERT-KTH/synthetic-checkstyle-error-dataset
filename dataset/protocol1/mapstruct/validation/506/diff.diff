@@ -1,0 +1,5 @@
+44c44,45
+<         return Collections.singleton( type );
+---
+>         return Collections.singleton( type )
+> ;

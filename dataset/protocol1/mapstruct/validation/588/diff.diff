@@ -1,0 +1,5 @@
+75,76c75
+<         List<SourceMethod> methodsProvidedByParams = contextProvidedMethods
+<             .getAllProvidedMethodsInParameterOrder( method.getContextParameters() );
+---
+>         List<SourceMethod> methodsProvidedByParams = contextProvidedMethods            .getAllProvidedMethodsInParameterOrder( method.getContextParameters() );

@@ -1,0 +1,5 @@
+44,45c44
+<      * The name of the mapping method to inherit the mappings from. Needs only to be specified in case more than one
+<      * method with matching source and target type exists.
+---
+>      * The name of the mapping method to inherit the mappings from. Needs only to be specified in case more than one     * method with matching source and target type exists.

@@ -1,0 +1,5 @@
+140,141c140
+<      *
+<      * @return a variable name based on the given original name, not conflicting with any of the given other names or
+---
+>      *     * @return a variable name based on the given original name, not conflicting with any of the given other names or

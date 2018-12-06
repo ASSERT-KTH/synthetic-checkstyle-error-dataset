@@ -1,0 +1,4 @@
+299c299
+<             mappedPropertyNames.add( targetMappingName.split( "\\." )[0] );
+---
+>             mappedPropertyNames.add( targetMappingName.split( "\\." )[0	] );

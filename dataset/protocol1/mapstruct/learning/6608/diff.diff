@@ -1,0 +1,4 @@
+268c268
+<     protected abstract boolean requiresGenerationOfDecoratorClass();
+---
+>     protected abstract boolean requiresGenerationOfDecoratorClass ();

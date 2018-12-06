@@ -1,0 +1,4 @@
+12c12
+< package org.mapstruct.ap.internal.processor;
+---
+> package org.mapstruct	.ap.internal.processor;

@@ -1,0 +1,4 @@
+44c44
+<         return sourceTypeNumberSubclass && conversionContext.getNumberFormat() != null;
+---
+>         return sourceTypeNumberSubclass && conversionContext. getNumberFormat() != null;

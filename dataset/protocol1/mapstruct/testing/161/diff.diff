@@ -1,0 +1,5 @@
+70c70,71
+<         new ReplaceRule( "(us|ss)$", "$1" ),
+---
+>         
+> new ReplaceRule( "(us|ss)$", "$1" ),

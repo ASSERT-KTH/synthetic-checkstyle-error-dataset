@@ -1,0 +1,5 @@
+13c13,14
+< import org.mapstruct.ap.internal.util.Message;
+---
+> import 
+> org.mapstruct.ap.internal.util.Message;

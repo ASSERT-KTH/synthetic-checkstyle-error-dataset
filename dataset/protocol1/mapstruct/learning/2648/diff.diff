@@ -1,0 +1,4 @@
+229c229
+<                         distances[i - 1][j] + 1,
+---
+>                         distances	[i - 1][j] + 1,

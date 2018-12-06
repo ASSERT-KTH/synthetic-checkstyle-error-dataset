@@ -1,0 +1,5 @@
+13c13,14
+< package org.mapstruct.ap.internal.conversion;
+---
+> package org.mapstruct.ap.internal.conversion
+> ;

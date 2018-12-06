@@ -1,0 +1,4 @@
+88c88
+<             return DEFAULT_METHOD != null && Boolean.TRUE.equals( DEFAULT_METHOD.invoke( method ) );
+---
+>             return DEFAULT_METHOD != 	null && Boolean.TRUE.equals( DEFAULT_METHOD.invoke( method ) );

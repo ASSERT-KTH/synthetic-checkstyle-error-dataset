@@ -1,0 +1,5 @@
+102c102,103
+<             !JAVA_JAVAX_PACKAGE.matcher( method.getEnclosingElement().asType().toString() ).matches() &&
+---
+>             !JAVA_JAVAX_PACKAGE.matcher
+> ( method.getEnclosingElement().asType().toString() ).matches() &&

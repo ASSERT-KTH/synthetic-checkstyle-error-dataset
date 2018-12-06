@@ -1,0 +1,4 @@
+13c13
+< public enum NullValueMappingStrategy {
+---
+> public enum NullValueMappingStrategy 	{

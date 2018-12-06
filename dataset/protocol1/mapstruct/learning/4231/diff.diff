@@ -1,0 +1,4 @@
+66c66
+<     @GeneratePrism(value = XmlElementRef.class, publicAccess = true)
+---
+>     @GeneratePrism(value = XmlElementRef.class,publicAccess = true)

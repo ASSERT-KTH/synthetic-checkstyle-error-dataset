@@ -1,0 +1,5 @@
+20c20,21
+<     private final SupportingMappingMethod definingMethod;
+---
+>     private final SupportingMappingMethod definingMethod
+> ;

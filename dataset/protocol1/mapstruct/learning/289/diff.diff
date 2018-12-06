@@ -1,0 +1,4 @@
+68c68
+<         registerNativeTypeConversion( Byte.class, Float.class );
+---
+>         registerNativeTypeConversion( Byte.class, Float.class ) ;

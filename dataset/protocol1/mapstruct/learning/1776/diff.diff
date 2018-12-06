@@ -1,0 +1,5 @@
+73,74c73
+<             builderQualifiedName.append( ( (TypeElement) enclosingElement ).getQualifiedName().toString() );
+<         }
+---
+>             builderQualifiedName.append( ( (TypeElement) enclosingElement ).getQualifiedName().toString() );        }

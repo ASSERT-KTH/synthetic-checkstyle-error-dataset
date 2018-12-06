@@ -1,0 +1,4 @@
+30c30
+<         this.dataTypeFactoryType = typeFactory.getType( DatatypeFactory.class );
+---
+>         this.dataTypeFactoryType = typeFactory.getType( DatatypeFactory.class);

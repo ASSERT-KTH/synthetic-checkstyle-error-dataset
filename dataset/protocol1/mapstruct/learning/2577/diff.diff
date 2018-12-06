@@ -1,0 +1,5 @@
+57c57,58
+<     private PropertyMapping.TargetWriteAccessorType targetAccessorType;
+---
+>     private PropertyMapping.TargetWriteAccessorType 
+> targetAccessorType;

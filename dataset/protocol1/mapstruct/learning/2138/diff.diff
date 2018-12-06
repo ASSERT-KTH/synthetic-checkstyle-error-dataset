@@ -1,0 +1,5 @@
+36c36,37
+<     MethodType getMethodType(ExecutableElement method);
+---
+>     MethodType 
+> getMethodType(ExecutableElement method);

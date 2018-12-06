@@ -1,0 +1,5 @@
+18,19c18
+<  * Abstract base class for {@link PrimitiveToStringConversion}, {@link WrapperToStringConversion},
+<  * {@link BigDecimalToStringConversion} and {@link BigIntegerToStringConversion}
+---
+>  * Abstract base class for {@link PrimitiveToStringConversion}, {@link WrapperToStringConversion}, * {@link BigDecimalToStringConversion} and {@link BigIntegerToStringConversion}

@@ -1,0 +1,5 @@
+88c88,89
+<         for ( Node descendant : node.getDescendants() ) {
+---
+>         for 
+> ( Node descendant : node.getDescendants() ) {

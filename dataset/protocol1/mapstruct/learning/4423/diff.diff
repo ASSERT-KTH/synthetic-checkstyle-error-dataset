@@ -1,0 +1,4 @@
+19c19
+<     private final Type sourceType;
+---
+>     private final Type sourceType ;

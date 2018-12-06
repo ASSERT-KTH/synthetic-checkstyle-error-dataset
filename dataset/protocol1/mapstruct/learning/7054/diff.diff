@@ -1,0 +1,4 @@
+16c16
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.locale;
+---
+> import static org.mapstruct	.ap.internal.conversion.ConversionUtils.locale;

@@ -1,0 +1,4 @@
+13c13
+< import org.mapstruct.BeforeMapping;
+---
+> 	import org.mapstruct.BeforeMapping;

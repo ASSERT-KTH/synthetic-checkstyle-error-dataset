@@ -1,0 +1,4 @@
+6c6
+< package org.mapstruct.ap.internal.util.workarounds;
+---
+> package org.mapstruct	.ap.internal.util.workarounds;

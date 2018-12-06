@@ -1,0 +1,4 @@
+52c52
+<     @GeneratePrism(value = InheritConfiguration.class, publicAccess = true),
+---
+>     @GeneratePrism(value= InheritConfiguration.class, publicAccess = true),

@@ -1,0 +1,5 @@
+143c143,144
+<             MethodBinding matching = findMatchingMethodBinding( baseMethod, typeBinding.methods() );
+---
+>             
+> MethodBinding matching = findMatchingMethodBinding( baseMethod, typeBinding.methods() );

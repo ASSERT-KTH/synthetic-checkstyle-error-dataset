@@ -1,0 +1,4 @@
+54c54
+<         return list.get( list.size() - 1 );
+---
+>         return 	list.get( list.size() - 1 );

@@ -1,0 +1,5 @@
+47,48c47
+<         private final List<ValueMapping> trueValueMappings = new ArrayList<>();
+<         private ValueMapping defaultTargetValue = null;
+---
+>         private final List<ValueMapping> trueValueMappings = new ArrayList<>();        private ValueMapping defaultTargetValue = null;

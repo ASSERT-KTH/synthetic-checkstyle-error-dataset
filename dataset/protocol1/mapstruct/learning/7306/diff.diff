@@ -1,0 +1,4 @@
+167c167
+<     public static String getFlatName(TypeElement element) {
+---
+>     public static String getFlatName (TypeElement element) {

@@ -1,0 +1,4 @@
+506c506
+<         if ( mappingAnnotation != null ) {
+---
+>         if ( mappingAnnotation != 	null ) {

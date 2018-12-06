@@ -1,0 +1,5 @@
+58c58,59
+<         if ( asMemberOf == null ) {
+---
+>         if ( asMemberOf 
+> == null ) {

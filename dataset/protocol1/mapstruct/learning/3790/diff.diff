@@ -1,0 +1,5 @@
+227c227,228
+<     public boolean isStatic() {
+---
+>     public boolean 
+> isStatic() {

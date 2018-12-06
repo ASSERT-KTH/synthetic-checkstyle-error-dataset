@@ -1,0 +1,5 @@
+35,36c35
+<             builtInMethods.add( new ZonedDateTimeToXmlGregorianCalendar( typeFactory ) );
+<         }
+---
+>             builtInMethods.add( new ZonedDateTimeToXmlGregorianCalendar( typeFactory ) );        }

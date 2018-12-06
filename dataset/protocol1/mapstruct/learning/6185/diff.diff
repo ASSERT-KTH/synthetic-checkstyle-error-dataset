@@ -1,0 +1,4 @@
+16c16
+< public enum NullValueCheckStrategy {
+---
+> public enum NullValueCheckStrategy 	{

@@ -1,0 +1,4 @@
+29c29
+<         Set<Type> imported = new HashSet<>( getAssignment().getImportTypes() );
+---
+>         Set<Type> imported 	= new HashSet<>( getAssignment().getImportTypes() );

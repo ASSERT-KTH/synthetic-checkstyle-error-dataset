@@ -1,0 +1,5 @@
+349c349,350
+<         if ( isIterableMapping == null ) {
+---
+>         if ( isIterableMapping 
+> == null ) {

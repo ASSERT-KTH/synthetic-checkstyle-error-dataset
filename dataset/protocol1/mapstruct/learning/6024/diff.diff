@@ -1,0 +1,4 @@
+31c31
+<                               List<Type> thrownTypesToExclude,
+---
+>                               List<	Type> thrownTypesToExclude,

@@ -1,0 +1,5 @@
+54,55c54
+<      * if this is lazily evaluated it won't be a problem, as in the SPI implementation module there won't be any
+<      * processing done.
+---
+>      * if this is lazily evaluated it won't be a problem, as in the SPI implementation module there won't be any     * processing done.

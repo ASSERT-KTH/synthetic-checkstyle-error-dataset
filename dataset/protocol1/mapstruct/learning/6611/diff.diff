@@ -1,0 +1,4 @@
+96c96
+<             return first( sourceParameterType.determineTypeArguments( Iterable.class ) ).getTypeBound();
+---
+>             	return first( sourceParameterType.determineTypeArguments( Iterable.class ) ).getTypeBound();

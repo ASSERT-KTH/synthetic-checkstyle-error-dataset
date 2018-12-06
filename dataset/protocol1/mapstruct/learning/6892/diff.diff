@@ -1,0 +1,4 @@
+138c138
+<             if ( PTRN_FAULTY_UNDERSCORE_FLOAT.matcher( val ).find()
+---
+>             if ( PTRN_FAULTY_UNDERSCORE_FLOAT.matcher( val).find()

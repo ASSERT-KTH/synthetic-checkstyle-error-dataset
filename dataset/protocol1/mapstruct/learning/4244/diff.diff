@@ -1,0 +1,5 @@
+381c381,382
+<         final Writer writer;
+---
+>         final Writer 
+> writer;

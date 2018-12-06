@@ -1,0 +1,5 @@
+47,48c47
+<             StringBuilder sb = new StringBuilder();
+<             sb.append( "(" + bigDecimal( conversionContext ) + ") " );
+---
+>             StringBuilder sb = new StringBuilder();            sb.append( "(" + bigDecimal( conversionContext ) + ") " );

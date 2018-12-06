@@ -1,0 +1,5 @@
+120,121c120
+<             for ( String descendant : descendants ) {
+<                 node.addDescendant( getNode( descendant ) );
+---
+>             for ( String descendant : descendants ) {                node.addDescendant( getNode( descendant ) );

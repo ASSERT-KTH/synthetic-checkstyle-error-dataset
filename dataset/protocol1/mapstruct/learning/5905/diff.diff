@@ -1,0 +1,5 @@
+27c27,28
+<     private int nextTraversalSequence = 0;
+---
+>     
+> private int nextTraversalSequence = 0;

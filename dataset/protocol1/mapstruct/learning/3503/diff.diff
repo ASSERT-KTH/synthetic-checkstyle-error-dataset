@@ -1,0 +1,4 @@
+45c45
+<             this.targetVariableName = Strings.getSafeVariableName( "target", existingVariableNames );
+---
+>             this. targetVariableName = Strings.getSafeVariableName( "target", existingVariableNames );

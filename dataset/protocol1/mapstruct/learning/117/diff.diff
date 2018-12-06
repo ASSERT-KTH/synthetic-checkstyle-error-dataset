@@ -1,0 +1,5 @@
+192c192,193
+<             List<LifecycleCallbackMethodReference> beforeMappingMethods =
+---
+>             List<LifecycleCallbackMethodReference> beforeMappingMethods 
+> =

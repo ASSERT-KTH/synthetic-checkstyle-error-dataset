@@ -1,0 +1,4 @@
+62c62
+<     @GeneratePrism(value = Builder.class, publicAccess = true),
+---
+>     @GeneratePrism(value 	= Builder.class, publicAccess = true),

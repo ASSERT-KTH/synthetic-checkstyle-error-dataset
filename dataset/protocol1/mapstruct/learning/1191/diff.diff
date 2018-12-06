@@ -1,0 +1,5 @@
+79c79,80
+<         if ( t.getKind() == TypeKind.VOID || t.getKind() == TypeKind.NULL ) {
+---
+>         
+> if ( t.getKind() == TypeKind.VOID || t.getKind() == TypeKind.NULL ) {

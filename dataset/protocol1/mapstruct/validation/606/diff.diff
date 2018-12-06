@@ -1,0 +1,5 @@
+36c36,37
+<                 methodToProvidingParameter.put( method, entry.getKey() );
+---
+>                 methodToProvidingParameter.put( method, 
+> entry.getKey() );

@@ -1,0 +1,5 @@
+42,43c42
+<     ContainerMappingMethodBuilder(Class<B> selfType, String errorMessagePart) {
+<         super( selfType );
+---
+>     ContainerMappingMethodBuilder(Class<B> selfType, String errorMessagePart) {        super( selfType );

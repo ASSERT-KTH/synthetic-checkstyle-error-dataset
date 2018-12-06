@@ -1,0 +1,5 @@
+38,39c38
+<         this.templateName = getTemplateNameForClass( method.getClass() );
+<         if ( method.getFieldReference() != null ) {
+---
+>         this.templateName = getTemplateNameForClass( method.getClass() );        if ( method.getFieldReference() != null ) {

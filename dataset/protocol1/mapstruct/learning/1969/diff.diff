@@ -1,0 +1,4 @@
+130c130
+<     private static MethodBinding findMatchingMethodBinding(MethodBinding baseMethod, MethodBinding[] methods) {
+---
+>     private static MethodBinding findMatchingMethodBinding(	MethodBinding baseMethod, MethodBinding[] methods) {

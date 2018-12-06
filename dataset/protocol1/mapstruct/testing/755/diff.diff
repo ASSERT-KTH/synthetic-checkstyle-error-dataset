@@ -1,0 +1,4 @@
+25c25
+< public abstract class AbstractJodaTypeToStringConversion extends SimpleConversion {
+---
+> public abstract class AbstractJodaTypeToStringConversion extends 	SimpleConversion {

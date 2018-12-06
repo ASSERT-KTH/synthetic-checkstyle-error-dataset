@@ -1,0 +1,5 @@
+40,41c40
+<  * <li>Methods implemented in the mapper itself.</li>
+<  * <li>Methods from types referenced in {@link Mapper#uses()}, in the order of the type declaration in the annotation.
+---
+>  * <li>Methods implemented in the mapper itself.</li> * <li>Methods from types referenced in {@link Mapper#uses()}, in the order of the type declaration in the annotation.

@@ -1,0 +1,4 @@
+176c176
+<         if ( QualifierPrism.getInstanceOn( candidate.getAnnotationType().asElement() ) != null ) {
+---
+>         if ( QualifierPrism.getInstanceOn( candidate.getAnnotationType ().asElement() ) != null ) {

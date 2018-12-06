@@ -1,0 +1,4 @@
+19c19
+< public class ArrayCopyWrapper extends AssignmentWrapper {
+---
+> public class ArrayCopyWrapper extends AssignmentWrapper 	{

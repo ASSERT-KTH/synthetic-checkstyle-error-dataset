@@ -1,0 +1,4 @@
+53c53
+<     public Type getType() {
+---
+>     public 	Type getType() {

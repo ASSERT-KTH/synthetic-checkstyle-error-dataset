@@ -1,0 +1,4 @@
+96c96
+<                 LifecycleMethodResolver.afterMappingMethods( method, selectionParameters, ctx, existingVariables );
+---
+>                 LifecycleMethodResolver.afterMappingMethods(method, selectionParameters, ctx, existingVariables );

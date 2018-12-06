@@ -1,0 +1,5 @@
+30c30,31
+<             builtInMethods.add( new XmlGregorianCalendarToDate( typeFactory ) );
+---
+>             builtInMethods.add( new 
+> XmlGregorianCalendarToDate( typeFactory ) );

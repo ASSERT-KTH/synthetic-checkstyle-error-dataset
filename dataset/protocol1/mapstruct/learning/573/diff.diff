@@ -1,0 +1,5 @@
+33,34c33
+<     <T extends Method> List<SelectedMethod<T>> getMatchingMethods(Method mappingMethod,
+<                                                                    List<SelectedMethod<T>> candidates,
+---
+>     <T extends Method> List<SelectedMethod<T>> getMatchingMethods(Method mappingMethod,                                                                   List<SelectedMethod<T>> candidates,

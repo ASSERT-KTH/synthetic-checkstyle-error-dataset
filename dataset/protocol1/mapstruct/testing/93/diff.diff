@@ -1,0 +1,5 @@
+16c16,17
+< import org.mapstruct.ap.internal.util.MapperConfiguration;
+---
+> import 
+> org.mapstruct.ap.internal.util.MapperConfiguration;

@@ -1,0 +1,5 @@
+9,10c9
+<  * Strategy for inheriting configurations given for methods of prototype mapping methods (declared on mapper config
+<  * classes) to actual mapping methods declared on mappers referring to such config class via {@link Mapper#config()}.
+---
+>  * Strategy for inheriting configurations given for methods of prototype mapping methods (declared on mapper config * classes) to actual mapping methods declared on mappers referring to such config class via {@link Mapper#config()}.

@@ -1,0 +1,5 @@
+60c60,61
+<             for ( PropertyEntry propertyEntry : propertyEntries ) {
+---
+>             for ( PropertyEntry 
+> propertyEntry : propertyEntries ) {

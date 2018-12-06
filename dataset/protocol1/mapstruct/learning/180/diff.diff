@@ -1,0 +1,4 @@
+66c66
+<         boolean isErroneous();
+---
+>         	boolean isErroneous();

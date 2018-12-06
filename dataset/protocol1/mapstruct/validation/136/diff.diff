@@ -1,0 +1,5 @@
+64c64,65
+<         if ( isMapNullToDefault() && ( targetType.getImplementationType() != null ) ) {
+---
+>         if ( isMapNullToDefault() && ( targetType.getImplementationType() != null ) 
+> ) {

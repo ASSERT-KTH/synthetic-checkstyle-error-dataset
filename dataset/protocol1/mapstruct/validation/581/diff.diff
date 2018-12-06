@@ -1,0 +1,5 @@
+78c78,79
+<         boolean returnTypeIsBoolean = method.getReturnType().getKind() == TypeKind.BOOLEAN ||
+---
+>         boolean returnTypeIsBoolean 
+> = method.getReturnType().getKind() == TypeKind.BOOLEAN ||

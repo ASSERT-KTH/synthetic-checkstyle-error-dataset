@@ -1,0 +1,4 @@
+26c26
+<     public ServicesEntry(String packageName, String name, String implementationPackage, String implementationName) {
+---
+>     	public ServicesEntry(String packageName, String name, String implementationPackage, String implementationName) {

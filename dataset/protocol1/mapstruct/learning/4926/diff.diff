@@ -1,0 +1,4 @@
+60c60
+<             if ( existingField.getType().equals( ref.getType() ) ) {
+---
+>             if ( existingField	.getType().equals( ref.getType() ) ) {

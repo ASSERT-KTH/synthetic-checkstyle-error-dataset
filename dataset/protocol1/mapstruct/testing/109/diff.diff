@@ -1,0 +1,5 @@
+20,21c20
+<  * <p>
+<  * A typical use case is annotating an update method so it inherits all mappings from a corresponding "standard" mapping
+---
+>  * <p> * A typical use case is annotating an update method so it inherits all mappings from a corresponding "standard" mapping

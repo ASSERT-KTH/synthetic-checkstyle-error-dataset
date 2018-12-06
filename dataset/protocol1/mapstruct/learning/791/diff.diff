@@ -1,0 +1,5 @@
+208,209c208
+<         URL resource = DefaultVersionInformation.class.getClassLoader().getResource( classFileName );
+<         Manifest manifest = openManifest( classFileName, resource );
+---
+>         URL resource = DefaultVersionInformation.class.getClassLoader().getResource( classFileName );        Manifest manifest = openManifest( classFileName, resource );

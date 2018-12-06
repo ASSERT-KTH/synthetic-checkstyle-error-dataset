@@ -1,0 +1,4 @@
+34c34
+<     Assignment to(ConversionContext conversionContext);
+---
+>     Assignment to(	ConversionContext conversionContext);

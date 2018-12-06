@@ -1,0 +1,4 @@
+15c15
+< import static org.mapstruct.NullValueCheckStrategy.ON_IMPLICIT_CONVERSION;
+---
+> import static org.mapstruct.NullValueCheckStrategy	.ON_IMPLICIT_CONVERSION;

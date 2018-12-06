@@ -1,0 +1,4 @@
+550c550
+<         return arrayType.getComponentType();
+---
+>         return arrayType	.getComponentType();

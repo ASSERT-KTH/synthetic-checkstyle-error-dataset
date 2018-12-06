@@ -1,0 +1,5 @@
+27c27,28
+<     private static final String IMMUTABLE_FQN = "org.immutables.value.Value.Immutable";
+---
+>     private static final 
+> String IMMUTABLE_FQN = "org.immutables.value.Value.Immutable";

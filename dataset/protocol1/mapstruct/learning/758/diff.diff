@@ -1,0 +1,5 @@
+26c26,27
+<     public FormattingParameters(String date, String number, AnnotationMirror mirror,
+---
+>     public FormattingParameters(String date, String number
+> , AnnotationMirror mirror,

@@ -1,0 +1,5 @@
+163c163,164
+<         public int compare(MethodBinding first, MethodBinding second) {
+---
+>         
+> public int compare(MethodBinding first, MethodBinding second) {

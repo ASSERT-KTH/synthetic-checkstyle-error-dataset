@@ -1,0 +1,4 @@
+151c151
+<         for ( Type type : thrownTypes ) {
+---
+>         for ( Type type : thrownTypes ) 	{

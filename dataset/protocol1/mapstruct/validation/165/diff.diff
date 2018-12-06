@@ -1,0 +1,5 @@
+27,28c27
+<     private final SelectionParameters valueSelectionParameters;
+<     private final FormattingParameters keyFormattingParameters;
+---
+>     private final SelectionParameters valueSelectionParameters;    private final FormattingParameters keyFormattingParameters;

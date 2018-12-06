@@ -1,0 +1,4 @@
+36c36
+<             if ( !candidate.getMethod().getSourceParameters().isEmpty() ) {
+---
+>             if ( !candidate.getMethod().getSourceParameters().isEmpty() 	) {

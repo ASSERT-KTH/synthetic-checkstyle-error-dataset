@@ -1,0 +1,5 @@
+70c70,71
+<     private Boolean isValueMapping;
+---
+>     private Boolean isValueMapping
+> ;

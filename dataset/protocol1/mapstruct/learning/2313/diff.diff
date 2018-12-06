@@ -1,0 +1,5 @@
+121,122c121
+<     /**
+<      * A class annotated with {@link MapperConfig} which should be used as configuration template. Any settings given
+---
+>     /**     * A class annotated with {@link MapperConfig} which should be used as configuration template. Any settings given

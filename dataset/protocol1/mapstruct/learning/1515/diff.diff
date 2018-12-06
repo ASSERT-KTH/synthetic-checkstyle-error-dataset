@@ -1,0 +1,5 @@
+23c23,24
+<     private final AnnotationValue dateAnnotationValue;
+---
+>     private final 
+> AnnotationValue dateAnnotationValue;

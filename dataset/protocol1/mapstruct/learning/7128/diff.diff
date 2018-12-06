@@ -1,0 +1,4 @@
+24c24
+<     private final List<String> qualifiedByNames = new ArrayList<>();
+---
+>     private final List<String> qualifiedByNames = new ArrayList<> ();

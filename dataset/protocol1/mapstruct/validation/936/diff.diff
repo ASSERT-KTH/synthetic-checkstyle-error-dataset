@@ -1,0 +1,4 @@
+276c276
+<         return AfterMappingPrism.getInstanceOn( executableElement ) != null;
+---
+>         return AfterMappingPrism.getInstanceOn( executableElement ) != null ;

@@ -1,0 +1,4 @@
+80c80
+<             && !rhs.getSourceType().isPrimitive()
+---
+>             && !rhs.getSourceType(). isPrimitive()

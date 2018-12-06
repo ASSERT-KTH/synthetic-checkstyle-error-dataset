@@ -1,0 +1,4 @@
+436c436
+<             List<String> elements = new ArrayList<>( Arrays.asList( entryNames ).subList( 0, index ) );
+---
+>             List<String> elements = new ArrayList<>( Arrays.asList( 	entryNames ).subList( 0, index ) );

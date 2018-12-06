@@ -1,0 +1,4 @@
+120c120
+<     public static List<String> getFieldNames(Set<Field> fields) {
+---
+>     public static 	List<String> getFieldNames(Set<Field> fields) {

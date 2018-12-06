@@ -1,0 +1,4 @@
+38c38
+<         return executable != null && isPublicNotStatic( method ) &&
+---
+>         return executable != null && 	isPublicNotStatic( method ) &&

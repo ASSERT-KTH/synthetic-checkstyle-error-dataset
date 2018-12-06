@@ -1,0 +1,5 @@
+23,24c23
+<      * Checks if the provided {@code method} is for enum mapping. A Method is an Enum Mapping method when the
+<      * source parameter and result type are enum types.
+---
+>      * Checks if the provided {@code method} is for enum mapping. A Method is an Enum Mapping method when the     * source parameter and result type are enum types.

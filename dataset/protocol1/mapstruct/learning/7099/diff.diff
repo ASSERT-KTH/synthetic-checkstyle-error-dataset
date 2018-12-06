@@ -1,0 +1,4 @@
+33c33
+<         Set<T> set = new HashSet<>( collection.size() + elements.length );
+---
+>         Set<T> set = new HashSet<>( collection.size() + elements.length ) ;

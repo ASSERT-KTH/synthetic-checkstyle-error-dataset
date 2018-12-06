@@ -1,0 +1,5 @@
+80c80,81
+<                 : NullValueCheckStrategyPrism.valueOf( beanMapping.nullValueCheckStrategy() );
+---
+>                 : NullValueCheckStrategyPrism.valueOf( 
+> beanMapping.nullValueCheckStrategy() );

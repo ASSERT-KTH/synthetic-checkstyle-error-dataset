@@ -1,0 +1,4 @@
+109c109
+<                 boolean isInterface, boolean isEnumType, boolean isIterableType,
+---
+>                 boolean isInterface, boolean 	isEnumType, boolean isIterableType,

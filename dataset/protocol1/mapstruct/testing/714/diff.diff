@@ -1,0 +1,4 @@
+8c8
+< import java.lang.annotation.Documented;
+---
+> import java.lang	.annotation.Documented;

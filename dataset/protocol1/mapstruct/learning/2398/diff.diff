@@ -1,0 +1,5 @@
+95c95,96
+<         values.put( Configuration.class, configuration );
+---
+>         values.put( 
+> Configuration.class, configuration );

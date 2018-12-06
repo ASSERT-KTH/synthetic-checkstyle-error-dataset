@@ -1,0 +1,4 @@
+755c755
+<                 targetPropertyName + suffix, sourceRHS.getSourceType(), targetType, true, "property"
+---
+>                 targetPropertyName + suffix, 	sourceRHS.getSourceType(), targetType, true, "property"

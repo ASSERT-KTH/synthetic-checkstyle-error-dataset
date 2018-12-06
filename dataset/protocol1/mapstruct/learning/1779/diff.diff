@@ -1,0 +1,4 @@
+73c73
+<     ReportingPolicy typeConversionPolicy() default ReportingPolicy.IGNORE;
+---
+>     ReportingPolicy typeConversionPolicy(	) default ReportingPolicy.IGNORE;

@@ -1,0 +1,5 @@
+149c149,150
+<             currentMirror = currentElement.getSuperclass();
+---
+>             
+> currentMirror = currentElement.getSuperclass();

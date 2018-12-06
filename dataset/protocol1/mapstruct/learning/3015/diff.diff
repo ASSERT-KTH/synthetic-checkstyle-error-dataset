@@ -1,0 +1,4 @@
+146c146
+<     public Map<ForgedMethod, ForgedMethod> getForgedMethodsUnderCreation() {
+---
+>     public Map<	ForgedMethod, ForgedMethod> getForgedMethodsUnderCreation() {

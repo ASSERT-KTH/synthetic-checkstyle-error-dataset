@@ -1,0 +1,4 @@
+67c67
+<         BeanModel objectModel = (BeanModel) params.get( "object" );
+---
+>         	BeanModel objectModel = (BeanModel) params.get( "object" );

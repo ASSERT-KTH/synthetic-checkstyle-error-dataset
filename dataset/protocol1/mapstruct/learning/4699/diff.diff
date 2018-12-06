@@ -1,0 +1,5 @@
+117c117,118
+<                 TargetReference targetReference = mapping.getTargetReference();
+---
+>                 
+> TargetReference targetReference = mapping.getTargetReference();

@@ -1,0 +1,4 @@
+22c22
+< public class CdiComponentProcessor extends AnnotationBasedComponentModelProcessor {
+---
+> 	public class CdiComponentProcessor extends AnnotationBasedComponentModelProcessor {

@@ -1,0 +1,4 @@
+23c23
+<     private static final String SOURCE_REFERENCE_PATTERN = "<SOURCE>";
+---
+>     private static final String SOURCE_REFERENCE_PATTERN= "<SOURCE>";

@@ -1,0 +1,5 @@
+21,22c21
+<  * Implementations are discovered via the service loader, i.e. a JAR providing an AST-modifying processor needs to
+<  * declare its implementation in a file {@code META-INF/services/org.mapstruct.ap.spi.AstModifyingAnnotationProcessor}.
+---
+>  * Implementations are discovered via the service loader, i.e. a JAR providing an AST-modifying processor needs to * declare its implementation in a file {@code META-INF/services/org.mapstruct.ap.spi.AstModifyingAnnotationProcessor}.

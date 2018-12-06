@@ -1,0 +1,4 @@
+19c19
+< abstract class AbstractAccessor<T extends Element> implements Accessor {
+---
+> abstract class AbstractAccessor	<T extends Element> implements Accessor {

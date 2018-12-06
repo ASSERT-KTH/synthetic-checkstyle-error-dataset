@@ -1,0 +1,4 @@
+280c280
+<     protected boolean shouldIgnore(TypeElement typeElement) {
+---
+>     protected boolean shouldIgnore(	TypeElement typeElement) {

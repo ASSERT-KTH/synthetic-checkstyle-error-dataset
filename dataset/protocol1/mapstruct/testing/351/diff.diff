@@ -1,0 +1,5 @@
+15,16c15
+<  * from another mapping method (declared on the same mapper type) or prototype method (declared on a mapper config class
+<  * referenced via {@link Mapper#config()}) to the annotated method as well.
+---
+>  * from another mapping method (declared on the same mapper type) or prototype method (declared on a mapper config class * referenced via {@link Mapper#config()}) to the annotated method as well.

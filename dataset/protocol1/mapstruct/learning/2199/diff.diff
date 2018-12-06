@@ -1,0 +1,4 @@
+162c162
+<                     new ArrayList<>( bindingPermutations.size() * candidateBindings.size() );
+---
+>                     	new ArrayList<>( bindingPermutations.size() * candidateBindings.size() );

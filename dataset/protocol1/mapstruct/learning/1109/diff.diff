@@ -1,0 +1,4 @@
+196c196
+<         else if ( !mappingPrism.source().isEmpty() && mappingPrism.values.expression() != null ) {
+---
+>         else if ( 	!mappingPrism.source().isEmpty() && mappingPrism.values.expression() != null ) {

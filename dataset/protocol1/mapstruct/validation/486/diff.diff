@@ -1,0 +1,5 @@
+212c212,213
+<             typeElement = (TypeElement) declaredType.asElement();
+---
+>             typeElement = (TypeElement) declaredType.asElement()
+> ;

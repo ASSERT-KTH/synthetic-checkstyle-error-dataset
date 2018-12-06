@@ -1,0 +1,4 @@
+104c104
+<         this.mapperConfiguration = mapperConfiguration;
+---
+>         this.mapperConfiguration =mapperConfiguration;

@@ -1,0 +1,4 @@
+57c57
+<                 imported.add( typeFactory.getType( EnumSet.class ) );
+---
+>                 imported.add( typeFactory.getType( EnumSet.class 	) );

@@ -1,0 +1,4 @@
+30c30
+<         this( type, Collections.<String>emptyList() );
+---
+>         this( type, Collections.<String>emptyList());

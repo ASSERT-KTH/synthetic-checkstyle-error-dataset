@@ -1,0 +1,5 @@
+28c28,29
+<     private final AnnotationMirror mirror;
+---
+>     private final 
+> AnnotationMirror mirror;

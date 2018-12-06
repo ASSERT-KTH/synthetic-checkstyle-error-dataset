@@ -1,0 +1,4 @@
+66c66
+<            throw new IllegalStateException( "Irrelevant." );
+---
+>            throw new IllegalStateException ( "Irrelevant." );

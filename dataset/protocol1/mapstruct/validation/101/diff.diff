@@ -1,0 +1,4 @@
+176c176
+<         private SelectionParameters getSelectionParameters(Method method, Types typeUtils) {
+---
+>         private SelectionParameters getSelectionParameters(Method method, Types typeUtils) 	{

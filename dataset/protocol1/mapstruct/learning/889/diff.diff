@@ -1,0 +1,4 @@
+282c282
+<                 SourceReference reference = new SourceReference.BuilderFromProperty()
+---
+>                 SourceReference reference = new 	SourceReference.BuilderFromProperty()

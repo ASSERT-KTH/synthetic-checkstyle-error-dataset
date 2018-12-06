@@ -1,0 +1,5 @@
+169c169,170
+<         if ( methodName.startsWith( "get" ) || methodName.startsWith( "set" ) ) {
+---
+>         
+> if ( methodName.startsWith( "get" ) || methodName.startsWith( "set" ) ) {

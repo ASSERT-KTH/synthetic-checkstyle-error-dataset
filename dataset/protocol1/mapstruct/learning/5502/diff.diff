@@ -1,0 +1,5 @@
+19,20c19
+<  * <p>
+<  * Example (both methods of {@code Titles} are capable to convert a string, but the ambiguity is resolved by applying
+---
+>  * <p> * Example (both methods of {@code Titles} are capable to convert a string, but the ambiguity is resolved by applying

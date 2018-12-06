@@ -1,0 +1,4 @@
+99c99
+<         String constant = mappingPrism.values.constant() == null ? null : mappingPrism.constant();
+---
+>         	String constant = mappingPrism.values.constant() == null ? null : mappingPrism.constant();

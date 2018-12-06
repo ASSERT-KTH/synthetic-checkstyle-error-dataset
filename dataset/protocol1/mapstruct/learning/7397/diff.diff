@@ -1,0 +1,5 @@
+119c119,120
+<     public WildcardType getWildcardType(TypeMirror extendsBound, TypeMirror superBound) {
+---
+>     public WildcardType 
+> getWildcardType(TypeMirror extendsBound, TypeMirror superBound) {

@@ -1,0 +1,5 @@
+767c767,768
+<                     if ( ( (ForgedMethod) method ).getHistory() != null ) {
+---
+>                     if ( ( (ForgedMethod) method 
+> ).getHistory() != null ) {

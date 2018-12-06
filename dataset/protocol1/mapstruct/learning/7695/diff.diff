@@ -1,0 +1,4 @@
+48c48
+<         if ( sourceTypes.isEmpty() ) {
+---
+>         if ( sourceTypes.isEmpty() ){

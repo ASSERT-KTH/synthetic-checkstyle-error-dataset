@@ -1,0 +1,5 @@
+280,281c280
+<         result = prime * result + ( ( providingParameter == null ) ? 0 : providingParameter.hashCode() );
+<         return result;
+---
+>         result = prime * result + ( ( providingParameter == null ) ? 0 : providingParameter.hashCode() );        return result;

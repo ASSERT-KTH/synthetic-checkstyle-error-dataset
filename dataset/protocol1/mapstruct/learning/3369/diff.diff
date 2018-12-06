@@ -1,0 +1,5 @@
+79c79,80
+<         if ( this == obj ) {
+---
+>         if ( 
+> this == obj ) {

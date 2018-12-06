@@ -1,0 +1,4 @@
+550c550
+<         if ( sourceReference != null ) {
+---
+>         	if ( sourceReference != null ) {

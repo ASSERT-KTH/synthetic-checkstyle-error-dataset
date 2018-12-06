@@ -1,0 +1,4 @@
+65c65
+<         boolean resultTypeIsDefined = !TypeKind.VOID.equals( beanMapping.resultType().getKind() );
+---
+>         boolean resultTypeIsDefined = !TypeKind.VOID.equals( beanMapping.resultType ().getKind() );

@@ -1,0 +1,4 @@
+58c58
+<         registerNativeTypeConversion( byte.class, double.class );
+---
+>         registerNativeTypeConversion( byte.class, double.class ) ;

@@ -1,0 +1,4 @@
+43c43
+<     protected List<Annotation> getDecoratorAnnotations() {
+---
+>     protected List<Annotation> getDecoratorAnnotations(	) {

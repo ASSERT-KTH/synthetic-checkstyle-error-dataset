@@ -1,0 +1,5 @@
+128,129c128
+<     public int hashCode() {
+<         final int prime = 31;
+---
+>     public int hashCode() {        final int prime = 31;

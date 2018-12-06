@@ -1,0 +1,4 @@
+39c39
+<             return super.getToConversionImportTypes( conversionContext );
+---
+>             	return super.getToConversionImportTypes( conversionContext );

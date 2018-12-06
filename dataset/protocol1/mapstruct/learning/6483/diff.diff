@@ -1,0 +1,4 @@
+9c9
+< import org.mapstruct.ap.internal.util.NativeTypes;
+---
+> import org	.mapstruct.ap.internal.util.NativeTypes;

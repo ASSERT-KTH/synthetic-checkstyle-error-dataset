@@ -1,0 +1,5 @@
+108c108,109
+<         return equals( this.resultType, other.resultType );
+---
+>         return equals( this.resultType
+> , other.resultType );

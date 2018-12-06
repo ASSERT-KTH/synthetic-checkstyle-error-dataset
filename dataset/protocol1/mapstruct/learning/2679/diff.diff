@@ -1,0 +1,4 @@
+11c11
+< package org.mapstruct.ap.internal.processor.creation;
+---
+> package org	.mapstruct.ap.internal.processor.creation;

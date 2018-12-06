@@ -1,0 +1,4 @@
+220c220
+<                         sourceEntries.add( forSourceReference( entryName, getter.getValue(),
+---
+>                         sourceEntries.add( forSourceReference( entryName , getter.getValue(),

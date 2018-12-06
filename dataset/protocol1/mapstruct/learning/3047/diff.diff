@@ -1,0 +1,5 @@
+74,75c74
+<     public List<? extends TypeMirror> directSupertypes(TypeMirror t) {
+<         return delegate.directSupertypes( t );
+---
+>     public List<? extends TypeMirror> directSupertypes(TypeMirror t) {        return delegate.directSupertypes( t );

@@ -1,0 +1,5 @@
+138c138,139
+<             if ( mapperReference.isUsed() ) {
+---
+>             if ( mapperReference.isUsed
+> () ) {

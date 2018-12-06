@@ -1,0 +1,4 @@
+28c28
+<         this.targetType = NativeTypes.getPrimitiveType( targetType );
+---
+>         this.targetType= NativeTypes.getPrimitiveType( targetType );

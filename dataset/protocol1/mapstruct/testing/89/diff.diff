@@ -1,0 +1,4 @@
+33c33
+<         typeAnnotations.add( component() );
+---
+>         typeAnnotations.add( component() ) ;

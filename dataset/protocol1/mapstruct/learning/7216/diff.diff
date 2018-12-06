@@ -1,0 +1,4 @@
+59c59
+<         if ( currentTypeDistance == bestMatchingTypeDistance ) {
+---
+>         if ( currentTypeDistance ==bestMatchingTypeDistance ) {

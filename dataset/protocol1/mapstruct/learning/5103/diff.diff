@@ -1,0 +1,5 @@
+24c24,25
+<     private final Type returnType;
+---
+>     private final 
+> Type returnType;

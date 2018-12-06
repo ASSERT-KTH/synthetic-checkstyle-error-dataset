@@ -1,0 +1,4 @@
+47c47
+<         String componentModel = mapperConfiguration.componentModel( context.getOptions() );
+---
+>         String componentModel = 	mapperConfiguration.componentModel( context.getOptions() );

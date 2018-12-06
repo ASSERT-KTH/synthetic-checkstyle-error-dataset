@@ -1,0 +1,5 @@
+44c44,45
+<     PROPERTYMAPPING_EXPRESSION_AND_DEFAULT_EXPRESSION_BOTH_DEFINED( "Expression and default expression are both defined in @Mapping, either define an expression or a default expression." ),
+---
+>     PROPERTYMAPPING_EXPRESSION_AND_DEFAULT_EXPRESSION_BOTH_DEFINED( "Expression and default expression are both defined in @Mapping, either define an expression or a default expression." 
+> ),

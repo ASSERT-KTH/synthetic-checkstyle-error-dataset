@@ -1,0 +1,4 @@
+30c30
+<         this.arraysType = arraysType;
+---
+>         this. arraysType = arraysType;

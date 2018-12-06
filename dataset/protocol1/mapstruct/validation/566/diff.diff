@@ -1,0 +1,5 @@
+147c147,148
+<         public Builder setTypeUtils(Types typeUtils) {
+---
+>         public Builder 
+> setTypeUtils(Types typeUtils) {

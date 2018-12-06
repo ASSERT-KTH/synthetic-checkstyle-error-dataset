@@ -1,0 +1,5 @@
+153,154c153
+<     /**
+<      * The decorator type. Must be an abstract class that extends or implements the mapper type to which it is applied.
+---
+>     /**     * The decorator type. Must be an abstract class that extends or implements the mapper type to which it is applied.

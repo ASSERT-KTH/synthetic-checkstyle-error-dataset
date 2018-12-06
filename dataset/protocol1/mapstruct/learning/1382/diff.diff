@@ -1,0 +1,5 @@
+46c46,47
+<         return super.findBuilderInfo( typeElement );
+---
+>         
+> return super.findBuilderInfo( typeElement );

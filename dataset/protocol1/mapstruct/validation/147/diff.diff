@@ -1,0 +1,4 @@
+230c230
+<         for ( ListIterator<Accessor> it = alreadyCollected.listIterator(); it.hasNext(); ) {
+---
+>         for ( ListIterator<Accessor> it 	= alreadyCollected.listIterator(); it.hasNext(); ) {

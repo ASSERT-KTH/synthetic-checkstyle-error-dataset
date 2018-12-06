@@ -1,0 +1,4 @@
+38c38
+<         return Arrays.asList( new Annotation( getTypeFactory().getType( "javax.inject.Inject" ) ) );
+---
+>         return 	Arrays.asList( new Annotation( getTypeFactory().getType( "javax.inject.Inject" ) ) );

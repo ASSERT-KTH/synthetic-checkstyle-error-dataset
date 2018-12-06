@@ -1,0 +1,5 @@
+249c249,250
+<             if ( targetWriteAccessor == null && targetReadAccessor == null ) {
+---
+>             if ( targetWriteAccessor == null && targetReadAccessor == 
+> null ) {

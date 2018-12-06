@@ -1,0 +1,5 @@
+49c49,50
+<     private static final Pattern PTRN_FAULTY_HEX_UNDERSCORE_FLOAT = Pattern.compile( "_p|_P|p_|P_" );
+---
+>     private static final Pattern PTRN_FAULTY_HEX_UNDERSCORE_FLOAT = Pattern.compile( "_p|_P|p_|P_" 
+> );

@@ -1,0 +1,5 @@
+146,147c146
+<      * The default implementation uses {@link DefaultBuilderProvider#shouldIgnore(TypeElement)} to check if the
+<      * {@code typeElement} should be ignored.
+---
+>      * The default implementation uses {@link DefaultBuilderProvider#shouldIgnore(TypeElement)} to check if the     * {@code typeElement} should be ignored.

@@ -1,0 +1,5 @@
+63,64c63
+<         }
+<         SupportingConstructorFragment other = (SupportingConstructorFragment) obj;
+---
+>         }        SupportingConstructorFragment other = (SupportingConstructorFragment) obj;

@@ -1,0 +1,5 @@
+21,22c21
+<  *     If the attribute is a collection (e.g. a `List`) a copy of the collection will be set into the target
+<  *     attribute.</li>
+---
+>  *     If the attribute is a collection (e.g. a `List`) a copy of the collection will be set into the target *     attribute.</li>

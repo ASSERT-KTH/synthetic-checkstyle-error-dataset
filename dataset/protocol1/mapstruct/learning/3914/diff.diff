@@ -1,0 +1,5 @@
+932c932,933
+<             String enumExpression = constantExpression.substring( 1, constantExpression.length() - 1 );
+---
+>             String enumExpression = 
+> constantExpression.substring( 1, constantExpression.length() - 1 );

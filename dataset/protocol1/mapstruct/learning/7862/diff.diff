@@ -1,0 +1,4 @@
+25c25
+<     R apply(T t);
+---
+>     R 	apply(T t);

@@ -1,0 +1,5 @@
+15c15,16
+<         return "ISO_LOCAL_TIME";
+---
+>         return "ISO_LOCAL_TIME"
+> ;

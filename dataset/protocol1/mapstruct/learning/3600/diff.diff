@@ -1,0 +1,4 @@
+364c364
+<         if ( propertyEntries.size() > 1 ) {
+---
+>         if ( propertyEntries.size () > 1 ) {

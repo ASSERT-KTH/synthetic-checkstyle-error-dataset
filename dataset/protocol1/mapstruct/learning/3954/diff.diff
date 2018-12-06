@@ -1,0 +1,4 @@
+234c234
+<             if ( !(s.length() == 3 && s.startsWith( "'" ) && s.endsWith( "'" )) ) {
+---
+>             if ( 	!(s.length() == 3 && s.startsWith( "'" ) && s.endsWith( "'" )) ) {

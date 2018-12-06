@@ -1,0 +1,5 @@
+41,42c41
+<             return MethodReference.forMethodCall( first( buildMethods ).getSimpleName().toString() );
+<         }
+---
+>             return MethodReference.forMethodCall( first( buildMethods ).getSimpleName().toString() );        }

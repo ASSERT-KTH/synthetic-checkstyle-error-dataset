@@ -1,0 +1,5 @@
+41,42c41
+<         return new TypeConversion( asSet( conversionContext.getTypeFactory().getType( SimpleDateFormat.class ) ),
+<             asList( conversionContext.getTypeFactory().getType( ParseException.class ) ),
+---
+>         return new TypeConversion( asSet( conversionContext.getTypeFactory().getType( SimpleDateFormat.class ) ),            asList( conversionContext.getTypeFactory().getType( ParseException.class ) ),

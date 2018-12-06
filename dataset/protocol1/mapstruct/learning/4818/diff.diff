@@ -1,0 +1,5 @@
+402c402,403
+<         if ( returnType.getTypeMirror().getKind() != TypeKind.VOID &&
+---
+>         if ( 
+> returnType.getTypeMirror().getKind() != TypeKind.VOID &&

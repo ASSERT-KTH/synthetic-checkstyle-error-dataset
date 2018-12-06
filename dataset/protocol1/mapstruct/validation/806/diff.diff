@@ -1,0 +1,4 @@
+133c133
+<             for ( ValueMapping valueMapping : trueValueMappings ) {
+---
+>             for ( ValueMapping valueMapping : 	trueValueMappings ) {

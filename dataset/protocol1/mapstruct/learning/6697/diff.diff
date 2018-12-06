@@ -1,0 +1,5 @@
+14,15c14
+<     protected String defaultFormatterSuffix() {
+<         return "ISO_LOCAL_TIME";
+---
+>     protected String defaultFormatterSuffix() {        return "ISO_LOCAL_TIME";

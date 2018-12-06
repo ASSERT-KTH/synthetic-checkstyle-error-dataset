@@ -1,0 +1,5 @@
+33c33,34
+<     public boolean doTypeVarsMatch(Type sourceType, Type targetType) {
+---
+>     public boolean doTypeVarsMatch
+> (Type sourceType, Type targetType) {

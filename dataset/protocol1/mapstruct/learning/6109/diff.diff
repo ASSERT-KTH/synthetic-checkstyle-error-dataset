@@ -1,0 +1,5 @@
+149c149,150
+<         public SafePropertyEntry(PropertyEntry entry, String safeName) {
+---
+>         public 
+> SafePropertyEntry(PropertyEntry entry, String safeName) {

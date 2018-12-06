@@ -1,0 +1,5 @@
+54,55c54
+<             conversionContext.getTypeFactory().getType( LocalDateTime.class ),
+<             conversionContext.getTypeFactory().getType( ZoneOffset.class )
+---
+>             conversionContext.getTypeFactory().getType( LocalDateTime.class ),            conversionContext.getTypeFactory().getType( ZoneOffset.class )

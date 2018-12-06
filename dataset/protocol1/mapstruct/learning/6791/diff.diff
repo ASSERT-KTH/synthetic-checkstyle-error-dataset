@@ -1,0 +1,4 @@
+49c49
+<         if ( requiresDecimalFormat( conversionContext ) ) {
+---
+>         if ( requiresDecimalFormat( conversionContext ) 	) {

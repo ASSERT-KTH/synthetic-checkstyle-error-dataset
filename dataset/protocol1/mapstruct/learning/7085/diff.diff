@@ -1,0 +1,5 @@
+48c48,49
+<         for ( Node node : nodes.values() ) {
+---
+>         for ( Node node : nodes.values
+> () ) {

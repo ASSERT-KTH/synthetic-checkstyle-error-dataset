@@ -1,0 +1,5 @@
+28,29c28
+<     private final Map<Parameter, List<SourceMethod>> parameterToProvidedMethods;
+<     private final Map<SourceMethod, Parameter> methodToProvidingParameter;
+---
+>     private final Map<Parameter, List<SourceMethod>> parameterToProvidedMethods;    private final Map<SourceMethod, Parameter> methodToProvidingParameter;

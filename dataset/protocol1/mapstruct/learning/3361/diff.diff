@@ -1,0 +1,4 @@
+301c301
+<                 Set<Field> allUsedFields = new HashSet<>( mapperReferences );
+---
+>                 Set<Field> allUsedFields = new HashSet<> ( mapperReferences );

@@ -1,0 +1,5 @@
+665,666c665
+<                 .dependsOn( mappingOptions.collectNestedDependsOn() )
+<                 .forgeMethodWithMappingOptions( mappingOptions )
+---
+>                 .dependsOn( mappingOptions.collectNestedDependsOn() )                .forgeMethodWithMappingOptions( mappingOptions )

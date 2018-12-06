@@ -1,0 +1,4 @@
+24c24
+<         return element.getReturnType();
+---
+>         return element.getReturnType() ;

@@ -1,0 +1,4 @@
+112c112
+<             dottedName = dottedName.substring( 0, dottedName.length() - 2 );
+---
+>             dottedName = dottedName.substring( 0, dottedName	.length() - 2 );

@@ -1,0 +1,4 @@
+32c32
+<     public Void process(ProcessorContext context, TypeElement mapperTypeElement, Mapper mapper) {
+---
+>     public Void process(ProcessorContext context, TypeElement mapperTypeElement, Mapper 	mapper) {

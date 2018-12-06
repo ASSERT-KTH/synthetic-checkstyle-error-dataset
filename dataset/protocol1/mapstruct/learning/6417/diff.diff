@@ -1,0 +1,4 @@
+103c103
+<             sb.append( extractor == null ? object : extractor.apply( object ) );
+---
+>             sb. append( extractor == null ? object : extractor.apply( object ) );

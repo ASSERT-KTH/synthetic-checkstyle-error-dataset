@@ -1,0 +1,5 @@
+208c208,209
+<             Type newType = type;
+---
+>             Type 
+> newType = type;

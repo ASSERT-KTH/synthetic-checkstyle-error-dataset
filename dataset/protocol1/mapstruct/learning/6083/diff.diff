@@ -1,0 +1,5 @@
+11,12c11
+<  * Accesor naming strategy for Immutables.
+<  * The generated Immutables also have a from that works as a copy. Our default strategy considers this method
+---
+>  * Accesor naming strategy for Immutables. * The generated Immutables also have a from that works as a copy. Our default strategy considers this method

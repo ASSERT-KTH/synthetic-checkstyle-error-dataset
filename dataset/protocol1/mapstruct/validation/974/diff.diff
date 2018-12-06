@@ -1,0 +1,5 @@
+50c50,51
+<             List<SourceMethod> methods = parameterToProvidedMethods.get( parameter );
+---
+>             List<SourceMethod> methods = parameterToProvidedMethods.get( 
+> parameter );

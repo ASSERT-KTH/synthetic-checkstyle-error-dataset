@@ -1,0 +1,5 @@
+477c477,478
+<         private Assignment assignToPlainViaAdder( Assignment rightHandSide) {
+---
+>         private Assignment 
+> assignToPlainViaAdder( Assignment rightHandSide) {

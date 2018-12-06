@@ -1,0 +1,4 @@
+145c145
+<             return extractBundleName( manifest );
+---
+>             return extractBundleName( manifest ) ;

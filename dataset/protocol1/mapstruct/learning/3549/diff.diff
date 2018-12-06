@@ -1,0 +1,5 @@
+297c297,298
+<             if ( other.declaringMapper != null ) {
+---
+>             if ( 
+> other.declaringMapper != null ) {

@@ -1,0 +1,5 @@
+42c42,43
+<             asList( conversionContext.getTypeFactory().getType( ParseException.class ) ),
+---
+>             asList
+> ( conversionContext.getTypeFactory().getType( ParseException.class ) ),

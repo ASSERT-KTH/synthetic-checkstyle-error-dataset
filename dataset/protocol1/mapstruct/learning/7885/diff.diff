@@ -1,0 +1,5 @@
+101c101,102
+<                 if ( !( candidate.getMethod() instanceof SourceMethod ) ) {
+---
+>                 if ( !( candidate.getMethod
+> () instanceof SourceMethod ) ) {

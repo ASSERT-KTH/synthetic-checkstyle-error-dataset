@@ -1,0 +1,5 @@
+228c228,229
+<         private Type findNextType(Type initial, Accessor targetWriteAccessor, Accessor targetReadAccessor) {
+---
+>         private Type findNextType
+> (Type initial, Accessor targetWriteAccessor, Accessor targetReadAccessor) {

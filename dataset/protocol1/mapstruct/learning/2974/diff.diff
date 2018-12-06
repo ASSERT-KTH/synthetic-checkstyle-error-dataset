@@ -1,0 +1,5 @@
+46,47c46
+<         if ( requiresDecimalFormat( conversionContext ) ) {
+<             StringBuilder sb = new StringBuilder();
+---
+>         if ( requiresDecimalFormat( conversionContext ) ) {            StringBuilder sb = new StringBuilder();

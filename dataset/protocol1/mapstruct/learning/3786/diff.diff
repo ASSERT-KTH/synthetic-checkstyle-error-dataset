@@ -1,0 +1,5 @@
+37c37,38
+<         rhs.setSourceLocalVarName( rhs.createLocalVarName( desiredName ) );
+---
+>         rhs.setSourceLocalVarName( 
+> rhs.createLocalVarName( desiredName ) );

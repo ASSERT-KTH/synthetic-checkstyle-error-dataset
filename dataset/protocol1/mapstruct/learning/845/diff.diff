@@ -1,0 +1,5 @@
+23c23,24
+<     public MapperReference(Type type, String variableName, boolean isUsed) {
+---
+>     public MapperReference(Type type
+> , String variableName, boolean isUsed) {

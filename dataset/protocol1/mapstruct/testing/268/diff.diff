@@ -1,0 +1,5 @@
+49c49,50
+<         new ReplaceRule( "(m)ovies$", "$1ovie" ),
+---
+>         new ReplaceRule( 
+> "(m)ovies$", "$1ovie" ),

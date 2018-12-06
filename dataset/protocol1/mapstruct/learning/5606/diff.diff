@@ -1,0 +1,4 @@
+22c22
+<     private final boolean applyForward;
+---
+>     private final 	boolean applyForward;

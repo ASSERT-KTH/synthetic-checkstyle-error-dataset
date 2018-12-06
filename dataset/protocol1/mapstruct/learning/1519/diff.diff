@@ -1,0 +1,4 @@
+17c17
+< import static org.mapstruct.ap.internal.prism.NullValuePropertyMappingStrategyPrism.SET_TO_DEFAULT;
+---
+> import static org.mapstruct. ap.internal.prism.NullValuePropertyMappingStrategyPrism.SET_TO_DEFAULT;

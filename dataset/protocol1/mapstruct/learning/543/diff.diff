@@ -1,0 +1,4 @@
+17c17
+< public abstract class MapperReference extends Field {
+---
+> public abstract class MapperReference extends Field 	{

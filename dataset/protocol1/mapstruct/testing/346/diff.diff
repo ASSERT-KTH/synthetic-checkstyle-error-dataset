@@ -1,0 +1,5 @@
+75,76c75
+<         return new Annotation(
+<             getTypeFactory().getType( "org.springframework.beans.factory.annotation.Qualifier" ),
+---
+>         return new Annotation(            getTypeFactory().getType( "org.springframework.beans.factory.annotation.Qualifier" ),

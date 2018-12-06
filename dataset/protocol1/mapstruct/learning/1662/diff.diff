@@ -1,0 +1,4 @@
+100c100
+<                 keyAssignment = forgeMapping( keySourceRHS, keySourceType, keyTargetType );
+---
+>                 keyAssignment = forgeMapping( keySourceRHS , keySourceType, keyTargetType );

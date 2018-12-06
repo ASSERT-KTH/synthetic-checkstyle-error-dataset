@@ -1,0 +1,5 @@
+57,58c57
+<      * The strategy to be applied when {@code null} is passed as source bean argument value to this bean mapping. If no
+<      * strategy is configured, the strategy given via {@link MapperConfig#nullValueMappingStrategy()} or
+---
+>      * The strategy to be applied when {@code null} is passed as source bean argument value to this bean mapping. If no     * strategy is configured, the strategy given via {@link MapperConfig#nullValueMappingStrategy()} or

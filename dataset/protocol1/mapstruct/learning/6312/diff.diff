@@ -1,0 +1,4 @@
+111c111
+<     String[] ignoreUnmappedSourceProperties() default {};
+---
+>     String[] ignoreUnmappedSourceProperties() 	default {};

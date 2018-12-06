@@ -1,0 +1,5 @@
+12,13c12
+<  * Precedence is arranged  in the reverse order. So {@link Mapping} will override {@link BeanMapping}, will
+<  * overide {@link Mapper}
+---
+>  * Precedence is arranged  in the reverse order. So {@link Mapping} will override {@link BeanMapping}, will * overide {@link Mapper}

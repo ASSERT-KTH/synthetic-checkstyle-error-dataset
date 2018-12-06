@@ -1,0 +1,4 @@
+43c43
+<         chars[0] = Character.toLowerCase( chars[0] );
+---
+>         chars	[0] = Character.toLowerCase( chars[0] );

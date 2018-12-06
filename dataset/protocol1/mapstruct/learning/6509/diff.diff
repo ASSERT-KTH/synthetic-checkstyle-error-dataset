@@ -1,0 +1,5 @@
+138c138,139
+<             GraphAnalyzer graphAnalyzer = new GraphAnalyzer( nodes );
+---
+>             GraphAnalyzer graphAnalyzer = 
+> new GraphAnalyzer( nodes );

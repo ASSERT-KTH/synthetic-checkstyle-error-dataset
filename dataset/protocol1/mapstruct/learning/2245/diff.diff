@@ -1,0 +1,5 @@
+77,78c77
+<         registerNativeTypeConversion( short.class, float.class );
+<         registerNativeTypeConversion( short.class, Float.class );
+---
+>         registerNativeTypeConversion( short.class, float.class );        registerNativeTypeConversion( short.class, Float.class );

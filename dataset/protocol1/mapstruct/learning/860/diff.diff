@@ -1,0 +1,4 @@
+20c20
+<     ERROR( Kind.ERROR, true, true );
+---
+>     ERROR( Kind.ERROR, true , true );

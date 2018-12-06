@@ -1,0 +1,5 @@
+374c374,375
+<         Matcher javaExpressionMatcher = JAVA_EXPRESSION.matcher( mappingPrism.expression() );
+---
+>         
+> Matcher javaExpressionMatcher = JAVA_EXPRESSION.matcher( mappingPrism.expression() );

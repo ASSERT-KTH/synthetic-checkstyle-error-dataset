@@ -1,0 +1,5 @@
+44,45c44
+<             int sourceTypeDistance = singleSourceType.distanceTo( singleSourceParam.getType() );
+<             bestMatchingSourceTypeDistance =
+---
+>             int sourceTypeDistance = singleSourceType.distanceTo( singleSourceParam.getType() );            bestMatchingSourceTypeDistance =

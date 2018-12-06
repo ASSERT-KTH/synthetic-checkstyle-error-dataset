@@ -1,0 +1,5 @@
+29,30c29
+<         if ( !criteria.isObjectFactoryRequired() || methods.size() <= 1 ) {
+<             return methods;
+---
+>         if ( !criteria.isObjectFactoryRequired() || methods.size() <= 1 ) {            return methods;

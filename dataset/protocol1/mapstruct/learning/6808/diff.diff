@@ -1,0 +1,5 @@
+40c40,41
+<                 MapperConfiguration.getInstanceOn( mapperTypeElement ).componentModel( context.getOptions() );
+---
+>                 MapperConfiguration.getInstanceOn( mapperTypeElement ).componentModel( context.getOptions() 
+> );

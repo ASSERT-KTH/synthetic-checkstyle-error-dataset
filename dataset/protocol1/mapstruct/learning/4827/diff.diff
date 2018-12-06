@@ -1,0 +1,4 @@
+116c116
+<         this.annotations = new ArrayList<>();
+---
+>         this.annotations = new ArrayList<>(	);

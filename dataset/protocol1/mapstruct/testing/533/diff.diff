@@ -1,0 +1,5 @@
+112,113c112
+<         private String apply(String input) {
+<             String result = null;
+---
+>         private String apply(String input) {            String result = null;

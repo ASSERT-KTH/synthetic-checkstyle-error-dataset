@@ -1,0 +1,5 @@
+14c14,15
+<     private static final boolean IS_JAXB_ELEMENT_PRESENT = ClassUtils.isPresent(
+---
+>     
+> private static final boolean IS_JAXB_ELEMENT_PRESENT = ClassUtils.isPresent(

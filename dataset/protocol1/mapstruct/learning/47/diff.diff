@@ -1,0 +1,4 @@
+32c32
+<         if ( name.length() == 0 || JAVA_JAVAX_PACKAGE.matcher( name ).matches() ) {
+---
+>         if ( 	name.length() == 0 || JAVA_JAVAX_PACKAGE.matcher( name ).matches() ) {

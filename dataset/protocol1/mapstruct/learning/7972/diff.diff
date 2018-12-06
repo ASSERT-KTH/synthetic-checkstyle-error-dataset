@@ -1,0 +1,4 @@
+29c29
+<     public XmlGregorianCalendarToString(TypeFactory typeFactory) {
+---
+>     public XmlGregorianCalendarToString(TypeFactory typeFactory){

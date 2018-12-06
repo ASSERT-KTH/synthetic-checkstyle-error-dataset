@@ -1,0 +1,5 @@
+67c67,68
+<             return asSet( conversionContext.getTypeFactory().getType( BigInteger.class ) );
+---
+>             return asSet( conversionContext.getTypeFactory
+> ().getType( BigInteger.class ) );

@@ -1,0 +1,5 @@
+196,197c196
+<      * only consider those methods carrying directly or indirectly (i.e. on the class-level) a {@link Named} annotation
+<      * for each of the specified qualifier names.
+---
+>      * only consider those methods carrying directly or indirectly (i.e. on the class-level) a {@link Named} annotation     * for each of the specified qualifier names.

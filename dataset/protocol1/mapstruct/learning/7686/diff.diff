@@ -1,0 +1,4 @@
+124c124
+<     public DeclaredType getDeclaredType(TypeElement typeElem, TypeMirror... typeArgs) {
+---
+>     public DeclaredType getDeclaredType (TypeElement typeElem, TypeMirror... typeArgs) {

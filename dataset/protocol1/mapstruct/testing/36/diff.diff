@@ -1,0 +1,4 @@
+97c97
+<     Class<? extends Annotation>[] valueQualifiedBy() default { };
+---
+>     Class<? extends Annotation	>[] valueQualifiedBy() default { };

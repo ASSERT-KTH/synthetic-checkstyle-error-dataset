@@ -1,0 +1,5 @@
+475c475,476
+<         tmp3.put( BigInteger.class.getName(), 50 );
+---
+>         
+> tmp3.put( BigInteger.class.getName(), 50 );

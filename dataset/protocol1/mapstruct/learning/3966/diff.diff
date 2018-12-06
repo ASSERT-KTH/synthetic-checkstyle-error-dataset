@@ -1,0 +1,4 @@
+16c16
+<     private static final boolean IS_XML_GREGORIAN_CALENDAR_PRESENT = ClassUtils.isPresent(
+---
+>     private static final boolean IS_XML_GREGORIAN_CALENDAR_PRESENT= ClassUtils.isPresent(

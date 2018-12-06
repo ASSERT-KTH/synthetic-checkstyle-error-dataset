@@ -1,0 +1,5 @@
+13c13,14
+<     public static final String JAXB_ELEMENT_FQN = "javax.xml.bind.JAXBElement";
+---
+>     public static final 
+> String JAXB_ELEMENT_FQN = "javax.xml.bind.JAXBElement";

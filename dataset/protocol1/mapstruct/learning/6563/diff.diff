@@ -1,0 +1,5 @@
+33c33,34
+<         Configuration configuration = context.get( Configuration.class );
+---
+>         Configuration 
+> configuration = context.get( Configuration.class );

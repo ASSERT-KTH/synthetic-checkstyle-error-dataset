@@ -1,0 +1,5 @@
+183,184c183
+<         String baseFileUrl = classUrlString.substring( 0, classUrlString.length() - classFileName.length() );
+<         return new URL( baseFileUrl + "META-INF/MANIFEST.MF" );
+---
+>         String baseFileUrl = classUrlString.substring( 0, classUrlString.length() - classFileName.length() );        return new URL( baseFileUrl + "META-INF/MANIFEST.MF" );

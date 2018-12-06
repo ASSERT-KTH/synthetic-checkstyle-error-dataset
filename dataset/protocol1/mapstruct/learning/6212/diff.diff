@@ -1,0 +1,5 @@
+47c47,48
+<         ElementImpl elementImpl = tryCast( element, ElementImpl.class );
+---
+>         
+> ElementImpl elementImpl = tryCast( element, ElementImpl.class );

@@ -1,0 +1,5 @@
+17,18c17
+<  * Will be used to to select the correct mapping methods when mapping a bean property type, element of an iterable type
+<  * or the key/value of a map type.
+---
+>  * Will be used to to select the correct mapping methods when mapping a bean property type, element of an iterable type * or the key/value of a map type.

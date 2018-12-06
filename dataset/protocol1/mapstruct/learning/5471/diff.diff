@@ -1,0 +1,4 @@
+40c40
+<     private Map<String, List<Mapping>> mappings;
+---
+>     private Map<String, List<	Mapping>> mappings;

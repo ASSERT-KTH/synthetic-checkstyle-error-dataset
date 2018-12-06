@@ -1,0 +1,5 @@
+15,16c15
+< import org.mapstruct.ap.internal.model.TypeConversion;
+< import org.mapstruct.ap.internal.model.common.Assignment;
+---
+> import org.mapstruct.ap.internal.model.TypeConversion;import org.mapstruct.ap.internal.model.common.Assignment;

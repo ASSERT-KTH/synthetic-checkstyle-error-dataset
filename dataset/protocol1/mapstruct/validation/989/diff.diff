@@ -1,0 +1,4 @@
+589c589
+<         return executable.getModifiers().contains( Modifier.ABSTRACT );
+---
+>         return executable.getModifiers ().contains( Modifier.ABSTRACT );

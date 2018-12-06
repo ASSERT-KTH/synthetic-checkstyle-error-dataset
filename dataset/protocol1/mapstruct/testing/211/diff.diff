@@ -1,0 +1,4 @@
+43c43
+<     public static ValueProvider of(Accessor accessor) {
+---
+>     public static ValueProvider of(	Accessor accessor) {

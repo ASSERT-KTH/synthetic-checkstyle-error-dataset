@@ -1,0 +1,5 @@
+13,14c13
+< import org.mapstruct.ap.internal.util.JodaTimeConstants;
+< import org.mapstruct.ap.internal.util.XmlConstants;
+---
+> import org.mapstruct.ap.internal.util.JodaTimeConstants;import org.mapstruct.ap.internal.util.XmlConstants;

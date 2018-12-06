@@ -1,0 +1,5 @@
+18,19c18
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.localDateTime;
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.zoneOffset;
+---
+> import static org.mapstruct.ap.internal.conversion.ConversionUtils.localDateTime;import static org.mapstruct.ap.internal.conversion.ConversionUtils.zoneOffset;

@@ -1,0 +1,5 @@
+78c78,79
+<         if ( ctx.getForgedMethodsUnderCreation().containsKey( forgedMethod ) ) {
+---
+>         if ( ctx.getForgedMethodsUnderCreation().containsKey( forgedMethod ) 
+> ) {

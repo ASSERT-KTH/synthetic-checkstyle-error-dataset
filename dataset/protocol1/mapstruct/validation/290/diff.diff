@@ -1,0 +1,4 @@
+39c39
+<     private final Type targetType;
+---
+>     private final 	Type targetType;

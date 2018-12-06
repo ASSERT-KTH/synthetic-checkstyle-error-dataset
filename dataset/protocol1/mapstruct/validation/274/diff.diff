@@ -1,0 +1,4 @@
+474c474
+<                                     primitiveType == char.class ? typeUtils.getPrimitiveType( TypeKind.CHAR ) :
+---
+>                                     primitiveType == char.class ? typeUtils	.getPrimitiveType( TypeKind.CHAR ) :

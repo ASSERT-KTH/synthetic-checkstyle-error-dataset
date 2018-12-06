@@ -1,0 +1,5 @@
+380c380,381
+<             return new GroupedTargetReferences( mappingsKeyedByProperty, singleTargetReferences, errorOccurred );
+---
+>             return new GroupedTargetReferences
+> ( mappingsKeyedByProperty, singleTargetReferences, errorOccurred );

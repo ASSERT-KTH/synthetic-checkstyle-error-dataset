@@ -1,0 +1,4 @@
+61c61
+<         new ReplaceRule( "(s|si|u)s$", "$1s" ), // '-us' and '-ss' are already singular
+---
+>         new ReplaceRule( "(s|si|u)s$","$1s" ), // '-us' and '-ss' are already singular

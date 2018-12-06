@@ -1,0 +1,4 @@
+15c15
+<     RETURN_NULL,
+---
+>     	RETURN_NULL,

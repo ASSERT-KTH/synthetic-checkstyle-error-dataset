@@ -1,0 +1,4 @@
+84c84
+<     private final TypeMirror streamType;
+---
+>     private 	final TypeMirror streamType;

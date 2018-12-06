@@ -1,0 +1,4 @@
+46c46
+<     public List<SourceMethod> getAllProvidedMethodsInParameterOrder(List<Parameter> orderedParameters) {
+---
+>     public List<	SourceMethod> getAllProvidedMethodsInParameterOrder(List<Parameter> orderedParameters) {

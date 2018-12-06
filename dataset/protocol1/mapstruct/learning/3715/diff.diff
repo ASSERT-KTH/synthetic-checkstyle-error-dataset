@@ -1,0 +1,5 @@
+239c239,240
+<             register( sourceType, targetType, new PrimitiveToWrapperConversion( sourceType, targetType ) );
+---
+>             register( sourceType, targetType
+> , new PrimitiveToWrapperConversion( sourceType, targetType ) );

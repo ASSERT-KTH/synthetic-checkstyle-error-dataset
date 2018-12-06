@@ -1,0 +1,4 @@
+11c11
+< package org.mapstruct.ap.internal.model.common;
+---
+> package org.mapstruct. ap.internal.model.common;

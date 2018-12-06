@@ -1,0 +1,4 @@
+30c30
+<         super( NativeTypes.isNumber( sourceType ) );
+---
+>         super( NativeTypes. isNumber( sourceType ) );

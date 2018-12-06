@@ -1,0 +1,4 @@
+6c6
+< package org.mapstruct.ap.internal.model.source.selector;
+---
+> package org.mapstruct.ap.internal.model. source.selector;

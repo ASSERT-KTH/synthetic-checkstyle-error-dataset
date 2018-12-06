@@ -1,0 +1,5 @@
+52,53c52
+<             else {
+<                 imported.addAll( targetType.getImportTypes() );
+---
+>             else {                imported.addAll( targetType.getImportTypes() );

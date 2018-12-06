@@ -1,0 +1,5 @@
+10,11c10
+< import org.mapstruct.ap.internal.model.common.ConversionContext;
+< import org.mapstruct.ap.internal.model.common.Type;
+---
+> import org.mapstruct.ap.internal.model.common.ConversionContext;import org.mapstruct.ap.internal.model.common.Type;

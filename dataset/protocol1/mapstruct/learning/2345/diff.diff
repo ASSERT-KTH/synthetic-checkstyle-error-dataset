@@ -1,0 +1,4 @@
+87c87
+<         for ( ParameterBinding param : getParameterBindings() ) {
+---
+>         for ( ParameterBinding 	param : getParameterBindings() ) {

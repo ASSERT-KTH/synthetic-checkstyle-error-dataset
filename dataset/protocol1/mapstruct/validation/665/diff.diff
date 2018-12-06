@@ -1,0 +1,4 @@
+41c41
+<     private final boolean overridden;
+---
+>     private final boolean 	overridden;

@@ -1,0 +1,5 @@
+12,13c12
+< import org.mapstruct.ap.internal.model.common.TypeFactory;
+< import org.mapstruct.ap.internal.util.JodaTimeConstants;
+---
+> import org.mapstruct.ap.internal.model.common.TypeFactory;import org.mapstruct.ap.internal.util.JodaTimeConstants;

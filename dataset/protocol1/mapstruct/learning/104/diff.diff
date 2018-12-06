@@ -1,0 +1,4 @@
+15c15
+< public class FinalField implements BuiltInFieldReference {
+---
+> public class 	FinalField implements BuiltInFieldReference {

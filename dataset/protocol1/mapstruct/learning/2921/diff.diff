@@ -1,0 +1,4 @@
+28c28
+<     public static final String DATE_TIME_ZONE_FQN = "org.joda.time.DateTimeZone";
+---
+>     public static final String DATE_TIME_ZONE_FQN = "org.joda.time.DateTimeZone" ;

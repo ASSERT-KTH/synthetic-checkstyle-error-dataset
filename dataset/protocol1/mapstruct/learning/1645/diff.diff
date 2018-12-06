@@ -1,0 +1,5 @@
+28,29c28
+<     public Name getSimpleName() {
+<         return element.getSimpleName();
+---
+>     public Name getSimpleName() {        return element.getSimpleName();

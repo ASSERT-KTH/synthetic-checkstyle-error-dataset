@@ -1,0 +1,4 @@
+27c27
+< public class Decorator extends GeneratedType {
+---
+> public class Decorator extends GeneratedType 	{

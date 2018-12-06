@@ -1,0 +1,5 @@
+578c578,579
+<                 for ( SourceMethod candidate : candidates ) {
+---
+>                 for ( SourceMethod candidate 
+> : candidates ) {

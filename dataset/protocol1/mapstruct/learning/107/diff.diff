@@ -1,0 +1,4 @@
+30c30
+<         return date( conversionContext ) + ".from( <SOURCE>.toInstant() )";
+---
+>         return date( conversionContext ) + ".from( <SOURCE>.toInstant() )" ;

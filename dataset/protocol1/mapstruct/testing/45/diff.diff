@@ -1,0 +1,4 @@
+30c30
+<     public static Accessibility fromModifiers(Set<Modifier> modifiers) {
+---
+>     public static Accessibility fromModifiers (Set<Modifier> modifiers) {

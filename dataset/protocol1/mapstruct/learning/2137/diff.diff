@@ -1,0 +1,5 @@
+140,141c140
+<                 availableMethods.add( methodProvidedByParams );
+<             }
+---
+>                 availableMethods.add( methodProvidedByParams );            }

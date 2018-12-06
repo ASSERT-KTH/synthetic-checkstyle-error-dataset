@@ -1,0 +1,5 @@
+44c44,45
+<             int sourceTypeDistance = singleSourceType.distanceTo( singleSourceParam.getType() );
+---
+>             int sourceTypeDistance = singleSourceType.distanceTo( singleSourceParam.getType() 
+> );

@@ -1,0 +1,5 @@
+22c22,23
+< import org.mapstruct.MapperConfig;
+---
+> import org.mapstruct.MapperConfig
+> ;

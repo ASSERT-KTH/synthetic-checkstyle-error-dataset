@@ -1,0 +1,4 @@
+30c30
+<         return name.length() != 0 && isFullyQualifiedNameExcluded( name );
+---
+>         return name.length () != 0 && isFullyQualifiedNameExcluded( name );

@@ -1,0 +1,5 @@
+100c100,101
+<     private static final class ReplaceRule {
+---
+>     private 
+> static final class ReplaceRule {

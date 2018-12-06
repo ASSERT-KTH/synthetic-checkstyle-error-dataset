@@ -1,0 +1,4 @@
+78c78
+<     private final FormattingMessager messager;
+---
+>     	private final FormattingMessager messager;

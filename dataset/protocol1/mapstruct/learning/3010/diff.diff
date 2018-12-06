@@ -1,0 +1,4 @@
+82c82
+<     private StreamMappingMethod(Method method, Collection<String> existingVariables, Assignment parameterAssignment,
+---
+>     private StreamMappingMethod(Method method , Collection<String> existingVariables, Assignment parameterAssignment,

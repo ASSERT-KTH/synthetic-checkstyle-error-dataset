@@ -1,0 +1,5 @@
+24c24,25
+< import org.mapstruct.ap.internal.prism.BeanMappingPrism;
+---
+> import org.mapstruct.ap.internal.prism.BeanMappingPrism
+> ;

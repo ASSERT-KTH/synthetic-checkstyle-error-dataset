@@ -1,0 +1,4 @@
+92c92
+<             singleMapping = new SourceMethodSingleMapping( sourceMethod );
+---
+>             singleMapping = new SourceMethodSingleMapping( 	sourceMethod );

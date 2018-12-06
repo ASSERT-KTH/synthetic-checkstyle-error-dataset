@@ -1,0 +1,4 @@
+35c35
+<         this.canUseSize = ( sourceParameter.getType().isCollectionOrMapType() ||
+---
+>         this.canUseSize 	= ( sourceParameter.getType().isCollectionOrMapType() ||

@@ -1,0 +1,4 @@
+56c56
+<             conversionContext.getTypeFactory().getType( LocalDateTime.class ),
+---
+>             conversionContext. getTypeFactory().getType( LocalDateTime.class ),

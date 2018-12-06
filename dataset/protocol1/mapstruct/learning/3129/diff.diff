@@ -1,0 +1,5 @@
+18,19c18
+<     public String getToExpression(ConversionContext conversionContext) {
+<         return "<SOURCE>.toString()";
+---
+>     public String getToExpression(ConversionContext conversionContext) {        return "<SOURCE>.toString()";

@@ -1,0 +1,5 @@
+178c178,179
+<         public boolean equals(Object o) {
+---
+>         public 
+> boolean equals(Object o) {

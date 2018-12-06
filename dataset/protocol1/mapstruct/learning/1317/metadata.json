@@ -1,0 +1,1 @@
+{"injection_operator": "insertion-newline", "line": "42", "column": "5", "message": "Method length is 151 lines (max allowed is 150).", "type": "MethodLength"}

@@ -1,0 +1,4 @@
+26c26
+<         return "new " + timestamp( conversionContext ) + "( <SOURCE>.getTime() )";
+---
+>         return "new " + timestamp( conversionContext ) +"( <SOURCE>.getTime() )";

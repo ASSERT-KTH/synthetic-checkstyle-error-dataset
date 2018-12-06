@@ -1,0 +1,4 @@
+20c20
+<     public SetterWrapperForCollectionsAndMaps(Assignment decoratedAssignment,
+---
+>     public SetterWrapperForCollectionsAndMaps (Assignment decoratedAssignment,

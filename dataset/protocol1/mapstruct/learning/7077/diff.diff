@@ -1,0 +1,4 @@
+56c56
+<         return new StringBuilder().append( conversionContext.getTargetType().createReferenceName() )
+---
+>         return new StringBuilder().append( conversionContext.getTargetType(	).createReferenceName() )

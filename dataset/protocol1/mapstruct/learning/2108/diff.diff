@@ -1,0 +1,4 @@
+48c48
+<         if ( classLoader == null ) {
+---
+>         if ( classLoader == 	null ) {

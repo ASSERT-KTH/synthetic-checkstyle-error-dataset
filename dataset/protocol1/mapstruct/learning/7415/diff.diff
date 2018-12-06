@@ -1,0 +1,4 @@
+34c34
+<     public Set<Type> getToConversionImportTypes(ConversionContext conversionContext) {
+---
+>     public 	Set<Type> getToConversionImportTypes(ConversionContext conversionContext) {

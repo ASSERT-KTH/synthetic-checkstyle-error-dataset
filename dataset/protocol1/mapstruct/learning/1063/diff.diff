@@ -1,0 +1,4 @@
+55c55
+<         throw new IllegalStateException( "Method " + this + " has no source parameter." );
+---
+>         throw new IllegalStateException( "Method " +this + " has no source parameter." );

@@ -1,0 +1,5 @@
+100,101c100
+<      * String-based form of qualifiers; When looking for a suitable mapping method to map this map mapping method's
+<      * value type, MapStruct will only consider those methods carrying directly or indirectly (i.e. on the class-level)
+---
+>      * String-based form of qualifiers; When looking for a suitable mapping method to map this map mapping method's     * value type, MapStruct will only consider those methods carrying directly or indirectly (i.e. on the class-level)

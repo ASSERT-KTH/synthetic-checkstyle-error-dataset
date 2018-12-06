@@ -1,0 +1,4 @@
+88c88
+<             decorator.addAnnotation( typeAnnotation );
+---
+>             decorator.addAnnotation ( typeAnnotation );

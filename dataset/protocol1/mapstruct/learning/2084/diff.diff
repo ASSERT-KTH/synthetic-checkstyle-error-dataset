@@ -1,0 +1,4 @@
+299c299
+<                         return isWindows() ? IN_LINE_BREAK : AFTER_LINE_BREAK;
+---
+>                         return isWindows()? IN_LINE_BREAK : AFTER_LINE_BREAK;

@@ -1,0 +1,4 @@
+33c33
+<         new ReplaceRule( "(p)eople$", "$1erson" ),
+---
+>         new 	ReplaceRule( "(p)eople$", "$1erson" ),

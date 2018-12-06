@@ -1,0 +1,4 @@
+84c84
+<         FormattingParameters valueFormatting = new FormattingParameters(
+---
+>         	FormattingParameters valueFormatting = new FormattingParameters(

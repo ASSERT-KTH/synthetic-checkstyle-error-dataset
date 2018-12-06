@@ -1,0 +1,4 @@
+100c100
+<     protected boolean isFluentSetter(ExecutableElement method) {
+---
+>     protected boolean isFluentSetter(	ExecutableElement method) {

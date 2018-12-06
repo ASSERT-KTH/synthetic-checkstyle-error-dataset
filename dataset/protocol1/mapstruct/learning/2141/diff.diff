@@ -1,0 +1,4 @@
+30c30
+<     public List<ParameterBinding> getParameterBindings() {
+---
+>     public List<ParameterBinding> getParameterBindings() 	{

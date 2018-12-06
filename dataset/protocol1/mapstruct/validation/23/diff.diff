@@ -1,0 +1,4 @@
+268c268
+<         return isBeforeMappingMethod( executableElement ) || isAfterMappingMethod( executableElement );
+---
+>         return isBeforeMappingMethod( executableElement ) || 	isAfterMappingMethod( executableElement );

@@ -1,0 +1,4 @@
+102c102
+<         collectFromInterfaces( methodBinding, typeBinding.superclass(), visitedTypes, found );
+---
+>         collectFromInterfaces( methodBinding , typeBinding.superclass(), visitedTypes, found );

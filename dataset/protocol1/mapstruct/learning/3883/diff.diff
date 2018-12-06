@@ -1,0 +1,5 @@
+28c28,29
+<         return IS_XML_GREGORIAN_CALENDAR_PRESENT;
+---
+>         return IS_XML_GREGORIAN_CALENDAR_PRESENT
+> ;

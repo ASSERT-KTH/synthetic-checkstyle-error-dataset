@@ -1,0 +1,5 @@
+869c869,870
+<         return mappingsByParameter.get( parameter.getName() );
+---
+>         return mappingsByParameter.get( parameter.getName
+> () );

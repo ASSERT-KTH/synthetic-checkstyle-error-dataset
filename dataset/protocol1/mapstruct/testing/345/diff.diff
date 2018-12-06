@@ -1,0 +1,5 @@
+19c19,20
+<     private final String value;
+---
+>     private final String 
+> value;

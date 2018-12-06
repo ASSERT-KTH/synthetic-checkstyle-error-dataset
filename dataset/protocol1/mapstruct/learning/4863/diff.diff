@@ -1,0 +1,5 @@
+31,32c31
+<     public AnnotationMapperReference(Type type, String variableName, List<Annotation> annotations, boolean isUsed,
+<                                      boolean fieldFinal, boolean includeAnnotationsOnField) {
+---
+>     public AnnotationMapperReference(Type type, String variableName, List<Annotation> annotations, boolean isUsed,                                     boolean fieldFinal, boolean includeAnnotationsOnField) {

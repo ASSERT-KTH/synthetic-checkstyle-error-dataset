@@ -1,0 +1,5 @@
+215c215,216
+<     private MapMappingMethod(Method method, Collection<String> existingVariableNames, Assignment keyAssignment,
+---
+>     private MapMappingMethod(Method method, Collection<String> 
+> existingVariableNames, Assignment keyAssignment,

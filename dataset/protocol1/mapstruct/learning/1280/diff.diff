@@ -1,0 +1,4 @@
+343c343
+<     public List<PropertyEntry> getPropertyEntries() {
+---
+>     public List	<PropertyEntry> getPropertyEntries() {

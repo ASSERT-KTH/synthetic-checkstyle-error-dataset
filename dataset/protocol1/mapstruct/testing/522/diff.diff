@@ -1,0 +1,4 @@
+13c13
+< public class JodaLocalTimeToStringConversion extends AbstractJodaTypeToStringConversion {
+---
+> public class JodaLocalTimeToStringConversion extends AbstractJodaTypeToStringConversion{

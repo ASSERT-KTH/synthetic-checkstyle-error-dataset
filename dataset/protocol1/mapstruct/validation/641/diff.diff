@@ -1,0 +1,5 @@
+26,27c26
+<  * Methods mainly used in {@link org.mapstruct.ap.internal.conversion.SimpleConversion SimpleConversion} classes, e. g.
+<  * to get the correct String representation of various types that could be used in generated sources.
+---
+>  * Methods mainly used in {@link org.mapstruct.ap.internal.conversion.SimpleConversion SimpleConversion} classes, e. g. * to get the correct String representation of various types that could be used in generated sources.

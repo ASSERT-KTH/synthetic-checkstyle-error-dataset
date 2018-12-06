@@ -1,0 +1,5 @@
+39,40c39
+<      * @param writer The writer to write this element to. Must not be closed by implementations.
+<      * @throws Exception in case of an error
+---
+>      * @param writer The writer to write this element to. Must not be closed by implementations.     * @throws Exception in case of an error

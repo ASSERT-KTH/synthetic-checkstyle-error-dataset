@@ -1,0 +1,5 @@
+19c19,20
+<         return "<SOURCE>.toString()";
+---
+>         
+> return "<SOURCE>.toString()";

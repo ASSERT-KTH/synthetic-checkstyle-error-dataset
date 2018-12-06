@@ -1,0 +1,4 @@
+186c186
+<         register( Date.class, java.sql.Date.class, new DateToSqlDateConversion() );
+---
+>         register( Date.class, java.sql.Date.class, new DateToSqlDateConversion () );

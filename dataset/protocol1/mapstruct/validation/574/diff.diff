@@ -1,0 +1,4 @@
+33c33
+<         this.usePropertyNames = usePropertyNames;
+---
+>         this.usePropertyNames= usePropertyNames;

@@ -1,0 +1,5 @@
+121c121,122
+<                 return Assignment.AssignmentType.TYPE_CONVERTED;
+---
+>                 return Assignment.AssignmentType.TYPE_CONVERTED
+> ;

@@ -1,0 +1,5 @@
+89,90c89
+<     public int getPriority() {
+<         return 1;
+---
+>     public int getPriority() {        return 1;

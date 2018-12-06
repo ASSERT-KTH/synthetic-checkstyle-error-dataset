@@ -1,0 +1,5 @@
+29,30c29
+<     protected String getTemplateName() {
+<         return getTemplateNameForClass( getClass() );
+---
+>     protected String getTemplateName() {        return getTemplateNameForClass( getClass() );

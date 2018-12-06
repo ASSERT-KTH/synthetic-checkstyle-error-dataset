@@ -1,0 +1,4 @@
+198c198
+<             if ( type != null ? !type.equals( that.type ) : that.type != null ) {
+---
+>             if ( type != null ? !type.equals( 	that.type ) : that.type != null ) {

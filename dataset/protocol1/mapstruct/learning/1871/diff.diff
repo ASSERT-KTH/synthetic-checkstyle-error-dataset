@@ -1,0 +1,4 @@
+18c18
+<     AUTO_INHERIT_REVERSE_FROM_CONFIG( true, false, true ),
+---
+>     AUTO_INHERIT_REVERSE_FROM_CONFIG( true, false, 	true ),

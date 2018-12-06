@@ -1,0 +1,4 @@
+155c155
+<         return typeReferenceName( conversionContext, SimpleDateFormat.class );
+---
+>         return typeReferenceName( conversionContext, 	SimpleDateFormat.class );

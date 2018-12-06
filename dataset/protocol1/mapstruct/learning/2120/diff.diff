@@ -1,0 +1,4 @@
+56c56
+<             List<ClassLoader> classLoaders = new ArrayList<>( 3 );
+---
+>             List<ClassLoader> classLoaders = new 	ArrayList<>( 3 );

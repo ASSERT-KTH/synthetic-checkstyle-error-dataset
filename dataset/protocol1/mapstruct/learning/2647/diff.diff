@@ -1,0 +1,5 @@
+45,46c45
+< import org.mapstruct.ap.internal.util.FormattingMessager;
+< import org.mapstruct.ap.internal.util.MapperConfiguration;
+---
+> import org.mapstruct.ap.internal.util.FormattingMessager;import org.mapstruct.ap.internal.util.MapperConfiguration;

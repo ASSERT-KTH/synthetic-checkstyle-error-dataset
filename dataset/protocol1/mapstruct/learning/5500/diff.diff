@@ -1,0 +1,4 @@
+15c15
+< public interface Writable {
+---
+> public 	interface Writable {

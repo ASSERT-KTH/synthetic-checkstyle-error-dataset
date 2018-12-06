@@ -1,0 +1,5 @@
+16c16,17
+< import org.mapstruct.ap.internal.prism.NullValueCheckStrategyPrism;
+---
+> import org.mapstruct.ap.internal.prism.NullValueCheckStrategyPrism
+> ;

@@ -1,0 +1,4 @@
+106c106
+<                 TypeMirror resultType = beanMappingPrism.resultType();
+---
+>                 	TypeMirror resultType = beanMappingPrism.resultType();

@@ -1,0 +1,5 @@
+700,701c700
+<         private final Map<Parameter, List<Mapping>> groupedBySourceParameter;
+<         private final List<Mapping> notProcessedAppliesToAll;
+---
+>         private final Map<Parameter, List<Mapping>> groupedBySourceParameter;        private final List<Mapping> notProcessedAppliesToAll;

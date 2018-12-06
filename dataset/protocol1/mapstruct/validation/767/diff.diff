@@ -1,0 +1,5 @@
+52,53c52
+<     public boolean isReadyForProcessing(TypeMirror type) {
+<         return clearedTypes.contains( type );
+---
+>     public boolean isReadyForProcessing(TypeMirror type) {        return clearedTypes.contains( type );

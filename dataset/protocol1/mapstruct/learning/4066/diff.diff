@@ -1,0 +1,5 @@
+314c314,315
+<         for ( Map.Entry<String, List<Mapping>> mappingEntry : mappings.entrySet() ) {
+---
+>         for ( Map.Entry<String
+> , List<Mapping>> mappingEntry : mappings.entrySet() ) {

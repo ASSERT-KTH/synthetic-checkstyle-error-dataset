@@ -1,0 +1,4 @@
+43c43
+<         List<Type> parentThrownTypes = super.getThrownTypes();
+---
+>         	List<Type> parentThrownTypes = super.getThrownTypes();

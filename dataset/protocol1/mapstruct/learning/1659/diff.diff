@@ -1,0 +1,4 @@
+320c320
+<             final int prime = 31;
+---
+>             final int prime = 	31;

@@ -1,0 +1,5 @@
+136,137c136
+<  * Unlike with the other component models, the usage site must be aware if a mapper is decorated or not, as for
+<  * decorated mappers, the parameterless {@code @javax.inject.Named} annotation must be added to select the
+---
+>  * Unlike with the other component models, the usage site must be aware if a mapper is decorated or not, as for * decorated mappers, the parameterless {@code @javax.inject.Named} annotation must be added to select the

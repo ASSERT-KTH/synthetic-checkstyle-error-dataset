@@ -1,0 +1,5 @@
+116,117c116
+<                 result = matcher.replaceAll( this.replacement );
+<             }
+---
+>                 result = matcher.replaceAll( this.replacement );            }

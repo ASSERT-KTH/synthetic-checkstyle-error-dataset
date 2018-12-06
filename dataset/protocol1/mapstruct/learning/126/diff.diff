@@ -1,0 +1,4 @@
+126c126
+<     static class DefaultModelElementWriterContext implements Context {
+---
+>     static class DefaultModelElementWriterContext 	implements Context {

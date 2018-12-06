@@ -1,0 +1,4 @@
+23c23
+<     private final boolean invokeSuperConstructor;
+---
+>     private final boolean invokeSuperConstructor ;

@@ -1,0 +1,4 @@
+34c34
+<         Template template = configuration.getTemplate( writable.getTemplateName() );
+---
+>         Template template =configuration.getTemplate( writable.getTemplateName() );

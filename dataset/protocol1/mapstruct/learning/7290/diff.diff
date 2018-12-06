@@ -1,0 +1,5 @@
+35,36c35
+<         this.returnType = typeFactory.getType( DecimalFormat.class );
+<         this.importTypes = asSet( parameter.getType(), returnType );
+---
+>         this.returnType = typeFactory.getType( DecimalFormat.class );        this.importTypes = asSet( parameter.getType(), returnType );

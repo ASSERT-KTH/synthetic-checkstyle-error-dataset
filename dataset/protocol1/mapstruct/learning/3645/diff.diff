@@ -1,0 +1,5 @@
+84c84,85
+<                 conversionContext.getTypeFactory().getType( DateTimeFormatter.class )
+---
+>                 conversionContext.getTypeFactory().getType
+> ( DateTimeFormatter.class )

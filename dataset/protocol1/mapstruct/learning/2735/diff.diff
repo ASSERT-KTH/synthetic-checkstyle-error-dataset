@@ -1,0 +1,4 @@
+21c21
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.zoneOffset;
+---
+> import static org.mapstruct.ap. internal.conversion.ConversionUtils.zoneOffset;

@@ -1,0 +1,4 @@
+578c578
+<             for ( Map.Entry<PropertyEntry, List<Mapping>> entry : mappingsKeyedByProperty.entrySet() ) {
+---
+>             for ( Map.Entry<PropertyEntry, List<Mapping>> entry : 	mappingsKeyedByProperty.entrySet() ) {

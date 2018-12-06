@@ -1,0 +1,5 @@
+63,64c63
+<         this.sourceParameters = Parameter.getSourceParameters( parameters );
+<         this.returnType = method.getReturnType();
+---
+>         this.sourceParameters = Parameter.getSourceParameters( parameters );        this.returnType = method.getReturnType();

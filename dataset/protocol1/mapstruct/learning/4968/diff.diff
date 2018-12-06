@@ -1,0 +1,4 @@
+106c106
+<     public Type findType(String name) {
+---
+>     public Type findType(	String name) {

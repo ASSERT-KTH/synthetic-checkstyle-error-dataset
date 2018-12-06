@@ -1,0 +1,5 @@
+125c125,126
+<         final PropertyEntry other = (PropertyEntry) obj;
+---
+>         final PropertyEntry other = (PropertyEntry) 
+> obj;

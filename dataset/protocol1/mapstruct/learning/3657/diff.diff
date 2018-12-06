@@ -1,0 +1,5 @@
+45c45,46
+<     Class<? extends Annotation>[] qualifiedBy() default { };
+---
+>     Class<? extends Annotation>[] 
+> qualifiedBy() default { };

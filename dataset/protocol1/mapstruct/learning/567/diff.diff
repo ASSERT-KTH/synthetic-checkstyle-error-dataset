@@ -1,0 +1,5 @@
+199c199,200
+<             int levensteinDistance = levenshteinDistance( similarWord, word );
+---
+>             int levensteinDistance 
+> = levenshteinDistance( similarWord, word );

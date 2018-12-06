@@ -1,0 +1,5 @@
+28c28,29
+<         List<SelectedMethod<T>> result = new ArrayList<>( methods.size() );
+---
+>         List<SelectedMethod<T>> result = new ArrayList<>( 
+> methods.size() );

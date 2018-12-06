@@ -1,0 +1,5 @@
+299,300c299
+<         if ( !mapperToImplementAsType.canAccess( usedMapperAsType, method ) ) {
+<             return null;
+---
+>         if ( !mapperToImplementAsType.canAccess( usedMapperAsType, method ) ) {            return null;

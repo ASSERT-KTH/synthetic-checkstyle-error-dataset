@@ -1,0 +1,5 @@
+66c66,67
+<             return object.isEmpty() && extParams.isEmpty();
+---
+>             
+> return object.isEmpty() && extParams.isEmpty();

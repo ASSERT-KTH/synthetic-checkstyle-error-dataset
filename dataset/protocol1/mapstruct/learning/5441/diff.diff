@@ -1,0 +1,5 @@
+20,21c20
+<  * Example (both methods of {@code Titles} are capable to convert a string, but the ambiguity is resolved by applying
+<  * the qualifiers in {@code @Mapping}:
+---
+>  * Example (both methods of {@code Titles} are capable to convert a string, but the ambiguity is resolved by applying * the qualifiers in {@code @Mapping}:

@@ -1,0 +1,4 @@
+30c30
+<     private final Set<String> existingVariableNames;
+---
+>     private final Set<String	> existingVariableNames;

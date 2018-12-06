@@ -1,0 +1,4 @@
+105c105
+<             return ReportingPolicyPrism.valueOf( mapperPrism.unmappedTargetPolicy() );
+---
+>             return ReportingPolicyPrism. valueOf( mapperPrism.unmappedTargetPolicy() );

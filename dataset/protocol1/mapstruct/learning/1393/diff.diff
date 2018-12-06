@@ -1,0 +1,5 @@
+16c16,17
+<     protected String formatStyle() {
+---
+>     protected String formatStyle
+> () {

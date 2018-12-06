@@ -1,0 +1,4 @@
+55c55
+<             conversionContext.getTypeFactory().getType( ZoneOffset.class )
+---
+>             conversionContext.getTypeFactory().getType( ZoneOffset.class)

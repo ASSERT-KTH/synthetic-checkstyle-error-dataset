@@ -1,0 +1,4 @@
+73c73
+<         if ( !( objectModel.getWrappedObject() instanceof Writable ) ) {
+---
+>         if 	( !( objectModel.getWrappedObject() instanceof Writable ) ) {

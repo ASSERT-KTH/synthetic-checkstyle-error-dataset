@@ -1,0 +1,5 @@
+56c56,57
+<         new ReplaceRule( "(^analy)sis$", "$1sis" ), // already singular, but ends in 's'
+---
+>         new ReplaceRule
+> ( "(^analy)sis$", "$1sis" ), // already singular, but ends in 's'

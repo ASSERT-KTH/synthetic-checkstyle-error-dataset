@@ -1,0 +1,4 @@
+177c177
+<             annotationSet.add( candidate );
+---
+>             	annotationSet.add( candidate );

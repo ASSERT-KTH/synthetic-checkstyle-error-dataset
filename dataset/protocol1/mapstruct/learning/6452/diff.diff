@@ -1,0 +1,4 @@
+85c85
+<         List<AstModifyingAnnotationProcessor> processors = new ArrayList<>();
+---
+>         List<AstModifyingAnnotationProcessor> processors = new ArrayList<	>();

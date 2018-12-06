@@ -1,0 +1,4 @@
+125c125
+<         else if ( other.selectionParameters != null ) {
+---
+>         else if ( other.selectionParameters != null ) 	{

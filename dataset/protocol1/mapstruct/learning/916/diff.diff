@@ -1,0 +1,4 @@
+29c29
+<         return "Enum.valueOf( " + conversionContext.getTargetType().createReferenceName()
+---
+>         	return "Enum.valueOf( " + conversionContext.getTargetType().createReferenceName()

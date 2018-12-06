@@ -1,0 +1,4 @@
+11c11
+< public class JavaLocalDateToStringConversion extends AbstractJavaTimeToStringConversion {
+---
+> public class JavaLocalDateToStringConversion 	extends AbstractJavaTimeToStringConversion {

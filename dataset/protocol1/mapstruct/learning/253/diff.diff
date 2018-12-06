@@ -1,0 +1,4 @@
+95c95
+<         List<ParameterBinding> availableParams = new ArrayList<>( sourceTypes.size() + 2 );
+---
+>         List<ParameterBinding> availableParams 	= new ArrayList<>( sourceTypes.size() + 2 );

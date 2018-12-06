@@ -1,0 +1,4 @@
+52c52
+<         return Collections.singletonList(
+---
+>         return Collections.singletonList (

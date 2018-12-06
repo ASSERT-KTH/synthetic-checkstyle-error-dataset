@@ -1,0 +1,4 @@
+27c27
+<     public Mapper process(ProcessorContext context, TypeElement mapperTypeElement, Mapper mapper) {
+---
+>     public Mapper 	process(ProcessorContext context, TypeElement mapperTypeElement, Mapper mapper) {

@@ -1,0 +1,5 @@
+75,76c75
+<             boolean scopeIsSetAndMatches =
+<                 scope != null && typeUtils.isSameType( scope, xmlElementRefInfo.sourceType() );
+---
+>             boolean scopeIsSetAndMatches =                scope != null && typeUtils.isSameType( scope, xmlElementRefInfo.sourceType() );

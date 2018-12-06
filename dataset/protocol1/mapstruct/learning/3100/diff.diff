@@ -1,0 +1,5 @@
+16c16,17
+< public interface Extractor<T, R> {
+---
+> public interface Extractor<T, 
+> R> {

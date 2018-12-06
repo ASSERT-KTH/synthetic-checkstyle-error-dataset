@@ -1,0 +1,4 @@
+245c245
+<     private static class ByteAnalyzer implements LiteralAnalyzer {
+---
+>     private 	static class ByteAnalyzer implements LiteralAnalyzer {

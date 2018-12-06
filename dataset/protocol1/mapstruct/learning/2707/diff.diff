@@ -1,0 +1,5 @@
+49,50c49
+<             StringBuilder sb = new StringBuilder();
+<             sb.append( "( (" + bigDecimal( conversionContext ) + ") " );
+---
+>             StringBuilder sb = new StringBuilder();            sb.append( "( (" + bigDecimal( conversionContext ) + ") " );

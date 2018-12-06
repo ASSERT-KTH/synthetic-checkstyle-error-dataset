@@ -1,0 +1,4 @@
+44c44
+<                 new ArrayList<>( methods.size() );
+---
+>                 new ArrayList	<>( methods.size() );

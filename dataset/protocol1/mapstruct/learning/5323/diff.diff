@@ -1,0 +1,5 @@
+85,86c85
+<     public AssignmentType getType() {
+<         return decoratedAssignment.getType();
+---
+>     public AssignmentType getType() {        return decoratedAssignment.getType();

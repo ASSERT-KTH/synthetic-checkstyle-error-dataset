@@ -1,0 +1,5 @@
+150c150,151
+<             currentElement = (TypeElement) typeUtils.asElement( currentMirror );
+---
+>             currentElement = (TypeElement) 
+> typeUtils.asElement( currentMirror );

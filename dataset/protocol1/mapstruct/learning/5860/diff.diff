@@ -1,0 +1,5 @@
+292c292,293
+<     public ConversionProvider getConversion(Type sourceType, Type targetType) {
+---
+>     public 
+> ConversionProvider getConversion(Type sourceType, Type targetType) {

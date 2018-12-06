@@ -1,0 +1,4 @@
+148c148
+<     private static List<SourceMethod> filterBeforeMappingMethods(List<SourceMethod> methods) {
+---
+>     	private static List<SourceMethod> filterBeforeMappingMethods(List<SourceMethod> methods) {

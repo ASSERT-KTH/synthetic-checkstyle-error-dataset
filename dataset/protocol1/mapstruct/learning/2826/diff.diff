@@ -1,0 +1,4 @@
+82c82
+<     public String getLoopVariableName() {
+---
+>     public String getLoopVariableName(	) {

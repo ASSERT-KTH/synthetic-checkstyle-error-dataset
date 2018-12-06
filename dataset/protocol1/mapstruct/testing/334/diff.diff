@@ -1,0 +1,4 @@
+43c43
+<         return asSet( conversionContext.getTypeFactory().getType( BigDecimal.class ) );
+---
+>         return asSet( conversionContext.getTypeFactory().getType( BigDecimal.class) );

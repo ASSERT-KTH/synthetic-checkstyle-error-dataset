@@ -1,0 +1,4 @@
+23c23
+<     protected String parseMethod() {
+---
+>     protected String 	parseMethod() {

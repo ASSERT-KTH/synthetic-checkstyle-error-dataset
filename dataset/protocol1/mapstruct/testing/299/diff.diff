@@ -1,0 +1,4 @@
+26c26
+< public class TargetTypeSelector implements MethodSelector {
+---
+> 	public class TargetTypeSelector implements MethodSelector {

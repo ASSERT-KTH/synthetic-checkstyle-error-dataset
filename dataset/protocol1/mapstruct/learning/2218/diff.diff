@@ -1,0 +1,5 @@
+146c146,147
+<         name = joinAndCamelize( extractParts( name ) );
+---
+>         name = joinAndCamelize( 
+> extractParts( name ) );

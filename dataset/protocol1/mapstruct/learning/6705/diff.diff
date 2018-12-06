@@ -1,0 +1,5 @@
+70c70,71
+<     public static ValueMapping fromMappingPrism(ValueMappingPrism mappingPrism, ExecutableElement element,
+---
+>     public static ValueMapping fromMappingPrism(ValueMappingPrism mappingPrism
+> , ExecutableElement element,

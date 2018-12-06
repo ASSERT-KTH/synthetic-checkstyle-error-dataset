@@ -1,0 +1,4 @@
+23c23
+< public class JavaLocalDateToSqlDateConversion extends SimpleConversion {
+---
+> public 	class JavaLocalDateToSqlDateConversion extends SimpleConversion {

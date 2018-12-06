@@ -1,0 +1,4 @@
+122c122
+<         for ( SelectedMethod<SourceMethod> candidate : candidates ) {
+---
+>         for( SelectedMethod<SourceMethod> candidate : candidates ) {

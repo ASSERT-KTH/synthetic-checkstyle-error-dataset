@@ -1,0 +1,5 @@
+83c83,84
+<         return declaringType != null ? Collections.asSet( declaringType ) : java.util.Collections.<Type> emptySet();
+---
+>         return declaringType != null ? 
+> Collections.asSet( declaringType ) : java.util.Collections.<Type> emptySet();

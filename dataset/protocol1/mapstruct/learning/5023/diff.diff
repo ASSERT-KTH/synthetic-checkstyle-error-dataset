@@ -1,0 +1,4 @@
+24c24
+<         this.templateName = getTemplateNameForClass( fieldReference.getClass() );
+---
+>         this.templateName = getTemplateNameForClass( fieldReference.getClass(	) );

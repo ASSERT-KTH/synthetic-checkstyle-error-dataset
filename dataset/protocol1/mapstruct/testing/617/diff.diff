@@ -1,0 +1,5 @@
+15c15,16
+< import org.mapstruct.ap.internal.model.source.builtin.BuiltInMethod;
+---
+> import 
+> org.mapstruct.ap.internal.model.source.builtin.BuiltInMethod;

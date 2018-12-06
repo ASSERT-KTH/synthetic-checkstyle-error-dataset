@@ -1,0 +1,5 @@
+9,10c9
+<  * Strategy for handling injection. This is only used on annotated based component models such as CDI, Spring and
+<  * JSR330.
+---
+>  * Strategy for handling injection. This is only used on annotated based component models such as CDI, Spring and * JSR330.

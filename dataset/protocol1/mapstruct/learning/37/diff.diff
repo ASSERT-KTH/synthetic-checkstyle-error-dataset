@@ -1,0 +1,5 @@
+23c23,24
+<     private final List<TypeMirror> qualifiers = new ArrayList<>();
+---
+>     private final List<TypeMirror> qualifiers = new ArrayList<>
+> ();

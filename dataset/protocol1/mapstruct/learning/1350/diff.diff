@@ -1,0 +1,4 @@
+22c22
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.simpleDateFormat;
+---
+> import 	static org.mapstruct.ap.internal.conversion.ConversionUtils.simpleDateFormat;

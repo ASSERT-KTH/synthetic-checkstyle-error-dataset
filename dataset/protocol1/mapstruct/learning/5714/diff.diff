@@ -1,0 +1,5 @@
+21c21,22
+< public class XmlGregorianCalendarToLocalDate extends BuiltInMethod {
+---
+> public class XmlGregorianCalendarToLocalDate 
+> extends BuiltInMethod {

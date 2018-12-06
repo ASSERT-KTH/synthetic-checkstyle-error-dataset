@@ -1,0 +1,5 @@
+25,26c25
+<      * @param <T> either SourceMethod or BuiltInMethod
+<      * @param mappingMethod mapping method, defined in Mapper for which this selection is carried out
+---
+>      * @param <T> either SourceMethod or BuiltInMethod     * @param mappingMethod mapping method, defined in Mapper for which this selection is carried out

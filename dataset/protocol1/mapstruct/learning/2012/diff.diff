@@ -1,0 +1,4 @@
+36c36
+<             match = sourceType.getTypeParameters().get( 0 ).isAssignableTo( targetType );
+---
+>             match = sourceType.getTypeParameters(	).get( 0 ).isAssignableTo( targetType );

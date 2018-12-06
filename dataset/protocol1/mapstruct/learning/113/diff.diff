@@ -1,0 +1,5 @@
+23c23,24
+<     private final Parameter parameter;
+---
+>     private final Parameter parameter
+> ;

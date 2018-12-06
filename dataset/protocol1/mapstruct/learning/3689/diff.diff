@@ -1,0 +1,5 @@
+84,85c84
+<         if ( sourceRHS != null ) {
+<             return sourceRHS.getImportTypes();
+---
+>         if ( sourceRHS != null ) {            return sourceRHS.getImportTypes();

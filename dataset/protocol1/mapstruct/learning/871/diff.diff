@@ -1,0 +1,5 @@
+125,126c125
+<  *     public PersonDto personToPersonDto(Person person) {
+<  *         PersonDto dto = delegate.personToPersonDto( person );
+---
+>  *     public PersonDto personToPersonDto(Person person) { *         PersonDto dto = delegate.personToPersonDto( person );

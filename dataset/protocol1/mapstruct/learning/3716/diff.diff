@@ -1,0 +1,5 @@
+100c100,101
+<         return delegate.getPrimitiveType( kind );
+---
+>         return delegate.getPrimitiveType
+> ( kind );

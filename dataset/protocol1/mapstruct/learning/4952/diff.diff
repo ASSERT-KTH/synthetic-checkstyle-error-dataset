@@ -1,0 +1,5 @@
+738c738,739
+<                     ForgedMethodHistory history = forgedMethod.getHistory();
+---
+>                     ForgedMethodHistory 
+> history = forgedMethod.getHistory();

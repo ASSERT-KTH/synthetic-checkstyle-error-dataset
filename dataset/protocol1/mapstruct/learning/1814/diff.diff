@@ -1,0 +1,5 @@
+212,213c212
+<     private class TypeMatcher extends SimpleTypeVisitor6<Boolean, TypeMirror> {
+<         private final Assignability assignability;
+---
+>     private class TypeMatcher extends SimpleTypeVisitor6<Boolean, TypeMirror> {        private final Assignability assignability;

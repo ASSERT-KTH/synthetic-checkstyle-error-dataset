@@ -1,0 +1,4 @@
+52c52
+<         List<ExecutableElementAccessor> presenceCheckMethods = new LinkedList<>();
+---
+>         List<ExecutableElementAccessor> presenceCheckMethods = new LinkedList<>(	);

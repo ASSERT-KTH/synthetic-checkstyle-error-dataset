@@ -1,0 +1,4 @@
+182c182
+<                 return new SelectionParameters( qualifiers, qualifyingNames, resultType, typeUtils );
+---
+>                 return new SelectionParameters( qualifiers, qualifyingNames, resultType, 	typeUtils );

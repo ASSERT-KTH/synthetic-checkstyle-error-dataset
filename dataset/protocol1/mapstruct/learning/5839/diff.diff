@@ -1,0 +1,4 @@
+74c74
+<         return fullName[fullName.length - 1];
+---
+>         return fullName[fullName	.length - 1];

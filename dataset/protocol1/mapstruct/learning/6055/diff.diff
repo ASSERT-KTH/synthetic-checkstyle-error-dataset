@@ -1,0 +1,4 @@
+22c22
+< import org.mapstruct.ap.internal.model.source.SourceMethod;
+---
+> import org.mapstruct.ap.internal.model.source	.SourceMethod;

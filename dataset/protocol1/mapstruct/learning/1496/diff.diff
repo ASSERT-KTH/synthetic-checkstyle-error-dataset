@@ -1,0 +1,4 @@
+86c86
+<     private static <T> T tryCast(Object instance, Class<T> type) {
+---
+>     private 	static <T> T tryCast(Object instance, Class<T> type) {

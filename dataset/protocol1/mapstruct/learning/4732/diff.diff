@@ -1,0 +1,4 @@
+99c99
+<         if ( assignment == null ) {
+---
+>         if ( assignment == null ) 	{

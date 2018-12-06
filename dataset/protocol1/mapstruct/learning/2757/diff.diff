@@ -1,0 +1,4 @@
+70c70
+<         return new PropertyEntry( new String[]{name}, readAccessor, null, presenceChecker, type );
+---
+>         return new PropertyEntry( new 	String[]{name}, readAccessor, null, presenceChecker, type );

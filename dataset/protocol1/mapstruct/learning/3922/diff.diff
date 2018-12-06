@@ -1,0 +1,5 @@
+174c174,175
+<         int moduleNameSeparator = resource.getFile().indexOf( '/', 1 );
+---
+>         int moduleNameSeparator = resource.getFile().indexOf( '/', 1 
+> );

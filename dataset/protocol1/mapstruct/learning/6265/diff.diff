@@ -1,0 +1,4 @@
+74c74
+<         if ( conversionContext.getNumberFormat() != null ) {
+---
+>         if ( conversionContext.getNumberFormat()!= null ) {

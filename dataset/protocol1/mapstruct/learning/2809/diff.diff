@@ -1,0 +1,4 @@
+30c30
+<                 ref.setUsed( ref.isUsed() || !method.isStatic() );
+---
+>                 ref.setUsed ( ref.isUsed() || !method.isStatic() );

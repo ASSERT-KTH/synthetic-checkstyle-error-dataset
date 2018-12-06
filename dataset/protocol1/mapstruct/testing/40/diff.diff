@@ -1,0 +1,5 @@
+17c17,18
+< public enum Accessibility {
+---
+> public 
+> enum Accessibility {

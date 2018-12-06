@@ -1,0 +1,4 @@
+26c26
+<     protected String getComponentModelIdentifier() {
+---
+>     protected String getComponentModelIdentifier () {

@@ -1,0 +1,5 @@
+19,20c19
+<     public PrimitiveToPrimitiveConversion(Class<?> sourceType) {
+<         this.sourceType = sourceType;
+---
+>     public PrimitiveToPrimitiveConversion(Class<?> sourceType) {        this.sourceType = sourceType;

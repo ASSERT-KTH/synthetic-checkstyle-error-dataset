@@ -1,0 +1,5 @@
+214,215c214
+<     public List<Type> getThrownTypes() {
+<         return Collections.emptyList();
+---
+>     public List<Type> getThrownTypes() {        return Collections.emptyList();

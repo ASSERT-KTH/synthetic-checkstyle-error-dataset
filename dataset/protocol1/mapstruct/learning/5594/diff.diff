@@ -1,0 +1,5 @@
+63c63,64
+<     public AnnotationMapperReference withNewAnnotations(List<Annotation> annotations) {
+---
+>     public AnnotationMapperReference withNewAnnotations(List<Annotation> 
+> annotations) {

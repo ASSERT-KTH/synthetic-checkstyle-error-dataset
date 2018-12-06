@@ -1,0 +1,5 @@
+225,226c225
+<     public List<Type> getThrownTypes() {
+<         List<Type> exceptions = new ArrayList<>();
+---
+>     public List<Type> getThrownTypes() {        List<Type> exceptions = new ArrayList<>();

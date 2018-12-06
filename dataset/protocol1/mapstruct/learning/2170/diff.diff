@@ -1,0 +1,4 @@
+89c89
+<     String value();
+---
+>     String value(	);

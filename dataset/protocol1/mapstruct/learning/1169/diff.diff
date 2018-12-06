@@ -1,0 +1,4 @@
+45c45
+<         this.includeSourceNullCheck = includeSourceNullCheck;
+---
+>         	this.includeSourceNullCheck = includeSourceNullCheck;

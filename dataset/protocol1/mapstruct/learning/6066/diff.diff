@@ -1,0 +1,5 @@
+65c65,66
+<         private TypeFactory typeFactory;
+---
+>         private TypeFactory 
+> typeFactory;

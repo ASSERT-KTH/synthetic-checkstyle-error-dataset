@@ -1,0 +1,5 @@
+25,26c25
+<     private static final String ECLIPSE_AS_MEMBER_OF_WORKAROUND =
+<         "org.mapstruct.ap.internal.util.workarounds.EclipseAsMemberOfWorkaround";
+---
+>     private static final String ECLIPSE_AS_MEMBER_OF_WORKAROUND =        "org.mapstruct.ap.internal.util.workarounds.EclipseAsMemberOfWorkaround";

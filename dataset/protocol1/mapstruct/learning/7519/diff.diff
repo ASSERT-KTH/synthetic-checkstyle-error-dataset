@@ -1,0 +1,4 @@
+218c218
+<                              List<LifecycleCallbackMethodReference> afterMappingReferences) {
+---
+>                              List<LifecycleCallbackMethodReference> 	afterMappingReferences) {

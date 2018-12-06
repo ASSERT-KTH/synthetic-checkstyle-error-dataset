@@ -1,0 +1,4 @@
+36c36
+<         String desiredName = Nouns.singularize( targetPropertyName );
+---
+>         String desiredName 	= Nouns.singularize( targetPropertyName );

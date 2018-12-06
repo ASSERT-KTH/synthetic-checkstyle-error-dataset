@@ -1,0 +1,4 @@
+125c125
+<     private static List<SourceMethod> getAllAvailableMethods(Method method, List<SourceMethod> sourceModelMethods) {
+---
+>     private static List<SourceMethod> 	getAllAvailableMethods(Method method, List<SourceMethod> sourceModelMethods) {

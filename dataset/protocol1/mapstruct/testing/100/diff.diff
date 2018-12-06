@@ -1,0 +1,5 @@
+81c81,82
+<         return new Annotation( getTypeFactory().getType( "org.springframework.context.annotation.Primary" ) );
+---
+>         return new 
+> Annotation( getTypeFactory().getType( "org.springframework.context.annotation.Primary" ) );

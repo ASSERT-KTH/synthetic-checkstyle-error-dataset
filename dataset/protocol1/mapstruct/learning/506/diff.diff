@@ -1,0 +1,4 @@
+46c46
+<             && iterableMapping.numberFormat().isEmpty()
+---
+>             && iterableMapping.numberFormat(	).isEmpty()

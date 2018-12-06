@@ -1,0 +1,5 @@
+37c37,38
+<         ModelWriter modelWriter = new ModelWriter();
+---
+>         ModelWriter modelWriter 
+> = new ModelWriter();

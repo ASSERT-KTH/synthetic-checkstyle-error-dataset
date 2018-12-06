@@ -1,0 +1,4 @@
+27c27
+<     private DefaultMapperReference(Type type, boolean isAnnotatedMapper, Set<Type> importTypes, String variableName) {
+---
+>     private DefaultMapperReference (Type type, boolean isAnnotatedMapper, Set<Type> importTypes, String variableName) {

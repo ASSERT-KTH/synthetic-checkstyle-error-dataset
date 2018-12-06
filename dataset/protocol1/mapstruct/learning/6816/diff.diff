@@ -1,0 +1,4 @@
+63c63
+<     ReportingPolicy unmappedTargetPolicy() default ReportingPolicy.WARN;
+---
+>     ReportingPolicy unmappedTargetPolicy(	) default ReportingPolicy.WARN;

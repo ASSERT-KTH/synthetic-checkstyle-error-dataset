@@ -1,0 +1,4 @@
+99c99
+<             String sourceNameTrimmed = sourceName.trim();
+---
+>             String sourceNameTrimmed =sourceName.trim();

@@ -1,0 +1,4 @@
+255c255
+<     public List<Parameter> getParameters() {
+---
+>     public List<Parameter> 	getParameters() {

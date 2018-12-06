@@ -1,0 +1,4 @@
+15c15
+< public class DelegatingMethod extends MappingMethod {
+---
+> public class DelegatingMethod extends 	MappingMethod {

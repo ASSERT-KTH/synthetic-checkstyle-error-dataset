@@ -1,0 +1,5 @@
+295,296c295
+<         }
+<         else if ( targetType.isEnumType() && sourceType.equals( stringType ) ) {
+---
+>         }        else if ( targetType.isEnumType() && sourceType.equals( stringType ) ) {

@@ -1,0 +1,5 @@
+144c144,145
+<         this.ignoreByDefault = ignoreByDefault;
+---
+>         this.ignoreByDefault = 
+> ignoreByDefault;

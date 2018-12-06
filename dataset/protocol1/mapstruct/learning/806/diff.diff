@@ -1,0 +1,5 @@
+94c94,95
+<         else if ( scopeMatches.size() > 0 ) {
+---
+>         else if 
+> ( scopeMatches.size() > 0 ) {

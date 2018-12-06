@@ -1,0 +1,4 @@
+30c30
+<     private final SelectionParameters selectionParameters;
+---
+>     private final SelectionParameters selectionParameters ;

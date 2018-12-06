@@ -1,0 +1,4 @@
+128c128
+<             return withNode( name, Arrays.asList( descendants ) );
+---
+>             return withNode( 	name, Arrays.asList( descendants ) );

@@ -1,0 +1,4 @@
+26c26
+<         return "new " + sqlDate( conversionContext ) + "( <SOURCE>.getTime() )";
+---
+>         return "new " + sqlDate( 	conversionContext ) + "( <SOURCE>.getTime() )";

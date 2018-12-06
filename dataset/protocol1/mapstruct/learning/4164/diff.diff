@@ -1,0 +1,4 @@
+125c125
+<     CollectionMappingStrategy collectionMappingStrategy() default CollectionMappingStrategy.ACCESSOR_ONLY;
+---
+>     CollectionMappingStrategy collectionMappingStrategy	() default CollectionMappingStrategy.ACCESSOR_ONLY;

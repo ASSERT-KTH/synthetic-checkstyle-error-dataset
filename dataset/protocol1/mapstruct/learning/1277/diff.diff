@@ -1,0 +1,4 @@
+301c301
+<                     if ( doubleHasBecomeZero( f  ) ) {
+---
+>                     if 	( doubleHasBecomeZero( f  ) ) {

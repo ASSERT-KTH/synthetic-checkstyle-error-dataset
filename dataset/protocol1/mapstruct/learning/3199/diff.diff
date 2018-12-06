@@ -1,0 +1,4 @@
+22c22
+<     private final String implementationPackage;
+---
+>     private final 	String implementationPackage;

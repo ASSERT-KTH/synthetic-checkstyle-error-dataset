@@ -1,0 +1,5 @@
+28c28,29
+<     public Field(Type type, String variableName, boolean used) {
+---
+>     public Field(Type type, String variableName
+> , boolean used) {

@@ -1,0 +1,4 @@
+248c248
+<         private ConversionAssignment resolveViaConversion(Type sourceType, Type targetType) {
+---
+>         private ConversionAssignment resolveViaConversion(Type 	sourceType, Type targetType) {

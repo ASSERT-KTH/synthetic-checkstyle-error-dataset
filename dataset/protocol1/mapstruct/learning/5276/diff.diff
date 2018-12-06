@@ -1,0 +1,4 @@
+20c20
+< import org.mapstruct.ap.internal.version.VersionInformation;
+---
+> import org.mapstruct.ap.internal.version.VersionInformation ;

@@ -1,0 +1,5 @@
+11,12c11
+<  * <b>Note:</b> This strategy is not in effect when the a specific source presence check method is defined
+<  * in the service provider interface (SPI).
+---
+>  * <b>Note:</b> This strategy is not in effect when the a specific source presence check method is defined * in the service provider interface (SPI).

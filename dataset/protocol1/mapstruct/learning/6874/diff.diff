@@ -1,0 +1,5 @@
+36c36,37
+< public abstract class HelperMethod implements Method {
+---
+> public abstract 
+> class HelperMethod implements Method {

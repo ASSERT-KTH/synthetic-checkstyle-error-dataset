@@ -1,0 +1,5 @@
+218c218,219
+<             for ( Type type : mappingMethod.getImportTypes() ) {
+---
+>             for ( Type type 
+> : mappingMethod.getImportTypes() ) {

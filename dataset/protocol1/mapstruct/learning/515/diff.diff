@@ -1,0 +1,4 @@
+64c64
+<     public List<HelperMethod> getRequiredHelperMethods(ConversionContext conversionContext) {
+---
+>     public List<HelperMethod	> getRequiredHelperMethods(ConversionContext conversionContext) {

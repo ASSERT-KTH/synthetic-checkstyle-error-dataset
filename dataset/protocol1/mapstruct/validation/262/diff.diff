@@ -1,0 +1,4 @@
+523c523
+<         return matcher.matches( sourceTypes, targetType );
+---
+>         return matcher.matches( sourceTypes,targetType );

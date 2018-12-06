@@ -1,0 +1,4 @@
+28c28
+<         this.parameter = new Parameter( "date", typeFactory.getType( Date.class ) );
+---
+>         this.parameter= new Parameter( "date", typeFactory.getType( Date.class ) );

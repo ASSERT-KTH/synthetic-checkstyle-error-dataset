@@ -1,0 +1,5 @@
+121c121,122
+<                    String interfacePackage, String interfaceName, boolean customPackage, boolean customImplName,
+---
+>                    String interfacePackage, 
+> String interfaceName, boolean customPackage, boolean customImplName,

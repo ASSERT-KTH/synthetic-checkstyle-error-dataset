@@ -1,0 +1,5 @@
+49c49,50
+<     public void printErrorMessage(FormattingMessager messager, Element element, AnnotationMirror annotation,
+---
+>     public void printErrorMessage(FormattingMessager messager, Element 
+> element, AnnotationMirror annotation,

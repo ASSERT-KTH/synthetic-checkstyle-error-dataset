@@ -1,0 +1,5 @@
+194c194,195
+<     InjectionStrategy injectionStrategy() default InjectionStrategy.FIELD;
+---
+>     InjectionStrategy injectionStrategy() default 
+> InjectionStrategy.FIELD;

@@ -1,0 +1,5 @@
+192,193c192
+<                 boolean isNotLast = i < entryNames.length - 1;
+<                 if ( isWriteAccessorNotValidWhenNotLast( targetWriteAccessor, isNotLast )
+---
+>                 boolean isNotLast = i < entryNames.length - 1;                if ( isWriteAccessorNotValidWhenNotLast( targetWriteAccessor, isNotLast )

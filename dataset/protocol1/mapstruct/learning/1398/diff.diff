@@ -1,0 +1,5 @@
+42,43c42
+<         builtInMethods.add( new ZonedDateTimeToCalendar( typeFactory ) );
+<         builtInMethods.add( new CalendarToZonedDateTime( typeFactory ) );
+---
+>         builtInMethods.add( new ZonedDateTimeToCalendar( typeFactory ) );        builtInMethods.add( new CalendarToZonedDateTime( typeFactory ) );

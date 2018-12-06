@@ -1,0 +1,4 @@
+56c56
+<         for ( T method : methods ) {
+---
+>         for ( T method 	: methods ) {

@@ -1,0 +1,5 @@
+29,30c29
+<  * A {@link MappingMethod} which maps one enum type to another, optionally configured by one or more
+<  * {@link EnumMapping}s.
+---
+>  * A {@link MappingMethod} which maps one enum type to another, optionally configured by one or more * {@link EnumMapping}s.

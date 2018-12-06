@@ -1,0 +1,5 @@
+19c19,20
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.zonedDateTime;
+---
+> import static org.mapstruct.ap.internal.conversion.ConversionUtils.zonedDateTime
+> ;

@@ -1,0 +1,5 @@
+46c46,47
+<             public PropertyEntry apply(SourceReference sourceReference) {
+---
+>             public PropertyEntry 
+> apply(SourceReference sourceReference) {

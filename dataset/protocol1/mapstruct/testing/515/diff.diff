@@ -1,0 +1,5 @@
+90,91c90
+<         for ( ReplaceRule replaceRule : SINGULAR_DALI_RULES ) {
+<             String match = replaceRule.apply( plural );
+---
+>         for ( ReplaceRule replaceRule : SINGULAR_DALI_RULES ) {            String match = replaceRule.apply( plural );

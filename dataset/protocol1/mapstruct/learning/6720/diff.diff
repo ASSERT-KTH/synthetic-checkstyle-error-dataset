@@ -1,0 +1,4 @@
+812c812
+<     private boolean isCollectionOrMapOrStream(Accessor getterMethod) {
+---
+>     private boolean isCollectionOrMapOrStream(Accessor 	getterMethod) {

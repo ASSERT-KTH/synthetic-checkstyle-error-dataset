@@ -1,0 +1,4 @@
+30c30
+<             if ( method.getMethod().isObjectFactory() == criteria.isObjectFactoryRequired()
+---
+>             if ( method.getMethod().isObjectFactory() == criteria. isObjectFactoryRequired()

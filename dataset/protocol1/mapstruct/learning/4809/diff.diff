@@ -1,0 +1,4 @@
+80c80
+<         builder.append( type.getIdentification() );
+---
+>         builder.append( type.getIdentification() ) ;

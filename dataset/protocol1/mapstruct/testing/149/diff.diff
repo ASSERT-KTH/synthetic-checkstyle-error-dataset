@@ -1,0 +1,5 @@
+19c19,20
+< public class TypeHierarchyErroneousException extends RuntimeException {
+---
+> public 
+> class TypeHierarchyErroneousException extends RuntimeException {

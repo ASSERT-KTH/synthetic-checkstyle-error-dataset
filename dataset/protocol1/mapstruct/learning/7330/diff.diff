@@ -1,0 +1,5 @@
+21,22c21
+< import org.mapstruct.ap.internal.model.common.SourceRHS;
+< import org.mapstruct.ap.internal.model.common.Type;
+---
+> import org.mapstruct.ap.internal.model.common.SourceRHS;import org.mapstruct.ap.internal.model.common.Type;

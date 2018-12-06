@@ -1,0 +1,4 @@
+128c128
+<         TypeMirror currentMirror = startingMirror;
+---
+>         TypeMirror currentMirror 	= startingMirror;

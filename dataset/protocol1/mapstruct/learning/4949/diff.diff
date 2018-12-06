@@ -1,0 +1,5 @@
+67,68c67
+<             if ( accessorNaming.isSetterMethod( method ) ) {
+<                 setterMethods.add( method );
+---
+>             if ( accessorNaming.isSetterMethod( method ) ) {                setterMethods.add( method );

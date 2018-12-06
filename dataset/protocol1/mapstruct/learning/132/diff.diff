@@ -1,0 +1,4 @@
+57c57
+<     private static Method getAsMemberOf(ClassLoader platformClassLoader) throws Exception {
+---
+>     private static Method getAsMemberOf(ClassLoader platformClassLoader) throws 	Exception {

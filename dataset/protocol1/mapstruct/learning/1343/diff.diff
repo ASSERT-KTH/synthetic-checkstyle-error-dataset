@@ -1,0 +1,4 @@
+23c23
+< import freemarker.cache.StrongCacheStorage;
+---
+> import freemarker.cache.StrongCacheStorage ;

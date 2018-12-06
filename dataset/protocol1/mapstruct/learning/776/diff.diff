@@ -1,0 +1,4 @@
+51c51
+<             && ( executable.getReturnType().getKind() == TypeKind.BOOLEAN ||
+---
+>             && ( executable.getReturnType().getKind() == TypeKind. BOOLEAN ||

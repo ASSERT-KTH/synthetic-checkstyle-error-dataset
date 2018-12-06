@@ -1,0 +1,5 @@
+54,55c54
+<      * Returns the traversal sequence number of the given node. The ascending order of the traversal sequence numbers of
+<      * multiple nodes represents the depth-first traversal order of those nodes.
+---
+>      * Returns the traversal sequence number of the given node. The ascending order of the traversal sequence numbers of     * multiple nodes represents the depth-first traversal order of those nodes.

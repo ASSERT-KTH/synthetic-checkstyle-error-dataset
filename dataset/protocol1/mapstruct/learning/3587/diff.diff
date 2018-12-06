@@ -1,0 +1,5 @@
+438,439c438
+<             PropertyEntry targetProperty = first( targetRef.getPropertyEntries() );
+<             String propertyName = targetProperty.getName();
+---
+>             PropertyEntry targetProperty = first( targetRef.getPropertyEntries() );            String propertyName = targetProperty.getName();

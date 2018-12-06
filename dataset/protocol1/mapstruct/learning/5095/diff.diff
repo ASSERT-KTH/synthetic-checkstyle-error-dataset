@@ -1,0 +1,5 @@
+40c40,41
+<         if ( ( factoryMethod == null ) && ( !isExistingInstanceMapping() ) ) {
+---
+>         if ( 
+> ( factoryMethod == null ) && ( !isExistingInstanceMapping() ) ) {

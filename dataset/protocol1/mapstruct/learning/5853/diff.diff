@@ -1,0 +1,5 @@
+81,82c81
+<      * @return the 'element name' to which an adder method applies. If. e.g. an adder method is named
+<      * {@code addChild(Child v)}, the element name would be 'Child'.
+---
+>      * @return the 'element name' to which an adder method applies. If. e.g. an adder method is named     * {@code addChild(Child v)}, the element name would be 'Child'.

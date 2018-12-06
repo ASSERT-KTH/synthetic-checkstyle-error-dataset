@@ -1,0 +1,5 @@
+21c21,22
+<     public static final String NULL = "<NULL>";
+---
+>     public static final String 
+> NULL = "<NULL>";

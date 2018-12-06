@@ -1,0 +1,5 @@
+18,19c18
+< import static org.mapstruct.ap.internal.util.Collections.asSet;
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.bigDecimal;
+---
+> import static org.mapstruct.ap.internal.util.Collections.asSet;import static org.mapstruct.ap.internal.conversion.ConversionUtils.bigDecimal;

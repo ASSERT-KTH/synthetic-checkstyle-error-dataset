@@ -1,0 +1,5 @@
+43c43,44
+<         new ReplaceRule( "(cris|ax|test)is$", "$1is" ), // already singular, but ends in 's'
+---
+>         new ReplaceRule( 
+> "(cris|ax|test)is$", "$1is" ), // already singular, but ends in 's'

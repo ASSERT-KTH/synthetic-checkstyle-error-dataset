@@ -1,0 +1,4 @@
+29c29
+<         Name name = typeElement.getQualifiedName();
+---
+>         Name name = typeElement. getQualifiedName();

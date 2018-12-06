@@ -1,0 +1,4 @@
+30c30
+<         return getTemplateNameForClass( getClass() );
+---
+>         return getTemplateNameForClass( getClass () );

@@ -1,0 +1,4 @@
+10c10
+< import org.mapstruct.ap.internal.model.source.builtin.BuiltInFieldReference;
+---
+> import org.mapstruct.ap.internal.model.source.builtin.BuiltInFieldReference ;

@@ -1,0 +1,4 @@
+49c49
+<     public static <T> T first(Collection<T> collection) {
+---
+>     	public static <T> T first(Collection<T> collection) {

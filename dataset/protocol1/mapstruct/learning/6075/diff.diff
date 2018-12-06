@@ -1,0 +1,5 @@
+22c22,23
+<     private final Set<SupportingConstructorFragment> fragments;
+---
+>     private final Set<SupportingConstructorFragment> 
+> fragments;

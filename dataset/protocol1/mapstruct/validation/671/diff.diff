@@ -1,0 +1,5 @@
+29,30c29
+<      * If no setter but and adder method is present, that adder will be invoked for each element of the source
+<      * collection: {@code order.addOrderLine(orderLine() )}.
+---
+>      * If no setter but and adder method is present, that adder will be invoked for each element of the source     * collection: {@code order.addOrderLine(orderLine() )}.

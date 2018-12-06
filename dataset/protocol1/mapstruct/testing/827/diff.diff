@@ -1,0 +1,5 @@
+104c104,105
+<         private final Pattern pattern;
+---
+>         private final Pattern 
+> pattern;

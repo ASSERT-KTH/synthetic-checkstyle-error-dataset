@@ -1,0 +1,5 @@
+22c22,23
+< public class BigDecimalToPrimitiveConversion extends SimpleConversion {
+---
+> public class BigDecimalToPrimitiveConversion 
+> extends SimpleConversion {

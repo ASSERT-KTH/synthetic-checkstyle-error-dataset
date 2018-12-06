@@ -1,0 +1,4 @@
+505c505
+<             return NUMBER_TYPES.contains( clazz );
+---
+>             return NUMBER_TYPES.contains(clazz );

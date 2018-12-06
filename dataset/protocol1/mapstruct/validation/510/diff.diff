@@ -1,0 +1,5 @@
+41,42c41
+<                             ? null
+<                             : NullValueMappingStrategyPrism.valueOf( mapMapping.nullValueMappingStrategy() );
+---
+>                             ? null                            : NullValueMappingStrategyPrism.valueOf( mapMapping.nullValueMappingStrategy() );

@@ -1,0 +1,4 @@
+44c44
+<         List<Type> result = new ArrayList<>( parentThrownTypes );
+---
+>         List<Type> result = 	new ArrayList<>( parentThrownTypes );

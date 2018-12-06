@@ -1,0 +1,5 @@
+327c327,328
+<                 targetParameter != null && targetParameter.getName().equals( segment );
+---
+>                 targetParameter != null 
+> && targetParameter.getName().equals( segment );

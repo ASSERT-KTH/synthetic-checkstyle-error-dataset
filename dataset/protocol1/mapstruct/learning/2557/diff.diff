@@ -1,0 +1,4 @@
+67c67
+<         catch ( ClassNotFoundException | NoSuchMethodException e ) {
+---
+>         catch ( ClassNotFoundException |NoSuchMethodException e ) {

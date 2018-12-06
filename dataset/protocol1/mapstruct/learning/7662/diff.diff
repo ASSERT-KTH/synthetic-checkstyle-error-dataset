@@ -1,0 +1,4 @@
+34c34
+<         Set<Type> imported = new HashSet<>( super.getImportTypes() );
+---
+>         Set<Type> imported =new HashSet<>( super.getImportTypes() );

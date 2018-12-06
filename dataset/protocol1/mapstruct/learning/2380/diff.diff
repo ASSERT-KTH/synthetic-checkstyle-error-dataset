@@ -1,0 +1,4 @@
+72c72
+<     private NestedPropertyMappingMethod( ForgedMethod method, List<SafePropertyEntry> sourcePropertyEntries ) {
+---
+>     private NestedPropertyMappingMethod( ForgedMethod method,List<SafePropertyEntry> sourcePropertyEntries ) {

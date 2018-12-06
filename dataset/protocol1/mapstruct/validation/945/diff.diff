@@ -1,0 +1,5 @@
+257,258c257
+<     public List<MappingEntry> getValueMappings() {
+<         return valueMappings;
+---
+>     public List<MappingEntry> getValueMappings() {        return valueMappings;

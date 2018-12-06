@@ -1,0 +1,5 @@
+14,15c14
+<  * Marks a parameter of a method to be treated as <em>mapping context</em>. Such parameters are passed to other mapping
+<  * methods, {@code @}{@link ObjectFactory} methods or {@code @}{@link BeforeMapping}/{@code @}{@link AfterMapping}
+---
+>  * Marks a parameter of a method to be treated as <em>mapping context</em>. Such parameters are passed to other mapping * methods, {@code @}{@link ObjectFactory} methods or {@code @}{@link BeforeMapping}/{@code @}{@link AfterMapping}

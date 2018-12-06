@@ -1,0 +1,5 @@
+37c37,38
+<         Set<Type> imported = new HashSet<>();
+---
+>         Set<Type> imported = new HashSet<>
+> ();

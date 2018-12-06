@@ -1,0 +1,4 @@
+30c30
+<     DateFormatValidationResult(boolean isValid, Message validationInformation, Object... infoArgs) {
+---
+>     DateFormatValidationResult(boolean isValid, Message validationInformation , Object... infoArgs) {

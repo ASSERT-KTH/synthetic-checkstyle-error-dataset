@@ -1,0 +1,4 @@
+176c176
+<             return NullValueCheckStrategyPrism.valueOf( mapperPrism.nullValueCheckStrategy() );
+---
+>             return NullValueCheckStrategyPrism.valueOf( mapperPrism. nullValueCheckStrategy() );

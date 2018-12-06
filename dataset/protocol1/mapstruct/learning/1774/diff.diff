@@ -1,0 +1,5 @@
+12,13c12
+<  * The generated Immutables also have a from that works as a copy. Our default strategy considers this method
+<  * as a setter with a name {@code from}. Therefore we are ignoring it.
+---
+>  * The generated Immutables also have a from that works as a copy. Our default strategy considers this method * as a setter with a name {@code from}. Therefore we are ignoring it.

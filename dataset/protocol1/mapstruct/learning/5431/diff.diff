@@ -1,0 +1,5 @@
+15,16c15
+<     public static final String STREAM_FQN = "java.util.stream.Stream";
+<     public static final String COLLECTORS_FQN = "java.util.stream.Collectors";
+---
+>     public static final String STREAM_FQN = "java.util.stream.Stream";    public static final String COLLECTORS_FQN = "java.util.stream.Collectors";

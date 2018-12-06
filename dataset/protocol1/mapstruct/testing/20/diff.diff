@@ -1,0 +1,4 @@
+58c58
+<     protected List<Annotation> getDelegatorReferenceAnnotations(Mapper mapper) {
+---
+>     protected List<Annotation> getDelegatorReferenceAnnotations(Mapper mapper	) {

@@ -1,0 +1,4 @@
+116c116
+<     private final boolean customImplName;
+---
+>     private final boolean 	customImplName;

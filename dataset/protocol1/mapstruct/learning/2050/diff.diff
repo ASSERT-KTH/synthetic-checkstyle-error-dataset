@@ -1,0 +1,4 @@
+36c36
+<         if ( constructor instanceof NoArgumentConstructor ) {
+---
+>         if ( constructor instanceof NoArgumentConstructor 	) {

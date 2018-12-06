@@ -1,0 +1,5 @@
+49,50c49
+<      *
+<      * @see AstModifyingAnnotationProcessor
+---
+>      *     * @see AstModifyingAnnotationProcessor

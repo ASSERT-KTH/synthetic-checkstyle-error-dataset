@@ -1,0 +1,4 @@
+364c364
+<         this.nullValueCheckStrategy = mapping.nullValueCheckStrategy;
+---
+>         	this.nullValueCheckStrategy = mapping.nullValueCheckStrategy;

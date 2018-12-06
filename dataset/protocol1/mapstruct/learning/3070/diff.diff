@@ -1,0 +1,4 @@
+202c202
+<     public Type getResultType() {
+---
+>     public 	Type getResultType() {

@@ -1,0 +1,4 @@
+36c36
+<         return enumType.getName() + "." + getAssignment();
+---
+>         return enumType.getName() + 	"." + getAssignment();

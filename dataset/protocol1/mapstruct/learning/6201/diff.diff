@@ -1,0 +1,4 @@
+33c33
+<             && method.getResultType().isEnumType();
+---
+>             && method. getResultType().isEnumType();

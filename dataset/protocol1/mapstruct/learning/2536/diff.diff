@@ -1,0 +1,4 @@
+367c367
+<                 PropertyEntry newPropertyEntry = propertyEntry.pop();
+---
+>                 PropertyEntry newPropertyEntry = propertyEntry.pop ();

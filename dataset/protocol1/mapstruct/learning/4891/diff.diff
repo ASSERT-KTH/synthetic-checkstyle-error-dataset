@@ -1,0 +1,5 @@
+18c18,19
+<     public static final String OPTIONAL_FQN = "java.util.Optional";
+---
+>     public static final String 
+> OPTIONAL_FQN = "java.util.Optional";

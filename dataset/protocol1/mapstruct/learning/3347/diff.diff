@@ -1,0 +1,5 @@
+838,839c838
+<      * Returns the length of the shortest path in the type hierarchy between this type and the specified other type.
+<      * Returns {@code -1} if this type is not assignable to the other type. Returns {@code 0} if this type is equal to
+---
+>      * Returns the length of the shortest path in the type hierarchy between this type and the specified other type.     * Returns {@code -1} if this type is not assignable to the other type. Returns {@code 0} if this type is equal to

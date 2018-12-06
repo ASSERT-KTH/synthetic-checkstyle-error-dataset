@@ -1,0 +1,4 @@
+38c38
+<         result.addAll( importTypes );
+---
+>         result.addAll( importTypes ) ;

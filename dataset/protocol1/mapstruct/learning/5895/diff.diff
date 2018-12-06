@@ -1,0 +1,5 @@
+34c34,35
+<         this.parameter = new Parameter( "numberFormat", typeFactory.getType( String.class ) );
+---
+>         this.parameter = new Parameter( "numberFormat", typeFactory.getType( String.class 
+> ) );

@@ -1,0 +1,5 @@
+90c90,91
+<         String sourceParamSafeName = Strings.getSafeVariableName( sourceParamName );
+---
+>         String 
+> sourceParamSafeName = Strings.getSafeVariableName( sourceParamName );

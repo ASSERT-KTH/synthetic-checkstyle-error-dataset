@@ -1,0 +1,4 @@
+646c646
+<             return forgeWithElementMapping( sourceType, targetType, source, element, builder );
+---
+>             return forgeWithElementMapping( sourceType, targetType, source, element, builder ) ;

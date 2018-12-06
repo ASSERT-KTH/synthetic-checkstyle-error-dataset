@@ -1,0 +1,4 @@
+29c29
+<     private GraphAnalyzer(Map<String, Node> nodes) {
+---
+>     private GraphAnalyzer (Map<String, Node> nodes) {

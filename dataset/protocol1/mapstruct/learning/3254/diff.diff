@@ -1,0 +1,4 @@
+48c48
+<                     result.remove( parentExceptionType );
+---
+>                     result.remove(parentExceptionType );

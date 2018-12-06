@@ -1,0 +1,4 @@
+38c38
+<         this( sourceReference, sourceReference, null, sourceType, existingVariableNames, sourceErrorMessagePart );
+---
+>         this( 	sourceReference, sourceReference, null, sourceType, existingVariableNames, sourceErrorMessagePart );

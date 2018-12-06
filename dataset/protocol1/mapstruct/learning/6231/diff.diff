@@ -1,0 +1,5 @@
+543c543,544
+<     private MappingOptions getInverseMappingOptions(List<SourceMethod> rawMethods, SourceMethod method,
+---
+>     private MappingOptions getInverseMappingOptions(List<SourceMethod> rawMethods, SourceMethod 
+> method,

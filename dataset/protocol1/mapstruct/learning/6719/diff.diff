@@ -1,0 +1,5 @@
+40c40,41
+<         Set<T> set = new HashSet<>( collection );
+---
+>         Set<T> set = new HashSet<>( collection )
+> ;

@@ -1,0 +1,5 @@
+162c162,163
+<         String version = manifest.getMainAttributes().getValue( "Bundle-Version" );
+---
+>         String version = manifest.getMainAttributes().getValue
+> ( "Bundle-Version" );

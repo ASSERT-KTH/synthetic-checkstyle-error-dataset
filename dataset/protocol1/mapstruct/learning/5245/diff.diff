@@ -1,0 +1,4 @@
+110c110
+<                             || typeName.equals( targetType.getFullyQualifiedName() ) ) {
+---
+>                             || typeName.equals( targetType. getFullyQualifiedName() ) ) {

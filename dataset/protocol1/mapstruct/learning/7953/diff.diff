@@ -1,0 +1,4 @@
+73c73
+<     void setAssignment(Assignment assignment);
+---
+>     void setAssignment (Assignment assignment);

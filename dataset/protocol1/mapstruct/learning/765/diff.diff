@@ -1,0 +1,5 @@
+22c22,23
+<     public SupportingField(SupportingMappingMethod definingMethod, BuiltInFieldReference fieldReference, String name) {
+---
+>     public 
+> SupportingField(SupportingMappingMethod definingMethod, BuiltInFieldReference fieldReference, String name) {

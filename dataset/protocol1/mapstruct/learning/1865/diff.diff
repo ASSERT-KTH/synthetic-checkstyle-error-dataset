@@ -1,0 +1,4 @@
+65c65
+<         return node != null ? node.getTraversalSequence() : -1;
+---
+>         return node != null 	? node.getTraversalSequence() : -1;

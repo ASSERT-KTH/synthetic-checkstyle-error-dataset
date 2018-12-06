@@ -1,0 +1,4 @@
+51c51
+<     void printMessage(Element e, AnnotationMirror a, Message msg, Object... args);
+---
+>     void printMessage(Element e, AnnotationMirror a, Message msg, Object... 	args);

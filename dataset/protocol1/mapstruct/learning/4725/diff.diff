@@ -1,0 +1,5 @@
+221c221,222
+<             return mapNullToDefault == NullValueMappingStrategyPrism.RETURN_DEFAULT;
+---
+>             return mapNullToDefault 
+> == NullValueMappingStrategyPrism.RETURN_DEFAULT;

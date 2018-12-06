@@ -1,0 +1,4 @@
+49c49
+<     public boolean isAlwaysGenerateSpi() {
+---
+>     public boolean isAlwaysGenerateSpi () {

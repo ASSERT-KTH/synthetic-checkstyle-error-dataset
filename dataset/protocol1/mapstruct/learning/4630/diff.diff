@@ -1,0 +1,4 @@
+81c81
+<             cycles.add( getCurrentCycle( node ) );
+---
+>             cycles.add( getCurrentCycle( 	node ) );

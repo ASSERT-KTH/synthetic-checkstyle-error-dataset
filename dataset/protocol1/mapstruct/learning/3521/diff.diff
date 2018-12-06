@@ -1,0 +1,4 @@
+56c56
+<     @GeneratePrism(value = ObjectFactory.class, publicAccess = true),
+---
+>     @GeneratePrism(value =ObjectFactory.class, publicAccess = true),

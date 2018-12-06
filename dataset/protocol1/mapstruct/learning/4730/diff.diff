@@ -1,0 +1,5 @@
+65,66c65
+<     /**
+<      * If this method returns {@code true} then {@link #hasInitialCapacityConstructor()} also returns {@code true}
+---
+>     /**     * If this method returns {@code true} then {@link #hasInitialCapacityConstructor()} also returns {@code true}

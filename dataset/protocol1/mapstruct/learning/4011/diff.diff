@@ -1,0 +1,5 @@
+44,45c44
+<         astModifyingAnnotationProcessors = java.util.Collections.unmodifiableList(
+<                 findAstModifyingAnnotationProcessors() );
+---
+>         astModifyingAnnotationProcessors = java.util.Collections.unmodifiableList(                findAstModifyingAnnotationProcessors() );

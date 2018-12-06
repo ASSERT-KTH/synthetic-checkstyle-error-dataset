@@ -1,0 +1,4 @@
+22c22
+< public class SetterWrapper extends AssignmentWrapper {
+---
+> public class SetterWrapper 	extends AssignmentWrapper {

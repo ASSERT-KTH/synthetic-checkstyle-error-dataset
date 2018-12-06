@@ -1,0 +1,4 @@
+43c43
+<                 + ".ofPattern( \"" + conversionContext.getDateFormat()
+---
+>                 + ".ofPattern( \"" + conversionContext.getDateFormat ()

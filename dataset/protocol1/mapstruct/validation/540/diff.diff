@@ -1,0 +1,5 @@
+204c204,205
+<                 public DeclaredType visitDeclared(DeclaredType t, Void p) {
+---
+>                 public DeclaredType visitDeclared(DeclaredType 
+> t, Void p) {

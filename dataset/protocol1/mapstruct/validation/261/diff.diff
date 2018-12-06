@@ -1,0 +1,5 @@
+51,52c51
+<         else if ( isPresenceCheckMethod( method ) ) {
+<             return MethodType.PRESENCE_CHECKER;
+---
+>         else if ( isPresenceCheckMethod( method ) ) {            return MethodType.PRESENCE_CHECKER;

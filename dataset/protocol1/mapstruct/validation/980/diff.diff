@@ -1,0 +1,5 @@
+157c157,158
+<                         ForgedMethodHistory history = ( (ForgedMethod) method ).getHistory();
+---
+>                         ForgedMethodHistory history = ( (ForgedMethod) method ).getHistory()
+> ;

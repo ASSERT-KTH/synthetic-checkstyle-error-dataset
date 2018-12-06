@@ -1,0 +1,4 @@
+117c117
+<     public synchronized void init(ProcessingEnvironment processingEnv) {
+---
+>     public synchronized void init (ProcessingEnvironment processingEnv) {

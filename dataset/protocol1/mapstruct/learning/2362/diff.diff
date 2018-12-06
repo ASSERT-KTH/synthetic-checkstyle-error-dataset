@@ -1,0 +1,5 @@
+186,187c186
+<      * E.q. for the name {@code props.font} it will return an {@link Iterable} containing the {@code props} and
+<      * {@code font}
+---
+>      * E.q. for the name {@code props.font} it will return an {@link Iterable} containing the {@code props} and     * {@code font}

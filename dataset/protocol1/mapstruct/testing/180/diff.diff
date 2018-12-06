@@ -1,0 +1,5 @@
+40,41c40
+<         TypeMirror qualifyingTypeMirror = criteria.getQualifyingResultType();
+<         if ( qualifyingTypeMirror != null && !criteria.isLifecycleCallbackRequired() ) {
+---
+>         TypeMirror qualifyingTypeMirror = criteria.getQualifyingResultType();        if ( qualifyingTypeMirror != null && !criteria.isLifecycleCallbackRequired() ) {

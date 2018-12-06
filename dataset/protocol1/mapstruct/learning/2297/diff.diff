@@ -1,0 +1,5 @@
+65,66c65
+<     public boolean matches(List<Type> sourceTypes, Type targetType) {
+<         if ( sourceTypes.size() != 1 ) {
+---
+>     public boolean matches(List<Type> sourceTypes, Type targetType) {        if ( sourceTypes.size() != 1 ) {

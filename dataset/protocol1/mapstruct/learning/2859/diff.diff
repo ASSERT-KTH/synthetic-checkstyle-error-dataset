@@ -1,0 +1,5 @@
+264,265c264
+<     public boolean isLifecycleCallbackMethod() {
+<         return false;
+---
+>     public boolean isLifecycleCallbackMethod() {        return false;

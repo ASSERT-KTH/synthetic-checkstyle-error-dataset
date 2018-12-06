@@ -1,0 +1,4 @@
+51c51
+<     PROPERTYMAPPING_IGNORE_AND_NVPMS( "Ignore and nullValuePropertyMappingStrategy are both defined in @Mapping, either define ignore or an nullValuePropertyMappingStrategy." ),
+---
+>     PROPERTYMAPPING_IGNORE_AND_NVPMS( 	"Ignore and nullValuePropertyMappingStrategy are both defined in @Mapping, either define ignore or an nullValuePropertyMappingStrategy." ),

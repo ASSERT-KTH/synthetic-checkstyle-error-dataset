@@ -1,0 +1,4 @@
+22c22
+<     private final Type buildingType;
+---
+>     private 	final Type buildingType;

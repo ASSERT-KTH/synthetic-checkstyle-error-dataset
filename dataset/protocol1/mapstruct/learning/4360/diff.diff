@@ -1,0 +1,5 @@
+72,73c72
+<                 targets.add( supportingMappingMethod.getSupportingField() );
+<             }
+---
+>                 targets.add( supportingMappingMethod.getSupportingField() );            }

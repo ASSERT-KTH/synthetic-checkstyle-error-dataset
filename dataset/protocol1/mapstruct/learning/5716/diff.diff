@@ -1,0 +1,4 @@
+431c431
+<         if ( parameterType.isIterableOrStreamType() && !resultType.isIterableOrStreamType() ) {
+---
+>         if ( parameterType. isIterableOrStreamType() && !resultType.isIterableOrStreamType() ) {

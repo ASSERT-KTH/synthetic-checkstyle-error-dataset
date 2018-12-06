@@ -1,0 +1,4 @@
+257c257
+<                             if ( !visit( t.getTypeArguments().get( i ), t1.getTypeArguments().get( i ) ) ) {
+---
+>                             if ( !visit( t.getTypeArguments().get( i ), t1.getTypeArguments().get( i ) ) 	) {

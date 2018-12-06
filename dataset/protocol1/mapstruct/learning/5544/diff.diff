@@ -1,0 +1,4 @@
+43c43
+<             set.addAll( element );
+---
+>             set.addAll ( element );

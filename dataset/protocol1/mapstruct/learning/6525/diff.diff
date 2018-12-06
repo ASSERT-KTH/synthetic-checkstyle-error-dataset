@@ -1,0 +1,4 @@
+78c78
+< public @interface ValueMapping {
+---
+> public @	interface ValueMapping {

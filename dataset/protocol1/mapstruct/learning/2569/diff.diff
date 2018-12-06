@@ -1,0 +1,5 @@
+172,173c172
+<      * @return The strategy to use for applying {@code @Mapping} configurations of prototype methods in the interface
+<      * specified with {@link #config()}.
+---
+>      * @return The strategy to use for applying {@code @Mapping} configurations of prototype methods in the interface     * specified with {@link #config()}.

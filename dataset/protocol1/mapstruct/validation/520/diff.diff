@@ -1,0 +1,5 @@
+30,31c30
+<      * Whether the specified type has been fully processed by this processor or not (i.e. this processor will amend the
+<      * given type's structure after this invocation).
+---
+>      * Whether the specified type has been fully processed by this processor or not (i.e. this processor will amend the     * given type's structure after this invocation).

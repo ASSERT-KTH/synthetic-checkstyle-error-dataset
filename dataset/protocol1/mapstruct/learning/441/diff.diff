@@ -1,0 +1,4 @@
+11c11
+< public final class JaxbConstants {
+---
+> 	public final class JaxbConstants {

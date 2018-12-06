@@ -1,0 +1,5 @@
+104c104,105
+<     public AssignmentType getType() {
+---
+>     public AssignmentType getType
+> () {

@@ -1,0 +1,5 @@
+205c205,206
+<                         if ( propertyMapping != null ) {
+---
+>                         if ( propertyMapping != null 
+> ) {

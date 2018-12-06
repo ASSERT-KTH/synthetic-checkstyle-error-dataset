@@ -1,0 +1,5 @@
+52,53c52
+<         public Builder mappingContext(MappingBuilderContext mappingContext) {
+<             this.ctx = mappingContext;
+---
+>         public Builder mappingContext(MappingBuilderContext mappingContext) {            this.ctx = mappingContext;

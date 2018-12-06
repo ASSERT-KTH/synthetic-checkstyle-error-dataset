@@ -1,0 +1,4 @@
+35c35
+<     TypeFactory getTypeFactory();
+---
+>     TypeFactory getTypeFactory(	);

@@ -1,0 +1,4 @@
+60c60
+<             List<EnumMapping> enumMappings = new ArrayList<>();
+---
+>             	List<EnumMapping> enumMappings = new ArrayList<>();

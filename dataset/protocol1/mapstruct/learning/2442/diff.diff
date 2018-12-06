@@ -1,0 +1,4 @@
+142c142
+<         List<LifecycleCallbackMethodReference> afterMappingMethods = LifecycleMethodResolver.afterMappingMethods(
+---
+>         List<LifecycleCallbackMethodReference	> afterMappingMethods = LifecycleMethodResolver.afterMappingMethods(

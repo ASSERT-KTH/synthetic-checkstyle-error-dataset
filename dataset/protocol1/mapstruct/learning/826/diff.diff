@@ -1,0 +1,5 @@
+20,21c20
+< import static java.util.Arrays.asList;
+< import static org.mapstruct.ap.internal.util.Collections.asSet;
+---
+> import static java.util.Arrays.asList;import static org.mapstruct.ap.internal.util.Collections.asSet;

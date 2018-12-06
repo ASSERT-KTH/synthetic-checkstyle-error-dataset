@@ -1,0 +1,5 @@
+47,48c47
+< import org.mapstruct.ap.internal.util.Collections;
+< import org.mapstruct.ap.internal.util.FormattingMessager;
+---
+> import org.mapstruct.ap.internal.util.Collections;import org.mapstruct.ap.internal.util.FormattingMessager;

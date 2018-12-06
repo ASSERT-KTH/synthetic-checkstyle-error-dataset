@@ -1,0 +1,5 @@
+46c46,47
+<     @GeneratePrism(value = BeanMapping.class, publicAccess = true),
+---
+>     
+> @GeneratePrism(value = BeanMapping.class, publicAccess = true),

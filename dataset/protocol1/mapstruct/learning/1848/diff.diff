@@ -1,0 +1,4 @@
+88c88
+<             Class<T> implementation = (Class<T>) classLoader.loadClass( clazz.getName() + IMPLEMENTATION_SUFFIX );
+---
+>             Class<T> implementation = (Class<T>) classLoader. loadClass( clazz.getName() + IMPLEMENTATION_SUFFIX );

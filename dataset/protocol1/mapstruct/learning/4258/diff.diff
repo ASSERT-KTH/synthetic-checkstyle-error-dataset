@@ -1,0 +1,4 @@
+30c30
+< public class MapperServiceProcessor  implements ModelElementProcessor<Mapper, Void> {
+---
+> public class MapperServiceProcessor  implements ModelElementProcessor<Mapper, Void>{

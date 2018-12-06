@@ -1,0 +1,4 @@
+55c55
+<     public Type getAdderType() {
+---
+>     public 	Type getAdderType() {

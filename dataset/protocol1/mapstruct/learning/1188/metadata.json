@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "51", "column": "38", "message": "Must have at least one statement.", "type": "EmptyBlock"}

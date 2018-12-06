@@ -1,0 +1,5 @@
+17c17,18
+< import org.mapstruct.ap.internal.model.ServicesEntry;
+---
+> import org.mapstruct.ap.internal.model.ServicesEntry
+> ;

@@ -1,0 +1,5 @@
+96c96,97
+<                                        boolean preferUpdateMethods, AnnotationMirror mirror);
+---
+>                                        boolean preferUpdateMethods, AnnotationMirror mirror)
+> ;

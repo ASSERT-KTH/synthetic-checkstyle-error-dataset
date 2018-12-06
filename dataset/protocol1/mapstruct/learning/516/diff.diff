@@ -1,0 +1,5 @@
+49,50c49
+<             classLoader = new URLClassLoader(
+<                 ( (URLClassLoader) EclipseClassLoaderBridge.class.getClassLoader() ).getURLs(),
+---
+>             classLoader = new URLClassLoader(                ( (URLClassLoader) EclipseClassLoaderBridge.class.getClassLoader() ).getURLs(),

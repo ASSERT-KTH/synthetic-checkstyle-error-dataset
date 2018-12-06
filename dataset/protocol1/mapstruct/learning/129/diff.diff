@@ -1,0 +1,4 @@
+39c39
+<     public static GraphAnalyzerBuilder withNode(String name, String... descendants) {
+---
+>     public static GraphAnalyzerBuilder withNode(String name , String... descendants) {

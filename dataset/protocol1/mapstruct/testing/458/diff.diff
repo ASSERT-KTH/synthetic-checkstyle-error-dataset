@@ -1,0 +1,4 @@
+37c37
+<         else if ( modifiers.contains( Modifier.PRIVATE ) ) {
+---
+>         else if( modifiers.contains( Modifier.PRIVATE ) ) {

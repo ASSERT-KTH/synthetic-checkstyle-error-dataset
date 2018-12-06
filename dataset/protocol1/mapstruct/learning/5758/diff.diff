@@ -1,0 +1,5 @@
+673,674c673
+<         /**
+<          * If a single target mapping has a valid {@link SourceReference} and the {@link SourceReference} has more
+---
+>         /**         * If a single target mapping has a valid {@link SourceReference} and the {@link SourceReference} has more

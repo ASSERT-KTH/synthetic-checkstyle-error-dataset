@@ -1,0 +1,4 @@
+37c37
+<         return decoratedAssignment.getThrownTypes();
+---
+>         	return decoratedAssignment.getThrownTypes();

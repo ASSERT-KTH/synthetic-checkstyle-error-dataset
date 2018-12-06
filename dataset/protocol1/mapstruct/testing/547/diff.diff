@@ -1,0 +1,5 @@
+18c18,19
+<     public void write(Context context, Writer writer) throws Exception {
+---
+>     public void write(Context context, Writer writer) throws 
+> Exception {

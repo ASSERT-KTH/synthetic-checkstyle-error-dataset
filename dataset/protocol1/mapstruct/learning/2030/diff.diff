@@ -1,0 +1,5 @@
+13,14c13
+< import org.mapstruct.ap.internal.model.source.builtin.NewDatatypeFactoryConstructorFragment;
+< import org.mapstruct.ap.internal.util.Strings;
+---
+> import org.mapstruct.ap.internal.model.source.builtin.NewDatatypeFactoryConstructorFragment;import org.mapstruct.ap.internal.util.Strings;

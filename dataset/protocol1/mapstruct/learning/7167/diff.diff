@@ -1,0 +1,4 @@
+19c19
+< public class Java8FunctionWrapper extends AssignmentWrapper {
+---
+> public 	class Java8FunctionWrapper extends AssignmentWrapper {

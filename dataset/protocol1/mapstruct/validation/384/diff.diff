@@ -1,0 +1,4 @@
+154c154
+<     public static String simpleDateFormat(ConversionContext conversionContext) {
+---
+>     public 	static String simpleDateFormat(ConversionContext conversionContext) {

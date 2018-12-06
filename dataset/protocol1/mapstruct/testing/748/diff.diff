@@ -1,0 +1,4 @@
+21c21
+< public class LocalVarWrapper extends AssignmentWrapper {
+---
+> public 	class LocalVarWrapper extends AssignmentWrapper {

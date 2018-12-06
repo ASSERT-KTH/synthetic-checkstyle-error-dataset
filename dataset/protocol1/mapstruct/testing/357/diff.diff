@@ -1,0 +1,5 @@
+14,15c14
+<  * This exception can be used to signal the MapStruct processor to postpone the generation of the mappers to the next
+<  * round
+---
+>  * This exception can be used to signal the MapStruct processor to postpone the generation of the mappers to the next * round

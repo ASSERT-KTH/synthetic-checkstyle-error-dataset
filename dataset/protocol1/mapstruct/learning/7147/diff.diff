@@ -1,0 +1,5 @@
+56,57c56
+<     public boolean isSetterMethod(Accessor method) {
+<         ExecutableElement executable = method.getExecutable();
+---
+>     public boolean isSetterMethod(Accessor method) {        ExecutableElement executable = method.getExecutable();

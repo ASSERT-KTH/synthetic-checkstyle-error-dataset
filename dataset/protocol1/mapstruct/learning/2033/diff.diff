@@ -1,0 +1,5 @@
+58c58,59
+<             final List<Type> thrownTypes = new ArrayList<>();
+---
+>             final List<Type> thrownTypes = new ArrayList<>
+> ();

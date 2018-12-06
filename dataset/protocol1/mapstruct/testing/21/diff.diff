@@ -1,0 +1,5 @@
+17,18c17
+<  * A {@link ModelElementProcessor} which converts the given {@link Mapper}
+<  * object into a Spring bean in case Spring is configured as the
+---
+>  * A {@link ModelElementProcessor} which converts the given {@link Mapper} * object into a Spring bean in case Spring is configured as the

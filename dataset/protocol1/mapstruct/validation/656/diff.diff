@@ -1,0 +1,4 @@
+116c116
+<     private static List<LifecycleCallbackMethodReference> toLifecycleCallbackMethodRefs(Method method,
+---
+>     private static List<LifecycleCallbackMethodReference> toLifecycleCallbackMethodRefs(	Method method,

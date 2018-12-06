@@ -1,0 +1,4 @@
+86c86
+<     R process(ProcessorContext context, TypeElement mapperTypeElement, P sourceModel);
+---
+>     R process(ProcessorContext context, TypeElement mapperTypeElement, 	P sourceModel);

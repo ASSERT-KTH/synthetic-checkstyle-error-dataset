@@ -1,0 +1,5 @@
+123c123,124
+<             names.add( field.getVariableName() );
+---
+>             names.add( field.getVariableName() 
+> );

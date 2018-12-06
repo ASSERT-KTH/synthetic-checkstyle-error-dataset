@@ -1,0 +1,5 @@
+20,21c20
+< import org.mapstruct.MapMapping;
+< import org.mapstruct.Mapper;
+---
+> import org.mapstruct.MapMapping;import org.mapstruct.Mapper;

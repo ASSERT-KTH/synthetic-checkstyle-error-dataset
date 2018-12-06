@@ -1,0 +1,5 @@
+14c14,15
+<     protected String defaultFormatterSuffix() {
+---
+>     protected String defaultFormatterSuffix
+> () {

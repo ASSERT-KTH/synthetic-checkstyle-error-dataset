@@ -1,0 +1,4 @@
+92c92
+<             URL url = getClass().getClassLoader().getResource( String.valueOf( name ) );
+---
+>             URL url = getClass().getClassLoader().getResource( String. valueOf( name ) );

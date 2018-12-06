@@ -1,0 +1,4 @@
+91c91
+<             String match = replaceRule.apply( plural );
+---
+>             String match = replaceRule.apply( plural 	);

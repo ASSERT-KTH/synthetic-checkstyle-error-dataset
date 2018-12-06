@@ -1,0 +1,4 @@
+16c16
+< public enum ReportingPolicy {
+---
+> public enum 	ReportingPolicy {

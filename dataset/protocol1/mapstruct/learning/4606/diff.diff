@@ -1,0 +1,5 @@
+162c162,163
+<         List<ExecutableElement> methods = ElementFilter.methodsIn( typeElement.getEnclosedElements() );
+---
+>         List<ExecutableElement> methods = ElementFilter.methodsIn
+> ( typeElement.getEnclosedElements() );

@@ -1,0 +1,4 @@
+158c158
+<             this.supportingMethodCandidates = new HashSet<>();
+---
+>             this	.supportingMethodCandidates = new HashSet<>();

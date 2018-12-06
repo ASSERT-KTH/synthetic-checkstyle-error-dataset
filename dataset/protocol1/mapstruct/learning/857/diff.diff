@@ -1,0 +1,4 @@
+18c18
+<         XmlConstants.class.getClassLoader()
+---
+>         	XmlConstants.class.getClassLoader()

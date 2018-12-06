@@ -1,0 +1,4 @@
+25c25
+<     public static boolean isJaxbElementPresent() {
+---
+>     public static boolean isJaxbElementPresent () {

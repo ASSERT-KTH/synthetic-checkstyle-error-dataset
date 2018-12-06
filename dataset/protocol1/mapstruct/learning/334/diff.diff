@@ -1,0 +1,4 @@
+154c154
+<             this.methods = filterPossibleCandidateMethods( sourceModel );
+---
+>             this.methods = filterPossibleCandidateMethods( sourceModel ) ;

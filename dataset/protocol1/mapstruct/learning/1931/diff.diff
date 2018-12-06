@@ -1,0 +1,5 @@
+45c45,46
+<         this.openExpression = expression.substring( 0, patternIndex );
+---
+>         this.openExpression = expression.substring( 0
+> , patternIndex );

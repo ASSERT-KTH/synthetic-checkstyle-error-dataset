@@ -1,0 +1,4 @@
+260c260
+<             register( BigInteger.class, targetType, new BigIntegerToPrimitiveConversion( targetType ) );
+---
+>             register( BigInteger.class, targetType, 	new BigIntegerToPrimitiveConversion( targetType ) );

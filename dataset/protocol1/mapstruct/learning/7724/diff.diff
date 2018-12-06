@@ -1,0 +1,4 @@
+141c141
+<                 if ( enclosed.getKind().equals( ElementKind.FIELD )
+---
+>                 if ( enclosed.getKind().equals( ElementKind	.FIELD )

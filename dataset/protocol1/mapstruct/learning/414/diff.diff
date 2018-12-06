@@ -1,0 +1,5 @@
+195c195,196
+<             String fullFileName = file.substring( 0, excl );
+---
+>             String fullFileName = 
+> file.substring( 0, excl );

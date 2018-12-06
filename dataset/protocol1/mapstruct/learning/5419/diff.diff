@@ -1,0 +1,4 @@
+23c23
+<     public BuilderInfo findBuilderInfo(TypeMirror type) {
+---
+>     public BuilderInfo 	findBuilderInfo(TypeMirror type) {

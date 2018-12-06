@@ -1,0 +1,4 @@
+69c69
+<     private static final List<ReplaceRule> SINGULAR_DALI_RULES = Arrays.asList(
+---
+>     private static final List<ReplaceRule> SINGULAR_DALI_RULES = 	Arrays.asList(

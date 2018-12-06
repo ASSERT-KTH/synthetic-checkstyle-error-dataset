@@ -1,0 +1,5 @@
+93c93,94
+<         this.builtInMethods = new BuiltInMappingMethods( typeFactory );
+---
+>         this.builtInMethods = new BuiltInMappingMethods
+> ( typeFactory );

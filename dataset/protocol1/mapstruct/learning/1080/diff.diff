@@ -1,0 +1,4 @@
+18c18
+<     public static final FormattingParameters EMPTY = new FormattingParameters( null, null, null, null, null );
+---
+>     public static final FormattingParameters EMPTY = new FormattingParameters( null, null , null, null, null );

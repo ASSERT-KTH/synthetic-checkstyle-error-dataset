@@ -1,0 +1,4 @@
+58c58
+< public @interface ObjectFactory {
+---
+> public @	interface ObjectFactory {

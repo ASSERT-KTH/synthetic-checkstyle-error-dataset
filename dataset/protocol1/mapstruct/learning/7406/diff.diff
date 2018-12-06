@@ -1,0 +1,4 @@
+300c300
+<         return conversions.get( new Key( sourceType, targetType ) );
+---
+>         return conversions.get( new Key( sourceType , targetType ) );

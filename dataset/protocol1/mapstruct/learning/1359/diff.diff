@@ -1,0 +1,5 @@
+6c6,7
+< package org.mapstruct.ap.internal.model.source.builtin;
+---
+> package 
+> org.mapstruct.ap.internal.model.source.builtin;

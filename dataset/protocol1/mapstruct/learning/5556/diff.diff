@@ -1,0 +1,5 @@
+244c244,245
+<             if (factoryMethod != null && method instanceof ForgedMethod ) {
+---
+>             if (factoryMethod != 
+> null && method instanceof ForgedMethod ) {

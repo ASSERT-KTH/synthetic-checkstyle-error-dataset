@@ -1,0 +1,5 @@
+104c104,105
+<         List<MapperReference> mapperReferences = new ArrayList<>();
+---
+>         List<MapperReference> mapperReferences = new 
+> ArrayList<>();

@@ -1,0 +1,4 @@
+60c60
+<     private Writable getModelElement(Map params) {
+---
+>     private Writable getModelElement (Map params) {

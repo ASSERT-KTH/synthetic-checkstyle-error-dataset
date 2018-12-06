@@ -1,0 +1,4 @@
+12c12
+< import org.mapstruct.ap.internal.util.accessor.Accessor;
+---
+> import org.mapstruct.ap.internal.util	.accessor.Accessor;

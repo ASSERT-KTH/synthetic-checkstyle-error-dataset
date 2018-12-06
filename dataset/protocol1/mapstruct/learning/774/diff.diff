@@ -1,0 +1,4 @@
+195c195
+<         List<String> nameList = new ArrayList<>();
+---
+>         List<String> nameList = new ArrayList<> ();

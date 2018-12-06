@@ -1,0 +1,4 @@
+15c15
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.time;
+---
+> import static org. mapstruct.ap.internal.conversion.ConversionUtils.time;

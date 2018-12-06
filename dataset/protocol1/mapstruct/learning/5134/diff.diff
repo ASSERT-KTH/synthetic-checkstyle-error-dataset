@@ -1,0 +1,4 @@
+18c18
+< import org.mapstruct.ap.internal.util.XmlConstants;
+---
+> import org.mapstruct	.ap.internal.util.XmlConstants;

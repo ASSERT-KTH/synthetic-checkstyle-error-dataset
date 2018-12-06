@@ -1,0 +1,4 @@
+35c35
+<         return new ImplementationType( type, true, true );
+---
+>         	return new ImplementationType( type, true, true );

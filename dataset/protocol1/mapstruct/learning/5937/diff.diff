@@ -1,0 +1,5 @@
+26,27c26
+<     public AnnotationProcessingException(String message) {
+<         this( message, null, null, null );
+---
+>     public AnnotationProcessingException(String message) {        this( message, null, null, null );

@@ -1,0 +1,4 @@
+19c19
+<     WARN( Kind.WARNING, true, false ),
+---
+>     WARN( Kind.WARNING,true, false ),

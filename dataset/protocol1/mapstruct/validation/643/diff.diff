@@ -1,0 +1,5 @@
+152c152,153
+<         addNotYetOverridden( elementUtils, alreadyAdded, methodsIn( element.getEnclosedElements() ), parentType );
+---
+>         addNotYetOverridden
+> ( elementUtils, alreadyAdded, methodsIn( element.getEnclosedElements() ), parentType );

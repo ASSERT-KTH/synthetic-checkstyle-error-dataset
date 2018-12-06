@@ -1,0 +1,4 @@
+530c530
+<                     .mirror( mapping.getMirror() )
+---
+>                     .mirror( 	mapping.getMirror() )

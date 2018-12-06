@@ -1,0 +1,4 @@
+54c54
+<             builtInMethods.add( new JodaLocalDateToXmlGregorianCalendar( typeFactory ) );
+---
+>             builtInMethods.add( new JodaLocalDateToXmlGregorianCalendar( typeFactory ));

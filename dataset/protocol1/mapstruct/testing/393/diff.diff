@@ -1,0 +1,5 @@
+22,23c22
+<     public JodaDateTimeToXmlGregorianCalendar(TypeFactory typeFactory) {
+<         super( typeFactory );
+---
+>     public JodaDateTimeToXmlGregorianCalendar(TypeFactory typeFactory) {        super( typeFactory );

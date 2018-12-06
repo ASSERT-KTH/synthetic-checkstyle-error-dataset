@@ -1,0 +1,5 @@
+31c31,32
+< import org.mapstruct.ap.internal.util.AccessorNamingUtils;
+---
+> import 
+> org.mapstruct.ap.internal.util.AccessorNamingUtils;

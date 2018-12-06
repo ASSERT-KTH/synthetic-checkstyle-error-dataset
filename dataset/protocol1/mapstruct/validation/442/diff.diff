@@ -1,0 +1,5 @@
+520,521c520
+<             return implementation.createNew( replacement );
+<         }
+---
+>             return implementation.createNew( replacement );        }

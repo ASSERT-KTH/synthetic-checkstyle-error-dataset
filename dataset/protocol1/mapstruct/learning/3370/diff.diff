@@ -1,0 +1,4 @@
+96c96
+<         return findBuilderInfo( typeElement );
+---
+>         return findBuilderInfo( typeElement ) ;

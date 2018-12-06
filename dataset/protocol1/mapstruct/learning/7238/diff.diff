@@ -1,0 +1,4 @@
+149c149
+<                     PropertyMapping.TargetWriteAccessorType.isFieldAssignment( targetAccessorType ),
+---
+>                     PropertyMapping.TargetWriteAccessorType.isFieldAssignment(targetAccessorType ),

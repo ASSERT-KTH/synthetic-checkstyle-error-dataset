@@ -1,0 +1,4 @@
+141c141
+<                 delegate.printMessage( msg.getDiagnosticKind(), message, e, a );
+---
+>                 delegate.printMessage(msg.getDiagnosticKind(), message, e, a );

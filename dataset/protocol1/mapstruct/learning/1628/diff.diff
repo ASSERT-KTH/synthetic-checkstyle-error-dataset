@@ -1,0 +1,5 @@
+162c162,163
+<     protected abstract M instantiateMappingMethod(Method method, Collection<String> existingVariables,
+---
+>     protected abstract 
+> M instantiateMappingMethod(Method method, Collection<String> existingVariables,

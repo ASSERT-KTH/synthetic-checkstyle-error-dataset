@@ -1,0 +1,4 @@
+34c34
+<             typeFactory.getType( SimpleDateFormat.class ),
+---
+>             typeFactory.getType( SimpleDateFormat.class),

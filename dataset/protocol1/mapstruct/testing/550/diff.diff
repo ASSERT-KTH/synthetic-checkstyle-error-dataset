@@ -1,0 +1,5 @@
+21,22c21
+<  * Suppose: Sedan -&gt; Car -&gt; Vehicle, MotorCycle -&gt; Vehicle By means of this selector one can pinpoint the exact
+<  * desired return type (Sedan, Car, MotorCycle, Vehicle)
+---
+>  * Suppose: Sedan -&gt; Car -&gt; Vehicle, MotorCycle -&gt; Vehicle By means of this selector one can pinpoint the exact * desired return type (Sedan, Car, MotorCycle, Vehicle)

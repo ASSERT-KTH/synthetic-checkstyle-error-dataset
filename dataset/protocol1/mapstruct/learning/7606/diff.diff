@@ -1,0 +1,4 @@
+79c79
+<                     for ( Mapping mapping : mappedConstants ) {
+---
+>                     for( Mapping mapping : mappedConstants ) {

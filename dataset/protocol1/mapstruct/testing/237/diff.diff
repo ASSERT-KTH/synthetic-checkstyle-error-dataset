@@ -1,0 +1,5 @@
+109c109,110
+<             this.pattern = Pattern.compile( this.regexp, Pattern.CASE_INSENSITIVE );
+---
+>             this.pattern = Pattern.compile( 
+> this.regexp, Pattern.CASE_INSENSITIVE );

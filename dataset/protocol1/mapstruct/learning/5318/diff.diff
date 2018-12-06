@@ -1,0 +1,4 @@
+11c11
+< import org.mapstruct.ap.internal.writer.Writable;
+---
+> import 	org.mapstruct.ap.internal.writer.Writable;

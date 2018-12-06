@@ -1,0 +1,5 @@
+40c40,41
+<     Set<Modifier> getModifiers();
+---
+>     Set<Modifier> getModifiers
+> ();

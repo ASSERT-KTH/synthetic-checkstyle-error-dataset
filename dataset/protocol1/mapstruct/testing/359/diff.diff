@@ -1,0 +1,5 @@
+54c54,55
+<         new ReplaceRule( "(hive)s$", "$1" ),
+---
+>         new ReplaceRule( "(hive)s$", "$1" )
+> ,

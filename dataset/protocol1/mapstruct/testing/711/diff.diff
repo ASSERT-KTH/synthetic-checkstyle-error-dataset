@@ -1,0 +1,5 @@
+39,40c39
+<         new ReplaceRule( "(alias|status)es$", "$1" ),
+<         new ReplaceRule( "(octop|vir)us$", "$1us" ), // already singular, but ends in 's'
+---
+>         new ReplaceRule( "(alias|status)es$", "$1" ),        new ReplaceRule( "(octop|vir)us$", "$1us" ), // already singular, but ends in 's'

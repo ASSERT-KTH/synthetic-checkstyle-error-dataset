@@ -1,0 +1,4 @@
+292c292
+<             return typeUtils.getDeclaredType( (TypeElement) t.asElement() );
+---
+>             return typeUtils.getDeclaredType( (TypeElement) t.asElement() 	);

@@ -1,0 +1,5 @@
+26,27c26
+< import org.mapstruct.ap.internal.util.workarounds.TypesDecorator;
+< import org.mapstruct.ap.internal.version.VersionInformation;
+---
+> import org.mapstruct.ap.internal.util.workarounds.TypesDecorator;import org.mapstruct.ap.internal.version.VersionInformation;

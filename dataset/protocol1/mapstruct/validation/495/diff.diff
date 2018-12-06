@@ -1,0 +1,5 @@
+46,47c46
+<         private MappingBuilderContext ctx;
+<         private final List<ValueMapping> trueValueMappings = new ArrayList<>();
+---
+>         private MappingBuilderContext ctx;        private final List<ValueMapping> trueValueMappings = new ArrayList<>();

@@ -1,0 +1,4 @@
+344c344
+<         this.nullValuePropertyMappingStrategy = mapping.nullValuePropertyMappingStrategy;
+---
+>         this.nullValuePropertyMappingStrategy = mapping	.nullValuePropertyMappingStrategy;

@@ -1,0 +1,5 @@
+151c151,152
+<             return CollectionMappingStrategyPrism.valueOf( mapperPrism.collectionMappingStrategy() );
+---
+>             return CollectionMappingStrategyPrism.valueOf( mapperPrism.collectionMappingStrategy() )
+> ;

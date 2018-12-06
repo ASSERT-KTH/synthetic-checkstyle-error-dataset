@@ -1,0 +1,5 @@
+56c56,57
+<     private void writeToSourceFile(Filer filer, Mapper model) {
+---
+>     private void writeToSourceFile(Filer filer, 
+> Mapper model) {

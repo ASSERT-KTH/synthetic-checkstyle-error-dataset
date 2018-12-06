@@ -1,0 +1,5 @@
+121,122c121
+<             if ( !this.selectionParameters.equals( other.selectionParameters ) ) {
+<                 return false;
+---
+>             if ( !this.selectionParameters.equals( other.selectionParameters ) ) {                return false;

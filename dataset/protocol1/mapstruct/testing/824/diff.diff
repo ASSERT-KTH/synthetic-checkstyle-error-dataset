@@ -1,0 +1,4 @@
+41c41
+< @Retention(RetentionPolicy.CLASS)
+---
+> @Retention(RetentionPolicy.CLASS	)

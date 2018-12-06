@@ -1,0 +1,5 @@
+38c38,39
+<     public SetterWrapper(Assignment rhs, List<Type> thrownTypesToExclude, boolean fieldAssignment  ) {
+---
+>     public SetterWrapper(Assignment rhs, List<Type> thrownTypesToExclude
+> , boolean fieldAssignment  ) {

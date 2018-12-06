@@ -1,0 +1,5 @@
+109c109,110
+<         registerNativeTypeConversion( long.class, double.class );
+---
+>         registerNativeTypeConversion( long.class, double.
+> class );

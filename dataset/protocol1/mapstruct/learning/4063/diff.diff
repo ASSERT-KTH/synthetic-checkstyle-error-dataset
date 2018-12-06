@@ -1,0 +1,4 @@
+36c36
+<             return parameterType.isArrayType() ? parameterType.getComponentType() : first(
+---
+>             return parameterType.isArrayType() ? parameterType.getComponentType() : first (

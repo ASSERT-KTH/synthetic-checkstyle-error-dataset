@@ -1,0 +1,4 @@
+95c95
+<             Type returnClassType = typeFactory.classTypeOf( resultType );
+---
+>             Type returnClassType = 	typeFactory.classTypeOf( resultType );

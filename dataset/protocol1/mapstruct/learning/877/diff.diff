@@ -1,0 +1,4 @@
+114c114
+<         return typeElement != null ? typeElement.getQualifiedName().toString() : null;
+---
+>         return typeElement != null ? typeElement. getQualifiedName().toString() : null;

@@ -1,0 +1,5 @@
+618c618,619
+<             if ( "?".equals( wildCardName ) ) {
+---
+>             if ( 
+> "?".equals( wildCardName ) ) {

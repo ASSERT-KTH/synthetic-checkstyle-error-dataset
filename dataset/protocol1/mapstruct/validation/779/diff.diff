@@ -1,0 +1,4 @@
+211c211
+<         if ( declaredType == null ) {
+---
+>         if ( declaredType 	== null ) {

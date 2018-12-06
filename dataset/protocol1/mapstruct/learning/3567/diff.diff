@@ -1,0 +1,5 @@
+19,20c19
+<  * Any mappings given on the annotated method itself are added to those mappings inherited from the inverse method. In
+<  * case of a conflict local mappings take precedence over inherited mappings.
+---
+>  * Any mappings given on the annotated method itself are added to those mappings inherited from the inverse method. In * case of a conflict local mappings take precedence over inherited mappings.

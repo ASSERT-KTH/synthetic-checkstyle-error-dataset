@@ -1,0 +1,5 @@
+54,55c54
+<                 if ( immutableElement != null ) {
+<                     return super.findBuilderInfo( immutableElement );
+---
+>                 if ( immutableElement != null ) {                    return super.findBuilderInfo( immutableElement );

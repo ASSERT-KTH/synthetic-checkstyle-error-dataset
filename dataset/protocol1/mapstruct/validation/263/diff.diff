@@ -1,0 +1,4 @@
+122c122
+<         return typeReferenceName( conversionContext, Time.class );
+---
+>         return typeReferenceName( conversionContext, Time.class 	);

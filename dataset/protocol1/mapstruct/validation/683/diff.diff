@@ -1,0 +1,4 @@
+53c53
+<             this.hasDelegateConstructor = hasDelegateConstructor;
+---
+>             this.hasDelegateConstructor= hasDelegateConstructor;

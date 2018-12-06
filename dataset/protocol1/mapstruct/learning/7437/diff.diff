@@ -1,0 +1,4 @@
+13c13
+< public enum MethodType {
+---
+> public enum 	MethodType {

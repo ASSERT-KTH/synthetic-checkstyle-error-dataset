@@ -1,0 +1,5 @@
+106,107c106
+<         registerNativeTypeConversion( long.class, Long.class );
+<         registerNativeTypeConversion( long.class, float.class );
+---
+>         registerNativeTypeConversion( long.class, Long.class );        registerNativeTypeConversion( long.class, float.class );

@@ -1,0 +1,5 @@
+20c20,21
+<     public FinalField(Type type, String variableName) {
+---
+>     public FinalField(Type 
+> type, String variableName) {

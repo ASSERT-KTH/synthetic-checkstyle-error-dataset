@@ -1,0 +1,4 @@
+41c41
+<         this.methodReturnType = containingMethod.getReturnType();
+---
+>         this.methodReturnType =containingMethod.getReturnType();

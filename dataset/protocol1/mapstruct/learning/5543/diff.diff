@@ -1,0 +1,4 @@
+317c317
+<                     int lineBreaks = Math.min( context.consecutiveLineBreaks, 2 );
+---
+>                     int lineBreaks = Math.min( 	context.consecutiveLineBreaks, 2 );

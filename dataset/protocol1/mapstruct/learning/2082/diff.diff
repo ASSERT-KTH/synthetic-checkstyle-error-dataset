@@ -1,0 +1,4 @@
+53c53
+<     public static <T> T last(List<T> list) {
+---
+>     public static <	T> T last(List<T> list) {

@@ -1,0 +1,5 @@
+39,40c39
+< import org.mapstruct.ap.internal.processor.ModelElementProcessor;
+< import org.mapstruct.ap.internal.processor.ModelElementProcessor.ProcessorContext;
+---
+> import org.mapstruct.ap.internal.processor.ModelElementProcessor;import org.mapstruct.ap.internal.processor.ModelElementProcessor.ProcessorContext;

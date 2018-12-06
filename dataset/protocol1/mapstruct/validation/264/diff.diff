@@ -1,0 +1,4 @@
+359c359
+<             isStreamMapping = getSourceParameters().size() == 1
+---
+>             isStreamMapping = getSourceParameters().size() 	== 1

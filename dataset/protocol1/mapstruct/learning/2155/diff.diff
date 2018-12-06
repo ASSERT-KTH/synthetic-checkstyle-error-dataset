@@ -1,0 +1,5 @@
+35c35,36
+<         if ( isDirectAssignment() && functionType != null ) {
+---
+>         if 
+> ( isDirectAssignment() && functionType != null ) {

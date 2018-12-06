@@ -1,0 +1,5 @@
+14c14,15
+< public enum MappingInheritanceStrategy {
+---
+> public 
+> enum MappingInheritanceStrategy {

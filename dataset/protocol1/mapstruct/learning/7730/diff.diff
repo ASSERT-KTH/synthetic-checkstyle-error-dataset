@@ -1,0 +1,5 @@
+26c26,27
+<     public DefaultConversionContext(TypeFactory typeFactory, FormattingMessager messager, Type sourceType,
+---
+>     public DefaultConversionContext(TypeFactory typeFactory, 
+> FormattingMessager messager, Type sourceType,

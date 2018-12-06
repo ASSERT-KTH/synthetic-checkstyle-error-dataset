@@ -1,0 +1,4 @@
+323c323
+<                             System.out.print( "\\n" + LINE_SEPARATOR );
+---
+>                             System.out.print( "\\n" + 	LINE_SEPARATOR );

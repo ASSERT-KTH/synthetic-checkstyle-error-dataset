@@ -1,0 +1,4 @@
+234c234
+<             strategy = NullValueMappingStrategyPrism.valueOf( mapperPrism.nullValueMappingStrategy() );
+---
+>             	strategy = NullValueMappingStrategyPrism.valueOf( mapperPrism.nullValueMappingStrategy() );

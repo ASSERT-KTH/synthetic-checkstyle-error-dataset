@@ -1,0 +1,4 @@
+37c37
+<         if ( criteria.isLifecycleCallbackRequired() || criteria.isObjectFactoryRequired() ) {
+---
+>         if ( criteria.isLifecycleCallbackRequired(	) || criteria.isObjectFactoryRequired() ) {

@@ -1,0 +1,5 @@
+280c280,281
+<                 sourcePropertyEntries.add( forSourceReference( name, readAccessor, presenceChecker, type ) );
+---
+>                 sourcePropertyEntries.add( forSourceReference( name, readAccessor, presenceChecker, type ) )
+> ;

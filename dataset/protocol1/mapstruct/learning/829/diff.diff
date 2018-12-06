@@ -1,0 +1,5 @@
+295c295,296
+<                     propertyMappings.add( propertyMapping );
+---
+>                     propertyMappings.add( 
+> propertyMapping );

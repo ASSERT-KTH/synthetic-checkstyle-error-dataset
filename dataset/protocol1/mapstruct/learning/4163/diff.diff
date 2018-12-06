@@ -1,0 +1,4 @@
+19c19
+< import org.mapstruct.ap.internal.model.source.EnumMapping;
+---
+> import org.mapstruct.ap.internal.model.source.EnumMapping ;

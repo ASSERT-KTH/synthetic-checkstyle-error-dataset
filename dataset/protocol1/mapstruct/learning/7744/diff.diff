@@ -1,0 +1,5 @@
+20c20,21
+<     public static final String LOCAL_DATE_TIME_FQN = "org.joda.time.LocalDateTime";
+---
+>     public static final String 
+> LOCAL_DATE_TIME_FQN = "org.joda.time.LocalDateTime";

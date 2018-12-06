@@ -1,0 +1,4 @@
+10c10
+< import org.mapstruct.ap.internal.model.common.ParameterBinding;
+---
+> import org.mapstruct. ap.internal.model.common.ParameterBinding;

@@ -1,0 +1,5 @@
+44c44,45
+<     public List<HelperMethod> getRequiredHelperMethods(ConversionContext conversionContext) {
+---
+>     
+> public List<HelperMethod> getRequiredHelperMethods(ConversionContext conversionContext) {

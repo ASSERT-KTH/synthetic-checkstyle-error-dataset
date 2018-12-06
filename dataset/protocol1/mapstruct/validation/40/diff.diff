@@ -1,0 +1,4 @@
+20c20
+< import org.mapstruct.ap.internal.model.source.ForgedMethodHistory;
+---
+> import org.mapstruct.ap. internal.model.source.ForgedMethodHistory;

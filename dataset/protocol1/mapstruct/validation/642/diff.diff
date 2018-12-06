@@ -1,0 +1,5 @@
+186,187c186
+<     public ParameterProvidedMethods getContextProvidedMethods() {
+<         return contextProvidedMethods;
+---
+>     public ParameterProvidedMethods getContextProvidedMethods() {        return contextProvidedMethods;

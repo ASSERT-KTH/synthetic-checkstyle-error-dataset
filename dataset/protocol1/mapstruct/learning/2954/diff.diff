@@ -1,0 +1,4 @@
+19c19
+<     public MapperReference(Type type, String variableName) {
+---
+>     public MapperReference(	Type type, String variableName) {

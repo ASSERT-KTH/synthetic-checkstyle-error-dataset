@@ -1,0 +1,4 @@
+129c129
+<             if ( msg.getDiagnosticKind() == Kind.ERROR ) {
+---
+>             if ( msg.getDiagnosticKind() == Kind.ERROR ) 	{

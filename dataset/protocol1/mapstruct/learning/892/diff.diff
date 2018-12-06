@@ -1,0 +1,4 @@
+56c56
+<     private <T extends Method> int addToCandidateListIfMinimal(List<SelectedMethod<T>> candidatesWithBestMathingType,
+---
+>     private <T extends Method> int addToCandidateListIfMinimal(List<SelectedMethod<T>	> candidatesWithBestMathingType,

@@ -1,0 +1,5 @@
+71c71,72
+<             model.write( new DefaultModelElementWriterContext( values ), writer );
+---
+>             model.write( new DefaultModelElementWriterContext( values ), writer )
+> ;

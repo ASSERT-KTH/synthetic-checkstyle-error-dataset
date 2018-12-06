@@ -1,0 +1,4 @@
+127c127
+<         boolean targetImmutable = cms == CollectionMappingStrategyPrism.TARGET_IMMUTABLE || targetReadAccessor == null;
+---
+>         boolean targetImmutable = cms == CollectionMappingStrategyPrism. TARGET_IMMUTABLE || targetReadAccessor == null;

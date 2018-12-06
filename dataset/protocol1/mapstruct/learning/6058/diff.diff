@@ -1,0 +1,5 @@
+15,16c15
+< import org.mapstruct.ap.internal.model.source.selector.SelectedMethod;
+< import org.mapstruct.ap.internal.util.Collections;
+---
+> import org.mapstruct.ap.internal.model.source.selector.SelectedMethod;import org.mapstruct.ap.internal.util.Collections;

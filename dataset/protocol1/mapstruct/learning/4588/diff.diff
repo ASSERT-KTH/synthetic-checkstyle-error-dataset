@@ -1,0 +1,4 @@
+12c12
+< import org.mapstruct.ap.internal.model.Annotation;
+---
+> import org.mapstruct.ap	.internal.model.Annotation;

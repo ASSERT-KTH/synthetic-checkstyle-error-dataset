@@ -1,0 +1,4 @@
+31c31
+<         return Collections.asSet( conversionContext.getTypeFactory().getType( Timestamp.class ) );
+---
+>         return Collections.asSet( conversionContext. getTypeFactory().getType( Timestamp.class ) );

@@ -1,0 +1,4 @@
+533c533
+<             method.getReturnType().getImplementationType() == null ) {
+---
+>             method.getReturnType().getImplementationType(	) == null ) {

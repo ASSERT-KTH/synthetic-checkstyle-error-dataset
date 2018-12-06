@@ -1,0 +1,5 @@
+19c19,20
+< public class NoArgumentConstructor extends ModelElement implements Constructor {
+---
+> public class 
+> NoArgumentConstructor extends ModelElement implements Constructor {

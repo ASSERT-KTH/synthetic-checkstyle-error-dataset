@@ -1,0 +1,5 @@
+113c113,114
+<     public CollectionAssignmentBuilder nullValueCheckStrategy( NullValueCheckStrategyPrism nvcs ) {
+---
+>     public CollectionAssignmentBuilder nullValueCheckStrategy( 
+> NullValueCheckStrategyPrism nvcs ) {

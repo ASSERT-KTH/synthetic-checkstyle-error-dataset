@@ -1,0 +1,5 @@
+57,58c57
+<  * &#64;ValueMapping( source = MappingConstants.ANY_REMAINING, target = "SPECIAL" )
+<  * ExternalOrderType orderTypeToExternalOrderType(OrderType orderType);
+---
+>  * &#64;ValueMapping( source = MappingConstants.ANY_REMAINING, target = "SPECIAL" ) * ExternalOrderType orderTypeToExternalOrderType(OrderType orderType);

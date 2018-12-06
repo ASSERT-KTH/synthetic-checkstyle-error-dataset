@@ -1,0 +1,4 @@
+112c112
+<             this.accessorNaming = accessorNaming;
+---
+>             this.accessorNaming = accessorNaming ;

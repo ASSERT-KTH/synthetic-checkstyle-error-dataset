@@ -1,0 +1,5 @@
+15,16c15
+<     /**
+<      * Apply the method-level configuration annotations only if the prototype method is explicitly referenced using
+---
+>     /**     * Apply the method-level configuration annotations only if the prototype method is explicitly referenced using

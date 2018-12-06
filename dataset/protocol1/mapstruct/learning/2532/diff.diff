@@ -1,0 +1,4 @@
+26c26
+<     private final List<MethodSelector> selectors;
+---
+>     private final List<MethodSelector> selectors ;

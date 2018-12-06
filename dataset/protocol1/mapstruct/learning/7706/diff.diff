@@ -1,0 +1,5 @@
+58c58,59
+<             this.valueSelectionParameters = valueSelectionParameters;
+---
+>             this.valueSelectionParameters 
+> = valueSelectionParameters;

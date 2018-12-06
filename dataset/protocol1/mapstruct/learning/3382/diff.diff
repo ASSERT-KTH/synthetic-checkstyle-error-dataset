@@ -1,0 +1,5 @@
+827c827,828
+<                               List<LifecycleCallbackMethodReference> beforeMappingReferences,
+---
+>                               List<LifecycleCallbackMethodReference> beforeMappingReferences
+> ,

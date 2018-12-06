@@ -1,0 +1,4 @@
+22c22
+< @Retention(RetentionPolicy.CLASS)
+---
+> @	Retention(RetentionPolicy.CLASS)

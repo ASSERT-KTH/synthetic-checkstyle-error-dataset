@@ -1,0 +1,4 @@
+950c950
+<         Type other = (Type) obj;
+---
+>         Type other 	= (Type) obj;

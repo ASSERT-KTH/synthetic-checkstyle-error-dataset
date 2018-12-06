@@ -1,0 +1,5 @@
+51c51,52
+<     protected List<Annotation> getMapperReferenceAnnotations() {
+---
+>     protected List<Annotation> 
+> getMapperReferenceAnnotations() {

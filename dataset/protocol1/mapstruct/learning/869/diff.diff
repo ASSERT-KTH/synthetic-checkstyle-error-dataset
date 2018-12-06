@@ -1,0 +1,5 @@
+44,45c44
+<     static TypeMirror asMemberOf(ProcessingEnvironment environment, DeclaredType containing,
+<                                  Element element) {
+---
+>     static TypeMirror asMemberOf(ProcessingEnvironment environment, DeclaredType containing,                                 Element element) {

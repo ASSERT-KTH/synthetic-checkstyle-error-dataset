@@ -1,0 +1,4 @@
+128c128
+<                     else if ( !sourceEnumConstants.contains( mappedConstant.getSourceName() ) ) {
+---
+>                     else if ( !sourceEnumConstants.contains( mappedConstant.getSourceName() 	) ) {

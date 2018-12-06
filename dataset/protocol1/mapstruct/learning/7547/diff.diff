@@ -1,0 +1,5 @@
+23,24c23
+<     public Options(boolean suppressGeneratorTimestamp, boolean suppressGeneratorVersionComment,
+<                    ReportingPolicyPrism unmappedTargetPolicy,
+---
+>     public Options(boolean suppressGeneratorTimestamp, boolean suppressGeneratorVersionComment,                   ReportingPolicyPrism unmappedTargetPolicy,

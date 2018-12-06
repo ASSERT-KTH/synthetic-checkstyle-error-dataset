@@ -1,0 +1,4 @@
+192c192
+<                         Arrays.asList( sourcePropertyNames ).subList( 0, notFoundPropertyIndex )
+---
+>                         Arrays.asList( sourcePropertyNames ).subList ( 0, notFoundPropertyIndex )

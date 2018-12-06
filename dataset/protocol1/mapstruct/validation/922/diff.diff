@@ -1,0 +1,5 @@
+364,365c364
+<             //TODO: Log error
+<             return null;
+---
+>             //TODO: Log error            return null;

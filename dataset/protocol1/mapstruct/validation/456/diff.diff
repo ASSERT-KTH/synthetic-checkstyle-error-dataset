@@ -1,0 +1,4 @@
+43c43
+<     Assignment from(ConversionContext conversionContext);
+---
+>     	Assignment from(ConversionContext conversionContext);

@@ -1,0 +1,4 @@
+70c70
+<     private Annotation autowired() {
+---
+>     private Annotation autowired(	) {

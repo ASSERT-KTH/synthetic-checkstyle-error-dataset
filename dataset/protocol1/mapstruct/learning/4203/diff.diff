@@ -1,0 +1,5 @@
+22c22,23
+<     private final String[] fullName;
+---
+>     private final String[] fullName
+> ;

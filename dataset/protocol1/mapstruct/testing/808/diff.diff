@@ -1,0 +1,5 @@
+70c70,71
+<     Class<? extends Annotation>[] keyQualifiedBy() default { };
+---
+>     Class<? extends Annotation>[] keyQualifiedBy() default { 
+> };

@@ -1,0 +1,5 @@
+35,36c35
+<         List<Type> parentThrownTypes = super.getThrownTypes();
+<         List<Type> result = new ArrayList<>( parentThrownTypes );
+---
+>         List<Type> parentThrownTypes = super.getThrownTypes();        List<Type> result = new ArrayList<>( parentThrownTypes );

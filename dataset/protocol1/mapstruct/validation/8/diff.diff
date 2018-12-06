@@ -1,0 +1,4 @@
+177c177
+<             BeanMappingPrism beanMappingPrism = BeanMappingPrism.getInstanceOn( method.getExecutable() );
+---
+>             BeanMappingPrism beanMappingPrism = BeanMappingPrism. getInstanceOn( method.getExecutable() );

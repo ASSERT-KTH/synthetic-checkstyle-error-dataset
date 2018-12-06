@@ -1,0 +1,4 @@
+89c89
+<                 Arrays.asList( new Field( typeFactory.getType( mapperElement ), "delegate", true ) ),
+---
+>                 Arrays.asList( new Field( typeFactory.getType( mapperElement 	), "delegate", true ) ),

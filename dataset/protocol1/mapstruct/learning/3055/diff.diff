@@ -1,0 +1,5 @@
+12c12,13
+< import org.mapstruct.ap.internal.util.FormattingMessager;
+---
+> import 
+> org.mapstruct.ap.internal.util.FormattingMessager;

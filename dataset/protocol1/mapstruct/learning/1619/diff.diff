@@ -1,0 +1,5 @@
+614c614,615
+<     public Mapping copyForInheritanceTo(SourceMethod method) {
+---
+>     public 
+> Mapping copyForInheritanceTo(SourceMethod method) {

@@ -1,0 +1,4 @@
+47c47
+<     private void analyze() {
+---
+>     	private void analyze() {

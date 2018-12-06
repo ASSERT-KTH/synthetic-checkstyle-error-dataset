@@ -1,0 +1,4 @@
+133c133
+<     public NullValueMappingStrategyPrism getNullValueMappingStrategy() {
+---
+>     public NullValueMappingStrategyPrism getNullValueMappingStrategy() 	{

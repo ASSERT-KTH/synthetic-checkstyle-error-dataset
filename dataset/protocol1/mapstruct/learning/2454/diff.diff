@@ -1,0 +1,4 @@
+89c89
+<     private static String getQualifiedName(TypeMirror type) {
+---
+>     private static String getQualifiedName(TypeMirror type){

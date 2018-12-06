@@ -1,0 +1,4 @@
+174c174
+<     private void addOnlyWhenQualifier( Set<AnnotationMirror> annotationSet, AnnotationMirror candidate ) {
+---
+>     private void addOnlyWhenQualifier( Set<AnnotationMirror	> annotationSet, AnnotationMirror candidate ) {

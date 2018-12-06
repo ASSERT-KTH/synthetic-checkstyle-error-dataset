@@ -1,0 +1,4 @@
+68c68
+<             Map<Class<?>, Object> values = new HashMap<>();
+---
+>             Map<Class<?>, Object> values =new HashMap<>();

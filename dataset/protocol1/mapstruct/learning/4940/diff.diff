@@ -1,0 +1,5 @@
+78,79c78
+<     public SupportingMappingMethod(HelperMethod method) {
+<         super( method );
+---
+>     public SupportingMappingMethod(HelperMethod method) {        super( method );

@@ -1,0 +1,5 @@
+45c45,46
+<         return new DefaultMapperReference( type, isAnnotatedMapper, importTypes, variableName );
+---
+>         return new DefaultMapperReference( type, isAnnotatedMapper, importTypes, 
+> variableName );

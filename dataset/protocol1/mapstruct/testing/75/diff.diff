@@ -1,0 +1,4 @@
+42c42
+<     protected String getTemplateNameForClass(Class<?> clazz) {
+---
+>     protected String getTemplateNameForClass(Class	<?> clazz) {

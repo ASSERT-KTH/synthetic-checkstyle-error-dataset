@@ -1,0 +1,4 @@
+26c26
+<     public ZonedDateTimeToXmlGregorianCalendar(TypeFactory typeFactory) {
+---
+>     public ZonedDateTimeToXmlGregorianCalendar(TypeFactory 	typeFactory) {

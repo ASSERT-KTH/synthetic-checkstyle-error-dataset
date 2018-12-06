@@ -1,0 +1,4 @@
+26c26
+<     public LocalDateToXmlGregorianCalendar(TypeFactory typeFactory) {
+---
+>     public LocalDateToXmlGregorianCalendar(TypeFactory typeFactory	) {

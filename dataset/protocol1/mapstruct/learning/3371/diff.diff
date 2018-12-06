@@ -1,0 +1,4 @@
+34c34
+<     public static String decapitalize(String name) {
+---
+>     public static String decapitalize(String name){

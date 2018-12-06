@@ -1,0 +1,4 @@
+105c105
+<         return isMapNullToDefault() == other.isMapNullToDefault();
+---
+>         return isMapNullToDefault() 	== other.isMapNullToDefault();

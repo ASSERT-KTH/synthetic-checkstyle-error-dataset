@@ -1,0 +1,5 @@
+130,131c130
+<     public int hashCode() {
+<         int hash = 5;
+---
+>     public int hashCode() {        int hash = 5;

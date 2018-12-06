@@ -1,0 +1,4 @@
+38c38
+<     void printMessage(Element e, Message msg, Object... args);
+---
+>     	void printMessage(Element e, Message msg, Object... args);

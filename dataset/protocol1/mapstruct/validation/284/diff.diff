@@ -1,0 +1,5 @@
+152c152,153
+<                 result.add( method );
+---
+>                 result.add( method )
+> ;

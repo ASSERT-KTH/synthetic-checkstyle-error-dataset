@@ -1,0 +1,4 @@
+16c16
+<     SET_TO_NULL,
+---
+>     SET_TO_NULL ,

@@ -1,0 +1,4 @@
+510c510
+<                 String propertyName = accessorNaming.getPropertyName( getter );
+---
+>                 String propertyName = accessorNaming.getPropertyName( getter 	);

@@ -1,0 +1,4 @@
+70c70
+<             sb.append( sourceType.getSimpleName() );
+---
+>             sb.append( sourceType.getSimpleName() 	);

@@ -1,0 +1,5 @@
+576c576,577
+<         Map<String, Accessor> result = new LinkedHashMap<>();
+---
+>         Map<String, 
+> Accessor> result = new LinkedHashMap<>();

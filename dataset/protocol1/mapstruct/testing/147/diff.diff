@@ -1,0 +1,5 @@
+29c29,30
+<     public TypeHierarchyErroneousException(TypeMirror type) {
+---
+>     public TypeHierarchyErroneousException(TypeMirror 
+> type) {

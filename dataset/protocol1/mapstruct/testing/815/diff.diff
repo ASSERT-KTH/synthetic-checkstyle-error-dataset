@@ -1,0 +1,4 @@
+58c58
+<     protected MappingMethod(Method method, List<Parameter> parameters, Collection<String> existingVariableNames,
+---
+>     protected MappingMethod(Method method, List<	Parameter> parameters, Collection<String> existingVariableNames,

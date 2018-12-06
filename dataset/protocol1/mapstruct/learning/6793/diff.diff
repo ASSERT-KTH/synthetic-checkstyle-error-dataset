@@ -1,0 +1,4 @@
+130c130
+<             Assignment valueAssignment = ctx.getMappingResolver().getTargetAssignment(
+---
+>             Assignment valueAssignment = ctx.getMappingResolver ().getTargetAssignment(

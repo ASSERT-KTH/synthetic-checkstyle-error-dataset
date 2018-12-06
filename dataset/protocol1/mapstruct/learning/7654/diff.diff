@@ -1,0 +1,4 @@
+38c38
+<         if ( name.length() > 1 && Character.isUpperCase( name.charAt( 1 ) ) &&
+---
+>         if ( name.length()> 1 && Character.isUpperCase( name.charAt( 1 ) ) &&

@@ -1,0 +1,5 @@
+105c105,106
+<     private static String getCompiler(ProcessingEnvironment processingEnv) {
+---
+>     private static String 
+> getCompiler(ProcessingEnvironment processingEnv) {

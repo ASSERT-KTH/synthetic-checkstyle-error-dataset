@@ -1,0 +1,5 @@
+93c93,94
+<         result = 31 * result + ( type != null ? type.hashCode() : 0 );
+---
+>         result = 31 
+> * result + ( type != null ? type.hashCode() : 0 );

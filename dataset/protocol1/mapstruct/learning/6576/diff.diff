@@ -1,0 +1,4 @@
+25c25
+< import org.mapstruct.ap.internal.model.Field;
+---
+> import org.mapstruct.ap	.internal.model.Field;

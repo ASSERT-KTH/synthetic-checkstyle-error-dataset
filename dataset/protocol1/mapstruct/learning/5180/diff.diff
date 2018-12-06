@@ -1,0 +1,4 @@
+15c15
+< public class JodaLocalDateTimeToStringConversion extends AbstractJodaTypeToStringConversion {
+---
+> public class JodaLocalDateTimeToStringConversion extends 	AbstractJodaTypeToStringConversion {

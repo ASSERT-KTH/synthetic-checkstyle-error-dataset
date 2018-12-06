@@ -1,0 +1,5 @@
+36c36,37
+<     PROPERTYMAPPING_DUPLICATE_TARGETS( "Target property \"%s\" must not be mapped more than once." ),
+---
+>     PROPERTYMAPPING_DUPLICATE_TARGETS( 
+> "Target property \"%s\" must not be mapped more than once." ),

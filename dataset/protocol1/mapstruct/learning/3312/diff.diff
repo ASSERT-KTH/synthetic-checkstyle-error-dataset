@@ -1,0 +1,4 @@
+315c315
+<             Mapping mapping = first( mappingEntry.getValue() ); // list only used for deprecated enums mapping
+---
+>             Mapping mapping = first( mappingEntry.getValue(	) ); // list only used for deprecated enums mapping

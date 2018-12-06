@@ -1,0 +1,5 @@
+29,30c29
+<     public String getTemplateName() {
+<         return templateName;
+---
+>     public String getTemplateName() {        return templateName;

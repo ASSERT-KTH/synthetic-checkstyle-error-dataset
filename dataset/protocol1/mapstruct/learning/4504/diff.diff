@@ -1,0 +1,4 @@
+19c19
+<     public static final String FUNCTION_FQN = "java.util.function.Function";
+---
+>     public static final String FUNCTION_FQN ="java.util.function.Function";

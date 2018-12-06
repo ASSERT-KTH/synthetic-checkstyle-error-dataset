@@ -1,0 +1,4 @@
+254c254
+<                     if ( t.getTypeArguments().size() == t1.getTypeArguments().size() ) {
+---
+>                     if ( t.getTypeArguments().size() == t1. getTypeArguments().size() ) {

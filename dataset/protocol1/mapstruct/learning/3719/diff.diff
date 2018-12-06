@@ -1,0 +1,5 @@
+55,56c55
+<  * public CarDto toCar(Car car, VehicleRegistration context, Locale localeToUse) {
+<  *     registerVehicle( car, context );
+---
+>  * public CarDto toCar(Car car, VehicleRegistration context, Locale localeToUse) { *     registerVehicle( car, context );

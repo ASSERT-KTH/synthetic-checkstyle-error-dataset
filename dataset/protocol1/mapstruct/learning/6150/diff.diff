@@ -1,0 +1,4 @@
+175c175
+<     MappingInheritanceStrategy mappingInheritanceStrategy() default MappingInheritanceStrategy.EXPLICIT;
+---
+>     MappingInheritanceStrategy mappingInheritanceStrategy() default MappingInheritanceStrategy	.EXPLICIT;

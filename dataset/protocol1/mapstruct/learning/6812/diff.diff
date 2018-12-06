@@ -1,0 +1,4 @@
+15c15
+<     public static final String FREE_BUILDER_FQN = "org.inferred.freebuilder.FreeBuilder";
+---
+>     public static final String FREE_BUILDER_FQN 	= "org.inferred.freebuilder.FreeBuilder";

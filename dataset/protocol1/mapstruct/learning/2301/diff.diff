@@ -1,0 +1,5 @@
+29c29,30
+<             if ( ref.getType().equals( method.getDeclaringMapper() ) ) {
+---
+>             if ( ref.getType().equals( 
+> method.getDeclaringMapper() ) ) {

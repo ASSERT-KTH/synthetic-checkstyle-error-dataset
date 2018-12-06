@@ -1,0 +1,5 @@
+95,96c95
+<     public List<Parameter> getContextParameters() {
+<         return Collections.emptyList();
+---
+>     public List<Parameter> getContextParameters() {        return Collections.emptyList();

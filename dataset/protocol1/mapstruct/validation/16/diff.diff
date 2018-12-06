@@ -1,0 +1,5 @@
+17,18c17
+<  * the source and target types of mapping methods. If at least one AST-modifying processor announces further changes to
+<  * such type, the generation of the affected mapper(s) will be deferred to a future round in the annnotation processing
+---
+>  * the source and target types of mapping methods. If at least one AST-modifying processor announces further changes to * such type, the generation of the affected mapper(s) will be deferred to a future round in the annnotation processing

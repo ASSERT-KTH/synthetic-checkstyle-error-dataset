@@ -1,0 +1,4 @@
+339c339
+<         public Class<?> getLiteral() {
+---
+>         public Class<?> getLiteral () {

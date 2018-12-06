@@ -1,0 +1,5 @@
+80c80,81
+<             throw new RuntimeException( e );
+---
+>             throw new RuntimeException( e )
+> ;

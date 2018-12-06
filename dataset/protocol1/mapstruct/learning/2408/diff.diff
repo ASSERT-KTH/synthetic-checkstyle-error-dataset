@@ -1,0 +1,5 @@
+373c373,374
+<         public void validate(String s) {
+---
+>         
+> public void validate(String s) {

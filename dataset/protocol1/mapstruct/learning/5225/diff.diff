@@ -1,0 +1,5 @@
+173,174c173
+<                 enclosing.getEnclosingElement()) {
+<             nameBuilder.insert( 0, '$' );
+---
+>                 enclosing.getEnclosingElement()) {            nameBuilder.insert( 0, '$' );

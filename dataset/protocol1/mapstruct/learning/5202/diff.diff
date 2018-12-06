@@ -1,0 +1,5 @@
+23,24c23
+<     public String getToExpression(ConversionContext conversionContext) {
+<         return "<SOURCE>.name()";
+---
+>     public String getToExpression(ConversionContext conversionContext) {        return "<SOURCE>.name()";

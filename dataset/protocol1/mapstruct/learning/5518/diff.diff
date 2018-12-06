@@ -1,0 +1,4 @@
+80c80
+<                     nameAndScopeMatches.add( candidate );
+---
+>                     nameAndScopeMatches.add( 	candidate );

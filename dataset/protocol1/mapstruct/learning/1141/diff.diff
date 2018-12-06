@@ -1,0 +1,4 @@
+91c91
+<         if ( nameAndScopeMatches.size() > 0 ) {
+---
+>         if ( nameAndScopeMatches	.size() > 0 ) {

@@ -1,0 +1,4 @@
+17c17
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.date;
+---
+> import static 	org.mapstruct.ap.internal.conversion.ConversionUtils.date;

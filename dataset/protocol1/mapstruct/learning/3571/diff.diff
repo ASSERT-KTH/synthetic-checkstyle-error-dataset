@@ -1,0 +1,4 @@
+67c67
+<         Element enclosingElement = typeElement.getEnclosingElement();
+---
+>         Element enclosingElement = typeElement.getEnclosingElement(	);

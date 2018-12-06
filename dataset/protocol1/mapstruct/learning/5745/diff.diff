@@ -1,0 +1,5 @@
+20,21c20
+<  * {@code @}{@link Context} parameter, or with the mapping source parameter. If any of those parameters are defined,
+<  * then the mapping method that is supposed to use the factory method needs to be declared with an assignable result
+---
+>  * {@code @}{@link Context} parameter, or with the mapping source parameter. If any of those parameters are defined, * then the mapping method that is supposed to use the factory method needs to be declared with an assignable result

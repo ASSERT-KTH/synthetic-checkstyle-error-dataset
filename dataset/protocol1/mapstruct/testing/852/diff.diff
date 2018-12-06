@@ -1,0 +1,5 @@
+47c47,48
+<         String value = accessor.getSimpleName().toString();
+---
+>         String value 
+> = accessor.getSimpleName().toString();

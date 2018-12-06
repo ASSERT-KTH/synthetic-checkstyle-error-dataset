@@ -1,0 +1,5 @@
+69c69,70
+<         Type sourceParameterType = first( method.getSourceParameters() ).getType();
+---
+>         Type sourceParameterType = first( method.getSourceParameters() ).getType
+> ();

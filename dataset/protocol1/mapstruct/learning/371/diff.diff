@@ -1,0 +1,4 @@
+35c35
+<         if ( requiresDecimalFormat( conversionContext ) ) {
+---
+>         if ( requiresDecimalFormat( 	conversionContext ) ) {

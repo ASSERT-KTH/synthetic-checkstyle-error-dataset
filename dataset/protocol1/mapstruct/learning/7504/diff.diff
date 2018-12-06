@@ -1,0 +1,4 @@
+35c35
+<         return "new " + conversionContext.getTargetType().createReferenceName() + "( <SOURCE> )";
+---
+>         return "new " +conversionContext.getTargetType().createReferenceName() + "( <SOURCE> )";

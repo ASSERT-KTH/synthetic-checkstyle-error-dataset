@@ -1,0 +1,4 @@
+20c20
+<     private final Class<?> targetType;
+---
+>     private final 	Class<?> targetType;

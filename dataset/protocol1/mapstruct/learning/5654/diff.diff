@@ -1,0 +1,5 @@
+144c144,145
+<         final ValueMapping other = (ValueMapping) obj;
+---
+>         final ValueMapping other = (ValueMapping) obj
+> ;

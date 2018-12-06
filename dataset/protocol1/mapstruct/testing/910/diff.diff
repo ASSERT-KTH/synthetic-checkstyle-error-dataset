@@ -1,0 +1,4 @@
+26c26
+<     public LocalVarWrapper(Assignment decoratedAssignment, List<Type> thrownTypesToExclude, Type targetType,
+---
+>     public LocalVarWrapper(Assignment 	decoratedAssignment, List<Type> thrownTypesToExclude, Type targetType,

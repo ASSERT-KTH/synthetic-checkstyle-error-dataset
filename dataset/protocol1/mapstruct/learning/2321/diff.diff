@@ -1,0 +1,4 @@
+44c44
+<     @GeneratePrism(value = Mappings.class, publicAccess = true),
+---
+>     @GeneratePrism(value = Mappings	.class, publicAccess = true),

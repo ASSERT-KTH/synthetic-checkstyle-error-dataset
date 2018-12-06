@@ -1,0 +1,5 @@
+11c11,12
+< package org.mapstruct.ap.internal.util;
+---
+> package 
+> org.mapstruct.ap.internal.util;

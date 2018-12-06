@@ -1,0 +1,5 @@
+119,120c119
+<     public Parameter getTargetTypeParameter() {
+<         return null;
+---
+>     public Parameter getTargetTypeParameter() {        return null;

@@ -1,0 +1,5 @@
+331c331,332
+<                         throw new NumberFormatException( "integer number too large" );
+---
+>                         throw new NumberFormatException
+> ( "integer number too large" );

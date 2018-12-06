@@ -1,0 +1,4 @@
+360c360
+<                 && ( first( getSourceParameters() ).getType().isIterableType() && getResultType().isStreamType()
+---
+>                 && ( first( 	getSourceParameters() ).getType().isIterableType() && getResultType().isStreamType()

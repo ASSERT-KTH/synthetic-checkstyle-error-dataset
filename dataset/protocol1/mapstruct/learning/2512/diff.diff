@@ -1,0 +1,4 @@
+309c309
+<             result = wildcardType.getSuperBound() != null;
+---
+>             result = wildcardType.getSuperBound() 	!= null;

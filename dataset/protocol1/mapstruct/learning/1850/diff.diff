@@ -1,0 +1,5 @@
+8,9c8
+< import java.util.List;
+< import org.mapstruct.ap.internal.model.common.Type;
+---
+> import java.util.List;import org.mapstruct.ap.internal.model.common.Type;

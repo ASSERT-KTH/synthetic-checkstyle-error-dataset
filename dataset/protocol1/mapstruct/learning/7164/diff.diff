@@ -1,0 +1,4 @@
+130c130
+<             null == mappingPrism.values.nullValuePropertyMappingStrategy()
+---
+>             null == mappingPrism.values.nullValuePropertyMappingStrategy ()

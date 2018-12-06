@@ -1,0 +1,5 @@
+35c35,36
+<     protected String getFromExpression(ConversionContext conversionContext) {
+---
+>     protected 
+> String getFromExpression(ConversionContext conversionContext) {

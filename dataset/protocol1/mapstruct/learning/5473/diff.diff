@@ -1,0 +1,4 @@
+237c237
+<         return distances[tLength - 1][sLength - 1];
+---
+>         return distances[tLength - 1][sLength - 	1];

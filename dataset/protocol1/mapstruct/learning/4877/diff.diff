@@ -1,0 +1,4 @@
+112c112
+<                 for ( TypeMirror qualifierType : qualifierTypes ) {
+---
+>                 for ( TypeMirror qualifierType : qualifierTypes 	) {

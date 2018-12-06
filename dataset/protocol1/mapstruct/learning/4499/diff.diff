@@ -1,0 +1,5 @@
+29c29,30
+<         this.returnType = typeFactory.getType( XMLGregorianCalendar.class );
+---
+>         this.returnType = typeFactory.getType
+> ( XMLGregorianCalendar.class );

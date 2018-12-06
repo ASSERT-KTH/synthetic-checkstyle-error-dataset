@@ -1,0 +1,5 @@
+22,23c22
+<      * Inherit the method-level forward configuration annotations automatically if source and target types of the
+<      * prototype method are assignable from the types of a given mapping method.
+---
+>      * Inherit the method-level forward configuration annotations automatically if source and target types of the     * prototype method are assignable from the types of a given mapping method.

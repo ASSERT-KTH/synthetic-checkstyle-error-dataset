@@ -1,0 +1,5 @@
+26,27c26
+<      * @param mappingMethod mapping method, defined in Mapper for which this selection is carried out
+<      * @param candidates list of available methods
+---
+>      * @param mappingMethod mapping method, defined in Mapper for which this selection is carried out     * @param candidates list of available methods

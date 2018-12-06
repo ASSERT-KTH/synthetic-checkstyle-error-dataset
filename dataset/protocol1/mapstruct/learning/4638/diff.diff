@@ -1,0 +1,4 @@
+17c17
+< public class VariableElementAccessor extends AbstractAccessor<VariableElement> {
+---
+> 	public class VariableElementAccessor extends AbstractAccessor<VariableElement> {

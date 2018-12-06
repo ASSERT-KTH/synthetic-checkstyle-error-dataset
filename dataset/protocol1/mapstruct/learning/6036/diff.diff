@@ -1,0 +1,4 @@
+84c84
+<                 conversionContext.getTypeFactory().getType( DecimalFormat.class )
+---
+>                 conversionContext.getTypeFactory().getType( 	DecimalFormat.class )

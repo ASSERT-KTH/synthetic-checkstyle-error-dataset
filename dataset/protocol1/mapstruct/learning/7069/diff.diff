@@ -1,0 +1,5 @@
+31,32c31
+<  * &#64;ValueMapping(source = "STANDARD", target = "DEFAULT"),
+<  * &#64;ValueMapping(source = "NORMAL", target = "DEFAULT")
+---
+>  * &#64;ValueMapping(source = "STANDARD", target = "DEFAULT"), * &#64;ValueMapping(source = "NORMAL", target = "DEFAULT")

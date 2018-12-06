@@ -1,0 +1,4 @@
+299c299
+<             MappingProcessor.class.getClassLoader()
+---
+>             MappingProcessor.class. getClassLoader()

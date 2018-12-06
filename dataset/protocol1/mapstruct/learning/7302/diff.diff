@@ -1,0 +1,4 @@
+71c71
+<         String fileName = model.getPackageName() + "." + model.getName();
+---
+>         String fileName = model.getPackageName()+ "." + model.getName();

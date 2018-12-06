@@ -1,0 +1,5 @@
+17c17,18
+<     public DelegatingMethod(Method method) {
+---
+>     public 
+> DelegatingMethod(Method method) {

@@ -1,0 +1,4 @@
+23c23
+< import org.mapstruct.Mapping;
+---
+> 	import org.mapstruct.Mapping;

@@ -1,0 +1,4 @@
+37c37
+<     public B method(Method sourceMethod) {
+---
+>     	public B method(Method sourceMethod) {

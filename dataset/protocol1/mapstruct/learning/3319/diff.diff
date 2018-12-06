@@ -1,0 +1,4 @@
+12c12
+< package org.mapstruct.ap.internal.model.source;
+---
+> package 	org.mapstruct.ap.internal.model.source;

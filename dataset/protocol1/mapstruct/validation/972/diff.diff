@@ -1,0 +1,4 @@
+25c25
+<     private static final Pattern JAVA_JAVAX_PACKAGE = Pattern.compile( "^javax?\\..*" );
+---
+>     private static final Pattern JAVA_JAVAX_PACKAGE = Pattern.compile( 	"^javax?\\..*" );

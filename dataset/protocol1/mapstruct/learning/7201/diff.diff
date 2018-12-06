@@ -1,0 +1,5 @@
+22c22,23
+<         this.sourceType = NativeTypes.getPrimitiveType( sourceType );
+---
+>         this.sourceType = NativeTypes.getPrimitiveType( 
+> sourceType );

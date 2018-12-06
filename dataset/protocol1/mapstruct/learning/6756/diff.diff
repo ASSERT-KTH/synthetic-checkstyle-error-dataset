@@ -1,0 +1,5 @@
+212c212,213
+<     boolean disableSubMappingMethodsGeneration() default false;
+---
+>     boolean disableSubMappingMethodsGeneration() default false
+> ;

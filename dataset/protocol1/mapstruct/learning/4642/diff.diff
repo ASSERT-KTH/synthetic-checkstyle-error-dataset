@@ -1,0 +1,5 @@
+796,797c796
+<         ConstantMappingBuilder() {
+<             super( ConstantMappingBuilder.class );
+---
+>         ConstantMappingBuilder() {            super( ConstantMappingBuilder.class );

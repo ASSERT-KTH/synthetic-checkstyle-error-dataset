@@ -1,0 +1,4 @@
+80c80
+<     String getSourceReference();
+---
+>     String getSourceReference(	);

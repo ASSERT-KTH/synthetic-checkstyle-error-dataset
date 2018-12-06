@@ -1,0 +1,4 @@
+8c8
+< import static org.mapstruct.ap.internal.prism.NullValueCheckStrategyPrism.ALWAYS;
+---
+> import static org.mapstruct.ap. internal.prism.NullValueCheckStrategyPrism.ALWAYS;

@@ -1,0 +1,5 @@
+41,42c41
+<      * The default implementation will e.g. return "name" for {@code public String getName()} or {@code public void
+<      * setName(String name)}.
+---
+>      * The default implementation will e.g. return "name" for {@code public String getName()} or {@code public void     * setName(String name)}.

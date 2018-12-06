@@ -1,0 +1,4 @@
+88c88
+<             String packageName = implPackage.replace( PACKAGE_NAME_PLACEHOLDER, elementPackage );
+---
+>             String packageName = 	implPackage.replace( PACKAGE_NAME_PLACEHOLDER, elementPackage );

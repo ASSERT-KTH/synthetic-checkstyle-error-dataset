@@ -1,0 +1,5 @@
+252c252,253
+<                 BeanMapping.fromPrism( BeanMappingPrism.getInstanceOn( method ), method, messager, typeUtils ) )
+---
+>                 BeanMapping.fromPrism( BeanMappingPrism.getInstanceOn( method ), method, messager, typeUtils ) 
+> )

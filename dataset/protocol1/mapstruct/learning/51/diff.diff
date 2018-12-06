@@ -1,0 +1,5 @@
+26c26,27
+< public class JodaTimeToDateConversion extends SimpleConversion {
+---
+> public class JodaTimeToDateConversion 
+> extends SimpleConversion {

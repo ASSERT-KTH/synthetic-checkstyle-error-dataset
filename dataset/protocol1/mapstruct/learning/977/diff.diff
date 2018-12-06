@@ -1,0 +1,4 @@
+139c139
+<                 mapperReferencesForConstructor.add( (AnnotationMapperReference) mapperReference );
+---
+>                 mapperReferencesForConstructor.add( (AnnotationMapperReference) 	mapperReference );

@@ -1,0 +1,5 @@
+322,323c322
+<         Set<String> toBeRemoved = new HashSet<>();
+<         for ( Map.Entry<String, List<Mapping>> mappingEntry : mappings.entrySet() ) {
+---
+>         Set<String> toBeRemoved = new HashSet<>();        for ( Map.Entry<String, List<Mapping>> mappingEntry : mappings.entrySet() ) {

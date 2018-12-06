@@ -1,0 +1,4 @@
+353c353
+<         return typeUtils.asMemberOf( includingType, method );
+---
+>         return typeUtils	.asMemberOf( includingType, method );

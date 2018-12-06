@@ -1,0 +1,5 @@
+120c120,121
+<         if ( targetPropertyName == null ) {
+---
+>         if ( targetPropertyName == null 
+> ) {

@@ -1,0 +1,5 @@
+305,306c305
+<                 TypeMirror upperBound = t.getUpperBound();
+<                 if ( ( isNullType( lowerBound ) || typeUtils.isSubtype( lowerBound, p ) )
+---
+>                 TypeMirror upperBound = t.getUpperBound();                if ( ( isNullType( lowerBound ) || typeUtils.isSubtype( lowerBound, p ) )

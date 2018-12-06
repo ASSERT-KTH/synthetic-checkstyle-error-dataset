@@ -1,0 +1,5 @@
+59,60c59
+<      * @param name the node name to get the traversal sequence number for
+<      * @return the traversal sequence number, or {@code -1} if the node doesn't exist or the node was not visited (in
+---
+>      * @param name the node name to get the traversal sequence number for     * @return the traversal sequence number, or {@code -1} if the node doesn't exist or the node was not visited (in

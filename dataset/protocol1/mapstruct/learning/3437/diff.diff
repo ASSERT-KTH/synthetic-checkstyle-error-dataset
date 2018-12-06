@@ -1,0 +1,5 @@
+41,42c41
+<  *     public &lt;T extends AbstractEntity&gt; T resolve(AbstractDto sourceDto, &#64;TargetType Class&lt;T&gt; type) {
+<  *         T entity = em.find( type, sourceDto.getId() );
+---
+>  *     public &lt;T extends AbstractEntity&gt; T resolve(AbstractDto sourceDto, &#64;TargetType Class&lt;T&gt; type) { *         T entity = em.find( type, sourceDto.getId() );

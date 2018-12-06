@@ -1,0 +1,4 @@
+42c42
+<             Parameter singleSourceParam = first( method.getMethod().getSourceParameters() );
+---
+>             Parameter singleSourceParam = first( 	method.getMethod().getSourceParameters() );

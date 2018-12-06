@@ -1,0 +1,4 @@
+45c45
+<     @GeneratePrism(value = IterableMapping.class, publicAccess = true),
+---
+>     @GeneratePrism(value = IterableMapping.class, publicAccess = true	),

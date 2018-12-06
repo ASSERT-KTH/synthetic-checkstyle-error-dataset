@@ -1,0 +1,4 @@
+81c81
+<         return isNonBooleanGetterName || ( isBooleanGetterName && returnTypeIsBoolean );
+---
+>         return isNonBooleanGetterName || ( isBooleanGetterName && returnTypeIsBoolean 	);

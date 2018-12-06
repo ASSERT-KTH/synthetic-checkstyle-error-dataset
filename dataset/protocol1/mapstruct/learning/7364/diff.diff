@@ -1,0 +1,5 @@
+22,23c22
+<  * If more than one matching inverse method exists, the name of the method to inherit the configuration from must be
+<  * specified via {@link #name()}
+---
+>  * If more than one matching inverse method exists, the name of the method to inherit the configuration from must be * specified via {@link #name()}

@@ -1,0 +1,4 @@
+51c51
+<         imported.addAll( targetType.getTypeParameters() );
+---
+>         imported.addAll( targetType.getTypeParameters() 	);

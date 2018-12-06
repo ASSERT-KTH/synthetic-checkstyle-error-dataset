@@ -1,0 +1,5 @@
+52c52,53
+<                 result.addAll( methods );
+---
+>                 result.addAll( 
+> methods );

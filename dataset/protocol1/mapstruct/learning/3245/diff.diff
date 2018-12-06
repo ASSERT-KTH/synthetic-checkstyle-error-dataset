@@ -1,0 +1,5 @@
+120c120,121
+<             for ( String descendant : descendants ) {
+---
+>             for ( String descendant : 
+> descendants ) {

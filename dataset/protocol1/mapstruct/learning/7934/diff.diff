@@ -1,0 +1,4 @@
+25c25
+<     default void init(MapStructProcessingEnvironment processingEnvironment) {
+---
+>     	default void init(MapStructProcessingEnvironment processingEnvironment) {

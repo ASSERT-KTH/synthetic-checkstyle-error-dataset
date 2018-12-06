@@ -1,0 +1,4 @@
+105c105
+<     Assignment createForgedAssignment(SourceRHS source, ForgedMethod methodRef, MappingMethod mappingMethod) {
+---
+>     Assignment createForgedAssignment(SourceRHS source, ForgedMethod methodRef, MappingMethod mappingMethod){

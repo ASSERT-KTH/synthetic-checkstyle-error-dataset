@@ -1,0 +1,4 @@
+71c71
+<     private final List<String> dependsOn;
+---
+>     private final List<String> 	dependsOn;

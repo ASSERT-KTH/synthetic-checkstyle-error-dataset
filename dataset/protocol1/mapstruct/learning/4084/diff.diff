@@ -1,0 +1,5 @@
+61c61,62
+<         else if ( mapper.getDecorator() != null ) {
+---
+>         else if ( mapper.getDecorator() != 
+> null ) {

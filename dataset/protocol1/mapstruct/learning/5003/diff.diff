@@ -1,0 +1,5 @@
+18,19c18
+<  * {@link java.util.Collection}, {@link java.util.Map} or {@code Array} type then MapStruct will use that constructor
+<  * with the {@code size} / {@code length} from the source parameter.
+---
+>  * {@link java.util.Collection}, {@link java.util.Map} or {@code Array} type then MapStruct will use that constructor * with the {@code size} / {@code length} from the source parameter.

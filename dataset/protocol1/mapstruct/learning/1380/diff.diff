@@ -1,0 +1,5 @@
+54,55c54
+<     @GeneratePrism(value = Qualifier.class, publicAccess = true),
+<     @GeneratePrism(value = Named.class, publicAccess = true),
+---
+>     @GeneratePrism(value = Qualifier.class, publicAccess = true),    @GeneratePrism(value = Named.class, publicAccess = true),

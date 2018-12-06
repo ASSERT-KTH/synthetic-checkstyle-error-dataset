@@ -1,0 +1,5 @@
+281c281,282
+<         conversions.put( new Key( targetType, sourceType ), reverse( conversion ) );
+---
+>         conversions.put( new Key
+> ( targetType, sourceType ), reverse( conversion ) );

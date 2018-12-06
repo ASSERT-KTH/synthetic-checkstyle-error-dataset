@@ -1,0 +1,4 @@
+226c226
+<         register( Instant.class, Date.class, new JavaInstantToDateConversion() );
+---
+>         	register( Instant.class, Date.class, new JavaInstantToDateConversion() );

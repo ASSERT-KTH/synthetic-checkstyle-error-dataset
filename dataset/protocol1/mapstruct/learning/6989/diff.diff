@@ -1,0 +1,5 @@
+395,396c395
+<      * @return true, if the type is annotated with an annotation of the specified type (super-types are not inspected)
+<      */
+---
+>      * @return true, if the type is annotated with an annotation of the specified type (super-types are not inspected)     */

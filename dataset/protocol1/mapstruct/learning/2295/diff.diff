@@ -1,0 +1,5 @@
+208c208,209
+<         URL resource = DefaultVersionInformation.class.getClassLoader().getResource( classFileName );
+---
+>         URL resource = DefaultVersionInformation.class.getClassLoader().getResource( classFileName 
+> );

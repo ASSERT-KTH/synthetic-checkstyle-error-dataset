@@ -1,0 +1,4 @@
+128c128
+<     Class<?> config() default void.class;
+---
+>     Class<?> config(	) default void.class;

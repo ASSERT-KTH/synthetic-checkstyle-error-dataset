@@ -1,0 +1,4 @@
+96c96
+<             if ( !isFirst ) {
+---
+>             if ( !isFirst ){

@@ -1,0 +1,5 @@
+54,55c54
+<     public static <T> T getMapper(Class<T> clazz) {
+<         try {
+---
+>     public static <T> T getMapper(Class<T> clazz) {        try {

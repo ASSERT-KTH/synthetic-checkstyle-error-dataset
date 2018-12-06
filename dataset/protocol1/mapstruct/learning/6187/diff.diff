@@ -1,0 +1,4 @@
+22c22
+<     public static final String LOCAL_DATE_FQN = "org.joda.time.LocalDate";
+---
+>     public static 	final String LOCAL_DATE_FQN = "org.joda.time.LocalDate";

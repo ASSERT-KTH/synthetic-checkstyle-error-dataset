@@ -1,0 +1,5 @@
+20c20,21
+<     private final boolean alwaysGenerateSpi;
+---
+>     
+> private final boolean alwaysGenerateSpi;

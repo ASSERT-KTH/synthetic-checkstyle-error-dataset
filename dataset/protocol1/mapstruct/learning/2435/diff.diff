@@ -1,0 +1,4 @@
+299c299
+<         if ( !mapperToImplementAsType.canAccess( usedMapperAsType, method ) ) {
+---
+>         if ( !mapperToImplementAsType.canAccess( usedMapperAsType, method ) ) 	{

@@ -1,0 +1,4 @@
+21c21
+< import static org.mapstruct.ap.internal.util.Executables.isPublicNotStatic;
+---
+> import static org.mapstruct.ap.internal	.util.Executables.isPublicNotStatic;

@@ -1,0 +1,5 @@
+33c33,34
+< public abstract class AbstractJavaTimeToStringConversion extends SimpleConversion {
+---
+> public abstract 
+> class AbstractJavaTimeToStringConversion extends SimpleConversion {

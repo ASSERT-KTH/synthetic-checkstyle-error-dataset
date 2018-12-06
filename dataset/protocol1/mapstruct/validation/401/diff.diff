@@ -1,0 +1,4 @@
+473c473
+<                                 primitiveType == boolean.class ? typeUtils.getPrimitiveType( TypeKind.BOOLEAN ) :
+---
+>                                 primitiveType == boolean.class ? typeUtils. getPrimitiveType( TypeKind.BOOLEAN ) :

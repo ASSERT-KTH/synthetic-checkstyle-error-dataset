@@ -1,0 +1,5 @@
+29,30c29
+<  *     the mapping between the source and target attributes</li>
+<  *     <li>If MapStruct could not create a name based mapping method an error will be raised at build time,
+---
+>  *     the mapping between the source and target attributes</li> *     <li>If MapStruct could not create a name based mapping method an error will be raised at build time,

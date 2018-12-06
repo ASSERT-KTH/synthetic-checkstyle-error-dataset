@@ -1,0 +1,4 @@
+45c45
+<     Class<?>[] uses() default { };
+---
+>     Class<?>[] uses() default { } ;

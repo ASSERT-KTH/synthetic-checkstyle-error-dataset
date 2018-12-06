@@ -1,0 +1,4 @@
+330c330
+<         this.defaultJavaExpression = mapping.defaultJavaExpression;
+---
+>         this. defaultJavaExpression = mapping.defaultJavaExpression;

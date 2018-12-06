@@ -1,0 +1,4 @@
+121c121
+<             ContextPrism.getInstanceOn( element ) != null,
+---
+>             ContextPrism.getInstanceOn(element ) != null,

@@ -1,0 +1,5 @@
+31c31,32
+<         if ( modifiers.contains( Modifier.PUBLIC ) ) {
+---
+>         if ( modifiers.contains( 
+> Modifier.PUBLIC ) ) {

@@ -1,0 +1,5 @@
+304,305c304
+<                 mapping.init( method, messager, typeFactory, accessorNaming );
+<                 mappings.put( targetPropertyName, Arrays.asList( mapping ) );
+---
+>                 mapping.init( method, messager, typeFactory, accessorNaming );                mappings.put( targetPropertyName, Arrays.asList( mapping ) );

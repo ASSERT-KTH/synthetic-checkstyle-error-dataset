@@ -1,0 +1,5 @@
+37,38c37
+<         if ( criteria.isLifecycleCallbackRequired() || criteria.isObjectFactoryRequired() ) {
+<             return methods;
+---
+>         if ( criteria.isLifecycleCallbackRequired() || criteria.isObjectFactoryRequired() ) {            return methods;

@@ -1,0 +1,5 @@
+257c257,258
+<                 errorMessage = new NoPropertyErrorMessage( mapping, method, messager, entryNames, index, nextType );
+---
+>                 errorMessage = new NoPropertyErrorMessage( mapping, method, messager, entryNames, index, nextType )
+> ;

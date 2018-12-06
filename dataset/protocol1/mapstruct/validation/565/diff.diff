@@ -1,0 +1,4 @@
+44c44
+<         return conversionContext.getTypeFactory().getType( canonicalName ).createReferenceName();
+---
+>         return conversionContext.getTypeFactory().getType( canonicalName 	).createReferenceName();

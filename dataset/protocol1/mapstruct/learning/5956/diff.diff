@@ -1,0 +1,5 @@
+68,69c68
+<      * @return {@code true} if the underlying type needs adjustment for the initial capacity constructor, {@code
+<      * false} otherwise
+---
+>      * @return {@code true} if the underlying type needs adjustment for the initial capacity constructor, {@code     * false} otherwise

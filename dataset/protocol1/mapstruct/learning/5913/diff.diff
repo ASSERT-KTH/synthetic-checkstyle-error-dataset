@@ -1,0 +1,4 @@
+71c71
+<         return typeFactory.isTypeAvailable( JodaTimeConstants.DATE_TIME_FQN  );
+---
+>         return 	typeFactory.isTypeAvailable( JodaTimeConstants.DATE_TIME_FQN  );

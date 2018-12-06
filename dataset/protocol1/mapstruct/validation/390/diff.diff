@@ -1,0 +1,4 @@
+224c224
+<         for ( Type thrownType : thrownTypesToAdd ) {
+---
+>         for ( 	Type thrownType : thrownTypesToAdd ) {

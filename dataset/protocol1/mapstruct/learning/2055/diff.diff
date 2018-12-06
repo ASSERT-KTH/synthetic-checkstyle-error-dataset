@@ -1,0 +1,4 @@
+64c64
+<             SourceMethod candidateMethod = (SourceMethod) candidate.getMethod();
+---
+>             SourceMethod candidateMethod = ( SourceMethod) candidate.getMethod();

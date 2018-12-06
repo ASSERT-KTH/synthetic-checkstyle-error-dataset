@@ -1,0 +1,4 @@
+104c104
+<         for ( ReferenceBinding ifc : typeBinding.superInterfaces() ) {
+---
+>         for ( ReferenceBinding ifc : typeBinding.superInterfaces(	) ) {

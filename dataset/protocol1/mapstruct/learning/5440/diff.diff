@@ -1,0 +1,5 @@
+483,484c483
+<                         .defaultJavaExpression( mapping.getDefaultJavaExpression() )
+<                         .mirror( mapping.getMirror() )
+---
+>                         .defaultJavaExpression( mapping.getDefaultJavaExpression() )                        .mirror( mapping.getMirror() )

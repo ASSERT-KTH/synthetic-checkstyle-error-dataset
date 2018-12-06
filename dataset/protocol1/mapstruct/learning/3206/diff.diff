@@ -1,0 +1,4 @@
+688c688
+<             return candidates.get( 0 );
+---
+>             return candidates. get( 0 );

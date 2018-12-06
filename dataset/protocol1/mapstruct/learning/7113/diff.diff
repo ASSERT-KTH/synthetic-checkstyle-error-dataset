@@ -1,0 +1,4 @@
+105c105
+<     protected GeneratedType(TypeFactory typeFactory, String packageName, String name, String superClassName,
+---
+>     protected GeneratedType	(TypeFactory typeFactory, String packageName, String name, String superClassName,

@@ -1,0 +1,5 @@
+50c50,51
+<             return Collections.singleton( conversionContext.getTypeFactory().getType( DecimalFormat.class ) );
+---
+>             
+> return Collections.singleton( conversionContext.getTypeFactory().getType( DecimalFormat.class ) );

@@ -1,0 +1,4 @@
+410c410
+<         sb.append( getName() ).append( "(" ).append( Strings.join( parameters, ", " ) ).append( ")" );
+---
+>         sb.append( getName() ).append( "(" )	.append( Strings.join( parameters, ", " ) ).append( ")" );

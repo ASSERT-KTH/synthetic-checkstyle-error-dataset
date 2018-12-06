@@ -1,0 +1,5 @@
+287c287,288
+<         default NullValuePropertyMappingStrategy.SET_TO_NULL;
+---
+>         
+> default NullValuePropertyMappingStrategy.SET_TO_NULL;

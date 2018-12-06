@@ -1,0 +1,4 @@
+93c93
+<         return assignment.createLocalVarName( desiredName );
+---
+>         return 	assignment.createLocalVarName( desiredName );

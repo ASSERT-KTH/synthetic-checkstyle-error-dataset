@@ -1,0 +1,4 @@
+19c19
+<         new FreeMarkerModelElementWriter().write( this, context, writer );
+---
+>         new FreeMarkerModelElementWriter().write( this, context, writer ) ;

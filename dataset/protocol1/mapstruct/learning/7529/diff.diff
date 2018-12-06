@@ -1,0 +1,5 @@
+9c9,10
+< import org.mapstruct.ap.internal.model.assignment.GetterWrapperForCollectionsAndMaps;
+---
+> import 
+> org.mapstruct.ap.internal.model.assignment.GetterWrapperForCollectionsAndMaps;

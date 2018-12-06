@@ -1,0 +1,5 @@
+93,94c93
+<             if ( url == null ) {
+<                 throw new IllegalStateException( name + " not found on classpath" );
+---
+>             if ( url == null ) {                throw new IllegalStateException( name + " not found on classpath" );

@@ -1,0 +1,4 @@
+78c78
+<         return typeReferenceName( conversionContext, BigInteger.class );
+---
+>         	return typeReferenceName( conversionContext, BigInteger.class );

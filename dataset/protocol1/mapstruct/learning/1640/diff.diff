@@ -1,0 +1,5 @@
+14,15c14
+<  * Marks a method to be invoked at the end of a generated mapping method, right before the last {@code return} statement
+<  * of the mapping method. The method can be implemented in an abstract mapper class, be declared in a type (class or
+---
+>  * Marks a method to be invoked at the end of a generated mapping method, right before the last {@code return} statement * of the mapping method. The method can be implemented in an abstract mapper class, be declared in a type (class or

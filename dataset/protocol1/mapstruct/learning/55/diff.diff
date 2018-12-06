@@ -1,0 +1,5 @@
+32,33c32
+<         if ( services.hasNext() ) {
+<            throw new IllegalStateException(
+---
+>         if ( services.hasNext() ) {           throw new IllegalStateException(

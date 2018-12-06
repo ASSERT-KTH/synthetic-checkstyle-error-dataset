@@ -1,0 +1,5 @@
+44c44,45
+<         this.index1Name = Strings.getSafeVariableName( "i", existingVariables );
+---
+>         this.index1Name = Strings.getSafeVariableName( 
+> "i", existingVariables );

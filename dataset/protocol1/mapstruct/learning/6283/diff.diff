@@ -1,0 +1,4 @@
+81c81
+<     public ParameterProvidedMethods getContextProvidedMethods() {
+---
+>     public ParameterProvidedMethods 	getContextProvidedMethods() {

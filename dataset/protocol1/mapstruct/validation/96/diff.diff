@@ -1,0 +1,5 @@
+117c117,118
+<         return isAdderMethod( method ) && Character.isUpperCase( method.getSimpleName().toString().charAt( 3 ) );
+---
+>         return 
+> isAdderMethod( method ) && Character.isUpperCase( method.getSimpleName().toString().charAt( 3 ) );

@@ -1,0 +1,4 @@
+670c670
+<                             .dependsOn( mapping != null ? mapping.getDependsOn() : Collections.<String>emptyList() )
+---
+>                             .dependsOn( mapping != null ? mapping. getDependsOn() : Collections.<String>emptyList() )

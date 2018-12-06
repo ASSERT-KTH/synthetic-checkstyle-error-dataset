@@ -1,0 +1,5 @@
+25c25,26
+< public class AdderWrapper extends AssignmentWrapper {
+---
+> public class 
+> AdderWrapper extends AssignmentWrapper {

@@ -1,0 +1,4 @@
+208c208
+<                 conversion.getAssignment().setAssignment( sourceRHS );
+---
+>                 conversion.getAssignment()	.setAssignment( sourceRHS );

@@ -1,0 +1,5 @@
+309c309,310
+<     private SourceReference(Parameter sourceParameter, List<PropertyEntry> sourcePropertyEntries, boolean isValid) {
+---
+>     private SourceReference
+> (Parameter sourceParameter, List<PropertyEntry> sourcePropertyEntries, boolean isValid) {

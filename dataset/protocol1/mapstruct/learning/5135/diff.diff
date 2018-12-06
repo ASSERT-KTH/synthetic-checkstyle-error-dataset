@@ -1,0 +1,4 @@
+19c19
+<     public PrimitiveToPrimitiveConversion(Class<?> sourceType) {
+---
+>     public 	PrimitiveToPrimitiveConversion(Class<?> sourceType) {

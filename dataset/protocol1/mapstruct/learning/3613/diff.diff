@@ -1,0 +1,5 @@
+85,86c85
+<     public SelectionParameters getSelectionParameters() {
+<         return selectionParameters;
+---
+>     public SelectionParameters getSelectionParameters() {        return selectionParameters;

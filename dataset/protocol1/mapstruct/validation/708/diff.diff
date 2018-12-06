@@ -1,0 +1,5 @@
+138,139c138
+<         if ( !targetType.equals( returnType ) ) {
+<             return false;
+---
+>         if ( !targetType.equals( returnType ) ) {            return false;

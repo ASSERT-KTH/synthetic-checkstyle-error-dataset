@@ -1,0 +1,4 @@
+36c36
+<         this.primitiveType = NativeTypes.getPrimitiveType( sourceType );
+---
+>         this.primitiveType = NativeTypes.getPrimitiveType( 	sourceType );

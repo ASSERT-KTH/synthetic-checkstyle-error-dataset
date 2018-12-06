@@ -1,0 +1,4 @@
+44c44
+<             DateFormatValidationResult validationResult = dateFormatValidator.validate( dateFormat );
+---
+>             	DateFormatValidationResult validationResult = dateFormatValidator.validate( dateFormat );

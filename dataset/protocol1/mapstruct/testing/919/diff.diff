@@ -1,0 +1,4 @@
+25c25
+<     public DecoratorConstructor(String name, String delegateName, boolean invokeSuperConstructor) {
+---
+>     public DecoratorConstructor(String name,String delegateName, boolean invokeSuperConstructor) {

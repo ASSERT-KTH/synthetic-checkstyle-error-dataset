@@ -1,0 +1,5 @@
+169c169,170
+<     protected abstract Type getElementType(Type parameterType);
+---
+>     protected abstract Type getElementType(Type 
+> parameterType);

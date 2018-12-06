@@ -1,0 +1,5 @@
+109c109,110
+<         if ( builderCreationMethod.getKind() == ElementKind.CONSTRUCTOR ) {
+---
+>         if ( 
+> builderCreationMethod.getKind() == ElementKind.CONSTRUCTOR ) {

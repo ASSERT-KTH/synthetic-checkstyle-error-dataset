@@ -1,0 +1,4 @@
+37c37
+<             importTypes.add( typeFactory.getType( "org.mapstruct.factory.Mappers" ) );
+---
+>             importTypes.add( typeFactory. getType( "org.mapstruct.factory.Mappers" ) );

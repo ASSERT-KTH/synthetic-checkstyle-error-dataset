@@ -1,0 +1,5 @@
+16,17c16
+<  * Model element that can be used to create a type of {@link Iterable} or {@link java.util.Map}. If an implementation
+<  * type is used and the target type has a constructor with {@code int} as parameter and the source parameter is of
+---
+>  * Model element that can be used to create a type of {@link Iterable} or {@link java.util.Map}. If an implementation * type is used and the target type has a constructor with {@code int} as parameter and the source parameter is of

@@ -1,0 +1,5 @@
+47,48c47
+<         catch ( ClassNotFoundException e ) {
+<             throw new RuntimeException( e );
+---
+>         catch ( ClassNotFoundException e ) {            throw new RuntimeException( e );

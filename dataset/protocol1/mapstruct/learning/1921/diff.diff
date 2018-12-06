@@ -1,0 +1,4 @@
+31c31
+<                 && method.getMethod().isLifecycleCallbackMethod() == criteria.isLifecycleCallbackRequired() ) {
+---
+>                 && method.getMethod().isLifecycleCallbackMethod() == criteria.isLifecycleCallbackRequired() 	) {

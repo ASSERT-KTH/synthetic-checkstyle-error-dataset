@@ -1,0 +1,5 @@
+53,54c53
+<     public boolean isAnnotatedMapper() {
+<         return isAnnotatedMapper;
+---
+>     public boolean isAnnotatedMapper() {        return isAnnotatedMapper;

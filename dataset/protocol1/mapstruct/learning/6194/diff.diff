@@ -1,0 +1,4 @@
+40c40
+<         if ( builderMapping == null && buildMethods.size() == 1 ) {
+---
+>         if ( builderMapping == null&& buildMethods.size() == 1 ) {

@@ -1,0 +1,4 @@
+20c20
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.zoneId;
+---
+> import static org.mapstruct.ap.internal.conversion.ConversionUtils.zoneId ;

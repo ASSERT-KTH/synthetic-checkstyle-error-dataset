@@ -1,0 +1,5 @@
+100c100,101
+<             if ( method instanceof ForgedMethod ) {
+---
+>             if ( method instanceof 
+> ForgedMethod ) {

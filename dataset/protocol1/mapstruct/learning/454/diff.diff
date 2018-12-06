@@ -1,0 +1,5 @@
+48,49c48
+<      * Similar to {@link #qualifiedBy()}, but used in combination with {@code @}{@link Named} in case no custom
+<      * qualifier annotation is defined.
+---
+>      * Similar to {@link #qualifiedBy()}, but used in combination with {@code @}{@link Named} in case no custom     * qualifier annotation is defined.

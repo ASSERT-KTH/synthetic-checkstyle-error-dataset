@@ -1,0 +1,5 @@
+38c38,39
+<         new ReplaceRule( "(alias|status)$", "$1" ), // already singular, but ends in 's'
+---
+>         
+> new ReplaceRule( "(alias|status)$", "$1" ), // already singular, but ends in 's'

@@ -1,0 +1,5 @@
+33c33,34
+<     public TypeMirror getType() {
+---
+>     public 
+> TypeMirror getType() {

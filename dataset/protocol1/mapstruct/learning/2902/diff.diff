@@ -1,0 +1,4 @@
+68c68
+<     public static void addAllFieldsIn(Set<SupportingMappingMethod> supportingMappingMethods, Set<Field> targets) {
+---
+>     public static void addAllFieldsIn(Set<SupportingMappingMethod> supportingMappingMethods, Set<Field	> targets) {

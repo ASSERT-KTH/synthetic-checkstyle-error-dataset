@@ -1,0 +1,4 @@
+54c54
+<     String[] qualifiedByName() default { };
+---
+>     String[] 	qualifiedByName() default { };

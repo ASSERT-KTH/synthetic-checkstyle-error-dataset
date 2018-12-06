@@ -1,0 +1,5 @@
+18,19c18
+<     public EnumMapping(String source, String target) {
+<         this.source = source;
+---
+>     public EnumMapping(String source, String target) {        this.source = source;

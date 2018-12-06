@@ -1,0 +1,4 @@
+27c27
+< import org.mapstruct.ap.internal.util.Strings;
+---
+> import org. mapstruct.ap.internal.util.Strings;

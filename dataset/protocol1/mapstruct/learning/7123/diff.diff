@@ -1,0 +1,4 @@
+489c489
+<                         Strings.join( candidates, ", " )
+---
+>                         Strings.join( candidates, 	", " )

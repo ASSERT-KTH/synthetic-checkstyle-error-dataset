@@ -1,0 +1,5 @@
+116c116,117
+<         throw new IllegalArgumentException( "No type for given name '" + name + "' found in 'importTypes'." );
+---
+>         throw new IllegalArgumentException( "No type for given name '" + name + 
+> "' found in 'importTypes'." );

@@ -1,0 +1,5 @@
+195c195,196
+<                     if ( mapperTypeElement != null && MapperPrism.getInstanceOn( mapperTypeElement ) != null ) {
+---
+>                     if ( 
+> mapperTypeElement != null && MapperPrism.getInstanceOn( mapperTypeElement ) != null ) {

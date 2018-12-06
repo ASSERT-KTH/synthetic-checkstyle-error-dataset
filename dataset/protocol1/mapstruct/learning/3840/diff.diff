@@ -1,0 +1,5 @@
+20,21c20
+< /**
+<  * A {@link MappingMethod} implemented by a {@link Mapper} class which maps one iterable type to another. The collection
+---
+> /** * A {@link MappingMethod} implemented by a {@link Mapper} class which maps one iterable type to another. The collection

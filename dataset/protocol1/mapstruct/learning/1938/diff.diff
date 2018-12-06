@@ -1,0 +1,4 @@
+165c165
+<     public ReportingPolicyPrism getReportingPolicy() {
+---
+>     public ReportingPolicyPrism getReportingPolicy () {

@@ -1,0 +1,4 @@
+34c34
+<     public AnnotationProcessingException(String message, Element element, AnnotationMirror annotationMirror) {
+---
+>     public AnnotationProcessingException(String message, Element element, 	AnnotationMirror annotationMirror) {

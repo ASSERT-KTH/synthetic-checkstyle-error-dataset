@@ -1,0 +1,5 @@
+27,28c27
+<     NormalTypeMappingMethod(Method method, Collection<String> existingVariableNames, MethodReference factoryMethod,
+<         boolean mapNullToDefault,
+---
+>     NormalTypeMappingMethod(Method method, Collection<String> existingVariableNames, MethodReference factoryMethod,        boolean mapNullToDefault,

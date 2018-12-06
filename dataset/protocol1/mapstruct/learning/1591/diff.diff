@@ -1,0 +1,4 @@
+45c45
+<         ForgedMethod forgedMethod = new ForgedMethod(
+---
+>         ForgedMethod forgedMethod 	= new ForgedMethod(

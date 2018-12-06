@@ -1,0 +1,4 @@
+79c79
+<             SupportingConstructorFragment fragment = supportingMappingMethod.getSupportingConstructorFragment();
+---
+>             SupportingConstructorFragment fragment = supportingMappingMethod.getSupportingConstructorFragment(	);

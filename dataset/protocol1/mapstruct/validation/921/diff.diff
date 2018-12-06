@@ -1,0 +1,5 @@
+155c155,156
+<         if ( hasNonObjectSuperclass( element ) ) {
+---
+>         
+> if ( hasNonObjectSuperclass( element ) ) {

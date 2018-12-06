@@ -1,0 +1,5 @@
+88c88,89
+<         Node other = (Node) obj;
+---
+>         
+> Node other = (Node) obj;

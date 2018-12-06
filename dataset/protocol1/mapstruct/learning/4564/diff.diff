@@ -1,0 +1,4 @@
+552c552
+<                     appliesToAll.add( mapping );
+---
+>                     appliesToAll. add( mapping );

@@ -1,0 +1,4 @@
+35c35
+<         if ( context.getOptions().isAlwaysGenerateSpi() ) {
+---
+>         if ( context.getOptions().isAlwaysGenerateSpi() ){

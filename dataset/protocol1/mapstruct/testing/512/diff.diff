@@ -1,0 +1,5 @@
+36c36,37
+<     public Set<Type> getImportTypes() {
+---
+>     public Set<Type> getImportTypes
+> () {

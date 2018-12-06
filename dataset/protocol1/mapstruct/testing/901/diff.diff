@@ -1,0 +1,5 @@
+44c44,45
+<         new ReplaceRule( "(shoe)s$", "$1" ),
+---
+>         new ReplaceRule( "(shoe)s$", 
+> "$1" ),

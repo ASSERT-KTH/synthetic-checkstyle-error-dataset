@@ -1,0 +1,4 @@
+318c318
+<         return getSourceParameters().size() == 1 && method.getSourceParameters().size() == 1
+---
+>         return getSourceParameters().size() == 1 && method.getSourceParameters()	.size() == 1

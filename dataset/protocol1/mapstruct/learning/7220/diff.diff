@@ -1,0 +1,4 @@
+131c131
+<             Boolean.valueOf( processingEnv.getOptions().get( SUPPRESS_GENERATOR_TIMESTAMP ) ),
+---
+>             Boolean.valueOf( processingEnv.getOptions(). get( SUPPRESS_GENERATOR_TIMESTAMP ) ),

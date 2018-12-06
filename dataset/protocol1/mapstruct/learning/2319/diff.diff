@@ -1,0 +1,5 @@
+33,34c33
+<         Configuration configuration = context.get( Configuration.class );
+<         Template template = configuration.getTemplate( writable.getTemplateName() );
+---
+>         Configuration configuration = context.get( Configuration.class );        Template template = configuration.getTemplate( writable.getTemplateName() );

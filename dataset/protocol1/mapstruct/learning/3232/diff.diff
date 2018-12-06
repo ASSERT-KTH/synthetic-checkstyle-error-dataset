@@ -1,0 +1,5 @@
+54,55c54
+<     /**
+<      * Resolves the most suitable way for mapping an element (property, iterable element etc.) from source to target.
+---
+>     /**     * Resolves the most suitable way for mapping an element (property, iterable element etc.) from source to target.

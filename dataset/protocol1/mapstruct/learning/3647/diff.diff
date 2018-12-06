@@ -1,0 +1,4 @@
+58c58
+<                 helperImports.add( ctx.getTypeFactory().getType( Collectors.class ) );
+---
+>                 helperImports.add( ctx.getTypeFactory().getType( 	Collectors.class ) );

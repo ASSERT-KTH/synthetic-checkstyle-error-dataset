@@ -1,0 +1,4 @@
+8c8
+< import javax.lang.model.element.AnnotationMirror;
+---
+> import javax.lang. model.element.AnnotationMirror;

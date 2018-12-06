@@ -1,0 +1,5 @@
+766,767c766
+<                     String targetErrorMessage = method.getReturnType().toString();
+<                     if ( ( (ForgedMethod) method ).getHistory() != null ) {
+---
+>                     String targetErrorMessage = method.getReturnType().toString();                    if ( ( (ForgedMethod) method ).getHistory() != null ) {

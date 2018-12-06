@@ -1,0 +1,5 @@
+101,102c101
+<         registerNativeTypeConversion( Integer.class, float.class );
+<         registerNativeTypeConversion( Integer.class, Float.class );
+---
+>         registerNativeTypeConversion( Integer.class, float.class );        registerNativeTypeConversion( Integer.class, Float.class );

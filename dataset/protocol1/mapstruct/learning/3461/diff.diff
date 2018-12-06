@@ -1,0 +1,4 @@
+50c50
+<                 imported.addAll( targetType.getImplementationType().getImportTypes() );
+---
+>                 imported.addAll( targetType.getImplementationType().getImportTypes(	) );

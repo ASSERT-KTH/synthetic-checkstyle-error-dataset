@@ -1,0 +1,4 @@
+32c32
+<     public static <T> Set<T> asSet(Collection<T> collection, T... elements) {
+---
+>     public 	static <T> Set<T> asSet(Collection<T> collection, T... elements) {

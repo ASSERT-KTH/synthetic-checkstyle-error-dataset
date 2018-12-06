@@ -1,0 +1,4 @@
+211c211
+<         if ( executable.getSimpleName().contentEquals( "equals" ) && executable.getParameters().size() == 1
+---
+>         if ( executable.getSimpleName().contentEquals( "equals" 	) && executable.getParameters().size() == 1

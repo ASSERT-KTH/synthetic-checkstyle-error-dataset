@@ -1,0 +1,5 @@
+549c549,550
+<         private boolean hasCompatibleCopyConstructor(Type sourceType, Type targetType) {
+---
+>         private boolean hasCompatibleCopyConstructor(Type 
+> sourceType, Type targetType) {

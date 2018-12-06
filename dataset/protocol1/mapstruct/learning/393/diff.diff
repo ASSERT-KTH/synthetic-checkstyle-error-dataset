@@ -1,0 +1,4 @@
+30c30
+<     public static boolean isEnumMapping(Method method) {
+---
+>     public static boolean isEnumMapping(Method 	method) {

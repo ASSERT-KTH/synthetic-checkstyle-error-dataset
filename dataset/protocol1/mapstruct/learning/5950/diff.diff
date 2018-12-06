@@ -1,0 +1,5 @@
+107,108c107
+<                 public TypeElement visitType(TypeElement e, Void p) {
+<                     return e;
+---
+>                 public TypeElement visitType(TypeElement e, Void p) {                    return e;

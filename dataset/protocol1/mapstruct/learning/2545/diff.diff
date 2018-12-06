@@ -1,0 +1,5 @@
+237c237,238
+<     public Type getDefiningType() {
+---
+>     public 
+> Type getDefiningType() {

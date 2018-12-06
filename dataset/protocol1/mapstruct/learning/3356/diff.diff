@@ -1,0 +1,4 @@
+110c110
+<         hash = 23 * hash + Arrays.deepHashCode( this.fullName );
+---
+>         hash = 23 *hash + Arrays.deepHashCode( this.fullName );

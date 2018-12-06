@@ -1,0 +1,5 @@
+46c46,47
+<             filterBeforeMappingMethods( getAllAvailableMethods( method, ctx.getSourceModel() ) ),
+---
+>             filterBeforeMappingMethods( getAllAvailableMethods( method, ctx.getSourceModel() 
+> ) ),

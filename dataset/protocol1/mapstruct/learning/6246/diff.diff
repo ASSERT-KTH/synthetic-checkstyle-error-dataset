@@ -1,0 +1,4 @@
+24c24
+<     BEANMAPPING_SEVERAL_POSSIBLE_TARGET_ACCESSORS( "Found several matching getters for property \"%s\"." ),
+---
+>     BEANMAPPING_SEVERAL_POSSIBLE_TARGET_ACCESSORS	( "Found several matching getters for property \"%s\"." ),

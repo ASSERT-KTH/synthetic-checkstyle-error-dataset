@@ -1,0 +1,5 @@
+35,36c35
+<         if ( mapper.getDecorator() != null ) {
+<             typeAnnotations.add( qualifierDelegate() );
+---
+>         if ( mapper.getDecorator() != null ) {            typeAnnotations.add( qualifierDelegate() );

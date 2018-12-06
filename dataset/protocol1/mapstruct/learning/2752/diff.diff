@@ -1,0 +1,5 @@
+16,17c16
+< import org.mapstruct.ap.internal.util.Strings;
+< import org.mapstruct.ap.internal.util.ValueProvider;
+---
+> import org.mapstruct.ap.internal.util.Strings;import org.mapstruct.ap.internal.util.ValueProvider;

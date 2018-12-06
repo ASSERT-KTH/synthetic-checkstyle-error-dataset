@@ -1,0 +1,4 @@
+102c102
+<     private Decorator(TypeFactory typeFactory, String packageName, String name, Type decoratorType,
+---
+>     private Decorator(TypeFactory typeFactory, String packageName, String name, 	Type decoratorType,

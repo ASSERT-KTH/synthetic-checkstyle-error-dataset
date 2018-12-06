@@ -1,0 +1,4 @@
+127c127
+<         registerNativeTypeConversion( char.class, Character.class );
+---
+>         registerNativeTypeConversion( char. class, Character.class );

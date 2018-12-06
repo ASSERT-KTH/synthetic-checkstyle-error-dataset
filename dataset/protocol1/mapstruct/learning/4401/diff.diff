@@ -1,0 +1,5 @@
+500c500,501
+<     private Map<String, List<Mapping>> getMappings(ExecutableElement method) {
+---
+>     private Map<String
+> , List<Mapping>> getMappings(ExecutableElement method) {

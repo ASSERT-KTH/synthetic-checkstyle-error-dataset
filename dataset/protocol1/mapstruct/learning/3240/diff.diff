@@ -1,0 +1,5 @@
+111,112c111
+<     private boolean equals(Object object1, Object object2) {
+<         if ( object1 == null ) {
+---
+>     private boolean equals(Object object1, Object object2) {        if ( object1 == null ) {

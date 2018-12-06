@@ -1,0 +1,5 @@
+42c42,43
+< import org.mapstruct.ap.internal.util.AccessorNamingUtils;
+---
+> import org.mapstruct.ap.internal.util.AccessorNamingUtils
+> ;

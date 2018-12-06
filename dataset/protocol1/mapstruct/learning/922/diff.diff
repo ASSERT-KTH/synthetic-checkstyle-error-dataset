@@ -1,0 +1,5 @@
+58,59c58
+<     @GeneratePrism(value = BeforeMapping.class, publicAccess = true),
+<     @GeneratePrism(value = ValueMapping.class, publicAccess = true),
+---
+>     @GeneratePrism(value = BeforeMapping.class, publicAccess = true),    @GeneratePrism(value = ValueMapping.class, publicAccess = true),

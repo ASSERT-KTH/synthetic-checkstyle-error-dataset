@@ -1,0 +1,5 @@
+14c14,15
+< public enum NullValuePropertyMappingStrategyPrism {
+---
+> public enum 
+> NullValuePropertyMappingStrategyPrism {

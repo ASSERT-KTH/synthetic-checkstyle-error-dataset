@@ -1,0 +1,4 @@
+104c104
+<         return messager.isErroneous();
+---
+>         return messager.isErroneous ();

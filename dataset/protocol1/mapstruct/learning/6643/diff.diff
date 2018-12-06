@@ -1,0 +1,4 @@
+41c41
+<         ForgedMethodHistory history = null;
+---
+>         	ForgedMethodHistory history = null;

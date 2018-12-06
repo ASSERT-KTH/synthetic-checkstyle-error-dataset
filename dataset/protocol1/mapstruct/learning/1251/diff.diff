@@ -1,0 +1,5 @@
+179c179,180
+<     public void setMapMapping(MapMapping mapMapping) {
+---
+>     public void setMapMapping(MapMapping 
+> mapMapping) {

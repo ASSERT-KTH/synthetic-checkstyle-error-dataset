@@ -1,0 +1,4 @@
+15c15
+< import org.mapstruct.ap.internal.prism.NullValuePropertyMappingStrategyPrism;
+---
+> import org.mapstruct.ap.internal.prism	.NullValuePropertyMappingStrategyPrism;

@@ -1,0 +1,4 @@
+25c25
+<     public BuiltInMappingMethods(TypeFactory typeFactory) {
+---
+>     public BuiltInMappingMethods(	TypeFactory typeFactory) {

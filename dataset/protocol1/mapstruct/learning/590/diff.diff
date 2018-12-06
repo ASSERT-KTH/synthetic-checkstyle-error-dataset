@@ -1,0 +1,5 @@
+336,337c336
+<         this.targetAnnotationValue = mapping.targetAnnotationValue;
+<         this.formattingParameters = mapping.formattingParameters;
+---
+>         this.targetAnnotationValue = mapping.targetAnnotationValue;        this.formattingParameters = mapping.formattingParameters;

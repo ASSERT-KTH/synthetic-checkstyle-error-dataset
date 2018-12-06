@@ -1,0 +1,5 @@
+41c41,42
+<         new ReplaceRule( "(octop|vir)i$", "$1us" ),
+---
+>         new ReplaceRule( "(octop|vir)i$", "$1us" 
+> ),

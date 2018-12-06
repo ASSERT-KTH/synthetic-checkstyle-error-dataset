@@ -1,0 +1,4 @@
+64c64
+<     NullValueMappingStrategy nullValueMappingStrategy() default NullValueMappingStrategy.RETURN_NULL;
+---
+>     NullValueMappingStrategy nullValueMappingStrategy() default NullValueMappingStrategy. RETURN_NULL;

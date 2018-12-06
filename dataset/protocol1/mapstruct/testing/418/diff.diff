@@ -1,0 +1,4 @@
+66c66
+<     protected boolean requiresGenerationOfDecoratorClass() {
+---
+>     protected boolean 	requiresGenerationOfDecoratorClass() {

@@ -1,0 +1,5 @@
+44,45c44
+<      * Checks if MapStruct should not generate an automatic sub-mapping for the provided {@link TypeElement}, i.e.
+<      * MapStruct will not try to descent into this class and won't try to automatically map it with some other type.
+---
+>      * Checks if MapStruct should not generate an automatic sub-mapping for the provided {@link TypeElement}, i.e.     * MapStruct will not try to descent into this class and won't try to automatically map it with some other type.

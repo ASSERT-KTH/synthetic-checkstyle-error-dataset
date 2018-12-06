@@ -1,0 +1,4 @@
+59c59
+<     public boolean isAssignable(TypeMirror t1, TypeMirror t2) {
+---
+>     public boolean isAssignable(TypeMirror t1, TypeMirror 	t2) {

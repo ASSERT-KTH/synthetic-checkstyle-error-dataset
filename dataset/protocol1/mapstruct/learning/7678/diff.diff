@@ -1,0 +1,5 @@
+22,23c22
+< import org.mapstruct.ap.internal.model.source.SourceMethod;
+< import org.mapstruct.ap.internal.model.source.selector.MethodSelectors;
+---
+> import org.mapstruct.ap.internal.model.source.SourceMethod;import org.mapstruct.ap.internal.model.source.selector.MethodSelectors;

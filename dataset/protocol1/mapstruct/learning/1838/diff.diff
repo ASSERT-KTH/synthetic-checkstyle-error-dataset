@@ -1,0 +1,5 @@
+79c79,80
+<     ENUMMAPPING_NON_EXISTING_CONSTANT( "Constant %s doesn't exist in enum type %s." ),
+---
+>     ENUMMAPPING_NON_EXISTING_CONSTANT( "Constant %s doesn't exist in enum type %s." 
+> ),

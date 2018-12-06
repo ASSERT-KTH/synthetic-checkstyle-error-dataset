@@ -1,0 +1,5 @@
+71,72c71
+<     public boolean isLoadFactorAdjustment() {
+<         return loadFactorAdjustment;
+---
+>     public boolean isLoadFactorAdjustment() {        return loadFactorAdjustment;

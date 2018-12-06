@@ -1,0 +1,4 @@
+291c291
+<                 if ( !typeToAdd.getTypeElement().getNestingKind().isNested() ) {
+---
+>                 if ( !typeToAdd.getTypeElement()	.getNestingKind().isNested() ) {

@@ -1,0 +1,5 @@
+100c100,101
+<         if ( declaredType == null ) {
+---
+>         if ( declaredType 
+> == null ) {

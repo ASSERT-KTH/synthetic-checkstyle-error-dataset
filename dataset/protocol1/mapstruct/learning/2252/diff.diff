@@ -1,0 +1,5 @@
+694c694,695
+<                     mappings.put( mapping.getTargetName(), Collections.singletonList( mapping ) );
+---
+>                     mappings.put( mapping.getTargetName(), Collections.singletonList( mapping ) )
+> ;

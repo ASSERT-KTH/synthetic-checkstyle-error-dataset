@@ -1,0 +1,5 @@
+84c84,85
+<             conversionString.append( defaultDateFormatPattern( conversionContext ) );
+---
+>             conversionString.append( defaultDateFormatPattern( 
+> conversionContext ) );

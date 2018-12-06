@@ -1,0 +1,5 @@
+114,115c114
+<             if ( !isFirst ) {
+<                 sb.append( capitalize( object.toString() ) );
+---
+>             if ( !isFirst ) {                sb.append( capitalize( object.toString() ) );

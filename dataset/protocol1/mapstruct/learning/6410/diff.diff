@@ -1,0 +1,5 @@
+101c101,102
+<         TypeMirror builderCreationOwner = builderCreationMethod.getEnclosingElement().asType();
+---
+>         TypeMirror builderCreationOwner = builderCreationMethod.getEnclosingElement().asType
+> ();

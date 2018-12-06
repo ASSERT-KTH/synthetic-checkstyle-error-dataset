@@ -1,0 +1,4 @@
+15c15
+<     public static final String STREAM_FQN = "java.util.stream.Stream";
+---
+>     public static final String STREAM_FQN ="java.util.stream.Stream";

@@ -1,0 +1,5 @@
+31,32c31
+<                 getterMethods.add( method );
+<             }
+---
+>                 getterMethods.add( method );            }

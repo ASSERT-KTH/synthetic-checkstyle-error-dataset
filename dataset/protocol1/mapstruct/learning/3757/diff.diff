@@ -1,0 +1,5 @@
+60c60,61
+<         for ( MethodSelector selector : selectors ) {
+---
+>         for ( MethodSelector selector 
+> : selectors ) {

@@ -1,0 +1,5 @@
+12,13c12
+< /**
+<  * Indicates an error during annotation processing. Should only be thrown in non-recoverable situations such as errors
+---
+> /** * Indicates an error during annotation processing. Should only be thrown in non-recoverable situations such as errors

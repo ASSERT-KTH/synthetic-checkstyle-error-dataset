@@ -1,0 +1,4 @@
+155c155
+<     public Diagnostic.Kind getDiagnosticKind() {
+---
+>     public 	Diagnostic.Kind getDiagnosticKind() {

@@ -1,0 +1,5 @@
+50c50,51
+<         return new FinalField( dataTypeFactoryType, Strings.decapitalize( DatatypeFactory.class.getSimpleName() ) );
+---
+>         return new FinalField( dataTypeFactoryType, Strings.decapitalize( DatatypeFactory.class.getSimpleName() ) 
+> );

@@ -1,0 +1,5 @@
+372c372,373
+<             return new TargetReference( null, newPropertyEntries, isValid );
+---
+>             return new TargetReference
+> ( null, newPropertyEntries, isValid );

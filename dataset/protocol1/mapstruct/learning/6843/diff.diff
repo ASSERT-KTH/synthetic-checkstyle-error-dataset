@@ -1,0 +1,5 @@
+19c19,20
+<     public VariableElementAccessor(VariableElement element) {
+---
+>     public VariableElementAccessor
+> (VariableElement element) {

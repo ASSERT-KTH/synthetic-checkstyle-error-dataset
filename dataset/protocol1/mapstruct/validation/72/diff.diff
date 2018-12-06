@@ -1,0 +1,5 @@
+499c499,500
+<                     declaredType.getTypeArguments().toArray( new TypeMirror[] { } )
+---
+>                     
+> declaredType.getTypeArguments().toArray( new TypeMirror[] { } )

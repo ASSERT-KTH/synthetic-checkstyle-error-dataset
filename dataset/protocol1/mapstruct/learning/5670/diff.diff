@@ -1,0 +1,4 @@
+43c43
+<     public Parameter getParameter() {
+---
+>     public Parameter 	getParameter() {

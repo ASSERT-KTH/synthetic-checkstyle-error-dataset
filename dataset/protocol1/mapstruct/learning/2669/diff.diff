@@ -1,0 +1,5 @@
+91,92c91
+<      * <b>NOTE:</b>When using &lt;ANY_REMAINING&gt;, MapStruct will perform the normal name based mapping, in which
+<      * source is mapped to target based on enum identifier equality. Using &lt;ANY_UNMAPPED&gt; will not apply name
+---
+>      * <b>NOTE:</b>When using &lt;ANY_REMAINING&gt;, MapStruct will perform the normal name based mapping, in which     * source is mapped to target based on enum identifier equality. Using &lt;ANY_UNMAPPED&gt; will not apply name

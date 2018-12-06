@@ -1,0 +1,4 @@
+109c109
+<             SelectionParameters selectionParameters = getSelectionParameters( method, ctx.getTypeUtils() );
+---
+>             SelectionParameters selectionParameters = getSelectionParameters( method,ctx.getTypeUtils() );

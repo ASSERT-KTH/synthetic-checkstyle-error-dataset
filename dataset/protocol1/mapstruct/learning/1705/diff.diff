@@ -1,0 +1,5 @@
+32,33c32
+<  * &#64;ValueMapping(source = "NORMAL", target = "DEFAULT")
+<  * ExternalOrderType orderTypeToExternalOrderType(OrderType orderType);
+---
+>  * &#64;ValueMapping(source = "NORMAL", target = "DEFAULT") * ExternalOrderType orderTypeToExternalOrderType(OrderType orderType);

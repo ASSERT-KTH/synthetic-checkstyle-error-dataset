@@ -1,0 +1,5 @@
+24c24,25
+< public class SpringComponentProcessor extends AnnotationBasedComponentModelProcessor {
+---
+> public 
+> class SpringComponentProcessor extends AnnotationBasedComponentModelProcessor {

@@ -1,0 +1,4 @@
+68c68
+<                 name = Strings.getSafeVariableName( name, Field.getFieldNames( existingFields ) );
+---
+>                 name = Strings.getSafeVariableName(name, Field.getFieldNames( existingFields ) );

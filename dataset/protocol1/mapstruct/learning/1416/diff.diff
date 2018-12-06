@@ -1,0 +1,5 @@
+16,17c16
+< import org.mapstruct.DecoratedWith;
+< import org.mapstruct.InheritConfiguration;
+---
+> import org.mapstruct.DecoratedWith;import org.mapstruct.InheritConfiguration;

@@ -1,0 +1,4 @@
+207c207
+<             && !typeUtils.isSameType( method.getReturnType(), typeElement.asType() );
+---
+>             && !typeUtils.isSameType( method	.getReturnType(), typeElement.asType() );

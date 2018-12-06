@@ -1,0 +1,5 @@
+22c22,23
+<     private final String delegateName;
+---
+>     private final String delegateName
+> ;

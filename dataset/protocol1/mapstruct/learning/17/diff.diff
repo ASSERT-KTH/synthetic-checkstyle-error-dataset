@@ -1,0 +1,4 @@
+242c242
+<     public MapperConfiguration getMapperConfiguration() {
+---
+>     	public MapperConfiguration getMapperConfiguration() {

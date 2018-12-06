@@ -1,0 +1,4 @@
+26c26
+<     public ForgedMethodHistory(ForgedMethodHistory history, String sourceElement, String targetPropertyName,
+---
+>     public ForgedMethodHistory(ForgedMethodHistory 	history, String sourceElement, String targetPropertyName,

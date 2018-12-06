@@ -1,0 +1,4 @@
+20c20
+< public @interface Mappings {
+---
+> public @interface Mappings{

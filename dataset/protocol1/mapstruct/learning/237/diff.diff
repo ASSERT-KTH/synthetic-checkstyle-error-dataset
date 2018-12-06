@@ -1,0 +1,5 @@
+1037c1037,1038
+<         return targetReadAccessorProvider == null ? null : targetReadAccessorProvider.getValue();
+---
+>         return targetReadAccessorProvider == 
+> null ? null : targetReadAccessorProvider.getValue();

@@ -1,0 +1,5 @@
+17,18c17
+<  * With the default implementation, MapStruct will not consider classes in the {@code java} and {@code javax} package
+<  * as source / target for an automatic sub-mapping. The only exception is the {@link java.util.Collection},
+---
+>  * With the default implementation, MapStruct will not consider classes in the {@code java} and {@code javax} package * as source / target for an automatic sub-mapping. The only exception is the {@link java.util.Collection},

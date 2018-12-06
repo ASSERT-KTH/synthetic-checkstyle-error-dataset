@@ -1,0 +1,4 @@
+49c49
+<         this.accessorNaming = roundContext.getAnnotationProcessorContext().getAccessorNaming();
+---
+>         this.accessorNaming = roundContext.getAnnotationProcessorContext ().getAccessorNaming();

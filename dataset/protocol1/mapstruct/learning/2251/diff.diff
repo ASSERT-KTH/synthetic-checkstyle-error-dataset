@@ -1,0 +1,4 @@
+33c33
+<     RETURN_DEFAULT;
+---
+>     	RETURN_DEFAULT;

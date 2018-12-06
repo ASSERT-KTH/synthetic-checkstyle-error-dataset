@@ -1,0 +1,5 @@
+108,109c108
+<     private MethodReference(String name, Type definingType, boolean isStatic) {
+<         this.name = name;
+---
+>     private MethodReference(String name, Type definingType, boolean isStatic) {        this.name = name;

@@ -1,0 +1,4 @@
+63c63
+<     private ServicesEntry getServicesEntry(GeneratedType model) {
+---
+>     private ServicesEntry getServicesEntry (GeneratedType model) {

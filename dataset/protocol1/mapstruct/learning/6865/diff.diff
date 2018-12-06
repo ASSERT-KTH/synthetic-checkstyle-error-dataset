@@ -1,0 +1,4 @@
+44c44
+<         return new String( chars );
+---
+>         return new 	String( chars );

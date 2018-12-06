@@ -1,0 +1,5 @@
+68,69c68
+<  * For reading annotation attributes, prisms as generated with help of the <a
+<  * href="https://java.net/projects/hickory">Hickory</a> tool are used. These prisms allow a comfortable access to
+---
+>  * For reading annotation attributes, prisms as generated with help of the <a * href="https://java.net/projects/hickory">Hickory</a> tool are used. These prisms allow a comfortable access to

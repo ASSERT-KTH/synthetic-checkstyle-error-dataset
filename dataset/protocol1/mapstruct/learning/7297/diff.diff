@@ -1,0 +1,4 @@
+32c32
+<     private static final String JAVA_LANG_PACKAGE = "java.lang";
+---
+>     private static final String JAVA_LANG_PACKAGE ="java.lang";

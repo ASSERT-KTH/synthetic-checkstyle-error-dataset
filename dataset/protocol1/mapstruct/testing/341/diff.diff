@@ -1,0 +1,4 @@
+67c67
+<         public Builder buildMethod(Collection<ExecutableElement> methods) {
+---
+>         public Builder buildMethod (Collection<ExecutableElement> methods) {

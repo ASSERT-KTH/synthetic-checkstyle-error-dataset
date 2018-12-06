@@ -1,0 +1,4 @@
+54c54
+<     public ForgedMethod(String name, Type sourceType, Type returnType, MapperConfiguration mapperConfiguration,
+---
+>     	public ForgedMethod(String name, Type sourceType, Type returnType, MapperConfiguration mapperConfiguration,

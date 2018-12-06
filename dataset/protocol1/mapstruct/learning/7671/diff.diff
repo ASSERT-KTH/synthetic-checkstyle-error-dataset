@@ -1,0 +1,4 @@
+77c77
+<             types.addAll( iterableCreation.getImportTypes() );
+---
+>             types.addAll ( iterableCreation.getImportTypes() );

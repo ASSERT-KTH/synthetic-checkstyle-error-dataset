@@ -1,0 +1,4 @@
+65c65
+<                         propertyEntry.getReadAccessor() ) );
+---
+>                         propertyEntry.getReadAccessor(	) ) );

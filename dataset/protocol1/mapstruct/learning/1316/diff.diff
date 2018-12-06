@@ -1,0 +1,4 @@
+105c105
+<                 availableParams.add( ParameterBinding.fromParameter( param ) );
+---
+>                 	availableParams.add( ParameterBinding.fromParameter( param ) );

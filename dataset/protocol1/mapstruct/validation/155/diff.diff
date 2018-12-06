@@ -1,0 +1,4 @@
+322c322
+<         if ( parameters != null ? !parameters.equals( that.parameters ) : that.parameters != null ) {
+---
+>         if ( parameters != null ? !parameters.equals( 	that.parameters ) : that.parameters != null ) {

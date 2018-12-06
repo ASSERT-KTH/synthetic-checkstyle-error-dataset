@@ -1,0 +1,5 @@
+16,17c16
+<     private static final boolean IS_XML_GREGORIAN_CALENDAR_PRESENT = ClassUtils.isPresent(
+<         JAVAX_XML_DATATYPE_XMLGREGORIAN_CALENDAR,
+---
+>     private static final boolean IS_XML_GREGORIAN_CALENDAR_PRESENT = ClassUtils.isPresent(        JAVAX_XML_DATATYPE_XMLGREGORIAN_CALENDAR,

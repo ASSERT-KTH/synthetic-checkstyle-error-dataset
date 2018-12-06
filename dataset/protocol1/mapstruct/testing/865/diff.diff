@@ -1,0 +1,5 @@
+39,40c39
+<     private final List<LifecycleCallbackMethodReference> beforeMappingReferencesWithMappingTarget;
+<     private final List<LifecycleCallbackMethodReference> beforeMappingReferencesWithoutMappingTarget;
+---
+>     private final List<LifecycleCallbackMethodReference> beforeMappingReferencesWithMappingTarget;    private final List<LifecycleCallbackMethodReference> beforeMappingReferencesWithoutMappingTarget;

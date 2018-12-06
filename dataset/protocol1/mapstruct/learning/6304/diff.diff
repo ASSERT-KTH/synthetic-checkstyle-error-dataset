@@ -1,0 +1,4 @@
+200c200
+<         if ( mapperConfigPrism != null && mapperPrism.values.injectionStrategy() == null ) {
+---
+>         if ( mapperConfigPrism != null && mapperPrism.values.injectionStrategy()== null ) {

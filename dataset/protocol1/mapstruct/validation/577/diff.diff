@@ -1,0 +1,5 @@
+37c37,38
+<         return bigDecimal( conversionContext ) + ".valueOf( <SOURCE> )";
+---
+>         return bigDecimal( conversionContext ) + ".valueOf( <SOURCE> )"
+> ;

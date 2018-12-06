@@ -1,0 +1,5 @@
+16,17c16
+<  * When generating the implementation of a mapping method, MapStruct will apply the following routine for each
+<  * attribute pair in the source and target object:
+---
+>  * When generating the implementation of a mapping method, MapStruct will apply the following routine for each * attribute pair in the source and target object:

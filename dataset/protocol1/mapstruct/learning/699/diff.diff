@@ -1,0 +1,5 @@
+107c107,108
+<     private static boolean typesEqualsOneOf(Type sourceType, Type targetType, String... typeNames) {
+---
+>     private static boolean typesEqualsOneOf(Type sourceType, Type targetType, String... 
+> typeNames) {

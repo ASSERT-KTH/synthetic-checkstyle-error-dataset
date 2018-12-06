@@ -1,0 +1,4 @@
+170c170
+<                     && method.getMappingBySourcePropertyName( sourceEnumConstant ).isEmpty() ) {
+---
+>                     && method.getMappingBySourcePropertyName( sourceEnumConstant )	.isEmpty() ) {

@@ -1,0 +1,4 @@
+276c276
+<     private void register(Class<?> sourceClass, Class<?> targetClass, ConversionProvider conversion) {
+---
+>     private void register(Class<	?> sourceClass, Class<?> targetClass, ConversionProvider conversion) {

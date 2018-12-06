@@ -1,0 +1,5 @@
+162,163c162
+<                 mapperReferencesForConstructor.add( (AnnotationMapperReference) field );
+<             }
+---
+>                 mapperReferencesForConstructor.add( (AnnotationMapperReference) field );            }

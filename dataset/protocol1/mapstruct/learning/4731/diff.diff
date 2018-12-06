@@ -1,0 +1,4 @@
+241c241
+<         if ( mapperPrism.values.componentModel() != null ) {
+---
+>         if ( mapperPrism.values.componentModel() !=null ) {

@@ -1,0 +1,4 @@
+117c117
+<                 forgedMethod.addThrownTypes( assignment.getThrownTypes() );
+---
+>                 forgedMethod. addThrownTypes( assignment.getThrownTypes() );

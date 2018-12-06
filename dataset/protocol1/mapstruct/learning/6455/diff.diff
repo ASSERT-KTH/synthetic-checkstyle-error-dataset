@@ -1,0 +1,4 @@
+41c41
+<         this.presenceChecker = presenceChecker;
+---
+>         this.presenceChecker 	= presenceChecker;

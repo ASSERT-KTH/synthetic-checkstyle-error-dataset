@@ -1,0 +1,4 @@
+54c54
+<         public T typeFactory(TypeFactory typeFactory) {
+---
+>         	public T typeFactory(TypeFactory typeFactory) {

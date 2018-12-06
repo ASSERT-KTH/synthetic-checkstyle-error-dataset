@@ -1,0 +1,4 @@
+15c15
+< public class PrimitiveToPrimitiveConversion extends SimpleConversion {
+---
+> public class PrimitiveToPrimitiveConversion extends 	SimpleConversion {

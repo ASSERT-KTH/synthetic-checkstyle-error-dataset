@@ -1,0 +1,5 @@
+21,22c21
+<     protected String parseMethod() {
+<         return "parseLocalTime";
+---
+>     protected String parseMethod() {        return "parseLocalTime";

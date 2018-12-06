@@ -1,0 +1,4 @@
+29c29
+<         this.returnType = typeFactory.getType( Calendar.class );
+---
+>         this.returnType = typeFactory.getType( Calendar.class);

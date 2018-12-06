@@ -1,0 +1,5 @@
+180c180,181
+<         return Strings.decapitalize( fullyQualifiedName.substring( fullyQualifiedName.lastIndexOf( '.' ) + 1 ) );
+---
+>         return Strings.decapitalize( 
+> fullyQualifiedName.substring( fullyQualifiedName.lastIndexOf( '.' ) + 1 ) );

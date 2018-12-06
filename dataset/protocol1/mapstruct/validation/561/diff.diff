@@ -1,0 +1,5 @@
+77c77,78
+<     public static String bigInteger(ConversionContext conversionContext) {
+---
+>     public static String 
+> bigInteger(ConversionContext conversionContext) {

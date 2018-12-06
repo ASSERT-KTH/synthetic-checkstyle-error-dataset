@@ -1,0 +1,5 @@
+79c79,80
+<         private Type definingType = null;
+---
+>         private Type 
+> definingType = null;

@@ -1,0 +1,4 @@
+326c326
+<             if ( targetReference.isValid()
+---
+>             if ( 	targetReference.isValid()

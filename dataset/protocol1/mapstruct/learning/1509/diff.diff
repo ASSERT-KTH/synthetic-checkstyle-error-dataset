@@ -1,0 +1,5 @@
+30,31c30
+<             if ( method.getMethod().isObjectFactory() == criteria.isObjectFactoryRequired()
+<                 && method.getMethod().isLifecycleCallbackMethod() == criteria.isLifecycleCallbackRequired() ) {
+---
+>             if ( method.getMethod().isObjectFactory() == criteria.isObjectFactoryRequired()                && method.getMethod().isLifecycleCallbackMethod() == criteria.isLifecycleCallbackRequired() ) {

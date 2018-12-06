@@ -1,0 +1,4 @@
+66c66
+<             if ( other.templateName != null ) {
+---
+>             if ( other.templateName != 	null ) {

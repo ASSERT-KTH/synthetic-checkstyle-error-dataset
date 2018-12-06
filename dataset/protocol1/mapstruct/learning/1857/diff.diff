@@ -1,0 +1,4 @@
+26c26
+<     ReportingPolicyPrism(Diagnostic.Kind diagnosticKind, boolean requiresReport, boolean failsBuild) {
+---
+>     ReportingPolicyPrism(Diagnostic.Kind diagnosticKind, 	boolean requiresReport, boolean failsBuild) {

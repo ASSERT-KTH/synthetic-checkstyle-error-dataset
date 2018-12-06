@@ -1,0 +1,4 @@
+39c39
+<     public static <T> Set<T> asSet(Collection<T> collection, Collection<T>... elements) {
+---
+>     public static <T> Set	<T> asSet(Collection<T> collection, Collection<T>... elements) {

@@ -1,0 +1,5 @@
+17,18c17
+<     /**
+<      * Passed to {@link Writable}, providing access to additional data specific to a given implementation of the model
+---
+>     /**     * Passed to {@link Writable}, providing access to additional data specific to a given implementation of the model

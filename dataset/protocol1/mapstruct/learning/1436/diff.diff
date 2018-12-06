@@ -1,0 +1,4 @@
+55c55
+<             if ( accessorNaming.isPresenceCheckMethod( method ) ) {
+---
+>             if ( accessorNaming.isPresenceCheckMethod( method ) ){

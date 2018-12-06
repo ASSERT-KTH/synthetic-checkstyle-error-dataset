@@ -1,0 +1,5 @@
+195,196c195
+<      * String-based form of qualifiers; When looking for a suitable mapping method for a given property, MapStruct will
+<      * only consider those methods carrying directly or indirectly (i.e. on the class-level) a {@link Named} annotation
+---
+>      * String-based form of qualifiers; When looking for a suitable mapping method for a given property, MapStruct will     * only consider those methods carrying directly or indirectly (i.e. on the class-level) a {@link Named} annotation

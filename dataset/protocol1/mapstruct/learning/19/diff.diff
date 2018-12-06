@@ -1,0 +1,5 @@
+261c261,262
+<             types.addAll( valueAssignment.getImportTypes() );
+---
+>             types.addAll( valueAssignment.getImportTypes() )
+> ;

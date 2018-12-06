@@ -1,0 +1,4 @@
+121c121
+<     Class<?> keyTargetType() default void.class;
+---
+>     Class<?> keyTargetType() default void	.class;

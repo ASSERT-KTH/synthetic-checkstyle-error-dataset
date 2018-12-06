@@ -1,0 +1,4 @@
+121c121
+<             if ( !this.selectionParameters.equals( other.selectionParameters ) ) {
+---
+>             if ( !this.selectionParameters.equals ( other.selectionParameters ) ) {

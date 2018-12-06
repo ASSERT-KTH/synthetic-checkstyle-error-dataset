@@ -1,0 +1,5 @@
+325c325,326
+<             TargetReference targetReference = mapping.getTargetReference();
+---
+>             TargetReference 
+> targetReference = mapping.getTargetReference();

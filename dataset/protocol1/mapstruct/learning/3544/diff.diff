@@ -1,0 +1,5 @@
+39,40c39
+<     public boolean isApplyReverse() {
+<         return applyReverse;
+---
+>     public boolean isApplyReverse() {        return applyReverse;

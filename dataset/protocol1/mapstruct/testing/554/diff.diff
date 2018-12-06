@@ -1,0 +1,4 @@
+43c43
+<         return bigInteger( conversionContext ) + ".valueOf( <SOURCE>" + toLongValueStr + " )";
+---
+>         return bigInteger( conversionContext ) +".valueOf( <SOURCE>" + toLongValueStr + " )";

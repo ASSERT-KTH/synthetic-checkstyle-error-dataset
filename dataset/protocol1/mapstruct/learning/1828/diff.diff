@@ -1,0 +1,4 @@
+144c144
+<                     forgedMethod.addThrownTypes( keyAssignment.getThrownTypes() );
+---
+>                     forgedMethod.addThrownTypes( keyAssignment	.getThrownTypes() );

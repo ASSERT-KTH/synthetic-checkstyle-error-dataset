@@ -1,0 +1,5 @@
+18,19c18
+<  * Marks a class or interface as configuration source for generated mappers. This allows to share common configurations
+<  * between several mapper classes.
+---
+>  * Marks a class or interface as configuration source for generated mappers. This allows to share common configurations * between several mapper classes.

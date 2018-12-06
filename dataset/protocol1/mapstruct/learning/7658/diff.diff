@@ -1,0 +1,5 @@
+42c42,43
+<     void write(Context context, Writer writer) throws Exception;
+---
+>     void write(Context context
+> , Writer writer) throws Exception;

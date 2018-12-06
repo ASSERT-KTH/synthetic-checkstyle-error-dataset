@@ -1,0 +1,5 @@
+6c6,7
+< package org.mapstruct.ap.internal.prism;
+---
+> package 
+> org.mapstruct.ap.internal.prism;

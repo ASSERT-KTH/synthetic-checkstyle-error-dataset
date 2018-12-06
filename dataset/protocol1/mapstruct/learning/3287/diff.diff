@@ -1,0 +1,4 @@
+26c26
+<     boolean isJavacCompiler();
+---
+>     boolean isJavacCompiler() ;

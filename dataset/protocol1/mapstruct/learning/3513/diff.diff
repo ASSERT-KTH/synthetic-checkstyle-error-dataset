@@ -1,0 +1,4 @@
+40c40
+<         this.nullCheckLocalVarName =  rhs.createLocalVarName( nullCheckLocalVarType.getName() );
+---
+>         this.nullCheckLocalVarName 	=  rhs.createLocalVarName( nullCheckLocalVarType.getName() );

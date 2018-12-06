@@ -1,0 +1,5 @@
+129c129,130
+<         Manifest manifest = openManifest( classFileName, resource );
+---
+>         
+> Manifest manifest = openManifest( classFileName, resource );

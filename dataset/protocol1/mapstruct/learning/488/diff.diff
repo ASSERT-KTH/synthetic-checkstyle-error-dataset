@@ -1,0 +1,5 @@
+15,16c15
+< import org.mapstruct.ap.internal.model.GeneratedType;
+< import org.mapstruct.ap.internal.model.Mapper;
+---
+> import org.mapstruct.ap.internal.model.GeneratedType;import org.mapstruct.ap.internal.model.Mapper;

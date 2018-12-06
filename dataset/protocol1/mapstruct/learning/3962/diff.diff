@@ -1,0 +1,5 @@
+29,30c29
+<     public TypeMirror getType() {
+<         return type;
+---
+>     public TypeMirror getType() {        return type;

@@ -1,0 +1,4 @@
+77c77
+<         if ( !mapperConfig.isValid() ) {
+---
+>         if ( !mapperConfig.isValid () ) {

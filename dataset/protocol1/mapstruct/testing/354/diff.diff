@@ -1,0 +1,4 @@
+16c16
+< import static org.mapstruct.ap.internal.util.Collections.asSet;
+---
+> import static org. mapstruct.ap.internal.util.Collections.asSet;

@@ -1,0 +1,5 @@
+46c46,47
+<             builtInMethods.add( new LocalDateToXmlGregorianCalendar( typeFactory ) );
+---
+>             builtInMethods.add( new 
+> LocalDateToXmlGregorianCalendar( typeFactory ) );

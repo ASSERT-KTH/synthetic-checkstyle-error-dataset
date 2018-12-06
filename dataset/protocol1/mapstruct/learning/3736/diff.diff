@@ -1,0 +1,5 @@
+23c23,24
+<     public Java8FunctionWrapper(Assignment decoratedAssignment) {
+---
+>     public Java8FunctionWrapper
+> (Assignment decoratedAssignment) {

@@ -1,0 +1,5 @@
+112c112,113
+<         if ( object1 == null ) {
+---
+>         if ( object1 == 
+> null ) {

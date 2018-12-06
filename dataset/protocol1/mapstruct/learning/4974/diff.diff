@@ -1,0 +1,4 @@
+172c172
+<     private static String extractJrtModuleName(URL resource) {
+---
+>     private static String extractJrtModuleName (URL resource) {

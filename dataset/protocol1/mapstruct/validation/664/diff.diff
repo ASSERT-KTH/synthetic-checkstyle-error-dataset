@@ -1,0 +1,5 @@
+100c100,101
+<     private static TypeElement asTypeElement(TypeMirror mirror) {
+---
+>     
+> private static TypeElement asTypeElement(TypeMirror mirror) {

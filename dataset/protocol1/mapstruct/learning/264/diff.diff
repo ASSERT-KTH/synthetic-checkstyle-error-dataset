@@ -1,0 +1,4 @@
+34c34
+<         if ( rhs.getType() == AssignmentType.DIRECT && rhs.getSourceType() != null ) {
+---
+>         if ( rhs.getType () == AssignmentType.DIRECT && rhs.getSourceType() != null ) {

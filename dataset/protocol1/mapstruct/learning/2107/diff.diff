@@ -1,0 +1,4 @@
+193c193
+<         for ( Annotation annotation : mapperReferenceAnnotations ) {
+---
+>         for ( Annotation 	annotation : mapperReferenceAnnotations ) {

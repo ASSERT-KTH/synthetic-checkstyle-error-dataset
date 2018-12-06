@@ -1,0 +1,4 @@
+99c99
+<                 element.getKind() == ElementKind.INTERFACE ? element.getSimpleName().toString() : null,
+---
+>                 element. getKind() == ElementKind.INTERFACE ? element.getSimpleName().toString() : null,

@@ -1,0 +1,4 @@
+39c39
+<         if ( t1.getKind() == TypeKind.VOID ) {
+---
+>         if ( t1.getKind() == 	TypeKind.VOID ) {

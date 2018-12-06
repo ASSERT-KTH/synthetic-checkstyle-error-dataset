@@ -1,0 +1,4 @@
+38c38
+<             this.nullCheckLocalVarType = targetType;
+---
+>             this	.nullCheckLocalVarType = targetType;

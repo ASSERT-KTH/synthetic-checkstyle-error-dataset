@@ -1,0 +1,5 @@
+127c127,128
+<             String message = String.format( msg.getDescription(), args );
+---
+>             String message 
+> = String.format( msg.getDescription(), args );

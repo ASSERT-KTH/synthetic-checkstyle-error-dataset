@@ -1,0 +1,4 @@
+582c582
+<                 if ( !ctx.getMappingsToGenerate().contains( nestedPropertyMapping ) ) {
+---
+>                 if ( !ctx.getMappingsToGenerate().contains( nestedPropertyMapping 	) ) {

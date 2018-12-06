@@ -1,0 +1,4 @@
+16c16
+< import org.mapstruct.ap.internal.util.Nouns;
+---
+> import org.mapstruct. ap.internal.util.Nouns;

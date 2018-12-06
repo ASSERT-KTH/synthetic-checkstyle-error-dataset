@@ -1,0 +1,5 @@
+14,15c14
+< import org.mapstruct.ap.internal.prism.MappingConstantsPrism;
+< import org.mapstruct.ap.internal.prism.ValueMappingPrism;
+---
+> import org.mapstruct.ap.internal.prism.MappingConstantsPrism;import org.mapstruct.ap.internal.prism.ValueMappingPrism;

@@ -1,0 +1,4 @@
+72c72
+<     private static <T> T getMapper(Class<T> mapperType, Iterable<ClassLoader> classLoaders)
+---
+>     private 	static <T> T getMapper(Class<T> mapperType, Iterable<ClassLoader> classLoaders)

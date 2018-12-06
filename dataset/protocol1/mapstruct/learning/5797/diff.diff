@@ -1,0 +1,5 @@
+106c106,107
+<             return first( getResultType().determineTypeArguments( Iterable.class ) );
+---
+>             return first( 
+> getResultType().determineTypeArguments( Iterable.class ) );

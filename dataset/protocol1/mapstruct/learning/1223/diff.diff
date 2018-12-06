@@ -1,0 +1,4 @@
+52c52
+<             "java.lang.Boolean".equals( getQualifiedName( executable.getReturnType() ) ) )
+---
+>             "java.lang.Boolean".equals( getQualifiedName(executable.getReturnType() ) ) )

@@ -1,0 +1,5 @@
+28,29c28
+<     public String getToExpression(ConversionContext conversionContext) {
+<         if ( sourceType == targetType ) {
+---
+>     public String getToExpression(ConversionContext conversionContext) {        if ( sourceType == targetType ) {

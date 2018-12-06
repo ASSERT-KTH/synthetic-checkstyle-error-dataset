@@ -1,0 +1,4 @@
+189c189
+<     MappingOptions getMappingOptions();
+---
+>     MappingOptions 	getMappingOptions();

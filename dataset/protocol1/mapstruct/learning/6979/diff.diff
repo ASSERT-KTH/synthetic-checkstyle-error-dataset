@@ -1,0 +1,4 @@
+296c296
+<         if ( declaringMapper == null ) {
+---
+>         if( declaringMapper == null ) {

@@ -1,0 +1,4 @@
+126c126
+<     public static Parameter forForgedMappingTarget(Type parameterType) {
+---
+>     public static Parameter forForgedMappingTarget(Type 	parameterType) {

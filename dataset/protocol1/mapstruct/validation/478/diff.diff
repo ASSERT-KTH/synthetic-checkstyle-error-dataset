@@ -1,0 +1,5 @@
+42c42,43
+<         if ( isGetterMethod( method ) ) {
+---
+>         if ( isGetterMethod( method 
+> ) ) {

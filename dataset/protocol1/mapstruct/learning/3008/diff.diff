@@ -1,0 +1,5 @@
+223c223,224
+<             catch ( TypeHierarchyErroneousException thie ) {
+---
+>             catch 
+> ( TypeHierarchyErroneousException thie ) {

@@ -1,0 +1,5 @@
+26c26,27
+<         this.fragments = fragments;
+---
+>         
+> this.fragments = fragments;

@@ -1,0 +1,5 @@
+146c146,147
+<         private final String presenceCheckerName;
+---
+>         private final String presenceCheckerName
+> ;

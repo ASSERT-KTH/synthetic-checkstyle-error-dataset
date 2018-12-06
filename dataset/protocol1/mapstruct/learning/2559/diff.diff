@@ -1,0 +1,5 @@
+258c258,259
+<     private void processMapperTypeElement(ProcessorContext context, TypeElement mapperTypeElement) {
+---
+>     private void processMapperTypeElement
+> (ProcessorContext context, TypeElement mapperTypeElement) {

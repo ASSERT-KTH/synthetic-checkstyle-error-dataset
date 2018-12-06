@@ -1,0 +1,5 @@
+143c143,144
+<     public static String decimalFormat(ConversionContext conversionContext) {
+---
+>     
+> public static String decimalFormat(ConversionContext conversionContext) {

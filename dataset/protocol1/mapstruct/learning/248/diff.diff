@@ -1,0 +1,4 @@
+22c22
+< import org.mapstruct.ap.internal.prism.NamedPrism;
+---
+> import org.mapstruct.ap	.internal.prism.NamedPrism;

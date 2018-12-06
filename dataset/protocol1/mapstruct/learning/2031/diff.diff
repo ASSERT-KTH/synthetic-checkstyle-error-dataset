@@ -1,0 +1,4 @@
+98c98
+<             List<Type> otherTypeParameters = other.getSourceParameters().get( i ).getType().getTypeParameters();
+---
+>             List<Type> otherTypeParameters = other.getSourceParameters().get( i ).getType().getTypeParameters(	);

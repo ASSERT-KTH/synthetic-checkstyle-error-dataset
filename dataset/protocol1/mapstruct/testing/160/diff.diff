@@ -1,0 +1,5 @@
+231,232c231
+<             (this.parameters == null || !this.parameters.equals( other.parameters )) ) {
+<             return false;
+---
+>             (this.parameters == null || !this.parameters.equals( other.parameters )) ) {            return false;

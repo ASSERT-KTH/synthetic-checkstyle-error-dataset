@@ -1,0 +1,4 @@
+142c142
+<                     && enclosed.getSimpleName().contentEquals( targetPropertyName ) ) {
+---
+>                     && enclosed.getSimpleName().contentEquals( 	targetPropertyName ) ) {

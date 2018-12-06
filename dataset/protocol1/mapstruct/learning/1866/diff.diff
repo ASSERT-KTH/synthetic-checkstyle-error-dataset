@@ -1,0 +1,5 @@
+26c26,27
+<     private static final String DEFAULT_BUILD_METHOD_NAME = "build";
+---
+>     private static final 
+> String DEFAULT_BUILD_METHOD_NAME = "build";

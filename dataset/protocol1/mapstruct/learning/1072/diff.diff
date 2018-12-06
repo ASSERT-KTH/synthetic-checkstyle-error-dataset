@@ -1,0 +1,5 @@
+27c27,28
+<         return "new " + sqlDate( conversionContext ) + "( "
+---
+>         return 
+> "new " + sqlDate( conversionContext ) + "( "

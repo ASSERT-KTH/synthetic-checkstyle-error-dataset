@@ -1,0 +1,4 @@
+240c240
+<     public Type getDeclaringMapper() {
+---
+>     	public Type getDeclaringMapper() {

@@ -1,0 +1,5 @@
+27,28c27
+<      *
+<      * @return The date format if this conversion or built-in method is from String to a date type. {@code null} is
+---
+>      *     * @return The date format if this conversion or built-in method is from String to a date type. {@code null} is

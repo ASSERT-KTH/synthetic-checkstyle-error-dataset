@@ -1,0 +1,5 @@
+18,19c18
+<     protected String formatStyle() {
+<         return JodaTimeConstants.DATE_TIME_FORMAT;
+---
+>     protected String formatStyle() {        return JodaTimeConstants.DATE_TIME_FORMAT;

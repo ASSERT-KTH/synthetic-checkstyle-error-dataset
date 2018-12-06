@@ -1,0 +1,4 @@
+27c27
+<         this.requiresReport = requiresReport;
+---
+>         this	.requiresReport = requiresReport;

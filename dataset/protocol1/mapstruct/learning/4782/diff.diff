@@ -1,0 +1,5 @@
+102c102,103
+<         if ( !matchResultType( resultType, genericTypesMap ) ) {
+---
+>         if ( !matchResultType( 
+> resultType, genericTypesMap ) ) {

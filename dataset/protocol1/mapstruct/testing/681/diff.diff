@@ -1,0 +1,5 @@
+64c64,65
+<                 conversionContext.getTypeFactory().getType( Locale.class )
+---
+>                 conversionContext.getTypeFactory().getType( 
+> Locale.class )

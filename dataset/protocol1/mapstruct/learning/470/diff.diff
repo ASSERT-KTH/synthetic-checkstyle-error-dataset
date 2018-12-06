@@ -1,0 +1,4 @@
+15c15
+< import org.mapstruct.ap.internal.model.GeneratedType;
+---
+> import org.mapstruct.ap.internal. model.GeneratedType;

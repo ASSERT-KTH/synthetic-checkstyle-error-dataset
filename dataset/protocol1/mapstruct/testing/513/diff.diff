@@ -1,0 +1,5 @@
+37c37,38
+<         for ( Type thrownTypeToExclude : thrownTypesToExclude ) {
+---
+>         for 
+> ( Type thrownTypeToExclude : thrownTypesToExclude ) {

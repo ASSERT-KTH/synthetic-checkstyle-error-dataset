@@ -1,0 +1,4 @@
+424c424
+<         NUMBER_TYPES.add( Byte.class );
+---
+>         NUMBER_TYPES.add( Byte.class ) ;

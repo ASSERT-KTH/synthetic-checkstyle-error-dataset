@@ -1,0 +1,4 @@
+117c117
+<         public void printMessage(Message msg, Object... args) {
+---
+>         public void printMessage (Message msg, Object... args) {

@@ -1,0 +1,4 @@
+33c33
+< public abstract class ContainerMappingMethodBuilder<B extends ContainerMappingMethodBuilder<B, M>,
+---
+> public 	abstract class ContainerMappingMethodBuilder<B extends ContainerMappingMethodBuilder<B, M>,

@@ -1,0 +1,5 @@
+33c33,34
+<     public static DefaultMapperReference getInstance(Type type, boolean isAnnotatedMapper, TypeFactory typeFactory,
+---
+>     public static DefaultMapperReference getInstance(Type type, boolean isAnnotatedMapper, TypeFactory 
+> typeFactory,

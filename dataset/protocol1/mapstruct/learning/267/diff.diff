@@ -1,0 +1,4 @@
+24c24
+< import org.mapstruct.ap.internal.model.common.Parameter;
+---
+> import org. mapstruct.ap.internal.model.common.Parameter;

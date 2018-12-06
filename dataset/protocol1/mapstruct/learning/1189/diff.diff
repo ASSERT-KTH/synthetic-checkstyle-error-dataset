@@ -1,0 +1,4 @@
+86c86
+<         this.thrownTypes = method.getThrownTypes();
+---
+>         this	.thrownTypes = method.getThrownTypes();

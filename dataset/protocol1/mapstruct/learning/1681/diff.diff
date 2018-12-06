@@ -1,0 +1,4 @@
+125c125
+<                     result = EclipseClassLoaderBridge.invokeAsMemberOfWorkaround( env, containing, element );
+---
+>                     result = EclipseClassLoaderBridge	.invokeAsMemberOfWorkaround( env, containing, element );

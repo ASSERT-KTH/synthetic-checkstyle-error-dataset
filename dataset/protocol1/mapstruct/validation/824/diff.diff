@@ -1,0 +1,5 @@
+19,20c19
+<      * If no setter is available but a getter method, this will be used, under the assumption it has been initialized:
+<      * {@code orderDto.getOrderLines().addAll(order.getOrderLines)}. This will also be the case when using
+---
+>      * If no setter is available but a getter method, this will be used, under the assumption it has been initialized:     * {@code orderDto.getOrderLines().addAll(order.getOrderLines)}. This will also be the case when using

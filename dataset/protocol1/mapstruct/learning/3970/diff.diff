@@ -1,0 +1,4 @@
+66c66
+<         return XmlConstants.isXmlGregorianCalendarPresent() &&
+---
+>         return XmlConstants	.isXmlGregorianCalendarPresent() &&

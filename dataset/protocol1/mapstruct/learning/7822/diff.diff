@@ -1,0 +1,4 @@
+54c54
+<         else if ( isXmlGregorianCalendarSupposedToBeMapped( sourceType, targetType ) ) {
+---
+>         else if ( isXmlGregorianCalendarSupposedToBeMapped( sourceType, targetType 	) ) {

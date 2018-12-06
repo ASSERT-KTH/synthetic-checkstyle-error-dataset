@@ -1,0 +1,4 @@
+26c26
+<         Set<T> set = new HashSet<>( elements.length );
+---
+>         Set<T	> set = new HashSet<>( elements.length );

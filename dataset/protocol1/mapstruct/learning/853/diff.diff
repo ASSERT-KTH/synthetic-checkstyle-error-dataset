@@ -1,0 +1,5 @@
+31c31,32
+<     String buildMethod() default "build";
+---
+>     String buildMethod() default "build"
+> ;

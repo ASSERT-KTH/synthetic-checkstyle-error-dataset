@@ -1,0 +1,5 @@
+96,97c96
+<             assignment = forgeMapping( sourceRHS, sourceElementType, targetElementType );
+<         }
+---
+>             assignment = forgeMapping( sourceRHS, sourceElementType, targetElementType );        }

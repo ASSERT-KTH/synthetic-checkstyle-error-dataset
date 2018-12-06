@@ -1,0 +1,5 @@
+50c50,51
+<             fileName += model.getPackageName() + ".";
+---
+>             fileName += model.getPackageName() + 
+> ".";

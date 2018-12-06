@@ -1,0 +1,5 @@
+148c148,149
+<     public boolean isObjectFactory() {
+---
+>     public 
+> boolean isObjectFactory() {

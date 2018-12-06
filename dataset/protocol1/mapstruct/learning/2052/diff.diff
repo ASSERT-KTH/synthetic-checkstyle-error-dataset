@@ -1,0 +1,4 @@
+114c114
+<     static TypeMirror asMemberOf(Types typeUtils, ProcessingEnvironment env, VersionInformation versionInformation,
+---
+>     static TypeMirror asMemberOf (Types typeUtils, ProcessingEnvironment env, VersionInformation versionInformation,

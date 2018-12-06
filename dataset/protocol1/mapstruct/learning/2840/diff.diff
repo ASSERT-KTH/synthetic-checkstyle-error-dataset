@@ -1,0 +1,5 @@
+120,121c120
+<     private boolean equals(List<TypeMirror> mirrors1, List<TypeMirror> mirrors2) {
+<         if ( mirrors1 == null ) {
+---
+>     private boolean equals(List<TypeMirror> mirrors1, List<TypeMirror> mirrors2) {        if ( mirrors1 == null ) {

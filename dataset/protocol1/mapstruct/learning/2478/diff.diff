@@ -1,0 +1,4 @@
+14c14
+< package org.mapstruct.ap.internal.model.source.builtin;
+---
+> package 	org.mapstruct.ap.internal.model.source.builtin;

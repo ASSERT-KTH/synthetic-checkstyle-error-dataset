@@ -1,0 +1,5 @@
+165,166c165
+<      * The strategy to use for applying method-level configuration annotations of prototype methods in the interface
+<      * specified with {@link #config()}. Annotations that can be inherited are for example {@link Mapping},
+---
+>      * The strategy to use for applying method-level configuration annotations of prototype methods in the interface     * specified with {@link #config()}. Annotations that can be inherited are for example {@link Mapping},

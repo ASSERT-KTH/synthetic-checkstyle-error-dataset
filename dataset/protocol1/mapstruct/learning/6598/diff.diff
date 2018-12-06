@@ -1,0 +1,4 @@
+19c19
+< import static org.mapstruct.ap.internal.conversion.ConversionUtils.bigDecimal;
+---
+> import static org.mapstruct.ap. internal.conversion.ConversionUtils.bigDecimal;

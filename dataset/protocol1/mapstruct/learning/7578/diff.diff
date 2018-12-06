@@ -1,0 +1,5 @@
+107c107,108
+<         List<ParameterBinding> result = new ArrayList<>( parameters.size() );
+---
+>         List<ParameterBinding> result 
+> = new ArrayList<>( parameters.size() );

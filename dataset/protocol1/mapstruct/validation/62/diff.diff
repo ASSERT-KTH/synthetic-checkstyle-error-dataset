@@ -1,0 +1,4 @@
+477c477
+<                     applicableReversePrototypeMethods.add( prototype );
+---
+>                     applicableReversePrototypeMethods.add( 	prototype );

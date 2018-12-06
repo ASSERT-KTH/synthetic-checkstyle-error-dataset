@@ -1,0 +1,5 @@
+78c78,79
+<         hash = 97 * hash + (this.qualifyingNames != null ? this.qualifyingNames.hashCode() : 0);
+---
+>         hash = 97 
+> * hash + (this.qualifyingNames != null ? this.qualifyingNames.hashCode() : 0);

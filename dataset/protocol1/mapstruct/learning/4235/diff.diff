@@ -1,0 +1,5 @@
+40c40,41
+<         Set<SupportingConstructorFragment> fragmentsToBeIncluded = Collections.emptySet();
+---
+>         Set<SupportingConstructorFragment> fragmentsToBeIncluded 
+> = Collections.emptySet();

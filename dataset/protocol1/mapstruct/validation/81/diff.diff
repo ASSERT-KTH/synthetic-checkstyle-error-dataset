@@ -1,0 +1,5 @@
+122,123c122
+<         for ( SelectedMethod<SourceMethod> candidate : candidates ) {
+<             Parameter providingParameter =
+---
+>         for ( SelectedMethod<SourceMethod> candidate : candidates ) {            Parameter providingParameter =

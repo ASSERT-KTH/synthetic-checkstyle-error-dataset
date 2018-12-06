@@ -1,0 +1,5 @@
+91c91,92
+<         for ( Iterator<AstModifyingAnnotationProcessor> it = loader.iterator(); it.hasNext(); ) {
+---
+>         for ( Iterator<AstModifyingAnnotationProcessor> it = loader.iterator()
+> ; it.hasNext(); ) {

@@ -1,0 +1,4 @@
+73c73
+<             boolean isNegative = in.startsWith( "-" );
+---
+>             boolean isNegative= in.startsWith( "-" );

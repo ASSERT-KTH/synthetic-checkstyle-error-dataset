@@ -1,0 +1,4 @@
+446c446
+<     private List<Type> getTypeParameters(TypeMirror mirror, boolean isImplementationType) {
+---
+>     private List<Type> 	getTypeParameters(TypeMirror mirror, boolean isImplementationType) {

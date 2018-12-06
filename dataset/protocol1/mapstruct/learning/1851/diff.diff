@@ -1,0 +1,4 @@
+41c41
+< import org.mapstruct.ap.internal.model.common.Type;
+---
+> import org.mapstruct.ap.internal.model.common	.Type;

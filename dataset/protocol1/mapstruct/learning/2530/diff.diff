@@ -1,0 +1,4 @@
+388c388
+<                     Type targetTypeX = methodYCandidate.getSourceParameters().get( 0 ).getType();
+---
+>                     Type targetTypeX = methodYCandidate.getSourceParameters().get( 0 )	.getType();

@@ -1,0 +1,4 @@
+34c34
+<     public UpdateWrapper( Assignment decoratedAssignment,
+---
+>     public UpdateWrapper ( Assignment decoratedAssignment,

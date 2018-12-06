@@ -1,0 +1,4 @@
+24c24
+< public interface Method {
+---
+> public interface 	Method {

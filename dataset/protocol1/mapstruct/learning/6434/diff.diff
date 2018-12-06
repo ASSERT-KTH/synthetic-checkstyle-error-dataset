@@ -1,0 +1,4 @@
+17c17
+< import org.mapstruct.ap.internal.model.source.MappingOptions;
+---
+> import org.mapstruct.ap	.internal.model.source.MappingOptions;

@@ -1,0 +1,5 @@
+38,39c38
+<             qualifyingResultType = selectionParameters.getResultType();
+<             sourceRHS = selectionParameters.getSourceRHS();
+---
+>             qualifyingResultType = selectionParameters.getResultType();            sourceRHS = selectionParameters.getSourceRHS();

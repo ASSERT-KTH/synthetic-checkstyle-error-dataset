@@ -1,0 +1,5 @@
+511c511,512
+<             if ( mapping != null ) {
+---
+>             if 
+> ( mapping != null ) {

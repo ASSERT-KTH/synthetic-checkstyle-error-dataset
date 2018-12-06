@@ -1,0 +1,5 @@
+92,93c92
+<      * @param parameter parameter
+<      * @return a parameter binding reflecting the given parameter as being used as argument for a method call
+---
+>      * @param parameter parameter     * @return a parameter binding reflecting the given parameter as being used as argument for a method call

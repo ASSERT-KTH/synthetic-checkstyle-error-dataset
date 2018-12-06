@@ -1,0 +1,4 @@
+106c106
+<         boolean resultTypeIsDefined = mappingPrism.values.resultType() != null;
+---
+>         boolean 	resultTypeIsDefined = mappingPrism.values.resultType() != null;

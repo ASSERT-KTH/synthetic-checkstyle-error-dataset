@@ -1,0 +1,5 @@
+76c76,77
+<     String getCollectionGetterName(String property);
+---
+>     
+> String getCollectionGetterName(String property);

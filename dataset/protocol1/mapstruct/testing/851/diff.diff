@@ -1,0 +1,4 @@
+13c13
+< package org.mapstruct.ap;
+---
+> package org	.mapstruct.ap;

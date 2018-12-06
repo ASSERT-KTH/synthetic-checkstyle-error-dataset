@@ -1,0 +1,5 @@
+40c40,41
+<             this.supportingField = getSafeField( method.getFieldReference(), existingFields );
+---
+>             this.supportingField 
+> = getSafeField( method.getFieldReference(), existingFields );

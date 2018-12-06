@@ -1,0 +1,5 @@
+35c35,36
+<             for ( SourceMethod method : entry.getValue() ) {
+---
+>             for ( SourceMethod method : entry.getValue
+> () ) {

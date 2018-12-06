@@ -1,0 +1,4 @@
+314c314
+<         if ( type.isVoid() ) {
+---
+>         if 	( type.isVoid() ) {

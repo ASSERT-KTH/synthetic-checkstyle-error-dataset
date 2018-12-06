@@ -1,0 +1,5 @@
+50,51c50
+<                     result.remove( parentThrownType );
+<                 }
+---
+>                     result.remove( parentThrownType );                }

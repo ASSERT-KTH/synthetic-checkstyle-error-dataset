@@ -1,0 +1,4 @@
+69c69
+<         if ( factoryMethod == null && resultType.getImplementationType() != null ) {
+---
+>         if ( factoryMethod == null && 	resultType.getImplementationType() != null ) {

@@ -1,0 +1,4 @@
+86c86
+<     boolean isSourceReferenceParameter();
+---
+>     boolean isSourceReferenceParameter ();

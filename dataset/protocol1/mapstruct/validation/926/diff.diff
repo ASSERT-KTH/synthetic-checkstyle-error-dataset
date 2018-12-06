@@ -1,0 +1,4 @@
+103c103
+<             return stripBrackets( previousPath ) + "{:value}";
+---
+>             	return stripBrackets( previousPath ) + "{:value}";

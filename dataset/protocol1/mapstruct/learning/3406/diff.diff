@@ -1,0 +1,4 @@
+51c51
+<             messager.printMessage( method, Message.ITERABLEMAPPING_NO_ELEMENTS );
+---
+>             messager.printMessage(method, Message.ITERABLEMAPPING_NO_ELEMENTS );

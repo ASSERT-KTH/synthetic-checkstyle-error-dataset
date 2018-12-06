@@ -1,0 +1,5 @@
+110,111c110
+<                 int matchingQualifierCounter = 0;
+<                     for ( AnnotationMirror qualifierAnnotationMirror : qualifierAnnotationMirrors ) {
+---
+>                 int matchingQualifierCounter = 0;                    for ( AnnotationMirror qualifierAnnotationMirror : qualifierAnnotationMirrors ) {

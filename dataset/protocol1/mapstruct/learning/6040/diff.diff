@@ -1,0 +1,5 @@
+60c60,61
+<         MethodBinding inSuperclassHiearchy = findInSuperclassHierarchy( methodBinding, referenceBinding );
+---
+>         MethodBinding inSuperclassHiearchy = findInSuperclassHierarchy( methodBinding
+> , referenceBinding );

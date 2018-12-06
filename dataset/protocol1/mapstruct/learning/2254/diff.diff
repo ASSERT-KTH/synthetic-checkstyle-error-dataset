@@ -1,0 +1,5 @@
+180,181c180
+<     public List<Field> getFields() {
+<         return fields;
+---
+>     public List<Field> getFields() {        return fields;

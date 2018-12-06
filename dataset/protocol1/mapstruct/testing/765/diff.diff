@@ -1,0 +1,5 @@
+7c7,8
+< package org.mapstruct.ap.spi.util;
+---
+> package org.mapstruct.ap.spi.util
+> ;

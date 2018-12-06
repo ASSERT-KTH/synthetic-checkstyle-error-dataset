@@ -1,0 +1,4 @@
+99c99
+<         for ( Type sourceType : sourceTypes ) {
+---
+>         for ( Type sourceType : 	sourceTypes ) {

@@ -1,0 +1,5 @@
+103,104c103
+<     public Set<SupportingConstructorFragment> getFragments() {
+<         return fragments;
+---
+>     public Set<SupportingConstructorFragment> getFragments() {        return fragments;

@@ -1,0 +1,5 @@
+22c22,23
+<     public static final String ANY_UNMAPPED = "<ANY_UNMAPPED>";
+---
+>     public 
+> static final String ANY_UNMAPPED = "<ANY_UNMAPPED>";

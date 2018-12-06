@@ -1,0 +1,5 @@
+94,95c94
+<                 val = (isNegative ? "-" : "") + valWithoutSign.substring( 1 );
+<             }
+---
+>                 val = (isNegative ? "-" : "") + valWithoutSign.substring( 1 );            }

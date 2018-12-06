@@ -1,0 +1,4 @@
+90c90
+<             if ( first( method.getSourceParameters() ).getType().isEnumType() && method.getResultType().isEnumType() ) {
+---
+>             if ( first( method.getSourceParameters() ) .getType().isEnumType() && method.getResultType().isEnumType() ) {

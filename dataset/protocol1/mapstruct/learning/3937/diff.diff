@@ -1,0 +1,5 @@
+21c21,22
+<     private final Message validationInfo;
+---
+>     private final Message 
+> validationInfo;

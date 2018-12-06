@@ -1,0 +1,4 @@
+19c19
+<     AUTO_INHERIT_ALL_FROM_CONFIG( true, true, true );
+---
+>     AUTO_INHERIT_ALL_FROM_CONFIG( true, 	true, true );

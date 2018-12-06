@@ -1,0 +1,5 @@
+41c41,42
+<         if ( qualifyingTypeMirror != null && !criteria.isLifecycleCallbackRequired() ) {
+---
+>         if ( qualifyingTypeMirror 
+> != null && !criteria.isLifecycleCallbackRequired() ) {

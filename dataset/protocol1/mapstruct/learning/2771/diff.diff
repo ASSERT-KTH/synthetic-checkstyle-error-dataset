@@ -1,0 +1,4 @@
+23c23
+<     AbstractAccessor(T element) {
+---
+>     AbstractAccessor(T element	) {

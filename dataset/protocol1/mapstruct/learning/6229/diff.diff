@@ -1,0 +1,4 @@
+213c213
+<                 if ( ( declaringMapper == null ) || declaringMapper.equals( typeFactory.getType( element ) ) ) {
+---
+>                 if ( ( declaringMapper == null ) || declaringMapper	.equals( typeFactory.getType( element ) ) ) {

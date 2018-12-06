@@ -1,0 +1,5 @@
+410c410,411
+<             this.characters = characters;
+---
+>             this.characters = 
+> characters;

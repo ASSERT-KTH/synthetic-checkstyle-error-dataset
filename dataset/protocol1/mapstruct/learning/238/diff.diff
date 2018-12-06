@@ -1,0 +1,4 @@
+60c60
+<             && executable.getParameters().size() == 1
+---
+>             && executable	.getParameters().size() == 1

@@ -1,0 +1,5 @@
+24c24,25
+< class DefaultMappingExclusionProvider implements MappingExclusionProvider {
+---
+> class DefaultMappingExclusionProvider implements 
+> MappingExclusionProvider {

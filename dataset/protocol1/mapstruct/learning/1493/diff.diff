@@ -1,0 +1,4 @@
+8c8
+< import javax.tools.Diagnostic.Kind;
+---
+> import javax.tools.Diagnostic. Kind;

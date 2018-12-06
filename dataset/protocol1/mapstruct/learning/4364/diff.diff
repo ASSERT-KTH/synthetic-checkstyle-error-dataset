@@ -1,0 +1,5 @@
+135c135,136
+<         while ( currentElement != null ) {
+---
+>         while ( currentElement 
+> != null ) {

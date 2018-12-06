@@ -1,0 +1,4 @@
+94c94
+<         this.sourceParameters = Parameter.getSourceParameters( method.getParameters() );
+---
+>         this.sourceParameters = Parameter.getSourceParameters(method.getParameters() );

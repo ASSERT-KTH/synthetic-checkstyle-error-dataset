@@ -1,0 +1,4 @@
+37c37
+<         boolean elementTargetTypeIsDefined = !TypeKind.VOID.equals( iterableMapping.elementTargetType().getKind() );
+---
+>         boolean elementTargetTypeIsDefined = !TypeKind.VOID.equals( iterableMapping.elementTargetType(). getKind() );

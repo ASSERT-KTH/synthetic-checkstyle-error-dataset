@@ -1,0 +1,4 @@
+55c55
+<             mapper.addAnnotation( typeAnnotation );
+---
+>             mapper. addAnnotation( typeAnnotation );

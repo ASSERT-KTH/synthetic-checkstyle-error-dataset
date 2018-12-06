@@ -1,0 +1,4 @@
+162c162
+<         NullValuePropertyMappingStrategy.SET_TO_NULL;
+---
+>         NullValuePropertyMappingStrategy.SET_TO_NULL ;

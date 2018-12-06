@@ -1,0 +1,5 @@
+168,169c168
+<     public List<Annotation> getAnnotations() {
+<         return annotations;
+---
+>     public List<Annotation> getAnnotations() {        return annotations;

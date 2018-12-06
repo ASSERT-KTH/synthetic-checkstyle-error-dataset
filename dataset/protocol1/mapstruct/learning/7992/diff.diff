@@ -1,0 +1,4 @@
+49c49
+<             types.addAll( annotation.getImportTypes() );
+---
+>             types	.addAll( annotation.getImportTypes() );

@@ -1,0 +1,4 @@
+126c126
+<         ParameterProvidedMethods contextProvidedMethods = method.getContextProvidedMethods();
+---
+>         ParameterProvidedMethods contextProvidedMethods = method.getContextProvidedMethods(	);

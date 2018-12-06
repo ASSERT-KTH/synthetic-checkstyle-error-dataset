@@ -1,0 +1,5 @@
+51,52c51
+<         Set<Type> imported = new HashSet<>( super.getImportTypes() );
+<         if ( getSourcePresenceCheckerReference() == null ) {
+---
+>         Set<Type> imported = new HashSet<>( super.getImportTypes() );        if ( getSourcePresenceCheckerReference() == null ) {

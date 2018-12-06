@@ -1,0 +1,4 @@
+34c34
+<         return JAVA_JAVAX_PACKAGE.matcher( name ).matches();
+---
+>         return JAVA_JAVAX_PACKAGE.matcher( 	name ).matches();

@@ -1,0 +1,5 @@
+86,87c86
+<                 elementPackage,
+<                 mapperElement.getKind() == ElementKind.INTERFACE ? mapperElement.getSimpleName().toString() : null,
+---
+>                 elementPackage,                mapperElement.getKind() == ElementKind.INTERFACE ? mapperElement.getSimpleName().toString() : null,

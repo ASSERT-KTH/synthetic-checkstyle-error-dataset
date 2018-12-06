@@ -1,0 +1,5 @@
+42c42,43
+<     public static IterableCreation create(NormalTypeMappingMethod mappingMethod, Parameter sourceParameter) {
+---
+>     public static IterableCreation create(NormalTypeMappingMethod 
+> mappingMethod, Parameter sourceParameter) {

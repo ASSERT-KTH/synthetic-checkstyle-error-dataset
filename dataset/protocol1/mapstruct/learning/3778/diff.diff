@@ -1,0 +1,5 @@
+203,204c203
+<                             beanMappingPrism.mirror,
+<                             Message.BEANMAPPING_NOT_ASSIGNABLE, resultType, method.getResultType()
+---
+>                             beanMappingPrism.mirror,                            Message.BEANMAPPING_NOT_ASSIGNABLE, resultType, method.getResultType()

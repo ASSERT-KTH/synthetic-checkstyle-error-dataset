@@ -1,0 +1,5 @@
+27c27,28
+<     public abstract Set<Type> getImportTypes();
+---
+>     
+> public abstract Set<Type> getImportTypes();

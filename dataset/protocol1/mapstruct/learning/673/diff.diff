@@ -1,0 +1,5 @@
+11,12c11
+<  * are available by {@link javax.lang.model.util.Elements#getTypeElement(CharSequence)} but they are actually not
+<  * if those modules are not added during compilation.
+---
+>  * are available by {@link javax.lang.model.util.Elements#getTypeElement(CharSequence)} but they are actually not * if those modules are not added during compilation.

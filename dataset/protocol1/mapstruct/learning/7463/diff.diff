@@ -1,0 +1,4 @@
+18c18
+< import freemarker.template.TemplateHashModel;
+---
+> import freemarker. template.TemplateHashModel;

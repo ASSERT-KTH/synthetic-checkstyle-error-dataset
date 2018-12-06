@@ -1,0 +1,5 @@
+17c17,18
+< public class MoreThanOneBuilderCreationMethodException extends RuntimeException {
+---
+> public class 
+> MoreThanOneBuilderCreationMethodException extends RuntimeException {

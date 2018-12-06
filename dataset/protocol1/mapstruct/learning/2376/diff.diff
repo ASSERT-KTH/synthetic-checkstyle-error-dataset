@@ -1,0 +1,5 @@
+92,93c92
+<     public String getIndex2Name() {
+<         return index2Name;
+---
+>     public String getIndex2Name() {        return index2Name;

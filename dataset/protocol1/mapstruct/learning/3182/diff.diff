@@ -1,0 +1,4 @@
+24c24
+< import freemarker.cache.TemplateLoader;
+---
+> import freemarker. cache.TemplateLoader;

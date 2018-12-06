@@ -1,0 +1,4 @@
+30c30
+<         this.mirror = mirror;
+---
+>         this. mirror = mirror;

@@ -1,0 +1,4 @@
+24c24
+<     public TypeMirror getAccessedType() {
+---
+>     public TypeMirror getAccessedType(	) {

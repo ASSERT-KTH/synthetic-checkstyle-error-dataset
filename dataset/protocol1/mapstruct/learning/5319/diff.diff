@@ -1,0 +1,5 @@
+24c24,25
+<         return "<SOURCE>.charAt( 0 )";
+---
+>         
+> return "<SOURCE>.charAt( 0 )";

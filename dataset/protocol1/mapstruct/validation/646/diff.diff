@@ -1,0 +1,5 @@
+16,17c16
+<  * This contract will be queried by MapStruct when examining types referenced by mappers to be generated, most notably
+<  * the source and target types of mapping methods. If at least one AST-modifying processor announces further changes to
+---
+>  * This contract will be queried by MapStruct when examining types referenced by mappers to be generated, most notably * the source and target types of mapping methods. If at least one AST-modifying processor announces further changes to

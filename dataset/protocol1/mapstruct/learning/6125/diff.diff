@@ -1,0 +1,4 @@
+304c304
+<                     new SupportingMappingMethod( matchingBuiltInMethod.getMethod(), allUsedFields );
+---
+>                     new SupportingMappingMethod( matchingBuiltInMethod.getMethod(), 	allUsedFields );

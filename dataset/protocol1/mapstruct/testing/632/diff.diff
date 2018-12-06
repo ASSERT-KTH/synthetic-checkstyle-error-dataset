@@ -1,0 +1,5 @@
+37,38c37
+<     /**
+<      * Returns the mapper type declaring this method if it is not declared by the mapper interface currently processed
+---
+>     /**     * Returns the mapper type declaring this method if it is not declared by the mapper interface currently processed

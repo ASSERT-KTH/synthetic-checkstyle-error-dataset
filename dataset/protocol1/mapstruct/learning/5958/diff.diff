@@ -1,0 +1,4 @@
+111c111
+<             if ( type.getName().contentEquals( name ) ) {
+---
+>             if ( type. getName().contentEquals( name ) ) {

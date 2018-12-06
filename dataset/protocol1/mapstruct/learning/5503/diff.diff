@@ -1,0 +1,4 @@
+109c109
+<             visitedTypes.add( ifc );
+---
+>             visitedTypes. add( ifc );

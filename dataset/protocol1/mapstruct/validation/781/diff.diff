@@ -1,0 +1,4 @@
+72c72
+<             valueTargetTypeIsDefined ? mapMapping.valueTargetType() : null,
+---
+>             valueTargetTypeIsDefined ? mapMapping.valueTargetType () : null,

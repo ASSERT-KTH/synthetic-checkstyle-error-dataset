@@ -1,0 +1,5 @@
+250c250,251
+<         return implementationType != null ? implementationType.getType() : null;
+---
+>         return implementationType != null ? implementationType.getType() : 
+> null;

@@ -1,0 +1,5 @@
+206c206,207
+<                     nextType = findNextType( nextType, targetWriteAccessor, targetReadAccessor );
+---
+>                     nextType = findNextType( nextType
+> , targetWriteAccessor, targetReadAccessor );

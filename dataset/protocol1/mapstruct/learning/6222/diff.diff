@@ -1,0 +1,5 @@
+29,30c29
+<     protected String getToExpression(ConversionContext conversionContext) {
+<         return "<SOURCE>.toDate()";
+---
+>     protected String getToExpression(ConversionContext conversionContext) {        return "<SOURCE>.toDate()";

@@ -1,0 +1,4 @@
+26c26
+<         new ParameterProvidedMethods( Collections.<Parameter, List<SourceMethod>> emptyMap() );
+---
+>         new ParameterProvidedMethods( Collections.<Parameter, List<SourceMethod>> emptyMap(	) );

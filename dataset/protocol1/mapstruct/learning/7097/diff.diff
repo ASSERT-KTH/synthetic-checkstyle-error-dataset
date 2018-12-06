@@ -1,0 +1,5 @@
+98c98,99
+<         return new DefaultModelElementWriterContext( values );
+---
+>         return new DefaultModelElementWriterContext( values 
+> );

@@ -1,0 +1,4 @@
+397c397
+<     private boolean equals(Object o1, Object o2) {
+---
+>     private 	boolean equals(Object o1, Object o2) {

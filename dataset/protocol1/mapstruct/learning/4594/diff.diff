@@ -1,0 +1,5 @@
+65c65,66
+<         if ( !Strings.isEmpty( conversionContext.getDateFormat() ) ) {
+---
+>         if ( !Strings.isEmpty( 
+> conversionContext.getDateFormat() ) ) {

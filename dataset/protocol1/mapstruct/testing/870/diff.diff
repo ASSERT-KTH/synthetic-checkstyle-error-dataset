@@ -1,0 +1,5 @@
+21c21,22
+< public enum NullValuePropertyMappingStrategy {
+---
+> public 
+> enum NullValuePropertyMappingStrategy {

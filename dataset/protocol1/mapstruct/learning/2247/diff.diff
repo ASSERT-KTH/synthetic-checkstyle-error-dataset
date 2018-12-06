@@ -1,0 +1,4 @@
+29c29
+<             writeToSourceFile( context.getFiler(), mapper, mapperTypeElement );
+---
+>             writeToSourceFile ( context.getFiler(), mapper, mapperTypeElement );

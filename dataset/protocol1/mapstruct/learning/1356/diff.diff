@@ -1,0 +1,5 @@
+98c98,99
+<     NullValueMappingStrategy nullValueMappingStrategy() default NullValueMappingStrategy.RETURN_NULL;
+---
+>     NullValueMappingStrategy 
+> nullValueMappingStrategy() default NullValueMappingStrategy.RETURN_NULL;

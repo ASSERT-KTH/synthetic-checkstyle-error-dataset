@@ -1,0 +1,4 @@
+221c221
+<         return typeReferenceName( conversionContext, DateTimeFormatter.class );
+---
+>         return typeReferenceName( conversionContext, DateTimeFormatter.class ) ;

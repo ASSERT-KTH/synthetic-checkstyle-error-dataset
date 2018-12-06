@@ -1,0 +1,5 @@
+117c117,118
+<             if ( !annotatedConstructor.getMapperReferences().isEmpty() ) {
+---
+>             if ( !annotatedConstructor.getMapperReferences().isEmpty
+> () ) {

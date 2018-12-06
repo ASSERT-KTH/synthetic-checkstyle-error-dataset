@@ -1,0 +1,5 @@
+82,83c82
+<         registerNativeTypeConversion( Short.class, int.class );
+<         registerNativeTypeConversion( Short.class, Integer.class );
+---
+>         registerNativeTypeConversion( Short.class, int.class );        registerNativeTypeConversion( Short.class, Integer.class );

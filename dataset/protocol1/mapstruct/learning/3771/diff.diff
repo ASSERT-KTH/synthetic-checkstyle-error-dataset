@@ -1,0 +1,5 @@
+408c408,409
+<         tmp.put( short.class, Short.class );
+---
+>         tmp.put
+> ( short.class, Short.class );

@@ -1,0 +1,4 @@
+57c57
+<     public String getNullCheckLocalVarName() {
+---
+>     public String getNullCheckLocalVarName(	) {

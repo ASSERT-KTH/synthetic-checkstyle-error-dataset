@@ -1,0 +1,5 @@
+33,34c33
+<         Collection<ExecutableElement> buildMethods = builderType.getBuildMethods();
+<         if ( buildMethods.isEmpty() ) {
+---
+>         Collection<ExecutableElement> buildMethods = builderType.getBuildMethods();        if ( buildMethods.isEmpty() ) {

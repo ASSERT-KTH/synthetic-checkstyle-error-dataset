@@ -1,0 +1,4 @@
+81c81
+<             List<Type> resultTypeParams = method.getResultType().determineTypeArguments( Map.class );
+---
+>             List<Type> 	resultTypeParams = method.getResultType().determineTypeArguments( Map.class );

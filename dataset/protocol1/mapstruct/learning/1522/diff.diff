@@ -1,0 +1,4 @@
+24c24
+<     public MoreThanOneBuilderCreationMethodException(TypeMirror type, List<BuilderInfo> builderCreationMethods) {
+---
+>     public MoreThanOneBuilderCreationMethodException(TypeMirror type, List<BuilderInfo	> builderCreationMethods) {

@@ -1,0 +1,4 @@
+13c13
+< import org.mapstruct.ap.spi.AstModifyingAnnotationProcessor;
+---
+> import org.mapstruct.ap. spi.AstModifyingAnnotationProcessor;

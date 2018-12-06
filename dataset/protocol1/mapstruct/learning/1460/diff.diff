@@ -1,0 +1,4 @@
+24c24
+< class EclipseClassLoaderBridge {
+---
+> class 	EclipseClassLoaderBridge {

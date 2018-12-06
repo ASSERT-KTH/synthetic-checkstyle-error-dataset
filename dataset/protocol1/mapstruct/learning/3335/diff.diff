@@ -1,0 +1,4 @@
+279c279
+<         return Strings.getSafeVariableName(
+---
+>         return Strings.getSafeVariableName (

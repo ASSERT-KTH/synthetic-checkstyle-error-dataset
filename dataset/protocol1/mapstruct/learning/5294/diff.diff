@@ -1,0 +1,5 @@
+42,43c42
+<         for ( Collection<T> element : elements ) {
+<             set.addAll( element );
+---
+>         for ( Collection<T> element : elements ) {            set.addAll( element );

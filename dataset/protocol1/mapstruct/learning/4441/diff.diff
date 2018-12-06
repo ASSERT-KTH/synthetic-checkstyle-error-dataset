@@ -1,0 +1,4 @@
+18c18
+<     public static final String DATE_TIME_FQN = "org.joda.time.DateTime";
+---
+>     public static final String DATE_TIME_FQN 	= "org.joda.time.DateTime";

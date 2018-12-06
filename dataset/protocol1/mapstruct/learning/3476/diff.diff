@@ -1,0 +1,4 @@
+114c114
+<         if ( !builder.getBuildingType().isAssignableTo( targetType ) ) {
+---
+>         if ( !builder.getBuildingType()	.isAssignableTo( targetType ) ) {

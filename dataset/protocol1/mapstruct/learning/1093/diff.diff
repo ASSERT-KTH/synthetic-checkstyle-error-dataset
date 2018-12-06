@@ -1,0 +1,4 @@
+13c13
+< import org.mapstruct.ap.internal.util.Collections;
+---
+> import org.mapstruct.ap.internal	.util.Collections;

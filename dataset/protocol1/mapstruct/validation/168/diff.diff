@@ -1,0 +1,4 @@
+421c421
+<     public Type getReturnType(ExecutableType method) {
+---
+>     public Type getReturnType(ExecutableType method	) {

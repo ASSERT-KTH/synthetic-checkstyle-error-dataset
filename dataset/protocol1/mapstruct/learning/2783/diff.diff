@@ -1,0 +1,4 @@
+67c67
+<         List<MethodBinding> candidatesFromInterfaces = new ArrayList<>();
+---
+>         List<MethodBinding> candidatesFromInterfaces 	= new ArrayList<>();

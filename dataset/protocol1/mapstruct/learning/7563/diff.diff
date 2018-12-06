@@ -1,0 +1,4 @@
+101c101
+<             if ( resolvedByName != null && !resolvedByName.getEnclosedElements().isEmpty() ) {
+---
+>             if ( resolvedByName != null&& !resolvedByName.getEnclosedElements().isEmpty() ) {

@@ -1,0 +1,5 @@
+25,26c25
+<     public TypeHierarchyErroneousException(TypeElement element) {
+<         this( element.asType() );
+---
+>     public TypeHierarchyErroneousException(TypeElement element) {        this( element.asType() );

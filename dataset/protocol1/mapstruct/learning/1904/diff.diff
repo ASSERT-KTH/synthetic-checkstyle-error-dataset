@@ -1,0 +1,5 @@
+302c302,303
+<         List<ModelElementProcessor<?, ?>> processors = new ArrayList<>();
+---
+>         List<ModelElementProcessor<?, ?>> processors = new 
+> ArrayList<>();

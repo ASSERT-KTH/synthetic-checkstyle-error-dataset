@@ -1,0 +1,4 @@
+47c47
+<                 TypeMirror resultTypeMirror = method.getMethod().getResultType().getTypeElement().asType();
+---
+>                 TypeMirror resultTypeMirror = method.getMethod().getResultType().getTypeElement(). asType();

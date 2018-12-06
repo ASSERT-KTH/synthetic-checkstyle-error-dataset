@@ -1,0 +1,5 @@
+46c46,47
+<     public Type getResultType() {
+---
+>     public 
+> Type getResultType() {

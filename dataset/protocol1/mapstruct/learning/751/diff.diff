@@ -1,0 +1,5 @@
+23c23,24
+<         Iterator<T> services = ServiceLoader.load( serviceType, Services.class.getClassLoader() ).iterator();
+---
+>         Iterator<T> services = 
+> ServiceLoader.load( serviceType, Services.class.getClassLoader() ).iterator();

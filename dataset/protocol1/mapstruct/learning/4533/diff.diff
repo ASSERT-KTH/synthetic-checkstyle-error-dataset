@@ -1,0 +1,5 @@
+79c79,80
+<             return createAssignment( sourceRHS, ctx.getForgedMethodsUnderCreation().get( forgedMethod ) );
+---
+>             return createAssignment( sourceRHS, ctx.getForgedMethodsUnderCreation
+> ().get( forgedMethod ) );

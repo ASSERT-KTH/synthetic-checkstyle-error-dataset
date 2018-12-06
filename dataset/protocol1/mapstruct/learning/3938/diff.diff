@@ -1,0 +1,5 @@
+104,105c104
+<     public Types getTypeUtils() {
+<         return typeUtils;
+---
+>     public Types getTypeUtils() {        return typeUtils;

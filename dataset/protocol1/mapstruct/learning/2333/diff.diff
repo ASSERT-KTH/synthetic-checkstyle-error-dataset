@@ -1,0 +1,5 @@
+48c48,49
+<             sb.append( "(" + bigDecimal( conversionContext ) + ") " );
+---
+>             sb.append
+> ( "(" + bigDecimal( conversionContext ) + ") " );

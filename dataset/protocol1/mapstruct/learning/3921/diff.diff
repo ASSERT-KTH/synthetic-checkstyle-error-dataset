@@ -1,0 +1,5 @@
+514,515c514
+<                 handledTargets.add( mapping.getTargetName() );
+<             }
+---
+>                 handledTargets.add( mapping.getTargetName() );            }

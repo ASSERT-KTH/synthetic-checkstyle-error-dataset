@@ -1,0 +1,5 @@
+122,123c122
+<                    List<MappingMethod> methods, Options options, VersionInformation versionInformation,
+<                    Accessibility accessibility, List<Field> fields, Constructor constructor,
+---
+>                    List<MappingMethod> methods, Options options, VersionInformation versionInformation,                   Accessibility accessibility, List<Field> fields, Constructor constructor,

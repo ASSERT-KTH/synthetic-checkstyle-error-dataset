@@ -1,0 +1,5 @@
+417c417,418
+<             methodXCandidates.addAll( builtInMethods.getBuiltInMethods() );
+---
+>             methodXCandidates.addAll
+> ( builtInMethods.getBuiltInMethods() );

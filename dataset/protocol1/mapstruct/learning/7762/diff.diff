@@ -1,0 +1,4 @@
+67c67
+<             typeFactory.isTypeAvailable( XmlConstants.JAVAX_XML_DATATYPE_XMLGREGORIAN_CALENDAR );
+---
+>             	typeFactory.isTypeAvailable( XmlConstants.JAVAX_XML_DATATYPE_XMLGREGORIAN_CALENDAR );

@@ -1,0 +1,5 @@
+69c69,70
+<         if ( matchingFactoryMethods.size() > 1 ) {
+---
+>         if ( matchingFactoryMethods.size() > 1 
+> ) {

@@ -1,0 +1,4 @@
+36c36
+<     private PropertyEntry(String[] fullName, Accessor readAccessor, Accessor writeAccessor,
+---
+>     private PropertyEntry(String[] fullName, Accessor readAccessor, 	Accessor writeAccessor,

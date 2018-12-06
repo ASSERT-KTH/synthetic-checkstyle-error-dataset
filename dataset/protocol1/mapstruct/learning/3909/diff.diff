@@ -1,0 +1,4 @@
+20c20
+<     BEANMAPPING_ABSTRACT( "The result type %s may not be an abstract class nor interface." ),
+---
+>     BEANMAPPING_ABSTRACT( 	"The result type %s may not be an abstract class nor interface." ),

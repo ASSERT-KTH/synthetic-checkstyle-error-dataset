@@ -1,0 +1,4 @@
+26c26
+<     public static List<Accessor> getterMethodsIn(AccessorNamingUtils accessorNaming, List<Accessor> elements) {
+---
+>     public static List<	Accessor> getterMethodsIn(AccessorNamingUtils accessorNaming, List<Accessor> elements) {

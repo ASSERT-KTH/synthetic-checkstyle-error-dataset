@@ -1,0 +1,4 @@
+45c45
+<         this.targetPropertyName = targetPropertyName;
+---
+>         this.targetPropertyName 	= targetPropertyName;

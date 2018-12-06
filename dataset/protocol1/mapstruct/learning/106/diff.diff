@@ -1,0 +1,5 @@
+307c307,308
+<                     && ( isNullType( upperBound ) || typeUtils.isSubtype( p, upperBound ) ) ) {
+---
+>                     && ( 
+> isNullType( upperBound ) || typeUtils.isSubtype( p, upperBound ) ) ) {

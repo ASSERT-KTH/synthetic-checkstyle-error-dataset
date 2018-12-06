@@ -1,0 +1,5 @@
+211c211,212
+<         if ( null != manifest ) {
+---
+>         if ( 
+> null != manifest ) {

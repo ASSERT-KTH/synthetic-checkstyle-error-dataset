@@ -1,0 +1,4 @@
+279c279
+<         result = prime * result + ( ( declaringMapper == null ) ? 0 : declaringMapper.hashCode() );
+---
+>         result = prime * result + ( ( declaringMapper == null ) ? 	0 : declaringMapper.hashCode() );

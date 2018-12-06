@@ -1,0 +1,4 @@
+300c300
+<                 return typeUtils.isSubtype( p, p1 );
+---
+>                 	return typeUtils.isSubtype( p, p1 );

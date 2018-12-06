@@ -1,0 +1,5 @@
+22,23c22
+<  * won't recognize them. Therefore one needs to use the JavaBean convention in which the fluent setters
+<  * start with {@code set}.
+---
+>  * won't recognize them. Therefore one needs to use the JavaBean convention in which the fluent setters * start with {@code set}.

@@ -1,0 +1,4 @@
+106c106
+<     public static List<ParameterBinding> fromParameters(List<Parameter> parameters) {
+---
+>     public static List	<ParameterBinding> fromParameters(List<Parameter> parameters) {

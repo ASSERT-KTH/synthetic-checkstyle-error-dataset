@@ -1,0 +1,5 @@
+93,94c93
+<         Assignment getTargetAssignment(Method mappingMethod, Type targetType, String targetPropertyName,
+<                                        FormattingParameters formattingParameters,
+---
+>         Assignment getTargetAssignment(Method mappingMethod, Type targetType, String targetPropertyName,                                       FormattingParameters formattingParameters,

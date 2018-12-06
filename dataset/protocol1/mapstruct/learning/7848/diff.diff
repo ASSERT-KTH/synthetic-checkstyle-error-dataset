@@ -1,0 +1,5 @@
+929,930c929
+<         private Assignment getEnumAssignment() {
+<             Assignment assignment = null;
+---
+>         private Assignment getEnumAssignment() {            Assignment assignment = null;

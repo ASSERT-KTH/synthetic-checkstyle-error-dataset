@@ -1,0 +1,5 @@
+122c122,123
+<         Decorator decorator = mapper.getDecorator();
+---
+>         
+> Decorator decorator = mapper.getDecorator();

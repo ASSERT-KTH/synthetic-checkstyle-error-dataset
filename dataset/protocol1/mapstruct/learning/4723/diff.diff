@@ -1,0 +1,4 @@
+45c45
+<     DefaultVersionInformation(String runtimeVersion, String runtimeVendor, String compiler,
+---
+>     DefaultVersionInformation(	String runtimeVersion, String runtimeVendor, String compiler,

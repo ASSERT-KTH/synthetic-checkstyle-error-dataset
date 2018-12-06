@@ -1,0 +1,4 @@
+74c74
+<         this.safePropertyEntries = sourcePropertyEntries;
+---
+>         this.safePropertyEntries 	= sourcePropertyEntries;

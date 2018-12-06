@@ -1,0 +1,4 @@
+51c51
+< import static org.mapstruct.ap.internal.model.common.Assignment.AssignmentType.DIRECT;
+---
+> import static org.mapstruct.ap.internal.model.common.Assignment	.AssignmentType.DIRECT;

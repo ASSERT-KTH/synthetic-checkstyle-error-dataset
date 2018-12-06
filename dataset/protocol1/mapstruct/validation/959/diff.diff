@@ -1,0 +1,4 @@
+99c99
+<     public static String currency(ConversionContext conversionContext) {
+---
+>     	public static String currency(ConversionContext conversionContext) {

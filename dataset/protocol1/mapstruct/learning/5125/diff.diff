@@ -1,0 +1,5 @@
+70c70,71
+<     private void createSourceFile(ServicesEntry model, ModelWriter modelWriter, Filer filer) {
+---
+>     private void createSourceFile(ServicesEntry model, ModelWriter modelWriter, Filer 
+> filer) {

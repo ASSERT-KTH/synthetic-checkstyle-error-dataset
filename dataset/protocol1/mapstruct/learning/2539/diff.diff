@@ -1,0 +1,4 @@
+24c24
+<     public static final String LOCAL_TIME_FQN = "org.joda.time.LocalTime";
+---
+>     public static final String LOCAL_TIME_FQN 	= "org.joda.time.LocalTime";

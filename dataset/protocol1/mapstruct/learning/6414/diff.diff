@@ -1,0 +1,5 @@
+123c123,124
+<     private Assignment createAssignment(SourceRHS source, ForgedMethod methodRef) {
+---
+>     private 
+> Assignment createAssignment(SourceRHS source, ForgedMethod methodRef) {

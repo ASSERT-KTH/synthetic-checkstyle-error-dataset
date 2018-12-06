@@ -1,0 +1,4 @@
+49c49
+<         if ( model.hasPackageName() ) {
+---
+>         if 	( model.hasPackageName() ) {

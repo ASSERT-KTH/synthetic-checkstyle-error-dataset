@@ -1,0 +1,5 @@
+69c69,70
+<             defaultAccessorNamingStrategy = new FreeBuilderAccessorNamingStrategy();
+---
+>             defaultAccessorNamingStrategy = new 
+> FreeBuilderAccessorNamingStrategy();

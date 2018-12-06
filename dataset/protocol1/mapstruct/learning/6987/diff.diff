@@ -1,0 +1,4 @@
+165c165
+<                 first.areParametersCompatibleWith( second.parameters );
+---
+>                 first.areParametersCompatibleWith( 	second.parameters );

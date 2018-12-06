@@ -1,0 +1,5 @@
+83,84c83
+<         for ( ReplaceRule replaceRule : SINGULAR_RULES ) {
+<             String match = replaceRule.apply( plural );
+---
+>         for ( ReplaceRule replaceRule : SINGULAR_RULES ) {            String match = replaceRule.apply( plural );

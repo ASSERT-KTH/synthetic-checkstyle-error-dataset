@@ -1,0 +1,4 @@
+130c130
+<             if ( !getSourceParameters().get( i ).getType().equals( other.getSourceParameters().get( i ).getType() ) ) {
+---
+>             if ( !getSourceParameters().get( i 	).getType().equals( other.getSourceParameters().get( i ).getType() ) ) {

@@ -1,0 +1,4 @@
+289c289
+<     public void applyIgnoreAll(MappingOptions inherited, SourceMethod method, FormattingMessager messager,
+---
+>     public void applyIgnoreAll(MappingOptions inherited, SourceMethod 	method, FormattingMessager messager,

@@ -1,0 +1,5 @@
+40,41c40
+< import org.mapstruct.ap.internal.model.source.SelectionParameters;
+< import org.mapstruct.ap.internal.model.source.builtin.BuiltInMappingMethods;
+---
+> import org.mapstruct.ap.internal.model.source.SelectionParameters;import org.mapstruct.ap.internal.model.source.builtin.BuiltInMappingMethods;

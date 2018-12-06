@@ -1,0 +1,5 @@
+57c57,58
+<         new ReplaceRule( "(^analy)ses$", "$1sis" ),
+---
+>         
+> new ReplaceRule( "(^analy)ses$", "$1sis" ),

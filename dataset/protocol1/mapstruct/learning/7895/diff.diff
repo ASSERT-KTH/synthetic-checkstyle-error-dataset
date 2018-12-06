@@ -1,0 +1,5 @@
+75,76c75
+<         registerNativeTypeConversion( short.class, long.class );
+<         registerNativeTypeConversion( short.class, Long.class );
+---
+>         registerNativeTypeConversion( short.class, long.class );        registerNativeTypeConversion( short.class, Long.class );

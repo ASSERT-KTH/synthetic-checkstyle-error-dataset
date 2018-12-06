@@ -1,0 +1,4 @@
+68c68
+<     public CollectionAssignmentBuilder method(Method method) {
+---
+>     public CollectionAssignmentBuilder method(Method method	) {

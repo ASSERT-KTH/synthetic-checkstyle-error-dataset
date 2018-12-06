@@ -1,0 +1,5 @@
+84,85c84
+<                     Set<AnnotationMirror> qualifierAnnotations = getQualifierAnnotationMirrors( candidate.getMethod() );
+<                     if ( qualifierAnnotations.isEmpty() ) {
+---
+>                     Set<AnnotationMirror> qualifierAnnotations = getQualifierAnnotationMirrors( candidate.getMethod() );                    if ( qualifierAnnotations.isEmpty() ) {

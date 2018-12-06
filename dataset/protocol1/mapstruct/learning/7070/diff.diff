@@ -1,0 +1,5 @@
+126c126,127
+<         if ( !Arrays.deepEquals( this.fullName, other.fullName ) ) {
+---
+>         if ( !Arrays.deepEquals( this.fullName
+> , other.fullName ) ) {

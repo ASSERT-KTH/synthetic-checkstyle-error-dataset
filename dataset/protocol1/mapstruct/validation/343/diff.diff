@@ -1,0 +1,4 @@
+106c106
+<         implementationTypes.put( Collection.class.getName(), withInitialCapacity( getType( ArrayList.class ) ) );
+---
+>         implementationTypes.put( Collection.class.getName(),withInitialCapacity( getType( ArrayList.class ) ) );

@@ -1,0 +1,5 @@
+61c61,62
+<     private static ClassLoader getDefaultClassLoader() {
+---
+>     private static ClassLoader 
+> getDefaultClassLoader() {

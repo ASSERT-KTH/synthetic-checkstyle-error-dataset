@@ -1,0 +1,4 @@
+473c473
+<         tmp3.put( double.class.getName(), 6 );
+---
+>         tmp3.put( double. class.getName(), 6 );

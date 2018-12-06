@@ -1,0 +1,4 @@
+98c98
+<         Type builder = typeFactory.getType( builderInfo.getBuilderCreationMethod().getReturnType() );
+---
+>         Type builder = typeFactory.getType( builderInfo	.getBuilderCreationMethod().getReturnType() );

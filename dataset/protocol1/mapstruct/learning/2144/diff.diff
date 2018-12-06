@@ -1,0 +1,5 @@
+63,64c63
+<         BuilderProvider defaultBuilderProvider;
+<         if ( elementUtils.getTypeElement( ImmutablesConstants.IMMUTABLE_FQN ) != null ) {
+---
+>         BuilderProvider defaultBuilderProvider;        if ( elementUtils.getTypeElement( ImmutablesConstants.IMMUTABLE_FQN ) != null ) {

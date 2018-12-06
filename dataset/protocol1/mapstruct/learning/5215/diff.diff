@@ -1,0 +1,4 @@
+58c58
+<         List<T> result = new ArrayList<>( a.size() + b.size() );
+---
+>         List<T> result = new ArrayList<>( a.size() + b.size(	) );

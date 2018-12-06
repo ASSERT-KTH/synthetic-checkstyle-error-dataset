@@ -1,0 +1,4 @@
+37c37
+<                 new BeanModel( writable, BeansWrapper.getDefaultInstance() ),
+---
+>                 new 	BeanModel( writable, BeansWrapper.getDefaultInstance() ),

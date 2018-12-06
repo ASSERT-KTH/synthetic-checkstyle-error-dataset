@@ -1,0 +1,4 @@
+22c22
+< import org.mapstruct.ap.spi.ImmutablesAccessorNamingStrategy;
+---
+> import org.mapstruct.ap.spi. ImmutablesAccessorNamingStrategy;

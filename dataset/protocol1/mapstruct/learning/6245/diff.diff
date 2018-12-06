@@ -1,0 +1,5 @@
+73c73,74
+<             this.customName = !DEFAULT_IMPLEMENTATION_CLASS.equals( this.implName );
+---
+>             this.customName 
+> = !DEFAULT_IMPLEMENTATION_CLASS.equals( this.implName );

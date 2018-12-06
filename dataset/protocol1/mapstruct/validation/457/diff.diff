@@ -1,0 +1,5 @@
+27c27,28
+<         this.clearedTypes = new HashSet<>();
+---
+>         this.clearedTypes = new 
+> HashSet<>();

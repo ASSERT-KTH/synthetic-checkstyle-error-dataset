@@ -1,0 +1,5 @@
+158c158,159
+<         default MappingInheritanceStrategy.EXPLICIT;
+---
+>         default MappingInheritanceStrategy.EXPLICIT
+> ;

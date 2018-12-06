@@ -1,0 +1,5 @@
+42c42,43
+<         throw new UnsupportedOperationException("deliberately not implemented");
+---
+>         
+> throw new UnsupportedOperationException("deliberately not implemented");

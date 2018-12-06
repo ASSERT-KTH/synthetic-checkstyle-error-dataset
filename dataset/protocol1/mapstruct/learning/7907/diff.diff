@@ -1,0 +1,4 @@
+53c53
+<             if ( !updateCandidates.isEmpty() ) {
+---
+>             if ( ! updateCandidates.isEmpty() ) {

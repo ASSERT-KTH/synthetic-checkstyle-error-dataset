@@ -1,0 +1,4 @@
+9c9
+< import static org.mapstruct.ap.internal.util.Collections.first;
+---
+> import static org.mapstruct.ap	.internal.util.Collections.first;

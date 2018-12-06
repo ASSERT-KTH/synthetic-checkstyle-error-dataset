@@ -1,0 +1,5 @@
+32,33c32
+<     public Set<Type> getImportTypes() {
+<         return Collections.emptySet();
+---
+>     public Set<Type> getImportTypes() {        return Collections.emptySet();

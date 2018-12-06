@@ -1,0 +1,4 @@
+6c6
+< package org.mapstruct.ap.internal.model.assignment;
+---
+> package org.mapstruct.ap	.internal.model.assignment;

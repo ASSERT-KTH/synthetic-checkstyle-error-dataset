@@ -1,0 +1,5 @@
+32c32,33
+<     static boolean isPresent(String className, ClassLoader classLoader) {
+---
+>     static boolean isPresent
+> (String className, ClassLoader classLoader) {

@@ -1,0 +1,4 @@
+421c421
+<     public List<Mapping> getMappingBySourcePropertyName(String sourcePropertyName) {
+---
+>     public List<Mapping> getMappingBySourcePropertyName(String 	sourcePropertyName) {

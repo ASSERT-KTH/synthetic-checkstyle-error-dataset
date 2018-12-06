@@ -1,0 +1,5 @@
+135,136c135
+<         List<Accessor> enclosedElements = new ArrayList<>();
+<         element = replaceTypeElementIfNecessary( elementUtils, element );
+---
+>         List<Accessor> enclosedElements = new ArrayList<>();        element = replaceTypeElementIfNecessary( elementUtils, element );

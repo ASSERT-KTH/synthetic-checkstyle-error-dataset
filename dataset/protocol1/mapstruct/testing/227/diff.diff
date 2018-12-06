@@ -1,0 +1,5 @@
+173,174c173
+<     public String toString() {
+<         return returnType + " " + getName() + "(" + join( parameters, ", " ) + ")";
+---
+>     public String toString() {        return returnType + " " + getName() + "(" + join( parameters, ", " ) + ")";

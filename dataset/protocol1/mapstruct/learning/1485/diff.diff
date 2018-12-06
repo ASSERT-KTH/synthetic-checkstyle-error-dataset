@@ -1,0 +1,5 @@
+650,651c650
+<                 }
+<                 result.get( mapping.getTargetName() ).add( mapping );
+---
+>                 }                result.get( mapping.getTargetName() ).add( mapping );

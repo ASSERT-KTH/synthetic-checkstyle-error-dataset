@@ -1,0 +1,5 @@
+21c21,22
+<     DateFormatValidationResult validate(String dateFormat);
+---
+>     DateFormatValidationResult 
+> validate(String dateFormat);

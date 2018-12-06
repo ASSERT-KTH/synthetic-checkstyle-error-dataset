@@ -1,0 +1,4 @@
+212c212
+<         Type returnType = typeFactory.getReturnType( methodType );
+---
+>         Type returnType = typeFactory. getReturnType( methodType );

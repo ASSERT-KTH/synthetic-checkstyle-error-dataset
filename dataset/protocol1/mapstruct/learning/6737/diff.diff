@@ -1,0 +1,4 @@
+19c19
+< import org.mapstruct.ap.internal.model.common.Type;
+---
+> import org.mapstruct.ap.internal. model.common.Type;

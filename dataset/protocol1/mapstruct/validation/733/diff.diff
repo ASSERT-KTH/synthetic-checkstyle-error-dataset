@@ -1,0 +1,4 @@
+20c20
+< import org.mapstruct.ap.spi.util.IntrospectorUtils;
+---
+> import org.mapstruct.ap.spi	.util.IntrospectorUtils;

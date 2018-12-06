@@ -1,0 +1,4 @@
+61c61
+<     @GeneratePrism(value = Context.class, publicAccess = true),
+---
+>     @GeneratePrism(value = Context.class, publicAccess= true),

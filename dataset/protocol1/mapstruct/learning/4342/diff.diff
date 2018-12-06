@@ -1,0 +1,5 @@
+93,94c93
+<     public void setTypeRequiresImport(boolean typeRequiresImport) {
+<         this.typeRequiresImport = typeRequiresImport;
+---
+>     public void setTypeRequiresImport(boolean typeRequiresImport) {        this.typeRequiresImport = typeRequiresImport;

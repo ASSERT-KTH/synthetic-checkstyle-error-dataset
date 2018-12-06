@@ -1,0 +1,4 @@
+25c25
+<     private final List<Annotation> annotations;
+---
+>     private final List<Annotation> 	annotations;

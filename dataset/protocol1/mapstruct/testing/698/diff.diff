@@ -1,0 +1,4 @@
+69c69
+<     private String conversionString(ConversionContext conversionContext, String method) {
+---
+>     private String conversionString(ConversionContext 	conversionContext, String method) {

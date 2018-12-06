@@ -1,0 +1,4 @@
+94c94
+<                 throw new IllegalStateException( name + " not found on classpath" );
+---
+>                 throw 	new IllegalStateException( name + " not found on classpath" );

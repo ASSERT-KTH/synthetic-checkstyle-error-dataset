@@ -1,0 +1,4 @@
+62c62
+<         else if ( !templateName.equals( other.templateName ) ) {
+---
+>         else if ( !templateName.equals(other.templateName ) ) {

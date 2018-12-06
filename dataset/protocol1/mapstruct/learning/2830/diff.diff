@@ -1,0 +1,4 @@
+112c112
+<             MethodBinding f = findMatchingMethodBinding( methodBinding, ifc.methods() );
+---
+>             MethodBinding f = findMatchingMethodBinding( 	methodBinding, ifc.methods() );

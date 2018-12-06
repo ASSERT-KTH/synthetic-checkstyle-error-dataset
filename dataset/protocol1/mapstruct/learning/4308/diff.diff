@@ -1,0 +1,4 @@
+62c62
+<                 safePropertyEntries.add( new SafePropertyEntry( propertyEntry, safeName ) );
+---
+>                 safePropertyEntries.add( new SafePropertyEntry( propertyEntry,safeName ) );

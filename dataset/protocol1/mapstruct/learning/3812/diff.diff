@@ -1,0 +1,4 @@
+79c79
+<         for ( Annotation annotation : annotations ) {
+---
+>         for ( Annotation annotation : 	annotations ) {

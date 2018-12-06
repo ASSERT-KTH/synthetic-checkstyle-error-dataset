@@ -1,0 +1,4 @@
+27c27
+<     private final List<Type> thrownTypesToExclude;
+---
+>     private final 	List<Type> thrownTypesToExclude;

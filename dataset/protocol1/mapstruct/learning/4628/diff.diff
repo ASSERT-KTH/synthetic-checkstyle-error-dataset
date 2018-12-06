@@ -1,0 +1,5 @@
+116,117c116
+<     /**
+<      * This method should be used to generate BeanMappings for our internal generated Mappings. Like forged update
+---
+>     /**     * This method should be used to generate BeanMappings for our internal generated Mappings. Like forged update

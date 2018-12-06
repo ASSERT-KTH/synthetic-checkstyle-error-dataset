@@ -1,0 +1,4 @@
+42c42
+<         char[] chars = name.toCharArray();
+---
+>         char[] chars = name. toCharArray();

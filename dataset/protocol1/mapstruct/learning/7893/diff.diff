@@ -1,0 +1,5 @@
+21,22c21
+<     /**
+<      * If {@code null} is passed to a mapping method, a default value will be returned. The value depends on the kind of
+---
+>     /**     * If {@code null} is passed to a mapping method, a default value will be returned. The value depends on the kind of

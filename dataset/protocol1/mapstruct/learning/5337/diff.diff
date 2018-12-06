@@ -1,0 +1,5 @@
+67,68c67
+<     * - The source property is fed to a conversion somehow before its assigned to the target
+<     * - The user decided to ALLWAYS include a null check
+---
+>     * - The source property is fed to a conversion somehow before its assigned to the target    * - The user decided to ALLWAYS include a null check

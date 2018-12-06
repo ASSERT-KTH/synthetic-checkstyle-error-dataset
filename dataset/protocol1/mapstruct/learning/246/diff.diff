@@ -1,0 +1,4 @@
+19c19
+< public abstract class ModelElement extends FreeMarkerWritable {
+---
+> public abstract class ModelElement extends FreeMarkerWritable 	{

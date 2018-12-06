@@ -1,0 +1,5 @@
+27c27,28
+< public class FreeBuilderAccessorNamingStrategy extends DefaultAccessorNamingStrategy {
+---
+> public class FreeBuilderAccessorNamingStrategy extends 
+> DefaultAccessorNamingStrategy {

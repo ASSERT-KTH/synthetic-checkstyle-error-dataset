@@ -1,0 +1,5 @@
+54c54,55
+<     public AnnotationValue getAnnotationValue() {
+---
+>     public 
+> AnnotationValue getAnnotationValue() {

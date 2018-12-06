@@ -1,0 +1,4 @@
+46c46
+<     protected String getFromExpression(ConversionContext conversionContext) {
+---
+>     protected String getFromExpression(ConversionContext conversionContext	) {

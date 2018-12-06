@@ -1,0 +1,5 @@
+29,30c29
+<     public BigIntegerToStringConversion() {
+<         super( true );
+---
+>     public BigIntegerToStringConversion() {        super( true );

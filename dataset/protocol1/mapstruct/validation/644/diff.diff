@@ -1,0 +1,4 @@
+53c53
+<         return clearedTypes.contains( type );
+---
+>         return clearedTypes.contains ( type );

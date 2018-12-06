@@ -1,0 +1,4 @@
+11c11
+< public class JavaZonedDateTimeToStringConversion extends AbstractJavaTimeToStringConversion {
+---
+> public class JavaZonedDateTimeToStringConversion extends 	AbstractJavaTimeToStringConversion {

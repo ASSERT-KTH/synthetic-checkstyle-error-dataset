@@ -1,0 +1,5 @@
+78c78,79
+<     private String dateFormatPattern(ConversionContext conversionContext) {
+---
+>     private String 
+> dateFormatPattern(ConversionContext conversionContext) {

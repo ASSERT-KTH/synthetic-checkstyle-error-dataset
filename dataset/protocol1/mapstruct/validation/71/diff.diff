@@ -1,0 +1,5 @@
+102c102,103
+<         List<SelectedMethod<SourceMethod>> matchingMethods = selectors.getMatchingMethods(
+---
+>         List<SelectedMethod<SourceMethod>> matchingMethods = selectors.getMatchingMethods
+> (

@@ -1,0 +1,4 @@
+27c27
+<     protected String getFromExpression(final ConversionContext conversionContext) {
+---
+>     protected 	String getFromExpression(final ConversionContext conversionContext) {

@@ -1,0 +1,4 @@
+98c98
+<         if ( fullName.length > 1 ) {
+---
+>         if 	( fullName.length > 1 ) {

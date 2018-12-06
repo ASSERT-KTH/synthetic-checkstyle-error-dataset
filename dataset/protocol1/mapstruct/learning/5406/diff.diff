@@ -1,0 +1,5 @@
+35,36c35
+<         if ( isDirectAssignment() && functionType != null ) {
+<             imported.add( functionType );
+---
+>         if ( isDirectAssignment() && functionType != null ) {            imported.add( functionType );

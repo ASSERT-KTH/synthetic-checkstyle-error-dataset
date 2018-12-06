@@ -1,0 +1,5 @@
+75c75,76
+<                 + Strings.capitalize( primitiveType.getSimpleName() ) + "( <SOURCE> )";
+---
+>                 + Strings.capitalize( 
+> primitiveType.getSimpleName() ) + "( <SOURCE> )";

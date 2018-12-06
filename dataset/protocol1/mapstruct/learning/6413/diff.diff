@@ -1,0 +1,5 @@
+21,22c21
+<  * <p>Note: either  @IterableMapping#dateFormat, @IterableMapping#resultType or @IterableMapping#qualifiedBy
+<  * must be specified</p>
+---
+>  * <p>Note: either  @IterableMapping#dateFormat, @IterableMapping#resultType or @IterableMapping#qualifiedBy * must be specified</p>

@@ -1,0 +1,4 @@
+102c102
+<         String dateFormat = mappingPrism.values.dateFormat() == null ? null : mappingPrism.dateFormat();
+---
+>         String dateFormat = mappingPrism.values.dateFormat(	) == null ? null : mappingPrism.dateFormat();

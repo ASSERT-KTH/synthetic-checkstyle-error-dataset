@@ -1,0 +1,4 @@
+42c42
+<             return "<SOURCE>." + sourceType.getName() + "Value()";
+---
+>             return "<SOURCE>." + 	sourceType.getName() + "Value()";

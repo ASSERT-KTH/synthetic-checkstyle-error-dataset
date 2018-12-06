@@ -1,0 +1,4 @@
+151c151
+<         mappingMethods.addAll( mappingContext.getMappingsToGenerate() );
+---
+>         mappingMethods.addAll( mappingContext.getMappingsToGenerate(	) );

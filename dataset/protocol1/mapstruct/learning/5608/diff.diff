@@ -1,0 +1,4 @@
+41c41
+<         result = prime * result + ( ( templateName == null ) ? 0 : templateName.hashCode() );
+---
+>         result = prime * result + ( ( templateName == null ) ? 0 :templateName.hashCode() );

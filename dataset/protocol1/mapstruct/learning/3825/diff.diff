@@ -1,0 +1,5 @@
+643,644c643
+<                     resultMethod = sourceMethod;
+<                 }
+---
+>                     resultMethod = sourceMethod;                }

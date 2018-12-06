@@ -1,0 +1,4 @@
+23c23
+<     private final String numberFormat;
+---
+>     private final 	String numberFormat;

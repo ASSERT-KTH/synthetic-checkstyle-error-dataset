@@ -1,0 +1,5 @@
+17c17,18
+<     private final Class<?> sourceType;
+---
+>     private final 
+> Class<?> sourceType;

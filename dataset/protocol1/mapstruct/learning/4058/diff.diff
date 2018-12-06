@@ -1,0 +1,4 @@
+60c60
+<             candidatesWithBestMathingType.add( method );
+---
+>             candidatesWithBestMathingType	.add( method );

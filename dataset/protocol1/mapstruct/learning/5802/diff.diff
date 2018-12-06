@@ -1,0 +1,4 @@
+27c27
+<     public static boolean isXmlGregorianCalendarPresent() {
+---
+>     public static boolean 	isXmlGregorianCalendarPresent() {

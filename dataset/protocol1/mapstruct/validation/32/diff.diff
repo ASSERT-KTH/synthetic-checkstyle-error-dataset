@@ -1,0 +1,4 @@
+12c12
+< import org.mapstruct.ap.spi.MappingExclusionProvider;
+---
+> import org.mapstruct.ap. spi.MappingExclusionProvider;

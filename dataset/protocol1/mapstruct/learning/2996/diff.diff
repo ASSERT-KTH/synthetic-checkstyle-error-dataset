@@ -1,0 +1,4 @@
+46c46
+< import static javax.lang.model.element.ElementKind.CLASS;
+---
+> 	import static javax.lang.model.element.ElementKind.CLASS;

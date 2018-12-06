@@ -1,0 +1,5 @@
+22c22,23
+<     private final Diagnostic.Kind diagnosticKind;
+---
+>     private final Diagnostic.Kind 
+> diagnosticKind;

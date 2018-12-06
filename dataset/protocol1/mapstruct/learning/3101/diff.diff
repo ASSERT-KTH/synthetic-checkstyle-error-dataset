@@ -1,0 +1,5 @@
+165c165,166
+<             List<? extends AnnotationMirror> mapperAnnotations = mapper.getTypeElement().getAnnotationMirrors();
+---
+>             List<? extends AnnotationMirror> mapperAnnotations = mapper.getTypeElement().getAnnotationMirrors
+> ();

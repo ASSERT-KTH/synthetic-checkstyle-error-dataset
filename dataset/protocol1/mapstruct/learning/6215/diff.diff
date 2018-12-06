@@ -1,0 +1,4 @@
+50c50
+<         this.eclipseJDT = compiler.startsWith( COMPILER_NAME_ECLIPSE_JDT );
+---
+>         this.eclipseJDT 	= compiler.startsWith( COMPILER_NAME_ECLIPSE_JDT );

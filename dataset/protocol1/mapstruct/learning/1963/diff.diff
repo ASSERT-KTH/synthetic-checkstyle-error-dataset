@@ -1,0 +1,4 @@
+40c40
+<         name = Strings.getSafeVariableName( name, ctx.getNamesOfMappingsToGenerate() );
+---
+>         name = Strings.getSafeVariableName( name, ctx.getNamesOfMappingsToGenerate(	) );

@@ -1,0 +1,5 @@
+28,29c28
+<         if ( sourceType == targetType ) {
+<             return "<SOURCE>";
+---
+>         if ( sourceType == targetType ) {            return "<SOURCE>";

@@ -1,0 +1,5 @@
+39,40c39
+<     public String toString() {
+<         return method.toString();
+---
+>     public String toString() {        return method.toString();

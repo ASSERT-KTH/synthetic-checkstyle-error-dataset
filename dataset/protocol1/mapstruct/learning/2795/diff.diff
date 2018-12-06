@@ -1,0 +1,4 @@
+21c21
+<         return super.isFluentSetter( method ) && !method.getSimpleName().toString().equals( "from" );
+---
+>         return super.isFluentSetter( method ) && !method.getSimpleName(	).toString().equals( "from" );

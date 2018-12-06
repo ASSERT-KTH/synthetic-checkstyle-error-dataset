@@ -1,0 +1,4 @@
+37c37
+<         Set<Type> result = super.getImportTypes();
+---
+>         Set<Type> result= super.getImportTypes();

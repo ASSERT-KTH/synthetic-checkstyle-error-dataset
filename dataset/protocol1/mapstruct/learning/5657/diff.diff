@@ -1,0 +1,4 @@
+42c42
+<             if ( Executables.isFieldAccessor( accessor ) ) {
+---
+>             if ( Executables.isFieldAccessor( accessor ) 	) {

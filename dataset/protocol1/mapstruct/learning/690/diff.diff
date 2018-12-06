@@ -1,0 +1,5 @@
+42c42,43
+<         this.methodResultType = containingMethod.getResultType();
+---
+>         this.methodResultType = 
+> containingMethod.getResultType();

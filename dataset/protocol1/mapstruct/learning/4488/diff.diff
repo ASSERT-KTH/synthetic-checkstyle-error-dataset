@@ -1,0 +1,4 @@
+48c48
+<                 return new SetterWrapper( assignment, method.getThrownTypes(), false );
+---
+>                 return 	new SetterWrapper( assignment, method.getThrownTypes(), false );

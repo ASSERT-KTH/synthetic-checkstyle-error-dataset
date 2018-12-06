@@ -1,0 +1,4 @@
+52c52
+<         if ( getSourcePresenceCheckerReference() == null ) {
+---
+>         if ( getSourcePresenceCheckerReference () == null ) {

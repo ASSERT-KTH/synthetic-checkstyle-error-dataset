@@ -1,0 +1,5 @@
+545c545,546
+<             ValueMapping.fromMappingsPrism( mappingsAnnotation, method, messager, valueMappings );
+---
+>             ValueMapping.fromMappingsPrism( mappingsAnnotation, 
+> method, messager, valueMappings );

@@ -1,0 +1,4 @@
+9c9
+< import org.mapstruct.ap.internal.model.TypeConversion;
+---
+> import org.mapstruct.ap	.internal.model.TypeConversion;

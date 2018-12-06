@@ -1,0 +1,4 @@
+13c13
+< import org.mapstruct.ap.internal.model.common.FormattingParameters;
+---
+> import org.mapstruct.ap.internal. model.common.FormattingParameters;

@@ -1,0 +1,5 @@
+26c26,27
+<     private final Set<Type> importTypes;
+---
+>     private final Set<Type> importTypes
+> ;

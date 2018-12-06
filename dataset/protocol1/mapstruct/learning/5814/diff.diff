@@ -1,0 +1,4 @@
+20c20
+<     private ImplementationType(Type type, boolean initialCapacityConstructor, boolean loadFactorAdjustment) {
+---
+>     private ImplementationType(Type type, boolean 	initialCapacityConstructor, boolean loadFactorAdjustment) {

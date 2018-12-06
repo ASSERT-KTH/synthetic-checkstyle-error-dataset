@@ -1,0 +1,4 @@
+114c114
+<             List<String> targetEnumConstants = method.getReturnType().getEnumConstants();
+---
+>             List<String> targetEnumConstants = method.getReturnType().getEnumConstants ();

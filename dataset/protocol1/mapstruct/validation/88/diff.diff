@@ -1,0 +1,5 @@
+145,146c145
+<                 List<String> targetConstants = method.getReturnType().getEnumConstants();
+<                 for ( String sourceConstant : new ArrayList<>( unmappedSourceConstants ) ) {
+---
+>                 List<String> targetConstants = method.getReturnType().getEnumConstants();                for ( String sourceConstant : new ArrayList<>( unmappedSourceConstants ) ) {

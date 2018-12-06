@@ -1,0 +1,4 @@
+440c440
+<                 result = assignToPlainViaSetter( targetType, rightHandSide );
+---
+>                 result = assignToPlainViaSetter( 	targetType, rightHandSide );

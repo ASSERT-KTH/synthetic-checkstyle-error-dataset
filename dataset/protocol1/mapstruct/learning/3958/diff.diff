@@ -1,0 +1,4 @@
+55c55
+<             new MethodSelectors( ctx.getTypeUtils(), ctx.getElementUtils(), ctx.getTypeFactory() );
+---
+>             new MethodSelectors( ctx.getTypeUtils (), ctx.getElementUtils(), ctx.getTypeFactory() );

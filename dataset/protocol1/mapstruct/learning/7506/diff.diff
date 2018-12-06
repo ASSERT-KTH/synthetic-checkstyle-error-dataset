@@ -1,0 +1,4 @@
+67c67
+<     private final Type resultType;
+---
+>     private 	final Type resultType;

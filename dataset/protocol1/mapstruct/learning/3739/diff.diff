@@ -1,0 +1,4 @@
+30c30
+<         this.sourceTypeNumberSubclass = sourceTypeNumberSubclass;
+---
+>         this. sourceTypeNumberSubclass = sourceTypeNumberSubclass;

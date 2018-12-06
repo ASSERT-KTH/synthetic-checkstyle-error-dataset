@@ -1,0 +1,5 @@
+384c384,385
+<             for ( Map.Entry<String, List<Mapping>> entry : methodMappings.entrySet() ) {
+---
+>             for ( Map.Entry<String, 
+> List<Mapping>> entry : methodMappings.entrySet() ) {

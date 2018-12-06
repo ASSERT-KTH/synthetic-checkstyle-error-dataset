@@ -1,0 +1,5 @@
+144,145c144
+<                     }
+<                     else if ( !targetEnumConstants.contains( mappedConstant.getTargetName() ) ) {
+---
+>                     }                    else if ( !targetEnumConstants.contains( mappedConstant.getTargetName() ) ) {

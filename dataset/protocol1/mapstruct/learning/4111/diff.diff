@@ -1,0 +1,5 @@
+37,38c37
+<         rhs.setSourceLocalVarName( rhs.createLocalVarName( desiredName ) );
+<         adderType = first( getSourceType().determineTypeArguments( Stream.class ) );
+---
+>         rhs.setSourceLocalVarName( rhs.createLocalVarName( desiredName ) );        adderType = first( getSourceType().determineTypeArguments( Stream.class ) );

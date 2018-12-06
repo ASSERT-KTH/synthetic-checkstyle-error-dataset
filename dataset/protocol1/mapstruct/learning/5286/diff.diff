@@ -1,0 +1,5 @@
+24c24,25
+<         this( decoratedAssignment, null );
+---
+>         this( decoratedAssignment
+> , null );

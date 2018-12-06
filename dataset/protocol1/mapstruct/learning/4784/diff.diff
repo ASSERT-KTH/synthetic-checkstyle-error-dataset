@@ -1,0 +1,4 @@
+59c59
+<             conversionString.append( conversionContext.getDateFormat() );
+---
+>             conversionString.append( conversionContext. getDateFormat() );

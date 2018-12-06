@@ -1,0 +1,4 @@
+39c39
+<     public Set<SupportingConstructorFragment> getFragments() {
+---
+>     public Set<SupportingConstructorFragment> getFragments() 	{

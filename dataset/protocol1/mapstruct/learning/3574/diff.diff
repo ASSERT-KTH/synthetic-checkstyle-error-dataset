@@ -1,0 +1,5 @@
+205c205,206
+<             for ( ExecutableElement method : ElementFilter.methodsIn( decoratorElement.getEnclosedElements() ) ) {
+---
+>             for ( ExecutableElement method : 
+> ElementFilter.methodsIn( decoratorElement.getEnclosedElements() ) ) {

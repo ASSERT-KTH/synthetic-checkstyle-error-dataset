@@ -1,0 +1,5 @@
+46,47c46
+<     public boolean isDirectAssignment() {
+<         return getAssignment().getType() == AssignmentType.DIRECT;
+---
+>     public boolean isDirectAssignment() {        return getAssignment().getType() == AssignmentType.DIRECT;

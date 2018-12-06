@@ -1,0 +1,5 @@
+57c57,58
+<             findXmlElementRef( mappingMethod.getResultType(), criteria.getTargetPropertyName() );
+---
+>             findXmlElementRef( mappingMethod.getResultType()
+> , criteria.getTargetPropertyName() );

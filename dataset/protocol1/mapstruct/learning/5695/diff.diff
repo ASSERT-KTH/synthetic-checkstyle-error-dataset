@@ -1,0 +1,4 @@
+33c33
+<         return Collections.asSet( conversionContext.getTypeFactory().getType( Currency.class ) );
+---
+>         return 	Collections.asSet( conversionContext.getTypeFactory().getType( Currency.class ) );

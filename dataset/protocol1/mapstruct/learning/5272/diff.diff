@@ -1,0 +1,5 @@
+209c209,210
+<                     String[] fullName = Arrays.copyOfRange( entryNames, 0, i + 1 );
+---
+>                     String[] fullName = Arrays.copyOfRange( entryNames, 
+> 0, i + 1 );

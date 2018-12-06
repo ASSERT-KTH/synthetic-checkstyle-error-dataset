@@ -1,0 +1,4 @@
+203c203
+<     protected boolean isPossibleBuilderCreationMethod(ExecutableElement method, TypeElement typeElement) {
+---
+>     protected boolean isPossibleBuilderCreationMethod(ExecutableElement method, 	TypeElement typeElement) {

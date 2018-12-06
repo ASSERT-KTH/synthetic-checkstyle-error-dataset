@@ -1,0 +1,4 @@
+13c13
+< import org.mapstruct.ap.internal.model.HelperMethod;
+---
+> import org.mapstruct.ap. internal.model.HelperMethod;

@@ -1,0 +1,5 @@
+131c131,132
+<             this.values = new HashMap<>( values );
+---
+>             this.values = new 
+> HashMap<>( values );

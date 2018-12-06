@@ -1,0 +1,4 @@
+724c724
+<                 ForgedMethod forgedMethod = (ForgedMethod) method;
+---
+>                 ForgedMethod 	forgedMethod = (ForgedMethod) method;

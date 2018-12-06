@@ -1,0 +1,4 @@
+52c52
+<             if ( typeUtils.isSameType( annotationMirror.getAnnotationType(), immutableAnnotation.asType() ) ) {
+---
+>             if ( typeUtils.isSameType( annotationMirror.getAnnotationType(), immutableAnnotation.asType() 	) ) {

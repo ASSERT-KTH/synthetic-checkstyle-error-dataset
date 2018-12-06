@@ -1,0 +1,4 @@
+87c87
+<     private static char[] getIndentation(int indentationLevel) {
+---
+>     private static char[] 	getIndentation(int indentationLevel) {

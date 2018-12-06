@@ -1,0 +1,5 @@
+141,142c141
+<                 delegate.printMessage( msg.getDiagnosticKind(), message, e, a );
+<                 if ( msg.getDiagnosticKind() == Kind.ERROR ) {
+---
+>                 delegate.printMessage( msg.getDiagnosticKind(), message, e, a );                if ( msg.getDiagnosticKind() == Kind.ERROR ) {

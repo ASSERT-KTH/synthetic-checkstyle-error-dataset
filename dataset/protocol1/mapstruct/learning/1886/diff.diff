@@ -1,0 +1,5 @@
+21c21,22
+< public class JodaLocalDateTimeToXmlGregorianCalendar extends AbstractToXmlGregorianCalendar {
+---
+> public 
+> class JodaLocalDateTimeToXmlGregorianCalendar extends AbstractToXmlGregorianCalendar {

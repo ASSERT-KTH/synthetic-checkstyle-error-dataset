@@ -1,0 +1,4 @@
+30c30
+<     protected boolean isFluentSetter(ExecutableElement method) {
+---
+>     protected boolean isFluentSetter(	ExecutableElement method) {

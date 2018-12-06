@@ -1,0 +1,5 @@
+98,99c98
+<             // don't use jar-file caching, as it caused occasionally closed input streams [at least under JDK 1.8.0_25]
+<             connection.setUseCaches( false );
+---
+>             // don't use jar-file caching, as it caused occasionally closed input streams [at least under JDK 1.8.0_25]            connection.setUseCaches( false );

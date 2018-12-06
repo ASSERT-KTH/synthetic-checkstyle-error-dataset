@@ -1,0 +1,5 @@
+234c234,235
+<         return mappingTargetParameter != null ? mappingTargetParameter.getType() : returnType;
+---
+>         return mappingTargetParameter != 
+> null ? mappingTargetParameter.getType() : returnType;

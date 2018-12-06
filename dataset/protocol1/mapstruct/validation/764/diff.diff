@@ -1,0 +1,5 @@
+461c461,462
+<             for ( SourceMethod prototype : prototypeMethods ) {
+---
+>             for ( SourceMethod prototype : 
+> prototypeMethods ) {

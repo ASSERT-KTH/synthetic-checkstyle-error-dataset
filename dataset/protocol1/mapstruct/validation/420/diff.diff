@@ -1,0 +1,4 @@
+84c84
+<         if ( prevHistory == null ) {
+---
+>         if ( prevHistory == null ){

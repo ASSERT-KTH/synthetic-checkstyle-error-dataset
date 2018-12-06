@@ -1,0 +1,4 @@
+236c236
+<             messager.printMessage( element, decoratorPrism.mirror, Message.DECORATOR_CONSTRUCTOR );
+---
+>             messager.printMessage( element, decoratorPrism.mirror , Message.DECORATOR_CONSTRUCTOR );

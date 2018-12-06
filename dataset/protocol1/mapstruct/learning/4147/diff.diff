@@ -1,0 +1,4 @@
+60c60
+<         if (isDirectAssignment() || getSourcePresenceCheckerReference() == null ) {
+---
+>         if (isDirectAssignment(	) || getSourcePresenceCheckerReference() == null ) {

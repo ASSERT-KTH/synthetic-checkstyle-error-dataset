@@ -1,0 +1,4 @@
+43c43
+<         return clazz.getName().replace( '.', '/' ) + ".ftl";
+---
+>         return clazz.getName().replace( '.' , '/' ) + ".ftl";

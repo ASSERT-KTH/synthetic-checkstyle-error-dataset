@@ -1,0 +1,4 @@
+51c51
+<     protected abstract String defaultFormatterSuffix();
+---
+>     	protected abstract String defaultFormatterSuffix();

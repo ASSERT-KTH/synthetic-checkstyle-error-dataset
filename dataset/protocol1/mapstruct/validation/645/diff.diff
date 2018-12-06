@@ -1,0 +1,5 @@
+71,72c71
+<             mapMapping.valueQualifiedByName(),
+<             valueTargetTypeIsDefined ? mapMapping.valueTargetType() : null,
+---
+>             mapMapping.valueQualifiedByName(),            valueTargetTypeIsDefined ? mapMapping.valueTargetType() : null,

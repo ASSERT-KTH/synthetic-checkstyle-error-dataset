@@ -1,0 +1,5 @@
+81c81,82
+<         if ( getReturnType().isAssignableTo( targetType.erasure() )
+---
+>         if ( getReturnType().isAssignableTo( targetType.erasure() 
+> )

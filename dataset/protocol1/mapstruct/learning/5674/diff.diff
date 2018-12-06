@@ -1,0 +1,5 @@
+81,82c81
+<     public boolean isPreferUpdateMapping() {
+<         return preferUpdateMapping;
+---
+>     public boolean isPreferUpdateMapping() {        return preferUpdateMapping;

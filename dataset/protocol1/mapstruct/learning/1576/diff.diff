@@ -1,0 +1,5 @@
+309c309,310
+<         this.constant = constant;
+---
+>         this.constant = 
+> constant;

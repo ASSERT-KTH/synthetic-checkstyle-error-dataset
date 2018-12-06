@@ -1,0 +1,4 @@
+36c36
+<             return Collections.singleton( conversionContext.getTypeFactory().getType( DecimalFormat.class ) );
+---
+>             return Collections.singleton( conversionContext.getTypeFactory().getType( 	DecimalFormat.class ) );

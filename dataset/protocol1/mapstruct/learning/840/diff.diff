@@ -1,0 +1,4 @@
+62c62
+<             List<String> sourceEnumConstants = first( method.getSourceParameters() ).getType().getEnumConstants();
+---
+>             List<String> sourceEnumConstants = first( method.getSourceParameters() ).getType(). getEnumConstants();

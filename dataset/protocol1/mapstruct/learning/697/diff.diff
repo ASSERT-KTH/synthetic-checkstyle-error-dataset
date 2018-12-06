@@ -1,0 +1,4 @@
+298c298
+<                 handledTargets.add( targetProperty.getName() );
+---
+>                 	handledTargets.add( targetProperty.getName() );

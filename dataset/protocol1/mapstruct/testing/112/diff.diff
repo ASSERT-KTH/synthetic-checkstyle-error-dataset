@@ -1,0 +1,4 @@
+23c23
+<     private static final List<ReplaceRule> SINGULAR_RULES = Arrays.asList(
+---
+>     private static final List<ReplaceRule> SINGULAR_RULES 	= Arrays.asList(

@@ -1,0 +1,5 @@
+49c49,50
+<         if ( isJodaTimeAvailable( typeFactory ) && isXmlGregorianCalendarPresent ) {
+---
+>         if 
+> ( isJodaTimeAvailable( typeFactory ) && isXmlGregorianCalendarPresent ) {

@@ -1,0 +1,5 @@
+550c550,551
+<             for ( ExecutableElementAccessor checker : checkerList ) {
+---
+>             for ( 
+> ExecutableElementAccessor checker : checkerList ) {

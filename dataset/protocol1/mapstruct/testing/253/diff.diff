@@ -1,0 +1,5 @@
+32,33c32
+<      * <li>A {@code public static} method in the builder itself</li>
+<      * <li>The default constructor of the builder</li>
+---
+>      * <li>A {@code public static} method in the builder itself</li>     * <li>The default constructor of the builder</li>

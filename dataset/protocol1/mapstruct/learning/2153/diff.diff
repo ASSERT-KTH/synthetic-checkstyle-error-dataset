@@ -1,0 +1,4 @@
+517c517
+<             mappings.putAll( Mapping.fromMappingsPrism( mappingsAnnotation, method, messager, typeUtils ) );
+---
+>             mappings.putAll( Mapping.fromMappingsPrism( mappingsAnnotation, method, messager, typeUtils ) ) ;

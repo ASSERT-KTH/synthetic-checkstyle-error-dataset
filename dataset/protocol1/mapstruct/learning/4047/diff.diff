@@ -1,0 +1,4 @@
+93c93
+<     public void setTypeRequiresImport(boolean typeRequiresImport) {
+---
+>     public void 	setTypeRequiresImport(boolean typeRequiresImport) {

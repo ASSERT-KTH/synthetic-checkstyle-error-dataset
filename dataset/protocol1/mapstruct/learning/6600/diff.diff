@@ -1,0 +1,4 @@
+38c38
+<         adderType = first( getSourceType().determineTypeArguments( Stream.class ) );
+---
+>         adderType = first ( getSourceType().determineTypeArguments( Stream.class ) );

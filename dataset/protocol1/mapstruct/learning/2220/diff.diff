@@ -1,0 +1,5 @@
+31c31,32
+<         this.parameter = new Parameter( "dateTime", typeFactory.getType( ZonedDateTime.class ) );
+---
+>         this.parameter = new Parameter( "dateTime", typeFactory.getType( ZonedDateTime.class 
+> ) );

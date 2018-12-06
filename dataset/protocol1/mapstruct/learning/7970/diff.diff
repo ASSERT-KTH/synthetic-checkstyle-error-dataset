@@ -1,0 +1,4 @@
+37c37
+<     public String getFromExpression(ConversionContext conversionContext) {
+---
+>     public String getFromExpression(ConversionContext conversionContext	) {

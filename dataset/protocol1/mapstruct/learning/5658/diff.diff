@@ -1,0 +1,4 @@
+53c53
+<             && accessorNamingStrategy.getMethodType( executable ) == MethodType.PRESENCE_CHECKER;
+---
+>             && accessorNamingStrategy.getMethodType( executable ) == 	MethodType.PRESENCE_CHECKER;

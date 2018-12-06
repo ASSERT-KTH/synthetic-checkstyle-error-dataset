@@ -1,0 +1,4 @@
+138c138
+<     public static ParameterBinding fromSourceRHS(SourceRHS sourceRHS) {
+---
+>     public static ParameterBinding fromSourceRHS(SourceRHS 	sourceRHS) {

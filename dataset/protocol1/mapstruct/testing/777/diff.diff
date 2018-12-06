@@ -1,0 +1,5 @@
+16,17c16
+<      * Apply the method-level configuration annotations only if the prototype method is explicitly referenced using
+<      * {@link InheritConfiguration}.
+---
+>      * Apply the method-level configuration annotations only if the prototype method is explicitly referenced using     * {@link InheritConfiguration}.

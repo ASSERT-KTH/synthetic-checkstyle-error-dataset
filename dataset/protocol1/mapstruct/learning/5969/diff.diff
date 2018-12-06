@@ -1,0 +1,4 @@
+12c12
+< import javax.tools.FileObject;
+---
+> import javax.tools. FileObject;

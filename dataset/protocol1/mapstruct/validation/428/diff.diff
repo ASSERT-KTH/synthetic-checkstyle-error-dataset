@@ -1,0 +1,5 @@
+136c136,137
+<         return getType( canonicalName, false );
+---
+>         return getType( canonicalName
+> , false );

@@ -1,0 +1,5 @@
+133c133,134
+<         if ( null == result ) {
+---
+>         if ( null 
+> == result ) {

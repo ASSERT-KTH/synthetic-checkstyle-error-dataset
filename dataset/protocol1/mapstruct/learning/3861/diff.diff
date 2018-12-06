@@ -1,0 +1,4 @@
+96c96
+<         return new SelectionCriteria( selectionParameters, targetPropertyName, preferUpdateMapping, false, false );
+---
+>         return new SelectionCriteria( selectionParameters, targetPropertyName, preferUpdateMapping, false, 	false );

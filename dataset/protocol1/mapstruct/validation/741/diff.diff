@@ -1,0 +1,4 @@
+428c428
+<                     if ( mapping.getSourceName().equals( sourcePropertyName ) ) {
+---
+>                     if ( 	mapping.getSourceName().equals( sourcePropertyName ) ) {

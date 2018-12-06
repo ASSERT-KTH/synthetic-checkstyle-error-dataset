@@ -1,0 +1,5 @@
+23,24c23
+<     /**
+<      * If a source bean property equals {@code null} the target bean property will be set explicitly to {@code null}.
+---
+>     /**     * If a source bean property equals {@code null} the target bean property will be set explicitly to {@code null}.

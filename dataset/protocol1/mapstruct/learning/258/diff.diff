@@ -1,0 +1,5 @@
+82,83c82
+<             availableParams.addAll( ParameterBinding.fromParameters( method.getContextParameters() ) );
+<             availableParams.add( ParameterBinding.fromSourceRHS( sourceRHS ) );
+---
+>             availableParams.addAll( ParameterBinding.fromParameters( method.getContextParameters() ) );            availableParams.add( ParameterBinding.fromSourceRHS( sourceRHS ) );

@@ -1,0 +1,4 @@
+103c103
+<         String numberFormat = mappingPrism.values.numberFormat() == null ? null : mappingPrism.numberFormat();
+---
+>         String numberFormat = mappingPrism.values.numberFormat() == null ? null : 	mappingPrism.numberFormat();

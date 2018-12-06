@@ -1,0 +1,5 @@
+26c26,27
+<     public static final String DATE_TIME_FORMAT_FQN = "org.joda.time.format.DateTimeFormat";
+---
+>     public static final String 
+> DATE_TIME_FORMAT_FQN = "org.joda.time.format.DateTimeFormat";

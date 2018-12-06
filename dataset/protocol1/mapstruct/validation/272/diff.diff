@@ -1,0 +1,4 @@
+371c371
+<     public List<Parameter> getParameters(DeclaredType includingType, Accessor accessor) {
+---
+>     	public List<Parameter> getParameters(DeclaredType includingType, Accessor accessor) {

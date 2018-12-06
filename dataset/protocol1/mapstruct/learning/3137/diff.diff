@@ -1,0 +1,4 @@
+27c27
+<         this.applyForward = applyForward;
+---
+>         this.applyForward 	= applyForward;

@@ -1,0 +1,4 @@
+66c66
+<         public Builder decorator(Decorator decorator) {
+---
+>         public Builder decorator(Decorator 	decorator) {

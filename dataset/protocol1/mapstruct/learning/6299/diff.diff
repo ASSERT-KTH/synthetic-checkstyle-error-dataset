@@ -1,0 +1,4 @@
+357c357
+<                 Mapping firstMapping = first( mapping );
+---
+>                 Mapping firstMapping = 	first( mapping );

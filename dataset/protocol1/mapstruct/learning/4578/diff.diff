@@ -1,0 +1,4 @@
+117c117
+<         public GraphAnalyzerBuilder withNode(String name, List<String> descendants) {
+---
+>         	public GraphAnalyzerBuilder withNode(String name, List<String> descendants) {

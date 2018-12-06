@@ -1,0 +1,4 @@
+48c48
+<     String getPropertyName(ExecutableElement getterOrSetterMethod);
+---
+>     String getPropertyName(ExecutableElement getterOrSetterMethod) ;

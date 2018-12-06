@@ -1,0 +1,4 @@
+33c33
+<             builtInMethods.add( new CalendarToXmlGregorianCalendar( typeFactory ) );
+---
+>             builtInMethods.add(new CalendarToXmlGregorianCalendar( typeFactory ) );

@@ -1,0 +1,5 @@
+27c27,28
+<     void printMessage(Message msg, Object... args);
+---
+>     void printMessage(Message msg, Object
+> ... args);

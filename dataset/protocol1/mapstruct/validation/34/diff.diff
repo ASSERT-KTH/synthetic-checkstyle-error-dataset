@@ -1,0 +1,4 @@
+50c50
+<     List<HelperMethod> getRequiredHelperMethods(ConversionContext conversionContext);
+---
+>     List<HelperMethod	> getRequiredHelperMethods(ConversionContext conversionContext);

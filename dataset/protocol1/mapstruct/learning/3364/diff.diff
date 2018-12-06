@@ -1,0 +1,4 @@
+36c36
+<         String desiredName = Nouns.singularize( adderIteratorName );
+---
+>         String desiredName = Nouns.singularize ( adderIteratorName );

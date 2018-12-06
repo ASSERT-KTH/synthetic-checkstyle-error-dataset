@@ -1,0 +1,4 @@
+57c57
+<         if ( conversionContext.getDateFormat() != null ) {
+---
+>         if ( conversionContext.getDateFormat() != null ){

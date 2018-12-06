@@ -1,0 +1,5 @@
+37,38c37
+<         this.importTypes = method.getImportTypes();
+<         this.templateName = getTemplateNameForClass( method.getClass() );
+---
+>         this.importTypes = method.getImportTypes();        this.templateName = getTemplateNameForClass( method.getClass() );

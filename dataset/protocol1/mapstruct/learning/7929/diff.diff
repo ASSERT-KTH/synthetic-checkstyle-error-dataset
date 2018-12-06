@@ -1,0 +1,5 @@
+38,39c38
+<     public T getElement() {
+<         return element;
+---
+>     public T getElement() {        return element;

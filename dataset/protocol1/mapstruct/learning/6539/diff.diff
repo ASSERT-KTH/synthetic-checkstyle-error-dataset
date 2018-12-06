@@ -1,0 +1,4 @@
+49c49
+<                 if ( parentThrownType.isAssignableTo( thrownTypeToExclude ) ) {
+---
+>                 if ( parentThrownType.isAssignableTo( thrownTypeToExclude ) ){

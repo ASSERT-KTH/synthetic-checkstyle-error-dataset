@@ -1,0 +1,4 @@
+25c25
+<         new ReplaceRule( "(f)eet$", "$1oot" ),
+---
+>         new ReplaceRule( 	"(f)eet$", "$1oot" ),

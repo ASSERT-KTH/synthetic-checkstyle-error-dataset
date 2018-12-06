@@ -1,0 +1,4 @@
+238c238
+<                     setValueMappings( inherited.getValueMappings() );
+---
+>                     	setValueMappings( inherited.getValueMappings() );

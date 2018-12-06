@@ -1,0 +1,4 @@
+12c12
+< import org.mapstruct.ap.internal.util.JaxbConstants;
+---
+> import org	.mapstruct.ap.internal.util.JaxbConstants;

@@ -1,0 +1,5 @@
+127,128c127
+<      * Replaces the sourceReference at the call site in the assignment in the template with this sourceLocalVarName.
+<      * The sourceLocalVarName can subsequently be used for e.g. null checking.
+---
+>      * Replaces the sourceReference at the call site in the assignment in the template with this sourceLocalVarName.     * The sourceLocalVarName can subsequently be used for e.g. null checking.

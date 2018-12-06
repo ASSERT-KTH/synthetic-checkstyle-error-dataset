@@ -1,0 +1,5 @@
+43c43,44
+<     public Type getReturnType() {
+---
+>     public Type 
+> getReturnType() {

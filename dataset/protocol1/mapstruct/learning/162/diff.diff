@@ -1,0 +1,5 @@
+25,26c25
+<  *     method exists it will be invoked in the generated mapping implementation.</li>
+<  *     <li>If no such method exists MapStruct will look whether a built-in conversion for the source and target type
+---
+>  *     method exists it will be invoked in the generated mapping implementation.</li> *     <li>If no such method exists MapStruct will look whether a built-in conversion for the source and target type

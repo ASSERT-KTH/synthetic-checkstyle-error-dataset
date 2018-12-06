@@ -1,0 +1,5 @@
+12,13c12
+< import org.mapstruct.ap.internal.model.assignment.UpdateWrapper;
+< import org.mapstruct.ap.internal.model.common.Assignment;
+---
+> import org.mapstruct.ap.internal.model.assignment.UpdateWrapper;import org.mapstruct.ap.internal.model.common.Assignment;

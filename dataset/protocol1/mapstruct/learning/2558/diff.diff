@@ -1,0 +1,4 @@
+81c81
+<     public Collection<ExecutableElement> getBuildMethods() {
+---
+>     public Collection<ExecutableElement> getBuildMethods () {

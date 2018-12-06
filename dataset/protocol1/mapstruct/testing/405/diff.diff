@@ -1,0 +1,5 @@
+19c19,20
+<         return "String.valueOf( <SOURCE> )";
+---
+>         return "String.valueOf( <SOURCE> )"
+> ;

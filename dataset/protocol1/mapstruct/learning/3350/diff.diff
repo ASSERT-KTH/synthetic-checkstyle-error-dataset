@@ -1,0 +1,4 @@
+38c38
+<             conversionContext.getTypeFactory().getType( Date.class ),
+---
+>             conversionContext.getTypeFactory()	.getType( Date.class ),

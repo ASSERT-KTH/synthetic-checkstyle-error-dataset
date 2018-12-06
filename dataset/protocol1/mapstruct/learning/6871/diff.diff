@@ -1,0 +1,5 @@
+275,276c275
+<         if ( !typeToAdd.isToBeImported() ) {
+<             return false;
+---
+>         if ( !typeToAdd.isToBeImported() ) {            return false;

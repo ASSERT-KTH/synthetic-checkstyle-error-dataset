@@ -1,0 +1,4 @@
+62c62
+<             Method found = workaroundClass.getDeclaredMethod(
+---
+>             Method found = workaroundClass.getDeclaredMethod (

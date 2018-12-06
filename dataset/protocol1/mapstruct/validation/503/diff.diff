@@ -1,0 +1,4 @@
+77c77
+<         boolean isBooleanGetterName = methodName.startsWith( "is" ) && methodName.length() > 2;
+---
+>         boolean isBooleanGetterName = 	methodName.startsWith( "is" ) && methodName.length() > 2;

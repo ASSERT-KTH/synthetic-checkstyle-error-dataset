@@ -1,0 +1,4 @@
+24c24
+<         this.enumType = enumType;
+---
+>         this.enumType 	= enumType;

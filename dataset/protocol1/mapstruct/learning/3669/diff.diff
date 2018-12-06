@@ -1,0 +1,4 @@
+42c42
+<         this.typeFactory = typeFactory;
+---
+>         	this.typeFactory = typeFactory;

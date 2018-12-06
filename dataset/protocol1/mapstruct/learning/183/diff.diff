@@ -1,0 +1,5 @@
+17,18c17
+<  * {@link MapMappingMethod}, {@link IterableMappingMethod} and {@link StreamMappingMethod} (non-enum / non-value
+<  * mapping)
+---
+>  * {@link MapMappingMethod}, {@link IterableMappingMethod} and {@link StreamMappingMethod} (non-enum / non-value * mapping)

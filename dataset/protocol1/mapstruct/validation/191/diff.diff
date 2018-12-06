@@ -1,0 +1,5 @@
+406c406,407
+<         TypeMirror accessorType = getMethodType( includingType, accessor.getElement() );
+---
+>         TypeMirror 
+> accessorType = getMethodType( includingType, accessor.getElement() );

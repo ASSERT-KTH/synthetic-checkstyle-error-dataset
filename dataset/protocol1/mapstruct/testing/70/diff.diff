@@ -1,0 +1,4 @@
+68c68
+<         this.isStatic = method.isStatic();
+---
+>         this.isStatic = method.isStatic() ;

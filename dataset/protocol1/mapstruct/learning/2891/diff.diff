@@ -1,0 +1,4 @@
+230c230
+<         if ( mapperConfigPrism != null && mapperPrism.values.nullValueMappingStrategy() == null ) {
+---
+>         if ( mapperConfigPrism != null && mapperPrism.values.nullValueMappingStrategy() 	== null ) {

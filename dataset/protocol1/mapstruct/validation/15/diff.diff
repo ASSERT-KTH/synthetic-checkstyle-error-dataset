@@ -1,0 +1,5 @@
+27,28c27
+<         this.templateName = getTemplateNameForClass( constructorFragment.getClass() );
+<         this.definingMethod = definingMethod;
+---
+>         this.templateName = getTemplateNameForClass( constructorFragment.getClass() );        this.definingMethod = definingMethod;

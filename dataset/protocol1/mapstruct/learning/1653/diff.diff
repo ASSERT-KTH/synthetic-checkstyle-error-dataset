@@ -1,0 +1,5 @@
+49c49,50
+<         ExternalParamsTemplateModel(BeanModel object, SimpleMapModel extParams) {
+---
+>         ExternalParamsTemplateModel(BeanModel 
+> object, SimpleMapModel extParams) {

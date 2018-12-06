@@ -1,0 +1,4 @@
+27c27
+<     public Java8FunctionWrapper(Assignment decoratedAssignment, Type functionType) {
+---
+>     public 	Java8FunctionWrapper(Assignment decoratedAssignment, Type functionType) {

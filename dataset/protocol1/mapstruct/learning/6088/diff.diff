@@ -1,0 +1,4 @@
+77c77
+<     public void setUsed(boolean isUsed) {
+---
+>     public 	void setUsed(boolean isUsed) {

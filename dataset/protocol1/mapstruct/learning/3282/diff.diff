@@ -1,0 +1,4 @@
+685c685
+<         String name = reversePrism.name();
+---
+>         String name = reversePrism. name();

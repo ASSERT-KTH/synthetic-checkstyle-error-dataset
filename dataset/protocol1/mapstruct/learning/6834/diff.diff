@@ -1,0 +1,4 @@
+46c46
+<         return asSet( conversionContext.getTypeFactory().getType( BigInteger.class ) );
+---
+>         return asSet( conversionContext.getTypeFactory().getType( BigInteger	.class ) );

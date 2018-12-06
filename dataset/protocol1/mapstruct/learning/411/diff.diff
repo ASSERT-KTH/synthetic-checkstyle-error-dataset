@@ -1,0 +1,4 @@
+127c127
+<             this.generatedType = typeFactory.getType( "javax.annotation.processing.Generated" );
+---
+>             this.generatedType = typeFactory	.getType( "javax.annotation.processing.Generated" );

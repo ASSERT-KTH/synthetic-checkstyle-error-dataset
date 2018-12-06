@@ -1,0 +1,4 @@
+14c14
+< import org.mapstruct.ap.internal.model.source.ForgedMethod;
+---
+> import org.mapstruct.ap.internal	.model.source.ForgedMethod;

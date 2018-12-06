@@ -1,0 +1,4 @@
+56c56
+<                 Strings.stubPropertyName( targetType.getName() ),
+---
+>                 Strings.stubPropertyName( targetType.getName(	) ),

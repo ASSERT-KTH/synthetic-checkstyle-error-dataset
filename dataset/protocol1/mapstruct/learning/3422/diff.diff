@@ -1,0 +1,5 @@
+109,110c109
+<      * <li>what the value of the name property of the XmlElementRef annotation on that field was</li>
+<      * <li>on which type the field was found</li>
+---
+>      * <li>what the value of the name property of the XmlElementRef annotation on that field was</li>     * <li>on which type the field was found</li>

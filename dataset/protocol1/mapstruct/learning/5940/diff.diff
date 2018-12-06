@@ -1,0 +1,4 @@
+74c74
+<     public static List<Accessor> adderMethodsIn(AccessorNamingUtils accessorNaming, List<Accessor> elements) {
+---
+>     public static List<Accessor	> adderMethodsIn(AccessorNamingUtils accessorNaming, List<Accessor> elements) {

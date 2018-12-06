@@ -1,0 +1,4 @@
+79c79
+<     public static ParameterProvidedMethods empty() {
+---
+>     public static ParameterProvidedMethods empty(){

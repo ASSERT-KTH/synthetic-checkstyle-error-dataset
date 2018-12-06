@@ -1,0 +1,5 @@
+23,24c23
+<  * <b>NOTE:</b> This annotation is not supported for the component model {@code cdi}. Use CDI's own
+<  * <a href="https://docs.jboss.org/cdi/spec/1.0/html/decorators.html">{@code @Decorator}</a> feature instead.
+---
+>  * <b>NOTE:</b> This annotation is not supported for the component model {@code cdi}. Use CDI's own * <a href="https://docs.jboss.org/cdi/spec/1.0/html/decorators.html">{@code @Decorator}</a> feature instead.

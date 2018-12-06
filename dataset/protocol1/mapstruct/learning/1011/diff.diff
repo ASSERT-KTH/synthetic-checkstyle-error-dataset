@@ -1,0 +1,4 @@
+74c74
+<         return executable != null ? accessorNamingStrategy.getPropertyName( executable ) :
+---
+>         return executable != null ? accessorNamingStrategy.getPropertyName( executable) :

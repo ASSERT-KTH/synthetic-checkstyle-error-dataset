@@ -1,0 +1,5 @@
+54,55c54
+<     public MethodReference getFactoryMethod() {
+<         return this.factoryMethod;
+---
+>     public MethodReference getFactoryMethod() {        return this.factoryMethod;

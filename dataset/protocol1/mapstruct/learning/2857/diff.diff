@@ -1,0 +1,5 @@
+50c50,51
+<                 if ( methodName.matches( buildMethodPattern ) ) {
+---
+>                 if ( methodName.matches
+> ( buildMethodPattern ) ) {

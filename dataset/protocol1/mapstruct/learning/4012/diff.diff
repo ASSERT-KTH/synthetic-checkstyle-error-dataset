@@ -1,0 +1,5 @@
+274c274,275
+<                     throw new IllegalArgumentException( "Unexpected character: " + c );
+---
+>                     throw new IllegalArgumentException( "Unexpected character: " 
+> + c );

@@ -1,0 +1,4 @@
+179c179
+<             if ( referencedMethod != null ) {
+---
+>             	if ( referencedMethod != null ) {

@@ -1,0 +1,4 @@
+56c56
+<     private Field getSafeField(BuiltInFieldReference ref, Set<Field> existingFields) {
+---
+>     	private Field getSafeField(BuiltInFieldReference ref, Set<Field> existingFields) {

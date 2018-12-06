@@ -1,0 +1,4 @@
+76c76
+<         if ( getClass() != obj.getClass() ) {
+---
+>         if ( getClass(	) != obj.getClass() ) {

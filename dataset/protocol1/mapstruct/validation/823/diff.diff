@@ -1,0 +1,5 @@
+74c74,75
+<         boolean isNonBooleanGetterName = methodName.startsWith( "get" ) && methodName.length() > 3 &&
+---
+>         boolean isNonBooleanGetterName = methodName.startsWith( "get" ) 
+> && methodName.length() > 3 &&

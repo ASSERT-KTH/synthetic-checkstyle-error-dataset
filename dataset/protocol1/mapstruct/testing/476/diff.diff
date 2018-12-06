@@ -1,0 +1,5 @@
+44,45c44
+<     public boolean isIncludeSourceNullCheck() {
+<         return true;
+---
+>     public boolean isIncludeSourceNullCheck() {        return true;

@@ -1,0 +1,5 @@
+104c104,105
+<         return new SelectionCriteria( selectionParameters, null, false, false, true );
+---
+>         return new SelectionCriteria( selectionParameters, 
+> null, false, false, true );

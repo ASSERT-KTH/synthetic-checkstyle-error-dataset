@@ -1,0 +1,5 @@
+396c396,397
+<             System.arraycopy( args, 0, errorArgs, 2, args.length );
+---
+>             System.arraycopy( args, 0
+> , errorArgs, 2, args.length );

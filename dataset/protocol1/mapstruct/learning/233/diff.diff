@@ -1,0 +1,5 @@
+55c55,56
+<         return new NewDatatypeFactoryConstructorFragment( );
+---
+>         return 
+> new NewDatatypeFactoryConstructorFragment( );

@@ -1,0 +1,5 @@
+63c63,64
+<             return super.getFromConversionExceptionTypes( conversionContext );
+---
+>             return 
+> super.getFromConversionExceptionTypes( conversionContext );

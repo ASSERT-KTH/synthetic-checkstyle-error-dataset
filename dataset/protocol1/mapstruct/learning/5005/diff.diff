@@ -1,0 +1,4 @@
+206c206
+<         private List<PropertyEntry> getSourceEntries(Type type, String[] entryNames) {
+---
+>         private List<PropertyEntry> getSourceEntries(Type type, 	String[] entryNames) {

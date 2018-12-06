@@ -1,0 +1,5 @@
+74c74,75
+<                 List<Mapping> mappingsOfProperty = mappings.get( mappingPrism.target() );
+---
+>                 List<Mapping> mappingsOfProperty = mappings.get( 
+> mappingPrism.target() );

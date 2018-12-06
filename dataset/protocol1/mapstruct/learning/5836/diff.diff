@@ -1,0 +1,4 @@
+117c117
+<     private XmlElementRefInfo findXmlElementRef(Type resultType, String targetPropertyName) {
+---
+>     private XmlElementRefInfo findXmlElementRef(Type resultType, String targetPropertyName	) {

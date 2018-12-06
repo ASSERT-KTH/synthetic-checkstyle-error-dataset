@@ -1,0 +1,5 @@
+130c130,131
+<         else if ( typeFactory.isTypeAvailable( "javax.annotation.Generated" ) ) {
+---
+>         else if ( typeFactory.isTypeAvailable( "javax.annotation.Generated" 
+> ) ) {

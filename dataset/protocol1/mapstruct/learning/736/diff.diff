@@ -1,0 +1,5 @@
+344c344,345
+<     private static class LongAnalyzer implements LiteralAnalyzer {
+---
+>     private static class 
+> LongAnalyzer implements LiteralAnalyzer {

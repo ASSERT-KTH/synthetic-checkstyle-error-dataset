@@ -1,0 +1,5 @@
+18,19c18
+< import org.mapstruct.InheritInverseConfiguration;
+< import org.mapstruct.IterableMapping;
+---
+> import org.mapstruct.InheritInverseConfiguration;import org.mapstruct.IterableMapping;

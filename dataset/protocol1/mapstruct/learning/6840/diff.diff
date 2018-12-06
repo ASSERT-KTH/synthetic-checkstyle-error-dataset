@@ -1,0 +1,4 @@
+93c93
+<         String runtimeVendor = System.getProperty( "java.vendor" );
+---
+>         String runtimeVendor = System. getProperty( "java.vendor" );

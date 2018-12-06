@@ -1,0 +1,5 @@
+59c59,60
+<             if ( Thread.currentThread().getContextClassLoader() != null ) {
+---
+>             if ( Thread.currentThread().getContextClassLoader() != 
+> null ) {

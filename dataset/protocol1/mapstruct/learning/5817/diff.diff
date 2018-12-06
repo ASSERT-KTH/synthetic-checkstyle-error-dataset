@@ -1,0 +1,4 @@
+77c77
+<         for ( Type typeParam : type.getTypeParameters() ) {
+---
+>         for ( Type 	typeParam : type.getTypeParameters() ) {

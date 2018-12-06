@@ -1,0 +1,5 @@
+17,18c17
+<     public DelegatingMethod(Method method) {
+<         super( method );
+---
+>     public DelegatingMethod(Method method) {        super( method );

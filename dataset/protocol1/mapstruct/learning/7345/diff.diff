@@ -1,0 +1,4 @@
+59c59
+<     protected Set<Type> getFromConversionImportTypes(ConversionContext conversionContext) {
+---
+>     protected Set<Type> 	getFromConversionImportTypes(ConversionContext conversionContext) {

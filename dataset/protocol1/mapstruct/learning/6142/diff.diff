@@ -1,0 +1,4 @@
+41c41
+<         return bigInteger( conversionContext ) + ".valueOf( " + castString + "<SOURCE> )";
+---
+>         return bigInteger( conversionContext ) + ".valueOf( " + 	castString + "<SOURCE> )";

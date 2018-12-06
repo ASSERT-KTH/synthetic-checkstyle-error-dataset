@@ -1,0 +1,4 @@
+30c30
+<         return Collections.asSet( conversionContext.getTypeFactory().getType( Date.class ) );
+---
+>         return Collections.asSet( conversionContext.getTypeFactory().getType( Date.class ));

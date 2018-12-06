@@ -1,0 +1,4 @@
+84c84
+<         if ( sourceRHS != null ) {
+---
+>         if ( sourceRHS!= null ) {

@@ -1,0 +1,4 @@
+19c19
+<     private final ReportingPolicyPrism unmappedTargetPolicy;
+---
+>     private final ReportingPolicyPrism unmappedTargetPolicy ;

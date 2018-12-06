@@ -1,0 +1,4 @@
+622c622
+<                             sourcePresenceChecker += " && " + variableName + " != null && "
+---
+>                             sourcePresenceChecker += " && " + variableName 	+ " != null && "

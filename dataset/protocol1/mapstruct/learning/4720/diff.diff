@@ -1,0 +1,5 @@
+77,78c77
+<         for ( Type typeParam : type.getTypeParameters() ) {
+<             builder.append( typeParam.getIdentification() );
+---
+>         for ( Type typeParam : type.getTypeParameters() ) {            builder.append( typeParam.getIdentification() );

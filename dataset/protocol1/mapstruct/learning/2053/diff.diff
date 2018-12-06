@@ -1,0 +1,5 @@
+80c80,81
+<                 first( method.getSourceParameters() ).getType().determineTypeArguments( Map.class );
+---
+>                 first( method.getSourceParameters() ).getType().determineTypeArguments( Map.class )
+> ;

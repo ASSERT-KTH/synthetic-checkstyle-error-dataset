@@ -1,0 +1,5 @@
+264c264,265
+<     protected void addIfImportRequired(Collection<Type> collection, Type typeToAdd) {
+---
+>     protected void addIfImportRequired
+> (Collection<Type> collection, Type typeToAdd) {

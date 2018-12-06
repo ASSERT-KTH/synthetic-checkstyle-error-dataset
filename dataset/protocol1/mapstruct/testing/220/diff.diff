@@ -1,0 +1,5 @@
+107c107,108
+<             this.regexp = regexp;
+---
+>             
+> this.regexp = regexp;

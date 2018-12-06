@@ -1,0 +1,4 @@
+28c28
+<         return currency( conversionContext ) + ".getInstance( <SOURCE> )";
+---
+>         return currency ( conversionContext ) + ".getInstance( <SOURCE> )";

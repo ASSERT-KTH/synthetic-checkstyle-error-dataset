@@ -1,0 +1,5 @@
+33c33,34
+<     private final SupportingConstructorFragment supportingConstructorFragment;
+---
+>     private final SupportingConstructorFragment 
+> supportingConstructorFragment;

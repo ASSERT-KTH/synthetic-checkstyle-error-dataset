@@ -1,0 +1,5 @@
+183,184c183
+<      * sub-mapping method between the two beans. If this property is set to {@code true} MapStruct will not try to
+<      * automatically generate sub-mapping methods.
+---
+>      * sub-mapping method between the two beans. If this property is set to {@code true} MapStruct will not try to     * automatically generate sub-mapping methods.

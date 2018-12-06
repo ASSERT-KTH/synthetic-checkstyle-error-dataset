@@ -1,0 +1,5 @@
+145c145,146
+<         private final String readAccessorName;
+---
+>         
+> private final String readAccessorName;

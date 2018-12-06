@@ -1,0 +1,4 @@
+98c98
+<     private String getCorrectDottedPath(String previousPath, String currentProperty) {
+---
+>     private String getCorrectDottedPath(String previousPath, 	String currentProperty) {

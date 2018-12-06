@@ -1,0 +1,5 @@
+43c43,44
+<     private static String typeReferenceName(ConversionContext conversionContext, String canonicalName) {
+---
+>     
+> private static String typeReferenceName(ConversionContext conversionContext, String canonicalName) {

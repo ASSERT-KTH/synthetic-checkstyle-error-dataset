@@ -1,0 +1,4 @@
+252c252
+<         else if ( mappingPrism.values.nullValuePropertyMappingStrategy() != null
+---
+>         else if ( mappingPrism.values.nullValuePropertyMappingStrategy() 	!= null

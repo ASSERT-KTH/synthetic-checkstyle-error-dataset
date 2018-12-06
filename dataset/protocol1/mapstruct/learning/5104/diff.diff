@@ -1,0 +1,4 @@
+38c38
+<         if ( targetType == float.class || targetType == double.class ) {
+---
+>         if ( targetType == float	.class || targetType == double.class ) {

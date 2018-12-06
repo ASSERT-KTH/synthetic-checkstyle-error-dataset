@@ -1,0 +1,4 @@
+141c141
+<     public String getContextParameter(ConversionContext conversionContext) {
+---
+>     public String getContextParameter (ConversionContext conversionContext) {

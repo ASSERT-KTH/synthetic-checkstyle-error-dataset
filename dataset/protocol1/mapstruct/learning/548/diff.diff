@@ -1,0 +1,4 @@
+192c192
+<         int excl = file.indexOf( '!' );
+---
+>         int excl = file.indexOf( '!');

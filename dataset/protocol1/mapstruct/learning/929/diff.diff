@@ -1,0 +1,5 @@
+38c38,39
+<                 new SimpleMapModel( context.get( Map.class ), BeansWrapper.getDefaultInstance() )
+---
+>                 new SimpleMapModel( context.get( Map.class 
+> ), BeansWrapper.getDefaultInstance() )

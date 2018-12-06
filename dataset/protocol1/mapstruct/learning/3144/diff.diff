@@ -1,0 +1,4 @@
+54c54
+<     ReportingPolicy unmappedSourcePolicy() default ReportingPolicy.IGNORE;
+---
+>     ReportingPolicy unmappedSourcePolicy() default ReportingPolicy. IGNORE;

@@ -1,0 +1,4 @@
+49c49
+<             && isPublicNotStatic( method )
+---
+>             && 	isPublicNotStatic( method )

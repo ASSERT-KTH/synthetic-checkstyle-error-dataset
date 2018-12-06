@@ -1,0 +1,4 @@
+25c25
+< public abstract class AbstractNumberToStringConversion extends SimpleConversion {
+---
+> public abstract class AbstractNumberToStringConversion extends SimpleConversion 	{

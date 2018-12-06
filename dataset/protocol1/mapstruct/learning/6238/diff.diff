@@ -1,0 +1,4 @@
+165c165
+<     void reportCannotCreateMapping(Method method, AnnotationMirror posHint, String sourceErrorMessagePart,
+---
+>     void reportCannotCreateMapping(Method method, AnnotationMirror 	posHint, String sourceErrorMessagePart,

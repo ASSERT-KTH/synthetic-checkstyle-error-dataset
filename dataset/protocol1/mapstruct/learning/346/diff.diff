@@ -1,0 +1,4 @@
+98c98
+<     public static TypeElement replaceTypeElementIfNecessary(Elements elementUtils, TypeElement element) {
+---
+>     public static TypeElement replaceTypeElementIfNecessary(Elements elementUtils,TypeElement element) {

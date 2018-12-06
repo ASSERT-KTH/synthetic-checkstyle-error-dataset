@@ -1,0 +1,5 @@
+69c69,70
+<     public boolean isSubsignature(ExecutableType m1, ExecutableType m2) {
+---
+>     public boolean isSubsignature(ExecutableType m1, 
+> ExecutableType m2) {

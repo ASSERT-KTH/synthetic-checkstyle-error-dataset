@@ -1,0 +1,5 @@
+116c116,117
+<             String existingName = ctx.getExistingMappingMethod( mappingMethod ).getName();
+---
+>             
+> String existingName = ctx.getExistingMappingMethod( mappingMethod ).getName();

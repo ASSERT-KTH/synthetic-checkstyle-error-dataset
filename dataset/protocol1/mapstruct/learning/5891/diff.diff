@@ -1,0 +1,5 @@
+30,31c30
+<  *     <li>If MapStruct could not create a name based mapping method an error will be raised at build time,
+<  *     indicating the non-mappable attribute and its path.</li>
+---
+>  *     <li>If MapStruct could not create a name based mapping method an error will be raised at build time, *     indicating the non-mappable attribute and its path.</li>

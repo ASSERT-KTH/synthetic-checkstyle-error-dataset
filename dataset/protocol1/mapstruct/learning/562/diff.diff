@@ -1,0 +1,5 @@
+115c115,116
+<         return delegate.getArrayType( componentType );
+---
+>         
+> return delegate.getArrayType( componentType );

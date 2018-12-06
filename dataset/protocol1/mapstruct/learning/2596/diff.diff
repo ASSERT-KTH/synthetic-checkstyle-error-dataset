@@ -1,0 +1,4 @@
+63c63
+<         conversionString.append( ")." );
+---
+>         conversionString.append( ").");

@@ -1,0 +1,5 @@
+107c107,108
+<         this.valueFormattingParameters = valueFormatting;
+---
+>         this.valueFormattingParameters = 
+> valueFormatting;

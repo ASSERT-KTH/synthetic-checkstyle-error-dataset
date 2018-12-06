@@ -1,0 +1,5 @@
+38c38,39
+<     static TypeMirror invokeAsMemberOfWorkaround(ProcessingEnvironment env, DeclaredType containing, Element element)
+---
+>     static TypeMirror invokeAsMemberOfWorkaround(ProcessingEnvironment env, DeclaredType 
+> containing, Element element)

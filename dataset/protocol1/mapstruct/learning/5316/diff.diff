@@ -1,0 +1,5 @@
+39,40c39
+<             executable.getParameters().isEmpty() &&
+<             accessorNamingStrategy.getMethodType( executable ) == MethodType.GETTER;
+---
+>             executable.getParameters().isEmpty() &&            accessorNamingStrategy.getMethodType( executable ) == MethodType.GETTER;

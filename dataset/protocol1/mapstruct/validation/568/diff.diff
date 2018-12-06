@@ -1,0 +1,5 @@
+33,34c33
+<      * used, assuming it returns an initialized collection: If no setter is available, MapStruct will first look for an
+<      * adder method before resorting to a getter.
+---
+>      * used, assuming it returns an initialized collection: If no setter is available, MapStruct will first look for an     * adder method before resorting to a getter.

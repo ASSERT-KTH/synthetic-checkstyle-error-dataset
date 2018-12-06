@@ -1,0 +1,5 @@
+44c44,45
+<     public DefaultModelElementProcessorContext(ProcessingEnvironment processingEnvironment, Options options,
+---
+>     public DefaultModelElementProcessorContext(ProcessingEnvironment 
+> processingEnvironment, Options options,

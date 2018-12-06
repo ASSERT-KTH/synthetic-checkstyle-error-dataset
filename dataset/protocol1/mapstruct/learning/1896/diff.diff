@@ -1,0 +1,4 @@
+42c42
+<             spiGenerationNeeded = "default".equals( componentModel );
+---
+>             spiGenerationNeeded = "default".equals(componentModel );

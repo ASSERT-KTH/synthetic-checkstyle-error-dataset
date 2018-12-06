@@ -1,0 +1,5 @@
+9,10c9
+< import org.mapstruct.ap.internal.model.common.Type;
+< import org.mapstruct.ap.internal.util.Collections;
+---
+> import org.mapstruct.ap.internal.model.common.Type;import org.mapstruct.ap.internal.util.Collections;

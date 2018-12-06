@@ -1,0 +1,5 @@
+8c8,9
+< import org.mapstruct.ap.internal.model.common.ConversionContext;
+---
+> import 
+> org.mapstruct.ap.internal.model.common.ConversionContext;

@@ -1,0 +1,5 @@
+12,13c12
+<  * Indicates that a type has too many builder creation methods.
+<  * This exception can be used to signal the MapStruct processor that more than one builder creation method was found.
+---
+>  * Indicates that a type has too many builder creation methods. * This exception can be used to signal the MapStruct processor that more than one builder creation method was found.

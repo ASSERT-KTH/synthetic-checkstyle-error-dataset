@@ -1,0 +1,5 @@
+137c137,138
+<             return (T) values.get( type );
+---
+>             return (T) values.get
+> ( type );

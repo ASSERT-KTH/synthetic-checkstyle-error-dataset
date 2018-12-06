@@ -1,0 +1,4 @@
+16c16
+< public interface Assignment {
+---
+> 	public interface Assignment {

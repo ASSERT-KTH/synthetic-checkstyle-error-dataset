@@ -1,0 +1,5 @@
+31c31,32
+<     public static IterableMapping fromPrism(IterableMappingPrism iterableMapping, ExecutableElement method,
+---
+>     public static IterableMapping fromPrism
+> (IterableMappingPrism iterableMapping, ExecutableElement method,

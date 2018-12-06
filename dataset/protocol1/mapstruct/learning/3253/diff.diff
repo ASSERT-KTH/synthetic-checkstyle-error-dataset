@@ -1,0 +1,5 @@
+26,27c26
+<     public T getMethod() {
+<         return method;
+---
+>     public T getMethod() {        return method;

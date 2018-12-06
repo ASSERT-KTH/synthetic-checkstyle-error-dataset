@@ -1,0 +1,5 @@
+22c22,23
+<     private final Type targetType;
+---
+>     private final Type targetType
+> ;

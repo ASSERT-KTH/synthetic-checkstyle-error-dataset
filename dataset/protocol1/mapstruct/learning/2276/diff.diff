@@ -1,0 +1,4 @@
+30c30
+<     private final boolean includeSourceNullCheck;
+---
+>     private final boolean includeSourceNullCheck ;

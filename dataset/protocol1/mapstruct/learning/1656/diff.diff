@@ -1,0 +1,4 @@
+46c46
+<         private final BeanModel object;
+---
+>         private final 	BeanModel object;

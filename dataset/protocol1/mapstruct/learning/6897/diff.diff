@@ -1,0 +1,5 @@
+31,32c31
+<     /**
+<      * The name of the inverse mapping method to inherit the mappings from. Needs only to be specified in case more than
+---
+>     /**     * The name of the inverse mapping method to inherit the mappings from. Needs only to be specified in case more than

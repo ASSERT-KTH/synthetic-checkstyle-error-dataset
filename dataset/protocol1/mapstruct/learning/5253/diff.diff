@@ -1,0 +1,5 @@
+96c96,97
+<         if ( !equals( this.qualifiers, other.qualifiers ) ) {
+---
+>         if ( !equals( 
+> this.qualifiers, other.qualifiers ) ) {

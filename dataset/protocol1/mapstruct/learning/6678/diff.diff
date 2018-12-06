@@ -1,0 +1,4 @@
+50c50
+<         if ( !getComponentModelIdentifier().equalsIgnoreCase( componentModel ) ) {
+---
+>         if ( !getComponentModelIdentifier().equalsIgnoreCase( componentModel ) 	) {

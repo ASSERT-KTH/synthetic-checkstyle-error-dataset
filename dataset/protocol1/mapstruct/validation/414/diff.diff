@@ -1,0 +1,5 @@
+64c64,65
+<     public Parameter getParameterForProvidedMethod(Method method) {
+---
+>     
+> public Parameter getParameterForProvidedMethod(Method method) {

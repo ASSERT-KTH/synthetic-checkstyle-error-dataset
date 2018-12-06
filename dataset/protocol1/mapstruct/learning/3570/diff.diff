@@ -1,0 +1,4 @@
+23c23
+<     private String name;
+---
+>     private String name ;

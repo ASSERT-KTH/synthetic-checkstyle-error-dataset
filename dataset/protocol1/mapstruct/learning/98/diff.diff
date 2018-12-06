@@ -1,0 +1,4 @@
+81c81
+<         if ( !Strings.isEmpty( conversionContext.getDateFormat() ) ) {
+---
+>         if ( !Strings.isEmpty( conversionContext	.getDateFormat() ) ) {

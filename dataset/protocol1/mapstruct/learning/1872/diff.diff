@@ -1,0 +1,4 @@
+33c33
+<     Class<?> resultType() default void.class;
+---
+>     Class<?> resultType(	) default void.class;

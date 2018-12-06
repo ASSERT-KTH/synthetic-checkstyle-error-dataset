@@ -1,0 +1,5 @@
+50,51c50
+<     public Type getReturnType() {
+<         return returnType;
+---
+>     public Type getReturnType() {        return returnType;

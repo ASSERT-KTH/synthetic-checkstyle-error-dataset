@@ -1,0 +1,5 @@
+23c23,24
+<     public String getFromExpression(ConversionContext conversionContext) {
+---
+>     
+> public String getFromExpression(ConversionContext conversionContext) {

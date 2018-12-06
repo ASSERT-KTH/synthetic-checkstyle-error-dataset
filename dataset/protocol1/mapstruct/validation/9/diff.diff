@@ -1,0 +1,5 @@
+191c191,192
+<         alreadyCollected.addAll( 0, safeToAdd );
+---
+>         
+> alreadyCollected.addAll( 0, safeToAdd );

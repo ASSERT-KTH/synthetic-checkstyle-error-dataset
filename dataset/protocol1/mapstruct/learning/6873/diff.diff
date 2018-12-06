@@ -1,0 +1,4 @@
+20c20
+< public class NoOpBuilderProvider implements BuilderProvider {
+---
+> public 	class NoOpBuilderProvider implements BuilderProvider {

@@ -1,0 +1,4 @@
+46c46
+<         protected Assignment getWrapper(Assignment assignment, Method method) {
+---
+>         protected Assignment getWrapper(	Assignment assignment, Method method) {

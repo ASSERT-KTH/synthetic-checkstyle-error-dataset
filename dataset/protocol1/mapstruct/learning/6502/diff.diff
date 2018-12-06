@@ -1,0 +1,4 @@
+13c13
+< import org.mapstruct.ap.internal.model.common.Assignment;
+---
+> import org.mapstruct.ap.internal.model.common	.Assignment;

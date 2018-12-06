@@ -1,0 +1,4 @@
+43c43
+<     public AnnotationMirror getMirror() {
+---
+>     public AnnotationMirror getMirror () {

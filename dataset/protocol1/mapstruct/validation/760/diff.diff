@@ -1,0 +1,5 @@
+22,23c22
+<  * declare its implementation in a file {@code META-INF/services/org.mapstruct.ap.spi.AstModifyingAnnotationProcessor}.
+<  *
+---
+>  * declare its implementation in a file {@code META-INF/services/org.mapstruct.ap.spi.AstModifyingAnnotationProcessor}. *

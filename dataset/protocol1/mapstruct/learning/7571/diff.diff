@@ -1,0 +1,5 @@
+49c49,50
+<             if ( targetType.getImplementationType() != null ) {
+---
+>             if ( targetType.getImplementationType() 
+> != null ) {

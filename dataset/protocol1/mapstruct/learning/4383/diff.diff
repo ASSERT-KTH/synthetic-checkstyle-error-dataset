@@ -1,0 +1,4 @@
+60c60
+<                 classLoaders.add( Thread.currentThread().getContextClassLoader() );
+---
+>                 classLoaders.add( 	Thread.currentThread().getContextClassLoader() );

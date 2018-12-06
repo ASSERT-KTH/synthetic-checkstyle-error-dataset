@@ -1,0 +1,4 @@
+58c58
+<             this.implName = "default".equals( implName ) ? Mapper.DEFAULT_IMPLEMENTATION_CLASS : implName;
+---
+>             this.implName 	= "default".equals( implName ) ? Mapper.DEFAULT_IMPLEMENTATION_CLASS : implName;

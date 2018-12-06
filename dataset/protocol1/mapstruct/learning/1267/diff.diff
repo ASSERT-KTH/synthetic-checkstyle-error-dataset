@@ -1,0 +1,4 @@
+41c41
+< public interface MappingExclusionProvider {
+---
+> public 	interface MappingExclusionProvider {

@@ -1,0 +1,4 @@
+112c112
+<         if ( className.equals( JDT_IDE_PE_CLASS ) ) {
+---
+>         	if ( className.equals( JDT_IDE_PE_CLASS ) ) {

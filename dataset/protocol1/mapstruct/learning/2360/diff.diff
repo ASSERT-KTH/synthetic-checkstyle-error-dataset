@@ -1,0 +1,5 @@
+18,19c18
+< import static org.mapstruct.NullValueCheckStrategy.ON_IMPLICIT_CONVERSION;
+< /**
+---
+> import static org.mapstruct.NullValueCheckStrategy.ON_IMPLICIT_CONVERSION;/**

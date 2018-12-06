@@ -1,0 +1,5 @@
+557,558c557
+<                     candidates.add( oneMethod );
+<                 }
+---
+>                     candidates.add( oneMethod );                }

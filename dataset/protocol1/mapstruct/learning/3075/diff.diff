@@ -1,0 +1,5 @@
+31,32c31
+<         // When using FreeBuilder one needs to use the JavaBean convention, which means that all setters will start
+<         // with set
+---
+>         // When using FreeBuilder one needs to use the JavaBean convention, which means that all setters will start        // with set

@@ -1,0 +1,4 @@
+69c69
+<     public List<String> getQualifiedByNames() {
+---
+>     public List<String> getQualifiedByNames() 	{

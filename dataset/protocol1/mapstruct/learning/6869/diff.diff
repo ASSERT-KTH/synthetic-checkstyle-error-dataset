@@ -1,0 +1,5 @@
+45,46c45
+<  *     <li>No Presence check and direct assignment - We use the copy constructor</li>
+<  *     <li>No Presence check and {@link org.mapstruct.NullValueCheckStrategy#ALWAYS} - the user requested one</li>
+---
+>  *     <li>No Presence check and direct assignment - We use the copy constructor</li> *     <li>No Presence check and {@link org.mapstruct.NullValueCheckStrategy#ALWAYS} - the user requested one</li>

@@ -1,0 +1,4 @@
+17c17
+<     public static final String STREAM_SUPPORT_FQN = "java.util.stream.StreamSupport";
+---
+>     public static final String STREAM_SUPPORT_FQN ="java.util.stream.StreamSupport";

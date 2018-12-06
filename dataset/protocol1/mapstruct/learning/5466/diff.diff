@@ -1,0 +1,5 @@
+49,50c49
+<     public String getName() {
+<         return name;
+---
+>     public String getName() {        return name;

@@ -1,0 +1,5 @@
+54c54,55
+<         return conversionContext.getDateFormat() != null ? "\"" + conversionContext.getDateFormat() + "\"" : "null";
+---
+>         return conversionContext.getDateFormat() != null ? "\"" + conversionContext.getDateFormat() + 
+> "\"" : "null";

@@ -1,0 +1,4 @@
+45c45
+<         else if ( isSetterMethod( method ) ) {
+---
+>         else if ( isSetterMethod ( method ) ) {

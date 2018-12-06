@@ -1,0 +1,4 @@
+20c20
+<     public static final String ANY_REMAINING = "<ANY_REMAINING>";
+---
+>     public static final String ANY_REMAINING ="<ANY_REMAINING>";

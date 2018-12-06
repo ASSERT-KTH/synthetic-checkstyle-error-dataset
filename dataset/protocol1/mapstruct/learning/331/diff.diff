@@ -1,0 +1,5 @@
+28,29c28
+< import org.mapstruct.ap.internal.model.MappingBuilderContext.MappingResolver;
+< import org.mapstruct.ap.internal.model.MethodReference;
+---
+> import org.mapstruct.ap.internal.model.MappingBuilderContext.MappingResolver;import org.mapstruct.ap.internal.model.MethodReference;

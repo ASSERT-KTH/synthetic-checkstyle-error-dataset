@@ -1,0 +1,5 @@
+168c168,169
+<             for ( String sourceEnumConstant : sourceEnumConstants ) {
+---
+>             for ( String 
+> sourceEnumConstant : sourceEnumConstants ) {

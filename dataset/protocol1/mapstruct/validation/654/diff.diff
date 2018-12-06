@@ -1,0 +1,5 @@
+339c339,340
+<         TypeMirror asMemberOf = typeUtils.asMemberOf( includingType, method );
+---
+>         
+> TypeMirror asMemberOf = typeUtils.asMemberOf( includingType, method );

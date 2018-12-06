@@ -1,0 +1,5 @@
+189c189,190
+<             valueAssignment = new LocalVarWrapper( valueAssignment, method.getThrownTypes(), valueTargetType, false );
+---
+>             valueAssignment = new LocalVarWrapper
+> ( valueAssignment, method.getThrownTypes(), valueTargetType, false );

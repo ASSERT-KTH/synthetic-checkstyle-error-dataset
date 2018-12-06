@@ -1,0 +1,4 @@
+11c11
+< package org.mapstruct.ap.internal.writer;
+---
+> package org.mapstruct	.ap.internal.writer;

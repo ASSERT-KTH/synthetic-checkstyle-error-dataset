@@ -1,0 +1,4 @@
+59c59
+<             ctx.canGenerateAutoSubMappingBetween( sourceType, targetType );
+---
+>             ctx	.canGenerateAutoSubMappingBetween( sourceType, targetType );

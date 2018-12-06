@@ -1,0 +1,4 @@
+34c34
+<         else if ( modifiers.contains( Modifier.PROTECTED ) ) {
+---
+>         else 	if ( modifiers.contains( Modifier.PROTECTED ) ) {

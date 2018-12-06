@@ -1,0 +1,4 @@
+69c69
+<             sb.append( primitiveType.getSimpleName() );
+---
+>             sb	.append( primitiveType.getSimpleName() );

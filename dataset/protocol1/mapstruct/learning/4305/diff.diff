@@ -1,0 +1,4 @@
+40c40
+<         public boolean isDirect() {
+---
+>         public boolean isDirect () {

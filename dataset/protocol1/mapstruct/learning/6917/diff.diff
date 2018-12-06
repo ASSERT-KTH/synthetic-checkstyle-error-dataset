@@ -1,0 +1,5 @@
+8c8,9
+< public class NewDatatypeFactoryConstructorFragment implements BuiltInConstructorFragment {
+---
+> public class NewDatatypeFactoryConstructorFragment 
+> implements BuiltInConstructorFragment {

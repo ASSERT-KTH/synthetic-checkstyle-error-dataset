@@ -1,0 +1,4 @@
+11c11
+< import javax.lang.model.type.TypeMirror;
+---
+> import javax.lang.model. type.TypeMirror;

@@ -1,0 +1,5 @@
+172c172,173
+<         else if ( isFluentSetter( getterOrSetterMethod ) ) {
+---
+>         else if ( isFluentSetter
+> ( getterOrSetterMethod ) ) {

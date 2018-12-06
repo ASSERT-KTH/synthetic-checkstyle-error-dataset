@@ -1,0 +1,5 @@
+79c79,80
+<         SelectedMethod<SourceMethod> matchingFactoryMethod = first( matchingFactoryMethods );
+---
+>         SelectedMethod<SourceMethod> matchingFactoryMethod = first( 
+> matchingFactoryMethods );

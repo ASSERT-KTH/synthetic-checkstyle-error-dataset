@@ -1,0 +1,5 @@
+44c44,45
+<             boolean isCreateCandidate = method.getMethod().getMappingTargetParameter() == null;
+---
+>             boolean isCreateCandidate = method.getMethod().getMappingTargetParameter() == 
+> null;

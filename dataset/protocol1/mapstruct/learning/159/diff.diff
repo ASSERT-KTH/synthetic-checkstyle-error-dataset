@@ -1,0 +1,4 @@
+62c62
+<     CONVERSION_LOSSY_WARNING( "%s has a possibly lossy conversion from %s to %s.", Diagnostic.Kind.WARNING ),
+---
+>     CONVERSION_LOSSY_WARNING( "%s has a possibly lossy conversion from %s to %s.", 	Diagnostic.Kind.WARNING ),

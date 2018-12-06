@@ -1,0 +1,5 @@
+593,594c593
+<     public boolean isUpdateMethod() {
+<         return getMappingTargetParameter() != null;
+---
+>     public boolean isUpdateMethod() {        return getMappingTargetParameter() != null;

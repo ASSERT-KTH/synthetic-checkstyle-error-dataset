@@ -1,0 +1,4 @@
+73c73
+<         String result = Strings.getSafeVariableName( desiredName, existingVariableNames );
+---
+>         String result = 	Strings.getSafeVariableName( desiredName, existingVariableNames );

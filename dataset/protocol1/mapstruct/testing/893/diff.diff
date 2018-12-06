@@ -1,0 +1,5 @@
+47,48c47
+<                 TypeMirror resultTypeMirror = method.getMethod().getResultType().getTypeElement().asType();
+<                 if ( typeUtils.isSameType( qualifyingTypeMirror, resultTypeMirror ) ) {
+---
+>                 TypeMirror resultTypeMirror = method.getMethod().getResultType().getTypeElement().asType();                if ( typeUtils.isSameType( qualifyingTypeMirror, resultTypeMirror ) ) {

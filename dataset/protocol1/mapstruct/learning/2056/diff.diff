@@ -1,0 +1,5 @@
+40,41c40
+< @Experimental("This SPI can have it's signature changed in subsequent releases")
+< public interface MappingExclusionProvider {
+---
+> @Experimental("This SPI can have it's signature changed in subsequent releases")public interface MappingExclusionProvider {

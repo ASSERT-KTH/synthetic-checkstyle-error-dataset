@@ -1,0 +1,5 @@
+37,38c37
+<     public boolean isValid() {
+<         return isValid;
+---
+>     public boolean isValid() {        return isValid;

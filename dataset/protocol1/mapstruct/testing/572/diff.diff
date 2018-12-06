@@ -1,0 +1,5 @@
+14,15c14
+<  * Declares an annotation type to be a qualifier. Qualifier annotations allow unambiguously identify a suitable mapping
+<  * method in case several methods qualify to map a bean property, iterable element etc.
+---
+>  * Declares an annotation type to be a qualifier. Qualifier annotations allow unambiguously identify a suitable mapping * method in case several methods qualify to map a bean property, iterable element etc.

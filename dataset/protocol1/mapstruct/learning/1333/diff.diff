@@ -1,0 +1,4 @@
+76c76
+<                 + Strings.capitalize( sourceType.getSimpleName() ) + "( <SOURCE> )";
+---
+>                 + Strings. capitalize( sourceType.getSimpleName() ) + "( <SOURCE> )";

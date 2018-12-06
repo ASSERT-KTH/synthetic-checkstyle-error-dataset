@@ -1,0 +1,4 @@
+68c68
+<         StringBuilder builderQualifiedName = new StringBuilder( typeElement.getQualifiedName().length() + 17 );
+---
+>         StringBuilder builderQualifiedName = new StringBuilder( typeElement.getQualifiedName().length() + 	17 );

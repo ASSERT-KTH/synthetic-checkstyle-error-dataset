@@ -1,0 +1,5 @@
+21,22c21
+< import org.mapstruct.ap.internal.model.common.TypeFactory;
+< import org.mapstruct.ap.internal.prism.CollectionMappingStrategyPrism;
+---
+> import org.mapstruct.ap.internal.model.common.TypeFactory;import org.mapstruct.ap.internal.prism.CollectionMappingStrategyPrism;

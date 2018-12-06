@@ -1,0 +1,5 @@
+15,16c15
+<  * <p>
+<  * This contract will be queried by MapStruct when examining types referenced by mappers to be generated, most notably
+---
+>  * <p> * This contract will be queried by MapStruct when examining types referenced by mappers to be generated, most notably

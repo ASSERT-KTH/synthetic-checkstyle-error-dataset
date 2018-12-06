@@ -1,0 +1,5 @@
+161,162c161
+<             try {
+<                 Class<?> aClass = Class.forName( SimpleDateFormat.class.getCanonicalName() );
+---
+>             try {                Class<?> aClass = Class.forName( SimpleDateFormat.class.getCanonicalName() );

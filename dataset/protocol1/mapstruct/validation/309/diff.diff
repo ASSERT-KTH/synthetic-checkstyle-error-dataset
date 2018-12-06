@@ -1,0 +1,4 @@
+103c103
+<             !isAdderWithUpperCase4thCharacter( method ) &&
+---
+>             !isAdderWithUpperCase4thCharacter( 	method ) &&

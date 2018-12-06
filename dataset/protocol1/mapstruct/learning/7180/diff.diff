@@ -1,0 +1,5 @@
+13,14c13
+< /**
+<  * Base class of all model elements. Implements the {@link Writable} contract to write model elements into source code
+---
+> /** * Base class of all model elements. Implements the {@link Writable} contract to write model elements into source code

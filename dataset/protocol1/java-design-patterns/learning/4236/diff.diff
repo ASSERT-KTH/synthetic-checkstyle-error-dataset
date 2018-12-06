@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public class EnumIvoryTowerTest extends SingletonTest<EnumIvoryTower> {
+---
+>  */public class EnumIvoryTowerTest extends SingletonTest<EnumIvoryTower> {

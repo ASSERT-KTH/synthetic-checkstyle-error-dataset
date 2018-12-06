@@ -1,0 +1,4 @@
+155c155
+<     this.panel.add(this.cancel);
+---
+>     this	.panel.add(this.cancel);

@@ -1,0 +1,4 @@
+44c44
+<       withLoggingAt(org.apache.log4j.Level.INFO);
+---
+>      withLoggingAt(org.apache.log4j.Level.INFO);

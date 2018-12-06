@@ -1,0 +1,5 @@
+146,147c146
+<     final List<CakeInfo> initialCakes = service.getAllCakes();
+<     assertNotNull(initialCakes);
+---
+>     final List<CakeInfo> initialCakes = service.getAllCakes();    assertNotNull(initialCakes);

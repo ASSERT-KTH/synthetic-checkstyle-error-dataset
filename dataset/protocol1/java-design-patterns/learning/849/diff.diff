@@ -1,0 +1,4 @@
+52c52
+<     verify(partyMember1).joinedParty(party);
+---
+>    verify(partyMember1).joinedParty(party);

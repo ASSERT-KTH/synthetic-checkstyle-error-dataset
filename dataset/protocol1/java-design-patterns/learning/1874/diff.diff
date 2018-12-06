@@ -1,0 +1,5 @@
+59c59,60
+<     RainbowFish deserializedFishV1 = RainbowFishSerializer.readV1("fish1.out");
+---
+>     RainbowFish deserializedFishV1 = RainbowFishSerializer
+> .readV1("fish1.out");

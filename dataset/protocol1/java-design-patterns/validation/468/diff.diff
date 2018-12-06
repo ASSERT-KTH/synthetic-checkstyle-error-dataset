@@ -1,0 +1,4 @@
+62c62
+<     msg.addHeader(Headers.SENDER, name);
+---
+>    msg.addHeader(Headers.SENDER, name);

@@ -1,0 +1,5 @@
+97c97,98
+<     LOGGER.info("Find by John is {}", p);
+---
+>     LOGGER.info(
+> "Find by John is {}", p);

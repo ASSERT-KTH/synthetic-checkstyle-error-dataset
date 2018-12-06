@@ -1,0 +1,4 @@
+51c51
+<     LOGGER.info("The hammer is swinged.");
+---
+>    LOGGER.info("The hammer is swinged.");

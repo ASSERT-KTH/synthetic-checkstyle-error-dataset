@@ -1,0 +1,5 @@
+57c57,58
+<     weather.addObserver(new Hobbits());
+---
+>     weather.addObserver(new 
+> Hobbits());

@@ -1,0 +1,4 @@
+28c28
+< import javax.annotation.Resource;
+---
+> import javax.annotation.	Resource;

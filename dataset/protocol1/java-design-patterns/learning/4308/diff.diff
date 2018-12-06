@@ -1,0 +1,5 @@
+48c48,49
+<     LOGGER.info("{} hits {}.", asteroid.getClass().getSimpleName(), this.getClass().getSimpleName());
+---
+>     LOGGER.info("{} hits {}.", asteroid.getClass().getSimpleName(), 
+> this.getClass().getSimpleName());

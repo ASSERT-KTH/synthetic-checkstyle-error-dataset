@@ -1,0 +1,5 @@
+85c85,86
+<         SimpleFluentIterable.fromCopyOf(integerList).filter(negatives()).map(transformToString())
+---
+>         SimpleFluentIterable.fromCopyOf(integerList).filter(negatives())
+> .map(transformToString())

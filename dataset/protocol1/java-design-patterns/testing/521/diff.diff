@@ -1,0 +1,5 @@
+134,135c134
+<    */
+<   public <V> Promise<V> thenApply(Function<? super T, V> func) {
+---
+>    */  public <V> Promise<V> thenApply(Function<? super T, V> func) {

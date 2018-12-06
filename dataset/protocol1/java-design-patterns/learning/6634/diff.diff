@@ -1,0 +1,4 @@
+36c36
+<     long result = new ServiceAmbassador().doRemoteFunction(10);
+---
+>     long result =new ServiceAmbassador().doRemoteFunction(10);

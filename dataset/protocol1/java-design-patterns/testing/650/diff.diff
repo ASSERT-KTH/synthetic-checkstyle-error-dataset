@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public class ArcherCommand implements Command {
+---
+>  */public class ArcherCommand implements Command {

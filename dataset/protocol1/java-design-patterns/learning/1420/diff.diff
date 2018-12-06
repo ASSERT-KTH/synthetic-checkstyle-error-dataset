@@ -1,0 +1,4 @@
+78c78
+<     final List<CakeToppingInfo> availableToppings = service.getAvailableToppings();
+---
+>     final List<CakeToppingInfo> availableToppings = service.getAvailableToppings(	);

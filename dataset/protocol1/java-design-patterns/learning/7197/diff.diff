@@ -1,0 +1,5 @@
+32,33c32
+<  * <br>Instance created locally gives an opportunity to strictly define
+<  * which objects types the instance of a factory will be able to create.
+---
+>  * <br>Instance created locally gives an opportunity to strictly define * which objects types the instance of a factory will be able to create.

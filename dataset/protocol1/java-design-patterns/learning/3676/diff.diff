@@ -1,0 +1,4 @@
+39c39
+<   Heavy getInternalHeavyValue() throws Exception {
+---
+>   Heavy getInternalHeavyValue() throws 	Exception {

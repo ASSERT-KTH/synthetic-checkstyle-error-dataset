@@ -1,0 +1,4 @@
+39c39
+<     LOGGER.info("User '{}' has been Created!", event.getUser().getUsername());
+---
+>     LOGGER.info("User '{}' has been Created!", 	event.getUser().getUsername());

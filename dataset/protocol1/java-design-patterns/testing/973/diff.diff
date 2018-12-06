@@ -1,0 +1,4 @@
+57c57
+<     ThreadSafeDoubleCheckLocking result = instance;
+---
+>     ThreadSafeDoubleCheckLocking result =instance;

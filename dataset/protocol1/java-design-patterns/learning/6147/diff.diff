@@ -1,0 +1,4 @@
+47c47
+<     DocumentImplementation(Map<String, Object> properties) {
+---
+>    DocumentImplementation(Map<String, Object> properties) {

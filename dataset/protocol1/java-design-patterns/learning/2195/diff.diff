@@ -1,0 +1,4 @@
+46c46
+<     assertEquals(2, fish.getLengthMeters());
+---
+>    assertEquals(2, fish.getLengthMeters());

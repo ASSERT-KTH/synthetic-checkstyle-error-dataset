@@ -1,0 +1,4 @@
+66c66
+<       throw new IllegalArgumentException("User all ready member of free group.");
+---
+>      throw new IllegalArgumentException("User all ready member of free group.");

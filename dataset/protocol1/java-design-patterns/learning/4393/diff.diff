@@ -1,0 +1,4 @@
+96c96
+<       throw new RuntimeException(jsonProcessingException);
+---
+>      throw new RuntimeException(jsonProcessingException);

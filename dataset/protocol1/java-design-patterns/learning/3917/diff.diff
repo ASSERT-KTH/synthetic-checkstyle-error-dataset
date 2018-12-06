@@ -1,0 +1,4 @@
+74c74
+<     final String welcomeMessage = service.getWelcomeMessage(new User("Jamie No Code"));
+---
+>    final String welcomeMessage = service.getWelcomeMessage(new User("Jamie No Code"));

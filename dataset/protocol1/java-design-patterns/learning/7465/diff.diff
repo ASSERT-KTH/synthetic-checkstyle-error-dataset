@@ -1,0 +1,4 @@
+116c116
+<     this.method.confuseTarget(this.expectedTarget);
+---
+>      this.method.confuseTarget(this.expectedTarget);

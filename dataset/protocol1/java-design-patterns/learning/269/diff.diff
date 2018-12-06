@@ -1,0 +1,4 @@
+53c53
+<     private double value;
+---
+>    private double value;

@@ -1,0 +1,5 @@
+37c37,38
+<   protected static void doNothing() {
+---
+>   protected static void doNothing(
+> ) {

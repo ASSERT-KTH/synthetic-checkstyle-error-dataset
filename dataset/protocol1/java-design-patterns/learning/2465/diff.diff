@@ -1,0 +1,4 @@
+69c69
+<     rogueProto.set(Stats.AGILITY, 15); // boost default agility for rogue
+---
+>     rogueProto.set(Stats.AGILITY, 15)	; // boost default agility for rogue

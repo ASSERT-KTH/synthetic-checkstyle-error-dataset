@@ -1,0 +1,5 @@
+53c53,54
+<     LOGGER.info("KHAMUL={}", Nazgul.getInstance(NazgulName.KHAMUL));
+---
+>     LOGGER.info("KHAMUL={}", Nazgul.getInstance(
+> NazgulName.KHAMUL));

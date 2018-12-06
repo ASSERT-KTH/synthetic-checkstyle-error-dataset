@@ -1,0 +1,5 @@
+32,33c32
+< public class ConsoleAdministrationSrvImpl implements ConsoleAdministrationSrv {
+<   private final LotteryAdministration administration;
+---
+> public class ConsoleAdministrationSrvImpl implements ConsoleAdministrationSrv {  private final LotteryAdministration administration;

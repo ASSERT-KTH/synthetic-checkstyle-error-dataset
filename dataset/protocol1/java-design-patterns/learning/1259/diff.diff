@@ -1,0 +1,4 @@
+70c70
+<       final Item item = iterator.next();
+---
+>      final Item item = iterator.next();

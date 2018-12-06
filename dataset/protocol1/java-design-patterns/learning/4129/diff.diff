@@ -1,0 +1,5 @@
+38,39c38
+<  * LoadBalancer is created and a new request is made to it, then it will select the third server as
+<  * the second load balancer has already selected the second server.
+---
+>  * LoadBalancer is created and a new request is made to it, then it will select the third server as * the second load balancer has already selected the second server.

@@ -1,0 +1,4 @@
+125c125
+<     HtmlTextInput albumRatingInputTextField = (HtmlTextInput) page.getElementById("albumRating");
+---
+>     HtmlTextInput albumRatingInputTextField = (	HtmlTextInput) page.getElementById("albumRating");

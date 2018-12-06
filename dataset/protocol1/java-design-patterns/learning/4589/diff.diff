@@ -1,0 +1,4 @@
+51c51
+<         Message msg = msgQueue.retrieveMsg();
+---
+>        Message msg = msgQueue.retrieveMsg();

@@ -1,0 +1,5 @@
+32c32,33
+<   public Weapon manufactureWeapon(WeaponType weaponType) {
+---
+>   public Weapon manufactureWeapon(WeaponType weaponType
+> ) {

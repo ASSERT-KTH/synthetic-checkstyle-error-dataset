@@ -1,0 +1,5 @@
+40c40,41
+<     int result = TrampolineApp.loop(10, 1).result();
+---
+>     int result = 
+> TrampolineApp.loop(10, 1).result();

@@ -1,0 +1,4 @@
+187c187
+<         dest.fulfill(func.apply(src.get()));
+---
+>        dest.fulfill(func.apply(src.get()));

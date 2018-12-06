@@ -1,0 +1,5 @@
+50,51c50
+<  * separate selection rules (Specifications) that we apply to the collection and as output receive
+<  * only the creatures that match the selection criteria.
+---
+>  * separate selection rules (Specifications) that we apply to the collection and as output receive * only the creatures that match the selection criteria.

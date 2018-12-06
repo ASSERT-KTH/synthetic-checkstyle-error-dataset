@@ -1,0 +1,4 @@
+39c39
+<     LOGGER.info("You become invisible. (Potion={})", System.identityHashCode(this));
+---
+>     LOGGER.info("You become invisible. (Potion={})", System.	identityHashCode(this));

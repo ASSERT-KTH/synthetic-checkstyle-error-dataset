@@ -1,0 +1,5 @@
+49c49,50
+<     this.repository = repository;
+---
+>     this
+> .repository = repository;

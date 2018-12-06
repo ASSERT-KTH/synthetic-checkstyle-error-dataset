@@ -1,0 +1,4 @@
+72c72
+<         new DatabaseNotAvailableException("not available")
+---
+>         new DatabaseNotAvailableException("not available"	)

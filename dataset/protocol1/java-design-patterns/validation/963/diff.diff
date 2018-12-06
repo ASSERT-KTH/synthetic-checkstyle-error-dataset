@@ -1,0 +1,5 @@
+52,53c52
+<   public static void main(String[] args) throws Exception {
+<     // Run Spring Boot application and obtain ApplicationContext
+---
+>   public static void main(String[] args) throws Exception {    // Run Spring Boot application and obtain ApplicationContext

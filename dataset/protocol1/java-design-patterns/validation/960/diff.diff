@@ -1,0 +1,4 @@
+51c51
+<     WeaponFactory factory = WeaponFactory.factory(builder -> {
+---
+>     WeaponFactory factory 	= WeaponFactory.factory(builder -> {

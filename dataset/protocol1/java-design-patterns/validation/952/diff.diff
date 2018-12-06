@@ -1,0 +1,5 @@
+38c38,39
+<   public JUnitRuleMockery2 context = JUnitRuleMockery2.createFor(Mode.INTERFACES_AND_CLASSES);
+---
+>   public JUnitRuleMockery2 context = 
+> JUnitRuleMockery2.createFor(Mode.INTERFACES_AND_CLASSES);

@@ -1,0 +1,4 @@
+83c83
+<     assertEquals("The mammoth is calm and peaceful.", appender.getLastMessage());
+---
+>    assertEquals("The mammoth is calm and peaceful.", appender.getLastMessage());

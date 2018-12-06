@@ -1,0 +1,4 @@
+34c34
+< public interface AsyncCallback<T> {
+---
+>  public interface AsyncCallback<T> {

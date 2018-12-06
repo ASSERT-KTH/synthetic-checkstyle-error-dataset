@@ -1,0 +1,4 @@
+137c137
+<     reactor.registerChannel(tcpChannel(6666, loggingHandler))
+---
+>     reactor.registerChannel(tcpChannel (6666, loggingHandler))

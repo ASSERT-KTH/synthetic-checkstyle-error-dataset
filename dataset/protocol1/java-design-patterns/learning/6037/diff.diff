@@ -1,0 +1,4 @@
+39c39
+<     LOGGER.info("Received event from the King's Hand: {}", e.toString());
+---
+>      LOGGER.info("Received event from the King's Hand: {}", e.toString());

@@ -1,0 +1,5 @@
+46c46,47
+<     final GiantController controller = new GiantController(model, view);
+---
+>     final 
+> GiantController controller = new GiantController(model, view);

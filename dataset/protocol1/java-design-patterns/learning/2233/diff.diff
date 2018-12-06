@@ -1,0 +1,4 @@
+30c30
+<   private static ThreadSafeLazyLoadedIvoryTower instance;
+---
+>   private static ThreadSafeLazyLoadedIvoryTower 	instance;

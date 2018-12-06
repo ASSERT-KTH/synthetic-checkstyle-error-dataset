@@ -1,0 +1,5 @@
+48c48,49
+<     assertEquals(expectedMessage, exception.getMessage());
+---
+>     
+> assertEquals(expectedMessage, exception.getMessage());

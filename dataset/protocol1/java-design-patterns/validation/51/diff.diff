@@ -1,0 +1,4 @@
+61c61
+<     clubbedTroll.attack();
+---
+>      clubbedTroll.attack();

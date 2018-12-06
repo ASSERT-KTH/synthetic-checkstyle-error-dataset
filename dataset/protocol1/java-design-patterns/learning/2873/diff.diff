@@ -1,0 +1,4 @@
+34c34
+< public class GHobbits implements Race {
+---
+> public class GHobbits implements Race 	{

@@ -1,0 +1,4 @@
+36c36
+<   private final int id;
+---
+>  private final int id;

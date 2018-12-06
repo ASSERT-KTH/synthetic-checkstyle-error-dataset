@@ -1,0 +1,5 @@
+29,30c29
+< import com.iluwatar.hexagonal.database.LotteryTicketRepository;
+< import com.iluwatar.hexagonal.eventlog.LotteryEventLog;
+---
+> import com.iluwatar.hexagonal.database.LotteryTicketRepository;import com.iluwatar.hexagonal.eventlog.LotteryEventLog;

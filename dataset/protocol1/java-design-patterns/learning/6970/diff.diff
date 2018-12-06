@@ -1,0 +1,4 @@
+55c55
+<   private static final AtomicInteger ID_GENERATOR = new AtomicInteger();
+---
+>   private static final AtomicInteger ID_GENERATOR = new AtomicInteger(	);

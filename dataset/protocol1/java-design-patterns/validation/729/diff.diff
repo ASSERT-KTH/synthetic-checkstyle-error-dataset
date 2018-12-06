@@ -1,0 +1,4 @@
+64c64
+<     ContentView contentView = new ContentView();
+---
+>     ContentView contentView = new 	ContentView();

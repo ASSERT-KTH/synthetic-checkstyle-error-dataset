@@ -1,0 +1,5 @@
+52,53c52
+<     // washing machine goes back to enabled state
+<     assertEquals(WashingMachineState.ENABLED, washingMachine.getWashingMachineState());
+---
+>     // washing machine goes back to enabled state    assertEquals(WashingMachineState.ENABLED, washingMachine.getWashingMachineState());

@@ -1,0 +1,4 @@
+70c70
+<     assertEquals(V1.getAge(), fish.getAge());
+---
+>    assertEquals(V1.getAge(), fish.getAge());

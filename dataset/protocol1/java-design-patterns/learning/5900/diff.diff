@@ -1,0 +1,4 @@
+42c42
+<     strategy = javax.jdo.annotations.IdGeneratorStrategy.IDENTITY, column = "id")
+---
+>     strategy= javax.jdo.annotations.IdGeneratorStrategy.IDENTITY, column = "id")

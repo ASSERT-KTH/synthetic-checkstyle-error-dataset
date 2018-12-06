@@ -1,0 +1,4 @@
+59c59
+<     final Logger logger = LoggerFactory.getLogger(App.class);
+---
+>     final Logger logger = LoggerFactory.getLogger(App	.class);

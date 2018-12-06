@@ -1,0 +1,4 @@
+45c45
+<     final Student secondSameStudent = new Student(2, "Donald", 'B');
+---
+>     final Student secondSameStudent = new Student(2, "Donald"	, 'B');

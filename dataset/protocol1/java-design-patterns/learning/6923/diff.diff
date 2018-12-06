@@ -1,0 +1,4 @@
+52c52
+<     logger.info("The winning numbers: {}", numbers.getNumbersAsString());
+---
+>     logger.info("The winning numbers: {}", numbers.getNumbersAsString())	;

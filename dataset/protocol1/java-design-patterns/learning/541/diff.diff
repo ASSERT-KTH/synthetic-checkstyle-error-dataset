@@ -1,0 +1,5 @@
+37c37,38
+<     super("Goblin", Size.SMALL, Movement.WALKING, Color.GREEN);
+---
+>     super("Goblin", Size.SMALL, Movement.WALKING, 
+> Color.GREEN);

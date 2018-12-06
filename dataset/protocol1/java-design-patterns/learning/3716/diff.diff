@@ -1,0 +1,5 @@
+55c55,56
+<     controller.handleRequest("foobar");
+---
+>     controller.handleRequest(
+> "foobar");

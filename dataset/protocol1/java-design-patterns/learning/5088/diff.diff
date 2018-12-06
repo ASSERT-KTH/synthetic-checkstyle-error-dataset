@@ -1,0 +1,4 @@
+55c55
+<     partProperties.put(HasModel.PROPERTY, TEST_PART_MODEL);
+---
+>     partProperties.put(	HasModel.PROPERTY, TEST_PART_MODEL);

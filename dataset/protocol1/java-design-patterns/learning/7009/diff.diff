@@ -1,0 +1,4 @@
+35c35
+<     InventoryController inventoryController = new InventoryController();
+---
+>    InventoryController inventoryController = new InventoryController();

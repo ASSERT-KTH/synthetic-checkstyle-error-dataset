@@ -1,0 +1,4 @@
+67c67
+<       LOGGER.error("An error occured on navigateToPage.", e);
+---
+>      LOGGER.error("An error occured on navigateToPage.", e);

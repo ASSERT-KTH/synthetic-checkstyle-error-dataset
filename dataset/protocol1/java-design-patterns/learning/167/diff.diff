@@ -1,0 +1,5 @@
+57c57,58
+<     simpleWizard.smoke();
+---
+>     
+> simpleWizard.smoke();

@@ -1,0 +1,4 @@
+63c63
+<     Oliphaunt oliphaunt2 = pool.checkOut();
+---
+>     Oliphaunt oliphaunt2= pool.checkOut();

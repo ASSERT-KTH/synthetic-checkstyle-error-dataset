@@ -1,0 +1,4 @@
+66c66
+<     assertEquals(title, testProduct.getTitle());
+---
+>    assertEquals(title, testProduct.getTitle());

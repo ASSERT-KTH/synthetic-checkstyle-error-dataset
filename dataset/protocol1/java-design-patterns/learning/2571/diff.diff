@@ -1,0 +1,4 @@
+56c56
+<     List<UserDto> dtoEntities = userConverter.createFromEntities(users);
+---
+>     List<UserDto > dtoEntities = userConverter.createFromEntities(users);

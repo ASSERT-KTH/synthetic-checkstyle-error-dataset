@@ -1,0 +1,4 @@
+52c52
+<     testData.add(new Object[]{new NameFilter(), PERFECT_ORDER, ""});
+---
+>     testData.add(new Object[]{new NameFilter(	), PERFECT_ORDER, ""});

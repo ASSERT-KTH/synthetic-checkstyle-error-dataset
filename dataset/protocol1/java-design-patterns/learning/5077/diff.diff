@@ -1,0 +1,5 @@
+54c54,55
+<       final Oliphaunt expectedOliphaunt = pool.checkOut();
+---
+>       final Oliphaunt expectedOliphaunt = pool.checkOut(
+> );

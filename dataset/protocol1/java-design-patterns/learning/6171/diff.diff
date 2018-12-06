@@ -1,0 +1,4 @@
+65c65
+<     Iterator<E> iterator = iterator();
+---
+>     Iterator<E> iterator= iterator();

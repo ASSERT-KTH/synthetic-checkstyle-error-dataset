@@ -1,0 +1,4 @@
+55c55
+<     StaticRandomProvider(double value) {
+---
+>    StaticRandomProvider(double value) {

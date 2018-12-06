@@ -1,0 +1,5 @@
+36c36,37
+<   private static final Logger LOGGER = LoggerFactory.getLogger(GOrcs.class);
+---
+>   private static 
+> final Logger LOGGER = LoggerFactory.getLogger(GOrcs.class);

@@ -1,0 +1,4 @@
+59c59
+<     verifyNoMoreInteractions(model, view);
+---
+>    verifyNoMoreInteractions(model, view);

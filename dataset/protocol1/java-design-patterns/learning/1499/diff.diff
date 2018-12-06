@@ -1,0 +1,4 @@
+69c69
+<       if (result.getResult().equals(LotteryTicketCheckResult.CheckResult.WIN_PRIZE)) {
+---
+>      if (result.getResult().equals(LotteryTicketCheckResult.CheckResult.WIN_PRIZE)) {

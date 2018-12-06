@@ -1,0 +1,5 @@
+77c77,78
+<     LotteryService service = injector.getInstance(LotteryService.class);
+---
+>     LotteryService service = 
+> injector.getInstance(LotteryService.class);

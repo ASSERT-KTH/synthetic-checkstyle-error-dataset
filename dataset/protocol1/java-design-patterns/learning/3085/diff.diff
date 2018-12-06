@@ -1,0 +1,4 @@
+35c35
+< public class EpsonPrinter implements Printer {
+---
+> public class EpsonPrinter implements Printer{

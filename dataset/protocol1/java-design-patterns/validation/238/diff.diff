@@ -1,0 +1,4 @@
+44c44
+<     Context context = mock(Context.class);
+---
+>     Context context =mock(Context.class);

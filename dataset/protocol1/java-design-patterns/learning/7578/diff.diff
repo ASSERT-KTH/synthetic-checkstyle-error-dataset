@@ -1,0 +1,4 @@
+41c41
+<     if (day.equals(Weekday.TUESDAY)) {
+---
+>     if (day.equals(Weekday.	TUESDAY)) {

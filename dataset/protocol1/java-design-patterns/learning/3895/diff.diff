@@ -1,0 +1,5 @@
+35,36c35
+<  * Logging server application logic. It logs the incoming requests on standard console and returns a
+<  * canned acknowledgement back to the remote peer.
+---
+>  * Logging server application logic. It logs the incoming requests on standard console and returns a * canned acknowledgement back to the remote peer.

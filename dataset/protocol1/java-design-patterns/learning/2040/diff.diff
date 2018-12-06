@@ -1,0 +1,5 @@
+73c73,74
+<     List<Car> sedansOwnedFunctional = FunctionalProgramming.getSedanCarsOwnedSortedByDate(Arrays.asList(john));
+---
+>     List<Car> sedansOwnedFunctional 
+> = FunctionalProgramming.getSedanCarsOwnedSortedByDate(Arrays.asList(john));

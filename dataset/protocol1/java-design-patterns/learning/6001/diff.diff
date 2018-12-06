@@ -1,0 +1,4 @@
+57c57
+<   public void setDamaged(boolean damaged) {
+---
+>  public void setDamaged(boolean damaged) {

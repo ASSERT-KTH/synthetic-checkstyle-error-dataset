@@ -1,0 +1,4 @@
+87c87
+<     assertEquals(expectedFile, loader.getFileName());
+---
+>     assertEquals(expectedFile, loader	.getFileName());

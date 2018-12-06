@@ -1,0 +1,4 @@
+67c67
+<     Writer writer1 = spy(new Writer("Writer 1", lock.writeLock()));
+---
+>    Writer writer1 = spy(new Writer("Writer 1", lock.writeLock()));

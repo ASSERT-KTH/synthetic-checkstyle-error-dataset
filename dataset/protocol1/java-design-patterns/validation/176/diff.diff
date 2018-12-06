@@ -1,0 +1,4 @@
+32c32
+<   SMALL("small"), NORMAL("normal"), LARGE("large");
+---
+>   SMALL("small"), NORMAL(	"normal"), LARGE("large");

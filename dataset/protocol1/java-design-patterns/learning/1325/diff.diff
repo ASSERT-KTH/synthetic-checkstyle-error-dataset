@@ -1,0 +1,4 @@
+18c18
+< import org.apache.isis.applib.annotation.NatureOfService;
+---
+> import org.apache.isis.applib.annotation.	NatureOfService;

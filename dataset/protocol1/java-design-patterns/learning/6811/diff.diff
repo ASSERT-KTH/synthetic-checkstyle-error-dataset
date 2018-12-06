@@ -1,0 +1,5 @@
+40c40,41
+<   private Supplier<Heavy> heavy = this::createAndCacheHeavy;
+---
+>   private Supplier
+> <Heavy> heavy = this::createAndCacheHeavy;

@@ -1,0 +1,5 @@
+70c70,71
+<       assertTrue(mage.has(stat));
+---
+>       assertTrue(mage.has(stat)
+> );

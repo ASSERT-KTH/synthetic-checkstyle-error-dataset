@@ -1,0 +1,4 @@
+100c100
+<       LotteryTicketCheckResult checkResult = service.checkTicketForPrize(id, winningNumbers);
+---
+>       LotteryTicketCheckResult checkResult 	= service.checkTicketForPrize(id, winningNumbers);

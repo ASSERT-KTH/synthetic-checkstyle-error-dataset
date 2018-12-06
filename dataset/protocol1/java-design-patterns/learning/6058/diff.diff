@@ -1,0 +1,4 @@
+77c77
+<   static <T> Trampoline<T> more(final Trampoline<Trampoline<T>> trampoline) {
+---
+>   static <T> Trampoline<T> more(final Trampoline<Trampoline<T>> 	trampoline) {

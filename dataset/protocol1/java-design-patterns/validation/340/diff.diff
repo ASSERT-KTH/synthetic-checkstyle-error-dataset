@@ -1,0 +1,5 @@
+55c55,56
+<     EventDispatcher dispatcher = new EventDispatcher();
+---
+>     EventDispatcher dispatcher = new 
+> EventDispatcher();

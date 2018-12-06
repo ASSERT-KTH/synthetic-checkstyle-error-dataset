@@ -1,0 +1,4 @@
+39c39
+<   private int weightTons;
+---
+>  private int weightTons;

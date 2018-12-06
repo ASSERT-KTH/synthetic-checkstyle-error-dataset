@@ -1,0 +1,4 @@
+34c34
+<   private String wizardClass;
+---
+>  private String wizardClass;

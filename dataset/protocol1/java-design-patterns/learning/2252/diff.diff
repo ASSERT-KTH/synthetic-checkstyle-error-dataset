@@ -1,0 +1,4 @@
+84c84
+<         new User("Marti", "Luther", true, "42309fd"), new User("Kate", "Smith", true, "if0243"));
+---
+>         new User("Marti", "Luther", true, "42309fd"), new User("Kate", "Smith", true, "if0243")	);

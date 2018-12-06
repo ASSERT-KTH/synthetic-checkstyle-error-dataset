@@ -1,0 +1,4 @@
+45c45
+< public class Target extends JFrame { //NOSONAR
+---
+> public 	class Target extends JFrame { //NOSONAR

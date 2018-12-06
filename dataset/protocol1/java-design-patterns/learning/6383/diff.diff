@@ -1,0 +1,5 @@
+46,47c46
+<     peter.start();
+<     john.start();
+---
+>     peter.start();    john.start();

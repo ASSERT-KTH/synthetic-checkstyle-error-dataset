@@ -1,0 +1,4 @@
+90c90
+<     LOGGER.info("jBloch books : {}", jBlochBooks);
+---
+>    LOGGER.info("jBloch books : {}", jBlochBooks);

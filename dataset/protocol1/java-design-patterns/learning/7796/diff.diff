@@ -1,0 +1,4 @@
+111c111
+<       synchronized (globalMutex) {
+---
+>       synchronized (globalMutex){

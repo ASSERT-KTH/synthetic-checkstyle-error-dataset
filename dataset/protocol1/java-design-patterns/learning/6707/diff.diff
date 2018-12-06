@@ -1,0 +1,5 @@
+40,41c40
+<     final Queen queen = new Queen();
+<     queen.setFlirtiness(false);
+---
+>     final Queen queen = new Queen();    queen.setFlirtiness(false);

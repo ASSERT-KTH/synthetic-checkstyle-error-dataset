@@ -1,0 +1,5 @@
+91,92c91
+<     verifyNoMoreInteractions(ballThread);
+<     assertEquals(2, appender.getLogSize());
+---
+>     verifyNoMoreInteractions(ballThread);    assertEquals(2, appender.getLogSize());

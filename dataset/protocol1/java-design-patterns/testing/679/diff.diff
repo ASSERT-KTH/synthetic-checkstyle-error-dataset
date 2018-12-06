@@ -1,0 +1,4 @@
+42c42
+<   public void changeMethod(StealingMethod method) {
+---
+>   public void changeMethod(StealingMethod 	method) {

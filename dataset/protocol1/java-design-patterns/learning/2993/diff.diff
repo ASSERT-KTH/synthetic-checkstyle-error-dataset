@@ -1,0 +1,4 @@
+43c43
+<   List<Spell> findAllSpells();
+---
+>   List<Spell> findAllSpells ();

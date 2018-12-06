@@ -1,0 +1,5 @@
+84c84,85
+<       return log.get(log.size() - 1).getMessage();
+---
+>       
+> return log.get(log.size() - 1).getMessage();

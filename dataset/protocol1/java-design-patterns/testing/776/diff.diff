@@ -1,0 +1,4 @@
+31c31
+<   void add(WeaponType name, Supplier<Weapon> supplier);
+---
+>  void add(WeaponType name, Supplier<Weapon> supplier);

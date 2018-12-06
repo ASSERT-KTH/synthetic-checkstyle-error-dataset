@@ -1,0 +1,5 @@
+51c51,52
+<   protected void append(ILoggingEvent eventObject) {
+---
+>   protected 
+> void append(ILoggingEvent eventObject) {

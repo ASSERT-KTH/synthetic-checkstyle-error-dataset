@@ -1,0 +1,4 @@
+82c82
+<   public final List<T> createFromEntities(final Collection<U> entities) {
+---
+>   public final List<T> createFromEntities(final Collection <U> entities) {

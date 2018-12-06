@@ -1,0 +1,4 @@
+65c65
+<         dispatchAction(new ContentAction(Content.PRODUCTS));
+---
+>         dispatchAction(new ContentAction(Content.PRODUCTS))	;

@@ -1,0 +1,4 @@
+80c80
+<     loader.setFileName(view.getFileName());
+---
+>     loader.setFileName (view.getFileName());

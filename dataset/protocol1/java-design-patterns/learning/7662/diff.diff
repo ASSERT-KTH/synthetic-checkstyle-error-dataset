@@ -1,0 +1,5 @@
+62c62,63
+<     Weapon weapon = blacksmith.manufactureWeapon(WeaponType.AXE);
+---
+>     Weapon weapon 
+> = blacksmith.manufactureWeapon(WeaponType.AXE);

@@ -1,0 +1,5 @@
+39,40c39
+<     assertEquals("/product-image.png", imagePath);
+<   }
+---
+>     assertEquals("/product-image.png", imagePath);  }

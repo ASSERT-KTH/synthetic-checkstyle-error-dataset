@@ -1,0 +1,4 @@
+61c61
+<         List<String> countries = world.fetch();
+---
+>         List<String > countries = world.fetch();

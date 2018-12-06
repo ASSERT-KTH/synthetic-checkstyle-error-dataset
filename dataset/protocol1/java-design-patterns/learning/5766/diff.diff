@@ -1,0 +1,4 @@
+44c44
+<     final StandardServiceRegistry registry = new StandardServiceRegistryBuilder().configure().build();
+---
+>     final StandardServiceRegistry registry =new StandardServiceRegistryBuilder().configure().build();

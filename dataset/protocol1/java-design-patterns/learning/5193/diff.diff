@@ -1,0 +1,4 @@
+67c67
+<     LOGGER.info(mage.toString());
+---
+>    LOGGER.info(mage.toString());

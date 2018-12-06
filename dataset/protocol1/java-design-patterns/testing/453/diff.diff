@@ -1,0 +1,4 @@
+79c79
+<     Resource resource = null;
+---
+>     Resource resource = null	;

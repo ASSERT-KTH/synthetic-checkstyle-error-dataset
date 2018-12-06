@@ -1,0 +1,4 @@
+40c40
+<     assertEquals("The Product Title.", title);
+---
+>    assertEquals("The Product Title.", title);

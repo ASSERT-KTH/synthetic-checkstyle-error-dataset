@@ -1,0 +1,5 @@
+60c60,61
+<     Java8Holder java8Holder = new Java8Holder();
+---
+>     
+> Java8Holder java8Holder = new Java8Holder();

@@ -1,0 +1,5 @@
+98c98,99
+<     LOGGER.info(AccountAggregate.getAccount(ACCOUNT_OF_DAENERYS).toString());
+---
+>     LOGGER.info(AccountAggregate
+> .getAccount(ACCOUNT_OF_DAENERYS).toString());

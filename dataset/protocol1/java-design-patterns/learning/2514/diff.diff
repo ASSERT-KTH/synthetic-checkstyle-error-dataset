@@ -1,0 +1,5 @@
+87c87,88
+<       LOG.info("Yet the operation will throw an error every once in a while.");
+---
+>       LOG.info(
+> "Yet the operation will throw an error every once in a while.");

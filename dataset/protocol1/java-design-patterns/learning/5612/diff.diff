@@ -1,0 +1,4 @@
+45c45
+<     final FilterManager filterManager = new FilterManager();
+---
+>    final FilterManager filterManager = new FilterManager();

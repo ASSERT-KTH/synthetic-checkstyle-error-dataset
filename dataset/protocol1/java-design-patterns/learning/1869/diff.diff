@@ -1,0 +1,5 @@
+42c42,43
+<     final AlchemistShop shop = new AlchemistShop();
+---
+>     final 
+> AlchemistShop shop = new AlchemistShop();

@@ -1,0 +1,4 @@
+57c57
+<     verify(beast).copy();
+---
+>     verify(beast	).copy();

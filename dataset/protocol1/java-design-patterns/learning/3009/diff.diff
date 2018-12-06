@@ -1,0 +1,5 @@
+91c91,92
+<     EnumIvoryTower enumIvoryTower2 = EnumIvoryTower.INSTANCE;
+---
+>     EnumIvoryTower enumIvoryTower2 = EnumIvoryTower
+> .INSTANCE;

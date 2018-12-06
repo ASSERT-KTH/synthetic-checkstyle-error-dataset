@@ -1,0 +1,5 @@
+23c23,24
+< package abstractextensions;
+---
+> package abstractextensions
+> ;

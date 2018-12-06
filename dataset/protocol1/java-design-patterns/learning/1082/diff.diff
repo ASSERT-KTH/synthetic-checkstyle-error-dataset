@@ -1,0 +1,4 @@
+77c77
+<     LOGGER.info("-> price: {}", car.getPrice().get());
+---
+>     LOGGER.info ("-> price: {}", car.getPrice().get());

@@ -1,0 +1,4 @@
+33c33
+<   private static final Logger LOGGER = LoggerFactory.getLogger(ConfigureForDosVisitor.class);
+---
+>   private static final 	Logger LOGGER = LoggerFactory.getLogger(ConfigureForDosVisitor.class);

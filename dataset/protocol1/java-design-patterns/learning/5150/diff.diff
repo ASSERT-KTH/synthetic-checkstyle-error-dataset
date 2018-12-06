@@ -1,0 +1,4 @@
+37c37
+<   private volatile Integer value;
+---
+>  private volatile Integer value;

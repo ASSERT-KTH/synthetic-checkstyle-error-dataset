@@ -1,0 +1,5 @@
+119,120c119
+<     assertNotNull(last);
+<     assertFalse(last.isPresent());
+---
+>     assertNotNull(last);    assertFalse(last.isPresent());

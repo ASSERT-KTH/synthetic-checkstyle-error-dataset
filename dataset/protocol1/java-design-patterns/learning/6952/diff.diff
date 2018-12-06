@@ -1,0 +1,5 @@
+41,42c41
+<       ((HayesVisitor) modemVisitor).visit(this);
+<     } else {
+---
+>       ((HayesVisitor) modemVisitor).visit(this);    } else {

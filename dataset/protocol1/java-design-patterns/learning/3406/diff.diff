@@ -1,0 +1,5 @@
+29,30c29
+<   void visit(Zoom zoom);
+< }
+---
+>   void visit(Zoom zoom);}

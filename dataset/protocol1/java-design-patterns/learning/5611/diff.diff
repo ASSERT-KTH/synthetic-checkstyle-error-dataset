@@ -1,0 +1,4 @@
+52c52
+<     GiantView view = new GiantView();
+---
+>     GiantView view = new GiantView()	;

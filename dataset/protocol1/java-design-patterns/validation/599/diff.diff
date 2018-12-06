@@ -1,0 +1,5 @@
+37c37,38
+<     queue = new LinkedBlockingQueue<>(5);
+---
+>     queue = new LinkedBlockingQueue<>(5
+> );

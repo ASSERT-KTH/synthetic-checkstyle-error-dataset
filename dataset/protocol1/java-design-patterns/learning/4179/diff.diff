@@ -1,0 +1,4 @@
+38c38
+<   void persist(E entity);
+---
+>   void persist(E 	entity);

@@ -1,0 +1,5 @@
+73c73,74
+<     List<Person> actuals = Lists.newArrayList(repository.findAll());
+---
+>     List<
+> Person> actuals = Lists.newArrayList(repository.findAll());

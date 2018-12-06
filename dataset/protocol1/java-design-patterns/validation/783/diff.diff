@@ -1,0 +1,4 @@
+117c117
+<       fail("Fetching promise should result in exception if the task threw an exception");
+---
+>      fail("Fetching promise should result in exception if the task threw an exception");

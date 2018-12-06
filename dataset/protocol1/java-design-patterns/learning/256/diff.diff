@@ -1,0 +1,4 @@
+69c69
+<         NumberExpression resultExpression = new NumberExpression(result);
+---
+>        NumberExpression resultExpression = new NumberExpression(result);

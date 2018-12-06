@@ -1,0 +1,4 @@
+58c58
+<   void accept(DataType event);
+---
+>  void accept(DataType event);

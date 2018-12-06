@@ -1,0 +1,4 @@
+33c33
+<   public Message(String msg) {
+---
+>  public Message(String msg) {

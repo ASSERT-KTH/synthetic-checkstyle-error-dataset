@@ -1,0 +1,5 @@
+27c27,28
+< import com.iluwatar.specification.property.Size;
+---
+> import com.iluwatar.specification.property.Size
+> ;

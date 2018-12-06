@@ -1,0 +1,4 @@
+37c37
+<     assertThat(guard, instanceOf(Permission.class));
+---
+>    assertThat(guard, instanceOf(Permission.class));

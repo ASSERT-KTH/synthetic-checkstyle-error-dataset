@@ -1,0 +1,4 @@
+27c27
+< import static uk.org.lidalia.slf4jext.Level.INFO;
+---
+> import static uk.org.lidalia	.slf4jext.Level.INFO;

@@ -1,0 +1,5 @@
+58c58,59
+<       if (serviceJndiName.equals(serviceName)) {
+---
+>       if (
+> serviceJndiName.equals(serviceName)) {

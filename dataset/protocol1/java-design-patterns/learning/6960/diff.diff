@@ -1,0 +1,5 @@
+73,74c73
+<     isSuspended = false;
+<     LOGGER.info("Begin to resume BallThread");
+---
+>     isSuspended = false;    LOGGER.info("Begin to resume BallThread");

@@ -1,0 +1,4 @@
+48c48
+<     assertThrows(IllegalStateException.class, () -> {
+---
+>     assertThrows(	IllegalStateException.class, () -> {

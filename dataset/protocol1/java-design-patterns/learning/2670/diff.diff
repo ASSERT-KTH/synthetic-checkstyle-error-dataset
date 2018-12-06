@@ -1,0 +1,5 @@
+41c41,42
+<     final Hammer hammer = spy(new Hammer(mock(FlyingEnchantment.class)));
+---
+>     final Hammer hammer = spy(new Hammer(mock(FlyingEnchantment
+> .class)));

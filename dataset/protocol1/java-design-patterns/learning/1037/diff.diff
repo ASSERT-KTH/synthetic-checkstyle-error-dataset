@@ -1,0 +1,4 @@
+64c64
+<       LOGGER.info("Message [{}] from [{}] received by [{}]", body, sender, name);
+---
+>      LOGGER.info("Message [{}] from [{}] received by [{}]", body, sender, name);

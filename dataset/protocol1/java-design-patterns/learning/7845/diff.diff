@@ -1,0 +1,4 @@
+73c73
+<       logger.info( "Failed checking the lottery ticket - please try again." );
+---
+>       logger.info ( "Failed checking the lottery ticket - please try again." );

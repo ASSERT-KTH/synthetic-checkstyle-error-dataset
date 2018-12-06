@@ -1,0 +1,4 @@
+83c83
+<     assertEquals(cake.toString(), appender.getLastMessage());
+---
+>     assertEquals(cake.toString(), appender.getLastMessage ());

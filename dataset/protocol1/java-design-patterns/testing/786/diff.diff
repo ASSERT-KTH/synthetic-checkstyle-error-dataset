@@ -1,0 +1,5 @@
+42,43c42
+<     assertEquals("name", fish.getName());
+<     assertEquals(1, fish.getAge());
+---
+>     assertEquals("name", fish.getName());    assertEquals(1, fish.getAge());

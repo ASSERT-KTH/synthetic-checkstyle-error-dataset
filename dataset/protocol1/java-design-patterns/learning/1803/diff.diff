@@ -1,0 +1,5 @@
+39c39,40
+<     assertSame(cause, new ApplicationException(cause).getCause());
+---
+>     assertSame(cause, new 
+> ApplicationException(cause).getCause());

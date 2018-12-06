@@ -1,0 +1,4 @@
+52c52
+<     this.spellDao = spellDao;
+---
+>     this.spellDao =spellDao;

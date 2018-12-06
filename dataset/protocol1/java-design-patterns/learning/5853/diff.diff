@@ -1,0 +1,4 @@
+97c97
+<     expectedExceptions.expect(InvalidException.class);
+---
+>     expectedExceptions.expect(	InvalidException.class);

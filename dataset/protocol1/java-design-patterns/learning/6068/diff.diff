@@ -1,0 +1,5 @@
+76c76,77
+<   private static void makeServiceCalls(Tenant tenant, CallsCount callsCount) {
+---
+>   private static void makeServiceCalls(Tenant tenant, CallsCount callsCount
+> ) {

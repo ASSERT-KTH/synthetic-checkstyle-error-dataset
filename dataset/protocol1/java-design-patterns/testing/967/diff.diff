@@ -1,0 +1,4 @@
+50c50
+<     albumListPage.navigateToPage();
+---
+>    albumListPage.navigateToPage();

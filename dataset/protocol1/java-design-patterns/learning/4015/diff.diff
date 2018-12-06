@@ -1,0 +1,4 @@
+70c70
+<       if (bowl != null && (fruit = bowl.take()) != null) {
+---
+>       if (bowl != null && (fruit = bowl.take()) 	!= null) {

@@ -1,0 +1,5 @@
+41,42c41
+<  * and may then receive each piece of data that is published to the Data-Bus. The member
+<  * may react to any given message or not.</p>
+---
+>  * and may then receive each piece of data that is published to the Data-Bus. The member * may react to any given message or not.</p>

@@ -1,0 +1,4 @@
+37c37
+< public class InMemoryTicketRepository implements LotteryTicketRepository {
+---
+> public class InMemoryTicketRepository implements LotteryTicketRepository{

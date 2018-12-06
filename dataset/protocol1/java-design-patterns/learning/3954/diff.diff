@@ -1,0 +1,4 @@
+70c70
+<     return cars.stream().collect(Collectors.groupingBy(Car::getCategory));
+---
+>    return cars.stream().collect(Collectors.groupingBy(Car::getCategory));

@@ -1,0 +1,5 @@
+97,98c97
+<     verify(businessDelegate, times(2)).doTask();
+<     verify(jmsService).doProcessing();
+---
+>     verify(businessDelegate, times(2)).doTask();    verify(jmsService).doProcessing();

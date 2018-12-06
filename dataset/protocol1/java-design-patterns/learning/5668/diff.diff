@@ -1,0 +1,5 @@
+33,34c33
+<  * In imperative-style programming, it is common to use for and while loops for
+<  * most kinds of data processing. Function composition is a simple technique
+---
+>  * In imperative-style programming, it is common to use for and while loops for * most kinds of data processing. Function composition is a simple technique

@@ -1,0 +1,5 @@
+103,104c103
+<     Author author = getAuthorByUsername(oldUsername);
+<     author.setUsername(newUsername);
+---
+>     Author author = getAuthorByUsername(oldUsername);    author.setUsername(newUsername);

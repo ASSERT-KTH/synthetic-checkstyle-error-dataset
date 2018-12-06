@@ -1,0 +1,4 @@
+60c60
+<     idToCustomer.put(customer.getId(), customer);
+---
+>     idToCustomer	.put(customer.getId(), customer);

@@ -1,0 +1,5 @@
+118c118,119
+<     final Optional<Integer> last = createFluentIterable(integers).last();
+---
+>     final Optional<Integer> last = createFluentIterable(integers
+> ).last();

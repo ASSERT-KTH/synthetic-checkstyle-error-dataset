@@ -1,0 +1,5 @@
+54c54,55
+<     while (isRunning) {
+---
+>     while (
+> isRunning) {

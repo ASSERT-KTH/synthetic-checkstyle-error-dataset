@@ -1,0 +1,4 @@
+25c25
+< import com.iluwatar.event.sourcing.event.DomainEvent;
+---
+> import com.iluwatar.event.sourcing	.event.DomainEvent;

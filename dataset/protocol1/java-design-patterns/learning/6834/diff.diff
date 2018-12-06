@@ -1,0 +1,5 @@
+42c42,43
+<   void delete(E entity);
+---
+>   void delete(E 
+> entity);

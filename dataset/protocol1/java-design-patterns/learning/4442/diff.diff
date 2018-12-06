@@ -1,0 +1,5 @@
+157c157,158
+<     this.cancel.addActionListener(this);
+---
+>     this.cancel.addActionListener(
+> this);

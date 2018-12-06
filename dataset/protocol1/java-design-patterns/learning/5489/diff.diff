@@ -1,0 +1,4 @@
+81c81
+<     assertEquals("Epson Printer : Test Message Printed", appender.getLastMessage());
+---
+>    assertEquals("Epson Printer : Test Message Printed", appender.getLastMessage());

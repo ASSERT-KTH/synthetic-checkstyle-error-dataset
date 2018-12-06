@@ -1,0 +1,4 @@
+35c35
+<   static final int THRESHOLD = 200;
+---
+>   static 	final int THRESHOLD = 200;

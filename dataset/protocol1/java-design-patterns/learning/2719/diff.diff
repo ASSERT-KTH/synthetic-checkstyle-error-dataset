@@ -1,0 +1,4 @@
+129c129
+<     AppManager.initCachingPolicy(CachingPolicy.BEHIND);
+---
+>      AppManager.initCachingPolicy(CachingPolicy.BEHIND);

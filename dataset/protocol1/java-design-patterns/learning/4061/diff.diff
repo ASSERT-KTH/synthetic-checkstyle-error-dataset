@@ -1,0 +1,4 @@
+50c50
+<   public static void main(String[] args) throws UnsupportedAudioFileException, IOException, InterruptedException {
+---
+>   public static void main(String[] args) throws UnsupportedAudioFileException, 	IOException, InterruptedException {

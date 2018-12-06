@@ -1,0 +1,4 @@
+46c46
+<   public <E extends Event> void registerHandler(Class<E> eventType,
+---
+>   public <E extends Event> void registerHandler(Class<E> 	eventType,

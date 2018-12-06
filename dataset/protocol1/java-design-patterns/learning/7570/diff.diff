@@ -1,0 +1,4 @@
+72c72
+<     entityManager.setDataSource(dataSource());
+---
+>     entityManager.setDataSource(dataSource ());

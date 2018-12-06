@@ -1,0 +1,5 @@
+104,105c104
+<         assertNotNull(instance);
+<         assertSame(expectedInstance, instance);
+---
+>         assertNotNull(instance);        assertSame(expectedInstance, instance);

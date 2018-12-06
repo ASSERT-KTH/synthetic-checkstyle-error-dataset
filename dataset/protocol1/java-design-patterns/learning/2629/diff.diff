@@ -1,0 +1,5 @@
+66c66,67
+<     bus.subscribe(new StatusMember(2));
+---
+>     bus
+> .subscribe(new StatusMember(2));

@@ -1,0 +1,4 @@
+50c50
+<       while (!Thread.currentThread().isInterrupted()) {
+---
+>       while (!Thread.currentThread().isInterrupted()){

@@ -1,0 +1,4 @@
+94c94
+<       inOrder.verify(observer).update(weatherTypes[i % weatherTypes.length]);
+---
+>       inOrder.verify(observer).update(weatherTypes[	i % weatherTypes.length]);

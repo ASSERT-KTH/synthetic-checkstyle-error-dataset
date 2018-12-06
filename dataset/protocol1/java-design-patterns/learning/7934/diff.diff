@@ -1,0 +1,5 @@
+52,53c52
+<     LotteryTicketRepository repository = new InMemoryTicketRepository();
+<     assertTrue(repository.findAll().isEmpty());
+---
+>     LotteryTicketRepository repository = new InMemoryTicketRepository();    assertTrue(repository.findAll().isEmpty());

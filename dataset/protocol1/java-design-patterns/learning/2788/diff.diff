@@ -1,0 +1,4 @@
+58c58
+<     final Object clone = testedPrototype.copy();
+---
+>     final Object clone = testedPrototype.	copy();

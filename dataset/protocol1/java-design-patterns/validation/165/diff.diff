@@ -1,0 +1,4 @@
+57c57
+<     assertFalse(king.getMood());
+---
+>     assertFalse(	king.getMood());

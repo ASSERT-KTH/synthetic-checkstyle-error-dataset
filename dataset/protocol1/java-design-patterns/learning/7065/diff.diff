@@ -1,0 +1,4 @@
+30c30
+< import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+---
+> import org.springframework.	boot.autoconfigure.EnableAutoConfiguration;

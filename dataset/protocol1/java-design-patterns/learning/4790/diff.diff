@@ -1,0 +1,5 @@
+60c60,61
+<       headers.put(Message.Headers.SENDER, "test");
+---
+>       headers
+> .put(Message.Headers.SENDER, "test");

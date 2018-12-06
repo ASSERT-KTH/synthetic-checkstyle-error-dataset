@@ -1,0 +1,4 @@
+77c77
+<     PLAYERS.add(new PlayerDetails("bjorn@google.com", "342-874", "+7834325"));
+---
+>    PLAYERS.add(new PlayerDetails("bjorn@google.com", "342-874", "+7834325"));

@@ -1,0 +1,4 @@
+58c58
+<     OliphauntPool pool = new OliphauntPool();
+---
+>     OliphauntPool pool = new OliphauntPool(	);

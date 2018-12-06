@@ -1,0 +1,4 @@
+37c37
+<     MessageQueue msgQueue = new MessageQueue();
+---
+>     MessageQueue msgQueue = new MessageQueue()	;

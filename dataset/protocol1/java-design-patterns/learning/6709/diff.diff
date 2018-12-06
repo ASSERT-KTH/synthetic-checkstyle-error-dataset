@@ -1,0 +1,5 @@
+58,59c58
+<     LOGGER.info("------------------------");
+<     LOGGER.info("BST Iterator: ");
+---
+>     LOGGER.info("------------------------");    LOGGER.info("BST Iterator: ");

@@ -1,0 +1,5 @@
+47,48c47
+<     AlbumPage albumPage = albumListPage.selectAlbum("21");
+<     albumPage.navigateToPage();
+---
+>     AlbumPage albumPage = albumListPage.selectAlbum("21");    albumPage.navigateToPage();

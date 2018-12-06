@@ -1,0 +1,4 @@
+30c30
+<   Integer get(Stats stat);
+---
+>  Integer get(Stats stat);

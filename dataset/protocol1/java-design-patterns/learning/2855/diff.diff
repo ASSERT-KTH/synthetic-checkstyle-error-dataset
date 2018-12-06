@@ -1,0 +1,4 @@
+86c86
+<   private static Message createMessage(final String sender, final String message) {
+---
+>   private static 	Message createMessage(final String sender, final String message) {

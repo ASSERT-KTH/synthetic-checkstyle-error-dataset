@@ -1,0 +1,5 @@
+53c53,54
+<     Hayes hayes = new Hayes();
+---
+>     Hayes 
+> hayes = new Hayes();

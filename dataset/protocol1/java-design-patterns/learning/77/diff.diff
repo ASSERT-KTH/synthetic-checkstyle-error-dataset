@@ -1,0 +1,5 @@
+42,43c42
+<     assertNotNull(weapon);
+<     Enchantment enchantment = weapon.getEnchantment();
+---
+>     assertNotNull(weapon);    Enchantment enchantment = weapon.getEnchantment();

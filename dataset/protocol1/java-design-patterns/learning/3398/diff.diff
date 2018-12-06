@@ -1,0 +1,5 @@
+69c69,70
+<     testDamaged(tested, other, thisDamaged);
+---
+>     testDamaged(
+> tested, other, thisDamaged);

@@ -1,0 +1,4 @@
+74c74
+<     when(fieldJsonMapper.toJson(any(Video.class), eq(fields))).thenReturn(expectedDetails);
+---
+>     when(fieldJsonMapper.toJson(any(Video	.class), eq(fields))).thenReturn(expectedDetails);

@@ -1,0 +1,4 @@
+41c41
+<     super(Wizard::new, new WizardDaoImpl());
+---
+>    super(Wizard::new, new WizardDaoImpl());

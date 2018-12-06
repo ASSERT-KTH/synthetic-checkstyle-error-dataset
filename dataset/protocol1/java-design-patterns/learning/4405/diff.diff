@@ -1,0 +1,4 @@
+43c43
+<       chain.getLast().setNext(filter);
+---
+>      chain.getLast().setNext(filter);

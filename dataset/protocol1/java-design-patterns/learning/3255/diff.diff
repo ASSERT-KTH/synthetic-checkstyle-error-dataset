@@ -1,0 +1,4 @@
+107c107
+<     when(spellbookDao.findByName(eq(bookname))).thenReturn(spellbook);
+---
+>    when(spellbookDao.findByName(eq(bookname))).thenReturn(spellbook);

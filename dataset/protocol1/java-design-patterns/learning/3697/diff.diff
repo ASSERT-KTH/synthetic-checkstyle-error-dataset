@@ -1,0 +1,5 @@
+60c60,61
+<     PersonRepository repository = context.getBean(PersonRepository.class);
+---
+>     PersonRepository repository = context
+> .getBean(PersonRepository.class);

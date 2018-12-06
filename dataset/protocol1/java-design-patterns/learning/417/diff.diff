@@ -1,0 +1,5 @@
+57c57,58
+<     ballItem.click();
+---
+>     ballItem
+> .click();

@@ -1,0 +1,5 @@
+67,68c67
+<     tasks.add(new PotatoPeelingTask(4));
+<     tasks.add(new CoffeeMakingTask(2));
+---
+>     tasks.add(new PotatoPeelingTask(4));    tasks.add(new CoffeeMakingTask(2));

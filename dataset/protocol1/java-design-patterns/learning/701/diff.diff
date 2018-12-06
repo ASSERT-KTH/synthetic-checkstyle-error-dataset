@@ -1,0 +1,4 @@
+100c100
+<             .append(abilities != null ? " and wielding " + abilities + " abilities" : "")
+---
+>             .append(abilities != null ? " and wielding " + abilities + " abilities" :"")

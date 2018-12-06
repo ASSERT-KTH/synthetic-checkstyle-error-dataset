@@ -1,0 +1,4 @@
+42c42
+<       assertFalse(toString.trim().isEmpty());
+---
+>      assertFalse(toString.trim().isEmpty());

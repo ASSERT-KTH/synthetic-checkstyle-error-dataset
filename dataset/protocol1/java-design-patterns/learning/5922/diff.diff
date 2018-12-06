@@ -1,0 +1,4 @@
+104c104
+<       result = (E) session.merge(entity);
+---
+>      result = (E) session.merge(entity);

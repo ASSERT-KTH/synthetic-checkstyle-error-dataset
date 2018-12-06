@@ -1,0 +1,4 @@
+39c39
+<     return new Meteoroid(1, 2, 3, 4);
+---
+>     return new Meteoroid(1, 2, 3, 4)	;

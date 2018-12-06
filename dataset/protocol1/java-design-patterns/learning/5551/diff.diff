@@ -1,0 +1,4 @@
+69c69
+<   int expectedCounterDateValues = 0;
+---
+>  int expectedCounterDateValues = 0;

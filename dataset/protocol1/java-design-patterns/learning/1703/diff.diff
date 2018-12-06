@@ -1,0 +1,4 @@
+60c60
+<     if (getNext() != null) {
+---
+>      if (getNext() != null) {

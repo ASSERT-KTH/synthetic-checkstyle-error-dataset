@@ -1,0 +1,5 @@
+149,150c149
+<         assertFalse(result);
+<         assertCustomerCountIs(1);
+---
+>         assertFalse(result);        assertCustomerCountIs(1);

@@ -1,0 +1,4 @@
+50c50
+<     super(Orcs::new);
+---
+>     super(Orcs::new)	;

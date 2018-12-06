@@ -1,0 +1,5 @@
+146c146,147
+<   private class InMemoryAppender extends AppenderBase<ILoggingEvent> {
+---
+>   private class InMemoryAppender extends 
+> AppenderBase<ILoggingEvent> {

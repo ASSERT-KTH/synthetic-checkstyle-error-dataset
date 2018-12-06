@@ -1,0 +1,4 @@
+75c75
+<     assertEquals("The weather changed to windy.", appender.getLastMessage());
+---
+>    assertEquals("The weather changed to windy.", appender.getLastMessage());

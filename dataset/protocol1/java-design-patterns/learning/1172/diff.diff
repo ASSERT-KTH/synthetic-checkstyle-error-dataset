@@ -1,0 +1,4 @@
+38c38
+<     if (req.getRequestType().equals(RequestType.COLLECT_TAX)) {
+---
+>     if (req.getRequestType().equals(RequestType.COLLECT_TAX)) 	{

@@ -1,0 +1,5 @@
+47c47,48
+<     this.jmsService = jmsService;
+---
+>     this
+> .jmsService = jmsService;

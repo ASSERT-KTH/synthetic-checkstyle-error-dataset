@@ -1,0 +1,5 @@
+120,121c120
+<     assertNotNull(all);
+<     assertEquals(INITIAL_COUNT, all.size());
+---
+>     assertNotNull(all);    assertEquals(INITIAL_COUNT, all.size());

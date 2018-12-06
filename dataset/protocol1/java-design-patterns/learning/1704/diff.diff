@@ -1,0 +1,5 @@
+31c31,32
+< public interface CheckedRunnable {
+---
+> public 
+> interface CheckedRunnable {

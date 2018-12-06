@@ -1,0 +1,4 @@
+22c22
+< import domainapp.integtests.bootstrap.SimpleAppSystemInitializer;
+---
+> import domainapp.integtests	.bootstrap.SimpleAppSystemInitializer;

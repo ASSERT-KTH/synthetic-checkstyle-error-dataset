@@ -1,0 +1,5 @@
+58c58,59
+<   <T> Stream<T> children(String key, Function<Map<String, Object>, T> constructor);
+---
+>   <T> Stream<T> children(String key, Function<Map<String, Object
+> >, T> constructor);

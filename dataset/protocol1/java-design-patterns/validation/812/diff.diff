@@ -1,0 +1,5 @@
+23c23,24
+< package com.iluwatar.callback;
+---
+> package com.iluwatar.callback
+> ;

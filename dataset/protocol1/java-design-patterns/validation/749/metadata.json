@@ -1,0 +1,1 @@
+{"injection_operator": "insertion-newline", "line": "66", "message": "'lambda arguments' has incorrect indentation level 8, expected level should be 4.", "type": "Indentation"}

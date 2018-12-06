@@ -1,0 +1,4 @@
+34c34
+<   protected final Iterator<E> fromIterator;
+---
+>   protected final Iterator<E> 	fromIterator;

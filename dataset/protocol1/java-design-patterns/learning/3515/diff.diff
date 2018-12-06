@@ -1,0 +1,4 @@
+46c46
+<     DwarvenGoldmineFacade facade = new DwarvenGoldmineFacade();
+---
+>     DwarvenGoldmineFacade facade = new DwarvenGoldmineFacade(	);

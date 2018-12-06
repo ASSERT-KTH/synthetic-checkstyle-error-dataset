@@ -1,0 +1,4 @@
+81c81
+<         Desktop.getDesktop().open(applicationFile);
+---
+>        Desktop.getDesktop().open(applicationFile);

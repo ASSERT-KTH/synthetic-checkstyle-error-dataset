@@ -1,0 +1,5 @@
+27,28c27
+< import com.iluwatar.specification.creature.Creature;
+< import com.iluwatar.specification.property.Size;
+---
+> import com.iluwatar.specification.creature.Creature;import com.iluwatar.specification.property.Size;

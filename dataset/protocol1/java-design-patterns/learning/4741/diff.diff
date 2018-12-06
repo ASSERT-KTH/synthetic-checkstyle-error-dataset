@@ -1,0 +1,5 @@
+61c61,62
+<     controller.updateView();
+---
+>     controller.updateView(
+> );

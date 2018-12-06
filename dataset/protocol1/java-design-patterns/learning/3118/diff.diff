@@ -1,0 +1,5 @@
+32c32,33
+< public final class DatabaseNotAvailableException extends BusinessException {
+---
+> public final class DatabaseNotAvailableException extends 
+> BusinessException {

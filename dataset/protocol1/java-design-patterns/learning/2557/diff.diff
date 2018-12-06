@@ -1,0 +1,4 @@
+86c86
+<     try (Session session = sessionFactory.openSession()) {
+---
+>     try (Session session = sessionFactory	.openSession()) {

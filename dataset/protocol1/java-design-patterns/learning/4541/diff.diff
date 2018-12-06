@@ -1,0 +1,4 @@
+27c27
+< import org.apache.camel.component.mock.MockEndpoint;
+---
+> import 	org.apache.camel.component.mock.MockEndpoint;

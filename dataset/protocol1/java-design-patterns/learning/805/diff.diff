@@ -1,0 +1,5 @@
+117c117,118
+<       final List<Oliphaunt> oliphaunts = Arrays.asList(pool.checkOut(), pool.checkOut());
+---
+>       final List<Oliphaunt> oliphaunts = Arrays.asList(pool.checkOut(), pool
+> .checkOut());

@@ -1,0 +1,4 @@
+23c23
+< package com.iluwatar.specification.creature;
+---
+> package com.iluwatar.	specification.creature;

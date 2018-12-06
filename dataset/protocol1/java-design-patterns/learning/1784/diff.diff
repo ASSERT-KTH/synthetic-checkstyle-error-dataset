@@ -1,0 +1,4 @@
+39c39
+<   private static final Logger LOG = Logger.getLogger(FindPersonApiHandler.class);
+---
+>   private static final Logger LOG = 	Logger.getLogger(FindPersonApiHandler.class);

@@ -1,0 +1,4 @@
+45c45
+<     assertEquals(new Integer(0), callingCount, "Initial calling count of 0");
+---
+>     assertEquals(new Integer(0), callingCount, "Initial calling count of 0")	;

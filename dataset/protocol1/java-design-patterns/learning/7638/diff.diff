@@ -1,0 +1,4 @@
+106c106
+<   public AlbumListPage login() {
+---
+>   public AlbumListPage 	login() {

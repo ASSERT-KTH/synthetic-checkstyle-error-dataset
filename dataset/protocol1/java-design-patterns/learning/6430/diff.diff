@@ -1,0 +1,5 @@
+40,41c40
+<   public void onAction(Action action) {
+<     if (action.getType().equals(ActionType.CONTENT_CHANGED)) {
+---
+>   public void onAction(Action action) {    if (action.getType().equals(ActionType.CONTENT_CHANGED)) {

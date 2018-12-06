@@ -1,0 +1,4 @@
+51c51
+<     LOGGER.info(content.toString());
+---
+>    LOGGER.info(content.toString());

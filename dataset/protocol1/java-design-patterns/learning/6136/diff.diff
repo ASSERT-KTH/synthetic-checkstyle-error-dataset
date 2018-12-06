@@ -1,0 +1,4 @@
+74c74
+<     stores.stream().forEach(store -> store.onAction(action));
+---
+>     stores.stream().forEach (store -> store.onAction(action));

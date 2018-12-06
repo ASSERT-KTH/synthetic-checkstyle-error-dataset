@@ -1,0 +1,4 @@
+30c30
+< public class OrcSoldier extends RequestHandler {
+---
+> public class OrcSoldier 	extends RequestHandler {

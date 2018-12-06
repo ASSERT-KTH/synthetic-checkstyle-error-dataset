@@ -1,0 +1,5 @@
+303,304c303
+<         fail("Expected ExecutionException with NPE as cause");
+<       } catch (final ExecutionException e) {
+---
+>         fail("Expected ExecutionException with NPE as cause");      } catch (final ExecutionException e) {

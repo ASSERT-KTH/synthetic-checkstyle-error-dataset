@@ -1,0 +1,4 @@
+49c49
+<       Validator.of(john).validate(User::getName, Objects::nonNull, "name cannot be null")
+---
+>      Validator.of(john).validate(User::getName, Objects::nonNull, "name cannot be null")

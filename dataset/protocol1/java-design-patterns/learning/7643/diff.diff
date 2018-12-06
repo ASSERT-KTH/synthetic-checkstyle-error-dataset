@@ -1,0 +1,5 @@
+71c71,72
+<     then(member).should(never()).accept(event);
+---
+>     then(member).should(never())
+> .accept(event);

@@ -1,0 +1,4 @@
+84c84
+<     assertEquals("white dwarf age: 4 years mass: 128 tons", star.toString());
+---
+>    assertEquals("white dwarf age: 4 years mass: 128 tons", star.toString());

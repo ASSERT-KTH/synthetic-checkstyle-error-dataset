@@ -1,0 +1,4 @@
+28c28
+< import org.apache.http.impl.client.HttpClients;
+---
+>  import org.apache.http.impl.client.HttpClients;

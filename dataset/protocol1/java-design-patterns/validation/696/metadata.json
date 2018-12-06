@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "45", "column": "6", "message": "Unused @param tag for 'fromEntityFunction'.", "type": "JavadocMethod"}

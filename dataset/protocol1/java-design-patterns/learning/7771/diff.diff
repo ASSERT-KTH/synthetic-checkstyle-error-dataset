@@ -1,0 +1,4 @@
+34c34
+<   public Car(Map<String, Object> properties) {
+---
+>  public Car(Map<String, Object> properties) {

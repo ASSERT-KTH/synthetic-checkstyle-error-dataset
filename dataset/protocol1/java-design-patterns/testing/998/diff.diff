@@ -1,0 +1,5 @@
+51c51,52
+<     LetterComposite orcMessage = new Messenger().messageFromOrcs();
+---
+>     LetterComposite 
+> orcMessage = new Messenger().messageFromOrcs();

@@ -1,0 +1,5 @@
+32,33c32
+<  * already been acquired, the thief will be prevented from continuing (blocked)
+<  * until the lock has been released. The thieves stop taking beans once there
+---
+>  * already been acquired, the thief will be prevented from continuing (blocked) * until the lock has been released. The thieves stop taking beans once there

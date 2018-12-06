@@ -1,0 +1,4 @@
+93c93
+<     spellbooks.add(spellbook);
+---
+>    spellbooks.add(spellbook);

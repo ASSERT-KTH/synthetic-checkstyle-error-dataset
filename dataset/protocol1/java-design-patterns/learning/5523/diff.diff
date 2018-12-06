@@ -1,0 +1,5 @@
+114c114,115
+<     assertEquals(INITIAL_COUNT - 2, entitiesLeft.size());
+---
+>     assertEquals(INITIAL_COUNT - 2, entitiesLeft
+> .size());

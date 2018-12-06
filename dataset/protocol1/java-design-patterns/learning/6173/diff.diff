@@ -1,0 +1,5 @@
+49c49,50
+<     final Consumer consumer = new Consumer("consumer", queue);
+---
+>     final Consumer 
+> consumer = new Consumer("consumer", queue);

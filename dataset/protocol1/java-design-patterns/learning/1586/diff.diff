@@ -1,0 +1,4 @@
+36c36
+<     App.main(null);
+---
+>     App.main(null	);

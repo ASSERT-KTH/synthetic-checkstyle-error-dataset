@@ -1,0 +1,4 @@
+110c110
+<     final GiantModel model = mock(GiantModel.class);
+---
+>     final GiantModel model =mock(GiantModel.class);

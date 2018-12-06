@@ -1,0 +1,4 @@
+54c54
+<     assertEquals("Meteoroid at [1,2,3,4] damaged=false onFire=false", meteoroid.toString());
+---
+>    assertEquals("Meteoroid at [1,2,3,4] damaged=false onFire=false", meteoroid.toString());

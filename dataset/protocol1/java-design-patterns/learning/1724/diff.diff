@@ -1,0 +1,5 @@
+45c45,46
+<     LOGGER.info("{} processing {}", Thread.currentThread().getName(), task.toString());
+---
+>     LOGGER.info("{} processing {}", Thread
+> .currentThread().getName(), task.toString());

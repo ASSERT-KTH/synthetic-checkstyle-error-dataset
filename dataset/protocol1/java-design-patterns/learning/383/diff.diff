@@ -1,0 +1,4 @@
+49c49
+<       LOGGER.error("Initial SessionFactory creation failed." + ex);
+---
+>      LOGGER.error("Initial SessionFactory creation failed." + ex);

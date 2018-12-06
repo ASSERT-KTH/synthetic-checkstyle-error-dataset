@@ -1,0 +1,5 @@
+52c52,53
+<       assertEquals(book.getName(), spellByName.getName());
+---
+>       assertEquals(book
+> .getName(), spellByName.getName());

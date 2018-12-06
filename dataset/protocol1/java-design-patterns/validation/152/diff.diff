@@ -1,0 +1,4 @@
+42c42
+<     bank.setFunds("foo", 100);
+---
+>    bank.setFunds("foo", 100);

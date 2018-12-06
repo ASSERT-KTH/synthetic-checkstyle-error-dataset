@@ -1,0 +1,4 @@
+50c50
+<     party.addMember(partyMember2);
+---
+>      party.addMember(partyMember2);

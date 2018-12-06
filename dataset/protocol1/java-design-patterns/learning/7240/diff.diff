@@ -1,0 +1,4 @@
+33c33
+< public class LazyFluentIterableTest extends FluentIterableTest {
+---
+> public class LazyFluentIterableTest extends FluentIterableTest{

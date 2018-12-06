@@ -1,0 +1,4 @@
+59c59
+<     controller.setFatigue(Fatigue.TIRED);
+---
+>    controller.setFatigue(Fatigue.TIRED);

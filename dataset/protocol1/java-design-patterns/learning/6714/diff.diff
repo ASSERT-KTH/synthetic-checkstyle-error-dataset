@@ -1,0 +1,4 @@
+78c78
+<     for (Person person : persons) {
+---
+>     for (	Person person : persons) {

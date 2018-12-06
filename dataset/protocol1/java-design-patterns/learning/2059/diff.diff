@@ -1,0 +1,4 @@
+49c49
+<       final Wizard byName = dao.findByName(spell.getName());
+---
+>       final Wizard byName = dao.findByName(	spell.getName());

@@ -1,0 +1,4 @@
+61c61
+<       assertTrue(appender.logContains("Treasure chest opens."));
+---
+>       assertTrue(appender	.logContains("Treasure chest opens."));

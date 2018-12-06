@@ -1,0 +1,4 @@
+48c48
+<   public Content getContent() {
+---
+>   public Content getContent() 	{

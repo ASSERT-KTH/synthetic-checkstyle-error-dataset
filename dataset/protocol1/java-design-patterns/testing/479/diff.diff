@@ -1,0 +1,4 @@
+47c47
+<   T getValue() throws ExecutionException;
+---
+>   T getValue() 	throws ExecutionException;

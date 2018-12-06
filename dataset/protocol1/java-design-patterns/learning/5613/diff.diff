@@ -1,0 +1,4 @@
+59c59
+<     while (jar.takeBean()) {
+---
+>     while (jar.takeBean(	)) {

@@ -1,0 +1,5 @@
+37c37,38
+<     super("KillerBee", Size.SMALL, Movement.FLYING, Color.LIGHT);
+---
+>     super("KillerBee", Size.SMALL, 
+> Movement.FLYING, Color.LIGHT);

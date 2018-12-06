@@ -1,0 +1,5 @@
+69,70c69
+<     final File temporaryFile = this.testFolder.newFile();
+<     assertTrue(temporaryFile.exists());
+---
+>     final File temporaryFile = this.testFolder.newFile();    assertTrue(temporaryFile.exists());

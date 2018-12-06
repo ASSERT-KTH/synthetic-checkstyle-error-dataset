@@ -1,0 +1,5 @@
+32c32,33
+< public interface SpellDao extends Dao<Spell> {
+---
+> public interface SpellDao extends 
+> Dao<Spell> {

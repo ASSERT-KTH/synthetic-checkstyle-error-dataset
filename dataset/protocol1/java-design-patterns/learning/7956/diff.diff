@@ -1,0 +1,4 @@
+69c69
+<       logger.info(unit.getName() + " without SoldierExtension");
+---
+>       logger.info(unit.getName() + " without SoldierExtension"	);

@@ -1,0 +1,5 @@
+68,69c68
+<         assertEquals("Pool available=1 inUse=0", pool.toString());
+<       }
+---
+>         assertEquals("Pool available=1 inUse=0", pool.toString());      }

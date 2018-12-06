@@ -1,0 +1,4 @@
+41c41
+<     LOGGER.info(zoom + " used with Dos configurator.");
+---
+>     LOGGER.info(zoom + " used with Dos configurator."	);

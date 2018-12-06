@@ -1,0 +1,5 @@
+44c44,45
+<     thief.changeMethod(new SubtleMethod());
+---
+>     
+> thief.changeMethod(new SubtleMethod());

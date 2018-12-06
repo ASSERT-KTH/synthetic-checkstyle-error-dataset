@@ -1,0 +1,4 @@
+52c52
+<     assertFalse(mir.isOnFire());
+---
+>      assertFalse(mir.isOnFire());

@@ -1,0 +1,5 @@
+131,132c131
+<     final E emitter = this.factoryWithoutDefaultObserver.get();
+<     emitter.registerObserver(observer1);
+---
+>     final E emitter = this.factoryWithoutDefaultObserver.get();    emitter.registerObserver(observer1);

@@ -1,0 +1,4 @@
+122c122
+<     assertNull(weak.type());
+---
+>    assertNull(weak.type());

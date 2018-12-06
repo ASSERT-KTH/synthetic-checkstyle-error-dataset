@@ -1,0 +1,5 @@
+117c117,118
+<     stupid.remove(Stats.INTELLECT);
+---
+>     stupid.remove(Stats
+> .INTELLECT);

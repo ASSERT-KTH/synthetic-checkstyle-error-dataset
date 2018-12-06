@@ -1,0 +1,4 @@
+38c38
+<     target.setSize(Size.SMALL);
+---
+>     target.setSize(Size.SMALL)	;

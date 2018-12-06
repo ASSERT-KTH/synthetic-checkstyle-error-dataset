@@ -1,0 +1,4 @@
+37c37
+<         user -> new UserDto(user.getFirstName(), user.getLastName(), user.isActive(),
+---
+>         user -> new UserDto(user.getFirstName(), user.getLastName(	), user.isActive(),

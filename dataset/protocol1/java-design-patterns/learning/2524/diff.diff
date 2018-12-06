@@ -1,0 +1,4 @@
+49c49
+<     assertTrue(fish.getHungry());
+---
+>     assertTrue(fish	.getHungry());

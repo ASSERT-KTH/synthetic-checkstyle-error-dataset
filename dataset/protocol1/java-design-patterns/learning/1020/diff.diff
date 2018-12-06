@@ -1,0 +1,5 @@
+46,47c46
+<     final Servant servant = new Servant("test");
+<     servant.feed(royalty);
+---
+>     final Servant servant = new Servant("test");    servant.feed(royalty);

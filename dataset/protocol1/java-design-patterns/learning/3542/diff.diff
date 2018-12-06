@@ -1,0 +1,4 @@
+30c30
+< interface Royalty {
+---
+> interface Royalty{

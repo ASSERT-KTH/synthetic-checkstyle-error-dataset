@@ -1,0 +1,5 @@
+50,51c50
+<     File file2 = new File("fish2.out");
+<     file2.delete();
+---
+>     File file2 = new File("fish2.out");    file2.delete();

@@ -1,0 +1,5 @@
+60,61c60
+<  * Yet another way to implement thread safe lazily initialized Singleton can be found in
+<  * {@link InitializingOnDemandHolderIdiom}. However, this implementation requires at least Java 8
+---
+>  * Yet another way to implement thread safe lazily initialized Singleton can be found in * {@link InitializingOnDemandHolderIdiom}. However, this implementation requires at least Java 8

@@ -1,0 +1,4 @@
+94c94
+<     return String.format("%s age: %d years mass: %d tons", type.toString(), ageYears, massTons);
+---
+>     return String.format("%s age: %d years mass: %d tons", type.toString(	), ageYears, massTons);

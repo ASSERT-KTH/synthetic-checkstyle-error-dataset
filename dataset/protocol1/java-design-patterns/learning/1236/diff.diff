@@ -1,0 +1,4 @@
+69c69
+<   EventEmitterTest(final Weekday specialDay, final Event event,
+---
+>   EventEmitterTest(final Weekday specialDay, final Event 	event,

@@ -1,0 +1,4 @@
+187c187
+<       randomNum = rand.nextInt((MAX_ID - MIN_ID) + 1) + MIN_ID;
+---
+>      randomNum = rand.nextInt((MAX_ID - MIN_ID) + 1) + MIN_ID;

@@ -1,0 +1,5 @@
+137,138c137
+<     assertFalse(dependentPromise.isCancelled());
+<   }
+---
+>     assertFalse(dependentPromise.isCancelled());  }

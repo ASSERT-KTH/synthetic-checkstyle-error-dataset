@@ -1,0 +1,4 @@
+59c59
+<     carProperties.put(HasPrice.PROPERTY, 10000L);
+---
+>     carProperties.	put(HasPrice.PROPERTY, 10000L);

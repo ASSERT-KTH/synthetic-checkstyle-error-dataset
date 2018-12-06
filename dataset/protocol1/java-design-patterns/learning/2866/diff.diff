@@ -1,0 +1,4 @@
+42c42
+< public class SimpleFluentIterable<E> implements FluentIterable<E> {
+---
+> public class SimpleFluentIterable<E> implements FluentIterable <E> {

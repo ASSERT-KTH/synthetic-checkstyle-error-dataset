@@ -1,0 +1,4 @@
+99c99
+<     Session session = getSessionFactory().openSession();
+---
+>    Session session = getSessionFactory().openSession();

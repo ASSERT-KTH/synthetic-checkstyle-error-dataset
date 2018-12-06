@@ -1,0 +1,4 @@
+48c48
+<       builder.add(WeaponType.SWORD, Sword::new);
+---
+>       builder.add(WeaponType.SWORD, Sword::new)	;

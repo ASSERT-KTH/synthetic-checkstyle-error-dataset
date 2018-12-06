@@ -1,0 +1,5 @@
+48c48,49
+<     long counter = callsCount.getCount(tenant.getName());
+---
+>     
+> long counter = callsCount.getCount(tenant.getName());

@@ -1,0 +1,4 @@
+120c120
+<     assertNotNull(all);
+---
+>    assertNotNull(all);

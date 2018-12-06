@@ -1,0 +1,4 @@
+52c52
+<     final ColorSelector greenSelector = new ColorSelector(Color.GREEN);
+---
+>     final ColorSelector greenSelector = new ColorSelector (Color.GREEN);

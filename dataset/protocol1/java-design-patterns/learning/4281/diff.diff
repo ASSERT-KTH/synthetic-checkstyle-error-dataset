@@ -1,0 +1,5 @@
+61c61,62
+<     Hunter hunter = new Hunter();
+---
+>     Hunter 
+> hunter = new Hunter();

@@ -1,0 +1,4 @@
+37c37
+<     for (String name : wizardNames) {
+---
+>      for (String name : wizardNames) {

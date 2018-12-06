@@ -1,0 +1,5 @@
+82c82,83
+<     LOGGER.info(mage.toString());
+---
+>     LOGGER
+> .info(mage.toString());

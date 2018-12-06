@@ -1,0 +1,4 @@
+57c57
+<     final SimpleWizard simpleWizard = new SimpleWizard();
+---
+>    final SimpleWizard simpleWizard = new SimpleWizard();

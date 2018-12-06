@@ -1,0 +1,5 @@
+37c37,38
+< import static org.mockito.Mockito.verifyZeroInteractions;
+---
+> import static 
+> org.mockito.Mockito.verifyZeroInteractions;

@@ -1,0 +1,4 @@
+74c74
+<     LOGGER.info("Checked out {}", oliphaunt4);
+---
+>     LOGGER	.info("Checked out {}", oliphaunt4);

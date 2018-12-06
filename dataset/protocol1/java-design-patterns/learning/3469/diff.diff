@@ -1,0 +1,5 @@
+132c132,133
+<     int result = awsRequestId != null ? awsRequestId.hashCode() : 0;
+---
+>     int result = awsRequestId != null 
+> ? awsRequestId.hashCode() : 0;

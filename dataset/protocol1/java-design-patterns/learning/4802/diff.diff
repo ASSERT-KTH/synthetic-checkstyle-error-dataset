@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.http.client.methods.CloseableHttpResponse;
+< import org.apache.http.client.methods.HttpGet;
+---
+> import org.apache.http.client.methods.CloseableHttpResponse;import org.apache.http.client.methods.HttpGet;

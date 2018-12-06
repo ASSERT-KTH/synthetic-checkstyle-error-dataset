@@ -1,0 +1,4 @@
+75c75
+<     result = prime * result + prizeAmount;
+---
+>    result = prime * result + prizeAmount;

@@ -1,0 +1,5 @@
+42,43c42
+<  * implements {@link java.io.Closeable}. Running the example, we can observe that both resources are
+<  * automatically closed.
+---
+>  * implements {@link java.io.Closeable}. Running the example, we can observe that both resources are * automatically closed.

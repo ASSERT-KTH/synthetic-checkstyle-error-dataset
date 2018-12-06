@@ -1,0 +1,5 @@
+30c30,31
+< public class OrcArmy implements Army {
+---
+> public class OrcArmy implements Army 
+> {

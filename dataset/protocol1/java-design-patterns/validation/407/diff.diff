@@ -1,0 +1,4 @@
+49c49
+<   public Writer(String name, Lock writeLock) {
+---
+>    public Writer(String name, Lock writeLock) {

@@ -1,0 +1,4 @@
+81c81
+<     final O observer = this.factory.get();
+---
+>     final O observer = 	this.factory.get();

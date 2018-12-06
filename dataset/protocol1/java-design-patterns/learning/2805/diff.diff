@@ -1,0 +1,4 @@
+49c49
+<     LOGGER.info("The item's glow fades.");
+---
+>    LOGGER.info("The item's glow fades.");

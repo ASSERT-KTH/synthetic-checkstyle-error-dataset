@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "61", "message": "'array initialization' child has incorrect indentation level 7, expected level should be one of the following: 6, 8.", "type": "Indentation"}

@@ -1,0 +1,4 @@
+57c57
+<     dispatcher.registerHandler(UserUpdatedEvent.class, new UserUpdatedEventHandler());
+---
+>     dispatcher.registerHandler(UserUpdatedEvent.class, new UserUpdatedEventHandler())	;

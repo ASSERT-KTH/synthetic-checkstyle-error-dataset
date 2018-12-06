@@ -1,0 +1,5 @@
+89,90c89
+<     assertTimeout(ofMillis(10000), () -> {
+<       // Create 10000 tasks and inside each callable instantiate the singleton class
+---
+>     assertTimeout(ofMillis(10000), () -> {      // Create 10000 tasks and inside each callable instantiate the singleton class

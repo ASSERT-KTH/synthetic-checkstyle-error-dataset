@@ -1,0 +1,5 @@
+94c94,95
+<     HtmlPasswordInput passwordInputPasswordField = (HtmlPasswordInput) page.getElementById("password");
+---
+>     HtmlPasswordInput passwordInputPasswordField = (
+> HtmlPasswordInput) page.getElementById("password");

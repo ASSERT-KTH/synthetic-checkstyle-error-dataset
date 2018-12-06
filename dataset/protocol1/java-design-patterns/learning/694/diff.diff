@@ -1,0 +1,5 @@
+45c45,46
+<     return t.getColor().equals(c);
+---
+>     return t.getColor().
+> equals(c);

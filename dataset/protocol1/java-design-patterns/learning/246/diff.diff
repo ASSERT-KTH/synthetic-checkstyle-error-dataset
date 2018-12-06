@@ -1,0 +1,4 @@
+122c122
+<       LOGGER.info("Deleting {} to database.", student.getName());
+---
+>       LOGGER.info(	"Deleting {} to database.", student.getName());

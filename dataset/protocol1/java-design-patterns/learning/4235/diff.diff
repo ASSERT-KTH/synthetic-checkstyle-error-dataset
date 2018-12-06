@@ -1,0 +1,4 @@
+58c58
+<         for (char c : line.toCharArray()) {
+---
+>         for (char c : line.	toCharArray()) {

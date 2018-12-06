@@ -1,0 +1,4 @@
+84c84
+<     LOGGER.info(rogueDouble.toString());
+---
+>    LOGGER.info(rogueDouble.toString());

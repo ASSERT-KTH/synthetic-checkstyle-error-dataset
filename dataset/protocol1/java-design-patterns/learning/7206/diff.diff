@@ -1,0 +1,5 @@
+36,37c36
+<  * The problem is solved with the Private Class Data pattern. We introduce {@link ImmutableStew}
+<  * class that contains {@link StewData}. The private data members of {@link Stew} are now in
+---
+>  * The problem is solved with the Private Class Data pattern. We introduce {@link ImmutableStew} * class that contains {@link StewData}. The private data members of {@link Stew} are now in

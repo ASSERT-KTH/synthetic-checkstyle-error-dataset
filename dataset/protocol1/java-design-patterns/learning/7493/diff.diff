@@ -1,0 +1,4 @@
+88c88
+<     LOGGER.info("Number of authors : {}", authorsCount);
+---
+>     LOGGER.info ("Number of authors : {}", authorsCount);

@@ -1,0 +1,4 @@
+42c42
+<         unitExtension = new Sergeant(this);
+---
+>        unitExtension = new Sergeant(this);

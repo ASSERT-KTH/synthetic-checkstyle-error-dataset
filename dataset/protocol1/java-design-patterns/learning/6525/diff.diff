@@ -1,0 +1,5 @@
+35,36c35
+< public final class CustomerNotFoundException extends BusinessException {
+<   private static final long serialVersionUID = -6972888602621778664L;
+---
+> public final class CustomerNotFoundException extends BusinessException {  private static final long serialVersionUID = -6972888602621778664L;

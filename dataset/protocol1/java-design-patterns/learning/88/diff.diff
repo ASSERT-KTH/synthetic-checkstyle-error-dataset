@@ -1,0 +1,4 @@
+43c43
+<     final Student firstStudent = new Student(1, "Adam", 'A');
+---
+>     final Student firstStudent = new Student(	1, "Adam", 'A');

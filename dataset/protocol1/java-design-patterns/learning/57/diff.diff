@@ -1,0 +1,4 @@
+33c33
+<       + "LNAME VARCHAR(100))";
+---
+>      + "LNAME VARCHAR(100))";

@@ -1,0 +1,5 @@
+72,73c72
+<     assertTrue(elfArmy instanceof ElfArmy);
+<     assertEquals(ElfArmy.DESCRIPTION, elfArmy.getDescription());
+---
+>     assertTrue(elfArmy instanceof ElfArmy);    assertEquals(ElfArmy.DESCRIPTION, elfArmy.getDescription());

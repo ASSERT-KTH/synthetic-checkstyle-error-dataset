@@ -1,0 +1,4 @@
+116c116
+<     Queue<Object> pendingWrites = channelToPendingWrites.get(key.channel());
+---
+>     Queue<Object> pendingWrites 	= channelToPendingWrites.get(key.channel());

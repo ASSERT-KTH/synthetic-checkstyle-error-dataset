@@ -1,0 +1,4 @@
+78c78
+<       final BallThread ballThread = new BallThread();
+---
+>        final BallThread ballThread = new BallThread();

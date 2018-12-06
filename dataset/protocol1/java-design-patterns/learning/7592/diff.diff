@@ -1,0 +1,5 @@
+54c54,55
+<     MongoConnectionPropertiesLoader.load();
+---
+>     MongoConnectionPropertiesLoader.load(
+> );

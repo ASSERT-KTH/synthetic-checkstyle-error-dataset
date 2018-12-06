@@ -1,0 +1,5 @@
+36,37c36
+<   void remove(Stats stat);
+< }
+---
+>   void remove(Stats stat);}

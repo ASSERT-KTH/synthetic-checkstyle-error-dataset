@@ -1,0 +1,4 @@
+67c67
+<         from("stream:in").to("direct:greetings");
+---
+>        from("stream:in").to("direct:greetings");

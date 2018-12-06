@@ -1,0 +1,4 @@
+42c42
+<     String in1 = (String) oldExchange.getIn().getBody();
+---
+>     String in1 = (	String) oldExchange.getIn().getBody();

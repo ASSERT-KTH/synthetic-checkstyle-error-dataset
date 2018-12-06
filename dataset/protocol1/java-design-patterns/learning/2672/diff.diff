@@ -1,0 +1,5 @@
+52c52,53
+<     Product product = new Product();
+---
+>     Product 
+> product = new Product();

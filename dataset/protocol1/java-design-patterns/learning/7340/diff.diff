@@ -1,0 +1,4 @@
+117c117
+<     assertEquals(this.expectedConfuseMethod, appender.getLastMessage());
+---
+>    assertEquals(this.expectedConfuseMethod, appender.getLastMessage());

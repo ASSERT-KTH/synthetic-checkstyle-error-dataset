@@ -1,0 +1,5 @@
+61c61,62
+<     customers.removeIf(customer -> customer.getId().equals(customerId));
+---
+>     customers.removeIf(customer -> customer.getId()
+> .equals(customerId));

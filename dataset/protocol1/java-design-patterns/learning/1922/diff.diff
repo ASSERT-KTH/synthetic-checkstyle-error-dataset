@@ -1,0 +1,5 @@
+55c55,56
+<     Thief thief = new Thief();
+---
+>     Thief thief = new 
+> Thief();

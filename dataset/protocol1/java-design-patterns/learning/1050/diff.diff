@@ -1,0 +1,4 @@
+59c59
+<     businessDelegate.setServiceType(ServiceType.JMS);
+---
+>     businessDelegate.	setServiceType(ServiceType.JMS);

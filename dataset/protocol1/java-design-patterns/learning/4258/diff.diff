@@ -1,0 +1,5 @@
+29c29,30
+< import javax.persistence.Column;
+---
+> import javax.persistence.Column
+> ;

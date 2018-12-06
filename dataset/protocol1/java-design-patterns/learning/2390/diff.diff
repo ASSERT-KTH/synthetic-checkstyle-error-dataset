@@ -1,0 +1,5 @@
+46,47c46
+<     ballItem.setTwin(ballThread);
+<     ballThread.setTwin(ballItem);
+---
+>     ballItem.setTwin(ballThread);    ballThread.setTwin(ballItem);

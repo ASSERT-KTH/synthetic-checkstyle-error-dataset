@@ -1,0 +1,4 @@
+46c46
+<     orcFactory = FactoryMaker.makeFactory(KingdomType.ORC);
+---
+>    orcFactory = FactoryMaker.makeFactory(KingdomType.ORC);

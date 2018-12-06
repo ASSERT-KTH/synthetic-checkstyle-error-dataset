@@ -1,0 +1,5 @@
+63,64c63
+<         from("{{wireTapEndpoint}}").log("WIRETAPPED ENDPOINT: ${body}");
+<       }
+---
+>         from("{{wireTapEndpoint}}").log("WIRETAPPED ENDPOINT: ${body}");      }

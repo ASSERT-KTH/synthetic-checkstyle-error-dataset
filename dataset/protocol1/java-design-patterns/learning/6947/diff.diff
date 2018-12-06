@@ -1,0 +1,5 @@
+40,41c40
+<     bind(LotteryEventLog.class).to(StdOutEventLog.class);
+<     bind(WireTransfers.class).to(InMemoryBank.class);
+---
+>     bind(LotteryEventLog.class).to(StdOutEventLog.class);    bind(WireTransfers.class).to(InMemoryBank.class);

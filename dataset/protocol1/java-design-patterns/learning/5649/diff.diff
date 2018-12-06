@@ -1,0 +1,4 @@
+78c78
+<     Spell spell = spellDao.findByName(name);
+---
+>     Spell spell = spellDao.	findByName(name);

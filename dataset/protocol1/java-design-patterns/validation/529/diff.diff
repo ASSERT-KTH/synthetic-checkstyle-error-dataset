@@ -1,0 +1,5 @@
+69,70c69
+<       obs.update(currentWeather);
+<     }
+---
+>       obs.update(currentWeather);    }

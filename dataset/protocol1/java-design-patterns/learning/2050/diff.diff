@@ -1,0 +1,5 @@
+29c29,30
+< public class TreasureChestItemIterator implements Iterator<Item> {
+---
+> public class 
+> TreasureChestItemIterator implements Iterator<Item> {

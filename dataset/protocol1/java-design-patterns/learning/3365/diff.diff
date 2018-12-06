@@ -1,0 +1,4 @@
+46c46
+<   public void setHealth(Health health) {
+---
+>   public 	void setHealth(Health health) {

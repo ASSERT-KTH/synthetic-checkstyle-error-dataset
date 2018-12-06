@@ -1,0 +1,5 @@
+42c42,43
+<     msgQueue.submitMsg(new Message("MessageQueue Test"));
+---
+>     msgQueue.submitMsg(new Message("MessageQueue Test"
+> ));

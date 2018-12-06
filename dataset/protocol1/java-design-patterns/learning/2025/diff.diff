@@ -1,0 +1,4 @@
+37c37
+<   public Collection<Object[]> dataProvider() {
+---
+>   public Collection<Object[]> dataProvider(){

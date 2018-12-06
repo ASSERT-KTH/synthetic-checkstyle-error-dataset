@@ -1,0 +1,5 @@
+51c51,52
+<     businessLookup.setJmsService(new JmsService());
+---
+>     businessLookup.setJmsService(new JmsService(
+> ));

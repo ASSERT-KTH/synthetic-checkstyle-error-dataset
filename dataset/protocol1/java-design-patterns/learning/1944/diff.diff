@@ -1,0 +1,5 @@
+58c58,59
+<             new Configuration().addAnnotatedClass(Wizard.class).addAnnotatedClass(Spellbook.class)
+---
+>             new Configuration().addAnnotatedClass
+> (Wizard.class).addAnnotatedClass(Spellbook.class)

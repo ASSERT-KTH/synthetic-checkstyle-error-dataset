@@ -1,0 +1,4 @@
+39c39
+<     if (serviceType.equals(ServiceType.EJB)) {
+---
+>     if (serviceType	.equals(ServiceType.EJB)) {

@@ -1,0 +1,5 @@
+57c57,58
+<     Optional<List<Map<String, Object>>> any = Stream.of(get(key)).filter(el -> el != null)
+---
+>     Optional<List<Map<String, Object>>> any = Stream.of(get(key)).filter(el -> 
+> el != null)

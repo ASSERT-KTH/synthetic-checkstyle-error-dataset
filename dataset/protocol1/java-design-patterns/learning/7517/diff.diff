@@ -1,0 +1,4 @@
+33c33
+< public class Sergeant implements SergeantExtension {
+---
+>  public class Sergeant implements SergeantExtension {

@@ -1,0 +1,4 @@
+45c45
+<     return t.getSize().equals(s);
+---
+>    return t.getSize().equals(s);

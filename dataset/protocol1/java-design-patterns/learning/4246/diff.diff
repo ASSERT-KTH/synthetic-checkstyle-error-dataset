@@ -1,0 +1,4 @@
+33c33
+< public class SimpleTroll implements Troll {
+---
+>  public class SimpleTroll implements Troll {

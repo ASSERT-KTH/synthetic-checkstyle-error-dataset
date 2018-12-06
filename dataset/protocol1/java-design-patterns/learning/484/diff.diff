@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public class ElfBeast extends Beast {
+---
+>  */public class ElfBeast extends Beast {

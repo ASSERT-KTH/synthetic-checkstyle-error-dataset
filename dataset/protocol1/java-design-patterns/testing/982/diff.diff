@@ -1,0 +1,5 @@
+43,44c43
+<  * A web browser automation tool/framework like Selenium for instance, is then used to drive the automating
+<  * of the browser navigation and user actions journeys through this web application. Your test class would
+---
+>  * A web browser automation tool/framework like Selenium for instance, is then used to drive the automating * of the browser navigation and user actions journeys through this web application. Your test class would

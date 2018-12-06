@@ -1,0 +1,4 @@
+55c55
+<     LOGGER.info("Constructing parts and car");
+---
+>     LOGGER.info(	"Constructing parts and car");

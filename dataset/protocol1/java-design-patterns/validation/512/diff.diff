@@ -1,0 +1,4 @@
+60c60
+<     Message msg = new SimpleMessage();
+---
+>     Message msg= new SimpleMessage();

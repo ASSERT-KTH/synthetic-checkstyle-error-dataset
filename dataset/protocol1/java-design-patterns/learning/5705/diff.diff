@@ -1,0 +1,4 @@
+177c177
+<         while (!isLockFree()) {
+---
+>          while (!isLockFree()) {

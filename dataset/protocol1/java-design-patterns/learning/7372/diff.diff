@@ -1,0 +1,4 @@
+17c17
+< import org.apache.isis.core.specsupport.specs.CukeGlueAbstract;
+---
+>  import org.apache.isis.core.specsupport.specs.CukeGlueAbstract;

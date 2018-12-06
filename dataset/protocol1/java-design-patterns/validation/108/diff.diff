@@ -1,0 +1,4 @@
+47c47
+<   public Converter(final Function<T, U> fromDto, final Function<U, T> fromEntity) {
+---
+>   public Converter(final Function<T, 	U> fromDto, final Function<U, T> fromEntity) {

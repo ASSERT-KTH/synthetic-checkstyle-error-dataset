@@ -1,0 +1,5 @@
+45c45,46
+<     final Royalty royalty = mock(Royalty.class);
+---
+>     final Royalty royalty = 
+> mock(Royalty.class);

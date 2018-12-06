@@ -1,0 +1,4 @@
+35c35
+<         .withRunScriptDropDown(FixtureScriptsSpecification.DropDownPolicy.CHOICES)
+---
+>         .withRunScriptDropDown(FixtureScriptsSpecification	.DropDownPolicy.CHOICES)

@@ -1,0 +1,5 @@
+69c69,70
+<     template.sendBody("direct:origin", "Hello from origin");
+---
+>     template.sendBody("direct:origin", 
+> "Hello from origin");

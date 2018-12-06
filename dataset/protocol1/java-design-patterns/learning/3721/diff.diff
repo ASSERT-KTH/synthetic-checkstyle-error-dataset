@@ -1,0 +1,4 @@
+38c38
+<   private static final SessionFactory SESSIONFACTORY = buildSessionFactory();
+---
+>   private static final SessionFactory SESSIONFACTORY = 	buildSessionFactory();

@@ -1,0 +1,4 @@
+68c68
+<     int apples = 0;
+---
+>     int apples= 0;

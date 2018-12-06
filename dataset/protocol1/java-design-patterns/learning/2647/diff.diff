@@ -1,0 +1,5 @@
+93c93,94
+<       String data = loader.loadData();
+---
+>       String data = loader
+> .loadData();

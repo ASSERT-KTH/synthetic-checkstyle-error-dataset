@@ -1,0 +1,4 @@
+41c41
+<     LOGGER.info("Treasure chest opens.");
+---
+>     LOGGER.info(	"Treasure chest opens.");

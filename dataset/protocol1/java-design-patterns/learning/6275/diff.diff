@@ -1,0 +1,4 @@
+87c87
+<     final MagicServiceImpl service = new MagicServiceImpl(wizardDao, spellbookDao, spellDao);
+---
+>    final MagicServiceImpl service = new MagicServiceImpl(wizardDao, spellbookDao, spellDao);

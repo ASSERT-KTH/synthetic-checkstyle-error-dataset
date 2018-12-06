@@ -1,0 +1,5 @@
+78c78,79
+<     service.submit(new FutureTask<T>(task) {
+---
+>     service.submit(new FutureTask<
+> T>(task) {

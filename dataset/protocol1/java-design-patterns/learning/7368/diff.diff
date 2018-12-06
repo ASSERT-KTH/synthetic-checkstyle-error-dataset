@@ -1,0 +1,4 @@
+37c37
+<   public void smoke(Wizard wizard) {
+---
+>   public void smoke(Wizard wizard){

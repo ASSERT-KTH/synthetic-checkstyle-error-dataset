@@ -1,0 +1,4 @@
+69c69
+<     camelContext.createProducerTemplate().sendBody("{{entry}}", stringArray);
+---
+>     camelContext.createProducerTemplate().sendBody("{{entry}}", stringArray)	;

@@ -1,0 +1,4 @@
+87c87
+<   public Type type() {
+---
+>   public Type type(){

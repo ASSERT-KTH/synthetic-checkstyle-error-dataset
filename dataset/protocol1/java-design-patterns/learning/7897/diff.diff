@@ -1,0 +1,4 @@
+68c68
+<       if (!paidGroup.contains(user)) {
+---
+>       if (!paidGroup.contains(user)	) {

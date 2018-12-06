@@ -1,0 +1,5 @@
+36c36,37
+<     if (order.getDepositNumber() == null || order.getDepositNumber().isEmpty()) {
+---
+>     if (order.getDepositNumber() == null || order
+> .getDepositNumber().isEmpty()) {

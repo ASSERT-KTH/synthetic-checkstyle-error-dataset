@@ -1,0 +1,4 @@
+53c53
+<     Map<String, Object> partProperties = new HashMap<>();
+---
+>     Map<String, Object> partProperties = new HashMap<>()	;

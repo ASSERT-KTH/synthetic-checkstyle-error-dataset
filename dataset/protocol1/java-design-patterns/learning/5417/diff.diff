@@ -1,0 +1,4 @@
+60c60
+<     this.loader = new FileLoader();
+---
+>    this.loader = new FileLoader();

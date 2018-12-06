@@ -1,0 +1,4 @@
+49c49
+<   private AsyncTask<Object> task;
+---
+>   private AsyncTask< Object> task;

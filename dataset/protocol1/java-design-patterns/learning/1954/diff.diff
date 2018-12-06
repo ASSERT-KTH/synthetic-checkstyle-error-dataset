@@ -1,0 +1,4 @@
+51c51
+<       return new ServiceImpl("jndi/serviceB");
+---
+>       return 	new ServiceImpl("jndi/serviceB");

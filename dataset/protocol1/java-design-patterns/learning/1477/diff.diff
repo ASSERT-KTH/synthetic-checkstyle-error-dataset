@@ -1,0 +1,4 @@
+52c52
+<         .changeAlbumRating("B")
+---
+>         	.changeAlbumRating("B")

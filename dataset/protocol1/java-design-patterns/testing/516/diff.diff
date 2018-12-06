@@ -1,0 +1,4 @@
+27c27
+< import org.springframework.stereotype.Component;
+---
+> import org.springframework.	stereotype.Component;

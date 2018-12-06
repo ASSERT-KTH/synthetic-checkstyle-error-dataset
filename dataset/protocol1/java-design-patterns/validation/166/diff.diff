@@ -1,0 +1,5 @@
+101,102c101
+<     assertNull(filter.getNext());
+<     assertSame(filter, filter.getLast());
+---
+>     assertNull(filter.getNext());    assertSame(filter, filter.getLast());

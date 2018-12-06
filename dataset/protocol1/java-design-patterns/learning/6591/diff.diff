@@ -1,0 +1,4 @@
+46c46
+<     final MessageCollectorMember collector = new MessageCollectorMember("collector");
+---
+>     final MessageCollectorMember collector = new MessageCollectorMember(	"collector");

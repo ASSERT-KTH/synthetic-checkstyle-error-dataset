@@ -1,0 +1,5 @@
+79,80c79
+<    */
+<   public LoginPage enterUsername(String username) {
+---
+>    */  public LoginPage enterUsername(String username) {

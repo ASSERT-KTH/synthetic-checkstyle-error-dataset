@@ -1,0 +1,5 @@
+65,66c65
+<     assertEquals("Canon Printer : Test Message Printed", appender.getLastMessage());
+<   }
+---
+>     assertEquals("Canon Printer : Test Message Printed", appender.getLastMessage());  }

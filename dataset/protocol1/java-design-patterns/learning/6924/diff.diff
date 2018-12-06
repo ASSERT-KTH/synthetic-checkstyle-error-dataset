@@ -1,0 +1,5 @@
+65,66c65
+<   @MethodSource("dataProvider")
+<   public void testGetSize(Creature testedCreature, String name, Size size) {
+---
+>   @MethodSource("dataProvider")  public void testGetSize(Creature testedCreature, String name, Size size) {

@@ -1,0 +1,4 @@
+107c107
+<     AppManager.initCachingPolicy(CachingPolicy.AROUND);
+---
+>     AppManager.initCachingPolicy (CachingPolicy.AROUND);

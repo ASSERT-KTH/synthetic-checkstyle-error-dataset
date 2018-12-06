@@ -1,0 +1,5 @@
+45c45,46
+<     LOGGER.info("[Commander] " + unit.getName() + " is ready!");
+---
+>     LOGGER.info("[Commander] " + unit
+> .getName() + " is ready!");

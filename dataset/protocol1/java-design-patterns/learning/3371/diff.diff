@@ -1,0 +1,5 @@
+40,41c40
+<     assertNull(exception.getMessage());
+<     assertNull(exception.getCause());
+---
+>     assertNull(exception.getMessage());    assertNull(exception.getCause());

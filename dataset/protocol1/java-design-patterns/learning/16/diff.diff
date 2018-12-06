@@ -1,0 +1,4 @@
+50c50
+<   private LotteryNumbers() {
+---
+>   private LotteryNumbers(	) {

@@ -1,0 +1,4 @@
+96c96
+<     try (Writer output = new BufferedWriter(
+---
+>     try 	(Writer output = new BufferedWriter(

@@ -1,0 +1,5 @@
+63,64c63
+<     menuStore.registerView(menuView);
+<     ContentView contentView = new ContentView();
+---
+>     menuStore.registerView(menuView);    ContentView contentView = new ContentView();

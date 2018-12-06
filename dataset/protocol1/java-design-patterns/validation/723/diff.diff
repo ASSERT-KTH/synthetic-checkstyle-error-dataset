@@ -1,0 +1,5 @@
+35,36c35
+<     super(ActionType.CONTENT_CHANGED);
+<     this.content = content;
+---
+>     super(ActionType.CONTENT_CHANGED);    this.content = content;

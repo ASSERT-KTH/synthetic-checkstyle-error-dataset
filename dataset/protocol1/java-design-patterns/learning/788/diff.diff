@@ -1,0 +1,4 @@
+52c52
+<     this.lock = new Object();
+---
+>      this.lock = new Object();

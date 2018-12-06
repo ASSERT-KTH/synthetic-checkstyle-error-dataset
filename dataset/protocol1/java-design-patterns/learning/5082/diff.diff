@@ -1,0 +1,5 @@
+40,41c40
+<     items.add(new Item(ItemType.RING, "Ring of shadows"));
+<     items.add(new Item(ItemType.POTION, "Potion of wisdom"));
+---
+>     items.add(new Item(ItemType.RING, "Ring of shadows"));    items.add(new Item(ItemType.POTION, "Potion of wisdom"));

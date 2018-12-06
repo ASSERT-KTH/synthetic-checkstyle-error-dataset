@@ -1,0 +1,4 @@
+96c96
+<     RandomNumberGenerator generator = new RandomNumberGenerator(MIN_NUMBER, MAX_NUMBER);
+---
+>     RandomNumberGenerator generator = new RandomNumberGenerator(MIN_NUMBER, MAX_NUMBER)	;

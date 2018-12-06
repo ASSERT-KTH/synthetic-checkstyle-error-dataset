@@ -1,0 +1,4 @@
+36c36
+<     this.giant = giant;
+---
+>      this.giant = giant;

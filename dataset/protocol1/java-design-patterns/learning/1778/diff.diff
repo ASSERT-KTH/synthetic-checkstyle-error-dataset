@@ -1,0 +1,4 @@
+45c45
+<   public void testColor() {
+---
+>   	public void testColor() {

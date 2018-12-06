@@ -1,0 +1,5 @@
+164,165c164
+<       assertFalse(promise.isCancelled());
+<     }
+---
+>       assertFalse(promise.isCancelled());    }

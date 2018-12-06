@@ -1,0 +1,4 @@
+36c36
+<   public Semaphore(int licenses) {
+---
+>   public Semaphore (int licenses) {

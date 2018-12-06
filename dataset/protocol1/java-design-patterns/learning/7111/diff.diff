@@ -1,0 +1,5 @@
+78,79c78
+<    * @param other              The other object
+<    * @param expectTargetOnFire The expected state of fire on the target object
+---
+>    * @param other              The other object   * @param expectTargetOnFire The expected state of fire on the target object

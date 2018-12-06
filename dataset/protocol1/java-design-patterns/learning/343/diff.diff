@@ -1,0 +1,5 @@
+98c98,99
+<     accountFrom.handleTransferFromEvent(this);
+---
+>     accountFrom.handleTransferFromEvent(
+> this);

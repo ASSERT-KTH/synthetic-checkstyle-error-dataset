@@ -1,0 +1,4 @@
+44c44
+< public class AggregatorRoute extends RouteBuilder {
+---
+> public class AggregatorRoute 	extends RouteBuilder {

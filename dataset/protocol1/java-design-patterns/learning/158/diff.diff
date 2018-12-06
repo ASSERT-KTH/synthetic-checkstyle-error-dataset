@@ -1,0 +1,4 @@
+74c74
+<     verifyGoblin(goblin, GOBLIN, Size.SMALL, Visibility.INVISIBLE);
+---
+>     verifyGoblin(goblin, GOBLIN, Size.SMALL	, Visibility.INVISIBLE);

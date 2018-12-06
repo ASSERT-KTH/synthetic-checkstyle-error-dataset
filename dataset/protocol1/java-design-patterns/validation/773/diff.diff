@@ -1,0 +1,4 @@
+43c43
+<       json.append(getString(video, Video.class.getDeclaredField(fields[i])));
+---
+>       json.append(	getString(video, Video.class.getDeclaredField(fields[i])));

@@ -1,0 +1,5 @@
+45c45,46
+<   private class DocumentImplementation extends AbstractDocument {
+---
+>   private class 
+> DocumentImplementation extends AbstractDocument {

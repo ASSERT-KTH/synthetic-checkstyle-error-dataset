@@ -1,0 +1,5 @@
+33c33,34
+< public class UserUpdatedEventHandler implements Handler<UserUpdatedEvent> {
+---
+> public class UserUpdatedEventHandler implements Handler
+> <UserUpdatedEvent> {

@@ -1,0 +1,5 @@
+47,48c47
+<  * and the logic they implement: data loaders, user interfaces, integration gateways, and others.
+<  * Despite their different purposes, these interfaces often need common interactions with the
+---
+>  * and the logic they implement: data loaders, user interfaces, integration gateways, and others. * Despite their different purposes, these interfaces often need common interactions with the

@@ -1,0 +1,4 @@
+35c35
+<   public InitializingOnDemandHolderIdiomTest() {
+---
+>  public InitializingOnDemandHolderIdiomTest() {

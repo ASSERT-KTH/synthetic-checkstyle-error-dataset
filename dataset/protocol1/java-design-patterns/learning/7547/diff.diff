@@ -1,0 +1,4 @@
+40c40
+<   public StoppingData(LocalDateTime when) {
+---
+>  public StoppingData(LocalDateTime when) {

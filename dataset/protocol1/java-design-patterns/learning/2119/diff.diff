@@ -1,0 +1,5 @@
+80c80,81
+<   boolean delete(Customer customer) throws Exception;
+---
+>   boolean delete(Customer customer) 
+> throws Exception;

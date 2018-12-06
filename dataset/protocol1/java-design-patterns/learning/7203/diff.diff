@@ -1,0 +1,4 @@
+95c95
+<     assertEquals("The mammoth", toString);
+---
+>     assertEquals("The mammoth", toString	);

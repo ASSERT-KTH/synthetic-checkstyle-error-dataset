@@ -1,0 +1,4 @@
+49c49
+<     from("{{entry}}").wireTap("direct:wireTap").to("{{endpoint}}");
+---
+>    from("{{entry}}").wireTap("direct:wireTap").to("{{endpoint}}");

@@ -1,0 +1,4 @@
+37c37
+<   private final Size s;
+---
+>  private final Size s;

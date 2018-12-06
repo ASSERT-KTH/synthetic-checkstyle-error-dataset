@@ -1,0 +1,5 @@
+42,43c42
+<     this.id = Optional.of(id);
+<     this.name = name;
+---
+>     this.id = Optional.of(id);    this.name = name;

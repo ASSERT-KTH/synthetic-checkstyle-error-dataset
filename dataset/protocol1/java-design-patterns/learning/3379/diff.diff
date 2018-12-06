@@ -1,0 +1,5 @@
+53,54c53
+<       prototype.remove(stat);
+<       assertFalse(prototype.has(stat));
+---
+>       prototype.remove(stat);      assertFalse(prototype.has(stat));

@@ -1,0 +1,5 @@
+66,67c66
+<     sourceList.add(e);
+<     LOGGER.info("notifying");
+---
+>     sourceList.add(e);    LOGGER.info("notifying");

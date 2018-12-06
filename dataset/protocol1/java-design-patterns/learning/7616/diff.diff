@@ -1,0 +1,5 @@
+46c46,47
+<     assertEquals(ticket1, ticket2);
+---
+>     assertEquals(ticket1, ticket2
+> );

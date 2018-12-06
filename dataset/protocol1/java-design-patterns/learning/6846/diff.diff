@@ -1,0 +1,4 @@
+71c71
+<     LOGGER.info("REN={}", NazgulEnum.REN);
+---
+>     LOGGER.info("REN={}", NazgulEnum.	REN);

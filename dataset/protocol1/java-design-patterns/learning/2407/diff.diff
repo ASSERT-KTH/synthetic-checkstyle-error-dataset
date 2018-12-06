@@ -1,0 +1,5 @@
+54,55c54
+<       final BallItem ballItem = mock(BallItem.class);
+<       ballThread.setTwin(ballItem);
+---
+>       final BallItem ballItem = mock(BallItem.class);      ballThread.setTwin(ballItem);

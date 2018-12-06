@@ -1,0 +1,4 @@
+33c33
+<   public void test() throws Exception {
+---
+>   public void test() throws Exception{

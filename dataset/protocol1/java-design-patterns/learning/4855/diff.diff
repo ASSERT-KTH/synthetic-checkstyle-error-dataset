@@ -1,0 +1,5 @@
+104c104,105
+<     return address != null ? address.equals(person.address) : person.address == null;
+---
+>     return address != null ? 
+> address.equals(person.address) : person.address == null;

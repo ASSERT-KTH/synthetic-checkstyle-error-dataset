@@ -1,0 +1,4 @@
+68c68
+<         logger.info( "Unfortunately the lottery ticket did not win." );
+---
+>         logger.info( 	"Unfortunately the lottery ticket did not win." );

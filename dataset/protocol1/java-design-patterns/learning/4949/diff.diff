@@ -1,0 +1,4 @@
+60c60
+<     Arrays.setAll(children, (i) -> mock(Unit.class));
+---
+>    Arrays.setAll(children, (i) -> mock(Unit.class));

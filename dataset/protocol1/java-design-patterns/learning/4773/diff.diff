@@ -1,0 +1,4 @@
+38c38
+<     final Unit unit = new CommanderUnit("CommanderUnitName");
+---
+>     final Unit unit =new CommanderUnit("CommanderUnitName");

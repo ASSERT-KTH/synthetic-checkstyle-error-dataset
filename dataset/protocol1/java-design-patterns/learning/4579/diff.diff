@@ -1,0 +1,4 @@
+90c90
+<       throw new MaxNumOfEventsAllowedException("Too many events are running at the moment. Please try again later.");
+---
+>      throw new MaxNumOfEventsAllowedException("Too many events are running at the moment. Please try again later.");

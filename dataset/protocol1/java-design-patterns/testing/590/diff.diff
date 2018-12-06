@@ -1,0 +1,4 @@
+34c34
+< public interface CakeLayerDao extends CrudRepository<CakeLayer, Long> {
+---
+> public interface CakeLayerDao extends CrudRepository<CakeLayer, Long>{

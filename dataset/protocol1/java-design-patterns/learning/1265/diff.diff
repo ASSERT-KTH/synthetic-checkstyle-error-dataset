@@ -1,0 +1,4 @@
+50c50
+<     this.username = username;
+---
+>     this	.username = username;

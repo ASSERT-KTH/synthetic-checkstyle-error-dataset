@@ -1,0 +1,4 @@
+36c36
+<     queue = new ArrayBlockingQueue<>(bound);
+---
+>    queue = new ArrayBlockingQueue<>(bound);

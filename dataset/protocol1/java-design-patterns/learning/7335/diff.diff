@@ -1,0 +1,4 @@
+40c40
+<   public void testGetEventType() {
+---
+>   public void testGetEventType () {

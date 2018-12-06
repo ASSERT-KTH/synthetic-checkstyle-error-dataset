@@ -1,0 +1,4 @@
+48c48
+<         LOGGER.info("The happy hobbits bade in the warm sun.");
+---
+>         LOGGER.info ("The happy hobbits bade in the warm sun.");

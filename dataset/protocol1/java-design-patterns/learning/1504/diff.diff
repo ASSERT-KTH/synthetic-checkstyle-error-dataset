@@ -1,0 +1,4 @@
+53c53
+<     owner = Thread.currentThread();
+---
+>     owner = Thread.	currentThread();

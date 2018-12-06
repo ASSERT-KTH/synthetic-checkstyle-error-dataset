@@ -1,0 +1,4 @@
+73c73
+<         this.submit(new Message(statusMsg));
+---
+>         this.submit(new Message (statusMsg));

@@ -1,0 +1,4 @@
+63c63
+<     semaphore = new Semaphore(3);
+---
+>     semaphore 	= new Semaphore(3);

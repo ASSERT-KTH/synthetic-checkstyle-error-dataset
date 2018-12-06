@@ -1,0 +1,5 @@
+44,45c44
+<  * captain needs a rowing boat which he can operate. The spec is in {@link RowingBoat}. We will
+<  * use the Adapter pattern to reuse {@link FishingBoat}.
+---
+>  * captain needs a rowing boat which he can operate. The spec is in {@link RowingBoat}. We will * use the Adapter pattern to reuse {@link FishingBoat}.

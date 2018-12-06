@@ -1,0 +1,5 @@
+28,29c28
+< @DomainService(nature = NatureOfService.DOMAIN)
+< public class DomainAppFixturesProvider implements FixtureScriptsSpecificationProvider {
+---
+> @DomainService(nature = NatureOfService.DOMAIN)public class DomainAppFixturesProvider implements FixtureScriptsSpecificationProvider {

@@ -1,0 +1,5 @@
+52c52,53
+<     User user = new User("Paid User");
+---
+>     User user = 
+> new User("Paid User");

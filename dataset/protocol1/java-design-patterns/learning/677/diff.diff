@@ -1,0 +1,4 @@
+40c40
+<   private final MessageQueue msgQueue;
+---
+>   private final 	MessageQueue msgQueue;

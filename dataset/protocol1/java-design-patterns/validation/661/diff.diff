@@ -1,0 +1,5 @@
+44c44,45
+<     LOGGER.info("[Solider] " + unit.getName() + "  is ready!");
+---
+>     
+> LOGGER.info("[Solider] " + unit.getName() + "  is ready!");

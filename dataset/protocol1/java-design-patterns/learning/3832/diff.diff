@@ -1,0 +1,5 @@
+47,48c47
+<    * @param readLock - Lock for this reader
+<    * @param readingTime - amount of time (in milliseconds) for this reader to engage reading
+---
+>    * @param readLock - Lock for this reader   * @param readingTime - amount of time (in milliseconds) for this reader to engage reading

@@ -1,0 +1,5 @@
+33c33,34
+< import static org.junit.jupiter.api.Assertions.assertTrue;
+---
+> import static 
+> org.junit.jupiter.api.Assertions.assertTrue;

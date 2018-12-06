@@ -1,0 +1,4 @@
+36c36
+<     super(CoffeeMakingTask::new, 100);
+---
+>     super(CoffeeMakingTask::new, 100)	;

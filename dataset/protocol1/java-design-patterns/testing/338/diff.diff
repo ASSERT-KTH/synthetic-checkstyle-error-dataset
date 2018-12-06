@@ -1,0 +1,4 @@
+50c50
+<   public Inventory(int inventorySize) {
+---
+>  public Inventory(int inventorySize) {

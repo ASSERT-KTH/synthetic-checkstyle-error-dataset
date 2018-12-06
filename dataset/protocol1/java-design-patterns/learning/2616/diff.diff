@@ -1,0 +1,4 @@
+36c36
+<     super(Weekday.TUESDAY, Event.WARSHIPS_APPROACHING, Scout::new, Scout::new);
+---
+>     super(Weekday	.TUESDAY, Event.WARSHIPS_APPROACHING, Scout::new, Scout::new);

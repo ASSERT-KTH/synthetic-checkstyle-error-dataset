@@ -1,0 +1,4 @@
+105c105
+<         assertSame(expectedInstance, instance);
+---
+>        assertSame(expectedInstance, instance);

@@ -1,0 +1,4 @@
+36c36
+<   default Optional<String> getType() {
+---
+>   default Optional<String> getType() 	{

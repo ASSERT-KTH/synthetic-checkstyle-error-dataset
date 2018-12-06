@@ -1,0 +1,4 @@
+38c38
+<   public OrcMage(OrcMage orcMage) {
+---
+>   public OrcMage(	OrcMage orcMage) {

@@ -1,0 +1,5 @@
+118c118,119
+<   public void queryLotteryAccountFunds(WireTransfers bank, Scanner scanner) {
+---
+>   public void queryLotteryAccountFunds(WireTransfers bank, Scanner 
+> scanner) {

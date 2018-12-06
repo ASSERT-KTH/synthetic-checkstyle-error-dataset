@@ -1,0 +1,5 @@
+33c33,34
+< public class SpaceStationMir extends GameObject {
+---
+> public class SpaceStationMir 
+> extends GameObject {

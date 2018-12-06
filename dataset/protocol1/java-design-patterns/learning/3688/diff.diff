@@ -1,0 +1,5 @@
+102c102,103
+<     LOGGER.info("Enumerating bottom shelf potions\n");
+---
+>     LOGGER
+> .info("Enumerating bottom shelf potions\n");

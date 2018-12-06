@@ -1,0 +1,4 @@
+44c44
+<     LOGGER.info("Epson Printer : {}", message);
+---
+>     LOGGER.info(	"Epson Printer : {}", message);

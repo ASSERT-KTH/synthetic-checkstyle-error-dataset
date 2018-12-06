@@ -1,0 +1,5 @@
+45c45,46
+<     ((Logger) LoggerFactory.getLogger("root")).addAppender(this);
+---
+>     ((Logger) LoggerFactory.getLogger("root")).addAppender(this)
+> ;

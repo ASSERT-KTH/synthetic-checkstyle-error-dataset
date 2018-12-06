@@ -1,0 +1,5 @@
+60c60,61
+<       book = (Book) query.uniqueResult();
+---
+>       
+> book = (Book) query.uniqueResult();

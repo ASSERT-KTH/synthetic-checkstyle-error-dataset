@@ -1,0 +1,4 @@
+51c51
+<     presenter.setLoader(loader);
+---
+>      presenter.setLoader(loader);

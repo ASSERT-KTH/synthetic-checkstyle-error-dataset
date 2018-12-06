@@ -1,0 +1,5 @@
+48c48,49
+<   void registerDeleted(T entity);
+---
+>   void 
+> registerDeleted(T entity);

@@ -1,0 +1,4 @@
+73c73
+<     assertEquals(tobaccos.length, appender.getLogSize());
+---
+>    assertEquals(tobaccos.length, appender.getLogSize());

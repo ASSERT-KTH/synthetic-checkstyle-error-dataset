@@ -1,0 +1,4 @@
+57c57
+<     Part part = new Part(partProperties);
+---
+>     Part part= new Part(partProperties);

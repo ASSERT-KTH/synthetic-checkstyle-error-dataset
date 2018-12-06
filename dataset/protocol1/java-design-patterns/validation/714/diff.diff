@@ -1,0 +1,4 @@
+46c46
+<     currentWeather = WeatherType.SUNNY;
+---
+>    currentWeather = WeatherType.SUNNY;

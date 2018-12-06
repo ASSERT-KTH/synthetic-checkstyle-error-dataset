@@ -1,0 +1,5 @@
+25c25,26
+< public class CatalogOfFixturesGlue extends CukeGlueAbstract {
+---
+> public class CatalogOfFixturesGlue extends CukeGlueAbstract 
+> {

@@ -1,0 +1,4 @@
+54c54
+<     final Cake cake = new Cake();
+---
+>     final Cake cake 	= new Cake();

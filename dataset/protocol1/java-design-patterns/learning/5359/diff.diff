@@ -1,0 +1,5 @@
+33c33,34
+<   public abstract Warlord copy() throws CloneNotSupportedException;
+---
+>   public abstract Warlord copy() 
+> throws CloneNotSupportedException;

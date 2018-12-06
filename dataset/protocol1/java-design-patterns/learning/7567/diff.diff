@@ -1,0 +1,4 @@
+23c23
+< package com.iluwatar.flyweight;
+---
+> package com.	iluwatar.flyweight;

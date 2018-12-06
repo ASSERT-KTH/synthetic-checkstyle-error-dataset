@@ -1,0 +1,4 @@
+51c51
+<     assertEquals(4, mir.getBottom());
+---
+>     assertEquals(4, mir.getBottom(	));

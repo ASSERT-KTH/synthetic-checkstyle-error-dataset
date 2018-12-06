@@ -1,0 +1,4 @@
+99c99
+<       assertEquals(this.commanderResponse.get(), appender.getLastMessage());
+---
+>      assertEquals(this.commanderResponse.get(), appender.getLastMessage());

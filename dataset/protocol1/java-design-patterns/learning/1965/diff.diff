@@ -1,0 +1,5 @@
+28,29c28
+<  * Represents the event dispatching strategy. When {@link NioReactor} senses any event on the
+<  * registered {@link AbstractNioChannel}s then it de-multiplexes the event type, read or write or
+---
+>  * Represents the event dispatching strategy. When {@link NioReactor} senses any event on the * registered {@link AbstractNioChannel}s then it de-multiplexes the event type, read or write or

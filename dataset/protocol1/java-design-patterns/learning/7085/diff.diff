@@ -1,0 +1,4 @@
+36c36
+<   void act(Action action);
+---
+>   void act(Action action	);

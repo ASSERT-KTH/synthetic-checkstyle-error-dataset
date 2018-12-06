@@ -1,0 +1,4 @@
+77c77
+<     final StarMemento thirdMemento = star.getMemento();
+---
+>    final StarMemento thirdMemento = star.getMemento();

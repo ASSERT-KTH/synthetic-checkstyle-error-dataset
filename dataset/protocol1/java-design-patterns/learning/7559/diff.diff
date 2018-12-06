@@ -1,0 +1,4 @@
+93c93
+<   public void testAct(Supplier<PartyMember> memberSupplier) {
+---
+>   public void testAct(Supplier<PartyMember>memberSupplier) {

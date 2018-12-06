@@ -1,0 +1,5 @@
+45c45,46
+<   @When("^I create a new simple object$")
+---
+>   @
+> When("^I create a new simple object$")

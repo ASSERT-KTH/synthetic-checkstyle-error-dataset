@@ -1,0 +1,5 @@
+42c42,43
+<     HalflingThief thief = new HalflingThief(new HitAndRunMethod());
+---
+>     HalflingThief thief = 
+> new HalflingThief(new HitAndRunMethod());

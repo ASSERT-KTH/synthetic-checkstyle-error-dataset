@@ -1,0 +1,4 @@
+53c53
+<   public void accept(final DataType data) {
+---
+>   public void accept(final DataType data){

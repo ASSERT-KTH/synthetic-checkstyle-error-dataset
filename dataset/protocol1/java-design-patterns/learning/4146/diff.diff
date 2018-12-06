@@ -1,0 +1,4 @@
+45c45
+<     assertFalse(countries.isEmpty());
+---
+>     assertFalse(countries.isEmpty())	;

@@ -1,0 +1,5 @@
+50c50,51
+<     proxy.enter(new Wizard("White wizard"));
+---
+>     proxy.enter(new Wizard("White wizard"
+> ));

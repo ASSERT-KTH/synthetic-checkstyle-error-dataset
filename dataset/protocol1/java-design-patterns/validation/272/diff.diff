@@ -1,0 +1,4 @@
+26c26
+<   public MaxNumOfEventsAllowedException(String message) {
+---
+>  public MaxNumOfEventsAllowedException(String message) {

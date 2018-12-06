@@ -1,0 +1,5 @@
+46,47c46
+<     }
+<     LOGGER.info("... Heavy created");
+---
+>     }    LOGGER.info("... Heavy created");

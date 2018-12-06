@@ -1,0 +1,4 @@
+42c42
+<   void setNext(Filter filter);
+---
+>   void setNext(	Filter filter);

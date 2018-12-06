@@ -1,0 +1,4 @@
+43c43
+<     this.beans = beans;
+---
+>     this.beans = 	beans;

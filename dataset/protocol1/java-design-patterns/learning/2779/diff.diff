@@ -1,0 +1,4 @@
+44c44
+<     this.lock = lock;
+---
+>     this.lock 	= lock;

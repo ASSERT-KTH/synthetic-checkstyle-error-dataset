@@ -1,0 +1,5 @@
+105c105,106
+<   public void setFunds(String bankAccount, int amount) {
+---
+>   public void setFunds(String bankAccount, 
+> int amount) {

@@ -1,0 +1,4 @@
+26c26
+< import org.springframework.data.repository.CrudRepository;
+---
+> import org.springframework.data.repository	.CrudRepository;

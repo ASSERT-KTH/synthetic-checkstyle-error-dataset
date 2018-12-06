@@ -1,0 +1,5 @@
+125,126c125
+<     assertNotNull(level3);
+<     assertEquals("level3_a", level3.getName());
+---
+>     assertNotNull(level3);    assertEquals("level3_a", level3.getName());

@@ -1,0 +1,4 @@
+55c55
+<     emitters.add(kingsHand);
+---
+>      emitters.add(kingsHand);

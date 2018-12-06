@@ -1,0 +1,4 @@
+68c68
+<   public abstract void setName(final String name);
+---
+>   public abstract void 	setName(final String name);

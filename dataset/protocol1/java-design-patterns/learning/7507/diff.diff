@@ -1,0 +1,5 @@
+156,157c156
+<       log.add(eventObject);
+<     }
+---
+>       log.add(eventObject);    }

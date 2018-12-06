@@ -1,0 +1,4 @@
+32c32
+<   static final String DESCRIPTION = "This is the Orc castle!";
+---
+>   static final String DESCRIPTION = "This is the Orc castle!"	;

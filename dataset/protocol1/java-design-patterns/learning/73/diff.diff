@@ -1,0 +1,4 @@
+100c100
+<   private void testDamaged(final GameObject target, final GameObject other, final boolean expectedDamage) {
+---
+>   private void testDamaged(final GameObject 	target, final GameObject other, final boolean expectedDamage) {

@@ -1,0 +1,5 @@
+34,35c34
+<  * An event-driven architecture (EDA) is a framework that orchestrates behavior around the
+<  * production, detection and consumption of events as well as the responses they evoke. An event is
+---
+>  * An event-driven architecture (EDA) is a framework that orchestrates behavior around the * production, detection and consumption of events as well as the responses they evoke. An event is

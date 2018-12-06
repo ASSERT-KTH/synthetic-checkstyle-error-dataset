@@ -1,0 +1,4 @@
+49c49
+<   private final Function<EventObserver, E> factoryWithDefaultObserver;
+---
+>   private final Function<EventObserver	, E> factoryWithDefaultObserver;

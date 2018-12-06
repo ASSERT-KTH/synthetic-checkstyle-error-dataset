@@ -1,0 +1,5 @@
+56c56,57
+<       apiGatewayProxyResponseEvent = apiGatewayProxyResponseEvent(BAD_REQUEST_STATUS_CODE, null);
+---
+>       apiGatewayProxyResponseEvent = apiGatewayProxyResponseEvent
+> (BAD_REQUEST_STATUS_CODE, null);

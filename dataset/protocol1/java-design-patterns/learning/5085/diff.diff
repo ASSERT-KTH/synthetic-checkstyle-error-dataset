@@ -1,0 +1,4 @@
+141c141
+<     stdOutEventLog.ticketWon(details, prizeAmount);
+---
+>     stdOutEventLog.ticketWon(details	, prizeAmount);

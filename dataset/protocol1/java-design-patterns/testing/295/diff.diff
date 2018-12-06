@@ -1,0 +1,5 @@
+43,44c43
+<     assertEquals(1, fish.getAge());
+<     assertEquals(2, fish.getLengthMeters());
+---
+>     assertEquals(1, fish.getAge());    assertEquals(2, fish.getLengthMeters());

@@ -1,0 +1,4 @@
+38c38
+< import static org.junit.jupiter.api.Assertions.assertTimeout;
+---
+> import static org.junit	.jupiter.api.Assertions.assertTimeout;

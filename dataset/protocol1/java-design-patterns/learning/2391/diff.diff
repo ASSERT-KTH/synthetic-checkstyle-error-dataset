@@ -1,0 +1,5 @@
+85c85,86
+<     redAndFlyingCreatures.forEach(c -> LOGGER.info(c.toString()));
+---
+>     redAndFlyingCreatures.forEach(c -> LOGGER.info(
+> c.toString()));

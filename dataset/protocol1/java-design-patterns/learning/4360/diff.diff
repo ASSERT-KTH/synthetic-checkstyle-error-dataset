@@ -1,0 +1,4 @@
+30c30
+< public class ElfBlacksmith implements Blacksmith {
+---
+> public class ElfBlacksmith implements Blacksmith{

@@ -1,0 +1,4 @@
+30c30
+< public abstract class Task {
+---
+> public abstract class Task 	{

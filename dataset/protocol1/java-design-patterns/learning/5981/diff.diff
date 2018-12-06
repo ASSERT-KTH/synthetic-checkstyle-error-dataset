@@ -1,0 +1,4 @@
+30c30
+< public abstract class Beast extends Prototype {
+---
+> public abstract class Beast extends Prototype{

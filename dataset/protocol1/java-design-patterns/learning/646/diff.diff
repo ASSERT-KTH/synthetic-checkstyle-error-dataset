@@ -1,0 +1,4 @@
+49c49
+<     return Collections.unmodifiableMap(headers);
+---
+>     return Collections.unmodifiableMap(headers	);

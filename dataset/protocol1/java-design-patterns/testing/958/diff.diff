@@ -1,0 +1,4 @@
+55c55
+<         tuple(INFO, zoom + " used with Unix configurator."));
+---
+>        tuple(INFO, zoom + " used with Unix configurator."));

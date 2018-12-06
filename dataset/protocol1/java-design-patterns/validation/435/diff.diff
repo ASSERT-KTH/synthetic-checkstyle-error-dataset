@@ -1,0 +1,5 @@
+64,65c64
+<     states.add(star.getMemento());
+<     star.timePasses();
+---
+>     states.add(star.getMemento());    star.timePasses();

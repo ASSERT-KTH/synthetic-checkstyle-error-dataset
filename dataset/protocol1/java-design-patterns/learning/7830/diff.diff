@@ -1,0 +1,5 @@
+56,57c56
+<       serviceObj = (Service) ctx.lookup(serviceJndiName);
+<       if (serviceObj != null) { // Only cache a service if it actually exists
+---
+>       serviceObj = (Service) ctx.lookup(serviceJndiName);      if (serviceObj != null) { // Only cache a service if it actually exists

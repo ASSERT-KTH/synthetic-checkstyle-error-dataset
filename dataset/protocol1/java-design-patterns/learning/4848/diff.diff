@@ -1,0 +1,4 @@
+50c50
+<     assertEquals(firstBalancer.getNoOfServers(), secondBalancer.getNoOfServers());
+---
+>    assertEquals(firstBalancer.getNoOfServers(), secondBalancer.getNoOfServers());

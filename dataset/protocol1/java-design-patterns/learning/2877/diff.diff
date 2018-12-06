@@ -1,0 +1,5 @@
+46c46,47
+<       return new MetadataSources(registry).buildMetadata().buildSessionFactory();
+---
+>       return new MetadataSources(registry).buildMetadata().buildSessionFactory()
+> ;

@@ -1,0 +1,4 @@
+73c73
+<     String expectedDetails = "{\"id\": 1,\"title\": \"Avatar\",\"length\": 178}";
+---
+>     String 	expectedDetails = "{\"id\": 1,\"title\": \"Avatar\",\"length\": 178}";

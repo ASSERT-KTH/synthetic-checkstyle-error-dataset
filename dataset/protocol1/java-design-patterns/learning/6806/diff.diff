@@ -1,0 +1,5 @@
+54,55c54
+<     verifyNoMoreInteractions(simpleTroll);
+<   }
+---
+>     verifyNoMoreInteractions(simpleTroll);  }

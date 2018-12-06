@@ -1,0 +1,4 @@
+34c34
+<     App.main(new String[]{});
+---
+>     App.main(new String[]{}	);

@@ -1,0 +1,5 @@
+126,127c126
+<     stub.setFileName("etc/data/test.txt");
+<     presenter.start();
+---
+>     stub.setFileName("etc/data/test.txt");    presenter.start();

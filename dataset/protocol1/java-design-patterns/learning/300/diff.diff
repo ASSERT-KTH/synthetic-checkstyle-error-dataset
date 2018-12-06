@@ -1,0 +1,4 @@
+44c44
+<     assertEquals(3, rectangle.getRight());
+---
+>    assertEquals(3, rectangle.getRight());

@@ -1,0 +1,4 @@
+85c85
+<       public Trampoline<T> jump() {
+---
+>       public Trampoline<T> jump () {

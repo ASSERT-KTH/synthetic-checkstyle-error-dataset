@@ -1,0 +1,4 @@
+64c64
+<     Product testProduct = aggregator.getProduct();
+---
+>     Product testProduct = aggregator.getProduct()	;

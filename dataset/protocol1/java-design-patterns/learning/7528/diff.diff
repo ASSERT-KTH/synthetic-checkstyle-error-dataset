@@ -1,0 +1,4 @@
+81c81
+<     assertEquals("alchemist", character.getWizardClass());
+---
+>     assertEquals("alchemist", character	.getWizardClass());

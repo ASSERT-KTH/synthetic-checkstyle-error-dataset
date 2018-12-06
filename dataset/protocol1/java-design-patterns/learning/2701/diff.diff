@@ -1,0 +1,4 @@
+73c73
+<     mag.set(Stats.ARMOR, 8);
+---
+>     mag.set(Stats.ARMOR, 8)	;

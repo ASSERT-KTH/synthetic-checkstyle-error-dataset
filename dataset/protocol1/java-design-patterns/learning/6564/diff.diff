@@ -1,0 +1,4 @@
+86c86
+<   private boolean isLockFree() {
+---
+>   private boolean isLockFree(	) {

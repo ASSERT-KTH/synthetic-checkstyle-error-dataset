@@ -1,0 +1,5 @@
+37c37,38
+<   public Sentence(List<Word> words) {
+---
+>   public 
+> Sentence(List<Word> words) {

@@ -1,0 +1,5 @@
+45,46c45
+<     mammoth.timePasses();
+<     mammoth.observe();
+---
+>     mammoth.timePasses();    mammoth.observe();

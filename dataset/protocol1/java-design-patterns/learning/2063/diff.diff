@@ -1,0 +1,4 @@
+69c69
+<     Captain captain = (Captain) beans.get(ROWING_BEAN);
+---
+>     Captain captain = (Captain) beans.get(	ROWING_BEAN);

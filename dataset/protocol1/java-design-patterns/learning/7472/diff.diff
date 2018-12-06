@@ -1,0 +1,4 @@
+43c43
+<     assertEquals(UserCreatedEvent.class, userCreatedEvent.getType());
+---
+>     assertEquals(UserCreatedEvent.class, userCreatedEvent.getType ());

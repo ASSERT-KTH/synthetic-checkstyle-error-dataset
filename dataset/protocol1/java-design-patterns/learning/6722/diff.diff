@@ -1,0 +1,4 @@
+71c71
+<         user.getFirstName().toLowerCase() + user.getLastName().toLowerCase() + "@whatever.com"));
+---
+>        user.getFirstName().toLowerCase() + user.getLastName().toLowerCase() + "@whatever.com"));

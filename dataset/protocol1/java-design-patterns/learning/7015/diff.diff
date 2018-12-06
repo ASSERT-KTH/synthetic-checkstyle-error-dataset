@@ -1,0 +1,4 @@
+39c39
+<   public Worker(final Task task) {
+---
+>   public Worker(final 	Task task) {

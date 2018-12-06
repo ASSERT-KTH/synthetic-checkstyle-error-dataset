@@ -1,0 +1,4 @@
+54c54
+<     LOGGER.info("MURAZOR={}", Nazgul.getInstance(NazgulName.MURAZOR));
+---
+>     LOGGER.info("MURAZOR={}", Nazgul.getInstance(	NazgulName.MURAZOR));

@@ -1,0 +1,4 @@
+89c89
+<     assertEquals(expectTargetOnFire, target.isOnFire(), errorMessage);
+---
+>     assertEquals(expectTargetOnFire, target.	isOnFire(), errorMessage);

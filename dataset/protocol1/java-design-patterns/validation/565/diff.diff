@@ -1,0 +1,5 @@
+48,49c48
+<  * desktop device can see both price information and an image of a product, so the {@link ApiGateway}
+<  * calls both of the microservices and aggregates the data in the {@link DesktopProduct} model.
+---
+>  * desktop device can see both price information and an image of a product, so the {@link ApiGateway} * calls both of the microservices and aggregates the data in the {@link DesktopProduct} model.

@@ -1,0 +1,4 @@
+51c51
+<     LOGGER.info("{} casts {} at {}", this, command, target);
+---
+>     LOGGER.info("{} casts {} at {}", this	, command, target);

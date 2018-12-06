@@ -1,0 +1,4 @@
+55c55
+<    *     will be ignored if no tests are given
+---
+>    *    will be ignored if no tests are given

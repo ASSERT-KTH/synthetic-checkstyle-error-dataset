@@ -1,0 +1,4 @@
+111c111
+<     HtmlSubmitInput loginButton = (HtmlSubmitInput) page.getElementById("loginButton");
+---
+>     HtmlSubmitInput loginButton = (HtmlSubmitInput) page.	getElementById("loginButton");

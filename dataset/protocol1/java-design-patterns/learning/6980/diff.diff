@@ -1,0 +1,4 @@
+49c49
+<             new Object[]{new Dragon(), "Dragon", Size.LARGE, Movement.FLYING, Color.RED},
+---
+>             new Object[]{new Dragon(), "Dragon"	, Size.LARGE, Movement.FLYING, Color.RED},

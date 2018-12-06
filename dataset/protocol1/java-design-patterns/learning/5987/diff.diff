@@ -1,0 +1,4 @@
+76c76
+<     CakeDao cakeBean = context.getBean(CakeDao.class);
+---
+>     CakeDao cakeBean =context.getBean(CakeDao.class);

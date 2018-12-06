@@ -1,0 +1,4 @@
+61c61
+<     assertEquals(Integer.valueOf(1), iter.next().getVal(), "First Node is 1.");
+---
+>     assertEquals(Integer.valueOf(1), iter.next().	getVal(), "First Node is 1.");

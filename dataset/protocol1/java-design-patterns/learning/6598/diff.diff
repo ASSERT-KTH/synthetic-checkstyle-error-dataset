@@ -1,0 +1,4 @@
+51c51
+<     Weapon weapon = blacksmith.manufactureWeapon(WeaponType.SPEAR);
+---
+>     Weapon weapon 	= blacksmith.manufactureWeapon(WeaponType.SPEAR);

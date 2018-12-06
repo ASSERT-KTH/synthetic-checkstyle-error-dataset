@@ -1,0 +1,4 @@
+41c41
+< import de.agilecoders.wicket.core.Bootstrap;
+---
+> import de.agilecoders.wicket.core.	Bootstrap;

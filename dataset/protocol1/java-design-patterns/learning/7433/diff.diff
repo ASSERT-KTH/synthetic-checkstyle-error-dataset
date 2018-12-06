@@ -1,0 +1,4 @@
+31c31
+<   long doRemoteFunction(int value) throws Exception;
+---
+>  long doRemoteFunction(int value) throws Exception;

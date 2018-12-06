@@ -1,0 +1,5 @@
+25,26c25
+< import com.google.inject.Guice;
+< import com.google.inject.Injector;
+---
+> import com.google.inject.Guice;import com.google.inject.Injector;

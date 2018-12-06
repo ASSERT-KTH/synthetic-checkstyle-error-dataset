@@ -1,0 +1,4 @@
+71c71
+<   public boolean isEnhanced() {
+---
+>   public boolean isEnhanced () {

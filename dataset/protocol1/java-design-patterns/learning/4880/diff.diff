@@ -1,0 +1,5 @@
+28c28,29
+< public final class AppTest {
+---
+> public final 
+> class AppTest {

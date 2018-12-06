@@ -1,0 +1,4 @@
+59c59
+<     return any.isPresent() ? any.get().stream().map(constructor) : Stream.empty();
+---
+>     return any.isPresent() ? any.	get().stream().map(constructor) : Stream.empty();

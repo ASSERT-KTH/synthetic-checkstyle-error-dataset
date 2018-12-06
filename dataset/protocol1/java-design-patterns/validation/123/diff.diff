@@ -1,0 +1,5 @@
+56c56,57
+<     weather.addObserver(new Orcs());
+---
+>     weather.addObserver(new Orcs(
+> ));

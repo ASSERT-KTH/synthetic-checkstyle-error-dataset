@@ -1,0 +1,5 @@
+32,33c32
+<  * <code>AsyncResult</code> which is an intermediate container for an asynchronously evaluated value,
+<  * <code>AsyncCallback</code> which can be provided to be executed on task completion and <code>AsyncExecutor</code>
+---
+>  * <code>AsyncResult</code> which is an intermediate container for an asynchronously evaluated value, * <code>AsyncCallback</code> which can be provided to be executed on task completion and <code>AsyncExecutor</code>

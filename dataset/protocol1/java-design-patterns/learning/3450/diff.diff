@@ -1,0 +1,4 @@
+34c34
+<     LOGGER.info("Steal valuable items");
+---
+>     LOGGER.info ("Steal valuable items");

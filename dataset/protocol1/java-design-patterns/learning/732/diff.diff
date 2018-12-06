@@ -1,0 +1,4 @@
+35c35
+<   void makeUnhappy();
+---
+>    void makeUnhappy();

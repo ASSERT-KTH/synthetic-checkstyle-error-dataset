@@ -1,0 +1,4 @@
+61c61
+<     filterManager.addFilter(new ContactFilter());
+---
+>     filterManager	.addFilter(new ContactFilter());

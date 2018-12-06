@@ -1,0 +1,4 @@
+186c186
+<         new MagicServiceImpl(new WizardDaoImpl(), new SpellbookDaoImpl(), new SpellDaoImpl());
+---
+>         new MagicServiceImpl(new WizardDaoImpl (), new SpellbookDaoImpl(), new SpellDaoImpl());

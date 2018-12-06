@@ -1,0 +1,4 @@
+94c94
+<     verifyZeroInteractions(model, view);
+---
+>     verifyZeroInteractions (model, view);

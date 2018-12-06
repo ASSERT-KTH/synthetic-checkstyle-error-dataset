@@ -1,0 +1,4 @@
+72c72
+<     endpoint.expectedMessageCount(1);
+---
+>    endpoint.expectedMessageCount(1);

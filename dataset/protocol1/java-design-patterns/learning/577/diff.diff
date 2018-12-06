@@ -1,0 +1,4 @@
+38c38
+<     String name = "Foobar";
+---
+>    String name = "Foobar";

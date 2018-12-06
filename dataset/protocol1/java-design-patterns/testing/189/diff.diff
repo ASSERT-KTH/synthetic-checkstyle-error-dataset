@@ -1,0 +1,4 @@
+41c41
+< import domainapp.integtests.tests.SimpleAppIntegTest;
+---
+> import domainapp.integtests.tests.SimpleAppIntegTest	;

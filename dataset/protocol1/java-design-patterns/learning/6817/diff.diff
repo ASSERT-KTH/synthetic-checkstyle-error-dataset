@@ -1,0 +1,4 @@
+71c71
+<     properties.put("enhancedWelcome", false);
+---
+>    properties.put("enhancedWelcome", false);

@@ -1,0 +1,4 @@
+34c34
+<     final String[] args = {};
+---
+>     final String[] 	args = {};

@@ -1,0 +1,4 @@
+63c63
+<       String body = msg.getBody();
+---
+>       String body= msg.getBody();

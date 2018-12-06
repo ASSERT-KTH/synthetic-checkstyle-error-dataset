@@ -1,0 +1,4 @@
+57c57
+<     Weapon axe = factory.create(WeaponType.AXE);
+---
+>     Weapon axe = factory.create(	WeaponType.AXE);

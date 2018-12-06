@@ -1,0 +1,4 @@
+65c65
+<     assertEquals("Reynolds", allCustomers.get(0).getLastName());
+---
+>     assertEquals("Reynolds"	, allCustomers.get(0).getLastName());

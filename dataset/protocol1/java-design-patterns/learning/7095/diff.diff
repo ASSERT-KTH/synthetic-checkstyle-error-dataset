@@ -1,0 +1,5 @@
+50c50,51
+<   private static final Logger LOGGER = LoggerFactory.getLogger(App.class);
+---
+>   private 
+> static final Logger LOGGER = LoggerFactory.getLogger(App.class);

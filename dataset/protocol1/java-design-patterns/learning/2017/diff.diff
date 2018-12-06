@@ -1,0 +1,5 @@
+110,111c110
+<         LOGGER.info("Executor was shut down and Exiting.");
+<         executor.shutdownNow();
+---
+>         LOGGER.info("Executor was shut down and Exiting.");        executor.shutdownNow();

@@ -1,0 +1,4 @@
+32c32
+<   ALERT("alert"), TIRED("tired"), SLEEPING("sleeping");
+---
+>   ALERT("alert"), TIRED ("tired"), SLEEPING("sleeping");

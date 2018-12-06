@@ -1,0 +1,5 @@
+77c77,78
+<       washingMachineState = WashingMachineState.WASHING;
+---
+>       washingMachineState = 
+> WashingMachineState.WASHING;

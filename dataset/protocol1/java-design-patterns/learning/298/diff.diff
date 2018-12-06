@@ -1,0 +1,5 @@
+29c29,30
+<   void soldierReady();
+---
+>   void soldierReady(
+> );

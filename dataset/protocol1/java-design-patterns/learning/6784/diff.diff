@@ -1,0 +1,4 @@
+90c90
+<     return new RainbowFish(map.get("name"), Integer.parseInt(map.get("age")), Integer.parseInt(map.get("lengthMeters")),
+---
+>     return new RainbowFish(map.get("name"), Integer.parseInt(map. get("age")), Integer.parseInt(map.get("lengthMeters")),

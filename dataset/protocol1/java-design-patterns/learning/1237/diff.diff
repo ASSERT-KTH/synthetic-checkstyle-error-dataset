@@ -1,0 +1,4 @@
+36c36
+<     super(Weekday.SATURDAY, Event.TRAITOR_DETECTED, LordVarys::new, LordVarys::new);
+---
+>     super(Weekday.SATURDAY, Event.TRAITOR_DETECTED, LordVarys::new	, LordVarys::new);

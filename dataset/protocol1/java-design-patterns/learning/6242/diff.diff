@@ -1,0 +1,4 @@
+63c63
+<     assertTrue(service.isEnhanced());
+---
+>     assertTrue(service.isEnhanced ());

@@ -1,0 +1,4 @@
+44c44
+<     final NullNode instance = NullNode.getInstance();
+---
+>      final NullNode instance = NullNode.getInstance();

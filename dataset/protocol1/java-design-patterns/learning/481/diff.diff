@@ -1,0 +1,4 @@
+33c33
+<     return new OrcWeapon(weaponType);
+---
+>    return new OrcWeapon(weaponType);

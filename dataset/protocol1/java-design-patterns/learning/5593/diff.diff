@@ -1,0 +1,5 @@
+75c75,76
+<     this.factoryWithDefaultObserver = Objects.requireNonNull(factoryWithDefaultObserver);
+---
+>     this.factoryWithDefaultObserver = Objects.requireNonNull
+> (factoryWithDefaultObserver);

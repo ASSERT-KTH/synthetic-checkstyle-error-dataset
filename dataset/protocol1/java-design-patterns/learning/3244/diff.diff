@@ -1,0 +1,4 @@
+39c39
+<   public void addFilter(Filter filter) {
+---
+>   public void addFilter(Filter filter){

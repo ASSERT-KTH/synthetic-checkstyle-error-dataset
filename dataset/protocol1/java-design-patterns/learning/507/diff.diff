@@ -1,0 +1,4 @@
+39c39
+<   private static Map<LotteryTicketId, LotteryTicket> tickets = new HashMap<>();
+---
+>  private static Map<LotteryTicketId, LotteryTicket> tickets = new HashMap<>();

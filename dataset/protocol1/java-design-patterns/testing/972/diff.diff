@@ -1,0 +1,5 @@
+58c58,59
+<     return "Shrink spell";
+---
+>     return 
+> "Shrink spell";

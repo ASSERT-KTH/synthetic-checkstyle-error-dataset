@@ -1,0 +1,5 @@
+59,60c59
+<     LOGGER.info(mage.toString());
+<     LOGGER.info(warlord.toString());
+---
+>     LOGGER.info(mage.toString());    LOGGER.info(warlord.toString());

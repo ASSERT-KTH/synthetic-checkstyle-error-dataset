@@ -1,0 +1,4 @@
+41c41
+<     if (day.equals(Weekday.FRIDAY)) {
+---
+>     if (day.equals (Weekday.FRIDAY)) {

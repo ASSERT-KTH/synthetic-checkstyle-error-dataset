@@ -1,0 +1,4 @@
+33c33
+<   private final BlockingQueue<Message> queue;
+---
+>   private 	final BlockingQueue<Message> queue;

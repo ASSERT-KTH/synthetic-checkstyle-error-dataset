@@ -1,0 +1,5 @@
+33c33,34
+< public class StrengthPotion implements Potion {
+---
+> public class StrengthPotion implements 
+> Potion {

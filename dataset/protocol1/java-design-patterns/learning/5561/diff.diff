@@ -1,0 +1,5 @@
+39,40c39
+<  * algorithms that are essential to its purpose. They implement the use 
+<  * cases that are the heart of the application. When you change them, you 
+---
+>  * algorithms that are essential to its purpose. They implement the use  * cases that are the heart of the application. When you change them, you 

@@ -1,0 +1,4 @@
+66c66
+<     Map<LotteryTicketId, LotteryTicket> tickets = getAllSubmittedTickets();
+---
+>     Map<LotteryTicketId, LotteryTicket> tickets 	= getAllSubmittedTickets();

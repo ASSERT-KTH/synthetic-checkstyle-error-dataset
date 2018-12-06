@@ -1,0 +1,4 @@
+36c36
+<   public void testTakeBeans() {
+---
+>   public void testTakeBeans() 	{

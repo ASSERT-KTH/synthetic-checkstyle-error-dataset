@@ -1,0 +1,4 @@
+90c90
+<     FixtureScript fs = new SimpleObjectsTearDown();
+---
+>     FixtureScript 	fs = new SimpleObjectsTearDown();

@@ -1,0 +1,4 @@
+143c143
+<           lock.wait();
+---
+>          lock.wait();

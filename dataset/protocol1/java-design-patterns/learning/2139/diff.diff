@@ -1,0 +1,4 @@
+40c40
+<   final User freeUser = new User("Alan Defect");
+---
+>  final User freeUser = new User("Alan Defect");

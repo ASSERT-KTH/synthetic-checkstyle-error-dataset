@@ -1,0 +1,5 @@
+61c61,62
+<     HeroStat heroStatC = HeroStat.valueOf(3, 9, 8);
+---
+>     HeroStat heroStatC = HeroStat.valueOf(3, 
+> 9, 8);

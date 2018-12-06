@@ -1,0 +1,5 @@
+99c99,100
+<     final Set<Wizard> wizards = new HashSet<>();
+---
+>     final Set<Wizard> 
+> wizards = new HashSet<>();

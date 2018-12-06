@@ -1,0 +1,4 @@
+54c54
+<     product.setProductInventories(inventoryClient.getProductInventories());
+---
+>     product.setProductInventories (inventoryClient.getProductInventories());

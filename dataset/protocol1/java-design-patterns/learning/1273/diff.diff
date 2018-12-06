@@ -1,0 +1,4 @@
+51c51
+<   public void giveCompliments(Royalty r) {
+---
+>   public 	void giveCompliments(Royalty r) {

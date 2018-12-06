@@ -1,0 +1,4 @@
+53c53
+<     this.lock = new ReentrantLock();
+---
+>     this.lock = 	new ReentrantLock();

@@ -1,0 +1,5 @@
+32c32,33
+< public class SergeantVisitorTest extends VisitorTest<SergeantVisitor> {
+---
+> public 
+> class SergeantVisitorTest extends VisitorTest<SergeantVisitor> {

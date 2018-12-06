@@ -1,0 +1,5 @@
+70,71c70
+<       assertEquals("GuiceWizard smoking " + tobacco.getClass().getSimpleName(), appender.getLastMessage());
+<     }
+---
+>       assertEquals("GuiceWizard smoking " + tobacco.getClass().getSimpleName(), appender.getLastMessage());    }

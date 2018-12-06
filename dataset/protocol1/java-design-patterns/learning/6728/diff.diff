@@ -1,0 +1,4 @@
+46c46
+<     LOGGER.info("Treasure chest closes.");
+---
+>     LOGGER.info("Treasure chest closes.")	;

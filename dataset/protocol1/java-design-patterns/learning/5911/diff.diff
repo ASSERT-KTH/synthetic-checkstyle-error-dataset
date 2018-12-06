@@ -1,0 +1,5 @@
+86c86,87
+<   private void verifyGoblin(Goblin goblin, String expectedName, Size expectedSize,
+---
+>   private void verifyGoblin(Goblin goblin, String 
+> expectedName, Size expectedSize,

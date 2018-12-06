@@ -1,0 +1,4 @@
+113c113
+<     ByteBuffer pendingBuffer = (ByteBuffer) pendingWrite;
+---
+>     ByteBuffer pendingBuffer 	= (ByteBuffer) pendingWrite;

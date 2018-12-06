@@ -1,0 +1,4 @@
+66c66
+<   static <T> Trampoline<T> done(final T result) {
+---
+>   static <T> Trampoline<T> done(final T result) 	{

@@ -1,0 +1,5 @@
+33c33,34
+< public class SoldierTest extends UnitTest<Soldier> {
+---
+> public class SoldierTest extends UnitTest<Soldier> 
+> {

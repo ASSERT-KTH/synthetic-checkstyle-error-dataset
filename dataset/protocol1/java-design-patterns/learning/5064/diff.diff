@@ -1,0 +1,4 @@
+57c57
+<       throw poison();
+---
+>        throw poison();

@@ -1,0 +1,4 @@
+48c48
+<         .wizardClass("alchemist")
+---
+>         .wizardClass(	"alchemist")

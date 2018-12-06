@@ -1,0 +1,5 @@
+49c49,50
+<     final Creature flyingCreature = mock(Creature.class);
+---
+>     final Creature 
+> flyingCreature = mock(Creature.class);

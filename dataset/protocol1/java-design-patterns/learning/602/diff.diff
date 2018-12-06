@@ -1,0 +1,4 @@
+42c42
+<   private static final Logger LOG = Logger.getLogger(LambdaInfoApiHandler.class);
+---
+>   private static final Logger LOG = Logger.	getLogger(LambdaInfoApiHandler.class);

@@ -1,0 +1,4 @@
+45c45
+<     AppManager.initCacheCapacity(3);
+---
+>     AppManager.initCacheCapacity(3	);

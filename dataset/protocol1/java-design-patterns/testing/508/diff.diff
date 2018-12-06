@@ -1,0 +1,5 @@
+32c32,33
+<   private ActionType type;
+---
+>   private ActionType 
+> type;

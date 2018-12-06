@@ -1,0 +1,4 @@
+30c30
+< public class KingsHand extends EventEmitter implements EventObserver {
+---
+> public class 	KingsHand extends EventEmitter implements EventObserver {

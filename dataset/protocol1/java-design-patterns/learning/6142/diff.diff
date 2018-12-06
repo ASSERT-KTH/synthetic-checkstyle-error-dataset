@@ -1,0 +1,4 @@
+44c44
+<       final Nazgul nazgul = Nazgul.getInstance(name);
+---
+>      final Nazgul nazgul = Nazgul.getInstance(name);

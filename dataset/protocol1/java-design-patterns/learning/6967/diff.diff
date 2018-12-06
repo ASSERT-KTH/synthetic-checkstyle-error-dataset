@@ -1,0 +1,5 @@
+30c30,31
+< public class ScoutTest extends EventEmitterTest<Scout> {
+---
+> public class ScoutTest extends EventEmitterTest<Scout
+> > {

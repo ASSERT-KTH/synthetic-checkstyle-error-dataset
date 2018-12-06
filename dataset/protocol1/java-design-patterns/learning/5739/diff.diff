@@ -1,0 +1,4 @@
+47c47
+<     final OrcKing king = new OrcKing();
+---
+>     final OrcKing king = new OrcKing()	;

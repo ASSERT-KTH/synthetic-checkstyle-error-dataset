@@ -1,0 +1,5 @@
+54,55c54
+<     parameters.add(new Object[]{new Item(ItemType.WEAPON, "Dagger of poison")});
+<     return parameters;
+---
+>     parameters.add(new Object[]{new Item(ItemType.WEAPON, "Dagger of poison")});    return parameters;

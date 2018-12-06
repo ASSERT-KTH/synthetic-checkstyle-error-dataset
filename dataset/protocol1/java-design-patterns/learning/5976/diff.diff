@@ -1,0 +1,4 @@
+75c75
+<     root.insert(4);
+---
+>     root.insert(	4);

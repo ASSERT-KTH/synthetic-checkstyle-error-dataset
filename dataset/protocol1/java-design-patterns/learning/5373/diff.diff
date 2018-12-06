@@ -1,0 +1,4 @@
+58c58
+<       bowls[0].put(new Fruit(Fruit.FruitType.APPLE));
+---
+>       bowls[0].put(new Fruit (Fruit.FruitType.APPLE));

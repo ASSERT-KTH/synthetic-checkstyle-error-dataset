@@ -1,0 +1,4 @@
+39c39
+<     items.add(new Item(ItemType.POTION, "Potion of courage"));
+---
+>     items.add(new Item(	ItemType.POTION, "Potion of courage"));

@@ -1,0 +1,4 @@
+30c30
+< public class CoffeeMakingTaskTest extends TaskTest<CoffeeMakingTask> {
+---
+> public class CoffeeMakingTaskTest extends 	TaskTest<CoffeeMakingTask> {

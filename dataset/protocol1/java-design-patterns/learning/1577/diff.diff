@@ -1,0 +1,4 @@
+75c75
+<     return LotteryUtils.checkTicketForPrize(repository, id, winningNumbers);
+---
+>    return LotteryUtils.checkTicketForPrize(repository, id, winningNumbers);

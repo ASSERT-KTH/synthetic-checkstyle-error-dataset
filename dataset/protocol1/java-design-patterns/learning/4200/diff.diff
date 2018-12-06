@@ -1,0 +1,4 @@
+36c36
+<     return this.name().toLowerCase();
+---
+>     return this.	name().toLowerCase();

@@ -1,0 +1,4 @@
+82c82
+<     allCustomers.forEach(customer -> LOGGER.info(customer.getFirstName()));
+---
+>    allCustomers.forEach(customer -> LOGGER.info(customer.getFirstName()));

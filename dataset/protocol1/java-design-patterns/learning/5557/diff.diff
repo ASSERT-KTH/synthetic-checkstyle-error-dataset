@@ -1,0 +1,4 @@
+31c31
+< public interface FileSelectorView extends Serializable {
+---
+> public interface FileSelectorView extends 	Serializable {

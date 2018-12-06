@@ -1,0 +1,4 @@
+58c58
+<     student = new Student(student.getStudentId(), updatedName, 'A');
+---
+>     student 	= new Student(student.getStudentId(), updatedName, 'A');

@@ -1,0 +1,5 @@
+50c50,51
+<     host1.useService(12);
+---
+>     host1.useService(
+> 12);

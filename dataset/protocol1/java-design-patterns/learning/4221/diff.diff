@@ -1,0 +1,4 @@
+72c72
+<     data.getDataBus().publish(MessageData.of(String.format("Goodbye cruel world from #%d!", id)));
+---
+>     data.getDataBus().publish (MessageData.of(String.format("Goodbye cruel world from #%d!", id)));

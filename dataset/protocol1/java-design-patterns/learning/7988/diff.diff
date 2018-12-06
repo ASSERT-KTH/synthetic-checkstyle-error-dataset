@@ -1,0 +1,5 @@
+69c69,70
+<     bottomShelf.add(factory.createPotion(PotionType.HOLY_WATER));
+---
+>     bottomShelf.add(factory
+> .createPotion(PotionType.HOLY_WATER));

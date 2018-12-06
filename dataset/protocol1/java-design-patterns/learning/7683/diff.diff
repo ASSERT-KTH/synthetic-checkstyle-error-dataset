@@ -1,0 +1,5 @@
+51c51,52
+<     try (final Scanner scanner = new Scanner(System.in)) {
+---
+>     try (final Scanner scanner 
+> = new Scanner(System.in)) {

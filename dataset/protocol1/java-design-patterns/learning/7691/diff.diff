@@ -1,0 +1,4 @@
+40c40
+<   public User getUser() {
+---
+>   public User getUser() 	{

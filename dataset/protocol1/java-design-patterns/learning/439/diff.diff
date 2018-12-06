@@ -1,0 +1,4 @@
+39c39
+<   final User paidUser = new User("Jamie Coder");
+---
+>    final User paidUser = new User("Jamie Coder");

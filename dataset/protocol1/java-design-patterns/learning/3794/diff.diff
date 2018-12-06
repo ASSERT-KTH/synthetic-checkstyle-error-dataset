@@ -1,0 +1,4 @@
+42c42
+<   private static final Logger LOGGER = LoggerFactory.getLogger(ProductInventoryClientImpl.class);
+---
+>   private static final Logger LOGGER = LoggerFactory	.getLogger(ProductInventoryClientImpl.class);

@@ -1,0 +1,5 @@
+28,29c28
+<  * "The separation of concerns" principle. This is accomplished by separating the application's
+<  * logic (Model), GUIs (View), and finally the way that the user's actions update the application's
+---
+>  * "The separation of concerns" principle. This is accomplished by separating the application's * logic (Model), GUIs (View), and finally the way that the user's actions update the application's

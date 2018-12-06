@@ -1,0 +1,5 @@
+33,34c33
+<   void update(S subject, A argument);
+< }
+---
+>   void update(S subject, A argument);}

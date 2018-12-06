@@ -1,0 +1,5 @@
+101,102c101
+<       resultSet.close();
+<       statement.close();
+---
+>       resultSet.close();      statement.close();

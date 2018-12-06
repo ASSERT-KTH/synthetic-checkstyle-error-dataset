@@ -1,0 +1,5 @@
+56,57c56
+<    * For instance while closing a connection to database, or cleaning up a resource, 
+<    * all you can do is log the exception occurred.
+---
+>    * For instance while closing a connection to database, or cleaning up a resource,    * all you can do is log the exception occurred.

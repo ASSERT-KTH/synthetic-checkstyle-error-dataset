@@ -1,0 +1,5 @@
+45c45,46
+<   List<Wizard> findWizardsWithSpellbook(String name);
+---
+>   List<
+> Wizard> findWizardsWithSpellbook(String name);

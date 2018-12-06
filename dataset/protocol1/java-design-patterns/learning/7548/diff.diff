@@ -1,0 +1,5 @@
+43c43,44
+<     final RainbowFishV2 fish = new RainbowFishV2("name", 1, 2, 3, false, true, false);
+---
+>     final 
+> RainbowFishV2 fish = new RainbowFishV2("name", 1, 2, 3, false, true, false);

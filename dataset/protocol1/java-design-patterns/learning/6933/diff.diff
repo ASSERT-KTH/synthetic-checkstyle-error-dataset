@@ -1,0 +1,5 @@
+40c40,41
+<   @RequestMapping(value = "/information", method = RequestMethod.GET)
+---
+>   @RequestMapping(value = "/information", method 
+> = RequestMethod.GET)

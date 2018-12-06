@@ -1,0 +1,4 @@
+134c134
+<         bind(String.class).annotatedWith(Names.named("applicationJs")).toInstance(
+---
+>         bind(String.class).annotatedWith(Names.named("applicationJs")).	toInstance(

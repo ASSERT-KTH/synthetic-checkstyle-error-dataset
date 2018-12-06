@@ -1,0 +1,4 @@
+29c29
+<   void visit(Hayes hayes);
+---
+>  void visit(Hayes hayes);

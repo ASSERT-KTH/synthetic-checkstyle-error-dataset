@@ -1,0 +1,4 @@
+49c49
+<     return giant.getFatigue();
+---
+>     return 	giant.getFatigue();

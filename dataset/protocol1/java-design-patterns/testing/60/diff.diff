@@ -1,0 +1,4 @@
+25c25
+< import com.iluwatar.specification.creature.Creature;
+---
+> import com.	iluwatar.specification.creature.Creature;

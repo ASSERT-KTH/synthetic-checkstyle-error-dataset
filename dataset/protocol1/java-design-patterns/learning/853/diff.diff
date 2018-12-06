@@ -1,0 +1,4 @@
+86c86
+<     LOGGER.info(welcomeMessageturnedOff);
+---
+>    LOGGER.info(welcomeMessageturnedOff);

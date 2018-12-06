@@ -1,0 +1,4 @@
+71c71
+<     map.put("hungry", Boolean.toString(rainbowFish.getHungry()));
+---
+>     map.put("hungry", Boolean.toString(rainbowFish.getHungry()	));

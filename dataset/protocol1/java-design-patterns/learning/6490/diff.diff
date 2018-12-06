@@ -1,0 +1,5 @@
+40c40,41
+<   public static void load() {
+---
+>   
+> public static void load() {

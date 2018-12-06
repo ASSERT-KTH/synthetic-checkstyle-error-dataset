@@ -1,0 +1,4 @@
+39c39
+<     assertEquals(5, numberOfInventories);
+---
+>     assertEquals(5, numberOfInventories)	;

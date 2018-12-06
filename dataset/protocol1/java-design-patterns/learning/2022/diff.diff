@@ -1,0 +1,4 @@
+99c99
+<   private void mutedClose(Connection connection, PreparedStatement statement, ResultSet resultSet) {
+---
+>   private void mutedClose(Connection connection, PreparedStatement statement, 	ResultSet resultSet) {

@@ -1,0 +1,4 @@
+49c49
+<       try (CloseableHttpResponse httpResponse = httpClient.execute(httpGet)) {
+---
+>       try (CloseableHttpResponse httpResponse = httpClient.execute (httpGet)) {

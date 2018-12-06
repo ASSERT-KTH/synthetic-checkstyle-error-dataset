@@ -1,0 +1,4 @@
+38c38
+<     if (req.getRequestType().equals(RequestType.DEFEND_CASTLE)) {
+---
+>     if (req.getRequestType().equals(RequestType.DEFEND_CASTLE)	) {

@@ -1,0 +1,4 @@
+71c71
+<     assertEquals("The mammoth gets angry!", appender.getLastMessage());
+---
+>     assertEquals("The mammoth gets angry!", appender.getLastMessage())	;

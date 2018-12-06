@@ -1,0 +1,4 @@
+38c38
+<   private AlbumListPage albumListPage = new AlbumListPage(new WebClient());
+---
+>   private AlbumListPage albumListPage =new AlbumListPage(new WebClient());

@@ -1,0 +1,4 @@
+73c73
+<   public static Queen createFlirtyQueen() {
+---
+>   public static Queen 	createFlirtyQueen() {

@@ -1,0 +1,4 @@
+74c74
+<     assertEquals(6, mongoEventLog.getEventsCollection().count());
+---
+>     assertEquals(6, mongoEventLog.	getEventsCollection().count());

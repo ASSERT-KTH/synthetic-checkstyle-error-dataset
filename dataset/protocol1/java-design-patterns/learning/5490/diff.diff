@@ -1,0 +1,5 @@
+36,37c36
+<    * Performs some business operation, returning a value {@code T} if successful, otherwise throwing
+<    * an exception if an error occurs.
+---
+>    * Performs some business operation, returning a value {@code T} if successful, otherwise throwing   * an exception if an error occurs.

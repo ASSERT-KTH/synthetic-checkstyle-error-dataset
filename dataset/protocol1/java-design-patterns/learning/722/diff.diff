@@ -1,0 +1,4 @@
+35c35
+<     String[] args = {};
+---
+>     String[	] args = {};

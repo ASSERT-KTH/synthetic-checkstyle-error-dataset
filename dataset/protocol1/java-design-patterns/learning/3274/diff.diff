@@ -1,0 +1,4 @@
+70c70
+<     root.insert(3);
+---
+>    root.insert(3);

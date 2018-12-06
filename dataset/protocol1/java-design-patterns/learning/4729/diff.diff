@@ -1,0 +1,4 @@
+38c38
+<     for (Word w : words) {
+---
+>     for (Word w : words	) {

@@ -1,0 +1,5 @@
+39c39,40
+<   protected void printThisBefore() {
+---
+>   protected void printThisBefore(
+> ) {

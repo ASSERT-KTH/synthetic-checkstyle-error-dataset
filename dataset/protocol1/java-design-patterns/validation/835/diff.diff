@@ -1,0 +1,4 @@
+72c72
+<     dragonSlayer.changeStrategy(() -> LOGGER.info(
+---
+>     dragonSlayer.changeStrategy(() -> LOGGER.	info(

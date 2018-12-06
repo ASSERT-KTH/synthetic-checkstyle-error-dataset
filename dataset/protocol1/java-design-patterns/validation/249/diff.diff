@@ -1,0 +1,4 @@
+66c66
+<       final E result = next;
+---
+>       final E result 	= next;

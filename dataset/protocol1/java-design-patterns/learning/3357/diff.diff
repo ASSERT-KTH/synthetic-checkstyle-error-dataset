@@ -1,0 +1,5 @@
+111,112c111
+<     result = 31 * result + (address != null ? address.hashCode() : 0);
+<     return result;
+---
+>     result = 31 * result + (address != null ? address.hashCode() : 0);    return result;

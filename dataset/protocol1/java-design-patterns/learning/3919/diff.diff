@@ -1,0 +1,4 @@
+39c39
+<     assertEquals("20", price);
+---
+>    assertEquals("20", price);

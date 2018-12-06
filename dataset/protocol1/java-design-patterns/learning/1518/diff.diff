@@ -1,0 +1,4 @@
+39c39
+<   public Sergeant(SergeantUnit sergeantUnit) {
+---
+>  public Sergeant(SergeantUnit sergeantUnit) {

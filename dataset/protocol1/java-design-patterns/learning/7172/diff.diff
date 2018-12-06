@@ -1,0 +1,4 @@
+59c59
+<     when(server.getPort()).thenReturn(1234);
+---
+>     when(server.getPort ()).thenReturn(1234);

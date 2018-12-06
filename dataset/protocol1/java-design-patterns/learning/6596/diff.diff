@@ -1,0 +1,4 @@
+52c52
+<     System.out.println("Domain entities:");
+---
+>     System.out	.println("Domain entities:");

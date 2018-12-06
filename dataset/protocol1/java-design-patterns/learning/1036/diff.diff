@@ -1,0 +1,4 @@
+91c91
+<     assertEquals("07001234", ticket.getPlayerDetails().getPhoneNumber());
+---
+>     assertEquals("07001234", ticket.getPlayerDetails ().getPhoneNumber());

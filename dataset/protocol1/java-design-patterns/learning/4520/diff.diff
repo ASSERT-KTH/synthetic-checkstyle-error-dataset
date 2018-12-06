@@ -1,0 +1,4 @@
+50c50
+<     mongoClient.dropDatabase(TEST_DB);
+---
+>      mongoClient.dropDatabase(TEST_DB);

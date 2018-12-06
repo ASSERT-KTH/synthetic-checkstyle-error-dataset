@@ -1,0 +1,5 @@
+39,40c39
+<   public void update(GWeather weather, WeatherType weatherType) {
+<     switch (weatherType) {
+---
+>   public void update(GWeather weather, WeatherType weatherType) {    switch (weatherType) {

@@ -1,0 +1,5 @@
+32c32,33
+<   Weapon manufactureWeapon(WeaponType weaponType);
+---
+>   Weapon 
+> manufactureWeapon(WeaponType weaponType);

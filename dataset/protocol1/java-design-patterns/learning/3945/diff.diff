@@ -1,0 +1,4 @@
+52c52
+<     return new TreasureChestItemIterator(this, itemType);
+---
+>      return new TreasureChestItemIterator(this, itemType);

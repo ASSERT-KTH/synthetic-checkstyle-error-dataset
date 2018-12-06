@@ -1,0 +1,4 @@
+62c62
+<       assertTrue(service.getId() > 0); // The id is generated randomly, but the minimum value is '1'
+---
+>       assertTrue(service.getId() 	> 0); // The id is generated randomly, but the minimum value is '1'

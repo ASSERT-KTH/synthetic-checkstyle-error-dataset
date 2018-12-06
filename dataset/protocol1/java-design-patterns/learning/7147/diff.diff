@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public enum HairColor {
+---
+>  */public enum HairColor {

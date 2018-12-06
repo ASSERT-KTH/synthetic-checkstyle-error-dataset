@@ -1,0 +1,4 @@
+59c59
+<     boolean anotherDay = true;
+---
+>    boolean anotherDay = true;

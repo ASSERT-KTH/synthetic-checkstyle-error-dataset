@@ -1,0 +1,4 @@
+25c25
+< import com.iluwatar.observer.generic.GHobbits;
+---
+> import com.iluwatar.observer.generic.	GHobbits;

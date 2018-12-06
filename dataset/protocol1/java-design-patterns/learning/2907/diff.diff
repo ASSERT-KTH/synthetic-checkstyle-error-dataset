@@ -1,0 +1,4 @@
+57c57
+<     final Queen queen = new Queen();
+---
+>     final Queen queen = new Queen()	;

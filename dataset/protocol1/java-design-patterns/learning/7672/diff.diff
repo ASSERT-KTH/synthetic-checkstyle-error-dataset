@@ -1,0 +1,5 @@
+46,47c46
+<  * In this implementation rather than using Selenium, the HtmlUnit library is used as a replacement to
+<  * represent the specific html elements and to drive the browser. The purpose of this example is just to
+---
+>  * In this implementation rather than using Selenium, the HtmlUnit library is used as a replacement to * represent the specific html elements and to drive the browser. The purpose of this example is just to

@@ -1,0 +1,4 @@
+43c43
+<     views.add(view);
+---
+>    views.add(view);

@@ -1,0 +1,4 @@
+38c38
+<     LOGGER.info("Pretend nothing happened and just leave");
+---
+>     LOGGER.info ("Pretend nothing happened and just leave");

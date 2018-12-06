@@ -1,0 +1,5 @@
+56c56,57
+<     from("{{entry}}").aggregate(constant(true), aggregator)
+---
+>     from("{{entry}}").aggregate(constant(true)
+> , aggregator)

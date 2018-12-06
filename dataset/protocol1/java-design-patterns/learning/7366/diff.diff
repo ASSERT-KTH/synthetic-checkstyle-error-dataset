@@ -1,0 +1,4 @@
+45c45
+<     assertNotNull(message.getHeaders());
+---
+>    assertNotNull(message.getHeaders());

@@ -1,0 +1,4 @@
+40c40
+<   public Spell findByName(String name) {
+---
+>   public Spell findByName(String name) 	{

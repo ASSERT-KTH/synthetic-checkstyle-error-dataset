@@ -1,0 +1,5 @@
+78c78,79
+<     PLAYERS.add(new PlayerDetails("lisa@google.com", "024-653", "+980742154"));
+---
+>     PLAYERS.add(new PlayerDetails("lisa@google.com", "024-653", "+980742154")
+> );

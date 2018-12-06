@@ -1,0 +1,4 @@
+46c46
+<   private static final Logger LOGGER = LoggerFactory.getLogger(App.class);
+---
+>   private static final Logger LOGGER = LoggerFactory.getLogger(App	.class);

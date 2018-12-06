@@ -1,0 +1,4 @@
+38c38
+<   protected void configure() {
+---
+>   protected void configure(){

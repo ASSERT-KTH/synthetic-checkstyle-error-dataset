@@ -1,0 +1,5 @@
+75c75,76
+<     public Predicate toPredicate(Root<Person> root, CriteriaQuery<?> query, CriteriaBuilder cb) {
+---
+>     public Predicate toPredicate(Root<Person> root, CriteriaQuery<?> query, 
+> CriteriaBuilder cb) {

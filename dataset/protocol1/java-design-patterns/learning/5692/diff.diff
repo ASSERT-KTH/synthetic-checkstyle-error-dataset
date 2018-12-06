@@ -1,0 +1,4 @@
+41c41
+<       Validator.of(tom).validate(User::getName, Objects::nonNull, "name cannot be null").get();
+---
+>       Validator.of(tom).validate(User::getName, Objects::nonNull, "name cannot be null"	).get();

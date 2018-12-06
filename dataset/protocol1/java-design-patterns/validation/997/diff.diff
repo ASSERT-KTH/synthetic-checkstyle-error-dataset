@@ -1,0 +1,4 @@
+73c73
+<     final StatusMember statusMember = new StatusMember(1);
+---
+>     final StatusMember statusMember = new StatusMember(1)	;

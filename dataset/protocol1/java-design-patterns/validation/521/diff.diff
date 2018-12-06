@@ -1,0 +1,4 @@
+86c86
+<     LOGGER.info("{} finished after writing {}ms", name, writingTime);
+---
+>     LOGGER.info(	"{} finished after writing {}ms", name, writingTime);

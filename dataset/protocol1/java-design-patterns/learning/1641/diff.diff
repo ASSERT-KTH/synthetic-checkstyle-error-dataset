@@ -1,0 +1,4 @@
+48c48
+<     File file1 = new File("fish1.out");
+---
+>     File file1= new File("fish1.out");

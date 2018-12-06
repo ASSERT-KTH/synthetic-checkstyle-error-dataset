@@ -1,0 +1,5 @@
+38,39c38
+<  * This application demonstrates Reactor pattern. The example demonstrated is a Distributed Logging
+<  * Service where it listens on multiple TCP or UDP sockets for incoming log requests.
+---
+>  * This application demonstrates Reactor pattern. The example demonstrated is a Distributed Logging * Service where it listens on multiple TCP or UDP sockets for incoming log requests.

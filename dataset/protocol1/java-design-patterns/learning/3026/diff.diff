@@ -1,0 +1,4 @@
+36c36
+<   private static final Logger LOGGER = LoggerFactory.getLogger(HolderThreadSafe.class);
+---
+>   private static final Logger LOGGER= LoggerFactory.getLogger(HolderThreadSafe.class);

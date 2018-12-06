@@ -1,0 +1,5 @@
+26,27c26
+< import com.iluwatar.specification.property.Movement;
+< import com.iluwatar.specification.property.Size;
+---
+> import com.iluwatar.specification.property.Movement;import com.iluwatar.specification.property.Size;

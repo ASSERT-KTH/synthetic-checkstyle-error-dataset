@@ -1,0 +1,4 @@
+34c34
+<     final Soldier soldier = new Soldier(new SoldierUnit("SoldierUnitTest"));
+---
+>    final Soldier soldier = new Soldier(new SoldierUnit("SoldierUnitTest"));

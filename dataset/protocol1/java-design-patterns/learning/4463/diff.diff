@@ -1,0 +1,4 @@
+85c85
+<     assertEquals(response, appender.getLastMessage());
+---
+>    assertEquals(response, appender.getLastMessage());

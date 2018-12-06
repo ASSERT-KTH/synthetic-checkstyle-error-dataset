@@ -1,0 +1,4 @@
+59c59
+<         type = StarType.DEAD;
+---
+>        type = StarType.DEAD;

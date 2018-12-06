@@ -1,0 +1,4 @@
+53c53
+<     FishingBoatAdapter fishingBoatAdapter = spy(new FishingBoatAdapter());
+---
+>     FishingBoatAdapter fishingBoatAdapter 	= spy(new FishingBoatAdapter());

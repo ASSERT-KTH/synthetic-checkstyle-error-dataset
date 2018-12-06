@@ -1,0 +1,4 @@
+44c44
+<     LOGGER.info("The item eats the soul of enemies.");
+---
+>    LOGGER.info("The item eats the soul of enemies.");

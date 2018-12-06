@@ -1,0 +1,4 @@
+47c47
+<     EventDispatcher dispatcher = spy(new EventDispatcher());
+---
+>     EventDispatcher 	dispatcher = spy(new EventDispatcher());

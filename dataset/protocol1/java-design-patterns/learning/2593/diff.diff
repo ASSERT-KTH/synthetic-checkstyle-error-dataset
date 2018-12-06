@@ -1,0 +1,5 @@
+69c69,70
+<   public synchronized void stopService() throws InterruptedException {
+---
+>   public synchronized void 
+> stopService() throws InterruptedException {

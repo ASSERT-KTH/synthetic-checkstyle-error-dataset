@@ -1,0 +1,4 @@
+30c30
+< public class PotatoPeelingTask extends Task {
+---
+> public class PotatoPeelingTask extends Task 	{

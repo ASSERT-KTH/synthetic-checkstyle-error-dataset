@@ -1,0 +1,4 @@
+126c126
+<     stub.setFileName("etc/data/test.txt");
+---
+>    stub.setFileName("etc/data/test.txt");

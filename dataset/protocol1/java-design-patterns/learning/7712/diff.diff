@@ -1,0 +1,5 @@
+158,159c158
+<       LotteryTicket lotteryTicket = docToTicket(doc);
+<       map.put(lotteryTicket.getId(), lotteryTicket);
+---
+>       LotteryTicket lotteryTicket = docToTicket(doc);      map.put(lotteryTicket.getId(), lotteryTicket);

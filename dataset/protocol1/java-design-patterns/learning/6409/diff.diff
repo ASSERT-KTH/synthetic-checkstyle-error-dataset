@@ -1,0 +1,4 @@
+60c60
+<       beans = beans + 1;
+---
+>       beans = beans +1;

@@ -1,0 +1,4 @@
+25c25
+< import static org.mockito.Matchers.eq;
+---
+> import static org.	mockito.Matchers.eq;

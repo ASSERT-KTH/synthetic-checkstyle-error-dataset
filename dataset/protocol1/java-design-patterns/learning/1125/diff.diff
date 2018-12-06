@@ -1,0 +1,4 @@
+50c50
+<     return TranslatableString.tr("Simple Objects");
+---
+>    return TranslatableString.tr("Simple Objects");

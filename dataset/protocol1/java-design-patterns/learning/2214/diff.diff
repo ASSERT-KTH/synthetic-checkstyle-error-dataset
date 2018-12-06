@@ -1,0 +1,5 @@
+35c35,36
+<   void setFunds(String bankAccount, int amount);
+---
+>   void setFunds(
+> String bankAccount, int amount);

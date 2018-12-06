@@ -1,0 +1,4 @@
+52c52
+<     app.start();
+---
+>      app.start();

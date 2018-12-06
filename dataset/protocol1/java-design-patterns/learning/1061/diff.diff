@@ -1,0 +1,4 @@
+33c33
+<   public void test() {
+---
+>   public void test () {

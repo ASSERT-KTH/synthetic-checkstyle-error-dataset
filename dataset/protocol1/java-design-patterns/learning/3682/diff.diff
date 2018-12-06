@@ -1,0 +1,4 @@
+41c41
+<   public VideoResource(FieldJsonMapper fieldJsonMapper, Map<Integer, Video> videos) {
+---
+>   public VideoResource(FieldJsonMapper fieldJsonMapper, Map< Integer, Video> videos) {

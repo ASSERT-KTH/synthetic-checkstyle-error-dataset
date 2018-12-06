@@ -1,0 +1,5 @@
+29,30c29
+<  * Dependency Injection pattern deals with how objects handle their dependencies. The pattern
+<  * implements so called inversion of control principle. Inversion of control has two specific rules:
+---
+>  * Dependency Injection pattern deals with how objects handle their dependencies. The pattern * implements so called inversion of control principle. Inversion of control has two specific rules:

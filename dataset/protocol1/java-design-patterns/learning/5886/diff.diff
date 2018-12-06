@@ -1,0 +1,4 @@
+40c40
+<     assertTrue(result == 100 || result == RemoteService.FAILURE);
+---
+>     assertTrue(result == 100 || result == RemoteService.	FAILURE);

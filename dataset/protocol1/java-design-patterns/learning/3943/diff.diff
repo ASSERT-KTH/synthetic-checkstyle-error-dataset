@@ -1,0 +1,5 @@
+33c33,34
+< public class WizardTowerProxy implements WizardTower {
+---
+> public class WizardTowerProxy 
+> implements WizardTower {

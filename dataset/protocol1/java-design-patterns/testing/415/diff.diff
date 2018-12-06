@@ -1,0 +1,5 @@
+71c71,72
+<     parent.insertNewChild(valToInsert);
+---
+>     parent.insertNewChild(
+> valToInsert);

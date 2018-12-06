@@ -1,0 +1,4 @@
+22c22
+< import static com.iluwatar.iterator.list.ItemType.POTION;
+---
+> import static com.iluwatar.iterator.list	.ItemType.POTION;

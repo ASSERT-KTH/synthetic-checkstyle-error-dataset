@@ -1,0 +1,4 @@
+37c37
+<     LOGGER.info(hayes + " used with Dos configurator.");
+---
+>    LOGGER.info(hayes + " used with Dos configurator.");

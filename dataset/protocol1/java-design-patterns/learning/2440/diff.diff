@@ -1,0 +1,4 @@
+48c48
+<     final String senderName = "test";
+---
+>     final String senderName ="test";

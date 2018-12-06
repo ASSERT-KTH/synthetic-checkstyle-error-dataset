@@ -1,0 +1,4 @@
+50c50
+<     new EqualsTester().addEqualityGroup(heroStatA, heroStatB).testEquals();
+---
+>     new EqualsTester().addEqualityGroup (heroStatA, heroStatB).testEquals();

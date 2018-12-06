@@ -1,0 +1,5 @@
+38,39c38
+<  * {@link RainbowFishSerializer} methods. {@link RainbowFish} then evolves to {@link RainbowFishV2}
+<  * and we again write it to file with a method designed to do just that. However, the reader client
+---
+>  * {@link RainbowFishSerializer} methods. {@link RainbowFish} then evolves to {@link RainbowFishV2} * and we again write it to file with a method designed to do just that. However, the reader client

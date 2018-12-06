@@ -1,0 +1,4 @@
+29c29
+< public class Guard implements Permission {
+---
+> public class Guard implements Permission{

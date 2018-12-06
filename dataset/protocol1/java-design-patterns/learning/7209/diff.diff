@@ -1,0 +1,4 @@
+94c94
+<   public void setWizards(Set<Wizard> wizards) {
+---
+>  public void setWizards(Set<Wizard> wizards) {

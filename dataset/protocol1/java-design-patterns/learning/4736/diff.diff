@@ -1,0 +1,4 @@
+38c38
+<     gameObject.collisionResolve(this);
+---
+>     gameObject.collisionResolve (this);

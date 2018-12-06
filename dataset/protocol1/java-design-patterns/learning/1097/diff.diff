@@ -1,0 +1,5 @@
+90,91c90
+<     eventProcessor.process(new MoneyDepositEvent(
+<         3, new Date().getTime(), ACCOUNT_OF_JON,  new BigDecimal("100")));
+---
+>     eventProcessor.process(new MoneyDepositEvent(        3, new Date().getTime(), ACCOUNT_OF_JON,  new BigDecimal("100")));

@@ -1,0 +1,4 @@
+39c39
+<     Class<?> commandClass = getCommandClass(request);
+---
+>     Class<?> commandClass 	= getCommandClass(request);

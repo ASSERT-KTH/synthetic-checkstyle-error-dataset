@@ -1,0 +1,4 @@
+106c106
+<     getJavaChannel().configureBlocking(false);
+---
+>      getJavaChannel().configureBlocking(false);

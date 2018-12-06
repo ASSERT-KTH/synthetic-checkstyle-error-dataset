@@ -1,0 +1,5 @@
+46c46,47
+<     nazguls.put(NazgulName.HOARMURATH, new Nazgul(NazgulName.HOARMURATH));
+---
+>     nazguls.put(NazgulName.HOARMURATH, new Nazgul(NazgulName
+> .HOARMURATH));

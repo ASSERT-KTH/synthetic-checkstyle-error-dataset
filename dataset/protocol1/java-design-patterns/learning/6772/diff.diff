@@ -1,0 +1,4 @@
+90c90
+<     assertEquals("123-123", ticket.getPlayerDetails().getBankAccount());
+---
+>     assertEquals ("123-123", ticket.getPlayerDetails().getBankAccount());

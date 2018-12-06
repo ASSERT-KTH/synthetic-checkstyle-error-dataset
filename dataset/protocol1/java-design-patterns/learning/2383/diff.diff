@@ -1,0 +1,4 @@
+93c93
+<     public int getLogSize() {
+---
+>      public int getLogSize() {

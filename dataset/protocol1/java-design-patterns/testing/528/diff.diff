@@ -1,0 +1,4 @@
+58c58
+<     this.findPersonApiHandler.setDynamoDbMapper(dynamoDbMapper);
+---
+>     this.findPersonApiHandler.setDynamoDbMapper(dynamoDbMapper)	;

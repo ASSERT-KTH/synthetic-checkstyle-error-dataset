@@ -1,0 +1,5 @@
+69c69,70
+<             new HashSet<>(Arrays.asList(1, 2, 3, 4)));
+---
+>             new HashSet
+> <>(Arrays.asList(1, 2, 3, 4)));

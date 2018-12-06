@@ -1,0 +1,5 @@
+35c35,36
+< public class BusinessException extends Exception {
+---
+> public class BusinessException 
+> extends Exception {

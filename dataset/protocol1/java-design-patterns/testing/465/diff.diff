@@ -1,0 +1,4 @@
+54c54
+<     assertFalse(normalSelector.test(smallCreature));
+---
+>     assertFalse (normalSelector.test(smallCreature));

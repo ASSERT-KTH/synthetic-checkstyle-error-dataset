@@ -1,0 +1,5 @@
+51,52c51
+<         LOGGER.info("The orc smell almost vanishes in the wind.");
+<         break;
+---
+>         LOGGER.info("The orc smell almost vanishes in the wind.");        break;

@@ -1,0 +1,4 @@
+51c51
+<         msg = queue.take();
+---
+>         msg= queue.take();

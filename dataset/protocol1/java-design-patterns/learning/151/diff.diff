@@ -1,0 +1,4 @@
+48c48
+<     return "Orc soldier";
+---
+>    return "Orc soldier";

@@ -1,0 +1,4 @@
+87c87
+<     IntStream.range(6, 10)
+---
+>     IntStream.range(6	, 10)

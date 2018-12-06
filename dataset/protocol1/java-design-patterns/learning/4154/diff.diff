@@ -1,0 +1,5 @@
+32c32,33
+< import static org.mockito.Matchers.any;
+---
+> import static org.mockito
+> .Matchers.any;

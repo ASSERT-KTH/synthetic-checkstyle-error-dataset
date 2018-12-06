@@ -1,0 +1,5 @@
+40,41c40
+<     this.name = name;
+<     this.queue = queue;
+---
+>     this.name = name;    this.queue = queue;

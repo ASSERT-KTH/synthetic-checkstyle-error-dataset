@@ -1,0 +1,4 @@
+58c58
+<         while (inventory.addItem(new Item())) {};
+---
+>         while (inventory.addItem(new Item()	)) {};

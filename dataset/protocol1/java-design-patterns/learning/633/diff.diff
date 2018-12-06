@@ -1,0 +1,4 @@
+68c68
+<     context.getRoutes().forEach(r -> LOGGER.info(r.toString()));
+---
+>     context	.getRoutes().forEach(r -> LOGGER.info(r.toString()));

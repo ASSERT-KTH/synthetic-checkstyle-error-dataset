@@ -1,0 +1,4 @@
+34c34
+<   Spellbook findByName(String name);
+---
+>  Spellbook findByName(String name);

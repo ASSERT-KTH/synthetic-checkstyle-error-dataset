@@ -1,0 +1,5 @@
+44c44,45
+<     this.observers.add(observer);
+---
+>     this
+> .observers.add(observer);

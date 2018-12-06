@@ -1,0 +1,5 @@
+41,42c41
+<     bind(WireTransfers.class).to(MongoBank.class);
+<   }
+---
+>     bind(WireTransfers.class).to(MongoBank.class);  }

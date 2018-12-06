@@ -1,0 +1,4 @@
+34c34
+<     return new Oliphaunt();
+---
+>    return new Oliphaunt();

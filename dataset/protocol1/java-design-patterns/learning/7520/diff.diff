@@ -1,0 +1,4 @@
+82c82
+<     Royalty drunkKing = RoyaltyObjectMother.createDrunkKing();
+---
+>     Royalty drunkKing = RoyaltyObjectMother.	createDrunkKing();

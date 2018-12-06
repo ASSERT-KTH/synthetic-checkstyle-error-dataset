@@ -1,0 +1,5 @@
+72,73c72
+<     assertEquals(expected, result);
+<   }
+---
+>     assertEquals(expected, result);  }

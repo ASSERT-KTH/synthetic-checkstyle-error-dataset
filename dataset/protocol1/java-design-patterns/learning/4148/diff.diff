@@ -1,0 +1,4 @@
+68c68
+<     return String.format("The giant looks %s, %s and %s.", health, fatigue, nourishment);
+---
+>     return String.format("The giant looks %s, %s and %s.", health, fatigue, nourishment	);

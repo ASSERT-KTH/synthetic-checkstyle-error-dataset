@@ -1,0 +1,4 @@
+37c37
+<     super("Octopus", Size.NORMAL, Movement.SWIMMING, Color.DARK);
+---
+>    super("Octopus", Size.NORMAL, Movement.SWIMMING, Color.DARK);

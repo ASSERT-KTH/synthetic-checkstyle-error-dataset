@@ -1,0 +1,5 @@
+31c31,32
+<     isisJdoSupport.executeUpdate("delete from \"simple\".\"SimpleObject\"");
+---
+>     
+> isisJdoSupport.executeUpdate("delete from \"simple\".\"SimpleObject\"");

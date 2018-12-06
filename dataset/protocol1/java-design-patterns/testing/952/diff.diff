@@ -1,0 +1,5 @@
+181,182c181
+<                 list.add(newIterator.next());
+<               }
+---
+>                 list.add(newIterator.next());              }

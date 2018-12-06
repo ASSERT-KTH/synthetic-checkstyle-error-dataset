@@ -1,0 +1,5 @@
+70,71c70
+<     expectedLayers.add(new CakeLayer("layer2", 2000));
+<     expectedLayers.add(new CakeLayer("layer3", 3000));
+---
+>     expectedLayers.add(new CakeLayer("layer2", 2000));    expectedLayers.add(new CakeLayer("layer3", 3000));

@@ -1,0 +1,4 @@
+52c52
+<     from("direct:wireTap").log("Message: ${body}").to("{{wireTapEndpoint}}");
+---
+>      from("direct:wireTap").log("Message: ${body}").to("{{wireTapEndpoint}}");

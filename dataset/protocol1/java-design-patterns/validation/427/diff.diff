@@ -1,0 +1,5 @@
+35c35,36
+<     assertFalse(thief instanceof Permission);
+---
+>     assertFalse(
+> thief instanceof Permission);

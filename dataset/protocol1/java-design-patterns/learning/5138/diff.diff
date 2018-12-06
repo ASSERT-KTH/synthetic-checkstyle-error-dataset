@@ -1,0 +1,4 @@
+64c64
+<     assertEquals(Integer.valueOf(5), iter.next().getVal(), "Fourth Node is 5.");
+---
+>    assertEquals(Integer.valueOf(5), iter.next().getVal(), "Fourth Node is 5.");

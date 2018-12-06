@@ -1,0 +1,5 @@
+45c45,46
+<     LOG.info(apiGatewayProxyRequestEvent.getPathParameters());
+---
+>     LOG.info(
+> apiGatewayProxyRequestEvent.getPathParameters());

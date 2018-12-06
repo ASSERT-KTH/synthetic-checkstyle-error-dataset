@@ -1,0 +1,5 @@
+90,91c90
+<   @MethodSource("dataProvider")
+<   public void testGetItems(Item expectedItem) throws Exception {
+---
+>   @MethodSource("dataProvider")  public void testGetItems(Item expectedItem) throws Exception {

@@ -1,0 +1,4 @@
+64c64
+<   public void testQuery() throws SQLException {
+---
+>   public void testQuery() throws SQLException{

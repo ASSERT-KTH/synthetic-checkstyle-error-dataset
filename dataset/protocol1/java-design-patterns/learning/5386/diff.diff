@@ -1,0 +1,5 @@
+29c29,30
+<   int FAILURE = -1;
+---
+>   int FAILURE = 
+> -1;

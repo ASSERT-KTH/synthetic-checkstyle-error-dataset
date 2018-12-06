@@ -1,0 +1,4 @@
+68c68
+<         sb.append(line).append('\n');
+---
+>         sb.append(line).append ('\n');

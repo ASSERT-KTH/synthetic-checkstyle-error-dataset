@@ -1,0 +1,4 @@
+49c49
+<       assertEquals(i, fbowl.countFruit());
+---
+>      assertEquals(i, fbowl.countFruit());

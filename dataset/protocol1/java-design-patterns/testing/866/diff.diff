@@ -1,0 +1,4 @@
+39c39
+<     LOGGER.info("The item spreads bloodlust.");
+---
+>    LOGGER.info("The item spreads bloodlust.");

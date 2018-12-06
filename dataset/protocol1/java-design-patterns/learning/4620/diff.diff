@@ -1,0 +1,5 @@
+69c69,70
+<         SimpleFluentIterable.fromCopyOf(integerList).filter(negatives()).first(3).asList();
+---
+>         SimpleFluentIterable.fromCopyOf(integerList).filter(negatives()).first(3).asList(
+> );

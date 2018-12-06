@@ -1,0 +1,4 @@
+61c61
+<     verify(dispatcher).dispatch(userCreatedEvent);
+---
+>    verify(dispatcher).dispatch(userCreatedEvent);

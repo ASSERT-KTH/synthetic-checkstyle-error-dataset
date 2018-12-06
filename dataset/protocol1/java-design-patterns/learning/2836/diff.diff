@@ -1,0 +1,5 @@
+73,74c73
+<       Thread.currentThread().interrupt();
+<     } finally {
+---
+>       Thread.currentThread().interrupt();    } finally {

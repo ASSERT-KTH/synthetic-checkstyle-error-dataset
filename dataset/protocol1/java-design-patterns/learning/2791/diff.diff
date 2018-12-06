@@ -1,0 +1,5 @@
+49c49,50
+<     final ContentStore contentStore = new ContentStore();
+---
+>     final ContentStore 
+> contentStore = new ContentStore();

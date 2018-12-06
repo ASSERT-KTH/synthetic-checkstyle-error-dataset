@@ -1,0 +1,4 @@
+51c51
+<   static WeaponFactory factory(Consumer<Builder> consumer) {
+---
+>   static WeaponFactory factory(Consumer <Builder> consumer) {

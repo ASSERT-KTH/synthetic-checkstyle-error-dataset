@@ -1,0 +1,4 @@
+43c43
+<     Queen flirtyQueen = RoyaltyObjectMother.createFlirtyQueen();
+---
+>     Queen 	flirtyQueen = RoyaltyObjectMother.createFlirtyQueen();

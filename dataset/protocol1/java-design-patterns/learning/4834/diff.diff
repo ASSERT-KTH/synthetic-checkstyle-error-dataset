@@ -1,0 +1,5 @@
+38,39c38
+<  * are displayed by sending correct request to the {@link FrontController} object. For example, the
+<  * {@link ArcherView} gets displayed when {@link FrontController} receives request "Archer". When
+---
+>  * are displayed by sending correct request to the {@link FrontController} object. For example, the * {@link ArcherView} gets displayed when {@link FrontController} receives request "Archer". When

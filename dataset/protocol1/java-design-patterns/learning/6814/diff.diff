@@ -1,0 +1,4 @@
+42c42
+<   public void setTwin(BallThread twin) {
+---
+>    public void setTwin(BallThread twin) {

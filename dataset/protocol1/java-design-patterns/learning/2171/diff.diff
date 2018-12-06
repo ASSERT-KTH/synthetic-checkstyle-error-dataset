@@ -1,0 +1,4 @@
+65c65
+<     objects.add(new SpaceStationIss(12, 12, 14, 14));
+---
+>     objects.add(new SpaceStationIss(12	, 12, 14, 14));

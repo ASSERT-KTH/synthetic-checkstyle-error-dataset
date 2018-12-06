@@ -1,0 +1,4 @@
+36c36
+<   public UserCreatedEvent(User user) {
+---
+>   public UserCreatedEvent (User user) {

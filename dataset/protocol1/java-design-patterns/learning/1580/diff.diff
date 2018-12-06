@@ -1,0 +1,4 @@
+73c73
+<     wireTapEndpoint.expectedMessageCount(1);
+---
+>    wireTapEndpoint.expectedMessageCount(1);

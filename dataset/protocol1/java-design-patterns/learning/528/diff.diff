@@ -1,0 +1,5 @@
+64c64,65
+<         new FlamingAsteroid(1, 2, 3, 4),
+---
+>         new FlamingAsteroid(1, 2, 
+> 3, 4),

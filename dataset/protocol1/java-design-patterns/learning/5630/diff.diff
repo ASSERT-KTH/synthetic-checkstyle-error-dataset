@@ -1,0 +1,4 @@
+33c33
+<   private boolean isHungry = true;
+---
+>   private boolean isHungry = 	true;

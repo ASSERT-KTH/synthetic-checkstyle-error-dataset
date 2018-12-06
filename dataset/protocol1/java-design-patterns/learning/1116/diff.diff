@@ -1,0 +1,4 @@
+44c44
+<     final ContentStore store = mock(ContentStore.class);
+---
+>     final ContentStore store = mock(ContentStore	.class);

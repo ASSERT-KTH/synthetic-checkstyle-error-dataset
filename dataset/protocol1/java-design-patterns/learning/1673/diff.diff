@@ -1,0 +1,4 @@
+54c54
+<     countries = data.isEmpty() ? countries : data;
+---
+>     countries = data.isEmpty() ? countries: data;

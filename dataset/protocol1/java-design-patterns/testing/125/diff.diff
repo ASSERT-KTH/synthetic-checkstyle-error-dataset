@@ -1,0 +1,4 @@
+75c75
+<       fail("Expected 'IllegalStateException' at this point, since the producer has stopped!");
+---
+>      fail("Expected 'IllegalStateException' at this point, since the producer has stopped!");

@@ -1,0 +1,5 @@
+64,65c64
+<     final Servant servant = new Servant("test");
+<     servant.giveCompliments(royalty);
+---
+>     final Servant servant = new Servant("test");    servant.giveCompliments(royalty);

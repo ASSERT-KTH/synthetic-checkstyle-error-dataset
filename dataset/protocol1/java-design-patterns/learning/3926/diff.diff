@@ -1,0 +1,5 @@
+40c40,41
+<     assertNotEquals(ticketId1, ticketId2);
+---
+>     assertNotEquals(ticketId1, ticketId2
+> );

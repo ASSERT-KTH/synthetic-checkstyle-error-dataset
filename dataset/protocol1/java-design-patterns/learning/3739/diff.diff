@@ -1,0 +1,5 @@
+33c33,34
+< public class ArcherView implements View {
+---
+> public class ArcherView implements 
+> View {

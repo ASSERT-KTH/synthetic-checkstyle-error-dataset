@@ -1,0 +1,4 @@
+42c42
+<       MenuAction menuAction = (MenuAction) action;
+---
+>      MenuAction menuAction = (MenuAction) action;

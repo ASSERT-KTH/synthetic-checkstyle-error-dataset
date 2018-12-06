@@ -1,0 +1,4 @@
+81c81
+<       final Customer customer = (Customer) that;
+---
+>      final Customer customer = (Customer) that;

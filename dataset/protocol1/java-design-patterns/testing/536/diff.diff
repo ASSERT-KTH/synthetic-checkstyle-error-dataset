@@ -1,0 +1,4 @@
+44c44
+<     final Task task = mock(Task.class);
+---
+>    final Task task = mock(Task.class);

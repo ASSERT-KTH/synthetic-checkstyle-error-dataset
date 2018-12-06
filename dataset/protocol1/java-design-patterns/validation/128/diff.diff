@@ -1,0 +1,4 @@
+60c60
+<   public HairColor getHairColor() {
+---
+>  public HairColor getHairColor() {

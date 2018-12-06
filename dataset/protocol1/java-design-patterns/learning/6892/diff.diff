@@ -1,0 +1,5 @@
+86,87c86
+<     // verifying that the businessDelegate was used by client during doTask() method.
+<     verify(businessDelegate).doTask();
+---
+>     // verifying that the businessDelegate was used by client during doTask() method.    verify(businessDelegate).doTask();

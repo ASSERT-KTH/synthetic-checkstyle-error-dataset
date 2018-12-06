@@ -1,0 +1,5 @@
+39,40c39
+<  * retrieved through service lookups. The Business Delegate itself may contain business logic too
+<  * potentially tying together multiple service calls, exception handling, retrying etc.
+---
+>  * retrieved through service lookups. The Business Delegate itself may contain business logic too * potentially tying together multiple service calls, exception handling, retrying etc.

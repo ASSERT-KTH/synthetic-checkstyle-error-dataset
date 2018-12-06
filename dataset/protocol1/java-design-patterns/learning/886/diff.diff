@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public class PotatoPeelingTaskTest extends TaskTest<PotatoPeelingTask> {
+---
+>  */public class PotatoPeelingTaskTest extends TaskTest<PotatoPeelingTask> {

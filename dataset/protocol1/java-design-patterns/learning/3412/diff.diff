@@ -1,0 +1,4 @@
+127c127
+<     result = 31 * result + (zipCode != null ? zipCode.hashCode() : 0);
+---
+>     result = 31 * result + (zipCode != 	null ? zipCode.hashCode() : 0);

@@ -1,0 +1,4 @@
+56c56
+<     private static final InitializingOnDemandHolderIdiom INSTANCE =
+---
+>     private static 	final InitializingOnDemandHolderIdiom INSTANCE =

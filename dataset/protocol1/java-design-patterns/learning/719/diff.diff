@@ -1,0 +1,5 @@
+87,88c87
+<     final String toString = testedCreature.toString();
+<     assertNotNull(toString);
+---
+>     final String toString = testedCreature.toString();    assertNotNull(toString);

@@ -1,0 +1,4 @@
+57c57
+<         tuple(INFO, zoom + " used with Dos configurator."));
+---
+>        tuple(INFO, zoom + " used with Dos configurator."));

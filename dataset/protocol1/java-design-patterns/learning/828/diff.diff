@@ -1,0 +1,5 @@
+30,31c30
+<   void put(Message msg) throws InterruptedException;
+< }
+---
+>   void put(Message msg) throws InterruptedException;}

@@ -1,0 +1,5 @@
+76c76,77
+<     final int paramNumber = defaultParam("number", ec, 3);
+---
+>     final int paramNumber = defaultParam("number", ec, 3
+> );

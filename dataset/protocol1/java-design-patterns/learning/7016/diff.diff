@@ -1,0 +1,4 @@
+42c42
+<     this.sourceList = new LinkedList<>();
+---
+>     this	.sourceList = new LinkedList<>();

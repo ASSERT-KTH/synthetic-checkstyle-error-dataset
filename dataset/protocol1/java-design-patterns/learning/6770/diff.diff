@@ -1,0 +1,4 @@
+36c36
+<     super(() -> EnumIvoryTower.INSTANCE);
+---
+>     super(() -> EnumIvoryTower.INSTANCE	);

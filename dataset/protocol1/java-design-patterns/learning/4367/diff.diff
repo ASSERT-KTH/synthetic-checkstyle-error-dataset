@@ -1,0 +1,4 @@
+65c65
+<     assertEquals(1, repository.getCountersCollection().count());
+---
+>     assertEquals(1, repository.getCountersCollection()	.count());

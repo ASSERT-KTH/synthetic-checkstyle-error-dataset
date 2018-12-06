@@ -1,0 +1,4 @@
+39c39
+<   public static final int PLAYER_MAX_BALANCE = 100;
+---
+>  public static final int PLAYER_MAX_BALANCE = 100;

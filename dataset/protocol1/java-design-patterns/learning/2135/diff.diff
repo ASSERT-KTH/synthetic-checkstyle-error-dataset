@@ -1,0 +1,4 @@
+28c28
+< interface RemoteServiceInterface {
+---
+> interface RemoteServiceInterface{

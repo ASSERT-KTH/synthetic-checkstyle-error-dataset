@@ -1,0 +1,4 @@
+56c56
+<     Heavy another = holderThreadSafe.getHeavy();
+---
+>     Heavy another 	= holderThreadSafe.getHeavy();

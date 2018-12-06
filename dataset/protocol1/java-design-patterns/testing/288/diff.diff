@@ -1,0 +1,4 @@
+66c66
+<         result = instance;
+---
+>         result = 	instance;

@@ -1,0 +1,4 @@
+61c61
+<   public BigDecimal getMoney() {
+---
+>   public BigDecimal 	getMoney() {

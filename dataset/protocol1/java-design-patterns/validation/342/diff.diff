@@ -1,0 +1,4 @@
+50c50
+<     desktopProduct.setPrice(priceClient.getPrice());
+---
+>     desktopProduct.setPrice (priceClient.getPrice());

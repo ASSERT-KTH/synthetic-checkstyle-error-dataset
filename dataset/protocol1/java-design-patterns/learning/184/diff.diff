@@ -1,0 +1,5 @@
+27,28c27
+<  * hierarchies without affecting those hierarchies, and without creating the dependency 
+<  * cycles that are inherent to the GoF Visitor pattern, by making the Visitor base class 
+---
+>  * hierarchies without affecting those hierarchies, and without creating the dependency  * cycles that are inherent to the GoF Visitor pattern, by making the Visitor base class 

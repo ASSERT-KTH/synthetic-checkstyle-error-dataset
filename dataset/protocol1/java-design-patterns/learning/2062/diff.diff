@@ -1,0 +1,4 @@
+46c46
+<     T instance = available.iterator().next();
+---
+>    T instance = available.iterator().next();

@@ -1,0 +1,4 @@
+46c46
+<   public static Service getService(String serviceJndiName) {
+---
+>   public static Service getService(String serviceJndiName) 	{

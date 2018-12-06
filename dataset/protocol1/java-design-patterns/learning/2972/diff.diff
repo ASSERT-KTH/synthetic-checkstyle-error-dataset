@@ -1,0 +1,5 @@
+81c81,82
+<     final File outputFile = this.testFolder.newFile();
+---
+>     final File outputFile = this.testFolder
+> .newFile();

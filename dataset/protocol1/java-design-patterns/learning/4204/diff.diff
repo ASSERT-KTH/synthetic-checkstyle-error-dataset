@@ -1,0 +1,4 @@
+32c32
+<   SHORT_SWORD("short sword"), SPEAR("spear"), AXE("axe"), UNDEFINED("");
+---
+>   SHORT_SWORD("short sword"), SPEAR("spear"), AXE("axe"), UNDEFINED(	"");

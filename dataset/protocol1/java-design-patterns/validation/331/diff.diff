@@ -1,0 +1,4 @@
+36c36
+<   public User(String username) {
+---
+>   public User (String username) {

@@ -1,0 +1,4 @@
+141c141
+<     final List<Integer> last4 = createFluentIterable(integers)
+---
+>    final List<Integer> last4 = createFluentIterable(integers)

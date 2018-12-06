@@ -1,0 +1,4 @@
+36c36
+<     this.next = next;
+---
+>     this.next = next	;

@@ -1,0 +1,4 @@
+39c39
+<     this.chest = chest;
+---
+>     this.	chest = chest;

@@ -1,0 +1,5 @@
+33c33,34
+< public interface Resource extends Closeable {
+---
+> public interface Resource 
+> extends Closeable {

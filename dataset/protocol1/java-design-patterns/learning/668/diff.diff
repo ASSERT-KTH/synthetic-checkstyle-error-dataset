@@ -1,0 +1,4 @@
+57c57
+<     final StealingMethod initialMethod = mock(StealingMethod.class);
+---
+>     final 	StealingMethod initialMethod = mock(StealingMethod.class);

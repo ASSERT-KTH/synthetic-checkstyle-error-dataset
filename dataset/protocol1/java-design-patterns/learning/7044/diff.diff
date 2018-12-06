@@ -1,0 +1,4 @@
+46c46
+<     UserDto dtoUser = new UserDto("John", "Doe", true, "whatever[at]wherever.com");
+---
+>    UserDto dtoUser = new UserDto("John", "Doe", true, "whatever[at]wherever.com");

@@ -1,0 +1,5 @@
+73c73,74
+<     SpringApplication.exit(context);
+---
+>     
+> SpringApplication.exit(context);

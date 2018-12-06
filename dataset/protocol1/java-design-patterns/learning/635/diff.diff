@@ -1,0 +1,4 @@
+41c41
+<   protected final void testBasicWeaponActions(final Weapon weapon) {
+---
+>  protected final void testBasicWeaponActions(final Weapon weapon) {

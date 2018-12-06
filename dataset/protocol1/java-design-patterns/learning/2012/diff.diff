@@ -1,0 +1,4 @@
+80c80
+<     simpleObjectWrapped.setName(NEW_NAME);
+---
+>    simpleObjectWrapped.setName(NEW_NAME);

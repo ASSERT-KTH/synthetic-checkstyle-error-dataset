@@ -1,0 +1,4 @@
+53c53
+<     testData.add(new Object[]{new NameFilter(), WRONG_NAME, "Invalid name!"});
+---
+>     testData.add(new Object[]{new NameFilter(), WRONG_NAME, "Invalid name!"})	;

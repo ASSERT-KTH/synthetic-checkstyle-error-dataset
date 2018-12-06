@@ -1,0 +1,5 @@
+56c56,57
+<     final List<Object[]> parameters = new ArrayList<>();
+---
+>     final List<Object
+> []> parameters = new ArrayList<>();

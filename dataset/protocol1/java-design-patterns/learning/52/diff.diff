@@ -1,0 +1,4 @@
+48c48
+<     verify(royalty).getFed();
+---
+>    verify(royalty).getFed();

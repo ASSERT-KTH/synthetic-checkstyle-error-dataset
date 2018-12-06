@@ -1,0 +1,4 @@
+66c66
+<     entry.sendBody(new String[] {"TEST1", "TEST2", "TEST3"});
+---
+>     entry.sendBody(new String[] {"TEST1", "TEST2", "TEST3"	});

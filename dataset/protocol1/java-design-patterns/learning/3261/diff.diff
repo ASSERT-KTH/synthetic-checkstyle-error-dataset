@@ -1,0 +1,5 @@
+44c44,45
+<     LOGGER.info("Lottery ticket for {} was checked and unfortunately did not win this time.", details.getEmail());
+---
+>     LOGGER
+> .info("Lottery ticket for {} was checked and unfortunately did not win this time.", details.getEmail());

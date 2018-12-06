@@ -1,0 +1,4 @@
+30c30
+<   void enter(Wizard wizard);
+---
+>    void enter(Wizard wizard);

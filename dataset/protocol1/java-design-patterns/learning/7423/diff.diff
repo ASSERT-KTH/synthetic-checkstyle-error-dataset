@@ -1,0 +1,4 @@
+154c154
+<   public Map<LotteryTicketId, LotteryTicket> findAll() {
+---
+>   public Map<LotteryTicketId	, LotteryTicket> findAll() {

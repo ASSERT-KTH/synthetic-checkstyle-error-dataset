@@ -1,0 +1,4 @@
+72c72
+<   public void testGetMovement(Creature testedCreature, String name, Size size, Movement movement) {
+---
+>   public void testGetMovement(Creature testedCreature, String name, Size size, Movement movement	) {

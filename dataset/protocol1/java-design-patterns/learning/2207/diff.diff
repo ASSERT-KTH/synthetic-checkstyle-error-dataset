@@ -1,0 +1,4 @@
+135c135
+<     assertEquals(Integer.valueOf(8), last4.get(3));
+---
+>     assertEquals(Integer.valueOf(8), 	last4.get(3));

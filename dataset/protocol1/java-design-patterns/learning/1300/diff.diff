@@ -1,0 +1,4 @@
+59c59
+<     isSuspended = !isSuspended;
+---
+>    isSuspended = !isSuspended;

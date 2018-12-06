@@ -1,0 +1,4 @@
+42c42
+<       assertEquals(weekday.name(), toString.toUpperCase());
+---
+>       assertEquals (weekday.name(), toString.toUpperCase());

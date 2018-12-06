@@ -1,0 +1,4 @@
+48c48
+<       result = (Spellbook) criteria.uniqueResult();
+---
+>      result = (Spellbook) criteria.uniqueResult();

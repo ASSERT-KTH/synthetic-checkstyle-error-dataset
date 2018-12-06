@@ -1,0 +1,4 @@
+74c74
+<     add(bot, BorderLayout.SOUTH);
+---
+>     add(bot, 	BorderLayout.SOUTH);

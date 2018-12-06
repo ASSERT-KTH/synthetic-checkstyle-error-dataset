@@ -1,0 +1,4 @@
+52c52
+<   public Author(String username, String name, String email) {
+---
+>   public Author(String username, String name, String 	email) {

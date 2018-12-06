@@ -1,0 +1,4 @@
+78c78
+<     objects.stream().forEach(o -> LOGGER.info(o.toString()));
+---
+>     objects.stream().forEach(o -> LOGGER.info(o	.toString()));

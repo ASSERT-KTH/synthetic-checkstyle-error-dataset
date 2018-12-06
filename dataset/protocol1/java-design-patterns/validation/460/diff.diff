@@ -1,0 +1,4 @@
+42c42
+<     for (final Event event : Event.values()) {
+---
+>     for (final Event event : Event.values()) 	{

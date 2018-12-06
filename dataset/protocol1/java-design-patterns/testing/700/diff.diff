@@ -1,0 +1,4 @@
+74c74
+<     ByteArrayOutputStream out = new ByteArrayOutputStream();
+---
+>      ByteArrayOutputStream out = new ByteArrayOutputStream();

@@ -1,0 +1,5 @@
+48c48,49
+<     assertFalse(fish.getSleeping());
+---
+>     assertFalse(fish.getSleeping(
+> ));

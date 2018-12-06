@@ -1,0 +1,4 @@
+88c88
+<     assertEquals(integers.get(3), first4.get(3));
+---
+>     assertEquals(integers.get(3	), first4.get(3));

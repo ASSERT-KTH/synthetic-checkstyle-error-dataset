@@ -1,0 +1,4 @@
+36c36
+<   void checkTicket(LotteryService service, Scanner scanner);
+---
+>    void checkTicket(LotteryService service, Scanner scanner);

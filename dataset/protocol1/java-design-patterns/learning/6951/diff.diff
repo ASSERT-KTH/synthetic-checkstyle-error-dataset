@@ -1,0 +1,4 @@
+32c32
+<   Castle createCastle();
+---
+>  Castle createCastle();

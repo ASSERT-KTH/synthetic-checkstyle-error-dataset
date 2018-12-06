@@ -1,0 +1,4 @@
+64c64
+<     final GiantView view = new GiantView();
+---
+>     final GiantView 	view = new GiantView();

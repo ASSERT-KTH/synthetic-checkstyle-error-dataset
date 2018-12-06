@@ -1,0 +1,5 @@
+95,96c95
+<     final Character prototype = new Character();
+<     prototype.set(Stats.ARMOR, 1);
+---
+>     final Character prototype = new Character();    prototype.set(Stats.ARMOR, 1);

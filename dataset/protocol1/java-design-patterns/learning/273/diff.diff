@@ -1,0 +1,5 @@
+57c57,58
+<     topShelf.add(factory.createPotion(PotionType.INVISIBILITY));
+---
+>     topShelf.add(factory.createPotion(
+> PotionType.INVISIBILITY));

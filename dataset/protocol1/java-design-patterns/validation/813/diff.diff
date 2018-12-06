@@ -1,0 +1,4 @@
+38c38
+<   public Soldier(SoldierUnit soldierUnit) {
+---
+>   public Soldier (SoldierUnit soldierUnit) {

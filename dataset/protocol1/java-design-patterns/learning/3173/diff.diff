@@ -1,0 +1,5 @@
+65,66c65
+<     this.maxAttempts = maxAttempts;
+<     this.delay = delay;
+---
+>     this.maxAttempts = maxAttempts;    this.delay = delay;

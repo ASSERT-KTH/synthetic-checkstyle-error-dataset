@@ -1,0 +1,4 @@
+39c39
+<   public Hammer(Enchantment enchantment) {
+---
+>  public Hammer(Enchantment enchantment) {

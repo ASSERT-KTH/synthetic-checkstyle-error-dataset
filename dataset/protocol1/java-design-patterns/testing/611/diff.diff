@@ -1,0 +1,5 @@
+44,45c44
+<     this.throttlePeriod = throttlePeriod;
+<     this.callsCount = callsCount;
+---
+>     this.throttlePeriod = throttlePeriod;    this.callsCount = callsCount;

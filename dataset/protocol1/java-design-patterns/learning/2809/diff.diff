@@ -1,0 +1,4 @@
+39c39
+<     fileLoader.setFileName("non-existing-file");
+---
+>    fileLoader.setFileName("non-existing-file");

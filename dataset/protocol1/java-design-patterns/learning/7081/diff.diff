@@ -1,0 +1,4 @@
+92c92
+<     LOGGER.info("enumIvoryTower1={}", enumIvoryTower1);
+---
+>     LOGGER.info("enumIvoryTower1={}"	, enumIvoryTower1);

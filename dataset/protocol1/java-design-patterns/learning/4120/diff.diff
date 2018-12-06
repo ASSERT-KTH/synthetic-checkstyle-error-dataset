@@ -1,0 +1,4 @@
+101c101
+<       final boolean sameType = expectedItem.getType() == item.getType();
+---
+>       final boolean sameType = expectedItem	.getType() == item.getType();

@@ -1,0 +1,4 @@
+30c30
+< public class CatapultCommand implements Command {
+---
+> public class CatapultCommand implements Command{

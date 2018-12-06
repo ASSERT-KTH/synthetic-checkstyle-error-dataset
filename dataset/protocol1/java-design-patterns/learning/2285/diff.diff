@@ -1,0 +1,4 @@
+62c62
+<   public Wizard(String name) {
+---
+>   public Wizard(String name){

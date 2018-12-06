@@ -1,0 +1,5 @@
+61c61,62
+<       for (EventEmitter emitter : emitters) {
+---
+>       for (EventEmitter emitter : emitters
+> ) {

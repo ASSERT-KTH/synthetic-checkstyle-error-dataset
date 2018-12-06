@@ -1,0 +1,4 @@
+92c92
+<                             final String expectedConfuseMethod, final String expectedStealMethod) {
+---
+>                             final String expectedConfuseMethod	, final String expectedStealMethod) {

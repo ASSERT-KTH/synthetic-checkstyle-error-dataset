@@ -1,0 +1,4 @@
+35c35
+<   public AdvancedWizard(Tobacco tobacco) {
+---
+>   public AdvancedWizard(Tobacco tobacco){

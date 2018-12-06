@@ -1,0 +1,4 @@
+35c35
+<   public PrinterController(Printer printer) {
+---
+>   public PrinterController(	Printer printer) {

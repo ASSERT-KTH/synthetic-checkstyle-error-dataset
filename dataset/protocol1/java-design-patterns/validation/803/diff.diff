@@ -1,0 +1,5 @@
+52c52,53
+<     LOGGER.info("Green dragon spotted ahead!");
+---
+>     LOGGER.info("Green dragon spotted ahead!"
+> );

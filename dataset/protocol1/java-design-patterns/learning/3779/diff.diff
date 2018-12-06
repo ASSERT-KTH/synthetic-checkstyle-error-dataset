@@ -1,0 +1,4 @@
+51c51
+<   public void reset() {
+---
+>   public void reset(	) {

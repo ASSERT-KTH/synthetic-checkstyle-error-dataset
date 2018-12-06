@@ -1,0 +1,5 @@
+57c57,58
+<     controller.setHealth(Health.WOUNDED);
+---
+>     
+> controller.setHealth(Health.WOUNDED);

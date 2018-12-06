@@ -1,0 +1,5 @@
+48c48,49
+<   private static final String DEFAULT_DB = "lotteryDB";
+---
+>   private static final 
+> String DEFAULT_DB = "lotteryDB";

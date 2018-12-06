@@ -1,0 +1,5 @@
+86,87c86
+<     properties.setProperty("hibernate.hbm2ddl.auto", "create-drop");
+<     return properties;
+---
+>     properties.setProperty("hibernate.hbm2ddl.auto", "create-drop");    return properties;

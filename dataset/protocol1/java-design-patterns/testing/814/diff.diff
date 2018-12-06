@@ -1,0 +1,4 @@
+46c46
+<     this.allowedCallsPerSecond = allowedCallsPerSecond;
+---
+>     this.allowedCallsPerSecond= allowedCallsPerSecond;

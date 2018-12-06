@@ -1,0 +1,5 @@
+72,73c72
+<     assertEquals(Armor.CHAIN_MAIL, hero.getArmor());
+<     assertEquals(Weapon.SWORD, hero.getWeapon());
+---
+>     assertEquals(Armor.CHAIN_MAIL, hero.getArmor());    assertEquals(Weapon.SWORD, hero.getWeapon());

@@ -1,0 +1,5 @@
+65c65,66
+<           guardedQueue.put(20);
+---
+>           guardedQueue
+> .put(20);

@@ -1,0 +1,4 @@
+70c70
+<     return container.allMatches(new QueryDefault<>(SimpleObject.class, "findByName", "name", name));
+---
+>     return 	container.allMatches(new QueryDefault<>(SimpleObject.class, "findByName", "name", name));

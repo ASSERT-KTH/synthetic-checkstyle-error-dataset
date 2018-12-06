@@ -1,0 +1,4 @@
+39c39
+<     LOGGER.info("Displaying catapults");
+---
+>     LOGGER.info(	"Displaying catapults");

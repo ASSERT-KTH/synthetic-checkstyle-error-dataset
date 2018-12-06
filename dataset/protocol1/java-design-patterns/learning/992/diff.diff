@@ -1,0 +1,4 @@
+18c18
+< import org.apache.isis.core.integtestsupport.IsisSystemForTest;
+---
+> import org.apache.isis	.core.integtestsupport.IsisSystemForTest;

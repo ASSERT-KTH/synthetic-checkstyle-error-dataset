@@ -1,0 +1,4 @@
+34c34
+<     final Commander commander = new Commander(new CommanderUnit("CommanderUnitTest"));
+---
+>      final Commander commander = new Commander(new CommanderUnit("CommanderUnitTest"));

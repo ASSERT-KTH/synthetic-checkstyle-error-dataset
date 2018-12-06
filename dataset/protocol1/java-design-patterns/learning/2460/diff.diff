@@ -1,0 +1,4 @@
+33c33
+< public class FlyingEnchantment implements Enchantment {
+---
+>  public class FlyingEnchantment implements Enchantment {

@@ -1,0 +1,4 @@
+33c33
+<       "Friday"), SATURDAY("Saturday"), SUNDAY("Sunday");
+---
+>       	"Friday"), SATURDAY("Saturday"), SUNDAY("Sunday");

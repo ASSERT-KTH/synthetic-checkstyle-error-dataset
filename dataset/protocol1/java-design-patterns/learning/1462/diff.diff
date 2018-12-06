@@ -1,0 +1,5 @@
+66c66,67
+<         Arrays.asList(new Goblin(), new Octopus(), new Dragon(), new Shark(), new Troll(),
+---
+>         Arrays.asList(new Goblin(), new 
+> Octopus(), new Dragon(), new Shark(), new Troll(),

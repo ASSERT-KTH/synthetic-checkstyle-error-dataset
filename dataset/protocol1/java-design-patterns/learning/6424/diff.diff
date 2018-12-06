@@ -1,0 +1,4 @@
+107c107
+<         for (final EventObserver observer : observers) {
+---
+>         for (final EventObserver 	observer : observers) {

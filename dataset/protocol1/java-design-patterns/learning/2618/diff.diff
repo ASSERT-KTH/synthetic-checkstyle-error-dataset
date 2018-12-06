@@ -1,0 +1,5 @@
+106c106,107
+<   private static List<String> convertDatesToString(Result res) {
+---
+>   
+> private static List<String> convertDatesToString(Result res) {

@@ -1,0 +1,4 @@
+70c70
+<   public boolean delete(final Customer customer) {
+---
+>   public boolean delete(final Customer customer){

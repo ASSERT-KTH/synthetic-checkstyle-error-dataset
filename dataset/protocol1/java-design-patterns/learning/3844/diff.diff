@@ -1,0 +1,4 @@
+61c61
+<     LOGGER.error("Lottery ticket for {} could not be submitted because the credit transfer of 3 credits failed.",
+---
+>     LOGGER	.error("Lottery ticket for {} could not be submitted because the credit transfer of 3 credits failed.",

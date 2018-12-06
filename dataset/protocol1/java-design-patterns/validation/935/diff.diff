@@ -1,0 +1,4 @@
+41c41
+<       POISON_PILL.addHeader(Headers.SENDER, "sender");
+---
+>      POISON_PILL.addHeader(Headers.SENDER, "sender");

@@ -1,0 +1,4 @@
+83c83
+<     return String.format("id=%s name=%s calories=%d", id, name, calories);
+---
+>    return String.format("id=%s name=%s calories=%d", id, name, calories);

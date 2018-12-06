@@ -1,0 +1,5 @@
+43,44c43
+<       LOGGER.info("Only HayesVisitor is allowed to visit Hayes modem");
+<     }
+---
+>       LOGGER.info("Only HayesVisitor is allowed to visit Hayes modem");    }

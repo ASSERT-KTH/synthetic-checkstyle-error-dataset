@@ -1,0 +1,4 @@
+36c36
+<     this.producer = producer;
+---
+>    this.producer = producer;

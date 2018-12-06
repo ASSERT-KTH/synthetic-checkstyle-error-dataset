@@ -1,0 +1,4 @@
+41c41
+<       return (Command) commandClass.newInstance();
+---
+>       return (Command) commandClass	.newInstance();

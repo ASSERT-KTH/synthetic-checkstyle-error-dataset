@@ -1,0 +1,4 @@
+48c48
+<     items.add(new Item(ItemType.WEAPON, "Dagger of poison"));
+---
+>     items.add(new Item(ItemType	.WEAPON, "Dagger of poison"));

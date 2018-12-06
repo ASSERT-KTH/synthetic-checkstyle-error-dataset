@@ -1,0 +1,4 @@
+89c89
+<     assertEquals(1, appender.getLogSize());
+---
+>     assertEquals(1	, appender.getLogSize());

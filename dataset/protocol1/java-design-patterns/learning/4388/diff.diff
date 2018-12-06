@@ -1,0 +1,4 @@
+83c83
+<     result = prime * result + ((playerDetails == null) ? 0 : playerDetails.hashCode());
+---
+>     result 	= prime * result + ((playerDetails == null) ? 0 : playerDetails.hashCode());

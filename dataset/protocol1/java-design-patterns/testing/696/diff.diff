@@ -1,0 +1,5 @@
+70c70,71
+<         new Hero.Builder(Profession.WARRIOR, "Amberjill").withHairColor(HairColor.BLOND)
+---
+>         new Hero.Builder(Profession.WARRIOR, "Amberjill").withHairColor(
+> HairColor.BLOND)

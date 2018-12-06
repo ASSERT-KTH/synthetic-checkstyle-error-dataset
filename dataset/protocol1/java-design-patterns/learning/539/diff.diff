@@ -1,0 +1,4 @@
+44c44
+<     final String message = "message";
+---
+>    final String message = "message";

@@ -1,0 +1,5 @@
+47c47,48
+<   public final TemporaryFolder testFolder = new TemporaryFolder();
+---
+>   public 
+> final TemporaryFolder testFolder = new TemporaryFolder();

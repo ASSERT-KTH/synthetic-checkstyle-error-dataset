@@ -1,0 +1,5 @@
+93c93,94
+<   private static void performOperationsUsing(final CustomerDao customerDao) throws Exception {
+---
+>   private static void performOperationsUsing(final CustomerDao customerDao) throws 
+> Exception {

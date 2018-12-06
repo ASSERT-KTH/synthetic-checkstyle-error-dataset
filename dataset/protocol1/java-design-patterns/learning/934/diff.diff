@@ -1,0 +1,4 @@
+45c45
+<   static Servant travis = new Servant("Travis");
+---
+>  static Servant travis = new Servant("Travis");

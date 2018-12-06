@@ -1,0 +1,4 @@
+86c86
+<   private void verifyWeapon(Weapon weapon, Class<?> clazz) {
+---
+>  private void verifyWeapon(Weapon weapon, Class<?> clazz) {

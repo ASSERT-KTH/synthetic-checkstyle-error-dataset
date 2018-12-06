@@ -1,0 +1,4 @@
+61c61
+<     boolean flirtStatus = queen.getFlirted(this);
+---
+>     boolean flirtStatus = queen.	getFlirted(this);

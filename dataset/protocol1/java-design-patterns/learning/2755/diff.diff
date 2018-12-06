@@ -1,0 +1,4 @@
+36c36
+< public class OrcsTest extends ObserverTest<GOrcs> {
+---
+> public class OrcsTest extends 	ObserverTest<GOrcs> {

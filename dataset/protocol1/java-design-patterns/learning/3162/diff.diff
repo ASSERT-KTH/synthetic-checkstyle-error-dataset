@@ -1,0 +1,4 @@
+62c62
+<                 .setProperty("hibernate.current_session_context_class", "thread")
+---
+>                 .setProperty("hibernate.current_session_context_class", 	"thread")

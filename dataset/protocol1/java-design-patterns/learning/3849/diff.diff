@@ -1,0 +1,5 @@
+48c48,49
+<     tenantCallsCount.putIfAbsent(tenantName, new AtomicLong(0));
+---
+>     tenantCallsCount
+> .putIfAbsent(tenantName, new AtomicLong(0));

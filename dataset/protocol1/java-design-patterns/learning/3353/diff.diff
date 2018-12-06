@@ -1,0 +1,5 @@
+44c44,45
+<   public HomePageViewModel homePage() {
+---
+>   public HomePageViewModel homePage(
+> ) {

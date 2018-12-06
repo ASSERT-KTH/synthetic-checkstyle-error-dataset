@@ -1,0 +1,5 @@
+32c32,33
+< public interface SpellbookDao extends Dao<Spellbook> {
+---
+> public interface SpellbookDao extends Dao<Spellbook
+> > {

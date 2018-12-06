@@ -1,0 +1,4 @@
+62c62
+<     testData.add(new Object[]{new ContactFilter(), WRONG_ADDRESS, ""});
+---
+>     testData.add(new Object[]{new 	ContactFilter(), WRONG_ADDRESS, ""});

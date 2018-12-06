@@ -1,0 +1,5 @@
+33,34c33
+<  */
+< public class Goblin extends AbstractCreature {
+---
+>  */public class Goblin extends AbstractCreature {

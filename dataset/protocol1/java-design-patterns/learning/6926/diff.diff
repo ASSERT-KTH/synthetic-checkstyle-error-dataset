@@ -1,0 +1,4 @@
+44c44
+<     return new OrcBeast(this);
+---
+>     return new OrcBeast(	this);

@@ -1,0 +1,5 @@
+63c63,64
+<     factory = new HeroFactoryImpl(new OrcMage("axe"), new OrcWarlord("sword"), new OrcBeast("laser"));
+---
+>     factory = new HeroFactoryImpl(new OrcMage("axe"), new 
+> OrcWarlord("sword"), new OrcBeast("laser"));

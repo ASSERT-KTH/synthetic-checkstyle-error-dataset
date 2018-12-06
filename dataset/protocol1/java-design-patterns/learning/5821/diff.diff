@@ -1,0 +1,4 @@
+53c53
+<     LOGGER.info("{} hits {}.", meteoroid.getClass().getSimpleName(), this.getClass().getSimpleName());
+---
+>     LOGGER.info("{} hits {}.", meteoroid.getClass(	).getSimpleName(), this.getClass().getSimpleName());

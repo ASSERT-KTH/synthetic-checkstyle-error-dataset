@@ -1,0 +1,4 @@
+60c60
+<     LOGGER.info("deserializedFishV1 name={} age={} length={} weight={}",
+---
+>     LOGGER.info ("deserializedFishV1 name={} age={} length={} weight={}",

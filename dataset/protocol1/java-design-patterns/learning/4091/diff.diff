@@ -1,0 +1,4 @@
+101c101
+<   public TranslatableString validateUpdateName(final String name) {
+---
+>   public TranslatableString validateUpdateName(final 	String name) {

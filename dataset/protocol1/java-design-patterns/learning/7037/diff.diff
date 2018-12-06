@@ -1,0 +1,5 @@
+63,64c63
+<         Expression leftExpression = stack.pop();
+<         LOGGER.info("popped from stack left: {} right: {}",
+---
+>         Expression leftExpression = stack.pop();        LOGGER.info("popped from stack left: {} right: {}",

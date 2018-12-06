@@ -1,0 +1,4 @@
+44c44
+<     LOGGER.info("The item flies and strikes the enemies finally returning to owner's hand.");
+---
+>     LOGGER.info("The item flies and strikes the enemies finally returning to owner's hand."	);

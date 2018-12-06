@@ -1,0 +1,5 @@
+76c76,77
+<     customerResource.delete(customer.getId());
+---
+>     customerResource.delete(customer
+> .getId());

@@ -1,0 +1,4 @@
+33c33
+< public class HitAndRunMethod extends StealingMethod {
+---
+> public class HitAndRunMethod extends StealingMethod{

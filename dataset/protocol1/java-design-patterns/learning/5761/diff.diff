@@ -1,0 +1,4 @@
+42c42
+<     UserCreatedEvent userCreatedEvent = new UserCreatedEvent(user);
+---
+>     UserCreatedEvent userCreatedEvent = new 	UserCreatedEvent(user);

@@ -1,0 +1,5 @@
+40c40,41
+<     System.out.print(c);
+---
+>     
+> System.out.print(c);

@@ -1,0 +1,5 @@
+54c54,55
+<       new PropertiesFeatureToggleVersion(properties);
+---
+>       
+> new PropertiesFeatureToggleVersion(properties);

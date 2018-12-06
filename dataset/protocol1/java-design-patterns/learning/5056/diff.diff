@@ -1,0 +1,4 @@
+20c20
+< import domainapp.dom.modules.simple.SimpleObject;
+---
+> import domainapp.dom	.modules.simple.SimpleObject;

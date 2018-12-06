@@ -1,0 +1,4 @@
+38c38
+<   void onEvent(E event);
+---
+>   void onEvent(E event	);

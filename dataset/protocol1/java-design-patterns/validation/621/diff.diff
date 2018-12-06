@@ -1,0 +1,5 @@
+63,64c63
+<     assertEquals(EXPECTED_VALUE, order.getDepositNumber());
+<   }
+---
+>     assertEquals(EXPECTED_VALUE, order.getDepositNumber());  }

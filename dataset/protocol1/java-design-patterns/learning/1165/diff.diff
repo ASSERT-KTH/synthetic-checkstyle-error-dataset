@@ -1,0 +1,5 @@
+54c54,55
+<     ConfigureForUnixVisitor mockVisitor = mock(ConfigureForUnixVisitor.class);
+---
+>     
+> ConfigureForUnixVisitor mockVisitor = mock(ConfigureForUnixVisitor.class);

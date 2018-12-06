@@ -1,0 +1,5 @@
+169,170c169
+<   public boolean update(Customer customer) throws Exception {
+<     try (Connection connection = getConnection();
+---
+>   public boolean update(Customer customer) throws Exception {    try (Connection connection = getConnection();

@@ -1,0 +1,4 @@
+71c71
+<   public List<Wizard> findWizardsWithSpellbook(String name) {
+---
+>   public List<Wizard> findWizardsWithSpellbook(String name){

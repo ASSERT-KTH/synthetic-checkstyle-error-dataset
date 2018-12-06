@@ -1,0 +1,4 @@
+83c83
+<     final Character stupid = new Character(Type.ROGUE, prototype);
+---
+>     final Character stupid= new Character(Type.ROGUE, prototype);

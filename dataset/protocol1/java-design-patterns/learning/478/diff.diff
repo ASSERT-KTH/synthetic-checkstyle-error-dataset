@@ -1,0 +1,4 @@
+59c59
+<     logger.info("The lottery ticket database was cleared.");
+---
+>     logger	.info("The lottery ticket database was cleared.");

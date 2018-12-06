@@ -1,0 +1,4 @@
+57c57
+<     final Filter filter = mock(Filter.class);
+---
+>    final Filter filter = mock(Filter.class);

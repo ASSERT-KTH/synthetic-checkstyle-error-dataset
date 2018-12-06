@@ -1,0 +1,4 @@
+134c134
+<     result = 31 * result + (logStreamName != null ? logStreamName.hashCode() : 0);
+---
+>     result = 31 * result + (logStreamName != null ? logStreamName.hashCode() :0);

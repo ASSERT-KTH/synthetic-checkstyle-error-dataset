@@ -1,0 +1,4 @@
+77c77
+<     verifyNoMoreInteractions(observer);
+---
+>     verifyNoMoreInteractions(	observer);

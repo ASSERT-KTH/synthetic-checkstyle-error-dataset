@@ -1,0 +1,4 @@
+51c51
+<     assertEquals(newId, customer.getId());
+---
+>     assertEquals(newId, customer	.getId());

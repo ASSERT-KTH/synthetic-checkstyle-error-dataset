@@ -1,0 +1,5 @@
+29,30c29
+< import com.iluwatar.hexagonal.domain.LotteryNumbers;
+< import com.iluwatar.hexagonal.domain.LotteryTicket;
+---
+> import com.iluwatar.hexagonal.domain.LotteryNumbers;import com.iluwatar.hexagonal.domain.LotteryTicket;

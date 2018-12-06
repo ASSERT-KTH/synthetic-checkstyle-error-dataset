@@ -1,0 +1,4 @@
+37c37
+<     super("Troll", Size.LARGE, Movement.WALKING, Color.DARK);
+---
+>    super("Troll", Size.LARGE, Movement.WALKING, Color.DARK);

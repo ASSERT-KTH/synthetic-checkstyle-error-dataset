@@ -1,0 +1,4 @@
+76c76
+<     assertEquals("username1", author.getUsername());
+---
+>    assertEquals("username1", author.getUsername());

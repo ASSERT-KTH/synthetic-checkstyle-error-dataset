@@ -1,0 +1,5 @@
+64,65c64
+<     king.makeHappy();
+<     king.makeDrunk();
+---
+>     king.makeHappy();    king.makeDrunk();

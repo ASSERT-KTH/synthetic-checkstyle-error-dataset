@@ -1,0 +1,5 @@
+27,28c27
+<  */
+< public interface ProductInventoryClient {
+---
+>  */public interface ProductInventoryClient {

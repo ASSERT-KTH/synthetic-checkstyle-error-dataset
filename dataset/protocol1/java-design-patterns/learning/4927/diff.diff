@@ -1,0 +1,4 @@
+53c53
+<     User user = new User("iluwatar");
+---
+>    User user = new User("iluwatar");

@@ -1,0 +1,4 @@
+82c82
+<       .sorted(Comparator.comparing(Car::getYear)).collect(Collectors.toList());
+---
+>       .sorted(Comparator.comparing(Car	::getYear)).collect(Collectors.toList());

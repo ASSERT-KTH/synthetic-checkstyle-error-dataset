@@ -1,0 +1,4 @@
+194c194
+<           int eventId = s.nextInt();
+---
+>          int eventId = s.nextInt();

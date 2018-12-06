@@ -1,0 +1,4 @@
+84c84
+<     assertTrue(appender.logContains("Writer 1 begin"));
+---
+>    assertTrue(appender.logContains("Writer 1 begin"));

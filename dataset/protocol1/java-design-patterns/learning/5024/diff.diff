@@ -1,0 +1,4 @@
+39c39
+<     for (final Weekday weekday : Weekday.values()) {
+---
+>    for (final Weekday weekday : Weekday.values()) {

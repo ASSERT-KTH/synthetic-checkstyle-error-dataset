@@ -1,0 +1,4 @@
+41c41
+<     String host = DEFAULT_HOST;
+---
+>     String host 	= DEFAULT_HOST;

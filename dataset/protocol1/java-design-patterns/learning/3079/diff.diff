@@ -1,0 +1,5 @@
+40c40,41
+<     long result = remoteService.doRemoteFunction(10);
+---
+>     long result = 
+> remoteService.doRemoteFunction(10);

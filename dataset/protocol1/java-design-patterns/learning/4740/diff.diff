@@ -1,0 +1,4 @@
+98c98
+<     this.expectedStealMethod = expectedStealMethod;
+---
+>    this.expectedStealMethod = expectedStealMethod;

@@ -1,0 +1,4 @@
+36c36
+<   private FakeDelayProvider fakeDelayProvider = new FakeDelayProvider();
+---
+>   private 	FakeDelayProvider fakeDelayProvider = new FakeDelayProvider();

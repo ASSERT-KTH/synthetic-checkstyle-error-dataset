@@ -1,0 +1,5 @@
+63,64c63
+<     troll.fleeBattle();
+<     assertEquals("The troll shrieks in horror and runs away!", appender.getLastMessage());
+---
+>     troll.fleeBattle();    assertEquals("The troll shrieks in horror and runs away!", appender.getLastMessage());

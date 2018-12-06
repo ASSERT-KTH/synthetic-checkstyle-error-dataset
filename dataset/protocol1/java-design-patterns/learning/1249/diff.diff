@@ -1,0 +1,4 @@
+56c56
+<     assertEquals(0, mongoBank.getAccountsCollection().count());
+---
+>    assertEquals(0, mongoBank.getAccountsCollection().count());

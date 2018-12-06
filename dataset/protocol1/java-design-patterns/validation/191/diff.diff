@@ -1,0 +1,5 @@
+32c32,33
+< public abstract class DomainEvent implements Serializable {
+---
+> public 
+> abstract class DomainEvent implements Serializable {

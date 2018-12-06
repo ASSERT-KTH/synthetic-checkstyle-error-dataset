@@ -1,0 +1,5 @@
+50c50,51
+<   public void setEjbService(EjbService ejbService) {
+---
+>   public void setEjbService(EjbService 
+> ejbService) {

@@ -1,0 +1,4 @@
+85c85
+<         CharacterStepBuilder.newBuilder().name("Desmond").fighterClass("Rogue").noWeapon().build();
+---
+>         	CharacterStepBuilder.newBuilder().name("Desmond").fighterClass("Rogue").noWeapon().build();

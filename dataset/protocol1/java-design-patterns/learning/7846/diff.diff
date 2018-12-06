@@ -1,0 +1,5 @@
+27,28c27
+<  */
+< public interface ConsoleAdministrationSrv {
+---
+>  */public interface ConsoleAdministrationSrv {

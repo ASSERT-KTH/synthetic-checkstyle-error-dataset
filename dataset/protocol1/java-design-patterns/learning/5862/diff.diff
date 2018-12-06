@@ -1,0 +1,5 @@
+26,27c26
+<  */
+< public class Spear implements Weapon {
+---
+>  */public class Spear implements Weapon {

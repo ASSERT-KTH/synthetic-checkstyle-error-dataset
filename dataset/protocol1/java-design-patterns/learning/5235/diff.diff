@@ -1,0 +1,4 @@
+49c49
+<     new SimpleFileWriter("testfile.txt", writeHello);
+---
+>     new SimpleFileWriter ("testfile.txt", writeHello);

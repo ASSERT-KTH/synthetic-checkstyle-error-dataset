@@ -1,0 +1,5 @@
+26c26,27
+< import static org.hamcrest.CoreMatchers.instanceOf;
+---
+> import static org.hamcrest
+> .CoreMatchers.instanceOf;

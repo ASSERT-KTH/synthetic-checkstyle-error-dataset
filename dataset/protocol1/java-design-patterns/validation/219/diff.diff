@@ -1,0 +1,4 @@
+113c113
+<     private List<ILoggingEvent> log = new LinkedList<>();
+---
+>    private List<ILoggingEvent> log = new LinkedList<>();

@@ -1,0 +1,4 @@
+72c72
+<     assertFalse(iter.hasNext(), "hasNext() should return false for empty tree.");
+---
+>    assertFalse(iter.hasNext(), "hasNext() should return false for empty tree.");

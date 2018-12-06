@@ -1,0 +1,4 @@
+104c104
+<         assertNotNull(instance);
+---
+>         assertNotNull(	instance);

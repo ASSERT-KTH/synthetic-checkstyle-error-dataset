@@ -1,0 +1,4 @@
+128c128
+<     getPendingAudio()[tailIndex] = new PlayMessage(stream, volume);
+---
+>     getPendingAudio()[tailIndex]= new PlayMessage(stream, volume);

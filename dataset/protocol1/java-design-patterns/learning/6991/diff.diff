@@ -1,0 +1,4 @@
+34c34
+<   private final HolderThreadSafe holder = new HolderThreadSafe();
+---
+>  private final HolderThreadSafe holder = new HolderThreadSafe();

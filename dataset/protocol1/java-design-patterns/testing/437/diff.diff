@@ -1,0 +1,5 @@
+64,65c64
+<    * calling this method and process them.
+<    * Retrieves and removes the head of this queue, or returns null if this queue is empty.
+---
+>    * calling this method and process them.   * Retrieves and removes the head of this queue, or returns null if this queue is empty.

@@ -1,0 +1,5 @@
+166c166,167
+<             while (currentIndex < stopIndex && fromIterator.hasNext()) {
+---
+>             while (currentIndex < stopIndex 
+> && fromIterator.hasNext()) {

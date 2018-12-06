@@ -1,0 +1,4 @@
+56c56
+<     final StartingData startingData = new StartingData(LocalDateTime.now());
+---
+>    final StartingData startingData = new StartingData(LocalDateTime.now());

@@ -1,0 +1,4 @@
+46c46
+<       tx = session.beginTransaction();
+---
+>      tx = session.beginTransaction();

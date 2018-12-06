@@ -1,0 +1,5 @@
+40,41c40
+<       final String toString = menuItem.toString();
+<       assertNotNull(toString);
+---
+>       final String toString = menuItem.toString();      assertNotNull(toString);

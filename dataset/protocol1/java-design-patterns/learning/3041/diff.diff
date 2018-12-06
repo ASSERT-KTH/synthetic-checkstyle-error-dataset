@@ -1,0 +1,4 @@
+28c28
+< public class Bow implements Weapon {
+---
+> public class 	Bow implements Weapon {

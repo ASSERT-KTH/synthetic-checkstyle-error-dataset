@@ -1,0 +1,4 @@
+71c71
+<   public void setWeapon(String weapon) {
+---
+>   public void 	setWeapon(String weapon) {

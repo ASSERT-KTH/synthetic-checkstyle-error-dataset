@@ -1,0 +1,5 @@
+30,31c30
+<  * The severity of this error is bounded by its context: was the search for the customer triggered
+<  * by an input from some end user, or were the search parameters pulled from your database?
+---
+>  * The severity of this error is bounded by its context: was the search for the customer triggered * by an input from some end user, or were the search parameters pulled from your database?

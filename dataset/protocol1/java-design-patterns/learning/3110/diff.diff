@@ -1,0 +1,4 @@
+59c59
+<     parameters.add(new Object[]{new ErrorView(), "Error 500"});
+---
+>    parameters.add(new Object[]{new ErrorView(), "Error 500"});

@@ -1,0 +1,4 @@
+39c39
+<     LOGGER.info("The troll tries to grab you!");
+---
+>    LOGGER.info("The troll tries to grab you!");

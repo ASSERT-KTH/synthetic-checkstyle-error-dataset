@@ -1,0 +1,4 @@
+69c69
+<     setLayout(new BorderLayout());
+---
+>    setLayout(new BorderLayout());

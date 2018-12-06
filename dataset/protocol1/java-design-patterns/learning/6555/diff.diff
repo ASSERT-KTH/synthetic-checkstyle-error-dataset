@@ -1,0 +1,4 @@
+36c36
+< @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)
+---
+> @	Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)

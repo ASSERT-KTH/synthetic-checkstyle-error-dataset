@@ -1,0 +1,4 @@
+31c31
+< public class PrinterController implements Printer {
+---
+> public class PrinterController 	implements Printer {

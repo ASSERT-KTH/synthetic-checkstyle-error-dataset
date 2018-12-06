@@ -1,0 +1,4 @@
+42c42
+<       assertEquals(mutex.getOwner(), Thread.currentThread());
+---
+>      assertEquals(mutex.getOwner(), Thread.currentThread());

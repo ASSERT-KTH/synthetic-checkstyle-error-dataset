@@ -1,0 +1,4 @@
+78c78
+<     String body = (String) endpoint.getReceivedExchanges().get(0).getIn().getBody();
+---
+>     String body = (String) endpoint.getReceivedExchanges().get(0).getIn ().getBody();

@@ -1,0 +1,4 @@
+51c51
+<       person = getObjectMapper().readValue(apiGatewayProxyRequestEvent.getBody(), Person.class);
+---
+>       person= getObjectMapper().readValue(apiGatewayProxyRequestEvent.getBody(), Person.class);

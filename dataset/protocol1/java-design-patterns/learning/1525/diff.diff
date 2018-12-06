@@ -1,0 +1,4 @@
+30c30
+< public class IvoryTowerTest extends SingletonTest<IvoryTower> {
+---
+> public class IvoryTowerTest 	extends SingletonTest<IvoryTower> {

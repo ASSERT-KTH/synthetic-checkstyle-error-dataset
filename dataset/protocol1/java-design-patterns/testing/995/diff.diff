@@ -1,0 +1,4 @@
+38c38
+<   public void steal() {
+---
+>   public 	void steal() {

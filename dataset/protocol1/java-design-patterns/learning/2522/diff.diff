@@ -1,0 +1,5 @@
+35,36c35
+<     super(numPotatoes * TIME_PER_POTATO);
+<   }
+---
+>     super(numPotatoes * TIME_PER_POTATO);  }

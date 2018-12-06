@@ -1,0 +1,4 @@
+41c41
+<     for (int i = 0; i < NazgulEnum.values().length; i++) {
+---
+>     for (int i = 0; i 	< NazgulEnum.values().length; i++) {

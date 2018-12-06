@@ -1,0 +1,5 @@
+26c26,27
+< import com.iluwatar.databus.AbstractDataType;
+---
+> import com.iluwatar.databus.AbstractDataType
+> ;

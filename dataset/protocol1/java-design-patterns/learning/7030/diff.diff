@@ -1,0 +1,4 @@
+49c49
+<     return apiGatewayProxyResponseEvent(SUCCESS_STATUS_CODE, person);
+---
+>    return apiGatewayProxyResponseEvent(SUCCESS_STATUS_CODE, person);

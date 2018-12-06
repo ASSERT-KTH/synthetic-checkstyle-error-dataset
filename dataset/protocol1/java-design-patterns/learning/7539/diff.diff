@@ -1,0 +1,5 @@
+43c43,44
+< public abstract class DaoBaseImpl<E extends BaseEntity> implements Dao<E> {
+---
+> public abstract class 
+> DaoBaseImpl<E extends BaseEntity> implements Dao<E> {

@@ -1,0 +1,4 @@
+48c48
+<   public static InitializingOnDemandHolderIdiom getInstance() {
+---
+>   public static InitializingOnDemandHolderIdiom getInstance () {

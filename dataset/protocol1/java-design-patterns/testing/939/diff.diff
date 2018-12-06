@@ -1,0 +1,5 @@
+50c50,51
+<     channel.getHandler().handleChannelRead(channel, readObject, key);
+---
+>     
+> channel.getHandler().handleChannelRead(channel, readObject, key);

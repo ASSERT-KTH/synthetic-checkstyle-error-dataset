@@ -1,0 +1,4 @@
+112c112
+<     String amount = readString( scanner );
+---
+>     String amount = readString( 	scanner );

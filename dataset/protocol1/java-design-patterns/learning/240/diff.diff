@@ -1,0 +1,5 @@
+129c129,130
+<   private List<CakeLayer> getAvailableLayerEntities() {
+---
+>   private List<CakeLayer> getAvailableLayerEntities(
+> ) {

@@ -1,0 +1,4 @@
+36c36
+<   public static final String AUT_PATH = "src/main/resources/sample-ui/";
+---
+>    public static final String AUT_PATH = "src/main/resources/sample-ui/";

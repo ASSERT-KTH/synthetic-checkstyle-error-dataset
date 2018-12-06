@@ -1,0 +1,4 @@
+140c140
+<     LOGGER.info(AppManager.printCacheContent());
+---
+>     LOGGER.	info(AppManager.printCacheContent());

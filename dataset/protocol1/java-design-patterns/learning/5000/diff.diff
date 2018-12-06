@@ -1,0 +1,4 @@
+49c49
+<       final Field instanceField = supplierClass.getDeclaredField("heavyInstance");
+---
+>      final Field instanceField = supplierClass.getDeclaredField("heavyInstance");

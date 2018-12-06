@@ -1,0 +1,4 @@
+40c40
+<   public Rectangle(int left, int top, int right, int bottom) {
+---
+>   public Rectangle(int left, int top, int 	right, int bottom) {

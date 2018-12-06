@@ -1,0 +1,5 @@
+117,118c117
+<     assertFalse(loader.isLoaded());
+<     assertEquals(1, stub.getMessagesSent());
+---
+>     assertFalse(loader.isLoaded());    assertEquals(1, stub.getMessagesSent());

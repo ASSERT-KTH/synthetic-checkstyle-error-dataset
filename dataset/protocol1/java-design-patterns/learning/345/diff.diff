@@ -1,0 +1,4 @@
+106c106
+<     this.visitor.visitSergeant(new Sergeant());
+---
+>     this.visitor.visitSergeant(	new Sergeant());

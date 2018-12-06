@@ -1,0 +1,5 @@
+121c121,122
+<     this.contents = new JLabel("File contents :");
+---
+>     
+> this.contents = new JLabel("File contents :");

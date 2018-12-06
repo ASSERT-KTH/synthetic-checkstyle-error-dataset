@@ -1,0 +1,5 @@
+53c53,54
+<     loadBalancer1.serverRequest(new Request("Hello"));
+---
+>     loadBalancer1
+> .serverRequest(new Request("Hello"));

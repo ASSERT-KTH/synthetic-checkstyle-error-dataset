@@ -1,0 +1,5 @@
+59c59,60
+<                 .addAnnotatedClass(Spell.class)
+---
+>                 .
+> addAnnotatedClass(Spell.class)

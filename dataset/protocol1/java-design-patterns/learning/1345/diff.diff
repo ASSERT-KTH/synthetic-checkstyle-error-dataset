@@ -1,0 +1,4 @@
+58c58
+<     return String.format("CakeLayerInfo id=%d name=%s calories=%d", id.orElse(-1L), name, calories);
+---
+>     return String.format("CakeLayerInfo id=%d name=%s calories=%d", id.orElse(-1L	), name, calories);

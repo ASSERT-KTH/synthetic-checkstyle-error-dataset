@@ -1,0 +1,4 @@
+84c84
+<     Gson gson = new Gson();
+---
+>    Gson gson = new Gson();

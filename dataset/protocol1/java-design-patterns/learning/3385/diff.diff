@@ -1,0 +1,5 @@
+48c48,49
+<     FileLoader loader = new FileLoader();
+---
+>     FileLoader loader 
+> = new FileLoader();

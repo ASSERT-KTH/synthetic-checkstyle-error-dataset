@@ -1,0 +1,5 @@
+107c107,108
+<     public boolean logContains(String message) {
+---
+>     public 
+> boolean logContains(String message) {

@@ -1,0 +1,4 @@
+53c53
+<   public UnitTest(final Function<Unit[], U> factory) {
+---
+>  public UnitTest(final Function<Unit[], U> factory) {

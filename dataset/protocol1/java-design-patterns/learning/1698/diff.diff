@@ -1,0 +1,5 @@
+37,38c37
+<  * Server 1, the second LoadBalancer on a new request will select the Second server. If a third
+<  * LoadBalancer is created and a new request is made to it, then it will select the third server as
+---
+>  * Server 1, the second LoadBalancer on a new request will select the Second server. If a third * LoadBalancer is created and a new request is made to it, then it will select the third server as

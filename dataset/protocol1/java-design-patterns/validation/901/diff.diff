@@ -1,0 +1,4 @@
+42c42
+<   void ticketSubmitError(PlayerDetails details);
+---
+>   void ticketSubmitError(PlayerDetails details)	;

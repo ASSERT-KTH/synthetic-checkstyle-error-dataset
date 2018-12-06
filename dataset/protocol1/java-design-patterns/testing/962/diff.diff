@@ -1,0 +1,4 @@
+38c38
+<     final Field holderField = HolderNaive.class.getDeclaredField("heavy");
+---
+>     final Field holderField = HolderNaive.class.getDeclaredField("heavy"	);

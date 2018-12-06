@@ -1,0 +1,4 @@
+51c51
+<   public int getAvailableLicenses() {
+---
+>    public int getAvailableLicenses() {

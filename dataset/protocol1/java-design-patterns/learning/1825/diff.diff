@@ -1,0 +1,5 @@
+61c61,62
+<     businessLookup = spy(new BusinessLookup());
+---
+>     
+> businessLookup = spy(new BusinessLookup());

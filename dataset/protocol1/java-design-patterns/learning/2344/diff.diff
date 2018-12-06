@@ -1,0 +1,4 @@
+36c36
+<     super(ThreadSafeLazyLoadedIvoryTower::getInstance);
+---
+>     super(ThreadSafeLazyLoadedIvoryTower	::getInstance);

@@ -1,0 +1,4 @@
+80c80
+<     return new ArrayList<>(spellbook.getWizards());
+---
+>     return new ArrayList<>(	spellbook.getWizards());

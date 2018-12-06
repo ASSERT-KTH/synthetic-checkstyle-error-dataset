@@ -1,0 +1,4 @@
+49c49
+<     return "Orcish warlord attacks with " + weapon;
+---
+>    return "Orcish warlord attacks with " + weapon;

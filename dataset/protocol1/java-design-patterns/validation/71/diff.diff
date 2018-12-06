@@ -1,0 +1,5 @@
+54,55c54
+<       builder.add(WeaponType.SPEAR, Spear::new);
+<       builder.add(WeaponType.BOW, Bow::new);
+---
+>       builder.add(WeaponType.SPEAR, Spear::new);      builder.add(WeaponType.BOW, Bow::new);

@@ -1,0 +1,5 @@
+47,48c47
+<     AlchemistShop alchemistShop = new AlchemistShop();
+<     alchemistShop.enumerate();
+---
+>     AlchemistShop alchemistShop = new AlchemistShop();    alchemistShop.enumerate();

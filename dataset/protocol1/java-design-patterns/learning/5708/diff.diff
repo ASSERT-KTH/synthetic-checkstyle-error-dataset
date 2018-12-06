@@ -1,0 +1,5 @@
+52,53c52
+<     drunkUnhappyKing.flirt(notFlirtyQueen);
+<     assertFalse(drunkUnhappyKing.isHappy());
+---
+>     drunkUnhappyKing.flirt(notFlirtyQueen);    assertFalse(drunkUnhappyKing.isHappy());

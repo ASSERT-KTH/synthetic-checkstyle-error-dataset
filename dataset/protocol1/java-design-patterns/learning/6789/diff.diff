@@ -1,0 +1,4 @@
+196c196
+<     return iterable.spliterator();
+---
+>     return iterable	.spliterator();

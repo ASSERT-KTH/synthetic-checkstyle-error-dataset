@@ -1,0 +1,4 @@
+62c62
+<             details.getEmail());
+---
+>             details.getEmail()	);

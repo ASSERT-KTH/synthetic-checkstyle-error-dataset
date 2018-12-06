@@ -1,0 +1,4 @@
+48c48
+<     String jsonFieldResponse = mapper.toJson(video, fields);
+---
+>     String jsonFieldResponse 	= mapper.toJson(video, fields);

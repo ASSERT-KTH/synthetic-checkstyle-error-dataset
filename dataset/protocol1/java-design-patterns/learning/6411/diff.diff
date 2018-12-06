@@ -1,0 +1,4 @@
+66c66
+<     Injector injector = Guice.createInjector(new TobaccoModule());
+---
+>    Injector injector = Guice.createInjector(new TobaccoModule());

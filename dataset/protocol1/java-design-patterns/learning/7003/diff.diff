@@ -1,0 +1,5 @@
+48c48,49
+<   public static DataType of(final LocalDateTime when) {
+---
+>   public static DataType of(
+> final LocalDateTime when) {

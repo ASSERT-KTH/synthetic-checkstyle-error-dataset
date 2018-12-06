@@ -1,0 +1,4 @@
+98c98
+<     expectedExceptions.expectMessage("Exclamation mark is not allowed");
+---
+>    expectedExceptions.expectMessage("Exclamation mark is not allowed");

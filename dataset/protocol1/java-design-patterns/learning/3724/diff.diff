@@ -1,0 +1,4 @@
+48c48
+<     king.makeRequest(new Request(RequestType.DEFEND_CASTLE, "defend castle"));
+---
+>     king	.makeRequest(new Request(RequestType.DEFEND_CASTLE, "defend castle"));

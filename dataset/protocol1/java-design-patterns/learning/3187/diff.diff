@@ -1,0 +1,4 @@
+39c39
+<       Tenant tenant = new Tenant("FailTenant", -1, new CallsCount());
+---
+>      Tenant tenant = new Tenant("FailTenant", -1, new CallsCount());

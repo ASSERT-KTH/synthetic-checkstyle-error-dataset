@@ -1,0 +1,4 @@
+43c43
+<   public void storeChanged(Store store) {
+---
+>   public void storeChanged(Store 	store) {

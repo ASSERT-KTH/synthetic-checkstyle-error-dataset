@@ -1,0 +1,4 @@
+106c106
+<       final ArgumentCaptor<Optional<Exception>> optionalCaptor = ArgumentCaptor.forClass((Class) Optional.class);
+---
+>       final ArgumentCaptor<Optional< Exception>> optionalCaptor = ArgumentCaptor.forClass((Class) Optional.class);

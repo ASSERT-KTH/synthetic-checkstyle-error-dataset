@@ -1,0 +1,4 @@
+54c54
+<     List<Car> cars = CarFactory.createCars();
+---
+>     List<Car> cars = CarFactory.createCars()	;

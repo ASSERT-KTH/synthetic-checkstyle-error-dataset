@@ -1,0 +1,5 @@
+58c58,59
+<   public static void scenario(Servant servant, int compliment) {
+---
+>   
+> public static void scenario(Servant servant, int compliment) {

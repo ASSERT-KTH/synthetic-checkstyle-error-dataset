@@ -1,0 +1,4 @@
+33c33
+<   private FishingBoat boat;
+---
+>    private FishingBoat boat;

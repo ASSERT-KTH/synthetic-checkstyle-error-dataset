@@ -1,0 +1,4 @@
+84c84
+<     assertNotNull(character.toString());
+---
+>    assertNotNull(character.toString());

@@ -1,0 +1,5 @@
+53c53,54
+<     new SimpleFileWriter(temporaryFile.getPath(), Assertions::assertNotNull);
+---
+>     new SimpleFileWriter(temporaryFile.getPath
+> (), Assertions::assertNotNull);

@@ -1,0 +1,4 @@
+73c73
+<   public BaseDaoTest(final Function<String, E> factory, final D dao) {
+---
+>   public BaseDaoTest(final Function<String, E> factory, final D 	dao) {

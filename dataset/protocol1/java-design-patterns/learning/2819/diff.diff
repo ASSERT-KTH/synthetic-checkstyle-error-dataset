@@ -1,0 +1,4 @@
+94c94
+<       T trampoline(final Trampoline<T> trampoline) {
+---
+>      T trampoline(final Trampoline<T> trampoline) {

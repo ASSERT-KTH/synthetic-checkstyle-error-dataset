@@ -1,0 +1,4 @@
+61c61
+<     WeatherType[] enumValues = WeatherType.values();
+---
+>    WeatherType[] enumValues = WeatherType.values();

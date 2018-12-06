@@ -1,0 +1,5 @@
+42c42,43
+<   public Optional<LotteryTicket> findById(LotteryTicketId id) {
+---
+>   public Optional<LotteryTicket> findById(
+> LotteryTicketId id) {

@@ -1,0 +1,4 @@
+176c176
+<     private final Function<? super T, V> func;
+---
+>     private 	final Function<? super T, V> func;

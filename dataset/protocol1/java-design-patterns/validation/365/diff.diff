@@ -1,0 +1,4 @@
+43c43
+<       final String toString = event.toString();
+---
+>       final String toString = event.toString()	;

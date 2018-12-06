@@ -1,0 +1,4 @@
+57c57
+<     UserDto u2 = userConverter.convertFromEntity(userConverter.convertFromDto(u1));
+---
+>     UserDto u2 = userConverter.convertFromEntity(userConverter.convertFromDto(	u1));

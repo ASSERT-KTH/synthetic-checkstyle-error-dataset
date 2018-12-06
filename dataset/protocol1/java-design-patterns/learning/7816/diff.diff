@@ -1,0 +1,4 @@
+52c52
+<     for (MenuItem item : MenuItem.values()) {
+---
+>     for(MenuItem item : MenuItem.values()) {

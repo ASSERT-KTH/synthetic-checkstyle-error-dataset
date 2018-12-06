@@ -1,0 +1,5 @@
+42c42,43
+<     assertEquals(testMsg, msg.getMsg());
+---
+>     assertEquals(testMsg, msg.getMsg()
+> );

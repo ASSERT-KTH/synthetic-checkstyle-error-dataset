@@ -1,0 +1,4 @@
+46c46
+<     assertEquals("RUNNING...", filterManager.filterRequest(mock(Order.class)));
+---
+>    assertEquals("RUNNING...", filterManager.filterRequest(mock(Order.class)));

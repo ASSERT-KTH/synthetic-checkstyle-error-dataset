@@ -1,0 +1,5 @@
+36c36,37
+<   public static final String SERVICE_BANK_ACCOUNT = "123-123";
+---
+>   public static final String SERVICE_BANK_ACCOUNT 
+> = "123-123";

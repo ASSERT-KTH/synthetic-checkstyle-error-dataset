@@ -1,0 +1,4 @@
+49c49
+<     BusinessLookup businessLookup = new BusinessLookup();
+---
+>     BusinessLookup businessLookup = new BusinessLookup ();

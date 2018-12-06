@@ -1,0 +1,5 @@
+56c56,57
+<     executorService.execute(() -> channel.getHandler().handleChannelRead(channel, readObject, key));
+---
+>     executorService.execute(() -> channel.getHandler(
+> ).handleChannelRead(channel, readObject, key));

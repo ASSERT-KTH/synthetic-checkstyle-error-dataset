@@ -1,0 +1,4 @@
+53c53
+<     PlayerDetails details = new PlayerDetails(email, account, phone);
+---
+>     PlayerDetails details = 	new PlayerDetails(email, account, phone);

@@ -1,0 +1,4 @@
+80c80
+<     final List<SimpleObject> all = wrap(simpleObjects).listAll();
+---
+>     final List< SimpleObject> all = wrap(simpleObjects).listAll();

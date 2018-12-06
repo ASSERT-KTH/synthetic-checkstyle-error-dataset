@@ -1,0 +1,5 @@
+68c68,69
+<     final Star star = new Star(StarType.SUN, 1, 2);
+---
+>     
+> final Star star = new Star(StarType.SUN, 1, 2);

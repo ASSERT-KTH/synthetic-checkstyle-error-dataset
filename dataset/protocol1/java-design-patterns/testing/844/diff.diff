@@ -1,0 +1,5 @@
+41,42c41
+<     assertEquals("Be equal", 3628800, result);
+<   }
+---
+>     assertEquals("Be equal", 3628800, result);  }

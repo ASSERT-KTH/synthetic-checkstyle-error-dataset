@@ -1,0 +1,4 @@
+55c55
+<     return log.stream().anyMatch(event -> event.getFormattedMessage().contains(message));
+---
+>    return log.stream().anyMatch(event -> event.getFormattedMessage().contains(message));

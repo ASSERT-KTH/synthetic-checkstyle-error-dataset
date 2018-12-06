@@ -1,0 +1,4 @@
+58c58
+<     final Map<Message.Headers, String> headers = message.getHeaders();
+---
+>    final Map<Message.Headers, String> headers = message.getHeaders();

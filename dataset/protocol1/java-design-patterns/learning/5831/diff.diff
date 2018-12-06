@@ -1,0 +1,4 @@
+40c40
+<     SpringApplication.run(App.class, args);
+---
+>    SpringApplication.run(App.class, args);

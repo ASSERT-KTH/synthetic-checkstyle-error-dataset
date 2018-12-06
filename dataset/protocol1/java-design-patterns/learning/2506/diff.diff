@@ -1,0 +1,4 @@
+126c126
+<     result = 31 * result + (state != null ? state.hashCode() : 0);
+---
+>     result = 31 *result + (state != null ? state.hashCode() : 0);

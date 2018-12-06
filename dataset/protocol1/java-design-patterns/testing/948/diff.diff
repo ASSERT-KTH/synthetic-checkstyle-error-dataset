@@ -1,0 +1,5 @@
+56c56,57
+<     LetterComposite elfMessage = new Messenger().messageFromElves();
+---
+>     LetterComposite elfMessage = new Messenger(
+> ).messageFromElves();

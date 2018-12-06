@@ -1,0 +1,4 @@
+48c48
+<     assertTrue(numbers.getNumbers().contains(2));
+---
+>     assertTrue(numbers.getNumbers ().contains(2));

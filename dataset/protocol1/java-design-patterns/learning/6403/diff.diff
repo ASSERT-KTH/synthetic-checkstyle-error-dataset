@@ -1,0 +1,4 @@
+80c80
+<       if (virtualDB.containsKey(userId)) {
+---
+>       if (virtualDB.containsKey (userId)) {

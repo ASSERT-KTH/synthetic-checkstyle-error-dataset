@@ -1,0 +1,4 @@
+62c62
+<   <T> T endProcess(AsyncResult<T> asyncResult) throws ExecutionException, InterruptedException;
+---
+>   <T> T endProcess(AsyncResult<T > asyncResult) throws ExecutionException, InterruptedException;

@@ -1,0 +1,4 @@
+32c32
+< public interface Race extends Observer<GWeather, Race, WeatherType> {
+---
+> public interface Race extends Observer< GWeather, Race, WeatherType> {

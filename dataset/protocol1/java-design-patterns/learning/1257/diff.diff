@@ -1,0 +1,5 @@
+37c37,38
+<     return Optional.ofNullable((Number) get(PROPERTY));
+---
+>     return Optional.
+> ofNullable((Number) get(PROPERTY));

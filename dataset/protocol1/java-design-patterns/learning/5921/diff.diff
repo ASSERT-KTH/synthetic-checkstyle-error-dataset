@@ -1,0 +1,4 @@
+40c40
+<   private static final String ALBUM_PAGE_HTML_FILE = "album-page.html";
+---
+>   private static final String ALBUM_PAGE_HTML_FILE 	= "album-page.html";

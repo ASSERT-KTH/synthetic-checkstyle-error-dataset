@@ -1,0 +1,4 @@
+37c37
+<   private static List<User> paidGroup = new ArrayList<>();
+---
+>   private static List <User> paidGroup = new ArrayList<>();

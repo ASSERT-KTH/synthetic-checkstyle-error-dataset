@@ -1,0 +1,5 @@
+72,73c72
+<     wizard.act(Action.TALE);
+<     rogue.act(Action.GOLD);
+---
+>     wizard.act(Action.TALE);    rogue.act(Action.GOLD);

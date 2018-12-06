@@ -1,0 +1,5 @@
+27,28c27
+<  * The Model-View-Presenter(MVP) architectural pattern, helps us achieve what is called
+<  * "The separation of concerns" principle. This is accomplished by separating the application's
+---
+>  * The Model-View-Presenter(MVP) architectural pattern, helps us achieve what is called * "The separation of concerns" principle. This is accomplished by separating the application's

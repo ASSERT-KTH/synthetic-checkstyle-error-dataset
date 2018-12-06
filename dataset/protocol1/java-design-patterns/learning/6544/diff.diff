@@ -1,0 +1,4 @@
+59c59
+<     LOGGER.info("Get all video information:");
+---
+>     LOGGER.info(	"Get all video information:");

@@ -1,0 +1,4 @@
+246c246
+<     return new LazyFluentIterable<>(iterable);
+---
+>     return 	new LazyFluentIterable<>(iterable);

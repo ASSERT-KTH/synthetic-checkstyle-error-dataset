@@ -1,0 +1,4 @@
+51c51
+<     super("*", MultiplyExpression::new);
+---
+>     super("*", MultiplyExpression::new	);

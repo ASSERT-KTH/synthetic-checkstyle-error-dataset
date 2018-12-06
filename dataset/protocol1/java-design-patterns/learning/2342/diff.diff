@@ -1,0 +1,4 @@
+49c49
+<     return "Elven eagle helps in " + helpType;
+---
+>    return "Elven eagle helps in " + helpType;

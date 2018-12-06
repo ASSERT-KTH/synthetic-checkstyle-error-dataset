@@ -1,0 +1,4 @@
+54c54
+<     assertThrows(UnsupportedOperationException.class, POISON_PILL::getHeaders);
+---
+>    assertThrows(UnsupportedOperationException.class, POISON_PILL::getHeaders);

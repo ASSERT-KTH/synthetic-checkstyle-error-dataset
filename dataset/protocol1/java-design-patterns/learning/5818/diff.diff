@@ -1,0 +1,5 @@
+84c84,85
+<   private static String readString(Scanner scanner) {
+---
+>   private static String readString(Scanner 
+> scanner) {

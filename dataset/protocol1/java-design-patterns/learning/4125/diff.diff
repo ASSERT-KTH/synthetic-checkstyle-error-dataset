@@ -1,0 +1,4 @@
+38c38
+<         || order.getName().matches(".*[^\\w|\\s]+.*")) {
+---
+>         || 	order.getName().matches(".*[^\\w|\\s]+.*")) {

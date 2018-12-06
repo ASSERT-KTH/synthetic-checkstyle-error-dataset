@@ -1,0 +1,4 @@
+89c89
+<     Account accountFrom = AccountAggregate.getAccount(accountNoFrom);
+---
+>    Account accountFrom = AccountAggregate.getAccount(accountNoFrom);

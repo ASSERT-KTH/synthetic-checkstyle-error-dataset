@@ -1,0 +1,4 @@
+59c59
+<     final WizardTowerProxy proxy = new WizardTowerProxy(new IvoryTower());
+---
+>    final WizardTowerProxy proxy = new WizardTowerProxy(new IvoryTower());

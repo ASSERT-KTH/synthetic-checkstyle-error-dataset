@@ -1,0 +1,4 @@
+23c23
+< public interface IEvent {
+---
+> public interface 	IEvent {

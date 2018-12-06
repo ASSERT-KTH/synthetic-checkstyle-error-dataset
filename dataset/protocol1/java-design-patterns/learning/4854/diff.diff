@@ -1,0 +1,5 @@
+58c58,59
+<     for (final String serviceName : serviceNames) {
+---
+>     for (final String serviceName : serviceNames
+> ) {

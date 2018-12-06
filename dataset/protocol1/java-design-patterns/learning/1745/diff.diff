@@ -1,0 +1,5 @@
+100,101c100
+<     wizards.add(mock(Wizard.class));
+<     wizards.add(mock(Wizard.class));
+---
+>     wizards.add(mock(Wizard.class));    wizards.add(mock(Wizard.class));

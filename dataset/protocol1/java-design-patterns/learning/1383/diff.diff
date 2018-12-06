@@ -1,0 +1,4 @@
+87c87
+<     final Character weak = new Character("weak", prototype);
+---
+>     final Character weak = new Character("weak", 	prototype);

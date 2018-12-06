@@ -1,0 +1,4 @@
+79c79
+<     weapon = blacksmith.manufactureWeapon(WeaponType.AXE);
+---
+>     weapon = blacksmith.manufactureWeapon(WeaponType.	AXE);

@@ -1,0 +1,4 @@
+63c63
+<         from("direct:origin").multicast().to("mock:foo", "mock:bar", "stream:out");
+---
+>         from("direct:origin").multicast().to("mock:foo", "mock:bar"	, "stream:out");

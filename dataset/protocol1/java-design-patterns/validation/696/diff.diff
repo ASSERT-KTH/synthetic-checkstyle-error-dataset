@@ -1,0 +1,4 @@
+45c45
+<    * @param fromEntity Function that converts given domain entity into the dto entity.
+---
+>    * @param fromEntityFunction that converts given domain entity into the dto entity.

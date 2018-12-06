@@ -1,0 +1,4 @@
+30c30
+< public enum ActionType {
+---
+> public 	enum ActionType {

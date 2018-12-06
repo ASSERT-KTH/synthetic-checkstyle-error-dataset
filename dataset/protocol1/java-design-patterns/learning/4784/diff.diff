@@ -1,0 +1,5 @@
+70c70,71
+<     LOGGER.info("ADUNAPHEL={}", NazgulEnum.ADUNAPHEL);
+---
+>     LOGGER.info("ADUNAPHEL={}", NazgulEnum.ADUNAPHEL
+> );

@@ -1,0 +1,5 @@
+54,55c54
+<     assertEquals(secondStudent, secondSameStudent);
+<   }
+---
+>     assertEquals(secondStudent, secondSameStudent);  }

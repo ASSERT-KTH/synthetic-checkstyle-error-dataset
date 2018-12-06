@@ -1,0 +1,4 @@
+59c59
+<     if (!HeavyFactory.class.isInstance(heavy)) {
+---
+>     if (!	HeavyFactory.class.isInstance(heavy)) {

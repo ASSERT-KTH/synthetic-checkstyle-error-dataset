@@ -1,0 +1,4 @@
+147c147
+<     doc.put("phone", ticket.getPlayerDetails().getPhoneNumber());
+---
+>    doc.put("phone", ticket.getPlayerDetails().getPhoneNumber());

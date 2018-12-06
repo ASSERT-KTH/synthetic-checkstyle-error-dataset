@@ -1,0 +1,4 @@
+26c26
+< import javax.persistence.InheritanceType;
+---
+> import javax.	persistence.InheritanceType;

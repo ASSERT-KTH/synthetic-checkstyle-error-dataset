@@ -1,0 +1,5 @@
+45,46c45
+<  * This implementation shows what the API Gateway pattern could look like for an e-commerce site.
+<  * The {@link ApiGateway} makes calls to the Image and Price microservices using the
+---
+>  * This implementation shows what the API Gateway pattern could look like for an e-commerce site. * The {@link ApiGateway} makes calls to the Image and Price microservices using the

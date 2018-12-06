@@ -1,0 +1,4 @@
+66c66
+<     assertEquals(stop, statusMember.getStopped());
+---
+>      assertEquals(stop, statusMember.getStopped());

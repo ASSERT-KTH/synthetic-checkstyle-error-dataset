@@ -1,0 +1,4 @@
+60c60
+<     goblin.printStatus();
+---
+>     goblin.	printStatus();

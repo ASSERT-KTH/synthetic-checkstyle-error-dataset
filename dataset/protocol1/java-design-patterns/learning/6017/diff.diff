@@ -1,0 +1,4 @@
+42c42
+< public interface Dispatcher {
+---
+>  public interface Dispatcher {

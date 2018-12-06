@@ -1,0 +1,4 @@
+68c68
+<     commands.bookAddedToAuthor("Effective Java", 40.54, "jBloch");
+---
+>     commands.bookAddedToAuthor("Effective Java", 40.54	, "jBloch");

@@ -1,0 +1,4 @@
+41c41
+<     testData.add(new Object[]{WeatherType.WINDY, "The orc smell almost vanishes in the wind."});
+---
+>    testData.add(new Object[]{WeatherType.WINDY, "The orc smell almost vanishes in the wind."});

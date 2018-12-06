@@ -1,0 +1,5 @@
+32c32,33
+< public interface HasType extends Document {
+---
+> public interface HasType 
+> extends Document {

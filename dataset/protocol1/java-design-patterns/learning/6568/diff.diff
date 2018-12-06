@@ -1,0 +1,5 @@
+26,27c26
+< import org.apache.camel.builder.RouteBuilder;
+< import org.springframework.boot.SpringApplication;
+---
+> import org.apache.camel.builder.RouteBuilder;import org.springframework.boot.SpringApplication;

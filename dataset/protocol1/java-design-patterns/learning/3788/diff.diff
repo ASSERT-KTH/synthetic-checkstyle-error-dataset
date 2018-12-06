@@ -1,0 +1,5 @@
+52c52,53
+<     final MovementSelector swimmingSelector = new MovementSelector(Movement.SWIMMING);
+---
+>     final MovementSelector swimmingSelector = new MovementSelector(Movement.SWIMMING
+> );

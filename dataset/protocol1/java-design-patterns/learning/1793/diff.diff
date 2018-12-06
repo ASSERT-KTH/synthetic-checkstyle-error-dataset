@@ -1,0 +1,4 @@
+48c48
+<     appender.stop();
+---
+>    appender.stop();

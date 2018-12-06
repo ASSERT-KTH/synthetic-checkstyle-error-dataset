@@ -1,0 +1,5 @@
+55c55,56
+<   static List<Object[]> dataProvider() {
+---
+>   static List
+> <Object[]> dataProvider() {

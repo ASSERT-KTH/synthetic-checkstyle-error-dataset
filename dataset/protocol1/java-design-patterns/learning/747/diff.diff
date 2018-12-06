@@ -1,0 +1,5 @@
+56c56,57
+<     final DragonSlayingStrategy initialStrategy = mock(DragonSlayingStrategy.class);
+---
+>     
+> final DragonSlayingStrategy initialStrategy = mock(DragonSlayingStrategy.class);

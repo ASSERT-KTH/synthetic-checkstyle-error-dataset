@@ -1,0 +1,5 @@
+49c49,50
+<     assertEquals(1, asteroid.getLeft());
+---
+>     assertEquals(1, 
+> asteroid.getLeft());

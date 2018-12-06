@@ -1,0 +1,5 @@
+65c65,66
+<     assertFalse(new Rectangle(0, 0, 1, 1).intersectsWith(new Rectangle(2, 2, 3, 3)));
+---
+>     assertFalse(new Rectangle(0, 0, 1, 1).intersectsWith(new Rectangle(2, 2, 
+> 3, 3)));

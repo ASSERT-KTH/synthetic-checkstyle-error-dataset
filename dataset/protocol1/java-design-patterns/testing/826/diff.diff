@@ -1,0 +1,5 @@
+39c39,40
+<     LOGGER.info("JmsService is now processing");
+---
+>     LOGGER.info("JmsService is now processing"
+> );

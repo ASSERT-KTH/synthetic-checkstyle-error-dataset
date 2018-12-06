@@ -1,0 +1,4 @@
+28c28
+< import static org.junit.jupiter.api.Assertions.assertNull;
+---
+> import static 	org.junit.jupiter.api.Assertions.assertNull;

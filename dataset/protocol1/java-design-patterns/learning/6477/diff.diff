@@ -1,0 +1,4 @@
+34c34
+<   void set(Stats stat, Integer val);
+---
+>    void set(Stats stat, Integer val);

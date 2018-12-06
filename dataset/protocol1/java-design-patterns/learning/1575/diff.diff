@@ -1,0 +1,4 @@
+37c37
+<     super("Shark", Size.NORMAL, Movement.SWIMMING, Color.LIGHT);
+---
+>     super("Shark", Size.NORMAL, 	Movement.SWIMMING, Color.LIGHT);

@@ -1,0 +1,4 @@
+50c50
+<     Stew stew = new Stew(1, 2, 3, 4);
+---
+>     Stew stew = new Stew(1	, 2, 3, 4);

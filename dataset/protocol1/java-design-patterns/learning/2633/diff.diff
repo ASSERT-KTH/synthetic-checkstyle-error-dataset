@@ -1,0 +1,4 @@
+64c64
+<     appender = new InMemoryAppender(PartyMemberBase.class);
+---
+>    appender = new InMemoryAppender(PartyMemberBase.class);

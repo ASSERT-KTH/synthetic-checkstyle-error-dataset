@@ -1,0 +1,4 @@
+33c33
+<   private MenuItem menuItem;
+---
+>   private MenuItem menuItem	;

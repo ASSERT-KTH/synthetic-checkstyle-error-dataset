@@ -1,0 +1,4 @@
+67c67
+<     states.add(star.getMemento());
+---
+>      states.add(star.getMemento());

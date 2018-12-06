@@ -1,0 +1,5 @@
+36,37c36
+<     super(Weekday.FRIDAY, Event.STARK_SIGHTED, LordBaelish::new, LordBaelish::new);
+<   }
+---
+>     super(Weekday.FRIDAY, Event.STARK_SIGHTED, LordBaelish::new, LordBaelish::new);  }

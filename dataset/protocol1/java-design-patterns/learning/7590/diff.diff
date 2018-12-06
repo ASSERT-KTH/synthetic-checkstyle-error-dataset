@@ -1,0 +1,4 @@
+44c44
+<     customer = new Customer(ID, FIRSTNAME, LASTNAME);
+---
+>     customer = new 	Customer(ID, FIRSTNAME, LASTNAME);

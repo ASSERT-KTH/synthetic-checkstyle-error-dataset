@@ -1,0 +1,4 @@
+58c58
+<       model.setFatigue(fatigue);
+---
+>       model.setFatigue(fatigue	);

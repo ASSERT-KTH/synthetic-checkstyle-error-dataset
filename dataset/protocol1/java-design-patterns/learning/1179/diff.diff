@@ -1,0 +1,4 @@
+135c135
+<       assertEquals(newFirstname, cust.getFirstName());
+---
+>       assertEquals(newFirstname, cust.getFirstName(	));

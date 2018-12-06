@@ -1,0 +1,4 @@
+50c50
+<     return accounts.getOrDefault(bankAccount, 0);
+---
+>    return accounts.getOrDefault(bankAccount, 0);

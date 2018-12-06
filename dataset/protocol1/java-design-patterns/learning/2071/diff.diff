@@ -1,0 +1,4 @@
+19c19
+< package com.iluwatar.singleton;
+---
+> package 	com.iluwatar.singleton;

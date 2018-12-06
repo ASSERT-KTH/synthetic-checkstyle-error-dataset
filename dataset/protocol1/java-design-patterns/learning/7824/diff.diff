@@ -1,0 +1,5 @@
+71c71,72
+<     String[] fields = new String[]{"id", "title", "length"};
+---
+>     String[] fields = new String[]{"id", "title"
+> , "length"};

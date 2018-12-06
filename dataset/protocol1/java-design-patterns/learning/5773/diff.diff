@@ -1,0 +1,4 @@
+60c60
+<     private RuntimeException poison() {
+---
+>     private RuntimeException poison(	) {

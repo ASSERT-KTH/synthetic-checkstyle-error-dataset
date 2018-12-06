@@ -1,0 +1,4 @@
+126c126
+<     assertEquals(expectedCounterExceptions, result.getExceptionList().size());
+---
+>     assertEquals(expectedCounterExceptions, result.getExceptionList ().size());

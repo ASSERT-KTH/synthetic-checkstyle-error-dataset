@@ -1,0 +1,4 @@
+53c53
+<     service.saveNewLayer(new CakeLayerInfo("Layer2", 2000));
+---
+>     service.saveNewLayer(new CakeLayerInfo(	"Layer2", 2000));

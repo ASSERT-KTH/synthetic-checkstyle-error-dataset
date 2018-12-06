@@ -1,0 +1,5 @@
+36c36,37
+<   default Stream<Part> getParts() {
+---
+>   default 
+> Stream<Part> getParts() {

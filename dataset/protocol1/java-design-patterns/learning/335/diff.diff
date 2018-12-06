@@ -1,0 +1,4 @@
+69c69
+<   void setDataBus(DataBus dataBus);
+---
+>   void setDataBus(DataBus 	dataBus);

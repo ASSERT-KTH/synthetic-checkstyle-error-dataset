@@ -1,0 +1,5 @@
+57c57,58
+<   public Optional<LotteryTicketId> submitTicket(LotteryTicket ticket) {
+---
+>   public Optional
+> <LotteryTicketId> submitTicket(LotteryTicket ticket) {

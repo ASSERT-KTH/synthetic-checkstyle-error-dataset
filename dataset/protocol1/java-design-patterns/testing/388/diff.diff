@@ -1,0 +1,5 @@
+103,104c103
+<     return this.right;
+<   }
+---
+>     return this.right;  }

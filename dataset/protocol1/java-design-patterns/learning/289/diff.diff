@@ -1,0 +1,4 @@
+60c60
+<     dispatchAction(new MenuAction(menuItem));
+---
+>    dispatchAction(new MenuAction(menuItem));

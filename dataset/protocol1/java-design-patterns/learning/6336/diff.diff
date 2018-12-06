@@ -1,0 +1,4 @@
+79c79
+<       LOGGER.error("Error waiting for ExecutorService shutdown", e);
+---
+>      LOGGER.error("Error waiting for ExecutorService shutdown", e);

@@ -1,0 +1,4 @@
+45c45
+<   public Message take() throws InterruptedException {
+---
+>   public Message 	take() throws InterruptedException {

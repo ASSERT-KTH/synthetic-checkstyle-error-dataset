@@ -1,0 +1,5 @@
+26c26,27
+<   public LongRunningEventException(String message) {
+---
+>   
+> public LongRunningEventException(String message) {

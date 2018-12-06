@@ -1,0 +1,5 @@
+77c77,78
+<     S instance3 = this.singletonInstanceMethod.get();
+---
+>     S instance3 = 
+> this.singletonInstanceMethod.get();

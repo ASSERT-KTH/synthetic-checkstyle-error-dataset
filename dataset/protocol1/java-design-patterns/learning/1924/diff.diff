@@ -1,0 +1,4 @@
+51c51
+<     PrinterController hpPrinterController = new PrinterController(new HpPrinter());
+---
+>     PrinterController hpPrinterController = new 	PrinterController(new HpPrinter());

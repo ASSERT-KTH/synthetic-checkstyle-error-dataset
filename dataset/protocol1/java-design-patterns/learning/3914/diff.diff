@@ -1,0 +1,4 @@
+43c43
+<     final ItemQueue queue = spy(new ItemQueue());
+---
+>     final ItemQueue queue = spy(new ItemQueue(	));

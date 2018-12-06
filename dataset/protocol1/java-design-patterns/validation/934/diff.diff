@@ -1,0 +1,5 @@
+53c53,54
+<       builder.add(WeaponType.AXE, Axe::new);
+---
+>       builder.add(WeaponType
+> .AXE, Axe::new);

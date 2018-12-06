@@ -1,0 +1,5 @@
+64,65c64
+<     customer.setLastName(newLastname);
+<     assertEquals(newLastname, customer.getLastName());
+---
+>     customer.setLastName(newLastname);    assertEquals(newLastname, customer.getLastName());

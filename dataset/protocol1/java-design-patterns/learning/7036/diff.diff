@@ -1,0 +1,4 @@
+52c52
+<       private final Heavy heavyInstance = new Heavy();
+---
+>       private final Heavy 	heavyInstance = new Heavy();

@@ -1,0 +1,4 @@
+145c145
+<   public void prizeError(PlayerDetails details, int prizeAmount) {
+---
+>   	public void prizeError(PlayerDetails details, int prizeAmount) {

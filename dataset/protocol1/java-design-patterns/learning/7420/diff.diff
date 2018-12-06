@@ -1,0 +1,5 @@
+58c58,59
+<     CustomerResource customerResource = new CustomerResource(new ArrayList<>());
+---
+>     CustomerResource customerResource = new CustomerResource(new ArrayList
+> <>());

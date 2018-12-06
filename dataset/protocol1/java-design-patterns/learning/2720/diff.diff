@@ -1,0 +1,4 @@
+39c39
+<   private static final Logger LOGGER = LoggerFactory.getLogger(HibernateUtil.class);
+---
+>   private static final Logger LOGGER = LoggerFactory.getLogger(HibernateUtil.class)	;

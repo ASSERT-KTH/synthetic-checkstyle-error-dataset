@@ -1,0 +1,4 @@
+57c57
+<     try (SlidingDoor slidingDoor = new SlidingDoor()) {
+---
+>     try (	SlidingDoor slidingDoor = new SlidingDoor()) {

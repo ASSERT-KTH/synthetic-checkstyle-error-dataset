@@ -1,0 +1,4 @@
+69c69
+<   public final void setName(String name) {
+---
+>   public final void setName(String name	) {

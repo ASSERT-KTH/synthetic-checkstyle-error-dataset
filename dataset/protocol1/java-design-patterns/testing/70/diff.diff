@@ -1,0 +1,4 @@
+34c34
+<   public Action(ActionType type) {
+---
+>    public Action(ActionType type) {

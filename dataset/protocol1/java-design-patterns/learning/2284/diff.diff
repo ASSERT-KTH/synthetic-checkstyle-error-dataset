@@ -1,0 +1,4 @@
+51c51
+<     Queen notFlirtyQueen = RoyaltyObjectMother.createNotFlirtyQueen();
+---
+>     Queen notFlirtyQueen = 	RoyaltyObjectMother.createNotFlirtyQueen();

@@ -1,0 +1,4 @@
+37c37
+<     return LazyFluentIterable.from(integers);
+---
+>     return LazyFluentIterable.from (integers);

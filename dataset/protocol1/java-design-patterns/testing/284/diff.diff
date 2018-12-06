@@ -1,0 +1,4 @@
+30c30
+< public enum NazgulName {
+---
+> public enum 	NazgulName {

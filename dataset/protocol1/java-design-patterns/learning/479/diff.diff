@@ -1,0 +1,5 @@
+56c56,57
+<     Goblin goblin = new Goblin();
+---
+>     Goblin goblin 
+> = new Goblin();

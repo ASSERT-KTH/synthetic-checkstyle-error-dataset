@@ -1,0 +1,5 @@
+49c49,50
+<     assertEquals(expectedId, cake.getId());
+---
+>     assertEquals(expectedId, 
+> cake.getId());

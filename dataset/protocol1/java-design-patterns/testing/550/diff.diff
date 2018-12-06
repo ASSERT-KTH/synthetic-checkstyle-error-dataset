@@ -1,0 +1,4 @@
+48c48
+<     when(beast.copy()).thenThrow(CloneNotSupportedException.class);
+---
+>    when(beast.copy()).thenThrow(CloneNotSupportedException.class);

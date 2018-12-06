@@ -1,0 +1,4 @@
+55c55
+<     assertEquals("[1,2,3,4]", rectangle.toString());
+---
+>     assertEquals("[1,2,3,4]"	, rectangle.toString());

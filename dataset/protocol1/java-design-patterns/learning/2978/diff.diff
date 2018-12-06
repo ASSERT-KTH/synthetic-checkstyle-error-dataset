@@ -1,0 +1,5 @@
+58c58,59
+<   public static final int ACCOUNT_OF_DAENERYS = 1;
+---
+>   
+> public static final int ACCOUNT_OF_DAENERYS = 1;

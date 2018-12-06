@@ -1,0 +1,5 @@
+92,93c92
+<       ((Logger) LoggerFactory.getLogger(clazz)).addAppender(this);
+<       start();
+---
+>       ((Logger) LoggerFactory.getLogger(clazz)).addAppender(this);      start();

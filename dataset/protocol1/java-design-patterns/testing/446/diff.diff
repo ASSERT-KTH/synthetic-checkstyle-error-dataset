@@ -1,0 +1,5 @@
+79c79,80
+<             .withSpell("Fireball").withAbility("Fire Aura").withAbility("Teleport")
+---
+>             .withSpell("Fireball").withAbility(
+> "Fire Aura").withAbility("Teleport")

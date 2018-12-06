@@ -1,0 +1,4 @@
+111c111
+<     LOGGER.info(AccountAggregate.getAccount(ACCOUNT_OF_JON).toString());
+---
+>    LOGGER.info(AccountAggregate.getAccount(ACCOUNT_OF_JON).toString());

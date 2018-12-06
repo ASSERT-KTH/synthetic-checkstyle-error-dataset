@@ -1,0 +1,4 @@
+70c70
+<           instance = result = new ThreadSafeDoubleCheckLocking();
+---
+>           instance = 	result = new ThreadSafeDoubleCheckLocking();

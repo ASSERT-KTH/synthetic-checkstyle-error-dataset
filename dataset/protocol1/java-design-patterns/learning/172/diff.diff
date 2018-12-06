@@ -1,0 +1,4 @@
+52c52
+<     parameters.add(new Object[]{new Item(ItemType.RING, "Ring of armor")});
+---
+>     parameters.add(new Object[]{new Item(ItemType.RING, 	"Ring of armor")});

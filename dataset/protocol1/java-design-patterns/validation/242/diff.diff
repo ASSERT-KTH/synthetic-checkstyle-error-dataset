@@ -1,0 +1,5 @@
+42c42,43
+<     for (int i = 0, fieldsLength = fields.length; i < fieldsLength; i++) {
+---
+>     for (int i = 0, fieldsLength = fields.length; i < fieldsLength; i
+> ++) {

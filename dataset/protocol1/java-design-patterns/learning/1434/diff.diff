@@ -1,0 +1,5 @@
+67c67,68
+<     if (this.isFlirty && king.isHappy && !king.isDrunk) {
+---
+>     if (this.isFlirty 
+> && king.isHappy && !king.isDrunk) {

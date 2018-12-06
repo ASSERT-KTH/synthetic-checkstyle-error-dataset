@@ -1,0 +1,4 @@
+38c38
+<     App.main(args);
+---
+>    App.main(args);

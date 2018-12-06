@@ -1,0 +1,5 @@
+42,43c42
+<     LotteryTicketId ticketId4 = new LotteryTicketId(ticketId1.getId());
+<     assertEquals(ticketId1, ticketId4);
+---
+>     LotteryTicketId ticketId4 = new LotteryTicketId(ticketId1.getId());    assertEquals(ticketId1, ticketId4);

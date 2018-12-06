@@ -1,0 +1,4 @@
+41c41
+< public class FileSelectorJFrame extends JFrame implements FileSelectorView, ActionListener {
+---
+> public 	class FileSelectorJFrame extends JFrame implements FileSelectorView, ActionListener {

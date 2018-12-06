@@ -1,0 +1,5 @@
+26,27c26
+< import com.iluwatar.pageobject.pages.AlbumListPage;
+< import com.iluwatar.pageobject.pages.LoginPage;
+---
+> import com.iluwatar.pageobject.pages.AlbumListPage;import com.iluwatar.pageobject.pages.LoginPage;

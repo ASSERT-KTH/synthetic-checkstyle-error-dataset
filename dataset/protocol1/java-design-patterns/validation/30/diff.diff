@@ -1,0 +1,4 @@
+42c42
+<         Optional.of("Greetings soldier")
+---
+>        Optional.of("Greetings soldier")

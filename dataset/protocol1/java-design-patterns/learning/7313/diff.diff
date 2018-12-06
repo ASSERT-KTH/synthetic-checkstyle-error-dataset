@@ -1,0 +1,4 @@
+53c53
+<     verify(simpleTroll, times(1)).fleeBattle();
+---
+>    verify(simpleTroll, times(1)).fleeBattle();

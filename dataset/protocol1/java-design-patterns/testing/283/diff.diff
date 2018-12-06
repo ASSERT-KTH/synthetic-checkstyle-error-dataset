@@ -1,0 +1,5 @@
+69c69,70
+<   public <T> void execute(final AsyncTask<T> task) {
+---
+>   public <T> void execute(final AsyncTask<T
+> > task) {

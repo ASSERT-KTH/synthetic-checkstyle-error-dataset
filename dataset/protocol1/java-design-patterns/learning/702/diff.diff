@@ -1,0 +1,5 @@
+54c54,55
+<     customers.add(customer);
+---
+>     customers
+> .add(customer);

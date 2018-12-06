@@ -1,0 +1,5 @@
+104c104,105
+<     final String errorMessage = expectedDamage
+---
+>     final 
+> String errorMessage = expectedDamage

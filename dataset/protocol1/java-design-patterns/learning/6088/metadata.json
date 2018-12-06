@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "33", "message": "'interface def rcurly' has incorrect indentation level 4, expected level should be 0.", "type": "Indentation"}

@@ -1,0 +1,5 @@
+42c42,43
+<       notifyObservers(Event.STARK_SIGHTED);
+---
+>       notifyObservers(Event
+> .STARK_SIGHTED);

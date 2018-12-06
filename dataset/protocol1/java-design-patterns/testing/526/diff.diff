@@ -1,0 +1,5 @@
+63,64c63
+<         // Again assign the instance to local variable to check if it was initialized by some other thread
+<         // while current thread was blocked to enter the locked zone. If it was initialized then we can 
+---
+>         // Again assign the instance to local variable to check if it was initialized by some other thread        // while current thread was blocked to enter the locked zone. If it was initialized then we can 

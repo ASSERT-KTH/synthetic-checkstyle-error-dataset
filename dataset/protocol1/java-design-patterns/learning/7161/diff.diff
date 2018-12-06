@@ -1,0 +1,4 @@
+44c44
+<     tobacco.smoke(this);
+---
+>     tobacco	.smoke(this);

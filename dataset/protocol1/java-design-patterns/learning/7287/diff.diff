@@ -1,0 +1,4 @@
+51c51
+<     final View view = mock(View.class);
+---
+>     final View view =mock(View.class);

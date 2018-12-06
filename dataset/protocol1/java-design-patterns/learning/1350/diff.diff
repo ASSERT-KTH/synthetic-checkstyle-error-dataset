@@ -1,0 +1,5 @@
+112c112,113
+<     if (city != null ? !city.equals(address.city) : address.city != null) {
+---
+>     if (city != null ? !city.equals(address.city) : address.city 
+> != null) {

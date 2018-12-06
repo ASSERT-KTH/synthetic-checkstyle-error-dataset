@@ -1,0 +1,4 @@
+149c149
+<     assertEquals(Integer.valueOf(2), last4.get(1));
+---
+>    assertEquals(Integer.valueOf(2), last4.get(1));

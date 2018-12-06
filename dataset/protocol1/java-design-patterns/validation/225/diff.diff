@@ -1,0 +1,4 @@
+44c44
+<   public AudioInputStream getStream() {
+---
+>   public AudioInputStream 	getStream() {

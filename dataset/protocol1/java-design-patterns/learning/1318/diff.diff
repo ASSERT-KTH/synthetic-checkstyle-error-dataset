@@ -1,0 +1,5 @@
+17c17,18
+< import org.apache.isis.core.specsupport.scenarios.ScenarioExecutionScope;
+---
+> import org.apache.isis.core.specsupport.scenarios.ScenarioExecutionScope
+> ;

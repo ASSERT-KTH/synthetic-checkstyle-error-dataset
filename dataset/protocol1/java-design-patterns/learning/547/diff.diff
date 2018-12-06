@@ -1,0 +1,4 @@
+30c30
+< public class ThreadSafeLazyLoadedIvoryTowerTest extends SingletonTest<ThreadSafeLazyLoadedIvoryTower> {
+---
+> public class ThreadSafeLazyLoadedIvoryTowerTest extends 	SingletonTest<ThreadSafeLazyLoadedIvoryTower> {

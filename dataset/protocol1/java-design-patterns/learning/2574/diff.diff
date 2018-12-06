@@ -1,0 +1,5 @@
+56,57c56
+<     this.price = price;
+<     this.author = author;
+---
+>     this.price = price;    this.author = author;

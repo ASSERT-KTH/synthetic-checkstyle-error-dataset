@@ -1,0 +1,5 @@
+35,36c35
+<  * Events or messages placed onto the queue are stored until the recipient retrieves them. Event 
+<  * or message queues have implicit or explicit limits on the size of data that may be transmitted
+---
+>  * Events or messages placed onto the queue are stored until the recipient retrieves them. Event  * or message queues have implicit or explicit limits on the size of data that may be transmitted

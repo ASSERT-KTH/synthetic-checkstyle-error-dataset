@@ -1,0 +1,5 @@
+32c32,33
+< public class UserCreatedEvent extends AbstractEvent {
+---
+> public class UserCreatedEvent extends 
+> AbstractEvent {

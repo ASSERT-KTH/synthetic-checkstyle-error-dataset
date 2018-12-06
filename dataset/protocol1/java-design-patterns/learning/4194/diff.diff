@@ -1,0 +1,4 @@
+56c56
+<   public abstract void timePasses(Weekday day);
+---
+>   public abstract void timePasses(Weekday 	day);

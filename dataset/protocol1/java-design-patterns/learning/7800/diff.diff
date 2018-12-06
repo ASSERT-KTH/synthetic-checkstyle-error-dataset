@@ -1,0 +1,5 @@
+47c47,48
+<   public void collisionResolve(FlamingAsteroid asteroid) {
+---
+>   public void collisionResolve(
+> FlamingAsteroid asteroid) {

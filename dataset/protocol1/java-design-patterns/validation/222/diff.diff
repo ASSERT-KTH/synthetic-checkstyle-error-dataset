@@ -1,0 +1,4 @@
+51c51
+<     assertEquals(expectedDetails, jsonFieldResponse);
+---
+>    assertEquals(expectedDetails, jsonFieldResponse);

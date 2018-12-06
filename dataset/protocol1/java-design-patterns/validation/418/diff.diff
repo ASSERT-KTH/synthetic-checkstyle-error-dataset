@@ -1,0 +1,5 @@
+234c234,235
+<   private static class NumberCrunchingTask implements Callable<Integer> {
+---
+>   
+> private static class NumberCrunchingTask implements Callable<Integer> {

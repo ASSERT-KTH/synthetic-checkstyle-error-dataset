@@ -1,0 +1,4 @@
+77c77
+<         creatures.stream().filter(new ColorSelector(Color.DARK)).collect(Collectors.toList());
+---
+>         creatures.stream().filter(new ColorSelector(Color.DARK)).collect(Collectors.toList ());

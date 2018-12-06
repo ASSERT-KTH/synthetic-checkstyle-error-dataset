@@ -1,0 +1,4 @@
+39c39
+<     for (final Content content : Content.values()) {
+---
+>     for (final Content content 	: Content.values()) {

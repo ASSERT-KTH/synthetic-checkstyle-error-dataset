@@ -1,0 +1,4 @@
+80c80
+<   public String getWelcomeMessage(final User user) {
+---
+>   	public String getWelcomeMessage(final User user) {

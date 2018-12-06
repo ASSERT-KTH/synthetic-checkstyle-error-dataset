@@ -1,0 +1,5 @@
+39,40c39
+<  * Sending a notification enqueues the request and returns. The request processor then processes
+<  * items from the queue at a later time.
+---
+>  * Sending a notification enqueues the request and returns. The request processor then processes * items from the queue at a later time.

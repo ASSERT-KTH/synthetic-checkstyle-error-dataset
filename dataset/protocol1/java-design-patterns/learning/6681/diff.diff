@@ -1,0 +1,4 @@
+83c83
+<     if (!(obj instanceof Author)) {
+---
+>     if (!(obj instanceof Author)	) {

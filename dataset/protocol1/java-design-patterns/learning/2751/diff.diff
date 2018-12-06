@@ -1,0 +1,5 @@
+52,53c52
+<     assertEquals(senderName, message.getHeaders().get(Message.Headers.SENDER));
+<   }
+---
+>     assertEquals(senderName, message.getHeaders().get(Message.Headers.SENDER));  }

@@ -1,0 +1,4 @@
+74c74
+<       Thread.currentThread().interrupt();
+---
+>       Thread.currentThread(	).interrupt();

@@ -1,0 +1,5 @@
+80c80,81
+<     testData.add(new Object[]{new OrderFilter(), PERFECT_ORDER, ""});
+---
+>     testData.add(new Object[]
+> {new OrderFilter(), PERFECT_ORDER, ""});

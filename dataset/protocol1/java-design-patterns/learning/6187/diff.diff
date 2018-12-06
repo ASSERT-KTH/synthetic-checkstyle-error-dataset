@@ -1,0 +1,4 @@
+60c60
+<     mageProto.set(Stats.INTELLECT, 15);
+---
+>     mageProto.set(Stats.INTELLECT	, 15);

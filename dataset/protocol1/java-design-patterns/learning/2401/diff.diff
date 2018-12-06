@@ -1,0 +1,4 @@
+61c61
+<     properties.put("enhancedWelcome", true);
+---
+>     properties.put ("enhancedWelcome", true);

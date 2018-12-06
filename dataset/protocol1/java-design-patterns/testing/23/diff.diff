@@ -1,0 +1,4 @@
+95c95
+<   public Promise<T> fulfillInAsync(final Callable<T> task, Executor executor) {
+---
+>   public Promise<T> fulfillInAsync(final Callable<T> task, Executor executor	) {

@@ -1,0 +1,5 @@
+67,68c67
+<     mongoEventLog.ticketDidNotWin(playerDetails);
+<     assertEquals(3, mongoEventLog.getEventsCollection().count());
+---
+>     mongoEventLog.ticketDidNotWin(playerDetails);    assertEquals(3, mongoEventLog.getEventsCollection().count());

@@ -1,0 +1,4 @@
+63c63
+<     assertThat(heroStatA.toString(), is(heroStatB.toString()));
+---
+>     assertThat(heroStatA.toString(), is(heroStatB.toString())	);

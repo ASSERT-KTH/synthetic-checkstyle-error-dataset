@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "32", "message": "'class def ident' has incorrect indentation level 1, expected level should be 0.", "type": "Indentation"}

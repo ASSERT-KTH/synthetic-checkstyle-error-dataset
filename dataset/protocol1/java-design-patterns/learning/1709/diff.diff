@@ -1,0 +1,5 @@
+104,105c104
+<     LOGGER.info(demandHolderIdiom.toString());
+<     InitializingOnDemandHolderIdiom demandHolderIdiom2 =
+---
+>     LOGGER.info(demandHolderIdiom.toString());    InitializingOnDemandHolderIdiom demandHolderIdiom2 =

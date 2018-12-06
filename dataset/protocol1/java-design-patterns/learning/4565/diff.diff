@@ -1,0 +1,4 @@
+56c56
+<     assertEquals(expectedToString, testedPrototype.toString());
+---
+>    assertEquals(expectedToString, testedPrototype.toString());

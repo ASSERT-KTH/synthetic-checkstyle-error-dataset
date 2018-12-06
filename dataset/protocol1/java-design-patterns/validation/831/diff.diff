@@ -1,0 +1,4 @@
+78c78
+<     result = prime * result + ((emailAddress == null) ? 0 : emailAddress.hashCode());
+---
+>     result = prime * result + 	((emailAddress == null) ? 0 : emailAddress.hashCode());

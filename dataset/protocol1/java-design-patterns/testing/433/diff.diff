@@ -1,0 +1,4 @@
+41c41
+<         LOGGER.info("The orcs are freezing cold.");
+---
+>        LOGGER.info("The orcs are freezing cold.");

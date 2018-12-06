@@ -1,0 +1,4 @@
+59c59
+<     assertTrue(audio.isServiceRunning());
+---
+>    assertTrue(audio.isServiceRunning());

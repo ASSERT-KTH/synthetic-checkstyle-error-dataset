@@ -1,0 +1,4 @@
+72c72
+<     wizard.act(Action.TALE);
+---
+>     wizard	.act(Action.TALE);

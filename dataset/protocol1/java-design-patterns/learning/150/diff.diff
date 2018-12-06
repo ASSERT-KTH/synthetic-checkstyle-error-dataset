@@ -1,0 +1,4 @@
+124c124
+<     LOGGER.info("Count Person records: {}", repository.count());
+---
+>     LOGGER	.info("Count Person records: {}", repository.count());

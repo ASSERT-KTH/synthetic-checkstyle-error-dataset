@@ -1,0 +1,4 @@
+59c59
+<       final Service service = ServiceLocator.getService(serviceName);
+---
+>      final Service service = ServiceLocator.getService(serviceName);

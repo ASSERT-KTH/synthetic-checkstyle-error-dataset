@@ -1,0 +1,5 @@
+50,51c50
+<   protected void notifyObservers(Event e) {
+<     for (EventObserver obs : observers) {
+---
+>   protected void notifyObservers(Event e) {    for (EventObserver obs : observers) {

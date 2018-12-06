@@ -1,0 +1,4 @@
+101c101
+<     simpleObjectWrapped.updateName(NEW_NAME + "!");
+---
+>     simpleObjectWrapped.updateName(NEW_NAME + 	"!");

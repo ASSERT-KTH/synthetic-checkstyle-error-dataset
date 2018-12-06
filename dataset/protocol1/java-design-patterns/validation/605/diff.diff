@@ -1,0 +1,4 @@
+55c55
+<     return new LotteryTicket(new LotteryTicketId(), details, numbers);
+---
+>    return new LotteryTicket(new LotteryTicketId(), details, numbers);

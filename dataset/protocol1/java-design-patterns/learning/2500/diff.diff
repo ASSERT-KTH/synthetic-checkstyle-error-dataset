@@ -1,0 +1,4 @@
+61c61
+<     LOGGER.info("UVATHA={}", Nazgul.getInstance(NazgulName.UVATHA));
+---
+>     LOGGER.info("UVATHA={}", Nazgul.	getInstance(NazgulName.UVATHA));

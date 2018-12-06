@@ -1,0 +1,5 @@
+135c135,136
+<       if (currentIndex < remainingElementsCount - count) {
+---
+>       
+> if (currentIndex < remainingElementsCount - count) {

@@ -1,0 +1,4 @@
+70c70
+<       assertEquals(expectedMessage, appender.getLastMessage());
+---
+>       assertEquals(expectedMessage	, appender.getLastMessage());

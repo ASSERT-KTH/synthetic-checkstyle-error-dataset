@@ -1,0 +1,4 @@
+133c133
+<     final Spellbook spellbook = mock(Spellbook.class);
+---
+>     final Spellbook spellbook =mock(Spellbook.class);

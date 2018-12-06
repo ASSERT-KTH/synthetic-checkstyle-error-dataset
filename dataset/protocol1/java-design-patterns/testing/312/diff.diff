@@ -1,0 +1,4 @@
+34c34
+<     setVisibility(Visibility.VISIBLE);
+---
+>     setVisibility(Visibility.	VISIBLE);

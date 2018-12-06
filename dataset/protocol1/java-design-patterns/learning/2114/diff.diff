@@ -1,0 +1,4 @@
+50c50
+<               .validate(User::getAge, age -> age > 21, "user is underaged")
+---
+>               .validate(User::getAge, age-> age > 21, "user is underaged")

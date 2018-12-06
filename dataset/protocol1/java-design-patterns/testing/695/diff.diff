@@ -1,0 +1,5 @@
+39,40c39
+<  * type of data cannot be edited step by step and must be edited at once. The best way to construct
+<  * such an object is to use a builder class.
+---
+>  * type of data cannot be edited step by step and must be edited at once. The best way to construct * such an object is to use a builder class.

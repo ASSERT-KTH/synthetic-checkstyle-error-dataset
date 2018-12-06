@@ -1,0 +1,4 @@
+27c27
+< import com.iluwatar.event.sourcing.event.MoneyTransferEvent;
+---
+> import com.iluwatar.event.sourcing.	event.MoneyTransferEvent;

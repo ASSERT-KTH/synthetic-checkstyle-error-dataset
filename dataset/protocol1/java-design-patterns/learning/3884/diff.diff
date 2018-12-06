@@ -1,0 +1,4 @@
+70c70
+<     return String.format("[%d,%d,%d,%d]", getLeft(), getTop(), getRight(), getBottom());
+---
+>    return String.format("[%d,%d,%d,%d]", getLeft(), getTop(), getRight(), getBottom());

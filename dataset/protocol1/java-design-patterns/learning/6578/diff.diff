@@ -1,0 +1,5 @@
+186,187c186
+<       onChannelReadable(key);
+<     } else if (key.isWritable()) {
+---
+>       onChannelReadable(key);    } else if (key.isWritable()) {

@@ -1,0 +1,4 @@
+48c48
+<   protected void stealTheItem(String target) {
+---
+>   protected void stealTheItem(	String target) {

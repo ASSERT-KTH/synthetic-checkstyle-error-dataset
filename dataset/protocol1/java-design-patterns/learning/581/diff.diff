@@ -1,0 +1,5 @@
+50c50,51
+<     assertTrue(collector.getMessages().contains(message));
+---
+>     assertTrue(collector.getMessages()
+> .contains(message));

@@ -1,0 +1,4 @@
+35c35
+<     ImageController imageController = new ImageController();
+---
+>     ImageController imageController = new ImageController(	);

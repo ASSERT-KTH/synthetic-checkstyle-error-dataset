@@ -1,0 +1,4 @@
+99c99
+<       if (currentCount >= count) {
+---
+>       if (currentCount 	>= count) {

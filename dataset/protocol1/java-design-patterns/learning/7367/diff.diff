@@ -1,0 +1,4 @@
+58c58
+<     LOGGER.info("{} hits {}.", mir.getClass().getSimpleName(), this.getClass().getSimpleName());
+---
+>     LOGGER.info("{} hits {}.", mir.getClass().getSimpleName(), this.getClass().getSimpleName())	;

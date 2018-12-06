@@ -1,0 +1,4 @@
+102c102
+<       assertEquals(byId.getId(), byId.getId());
+---
+>      assertEquals(byId.getId(), byId.getId());

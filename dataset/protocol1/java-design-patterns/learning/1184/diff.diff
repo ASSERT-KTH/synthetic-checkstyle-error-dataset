@@ -1,0 +1,5 @@
+44c44,45
+<     verify(mockedVisitor).visitSergeant(eq(unit));
+---
+>     verify(mockedVisitor).visitSergeant(
+> eq(unit));

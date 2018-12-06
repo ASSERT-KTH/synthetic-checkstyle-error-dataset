@@ -1,0 +1,4 @@
+58c58
+<     return "\"" + declaredField.getName() + "\"" + ": " + "\"" + value.toString() + "\"";
+---
+>      return "\"" + declaredField.getName() + "\"" + ": " + "\"" + value.toString() + "\"";

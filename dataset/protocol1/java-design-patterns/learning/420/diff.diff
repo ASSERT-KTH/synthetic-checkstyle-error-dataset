@@ -1,0 +1,4 @@
+54c54
+<     return name -> map.get(name).get();
+---
+>    return name -> map.get(name).get();

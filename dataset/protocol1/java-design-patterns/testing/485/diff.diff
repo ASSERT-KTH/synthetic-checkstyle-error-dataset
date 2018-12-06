@@ -1,0 +1,4 @@
+39c39
+<     MessageAggregationStrategy mas = new MessageAggregationStrategy();
+---
+>    MessageAggregationStrategy mas = new MessageAggregationStrategy();

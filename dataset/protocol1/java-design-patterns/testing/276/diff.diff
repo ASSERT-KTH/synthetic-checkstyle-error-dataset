@@ -1,0 +1,4 @@
+43c43
+<     return getObjects().size() + " objects";
+---
+>     return getObjects().size() + 	" objects";

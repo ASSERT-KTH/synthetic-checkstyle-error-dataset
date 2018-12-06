@@ -1,0 +1,4 @@
+61c61
+<     while (counter == 0) {
+---
+>     while (counter == 	0) {

@@ -1,0 +1,4 @@
+44c44
+<   public ElfMage copy() {
+---
+>   public ElfMage 	copy() {

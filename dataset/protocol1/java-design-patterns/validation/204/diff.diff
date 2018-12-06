@@ -1,0 +1,5 @@
+47,48c47
+<     final Meteoroid meteoroid = new Meteoroid(1, 2, 3, 4);
+<     assertEquals(1, meteoroid.getLeft());
+---
+>     final Meteoroid meteoroid = new Meteoroid(1, 2, 3, 4);    assertEquals(1, meteoroid.getLeft());

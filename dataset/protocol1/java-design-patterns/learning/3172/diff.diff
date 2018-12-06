@@ -1,0 +1,4 @@
+32c32
+<   HOME("Home"), PRODUCTS("Products"), COMPANY("Company");
+---
+>   HOME("Home"	), PRODUCTS("Products"), COMPANY("Company");

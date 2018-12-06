@@ -1,0 +1,4 @@
+33c33
+< import static org.mockito.Mockito.doThrow;
+---
+> import static org.mockito.Mockito	.doThrow;

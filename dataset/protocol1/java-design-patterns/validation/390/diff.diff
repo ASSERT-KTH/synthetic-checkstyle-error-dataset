@@ -1,0 +1,4 @@
+33c33
+< public class Soldier implements SoldierExtension {
+---
+> public class Soldier implements SoldierExtension 	{

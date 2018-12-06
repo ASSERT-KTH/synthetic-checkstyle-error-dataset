@@ -1,0 +1,5 @@
+55,56c55
+<    * This method should be utilized to mute the operations about which most you can do is log.
+<    * For instance while closing a connection to database, or cleaning up a resource, 
+---
+>    * This method should be utilized to mute the operations about which most you can do is log.   * For instance while closing a connection to database, or cleaning up a resource, 

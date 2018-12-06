@@ -1,0 +1,5 @@
+145c145,146
+<     final EventObserver defaultObserver = mock(EventObserver.class);
+---
+>     final EventObserver defaultObserver = mock(
+> EventObserver.class);

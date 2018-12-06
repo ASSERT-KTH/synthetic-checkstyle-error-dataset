@@ -1,0 +1,5 @@
+49,50c49
+<       result.getSpells().size();
+<       result.getWizards().size();
+---
+>       result.getSpells().size();      result.getWizards().size();

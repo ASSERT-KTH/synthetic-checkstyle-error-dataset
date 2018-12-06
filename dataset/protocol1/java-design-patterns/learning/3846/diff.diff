@@ -1,0 +1,5 @@
+36c36,37
+<   void run() throws Exception;
+---
+>   void run(
+> ) throws Exception;

@@ -1,0 +1,4 @@
+30c30
+< import org.hibernate.cfg.Configuration;
+---
+> import org.hibernate.cfg.Configuration	;

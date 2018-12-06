@@ -1,0 +1,5 @@
+47c47,48
+<     final SpaceStationMir mir = new SpaceStationMir(1, 2, 3, 4);
+---
+>     final SpaceStationMir mir = new 
+> SpaceStationMir(1, 2, 3, 4);

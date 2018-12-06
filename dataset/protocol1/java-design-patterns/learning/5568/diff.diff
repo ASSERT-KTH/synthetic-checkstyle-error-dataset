@@ -1,0 +1,5 @@
+59c59,60
+<   private long safeCall(int value) {
+---
+>   private long safeCall(int value
+> ) {

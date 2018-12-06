@@ -1,0 +1,5 @@
+44c44,45
+<     assertEquals(Arrays.asList("Avenger", "Wrangler", "Focus", "Cascada"), models);
+---
+>     assertEquals(Arrays.asList("Avenger", "Wrangler", "Focus", "Cascada"
+> ), models);

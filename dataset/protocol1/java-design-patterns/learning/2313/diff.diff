@@ -1,0 +1,5 @@
+50,51c50
+<     FileSelectorPresenter presenter = new FileSelectorPresenter(jFrame);
+<     presenter.setLoader(loader);
+---
+>     FileSelectorPresenter presenter = new FileSelectorPresenter(jFrame);    presenter.setLoader(loader);

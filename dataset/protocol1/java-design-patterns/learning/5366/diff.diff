@@ -1,0 +1,5 @@
+48c48,49
+<     Mute.mute(this::methodNotThrowingAnyException);
+---
+>     Mute.mute(this::methodNotThrowingAnyException
+> );

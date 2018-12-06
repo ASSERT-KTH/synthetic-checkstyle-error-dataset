@@ -1,0 +1,4 @@
+151c151
+<         assertEquals(existingCustomer, dao.getById(existingCustomer.getId()).get());
+---
+>         assertEquals(existingCustomer, dao.	getById(existingCustomer.getId()).get());

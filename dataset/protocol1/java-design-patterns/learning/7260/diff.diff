@@ -1,0 +1,4 @@
+55c55
+<     dataBus.subscribe(member);
+---
+>    dataBus.subscribe(member);

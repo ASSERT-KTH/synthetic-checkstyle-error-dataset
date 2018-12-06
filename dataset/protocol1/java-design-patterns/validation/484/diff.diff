@@ -1,0 +1,4 @@
+50c50
+<       assertNotNull(spellByName);
+---
+>      assertNotNull(spellByName);

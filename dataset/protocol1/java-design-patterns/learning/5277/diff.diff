@@ -1,0 +1,4 @@
+78c78
+<     audio.playSound(audio.getAudioStream("./etc/Bass-Drum-1.aif"), -10.0f);
+---
+>     audio.playSound (audio.getAudioStream("./etc/Bass-Drum-1.aif"), -10.0f);

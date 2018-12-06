@@ -1,0 +1,5 @@
+48,49c48
+<     File file1 = new File("fish1.out");
+<     file1.delete();
+---
+>     File file1 = new File("fish1.out");    file1.delete();

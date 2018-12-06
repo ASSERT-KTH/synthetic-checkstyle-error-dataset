@@ -1,0 +1,5 @@
+49c49,50
+<     currentWeather = enumValues[(currentWeather.ordinal() + 1) % enumValues.length];
+---
+>     currentWeather = enumValues[(currentWeather.ordinal() + 1) % 
+> enumValues.length];

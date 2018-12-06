@@ -1,0 +1,4 @@
+83c83
+<   public void setSpellbook(Spellbook spellbook) {
+---
+>   public void 	setSpellbook(Spellbook spellbook) {

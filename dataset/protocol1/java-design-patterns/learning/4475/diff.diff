@@ -1,0 +1,5 @@
+39c39,40
+<     LOGGER.info("You feel blessed. (Potion={})", System.identityHashCode(this));
+---
+>     LOGGER
+> .info("You feel blessed. (Potion={})", System.identityHashCode(this));

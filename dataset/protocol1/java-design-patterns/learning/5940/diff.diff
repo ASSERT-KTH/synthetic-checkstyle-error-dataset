@@ -1,0 +1,4 @@
+24c24
+< package com.iluwatar.event.queue;
+---
+> package com	.iluwatar.event.queue;

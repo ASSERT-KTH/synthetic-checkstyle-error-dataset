@@ -1,0 +1,4 @@
+95c95
+<             .append(fighterClass != null ? fighterClass : wizardClass)
+---
+>             .append(fighterClass 	!= null ? fighterClass : wizardClass)

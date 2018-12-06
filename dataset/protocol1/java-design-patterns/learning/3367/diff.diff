@@ -1,0 +1,4 @@
+44c44
+<     final Target target = mock(Target.class);
+---
+>     final Target target = mock(Target	.class);

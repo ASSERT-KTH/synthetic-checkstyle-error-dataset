@@ -1,0 +1,5 @@
+40,41c40
+<     if (extensionName.equals("SoldierExtension")) {
+<       if (unitExtension == null) {
+---
+>     if (extensionName.equals("SoldierExtension")) {      if (unitExtension == null) {

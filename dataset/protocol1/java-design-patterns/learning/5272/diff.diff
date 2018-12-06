@@ -1,0 +1,4 @@
+46c46
+<       try (FileInputStream fin = new FileInputStream(path)) {
+---
+>      try (FileInputStream fin = new FileInputStream(path)) {

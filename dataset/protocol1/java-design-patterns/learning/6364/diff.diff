@@ -1,0 +1,5 @@
+37,38c37
+<     return Optional.ofNullable((String) get(PROPERTY));
+<   }
+---
+>     return Optional.ofNullable((String) get(PROPERTY));  }

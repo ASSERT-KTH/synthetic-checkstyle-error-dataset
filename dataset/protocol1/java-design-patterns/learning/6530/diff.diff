@@ -1,0 +1,4 @@
+78c78
+<     final List<Integer> first4 = createFluentIterable(integers)
+---
+>    final List<Integer> first4 = createFluentIterable(integers)

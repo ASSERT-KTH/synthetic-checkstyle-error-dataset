@@ -1,0 +1,4 @@
+44c44
+<       if (i != fieldsLength - 1) {
+---
+>        if (i != fieldsLength - 1) {

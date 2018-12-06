@@ -1,0 +1,5 @@
+33c33,34
+< public class ContactFilter extends AbstractFilter {
+---
+> public class 
+> ContactFilter extends AbstractFilter {

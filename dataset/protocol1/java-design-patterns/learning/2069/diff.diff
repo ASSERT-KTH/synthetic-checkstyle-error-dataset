@@ -1,0 +1,5 @@
+44,45c44
+<             new Object[]{new OrcBeast("axe"), "Orcish wolf attacks with axe"},
+<             new Object[]{new OrcMage("sword"), "Orcish mage attacks with sword"},
+---
+>             new Object[]{new OrcBeast("axe"), "Orcish wolf attacks with axe"},            new Object[]{new OrcMage("sword"), "Orcish mage attacks with sword"},

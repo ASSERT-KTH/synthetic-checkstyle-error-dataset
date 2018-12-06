@@ -1,0 +1,5 @@
+46c46,47
+<     RemoteService remoteService = new RemoteService(
+---
+>     RemoteService remoteService 
+> = new RemoteService(

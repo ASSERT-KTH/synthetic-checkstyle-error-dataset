@@ -1,0 +1,4 @@
+102c102
+<     assertEquals("poison", character.getSpell());
+---
+>     assertEquals("poison", character.getSpell ());

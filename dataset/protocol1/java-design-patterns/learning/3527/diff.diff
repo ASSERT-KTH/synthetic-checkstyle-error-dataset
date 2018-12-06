@@ -1,0 +1,4 @@
+26c26
+< import org.apache.camel.Message;
+---
+> import org.apache.camel	.Message;

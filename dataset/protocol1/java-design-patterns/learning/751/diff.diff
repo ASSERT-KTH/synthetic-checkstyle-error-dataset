@@ -1,0 +1,4 @@
+42c42
+<   public void close() throws Exception {
+---
+>   public void close() 	throws Exception {

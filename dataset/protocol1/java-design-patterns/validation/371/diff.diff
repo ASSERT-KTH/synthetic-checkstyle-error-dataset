@@ -1,0 +1,4 @@
+83c83
+<         sb.append(hairColor).append(' ');
+---
+>        sb.append(hairColor).append(' ');

@@ -1,0 +1,4 @@
+74c74
+<     verifyWeapon(weapon, WeaponType.SHORT_SWORD, ElfWeapon.class);
+---
+>    verifyWeapon(weapon, WeaponType.SHORT_SWORD, ElfWeapon.class);

@@ -1,0 +1,4 @@
+45c45
+<     CustomerResource customerResource = new CustomerResource(customers);
+---
+>    CustomerResource customerResource = new CustomerResource(customers);

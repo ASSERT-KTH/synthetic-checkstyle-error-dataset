@@ -1,0 +1,4 @@
+78c78
+<         CharacterStepBuilder.newBuilder().name("Riobard").wizardClass("Sorcerer")
+---
+>         CharacterStepBuilder.newBuilder(	).name("Riobard").wizardClass("Sorcerer")

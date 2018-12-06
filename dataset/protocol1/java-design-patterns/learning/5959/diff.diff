@@ -1,0 +1,4 @@
+69c69
+<     final File temporaryFile = this.testFolder.newFile();
+---
+>    final File temporaryFile = this.testFolder.newFile();

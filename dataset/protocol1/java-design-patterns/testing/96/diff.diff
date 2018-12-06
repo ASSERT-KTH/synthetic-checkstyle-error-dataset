@@ -1,0 +1,5 @@
+67,68c67
+<         if (result == null) {
+<           // The instance is still not initialized so we can safely (no other thread can enter this zone)
+---
+>         if (result == null) {          // The instance is still not initialized so we can safely (no other thread can enter this zone)

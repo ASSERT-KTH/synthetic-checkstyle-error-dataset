@@ -1,0 +1,4 @@
+63c63
+<     LOGGER.info("The weather changed to {}.", currentWeather);
+---
+>     LOGGER.info(	"The weather changed to {}.", currentWeather);

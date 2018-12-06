@@ -1,0 +1,4 @@
+49c49
+<         response = EntityUtils.toString(httpResponse.getEntity());
+---
+>         response 	= EntityUtils.toString(httpResponse.getEntity());

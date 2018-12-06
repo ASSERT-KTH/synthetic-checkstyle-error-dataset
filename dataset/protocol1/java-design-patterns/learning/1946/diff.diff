@@ -1,0 +1,4 @@
+87c87
+<     assertEquals(47, terry.getAge());
+---
+>    assertEquals(47, terry.getAge());

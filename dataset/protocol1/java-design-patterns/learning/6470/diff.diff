@@ -1,0 +1,4 @@
+25c25
+< import com.iluwatar.specification.property.Color;
+---
+> import com.iluwatar.specification.property.	Color;

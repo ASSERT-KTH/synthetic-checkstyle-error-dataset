@@ -1,0 +1,5 @@
+92c92,93
+<         customer.getId(), customer.getFirstName(), customer.getLastName()), customer.toString());
+---
+>         customer.getId(), customer.getFirstName(), customer.getLastName()), customer
+> .toString());

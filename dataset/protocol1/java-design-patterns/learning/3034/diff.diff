@@ -1,0 +1,4 @@
+36c36
+<     bind(Tobacco.class).to(RivendellTobacco.class);
+---
+>     bind(Tobacco.class)	.to(RivendellTobacco.class);

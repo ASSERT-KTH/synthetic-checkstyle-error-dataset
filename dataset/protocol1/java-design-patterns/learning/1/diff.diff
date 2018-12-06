@@ -1,0 +1,4 @@
+53c53
+<         new Wizard("Gandalf"),
+---
+>         new 	Wizard("Gandalf"),

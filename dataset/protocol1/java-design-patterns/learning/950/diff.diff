@@ -1,0 +1,4 @@
+45c45
+<     content = contentStore.getContent();
+---
+>     content = contentStore.getContent()	;

@@ -1,0 +1,4 @@
+36c36
+<       final List<SimpleObject> findAll = service(SimpleObjects.class).listAll();
+---
+>       final List<SimpleObject> findAll = service(SimpleObjects.class).listAll()	;

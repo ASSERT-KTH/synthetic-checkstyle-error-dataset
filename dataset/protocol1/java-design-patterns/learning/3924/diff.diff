@@ -1,0 +1,5 @@
+132,133c132
+<     } catch (MaxNumOfEventsAllowedException | LongRunningEventException | EventDoesNotExistException
+<         | InvalidOperationException e) {
+---
+>     } catch (MaxNumOfEventsAllowedException | LongRunningEventException | EventDoesNotExistException        | InvalidOperationException e) {

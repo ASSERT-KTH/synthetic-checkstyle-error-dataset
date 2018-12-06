@@ -1,0 +1,4 @@
+52c52
+<     Map<WeaponType, Supplier<Weapon>> map = new HashMap<>();
+---
+>    Map<WeaponType, Supplier<Weapon>> map = new HashMap<>();

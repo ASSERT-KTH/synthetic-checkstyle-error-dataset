@@ -1,0 +1,4 @@
+42c42
+<   static Collection<Object[]> dataProvider() {
+---
+>  static Collection<Object[]> dataProvider() {

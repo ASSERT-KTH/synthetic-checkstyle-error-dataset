@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "79", "message": "'\"SpaceStationMir hits Meteoroid.\"' has incorrect indentation level 7, expected level should be 8.", "type": "Indentation"}

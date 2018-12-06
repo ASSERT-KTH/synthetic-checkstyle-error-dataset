@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public enum Weapon {
+---
+>  */public enum Weapon {

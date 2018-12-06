@@ -1,0 +1,4 @@
+59c59
+<     CamelContext context = new DefaultCamelContext();
+---
+>     CamelContext context = new DefaultCamelContext()	;

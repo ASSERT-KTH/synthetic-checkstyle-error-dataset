@@ -1,0 +1,5 @@
+42c42,43
+<         LOGGER.info("The hobbits are shivering in the cold weather.");
+---
+>         LOGGER
+> .info("The hobbits are shivering in the cold weather.");

@@ -1,0 +1,5 @@
+50c50,51
+<     LOGGER.info("Consumer [{}] consume item [{}] produced by [{}]", name, item.getId(), item.getProducer());
+---
+>     LOGGER.info("Consumer [{}] consume item [{}] produced by [{}]", name, item.getId(), item
+> .getProducer());

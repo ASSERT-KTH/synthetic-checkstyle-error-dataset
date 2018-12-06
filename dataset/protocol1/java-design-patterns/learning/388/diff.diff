@@ -1,0 +1,4 @@
+89c89
+<       throw new IOException("Socket closed");
+---
+>       throw new IOException("Socket closed"	);

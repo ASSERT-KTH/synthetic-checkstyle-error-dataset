@@ -1,0 +1,4 @@
+35c35
+<   void authorNameUpdated(String username, String name);
+---
+>   void authorNameUpdated(String username, String 	name);

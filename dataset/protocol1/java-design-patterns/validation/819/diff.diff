@@ -1,0 +1,5 @@
+49,50c49
+<     this.stream = stream;
+<   }
+---
+>     this.stream = stream;  }

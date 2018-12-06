@@ -1,0 +1,4 @@
+76c76
+<     LOGGER.info("-> model: {}", car.getModel().get());
+---
+>     LOGGER.info("-> model: {}", car.getModel().	get());

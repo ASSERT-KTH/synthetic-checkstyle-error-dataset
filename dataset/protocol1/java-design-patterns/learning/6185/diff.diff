@@ -1,0 +1,4 @@
+74c74
+<     result = prime * result + ((checkResult == null) ? 0 : checkResult.hashCode());
+---
+>     result = prime *result + ((checkResult == null) ? 0 : checkResult.hashCode());

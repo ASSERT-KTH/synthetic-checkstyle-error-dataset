@@ -1,0 +1,4 @@
+51c51
+<   @OneToMany(cascade = CascadeType.REMOVE, fetch = FetchType.EAGER)
+---
+>   @OneToMany(cascade =CascadeType.REMOVE, fetch = FetchType.EAGER)

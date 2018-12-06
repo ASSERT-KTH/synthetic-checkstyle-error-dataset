@@ -1,0 +1,4 @@
+99c99
+<     if (intelligence != other.intelligence) {
+---
+>      if (intelligence != other.intelligence) {

@@ -1,0 +1,5 @@
+101,102c101
+<     // initialize on demand holder idiom
+<     InitializingOnDemandHolderIdiom demandHolderIdiom =
+---
+>     // initialize on demand holder idiom    InitializingOnDemandHolderIdiom demandHolderIdiom =

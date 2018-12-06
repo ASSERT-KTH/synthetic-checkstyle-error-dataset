@@ -1,0 +1,4 @@
+40c40
+<     bind(LotteryEventLog.class).to(StdOutEventLog.class);
+---
+>     bind(LotteryEventLog.	class).to(StdOutEventLog.class);

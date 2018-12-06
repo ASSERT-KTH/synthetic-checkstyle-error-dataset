@@ -1,0 +1,4 @@
+27c27
+< public class BootstrappingGlue extends CukeGlueAbstract {
+---
+> public class BootstrappingGlue extends CukeGlueAbstract 	{

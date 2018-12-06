@@ -1,0 +1,4 @@
+37c37
+<   public SpaceStationMir(int left, int top, int right, int bottom) {
+---
+>   public SpaceStationMir(int left, int top	, int right, int bottom) {

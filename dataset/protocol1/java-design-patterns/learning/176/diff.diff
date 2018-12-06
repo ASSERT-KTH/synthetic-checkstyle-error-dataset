@@ -1,0 +1,4 @@
+53c53
+<     result = prime * result + ((make == null) ? 0 : make.hashCode());
+---
+>     result = prime * result + ((make == null) ? 0 : make.hashCode(	));

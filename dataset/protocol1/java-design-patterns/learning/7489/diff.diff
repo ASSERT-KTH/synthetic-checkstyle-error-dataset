@@ -1,0 +1,5 @@
+33c33,34
+< public class KingJoffrey implements EventObserver {
+---
+> public class KingJoffrey 
+> implements EventObserver {

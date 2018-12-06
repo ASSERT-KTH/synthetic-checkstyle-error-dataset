@@ -1,0 +1,4 @@
+46c46
+<     return findNextIdx() != -1;
+---
+>     return 	findNextIdx() != -1;

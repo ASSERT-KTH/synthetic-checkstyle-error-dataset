@@ -1,0 +1,4 @@
+94c94
+<             .filter(a -> a.getType().equals(ActionType.MENU_ITEM_SELECTED))
+---
+>             .filter(a -> a	.getType().equals(ActionType.MENU_ITEM_SELECTED))

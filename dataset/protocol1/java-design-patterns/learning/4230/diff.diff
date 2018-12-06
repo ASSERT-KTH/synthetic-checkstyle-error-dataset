@@ -1,0 +1,5 @@
+133c133,134
+<       builder.append(" - ").append(stat.name()).append(':').append(value).append('\n');
+---
+>       builder.append(" - ").
+> append(stat.name()).append(':').append(value).append('\n');

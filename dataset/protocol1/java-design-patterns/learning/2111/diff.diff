@@ -1,0 +1,4 @@
+48c48
+< @Table(name = "SPELLBOOK")
+---
+> @Table(name= "SPELLBOOK")

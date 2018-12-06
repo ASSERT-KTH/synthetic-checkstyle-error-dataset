@@ -1,0 +1,4 @@
+38c38
+<       assertEquals(name, new Wizard(name).toString());
+---
+>       assertEquals(name, new Wizard(name).toString(	));

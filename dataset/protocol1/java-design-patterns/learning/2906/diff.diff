@@ -1,0 +1,5 @@
+65c65,66
+<     LOGGER.info("Service {} is now executing with id {}", getName(), getId());
+---
+>     LOGGER.info("Service {} is now executing with id {}", getName(), getId(
+> ));

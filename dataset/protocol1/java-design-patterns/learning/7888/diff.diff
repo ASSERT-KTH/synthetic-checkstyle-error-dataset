@@ -1,0 +1,4 @@
+39c39
+<   private final Queue<Integer> sourceList;
+---
+>   private final 	Queue<Integer> sourceList;

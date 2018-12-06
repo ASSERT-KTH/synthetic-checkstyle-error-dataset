@@ -1,0 +1,4 @@
+46c46
+<     assertTrue(message.getHeaders().isEmpty());
+---
+>    assertTrue(message.getHeaders().isEmpty());

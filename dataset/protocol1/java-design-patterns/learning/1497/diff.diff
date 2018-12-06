@@ -1,0 +1,4 @@
+51c51
+<     file2.delete();
+---
+>     file2	.delete();

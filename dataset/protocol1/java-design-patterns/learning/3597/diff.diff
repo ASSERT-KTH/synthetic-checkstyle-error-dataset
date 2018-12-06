@@ -1,0 +1,5 @@
+50,51c50
+<       SQLQuery sqlQuery = session
+<           .createSQLQuery("SELECT a.username as \"username\", a.name as \"name\", a.email as \"email\""
+---
+>       SQLQuery sqlQuery = session          .createSQLQuery("SELECT a.username as \"username\", a.name as \"name\", a.email as \"email\""

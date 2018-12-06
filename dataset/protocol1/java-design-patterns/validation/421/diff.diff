@@ -1,0 +1,4 @@
+34c34
+< public class Troll extends AbstractCreature {
+---
+> public class Troll extends AbstractCreature 	{

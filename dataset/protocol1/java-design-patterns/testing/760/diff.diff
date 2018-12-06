@@ -1,0 +1,5 @@
+35c35,36
+<     super(numCups * TIME_PER_CUP);
+---
+>     super(numCups 
+> * TIME_PER_CUP);

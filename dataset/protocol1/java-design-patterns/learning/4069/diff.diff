@@ -1,0 +1,4 @@
+36c36
+< public class ContentView implements View {
+---
+> public class ContentView implements View{

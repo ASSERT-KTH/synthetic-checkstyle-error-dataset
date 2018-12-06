@@ -1,0 +1,4 @@
+36c36
+<   GiantModel(Health health, Fatigue fatigue, Nourishment nourishment) {
+---
+>  GiantModel(Health health, Fatigue fatigue, Nourishment nourishment) {

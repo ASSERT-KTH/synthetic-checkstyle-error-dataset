@@ -1,0 +1,4 @@
+181c181
+<           socket.receive(reply);
+---
+>           socket.receive(reply	);

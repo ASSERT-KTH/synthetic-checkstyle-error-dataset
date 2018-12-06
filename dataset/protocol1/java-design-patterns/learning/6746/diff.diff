@@ -1,0 +1,5 @@
+50c50,51
+<   protected void notifyObservers(Event e) {
+---
+>   protected void notifyObservers(Event 
+> e) {

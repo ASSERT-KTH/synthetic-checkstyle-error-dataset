@@ -1,0 +1,5 @@
+25,26c25
+< import com.iluwatar.delegation.simple.printers.CanonPrinter;
+< import com.iluwatar.delegation.simple.printers.EpsonPrinter;
+---
+> import com.iluwatar.delegation.simple.printers.CanonPrinter;import com.iluwatar.delegation.simple.printers.EpsonPrinter;

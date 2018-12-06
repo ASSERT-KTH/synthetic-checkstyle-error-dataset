@@ -1,0 +1,5 @@
+63,64c63
+<     LOGGER.info("Clubbed troll power {}.\n", clubbedTroll.getAttackPower());
+<   }
+---
+>     LOGGER.info("Clubbed troll power {}.\n", clubbedTroll.getAttackPower());  }

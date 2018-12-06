@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "44", "message": "Javadoc comment at column 12 has parse error. Details: mismatched input '{' expecting {WS, NEWLINE} while parsing JAVADOC_TAG", "type": "SingleLineJavadoc"}

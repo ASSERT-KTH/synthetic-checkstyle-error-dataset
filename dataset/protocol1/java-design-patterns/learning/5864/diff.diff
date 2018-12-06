@@ -1,0 +1,4 @@
+41c41
+<     log.info("start pattern");
+---
+>     log	.info("start pattern");

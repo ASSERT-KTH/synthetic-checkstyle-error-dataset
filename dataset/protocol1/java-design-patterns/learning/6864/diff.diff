@@ -1,0 +1,5 @@
+29,30c29
+< import com.iluwatar.serverless.faas.LambdaInfo;
+< import org.apache.log4j.BasicConfigurator;
+---
+> import com.iluwatar.serverless.faas.LambdaInfo;import org.apache.log4j.BasicConfigurator;

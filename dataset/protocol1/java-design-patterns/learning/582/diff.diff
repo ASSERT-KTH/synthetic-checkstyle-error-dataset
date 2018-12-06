@@ -1,0 +1,5 @@
+48c48,49
+<     HeroStat heroStatA = HeroStat.valueOf(3, 9, 2);
+---
+>     HeroStat heroStatA = HeroStat
+> .valueOf(3, 9, 2);

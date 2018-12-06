@@ -1,0 +1,4 @@
+58c58
+<     LOGGER.info("Is statA and statC equal : {}", statA.equals(statC));
+---
+>      LOGGER.info("Is statA and statC equal : {}", statA.equals(statC));

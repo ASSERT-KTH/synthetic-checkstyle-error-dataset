@@ -1,0 +1,4 @@
+49c49
+<     if (numWizards < NUM_WIZARDS_ALLOWED) {
+---
+>      if (numWizards < NUM_WIZARDS_ALLOWED) {

@@ -1,0 +1,5 @@
+31c31,32
+< import org.springframework.boot.test.SpringApplicationConfiguration;
+---
+> import org.springframework.boot.test.SpringApplicationConfiguration
+> ;

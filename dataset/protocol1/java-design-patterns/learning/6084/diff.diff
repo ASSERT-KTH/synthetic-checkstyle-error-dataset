@@ -1,0 +1,4 @@
+47c47
+<     AlchemistShop alchemistShop = new AlchemistShop();
+---
+>     AlchemistShop 	alchemistShop = new AlchemistShop();

@@ -1,0 +1,4 @@
+64c64
+<     Optional<LotteryTicketId> optional = repository.save(ticket);
+---
+>      Optional<LotteryTicketId> optional = repository.save(ticket);

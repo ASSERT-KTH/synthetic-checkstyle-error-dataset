@@ -1,0 +1,4 @@
+35c35
+< public class SpaceStationMirTest extends CollisionTest<SpaceStationMir> {
+---
+> public 	class SpaceStationMirTest extends CollisionTest<SpaceStationMir> {

@@ -1,0 +1,4 @@
+43c43
+<   void verifyVisit(Soldier unit, UnitVisitor mockedVisitor) {
+---
+>   void verifyVisit(Soldier unit, UnitVisitor mockedVisitor	) {

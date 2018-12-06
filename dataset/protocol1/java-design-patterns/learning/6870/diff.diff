@@ -1,0 +1,5 @@
+61c61,62
+<     final Optional<Integer> first = createFluentIterable(integers).first();
+---
+>     final 
+> Optional<Integer> first = createFluentIterable(integers).first();

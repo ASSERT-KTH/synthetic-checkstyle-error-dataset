@@ -1,0 +1,4 @@
+48c48
+<       verify(queue).put(any(Item.class));
+---
+>       verify(queue)	.put(any(Item.class));

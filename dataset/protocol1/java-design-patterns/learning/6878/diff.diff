@@ -1,0 +1,4 @@
+81c81
+<       MessageQueue msgQueue = new MessageQueue();
+---
+>       MessageQueue msgQueue 	= new MessageQueue();

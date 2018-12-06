@@ -1,0 +1,5 @@
+52c52,53
+<     audio.playSound(audio.getAudioStream("./etc/Bass-Drum-1.wav"), -10.0f);
+---
+>     audio
+> .playSound(audio.getAudioStream("./etc/Bass-Drum-1.wav"), -10.0f);

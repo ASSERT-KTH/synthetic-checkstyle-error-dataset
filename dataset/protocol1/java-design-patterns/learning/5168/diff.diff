@@ -1,0 +1,4 @@
+68c68
+<       jtFields[i] = new JTextField();
+---
+>      jtFields[i] = new JTextField();

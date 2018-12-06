@@ -1,0 +1,4 @@
+83c83
+<     TREE_ROOT = new NodeImpl("root", level1A, level1B);
+---
+>     TREE_ROOT = new NodeImpl("root"	, level1A, level1B);

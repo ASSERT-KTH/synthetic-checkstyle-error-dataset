@@ -1,0 +1,4 @@
+48c48
+<     nazguls.put(NazgulName.REN, new Nazgul(NazgulName.REN));
+---
+>     nazguls.put(NazgulName.	REN, new Nazgul(NazgulName.REN));

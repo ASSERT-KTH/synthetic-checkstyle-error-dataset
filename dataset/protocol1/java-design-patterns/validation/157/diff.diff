@@ -1,0 +1,5 @@
+58,59c58
+<     MenuStore menuStore = new MenuStore();
+<     Dispatcher.getInstance().registerStore(menuStore);
+---
+>     MenuStore menuStore = new MenuStore();    Dispatcher.getInstance().registerStore(menuStore);

@@ -1,0 +1,4 @@
+88c88
+<     LotteryTicket ticket = found.get();
+---
+>    LotteryTicket ticket = found.get();

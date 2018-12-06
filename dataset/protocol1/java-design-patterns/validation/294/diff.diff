@@ -1,0 +1,5 @@
+69,70c69
+<     order.setOrderItem(EXPECTED_VALUE);
+<     assertEquals(EXPECTED_VALUE, order.getOrderItem());
+---
+>     order.setOrderItem(EXPECTED_VALUE);    assertEquals(EXPECTED_VALUE, order.getOrderItem());

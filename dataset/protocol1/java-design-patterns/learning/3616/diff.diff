@@ -1,0 +1,5 @@
+65c65,66
+<       final Customer nonExistingCustomer = new Customer(2, "Robert", "Englund");
+---
+>       final Customer 
+> nonExistingCustomer = new Customer(2, "Robert", "Englund");

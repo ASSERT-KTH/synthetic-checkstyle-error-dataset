@@ -1,0 +1,4 @@
+70c70
+<     assertTrue(new String(stream.toByteArray()).contains(MESSAGE));
+---
+>    assertTrue(new String(stream.toByteArray()).contains(MESSAGE));

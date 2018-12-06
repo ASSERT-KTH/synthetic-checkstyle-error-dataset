@@ -1,0 +1,4 @@
+43c43
+<       selected = menuAction.getMenuItem();
+---
+>      selected = menuAction.getMenuItem();

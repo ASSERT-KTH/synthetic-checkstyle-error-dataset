@@ -1,0 +1,5 @@
+42c42,43
+<     King soberUnhappyKing = RoyaltyObjectMother.createSoberUnhappyKing();
+---
+>     King 
+> soberUnhappyKing = RoyaltyObjectMother.createSoberUnhappyKing();

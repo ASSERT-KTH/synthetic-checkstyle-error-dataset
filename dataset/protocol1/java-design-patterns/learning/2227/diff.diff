@@ -1,0 +1,4 @@
+137c137
+<   private static int printAndCountExceptions(Result res) {
+---
+>   private static int printAndCountExceptions(	Result res) {

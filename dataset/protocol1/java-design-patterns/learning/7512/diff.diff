@@ -1,0 +1,4 @@
+36c36
+<       isft = new SimpleAppSystemBuilder().build().setUpSystem();
+---
+>       isft = 	new SimpleAppSystemBuilder().build().setUpSystem();

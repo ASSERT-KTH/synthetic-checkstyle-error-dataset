@@ -1,0 +1,5 @@
+40c40,41
+<   public void test() throws ClassNotFoundException, IOException {
+---
+>   public 
+> void test() throws ClassNotFoundException, IOException {

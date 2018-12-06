@@ -1,0 +1,4 @@
+34c34
+<   private Set<T> available = new HashSet<>();
+---
+>   private Set<T> available = new HashSet <>();

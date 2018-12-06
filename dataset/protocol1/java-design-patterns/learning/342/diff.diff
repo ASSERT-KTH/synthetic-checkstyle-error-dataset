@@ -1,0 +1,5 @@
+144c144,145
+<   private void testAllDaysWithDefaultObserver(final Weekday specialDay, final Event event) {
+---
+>   private void testAllDaysWithDefaultObserver(
+> final Weekday specialDay, final Event event) {

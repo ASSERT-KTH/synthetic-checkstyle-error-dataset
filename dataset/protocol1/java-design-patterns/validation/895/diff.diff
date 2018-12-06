@@ -1,0 +1,4 @@
+59c59
+<     LOGGER.info("A troll with huge club surprises you.");
+---
+>     LOGGER.info ("A troll with huge club surprises you.");

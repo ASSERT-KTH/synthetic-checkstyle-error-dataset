@@ -1,0 +1,5 @@
+86,87c86
+<   public VisitorTest(final V visitor, final Optional<String> commanderResponse,
+<                      final Optional<String> sergeantResponse, final Optional<String> soldierResponse) {
+---
+>   public VisitorTest(final V visitor, final Optional<String> commanderResponse,                     final Optional<String> sergeantResponse, final Optional<String> soldierResponse) {

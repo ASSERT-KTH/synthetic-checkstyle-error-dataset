@@ -1,0 +1,5 @@
+39,40c39
+<     LOGGER.info("The fishing boat is sailing");
+<   }
+---
+>     LOGGER.info("The fishing boat is sailing");  }

@@ -1,0 +1,4 @@
+30c30
+< public class OliphauntPool extends ObjectPool<Oliphaunt> {
+---
+> public class 	OliphauntPool extends ObjectPool<Oliphaunt> {

@@ -1,0 +1,4 @@
+89c89
+<     msg.addHeader(Message.Headers.DATE, LocalDateTime.now().toString());
+---
+>     msg.addHeader(Message.Headers	.DATE, LocalDateTime.now().toString());

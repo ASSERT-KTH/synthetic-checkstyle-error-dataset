@@ -1,0 +1,5 @@
+45,46c45
+<     final Worker worker = new Worker(task);
+<     verifyZeroInteractions(task);
+---
+>     final Worker worker = new Worker(task);    verifyZeroInteractions(task);

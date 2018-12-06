@@ -1,0 +1,4 @@
+88c88
+<   public AlbumPage changeAlbumTitle(String albumTitle) {
+---
+>    public AlbumPage changeAlbumTitle(String albumTitle) {

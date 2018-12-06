@@ -1,0 +1,4 @@
+68c68
+<   public synchronized void serverRequest(Request request) {
+---
+>   public synchronized 	void serverRequest(Request request) {

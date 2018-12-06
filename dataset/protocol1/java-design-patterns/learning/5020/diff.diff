@@ -1,0 +1,4 @@
+63c63
+<     dragonSlayer.changeStrategy(newStrategy);
+---
+>    dragonSlayer.changeStrategy(newStrategy);

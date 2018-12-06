@@ -1,0 +1,5 @@
+37,38c37
+<     super("Dragon", Size.LARGE, Movement.FLYING, Color.RED);
+<   }
+---
+>     super("Dragon", Size.LARGE, Movement.FLYING, Color.RED);  }

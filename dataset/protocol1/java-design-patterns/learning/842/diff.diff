@@ -1,0 +1,4 @@
+62c62
+<     ballThread.stopMe();
+---
+>    ballThread.stopMe();

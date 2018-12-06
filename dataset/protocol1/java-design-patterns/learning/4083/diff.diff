@@ -1,0 +1,5 @@
+51c51,52
+<     words.add(new Word(Arrays.asList(new Letter('a'))));
+---
+>     words.add(new Word(Arrays.asList(new Letter('a')
+> )));

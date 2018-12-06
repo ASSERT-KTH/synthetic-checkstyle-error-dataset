@@ -1,0 +1,5 @@
+18,19c18
+< import java.io.InputStream;
+< import java.nio.charset.Charset;
+---
+> import java.io.InputStream;import java.nio.charset.Charset;

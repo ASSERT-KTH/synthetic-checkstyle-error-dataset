@@ -1,0 +1,5 @@
+25,26c25
+< import com.iluwatar.fluentinterface.fluentiterable.FluentIterable;
+< import com.iluwatar.fluentinterface.fluentiterable.FluentIterableTest;
+---
+> import com.iluwatar.fluentinterface.fluentiterable.FluentIterable;import com.iluwatar.fluentinterface.fluentiterable.FluentIterableTest;

@@ -1,0 +1,4 @@
+43c43
+<     nazguls.put(NazgulName.DWAR, new Nazgul(NazgulName.DWAR));
+---
+>     nazguls.put(NazgulName.DWAR	, new Nazgul(NazgulName.DWAR));

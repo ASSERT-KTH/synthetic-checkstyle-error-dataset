@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.camel.builder.RouteBuilder;
+< import org.springframework.beans.factory.annotation.Autowired;
+---
+> import org.apache.camel.builder.RouteBuilder;import org.springframework.beans.factory.annotation.Autowired;

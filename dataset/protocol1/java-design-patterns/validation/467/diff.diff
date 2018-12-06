@@ -1,0 +1,4 @@
+43c43
+<       NazgulEnum instance2 = NazgulEnum.values()[i];
+---
+>       NazgulEnum instance2 	= NazgulEnum.values()[i];

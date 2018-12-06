@@ -1,0 +1,4 @@
+40c40
+<   public abstract void onAction(Action action);
+---
+>  public abstract void onAction(Action action);

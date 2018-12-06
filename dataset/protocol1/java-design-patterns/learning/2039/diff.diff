@@ -1,0 +1,4 @@
+34c34
+<   public void test() throws IOException {
+---
+>   public void test() throws 	IOException {

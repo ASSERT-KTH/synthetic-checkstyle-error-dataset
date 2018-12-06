@@ -1,0 +1,5 @@
+120c120,121
+<       assertEquals(this.expectedExecutionTime * i, this.factory.apply(i).getTimeMs());
+---
+>       assertEquals(this.expectedExecutionTime * i, this.factory.apply(i).getTimeMs(
+> ));

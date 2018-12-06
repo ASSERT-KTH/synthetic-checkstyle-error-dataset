@@ -1,0 +1,4 @@
+40c40
+<     Runnable taskRunnable = new TaskGenerator(msgQueue, 1);
+---
+>     Runnable taskRunnable = new TaskGenerator (msgQueue, 1);

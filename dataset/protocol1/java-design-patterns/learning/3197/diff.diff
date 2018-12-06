@@ -1,0 +1,5 @@
+86,87c86
+<    * Test if the expected item can be retrieved from the chest using the {@link
+<    * TreasureChest#getItems()} method
+---
+>    * Test if the expected item can be retrieved from the chest using the {@link   * TreasureChest#getItems()} method

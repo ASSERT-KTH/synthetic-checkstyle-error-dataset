@@ -1,0 +1,5 @@
+40,41c40
+<     switch (weatherType) {
+<       case COLD:
+---
+>     switch (weatherType) {      case COLD:

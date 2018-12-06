@@ -1,0 +1,5 @@
+72,73c72
+<     assertEquals(TEST_CAR_MODEL, car.getModel().get());
+<     assertEquals(TEST_CAR_PRICE, car.getPrice().get());
+---
+>     assertEquals(TEST_CAR_MODEL, car.getModel().get());    assertEquals(TEST_CAR_PRICE, car.getPrice().get());

@@ -1,0 +1,4 @@
+106c106
+<       UserAccount toBeWrittenToDb = cache.getLruData();
+---
+>      UserAccount toBeWrittenToDb = cache.getLruData();

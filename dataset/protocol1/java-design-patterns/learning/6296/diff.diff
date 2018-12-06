@@ -1,0 +1,4 @@
+74c74
+<     Queen queen = new Queen();
+---
+>     Queen 	queen = new Queen();

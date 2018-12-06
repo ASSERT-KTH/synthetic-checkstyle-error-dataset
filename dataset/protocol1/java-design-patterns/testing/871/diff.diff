@@ -1,0 +1,4 @@
+44c44
+<   private final List<Item> items;
+---
+>   private final List <Item> items;

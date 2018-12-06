@@ -1,0 +1,4 @@
+103c103
+<         assertTrue(checkResult.getPrizeAmount() > 0);
+---
+>         assertTrue(	checkResult.getPrizeAmount() > 0);

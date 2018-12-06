@@ -1,0 +1,4 @@
+26c26
+<   @javax.inject.Inject
+---
+>  @javax.inject.Inject

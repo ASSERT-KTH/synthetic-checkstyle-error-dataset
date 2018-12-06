@@ -1,0 +1,4 @@
+70c70
+<     return "AuthorDTO [name=" + name + ", email=" + email + ", username=" + username + "]";
+---
+>     return "AuthorDTO [name=" + name + ", email=" + email + 	", username=" + username + "]";

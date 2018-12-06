@@ -1,0 +1,4 @@
+163c163
+<       return new ApiGatewayResponse(this.statusCode, strBody, this.headers, this.isBase64Encoded);
+---
+>      return new ApiGatewayResponse(this.statusCode, strBody, this.headers, this.isBase64Encoded);

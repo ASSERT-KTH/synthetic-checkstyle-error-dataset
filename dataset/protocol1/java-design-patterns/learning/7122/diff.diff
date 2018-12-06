@@ -1,0 +1,4 @@
+225c225
+<       assertThrows(Exception.class, () -> {
+---
+>       assertThrows(Exception.class, 	() -> {

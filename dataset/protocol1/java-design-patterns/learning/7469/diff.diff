@@ -1,0 +1,4 @@
+46c46
+<   protected void notifyChange() {
+---
+>   protected void notifyChange(	) {

@@ -1,0 +1,4 @@
+59c59
+<   public AbstractNioChannel(ChannelHandler handler, SelectableChannel channel) {
+---
+>   public AbstractNioChannel (ChannelHandler handler, SelectableChannel channel) {

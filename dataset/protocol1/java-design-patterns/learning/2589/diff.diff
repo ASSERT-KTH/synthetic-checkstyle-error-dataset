@@ -1,0 +1,4 @@
+65c65
+<     LotteryNumbers numbers = LotteryNumbers.createRandom();
+---
+>     LotteryNumbers numbers = LotteryNumbers.createRandom(	);

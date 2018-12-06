@@ -1,0 +1,4 @@
+28c28
+< public interface ImageClient {
+---
+>  public interface ImageClient {

@@ -1,0 +1,5 @@
+65,66c65
+<       ballThread.stopMe();
+<       ballThread.join();
+---
+>       ballThread.stopMe();      ballThread.join();

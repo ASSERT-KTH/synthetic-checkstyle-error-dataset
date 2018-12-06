@@ -1,0 +1,5 @@
+51,52c51
+<     this.wireTransfers = wireTransfers;
+<   }
+---
+>     this.wireTransfers = wireTransfers;  }

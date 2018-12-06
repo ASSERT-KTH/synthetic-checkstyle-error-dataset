@@ -1,0 +1,4 @@
+45c45
+<     Thief john = new Thief("John", jar);
+---
+>     Thief john = new Thief("John", jar	);

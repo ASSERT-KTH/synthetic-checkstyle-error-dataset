@@ -1,0 +1,4 @@
+42c42
+<     testData.add(new Object[]{WeatherType.RAINY, "The hobbits look for cover from the rain."});
+---
+>      testData.add(new Object[]{WeatherType.RAINY, "The hobbits look for cover from the rain."});

@@ -1,0 +1,4 @@
+55c55
+<   public Request(final RequestType requestType, final String requestDescription) {
+---
+>   public Request(final RequestType requestType, final 	String requestDescription) {

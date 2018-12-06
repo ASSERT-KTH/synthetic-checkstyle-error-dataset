@@ -1,0 +1,4 @@
+36c36
+<     boat = new FishingBoat();
+---
+>    boat = new FishingBoat();

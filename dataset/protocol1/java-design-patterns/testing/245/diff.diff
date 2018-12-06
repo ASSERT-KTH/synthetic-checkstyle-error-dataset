@@ -1,0 +1,4 @@
+41c41
+<   private Author getAuthorByUsername(String username) {
+---
+>   private 	Author getAuthorByUsername(String username) {

@@ -1,0 +1,5 @@
+40,41c40
+<  * <p>Similar to the {@code ObserverPattern}, members register themselves with the {@link DataBus}
+<  * and may then receive each piece of data that is published to the Data-Bus. The member
+---
+>  * <p>Similar to the {@code ObserverPattern}, members register themselves with the {@link DataBus} * and may then receive each piece of data that is published to the Data-Bus. The member

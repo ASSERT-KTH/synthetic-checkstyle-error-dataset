@@ -1,0 +1,5 @@
+82,83c82
+<     assertTrue(appender.logContains("Reader 1 begin"));
+<     assertTrue(appender.logContains("Reader 1 finish"));
+---
+>     assertTrue(appender.logContains("Reader 1 begin"));    assertTrue(appender.logContains("Reader 1 finish"));

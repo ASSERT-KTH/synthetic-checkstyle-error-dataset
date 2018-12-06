@@ -1,0 +1,4 @@
+77c77
+<       File applicationFile = new File(App.class.getClassLoader().getResource("sample-ui/login.html").getPath());
+---
+>       File applicationFile = new File(App.class.getClassLoader().getResource ("sample-ui/login.html").getPath());

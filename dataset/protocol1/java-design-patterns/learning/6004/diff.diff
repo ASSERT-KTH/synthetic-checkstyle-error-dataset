@@ -1,0 +1,4 @@
+61c61
+<       LOGGER.info("{} took a bean.", name);
+---
+>       LOGGER.info("{} took a bean.", 	name);

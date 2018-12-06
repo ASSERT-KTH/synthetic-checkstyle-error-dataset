@@ -1,0 +1,5 @@
+41,42c41
+<     AppManager.initDb(false); // VirtualDB (instead of MongoDB) was used in running the JUnit tests
+<                               // to avoid Maven compilation errors. Set flag to true to run the
+---
+>     AppManager.initDb(false); // VirtualDB (instead of MongoDB) was used in running the JUnit tests                              // to avoid Maven compilation errors. Set flag to true to run the

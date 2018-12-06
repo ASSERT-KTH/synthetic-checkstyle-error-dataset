@@ -1,0 +1,4 @@
+46c46
+<   public Thief(String name, Jar jar) {
+---
+>   public Thief(String 	name, Jar jar) {

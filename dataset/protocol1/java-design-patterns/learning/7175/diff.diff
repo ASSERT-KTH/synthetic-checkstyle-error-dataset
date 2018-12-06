@@ -1,0 +1,5 @@
+66,67c66
+<         LOGGER.error("Initial SessionFactory creation failed.", ex);
+<         throw new ExceptionInInitializerError(ex);
+---
+>         LOGGER.error("Initial SessionFactory creation failed.", ex);        throw new ExceptionInInitializerError(ex);

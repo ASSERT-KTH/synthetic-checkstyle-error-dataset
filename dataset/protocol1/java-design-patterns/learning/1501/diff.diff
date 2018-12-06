@@ -1,0 +1,4 @@
+67c67
+<     return Objects.hash(title, price);
+---
+>     return Objects.hash(title	, price);

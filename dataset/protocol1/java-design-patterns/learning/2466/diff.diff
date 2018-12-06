@@ -1,0 +1,5 @@
+35,36c35
+<     String[] args = {};
+<     App.main(args);
+---
+>     String[] args = {};    App.main(args);

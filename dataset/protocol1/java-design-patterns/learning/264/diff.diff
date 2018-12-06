@@ -1,0 +1,5 @@
+70c70,71
+<     assertEquals("sun age: 1 years mass: 2 tons", star.toString());
+---
+>     assertEquals("sun age: 1 years mass: 2 tons", star.toString()
+> );

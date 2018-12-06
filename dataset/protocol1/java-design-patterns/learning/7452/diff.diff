@@ -1,0 +1,4 @@
+75c75
+<   String getHeader(Headers header);
+---
+>   String getHeader(Headers header)	;

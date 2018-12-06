@@ -1,0 +1,4 @@
+74c74
+<     LOGGER.info(mag.toString());
+---
+>     LOGGER.info(mag.toString ());

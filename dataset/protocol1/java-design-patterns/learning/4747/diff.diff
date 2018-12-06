@@ -1,0 +1,5 @@
+60c60,61
+<   @EndpointInject(uri = "{{wireTapEndpoint}}")
+---
+>   @EndpointInject(uri = "{{wireTapEndpoint}}"
+> )

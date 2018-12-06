@@ -1,0 +1,4 @@
+79c79
+<   public double getPrice() {
+---
+>   public double getPrice () {

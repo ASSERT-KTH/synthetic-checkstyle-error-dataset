@@ -1,0 +1,4 @@
+59c59
+<     then(member).should().accept(event);
+---
+>    then(member).should().accept(event);

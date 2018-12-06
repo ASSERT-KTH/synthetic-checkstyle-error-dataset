@@ -1,0 +1,5 @@
+86c86,87
+<     goodCompany.add(badMoodRoyalty);
+---
+>     
+> goodCompany.add(badMoodRoyalty);

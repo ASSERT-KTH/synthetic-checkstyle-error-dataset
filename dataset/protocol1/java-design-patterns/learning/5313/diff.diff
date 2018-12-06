@@ -1,0 +1,4 @@
+41c41
+<     bind(WireTransfers.class).to(InMemoryBank.class);
+---
+>    bind(WireTransfers.class).to(InMemoryBank.class);

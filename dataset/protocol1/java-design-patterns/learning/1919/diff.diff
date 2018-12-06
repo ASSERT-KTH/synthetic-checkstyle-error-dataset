@@ -1,0 +1,5 @@
+37,38c37
+<  */
+< public class LoggingHandler implements ChannelHandler {
+---
+>  */public class LoggingHandler implements ChannelHandler {

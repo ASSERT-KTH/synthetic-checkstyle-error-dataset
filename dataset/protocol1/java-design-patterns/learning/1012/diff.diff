@@ -1,0 +1,4 @@
+36c36
+<     super(PotatoPeelingTask::new, 200);
+---
+>     super (PotatoPeelingTask::new, 200);

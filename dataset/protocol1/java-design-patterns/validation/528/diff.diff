@@ -1,0 +1,4 @@
+109c109
+<     private HairType hairType;
+---
+>    private HairType hairType;

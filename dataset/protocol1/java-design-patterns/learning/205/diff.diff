@@ -1,0 +1,4 @@
+35c35
+< public class HpPrinter implements Printer {
+---
+> public 	class HpPrinter implements Printer {

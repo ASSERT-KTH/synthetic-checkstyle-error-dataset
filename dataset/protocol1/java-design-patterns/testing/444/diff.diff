@@ -1,0 +1,4 @@
+73c73
+<     LOGGER.info(warrior.toString());
+---
+>     LOGGER.	info(warrior.toString());

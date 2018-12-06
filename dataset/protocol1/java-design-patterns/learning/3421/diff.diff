@@ -1,0 +1,5 @@
+32,33c32
+< public final class DatabaseNotAvailableException extends BusinessException {
+<   private static final long serialVersionUID = -3750769625095997799L;
+---
+> public final class DatabaseNotAvailableException extends BusinessException {  private static final long serialVersionUID = -3750769625095997799L;

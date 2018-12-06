@@ -1,0 +1,4 @@
+105c105
+<     Iterator<E> iterator = iterable.iterator();
+---
+>     Iterator<E> iterator = iterable.	iterator();

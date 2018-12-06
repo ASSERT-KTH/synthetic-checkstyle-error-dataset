@@ -1,0 +1,4 @@
+74c74
+<     context.stop();
+---
+>    context.stop();

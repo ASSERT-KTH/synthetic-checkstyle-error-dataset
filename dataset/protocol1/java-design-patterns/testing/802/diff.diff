@@ -1,0 +1,4 @@
+38c38
+<     for (Letter l : letters) {
+---
+>     for (Letter 	l : letters) {

@@ -1,0 +1,4 @@
+26c26
+< import com.iluwatar.observer.generic.GOrcs;
+---
+>  import com.iluwatar.observer.generic.GOrcs;

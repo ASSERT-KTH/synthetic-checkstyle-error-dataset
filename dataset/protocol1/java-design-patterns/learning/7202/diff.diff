@@ -1,0 +1,4 @@
+26c26
+< import javax.persistence.criteria.CriteriaQuery;
+---
+> import javax.persistence	.criteria.CriteriaQuery;

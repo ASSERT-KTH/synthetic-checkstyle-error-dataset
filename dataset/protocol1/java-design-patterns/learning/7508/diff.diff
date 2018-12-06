@@ -1,0 +1,5 @@
+169,170c169
+<             eventManager.start(eventId);
+<             LOGGER.info("Egg [{}] is being boiled.", eventId);
+---
+>             eventManager.start(eventId);            LOGGER.info("Egg [{}] is being boiled.", eventId);

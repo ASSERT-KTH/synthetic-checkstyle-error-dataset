@@ -1,0 +1,4 @@
+39c39
+<   public DataMapperException(final String message) {
+---
+>    public DataMapperException(final String message) {

@@ -1,0 +1,5 @@
+41c41,42
+<   Optional<LotteryTicket> findById(LotteryTicketId id);
+---
+>   Optional<LotteryTicket> findById(
+> LotteryTicketId id);

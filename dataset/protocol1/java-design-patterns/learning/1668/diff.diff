@@ -1,0 +1,4 @@
+43c43
+<   private SpellbookDao spellbookDao;
+---
+>  private SpellbookDao spellbookDao;

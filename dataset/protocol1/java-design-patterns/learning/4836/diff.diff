@@ -1,0 +1,4 @@
+25c25
+< import com.iluwatar.observer.WeatherType;
+---
+> import 	com.iluwatar.observer.WeatherType;

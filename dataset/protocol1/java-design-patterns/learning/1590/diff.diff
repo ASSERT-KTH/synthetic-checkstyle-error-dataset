@@ -1,0 +1,5 @@
+52c52,53
+<       heavy = new Heavy();
+---
+>       heavy 
+> = new Heavy();

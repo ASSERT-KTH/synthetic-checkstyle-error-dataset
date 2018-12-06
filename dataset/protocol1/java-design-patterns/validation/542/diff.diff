@@ -1,0 +1,4 @@
+26c26
+< @RunWith(Cucumber.class)
+---
+> @RunWith(Cucumber	.class)

@@ -1,0 +1,4 @@
+45c45
+<     final MessageData messageData = new MessageData(message);
+---
+>     final MessageData messageData = new MessageData(	message);

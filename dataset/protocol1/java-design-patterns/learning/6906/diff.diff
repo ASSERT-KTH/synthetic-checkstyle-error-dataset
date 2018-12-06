@@ -1,0 +1,4 @@
+38c38
+<     long result = client.useService(10);
+---
+>     long result= client.useService(10);

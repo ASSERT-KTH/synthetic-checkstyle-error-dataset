@@ -1,0 +1,4 @@
+79c79
+<     return Objects.hash(firstName, lastName, isActive, userId);
+---
+>     return Objects	.hash(firstName, lastName, isActive, userId);

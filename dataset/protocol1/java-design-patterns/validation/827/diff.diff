@@ -1,0 +1,4 @@
+53c53
+<     return next != null;
+---
+>     return next!= null;

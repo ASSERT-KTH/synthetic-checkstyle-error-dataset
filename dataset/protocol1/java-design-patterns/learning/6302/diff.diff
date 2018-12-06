@@ -1,0 +1,4 @@
+34c34
+<   public NumberExpression(int number) {
+---
+>   public NumberExpression(int number	) {

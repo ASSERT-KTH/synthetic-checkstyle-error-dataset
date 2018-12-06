@@ -1,0 +1,5 @@
+57,58c57
+<     final Queen queen = new Queen();
+<     queen.changeMood();
+---
+>     final Queen queen = new Queen();    queen.changeMood();

@@ -1,0 +1,4 @@
+83c83
+<     ArrayList<User> users = Lists.newArrayList(new User("Camile", "Tough", false, "124sad"),
+---
+>    ArrayList<User> users = Lists.newArrayList(new User("Camile", "Tough", false, "124sad"),

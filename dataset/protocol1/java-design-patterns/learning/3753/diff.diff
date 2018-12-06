@@ -1,0 +1,4 @@
+44c44
+<     verify(mockedVisitor).visitCommander(eq(unit));
+---
+>     verify(mockedVisitor).visitCommander(eq (unit));

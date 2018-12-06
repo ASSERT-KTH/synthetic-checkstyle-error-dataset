@@ -1,0 +1,5 @@
+41,42c41
+<     this.next = filter;
+<   }
+---
+>     this.next = filter;  }

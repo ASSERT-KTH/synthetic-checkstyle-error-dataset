@@ -1,0 +1,5 @@
+81c81,82
+<     int result = 1;
+---
+>     int 
+> result = 1;

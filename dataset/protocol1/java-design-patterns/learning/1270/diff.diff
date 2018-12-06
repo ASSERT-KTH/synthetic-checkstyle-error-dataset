@@ -1,0 +1,4 @@
+64c64
+<     Person john = new Person("John", "lawrence", 35);
+---
+>     Person john = new Person("John", "lawrence", 35	);

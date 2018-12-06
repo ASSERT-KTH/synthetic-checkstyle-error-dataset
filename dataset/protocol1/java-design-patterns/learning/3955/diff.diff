@@ -1,0 +1,4 @@
+43c43
+<   public void feed(Royalty r) {
+---
+>   public 	void feed(Royalty r) {

@@ -1,0 +1,5 @@
+95,96c95
+<       session.beginTransaction();
+<       session.update(author);
+---
+>       session.beginTransaction();      session.update(author);

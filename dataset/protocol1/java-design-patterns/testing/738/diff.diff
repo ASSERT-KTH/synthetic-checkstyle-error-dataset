@@ -1,0 +1,5 @@
+32c32,33
+< public class HolderNaiveTest extends AbstractHolderTest {
+---
+> public class HolderNaiveTest extends AbstractHolderTest 
+> {

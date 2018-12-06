@@ -1,0 +1,4 @@
+77c77
+<     verifyWeapon(weapon, Sword.class);
+---
+>      verifyWeapon(weapon, Sword.class);

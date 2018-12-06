@@ -1,0 +1,5 @@
+40,41c40
+<   
+<   private final BlockingQueue<Message> blkQueue;
+---
+>     private final BlockingQueue<Message> blkQueue;

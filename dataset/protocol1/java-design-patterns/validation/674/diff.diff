@@ -1,0 +1,4 @@
+56c56
+<     assertEquals(EXPECTED_VALUE, order.getAddress());
+---
+>    assertEquals(EXPECTED_VALUE, order.getAddress());

@@ -1,0 +1,5 @@
+35c35,36
+<   public static final String DELETE_SCHEMA_SQL = "DROP TABLE CUSTOMERS";
+---
+>   
+> public static final String DELETE_SCHEMA_SQL = "DROP TABLE CUSTOMERS";

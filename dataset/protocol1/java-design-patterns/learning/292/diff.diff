@@ -1,0 +1,4 @@
+105c105
+<   public void testInterpret(NumberExpression first, NumberExpression second, int result) {
+---
+>   public void testInterpret(NumberExpression first, NumberExpression second, int 	result) {

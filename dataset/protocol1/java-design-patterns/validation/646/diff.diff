@@ -1,0 +1,5 @@
+49c49,50
+<     assertEquals(EXPECTED_VALUE, order.getContactNumber());
+---
+>     assertEquals(EXPECTED_VALUE, order.getContactNumber()
+> );

@@ -1,0 +1,4 @@
+39c39
+<         details.getEmail(), details.getBankAccount());
+---
+>         details	.getEmail(), details.getBankAccount());

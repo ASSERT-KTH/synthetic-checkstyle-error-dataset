@@ -1,0 +1,4 @@
+181c181
+<             LOGGER.info("InterruptedException while waiting for globalMutex to begin writing", e);
+---
+>             LOGGER.	info("InterruptedException while waiting for globalMutex to begin writing", e);

@@ -1,0 +1,4 @@
+45c45
+<     return container.injectServicesInto(new HomePageViewModel());
+---
+>     return container.injectServicesInto(new HomePageViewModel()	);

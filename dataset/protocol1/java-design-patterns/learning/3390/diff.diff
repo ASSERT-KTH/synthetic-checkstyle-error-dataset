@@ -1,0 +1,4 @@
+53c53
+<     audio.playSound(audio.getAudioStream("./etc/Closed-Hi-Hat-1.wav"), -8.0f);
+---
+>     audio.playSound(audio.getAudioStream("./etc/Closed-Hi-Hat-1.wav"), -8.0f	);

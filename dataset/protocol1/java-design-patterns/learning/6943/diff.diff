@@ -1,0 +1,5 @@
+30,31c30
+<  * The Caching pattern describes how to avoid expensive re-acquisition of resources by not releasing
+<  * the resources immediately after their use. The resources retain their identity, are kept in some
+---
+>  * The Caching pattern describes how to avoid expensive re-acquisition of resources by not releasing * the resources immediately after their use. The resources retain their identity, are kept in some

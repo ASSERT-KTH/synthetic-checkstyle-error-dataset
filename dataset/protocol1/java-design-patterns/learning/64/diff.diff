@@ -1,0 +1,4 @@
+51c51
+<     df.fetch();
+---
+>     df.	fetch();

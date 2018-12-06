@@ -1,0 +1,4 @@
+34c34
+<   private static final Logger LOGGER = LoggerFactory.getLogger(Thief.class);
+---
+>   private static final Logger LOGGER = 	LoggerFactory.getLogger(Thief.class);

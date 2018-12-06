@@ -1,0 +1,4 @@
+51c51
+<   Map<LotteryTicketId, LotteryTicket> findAll();
+---
+>   Map<LotteryTicketId, LotteryTicket> findAll ();

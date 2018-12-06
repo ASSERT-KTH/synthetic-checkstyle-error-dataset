@@ -1,0 +1,4 @@
+61c61
+<     if (Thread.currentThread() == owner) {
+---
+>     if (Thread.currentThread() == owner	) {

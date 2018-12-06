@@ -1,0 +1,5 @@
+35,36c35
+< import com.iluwatar.specification.creature.Troll;
+< import com.iluwatar.specification.property.Color;
+---
+> import com.iluwatar.specification.creature.Troll;import com.iluwatar.specification.property.Color;

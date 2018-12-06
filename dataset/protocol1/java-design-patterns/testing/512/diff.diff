@@ -1,0 +1,4 @@
+45c45
+<     final Worker worker = new Worker(task);
+---
+>     final Worker worker = new Worker(task)	;

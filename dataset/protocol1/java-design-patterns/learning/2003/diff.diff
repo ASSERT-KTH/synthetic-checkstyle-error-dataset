@@ -1,0 +1,4 @@
+67c67
+<         .forEach(e -> builder.append("[").append(e.getKey()).append(" : ").append(e.getValue()).append("]"));
+---
+>         .forEach(e -> builder.append("[").append(e.getKey()).append(" : ").append (e.getValue()).append("]"));

@@ -1,0 +1,4 @@
+30c30
+< public class RivendellTobacco extends Tobacco {
+---
+>  public class RivendellTobacco extends Tobacco {

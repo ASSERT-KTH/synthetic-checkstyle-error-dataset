@@ -1,0 +1,5 @@
+64c64,65
+<       final AdvancedWizard advancedWizard = new AdvancedWizard(tobacco);
+---
+>       final AdvancedWizard advancedWizard 
+> = new AdvancedWizard(tobacco);

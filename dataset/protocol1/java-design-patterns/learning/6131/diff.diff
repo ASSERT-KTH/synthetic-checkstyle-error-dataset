@@ -1,0 +1,5 @@
+58,59c58
+<     beast = factory.createBeast();
+<     LOGGER.info(mage.toString());
+---
+>     beast = factory.createBeast();    LOGGER.info(mage.toString());

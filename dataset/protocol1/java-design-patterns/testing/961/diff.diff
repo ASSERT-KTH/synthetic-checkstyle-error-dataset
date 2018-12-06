@@ -1,0 +1,4 @@
+45c45
+<         new Commander(new Sergeant(new Soldier(), new Soldier(), new Soldier()), new Sergeant(
+---
+>        new Commander(new Sergeant(new Soldier(), new Soldier(), new Soldier()), new Sergeant(

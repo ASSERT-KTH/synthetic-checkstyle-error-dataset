@@ -1,0 +1,4 @@
+50c50
+<     verifyNoMoreInteractions(task);
+---
+>    verifyNoMoreInteractions(task);

@@ -1,0 +1,4 @@
+30c30
+< public class LordVarysTest extends EventEmitterTest<LordVarys> {
+---
+> public class LordVarysTest extends 	EventEmitterTest<LordVarys> {

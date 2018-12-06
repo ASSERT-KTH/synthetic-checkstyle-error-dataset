@@ -1,0 +1,4 @@
+58c58
+<         String cmd = readString(scanner);
+---
+>        String cmd = readString(scanner);

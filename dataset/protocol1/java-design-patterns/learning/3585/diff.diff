@@ -1,0 +1,4 @@
+63c63
+<     advancedSorceress.setTobacco(new SecondBreakfastTobacco());
+---
+>      advancedSorceress.setTobacco(new SecondBreakfastTobacco());

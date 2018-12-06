@@ -1,0 +1,4 @@
+35c35
+<   public EnumIvoryTowerTest() {
+---
+>   public EnumIvoryTowerTest(	) {

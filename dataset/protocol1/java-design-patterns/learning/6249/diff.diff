@@ -1,0 +1,4 @@
+49c49
+<     Item item = queue.take();
+---
+>     Item item= queue.take();

@@ -1,0 +1,4 @@
+59c59
+<     assertEquals("SimpleWizard smoking OldTobyTobacco", appender.getLastMessage());
+---
+>    assertEquals("SimpleWizard smoking OldTobyTobacco", appender.getLastMessage());

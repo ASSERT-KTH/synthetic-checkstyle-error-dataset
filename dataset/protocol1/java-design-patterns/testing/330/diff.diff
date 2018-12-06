@@ -1,0 +1,5 @@
+76c76,77
+<     assertTrue(actuals.containsAll(persons) && persons.containsAll(actuals));
+---
+>     assertTrue(actuals.containsAll(persons) && persons
+> .containsAll(actuals));

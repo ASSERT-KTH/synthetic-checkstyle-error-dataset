@@ -1,0 +1,4 @@
+38c38
+< public class CustomerResourceTest {
+---
+> public 	class CustomerResourceTest {

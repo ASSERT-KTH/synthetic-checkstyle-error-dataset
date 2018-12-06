@@ -1,0 +1,4 @@
+70c70
+<     Injector injector = Guice.createInjector(new LotteryTestingModule());
+---
+>     Injector injector = Guice.createInjector(new LotteryTestingModule())	;

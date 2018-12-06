@@ -1,0 +1,4 @@
+83c83
+<     nasta.setName("Barbora");
+---
+>    nasta.setName("Barbora");

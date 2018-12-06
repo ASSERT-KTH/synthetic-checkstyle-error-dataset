@@ -1,0 +1,4 @@
+115c115
+<     if (state != null ? !state.equals(address.state) : address.state != null) {
+---
+>     if (state != null ? !state	.equals(address.state) : address.state != null) {

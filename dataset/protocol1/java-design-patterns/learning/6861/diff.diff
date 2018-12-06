@@ -1,0 +1,4 @@
+35c35
+<   public static final int PRIZE_AMOUNT = 100000;
+---
+>   public static final int PRIZE_AMOUNT =100000;

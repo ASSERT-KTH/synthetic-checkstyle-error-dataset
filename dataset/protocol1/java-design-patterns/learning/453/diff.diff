@@ -1,0 +1,4 @@
+36c36
+<   void changeMood();
+---
+>  void changeMood();

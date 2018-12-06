@@ -1,0 +1,5 @@
+85c85,86
+<     return scanner.next();
+---
+>     return scanner.next()
+> ;

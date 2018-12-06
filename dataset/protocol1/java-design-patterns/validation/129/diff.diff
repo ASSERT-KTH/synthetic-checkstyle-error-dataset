@@ -1,0 +1,4 @@
+83c83
+<       if (anchor.getTextContent().equals(albumTitle)) {
+---
+>       if (anchor	.getTextContent().equals(albumTitle)) {

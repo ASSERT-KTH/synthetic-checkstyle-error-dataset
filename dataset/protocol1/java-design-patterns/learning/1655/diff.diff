@@ -1,0 +1,4 @@
+94c94
+<     final PartyMember member = memberSupplier.get();
+---
+>     final PartyMember member 	= memberSupplier.get();

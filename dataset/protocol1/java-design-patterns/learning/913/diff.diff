@@ -1,0 +1,5 @@
+135c135,136
+<     verify(studentDatabase, never()).modify(student1);
+---
+>     verify(studentDatabase
+> , never()).modify(student1);

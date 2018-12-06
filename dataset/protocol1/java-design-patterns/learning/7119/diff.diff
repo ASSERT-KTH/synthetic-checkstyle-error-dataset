@@ -1,0 +1,4 @@
+57c57
+<     parameters.add(new Object[]{"Archer", "Displaying archers"});
+---
+>    parameters.add(new Object[]{"Archer", "Displaying archers"});

@@ -1,0 +1,5 @@
+51c51,52
+<     Iterator<Item> itemIterator = TREASURE_CHEST.iterator(itemType);
+---
+>     Iterator<Item> itemIterator = 
+> TREASURE_CHEST.iterator(itemType);

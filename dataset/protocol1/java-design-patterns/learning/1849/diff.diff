@@ -1,0 +1,4 @@
+159c159
+<         if (!key.isValid()) {
+---
+>         if (!key	.isValid()) {

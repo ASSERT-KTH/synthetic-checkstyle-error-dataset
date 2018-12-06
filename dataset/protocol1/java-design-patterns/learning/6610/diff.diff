@@ -1,0 +1,4 @@
+65c65
+<   private final D dao;
+---
+>  private final D dao;

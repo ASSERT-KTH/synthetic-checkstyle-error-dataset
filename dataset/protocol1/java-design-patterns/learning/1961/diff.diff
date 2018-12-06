@@ -1,0 +1,4 @@
+113c113
+<       fail("Setup failed: " + e);
+---
+>       fail("Setup failed: "+ e);

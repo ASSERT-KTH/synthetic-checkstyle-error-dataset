@@ -1,0 +1,4 @@
+19c19
+< import org.apache.isis.applib.services.jdosupport.IsisJdoSupport;
+---
+> import org.apache.isis.applib.services.jdosupport.IsisJdoSupport	;

@@ -1,0 +1,5 @@
+50,51c50
+<       instanceField.setAccessible(true);
+<       return (Heavy) instanceField.get(supplier);
+---
+>       instanceField.setAccessible(true);      return (Heavy) instanceField.get(supplier);

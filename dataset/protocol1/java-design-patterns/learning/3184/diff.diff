@@ -1,0 +1,5 @@
+72,73c72
+<     star.timePasses();
+<     final StarMemento secondMemento = star.getMemento();
+---
+>     star.timePasses();    final StarMemento secondMemento = star.getMemento();

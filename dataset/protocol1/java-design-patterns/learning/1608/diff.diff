@@ -1,0 +1,4 @@
+62c62
+<       redoStack.offerLast(previousSpell);
+---
+>        redoStack.offerLast(previousSpell);

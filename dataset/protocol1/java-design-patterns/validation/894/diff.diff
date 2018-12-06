@@ -1,0 +1,5 @@
+79,80c79
+<       queue.put(Message.POISON_PILL);
+<     } catch (InterruptedException e) {
+---
+>       queue.put(Message.POISON_PILL);    } catch (InterruptedException e) {

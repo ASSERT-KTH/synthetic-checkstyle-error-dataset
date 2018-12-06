@@ -1,0 +1,4 @@
+48c48
+<     final List<Potion> topShelf = shop.getTopShelf();
+---
+>     final List<Potion> topShelf = shop.getTopShelf()	;

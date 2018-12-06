@@ -1,0 +1,4 @@
+61c61
+<     try (TreasureChest treasureChest = new TreasureChest()) {
+---
+>     try(TreasureChest treasureChest = new TreasureChest()) {

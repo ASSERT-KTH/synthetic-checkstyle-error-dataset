@@ -1,0 +1,4 @@
+47c47
+<     commander.accept(new SoldierVisitor());
+---
+>     commander.accept(new SoldierVisitor()	);

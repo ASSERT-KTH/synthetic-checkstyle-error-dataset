@@ -1,0 +1,4 @@
+71c71
+<     wizard.redoLastSpell();
+---
+>     wizard.redoLastSpell(	);

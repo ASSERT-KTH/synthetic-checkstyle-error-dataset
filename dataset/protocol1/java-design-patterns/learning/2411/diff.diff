@@ -1,0 +1,4 @@
+53c53
+<     assertTrue(repository.findAll().isEmpty());
+---
+>     assertTrue(repository.findAll().isEmpty(	));

@@ -1,0 +1,4 @@
+89c89
+<     for (final Class<? extends Tobacco> tobaccoClass : tobaccos) {
+---
+>    for (final Class<? extends Tobacco> tobaccoClass : tobaccos) {

@@ -1,0 +1,5 @@
+58c58,59
+<     Hobbit hobbit = new Hobbit();
+---
+>     
+> Hobbit hobbit = new Hobbit();

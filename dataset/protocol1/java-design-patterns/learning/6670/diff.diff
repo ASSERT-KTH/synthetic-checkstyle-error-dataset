@@ -1,0 +1,4 @@
+40c40
+<     items.add(new Item(ItemType.RING, "Ring of shadows"));
+---
+>     items.add(new Item(ItemType.RING, "Ring of shadows"	));

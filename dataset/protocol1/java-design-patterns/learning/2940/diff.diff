@@ -1,0 +1,5 @@
+69c69,70
+<     LOGGER.info("HOARMURATH={}", NazgulEnum.HOARMURATH);
+---
+>     LOGGER.info("HOARMURATH={}", NazgulEnum
+> .HOARMURATH);

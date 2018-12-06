@@ -1,0 +1,4 @@
+69c69
+<   public void insert(T valToInsert) {
+---
+>   public void insert(T valToInsert) 	{

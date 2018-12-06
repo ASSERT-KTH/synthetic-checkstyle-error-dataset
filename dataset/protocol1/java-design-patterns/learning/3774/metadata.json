@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "53", "message": "'\"Expected all requests from King to be handled, but [\"' has incorrect indentation level 9, expected level should be 10.", "type": "Indentation"}

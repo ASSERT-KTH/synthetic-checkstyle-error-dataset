@@ -1,0 +1,4 @@
+74c74
+<     assertEquals(HairType.LONG_CURLY, hero.getHairType());
+---
+>     assertEquals(HairType.LONG_CURLY, hero.getHairType()	);

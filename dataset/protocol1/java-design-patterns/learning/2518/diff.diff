@@ -1,0 +1,5 @@
+38,39c38
+<     LOGGER.info("Lottery ticket for {} was submitted. Bank account {} was charged for 3 credits.",
+<         details.getEmail(), details.getBankAccount());
+---
+>     LOGGER.info("Lottery ticket for {} was submitted. Bank account {} was charged for 3 credits.",        details.getEmail(), details.getBankAccount());

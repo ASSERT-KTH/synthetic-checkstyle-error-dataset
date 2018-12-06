@@ -1,0 +1,4 @@
+27c27
+< import org.apache.camel.impl.DefaultExchange;
+---
+> import org.apache.camel.impl.DefaultExchange	;

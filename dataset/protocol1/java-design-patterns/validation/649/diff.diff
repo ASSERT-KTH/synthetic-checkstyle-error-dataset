@@ -1,0 +1,4 @@
+104c104
+<     assertTrue(appender.logContains("Dwarf cart operator goes to sleep."));
+---
+>     assertTrue(appender.logContains ("Dwarf cart operator goes to sleep."));

@@ -1,0 +1,5 @@
+36c36,37
+<   public final List<String> names = Collections.unmodifiableList(Arrays.asList("Foo", "Bar", "Baz",
+---
+>   public 
+> final List<String> names = Collections.unmodifiableList(Arrays.asList("Foo", "Bar", "Baz",

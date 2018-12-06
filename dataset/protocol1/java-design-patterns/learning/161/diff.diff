@@ -1,0 +1,4 @@
+57c57
+<     assertEquals(1, repository.findAll().size());
+---
+>     assertEquals(1, repository	.findAll().size());

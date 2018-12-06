@@ -1,0 +1,5 @@
+47,48c47
+<    * @throws IOException when there is a problem with the audio file loading
+<    * @throws UnsupportedAudioFileException  when the loaded audio file is unsupported 
+---
+>    * @throws IOException when there is a problem with the audio file loading   * @throws UnsupportedAudioFileException  when the loaded audio file is unsupported 

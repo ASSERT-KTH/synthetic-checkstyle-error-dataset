@@ -1,0 +1,4 @@
+43c43
+<       LOGGER.info("Only ZoomVisitor is allowed to visit Zoom modem");
+---
+>       LOGGER.	info("Only ZoomVisitor is allowed to visit Zoom modem");

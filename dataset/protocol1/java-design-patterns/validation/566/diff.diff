@@ -1,0 +1,4 @@
+42c42
+<     this.hairColor = builder.hairColor;
+---
+>     this.	hairColor = builder.hairColor;

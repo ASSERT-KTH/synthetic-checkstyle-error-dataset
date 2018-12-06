@@ -1,0 +1,4 @@
+54c54
+<   public abstract boolean isAt();
+---
+>   public 	abstract boolean isAt();

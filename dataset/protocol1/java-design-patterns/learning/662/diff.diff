@@ -1,0 +1,4 @@
+80c80
+<   public void testObserver(WeatherType weather, String response) {
+---
+>   public void testObserver(WeatherType weather, String response) 	{

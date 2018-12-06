@@ -1,0 +1,5 @@
+47,48c47
+<     assertThat(lambdaInfoApiHandler.handleRequest(null, context), notNullValue());
+<   }
+---
+>     assertThat(lambdaInfoApiHandler.handleRequest(null, context), notNullValue());  }

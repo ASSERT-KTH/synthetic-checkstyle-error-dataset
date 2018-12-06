@@ -1,0 +1,4 @@
+44c44
+<     cakeBakingService.getAllCakes().forEach(cake -> LOGGER.info(cake.toString()));
+---
+>     cakeBakingService.getAllCakes().forEach(	cake -> LOGGER.info(cake.toString()));

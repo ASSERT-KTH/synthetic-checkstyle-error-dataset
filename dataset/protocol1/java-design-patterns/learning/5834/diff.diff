@@ -1,0 +1,4 @@
+85c85
+<         final Object... arguments) {
+---
+>        final Object... arguments) {

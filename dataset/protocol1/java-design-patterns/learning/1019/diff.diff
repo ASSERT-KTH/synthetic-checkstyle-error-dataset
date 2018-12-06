@@ -1,0 +1,4 @@
+37c37
+<     int numberOfInventories = inventoryController.getProductInventories();
+---
+>    int numberOfInventories = inventoryController.getProductInventories();

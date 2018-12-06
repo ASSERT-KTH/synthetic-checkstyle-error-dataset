@@ -1,0 +1,4 @@
+45c45
+<   private ByteArrayOutputStream stdOutBuffer = new ByteArrayOutputStream();
+---
+>   private ByteArrayOutputStream stdOutBuffer = new ByteArrayOutputStream(	);

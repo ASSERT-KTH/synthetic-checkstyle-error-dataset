@@ -1,0 +1,5 @@
+56c56,57
+<   private static final Logger LOGGER = LoggerFactory.getLogger(WriterTest.class);
+---
+>   private static final 
+> Logger LOGGER = LoggerFactory.getLogger(WriterTest.class);

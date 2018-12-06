@@ -1,0 +1,5 @@
+26c26,27
+<   public InvalidOperationException(String message) {
+---
+>   public InvalidOperationException(
+> String message) {

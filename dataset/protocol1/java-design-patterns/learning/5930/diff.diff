@@ -1,0 +1,5 @@
+61c61,62
+<     contentStore.onAction(new ContentAction(Content.COMPANY));
+---
+>     contentStore.onAction(new ContentAction(Content
+> .COMPANY));

@@ -1,0 +1,4 @@
+89c89
+<       LOGGER.error("An error occured.", ex);
+---
+>      LOGGER.error("An error occured.", ex);

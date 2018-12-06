@@ -1,0 +1,5 @@
+49c49,50
+<     from("{{entry}}").split().body().to("{{endpoint}}");
+---
+>     from("{{entry}}").split().body().to("{{endpoint}}"
+> );

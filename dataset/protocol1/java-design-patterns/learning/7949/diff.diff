@@ -1,0 +1,4 @@
+42c42
+<     Task task = new SimpleTask();
+---
+>     Task task = 	new SimpleTask();

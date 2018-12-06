@@ -1,0 +1,5 @@
+40,41c40
+<   public void timePasses(Weekday day) {
+<     if (day.equals(Weekday.SATURDAY)) {
+---
+>   public void timePasses(Weekday day) {    if (day.equals(Weekday.SATURDAY)) {

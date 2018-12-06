@@ -1,0 +1,4 @@
+35c35
+<   public abstract String toString();
+---
+>   public 	abstract String toString();

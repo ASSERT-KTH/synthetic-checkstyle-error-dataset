@@ -1,0 +1,4 @@
+95c95
+<       return properties.get(stat);
+---
+>      return properties.get(stat);

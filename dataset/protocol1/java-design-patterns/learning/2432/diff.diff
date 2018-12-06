@@ -1,0 +1,5 @@
+37c37,38
+<   private final Map<String, Object> properties;
+---
+>   private final Map
+> <String, Object> properties;

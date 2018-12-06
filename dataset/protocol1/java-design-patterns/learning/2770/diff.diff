@@ -1,0 +1,4 @@
+40c40
+<     if (extensionName.equals("SergeantExtension")) {
+---
+>    if (extensionName.equals("SergeantExtension")) {

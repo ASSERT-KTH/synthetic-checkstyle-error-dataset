@@ -1,0 +1,4 @@
+61c61
+<         .validate(User::getEmail, email -> email.contains("@"), "email does not contain @ sign")
+---
+>         	.validate(User::getEmail, email -> email.contains("@"), "email does not contain @ sign")

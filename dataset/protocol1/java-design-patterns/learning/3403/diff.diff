@@ -1,0 +1,5 @@
+42,43c42
+<  * of the complex issues inherent in multithreaded design. Using a class that supports this pattern can allow you to:-
+<  * (1) Perform time-consuming tasks, such as downloads and database operations, "in the background," without
+---
+>  * of the complex issues inherent in multithreaded design. Using a class that supports this pattern can allow you to:- * (1) Perform time-consuming tasks, such as downloads and database operations, "in the background," without

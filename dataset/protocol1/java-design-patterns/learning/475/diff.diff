@@ -1,0 +1,4 @@
+146c146
+<     Person p = repository.findOne(new PersonSpecifications.NameEqualSpec("John"));
+---
+>    Person p = repository.findOne(new PersonSpecifications.NameEqualSpec("John"));

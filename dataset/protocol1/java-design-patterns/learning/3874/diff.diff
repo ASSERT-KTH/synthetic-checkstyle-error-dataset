@@ -1,0 +1,4 @@
+39c39
+<     chain = new OrcCommander(new OrcOfficer(new OrcSoldier(null)));
+---
+>     chain = 	new OrcCommander(new OrcOfficer(new OrcSoldier(null)));

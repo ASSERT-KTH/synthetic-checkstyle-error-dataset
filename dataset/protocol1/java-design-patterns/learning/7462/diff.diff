@@ -1,0 +1,4 @@
+33c33
+<   public static enum FruitType {
+---
+>    public static enum FruitType {

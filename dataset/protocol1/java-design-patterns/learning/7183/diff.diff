@@ -1,0 +1,4 @@
+43c43
+<     final Supplier<Heavy> supplier = (Supplier<Heavy>) holderField.get(this.holder);
+---
+>    final Supplier<Heavy> supplier = (Supplier<Heavy>) holderField.get(this.holder);

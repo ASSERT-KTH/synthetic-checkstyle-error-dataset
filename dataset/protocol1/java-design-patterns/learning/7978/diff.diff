@@ -1,0 +1,5 @@
+36c36,37
+<   public UserUpdatedEvent(User user) {
+---
+>   public UserUpdatedEvent(
+> User user) {

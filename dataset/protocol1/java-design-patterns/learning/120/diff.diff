@@ -1,0 +1,4 @@
+32c32
+<   public SpaceStationIss(int left, int top, int right, int bottom) {
+---
+>   public SpaceStationIss(int left	, int top, int right, int bottom) {

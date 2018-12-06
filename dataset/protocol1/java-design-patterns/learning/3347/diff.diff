@@ -1,0 +1,5 @@
+46c46,47
+<   protected Class<E> persistentClass = (Class<E>) ((ParameterizedType) getClass()
+---
+>   protected Class<E> persistentClass = (Class<E
+> >) ((ParameterizedType) getClass()

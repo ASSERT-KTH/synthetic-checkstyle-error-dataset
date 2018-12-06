@@ -1,0 +1,4 @@
+33c33
+< public class HealingPotion implements Potion {
+---
+> public class 	HealingPotion implements Potion {

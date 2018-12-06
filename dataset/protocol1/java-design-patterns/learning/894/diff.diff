@@ -1,0 +1,5 @@
+44c44,45
+<     final DragonSlayer dragonSlayer = new DragonSlayer(strategy);
+---
+>     final DragonSlayer dragonSlayer = new DragonSlayer(
+> strategy);

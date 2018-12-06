@@ -1,0 +1,5 @@
+72,73c72
+<     bus.subscribe(bar);
+<     bus.publish(MessageData.of("Foo and Bar should see this"));
+---
+>     bus.subscribe(bar);    bus.publish(MessageData.of("Foo and Bar should see this"));

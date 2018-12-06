@@ -1,0 +1,4 @@
+65c65
+<     spells = new HashSet<>();
+---
+>     spells 	= new HashSet<>();

@@ -1,0 +1,5 @@
+120,121c120
+<     LOGGER.info(AppManager.printCacheContent());
+<     AppManager.find("002");
+---
+>     LOGGER.info(AppManager.printCacheContent());    AppManager.find("002");

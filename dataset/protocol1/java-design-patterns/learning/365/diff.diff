@@ -1,0 +1,4 @@
+93c93
+<     eventProcessor.process(new MoneyTransferEvent(
+---
+>    eventProcessor.process(new MoneyTransferEvent(

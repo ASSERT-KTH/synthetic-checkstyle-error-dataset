@@ -1,0 +1,4 @@
+43c43
+<     new Customer("Paul", shop).start();
+---
+>     new 	Customer("Paul", shop).start();

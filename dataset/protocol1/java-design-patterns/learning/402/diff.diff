@@ -1,0 +1,5 @@
+71,72c71
+<         LOGGER.info("push result to stack: {}", resultExpression.interpret());
+<       } else {
+---
+>         LOGGER.info("push result to stack: {}", resultExpression.interpret());      } else {

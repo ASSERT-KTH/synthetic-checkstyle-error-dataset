@@ -1,0 +1,4 @@
+51c51
+<   public void setImagePath(String imagePath) {
+---
+>  public void setImagePath(String imagePath) {

@@ -1,0 +1,4 @@
+90c90
+<   public Set<Wizard> getWizards() {
+---
+>  public Set<Wizard> getWizards() {

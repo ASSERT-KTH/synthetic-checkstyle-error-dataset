@@ -1,0 +1,5 @@
+73c73,74
+<   public abstract Collection<Object[]> dataProvider();
+---
+>   public abstract Collection<Object[]> 
+> dataProvider();

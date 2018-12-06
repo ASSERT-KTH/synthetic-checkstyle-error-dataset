@@ -1,0 +1,5 @@
+54c54,55
+<   RemoteService(RandomProvider randomProvider) {
+---
+>   RemoteService(
+> RandomProvider randomProvider) {

@@ -1,0 +1,4 @@
+49c49
+<   default T result() {
+---
+>  default T result() {

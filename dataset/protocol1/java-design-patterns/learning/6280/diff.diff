@@ -1,0 +1,4 @@
+47c47
+<   public void testEquals() {
+---
+>   public 	void testEquals() {

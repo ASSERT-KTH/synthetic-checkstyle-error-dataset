@@ -1,0 +1,4 @@
+56c56
+<     if (data instanceof StartingData) {
+---
+>     if(data instanceof StartingData) {

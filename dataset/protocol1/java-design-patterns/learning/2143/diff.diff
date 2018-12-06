@@ -1,0 +1,4 @@
+59c59
+<     AdvancedWizard advancedWizard = new AdvancedWizard(new SecondBreakfastTobacco());
+---
+>     AdvancedWizard advancedWizard = new AdvancedWizard(new SecondBreakfastTobacco(	));

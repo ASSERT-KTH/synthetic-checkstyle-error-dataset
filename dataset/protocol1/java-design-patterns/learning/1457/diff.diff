@@ -1,0 +1,4 @@
+42c42
+<   public abstract void execute();
+---
+>    public abstract void execute();

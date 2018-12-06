@@ -1,0 +1,4 @@
+57c57
+<     verify(royalty).getDrink();
+---
+>     verify(royalty	).getDrink();

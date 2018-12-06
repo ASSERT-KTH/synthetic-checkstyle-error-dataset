@@ -1,0 +1,4 @@
+46c46
+<     assertNull(ServiceLocator.getService("another/fantastic/unicorn/service"));
+---
+>     assertNull(ServiceLocator.getService("another/fantastic/unicorn/service")	);

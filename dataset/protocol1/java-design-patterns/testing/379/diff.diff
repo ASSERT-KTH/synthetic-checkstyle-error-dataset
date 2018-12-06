@@ -1,0 +1,4 @@
+57c57
+<     assertThrows(UnsupportedOperationException.class, () -> numbers.getNumbers().add(5));
+---
+>    assertThrows(UnsupportedOperationException.class, () -> numbers.getNumbers().add(5));

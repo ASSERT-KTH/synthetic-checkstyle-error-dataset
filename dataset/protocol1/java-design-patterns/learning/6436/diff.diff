@@ -1,0 +1,5 @@
+37,38c37
+<  * In this example we use the Interpreter pattern to break sentences into expressions (
+<  * {@link Expression}) that can be evaluated and as a whole form the result.
+---
+>  * In this example we use the Interpreter pattern to break sentences into expressions ( * {@link Expression}) that can be evaluated and as a whole form the result.

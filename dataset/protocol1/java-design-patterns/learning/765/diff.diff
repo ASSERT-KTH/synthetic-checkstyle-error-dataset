@@ -1,0 +1,4 @@
+38c38
+<     final Unit unit = new SergeantUnit("SergeantUnitName");
+---
+>    final Unit unit = new SergeantUnit("SergeantUnitName");

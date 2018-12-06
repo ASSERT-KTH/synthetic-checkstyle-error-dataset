@@ -1,0 +1,4 @@
+47c47
+<     } catch (MaxNumOfEventsAllowedException | LongRunningEventException | EventDoesNotExistException e) {
+---
+>      } catch (MaxNumOfEventsAllowedException | LongRunningEventException | EventDoesNotExistException e) {

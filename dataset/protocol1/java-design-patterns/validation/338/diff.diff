@@ -1,0 +1,4 @@
+64c64
+<         from("{{endpoint}}").log("ENDPOINT: ${body}");
+---
+>        from("{{endpoint}}").log("ENDPOINT: ${body}");

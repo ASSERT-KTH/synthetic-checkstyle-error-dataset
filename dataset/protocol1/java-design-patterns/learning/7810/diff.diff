@@ -1,0 +1,5 @@
+45,46c45
+<   public Object lookup(String serviceName) {
+<     if (serviceName.equals("jndi/serviceA")) {
+---
+>   public Object lookup(String serviceName) {    if (serviceName.equals("jndi/serviceA")) {

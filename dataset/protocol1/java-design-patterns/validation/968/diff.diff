@@ -1,0 +1,5 @@
+38c38,39
+<   public void setPrice(String price) {
+---
+>   public void setPrice(String 
+> price) {

@@ -1,0 +1,5 @@
+36c36,37
+<     super(Weekday.FRIDAY, Event.STARK_SIGHTED, LordBaelish::new, LordBaelish::new);
+---
+>     
+> super(Weekday.FRIDAY, Event.STARK_SIGHTED, LordBaelish::new, LordBaelish::new);

@@ -1,0 +1,5 @@
+51,52c51
+<     assertEquals(Integer.valueOf(10), value);
+<   }
+---
+>     assertEquals(Integer.valueOf(10), value);  }

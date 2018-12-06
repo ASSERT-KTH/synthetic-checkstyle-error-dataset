@@ -1,0 +1,4 @@
+78c78
+<     LOGGER.info(welcomeMessage);
+---
+>    LOGGER.info(welcomeMessage);

@@ -1,0 +1,4 @@
+52c52
+<     List<String> data = df.fetch();
+---
+>     List <String> data = df.fetch();

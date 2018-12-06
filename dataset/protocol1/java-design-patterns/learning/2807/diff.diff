@@ -1,0 +1,4 @@
+37c37
+<     this.rightExpression = rightExpression;
+---
+>    this.rightExpression = rightExpression;

@@ -1,0 +1,5 @@
+48,49c48
+<     words.add(new Word(Arrays.asList(new Letter('t'), new Letter('h'), new Letter('e'), new Letter(
+<         'r'), new Letter('e'))));
+---
+>     words.add(new Word(Arrays.asList(new Letter('t'), new Letter('h'), new Letter('e'), new Letter(        'r'), new Letter('e'))));

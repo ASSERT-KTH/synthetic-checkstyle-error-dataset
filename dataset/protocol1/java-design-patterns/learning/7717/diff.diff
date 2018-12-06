@@ -1,0 +1,4 @@
+54c54
+<   public abstract void setId(Long id);
+---
+>   public abstract void setId(Long 	id);

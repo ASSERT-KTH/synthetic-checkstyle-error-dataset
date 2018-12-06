@@ -1,0 +1,5 @@
+43c43,44
+<     for (final NazgulName name : NazgulName.values()) {
+---
+>     for (final NazgulName 
+> name : NazgulName.values()) {

@@ -1,0 +1,4 @@
+43c43
+<     if (optional.isPresent()) {
+---
+>     if (optional.isPresent ()) {

@@ -1,0 +1,4 @@
+47c47
+<     appender = new InMemoryAppender(GWeather.class);
+---
+>     appender = new InMemoryAppender(GWeather.class)	;

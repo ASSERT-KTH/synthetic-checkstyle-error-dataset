@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public class CoffeeMakingTaskTest extends TaskTest<CoffeeMakingTask> {
+---
+>  */public class CoffeeMakingTaskTest extends TaskTest<CoffeeMakingTask> {

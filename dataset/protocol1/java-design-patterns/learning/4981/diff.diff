@@ -1,0 +1,4 @@
+45c45
+<   public int getProductInventories() {
+---
+>   public int getProductInventories(){

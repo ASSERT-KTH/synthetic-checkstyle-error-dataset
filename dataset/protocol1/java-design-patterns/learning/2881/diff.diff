@@ -1,0 +1,4 @@
+30c30
+<   WeaponType getWeaponType();
+---
+>  WeaponType getWeaponType();

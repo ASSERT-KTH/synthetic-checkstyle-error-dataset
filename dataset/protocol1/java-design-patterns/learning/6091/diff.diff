@@ -1,0 +1,4 @@
+75c75
+<     CakeTopping topping = toppingBean.findOne(matchingToppings.iterator().next().getId());
+---
+>     CakeTopping topping = toppingBean	.findOne(matchingToppings.iterator().next().getId());

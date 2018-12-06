@@ -1,0 +1,4 @@
+54c54
+<     assertEquals(studentId, mapper.find(student.getStudentId()).get().getStudentId());
+---
+>     assertEquals(studentId, mapper.find(student.getStudentId()).	get().getStudentId());

@@ -1,0 +1,4 @@
+28c28
+< public class ElfWeapon implements Weapon {
+---
+> public class ElfWeapon implements Weapon 	{

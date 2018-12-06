@@ -1,0 +1,5 @@
+45c45,46
+<             NullNode.getInstance(), new NodeImpl("122", NullNode.getInstance(),
+---
+>             NullNode.getInstance(), 
+> new NodeImpl("122", NullNode.getInstance(),

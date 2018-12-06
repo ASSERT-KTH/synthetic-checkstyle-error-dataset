@@ -1,0 +1,5 @@
+74,75c74
+<     LOGGER.info(sedansOwnedFunctional.toString());
+<   }
+---
+>     LOGGER.info(sedansOwnedFunctional.toString());  }

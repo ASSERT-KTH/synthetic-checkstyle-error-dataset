@@ -1,0 +1,4 @@
+83c83
+<     assertEquals(2, context.get(IUnitOfWork.MODIFY).size());
+---
+>     assertEquals(2, context.get(IUnitOfWork.MODIFY).size ());

@@ -1,0 +1,4 @@
+36c36
+<     extends CrudRepository<Person, Long>, JpaSpecificationExecutor<Person> {
+---
+>     	extends CrudRepository<Person, Long>, JpaSpecificationExecutor<Person> {

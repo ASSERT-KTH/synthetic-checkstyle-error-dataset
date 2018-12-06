@@ -1,0 +1,4 @@
+41c41
+<     final RainbowFish fish = new RainbowFish("name", 1, 2, 3);
+---
+>     final RainbowFish fish 	= new RainbowFish("name", 1, 2, 3);

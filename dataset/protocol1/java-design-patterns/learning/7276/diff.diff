@@ -1,0 +1,5 @@
+38,39c38
+<  */
+< public class KingsHandTest extends EventEmitterTest<KingsHand> {
+---
+>  */public class KingsHandTest extends EventEmitterTest<KingsHand> {

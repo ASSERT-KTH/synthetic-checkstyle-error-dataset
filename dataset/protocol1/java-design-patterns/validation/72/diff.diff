@@ -1,0 +1,4 @@
+51c51
+<       assertEquals(spell.getId(), spellByName.getId());
+---
+>       assertEquals(spell.getId(), 	spellByName.getId());

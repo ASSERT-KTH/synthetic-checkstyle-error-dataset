@@ -1,0 +1,4 @@
+43c43
+<     executorService.submit(() -> value = g.get());
+---
+>    executorService.submit(() -> value = g.get());

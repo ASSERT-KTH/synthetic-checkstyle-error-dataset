@@ -1,0 +1,5 @@
+197c197,198
+<       LOGGER.info(s.getName());
+---
+>       LOGGER.info(s
+> .getName());

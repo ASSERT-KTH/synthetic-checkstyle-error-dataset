@@ -1,0 +1,5 @@
+18,19c18
+< import org.apache.isis.applib.fixturescripts.FixtureScript;
+< import org.apache.isis.applib.services.jdosupport.IsisJdoSupport;
+---
+> import org.apache.isis.applib.fixturescripts.FixtureScript;import org.apache.isis.applib.services.jdosupport.IsisJdoSupport;

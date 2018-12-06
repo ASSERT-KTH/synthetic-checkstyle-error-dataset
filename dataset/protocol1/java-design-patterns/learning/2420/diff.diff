@@ -1,0 +1,5 @@
+45c45,46
+<     final PartyMember partyMember1 = mock(PartyMember.class);
+---
+>     
+> final PartyMember partyMember1 = mock(PartyMember.class);

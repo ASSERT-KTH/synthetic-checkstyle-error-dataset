@@ -1,0 +1,4 @@
+58c58
+<   FileSelectorPresenter getPresenter();
+---
+>   FileSelectorPresenter 	getPresenter();

@@ -1,0 +1,5 @@
+50c50,51
+<     hayes.accept(conDos); // Hayes modem with Unix configurator
+---
+>     hayes
+> .accept(conDos); // Hayes modem with Unix configurator

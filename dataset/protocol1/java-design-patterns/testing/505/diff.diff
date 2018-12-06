@@ -1,0 +1,5 @@
+52c52,53
+<     final ArgumentCaptor<Message> messageCaptor = ArgumentCaptor.forClass(Message.class);
+---
+>     final ArgumentCaptor<Message> messageCaptor = ArgumentCaptor.forClass(Message
+> .class);

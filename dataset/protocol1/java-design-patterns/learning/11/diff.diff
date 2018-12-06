@@ -1,0 +1,4 @@
+59c59
+<     jmsService = spy(new JmsService());
+---
+>     jmsService = spy(new JmsService(	));

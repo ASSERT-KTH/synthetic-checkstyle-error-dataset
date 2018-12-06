@@ -1,0 +1,4 @@
+44c44
+<     domainEvent.process();
+---
+>     domainEvent.process ();

@@ -1,0 +1,5 @@
+40,41c40
+<  * On the other hand if it have been already washing and any other thread execute wash()
+<  * it can't do that once again and returns doing nothing.
+---
+>  * On the other hand if it have been already washing and any other thread execute wash() * it can't do that once again and returns doing nothing.

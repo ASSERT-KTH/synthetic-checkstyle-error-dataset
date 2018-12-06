@@ -1,0 +1,4 @@
+52c52
+<     final WashingMachine washingMachine = new WashingMachine();
+---
+>     final 	WashingMachine washingMachine = new WashingMachine();

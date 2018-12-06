@@ -1,0 +1,5 @@
+44,45c44
+<  * publishers to a Data-Bus, and any number of members receiving the data. All members
+<  * will receive the same data, the order each receives a given piece of data, is an
+---
+>  * publishers to a Data-Bus, and any number of members receiving the data. All members * will receive the same data, the order each receives a given piece of data, is an

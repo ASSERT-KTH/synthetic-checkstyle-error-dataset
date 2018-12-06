@@ -1,0 +1,4 @@
+60c60
+<     topShelf.add(factory.createPotion(PotionType.HEALING));
+---
+>     topShelf.add(factory.createPotion(PotionType	.HEALING));

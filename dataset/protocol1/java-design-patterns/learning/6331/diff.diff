@@ -1,0 +1,4 @@
+41c41
+<     this.queue = queue;
+---
+>     this	.queue = queue;

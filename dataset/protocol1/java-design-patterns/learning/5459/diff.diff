@@ -1,0 +1,4 @@
+42c42
+<     testData.add(new Object[]{WeatherType.COLD, "The orcs are freezing cold."});
+---
+>    testData.add(new Object[]{WeatherType.COLD, "The orcs are freezing cold."});

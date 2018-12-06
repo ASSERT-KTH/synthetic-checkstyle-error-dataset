@@ -1,0 +1,5 @@
+36c36,37
+<   protected FluentIterable<Integer> createFluentIterable(Iterable<Integer> integers) {
+---
+>   protected FluentIterable<Integer> 
+> createFluentIterable(Iterable<Integer> integers) {

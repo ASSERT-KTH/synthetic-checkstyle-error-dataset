@@ -1,0 +1,4 @@
+54c54
+<     final DataBus dataBus = DataBus.getInstance();
+---
+>    final DataBus dataBus = DataBus.getInstance();

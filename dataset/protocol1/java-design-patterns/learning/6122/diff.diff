@@ -1,0 +1,5 @@
+68c68,69
+<       assertEquals("AdvancedWizard smoking " + tobacco.getClass().getSimpleName(), appender.getLastMessage());
+---
+>       assertEquals("AdvancedWizard smoking " + tobacco.getClass().getSimpleName(), appender.getLastMessage()
+> );

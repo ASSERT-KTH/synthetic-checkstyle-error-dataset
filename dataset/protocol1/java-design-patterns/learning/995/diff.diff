@@ -1,0 +1,4 @@
+58c58
+<     Optional<LotteryTicket> optionalTicket = repository.findById(id.get());
+---
+>     Optional<LotteryTicket> optionalTicket = 	repository.findById(id.get());

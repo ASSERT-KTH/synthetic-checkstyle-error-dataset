@@ -1,0 +1,5 @@
+48c48,49
+<   public Map<Headers, String> getHeaders() {
+---
+>   public 
+> Map<Headers, String> getHeaders() {

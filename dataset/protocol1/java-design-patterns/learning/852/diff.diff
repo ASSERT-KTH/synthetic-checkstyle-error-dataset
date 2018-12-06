@@ -1,0 +1,4 @@
+69c69
+<   public void testDisplay(Command command, String displayMessage) {
+---
+>   public void testDisplay(Command command, String displayMessage	) {

@@ -1,0 +1,4 @@
+97c97
+<     this.expectedConfuseMethod = expectedConfuseMethod;
+---
+>     this	.expectedConfuseMethod = expectedConfuseMethod;

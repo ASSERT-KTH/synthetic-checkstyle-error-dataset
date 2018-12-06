@@ -1,0 +1,4 @@
+34c34
+< public class PlusExpressionTest extends ExpressionTest<PlusExpression> {
+---
+> public class PlusExpressionTest extends ExpressionTest <PlusExpression> {

@@ -1,0 +1,4 @@
+41c41
+<     SpringApplication.run(PriceApplication.class, args);
+---
+>    SpringApplication.run(PriceApplication.class, args);

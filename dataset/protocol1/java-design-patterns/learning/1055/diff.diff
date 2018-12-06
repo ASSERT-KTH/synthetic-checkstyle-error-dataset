@@ -1,0 +1,5 @@
+73c73,74
+<   public final int getCalories() {
+---
+>   public final int 
+> getCalories() {

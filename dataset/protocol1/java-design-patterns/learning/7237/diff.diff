@@ -1,0 +1,4 @@
+54c54
+<     return String.format("id=%d timeMs=%d", id, timeMs);
+---
+>     return String.format("id=%d timeMs=%d", id	, timeMs);

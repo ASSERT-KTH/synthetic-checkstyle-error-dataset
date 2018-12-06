@@ -1,0 +1,5 @@
+39c39,40
+<   void authorEmailUpdated(String username, String email);
+---
+>   void authorEmailUpdated(String username, String 
+> email);

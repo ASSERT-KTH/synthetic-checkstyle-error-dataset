@@ -1,0 +1,4 @@
+81c81
+<   private JPanel panel;
+---
+>   private JPanel panel	;

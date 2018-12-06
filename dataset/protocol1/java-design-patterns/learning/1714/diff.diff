@@ -1,0 +1,4 @@
+63c63
+<     LOGGER.info("{} hits {}.", iss.getClass().getSimpleName(), this.getClass().getSimpleName());
+---
+>    LOGGER.info("{} hits {}.", iss.getClass().getSimpleName(), this.getClass().getSimpleName());

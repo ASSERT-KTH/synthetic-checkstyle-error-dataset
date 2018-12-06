@@ -1,0 +1,4 @@
+52c52
+<   public synchronized void checkIn(T instance) {
+---
+>    public synchronized void checkIn(T instance) {

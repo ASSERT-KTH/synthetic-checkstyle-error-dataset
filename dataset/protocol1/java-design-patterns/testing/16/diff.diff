@@ -1,0 +1,4 @@
+179c179
+<               Iterator<E> newIterator = iterable.iterator();
+---
+>              Iterator<E> newIterator = iterable.iterator();

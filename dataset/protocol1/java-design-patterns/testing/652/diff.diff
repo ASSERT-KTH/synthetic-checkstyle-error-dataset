@@ -1,0 +1,5 @@
+21,22c21
+<  */
+< public class InvalidOperationException extends Exception {
+---
+>  */public class InvalidOperationException extends Exception {

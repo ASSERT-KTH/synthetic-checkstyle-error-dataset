@@ -1,0 +1,4 @@
+45c45
+<     String[] fields = new String[]{"id", "title", "length"};
+---
+>    String[] fields = new String[]{"id", "title", "length"};

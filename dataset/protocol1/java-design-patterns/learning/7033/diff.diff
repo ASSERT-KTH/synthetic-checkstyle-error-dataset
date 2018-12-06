@@ -1,0 +1,5 @@
+51c51,52
+<   public LotteryTicketCheckResult(CheckResult result, int amount) {
+---
+>   public 
+> LotteryTicketCheckResult(CheckResult result, int amount) {

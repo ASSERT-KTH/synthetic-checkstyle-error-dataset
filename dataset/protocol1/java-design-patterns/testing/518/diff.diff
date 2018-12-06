@@ -1,0 +1,4 @@
+63c63
+<       HibernateUtil.getSessionFactory().close();
+---
+>       HibernateUtil.getSessionFactory()	.close();

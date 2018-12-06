@@ -1,0 +1,4 @@
+95c95
+<       LotteryTicket lotteryTicket = new LotteryTicket( new LotteryTicketId(), details, lotteryNumbers );
+---
+>       LotteryTicket lotteryTicket = 	new LotteryTicket( new LotteryTicketId(), details, lotteryNumbers );

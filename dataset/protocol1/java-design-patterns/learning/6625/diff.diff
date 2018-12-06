@@ -1,0 +1,5 @@
+31,32c31
+<  * This example of the Feature Toogle pattern is less dynamic version than
+<  * {@link com.iluwatar.featuretoggle.pattern.tieredversion.TieredFeatureToggleVersion} where the feature is turned on
+---
+>  * This example of the Feature Toogle pattern is less dynamic version than * {@link com.iluwatar.featuretoggle.pattern.tieredversion.TieredFeatureToggleVersion} where the feature is turned on

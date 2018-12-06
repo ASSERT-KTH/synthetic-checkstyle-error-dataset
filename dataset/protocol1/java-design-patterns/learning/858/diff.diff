@@ -1,0 +1,4 @@
+45c45
+<       Criteria criteria = session.createCriteria(persistentClass);
+---
+>      Criteria criteria = session.createCriteria(persistentClass);

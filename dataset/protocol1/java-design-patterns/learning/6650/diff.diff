@@ -1,0 +1,4 @@
+51c51
+<     Filter last = this;
+---
+>    Filter last = this;

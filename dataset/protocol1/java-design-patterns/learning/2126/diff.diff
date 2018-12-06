@@ -1,0 +1,5 @@
+28,29c28
+<  */
+< public abstract class AbstractFilter implements Filter {
+---
+>  */public abstract class AbstractFilter implements Filter {

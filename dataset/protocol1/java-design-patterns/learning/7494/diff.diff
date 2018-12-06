@@ -1,0 +1,4 @@
+86c86
+<     assertEquals(terry.getSurname(), "Lee");
+---
+>    assertEquals(terry.getSurname(), "Lee");

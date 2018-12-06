@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public enum WeatherType {
+---
+>  */public enum WeatherType {

@@ -1,0 +1,4 @@
+87c87
+<       map = (Map<String, String>) objIn.readObject();
+---
+>       map = (Map<String, 	String>) objIn.readObject();

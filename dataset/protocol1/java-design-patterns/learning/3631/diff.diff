@@ -1,0 +1,4 @@
+62c62
+<     when(inventoryClient.getProductInventories()).thenReturn(inventories);
+---
+>    when(inventoryClient.getProductInventories()).thenReturn(inventories);

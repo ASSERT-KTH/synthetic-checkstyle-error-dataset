@@ -1,0 +1,4 @@
+53c53
+<             new Object[]{new Shark(), "Shark", Size.NORMAL, Movement.SWIMMING, Color.LIGHT},
+---
+>             new Object[]{new Shark(	), "Shark", Size.NORMAL, Movement.SWIMMING, Color.LIGHT},

@@ -1,0 +1,5 @@
+43c43,44
+< public abstract class StealingMethodTest<M extends StealingMethod> {
+---
+> public abstract class StealingMethodTest<M extends StealingMethod
+> > {

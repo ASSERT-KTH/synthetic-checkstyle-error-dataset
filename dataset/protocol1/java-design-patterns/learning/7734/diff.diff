@@ -1,0 +1,4 @@
+59c59
+<     Objects.requireNonNull(getTestedObject());
+---
+>    Objects.requireNonNull(getTestedObject());

@@ -1,0 +1,5 @@
+120,121c120
+<     }
+<     return super.newWebRequest(servletRequest, filterPath);
+---
+>     }    return super.newWebRequest(servletRequest, filterPath);

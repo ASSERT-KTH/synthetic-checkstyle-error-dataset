@@ -1,0 +1,5 @@
+67c67,68
+<     final MessageQueue queue = new SimpleMessageQueue(messages.length);
+---
+>     final MessageQueue queue = 
+> new SimpleMessageQueue(messages.length);

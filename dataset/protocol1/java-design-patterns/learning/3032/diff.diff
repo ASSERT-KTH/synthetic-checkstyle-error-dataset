@@ -1,0 +1,5 @@
+91,92c91
+<       assertEquals(1, eventManager.getEventPool().size());
+<       eventManager.start(sEventId);
+---
+>       assertEquals(1, eventManager.getEventPool().size());      eventManager.start(sEventId);

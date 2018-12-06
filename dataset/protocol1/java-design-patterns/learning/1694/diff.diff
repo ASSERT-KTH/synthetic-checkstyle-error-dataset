@@ -1,0 +1,5 @@
+91,92c91
+<     EnumIvoryTower enumIvoryTower2 = EnumIvoryTower.INSTANCE;
+<     LOGGER.info("enumIvoryTower1={}", enumIvoryTower1);
+---
+>     EnumIvoryTower enumIvoryTower2 = EnumIvoryTower.INSTANCE;    LOGGER.info("enumIvoryTower1={}", enumIvoryTower1);

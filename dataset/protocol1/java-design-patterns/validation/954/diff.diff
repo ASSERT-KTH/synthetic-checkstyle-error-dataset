@@ -1,0 +1,4 @@
+53c53
+<   public ApiGatewayResponse(Integer statusCode, String body, Map<String, String> headers,
+---
+>    public ApiGatewayResponse(Integer statusCode, String body, Map<String, String> headers,

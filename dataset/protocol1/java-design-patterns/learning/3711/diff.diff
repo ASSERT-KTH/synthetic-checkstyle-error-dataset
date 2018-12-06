@@ -1,0 +1,4 @@
+78c78
+<     Message endpointIn = endpoint.getExchanges().get(0).getIn();
+---
+>     Message endpointIn = endpoint.getExchanges().get(0).	getIn();

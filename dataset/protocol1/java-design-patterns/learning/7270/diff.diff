@@ -1,0 +1,4 @@
+135c135
+<     } else if (eventClassName.equals("MoneyTransferEvent")) {
+---
+>    } else if (eventClassName.equals("MoneyTransferEvent")) {

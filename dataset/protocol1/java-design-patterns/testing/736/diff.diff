@@ -1,0 +1,4 @@
+51c51
+<   public CakeInfo(CakeToppingInfo cakeToppingInfo, List<CakeLayerInfo> cakeLayerInfos) {
+---
+>   public CakeInfo(CakeToppingInfo 	cakeToppingInfo, List<CakeLayerInfo> cakeLayerInfos) {

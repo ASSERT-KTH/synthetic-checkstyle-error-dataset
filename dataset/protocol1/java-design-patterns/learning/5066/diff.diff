@@ -1,0 +1,5 @@
+29c29,30
+< import static org.mockito.Matchers.any;
+---
+> import static org.mockito.Matchers
+> .any;

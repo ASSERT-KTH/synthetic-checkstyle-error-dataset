@@ -1,0 +1,4 @@
+48c48
+<     for (final Spell spell : allSpells) {
+---
+>    for (final Spell spell : allSpells) {

@@ -1,0 +1,5 @@
+53,54c53
+<     Troll troll = new SimpleTroll();
+<     troll.attack();
+---
+>     Troll troll = new SimpleTroll();    troll.attack();

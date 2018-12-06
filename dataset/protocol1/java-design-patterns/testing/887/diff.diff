@@ -1,0 +1,4 @@
+34c34
+< public class KillerBee extends AbstractCreature {
+---
+> public class KillerBee extends AbstractCreature{

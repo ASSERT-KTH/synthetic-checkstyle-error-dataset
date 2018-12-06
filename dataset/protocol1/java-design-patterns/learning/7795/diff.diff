@@ -1,0 +1,4 @@
+50c50
+<     appender = new InMemoryAppender(GiantView.class);
+---
+>    appender = new InMemoryAppender(GiantView.class);

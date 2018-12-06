@@ -1,0 +1,5 @@
+43c43,44
+<     String in2 = (String) newExchange.getIn().getBody();
+---
+>     String 
+> in2 = (String) newExchange.getIn().getBody();

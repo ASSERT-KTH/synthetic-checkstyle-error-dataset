@@ -1,0 +1,4 @@
+78c78
+<     LOGGER.info(thief.toString());
+---
+>    LOGGER.info(thief.toString());

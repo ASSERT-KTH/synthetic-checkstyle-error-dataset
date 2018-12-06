@@ -1,0 +1,4 @@
+87c87
+<     assertTrue(clazz.isInstance(weapon), "Weapon must be an object of: " + clazz.getName());
+---
+>     assertTrue(clazz.isInstance(weapon), 	"Weapon must be an object of: " + clazz.getName());

@@ -1,0 +1,5 @@
+23c23,24
+< package com.iluwatar.delegation.simple.printers;
+---
+> package com.iluwatar.delegation.simple.printers
+> ;

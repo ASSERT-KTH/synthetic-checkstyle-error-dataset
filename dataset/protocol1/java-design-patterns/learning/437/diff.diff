@@ -1,0 +1,4 @@
+39c39
+<     LOGGER.info("The item begins to glow faintly.");
+---
+>    LOGGER.info("The item begins to glow faintly.");

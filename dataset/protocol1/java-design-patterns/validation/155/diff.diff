@@ -1,0 +1,4 @@
+67c67
+<     long waitTime = (long) Math.floor(randomProvider.random() * 1000);
+---
+>    long waitTime = (long) Math.floor(randomProvider.random() * 1000);

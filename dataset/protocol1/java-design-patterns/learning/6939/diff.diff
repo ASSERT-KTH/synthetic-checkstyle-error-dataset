@@ -1,0 +1,4 @@
+49c49
+<   public final void setType(ItemType type) {
+---
+>   public final void setType(ItemType type){

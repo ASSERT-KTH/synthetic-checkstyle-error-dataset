@@ -1,0 +1,5 @@
+55c55,56
+<       executorService.execute(washingMachine::wash);
+---
+>       executorService.execute(
+> washingMachine::wash);

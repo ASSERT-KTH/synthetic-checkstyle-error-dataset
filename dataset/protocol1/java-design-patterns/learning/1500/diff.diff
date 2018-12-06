@@ -1,0 +1,4 @@
+72c72
+<     if (!redoStack.isEmpty()) {
+---
+>     if (!redoStack.	isEmpty()) {

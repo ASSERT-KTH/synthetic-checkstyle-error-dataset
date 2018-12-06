@@ -1,0 +1,5 @@
+33c33,34
+< public class SoulEatingEnchantment implements Enchantment {
+---
+> public class SoulEatingEnchantment implements Enchantment 
+> {

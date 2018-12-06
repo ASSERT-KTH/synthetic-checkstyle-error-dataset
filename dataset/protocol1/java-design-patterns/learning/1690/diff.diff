@@ -1,0 +1,4 @@
+59c59
+<     this.washingMachineState = WashingMachineState.ENABLED;
+---
+>     this.washingMachineState= WashingMachineState.ENABLED;

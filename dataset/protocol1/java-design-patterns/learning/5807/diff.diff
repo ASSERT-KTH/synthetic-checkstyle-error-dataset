@@ -1,0 +1,4 @@
+33c33
+< public class InvisibilityPotion implements Potion {
+---
+> public class InvisibilityPotion implements Potion{

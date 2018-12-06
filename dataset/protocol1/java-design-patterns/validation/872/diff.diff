@@ -1,0 +1,5 @@
+81,82c81
+<     assertEquals("Mixing the stew we find: 0 potatoes, 1 carrots, 2 meat and 3 peppers",  appender.getLastMessage());
+<   }
+---
+>     assertEquals("Mixing the stew we find: 0 potatoes, 1 carrots, 2 meat and 3 peppers",  appender.getLastMessage());  }

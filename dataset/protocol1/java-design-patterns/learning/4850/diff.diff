@@ -1,0 +1,5 @@
+27c27,28
+< import static org.junit.jupiter.api.Assertions.assertEquals;
+---
+> import static org.junit.jupiter
+> .api.Assertions.assertEquals;

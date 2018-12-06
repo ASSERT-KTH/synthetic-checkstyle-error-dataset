@@ -1,0 +1,4 @@
+54c54
+<     List<EventEmitter> emitters = new ArrayList<>();
+---
+>     List< EventEmitter> emitters = new ArrayList<>();

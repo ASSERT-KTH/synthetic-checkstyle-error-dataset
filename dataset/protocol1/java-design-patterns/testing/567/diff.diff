@@ -1,0 +1,5 @@
+83c83,84
+<     Account accountOfDaenerysBeforeShotDown = AccountAggregate.getAccount(ACCOUNT_OF_DAENERYS);
+---
+>     Account accountOfDaenerysBeforeShotDown = AccountAggregate.getAccount(
+> ACCOUNT_OF_DAENERYS);

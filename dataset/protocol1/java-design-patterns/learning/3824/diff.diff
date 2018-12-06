@@ -1,0 +1,4 @@
+57c57
+<     charProto.set(Stats.ATTACK_POWER, 10);
+---
+>     charProto.set(Stats.ATTACK_POWER, 10)	;

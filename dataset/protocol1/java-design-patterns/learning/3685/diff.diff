@@ -1,0 +1,4 @@
+23c23
+< package com.iluwatar.doublechecked.locking;
+---
+> package com.iluwatar	.doublechecked.locking;

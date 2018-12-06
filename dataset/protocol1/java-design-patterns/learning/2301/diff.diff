@@ -1,0 +1,5 @@
+32c32,33
+<   public abstract Object copy() throws CloneNotSupportedException;
+---
+>   public 
+> abstract Object copy() throws CloneNotSupportedException;

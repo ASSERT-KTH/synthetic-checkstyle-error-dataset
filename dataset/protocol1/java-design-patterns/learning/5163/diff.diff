@@ -1,0 +1,5 @@
+79c79,80
+<     InputStream inputStream = App.class.getClassLoader().getResourceAsStream(PROP_FILE_NAME);
+---
+>     InputStream inputStream = App.class.getClassLoader(
+> ).getResourceAsStream(PROP_FILE_NAME);

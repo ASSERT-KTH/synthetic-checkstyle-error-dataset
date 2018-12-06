@@ -1,0 +1,5 @@
+55c55,56
+<   public int getRight() {
+---
+>   public 
+> int getRight() {

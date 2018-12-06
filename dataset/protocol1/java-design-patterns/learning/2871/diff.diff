@@ -1,0 +1,4 @@
+76c76
+<       boolean result = dao.delete(nonExistingCustomer);
+---
+>      boolean result = dao.delete(nonExistingCustomer);

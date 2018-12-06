@@ -1,0 +1,4 @@
+45c45
+<     processorJournal.write(domainEvent);
+---
+>    processorJournal.write(domainEvent);

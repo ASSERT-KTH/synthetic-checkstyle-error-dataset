@@ -1,0 +1,5 @@
+47c47,48
+<   private final SelectableChannel channel;
+---
+>   
+> private final SelectableChannel channel;

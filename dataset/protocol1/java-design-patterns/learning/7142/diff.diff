@@ -1,0 +1,4 @@
+32c32
+< public class Car extends AbstractDocument implements HasModel, HasPrice, HasParts {
+---
+> public class Car extends AbstractDocument implements HasModel, HasPrice, HasParts{

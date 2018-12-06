@@ -1,0 +1,4 @@
+51c51
+<     WeaponStep fighterClass(String fighterClass);
+---
+>    WeaponStep fighterClass(String fighterClass);

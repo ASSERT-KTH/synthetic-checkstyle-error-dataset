@@ -1,0 +1,4 @@
+31c31
+<     org.apache.log4j.PropertyConfigurator.configure("logging.properties");
+---
+>     org.apache.log4j.PropertyConfigurator.configure(	"logging.properties");

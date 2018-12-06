@@ -1,0 +1,5 @@
+80c80,81
+<     assertEquals(customer.hashCode(), otherCustomer.hashCode());
+---
+>     assertEquals(customer.hashCode(), otherCustomer.hashCode(
+> ));

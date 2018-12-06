@@ -1,0 +1,4 @@
+23c23
+< package com.iluwatar.lazy.loading;
+---
+> package com.iluwatar	.lazy.loading;

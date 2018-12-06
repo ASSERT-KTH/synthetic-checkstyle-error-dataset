@@ -1,0 +1,4 @@
+54c54
+<     assertFalse(greenSelector.test(redCreature));
+---
+>    assertFalse(greenSelector.test(redCreature));

@@ -1,0 +1,5 @@
+32c32,33
+< public class Part extends AbstractDocument implements HasType, HasModel, HasPrice {
+---
+> public class Part extends AbstractDocument implements 
+> HasType, HasModel, HasPrice {

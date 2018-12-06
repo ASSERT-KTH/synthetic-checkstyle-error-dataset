@@ -1,0 +1,4 @@
+43c43
+<         new NodeImpl("1", new NodeImpl("11", new NodeImpl("111", NullNode.getInstance(),
+---
+>         new NodeImpl("1", new NodeImpl("11", new NodeImpl("111"	, NullNode.getInstance(),

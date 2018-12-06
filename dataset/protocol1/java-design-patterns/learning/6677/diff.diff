@@ -1,0 +1,5 @@
+67,68c67
+<     wizard.undoLastSpell();
+<     verifyGoblin(goblin, GOBLIN, Size.NORMAL, Visibility.VISIBLE);
+---
+>     wizard.undoLastSpell();    verifyGoblin(goblin, GOBLIN, Size.NORMAL, Visibility.VISIBLE);

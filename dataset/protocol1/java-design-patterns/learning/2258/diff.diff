@@ -1,0 +1,5 @@
+123c123,124
+<     List<String> returnList = new StringArrayList();
+---
+>     List<
+> String> returnList = new StringArrayList();

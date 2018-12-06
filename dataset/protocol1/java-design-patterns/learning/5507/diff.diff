@@ -1,0 +1,5 @@
+51,52c51
+<     this.spellbookDao = spellbookDao;
+<     this.spellDao = spellDao;
+---
+>     this.spellbookDao = spellbookDao;    this.spellDao = spellDao;

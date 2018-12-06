@@ -1,0 +1,4 @@
+38c38
+<     LOGGER.info(zoom + " used with Unix configurator.");
+---
+>     LOGGER.info (zoom + " used with Unix configurator.");

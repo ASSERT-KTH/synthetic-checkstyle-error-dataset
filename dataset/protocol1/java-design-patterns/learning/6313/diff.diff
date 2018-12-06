@@ -1,0 +1,5 @@
+64,65c64
+<     dispatcher.dispatch(userUpdatedEvent);
+<     verify(userUpdatedEventHandler).onEvent(userUpdatedEvent);
+---
+>     dispatcher.dispatch(userUpdatedEvent);    verify(userUpdatedEventHandler).onEvent(userUpdatedEvent);

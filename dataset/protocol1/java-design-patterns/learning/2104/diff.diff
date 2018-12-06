@@ -1,0 +1,4 @@
+170c170
+<     try (Connection connection = getConnection();
+---
+>     try(Connection connection = getConnection();

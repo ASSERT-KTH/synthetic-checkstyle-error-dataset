@@ -1,0 +1,4 @@
+66c66
+<     LOGGER.info(star.toString());
+---
+>     LOGGER.info(star.toString(	));

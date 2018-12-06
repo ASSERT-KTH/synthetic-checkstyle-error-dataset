@@ -1,0 +1,4 @@
+73c73
+<   public void testMultipleCallsReturnTheSameObjectInSameThread() {
+---
+>   public void testMultipleCallsReturnTheSameObjectInSameThread () {

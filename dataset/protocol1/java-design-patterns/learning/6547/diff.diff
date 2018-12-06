@@ -1,0 +1,4 @@
+45c45
+<     oldExchange.getIn().setBody(in1 + ";" + in2);
+---
+>    oldExchange.getIn().setBody(in1 + ";" + in2);

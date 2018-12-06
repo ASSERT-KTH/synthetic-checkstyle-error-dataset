@@ -1,0 +1,4 @@
+121c121
+<     logger.info( "The account {} has {} credits.", account, bank.getFunds( account ) );
+---
+>      logger.info( "The account {} has {} credits.", account, bank.getFunds( account ) );

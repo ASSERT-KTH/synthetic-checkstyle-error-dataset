@@ -1,0 +1,4 @@
+211c211
+<               E candidate = oldTypeIterator.next();
+---
+>              E candidate = oldTypeIterator.next();

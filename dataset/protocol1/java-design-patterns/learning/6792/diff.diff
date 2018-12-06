@@ -1,0 +1,5 @@
+80,81c80
+<   @MethodSource("dataProvider")
+<   public void testObserver(WeatherType weather, String response) {
+---
+>   @MethodSource("dataProvider")  public void testObserver(WeatherType weather, String response) {

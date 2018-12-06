@@ -1,0 +1,5 @@
+50c50,51
+<   public static Trampoline<Integer> loop(int times, int prod) {
+---
+>   public static Trampoline
+> <Integer> loop(int times, int prod) {

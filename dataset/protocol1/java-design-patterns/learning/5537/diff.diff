@@ -1,0 +1,4 @@
+47c47
+<     final CakeBakingException exception = new CakeBakingException(expectedMessage);
+---
+>     final CakeBakingException exception =new CakeBakingException(expectedMessage);

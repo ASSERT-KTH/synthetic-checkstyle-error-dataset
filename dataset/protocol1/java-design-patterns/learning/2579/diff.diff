@@ -1,0 +1,4 @@
+42c42
+<     final Character prototype = new Character();
+---
+>     final 	Character prototype = new Character();

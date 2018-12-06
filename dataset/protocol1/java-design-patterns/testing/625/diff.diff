@@ -1,0 +1,4 @@
+36c36
+<   private static volatile ThreadSafeDoubleCheckLocking instance;
+---
+>    private static volatile ThreadSafeDoubleCheckLocking instance;

@@ -1,0 +1,4 @@
+51c51
+<     setOnFire(true);
+---
+>     setOnFire(	true);

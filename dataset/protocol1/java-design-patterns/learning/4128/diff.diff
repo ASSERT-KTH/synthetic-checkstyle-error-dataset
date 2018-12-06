@@ -1,0 +1,4 @@
+43c43
+<   public void testStoreChanged() throws Exception {
+---
+>   public void testStoreChanged () throws Exception {

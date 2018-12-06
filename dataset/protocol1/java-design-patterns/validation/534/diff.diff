@@ -1,0 +1,4 @@
+34c34
+<   private static final Logger LOGGER = LoggerFactory.getLogger(Soldier.class);
+---
+>   private static final Logger LOGGER = LoggerFactory.	getLogger(Soldier.class);

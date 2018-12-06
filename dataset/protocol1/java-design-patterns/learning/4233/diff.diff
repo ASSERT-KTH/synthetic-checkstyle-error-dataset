@@ -1,0 +1,4 @@
+64c64
+<       verify(observer, times(1)).onEvent(eq(event));
+---
+>       verify(observer, times(1)).onEvent (eq(event));

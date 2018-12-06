@@ -1,0 +1,5 @@
+51c51,52
+<     assertTrue(albumListPage.isAt());
+---
+>     assertTrue(albumListPage.isAt(
+> ));

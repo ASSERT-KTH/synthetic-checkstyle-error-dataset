@@ -1,0 +1,4 @@
+39c39
+<     LOGGER.info("Urgh! This is poisonous. (Potion={})", System.identityHashCode(this));
+---
+>    LOGGER.info("Urgh! This is poisonous. (Potion={})", System.identityHashCode(this));

@@ -1,0 +1,4 @@
+91c91
+<     assertEquals(String.format("Customer{id=%s, firstName='%s', lastName='%s'}",
+---
+>     assertEquals (String.format("Customer{id=%s, firstName='%s', lastName='%s'}",

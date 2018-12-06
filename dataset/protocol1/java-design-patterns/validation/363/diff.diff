@@ -1,0 +1,4 @@
+28c28
+<     glue = {"classpath:domainapp.integtests.specglue"}, strict = true, tags = {"~@backlog",
+---
+>     glue = {"classpath:domainapp.integtests.specglue"}, strict = true, tags 	= {"~@backlog",

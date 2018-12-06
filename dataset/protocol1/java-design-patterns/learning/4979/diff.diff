@@ -1,0 +1,4 @@
+30c30
+< public class CakeBakingException extends Exception {
+---
+> public class CakeBakingException extends 	Exception {

@@ -1,0 +1,5 @@
+38,39c38
+<     String name = "Foobar";
+<     assertNull(simpleObject.getName());
+---
+>     String name = "Foobar";    assertNull(simpleObject.getName());

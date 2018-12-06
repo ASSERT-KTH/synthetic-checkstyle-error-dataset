@@ -1,0 +1,4 @@
+39c39
+<   public LotteryTicket(LotteryTicketId id, PlayerDetails details, LotteryNumbers numbers) {
+---
+>   public LotteryTicket(LotteryTicketId id, PlayerDetails details, LotteryNumbers numbers) 	{

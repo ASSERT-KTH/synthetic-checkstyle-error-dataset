@@ -1,0 +1,5 @@
+29,30c29
+<  */
+< public class Goblin extends Target {
+---
+>  */public class Goblin extends Target {

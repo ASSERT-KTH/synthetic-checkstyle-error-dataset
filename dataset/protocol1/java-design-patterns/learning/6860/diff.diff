@@ -1,0 +1,4 @@
+51c51
+<     GiantModel giant = new GiantModel(Health.HEALTHY, Fatigue.ALERT, Nourishment.SATURATED);
+---
+>     GiantModel giant = new GiantModel(Health.HEALTHY, Fatigue.ALERT, 	Nourishment.SATURATED);

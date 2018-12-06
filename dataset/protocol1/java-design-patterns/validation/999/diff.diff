@@ -1,0 +1,5 @@
+65c65,66
+<   public long doRemoteFunction(int value) {
+---
+>   public long doRemoteFunction(int 
+> value) {

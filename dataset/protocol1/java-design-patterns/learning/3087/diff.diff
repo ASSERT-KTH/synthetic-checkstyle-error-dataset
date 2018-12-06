@@ -1,0 +1,5 @@
+40c40,41
+<     words.add(new Word(Arrays.asList(new Letter('W'), new Letter('h'), new Letter('e'), new Letter(
+---
+>     words.add(new Word(Arrays.asList(new Letter('W'), new 
+> Letter('h'), new Letter('e'), new Letter(

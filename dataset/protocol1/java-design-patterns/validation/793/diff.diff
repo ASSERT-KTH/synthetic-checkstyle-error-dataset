@@ -1,0 +1,5 @@
+56c56,57
+<     dispatcher.registerHandler(UserCreatedEvent.class, new UserCreatedEventHandler());
+---
+>     dispatcher.registerHandler(UserCreatedEvent.class, new 
+> UserCreatedEventHandler());

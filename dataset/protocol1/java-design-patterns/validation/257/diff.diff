@@ -1,0 +1,5 @@
+51,52c51
+<  * CORBA - At the asynchronous layer one thread is associated with each socket that is connected
+<  * to the client. Thread blocks waiting for CORBA requests from the client. On receiving request it
+---
+>  * CORBA - At the asynchronous layer one thread is associated with each socket that is connected * to the client. Thread blocks waiting for CORBA requests from the client. On receiving request it

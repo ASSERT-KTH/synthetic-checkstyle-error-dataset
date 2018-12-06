@@ -1,0 +1,5 @@
+54c54,55
+<     return "Hayes modem";
+---
+>     return "Hayes modem"
+> ;

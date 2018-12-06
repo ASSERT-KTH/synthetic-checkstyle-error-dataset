@@ -1,0 +1,4 @@
+105c105
+<   public void testInterrupt() {
+---
+>   public void testInterrupt(	) {

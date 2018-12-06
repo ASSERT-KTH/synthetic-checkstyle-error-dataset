@@ -1,0 +1,4 @@
+39c39
+<     PlayerDetails details1 = new PlayerDetails("tom@foo.bar", "11212-123434", "+12323425");
+---
+>     PlayerDetails details1 = new PlayerDetails("tom@foo.bar"	, "11212-123434", "+12323425");

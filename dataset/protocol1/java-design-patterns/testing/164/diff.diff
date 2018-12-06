@@ -1,0 +1,4 @@
+74c74
+<     return "Login".equals(page.getTitleText());
+---
+>     return "Login".equals(page	.getTitleText());

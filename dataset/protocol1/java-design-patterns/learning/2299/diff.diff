@@ -1,0 +1,4 @@
+56c56
+<     this.fruitShop = fruitShop;
+---
+>    this.fruitShop = fruitShop;

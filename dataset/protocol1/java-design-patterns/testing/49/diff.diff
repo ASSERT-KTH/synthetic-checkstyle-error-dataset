@@ -1,0 +1,4 @@
+53c53
+<   private DynamoDBMapper dynamoDbMapper;
+---
+>   private 	DynamoDBMapper dynamoDbMapper;

@@ -1,0 +1,4 @@
+36c36
+<   default Optional<Number> getPrice() {
+---
+>   default Optional<Number> getPrice(){

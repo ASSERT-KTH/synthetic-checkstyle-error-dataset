@@ -1,0 +1,4 @@
+68c68
+<     final String name = simpleObjectWrapped.getName();
+---
+>    final String name = simpleObjectWrapped.getName();

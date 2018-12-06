@@ -1,0 +1,5 @@
+66,67c66
+<   public boolean getFlirted(King king) {
+<     if (this.isFlirty && king.isHappy && !king.isDrunk) {
+---
+>   public boolean getFlirted(King king) {    if (this.isFlirty && king.isHappy && !king.isDrunk) {

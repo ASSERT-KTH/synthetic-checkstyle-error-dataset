@@ -1,0 +1,4 @@
+44c44
+<     return new OrcMage(this);
+---
+>    return new OrcMage(this);

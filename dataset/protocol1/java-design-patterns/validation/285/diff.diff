@@ -1,0 +1,4 @@
+52c52
+<   void ticketWon(PlayerDetails details, int prizeAmount);
+---
+>   void ticketWon(PlayerDetails 	details, int prizeAmount);

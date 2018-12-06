@@ -1,0 +1,4 @@
+86c86
+<       + ", isActive=" + isActive + ", email='" + email + '\'' + '}';
+---
+>       + ", isActive=" + isActive + ", email='" + email + '\'' +'}';

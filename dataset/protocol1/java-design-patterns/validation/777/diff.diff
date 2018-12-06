@@ -1,0 +1,4 @@
+45c45
+<     Runnable srvRunnable = new ServiceExecutor(msgQueue);
+---
+>     Runnable srvRunnable 	= new ServiceExecutor(msgQueue);

@@ -1,0 +1,5 @@
+73c73,74
+<     assertTrue(Files.lines(temporaryFile.toPath()).allMatch(testMessage::equals));
+---
+>     assertTrue(Files.lines(temporaryFile.toPath())
+> .allMatch(testMessage::equals));

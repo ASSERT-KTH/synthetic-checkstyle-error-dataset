@@ -1,0 +1,4 @@
+29c29
+< import com.iluwatar.abstractdocument.domain.HasType;
+---
+> import com.iluwatar.abstractdocument.domain	.HasType;

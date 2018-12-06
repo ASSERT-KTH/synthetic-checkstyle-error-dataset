@@ -1,0 +1,4 @@
+91c91
+<     final WeatherType[] weatherTypes = WeatherType.values();
+---
+>      final WeatherType[] weatherTypes = WeatherType.values();

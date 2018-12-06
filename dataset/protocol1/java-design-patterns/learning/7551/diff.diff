@@ -1,0 +1,5 @@
+30,31c30
+<  */
+< public abstract class SimpleAppIntegTest extends IntegrationTestAbstract {
+---
+>  */public abstract class SimpleAppIntegTest extends IntegrationTestAbstract {

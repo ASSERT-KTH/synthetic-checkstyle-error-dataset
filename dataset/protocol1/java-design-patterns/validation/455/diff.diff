@@ -1,0 +1,4 @@
+79c79
+<       queue.put(Message.POISON_PILL);
+---
+>       queue.put(Message.POISON_PILL	);

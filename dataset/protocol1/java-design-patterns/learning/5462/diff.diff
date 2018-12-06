@@ -1,0 +1,5 @@
+98c98,99
+<         logger.info( "Submitted lottery ticket with id: {}", id.get() );
+---
+>         
+> logger.info( "Submitted lottery ticket with id: {}", id.get() );

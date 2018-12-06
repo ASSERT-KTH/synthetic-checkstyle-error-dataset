@@ -1,0 +1,4 @@
+45c45
+<   public ItemType getType() {
+---
+>    public ItemType getType() {

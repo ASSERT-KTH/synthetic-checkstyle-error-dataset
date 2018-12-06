@@ -1,0 +1,4 @@
+57c57
+<   public <E extends Event> void dispatch(E event) {
+---
+>   public <E extends Event > void dispatch(E event) {

@@ -1,0 +1,4 @@
+56c56
+<     for (O observer : observers) {
+---
+>    for (O observer : observers) {

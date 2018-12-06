@@ -1,0 +1,4 @@
+29c29
+<   void status();
+---
+>   void status()	;

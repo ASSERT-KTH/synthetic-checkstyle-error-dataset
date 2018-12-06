@@ -1,0 +1,4 @@
+58c58
+<     parameters.add(new Object[]{new CatapultCommand(), "Displaying catapults"});
+---
+>     parameters.add(	new Object[]{new CatapultCommand(), "Displaying catapults"});

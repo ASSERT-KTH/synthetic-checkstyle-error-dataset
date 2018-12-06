@@ -1,0 +1,4 @@
+52c52
+<     verify(enchantment).onActivate();
+---
+>    verify(enchantment).onActivate();

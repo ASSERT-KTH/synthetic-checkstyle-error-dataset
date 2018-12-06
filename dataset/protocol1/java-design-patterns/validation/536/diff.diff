@@ -1,0 +1,4 @@
+152c152
+<       channel.getJavaChannel().close();
+---
+>       channel.getJavaChannel().close()	;

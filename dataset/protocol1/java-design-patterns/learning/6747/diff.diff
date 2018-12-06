@@ -1,0 +1,5 @@
+98c98,99
+<     final CakeToppingInfo topping1 = new CakeToppingInfo("Topping1", 1000);
+---
+>     final CakeToppingInfo topping1 = new CakeToppingInfo("Topping1", 1000
+> );

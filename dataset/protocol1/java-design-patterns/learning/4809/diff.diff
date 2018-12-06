@@ -1,0 +1,5 @@
+22c22,23
+< public class EventDoesNotExistException extends Exception {
+---
+> public class 
+> EventDoesNotExistException extends Exception {

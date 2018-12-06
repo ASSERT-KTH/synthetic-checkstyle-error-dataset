@@ -1,0 +1,4 @@
+60c60
+<     assertEquals(WashingMachineState.ENABLED, washingMachine.getWashingMachineState());
+---
+>     assertEquals(WashingMachineState.	ENABLED, washingMachine.getWashingMachineState());

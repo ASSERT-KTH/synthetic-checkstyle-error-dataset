@@ -1,0 +1,4 @@
+80c80
+<       ((Logger) LoggerFactory.getLogger(clazz)).addAppender(this);
+---
+>      ((Logger) LoggerFactory.getLogger(clazz)).addAppender(this);

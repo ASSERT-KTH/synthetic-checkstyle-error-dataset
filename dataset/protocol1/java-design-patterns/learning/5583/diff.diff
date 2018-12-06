@@ -1,0 +1,4 @@
+58c58
+<   public boolean checkIfYouWillBeHanged(List<Royalty> tableGuests) {
+---
+>   public 	boolean checkIfYouWillBeHanged(List<Royalty> tableGuests) {

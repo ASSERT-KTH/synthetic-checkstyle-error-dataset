@@ -1,0 +1,4 @@
+60c60
+<     MobileProduct mobileProduct = new MobileProduct();
+---
+>     MobileProduct mobileProduct 	= new MobileProduct();

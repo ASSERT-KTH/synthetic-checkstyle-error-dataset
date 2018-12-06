@@ -1,0 +1,4 @@
+45c45
+<     new Customer("John", shop).start();
+---
+>    new Customer("John", shop).start();

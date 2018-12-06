@@ -1,0 +1,5 @@
+57c57,58
+<   public abstract String toString();
+---
+>   public 
+> abstract String toString();

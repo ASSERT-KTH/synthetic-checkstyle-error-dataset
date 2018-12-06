@@ -1,0 +1,4 @@
+35c35
+<   public KingsHand(EventObserver obs) {
+---
+>  public KingsHand(EventObserver obs) {

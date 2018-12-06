@@ -1,0 +1,4 @@
+44c44
+<     LOGGER.info("HP Printer : {}", message);
+---
+>     LOGGER.	info("HP Printer : {}", message);

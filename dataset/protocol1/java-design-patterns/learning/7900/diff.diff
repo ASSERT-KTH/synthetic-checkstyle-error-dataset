@@ -1,0 +1,4 @@
+53c53
+<     GiantController controller = new GiantController(giant, view);
+---
+>     GiantController controller = new GiantController(giant, view	);

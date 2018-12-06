@@ -1,0 +1,5 @@
+45c45,46
+< public abstract class ObserverTest<O extends Observer<?, ?, WeatherType>> {
+---
+> public abstract class ObserverTest<O extends Observer<?, ?, WeatherType
+> >> {

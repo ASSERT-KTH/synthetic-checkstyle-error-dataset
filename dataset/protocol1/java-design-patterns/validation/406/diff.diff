@@ -1,0 +1,4 @@
+41c41
+<     assertEquals(details1, details2);
+---
+>     assertEquals(details1, 	details2);

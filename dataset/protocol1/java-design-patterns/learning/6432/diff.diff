@@ -1,0 +1,5 @@
+91c91,92
+<     DateFormatCallable callableDf = new DateFormatCallable("dd/MM/yyyy", "15.12.2015");
+---
+>     DateFormatCallable 
+> callableDf = new DateFormatCallable("dd/MM/yyyy", "15.12.2015");

@@ -1,0 +1,5 @@
+36,37c36
+<  * When you run data through the sequence, you have a collection pipeline.
+<  * Together, the Function Composition and Collection Pipeline patterns enable
+---
+>  * When you run data through the sequence, you have a collection pipeline. * Together, the Function Composition and Collection Pipeline patterns enable

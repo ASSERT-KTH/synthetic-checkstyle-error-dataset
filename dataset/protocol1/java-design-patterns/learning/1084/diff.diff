@@ -1,0 +1,4 @@
+114c114
+<     assertEquals("Object: " + name, title);
+---
+>      assertEquals("Object: " + name, title);

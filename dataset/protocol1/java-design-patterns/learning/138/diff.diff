@@ -1,0 +1,4 @@
+96c96
+<     if (firstName != null ? !firstName.equals(person.firstName) : person.firstName != null) {
+---
+>     if (firstName != null ? !firstName.equals(person.firstName) : person.firstName!= null) {

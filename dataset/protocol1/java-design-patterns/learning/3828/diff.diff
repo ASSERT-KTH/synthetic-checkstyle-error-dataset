@@ -1,0 +1,4 @@
+56c56
+<       testConfiguration.addRegisterEntitiesPackagePrefix("domainapp.dom.modules");
+---
+>       testConfiguration.addRegisterEntitiesPackagePrefix("domainapp.dom.modules")	;

@@ -1,0 +1,4 @@
+34c34
+<     before(ScenarioExecutionScope.INTEGRATION);
+---
+>    before(ScenarioExecutionScope.INTEGRATION);

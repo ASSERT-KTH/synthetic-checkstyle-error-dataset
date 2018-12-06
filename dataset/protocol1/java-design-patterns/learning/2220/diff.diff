@@ -1,0 +1,4 @@
+158c158
+<       service.bakeNewCake(new CakeInfo(topping1, Arrays.asList(layer1, missingLayer)));
+---
+>      service.bakeNewCake(new CakeInfo(topping1, Arrays.asList(layer1, missingLayer)));

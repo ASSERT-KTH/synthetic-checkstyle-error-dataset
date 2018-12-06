@@ -1,0 +1,5 @@
+82,83c82
+<     return paidGroup.contains(user);
+<   }
+---
+>     return paidGroup.contains(user);  }

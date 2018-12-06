@@ -1,0 +1,5 @@
+44c44,45
+<   Weapon create(WeaponType name);
+---
+>   Weapon create(WeaponType 
+> name);

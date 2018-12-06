@@ -1,0 +1,4 @@
+47c47
+<       criteria.add(Restrictions.eq("name", name));
+---
+>       criteria.add(Restrictions.eq(	"name", name));

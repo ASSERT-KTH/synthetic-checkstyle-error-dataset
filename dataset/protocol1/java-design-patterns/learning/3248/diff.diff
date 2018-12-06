@@ -1,0 +1,4 @@
+78c78
+<     LOGGER.info("result: {}", stack.pop().interpret());
+---
+>     LOGGER.info("result: {}", stack.pop().	interpret());

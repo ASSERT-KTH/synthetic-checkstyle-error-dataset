@@ -1,0 +1,4 @@
+33c33
+< public class CommanderTest extends UnitTest<Commander> {
+---
+> public 	class CommanderTest extends UnitTest<Commander> {

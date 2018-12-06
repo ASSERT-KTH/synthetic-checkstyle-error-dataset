@@ -1,0 +1,4 @@
+59c59
+<       handleEvent((StoppingData) data);
+---
+>      handleEvent((StoppingData) data);

@@ -1,0 +1,5 @@
+23c23,24
+< package com.iluwatar.iterator.list;
+---
+> package com.iluwatar.iterator.list
+> ;

@@ -1,0 +1,5 @@
+74c74,75
+<     this.username = username;
+---
+>     this.username 
+> = username;

@@ -1,0 +1,4 @@
+297c297
+<       final Exception exception = optionalException.get();
+---
+>       final Exception exception = optionalException	.get();

@@ -1,0 +1,4 @@
+45c45
+<     ConfigureForDosVisitor conDos = new ConfigureForDosVisitor();
+---
+>     ConfigureForDosVisitor conDos = new ConfigureForDosVisitor(	);

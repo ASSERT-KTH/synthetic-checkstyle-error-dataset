@@ -1,0 +1,4 @@
+34c34
+<   Wizard findByName(String name);
+---
+>   Wizard findByName (String name);

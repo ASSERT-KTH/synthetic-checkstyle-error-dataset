@@ -1,0 +1,4 @@
+52c52
+<     KingsHand kingsHand = new KingsHand(kingJoffrey);
+---
+>    KingsHand kingsHand = new KingsHand(kingJoffrey);

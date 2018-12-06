@@ -1,0 +1,5 @@
+47,48c47
+<    * This step is in charge of setting the Character class (fighter or wizard). Fighter choice :
+<    * Next Step available : WeaponStep Wizard choice : Next Step available : SpellStep
+---
+>    * This step is in charge of setting the Character class (fighter or wizard). Fighter choice :   * Next Step available : WeaponStep Wizard choice : Next Step available : SpellStep

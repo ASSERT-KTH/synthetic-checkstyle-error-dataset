@@ -1,0 +1,5 @@
+25,26c25
+< import com.iluwatar.specification.property.Color;
+< import com.iluwatar.specification.property.Movement;
+---
+> import com.iluwatar.specification.property.Color;import com.iluwatar.specification.property.Movement;

@@ -1,0 +1,4 @@
+48c48
+<     GuardedQueue guardedQueue = new GuardedQueue();
+---
+>     GuardedQueue guardedQueue = new 	GuardedQueue();

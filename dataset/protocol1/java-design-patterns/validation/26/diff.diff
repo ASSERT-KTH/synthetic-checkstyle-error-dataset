@@ -1,0 +1,4 @@
+85c85
+<     Thread.sleep(writingTime);
+---
+>     Thread.sleep(	writingTime);

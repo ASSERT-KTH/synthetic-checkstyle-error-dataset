@@ -1,0 +1,4 @@
+56c56
+<       serviceObj = (Service) ctx.lookup(serviceJndiName);
+---
+>      serviceObj = (Service) ctx.lookup(serviceJndiName);

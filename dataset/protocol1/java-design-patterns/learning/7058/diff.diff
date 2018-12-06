@@ -1,0 +1,4 @@
+76c76
+<         new Meteoroid(1, 1, 3, 4),
+---
+>        new Meteoroid(1, 1, 3, 4),

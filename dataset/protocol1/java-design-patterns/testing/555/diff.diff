@@ -1,0 +1,4 @@
+46c46
+<   void addFundsToLotteryAccount(WireTransfers bank, Scanner scanner);
+---
+>  void addFundsToLotteryAccount(WireTransfers bank, Scanner scanner);

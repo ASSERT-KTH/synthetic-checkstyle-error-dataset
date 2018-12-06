@@ -1,0 +1,4 @@
+64c64
+<     return !(r.getLeft() > getRight() || r.getRight() < getLeft() || r.getTop() > getBottom() || r
+---
+>    return !(r.getLeft() > getRight() || r.getRight() < getLeft() || r.getTop() > getBottom() || r

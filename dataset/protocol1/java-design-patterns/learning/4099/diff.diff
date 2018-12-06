@@ -1,0 +1,4 @@
+136c136
+<             globalMutex.remove(this);
+---
+>            globalMutex.remove(this);

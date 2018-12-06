@@ -1,0 +1,5 @@
+51c51,52
+<   public static LotteryTicket createLotteryTicket(String email, String account, String phone,
+---
+>   public static LotteryTicket createLotteryTicket(String 
+> email, String account, String phone,

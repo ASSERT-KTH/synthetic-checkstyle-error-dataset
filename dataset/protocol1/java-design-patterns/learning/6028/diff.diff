@@ -1,0 +1,5 @@
+62c62,63
+<   public void testWrite() throws Exception {
+---
+>   public void testWrite() 
+> throws Exception {

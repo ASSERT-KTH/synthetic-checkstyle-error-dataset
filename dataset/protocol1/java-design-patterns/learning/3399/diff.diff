@@ -1,0 +1,4 @@
+80c80
+<     LOGGER.info(rogue.toString());
+---
+>    LOGGER.info(rogue.toString());

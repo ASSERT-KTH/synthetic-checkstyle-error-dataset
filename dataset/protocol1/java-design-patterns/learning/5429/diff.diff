@@ -1,0 +1,5 @@
+145,146c145
+<     verify(studentDatabase, never()).delete(student1);
+<   }
+---
+>     verify(studentDatabase, never()).delete(student1);  }

@@ -1,0 +1,5 @@
+58c58,59
+<     System.setOut(new PrintStream(stdOutBuffer));
+---
+>     System.setOut(
+> new PrintStream(stdOutBuffer));

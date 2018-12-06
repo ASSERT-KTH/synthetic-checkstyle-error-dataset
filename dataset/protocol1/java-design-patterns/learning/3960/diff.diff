@@ -1,0 +1,4 @@
+76c76
+<     Character lowestFrequencyChar = null;
+---
+>     Character 	lowestFrequencyChar = null;

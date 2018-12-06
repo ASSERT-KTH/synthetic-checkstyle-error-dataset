@@ -1,0 +1,4 @@
+57c57
+<     fixtureScripts.runFixtureScript(fs, null);
+---
+>     fixtureScripts.runFixtureScript(	fs, null);

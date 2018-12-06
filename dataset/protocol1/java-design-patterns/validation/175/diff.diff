@@ -1,0 +1,5 @@
+40,41c40
+<     this.enchantment = enchantment;
+<   }
+---
+>     this.enchantment = enchantment;  }

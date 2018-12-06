@@ -1,0 +1,4 @@
+36c36
+<   private final String lastName;
+---
+>    private final String lastName;

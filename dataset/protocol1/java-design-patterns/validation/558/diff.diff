@@ -1,0 +1,4 @@
+60c60
+<     filterManager.addFilter(new NameFilter());
+---
+>     filterManager.	addFilter(new NameFilter());

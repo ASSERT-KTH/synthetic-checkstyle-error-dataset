@@ -1,0 +1,4 @@
+30c30
+< public enum Profession {
+---
+> public 	enum Profession {

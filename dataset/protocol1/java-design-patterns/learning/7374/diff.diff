@@ -1,0 +1,5 @@
+141c141,142
+<       return log.get(log.size() - 1).getFormattedMessage();
+---
+>       return log.get(log.size
+> () - 1).getFormattedMessage();

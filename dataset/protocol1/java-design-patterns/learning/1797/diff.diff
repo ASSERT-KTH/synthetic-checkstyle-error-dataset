@@ -1,0 +1,5 @@
+69c69,70
+<     mongoEventLog.ticketDidNotWin(playerDetails);
+---
+>     
+> mongoEventLog.ticketDidNotWin(playerDetails);

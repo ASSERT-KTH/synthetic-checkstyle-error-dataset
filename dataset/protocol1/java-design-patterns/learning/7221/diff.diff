@@ -1,0 +1,5 @@
+102c102,103
+<     s.signIn(user.toString(), password.toString());
+---
+>     s.signIn(user.toString(), password.toString(
+> ));

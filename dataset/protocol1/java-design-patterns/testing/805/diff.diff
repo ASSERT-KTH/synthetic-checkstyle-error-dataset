@@ -1,0 +1,5 @@
+91,92c91
+<     fixtureScripts.runFixtureScript(fs, null);
+<     nextTransaction();
+---
+>     fixtureScripts.runFixtureScript(fs, null);    nextTransaction();

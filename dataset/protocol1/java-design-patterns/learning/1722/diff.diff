@@ -1,0 +1,5 @@
+36c36,37
+<   public King createKing() {
+---
+>   
+> public King createKing() {

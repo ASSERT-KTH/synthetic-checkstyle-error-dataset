@@ -1,0 +1,4 @@
+41c41
+<   public Tenant(String name, int allowedCallsPerSecond, CallsCount callsCount) {
+---
+>   public Tenant (String name, int allowedCallsPerSecond, CallsCount callsCount) {

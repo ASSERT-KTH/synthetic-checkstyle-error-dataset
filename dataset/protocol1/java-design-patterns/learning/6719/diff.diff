@@ -1,0 +1,4 @@
+96c96
+<     for (final Item item : items) {
+---
+>     for (final Item item 	: items) {

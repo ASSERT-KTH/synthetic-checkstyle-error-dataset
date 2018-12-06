@@ -1,0 +1,4 @@
+40c40
+<   private final Set<Member> listeners = new HashSet<>();
+---
+>   private final Set<Member> listeners = new HashSet<>(	);

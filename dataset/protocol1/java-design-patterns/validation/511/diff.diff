@@ -1,0 +1,5 @@
+103c103,104
+<   static <E> List<E> copyToList(Iterable<E> iterable) {
+---
+>   static <E> List<E> 
+> copyToList(Iterable<E> iterable) {

@@ -1,0 +1,4 @@
+56c56
+<       Set<Integer> winningNumbers = new HashSet<>();
+---
+>      Set<Integer> winningNumbers = new HashSet<>();

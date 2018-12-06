@@ -1,0 +1,4 @@
+68c68
+<     lambdaInfo.setFunctionName(context.getFunctionName());
+---
+>    lambdaInfo.setFunctionName(context.getFunctionName());

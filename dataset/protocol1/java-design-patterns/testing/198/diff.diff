@@ -1,0 +1,4 @@
+30c30
+<   void acquire() throws InterruptedException;
+---
+>   void 	acquire() throws InterruptedException;

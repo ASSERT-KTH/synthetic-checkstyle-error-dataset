@@ -1,0 +1,4 @@
+28c28
+< import static org.mockito.Mockito.spy;
+---
+> import static org.mockito	.Mockito.spy;

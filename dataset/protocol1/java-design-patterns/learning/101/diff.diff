@@ -1,0 +1,4 @@
+45c45
+<     WashingMachineState machineStateGlobal = washingMachine.getWashingMachineState();
+---
+>    WashingMachineState machineStateGlobal = washingMachine.getWashingMachineState();

@@ -1,0 +1,4 @@
+34c34
+<   void partyAction(Action action);
+---
+>   void partyAction (Action action);

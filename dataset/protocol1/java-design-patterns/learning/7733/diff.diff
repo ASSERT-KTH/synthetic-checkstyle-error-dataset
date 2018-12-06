@@ -1,0 +1,5 @@
+33,34c33
+<  * we have methods to enumerate the ingredients and to taste the stew. The method for tasting the
+<  * stew alters the private members of the {@link Stew} class.
+---
+>  * we have methods to enumerate the ingredients and to taste the stew. The method for tasting the * stew alters the private members of the {@link Stew} class.

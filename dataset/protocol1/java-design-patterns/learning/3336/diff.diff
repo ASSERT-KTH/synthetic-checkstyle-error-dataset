@@ -1,0 +1,4 @@
+33c33
+<   public abstract Mage copy() throws CloneNotSupportedException;
+---
+>   public abstract Mage copy() throws CloneNotSupportedException	;

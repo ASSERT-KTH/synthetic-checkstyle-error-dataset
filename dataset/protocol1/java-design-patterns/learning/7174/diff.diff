@@ -1,0 +1,5 @@
+43c43,44
+<   protected void confuseTarget(String target) {
+---
+>   protected 
+> void confuseTarget(String target) {

@@ -1,0 +1,4 @@
+30c30
+< public interface Handler<E extends Event> {
+---
+> public 	interface Handler<E extends Event> {

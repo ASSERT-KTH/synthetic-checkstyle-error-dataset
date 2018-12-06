@@ -1,0 +1,4 @@
+38c38
+<   private LoginPage loginPage = new LoginPage(new WebClient());
+---
+>   private LoginPage loginPage = new LoginPage (new WebClient());

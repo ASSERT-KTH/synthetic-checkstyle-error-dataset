@@ -1,0 +1,4 @@
+83c83
+<     return entities.stream().map(this::convertFromEntity).collect(Collectors.toList());
+---
+>     return entities.stream ().map(this::convertFromEntity).collect(Collectors.toList());

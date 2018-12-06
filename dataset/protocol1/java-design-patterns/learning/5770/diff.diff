@@ -1,0 +1,5 @@
+29c29,30
+< public interface AllModemVisitor extends ZoomVisitor, HayesVisitor{
+---
+> public interface AllModemVisitor extends ZoomVisitor, 
+> HayesVisitor{

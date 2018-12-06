@@ -1,0 +1,4 @@
+108c108
+<       assertEquals(this.sergeantResponse.get(), appender.getLastMessage());
+---
+>      assertEquals(this.sergeantResponse.get(), appender.getLastMessage());

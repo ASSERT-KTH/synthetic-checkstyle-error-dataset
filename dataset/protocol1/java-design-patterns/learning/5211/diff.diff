@@ -1,0 +1,5 @@
+40c40,41
+< public class ProductInventoryClientImpl implements ProductInventoryClient {
+---
+> public class ProductInventoryClientImpl implements ProductInventoryClient 
+> {

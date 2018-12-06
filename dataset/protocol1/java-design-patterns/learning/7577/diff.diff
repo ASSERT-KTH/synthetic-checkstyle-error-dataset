@@ -1,0 +1,4 @@
+50c50
+<   public Reader(String name, Lock readLock, long readingTime) {
+---
+>   public 	Reader(String name, Lock readLock, long readingTime) {

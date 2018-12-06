@@ -1,0 +1,4 @@
+46c46
+<   public TaskGenerator(MessageQueue msgQueue, int msgCount) {
+---
+>    public TaskGenerator(MessageQueue msgQueue, int msgCount) {

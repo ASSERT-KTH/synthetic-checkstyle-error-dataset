@@ -1,0 +1,4 @@
+70c70
+<     Assert.assertNotNull(apiGatewayProxyResponseEvent);
+---
+>    Assert.assertNotNull(apiGatewayProxyResponseEvent);

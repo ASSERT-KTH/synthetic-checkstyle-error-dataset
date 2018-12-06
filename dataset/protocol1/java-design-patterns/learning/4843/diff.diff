@@ -1,0 +1,4 @@
+43c43
+<     B2BService service = new B2BService(timer, callsCount);
+---
+>    B2BService service = new B2BService(timer, callsCount);

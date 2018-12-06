@@ -1,0 +1,4 @@
+96c96
+<     ThreadSafeDoubleCheckLocking dcl1 = ThreadSafeDoubleCheckLocking.getInstance();
+---
+>     ThreadSafeDoubleCheckLocking dcl1 = ThreadSafeDoubleCheckLocking.	getInstance();

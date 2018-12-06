@@ -1,0 +1,4 @@
+43c43
+<     LOGGER.info("HolderNaive created");
+---
+>     LOGGER.info("HolderNaive created"	);

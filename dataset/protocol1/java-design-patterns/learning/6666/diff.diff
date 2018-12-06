@@ -1,0 +1,4 @@
+57c57
+<     captain.setRowingBoat((FishingBoatAdapter) beans.get(FISHING_BEAN));
+---
+>    captain.setRowingBoat((FishingBoatAdapter) beans.get(FISHING_BEAN));

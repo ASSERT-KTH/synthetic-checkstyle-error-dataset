@@ -1,0 +1,4 @@
+54c54
+<     final String[] serviceNames = new String[]{
+---
+>     final String[] serviceNames = 	new String[]{

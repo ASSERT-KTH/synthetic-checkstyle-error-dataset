@@ -1,0 +1,4 @@
+72c72
+<     Service service = new PropertiesFeatureToggleVersion(properties);
+---
+>    Service service = new PropertiesFeatureToggleVersion(properties);

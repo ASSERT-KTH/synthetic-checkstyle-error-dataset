@@ -1,0 +1,4 @@
+38c38
+<     LotteryTicketId ticketId2 = new LotteryTicketId();
+---
+>     LotteryTicketId ticketId2 	= new LotteryTicketId();

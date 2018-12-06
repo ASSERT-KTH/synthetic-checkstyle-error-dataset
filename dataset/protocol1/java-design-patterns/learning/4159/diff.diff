@@ -1,0 +1,4 @@
+52c52
+<     LoadBalancer loadBalancer2 = new LoadBalancer();
+---
+>     LoadBalancer 	loadBalancer2 = new LoadBalancer();

@@ -1,0 +1,4 @@
+37c37
+< import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
+---
+>  import org.springframework.data.jpa.repository.config.EnableJpaRepositories;

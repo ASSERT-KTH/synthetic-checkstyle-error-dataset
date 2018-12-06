@@ -1,0 +1,5 @@
+69c69,70
+<   public Character(Type type, Prototype prototype) {
+---
+>   public Character(
+> Type type, Prototype prototype) {

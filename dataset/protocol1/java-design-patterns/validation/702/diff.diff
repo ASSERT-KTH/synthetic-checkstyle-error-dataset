@@ -1,0 +1,4 @@
+45c45
+<     assertEquals(150, bank.getFunds("bar"));
+---
+>    assertEquals(150, bank.getFunds("bar"));

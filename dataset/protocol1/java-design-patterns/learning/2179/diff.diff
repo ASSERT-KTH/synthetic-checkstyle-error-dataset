@@ -1,0 +1,5 @@
+118c118,119
+<     assertEquals(1, stub.getMessagesSent());
+---
+>     assertEquals(1, stub
+> .getMessagesSent());

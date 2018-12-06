@@ -1,0 +1,4 @@
+92c92
+<           LOGGER.error("An error occured on selectAlbum", e);
+---
+>           LOGGER	.error("An error occured on selectAlbum", e);

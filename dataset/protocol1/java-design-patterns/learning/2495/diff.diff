@@ -1,0 +1,5 @@
+48c48,49
+<   private InMemoryAppender appender;
+---
+>   private 
+> InMemoryAppender appender;

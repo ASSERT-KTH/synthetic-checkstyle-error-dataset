@@ -1,0 +1,4 @@
+50c50
+<     assertEquals(8, topShelf.size());
+---
+>    assertEquals(8, topShelf.size());

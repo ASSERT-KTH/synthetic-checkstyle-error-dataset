@@ -1,0 +1,4 @@
+30c30
+<   private boolean isHappy = false;
+---
+>   private boolean 	isHappy = false;

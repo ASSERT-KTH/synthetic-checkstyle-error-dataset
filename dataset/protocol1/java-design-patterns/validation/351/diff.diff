@@ -1,0 +1,4 @@
+15c15
+< package domainapp.integtests.specs;
+---
+> package domainapp.integtests.specs	;

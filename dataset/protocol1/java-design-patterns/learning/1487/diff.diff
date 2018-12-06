@@ -1,0 +1,4 @@
+39c39
+<     bind(LotteryTicketRepository.class).to(MongoTicketRepository.class);
+---
+>    bind(LotteryTicketRepository.class).to(MongoTicketRepository.class);

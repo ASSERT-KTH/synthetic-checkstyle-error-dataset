@@ -1,0 +1,4 @@
+148c148
+<     document.put("bank", details.getBankAccount());
+---
+>     document.put("bank", details.getBankAccount()	);

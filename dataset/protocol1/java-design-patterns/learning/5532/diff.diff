@@ -1,0 +1,5 @@
+55c55,56
+<     VideoResource videoResource = new VideoResource(new FieldJsonMapper(), videos);
+---
+>     VideoResource videoResource = new VideoResource(new FieldJsonMapper(), videos
+> );

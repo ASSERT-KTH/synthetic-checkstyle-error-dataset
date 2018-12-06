@@ -1,0 +1,5 @@
+87,88c87
+<     final Weather weather = new Weather();
+<     weather.addObserver(observer);
+---
+>     final Weather weather = new Weather();    weather.addObserver(observer);

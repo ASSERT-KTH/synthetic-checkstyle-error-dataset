@@ -1,0 +1,5 @@
+37c37,38
+<   public Word(List<Letter> letters) {
+---
+>   public Word(List<
+> Letter> letters) {

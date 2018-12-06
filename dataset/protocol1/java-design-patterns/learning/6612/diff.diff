@@ -1,0 +1,5 @@
+55c55,56
+< public interface DataType {
+---
+> public 
+> interface DataType {

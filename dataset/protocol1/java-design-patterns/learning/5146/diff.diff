@@ -1,0 +1,5 @@
+47c47,48
+<     Service service = ServiceLocator.getService("jndi/serviceA");
+---
+>     
+> Service service = ServiceLocator.getService("jndi/serviceA");

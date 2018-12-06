@@ -1,0 +1,4 @@
+89c89
+<     Spell spell9 = new Spell("Light");
+---
+>     Spell spell9 = new Spell("Light"	);

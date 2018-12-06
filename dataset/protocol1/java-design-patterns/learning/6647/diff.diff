@@ -1,0 +1,4 @@
+74c74
+<     assertEquals(0, administration.getAllSubmittedTickets().size());
+---
+>     assertEquals(0	, administration.getAllSubmittedTickets().size());

@@ -1,0 +1,4 @@
+52c52
+<     this.imagePath = imagePath;
+---
+>     this.imagePath = 	imagePath;

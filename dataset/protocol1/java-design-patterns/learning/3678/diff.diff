@@ -1,0 +1,4 @@
+36c36
+< import com.iluwatar.cqrs.queries.QueryServiceImpl;
+---
+> import com.iluwatar.cqrs.queries	.QueryServiceImpl;

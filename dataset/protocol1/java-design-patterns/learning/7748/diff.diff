@@ -1,0 +1,4 @@
+114c114
+<     verifyZeroInteractions(wizardDao, spellbookDao, spellDao, spellbook);
+---
+>    verifyZeroInteractions(wizardDao, spellbookDao, spellDao, spellbook);

@@ -1,0 +1,4 @@
+83c83
+<     Author author = queryService.getAuthorByUsername("new_username2");
+---
+>     Author author= queryService.getAuthorByUsername("new_username2");

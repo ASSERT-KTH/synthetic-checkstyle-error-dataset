@@ -1,0 +1,4 @@
+117c117
+<       if (Category.SEDAN.equals(car.getCategory())) {
+---
+>      if (Category.SEDAN.equals(car.getCategory())) {

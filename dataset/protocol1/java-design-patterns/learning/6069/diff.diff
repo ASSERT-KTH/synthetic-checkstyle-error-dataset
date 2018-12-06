@@ -1,0 +1,4 @@
+109c109
+<     assertEquals(Action.values().length + 1, appender.getLogSize());
+---
+>     assertEquals(Action.	values().length + 1, appender.getLogSize());

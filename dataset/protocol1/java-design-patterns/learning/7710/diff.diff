@@ -1,0 +1,4 @@
+41c41
+<     assertNull(unit.getUnitExtension("SergeantExtension"));
+---
+>    assertNull(unit.getUnitExtension("SergeantExtension"));

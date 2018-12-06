@@ -1,0 +1,4 @@
+112c112
+<         verifyZeroInteractions(observers);
+---
+>        verifyZeroInteractions(observers);

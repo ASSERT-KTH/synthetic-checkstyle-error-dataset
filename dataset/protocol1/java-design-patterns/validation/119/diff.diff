@@ -1,0 +1,5 @@
+37c37,38
+<   private static Map<String, Integer> accounts = new HashMap<>();
+---
+>   private static Map<String, Integer> accounts = new HashMap<>(
+> );

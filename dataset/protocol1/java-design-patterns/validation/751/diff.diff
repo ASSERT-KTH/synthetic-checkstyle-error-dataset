@@ -1,0 +1,5 @@
+70,71c70
+<     assertEquals(EXPECTED_VALUE, order.getOrderItem());
+<   }
+---
+>     assertEquals(EXPECTED_VALUE, order.getOrderItem());  }

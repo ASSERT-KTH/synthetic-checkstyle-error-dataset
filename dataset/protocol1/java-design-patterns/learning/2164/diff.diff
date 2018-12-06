@@ -1,0 +1,5 @@
+48c48,49
+<     UserCreatedEventHandler userCreatedEventHandler = spy(new UserCreatedEventHandler());
+---
+>     UserCreatedEventHandler userCreatedEventHandler = spy(new UserCreatedEventHandler(
+> ));

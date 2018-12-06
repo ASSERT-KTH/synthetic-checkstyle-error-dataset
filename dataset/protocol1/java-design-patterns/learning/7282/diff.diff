@@ -1,0 +1,5 @@
+87c87,88
+<     return username.equals(other.getUsername()) && email.equals(other.getEmail()) && name.equals(other.getName());
+---
+>     return username.equals
+> (other.getUsername()) && email.equals(other.getEmail()) && name.equals(other.getName());

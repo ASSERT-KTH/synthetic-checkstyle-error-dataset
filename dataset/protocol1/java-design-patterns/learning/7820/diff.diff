@@ -1,0 +1,4 @@
+36c36
+<     this.printer = printer;
+---
+>     this.printer = printer	;

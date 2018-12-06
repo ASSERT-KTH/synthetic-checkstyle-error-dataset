@@ -1,0 +1,4 @@
+58c58
+<       final Producer producer = new Producer("Producer_" + i, queue);
+---
+>       final Producer producer = new Producer("Producer_" + 	i, queue);

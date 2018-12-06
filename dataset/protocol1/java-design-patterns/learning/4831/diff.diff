@@ -1,0 +1,4 @@
+74c74
+<     tasks.add(new CoffeeMakingTask(2));
+---
+>     tasks.add(new CoffeeMakingTask(	2));

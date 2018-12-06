@@ -1,0 +1,5 @@
+56,57c56
+<     ImmutableStew immutableStew = new ImmutableStew(2, 4, 3, 6);
+<     immutableStew.mix();
+---
+>     ImmutableStew immutableStew = new ImmutableStew(2, 4, 3, 6);    immutableStew.mix();

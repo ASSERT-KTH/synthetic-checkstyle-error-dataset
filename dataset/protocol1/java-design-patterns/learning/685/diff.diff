@@ -1,0 +1,4 @@
+98c98
+<       log.add(eventObject);
+---
+>      log.add(eventObject);

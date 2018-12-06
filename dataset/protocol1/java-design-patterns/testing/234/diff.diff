@@ -1,0 +1,5 @@
+234c234,235
+<     return new DecoratingIterator<E>(iterable.iterator()) {
+---
+>     return new 
+> DecoratingIterator<E>(iterable.iterator()) {

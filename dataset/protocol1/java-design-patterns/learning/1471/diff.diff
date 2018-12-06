@@ -1,0 +1,4 @@
+51c51
+<   public String getDetails(Integer id, String... fields) throws Exception {
+---
+>   public String getDetails (Integer id, String... fields) throws Exception {

@@ -1,0 +1,5 @@
+45c45,46
+<   private static final String GOBLIN = "Goblin";
+---
+>   private static final String 
+> GOBLIN = "Goblin";

@@ -1,0 +1,4 @@
+39c39
+<   public PlayMessage(AudioInputStream stream, float volume) {
+---
+>  public PlayMessage(AudioInputStream stream, float volume) {

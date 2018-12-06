@@ -1,0 +1,5 @@
+27,28c27
+<  * In State pattern the container object has an internal state object that defines the current
+<  * behavior. The state object can be changed to alter the behavior.
+---
+>  * In State pattern the container object has an internal state object that defines the current * behavior. The state object can be changed to alter the behavior.

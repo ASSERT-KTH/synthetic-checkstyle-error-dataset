@@ -1,0 +1,4 @@
+96c96
+<     service.execute(new ArithmeticSumTask(1));
+---
+>      service.execute(new ArithmeticSumTask(1));

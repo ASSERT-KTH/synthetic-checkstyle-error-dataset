@@ -1,0 +1,4 @@
+33c33
+< public class SubtleMethod extends StealingMethod {
+---
+>  public class SubtleMethod extends StealingMethod {

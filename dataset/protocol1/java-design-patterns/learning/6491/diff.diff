@@ -1,0 +1,4 @@
+44c44
+<     final Troll clubbed = new ClubbedTroll(simpleTroll);
+---
+>    final Troll clubbed = new ClubbedTroll(simpleTroll);

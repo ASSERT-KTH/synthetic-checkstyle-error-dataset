@@ -1,0 +1,5 @@
+66c66,67
+<     assertEquals(expectedValue, numberExpression.interpret());
+---
+>     
+> assertEquals(expectedValue, numberExpression.interpret());

@@ -1,0 +1,4 @@
+34c34
+<   String PROPERTY = "model";
+---
+>   String PROPERTY 	= "model";

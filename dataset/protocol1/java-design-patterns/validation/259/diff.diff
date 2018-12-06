@@ -1,0 +1,4 @@
+60c60
+<     Troll clubbedTroll = new ClubbedTroll(troll);
+---
+>     Troll 	clubbedTroll = new ClubbedTroll(troll);

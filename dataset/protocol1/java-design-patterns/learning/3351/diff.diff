@@ -1,0 +1,5 @@
+65,66c65
+<     this.loader = loader;
+<   }
+---
+>     this.loader = loader;  }

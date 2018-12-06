@@ -1,0 +1,4 @@
+43c43
+<     assertEquals(ticketId1, ticketId4);
+---
+>     assertEquals(ticketId1, ticketId4)	;

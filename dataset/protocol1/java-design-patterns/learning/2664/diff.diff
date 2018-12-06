@@ -1,0 +1,5 @@
+42,43c42
+<  * <p>Developer/Tester is able to choose whether the application should use MongoDB as its underlying
+<  * data storage (connect()) or a simple Java data structure to (temporarily) store the data/objects
+---
+>  * <p>Developer/Tester is able to choose whether the application should use MongoDB as its underlying * data storage (connect()) or a simple Java data structure to (temporarily) store the data/objects

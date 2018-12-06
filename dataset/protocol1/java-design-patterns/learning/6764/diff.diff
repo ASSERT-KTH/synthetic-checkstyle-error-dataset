@@ -1,0 +1,4 @@
+84c84
+<       boolean result = dao.add(existingCustomer);
+---
+>       boolean result = 	dao.add(existingCustomer);

@@ -1,0 +1,5 @@
+64,65c64
+<    * @param predicate the condition to test with for the filtering. If the test is negative, the
+<    *        tested object is removed by the iterator.
+---
+>    * @param predicate the condition to test with for the filtering. If the test is negative, the   *        tested object is removed by the iterator.

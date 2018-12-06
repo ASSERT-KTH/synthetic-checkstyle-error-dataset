@@ -1,0 +1,4 @@
+96c96
+<     repository.delete(terry);
+---
+>     repository.	delete(terry);

@@ -1,0 +1,5 @@
+41,42c41
+<       return result + "Invalid contact number! ";
+<     } else {
+---
+>       return result + "Invalid contact number! ";    } else {

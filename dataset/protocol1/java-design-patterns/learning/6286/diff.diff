@@ -1,0 +1,5 @@
+76,77c76
+<     bus.publish(StoppingData.of(LocalDateTime.now()));
+<   }
+---
+>     bus.publish(StoppingData.of(LocalDateTime.now()));  }

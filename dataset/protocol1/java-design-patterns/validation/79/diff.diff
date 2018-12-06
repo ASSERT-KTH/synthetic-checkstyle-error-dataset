@@ -1,0 +1,4 @@
+52c52
+<     HeroStat statB = HeroStat.valueOf(10, 5, 0);
+---
+>     HeroStat statB = 	HeroStat.valueOf(10, 5, 0);

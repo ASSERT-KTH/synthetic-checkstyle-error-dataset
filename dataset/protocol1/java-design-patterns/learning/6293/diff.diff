@@ -1,0 +1,4 @@
+68c68
+<     final GiantView view = mock(GiantView.class);
+---
+>    final GiantView view = mock(GiantView.class);

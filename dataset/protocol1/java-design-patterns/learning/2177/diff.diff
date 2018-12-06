@@ -1,0 +1,4 @@
+39c39
+< @javax.jdo.annotations.PersistenceCapable(identityType = IdentityType.DATASTORE, schema = "simple",
+---
+> @javax.jdo.annotations.PersistenceCapable(identityType= IdentityType.DATASTORE, schema = "simple",

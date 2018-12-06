@@ -1,0 +1,5 @@
+40,41c40
+<     final Field holderField = Java8Holder.class.getDeclaredField("heavy");
+<     holderField.setAccessible(true);
+---
+>     final Field holderField = Java8Holder.class.getDeclaredField("heavy");    holderField.setAccessible(true);

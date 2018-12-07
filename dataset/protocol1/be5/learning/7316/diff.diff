@@ -1,0 +1,4 @@
+9c9
+<     public StaticPagePresentation(String title, String content)
+---
+>     public StaticPagePresentation(String title, 	String content)

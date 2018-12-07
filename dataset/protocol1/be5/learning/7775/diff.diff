@@ -1,0 +1,4 @@
+18c18
+<         this.name = name;
+---
+>         this.name 	= name;

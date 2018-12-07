@@ -1,0 +1,4 @@
+30c30
+<     public static Action call(HashUrl hashUrl)
+---
+>     public static Action 	call(HashUrl hashUrl)

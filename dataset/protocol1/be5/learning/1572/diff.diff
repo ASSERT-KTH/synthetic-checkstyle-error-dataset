@@ -1,0 +1,4 @@
+60c60
+<     public void from(AstFrom from)
+---
+>     public 	void from(AstFrom from)

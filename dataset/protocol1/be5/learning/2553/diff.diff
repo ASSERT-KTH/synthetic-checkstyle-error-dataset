@@ -1,0 +1,4 @@
+55c55
+<             simplifyBoolean(node.child(0));
+---
+>             simplifyBoolean(node.child( 0));

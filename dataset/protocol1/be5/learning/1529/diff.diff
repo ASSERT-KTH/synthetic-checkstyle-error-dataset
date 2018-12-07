@@ -1,0 +1,4 @@
+18c18
+< import static com.developmentontheedge.be5.base.FrontendConstants.STATIC_ACTION;
+---
+> import static com.developmentontheedge	.be5.base.FrontendConstants.STATIC_ACTION;

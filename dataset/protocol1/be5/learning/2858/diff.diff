@@ -1,0 +1,4 @@
+33c33
+<             node.setFunction(parserContext.getFunction("~"));
+---
+>             node.setFunction(parserContext	.getFunction("~"));

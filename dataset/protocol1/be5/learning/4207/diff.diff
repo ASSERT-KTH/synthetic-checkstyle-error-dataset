@@ -1,0 +1,5 @@
+8,9c8
+< import javax.inject.Inject;
+< import java.util.HashMap;
+---
+> import javax.inject.Inject;import java.util.HashMap;

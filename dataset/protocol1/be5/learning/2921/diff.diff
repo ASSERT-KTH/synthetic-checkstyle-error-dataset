@@ -1,0 +1,4 @@
+3c3
+< import com.google.common.collect.ObjectArrays;
+---
+> import com.google.common	.collect.ObjectArrays;

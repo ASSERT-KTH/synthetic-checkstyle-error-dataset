@@ -1,0 +1,4 @@
+267c267
+<         if (stream != null)
+---
+>         if (stream != 	null)

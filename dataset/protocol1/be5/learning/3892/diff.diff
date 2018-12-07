@@ -1,0 +1,4 @@
+13c13
+< public class Be5Exception extends RuntimeException
+---
+> public class 	Be5Exception extends RuntimeException

@@ -1,0 +1,5 @@
+116c116,117
+<     Class<?> getColumnType(String entityName, String columnName);
+---
+>     Class<?> getColumnType(String entityName, 
+> String columnName);

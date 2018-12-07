@@ -1,0 +1,5 @@
+10c10,11
+< public class AstBeCondition extends AstBeNode
+---
+> public class AstBeCondition 
+> extends AstBeNode

@@ -1,0 +1,4 @@
+43c43
+<         setResultFinished(updateParentDocument(filterHelper.filterDocument(getQuery(), params)));
+---
+>         setResultFinished(updateParentDocument(filterHelper.filterDocument (getQuery(), params)));

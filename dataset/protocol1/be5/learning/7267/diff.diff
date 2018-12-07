@@ -1,0 +1,4 @@
+194c194
+<     protected void transformSubstr(AstFunNode node)
+---
+>     protected void transformSubstr (AstFunNode node)

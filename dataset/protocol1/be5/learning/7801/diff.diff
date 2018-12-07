@@ -1,0 +1,4 @@
+114c114
+<     private static void simplifyOr(SimpleNode node)
+---
+>     private static 	void simplifyOr(SimpleNode node)

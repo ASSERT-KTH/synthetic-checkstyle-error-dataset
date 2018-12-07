@@ -1,0 +1,5 @@
+7c7,8
+<     public AstUpdateSetItem(AstFieldReference column, SimpleNode value)
+---
+>     public AstUpdateSetItem(AstFieldReference 
+> column, SimpleNode value)

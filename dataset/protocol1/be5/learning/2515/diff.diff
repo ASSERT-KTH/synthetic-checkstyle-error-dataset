@@ -1,0 +1,5 @@
+143c143,144
+<             for (int i = Math.max(0, lineID - 4); i < Math.min(lineID + 3, lines.length); i++)
+---
+>             for (int i = Math.max(0, lineID - 4); i < Math.min(lineID + 3, lines.length)
+> ; i++)

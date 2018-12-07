@@ -1,0 +1,4 @@
+26c26
+<         this.formatMySQL = formatMySQL;
+---
+>         this.formatMySQL =formatMySQL;

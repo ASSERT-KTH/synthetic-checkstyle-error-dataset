@@ -1,0 +1,4 @@
+39c39
+<         return next instanceof AstTableRef ? "," : null;
+---
+>         return next instanceof AstTableRef? "," : null;

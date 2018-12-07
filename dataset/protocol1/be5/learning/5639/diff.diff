@@ -1,0 +1,4 @@
+25c25
+<     private final Meta meta;
+---
+>     private 	final Meta meta;

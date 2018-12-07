@@ -1,0 +1,4 @@
+131c131
+<         return DefaultParserContext.FUNC_PLUS.node(DefaultParserContext.FUNC_TIMES.node(AstNumericConstant.of(24), DAYS.node(date)), HOUR.node(date));
+---
+>         return DefaultParserContext.FUNC_PLUS.node(DefaultParserContext.FUNC_TIMES.node(AstNumericConstant.of(24), DAYS.node(date)), 	HOUR.node(date));

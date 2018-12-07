@@ -1,0 +1,5 @@
+98c98,99
+<         if (table != null ? !table.equals(columnRef.table) : columnRef.table != null) return false;
+---
+>         
+> if (table != null ? !table.equals(columnRef.table) : columnRef.table != null) return false;

@@ -1,0 +1,4 @@
+27c27
+<     Object getSessionVariable(String name);
+---
+>     Object getSessionVariable(String name) ;

@@ -1,0 +1,4 @@
+69c69
+<                 in.replaceWith(new AstIdentifierConstant(in.isInversed() ? "FALSE" : "TRUE"));
+---
+>                 in.replaceWith(new AstIdentifierConstant( in.isInversed() ? "FALSE" : "TRUE"));

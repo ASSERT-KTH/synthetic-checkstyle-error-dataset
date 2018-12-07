@@ -1,0 +1,4 @@
+32c32
+<     String getModuleSetting(String module, String param, String defValue);
+---
+>     String getModuleSetting(String module, String param, String 	defValue);

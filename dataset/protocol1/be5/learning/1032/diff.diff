@@ -1,0 +1,4 @@
+19c19
+<     private static final Pattern notExistsPattern = Pattern.compile("!([\\w-]+)");
+---
+>     private static final Pattern notExistsPattern = 	Pattern.compile("!([\\w-]+)");

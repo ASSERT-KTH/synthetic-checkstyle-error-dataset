@@ -1,0 +1,5 @@
+51c51,52
+<     public void addFilter(AstStart ast, Map<ColumnRef, List<Object>> conditions)
+---
+>     public void addFilter(AstStart ast, 
+> Map<ColumnRef, List<Object>> conditions)

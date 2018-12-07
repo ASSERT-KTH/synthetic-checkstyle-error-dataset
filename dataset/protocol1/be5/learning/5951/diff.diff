@@ -1,0 +1,4 @@
+106c106
+<             if (tags.length > 0) return new FilterItem(idColumnTitle, tags[0][1]);
+---
+>             if (tags.length> 0) return new FilterItem(idColumnTitle, tags[0][1]);

@@ -1,0 +1,4 @@
+13c13
+<     private final TableModel tableModel;
+---
+>     private final TableModel tableModel ;

@@ -1,0 +1,4 @@
+123c123
+<     public static Action toAction(String query, Operation operation)
+---
+>     public static Action toAction(String query,Operation operation)

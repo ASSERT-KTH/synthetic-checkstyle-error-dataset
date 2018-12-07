@@ -1,0 +1,4 @@
+59c59
+<         Boolean isHidden = (Boolean) removeFromMap(map, "HIDDEN");
+---
+>         Boolean isHidden = (Boolean) 	removeFromMap(map, "HIDDEN");

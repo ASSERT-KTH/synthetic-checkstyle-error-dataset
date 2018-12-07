@@ -1,0 +1,5 @@
+62c62,63
+<     public static Be5Exception accessDenied(String info)
+---
+>     public static Be5Exception accessDenied(String 
+> info)

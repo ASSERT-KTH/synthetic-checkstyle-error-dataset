@@ -1,0 +1,4 @@
+19c19
+< public abstract class FilterSupport implements Filter
+---
+> public abstract class 	FilterSupport implements Filter

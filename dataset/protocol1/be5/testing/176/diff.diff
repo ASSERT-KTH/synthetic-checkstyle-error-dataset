@@ -1,0 +1,4 @@
+16c16
+<     void queryCompleted(Query query, Map<String, Object> parameters, long startTime, long endTime);
+---
+>     void queryCompleted(Query query, Map<String, Object> parameters, long 	startTime, long endTime);

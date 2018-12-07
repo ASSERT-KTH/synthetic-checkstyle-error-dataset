@@ -1,0 +1,4 @@
+72c72
+<         String apiWithContext = req.getContextPath() + "/api/";
+---
+>         	String apiWithContext = req.getContextPath() + "/api/";

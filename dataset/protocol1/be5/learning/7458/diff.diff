@@ -1,0 +1,5 @@
+5c5,6
+< public class AstBeQuoted extends SimpleNode
+---
+> public class 
+> AstBeQuoted extends SimpleNode

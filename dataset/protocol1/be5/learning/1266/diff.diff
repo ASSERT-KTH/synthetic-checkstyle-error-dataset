@@ -1,0 +1,4 @@
+17c17
+<     private GroovyClassLoader classLoader;
+---
+>     private GroovyClassLoader 	classLoader;

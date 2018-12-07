@@ -1,0 +1,4 @@
+10c10
+<     void registerCache(String name, Cache cache);
+---
+>     void registerCache(String name,Cache cache);

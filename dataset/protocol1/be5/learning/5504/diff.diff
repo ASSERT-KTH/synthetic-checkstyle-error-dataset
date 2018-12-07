@@ -1,0 +1,5 @@
+145c145,146
+<         return query.getType() == QueryType.STATIC && ACTION_PATTERN.matcher(query.getQuery()).matches();
+---
+>         return query.getType() == QueryType.STATIC && ACTION_PATTERN.matcher(query.getQuery
+> ()).matches();

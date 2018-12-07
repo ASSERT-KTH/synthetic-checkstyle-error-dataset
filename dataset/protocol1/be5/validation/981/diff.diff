@@ -1,0 +1,4 @@
+27c27
+<             addParameter(list.child(i).format().trim(), list.child(++i).format().trim());
+---
+>             addParameter(list.child(i).format().trim(), list.child(++i ).format().trim());

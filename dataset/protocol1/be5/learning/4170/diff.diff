@@ -1,0 +1,4 @@
+48c48
+<                 String queryColumn = derColumn.getAlias() != null ? derColumn.getAlias() : derColumn.getColumn();
+---
+>                 String queryColumn = derColumn.getAlias() != null ? derColumn. getAlias() : derColumn.getColumn();

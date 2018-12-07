@@ -1,0 +1,5 @@
+68c68,69
+<         if (operation.getStatus() == OperationStatus.ERROR)
+---
+>         if 
+> (operation.getStatus() == OperationStatus.ERROR)

@@ -1,0 +1,5 @@
+59c59,60
+<     public Map<String, String> getParameters()
+---
+>     public Map<String, String> getParameters
+> ()

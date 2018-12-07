@@ -1,0 +1,5 @@
+29c29,30
+<     public AstDelete where(AstWhere where)
+---
+>     
+> public AstDelete where(AstWhere where)

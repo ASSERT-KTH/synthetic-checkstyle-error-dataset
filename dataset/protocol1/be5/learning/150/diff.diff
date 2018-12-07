@@ -1,0 +1,5 @@
+105c105,106
+<             where.addChild(DefaultParserContext.FUNC_AND.node());
+---
+>             
+> where.addChild(DefaultParserContext.FUNC_AND.node());

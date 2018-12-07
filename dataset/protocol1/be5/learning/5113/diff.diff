@@ -1,0 +1,4 @@
+85c85
+<     private SimpleNode getSeconds(SimpleNode endDate, SimpleNode startDate)
+---
+>     private SimpleNode getSeconds(SimpleNode endDate , SimpleNode startDate)

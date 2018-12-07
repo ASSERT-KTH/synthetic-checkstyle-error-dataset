@@ -1,0 +1,5 @@
+33,34c33
+< import static com.developmentontheedge.be5.base.FrontendConstants.OPERATION_RESULT;
+< import static com.developmentontheedge.be5.server.RestApiConstants.SELF_LINK;
+---
+> import static com.developmentontheedge.be5.base.FrontendConstants.OPERATION_RESULT;import static com.developmentontheedge.be5.server.RestApiConstants.SELF_LINK;

@@ -1,0 +1,5 @@
+18c18,19
+<     private final Map<String, Object> sessionVariables;
+---
+>     private final Map<String, Object> 
+> sessionVariables;

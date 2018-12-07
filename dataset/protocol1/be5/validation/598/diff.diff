@@ -1,0 +1,5 @@
+14c14,15
+<     int LOGICAL_PRIORITY = 1; // and, or, xor
+---
+>     int 
+> LOGICAL_PRIORITY = 1; // and, or, xor

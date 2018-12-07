@@ -1,0 +1,4 @@
+7c7
+<     public AstBeConditionChain(int id)
+---
+>     	public AstBeConditionChain(int id)

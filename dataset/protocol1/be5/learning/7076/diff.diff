@@ -1,0 +1,4 @@
+249c249
+<         declareFunction(context, 2, "YEARDIFF");
+---
+>         declareFunction(context, 2, "YEARDIFF" );

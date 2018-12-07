@@ -1,0 +1,4 @@
+31c31
+<     public static final int STATUS_ERROR = 2;
+---
+>     public static final int STATUS_ERROR 	= 2;

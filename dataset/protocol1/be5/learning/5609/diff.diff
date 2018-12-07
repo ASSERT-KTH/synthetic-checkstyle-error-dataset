@@ -1,0 +1,5 @@
+56c56,57
+<     String getColumnTitle(String entityName, String columnName);
+---
+>     String 
+> getColumnTitle(String entityName, String columnName);

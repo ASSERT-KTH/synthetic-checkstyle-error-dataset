@@ -1,0 +1,4 @@
+27c27
+<     public MimeMessage2(Session session)
+---
+>     public MimeMessage2(Session session )

@@ -1,0 +1,4 @@
+7c7
+<     public AstStringPart(int id)
+---
+>     public AstStringPart(int 	id)

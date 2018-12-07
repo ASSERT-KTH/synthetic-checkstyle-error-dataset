@@ -1,0 +1,4 @@
+152c152
+<                 CompiledEntityLocalizations.fnGetByTopicAndKey(DatabaseConstants.L10N_TOPIC_VIEW_NAME, queryName))
+---
+>                 CompiledEntityLocalizations.fnGetByTopicAndKey(DatabaseConstants	.L10N_TOPIC_VIEW_NAME, queryName))

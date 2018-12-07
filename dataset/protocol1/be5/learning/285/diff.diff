@@ -1,0 +1,5 @@
+14c14,15
+<     FORMAT_YYYYMMDD("'YYYYMMDD'", "'%Y%m%d'"),
+---
+>     FORMAT_YYYYMMDD
+> ("'YYYYMMDD'", "'%Y%m%d'"),

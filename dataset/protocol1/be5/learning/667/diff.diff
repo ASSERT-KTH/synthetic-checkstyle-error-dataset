@@ -1,0 +1,5 @@
+8c8,9
+<         this.nodePrefix = "THEN";
+---
+>         this.nodePrefix = 
+> "THEN";

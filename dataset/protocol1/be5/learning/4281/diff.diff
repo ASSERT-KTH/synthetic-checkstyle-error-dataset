@@ -1,0 +1,4 @@
+7c7
+< public class AstExcept extends SimpleNode
+---
+> public class AstExcept 	extends SimpleNode

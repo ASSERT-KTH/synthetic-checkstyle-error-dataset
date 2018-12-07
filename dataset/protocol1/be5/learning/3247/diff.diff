@@ -1,0 +1,4 @@
+79c79
+<     public static final String LT = "<";
+---
+>     	public static final String LT = "<";

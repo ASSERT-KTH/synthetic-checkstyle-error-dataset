@@ -1,0 +1,6 @@
+1c1
+< package com.developmentontheedge.be5.server.queries;
+\ No newline at end of file
+---
+> package com.developmentontheedge	.be5.server.queries;
+\ No newline at end of file

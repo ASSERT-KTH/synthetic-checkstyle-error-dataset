@@ -1,0 +1,5 @@
+212c212,213
+<         result = 31 * result + (calendar != null ? calendar.hashCode() : 0);
+---
+>         
+> result = 31 * result + (calendar != null ? calendar.hashCode() : 0);

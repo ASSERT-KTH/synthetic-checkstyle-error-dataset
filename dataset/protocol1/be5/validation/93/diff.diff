@@ -1,0 +1,4 @@
+225c225
+<                 props.put("mail.smtp.starttls.enable", "true");
+---
+>                 props.put ("mail.smtp.starttls.enable", "true");

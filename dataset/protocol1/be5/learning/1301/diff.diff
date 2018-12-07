@@ -1,0 +1,5 @@
+24c24,25
+<     public static final int TIMES_PRIORITY = 4; // times, divide
+---
+>     public static 
+> final int TIMES_PRIORITY = 4; // times, divide

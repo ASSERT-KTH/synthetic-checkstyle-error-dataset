@@ -1,0 +1,4 @@
+18c18
+<         AstInValueList astInValueList = new AstInValueList(SqlParserTreeConstants.JJTINVALUELIST);
+---
+>         AstInValueList astInValueList =new AstInValueList(SqlParserTreeConstants.JJTINVALUELIST);

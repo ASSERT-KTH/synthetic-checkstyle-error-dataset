@@ -1,0 +1,4 @@
+172c172
+<     public static MonthlyDate max(MonthlyDate a, MonthlyDate b)
+---
+>     public static MonthlyDate max( MonthlyDate a, MonthlyDate b)

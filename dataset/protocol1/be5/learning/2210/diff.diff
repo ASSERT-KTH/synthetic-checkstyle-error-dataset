@@ -1,0 +1,4 @@
+12c12
+<     protected final void generate(Request req, Response res, String subUrl)
+---
+>     protected final void generate(Request 	req, Response res, String subUrl)

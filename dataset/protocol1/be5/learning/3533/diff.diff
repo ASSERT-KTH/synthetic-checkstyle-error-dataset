@@ -1,0 +1,5 @@
+11c11,12
+<         return parse(new ResultSetWrapper(rs));
+---
+>         return parse(new ResultSetWrapper
+> (rs));

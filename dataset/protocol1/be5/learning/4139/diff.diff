@@ -1,0 +1,4 @@
+129c129
+<     public static final PredefinedFunction FUNC_MINUS = new PredefinedFunction(MINUS, Function.PLUS_PRIORITY, 2);
+---
+>     public static final PredefinedFunction FUNC_MINUS =new PredefinedFunction(MINUS, Function.PLUS_PRIORITY, 2);

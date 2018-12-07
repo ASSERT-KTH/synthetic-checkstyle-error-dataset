@@ -1,0 +1,5 @@
+56c56,57
+<         if (txConnection != null && TRANSACT_CONN_COUNT.get() == 0)
+---
+>         if (txConnection != null 
+> && TRANSACT_CONN_COUNT.get() == 0)

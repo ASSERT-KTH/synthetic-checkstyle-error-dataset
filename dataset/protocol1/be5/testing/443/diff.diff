@@ -1,0 +1,5 @@
+15c15,16
+<             "filterKeyProperty", "filterVal", "filterValProperty", "exec", "queryNameProperty", "entityProperty", "splitParameter",
+---
+>             "filterKeyProperty", "filterVal", "filterValProperty", "exec", "queryNameProperty", 
+> "entityProperty", "splitParameter",

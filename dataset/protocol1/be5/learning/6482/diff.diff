@@ -1,0 +1,4 @@
+15c15
+<     public AstInterval(SimpleNode child)
+---
+>     	public AstInterval(SimpleNode child)

@@ -1,0 +1,4 @@
+23c23
+<     Token isToken, notToken, nullToken;
+---
+>     Token isToken, notToken,nullToken;

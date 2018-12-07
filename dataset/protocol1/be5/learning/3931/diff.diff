@@ -1,0 +1,4 @@
+101c101
+<         return node -> node instanceof AstStringConstant && ((AstStringConstant) node).getValueUnescaped().equals(str);
+---
+>         return node -> node instanceof AstStringConstant &&((AstStringConstant) node).getValueUnescaped().equals(str);

@@ -1,0 +1,4 @@
+246c246
+<                     n.dump(ps, prefix + " ");
+---
+>                     n.dump(ps, prefix 	+ " ");

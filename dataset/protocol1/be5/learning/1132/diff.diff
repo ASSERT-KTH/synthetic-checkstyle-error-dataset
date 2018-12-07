@@ -1,0 +1,4 @@
+41c41
+<             jaxbMarshaller.marshal(object, out);
+---
+>             jaxbMarshaller.marshal( object, out);

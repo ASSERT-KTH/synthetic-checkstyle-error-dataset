@@ -1,0 +1,5 @@
+7,8c7
+< import com.developmentontheedge.beans.DynamicProperty;
+< import com.developmentontheedge.beans.DynamicPropertySet;
+---
+> import com.developmentontheedge.beans.DynamicProperty;import com.developmentontheedge.beans.DynamicPropertySet;

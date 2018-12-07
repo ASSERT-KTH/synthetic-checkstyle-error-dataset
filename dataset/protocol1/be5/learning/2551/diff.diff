@@ -1,0 +1,4 @@
+34c34
+<         this.userInfoProvider = userInfoProvider1;
+---
+>         this.userInfoProvider =userInfoProvider1;

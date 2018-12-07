@@ -1,0 +1,4 @@
+22c22
+<     public static final String ACTION_LOGGING = "logging";
+---
+>     public static final String ACTION_LOGGING 	= "logging";

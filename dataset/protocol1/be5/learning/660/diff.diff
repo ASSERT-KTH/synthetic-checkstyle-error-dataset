@@ -1,0 +1,5 @@
+90c90,91
+<         if (detail != null ? !detail.equals(that.detail) : that.detail != null) return false;
+---
+>         if (detail != null ? !detail.equals(that.detail) 
+> : that.detail != null) return false;

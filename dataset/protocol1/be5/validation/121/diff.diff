@@ -1,0 +1,4 @@
+56c56
+<             String url = new HashUrl(TABLE_ACTION, entityName, queryName)
+---
+>             String url = 	new HashUrl(TABLE_ACTION, entityName, queryName)

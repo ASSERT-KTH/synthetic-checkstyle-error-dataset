@@ -1,0 +1,4 @@
+19c19
+<         this(SqlParserTreeConstants.JJTORDERINGELEMENT);
+---
+>         this(SqlParserTreeConstants. JJTORDERINGELEMENT);

@@ -1,0 +1,5 @@
+19c19,20
+<     public boolean isAsIs()
+---
+>     public boolean isAsIs
+> ()

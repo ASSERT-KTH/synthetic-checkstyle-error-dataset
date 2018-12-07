@@ -1,0 +1,4 @@
+261c261
+<         declareFunction(context, 0, "ROW_NUMBER");
+---
+>         declareFunction(context,0, "ROW_NUMBER");

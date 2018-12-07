@@ -1,0 +1,4 @@
+30c30
+<                 return Long.valueOf((String) value);
+---
+>                 return Long.valueOf((String) 	value);

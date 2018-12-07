@@ -1,0 +1,4 @@
+90c90
+<     ColumnDef getColumn(String entityName, String columnName);
+---
+>     	ColumnDef getColumn(String entityName, String columnName);

@@ -1,0 +1,4 @@
+10c10
+< public @interface DirtyRealization
+---
+> public @ interface DirtyRealization

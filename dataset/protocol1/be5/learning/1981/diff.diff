@@ -1,0 +1,4 @@
+45c45
+<         if (offset != 0)
+---
+>         	if (offset != 0)

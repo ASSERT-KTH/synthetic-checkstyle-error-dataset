@@ -1,0 +1,4 @@
+76c76
+<         if (subIndex != -1)
+---
+>         if (subIndex != - 1)

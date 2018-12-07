@@ -1,0 +1,5 @@
+71c71,72
+<         for (SimpleNode child : arguments)
+---
+>         for 
+> (SimpleNode child : arguments)

@@ -1,0 +1,4 @@
+280c280
+<                             .node(AstNumericConstant.of(AstStringConstant.getASCII(matcher.group(1).charAt(0)))));
+---
+>                             .node(AstNumericConstant.of(AstStringConstant.getASCII(matcher.group(1).charAt(0)))) );

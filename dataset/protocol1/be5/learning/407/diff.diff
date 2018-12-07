@@ -1,0 +1,5 @@
+31c31,32
+<     public AstTableName setValue(String value)
+---
+>     
+> public AstTableName setValue(String value)

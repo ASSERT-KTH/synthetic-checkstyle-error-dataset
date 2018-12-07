@@ -1,0 +1,4 @@
+640c640
+<         return new java.sql.Timestamp(System.currentTimeMillis());
+---
+>         return new java.sql.Timestamp( System.currentTimeMillis());

@@ -1,0 +1,4 @@
+30c30
+<             if (where.child(0).format().trim().equals("TRUE"))
+---
+>             if (where.child(0 ).format().trim().equals("TRUE"))

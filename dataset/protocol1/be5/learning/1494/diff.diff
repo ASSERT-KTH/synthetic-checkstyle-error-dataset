@@ -1,0 +1,5 @@
+9c9,10
+<     public GDynamicPropertySetSupport params = new GDynamicPropertySetSupport();
+---
+>     
+> public GDynamicPropertySetSupport params = new GDynamicPropertySetSupport();

@@ -1,0 +1,4 @@
+9c9
+< public class InitialRowsBuilder extends TableRowsBuilder<InitialRow, Object>
+---
+> public class InitialRowsBuilder 	extends TableRowsBuilder<InitialRow, Object>

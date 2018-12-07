@@ -1,0 +1,4 @@
+34c34
+<         database.getEntity(getInfo().getEntityName()).set(context.getRecord(), (DynamicPropertySet) parameters);
+---
+>         database.getEntity(getInfo(). getEntityName()).set(context.getRecord(), (DynamicPropertySet) parameters);

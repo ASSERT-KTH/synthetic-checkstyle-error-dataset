@@ -1,0 +1,4 @@
+9c9
+<         this(SqlParserTreeConstants.JJTUPDATESETLIST);
+---
+>         this(SqlParserTreeConstants	.JJTUPDATESETLIST);

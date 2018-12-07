@@ -1,0 +1,4 @@
+8c8
+<     public AstBeThen(int id)
+---
+>     public 	AstBeThen(int id)

@@ -1,0 +1,5 @@
+75,76c75
+<     public void setResultFinished(String message, FrontendAction... frontendActions)
+<     {
+---
+>     public void setResultFinished(String message, FrontendAction... frontendActions)    {

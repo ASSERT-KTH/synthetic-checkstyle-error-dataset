@@ -1,0 +1,5 @@
+344,345c344
+<     protected AstStringConstant getLastString(AstConcatExpression concat)
+<     {
+---
+>     protected AstStringConstant getLastString(AstConcatExpression concat)    {

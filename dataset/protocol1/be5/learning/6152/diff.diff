@@ -1,0 +1,4 @@
+26c26
+<             return Action.open(new HashUrl("api", "download", query.getEntity().getName(), query.getName()).toString());
+---
+>             return Action.open(new HashUrl("api", "download", query.getEntity()	.getName(), query.getName()).toString());

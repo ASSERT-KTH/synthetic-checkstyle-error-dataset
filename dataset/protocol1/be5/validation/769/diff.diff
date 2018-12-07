@@ -1,0 +1,4 @@
+37c37
+<     public JsonApiModel generateJson(Request req, Response res, String requestSubUrl)
+---
+>     public JsonApiModel generateJson( Request req, Response res, String requestSubUrl)

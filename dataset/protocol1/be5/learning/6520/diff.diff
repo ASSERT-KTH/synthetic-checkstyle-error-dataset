@@ -1,0 +1,5 @@
+101c101,102
+<         if (this == o) return true;
+---
+>         if (this == 
+> o) return true;

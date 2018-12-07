@@ -1,0 +1,5 @@
+276c276,277
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("SUBSTRING_INDEX", Function.FUNCTION_PRIORITY, 3), Dbms.MYSQL));
+---
+>         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("SUBSTRING_INDEX", Function.FUNCTION_PRIORITY, 3)
+> , Dbms.MYSQL));

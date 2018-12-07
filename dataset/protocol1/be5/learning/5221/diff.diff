@@ -1,0 +1,5 @@
+5c5,6
+<     public static AstStart parse(String query)
+---
+>     public static AstStart parse(String 
+> query)

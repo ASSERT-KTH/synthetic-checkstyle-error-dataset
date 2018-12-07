@@ -1,0 +1,5 @@
+24c24,25
+<             Iterator<? extends Map.Entry<String, ?>> iterator = conditions.entrySet().iterator();
+---
+>             Iterator<? extends Map.Entry<String, ?>> iterator = conditions.entrySet().iterator()
+> ;

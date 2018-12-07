@@ -1,0 +1,5 @@
+11c11,12
+<     public AstOrderedSetAggregate(AstFunNode funNode, AstWithinGroup withinGroup)
+---
+>     public AstOrderedSetAggregate(AstFunNode 
+> funNode, AstWithinGroup withinGroup)

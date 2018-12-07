@@ -1,0 +1,4 @@
+737c737
+<         return _res.getBlob(columnIndex);
+---
+>         return _res.getBlob( columnIndex);

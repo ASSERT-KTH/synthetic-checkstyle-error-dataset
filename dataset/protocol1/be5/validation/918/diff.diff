@@ -1,0 +1,4 @@
+7c7
+<     public AstJoinSpecification(int id)
+---
+>     public AstJoinSpecification(int 	id)

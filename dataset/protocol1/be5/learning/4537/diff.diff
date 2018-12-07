@@ -1,0 +1,4 @@
+39c39
+<     public UserInfo saveUser(String userName, List<String> availableRoles, List<String> currentRoles,
+---
+>     public 	UserInfo saveUser(String userName, List<String> availableRoles, List<String> currentRoles,

@@ -1,0 +1,4 @@
+20c20
+<     int getCacheSize(String name);
+---
+>     int getCacheSize(String 	name);

@@ -1,0 +1,5 @@
+7c7,8
+<     public AstTableName(String name)
+---
+>     public 
+> AstTableName(String name)

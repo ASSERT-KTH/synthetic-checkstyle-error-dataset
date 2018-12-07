@@ -1,0 +1,4 @@
+4c4
+< import org.aopalliance.intercept.MethodInterceptor;
+---
+> import org. aopalliance.intercept.MethodInterceptor;

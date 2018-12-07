@@ -1,0 +1,4 @@
+78c78
+<         setAttributes(dp, map);
+---
+>         setAttributes(dp, map) ;

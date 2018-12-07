@@ -1,0 +1,4 @@
+10c10
+<         setFunction(DefaultParserContext.FUNC_OR);
+---
+>         setFunction (DefaultParserContext.FUNC_OR);

@@ -1,0 +1,4 @@
+49c49
+<         List<String> userRoles = userInfoProvider.get().getCurrentRoles();
+---
+>         List <String> userRoles = userInfoProvider.get().getCurrentRoles();

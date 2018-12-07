@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "139", "column": "14", "message": "'catch' is not followed by whitespace.", "type": "WhitespaceAround"}

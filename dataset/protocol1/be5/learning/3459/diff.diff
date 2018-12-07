@@ -1,0 +1,5 @@
+624c624,625
+<         return isSameDay(curDate, beginDate) || curDate.after(beginDate) && curDate.before(endDate);
+---
+>         
+> return isSameDay(curDate, beginDate) || curDate.after(beginDate) && curDate.before(endDate);

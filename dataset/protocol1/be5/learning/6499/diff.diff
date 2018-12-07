@@ -1,0 +1,5 @@
+162c162,163
+<             title = get(language, entityName, queryName, name);
+---
+>             title = get(language, entityName, queryName, name)
+> ;

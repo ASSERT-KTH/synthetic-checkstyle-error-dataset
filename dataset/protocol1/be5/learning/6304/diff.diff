@@ -1,0 +1,4 @@
+44c44
+<                 return (T) longFromDbObject(object);
+---
+>                 return 	(T) longFromDbObject(object);

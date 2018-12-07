@@ -1,0 +1,5 @@
+23c23,24
+<         Field[] fields = BeanInfoConstants.class.getDeclaredFields();
+---
+>         Field[] fields = BeanInfoConstants.class.getDeclaredFields
+> ();

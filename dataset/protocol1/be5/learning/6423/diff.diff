@@ -1,0 +1,5 @@
+14c14,15
+<         addChild(node);
+---
+>         addChild
+> (node);

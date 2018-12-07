@@ -1,0 +1,5 @@
+16c16,17
+<     public AstDelete(int id)
+---
+>     public AstDelete(int 
+> id)

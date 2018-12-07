@@ -1,0 +1,4 @@
+5c5
+< public class SilentInsertOperation extends InsertOperation
+---
+> public class SilentInsertOperation 	extends InsertOperation

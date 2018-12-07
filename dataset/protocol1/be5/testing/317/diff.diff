@@ -1,0 +1,4 @@
+28c28
+<         return (AstTableRef) child(1);
+---
+>         return (AstTableRef)child(1);

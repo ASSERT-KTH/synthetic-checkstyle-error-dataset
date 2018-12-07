@@ -1,0 +1,5 @@
+217c217,218
+<         String password = coreUtils.getSystemSetting("SMTP_AUTH_PASSWORD");
+---
+>         String password = 
+> coreUtils.getSystemSetting("SMTP_AUTH_PASSWORD");

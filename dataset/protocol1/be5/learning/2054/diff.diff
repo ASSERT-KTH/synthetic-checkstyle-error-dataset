@@ -1,0 +1,5 @@
+130c130,131
+<                 return trunc.node(opTimes.node(dateDifference, AstNumericConstant.of(24 * 60)));
+---
+>                 return trunc.node
+> (opTimes.node(dateDifference, AstNumericConstant.of(24 * 60)));

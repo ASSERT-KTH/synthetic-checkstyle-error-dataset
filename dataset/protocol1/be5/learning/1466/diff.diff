@@ -1,0 +1,4 @@
+91c91
+<                 metaClass = constructor.newInstance(clazz);
+---
+>                 metaClass = constructor.newInstance(clazz) ;

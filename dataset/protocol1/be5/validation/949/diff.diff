@@ -1,0 +1,4 @@
+37c37
+<         projectProvider.addToReload(this::clearAll);
+---
+>         	projectProvider.addToReload(this::clearAll);

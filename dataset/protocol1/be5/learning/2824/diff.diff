@@ -1,0 +1,4 @@
+271c271
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("DENSE_RANK", Function.FUNCTION_PRIORITY, 0), Dbms.DB2, Dbms.POSTGRESQL, Dbms.ORACLE, Dbms.SQLSERVER));
+---
+>         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("DENSE_RANK", Function.FUNCTION_PRIORITY, 0),Dbms.DB2, Dbms.POSTGRESQL, Dbms.ORACLE, Dbms.SQLSERVER));

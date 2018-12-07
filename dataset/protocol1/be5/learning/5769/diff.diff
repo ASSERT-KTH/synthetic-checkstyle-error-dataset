@@ -1,0 +1,5 @@
+3c3,4
+< import com.developmentontheedge.be5.metadata.model.Project;
+---
+> import com.developmentontheedge.be5.metadata.model.Project
+> ;

@@ -1,0 +1,4 @@
+9c9
+<     String getSystemSettingInSection(String section, String param);
+---
+>     String getSystemSettingInSection( String section, String param);

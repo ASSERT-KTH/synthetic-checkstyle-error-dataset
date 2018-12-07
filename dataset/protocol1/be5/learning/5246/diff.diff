@@ -1,0 +1,4 @@
+36c36
+<         return StreamEx.of(dir, nulls).nonNull().map(n -> n.image).joining(" ");
+---
+>         return StreamEx.of(dir, nulls).nonNull().map(n -> n.image).joining (" ");

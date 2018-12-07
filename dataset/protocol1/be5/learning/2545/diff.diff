@@ -1,0 +1,4 @@
+31c31
+<         this(new AstIdentifierConstant(tableName, false),
+---
+>         this(new AstIdentifierConstant( tableName, false),

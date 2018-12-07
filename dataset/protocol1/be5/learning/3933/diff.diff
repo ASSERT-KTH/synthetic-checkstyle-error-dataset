@@ -1,0 +1,4 @@
+95c95
+<     default boolean columnExists(String entity, String column)
+---
+>     default boolean columnExists(String entity,String column)

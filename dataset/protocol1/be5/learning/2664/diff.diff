@@ -1,0 +1,5 @@
+27c27,28
+<             if (PropertyAccessHelper.isPropertyAccess(property))
+---
+>             if (PropertyAccessHelper.isPropertyAccess
+> (property))

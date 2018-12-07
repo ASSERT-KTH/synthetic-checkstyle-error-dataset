@@ -1,0 +1,5 @@
+22c22,23
+<             return Action.open(query.getQuery());
+---
+>             
+> return Action.open(query.getQuery());

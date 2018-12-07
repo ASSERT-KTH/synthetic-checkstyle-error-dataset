@@ -1,0 +1,5 @@
+25,26c25
+<     protected InitialRow createRow(RowModel rowModel, List<Object> cells)
+<     {
+---
+>     protected InitialRow createRow(RowModel rowModel, List<Object> cells)    {

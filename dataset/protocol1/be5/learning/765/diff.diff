@@ -1,0 +1,4 @@
+86c86
+<         AstBeMacroArgumentList argumentList = (AstBeMacroArgumentList) macro.child(0);
+---
+>         AstBeMacroArgumentList argumentList = (AstBeMacroArgumentList) macro.child(0 );

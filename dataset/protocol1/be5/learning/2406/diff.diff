@@ -1,0 +1,5 @@
+386c386,387
+<         public String getEntity()
+---
+>         public 
+> String getEntity()

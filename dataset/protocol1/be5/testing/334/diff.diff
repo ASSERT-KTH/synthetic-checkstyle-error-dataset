@@ -1,0 +1,4 @@
+61c61
+<             else if (valueObj.getClass() == char[].class)
+---
+>             else if (valueObj.getClass() == char[]. class)

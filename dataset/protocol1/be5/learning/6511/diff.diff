@@ -1,0 +1,5 @@
+10,11c10
+< import com.developmentontheedge.be5.base.services.impl.Be5CachesImpl;
+< import com.developmentontheedge.be5.base.services.impl.LogConfigurator;
+---
+> import com.developmentontheedge.be5.base.services.impl.Be5CachesImpl;import com.developmentontheedge.be5.base.services.impl.LogConfigurator;

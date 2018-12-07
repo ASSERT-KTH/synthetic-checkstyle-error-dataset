@@ -1,0 +1,4 @@
+120c120
+<                 node = DefaultParserContext.FUNC_EQ.node(entry.getKey().asNode(), toNode(parameter.get(0)));
+---
+>                 node = DefaultParserContext.FUNC_EQ.node(entry. getKey().asNode(), toNode(parameter.get(0)));

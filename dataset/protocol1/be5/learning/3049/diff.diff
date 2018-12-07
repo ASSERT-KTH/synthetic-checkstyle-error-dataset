@@ -1,0 +1,4 @@
+3c3
+< import com.developmentontheedge.be5.base.model.groovy.DynamicPropertyMetaClass;
+---
+> import com.developmentontheedge. be5.base.model.groovy.DynamicPropertyMetaClass;

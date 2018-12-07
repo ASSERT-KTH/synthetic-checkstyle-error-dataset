@@ -1,0 +1,5 @@
+101c101,102
+<         Objects.requireNonNull(where);
+---
+>         Objects.requireNonNull
+> (where);

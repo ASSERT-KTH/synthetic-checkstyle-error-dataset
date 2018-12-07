@@ -1,0 +1,4 @@
+76c76
+<         if (function.getPriority() == Function.FUNCTION_PRIORITY || function.getPriority() == Function.AGGREGATE_FUNCTION_PRIORITY)
+---
+>         if 	(function.getPriority() == Function.FUNCTION_PRIORITY || function.getPriority() == Function.AGGREGATE_FUNCTION_PRIORITY)

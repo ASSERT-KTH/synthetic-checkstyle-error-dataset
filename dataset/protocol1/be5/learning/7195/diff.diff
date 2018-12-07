@@ -1,0 +1,4 @@
+4c4
+< import groovy.lang.DelegatingMetaClass;
+---
+> import groovy.lang	.DelegatingMetaClass;

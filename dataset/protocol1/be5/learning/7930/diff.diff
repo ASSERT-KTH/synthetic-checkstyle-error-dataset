@@ -1,0 +1,4 @@
+22c22
+<         this(SqlParserTreeConstants.JJTCOUNT);
+---
+>         this(SqlParserTreeConstants.JJTCOUNT) ;

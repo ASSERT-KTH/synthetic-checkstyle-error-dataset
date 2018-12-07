@@ -1,0 +1,4 @@
+30c30
+<     public DocumentController(DocumentGenerator documentGenerator, ErrorModelHelper errorModelHelper)
+---
+>     public DocumentController (DocumentGenerator documentGenerator, ErrorModelHelper errorModelHelper)

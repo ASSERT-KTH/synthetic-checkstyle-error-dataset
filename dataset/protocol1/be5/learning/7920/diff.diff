@@ -1,0 +1,4 @@
+9c9
+<     public final boolean requiresConfirmation;
+---
+>     public final 	boolean requiresConfirmation;

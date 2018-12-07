@@ -1,0 +1,4 @@
+1c1
+< package com.developmentontheedge.be5.server.model.table;
+---
+> package com.developmentontheedge	.be5.server.model.table;

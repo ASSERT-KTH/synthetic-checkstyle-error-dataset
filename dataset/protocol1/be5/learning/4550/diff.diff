@@ -1,0 +1,4 @@
+96c96
+<         return !children.isEmpty() && children.get(0) instanceof AstNestedQuery;
+---
+>         return !children.isEmpty() && 	children.get(0) instanceof AstNestedQuery;

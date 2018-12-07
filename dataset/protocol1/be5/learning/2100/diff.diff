@@ -1,0 +1,5 @@
+7c7,8
+<     private static final String isNull = "IS NULL";
+---
+>     private static final String isNull = "IS NULL"
+> ;

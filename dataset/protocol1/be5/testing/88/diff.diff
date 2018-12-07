@@ -1,0 +1,5 @@
+181,182c181
+<     protected void transformTranslate(AstFunNode node)
+<     {
+---
+>     protected void transformTranslate(AstFunNode node)    {

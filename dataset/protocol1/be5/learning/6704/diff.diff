@@ -1,0 +1,5 @@
+73,74c73
+<         if (userInfo.getCurrentRoles().contains(RoleType.ROLE_SYSTEM_DEVELOPER))
+<         {
+---
+>         if (userInfo.getCurrentRoles().contains(RoleType.ROLE_SYSTEM_DEVELOPER))        {

@@ -1,0 +1,4 @@
+204c204
+<         node.replaceWith(parserContext.getFunction("to_char").node(node.child(0), new AstStringConstant(formatMask, true)));
+---
+>         node.replaceWith(parserContext.getFunction("to_char").node(node	.child(0), new AstStringConstant(formatMask, true)));

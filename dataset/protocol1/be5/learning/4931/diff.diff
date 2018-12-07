@@ -1,0 +1,4 @@
+178c178
+<         Query allRecords = entity.getQueries().get(DatabaseConstants.ALL_RECORDS_VIEW);
+---
+>         Query allRecords = entity.getQueries()	.get(DatabaseConstants.ALL_RECORDS_VIEW);

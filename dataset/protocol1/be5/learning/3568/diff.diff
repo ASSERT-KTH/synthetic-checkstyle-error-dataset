@@ -1,0 +1,4 @@
+45c45
+<     protected JsonApiModel data(ResourceData data)
+---
+>     	protected JsonApiModel data(ResourceData data)

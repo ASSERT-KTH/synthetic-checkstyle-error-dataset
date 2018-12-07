@@ -1,0 +1,4 @@
+10c10
+< import com.developmentontheedge.be5.metadata.util.JULLogger;
+---
+> 	import com.developmentontheedge.be5.metadata.util.JULLogger;

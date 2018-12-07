@@ -1,0 +1,4 @@
+39c39
+<         AstDerivedColumn col = new AstDerivedColumn(new AstFieldReference(tableAlias, columnName), alias).setSuffixComma(true)
+---
+>         AstDerivedColumn 	col = new AstDerivedColumn(new AstFieldReference(tableAlias, columnName), alias).setSuffixComma(true)

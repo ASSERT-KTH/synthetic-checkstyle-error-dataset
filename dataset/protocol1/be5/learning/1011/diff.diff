@@ -1,0 +1,5 @@
+64c64,65
+<     public static Collection<String> getSearchPresetNames(Map<String, Object> params)
+---
+>     public static Collection<String> getSearchPresetNames(Map<String, Object> 
+> params)

@@ -1,0 +1,4 @@
+38c38
+<         for (LanguageLocalizations languageLocalizations : module.getLocalizations())
+---
+>         for (LanguageLocalizations languageLocalizations : module.getLocalizations ())

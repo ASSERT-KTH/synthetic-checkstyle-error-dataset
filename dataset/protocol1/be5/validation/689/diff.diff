@@ -1,0 +1,4 @@
+81c81
+<         if (!reqWithoutContext.endsWith("/")) reqWithoutContext += "/";
+---
+>         if 	(!reqWithoutContext.endsWith("/")) reqWithoutContext += "/";

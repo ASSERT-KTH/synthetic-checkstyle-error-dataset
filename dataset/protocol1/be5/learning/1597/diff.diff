@@ -1,0 +1,5 @@
+378c378,379
+<     public static int getMinutes(Date date)
+---
+>     public static int getMinutes(Date 
+> date)

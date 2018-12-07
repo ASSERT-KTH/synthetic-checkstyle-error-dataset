@@ -1,0 +1,4 @@
+83c83
+<     public SimpleNode getReplacement(AstFunNode node)
+---
+>     public SimpleNode getReplacement (AstFunNode node)

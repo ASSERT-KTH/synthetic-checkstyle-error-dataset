@@ -1,0 +1,5 @@
+64c64,65
+<         ui.setLocale(meta.getLocale(locale));
+---
+>         ui.setLocale(meta.getLocale(locale))
+> ;

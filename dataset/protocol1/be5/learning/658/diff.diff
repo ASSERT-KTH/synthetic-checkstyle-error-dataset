@@ -1,0 +1,4 @@
+12c12
+< import com.developmentontheedge.sql.model.AstNullPredicate;
+---
+> import com.developmentontheedge.sql. model.AstNullPredicate;

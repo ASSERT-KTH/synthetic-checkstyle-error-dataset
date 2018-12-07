@@ -1,0 +1,4 @@
+7c7
+<     public AstJoin node(String table, SimpleNode specification)
+---
+>     public AstJoin node(String table,SimpleNode specification)

@@ -1,0 +1,4 @@
+122c122
+<         cal.set(Calendar.DAY_OF_MONTH, 1);
+---
+>         cal	.set(Calendar.DAY_OF_MONTH, 1);

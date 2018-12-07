@@ -1,0 +1,5 @@
+64c64,65
+<     List<Query> getQueries(Entity entity, List<String> roles);
+---
+>     List<Query> getQueries(Entity entity, List<String> 
+> roles);

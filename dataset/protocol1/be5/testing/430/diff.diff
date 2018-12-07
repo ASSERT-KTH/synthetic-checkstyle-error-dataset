@@ -1,0 +1,4 @@
+93c93
+<         bind(UserInfoProvider.class).to(UserInfoProviderImpl.class).in(Scopes.SINGLETON);
+---
+>         bind(UserInfoProvider.class).to(UserInfoProviderImpl. class).in(Scopes.SINGLETON);

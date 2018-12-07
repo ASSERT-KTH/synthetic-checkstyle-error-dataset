@@ -1,0 +1,5 @@
+49c49,50
+<     void removeColumnSettingForUser(String table_name, String query_name, String column_name,
+---
+>     void removeColumnSettingForUser(String table_name, 
+> String query_name, String column_name,

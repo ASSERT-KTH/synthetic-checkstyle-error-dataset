@@ -1,0 +1,5 @@
+31c31,32
+<     private final int maxNumberOfParams;
+---
+>     
+> private final int maxNumberOfParams;

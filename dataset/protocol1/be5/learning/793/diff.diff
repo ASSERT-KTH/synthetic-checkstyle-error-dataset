@@ -1,0 +1,4 @@
+88c88
+<         map.put("EXTRA_ATTRS", value);
+---
+>         map.put("EXTRA_ATTRS" , value);

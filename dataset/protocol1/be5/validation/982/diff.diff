@@ -1,0 +1,5 @@
+41c41,42
+<         projectProvider.addToReload(() -> templateEngine.clearTemplateCache());
+---
+>         projectProvider.addToReload(() -> templateEngine.clearTemplateCache())
+> ;

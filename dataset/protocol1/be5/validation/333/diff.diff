@@ -1,0 +1,5 @@
+272c272,273
+<         String fromAddr = coreUtils.getSystemSetting("MAIL_FROM_ADDRESS");
+---
+>         String fromAddr = 
+> coreUtils.getSystemSetting("MAIL_FROM_ADDRESS");

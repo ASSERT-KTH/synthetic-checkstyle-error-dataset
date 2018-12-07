@@ -1,0 +1,5 @@
+15c15,16
+<             return JsonFactory.jsonb.fromJson(entityItem.getLayout(),
+---
+>             return JsonFactory.jsonb.fromJson
+> (entityItem.getLayout(),

@@ -1,0 +1,4 @@
+25c25
+<         if (operationParams.get(SEARCH_PRESETS_PARAM) == null)
+---
+>         if 	(operationParams.get(SEARCH_PRESETS_PARAM) == null)

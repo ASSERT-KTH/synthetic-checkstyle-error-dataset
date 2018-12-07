@@ -1,0 +1,5 @@
+20,21c20
+<     public Token getSpecialPrefix()
+<     {
+---
+>     public Token getSpecialPrefix()    {

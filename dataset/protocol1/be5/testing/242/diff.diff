@@ -1,0 +1,5 @@
+51c51,52
+<         if (!Arrays.equals(data, that.data)) return false;
+---
+>         if (!Arrays.equals(data, that.data)) 
+> return false;

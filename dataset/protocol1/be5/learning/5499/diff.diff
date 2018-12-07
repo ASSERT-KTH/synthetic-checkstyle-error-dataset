@@ -1,0 +1,4 @@
+186c186
+<         SimpleNode dateAdd = DATEADD.node(new AstIdentifierConstant("MONTH"), opConcat.node(dateDiff, AstNumericConstant.of(1)), AstNumericConstant.of(0));
+---
+>         SimpleNode dateAdd = DATEADD.node(new AstIdentifierConstant("MONTH"), opConcat.node(dateDiff, AstNumericConstant.of (1)), AstNumericConstant.of(0));

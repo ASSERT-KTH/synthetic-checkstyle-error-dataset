@@ -1,0 +1,5 @@
+16c16,17
+< public class Be5CachesImpl implements Be5Caches, Configurable<Be5CachesImpl.Config>
+---
+> public class Be5CachesImpl implements Be5Caches, 
+> Configurable<Be5CachesImpl.Config>

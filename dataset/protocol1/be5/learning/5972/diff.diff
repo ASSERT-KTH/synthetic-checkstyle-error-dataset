@@ -1,0 +1,4 @@
+76c76
+<                         params = getParams(query.getQuery().replaceFirst("o\\?", "").split("&"));
+---
+>                         params = getParams(query.getQuery().replaceFirst("o\\?", "" ).split("&"));

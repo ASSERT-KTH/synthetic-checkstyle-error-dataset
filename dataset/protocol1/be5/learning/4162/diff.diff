@@ -1,0 +1,5 @@
+10c10,11
+<     public static AstReplacementParameter get()
+---
+>     public static AstReplacementParameter get
+> ()

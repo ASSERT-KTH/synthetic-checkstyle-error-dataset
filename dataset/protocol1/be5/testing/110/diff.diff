@@ -1,0 +1,4 @@
+137c137
+<             return localizations.get(getLanguage(), entity, query, clearContent)
+---
+>             return localizations.get(getLanguage() , entity, query, clearContent)

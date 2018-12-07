@@ -1,0 +1,4 @@
+5c5
+< public class SilentDeleteOperation extends DeleteOperation
+---
+> public class SilentDeleteOperation extends 	DeleteOperation

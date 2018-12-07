@@ -1,0 +1,5 @@
+17c17,18
+<         log.info("Stage: " + stage);
+---
+>         log.info("Stage: " + stage)
+> ;

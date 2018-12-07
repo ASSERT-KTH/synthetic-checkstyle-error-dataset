@@ -1,0 +1,5 @@
+17c17,18
+<         addChild(new AstIdentifierConstant(name));
+---
+>         addChild
+> (new AstIdentifierConstant(name));

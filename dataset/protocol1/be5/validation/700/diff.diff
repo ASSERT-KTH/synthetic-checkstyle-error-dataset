@@ -1,0 +1,5 @@
+13c13,14
+<     public AstJoinSpecification(SimpleNode child)
+---
+>     public AstJoinSpecification
+> (SimpleNode child)

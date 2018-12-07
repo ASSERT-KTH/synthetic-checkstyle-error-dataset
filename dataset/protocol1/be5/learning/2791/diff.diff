@@ -1,0 +1,4 @@
+483c483
+<                         getLastString(concat).addChild(new AstStringPart(buffer.toString(), true));
+---
+>                         getLastString(concat).addChild(new AstStringPart(buffer.toString(), true ));

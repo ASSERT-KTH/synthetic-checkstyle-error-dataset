@@ -1,0 +1,4 @@
+16c16
+<         StringBuffer buf = new StringBuffer("Start, status=" + status + "\r\n");
+---
+>         StringBuffer buf = new StringBuffer("Start, status=" + status + "\r\n") ;

@@ -1,0 +1,5 @@
+94c94,95
+<                         configurations.put(loadClass(entry.getKey()), entry.getValue());
+---
+>                         configurations.put(loadClass(entry.getKey())
+> , entry.getValue());

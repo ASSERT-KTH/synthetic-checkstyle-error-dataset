@@ -1,0 +1,5 @@
+355c355,356
+<         else if (child instanceof AstParenthesis && AstFunNode.isFunction("-").test(child.child(0))
+---
+>         else if (child instanceof AstParenthesis 
+> && AstFunNode.isFunction("-").test(child.child(0))

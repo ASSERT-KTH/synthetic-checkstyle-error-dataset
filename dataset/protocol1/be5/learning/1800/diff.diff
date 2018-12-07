@@ -1,0 +1,5 @@
+2c2,3
+< package com.developmentontheedge.sql.model;
+---
+> package com.developmentontheedge.sql.model
+> ;

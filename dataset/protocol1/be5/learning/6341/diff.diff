@@ -1,0 +1,4 @@
+764c764
+<             int end = clearHtml.indexOf(closer, start + openerLength);
+---
+>             int end = clearHtml	.indexOf(closer, start + openerLength);

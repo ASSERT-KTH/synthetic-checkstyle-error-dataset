@@ -1,0 +1,5 @@
+64c64,65
+<             elem.addChild(AstNumericConstant.of(num));
+---
+>             
+> elem.addChild(AstNumericConstant.of(num));

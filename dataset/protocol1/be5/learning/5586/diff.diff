@@ -1,0 +1,4 @@
+28c28
+<         for (Module module : project.getModulesAndApplication())
+---
+>         	for (Module module : project.getModulesAndApplication())

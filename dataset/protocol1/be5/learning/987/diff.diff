@@ -1,0 +1,4 @@
+27c27
+<                 dbmsTransformer = new SqlServerTransformer();
+---
+>                 dbmsTransformer = new SqlServerTransformer ();

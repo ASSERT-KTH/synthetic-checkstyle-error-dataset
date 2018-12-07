@@ -1,0 +1,5 @@
+12c12,13
+<         bind(TemplateFilter.class).in(Scopes.SINGLETON);
+---
+>         
+> bind(TemplateFilter.class).in(Scopes.SINGLETON);

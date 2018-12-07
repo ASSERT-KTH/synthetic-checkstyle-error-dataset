@@ -1,0 +1,5 @@
+76c76,77
+<     default <T> List<T> scalarList(String sql, Object... params)
+---
+>     default <T> List<T> scalarList(String 
+> sql, Object... params)

@@ -1,0 +1,5 @@
+11c11,12
+< public abstract class DownloadOperationSupport extends OperationSupport implements Operation
+---
+> public abstract class DownloadOperationSupport extends 
+> OperationSupport implements Operation

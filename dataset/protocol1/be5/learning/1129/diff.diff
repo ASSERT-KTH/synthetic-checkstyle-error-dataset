@@ -1,0 +1,5 @@
+188c188,189
+<                 OperationId id = withIds ? new OperationId(entity.getName(), insertOperationName) : null;
+---
+>                 OperationId id = withIds ? new OperationId
+> (entity.getName(), insertOperationName) : null;

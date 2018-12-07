@@ -1,0 +1,4 @@
+1037c1037
+<         _res.updateBinaryStream(columnLabel, x, length);
+---
+>         _res.updateBinaryStream (columnLabel, x, length);

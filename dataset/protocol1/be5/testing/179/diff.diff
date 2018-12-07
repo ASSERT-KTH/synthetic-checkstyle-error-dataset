@@ -1,0 +1,4 @@
+21c21
+<     public AstJoinType getJoinType()
+---
+>     public AstJoinType 	getJoinType()

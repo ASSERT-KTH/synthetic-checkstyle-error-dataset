@@ -1,0 +1,4 @@
+24c24
+<                 Class<?> simpleStringTypeClass = SqlUtils.getSimpleStringTypeClass(metaData.getColumnType(i));
+---
+>                 Class<?> simpleStringTypeClass = SqlUtils.getSimpleStringTypeClass(metaData.getColumnType(i ));

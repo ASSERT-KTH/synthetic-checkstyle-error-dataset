@@ -1,0 +1,4 @@
+14c14
+<     public AstDateAdd(SimpleNode date, AstInterval interval, String type)
+---
+>     	public AstDateAdd(SimpleNode date, AstInterval interval, String type)

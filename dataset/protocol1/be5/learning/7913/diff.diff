@@ -1,0 +1,5 @@
+144c144,145
+<         String formatMask = df.getFormatOther();
+---
+>         String 
+> formatMask = df.getFormatOther();

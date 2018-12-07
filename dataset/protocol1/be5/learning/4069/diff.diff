@@ -1,0 +1,5 @@
+94c94,95
+<         catch (Be5Exception e)
+---
+>         catch 
+> (Be5Exception e)

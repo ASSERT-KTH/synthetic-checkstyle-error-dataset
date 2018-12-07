@@ -1,0 +1,5 @@
+17c17,18
+<         super(fn.getName(), fn.getPriority(), fn.minNumberOfParams(), fn.maxNumberOfParams());
+---
+>         super(fn.getName(), fn.getPriority(), 
+> fn.minNumberOfParams(), fn.maxNumberOfParams());

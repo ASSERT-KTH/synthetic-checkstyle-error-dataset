@@ -1,0 +1,4 @@
+13c13
+<     private static final Logger log = Logger.getLogger(LogConfigurator.class.getName());
+---
+>     private static final Logger log = Logger	.getLogger(LogConfigurator.class.getName());

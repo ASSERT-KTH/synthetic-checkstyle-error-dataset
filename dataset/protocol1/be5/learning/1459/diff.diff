@@ -1,0 +1,4 @@
+28c28
+<                 where.child(0).replaceWith(where.child(0).child(0));
+---
+>                 where. child(0).replaceWith(where.child(0).child(0));

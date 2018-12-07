@@ -1,0 +1,4 @@
+293c293
+<         if (parse.getQuery().children().select(AstDelete.class).findAny().isPresent())
+---
+>         if 	(parse.getQuery().children().select(AstDelete.class).findAny().isPresent())

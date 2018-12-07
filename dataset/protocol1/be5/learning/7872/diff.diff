@@ -1,0 +1,5 @@
+137c137,138
+<                 .filter(e -> e.getType() == entityType)
+---
+>                 .filter(e 
+> -> e.getType() == entityType)

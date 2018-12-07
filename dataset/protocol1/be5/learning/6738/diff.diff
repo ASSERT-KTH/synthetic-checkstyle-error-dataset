@@ -1,0 +1,4 @@
+36c36
+<         this.nodeSuffix = "AS " + dataType + ")";
+---
+>         this.nodeSuffix = "AS " + dataType 	+ ")";

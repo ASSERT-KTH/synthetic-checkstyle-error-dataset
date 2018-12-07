@@ -1,0 +1,5 @@
+60c60,61
+<     public static String replace(String string, Pattern pattern, Function<Matcher, String> evaluateReplacement)
+---
+>     public static String 
+> replace(String string, Pattern pattern, Function<Matcher, String> evaluateReplacement)

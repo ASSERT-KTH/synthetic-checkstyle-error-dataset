@@ -1,0 +1,4 @@
+56c56
+<         if ("concat".equals(name) || ("||".equals(name) && node.jjtGetNumChildren() > 1))
+---
+>         if ("concat".equals(name) || ("||".equals(name) && node.jjtGetNumChildren() >1))

@@ -1,0 +1,4 @@
+9c9
+<     private final String queryName;
+---
+>     private final 	String queryName;

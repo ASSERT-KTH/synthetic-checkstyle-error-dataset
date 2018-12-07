@@ -1,0 +1,5 @@
+9c9,10
+<     public AstInterval(int id)
+---
+>     public AstInterval(int 
+> id)

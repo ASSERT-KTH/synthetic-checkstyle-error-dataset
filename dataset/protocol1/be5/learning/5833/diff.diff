@@ -1,0 +1,4 @@
+100c100
+<     private static void simplifyNot(AstBooleanNot node)
+---
+>     private static 	void simplifyNot(AstBooleanNot node)

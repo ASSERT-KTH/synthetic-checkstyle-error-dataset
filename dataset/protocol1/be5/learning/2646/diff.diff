@@ -1,0 +1,5 @@
+84c84,85
+<             if (i == node.jjtGetNumChildren() - 2)
+---
+>             if (i == node.jjtGetNumChildren() 
+> - 2)

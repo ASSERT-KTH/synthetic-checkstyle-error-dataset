@@ -1,0 +1,5 @@
+21c21,22
+<         setPlaceHolder(ph.substring(2, ph.length() - 2));
+---
+>         setPlaceHolder(ph.substring(2, ph.length() 
+> - 2));

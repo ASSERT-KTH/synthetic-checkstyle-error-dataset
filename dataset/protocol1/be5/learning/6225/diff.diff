@@ -1,0 +1,4 @@
+13c13
+<         this.operationResult = operationResult;
+---
+>         	this.operationResult = operationResult;

@@ -1,0 +1,5 @@
+15c15,16
+<         return new AstLimit().setLimit(0, count);
+---
+>         return new AstLimit().setLimit(0
+> , count);

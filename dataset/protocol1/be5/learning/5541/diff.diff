@@ -1,0 +1,5 @@
+26c26,27
+<     private static final Logger log = Logger.getLogger(DataSourceServiceImpl.class.getName());
+---
+>     private static final Logger log 
+> = Logger.getLogger(DataSourceServiceImpl.class.getName());

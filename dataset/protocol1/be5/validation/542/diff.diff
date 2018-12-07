@@ -1,0 +1,4 @@
+78c78
+<     static String asString(Object o)
+---
+>     static 	String asString(Object o)

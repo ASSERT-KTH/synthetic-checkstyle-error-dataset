@@ -1,0 +1,5 @@
+25,26c25
+<     protected void append(StringBuilder sb, String token)
+<     {
+---
+>     protected void append(StringBuilder sb, String token)    {

@@ -1,0 +1,4 @@
+62c62
+<         return meta.getQuery(getInfo().getEntityName(), context.getQueryName());
+---
+>         return meta.getQuery(getInfo().getEntityName(), context	.getQueryName());

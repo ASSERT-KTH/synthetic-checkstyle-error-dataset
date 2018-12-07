@@ -1,0 +1,4 @@
+37c37
+<             throw new IllegalArgumentException("Cannot modify the 'SELECT *' statement");
+---
+>             throw new IllegalArgumentException( "Cannot modify the 'SELECT *' statement");

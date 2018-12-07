@@ -1,0 +1,5 @@
+27c27,28
+<             if (jsonApiModel.getData() != null)
+---
+>             if (jsonApiModel.getData() != 
+> null)

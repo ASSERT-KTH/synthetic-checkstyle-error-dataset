@@ -1,0 +1,5 @@
+12c12,13
+<     public void setPrefixComma(boolean prefixComma)
+---
+>     public void setPrefixComma
+> (boolean prefixComma)

@@ -1,0 +1,5 @@
+138,139c138
+<     protected void transformExtract(AstExtract extract)
+<     {
+---
+>     protected void transformExtract(AstExtract extract)    {

@@ -1,0 +1,4 @@
+35c35
+<     <T> T insert(String sql, Object... params);
+---
+>     <T> T insert(String sql, Object... params );

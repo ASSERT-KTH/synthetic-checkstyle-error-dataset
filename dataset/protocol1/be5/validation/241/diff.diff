@@ -1,0 +1,5 @@
+97,98c97
+<             for (SimpleNode child : children)
+<             {
+---
+>             for (SimpleNode child : children)            {

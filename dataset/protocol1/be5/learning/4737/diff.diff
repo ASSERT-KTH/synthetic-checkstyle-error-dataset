@@ -1,0 +1,5 @@
+5c5,6
+< public class AstBeParameterList extends SimpleNode
+---
+> public 
+> class AstBeParameterList extends SimpleNode

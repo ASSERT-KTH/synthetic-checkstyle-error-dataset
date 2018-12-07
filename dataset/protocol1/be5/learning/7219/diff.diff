@@ -1,0 +1,4 @@
+142c142
+<             out.add(RootNode.container(id, title, children, operations));
+---
+>             out.add(RootNode	.container(id, title, children, operations));

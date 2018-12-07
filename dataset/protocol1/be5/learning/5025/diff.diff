@@ -1,0 +1,5 @@
+307c307,308
+<     protected void format(StringBuilder sb, Set<Token> printedSpecials)
+---
+>     protected void format(StringBuilder sb, Set<Token> 
+> printedSpecials)

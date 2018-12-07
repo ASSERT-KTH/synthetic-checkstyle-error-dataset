@@ -1,0 +1,4 @@
+54c54
+<         String charset = charsetColumn != null ? record.getValueAsString(charsetColumn) : StandardCharsets.UTF_8.name();
+---
+>         String charset = charsetColumn != null 	? record.getValueAsString(charsetColumn) : StandardCharsets.UTF_8.name();

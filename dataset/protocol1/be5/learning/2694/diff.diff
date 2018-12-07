@@ -1,0 +1,5 @@
+14c14,15
+<         this(SqlParserTreeConstants.JJTSTRINGPART);
+---
+>         this(SqlParserTreeConstants.JJTSTRINGPART)
+> ;

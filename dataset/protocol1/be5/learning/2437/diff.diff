@@ -1,0 +1,5 @@
+317c317,318
+<                 AstIdentifierConstant tmp = new AstIdentifierConstant("tmp");
+---
+>                 AstIdentifierConstant tmp = new AstIdentifierConstant("tmp")
+> ;

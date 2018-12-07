@@ -1,0 +1,4 @@
+107c107
+<             return Action.call(new HashUrl("table", query.getEntity().getName(), query.getName()));
+---
+>             return Action.call(new HashUrl("table", query.getEntity().getName(), query.getName ()));

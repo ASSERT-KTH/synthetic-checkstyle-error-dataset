@@ -1,0 +1,4 @@
+8c8
+< public class H2SqlTransformer extends PostgreSqlTransformer
+---
+> public class H2SqlTransformer 	extends PostgreSqlTransformer

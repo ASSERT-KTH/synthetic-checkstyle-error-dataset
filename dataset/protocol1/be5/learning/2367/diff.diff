@@ -1,0 +1,5 @@
+10,11c10
+< import com.developmentontheedge.be5.query.services.QueriesService;
+< import com.developmentontheedge.be5.query.support.BaseTableBuilderSupport;
+---
+> import com.developmentontheedge.be5.query.services.QueriesService;import com.developmentontheedge.be5.query.support.BaseTableBuilderSupport;

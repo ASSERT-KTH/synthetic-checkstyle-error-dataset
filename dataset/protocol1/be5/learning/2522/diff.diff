@@ -1,0 +1,4 @@
+115c115
+<                         && !printedGroovyClasses.contains(stackTrace[i].getFileName()))
+---
+>                         && !printedGroovyClasses.contains(stackTrace[i].getFileName()) )

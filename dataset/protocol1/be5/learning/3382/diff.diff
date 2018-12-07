@@ -1,0 +1,4 @@
+38c38
+<             if (!property.getBooleanAttribute(BeanInfoConstants.LABEL_FIELD) && !property.isReadOnly())
+---
+>             if ( !property.getBooleanAttribute(BeanInfoConstants.LABEL_FIELD) && !property.isReadOnly())

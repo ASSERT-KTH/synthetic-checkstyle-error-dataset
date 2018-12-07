@@ -1,0 +1,4 @@
+20c20
+<     private Number value;
+---
+>     private 	Number value;

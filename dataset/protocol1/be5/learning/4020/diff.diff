@@ -1,0 +1,4 @@
+11c11
+<     private static final Set<String> ALLOWED_PARAMETERS = StreamEx.of("refColumn", "safestr", "default", "type", "prefix").toSet();
+---
+>     private static final Set<String>ALLOWED_PARAMETERS = StreamEx.of("refColumn", "safestr", "default", "type", "prefix").toSet();

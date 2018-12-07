@@ -1,0 +1,4 @@
+158c158
+<         return (Class<?>) map.getOrDefault("TYPE", String.class);
+---
+>         	return (Class<?>) map.getOrDefault("TYPE", String.class);

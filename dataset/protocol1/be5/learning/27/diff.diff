@@ -1,0 +1,5 @@
+137,138c137
+<     protected void setOperator(AstFunNode node, String name)
+<     {
+---
+>     protected void setOperator(AstFunNode node, String name)    {

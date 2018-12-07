@@ -1,0 +1,5 @@
+22c22,23
+<     public static void sendFile(Response res, boolean download, String filename, String contentType, String charset, InputStream in)
+---
+>     public static void sendFile(Response res, boolean download, String filename, 
+> String contentType, String charset, InputStream in)

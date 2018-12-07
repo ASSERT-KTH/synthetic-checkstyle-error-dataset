@@ -1,0 +1,4 @@
+90c90
+<         return queryResolver.resolve(entity, name);
+---
+>         return queryResolver	.resolve(entity, name);

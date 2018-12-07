@@ -1,0 +1,4 @@
+17c17
+<     public UserInfoModel(boolean loggedIn, String userName, List<String> availableRoles, List<String> currentRoles, Instant creationTime, String defaultRoute)
+---
+>     public UserInfoModel(boolean loggedIn, String userName, List<String> availableRoles, List<String> currentRoles, 	Instant creationTime, String defaultRoute)

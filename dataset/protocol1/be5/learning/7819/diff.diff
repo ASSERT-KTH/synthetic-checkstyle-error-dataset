@@ -1,0 +1,4 @@
+145c145
+<                 String lineNumber = String.format("%4d", i + 1) + " | ";
+---
+>                 String lineNumber = String.format("%4d", i 	+ 1) + " | ";

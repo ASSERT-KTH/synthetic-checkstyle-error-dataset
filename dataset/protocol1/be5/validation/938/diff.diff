@@ -1,0 +1,5 @@
+110c110,111
+<     public Object put(Object key, Object value)
+---
+>     
+> public Object put(Object key, Object value)

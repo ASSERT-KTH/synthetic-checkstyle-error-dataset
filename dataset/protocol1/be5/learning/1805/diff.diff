@@ -1,0 +1,4 @@
+43c43
+<     public abstract void filter(Request req, Response res, FilterChain chain) throws IOException, ServletException;
+---
+>     public abstract void filter( Request req, Response res, FilterChain chain) throws IOException, ServletException;

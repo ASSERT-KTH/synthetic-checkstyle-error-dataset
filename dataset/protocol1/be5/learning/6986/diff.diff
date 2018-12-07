@@ -1,0 +1,5 @@
+188,189c188
+<     protected void transformChr(AstFunNode node)
+<     {
+---
+>     protected void transformChr(AstFunNode node)    {

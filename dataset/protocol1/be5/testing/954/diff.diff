@@ -1,0 +1,5 @@
+339c339,340
+<                         && AstFunNode.isFunction("+").test(grandParent)
+---
+>                         && AstFunNode.isFunction
+> ("+").test(grandParent)

@@ -1,0 +1,5 @@
+12c12,13
+<     public AstWindowFunction(AstFunNode f, AstWindowSpecification over)
+---
+>     public AstWindowFunction
+> (AstFunNode f, AstWindowSpecification over)

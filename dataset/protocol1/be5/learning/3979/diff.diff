@@ -1,0 +1,4 @@
+21c21
+<     void addDocumentPlugin(String name, DocumentPlugin documentPlugin);
+---
+>     void addDocumentPlugin(String name , DocumentPlugin documentPlugin);

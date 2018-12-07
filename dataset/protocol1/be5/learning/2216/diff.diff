@@ -1,0 +1,4 @@
+288c288
+<         if (identifier.getValue().equalsIgnoreCase("current_timestamp") || identifier.getValue().equalsIgnoreCase("current_date"))
+---
+>         if (identifier.getValue ().equalsIgnoreCase("current_timestamp") || identifier.getValue().equalsIgnoreCase("current_date"))

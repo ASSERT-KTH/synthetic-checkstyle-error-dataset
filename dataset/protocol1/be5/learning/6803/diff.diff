@@ -1,0 +1,5 @@
+77c77,78
+<         if (!"DECIMAL".equals(dataType))
+---
+>         
+> if (!"DECIMAL".equals(dataType))

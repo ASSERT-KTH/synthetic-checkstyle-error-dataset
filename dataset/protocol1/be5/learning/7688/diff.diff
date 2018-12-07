@@ -1,0 +1,4 @@
+16c16
+<     public LogConfigurator()
+---
+>     public 	LogConfigurator()

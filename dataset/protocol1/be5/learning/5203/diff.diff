@@ -1,0 +1,4 @@
+70c70
+<             operationError(operation, values, startTime, System.currentTimeMillis(), operation.getResult().getMessage());
+---
+>             operationError(operation, values, startTime, System.currentTimeMillis(), operation.getResult().getMessage()) ;

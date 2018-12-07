@@ -1,0 +1,4 @@
+23c23
+<         bind(SqlHelper.class).in(Scopes.SINGLETON);
+---
+>         bind(SqlHelper.class ).in(Scopes.SINGLETON);

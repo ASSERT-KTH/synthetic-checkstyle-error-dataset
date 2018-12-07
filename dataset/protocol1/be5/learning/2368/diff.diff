@@ -1,0 +1,4 @@
+71c71
+<     default Integer oneInteger(String sql, Object... params)
+---
+>     default Integer oneInteger(String sql,Object... params)

@@ -1,0 +1,5 @@
+8c8,9
+<     public static final AstReplacementParameter parameter = new AstReplacementParameter();
+---
+>     public static final 
+> AstReplacementParameter parameter = new AstReplacementParameter();

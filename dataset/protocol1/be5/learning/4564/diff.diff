@@ -1,0 +1,5 @@
+44c44,45
+<     public SimpleNode getReplacement(AstFunNode node, Dbms dbms)
+---
+>     public SimpleNode 
+> getReplacement(AstFunNode node, Dbms dbms)

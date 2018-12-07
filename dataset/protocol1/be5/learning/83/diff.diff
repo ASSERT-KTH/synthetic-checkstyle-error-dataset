@@ -1,0 +1,4 @@
+9c9
+<     default T parse(ResultSet rs) throws SQLException
+---
+>     default T 	parse(ResultSet rs) throws SQLException

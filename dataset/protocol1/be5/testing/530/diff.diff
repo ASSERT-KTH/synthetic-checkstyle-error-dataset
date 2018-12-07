@@ -1,0 +1,4 @@
+315c315
+<         Predicate<SimpleNode> truncMonthPlusMonthMinusDay = AstFunNode.isFunction("-", truncMonthPlusMonth,
+---
+>         Predicate<SimpleNode> truncMonthPlusMonthMinusDay= AstFunNode.isFunction("-", truncMonthPlusMonth,

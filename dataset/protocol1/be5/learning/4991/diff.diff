@@ -1,0 +1,5 @@
+241c241,242
+<         private RootNode(Id id, String title, boolean isDefault, Action action, List<QueryNode> children, List<OperationNode> operations)
+---
+>         private RootNode(Id id, String 
+> title, boolean isDefault, Action action, List<QueryNode> children, List<OperationNode> operations)

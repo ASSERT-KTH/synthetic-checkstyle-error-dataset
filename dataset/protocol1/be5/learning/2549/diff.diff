@@ -1,0 +1,4 @@
+35c35
+< public class OracleTransformer extends GenericDbmsTransformer
+---
+> public class OracleTransformer 	extends GenericDbmsTransformer

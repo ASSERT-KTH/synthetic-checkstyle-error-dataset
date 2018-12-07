@@ -1,0 +1,4 @@
+16c16
+<         return next instanceof AstBeConditionChain ? null : childrenDelimiter;
+---
+>         return next instanceof AstBeConditionChain 	? null : childrenDelimiter;

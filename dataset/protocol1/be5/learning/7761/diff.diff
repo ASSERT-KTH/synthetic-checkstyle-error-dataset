@@ -1,0 +1,4 @@
+84c84
+<                     if (column2 != null)
+---
+>                     	if (column2 != null)

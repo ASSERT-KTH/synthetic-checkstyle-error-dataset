@@ -1,0 +1,4 @@
+54c54
+<                 ParameterizedType parametrized = (ParameterizedType) type;
+---
+>                 ParameterizedType parametrized = (ParameterizedType) type ;

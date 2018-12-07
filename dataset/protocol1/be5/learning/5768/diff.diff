@@ -1,0 +1,4 @@
+59c59
+<             if (languages != null ? !languages.equals(that.languages) : that.languages != null) return false;
+---
+>             if (languages != null ? !languages.equals(that.languages): that.languages != null) return false;

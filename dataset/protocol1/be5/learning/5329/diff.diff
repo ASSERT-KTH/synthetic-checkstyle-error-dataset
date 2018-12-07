@@ -1,0 +1,5 @@
+270,271c270
+<     private String getMenuName(Query query)
+<     {
+---
+>     private String getMenuName(Query query)    {

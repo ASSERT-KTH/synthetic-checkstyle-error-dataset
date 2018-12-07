@@ -1,0 +1,5 @@
+11c11,12
+<             name = name.substring(1, name.length() - 1);
+---
+>             
+> name = name.substring(1, name.length() - 1);

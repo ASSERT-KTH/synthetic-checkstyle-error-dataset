@@ -1,0 +1,5 @@
+42c42,43
+<             String name = entry.getKey().toString();
+---
+>             String name = entry.getKey
+> ().toString();

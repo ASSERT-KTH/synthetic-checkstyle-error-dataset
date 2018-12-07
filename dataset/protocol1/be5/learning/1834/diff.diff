@@ -1,0 +1,5 @@
+5c5,6
+< import com.developmentontheedge.sql.model.AstConcatExpression;
+---
+> import com.developmentontheedge.sql.model.AstConcatExpression
+> ;

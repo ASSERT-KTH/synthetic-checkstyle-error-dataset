@@ -1,0 +1,5 @@
+66c66,67
+<         for (AstSelect select : query.children().select(AstSelect.class))
+---
+>         for (AstSelect select 
+> : query.children().select(AstSelect.class))

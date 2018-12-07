@@ -1,0 +1,4 @@
+11c11
+<     private static final Set<String> ALLOWED_PARAMETERS = StreamEx.of("default", "changeCase", "prefix", "postfix", "regex",
+---
+>     private static final Set<String> ALLOWED_PARAMETERS= StreamEx.of("default", "changeCase", "prefix", "postfix", "regex",

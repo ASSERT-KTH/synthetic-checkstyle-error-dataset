@@ -1,0 +1,4 @@
+44c44
+<             if ("java.lang.Float".equals(className))
+---
+>             if ("java.lang.Float". equals(className))

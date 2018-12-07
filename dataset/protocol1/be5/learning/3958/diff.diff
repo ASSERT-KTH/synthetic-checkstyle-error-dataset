@@ -1,0 +1,4 @@
+138c138
+<                 return Double.class;
+---
+>                 return Double. class;

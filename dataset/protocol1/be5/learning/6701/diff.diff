@@ -1,0 +1,4 @@
+95c95
+<                     type != null ? type : value != null ? value.getClass() : String.class,
+---
+>                     type!= null ? type : value != null ? value.getClass() : String.class,

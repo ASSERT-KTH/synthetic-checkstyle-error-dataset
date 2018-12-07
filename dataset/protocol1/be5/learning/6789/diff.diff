@@ -1,0 +1,5 @@
+5c5,6
+<     INNER, LEFT, RIGHT, FULL;
+---
+>     INNER, 
+> LEFT, RIGHT, FULL;

@@ -1,0 +1,5 @@
+42c42,43
+<                 return Double.valueOf((String) value);
+---
+>                 return 
+> Double.valueOf((String) value);

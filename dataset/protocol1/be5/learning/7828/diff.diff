@@ -1,0 +1,4 @@
+50c50
+<         return SqlUtils.longFromDbObject(one(sql, params));
+---
+>         return SqlUtils.longFromDbObject(one(sql,params));

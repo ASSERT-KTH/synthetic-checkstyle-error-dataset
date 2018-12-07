@@ -1,0 +1,4 @@
+6c6
+<     private static final String PROPERTY_PREFIX = "_";
+---
+>     private static final String PROPERTY_PREFIX = 	"_";

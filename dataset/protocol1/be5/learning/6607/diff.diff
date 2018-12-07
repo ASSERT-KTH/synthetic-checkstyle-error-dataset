@@ -1,0 +1,4 @@
+45c45
+<     public void setNotToken(Token notToken)
+---
+>     public void setNotToken( Token notToken)

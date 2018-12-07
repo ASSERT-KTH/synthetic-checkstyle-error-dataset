@@ -1,0 +1,5 @@
+7,8c7
+< import com.developmentontheedge.be5.base.services.Meta;
+< import com.developmentontheedge.be5.base.services.ProjectProvider;
+---
+> import com.developmentontheedge.be5.base.services.Meta;import com.developmentontheedge.be5.base.services.ProjectProvider;

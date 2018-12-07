@@ -1,0 +1,4 @@
+66c66
+<         Session session = requestProvider.get().getSession();
+---
+>         Session session = requestProvider.get(). getSession();

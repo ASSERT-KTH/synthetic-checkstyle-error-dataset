@@ -1,0 +1,5 @@
+8c8,9
+<     private final String entityName;
+---
+>     
+> private final String entityName;

@@ -1,0 +1,4 @@
+8c8
+< public class AstUpdate extends SimpleNode
+---
+> public class 	AstUpdate extends SimpleNode

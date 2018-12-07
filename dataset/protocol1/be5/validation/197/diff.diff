@@ -1,0 +1,4 @@
+47c47
+<         servletContext = filterConfig.getServletContext();
+---
+>         servletContext = filterConfig	.getServletContext();

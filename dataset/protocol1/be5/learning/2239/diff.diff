@@ -1,0 +1,4 @@
+15c15
+<     void transformQuery(AstQuery start);
+---
+>     void transformQuery (AstQuery start);

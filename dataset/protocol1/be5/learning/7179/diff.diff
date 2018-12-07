@@ -1,0 +1,4 @@
+26c26
+<         GroovyRegister.registerMetaClass(DynamicPropertyMetaClass.class, DynamicProperty.class);
+---
+>         GroovyRegister	.registerMetaClass(DynamicPropertyMetaClass.class, DynamicProperty.class);

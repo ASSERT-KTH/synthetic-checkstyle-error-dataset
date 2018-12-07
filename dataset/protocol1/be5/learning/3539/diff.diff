@@ -1,0 +1,5 @@
+7c7,8
+<     public AstFrameStart(int id)
+---
+>     public AstFrameStart
+> (int id)

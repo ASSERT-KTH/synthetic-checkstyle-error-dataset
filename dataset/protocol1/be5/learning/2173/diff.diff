@@ -1,0 +1,4 @@
+7c7
+< public class AstOrderingElement extends SimpleNode
+---
+> public 	class AstOrderingElement extends SimpleNode

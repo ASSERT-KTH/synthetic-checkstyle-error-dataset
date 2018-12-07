@@ -1,0 +1,5 @@
+18,19c18
+< import com.google.inject.AbstractModule;
+< import com.google.inject.Scopes;
+---
+> import com.google.inject.AbstractModule;import com.google.inject.Scopes;

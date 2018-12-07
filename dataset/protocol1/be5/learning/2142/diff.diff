@@ -1,0 +1,4 @@
+50c50
+<     public static DateFormat byFormatString(String format)
+---
+>     public static DateFormat byFormatString(String 	format)

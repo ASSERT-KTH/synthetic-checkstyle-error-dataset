@@ -1,0 +1,4 @@
+159c159
+<         for (OrderedQuery query : queries)
+---
+>         for (OrderedQuery 	query : queries)

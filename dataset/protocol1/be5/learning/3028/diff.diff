@@ -1,0 +1,5 @@
+607c607,608
+<         if (null != activeTo1 && null != activeTo2 && (!activeFrom2.before(activeTo1) || !activeTo2.after(activeFrom1)))
+---
+>         if (null != activeTo1 
+> && null != activeTo2 && (!activeFrom2.before(activeTo1) || !activeTo2.after(activeFrom1)))

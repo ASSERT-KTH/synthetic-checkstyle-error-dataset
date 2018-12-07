@@ -1,0 +1,5 @@
+250c250,251
+<                 if (searchPresetParam != null) parameters.put(SEARCH_PRESETS_PARAM, searchPresetParam);
+---
+>                 if (searchPresetParam != null) 
+> parameters.put(SEARCH_PRESETS_PARAM, searchPresetParam);

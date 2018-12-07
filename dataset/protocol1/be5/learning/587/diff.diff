@@ -1,0 +1,4 @@
+74c74
+<             Object value = processValue(removeFromMap(map, "value"), type);
+---
+>             Object value = processValue(removeFromMap(map, "value"),type);

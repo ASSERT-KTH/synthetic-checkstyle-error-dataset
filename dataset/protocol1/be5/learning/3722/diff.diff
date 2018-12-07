@@ -1,0 +1,4 @@
+16c16
+<     private static final XMLInputFactory FACTORY = XMLInputFactory.newInstance();
+---
+>     private static final XMLInputFactory FACTORY = XMLInputFactory	.newInstance();

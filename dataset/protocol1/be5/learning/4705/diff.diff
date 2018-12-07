@@ -1,0 +1,4 @@
+38c38
+<         public Object getProperty(String name)
+---
+>         	public Object getProperty(String name)

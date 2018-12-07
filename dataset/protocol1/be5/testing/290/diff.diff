@@ -1,0 +1,4 @@
+645c645
+<     public void updateAsciiStream(String columnLabel, InputStream x, int length) throws SQLException
+---
+>     public 	void updateAsciiStream(String columnLabel, InputStream x, int length) throws SQLException

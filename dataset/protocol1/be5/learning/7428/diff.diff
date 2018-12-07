@@ -1,0 +1,4 @@
+5c5
+< public class AstNestedQuery extends SimpleNode
+---
+> public class AstNestedQuery 	extends SimpleNode

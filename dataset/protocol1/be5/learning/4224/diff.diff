@@ -1,0 +1,5 @@
+128c128,129
+<                 return Long.class;
+---
+>                 return 
+> Long.class;

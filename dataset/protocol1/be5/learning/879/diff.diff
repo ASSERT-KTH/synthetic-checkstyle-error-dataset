@@ -1,0 +1,5 @@
+112c112,113
+<                 Clob clob = (Clob) value;
+---
+>                 Clob clob = (Clob) 
+> value;

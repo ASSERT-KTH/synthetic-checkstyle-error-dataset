@@ -1,0 +1,4 @@
+221c221
+<         declareFunction(context, 3, "REPLACE");
+---
+>         	declareFunction(context, 3, "REPLACE");

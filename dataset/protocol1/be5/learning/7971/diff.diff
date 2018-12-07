@@ -1,0 +1,4 @@
+15c15
+<     JsonApiModel getDocument(String entityName, String queryName, Map<String, Object> parameters);
+---
+>     JsonApiModel getDocument(String entityName, String queryName, Map<String, Object>parameters);

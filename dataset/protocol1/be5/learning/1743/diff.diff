@@ -1,0 +1,4 @@
+45c45
+<     String getLocalizedValidationMessage(String message);
+---
+>     	String getLocalizedValidationMessage(String message);

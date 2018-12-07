@@ -1,0 +1,5 @@
+20c20,21
+<         AstSelectList selectList = select.getSelectList();
+---
+>         AstSelectList selectList = 
+> select.getSelectList();

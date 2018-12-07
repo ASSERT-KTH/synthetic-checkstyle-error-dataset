@@ -1,0 +1,4 @@
+20c20
+<     public Be5Exception exception(String... parameters)
+---
+>     public Be5Exception exception( String... parameters)

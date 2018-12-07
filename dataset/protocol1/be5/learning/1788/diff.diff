@@ -1,0 +1,5 @@
+10c10,11
+<     private final int recordsFiltered;
+---
+>     private final int recordsFiltered
+> ;

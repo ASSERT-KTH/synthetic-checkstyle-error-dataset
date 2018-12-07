@@ -1,0 +1,5 @@
+75c75,76
+<         serve("/api/download").with(DownloadController.class);
+---
+>         serve("/api/download").with(DownloadController.class)
+> ;

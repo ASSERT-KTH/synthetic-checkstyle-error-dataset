@@ -1,0 +1,4 @@
+5c5
+< public class AstExistsPredicate extends SimpleNode
+---
+> 	public class AstExistsPredicate extends SimpleNode

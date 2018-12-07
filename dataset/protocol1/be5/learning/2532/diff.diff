@@ -1,0 +1,5 @@
+35c35,36
+<         Request req = new RequestImpl(request);
+---
+>         Request req 
+> = new RequestImpl(request);

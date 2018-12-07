@@ -1,0 +1,4 @@
+147c147
+<         return node -> node instanceof AstFunNode && ((AstFunNode) node).getFunction().getName().equalsIgnoreCase(fnName);
+---
+>         return node -> node instanceof AstFunNode && ((AstFunNode) node ).getFunction().getName().equalsIgnoreCase(fnName);

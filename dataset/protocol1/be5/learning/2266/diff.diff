@@ -1,0 +1,5 @@
+99,100c99
+<     public void setAsToken(boolean as)
+<     {
+---
+>     public void setAsToken(boolean as)    {

@@ -1,0 +1,4 @@
+46c46
+<         return getParameter("default");
+---
+>         return getParameter( "default");

@@ -1,0 +1,4 @@
+1c1
+< package com.developmentontheedge.be5.database;
+---
+> package com	.developmentontheedge.be5.database;

@@ -1,0 +1,4 @@
+7c7
+<     public AstAllColumnRef(int id)
+---
+>     	public AstAllColumnRef(int id)

@@ -1,0 +1,5 @@
+33c33,34
+<     private void processSelect(AstSelect select, String tableName, String columnName, String alias)
+---
+>     private void processSelect(AstSelect select, String tableName, 
+> String columnName, String alias)

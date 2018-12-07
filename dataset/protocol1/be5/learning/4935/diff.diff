@@ -1,0 +1,4 @@
+5c5
+<     public AstBeDbmsArgumentList(int id)
+---
+>     public 	AstBeDbmsArgumentList(int id)

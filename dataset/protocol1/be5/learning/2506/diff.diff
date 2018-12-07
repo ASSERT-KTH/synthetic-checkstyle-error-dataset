@@ -1,0 +1,5 @@
+23c23,24
+<     private String dateField;
+---
+>     private String 
+> dateField;

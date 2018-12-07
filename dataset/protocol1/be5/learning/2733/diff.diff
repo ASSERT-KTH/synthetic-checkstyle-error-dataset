@@ -1,0 +1,4 @@
+54c54
+<     public boolean isSuffixComma()
+---
+>     	public boolean isSuffixComma()

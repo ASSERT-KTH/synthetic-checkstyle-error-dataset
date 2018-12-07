@@ -1,0 +1,5 @@
+24c24,25
+<                 dbmsTransformer = new PostgreSqlTransformer();
+---
+>                 dbmsTransformer = new PostgreSqlTransformer()
+> ;

@@ -1,0 +1,4 @@
+21c21
+< public abstract class TableBuilderSupport extends BaseTableBuilderSupport
+---
+> public abstract class TableBuilderSupport extends 	BaseTableBuilderSupport

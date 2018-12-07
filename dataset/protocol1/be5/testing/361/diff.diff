@@ -1,0 +1,5 @@
+92c92,93
+<             else if (value.endsWith("%") || value.startsWith("%"))
+---
+>             
+> else if (value.endsWith("%") || value.startsWith("%"))

@@ -1,0 +1,5 @@
+17,18c17
+<         if (!operationParams.containsKey(SEARCH_PARAM))
+<         {
+---
+>         if (!operationParams.containsKey(SEARCH_PARAM))        {

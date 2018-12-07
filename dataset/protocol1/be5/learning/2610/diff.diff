@@ -1,0 +1,4 @@
+10c10
+<         this.nodePrefix = "PARTITION BY";
+---
+>         this.nodePrefix = 	"PARTITION BY";

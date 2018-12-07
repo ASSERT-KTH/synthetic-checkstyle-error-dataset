@@ -1,0 +1,4 @@
+28c28
+<     public void setThenToken(Token thenToken)
+---
+>     public void setThenToken(Token 	thenToken)

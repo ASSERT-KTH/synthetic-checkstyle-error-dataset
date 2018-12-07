@@ -1,0 +1,4 @@
+16c16
+<     Cache getCache(String name);
+---
+>     Cache getCache(String 	name);

@@ -1,0 +1,4 @@
+52c52
+<         templateResolver.setPrefix("/WEB-INF/templates/");
+---
+>         templateResolver.setPrefix( "/WEB-INF/templates/");

@@ -1,0 +1,4 @@
+31c31
+<                             BeanInfoConstants.class.getDeclaredField(f.getName()).get(null).toString());
+---
+>                             BeanInfoConstants.class.getDeclaredField(f.getName()).get(null ).toString());

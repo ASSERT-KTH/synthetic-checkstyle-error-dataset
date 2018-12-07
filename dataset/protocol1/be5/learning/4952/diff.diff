@@ -1,0 +1,4 @@
+144c144
+<             context.declareFunction(operator);
+---
+>             context. declareFunction(operator);

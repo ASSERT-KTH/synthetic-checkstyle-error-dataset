@@ -1,0 +1,5 @@
+155,156c155
+<             ResourceData resourceData = new ResourceData(
+<                     "queryBuilder",
+---
+>             ResourceData resourceData = new ResourceData(                    "queryBuilder",

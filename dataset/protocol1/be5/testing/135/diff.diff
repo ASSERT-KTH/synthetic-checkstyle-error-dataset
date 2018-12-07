@@ -1,0 +1,5 @@
+12c12,13
+<     public void setValue(String value)
+---
+>     public void 
+> setValue(String value)

@@ -1,0 +1,4 @@
+80c80
+<             Matcher equalsMatcher = equalsPattern.matcher(part);
+---
+>             Matcher equalsMatcher = equalsPattern.matcher(part) ;

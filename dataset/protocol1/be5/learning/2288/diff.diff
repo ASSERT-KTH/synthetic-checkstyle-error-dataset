@@ -1,0 +1,5 @@
+14c14,15
+< public class SimpleNode implements Node, Cloneable
+---
+> public class SimpleNode implements Node, 
+> Cloneable

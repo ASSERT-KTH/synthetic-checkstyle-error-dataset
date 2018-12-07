@@ -1,0 +1,5 @@
+5c5,6
+< public class AstLimit extends SimpleNode
+---
+> public 
+> class AstLimit extends SimpleNode

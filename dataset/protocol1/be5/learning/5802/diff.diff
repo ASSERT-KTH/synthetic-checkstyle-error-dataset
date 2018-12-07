@@ -1,0 +1,4 @@
+286c286
+<                         getLastString(concat).addChild(new AstStringPart(tail));
+---
+>                         getLastString(concat).addChild(new AstStringPart(tail) );

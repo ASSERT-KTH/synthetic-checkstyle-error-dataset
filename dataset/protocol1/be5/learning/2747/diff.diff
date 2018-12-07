@@ -1,0 +1,4 @@
+7c7
+< public abstract class GOperationSupport extends OperationSupport implements Operation
+---
+> public abstract class GOperationSupport extends 	OperationSupport implements Operation

@@ -1,0 +1,5 @@
+17c17,18
+<         this.allowedParameters = ALLOWED_PARAMETERS;
+---
+>         
+> this.allowedParameters = ALLOWED_PARAMETERS;

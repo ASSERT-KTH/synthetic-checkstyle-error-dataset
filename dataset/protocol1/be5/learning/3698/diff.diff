@@ -1,0 +1,5 @@
+99c99,100
+<         private QueryResolver queryResolver = (entity, query) -> null;
+---
+>         
+> private QueryResolver queryResolver = (entity, query) -> null;

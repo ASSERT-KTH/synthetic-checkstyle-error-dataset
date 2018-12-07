@@ -1,0 +1,5 @@
+5c5,6
+<     public static String escapeHTML(String s)
+---
+>     public static String escapeHTML
+> (String s)

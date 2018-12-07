@@ -1,0 +1,4 @@
+112c112
+<     private static boolean isAllowed(Operation operation, List<String> userRoles)
+---
+>     private static boolean isAllowed(Operation operation, 	List<String> userRoles)

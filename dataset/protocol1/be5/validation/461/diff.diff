@@ -1,0 +1,5 @@
+46c46,47
+<         RecordModel record = database.getEntity(entity).get(ID);
+---
+>         RecordModel record = database.getEntity
+> (entity).get(ID);

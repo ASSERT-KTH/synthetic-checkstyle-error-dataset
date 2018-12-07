@@ -1,0 +1,4 @@
+68c68
+<     public void setMessages(List<String> messages)
+---
+>     public void setMessages( List<String> messages)

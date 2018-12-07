@@ -1,0 +1,4 @@
+89c89
+<                     if (qn == null) qn = ALL_RECORDS_VIEW;
+---
+>                     if (qn == null) qn = ALL_RECORDS_VIEW ;

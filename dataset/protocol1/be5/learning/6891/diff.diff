@@ -1,0 +1,5 @@
+139c139,140
+<         Function operator = context.getFunction(name.trim());
+---
+>         
+> Function operator = context.getFunction(name.trim());

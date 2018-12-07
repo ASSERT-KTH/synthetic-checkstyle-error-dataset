@@ -1,0 +1,5 @@
+10c10,11
+<     public void transformQuery(AstQuery query)
+---
+>     
+> public void transformQuery(AstQuery query)

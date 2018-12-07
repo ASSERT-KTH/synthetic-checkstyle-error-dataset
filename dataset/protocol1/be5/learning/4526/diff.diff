@@ -1,0 +1,5 @@
+265c265,266
+<         if (Character.isDigit(right) || Character.isAlphabetic(right) || right == '_')
+---
+>         if (Character.isDigit
+> (right) || Character.isAlphabetic(right) || right == '_')

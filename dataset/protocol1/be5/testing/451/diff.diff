@@ -1,0 +1,5 @@
+205,206c205
+<     protected void transformBitAnd(AstFunNode node)
+<     {
+---
+>     protected void transformBitAnd(AstFunNode node)    {

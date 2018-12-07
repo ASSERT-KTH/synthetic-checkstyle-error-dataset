@@ -1,0 +1,4 @@
+13c13
+<     public AstCaseElse(SimpleNode elseBranch)
+---
+>     public AstCaseElse (SimpleNode elseBranch)

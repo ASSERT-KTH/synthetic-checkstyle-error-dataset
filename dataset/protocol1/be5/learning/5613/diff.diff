@@ -1,0 +1,4 @@
+101c101
+<                 fieldValues.put(name, ((JsonPrimitive) entry.getValue()).getAsString());
+---
+>                 fieldValues.put( name, ((JsonPrimitive) entry.getValue()).getAsString());

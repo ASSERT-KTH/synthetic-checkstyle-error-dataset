@@ -1,0 +1,5 @@
+17c17,18
+<     private Special value;
+---
+>     private Special value
+> ;

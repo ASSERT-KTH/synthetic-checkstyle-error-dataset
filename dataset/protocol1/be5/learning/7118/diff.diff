@@ -1,0 +1,4 @@
+133c133
+<         return query.getType() == QueryType.STATIC && (query.getQuery().endsWith(".be") || query.getQuery().startsWith("static/"));
+---
+>         	return query.getType() == QueryType.STATIC && (query.getQuery().endsWith(".be") || query.getQuery().startsWith("static/"));

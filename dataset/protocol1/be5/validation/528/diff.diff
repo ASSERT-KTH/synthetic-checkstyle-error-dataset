@@ -1,0 +1,5 @@
+49c49,50
+<         if (value.startsWith("\"") && value.endsWith("\"") || value.startsWith("'") && value.endsWith("'"))
+---
+>         if 
+> (value.startsWith("\"") && value.endsWith("\"") || value.startsWith("'") && value.endsWith("'"))

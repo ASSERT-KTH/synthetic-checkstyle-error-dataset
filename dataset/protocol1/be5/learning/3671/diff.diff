@@ -1,0 +1,5 @@
+528c528,529
+<         int commaInd = number.lastIndexOf(',');
+---
+>         
+> int commaInd = number.lastIndexOf(',');

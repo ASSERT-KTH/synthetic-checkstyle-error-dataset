@@ -1,0 +1,5 @@
+267c267,268
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("PG_SIZE_PRETTY", Function.FUNCTION_PRIORITY, 1), Dbms.POSTGRESQL));
+---
+>         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("PG_SIZE_PRETTY", Function.FUNCTION_PRIORITY, 1), Dbms.POSTGRESQL))
+> ;

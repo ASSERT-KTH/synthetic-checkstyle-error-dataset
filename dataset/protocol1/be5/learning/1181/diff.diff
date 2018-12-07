@@ -1,0 +1,5 @@
+17c17,18
+<     public static void sendFile(Response res, String filename, String contentType, InputStream in)
+---
+>     public static void sendFile(Response res, String filename, String contentType, 
+> InputStream in)

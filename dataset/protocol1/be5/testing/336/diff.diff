@@ -1,0 +1,4 @@
+157c157
+<     public String getLocalizedInfoMessage(String message)
+---
+>     public String getLocalizedInfoMessage( String message)

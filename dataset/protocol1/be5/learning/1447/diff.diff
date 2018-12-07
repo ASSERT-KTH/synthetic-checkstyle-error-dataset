@@ -1,0 +1,4 @@
+39c39
+<     String getUserSetting(String user, String param);
+---
+>     	String getUserSetting(String user, String param);

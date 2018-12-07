@@ -1,0 +1,5 @@
+108c108,109
+<         map.put("PLACEHOLDER", value);
+---
+>         map.put("PLACEHOLDER"
+> , value);

@@ -1,0 +1,4 @@
+44c44
+<         boolean download = "yes".equals(req.get("_download_"));
+---
+>         boolean download = "yes".equals (req.get("_download_"));

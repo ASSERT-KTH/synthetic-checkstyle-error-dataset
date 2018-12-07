@@ -1,0 +1,4 @@
+11c11
+<     public InitialRow(String id, List<Object> cells)
+---
+>     public InitialRow(String id, List <Object> cells)

@@ -1,0 +1,4 @@
+114c114
+<         return Collections3.containsAny(userRoles, operation.getRoles().getFinalRoles());
+---
+>         return Collections3. containsAny(userRoles, operation.getRoles().getFinalRoles());

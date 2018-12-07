@@ -1,0 +1,4 @@
+219c219
+<         else if (cast.getDataType().equalsIgnoreCase("CHAR") || cast.getDataType().equalsIgnoreCase("VARCHAR"))
+---
+>         else if (cast.getDataType().equalsIgnoreCase( "CHAR") || cast.getDataType().equalsIgnoreCase("VARCHAR"))

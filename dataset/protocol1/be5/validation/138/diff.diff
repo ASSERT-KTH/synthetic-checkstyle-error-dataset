@@ -1,0 +1,4 @@
+7c7
+<         StringBuilder out = new StringBuilder(Math.max(16, s.length()));
+---
+>         StringBuilder out = new StringBuilder(Math	.max(16, s.length()));

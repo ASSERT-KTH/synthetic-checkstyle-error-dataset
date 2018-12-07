@@ -1,0 +1,5 @@
+275c275,276
+<                         getLastString(concat).addChild(string.child(j));
+---
+>                         getLastString
+> (concat).addChild(string.child(j));

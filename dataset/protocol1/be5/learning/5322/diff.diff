@@ -1,0 +1,4 @@
+143c143
+<     private static boolean isAction(Query query)
+---
+>     private static boolean isAction( Query query)

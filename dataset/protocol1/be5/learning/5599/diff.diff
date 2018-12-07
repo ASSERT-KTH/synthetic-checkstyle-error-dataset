@@ -1,0 +1,4 @@
+16c16
+<     public BeMacroFunction(String name, int minNumberOfParams, int maxNumberOfParams)
+---
+>     public BeMacroFunction(String name, int minNumberOfParams, int 	maxNumberOfParams)

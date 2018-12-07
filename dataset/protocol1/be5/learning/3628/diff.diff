@@ -1,0 +1,4 @@
+239c239
+<     public static Date addDays(Date date, int nDays)
+---
+>     public static Date addDays(Date date, 	int nDays)

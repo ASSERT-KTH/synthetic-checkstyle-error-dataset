@@ -1,0 +1,5 @@
+12,13c12
+< import javax.inject.Inject;
+< import javax.inject.Singleton;
+---
+> import javax.inject.Inject;import javax.inject.Singleton;

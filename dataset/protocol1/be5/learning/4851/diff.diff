@@ -1,0 +1,4 @@
+99c99
+<     public static Predicate<SimpleNode> isString(String str)
+---
+>     public static Predicate<SimpleNode > isString(String str)

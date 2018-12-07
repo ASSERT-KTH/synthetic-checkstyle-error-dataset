@@ -1,0 +1,4 @@
+38c38
+<     public abstract TableModel getTableModel();
+---
+>     public abstract TableModel getTableModel ();

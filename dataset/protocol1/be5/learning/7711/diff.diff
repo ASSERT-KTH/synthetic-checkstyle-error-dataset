@@ -1,0 +1,4 @@
+16c16
+<                     new HashMap<String, Object>()
+---
+>                     new HashMap <String, Object>()

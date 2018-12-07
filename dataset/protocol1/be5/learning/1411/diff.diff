@@ -1,0 +1,4 @@
+36c36
+<             AstTableRef tableRef = new AstTableRef(new AstParenthesis(query.clone()), new AstIdentifierConstant("tmp"));
+---
+>             AstTableRef tableRef = new AstTableRef(new AstParenthesis(query.clone()), 	new AstIdentifierConstant("tmp"));

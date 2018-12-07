@@ -1,0 +1,4 @@
+17c17
+<         for (AstOrderingElement child : childs)
+---
+>         for 	(AstOrderingElement child : childs)

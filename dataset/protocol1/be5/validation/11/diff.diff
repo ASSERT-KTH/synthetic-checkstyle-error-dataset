@@ -1,0 +1,4 @@
+49c49
+<                     return documentGenerator.getNewTableRows(entityName, queryName, parameters);
+---
+>                     return 	documentGenerator.getNewTableRows(entityName, queryName, parameters);

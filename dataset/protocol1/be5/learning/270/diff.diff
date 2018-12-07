@@ -1,0 +1,4 @@
+19c19
+<     String getSystemSetting(String param);
+---
+>     String getSystemSetting(String param) ;

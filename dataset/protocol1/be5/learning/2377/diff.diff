@@ -1,0 +1,4 @@
+50c50
+<     public AstUpdate whereInWithReplacementParameter(String columnName, int count)
+---
+>     public AstUpdate whereInWithReplacementParameter(String columnName , int count)

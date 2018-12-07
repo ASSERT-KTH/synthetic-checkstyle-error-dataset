@@ -1,0 +1,5 @@
+45,46c45
+<     public boolean equals(Object obj)
+<     {
+---
+>     public boolean equals(Object obj)    {

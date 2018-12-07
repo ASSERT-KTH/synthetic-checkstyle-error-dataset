@@ -1,0 +1,4 @@
+18c18
+<     private final Config config;
+---
+>     private final Config 	config;

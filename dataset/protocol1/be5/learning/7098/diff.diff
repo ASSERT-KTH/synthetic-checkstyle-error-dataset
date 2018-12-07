@@ -1,0 +1,4 @@
+5c5
+<     public AstBeDbmsWhen(int id)
+---
+>     public AstBeDbmsWhen (int id)

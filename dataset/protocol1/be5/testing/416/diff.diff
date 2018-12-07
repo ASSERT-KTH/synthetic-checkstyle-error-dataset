@@ -1,0 +1,4 @@
+15c15
+<         return children().anyMatch(AstBeElse.class::isInstance);
+---
+>         return children().anyMatch(AstBeElse. class::isInstance);

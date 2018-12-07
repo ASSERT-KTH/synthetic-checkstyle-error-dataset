@@ -1,0 +1,4 @@
+82c82
+<         String title = userAwareMeta.getLocalizedOperationTitle(query.getEntity().getName(), operation.getName());
+---
+>         String title = userAwareMeta.getLocalizedOperationTitle(query.getEntity ().getName(), operation.getName());

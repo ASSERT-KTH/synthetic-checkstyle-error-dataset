@@ -1,0 +1,4 @@
+5c5
+< public class AstCase extends SimpleNode
+---
+> public class AstCase extends 	SimpleNode

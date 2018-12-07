@@ -1,0 +1,4 @@
+12c12
+<     public AstOrderingElement(int id)
+---
+>     public AstOrderingElement( int id)

@@ -1,0 +1,4 @@
+45c45
+<             Set<String> devAvailableRoles = new LinkedHashSet<String>() {{
+---
+>             Set<String> devAvailableRoles = new LinkedHashSet<String >() {{

@@ -1,0 +1,4 @@
+39c39
+<                 String paramName = equalsMatcher.group(1);
+---
+>                 String paramName =equalsMatcher.group(1);

@@ -1,0 +1,5 @@
+84c84,85
+<         boolean isClientSide = Operation.OPERATION_TYPE_JAVASCRIPT.equals(operation.getType());
+---
+>         boolean 
+> isClientSide = Operation.OPERATION_TYPE_JAVASCRIPT.equals(operation.getType());

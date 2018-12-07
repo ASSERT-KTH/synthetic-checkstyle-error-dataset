@@ -1,0 +1,5 @@
+5c5,6
+< public class AstGroupingSet extends SimpleNode
+---
+> public class 
+> AstGroupingSet extends SimpleNode

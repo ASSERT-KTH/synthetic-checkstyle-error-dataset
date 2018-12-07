@@ -1,0 +1,4 @@
+86c86
+<             if (!Strings.isNullOrEmpty(entity.getDisplayName()))
+---
+>             if (!Strings.isNullOrEmpty(entity.getDisplayName ()))

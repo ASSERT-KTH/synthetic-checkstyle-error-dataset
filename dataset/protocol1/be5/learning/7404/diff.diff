@@ -1,0 +1,4 @@
+43c43
+<         return (T) rs.getObject(this.columnName);
+---
+>         	return (T) rs.getObject(this.columnName);

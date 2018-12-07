@@ -1,0 +1,4 @@
+50c50
+<                 if (column.getKey().equals(derColumn.getColumn()) || column.getKey().equals(derColumn.getAlias()))
+---
+>                 if (column.getKey().equals(derColumn.getColumn()) || column.getKey().equals(derColumn	.getAlias()))

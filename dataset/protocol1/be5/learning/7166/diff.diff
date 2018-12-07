@@ -1,0 +1,4 @@
+22c22
+<     public void jjtClose();
+---
+>     public void 	jjtClose();

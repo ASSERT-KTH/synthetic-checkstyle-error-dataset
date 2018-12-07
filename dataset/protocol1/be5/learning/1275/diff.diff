@@ -1,0 +1,4 @@
+53c53
+<             if (event == stopEvent && value.equals(reader.getLocalName()))
+---
+>             if (event == stopEvent 	&& value.equals(reader.getLocalName()))

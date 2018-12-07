@@ -1,0 +1,5 @@
+64c64,65
+<             if (select.getWhere() != null)
+---
+>             
+> if (select.getWhere() != null)

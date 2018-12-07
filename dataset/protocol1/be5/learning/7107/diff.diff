@@ -1,0 +1,5 @@
+66c66,67
+<             AstOrderBy orderBy = (AstOrderBy) node.child(node.jjtGetNumChildren() - 1);
+---
+>             AstOrderBy 
+> orderBy = (AstOrderBy) node.child(node.jjtGetNumChildren() - 1);

@@ -1,0 +1,5 @@
+16c16,17
+<         Stage stage = ModuleLoader2.getDevFileExists() ? Stage.DEVELOPMENT : Stage.PRODUCTION;
+---
+>         Stage 
+> stage = ModuleLoader2.getDevFileExists() ? Stage.DEVELOPMENT : Stage.PRODUCTION;

@@ -1,0 +1,4 @@
+21c21
+<     int ASSIGNMENT_PRIORITY = 8; // =
+---
+>     int ASSIGNMENT_PRIORITY 	= 8; // =

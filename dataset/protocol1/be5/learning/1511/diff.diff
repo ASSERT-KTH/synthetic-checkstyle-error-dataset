@@ -1,0 +1,4 @@
+353c353
+<     protected AstFrom transformDualFrom(AstFrom from)
+---
+>     protected AstFrom transformDualFrom(AstFrom 	from)

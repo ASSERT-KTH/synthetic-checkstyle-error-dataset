@@ -1,0 +1,4 @@
+20c20
+<         this.functionName = function;
+---
+>         this.functionName 	= function;

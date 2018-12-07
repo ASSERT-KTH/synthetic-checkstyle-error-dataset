@@ -1,0 +1,4 @@
+14c14
+<     String QUERY = "query";
+---
+>     String QUERY 	= "query";

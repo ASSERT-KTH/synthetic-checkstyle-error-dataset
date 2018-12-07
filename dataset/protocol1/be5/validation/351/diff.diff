@@ -1,0 +1,5 @@
+48,49c48
+<     public <K, V> Cache<K, V> createCache(String name)
+<     {
+---
+>     public <K, V> Cache<K, V> createCache(String name)    {

@@ -1,0 +1,5 @@
+126c126,127
+<     public static Be5Exception unknownQuery(String entityName, String queryName)
+---
+>     public static Be5Exception unknownQuery(String entityName, 
+> String queryName)

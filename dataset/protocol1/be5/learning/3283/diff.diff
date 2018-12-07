@@ -1,0 +1,4 @@
+45c45
+<         List<String> contextParamNames = params.get(SEARCH_PRESETS_PARAM) == null ? Collections.emptyList() :
+---
+>         List<String> contextParamNames = params.get(SEARCH_PRESETS_PARAM ) == null ? Collections.emptyList() :

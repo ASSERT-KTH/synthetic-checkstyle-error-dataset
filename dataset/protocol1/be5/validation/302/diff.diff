@@ -1,0 +1,5 @@
+26,27c26
+<             if (Modifier.isStatic(f.getModifiers()))
+<             {
+---
+>             if (Modifier.isStatic(f.getModifiers()))            {

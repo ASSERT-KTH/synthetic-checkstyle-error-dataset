@@ -1,0 +1,4 @@
+83c83
+<         map.put("TAG_LIST_ATTR", value);
+---
+>         map.put("TAG_LIST_ATTR" , value);

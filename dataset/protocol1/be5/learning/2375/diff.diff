@@ -1,0 +1,4 @@
+9c9
+<     FORMAT_DATE_RUS_SHORT("'DD.MM.YY'", "'%d.%m.%y'"),
+---
+>     FORMAT_DATE_RUS_SHORT("'DD.MM.YY'" , "'%d.%m.%y'"),

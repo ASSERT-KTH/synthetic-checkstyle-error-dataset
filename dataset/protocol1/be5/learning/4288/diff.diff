@@ -1,0 +1,4 @@
+14c14
+<     private static final SimpleDateFormat dateFormatRussianCasesQuotes = getDateFormatRussianCasesQuotes();
+---
+>     private static final 	SimpleDateFormat dateFormatRussianCasesQuotes = getDateFormatRussianCasesQuotes();

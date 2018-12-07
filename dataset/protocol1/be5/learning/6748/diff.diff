@@ -1,0 +1,4 @@
+44c44
+<             AstSelect select = new AstSelect(new AstSelectList(), new AstFrom(tableRef));
+---
+>             AstSelect select = new AstSelect(new AstSelectList(), new AstFrom(tableRef ));

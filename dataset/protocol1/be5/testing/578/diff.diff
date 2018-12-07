@@ -1,0 +1,5 @@
+42c42,43
+<             AstDerivedColumn firstColumn = (AstDerivedColumn) selectList.jjtGetChild(0);
+---
+>             
+> AstDerivedColumn firstColumn = (AstDerivedColumn) selectList.jjtGetChild(0);

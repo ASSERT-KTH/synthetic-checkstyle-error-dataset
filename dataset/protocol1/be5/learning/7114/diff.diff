@@ -1,0 +1,4 @@
+25c25
+<         AstQuery query = ast.getQuery();
+---
+>         AstQuery query =ast.getQuery();

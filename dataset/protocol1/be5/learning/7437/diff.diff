@@ -1,0 +1,4 @@
+34c34
+<         List<TableReference> collectionRefs = meta.getTableReferences(COLLECTION);
+---
+>         List<TableReference> collectionRefs = 	meta.getTableReferences(COLLECTION);

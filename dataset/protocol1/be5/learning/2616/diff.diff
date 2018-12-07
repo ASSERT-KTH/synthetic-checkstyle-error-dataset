@@ -1,0 +1,5 @@
+24c24,25
+<         if (where != null) addChild(where);
+---
+>         if (where != null) addChild(where)
+> ;

@@ -1,0 +1,4 @@
+7c7
+<     public AstPartitionByClause(int id)
+---
+>     public AstPartitionByClause(int id )

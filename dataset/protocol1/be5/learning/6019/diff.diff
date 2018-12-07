@@ -1,0 +1,4 @@
+81c81
+<     default List<Long> scalarLongList(String sql, Object... params)
+---
+>     	default List<Long> scalarLongList(String sql, Object... params)

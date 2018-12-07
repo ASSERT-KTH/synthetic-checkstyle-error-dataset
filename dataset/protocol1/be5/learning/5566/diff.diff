@@ -1,0 +1,5 @@
+83,84c83
+<                     if (ModuleLoader2.getModulesMap() != null)
+<                     {
+---
+>                     if (ModuleLoader2.getModulesMap() != null)                    {

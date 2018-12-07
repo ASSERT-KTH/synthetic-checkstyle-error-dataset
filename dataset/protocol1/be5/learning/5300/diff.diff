@@ -1,0 +1,5 @@
+71c71,72
+<                         DefaultParserContext.FUNC_TIMES.node(AstNumericConstant.of(12), getYears(endDate, startDate)));
+---
+>                         DefaultParserContext.FUNC_TIMES.node(AstNumericConstant.of(12), getYears(endDate, 
+> startDate)));

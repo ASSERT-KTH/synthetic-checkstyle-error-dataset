@@ -1,0 +1,4 @@
+54c54
+<         AstTableRef tableRef = getTableRef(tableName).orElse(null);
+---
+>         AstTableRef tableRef = getTableRef( tableName).orElse(null);

@@ -1,0 +1,5 @@
+52c52,53
+<     public Optional<String> getTableAlias(String tableName)
+---
+>     public 
+> Optional<String> getTableAlias(String tableName)

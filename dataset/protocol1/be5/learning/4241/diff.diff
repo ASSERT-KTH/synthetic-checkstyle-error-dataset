@@ -1,0 +1,4 @@
+83c83
+<         return (AstStart) super.clone();
+---
+>         return (AstStart ) super.clone();

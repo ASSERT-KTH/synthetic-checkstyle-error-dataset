@@ -1,0 +1,4 @@
+42c42
+<     public QuoteSymbol getQuoteSymbol()
+---
+>     public QuoteSymbol getQuoteSymbol ()

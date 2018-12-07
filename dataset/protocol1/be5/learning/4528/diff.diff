@@ -1,0 +1,5 @@
+32,33c32
+<     public String getType()
+<     {
+---
+>     public String getType()    {

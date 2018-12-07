@@ -1,0 +1,4 @@
+261c261
+<         if (Character.isSpaceChar(right) || Character.isSpaceChar(left) || right == '\n' || left == '\n' || left == '.' || right == '.')
+---
+>         if (Character.isSpaceChar(right) || Character.isSpaceChar(left ) || right == '\n' || left == '\n' || left == '.' || right == '.')

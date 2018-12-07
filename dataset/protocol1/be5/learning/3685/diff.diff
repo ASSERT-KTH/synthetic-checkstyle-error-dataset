@@ -1,0 +1,4 @@
+94c94
+<         else if (fun.getFunction().getName().equals("OR"))
+---
+>         else if (fun	.getFunction().getName().equals("OR"))

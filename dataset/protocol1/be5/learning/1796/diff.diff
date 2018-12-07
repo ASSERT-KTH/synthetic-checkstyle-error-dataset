@@ -1,0 +1,4 @@
+25c25
+<             setResultFinished(downloadOperationAction);
+---
+>             setResultFinished (downloadOperationAction);

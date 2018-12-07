@@ -1,0 +1,5 @@
+21c21,22
+<             right.addChild(left);
+---
+>             
+> right.addChild(left);

@@ -1,0 +1,4 @@
+12c12
+<     public AstFirstDayOf(SimpleNode node, String type)
+---
+>     public AstFirstDayOf( SimpleNode node, String type)

@@ -1,0 +1,5 @@
+60c60,61
+<         result = 31 * result + (mimeTypes != null ? mimeTypes.hashCode() : 0);
+---
+>         result = 31 * result + (mimeTypes != 
+> null ? mimeTypes.hashCode() : 0);

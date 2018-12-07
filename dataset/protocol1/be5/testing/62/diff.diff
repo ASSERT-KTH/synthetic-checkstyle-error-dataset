@@ -1,0 +1,4 @@
+68c68
+<         else if ("date_format".equals(name) || ("to_char".equals(name) && node.jjtGetNumChildren() == 2))
+---
+>         else if ("date_format".equals( name) || ("to_char".equals(name) && node.jjtGetNumChildren() == 2))

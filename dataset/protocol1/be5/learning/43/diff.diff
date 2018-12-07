@@ -1,0 +1,5 @@
+23c23,24
+<         DynamicPropertySetSupport dps = new DynamicPropertySetSupport();
+---
+>         DynamicPropertySetSupport dps 
+> = new DynamicPropertySetSupport();

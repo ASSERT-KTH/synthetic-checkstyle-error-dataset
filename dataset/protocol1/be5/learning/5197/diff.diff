@@ -1,0 +1,4 @@
+71c71
+<             if (event == XMLEvent.START_ELEMENT &&
+---
+>             if 	(event == XMLEvent.START_ELEMENT &&

@@ -1,0 +1,5 @@
+65c65,66
+<     public Cache getCache(String name)
+---
+>     public 
+> Cache getCache(String name)

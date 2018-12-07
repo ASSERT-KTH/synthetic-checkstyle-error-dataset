@@ -1,0 +1,4 @@
+30c30
+<     String TIMESTAMP_PARAM = "_ts_";
+---
+>     String TIMESTAMP_PARAM 	= "_ts_";

@@ -1,0 +1,5 @@
+22c22,23
+<         projectProvider.addToReload(this::initClassLoader);
+---
+>         
+> projectProvider.addToReload(this::initClassLoader);

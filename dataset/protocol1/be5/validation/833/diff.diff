@@ -1,0 +1,4 @@
+92c92
+<             if (contains) return true;
+---
+>             if (contains ) return true;

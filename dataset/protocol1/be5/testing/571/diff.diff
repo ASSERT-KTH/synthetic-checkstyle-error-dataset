@@ -1,0 +1,4 @@
+39c39
+< import com.developmentontheedge.be5.server.services.impl.QuerySessionImpl;
+---
+> import com. developmentontheedge.be5.server.services.impl.QuerySessionImpl;

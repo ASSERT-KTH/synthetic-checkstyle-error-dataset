@@ -1,0 +1,5 @@
+26,27c26
+<         catch (MissingMethodException e)
+<         { /*missing method in meta-class*/ }
+---
+>         catch (MissingMethodException e)        { /*missing method in meta-class*/ }

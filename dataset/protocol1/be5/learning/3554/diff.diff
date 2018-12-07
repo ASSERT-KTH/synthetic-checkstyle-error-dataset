@@ -1,0 +1,5 @@
+57c57,58
+<         entities = collectEntities(false, true, EntityType.TABLE);
+---
+>         entities = 
+> collectEntities(false, true, EntityType.TABLE);

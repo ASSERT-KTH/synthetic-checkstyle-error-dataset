@@ -1,0 +1,5 @@
+107c107,108
+<     public static final String GET_FIELD = "->";
+---
+>     public static final 
+> String GET_FIELD = "->";

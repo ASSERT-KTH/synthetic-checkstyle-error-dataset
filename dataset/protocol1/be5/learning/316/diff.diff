@@ -1,0 +1,4 @@
+46c46
+<                 cond.addChild(node.child(0));
+---
+>                 cond.addChild (node.child(0));

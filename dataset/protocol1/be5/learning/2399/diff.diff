@@ -1,0 +1,5 @@
+12,13c12
+<     private static final Set<String> ALLOWED_PARAMETERS = StreamEx.of(
+<             "refColumn", "default", "type", "multiple").toSet();
+---
+>     private static final Set<String> ALLOWED_PARAMETERS = StreamEx.of(            "refColumn", "default", "type", "multiple").toSet();

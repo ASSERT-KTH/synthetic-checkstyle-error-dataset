@@ -1,0 +1,4 @@
+79c79
+<     public static DynamicPropertySet leftShift(DynamicPropertySet dps, Map<String, Object> properties)
+---
+>     public 	static DynamicPropertySet leftShift(DynamicPropertySet dps, Map<String, Object> properties)

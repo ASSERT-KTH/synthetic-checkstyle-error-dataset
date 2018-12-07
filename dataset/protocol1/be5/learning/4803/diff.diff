@@ -1,0 +1,5 @@
+25c25,26
+<         return table == null ? new AstIdentifierConstant(name) : new AstFieldReference(table, name);
+---
+>         
+> return table == null ? new AstIdentifierConstant(name) : new AstFieldReference(table, name);

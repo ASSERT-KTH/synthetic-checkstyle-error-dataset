@@ -1,0 +1,5 @@
+174,175c174
+<     static class SmtpAuthenticator extends Authenticator
+<     {
+---
+>     static class SmtpAuthenticator extends Authenticator    {

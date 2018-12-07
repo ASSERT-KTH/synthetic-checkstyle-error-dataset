@@ -1,0 +1,5 @@
+16,17c16
+< import javax.inject.Singleton;
+< import java.util.Collections;
+---
+> import javax.inject.Singleton;import java.util.Collections;

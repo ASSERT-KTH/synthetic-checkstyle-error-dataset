@@ -1,0 +1,4 @@
+93c93
+<         return list(sql, new ScalarParser<String>(), params).toArray(new String[0]);
+---
+>         return list(sql, new ScalarParser<String>(), params).toArray(new String[0	]);

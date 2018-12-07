@@ -1,0 +1,4 @@
+30c30
+<         int updateCount = database.getEntity(getInfo().getEntityName()).remove(context.getRecords());
+---
+>         int updateCount = database.getEntity(getInfo().getEntityName()).remove (context.getRecords());

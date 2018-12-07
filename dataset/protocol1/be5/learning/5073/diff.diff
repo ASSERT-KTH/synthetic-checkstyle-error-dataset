@@ -1,0 +1,4 @@
+127c127
+<                 title, entityName, queryName, tableModel.isSelectable(),
+---
+>                 title, entityName, 	queryName, tableModel.isSelectable(),

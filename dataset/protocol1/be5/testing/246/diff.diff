@@ -1,0 +1,4 @@
+1119c1119
+<     public void updateBinaryStream(String columnLabel, InputStream x) throws SQLException
+---
+>     public void updateBinaryStream(String columnLabel, InputStream 	x) throws SQLException

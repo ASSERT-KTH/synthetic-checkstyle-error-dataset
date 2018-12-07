@@ -1,0 +1,4 @@
+43c43
+<                 new FrontendAction(UPDATE_USER_INFO, userInfoModel),
+---
+>                 new FrontendAction(UPDATE_USER_INFO , userInfoModel),

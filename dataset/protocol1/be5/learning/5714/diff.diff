@@ -1,0 +1,5 @@
+31c31,32
+<     String resolveQuery(String entity, String name);
+---
+>     String resolveQuery(String entity, 
+> String name);

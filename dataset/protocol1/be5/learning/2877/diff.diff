@@ -1,0 +1,4 @@
+44c44
+<             if (e instanceof Be5Exception && e.getCause() != null)
+---
+>             if (e instanceof Be5Exception && e. getCause() != null)

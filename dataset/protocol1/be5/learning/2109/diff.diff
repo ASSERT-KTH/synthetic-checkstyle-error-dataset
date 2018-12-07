@@ -1,0 +1,4 @@
+121c121
+<     public void setGROUP_CLASSES(String value)
+---
+>     public void setGROUP_CLASSES( String value)

@@ -1,0 +1,5 @@
+106c106,107
+<                     history.add(sql);
+---
+>                     
+> history.add(sql);

@@ -1,0 +1,4 @@
+20c20
+<                 "java.lang.Double".equals(className) ||
+---
+>                 	"java.lang.Double".equals(className) ||

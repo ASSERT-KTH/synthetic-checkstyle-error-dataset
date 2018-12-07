@@ -1,0 +1,5 @@
+49c49,50
+<         if (obj == null || getClass() != obj.getClass())
+---
+>         if 
+> (obj == null || getClass() != obj.getClass())

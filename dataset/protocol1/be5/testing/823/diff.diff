@@ -1,0 +1,5 @@
+24c24,25
+<     protected SimpleNode getDateTimeDiff(SimpleNode startDate, SimpleNode endDate, String format)
+---
+>     protected SimpleNode getDateTimeDiff(SimpleNode startDate, 
+> SimpleNode endDate, String format)

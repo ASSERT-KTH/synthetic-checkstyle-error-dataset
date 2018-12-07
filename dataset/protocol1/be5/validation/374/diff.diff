@@ -1,0 +1,4 @@
+58c58
+<         if (data instanceof byte[])//postgres, mysql
+---
+>         if (data instanceof byte [])//postgres, mysql

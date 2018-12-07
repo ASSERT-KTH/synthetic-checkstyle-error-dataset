@@ -1,0 +1,4 @@
+28c28
+<                 && "DUAL".equalsIgnoreCase(((AstTableRef) children.get(0)).getTable());
+---
+>                 && "DUAL".equalsIgnoreCase(((AstTableRef) children.get (0)).getTable());

@@ -1,0 +1,4 @@
+15c15
+<             if ((child instanceof AstFunNode) && ((AstFunNode) child).getFunction() instanceof BeMacroFunction)
+---
+>             if ((child instanceof AstFunNode)&& ((AstFunNode) child).getFunction() instanceof BeMacroFunction)

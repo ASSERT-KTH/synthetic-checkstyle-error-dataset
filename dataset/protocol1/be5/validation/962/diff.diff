@@ -1,0 +1,4 @@
+66c66
+<         String reqWithoutContext = getRequestWithoutContext(req.getContextPath(), req.getRequestUri());
+---
+>         String reqWithoutContext = getRequestWithoutContext(req.getContextPath (), req.getRequestUri());

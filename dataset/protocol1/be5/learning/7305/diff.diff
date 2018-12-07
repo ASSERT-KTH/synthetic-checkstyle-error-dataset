@@ -1,0 +1,4 @@
+6c6
+<     public AstWith(int id)
+---
+>     public 	AstWith(int id)

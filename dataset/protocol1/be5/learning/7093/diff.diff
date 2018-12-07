@@ -1,0 +1,4 @@
+32c32
+<         out.append("" + updateCount + " " + ("records were deleted from") + " <i>" + getInfo().getEntityName() + "</i><br />");
+---
+>         out.append("" + updateCount + " " + ("records were deleted from") + " <i>" 	+ getInfo().getEntityName() + "</i><br />");

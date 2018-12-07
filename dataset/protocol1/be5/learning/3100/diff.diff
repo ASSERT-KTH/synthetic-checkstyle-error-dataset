@@ -1,0 +1,4 @@
+17c17
+<         bind(Response.class).to(ResponseImpl.class).in(ServletScopes.REQUEST);
+---
+>         bind(Response.class).to(ResponseImpl.class). in(ServletScopes.REQUEST);

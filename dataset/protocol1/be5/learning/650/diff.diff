@@ -1,0 +1,5 @@
+19c19,20
+<     public AstSelect(AstSelectList list, AstFrom from, AstWhere where)
+---
+>     
+> public AstSelect(AstSelectList list, AstFrom from, AstWhere where)

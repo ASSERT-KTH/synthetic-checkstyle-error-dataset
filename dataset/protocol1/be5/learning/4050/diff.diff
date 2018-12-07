@@ -1,0 +1,5 @@
+45c45,46
+<             dataSource = (DataSource) xmlContext.lookup("jdbc/" + project.getAppName());
+---
+>             dataSource 
+> = (DataSource) xmlContext.lookup("jdbc/" + project.getAppName());

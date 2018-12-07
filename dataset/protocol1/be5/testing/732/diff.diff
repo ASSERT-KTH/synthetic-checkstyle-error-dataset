@@ -1,0 +1,5 @@
+117c117,118
+<         this(SqlParserTreeConstants.JJTWHERE);
+---
+>         
+> this(SqlParserTreeConstants.JJTWHERE);

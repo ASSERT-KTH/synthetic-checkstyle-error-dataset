@@ -1,0 +1,4 @@
+105c105
+<         if (defaultValue != null && defaultValue.startsWith("'") && defaultValue.endsWith("'"))
+---
+>         if (defaultValue != null && defaultValue.startsWith("'") && defaultValue. endsWith("'"))

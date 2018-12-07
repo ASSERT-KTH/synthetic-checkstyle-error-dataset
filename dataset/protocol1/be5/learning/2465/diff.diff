@@ -1,0 +1,4 @@
+10c10
+<         addChild(a);
+---
+>         addChild(a) ;

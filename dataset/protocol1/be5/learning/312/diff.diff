@@ -1,0 +1,4 @@
+28c28
+<         return e instanceof RuntimeException ? (RuntimeException) e : new RuntimeException("rethrow after rollback", e);
+---
+>         return e instanceof RuntimeException ? (RuntimeException) e : new RuntimeException("rethrow after rollback",e);

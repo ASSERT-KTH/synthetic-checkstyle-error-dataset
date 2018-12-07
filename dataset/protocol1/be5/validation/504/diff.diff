@@ -1,0 +1,4 @@
+60c60
+<     public Query getQuery()
+---
+>     public 	Query getQuery()

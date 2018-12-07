@@ -1,0 +1,4 @@
+38c38
+<     public static Action call(String link)
+---
+>     public static Action call(String link )

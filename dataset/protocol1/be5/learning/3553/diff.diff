@@ -1,0 +1,4 @@
+16c16
+<         query.children().select(AstSelect.class).forEach(AstSelect::dropOrder);
+---
+>         query.children().select(AstSelect.class). forEach(AstSelect::dropOrder);

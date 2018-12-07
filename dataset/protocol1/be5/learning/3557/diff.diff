@@ -1,0 +1,4 @@
+10c10
+<         setFunction(DefaultParserContext.FUNC_CONCAT);
+---
+>         setFunction(DefaultParserContext.FUNC_CONCAT );

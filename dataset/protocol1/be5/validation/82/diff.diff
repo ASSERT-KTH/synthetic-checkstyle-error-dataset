@@ -1,0 +1,4 @@
+66c66
+<                     + (minNumberOfParams() == maxNumberOfParams() ? minNumberOfParams()
+---
+>                     + (minNumberOfParams() == maxNumberOfParams() 	? minNumberOfParams()

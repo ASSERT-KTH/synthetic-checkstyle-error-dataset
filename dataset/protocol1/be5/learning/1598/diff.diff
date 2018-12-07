@@ -1,0 +1,4 @@
+75c75
+<             ((AstIdentifierConstant) child(1)).setValue(alias);
+---
+>             ((AstIdentifierConstant) child(1)).setValue (alias);

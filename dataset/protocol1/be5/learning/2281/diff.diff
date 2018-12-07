@@ -1,0 +1,5 @@
+67,68c67
+<             if (vals.children().map(v -> v.format().trim()).anyMatch(valStr::equals))
+<             {
+---
+>             if (vals.children().map(v -> v.format().trim()).anyMatch(valStr::equals))            {

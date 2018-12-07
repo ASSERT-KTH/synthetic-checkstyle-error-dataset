@@ -1,0 +1,5 @@
+143c143,144
+<     JsonApiModel getNewTableRows(Query query, Map<String, Object> parameters)
+---
+>     JsonApiModel 
+> getNewTableRows(Query query, Map<String, Object> parameters)

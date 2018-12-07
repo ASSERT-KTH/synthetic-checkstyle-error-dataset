@@ -1,0 +1,5 @@
+138c138,139
+<         if (userInfoProvider.isSystemDeveloper() && operation.getResult().getStatus() == OperationStatus.ERROR)
+---
+>         if (userInfoProvider.isSystemDeveloper() && operation.getResult
+> ().getStatus() == OperationStatus.ERROR)

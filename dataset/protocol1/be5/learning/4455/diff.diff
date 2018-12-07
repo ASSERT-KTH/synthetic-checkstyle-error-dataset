@@ -1,0 +1,5 @@
+48,49c48
+<         for (EntityLocalizations entityLocalizations : localizations)
+<         {
+---
+>         for (EntityLocalizations entityLocalizations : localizations)        {

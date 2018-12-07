@@ -1,0 +1,4 @@
+27c27
+< import com.developmentontheedge.sql.model.AstInsert;
+---
+> import com.developmentontheedge	.sql.model.AstInsert;

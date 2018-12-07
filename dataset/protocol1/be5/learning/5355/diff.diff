@@ -1,0 +1,4 @@
+65c65
+<             title = title.replace("$" + (i + 1), parameters.get(i));
+---
+>             title = title.replace("$" + (i + 1), parameters.get(i)) ;

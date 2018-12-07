@@ -1,0 +1,4 @@
+24c24
+<             return InvokerHelper.invokeMethod(getClass(), methodName, ObjectArrays.concat(object, args));
+---
+>             return InvokerHelper.invokeMethod(getClass(), methodName , ObjectArrays.concat(object, args));

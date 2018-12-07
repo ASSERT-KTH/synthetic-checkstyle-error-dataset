@@ -1,0 +1,5 @@
+78c78,79
+<             ArrayList<URL> urls = Collections.list(getClass().getClassLoader().getResources(CONFIG_FILE));
+---
+>             ArrayList<URL> urls = Collections.list(getClass().getClassLoader().getResources(CONFIG_FILE))
+> ;

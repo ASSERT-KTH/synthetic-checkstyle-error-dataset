@@ -1,0 +1,4 @@
+19c19
+<         String type = name.equalsIgnoreCase("add_months") ? "MONTH" : name.equalsIgnoreCase("add_days") ? "DAY" : "MILLISECOND";
+---
+>         String type = name.equalsIgnoreCase("add_months") ? "MONTH" :name.equalsIgnoreCase("add_days") ? "DAY" : "MILLISECOND";

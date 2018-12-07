@@ -1,0 +1,4 @@
+57c57
+<         this.userInfo = (UserInfo) session.get(SessionConstants.USER_INFO);
+---
+>         this.userInfo = (UserInfo) session. get(SessionConstants.USER_INFO);

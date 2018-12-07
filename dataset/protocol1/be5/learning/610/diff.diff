@@ -1,0 +1,4 @@
+22c22
+<     private final String formatOther;
+---
+>     private 	final String formatOther;

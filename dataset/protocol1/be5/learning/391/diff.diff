@@ -1,0 +1,4 @@
+52c52
+<                     num = derColumn.jjtGetParent().indexOf(derColumn) + 1;
+---
+>                     num = derColumn.jjtGetParent().indexOf(derColumn)+ 1;

@@ -1,0 +1,5 @@
+14c14,15
+<     public AstOrderBy(AstOrderingElement... childs)
+---
+>     public 
+> AstOrderBy(AstOrderingElement... childs)

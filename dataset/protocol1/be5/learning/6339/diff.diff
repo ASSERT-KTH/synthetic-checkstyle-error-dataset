@@ -1,0 +1,5 @@
+96,97c96
+<     public void setCOLUMN_SIZE_ATTR(Object value)
+<     {
+---
+>     public void setCOLUMN_SIZE_ATTR(Object value)    {

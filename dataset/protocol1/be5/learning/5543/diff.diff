@@ -1,0 +1,4 @@
+94c94
+<         saveUser(RoleType.ROLE_GUEST, roles, roles, req.getLocale(), req.getRemoteAddr());
+---
+>         saveUser(RoleType. ROLE_GUEST, roles, roles, req.getLocale(), req.getRemoteAddr());

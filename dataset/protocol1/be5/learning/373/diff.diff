@@ -1,0 +1,5 @@
+22c22,23
+<     <T> T select(String sql, ResultSetParser<T> parser, Object... params);
+---
+>     <T> T 
+> select(String sql, ResultSetParser<T> parser, Object... params);

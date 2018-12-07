@@ -1,0 +1,5 @@
+67,68c67
+<                 for (QueryNode node : rootNode.children)
+<                 {
+---
+>                 for (QueryNode node : rootNode.children)                {

@@ -1,0 +1,4 @@
+173c173
+<     public Optional<String> get(String language, String entityName, String queryName, String content)
+---
+>     public Optional<String> get(String 	language, String entityName, String queryName, String content)

@@ -1,0 +1,4 @@
+44c44
+<     private static void collectLocalizations(LanguageLocalizations localizations, Table<String, String, CompiledEntityLocalizations> all)
+---
+>     private static void collectLocalizations( LanguageLocalizations localizations, Table<String, String, CompiledEntityLocalizations> all)

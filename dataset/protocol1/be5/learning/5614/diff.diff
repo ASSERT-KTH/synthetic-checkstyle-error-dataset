@@ -1,0 +1,5 @@
+131,132c131
+<     public static Be5Exception unknownOperation(String entityName, String operationName)
+<     {
+---
+>     public static Be5Exception unknownOperation(String entityName, String operationName)    {

@@ -1,0 +1,4 @@
+7c7
+< import java.util.logging.LogManager;
+---
+> import java.util.logging	.LogManager;

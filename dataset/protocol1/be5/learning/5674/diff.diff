@@ -1,0 +1,5 @@
+21c21,22
+<     public Object getLayout()
+---
+>     public Object getLayout
+> ()

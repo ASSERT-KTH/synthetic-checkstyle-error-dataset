@@ -1,0 +1,5 @@
+22,23c22
+< import com.developmentontheedge.be5.metadata.model.RoleSet;
+< import com.developmentontheedge.be5.metadata.model.SqlColumnType;
+---
+> import com.developmentontheedge.be5.metadata.model.RoleSet;import com.developmentontheedge.be5.metadata.model.SqlColumnType;

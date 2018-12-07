@@ -1,0 +1,4 @@
+130c130
+<                 && !StreamEx.zip(Arrays.asList(childConditions), node.children, Predicate::test).has(false));
+---
+>                 && !StreamEx.zip(Arrays.asList( childConditions), node.children, Predicate::test).has(false));

@@ -1,0 +1,4 @@
+145c145
+<     private OperationResult resultForFrontend(OperationResult result)
+---
+>     private 	OperationResult resultForFrontend(OperationResult result)

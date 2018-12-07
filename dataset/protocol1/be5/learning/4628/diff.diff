@@ -1,0 +1,5 @@
+14,15c14
+< import com.developmentontheedge.sql.model.AstInterval;
+< import com.developmentontheedge.sql.model.AstNullPredicate;
+---
+> import com.developmentontheedge.sql.model.AstInterval;import com.developmentontheedge.sql.model.AstNullPredicate;

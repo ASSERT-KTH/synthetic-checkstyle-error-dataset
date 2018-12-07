@@ -1,0 +1,4 @@
+30c30
+<         this.mode = Mode.ANY;
+---
+>         this.mode =Mode.ANY;

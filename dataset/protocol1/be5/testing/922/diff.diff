@@ -1,0 +1,5 @@
+103,104c103
+<     public boolean isUserInRole(String role)
+<     {
+---
+>     public boolean isUserInRole(String role)    {

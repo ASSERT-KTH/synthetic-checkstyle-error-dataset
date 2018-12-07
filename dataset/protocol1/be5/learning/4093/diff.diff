@@ -1,0 +1,5 @@
+22,23c22
+<     private void transformMacroFunction(AstFunNode node)
+<     {
+---
+>     private void transformMacroFunction(AstFunNode node)    {

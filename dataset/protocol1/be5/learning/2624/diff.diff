@@ -1,0 +1,5 @@
+341c341,342
+<         Query query = getEntity(entityName).getQueries().get(queryName);
+---
+>         Query query = getEntity(entityName).getQueries
+> ().get(queryName);

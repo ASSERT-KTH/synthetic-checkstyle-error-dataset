@@ -1,0 +1,5 @@
+19c19,20
+<     public static final String ACTION_QUERY = "query";
+---
+>     public static 
+> final String ACTION_QUERY = "query";

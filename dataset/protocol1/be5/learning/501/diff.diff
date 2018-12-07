@@ -1,0 +1,5 @@
+329c329,330
+<             return changeArrayItemTypes((Object[]) val, valClass);
+---
+>             return changeArrayItemTypes((Object[]) val, valClass)
+> ;

@@ -1,0 +1,4 @@
+30c30
+<         return node -> node instanceof AstInterval && literal.equals(((AstInterval) node).getLiteral());
+---
+>         return node -> node instanceof 	AstInterval && literal.equals(((AstInterval) node).getLiteral());

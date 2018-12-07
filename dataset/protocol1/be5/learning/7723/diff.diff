@@ -1,0 +1,4 @@
+7c7
+< public class TemplateModule extends ServletModule
+---
+> public class TemplateModule extends 	ServletModule

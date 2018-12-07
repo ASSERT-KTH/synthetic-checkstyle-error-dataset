@@ -1,0 +1,4 @@
+98c98
+<         map.put("COLUMN_SIZE_ATTR", value);
+---
+>         map.put("COLUMN_SIZE_ATTR", value) ;

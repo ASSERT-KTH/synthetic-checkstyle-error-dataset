@@ -1,0 +1,4 @@
+15c15
+<     void sendEmail(InternetAddress from, InternetAddress[] to,
+---
+>     void sendEmail(InternetAddress from, InternetAddress[] to ,

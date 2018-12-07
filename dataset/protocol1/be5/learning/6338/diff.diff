@@ -1,0 +1,5 @@
+101c101,102
+<             listener.queryCompleted(query, parameters, startTime, endTime);
+---
+>             listener.queryCompleted(query, parameters, 
+> startTime, endTime);

@@ -1,0 +1,4 @@
+33c33
+<                 int status = Integer.parseInt(jsonApiModel.getErrors()[0].getStatus());
+---
+>                 int status = Integer.parseInt(jsonApiModel.getErrors()[0]	.getStatus());

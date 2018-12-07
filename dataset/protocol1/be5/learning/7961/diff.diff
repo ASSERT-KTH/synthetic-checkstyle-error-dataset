@@ -1,0 +1,4 @@
+12c12
+< import static com.developmentontheedge.be5.base.exceptions.Be5ErrorCode.INTERNAL_ERROR_IN_QUERY;
+---
+> import static com. developmentontheedge.be5.base.exceptions.Be5ErrorCode.INTERNAL_ERROR_IN_QUERY;

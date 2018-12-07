@@ -1,0 +1,4 @@
+33c33
+<         String parentLevel = log.getParent().getLevel() != null ? log.getParent().getLevel().getName() : "null";
+---
+>         String parentLevel = log.getParent().getLevel() !=null ? log.getParent().getLevel().getName() : "null";

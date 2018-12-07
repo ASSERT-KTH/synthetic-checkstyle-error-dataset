@@ -1,0 +1,5 @@
+867c867,868
+<     public void updateArray(int columnIndex, Array x) throws SQLException
+---
+>     
+> public void updateArray(int columnIndex, Array x) throws SQLException

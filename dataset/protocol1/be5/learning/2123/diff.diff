@@ -1,0 +1,5 @@
+116c116,117
+<     public void setGROUP_NAME(String value)
+---
+>     public void setGROUP_NAME
+> (String value)

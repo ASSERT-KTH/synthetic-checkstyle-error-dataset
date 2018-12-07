@@ -1,0 +1,4 @@
+51c51
+<     public static AstTableRef as(String... childs)
+---
+>     public static AstTableRef as(String ... childs)

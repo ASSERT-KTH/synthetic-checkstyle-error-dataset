@@ -1,0 +1,5 @@
+14c14,15
+<         this(SqlParserTreeConstants.JJTWINDOWFUNCTION);
+---
+>         this(SqlParserTreeConstants.JJTWINDOWFUNCTION)
+> ;

@@ -1,0 +1,4 @@
+45c45
+<         Objects.requireNonNull(builder.getName());
+---
+>         Objects.requireNonNull(builder. getName());

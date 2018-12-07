@@ -1,0 +1,5 @@
+102c102,103
+<         String getByTopicAndKey(String topic, String key)
+---
+>         String getByTopicAndKey(String topic
+> , String key)

@@ -1,0 +1,4 @@
+38c38
+<     public Class getClass(String key, String code, String fileName)
+---
+>     public Class getClass(String key, String code , String fileName)

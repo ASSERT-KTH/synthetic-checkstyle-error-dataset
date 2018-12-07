@@ -1,0 +1,4 @@
+21c21
+<         bind(ConnectionService.class).to(ConnectionServiceImpl.class).in(Scopes.SINGLETON);
+---
+>         bind(ConnectionService	.class).to(ConnectionServiceImpl.class).in(Scopes.SINGLETON);

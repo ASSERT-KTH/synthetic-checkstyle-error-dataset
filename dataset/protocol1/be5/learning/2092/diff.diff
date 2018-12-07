@@ -1,0 +1,4 @@
+47c47
+<     public AstDerivedColumn setAsToken(boolean asToken)
+---
+>     public AstDerivedColumn 	setAsToken(boolean asToken)

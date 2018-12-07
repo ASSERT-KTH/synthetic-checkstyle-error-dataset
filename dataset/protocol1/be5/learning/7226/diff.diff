@@ -1,0 +1,5 @@
+187c187,188
+<         calendar.set(Calendar.DAY_OF_YEAR, 1);
+---
+>         
+> calendar.set(Calendar.DAY_OF_YEAR, 1);

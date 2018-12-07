@@ -1,0 +1,5 @@
+19c19,20
+<     List<String> getListParameter(String name);
+---
+>     
+> List<String> getListParameter(String name);

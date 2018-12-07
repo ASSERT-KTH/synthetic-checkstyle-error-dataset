@@ -1,0 +1,4 @@
+70c70
+<         for (start = 0; matcher.find(start); start = matcher.end())
+---
+>         for (start = 	0; matcher.find(start); start = matcher.end())

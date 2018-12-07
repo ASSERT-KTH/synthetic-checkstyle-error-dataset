@@ -1,0 +1,5 @@
+208,209c208
+<     public Query getQuery(String entityName, String queryName)
+<     {
+---
+>     public Query getQuery(String entityName, String queryName)    {

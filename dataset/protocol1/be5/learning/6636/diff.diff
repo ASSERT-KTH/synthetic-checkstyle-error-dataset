@@ -1,0 +1,5 @@
+18,19c18
+< import com.developmentontheedge.sql.model.AstWhere;
+< import com.developmentontheedge.sql.model.DefaultParserContext;
+---
+> import com.developmentontheedge.sql.model.AstWhere;import com.developmentontheedge.sql.model.DefaultParserContext;

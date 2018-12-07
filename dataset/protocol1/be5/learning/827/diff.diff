@@ -1,0 +1,4 @@
+145c145
+<     public static Predicate<SimpleNode> isFunction(String fnName)
+---
+>     public static Predicate<SimpleNode > isFunction(String fnName)

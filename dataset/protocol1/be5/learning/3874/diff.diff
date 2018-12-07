@@ -1,0 +1,4 @@
+44c44
+<             Context xmlContext = (Context) ic.lookup("java:comp/env");
+---
+>             Context xmlContext 	= (Context) ic.lookup("java:comp/env");

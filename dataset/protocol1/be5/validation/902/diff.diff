@@ -1,0 +1,4 @@
+103c103
+<             message = "Cannot execute operation " + op.getInfo().getName() + ": " + e.getMessage();
+---
+>             message = "Cannot execute operation " + op.getInfo().getName()+ ": " + e.getMessage();

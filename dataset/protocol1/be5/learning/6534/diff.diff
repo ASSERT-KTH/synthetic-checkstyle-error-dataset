@@ -1,0 +1,5 @@
+103c103,104
+<         DPSAttributes dpsAttributes = new DPSAttributes();
+---
+>         DPSAttributes dpsAttributes = new 
+> DPSAttributes();

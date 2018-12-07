@@ -1,0 +1,5 @@
+83,84c83
+<     public void setType(String value)
+<     {
+---
+>     public void setType(String value)    {

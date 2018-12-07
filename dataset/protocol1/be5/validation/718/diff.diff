@@ -1,0 +1,5 @@
+50c50,51
+<     public boolean skipInvoke(Operation op, Object parameters)
+---
+>     public boolean skipInvoke(Operation op, Object 
+> parameters)

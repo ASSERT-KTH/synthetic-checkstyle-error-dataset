@@ -1,0 +1,5 @@
+57c57,58
+<     public void setEscape(boolean escape)
+---
+>     public 
+> void setEscape(boolean escape)

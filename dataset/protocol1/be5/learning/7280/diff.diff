@@ -1,0 +1,4 @@
+132c132
+<             sessionVariables.put(name, SqlTypeUtils.parseValue(value, className));
+---
+>             sessionVariables.put( name, SqlTypeUtils.parseValue(value, className));

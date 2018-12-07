@@ -1,0 +1,5 @@
+32,33c32
+<     private void respond(HttpServletRequest request, HttpServletResponse response)
+<     {
+---
+>     private void respond(HttpServletRequest request, HttpServletResponse response)    {

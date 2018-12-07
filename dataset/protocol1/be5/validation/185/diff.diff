@@ -1,0 +1,4 @@
+15c15
+<         if (prev instanceof AstIdentifierConstant && !(next instanceof AstIdentifierConstant))
+---
+>         if (prev instanceof AstIdentifierConstant && !(next instanceof 	AstIdentifierConstant))

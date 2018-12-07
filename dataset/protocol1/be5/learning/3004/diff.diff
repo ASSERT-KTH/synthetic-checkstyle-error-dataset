@@ -1,0 +1,4 @@
+81c81
+<                 throw new IllegalStateException("Unsupported value for datepart in TIMESTAMPDIFF: " + format);
+---
+>                 throw new IllegalStateException ("Unsupported value for datepart in TIMESTAMPDIFF: " + format);

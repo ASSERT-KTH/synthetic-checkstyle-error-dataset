@@ -1,0 +1,5 @@
+98c98,99
+<             log.log(e.getLogLevel(), "Error in operation: " + url + ", on requestSubUrl = '" + requestSubUrl + "'", e);
+---
+>             log.log(e.getLogLevel(), "Error in operation: " + url + ", on requestSubUrl = '" + requestSubUrl + "'", 
+> e);

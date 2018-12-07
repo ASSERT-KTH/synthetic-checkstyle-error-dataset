@@ -1,0 +1,4 @@
+12c12
+<         this.content = content;
+---
+>         this.content = 	content;

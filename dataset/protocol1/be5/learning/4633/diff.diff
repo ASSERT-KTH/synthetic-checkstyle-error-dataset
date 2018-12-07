@@ -1,0 +1,5 @@
+31c31,32
+<     public void setContent(String content, boolean safed)
+---
+>     public void setContent
+> (String content, boolean safed)

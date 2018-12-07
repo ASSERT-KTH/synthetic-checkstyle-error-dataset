@@ -1,0 +1,5 @@
+175c175,176
+<     private List<OperationNode> generateEntityOperations(Entity entity, List<String> roles, boolean withIds)
+---
+>     private List<OperationNode> 
+> generateEntityOperations(Entity entity, List<String> roles, boolean withIds)

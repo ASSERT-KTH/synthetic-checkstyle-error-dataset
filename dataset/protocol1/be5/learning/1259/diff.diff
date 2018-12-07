@@ -1,0 +1,5 @@
+7c7,8
+<     public AstBeQuoted(int id)
+---
+>     public 
+> AstBeQuoted(int id)

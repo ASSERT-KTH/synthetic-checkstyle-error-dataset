@@ -1,0 +1,4 @@
+30c30
+<     protected void transformRegexpLike(AstFunNode node)
+---
+>     protected void transformRegexpLike(AstFunNode 	node)

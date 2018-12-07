@@ -1,0 +1,4 @@
+67c67
+<                     jsonObject = (JsonObject) new JsonParser().parse(value);
+---
+>                     jsonObject 	= (JsonObject) new JsonParser().parse(value);

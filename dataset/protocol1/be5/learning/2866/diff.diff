@@ -1,0 +1,4 @@
+158c158
+<         Optional<String> title = get(language, entityName, operationName, name);
+---
+>         Optional<String> title = get( language, entityName, operationName, name);

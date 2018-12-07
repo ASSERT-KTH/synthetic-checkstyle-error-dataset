@@ -1,0 +1,4 @@
+25c25
+<         selectList.addChild(countNode);
+---
+>         selectList.addChild(countNode) ;

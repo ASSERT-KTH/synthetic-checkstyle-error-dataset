@@ -1,0 +1,4 @@
+12c12
+<     private final String columnName;
+---
+>     private final String 	columnName;

@@ -1,0 +1,5 @@
+5c5,6
+< public class AstFieldReference extends SimpleNode
+---
+> public class AstFieldReference extends 
+> SimpleNode

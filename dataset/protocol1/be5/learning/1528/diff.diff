@@ -1,0 +1,5 @@
+117c117,118
+<     public CompiledLocalizations(Table<String, String, CompiledEntityLocalizations> all)
+---
+>     
+> public CompiledLocalizations(Table<String, String, CompiledEntityLocalizations> all)

@@ -1,0 +1,4 @@
+1c1
+< package com.developmentontheedge.be5.server.model.jsonapi;
+---
+> package com.developmentontheedge.be5.server	.model.jsonapi;

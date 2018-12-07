@@ -1,0 +1,5 @@
+88c88,89
+<         return scalarLongList(sql, params).toArray(new Long[0]);
+---
+>         return scalarLongList(sql, params).toArray
+> (new Long[0]);

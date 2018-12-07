@@ -1,0 +1,4 @@
+60c60
+<             if (selected != null ? !selected.equals(that.selected) : that.selected != null) return false;
+---
+>             if (selected != null ? !selected.equals(that.selected) : that.selected != null) return false ;

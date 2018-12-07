@@ -1,0 +1,4 @@
+5c5
+< public class AstInsertValueList extends SimpleNode
+---
+> public class 	AstInsertValueList extends SimpleNode

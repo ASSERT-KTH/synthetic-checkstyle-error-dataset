@@ -1,0 +1,4 @@
+63c63
+<         checkNotNull(pattern);
+---
+>         	checkNotNull(pattern);

@@ -1,0 +1,4 @@
+29c29
+<     <T> T one(String sql, Object... params);
+---
+>     <T> T one (String sql, Object... params);

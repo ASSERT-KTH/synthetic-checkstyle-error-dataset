@@ -1,0 +1,5 @@
+198c198,199
+<     private Map<String, Map<String, Object>> getUserQueriesFilterParams()
+---
+>     private Map<String, Map<String, Object>> 
+> getUserQueriesFilterParams()

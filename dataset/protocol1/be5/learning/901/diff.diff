@@ -1,0 +1,5 @@
+114,115c114
+<         for (Map.Entry<ColumnRef, List<Object>> entry : conditions.entrySet())
+<         {
+---
+>         for (Map.Entry<ColumnRef, List<Object>> entry : conditions.entrySet())        {

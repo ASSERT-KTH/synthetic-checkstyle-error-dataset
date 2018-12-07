@@ -1,0 +1,5 @@
+30c30,31
+<         return jjtGetParent() instanceof AstBeNode ? null : super.getSpecialPrefix();
+---
+>         return jjtGetParent() instanceof 
+> AstBeNode ? null : super.getSpecialPrefix();

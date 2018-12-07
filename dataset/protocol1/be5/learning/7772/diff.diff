@@ -1,0 +1,5 @@
+5c5,6
+< import groovy.lang.MissingMethodException;
+---
+> import groovy.lang.MissingMethodException
+> ;

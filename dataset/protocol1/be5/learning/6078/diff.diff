@@ -1,0 +1,4 @@
+96c96
+<             error(t.toString());
+---
+>             error( t.toString());

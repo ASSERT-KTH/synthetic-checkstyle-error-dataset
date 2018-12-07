@@ -1,0 +1,4 @@
+72c72
+<             if (params.get(SEARCH_PRESETS_PARAM) != null)
+---
+>             if (params.get(SEARCH_PRESETS_PARAM) 	!= null)

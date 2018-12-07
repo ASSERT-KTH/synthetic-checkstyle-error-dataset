@@ -1,0 +1,4 @@
+16c16
+<     public AstExtract(String dateField, SimpleNode child)
+---
+>     public AstExtract(String dateField, SimpleNode child )

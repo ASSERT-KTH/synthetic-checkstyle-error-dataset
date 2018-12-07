@@ -1,0 +1,4 @@
+23c23
+<     public static final String ACTION_PRINT = "print";
+---
+>     public static final String ACTION_PRINT = "print" ;

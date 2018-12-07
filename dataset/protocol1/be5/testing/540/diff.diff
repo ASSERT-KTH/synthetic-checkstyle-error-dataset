@@ -1,0 +1,5 @@
+38,39c38
+< import com.developmentontheedge.be5.server.services.impl.MailServiceImpl;
+< import com.developmentontheedge.be5.server.services.impl.QuerySessionImpl;
+---
+> import com.developmentontheedge.be5.server.services.impl.MailServiceImpl;import com.developmentontheedge.be5.server.services.impl.QuerySessionImpl;

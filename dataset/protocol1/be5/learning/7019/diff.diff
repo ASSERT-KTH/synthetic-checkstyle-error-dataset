@@ -1,0 +1,5 @@
+47c47,48
+<             this.nodePrefix = "SELECT " + setQuantifier;
+---
+>             this.nodePrefix = 
+> "SELECT " + setQuantifier;

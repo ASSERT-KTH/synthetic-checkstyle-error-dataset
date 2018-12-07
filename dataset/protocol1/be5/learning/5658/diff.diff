@@ -1,0 +1,4 @@
+318c318
+<                 AstIdentifierConstant rn = new AstIdentifierConstant("rn");
+---
+>                 AstIdentifierConstant rn = new AstIdentifierConstant("rn") ;

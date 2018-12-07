@@ -1,0 +1,5 @@
+101c101,102
+<             case Operation.VISIBLE_WHEN_ONE_SELECTED_RECORD:
+---
+>             case 
+> Operation.VISIBLE_WHEN_ONE_SELECTED_RECORD:

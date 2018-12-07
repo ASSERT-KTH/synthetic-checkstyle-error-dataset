@@ -1,0 +1,4 @@
+27c27
+<                 AstDerivedColumn derivedColumn = (AstDerivedColumn) selectList.jjtGetChild(i);
+---
+>                 AstDerivedColumn derivedColumn =(AstDerivedColumn) selectList.jjtGetChild(i);

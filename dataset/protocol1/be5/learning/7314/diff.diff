@@ -1,0 +1,4 @@
+61c61
+<             BeConnectionProfile profile = project.getConnectionProfile();
+---
+>             BeConnectionProfile profile = project. getConnectionProfile();

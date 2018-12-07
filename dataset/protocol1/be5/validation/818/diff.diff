@@ -1,0 +1,4 @@
+7c7
+< public class AstUnion extends SimpleNode
+---
+> public class AstUnion 	extends SimpleNode

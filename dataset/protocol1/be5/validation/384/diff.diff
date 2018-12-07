@@ -1,0 +1,4 @@
+10c10
+<         setFunction(DefaultParserContext.FUNC_NOT);
+---
+>         setFunction(DefaultParserContext.FUNC_NOT );

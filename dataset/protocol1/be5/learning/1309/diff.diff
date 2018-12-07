@@ -1,0 +1,4 @@
+5c5
+< public class AstConcatExpression extends AstFunNode implements Squasheable
+---
+> public class AstConcatExpression extends AstFunNode 	implements Squasheable

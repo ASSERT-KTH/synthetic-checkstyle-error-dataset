@@ -1,0 +1,4 @@
+33c33
+<     private static final Logger log = Logger.getLogger(DbServiceImpl.class.getName());
+---
+>     private static final Logger log = Logger.getLogger( DbServiceImpl.class.getName());

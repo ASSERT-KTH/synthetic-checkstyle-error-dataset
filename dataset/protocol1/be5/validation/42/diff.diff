@@ -1,0 +1,4 @@
+83c83
+<             InternetAddress fromAddress = from != null ? new InternetAddress(from) : null;
+---
+>             InternetAddress fromAddress = from != null ? new InternetAddress(from) 	: null;

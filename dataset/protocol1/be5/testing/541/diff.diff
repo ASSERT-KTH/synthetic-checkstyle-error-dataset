@@ -1,0 +1,5 @@
+93c93,94
+<     public void setRemoteAddr(String remoteAddr)
+---
+>     public 
+> void setRemoteAddr(String remoteAddr)

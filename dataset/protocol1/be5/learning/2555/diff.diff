@@ -1,0 +1,4 @@
+13c13
+<     JsonApiModel getDocument(Query query, Map<String, Object> parameters);
+---
+>     JsonApiModel getDocument (Query query, Map<String, Object> parameters);

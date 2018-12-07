@@ -1,0 +1,5 @@
+134c134,135
+<                 return trunc.node(dateDifference);
+---
+>                 return trunc.node(dateDifference)
+> ;

@@ -1,0 +1,4 @@
+107c107
+<         return as && !(next instanceof AstColumnList) ? "AS" : null;
+---
+>         return as && 	!(next instanceof AstColumnList) ? "AS" : null;

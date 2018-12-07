@@ -1,0 +1,5 @@
+21c21,22
+<         for (AstTableRef child : children)
+---
+>         for 
+> (AstTableRef child : children)

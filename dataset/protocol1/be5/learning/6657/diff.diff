@@ -1,0 +1,4 @@
+143c143
+<         return new AstCase(new AstWhen(cond, dateDiff), new AstCaseElse(DefaultParserContext.FUNC_MINUS.node(dateDiff, AstNumericConstant.of(1))));
+---
+>         return new AstCase(new AstWhen(cond, dateDiff), new AstCaseElse(DefaultParserContext.FUNC_MINUS.node(dateDiff, AstNumericConstant. of(1))));

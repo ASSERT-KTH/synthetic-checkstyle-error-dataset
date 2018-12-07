@@ -1,0 +1,4 @@
+112c112
+<             name = ((SourceFileOperationExtender) operationExtender).getFileName();
+---
+>             name = ( (SourceFileOperationExtender) operationExtender).getFileName();

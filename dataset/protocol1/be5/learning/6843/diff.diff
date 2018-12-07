@@ -1,0 +1,4 @@
+168c168
+<         context.declareFunction(FUNC_UMINUS);
+---
+>         	context.declareFunction(FUNC_UMINUS);

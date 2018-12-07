@@ -1,0 +1,4 @@
+117c117
+<         List<InitialRow> rows = new InitialRowsBuilder(tableModel).build();
+---
+>         List<InitialRow> rows = new InitialRowsBuilder(tableModel).build ();

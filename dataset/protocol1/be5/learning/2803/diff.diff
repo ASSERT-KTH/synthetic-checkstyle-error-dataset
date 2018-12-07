@@ -1,0 +1,4 @@
+100c100
+<     default String getColumnDefaultValue(ColumnDef column)
+---
+>     default String 	getColumnDefaultValue(ColumnDef column)

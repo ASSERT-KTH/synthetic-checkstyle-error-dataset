@@ -1,0 +1,4 @@
+15c15
+<         this.nodeSuffix = type.toUpperCase();
+---
+>         	this.nodeSuffix = type.toUpperCase();

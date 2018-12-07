@@ -1,0 +1,4 @@
+532c532
+<     private static SimpleDateFormat getDateFormatRussianCases()
+---
+>     private static 	SimpleDateFormat getDateFormatRussianCases()

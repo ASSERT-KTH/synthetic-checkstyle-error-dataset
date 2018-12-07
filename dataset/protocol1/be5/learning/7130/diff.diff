@@ -1,0 +1,4 @@
+15c15
+<         response.addHeader("Access-Control-Allow-Methods", "POST, GET");
+---
+>         response. addHeader("Access-Control-Allow-Methods", "POST, GET");

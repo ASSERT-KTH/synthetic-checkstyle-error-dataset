@@ -1,0 +1,4 @@
+71c71
+<                     jsonObject = ((JsonObject) entry.getValue());
+---
+>                     jsonObject = (( JsonObject) entry.getValue());

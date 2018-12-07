@@ -1,0 +1,4 @@
+21c21
+<         GroovyRegister.registerMetaClass(GDynamicPropertySetMetaClass.class, GDynamicPropertySetSupport.class);
+---
+>         	GroovyRegister.registerMetaClass(GDynamicPropertySetMetaClass.class, GDynamicPropertySetSupport.class);

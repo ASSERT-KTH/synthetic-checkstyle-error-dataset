@@ -1,0 +1,4 @@
+37c37
+<     public static JsonApiModel data(ResourceData data, ResourceData[] included, Object meta)
+---
+>     public static JsonApiModel data(ResourceData data, ResourceData[] included, 	Object meta)

@@ -1,0 +1,4 @@
+138c138
+<         children.remove(pos);
+---
+>         children.remove (pos);

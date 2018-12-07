@@ -1,0 +1,4 @@
+25c25
+<     public final Logger log = Logger.getLogger(UserHelper.class.getName());
+---
+>     public final Logger log 	= Logger.getLogger(UserHelper.class.getName());

@@ -1,0 +1,4 @@
+38c38
+<         return node -> node instanceof AstExtract && dateField.equals(((AstExtract) node).getDateField());
+---
+>         return node -> node instanceof AstExtract && dateField.equals(((AstExtract) node)	.getDateField());

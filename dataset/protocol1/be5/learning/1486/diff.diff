@@ -1,0 +1,5 @@
+50c50,51
+<     private static final PredefinedFunction LISTAGG = new PredefinedFunction("LISTAGG", PredefinedFunction.AGGREGATE_FUNCTION_PRIORITY, 2);
+---
+>     private static final PredefinedFunction LISTAGG 
+> = new PredefinedFunction("LISTAGG", PredefinedFunction.AGGREGATE_FUNCTION_PRIORITY, 2);

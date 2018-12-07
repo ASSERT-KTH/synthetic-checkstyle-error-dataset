@@ -1,0 +1,5 @@
+69c69,70
+<             sendEmail(null, new InternetAddress[]{new InternetAddress(to)}, subject, body, "text/html");
+---
+>             sendEmail(null, new InternetAddress[]{new InternetAddress
+> (to)}, subject, body, "text/html");

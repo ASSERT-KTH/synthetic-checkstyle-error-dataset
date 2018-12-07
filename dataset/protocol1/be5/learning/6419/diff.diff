@@ -1,0 +1,5 @@
+70c70,71
+<                         new AstExtract("MONTH", parserContext.getFunction("age").node(endDate, startDate)),
+---
+>                         new AstExtract("MONTH", parserContext.getFunction
+> ("age").node(endDate, startDate)),

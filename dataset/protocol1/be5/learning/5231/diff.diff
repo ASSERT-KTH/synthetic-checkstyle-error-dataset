@@ -1,0 +1,4 @@
+57c57
+<     public void replace(SimpleNode node, AstIdentifierConstant target, SimpleNode replacement)
+---
+>     public void replace(SimpleNode node , AstIdentifierConstant target, SimpleNode replacement)

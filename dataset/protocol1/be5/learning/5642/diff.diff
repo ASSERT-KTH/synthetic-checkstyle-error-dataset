@@ -1,0 +1,4 @@
+8c8
+<     public AstBeSubQueryResult(int id)
+---
+>     public AstBeSubQueryResult(int id )

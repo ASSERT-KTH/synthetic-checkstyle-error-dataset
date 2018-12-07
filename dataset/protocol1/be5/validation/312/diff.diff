@@ -1,0 +1,4 @@
+20c20
+<         bind(DataSourceService.class).to(DataSourceServiceImpl.class).in(Scopes.SINGLETON);
+---
+>         bind (DataSourceService.class).to(DataSourceServiceImpl.class).in(Scopes.SINGLETON);

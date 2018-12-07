@@ -1,0 +1,4 @@
+7c7
+<     public AstBeSqlAuto(int id)
+---
+>     public AstBeSqlAuto (int id)

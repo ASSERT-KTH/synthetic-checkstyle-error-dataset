@@ -1,0 +1,4 @@
+102c102
+<         if (column == null) return null;
+---
+>         if (column == null)return null;

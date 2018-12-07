@@ -1,0 +1,4 @@
+15c15
+<         return format().trim();
+---
+>         return format ().trim();

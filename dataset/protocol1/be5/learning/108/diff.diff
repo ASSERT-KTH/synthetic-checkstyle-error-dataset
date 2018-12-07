@@ -1,0 +1,5 @@
+14c14,15
+<     public static boolean isValueAccess(String v)
+---
+>     
+> public static boolean isValueAccess(String v)

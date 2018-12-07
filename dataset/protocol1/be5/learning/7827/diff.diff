@@ -1,0 +1,4 @@
+18c18
+<             JAXBContext jaxbContext = JAXBContext.newInstance(klass);
+---
+>             JAXBContext jaxbContext 	= JAXBContext.newInstance(klass);

@@ -1,0 +1,4 @@
+17c17
+<                 getInfo().getEntityName(), context.getQueryName(), getInfo().getName(),
+---
+>                 getInfo ().getEntityName(), context.getQueryName(), getInfo().getName(),

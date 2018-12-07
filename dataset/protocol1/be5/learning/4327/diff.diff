@@ -1,0 +1,4 @@
+102c102
+<         if (o == null || getClass() != o.getClass()) return false;
+---
+>         if (o == null 	|| getClass() != o.getClass()) return false;

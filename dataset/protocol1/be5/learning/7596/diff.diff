@@ -1,0 +1,5 @@
+7c7,8
+<     public AstPosition(int id)
+---
+>     
+> public AstPosition(int id)

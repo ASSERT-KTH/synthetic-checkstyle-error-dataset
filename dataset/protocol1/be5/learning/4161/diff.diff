@@ -1,0 +1,4 @@
+25c25
+<     public AstCast(SimpleNode child, String dataType, int size)
+---
+>     public AstCast(SimpleNode child, String dataType, int 	size)

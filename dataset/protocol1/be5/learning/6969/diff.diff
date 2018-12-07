@@ -1,0 +1,5 @@
+160c160,161
+<         switch (columnType)
+---
+>         switch 
+> (columnType)

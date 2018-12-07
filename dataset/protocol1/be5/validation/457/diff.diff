@@ -1,0 +1,4 @@
+38c38
+<         Connection txConnection = getCurrentTxConn();
+---
+>         Connection txConnection= getCurrentTxConn();

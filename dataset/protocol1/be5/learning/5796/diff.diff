@@ -1,0 +1,4 @@
+14c14
+< import static com.developmentontheedge.be5.base.model.groovy.DynamicPropertyUtils.setAttributes;
+---
+> 	import static com.developmentontheedge.be5.base.model.groovy.DynamicPropertyUtils.setAttributes;

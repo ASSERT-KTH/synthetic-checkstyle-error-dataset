@@ -1,0 +1,5 @@
+22c22,23
+<         addChild(child);
+---
+>         addChild(child)
+> ;

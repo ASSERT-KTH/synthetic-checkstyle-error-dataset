@@ -1,0 +1,4 @@
+61c61
+<         return searchPresets.size() > 0 ? String.join(",", searchPresets) : null;
+---
+>         return searchPresets.size() > 0 ? String.join(",",searchPresets) : null;

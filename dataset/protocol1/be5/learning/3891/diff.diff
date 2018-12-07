@@ -1,0 +1,4 @@
+48c48
+<         return Action.create("open", link);
+---
+>         return Action. create("open", link);

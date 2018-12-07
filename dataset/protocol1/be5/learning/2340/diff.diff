@@ -1,0 +1,5 @@
+577c577,578
+<             formatParts = format.split("-");
+---
+>             formatParts = format.split
+> ("-");

@@ -1,0 +1,4 @@
+9c9
+<     public AstNumericConstant(int id)
+---
+>     public AstNumericConstant( int id)

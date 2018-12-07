@@ -1,0 +1,4 @@
+7c7
+<     public AstCase(int id)
+---
+>     public AstCase( int id)

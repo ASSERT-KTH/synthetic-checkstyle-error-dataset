@@ -1,0 +1,5 @@
+5,6c5
+< import com.developmentontheedge.beans.DynamicProperty;
+< import org.codehaus.groovy.runtime.GStringImpl;
+---
+> import com.developmentontheedge.beans.DynamicProperty;import org.codehaus.groovy.runtime.GStringImpl;

@@ -1,0 +1,5 @@
+21c21,22
+<     public static Map<String, Object> getValuesFromJson(String valuesString) throws Be5Exception
+---
+>     public static Map<String
+> , Object> getValuesFromJson(String valuesString) throws Be5Exception

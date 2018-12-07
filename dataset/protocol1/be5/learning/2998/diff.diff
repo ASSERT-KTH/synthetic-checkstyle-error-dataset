@@ -1,0 +1,5 @@
+323c323,324
+<     public static int curMonth()
+---
+>     
+> public static int curMonth()

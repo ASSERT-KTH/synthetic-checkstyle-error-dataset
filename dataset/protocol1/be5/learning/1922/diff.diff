@@ -1,0 +1,4 @@
+14c14
+<     public AstNestedQuery(SimpleNode... childs)
+---
+>     public AstNestedQuery(SimpleNode ... childs)

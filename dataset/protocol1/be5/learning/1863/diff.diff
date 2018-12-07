@@ -1,0 +1,4 @@
+73c73
+<             astCase.addChild(new AstWhen(cond, node.child(++i)));
+---
+>             astCase.addChild(new AstWhen(cond, node.child(++ i)));

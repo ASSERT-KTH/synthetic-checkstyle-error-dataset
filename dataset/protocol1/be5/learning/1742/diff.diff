@@ -1,0 +1,5 @@
+23c23,24
+<             if (jsonApiModel.getMeta() == null)
+---
+>             if (jsonApiModel.getMeta() 
+> == null)

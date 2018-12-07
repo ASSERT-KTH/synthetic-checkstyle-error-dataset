@@ -1,0 +1,4 @@
+16c16
+<         this(SqlParserTreeConstants.JJTNESTEDQUERY);
+---
+>         this( SqlParserTreeConstants.JJTNESTEDQUERY);

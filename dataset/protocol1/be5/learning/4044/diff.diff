@@ -1,0 +1,4 @@
+12c12
+<     private static final Logger log = Logger.getLogger(ModuleLoader2.class.getName());
+---
+>     private static final Logger log = 	Logger.getLogger(ModuleLoader2.class.getName());

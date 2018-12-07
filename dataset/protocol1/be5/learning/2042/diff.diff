@@ -1,0 +1,5 @@
+26c26,27
+<     public static final String ACTION_OTHER = "other";
+---
+>     
+> public static final String ACTION_OTHER = "other";

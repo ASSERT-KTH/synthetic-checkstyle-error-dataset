@@ -1,0 +1,4 @@
+13c13
+< import javax.mail.Session;
+---
+> import javax	.mail.Session;

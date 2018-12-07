@@ -1,0 +1,4 @@
+1055c1055
+<         _res.updateBlob(columnLabel, inputStream, length);
+---
+>         _res. updateBlob(columnLabel, inputStream, length);

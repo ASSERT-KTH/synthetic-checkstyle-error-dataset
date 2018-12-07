@@ -1,0 +1,5 @@
+194c194,195
+<         return meta.hasAccess(operation.getRoles(), userInfoProvider.get().getCurrentRoles());
+---
+>         return meta.hasAccess(operation.getRoles()
+> , userInfoProvider.get().getCurrentRoles());

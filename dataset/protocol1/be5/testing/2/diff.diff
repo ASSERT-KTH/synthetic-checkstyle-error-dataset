@@ -1,0 +1,5 @@
+32c32,33
+<     public AstBeSqlVar getAstBeSqlVar()
+---
+>     
+> public AstBeSqlVar getAstBeSqlVar()

@@ -1,0 +1,4 @@
+35c35
+<         Project project = projectProvider.get();
+---
+>         Project project = 	projectProvider.get();

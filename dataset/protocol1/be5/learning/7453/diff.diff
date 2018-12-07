@@ -1,0 +1,5 @@
+57c57,58
+<         String alias = tableRef.getAlias();
+---
+>         
+> String alias = tableRef.getAlias();

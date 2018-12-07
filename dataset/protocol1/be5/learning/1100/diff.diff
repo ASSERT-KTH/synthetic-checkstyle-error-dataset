@@ -1,0 +1,5 @@
+16c16,17
+<     public boolean isImplicit()
+---
+>     public 
+> boolean isImplicit()

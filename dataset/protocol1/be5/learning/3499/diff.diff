@@ -1,0 +1,5 @@
+62,63c62
+<     public JsonObject getBean()
+<     {
+---
+>     public JsonObject getBean()    {

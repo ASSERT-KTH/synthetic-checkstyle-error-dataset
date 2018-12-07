@@ -1,0 +1,5 @@
+61c61,62
+<         if (query.jjtGetNumChildren() == 1)
+---
+>         
+> if (query.jjtGetNumChildren() == 1)

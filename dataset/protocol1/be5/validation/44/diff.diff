@@ -1,0 +1,4 @@
+30c30
+<         if (tableModel.isSelectable())
+---
+>         if (tableModel.isSelectable ())

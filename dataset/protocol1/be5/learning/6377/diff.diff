@@ -1,0 +1,4 @@
+218c218
+<         else if (cast.getDataType().equalsIgnoreCase("DECIMAL") && cast.getSize() == 18 && cast.getScale() == 2)
+---
+>         else if (cast.getDataType().equalsIgnoreCase("DECIMAL") && cast.getSize () == 18 && cast.getScale() == 2)

@@ -1,0 +1,4 @@
+15c15
+<         this.nodePrefix = rec ? "WITH RECURSIVE" : "WITH";
+---
+>         this.nodePrefix = rec ? "WITH RECURSIVE" : 	"WITH";

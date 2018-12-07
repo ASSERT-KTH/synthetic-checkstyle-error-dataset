@@ -1,0 +1,4 @@
+10c10
+<     private byte[] data;
+---
+>     private byte[] 	data;

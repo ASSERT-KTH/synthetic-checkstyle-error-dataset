@@ -1,0 +1,5 @@
+44,45c44
+<     public String getBeautifier()
+<     {
+---
+>     public String getBeautifier()    {

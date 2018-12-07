@@ -1,0 +1,5 @@
+15c15,16
+<     private AstInPredicate(AstFieldReference fieldReference, AstInValueList inValueList)
+---
+>     private AstInPredicate(AstFieldReference 
+> fieldReference, AstInValueList inValueList)

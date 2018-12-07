@@ -1,0 +1,5 @@
+755c755,756
+<         return _res.getObject(columnLabel, map);
+---
+>         return _res.getObject
+> (columnLabel, map);

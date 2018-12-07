@@ -1,0 +1,4 @@
+89c89
+<         return execute(conn -> query(conn, sql, new ScalarHandler<>(), params));
+---
+>         return execute(conn -> query(conn, sql, 	new ScalarHandler<>(), params));

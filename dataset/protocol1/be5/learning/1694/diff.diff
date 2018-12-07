@@ -1,0 +1,4 @@
+24c24
+<             this.specialPrefix = null;
+---
+>             this	.specialPrefix = null;

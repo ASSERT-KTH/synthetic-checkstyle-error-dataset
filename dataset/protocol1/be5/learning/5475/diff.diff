@@ -1,0 +1,4 @@
+95c95
+<                 String paramName = notEqualsMatcher.group(1);
+---
+>                 String paramName= notEqualsMatcher.group(1);

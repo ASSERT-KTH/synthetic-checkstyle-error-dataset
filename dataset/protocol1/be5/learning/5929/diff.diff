@@ -1,0 +1,5 @@
+23,24c23
+<     public void addColumn(AstStart ast, String tableName, String columnName, String alias)
+<     {
+---
+>     public void addColumn(AstStart ast, String tableName, String columnName, String alias)    {

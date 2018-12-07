@@ -1,0 +1,5 @@
+357c357,358
+<             if (BigDecimal.class.equals(valClass))
+---
+>             
+> if (BigDecimal.class.equals(valClass))

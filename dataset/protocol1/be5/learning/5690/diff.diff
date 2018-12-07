@@ -1,0 +1,5 @@
+59c59,60
+<         node.setDistinct(node.isDistinct());
+---
+>         node.setDistinct
+> (node.isDistinct());

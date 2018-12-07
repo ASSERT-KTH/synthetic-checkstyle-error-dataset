@@ -1,0 +1,5 @@
+5c5,6
+< public class AstBeConditionChain extends SimpleNode
+---
+> public class AstBeConditionChain extends 
+> SimpleNode

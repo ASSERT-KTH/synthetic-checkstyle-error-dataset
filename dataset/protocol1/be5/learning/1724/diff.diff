@@ -1,0 +1,5 @@
+40c40,41
+<             ByteStreams.copy(in, res.getOutputStream());
+---
+>             ByteStreams.copy(in, 
+> res.getOutputStream());

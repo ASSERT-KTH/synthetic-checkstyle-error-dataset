@@ -1,0 +1,5 @@
+53c53,54
+<     default long countFrom(String sql, Object... params)
+---
+>     default long countFrom(String sql
+> , Object... params)

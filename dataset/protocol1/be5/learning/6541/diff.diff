@@ -1,0 +1,5 @@
+9c9,10
+<     public final List<Object> cells;
+---
+>     
+> public final List<Object> cells;

@@ -1,0 +1,5 @@
+5c5,6
+<     public AstBeDbmsThen(int id)
+---
+>     
+> public AstBeDbmsThen(int id)

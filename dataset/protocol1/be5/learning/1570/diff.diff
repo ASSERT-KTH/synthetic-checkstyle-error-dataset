@@ -1,0 +1,4 @@
+154c154
+<         node.replaceWith(parserContext.getFunction("date_format").node(node.child(0), new AstStringConstant(formatMask, true)));
+---
+>         node.replaceWith(parserContext.getFunction("date_format").node(node.child(0),new AstStringConstant(formatMask, true)));

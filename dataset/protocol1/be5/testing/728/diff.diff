@@ -1,0 +1,4 @@
+317c317
+<         if ("DATE".equals(cast.getDataType()) && truncMonthPlusMonthMinusDay.test(diff))
+---
+>         if ("DATE". equals(cast.getDataType()) && truncMonthPlusMonthMinusDay.test(diff))

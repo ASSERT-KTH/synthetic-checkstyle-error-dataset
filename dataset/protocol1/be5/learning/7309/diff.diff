@@ -1,0 +1,5 @@
+16,17c16
+<         FrontendAction downloadOperationAction = FrontendActions.downloadOperation(
+<                 getInfo().getEntityName(), context.getQueryName(), getInfo().getName(),
+---
+>         FrontendAction downloadOperationAction = FrontendActions.downloadOperation(                getInfo().getEntityName(), context.getQueryName(), getInfo().getName(),

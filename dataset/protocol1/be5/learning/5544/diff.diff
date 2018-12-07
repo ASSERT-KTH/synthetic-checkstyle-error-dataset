@@ -1,0 +1,4 @@
+15c15
+< public abstract class JsonApiModelController extends ApiControllerSupport
+---
+> public abstract class JsonApiModelController 	extends ApiControllerSupport

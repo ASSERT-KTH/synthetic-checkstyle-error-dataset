@@ -1,0 +1,4 @@
+20c20
+<     <T> T transactionWithResult(SqlExecutor<T> executor);
+---
+>     <T> T transactionWithResult(SqlExecutor< T> executor);

@@ -1,0 +1,5 @@
+27c27,28
+<         if (firstSelect.getSelectList().children().select(AstDerivedColumn.class)
+---
+>         
+> if (firstSelect.getSelectList().children().select(AstDerivedColumn.class)

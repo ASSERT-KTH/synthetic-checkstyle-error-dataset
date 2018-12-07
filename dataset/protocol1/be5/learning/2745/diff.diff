@@ -1,0 +1,5 @@
+19c19,20
+< public class DynamicPropertyMetaClass<T extends DynamicPropertySet> extends ExtensionMethodsMetaClass
+---
+> public class DynamicPropertyMetaClass<T extends DynamicPropertySet> 
+> extends ExtensionMethodsMetaClass

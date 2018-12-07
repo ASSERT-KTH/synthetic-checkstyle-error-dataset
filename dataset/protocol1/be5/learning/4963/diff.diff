@@ -1,0 +1,4 @@
+47c47
+<         this.status = status;
+---
+>         this.status 	= status;

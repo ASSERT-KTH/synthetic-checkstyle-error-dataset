@@ -1,0 +1,4 @@
+130c130
+<                 parameters, totalNumberOfRows, tableModel.isHasAggregate(),
+---
+>                 parameters, totalNumberOfRows, tableModel	.isHasAggregate(),

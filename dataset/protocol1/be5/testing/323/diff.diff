@@ -1,0 +1,5 @@
+356c356,357
+<                 && ("DAY".equals(dateField) || "EPOCH".equals(dateField)))
+---
+>                 && ("DAY".equals(dateField) 
+> || "EPOCH".equals(dateField)))

@@ -1,0 +1,4 @@
+93c93
+<         if (parameters != null)params.put(VALUES, JsonFactory.beanValues(parameters));
+---
+>         if (parameters != null)params.put(VALUES,JsonFactory.beanValues(parameters));

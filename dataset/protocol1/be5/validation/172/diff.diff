@@ -1,0 +1,4 @@
+107c107
+<         sendEmailReal(from, to, subject, body, type, Collections.emptyMap());
+---
+>         sendEmailReal(from, to, subject, body, type, Collections.emptyMap ());

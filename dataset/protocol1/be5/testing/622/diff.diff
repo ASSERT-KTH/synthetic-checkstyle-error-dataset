@@ -1,0 +1,4 @@
+12c12
+<     private ConnectionService connectionService;
+---
+>     private ConnectionService connectionService ;

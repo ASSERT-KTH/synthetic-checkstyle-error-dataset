@@ -1,0 +1,4 @@
+189c189
+<             throw new InternalError("Invalid mode: " + curMode + " (expected: " + mode + ")");
+---
+>             throw new InternalError("Invalid mode: " +curMode + " (expected: " + mode + ")");

@@ -1,0 +1,5 @@
+39c39,40
+<             AstDerivedColumn lastColumn = (AstDerivedColumn) selectList.jjtGetChild(selectList.jjtGetNumChildren() - 1);
+---
+>             AstDerivedColumn lastColumn 
+> = (AstDerivedColumn) selectList.jjtGetChild(selectList.jjtGetNumChildren() - 1);

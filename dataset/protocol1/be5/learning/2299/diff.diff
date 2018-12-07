@@ -1,0 +1,5 @@
+225c225,226
+<             if (parent instanceof AstDerivedColumn)
+---
+>             if (parent 
+> instanceof AstDerivedColumn)

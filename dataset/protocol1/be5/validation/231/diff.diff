@@ -1,0 +1,4 @@
+13c13
+<         return next instanceof AstNestedQuery ? "AS" : null;
+---
+>         return next instanceof AstNestedQuery 	? "AS" : null;

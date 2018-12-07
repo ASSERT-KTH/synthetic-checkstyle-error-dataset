@@ -1,0 +1,4 @@
+4c4
+< public interface Squasheable extends Node
+---
+> public interface Squasheable 	extends Node

@@ -1,0 +1,4 @@
+6c6
+<     public static boolean isNumber(Class<?> type)
+---
+>     public static boolean isNumber(Class< ?> type)

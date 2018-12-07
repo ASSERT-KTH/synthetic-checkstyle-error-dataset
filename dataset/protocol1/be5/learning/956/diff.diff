@@ -1,0 +1,4 @@
+87c87
+<     public static String substituteVariables(String string, Pattern pattern, final Function<String, String> evaluateVariable)
+---
+>     public static String substituteVariables(String string, Pattern pattern, final Function<String, String > evaluateVariable)

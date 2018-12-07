@@ -1,0 +1,5 @@
+20c20,21
+<     public ResourceData(String id, String type, Object attributes, Map<String, String> links)
+---
+>     public ResourceData(String id, String 
+> type, Object attributes, Map<String, String> links)

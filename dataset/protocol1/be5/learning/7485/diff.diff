@@ -1,0 +1,4 @@
+7c7
+<     public AstFirstDayOf(int id)
+---
+>     	public AstFirstDayOf(int id)

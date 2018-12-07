@@ -1,0 +1,4 @@
+9c9
+< import static com.developmentontheedge.be5.base.exceptions.Be5ErrorCode.INTERNAL_ERROR;
+---
+> 	import static com.developmentontheedge.be5.base.exceptions.Be5ErrorCode.INTERNAL_ERROR;

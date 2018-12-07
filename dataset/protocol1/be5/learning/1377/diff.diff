@@ -1,0 +1,4 @@
+447c447
+<                 return String.class;
+---
+>                 	return String.class;

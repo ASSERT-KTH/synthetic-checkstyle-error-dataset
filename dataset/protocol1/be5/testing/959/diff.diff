@@ -1,0 +1,4 @@
+7c7
+< import javax.inject.Inject;
+---
+> import javax. inject.Inject;

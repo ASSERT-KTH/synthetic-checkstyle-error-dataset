@@ -1,0 +1,4 @@
+9c9
+<     void sendPlainEmail(String to, String subject, String body);
+---
+>     void sendPlainEmail(String to, String subject,String body);

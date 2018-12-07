@@ -1,0 +1,4 @@
+518c518
+<         return children.indexOf(node);
+---
+>         return children.indexOf(node) ;

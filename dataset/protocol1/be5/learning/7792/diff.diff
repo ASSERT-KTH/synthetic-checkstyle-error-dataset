@@ -1,0 +1,4 @@
+83c83
+<         return ((AstIdentifierConstant) child(1)).getValue();
+---
+>         	return ((AstIdentifierConstant) child(1)).getValue();

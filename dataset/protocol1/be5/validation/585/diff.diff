@@ -1,0 +1,4 @@
+28c28
+<         bindInterceptor(annotatedWith(Transactional.class), any(), transactionInterceptor);
+---
+>         bindInterceptor(annotatedWith(Transactional.class), any (), transactionInterceptor);

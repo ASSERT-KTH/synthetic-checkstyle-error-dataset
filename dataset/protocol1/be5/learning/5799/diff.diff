@@ -1,0 +1,5 @@
+28c28,29
+<         this.nodePrefix = "EXTRACT(" + dateField + " FROM";
+---
+>         this.nodePrefix = "EXTRACT(" + 
+> dateField + " FROM";

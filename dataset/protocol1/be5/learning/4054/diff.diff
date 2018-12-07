@@ -1,0 +1,5 @@
+157c157,158
+<         log.fine(sql + Arrays.toString(params));
+---
+>         log.fine(sql + Arrays.toString(params))
+> ;

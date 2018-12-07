@@ -1,0 +1,5 @@
+113c113,114
+<         return nodePrefix == null && jjtGetNumChildren() == 1 && function.minNumberOfParams() == 1 && function.maxNumberOfParams() == 1
+---
+>         return nodePrefix == null && jjtGetNumChildren() == 1 && function.minNumberOfParams() == 1 && function.maxNumberOfParams() == 
+> 1

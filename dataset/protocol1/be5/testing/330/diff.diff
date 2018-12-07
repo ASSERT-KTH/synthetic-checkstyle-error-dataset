@@ -1,0 +1,4 @@
+10c10
+<     String USER_INFO = "struct-user-info";
+---
+>     String USER_INFO = "struct-user-info" ;

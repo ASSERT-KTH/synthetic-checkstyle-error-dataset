@@ -1,0 +1,5 @@
+121,122c121
+<     public String getLocalizedOperationField(String entityName, String operationName, String name)
+<     {
+---
+>     public String getLocalizedOperationField(String entityName, String operationName, String name)    {

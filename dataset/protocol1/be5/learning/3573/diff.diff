@@ -1,0 +1,5 @@
+51,52c51
+<     public void setRELOAD_ON_CHANGE(boolean value)
+<     {
+---
+>     public void setRELOAD_ON_CHANGE(boolean value)    {

@@ -1,0 +1,4 @@
+114c114
+<         String name = node.getFunction().getName();
+---
+>         String name = node.getFunction()	.getName();

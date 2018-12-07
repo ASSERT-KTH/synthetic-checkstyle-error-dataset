@@ -1,0 +1,4 @@
+22c22
+<     public static final int RELATIONAL_PRIORITY = 2; // eq, neq, gt, lt, geq, leq
+---
+>     public static final int RELATIONAL_PRIORITY= 2; // eq, neq, gt, lt, geq, leq

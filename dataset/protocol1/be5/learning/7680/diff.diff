@@ -1,0 +1,5 @@
+17c17,18
+<     public void setSuffix(String suffix)
+---
+>     public 
+> void setSuffix(String suffix)

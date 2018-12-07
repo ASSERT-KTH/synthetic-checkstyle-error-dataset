@@ -1,0 +1,4 @@
+89c89
+<         if (code != null ? !code.equals(that.code) : that.code != null) return false;
+---
+>         if (code != null ? !code.equals(that.code) : that.code != 	null) return false;

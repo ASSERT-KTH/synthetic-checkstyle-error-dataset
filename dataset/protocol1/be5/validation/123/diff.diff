@@ -1,0 +1,4 @@
+28c28
+<             if ("java.lang.Long".equals(className))
+---
+>             if ( "java.lang.Long".equals(className))

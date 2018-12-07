@@ -1,0 +1,5 @@
+116c116,117
+<         node.children().toList().forEach(Simplifier::simplifyBoolean);
+---
+>         node.children().toList().forEach(Simplifier::simplifyBoolean)
+> ;

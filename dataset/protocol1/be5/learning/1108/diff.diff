@@ -1,0 +1,5 @@
+71c71,72
+<                 && !((AstBeDbmsThen) ((DbSpecificFunction) fn).dbmsTransform.getValue(dbms)).isAsIs();
+---
+>                 && !((AstBeDbmsThen) ((DbSpecificFunction) fn).dbmsTransform.getValue
+> (dbms)).isAsIs();

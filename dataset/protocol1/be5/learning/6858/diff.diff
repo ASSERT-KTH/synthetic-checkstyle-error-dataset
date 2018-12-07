@@ -1,0 +1,5 @@
+19c19,20
+<     void setParserContext(ParserContext parserContext);
+---
+>     void setParserContext(ParserContext parserContext)
+> ;

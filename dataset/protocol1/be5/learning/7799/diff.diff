@@ -1,0 +1,4 @@
+47c47
+<     private static final PredefinedFunction SECOND = new PredefinedFunction("SECOND", PredefinedFunction.FUNCTION_PRIORITY, 1);
+---
+>     private static final PredefinedFunction SECOND = new PredefinedFunction("SECOND", 	PredefinedFunction.FUNCTION_PRIORITY, 1);

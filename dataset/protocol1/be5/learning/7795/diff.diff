@@ -1,0 +1,4 @@
+51c51
+<                 addAll(ModuleLoader2.getDevRoles());
+---
+>                 addAll(ModuleLoader2	.getDevRoles());

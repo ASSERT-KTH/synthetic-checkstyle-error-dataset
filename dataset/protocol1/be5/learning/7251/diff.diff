@@ -1,0 +1,5 @@
+25,26c25
+<         catch (MissingPropertyException e)
+<         {
+---
+>         catch (MissingPropertyException e)        {

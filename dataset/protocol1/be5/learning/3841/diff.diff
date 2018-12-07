@@ -1,0 +1,5 @@
+99c99,100
+<     protected void transformLastDayPostgres(SimpleNode node, SimpleNode date)
+---
+>     protected void transformLastDayPostgres
+> (SimpleNode node, SimpleNode date)

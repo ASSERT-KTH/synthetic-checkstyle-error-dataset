@@ -1,0 +1,5 @@
+26c26,27
+<     public Map<String, Object> getTags(Request req)
+---
+>     public Map<String
+> , Object> getTags(Request req)

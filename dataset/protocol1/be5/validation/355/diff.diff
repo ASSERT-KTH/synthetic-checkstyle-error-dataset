@@ -1,0 +1,5 @@
+13,14c13
+< import javax.inject.Singleton;
+< import java.io.ByteArrayInputStream;
+---
+> import javax.inject.Singleton;import java.io.ByteArrayInputStream;

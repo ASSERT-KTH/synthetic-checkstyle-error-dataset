@@ -1,0 +1,4 @@
+24c24
+<     String QUERY_BUILDER_HISTORY = "query-builder-history";
+---
+>     	String QUERY_BUILDER_HISTORY = "query-builder-history";

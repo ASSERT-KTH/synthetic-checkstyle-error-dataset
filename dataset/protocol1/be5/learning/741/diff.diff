@@ -1,0 +1,5 @@
+6c6,7
+<     FORMAT_DATE("'YYYY-MM-DD'", "'%Y-%m-%d'"),
+---
+>     FORMAT_DATE
+> ("'YYYY-MM-DD'", "'%Y-%m-%d'"),

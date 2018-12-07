@@ -1,0 +1,4 @@
+37c37
+<         return new FrontendAction(UPDATE_USER_INFO, userInfoModel);
+---
+>         return new FrontendAction(UPDATE_USER_INFO,userInfoModel);

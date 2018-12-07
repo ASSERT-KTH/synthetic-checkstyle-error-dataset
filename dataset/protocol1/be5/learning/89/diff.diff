@@ -1,0 +1,5 @@
+26,27c26
+< import javax.inject.Inject;
+< import java.util.Collections;
+---
+> import javax.inject.Inject;import java.util.Collections;

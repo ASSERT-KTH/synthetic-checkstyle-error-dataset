@@ -1,0 +1,4 @@
+8c8
+<     private static final String isNotNull = "IS NOT NULL";
+---
+>     private static final 	String isNotNull = "IS NOT NULL";

@@ -1,0 +1,4 @@
+46c46
+<                 e.getCause().printStackTrace(new PrintWriter(sw));
+---
+>                 e.getCause(). printStackTrace(new PrintWriter(sw));

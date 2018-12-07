@@ -1,0 +1,4 @@
+13c13
+<     void sendHtmlEmail(String from, String to, String subject, String body);
+---
+>     void sendHtmlEmail(String from,String to, String subject, String body);

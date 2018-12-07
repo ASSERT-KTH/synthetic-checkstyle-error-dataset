@@ -1,0 +1,5 @@
+82c82,83
+<         return reader.getAttributeValue(null, name);
+---
+>         return reader.getAttributeValue(null, 
+> name);

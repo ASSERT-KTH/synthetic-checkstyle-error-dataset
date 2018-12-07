@@ -1,0 +1,5 @@
+81c81,82
+<                 cond = DefaultParserContext.FUNC_EQ.node(node.child(0), node.child(i));
+---
+>                 cond = DefaultParserContext.FUNC_EQ.node(node.child(0)
+> , node.child(i));

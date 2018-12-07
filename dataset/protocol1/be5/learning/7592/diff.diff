@@ -1,0 +1,4 @@
+140c140
+<             return getErrorModel((Throwable) operation.getResult().getDetails(), getUrl(operation));
+---
+>             return getErrorModel((Throwable) operation.getResult().getDetails() , getUrl(operation));

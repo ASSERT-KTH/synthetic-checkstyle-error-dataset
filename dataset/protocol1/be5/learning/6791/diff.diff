@@ -1,0 +1,5 @@
+29c29,30
+<     private final int priority;
+---
+>     private final int priority
+> ;

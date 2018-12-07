@@ -1,0 +1,4 @@
+89c89
+<         context.setVariable("requestUrl", req.getRequestUri());
+---
+>         context. setVariable("requestUrl", req.getRequestUri());

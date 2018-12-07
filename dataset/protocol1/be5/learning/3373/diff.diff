@@ -1,0 +1,4 @@
+110c110
+<             String[][] tags = queries.getTagsFromSelectionView(column.getTableTo(),
+---
+>             String[][] tags = queries.getTagsFromSelectionView(column. getTableTo(),

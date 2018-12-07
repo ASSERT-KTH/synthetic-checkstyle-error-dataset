@@ -1,0 +1,4 @@
+28c28
+<         return (UserInfo) session.get().get(SessionConstants.USER_INFO);
+---
+>         return(UserInfo) session.get().get(SessionConstants.USER_INFO);

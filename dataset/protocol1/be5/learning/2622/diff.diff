@@ -1,0 +1,5 @@
+47c47,48
+<         assert childs.length == 2;
+---
+>         assert 
+> childs.length == 2;

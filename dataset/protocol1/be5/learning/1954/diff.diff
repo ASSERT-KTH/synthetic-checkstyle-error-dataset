@@ -1,0 +1,5 @@
+12c12,13
+<         this(SqlParserTreeConstants.JJTDELETE);
+---
+>         this(SqlParserTreeConstants.JJTDELETE)
+> ;

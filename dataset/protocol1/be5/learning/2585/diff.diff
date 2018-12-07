@@ -1,0 +1,4 @@
+10c10
+< @Retention(RetentionPolicy.RUNTIME)
+---
+> @Retention(RetentionPolicy.RUNTIME )

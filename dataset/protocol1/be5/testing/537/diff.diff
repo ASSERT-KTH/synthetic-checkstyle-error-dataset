@@ -1,0 +1,4 @@
+402c402
+<         if (AstFunNode.isFunction("*").test(mul))
+---
+>         	if (AstFunNode.isFunction("*").test(mul))

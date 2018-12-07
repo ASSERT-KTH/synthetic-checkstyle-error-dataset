@@ -1,0 +1,5 @@
+72c72,73
+<         documentGenerator.clearSavedPosition(query, parameters);
+---
+>         documentGenerator.clearSavedPosition(query, parameters)
+> ;

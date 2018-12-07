@@ -1,0 +1,5 @@
+160,161c160
+<     protected void transformPosition(AstPosition position)
+<     {
+---
+>     protected void transformPosition(AstPosition position)    {

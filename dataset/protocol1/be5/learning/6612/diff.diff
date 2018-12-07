@@ -1,0 +1,5 @@
+41c41,42
+<     void setUserSetting(String user, String param, String value);
+---
+>     void setUserSetting(String user, 
+> String param, String value);

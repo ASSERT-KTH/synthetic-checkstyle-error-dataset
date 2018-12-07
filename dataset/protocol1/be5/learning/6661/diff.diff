@@ -1,0 +1,5 @@
+10c10,11
+<     public AstDerivedColumn(int id)
+---
+>     public AstDerivedColumn
+> (int id)

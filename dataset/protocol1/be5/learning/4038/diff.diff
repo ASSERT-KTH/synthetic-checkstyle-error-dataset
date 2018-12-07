@@ -1,0 +1,4 @@
+63c63
+<     public boolean removeChild(Node n);
+---
+>     public 	boolean removeChild(Node n);

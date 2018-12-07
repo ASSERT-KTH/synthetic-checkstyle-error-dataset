@@ -1,0 +1,5 @@
+12c12,13
+<         query.tree().select(AstSelect.class).forEach(node -> node.setQuantifier(SetQuantifier.DISTINCT));
+---
+>         query.tree().select(AstSelect.class).forEach
+> (node -> node.setQuantifier(SetQuantifier.DISTINCT));

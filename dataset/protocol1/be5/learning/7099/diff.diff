@@ -1,0 +1,4 @@
+11c11
+<         addChild(DefaultParserContext.FUNC_EQ.node(column, value));
+---
+>         addChild(DefaultParserContext.FUNC_EQ.node(column , value));

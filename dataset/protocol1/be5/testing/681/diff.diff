@@ -1,0 +1,4 @@
+14c14
+<         this.nodePrefix = prefixComma ? "," : null;
+---
+>         this. nodePrefix = prefixComma ? "," : null;

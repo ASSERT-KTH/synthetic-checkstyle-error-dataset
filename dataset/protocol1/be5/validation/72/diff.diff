@@ -1,0 +1,5 @@
+25c25,26
+<         for (int i = 0; i < list.jjtGetNumChildren() - 1; i++)
+---
+>         for (int i = 0; i < list.jjtGetNumChildren() - 1
+> ; i++)

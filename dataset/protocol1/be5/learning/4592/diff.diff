@@ -1,0 +1,4 @@
+8c8
+<     public UndeclaredFunction(String name, int priority)
+---
+>     public 	UndeclaredFunction(String name, int priority)

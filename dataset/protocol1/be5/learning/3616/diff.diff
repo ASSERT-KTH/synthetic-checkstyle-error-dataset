@@ -1,0 +1,4 @@
+29c29
+<     private ScalarParser(final int columnIndex, final String columnName)
+---
+>     private ScalarParser(final int columnIndex, final String columnName )

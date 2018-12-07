@@ -1,0 +1,5 @@
+23c23,24
+<     String SEARCH_PRESETS_PARAM = "_search_presets_";
+---
+>     String SEARCH_PRESETS_PARAM = "_search_presets_"
+> ;

@@ -1,0 +1,4 @@
+119c119
+<         result = 31 * result + (meta != null ? meta.hashCode() : 0);
+---
+>         result = 31 * result + (meta != null ? meta.hashCode() : 	0);

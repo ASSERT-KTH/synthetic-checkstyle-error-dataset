@@ -1,0 +1,5 @@
+35c35,36
+<                 .collect(Utils.toLinkedMap(Map.Entry::getKey, Map.Entry::getValue));
+---
+>                 
+> .collect(Utils.toLinkedMap(Map.Entry::getKey, Map.Entry::getValue));

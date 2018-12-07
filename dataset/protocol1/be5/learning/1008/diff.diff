@@ -1,0 +1,4 @@
+12c12
+<     void compileLocalizations();
+---
+>     void 	compileLocalizations();

@@ -1,0 +1,4 @@
+117c117
+<         int result = data != null ? data.hashCode() : 0;
+---
+>         int result = data != null ? 	data.hashCode() : 0;

@@ -1,0 +1,5 @@
+24c24,25
+<         this.setQuantifier = Objects.requireNonNull(setQuantifier);
+---
+>         
+> this.setQuantifier = Objects.requireNonNull(setQuantifier);

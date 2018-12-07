@@ -1,0 +1,5 @@
+5c5,6
+< public class AstPosition extends SimpleNode
+---
+> public class AstPosition extends 
+> SimpleNode

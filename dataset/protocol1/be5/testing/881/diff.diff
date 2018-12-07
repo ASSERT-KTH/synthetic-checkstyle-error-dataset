@@ -1,0 +1,5 @@
+8c8,9
+< public interface Be5EventLogger
+---
+> public 
+> interface Be5EventLogger

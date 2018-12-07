@@ -1,0 +1,5 @@
+5c5,6
+< public class AstBetweenPredicate extends SimpleNode
+---
+> public class AstBetweenPredicate 
+> extends SimpleNode

@@ -1,0 +1,4 @@
+19c19
+<             return ((T) object).getValue(property.substring(1));
+---
+>             return ((T ) object).getValue(property.substring(1));

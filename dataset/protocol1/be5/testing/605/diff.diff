@@ -1,0 +1,4 @@
+63c63
+<         bindInterceptor(any(), annotatedWith(LogBe5Event.class), eventManager);
+---
+>         bindInterceptor( any(), annotatedWith(LogBe5Event.class), eventManager);

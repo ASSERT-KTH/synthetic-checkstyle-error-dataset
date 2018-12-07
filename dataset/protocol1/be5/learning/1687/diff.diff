@@ -1,0 +1,4 @@
+26c26
+<     public void setTYPE(Class<?> value)
+---
+>     public void setTYPE(Class<?>value)

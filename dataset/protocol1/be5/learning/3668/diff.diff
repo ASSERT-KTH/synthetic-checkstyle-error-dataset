@@ -1,0 +1,5 @@
+5c5,6
+< public class AstPartitionByClause extends SimpleNode
+---
+> public 
+> class AstPartitionByClause extends SimpleNode

@@ -1,0 +1,4 @@
+25c25
+<         for (AstIdentifierConstant child : childs)
+---
+>         for(AstIdentifierConstant child : childs)

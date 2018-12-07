@@ -1,0 +1,4 @@
+86c86
+<             log.log(Level.SEVERE, "Unable to rollback transaction", e);
+---
+>             log.log(Level.SEVERE, "Unable to rollback transaction",e);

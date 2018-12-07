@@ -1,0 +1,4 @@
+70c70
+<     private static Table<String, String, String> toTable(EntityLocalizations entityLocalizations)
+---
+>     private static Table<String, String, String> toTable (EntityLocalizations entityLocalizations)

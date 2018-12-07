@@ -1,0 +1,4 @@
+15c15
+< import com.developmentontheedge.sql.model.SqlQuery;
+---
+> 	import com.developmentontheedge.sql.model.SqlQuery;

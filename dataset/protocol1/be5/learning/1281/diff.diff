@@ -1,0 +1,4 @@
+13c13
+<     Function getFunction(String name);
+---
+>     	Function getFunction(String name);

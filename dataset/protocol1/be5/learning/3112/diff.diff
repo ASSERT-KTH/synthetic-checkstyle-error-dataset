@@ -1,0 +1,4 @@
+6c6
+< import org.codehaus.groovy.runtime.InvokerHelper;
+---
+> 	import org.codehaus.groovy.runtime.InvokerHelper;

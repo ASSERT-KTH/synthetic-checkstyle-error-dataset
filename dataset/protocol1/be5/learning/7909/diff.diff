@@ -1,0 +1,4 @@
+335c335
+<             node.replaceWith(new AstCast(node.child(0), "VARCHAR", 1000));
+---
+>             node.replaceWith(new AstCast(node.child(0), "VARCHAR" , 1000));

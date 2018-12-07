@@ -1,0 +1,5 @@
+536c536,537
+<             return subst(number, ",", ".");
+---
+>             return subst(number, ",", ".")
+> ;

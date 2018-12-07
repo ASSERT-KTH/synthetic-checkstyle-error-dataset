@@ -1,0 +1,4 @@
+38c38
+<                 return Short.valueOf((String) value);
+---
+>                 return Short.valueOf ((String) value);

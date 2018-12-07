@@ -1,0 +1,5 @@
+264c264,265
+<                 ? new MimeMessage2(getMailSession(host))
+---
+>                 ? 
+> new MimeMessage2(getMailSession(host))

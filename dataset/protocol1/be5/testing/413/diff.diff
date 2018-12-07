@@ -1,0 +1,5 @@
+358c358,359
+<             AstFunNode date = (AstFunNode) child.child(0);
+---
+>             AstFunNode date 
+> = (AstFunNode) child.child(0);

@@ -1,0 +1,4 @@
+66c66
+<     protected abstract void generate(Request req, Response res, String subUrl);
+---
+>     protected abstract void generate(Request req , Response res, String subUrl);

@@ -1,0 +1,4 @@
+76c76
+<         sb.append(string.substring(start));
+---
+>         sb.append(string.substring (start));

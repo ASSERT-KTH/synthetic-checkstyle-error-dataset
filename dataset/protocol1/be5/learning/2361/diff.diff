@@ -1,0 +1,4 @@
+27c27
+<         return new InitialRow(tableModel.isSelectable() ? rowModel.getId() : null, cells);
+---
+>         return new InitialRow(tableModel. isSelectable() ? rowModel.getId() : null, cells);

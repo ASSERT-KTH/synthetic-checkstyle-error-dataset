@@ -1,0 +1,4 @@
+74c74
+<             connectionUrl = profile.getJdbcUrl().createConnectionUrl(false);
+---
+>             connectionUrl = profile.getJdbcUrl().createConnectionUrl(false );

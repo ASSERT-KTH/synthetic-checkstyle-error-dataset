@@ -1,0 +1,5 @@
+11c11,12
+<     public AstBeSql(int id)
+---
+>     public 
+> AstBeSql(int id)

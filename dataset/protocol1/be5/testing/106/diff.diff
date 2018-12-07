@@ -1,0 +1,5 @@
+45c45,46
+<         if (this == o) return true;
+---
+>         if (this == o) return true
+> ;

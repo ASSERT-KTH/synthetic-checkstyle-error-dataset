@@ -1,0 +1,4 @@
+41c41
+< import com.developmentontheedge.be5.server.services.impl.UserInfoProviderImpl;
+---
+> import com.developmentontheedge.be5.server	.services.impl.UserInfoProviderImpl;

@@ -1,0 +1,4 @@
+10c10
+<     public static AstStart parse(String query, ParserContext context)
+---
+>     public static AstStart parse(String query , ParserContext context)

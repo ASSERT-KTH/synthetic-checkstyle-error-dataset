@@ -1,0 +1,5 @@
+84c84,85
+<         return getParameter("outColumns");
+---
+>         
+> return getParameter("outColumns");

@@ -1,0 +1,5 @@
+13c13,14
+<     protected ParserContext context = DefaultParserContext.getInstance();
+---
+>     protected ParserContext context = DefaultParserContext.getInstance
+> ();

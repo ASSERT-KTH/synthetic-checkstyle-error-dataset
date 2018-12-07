@@ -1,0 +1,4 @@
+20c20
+<         this.nodeSuffix = isNull;
+---
+>         this.nodeSuffix = isNull ;

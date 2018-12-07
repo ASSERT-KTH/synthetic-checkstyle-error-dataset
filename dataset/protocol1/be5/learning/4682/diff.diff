@@ -1,0 +1,4 @@
+9c9
+<     private final int recordsTotal;
+---
+>     private 	final int recordsTotal;

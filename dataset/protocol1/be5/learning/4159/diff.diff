@@ -1,0 +1,4 @@
+18c18
+<     public static AstLimit of(int offset, int count)
+---
+>     public static AstLimit of(int offset, int count )

@@ -1,0 +1,5 @@
+33c33,34
+<         this.projectProvider = projectProvider;
+---
+>         this.projectProvider 
+> = projectProvider;

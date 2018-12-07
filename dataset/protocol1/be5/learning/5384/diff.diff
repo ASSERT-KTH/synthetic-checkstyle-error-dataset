@@ -1,0 +1,4 @@
+266c266
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("PG_RELATION_SIZE", Function.FUNCTION_PRIORITY, 1), Dbms.POSTGRESQL));
+---
+>         	context.declareFunction(new DbSpecificFunction(new PredefinedFunction("PG_RELATION_SIZE", Function.FUNCTION_PRIORITY, 1), Dbms.POSTGRESQL));

@@ -1,0 +1,4 @@
+57c57
+<         Table<String, String, String> targetEntityLocalizations = toTable(localizations);
+---
+>         Table<String, String, 	String> targetEntityLocalizations = toTable(localizations);

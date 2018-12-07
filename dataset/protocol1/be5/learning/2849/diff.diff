@@ -1,0 +1,4 @@
+247c247
+<             String content = child.getContent().replace("\\'", "''");
+---
+>             String content 	= child.getContent().replace("\\'", "''");

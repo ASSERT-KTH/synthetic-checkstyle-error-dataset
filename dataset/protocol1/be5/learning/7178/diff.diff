@@ -1,0 +1,4 @@
+127c127
+<     public static Predicate<SimpleNode> isFunction(String fnName, Predicate<SimpleNode>... childConditions)
+---
+>     public static Predicate <SimpleNode> isFunction(String fnName, Predicate<SimpleNode>... childConditions)

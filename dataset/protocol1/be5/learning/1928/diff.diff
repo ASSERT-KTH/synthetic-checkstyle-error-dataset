@@ -1,0 +1,5 @@
+48,49c48
+<         if (operation instanceof DownloadOperationSupport)
+<         {
+---
+>         if (operation instanceof DownloadOperationSupport)        {

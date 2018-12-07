@@ -1,0 +1,4 @@
+268c268
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("REGEXP_INSTR", Function.FUNCTION_PRIORITY, 2), Dbms.POSTGRESQL));
+---
+>         context.declareFunction(new DbSpecificFunction(new PredefinedFunction( "REGEXP_INSTR", Function.FUNCTION_PRIORITY, 2), Dbms.POSTGRESQL));

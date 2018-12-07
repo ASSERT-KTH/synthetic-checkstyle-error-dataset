@@ -1,0 +1,4 @@
+8c8
+<         return type == Long.class ||
+---
+>         return type == Long	.class ||

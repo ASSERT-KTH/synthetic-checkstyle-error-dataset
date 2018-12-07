@@ -1,0 +1,5 @@
+26c26,27
+<         AstSelect firstSelect = query.children().select(AstSelect.class).findFirst().get();
+---
+>         AstSelect firstSelect = query.children().select
+> (AstSelect.class).findFirst().get();

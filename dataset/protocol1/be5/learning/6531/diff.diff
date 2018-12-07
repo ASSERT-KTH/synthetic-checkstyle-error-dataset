@@ -1,0 +1,4 @@
+13c13
+<     public AstConcatExpression(SimpleNode... childs)
+---
+>     public AstConcatExpression (SimpleNode... childs)

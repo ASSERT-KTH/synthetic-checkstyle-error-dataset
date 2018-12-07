@@ -1,0 +1,4 @@
+98c98
+<             case Operation.VISIBLE_ALWAYS:
+---
+>             case Operation.VISIBLE_ALWAYS	:

@@ -1,0 +1,4 @@
+72c72
+<                     if (OPERATION_RESULT.equals(generateData.getType()) && ((OperationResultPresentation) generateData.getAttributes()).
+---
+>                     if (OPERATION_RESULT.equals(generateData	.getType()) && ((OperationResultPresentation) generateData.getAttributes()).

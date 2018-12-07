@@ -1,0 +1,4 @@
+16c16
+<         response.addHeader("Access-Control-Max-Age", "1728000");
+---
+>         response.addHeader("Access-Control-Max-Age", 	"1728000");

@@ -1,0 +1,5 @@
+61c61,62
+<     protected List<String> messages;
+---
+>     protected List<String> 
+> messages;

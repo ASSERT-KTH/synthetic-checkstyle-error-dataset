@@ -1,0 +1,4 @@
+28c28
+<                 mask.length() == 6 ? Integer.parseInt(dateStr.substring(4, 6)) : Integer.parseInt(dateStr.substring(5, 7))
+---
+>                 mask.length() == 6 ? Integer.parseInt(dateStr.substring(4, 6)) : Integer.parseInt(dateStr.substring(5 , 7))

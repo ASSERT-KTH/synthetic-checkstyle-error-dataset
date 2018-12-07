@@ -1,0 +1,4 @@
+26c26
+<         response.setContentType(contentType + "; charset=" + charset);
+---
+>         response.setContentType(contentType + "; charset="+ charset);

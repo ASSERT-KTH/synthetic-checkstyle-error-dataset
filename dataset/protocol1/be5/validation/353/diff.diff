@@ -1,0 +1,4 @@
+17c17
+<         return "java.lang.Long".equals(className) ||
+---
+>         return "java.lang.Long".equals(className ) ||

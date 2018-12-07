@@ -1,0 +1,4 @@
+66c66
+<                 int size = SimpleCompositeMap.this.me.size();
+---
+>                 int size = SimpleCompositeMap.this. me.size();

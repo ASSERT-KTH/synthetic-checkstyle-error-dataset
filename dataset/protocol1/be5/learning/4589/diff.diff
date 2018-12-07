@@ -1,0 +1,4 @@
+23c23
+<             return super.getProperty(object, property);
+---
+>             return super.getProperty(object, 	property);

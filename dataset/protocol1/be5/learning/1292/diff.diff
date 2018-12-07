@@ -1,0 +1,5 @@
+56c56,57
+<         DynamicProperty property = new DynamicProperty(propertyName, builder.getTYPE());
+---
+>         DynamicProperty property = new DynamicProperty
+> (propertyName, builder.getTYPE());

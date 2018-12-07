@@ -1,0 +1,5 @@
+16c16,17
+<         if (n != null && jjtGetNumChildren() == 2)
+---
+>         if (n != 
+> null && jjtGetNumChildren() == 2)

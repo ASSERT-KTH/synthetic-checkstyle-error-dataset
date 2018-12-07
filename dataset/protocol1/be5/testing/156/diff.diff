@@ -1,0 +1,4 @@
+387c387
+<     public boolean previous() throws SQLException
+---
+>     public boolean previous() throws 	SQLException

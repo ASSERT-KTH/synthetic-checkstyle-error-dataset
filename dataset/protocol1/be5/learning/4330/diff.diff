@@ -1,0 +1,5 @@
+48c48,49
+<     public boolean doUntil(int stopEvent, String value) throws XMLStreamException
+---
+>     public boolean doUntil(int stopEvent, String 
+> value) throws XMLStreamException

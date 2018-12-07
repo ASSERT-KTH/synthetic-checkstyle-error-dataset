@@ -1,0 +1,4 @@
+14c14
+<     private String name;
+---
+>     private String 	name;

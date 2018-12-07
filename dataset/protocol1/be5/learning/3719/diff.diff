@@ -1,0 +1,5 @@
+110c110,111
+<             else if (value instanceof Clob)
+---
+>             else 
+> if (value instanceof Clob)

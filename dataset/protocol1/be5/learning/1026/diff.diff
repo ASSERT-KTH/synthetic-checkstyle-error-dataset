@@ -1,0 +1,4 @@
+314c314
+<             if (string.child(i) instanceof AstStringPart)
+---
+>             if (string.child(i) instanceof AstStringPart )

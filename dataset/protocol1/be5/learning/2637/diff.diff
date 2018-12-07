@@ -1,0 +1,4 @@
+56c56
+<                 sql.startsWith("SELECT COUNT(*) FROM ") || sql.startsWith("SELECT count(*) FROM ") ||
+---
+>                 sql.startsWith("SELECT COUNT(*) FROM ") || sql.startsWith("SELECT count(*) FROM ") 	||

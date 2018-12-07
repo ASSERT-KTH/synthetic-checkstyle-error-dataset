@@ -1,0 +1,4 @@
+7c7
+<     public AstGroupingSetsSpecification(int id)
+---
+>     public 	AstGroupingSetsSpecification(int id)

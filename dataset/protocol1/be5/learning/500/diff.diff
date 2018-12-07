@@ -1,0 +1,4 @@
+202c202
+<                 (Map<String, Map<String, Object>>) session.get().get(QUERY_FILTER);
+---
+>                 (Map<String, Map<String, 	Object>>) session.get().get(QUERY_FILTER);

@@ -1,0 +1,4 @@
+17c17
+<         this.data = data;
+---
+>         this.data = 	data;

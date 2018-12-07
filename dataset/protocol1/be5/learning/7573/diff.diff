@@ -1,0 +1,5 @@
+161,162c161
+<     public void removeListener(Be5EventLogger listener)
+<     {
+---
+>     public void removeListener(Be5EventLogger listener)    {

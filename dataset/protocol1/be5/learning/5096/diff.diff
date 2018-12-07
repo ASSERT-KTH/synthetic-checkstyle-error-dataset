@@ -1,0 +1,4 @@
+32c32
+<     public static <T> String toXml(Class<T> klass, T object)
+---
+>     public static <T>String toXml(Class<T> klass, T object)

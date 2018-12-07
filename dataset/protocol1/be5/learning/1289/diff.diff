@@ -1,0 +1,4 @@
+59c59
+<         this.escape = escape;
+---
+>         this.escape 	= escape;

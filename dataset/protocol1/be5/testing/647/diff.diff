@@ -1,0 +1,4 @@
+777c777
+<     public Array getArray(String columnLabel) throws SQLException
+---
+>     public Array getArray( String columnLabel) throws SQLException

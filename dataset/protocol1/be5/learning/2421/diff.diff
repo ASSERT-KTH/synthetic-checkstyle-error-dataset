@@ -1,0 +1,4 @@
+7c7
+<     public AstFieldReference(int id)
+---
+>     public AstFieldReference(int id )

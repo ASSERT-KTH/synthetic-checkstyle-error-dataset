@@ -1,0 +1,4 @@
+16c16
+<         return v != null && (v.startsWith(VALUE_PREFIX));
+---
+>         return v != null && ( v.startsWith(VALUE_PREFIX));

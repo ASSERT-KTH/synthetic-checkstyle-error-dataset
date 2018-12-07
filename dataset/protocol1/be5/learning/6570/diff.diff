@@ -1,0 +1,4 @@
+17c17
+<     public static String toString(InputStream inputStream, Charset charset) throws IOException
+---
+>     public static String toString(InputStream inputStream, Charset charset) 	throws IOException

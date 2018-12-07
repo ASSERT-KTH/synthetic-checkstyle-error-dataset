@@ -1,0 +1,5 @@
+3c3,4
+< public class AstOrderedSetAggregate extends SimpleNode
+---
+> public class AstOrderedSetAggregate 
+> extends SimpleNode

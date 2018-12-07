@@ -1,0 +1,4 @@
+34c34
+<         return getLocale().getLanguage().toLowerCase();
+---
+>         return getLocale().getLanguage().toLowerCase ();

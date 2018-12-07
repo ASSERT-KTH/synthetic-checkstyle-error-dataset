@@ -1,0 +1,5 @@
+13c13,14
+<     public void setAsIs(boolean asIs)
+---
+>     public void setAsIs(boolean 
+> asIs)

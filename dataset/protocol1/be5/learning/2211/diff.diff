@@ -1,0 +1,5 @@
+54,55c54
+<     public final void generate(Request req, Response res)
+<     {
+---
+>     public final void generate(Request req, Response res)    {

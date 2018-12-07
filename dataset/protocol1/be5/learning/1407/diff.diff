@@ -1,0 +1,4 @@
+71c71
+<         return DynamicPropertyMetaClass.leftShift(property, builder.getMap());
+---
+>         return DynamicPropertyMetaClass.leftShift(property, 	builder.getMap());

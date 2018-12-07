@@ -1,0 +1,5 @@
+69,70c69
+<         if (jjtGetNumChildren() == 1)
+<         {
+---
+>         if (jjtGetNumChildren() == 1)        {

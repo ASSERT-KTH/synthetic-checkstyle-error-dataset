@@ -1,0 +1,4 @@
+18c18
+<         AstSelectList selectList = select.getSelectList();
+---
+>         AstSelectList selectList = select.getSelectList() ;

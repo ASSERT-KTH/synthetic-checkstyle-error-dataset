@@ -1,0 +1,4 @@
+5c5
+<     DEFAULT, DISTINCT, ALL;
+---
+>     DEFAULT, 	DISTINCT, ALL;

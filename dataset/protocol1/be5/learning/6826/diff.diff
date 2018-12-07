@@ -1,0 +1,5 @@
+117c117,118
+<         if (operations.isEmpty())
+---
+>         if (operations.isEmpty
+> ())

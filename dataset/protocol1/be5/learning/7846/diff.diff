@@ -1,0 +1,5 @@
+18c18,19
+<             SimpleNode left = child(0);
+---
+>             SimpleNode left 
+> = child(0);

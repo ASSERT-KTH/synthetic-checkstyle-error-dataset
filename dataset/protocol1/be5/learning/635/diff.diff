@@ -1,0 +1,4 @@
+77c77
+<                 return FLOOR.node(DefaultParserContext.FUNC_DIVIDE.node(getSeconds(endDate, startDate), AstNumericConstant.of(60)));
+---
+>                 return FLOOR.node(DefaultParserContext.FUNC_DIVIDE.node(getSeconds(endDate, startDate), AstNumericConstant.of (60)));

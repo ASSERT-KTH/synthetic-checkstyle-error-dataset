@@ -1,0 +1,5 @@
+58c58,59
+<         int result = name != null ? name.hashCode() : 0;
+---
+>         int result = name != 
+> null ? name.hashCode() : 0;

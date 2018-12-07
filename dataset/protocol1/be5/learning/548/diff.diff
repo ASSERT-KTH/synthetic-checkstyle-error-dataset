@@ -1,0 +1,4 @@
+57c57
+<                 (name, path) -> classLoader.addClasspath(path.resolve("src/groovy/operations").toString())
+---
+>                 (name, path) -> classLoader.addClasspath(path	.resolve("src/groovy/operations").toString())

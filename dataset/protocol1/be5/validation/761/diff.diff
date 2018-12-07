@@ -1,0 +1,4 @@
+3c3
+< import com.developmentontheedge.be5.base.model.UserInfo;
+---
+> import com.developmentontheedge.be5.base	.model.UserInfo;

@@ -1,0 +1,4 @@
+5c5
+< public class AstNullPredicate extends SimpleNode
+---
+> 	public class AstNullPredicate extends SimpleNode

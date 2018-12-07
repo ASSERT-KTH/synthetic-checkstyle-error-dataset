@@ -1,0 +1,5 @@
+96c96,97
+<         return Objects.equals(format().trim(), other.format().trim());
+---
+>         return Objects.equals(format
+> ().trim(), other.format().trim());

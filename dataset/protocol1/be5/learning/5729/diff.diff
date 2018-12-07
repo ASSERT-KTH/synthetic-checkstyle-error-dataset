@@ -1,0 +1,5 @@
+49c49,50
+<     public AstDelete whereInPredicate(String columnName, int count)
+---
+>     
+> public AstDelete whereInPredicate(String columnName, int count)

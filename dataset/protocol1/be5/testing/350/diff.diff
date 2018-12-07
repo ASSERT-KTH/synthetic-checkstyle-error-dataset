@@ -1,0 +1,5 @@
+461c461,462
+<         _res.updateByte(columnIndex, x);
+---
+>         _res.updateByte(columnIndex, x)
+> ;

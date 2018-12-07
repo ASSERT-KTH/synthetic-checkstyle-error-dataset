@@ -1,0 +1,5 @@
+52c52,53
+<         return getParameter("multiple");
+---
+>         return getParameter
+> ("multiple");

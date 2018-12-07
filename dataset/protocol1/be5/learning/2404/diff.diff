@@ -1,0 +1,5 @@
+12,13c12
+<     public void setContent(String content)
+<     {
+---
+>     public void setContent(String content)    {

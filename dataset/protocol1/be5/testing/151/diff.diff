@@ -1,0 +1,5 @@
+13,14c13
+<     public boolean hasElse()
+<     {
+---
+>     public boolean hasElse()    {

@@ -1,0 +1,4 @@
+50c50
+<                 () -> new IllegalArgumentException("FROM clause does not contain the table " + tableName));
+---
+>                 () -> new IllegalArgumentException("FROM clause does not contain the table " + tableName) );

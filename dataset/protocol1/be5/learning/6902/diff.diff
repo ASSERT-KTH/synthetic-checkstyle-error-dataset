@@ -1,0 +1,4 @@
+7c7
+<     public AstNestedQuery(int id)
+---
+>     public AstNestedQuery(int 	id)

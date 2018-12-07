@@ -1,0 +1,4 @@
+130c130
+<         log.fine(sql + Arrays.toString(params));
+---
+>         log.fine (sql + Arrays.toString(params));

@@ -1,0 +1,4 @@
+30c30
+<     private SimpleNode addAstFunNode(Iterator<? extends Map.Entry<String, ?>> iterator)
+---
+>     	private SimpleNode addAstFunNode(Iterator<? extends Map.Entry<String, ?>> iterator)

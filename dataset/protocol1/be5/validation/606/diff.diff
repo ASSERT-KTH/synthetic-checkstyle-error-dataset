@@ -1,0 +1,5 @@
+24c24,25
+<         public Config(Map<String, Integer> cacheSizes)
+---
+>         public Config(Map<String, 
+> Integer> cacheSizes)

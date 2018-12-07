@@ -1,0 +1,4 @@
+13c13
+<     static final Set<String> ALLOWED_PARAMETERS = StreamEx.of("beautifier", "beautifierName", "limit", "property", "default", "distinct",
+---
+>     static final Set<String> ALLOWED_PARAMETERS 	= StreamEx.of("beautifier", "beautifierName", "limit", "property", "default", "distinct",

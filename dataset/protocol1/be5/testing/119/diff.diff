@@ -1,0 +1,5 @@
+18,19c18
+< import com.developmentontheedge.be5.server.controllers.QueryBuilderController;
+< import com.developmentontheedge.be5.server.controllers.StaticPageController;
+---
+> import com.developmentontheedge.be5.server.controllers.QueryBuilderController;import com.developmentontheedge.be5.server.controllers.StaticPageController;

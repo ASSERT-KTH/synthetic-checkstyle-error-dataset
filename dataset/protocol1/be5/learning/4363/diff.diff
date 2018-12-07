@@ -1,0 +1,5 @@
+9c9,10
+<     public AstExcept(int id)
+---
+>     public AstExcept
+> (int id)

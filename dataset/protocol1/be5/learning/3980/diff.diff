@@ -1,0 +1,5 @@
+60c60,61
+<     protected JsonApiModel error(ErrorModel error)
+---
+>     protected JsonApiModel error(ErrorModel 
+> error)

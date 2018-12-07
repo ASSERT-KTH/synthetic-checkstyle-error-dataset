@@ -1,0 +1,4 @@
+60c60
+<         this.nodePrefix = escape ? "E'" : "'";
+---
+>         this.nodePrefix =escape ? "E'" : "'";

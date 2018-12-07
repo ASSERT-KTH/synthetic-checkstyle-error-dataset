@@ -1,0 +1,5 @@
+61c61,62
+<         return execute(conn -> query(conn, sql, rs -> rs.next() ? parser.parse(rs) : null, params));
+---
+>         return execute(conn -> query
+> (conn, sql, rs -> rs.next() ? parser.parse(rs) : null, params));

@@ -1,0 +1,5 @@
+3c3,4
+< public class AstWithinGroup extends SimpleNode
+---
+> public class AstWithinGroup 
+> extends SimpleNode

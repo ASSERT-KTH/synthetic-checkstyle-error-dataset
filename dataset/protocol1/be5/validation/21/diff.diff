@@ -1,0 +1,4 @@
+54c54
+<         templateResolver.setCacheTTLMs(3600000L);
+---
+>         templateResolver	.setCacheTTLMs(3600000L);

@@ -1,0 +1,5 @@
+5,6c5
+< import com.developmentontheedge.be5.web.impl.RequestImpl;
+< import com.developmentontheedge.be5.web.impl.ResponseImpl;
+---
+> import com.developmentontheedge.be5.web.impl.RequestImpl;import com.developmentontheedge.be5.web.impl.ResponseImpl;

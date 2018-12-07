@@ -1,0 +1,5 @@
+191,192c191
+<         if (e instanceof Be5Exception)
+<         {
+---
+>         if (e instanceof Be5Exception)        {

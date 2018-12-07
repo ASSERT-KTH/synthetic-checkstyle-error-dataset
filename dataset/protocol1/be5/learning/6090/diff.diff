@@ -1,0 +1,4 @@
+7c7
+<     static enum Special
+---
+>     	static enum Special

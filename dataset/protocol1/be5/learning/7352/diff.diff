@@ -1,0 +1,5 @@
+60,61c60
+<         if (node.jjtGetNumChildren() > 1 && !(node.child(1) instanceof AstOrderBy))
+<         {
+---
+>         if (node.jjtGetNumChildren() > 1 && !(node.child(1) instanceof AstOrderBy))        {

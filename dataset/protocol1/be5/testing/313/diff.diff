@@ -1,0 +1,4 @@
+21c21
+<             throw new IllegalStateException("All columns not support " + selectList.getNodeContent());
+---
+>             throw new IllegalStateException( "All columns not support " + selectList.getNodeContent());

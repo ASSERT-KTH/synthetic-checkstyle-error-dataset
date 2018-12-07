@@ -1,0 +1,5 @@
+232c232,233
+<         String dateField = node instanceof AstFunNode ? ((AstFunNode) node).getFunction().getName() : ((AstExtract) node).getDateField();
+---
+>         String dateField = node instanceof AstFunNode ? ((AstFunNode) node).getFunction().getName() : ((AstExtract) node).getDateField()
+> ;

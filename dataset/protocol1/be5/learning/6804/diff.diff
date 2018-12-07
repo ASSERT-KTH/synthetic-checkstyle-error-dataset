@@ -1,0 +1,4 @@
+130c130
+<         public Builder sessionVar(String name, Object value, String className)
+---
+>         public Builder sessionVar( String name, Object value, String className)

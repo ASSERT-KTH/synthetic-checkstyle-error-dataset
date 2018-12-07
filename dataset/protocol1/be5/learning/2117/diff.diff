@@ -1,0 +1,4 @@
+14c14
+<     public AstWindowSpecification(SimpleNode... childs)
+---
+>     public AstWindowSpecification(SimpleNode... 	childs)

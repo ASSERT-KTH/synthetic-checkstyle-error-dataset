@@ -1,0 +1,5 @@
+80c80,81
+<             if (urls.size() > 1) throw new RuntimeException("must be one config");
+---
+>             if (urls.size
+> () > 1) throw new RuntimeException("must be one config");

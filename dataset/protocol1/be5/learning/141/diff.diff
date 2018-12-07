@@ -1,0 +1,4 @@
+560c560
+<     public static String toAnsiDateTime(java.sql.Timestamp ts)
+---
+>     public static String toAnsiDateTime(java. sql.Timestamp ts)

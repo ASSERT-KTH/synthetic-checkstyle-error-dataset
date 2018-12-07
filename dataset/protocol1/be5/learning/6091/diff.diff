@@ -1,0 +1,4 @@
+60c60
+<         for (String n : otherNames)
+---
+>         for(String n : otherNames)

@@ -1,0 +1,5 @@
+193c193,194
+<         Operation operation = meta.getOperation(entityName, queryName, name);
+---
+>         Operation 
+> operation = meta.getOperation(entityName, queryName, name);

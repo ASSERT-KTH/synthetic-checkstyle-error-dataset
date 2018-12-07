@@ -1,0 +1,5 @@
+113c113,114
+<         AstBeNode clone = (AstBeNode) super.clone();
+---
+>         AstBeNode clone = 
+> (AstBeNode) super.clone();

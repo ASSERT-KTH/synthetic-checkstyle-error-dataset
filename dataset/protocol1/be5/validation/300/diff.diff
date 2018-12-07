@@ -1,0 +1,5 @@
+63c63,64
+<         if (maxNumberOfParams() >= 0 && (arguments.length < minNumberOfParams() || arguments.length > maxNumberOfParams()))
+---
+>         if (maxNumberOfParams() >= 0 && (arguments.length < 
+> minNumberOfParams() || arguments.length > maxNumberOfParams()))

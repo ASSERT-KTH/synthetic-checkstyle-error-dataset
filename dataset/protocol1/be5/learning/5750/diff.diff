@@ -1,0 +1,4 @@
+721c721
+<             ret = ret.replace('\\', 'e').replace("\"", "'")
+---
+>             ret = ret.replace('\\', 'e' ).replace("\"", "'")

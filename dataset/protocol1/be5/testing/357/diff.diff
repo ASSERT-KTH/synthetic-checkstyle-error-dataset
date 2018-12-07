@@ -1,0 +1,4 @@
+681c681
+<     public void updateRow() throws SQLException
+---
+>     public void updateRow() throws 	SQLException

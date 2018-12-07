@@ -1,0 +1,4 @@
+5c5
+< import com.developmentontheedge.be5.base.util.HashUrl;
+---
+> import com.developmentontheedge.be5	.base.util.HashUrl;

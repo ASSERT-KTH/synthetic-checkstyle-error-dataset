@@ -1,0 +1,4 @@
+85c85
+<             super.formatBody(sb, printedSpecial);
+---
+>             super.formatBody(sb , printedSpecial);

@@ -1,0 +1,4 @@
+26c26
+<     public String getNodePrefix()
+---
+>     public 	String getNodePrefix()

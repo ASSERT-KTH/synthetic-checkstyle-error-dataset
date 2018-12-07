@@ -1,0 +1,4 @@
+44c44
+<     private Object getConfiguration(Class<?> clazz, Class<Object> configClass)
+---
+>     private Object 	getConfiguration(Class<?> clazz, Class<Object> configClass)

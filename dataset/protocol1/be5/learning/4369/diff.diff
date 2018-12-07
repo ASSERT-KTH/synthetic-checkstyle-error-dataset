@@ -1,0 +1,4 @@
+14c14
+<         this.queryName = requireNonNull(queryName);
+---
+>         this.queryName = requireNonNull (queryName);

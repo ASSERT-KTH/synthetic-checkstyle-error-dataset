@@ -1,0 +1,4 @@
+52c52
+<         return !RoleType.ROLE_GUEST.equals(get().getUserName());
+---
+>         return!RoleType.ROLE_GUEST.equals(get().getUserName());

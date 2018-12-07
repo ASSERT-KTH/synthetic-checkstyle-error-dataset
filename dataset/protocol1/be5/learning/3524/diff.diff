@@ -1,0 +1,5 @@
+308c308,309
+<         SimpleNode rsize = size.clone();
+---
+>         SimpleNode rsize = size.clone()
+> ;

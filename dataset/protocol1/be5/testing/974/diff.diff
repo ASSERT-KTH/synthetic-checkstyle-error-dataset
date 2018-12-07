@@ -1,0 +1,4 @@
+227c227
+<             Optional<String> columnTitle = localizations.get(getLanguage(), entityName, queryName, columnName);
+---
+>             Optional<String> columnTitle = localizations.get(getLanguage (), entityName, queryName, columnName);

@@ -1,0 +1,4 @@
+41c41
+<         result = 31 * result + (value != null ? value.hashCode() : 0);
+---
+>         result = 31 * result +(value != null ? value.hashCode() : 0);

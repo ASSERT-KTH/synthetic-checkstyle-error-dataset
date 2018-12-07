@@ -1,0 +1,5 @@
+116c116,117
+<         List<ColumnModel> columns = tableModel.getColumns();
+---
+>         
+> List<ColumnModel> columns = tableModel.getColumns();

@@ -1,0 +1,4 @@
+50c50
+<         result = 31 * result + (content != null ? content.hashCode() : 0);
+---
+>         result = 31 * result + (content != null ? content.hashCode() : 0) ;

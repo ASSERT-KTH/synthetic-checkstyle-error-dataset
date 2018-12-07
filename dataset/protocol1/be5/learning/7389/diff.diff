@@ -1,0 +1,4 @@
+47c47
+<         sb.append(getNodeSuffix());
+---
+>         sb.append (getNodeSuffix());

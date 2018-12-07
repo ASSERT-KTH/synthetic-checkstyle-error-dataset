@@ -1,0 +1,4 @@
+52c52
+<         this.offset = offset;
+---
+>         this. offset = offset;

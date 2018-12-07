@@ -1,0 +1,4 @@
+13c13
+<     public ResourceData(String type, Object attributes, Map<String, String> links)
+---
+>     public ResourceData(String type, Object attributes, 	Map<String, String> links)

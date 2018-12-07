@@ -1,0 +1,4 @@
+63c63
+<                 len = ((char[]) valueObj).length;
+---
+>                 len = ((char[]) valueObj ).length;

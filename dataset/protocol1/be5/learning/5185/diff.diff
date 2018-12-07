@@ -1,0 +1,5 @@
+149c149,150
+<             return OperationResult.error(userAwareMeta.getLocalizedExceptionMessage(result.getMessage()), null);
+---
+>             return 
+> OperationResult.error(userAwareMeta.getLocalizedExceptionMessage(result.getMessage()), null);

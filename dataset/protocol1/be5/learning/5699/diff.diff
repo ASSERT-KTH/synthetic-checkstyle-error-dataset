@@ -1,0 +1,4 @@
+47c47
+<             throw new InternalError("Not all error codes have messages!");
+---
+>             throw new InternalError( "Not all error codes have messages!");

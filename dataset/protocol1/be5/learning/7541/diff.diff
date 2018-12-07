@@ -1,0 +1,5 @@
+12c12,13
+<     <K, V> Cache<K, V> createCache(String name);
+---
+>     <K, V> Cache<K
+> , V> createCache(String name);

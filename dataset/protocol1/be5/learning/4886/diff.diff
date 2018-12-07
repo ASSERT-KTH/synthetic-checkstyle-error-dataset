@@ -1,0 +1,5 @@
+141c141,142
+<         if (operator == null && getMode() == Mode.DBMS_TRANSFORM)
+---
+>         if (operator 
+> == null && getMode() == Mode.DBMS_TRANSFORM)

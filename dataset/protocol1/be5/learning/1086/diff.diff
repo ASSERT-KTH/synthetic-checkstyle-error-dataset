@@ -1,0 +1,4 @@
+18c18
+<         start.tree().select(AstWhere.class).toList().forEach(Simplifier::simplifyWhere);
+---
+>         start.tree().select(AstWhere.class).toList().forEach(Simplifier::simplifyWhere) ;

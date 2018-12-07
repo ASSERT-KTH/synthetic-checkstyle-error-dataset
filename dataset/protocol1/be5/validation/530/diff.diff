@@ -1,0 +1,4 @@
+34c34
+<         this.type = type;
+---
+>         	this.type = type;

@@ -1,0 +1,4 @@
+22c22
+<         AstCount countFn = new AstCount();
+---
+>         AstCount countFn = new 	AstCount();

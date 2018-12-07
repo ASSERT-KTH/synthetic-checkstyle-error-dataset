@@ -1,0 +1,4 @@
+12c12
+<     FORMAT_DAYMONTH("'DD.MM'", "'%d.%m'"),
+---
+>     	FORMAT_DAYMONTH("'DD.MM'", "'%d.%m'"),

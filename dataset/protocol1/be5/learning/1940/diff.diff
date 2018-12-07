@@ -1,0 +1,5 @@
+12c12,13
+< import static com.developmentontheedge.be5.server.FrontendActions.updateParentDocument;
+---
+> import static com.developmentontheedge.be5.server.FrontendActions.updateParentDocument
+> ;

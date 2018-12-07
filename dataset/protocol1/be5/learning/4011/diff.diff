@@ -1,0 +1,4 @@
+12c12
+<         this.nodePrefix = "INTERVAL";
+---
+>         this	.nodePrefix = "INTERVAL";

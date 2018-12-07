@@ -1,0 +1,5 @@
+45c45,46
+<     public static enum Mode
+---
+>     public static 
+> enum Mode

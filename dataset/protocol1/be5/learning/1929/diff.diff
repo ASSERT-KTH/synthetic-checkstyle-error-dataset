@@ -1,0 +1,4 @@
+20c20
+<             if (resourceAsStream == null)
+---
+>             if (resourceAsStream == 	null)

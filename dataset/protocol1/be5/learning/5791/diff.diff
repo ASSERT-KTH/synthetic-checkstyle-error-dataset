@@ -1,0 +1,4 @@
+18c18
+<     public AstStringPart(String content, boolean safed)
+---
+>     public AstStringPart(String content , boolean safed)

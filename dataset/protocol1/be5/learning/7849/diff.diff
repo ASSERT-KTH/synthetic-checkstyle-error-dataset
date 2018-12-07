@@ -1,0 +1,4 @@
+12c12
+<     String STATIC_ACTION = "static";
+---
+>     String STATIC_ACTION ="static";

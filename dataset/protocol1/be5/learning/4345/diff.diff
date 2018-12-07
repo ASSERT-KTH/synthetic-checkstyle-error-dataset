@@ -1,0 +1,4 @@
+23c23
+<         AstDerivedColumn countNode = new AstDerivedColumn(countFn, "CNT");
+---
+>         AstDerivedColumn countNode = new AstDerivedColumn(countFn, "CNT" );

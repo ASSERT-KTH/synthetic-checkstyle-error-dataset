@@ -1,0 +1,5 @@
+13c13,14
+<         response.addHeader("Access-Control-Allow-Credentials", "true");
+---
+>         response.addHeader("Access-Control-Allow-Credentials"
+> , "true");

@@ -1,0 +1,4 @@
+80c80
+<                         int base64Pos = data.indexOf(base64);
+---
+>                         int base64Pos = data.indexOf(base64) ;

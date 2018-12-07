@@ -1,0 +1,5 @@
+18,19c18
+< import static com.developmentontheedge.be5.base.exceptions.Be5ErrorCode.UNKNOWN_OPERATION;
+< import static com.developmentontheedge.be5.base.exceptions.Be5ErrorCode.UNKNOWN_QUERY;
+---
+> import static com.developmentontheedge.be5.base.exceptions.Be5ErrorCode.UNKNOWN_OPERATION;import static com.developmentontheedge.be5.base.exceptions.Be5ErrorCode.UNKNOWN_QUERY;

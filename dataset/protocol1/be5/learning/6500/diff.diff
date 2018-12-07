@@ -1,0 +1,5 @@
+12c12,13
+<     public AstTableRef(String table)
+---
+>     
+> public AstTableRef(String table)

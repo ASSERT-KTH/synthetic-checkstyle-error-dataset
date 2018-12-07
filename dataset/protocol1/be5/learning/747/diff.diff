@@ -1,0 +1,5 @@
+17c17,18
+< public abstract class OperationExtenderSupport extends BaseOperationExtenderSupport
+---
+> public abstract 
+> class OperationExtenderSupport extends BaseOperationExtenderSupport

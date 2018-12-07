@@ -1,0 +1,5 @@
+3c3,4
+< public class AstBeMacroArgumentList extends SimpleNode
+---
+> public class 
+> AstBeMacroArgumentList extends SimpleNode

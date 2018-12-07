@@ -1,0 +1,4 @@
+25c25
+<     private final boolean hasAggregate;
+---
+>     private 	final boolean hasAggregate;

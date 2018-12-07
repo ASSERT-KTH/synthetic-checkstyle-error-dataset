@@ -1,0 +1,4 @@
+13c13
+<         AstWhere astWhere = new AstWhere(SqlParserTreeConstants.JJTWHERE);
+---
+>         AstWhere astWhere = new 	AstWhere(SqlParserTreeConstants.JJTWHERE);

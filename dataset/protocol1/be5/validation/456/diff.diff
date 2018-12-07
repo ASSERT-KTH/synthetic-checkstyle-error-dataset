@@ -1,0 +1,4 @@
+61c61
+<         if (displayName != null) dp.setDisplayName(displayName);
+---
+>         	if (displayName != null) dp.setDisplayName(displayName);

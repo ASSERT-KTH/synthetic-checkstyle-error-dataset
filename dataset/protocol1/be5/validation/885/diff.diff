@@ -1,0 +1,5 @@
+31c31,32
+<     public UserAwareMeta userAwareMeta;
+---
+>     public 
+> UserAwareMeta userAwareMeta;

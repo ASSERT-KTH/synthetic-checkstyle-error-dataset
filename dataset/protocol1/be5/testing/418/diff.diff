@@ -1,0 +1,4 @@
+39c39
+<                 "\", \"data\":\"data:" + mimeTypes + ";base64," + Base64.getEncoder().encodeToString(data) + "\"}";
+---
+>                 "\", \"data\":\"data:" + mimeTypes + ";base64," + Base64.getEncoder().encodeToString(data) + "\"}" ;

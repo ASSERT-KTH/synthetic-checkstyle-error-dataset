@@ -1,0 +1,4 @@
+191c191
+<         node.replaceWith(node.child(0));
+---
+>         node.replaceWith(node.child (0));

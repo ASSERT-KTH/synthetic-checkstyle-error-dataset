@@ -1,0 +1,4 @@
+123c123
+<     public void setCurrentRoles(List<String> currentRoles)
+---
+>     public void setCurrentRoles(List<String > currentRoles)

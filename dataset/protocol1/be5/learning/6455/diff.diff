@@ -1,0 +1,4 @@
+34c34
+<     public void setDistinct()
+---
+>     	public void setDistinct()

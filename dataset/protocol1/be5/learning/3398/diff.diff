@@ -1,0 +1,5 @@
+49c49,50
+<             Map map = (Map) value;
+---
+>             Map 
+> map = (Map) value;

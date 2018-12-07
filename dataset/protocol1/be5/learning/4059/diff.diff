@@ -1,0 +1,4 @@
+5c5
+< public class AstReplacementParameter extends SimpleNode
+---
+> public class 	AstReplacementParameter extends SimpleNode

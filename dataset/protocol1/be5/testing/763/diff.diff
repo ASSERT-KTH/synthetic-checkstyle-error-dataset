@@ -1,0 +1,5 @@
+29c29,30
+<         return this.children().select(AstQuery.class).findFirst().orElse(null);
+---
+>         return this.children().select(AstQuery.class).findFirst().orElse
+> (null);

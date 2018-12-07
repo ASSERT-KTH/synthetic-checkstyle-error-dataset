@@ -1,0 +1,5 @@
+72,73c72
+<                     element.equals(reader.getLocalName()))
+<             {
+---
+>                     element.equals(reader.getLocalName()))            {

@@ -1,0 +1,5 @@
+4c4,5
+< import com.google.inject.servlet.ServletModule;
+---
+> import com.google.inject.servlet.ServletModule
+> ;

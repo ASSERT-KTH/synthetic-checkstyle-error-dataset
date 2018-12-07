@@ -1,0 +1,4 @@
+19c19
+<     public AstParenthesis(SimpleNode child)
+---
+>     	public AstParenthesis(SimpleNode child)

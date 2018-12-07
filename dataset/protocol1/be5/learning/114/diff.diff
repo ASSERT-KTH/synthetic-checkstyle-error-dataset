@@ -1,0 +1,5 @@
+99,100c99
+<             else if (entry.getValue() instanceof JsonPrimitive)
+<             {
+---
+>             else if (entry.getValue() instanceof JsonPrimitive)            {

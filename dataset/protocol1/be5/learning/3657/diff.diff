@@ -1,0 +1,4 @@
+125c125
+<         BeMacroFunction op = new BeMacroFunction(name, minNumberOfParams, maxNumberOfParams);
+---
+>         BeMacroFunction op = new BeMacroFunction(name,minNumberOfParams, maxNumberOfParams);

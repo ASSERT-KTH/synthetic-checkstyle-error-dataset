@@ -1,0 +1,4 @@
+22c22
+<         return prev == child(0) ? "BETWEEN" : "AND";
+---
+>         return prev == child(0) ? "BETWEEN" : 	"AND";

@@ -1,0 +1,4 @@
+197c197
+<             localization = findLocalization(language, "index.jsp",
+---
+>             localization = findLocalization (language, "index.jsp",

@@ -1,0 +1,4 @@
+28c28
+<     private boolean prefixComma = false, suffixComma = false, asToken = false;
+---
+>     	private boolean prefixComma = false, suffixComma = false, asToken = false;

@@ -1,0 +1,4 @@
+310c310
+<         node.replaceWith(RIGHT.node(opConcat.node(REPLICATE.node(fill, size), str), rsize));
+---
+>         node.replaceWith(RIGHT.node(opConcat.node(REPLICATE.node(fill, size), str), rsize) );

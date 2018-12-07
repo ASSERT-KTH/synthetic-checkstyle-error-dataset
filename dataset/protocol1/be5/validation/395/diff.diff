@@ -1,0 +1,5 @@
+73c73,74
+<         caches.forEach((k, v) -> v.invalidateAll());
+---
+>         caches.forEach((k, v) -> v.invalidateAll
+> ());

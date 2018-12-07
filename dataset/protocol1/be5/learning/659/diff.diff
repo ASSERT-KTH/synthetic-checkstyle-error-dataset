@@ -1,0 +1,4 @@
+54c54
+<         return new AstTableRef(true, new AstTableName(childs[0]), new AstIdentifierConstant(childs[1], true));
+---
+>         return new AstTableRef(true , new AstTableName(childs[0]), new AstIdentifierConstant(childs[1], true));

@@ -1,0 +1,4 @@
+104c104
+<     public static int getASCII(char c)
+---
+>     public static int getASCII( char c)

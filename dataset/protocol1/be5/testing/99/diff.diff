@@ -1,0 +1,5 @@
+5c5,6
+< public class AstBeIdentifier extends SimpleNode
+---
+> public class 
+> AstBeIdentifier extends SimpleNode

@@ -1,0 +1,5 @@
+23c23,24
+<             right.inheritFrom(this);
+---
+>             right.inheritFrom
+> (this);

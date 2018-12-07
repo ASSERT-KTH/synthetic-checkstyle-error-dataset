@@ -1,0 +1,4 @@
+33c33
+<         lastInsertID = database.getEntity(getInfo().getEntityName()).add((DynamicPropertySet) parameters);
+---
+>         lastInsertID = database. getEntity(getInfo().getEntityName()).add((DynamicPropertySet) parameters);

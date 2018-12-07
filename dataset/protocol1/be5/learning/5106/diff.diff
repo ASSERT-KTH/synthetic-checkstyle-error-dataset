@@ -1,0 +1,4 @@
+17c17
+<     public static <T> T getSqlValue(Class<T> clazz, ResultSet rs, int idx)
+---
+>     public static <T> T getSqlValue(Class<T>clazz, ResultSet rs, int idx)

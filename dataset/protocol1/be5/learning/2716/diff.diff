@@ -1,0 +1,4 @@
+40c40
+<             throw Be5Exception.internal("Class must implement Configurable: " + object.getClass().getCanonicalName());
+---
+>             throw Be5Exception.internal("Class must implement Configurable: " + object.getClass ().getCanonicalName());

@@ -1,0 +1,4 @@
+43c43
+<     private static final PredefinedFunction MONTH = new PredefinedFunction("MONTH", PredefinedFunction.FUNCTION_PRIORITY, 1);
+---
+>     private static final PredefinedFunction MONTH = new PredefinedFunction("MONTH", PredefinedFunction.FUNCTION_PRIORITY, 1) ;

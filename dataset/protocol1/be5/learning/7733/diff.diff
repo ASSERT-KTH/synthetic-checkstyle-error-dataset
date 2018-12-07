@@ -1,0 +1,4 @@
+80c80
+<     public String getAttribute(String name) throws XMLStreamException
+---
+>     public String getAttribute(String name) throws 	XMLStreamException

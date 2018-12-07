@@ -1,0 +1,4 @@
+5c5
+<     public AstBeMacroArgumentList(int id)
+---
+>     public AstBeMacroArgumentList( int id)

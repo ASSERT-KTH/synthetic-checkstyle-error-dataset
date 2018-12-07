@@ -1,0 +1,4 @@
+94c94
+<     public static String stringFromDbObject(Object value)
+---
+>     	public static String stringFromDbObject(Object value)

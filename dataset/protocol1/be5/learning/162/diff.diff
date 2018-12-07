@@ -1,0 +1,5 @@
+48c48,49
+<             throw new IllegalArgumentException("Unable to add primary key: query does not contain the FROM clause");
+---
+>             throw new 
+> IllegalArgumentException("Unable to add primary key: query does not contain the FROM clause");

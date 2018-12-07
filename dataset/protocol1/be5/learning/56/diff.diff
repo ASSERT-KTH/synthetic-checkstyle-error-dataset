@@ -1,0 +1,4 @@
+145c145
+<     String getStaticPageContent(String language, String name);
+---
+>     String getStaticPageContent(String language, String name) ;

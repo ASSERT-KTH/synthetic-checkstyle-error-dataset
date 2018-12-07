@@ -1,0 +1,4 @@
+91c91
+<         if (isAccessDenied()) return HTTP_CODE_403;
+---
+>         	if (isAccessDenied()) return HTTP_CODE_403;

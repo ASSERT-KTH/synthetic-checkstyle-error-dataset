@@ -1,0 +1,4 @@
+89c89
+<                 Map<String, Object> config = (Map<String, Object>) ((Map<String, Object>) new Yaml().load(reader)).get("config");
+---
+>                 Map<String, Object> config = (Map<String, Object>) ((Map<String, Object>) new Yaml().load(reader)).get ("config");

@@ -1,0 +1,4 @@
+70c70
+<         AstFunNode node = new AstFunNode(this);
+---
+>         AstFunNode node = 	new AstFunNode(this);

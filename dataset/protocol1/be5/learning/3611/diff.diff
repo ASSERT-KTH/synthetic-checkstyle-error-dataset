@@ -1,0 +1,4 @@
+71c71
+<             addChild(new AstIdentifierConstant(alias, true));
+---
+>             addChild( new AstIdentifierConstant(alias, true));

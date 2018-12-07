@@ -1,0 +1,5 @@
+10c10,11
+< public class DPSAttributes
+---
+> public class 
+> DPSAttributes

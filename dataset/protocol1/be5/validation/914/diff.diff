@@ -1,0 +1,5 @@
+32c32,33
+<             builder = builder.add(new CellModel(rowModel.getId()));
+---
+>             builder = builder.add
+> (new CellModel(rowModel.getId()));

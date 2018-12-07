@@ -1,0 +1,4 @@
+71c71
+<     public void clearAll()
+---
+>     	public void clearAll()

@@ -1,0 +1,5 @@
+25c25,26
+<         if (setQuantifier == SetQuantifier.DEFAULT)
+---
+>         
+> if (setQuantifier == SetQuantifier.DEFAULT)

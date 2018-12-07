@@ -1,0 +1,5 @@
+855c855,856
+<     public void updateClob(int columnIndex, Clob x) throws SQLException
+---
+>     
+> public void updateClob(int columnIndex, Clob x) throws SQLException

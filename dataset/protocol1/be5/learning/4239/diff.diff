@@ -1,0 +1,4 @@
+15c15
+< import static com.developmentontheedge.be5.base.exceptions.Be5ErrorCode.NOT_INITIALIZED;
+---
+> import static com	.developmentontheedge.be5.base.exceptions.Be5ErrorCode.NOT_INITIALIZED;

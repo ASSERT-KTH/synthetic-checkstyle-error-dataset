@@ -1,0 +1,4 @@
+7c7
+<     public AstDateAdd(int id)
+---
+>     public AstDateAdd( int id)

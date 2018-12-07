@@ -1,0 +1,4 @@
+220c220
+<         String queryKey = getQueryKey(query, parameters);
+---
+>         String queryKey 	= getQueryKey(query, parameters);

@@ -1,0 +1,4 @@
+59c59
+<     public static String getSearchPresetParam(Collection<String> searchPresets)
+---
+>     public static String 	getSearchPresetParam(Collection<String> searchPresets)

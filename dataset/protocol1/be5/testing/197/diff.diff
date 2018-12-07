@@ -1,0 +1,5 @@
+46c46,47
+<     private List<TableOperationPresentation> collectOperations(Query query)
+---
+>     private 
+> List<TableOperationPresentation> collectOperations(Query query)

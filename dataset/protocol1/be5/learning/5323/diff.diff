@@ -1,0 +1,4 @@
+10c10
+<         this.nodePrefix = "DATE_ADD(";
+---
+>         this.nodePrefix= "DATE_ADD(";

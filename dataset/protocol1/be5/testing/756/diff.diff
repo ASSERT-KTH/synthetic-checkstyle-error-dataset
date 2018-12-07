@@ -1,0 +1,5 @@
+85c85,86
+<         return _res.getInt(columnIndex);
+---
+>         return _res.getInt
+> (columnIndex);

@@ -1,0 +1,4 @@
+17c17
+<         for (SimpleNode child : childs)
+---
+>         for 	(SimpleNode child : childs)

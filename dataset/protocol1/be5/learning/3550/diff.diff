@@ -1,0 +1,4 @@
+18c18
+<     public AstFrom(AstTableRef... children)
+---
+>     public AstFrom(AstTableRef... 	children)

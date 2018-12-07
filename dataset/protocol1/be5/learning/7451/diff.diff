@@ -1,0 +1,4 @@
+13c13
+<     public InitialRowsBuilder(TableModel tableModel)
+---
+>     public InitialRowsBuilder (TableModel tableModel)

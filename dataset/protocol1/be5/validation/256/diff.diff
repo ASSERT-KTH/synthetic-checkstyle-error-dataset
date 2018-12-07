@@ -1,0 +1,5 @@
+23c23,24
+<         String msg = ErrorTitles.formatTitle(this, paramList);
+---
+>         String msg 
+> = ErrorTitles.formatTitle(this, paramList);

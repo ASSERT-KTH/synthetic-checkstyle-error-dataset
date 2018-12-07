@@ -1,0 +1,4 @@
+169c169
+<             return Double.valueOf(fixNumber(val, false));
+---
+>             return Double.valueOf( fixNumber(val, false));

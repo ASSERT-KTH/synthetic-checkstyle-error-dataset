@@ -1,0 +1,4 @@
+23c23
+<         return session.get().getAttribute(name);
+---
+>         return session.get().getAttribute (name);

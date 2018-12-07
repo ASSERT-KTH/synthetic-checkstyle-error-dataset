@@ -1,0 +1,4 @@
+41c41
+<     public AstLimit setLimit(int offset, int count)
+---
+>     public AstLimit setLimit(int 	offset, int count)

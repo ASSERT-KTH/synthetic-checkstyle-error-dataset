@@ -1,0 +1,5 @@
+11,12c11
+< import com.developmentontheedge.sql.model.AstFrom;
+< import com.developmentontheedge.sql.model.AstFunNode;
+---
+> import com.developmentontheedge.sql.model.AstFrom;import com.developmentontheedge.sql.model.AstFunNode;

@@ -1,0 +1,5 @@
+22,23c22
+<     public void setQuantifier(SetQuantifier setQuantifier)
+<     {
+---
+>     public void setQuantifier(SetQuantifier setQuantifier)    {

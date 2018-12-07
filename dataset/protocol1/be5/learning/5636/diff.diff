@@ -1,0 +1,5 @@
+14c14,15
+<     public static <T> T parse(Class<T> klass, String url) throws AssertionError
+---
+>     public static <T> T parse(Class<T> klass, String 
+> url) throws AssertionError

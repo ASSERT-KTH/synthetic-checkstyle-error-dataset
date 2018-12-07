@@ -1,0 +1,5 @@
+68c68,69
+<     public static Predicate<Function> needsTransformation(Dbms dbms)
+---
+>     public static Predicate<Function> needsTransformation
+> (Dbms dbms)

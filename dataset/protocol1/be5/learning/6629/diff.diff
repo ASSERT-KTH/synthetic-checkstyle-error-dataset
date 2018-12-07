@@ -1,0 +1,4 @@
+40c40
+<         TITLES.put(INTERNAL_ERROR_IN_QUERY, "Internal error occurred during query: $1.$2");
+---
+>         TITLES	.put(INTERNAL_ERROR_IN_QUERY, "Internal error occurred during query: $1.$2");

@@ -1,0 +1,4 @@
+30c30
+<         return getCurrentRoles().contains(RoleType.ROLE_SYSTEM_DEVELOPER);
+---
+>         return getCurrentRoles()	.contains(RoleType.ROLE_SYSTEM_DEVELOPER);

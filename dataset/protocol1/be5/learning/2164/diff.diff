@@ -1,0 +1,4 @@
+7c7
+<     public AstQuery(int id)
+---
+>     public 	AstQuery(int id)

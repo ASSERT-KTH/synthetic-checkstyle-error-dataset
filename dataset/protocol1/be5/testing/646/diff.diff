@@ -1,0 +1,4 @@
+26c26
+<                 list.add(value != null ? value.toString() : "null");
+---
+>                 list.add(value !=null ? value.toString() : "null");

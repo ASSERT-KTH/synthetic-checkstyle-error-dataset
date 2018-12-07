@@ -1,0 +1,4 @@
+34c34
+<                 return Integer.valueOf((String) value);
+---
+>                 return Integer.valueOf(( String) value);

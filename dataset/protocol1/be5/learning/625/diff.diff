@@ -1,0 +1,5 @@
+269c269,270
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("REGEXP_REPLACE", Function.FUNCTION_PRIORITY, 2, 3), Dbms.DB2, Dbms.POSTGRESQL, Dbms.ORACLE));
+---
+>         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("REGEXP_REPLACE", Function.FUNCTION_PRIORITY, 2, 3)
+> , Dbms.DB2, Dbms.POSTGRESQL, Dbms.ORACLE));

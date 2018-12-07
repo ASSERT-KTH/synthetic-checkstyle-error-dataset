@@ -1,0 +1,4 @@
+105c105
+<     public void queryError(Query query, Map<String, Object> parameters, long startTime, long endTime, String exception)
+---
+>     public void queryError(Query query, Map<String, 	Object> parameters, long startTime, long endTime, String exception)

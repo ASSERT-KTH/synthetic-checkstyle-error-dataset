@@ -1,0 +1,4 @@
+17c17
+<         addChild(new AstTableRef(table));
+---
+>         addChild(new AstTableRef(table ));

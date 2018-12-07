@@ -1,0 +1,4 @@
+40c40
+<         bind(Be5Caches.class).to(Be5CachesImpl.class).in(Scopes.SINGLETON);
+---
+>         bind(Be5Caches	.class).to(Be5CachesImpl.class).in(Scopes.SINGLETON);

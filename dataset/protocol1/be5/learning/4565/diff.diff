@@ -1,0 +1,4 @@
+27c27
+<         if (!conditions.isEmpty()) where(new AstWhere(conditions));
+---
+>         if (! conditions.isEmpty()) where(new AstWhere(conditions));

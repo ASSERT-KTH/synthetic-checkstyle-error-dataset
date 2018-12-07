@@ -1,0 +1,4 @@
+43c43
+<             log.log(e.getLogLevel(), "Error in controller", e);
+---
+>             log.log(e.getLogLevel(), 	"Error in controller", e);

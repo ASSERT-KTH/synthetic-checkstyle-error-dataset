@@ -1,0 +1,4 @@
+6c6
+<     public final String name;
+---
+>     public 	final String name;

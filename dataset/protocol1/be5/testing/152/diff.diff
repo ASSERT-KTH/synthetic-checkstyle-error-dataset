@@ -1,0 +1,4 @@
+557c557
+<         _res.updateObject(columnIndex, x);
+---
+>         _res.updateObject(columnIndex, x );

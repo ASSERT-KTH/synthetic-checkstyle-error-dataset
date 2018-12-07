@@ -1,0 +1,4 @@
+118c118
+<         return children().select(AstGroupBy.class).findFirst().orElse(null);
+---
+>         	return children().select(AstGroupBy.class).findFirst().orElse(null);

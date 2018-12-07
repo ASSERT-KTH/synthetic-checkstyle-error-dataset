@@ -1,0 +1,4 @@
+65c65
+<             String valStr = val.format().trim();
+---
+>             String valStr = val.format()	.trim();

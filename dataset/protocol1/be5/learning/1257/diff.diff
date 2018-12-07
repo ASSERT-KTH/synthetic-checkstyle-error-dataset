@@ -1,0 +1,4 @@
+33c33
+<     public abstract void invokeWithResponse(Response res, Object parameters);
+---
+>     public abstract void invokeWithResponse(Response 	res, Object parameters);

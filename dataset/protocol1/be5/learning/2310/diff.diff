@@ -1,0 +1,4 @@
+11c11
+< import javax.inject.Inject;
+---
+> import javax.inject	.Inject;

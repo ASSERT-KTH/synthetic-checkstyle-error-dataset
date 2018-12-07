@@ -1,0 +1,5 @@
+52c52,53
+<             int event = reader.next();
+---
+>             int event 
+> = reader.next();

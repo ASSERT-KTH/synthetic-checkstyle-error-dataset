@@ -1,0 +1,5 @@
+38,39c38
+<     public boolean isRequiresConfirmation()
+<     {
+---
+>     public boolean isRequiresConfirmation()    {

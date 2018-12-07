@@ -1,0 +1,4 @@
+67c67
+<                 select.where(where);
+---
+>                 select	.where(where);

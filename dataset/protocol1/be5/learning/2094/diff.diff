@@ -1,0 +1,4 @@
+5c5
+< public class AstBeListPlaceHolder extends AstBePlaceHolder
+---
+> public class 	AstBeListPlaceHolder extends AstBePlaceHolder

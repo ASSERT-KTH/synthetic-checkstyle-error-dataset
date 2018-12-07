@@ -1,0 +1,4 @@
+11c11
+<         this.childrenDelimiter = "THEN";
+---
+>         this.childrenDelimiter= "THEN";

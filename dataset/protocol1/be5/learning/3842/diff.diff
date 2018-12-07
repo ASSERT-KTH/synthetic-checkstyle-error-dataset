@@ -1,0 +1,5 @@
+37c37,38
+<         this.prefixComma = prefixComma;
+---
+>         
+> this.prefixComma = prefixComma;

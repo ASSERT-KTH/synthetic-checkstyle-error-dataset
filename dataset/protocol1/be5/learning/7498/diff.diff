@@ -1,0 +1,4 @@
+6c6
+<     protected DbmsTransformer dbmsTransformer;
+---
+>     	protected DbmsTransformer dbmsTransformer;

@@ -1,0 +1,5 @@
+21c21,22
+<     private static final String CONFIG_FILE = "config.yaml";
+---
+>     private static final String CONFIG_FILE = "config.yaml"
+> ;

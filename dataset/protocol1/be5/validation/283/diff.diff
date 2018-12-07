@@ -1,0 +1,5 @@
+16c16,17
+<         addChild(child);
+---
+>         addChild
+> (child);

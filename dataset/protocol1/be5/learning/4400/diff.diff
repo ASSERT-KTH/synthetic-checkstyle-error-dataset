@@ -1,0 +1,5 @@
+22c22,23
+<     public DocumentFormPlugin(FormGenerator formGenerator, UserAwareMeta userAwareMeta,
+---
+>     public DocumentFormPlugin
+> (FormGenerator formGenerator, UserAwareMeta userAwareMeta,

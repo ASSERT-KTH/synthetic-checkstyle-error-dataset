@@ -1,0 +1,4 @@
+4c4
+< public interface SessionConstants
+---
+> public interface 	SessionConstants

@@ -1,0 +1,4 @@
+99c99
+<             return error(errorModelHelper.getErrorModel(e, Collections.singletonMap(SELF_LINK, url.toString())));
+---
+>             return error(errorModelHelper.getErrorModel(e, Collections.singletonMap(SELF_LINK, url.toString()))) ;

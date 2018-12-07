@@ -1,0 +1,4 @@
+49c49
+<     protected List<FilterItem> getOperationParamsInfo(Query query, Map<String, Object> parameters)
+---
+>     protected List<FilterItem> getOperationParamsInfo(Query query, 	Map<String, Object> parameters)

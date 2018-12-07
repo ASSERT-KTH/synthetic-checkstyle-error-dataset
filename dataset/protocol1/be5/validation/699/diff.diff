@@ -1,0 +1,4 @@
+11c11
+< public class MoreRowsBuilder extends TableRowsBuilder<List<CellModel>, CellModel>
+---
+> public class MoreRowsBuilder extends TableRowsBuilder< List<CellModel>, CellModel>

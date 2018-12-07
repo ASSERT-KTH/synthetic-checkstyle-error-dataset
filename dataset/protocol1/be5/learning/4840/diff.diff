@@ -1,0 +1,4 @@
+43c43
+<         return content != null ? content.equals(that.content) : that.content == null;
+---
+>         return content != null ? content.equals(that.content) : that.content 	== null;

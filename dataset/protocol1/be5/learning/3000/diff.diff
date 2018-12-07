@@ -1,0 +1,5 @@
+12c12,13
+< public class ExtensionMethodsMetaClass extends DelegatingMetaClass
+---
+> public class ExtensionMethodsMetaClass extends 
+> DelegatingMetaClass

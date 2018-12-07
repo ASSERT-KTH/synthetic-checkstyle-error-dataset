@@ -1,0 +1,4 @@
+29c29
+<     String getLocalizedQueryTitle(String entityName, String queryName);
+---
+>     String getLocalizedQueryTitle(String entityName, String 	queryName);

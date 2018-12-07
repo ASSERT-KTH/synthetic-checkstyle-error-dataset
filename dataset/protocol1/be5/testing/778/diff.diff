@@ -1,0 +1,5 @@
+433c433,434
+<             toReplace.replaceWith(addFunction);
+---
+>             toReplace.replaceWith
+> (addFunction);

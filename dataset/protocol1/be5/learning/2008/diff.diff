@@ -1,0 +1,5 @@
+52c52,53
+<         try (BufferedReader br = new BufferedReader(new InputStreamReader(inputStream, StandardCharsets.UTF_8)))
+---
+>         try 
+> (BufferedReader br = new BufferedReader(new InputStreamReader(inputStream, StandardCharsets.UTF_8)))

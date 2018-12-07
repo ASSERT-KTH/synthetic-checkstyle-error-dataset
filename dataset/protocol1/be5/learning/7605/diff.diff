@@ -1,0 +1,5 @@
+107c107,108
+<             defaultValue = defaultValue.substring(1, defaultValue.length() - 1);
+---
+>             defaultValue = defaultValue.substring(1, 
+> defaultValue.length() - 1);

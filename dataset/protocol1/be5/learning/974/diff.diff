@@ -1,0 +1,4 @@
+85c85
+<     private List<RootNode> collectEntities(boolean withIds, boolean withoutInvisible, EntityType entityType)
+---
+>     private List<RootNode > collectEntities(boolean withIds, boolean withoutInvisible, EntityType entityType)

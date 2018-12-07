@@ -1,0 +1,4 @@
+26c26
+<     public static final int POWER_PRIORITY = 6; // power
+---
+>     public static final int POWER_PRIORITY= 6; // power

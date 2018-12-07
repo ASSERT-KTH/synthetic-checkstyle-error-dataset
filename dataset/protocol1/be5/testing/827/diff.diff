@@ -1,0 +1,4 @@
+48c48
+<         Base64File that = (Base64File) o;
+---
+>         Base64File that = 	(Base64File) o;

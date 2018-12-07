@@ -1,0 +1,4 @@
+60c60
+<         else if ("substr".equals(name))
+---
+>         else if ("substr"	.equals(name))

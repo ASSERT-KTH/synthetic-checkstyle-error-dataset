@@ -1,0 +1,4 @@
+14c14
+<         this.nodeContent = content;
+---
+>         this.nodeContent 	= content;

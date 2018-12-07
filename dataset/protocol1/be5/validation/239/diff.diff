@@ -1,0 +1,4 @@
+86c86
+<     private static final String HTTP_CODE_500 = "500";
+---
+>     private static final String HTTP_CODE_500 	= "500";

@@ -1,0 +1,5 @@
+12c12,13
+<     private final List<String> availableRoles;
+---
+>     private final 
+> List<String> availableRoles;

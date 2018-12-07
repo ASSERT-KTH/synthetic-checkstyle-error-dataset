@@ -1,0 +1,4 @@
+84c84
+<         if (children.size() > 1 && children.get(children.size() - 1) instanceof AstIdentifierConstant)
+---
+>         if (children.size() > 	1 && children.get(children.size() - 1) instanceof AstIdentifierConstant)

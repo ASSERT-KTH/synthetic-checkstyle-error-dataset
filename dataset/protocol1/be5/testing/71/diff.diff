@@ -1,0 +1,5 @@
+199c199,200
+<     public double getDouble(String columnLabel) throws SQLException
+---
+>     
+> public double getDouble(String columnLabel) throws SQLException

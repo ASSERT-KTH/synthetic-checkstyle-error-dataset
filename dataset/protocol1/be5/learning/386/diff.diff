@@ -1,0 +1,5 @@
+139,140c139
+<         for (SimpleNode child : node.children().toList())
+<         {
+---
+>         for (SimpleNode child : node.children().toList())        {

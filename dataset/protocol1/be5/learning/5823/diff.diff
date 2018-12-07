@@ -1,0 +1,4 @@
+12c12
+<     private final Provider<HttpSession> session;
+---
+>     	private final Provider<HttpSession> session;

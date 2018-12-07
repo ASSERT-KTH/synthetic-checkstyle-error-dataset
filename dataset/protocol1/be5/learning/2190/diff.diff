@@ -1,0 +1,4 @@
+204c204
+<         position.replaceWith(CHARINDEX.node(position.child(0), position.child(1)));
+---
+>         	position.replaceWith(CHARINDEX.node(position.child(0), position.child(1)));

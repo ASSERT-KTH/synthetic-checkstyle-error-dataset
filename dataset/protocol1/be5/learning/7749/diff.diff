@@ -1,0 +1,5 @@
+472c472,473
+<                 Matcher matcher = Pattern.compile("\\\\([bfnrt])").matcher(child.getContent());
+---
+>                 Matcher matcher = Pattern.compile("\\\\([bfnrt])").matcher(child.getContent())
+> ;

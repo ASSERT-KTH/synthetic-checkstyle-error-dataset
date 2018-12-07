@@ -1,0 +1,4 @@
+20c20
+<     private static final Pattern existPattern = Pattern.compile("([\\w-]+)");
+---
+>     private static final Pattern 	existPattern = Pattern.compile("([\\w-]+)");

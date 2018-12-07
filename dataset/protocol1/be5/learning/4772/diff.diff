@@ -1,0 +1,4 @@
+32c32
+<     public void setFilter(AstStart ast, Map<ColumnRef, List<Object>> conditions)
+---
+>     public void setFilter(AstStart ast, Map<ColumnRef, List<Object>> conditions )

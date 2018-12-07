@@ -1,0 +1,4 @@
+37c37
+<             addChild(new AstIdentifierConstant(part));
+---
+>             addChild(new 	AstIdentifierConstant(part));

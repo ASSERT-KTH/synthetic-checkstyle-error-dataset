@@ -1,0 +1,4 @@
+41c41
+<     protected UserInfo userInfo;
+---
+>     protected UserInfo 	userInfo;

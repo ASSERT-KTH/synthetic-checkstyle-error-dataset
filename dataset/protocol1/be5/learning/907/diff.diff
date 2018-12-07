@@ -1,0 +1,5 @@
+123,124c123
+<     public DynamicPropertySet leftShift(Map<String, Object> properties)
+<     {
+---
+>     public DynamicPropertySet leftShift(Map<String, Object> properties)    {

@@ -1,0 +1,4 @@
+16c16
+<         public PrintStream2(OutputStream outputStream, boolean autoFlush)
+---
+>         public PrintStream2 (OutputStream outputStream, boolean autoFlush)

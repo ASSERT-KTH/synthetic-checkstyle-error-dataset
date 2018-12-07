@@ -1,0 +1,5 @@
+5c5,6
+< public class AstAllColumnRef extends SimpleNode
+---
+> public class AstAllColumnRef 
+> extends SimpleNode

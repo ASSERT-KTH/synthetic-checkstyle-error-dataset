@@ -1,0 +1,4 @@
+27c27
+<         this.nodeContent = "@@" + placeHolder + "@@";
+---
+>         this.nodeContent ="@@" + placeHolder + "@@";

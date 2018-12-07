@@ -1,0 +1,4 @@
+25c25
+<         SimpleNode replacement = function.getReplacement(node);
+---
+>         SimpleNode replacement = function. getReplacement(node);

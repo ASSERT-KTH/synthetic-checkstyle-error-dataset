@@ -1,0 +1,5 @@
+18c18,19
+<         String name = node.getFunction().getName();
+---
+>         String name = 
+> node.getFunction().getName();

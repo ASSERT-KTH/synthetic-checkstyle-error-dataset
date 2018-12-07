@@ -1,0 +1,5 @@
+81,82c81
+<     protected void formatBody(StringBuilder sb, Set<Token> printedSpecial)
+<     {
+---
+>     protected void formatBody(StringBuilder sb, Set<Token> printedSpecial)    {

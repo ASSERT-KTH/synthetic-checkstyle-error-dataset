@@ -1,0 +1,4 @@
+95c95
+<         cal.set(Calendar.HOUR_OF_DAY, 0);
+---
+>         cal.set(Calendar.HOUR_OF_DAY,0);

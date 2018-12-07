@@ -1,0 +1,4 @@
+49c49
+<             project = loadProject();
+---
+>             project 	= loadProject();

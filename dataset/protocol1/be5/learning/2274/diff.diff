@@ -1,0 +1,4 @@
+58c58
+<                 if (reference.getColumnsTo() == null)
+---
+>                 if (reference.getColumnsTo() == null )

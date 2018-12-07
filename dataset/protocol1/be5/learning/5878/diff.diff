@@ -1,0 +1,5 @@
+65c65,66
+<     default String oneString(String sql, Object... params)
+---
+>     default String oneString(String sql
+> , Object... params)

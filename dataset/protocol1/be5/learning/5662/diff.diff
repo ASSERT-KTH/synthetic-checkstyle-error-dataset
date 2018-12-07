@@ -1,0 +1,4 @@
+10c10
+<     ResourceData addData(Query query, Map<String, Object> parameters);
+---
+>     ResourceData addData(Query query, Map<String, Object> 	parameters);

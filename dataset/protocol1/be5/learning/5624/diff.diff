@@ -1,0 +1,4 @@
+40c40
+<             jaxbMarshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
+---
+>             jaxbMarshaller.setProperty (Marshaller.JAXB_FORMATTED_OUTPUT, true);

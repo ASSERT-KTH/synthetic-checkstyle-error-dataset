@@ -1,0 +1,4 @@
+715c715
+<                 else if (bytes[i] >= 0x61 && bytes[i] <= 0x7A)
+---
+>                 else if (bytes[i] >= 0x61 && bytes[i] 	<= 0x7A)

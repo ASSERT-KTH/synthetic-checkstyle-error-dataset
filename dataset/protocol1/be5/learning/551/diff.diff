@@ -1,0 +1,5 @@
+7c7,8
+<     public AstBooleanExpression(int id)
+---
+>     public AstBooleanExpression
+> (int id)

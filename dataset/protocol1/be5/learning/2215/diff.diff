@@ -1,0 +1,4 @@
+220c220
+<         declareFunction(context, 1, "TO_KEY");
+---
+>         declareFunction(context, 1, "TO_KEY" );

@@ -1,0 +1,4 @@
+106c106
+<             append(sb, "</" + tagName + end());
+---
+>             append(sb , "</" + tagName + end());

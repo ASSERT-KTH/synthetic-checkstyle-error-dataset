@@ -1,0 +1,4 @@
+85c85
+<         bind(ErrorModelHelper.class).in(Scopes.SINGLETON);
+---
+>         bind(ErrorModelHelper.class).in(Scopes	.SINGLETON);

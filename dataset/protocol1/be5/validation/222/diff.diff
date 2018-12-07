@@ -1,0 +1,4 @@
+52c52
+<             if (type instanceof ParameterizedType)
+---
+>             if (type instanceof ParameterizedType )

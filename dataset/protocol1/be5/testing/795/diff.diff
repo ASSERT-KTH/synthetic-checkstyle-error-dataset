@@ -1,0 +1,5 @@
+9c9,10
+<     String CURRENT_USER = "current-user";
+---
+>     String 
+> CURRENT_USER = "current-user";

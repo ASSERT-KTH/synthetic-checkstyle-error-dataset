@@ -1,0 +1,4 @@
+31c31
+<     public String getTagName()
+---
+>     public 	String getTagName()

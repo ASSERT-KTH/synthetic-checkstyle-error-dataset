@@ -1,0 +1,4 @@
+65c65
+<         if (!"CHAR".equals(dataType) && !"VARCHAR".equals(dataType) && !"DECIMAL".equals(dataType) && size != -1)
+---
+>         if (!"CHAR".equals(dataType) && !"VARCHAR".equals(dataType) && !"DECIMAL".equals(dataType) &&size != -1)

@@ -1,0 +1,4 @@
+70c70
+<             message = userAwareMeta.getLocalizedBe5ErrorMessage(e);
+---
+>             message= userAwareMeta.getLocalizedBe5ErrorMessage(e);

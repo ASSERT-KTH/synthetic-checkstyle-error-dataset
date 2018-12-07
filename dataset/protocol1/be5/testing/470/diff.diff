@@ -1,0 +1,5 @@
+65,66c65
+<             else if (valueObj.getClass() == byte[].class)
+<             {
+---
+>             else if (valueObj.getClass() == byte[].class)            {

@@ -1,0 +1,4 @@
+37c37
+<         String url = new HashUrl(STATIC_ACTION, name).toString();
+---
+>         String url =new HashUrl(STATIC_ACTION, name).toString();

@@ -1,0 +1,4 @@
+3c3
+< public class AstBeDbmsWhen extends SimpleNode
+---
+> public 	class AstBeDbmsWhen extends SimpleNode

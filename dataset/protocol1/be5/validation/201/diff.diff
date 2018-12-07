@@ -1,0 +1,5 @@
+37c37,38
+<         this.userHelper = userHelper;
+---
+>         this.userHelper 
+> = userHelper;

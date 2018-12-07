@@ -1,0 +1,5 @@
+348c348,349
+<             else if ("MONTH".equals(dateField) && AstFunNode.isFunction("+").test(parent)
+---
+>             else if ("MONTH".equals(dateField) && AstFunNode.isFunction("+").test
+> (parent)

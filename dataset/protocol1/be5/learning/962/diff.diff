@@ -1,0 +1,4 @@
+85c85
+<         setParameter("type", value);
+---
+>         setParameter("type", value) ;

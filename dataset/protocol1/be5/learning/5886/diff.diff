@@ -1,0 +1,4 @@
+15c15
+<         AstQuery query = ast.getQuery();
+---
+>         AstQuery query = ast. getQuery();

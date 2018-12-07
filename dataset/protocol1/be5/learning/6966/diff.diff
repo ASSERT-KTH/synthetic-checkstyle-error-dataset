@@ -1,0 +1,4 @@
+12c12
+<         this.nodeSuffix = ")";
+---
+>         this. nodeSuffix = ")";

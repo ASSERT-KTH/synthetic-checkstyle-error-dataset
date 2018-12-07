@@ -1,0 +1,4 @@
+44c44
+<         return new AstFrom(new AstTableRef("DUAL"));
+---
+>         return new AstFrom(new AstTableRef("DUAL") );

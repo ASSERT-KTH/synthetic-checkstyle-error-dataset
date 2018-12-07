@@ -1,0 +1,4 @@
+135c135
+<         if (SqlTypeUtils.isNumber(value.getClass())) return AstNumericConstant.of((Number) value);
+---
+>         if (SqlTypeUtils.isNumber(value.getClass())) return AstNumericConstant.of(( Number) value);

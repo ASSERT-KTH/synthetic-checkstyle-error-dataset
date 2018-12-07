@@ -1,0 +1,4 @@
+17c17
+<     public Object getParameters(Map<String, Object> presetValues) throws Exception
+---
+>     public Object getParameters(Map<String, Object>presetValues) throws Exception

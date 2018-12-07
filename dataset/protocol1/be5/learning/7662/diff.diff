@@ -1,0 +1,4 @@
+87c87
+<             try (BufferedReader reader = new BufferedReader(new InputStreamReader(urls.get(0).openStream(), StandardCharsets.UTF_8)))
+---
+>             try (BufferedReader reader = 	new BufferedReader(new InputStreamReader(urls.get(0).openStream(), StandardCharsets.UTF_8)))

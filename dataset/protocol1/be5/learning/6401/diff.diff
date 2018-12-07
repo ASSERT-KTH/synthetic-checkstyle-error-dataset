@@ -1,0 +1,4 @@
+541c541
+<         if (specialPrefix != null && parent != null && parent.specialPrefix == null)
+---
+>         if (specialPrefix != null && parent 	!= null && parent.specialPrefix == null)

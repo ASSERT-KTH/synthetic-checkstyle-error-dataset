@@ -1,0 +1,4 @@
+81c81
+<         bind(UserHelper.class).in(Scopes.SINGLETON);
+---
+>         	bind(UserHelper.class).in(Scopes.SINGLETON);

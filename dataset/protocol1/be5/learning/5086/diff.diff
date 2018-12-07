@@ -1,0 +1,4 @@
+20c20
+<     public Object invokeMethod(Object object, String methodName, Object[] args)
+---
+>     public Object invokeMethod(Object object, String 	methodName, Object[] args)

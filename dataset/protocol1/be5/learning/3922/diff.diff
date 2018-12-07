@@ -1,0 +1,4 @@
+142c142
+<         AstFunNode cond = parserContext.getFunction("<=").node(getDatePart(startDate, dp, format), getDatePart(endDate, dp, format));
+---
+>         AstFunNode cond = parserContext.getFunction("<=").node(getDatePart(startDate, dp, format), 	getDatePart(endDate, dp, format));

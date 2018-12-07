@@ -1,0 +1,4 @@
+34c34
+<     String getLocalizedOperationTitle(Operation operation);
+---
+>     String getLocalizedOperationTitle( Operation operation);

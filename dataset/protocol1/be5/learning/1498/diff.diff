@@ -1,0 +1,4 @@
+92c92
+<             replace(substitution, arg, replacement);
+---
+>             replace( substitution, arg, replacement);

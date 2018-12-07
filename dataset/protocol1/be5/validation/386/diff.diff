@@ -1,0 +1,4 @@
+78c78
+<             List<Object> records = Arrays.asList(op.getContext().getRecords());
+---
+>             List<Object > records = Arrays.asList(op.getContext().getRecords());

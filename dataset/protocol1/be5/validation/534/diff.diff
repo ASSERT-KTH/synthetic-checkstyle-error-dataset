@@ -1,0 +1,4 @@
+48c48
+<     default Class<T> getConfigurationClass()
+---
+>     default Class<T> 	getConfigurationClass()

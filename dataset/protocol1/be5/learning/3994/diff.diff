@@ -1,0 +1,4 @@
+10c10
+<     String TABLE_MORE_ACTION = "table_more";
+---
+>     String TABLE_MORE_ACTION 	= "table_more";

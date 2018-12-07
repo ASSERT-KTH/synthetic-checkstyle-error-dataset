@@ -1,0 +1,5 @@
+35,36c35
+<     public void setIsToken(Token isToken)
+<     {
+---
+>     public void setIsToken(Token isToken)    {

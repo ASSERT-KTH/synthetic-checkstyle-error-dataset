@@ -1,0 +1,4 @@
+14c14
+<     T parse(ResultSetWrapper rs) throws SQLException;
+---
+>     T parse(ResultSetWrapper 	rs) throws SQLException;

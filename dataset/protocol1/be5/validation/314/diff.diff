@@ -1,0 +1,5 @@
+41,42c41
+<     public void registerCache(String name, Cache cache)
+<     {
+---
+>     public void registerCache(String name, Cache cache)    {

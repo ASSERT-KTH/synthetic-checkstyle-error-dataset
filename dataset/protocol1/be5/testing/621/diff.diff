@@ -1,0 +1,4 @@
+31c31
+<     protected ParserContext parserContext;
+---
+>     protected ParserContext parserContext ;

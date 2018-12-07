@@ -1,0 +1,5 @@
+20c20,21
+<     public AstBeSqlVar(String name)
+---
+>     public 
+> AstBeSqlVar(String name)

@@ -1,0 +1,4 @@
+77c77
+<         setResult(OperationResult.finished(message, frontendActions));
+---
+>         	setResult(OperationResult.finished(message, frontendActions));

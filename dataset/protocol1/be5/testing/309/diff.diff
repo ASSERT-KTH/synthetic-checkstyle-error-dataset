@@ -1,0 +1,5 @@
+106c106,107
+<                 return "hasRecords";
+---
+>                 
+> return "hasRecords";

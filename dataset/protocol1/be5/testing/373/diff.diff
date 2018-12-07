@@ -1,0 +1,4 @@
+34c34
+<         return this.children().select(AstBeSqlVar.class).findFirst().orElse(null);
+---
+>         return this.children ().select(AstBeSqlVar.class).findFirst().orElse(null);

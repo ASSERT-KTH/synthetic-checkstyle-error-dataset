@@ -1,0 +1,4 @@
+272c272
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("STRING_AGG", Function.AGGREGATE_FUNCTION_PRIORITY, 1, 2), Dbms.DB2, Dbms.POSTGRESQL, Dbms.ORACLE, Dbms.MYSQL));
+---
+>         context.declareFunction(new DbSpecificFunction(new PredefinedFunction("STRING_AGG", Function.AGGREGATE_FUNCTION_PRIORITY, 1, 2), Dbms.DB2,Dbms.POSTGRESQL, Dbms.ORACLE, Dbms.MYSQL));

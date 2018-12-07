@@ -1,0 +1,5 @@
+229c229,230
+<             if (Boolean.parseBoolean(coreUtils.getSystemSetting("SMTP_DEBUG", "false")))
+---
+>             if (Boolean.parseBoolean(coreUtils.getSystemSetting("SMTP_DEBUG", 
+> "false")))

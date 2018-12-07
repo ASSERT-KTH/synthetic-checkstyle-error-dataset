@@ -1,0 +1,4 @@
+70c70
+<         if (node.child(node.jjtGetNumChildren() - 1) instanceof AstOrderBy)
+---
+>         	if (node.child(node.jjtGetNumChildren() - 1) instanceof AstOrderBy)

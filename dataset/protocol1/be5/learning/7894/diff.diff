@@ -1,0 +1,4 @@
+54c54
+<     String getColumnTitle(String entityName, String queryName, String columnName);
+---
+>     String getColumnTitle(String 	entityName, String queryName, String columnName);

@@ -1,0 +1,4 @@
+17c17
+<                 transformMacroFunction((AstFunNode) child);
+---
+>                 transformMacroFunction((AstFunNode ) child);

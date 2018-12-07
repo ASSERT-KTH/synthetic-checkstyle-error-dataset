@@ -1,0 +1,5 @@
+32c32,33
+<     Be5Exception rethrow(Throwable t, String... parameters)
+---
+>     Be5Exception rethrow(Throwable t, String
+> ... parameters)

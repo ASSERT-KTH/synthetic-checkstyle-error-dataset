@@ -1,0 +1,4 @@
+52c52
+<         return Objects.equals(value, other.value);
+---
+>         return Objects.equals(value, other. value);

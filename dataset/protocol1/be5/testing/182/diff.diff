@@ -1,0 +1,5 @@
+693c693,694
+<     public void refreshRow() throws SQLException
+---
+>     public void refreshRow
+> () throws SQLException

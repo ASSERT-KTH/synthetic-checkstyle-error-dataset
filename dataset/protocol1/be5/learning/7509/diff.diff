@@ -1,0 +1,5 @@
+42c42,43
+<                 .mapKeys(when -> when.parent.child(when.parent.indexOf(when) + 1))
+---
+>                 .mapKeys(when -> when.parent.child
+> (when.parent.indexOf(when) + 1))

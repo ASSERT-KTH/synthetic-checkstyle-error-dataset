@@ -1,0 +1,4 @@
+46c46
+<     private Object logQuery(MethodInvocation invocation, long startTime, Object[] arguments) throws Throwable
+---
+>     private Object logQuery( MethodInvocation invocation, long startTime, Object[] arguments) throws Throwable

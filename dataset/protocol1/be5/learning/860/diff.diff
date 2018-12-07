@@ -1,0 +1,5 @@
+29c29,30
+<         String description = userAwareMeta.getColumnTitle("index", "page", "description");
+---
+>         String description = userAwareMeta.getColumnTitle
+> ("index", "page", "description");

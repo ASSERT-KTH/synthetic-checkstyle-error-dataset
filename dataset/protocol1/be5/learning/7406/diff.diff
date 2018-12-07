@@ -1,0 +1,4 @@
+27c27
+<         return children.size() == 1 && children.get(0) instanceof AstTableRef
+---
+>         return children.size() == 	1 && children.get(0) instanceof AstTableRef

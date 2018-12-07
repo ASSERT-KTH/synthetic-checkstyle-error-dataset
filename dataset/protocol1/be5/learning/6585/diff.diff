@@ -1,0 +1,4 @@
+5c5
+< public class AstComplexPredicate extends SimpleNode implements Squasheable
+---
+> public class AstComplexPredicate 	extends SimpleNode implements Squasheable

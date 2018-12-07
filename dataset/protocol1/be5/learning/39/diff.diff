@@ -1,0 +1,5 @@
+48,49c48
+<     default Long oneLong(String sql, Object... params)
+<     {
+---
+>     default Long oneLong(String sql, Object... params)    {

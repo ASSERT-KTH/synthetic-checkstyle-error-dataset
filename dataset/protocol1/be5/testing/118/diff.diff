@@ -1,0 +1,4 @@
+28c28
+<     public UserInfo(String userName, Collection<String> availableRoles, Collection<String> currentRoles)
+---
+>     public UserInfo(String userName, Collection<String> availableRoles, Collection< String> currentRoles)

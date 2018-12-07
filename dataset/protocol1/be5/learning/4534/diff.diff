@@ -1,0 +1,5 @@
+36,37c36
+<             if (userAwareMeta.hasAccessToOperation(query.getEntity().getName(), query.getName(), topForm))
+<             {
+---
+>             if (userAwareMeta.hasAccessToOperation(query.getEntity().getName(), query.getName(), topForm))            {

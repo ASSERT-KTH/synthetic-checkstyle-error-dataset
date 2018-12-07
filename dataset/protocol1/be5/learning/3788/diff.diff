@@ -1,0 +1,4 @@
+20c20
+<     public StAXStreamProcessor(InputStream is) throws XMLStreamException
+---
+>     public StAXStreamProcessor( InputStream is) throws XMLStreamException

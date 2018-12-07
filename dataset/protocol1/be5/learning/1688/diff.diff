@@ -1,0 +1,4 @@
+64c64
+<         return get().getCurrentRoles();
+---
+>         return get().getCurrentRoles ();

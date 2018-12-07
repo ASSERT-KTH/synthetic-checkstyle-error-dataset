@@ -1,0 +1,5 @@
+5c5,6
+< public class AstBeUnless extends AstBeCondition
+---
+> public 
+> class AstBeUnless extends AstBeCondition

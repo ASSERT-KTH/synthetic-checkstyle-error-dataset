@@ -1,0 +1,4 @@
+103c103
+<         SimpleNode expr = opPlus.node(dateTrunc, opMinus.node(monthInterval, dayInterval));
+---
+>         SimpleNode expr = opPlus.node(dateTrunc, opMinus.node(monthInterval , dayInterval));

@@ -1,0 +1,4 @@
+84c84
+<     private static final String HTTP_CODE_404 = "404";
+---
+>     private static final String HTTP_CODE_404 	= "404";

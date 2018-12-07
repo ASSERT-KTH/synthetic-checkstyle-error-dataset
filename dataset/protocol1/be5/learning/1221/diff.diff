@@ -1,0 +1,4 @@
+23c23
+<         if (children.size() != 1 || !(children.get(0) instanceof AstStringConstant))
+---
+>         if (children.size() 	!= 1 || !(children.get(0) instanceof AstStringConstant))

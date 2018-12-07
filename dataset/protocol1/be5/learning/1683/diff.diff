@@ -1,0 +1,4 @@
+26c26
+<         this.userAwareMeta = userAwareMeta;
+---
+>         this.userAwareMeta= userAwareMeta;

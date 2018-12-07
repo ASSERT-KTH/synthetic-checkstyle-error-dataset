@@ -1,0 +1,4 @@
+6c6
+< import com.developmentontheedge.be5.web.impl.ResponseImpl;
+---
+> import com.developmentontheedge.be5.web	.impl.ResponseImpl;

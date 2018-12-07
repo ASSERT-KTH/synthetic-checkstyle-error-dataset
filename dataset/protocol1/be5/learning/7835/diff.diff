@@ -1,0 +1,4 @@
+8c8
+< public interface ProjectProvider extends Provider<Project>
+---
+> public 	interface ProjectProvider extends Provider<Project>

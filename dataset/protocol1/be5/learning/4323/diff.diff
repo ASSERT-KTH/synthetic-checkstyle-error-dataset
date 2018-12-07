@@ -1,0 +1,4 @@
+14c14
+<             case DB2:
+---
+>             case 	DB2:

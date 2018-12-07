@@ -1,0 +1,5 @@
+31c31,32
+<     public static java.util.Date convert(Object val)
+---
+>     public static java.util.Date convert(Object 
+> val)

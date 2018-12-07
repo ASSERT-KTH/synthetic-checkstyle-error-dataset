@@ -1,0 +1,4 @@
+10c10
+<             char c = s.charAt(i);
+---
+>             char c = s.charAt( i);

@@ -1,0 +1,5 @@
+92c92,93
+<     public void setDistinct(boolean distinct)
+---
+>     public void setDistinct(boolean 
+> distinct)

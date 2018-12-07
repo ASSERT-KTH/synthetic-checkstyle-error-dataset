@@ -1,0 +1,4 @@
+26c26
+<     default RuntimeException returnRuntimeExceptionOrWrap(Throwable e)
+---
+>     default RuntimeException returnRuntimeExceptionOrWrap (Throwable e)

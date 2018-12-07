@@ -1,0 +1,5 @@
+148c148,149
+<     private int updateUnsafe(Connection conn, String sql, Object... params) throws SQLException
+---
+>     private int updateUnsafe
+> (Connection conn, String sql, Object... params) throws SQLException

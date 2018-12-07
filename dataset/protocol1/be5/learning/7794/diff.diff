@@ -1,0 +1,4 @@
+185c185
+<     private static void declareFunction(ParserContext context, int numParams, String name, String... otherNames)
+---
+>     private static void declareFunction(ParserContext context, int numParams , String name, String... otherNames)

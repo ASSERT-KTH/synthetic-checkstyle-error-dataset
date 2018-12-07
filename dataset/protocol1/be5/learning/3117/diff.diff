@@ -1,0 +1,4 @@
+16c16
+<         addChild(new AstIdentifierConstant(schema));
+---
+>         addChild(new AstIdentifierConstant(schema) );

@@ -1,0 +1,5 @@
+89c89,90
+<         return qs + value + qs;
+---
+>         return qs + 
+> value + qs;

@@ -1,0 +1,5 @@
+161c161,162
+<             Query permittedQuery = query.query;
+---
+>             
+> Query permittedQuery = query.query;

@@ -1,0 +1,4 @@
+39c39
+<     private String exceptionAsString(Throwable e)
+---
+>     private String exceptionAsString(Throwable 	e)

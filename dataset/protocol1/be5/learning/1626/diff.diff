@@ -1,0 +1,4 @@
+5c5
+< public class AstFrameClause extends SimpleNode
+---
+> public class 	AstFrameClause extends SimpleNode

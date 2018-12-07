@@ -1,0 +1,5 @@
+40c40,41
+<         int result = type != null ? type.hashCode() : 0;
+---
+>         int result = type != null ? 
+> type.hashCode() : 0;

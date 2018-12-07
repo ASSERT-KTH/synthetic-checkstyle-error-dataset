@@ -1,0 +1,4 @@
+18c18
+<     void queryError(Query query, Map<String, Object> parameters, long startTime, long endTime, String exception);
+---
+>     void queryError(Query query, Map<String, Object> parameters, long startTime, long endTime , String exception);

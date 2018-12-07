@@ -1,0 +1,5 @@
+11c11,12
+<     private final int columnIndex;
+---
+>     private final 
+> int columnIndex;

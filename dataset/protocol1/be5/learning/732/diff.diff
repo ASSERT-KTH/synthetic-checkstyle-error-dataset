@@ -1,0 +1,4 @@
+41c41
+<         TITLES.put(INTERNAL_ERROR, "Internal error occurred: $1");
+---
+>         TITLES. put(INTERNAL_ERROR, "Internal error occurred: $1");

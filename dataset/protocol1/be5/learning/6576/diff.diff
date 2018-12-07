@@ -1,0 +1,4 @@
+65c65
+<                 .remove(node -> node.jjtGetParent() instanceof AstBeNode)
+---
+>                 	.remove(node -> node.jjtGetParent() instanceof AstBeNode)

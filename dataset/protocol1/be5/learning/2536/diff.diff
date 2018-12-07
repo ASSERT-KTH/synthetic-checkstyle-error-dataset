@@ -1,0 +1,4 @@
+44c44
+<     private static final PredefinedFunction CHAR = new PredefinedFunction("CHAR", PredefinedFunction.FUNCTION_PRIORITY, 1);
+---
+>     private static final PredefinedFunction CHAR = new PredefinedFunction("CHAR", PredefinedFunction.FUNCTION_PRIORITY,1);

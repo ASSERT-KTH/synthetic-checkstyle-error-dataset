@@ -1,0 +1,4 @@
+5c5
+< public class AstUpdateSetItem extends SimpleNode
+---
+> 	public class AstUpdateSetItem extends SimpleNode

@@ -1,0 +1,4 @@
+23c23
+<     private List<Runnable> callOnReload = new ArrayList<>();
+---
+>     private 	List<Runnable> callOnReload = new ArrayList<>();

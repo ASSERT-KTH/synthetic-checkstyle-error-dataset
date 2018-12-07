@@ -1,0 +1,4 @@
+917c917
+<         _res.updateNString(columnIndex, nString);
+---
+>         _res.updateNString(columnIndex, nString );

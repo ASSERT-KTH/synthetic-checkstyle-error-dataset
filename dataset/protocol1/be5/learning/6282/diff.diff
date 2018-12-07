@@ -1,0 +1,5 @@
+13c13,14
+<         query.tree().select(AstUnion.class).forEach(node -> node.setQuantifier(SetQuantifier.DISTINCT));
+---
+>         query.tree().select(AstUnion.class).forEach(node -> node.setQuantifier(SetQuantifier.DISTINCT))
+> ;

@@ -1,0 +1,4 @@
+110c110
+<                 child.jjtGetParent().replaceWith(new AstIdentifierConstant("TRUE"));
+---
+>                 child.jjtGetParent().replaceWith(new AstIdentifierConstant("TRUE" ));

@@ -1,0 +1,5 @@
+171c171,172
+<             node.replaceWith(opConcat.node(date, opConcat.node(year, month)));
+---
+>             node.replaceWith(opConcat.node(date, opConcat.node(year, month)))
+> ;

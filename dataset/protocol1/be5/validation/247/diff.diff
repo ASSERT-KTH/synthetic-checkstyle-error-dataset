@@ -1,0 +1,4 @@
+68c68
+<             query = entityQueries.get(ALLOWED_RECORDS_VIEW);
+---
+>             query= entityQueries.get(ALLOWED_RECORDS_VIEW);

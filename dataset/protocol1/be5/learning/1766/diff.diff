@@ -1,0 +1,4 @@
+532c532
+<             return subst(number, ",", "");
+---
+>             return subst( number, ",", "");

@@ -1,0 +1,4 @@
+57c57
+<                 result.append(inputLine);
+---
+>                 result.append(inputLine );

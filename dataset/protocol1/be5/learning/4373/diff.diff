@@ -1,0 +1,5 @@
+71c71,72
+<                     ResourceData generateData = formGenerator.generate(entityName, queryName, operationName, operationParams, values);
+---
+>                     ResourceData generateData = formGenerator.generate(entityName
+> , queryName, operationName, operationParams, values);

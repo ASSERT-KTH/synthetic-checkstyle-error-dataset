@@ -1,0 +1,4 @@
+30c30
+<     private ScalarLongParser(final int columnIndex, final String columnName)
+---
+>     private ScalarLongParser(final int columnIndex, final String 	columnName)

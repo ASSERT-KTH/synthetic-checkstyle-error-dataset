@@ -1,0 +1,4 @@
+92c92
+<         bind(FormGenerator.class).to(FormGeneratorImpl.class).in(Scopes.SINGLETON);
+---
+>         bind(FormGenerator	.class).to(FormGeneratorImpl.class).in(Scopes.SINGLETON);

@@ -1,0 +1,4 @@
+73c73
+<             else if (valueObj.getClass() == double[].class)
+---
+>             else if (valueObj.getClass() 	== double[].class)

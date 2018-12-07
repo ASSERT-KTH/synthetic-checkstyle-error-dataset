@@ -1,0 +1,5 @@
+21c21,22
+<         for (RowModel rowModel : getTableModel().getRows())
+---
+>         
+> for (RowModel rowModel : getTableModel().getRows())

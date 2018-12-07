@@ -1,0 +1,4 @@
+17c17
+< import com.developmentontheedge.beans.DynamicPropertySetSupport;
+---
+> import com.developmentontheedge.beans	.DynamicPropertySetSupport;

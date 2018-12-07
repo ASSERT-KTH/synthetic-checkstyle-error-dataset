@@ -1,0 +1,4 @@
+224c224
+<         declareFunction(context, 1, 2, "TRUNC", "TRUNCATE");
+---
+>         	declareFunction(context, 1, 2, "TRUNC", "TRUNCATE");

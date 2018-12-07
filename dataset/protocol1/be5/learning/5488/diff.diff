@@ -1,0 +1,5 @@
+287,288c287
+<     public static Date curWeekFriday(Date date)
+<     {
+---
+>     public static Date curWeekFriday(Date date)    {

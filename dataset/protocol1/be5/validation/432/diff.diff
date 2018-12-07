@@ -1,0 +1,5 @@
+5c5,6
+< public class AstBooleanNot extends AstFunNode
+---
+> public class AstBooleanNot 
+> extends AstFunNode

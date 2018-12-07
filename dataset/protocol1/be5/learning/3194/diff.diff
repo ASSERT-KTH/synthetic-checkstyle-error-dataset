@@ -1,0 +1,5 @@
+19c19,20
+<             return ((T) object).getValue(property.substring(1));
+---
+>             
+> return ((T) object).getValue(property.substring(1));

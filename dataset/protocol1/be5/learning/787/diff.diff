@@ -1,0 +1,4 @@
+6c6
+< import com.developmentontheedge.sql.model.AstQuery;
+---
+> import 	com.developmentontheedge.sql.model.AstQuery;

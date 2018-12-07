@@ -1,0 +1,4 @@
+223c223
+<         declareFunction(context, 1, 2, "ROUND");
+---
+>         declareFunction(context, 1,2, "ROUND");

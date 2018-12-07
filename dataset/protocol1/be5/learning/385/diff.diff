@@ -1,0 +1,5 @@
+81c81,82
+<     public AstStart clone()
+---
+>     
+> public AstStart clone()

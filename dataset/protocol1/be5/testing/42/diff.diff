@@ -1,0 +1,4 @@
+166c166
+<         for (QuerySettings settings : query.getQuerySettings())
+---
+>         for(QuerySettings settings : query.getQuerySettings())

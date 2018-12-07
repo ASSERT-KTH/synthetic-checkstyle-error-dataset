@@ -1,0 +1,4 @@
+62c62
+<             res.sendAsJson(e.getMessage(), HttpServletResponse.SC_INTERNAL_SERVER_ERROR);
+---
+>             res.sendAsJson (e.getMessage(), HttpServletResponse.SC_INTERNAL_SERVER_ERROR);

@@ -1,0 +1,5 @@
+155c155,156
+<     private void expandDbFunction(AstFunNode node, Dbms dbms)
+---
+>     private void 
+> expandDbFunction(AstFunNode node, Dbms dbms)

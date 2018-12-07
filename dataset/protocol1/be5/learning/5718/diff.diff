@@ -1,0 +1,4 @@
+23c23
+<             List<CellT> cells = new ArrayList<>();
+---
+>             List<CellT > cells = new ArrayList<>();

@@ -1,0 +1,4 @@
+14c14
+<     public static final MonthlyDate MAX_VALUE = new MonthlyDate(2099, 12);
+---
+>     public static final MonthlyDate MAX_VALUE = new MonthlyDate(2099,12);

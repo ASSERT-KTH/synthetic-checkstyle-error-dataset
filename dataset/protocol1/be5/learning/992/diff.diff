@@ -1,0 +1,4 @@
+103c103
+<                         "\nUsing connection:   " + DatabaseUtils.formatUrl(connectionUrl, userName, "xxxxx")
+---
+>                         "\nUsing connection:   " + DatabaseUtils. formatUrl(connectionUrl, userName, "xxxxx")

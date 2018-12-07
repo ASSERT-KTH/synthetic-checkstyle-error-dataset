@@ -1,0 +1,4 @@
+90c90
+<         else if (fun.getFunction().getName().equals("AND"))
+---
+>         else if ( fun.getFunction().getName().equals("AND"))

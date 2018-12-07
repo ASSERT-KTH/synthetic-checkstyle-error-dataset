@@ -1,0 +1,4 @@
+18c18
+<         try (InputStream resourceAsStream = LogConfigurator.class.getResourceAsStream(path))
+---
+>         try (InputStream resourceAsStream =LogConfigurator.class.getResourceAsStream(path))

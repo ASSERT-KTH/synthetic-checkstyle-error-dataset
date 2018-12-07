@@ -1,0 +1,4 @@
+96c96
+<             HashUrl url = new HashUrl(FORM_ACTION, entityName, queryName, operationName)
+---
+>             HashUrl url = new HashUrl(FORM_ACTION, entityName, queryName, operationName )

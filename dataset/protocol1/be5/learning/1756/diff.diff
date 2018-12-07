@@ -1,0 +1,4 @@
+30c30
+<         return entityName + "/" + queryName;
+---
+>         return entityName + "/"+ queryName;

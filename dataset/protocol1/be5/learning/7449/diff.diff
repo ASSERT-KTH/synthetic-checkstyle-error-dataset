@@ -1,0 +1,4 @@
+149c149
+<             error("Unknown operator '" + name + "'");
+---
+>             error("Unknown operator '" + name 	+ "'");

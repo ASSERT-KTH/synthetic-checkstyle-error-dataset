@@ -1,0 +1,4 @@
+19c19
+<                 "java.lang.Short".equals(className) ||
+---
+>                 "java.lang.Short"	.equals(className) ||

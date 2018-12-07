@@ -1,0 +1,4 @@
+6c6
+< public class AstJoin extends SimpleNode
+---
+> public 	class AstJoin extends SimpleNode

@@ -1,0 +1,4 @@
+49c49
+<         return tree().select(AstTableRef.class).findFirst(ref -> tableName.equalsIgnoreCase(ref.getTable()));
+---
+>         return tree().select (AstTableRef.class).findFirst(ref -> tableName.equalsIgnoreCase(ref.getTable()));

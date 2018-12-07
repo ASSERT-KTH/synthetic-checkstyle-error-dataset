@@ -1,0 +1,4 @@
+33c33
+<     public ErrorModel(String status, String title, String code, String detail, Map<String, String> links)
+---
+>     public ErrorModel(String status, String title, 	String code, String detail, Map<String, String> links)

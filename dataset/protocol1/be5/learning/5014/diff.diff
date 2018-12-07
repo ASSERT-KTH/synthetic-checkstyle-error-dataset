@@ -1,0 +1,5 @@
+48c48,49
+<         return out.toString();
+---
+>         return out.toString
+> ();

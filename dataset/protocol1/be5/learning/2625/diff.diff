@@ -1,0 +1,4 @@
+23c23
+<     public void setDirectionToken(Token dir)
+---
+>     	public void setDirectionToken(Token dir)

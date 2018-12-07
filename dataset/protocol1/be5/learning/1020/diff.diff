@@ -1,0 +1,4 @@
+447c447
+<                     parent.children.add(i + 1, node);
+---
+>                     parent	.children.add(i + 1, node);

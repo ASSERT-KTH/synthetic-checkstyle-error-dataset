@@ -1,0 +1,4 @@
+6c6
+<     public AstWithinGroup(int id)
+---
+>     	public AstWithinGroup(int id)

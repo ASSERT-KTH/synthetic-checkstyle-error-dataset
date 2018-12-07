@@ -1,0 +1,5 @@
+22c22,23
+<     public AstDelete where(Map<String, ?> conditions)
+---
+>     public 
+> AstDelete where(Map<String, ?> conditions)

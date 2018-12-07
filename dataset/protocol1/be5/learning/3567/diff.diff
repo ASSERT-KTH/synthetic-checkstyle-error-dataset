@@ -1,0 +1,4 @@
+26c26
+<         return jjtGetNumChildren() == 0;
+---
+>         return jjtGetNumChildren () == 0;

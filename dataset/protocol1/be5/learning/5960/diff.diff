@@ -1,0 +1,5 @@
+47c47,48
+<             throw new IllegalStateException("Function/operator '" + this.getName() + "' is unsupported for " + dbms);
+---
+>             throw new 
+> IllegalStateException("Function/operator '" + this.getName() + "' is unsupported for " + dbms);

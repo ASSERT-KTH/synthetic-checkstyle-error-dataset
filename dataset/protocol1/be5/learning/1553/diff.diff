@@ -1,0 +1,5 @@
+7c7,8
+<     public AstBooleanTerm(SimpleNode a, SimpleNode b)
+---
+>     public AstBooleanTerm(SimpleNode a, 
+> SimpleNode b)

@@ -1,0 +1,5 @@
+157,158c157
+<     protected void setOperator(AstFunNode node, Token op)
+<     {
+---
+>     protected void setOperator(AstFunNode node, Token op)    {

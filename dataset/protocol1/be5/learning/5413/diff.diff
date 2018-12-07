@@ -1,0 +1,5 @@
+18c18,19
+<     void declareFunction(Function function, String... otherNames);
+---
+>     void declareFunction(Function function, String... otherNames)
+> ;

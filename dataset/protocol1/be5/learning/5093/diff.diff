@@ -1,0 +1,4 @@
+97c97
+<                 checkArgument(m.groupCount() >= 1);
+---
+>                 checkArgument (m.groupCount() >= 1);

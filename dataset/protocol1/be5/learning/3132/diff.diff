@@ -1,0 +1,4 @@
+81c81
+<         return children().select(AstWhere.class).findFirst().orElse(null);
+---
+>         return children().select(AstWhere.class).findFirst().orElse( null);

@@ -1,0 +1,4 @@
+104c104
+<     public boolean hasAccess(RoleSet roles, List<String> availableRoles)
+---
+>     public 	boolean hasAccess(RoleSet roles, List<String> availableRoles)

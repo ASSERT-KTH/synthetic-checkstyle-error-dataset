@@ -1,0 +1,4 @@
+34c34
+<                 res.sendAsJson(jsonApiModel, status);
+---
+>                 res. sendAsJson(jsonApiModel, status);

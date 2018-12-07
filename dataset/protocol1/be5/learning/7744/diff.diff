@@ -1,0 +1,4 @@
+27c27
+<         return result.toString(charset.name());
+---
+>         return result.toString(charset. name());

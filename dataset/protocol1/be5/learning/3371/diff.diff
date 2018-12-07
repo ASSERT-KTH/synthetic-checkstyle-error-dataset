@@ -1,0 +1,4 @@
+24c24
+<         this(SqlParserTreeConstants.JJTCOLUMNLIST);
+---
+>         this(SqlParserTreeConstants	.JJTCOLUMNLIST);

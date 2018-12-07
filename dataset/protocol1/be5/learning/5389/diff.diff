@@ -1,0 +1,5 @@
+187c187,188
+<     public <T> T transactionWithResult(SqlExecutor<T> executor)
+---
+>     public 
+> <T> T transactionWithResult(SqlExecutor<T> executor)

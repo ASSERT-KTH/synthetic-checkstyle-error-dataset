@@ -1,0 +1,5 @@
+65c65,66
+<                     return (Class<T>) parametrized.getActualTypeArguments()[0];
+---
+>                     return (Class<T>) parametrized.getActualTypeArguments
+> ()[0];

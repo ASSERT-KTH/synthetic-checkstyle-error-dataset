@@ -1,0 +1,4 @@
+70c70
+<                     else if (query.getQuery().startsWith("q?"))
+---
+>                     else if (query.getQuery(). startsWith("q?"))

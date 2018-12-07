@@ -1,0 +1,4 @@
+545c545
+<         _res.updateCharacterStream(columnIndex, x, length);
+---
+>         _res.updateCharacterStream(columnIndex, 	x, length);

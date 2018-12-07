@@ -1,0 +1,4 @@
+8c8
+< public class AstBeDbmsTransform extends SimpleNode
+---
+> 	public class AstBeDbmsTransform extends SimpleNode

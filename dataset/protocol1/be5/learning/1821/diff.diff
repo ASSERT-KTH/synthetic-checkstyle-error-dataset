@@ -1,0 +1,4 @@
+37c37
+<     String format(String sql);
+---
+>     String format(String sql );

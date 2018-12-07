@@ -1,0 +1,4 @@
+21c21
+<                 "java.lang.Float".equals(className);
+---
+>                 "java.lang.Float".equals(className );

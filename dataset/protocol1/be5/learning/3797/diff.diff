@@ -1,0 +1,4 @@
+41c41
+<         String operationName = req.getNonEmpty(RestApiConstants.OPERATION);
+---
+>         String operationName 	= req.getNonEmpty(RestApiConstants.OPERATION);

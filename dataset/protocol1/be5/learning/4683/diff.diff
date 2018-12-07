@@ -1,0 +1,4 @@
+34c34
+<         log.info("Log root level: " + parentLevel);
+---
+>         log.info("Log root level: " + 	parentLevel);

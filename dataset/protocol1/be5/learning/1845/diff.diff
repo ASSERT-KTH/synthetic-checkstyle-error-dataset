@@ -1,0 +1,5 @@
+22c22,23
+<         return filterHelper.processFilterParams(dps, presetValues, context.getOperationParams());
+---
+>         return filterHelper.processFilterParams(dps, presetValues, 
+> context.getOperationParams());

@@ -1,0 +1,5 @@
+20c20,21
+< public abstract class RequestPreprocessorSupport implements RequestPreprocessor, Filter
+---
+> public abstract 
+> class RequestPreprocessorSupport implements RequestPreprocessor, Filter

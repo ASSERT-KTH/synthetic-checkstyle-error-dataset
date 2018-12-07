@@ -1,0 +1,4 @@
+97c97
+<         return getColumn(entity, column) == null;
+---
+>         return getColumn( entity, column) == null;

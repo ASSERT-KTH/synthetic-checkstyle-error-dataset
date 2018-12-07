@@ -1,0 +1,5 @@
+89c89,90
+<     private void addWhere(AstWhere where, Map<ColumnRef, List<Object>> conditions)
+---
+>     private void addWhere
+> (AstWhere where, Map<ColumnRef, List<Object>> conditions)

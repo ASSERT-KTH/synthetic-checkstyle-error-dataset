@@ -1,0 +1,4 @@
+50c50
+<             map.put("name", propertyName);
+---
+>             map.put("name" , propertyName);

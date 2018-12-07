@@ -1,0 +1,4 @@
+83c83
+<     static Object removeFromMap(Map map, Object element)
+---
+>     static Object removeFromMap(Map map, 	Object element)

@@ -1,0 +1,4 @@
+47c47
+<         for (DynamicProperty property : dps)
+---
+>         for 	(DynamicProperty property : dps)

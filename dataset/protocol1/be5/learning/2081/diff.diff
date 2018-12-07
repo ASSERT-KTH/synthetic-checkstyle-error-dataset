@@ -1,0 +1,4 @@
+30c30
+<                 dbmsTransformer = new H2SqlTransformer();
+---
+>                 dbmsTransformer = new 	H2SqlTransformer();

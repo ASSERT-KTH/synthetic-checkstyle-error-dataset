@@ -1,0 +1,4 @@
+78c78
+<         map.put("LABEL_FIELD", value);
+---
+>         map.put("LABEL_FIELD", value );

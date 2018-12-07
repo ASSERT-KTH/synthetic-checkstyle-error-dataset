@@ -1,0 +1,4 @@
+8c8
+< import com.developmentontheedge.be5.base.services.ProjectProvider;
+---
+> 	import com.developmentontheedge.be5.base.services.ProjectProvider;

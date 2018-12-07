@@ -1,0 +1,5 @@
+24c24,25
+<         countNode.setAsToken(true);
+---
+>         countNode.setAsToken(true)
+> ;

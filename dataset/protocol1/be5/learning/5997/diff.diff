@@ -1,0 +1,4 @@
+49c49
+<         return new JsonApiModel(null, new ErrorModel[]{error}, meta, null);
+---
+>         return new JsonApiModel(null,new ErrorModel[]{error}, meta, null);

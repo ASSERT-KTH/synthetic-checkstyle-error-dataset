@@ -1,0 +1,4 @@
+34c34
+<         StringWriter out = new StringWriter();
+---
+>         	StringWriter out = new StringWriter();

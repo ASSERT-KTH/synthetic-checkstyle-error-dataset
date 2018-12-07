@@ -1,0 +1,5 @@
+11c11,12
+<     public QueryLink(String entityName, String queryName)
+---
+>     public QueryLink(String 
+> entityName, String queryName)

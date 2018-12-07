@@ -1,0 +1,4 @@
+53c53
+<             log.log(Level.SEVERE, "error on send email to " + to + ", subject" + subject, e);
+---
+>             log.log(Level	.SEVERE, "error on send email to " + to + ", subject" + subject, e);

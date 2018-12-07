@@ -1,0 +1,4 @@
+50c50
+<             if (searchPresets.contains(property.getName())) property.setReadOnly(true);
+---
+>             if(searchPresets.contains(property.getName())) property.setReadOnly(true);

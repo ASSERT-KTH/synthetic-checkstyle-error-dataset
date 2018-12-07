@@ -1,0 +1,4 @@
+97c97
+<         int result = status != null ? status.hashCode() : 0;
+---
+>         int result = status 	!= null ? status.hashCode() : 0;

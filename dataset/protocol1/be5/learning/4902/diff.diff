@@ -1,0 +1,5 @@
+131c131,132
+<     private static final Pattern BeSqlVar_PATTERN = Pattern.compile("<var:(.*)[ /]");
+---
+>     
+> private static final Pattern BeSqlVar_PATTERN = Pattern.compile("<var:(.*)[ /]");

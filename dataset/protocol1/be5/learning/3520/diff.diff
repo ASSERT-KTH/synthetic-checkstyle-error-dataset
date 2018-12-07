@@ -1,0 +1,4 @@
+115c115
+<             throw new RuntimeException("ClassNotFoundException by path='" + path + "' in " + CONFIG_FILE, e);
+---
+>             throw new RuntimeException ("ClassNotFoundException by path='" + path + "' in " + CONFIG_FILE, e);

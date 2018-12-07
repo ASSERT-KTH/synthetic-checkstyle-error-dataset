@@ -1,0 +1,4 @@
+28c28
+<     public StaticPageController(ErrorModelHelper errorModelHelper, UserAwareMeta userAwareMeta)
+---
+>     public StaticPageController (ErrorModelHelper errorModelHelper, UserAwareMeta userAwareMeta)

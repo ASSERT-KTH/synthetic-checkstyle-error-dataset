@@ -1,0 +1,4 @@
+52c52
+<     public JsonApiModel generateJson(Request req, Response res, String requestSubUrl)
+---
+>     public JsonApiModel generateJson(Request req, Response 	res, String requestSubUrl)

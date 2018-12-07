@@ -1,0 +1,4 @@
+44c44
+<         return Stream.of(prefixes).anyMatch(prefix -> str.startsWith(prefix));
+---
+>         return Stream.of( prefixes).anyMatch(prefix -> str.startsWith(prefix));

@@ -1,0 +1,4 @@
+12c12
+< import static com.developmentontheedge.be5.base.model.groovy.DynamicPropertyUtils.processValue;
+---
+> import static com	.developmentontheedge.be5.base.model.groovy.DynamicPropertyUtils.processValue;

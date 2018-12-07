@@ -1,0 +1,4 @@
+10c10
+<         this.nodePrefix = "<sql auto=\"true\" />";
+---
+>         this.nodePrefix 	= "<sql auto=\"true\" />";

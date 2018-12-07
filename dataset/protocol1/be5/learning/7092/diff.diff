@@ -1,0 +1,4 @@
+49c49
+<         int result = title != null ? title.hashCode() : 0;
+---
+>         int result = title != null ?title.hashCode() : 0;

@@ -1,0 +1,4 @@
+53c53
+<             queryCompleted(query, parameters, startTime, System.currentTimeMillis());
+---
+>             queryCompleted(query, parameters , startTime, System.currentTimeMillis());

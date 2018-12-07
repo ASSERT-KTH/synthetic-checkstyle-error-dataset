@@ -1,0 +1,4 @@
+37c37
+<     public String getContent()
+---
+>     public String 	getContent()

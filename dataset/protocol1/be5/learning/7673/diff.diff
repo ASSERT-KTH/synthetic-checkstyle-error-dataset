@@ -1,0 +1,5 @@
+50c50,51
+<     public String getMultiple()
+---
+>     public String 
+> getMultiple()

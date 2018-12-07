@@ -1,0 +1,5 @@
+87c87,88
+<         if (status != null ? !status.equals(that.status) : that.status != null) return false;
+---
+>         if (status != null ? !status.equals(that.status) : that.status != null) return false
+> ;

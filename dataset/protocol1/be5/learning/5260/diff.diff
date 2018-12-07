@@ -1,0 +1,4 @@
+16c16
+<     public PredefinedFunction(String name, int priority, int minNumberOfParams, int maxNumberOfParams)
+---
+>     public PredefinedFunction(String name, int priority, int 	minNumberOfParams, int maxNumberOfParams)

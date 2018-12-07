@@ -1,0 +1,4 @@
+102c102
+<                 "ConfigInfo: " + configInfo +
+---
+>                 "ConfigInfo: "+ configInfo +

@@ -1,0 +1,5 @@
+33c33,34
+<         Response res = new ResponseImpl(response);
+---
+>         Response 
+> res = new ResponseImpl(response);

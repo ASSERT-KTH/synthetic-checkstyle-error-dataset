@@ -1,0 +1,4 @@
+425c425
+<             if (!AstFunNode.isFunction("+").test(add))
+---
+>             if (!AstFunNode.isFunction("+" ).test(add))

@@ -1,0 +1,4 @@
+46c46
+<     private static final PredefinedFunction RTRIM = new PredefinedFunction("RTRIM", PredefinedFunction.FUNCTION_PRIORITY, 1);
+---
+>     private static final PredefinedFunction RTRIM = new 	PredefinedFunction("RTRIM", PredefinedFunction.FUNCTION_PRIORITY, 1);

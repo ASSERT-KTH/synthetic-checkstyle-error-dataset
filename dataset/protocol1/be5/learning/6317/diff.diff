@@ -1,0 +1,5 @@
+133c133,134
+<         public String getValue()
+---
+>         public 
+> String getValue()

@@ -1,0 +1,5 @@
+10,11c10
+< import com.developmentontheedge.be5.query.QueryModule;
+< import com.developmentontheedge.be5.query.QuerySession;
+---
+> import com.developmentontheedge.be5.query.QueryModule;import com.developmentontheedge.be5.query.QuerySession;

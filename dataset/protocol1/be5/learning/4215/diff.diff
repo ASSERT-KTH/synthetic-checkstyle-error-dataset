@@ -1,0 +1,4 @@
+41c41
+<     private static final PredefinedFunction EDIT_DISTANCE = new PredefinedFunction("UTL_MATCH.EDIT_DISTANCE", PredefinedFunction.FUNCTION_PRIORITY, 2);
+---
+>     private static final PredefinedFunction EDIT_DISTANCE = new PredefinedFunction("UTL_MATCH.EDIT_DISTANCE", PredefinedFunction.FUNCTION_PRIORITY, 	2);

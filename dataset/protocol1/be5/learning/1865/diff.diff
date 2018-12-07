@@ -1,0 +1,4 @@
+124c124
+<         PredefinedFunction opTimes = DefaultParserContext.FUNC_TIMES;
+---
+>         PredefinedFunction opTimes =DefaultParserContext.FUNC_TIMES;

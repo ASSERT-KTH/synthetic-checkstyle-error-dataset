@@ -1,0 +1,4 @@
+73c73
+<                 log.warning("Not found attribute: " + attribute.getKey() + " in BeanInfoConstants");
+---
+>                 log.warning("Not found attribute: " + attribute. getKey() + " in BeanInfoConstants");

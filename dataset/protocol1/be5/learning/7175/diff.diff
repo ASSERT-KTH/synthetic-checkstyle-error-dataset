@@ -1,0 +1,4 @@
+35c35
+<             Configurable<Object> configurable = (Configurable<Object>) object;
+---
+>             Configurable<Object> configurable = (Configurable<Object>) object ;

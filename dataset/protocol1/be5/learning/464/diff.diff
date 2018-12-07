@@ -1,0 +1,4 @@
+85c85
+<         ErrorModel that = (ErrorModel) o;
+---
+>         ErrorModel that = (ErrorModel)o;

@@ -1,0 +1,4 @@
+22c22
+<                 log.info("File not found: " + path + ", log not configured.");
+---
+>                 log. info("File not found: " + path + ", log not configured.");

@@ -1,0 +1,5 @@
+84c84,85
+<     public AstSelect where(String key, Object value)
+---
+>     public 
+> AstSelect where(String key, Object value)

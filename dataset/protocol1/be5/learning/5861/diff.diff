@@ -1,0 +1,5 @@
+9c9,10
+<     public void expandMacros(SimpleNode node)
+---
+>     public void expandMacros
+> (SimpleNode node)

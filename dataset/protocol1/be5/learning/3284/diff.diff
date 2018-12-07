@@ -1,0 +1,4 @@
+24c24
+<     private static final EnumMap<Be5ErrorCode, String> TITLES = new EnumMap<>(Be5ErrorCode.class);
+---
+>     private static final 	EnumMap<Be5ErrorCode, String> TITLES = new EnumMap<>(Be5ErrorCode.class);

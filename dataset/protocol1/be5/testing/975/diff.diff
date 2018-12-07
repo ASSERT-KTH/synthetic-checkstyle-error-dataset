@@ -1,0 +1,5 @@
+14c14,15
+<         astWhere.addChild(AstInPredicate.withReplacementParameter(columnName, count));
+---
+>         astWhere.addChild(AstInPredicate.withReplacementParameter
+> (columnName, count));

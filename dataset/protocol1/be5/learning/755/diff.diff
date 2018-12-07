@@ -1,0 +1,4 @@
+9c9
+<     public FrontendAction(String type, Object value)
+---
+>     public FrontendAction (String type, Object value)

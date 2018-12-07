@@ -1,0 +1,5 @@
+136,137c136
+<     private static void simplifyAnd(SimpleNode node)
+<     {
+---
+>     private static void simplifyAnd(SimpleNode node)    {

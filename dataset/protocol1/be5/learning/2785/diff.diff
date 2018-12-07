@@ -1,0 +1,4 @@
+12c12
+<     public AstBetweenPredicate(SimpleNode... children)
+---
+>     public AstBetweenPredicate(SimpleNode ... children)

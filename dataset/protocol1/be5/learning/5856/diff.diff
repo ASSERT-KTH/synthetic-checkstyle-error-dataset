@@ -1,0 +1,5 @@
+55c55,56
+<     protected JsonApiModel data(ResourceData data, ErrorModel[] errorModels, ResourceData[] included)
+---
+>     protected JsonApiModel data(ResourceData data, ErrorModel[] 
+> errorModels, ResourceData[] included)

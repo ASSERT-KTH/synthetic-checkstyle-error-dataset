@@ -1,0 +1,4 @@
+21c21
+<     String UPDATE_USER_INFO = "UPDATE_USER_INFO";
+---
+>     String UPDATE_USER_INFO ="UPDATE_USER_INFO";

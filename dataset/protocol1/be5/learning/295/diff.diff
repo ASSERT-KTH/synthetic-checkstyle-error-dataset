@@ -1,0 +1,5 @@
+135c135,136
+<             out.add(RootNode.action(id, title, isDefault, action, operations));
+---
+>             out.add(RootNode.action(id, title, isDefault, action, 
+> operations));

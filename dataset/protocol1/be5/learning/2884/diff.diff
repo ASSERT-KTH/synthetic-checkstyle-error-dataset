@@ -1,0 +1,4 @@
+10c10
+< import com.developmentontheedge.be5.base.services.impl.Be5CachesImpl;
+---
+> import com.developmentontheedge.be5.base	.services.impl.Be5CachesImpl;

@@ -1,0 +1,4 @@
+22c22
+<         this(columnIndex, null);
+---
+>         this( columnIndex, null);

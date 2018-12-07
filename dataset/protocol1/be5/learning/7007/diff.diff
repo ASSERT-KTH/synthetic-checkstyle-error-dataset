@@ -1,0 +1,4 @@
+19c19
+<     public DynamicPropertySetMetaClass(Class<T> theClass)
+---
+>     public DynamicPropertySetMetaClass(Class <T> theClass)

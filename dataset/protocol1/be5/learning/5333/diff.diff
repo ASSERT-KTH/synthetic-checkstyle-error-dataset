@@ -1,0 +1,4 @@
+30c30
+<             collectLocalizations(module, all);
+---
+>             collectLocalizations (module, all);

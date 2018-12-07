@@ -1,0 +1,4 @@
+158c158
+<                     Collections.singletonMap(SELF_LINK, "queryBuilder")
+---
+>                     Collections. singletonMap(SELF_LINK, "queryBuilder")

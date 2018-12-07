@@ -1,0 +1,4 @@
+8c8
+<         this.nodePrefix = "CASE";
+---
+>         this.nodePrefix 	= "CASE";

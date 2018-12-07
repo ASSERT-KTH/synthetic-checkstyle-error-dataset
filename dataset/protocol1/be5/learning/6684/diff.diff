@@ -1,0 +1,4 @@
+12c12
+<     public AstQuery(AstSelect select)
+---
+>     	public AstQuery(AstSelect select)

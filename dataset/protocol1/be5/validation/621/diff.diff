@@ -1,0 +1,4 @@
+59c59
+<     public Map<String, Cache> getCaches()
+---
+>     public Map<String,Cache> getCaches()

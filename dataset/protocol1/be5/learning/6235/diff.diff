@@ -1,0 +1,4 @@
+73c73
+<                 return new AstExtract(format, new AstParenthesis(DefaultParserContext.FUNC_MINUS.node(endDate, startDate)));
+---
+>                 	return new AstExtract(format, new AstParenthesis(DefaultParserContext.FUNC_MINUS.node(endDate, startDate)));

@@ -1,0 +1,5 @@
+36c36,37
+<     private static void collectLocalizations(Module module, Table<String, String, CompiledEntityLocalizations> all)
+---
+>     private static void collectLocalizations(Module module, Table<String, String, CompiledEntityLocalizations> 
+> all)

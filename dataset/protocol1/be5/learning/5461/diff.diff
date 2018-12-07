@@ -1,0 +1,4 @@
+52c52
+<             replace(replacement, (AstIdentifierConstant) argList.child(i), node.child(i));
+---
+>             replace( replacement, (AstIdentifierConstant) argList.child(i), node.child(i));

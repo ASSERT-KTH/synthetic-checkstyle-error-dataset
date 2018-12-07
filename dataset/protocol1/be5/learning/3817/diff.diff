@@ -1,0 +1,4 @@
+9c9
+<     private static final Set<String> ALLOWED_PARAMETERS = AstBeSqlSubQuery.ALLOWED_PARAMETERS;
+---
+>     private static final Set<String> ALLOWED_PARAMETERS 	= AstBeSqlSubQuery.ALLOWED_PARAMETERS;

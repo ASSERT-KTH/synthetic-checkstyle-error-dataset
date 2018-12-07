@@ -1,0 +1,4 @@
+109c109
+<             listener.queryError(query, parameters, startTime, endTime, exception);
+---
+>             listener.queryError(query, 	parameters, startTime, endTime, exception);

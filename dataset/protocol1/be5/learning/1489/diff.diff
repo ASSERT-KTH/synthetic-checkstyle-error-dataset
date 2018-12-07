@@ -1,0 +1,4 @@
+24c24
+<         BeMacroFunction function = (BeMacroFunction) node.getFunction();
+---
+>         BeMacroFunction function = (BeMacroFunction) node. getFunction();

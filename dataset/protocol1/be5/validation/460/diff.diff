@@ -1,0 +1,4 @@
+10c10
+< import javax.inject.Inject;
+---
+> 	import javax.inject.Inject;

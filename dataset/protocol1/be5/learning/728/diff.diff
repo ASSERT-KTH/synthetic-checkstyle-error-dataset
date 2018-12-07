@@ -1,0 +1,4 @@
+162c162
+<         if (cast.getDataType().equalsIgnoreCase("BIGINT") || cast.getDataType().equalsIgnoreCase("INTEGER"))
+---
+>         if (cast.getDataType().equalsIgnoreCase("BIGINT") || cast.getDataType ().equalsIgnoreCase("INTEGER"))

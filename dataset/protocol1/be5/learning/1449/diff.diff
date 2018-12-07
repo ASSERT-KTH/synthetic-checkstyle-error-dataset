@@ -1,0 +1,4 @@
+285c285
+<         if (parse.getQuery().children().select(AstUpdate.class).findAny().isPresent())
+---
+>         if (parse.getQuery().children().select (AstUpdate.class).findAny().isPresent())

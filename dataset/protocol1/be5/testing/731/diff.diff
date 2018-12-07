@@ -1,0 +1,4 @@
+246c246
+<         return meta.getLocale(userInfoProvider.get().getLocale()).getLanguage();
+---
+>         return meta.getLocale(userInfoProvider.get().getLocale() ).getLanguage();

@@ -1,0 +1,4 @@
+114c114
+<     public static Pattern variablePattern(String prefix, String suffix)
+---
+>     public static Pattern variablePattern(String prefix, 	String suffix)

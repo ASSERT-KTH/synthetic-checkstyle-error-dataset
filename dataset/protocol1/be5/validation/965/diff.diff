@@ -1,0 +1,4 @@
+96c96
+<             SimpleNode prev = null;
+---
+>             SimpleNode 	prev = null;

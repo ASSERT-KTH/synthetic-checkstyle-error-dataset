@@ -1,0 +1,4 @@
+12c12
+< import static com.developmentontheedge.be5.server.RestApiConstants.ENTITY;
+---
+> import static com.developmentontheedge.be5.server	.RestApiConstants.ENTITY;

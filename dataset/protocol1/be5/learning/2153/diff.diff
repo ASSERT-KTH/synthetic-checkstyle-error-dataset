@@ -1,0 +1,4 @@
+36c36
+<         return jjtGetParent() instanceof AstBeNode ? childrenDelimiter : super.getNodePrefix();
+---
+>         return jjtGetParent() 	instanceof AstBeNode ? childrenDelimiter : super.getNodePrefix();

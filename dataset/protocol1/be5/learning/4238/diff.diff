@@ -1,0 +1,5 @@
+40c40,41
+<             return logOperation(invocation, startTime, arguments);
+---
+>             return 
+> logOperation(invocation, startTime, arguments);

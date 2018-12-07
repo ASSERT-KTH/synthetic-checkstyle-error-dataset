@@ -1,0 +1,4 @@
+65c65
+<         query = entityQueries.get(ALLOWED_RECORDS_VIEW_PREFIX + op.getInfo().getName());
+---
+>         query = 	entityQueries.get(ALLOWED_RECORDS_VIEW_PREFIX + op.getInfo().getName());

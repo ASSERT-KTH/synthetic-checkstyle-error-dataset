@@ -1,0 +1,4 @@
+21c21
+<     public DbSpecificFunction(String name, int numberOfParams)
+---
+>     public DbSpecificFunction( String name, int numberOfParams)

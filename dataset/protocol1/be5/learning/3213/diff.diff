@@ -1,0 +1,4 @@
+57c57
+<                 throw new IllegalArgumentException("Unknown column " + column.getKey() + " in order clause");
+---
+>                 throw new IllegalArgumentException("Unknown column " +column.getKey() + " in order clause");

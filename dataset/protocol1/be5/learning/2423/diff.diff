@@ -1,0 +1,4 @@
+70c70
+<     static FrontendAction refreshDocument()
+---
+>     static FrontendAction 	refreshDocument()

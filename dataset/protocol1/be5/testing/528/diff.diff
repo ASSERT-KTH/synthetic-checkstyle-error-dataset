@@ -1,0 +1,4 @@
+9c9
+<     Map<String, Object> getTags(Request req);
+---
+>     Map<String,Object> getTags(Request req);

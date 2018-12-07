@@ -1,0 +1,4 @@
+14c14
+<     public AstWhen(SimpleNode condition, SimpleNode thenBranch)
+---
+>     public AstWhen(SimpleNode condition, SimpleNode 	thenBranch)

@@ -1,0 +1,5 @@
+79,80c79
+<     private TableOperationPresentation presentOperation(Query query, Operation operation)
+<     {
+---
+>     private TableOperationPresentation presentOperation(Query query, Operation operation)    {

@@ -1,0 +1,4 @@
+24c24
+<             for (CellModel cellModel : rowModel.getCells())
+---
+>             for (CellModel cellModel : rowModel. getCells())

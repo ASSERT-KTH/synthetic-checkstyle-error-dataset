@@ -1,0 +1,4 @@
+24c24
+<     public boolean isAllColumns()
+---
+>     public boolean isAllColumns ()

@@ -1,0 +1,4 @@
+30c30
+<         query.children().select(AstSelect.class).forEach(select -> processSelect(select, tableName, columnName, alias));
+---
+>         	query.children().select(AstSelect.class).forEach(select -> processSelect(select, tableName, columnName, alias));

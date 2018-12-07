@@ -1,0 +1,5 @@
+175c175,176
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction(GET_FIELD_TXT, Function.LOGICAL_PRIORITY, 2), Dbms.POSTGRESQL));
+---
+>         context.declareFunction(new DbSpecificFunction(new PredefinedFunction(GET_FIELD_TXT, Function.LOGICAL_PRIORITY
+> , 2), Dbms.POSTGRESQL));

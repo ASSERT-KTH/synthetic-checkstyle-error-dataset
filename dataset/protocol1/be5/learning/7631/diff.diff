@@ -1,0 +1,4 @@
+44c44
+<                 return new MenuResponse(menuHelper.collectEntities(false, EntityType.DICTIONARY));
+---
+>                 return new MenuResponse(menuHelper.collectEntities(false,EntityType.DICTIONARY));

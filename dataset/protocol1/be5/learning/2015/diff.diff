@@ -1,0 +1,4 @@
+14c14
+< import static com.developmentontheedge.be5.metadata.model.EntityType.GENERIC_COLLECTION;
+---
+> import static com.developmentontheedge.be5.metadata.model	.EntityType.GENERIC_COLLECTION;

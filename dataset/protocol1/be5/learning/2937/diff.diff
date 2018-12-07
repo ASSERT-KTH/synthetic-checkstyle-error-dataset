@@ -1,0 +1,5 @@
+43c43,44
+<     protected abstract JsonApiModel generateJson(Request req, Response res, String subUrl);
+---
+>     protected abstract JsonApiModel generateJson(Request req, Response res, 
+> String subUrl);

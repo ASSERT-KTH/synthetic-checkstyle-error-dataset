@@ -1,0 +1,4 @@
+5c5
+< public class AstGroupBy extends SimpleNode
+---
+> public class 	AstGroupBy extends SimpleNode

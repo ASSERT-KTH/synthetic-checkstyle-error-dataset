@@ -1,0 +1,4 @@
+36c36
+<             return logQuery(invocation, startTime, arguments);
+---
+>             return logQuery(invocation, 	startTime, arguments);

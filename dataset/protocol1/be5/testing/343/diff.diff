@@ -1,0 +1,4 @@
+13c13
+<     public Base64File(String name, byte[] data, String mimeTypes)
+---
+>     public 	Base64File(String name, byte[] data, String mimeTypes)

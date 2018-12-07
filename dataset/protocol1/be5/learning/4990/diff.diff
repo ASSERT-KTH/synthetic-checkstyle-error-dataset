@@ -1,0 +1,5 @@
+14c14,15
+<     private FilterHelper filterHelper;
+---
+>     private 
+> FilterHelper filterHelper;

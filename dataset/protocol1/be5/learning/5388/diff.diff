@@ -1,0 +1,5 @@
+18c18,19
+< import com.developmentontheedge.be5.metadata.model.Module;
+---
+> import 
+> com.developmentontheedge.be5.metadata.model.Module;

@@ -1,0 +1,4 @@
+11c11
+< import com.developmentontheedge.be5.server.model.DocumentPlugin;
+---
+> import com. developmentontheedge.be5.server.model.DocumentPlugin;

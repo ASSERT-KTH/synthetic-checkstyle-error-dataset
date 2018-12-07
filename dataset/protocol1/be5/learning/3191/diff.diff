@@ -1,0 +1,5 @@
+45,46c45
+<     public String getType()
+<     {
+---
+>     public String getType()    {

@@ -1,0 +1,4 @@
+26c26
+<         if (!(type.equalsIgnoreCase("MONTH") || type.equalsIgnoreCase("DAY") || type.equalsIgnoreCase("MICROSECOND")))
+---
+>         if (!(type.equalsIgnoreCase("MONTH") || type.equalsIgnoreCase("DAY") || type.equalsIgnoreCase( "MICROSECOND")))

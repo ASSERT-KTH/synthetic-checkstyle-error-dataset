@@ -1,0 +1,5 @@
+16c16,17
+<         this.recordsFiltered = recordsFiltered;
+---
+>         this.recordsFiltered 
+> = recordsFiltered;

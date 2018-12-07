@@ -1,0 +1,4 @@
+61c61
+<     public static String formatTitle(String title, List<String> parameters)
+---
+>     public static String formatTitle(String title, List< String> parameters)

@@ -1,0 +1,4 @@
+45c45
+<         if (allowedParameters != null && !allowedParameters.contains(key))
+---
+>         if ( allowedParameters != null && !allowedParameters.contains(key))

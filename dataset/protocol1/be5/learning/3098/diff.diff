@@ -1,0 +1,4 @@
+133c133
+<             case Types.DOUBLE:
+---
+>             case Types	.DOUBLE:

@@ -1,0 +1,4 @@
+14c14
+<     void setSystemSettingInSection(String section, String param, String value);
+---
+>     void setSystemSettingInSection(String section, 	String param, String value);

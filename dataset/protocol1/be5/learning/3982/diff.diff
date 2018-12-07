@@ -1,0 +1,5 @@
+43c43,44
+<             if (query.getType() == QueryType.STATIC)
+---
+>             
+> if (query.getType() == QueryType.STATIC)

@@ -1,0 +1,4 @@
+33c33
+<         this.columnName = columnName;
+---
+>         this.columnName = 	columnName;

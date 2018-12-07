@@ -1,0 +1,4 @@
+3c3
+< public class AstWithListElement extends SimpleNode
+---
+> public class AstWithListElement extends 	SimpleNode

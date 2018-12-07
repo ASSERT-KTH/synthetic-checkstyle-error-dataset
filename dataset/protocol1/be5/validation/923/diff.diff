@@ -1,0 +1,5 @@
+57c57,58
+<             this.symbol = QuoteSymbol.DOUBLE_QUOTE;
+---
+>             this.symbol 
+> = QuoteSymbol.DOUBLE_QUOTE;

@@ -1,0 +1,5 @@
+16c16,17
+<         addChild(new AstJoinType(type));
+---
+>         addChild(new AstJoinType(type))
+> ;

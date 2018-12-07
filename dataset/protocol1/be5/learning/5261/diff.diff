@@ -1,0 +1,4 @@
+21c21
+<             res.sendAsJson("Unknown action", HttpServletResponse.SC_NOT_FOUND);
+---
+>             res.sendAsJson("Unknown action" , HttpServletResponse.SC_NOT_FOUND);

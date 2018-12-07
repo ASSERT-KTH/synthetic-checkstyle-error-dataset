@@ -1,0 +1,5 @@
+151c151,152
+<             return new BasicQueryContext(parameters, sessionVariables, userName, roles.isEmpty() ? Collections.singletonList("Guest")
+---
+>             return new BasicQueryContext(parameters, 
+> sessionVariables, userName, roles.isEmpty() ? Collections.singletonList("Guest")

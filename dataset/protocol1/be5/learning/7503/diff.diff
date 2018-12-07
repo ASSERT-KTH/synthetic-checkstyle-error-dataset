@@ -1,0 +1,5 @@
+47c47,48
+<             String attributeName = beanInfoConstants.get(name);
+---
+>             String attributeName = beanInfoConstants.get(name)
+> ;

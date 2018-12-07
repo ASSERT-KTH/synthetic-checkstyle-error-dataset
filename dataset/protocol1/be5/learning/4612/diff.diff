@@ -1,0 +1,5 @@
+32c32,33
+<         this.columnIndex = columnIndex;
+---
+>         this.columnIndex 
+> = columnIndex;

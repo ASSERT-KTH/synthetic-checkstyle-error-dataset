@@ -1,0 +1,4 @@
+127c127
+<     private <T> T query(Connection conn, String sql, ResultSetHandler<T> rsh, Object... params) throws SQLException
+---
+>     private <T> T query(Connection conn, String sql, ResultSetHandler<T> rsh, Object... params) throws 	SQLException

@@ -1,0 +1,4 @@
+74c74
+<         serve("/api/queryBuilder").with(QueryBuilderController.class);
+---
+>         serve("/api/queryBuilder").with(QueryBuilderController.class );

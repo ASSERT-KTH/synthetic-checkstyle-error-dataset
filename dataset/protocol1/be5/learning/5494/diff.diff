@@ -1,0 +1,5 @@
+77c77,78
+<         Operation operation = getOperation(entityName, queryName, operationName, operationParams);
+---
+>         Operation operation = getOperation(entityName, 
+> queryName, operationName, operationParams);

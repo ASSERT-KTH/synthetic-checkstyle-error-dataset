@@ -1,0 +1,4 @@
+98c98
+<                 return evaluateVariable.apply(m.group(1));
+---
+>                 return evaluateVariable.apply(m.group(1) );

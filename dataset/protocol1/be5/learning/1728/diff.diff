@@ -1,0 +1,5 @@
+24c24,25
+<     boolean getBooleanSystemSetting(String param, boolean defValue);
+---
+>     boolean getBooleanSystemSetting
+> (String param, boolean defValue);

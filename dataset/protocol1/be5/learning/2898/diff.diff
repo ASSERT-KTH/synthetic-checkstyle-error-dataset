@@ -1,0 +1,5 @@
+85c85,86
+<                                 @DelegatesTo(strategy = Closure.DELEGATE_FIRST, value = DPSAttributes.class) Closure cl)
+---
+>                                 @DelegatesTo(strategy = Closure.DELEGATE_FIRST
+> , value = DPSAttributes.class) Closure cl)

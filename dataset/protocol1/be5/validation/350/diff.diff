@@ -1,0 +1,5 @@
+26c26,27
+<     public AstIdentifierConstant(String value, boolean quote)
+---
+>     public AstIdentifierConstant
+> (String value, boolean quote)

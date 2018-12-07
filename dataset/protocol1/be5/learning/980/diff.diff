@@ -1,0 +1,4 @@
+160c160
+<         setOperator(node, op.image);
+---
+>         setOperator(node, op. image);

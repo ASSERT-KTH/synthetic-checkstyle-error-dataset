@@ -1,0 +1,5 @@
+15c15,16
+<     private final UserAwareMeta userAwareMeta;
+---
+>     
+> private final UserAwareMeta userAwareMeta;

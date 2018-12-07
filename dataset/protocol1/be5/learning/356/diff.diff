@@ -1,0 +1,4 @@
+34c34
+<                 return (T) (Short) ((Integer) object).shortValue();
+---
+>                 	return (T) (Short) ((Integer) object).shortValue();

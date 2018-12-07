@@ -1,0 +1,4 @@
+83c83
+<     Operation getOperation(String entityName, String queryName, String name);
+---
+>     Operation getOperation(String entityName, String queryName , String name);

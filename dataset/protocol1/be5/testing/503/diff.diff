@@ -1,0 +1,4 @@
+82c82
+<         Optional<String> localization = localizations.getEntityTitle(getLanguage(), entity.getName());
+---
+>         Optional<String> localization = localizations.getEntityTitle(getLanguage (), entity.getName());

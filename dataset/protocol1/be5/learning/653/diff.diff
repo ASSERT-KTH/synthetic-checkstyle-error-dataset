@@ -1,0 +1,5 @@
+107c107,108
+<         return next instanceof AstOrderBy ? null : "group_concat".equalsIgnoreCase(function.getName()) ? "SEPARATOR" : childrenDelimiter;
+---
+>         return next instanceof AstOrderBy ? null : "group_concat".equalsIgnoreCase(function.getName()) ? "SEPARATOR" 
+> : childrenDelimiter;

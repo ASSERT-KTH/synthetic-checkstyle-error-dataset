@@ -1,0 +1,5 @@
+61c61,62
+<     default AstFunNode node(SimpleNode... arguments)
+---
+>     default 
+> AstFunNode node(SimpleNode... arguments)

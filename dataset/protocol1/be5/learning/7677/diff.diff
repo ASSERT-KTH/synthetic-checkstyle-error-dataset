@@ -1,0 +1,5 @@
+40c40,41
+<         return groovyClasses.get(key, k -> parseClass(code, fileName));
+---
+>         return groovyClasses.get(key, k -> parseClass(code, fileName))
+> ;

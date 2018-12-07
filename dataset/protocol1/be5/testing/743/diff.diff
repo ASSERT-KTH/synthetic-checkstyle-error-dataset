@@ -1,0 +1,5 @@
+230c230,231
+<     public Timestamp getTimestamp(String columnLabel) throws SQLException
+---
+>     public Timestamp 
+> getTimestamp(String columnLabel) throws SQLException

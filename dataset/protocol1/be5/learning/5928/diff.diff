@@ -1,0 +1,5 @@
+11c11,12
+<     public static Map<String, Object> getLayoutObject(EntityItem entityItem)
+---
+>     public static Map<String, 
+> Object> getLayoutObject(EntityItem entityItem)

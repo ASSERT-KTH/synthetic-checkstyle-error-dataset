@@ -1,0 +1,4 @@
+42c42
+<         if (title != null ? !title.equals(that.title) : that.title != null) return false;
+---
+>         if (title != 	null ? !title.equals(that.title) : that.title != null) return false;

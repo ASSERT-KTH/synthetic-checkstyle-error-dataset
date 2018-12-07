@@ -1,0 +1,5 @@
+15c15,16
+< import static com.developmentontheedge.be5.server.RestApiConstants.QUERY;
+---
+> import static com.developmentontheedge.be5.server.RestApiConstants.QUERY
+> ;

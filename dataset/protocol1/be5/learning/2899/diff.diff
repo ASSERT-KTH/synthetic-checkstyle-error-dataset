@@ -1,0 +1,5 @@
+32c32,33
+<     public QueriesService queries;
+---
+>     public QueriesService 
+> queries;

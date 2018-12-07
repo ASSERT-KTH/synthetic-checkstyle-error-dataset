@@ -1,0 +1,4 @@
+37c37
+<         setFunction(fn);
+---
+>         	setFunction(fn);

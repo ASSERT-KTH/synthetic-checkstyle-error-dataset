@@ -1,0 +1,4 @@
+36c36
+<             return getConfiguration(object.getClass(), configurable.getConfigurationClass());
+---
+>             return getConfiguration(object	.getClass(), configurable.getConfigurationClass());

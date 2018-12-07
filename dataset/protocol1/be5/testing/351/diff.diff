@@ -1,0 +1,4 @@
+1005c1005
+<     public void updateNCharacterStream(String columnLabel, Reader reader, long length) throws SQLException
+---
+>     public void updateNCharacterStream(String columnLabel, Reader reader, 	long length) throws SQLException

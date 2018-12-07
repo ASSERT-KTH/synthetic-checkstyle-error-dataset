@@ -1,0 +1,5 @@
+8c8,9
+<     private int size = -1;
+---
+>     private int 
+> size = -1;

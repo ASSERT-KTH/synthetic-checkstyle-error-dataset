@@ -1,0 +1,5 @@
+37c37,38
+<     public AstTableRef(boolean as, SimpleNode... childs)
+---
+>     public 
+> AstTableRef(boolean as, SimpleNode... childs)

@@ -1,0 +1,4 @@
+116c116
+<     public AstGroupBy getGroupBy()
+---
+>     public AstGroupBy getGroupBy ()

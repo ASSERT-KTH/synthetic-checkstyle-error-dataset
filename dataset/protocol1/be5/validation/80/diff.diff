@@ -1,0 +1,4 @@
+30c30
+<     private Map<String, Cache> caches = new ConcurrentHashMap<>();
+---
+>     private Map<String, Cache> caches = 	new ConcurrentHashMap<>();

@@ -1,0 +1,4 @@
+101c101
+<     public void sendEmail(InternetAddress from, InternetAddress[] to, String subject, String body, String type)
+---
+>     public void sendEmail(InternetAddress from, InternetAddress[] to, String subject, 	String body, String type)

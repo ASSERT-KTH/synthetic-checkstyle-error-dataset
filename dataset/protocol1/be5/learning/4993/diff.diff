@@ -1,0 +1,5 @@
+42c42,43
+<         list.moveToFront(col);
+---
+>         
+> list.moveToFront(col);

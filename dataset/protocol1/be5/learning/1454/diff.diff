@@ -1,0 +1,4 @@
+15c15
+<     private SetQuantifier setQuantifier = SetQuantifier.DEFAULT;
+---
+>     private SetQuantifier setQuantifier = SetQuantifier. DEFAULT;

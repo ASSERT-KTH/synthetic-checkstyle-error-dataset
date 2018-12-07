@@ -1,0 +1,4 @@
+48c48
+<             Project oldProject = project;
+---
+>             Project oldProject = project ;

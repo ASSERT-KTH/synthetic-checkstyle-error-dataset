@@ -1,0 +1,5 @@
+14c14,15
+<     public AstJoinType(JoinType type)
+---
+>     public 
+> AstJoinType(JoinType type)

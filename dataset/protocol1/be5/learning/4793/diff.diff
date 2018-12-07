@@ -1,0 +1,4 @@
+31c31
+<     public ResourceData addData(Query query, Map<String, Object> parameters)
+---
+>     public ResourceData addData (Query query, Map<String, Object> parameters)

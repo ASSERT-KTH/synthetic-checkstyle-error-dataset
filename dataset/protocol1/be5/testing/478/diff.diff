@@ -1,0 +1,5 @@
+14c14,15
+<     public static class PrintStream2 extends PrintStream
+---
+>     public static class PrintStream2 extends 
+> PrintStream

@@ -1,0 +1,5 @@
+36c36,37
+<     String getLocalizedOperationTitle(String entityName, String operationName);
+---
+>     String getLocalizedOperationTitle(String entityName, 
+> String operationName);

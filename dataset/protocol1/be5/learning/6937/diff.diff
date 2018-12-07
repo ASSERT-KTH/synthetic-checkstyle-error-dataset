@@ -1,0 +1,5 @@
+41c41,42
+<         String[] parts = column.split("[.]");
+---
+>         
+> String[] parts = column.split("[.]");

@@ -1,0 +1,4 @@
+18c18
+<         this.dbms = EnumSet.copyOf(Arrays.asList(dbms));
+---
+>         this.dbms = EnumSet.copyOf(Arrays.asList (dbms));

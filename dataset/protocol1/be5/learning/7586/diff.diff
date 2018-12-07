@@ -1,0 +1,4 @@
+57c57
+<         return new AstNumericConstant(number);
+---
+>         return new AstNumericConstant( number);

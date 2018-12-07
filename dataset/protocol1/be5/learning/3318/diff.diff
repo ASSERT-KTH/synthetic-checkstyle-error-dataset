@@ -1,0 +1,4 @@
+38c38
+<         TITLES.put(INTERNAL_ERROR_IN_OPERATION, "Internal error occurred during operation: $1.$2");
+---
+>         TITLES.put (INTERNAL_ERROR_IN_OPERATION, "Internal error occurred during operation: $1.$2");

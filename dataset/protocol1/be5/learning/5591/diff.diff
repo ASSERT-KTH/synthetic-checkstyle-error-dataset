@@ -1,0 +1,4 @@
+255c255
+<         List<String> languages = getProject().getApplication().getLocalizations().names().toList();
+---
+>         List<String> languages = getProject ().getApplication().getLocalizations().names().toList();

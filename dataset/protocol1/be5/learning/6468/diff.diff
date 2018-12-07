@@ -1,0 +1,4 @@
+41c41
+<             return JsonApiModel.data(new ResourceData(STATIC_ACTION, new StaticPagePresentation(
+---
+>             return JsonApiModel	.data(new ResourceData(STATIC_ACTION, new StaticPagePresentation(

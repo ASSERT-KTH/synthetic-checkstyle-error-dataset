@@ -1,0 +1,4 @@
+50c50
+<             collectLocalizations(language, entityLocalizations, all);
+---
+>             	collectLocalizations(language, entityLocalizations, all);

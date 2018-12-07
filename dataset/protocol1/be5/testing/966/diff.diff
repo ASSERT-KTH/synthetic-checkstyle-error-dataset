@@ -1,0 +1,4 @@
+16c16
+<     public String parse(ResultSetWrapper rs) throws SQLException
+---
+>     	public String parse(ResultSetWrapper rs) throws SQLException

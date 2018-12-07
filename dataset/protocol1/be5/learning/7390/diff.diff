@@ -1,0 +1,5 @@
+60c60,61
+<     private void squash()
+---
+>     private void squash
+> ()

@@ -1,0 +1,4 @@
+67c67
+<         if (servletContext.getResourceAsStream("/WEB-INF/templates" + reqWithoutContext + "index.html") == null)
+---
+>         if (servletContext. getResourceAsStream("/WEB-INF/templates" + reqWithoutContext + "index.html") == null)

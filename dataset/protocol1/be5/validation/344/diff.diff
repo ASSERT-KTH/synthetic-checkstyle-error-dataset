@@ -1,0 +1,4 @@
+22c22
+<         bind(DbService.class).to(DbServiceImpl.class).in(Scopes.SINGLETON);
+---
+>         bind(DbService.class).to(DbServiceImpl.class).in( Scopes.SINGLETON);

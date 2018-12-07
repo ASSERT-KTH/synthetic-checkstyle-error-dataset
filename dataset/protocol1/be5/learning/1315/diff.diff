@@ -1,0 +1,5 @@
+155,156c155
+<     public List<TableReference> getTableReferences(EntityType entityType)
+<     {
+---
+>     public List<TableReference> getTableReferences(EntityType entityType)    {

@@ -1,0 +1,5 @@
+80c80,81
+<         return o != null ? o.toString() : null;
+---
+>         return o != null ? o.toString() : 
+> null;

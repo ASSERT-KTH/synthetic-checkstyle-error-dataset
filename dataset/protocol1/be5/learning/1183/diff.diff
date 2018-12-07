@@ -1,0 +1,4 @@
+96c96
+<                 String val = notEqualsMatcher.group(2);
+---
+>                 String val = notEqualsMatcher.group(2 );

@@ -1,0 +1,4 @@
+65c65
+<     private Operation getOperation(String entityName, String queryName, String operationName, Map<String, Object> operationParams)
+---
+>     private Operation getOperation(String entityName, String queryName, String operationName, Map<String, Object > operationParams)

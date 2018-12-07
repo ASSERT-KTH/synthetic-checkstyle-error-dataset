@@ -1,0 +1,4 @@
+126c126
+<         return DefaultParserContext.FUNC_PLUS.node(DefaultParserContext.FUNC_TIMES.node(AstNumericConstant.of(12), getYears(date)), MONTH.node(date));
+---
+>         return DefaultParserContext.FUNC_PLUS.node(DefaultParserContext.FUNC_TIMES.node(AstNumericConstant.of(12), getYears(date)),MONTH.node(date));

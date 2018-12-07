@@ -1,0 +1,4 @@
+29c29
+<         return super.invokeMethod(object, methodName, args);
+---
+>         return super.invokeMethod(object, methodName, 	args);

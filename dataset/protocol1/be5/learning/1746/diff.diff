@@ -1,0 +1,4 @@
+104c104
+<                 return Action.call(new HashUrl("servlet").named("path", query.getQuery()));
+---
+>                 return Action.call(new HashUrl("servlet").named("path",query.getQuery()));

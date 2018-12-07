@@ -1,0 +1,4 @@
+74c74
+<             message = ErrorTitles.formatTitle(ErrorTitles.getTitle(e.getCode()), e.getParameters());
+---
+>             message = ErrorTitles.formatTitle( ErrorTitles.getTitle(e.getCode()), e.getParameters());

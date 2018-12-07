@@ -1,0 +1,4 @@
+130c130
+<         StringBuilder sb = new StringBuilder("\n" + Be5Exception.getFullStackTraceLine(e));
+---
+>         	StringBuilder sb = new StringBuilder("\n" + Be5Exception.getFullStackTraceLine(e));

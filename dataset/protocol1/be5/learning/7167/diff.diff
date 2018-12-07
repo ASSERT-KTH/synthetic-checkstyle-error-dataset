@@ -1,0 +1,5 @@
+73,74c73
+<     public AstQuery getQuery()
+<     {
+---
+>     public AstQuery getQuery()    {

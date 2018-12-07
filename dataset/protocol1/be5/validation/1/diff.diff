@@ -1,0 +1,5 @@
+200c200,201
+<     private Session getMailSession(String host)
+---
+>     private 
+> Session getMailSession(String host)

@@ -1,0 +1,4 @@
+12c12
+<         setFunction(DefaultParserContext.FUNC_AND);
+---
+>         setFunction (DefaultParserContext.FUNC_AND);

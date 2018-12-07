@@ -1,0 +1,4 @@
+49c49
+<             return JsonApiModel.error(errorModelHelper.getErrorModel(e, Collections.singletonMap(SELF_LINK, url)), null);
+---
+>             return JsonApiModel.error(errorModelHelper.getErrorModel( e, Collections.singletonMap(SELF_LINK, url)), null);

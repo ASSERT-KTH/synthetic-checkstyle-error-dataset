@@ -1,0 +1,5 @@
+4,5c4
+< import com.developmentontheedge.be5.base.services.Configurable;
+< import com.google.gson.Gson;
+---
+> import com.developmentontheedge.be5.base.services.Configurable;import com.google.gson.Gson;

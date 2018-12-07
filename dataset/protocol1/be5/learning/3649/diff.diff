@@ -1,0 +1,4 @@
+25c25
+<         this(SqlParserTreeConstants.JJTFIELDREFERENCE);
+---
+>         this(SqlParserTreeConstants. JJTFIELDREFERENCE);

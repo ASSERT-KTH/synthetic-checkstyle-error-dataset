@@ -1,0 +1,5 @@
+32c32,33
+<         this.currentRoles = new ArrayList<>(currentRoles);
+---
+>         
+> this.currentRoles = new ArrayList<>(currentRoles);

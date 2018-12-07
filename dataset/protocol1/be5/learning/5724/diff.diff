@@ -1,0 +1,5 @@
+163c163,164
+<     protected void setFunction(Function fn)
+---
+>     protected void 
+> setFunction(Function fn)

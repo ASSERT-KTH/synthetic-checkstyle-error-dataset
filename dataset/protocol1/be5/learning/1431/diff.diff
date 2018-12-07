@@ -1,0 +1,4 @@
+85c85
+<         Class type = (Class) removeFromMap(map, "TYPE");
+---
+>         Class type = (Class) removeFromMap(map, 	"TYPE");

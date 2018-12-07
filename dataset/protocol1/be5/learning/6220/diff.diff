@@ -1,0 +1,4 @@
+34c34
+<     public String getQueryName()
+---
+>     public 	String getQueryName()

@@ -1,0 +1,5 @@
+44c44,45
+<         return SqlUtils.longFromDbObject(rs.getObject(this.columnName));
+---
+>         
+> return SqlUtils.longFromDbObject(rs.getObject(this.columnName));

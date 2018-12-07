@@ -1,0 +1,5 @@
+405c405,406
+<     public void setFetchSize(int rows) throws SQLException
+---
+>     public void setFetchSize(int rows) throws 
+> SQLException

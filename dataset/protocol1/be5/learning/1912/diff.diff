@@ -1,0 +1,5 @@
+103c103,104
+<     private ResourceData getResult(com.developmentontheedge.be5.operation.model.Operation operation,
+---
+>     
+> private ResourceData getResult(com.developmentontheedge.be5.operation.model.Operation operation,

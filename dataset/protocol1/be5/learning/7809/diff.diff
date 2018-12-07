@@ -1,0 +1,4 @@
+58c58
+<     String getFieldTitle(String entityName, String operationName, String queryName, String name);
+---
+>     	String getFieldTitle(String entityName, String operationName, String queryName, String name);

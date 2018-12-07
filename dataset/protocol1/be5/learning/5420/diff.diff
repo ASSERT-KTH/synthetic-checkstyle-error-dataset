@@ -1,0 +1,5 @@
+17c17,18
+<             throw new IllegalArgumentException(String.join("\n", parser.getMessages() + "\n" + query));
+---
+>             throw new IllegalArgumentException
+> (String.join("\n", parser.getMessages() + "\n" + query));

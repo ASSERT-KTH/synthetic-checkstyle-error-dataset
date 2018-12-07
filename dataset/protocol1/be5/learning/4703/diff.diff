@@ -1,0 +1,4 @@
+30c30
+<         this.thenToken = thenToken;
+---
+>         this.thenToken 	= thenToken;

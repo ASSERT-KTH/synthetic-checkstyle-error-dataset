@@ -1,0 +1,4 @@
+25c25
+<                 Object value = SqlUtils.getSqlValue(simpleStringTypeClass, rs, i);
+---
+>                 Object 	value = SqlUtils.getSqlValue(simpleStringTypeClass, rs, i);

@@ -1,0 +1,4 @@
+26c26
+<     public static final int STATUS_WARNING = 1;
+---
+>     public static final int STATUS_WARNING 	= 1;

@@ -1,0 +1,4 @@
+71c71
+<                     if (child.specialSuffix == null)
+---
+>                     if (child.specialSuffix ==null)

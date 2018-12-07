@@ -1,0 +1,4 @@
+7c7
+<     public AstWindowFunction(int id)
+---
+>     public AstWindowFunction (int id)

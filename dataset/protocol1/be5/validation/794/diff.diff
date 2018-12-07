@@ -1,0 +1,5 @@
+40,41c40
+<             else if ("java.lang.Double".equals(className))
+<             {
+---
+>             else if ("java.lang.Double".equals(className))            {

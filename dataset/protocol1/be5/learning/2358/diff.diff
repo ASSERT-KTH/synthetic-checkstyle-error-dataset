@@ -1,0 +1,5 @@
+22c22,23
+<     public List<Object> getCells()
+---
+>     public List<Object> getCells
+> ()

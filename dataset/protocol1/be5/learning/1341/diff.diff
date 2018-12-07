@@ -1,0 +1,5 @@
+46c46,47
+<         return getParameter("beautifier") == null ? "" : getParameter("beautifier");
+---
+>         return getParameter("beautifier") == null ? "" : getParameter
+> ("beautifier");

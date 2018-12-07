@@ -1,0 +1,4 @@
+4c4
+< import com.developmentontheedge.be5.base.services.UserInfoProvider;
+---
+> import com	.developmentontheedge.be5.base.services.UserInfoProvider;

@@ -1,0 +1,4 @@
+17c17
+<         AstSelect select = (AstSelect) subQuery.getQuery().child(0);
+---
+>         AstSelect select = (AstSelect) subQuery.getQuery().child( 0);

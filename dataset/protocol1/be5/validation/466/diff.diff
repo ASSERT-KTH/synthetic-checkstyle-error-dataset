@@ -1,0 +1,4 @@
+81c81
+<             return config.cacheSizes.getOrDefault(name, config.cacheSizes.getOrDefault("defaultSize", 1000));
+---
+>             return config. cacheSizes.getOrDefault(name, config.cacheSizes.getOrDefault("defaultSize", 1000));

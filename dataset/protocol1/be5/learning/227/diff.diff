@@ -1,0 +1,4 @@
+51c51
+<         StringBuilder result = new StringBuilder();
+---
+>         StringBuilder result = new StringBuilder ();

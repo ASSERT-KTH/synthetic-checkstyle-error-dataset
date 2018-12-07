@@ -1,0 +1,4 @@
+34c34
+<             if (selectList.jjtGetNumChildren() == 0)
+---
+>             if (selectList.jjtGetNumChildren() 	== 0)

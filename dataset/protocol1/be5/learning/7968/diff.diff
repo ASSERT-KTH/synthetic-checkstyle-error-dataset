@@ -1,0 +1,4 @@
+58c58
+<         return Optional.of(alias == null ? tableName : alias);
+---
+>         return Optional.of(alias ==null ? tableName : alias);

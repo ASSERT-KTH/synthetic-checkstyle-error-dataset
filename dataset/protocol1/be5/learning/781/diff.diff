@@ -1,0 +1,4 @@
+10c10
+< public abstract class TableRowsBuilder<RowT, CellT>
+---
+> public abstract class TableRowsBuilder<RowT, CellT >

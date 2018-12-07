@@ -1,0 +1,4 @@
+133c133
+<         return Be5ErrorCode.UNKNOWN_OPERATION.exception(entityName, operationName);
+---
+>         	return Be5ErrorCode.UNKNOWN_OPERATION.exception(entityName, operationName);

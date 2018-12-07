@@ -1,0 +1,4 @@
+111c111
+<         return Arrays.equals(included, that.included);
+---
+>         return Arrays	.equals(included, that.included);

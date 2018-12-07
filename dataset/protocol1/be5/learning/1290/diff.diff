@@ -1,0 +1,4 @@
+49c49
+<                 if (column.equals(queryColumn))
+---
+>                 	if (column.equals(queryColumn))

@@ -1,0 +1,5 @@
+735c735,736
+<     public Blob getBlob(int columnIndex) throws SQLException
+---
+>     public Blob getBlob(int columnIndex) throws 
+> SQLException

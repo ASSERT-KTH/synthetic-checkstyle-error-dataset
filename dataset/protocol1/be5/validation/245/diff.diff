@@ -1,0 +1,4 @@
+265c265
+<                 : new MimeMessage2(getMailSession(host), stream);
+---
+>                 : new MimeMessage2(getMailSession(host ), stream);

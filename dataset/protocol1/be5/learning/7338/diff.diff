@@ -1,0 +1,5 @@
+106c106,107
+<         Either<FormPresentation, OperationResultPresentation> data;
+---
+>         Either<FormPresentation, OperationResultPresentation> data
+> ;

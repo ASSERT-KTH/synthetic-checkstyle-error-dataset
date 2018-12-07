@@ -1,0 +1,4 @@
+15c15
+<     public AstInsert(int id)
+---
+>     public 	AstInsert(int id)

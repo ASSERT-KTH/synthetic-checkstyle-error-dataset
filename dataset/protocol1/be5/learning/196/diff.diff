@@ -1,0 +1,5 @@
+233c233,234
+<         node.replaceWith(DATEPART.node(new AstIdentifierConstant(dateField), node.child(0)));
+---
+>         node.replaceWith(DATEPART.node(new 
+> AstIdentifierConstant(dateField), node.child(0)));

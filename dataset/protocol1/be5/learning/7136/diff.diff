@@ -1,0 +1,4 @@
+61c61
+<                             .removeWhereColumnIn(reference.getColumnsFrom(),
+---
+>                             .removeWhereColumnIn(reference.getColumnsFrom() ,

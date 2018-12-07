@@ -1,0 +1,4 @@
+17c17
+<     protected List<SimpleNode> children = new ArrayList<>();
+---
+>     	protected List<SimpleNode> children = new ArrayList<>();

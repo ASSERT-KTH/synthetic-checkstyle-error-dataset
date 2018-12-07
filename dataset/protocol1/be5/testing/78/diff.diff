@@ -1,0 +1,4 @@
+52c52
+<         return mimeTypes != null ? mimeTypes.equals(that.mimeTypes) : that.mimeTypes == null;
+---
+>         return mimeTypes != null ? mimeTypes.equals(that. mimeTypes) : that.mimeTypes == null;

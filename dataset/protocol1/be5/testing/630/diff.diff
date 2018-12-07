@@ -1,0 +1,5 @@
+13c13,14
+<     public AstJoin(JoinType type, String table, SimpleNode spec)
+---
+>     public AstJoin(JoinType type, 
+> String table, SimpleNode spec)

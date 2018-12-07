@@ -1,0 +1,4 @@
+10c10
+<     ResourceData generate(String entityName, String queryName, String operationName,
+---
+>     ResourceData generate (String entityName, String queryName, String operationName,

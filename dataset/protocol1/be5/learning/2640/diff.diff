@@ -1,0 +1,4 @@
+62c62
+<         if (dps.getProperty(propertyName) != null)
+---
+>         if (dps.getProperty( propertyName) != null)

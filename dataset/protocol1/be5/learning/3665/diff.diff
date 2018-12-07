@@ -1,0 +1,4 @@
+7c7
+<     public AstComplexPredicate(int id)
+---
+>     public AstComplexPredicate( int id)

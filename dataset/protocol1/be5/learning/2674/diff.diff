@@ -1,0 +1,4 @@
+73c73
+<         return execute(conn -> query(conn, astStart, rs -> listWrapper(rs, parser), params));
+---
+>         return execute(conn -> query(conn, astStart, rs -> listWrapper(rs, parser ), params));

@@ -1,0 +1,5 @@
+78c78,79
+<             throw new IllegalArgumentException("Can specify cast scale for DECIMAL type only");
+---
+>             throw new IllegalArgumentException
+> ("Can specify cast scale for DECIMAL type only");

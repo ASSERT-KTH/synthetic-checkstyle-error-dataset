@@ -1,0 +1,4 @@
+53c53
+<         dps.add(new DynamicPropertyBuilder(SEARCH_PRESETS_PARAM, String.class)
+---
+>         dps.add(new DynamicPropertyBuilder(SEARCH_PRESETS_PARAM , String.class)

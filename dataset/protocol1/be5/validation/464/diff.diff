@@ -1,0 +1,4 @@
+37c37
+<             throw new IllegalArgumentException("BE tag <" + tagName + ">: attribute: '" + key + "' is specified twice");
+---
+>             throw 	new IllegalArgumentException("BE tag <" + tagName + ">: attribute: '" + key + "' is specified twice");

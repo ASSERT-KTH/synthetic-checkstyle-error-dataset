@@ -1,0 +1,5 @@
+66,67c66
+<     public void setMULTIPLE_SELECTION_LIST(boolean value)
+<     {
+---
+>     public void setMULTIPLE_SELECTION_LIST(boolean value)    {

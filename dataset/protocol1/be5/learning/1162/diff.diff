@@ -1,0 +1,5 @@
+5,6c5
+< import com.developmentontheedge.be5.metadata.model.TableReference;
+< import com.developmentontheedge.be5.operation.model.OperationResult;
+---
+> import com.developmentontheedge.be5.metadata.model.TableReference;import com.developmentontheedge.be5.operation.model.OperationResult;

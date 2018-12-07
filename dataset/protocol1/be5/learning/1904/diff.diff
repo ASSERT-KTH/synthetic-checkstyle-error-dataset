@@ -1,0 +1,5 @@
+46c46,47
+<         Object config = configurations.get(clazz);
+---
+>         
+> Object config = configurations.get(clazz);

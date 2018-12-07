@@ -1,0 +1,4 @@
+15c15
+<     public AstColumnList(AstFieldReference... childs)
+---
+>     public AstColumnList(AstFieldReference... childs )

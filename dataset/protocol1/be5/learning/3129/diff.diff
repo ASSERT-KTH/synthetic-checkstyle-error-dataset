@@ -1,0 +1,5 @@
+141c141,142
+<     private int update(Connection conn, String sql, Object... params) throws SQLException
+---
+>     private int update(Connection conn, String sql, Object
+> ... params) throws SQLException

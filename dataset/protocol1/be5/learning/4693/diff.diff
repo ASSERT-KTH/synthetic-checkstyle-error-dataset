@@ -1,0 +1,4 @@
+30c30
+<         this.operationParams = context.getOperationParams();
+---
+>         	this.operationParams = context.getOperationParams();

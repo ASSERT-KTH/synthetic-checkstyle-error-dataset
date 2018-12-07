@@ -1,0 +1,4 @@
+7c7
+<         return parse(query, DefaultParserContext.getInstance());
+---
+>         return parse( query, DefaultParserContext.getInstance());

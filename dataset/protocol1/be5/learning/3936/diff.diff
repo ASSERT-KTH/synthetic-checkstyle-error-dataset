@@ -1,0 +1,5 @@
+5,6c5
+< import com.developmentontheedge.be5.server.model.DocumentPlugin;
+< import com.developmentontheedge.be5.server.model.jsonapi.ResourceData;
+---
+> import com.developmentontheedge.be5.server.model.DocumentPlugin;import com.developmentontheedge.be5.server.model.jsonapi.ResourceData;

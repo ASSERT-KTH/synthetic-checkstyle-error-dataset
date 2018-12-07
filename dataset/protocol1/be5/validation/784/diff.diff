@@ -1,0 +1,5 @@
+80c80,81
+<     public void setResultFinished(FrontendAction... frontendActions)
+---
+>     public void 
+> setResultFinished(FrontendAction... frontendActions)

@@ -1,0 +1,4 @@
+19c19
+<             SimpleNode right = child(1);
+---
+>             SimpleNode right 	= child(1);

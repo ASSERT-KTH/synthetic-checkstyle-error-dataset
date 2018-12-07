@@ -1,0 +1,5 @@
+13c13,14
+<     private static final Set<String> ALLOWED_PARAMETERS = StreamEx.of("parameter", "value", "expr", "columnExists", "session", "sessionExpr").toSet();
+---
+>     
+> private static final Set<String> ALLOWED_PARAMETERS = StreamEx.of("parameter", "value", "expr", "columnExists", "session", "sessionExpr").toSet();

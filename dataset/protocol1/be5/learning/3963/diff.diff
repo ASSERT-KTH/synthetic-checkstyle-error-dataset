@@ -1,0 +1,4 @@
+83c83
+<                         byte[] bytes = data.substring(base64Pos + base64.length(), data.length()).getBytes("UTF-8");
+---
+>                         byte[] bytes = data.substring(base64Pos + base64.length() , data.length()).getBytes("UTF-8");

@@ -1,0 +1,4 @@
+7c7
+<     public AstNamedColumnsJoin(int id)
+---
+>     public AstNamedColumnsJoin (int id)

@@ -1,0 +1,4 @@
+106c106
+<             setConditions(where.child(0), conditions);
+---
+>             setConditions(where.child(0) , conditions);

@@ -1,0 +1,5 @@
+20c20,21
+<         dpsHelper.addParamsFromQuery(dps, getInfo().getModel(), getQuery(), context.getOperationParams());
+---
+>         dpsHelper.addParamsFromQuery(dps, getInfo().getModel(), 
+> getQuery(), context.getOperationParams());

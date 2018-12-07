@@ -1,0 +1,4 @@
+5c5
+< public class AstBeSqlAuto extends SimpleNode
+---
+> public class AstBeSqlAuto 	extends SimpleNode

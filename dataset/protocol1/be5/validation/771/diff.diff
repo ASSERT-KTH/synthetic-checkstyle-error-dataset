@@ -1,0 +1,5 @@
+17c17,18
+<         this.tableModel = tableModel;
+---
+>         this.tableModel 
+> = tableModel;

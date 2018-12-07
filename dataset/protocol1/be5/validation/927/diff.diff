@@ -1,0 +1,4 @@
+131c131
+<         message.setSubject(subject, enc);
+---
+>         	message.setSubject(subject, enc);

@@ -1,0 +1,5 @@
+48c48,49
+<         SimpleNode replacement = dbmsTransform.getValue(dbms).child(0).clone();
+---
+>         SimpleNode 
+> replacement = dbmsTransform.getValue(dbms).child(0).clone();

@@ -1,0 +1,5 @@
+19c19,20
+<         response.setHeader("Cache-Control", "no-cache");
+---
+>         response.setHeader
+> ("Cache-Control", "no-cache");

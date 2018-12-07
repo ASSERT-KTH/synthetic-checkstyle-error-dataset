@@ -1,0 +1,4 @@
+8c8
+<         this.nodeSuffix = "END";
+---
+>         this.nodeSuffix = "END" ;

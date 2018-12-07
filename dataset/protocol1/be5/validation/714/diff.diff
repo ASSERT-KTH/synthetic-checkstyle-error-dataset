@@ -1,0 +1,4 @@
+60c60
+<             in = new ByteArrayInputStream((byte[]) data);
+---
+>             in = new ByteArrayInputStream(( byte[]) data);

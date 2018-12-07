@@ -1,0 +1,4 @@
+37c37
+<                 url = url.replaceFirst("static/", "");
+---
+>                 url = 	url.replaceFirst("static/", "");

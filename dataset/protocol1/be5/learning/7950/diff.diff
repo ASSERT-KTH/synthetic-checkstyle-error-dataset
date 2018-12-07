@@ -1,0 +1,4 @@
+18c18
+<     private final JsonObject bean;
+---
+>     private 	final JsonObject bean;

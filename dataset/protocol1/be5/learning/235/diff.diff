@@ -1,0 +1,5 @@
+18c18,19
+<             setResultFinished(FrontendActions.goBackOrRedirect(getBackUrl()));
+---
+>             
+> setResultFinished(FrontendActions.goBackOrRedirect(getBackUrl()));

@@ -1,0 +1,4 @@
+96c96
+<     protected void transformLastDay(AstFunNode node)
+---
+>     protected void transformLastDay(AstFunNode 	node)

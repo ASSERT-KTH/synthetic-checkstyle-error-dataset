@@ -1,0 +1,4 @@
+30c30
+<     private BasicQueryContext(Map<String, List<String>> parameters, Map<String, Object> sessionVariables, String userName,
+---
+>     private BasicQueryContext(Map<String, List<String>> parameters, Map<String, Object> sessionVariables , String userName,

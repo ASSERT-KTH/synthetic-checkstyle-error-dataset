@@ -1,0 +1,4 @@
+28c28
+<         this.tagName = dict.substring(1, dict.length() - 1);
+---
+>         this.tagName = dict.substring(1, dict. length() - 1);

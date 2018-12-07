@@ -1,0 +1,4 @@
+90c90
+<         if (isNotFound()) return HTTP_CODE_404;
+---
+>         if (isNotFound()) return 	HTTP_CODE_404;

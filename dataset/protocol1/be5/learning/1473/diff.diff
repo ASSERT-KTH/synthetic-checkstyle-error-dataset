@@ -1,0 +1,4 @@
+140c140
+<             String lines[] = HtmlUtils.escapeHTML(code).split("\\r?\\n");
+---
+>             String lines[] = HtmlUtils.escapeHTML(code).split("\\r?\\n" );

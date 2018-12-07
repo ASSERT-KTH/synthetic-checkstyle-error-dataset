@@ -1,0 +1,5 @@
+609c609,610
+<     public void updateBigDecimal(String columnLabel, BigDecimal x) throws SQLException
+---
+>     public 
+> void updateBigDecimal(String columnLabel, BigDecimal x) throws SQLException

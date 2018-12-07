@@ -1,0 +1,5 @@
+71c71,72
+<     public void setPASSWORD_FIELD(boolean value)
+---
+>     public void setPASSWORD_FIELD
+> (boolean value)

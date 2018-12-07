@@ -1,0 +1,4 @@
+85c85
+<             return ((AstIdentifierConstant) children.get(children.size() - 1)).getNodeContent();
+---
+>             return ((AstIdentifierConstant) children.get(children.size() - 1)). getNodeContent();

@@ -1,0 +1,4 @@
+62c62
+<     public Map<String, String> getLinks()
+---
+>     public Map< String, String> getLinks()

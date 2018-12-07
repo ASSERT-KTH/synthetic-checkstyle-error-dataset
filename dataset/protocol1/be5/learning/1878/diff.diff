@@ -1,0 +1,4 @@
+14c14
+<         filter("/*").through(TemplateFilter.class);
+---
+>         filter("/*").through(TemplateFilter. class);

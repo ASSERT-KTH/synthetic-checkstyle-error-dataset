@@ -1,0 +1,4 @@
+18c18
+<         addChild(new AstJoinSpecification(spec));
+---
+>         addChild( new AstJoinSpecification(spec));

@@ -1,0 +1,4 @@
+33c33
+<         return list.stream().collect(Collectors.joining(","));
+---
+>         return list.stream().collect (Collectors.joining(","));

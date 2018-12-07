@@ -1,0 +1,5 @@
+35c35,36
+<         assert 1 <= parts.length && parts.length <= 2;
+---
+>         assert 1 <= parts.length 
+> && parts.length <= 2;

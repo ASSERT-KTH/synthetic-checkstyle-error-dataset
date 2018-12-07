@@ -1,0 +1,4 @@
+109c109
+<                 return opMinus.node(new AstParenthesis(getHours(endDate)), new AstParenthesis(getHours(startDate)));
+---
+>                 return opMinus.node(new AstParenthesis(getHours(endDate)), new AstParenthesis (getHours(startDate)));

@@ -1,0 +1,4 @@
+82c82
+<                     Collections.singletonMap(op.getInfo().getPrimaryKey(), records));
+---
+>                     Collections.singletonMap(op.getInfo()	.getPrimaryKey(), records));

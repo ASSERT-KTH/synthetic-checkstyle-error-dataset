@@ -1,0 +1,4 @@
+33c33
+<             select = (AstSelect) query.child(0);
+---
+>             select = (AstSelect) query.child(0) ;

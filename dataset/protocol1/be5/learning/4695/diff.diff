@@ -1,0 +1,5 @@
+43,44c43
+<     public TableBuilder initialize(Query query, Map<String, Object> parameters)
+<     {
+---
+>     public TableBuilder initialize(Query query, Map<String, Object> parameters)    {

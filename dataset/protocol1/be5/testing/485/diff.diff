@@ -1,0 +1,4 @@
+26c26
+<         return TIMESTAMPDIFF.node(new AstIdentifierConstant(format), startDate, endDate);
+---
+>         return TIMESTAMPDIFF.node(new AstIdentifierConstant(format),startDate, endDate);

@@ -1,0 +1,4 @@
+70c70
+<         return fn -> fn instanceof DbSpecificFunction && ((DbSpecificFunction) fn).dbmsTransform != null
+---
+>         return fn -> fn instanceof DbSpecificFunction && ((DbSpecificFunction ) fn).dbmsTransform != null

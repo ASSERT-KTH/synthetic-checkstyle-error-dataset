@@ -1,0 +1,4 @@
+91c91
+<         if (children.isEmpty() && !tagName.equals("sql") && !tagName.equals("else"))
+---
+>         if (children.isEmpty () && !tagName.equals("sql") && !tagName.equals("else"))

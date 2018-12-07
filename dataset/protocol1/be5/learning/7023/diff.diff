@@ -1,0 +1,5 @@
+22,23c22
+<         while ((length = inputStream.read(buffer)) != -1)
+<         {
+---
+>         while ((length = inputStream.read(buffer)) != -1)        {

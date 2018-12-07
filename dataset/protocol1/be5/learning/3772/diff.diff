@@ -1,0 +1,5 @@
+11c11,12
+< public class FilterByParamsInQueryOperation extends FilterOperation
+---
+> public 
+> class FilterByParamsInQueryOperation extends FilterOperation

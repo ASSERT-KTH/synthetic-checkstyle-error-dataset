@@ -1,0 +1,4 @@
+60c60
+<                 if (parametrized.getRawType() == Configurable.class)
+---
+>                 if 	(parametrized.getRawType() == Configurable.class)

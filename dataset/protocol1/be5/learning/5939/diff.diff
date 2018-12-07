@@ -1,0 +1,4 @@
+221c221
+<             cast.wrapWith(new AstFunNode(RTRIM));
+---
+>             cast.wrapWith(new AstFunNode( RTRIM));

@@ -1,0 +1,5 @@
+185,186c185
+<     public void popMode(Mode mode)
+<     {
+---
+>     public void popMode(Mode mode)    {

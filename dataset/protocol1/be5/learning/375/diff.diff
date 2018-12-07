@@ -1,0 +1,4 @@
+72c72
+<             sb.append(string.substring(start, matcher.start()));
+---
+>             sb.append(string.substring(start, matcher.start() ));

@@ -1,0 +1,4 @@
+87c87
+<     public static Be5Exception internal(String message, Throwable cause)
+---
+>     public static Be5Exception internal(String message, Throwable 	cause)

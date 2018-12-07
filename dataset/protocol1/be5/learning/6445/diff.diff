@@ -1,0 +1,5 @@
+52c52,53
+<         where(AstWhere.withReplacementParameter(columnName, count));
+---
+>         where(AstWhere.withReplacementParameter(columnName, count))
+> ;

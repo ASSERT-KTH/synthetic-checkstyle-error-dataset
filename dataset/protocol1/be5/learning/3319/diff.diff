@@ -1,0 +1,4 @@
+87c87
+<         SimpleNode substitution = macro.child(1).clone();
+---
+>         SimpleNode substitution =macro.child(1).clone();

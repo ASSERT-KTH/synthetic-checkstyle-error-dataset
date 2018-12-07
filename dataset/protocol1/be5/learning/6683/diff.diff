@@ -1,0 +1,4 @@
+48c48
+<             query.replaceWith(new AstQuery(select));
+---
+>             query	.replaceWith(new AstQuery(select));

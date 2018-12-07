@@ -1,0 +1,4 @@
+14c14
+<             setResultFinished(FrontendActions.refreshDocument());
+---
+>             setResultFinished(FrontendActions.refreshDocument() );

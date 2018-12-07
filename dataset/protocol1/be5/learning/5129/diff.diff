@@ -1,0 +1,4 @@
+6c6
+< import javax.xml.stream.events.XMLEvent;
+---
+> import javax	.xml.stream.events.XMLEvent;

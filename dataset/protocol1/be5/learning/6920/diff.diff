@@ -1,0 +1,4 @@
+17c17
+<         if (query.jjtGetNumChildren() > 1)
+---
+>         if (query	.jjtGetNumChildren() > 1)

@@ -1,0 +1,4 @@
+44c44
+< import com.google.inject.Scopes;
+---
+> import com.google.inject. Scopes;

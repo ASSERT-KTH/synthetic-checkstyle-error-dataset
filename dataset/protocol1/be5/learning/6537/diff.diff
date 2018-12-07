@@ -1,0 +1,4 @@
+45c45
+<         return "StringPart: " + nodeContent;
+---
+>         return "StringPart: " + nodeContent ;

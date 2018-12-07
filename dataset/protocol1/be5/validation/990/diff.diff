@@ -1,0 +1,4 @@
+61c61
+<             this.value = value.substring(1, value.length() - 1);
+---
+>             this.value = value. substring(1, value.length() - 1);

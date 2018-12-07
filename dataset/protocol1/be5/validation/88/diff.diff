@@ -1,0 +1,5 @@
+13,14c13
+<     public String getChildrenDelimiter(SimpleNode prev, SimpleNode next)
+<     {
+---
+>     public String getChildrenDelimiter(SimpleNode prev, SimpleNode next)    {

@@ -1,0 +1,4 @@
+52c52
+<         return JsonApiModel.data(data, included, null);
+---
+>         return JsonApiModel.data(data , included, null);

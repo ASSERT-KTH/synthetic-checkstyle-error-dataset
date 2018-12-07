@@ -1,0 +1,4 @@
+41c41
+<                         .removeWhereColumnIn(reference.getColumnsFrom(), context.getRecords());
+---
+>                         .removeWhereColumnIn(reference.getColumnsFrom(), 	context.getRecords());

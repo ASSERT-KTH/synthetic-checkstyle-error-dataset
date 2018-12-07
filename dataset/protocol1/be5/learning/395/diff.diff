@@ -1,0 +1,4 @@
+28c28
+<         this.operation = operationInfo.getName();
+---
+>         this.operation= operationInfo.getName();

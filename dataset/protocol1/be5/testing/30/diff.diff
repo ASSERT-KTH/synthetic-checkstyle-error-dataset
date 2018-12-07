@@ -1,0 +1,5 @@
+64c64,65
+<     private List<Operation> getQueryOperations(Query query)
+---
+>     private List<Operation> getQueryOperations(Query 
+> query)

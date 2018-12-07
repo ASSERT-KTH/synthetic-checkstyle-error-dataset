@@ -1,0 +1,4 @@
+284c284
+<                     String tail = matcher.appendTail(new StringBuffer()).toString();
+---
+>                     String tail = matcher	.appendTail(new StringBuffer()).toString();

@@ -1,0 +1,5 @@
+81c81,82
+<             configInfo = "connection profile form 'profile.local' or set in code - " + profile.getName();
+---
+>             configInfo = "connection profile form 'profile.local' or set in code - " + profile.getName
+> ();

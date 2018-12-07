@@ -1,0 +1,4 @@
+24c24
+<     public AstTableRef(AstQuery query)
+---
+>     public AstTableRef(AstQuery 	query)

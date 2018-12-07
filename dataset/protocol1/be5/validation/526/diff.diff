@@ -1,0 +1,4 @@
+74c74
+<             res.sendHtml(templateEngine.process(reqWithoutContext + "index", getContext(req)));
+---
+>             res.sendHtml(templateEngine.process(reqWithoutContext +"index", getContext(req)));

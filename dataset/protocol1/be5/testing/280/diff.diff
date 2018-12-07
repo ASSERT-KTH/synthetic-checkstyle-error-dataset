@@ -1,0 +1,4 @@
+66c66
+<         localizations = CompiledLocalizations.from(projectProvider.get());
+---
+>         localizations 	= CompiledLocalizations.from(projectProvider.get());

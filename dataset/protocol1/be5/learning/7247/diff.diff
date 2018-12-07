@@ -1,0 +1,4 @@
+37c37
+<     public List<String> getAvailableRoles()
+---
+>     public List<String>getAvailableRoles()

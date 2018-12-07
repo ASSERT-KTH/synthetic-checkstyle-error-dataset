@@ -1,0 +1,4 @@
+96c96
+<         bind(UserInfoModelService.class).to(UserInfoModelServiceImpl.class).in(Scopes.SINGLETON);
+---
+>         bind(UserInfoModelService. class).to(UserInfoModelServiceImpl.class).in(Scopes.SINGLETON);

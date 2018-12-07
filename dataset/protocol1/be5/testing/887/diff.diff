@@ -1,0 +1,4 @@
+473c473
+<         _res.updateInt(columnIndex, x);
+---
+>         _res.updateInt(columnIndex, x );

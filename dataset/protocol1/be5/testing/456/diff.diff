@@ -1,0 +1,5 @@
+699,700c699
+<     public void cancelRowUpdates() throws SQLException
+<     {
+---
+>     public void cancelRowUpdates() throws SQLException    {

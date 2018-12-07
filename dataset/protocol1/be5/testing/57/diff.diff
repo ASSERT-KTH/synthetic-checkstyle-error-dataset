@@ -1,0 +1,5 @@
+351c351,352
+<     public void afterLast() throws SQLException
+---
+>     public void afterLast
+> () throws SQLException

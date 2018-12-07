@@ -1,0 +1,5 @@
+45c45,46
+<         FilterInfo filterInfo = new FilterInfo(getOperationParamsInfo(query, parameters));
+---
+>         FilterInfo filterInfo = new FilterInfo(getOperationParamsInfo(query, parameters))
+> ;

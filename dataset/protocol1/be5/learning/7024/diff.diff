@@ -1,0 +1,5 @@
+11c11,12
+< import static com.developmentontheedge.be5.base.model.groovy.DynamicPropertyUtils.beanInfoConstants;
+---
+> import static 
+> com.developmentontheedge.be5.base.model.groovy.DynamicPropertyUtils.beanInfoConstants;

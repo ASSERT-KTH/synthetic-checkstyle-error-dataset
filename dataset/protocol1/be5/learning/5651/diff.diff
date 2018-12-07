@@ -1,0 +1,4 @@
+71c71
+<                 if (columnTableName.equals(tableName) || columnTableName.equals(table.getTable()))
+---
+>                 if (columnTableName.equals(tableName) || columnTableName.equals(table	.getTable()))

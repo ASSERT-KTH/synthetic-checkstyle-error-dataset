@@ -1,0 +1,4 @@
+74c74
+<                 return Arrays.asList(((String) params.get(SEARCH_PRESETS_PARAM)).split(","));
+---
+>                 return Arrays.asList(((String) params.get(SEARCH_PRESETS_PARAM)). split(","));

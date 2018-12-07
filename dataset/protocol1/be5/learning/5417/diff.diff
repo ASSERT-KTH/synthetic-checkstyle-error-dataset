@@ -1,0 +1,4 @@
+22c22
+<     public AstColumnList(AstIdentifierConstant... childs)
+---
+>     public AstColumnList (AstIdentifierConstant... childs)

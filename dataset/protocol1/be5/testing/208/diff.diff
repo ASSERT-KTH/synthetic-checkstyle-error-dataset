@@ -1,0 +1,5 @@
+115c115,116
+<             String datePart = child instanceof AstFieldReference ? ((AstIdentifierConstant) child.child(0)).getValue() : "";
+---
+>             String datePart = child instanceof AstFieldReference ? ((AstIdentifierConstant) 
+> child.child(0)).getValue() : "";

@@ -1,0 +1,4 @@
+73c73
+<         return documentGenerator.getDocument(query, parameters);
+---
+>         return documentGenerator.getDocument (query, parameters);

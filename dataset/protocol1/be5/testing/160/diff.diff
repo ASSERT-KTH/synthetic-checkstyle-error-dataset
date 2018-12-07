@@ -1,0 +1,4 @@
+957c957
+<     public SQLXML getSQLXML(String columnLabel) throws SQLException
+---
+>     public SQLXML getSQLXML(String columnLabel ) throws SQLException

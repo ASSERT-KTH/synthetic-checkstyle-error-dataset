@@ -1,0 +1,4 @@
+81c81
+<         Map<String, Object> map = new HashMap<>(properties);
+---
+>         Map<String , Object> map = new HashMap<>(properties);

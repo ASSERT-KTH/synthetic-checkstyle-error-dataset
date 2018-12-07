@@ -1,0 +1,5 @@
+35,36c35
+<     public JsonApiModel generateJson(Request req, Response res, String name)
+<     {
+---
+>     public JsonApiModel generateJson(Request req, Response res, String name)    {

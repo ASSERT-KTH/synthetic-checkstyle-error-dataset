@@ -1,0 +1,4 @@
+22c22
+< public class StaticPageController extends JsonApiModelController
+---
+> public class StaticPageController extends 	JsonApiModelController

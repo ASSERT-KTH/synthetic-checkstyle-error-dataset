@@ -1,0 +1,4 @@
+7c7
+<     private static final String VALUE_PREFIX = "$";
+---
+>     private static final String VALUE_PREFIX = "$" ;

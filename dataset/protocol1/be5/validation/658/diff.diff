@@ -1,0 +1,4 @@
+4c4
+< import com.developmentontheedge.be5.query.model.RowModel;
+---
+> 	import com.developmentontheedge.be5.query.model.RowModel;

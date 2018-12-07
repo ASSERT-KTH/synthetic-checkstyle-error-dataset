@@ -1,0 +1,4 @@
+53c53
+<             configInfo = "xml context : " + "'jdbc/" + project.getAppName() + "'";
+---
+>             configInfo = "xml context : " + "'jdbc/" + project.getAppName()+ "'";

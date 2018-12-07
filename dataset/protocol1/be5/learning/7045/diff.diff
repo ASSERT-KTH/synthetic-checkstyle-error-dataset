@@ -1,0 +1,4 @@
+33c33
+<         return children().select(AstTableRef.class);
+---
+>         return children().select(AstTableRef.class) ;

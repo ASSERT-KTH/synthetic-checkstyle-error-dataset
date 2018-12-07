@@ -1,0 +1,4 @@
+250c250
+<             if (stage == Stage.DEVELOPMENT) log.log(Level.SEVERE, "Error in queryBuilder", e);
+---
+>             if (stage 	== Stage.DEVELOPMENT) log.log(Level.SEVERE, "Error in queryBuilder", e);

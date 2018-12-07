@@ -1,0 +1,4 @@
+38c38
+<     public Session getSession()
+---
+>     	public Session getSession()

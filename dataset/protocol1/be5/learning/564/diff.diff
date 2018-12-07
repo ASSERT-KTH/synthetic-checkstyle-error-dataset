@@ -1,0 +1,5 @@
+289,290c289
+<         if (parse.getQuery().children().select(AstInsert.class).findAny().isPresent())
+<         {
+---
+>         if (parse.getQuery().children().select(AstInsert.class).findAny().isPresent())        {

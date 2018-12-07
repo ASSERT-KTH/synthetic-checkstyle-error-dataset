@@ -1,0 +1,4 @@
+63c63
+<             if (tags.length > 0) result.add(new FilterItem(entityTitle, tags[0][1]));
+---
+>             if (tags.length > 0) 	result.add(new FilterItem(entityTitle, tags[0][1]));

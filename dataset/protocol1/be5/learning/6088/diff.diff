@@ -1,0 +1,4 @@
+83c83
+<     public static void registerMetaClass(Class<? extends MetaClass> metaClazz, Class<?> clazz)
+---
+>     public static void registerMetaClass(Class< ? extends MetaClass> metaClazz, Class<?> clazz)

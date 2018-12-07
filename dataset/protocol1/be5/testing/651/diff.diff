@@ -1,0 +1,4 @@
+22c22
+<             for (int i = 1; i <= rs.getMetaData().getColumnCount(); i++)
+---
+>             for (int 	i = 1; i <= rs.getMetaData().getColumnCount(); i++)

@@ -1,0 +1,4 @@
+234c234
+<         declareFunction(context, 0, "NOW");
+---
+>         declareFunction (context, 0, "NOW");

@@ -1,0 +1,4 @@
+64c64
+<         for (Map.Entry<String, Object> attribute : map.entrySet())
+---
+>         for (Map.Entry<String, Object> attribute 	: map.entrySet())

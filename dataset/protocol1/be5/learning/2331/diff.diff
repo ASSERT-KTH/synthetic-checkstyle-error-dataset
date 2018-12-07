@@ -1,0 +1,5 @@
+45c45,46
+<     public void jjtAddChild(Node n, int i);
+---
+>     
+> public void jjtAddChild(Node n, int i);

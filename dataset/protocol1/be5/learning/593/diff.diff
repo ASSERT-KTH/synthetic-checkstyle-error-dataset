@@ -1,0 +1,4 @@
+150c150
+<         return query.getType() == QueryType.STATIC && (query.getQuery() != null && query.getQuery().startsWith("viewBlob?"));
+---
+>         return query.getType() == QueryType.STATIC &&(query.getQuery() != null && query.getQuery().startsWith("viewBlob?"));

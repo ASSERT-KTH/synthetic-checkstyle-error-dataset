@@ -1,0 +1,4 @@
+34c34
+<     public AstFunNode(Function fn)
+---
+>     public AstFunNode(Function fn )

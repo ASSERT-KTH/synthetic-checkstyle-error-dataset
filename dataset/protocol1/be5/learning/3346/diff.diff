@@ -1,0 +1,5 @@
+64c64,65
+<                 if (entry.getValue() instanceof JsonPrimitive)
+---
+>                 if (entry.getValue() 
+> instanceof JsonPrimitive)

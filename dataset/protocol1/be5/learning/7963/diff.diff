@@ -1,0 +1,4 @@
+15c15
+<     public AstBeCondition(int id)
+---
+>     public AstBeCondition(int id )

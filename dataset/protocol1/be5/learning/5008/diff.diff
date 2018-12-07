@@ -1,0 +1,4 @@
+7c7
+<     FORMAT_DATETIME("'YYYY-MM-DD HH24:MI:SS'", "'%Y-%m-%d %H:%i:%S'"),
+---
+>     FORMAT_DATETIME("'YYYY-MM-DD HH24:MI:SS'" , "'%Y-%m-%d %H:%i:%S'"),

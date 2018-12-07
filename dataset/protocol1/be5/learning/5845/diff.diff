@@ -1,0 +1,4 @@
+70c70
+<     public SimpleNode getValue(Dbms dbms)
+---
+>     public SimpleNode getValue(Dbms dbms )

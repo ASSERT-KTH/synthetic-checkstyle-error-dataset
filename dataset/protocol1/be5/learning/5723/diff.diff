@@ -1,0 +1,4 @@
+74c74
+<         int subIndex = requestUri.indexOf('/', apiWithContext.length());
+---
+>         int 	subIndex = requestUri.indexOf('/', apiWithContext.length());

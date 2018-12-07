@@ -1,0 +1,5 @@
+489c489,490
+<         query.setQuery(sql);
+---
+>         query.setQuery(sql)
+> ;

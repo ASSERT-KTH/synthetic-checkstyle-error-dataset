@@ -1,0 +1,4 @@
+205c205
+<         return calendar != null ? calendar.equals(that.calendar) : that.calendar == null;
+---
+>         return 	calendar != null ? calendar.equals(that.calendar) : that.calendar == null;

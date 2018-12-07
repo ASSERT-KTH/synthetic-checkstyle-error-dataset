@@ -1,0 +1,4 @@
+50c50
+<         this.childrenDelimiter = asToken ? "AS" : null;
+---
+>         this.childrenDelimiter = asToken ?"AS" : null;

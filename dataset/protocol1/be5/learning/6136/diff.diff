@@ -1,0 +1,5 @@
+48c48,49
+<             connectionUrl = conn.getMetaData().getURL();
+---
+>             connectionUrl = 
+> conn.getMetaData().getURL();

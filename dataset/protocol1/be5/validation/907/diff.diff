@@ -1,0 +1,4 @@
+15c15
+<     public static boolean isNumber(String className)
+---
+>     public static 	boolean isNumber(String className)

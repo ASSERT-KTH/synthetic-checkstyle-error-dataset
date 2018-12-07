@@ -1,0 +1,5 @@
+5,6c5
+< import com.developmentontheedge.be5.base.services.UserAwareMeta;
+< import com.developmentontheedge.be5.base.services.UserInfoProvider;
+---
+> import com.developmentontheedge.be5.base.services.UserAwareMeta;import com.developmentontheedge.be5.base.services.UserInfoProvider;

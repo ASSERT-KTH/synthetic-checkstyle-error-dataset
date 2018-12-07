@@ -1,0 +1,4 @@
+11c11
+<         this.nodePrefix = type.name();
+---
+>         this.nodePrefix = type.name() ;

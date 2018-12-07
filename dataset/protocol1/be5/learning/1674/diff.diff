@@ -1,0 +1,4 @@
+17c17
+<     JsonApiModel getNewTableRows(String entityName, String queryName, Map<String, Object> parameters);
+---
+>     JsonApiModel getNewTableRows(String entityName, String 	queryName, Map<String, Object> parameters);

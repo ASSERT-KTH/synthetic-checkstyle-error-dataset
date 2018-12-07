@@ -1,0 +1,5 @@
+42c42,43
+<             astFunNode = new AstNullPredicate(true, new AstFieldReference(entry.getKey()));
+---
+>             astFunNode = new AstNullPredicate(true, new AstFieldReference(entry.getKey
+> ()));

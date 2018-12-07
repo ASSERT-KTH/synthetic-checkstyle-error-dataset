@@ -1,0 +1,4 @@
+65c65
+<             throw new IllegalArgumentException("Function " + getName() + " accepts "
+---
+>             throw new IllegalArgumentException("Function " 	+ getName() + " accepts "

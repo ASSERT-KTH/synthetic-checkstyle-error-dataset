@@ -1,0 +1,4 @@
+38c38
+< import static com.developmentontheedge.be5.base.FrontendConstants.TABLE_ACTION;
+---
+> import static com.developmentontheedge. be5.base.FrontendConstants.TABLE_ACTION;

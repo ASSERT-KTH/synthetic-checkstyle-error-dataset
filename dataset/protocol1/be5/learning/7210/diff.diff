@@ -1,0 +1,5 @@
+31c31,32
+<     public <T extends DynamicPropertySet> T processFilterParams(T dps, Map<String, Object> presetValues,
+---
+>     public <T 
+> extends DynamicPropertySet> T processFilterParams(T dps, Map<String, Object> presetValues,

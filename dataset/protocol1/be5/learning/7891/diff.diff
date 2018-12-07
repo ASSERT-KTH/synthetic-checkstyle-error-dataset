@@ -1,0 +1,4 @@
+41c41
+<     <T> T execute(SqlExecutor<T> executor);
+---
+>     <T> T execute( SqlExecutor<T> executor);

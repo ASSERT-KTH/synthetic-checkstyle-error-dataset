@@ -1,0 +1,4 @@
+5c5
+< import javax.mail.internet.MimeMessage;
+---
+> import 	javax.mail.internet.MimeMessage;

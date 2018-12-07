@@ -1,0 +1,5 @@
+53c53,54
+<     public Object getProperty(Object object, String property)
+---
+>     public 
+> Object getProperty(Object object, String property)

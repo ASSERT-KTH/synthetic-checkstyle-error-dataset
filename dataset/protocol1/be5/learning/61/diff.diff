@@ -1,0 +1,5 @@
+16c16,17
+<         this(SqlParserTreeConstants.JJTWINDOWSPECIFICATION);
+---
+>         
+> this(SqlParserTreeConstants.JJTWINDOWSPECIFICATION);

@@ -1,0 +1,4 @@
+413c413
+<         cal2.setTime(date2);
+---
+>         cal2	.setTime(date2);

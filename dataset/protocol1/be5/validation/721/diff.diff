@@ -1,0 +1,4 @@
+24c24
+<         AstBeParameterList list = this.children().select(AstBeParameterList.class).findFirst().get();
+---
+>         AstBeParameterList 	list = this.children().select(AstBeParameterList.class).findFirst().get();

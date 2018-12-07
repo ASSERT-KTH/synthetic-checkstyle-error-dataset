@@ -1,0 +1,4 @@
+22c22
+<         Map<String, Object> layout = LayoutUtils.getLayoutObject(getInfo().getModel());
+---
+>         Map<String, Object> layout 	= LayoutUtils.getLayoutObject(getInfo().getModel());

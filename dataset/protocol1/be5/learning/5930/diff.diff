@@ -1,0 +1,4 @@
+56c56
+<             log.info("Dev roles added - " + ModuleLoader2.getDevRoles().toString());
+---
+>             log.info( "Dev roles added - " + ModuleLoader2.getDevRoles().toString());

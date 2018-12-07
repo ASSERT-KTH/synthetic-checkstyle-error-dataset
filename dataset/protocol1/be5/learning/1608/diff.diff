@@ -1,0 +1,4 @@
+32c32
+<     protected ArrayList<String> messages = new ArrayList<>();
+---
+>     protected ArrayList< String> messages = new ArrayList<>();

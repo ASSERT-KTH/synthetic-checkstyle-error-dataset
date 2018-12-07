@@ -1,0 +1,5 @@
+17c17,18
+<     public void setSuffixComma(boolean suffixComma)
+---
+>     public 
+> void setSuffixComma(boolean suffixComma)

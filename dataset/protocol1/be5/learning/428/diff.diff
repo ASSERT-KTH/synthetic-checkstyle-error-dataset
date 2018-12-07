@@ -1,0 +1,5 @@
+27c27,28
+< import static com.developmentontheedge.be5.base.FrontendConstants.OPERATION_RESULT;
+---
+> import 
+> static com.developmentontheedge.be5.base.FrontendConstants.OPERATION_RESULT;

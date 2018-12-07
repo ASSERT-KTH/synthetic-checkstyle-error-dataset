@@ -1,0 +1,4 @@
+24c24
+<     <T> List<T> list(String sql, ResultSetParser<T> parser, Object... params);
+---
+>     <T> List<T>list(String sql, ResultSetParser<T> parser, Object... params);

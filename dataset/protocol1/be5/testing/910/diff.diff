@@ -1,0 +1,5 @@
+963,964c963
+<     public void updateSQLXML(int columnIndex, SQLXML xmlObject) throws SQLException
+<     {
+---
+>     public void updateSQLXML(int columnIndex, SQLXML xmlObject) throws SQLException    {

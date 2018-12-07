@@ -1,0 +1,5 @@
+231c231,232
+<         static RootNode action(Id id, String title, boolean isDefault, Action action, List<OperationNode> operations)
+---
+>         static 
+> RootNode action(Id id, String title, boolean isDefault, Action action, List<OperationNode> operations)

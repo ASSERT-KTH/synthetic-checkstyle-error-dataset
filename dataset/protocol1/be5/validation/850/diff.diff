@@ -1,0 +1,5 @@
+29c29,30
+<         Builder<CellModel> builder = ImmutableList.builder();
+---
+>         Builder<CellModel> 
+> builder = ImmutableList.builder();

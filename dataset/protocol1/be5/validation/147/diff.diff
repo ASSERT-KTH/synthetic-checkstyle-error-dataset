@@ -1,0 +1,4 @@
+50c50
+<         ServletContextTemplateResolver templateResolver = new ServletContextTemplateResolver(servletContext);
+---
+>         ServletContextTemplateResolver templateResolver = 	new ServletContextTemplateResolver(servletContext);

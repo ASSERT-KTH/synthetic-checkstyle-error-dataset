@@ -1,0 +1,5 @@
+8c8,9
+<     public PredefinedFunction(String name, int priority, int numberOfParameters)
+---
+>     public PredefinedFunction(String name, int priority
+> , int numberOfParameters)

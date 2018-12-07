@@ -1,0 +1,5 @@
+20c20,21
+<         return new AstLimit().setLimit(offset, count);
+---
+>         return new AstLimit
+> ().setLimit(offset, count);

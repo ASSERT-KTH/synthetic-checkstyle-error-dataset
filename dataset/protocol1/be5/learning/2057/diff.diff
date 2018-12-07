@@ -1,0 +1,5 @@
+30c30,31
+<         List<String> contextParamNames = Arrays.asList(((String) operationParams.get(SEARCH_PRESETS_PARAM)).split(","));
+---
+>         List<String> contextParamNames 
+> = Arrays.asList(((String) operationParams.get(SEARCH_PRESETS_PARAM)).split(","));

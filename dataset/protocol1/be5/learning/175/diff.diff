@@ -1,0 +1,5 @@
+5,6c5
+< import com.developmentontheedge.be5.server.model.TablePresentation;
+< import com.developmentontheedge.be5.server.model.jsonapi.JsonApiModel;
+---
+> import com.developmentontheedge.be5.server.model.TablePresentation;import com.developmentontheedge.be5.server.model.jsonapi.JsonApiModel;

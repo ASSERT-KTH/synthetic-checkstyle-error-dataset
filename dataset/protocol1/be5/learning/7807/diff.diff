@@ -1,0 +1,4 @@
+25c25
+<         return ((AstStringConstant) child(0)).getValueUnescaped();
+---
+>         return ((AstStringConstant) child( 0)).getValueUnescaped();

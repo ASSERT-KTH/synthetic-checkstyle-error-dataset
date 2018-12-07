@@ -1,0 +1,5 @@
+39,40c39
+<     public Token getDirectionToken()
+<     {
+---
+>     public Token getDirectionToken()    {

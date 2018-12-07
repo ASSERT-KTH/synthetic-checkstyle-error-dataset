@@ -1,0 +1,4 @@
+91c91
+<         bind(DocumentGenerator.class).to(DocumentGeneratorImpl.class).in(Scopes.SINGLETON);
+---
+>         bind(DocumentGenerator.class).to(DocumentGeneratorImpl.class).in (Scopes.SINGLETON);

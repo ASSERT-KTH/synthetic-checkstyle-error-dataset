@@ -1,0 +1,4 @@
+12c12
+<     Connection getConnection() throws SQLException;
+---
+>     Connection getConnection() 	throws SQLException;

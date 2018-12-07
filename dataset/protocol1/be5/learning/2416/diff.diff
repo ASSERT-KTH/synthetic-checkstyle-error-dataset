@@ -1,0 +1,5 @@
+5c5,6
+< public class AstParenthesis extends SimpleNode
+---
+> public class AstParenthesis 
+> extends SimpleNode

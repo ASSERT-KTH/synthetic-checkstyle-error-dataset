@@ -1,0 +1,5 @@
+24c24,25
+<     public static final String ACTION_SERVLET = "servlet";
+---
+>     public 
+> static final String ACTION_SERVLET = "servlet";

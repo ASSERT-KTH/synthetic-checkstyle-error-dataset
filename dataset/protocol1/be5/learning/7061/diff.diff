@@ -1,0 +1,4 @@
+157c157
+<         List<QueryNode> children = new ArrayList<>();
+---
+>         List< QueryNode> children = new ArrayList<>();

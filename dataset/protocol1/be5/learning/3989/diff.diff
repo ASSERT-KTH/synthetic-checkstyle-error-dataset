@@ -1,0 +1,4 @@
+141c141
+<         private List<FilterItem> operationParamsInfo;
+---
+>         private List <FilterItem> operationParamsInfo;

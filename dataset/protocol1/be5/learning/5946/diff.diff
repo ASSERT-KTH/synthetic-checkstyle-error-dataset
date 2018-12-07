@@ -1,0 +1,4 @@
+70c70
+<         if (type != null) dp.setType(type);
+---
+>         if (type != null) dp	.setType(type);

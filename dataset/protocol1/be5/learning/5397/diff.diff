@@ -1,0 +1,4 @@
+89c89
+<         node.replaceWith(astCase);
+---
+>         node.replaceWith(astCase );

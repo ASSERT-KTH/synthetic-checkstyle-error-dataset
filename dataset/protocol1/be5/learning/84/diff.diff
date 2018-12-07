@@ -1,0 +1,4 @@
+169c169
+<             return error(errorModelHelper.getErrorModel(Be5Exception.accessDenied("Role " + RoleType.ROLE_SYSTEM_DEVELOPER + " required."),
+---
+>             return error(errorModelHelper.getErrorModel(Be5Exception.accessDenied("Role " + RoleType.ROLE_SYSTEM_DEVELOPER+ " required."),

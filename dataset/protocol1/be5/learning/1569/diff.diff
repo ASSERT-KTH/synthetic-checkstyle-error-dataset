@@ -1,0 +1,4 @@
+36c36
+<     public String getSession()
+---
+>     	public String getSession()

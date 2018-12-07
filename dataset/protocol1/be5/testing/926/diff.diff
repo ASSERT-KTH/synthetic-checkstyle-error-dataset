@@ -1,0 +1,4 @@
+30c30
+<     public String getPlaceHolder()
+---
+>     public String getPlaceHolder ()

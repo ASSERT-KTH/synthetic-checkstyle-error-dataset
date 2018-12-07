@@ -1,0 +1,5 @@
+86,87c86
+<     default Long[] longArray(String sql, Object... params)
+<     {
+---
+>     default Long[] longArray(String sql, Object... params)    {

@@ -1,0 +1,4 @@
+39c39
+<             generate(req, res);
+---
+>             generate(req, res );

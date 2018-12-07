@@ -1,0 +1,4 @@
+15c15
+<     public QuerySessionImpl(Provider<HttpSession> session)
+---
+>     public QuerySessionImpl( Provider<HttpSession> session)

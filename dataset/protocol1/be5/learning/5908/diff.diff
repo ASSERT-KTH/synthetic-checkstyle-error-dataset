@@ -1,0 +1,5 @@
+3c3,4
+< import java.sql.ResultSet;
+---
+> import 
+> java.sql.ResultSet;

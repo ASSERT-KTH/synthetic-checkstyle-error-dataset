@@ -1,0 +1,4 @@
+1c1
+< package com.developmentontheedge.be5.base.model.groovy;
+---
+> package com.developmentontheedge	.be5.base.model.groovy;

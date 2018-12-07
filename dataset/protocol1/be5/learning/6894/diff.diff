@@ -1,0 +1,4 @@
+14c14
+< public class StAXStreamProcessor implements Closeable
+---
+> public class StAXStreamProcessor implements 	Closeable

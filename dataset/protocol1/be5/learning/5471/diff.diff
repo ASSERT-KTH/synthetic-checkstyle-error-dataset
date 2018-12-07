@@ -1,0 +1,5 @@
+15,16c15
+< import com.developmentontheedge.sql.model.AstPosition;
+< import com.developmentontheedge.sql.model.AstSelect;
+---
+> import com.developmentontheedge.sql.model.AstPosition;import com.developmentontheedge.sql.model.AstSelect;

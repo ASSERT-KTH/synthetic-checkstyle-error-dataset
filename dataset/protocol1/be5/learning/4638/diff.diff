@@ -1,0 +1,4 @@
+63c63
+<             if (child instanceof AstIdentifierConstant && ((AstIdentifierConstant) child).getValue().equals(target.getValue()))
+---
+>             if (child instanceof AstIdentifierConstant && ( (AstIdentifierConstant) child).getValue().equals(target.getValue()))

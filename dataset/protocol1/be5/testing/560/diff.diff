@@ -1,0 +1,4 @@
+20c20
+<         node.replaceWith(DATEADD.node(new AstIdentifierConstant(type), number, date));
+---
+>         node.replaceWith(DATEADD.node(new AstIdentifierConstant(type) , number, date));

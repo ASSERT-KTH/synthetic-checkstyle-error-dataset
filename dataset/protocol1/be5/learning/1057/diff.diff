@@ -1,0 +1,4 @@
+162c162
+<         position.replaceWith(parserContext.getFunction("instr").node(position.child(1), position.child(0)));
+---
+>         position.replaceWith(parserContext.getFunction("instr").node(position.child(1), position. child(0)));

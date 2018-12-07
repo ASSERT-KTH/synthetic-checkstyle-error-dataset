@@ -1,0 +1,5 @@
+40c40,41
+<         return limit == null ? null : Integer.valueOf(limit);
+---
+>         return limit == null ? null : 
+> Integer.valueOf(limit);

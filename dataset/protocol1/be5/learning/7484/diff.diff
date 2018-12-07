@@ -1,0 +1,5 @@
+134c134,135
+<     private <T> T query(Connection conn, AstStart astStart, ResultSetHandler<T> rsh, Object... params) throws SQLException
+---
+>     private <T> T query(Connection conn, AstStart astStart, ResultSetHandler<T> rsh, Object
+> ... params) throws SQLException

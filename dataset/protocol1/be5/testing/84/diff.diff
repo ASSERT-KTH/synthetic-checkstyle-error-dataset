@@ -1,0 +1,4 @@
+147c147
+<         return localizations.get(getLanguage(), "messages.l10n", "validation", message).orElse(message);
+---
+>         return localizations.get(getLanguage (), "messages.l10n", "validation", message).orElse(message);

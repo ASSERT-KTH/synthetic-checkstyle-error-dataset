@@ -1,0 +1,4 @@
+15c15
+<     public static final MonthlyDate MIN_VALUE = new MonthlyDate(1900, 1);
+---
+>     public static final MonthlyDate 	MIN_VALUE = new MonthlyDate(1900, 1);

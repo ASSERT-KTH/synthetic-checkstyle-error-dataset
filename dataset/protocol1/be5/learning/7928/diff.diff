@@ -1,0 +1,4 @@
+40c40
+<                 int updateCount1 = database.getEntity(reference.getTableFrom())
+---
+>                 int updateCount1 	= database.getEntity(reference.getTableFrom())

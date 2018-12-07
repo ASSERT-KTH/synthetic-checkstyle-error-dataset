@@ -1,0 +1,5 @@
+14c14,15
+<         Object object = generate(req, subUrl);
+---
+>         Object object = generate
+> (req, subUrl);

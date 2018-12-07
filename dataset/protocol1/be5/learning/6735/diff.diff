@@ -1,0 +1,5 @@
+133c133,134
+<         String dateformat = child.getValue().equalsIgnoreCase("'MONTH'") ? "%Y-%m-01" : "%Y-01-01";
+---
+>         String dateformat = child.getValue().equalsIgnoreCase("'MONTH'") ? "%Y-%m-01" : 
+> "%Y-01-01";

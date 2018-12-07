@@ -1,0 +1,5 @@
+229,230c229
+<                                    Predicate<LocalizationElement> accept)
+<     {
+---
+>                                    Predicate<LocalizationElement> accept)    {

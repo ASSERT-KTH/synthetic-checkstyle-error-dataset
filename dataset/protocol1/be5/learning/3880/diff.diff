@@ -1,0 +1,5 @@
+42,43c42
+<             for (SimpleNode child : children)
+<             {
+---
+>             for (SimpleNode child : children)            {

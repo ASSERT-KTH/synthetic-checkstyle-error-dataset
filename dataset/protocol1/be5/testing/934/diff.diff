@@ -1,0 +1,4 @@
+399c399
+<     public int getFetchDirection() throws SQLException
+---
+>     public int getFetchDirection() throws 	SQLException

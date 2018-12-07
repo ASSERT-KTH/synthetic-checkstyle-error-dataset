@@ -1,0 +1,4 @@
+203c203
+<         props.setProperty("mail.transport.protocol", "smtp");
+---
+>         props. setProperty("mail.transport.protocol", "smtp");

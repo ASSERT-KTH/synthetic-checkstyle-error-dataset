@@ -1,0 +1,4 @@
+99c99
+<         return name != null ? name.equals(columnRef.name) : columnRef.name == null;
+---
+>         return name != null ? name.equals( columnRef.name) : columnRef.name == null;

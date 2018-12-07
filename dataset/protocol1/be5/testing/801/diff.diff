@@ -1,0 +1,5 @@
+19c19,20
+<         this.nodeSuffix = suffixComma ? "," : null;
+---
+>         this.nodeSuffix 
+> = suffixComma ? "," : null;

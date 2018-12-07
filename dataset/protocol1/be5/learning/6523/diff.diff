@@ -1,0 +1,4 @@
+54c54
+<             if (f.formatMySQL.equals(format) || f.formatOther.equalsIgnoreCase(format))
+---
+>             if (f.formatMySQL.equals (format) || f.formatOther.equalsIgnoreCase(format))

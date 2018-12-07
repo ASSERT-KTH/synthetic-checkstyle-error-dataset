@@ -1,0 +1,4 @@
+219c219
+<         node.setFunction(parserContext.getFunction("mod"));
+---
+>         node.setFunction(parserContext. getFunction("mod"));

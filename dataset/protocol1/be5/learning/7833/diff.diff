@@ -1,0 +1,4 @@
+5c5
+< public class AstSpecialConstant extends SimpleNode
+---
+> public class AstSpecialConstant 	extends SimpleNode

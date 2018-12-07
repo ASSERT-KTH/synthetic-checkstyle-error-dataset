@@ -1,0 +1,5 @@
+45c45,46
+<         public void setProperty(String name, Object value)
+---
+>         public 
+> void setProperty(String name, Object value)

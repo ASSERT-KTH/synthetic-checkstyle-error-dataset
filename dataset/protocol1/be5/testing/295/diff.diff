@@ -1,0 +1,4 @@
+30c30
+<     String USER_VAR_PREFIX = "user-";
+---
+>     String USER_VAR_PREFIX = "user-" ;

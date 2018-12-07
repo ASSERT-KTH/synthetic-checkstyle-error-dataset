@@ -1,0 +1,4 @@
+7c7
+<     public AstInsert(AstTableName tableName, AstColumnList columns, AstInsertValueList values)
+---
+>     public AstInsert(AstTableName tableName, AstColumnList columns, 	AstInsertValueList values)

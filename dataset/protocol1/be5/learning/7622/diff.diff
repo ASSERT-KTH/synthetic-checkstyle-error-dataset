@@ -1,0 +1,4 @@
+74c74
+<     public void setValue(String value, boolean safed)
+---
+>     public void setValue(String 	value, boolean safed)

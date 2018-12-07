@@ -1,0 +1,4 @@
+51c51
+<         final AstNumericConstant other = (AstNumericConstant) obj;
+---
+>         final AstNumericConstant other =(AstNumericConstant) obj;

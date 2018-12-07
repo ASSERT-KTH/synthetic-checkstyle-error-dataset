@@ -1,0 +1,4 @@
+24c24
+<     public void setType(String type)
+---
+>     	public void setType(String type)

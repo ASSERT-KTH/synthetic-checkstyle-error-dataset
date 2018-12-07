@@ -1,0 +1,5 @@
+150c150,151
+<             operator = new UndeclaredFunction(name, -1);
+---
+>             operator = new UndeclaredFunction(name, 
+> -1);

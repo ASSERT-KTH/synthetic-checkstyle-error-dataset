@@ -1,0 +1,5 @@
+173c173,174
+<             StackTraceElement[] stackTrace = e.getStackTrace();
+---
+>             
+> StackTraceElement[] stackTrace = e.getStackTrace();

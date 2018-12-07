@@ -1,0 +1,5 @@
+254c254,255
+<             throw Be5Exception.notFound("static/" + name);
+---
+>             
+> throw Be5Exception.notFound("static/" + name);

@@ -1,0 +1,4 @@
+18c18
+< import com.developmentontheedge.sql.model.AstWhere;
+---
+> import com.developmentontheedge.sql.model	.AstWhere;

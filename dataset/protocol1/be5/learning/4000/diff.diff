@@ -1,0 +1,5 @@
+7c7,8
+<     public AstFrameClause(int id)
+---
+>     public AstFrameClause(int 
+> id)

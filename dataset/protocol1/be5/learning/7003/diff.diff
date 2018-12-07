@@ -1,0 +1,4 @@
+24c24
+<     public void setValue(Special value)
+---
+>     public void setValue(Special 	value)

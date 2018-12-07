@@ -1,0 +1,4 @@
+25c25
+<     protected abstract Object generate(Request req, String subUrl);
+---
+>     protected abstract Object generate( Request req, String subUrl);

@@ -1,0 +1,5 @@
+85c85,86
+<     Map<String, ColumnDef> getColumns(String entityName);
+---
+>     Map<String
+> , ColumnDef> getColumns(String entityName);

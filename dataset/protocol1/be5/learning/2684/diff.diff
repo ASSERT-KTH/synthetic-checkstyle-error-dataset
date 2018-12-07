@@ -1,0 +1,4 @@
+52c52
+<     public void setOperator(Token operator)
+---
+>     public void setOperator( Token operator)

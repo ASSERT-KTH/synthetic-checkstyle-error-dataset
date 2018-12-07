@@ -1,0 +1,4 @@
+16c16
+<     FORMAT_DAY_OF_WEEK("'D'", "'%w'"),
+---
+>     FORMAT_DAY_OF_WEEK("'D'","'%w'"),

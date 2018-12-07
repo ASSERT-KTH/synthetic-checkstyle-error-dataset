@@ -1,0 +1,5 @@
+24c24,25
+<     private final Long totalNumberOfRows;
+---
+>     private final Long totalNumberOfRows
+> ;

@@ -1,0 +1,4 @@
+30c30
+<     public boolean doUntilInParent(int stopEvent, String parent) throws XMLStreamException
+---
+>     public boolean doUntilInParent(int stopEvent, String parent) 	throws XMLStreamException

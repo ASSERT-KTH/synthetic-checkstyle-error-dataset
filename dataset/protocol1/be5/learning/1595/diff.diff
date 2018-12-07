@@ -1,0 +1,5 @@
+28c28,29
+<         return format().trim();
+---
+>         return 
+> format().trim();

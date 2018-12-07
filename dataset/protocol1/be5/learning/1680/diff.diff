@@ -1,0 +1,4 @@
+14c14
+<     Map<String, Cache> getCaches();
+---
+>     Map<String,Cache> getCaches();

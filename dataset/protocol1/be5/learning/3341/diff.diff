@@ -1,0 +1,5 @@
+217c217,218
+<     private Optional<String> findLocalization(String language, String entityName, Function<CompiledEntityLocalizations, String> continuation)
+---
+>     private Optional<String> findLocalization
+> (String language, String entityName, Function<CompiledEntityLocalizations, String> continuation)

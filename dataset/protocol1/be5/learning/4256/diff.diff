@@ -1,0 +1,5 @@
+65c65,66
+<                 throw new IllegalArgumentException("Unknown DBMS " + s
+---
+>                 throw 
+> new IllegalArgumentException("Unknown DBMS " + s

@@ -1,0 +1,5 @@
+35,36c35
+<         if (oldWhere == null)
+<         {
+---
+>         if (oldWhere == null)        {

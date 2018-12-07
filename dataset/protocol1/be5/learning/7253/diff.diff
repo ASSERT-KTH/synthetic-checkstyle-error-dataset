@@ -1,0 +1,5 @@
+9,10c9
+< import static com.developmentontheedge.be5.base.FrontendConstants.SEARCH_PARAM;
+< import static com.developmentontheedge.be5.base.FrontendConstants.SEARCH_PRESETS_PARAM;
+---
+> import static com.developmentontheedge.be5.base.FrontendConstants.SEARCH_PARAM;import static com.developmentontheedge.be5.base.FrontendConstants.SEARCH_PRESETS_PARAM;

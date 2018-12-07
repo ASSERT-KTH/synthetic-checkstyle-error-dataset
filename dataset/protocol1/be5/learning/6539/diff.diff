@@ -1,0 +1,4 @@
+5c5
+< public class AstBooleanExpression extends AstFunNode implements Squasheable
+---
+> public class AstBooleanExpression 	extends AstFunNode implements Squasheable

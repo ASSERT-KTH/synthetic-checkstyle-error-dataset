@@ -1,0 +1,4 @@
+13c13
+<         if (!entityItem.getLayout().isEmpty())
+---
+>         if (!entityItem.getLayout().isEmpty() )

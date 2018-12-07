@@ -1,0 +1,5 @@
+5,6c5
+< {
+< //    String CONNECTOR = "connector";
+---
+> {//    String CONNECTOR = "connector";

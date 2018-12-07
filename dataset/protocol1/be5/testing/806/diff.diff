@@ -1,0 +1,5 @@
+18c18,19
+<     private Map<String, String> substMap = null;
+---
+>     private Map<String, 
+> String> substMap = null;

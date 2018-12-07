@@ -1,0 +1,4 @@
+101c101
+<         AstInterval monthInterval = new AstInterval(new AstStringConstant("1 MONTH"));
+---
+>         AstInterval monthInterval = new 	AstInterval(new AstStringConstant("1 MONTH"));

@@ -1,0 +1,4 @@
+161c161
+<         context.declareFunction(new DbSpecificFunction(new PredefinedFunction(REGEXP_MATCH, Function.RELATIONAL_PRIORITY, 2), Dbms.POSTGRESQL, Dbms.MYSQL, Dbms.ORACLE));
+---
+>         context.declareFunction(new DbSpecificFunction(new PredefinedFunction(REGEXP_MATCH, Function.RELATIONAL_PRIORITY, 2) , Dbms.POSTGRESQL, Dbms.MYSQL, Dbms.ORACLE));

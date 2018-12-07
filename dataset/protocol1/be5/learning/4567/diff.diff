@@ -1,0 +1,5 @@
+64c64,65
+<             dps.setValue(propertyName, processValue(value, dps.getProperty(propertyName).getType()));
+---
+>             dps.setValue(propertyName, 
+> processValue(value, dps.getProperty(propertyName).getType()));

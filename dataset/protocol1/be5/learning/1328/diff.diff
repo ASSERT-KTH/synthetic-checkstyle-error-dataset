@@ -1,0 +1,4 @@
+12c12
+<     public AstSpecialConstant(int id)
+---
+>     	public AstSpecialConstant(int id)

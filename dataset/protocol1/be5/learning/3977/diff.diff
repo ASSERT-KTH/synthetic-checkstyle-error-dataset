@@ -1,0 +1,5 @@
+37c37,38
+<             if (clazz == Integer.class && object.getClass() == Long.class)
+---
+>             if (clazz == Integer.class && object.getClass() 
+> == Long.class)

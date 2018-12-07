@@ -1,0 +1,4 @@
+438c438
+<                 if (specialPrefix != null && node.specialPrefix == null)
+---
+>                 if (specialPrefix !=null && node.specialPrefix == null)

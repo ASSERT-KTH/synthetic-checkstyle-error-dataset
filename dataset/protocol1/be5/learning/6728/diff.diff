@@ -1,0 +1,5 @@
+27,28c27
+<     protected DynamicPropertySet getFilterParameters(Map<String, Object> presetValues) throws Exception
+<     {
+---
+>     protected DynamicPropertySet getFilterParameters(Map<String, Object> presetValues) throws Exception    {

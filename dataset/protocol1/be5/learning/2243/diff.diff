@@ -1,0 +1,5 @@
+57c57,58
+<             queryError(query, parameters, startTime, System.currentTimeMillis(), e.getMessage());
+---
+>             queryError(query, parameters, 
+> startTime, System.currentTimeMillis(), e.getMessage());

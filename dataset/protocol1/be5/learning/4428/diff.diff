@@ -1,0 +1,4 @@
+35c35
+<             DynamicProperty prop = ((T) object).getProperty(property);
+---
+>             DynamicProperty 	prop = ((T) object).getProperty(property);

@@ -1,0 +1,4 @@
+58c58
+<         bind(QuerySession.class).to(QuerySessionImpl.class).in(Scopes.SINGLETON);
+---
+>         bind(QuerySession.class).to(QuerySessionImpl.class ).in(Scopes.SINGLETON);

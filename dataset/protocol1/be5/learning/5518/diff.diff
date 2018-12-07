@@ -1,0 +1,5 @@
+19,20c19
+<         if (status > Parser.STATUS_OK && messages != null)
+<         {
+---
+>         if (status > Parser.STATUS_OK && messages != null)        {

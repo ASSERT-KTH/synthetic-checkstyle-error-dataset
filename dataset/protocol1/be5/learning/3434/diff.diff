@@ -1,0 +1,4 @@
+75c75
+<             setResult(OperationResult.finished(out.toString()));
+---
+>             setResult (OperationResult.finished(out.toString()));

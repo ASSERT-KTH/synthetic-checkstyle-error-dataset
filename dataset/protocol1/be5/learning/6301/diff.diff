@@ -1,0 +1,4 @@
+90c90
+<             SimpleNode replacement = i < node.jjtGetNumChildren() ? node.child(i++)
+---
+>             SimpleNode replacement = i < node. jjtGetNumChildren() ? node.child(i++)

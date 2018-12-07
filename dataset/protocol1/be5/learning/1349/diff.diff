@@ -1,0 +1,5 @@
+68c68,69
+<     protected void transformDecode(AstFunNode node)
+---
+>     protected void transformDecode(AstFunNode 
+> node)

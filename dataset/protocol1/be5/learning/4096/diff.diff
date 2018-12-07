@@ -1,0 +1,4 @@
+68c68
+<         getTableNode().setValue(table);
+---
+>         	getTableNode().setValue(table);

@@ -1,0 +1,4 @@
+7c7
+<     public AstHaving(int id)
+---
+>     public AstHaving( int id)

@@ -1,0 +1,5 @@
+126c126,127
+<         context.declareFunction(op);
+---
+>         context.declareFunction(op)
+> ;

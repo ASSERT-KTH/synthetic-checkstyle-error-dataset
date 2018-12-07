@@ -1,0 +1,4 @@
+94c94
+<             collectEntityContent(entity, language, roles, withIds, withoutInvisible, out);
+---
+>             collectEntityContent(entity, language, roles, withIds, withoutInvisible , out);

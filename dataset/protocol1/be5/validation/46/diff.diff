@@ -1,0 +1,4 @@
+42c42
+<         LinkedHashMap map = new LinkedHashMap(values.length / 2);
+---
+>         LinkedHashMap map = new LinkedHashMap(values.length / 	2);

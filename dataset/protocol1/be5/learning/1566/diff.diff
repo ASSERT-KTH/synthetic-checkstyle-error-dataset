@@ -1,0 +1,4 @@
+38c38
+<     Map<String, AstBeSqlSubQuery> getSubQueries();
+---
+>     	Map<String, AstBeSqlSubQuery> getSubQueries();

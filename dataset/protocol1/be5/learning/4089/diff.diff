@@ -1,0 +1,4 @@
+13c13
+<     void transformAst(AstStart start);
+---
+>     void transformAst( AstStart start);

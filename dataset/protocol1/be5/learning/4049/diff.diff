@@ -1,0 +1,5 @@
+259,260c259
+<     protected void transformIf(AstFunNode node)
+<     {
+---
+>     protected void transformIf(AstFunNode node)    {

@@ -1,0 +1,4 @@
+97c97
+<         public static Function<CompiledEntityLocalizations, String> fnGetByTopicAndKey(final String topic, final String key)
+---
+>         public static Function<CompiledEntityLocalizations, String> fnGetByTopicAndKey (final String topic, final String key)

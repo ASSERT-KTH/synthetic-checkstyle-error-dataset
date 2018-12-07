@@ -1,0 +1,5 @@
+33,34c33
+<     default boolean isAdmin()
+<     {
+---
+>     default boolean isAdmin()    {

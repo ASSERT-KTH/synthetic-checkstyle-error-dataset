@@ -1,0 +1,5 @@
+8c8,9
+< public interface DocumentPlugin
+---
+> public 
+> interface DocumentPlugin

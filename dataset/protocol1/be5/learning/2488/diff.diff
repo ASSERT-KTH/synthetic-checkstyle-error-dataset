@@ -1,0 +1,4 @@
+297c297
+<             concat.addChild(new AstStringConstant(SqlParserTreeConstants.JJTSTRINGCONSTANT));
+---
+>             concat.addChild(new AstStringConstant(SqlParserTreeConstants.JJTSTRINGCONSTANT ));

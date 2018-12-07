@@ -1,0 +1,5 @@
+95,96c95
+<     private Connection beginWorkWithTxConnection()
+<     {
+---
+>     private Connection beginWorkWithTxConnection()    {

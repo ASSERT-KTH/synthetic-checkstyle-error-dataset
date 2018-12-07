@@ -1,0 +1,5 @@
+236c236,237
+<         return localizations.getFieldTitle(getLanguage(), entityName, operationName, queryName, name).orElse(name);
+---
+>         return localizations.getFieldTitle(getLanguage(), 
+> entityName, operationName, queryName, name).orElse(name);

@@ -1,0 +1,5 @@
+432c432,433
+<     protected void transformConcat(AstFunNode node)
+---
+>     protected void transformConcat(AstFunNode 
+> node)

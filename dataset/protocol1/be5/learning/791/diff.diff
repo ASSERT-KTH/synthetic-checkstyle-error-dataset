@@ -1,0 +1,4 @@
+5c5
+< public class AstWindowSpecification extends SimpleNode
+---
+> public class AstWindowSpecification extends 	SimpleNode

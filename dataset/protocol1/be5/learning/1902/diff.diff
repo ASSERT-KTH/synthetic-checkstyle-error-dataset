@@ -1,0 +1,4 @@
+34c34
+<         String[] parts = value.split("[.]");
+---
+>         String[	] parts = value.split("[.]");

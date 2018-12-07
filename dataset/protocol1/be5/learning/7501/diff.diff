@@ -1,0 +1,4 @@
+22c22
+<     public UserInfoModelServiceImpl(MenuHelper menuHelper, UserInfoProvider userInfoProvider)
+---
+>     public UserInfoModelServiceImpl(MenuHelper menuHelper, UserInfoProvider 	userInfoProvider)

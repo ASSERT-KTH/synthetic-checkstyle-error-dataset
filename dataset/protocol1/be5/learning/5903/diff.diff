@@ -1,0 +1,5 @@
+21c21,22
+<     public static final String ACTION_QUERY_BUILDER = "queryBuilder";
+---
+>     public static final String ACTION_QUERY_BUILDER 
+> = "queryBuilder";

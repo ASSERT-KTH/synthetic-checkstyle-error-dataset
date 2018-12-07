@@ -1,0 +1,4 @@
+5c5
+< public class AstColumnList extends SimpleNode
+---
+> public class AstColumnList 	extends SimpleNode

@@ -1,0 +1,4 @@
+36c36
+<     boolean getBooleanModuleSetting(String module, String param);
+---
+>     boolean getBooleanModuleSetting(String module, 	String param);

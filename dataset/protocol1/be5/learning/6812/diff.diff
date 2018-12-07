@@ -1,0 +1,5 @@
+48c48,49
+<             log.log(Level.SEVERE, "Error in controller", e);
+---
+>             log.log(Level.SEVERE, "Error in controller", 
+> e);

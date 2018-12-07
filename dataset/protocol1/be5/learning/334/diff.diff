@@ -1,0 +1,4 @@
+33c33
+<                 !RoleType.ROLE_GUEST.equals(userInfo.getUserName()),
+---
+>                 !RoleType.ROLE_GUEST	.equals(userInfo.getUserName()),

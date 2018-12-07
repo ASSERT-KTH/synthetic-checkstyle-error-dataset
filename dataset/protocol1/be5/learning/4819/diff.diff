@@ -1,0 +1,4 @@
+20c20
+<         JsonApiModel jsonApiModel = generateJson(req, res, subUrl);
+---
+>         JsonApiModel jsonApiModel =generateJson(req, res, subUrl);

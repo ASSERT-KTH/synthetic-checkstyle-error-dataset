@@ -1,0 +1,5 @@
+70c70,71
+<     public JsonApiModel filterDocument(Query query, Map<String, Object> parameters)
+---
+>     public JsonApiModel 
+> filterDocument(Query query, Map<String, Object> parameters)

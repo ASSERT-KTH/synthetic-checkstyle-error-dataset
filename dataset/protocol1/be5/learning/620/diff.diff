@@ -1,0 +1,5 @@
+64c64,65
+<         int idx = IntStreamEx.ofIndices(children, AstSelectList.class::isInstance).findFirst().getAsInt();
+---
+>         int idx 
+> = IntStreamEx.ofIndices(children, AstSelectList.class::isInstance).findFirst().getAsInt();

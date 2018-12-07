@@ -1,0 +1,4 @@
+51c51
+<         Map<String, Object> params = FilterUtil.getOperationParamsWithoutFilter(parameters);
+---
+>         Map<String, Object> params = FilterUtil.getOperationParamsWithoutFilter (parameters);

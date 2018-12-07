@@ -1,0 +1,5 @@
+114c114,115
+<     public static final PredefinedFunction FUNC_NOT = new PredefinedFunction(NOT_LIT, Function.UNARY_PRIORITY, 1);
+---
+>     public static final PredefinedFunction FUNC_NOT = new PredefinedFunction(NOT_LIT, 
+> Function.UNARY_PRIORITY, 1);

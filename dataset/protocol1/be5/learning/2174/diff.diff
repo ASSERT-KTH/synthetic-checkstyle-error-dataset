@@ -1,0 +1,4 @@
+205c205
+<         List<SimpleNode> flatChildren = node.children().flatMap(child -> isConcat(child) ? child.children() : Stream.of(child))
+---
+>         List<SimpleNode> flatChildren = node.children().flatMap(child -> isConcat( child) ? child.children() : Stream.of(child))

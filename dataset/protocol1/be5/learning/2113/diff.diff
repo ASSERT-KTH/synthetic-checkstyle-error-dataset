@@ -1,0 +1,5 @@
+89c89,90
+<             return ((AstFieldReference) child(0)).getValue();
+---
+>             return ((AstFieldReference) child
+> (0)).getValue();

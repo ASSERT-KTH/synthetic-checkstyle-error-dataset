@@ -1,0 +1,4 @@
+136c136
+<         return DefaultParserContext.FUNC_PLUS.node(DefaultParserContext.FUNC_TIMES.node(AstNumericConstant.of(60), new AstParenthesis(getHours(date))), MINUTE.node(date));
+---
+>         return DefaultParserContext.FUNC_PLUS.node(DefaultParserContext.FUNC_TIMES.node(AstNumericConstant.of(60), new AstParenthesis(getHours(date ))), MINUTE.node(date));

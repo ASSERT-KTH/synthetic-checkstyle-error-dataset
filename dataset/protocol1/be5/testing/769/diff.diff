@@ -1,0 +1,5 @@
+23c23,24
+<             return (ByteArrayOutputStream) out;
+---
+>             return (ByteArrayOutputStream) 
+> out;

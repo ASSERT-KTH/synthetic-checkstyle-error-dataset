@@ -1,0 +1,5 @@
+21c21,22
+<         DynamicPropertySet dps = dpsHelper.addDpExcludeAutoIncrement(new DynamicPropertySetSupport(),
+---
+>         DynamicPropertySet dps = dpsHelper.addDpExcludeAutoIncrement
+> (new DynamicPropertySetSupport(),

@@ -1,0 +1,5 @@
+113c113,114
+<         if (prev.specialSuffix == null && prevEnd != null && curStart != null && prevEnd.next != null && prevEnd.next.next == curStart)
+---
+>         if (prev.specialSuffix == null && prevEnd != null && curStart != null && prevEnd.next 
+> != null && prevEnd.next.next == curStart)

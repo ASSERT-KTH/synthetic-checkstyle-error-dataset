@@ -1,0 +1,4 @@
+85c85
+<                         watcher = new WatchDir(ModuleLoader2.getModulesMap())
+---
+>                         watcher = new WatchDir (ModuleLoader2.getModulesMap())

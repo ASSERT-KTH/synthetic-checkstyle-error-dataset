@@ -1,0 +1,4 @@
+11c11
+< import com.developmentontheedge.be5.metadata.model.Query;
+---
+> import com.developmentontheedge.be5.metadata	.model.Query;

@@ -1,0 +1,4 @@
+7c7
+<     public AstUpdateSetList(SimpleNode... childs)
+---
+>     public AstUpdateSetList(SimpleNode... childs )

@@ -1,0 +1,4 @@
+420c420
+<     public Class<?> getColumnType(ColumnDef columnDef)
+---
+>     public Class<?> getColumnType(ColumnDef 	columnDef)

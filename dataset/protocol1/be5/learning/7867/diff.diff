@@ -1,0 +1,4 @@
+39c39
+<                 return (T) (Integer) ((Long) object).intValue();
+---
+>                 return 	(T) (Integer) ((Long) object).intValue();

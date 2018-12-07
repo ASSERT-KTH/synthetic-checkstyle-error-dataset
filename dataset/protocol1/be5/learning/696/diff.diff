@@ -1,0 +1,4 @@
+52c52
+<         if (!GENERIC_COLLECTION.equals(getInfo().getEntity().getType()))
+---
+>         if (!GENERIC_COLLECTION.equals(getInfo().getEntity(). getType()))

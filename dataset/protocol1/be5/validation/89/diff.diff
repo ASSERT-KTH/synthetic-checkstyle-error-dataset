@@ -1,0 +1,4 @@
+104c104
+<             log.log(Level.SEVERE, message, e);
+---
+>             log.log(Level. SEVERE, message, e);

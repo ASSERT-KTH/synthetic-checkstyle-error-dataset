@@ -1,0 +1,4 @@
+132c132
+<         DbSpecificFunction op = new DbSpecificFunction(name, numberOfParams);
+---
+>         DbSpecificFunction op = 	new DbSpecificFunction(name, numberOfParams);

@@ -1,0 +1,4 @@
+10c10
+<     public OperationResultPresentation(OperationResult operationResult, Object layout)
+---
+>     public OperationResultPresentation(OperationResult operationResult, 	Object layout)

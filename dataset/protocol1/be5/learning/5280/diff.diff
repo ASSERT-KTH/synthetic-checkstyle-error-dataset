@@ -1,0 +1,5 @@
+10c10,11
+<         nodePrefix = "GROUPING SETS (";
+---
+>         nodePrefix = "GROUPING SETS ("
+> ;

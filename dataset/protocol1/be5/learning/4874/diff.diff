@@ -1,0 +1,4 @@
+137c137
+<                 .filter(row -> row.getTopic().equals(DatabaseConstants.L10N_TOPIC_PAGE))
+---
+>                 .filter(row -> row.getTopic ().equals(DatabaseConstants.L10N_TOPIC_PAGE))

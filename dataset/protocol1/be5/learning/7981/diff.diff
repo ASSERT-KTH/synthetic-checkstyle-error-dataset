@@ -1,0 +1,4 @@
+19c19
+<     public AstQuery clone()
+---
+>     	public AstQuery clone()

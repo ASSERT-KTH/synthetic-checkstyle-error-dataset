@@ -1,0 +1,5 @@
+7c7,8
+<     public AstColumnList(int id)
+---
+>     public AstColumnList
+> (int id)

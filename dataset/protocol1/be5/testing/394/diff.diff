@@ -1,0 +1,5 @@
+206,207c206
+<     public BigDecimal getBigDecimal(String columnLabel, int scale) throws SQLException
+<     {
+---
+>     public BigDecimal getBigDecimal(String columnLabel, int scale) throws SQLException    {

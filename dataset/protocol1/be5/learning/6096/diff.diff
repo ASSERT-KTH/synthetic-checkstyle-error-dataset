@@ -1,0 +1,4 @@
+103c103
+<     public synchronized void reloadProject()
+---
+>     public synchronized void reloadProject ()

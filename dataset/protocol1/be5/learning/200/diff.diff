@@ -1,0 +1,4 @@
+23c23
+<         if (parameters == null || "modalForm".equals(layout.get("type")))
+---
+>         if (parameters == null || "modalForm".equals(layout.get( "type")))

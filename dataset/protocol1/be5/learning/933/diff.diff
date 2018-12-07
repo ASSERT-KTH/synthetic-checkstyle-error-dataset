@@ -1,0 +1,5 @@
+45,46c45
+<         if (TITLES.size() < Be5ErrorCode.values().length)
+<         {
+---
+>         if (TITLES.size() < Be5ErrorCode.values().length)        {

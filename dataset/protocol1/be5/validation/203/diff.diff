@@ -1,0 +1,4 @@
+248c248
+<         return createMimeMessage(null, null);
+---
+>         return createMimeMessage(null, null );

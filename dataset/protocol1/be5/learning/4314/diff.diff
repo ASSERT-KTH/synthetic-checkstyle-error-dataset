@@ -1,0 +1,4 @@
+193c193
+<             return e.getClass().getSimpleName() + ": " + e.getMessage() + "\n";
+---
+>             return e.getClass().getSimpleName() + ": " 	+ e.getMessage() + "\n";

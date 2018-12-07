@@ -1,0 +1,4 @@
+8c8
+< @Target({ElementType.TYPE, ElementType.METHOD, ElementType.PACKAGE})
+---
+> @Target({ElementType.TYPE, ElementType. METHOD, ElementType.PACKAGE})

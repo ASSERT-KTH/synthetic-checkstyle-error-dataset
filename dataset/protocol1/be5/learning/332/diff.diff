@@ -1,0 +1,5 @@
+40,41c40
+<         if (this.columnName == null)
+<         {
+---
+>         if (this.columnName == null)        {

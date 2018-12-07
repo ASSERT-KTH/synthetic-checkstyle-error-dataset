@@ -1,0 +1,5 @@
+21c21,22
+<             Object object = rs.getObject(idx);
+---
+>             Object object = 
+> rs.getObject(idx);

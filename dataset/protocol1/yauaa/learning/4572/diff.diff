@@ -1,0 +1,4 @@
+149c149
+<         public void wrongSetter(String record, String value) {
+---
+>         public void wrongSetter(String record , String value) {

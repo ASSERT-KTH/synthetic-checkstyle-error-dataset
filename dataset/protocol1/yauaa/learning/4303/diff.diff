@@ -1,0 +1,4 @@
+702c702
+<         return parse(userAgent);
+---
+>        return parse(userAgent);

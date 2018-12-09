@@ -1,0 +1,5 @@
+81c81,82
+<         PAssert.that(testOutputs).containsInAnyOrder(expectedOutput);
+---
+>         PAssert.that(testOutputs).containsInAnyOrder(
+> expectedOutput);

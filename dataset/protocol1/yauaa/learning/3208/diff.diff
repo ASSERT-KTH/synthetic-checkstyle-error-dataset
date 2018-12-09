@@ -1,0 +1,5 @@
+106,107c106
+<                             passed = false;
+<                             LOG.error("Found different value for \"{}\" with SAME confidence {}: \"{}\" and \"{}\"",
+---
+>                             passed = false;                            LOG.error("Found different value for \"{}\" with SAME confidence {}: \"{}\" and \"{}\"",

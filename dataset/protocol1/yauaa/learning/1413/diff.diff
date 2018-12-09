@@ -1,0 +1,4 @@
+74c74
+<         runner.setProperty(PROPERTY_PREFIX + "Anonymized",                       "true");
+---
+>         runner.setProperty (PROPERTY_PREFIX + "Anonymized",                       "true");

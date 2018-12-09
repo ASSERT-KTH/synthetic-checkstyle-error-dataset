@@ -1,0 +1,4 @@
+57c57
+<         userAgentAnalyzer.loadResources("classpath*:AllFields-tests.yaml");
+---
+>         userAgentAnalyzer.loadResources("classpath*:AllFields-tests.yaml" );

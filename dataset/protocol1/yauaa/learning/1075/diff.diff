@@ -1,0 +1,5 @@
+1165c1165,1166
+<     public static class UserAgentAnalyzerDirectBuilder<UAA extends UserAgentAnalyzerDirect, B extends UserAgentAnalyzerDirectBuilder<UAA, B>> {
+---
+>     public static class UserAgentAnalyzerDirectBuilder<UAA extends UserAgentAnalyzerDirect, B extends UserAgentAnalyzerDirectBuilder<
+> UAA, B>> {

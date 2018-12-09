@@ -1,0 +1,5 @@
+100c100,101
+<                     if (method.getDeclaringClass().isAnonymousClass()) {
+---
+>                     if (method.getDeclaringClass().isAnonymousClass()
+> ) {

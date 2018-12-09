@@ -1,0 +1,4 @@
+196c196
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "AgentVersion"                    );
+---
+>        result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "AgentVersion"                    );

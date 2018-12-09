@@ -1,0 +1,4 @@
+104c104
+<                 .addValidator(StandardValidators.BOOLEAN_VALIDATOR)
+---
+>                .addValidator(StandardValidators.BOOLEAN_VALIDATOR)

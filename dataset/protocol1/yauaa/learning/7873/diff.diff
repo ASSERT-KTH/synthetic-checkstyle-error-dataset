@@ -1,0 +1,5 @@
+184c184,185
+<     public final ExpectedException expectedEx = ExpectedException.none();
+---
+>     public final ExpectedException expectedEx = ExpectedException.none()
+> ;

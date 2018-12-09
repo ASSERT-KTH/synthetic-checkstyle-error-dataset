@@ -1,0 +1,4 @@
+55c55
+<         return nodeTupleList.get(0);
+---
+>        return nodeTupleList.get(0);

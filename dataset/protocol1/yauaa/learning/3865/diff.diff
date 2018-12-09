@@ -1,0 +1,5 @@
+64c64,65
+<         assertTrue(useragent.toString().contains("'Google Nexus 6'"));
+---
+>         assertTrue(useragent.toString()
+> .contains("'Google Nexus 6'"));

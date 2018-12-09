@@ -1,0 +1,5 @@
+1389c1389,1390
+<                     sb.append("      ,\"").append(value.replaceAll("\\\"", "\\\\\"")).append("\"\n");
+---
+>                     sb.append("      ,\"").append(value.replaceAll("\\\"", "\\\\\""))
+> .append("\"\n");

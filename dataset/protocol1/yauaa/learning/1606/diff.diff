@@ -1,0 +1,5 @@
+335c335,336
+<         public void informMeAbout(MatcherAction matcherAction, String keyPattern) {
+---
+>         
+> public void informMeAbout(MatcherAction matcherAction, String keyPattern) {

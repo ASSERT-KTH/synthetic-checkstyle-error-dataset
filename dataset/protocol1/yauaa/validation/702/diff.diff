@@ -1,0 +1,4 @@
+28c28
+<     private final String       lookupName;
+---
+>     private final String       lookupName ;

@@ -1,0 +1,4 @@
+279c279
+<         assertEquals("one two/3",              splitter.getFirstSplits(value, 3));
+---
+>         assertEquals("one two/3",              	splitter.getFirstSplits(value, 3));

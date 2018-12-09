@@ -1,0 +1,4 @@
+56c56
+<         assertEquals(min1, parsedAgent.getConfidence("OperatingSystemName"          )); // Android
+---
+>         assertEquals(min1, parsedAgent.getConfidence("OperatingSystemName"          )	); // Android

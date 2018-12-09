@@ -1,0 +1,5 @@
+129c129,130
+<         List<Object> result = new ArrayList<>(fieldNames.size());
+---
+>         List
+> <Object> result = new ArrayList<>(fieldNames.size());

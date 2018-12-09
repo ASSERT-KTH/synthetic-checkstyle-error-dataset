@@ -1,0 +1,5 @@
+54c54,55
+<         long constructMsecs = (stop - start) / 1000000;
+---
+>         long constructMsecs = (stop - start
+> ) / 1000000;

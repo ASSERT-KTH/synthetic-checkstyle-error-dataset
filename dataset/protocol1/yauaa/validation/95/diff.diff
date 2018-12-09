@@ -1,0 +1,4 @@
+65c65
+<     public static String getValueAsString(NodeTuple tuple, String filename) {
+---
+>    public static String getValueAsString(NodeTuple tuple, String filename) {

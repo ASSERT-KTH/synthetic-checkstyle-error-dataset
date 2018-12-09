@@ -1,0 +1,4 @@
+94c94
+<         if (userAgentString == null) {
+---
+>         if (userAgentString 	== null) {

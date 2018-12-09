@@ -1,0 +1,4 @@
+399c399
+<             fieldNames.remove(fieldName);
+---
+>             fieldNames.remove (fieldName);

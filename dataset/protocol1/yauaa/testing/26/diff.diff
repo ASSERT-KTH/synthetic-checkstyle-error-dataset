@@ -1,0 +1,5 @@
+54c54,55
+<         this.requiredPatternText = requiredPattern.getText();
+---
+>         this.
+> requiredPatternText = requiredPattern.getText();

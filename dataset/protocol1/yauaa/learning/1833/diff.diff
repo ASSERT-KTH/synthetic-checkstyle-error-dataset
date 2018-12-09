@@ -1,0 +1,4 @@
+198c198
+<             } .enrich(record);
+---
+>            } .enrich(record);

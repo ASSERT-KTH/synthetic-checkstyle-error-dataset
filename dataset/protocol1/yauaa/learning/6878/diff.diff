@@ -1,0 +1,5 @@
+55c55,56
+<                 return children[lastChildIndex - steps + 1];
+---
+>                 return children[lastChildIndex 
+> - steps + 1];

@@ -1,0 +1,4 @@
+152c152
+<                         String attribute = configParts[0].trim();
+---
+>                         String attribute 	= configParts[0].trim();

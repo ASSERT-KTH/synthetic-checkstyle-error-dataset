@@ -1,0 +1,5 @@
+104c104,105
+<         public B withCache(int newCacheSize) {
+---
+>         public B withCache(int newCacheSize
+> ) {

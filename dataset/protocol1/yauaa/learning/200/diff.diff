@@ -1,0 +1,4 @@
+23c23
+< import static nl.basjes.parse.useragent.UserAgent.DEVICE_CLASS;
+---
+> 	import static nl.basjes.parse.useragent.UserAgent.DEVICE_CLASS;

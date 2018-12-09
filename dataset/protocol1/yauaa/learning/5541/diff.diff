@@ -1,0 +1,4 @@
+64c64
+<             return new WalkResult(tree, result);
+---
+>            return new WalkResult(tree, result);

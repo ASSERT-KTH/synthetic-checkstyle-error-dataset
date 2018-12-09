@@ -1,0 +1,4 @@
+44c44
+<               tree.getChild(0) instanceof SingleVersionContext ||
+---
+>               tree.getChild(0 ) instanceof SingleVersionContext ||

@@ -1,0 +1,5 @@
+78,79c78
+<                 // We simply prefix a fake product name to continue parsing.
+<                 result = "Mozilla" + result;
+---
+>                 // We simply prefix a fake product name to continue parsing.                result = "Mozilla" + result;

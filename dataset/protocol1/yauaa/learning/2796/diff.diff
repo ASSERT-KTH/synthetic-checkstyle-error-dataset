@@ -1,0 +1,5 @@
+81c81,82
+<                         .append(field.getValue()).append(marker).append('\n');
+---
+>                         .append
+> (field.getValue()).append(marker).append('\n');

@@ -1,0 +1,4 @@
+79c79
+<         runTest("InputNotString.yaml", "The value should be a string but it is a sequence");
+---
+>        runTest("InputNotString.yaml", "The value should be a string but it is a sequence");

@@ -1,0 +1,4 @@
+40c40
+<         expectedEx.expectMessage(expectedMessage);
+---
+>         expectedEx.expectMessage (expectedMessage);

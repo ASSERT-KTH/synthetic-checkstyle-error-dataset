@@ -1,0 +1,4 @@
+118c118
+<             .map((MapFunction<String, TestRecord>) TestRecord::new)
+---
+>             . map((MapFunction<String, TestRecord>) TestRecord::new)

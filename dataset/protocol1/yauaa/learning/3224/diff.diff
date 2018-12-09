@@ -1,0 +1,4 @@
+34c34
+<     private final int cacheSize;
+---
+>     private final int 	cacheSize;

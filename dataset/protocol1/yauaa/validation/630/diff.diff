@@ -1,0 +1,4 @@
+134c134
+<         assertPossible(possible, "STRING:request.user-agent.last.device_cpu");
+---
+>         assertPossible(possible, "STRING:request.user-agent.last.device_cpu" );

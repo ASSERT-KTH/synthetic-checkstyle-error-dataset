@@ -1,0 +1,5 @@
+208,209c208
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "DeviceFirmwareVersion"           );
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "DeviceVersion"                   );
+---
+>         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "DeviceFirmwareVersion"           );        result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "DeviceVersion"                   );

@@ -1,0 +1,4 @@
+89c89
+<                     parameters[1] == String.class) {
+---
+>                    parameters[1] == String.class) {

@@ -1,0 +1,5 @@
+29c29,30
+<         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:DocumentationExample.yaml");
+---
+>         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:DocumentationExample.yaml")
+> ;

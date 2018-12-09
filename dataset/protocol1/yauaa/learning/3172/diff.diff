@@ -1,0 +1,4 @@
+376c376
+<                 informs += calculateInformPath(action, treeName + '.' + "(" + number + ")" + thisTree.name.getText(), thisTree.nextStep);
+---
+>                informs += calculateInformPath(action, treeName + '.' + "(" + number + ")" + thisTree.name.getText(), thisTree.nextStep);

@@ -1,0 +1,5 @@
+22,23c22
+< import org.apache.flink.api.common.functions.RichMapFunction;
+< import org.apache.flink.configuration.Configuration;
+---
+> import org.apache.flink.api.common.functions.RichMapFunction;import org.apache.flink.configuration.Configuration;

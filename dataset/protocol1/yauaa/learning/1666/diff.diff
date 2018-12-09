@@ -1,0 +1,4 @@
+102c102
+<             "Querying for 'All fields' and GC --> Used memory is %10d bytes (%5d MiB)",
+---
+>            "Querying for 'All fields' and GC --> Used memory is %10d bytes (%5d MiB)",

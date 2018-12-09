@@ -1,0 +1,4 @@
+247c247
+<         assertEquals(0, userAgentAnalyzer.getNumberOfTestCases());
+---
+>         assertEquals(0, 	userAgentAnalyzer.getNumberOfTestCases());

@@ -1,0 +1,4 @@
+226c226
+<         TestMatcher matcher = new TestMatcher(new HashMap<>(), new HashMap<>());
+---
+>        TestMatcher matcher = new TestMatcher(new HashMap<>(), new HashMap<>());

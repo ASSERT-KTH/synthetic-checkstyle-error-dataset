@@ -1,0 +1,5 @@
+571c571,572
+<         PRE_SORTED_FIELDS_LIST.add("OperatingSystemVersion");
+---
+>         PRE_SORTED_FIELDS_LIST.add(
+> "OperatingSystemVersion");

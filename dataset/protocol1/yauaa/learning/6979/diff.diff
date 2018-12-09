@@ -1,0 +1,4 @@
+63c63
+<             if ((!(o instanceof Range))) {
+---
+>            if ((!(o instanceof Range))) {

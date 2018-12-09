@@ -1,0 +1,5 @@
+37c37,38
+<         assertEquals(42, uaa.getCacheSize());
+---
+>         assertEquals(42, uaa.getCacheSize())
+> ;

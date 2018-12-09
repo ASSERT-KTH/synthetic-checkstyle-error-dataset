@@ -1,0 +1,4 @@
+30c30
+<             instance = UserAgentAnalyzer.newBuilder().dropTests().hideMatcherLoadStats().build();
+---
+>            instance = UserAgentAnalyzer.newBuilder().dropTests().hideMatcherLoadStats().build();

@@ -1,0 +1,4 @@
+80c80
+<                     sb.append("| ").append(fieldName).append('(').append(field.getConfidence()).append(") = ")
+---
+>                     sb.append("| ").append(fieldName ).append('(').append(field.getConfidence()).append(") = ")

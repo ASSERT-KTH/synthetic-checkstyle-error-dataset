@@ -1,0 +1,4 @@
+34c34
+<                 prevChild = child;
+---
+>                 prevChild = child ;

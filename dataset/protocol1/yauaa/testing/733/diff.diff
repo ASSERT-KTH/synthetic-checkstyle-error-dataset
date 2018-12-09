@@ -1,0 +1,4 @@
+98c98
+<                 Map<String, String> lookupMap = matcher.getLookups().get(lookup.getText());
+---
+>                Map<String, String> lookupMap = matcher.getLookups().get(lookup.getText());

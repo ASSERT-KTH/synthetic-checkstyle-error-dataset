@@ -1,0 +1,4 @@
+41c41
+<     public final transient TestPipeline pipeline = TestPipeline.create();
+---
+>     	public final transient TestPipeline pipeline = TestPipeline.create();

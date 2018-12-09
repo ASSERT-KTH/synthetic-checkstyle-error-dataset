@@ -1,0 +1,5 @@
+93c93,94
+<         assertEquals("maxpoint.crawler@maxpointinteractive.com",   Normalize.email("maxpoint.crawler at maxpointinteractive dot com"));
+---
+>         assertEquals("maxpoint.crawler@maxpointinteractive.com",   Normalize.email("maxpoint.crawler at maxpointinteractive dot com")
+> );

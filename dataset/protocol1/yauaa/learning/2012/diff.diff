@@ -1,0 +1,4 @@
+55c55
+<     @Test(expected = NoSuchElementException.class)
+---
+>     @Test( expected = NoSuchElementException.class)

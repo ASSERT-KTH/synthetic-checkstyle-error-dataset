@@ -1,0 +1,4 @@
+200c200
+<         assertNotEquals(agent1, "String");
+---
+>          assertNotEquals(agent1, "String");

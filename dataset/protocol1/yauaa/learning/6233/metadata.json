@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "135", "message": "'\"----- %8s: Used memory is %10d bytes (%5d MiB / %5d MiB)\"' has incorrect indentation level 11, expected level should be 12.", "type": "Indentation"}

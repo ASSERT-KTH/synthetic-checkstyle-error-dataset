@@ -1,0 +1,5 @@
+52c52,53
+<             if (Character.isDigit(thisChar)) {
+---
+>             if (Character.isDigit(
+> thisChar)) {

@@ -1,0 +1,4 @@
+93c93
+<             requireNodeInstanceOf(ScalarNode.class, node, filename,
+---
+>            requireNodeInstanceOf(ScalarNode.class, node, filename,

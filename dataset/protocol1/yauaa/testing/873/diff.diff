@@ -1,0 +1,4 @@
+129c129
+<         WalkResult result = walkList.walk(tree, value);
+---
+>         WalkResult result = walkList.walk (tree, value);

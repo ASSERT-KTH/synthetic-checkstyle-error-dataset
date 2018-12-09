@@ -1,0 +1,5 @@
+83c83,84
+<             outBuffer.reallocIfNeeded(rowStringBytes.length);
+---
+>             outBuffer.reallocIfNeeded(rowStringBytes.
+> length);

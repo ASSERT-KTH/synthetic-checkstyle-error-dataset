@@ -1,0 +1,5 @@
+609c609,610
+<         PRE_SORTED_FIELDS_LIST.add("FacebookOperatingSystemVersion");
+---
+>         PRE_SORTED_FIELDS_LIST.add(
+> "FacebookOperatingSystemVersion");

@@ -1,0 +1,4 @@
+139c139
+<         assertEquals("Result 1", prefixLookup.findLongestMatchingPrefix("1"));
+---
+>        assertEquals("Result 1", prefixLookup.findLongestMatchingPrefix("1"));

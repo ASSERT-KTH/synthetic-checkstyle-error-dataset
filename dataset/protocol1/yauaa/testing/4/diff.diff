@@ -1,0 +1,4 @@
+36c36
+<         if (actualValue.toLowerCase().startsWith(desiredValue)) {
+---
+>         if (actualValue.toLowerCase()	.startsWith(desiredValue)) {

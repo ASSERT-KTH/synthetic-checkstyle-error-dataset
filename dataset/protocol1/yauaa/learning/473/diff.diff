@@ -1,0 +1,5 @@
+88c88,89
+<         verifyDeviceClass(eReader,               true,   true,  true, false);
+---
+>         verifyDeviceClass(eReader,               true,   true,  true, false)
+> ;

@@ -1,0 +1,5 @@
+93,94c93
+<             new TestRecord(
+<                 "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD90Z) " +
+---
+>             new TestRecord(                "Mozilla/5.0 (Linux; Android 7.0; Nexus 6 Build/NBD90Z) " +

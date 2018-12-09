@@ -1,0 +1,4 @@
+31c31
+< import static org.junit.Assert.assertNull;
+---
+> import static 	org.junit.Assert.assertNull;

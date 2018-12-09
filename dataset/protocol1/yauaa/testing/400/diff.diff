@@ -1,0 +1,4 @@
+105c105
+<         prefixList.forEach((key, value) -> prefixPrefixTrie.add(key, value));
+---
+>         prefixList.forEach( (key, value) -> prefixPrefixTrie.add(key, value));

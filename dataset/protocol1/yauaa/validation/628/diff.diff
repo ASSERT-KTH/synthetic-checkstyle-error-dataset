@@ -1,0 +1,4 @@
+92c92
+< public class WalkList implements Serializable {
+---
+> public class WalkList 	implements Serializable {

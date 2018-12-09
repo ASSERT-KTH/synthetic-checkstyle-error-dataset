@@ -1,0 +1,4 @@
+72c72
+<                 for (MatcherAction action : interestedActions) {
+---
+>                for (MatcherAction action : interestedActions) {

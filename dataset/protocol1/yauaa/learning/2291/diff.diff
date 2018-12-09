@@ -1,0 +1,4 @@
+256c256
+<         expectedEx.expectMessage("The class nl.basjes.parse.useragent.annotate.TestAnnotationSystem.PrivateTestRecord is not public.");
+---
+>         expectedEx.expectMessage("The class nl.basjes.parse.useragent.annotate.TestAnnotationSystem.PrivateTestRecord is not public." );

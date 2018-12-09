@@ -1,0 +1,4 @@
+23c23
+< import org.apache.drill.exec.expr.annotations.Output;
+---
+> import org.apache.drill.exec.expr. annotations.Output;

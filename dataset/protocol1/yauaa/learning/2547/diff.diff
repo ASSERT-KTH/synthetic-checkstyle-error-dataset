@@ -1,0 +1,4 @@
+192c192
+<         expectedEx.expectMessage("You MUST specify at least 1 field to extract.");
+---
+>         expectedEx.expectMessage ("You MUST specify at least 1 field to extract.");

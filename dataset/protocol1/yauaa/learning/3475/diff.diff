@@ -1,0 +1,4 @@
+26c26
+< import nl.basjes.parse.useragent.UserAgent;
+---
+> import nl.basjes	.parse.useragent.UserAgent;

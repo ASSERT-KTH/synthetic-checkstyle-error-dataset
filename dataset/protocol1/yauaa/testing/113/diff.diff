@@ -1,0 +1,4 @@
+127c127
+<             LOG.info("WalkList: {}", walkList);
+---
+>             LOG	.info("WalkList: {}", walkList);

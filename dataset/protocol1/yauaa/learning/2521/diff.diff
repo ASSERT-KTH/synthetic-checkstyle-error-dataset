@@ -1,0 +1,4 @@
+54c54
+<     public String toMatchTrace(List<String> highlightNames) {
+---
+>     public String toMatchTrace(List<	String> highlightNames) {

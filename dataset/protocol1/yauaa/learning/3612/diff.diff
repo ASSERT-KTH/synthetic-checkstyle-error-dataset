@@ -1,0 +1,4 @@
+262c262
+<     @SuppressWarnings("unchecked") // Here we deliberately created some bad code to check the behavior.
+---
+>    @SuppressWarnings("unchecked") // Here we deliberately created some bad code to check the behavior.

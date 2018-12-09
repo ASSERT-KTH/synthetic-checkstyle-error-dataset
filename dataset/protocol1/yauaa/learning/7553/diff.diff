@@ -1,0 +1,4 @@
+78c78
+<         fields.add("DeviceClass");
+---
+>        fields.add("DeviceClass");

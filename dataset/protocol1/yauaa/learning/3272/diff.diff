@@ -1,0 +1,5 @@
+24c24,25
+< import org.junit.runners.Parameterized.Parameter;
+---
+> import org.junit.runners.
+> Parameterized.Parameter;

@@ -1,0 +1,4 @@
+53c53
+<         assertEquals(expectedValue, resultInspector.getStructFieldData(row, resultInspector.getStructFieldRef(fieldName)).toString());
+---
+>         assertEquals(expectedValue, resultInspector.getStructFieldData(row , resultInspector.getStructFieldRef(fieldName)).toString());

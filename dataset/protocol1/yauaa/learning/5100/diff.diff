@@ -1,0 +1,5 @@
+128c128,129
+<                     for (String variableConfig : YamlUtils.getStringValues(nodeTuple.getValueNode(), matcherSourceLocation)) {
+---
+>                     for (String variableConfig : YamlUtils
+> .getStringValues(nodeTuple.getValueNode(), matcherSourceLocation)) {

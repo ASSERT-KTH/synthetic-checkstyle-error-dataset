@@ -1,0 +1,5 @@
+104c104,105
+<         AnalyzeUseragentFunction function = new AnalyzeUseragentFunction(Arrays.asList("DeviceClass", "AgentNameVersionMajor"));
+---
+>         AnalyzeUseragentFunction function = new AnalyzeUseragentFunction(Arrays.asList("DeviceClass", "AgentNameVersionMajor"))
+> ;

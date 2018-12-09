@@ -1,0 +1,4 @@
+79c79
+<                 result = "Mozilla" + result;
+---
+>                result = "Mozilla" + result;

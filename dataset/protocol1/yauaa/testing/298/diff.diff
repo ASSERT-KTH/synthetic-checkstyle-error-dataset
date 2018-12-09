@@ -1,0 +1,4 @@
+26c26
+< public interface Analyzer extends Serializable {
+---
+> public interface Analyzer extends Serializable 	{

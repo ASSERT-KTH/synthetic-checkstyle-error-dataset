@@ -1,0 +1,5 @@
+31c31,32
+< import org.apache.drill.test.ClusterTest;
+---
+> import org.apache.drill.test.ClusterTest
+> ;

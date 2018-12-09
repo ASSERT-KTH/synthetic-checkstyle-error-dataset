@@ -1,0 +1,4 @@
+145c145
+<             .include(AnalyzerBenchmarks.class.getSimpleName())
+---
+>            .include(AnalyzerBenchmarks.class.getSimpleName())

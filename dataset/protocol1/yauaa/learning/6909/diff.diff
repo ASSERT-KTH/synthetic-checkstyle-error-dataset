@@ -1,0 +1,5 @@
+1361,1362c1361
+<                 addGeneratedFields("AgentNameVersionMajor", AGENT_NAME, AGENT_VERSION_MAJOR);
+<                 addGeneratedFields("WebviewAppNameVersionMajor", "WebviewAppName", "WebviewAppVersionMajor");
+---
+>                 addGeneratedFields("AgentNameVersionMajor", AGENT_NAME, AGENT_VERSION_MAJOR);                addGeneratedFields("WebviewAppNameVersionMajor", "WebviewAppName", "WebviewAppVersionMajor");

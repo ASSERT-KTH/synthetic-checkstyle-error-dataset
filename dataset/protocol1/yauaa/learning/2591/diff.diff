@@ -1,0 +1,4 @@
+179c179
+<             throw new InvalidParserConfigurationException("Matcher does not extract anything");
+---
+>             throw new 	InvalidParserConfigurationException("Matcher does not extract anything");

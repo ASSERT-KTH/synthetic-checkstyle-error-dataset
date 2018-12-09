@@ -1,0 +1,4 @@
+106c106
+<                         LOG.warn("Trying to make anonymous {} {} accessible.", method.getDeclaringClass(), methodName);
+---
+>                        LOG.warn("Trying to make anonymous {} {} accessible.", method.getDeclaringClass(), methodName);

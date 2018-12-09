@@ -1,0 +1,4 @@
+29c29
+<     private final PrefixLookup prefixLookup;
+---
+>    private final PrefixLookup prefixLookup;

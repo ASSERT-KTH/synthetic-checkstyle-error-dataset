@@ -1,0 +1,4 @@
+84c84
+<             outBuffer.setBytes(0, rowStringBytes);
+---
+>             outBuffer.setBytes(0,rowStringBytes);

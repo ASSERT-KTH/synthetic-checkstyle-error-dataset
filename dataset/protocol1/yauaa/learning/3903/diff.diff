@@ -1,0 +1,4 @@
+74c74
+<         runTest("InputAbsent.yaml", "Test is missing input");
+---
+>         runTest("InputAbsent.yaml", "Test is missing input") ;

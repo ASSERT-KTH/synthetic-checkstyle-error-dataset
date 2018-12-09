@@ -1,0 +1,5 @@
+183,184c183
+<      * @param userAgent The useragent instance that needs to be parsed
+<      * @return If the parse was valid (i.e. were there any parser errors: true=valid; false=has errors
+---
+>      * @param userAgent The useragent instance that needs to be parsed     * @return If the parse was valid (i.e. were there any parser errors: true=valid; false=has errors

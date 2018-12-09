@@ -1,0 +1,4 @@
+100c100
+<     public String getValue() {
+---
+>     public String getValue () {

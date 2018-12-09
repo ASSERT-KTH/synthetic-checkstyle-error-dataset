@@ -1,0 +1,4 @@
+71c71
+<             containsString("Yaml config problem.(FileIsNotAMap.yaml:20): The value should be a sequence but it is a mapping"));
+---
+>            containsString("Yaml config problem.(FileIsNotAMap.yaml:20): The value should be a sequence but it is a mapping"));

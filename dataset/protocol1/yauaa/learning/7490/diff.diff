@@ -1,0 +1,4 @@
+90c90
+<         LOG.info("| {}{} |", line, padding(' ', width - line.length()));
+---
+>         LOG.info( "| {}{} |", line, padding(' ', width - line.length()));

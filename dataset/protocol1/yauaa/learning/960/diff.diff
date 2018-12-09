@@ -1,0 +1,5 @@
+52c52,53
+<     private void checkField(StandardStructObjectInspector resultInspector, Object row, String fieldName, String expectedValue) {
+---
+>     private void checkField(StandardStructObjectInspector resultInspector, Object row, String fieldName, String expectedValue
+> ) {

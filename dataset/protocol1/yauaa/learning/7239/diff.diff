@@ -1,0 +1,4 @@
+198c198
+<         int offset = findSplitStart(characters, 1);
+---
+>         int offset = findSplitStart(characters, 1 );

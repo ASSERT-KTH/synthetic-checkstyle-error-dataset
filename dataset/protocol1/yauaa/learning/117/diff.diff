@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.hadoop.hive.serde2.objectinspector.primitive.PrimitiveObjectInspectorFactory;
+< import org.junit.Test;
+---
+> import org.apache.hadoop.hive.serde2.objectinspector.primitive.PrimitiveObjectInspectorFactory;import org.junit.Test;

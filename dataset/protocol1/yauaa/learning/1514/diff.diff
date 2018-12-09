@@ -1,0 +1,5 @@
+22c22,23
+< import org.junit.runner.RunWith;
+---
+> import org.
+> junit.runner.RunWith;

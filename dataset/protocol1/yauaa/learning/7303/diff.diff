@@ -1,0 +1,4 @@
+124c124
+<     public void checkFixedStringLookupMissingvalue() {
+---
+>     public void checkFixedStringLookupMissingvalue() 	{

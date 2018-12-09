@@ -1,0 +1,5 @@
+48c48,49
+<     nl.basjes.parse.useragent.UserAgentAnalyzer uaa;
+---
+>     nl.basjes.parse
+> .useragent.UserAgentAnalyzer uaa;

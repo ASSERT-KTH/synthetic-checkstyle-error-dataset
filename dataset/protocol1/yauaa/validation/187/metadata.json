@@ -1,0 +1,1 @@
+{"injection_operator": "insertion-space", "line": "128", "message": "'array initialization rcurly' has incorrect indentation level 9, expected level should be one of the following: 8, 12.", "type": "Indentation"}

@@ -1,0 +1,4 @@
+89c89
+<         new MatchesList(1).retainAll(null);
+---
+>        new MatchesList(1).retainAll(null);

@@ -1,0 +1,5 @@
+42,43c42
+< public class TreeExpressionEvaluator implements Serializable {
+<     private static final Logger LOG = LoggerFactory.getLogger(TreeExpressionEvaluator.class);
+---
+> public class TreeExpressionEvaluator implements Serializable {    private static final Logger LOG = LoggerFactory.getLogger(TreeExpressionEvaluator.class);

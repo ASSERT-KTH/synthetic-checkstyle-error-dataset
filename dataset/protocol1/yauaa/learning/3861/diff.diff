@@ -1,0 +1,4 @@
+131c131
+<         int start = findSplitStart(characters, split);
+---
+>         int start = findSplitStart(characters, 	split);

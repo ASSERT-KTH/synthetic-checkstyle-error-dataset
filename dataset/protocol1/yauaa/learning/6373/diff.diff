@@ -1,0 +1,4 @@
+730c730
+<             setAsHacker(userAgent, 100);
+---
+>             setAsHacker(userAgent , 100);

@@ -1,0 +1,4 @@
+55c55
+<         assertEquals("Wrong result for 'ABCD'",          "Result ABC",      prefixLookup.findLongestMatchingPrefix("ABCD"));
+---
+>        assertEquals("Wrong result for 'ABCD'",          "Result ABC",      prefixLookup.findLongestMatchingPrefix("ABCD"));

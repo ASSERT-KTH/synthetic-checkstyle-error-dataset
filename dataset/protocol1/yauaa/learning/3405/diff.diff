@@ -1,0 +1,4 @@
+43c43
+<     public static class MyMapper implements UserAgentAnnotationMapper<TestRecord>, Serializable {
+---
+>    public static class MyMapper implements UserAgentAnnotationMapper<TestRecord>, Serializable {

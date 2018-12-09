@@ -1,0 +1,5 @@
+43,44c43
+<             "After %7d iterations and GC --> Used memory is %10d bytes (%5d MiB), Average time per parse %7d ns ( ~ %4.3f ms)",
+<             iterationsDone, memory, bytesToMegabytes(memory), averageNanos, averageNanos / 1000000.0));
+---
+>             "After %7d iterations and GC --> Used memory is %10d bytes (%5d MiB), Average time per parse %7d ns ( ~ %4.3f ms)",            iterationsDone, memory, bytesToMegabytes(memory), averageNanos, averageNanos / 1000000.0));

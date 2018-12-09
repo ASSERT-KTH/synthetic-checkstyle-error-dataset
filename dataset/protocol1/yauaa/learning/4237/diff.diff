@@ -1,0 +1,4 @@
+45c45
+<         assertFalse(values.contains(8));
+---
+>         assertFalse(values.contains(8) );

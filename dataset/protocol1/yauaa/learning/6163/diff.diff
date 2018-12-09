@@ -1,0 +1,4 @@
+90c90
+<         verifyDeviceClass(TV,                    true,  false,  true, false);
+---
+>         verifyDeviceClass (TV,                    true,  false,  true, false);

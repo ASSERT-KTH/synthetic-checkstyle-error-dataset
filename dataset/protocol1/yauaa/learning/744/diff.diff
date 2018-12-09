@@ -1,0 +1,4 @@
+28c28
+< import static org.apache.pig.builtin.mock.Storage.resetData;
+---
+> import static org.apache.pig.builtin.mock. Storage.resetData;

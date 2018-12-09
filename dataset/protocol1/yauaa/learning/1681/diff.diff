@@ -1,0 +1,4 @@
+120c120
+<         AnalyzeUseragentFunction function = new AnalyzeUseragentFunction("DeviceClass", "AgentNameVersionMajor");
+---
+>        AnalyzeUseragentFunction function = new AnalyzeUseragentFunction("DeviceClass", "AgentNameVersionMajor");

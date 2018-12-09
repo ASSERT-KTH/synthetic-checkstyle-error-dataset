@@ -1,0 +1,4 @@
+409c409
+<     public Long getConfidence(String fieldName) {
+---
+>     public 	Long getConfidence(String fieldName) {

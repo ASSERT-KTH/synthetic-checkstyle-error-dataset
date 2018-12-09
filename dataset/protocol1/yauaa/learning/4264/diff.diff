@@ -1,0 +1,4 @@
+45c45
+<         for (i = 0; i < parent.getChildCount(); i++) {
+---
+>        for (i = 0; i < parent.getChildCount(); i++) {

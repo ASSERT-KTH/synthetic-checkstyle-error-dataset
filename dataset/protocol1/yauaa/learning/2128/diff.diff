@@ -1,0 +1,4 @@
+161c161
+<         printCurrentMemoryProfile("Cache 1K");
+---
+>         printCurrentMemoryProfile ("Cache 1K");

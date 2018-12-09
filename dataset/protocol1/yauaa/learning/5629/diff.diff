@@ -1,0 +1,4 @@
+318c318
+<     private final Map<String, Set<MatcherAction>> informMatcherActionsAboutVariables = new HashMap<>(8);
+---
+>     private final Map<String, Set<MatcherAction>> informMatcherActionsAboutVariables = 	new HashMap<>(8);

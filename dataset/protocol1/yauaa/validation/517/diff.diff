@@ -1,0 +1,5 @@
+20,21c20
+< import nl.basjes.parse.useragent.analyze.InvalidParserConfigurationException;
+< import org.junit.Rule;
+---
+> import nl.basjes.parse.useragent.analyze.InvalidParserConfigurationException;import org.junit.Rule;

@@ -1,0 +1,5 @@
+21c21,22
+< import org.junit.Test;
+---
+> import org.junit.
+> Test;

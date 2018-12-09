@@ -1,0 +1,5 @@
+22,23c22
+< import org.apache.beam.sdk.testing.PAssert;
+< import org.apache.beam.sdk.testing.TestPipeline;
+---
+> import org.apache.beam.sdk.testing.PAssert;import org.apache.beam.sdk.testing.TestPipeline;

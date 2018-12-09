@@ -1,0 +1,5 @@
+37c37,38
+< import org.apache.nifi.processor.exception.ProcessException;
+---
+> import org.apache.nifi
+> .processor.exception.ProcessException;

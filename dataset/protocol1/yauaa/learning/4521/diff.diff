@@ -1,0 +1,4 @@
+50c50
+<             case "Tablet":                 return Tablet;
+---
+>            case "Tablet":                 return Tablet;

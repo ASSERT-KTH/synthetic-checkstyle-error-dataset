@@ -1,0 +1,5 @@
+33c33,34
+<     public static void requireNodeInstanceOf(Class<?> clazz, Node node, String filename, String error) {
+---
+>     public static void requireNodeInstanceOf(Class<?
+> > clazz, Node node, String filename, String error) {

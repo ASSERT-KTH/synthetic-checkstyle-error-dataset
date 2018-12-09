@@ -1,0 +1,5 @@
+177,178c177
+<             "It must look like [ public void wrongSetter(TestRecord record, String value) ]"));
+<         new WrongTypeParameters2();
+---
+>             "It must look like [ public void wrongSetter(TestRecord record, String value) ]"));        new WrongTypeParameters2();

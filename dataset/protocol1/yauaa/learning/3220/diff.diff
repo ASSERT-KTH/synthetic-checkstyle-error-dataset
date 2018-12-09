@@ -1,0 +1,5 @@
+93c93,94
+<         verifyDeviceClass(Robot,                 false, false, false, false);
+---
+>         verifyDeviceClass(Robot,                 false, false, false, false)
+> ;

@@ -1,0 +1,5 @@
+317c317,318
+<                 LOG.info(testLogLine);
+---
+>                 LOG.info(testLogLine)
+> ;

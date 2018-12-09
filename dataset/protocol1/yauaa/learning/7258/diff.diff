@@ -1,0 +1,4 @@
+64c64
+<         assertTrue("Just listing the field names should only take a few ms", listFieldNamesMsecs < 500);
+---
+>        assertTrue("Just listing the field names should only take a few ms", listFieldNamesMsecs < 500);

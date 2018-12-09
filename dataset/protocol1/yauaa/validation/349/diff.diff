@@ -1,0 +1,4 @@
+69c69
+<         return ((ScalarNode)valueNode).getValue();
+---
+>         return ((ScalarNode )valueNode).getValue();

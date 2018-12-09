@@ -1,0 +1,4 @@
+74c74
+<         check(agent, "AgentClass", "Unknown", -1);
+---
+>         check(agent, "AgentClass", "Unknown",-1);

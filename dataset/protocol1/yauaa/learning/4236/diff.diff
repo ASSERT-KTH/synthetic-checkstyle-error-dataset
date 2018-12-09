@@ -1,0 +1,4 @@
+111c111
+<         extraResources.forEach(builder::addResources);
+---
+>          extraResources.forEach(builder::addResources);

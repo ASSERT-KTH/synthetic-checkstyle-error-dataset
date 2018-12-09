@@ -1,0 +1,4 @@
+192c192
+<                 sb.append(String.format("|%2d", agent.getAmbiguityCount()));
+---
+>                sb.append(String.format("|%2d", agent.getAmbiguityCount()));

@@ -1,0 +1,4 @@
+66c66
+<         assertEquals("FooBarBaz",   uad.dissectionNameToFieldName("foo_bar_baz"));
+---
+>         assertEquals ("FooBarBaz",   uad.dissectionNameToFieldName("foo_bar_baz"));

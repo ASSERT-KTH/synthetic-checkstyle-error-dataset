@@ -1,0 +1,4 @@
+52c52
+<         assertEquals(3, values.size());
+---
+>         assertEquals(3,values.size());

@@ -1,0 +1,5 @@
+52c52,53
+< import nl.basjes.parse.useragent.parser.UserAgentParser.UuIdContext;
+---
+> import nl.basjes.parse.useragent.parser
+> .UserAgentParser.UuIdContext;

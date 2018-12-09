@@ -1,0 +1,5 @@
+61c61,62
+<         assertEquals("foo",         uad.fieldNameToDissectionName("Foo"));
+---
+>         assertEquals("foo",         uad.fieldNameToDissectionName("Foo"))
+> ;

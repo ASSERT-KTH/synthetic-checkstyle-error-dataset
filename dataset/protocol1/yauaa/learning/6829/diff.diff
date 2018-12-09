@@ -1,0 +1,5 @@
+48c48,49
+<             checkField(resultInspector, row, "AgentNameVersionMajor", "Chrome 58");
+---
+>             checkField(resultInspector, row, "AgentNameVersionMajor", "Chrome 58"
+> );

@@ -1,0 +1,4 @@
+56c56
+<             .map(new UserAgentAnalysisMapper<TestRecord>(15000) { // Setting the cacheSize
+---
+>             .map(new UserAgentAnalysisMapper<TestRecord>(15000) 	{ // Setting the cacheSize

@@ -1,0 +1,4 @@
+48c48
+<         assertEquals("Incorrect cache size", 50000, userAgentAnalyzer.getCacheSize());
+---
+>         assertEquals("Incorrect cache size", 50000,userAgentAnalyzer.getCacheSize());

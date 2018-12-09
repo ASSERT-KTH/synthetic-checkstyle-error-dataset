@@ -1,0 +1,5 @@
+123c123,124
+<     public void validateWalkPathNameSubstring2() {
+---
+>     public void validateWalkPathNameSubstring2(
+> ) {

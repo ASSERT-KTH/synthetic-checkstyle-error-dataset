@@ -1,0 +1,5 @@
+96c96,97
+<         assertTrue(function.allFields.contains("DeviceClass"));
+---
+>         assertTrue(function.allFields.contains("DeviceClass"))
+> ;

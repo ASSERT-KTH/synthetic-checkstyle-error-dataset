@@ -1,0 +1,4 @@
+56c56
+<             if (isTokenSeparator(thisChar)) {
+---
+>             if (isTokenSeparator (thisChar)) {

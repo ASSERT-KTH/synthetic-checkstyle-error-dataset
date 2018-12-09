@@ -1,0 +1,4 @@
+111c111
+<             NodeTuple entry = getExactlyOneNodeTuple((MappingNode) versionEntry, filename);
+---
+>             NodeTuple entry = getExactlyOneNodeTuple( (MappingNode) versionEntry, filename);

@@ -1,0 +1,4 @@
+51c51
+<         List<Integer> values = new NumberRangeList(3, 5);
+---
+>         List<Integer> values = new NumberRangeList(3, 5) ;

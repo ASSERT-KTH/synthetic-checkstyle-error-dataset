@@ -1,0 +1,4 @@
+23c23
+< import nl.basjes.parse.httpdlog.HttpdLoglineParser;
+---
+> import nl.basjes.parse.httpdlog	.HttpdLoglineParser;

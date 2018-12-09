@@ -1,0 +1,5 @@
+100,101c100
+<                     throw new InvalidParserConfigurationException("Missing lookup \"" + lookup.getText() + "\" ");
+<                 }
+---
+>                     throw new InvalidParserConfigurationException("Missing lookup \"" + lookup.getText() + "\" ");                }

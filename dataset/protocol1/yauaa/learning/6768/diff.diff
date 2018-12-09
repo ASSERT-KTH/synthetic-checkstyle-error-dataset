@@ -1,0 +1,5 @@
+89,90c89
+<         verifyDeviceClass(SetTopBox,             true,  false,  true, false);
+<         verifyDeviceClass(TV,                    true,  false,  true, false);
+---
+>         verifyDeviceClass(SetTopBox,             true,  false,  true, false);        verifyDeviceClass(TV,                    true,  false,  true, false);

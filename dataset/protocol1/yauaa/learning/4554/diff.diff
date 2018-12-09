@@ -1,0 +1,4 @@
+51c51
+<     public T map(T record) {
+---
+>     public 	T map(T record) {

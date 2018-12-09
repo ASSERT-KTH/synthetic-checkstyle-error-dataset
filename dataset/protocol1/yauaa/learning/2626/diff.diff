@@ -1,0 +1,4 @@
+43c43
+<         data.add(new Tuple3<>(
+---
+>        data.add(new Tuple3<>(

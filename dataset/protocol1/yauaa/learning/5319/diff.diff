@@ -1,0 +1,4 @@
+109c109
+<         for (Node versionEntry : versionList) {
+---
+>         for ( Node versionEntry : versionList) {

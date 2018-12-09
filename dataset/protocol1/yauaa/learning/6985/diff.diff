@@ -1,0 +1,5 @@
+29c29,30
+<     private final Map<String, String> lookup;
+---
+>     private final Map<String, String
+> > lookup;

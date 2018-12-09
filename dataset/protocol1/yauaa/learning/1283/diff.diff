@@ -1,0 +1,5 @@
+73c73,74
+<         PCollection<String> input = pipeline.apply(Create.of(useragents)).setCoder(StringUtf8Coder.of());
+---
+>         PCollection<String> input = pipeline.apply(Create.of(useragents)).setCoder(
+> StringUtf8Coder.of());

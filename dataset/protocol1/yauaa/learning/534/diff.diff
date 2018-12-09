@@ -1,0 +1,5 @@
+81c81,82
+<         for (final Method method : mapper.getClass().getDeclaredMethods()) {
+---
+>         for (final Method method : mapper
+> .getClass().getDeclaredMethods()) {

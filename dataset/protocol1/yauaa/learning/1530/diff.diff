@@ -1,0 +1,4 @@
+65c65
+<         try (ByteArrayOutputStream bos = new ByteArrayOutputStream()) {
+---
+>        try (ByteArrayOutputStream bos = new ByteArrayOutputStream()) {

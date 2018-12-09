@@ -1,0 +1,4 @@
+66c66
+<             WalkResult childResult = walkNextStep(child, null);
+---
+>            WalkResult childResult = walkNextStep(child, null);

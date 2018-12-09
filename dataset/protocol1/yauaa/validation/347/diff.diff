@@ -1,0 +1,4 @@
+260c260
+<             assertNotNull("Missing step:" + walkStep, step);
+---
+>            assertNotNull("Missing step:" + walkStep, step);

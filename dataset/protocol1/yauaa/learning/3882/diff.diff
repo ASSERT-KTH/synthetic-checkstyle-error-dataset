@@ -1,0 +1,4 @@
+881c881
+<             return Normalize.brand(domainName.topPrivateDomain().parts().get(0));
+---
+>             return Normalize.brand(domainName.topPrivateDomain(). parts().get(0));

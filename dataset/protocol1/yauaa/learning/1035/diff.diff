@@ -1,0 +1,4 @@
+109c109
+<     public void testWrongReturnType() {
+---
+>     public void testWrongReturnType() 	{

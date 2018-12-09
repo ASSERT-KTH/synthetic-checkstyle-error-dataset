@@ -1,0 +1,4 @@
+116c116
+<                     gitCommitIdDescribeShort = value;
+---
+>                    gitCommitIdDescribeShort = value;

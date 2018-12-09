@@ -1,0 +1,5 @@
+120,121c120
+< // in the beam-runners-direct-java and also in the beam-sdks-java-core.
+< // So to reduce the mess at this end I'm simply taking the underlying cause class ( org.apache.beam.sdk.util.UserCodeException )
+---
+> // in the beam-runners-direct-java and also in the beam-sdks-java-core.// So to reduce the mess at this end I'm simply taking the underlying cause class ( org.apache.beam.sdk.util.UserCodeException )

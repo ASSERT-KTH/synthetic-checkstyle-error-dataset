@@ -1,0 +1,4 @@
+44c44
+<     private final boolean verbose;
+---
+>     private 	final boolean verbose;

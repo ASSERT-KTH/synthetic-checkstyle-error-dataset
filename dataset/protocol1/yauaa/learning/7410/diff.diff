@@ -1,0 +1,4 @@
+151c151
+<         result.assertContentEquals(content);
+---
+>         result.assertContentEquals(content	);

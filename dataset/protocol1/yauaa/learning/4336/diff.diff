@@ -1,0 +1,4 @@
+102c102
+<             allTestInputs.put(input, locations);
+---
+>             allTestInputs.put(input, locations) ;

@@ -1,0 +1,4 @@
+29c29
+<     private static final Pattern MISSING_SPACE =
+---
+>     private 	static final Pattern MISSING_SPACE =

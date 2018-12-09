@@ -1,0 +1,5 @@
+26,27c26
+< import static org.hamcrest.core.AllOf.allOf;
+< import static org.hamcrest.core.StringContains.containsString;
+---
+> import static org.hamcrest.core.AllOf.allOf;import static org.hamcrest.core.StringContains.containsString;

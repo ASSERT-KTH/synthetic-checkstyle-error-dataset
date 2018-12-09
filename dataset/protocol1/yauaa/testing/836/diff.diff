@@ -1,0 +1,4 @@
+125c125
+<             LOG.info("Evaluate: {} => {}", key, value);
+---
+>            LOG.info("Evaluate: {} => {}", key, value);

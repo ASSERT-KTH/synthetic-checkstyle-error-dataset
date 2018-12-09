@@ -1,0 +1,4 @@
+120c120
+<             .map(new MyUserAgentAnalysisMapper());
+---
+>             .map (new MyUserAgentAnalysisMapper());

@@ -1,0 +1,4 @@
+116c116
+<         assertEquals("3",        splitter.getSingleSplit(value, 3));
+---
+>        assertEquals("3",        splitter.getSingleSplit(value, 3));

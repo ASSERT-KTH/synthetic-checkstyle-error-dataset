@@ -1,0 +1,4 @@
+271c271
+<         if (mustHaveMatches && matches.isEmpty()) {
+---
+>         if (mustHaveMatches && matches. isEmpty()) {

@@ -1,0 +1,4 @@
+66c66
+<         LOG.info("Initializing the datastructures");
+---
+>         LOG.info( "Initializing the datastructures");

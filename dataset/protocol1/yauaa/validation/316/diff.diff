@@ -1,0 +1,4 @@
+48c48
+<         UserAgentAnnotationAnalyzer<String> userAgentAnalyzer = new UserAgentAnnotationAnalyzer<>();
+---
+>         UserAgentAnnotationAnalyzer<String> userAgentAnalyzer = new UserAgentAnnotationAnalyzer<	>();

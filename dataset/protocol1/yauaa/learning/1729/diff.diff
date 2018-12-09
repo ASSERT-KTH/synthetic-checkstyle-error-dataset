@@ -1,0 +1,4 @@
+33c33
+<         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:Matcher-tests.yaml");
+---
+>        UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:Matcher-tests.yaml");

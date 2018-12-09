@@ -1,0 +1,4 @@
+64c64
+<         FunctionTemplate fnDefn = fnClass.getAnnotation(FunctionTemplate.class);
+---
+>        FunctionTemplate fnDefn = fnClass.getAnnotation(FunctionTemplate.class);

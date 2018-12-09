@@ -1,0 +1,4 @@
+107c107
+<             "from (values(1))";
+---
+>            "from (values(1))";

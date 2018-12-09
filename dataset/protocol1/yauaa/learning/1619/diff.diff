@@ -1,0 +1,4 @@
+45c45
+<     public int getEnd() {
+---
+>    public int getEnd() {

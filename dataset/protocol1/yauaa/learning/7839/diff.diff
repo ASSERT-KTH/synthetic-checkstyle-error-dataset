@@ -1,0 +1,4 @@
+137c137
+<             LOG.error("There is NO fieldname for the requested \"{}\" ({})", outputname, name);
+---
+>             LOG.error("There is NO fieldname for the requested \"{}\" ({})", outputname, name );

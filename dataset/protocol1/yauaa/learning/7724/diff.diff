@@ -1,0 +1,4 @@
+87c87
+<     public Range visitWordRangeStartToEnd(UserAgentTreeWalkerParser.WordRangeStartToEndContext ctx) {
+---
+>     public Range visitWordRangeStartToEnd(UserAgentTreeWalkerParser.WordRangeStartToEndContext ctx) 	{

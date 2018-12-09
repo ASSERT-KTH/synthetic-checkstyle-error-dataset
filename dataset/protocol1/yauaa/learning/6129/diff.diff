@@ -1,0 +1,5 @@
+323c323,324
+<         analyzerSet.add(matcherAction);
+---
+>         analyzerSet
+> .add(matcherAction);

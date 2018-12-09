@@ -1,0 +1,5 @@
+531c531,532
+<                     sb.append(": '").append(field.getValue()).append('\'');
+---
+>                     sb.append(": '").append(field.getValue()).
+> append('\'');

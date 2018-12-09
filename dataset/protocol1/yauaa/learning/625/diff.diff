@@ -1,0 +1,5 @@
+37c37,38
+<     private static final Integer DEFAULT_MIN = 1;
+---
+>     private static final Integer DEFAULT_MIN = 1
+> ;

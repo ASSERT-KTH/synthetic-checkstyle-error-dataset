@@ -1,0 +1,4 @@
+259c259
+<         for (String walkStep : expectedWalkList) {
+---
+>         for ( String walkStep : expectedWalkList) {

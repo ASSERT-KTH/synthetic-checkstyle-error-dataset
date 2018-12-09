@@ -1,0 +1,5 @@
+140c140,141
+<         cleaned = cleaned.replaceAll(" dash ", "-");
+---
+>         cleaned = cleaned.replaceAll(" dash ", 
+> "-");

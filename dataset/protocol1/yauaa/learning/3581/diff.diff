@@ -1,0 +1,5 @@
+92c92,93
+<         assertEquals("Chrome 48.0.2564.82", record.agentNameVersion);
+---
+>         assertEquals(
+> "Chrome 48.0.2564.82", record.agentNameVersion);

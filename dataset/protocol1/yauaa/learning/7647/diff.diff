@@ -1,0 +1,4 @@
+42c42
+<         expectedEx.expectMessage(containsString(message));
+---
+>         expectedEx.expectMessage(containsString(message)) ;

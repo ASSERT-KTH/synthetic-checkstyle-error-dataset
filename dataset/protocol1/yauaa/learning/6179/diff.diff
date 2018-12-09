@@ -1,0 +1,4 @@
+51c51
+<         MAX_RANGE.put("version",              5); // Max was 4
+---
+>         MAX_RANGE. put("version",              5); // Max was 4

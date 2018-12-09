@@ -1,0 +1,4 @@
+122c122
+<         List<TestRecord> result = new ArrayList<>(5);
+---
+>         List	<TestRecord> result = new ArrayList<>(5);

@@ -1,0 +1,4 @@
+487c487
+<             String lookupSetName = ctx.set.getText();
+---
+>            String lookupSetName = ctx.set.getText();

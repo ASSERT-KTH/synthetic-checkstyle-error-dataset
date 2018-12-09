@@ -1,0 +1,4 @@
+124c124
+<         nullableVarCharHolder.buffer.reallocIfNeeded(bytes.length);
+---
+>         nullableVarCharHolder.buffer	.reallocIfNeeded(bytes.length);

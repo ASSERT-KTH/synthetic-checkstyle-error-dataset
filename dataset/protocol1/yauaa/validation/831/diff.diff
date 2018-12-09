@@ -1,0 +1,4 @@
+29c29
+<         boolean foundCurrent = false;
+---
+>        boolean foundCurrent = false;

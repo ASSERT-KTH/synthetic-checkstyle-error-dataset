@@ -1,0 +1,4 @@
+31c31
+<         String cleanedValue = EvilManualUseragentStringHacks.replaceString(actualValue, "_", ".");
+---
+>         String cleanedValue = EvilManualUseragentStringHacks.replaceString(actualValue, "_",".");

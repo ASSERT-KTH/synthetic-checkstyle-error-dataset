@@ -1,0 +1,4 @@
+161c161
+<         checkAbsent(schema, "FacebookDeviceClass"            );
+---
+>         checkAbsent(schema , "FacebookDeviceClass"            );

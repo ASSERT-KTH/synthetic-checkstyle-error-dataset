@@ -1,0 +1,4 @@
+346c346
+<             calculateInformPath(action, treeName, ((MatcherConcatPrefixContext) tree).matcher()));
+---
+>            calculateInformPath(action, treeName, ((MatcherConcatPrefixContext) tree).matcher()));

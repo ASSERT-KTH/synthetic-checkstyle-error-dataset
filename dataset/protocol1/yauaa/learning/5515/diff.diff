@@ -1,0 +1,5 @@
+98c98,99
+<         UserAgent agent = userAgentAnalyzer.parse(userAgentString);
+---
+>         UserAgent agent = userAgentAnalyzer
+> .parse(userAgentString);

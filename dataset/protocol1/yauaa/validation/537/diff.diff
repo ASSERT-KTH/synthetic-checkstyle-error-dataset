@@ -1,0 +1,4 @@
+69c69
+<             userAgentAnalyzer.initialize(this);
+---
+>            userAgentAnalyzer.initialize(this);

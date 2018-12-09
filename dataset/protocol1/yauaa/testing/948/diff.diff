@@ -1,0 +1,5 @@
+32c32,33
+<             this(caseSensitive, 0);
+---
+>             this(
+> caseSensitive, 0);

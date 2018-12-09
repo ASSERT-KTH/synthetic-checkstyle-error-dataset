@@ -1,0 +1,5 @@
+23c23,24
+< import org.apache.flink.table.functions.FunctionContext;
+---
+> import org.apache.
+> flink.table.functions.FunctionContext;

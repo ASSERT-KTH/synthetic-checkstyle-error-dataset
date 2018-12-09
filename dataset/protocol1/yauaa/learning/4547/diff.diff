@@ -1,0 +1,4 @@
+65c65
+<         assertTrue(useragent.toJson().contains("\"DeviceName\":\"Google Nexus 6\""));
+---
+>        assertTrue(useragent.toJson().contains("\"DeviceName\":\"Google Nexus 6\""));

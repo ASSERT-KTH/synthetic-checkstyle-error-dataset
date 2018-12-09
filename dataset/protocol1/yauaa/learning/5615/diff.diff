@@ -1,0 +1,4 @@
+188c188
+<         return value.substring(splitList.get(firstIndex).getLeft(), splitList.get(lastIndex).getRight());
+---
+>         return value.substring(splitList.get(firstIndex).getLeft(), splitList.get(lastIndex).getRight ());

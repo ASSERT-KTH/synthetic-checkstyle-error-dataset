@@ -1,0 +1,4 @@
+122c122
+<         assertEquals(expectedValue, agent.getValue(name));
+---
+>         assertEquals( expectedValue, agent.getValue(name));

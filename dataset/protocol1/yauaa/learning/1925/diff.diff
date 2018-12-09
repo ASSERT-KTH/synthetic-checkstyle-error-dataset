@@ -1,0 +1,4 @@
+57c57
+<         assertTrue(values.contains(4));
+---
+>         assertTrue( values.contains(4));

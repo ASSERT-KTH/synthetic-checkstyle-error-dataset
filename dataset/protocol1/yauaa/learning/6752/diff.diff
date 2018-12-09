@@ -1,0 +1,5 @@
+29c29,30
+< public abstract class UserAgentAnalysisDoFn<T extends Serializable> extends DoFn<T, T>
+---
+> public abstract class UserAgentAnalysisDoFn<T extends Serializable> extends DoFn<
+> T, T>

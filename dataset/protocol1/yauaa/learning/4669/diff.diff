@@ -1,0 +1,5 @@
+55c55,56
+<                     rangeString = "[" + first + "-" + last + "]";
+---
+>                     rangeString = "[" + first + "-" + last + "]"
+> ;

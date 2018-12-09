@@ -1,0 +1,4 @@
+49c49
+<         if (result.charAt(0) == ' ') {
+---
+>         if 	(result.charAt(0) == ' ') {

@@ -1,0 +1,4 @@
+29c29
+<     public StepConcat(String prefix, String postfix) {
+---
+>     public StepConcat( String prefix, String postfix) {

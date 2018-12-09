@@ -1,0 +1,4 @@
+92c92
+<         function.outBuffer = allocator.buffer(1000);
+---
+>         function.outBuffer = allocator	.buffer(1000);

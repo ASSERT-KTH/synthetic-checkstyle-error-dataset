@@ -1,0 +1,4 @@
+22c22
+< public class TestRecord implements Serializable {
+---
+>  public class TestRecord implements Serializable {

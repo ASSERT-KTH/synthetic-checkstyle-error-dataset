@@ -1,0 +1,4 @@
+38c38
+<     private static final Logger LOG = LoggerFactory.getLogger(TestPredefinedBrowsersPerField.class);
+---
+>     private static final Logger LOG 	= LoggerFactory.getLogger(TestPredefinedBrowsersPerField.class);

@@ -1,0 +1,4 @@
+48c48
+<                 children[lastChildIndex] = child;
+---
+>                children[lastChildIndex] = child;

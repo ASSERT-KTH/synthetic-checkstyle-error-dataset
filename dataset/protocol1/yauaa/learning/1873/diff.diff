@@ -1,0 +1,4 @@
+20c20
+< import nl.basjes.parse.useragent.analyze.treewalker.steps.Step;
+---
+>  import nl.basjes.parse.useragent.analyze.treewalker.steps.Step;

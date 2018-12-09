@@ -1,0 +1,5 @@
+20c20,21
+< import org.antlr.v4.runtime.CharStream;
+---
+> import org.
+> antlr.v4.runtime.CharStream;

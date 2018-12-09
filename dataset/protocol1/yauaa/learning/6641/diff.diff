@@ -1,0 +1,5 @@
+108c108,109
+<         if (rawParseCache instanceof LRUMap<?, ?>) {
+---
+>         if (rawParseCache instanceof LRUMap<?, ?
+> >) {

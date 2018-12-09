@@ -1,0 +1,4 @@
+87c87
+<             ,"agent.(1)product.(1)name=\"Foo\""
+---
+>             ,	"agent.(1)product.(1)name=\"Foo\""

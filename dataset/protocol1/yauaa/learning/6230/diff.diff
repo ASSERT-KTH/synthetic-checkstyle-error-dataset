@@ -1,0 +1,5 @@
+116,117c116
+<             return "FIXED  : (" + attribute + ", " + confidence + ") =   \"" + fixedValue + "\"";
+<         } else {
+---
+>             return "FIXED  : (" + attribute + ", " + confidence + ") =   \"" + fixedValue + "\"";        } else {

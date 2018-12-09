@@ -1,0 +1,4 @@
+152c152
+<         assertEquals("One",    parsedAgent.getValue("ExtraValue1" ));
+---
+>        assertEquals("One",    parsedAgent.getValue("ExtraValue1" ));

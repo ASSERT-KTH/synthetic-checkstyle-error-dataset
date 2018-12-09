@@ -1,0 +1,5 @@
+76,77c76
+<         runTest(
+<             "classpath*:BadDefinitions/LookupSetMissing.yaml",
+---
+>         runTest(            "classpath*:BadDefinitions/LookupSetMissing.yaml",

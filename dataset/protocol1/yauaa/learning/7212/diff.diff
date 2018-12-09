@@ -1,0 +1,4 @@
+44c44
+<                 if (stepsToDo == 0) {
+---
+>                 if ( stepsToDo == 0) {

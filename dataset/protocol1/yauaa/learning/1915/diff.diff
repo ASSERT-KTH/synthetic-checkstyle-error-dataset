@@ -1,0 +1,5 @@
+108c108,109
+<         List<Node> versionList = versionNode.getValue();
+---
+>         List<Node> versionList = versionNode.getValue(
+> );

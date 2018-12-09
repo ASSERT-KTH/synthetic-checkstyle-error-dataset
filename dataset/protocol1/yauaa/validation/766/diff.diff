@@ -1,0 +1,5 @@
+75,76c75
+<             "The value should be a map but it is a " + valueNode.getNodeId().name());
+<         return ((MappingNode)valueNode);
+---
+>             "The value should be a map but it is a " + valueNode.getNodeId().name());        return ((MappingNode)valueNode);

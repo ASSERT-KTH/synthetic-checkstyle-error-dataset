@@ -1,0 +1,4 @@
+41c41
+<         pigServer.registerQuery(
+---
+>         pigServer	.registerQuery(

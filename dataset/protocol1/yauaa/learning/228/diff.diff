@@ -1,0 +1,4 @@
+105c105
+<         assertEquals("For the DeviceClass " + deviceClass.toString() + " the isHuman() was incorrect.",
+---
+>        assertEquals("For the DeviceClass " + deviceClass.toString() + " the isHuman() was incorrect.",

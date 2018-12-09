@@ -1,0 +1,4 @@
+48c48
+< import nl.basjes.parse.useragent.parser.UserAgentParser.UuIdContext;
+---
+> import nl	.basjes.parse.useragent.parser.UserAgentParser.UuIdContext;

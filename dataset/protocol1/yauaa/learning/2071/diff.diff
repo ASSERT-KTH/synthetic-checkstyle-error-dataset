@@ -1,0 +1,4 @@
+96c96
+<                         throw new InvalidParserConfigurationException("Method annotated with YauaaField is not public: " +
+---
+>                        throw new InvalidParserConfigurationException("Method annotated with YauaaField is not public: " +

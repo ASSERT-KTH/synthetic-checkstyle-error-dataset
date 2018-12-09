@@ -1,0 +1,5 @@
+76,77c76
+<     private static synchronized void constructAnalyzer(){
+<         if (userAgentAnalyzer == null) {
+---
+>     private static synchronized void constructAnalyzer(){        if (userAgentAnalyzer == null) {

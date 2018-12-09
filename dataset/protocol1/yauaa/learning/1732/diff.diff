@@ -1,0 +1,4 @@
+149c149
+<         if (lastSplit == -1) {
+---
+>         if (lastSplit == - 1) {

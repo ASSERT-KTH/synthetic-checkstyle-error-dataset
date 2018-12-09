@@ -1,0 +1,4 @@
+122c122
+<         pigServer.registerQuery("define ParseUserAgent nl.basjes.parse.useragent.pig.ParseUserAgent('5','DeviceClass','AgentNameVersionMajor');");
+---
+>         pigServer.registerQuery ("define ParseUserAgent nl.basjes.parse.useragent.pig.ParseUserAgent('5','DeviceClass','AgentNameVersionMajor');");

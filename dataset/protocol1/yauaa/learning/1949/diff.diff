@@ -1,0 +1,4 @@
+30c30
+< import static nl.basjes.parse.useragent.classify.DeviceClass.Robot;
+---
+> 	import static nl.basjes.parse.useragent.classify.DeviceClass.Robot;

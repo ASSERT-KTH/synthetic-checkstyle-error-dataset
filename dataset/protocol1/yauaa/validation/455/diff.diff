@@ -1,0 +1,5 @@
+33c33,34
+<         this.prefixLookup = new PrefixLookup(prefixList, false);
+---
+>         this
+> .prefixLookup = new PrefixLookup(prefixList, false);

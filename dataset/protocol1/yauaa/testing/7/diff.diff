@@ -1,0 +1,5 @@
+133c133,134
+<                 if (context.getProperty(propertyDescriptor).asBoolean()) {
+---
+>                 if (context.getProperty(propertyDescriptor
+> ).asBoolean()) {

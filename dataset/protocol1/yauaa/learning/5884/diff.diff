@@ -1,0 +1,5 @@
+107c107,108
+<                 .apply("Create", Create.of(testInput));
+---
+>                 .apply("Create", Create.
+> of(testInput));

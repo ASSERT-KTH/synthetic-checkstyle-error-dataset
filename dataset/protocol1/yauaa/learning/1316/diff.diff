@@ -1,0 +1,4 @@
+97c97
+<     protected String getActualValue(ParseTree tree, String value) {
+---
+>     protected String getActualValue(ParseTree 	tree, String value) {

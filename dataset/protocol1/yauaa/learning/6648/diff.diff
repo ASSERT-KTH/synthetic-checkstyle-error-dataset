@@ -1,0 +1,4 @@
+113c113
+<         function.open(null);
+---
+>        function.open(null);

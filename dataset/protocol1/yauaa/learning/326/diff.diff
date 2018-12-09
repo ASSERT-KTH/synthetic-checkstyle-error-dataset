@@ -1,0 +1,4 @@
+356c356
+<                 LOG.info("SKIP {} ({}) = {}", attribute, confidence, value);
+---
+>                 LOG.info("SKIP {} ({}) = {}", attribute, confidence, value );

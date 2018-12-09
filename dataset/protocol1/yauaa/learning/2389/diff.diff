@@ -1,0 +1,5 @@
+29c29,30
+< import static org.hamcrest.core.StringStartsWith.startsWith;
+---
+> import 
+> static org.hamcrest.core.StringStartsWith.startsWith;

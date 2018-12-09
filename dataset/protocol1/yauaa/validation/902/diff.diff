@@ -1,0 +1,4 @@
+36c36
+<         String actualValue = getActualValue(tree, value);
+---
+>          String actualValue = getActualValue(tree, value);

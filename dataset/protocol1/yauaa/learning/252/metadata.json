@@ -1,0 +1,1 @@
+{"injection_operator": "insertion-newline", "line": "71", "message": "'\"agent.(1)product.(1)comments.(3)entry[3-3]\"' has incorrect indentation level 0, expected level should be 16.", "type": "Indentation"}

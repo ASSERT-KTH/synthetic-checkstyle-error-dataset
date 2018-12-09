@@ -1,0 +1,5 @@
+36c36,37
+<         this.cacheSize = DEFAULT_PARSE_CACHE_SIZE;
+---
+>         this.cacheSize = DEFAULT_PARSE_CACHE_SIZE
+> ;

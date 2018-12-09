@@ -1,0 +1,5 @@
+85c85,86
+<                 if (i == (nameChars.length-1)) {
+---
+>                 if (i == (nameChars.length-1
+> )) {

@@ -1,0 +1,5 @@
+276,277c276
+<         assertEquals(null,                     splitter.getFirstSplits(value, 0));
+<         assertEquals("one",                    splitter.getFirstSplits(value, 1));
+---
+>         assertEquals(null,                     splitter.getFirstSplits(value, 0));        assertEquals("one",                    splitter.getFirstSplits(value, 1));

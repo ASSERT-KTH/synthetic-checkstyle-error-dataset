@@ -1,0 +1,5 @@
+24c24,25
+< import org.apache.pig.data.DataType;
+---
+> import org.apache.pig.data.DataType
+> ;

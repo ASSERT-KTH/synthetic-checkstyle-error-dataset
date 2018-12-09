@@ -1,0 +1,4 @@
+87c87
+<         verifyDeviceClass(VirtualReality,        true,   true,  true, false);
+---
+>          verifyDeviceClass(VirtualReality,        true,   true,  true, false);

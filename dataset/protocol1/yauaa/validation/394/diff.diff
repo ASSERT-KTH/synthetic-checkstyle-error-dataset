@@ -1,0 +1,4 @@
+30c30
+< public final class YamlUtils {
+---
+> public final 	class YamlUtils {

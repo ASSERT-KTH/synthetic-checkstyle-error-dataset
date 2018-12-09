@@ -1,0 +1,5 @@
+141c141,142
+<     public void profileMemoryFootprint() { //NOSONAR: Do not complain about ignored performance test
+---
+>     
+> public void profileMemoryFootprint() { //NOSONAR: Do not complain about ignored performance test

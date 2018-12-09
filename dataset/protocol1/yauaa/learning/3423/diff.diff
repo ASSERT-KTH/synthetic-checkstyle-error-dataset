@@ -1,0 +1,4 @@
+36c36
+<     private void printMemoryUsage(int iterationsDone, long averageNanos) {
+---
+>     private void printMemoryUsage(int 	iterationsDone, long averageNanos) {

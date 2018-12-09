@@ -1,0 +1,4 @@
+68c68
+<     public static class MyMapper extends MyBaseMapper {
+---
+>      public static class MyMapper extends MyBaseMapper {

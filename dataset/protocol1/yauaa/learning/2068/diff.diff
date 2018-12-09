@@ -1,0 +1,5 @@
+63c63,64
+<     public void testAnnotationCacheSetting1() throws IllegalAccessException, NoSuchFieldException {
+---
+>     
+> public void testAnnotationCacheSetting1() throws IllegalAccessException, NoSuchFieldException {

@@ -1,0 +1,4 @@
+243c243
+<                     childType = PathType.VERSION;
+---
+>                      childType = PathType.VERSION;

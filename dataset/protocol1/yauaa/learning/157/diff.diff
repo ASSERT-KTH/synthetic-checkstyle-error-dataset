@@ -1,0 +1,5 @@
+107c107,108
+<         Object rawParseCache = FieldUtils.readField(uaa, "parseCache", true);
+---
+>         Object rawParseCache = FieldUtils.readField(uaa, "parseCache", true)
+> ;

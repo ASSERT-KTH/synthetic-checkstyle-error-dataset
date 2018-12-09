@@ -1,0 +1,4 @@
+178c178
+<         assertEquals("node123.datacenter.example.nl",            parsedAgent.getValue("ServerName"));
+---
+>         assertEquals("node123.datacenter.example.nl",            parsedAgent.getValue("ServerName"	));

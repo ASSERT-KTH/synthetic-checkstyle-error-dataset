@@ -1,0 +1,5 @@
+121c121,122
+<             throw new InvalidParserConfigurationException("Syntax error \"" + msg + "\" caused by \"" + matchExpression + "\".");
+---
+>             throw new InvalidParserConfigurationException("Syntax error \"" 
+> + msg + "\" caused by \"" + matchExpression + "\".");

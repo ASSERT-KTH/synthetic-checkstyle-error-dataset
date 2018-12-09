@@ -1,0 +1,5 @@
+139c139,140
+<     public static void assertSameVersion(String gitCommitIdDescribeShort, String buildTimestamp, String projectVersion) {
+---
+>     public static void assertSameVersion(String gitCommitIdDescribeShort, String buildTimestamp, String projectVersion
+> ) {

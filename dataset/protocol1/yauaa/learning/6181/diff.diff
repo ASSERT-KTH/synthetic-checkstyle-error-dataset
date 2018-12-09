@@ -1,0 +1,5 @@
+32c32,33
+< import nl.basjes.parse.useragent.parser.UserAgentParser.MultipleWordsContext;
+---
+> import nl.basjes.parse.useragent.parser.
+> UserAgentParser.MultipleWordsContext;

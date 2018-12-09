@@ -1,0 +1,4 @@
+18c18
+< package nl.basjes.parse.useragent.analyze.treewalker.steps.walk;
+---
+> package nl.basjes.parse.useragent. analyze.treewalker.steps.walk;

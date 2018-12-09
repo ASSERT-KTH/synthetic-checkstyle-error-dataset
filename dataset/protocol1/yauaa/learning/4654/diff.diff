@@ -1,0 +1,4 @@
+106c106
+<         return new NumberRangeList(value, value);
+---
+>         return new 	NumberRangeList(value, value);

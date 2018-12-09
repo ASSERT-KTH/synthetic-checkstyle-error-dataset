@@ -1,0 +1,4 @@
+32c32
+<     private ParseTree next(ParseTree tree) {
+---
+>     private ParseTree next(ParseTree tree ) {

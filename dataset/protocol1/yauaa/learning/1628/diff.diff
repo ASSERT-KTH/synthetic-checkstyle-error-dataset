@@ -1,0 +1,4 @@
+65c65
+<         nl.basjes.parse.useragent.UserAgent agent = uaa.parse(userAgentString);
+---
+>        nl.basjes.parse.useragent.UserAgent agent = uaa.parse(userAgentString);

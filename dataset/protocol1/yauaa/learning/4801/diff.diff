@@ -1,0 +1,4 @@
+86c86
+<         uaa.loadResources("classpath*:UserAgents/**/*.yaml");
+---
+>        uaa.loadResources("classpath*:UserAgents/**/*.yaml");

@@ -1,0 +1,4 @@
+90c90
+<         List<Node> valueNodes = ((SequenceNode)sequenceNode).getValue();
+---
+>         List<Node> valueNodes = ((SequenceNode)sequenceNode ).getValue();

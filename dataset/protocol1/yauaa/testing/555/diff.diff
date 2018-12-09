@@ -1,0 +1,4 @@
+52c52
+<         TestRecord record = (TestRecord) o;
+---
+>        TestRecord record = (TestRecord) o;

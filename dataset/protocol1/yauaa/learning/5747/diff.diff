@@ -1,0 +1,4 @@
+62c62
+<             char theChar = chars[charNr];
+---
+>             char theChar = chars[charNr] ;

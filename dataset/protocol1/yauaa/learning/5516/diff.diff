@@ -1,0 +1,4 @@
+25c25
+< import org.apache.flink.table.api.Table;
+---
+> import org.apache.flink.table. api.Table;

@@ -1,0 +1,5 @@
+73c73,74
+<         for (String fieldName: agent.getAvailableFieldNamesSorted()) {
+---
+>         for (
+> String fieldName: agent.getAvailableFieldNamesSorted()) {

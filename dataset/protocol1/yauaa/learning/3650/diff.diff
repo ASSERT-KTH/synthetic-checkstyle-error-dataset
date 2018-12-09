@@ -1,0 +1,4 @@
+31c31
+<     private final String variableName;
+---
+>      private final String variableName;

@@ -1,0 +1,4 @@
+43c43
+<         PigServer pigServer = new PigServer(ExecType.LOCAL);
+---
+>         PigServer pigServer = new PigServer(ExecType. LOCAL);

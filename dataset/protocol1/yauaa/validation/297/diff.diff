@@ -1,0 +1,5 @@
+24,25c24
+< import nl.basjes.parse.useragent.parser.UserAgentParser.SingleVersionWithCommasContext;
+< import nl.basjes.parse.useragent.utils.VersionSplitter;
+---
+> import nl.basjes.parse.useragent.parser.UserAgentParser.SingleVersionWithCommasContext;import nl.basjes.parse.useragent.utils.VersionSplitter;

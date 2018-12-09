@@ -1,0 +1,4 @@
+142c142
+<                         configLines.add(new ConfigLine(REQUIRE, null, null, requireConfig));
+---
+>                         configLines.add(new ConfigLine(REQUIRE, null, null , requireConfig));

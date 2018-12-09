@@ -1,0 +1,4 @@
+217c217
+<         assertNull(agent.getUserAgentString());
+---
+>        assertNull(agent.getUserAgentString());

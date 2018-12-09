@@ -1,0 +1,4 @@
+110c110
+<         Splitter splitter = VersionSplitter.getInstance();
+---
+>         Splitter splitter = VersionSplitter.getInstance() ;

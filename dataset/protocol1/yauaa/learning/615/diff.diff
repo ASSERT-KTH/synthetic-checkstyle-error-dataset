@@ -1,0 +1,5 @@
+165,166c165
+<                 newInstance.getClass().getCanonicalName() + " which is not a UserAgentDissector");
+<         }
+---
+>                 newInstance.getClass().getCanonicalName() + " which is not a UserAgentDissector");        }

@@ -1,0 +1,4 @@
+141c141
+<         cleaned = cleaned.replaceAll(" ", "");
+---
+>        cleaned = cleaned.replaceAll(" ", "");

@@ -1,0 +1,5 @@
+345,346c345
+<         CALCULATE_INFORM_PATH.put(MatcherConcatPrefixContext.class,     (action, treeName, tree) ->
+<             calculateInformPath(action, treeName, ((MatcherConcatPrefixContext) tree).matcher()));
+---
+>         CALCULATE_INFORM_PATH.put(MatcherConcatPrefixContext.class,     (action, treeName, tree) ->            calculateInformPath(action, treeName, ((MatcherConcatPrefixContext) tree).matcher()));

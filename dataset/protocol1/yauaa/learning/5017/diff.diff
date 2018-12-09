@@ -1,0 +1,5 @@
+298,299c298
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "KoboAffiliate"                   );
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "KoboPlatformId"                  );
+---
+>         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "KoboAffiliate"                   );        result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "KoboPlatformId"                  );

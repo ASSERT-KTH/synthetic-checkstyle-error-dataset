@@ -1,0 +1,4 @@
+274c274
+<             set(entry.getKey(), entry.getValue().getValue(), entry.getValue().confidence);
+---
+>             set(entry	.getKey(), entry.getValue().getValue(), entry.getValue().confidence);

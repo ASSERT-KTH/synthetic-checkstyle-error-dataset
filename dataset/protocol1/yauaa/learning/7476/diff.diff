@@ -1,0 +1,4 @@
+69c69
+<         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:LookupPrefix-tests.yaml");
+---
+>        UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:LookupPrefix-tests.yaml");

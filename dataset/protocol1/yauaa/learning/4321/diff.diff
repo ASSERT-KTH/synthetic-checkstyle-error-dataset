@@ -1,0 +1,4 @@
+20c20
+< import nl.basjes.parse.useragent.annotate.UserAgentAnnotationAnalyzer;
+---
+> import nl	.basjes.parse.useragent.annotate.UserAgentAnnotationAnalyzer;

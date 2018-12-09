@@ -1,0 +1,5 @@
+32c32,33
+<     public StepLookup(String lookupName, Map<String, String> lookup, String defaultValue) {
+---
+>     public StepLookup(String lookupName, Map<String, String
+> > lookup, String defaultValue) {

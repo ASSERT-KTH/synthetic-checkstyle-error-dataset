@@ -1,0 +1,5 @@
+21,22c21
+< import nl.basjes.parse.useragent.analyze.treewalker.steps.WalkList.WalkResult;
+< import org.antlr.v4.runtime.tree.ParseTree;
+---
+> import nl.basjes.parse.useragent.analyze.treewalker.steps.WalkList.WalkResult;import org.antlr.v4.runtime.tree.ParseTree;

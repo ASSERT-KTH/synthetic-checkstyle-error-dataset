@@ -1,0 +1,5 @@
+25c25,26
+< import nl.basjes.parse.useragent.analyze.UselessMatcherException;
+---
+> import nl.basjes.parse.useragent.analyze.UselessMatcherException
+> ;

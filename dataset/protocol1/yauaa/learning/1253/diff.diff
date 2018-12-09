@@ -1,0 +1,5 @@
+92,93c92
+<         verifyDeviceClass(HandheldGameConsole,   true,   true,  true, false);
+<         verifyDeviceClass(Robot,                 false, false, false, false);
+---
+>         verifyDeviceClass(HandheldGameConsole,   true,   true,  true, false);        verifyDeviceClass(Robot,                 false, false, false, false);

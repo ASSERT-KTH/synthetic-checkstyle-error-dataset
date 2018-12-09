@@ -1,0 +1,5 @@
+22,23c22
+< import nl.basjes.parse.useragent.UserAgentAnalyzer.UserAgentAnalyzerBuilder;
+< import org.apache.pig.FuncSpec;
+---
+> import nl.basjes.parse.useragent.UserAgentAnalyzer.UserAgentAnalyzerBuilder;import org.apache.pig.FuncSpec;

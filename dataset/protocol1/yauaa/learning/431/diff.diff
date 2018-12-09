@@ -1,0 +1,5 @@
+51,52c51
+<             if (child == tree) {
+<                 if (lastChildIndex < steps) {
+---
+>             if (child == tree) {                if (lastChildIndex < steps) {

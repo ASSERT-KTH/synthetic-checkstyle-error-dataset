@@ -1,0 +1,4 @@
+186c186
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemVersion", "Intel x86_64" );
+---
+>         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemVersion" , "Intel x86_64" );

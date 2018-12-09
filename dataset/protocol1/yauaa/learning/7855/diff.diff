@@ -1,0 +1,4 @@
+94c94
+<     public Range visitWordRangeFirstWords(UserAgentTreeWalkerParser.WordRangeFirstWordsContext ctx) {
+---
+>     	public Range visitWordRangeFirstWords(UserAgentTreeWalkerParser.WordRangeFirstWordsContext ctx) {

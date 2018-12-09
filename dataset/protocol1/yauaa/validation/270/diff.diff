@@ -1,0 +1,4 @@
+58c58
+<     public static String getKeyAsString(NodeTuple tuple, String filename) {
+---
+>     public 	static String getKeyAsString(NodeTuple tuple, String filename) {

@@ -1,0 +1,5 @@
+269,270c269
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "DeviceName"                      );
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "OperatingSystemClass"            );
+---
+>         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "DeviceName"                      );        result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "OperatingSystemClass"            );

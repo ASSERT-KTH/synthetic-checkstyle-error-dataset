@@ -1,0 +1,5 @@
+195c195,196
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "LayoutEngineVersion"             );
+---
+>         result.assertAttributeNotExists(
+> ATTRIBUTE_PREFIX + "LayoutEngineVersion"             );

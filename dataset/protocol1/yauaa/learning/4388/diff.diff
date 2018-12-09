@@ -1,0 +1,5 @@
+22c22,23
+< import org.apache.drill.exec.expr.annotations.FunctionTemplate;
+---
+> import org.apache.
+> drill.exec.expr.annotations.FunctionTemplate;

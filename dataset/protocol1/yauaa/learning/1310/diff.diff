@@ -1,0 +1,4 @@
+97c97
+<                 public void setImpossibleField(TestRecord record, String value) {
+---
+>                 public void setImpossibleField(TestRecord record, String 	value) {

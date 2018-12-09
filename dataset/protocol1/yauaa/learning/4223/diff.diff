@@ -1,0 +1,4 @@
+163c163
+<         uaa.setCacheSize(10000);
+---
+>        uaa.setCacheSize(10000);

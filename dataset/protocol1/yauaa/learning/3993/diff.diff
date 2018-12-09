@@ -1,0 +1,4 @@
+34c34
+< import static nl.basjes.parse.useragent.Version.PROJECT_VERSION;
+---
+> import static nl.basjes.parse.useragent.Version. PROJECT_VERSION;

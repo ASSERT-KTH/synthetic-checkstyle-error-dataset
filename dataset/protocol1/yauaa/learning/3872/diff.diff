@@ -1,0 +1,4 @@
+73c73
+<         List<TestRecord> result = new ArrayList<>(5);
+---
+>         List<TestRecord> result = new ArrayList<	>(5);

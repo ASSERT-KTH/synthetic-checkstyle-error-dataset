@@ -1,0 +1,4 @@
+68c68
+<     public void testBadConfig2() {
+---
+>     	public void testBadConfig2() {

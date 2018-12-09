@@ -1,0 +1,4 @@
+24c24
+< import org.apache.nifi.annotation.behavior.ReadsAttribute;
+---
+>  import org.apache.nifi.annotation.behavior.ReadsAttribute;

@@ -1,0 +1,4 @@
+236c236
+<                     fieldNames.clear();
+---
+>                      fieldNames.clear();

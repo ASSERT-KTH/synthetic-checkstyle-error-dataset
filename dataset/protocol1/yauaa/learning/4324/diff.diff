@@ -1,0 +1,5 @@
+111c111,112
+<         return new NumberRangeList(DEFAULT_MIN, getMaxRange(ctx));
+---
+>         return new NumberRangeList(DEFAULT_MIN, 
+> getMaxRange(ctx));

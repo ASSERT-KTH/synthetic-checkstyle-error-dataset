@@ -1,0 +1,4 @@
+31c31
+< import static nl.basjes.parse.useragent.utils.AntlrUtils.getSourceText;
+---
+> import static nl.basjes.parse.useragent.utils	.AntlrUtils.getSourceText;

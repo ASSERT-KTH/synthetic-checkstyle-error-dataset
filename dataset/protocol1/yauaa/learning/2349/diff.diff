@@ -1,0 +1,4 @@
+72c72
+<         assertTrue("The initialization went too fast, this should take several seconds", initializeMsecs > 1000);
+---
+>        assertTrue("The initialization went too fast, this should take several seconds", initializeMsecs > 1000);

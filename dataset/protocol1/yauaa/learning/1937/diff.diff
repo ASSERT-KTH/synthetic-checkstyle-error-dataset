@@ -1,0 +1,5 @@
+35c35,36
+< public final class NumberRangeVisitor extends UserAgentTreeWalkerBaseVisitor<NumberRangeList> {
+---
+> public final class NumberRangeVisitor extends UserAgentTreeWalkerBaseVisitor<NumberRangeList
+> > {

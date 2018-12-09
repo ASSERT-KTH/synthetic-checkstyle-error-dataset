@@ -1,0 +1,4 @@
+151c151
+<         assertNull(copyFoo.getValue()); // The default should NOT be modified
+---
+>        assertNull(copyFoo.getValue()); // The default should NOT be modified

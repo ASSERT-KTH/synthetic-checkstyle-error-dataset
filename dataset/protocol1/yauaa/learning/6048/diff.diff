@@ -1,0 +1,4 @@
+48c48
+<         assertEquals("53",                       parsedAgent.getValue("AgentVersionMajor"        )); // 53
+---
+>         assertEquals("53",                       	parsedAgent.getValue("AgentVersionMajor"        )); // 53

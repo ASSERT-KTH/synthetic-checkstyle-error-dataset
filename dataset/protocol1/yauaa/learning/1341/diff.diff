@@ -1,0 +1,5 @@
+62c62,63
+<         runner.setProperty(PROPERTY_PREFIX + "AgentClass",                       "true");
+---
+>         runner.
+> setProperty(PROPERTY_PREFIX + "AgentClass",                       "true");

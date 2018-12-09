@@ -1,0 +1,4 @@
+50c50
+<         MAX_RANGE.put("value",                2); // Max was 2
+---
+>         MAX_RANGE. put("value",                2); // Max was 2

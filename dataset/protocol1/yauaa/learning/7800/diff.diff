@@ -1,0 +1,4 @@
+57c57
+<         Set<String> singleFieldList = new HashSet<>();
+---
+>          Set<String> singleFieldList = new HashSet<>();

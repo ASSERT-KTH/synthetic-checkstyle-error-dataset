@@ -1,0 +1,5 @@
+59c59,60
+<         if (nextTree == null) {
+---
+>         if (nextTree == null
+> ) {

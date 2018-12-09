@@ -1,0 +1,4 @@
+315c315
+<                 throw new InvalidParserConfigurationException("Missing lookup \"" + lookupName + "\" ");
+---
+>                 throw new InvalidParserConfigurationException("Missing lookup \"" + lookupName + "\" ") ;

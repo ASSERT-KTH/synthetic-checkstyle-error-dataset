@@ -1,0 +1,5 @@
+45c45,46
+<               tree.getChild(0) instanceof SingleVersionWithCommasContext)) {
+---
+>               tree
+> .getChild(0) instanceof SingleVersionWithCommasContext)) {

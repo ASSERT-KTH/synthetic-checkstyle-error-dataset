@@ -1,0 +1,4 @@
+48c48
+<         mapper.open(null);
+---
+>        mapper.open(null);

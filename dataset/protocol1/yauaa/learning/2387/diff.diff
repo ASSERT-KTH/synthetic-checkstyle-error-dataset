@@ -1,0 +1,4 @@
+169c169
+<         newUserAgentDissector.allPossibleFieldNames = new ArrayList<>(allPossibleFieldNames);
+---
+>         newUserAgentDissector.allPossibleFieldNames 	= new ArrayList<>(allPossibleFieldNames);

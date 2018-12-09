@@ -1,0 +1,5 @@
+147c147,148
+<         LOG.info("Preparing UserAgentAnalyzer to extract {}", requestedFieldNames.isEmpty()? "all fields" : requestedFieldNames);
+---
+>         LOG.info("Preparing UserAgentAnalyzer to extract {}", requestedFieldNames
+> .isEmpty()? "all fields" : requestedFieldNames);

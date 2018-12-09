@@ -1,0 +1,4 @@
+70c70
+<         if (extraLines.length > 0) {
+---
+>        if (extraLines.length > 0) {

@@ -1,0 +1,4 @@
+25c25
+< public class StepNormalizeBrand extends Step {
+---
+> public 	class StepNormalizeBrand extends Step {

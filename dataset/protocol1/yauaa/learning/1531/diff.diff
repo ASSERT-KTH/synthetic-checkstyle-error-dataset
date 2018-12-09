@@ -1,0 +1,4 @@
+44c44
+<         private final int first;
+---
+>        private final int first;

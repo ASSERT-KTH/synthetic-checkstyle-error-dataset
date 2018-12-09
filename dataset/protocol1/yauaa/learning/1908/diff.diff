@@ -1,0 +1,4 @@
+77c77
+<         LOG.info("\\-{}-/", padding('-', width));
+---
+>         LOG.info("\\-{}-/", padding('-', width ));

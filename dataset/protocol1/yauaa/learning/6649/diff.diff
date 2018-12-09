@@ -1,0 +1,4 @@
+403c403
+<         assertEquals(null,                     splitter.getSplitRange(value, splitList, 0,  0));
+---
+>          assertEquals(null,                     splitter.getSplitRange(value, splitList, 0,  0));

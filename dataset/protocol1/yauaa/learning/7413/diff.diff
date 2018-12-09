@@ -1,0 +1,4 @@
+116c116
+<             result.add(getFieldOutputType(fieldName) + ":" + fieldNameToDissectionName(fieldName));
+---
+>             result.add(getFieldOutputType(fieldName) + ":" + fieldNameToDissectionName(fieldName)) ;

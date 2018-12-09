@@ -1,0 +1,5 @@
+348c348,349
+<             add(new StepConcatPrefix(ctx.prefix.getText()));
+---
+>             add(new StepConcatPrefix(ctx.prefix.getText()))
+> ;

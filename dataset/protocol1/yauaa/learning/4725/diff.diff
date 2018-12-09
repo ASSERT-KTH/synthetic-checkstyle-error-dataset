@@ -1,0 +1,5 @@
+21,22c21
+< import nl.basjes.parse.useragent.debug.UserAgentAnalyzerTester;
+< import nl.basjes.parse.useragent.parse.EvilManualUseragentStringHacks;
+---
+> import nl.basjes.parse.useragent.debug.UserAgentAnalyzerTester;import nl.basjes.parse.useragent.parse.EvilManualUseragentStringHacks;

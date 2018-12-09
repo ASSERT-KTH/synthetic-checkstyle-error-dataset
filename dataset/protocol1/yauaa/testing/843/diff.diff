@@ -1,0 +1,4 @@
+87c87
+<                 return visitLookups(ctx.matcher(), ctx.lookup, ctx.defaultValue);
+---
+>                return visitLookups(ctx.matcher(), ctx.lookup, ctx.defaultValue);

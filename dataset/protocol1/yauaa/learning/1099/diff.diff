@@ -1,0 +1,4 @@
+61c61
+< import static nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.PathFixedValueContext;
+---
+> import static nl.basjes.parse. useragent.parser.UserAgentTreeWalkerParser.PathFixedValueContext;

@@ -1,0 +1,5 @@
+134,135c134
+<     public static boolean isHuman(UserAgent userAgent) {
+<         switch (getDeviceClass(userAgent)) {
+---
+>     public static boolean isHuman(UserAgent userAgent) {        switch (getDeviceClass(userAgent)) {

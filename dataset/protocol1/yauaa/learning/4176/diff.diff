@@ -1,0 +1,5 @@
+106c106,107
+<             uaa.setCacheSize(newCacheSize);
+---
+>             uaa.setCacheSize(newCacheSize)
+> ;

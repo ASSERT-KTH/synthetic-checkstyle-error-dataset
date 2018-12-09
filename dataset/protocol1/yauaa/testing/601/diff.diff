@@ -1,0 +1,4 @@
+51c51
+< @CapabilityDescription("Extract attributes from the UserAgent string.")
+---
+> @CapabilityDescription( "Extract attributes from the UserAgent string.")

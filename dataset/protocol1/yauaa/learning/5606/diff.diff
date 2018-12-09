@@ -1,0 +1,5 @@
+29c29,30
+< import static nl.basjes.parse.useragent.classify.DeviceClass.Mobile;
+---
+> import static 
+> nl.basjes.parse.useragent.classify.DeviceClass.Mobile;

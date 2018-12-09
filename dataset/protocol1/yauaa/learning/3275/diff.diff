@@ -1,0 +1,5 @@
+117c117,118
+<     public void checkFixedStringLookupMissing() {
+---
+>     public void checkFixedStringLookupMissing(
+> ) {

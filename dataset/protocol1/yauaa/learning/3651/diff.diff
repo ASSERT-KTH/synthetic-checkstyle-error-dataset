@@ -1,0 +1,4 @@
+378c378
+<         for (String fieldName : newValuesUserAgent.allFields.keySet()) {
+---
+>         for (String fieldName : newValuesUserAgent. allFields.keySet()) {

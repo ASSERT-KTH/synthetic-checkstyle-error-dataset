@@ -1,0 +1,4 @@
+120c120
+<         char[] characters = value.toCharArray();
+---
+>         char[] 	characters = value.toCharArray();

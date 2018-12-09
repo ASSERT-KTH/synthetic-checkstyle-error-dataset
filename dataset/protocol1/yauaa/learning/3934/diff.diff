@@ -1,0 +1,5 @@
+130,131c130
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "Anonymized",                       "Unknown"             );
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "DeviceBrand",                      "Unknown"             );
+---
+>         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "Anonymized",                       "Unknown"             );        result.assertAttributeEquals(ATTRIBUTE_PREFIX + "DeviceBrand",                      "Unknown"             );

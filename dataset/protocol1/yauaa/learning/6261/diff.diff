@@ -1,0 +1,4 @@
+36c36
+< public class ParseUserAgentFunctionField implements DrillSimpleFunc {
+---
+>  public class ParseUserAgentFunctionField implements DrillSimpleFunc {

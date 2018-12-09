@@ -1,0 +1,5 @@
+65,66c65
+<         // The base input stream
+<         StreamExecutionEnvironment                       senv        = StreamExecutionEnvironment.getExecutionEnvironment();
+---
+>         // The base input stream        StreamExecutionEnvironment                       senv        = StreamExecutionEnvironment.getExecutionEnvironment();

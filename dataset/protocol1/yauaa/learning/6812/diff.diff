@@ -1,0 +1,4 @@
+138c138
+<             return null; // NOSONAR: Returning null is correct
+---
+>            return null; // NOSONAR: Returning null is correct

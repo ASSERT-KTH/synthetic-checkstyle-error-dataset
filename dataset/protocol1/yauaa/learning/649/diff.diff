@@ -1,0 +1,4 @@
+43c43
+< import nl.basjes.parse.useragent.parser.UserAgentParser.ProductNameWordsContext;
+---
+> import nl	.basjes.parse.useragent.parser.UserAgentParser.ProductNameWordsContext;

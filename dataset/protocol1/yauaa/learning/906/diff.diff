@@ -1,0 +1,4 @@
+547c547
+<                     SequenceNode node = getValueAsSequenceNode(tuple, filename);
+---
+>                     SequenceNode 	node = getValueAsSequenceNode(tuple, filename);

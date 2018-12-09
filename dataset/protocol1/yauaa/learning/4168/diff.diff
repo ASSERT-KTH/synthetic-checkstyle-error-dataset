@@ -1,0 +1,4 @@
+36c36
+<         int stepsToDo = steps;
+---
+>         int stepsToDo = steps ;

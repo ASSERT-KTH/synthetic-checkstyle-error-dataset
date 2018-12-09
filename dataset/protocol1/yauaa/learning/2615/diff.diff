@@ -1,0 +1,5 @@
+82c82,83
+<         verifyDeviceClass(Anonymized,            true,  false, false,  true);
+---
+>         verifyDeviceClass(Anonymized,            true,  false, false,  true)
+> ;

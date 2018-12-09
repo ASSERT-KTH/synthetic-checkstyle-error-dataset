@@ -1,0 +1,5 @@
+89,90c89
+<     @SuppressWarnings("unchecked")
+<     public static class UserAgentAnalyzerBuilder<UAA extends UserAgentAnalyzer, B extends UserAgentAnalyzerBuilder<UAA, B>>
+---
+>     @SuppressWarnings("unchecked")    public static class UserAgentAnalyzerBuilder<UAA extends UserAgentAnalyzer, B extends UserAgentAnalyzerBuilder<UAA, B>>

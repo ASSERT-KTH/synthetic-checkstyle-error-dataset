@@ -1,0 +1,4 @@
+120c120
+<             memory = runtime.totalMemory() - runtime.freeMemory();
+---
+>            memory = runtime.totalMemory() - runtime.freeMemory();

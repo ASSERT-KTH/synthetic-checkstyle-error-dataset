@@ -1,0 +1,5 @@
+185,186c185
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemName",    "Linux"        );
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemVersion", "Intel x86_64" );
+---
+>         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemName",    "Linux"        );        result.assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemVersion", "Intel x86_64" );

@@ -1,0 +1,5 @@
+43c43,44
+<         String result = prefixLookup.findLongestMatchingPrefix(input);
+---
+>         String result = prefixLookup
+> .findLongestMatchingPrefix(input);

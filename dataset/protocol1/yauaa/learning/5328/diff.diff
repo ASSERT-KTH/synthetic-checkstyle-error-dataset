@@ -1,0 +1,4 @@
+107c107
+<             return new Schema(new Schema.FieldSchema("UserAgent", tupleSchema, DataType.TUPLE));
+---
+>             return 	new Schema(new Schema.FieldSchema("UserAgent", tupleSchema, DataType.TUPLE));

@@ -1,0 +1,5 @@
+203c203,204
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "AgentSecurity"                   );
+---
+>         result.assertAttributeNotExists(
+> ATTRIBUTE_PREFIX + "AgentSecurity"                   );

@@ -1,0 +1,4 @@
+33c33
+<         return start + index;
+---
+>        return start + index;

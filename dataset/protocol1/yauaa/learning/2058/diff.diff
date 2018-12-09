@@ -1,0 +1,5 @@
+36,37c36
+< public class UserAgentAnalyzerTester extends UserAgentAnalyzer {
+<     private static final Logger LOG = LoggerFactory.getLogger(UserAgentAnalyzerTester.class);
+---
+> public class UserAgentAnalyzerTester extends UserAgentAnalyzer {    private static final Logger LOG = LoggerFactory.getLogger(UserAgentAnalyzerTester.class);

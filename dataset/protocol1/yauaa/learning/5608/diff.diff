@@ -1,0 +1,5 @@
+75,76c75
+<             org.apache.drill.exec.expr.holders.VarCharHolder rowHolder = new org.apache.drill.exec.expr.holders.VarCharHolder();
+<             String field = agent.getValue(fieldName);
+---
+>             org.apache.drill.exec.expr.holders.VarCharHolder rowHolder = new org.apache.drill.exec.expr.holders.VarCharHolder();            String field = agent.getValue(fieldName);

@@ -1,0 +1,4 @@
+68c68
+<             LOG.info("{} Tree: >>>{}<<<", logprefix, getSourceText((ParserRuleContext)tree));
+---
+>             LOG. info("{} Tree: >>>{}<<<", logprefix, getSourceText((ParserRuleContext)tree));

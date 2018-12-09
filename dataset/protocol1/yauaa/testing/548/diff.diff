@@ -1,0 +1,5 @@
+61c61,62
+<                         c.output(new TestRecord(c.element()));
+---
+>                         c.
+> output(new TestRecord(c.element()));

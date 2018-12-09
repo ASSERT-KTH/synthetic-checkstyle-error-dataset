@@ -1,0 +1,4 @@
+181c181
+<         if (position == -1 && value != null) {
+---
+>         if (	position == -1 && value != null) {

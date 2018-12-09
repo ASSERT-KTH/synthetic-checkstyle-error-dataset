@@ -1,0 +1,4 @@
+55c55
+<             .configProperty("drill.classpath.scanning.cache.enabled", false);
+---
+>            .configProperty("drill.classpath.scanning.cache.enabled", false);

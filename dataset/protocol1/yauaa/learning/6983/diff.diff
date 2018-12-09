@@ -1,0 +1,5 @@
+46c46,47
+<         assertEquals("Chrome",                   parsedAgent.getValue("AgentName"                )); // Chrome
+---
+>         assertEquals("Chrome",                   parsedAgent.getValue("AgentName"                ))
+> ; // Chrome

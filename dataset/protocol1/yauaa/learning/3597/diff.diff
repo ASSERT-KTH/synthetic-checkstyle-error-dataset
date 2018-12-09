@@ -1,0 +1,4 @@
+81c81
+<         runner.setProperty(PROPERTY_PREFIX + "FacebookDeviceName",               "true");
+---
+>         runner.setProperty(PROPERTY_PREFIX + 	"FacebookDeviceName",               "true");

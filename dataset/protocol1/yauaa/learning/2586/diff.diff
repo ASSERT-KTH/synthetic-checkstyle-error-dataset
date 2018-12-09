@@ -1,0 +1,4 @@
+58c58
+<         this(cacheSize, Arrays.asList(desiredFields));
+---
+>         this(cacheSize, Arrays.asList(desiredFields ));

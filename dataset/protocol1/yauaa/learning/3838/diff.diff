@@ -1,0 +1,4 @@
+71c71
+<         WalkResult result = nextStep.walk(tree, value);
+---
+>         WalkResult 	result = nextStep.walk(tree, value);

@@ -1,0 +1,5 @@
+119c119,120
+<         fail("Found "+ duplicates.size()+ " testcases multiple times: \n" + sb.toString());
+---
+>         fail("Found "+ duplicates.size()+ " testcases multiple times: \n" + sb.toString(
+> ));

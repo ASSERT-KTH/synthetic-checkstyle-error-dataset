@@ -1,0 +1,5 @@
+70c70,71
+<         runner.setProperty(PROPERTY_PREFIX + "AgentInformationUrl",              "true");
+---
+>         runner.setProperty(
+> PROPERTY_PREFIX + "AgentInformationUrl",              "true");

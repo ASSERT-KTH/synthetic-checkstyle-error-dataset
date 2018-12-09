@@ -1,0 +1,4 @@
+25c25
+< public class StepCleanVersion extends Step {
+---
+> public class StepCleanVersion 	extends Step {

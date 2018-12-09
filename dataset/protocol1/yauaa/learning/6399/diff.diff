@@ -1,0 +1,4 @@
+79c79
+<         checkResult(data, schema, "LayoutEngineClass",                "Browser"               );
+---
+>         checkResult(data, schema, 	"LayoutEngineClass",                "Browser"               );

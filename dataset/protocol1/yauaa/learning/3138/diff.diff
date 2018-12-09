@@ -1,0 +1,4 @@
+369c369
+<         assertEquals("one two",                splitter.getSplitRange(value, splitList, 1, 2));
+---
+>         assertEquals( "one two",                splitter.getSplitRange(value, splitList, 1, 2));

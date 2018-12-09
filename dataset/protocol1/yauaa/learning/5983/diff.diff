@@ -1,0 +1,4 @@
+206c206
+<         checkResult(data, schema, "OperatingSystemClass",           "Hacker"  );
+---
+>         checkResult(data, schema, "OperatingSystemClass",           	"Hacker"  );

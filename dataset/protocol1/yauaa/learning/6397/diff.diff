@@ -1,0 +1,4 @@
+27c27
+<     public static class TestMapper extends UserAgentAnalysisMapper<TestRecord> {
+---
+>     public static class TestMapper extends UserAgentAnalysisMapper	<TestRecord> {

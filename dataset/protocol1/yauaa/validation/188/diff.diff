@@ -1,0 +1,4 @@
+499c499
+<             add(new StepIsInSet(lookupSetName, lookupSet));
+---
+>            add(new StepIsInSet(lookupSetName, lookupSet));

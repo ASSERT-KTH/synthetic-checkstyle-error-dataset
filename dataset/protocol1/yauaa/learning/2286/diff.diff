@@ -1,0 +1,4 @@
+66c66
+<     private static Integer getMaxRange(NumberRangeContext ctx) {
+---
+>     private static Integer getMaxRange(NumberRangeContext 	ctx) {

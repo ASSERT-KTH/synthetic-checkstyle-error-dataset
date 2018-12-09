@@ -1,0 +1,5 @@
+90c90,91
+<         for (Map<String, Map<String, String>> testCase: uaa.getTestCases()) {
+---
+>         for (Map<String, Map<String, String>> testCase
+> : uaa.getTestCases()) {

@@ -1,0 +1,4 @@
+37c37
+< import static nl.basjes.parse.useragent.utils.YamlUtils.getKeyAsString;
+---
+> import static nl.basjes. parse.useragent.utils.YamlUtils.getKeyAsString;

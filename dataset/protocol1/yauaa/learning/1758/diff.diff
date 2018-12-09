@@ -1,0 +1,4 @@
+370c370
+<         if (debug && !wasEmpty) {
+---
+>         if 	(debug && !wasEmpty) {

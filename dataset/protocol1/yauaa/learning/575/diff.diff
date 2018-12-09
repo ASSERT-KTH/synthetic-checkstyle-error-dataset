@@ -1,0 +1,5 @@
+87c87,88
+<         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:Walking-tests.yaml");
+---
+>         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester(
+> "classpath*:Walking-tests.yaml");

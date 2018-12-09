@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "102", "message": "'\"Querying for 'All fields' and GC --> Used memory is %10d bytes (%5d MiB)\"' has incorrect indentation level 11, expected level should be 12.", "type": "Indentation"}

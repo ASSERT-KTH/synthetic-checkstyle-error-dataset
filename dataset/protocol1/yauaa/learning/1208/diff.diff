@@ -1,0 +1,5 @@
+81,82c81
+<         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:Positional-tests.yaml");
+<         Assert.assertTrue(uaa.runTests(false, true));
+---
+>         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:Positional-tests.yaml");        Assert.assertTrue(uaa.runTests(false, true));

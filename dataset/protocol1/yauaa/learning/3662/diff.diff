@@ -1,0 +1,4 @@
+66c66
+<         expectedEx.expectMessage(containsString("Two different Yauaa versions have been loaded:"));
+---
+>        expectedEx.expectMessage(containsString("Two different Yauaa versions have been loaded:"));

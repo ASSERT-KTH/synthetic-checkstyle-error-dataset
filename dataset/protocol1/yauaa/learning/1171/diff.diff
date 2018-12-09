@@ -1,0 +1,4 @@
+67c67
+<         assertEquals("Blackberry",       Normalize.brand("BLACKBERRY"));
+---
+>         assertEquals("Blackberry",       Normalize	.brand("BLACKBERRY"));

@@ -1,0 +1,4 @@
+31c31
+<     private final long confidence;
+---
+>     private final long 	confidence;

@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "69", "message": "'method def modifier' has incorrect indentation level 15, expected level should be one of the following: 12, 16.", "type": "Indentation"}

@@ -1,0 +1,5 @@
+59c59,60
+<         runTest("NotAMapFile.yaml", "File must be a Map");
+---
+>         runTest(
+> "NotAMapFile.yaml", "File must be a Map");

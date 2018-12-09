@@ -1,0 +1,5 @@
+32c32,33
+< import org.openjdk.jmh.runner.RunnerException;
+---
+> import org.openjdk.jmh.runner
+> .RunnerException;

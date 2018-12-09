@@ -1,0 +1,4 @@
+167c167
+<         assertEquals("http://bar.com",  splitter.getFirstSplits(value, 1));
+---
+>         assertEquals("http://bar.com",  splitter.getFirstSplits( value, 1));

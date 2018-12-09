@@ -1,0 +1,5 @@
+71c71,72
+<             sb.append("+ Results\n");
+---
+>             sb.append(
+> "+ Results\n");

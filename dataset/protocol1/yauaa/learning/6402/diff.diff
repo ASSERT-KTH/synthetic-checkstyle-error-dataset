@@ -1,0 +1,5 @@
+29c29,30
+< import org.apache.beam.sdk.values.PCollection;
+---
+> import org.apache.beam.sdk.values.PCollection
+> ;

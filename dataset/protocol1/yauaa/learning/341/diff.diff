@@ -1,0 +1,5 @@
+97c97,98
+<     public void setVerbose(boolean newVerbose, boolean temporary) {
+---
+>     public void setVerbose(
+> boolean newVerbose, boolean temporary) {

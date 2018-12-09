@@ -1,0 +1,5 @@
+20c20,21
+< import nl.basjes.parse.useragent.parser.UserAgentBaseVisitor;
+---
+> import nl.
+> basjes.parse.useragent.parser.UserAgentBaseVisitor;

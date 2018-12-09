@@ -1,0 +1,4 @@
+802c802
+<                 userAgent.set(LAYOUT_ENGINE_VERSION_MAJOR, "Hacker", 10);
+---
+>                  userAgent.set(LAYOUT_ENGINE_VERSION_MAJOR, "Hacker", 10);

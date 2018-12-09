@@ -1,0 +1,4 @@
+150c150
+<         LOG.error("==========        FATAL ERROR       ===========");
+---
+>         LOG.error ("==========        FATAL ERROR       ===========");

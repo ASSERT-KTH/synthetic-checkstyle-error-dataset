@@ -1,0 +1,5 @@
+22c22,23
+< import org.apache.beam.sdk.testing.NeedsRunner;
+---
+> import org.apache.beam.sdk.
+> testing.NeedsRunner;

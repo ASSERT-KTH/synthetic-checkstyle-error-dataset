@@ -1,0 +1,4 @@
+71c71
+<     public void testLimitedFieldsDirect() {
+---
+>     public void testLimitedFieldsDirect () {

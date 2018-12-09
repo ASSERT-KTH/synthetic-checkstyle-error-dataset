@@ -1,0 +1,4 @@
+112c112
+<             misuse, isDeliberateMisuse(userAgent));
+---
+>            misuse, isDeliberateMisuse(userAgent));

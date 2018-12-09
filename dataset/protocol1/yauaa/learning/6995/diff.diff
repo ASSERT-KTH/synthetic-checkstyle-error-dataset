@@ -1,0 +1,4 @@
+130c130
+<         assertEquals("Phone",  parsedAgent.getValue("DeviceClass" ));
+---
+>         assertEquals(	"Phone",  parsedAgent.getValue("DeviceClass" ));

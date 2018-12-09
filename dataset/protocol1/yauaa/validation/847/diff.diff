@@ -1,0 +1,5 @@
+43,44c43
+<         expectedEx.expectMessage("The argument must be a string");
+<         StandardStructObjectInspector resultInspector = (StandardStructObjectInspector) parseUserAgent
+---
+>         expectedEx.expectMessage("The argument must be a string");        StandardStructObjectInspector resultInspector = (StandardStructObjectInspector) parseUserAgent

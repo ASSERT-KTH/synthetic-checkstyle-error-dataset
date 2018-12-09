@@ -1,0 +1,4 @@
+44c44
+<         uaa = UserAgentAnalyzerTester.newBuilder().immediateInitialization().build();
+---
+>         uaa = UserAgentAnalyzerTester.newBuilder().immediateInitialization(). build();

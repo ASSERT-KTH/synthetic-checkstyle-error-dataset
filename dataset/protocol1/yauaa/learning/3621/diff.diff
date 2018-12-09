@@ -1,0 +1,5 @@
+208c208,209
+<                 @YauaaField("DeviceClass")
+---
+>                 @YauaaField("DeviceClass"
+> )

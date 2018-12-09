@@ -1,0 +1,4 @@
+146c146
+<         UserAgent userAgent = userAgentAnalyzer.parse(mapper.getUserAgentString(record));
+---
+>        UserAgent userAgent = userAgentAnalyzer.parse(mapper.getUserAgentString(record));

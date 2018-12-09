@@ -1,0 +1,5 @@
+69c69,70
+<         return runTests(showAll, failOnUnexpected, null, false, false);
+---
+>         return runTests(showAll, failOnUnexpected
+> , null, false, false);

@@ -1,0 +1,4 @@
+66c66
+<     public T clone(T t) {
+---
+>     public T clone (T t) {

@@ -1,0 +1,5 @@
+99c99,100
+<             if (locations.size()>1) {
+---
+>             if (locations.size(
+> )>1) {

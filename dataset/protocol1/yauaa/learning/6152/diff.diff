@@ -1,0 +1,4 @@
+64c64
+<         runTest("BadConfig1.yaml", "The value should be a sequence but it is a scalar");
+---
+>        runTest("BadConfig1.yaml", "The value should be a sequence but it is a scalar");

@@ -1,0 +1,4 @@
+66c66
+<             ObjectOutput out = new ObjectOutputStream(bos);
+---
+>            ObjectOutput out = new ObjectOutputStream(bos);

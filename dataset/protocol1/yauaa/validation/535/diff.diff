@@ -1,0 +1,5 @@
+157,158c157
+<         assertPossible(possible, "STRING:request.user-agent.last.agent_language_code");
+<         assertPossible(possible, "STRING:request.user-agent.last.agent_information_email");
+---
+>         assertPossible(possible, "STRING:request.user-agent.last.agent_language_code");        assertPossible(possible, "STRING:request.user-agent.last.agent_information_email");

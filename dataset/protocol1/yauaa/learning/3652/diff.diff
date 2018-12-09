@@ -1,0 +1,4 @@
+116c116
+<                     throw new InvalidParserConfigurationException(
+---
+>                      throw new InvalidParserConfigurationException(

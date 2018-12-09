@@ -1,0 +1,5 @@
+95c95,96
+<         this.relationships = Collections.unmodifiableSet(relationshipsSet);
+---
+>         this.relationships = Collections.unmodifiableSet
+> (relationshipsSet);

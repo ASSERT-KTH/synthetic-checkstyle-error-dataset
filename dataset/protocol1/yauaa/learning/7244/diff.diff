@@ -1,0 +1,4 @@
+35c35
+<     TestRecord record = new TestRecord();
+---
+>     TestRecord record 	= new TestRecord();

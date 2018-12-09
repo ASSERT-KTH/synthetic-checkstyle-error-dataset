@@ -1,0 +1,4 @@
+707c707
+<         userAgent.set(DEVICE_BRAND,                 "Hacker",           confidence);
+---
+>         userAgent.set(DEVICE_BRAND,                 "Hacker",           confidence );

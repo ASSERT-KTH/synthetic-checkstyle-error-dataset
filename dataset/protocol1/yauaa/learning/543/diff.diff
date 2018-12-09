@@ -1,0 +1,4 @@
+24c24
+< import static nl.basjes.parse.useragent.classify.DeviceClass.Anonymized;
+---
+> 	import static nl.basjes.parse.useragent.classify.DeviceClass.Anonymized;

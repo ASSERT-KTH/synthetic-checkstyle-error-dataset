@@ -1,0 +1,5 @@
+136c136,137
+<             .writeUsingOutputFormat(new LocalCollectionOutputFormat<>(result));
+---
+>             .writeUsingOutputFormat(new LocalCollectionOutputFormat<>(
+> result));

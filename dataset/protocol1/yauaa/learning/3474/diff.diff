@@ -1,0 +1,4 @@
+26c26
+< import static nl.basjes.parse.useragent.classify.DeviceClass.GameConsole;
+---
+> import static nl.basjes.parse.useragent.classify.DeviceClass	.GameConsole;

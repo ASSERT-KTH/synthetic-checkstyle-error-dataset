@@ -1,0 +1,4 @@
+105c105
+<         checkResult(data, schema, "FacebookOperatingSystemName",      "Unknown"               );
+---
+>         checkResult(data, schema, "FacebookOperatingSystemName",      	"Unknown"               );

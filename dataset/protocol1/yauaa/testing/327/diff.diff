@@ -1,0 +1,4 @@
+72c72
+<                     @YauaaField("DeviceClass")
+---
+>                     @YauaaField("DeviceClass" )

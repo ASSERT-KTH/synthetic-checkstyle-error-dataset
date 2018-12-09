@@ -1,0 +1,4 @@
+32c32
+<     public boolean isSeparator(char c) {
+---
+>     public boolean isSeparator(char c ) {

@@ -1,0 +1,5 @@
+26c26,27
+< import nl.basjes.parse.useragent.utils.WordSplitter;
+---
+> import nl
+> .basjes.parse.useragent.utils.WordSplitter;

@@ -1,0 +1,4 @@
+109c109
+<                         "Fixed value >>" + value + "<< is missing in lookup: \"" + lookup.getText() + "\" ");
+---
+>                         "Fixed value >>" + value + "<< is missing in lookup: \"" + lookup.getText() + "\" ") ;

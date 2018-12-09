@@ -1,0 +1,4 @@
+278c278
+<         assertEquals(0, userAgentAnalyzer.preHeat());
+---
+>         assertEquals(0, userAgentAnalyzer. preHeat());

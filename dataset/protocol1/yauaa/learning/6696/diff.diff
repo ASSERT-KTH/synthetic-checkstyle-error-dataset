@@ -1,0 +1,5 @@
+104c104,105
+<         new MatchesList(1).toArray(null);
+---
+>         new MatchesList(1).toArray(
+> null);

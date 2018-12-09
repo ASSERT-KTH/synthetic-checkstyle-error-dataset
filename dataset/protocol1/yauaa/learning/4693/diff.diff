@@ -1,0 +1,4 @@
+54c54
+<         MAX_RANGE.put("product",             10); // Max was much higher
+---
+>         MAX_RANGE	.put("product",             10); // Max was much higher

@@ -1,0 +1,5 @@
+365c365,366
+<             ,"agent.(1)product=\"One/1 (Empty=;Equals=EValue;Colon:CValue;MultiWord=More Value;Email=em@il.nl;Web=https://web.site;Uuid=550e8400-e29b-41d4-a716-446655440000;)\""
+---
+>             ,
+> "agent.(1)product=\"One/1 (Empty=;Equals=EValue;Colon:CValue;MultiWord=More Value;Email=em@il.nl;Web=https://web.site;Uuid=550e8400-e29b-41d4-a716-446655440000;)\""

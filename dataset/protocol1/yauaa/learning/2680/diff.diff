@@ -1,0 +1,4 @@
+38c38
+<     public void runMatcherNestedFunctionsTests() {
+---
+>     public void runMatcherNestedFunctionsTests () {

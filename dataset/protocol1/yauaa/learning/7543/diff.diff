@@ -1,0 +1,4 @@
+81c81
+<     private static String padding(char letter, int count) {
+---
+>     private 	static String padding(char letter, int count) {

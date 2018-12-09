@@ -1,0 +1,4 @@
+135c135
+<                     if (name.startsWith(PROPERTY_PREFIX)) { // Should always pass
+---
+>                    if (name.startsWith(PROPERTY_PREFIX)) { // Should always pass

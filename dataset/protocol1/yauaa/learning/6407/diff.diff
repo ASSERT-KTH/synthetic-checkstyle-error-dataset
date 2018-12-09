@@ -1,0 +1,5 @@
+541c541,542
+<         for (NodeTuple tuple : entry.getValue()) {
+---
+>         for (NodeTuple tuple : entry
+> .getValue()) {

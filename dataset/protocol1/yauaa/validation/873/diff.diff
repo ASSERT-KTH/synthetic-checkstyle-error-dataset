@@ -1,0 +1,5 @@
+31c31,32
+<         int startIndex = ctx.start.getStartIndex();
+---
+>         int startIndex = ctx
+> .start.getStartIndex();

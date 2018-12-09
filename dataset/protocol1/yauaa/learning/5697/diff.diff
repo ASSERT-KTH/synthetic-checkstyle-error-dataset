@@ -1,0 +1,5 @@
+51,52c51
+<     public static final String OPERATING_SYSTEM_VERSION = "OperatingSystemVersion";
+<     public static final String LAYOUT_ENGINE_CLASS = "LayoutEngineClass";
+---
+>     public static final String OPERATING_SYSTEM_VERSION = "OperatingSystemVersion";    public static final String LAYOUT_ENGINE_CLASS = "LayoutEngineClass";

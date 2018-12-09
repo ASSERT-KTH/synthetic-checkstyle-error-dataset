@@ -1,0 +1,4 @@
+40c40
+<         String result = prefixLookup.findLongestMatchingPrefix(input);
+---
+>        String result = prefixLookup.findLongestMatchingPrefix(input);

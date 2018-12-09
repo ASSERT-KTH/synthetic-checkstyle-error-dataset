@@ -1,0 +1,4 @@
+57c57
+<             containsString("The file EmptyFile.yaml is empty"));
+---
+>            containsString("The file EmptyFile.yaml is empty"));

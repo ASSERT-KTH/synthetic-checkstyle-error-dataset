@@ -1,0 +1,4 @@
+57c57
+<         runner.setProperty(PROPERTY_PREFIX + "OperatingSystemName",              "true");
+---
+>         runner.setProperty(PROPERTY_PREFIX + 	"OperatingSystemName",              "true");

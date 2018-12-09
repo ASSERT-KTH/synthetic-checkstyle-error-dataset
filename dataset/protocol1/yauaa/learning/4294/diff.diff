@@ -1,0 +1,5 @@
+81c81,82
+<         return this.foundValue != null;
+---
+>         return this
+> .foundValue != null;

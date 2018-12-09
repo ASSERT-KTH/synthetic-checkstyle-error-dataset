@@ -1,0 +1,5 @@
+358,359c358
+<         }
+<         allFields.put(attribute, field);
+---
+>         }        allFields.put(attribute, field);

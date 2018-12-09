@@ -1,0 +1,4 @@
+268c268
+<     public void clone(UserAgent userAgent) {
+---
+>     public void clone(UserAgent 	userAgent) {

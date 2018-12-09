@@ -1,0 +1,4 @@
+71c71
+<         fields.add("AgentNameVersionMajor");
+---
+>        fields.add("AgentNameVersionMajor");

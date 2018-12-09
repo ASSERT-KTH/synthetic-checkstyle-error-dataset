@@ -1,0 +1,4 @@
+267c267
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "AgentNameVersionMajor"          );
+---
+>          result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "AgentNameVersionMajor"          );

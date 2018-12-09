@@ -1,0 +1,4 @@
+89c89
+<                 LOG.info("Set fixedvalue ({})[{}]: {}", attribute, confidence, fixedValue);
+---
+>                 LOG.info("Set fixedvalue ({})[{}]: {}", 	attribute, confidence, fixedValue);

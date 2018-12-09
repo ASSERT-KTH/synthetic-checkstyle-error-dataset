@@ -1,0 +1,5 @@
+85,86c85
+<         runner.setProperty(PROPERTY_PREFIX + "FacebookOperatingSystemName",      "true");
+<         runner.setProperty(PROPERTY_PREFIX + "FacebookOperatingSystemVersion",   "true");
+---
+>         runner.setProperty(PROPERTY_PREFIX + "FacebookOperatingSystemName",      "true");        runner.setProperty(PROPERTY_PREFIX + "FacebookOperatingSystemVersion",   "true");

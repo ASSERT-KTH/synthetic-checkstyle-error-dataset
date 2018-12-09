@@ -1,0 +1,4 @@
+38c38
+< import static nl.basjes.parse.useragent.analyze.Matcher.ConfigLine.Type.REQUIRE;
+---
+> import static nl.basjes.parse.useragent. analyze.Matcher.ConfigLine.Type.REQUIRE;

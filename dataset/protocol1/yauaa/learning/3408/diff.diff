@@ -1,0 +1,5 @@
+45,46c45
+<         if (result == null) {
+<             if (defaultValue == null) {
+---
+>         if (result == null) {            if (defaultValue == null) {

@@ -1,0 +1,4 @@
+55c55
+<         int width = version.length();
+---
+>        int width = version.length();

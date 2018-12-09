@@ -1,0 +1,5 @@
+129c129,130
+<         function.open(null);
+---
+>         function.
+> open(null);

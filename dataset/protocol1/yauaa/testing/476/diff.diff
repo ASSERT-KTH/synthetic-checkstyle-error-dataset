@@ -1,0 +1,4 @@
+89c89
+<             PrefixTrie child = childNodes[myChar];
+---
+>             PrefixTrie 	child = childNodes[myChar];

@@ -1,0 +1,4 @@
+424c424
+<         return toYamlTestCase(showConfidence, null);
+---
+>         return toYamlTestCase(showConfidence,null);

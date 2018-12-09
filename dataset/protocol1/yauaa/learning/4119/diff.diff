@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.drill.exec.expr.holders.VarCharHolder;
+< import org.apache.drill.exec.memory.BufferAllocator;
+---
+> import org.apache.drill.exec.expr.holders.VarCharHolder;import org.apache.drill.exec.memory.BufferAllocator;

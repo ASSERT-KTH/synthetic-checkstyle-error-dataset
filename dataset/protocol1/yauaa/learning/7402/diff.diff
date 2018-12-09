@@ -1,0 +1,4 @@
+72c72
+<     private StringObjectInspector useragentOI = null;
+---
+>     private StringObjectInspector 	useragentOI = null;

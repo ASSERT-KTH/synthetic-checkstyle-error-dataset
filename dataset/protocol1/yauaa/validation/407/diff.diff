@@ -1,0 +1,5 @@
+30c30,31
+<         for (int i = 0; i < parent.getChildCount(); i++) {
+---
+>         for (int i = 0; i < parent.
+> getChildCount(); i++) {

@@ -1,0 +1,4 @@
+104c104
+<         runTest("KeyNotString.yaml", "The key should be a string but it is a sequence");
+---
+>         runTest("KeyNotString.yaml", "The key should be a string but it is a sequence") ;

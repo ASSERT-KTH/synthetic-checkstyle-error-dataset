@@ -1,0 +1,4 @@
+30c30
+<             return record.useragent;
+---
+>              return record.useragent;

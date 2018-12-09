@@ -1,0 +1,5 @@
+33c33,34
+<     scope   = FunctionTemplate.FunctionScope.SIMPLE,
+---
+>     scope   = FunctionTemplate.
+> FunctionScope.SIMPLE,

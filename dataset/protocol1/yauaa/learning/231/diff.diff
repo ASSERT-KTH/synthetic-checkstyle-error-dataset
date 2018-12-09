@@ -1,0 +1,4 @@
+93c93
+<         return tree instanceof CommentSeparatorContext
+---
+>        return tree instanceof CommentSeparatorContext

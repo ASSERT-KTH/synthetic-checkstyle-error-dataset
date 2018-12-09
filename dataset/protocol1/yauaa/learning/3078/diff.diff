@@ -1,0 +1,4 @@
+126c126
+<         nullableVarCharHolder.start = 0;
+---
+>         nullableVarCharHolder. start = 0;

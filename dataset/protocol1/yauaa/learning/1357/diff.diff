@@ -1,0 +1,4 @@
+27c27
+<     private int cacheSize = DEFAULT_PARSE_CACHE_SIZE;
+---
+>     private int cacheSize = DEFAULT_PARSE_CACHE_SIZE ;

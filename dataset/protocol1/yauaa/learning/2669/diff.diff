@@ -1,0 +1,4 @@
+799c799
+<                 userAgent.set(LAYOUT_ENGINE_CLASS, "Hacker", 10);
+---
+>                userAgent.set(LAYOUT_ENGINE_CLASS, "Hacker", 10);

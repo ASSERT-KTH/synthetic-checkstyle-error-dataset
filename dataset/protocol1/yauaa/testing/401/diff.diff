@@ -1,0 +1,5 @@
+73c73,74
+<         result = 31 * result + (shouldRemainNull != null ? shouldRemainNull.hashCode() : 0);
+---
+>         result = 31 * result + (shouldRemainNull != null ? shouldRemainNull.hashCode() : 0
+> );

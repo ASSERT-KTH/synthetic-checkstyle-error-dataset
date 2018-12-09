@@ -1,0 +1,4 @@
+40c40
+<     private static final Logger LOG = LoggerFactory.getLogger(TestSerialization.class);
+---
+>    private static final Logger LOG = LoggerFactory.getLogger(TestSerialization.class);

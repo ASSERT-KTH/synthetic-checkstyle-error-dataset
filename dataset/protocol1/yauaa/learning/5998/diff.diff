@@ -1,0 +1,4 @@
+60c60
+<             analyzer = analyzerBuilder.build();
+---
+>            analyzer = analyzerBuilder.build();

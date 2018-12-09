@@ -1,0 +1,4 @@
+23c23
+<     final String useragent;
+---
+>      final String useragent;

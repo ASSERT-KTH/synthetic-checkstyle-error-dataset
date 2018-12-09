@@ -1,0 +1,1 @@
+{"injection_operator": "insertion-newline", "line": "101", "message": "'method def rparen' has incorrect indentation level 0, expected level should be one of the following: 12, 16.", "type": "Indentation"}

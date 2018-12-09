@@ -1,0 +1,4 @@
+38c38
+<             child = parent.getChild(i);
+---
+>             child = parent.getChild(i );

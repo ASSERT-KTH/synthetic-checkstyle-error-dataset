@@ -1,0 +1,4 @@
+43c43
+<     private void initialize() {
+---
+>     private 	void initialize() {

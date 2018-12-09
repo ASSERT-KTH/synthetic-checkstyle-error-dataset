@@ -1,0 +1,4 @@
+448c448
+<             sb.append("        ").append(action.toString()).append('\n');
+---
+>             sb.append("        "). append(action.toString()).append('\n');

@@ -1,0 +1,4 @@
+57c57
+<             isSame(agentNameVersion, record.agentNameVersion)  &&
+---
+>             isSame( agentNameVersion, record.agentNameVersion)  &&

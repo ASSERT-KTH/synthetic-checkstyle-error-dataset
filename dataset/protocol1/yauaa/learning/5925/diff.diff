@@ -1,0 +1,5 @@
+26c26,27
+< import org.apache.flink.table.api.TableEnvironment;
+---
+> import org
+> .apache.flink.table.api.TableEnvironment;

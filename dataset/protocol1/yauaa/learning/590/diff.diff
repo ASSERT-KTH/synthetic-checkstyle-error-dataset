@@ -1,0 +1,4 @@
+56c56
+<         result = MISSING_SPACE.matcher(result).replaceAll("$1 $2");
+---
+>         result = MISSING_SPACE.matcher(result).replaceAll ("$1 $2");

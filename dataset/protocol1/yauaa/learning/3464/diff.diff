@@ -1,0 +1,5 @@
+94c94,95
+<         assertEquals("help@moz.com",                               Normalize.email("help@moz.com"));
+---
+>         assertEquals("help@moz.com",                               Normalize.email("help@moz.com"
+> ));

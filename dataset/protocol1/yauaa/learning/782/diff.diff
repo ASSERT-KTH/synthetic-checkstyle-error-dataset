@@ -1,0 +1,4 @@
+110c110
+<             requireNodeInstanceOf(MappingNode.class, versionEntry, filename, "The entry MUST be a mapping");
+---
+>             requireNodeInstanceOf(MappingNode.class, versionEntry , filename, "The entry MUST be a mapping");

@@ -1,0 +1,4 @@
+65c65
+<         return a.equals(b);
+---
+>         return a.equals (b);

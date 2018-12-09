@@ -1,0 +1,4 @@
+82c82
+<         int charNr = 0;
+---
+>        int charNr = 0;

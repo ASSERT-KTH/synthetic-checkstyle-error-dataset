@@ -1,0 +1,4 @@
+473c473
+<         for (Node configEntry : configList) {
+---
+>        for (Node configEntry : configList) {

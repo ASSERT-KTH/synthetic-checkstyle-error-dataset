@@ -1,0 +1,4 @@
+119c119
+<     public String getSingleSplit(String value, int split) {
+---
+>     public String getSingleSplit (String value, int split) {

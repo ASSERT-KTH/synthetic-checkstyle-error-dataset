@@ -1,0 +1,5 @@
+35,36c35
+<             throw new InvalidParserConfigurationException(
+<                 createErrorString(node, filename, error));
+---
+>             throw new InvalidParserConfigurationException(                createErrorString(node, filename, error));

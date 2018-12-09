@@ -1,0 +1,4 @@
+217c217
+<         assertEquals(null,            splitter.getSplitRange(value, 6, -1));
+---
+>         assertEquals(null,            splitter.getSplitRange(value, 6,-1));

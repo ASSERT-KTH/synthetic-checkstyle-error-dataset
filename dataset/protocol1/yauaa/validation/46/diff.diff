@@ -1,0 +1,4 @@
+40c40
+<         assertEquals(0L, agent.getConfidence(UserAgent.USERAGENT_FIELDNAME).longValue());
+---
+>         assertEquals(0L, agent.getConfidence(UserAgent. USERAGENT_FIELDNAME).longValue());

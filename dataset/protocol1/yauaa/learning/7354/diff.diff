@@ -1,0 +1,4 @@
+69c69
+<             bytes = bos.toByteArray();
+---
+>            bytes = bos.toByteArray();

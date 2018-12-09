@@ -1,0 +1,4 @@
+290c290
+<         LOG.info("Loaded {} files in {} msec", resources.size(),  (stopFiles - startFiles) / 1000000);
+---
+>         LOG.info("Loaded {} files in {} msec", resources.size(),  (stopFiles - startFiles) 	/ 1000000);

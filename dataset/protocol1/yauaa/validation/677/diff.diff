@@ -1,0 +1,4 @@
+67c67
+< import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.StepNext4Context;
+---
+> import 	nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.StepNext4Context;

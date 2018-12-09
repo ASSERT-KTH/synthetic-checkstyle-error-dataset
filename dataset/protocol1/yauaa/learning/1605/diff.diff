@@ -1,0 +1,5 @@
+424c424,425
+<                 sb.append(String.format("%10d", result.confidence));
+---
+>                 sb.append(String.format("%10d", result.confidence)
+> );

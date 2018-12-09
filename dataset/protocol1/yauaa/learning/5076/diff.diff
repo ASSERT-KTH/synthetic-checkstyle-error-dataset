@@ -1,0 +1,4 @@
+69c69
+< import static nl.basjes.parse.useragent.UserAgent.LAYOUT_ENGINE_CLASS;
+---
+> import static nl.basjes	.parse.useragent.UserAgent.LAYOUT_ENGINE_CLASS;

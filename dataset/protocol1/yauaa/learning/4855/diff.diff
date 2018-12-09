@@ -1,0 +1,4 @@
+248c248
+<                     if (onlyValidateFieldNames != null &&
+---
+>                     if ( onlyValidateFieldNames != null &&

@@ -1,0 +1,4 @@
+54c54
+<         return INPUT_TYPE;
+---
+>        return INPUT_TYPE;

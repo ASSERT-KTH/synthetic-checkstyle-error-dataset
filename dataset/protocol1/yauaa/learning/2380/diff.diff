@@ -1,0 +1,4 @@
+26c26
+< import org.openjdk.jmh.annotations.Mode;
+---
+> import 	org.openjdk.jmh.annotations.Mode;

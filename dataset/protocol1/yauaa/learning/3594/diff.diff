@@ -1,0 +1,5 @@
+47c47,48
+<             checkField(resultInspector, row, "DeviceName", "Linux Desktop");
+---
+>             checkField(resultInspector, row, "DeviceName", "Linux Desktop"
+> );

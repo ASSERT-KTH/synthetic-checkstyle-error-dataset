@@ -1,0 +1,5 @@
+37c37,38
+< import nl.basjes.parse.useragent.parser.UserAgentParser.ProductContext;
+---
+> import nl.basjes.parse.
+> useragent.parser.UserAgentParser.ProductContext;

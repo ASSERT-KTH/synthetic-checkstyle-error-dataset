@@ -1,0 +1,4 @@
+48c48
+<         assertEquals("two", match1.getValue());
+---
+>        assertEquals("two", match1.getValue());

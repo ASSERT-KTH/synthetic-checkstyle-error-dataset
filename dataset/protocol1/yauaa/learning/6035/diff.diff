@@ -1,0 +1,4 @@
+24c24
+<     private final int end;
+---
+>    private final int end;

@@ -1,0 +1,4 @@
+64c64
+<         MyMapper mapper = new MyMapper();
+---
+>        MyMapper mapper = new MyMapper();

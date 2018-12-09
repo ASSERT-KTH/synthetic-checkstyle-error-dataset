@@ -1,0 +1,4 @@
+73c73
+<                 return currentResult == null;
+---
+>                return currentResult == null;

@@ -1,0 +1,4 @@
+52c52
+<             parseCache = new LRUMap<>(cacheSize);
+---
+>            parseCache = new LRUMap<>(cacheSize);

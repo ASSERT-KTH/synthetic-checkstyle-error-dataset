@@ -1,0 +1,5 @@
+52c52,53
+<         uaa.setShowMatcherStats(true);
+---
+>         uaa
+> .setShowMatcherStats(true);

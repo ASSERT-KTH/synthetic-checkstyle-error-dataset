@@ -1,0 +1,4 @@
+38c38
+<         assertFalse(values.contains(3));
+---
+>         assertFalse(values.contains (3));

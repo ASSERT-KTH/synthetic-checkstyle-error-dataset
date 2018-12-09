@@ -1,0 +1,5 @@
+52,53c52
+<         // The rest must be at confidence -1 (i.e. no rules fired)
+<         assertEquals(min1, parsedAgent.getConfidence("DeviceName"                   )); // Nexus 6
+---
+>         // The rest must be at confidence -1 (i.e. no rules fired)        assertEquals(min1, parsedAgent.getConfidence("DeviceName"                   )); // Nexus 6

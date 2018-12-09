@@ -1,0 +1,5 @@
+346,347c346
+<     private void enterProductVersion(ParseTree ctx) {
+<         if (ctx.getChildCount() != 1) {
+---
+>     private void enterProductVersion(ParseTree ctx) {        if (ctx.getChildCount() != 1) {

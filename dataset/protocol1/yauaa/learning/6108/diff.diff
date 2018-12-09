@@ -1,0 +1,4 @@
+40c40
+<     public static class MyUserAgentAnalysisDoFn extends UserAgentAnalysisDoFn<TestRecord> {
+---
+>     public static class MyUserAgentAnalysisDoFn extends UserAgentAnalysisDoFn<TestRecord	> {

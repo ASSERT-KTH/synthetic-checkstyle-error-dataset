@@ -1,0 +1,4 @@
+46c46
+<         assertEquals("NBA", Normalize.brand("NBA"));
+---
+>        assertEquals("NBA", Normalize.brand("NBA"));

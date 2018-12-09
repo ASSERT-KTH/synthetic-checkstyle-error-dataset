@@ -1,0 +1,5 @@
+24c24,25
+< import org.openjdk.jmh.annotations.Fork;
+---
+> import org.openjdk.jmh.annotations.Fork
+> ;

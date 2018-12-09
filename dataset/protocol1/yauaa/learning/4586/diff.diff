@@ -1,0 +1,5 @@
+115,116c115
+< // The actual class thrown here turns out to be
+< //   org.apache.beam.repackaged.beam_runners_direct_java.com.google.common.util.concurrent.UncheckedExecutionException
+---
+> // The actual class thrown here turns out to be//   org.apache.beam.repackaged.beam_runners_direct_java.com.google.common.util.concurrent.UncheckedExecutionException

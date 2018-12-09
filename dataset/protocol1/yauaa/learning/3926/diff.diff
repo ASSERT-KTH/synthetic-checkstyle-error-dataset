@@ -1,0 +1,4 @@
+60c60
+<         Iterator<Match> iterator = list.iterator();
+---
+>        Iterator<Match> iterator = list.iterator();

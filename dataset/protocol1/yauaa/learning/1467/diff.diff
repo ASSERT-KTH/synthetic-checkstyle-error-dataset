@@ -1,0 +1,4 @@
+44c44
+<         throw new InvalidParserConfigurationException(
+---
+>          throw new InvalidParserConfigurationException(

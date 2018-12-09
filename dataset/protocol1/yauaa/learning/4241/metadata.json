@@ -1,0 +1,1 @@
+{"injection_operator": "insertion-space", "line": "135", "message": "'object def rcurly' has incorrect indentation level 13, expected level should be one of the following: 8, 12.", "type": "Indentation"}

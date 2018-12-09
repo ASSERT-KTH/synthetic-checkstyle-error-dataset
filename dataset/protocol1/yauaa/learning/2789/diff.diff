@@ -1,0 +1,4 @@
+33c33
+<     public StepLookupPrefix(String lookupName, Map<String, String> prefixList, String defaultValue) {
+---
+>     public StepLookupPrefix(String lookupName, Map<String, String> prefixList, String defaultValue) 	{

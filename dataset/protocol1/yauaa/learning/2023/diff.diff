@@ -1,0 +1,4 @@
+90c90
+<             queryMapWriter.varChar(fieldName).write(rowHolder);
+---
+>            queryMapWriter.varChar(fieldName).write(rowHolder);

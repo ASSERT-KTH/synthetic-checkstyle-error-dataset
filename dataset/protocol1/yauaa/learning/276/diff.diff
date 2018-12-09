@@ -1,0 +1,5 @@
+116c116,117
+<         assertNull(userAgentAnalyzerField.get(userAgentAnnotationAnalyzer));
+---
+>         assertNull(
+> userAgentAnalyzerField.get(userAgentAnnotationAnalyzer));

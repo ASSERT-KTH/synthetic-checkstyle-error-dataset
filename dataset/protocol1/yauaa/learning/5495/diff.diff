@@ -1,0 +1,5 @@
+70,71c70
+<                 public void setDeviceClass(TestRecord testRecord, String value) {
+<                     testRecord.deviceClass = value;
+---
+>                 public void setDeviceClass(TestRecord testRecord, String value) {                    testRecord.deviceClass = value;

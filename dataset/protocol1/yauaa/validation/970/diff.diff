@@ -1,0 +1,4 @@
+146c146
+<         copyFoo.setValue(origFoo);
+---
+>        copyFoo.setValue(origFoo);

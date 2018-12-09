@@ -1,0 +1,5 @@
+83c83,84
+<         assertEquals("HP SlateBook 10 X2 PC",   Normalize.cleanupDeviceBrandName("hP", "SlateBook 10 X2 PC"));
+---
+>         assertEquals("HP SlateBook 10 X2 PC",   Normalize
+> .cleanupDeviceBrandName("hP", "SlateBook 10 X2 PC"));

@@ -1,0 +1,5 @@
+20c20,21
+< import org.apache.hadoop.hive.ql.exec.UDFArgumentException;
+---
+> import org.
+> apache.hadoop.hive.ql.exec.UDFArgumentException;

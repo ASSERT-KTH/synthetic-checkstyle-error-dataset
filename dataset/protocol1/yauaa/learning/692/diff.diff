@@ -1,0 +1,4 @@
+71c71
+<         assertEquals("LG",               Normalize.brand("lG"));
+---
+>         assertEquals("LG",               Normalize	.brand("lG"));

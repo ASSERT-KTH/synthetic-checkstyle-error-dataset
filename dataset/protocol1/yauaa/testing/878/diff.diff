@@ -1,0 +1,5 @@
+29c29,30
+< public final class MatchesList implements Collection<MatchesList.Match>, Serializable {
+---
+> public final class MatchesList implements Collection<MatchesList
+> .Match>, Serializable {

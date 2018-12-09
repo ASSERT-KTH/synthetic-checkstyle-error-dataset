@@ -1,0 +1,4 @@
+94c94
+<                 UserAgent result = pair.getLeft();
+---
+>                 UserAgent result 	= pair.getLeft();

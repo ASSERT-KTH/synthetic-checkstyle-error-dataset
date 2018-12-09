@@ -1,0 +1,5 @@
+52c52,53
+<         List<NodeTuple> nodeTupleList = mappingNode.getValue();
+---
+>         List<NodeTuple> nodeTupleList = mappingNode.getValue()
+> ;

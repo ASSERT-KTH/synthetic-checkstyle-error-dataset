@@ -1,0 +1,5 @@
+33,34c33
+< import static nl.basjes.parse.useragent.Version.LICENSE;
+< import static nl.basjes.parse.useragent.Version.PROJECT_VERSION;
+---
+> import static nl.basjes.parse.useragent.Version.LICENSE;import static nl.basjes.parse.useragent.Version.PROJECT_VERSION;

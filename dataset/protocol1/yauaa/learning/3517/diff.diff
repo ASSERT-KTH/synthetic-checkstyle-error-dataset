@@ -1,0 +1,5 @@
+41c41,42
+<         super.set(newValuesUserAgent, appliedMatcher);
+---
+>         super
+> .set(newValuesUserAgent, appliedMatcher);

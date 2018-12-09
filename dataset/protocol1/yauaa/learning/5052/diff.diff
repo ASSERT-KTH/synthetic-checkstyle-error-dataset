@@ -1,0 +1,5 @@
+121c121,122
+<         userAgentAnnotationAnalyzer.initialize(new MyMapper());
+---
+>         userAgentAnnotationAnalyzer.initialize(new MyMapper()
+> );

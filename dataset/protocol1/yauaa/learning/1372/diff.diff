@@ -1,0 +1,4 @@
+56c56
+<             return (split == 1) ? value : null;
+---
+>             return (split == 1) ? value 	: null;

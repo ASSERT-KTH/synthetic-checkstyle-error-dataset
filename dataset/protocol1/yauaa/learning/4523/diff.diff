@@ -1,0 +1,4 @@
+20c20
+< import nl.basjes.parse.useragent.analyze.MatchesList.Match;
+---
+> import nl. basjes.parse.useragent.analyze.MatchesList.Match;

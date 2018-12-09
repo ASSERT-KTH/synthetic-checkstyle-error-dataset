@@ -1,0 +1,4 @@
+59c59
+<         ExecutionEnvironment environment = LocalEnvironment.getExecutionEnvironment();
+---
+>         ExecutionEnvironment environment 	= LocalEnvironment.getExecutionEnvironment();

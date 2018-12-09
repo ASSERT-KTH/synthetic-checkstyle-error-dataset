@@ -1,0 +1,5 @@
+127c127,128
+<         assertEquals(DEFAULT_PARSE_CACHE_SIZE, userAgentAnalyzer.getCacheSize());
+---
+>         assertEquals(DEFAULT_PARSE_CACHE_SIZE, userAgentAnalyzer.getCacheSize(
+> ));

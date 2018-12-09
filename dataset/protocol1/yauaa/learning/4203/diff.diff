@@ -1,0 +1,5 @@
+53,54c53
+<         allFields = UserAgentAnalyzer.newBuilder().build().getAllPossibleFieldNamesSorted();
+<         allFields.removeAll(Arrays.asList("DeviceName", "DevideClass"));
+---
+>         allFields = UserAgentAnalyzer.newBuilder().build().getAllPossibleFieldNamesSorted();        allFields.removeAll(Arrays.asList("DeviceName", "DevideClass"));

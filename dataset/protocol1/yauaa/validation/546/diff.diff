@@ -1,0 +1,4 @@
+60c60
+<         return !(firstWord==1 && lastWord==1);
+---
+>         return !(firstWord==1 && lastWord	==1);

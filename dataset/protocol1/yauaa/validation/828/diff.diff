@@ -1,0 +1,4 @@
+92c92
+<         String path = "agent.(1)product.(1)name=\"Foo\"^.(1-3)version";
+---
+>        String path = "agent.(1)product.(1)name=\"Foo\"^.(1-3)version";

@@ -1,0 +1,4 @@
+52c52
+<         return userAgentAnalyzer.map(record);
+---
+>        return userAgentAnalyzer.map(record);

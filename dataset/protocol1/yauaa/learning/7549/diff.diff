@@ -1,0 +1,4 @@
+28c28
+<     public StepNotEquals(String desiredValue) {
+---
+>     public StepNotEquals(String 	desiredValue) {

@@ -1,0 +1,4 @@
+79c79
+<         int end = findSplitEnd(characters, start);
+---
+>        int end = findSplitEnd(characters, start);

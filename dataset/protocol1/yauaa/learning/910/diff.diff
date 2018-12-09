@@ -1,0 +1,4 @@
+103c103
+<             if (hasNext == null) {
+---
+>            if (hasNext == null) {

@@ -1,0 +1,4 @@
+116c116
+<             return "FIXED  : (" + attribute + ", " + confidence + ") =   \"" + fixedValue + "\"";
+---
+>            return "FIXED  : (" + attribute + ", " + confidence + ") =   \"" + fixedValue + "\"";

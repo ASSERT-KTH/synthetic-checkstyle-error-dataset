@@ -1,0 +1,4 @@
+27c27
+< public final class WordRangeVisitor extends UserAgentTreeWalkerBaseVisitor<WordRangeVisitor.Range> {
+---
+> public final class WordRangeVisitor extends UserAgentTreeWalkerBaseVisitor<WordRangeVisitor. Range> {

@@ -1,0 +1,5 @@
+177,178c177
+<         assertEquals("d71922715c2bfe29343644b14a4731bf5690e66e", parsedAgent.getValue("ApplicationGitCommit"));
+<         assertEquals("node123.datacenter.example.nl",            parsedAgent.getValue("ServerName"));
+---
+>         assertEquals("d71922715c2bfe29343644b14a4731bf5690e66e", parsedAgent.getValue("ApplicationGitCommit"));        assertEquals("node123.datacenter.example.nl",            parsedAgent.getValue("ServerName"));

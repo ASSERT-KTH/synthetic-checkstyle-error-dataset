@@ -1,0 +1,4 @@
+20c20
+< public class InvalidParserConfigurationException extends RuntimeException {
+---
+>  public class InvalidParserConfigurationException extends RuntimeException {

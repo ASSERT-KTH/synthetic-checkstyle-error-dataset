@@ -1,0 +1,4 @@
+41c41
+<         long memory = runtime.totalMemory() - runtime.freeMemory();
+---
+>        long memory = runtime.totalMemory() - runtime.freeMemory();

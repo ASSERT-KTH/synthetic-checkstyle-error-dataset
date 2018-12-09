@@ -1,0 +1,5 @@
+1062c1062,1063
+<             LOG.warn("NO PREHEAT WAS DONE. Simply because there are no test cases available.");
+---
+>             LOG.warn(
+> "NO PREHEAT WAS DONE. Simply because there are no test cases available.");

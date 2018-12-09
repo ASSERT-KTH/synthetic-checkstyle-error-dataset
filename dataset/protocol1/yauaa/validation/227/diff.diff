@@ -1,0 +1,4 @@
+48c48
+<         return "Concat(" + prefix + ";" + postfix + ")";
+---
+>          return "Concat(" + prefix + ";" + postfix + ")";

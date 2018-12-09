@@ -1,0 +1,5 @@
+22c22,23
+< import org.apache.hadoop.hive.ql.exec.Description;
+---
+> import org.apache.hadoop.hive.ql.exec.
+> Description;

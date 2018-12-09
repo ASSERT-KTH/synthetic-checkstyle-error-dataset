@@ -1,0 +1,4 @@
+102c102
+<     public PrefixLookup(Map<String, String> prefixList, boolean caseSensitive) {
+---
+>     public PrefixLookup(Map<String, String	> prefixList, boolean caseSensitive) {

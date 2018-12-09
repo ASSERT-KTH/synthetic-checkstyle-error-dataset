@@ -1,0 +1,5 @@
+84,85c84
+<         return new NumberRangeList(
+<                 Integer.parseInt(ctx.rangeStart.getText()),
+---
+>         return new NumberRangeList(                Integer.parseInt(ctx.rangeStart.getText()),

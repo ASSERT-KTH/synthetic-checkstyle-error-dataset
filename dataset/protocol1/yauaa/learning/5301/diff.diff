@@ -1,0 +1,4 @@
+30c30
+<     implements UserAgentAnnotationMapper<T>, Serializable {
+---
+>     implements UserAgentAnnotationMapper<T>, 	Serializable {

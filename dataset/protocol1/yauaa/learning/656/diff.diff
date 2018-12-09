@@ -1,0 +1,4 @@
+56c56
+<         this.start = numberRange.getStart();
+---
+>        this.start = numberRange.getStart();

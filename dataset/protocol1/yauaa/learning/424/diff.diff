@@ -1,0 +1,4 @@
+106c106
+<             PCollection<TestRecord> input = pipeline
+---
+>            PCollection<TestRecord> input = pipeline

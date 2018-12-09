@@ -1,0 +1,4 @@
+307c307
+<         inform(ctx, NAME);
+---
+>        inform(ctx, NAME);

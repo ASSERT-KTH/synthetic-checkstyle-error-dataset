@@ -1,0 +1,4 @@
+38c38
+<     private ParseUserAgent parseUserAgent = new ParseUserAgent();
+---
+>    private ParseUserAgent parseUserAgent = new ParseUserAgent();

@@ -1,0 +1,5 @@
+107,108c107
+<             return new Schema(new Schema.FieldSchema("UserAgent", tupleSchema, DataType.TUPLE));
+<         } catch (FrontendException e) {
+---
+>             return new Schema(new Schema.FieldSchema("UserAgent", tupleSchema, DataType.TUPLE));        } catch (FrontendException e) {

@@ -1,0 +1,5 @@
+61,62c61
+<             "The key should be a string but it is a " + keyNode.getNodeId().name());
+<         return ((ScalarNode)keyNode).getValue();
+---
+>             "The key should be a string but it is a " + keyNode.getNodeId().name());        return ((ScalarNode)keyNode).getValue();

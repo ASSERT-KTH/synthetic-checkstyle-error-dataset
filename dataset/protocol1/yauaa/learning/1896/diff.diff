@@ -1,0 +1,4 @@
+30c30
+<         userAgent.setForced("One", "One", 1);
+---
+>         userAgent.setForced("One", 	"One", 1);

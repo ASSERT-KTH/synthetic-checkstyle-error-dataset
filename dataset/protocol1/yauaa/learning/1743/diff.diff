@@ -1,0 +1,4 @@
+46c46
+<         LOG.info("Validating when getting all fields");
+---
+>        LOG.info("Validating when getting all fields");

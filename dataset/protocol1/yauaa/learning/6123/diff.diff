@@ -1,0 +1,5 @@
+75c75,76
+<             org.apache.drill.exec.expr.holders.VarCharHolder rowHolder = new org.apache.drill.exec.expr.holders.VarCharHolder();
+---
+>             org.apache.drill.exec.expr.holders
+> .VarCharHolder rowHolder = new org.apache.drill.exec.expr.holders.VarCharHolder();

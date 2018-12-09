@@ -1,0 +1,5 @@
+95,96c95
+<         verifyDeviceClass(Spy,                   false, false, false,  true);
+<         verifyDeviceClass(Hacker,                false, false, false,  true);
+---
+>         verifyDeviceClass(Spy,                   false, false, false,  true);        verifyDeviceClass(Hacker,                false, false, false,  true);

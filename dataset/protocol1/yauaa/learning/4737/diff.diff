@@ -1,0 +1,4 @@
+116c116
+<     public UserAgent win10Edge13(ThreadState state) {
+---
+>     public UserAgent 	win10Edge13(ThreadState state) {

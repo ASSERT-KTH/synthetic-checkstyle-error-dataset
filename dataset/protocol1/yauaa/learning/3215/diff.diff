@@ -1,0 +1,4 @@
+49c49
+<     private List<String> requestedFieldNames = new ArrayList<>();
+---
+>    private List<String> requestedFieldNames = new ArrayList<>();

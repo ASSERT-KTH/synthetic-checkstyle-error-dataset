@@ -1,0 +1,4 @@
+155c155
+<         UserAgent agent = (UserAgent) o;
+---
+>         UserAgent 	agent = (UserAgent) o;

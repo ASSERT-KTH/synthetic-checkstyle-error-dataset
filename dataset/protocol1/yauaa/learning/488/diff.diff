@@ -1,0 +1,5 @@
+28,29c28
+< import static org.apache.pig.builtin.mock.Storage.resetData;
+< import static org.apache.pig.builtin.mock.Storage.tuple;
+---
+> import static org.apache.pig.builtin.mock.Storage.resetData;import static org.apache.pig.builtin.mock.Storage.tuple;

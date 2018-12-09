@@ -1,0 +1,5 @@
+82c82,83
+<             "The value should be a sequence but it is a " + valueNode.getNodeId().name());
+---
+>             "The value should be a sequence but it is a " + valueNode.getNodeId().
+> name());

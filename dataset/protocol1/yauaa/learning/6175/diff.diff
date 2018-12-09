@@ -1,0 +1,5 @@
+26c26,27
+< import static nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.NumberRangeAllContext;
+---
+> import 
+> static nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.NumberRangeAllContext;

@@ -1,0 +1,5 @@
+271c271,272
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "LayoutEngineClass"               );
+---
+>         result.assertAttributeNotExists(
+> ATTRIBUTE_PREFIX + "LayoutEngineClass"               );

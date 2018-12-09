@@ -1,0 +1,5 @@
+46c46,47
+<             char myChar = prefix.charAt(charIndex); // This will give us the ASCII value of the char
+---
+>             char myChar = prefix.charAt(charIndex)
+> ; // This will give us the ASCII value of the char

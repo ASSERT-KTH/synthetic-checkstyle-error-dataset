@@ -1,0 +1,4 @@
+31c31
+< import nl.basjes.parse.useragent.parser.UserAgentParser.KeyWithoutValueContext;
+---
+> import 	nl.basjes.parse.useragent.parser.UserAgentParser.KeyWithoutValueContext;

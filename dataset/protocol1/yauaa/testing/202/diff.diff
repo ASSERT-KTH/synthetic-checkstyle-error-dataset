@@ -1,0 +1,4 @@
+65c65
+<                 char lower = Character.toLowerCase(myChar);
+---
+>                 char 	lower = Character.toLowerCase(myChar);

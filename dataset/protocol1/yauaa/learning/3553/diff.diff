@@ -1,0 +1,4 @@
+135c135
+<         switch (getDeviceClass(userAgent)) {
+---
+>         switch (getDeviceClass( userAgent)) {

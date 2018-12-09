@@ -1,0 +1,4 @@
+51c51
+<     public static NodeTuple getExactlyOneNodeTuple(MappingNode mappingNode, String filename) {
+---
+>    public static NodeTuple getExactlyOneNodeTuple(MappingNode mappingNode, String filename) {

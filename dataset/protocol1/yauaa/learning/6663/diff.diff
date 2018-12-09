@@ -1,0 +1,4 @@
+122c122
+<         expectedEx.expect(InvalidParserConfigurationException.class);
+---
+>         expectedEx.expect(InvalidParserConfigurationException.class) ;

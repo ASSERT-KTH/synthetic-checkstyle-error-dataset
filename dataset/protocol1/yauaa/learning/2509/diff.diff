@@ -1,0 +1,5 @@
+41,42c41
+<         validateUserAgent(
+<             "Mozilla/5.0"
+---
+>         validateUserAgent(            "Mozilla/5.0"

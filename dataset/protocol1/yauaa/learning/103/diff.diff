@@ -1,0 +1,4 @@
+31c31
+<     public StepPrevN(int steps) {
+---
+>    public StepPrevN(int steps) {

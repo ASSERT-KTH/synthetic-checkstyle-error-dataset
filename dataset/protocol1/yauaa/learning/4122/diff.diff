@@ -1,0 +1,4 @@
+61c61
+<             case "Spy":                    return Spy;
+---
+>            case "Spy":                    return Spy;

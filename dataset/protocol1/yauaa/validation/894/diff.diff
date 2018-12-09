@@ -1,0 +1,4 @@
+95c95
+<             values.add(((ScalarNode)node).getValue());
+---
+>            values.add(((ScalarNode)node).getValue());

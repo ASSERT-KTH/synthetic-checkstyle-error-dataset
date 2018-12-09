@@ -1,0 +1,5 @@
+63c63,64
+<             isSame(deviceClass,      record.deviceClass)       &&
+---
+>             isSame(deviceClass,      
+> record.deviceClass)       &&

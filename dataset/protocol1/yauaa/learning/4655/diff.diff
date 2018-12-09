@@ -1,0 +1,4 @@
+83c83
+<             fieldNames = userAgentAnalyzer.getAllPossibleFieldNamesSorted();
+---
+>             fieldNames = 	userAgentAnalyzer.getAllPossibleFieldNamesSorted();

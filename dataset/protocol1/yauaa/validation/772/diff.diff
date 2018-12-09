@@ -1,0 +1,5 @@
+258c258,259
+<         Step step = walkList.getFirstStep();
+---
+>         Step step = walkList.getFirstStep()
+> ;

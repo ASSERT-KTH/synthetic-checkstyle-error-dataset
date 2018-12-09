@@ -1,0 +1,5 @@
+48,49c48
+<                 return walkNextStep(tree, defaultValue);
+<             }
+---
+>                 return walkNextStep(tree, defaultValue);            }

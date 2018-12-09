@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "107", "message": "'testBuilder' has incorrect indentation level 8, expected level should be 12.", "type": "Indentation"}

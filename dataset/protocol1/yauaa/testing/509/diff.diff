@@ -1,0 +1,4 @@
+114c114
+<                 return allElements[offset++];
+---
+>                 return allElements[	offset++];

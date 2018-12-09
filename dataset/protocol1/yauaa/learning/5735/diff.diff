@@ -1,0 +1,5 @@
+38,39c38
+< import static nl.basjes.parse.useragent.utils.YamlUtils.getValueAsSequenceNode;
+< import static nl.basjes.parse.useragent.utils.YamlUtils.getValueAsString;
+---
+> import static nl.basjes.parse.useragent.utils.YamlUtils.getValueAsSequenceNode;import static nl.basjes.parse.useragent.utils.YamlUtils.getValueAsString;

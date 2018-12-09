@@ -1,0 +1,5 @@
+57c57,58
+<         MAX_RANGE.put("keyvalue",             3);
+---
+>         MAX_RANGE.put("keyvalue",             3
+> );

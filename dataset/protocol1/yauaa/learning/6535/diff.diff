@@ -1,0 +1,4 @@
+722c722
+<         userAgent.set("HackerAttackVector",         "Buffer overflow",  confidence);
+---
+>         userAgent. set("HackerAttackVector",         "Buffer overflow",  confidence);

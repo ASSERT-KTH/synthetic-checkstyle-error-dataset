@@ -1,0 +1,5 @@
+91,92c91
+<             assertEquals("Wrong AgentNameVersionMajor: " + row.getField(0), row.getField(4), row.getField(2));
+<             return row.getField(0).toString();
+---
+>             assertEquals("Wrong AgentNameVersionMajor: " + row.getField(0), row.getField(4), row.getField(2));            return row.getField(0).toString();

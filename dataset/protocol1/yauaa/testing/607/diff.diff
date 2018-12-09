@@ -1,0 +1,4 @@
+124c124
+<     private static final int CAPACITY_INCREASE = 3;
+---
+>     private static final int CAPACITY_INCREASE = 	3;

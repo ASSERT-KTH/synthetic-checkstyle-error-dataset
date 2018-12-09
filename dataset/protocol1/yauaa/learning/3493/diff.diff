@@ -1,0 +1,4 @@
+389c389
+<         if (USERAGENT_FIELDNAME.equals(fieldName)) {
+---
+>        if (USERAGENT_FIELDNAME.equals(fieldName)) {

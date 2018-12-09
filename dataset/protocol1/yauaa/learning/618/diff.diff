@@ -1,0 +1,5 @@
+96,97c96
+<         checkResult(data, schema, "DeviceCpu",                        "Intel x86_64"          );
+<         checkResult(data, schema, "DeviceFirmwareVersion",            "Unknown"               );
+---
+>         checkResult(data, schema, "DeviceCpu",                        "Intel x86_64"          );        checkResult(data, schema, "DeviceFirmwareVersion",            "Unknown"               );

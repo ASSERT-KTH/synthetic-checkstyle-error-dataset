@@ -1,0 +1,4 @@
+111c111
+<     public UserAgent win7ie11(ThreadState state) {
+---
+>     public UserAgent 	win7ie11(ThreadState state) {

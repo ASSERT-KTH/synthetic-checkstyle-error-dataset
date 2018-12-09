@@ -1,0 +1,5 @@
+30c30,31
+< import java.io.ObjectInputStream;
+---
+> import java.
+> io.ObjectInputStream;

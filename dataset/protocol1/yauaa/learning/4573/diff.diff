@@ -1,0 +1,4 @@
+41c41
+<         assertFalse(uaa.runTests(false, true)); // This test must return an error state
+---
+>         assertFalse( uaa.runTests(false, true)); // This test must return an error state

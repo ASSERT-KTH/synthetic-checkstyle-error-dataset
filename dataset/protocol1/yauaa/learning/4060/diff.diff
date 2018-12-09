@@ -1,0 +1,4 @@
+26c26
+< public interface DefaultANTLRErrorListener extends ANTLRErrorListener {
+---
+> public interface 	DefaultANTLRErrorListener extends ANTLRErrorListener {

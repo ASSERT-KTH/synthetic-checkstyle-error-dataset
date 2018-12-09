@@ -1,0 +1,4 @@
+90c90
+<     public void validateAllPredefinedBrowsers() {
+---
+>     public void validateAllPredefinedBrowsers () {

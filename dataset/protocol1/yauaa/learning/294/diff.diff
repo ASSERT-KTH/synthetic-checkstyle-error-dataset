@@ -1,0 +1,4 @@
+39c39
+<                          Predicate<ParseTree> isWantedClassPredicate) {
+---
+>                          Predicate<ParseTree> isWantedClassPredicate) 	{

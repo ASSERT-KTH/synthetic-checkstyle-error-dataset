@@ -1,0 +1,5 @@
+126,127c126
+<         uaa.concatFieldValuesNONDuplicated(userAgent, "Combined3", "MinusOne", "Two");
+<         assertEquals("MinusOne Two", userAgent.getValue("Combined3"));
+---
+>         uaa.concatFieldValuesNONDuplicated(userAgent, "Combined3", "MinusOne", "Two");        assertEquals("MinusOne Two", userAgent.getValue("Combined3"));

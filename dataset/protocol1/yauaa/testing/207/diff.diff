@@ -1,0 +1,4 @@
+27c27
+<     String shouldRemainNull = null;
+---
+>    String shouldRemainNull = null;

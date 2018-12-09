@@ -1,0 +1,4 @@
+50c50
+<         return (value.startsWith("www.") || value.startsWith("http") || (value.contains("@") && value.contains(".")));
+---
+>         return (value.startsWith("www.") || value.startsWith( "http") || (value.contains("@") && value.contains(".")));

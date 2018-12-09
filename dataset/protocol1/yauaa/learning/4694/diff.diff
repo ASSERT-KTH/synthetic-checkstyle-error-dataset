@@ -1,0 +1,5 @@
+73c73,74
+<         tableEnv.registerDataStream("AgentStream", inputStream, "useragent, expectedDeviceClass, expectedAgentNameVersionMajor");
+---
+>         tableEnv.registerDataStream(
+> "AgentStream", inputStream, "useragent, expectedDeviceClass, expectedAgentNameVersionMajor");

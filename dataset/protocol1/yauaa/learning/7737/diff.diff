@@ -1,0 +1,5 @@
+29c29,30
+< import static org.junit.Assert.assertTrue;
+---
+> import static 
+> org.junit.Assert.assertTrue;

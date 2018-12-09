@@ -1,0 +1,4 @@
+84c84
+<             sb.append(letter);
+---
+>            sb.append(letter);

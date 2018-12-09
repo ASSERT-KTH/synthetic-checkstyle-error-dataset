@@ -1,0 +1,4 @@
+104c104
+<         DataStream<TestRecord> testRecordDataSet = environment
+---
+>         DataStream<TestRecord	> testRecordDataSet = environment

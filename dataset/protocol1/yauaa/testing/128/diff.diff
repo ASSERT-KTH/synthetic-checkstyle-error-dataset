@@ -1,0 +1,4 @@
+80c80
+<             if (charIndex == input.length() || childNodes == null) {
+---
+>            if (charIndex == input.length() || childNodes == null) {

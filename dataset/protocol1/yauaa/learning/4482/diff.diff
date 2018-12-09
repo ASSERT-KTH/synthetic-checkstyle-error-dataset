@@ -1,0 +1,5 @@
+116,117c116
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "LayoutEngineName",                 "Blink"               );
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "LayoutEngineVersion",              "48.0"                );
+---
+>         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "LayoutEngineName",                 "Blink"               );        result.assertAttributeEquals(ATTRIBUTE_PREFIX + "LayoutEngineVersion",              "48.0"                );

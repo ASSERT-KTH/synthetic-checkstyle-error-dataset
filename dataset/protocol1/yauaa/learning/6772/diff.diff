@@ -1,0 +1,4 @@
+488c488
+<         for (Matcher matcher : getAllMatchers()) {
+---
+>        for (Matcher matcher : getAllMatchers()) {

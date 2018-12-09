@@ -1,0 +1,5 @@
+322c322,323
+<         inform(ctx, "name.(1)keyvalue", ctx.getText(), false);
+---
+>         inform(
+> ctx, "name.(1)keyvalue", ctx.getText(), false);

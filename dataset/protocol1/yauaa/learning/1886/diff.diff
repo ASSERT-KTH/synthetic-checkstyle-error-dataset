@@ -1,0 +1,4 @@
+92c92
+<         TestRecord expectedRecord2 = new TestRecord(useragents.get(1));
+---
+>        TestRecord expectedRecord2 = new TestRecord(useragents.get(1));

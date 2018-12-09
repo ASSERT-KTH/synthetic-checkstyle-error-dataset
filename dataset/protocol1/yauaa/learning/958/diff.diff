@@ -1,0 +1,5 @@
+78c78,79
+<             cachedValue = new UserAgent(super.parse(userAgent));
+---
+>             cachedValue = new UserAgent(super.parse
+> (userAgent));

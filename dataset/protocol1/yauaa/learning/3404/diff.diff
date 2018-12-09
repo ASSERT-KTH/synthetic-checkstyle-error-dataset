@@ -1,0 +1,4 @@
+197c197
+<             return setValue(field.value, field.confidence);
+---
+>            return setValue(field.value, field.confidence);

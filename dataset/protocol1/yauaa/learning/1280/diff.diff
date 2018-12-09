@@ -1,0 +1,4 @@
+110c110
+<         checkResult(data, schema, "KoboPlatformId",                   "Unknown"               );
+---
+>         checkResult(	data, schema, "KoboPlatformId",                   "Unknown"               );

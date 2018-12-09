@@ -1,0 +1,4 @@
+302c302
+<             WalkResult matchedValue = evaluator.evaluate(match.getResult(), match.getKey(), match.getValue());
+---
+>             WalkResult matchedValue = evaluator.evaluate(match.getResult(), match.getKey (), match.getValue());

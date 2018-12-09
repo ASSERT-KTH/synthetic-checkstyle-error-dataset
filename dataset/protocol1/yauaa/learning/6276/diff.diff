@@ -1,0 +1,5 @@
+46c46,47
+<         cacheSize = newCacheSize > 0 ? newCacheSize : 0;
+---
+>         cacheSize = newCacheSize > 0 ? newCacheSize : 0
+> ;

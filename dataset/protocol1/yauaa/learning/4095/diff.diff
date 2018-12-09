@@ -1,0 +1,4 @@
+64c64
+<     public void testFunction() throws Exception {
+---
+>     public void testFunction() 	throws Exception {

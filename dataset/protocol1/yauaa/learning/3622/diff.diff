@@ -1,0 +1,5 @@
+146c146,147
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "KoboPlatformId",                   "Unknown"             );
+---
+>         result.assertAttributeEquals(
+> ATTRIBUTE_PREFIX + "KoboPlatformId",                   "Unknown"             );

@@ -1,0 +1,5 @@
+414c414,415
+<                 for (int i = result.field.length(); i < maxNameLength; i++) {
+---
+>                 for (
+> int i = result.field.length(); i < maxNameLength; i++) {

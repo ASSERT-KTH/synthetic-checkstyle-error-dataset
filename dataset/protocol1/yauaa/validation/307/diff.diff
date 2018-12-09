@@ -1,0 +1,4 @@
+51c51
+<         String uaString = "Foo Bar";
+---
+>        String uaString = "Foo Bar";

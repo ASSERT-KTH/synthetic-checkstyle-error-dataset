@@ -1,0 +1,4 @@
+113c113
+<     public abstract WalkResult walk(ParseTree tree, String value);
+---
+>     public abstract WalkResult walk (ParseTree tree, String value);

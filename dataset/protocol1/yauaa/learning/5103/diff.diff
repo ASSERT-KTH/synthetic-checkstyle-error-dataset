@@ -1,0 +1,4 @@
+128c128
+<         result.append(input.substring(startIdx));
+---
+>         result.append(input.substring(startIdx) );

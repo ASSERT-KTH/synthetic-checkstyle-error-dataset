@@ -1,0 +1,4 @@
+102c102
+<         StreamExecutionEnvironment environment = LocalStreamEnvironment.getExecutionEnvironment();
+---
+>         StreamExecutionEnvironment environment = LocalStreamEnvironment.getExecutionEnvironment ();

@@ -1,0 +1,4 @@
+40c40
+<     private int cacheSize = DEFAULT_PARSE_CACHE_SIZE;
+---
+>     private 	int cacheSize = DEFAULT_PARSE_CACHE_SIZE;

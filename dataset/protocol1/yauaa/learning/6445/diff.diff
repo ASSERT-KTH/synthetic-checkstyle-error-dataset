@@ -1,0 +1,5 @@
+521c521,522
+<             maxLength = Math.max(maxLength, fieldName.length());
+---
+>             maxLength = Math.max(maxLength, 
+> fieldName.length());

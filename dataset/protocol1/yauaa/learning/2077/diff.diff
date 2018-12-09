@@ -1,0 +1,4 @@
+73c73
+<                         if (lowerChars >= 3) {
+---
+>                         if 	(lowerChars >= 3) {

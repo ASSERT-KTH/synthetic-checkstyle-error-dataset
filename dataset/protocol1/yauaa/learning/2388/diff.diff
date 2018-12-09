@@ -1,0 +1,5 @@
+182,183c182
+<         runTest(
+<             "classpath*:BadDefinitions/SyntaxErrorVariable2.yaml",
+---
+>         runTest(            "classpath*:BadDefinitions/SyntaxErrorVariable2.yaml",

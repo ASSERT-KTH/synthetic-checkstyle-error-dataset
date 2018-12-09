@@ -1,0 +1,4 @@
+24c24
+< public class StepIsNull extends Step {
+---
+> public 	class StepIsNull extends Step {

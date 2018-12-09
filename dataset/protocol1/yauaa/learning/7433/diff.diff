@@ -1,0 +1,5 @@
+65c65,66
+<         String userAgentString = org.apache.drill.exec.expr.fn.impl.StringFunctionHelpers.toStringFromUTF8(input.start, input.end, input.buffer);
+---
+>         String userAgentString = org.apache.drill.exec.expr.fn.impl.StringFunctionHelpers.toStringFromUTF8(
+> input.start, input.end, input.buffer);

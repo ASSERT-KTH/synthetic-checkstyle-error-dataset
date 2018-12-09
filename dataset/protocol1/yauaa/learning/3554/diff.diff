@@ -1,0 +1,5 @@
+37c37,38
+<             return walkNextStep(tree, actualValue);
+---
+>             return walkNextStep(tree, 
+> actualValue);

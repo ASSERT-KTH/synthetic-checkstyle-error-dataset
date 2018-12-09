@@ -1,0 +1,4 @@
+127c127
+<         assertEquals("MinusOne Two", userAgent.getValue("Combined3"));
+---
+>        assertEquals("MinusOne Two", userAgent.getValue("Combined3"));

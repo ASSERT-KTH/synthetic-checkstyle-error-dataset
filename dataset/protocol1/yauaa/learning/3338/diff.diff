@@ -1,0 +1,4 @@
+162c162
+<                             configLines.add(new ConfigLine(REQUIRE, null, null, config));
+---
+>                             configLines.add(new ConfigLine(REQUIRE, null, null, 	config));

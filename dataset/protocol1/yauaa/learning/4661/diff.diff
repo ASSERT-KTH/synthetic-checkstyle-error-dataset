@@ -1,0 +1,4 @@
+62c62
+<         String userAgentString = org.apache.drill.exec.expr.fn.impl.StringFunctionHelpers.getStringFromVarCharHolder(useragent);
+---
+>         String userAgentString = org.apache.drill	.exec.expr.fn.impl.StringFunctionHelpers.getStringFromVarCharHolder(useragent);

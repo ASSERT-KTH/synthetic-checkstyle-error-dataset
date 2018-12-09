@@ -1,0 +1,4 @@
+35c35
+<         private PrefixTrie(boolean caseSensitive, int charIndex) {
+---
+>         private PrefixTrie(boolean caseSensitive, int charIndex ) {

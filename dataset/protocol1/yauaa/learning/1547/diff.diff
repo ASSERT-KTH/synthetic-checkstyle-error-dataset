@@ -1,0 +1,4 @@
+122c122
+<     public static void setStringInVarCharHolder(String input, NullableVarCharHolder nullableVarCharHolder) {
+---
+>    public static void setStringInVarCharHolder(String input, NullableVarCharHolder nullableVarCharHolder) {

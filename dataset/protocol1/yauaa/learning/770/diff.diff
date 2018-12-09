@@ -1,0 +1,4 @@
+1247c1247
+<             for (String fieldName : fieldNames) {
+---
+>             for (String fieldName : 	fieldNames) {

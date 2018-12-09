@@ -1,0 +1,4 @@
+52c52
+<         StandardStructObjectInspector resultInspector = (StandardStructObjectInspector) parseUserAgent
+---
+>         StandardStructObjectInspector resultInspector 	= (StandardStructObjectInspector) parseUserAgent

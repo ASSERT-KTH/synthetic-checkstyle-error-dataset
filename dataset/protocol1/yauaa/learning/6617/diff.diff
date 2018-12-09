@@ -1,0 +1,4 @@
+37c37
+< import static nl.basjes.parse.useragent.analyze.Matcher.ConfigLine.Type.EXTRACT;
+---
+> import static nl.basjes.parse.useragent	.analyze.Matcher.ConfigLine.Type.EXTRACT;

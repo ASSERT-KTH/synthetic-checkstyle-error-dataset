@@ -1,0 +1,4 @@
+89c89
+<         String userAgentString = (String) tuple.get(0);
+---
+>         String userAgentString = (String) tuple.get (0);

@@ -1,0 +1,5 @@
+29,30c29
+< import org.apache.hadoop.hive.serde2.objectinspector.primitive.StringObjectInspector;
+< import org.apache.hadoop.io.Text;
+---
+> import org.apache.hadoop.hive.serde2.objectinspector.primitive.StringObjectInspector;import org.apache.hadoop.io.Text;

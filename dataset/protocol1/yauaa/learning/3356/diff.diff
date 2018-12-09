@@ -1,0 +1,4 @@
+154c154
+<                     throw new InvalidParserConfigurationException("A problem occurred while calling the requested setter", e);
+---
+>                    throw new InvalidParserConfigurationException("A problem occurred while calling the requested setter", e);

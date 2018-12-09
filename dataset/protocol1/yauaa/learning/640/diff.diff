@@ -1,0 +1,4 @@
+66c66
+<             Range range = (Range) o;
+---
+>            Range range = (Range) o;

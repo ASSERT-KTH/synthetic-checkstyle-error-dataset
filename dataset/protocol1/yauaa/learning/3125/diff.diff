@@ -1,0 +1,5 @@
+74c74,75
+<         assertEquals(deviceClass, UserAgentClassifier.getDeviceClass(userAgent).getValue());
+---
+>         assertEquals(
+> deviceClass, UserAgentClassifier.getDeviceClass(userAgent).getValue());

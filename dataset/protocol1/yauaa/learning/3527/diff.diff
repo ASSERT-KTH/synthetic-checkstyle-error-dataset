@@ -1,0 +1,5 @@
+100c100,101
+<         assertEquals("mms-mmaudvidcrawler-support@yahoo-inc.com",  Normalize.email("mms dash mmaudvidcrawler dash support at yahoo dash inc dot com"));
+---
+>         assertEquals("mms-mmaudvidcrawler-support@yahoo-inc.com",  Normalize.email("mms dash mmaudvidcrawler dash support at yahoo dash inc dot com"))
+> ;

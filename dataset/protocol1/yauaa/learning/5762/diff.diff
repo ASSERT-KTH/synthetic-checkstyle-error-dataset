@@ -1,0 +1,4 @@
+30c30
+<         init(config, matcher);
+---
+>         init(config, matcher );

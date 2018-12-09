@@ -1,0 +1,5 @@
+237c237,238
+<         runner.setProperty(PROPERTY_PREFIX + "OperatingSystemVersion",           "true");
+---
+>         runner.setProperty(
+> PROPERTY_PREFIX + "OperatingSystemVersion",           "true");

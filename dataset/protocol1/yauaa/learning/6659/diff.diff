@@ -1,0 +1,4 @@
+168c168
+<         newUserAgentDissector.extraResources = new ArrayList<>(extraResources);
+---
+>         newUserAgentDissector.extraResources = new ArrayList<	>(extraResources);

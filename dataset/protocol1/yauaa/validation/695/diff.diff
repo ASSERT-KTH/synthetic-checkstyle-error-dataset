@@ -1,0 +1,5 @@
+208,209c208
+<             .expect("HTTP.PATH:request.user-agent.agent_information_url.path",          "/something.html")
+<             .expect("HTTP.QUERYSTRING:request.user-agent.agent_information_url.query",  "&aap=noot&mies=wim")
+---
+>             .expect("HTTP.PATH:request.user-agent.agent_information_url.path",          "/something.html")            .expect("HTTP.QUERYSTRING:request.user-agent.agent_information_url.query",  "&aap=noot&mies=wim")

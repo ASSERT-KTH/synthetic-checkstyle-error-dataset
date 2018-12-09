@@ -1,0 +1,5 @@
+68,69c68
+<             "Chrome/48.0.2564.82 Safari/537.36";
+<         TestRecord testInput = new TestRecord(userAgent);
+---
+>             "Chrome/48.0.2564.82 Safari/537.36";        TestRecord testInput = new TestRecord(userAgent);

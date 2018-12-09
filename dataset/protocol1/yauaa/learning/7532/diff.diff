@@ -1,0 +1,5 @@
+569c569,570
+<         PRE_SORTED_FIELDS_LIST.add("OperatingSystemClass");
+---
+>         PRE_SORTED_FIELDS_LIST.add(
+> "OperatingSystemClass");

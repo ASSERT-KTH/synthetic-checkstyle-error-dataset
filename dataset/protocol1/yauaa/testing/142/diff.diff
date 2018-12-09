@@ -1,0 +1,4 @@
+60c60
+<                 childNodes[myChar].add(prefix, value);
+---
+>                childNodes[myChar].add(prefix, value);

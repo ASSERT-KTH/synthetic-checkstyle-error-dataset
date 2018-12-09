@@ -1,0 +1,4 @@
+546c546
+<                     resultSet.add(fieldName);
+---
+>                     resultSet.add(fieldName );

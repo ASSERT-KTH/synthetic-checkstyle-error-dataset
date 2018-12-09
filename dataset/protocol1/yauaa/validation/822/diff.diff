@@ -1,0 +1,5 @@
+85c85,86
+<         expectedEx.expectMessage("Couldn't find the used generic type of the UserAgentAnnotationMapper.");
+---
+>         expectedEx
+> .expectMessage("Couldn't find the used generic type of the UserAgentAnnotationMapper.");

@@ -1,0 +1,4 @@
+80c80
+<                 if (!isWantedClassPredicate.test(nextParseTree)) {
+---
+>                 if ( !isWantedClassPredicate.test(nextParseTree)) {

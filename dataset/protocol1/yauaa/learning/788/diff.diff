@@ -1,0 +1,5 @@
+35c35,36
+< import static nl.basjes.parse.useragent.classify.DeviceClass.TV;
+---
+> import static 
+> nl.basjes.parse.useragent.classify.DeviceClass.TV;

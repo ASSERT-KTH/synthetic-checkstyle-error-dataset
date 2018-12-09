@@ -1,0 +1,5 @@
+51c51,52
+<         assertEquals("Incorrect user agent max length", 555, userAgentAnalyzer.getUserAgentMaxLength());
+---
+>         assertEquals("Incorrect user agent max length", 555, userAgentAnalyzer.
+> getUserAgentMaxLength());

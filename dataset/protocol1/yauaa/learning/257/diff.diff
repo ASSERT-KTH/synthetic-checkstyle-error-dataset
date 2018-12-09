@@ -1,0 +1,4 @@
+830c830
+<                 Normalize.brand(deviceBrand.getValue()),
+---
+>                 Normalize.brand(deviceBrand.getValue()) ,

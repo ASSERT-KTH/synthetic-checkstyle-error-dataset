@@ -1,0 +1,4 @@
+278c278
+<                     if (!result.pass) {
+---
+>                    if (!result.pass) {

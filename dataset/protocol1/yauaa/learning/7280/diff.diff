@@ -1,0 +1,4 @@
+80c80
+<                         c.output(new TestRecord(c.element()));
+---
+>                         c.output (new TestRecord(c.element()));

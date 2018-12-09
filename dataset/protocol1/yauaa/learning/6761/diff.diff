@@ -1,0 +1,4 @@
+299c299
+<                     maxActualLength = Math.max(maxActualLength, result.actual.length());
+---
+>                    maxActualLength = Math.max(maxActualLength, result.actual.length());

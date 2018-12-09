@@ -1,0 +1,5 @@
+101,102c101
+<         checkResult(data, schema, "FacebookDeviceName",               "Unknown"               );
+<         checkResult(data, schema, "FacebookDeviceVersion",            "Unknown"               );
+---
+>         checkResult(data, schema, "FacebookDeviceName",               "Unknown"               );        checkResult(data, schema, "FacebookDeviceVersion",            "Unknown"               );

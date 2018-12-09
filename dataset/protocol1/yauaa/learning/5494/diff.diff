@@ -1,0 +1,4 @@
+1237c1237
+<             uaa.wantedFieldNames.add(fieldName);
+---
+>             uaa.wantedFieldNames. add(fieldName);

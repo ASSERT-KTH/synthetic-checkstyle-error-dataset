@@ -1,0 +1,4 @@
+22c22
+< import org.apache.flink.api.common.typeinfo.Types;
+---
+> import org.apache.flink.api.common	.typeinfo.Types;

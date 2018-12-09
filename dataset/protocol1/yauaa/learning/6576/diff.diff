@@ -1,0 +1,4 @@
+68c68
+<                 last == range.last;
+---
+>                last == range.last;

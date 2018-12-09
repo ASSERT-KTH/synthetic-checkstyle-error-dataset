@@ -1,0 +1,4 @@
+83c83
+<         return ((SequenceNode)valueNode);
+---
+>        return ((SequenceNode)valueNode);

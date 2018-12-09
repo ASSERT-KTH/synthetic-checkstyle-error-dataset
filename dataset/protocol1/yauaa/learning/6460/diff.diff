@@ -1,0 +1,5 @@
+373,374c373
+<         assertEquals("one two/3 four-4 five",  splitter.getSplitRange(value, splitList, 1, 6));
+<         assertEquals(null,                     splitter.getSplitRange(value, splitList, 1, 7));
+---
+>         assertEquals("one two/3 four-4 five",  splitter.getSplitRange(value, splitList, 1, 6));        assertEquals(null,                     splitter.getSplitRange(value, splitList, 1, 7));

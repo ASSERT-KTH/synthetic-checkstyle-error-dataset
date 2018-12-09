@@ -1,0 +1,5 @@
+138,139c138
+<     public T map(T record) {
+<         if (record == null) {
+---
+>     public T map(T record) {        if (record == null) {

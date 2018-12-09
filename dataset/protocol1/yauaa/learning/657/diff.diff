@@ -1,0 +1,5 @@
+255,256c255
+<         expectedEx.expect(InvalidParserConfigurationException.class);
+<         expectedEx.expectMessage("The class nl.basjes.parse.useragent.annotate.TestAnnotationSystem.PrivateTestRecord is not public.");
+---
+>         expectedEx.expect(InvalidParserConfigurationException.class);        expectedEx.expectMessage("The class nl.basjes.parse.useragent.annotate.TestAnnotationSystem.PrivateTestRecord is not public.");

@@ -1,0 +1,4 @@
+31c31
+<     private transient UserAgentAnnotationAnalyzer<T> userAgentAnalyzer = null;
+---
+>     private transient UserAgentAnnotationAnalyzer<T	> userAgentAnalyzer = null;

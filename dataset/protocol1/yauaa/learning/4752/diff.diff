@@ -1,0 +1,4 @@
+1093c1093
+<             LOG.info("Preheating JVM completed. ({} of {} were proper results)", goodResults, preheatIterations);
+---
+>              LOG.info("Preheating JVM completed. ({} of {} were proper results)", goodResults, preheatIterations);

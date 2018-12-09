@@ -1,0 +1,4 @@
+552c552
+<         resultSet.remove(SET_ALL_FIELDS);
+---
+>         resultSet.remove( SET_ALL_FIELDS);

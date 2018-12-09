@@ -1,0 +1,4 @@
+147c147
+<     public static class WrongTypeParameters1 extends MyBaseMapper {
+---
+>     public static class WrongTypeParameters1 	extends MyBaseMapper {

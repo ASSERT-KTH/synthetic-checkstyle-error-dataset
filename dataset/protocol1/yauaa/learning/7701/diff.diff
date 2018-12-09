@@ -1,0 +1,4 @@
+236c236
+<         public PrivateTestRecord enrich(PrivateTestRecord record) {
+---
+>          public PrivateTestRecord enrich(PrivateTestRecord record) {

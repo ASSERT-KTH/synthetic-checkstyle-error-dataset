@@ -1,0 +1,4 @@
+26c26
+<     public NumberRangeList(int start, int end) {
+---
+>    public NumberRangeList(int start, int end) {

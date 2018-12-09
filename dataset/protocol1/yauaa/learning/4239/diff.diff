@@ -1,0 +1,4 @@
+96c96
+<     DeviceClass(final String newValue) {
+---
+>      DeviceClass(final String newValue) {

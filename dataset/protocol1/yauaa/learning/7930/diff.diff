@@ -1,0 +1,4 @@
+28c28
+<         ParseTree parent = up(tree);
+---
+>         ParseTree parent = up (tree);

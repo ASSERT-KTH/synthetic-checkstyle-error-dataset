@@ -1,0 +1,5 @@
+124c124,125
+<     public void validateWalkPathPruneTwo() {
+---
+>     
+> public void validateWalkPathPruneTwo() {

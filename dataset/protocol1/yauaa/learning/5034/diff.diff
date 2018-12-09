@@ -1,0 +1,4 @@
+50c50
+<         this(DEFAULT_PARSE_CACHE_SIZE, desiredFields);
+---
+>         this(DEFAULT_PARSE_CACHE_SIZE, desiredFields) ;

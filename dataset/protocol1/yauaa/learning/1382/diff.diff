@@ -1,0 +1,4 @@
+66c66
+<         UserAgentAnnotationAnalyzer<TestRecord> userAgentAnnotationAnalyzer = new UserAgentAnnotationAnalyzer<>();
+---
+>         UserAgentAnnotationAnalyzer<TestRecord> 	userAgentAnnotationAnalyzer = new UserAgentAnnotationAnalyzer<>();

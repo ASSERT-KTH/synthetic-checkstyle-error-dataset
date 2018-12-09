@@ -1,0 +1,4 @@
+22c22
+< import nl.basjes.parse.useragent.analyze.treewalker.steps.WalkList.WalkResult;
+---
+> import nl.basjes	.parse.useragent.analyze.treewalker.steps.WalkList.WalkResult;

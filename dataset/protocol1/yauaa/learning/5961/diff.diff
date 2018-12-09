@@ -1,0 +1,5 @@
+29c29,30
+<         this.desiredValue = desiredValue.toLowerCase();
+---
+>         this
+> .desiredValue = desiredValue.toLowerCase();

@@ -1,0 +1,4 @@
+70c70
+<             return (a == null && b == null);
+---
+>            return (a == null && b == null);

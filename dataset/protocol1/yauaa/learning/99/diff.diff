@@ -1,0 +1,5 @@
+35,36c35
+< import nl.basjes.parse.useragent.parser.UserAgentParser.KeyValueVersionNameContext;
+< import nl.basjes.parse.useragent.parser.UserAgentParser.MultipleWordsContext;
+---
+> import nl.basjes.parse.useragent.parser.UserAgentParser.KeyValueVersionNameContext;import nl.basjes.parse.useragent.parser.UserAgentParser.MultipleWordsContext;

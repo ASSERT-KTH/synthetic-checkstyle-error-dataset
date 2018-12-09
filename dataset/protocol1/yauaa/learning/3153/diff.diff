@@ -1,0 +1,4 @@
+51c51
+<         this(NumberRangeVisitor.getList(numberRange), name);
+---
+>        this(NumberRangeVisitor.getList(numberRange), name);

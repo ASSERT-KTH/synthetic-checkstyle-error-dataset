@@ -1,0 +1,4 @@
+82c82
+<     public static Range getRange(WordRangeContext ctx) {
+---
+>     public static Range getRange(WordRangeContext ctx) 	{

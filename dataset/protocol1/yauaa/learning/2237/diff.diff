@@ -1,0 +1,4 @@
+81c81
+<             assertTrue(o instanceof UserAgentAnalyzerTester);
+---
+>              assertTrue(o instanceof UserAgentAnalyzerTester);

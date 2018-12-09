@@ -1,0 +1,5 @@
+109c109,110
+<         int wordNumber = Integer.parseInt(ctx.singleWord.getText());
+---
+>         int wordNumber = Integer.parseInt(ctx.singleWord.getText())
+> ;

@@ -1,0 +1,4 @@
+123c123
+<             throw e.getCause().getCause();
+---
+>             throw e.getCause()	.getCause();

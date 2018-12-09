@@ -1,0 +1,4 @@
+85c85
+<     public static UserAgentAnalyzerBuilder<? extends UserAgentAnalyzer, ? extends UserAgentAnalyzerBuilder<?, ?>> newBuilder() {
+---
+>    public static UserAgentAnalyzerBuilder<? extends UserAgentAnalyzer, ? extends UserAgentAnalyzerBuilder<?, ?>> newBuilder() {

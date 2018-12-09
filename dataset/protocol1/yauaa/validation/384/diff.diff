@@ -1,0 +1,5 @@
+40,41c40
+<     public static void require(boolean condition, Node node, String filename, String error) {
+<         if (!condition) {
+---
+>     public static void require(boolean condition, Node node, String filename, String error) {        if (!condition) {

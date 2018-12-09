@@ -1,0 +1,4 @@
+20c20
+< public interface UserAgentAnnotationMapper<T> {
+---
+>  public interface UserAgentAnnotationMapper<T> {

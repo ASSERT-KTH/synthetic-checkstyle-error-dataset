@@ -1,0 +1,4 @@
+43c43
+<         assertFalse(values.contains(6));
+---
+>         assertFalse(values.contains (6));

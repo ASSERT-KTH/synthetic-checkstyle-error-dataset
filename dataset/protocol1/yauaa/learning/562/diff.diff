@@ -1,0 +1,4 @@
+175c175
+<         expectedEx.expectMessage(containsString("the method [wrongSetter] " +
+---
+>         expectedEx.expectMessage(containsString ("the method [wrongSetter] " +

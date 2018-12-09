@@ -1,0 +1,4 @@
+74c74
+<                         record.deviceClass = value;
+---
+>                         record.deviceClass 	= value;

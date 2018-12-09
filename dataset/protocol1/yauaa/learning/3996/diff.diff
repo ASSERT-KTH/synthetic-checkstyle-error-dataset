@@ -1,0 +1,5 @@
+26c26,27
+<     private ParseTree prev(ParseTree tree) {
+---
+>     private ParseTree prev(ParseTree tree
+> ) {

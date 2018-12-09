@@ -1,0 +1,4 @@
+27c27
+< import static nl.basjes.parse.useragent.analyze.treewalker.steps.Step.treeIsSeparator;
+---
+> import static nl.basjes. parse.useragent.analyze.treewalker.steps.Step.treeIsSeparator;

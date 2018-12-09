@@ -1,0 +1,4 @@
+43c43
+<     private transient UserAgentAnalyzerBuilder<?, ?> userAgentAnalyzerBuilder;
+---
+>     private transient UserAgentAnalyzerBuilder<?, ?	> userAgentAnalyzerBuilder;

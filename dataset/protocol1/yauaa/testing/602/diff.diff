@@ -1,0 +1,5 @@
+35,36c35
+< import org.apache.nifi.processor.ProcessorInitializationContext;
+< import org.apache.nifi.processor.Relationship;
+---
+> import org.apache.nifi.processor.ProcessorInitializationContext;import org.apache.nifi.processor.Relationship;

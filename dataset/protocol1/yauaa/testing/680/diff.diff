@@ -1,0 +1,4 @@
+20c20
+< public final class WordSplitter extends Splitter {
+---
+> public final class WordSplitter extends Splitter 	{

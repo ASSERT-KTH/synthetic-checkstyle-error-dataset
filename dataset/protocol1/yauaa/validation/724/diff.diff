@@ -1,0 +1,4 @@
+28c28
+<         if (ctx.start == null || ctx.stop == null) {
+---
+>         if (ctx.start == null || ctx.stop == 	null) {

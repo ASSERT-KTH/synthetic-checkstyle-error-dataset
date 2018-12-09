@@ -1,0 +1,5 @@
+40,41c40
+<         appliedMatcherResults.add(new ImmutablePair<>(new UserAgent(newValuesUserAgent), appliedMatcher));
+<         super.set(newValuesUserAgent, appliedMatcher);
+---
+>         appliedMatcherResults.add(new ImmutablePair<>(new UserAgent(newValuesUserAgent), appliedMatcher));        super.set(newValuesUserAgent, appliedMatcher);

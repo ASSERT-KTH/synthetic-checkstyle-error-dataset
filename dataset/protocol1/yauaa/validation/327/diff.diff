@@ -1,0 +1,4 @@
+185c185
+<         agent4.setImmediateForTesting("Field", field4); // Different field default value
+---
+>         agent4.setImmediateForTesting("Field", field4) ; // Different field default value

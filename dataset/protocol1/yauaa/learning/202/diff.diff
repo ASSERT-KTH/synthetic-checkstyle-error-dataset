@@ -1,0 +1,4 @@
+45c45
+<     public final void setNextStep(int newStepNr, Step newNextStep) {
+---
+>     public final void setNextStep(int 	newStepNr, Step newNextStep) {

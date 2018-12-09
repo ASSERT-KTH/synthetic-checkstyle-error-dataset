@@ -1,0 +1,5 @@
+165,166c165
+<                 .withFields("ApplicationName", "ApplicationVersion")
+<                 .withFields(Arrays.asList("ApplicationInstance", "ApplicationGitCommit"))
+---
+>                 .withFields("ApplicationName", "ApplicationVersion")                .withFields(Arrays.asList("ApplicationInstance", "ApplicationGitCommit"))

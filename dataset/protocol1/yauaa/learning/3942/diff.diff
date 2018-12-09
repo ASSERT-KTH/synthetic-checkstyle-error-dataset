@@ -1,0 +1,5 @@
+52,53c52
+<         // The number of rules for the Brands is so large that it results in an OOM in Travis-CI
+<         allFields = UserAgentAnalyzer.newBuilder().build().getAllPossibleFieldNamesSorted();
+---
+>         // The number of rules for the Brands is so large that it results in an OOM in Travis-CI        allFields = UserAgentAnalyzer.newBuilder().build().getAllPossibleFieldNamesSorted();

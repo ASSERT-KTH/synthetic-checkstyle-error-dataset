@@ -1,0 +1,4 @@
+109c109
+<         assertEquals("For the DeviceClass " + deviceClass.toString() + " the isNormalConsumerDevice() was incorrect.",
+---
+>        assertEquals("For the DeviceClass " + deviceClass.toString() + " the isNormalConsumerDevice() was incorrect.",

@@ -1,0 +1,4 @@
+56c56
+<     protected void setFixedValue(String newFixedValue) {
+---
+>     protected void setFixedValue (String newFixedValue) {

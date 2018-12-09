@@ -1,0 +1,4 @@
+26c26
+< import org.yaml.snakeyaml.nodes.SequenceNode;
+---
+> import org.yaml.snakeyaml.nodes	.SequenceNode;

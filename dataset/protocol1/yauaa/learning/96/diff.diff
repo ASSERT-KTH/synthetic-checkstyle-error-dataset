@@ -1,0 +1,4 @@
+146c146
+<         lines.add("Lookups      : " + ((lookups == null) ? 0 : lookups.size()));
+---
+>        lines.add("Lookups      : " + ((lookups == null) ? 0 : lookups.size()));

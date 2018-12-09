@@ -1,0 +1,5 @@
+310c310,311
+<             assertTrue("\nMissing:\n" + expect + sb.toString(), matcher.reveicedValues.contains(expect));
+---
+>             assertTrue("\nMissing:\n" + expect + sb.toString(), matcher.reveicedValues.contains(
+> expect));

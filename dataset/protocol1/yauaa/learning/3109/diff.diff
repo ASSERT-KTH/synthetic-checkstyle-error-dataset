@@ -1,0 +1,5 @@
+130c130,131
+<             .hideMatcherLoadStats()
+---
+>             .hideMatcherLoadStats
+> ()

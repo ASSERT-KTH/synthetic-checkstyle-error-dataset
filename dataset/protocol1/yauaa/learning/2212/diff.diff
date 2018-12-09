@@ -1,0 +1,4 @@
+107c107
+<         assertEquals("For the DeviceClass " + deviceClass.toString() + " the isMobile() was incorrect.",
+---
+>        assertEquals("For the DeviceClass " + deviceClass.toString() + " the isMobile() was incorrect.",

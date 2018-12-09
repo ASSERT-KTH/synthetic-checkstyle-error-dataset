@@ -1,0 +1,4 @@
+68c68
+<         allElements = new Match[maxSize];
+---
+>         allElements = new Match[maxSize] ;

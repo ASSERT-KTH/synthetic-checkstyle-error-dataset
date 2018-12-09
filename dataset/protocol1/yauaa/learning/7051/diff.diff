@@ -1,0 +1,4 @@
+53c53
+<         result = replaceString(result, "SSL/TLS", "SSL TLS");
+---
+>         result = replaceString( result, "SSL/TLS", "SSL TLS");

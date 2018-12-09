@@ -1,0 +1,4 @@
+53c53
+<         assertEquals(min1, parsedAgent.getConfidence("DeviceName"                   )); // Nexus 6
+---
+>         assertEquals(min1, parsedAgent. getConfidence("DeviceName"                   )); // Nexus 6

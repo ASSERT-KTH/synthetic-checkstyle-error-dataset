@@ -1,0 +1,5 @@
+37,38c37
+< import static nl.basjes.parse.useragent.classify.DeviceClass.Unclassified;
+< import static nl.basjes.parse.useragent.classify.DeviceClass.Unknown;
+---
+> import static nl.basjes.parse.useragent.classify.DeviceClass.Unclassified;import static nl.basjes.parse.useragent.classify.DeviceClass.Unknown;

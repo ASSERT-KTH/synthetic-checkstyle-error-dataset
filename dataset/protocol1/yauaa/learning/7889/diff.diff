@@ -1,0 +1,4 @@
+30c30
+<         if (actualValue == null || actualValue.getValue() == null) {
+---
+>         if (actualValue == null || actualValue.getValue () == null) {

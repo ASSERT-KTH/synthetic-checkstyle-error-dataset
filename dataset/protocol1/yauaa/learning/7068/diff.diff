@@ -1,0 +1,4 @@
+375c375
+<     private long actionsThatRequireInputAndReceivedInput = 0;
+---
+>      private long actionsThatRequireInputAndReceivedInput = 0;

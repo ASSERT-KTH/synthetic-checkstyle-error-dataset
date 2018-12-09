@@ -1,0 +1,4 @@
+98c98
+<                     if (previousValue != null) {
+---
+>                    if (previousValue != null) {

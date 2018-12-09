@@ -1,0 +1,5 @@
+24c24,25
+< import org.apache.flink.table.functions.ScalarFunction;
+---
+> import org.apache.flink.table.functions.
+> ScalarFunction;

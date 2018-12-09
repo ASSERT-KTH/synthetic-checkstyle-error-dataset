@@ -1,0 +1,5 @@
+60c60,61
+<             width = Math.max(width, line.length());
+---
+>             width = Math.max(width, 
+> line.length());

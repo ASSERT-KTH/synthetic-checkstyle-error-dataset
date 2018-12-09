@@ -1,0 +1,5 @@
+892c892,893
+<         UserAgent.AgentField informationUrl = userAgent.get("AgentInformationUrl");
+---
+>         UserAgent.AgentField informationUrl = userAgent.get(
+> "AgentInformationUrl");

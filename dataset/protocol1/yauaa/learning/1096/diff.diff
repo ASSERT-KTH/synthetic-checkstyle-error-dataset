@@ -1,0 +1,4 @@
+222c222
+<         private PrivateTestRecord(String useragent) {
+---
+>        private PrivateTestRecord(String useragent) {

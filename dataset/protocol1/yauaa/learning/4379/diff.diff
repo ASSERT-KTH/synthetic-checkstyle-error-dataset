@@ -1,0 +1,4 @@
+29c29
+<     public MatcherRequireAction(String config, Matcher matcher) {
+---
+>     public MatcherRequireAction(String config, Matcher matcher ) {

@@ -1,0 +1,5 @@
+321,322c321
+<             assertEquals("Wrong step (" + step.toString() + " should be " + walkStep + ")", walkStep, step.toString());
+<             step = step.getNextStep();
+---
+>             assertEquals("Wrong step (" + step.toString() + " should be " + walkStep + ")", walkStep, step.toString());            step = step.getNextStep();

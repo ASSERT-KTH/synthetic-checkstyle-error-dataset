@@ -1,0 +1,5 @@
+20,21c20
+< import nl.basjes.parse.useragent.analyze.WordRangeVisitor.Range;
+< import org.antlr.v4.runtime.tree.ParseTree;
+---
+> import nl.basjes.parse.useragent.analyze.WordRangeVisitor.Range;import org.antlr.v4.runtime.tree.ParseTree;

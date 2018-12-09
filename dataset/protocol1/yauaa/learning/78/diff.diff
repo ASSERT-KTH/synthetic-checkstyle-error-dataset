@@ -1,0 +1,4 @@
+103c103
+<                                 LOG.error("*** YOU MUST CHANGE THE CONFIDENCE LEVELS OF YOUR RULES ***");
+---
+>                                 LOG. error("*** YOU MUST CHANGE THE CONFIDENCE LEVELS OF YOUR RULES ***");

@@ -1,0 +1,4 @@
+107c107
+<         assertPossible(possible, "STRING:request.user-agent.agent_version_major");
+---
+>         assertPossible(possible, 	"STRING:request.user-agent.agent_version_major");

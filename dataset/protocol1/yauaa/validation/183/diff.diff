@@ -1,0 +1,5 @@
+209,210c209
+<             .expect("HTTP.QUERYSTRING:request.user-agent.agent_information_url.query",  "&aap=noot&mies=wim")
+<             .expect("STRING:request.user-agent.agent_information_url.query.aap",        "noot")
+---
+>             .expect("HTTP.QUERYSTRING:request.user-agent.agent_information_url.query",  "&aap=noot&mies=wim")            .expect("STRING:request.user-agent.agent_information_url.query.aap",        "noot")

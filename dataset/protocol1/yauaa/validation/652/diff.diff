@@ -1,0 +1,5 @@
+228c228,229
+<         action.initialize();
+---
+>         action
+> .initialize();

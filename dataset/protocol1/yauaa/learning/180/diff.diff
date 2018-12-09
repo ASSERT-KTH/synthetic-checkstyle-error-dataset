@@ -1,0 +1,4 @@
+141c141
+<             "classpath*:BadDefinitions/InvalidExtract.yaml",
+---
+>            "classpath*:BadDefinitions/InvalidExtract.yaml",

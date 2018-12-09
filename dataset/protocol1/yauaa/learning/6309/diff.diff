@@ -1,0 +1,4 @@
+90c90
+<     public static class UserAgentAnalyzerBuilder<UAA extends UserAgentAnalyzer, B extends UserAgentAnalyzerBuilder<UAA, B>>
+---
+>      public static class UserAgentAnalyzerBuilder<UAA extends UserAgentAnalyzer, B extends UserAgentAnalyzerBuilder<UAA, B>>

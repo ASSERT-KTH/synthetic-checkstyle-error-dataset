@@ -1,0 +1,4 @@
+34c34
+<     private static final Logger LOG = LoggerFactory.getLogger(DebugUserAgent.class);
+---
+>     private static final Logger LOG = 	LoggerFactory.getLogger(DebugUserAgent.class);

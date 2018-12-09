@@ -1,0 +1,4 @@
+435c435
+<         sb.append("      user_agent_string: '").append(userAgentString).append("'\n");
+---
+>         sb.append("      user_agent_string: '" ).append(userAgentString).append("'\n");

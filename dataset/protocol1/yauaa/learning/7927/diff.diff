@@ -1,0 +1,5 @@
+354,355c354
+<                 LOG.info("USE  {} ({}) = {}", attribute, confidence, value);
+<             } else {
+---
+>                 LOG.info("USE  {} ({}) = {}", attribute, confidence, value);            } else {

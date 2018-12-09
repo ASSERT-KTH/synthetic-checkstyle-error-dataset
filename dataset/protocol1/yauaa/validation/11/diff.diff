@@ -1,0 +1,4 @@
+205c205
+<         AgentField field0 = new AgentField("Foo");
+---
+>         AgentField field0 = new AgentField("Foo") ;

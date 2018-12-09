@@ -1,0 +1,4 @@
+61c61
+<         if (input.buffer == null) {
+---
+>        if (input.buffer == null) {

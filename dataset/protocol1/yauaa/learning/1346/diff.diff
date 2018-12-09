@@ -1,0 +1,4 @@
+28c28
+<         WalkResult actualValue = walkNextStep(tree, value);
+---
+>          WalkResult actualValue = walkNextStep(tree, value);

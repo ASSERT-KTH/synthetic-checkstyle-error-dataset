@@ -1,0 +1,4 @@
+31c31
+<     private final boolean privateNumberRange;
+---
+>     private 	final boolean privateNumberRange;

@@ -1,0 +1,5 @@
+40c40,41
+<         uaa.loadResources("classpath*:**/CheckErrorOutput.yaml");
+---
+>         uaa.loadResources(
+> "classpath*:**/CheckErrorOutput.yaml");

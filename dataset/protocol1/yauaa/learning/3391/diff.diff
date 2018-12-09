@@ -1,0 +1,4 @@
+63c63
+<         assertEquals(min1, parsedAgent.getConfidence("LayoutEngineVersionMajor"     )); // 53
+---
+>        assertEquals(min1, parsedAgent.getConfidence("LayoutEngineVersionMajor"     )); // 53

@@ -1,0 +1,5 @@
+59c59,60
+<             case "Robot":                  return Robot;
+---
+>             case "Robot"
+> :                  return Robot;

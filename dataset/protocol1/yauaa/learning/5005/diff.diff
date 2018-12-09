@@ -1,0 +1,4 @@
+135c135
+<         cleaned = cleaned.replaceAll("\\[\\\\xc3\\\\xa07]", "@");
+---
+>         cleaned = cleaned.replaceAll("\\[\\\\xc3\\\\xa07]", 	"@");

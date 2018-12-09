@@ -1,0 +1,5 @@
+42c42,43
+<         assertTrue(iterator.hasNext());
+---
+>         assertTrue(
+> iterator.hasNext());

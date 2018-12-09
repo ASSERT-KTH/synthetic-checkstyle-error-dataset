@@ -1,0 +1,4 @@
+34c34
+<             return ""; // Just return the empty string.
+---
+>            return ""; // Just return the empty string.

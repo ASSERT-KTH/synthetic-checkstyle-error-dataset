@@ -1,0 +1,4 @@
+17c17
+< package nl.basjes.parse.useragent.utils;
+---
+> package nl.basjes.parse	.useragent.utils;

@@ -1,0 +1,4 @@
+78c78
+<         String[] parameters = trimmedRawParameter.split("\\|");
+---
+>         String[] parameters = trimmedRawParameter.split ("\\|");

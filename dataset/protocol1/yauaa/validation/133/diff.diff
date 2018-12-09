@@ -1,0 +1,5 @@
+270c270,271
+<         TestMatcher(Map<String, Map<String, String>> lookups, Map<String, Set<String>> lookupSets) {
+---
+>         TestMatcher(Map<String, Map<String, String>
+> > lookups, Map<String, Set<String>> lookupSets) {

@@ -1,0 +1,4 @@
+25c25
+<     public static final int DEFAULT_PARSE_CACHE_SIZE = 10000;
+---
+>     public static final int DEFAULT_PARSE_CACHE_SIZE 	= 10000;

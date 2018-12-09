@@ -1,0 +1,4 @@
+64c64
+<     public UserAgent androidPhone(ThreadState state) {
+---
+>     public UserAgent androidPhone (ThreadState state) {

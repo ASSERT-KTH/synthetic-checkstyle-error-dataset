@@ -1,0 +1,4 @@
+420c420
+<                 for (int i = result.actual.length(); i < maxActualLength; i++) {
+---
+>                 for (int i = result.actual.length(); i < maxActualLength; i ++) {

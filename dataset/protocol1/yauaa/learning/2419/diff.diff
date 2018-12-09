@@ -1,0 +1,4 @@
+41c41
+<     public static String fixIt(String useragent) {
+---
+>     public static String fixIt(String useragent ) {

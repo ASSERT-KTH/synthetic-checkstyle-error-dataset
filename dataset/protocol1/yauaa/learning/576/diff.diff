@@ -1,0 +1,4 @@
+45c45
+<     @State(Scope.Benchmark)
+---
+>    @State(Scope.Benchmark)

@@ -1,0 +1,4 @@
+147c147
+<         String rulesVersion = getVersion(projectVersion, gitCommitIdDescribeShort, buildTimestamp);
+---
+>         String rulesVersion = 	getVersion(projectVersion, gitCommitIdDescribeShort, buildTimestamp);

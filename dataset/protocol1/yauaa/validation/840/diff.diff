@@ -1,0 +1,5 @@
+244c244,245
+<             sb.append(actual).append('\n');
+---
+>             sb.append(actual).append(
+> '\n');

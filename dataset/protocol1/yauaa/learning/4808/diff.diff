@@ -1,0 +1,5 @@
+54,55c54
+<             if (!requestedFields.isEmpty()) {
+<                 for (String requestedField : requestedFields) {
+---
+>             if (!requestedFields.isEmpty()) {                for (String requestedField : requestedFields) {

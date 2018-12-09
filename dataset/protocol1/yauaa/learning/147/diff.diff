@@ -1,0 +1,4 @@
+36c36
+<     private static final TupleFactory TUPLE_FACTORY = TupleFactory.getInstance();
+---
+>      private static final TupleFactory TUPLE_FACTORY = TupleFactory.getInstance();

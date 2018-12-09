@@ -1,0 +1,4 @@
+60c60
+<         MAX_RANGE.put("uuid",                 4);
+---
+>         MAX_RANGE	.put("uuid",                 4);

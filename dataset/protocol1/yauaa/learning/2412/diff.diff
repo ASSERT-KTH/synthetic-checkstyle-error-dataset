@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.pig.data.TupleFactory;
+< import org.apache.pig.impl.logicalLayer.FrontendException;
+---
+> import org.apache.pig.data.TupleFactory;import org.apache.pig.impl.logicalLayer.FrontendException;

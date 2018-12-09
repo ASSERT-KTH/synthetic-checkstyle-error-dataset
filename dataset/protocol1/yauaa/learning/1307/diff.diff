@@ -1,0 +1,4 @@
+69c69
+<     private void verifyStorageData(Storage.Data storageData) throws FrontendException, ExecException {
+---
+>     private void verifyStorageData(Storage. Data storageData) throws FrontendException, ExecException {

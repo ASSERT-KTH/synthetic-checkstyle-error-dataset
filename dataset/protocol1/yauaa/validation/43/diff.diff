@@ -1,0 +1,5 @@
+89,90c89
+<         assertPossible(possible, "STRING:request.user-agent.device_cpu");
+<         assertPossible(possible, "STRING:request.user-agent.device_cpu_bits");
+---
+>         assertPossible(possible, "STRING:request.user-agent.device_cpu");        assertPossible(possible, "STRING:request.user-agent.device_cpu_bits");

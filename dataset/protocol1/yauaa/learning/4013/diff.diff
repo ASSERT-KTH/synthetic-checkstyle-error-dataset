@@ -1,0 +1,4 @@
+114c114
+<     private int getAllocatedCacheSize(UserAgentAnalyzer uaa) throws IllegalAccessException {
+---
+>    private int getAllocatedCacheSize(UserAgentAnalyzer uaa) throws IllegalAccessException {

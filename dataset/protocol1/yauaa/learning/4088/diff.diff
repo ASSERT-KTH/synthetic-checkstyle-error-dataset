@@ -1,0 +1,5 @@
+102c102,103
+<             LOG.info("Nothing found for {}", attribute);
+---
+>             LOG
+> .info("Nothing found for {}", attribute);

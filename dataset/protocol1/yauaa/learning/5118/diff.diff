@@ -1,0 +1,4 @@
+23c23
+< import static nl.basjes.parse.useragent.UserAgentAnalyzer.DEFAULT_USER_AGENT_MAX_LENGTH;
+---
+> import static 	nl.basjes.parse.useragent.UserAgentAnalyzer.DEFAULT_USER_AGENT_MAX_LENGTH;

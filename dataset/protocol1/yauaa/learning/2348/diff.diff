@@ -1,0 +1,4 @@
+53c53
+<         private       int                 index = 0;
+---
+>         private       int                 index = 0 ;

@@ -1,0 +1,4 @@
+71c71
+<         TestRecord expectedOutput = new TestRecord(userAgent);
+---
+>         TestRecord expectedOutput = new 	TestRecord(userAgent);

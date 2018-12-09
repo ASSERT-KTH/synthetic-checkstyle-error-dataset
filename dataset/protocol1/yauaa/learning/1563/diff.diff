@@ -1,0 +1,4 @@
+323c323
+<     private static final Map<Class, CalculateInformPathFunction> CALCULATE_INFORM_PATH = new HashMap<>();
+---
+>     private static final 	Map<Class, CalculateInformPathFunction> CALCULATE_INFORM_PATH = new HashMap<>();

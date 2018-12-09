@@ -1,0 +1,4 @@
+30c30
+<         return instance;
+---
+>          return instance;

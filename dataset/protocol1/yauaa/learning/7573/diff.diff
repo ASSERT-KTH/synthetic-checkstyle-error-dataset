@@ -1,0 +1,4 @@
+152c152
+<         requestedFieldNames.forEach(builder::withField);
+---
+>        requestedFieldNames.forEach(builder::withField);

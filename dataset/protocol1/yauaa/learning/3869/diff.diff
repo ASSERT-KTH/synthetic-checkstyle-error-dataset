@@ -1,0 +1,5 @@
+177,178c177
+<             "[ public void wrongSetter(TestRecord record, String value) ]"));
+<         record =
+---
+>             "[ public void wrongSetter(TestRecord record, String value) ]"));        record =

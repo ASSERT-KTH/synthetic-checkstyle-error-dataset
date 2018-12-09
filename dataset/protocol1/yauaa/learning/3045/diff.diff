@@ -1,0 +1,4 @@
+155c155
+<         LOG.error("Rule sets      : {}", rulesVersion);
+---
+>         LOG.error ("Rule sets      : {}", rulesVersion);

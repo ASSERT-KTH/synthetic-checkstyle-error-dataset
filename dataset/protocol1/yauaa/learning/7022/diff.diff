@@ -1,0 +1,4 @@
+57c57
+<         this.end = numberRange.getEnd();
+---
+>         this.end = 	numberRange.getEnd();

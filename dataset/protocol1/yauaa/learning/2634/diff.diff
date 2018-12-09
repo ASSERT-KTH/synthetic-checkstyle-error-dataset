@@ -1,0 +1,4 @@
+148c148
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemVersionBuild",      "Unknown"             );
+---
+>         result. assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemVersionBuild",      "Unknown"             );

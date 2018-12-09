@@ -1,0 +1,4 @@
+34c34
+<     public void testBasic() throws HiveException {
+---
+>     public void 	testBasic() throws HiveException {

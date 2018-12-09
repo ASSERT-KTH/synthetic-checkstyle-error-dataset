@@ -1,0 +1,4 @@
+137c137
+<                         configLines.add(new ConfigLine(VARIABLE, variableName, null, config));
+---
+>                        configLines.add(new ConfigLine(VARIABLE, variableName, null, config));

@@ -1,0 +1,5 @@
+1360c1360,1361
+<         sb.append("| ").append(useragent).append('\n');
+---
+>         sb.append
+> ("| ").append(useragent).append('\n');

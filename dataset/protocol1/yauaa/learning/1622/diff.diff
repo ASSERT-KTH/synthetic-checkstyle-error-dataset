@@ -1,0 +1,4 @@
+46c46
+<         private final transient UserAgentAnnotationAnalyzer<T> userAgentAnalyzer;
+---
+>         private final transient UserAgentAnnotationAnalyzer<T> 	userAgentAnalyzer;

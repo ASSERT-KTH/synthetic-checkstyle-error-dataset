@@ -1,0 +1,4 @@
+80c80
+<         assertEquals("Sony X1",                 Normalize.cleanupDeviceBrandName("Sony", "sony x1"));
+---
+>         assertEquals("Sony X1" ,                 Normalize.cleanupDeviceBrandName("Sony", "sony x1"));

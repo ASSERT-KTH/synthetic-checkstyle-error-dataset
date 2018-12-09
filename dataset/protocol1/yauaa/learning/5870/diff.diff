@@ -1,0 +1,5 @@
+40c40,41
+<     private static final Map<String, Integer> MAX_RANGE = new HashMap<>();
+---
+>     private static final Map
+> <String, Integer> MAX_RANGE = new HashMap<>();

@@ -1,0 +1,4 @@
+28c28
+< import nl.basjes.parse.useragent.UserAgentAnalyzer.UserAgentAnalyzerBuilder;
+---
+> import nl.basjes	.parse.useragent.UserAgentAnalyzer.UserAgentAnalyzerBuilder;

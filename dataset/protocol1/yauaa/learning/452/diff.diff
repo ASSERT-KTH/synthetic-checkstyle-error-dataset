@@ -1,0 +1,4 @@
+76c76
+<     static final NumberRangeVisitor NUMBER_RANGE_VISITOR = new NumberRangeVisitor();
+---
+>     static final NumberRangeVisitor NUMBER_RANGE_VISITOR = 	new NumberRangeVisitor();

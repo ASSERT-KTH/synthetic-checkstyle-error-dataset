@@ -1,0 +1,5 @@
+136c136,137
+<         assertEquals("Unknown", userAgent.getValue("Unwanted"));
+---
+>         assertEquals("Unknown", userAgent.getValue(
+> "Unwanted"));

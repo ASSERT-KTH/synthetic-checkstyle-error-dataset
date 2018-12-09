@@ -1,0 +1,4 @@
+178c178
+<         Parser<TestRecord> parser = new HttpdLoglineParser<>(TestRecord.class, "%t \"%{User-agent}i\"");
+---
+>         Parser<TestRecord> parser = new HttpdLoglineParser<>(TestRecord.class,"%t \"%{User-agent}i\"");

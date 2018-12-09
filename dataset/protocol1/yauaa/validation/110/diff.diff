@@ -1,0 +1,4 @@
+91c91
+<         List<String> values = new ArrayList<>(valueNodes.size());
+---
+>         List<String> values = new ArrayList	<>(valueNodes.size());

@@ -1,0 +1,4 @@
+30c30
+< public class StepDown extends Step {
+---
+>  public class StepDown extends Step {

@@ -1,0 +1,5 @@
+23c23,24
+< import org.apache.pig.builtin.mock.Storage;
+---
+> import org.apache.pig.builtin.mock
+> .Storage;

@@ -1,0 +1,4 @@
+24c24
+<     public InvalidParserConfigurationException(String message, Exception e) {
+---
+>    public InvalidParserConfigurationException(String message, Exception e) {

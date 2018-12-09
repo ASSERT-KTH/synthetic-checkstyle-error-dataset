@@ -1,0 +1,4 @@
+62c62
+<         result = replaceString(result, "Microsoft Windows NT 6.2.9200.0);", "Microsoft Windows NT 6.2.9200.0;");
+---
+>         result = replaceString(result, "Microsoft Windows NT 6.2.9200.0);" , "Microsoft Windows NT 6.2.9200.0;");

@@ -1,0 +1,4 @@
+173c173
+<     public String getSplitRange(String value, List<Pair<Integer, Integer>> splitList, int first, int last) {
+---
+>     public String getSplitRange(String value, List<	Pair<Integer, Integer>> splitList, int first, int last) {

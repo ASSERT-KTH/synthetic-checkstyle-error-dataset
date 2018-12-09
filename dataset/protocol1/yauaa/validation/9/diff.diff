@@ -1,0 +1,4 @@
+55c55
+<         expectedEx.expectMessage("[Map] The mapper instance is null.");
+---
+>         expectedEx	.expectMessage("[Map] The mapper instance is null.");

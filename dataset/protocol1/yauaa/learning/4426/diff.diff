@@ -1,0 +1,5 @@
+48c48,49
+<             "It is useless to put a fixed value \"" + fixedValue + "\" in the variable section.");
+---
+>             "It is useless to put a fixed value \"" 
+> + fixedValue + "\" in the variable section.");

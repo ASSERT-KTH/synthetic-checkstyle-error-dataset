@@ -1,0 +1,4 @@
+28c28
+<     public static synchronized UserAgentAnalyzer getInstance() {
+---
+>     public static synchronized UserAgentAnalyzer getInstance() 	{

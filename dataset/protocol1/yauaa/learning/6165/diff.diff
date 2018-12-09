@@ -1,0 +1,5 @@
+54c54,55
+<         allFields.removeAll(Arrays.asList("DeviceName", "DevideClass"));
+---
+>         allFields.removeAll(
+> Arrays.asList("DeviceName", "DevideClass"));

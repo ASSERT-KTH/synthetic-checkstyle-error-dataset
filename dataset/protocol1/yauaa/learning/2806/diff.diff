@@ -1,0 +1,4 @@
+72c72
+<         assertTrue(userAgentAnalyzer.runTests(false, true, singleFieldList, false, false));
+---
+>        assertTrue(userAgentAnalyzer.runTests(false, true, singleFieldList, false, false));

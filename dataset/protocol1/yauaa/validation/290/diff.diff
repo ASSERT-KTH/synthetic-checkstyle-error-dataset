@@ -1,0 +1,5 @@
+21,22c21
+< import org.apache.hadoop.hive.ql.metadata.HiveException;
+< import org.apache.hadoop.hive.ql.udf.generic.GenericUDF.DeferredJavaObject;
+---
+> import org.apache.hadoop.hive.ql.metadata.HiveException;import org.apache.hadoop.hive.ql.udf.generic.GenericUDF.DeferredJavaObject;

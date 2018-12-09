@@ -1,0 +1,5 @@
+166c166,167
+<         return getSplitRange(value, range.getFirst(), range.getLast());
+---
+>         return getSplitRange(value, 
+> range.getFirst(), range.getLast());

@@ -1,0 +1,4 @@
+265c265
+<             .map(k -> k.replaceAll("^.*/", ""))
+---
+>            .map(k -> k.replaceAll("^.*/", ""))

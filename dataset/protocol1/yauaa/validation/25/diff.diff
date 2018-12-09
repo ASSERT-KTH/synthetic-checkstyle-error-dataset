@@ -1,0 +1,4 @@
+53c53
+<             .initialize(new ObjectInspector[]{
+---
+>             .initialize(new ObjectInspector []{

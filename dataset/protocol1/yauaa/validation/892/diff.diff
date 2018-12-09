@@ -1,0 +1,5 @@
+145,146c145
+<         assertPossible(possible, "STRING:request.user-agent.last.layout_engine_version_major");
+<         assertPossible(possible, "STRING:request.user-agent.last.layout_engine_name_version");
+---
+>         assertPossible(possible, "STRING:request.user-agent.last.layout_engine_version_major");        assertPossible(possible, "STRING:request.user-agent.last.layout_engine_name_version");

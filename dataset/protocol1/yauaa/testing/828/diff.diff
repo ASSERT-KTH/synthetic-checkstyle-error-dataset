@@ -1,0 +1,5 @@
+155c155,156
+<         String userAgentString = flowFile.getAttribute(USERAGENTSTRING_ATTRIBUTENAME);
+---
+>         String userAgentString = flowFile
+> .getAttribute(USERAGENTSTRING_ATTRIBUTENAME);

@@ -1,0 +1,4 @@
+32c32
+<             this.first = first;
+---
+>            this.first = first;

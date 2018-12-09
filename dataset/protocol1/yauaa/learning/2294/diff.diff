@@ -1,0 +1,5 @@
+46c46,47
+<         LOG.info("Create analyzer");
+---
+>         LOG.info("Create analyzer")
+> ;

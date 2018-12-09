@@ -1,0 +1,4 @@
+29c29
+<     private static final Logger LOG = LoggerFactory.getLogger(MatcherVariableAction.class);
+---
+>     private static final Logger LOG = LoggerFactory	.getLogger(MatcherVariableAction.class);

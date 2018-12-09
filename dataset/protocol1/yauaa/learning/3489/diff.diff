@@ -1,0 +1,4 @@
+133c133
+<     public UserAgent hackerSQL(ThreadState state) {
+---
+>     public UserAgent hackerSQL(ThreadState state ) {

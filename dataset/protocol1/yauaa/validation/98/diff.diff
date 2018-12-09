@@ -1,0 +1,4 @@
+99c99
+<         agent.set(name, "<<<null>>>", 2); // Should be ignored
+---
+>         agent.set( name, "<<<null>>>", 2); // Should be ignored

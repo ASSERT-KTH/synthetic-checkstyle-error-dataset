@@ -1,0 +1,4 @@
+217c217
+<                 impossibleFields.add(wantedFieldName);
+---
+>                 impossibleFields.add( wantedFieldName);

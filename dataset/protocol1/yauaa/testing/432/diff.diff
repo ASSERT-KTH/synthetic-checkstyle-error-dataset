@@ -1,0 +1,5 @@
+130c130,131
+<         for (int i = maxSize; i < newMaxSize; i++) {
+---
+>         for (int i = maxSize; i < newMaxSize; i++
+> ) {

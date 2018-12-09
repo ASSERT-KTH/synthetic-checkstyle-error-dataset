@@ -1,0 +1,5 @@
+132,133c132
+<                 private void inaccessibleSetter(TestRecord testRecord, String value) {
+<                     fail("May NEVER call this method");
+---
+>                 private void inaccessibleSetter(TestRecord testRecord, String value) {                    fail("May NEVER call this method");

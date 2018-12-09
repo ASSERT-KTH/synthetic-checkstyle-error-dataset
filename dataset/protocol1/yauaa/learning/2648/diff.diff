@@ -1,0 +1,4 @@
+59c59
+<         org.apache.drill.exec.vector.complex.writer.BaseWriter.MapWriter queryMapWriter = outWriter.rootAsMap();
+---
+>         org.apache.drill.exec.vector.complex.writer.BaseWriter.MapWriter queryMapWriter = outWriter. rootAsMap();

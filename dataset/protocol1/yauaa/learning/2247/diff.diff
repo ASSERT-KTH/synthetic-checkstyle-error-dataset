@@ -1,0 +1,4 @@
+528c528
+<                     for (int l = fieldName.length(); l < maxLength + 2; l++) {
+---
+>                     for (int l = fieldName.length(); l < maxLength + 2; l ++) {

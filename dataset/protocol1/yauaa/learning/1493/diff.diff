@@ -1,0 +1,4 @@
+67c67
+<         for (String line : lines) {
+---
+>         for ( String line : lines) {

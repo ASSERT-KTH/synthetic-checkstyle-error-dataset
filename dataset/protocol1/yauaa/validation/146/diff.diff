@@ -1,0 +1,5 @@
+59c59,60
+<         uad.ensureMappingsExistForFieldName("FooBarBaz");
+---
+>         uad.ensureMappingsExistForFieldName("FooBarBaz")
+> ;

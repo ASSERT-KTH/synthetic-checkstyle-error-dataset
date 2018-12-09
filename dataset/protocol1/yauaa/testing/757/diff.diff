@@ -1,0 +1,4 @@
+55c55
+<     public boolean isEndOfStringSeparator(char c) {
+---
+>     public 	boolean isEndOfStringSeparator(char c) {

@@ -1,0 +1,4 @@
+24c24
+< public class StepStartsWith extends Step {
+---
+> public 	class StepStartsWith extends Step {

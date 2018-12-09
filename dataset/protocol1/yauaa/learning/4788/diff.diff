@@ -1,0 +1,4 @@
+24c24
+< public class StepNextN extends Step {
+---
+> public class StepNextN extends 	Step {

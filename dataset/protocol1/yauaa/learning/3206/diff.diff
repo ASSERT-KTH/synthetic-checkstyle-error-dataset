@@ -1,0 +1,4 @@
+94c94
+<     private final String value;
+---
+>     private 	final String value;

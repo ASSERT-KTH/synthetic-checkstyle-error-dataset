@@ -1,0 +1,4 @@
+45c45
+<     public static DeviceClass getDeviceClass(UserAgent userAgent) {
+---
+>     public static DeviceClass getDeviceClass (UserAgent userAgent) {

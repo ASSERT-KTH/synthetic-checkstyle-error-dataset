@@ -1,0 +1,5 @@
+20,21c20
+< import nl.basjes.parse.useragent.UserAgentAnalyzer;
+< import org.apache.flink.api.common.typeinfo.TypeInformation;
+---
+> import nl.basjes.parse.useragent.UserAgentAnalyzer;import org.apache.flink.api.common.typeinfo.TypeInformation;

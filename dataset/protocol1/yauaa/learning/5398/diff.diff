@@ -1,0 +1,4 @@
+45c45
+<         userAgentAnalyzer = new UserAgentAnnotationAnalyzer<>();
+---
+>         userAgentAnalyzer = new UserAgentAnnotationAnalyzer<	>();

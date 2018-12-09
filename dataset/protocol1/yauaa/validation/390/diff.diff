@@ -1,0 +1,4 @@
+57c57
+<         assertNull(userAgentAnalyzer.map("Foo"));
+---
+>         assertNull (userAgentAnalyzer.map("Foo"));

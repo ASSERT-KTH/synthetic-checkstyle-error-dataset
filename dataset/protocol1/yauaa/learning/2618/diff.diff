@@ -1,0 +1,4 @@
+141c141
+<                 boolean newVerbose = options.contains("verbose");
+---
+>                 boolean newVerbose = 	options.contains("verbose");

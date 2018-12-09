@@ -1,0 +1,5 @@
+1311,1312c1311
+<         validateUserAgent(
+<             "0n3 Niels Basjes/1/2(+http://niels.basjes.nl/index.html?foo=1&bar=2#marker (http://github.com) ; foo ; bar@baz.com ; Mozilla Mozilla/4.0((Windows NT,etc.)) CE-HTML/1.0 Config(L:nld,CC:BEL) NETRANGEMMH)info@example.com (Yadda)"
+---
+>         validateUserAgent(            "0n3 Niels Basjes/1/2(+http://niels.basjes.nl/index.html?foo=1&bar=2#marker (http://github.com) ; foo ; bar@baz.com ; Mozilla Mozilla/4.0((Windows NT,etc.)) CE-HTML/1.0 Config(L:nld,CC:BEL) NETRANGEMMH)info@example.com (Yadda)"

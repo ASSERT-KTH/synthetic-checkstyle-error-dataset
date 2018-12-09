@@ -1,0 +1,5 @@
+32c32,33
+< import nl.basjes.parse.useragent.parser.UserAgentParser.KeyNameContext;
+---
+> import nl.basjes.parse.useragent.
+> parser.UserAgentParser.KeyNameContext;

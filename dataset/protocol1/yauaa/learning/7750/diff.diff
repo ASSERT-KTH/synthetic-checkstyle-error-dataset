@@ -1,0 +1,4 @@
+27c27
+< import org.apache.pig.impl.logicalLayer.FrontendException;
+---
+> import org.apache.pig.impl. logicalLayer.FrontendException;

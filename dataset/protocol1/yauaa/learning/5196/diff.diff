@@ -1,0 +1,5 @@
+44c44,45
+< import nl.basjes.parse.useragent.parser.UserAgentParser.ProductVersionContext;
+---
+> import nl.basjes.parse.useragent
+> .parser.UserAgentParser.ProductVersionContext;

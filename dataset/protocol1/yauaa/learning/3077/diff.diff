@@ -1,0 +1,4 @@
+28c28
+<         return walkNextStep(tree, null);
+---
+>        return walkNextStep(tree, null);

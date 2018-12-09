@@ -1,0 +1,4 @@
+543c543
+<             if (!resultSet.contains(fieldName)) {
+---
+>             if (!resultSet. contains(fieldName)) {

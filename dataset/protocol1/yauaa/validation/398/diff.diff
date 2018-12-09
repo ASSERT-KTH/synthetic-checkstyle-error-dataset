@@ -1,0 +1,5 @@
+179c179,180
+<         parser.addDissector(new UserAgentDissector());
+---
+>         parser.addDissector(new UserAgentDissector(
+> ));

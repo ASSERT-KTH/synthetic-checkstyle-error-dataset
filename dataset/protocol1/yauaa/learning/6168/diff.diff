@@ -1,0 +1,4 @@
+67c67
+<         assertEquals(FunctionTemplate.FunctionScope.SIMPLE, fnDefn.scope());
+---
+>        assertEquals(FunctionTemplate.FunctionScope.SIMPLE, fnDefn.scope());

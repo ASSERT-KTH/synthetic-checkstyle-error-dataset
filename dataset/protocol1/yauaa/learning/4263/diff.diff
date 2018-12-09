@@ -1,0 +1,4 @@
+68c68
+<         runner.setProperty(PROPERTY_PREFIX + "AgentBuild",                       "true");
+---
+>         runner.setProperty(	PROPERTY_PREFIX + "AgentBuild",                       "true");

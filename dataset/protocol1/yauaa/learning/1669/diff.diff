@@ -1,0 +1,5 @@
+152c152,153
+<                     method.invoke(mapper, record, value);
+---
+>                     method
+> .invoke(mapper, record, value);

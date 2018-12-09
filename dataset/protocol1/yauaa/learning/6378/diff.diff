@@ -1,0 +1,4 @@
+41c41
+<     private static final Logger LOG = LoggerFactory.getLogger(UserAgentDissector.class);
+---
+>     private static final Logger LOG = LoggerFactory.getLogger( UserAgentDissector.class);

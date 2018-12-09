@@ -1,0 +1,4 @@
+87c87
+<         requireNodeInstanceOf(SequenceNode.class, sequenceNode, filename,
+---
+>        requireNodeInstanceOf(SequenceNode.class, sequenceNode, filename,

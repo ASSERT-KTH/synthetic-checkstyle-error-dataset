@@ -1,0 +1,4 @@
+141c141
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "FacebookOperatingSystemName",      "Unknown"             );
+---
+>         result.assertAttributeEquals(ATTRIBUTE_PREFIX 	+ "FacebookOperatingSystemName",      "Unknown"             );

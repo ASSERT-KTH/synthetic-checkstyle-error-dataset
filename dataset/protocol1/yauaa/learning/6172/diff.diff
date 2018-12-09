@@ -1,0 +1,4 @@
+62c62
+<         for (Pair<UserAgent, Matcher> pair: appliedMatcherResults){
+---
+>         for (Pair<UserAgent,Matcher> pair: appliedMatcherResults){

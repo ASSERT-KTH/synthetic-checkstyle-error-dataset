@@ -1,0 +1,4 @@
+289c289
+<         allFields.put(OPERATING_SYSTEM_NAME,         new AgentField(UNKNOWN_VALUE)); // ( Linux / Android / Windows ...)
+---
+>         allFields.put(OPERATING_SYSTEM_NAME,         new AgentField( UNKNOWN_VALUE)); // ( Linux / Android / Windows ...)

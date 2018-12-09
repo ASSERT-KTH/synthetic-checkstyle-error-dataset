@@ -1,0 +1,4 @@
+60c60
+<         uaa.loadResources("classpath*:Versions/BadVersionNotMap.yaml");
+---
+>        uaa.loadResources("classpath*:Versions/BadVersionNotMap.yaml");

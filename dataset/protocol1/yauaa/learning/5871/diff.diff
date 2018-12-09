@@ -1,0 +1,4 @@
+74c74
+<     private static List<String> fieldNames = null;
+---
+>    private static List<String> fieldNames = null;

@@ -1,0 +1,5 @@
+112c112,113
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "OperatingSystemClass",             "Desktop"             );
+---
+>         result.assertAttributeEquals(
+> ATTRIBUTE_PREFIX + "OperatingSystemClass",             "Desktop"             );

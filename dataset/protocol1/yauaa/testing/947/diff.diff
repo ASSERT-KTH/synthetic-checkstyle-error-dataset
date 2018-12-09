@@ -1,0 +1,4 @@
+47c47
+<             if (myChar < 32 || myChar > 126) {
+---
+>             if (myChar < 	32 || myChar > 126) {

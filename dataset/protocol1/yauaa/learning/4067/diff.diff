@@ -1,0 +1,5 @@
+50,51c50
+< import nl.basjes.parse.useragent.parser.UserAgentParser.SiteUrlContext;
+< import nl.basjes.parse.useragent.parser.UserAgentParser.UserAgentContext;
+---
+> import nl.basjes.parse.useragent.parser.UserAgentParser.SiteUrlContext;import nl.basjes.parse.useragent.parser.UserAgentParser.UserAgentContext;

@@ -1,0 +1,4 @@
+76c76
+<     private static synchronized void constructAnalyzer(){
+---
+>     private static synchronized void constructAnalyzer (){

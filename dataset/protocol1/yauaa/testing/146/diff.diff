@@ -1,0 +1,5 @@
+20,21c20
+< import java.lang.annotation.ElementType;
+< import java.lang.annotation.Retention;
+---
+> import java.lang.annotation.ElementType;import java.lang.annotation.Retention;

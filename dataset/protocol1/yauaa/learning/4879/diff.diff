@@ -1,0 +1,5 @@
+94c94,95
+<     private final String value;
+---
+>     private final String value
+> ;

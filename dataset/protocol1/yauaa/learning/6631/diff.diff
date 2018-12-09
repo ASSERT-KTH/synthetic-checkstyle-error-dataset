@@ -1,0 +1,4 @@
+341c341
+<         CALCULATE_INFORM_PATH.put(MatcherPathContext.class,             (action, treeName, tree) ->
+---
+>         CALCULATE_INFORM_PATH.put(MatcherPathContext.class,             (action, treeName , tree) ->

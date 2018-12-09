@@ -1,0 +1,4 @@
+168c168
+<             if (lastStepThatCannotFail == 0) {
+---
+>             if 	(lastStepThatCannotFail == 0) {

@@ -1,0 +1,4 @@
+131c131
+<         assertEquals("Chrome 70", function.eval(USERAGENT, "AgentNameVersionMajor"));
+---
+>        assertEquals("Chrome 70", function.eval(USERAGENT, "AgentNameVersionMajor"));

@@ -1,0 +1,4 @@
+115c115
+<         private void inaccessibleSetter(TestRecord record, String value) {
+---
+>         private 	void inaccessibleSetter(TestRecord record, String value) {

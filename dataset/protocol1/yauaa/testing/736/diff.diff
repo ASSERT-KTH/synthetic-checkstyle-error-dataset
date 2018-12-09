@@ -1,0 +1,5 @@
+162c162,163
+<                 flowFile = session.putAttribute(flowFile, ATTRIBUTE_PREFIX + fieldName, fieldValue);
+---
+>                 flowFile = session.putAttribute(flowFile, ATTRIBUTE_PREFIX + fieldName
+> , fieldValue);

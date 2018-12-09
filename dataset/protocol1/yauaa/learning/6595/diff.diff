@@ -1,0 +1,4 @@
+73c73
+<                     action.inform(variableName, newlyFoundValue.getValue(), newlyFoundValue.getTree());
+---
+>                    action.inform(variableName, newlyFoundValue.getValue(), newlyFoundValue.getTree());

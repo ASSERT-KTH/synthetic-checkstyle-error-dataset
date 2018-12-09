@@ -1,0 +1,4 @@
+57c57
+<         assertEquals("Unknown", agent.getValue("UnknownOne"));
+---
+>        assertEquals("Unknown", agent.getValue("UnknownOne"));

@@ -1,0 +1,4 @@
+82c82
+<                 extraResources.add(trimmedParameter);
+---
+>                extraResources.add(trimmedParameter);

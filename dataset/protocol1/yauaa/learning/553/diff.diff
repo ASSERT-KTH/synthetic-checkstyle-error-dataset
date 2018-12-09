@@ -1,0 +1,4 @@
+182c182
+<         assertTrue("1 match", results.size() == 1);
+---
+>        assertTrue("1 match", results.size() == 1);

@@ -1,0 +1,5 @@
+51c51,52
+<         assertEquals("Niels", Normalize.brand("niels"));
+---
+>         assertEquals("Niels", Normalize.brand("niels"))
+> ;

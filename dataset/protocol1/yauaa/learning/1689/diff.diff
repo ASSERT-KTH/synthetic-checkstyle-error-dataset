@@ -1,0 +1,4 @@
+45c45
+<             Object row = parseUserAgent.evaluate(new DeferredObject[]{new DeferredJavaObject(userAgent)});
+---
+>              Object row = parseUserAgent.evaluate(new DeferredObject[]{new DeferredJavaObject(userAgent)});

@@ -1,0 +1,4 @@
+148c148
+<         final UserAgentAnalyzerBuilder<?, ?> builder = getUserAgentAnalyzerBuilder();
+---
+>        final UserAgentAnalyzerBuilder<?, ?> builder = getUserAgentAnalyzerBuilder();

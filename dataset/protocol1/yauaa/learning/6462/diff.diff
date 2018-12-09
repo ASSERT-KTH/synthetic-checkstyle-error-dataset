@@ -1,0 +1,4 @@
+34c34
+< import static org.hamcrest.CoreMatchers.hasItems;
+---
+> import static org.hamcrest.CoreMatchers	.hasItems;

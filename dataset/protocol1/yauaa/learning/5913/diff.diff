@@ -1,0 +1,4 @@
+81c81
+<     private static final String COMMENTS = "comments";
+---
+>     private static final String COMMENTS 	= "comments";

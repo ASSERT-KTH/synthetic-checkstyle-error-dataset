@@ -1,0 +1,4 @@
+96c96
+<         verifyDeviceClass(Hacker,                false, false, false,  true);
+---
+>         verifyDeviceClass(Hacker,                false, false , false,  true);

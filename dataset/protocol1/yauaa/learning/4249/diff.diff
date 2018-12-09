@@ -1,0 +1,4 @@
+73c73
+<             LOG.info("{} Result: >>>{}<<<", logprefix, result);
+---
+>            LOG.info("{} Result: >>>{}<<<", logprefix, result);

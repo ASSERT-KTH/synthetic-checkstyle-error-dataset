@@ -1,0 +1,5 @@
+143,144c143
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "HackerAttackVector",               "Unknown"             );
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "HackerToolkit",                    "Unknown"             );
+---
+>         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "HackerAttackVector",               "Unknown"             );        result.assertAttributeEquals(ATTRIBUTE_PREFIX + "HackerToolkit",                    "Unknown"             );

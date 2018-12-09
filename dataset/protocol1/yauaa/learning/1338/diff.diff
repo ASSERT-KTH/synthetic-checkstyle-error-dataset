@@ -1,0 +1,4 @@
+430c430
+<                 sb.append("        -->").append(action.getMatches().toStrings()).append('\n');
+---
+>                 sb.append("        -->").append(action.getMatches(). toStrings()).append('\n');

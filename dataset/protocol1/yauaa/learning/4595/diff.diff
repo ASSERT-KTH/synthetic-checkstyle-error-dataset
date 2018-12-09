@@ -1,0 +1,5 @@
+22,23c22
+< import static nl.basjes.parse.useragent.UserAgent.DEVICE_CLASS;
+< import static nl.basjes.parse.useragent.classify.DeviceClass.Anonymized;
+---
+> import static nl.basjes.parse.useragent.UserAgent.DEVICE_CLASS;import static nl.basjes.parse.useragent.classify.DeviceClass.Anonymized;

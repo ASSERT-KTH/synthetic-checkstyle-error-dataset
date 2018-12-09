@@ -1,0 +1,5 @@
+35c35,36
+<     private final Predicate<ParseTree> isWantedClassPredicate;
+---
+>     private final Predicate
+> <ParseTree> isWantedClassPredicate;

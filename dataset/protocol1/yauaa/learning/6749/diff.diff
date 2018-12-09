@@ -1,0 +1,5 @@
+204,205c204
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "AgentUuid"                       );
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "Anonymized"                      );
+---
+>         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "AgentUuid"                       );        result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "Anonymized"                      );

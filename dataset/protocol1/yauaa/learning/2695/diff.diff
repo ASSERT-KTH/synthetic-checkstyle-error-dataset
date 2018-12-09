@@ -1,0 +1,4 @@
+50c50
+<         for (int i = 0; i < nameChars.length; i++) {
+---
+>         for (int i = 0; i < 	nameChars.length; i++) {

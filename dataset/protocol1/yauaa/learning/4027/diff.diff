@@ -1,0 +1,4 @@
+61c61
+<     public boolean obtainResult() {
+---
+>     public 	boolean obtainResult() {

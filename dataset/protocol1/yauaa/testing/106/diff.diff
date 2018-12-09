@@ -1,0 +1,5 @@
+22,23c22
+< import nl.basjes.parse.useragent.utils.Normalize;
+< import org.antlr.v4.runtime.tree.ParseTree;
+---
+> import nl.basjes.parse.useragent.utils.Normalize;import org.antlr.v4.runtime.tree.ParseTree;

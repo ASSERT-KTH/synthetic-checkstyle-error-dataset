@@ -1,0 +1,4 @@
+237c237
+<         assertNotEquals(field1.hashCode(), field3.hashCode());
+---
+>         assertNotEquals (field1.hashCode(), field3.hashCode());

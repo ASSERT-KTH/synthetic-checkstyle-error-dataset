@@ -1,0 +1,4 @@
+1385c1385
+<             uaa.initialize(resources);
+---
+>             uaa.initialize(resources );

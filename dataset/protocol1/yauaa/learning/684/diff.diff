@@ -1,0 +1,5 @@
+62c62,63
+<     Matcher(Analyzer analyzer, Map<String, Map<String, String>> lookups, Map<String, Set<String>> lookupSets) {
+---
+>     Matcher(Analyzer analyzer, Map<String, Map<String, String
+> >> lookups, Map<String, Set<String>> lookupSets) {

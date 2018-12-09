@@ -1,0 +1,4 @@
+74c74
+<         LOG.info("The UserAgentAnalyzer was serialized into {} bytes", bytes.length);
+---
+>         LOG.info ("The UserAgentAnalyzer was serialized into {} bytes", bytes.length);

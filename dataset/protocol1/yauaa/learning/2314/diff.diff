@@ -1,0 +1,4 @@
+110c110
+<         final UserAgentAnalyzerBuilder<?, ?> builder = UserAgentAnalyzer.newBuilder();
+---
+>         final UserAgentAnalyzerBuilder<?, ?> builder = UserAgentAnalyzer.newBuilder() ;

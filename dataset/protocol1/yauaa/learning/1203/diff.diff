@@ -1,0 +1,4 @@
+120c120
+<             result.append(replaceWith);
+---
+>            result.append(replaceWith);

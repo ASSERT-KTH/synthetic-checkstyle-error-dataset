@@ -1,0 +1,5 @@
+44,45c44
+< import static nl.basjes.parse.useragent.classify.UserAgentClassifier.isMobile;
+< import static nl.basjes.parse.useragent.classify.UserAgentClassifier.isNormalConsumerDevice;
+---
+> import static nl.basjes.parse.useragent.classify.UserAgentClassifier.isMobile;import static nl.basjes.parse.useragent.classify.UserAgentClassifier.isNormalConsumerDevice;

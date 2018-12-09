@@ -1,0 +1,5 @@
+176c176,177
+<         assertEquals("1234",                                     parsedAgent.getValue("ApplicationInstance"));
+---
+>         assertEquals("1234",                                     parsedAgent.getValue("ApplicationInstance"))
+> ;

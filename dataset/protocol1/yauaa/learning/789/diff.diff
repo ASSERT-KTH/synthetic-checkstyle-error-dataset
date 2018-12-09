@@ -1,0 +1,5 @@
+86,87c86
+<         verifyDeviceClass(Watch,                 true,   true,  true, false);
+<         verifyDeviceClass(VirtualReality,        true,   true,  true, false);
+---
+>         verifyDeviceClass(Watch,                 true,   true,  true, false);        verifyDeviceClass(VirtualReality,        true,   true,  true, false);

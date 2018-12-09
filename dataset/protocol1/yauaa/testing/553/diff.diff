@@ -1,0 +1,5 @@
+31c31,32
+< import org.apache.nifi.flowfile.FlowFile;
+---
+> import org.
+> apache.nifi.flowfile.FlowFile;

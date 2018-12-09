@@ -1,0 +1,5 @@
+241c241,242
+<         public String getUserAgentString(PrivateTestRecord record) {
+---
+>         public String getUserAgentString(PrivateTestRecord record
+> ) {

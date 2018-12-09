@@ -1,0 +1,4 @@
+42c42
+<         expectedEx.expect(UDFArgumentException.class);
+---
+>         expectedEx.expect(UDFArgumentException.class) ;

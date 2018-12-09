@@ -1,0 +1,4 @@
+72c72
+<             while (childIter.hasNext()) {
+---
+>            while (childIter.hasNext()) {

@@ -1,0 +1,5 @@
+84c84,85
+<         agent.get("AgentVersion").reset();
+---
+>         agent.get
+> ("AgentVersion").reset();

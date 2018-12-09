@@ -1,0 +1,5 @@
+125,126c125
+<             throw new InvalidParserConfigurationException("You MUST specify at least 1 field to extract.");
+<         }
+---
+>             throw new InvalidParserConfigurationException("You MUST specify at least 1 field to extract.");        }

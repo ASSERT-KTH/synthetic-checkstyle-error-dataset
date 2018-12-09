@@ -1,0 +1,4 @@
+119c119
+<                         "It must look like [ public void " + method.getName() + "(" + classOfT.getSimpleName() + " record, String value) ]");
+---
+>                         "It must look like [ public void " + method.getName() 	+ "(" + classOfT.getSimpleName() + " record, String value) ]");

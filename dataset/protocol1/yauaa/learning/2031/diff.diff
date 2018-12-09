@@ -1,0 +1,5 @@
+77c77,78
+<             if (result.charAt(0) == '/') {
+---
+>             if (result.charAt(0) == '/'
+> ) {

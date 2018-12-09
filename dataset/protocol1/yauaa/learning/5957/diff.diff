@@ -1,0 +1,5 @@
+122,123c122
+<         assertEquals("Desktop",   function.eval(USERAGENT, "DeviceClass"));
+<         assertEquals("Chrome 70", function.eval(USERAGENT, "AgentNameVersionMajor"));
+---
+>         assertEquals("Desktop",   function.eval(USERAGENT, "DeviceClass"));        assertEquals("Chrome 70", function.eval(USERAGENT, "AgentNameVersionMajor"));

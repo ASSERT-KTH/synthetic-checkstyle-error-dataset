@@ -1,0 +1,5 @@
+115c115,116
+<             deviceName = deviceName.replaceAll("( -| )+", " ");
+---
+>             deviceName = deviceName.replaceAll("( -| )+", " ")
+> ;

@@ -1,0 +1,4 @@
+170c170
+<         AgentField field2 = new AgentField("Foo"); // Same, different value
+---
+>         AgentField field2 = new AgentField( "Foo"); // Same, different value

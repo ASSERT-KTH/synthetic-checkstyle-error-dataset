@@ -1,0 +1,4 @@
+44c44
+<         uaa.loadResources("classpath*:YamlParsingTests/" + inputFilename);
+---
+>         uaa.loadResources("classpath*:YamlParsingTests/" 	+ inputFilename);

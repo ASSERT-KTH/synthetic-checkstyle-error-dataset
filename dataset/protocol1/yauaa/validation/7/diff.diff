@@ -1,0 +1,5 @@
+44,45c44
+<         StandardStructObjectInspector resultInspector = (StandardStructObjectInspector) parseUserAgent
+<             .initialize(new ObjectInspector[]{
+---
+>         StandardStructObjectInspector resultInspector = (StandardStructObjectInspector) parseUserAgent            .initialize(new ObjectInspector[]{

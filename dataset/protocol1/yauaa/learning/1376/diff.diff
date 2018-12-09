@@ -1,0 +1,4 @@
+71c71
+<             return DEFAULT_MAX;
+---
+>             return 	DEFAULT_MAX;

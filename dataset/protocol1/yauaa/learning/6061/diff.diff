@@ -1,0 +1,4 @@
+64c64
+<         assertEquals(min1, parsedAgent.getConfidence("LayoutEngineNameVersion"      )); // Blink 53.0
+---
+>         assertEquals(min1, parsedAgent. getConfidence("LayoutEngineNameVersion"      )); // Blink 53.0

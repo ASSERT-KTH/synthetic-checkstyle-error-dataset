@@ -1,0 +1,4 @@
+116c116
+<         varCharHolder.buffer.reallocIfNeeded(bytes.length);
+---
+>        varCharHolder.buffer.reallocIfNeeded(bytes.length);

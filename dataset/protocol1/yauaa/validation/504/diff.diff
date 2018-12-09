@@ -1,0 +1,5 @@
+27c27,28
+< import nl.basjes.parse.useragent.analyze.treewalker.steps.compare.StepIsNull;
+---
+> import nl.basjes.parse.useragent.analyze.treewalker.
+> steps.compare.StepIsNull;

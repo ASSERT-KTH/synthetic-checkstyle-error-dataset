@@ -1,0 +1,5 @@
+125c125,126
+<         pigServer.registerQuery("STORE B INTO 'parsedAgents' USING mock.Storage();");
+---
+>         pigServer
+> .registerQuery("STORE B INTO 'parsedAgents' USING mock.Storage();");

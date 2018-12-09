@@ -1,0 +1,4 @@
+79c79
+<         try (ObjectInput in = new ObjectInputStream(bis)) {
+---
+>        try (ObjectInput in = new ObjectInputStream(bis)) {

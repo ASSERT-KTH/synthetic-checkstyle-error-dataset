@@ -1,0 +1,4 @@
+141c141
+<                     for (String requireConfig : YamlUtils.getStringValues(nodeTuple.getValueNode(), matcherSourceLocation)) {
+---
+>                     for (String requireConfig : YamlUtils.getStringValues (nodeTuple.getValueNode(), matcherSourceLocation)) {

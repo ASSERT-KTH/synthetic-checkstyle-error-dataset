@@ -1,0 +1,5 @@
+118,119c118
+<             return "DYNAMIC: (" + attribute + ", " + confidence + "):    " + expression;
+<         }
+---
+>             return "DYNAMIC: (" + attribute + ", " + confidence + "):    " + expression;        }

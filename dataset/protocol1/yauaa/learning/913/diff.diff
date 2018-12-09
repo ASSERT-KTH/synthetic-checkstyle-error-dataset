@@ -1,0 +1,4 @@
+142c142
+<         UserAgentTreeWalkerParser parser = new UserAgentTreeWalkerParser(tokens);
+---
+>         UserAgentTreeWalkerParser parser 	= new UserAgentTreeWalkerParser(tokens);

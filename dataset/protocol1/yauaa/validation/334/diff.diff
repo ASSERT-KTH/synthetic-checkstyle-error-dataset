@@ -1,0 +1,5 @@
+27c27,28
+<     private final String postfix;
+---
+>     private final String postfix
+> ;

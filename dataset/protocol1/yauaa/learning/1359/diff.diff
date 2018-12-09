@@ -1,0 +1,4 @@
+84c84
+<         return userAgentAnalyzer.parse(userAgentString).getValue(fieldName);
+---
+>        return userAgentAnalyzer.parse(userAgentString).getValue(fieldName);

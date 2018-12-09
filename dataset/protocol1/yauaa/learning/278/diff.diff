@@ -1,0 +1,4 @@
+38c38
+<         Runtime runtime = Runtime.getRuntime();
+---
+>        Runtime runtime = Runtime.getRuntime();

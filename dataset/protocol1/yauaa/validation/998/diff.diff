@@ -1,0 +1,5 @@
+141c141,142
+<             LOG.info("Required: {}", requiredPattern.getText());
+---
+>             LOG.info("Required: {}", requiredPattern.getText(
+> ));

@@ -1,0 +1,4 @@
+95c95
+<     public void setInterestedActions(Set<MatcherAction> newInterestedActions) {
+---
+>     public void setInterestedActions(Set<	MatcherAction> newInterestedActions) {

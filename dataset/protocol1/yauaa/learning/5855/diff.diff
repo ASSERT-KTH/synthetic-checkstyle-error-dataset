@@ -1,0 +1,5 @@
+84c84,85
+<         runner.setProperty(PROPERTY_PREFIX + "FacebookFBSS",                     "true");
+---
+>         runner.setProperty(
+> PROPERTY_PREFIX + "FacebookFBSS",                     "true");

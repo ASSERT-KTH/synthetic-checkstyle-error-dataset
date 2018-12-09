@@ -1,0 +1,4 @@
+21c21
+< import org.yaml.snakeyaml.nodes.MappingNode;
+---
+> import org	.yaml.snakeyaml.nodes.MappingNode;

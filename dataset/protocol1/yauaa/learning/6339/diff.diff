@@ -1,0 +1,5 @@
+105c105,106
+<             "parse_user_agent_field('"+TEST_INPUT+"', 'AgentNameVersion') as AgentNameVersion " +
+---
+>             "parse_user_agent_field('"
+> +TEST_INPUT+"', 'AgentNameVersion') as AgentNameVersion " +

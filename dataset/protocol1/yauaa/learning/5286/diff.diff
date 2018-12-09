@@ -1,0 +1,4 @@
+631c631
+<         for (String fieldName : PRE_SORTED_FIELDS_LIST) {
+---
+>         for 	(String fieldName : PRE_SORTED_FIELDS_LIST) {

@@ -1,0 +1,4 @@
+98c98
+<     private static final Logger LOG = LoggerFactory.getLogger(UserAgentAnalyzerDirect.class);
+---
+>     private static final 	Logger LOG = LoggerFactory.getLogger(UserAgentAnalyzerDirect.class);

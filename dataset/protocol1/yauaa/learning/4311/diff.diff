@@ -1,0 +1,4 @@
+307c307
+<             if (wantedFieldNames.contains(SET_ALL_FIELDS)) {
+---
+>             if ( wantedFieldNames.contains(SET_ALL_FIELDS)) {

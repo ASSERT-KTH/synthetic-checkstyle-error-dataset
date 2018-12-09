@@ -1,0 +1,4 @@
+57c57
+<         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:SubStringVersion-tests.yaml");
+---
+>        UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:SubStringVersion-tests.yaml");

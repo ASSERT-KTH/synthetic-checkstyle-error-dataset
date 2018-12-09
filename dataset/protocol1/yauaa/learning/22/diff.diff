@@ -1,0 +1,4 @@
+110c110
+<         int idxSearchFor = input.indexOf(searchFor, startIdx);
+---
+>         int idxSearchFor = 	input.indexOf(searchFor, startIdx);

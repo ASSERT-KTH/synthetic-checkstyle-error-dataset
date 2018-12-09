@@ -1,0 +1,4 @@
+22c22
+< public class NumberRangeList extends AbstractList<Integer> {
+---
+>  public class NumberRangeList extends AbstractList<Integer> {

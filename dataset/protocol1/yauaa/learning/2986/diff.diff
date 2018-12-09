@@ -1,0 +1,4 @@
+90c90
+<         runner.setProperty(PROPERTY_PREFIX + "KoboPlatformId",                   "true");
+---
+>         runner.setProperty(PROPERTY_PREFIX 	+ "KoboPlatformId",                   "true");

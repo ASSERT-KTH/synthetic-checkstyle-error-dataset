@@ -1,0 +1,4 @@
+58c58
+<                 public String getUserAgentString(TestRecord record) {
+---
+>                 public String getUserAgentString (TestRecord record) {

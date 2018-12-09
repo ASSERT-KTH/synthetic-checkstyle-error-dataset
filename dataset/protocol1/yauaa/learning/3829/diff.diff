@@ -1,0 +1,4 @@
+176c176
+<             "classpath*:BadDefinitions/SyntaxErrorVariable1.yaml",
+---
+>            "classpath*:BadDefinitions/SyntaxErrorVariable1.yaml",

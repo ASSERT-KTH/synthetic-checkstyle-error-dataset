@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "177", "message": "'\"It must look like [ public void wrongSetter(TestRecord record, String value) ]\"' has incorrect indentation level 11, expected level should be 12.", "type": "Indentation"}

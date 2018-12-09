@@ -1,0 +1,5 @@
+40,41c40
+< import nl.basjes.parse.useragent.parser.UserAgentParser.ProductVersionContext;
+< import nl.basjes.parse.useragent.parser.UserAgentParser.ProductVersionSingleWordContext;
+---
+> import nl.basjes.parse.useragent.parser.UserAgentParser.ProductVersionContext;import nl.basjes.parse.useragent.parser.UserAgentParser.ProductVersionSingleWordContext;

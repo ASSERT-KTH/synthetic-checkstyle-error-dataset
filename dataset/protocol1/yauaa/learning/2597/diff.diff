@@ -1,0 +1,4 @@
+117c117
+<                         "In class [" + method.getDeclaringClass() + "] the method [" + method.getName() + "] " +
+---
+>                         "In class [" + method.getDeclaringClass() + "] the method [" + method.getName() 	+ "] " +

@@ -1,0 +1,4 @@
+81c81
+<             "       ParseUserAgent(useragent, 'AgentNameVersionMajor')  as AgentNameVersionMajor," +
+---
+>            "       ParseUserAgent(useragent, 'AgentNameVersionMajor')  as AgentNameVersionMajor," +

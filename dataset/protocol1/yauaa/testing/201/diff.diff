@@ -1,0 +1,5 @@
+31c31,32
+< import java.io.Serializable;
+---
+> import java.io
+> .Serializable;

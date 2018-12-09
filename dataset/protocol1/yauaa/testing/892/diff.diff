@@ -1,0 +1,4 @@
+97c97
+<         for (String fieldName: ALL_FIELD_NAMES) {
+---
+>         for (String fieldName	: ALL_FIELD_NAMES) {

@@ -1,0 +1,4 @@
+110c110
+<             sb.append(", PPS=parses/sec, msPP=milliseconds per parse");
+---
+>             sb.append(", PPS=parses/sec, msPP=milliseconds per parse" );

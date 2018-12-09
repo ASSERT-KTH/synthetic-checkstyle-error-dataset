@@ -1,0 +1,4 @@
+70c70
+<         StreamTableEnvironment tableEnv = TableEnvironment.getTableEnvironment(senv);
+---
+>         StreamTableEnvironment tableEnv = TableEnvironment. getTableEnvironment(senv);

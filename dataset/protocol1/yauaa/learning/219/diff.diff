@@ -1,0 +1,5 @@
+31,32c31
+< import static nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.NumberRangeStartToEndContext;
+< import static nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.NumberRangeStartToOpenEndContext;
+---
+> import static nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.NumberRangeStartToEndContext;import static nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.NumberRangeStartToOpenEndContext;

@@ -1,0 +1,4 @@
+47c47
+<         private String rangeString = null;
+---
+>        private String rangeString = null;

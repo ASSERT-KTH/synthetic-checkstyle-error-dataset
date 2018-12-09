@@ -1,0 +1,4 @@
+88c88
+< import static nl.basjes.parse.useragent.UserAgentAnalyzerDirect.MAX_PREFIX_HASH_MATCH;
+---
+> import static nl.basjes.parse	.useragent.UserAgentAnalyzerDirect.MAX_PREFIX_HASH_MATCH;

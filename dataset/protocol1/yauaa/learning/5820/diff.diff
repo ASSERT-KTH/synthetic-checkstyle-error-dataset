@@ -1,0 +1,4 @@
+93c93
+<         expectedRecord2.deviceClass = "Phone";
+---
+>        expectedRecord2.deviceClass = "Phone";

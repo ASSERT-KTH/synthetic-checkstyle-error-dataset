@@ -1,0 +1,4 @@
+56c56
+<         uaa = UserAgentAnalyzerTester.newBuilder()
+---
+>         uaa = UserAgentAnalyzerTester.newBuilder ()

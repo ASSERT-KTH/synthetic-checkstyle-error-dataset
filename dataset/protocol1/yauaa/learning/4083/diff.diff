@@ -1,0 +1,4 @@
+120c120
+<         @SuppressWarnings("EmptyMethod") // We must override the method because of the generic return value.
+---
+>        @SuppressWarnings("EmptyMethod") // We must override the method because of the generic return value.

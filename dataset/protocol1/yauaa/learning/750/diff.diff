@@ -1,0 +1,4 @@
+26c26
+<     private final String desiredValue;
+---
+>     private final 	String desiredValue;

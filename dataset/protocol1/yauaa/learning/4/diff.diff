@@ -1,0 +1,4 @@
+34c34
+<         this.outputStream = outputStream;
+---
+>          this.outputStream = outputStream;

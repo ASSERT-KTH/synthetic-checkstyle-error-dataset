@@ -1,0 +1,5 @@
+96c96,97
+<         this.interestedActions = newInterestedActions;
+---
+>         this.interestedActions = newInterestedActions
+> ;

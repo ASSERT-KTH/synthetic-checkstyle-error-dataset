@@ -1,0 +1,4 @@
+78c78
+<     @Test(expected = InvalidParserConfigurationException.class)
+---
+>    @Test(expected = InvalidParserConfigurationException.class)

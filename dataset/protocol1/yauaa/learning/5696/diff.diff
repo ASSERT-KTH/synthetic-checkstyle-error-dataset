@@ -1,0 +1,4 @@
+49c49
+<             return record.useragent;
+---
+>             return record	.useragent;

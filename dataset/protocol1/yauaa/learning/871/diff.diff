@@ -1,0 +1,4 @@
+29c29
+<         assertEquals("N", Normalize.brand("n"));
+---
+>        assertEquals("N", Normalize.brand("n"));

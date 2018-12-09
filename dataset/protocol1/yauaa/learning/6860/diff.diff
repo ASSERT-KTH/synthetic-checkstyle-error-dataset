@@ -1,0 +1,5 @@
+82,83c82
+<             uaa = (UserAgentAnalyzerTester) o;
+<         }
+---
+>             uaa = (UserAgentAnalyzerTester) o;        }

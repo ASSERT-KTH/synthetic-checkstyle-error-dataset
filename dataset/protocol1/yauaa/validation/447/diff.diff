@@ -1,0 +1,4 @@
+36c36
+<         UserAgent agent = new UserAgent(uaString);
+---
+>          UserAgent agent = new UserAgent(uaString);

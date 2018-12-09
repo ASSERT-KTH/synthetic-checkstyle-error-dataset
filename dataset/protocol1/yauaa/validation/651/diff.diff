@@ -1,0 +1,5 @@
+41,42c41
+<         expectedEx.expectMessage("[Initialize] The mapper instance is null.");
+<         UserAgentAnnotationAnalyzer<String> userAgentAnalyzer = new UserAgentAnnotationAnalyzer<>();
+---
+>         expectedEx.expectMessage("[Initialize] The mapper instance is null.");        UserAgentAnnotationAnalyzer<String> userAgentAnalyzer = new UserAgentAnnotationAnalyzer<>();

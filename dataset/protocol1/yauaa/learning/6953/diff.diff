@@ -1,0 +1,5 @@
+87,88c87
+<         runner.setProperty(PROPERTY_PREFIX + "HackerAttackVector",               "true");
+<         runner.setProperty(PROPERTY_PREFIX + "HackerToolkit",                    "true");
+---
+>         runner.setProperty(PROPERTY_PREFIX + "HackerAttackVector",               "true");        runner.setProperty(PROPERTY_PREFIX + "HackerToolkit",                    "true");

@@ -1,0 +1,5 @@
+84c84,85
+<         runTest("NotAMap.yaml", "The value should be a map but it is a scalar");
+---
+>         runTest("NotAMap.yaml", "The value should be a map but it is a scalar")
+> ;

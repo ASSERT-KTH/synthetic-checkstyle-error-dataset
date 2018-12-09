@@ -1,0 +1,5 @@
+65c65,66
+<     public AnalyzeUseragentFunction(int cacheSize, List<String> desiredFields) {
+---
+>     public AnalyzeUseragentFunction(int cacheSize, List<String> desiredFields
+> ) {

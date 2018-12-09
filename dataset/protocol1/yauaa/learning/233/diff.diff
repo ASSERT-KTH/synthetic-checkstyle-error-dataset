@@ -1,0 +1,4 @@
+136c136
+<         cleaned = cleaned.replaceAll("\\[dot]", ".");
+---
+>         cleaned = cleaned.replaceAll ("\\[dot]", ".");

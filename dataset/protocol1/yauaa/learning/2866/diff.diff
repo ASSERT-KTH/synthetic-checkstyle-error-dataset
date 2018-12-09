@@ -1,0 +1,4 @@
+64c64
+<         pigServer.registerQuery("B = FOREACH A GENERATE ParseUserAgent(agent);");
+---
+>        pigServer.registerQuery("B = FOREACH A GENERATE ParseUserAgent(agent);");

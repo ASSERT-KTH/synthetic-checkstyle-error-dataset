@@ -1,0 +1,4 @@
+62c62
+<                 LOG.info("{} Final (implicit) step: {}", logprefix, result);
+---
+>                 LOG.info("{} Final (implicit) step: {}", logprefix, result );

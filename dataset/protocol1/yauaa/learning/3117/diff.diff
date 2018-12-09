@@ -1,0 +1,5 @@
+121,122c121
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "AgentVersionMajor",                "48"                  );
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "AgentNameVersion",                 "Chrome 48.0.2564.82" );
+---
+>         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "AgentVersionMajor",                "48"                  );        result.assertAttributeEquals(ATTRIBUTE_PREFIX + "AgentNameVersion",                 "Chrome 48.0.2564.82" );

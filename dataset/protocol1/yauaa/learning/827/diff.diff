@@ -1,0 +1,4 @@
+64c64
+<         LOG.info("/-{}-\\", padding('-', width));
+---
+>         LOG.info("/-{}-\\", padding('-' , width));

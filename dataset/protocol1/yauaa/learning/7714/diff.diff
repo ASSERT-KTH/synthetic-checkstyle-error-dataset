@@ -1,0 +1,4 @@
+273c273
+<         assertEquals("five",                   splitter.getSingleSplit(value, 6));
+---
+>        assertEquals("five",                   splitter.getSingleSplit(value, 6));

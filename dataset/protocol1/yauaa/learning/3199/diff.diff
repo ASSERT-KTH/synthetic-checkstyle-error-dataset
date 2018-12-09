@@ -1,0 +1,5 @@
+31c31,32
+< import org.openjdk.jmh.runner.Runner;
+---
+> import org.
+> openjdk.jmh.runner.Runner;

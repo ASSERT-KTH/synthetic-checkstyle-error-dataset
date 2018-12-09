@@ -1,0 +1,4 @@
+97c97
+<         attributes.put(ParseUserAgent.USERAGENTSTRING_ATTRIBUTENAME, TEST_USER_AGENT);
+---
+>        attributes.put(ParseUserAgent.USERAGENTSTRING_ATTRIBUTENAME, TEST_USER_AGENT);

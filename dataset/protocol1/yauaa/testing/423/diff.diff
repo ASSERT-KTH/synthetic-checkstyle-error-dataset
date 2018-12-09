@@ -1,0 +1,4 @@
+56c56
+<     static final String PROPERTY_PREFIX = "Extract.";
+---
+>     static final String 	PROPERTY_PREFIX = "Extract.";

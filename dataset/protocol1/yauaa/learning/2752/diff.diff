@@ -1,0 +1,4 @@
+27c27
+< public class StepLookupPrefix extends Step {
+---
+>  public class StepLookupPrefix extends Step {

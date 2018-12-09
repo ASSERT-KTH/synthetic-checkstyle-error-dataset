@@ -1,0 +1,4 @@
+59c59
+<         assertEquals(min1, parsedAgent.getConfidence("OperatingSystemVersionBuild"  )); // NBD90Z
+---
+>        assertEquals(min1, parsedAgent.getConfidence("OperatingSystemVersionBuild"  )); // NBD90Z

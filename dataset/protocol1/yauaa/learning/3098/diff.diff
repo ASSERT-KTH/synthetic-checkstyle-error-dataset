@@ -1,0 +1,5 @@
+174c174,175
+<             "Concat[\"Foo\";agent.(1)product.(1)name[1-2]=\"Foo\"@[2]@]",
+---
+>             "Concat[\"Foo\";agent.(1)product.(1)name[1-2]=\"Foo\"@[2]@]"
+> ,

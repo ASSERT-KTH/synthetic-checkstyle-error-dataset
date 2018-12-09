@@ -1,0 +1,4 @@
+128c128
+<         Match[] newAllElements = new Match[newMaxSize];
+---
+>         Match[	] newAllElements = new Match[newMaxSize];

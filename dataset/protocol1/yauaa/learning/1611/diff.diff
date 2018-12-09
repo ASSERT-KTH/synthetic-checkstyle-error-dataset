@@ -1,0 +1,4 @@
+125c125
+<         nullableVarCharHolder.buffer.setBytes(0, bytes);
+---
+>         nullableVarCharHolder.buffer.setBytes(0 , bytes);

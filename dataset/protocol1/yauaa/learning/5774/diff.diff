@@ -1,0 +1,4 @@
+368c368
+<         userAgent.set(newValuesUserAgent, this);
+---
+>         userAgent.set (newValuesUserAgent, this);

@@ -1,0 +1,5 @@
+46,47c46
+<             filteredValue = VersionSplitter.getInstance().getSplitRange(actualValue, firstWord, lastWord);
+<         } else {
+---
+>             filteredValue = VersionSplitter.getInstance().getSplitRange(actualValue, firstWord, lastWord);        } else {

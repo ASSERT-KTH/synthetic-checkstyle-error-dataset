@@ -1,0 +1,4 @@
+330c330
+<             calculateInformPath(action, treeName, ((MatcherPathIsNullContext) tree).matcher()));
+---
+>             calculateInformPath(action, treeName, ((MatcherPathIsNullContext) tree)	.matcher()));

@@ -1,0 +1,4 @@
+76c76
+<         runner.setProperty(PROPERTY_PREFIX + "DeviceCpu",                        "true");
+---
+>         runner.setProperty(PROPERTY_PREFIX + "DeviceCpu",                        	"true");

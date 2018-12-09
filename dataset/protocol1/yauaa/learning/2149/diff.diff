@@ -1,0 +1,4 @@
+47c47
+<         assertEquals("53.0.2785.124",            parsedAgent.getValue("AgentVersion"             )); // 53.0.2785.124
+---
+>         assertEquals("53.0.2785.124" ,            parsedAgent.getValue("AgentVersion"             )); // 53.0.2785.124

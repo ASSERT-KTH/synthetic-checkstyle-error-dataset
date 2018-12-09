@@ -1,0 +1,4 @@
+86c86
+<         assertTrue("Did not see the expected match.", ok);
+---
+>        assertTrue("Did not see the expected match.", ok);

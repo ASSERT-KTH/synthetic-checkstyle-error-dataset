@@ -1,0 +1,4 @@
+231c231
+<     private void checkPath(String path, String[] expectedHashEntries, String[] expectedWalkList) {
+---
+>     private void checkPath(String path, String[] expectedHashEntries, String[] 	expectedWalkList) {

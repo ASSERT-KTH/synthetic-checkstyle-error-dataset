@@ -1,0 +1,4 @@
+49c49
+< import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.MatcherConcatContext;
+---
+> import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser	.MatcherConcatContext;

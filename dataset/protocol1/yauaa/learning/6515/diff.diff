@@ -1,0 +1,4 @@
+77c77
+<         if (userAgentAnalyzer == null) {
+---
+>         if (userAgentAnalyzer == 	null) {

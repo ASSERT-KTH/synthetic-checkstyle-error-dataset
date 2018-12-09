@@ -1,0 +1,4 @@
+381c381
+<         CALCULATE_INFORM_PATH.put(StepEqualsValueContext.class,         (action, treeName, tree) -> {
+---
+>         CALCULATE_INFORM_PATH.put(StepEqualsValueContext.class,         	(action, treeName, tree) -> {

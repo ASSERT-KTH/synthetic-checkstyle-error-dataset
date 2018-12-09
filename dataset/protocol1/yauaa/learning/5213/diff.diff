@@ -1,0 +1,5 @@
+119c119,120
+<             out.get(0).toDelimitedString("><#><"));
+---
+>             out.
+> get(0).toDelimitedString("><#><"));

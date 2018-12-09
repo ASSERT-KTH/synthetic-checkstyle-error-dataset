@@ -1,0 +1,4 @@
+80c80
+<             "       ParseUserAgent(useragent, 'DeviceClass'          )  as DeviceClass," +
+---
+>            "       ParseUserAgent(useragent, 'DeviceClass'          )  as DeviceClass," +

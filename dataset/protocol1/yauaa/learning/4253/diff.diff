@@ -1,0 +1,4 @@
+38c38
+<         assertEquals(1, list.size());
+---
+>        assertEquals(1, list.size());

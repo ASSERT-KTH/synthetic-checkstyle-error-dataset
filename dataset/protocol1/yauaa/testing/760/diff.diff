@@ -1,0 +1,4 @@
+57c57
+<         this.fixedValue = calculateFixedValue(requiredPattern);
+---
+>         this.fixedValue = calculateFixedValue (requiredPattern);

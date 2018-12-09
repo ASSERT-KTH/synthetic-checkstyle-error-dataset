@@ -1,0 +1,4 @@
+33c33
+<     private static final Logger LOG = LoggerFactory.getLogger(TestAnnotationBadUsages.class);
+---
+>     private static final Logger LOG = LoggerFactory.getLogger(TestAnnotationBadUsages.class) ;

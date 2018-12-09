@@ -1,0 +1,4 @@
+33c33
+< import static nl.basjes.parse.useragent.classify.DeviceClass.SetTopBox;
+---
+> 	import static nl.basjes.parse.useragent.classify.DeviceClass.SetTopBox;

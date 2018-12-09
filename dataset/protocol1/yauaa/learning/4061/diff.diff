@@ -1,0 +1,5 @@
+215c215,216
+<         return inform(ctx, path, getSourceText((ParserRuleContext)ctx));
+---
+>         return inform(ctx, 
+> path, getSourceText((ParserRuleContext)ctx));

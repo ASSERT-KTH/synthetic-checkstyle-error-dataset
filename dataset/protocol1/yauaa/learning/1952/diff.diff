@@ -1,0 +1,5 @@
+26,27c26
+< import static nl.basjes.parse.useragent.UserAgentAnalyzer.DEFAULT_PARSE_CACHE_SIZE;
+< import static org.junit.Assert.assertEquals;
+---
+> import static nl.basjes.parse.useragent.UserAgentAnalyzer.DEFAULT_PARSE_CACHE_SIZE;import static org.junit.Assert.assertEquals;

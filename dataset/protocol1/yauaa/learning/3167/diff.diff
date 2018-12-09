@@ -1,0 +1,5 @@
+73c73,74
+<         Class[] classOfTArray = GenericTypeResolver.resolveTypeArguments(mapper.getClass(), UserAgentAnnotationMapper.class);
+---
+>         Class[] classOfTArray = GenericTypeResolver.resolveTypeArguments(mapper.getClass(), UserAgentAnnotationMapper.class)
+> ;

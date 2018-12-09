@@ -1,0 +1,5 @@
+41c41,42
+< import nl.basjes.parse.useragent.parser.UserAgentParser.ProductNameUuidContext;
+---
+> import nl.basjes.parse.useragent
+> .parser.UserAgentParser.ProductNameUuidContext;

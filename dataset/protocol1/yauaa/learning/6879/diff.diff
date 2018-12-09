@@ -1,0 +1,4 @@
+24c24
+<     private static VersionSplitter instance;
+---
+>     private static VersionSplitter instance ;

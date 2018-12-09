@@ -1,0 +1,4 @@
+108c108
+<     public Range visitWordRangeSingleWord(UserAgentTreeWalkerParser.WordRangeSingleWordContext ctx) {
+---
+>     public Range visitWordRangeSingleWord(UserAgentTreeWalkerParser.WordRangeSingleWordContext ctx ) {

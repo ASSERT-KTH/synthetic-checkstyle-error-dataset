@@ -1,0 +1,5 @@
+78c78,79
+<         result = 31 * result + (deviceClass      != null ? deviceClass.hashCode()      : 0);
+---
+>         result = 31 * result + (deviceClass      != null ? deviceClass.hashCode()      : 0
+> );

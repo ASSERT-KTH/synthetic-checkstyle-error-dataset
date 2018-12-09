@@ -1,0 +1,4 @@
+69c69
+<         Field userAgentAnalyzerField = userAgentAnnotationAnalyzer.getClass().getDeclaredField("userAgentAnalyzer");
+---
+>        Field userAgentAnalyzerField = userAgentAnnotationAnalyzer.getClass().getDeclaredField("userAgentAnalyzer");

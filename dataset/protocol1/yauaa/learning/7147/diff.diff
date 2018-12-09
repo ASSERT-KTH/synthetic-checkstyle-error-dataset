@@ -1,0 +1,4 @@
+44c44
+<     private static UserAgentAnalyzer userAgentAnalyzer = null;
+---
+>    private static UserAgentAnalyzer userAgentAnalyzer = null;

@@ -1,0 +1,4 @@
+248c248
+<         Splitter splitter = WordSplitter.getInstance();
+---
+>        Splitter splitter = WordSplitter.getInstance();

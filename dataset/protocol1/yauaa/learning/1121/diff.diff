@@ -1,0 +1,4 @@
+103c103
+<         deviceName = deviceName.replaceAll("_", " ");
+---
+>         deviceName = deviceName. replaceAll("_", " ");

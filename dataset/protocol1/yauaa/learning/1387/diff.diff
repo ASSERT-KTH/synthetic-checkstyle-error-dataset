@@ -1,0 +1,4 @@
+604c604
+<         PRE_SORTED_FIELDS_LIST.add("FacebookDeviceName");
+---
+>         PRE_SORTED_FIELDS_LIST.add( "FacebookDeviceName");

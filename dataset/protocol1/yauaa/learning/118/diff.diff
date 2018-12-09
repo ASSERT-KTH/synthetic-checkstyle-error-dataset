@@ -1,0 +1,4 @@
+47c47
+<     public static void serializeAndDeserializeUAA() throws IOException, ClassNotFoundException {
+---
+>     	public static void serializeAndDeserializeUAA() throws IOException, ClassNotFoundException {

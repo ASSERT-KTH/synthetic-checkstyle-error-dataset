@@ -1,0 +1,5 @@
+27c27,28
+<             instance = new VersionSplitter();
+---
+>             instance = 
+> new VersionSplitter();

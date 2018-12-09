@@ -1,0 +1,5 @@
+54,55c54
+<         }
+<         if (!(o instanceof TestRecord)) {
+---
+>         }        if (!(o instanceof TestRecord)) {

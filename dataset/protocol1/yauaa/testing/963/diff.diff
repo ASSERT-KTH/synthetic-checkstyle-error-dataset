@@ -1,0 +1,4 @@
+30c30
+< public @interface YauaaField {
+---
+> public 	@interface YauaaField {

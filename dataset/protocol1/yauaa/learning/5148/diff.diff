@@ -1,0 +1,5 @@
+74c74,75
+<             LOG.info("{} Leave step({}): {}", logprefix, result == null ? "-" : "+", nextStep);
+---
+>             LOG.
+> info("{} Leave step({}): {}", logprefix, result == null ? "-" : "+", nextStep);

@@ -1,0 +1,4 @@
+93c93
+<     public void testNotStringList1() {
+---
+>     public void testNotStringList1 () {

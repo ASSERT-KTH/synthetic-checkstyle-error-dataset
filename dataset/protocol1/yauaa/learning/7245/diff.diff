@@ -1,0 +1,4 @@
+26c26
+< import static nl.basjes.parse.useragent.UserAgentAnalyzer.DEFAULT_PARSE_CACHE_SIZE;
+---
+> import static nl.basjes. parse.useragent.UserAgentAnalyzer.DEFAULT_PARSE_CACHE_SIZE;

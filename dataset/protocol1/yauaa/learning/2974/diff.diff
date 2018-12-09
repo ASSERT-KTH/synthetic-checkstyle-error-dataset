@@ -1,0 +1,4 @@
+300c300
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "LayoutEngineBuild"               );
+---
+>         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "LayoutEngineBuild"               	);

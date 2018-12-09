@@ -1,0 +1,4 @@
+48c48
+<                 throw new IllegalArgumentException("Only readable ASCII is allowed as key !!!");
+---
+>                throw new IllegalArgumentException("Only readable ASCII is allowed as key !!!");

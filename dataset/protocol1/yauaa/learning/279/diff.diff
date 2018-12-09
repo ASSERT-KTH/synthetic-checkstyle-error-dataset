@@ -1,0 +1,5 @@
+298c298,299
+<             if (action instanceof MatcherExtractAction) {
+---
+>             if (
+> action instanceof MatcherExtractAction) {

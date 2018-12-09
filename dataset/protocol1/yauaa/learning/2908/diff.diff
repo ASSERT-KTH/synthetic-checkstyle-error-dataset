@@ -1,0 +1,4 @@
+84c84
+<         result = replaceString(result, ",gzip(gfe)", "");
+---
+>         result = replaceString (result, ",gzip(gfe)", "");

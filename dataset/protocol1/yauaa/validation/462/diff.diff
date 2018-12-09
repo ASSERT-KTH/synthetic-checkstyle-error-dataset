@@ -1,0 +1,4 @@
+36c36
+<     public final transient ExpectedException expectedEx = ExpectedException.none();
+---
+>     public final transient ExpectedException expectedEx = 	ExpectedException.none();

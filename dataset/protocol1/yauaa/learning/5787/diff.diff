@@ -1,0 +1,4 @@
+80c80
+<             Object o = in.readObject();
+---
+>            Object o = in.readObject();

@@ -1,0 +1,4 @@
+73c73
+<         String trimmedRawParameter = rawParameter.trim();
+---
+>         String trimmedRawParameter = rawParameter.trim ();

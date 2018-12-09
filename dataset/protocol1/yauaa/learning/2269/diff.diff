@@ -1,0 +1,4 @@
+25c25
+< import org.springframework.core.GenericTypeResolver;
+---
+> import org	.springframework.core.GenericTypeResolver;

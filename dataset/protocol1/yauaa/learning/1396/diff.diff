@@ -1,0 +1,5 @@
+1349c1349,1350
+<                 Collections.addAll(uaa.wantedFieldNames, dependencies);
+---
+>                 Collections
+> .addAll(uaa.wantedFieldNames, dependencies);

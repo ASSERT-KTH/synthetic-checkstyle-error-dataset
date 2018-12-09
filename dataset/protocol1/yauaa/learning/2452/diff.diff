@@ -1,0 +1,5 @@
+103,104c103
+<         checkResult(data, schema, "FacebookFBOP",                     "Unknown"               );
+<         checkResult(data, schema, "FacebookFBSS",                     "Unknown"               );
+---
+>         checkResult(data, schema, "FacebookFBOP",                     "Unknown"               );        checkResult(data, schema, "FacebookFBSS",                     "Unknown"               );

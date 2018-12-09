@@ -1,0 +1,4 @@
+50c50
+<     class ChildIterator implements Iterator<ParseTree> {
+---
+>     class 	ChildIterator implements Iterator<ParseTree> {

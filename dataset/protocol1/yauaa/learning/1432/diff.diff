@@ -1,0 +1,4 @@
+157c157
+<     public void testLoadOnlyCompanyCustomFormatRules() {
+---
+>     public void testLoadOnlyCompanyCustomFormatRules(	) {

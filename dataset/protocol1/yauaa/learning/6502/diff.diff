@@ -1,0 +1,4 @@
+56c56
+<         UserAgentAnalyzer userAgentAnalyzer = UserAgentAnalyzer.newBuilder().build();
+---
+>         UserAgentAnalyzer userAgentAnalyzer = UserAgentAnalyzer.newBuilder(). build();

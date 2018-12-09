@@ -1,0 +1,4 @@
+76c76
+<         checkResult(data, schema, "OperatingSystemClass",             "Desktop"               );
+---
+>        checkResult(data, schema, "OperatingSystemClass",             "Desktop"               );

@@ -1,0 +1,4 @@
+38c38
+<     private static final Integer DEFAULT_MAX = 10;
+---
+>     private static final Integer DEFAULT_MAX = 	10;

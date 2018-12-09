@@ -1,0 +1,4 @@
+87c87
+<         DataStream<Row> resultSet = tableEnv.toAppendStream(resultTable, Row.class);
+---
+>        DataStream<Row> resultSet = tableEnv.toAppendStream(resultTable, Row.class);

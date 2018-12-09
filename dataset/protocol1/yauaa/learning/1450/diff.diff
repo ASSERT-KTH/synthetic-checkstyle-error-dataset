@@ -1,0 +1,5 @@
+40c40,41
+< import static nl.basjes.parse.useragent.classify.DeviceClass.eReader;
+---
+> import static nl.basjes.parse.useragent.classify.DeviceClass.eReader
+> ;

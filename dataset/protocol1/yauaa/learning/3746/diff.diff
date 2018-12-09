@@ -1,0 +1,4 @@
+293c293
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "FacebookFBSS"                    );
+---
+>        result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "FacebookFBSS"                    );

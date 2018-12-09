@@ -1,0 +1,5 @@
+84c84,85
+<             char myChar = input.charAt(charIndex); // This will give us the ASCII value of the char
+---
+>             char myChar = input.charAt(
+> charIndex); // This will give us the ASCII value of the char

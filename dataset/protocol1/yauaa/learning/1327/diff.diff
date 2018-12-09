@@ -1,0 +1,5 @@
+28,29c28
+<     public static synchronized UserAgentAnalyzer getInstance() {
+<         if (instance == null) {
+---
+>     public static synchronized UserAgentAnalyzer getInstance() {        if (instance == null) {

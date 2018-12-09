@@ -1,0 +1,5 @@
+31c31,32
+<         return walkNextStep(tree, filteredValue);
+---
+>         return 
+> walkNextStep(tree, filteredValue);

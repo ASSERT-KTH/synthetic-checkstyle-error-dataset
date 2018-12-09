@@ -1,0 +1,4 @@
+81c81
+<         verifyDeviceClass(Desktop,               true,  false,  true, false);
+---
+>         verifyDeviceClass(Desktop,               	true,  false,  true, false);

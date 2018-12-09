@@ -1,0 +1,4 @@
+92c92
+<         Tuple result = TUPLE_FACTORY.newTuple();
+---
+>         Tuple result = TUPLE_FACTORY.newTuple() ;

@@ -1,0 +1,5 @@
+79c79,80
+<         new MatchesList(1).remove(null);
+---
+>         new MatchesList(1).remove(null
+> );

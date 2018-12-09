@@ -1,0 +1,4 @@
+51c51
+<             char thisChar = nameChars[i];
+---
+>            char thisChar = nameChars[i];

@@ -1,0 +1,4 @@
+119c119
+<         assertEquals(DEFAULT_PARSE_CACHE_SIZE, userAgentAnnotationAnalyzer.getCacheSize());
+---
+>        assertEquals(DEFAULT_PARSE_CACHE_SIZE, userAgentAnnotationAnalyzer.getCacheSize());

@@ -1,0 +1,5 @@
+586c586,587
+<         PRE_SORTED_FIELDS_LIST.add("AgentVersionMajor");
+---
+>         PRE_SORTED_FIELDS_LIST.add("AgentVersionMajor"
+> );

@@ -1,0 +1,5 @@
+131,132c131
+<                         "Yaml config.(" + filename + ":" + versionNode.getStartMark().getLine() + "): " +
+<                             "Found unexpected config entry: " + key + ", allowed are " +
+---
+>                         "Yaml config.(" + filename + ":" + versionNode.getStartMark().getLine() + "): " +                            "Found unexpected config entry: " + key + ", allowed are " +

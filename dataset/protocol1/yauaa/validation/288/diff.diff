@@ -1,0 +1,4 @@
+36c36
+<         lastWord = range.getLast();
+---
+>        lastWord = range.getLast();

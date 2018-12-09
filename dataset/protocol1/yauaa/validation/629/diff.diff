@@ -1,0 +1,5 @@
+200,201c200
+<             .expect("STRING:request.user-agent.device_class",                           "Phone")
+<             .expect("STRING:request.user-agent.agent_name_version",                     "Chrome 41.0.2272.96")
+---
+>             .expect("STRING:request.user-agent.device_class",                           "Phone")            .expect("STRING:request.user-agent.agent_name_version",                     "Chrome 41.0.2272.96")

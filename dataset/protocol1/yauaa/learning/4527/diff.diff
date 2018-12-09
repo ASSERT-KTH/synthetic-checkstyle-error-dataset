@@ -1,0 +1,4 @@
+270c270
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "OperatingSystemClass"            );
+---
+>         result. assertAttributeNotExists(ATTRIBUTE_PREFIX + "OperatingSystemClass"            );

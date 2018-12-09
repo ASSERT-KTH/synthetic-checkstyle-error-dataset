@@ -1,0 +1,4 @@
+138c138
+<         List<String> result = new ArrayList<>(size);
+---
+>        List<String> result = new ArrayList<>(size);

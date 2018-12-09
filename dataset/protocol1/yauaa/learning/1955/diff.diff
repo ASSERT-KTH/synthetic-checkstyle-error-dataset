@@ -1,0 +1,4 @@
+136c136
+<             label, memory, bytesToMegabytes(memory), bytesToMegabytes(runtime.totalMemory())));
+---
+>             label, memory, 	bytesToMegabytes(memory), bytesToMegabytes(runtime.totalMemory())));

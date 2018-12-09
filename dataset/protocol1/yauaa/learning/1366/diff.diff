@@ -1,0 +1,4 @@
+77c77
+<         ByteArrayInputStream bis = new ByteArrayInputStream(bytes);
+---
+>         ByteArrayInputStream bis = new ByteArrayInputStream(bytes) ;

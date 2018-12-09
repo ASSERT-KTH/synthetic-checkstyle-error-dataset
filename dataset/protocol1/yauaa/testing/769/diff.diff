@@ -1,0 +1,4 @@
+180c180
+<     public boolean containsAll(Collection<?> collection) {
+---
+>     public 	boolean containsAll(Collection<?> collection) {

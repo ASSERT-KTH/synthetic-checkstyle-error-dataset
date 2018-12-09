@@ -1,0 +1,5 @@
+84c84,85
+<         assertEquals("Samsung GT-1234",         Normalize.cleanupDeviceBrandName("Samsung", "GT - 1234"));
+---
+>         assertEquals(
+> "Samsung GT-1234",         Normalize.cleanupDeviceBrandName("Samsung", "GT - 1234"));

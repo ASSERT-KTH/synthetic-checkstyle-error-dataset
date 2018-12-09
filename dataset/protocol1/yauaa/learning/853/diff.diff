@@ -1,0 +1,4 @@
+306c306
+<     public void lookingForRange(String treeName, WordRangeVisitor.Range range) {
+---
+>     public void lookingForRange(String treeName, WordRangeVisitor.Range range) 	{

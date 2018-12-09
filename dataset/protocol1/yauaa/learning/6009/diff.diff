@@ -1,0 +1,4 @@
+100c100
+<                 duplicates.add(input);
+---
+>                duplicates.add(input);

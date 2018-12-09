@@ -1,0 +1,4 @@
+84c84
+<         PCollection<TestRecord> filledTestRecords = testRecords
+---
+>         PCollection<TestRecord> filledTestRecords 	= testRecords

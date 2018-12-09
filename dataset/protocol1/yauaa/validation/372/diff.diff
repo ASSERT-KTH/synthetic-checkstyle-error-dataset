@@ -1,0 +1,5 @@
+43c43,44
+<         expectedEx.expectMessage("The argument must be a string");
+---
+>         expectedEx
+> .expectMessage("The argument must be a string");

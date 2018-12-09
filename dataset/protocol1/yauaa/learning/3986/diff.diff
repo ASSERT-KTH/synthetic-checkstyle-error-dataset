@@ -1,0 +1,4 @@
+199c199
+<         Tuple data = udf.exec(nullInput);
+---
+>         Tuple data 	= udf.exec(nullInput);

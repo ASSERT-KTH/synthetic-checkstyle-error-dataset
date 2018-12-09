@@ -1,0 +1,4 @@
+51c51
+<         assertEquals("four", match2.getValue());
+---
+>        assertEquals("four", match2.getValue());

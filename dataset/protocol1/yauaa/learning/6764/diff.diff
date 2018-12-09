@@ -1,0 +1,5 @@
+108c108,109
+<         String lowerDeviceName = deviceName.toLowerCase(Locale.ENGLISH);
+---
+>         String lowerDeviceName = deviceName.toLowerCase(Locale
+> .ENGLISH);

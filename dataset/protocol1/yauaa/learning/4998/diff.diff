@@ -1,0 +1,4 @@
+41c41
+<         userAgentGetChildrenVisitor = new UserAgentGetChildrenVisitor(name, start, end);
+---
+>        userAgentGetChildrenVisitor = new UserAgentGetChildrenVisitor(name, start, end);

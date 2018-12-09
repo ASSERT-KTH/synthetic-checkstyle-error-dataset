@@ -1,0 +1,5 @@
+43c43,44
+<     private static final Logger LOG = LoggerFactory.getLogger(Matcher.class);
+---
+>     private static final Logger LOG = LoggerFactory.getLogger(Matcher.
+> class);

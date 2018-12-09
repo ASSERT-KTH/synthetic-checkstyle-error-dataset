@@ -1,0 +1,4 @@
+70c70
+<             allElements[i] = new Match(null, null, null);
+---
+>             allElements[i] = new 	Match(null, null, null);

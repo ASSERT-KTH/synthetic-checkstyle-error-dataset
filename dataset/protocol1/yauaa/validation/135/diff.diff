@@ -1,0 +1,5 @@
+37c37,38
+<         assertEquals(uaString, agent.get(UserAgent.USERAGENT_FIELDNAME).getValue());
+---
+>         assertEquals(uaString, agent.get(
+> UserAgent.USERAGENT_FIELDNAME).getValue());

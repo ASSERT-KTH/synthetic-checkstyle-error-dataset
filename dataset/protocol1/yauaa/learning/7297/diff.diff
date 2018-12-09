@@ -1,0 +1,5 @@
+136,137c136
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "FacebookDeviceClass",              "Unknown"             );
+<         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "FacebookDeviceName",               "Unknown"             );
+---
+>         result.assertAttributeEquals(ATTRIBUTE_PREFIX + "FacebookDeviceClass",              "Unknown"             );        result.assertAttributeEquals(ATTRIBUTE_PREFIX + "FacebookDeviceName",               "Unknown"             );

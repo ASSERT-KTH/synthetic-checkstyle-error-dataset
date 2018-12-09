@@ -1,0 +1,4 @@
+130c130
+<         assertEquals("Desktop",   function.eval(USERAGENT, "DeviceClass"));
+---
+>        assertEquals("Desktop",   function.eval(USERAGENT, "DeviceClass"));

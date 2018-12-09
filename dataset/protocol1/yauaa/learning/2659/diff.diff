@@ -1,0 +1,5 @@
+108c108,109
+<                                 fieldName, partialField.getConfidence(), previousValue, partialField.getValue());
+---
+>                                 fieldName, partialField.getConfidence(), previousValue, partialField.
+> getValue());

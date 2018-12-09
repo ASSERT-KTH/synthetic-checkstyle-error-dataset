@@ -1,0 +1,4 @@
+35c35
+<         firstWord = range.getFirst();
+---
+>        firstWord = range.getFirst();

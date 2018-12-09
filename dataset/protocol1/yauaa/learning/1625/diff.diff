@@ -1,0 +1,4 @@
+66c66
+<         assertEquals(min1, parsedAgent.getConfidence("AgentClass"                   )); // Browser
+---
+>        assertEquals(min1, parsedAgent.getConfidence("AgentClass"                   )); // Browser

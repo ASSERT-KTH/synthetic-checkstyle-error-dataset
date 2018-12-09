@@ -1,0 +1,5 @@
+61,62c61
+<      * If for your class you can do better; please override this method.
+<      * For AVRO you can do something like MyRecord.newBuilder(instance).build();
+---
+>      * If for your class you can do better; please override this method.     * For AVRO you can do something like MyRecord.newBuilder(instance).build();

@@ -1,0 +1,5 @@
+28c28,29
+< import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.MatcherConcatPostfixContext;
+---
+> import nl.basjes.parse.
+> useragent.parser.UserAgentTreeWalkerParser.MatcherConcatPostfixContext;

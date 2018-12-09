@@ -1,0 +1,4 @@
+99c99
+<                         if (!previousValue.equals(partialField.getValue())) {
+---
+>                        if (!previousValue.equals(partialField.getValue())) {

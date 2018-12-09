@@ -1,0 +1,4 @@
+240c240
+<         PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
+---
+>        PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();

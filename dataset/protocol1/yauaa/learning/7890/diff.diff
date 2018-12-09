@@ -1,0 +1,4 @@
+39c39
+< import static nl.basjes.parse.useragent.classify.DeviceClass.VirtualReality;
+---
+> import static nl	.basjes.parse.useragent.classify.DeviceClass.VirtualReality;

@@ -1,0 +1,4 @@
+31c31
+<     private static final Logger LOG = LoggerFactory.getLogger(TestPerformance.class);
+---
+>     private static 	final Logger LOG = LoggerFactory.getLogger(TestPerformance.class);

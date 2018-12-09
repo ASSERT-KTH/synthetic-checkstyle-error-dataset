@@ -1,0 +1,4 @@
+69c69
+<         TestRecord testInput = new TestRecord(userAgent);
+---
+>        TestRecord testInput = new TestRecord(userAgent);

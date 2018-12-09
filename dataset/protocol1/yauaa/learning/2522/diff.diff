@@ -1,0 +1,4 @@
+53c53
+<         MAX_RANGE.put("entry",               20); // Max was much higher
+---
+>         MAX_RANGE.put("entry",               20 ); // Max was much higher

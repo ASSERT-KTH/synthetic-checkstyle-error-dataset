@@ -1,0 +1,4 @@
+1154c1154
+<     public static GetAllPathsAnalyzer getAllPathsAnalyzer(String agent) {
+---
+>     public static GetAllPathsAnalyzer getAllPathsAnalyzer(String agent) 	{

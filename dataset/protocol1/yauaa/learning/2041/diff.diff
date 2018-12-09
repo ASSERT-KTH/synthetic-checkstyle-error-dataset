@@ -1,0 +1,4 @@
+58c58
+<         sb.append("| Matcher results that have been combined |\n");
+---
+>        sb.append("| Matcher results that have been combined |\n");

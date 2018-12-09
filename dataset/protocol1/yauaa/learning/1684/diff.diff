@@ -1,0 +1,4 @@
+240c240
+<                 for (String newFieldName: expected.keySet()) {
+---
+>                for (String newFieldName: expected.keySet()) {

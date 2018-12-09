@@ -1,0 +1,4 @@
+58c58
+<         assertEquals(min1, parsedAgent.getConfidence("OperatingSystemNameVersion"   )); // Android 7.0
+---
+>         assertEquals(min1,parsedAgent.getConfidence("OperatingSystemNameVersion"   )); // Android 7.0

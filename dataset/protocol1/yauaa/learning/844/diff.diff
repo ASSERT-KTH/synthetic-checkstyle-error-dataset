@@ -1,0 +1,5 @@
+66c66,67
+<         assertTrue(useragent.toYamlTestCase(true).contains("'Google Nexus 6'"));
+---
+>         assertTrue(useragent.toYamlTestCase(true
+> ).contains("'Google Nexus 6'"));

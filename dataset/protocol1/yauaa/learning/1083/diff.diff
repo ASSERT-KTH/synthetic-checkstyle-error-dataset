@@ -1,0 +1,4 @@
+106c106
+<     private transient Map<String, List<MappingNode>> matcherConfigs = new HashMap<>();
+---
+>     private transient Map<String, List<MappingNode>> matcherConfigs = new 	HashMap<>();

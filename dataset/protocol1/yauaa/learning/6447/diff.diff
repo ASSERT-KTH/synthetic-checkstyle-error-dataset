@@ -1,0 +1,4 @@
+31c31
+<         public Range(int first, int last) {
+---
+>        public Range(int first, int last) {

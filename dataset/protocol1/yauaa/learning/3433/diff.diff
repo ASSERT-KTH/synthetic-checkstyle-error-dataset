@@ -1,0 +1,4 @@
+143c143
+<         char[] characters = value.toCharArray();
+---
+>         char[] 	characters = value.toCharArray();

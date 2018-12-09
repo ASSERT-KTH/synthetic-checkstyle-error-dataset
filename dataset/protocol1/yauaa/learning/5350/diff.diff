@@ -1,0 +1,4 @@
+53c53
+<         LOG.info("Validating when ONLY asking for {}", fields.toString());
+---
+>         LOG.info("Validating when ONLY asking for {}", fields.toString ());

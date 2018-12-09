@@ -1,0 +1,4 @@
+715c715
+<         userAgent.set(LAYOUT_ENGINE_VERSION,        "Hacker",           confidence);
+---
+>        userAgent.set(LAYOUT_ENGINE_VERSION,        "Hacker",           confidence);

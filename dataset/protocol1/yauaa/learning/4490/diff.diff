@@ -1,0 +1,5 @@
+131c131,132
+<                         "Yaml config.(" + filename + ":" + versionNode.getStartMark().getLine() + "): " +
+---
+>                         "Yaml config.(" + filename + 
+> ":" + versionNode.getStartMark().getLine() + "): " +

@@ -1,0 +1,4 @@
+129c129
+<         System.arraycopy(allElements, 0, newAllElements, 0, maxSize);
+---
+>         System.arraycopy(allElements, 0, newAllElements, 0,maxSize);

@@ -1,0 +1,4 @@
+90c90
+<             assertEquals("Wrong DeviceClass: "           + row.getField(0), row.getField(3), row.getField(1));
+---
+>             assertEquals("Wrong DeviceClass: "           + row.getField(0), 	row.getField(3), row.getField(1));

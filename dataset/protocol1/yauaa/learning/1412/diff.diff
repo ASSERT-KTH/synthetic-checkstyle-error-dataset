@@ -1,0 +1,5 @@
+72c72,73
+<         assertEquals("HTC",              Normalize.brand("hTc"));
+---
+>         assertEquals("HTC",              Normalize.
+> brand("hTc"));

@@ -1,0 +1,5 @@
+114,115c114
+<             switch (key) {
+<                 case "git_commit_id_describe_short":
+---
+>             switch (key) {                case "git_commit_id_describe_short":

@@ -1,0 +1,4 @@
+82c82
+<         setStringInVarCharHolder(TEST_INPUT, function.useragent);
+---
+>         setStringInVarCharHolder(TEST_INPUT, function. useragent);

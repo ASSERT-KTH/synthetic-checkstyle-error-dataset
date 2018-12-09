@@ -1,0 +1,4 @@
+99c99
+<         new MatchesList(1).containsAll(null);
+---
+>        new MatchesList(1).containsAll(null);

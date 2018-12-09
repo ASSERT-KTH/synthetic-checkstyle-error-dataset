@@ -1,0 +1,4 @@
+48c48
+<     protected ParserRuleContext parseWalkerExpression(UserAgentTreeWalkerParser parser) {
+---
+>    protected ParserRuleContext parseWalkerExpression(UserAgentTreeWalkerParser parser) {

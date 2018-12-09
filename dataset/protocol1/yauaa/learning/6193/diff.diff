@@ -1,0 +1,4 @@
+39c39
+<         if (brand.length() <= 3) {
+---
+>        if (brand.length() <= 3) {

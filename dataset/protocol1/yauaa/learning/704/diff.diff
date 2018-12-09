@@ -1,0 +1,4 @@
+48c48
+<         return "IsInSet(@" + listName + ")";
+---
+>         return "IsInSet(@" + listName 	+ ")";

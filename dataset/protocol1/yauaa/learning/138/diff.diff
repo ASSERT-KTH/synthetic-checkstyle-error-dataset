@@ -1,0 +1,4 @@
+48c48
+<         int lowerChars = 0;
+---
+>        int lowerChars = 0;

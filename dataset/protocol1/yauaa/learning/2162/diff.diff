@@ -1,0 +1,4 @@
+71c71
+<         return state.uaa.parse("Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)");
+---
+>        return state.uaa.parse("Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)");

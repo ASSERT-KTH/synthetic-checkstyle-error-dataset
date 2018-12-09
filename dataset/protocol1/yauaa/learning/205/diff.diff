@@ -1,0 +1,4 @@
+114c114
+<             deviceName = deviceName.replaceAll("(?i)^" + Pattern.quote(deviceBrand) + "([^ ].*)$", Matcher.quoteReplacement(deviceBrand)+" $1");
+---
+>             deviceName = deviceName.replaceAll("(?i)^" + Pattern.quote(deviceBrand) + "([^ ].*)$", Matcher.quoteReplacement( deviceBrand)+" $1");

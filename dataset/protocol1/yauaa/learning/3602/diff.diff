@@ -1,0 +1,5 @@
+26c26,27
+< import nl.basjes.parse.useragent.parser.UserAgentParser.EmptyWordContext;
+---
+> import nl.basjes.
+> parse.useragent.parser.UserAgentParser.EmptyWordContext;

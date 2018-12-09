@@ -1,0 +1,4 @@
+55c55
+<         c.output(userAgentAnalyzer.map(clone(c.element())));
+---
+>         c.output(userAgentAnalyzer.map(clone (c.element())));

@@ -1,0 +1,4 @@
+28c28
+<     public StepStartsWith(String desiredValue) {
+---
+>     public StepStartsWith(String 	desiredValue) {

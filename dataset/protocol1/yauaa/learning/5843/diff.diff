@@ -1,0 +1,4 @@
+50c50
+<             containsString("Unable to find ANY config files"));
+---
+>             containsString("Unable to find ANY config files" ));

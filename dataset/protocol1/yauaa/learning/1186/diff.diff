@@ -1,0 +1,4 @@
+63c63
+<         Iterator<? extends ParseTree> children = userAgentGetChildrenVisitor.visit(tree);
+---
+>         Iterator<? extends ParseTree> children = userAgentGetChildrenVisitor.visit(tree );

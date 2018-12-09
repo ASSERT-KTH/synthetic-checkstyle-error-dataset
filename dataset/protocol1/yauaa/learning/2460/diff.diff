@@ -1,0 +1,4 @@
+172c172
+<         flowfile.putAttributes(attributes);
+---
+>        flowfile.putAttributes(attributes);

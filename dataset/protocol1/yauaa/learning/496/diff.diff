@@ -1,0 +1,4 @@
+107c107
+<                             LOG.error("Found different value for \"{}\" with SAME confidence {}: \"{}\" and \"{}\"",
+---
+>                            LOG.error("Found different value for \"{}\" with SAME confidence {}: \"{}\" and \"{}\"",

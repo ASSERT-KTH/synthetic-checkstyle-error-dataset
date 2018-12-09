@@ -1,0 +1,5 @@
+58c58,59
+<             LOG.info("NEED  : VARIABLE ({}): {}", variableName, getMatchExpression());
+---
+>             LOG.info("NEED  : VARIABLE ({}): {}", variableName, getMatchExpression())
+> ;

@@ -1,0 +1,4 @@
+103c103
+<         assertEquals("Wrong result for 'ab\\t'",         "Result AB",       prefixLookup.findLongestMatchingPrefix("ab\t"));
+---
+>         assertEquals("Wrong result for 'ab\\t'" ,         "Result AB",       prefixLookup.findLongestMatchingPrefix("ab\t"));

@@ -1,0 +1,5 @@
+48,49c48
+<             filteredValue = WordSplitter.getInstance().getSplitRange(actualValue, firstWord, lastWord);
+<         }
+---
+>             filteredValue = WordSplitter.getInstance().getSplitRange(actualValue, firstWord, lastWord);        }

@@ -1,0 +1,4 @@
+46c46
+<         uaa.loadResources("classpath*:Versions/BadVersion.yaml");
+---
+>         uaa.loadResources( "classpath*:Versions/BadVersion.yaml");

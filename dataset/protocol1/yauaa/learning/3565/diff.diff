@@ -1,0 +1,4 @@
+27c27
+<     private static boolean isTokenSeparator(char letter) {
+---
+>    private static boolean isTokenSeparator(char letter) {

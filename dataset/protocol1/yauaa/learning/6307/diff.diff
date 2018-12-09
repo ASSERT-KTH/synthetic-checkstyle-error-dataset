@@ -1,0 +1,5 @@
+390c390,391
+<         inform(ctx, COMMENTS);
+---
+>         inform(ctx, COMMENTS
+> );

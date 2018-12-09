@@ -1,0 +1,5 @@
+93,94c93
+<         LOG.info("--------------------------------------------------------------");
+<         assertTrue(uaa.runTests(false, true, allFields, false, false));
+---
+>         LOG.info("--------------------------------------------------------------");        assertTrue(uaa.runTests(false, true, allFields, false, false));

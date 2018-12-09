@@ -1,0 +1,4 @@
+76c76
+<             String field = agent.getValue(fieldName);
+---
+>            String field = agent.getValue(fieldName);

@@ -1,0 +1,4 @@
+199c199
+<         TestMatcher matcher = new TestMatcher(new HashMap<>(), new HashMap<>());
+---
+>        TestMatcher matcher = new TestMatcher(new HashMap<>(), new HashMap<>());

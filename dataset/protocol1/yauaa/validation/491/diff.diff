@@ -1,0 +1,4 @@
+123c123
+<         assertEquals(expectedConfidence, agent.get(name).getConfidence());
+---
+>         assertEquals(expectedConfidence,agent.get(name).getConfidence());

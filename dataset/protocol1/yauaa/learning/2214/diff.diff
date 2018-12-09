@@ -1,0 +1,4 @@
+29c29
+< public class FlattenPrinter implements Analyzer {
+---
+> public class FlattenPrinter 	implements Analyzer {

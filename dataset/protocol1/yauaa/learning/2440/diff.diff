@@ -1,0 +1,5 @@
+115c115,116
+<             fieldObjectInspectors.add(PrimitiveObjectInspectorFactory.writableStringObjectInspector);
+---
+>             fieldObjectInspectors.add(
+> PrimitiveObjectInspectorFactory.writableStringObjectInspector);

@@ -1,0 +1,4 @@
+33c33
+<     public FlattenPrinter(PrintStream outputStream) {
+---
+>    public FlattenPrinter(PrintStream outputStream) {

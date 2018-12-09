@@ -1,0 +1,4 @@
+52c52
+<         assertNull(match2.getResult());
+---
+>        assertNull(match2.getResult());

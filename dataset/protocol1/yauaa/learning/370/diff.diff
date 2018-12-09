@@ -1,0 +1,4 @@
+86c86
+<                 ParDo.of(new MyUserAgentAnalysisDoFn()));
+---
+>                 ParDo.of(new MyUserAgentAnalysisDoFn ()));

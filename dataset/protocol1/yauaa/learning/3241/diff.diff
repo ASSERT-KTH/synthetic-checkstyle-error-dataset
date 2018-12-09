@@ -1,0 +1,4 @@
+105c105
+<                 tupleSchema.add(new Schema.FieldSchema(fieldName, DataType.CHARARRAY));
+---
+>                  tupleSchema.add(new Schema.FieldSchema(fieldName, DataType.CHARARRAY));

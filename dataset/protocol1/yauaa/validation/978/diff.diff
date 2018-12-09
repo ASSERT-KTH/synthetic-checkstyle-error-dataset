@@ -1,0 +1,4 @@
+35c35
+<         String uaString = "Foo Bar";
+---
+>        String uaString = "Foo Bar";

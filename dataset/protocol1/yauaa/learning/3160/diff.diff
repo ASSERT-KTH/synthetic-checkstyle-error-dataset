@@ -1,0 +1,4 @@
+170c170
+<     public UserAgent parse(String userAgentString) {
+---
+>     public UserAgent parse (String userAgentString) {

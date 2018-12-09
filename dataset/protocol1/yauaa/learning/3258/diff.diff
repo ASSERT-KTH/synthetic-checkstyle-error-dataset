@@ -1,0 +1,4 @@
+87c87
+<         setStringInVarCharHolder("AgentNameVersion", function.fieldName);
+---
+>        setStringInVarCharHolder("AgentNameVersion", function.fieldName);

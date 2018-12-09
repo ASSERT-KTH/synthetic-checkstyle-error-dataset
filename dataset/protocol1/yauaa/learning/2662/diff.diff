@@ -1,0 +1,4 @@
+58c58
+<         ParseTree nextTree = next(tree);
+---
+>         ParseTree nextTree 	= next(tree);

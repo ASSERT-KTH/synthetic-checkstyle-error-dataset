@@ -1,0 +1,4 @@
+150c150
+<             for (Method method : fieldSetter.getValue()) {
+---
+>            for (Method method : fieldSetter.getValue()) {

@@ -1,0 +1,4 @@
+53c53
+<         allFields = UserAgentAnalyzer.newBuilder().build().getAllPossibleFieldNamesSorted();
+---
+>         allFields = UserAgentAnalyzer.newBuilder().build().getAllPossibleFieldNamesSorted ();

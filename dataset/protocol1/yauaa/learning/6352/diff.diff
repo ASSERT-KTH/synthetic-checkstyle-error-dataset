@@ -1,0 +1,4 @@
+79c79
+<             .apply(ParDo.of(new TestDoFn()));
+---
+>             .apply(ParDo.of(new TestDoFn ()));

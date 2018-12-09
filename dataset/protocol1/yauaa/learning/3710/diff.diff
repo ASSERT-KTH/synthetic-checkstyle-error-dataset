@@ -1,0 +1,4 @@
+94c94
+<         assertEquals(agent, getCache(uaa).get(uuid));
+---
+>         assertEquals(agent, getCache(uaa).get( uuid));

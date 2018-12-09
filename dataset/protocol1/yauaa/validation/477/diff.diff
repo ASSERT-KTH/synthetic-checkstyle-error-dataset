@@ -1,0 +1,4 @@
+68c68
+<         checkPath(path, expectedHashEntries, expectedWalkList);
+---
+>         checkPath(path, 	expectedHashEntries, expectedWalkList);

@@ -1,0 +1,5 @@
+223,224c223
+<         assertEquals("{ value:'Two', confidence:'1', default:'Foo' }", field2.toString());
+<         assertEquals("{ value:'One', confidence:'2', default:'Foo' }", field3.toString());
+---
+>         assertEquals("{ value:'Two', confidence:'1', default:'Foo' }", field2.toString());        assertEquals("{ value:'One', confidence:'2', default:'Foo' }", field3.toString());

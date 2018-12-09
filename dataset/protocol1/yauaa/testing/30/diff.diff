@@ -1,0 +1,4 @@
+27c27
+< import org.apache.nifi.annotation.documentation.CapabilityDescription;
+---
+> import org.apache.nifi.annotation.documentation. CapabilityDescription;

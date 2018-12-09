@@ -1,0 +1,4 @@
+68c68
+<         return walkNextStep(prevTree, null);
+---
+>         return walkNextStep(prevTree, null );

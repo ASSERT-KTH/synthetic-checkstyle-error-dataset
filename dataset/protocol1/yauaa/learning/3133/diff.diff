@@ -1,0 +1,4 @@
+247c247
+<         public Void visitStepEndsWithValue(StepEndsWithValueContext ctx) {
+---
+>         public Void visitStepEndsWithValue (StepEndsWithValueContext ctx) {

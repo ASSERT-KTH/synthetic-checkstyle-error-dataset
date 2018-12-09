@@ -1,0 +1,5 @@
+29c29,30
+<     void informMeAbout(MatcherAction matcherAction, String keyPattern);
+---
+>     void informMeAbout(
+> MatcherAction matcherAction, String keyPattern);

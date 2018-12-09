@@ -1,0 +1,4 @@
+84c84
+<         verifyDeviceClass(Tablet,                true,   true,  true, false);
+---
+>         verifyDeviceClass(Tablet,                true,   	true,  true, false);

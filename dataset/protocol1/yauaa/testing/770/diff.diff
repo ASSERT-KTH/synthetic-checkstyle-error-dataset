@@ -1,0 +1,5 @@
+52,53c52
+<                 childNodes = new PrefixLookup.PrefixTrie[128];
+<             }
+---
+>                 childNodes = new PrefixLookup.PrefixTrie[128];            }

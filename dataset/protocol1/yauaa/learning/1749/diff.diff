@@ -1,0 +1,4 @@
+325c325
+<         assertEquals("3 four",                 splitter.getSplitRange(value, 3, 4));
+---
+>         assertEquals("3 four",                 splitter	.getSplitRange(value, 3, 4));

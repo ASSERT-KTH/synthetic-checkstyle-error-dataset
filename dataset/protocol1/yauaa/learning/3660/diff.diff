@@ -1,0 +1,4 @@
+102c102
+<         assertEquals(4567, userAgentAnnotationAnalyzer.getCacheSize());
+---
+>         assertEquals(4567, userAgentAnnotationAnalyzer.getCacheSize ());

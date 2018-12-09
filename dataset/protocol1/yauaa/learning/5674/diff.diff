@@ -1,0 +1,4 @@
+87c87
+<         checkResult(data, schema, "AgentNameVersionMajor",            "Chrome 48"             );
+---
+>        checkResult(data, schema, "AgentNameVersionMajor",            "Chrome 48"             );

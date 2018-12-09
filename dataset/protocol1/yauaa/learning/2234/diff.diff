@@ -1,0 +1,4 @@
+20c20
+< import org.apache.hadoop.hive.ql.metadata.HiveException;
+---
+> import org.apache.hadoop.hive.ql	.metadata.HiveException;

@@ -1,0 +1,4 @@
+57c57
+<                 if (childNodes[myChar] == null) {
+---
+>                 if (childNodes[myChar	] == null) {

@@ -1,0 +1,4 @@
+78c78
+<     public static NumberRangeList getList(NumberRangeContext ctx) {
+---
+>    public static NumberRangeList getList(NumberRangeContext ctx) {

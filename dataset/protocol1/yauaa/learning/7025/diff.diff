@@ -1,0 +1,5 @@
+270,271c270
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "OperatingSystemClass"            );
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "LayoutEngineClass"               );
+---
+>         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "OperatingSystemClass"            );        result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "LayoutEngineClass"               );

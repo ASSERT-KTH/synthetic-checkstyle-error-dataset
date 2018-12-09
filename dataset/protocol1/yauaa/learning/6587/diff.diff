@@ -1,0 +1,5 @@
+40,41c40
+<     public int findNextSplitStart(char[] chars, int offset) {
+<         for (int charNr = offset; charNr<chars.length; charNr++) {
+---
+>     public int findNextSplitStart(char[] chars, int offset) {        for (int charNr = offset; charNr<chars.length; charNr++) {

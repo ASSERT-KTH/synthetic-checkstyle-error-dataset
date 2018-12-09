@@ -1,0 +1,5 @@
+63c63,64
+<         assertEquals("Unknown", userAgent.getValue("Combined4"));
+---
+>         assertEquals("Unknown", userAgent.
+> getValue("Combined4"));

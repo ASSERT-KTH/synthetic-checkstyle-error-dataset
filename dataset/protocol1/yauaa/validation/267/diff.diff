@@ -1,0 +1,4 @@
+159c159
+<         UserAgent agent1 = new UserAgent("Something 1");
+---
+>        UserAgent agent1 = new UserAgent("Something 1");

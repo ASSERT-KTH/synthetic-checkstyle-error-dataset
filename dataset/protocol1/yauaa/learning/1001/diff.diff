@@ -1,0 +1,5 @@
+26c26,27
+< import org.apache.drill.exec.expr.holders.NullableVarCharHolder;
+---
+> import org
+> .apache.drill.exec.expr.holders.NullableVarCharHolder;

@@ -1,0 +1,4 @@
+59c59
+<         assertEquals(0, getAllocatedCacheSize(uaa));
+---
+>        assertEquals(0, getAllocatedCacheSize(uaa));

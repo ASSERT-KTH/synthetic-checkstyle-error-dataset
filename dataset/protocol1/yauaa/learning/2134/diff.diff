@@ -1,0 +1,4 @@
+79c79
+<         expectedEx.expectMessage(allOf(startsWith("Trying to load "), endsWith(" resources for the second time")));
+---
+>         expectedEx.expectMessage(allOf(startsWith("Trying to load "),endsWith(" resources for the second time")));

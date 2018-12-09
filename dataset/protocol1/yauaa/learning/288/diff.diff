@@ -1,0 +1,4 @@
+545c545
+<                 if (field != null && field.confidence >= 0 && field.getValue() != null) {
+---
+>                if (field != null && field.confidence >= 0 && field.getValue() != null) {

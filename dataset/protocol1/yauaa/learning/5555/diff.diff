@@ -1,0 +1,5 @@
+114c114,115
+<         Assert.assertTrue(uaa.runTests(false, false));
+---
+>         Assert
+> .assertTrue(uaa.runTests(false, false));

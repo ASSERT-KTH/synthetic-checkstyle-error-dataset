@@ -1,0 +1,4 @@
+215c215
+<             this.confidence = newConfidence;
+---
+>            this.confidence = newConfidence;

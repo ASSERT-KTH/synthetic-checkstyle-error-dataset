@@ -1,0 +1,4 @@
+134c134
+<                         String variableName = configParts[0].trim();
+---
+>                        String variableName = configParts[0].trim();

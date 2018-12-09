@@ -1,0 +1,5 @@
+121c121,122
+<     public Object evaluate(DeferredObject[] args) throws HiveException {
+---
+>     
+> public Object evaluate(DeferredObject[] args) throws HiveException {

@@ -1,0 +1,5 @@
+60c60,61
+<         assertEquals(min1, parsedAgent.getConfidence("LayoutEngineClass"            )); // Browser
+---
+>         assertEquals(
+> min1, parsedAgent.getConfidence("LayoutEngineClass"            )); // Browser

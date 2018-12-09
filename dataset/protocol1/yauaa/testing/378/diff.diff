@@ -1,0 +1,5 @@
+93c93,94
+<         pipeline.run().waitUntilFinish();
+---
+>         pipeline.run
+> ().waitUntilFinish();

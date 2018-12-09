@@ -1,0 +1,4 @@
+49c49
+<             case ')': // EndOfString marker
+---
+>            case ')': // EndOfString marker

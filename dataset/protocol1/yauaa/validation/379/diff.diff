@@ -1,0 +1,5 @@
+23c23,24
+< import nl.basjes.parse.useragent.analyze.treewalker.steps.WalkList;
+---
+> import nl.basjes.parse.useragent.analyze.treewalker.steps
+> .WalkList;

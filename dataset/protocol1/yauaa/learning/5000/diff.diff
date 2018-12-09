@@ -1,0 +1,4 @@
+599c599
+<         PRE_SORTED_FIELDS_LIST.add("WebviewAppVersionMajor");
+---
+>          PRE_SORTED_FIELDS_LIST.add("WebviewAppVersionMajor");

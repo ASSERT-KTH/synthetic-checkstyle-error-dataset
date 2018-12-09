@@ -1,0 +1,5 @@
+33c33,34
+<     public TestRecord(String useragent, String deviceClass, String agentNameVersion, String shouldRemainNull) {
+---
+>     public TestRecord(
+> String useragent, String deviceClass, String agentNameVersion, String shouldRemainNull) {

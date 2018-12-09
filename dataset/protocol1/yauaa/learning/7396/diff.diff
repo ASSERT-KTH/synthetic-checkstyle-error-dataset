@@ -1,0 +1,5 @@
+61c61,62
+<         UserAgentAnalyzerTester uaa = UserAgentAnalyzerTester.newBuilder().withField("DeviceName").build();
+---
+>         UserAgentAnalyzerTester uaa = UserAgentAnalyzerTester.newBuilder().withField("DeviceName")
+> .build();

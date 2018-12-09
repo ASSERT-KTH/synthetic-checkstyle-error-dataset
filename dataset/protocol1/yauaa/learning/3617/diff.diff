@@ -1,0 +1,4 @@
+70c70
+<             LOG.info("NEED  : EXTRACT ({}): {}", attribute, getMatchExpression());
+---
+>             LOG.info("NEED  : EXTRACT ({}): {}", attribute, getMatchExpression() );

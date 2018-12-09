@@ -1,0 +1,4 @@
+21c21
+<     String getUserAgentString(T record);
+---
+>     String getUserAgentString(T record) ;

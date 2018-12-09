@@ -1,0 +1,4 @@
+28c28
+< import org.apache.pig.impl.logicalLayer.schema.Schema;
+---
+> import org.apache.pig. impl.logicalLayer.schema.Schema;

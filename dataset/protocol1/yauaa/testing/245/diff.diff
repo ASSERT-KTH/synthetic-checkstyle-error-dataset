@@ -1,0 +1,5 @@
+21c21,22
+< import java.lang.annotation.Retention;
+---
+> import java.lang.annotation.Retention
+> ;

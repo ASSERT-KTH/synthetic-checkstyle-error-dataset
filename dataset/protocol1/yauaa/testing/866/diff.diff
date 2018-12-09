@@ -1,0 +1,5 @@
+35c35,36
+< import org.apache.nifi.processor.ProcessorInitializationContext;
+---
+> import org.apache.nifi.processor.
+> ProcessorInitializationContext;

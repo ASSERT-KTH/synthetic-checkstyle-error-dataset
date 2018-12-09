@@ -1,0 +1,4 @@
+26c26
+< public class MatcherRequireAction extends MatcherAction {
+---
+> public class 	MatcherRequireAction extends MatcherAction {

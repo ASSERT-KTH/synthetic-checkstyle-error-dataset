@@ -1,0 +1,5 @@
+56c56,57
+<         assertEquals(null,       splitter.getSingleSplit(value, 0));
+---
+>         assertEquals(null,       splitter.
+> getSingleSplit(value, 0));

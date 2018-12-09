@@ -1,0 +1,4 @@
+57c57
+<         uaa = nl.basjes.parse.useragent.drill.UserAgentAnalyzerPreLoader.getInstance();
+---
+>         uaa = nl.basjes.parse.useragent. drill.UserAgentAnalyzerPreLoader.getInstance();

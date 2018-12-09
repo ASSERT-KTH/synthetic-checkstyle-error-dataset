@@ -1,0 +1,4 @@
+109c109
+<         MyMapper mapper = new MyMapper();
+---
+>        MyMapper mapper = new MyMapper();

@@ -1,0 +1,4 @@
+219c219
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "HackerToolkit"                   );
+---
+>          result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "HackerToolkit"                   );

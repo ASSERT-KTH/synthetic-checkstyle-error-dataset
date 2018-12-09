@@ -1,0 +1,4 @@
+246c246
+<         Set<MatcherAction> seenVariables = new HashSet<>(variableActions.size());
+---
+>          Set<MatcherAction> seenVariables = new HashSet<>(variableActions.size());

@@ -1,0 +1,5 @@
+263c263,264
+<             String hashValue = matchValue.substring(0, Math.min(MAX_PREFIX_HASH_MATCH, matchValue.length()));
+---
+>             String hashValue = matchValue.substring(0, Math.min(MAX_PREFIX_HASH_MATCH, matchValue.length())
+> );

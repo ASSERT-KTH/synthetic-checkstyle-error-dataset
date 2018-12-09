@@ -1,0 +1,5 @@
+52,53c52
+<         }
+<         return walkNextStep(tree, filteredValue);
+---
+>         }        return walkNextStep(tree, filteredValue);

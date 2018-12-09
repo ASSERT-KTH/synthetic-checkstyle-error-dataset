@@ -1,0 +1,4 @@
+94c94
+<         assertFalse(new MatchesList(1).contains(null));
+---
+>        assertFalse(new MatchesList(1).contains(null));

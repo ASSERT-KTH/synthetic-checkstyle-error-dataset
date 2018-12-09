@@ -1,0 +1,4 @@
+129c129
+<     public static class TooManyParameters extends MyBaseMapper {
+---
+>     public static class 	TooManyParameters extends MyBaseMapper {

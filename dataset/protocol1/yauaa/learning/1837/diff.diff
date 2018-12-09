@@ -1,0 +1,4 @@
+39c39
+<             children = new ParseTree[SIZE];
+---
+>            children = new ParseTree[SIZE];

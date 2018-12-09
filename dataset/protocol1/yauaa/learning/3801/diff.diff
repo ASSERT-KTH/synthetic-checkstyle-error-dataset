@@ -1,0 +1,5 @@
+33,34c33
+< import static nl.basjes.parse.useragent.UserAgentAnalyzerDirect.firstCharactersForPrefixHash;
+< import static org.junit.Assert.assertEquals;
+---
+> import static nl.basjes.parse.useragent.UserAgentAnalyzerDirect.firstCharactersForPrefixHash;import static org.junit.Assert.assertEquals;

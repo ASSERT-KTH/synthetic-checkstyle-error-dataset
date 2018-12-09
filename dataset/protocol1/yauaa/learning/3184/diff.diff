@@ -1,0 +1,5 @@
+32c32,33
+<         ChildIterable ci = new ChildIterable(true, 1, 5, x -> (true));
+---
+>         ChildIterable ci = new ChildIterable(
+> true, 1, 5, x -> (true));

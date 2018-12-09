@@ -1,0 +1,4 @@
+70c70
+<     public UserAgent googlebot(ThreadState state) {
+---
+>     public 	UserAgent googlebot(ThreadState state) {

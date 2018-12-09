@@ -1,0 +1,4 @@
+167c167
+<     public void checkSyntaxErrorExtract2() {
+---
+>     public void 	checkSyntaxErrorExtract2() {

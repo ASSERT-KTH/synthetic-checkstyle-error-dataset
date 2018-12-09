@@ -1,0 +1,5 @@
+159c159,160
+<                             configLines.add(new ConfigLine(EXTRACT, attribute, confidence, config));
+---
+>                             configLines.
+> add(new ConfigLine(EXTRACT, attribute, confidence, config));

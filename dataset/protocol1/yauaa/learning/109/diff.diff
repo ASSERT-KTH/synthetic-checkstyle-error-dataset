@@ -1,0 +1,4 @@
+104c104
+<         deviceName = deviceName.replaceAll("- +", "-");
+---
+>         deviceName = deviceName.replaceAll("- +", "-" );

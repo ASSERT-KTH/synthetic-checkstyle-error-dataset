@@ -1,0 +1,4 @@
+33c33
+< import static nl.basjes.parse.useragent.classify.DeviceClass.Spy;
+---
+> import static 	nl.basjes.parse.useragent.classify.DeviceClass.Spy;

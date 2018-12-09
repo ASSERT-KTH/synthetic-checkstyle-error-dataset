@@ -1,0 +1,4 @@
+124c124
+<             UserAgentAnalyzerBuilder<? extends UserAgentAnalyzer, ? extends UserAgentAnalyzerBuilder> builder =
+---
+>             UserAgentAnalyzerBuilder<	? extends UserAgentAnalyzer, ? extends UserAgentAnalyzerBuilder> builder =

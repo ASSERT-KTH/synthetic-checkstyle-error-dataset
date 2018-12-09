@@ -1,0 +1,4 @@
+145c145
+<         AgentField copyFoo = new AgentField(null); // Different default!
+---
+>         AgentField copyFoo = 	new AgentField(null); // Different default!

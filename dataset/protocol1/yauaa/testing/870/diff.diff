@@ -1,0 +1,5 @@
+161c161,162
+<                 String fieldValue = userAgent.getValue(fieldName);
+---
+>                 String fieldValue = userAgent.
+> getValue(fieldName);

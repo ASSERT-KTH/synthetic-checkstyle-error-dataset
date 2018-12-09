@@ -1,0 +1,4 @@
+32c32
+<         int stopIndex = ctx.stop.getStopIndex();
+---
+>          int stopIndex = ctx.stop.getStopIndex();

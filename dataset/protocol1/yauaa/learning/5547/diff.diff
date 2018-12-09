@@ -1,0 +1,4 @@
+38c38
+< import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.StepWordRangeContext;
+---
+> import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser	.StepWordRangeContext;

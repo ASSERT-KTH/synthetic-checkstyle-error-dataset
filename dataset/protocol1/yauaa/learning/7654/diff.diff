@@ -1,0 +1,4 @@
+35c35
+<     private final String logfile = getClass().getResource("/access.log").toString();
+---
+>      private final String logfile = getClass().getResource("/access.log").toString();

@@ -1,0 +1,5 @@
+20c20,21
+< import nl.basjes.parse.useragent.annotate.YauaaField;
+---
+> import nl.basjes.parse.useragent.annotate.YauaaField
+> ;

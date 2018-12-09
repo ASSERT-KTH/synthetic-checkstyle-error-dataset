@@ -1,0 +1,5 @@
+29,30c29
+< import static org.apache.pig.builtin.mock.Storage.tuple;
+< import static org.junit.Assert.assertEquals;
+---
+> import static org.apache.pig.builtin.mock.Storage.tuple;import static org.junit.Assert.assertEquals;

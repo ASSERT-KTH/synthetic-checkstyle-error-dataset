@@ -1,0 +1,4 @@
+127c127
+<         nullableVarCharHolder.end = bytes.length;
+---
+>        nullableVarCharHolder.end = bytes.length;

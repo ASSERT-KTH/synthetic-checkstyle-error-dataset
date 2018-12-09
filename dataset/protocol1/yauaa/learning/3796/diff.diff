@@ -1,0 +1,4 @@
+39c39
+<     public UserAgentAnalysisMapper(int cacheSize) {
+---
+>     public 	UserAgentAnalysisMapper(int cacheSize) {

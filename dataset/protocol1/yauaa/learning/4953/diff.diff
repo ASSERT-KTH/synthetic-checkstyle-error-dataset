@@ -1,0 +1,4 @@
+84c84
+<         new MatchesList(1).removeAll(null);
+---
+>         new MatchesList(1).removeAll(null );

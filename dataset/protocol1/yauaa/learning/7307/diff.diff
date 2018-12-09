@@ -1,0 +1,4 @@
+295c295
+<         TestMatcher matcher = new TestMatcher(lookups, new HashMap<>());
+---
+>         TestMatcher matcher = new TestMatcher (lookups, new HashMap<>());

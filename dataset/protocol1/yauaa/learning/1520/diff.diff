@@ -1,0 +1,4 @@
+88c88
+<     public TypeInformation<?> getResultType(Class<?>[] bla) {
+---
+>     public TypeInformation<?> getResultType(Class<?	>[] bla) {

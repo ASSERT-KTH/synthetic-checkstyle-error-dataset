@@ -1,0 +1,4 @@
+26c26
+<     private UserAgent createUserAgent() {
+---
+>     private UserAgent 	createUserAgent() {

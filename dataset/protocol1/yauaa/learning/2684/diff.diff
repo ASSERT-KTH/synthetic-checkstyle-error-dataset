@@ -1,0 +1,4 @@
+105c105
+<     public UserAgent iPad(ThreadState state) {
+---
+>     	public UserAgent iPad(ThreadState state) {

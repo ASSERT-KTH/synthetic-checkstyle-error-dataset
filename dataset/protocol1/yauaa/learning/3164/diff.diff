@@ -1,0 +1,5 @@
+98c98,99
+<         assertEquals("support@safedns.com",                        Normalize.email("support [at] safedns [dot] com"));
+---
+>         assertEquals("support@safedns.com",                        Normalize.email("support [at] safedns [dot] com"
+> ));

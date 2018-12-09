@@ -1,0 +1,4 @@
+28c28
+<     private LRUMap<String, UserAgent> parseCache = null;
+---
+>    private LRUMap<String, UserAgent> parseCache = null;

@@ -1,0 +1,4 @@
+74c74
+<         requireNodeInstanceOf(MappingNode.class, valueNode, filename,
+---
+>        requireNodeInstanceOf(MappingNode.class, valueNode, filename,

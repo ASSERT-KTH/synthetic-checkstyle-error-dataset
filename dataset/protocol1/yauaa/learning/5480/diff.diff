@@ -1,0 +1,4 @@
+40c40
+<     private final List<String> requestedFields = new ArrayList<>(32);
+---
+>     private final List	<String> requestedFields = new ArrayList<>(32);

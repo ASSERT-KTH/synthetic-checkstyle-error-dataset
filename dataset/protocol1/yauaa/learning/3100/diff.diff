@@ -1,0 +1,4 @@
+114c114
+<         final StringBuilder result = new StringBuilder(input.length()+32);
+---
+>         final StringBuilder result = new StringBuilder(input. length()+32);

@@ -1,0 +1,5 @@
+22c22,23
+< import org.apache.hadoop.hive.ql.udf.generic.GenericUDF.DeferredJavaObject;
+---
+> import org.apache.hadoop.hive.ql.udf.generic.
+> GenericUDF.DeferredJavaObject;

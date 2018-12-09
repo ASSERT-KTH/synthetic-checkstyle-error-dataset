@@ -1,0 +1,4 @@
+162c162
+<             "classpath*:BadDefinitions/SyntaxErrorExtract1.yaml",
+---
+>            "classpath*:BadDefinitions/SyntaxErrorExtract1.yaml",

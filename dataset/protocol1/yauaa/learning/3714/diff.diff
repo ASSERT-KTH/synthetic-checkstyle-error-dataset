@@ -1,0 +1,4 @@
+350c350
+<         List<Pair<Integer, Integer>> splitList = splitter.createSplitList(value);
+---
+>         List	<Pair<Integer, Integer>> splitList = splitter.createSplitList(value);

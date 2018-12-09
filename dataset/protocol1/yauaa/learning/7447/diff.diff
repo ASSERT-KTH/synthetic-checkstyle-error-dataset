@@ -1,0 +1,4 @@
+59c59
+<         assertTrue("Wrong explanation", parseUserAgent.getDisplayString(null).contains("UserAgent"));
+---
+>        assertTrue("Wrong explanation", parseUserAgent.getDisplayString(null).contains("UserAgent"));

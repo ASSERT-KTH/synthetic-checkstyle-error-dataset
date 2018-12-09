@@ -1,0 +1,4 @@
+139c139
+<         assertPossible(possible, "STRING:request.user-agent.last.operating_system_version");
+---
+>         assertPossible( possible, "STRING:request.user-agent.last.operating_system_version");

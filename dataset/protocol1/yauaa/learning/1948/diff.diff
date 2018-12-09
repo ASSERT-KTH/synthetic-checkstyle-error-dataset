@@ -1,0 +1,5 @@
+104,105c104
+<         userAgent.set(DEVICE_CLASS, deviceClass.getValue(), 1);
+<         assertEquals("For the DeviceClass " + deviceClass.toString() + " the isHuman() was incorrect.",
+---
+>         userAgent.set(DEVICE_CLASS, deviceClass.getValue(), 1);        assertEquals("For the DeviceClass " + deviceClass.toString() + " the isHuman() was incorrect.",

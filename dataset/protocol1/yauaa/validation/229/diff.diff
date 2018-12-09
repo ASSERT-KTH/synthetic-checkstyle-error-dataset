@@ -1,0 +1,5 @@
+54,55c54
+<             "There must be exactly 1 value in the list");
+<         return nodeTupleList.get(0);
+---
+>             "There must be exactly 1 value in the list");        return nodeTupleList.get(0);

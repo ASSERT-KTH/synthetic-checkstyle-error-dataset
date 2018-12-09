@@ -1,0 +1,4 @@
+29c29
+<         userAgent.setForced("Zero", "Zero", 0);
+---
+>        userAgent.setForced("Zero", "Zero", 0);

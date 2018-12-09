@@ -1,0 +1,5 @@
+144c144,145
+<         origFoo.setValue("Two", 2);
+---
+>         origFoo.
+> setValue("Two", 2);

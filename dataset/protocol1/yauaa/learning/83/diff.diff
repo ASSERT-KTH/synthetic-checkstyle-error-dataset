@@ -1,0 +1,4 @@
+92c92
+<                         throw new InvalidParserConfigurationException("The class " + classOfT.getCanonicalName() + " is not public.");
+---
+>                        throw new InvalidParserConfigurationException("The class " + classOfT.getCanonicalName() + " is not public.");

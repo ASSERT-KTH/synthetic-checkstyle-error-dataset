@@ -1,0 +1,5 @@
+105c105,106
+<         public WalkResult(ParseTree tree, String value) {
+---
+>         public WalkResult(ParseTree tree, String value
+> ) {

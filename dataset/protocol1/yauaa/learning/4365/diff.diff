@@ -1,0 +1,5 @@
+128c128,129
+<         expectedEx.expectMessage("Method annotated with YauaaField is not public: inaccessibleSetter");
+---
+>         expectedEx.expectMessage(
+> "Method annotated with YauaaField is not public: inaccessibleSetter");

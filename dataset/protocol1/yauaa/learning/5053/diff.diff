@@ -1,0 +1,4 @@
+73c73
+< import static nl.basjes.parse.useragent.UserAgent.OPERATING_SYSTEM_CLASS;
+---
+> import static nl.basjes.parse.useragent	.UserAgent.OPERATING_SYSTEM_CLASS;

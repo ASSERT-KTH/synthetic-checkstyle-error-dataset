@@ -1,0 +1,5 @@
+72c72,73
+<     public static boolean isNormalConsumerDevice(UserAgent userAgent) {
+---
+>     public static boolean isNormalConsumerDevice(UserAgent userAgent
+> ) {

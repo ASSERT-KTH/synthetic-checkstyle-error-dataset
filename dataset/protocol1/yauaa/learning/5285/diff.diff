@@ -1,0 +1,4 @@
+119c119
+<             "classpath*:BadDefinitions/FixedStringLookupMissing.yaml",
+---
+>            "classpath*:BadDefinitions/FixedStringLookupMissing.yaml",

@@ -1,0 +1,5 @@
+22c22,23
+< import org.yaml.snakeyaml.nodes.Node;
+---
+> import org.yaml.snakeyaml.nodes.
+> Node;

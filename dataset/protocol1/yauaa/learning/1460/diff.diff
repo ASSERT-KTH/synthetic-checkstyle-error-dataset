@@ -1,0 +1,5 @@
+77c77,78
+<     private static final WordRangeVisitor WORD_RANGE_VISITOR = new WordRangeVisitor();
+---
+>     private static final WordRangeVisitor WORD_RANGE_VISITOR = new WordRangeVisitor(
+> );

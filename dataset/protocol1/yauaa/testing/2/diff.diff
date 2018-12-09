@@ -1,0 +1,5 @@
+155c155,156
+<     public boolean addAll(Collection<? extends Match> collection) {
+---
+>     public boolean addAll(Collection<? extends Match
+> > collection) {

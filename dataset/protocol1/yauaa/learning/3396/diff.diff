@@ -1,0 +1,5 @@
+117,118c117
+<                     clazz instanceof ProductNameContext));
+<                 break;
+---
+>                     clazz instanceof ProductNameContext));                break;

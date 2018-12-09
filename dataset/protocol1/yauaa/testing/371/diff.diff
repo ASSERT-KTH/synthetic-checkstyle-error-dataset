@@ -1,0 +1,5 @@
+131c131,132
+<             newAllElements[i] = new Match(null, null, null);
+---
+>             newAllElements[i] = new Match(null, null
+> , null);

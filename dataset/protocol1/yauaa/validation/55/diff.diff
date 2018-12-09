@@ -1,0 +1,4 @@
+96c96
+<         agent.setForced(name, "Four", 4); // Should be used
+---
+>        agent.setForced(name, "Four", 4); // Should be used

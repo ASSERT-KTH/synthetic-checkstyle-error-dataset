@@ -1,0 +1,4 @@
+26c26
+<     private static final int SIZE = 20;
+---
+>     private 	static final int SIZE = 20;

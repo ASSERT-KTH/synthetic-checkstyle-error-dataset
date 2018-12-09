@@ -1,0 +1,4 @@
+89c89
+<         record = mapper.enrich(record);
+---
+>         record = mapper.enrich(record) ;

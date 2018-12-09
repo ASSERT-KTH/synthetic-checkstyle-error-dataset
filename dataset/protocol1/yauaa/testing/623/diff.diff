@@ -1,0 +1,4 @@
+85c85
+<         expectedRecord1.agentNameVersion = "Chrome 48.0.2564.82";
+---
+>         expectedRecord1.agentNameVersion 	= "Chrome 48.0.2564.82";

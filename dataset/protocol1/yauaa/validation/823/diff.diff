@@ -1,0 +1,5 @@
+27c27,28
+< import org.junit.Rule;
+---
+> import org.junit
+> .Rule;

@@ -1,0 +1,4 @@
+61c61
+<         Storage.Data data = resetData(pigServer);
+---
+>        Storage.Data data = resetData(pigServer);

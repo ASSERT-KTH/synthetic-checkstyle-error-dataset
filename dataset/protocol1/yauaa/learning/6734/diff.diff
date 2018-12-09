@@ -1,0 +1,4 @@
+89c89
+<         runner.setProperty(PROPERTY_PREFIX + "KoboAffiliate",                    "true");
+---
+>         runner.setProperty(	PROPERTY_PREFIX + "KoboAffiliate",                    "true");

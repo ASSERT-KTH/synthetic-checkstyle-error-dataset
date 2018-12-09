@@ -1,0 +1,4 @@
+65c65
+<                 sb.append(thisChar);
+---
+>                sb.append(thisChar);

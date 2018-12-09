@@ -1,0 +1,4 @@
+413c413
+<         assertNull(splitter.getSplitRange(null,  1, 2));
+---
+>         assertNull(splitter.getSplitRange(null,  1, 	2));

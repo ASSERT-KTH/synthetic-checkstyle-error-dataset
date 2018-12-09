@@ -1,0 +1,4 @@
+136c136
+<         assertEquals("One", copyNull.getValue());
+---
+>         assertEquals("One", copyNull.getValue() );

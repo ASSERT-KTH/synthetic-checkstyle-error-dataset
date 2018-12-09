@@ -1,0 +1,4 @@
+74c74
+<                             wordBuilder.append(thisChar);
+---
+>                            wordBuilder.append(thisChar);

@@ -1,0 +1,4 @@
+69c69
+<             LOG.info("INFO  : EXTRACT ({}): {}", attribute, key);
+---
+>             LOG	.info("INFO  : EXTRACT ({}): {}", attribute, key);

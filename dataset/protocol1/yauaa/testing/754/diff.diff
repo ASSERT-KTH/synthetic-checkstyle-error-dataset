@@ -1,0 +1,5 @@
+101,102c101
+<         return new Iterator<Match>() {
+<             int offset = 0;
+---
+>         return new Iterator<Match>() {            int offset = 0;

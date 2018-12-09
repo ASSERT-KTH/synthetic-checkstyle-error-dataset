@@ -1,0 +1,4 @@
+111c111
+<                         receivedValues.put(partialField.getConfidence(), partialField.getValue());
+---
+>                         receivedValues.put(partialField.getConfidence(), partialField.getValue() );

@@ -1,0 +1,5 @@
+148c148,149
+<         assertEquals("Two", copyFoo.getValue());
+---
+>         assertEquals("Two", copyFoo
+> .getValue());

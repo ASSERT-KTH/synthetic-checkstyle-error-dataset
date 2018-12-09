@@ -1,0 +1,4 @@
+227c227
+<             UserAgentAnalyzer.newBuilder().delayInitialization().withField("DeviceClass");
+---
+>             UserAgentAnalyzer.newBuilder().delayInitialization().withField(	"DeviceClass");

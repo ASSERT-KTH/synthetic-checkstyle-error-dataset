@@ -1,0 +1,5 @@
+112c112,113
+<         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:AllPossibleSteps.yaml");
+---
+>         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester(
+> "classpath*:AllPossibleSteps.yaml");

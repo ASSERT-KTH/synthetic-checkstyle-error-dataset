@@ -1,0 +1,4 @@
+99c99
+<         assertEquals(EXPECTED_AGENT_NAME_VERSION, StringFunctionHelpers.getStringFromVarCharHolder(function.value));
+---
+>        assertEquals(EXPECTED_AGENT_NAME_VERSION, StringFunctionHelpers.getStringFromVarCharHolder(function.value));

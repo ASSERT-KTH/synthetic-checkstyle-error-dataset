@@ -1,0 +1,5 @@
+72c72,73
+<         result = 31 * result + (agentNameVersion != null ? agentNameVersion.hashCode() : 0);
+---
+>         result = 31 * result + (agentNameVersion != null ? agentNameVersion.hashCode() : 0
+> );

@@ -1,0 +1,4 @@
+63c63
+<         pigServer.registerQuery("STORE Clicks INTO 'Clicks' USING mock.Storage();");
+---
+>         pigServer. registerQuery("STORE Clicks INTO 'Clicks' USING mock.Storage();");

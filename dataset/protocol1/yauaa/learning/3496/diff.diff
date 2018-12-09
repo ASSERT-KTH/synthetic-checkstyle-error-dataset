@@ -1,0 +1,4 @@
+38c38
+< public class TestUserAgentAnalysisDoFnClass implements Serializable {
+---
+> public 	class TestUserAgentAnalysisDoFnClass implements Serializable {

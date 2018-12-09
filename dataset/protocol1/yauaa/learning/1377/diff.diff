@@ -1,0 +1,5 @@
+89c89,90
+<         UserAgentAnalyzer userAgentAnalyzer = (UserAgentAnalyzer)userAgentAnalyzerField.get(userAgentAnnotationAnalyzer);
+---
+>         UserAgentAnalyzer userAgentAnalyzer = (UserAgentAnalyzer)userAgentAnalyzerField.get(
+> userAgentAnnotationAnalyzer);

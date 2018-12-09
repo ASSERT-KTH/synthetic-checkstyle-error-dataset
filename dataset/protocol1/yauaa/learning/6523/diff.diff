@@ -1,0 +1,4 @@
+35c35
+< import static nl.basjes.parse.useragent.classify.DeviceClass.Tablet;
+---
+> import 	static nl.basjes.parse.useragent.classify.DeviceClass.Tablet;

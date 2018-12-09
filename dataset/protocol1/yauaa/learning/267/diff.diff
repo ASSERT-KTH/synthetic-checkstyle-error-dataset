@@ -1,0 +1,4 @@
+36c36
+< import static nl.basjes.parse.useragent.UserAgent.SET_ALL_FIELDS;
+---
+> import static nl.basjes.parse.useragent.UserAgent	.SET_ALL_FIELDS;

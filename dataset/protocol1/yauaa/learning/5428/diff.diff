@@ -1,0 +1,4 @@
+96c96
+<                 LOG.info("Set parsevalue ({})[{}]: {}", attribute, confidence, foundValue);
+---
+>                 LOG. info("Set parsevalue ({})[{}]: {}", attribute, confidence, foundValue);

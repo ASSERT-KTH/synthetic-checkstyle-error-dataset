@@ -1,0 +1,5 @@
+115c115,116
+<         userAgentAnalyzerField.setAccessible(true);
+---
+>         userAgentAnalyzerField.setAccessible(
+> true);

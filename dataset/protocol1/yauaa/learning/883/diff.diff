@@ -1,0 +1,5 @@
+77c77,78
+<         int result = useragent.hashCode();
+---
+>         int result = useragent.hashCode(
+> );

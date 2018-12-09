@@ -1,0 +1,4 @@
+64c64
+< import static nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.StepEndsWithValueContext;
+---
+> import static nl.basjes. parse.useragent.parser.UserAgentTreeWalkerParser.StepEndsWithValueContext;

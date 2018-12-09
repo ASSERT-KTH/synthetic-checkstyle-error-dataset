@@ -1,0 +1,4 @@
+122c122
+<         assertPossible(possible, "HTTP.QUERYSTRING:request.user-agent.agent_information_url.query");
+---
+>         assertPossible (possible, "HTTP.QUERYSTRING:request.user-agent.agent_information_url.query");

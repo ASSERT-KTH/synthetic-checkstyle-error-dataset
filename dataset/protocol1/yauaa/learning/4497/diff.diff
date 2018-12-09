@@ -1,0 +1,5 @@
+375c375,376
+<         informSubVersions(ctx, VERSION);
+---
+>         informSubVersions(ctx, VERSION
+> );

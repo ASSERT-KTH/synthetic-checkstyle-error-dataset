@@ -1,0 +1,4 @@
+77c77
+<                 ParDo.of(new DoFn<String, TestRecord>() {
+---
+>                 ParDo.of (new DoFn<String, TestRecord>() {

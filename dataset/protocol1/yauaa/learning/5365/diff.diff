@@ -1,0 +1,4 @@
+97c97
+<                     String previousValue = receivedValues.get(partialField.getConfidence());
+---
+>                     String previousValue = receivedValues.get(partialField.getConfidence() );

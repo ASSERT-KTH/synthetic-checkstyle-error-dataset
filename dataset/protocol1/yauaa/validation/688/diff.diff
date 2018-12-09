@@ -1,0 +1,4 @@
+48c48
+< import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.MatcherCleanVersionContext;
+---
+> import nl.basjes.parse.useragent.parser. UserAgentTreeWalkerParser.MatcherCleanVersionContext;

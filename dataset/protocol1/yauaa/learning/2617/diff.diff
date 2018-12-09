@@ -1,0 +1,4 @@
+73c73
+<         byte[] rowStringBytes = field.getBytes(java.nio.charset.StandardCharsets.UTF_8);
+---
+>         byte [] rowStringBytes = field.getBytes(java.nio.charset.StandardCharsets.UTF_8);

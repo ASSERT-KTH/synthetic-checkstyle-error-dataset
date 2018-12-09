@@ -1,0 +1,4 @@
+26c26
+<     private static UserAgentAnalyzer instance = null;
+---
+>     private static UserAgentAnalyzer instance = null ;

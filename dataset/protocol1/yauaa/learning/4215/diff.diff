@@ -1,0 +1,4 @@
+359c359
+<         CALCULATE_INFORM_PATH.put(MatcherWordRangeContext.class,        (action, treeName, tree) ->
+---
+>         CALCULATE_INFORM_PATH.put(MatcherWordRangeContext.class,        	(action, treeName, tree) ->

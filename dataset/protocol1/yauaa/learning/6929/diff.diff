@@ -1,0 +1,5 @@
+69c69,70
+<         Set<String> fields = new HashSet<>();
+---
+>         Set<String> fields = new HashSet<
+> >();

@@ -1,0 +1,5 @@
+111,112c111
+<         runTest(
+<             "classpath*:BadDefinitions/LookupDuplicateKey.yaml",
+---
+>         runTest(            "classpath*:BadDefinitions/LookupDuplicateKey.yaml",

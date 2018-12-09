@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-space", "line": "210", "message": "'\"the method [nonVoidSetter] has been annotated with YauaaField but it has the wrong method signature. \"' has incorrect indentation level 11, expected level should be 12.", "type": "Indentation"}

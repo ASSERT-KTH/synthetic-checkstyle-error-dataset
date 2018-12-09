@@ -1,0 +1,5 @@
+138c138,139
+<             iterations, (stop - start)/1000000, ((stop - start)/iterations), ((stop - start)/iterations)/1000);
+---
+>             iterations, (stop - start)/1000000, ((stop - start)/iterations
+> ), ((stop - start)/iterations)/1000);

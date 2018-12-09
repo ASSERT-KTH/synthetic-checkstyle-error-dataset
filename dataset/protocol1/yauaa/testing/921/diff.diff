@@ -1,0 +1,4 @@
+30c30
+<         String filteredValue = Normalize.brand(actualValue);
+---
+>          String filteredValue = Normalize.brand(actualValue);

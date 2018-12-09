@@ -1,0 +1,5 @@
+1378,1379c1378
+<                 uaa.wantedFieldNames.add(DEVICE_CLASS);
+<             }
+---
+>                 uaa.wantedFieldNames.add(DEVICE_CLASS);            }

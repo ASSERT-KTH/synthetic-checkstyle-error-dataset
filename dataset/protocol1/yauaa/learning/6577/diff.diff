@@ -1,0 +1,5 @@
+170c170,171
+<         return getSplitRange(value, splitList, range.getFirst(), range.getLast());
+---
+>         return getSplitRange(value, splitList
+> , range.getFirst(), range.getLast());

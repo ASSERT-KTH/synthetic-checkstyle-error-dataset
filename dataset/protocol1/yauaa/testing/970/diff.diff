@@ -1,0 +1,4 @@
+157c157
+<             session.transfer(flowFile, MISSING);
+---
+>             session. transfer(flowFile, MISSING);

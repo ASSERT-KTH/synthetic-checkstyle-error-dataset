@@ -1,0 +1,4 @@
+198c198
+<             startsWith("Invalid variable config line:"));
+---
+>            startsWith("Invalid variable config line:"));

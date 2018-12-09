@@ -1,0 +1,4 @@
+74c74
+<                 AgentField field = result.get(fieldName);
+---
+>                 AgentField field = result	.get(fieldName);

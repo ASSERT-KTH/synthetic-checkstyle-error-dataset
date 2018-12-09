@@ -1,0 +1,4 @@
+45c45
+<                 "It is useless to put a fixed value \"" + fixedValue + "\" in the require section.");
+---
+>                 "It is useless to put a fixed value \"" + fixedValue + "\" in the require section." );

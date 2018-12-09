@@ -1,0 +1,4 @@
+110c110
+<         prefixMap.put("12€", "Euro");
+---
+>        prefixMap.put("12€", "Euro");

@@ -1,0 +1,4 @@
+42c42
+<         String result = lookup.get(input.toLowerCase());
+---
+>         String 	result = lookup.get(input.toLowerCase());

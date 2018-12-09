@@ -1,0 +1,4 @@
+1363c1363
+<                 addGeneratedFields("LayoutEngineNameVersion", LAYOUT_ENGINE_NAME, LAYOUT_ENGINE_VERSION);
+---
+>                 addGeneratedFields("LayoutEngineNameVersion", 	LAYOUT_ENGINE_NAME, LAYOUT_ENGINE_VERSION);

@@ -1,0 +1,4 @@
+207c207
+<         checkResult(data, schema, "OperatingSystemName",            "Hacker"  );
+---
+>         checkResult (data, schema, "OperatingSystemName",            "Hacker"  );

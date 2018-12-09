@@ -1,0 +1,4 @@
+44c44
+<                 "    USING nl.basjes.pig.input.apachehttpdlog.Loader(" +
+---
+>                 	"    USING nl.basjes.pig.input.apachehttpdlog.Loader(" +

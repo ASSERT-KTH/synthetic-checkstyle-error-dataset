@@ -1,0 +1,5 @@
+94,95c94
+<                 "The value should be a string but it is a " + node.getNodeId().name());
+<             values.add(((ScalarNode)node).getValue());
+---
+>                 "The value should be a string but it is a " + node.getNodeId().name());            values.add(((ScalarNode)node).getValue());

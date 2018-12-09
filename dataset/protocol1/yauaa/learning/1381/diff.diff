@@ -1,0 +1,4 @@
+41c41
+<         for (int charNr = offset; charNr<chars.length; charNr++) {
+---
+>         for (int charNr = offset; charNr<chars.length ; charNr++) {

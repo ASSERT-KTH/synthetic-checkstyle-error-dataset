@@ -1,0 +1,4 @@
+520c520
+<                             throw new InvalidParserConfigurationException(
+---
+>                            throw new InvalidParserConfigurationException(

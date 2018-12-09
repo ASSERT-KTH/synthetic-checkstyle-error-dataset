@@ -1,0 +1,4 @@
+56c56
+<     public void informMeAboutPrefix(MatcherAction matcherAction, String treeName, String prefix) {
+---
+>     public void informMeAboutPrefix(MatcherAction matcherAction, String treeName, String 	prefix) {

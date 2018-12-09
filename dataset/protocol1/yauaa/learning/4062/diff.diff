@@ -1,0 +1,5 @@
+104c104,105
+<         userAgent.set(DEVICE_CLASS, deviceClass.getValue(), 1);
+---
+>         userAgent.set(
+> DEVICE_CLASS, deviceClass.getValue(), 1);

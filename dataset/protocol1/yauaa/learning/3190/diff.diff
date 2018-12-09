@@ -1,0 +1,4 @@
+191c191
+<             startsWith("Syntax error"));
+---
+>            startsWith("Syntax error"));

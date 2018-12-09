@@ -1,0 +1,4 @@
+48c48
+<         return  "Yaml config problem.("+filename+":"+node.getStartMark().getLine()+"): " + error;
+---
+>        return  "Yaml config problem.("+filename+":"+node.getStartMark().getLine()+"): " + error;

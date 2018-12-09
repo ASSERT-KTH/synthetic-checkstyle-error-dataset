@@ -1,0 +1,5 @@
+165,166c165
+<         runner.setProperty(PROPERTY_PREFIX + "AgentName",                        "true");
+<         runner.setProperty(PROPERTY_PREFIX + "AgentNameVersionMajor",            "true");
+---
+>         runner.setProperty(PROPERTY_PREFIX + "AgentName",                        "true");        runner.setProperty(PROPERTY_PREFIX + "AgentNameVersionMajor",            "true");

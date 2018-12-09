@@ -1,0 +1,5 @@
+133c133,134
+<         assertPossible(possible, "STRING:request.user-agent.last.device_brand");
+---
+>         assertPossible(possible, "STRING:request.user-agent.last.device_brand"
+> );

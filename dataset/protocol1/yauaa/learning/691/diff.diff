@@ -1,0 +1,4 @@
+58c58
+<         return "LookupPrefix(@" + lookupName + " ; default="+defaultValue+")";
+---
+>          return "LookupPrefix(@" + lookupName + " ; default="+defaultValue+")";

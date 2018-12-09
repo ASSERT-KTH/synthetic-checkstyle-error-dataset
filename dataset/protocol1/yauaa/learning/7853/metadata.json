@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "24", "column": "8", "message": "Unused import - org.junit.runners.Parameterized.Parameter.", "type": "UnusedImports"}

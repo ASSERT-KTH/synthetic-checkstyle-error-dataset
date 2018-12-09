@@ -1,0 +1,5 @@
+33c33,34
+< import static nl.basjes.parse.useragent.UserAgentAnalyzerDirect.firstCharactersForPrefixHash;
+---
+> import 
+> static nl.basjes.parse.useragent.UserAgentAnalyzerDirect.firstCharactersForPrefixHash;

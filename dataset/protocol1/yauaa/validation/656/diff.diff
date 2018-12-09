@@ -1,0 +1,4 @@
+24c24
+< public class StepConcat extends Step {
+---
+> public 	class StepConcat extends Step {

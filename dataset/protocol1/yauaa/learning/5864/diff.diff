@@ -1,0 +1,5 @@
+135,136c135
+<             "----- %8s: Used memory is %10d bytes (%5d MiB / %5d MiB)",
+<             label, memory, bytesToMegabytes(memory), bytesToMegabytes(runtime.totalMemory())));
+---
+>             "----- %8s: Used memory is %10d bytes (%5d MiB / %5d MiB)",            label, memory, bytesToMegabytes(memory), bytesToMegabytes(runtime.totalMemory())));

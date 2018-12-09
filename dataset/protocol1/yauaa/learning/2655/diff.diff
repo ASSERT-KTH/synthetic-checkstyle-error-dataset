@@ -1,0 +1,5 @@
+237,238c237
+<                     fieldNames.addAll(onlyValidateFieldNames);
+<                 }
+---
+>                     fieldNames.addAll(onlyValidateFieldNames);                }

@@ -1,0 +1,5 @@
+40c40,41
+<         this.privateNumberRange = privateNumberRange;
+---
+>         this.privateNumberRange = privateNumberRange
+> ;

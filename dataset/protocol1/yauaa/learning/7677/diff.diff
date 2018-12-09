@@ -1,0 +1,5 @@
+65c65,66
+<             isSame(shouldRemainNull, record.shouldRemainNull);
+---
+>             isSame
+> (shouldRemainNull, record.shouldRemainNull);

@@ -1,0 +1,4 @@
+82c82
+<             byte[] rowStringBytes = field.getBytes();
+---
+>            byte[] rowStringBytes = field.getBytes();

@@ -1,0 +1,4 @@
+74c74
+<         assertEquals("Asus",             Normalize.brand("aSuS"));
+---
+>         assertEquals("Asus" ,             Normalize.brand("aSuS"));

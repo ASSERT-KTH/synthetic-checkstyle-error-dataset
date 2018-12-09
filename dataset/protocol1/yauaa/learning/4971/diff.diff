@@ -1,0 +1,4 @@
+77c77
+<             "classpath*:BadDefinitions/LookupSetMissing.yaml",
+---
+>             	"classpath*:BadDefinitions/LookupSetMissing.yaml",

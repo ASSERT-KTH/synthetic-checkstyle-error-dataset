@@ -1,0 +1,4 @@
+76c76
+<                             wordBuilder.append(Character.toLowerCase(thisChar));
+---
+>                             wordBuilder.append(Character.toLowerCase(thisChar ));

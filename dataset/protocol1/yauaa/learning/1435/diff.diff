@@ -1,0 +1,5 @@
+23c23,24
+< import org.apache.flink.configuration.Configuration;
+---
+> import org.apache
+> .flink.configuration.Configuration;

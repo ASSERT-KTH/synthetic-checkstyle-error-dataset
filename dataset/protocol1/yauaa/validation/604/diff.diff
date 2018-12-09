@@ -1,0 +1,4 @@
+62c62
+<     public static class MapperWithoutGenericType
+---
+>    public static class MapperWithoutGenericType

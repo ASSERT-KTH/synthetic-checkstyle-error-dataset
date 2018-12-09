@@ -1,0 +1,4 @@
+38c38
+<         assertEquals("NB", Normalize.brand("NB"));
+---
+>         assertEquals("NB", Normalize.brand ("NB"));

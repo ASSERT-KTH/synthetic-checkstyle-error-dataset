@@ -1,0 +1,4 @@
+109c109
+<             return null; // This will never occur because the input type is always TUPLE.
+---
+>             return null;// This will never occur because the input type is always TUPLE.

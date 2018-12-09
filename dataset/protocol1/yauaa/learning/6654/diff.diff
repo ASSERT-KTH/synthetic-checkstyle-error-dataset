@@ -1,0 +1,4 @@
+89c89
+<         expectedRecord1.deviceClass = "Desktop";
+---
+>        expectedRecord1.deviceClass = "Desktop";

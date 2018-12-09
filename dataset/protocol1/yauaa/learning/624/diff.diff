@@ -1,0 +1,4 @@
+122c122
+<         String userAgentString = useragentOI.getPrimitiveJavaObject(args[0].get());
+---
+>        String userAgentString = useragentOI.getPrimitiveJavaObject(args[0].get());

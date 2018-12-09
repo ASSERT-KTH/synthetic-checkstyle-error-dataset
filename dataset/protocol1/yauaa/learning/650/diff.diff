@@ -1,0 +1,4 @@
+39c39
+<     public void set(UserAgent newValuesUserAgent, Matcher appliedMatcher) {
+---
+>     public void set(UserAgent newValuesUserAgent , Matcher appliedMatcher) {

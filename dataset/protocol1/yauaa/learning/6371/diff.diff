@@ -1,0 +1,4 @@
+56c56
+<         MAX_RANGE.put("email",                2);
+---
+>        MAX_RANGE.put("email",                2);

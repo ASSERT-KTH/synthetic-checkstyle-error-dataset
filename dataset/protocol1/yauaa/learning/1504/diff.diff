@@ -1,0 +1,4 @@
+100c100
+<     public static String cleanupDeviceBrandName(String deviceBrand, String deviceName) {
+---
+>     public static String cleanupDeviceBrandName(String deviceBrand, String 	deviceName) {

@@ -1,0 +1,5 @@
+335c335,336
+<                 sb.append("    require:\n");
+---
+>                 sb.append(
+> "    require:\n");

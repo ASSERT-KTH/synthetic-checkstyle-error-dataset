@@ -1,0 +1,4 @@
+234c234
+<                 if (((MatcherExtractAction)action).isFixedValue()) {
+---
+>                if (((MatcherExtractAction)action).isFixedValue()) {

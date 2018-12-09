@@ -1,0 +1,5 @@
+65,66c65
+<         expectedEx.expect(InvalidParserConfigurationException.class);
+<         expectedEx.expectMessage(containsString("Two different Yauaa versions have been loaded:"));
+---
+>         expectedEx.expect(InvalidParserConfigurationException.class);        expectedEx.expectMessage(containsString("Two different Yauaa versions have been loaded:"));

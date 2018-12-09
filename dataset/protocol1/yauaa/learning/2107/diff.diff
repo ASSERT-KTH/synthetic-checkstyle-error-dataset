@@ -1,0 +1,4 @@
+59c59
+<         result = replaceString(result, " (Macintosh); ", " (Macintosh; ");
+---
+>         result = replaceString(result, " (Macintosh); " , " (Macintosh; ");

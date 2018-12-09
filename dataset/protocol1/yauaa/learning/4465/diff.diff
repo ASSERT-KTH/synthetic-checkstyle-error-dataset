@@ -1,0 +1,4 @@
+86c86
+<         return new UserAgentAnalyzerBuilder<>(new UserAgentAnalyzer());
+---
+>         return new UserAgentAnalyzerBuilder<> (new UserAgentAnalyzer());

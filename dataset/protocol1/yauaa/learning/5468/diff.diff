@@ -1,0 +1,4 @@
+95c95
+<                     if (!Modifier.isPublic(method.getModifiers())) {
+---
+>                     if (!Modifier.isPublic(method.getModifiers ())) {

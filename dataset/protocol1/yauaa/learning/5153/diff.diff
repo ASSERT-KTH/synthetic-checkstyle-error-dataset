@@ -1,0 +1,4 @@
+620c620
+<         PRE_SORTED_FIELDS_LIST.add("IECompatibilityVersionMajor");
+---
+>         PRE_SORTED_FIELDS_LIST.add("IECompatibilityVersionMajor" );

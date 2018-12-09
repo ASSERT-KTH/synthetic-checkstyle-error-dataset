@@ -1,0 +1,4 @@
+111c111
+<         if (lowerDeviceName.startsWith(lowerDeviceBrand)) {
+---
+>         if (lowerDeviceName.startsWith( lowerDeviceBrand)) {

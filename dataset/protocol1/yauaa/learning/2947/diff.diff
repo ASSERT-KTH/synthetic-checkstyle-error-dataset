@@ -1,0 +1,4 @@
+92c92
+<         assertEquals("buibui.bot@moquadv.com",                     Normalize.email("buibui[dot]bot[\\xc3\\xa07]moquadv[dot]com"));
+---
+>         assertEquals("buibui.bot@moquadv.com",                     Normalize	.email("buibui[dot]bot[\\xc3\\xa07]moquadv[dot]com"));

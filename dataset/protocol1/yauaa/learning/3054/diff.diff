@@ -1,0 +1,5 @@
+168,169c168
+<         runTest(
+<             "classpath*:BadDefinitions/SyntaxErrorExtract2.yaml",
+---
+>         runTest(            "classpath*:BadDefinitions/SyntaxErrorExtract2.yaml",

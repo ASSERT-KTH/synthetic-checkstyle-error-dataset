@@ -1,0 +1,5 @@
+46c46,47
+<         MAX_RANGE.put("key",                  1);
+---
+>         MAX_RANGE
+> .put("key",                  1);

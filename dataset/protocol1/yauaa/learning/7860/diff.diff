@@ -1,0 +1,4 @@
+120c120
+<         assertEquals(null,       splitter.getFirstSplits(value, 0));
+---
+>         assertEquals(null,       splitter.getFirstSplits(value,0));

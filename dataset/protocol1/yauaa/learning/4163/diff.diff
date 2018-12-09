@@ -1,0 +1,4 @@
+27c27
+< import org.apache.beam.sdk.transforms.DoFn;
+---
+> import org.apache.beam.sdk. transforms.DoFn;

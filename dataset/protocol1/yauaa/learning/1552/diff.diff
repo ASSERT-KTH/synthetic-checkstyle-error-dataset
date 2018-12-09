@@ -1,0 +1,5 @@
+68c68,69
+<                     wordBuilder.append(Character.toUpperCase(thisChar));
+---
+>                     wordBuilder.
+> append(Character.toUpperCase(thisChar));

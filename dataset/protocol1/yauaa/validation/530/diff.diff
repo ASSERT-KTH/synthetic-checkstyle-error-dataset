@@ -1,0 +1,5 @@
+92c92,93
+<         for (Node node: valueNodes) {
+---
+>         for (Node node: valueNodes
+> ) {

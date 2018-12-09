@@ -1,0 +1,4 @@
+69c69
+<                     childNodes[lower] = new PrefixTrie(false, charIndex + 1);
+---
+>                    childNodes[lower] = new PrefixTrie(false, charIndex + 1);

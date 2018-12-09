@@ -1,0 +1,4 @@
+59c59
+<                 result = getSourceText((ParserRuleContext)tree);
+---
+>                result = getSourceText((ParserRuleContext)tree);

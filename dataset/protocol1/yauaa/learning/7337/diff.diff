@@ -1,0 +1,4 @@
+142c142
+<         new TooManyParameters();
+---
+>        new TooManyParameters();

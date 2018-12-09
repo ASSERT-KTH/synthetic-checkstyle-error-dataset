@@ -1,0 +1,4 @@
+99c99
+<         assertEquals("search_comments@sensis.com.au",              Normalize.email("search_comments\\at\\sensis\\dot\\com\\dot\\au"));
+---
+>         assertEquals( "search_comments@sensis.com.au",              Normalize.email("search_comments\\at\\sensis\\dot\\com\\dot\\au"));

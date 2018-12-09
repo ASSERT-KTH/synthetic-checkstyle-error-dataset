@@ -1,0 +1,5 @@
+46c46,47
+<         userAgentAnalyzer.setCacheSize(cacheSize);
+---
+>         userAgentAnalyzer.setCacheSize(
+> cacheSize);

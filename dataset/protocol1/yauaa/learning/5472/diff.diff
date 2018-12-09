@@ -1,0 +1,4 @@
+117c117
+<         varCharHolder.buffer.setBytes(0, bytes);
+---
+>        varCharHolder.buffer.setBytes(0, bytes);

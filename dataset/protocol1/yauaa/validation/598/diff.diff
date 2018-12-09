@@ -1,0 +1,4 @@
+83c83
+<         assertPossible(possible, "HTTP.USERAGENT:request.user-agent");
+---
+>         assertPossible(possible, "HTTP.USERAGENT:request.user-agent") ;

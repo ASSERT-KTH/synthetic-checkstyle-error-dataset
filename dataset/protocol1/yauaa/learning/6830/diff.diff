@@ -1,0 +1,4 @@
+87c87
+<             rowHolder.end = rowStringBytes.length;
+---
+>            rowHolder.end = rowStringBytes.length;

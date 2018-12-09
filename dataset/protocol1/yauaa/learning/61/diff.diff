@@ -1,0 +1,4 @@
+55c55
+< import nl.basjes.parse.useragent.utils.VersionSplitter;
+---
+> import nl. basjes.parse.useragent.utils.VersionSplitter;

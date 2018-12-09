@@ -1,0 +1,5 @@
+37c37,38
+< @RunWith(JUnit4.class)
+---
+> @RunWith(JUnit4
+> .class)

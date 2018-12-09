@@ -1,0 +1,5 @@
+90,91c90
+<         UserAgentAnalyzer uaa       = UserAgentAnalyzer.newBuilder().dropTests().dropDefaultResources().build();
+<         UserAgent         userAgent = createUserAgent();
+---
+>         UserAgentAnalyzer uaa       = UserAgentAnalyzer.newBuilder().dropTests().dropDefaultResources().build();        UserAgent         userAgent = createUserAgent();

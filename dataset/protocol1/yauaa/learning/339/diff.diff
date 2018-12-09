@@ -1,0 +1,5 @@
+115,116c115
+<             ensureMappingsExistForFieldName(fieldName);
+<             result.add(getFieldOutputType(fieldName) + ":" + fieldNameToDissectionName(fieldName));
+---
+>             ensureMappingsExistForFieldName(fieldName);            result.add(getFieldOutputType(fieldName) + ":" + fieldNameToDissectionName(fieldName));

@@ -1,0 +1,5 @@
+75c75,76
+<         assertEquals(range1, range1b);
+---
+>         assertEquals(range1, range1b
+> );

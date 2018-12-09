@@ -1,0 +1,4 @@
+369c369
+<             calculateInformPath(action, treeName, ((PathWalkContext) tree).nextStep));
+---
+>             calculateInformPath(action, treeName, ((PathWalkContext) tree ).nextStep));

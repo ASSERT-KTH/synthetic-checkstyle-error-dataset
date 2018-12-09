@@ -1,0 +1,5 @@
+50,51c50
+<                 foundCurrent = true;
+<             }
+---
+>                 foundCurrent = true;            }

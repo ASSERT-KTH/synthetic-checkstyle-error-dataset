@@ -1,0 +1,4 @@
+66c66
+<                 char upper = Character.toUpperCase(myChar);
+---
+>                  char upper = Character.toUpperCase(myChar);

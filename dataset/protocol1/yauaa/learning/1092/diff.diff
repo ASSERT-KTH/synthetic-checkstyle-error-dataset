@@ -1,0 +1,4 @@
+67c67
+<         this.extractedFields = desiredFields;
+---
+>        this.extractedFields = desiredFields;

@@ -1,0 +1,4 @@
+214c214
+<         AgentField field3 = new AgentField("Foo"); // Same, different confidence
+---
+>         AgentField 	field3 = new AgentField("Foo"); // Same, different confidence

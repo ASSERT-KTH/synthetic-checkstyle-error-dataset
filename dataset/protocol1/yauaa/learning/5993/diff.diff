@@ -1,0 +1,4 @@
+30c30
+< import static nl.basjes.parse.useragent.Version.BUILD_TIME_STAMP;
+---
+> import static nl. basjes.parse.useragent.Version.BUILD_TIME_STAMP;

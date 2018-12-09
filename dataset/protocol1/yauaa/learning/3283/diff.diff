@@ -1,0 +1,5 @@
+114,115c114
+<         Field userAgentAnalyzerField = userAgentAnnotationAnalyzer.getClass().getDeclaredField("userAgentAnalyzer");
+<         userAgentAnalyzerField.setAccessible(true);
+---
+>         Field userAgentAnalyzerField = userAgentAnnotationAnalyzer.getClass().getDeclaredField("userAgentAnalyzer");        userAgentAnalyzerField.setAccessible(true);

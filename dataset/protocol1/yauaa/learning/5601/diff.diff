@@ -1,0 +1,4 @@
+110c110
+<         while (i < chars.length) {
+---
+>          while (i < chars.length) {

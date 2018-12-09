@@ -1,0 +1,4 @@
+254c254
+<                         throw new InvalidParserConfigurationException("Syntax error: The line >>" + interestedAction + "<< " +
+---
+>                        throw new InvalidParserConfigurationException("Syntax error: The line >>" + interestedAction + "<< " +

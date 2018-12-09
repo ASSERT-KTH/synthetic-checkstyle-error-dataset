@@ -1,0 +1,4 @@
+132c132
+<     public void checkNoExtract() {
+---
+>     public 	void checkNoExtract() {

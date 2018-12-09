@@ -1,0 +1,5 @@
+261,262c261
+<                         result.actual = NULL_VALUE;
+<                     }
+---
+>                         result.actual = NULL_VALUE;                    }

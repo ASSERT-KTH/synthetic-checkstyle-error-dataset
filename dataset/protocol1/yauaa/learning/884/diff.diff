@@ -1,0 +1,4 @@
+181c181
+<     public void checkSyntaxErrorVariable2() {
+---
+>     public void 	checkSyntaxErrorVariable2() {

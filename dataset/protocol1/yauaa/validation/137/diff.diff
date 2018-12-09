@@ -1,0 +1,5 @@
+167,168c167
+<         if (lastStepThatCannotFail != Integer.MAX_VALUE) {
+<             if (lastStepThatCannotFail == 0) {
+---
+>         if (lastStepThatCannotFail != Integer.MAX_VALUE) {            if (lastStepThatCannotFail == 0) {

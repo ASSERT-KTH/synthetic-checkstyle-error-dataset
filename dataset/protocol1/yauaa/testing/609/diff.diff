@@ -1,0 +1,4 @@
+24c24
+<     public static class PrefixTrie implements Serializable {
+---
+>     public 	static class PrefixTrie implements Serializable {

@@ -1,0 +1,5 @@
+51c51,52
+<     public void inform(String key, WalkResult foundValue) {
+---
+>     public void inform(String key, WalkResult foundValue
+> ) {

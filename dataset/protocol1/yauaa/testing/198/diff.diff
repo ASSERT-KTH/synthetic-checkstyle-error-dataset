@@ -1,0 +1,5 @@
+104,105c104
+<                 if (resultingValue == null) {
+<                     if (defaultValue != null) {
+---
+>                 if (resultingValue == null) {                    if (defaultValue != null) {

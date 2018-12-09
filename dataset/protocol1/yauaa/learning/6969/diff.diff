@@ -1,0 +1,4 @@
+42c42
+<         this(DEFAULT_PARSE_CACHE_SIZE, Arrays.asList(desiredFields));
+---
+>         this(DEFAULT_PARSE_CACHE_SIZE , Arrays.asList(desiredFields));

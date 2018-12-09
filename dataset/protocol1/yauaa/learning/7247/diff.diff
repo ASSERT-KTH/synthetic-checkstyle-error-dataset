@@ -1,0 +1,4 @@
+408c408
+<                 return new ArrayList<>(); // There is NO way one of them is valid
+---
+>                return new ArrayList<>(); // There is NO way one of them is valid

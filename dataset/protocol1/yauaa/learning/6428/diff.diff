@@ -1,0 +1,4 @@
+56c56
+<         assertTrue(values.contains(3));
+---
+>         assertTrue(values. contains(3));

@@ -1,0 +1,4 @@
+115c115
+<             runtime.gc();
+---
+>            runtime.gc();

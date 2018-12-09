@@ -1,0 +1,5 @@
+67,68c67
+<     public void inform(String key, WalkResult newlyFoundValue) {
+<         if (verbose) {
+---
+>     public void inform(String key, WalkResult newlyFoundValue) {        if (verbose) {

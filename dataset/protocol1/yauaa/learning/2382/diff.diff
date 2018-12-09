@@ -1,0 +1,4 @@
+60c60
+<     public int findEndOfString(char[] chars, int offset) {
+---
+>     public int findEndOfString(char[] 	chars, int offset) {

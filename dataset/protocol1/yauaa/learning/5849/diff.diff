@@ -1,0 +1,4 @@
+178c178
+<         assertNotEquals("Field named "+fieldName +" is missing in the schema", schema.getField(fieldName), null);
+---
+>         assertNotEquals("Field named "+fieldName +" is missing in the schema", schema.getField(fieldName), null	);

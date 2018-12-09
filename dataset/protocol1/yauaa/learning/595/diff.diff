@@ -1,0 +1,4 @@
+37c37
+<         prefixMap.put("A",      "Result A");
+---
+>        prefixMap.put("A",      "Result A");

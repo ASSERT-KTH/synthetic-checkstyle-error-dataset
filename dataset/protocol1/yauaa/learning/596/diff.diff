@@ -1,0 +1,4 @@
+81c81
+<         assertThat(result, hasItems(
+---
+>         assertThat(result, hasItems (

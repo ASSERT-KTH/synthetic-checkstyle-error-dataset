@@ -1,0 +1,4 @@
+101c101
+<     private void verifyDeviceClass(DeviceClass deviceClass, boolean human, boolean mobile, boolean normal, boolean misuse) {
+---
+>     private void verifyDeviceClass( DeviceClass deviceClass, boolean human, boolean mobile, boolean normal, boolean misuse) {

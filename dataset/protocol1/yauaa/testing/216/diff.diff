@@ -1,0 +1,4 @@
+78c78
+<                 return nextResult == null ? aggregate : nextResult;
+---
+>                return nextResult == null ? aggregate : nextResult;

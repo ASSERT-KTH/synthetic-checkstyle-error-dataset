@@ -1,0 +1,4 @@
+94c94
+<             result.append(agent.getValue(fieldName));
+---
+>            result.append(agent.getValue(fieldName));

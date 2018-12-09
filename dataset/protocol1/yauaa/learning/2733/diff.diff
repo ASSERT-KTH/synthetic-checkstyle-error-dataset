@@ -1,0 +1,4 @@
+46c46
+<         ParseTree prevTree = prev(tree);
+---
+>        ParseTree prevTree = prev(tree);

@@ -1,0 +1,4 @@
+44c44
+<             iterationsDone, memory, bytesToMegabytes(memory), averageNanos, averageNanos / 1000000.0));
+---
+>            iterationsDone, memory, bytesToMegabytes(memory), averageNanos, averageNanos / 1000000.0));

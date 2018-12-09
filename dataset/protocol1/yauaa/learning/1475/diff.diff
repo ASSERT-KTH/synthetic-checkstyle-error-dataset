@@ -1,0 +1,5 @@
+26c26,27
+<     private final String prefix;
+---
+>     private final String prefix
+> ;

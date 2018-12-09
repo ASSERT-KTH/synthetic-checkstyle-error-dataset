@@ -1,0 +1,5 @@
+125,126c125
+<                 return "HTTP.URI";
+<             default:
+---
+>                 return "HTTP.URI";            default:

@@ -1,0 +1,5 @@
+71,72c71
+<         result = 31 * result + (deviceClass      != null ? deviceClass.hashCode()      : 0);
+<         result = 31 * result + (agentNameVersion != null ? agentNameVersion.hashCode() : 0);
+---
+>         result = 31 * result + (deviceClass      != null ? deviceClass.hashCode()      : 0);        result = 31 * result + (agentNameVersion != null ? agentNameVersion.hashCode() : 0);

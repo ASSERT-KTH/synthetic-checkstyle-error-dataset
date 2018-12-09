@@ -1,0 +1,5 @@
+79c79,80
+<         assertNotEquals(range1, range4);
+---
+>         assertNotEquals(
+> range1, range4);

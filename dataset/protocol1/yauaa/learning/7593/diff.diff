@@ -1,0 +1,4 @@
+49c49
+<             if (child == tree) {
+---
+>            if (child == tree) {

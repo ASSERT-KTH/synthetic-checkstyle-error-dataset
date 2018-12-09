@@ -1,0 +1,4 @@
+41c41
+<             if (charIndex == prefix.length()) {
+---
+>            if (charIndex == prefix.length()) {

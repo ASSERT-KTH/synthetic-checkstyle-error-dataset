@@ -1,0 +1,4 @@
+202c202
+<         System.out.println(schema.toString());
+---
+>         System.out.println(schema.toString()) ;

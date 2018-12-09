@@ -1,0 +1,5 @@
+112c112,113
+<         checkResult(data, schema, "OperatingSystemVersionBuild",      "Unknown"               );
+---
+>         checkResult(data, schema, "OperatingSystemVersionBuild",      "Unknown"               )
+> ;

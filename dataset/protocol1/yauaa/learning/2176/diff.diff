@@ -1,0 +1,4 @@
+86c86
+<                 if (returnType.getCanonicalName().equals("void") &&
+---
+>                 if (returnType.getCanonicalName().equals( "void") &&

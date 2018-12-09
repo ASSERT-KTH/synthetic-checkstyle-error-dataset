@@ -1,0 +1,4 @@
+101c101
+<             parsable.addDissection(inputname, getFieldOutputType(fieldName), fieldNameToDissectionName(fieldName), agent.getValue(fieldName));
+---
+>             parsable.addDissection(inputname,getFieldOutputType(fieldName), fieldNameToDissectionName(fieldName), agent.getValue(fieldName));

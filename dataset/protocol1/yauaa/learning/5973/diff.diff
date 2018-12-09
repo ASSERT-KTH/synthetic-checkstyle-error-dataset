@@ -1,0 +1,4 @@
+66c66
+<     public static class TestImpossibleFieldMapper extends UserAgentAnalysisMapper<TestRecord> {
+---
+>     public static class TestImpossibleFieldMapper extends 	UserAgentAnalysisMapper<TestRecord> {

@@ -1,0 +1,5 @@
+170c170,171
+<         checkAbsent(schema, "KoboAffiliate"                  );
+---
+>         checkAbsent(
+> schema, "KoboAffiliate"                  );

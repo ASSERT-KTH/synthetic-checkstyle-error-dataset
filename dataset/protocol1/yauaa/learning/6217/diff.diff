@@ -1,0 +1,4 @@
+78c78
+<         Class classOfT = classOfTArray[0];
+---
+>         Class classOfT = classOfTArray [0];

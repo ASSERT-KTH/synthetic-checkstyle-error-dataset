@@ -1,0 +1,4 @@
+37c37
+<         return inputStream.getText(new Interval(startIndex, stopIndex));
+---
+>         return 	inputStream.getText(new Interval(startIndex, stopIndex));

@@ -1,0 +1,4 @@
+226c226
+<     private String inform(ParseTree stateCtx, ParseTree ctx, String name, String value, boolean fakeChild) {
+---
+>     private String inform(ParseTree stateCtx, ParseTree ctx, String 	name, String value, boolean fakeChild) {

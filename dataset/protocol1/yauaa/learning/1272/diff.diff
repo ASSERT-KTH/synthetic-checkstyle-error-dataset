@@ -1,0 +1,5 @@
+20,21c20
+< import nl.basjes.parse.useragent.annotate.YauaaField;
+< import org.apache.flink.api.common.functions.MapFunction;
+---
+> import nl.basjes.parse.useragent.annotate.YauaaField;import org.apache.flink.api.common.functions.MapFunction;

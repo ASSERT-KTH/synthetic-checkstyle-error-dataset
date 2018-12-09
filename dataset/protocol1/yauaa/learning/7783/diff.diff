@@ -1,0 +1,5 @@
+117,118c117
+<                         "In class [" + method.getDeclaringClass() + "] the method [" + method.getName() + "] " +
+<                         "has been annotated with YauaaField but it has the wrong method signature. " +
+---
+>                         "In class [" + method.getDeclaringClass() + "] the method [" + method.getName() + "] " +                        "has been annotated with YauaaField but it has the wrong method signature. " +

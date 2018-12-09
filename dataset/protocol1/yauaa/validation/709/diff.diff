@@ -1,0 +1,4 @@
+230c230
+<         assertEquals(field0, field1);
+---
+>        assertEquals(field0, field1);

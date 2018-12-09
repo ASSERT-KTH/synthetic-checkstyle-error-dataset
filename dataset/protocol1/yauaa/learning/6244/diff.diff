@@ -1,0 +1,4 @@
+217c217
+<         assertNotNull("We should get a first instance from a single builder.", builder.build());
+---
+>        assertNotNull("We should get a first instance from a single builder.", builder.build());

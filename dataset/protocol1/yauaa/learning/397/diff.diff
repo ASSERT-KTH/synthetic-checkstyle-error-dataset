@@ -1,0 +1,5 @@
+77c77,78
+<     @Test(expected = UnsupportedOperationException.class)
+---
+>     @Test(expected = UnsupportedOperationException.
+> class)

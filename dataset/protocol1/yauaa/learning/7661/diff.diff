@@ -1,0 +1,4 @@
+74c74
+<         if (classOfTArray == null) {
+---
+>        if (classOfTArray == null) {

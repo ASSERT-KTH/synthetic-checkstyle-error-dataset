@@ -1,0 +1,4 @@
+57c57
+<         verifyEnum("Watch");
+---
+>        verifyEnum("Watch");

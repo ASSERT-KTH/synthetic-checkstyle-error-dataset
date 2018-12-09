@@ -1,0 +1,4 @@
+93c93
+<         assertEquals(uuid, agent.get(fieldName).getValue());
+---
+>         assertEquals(uuid, 	agent.get(fieldName).getValue());

@@ -1,0 +1,4 @@
+80c80
+<         public enum Type {
+---
+>         public enum 	Type {

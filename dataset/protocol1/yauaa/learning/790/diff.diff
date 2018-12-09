@@ -1,0 +1,5 @@
+73c73,74
+<     public void testInputAbsent() {
+---
+>     
+> public void testInputAbsent() {

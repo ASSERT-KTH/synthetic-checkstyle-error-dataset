@@ -1,0 +1,4 @@
+69c69
+<         runTest("BadConfig2.yaml", "The entry MUST be a mapping");
+---
+>         runTest( "BadConfig2.yaml", "The entry MUST be a mapping");

@@ -1,0 +1,5 @@
+63c63,64
+<         String userAgentField = org.apache.drill.exec.expr.fn.impl.StringFunctionHelpers.getStringFromVarCharHolder(fieldName);
+---
+>         String userAgentField = org.apache.drill.exec.expr.fn.impl.StringFunctionHelpers.
+> getStringFromVarCharHolder(fieldName);

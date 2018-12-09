@@ -1,0 +1,4 @@
+123c123
+<         byte[] bytes = input.getBytes(StandardCharsets.UTF_8);
+---
+>         byte[	] bytes = input.getBytes(StandardCharsets.UTF_8);

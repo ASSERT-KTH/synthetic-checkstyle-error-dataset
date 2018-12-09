@@ -1,0 +1,5 @@
+27,28c27
+< import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.MatcherPathLookupPrefixContext;
+< import org.antlr.v4.runtime.ParserRuleContext;
+---
+> import nl.basjes.parse.useragent.parser.UserAgentTreeWalkerParser.MatcherPathLookupPrefixContext;import org.antlr.v4.runtime.ParserRuleContext;

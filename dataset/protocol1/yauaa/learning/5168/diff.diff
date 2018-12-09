@@ -1,0 +1,5 @@
+49c49,50
+<     public AnalyzeUseragentFunction(List<String> desiredFields) {
+---
+>     public AnalyzeUseragentFunction(List<String
+> > desiredFields) {

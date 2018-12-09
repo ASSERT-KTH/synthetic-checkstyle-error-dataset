@@ -1,0 +1,4 @@
+36c36
+<         setCacheSize(0);
+---
+>        setCacheSize(0);

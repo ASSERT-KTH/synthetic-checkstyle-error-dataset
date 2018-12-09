@@ -1,0 +1,5 @@
+142,143c142
+<         assertThat(result, hasItems(
+<             new TestRecord(
+---
+>         assertThat(result, hasItems(            new TestRecord(

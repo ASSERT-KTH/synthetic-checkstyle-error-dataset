@@ -1,0 +1,4 @@
+264c264
+<         result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "OperatingSystemVersion"         );
+---
+>          result.assertAttributeNotExists(ATTRIBUTE_PREFIX + "OperatingSystemVersion"         );

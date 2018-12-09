@@ -1,0 +1,4 @@
+50c50
+<         return "IsInLookupPrefix(@" + lookupName + ")";
+---
+>        return "IsInLookupPrefix(@" + lookupName + ")";

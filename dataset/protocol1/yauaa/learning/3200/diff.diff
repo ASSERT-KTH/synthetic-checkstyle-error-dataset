@@ -1,0 +1,4 @@
+65c65
+<         result = replaceString(result, "You Build/VM", "You Build/VM)");
+---
+>        result = replaceString(result, "You Build/VM", "You Build/VM)");

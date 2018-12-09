@@ -1,0 +1,5 @@
+24c24,25
+< import org.apache.beam.sdk.transforms.Create;
+---
+> import org.apache.beam
+> .sdk.transforms.Create;

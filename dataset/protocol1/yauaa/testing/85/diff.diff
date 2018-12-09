@@ -1,0 +1,5 @@
+23c23,24
+< import org.apache.beam.sdk.testing.TestPipeline;
+---
+> import org.apache.beam.
+> sdk.testing.TestPipeline;

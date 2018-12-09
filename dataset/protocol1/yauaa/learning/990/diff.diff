@@ -1,0 +1,4 @@
+118c118
+<         funcList.add(new FuncSpec(this.getClass().getName(), s));
+---
+>        funcList.add(new FuncSpec(this.getClass().getName(), s));

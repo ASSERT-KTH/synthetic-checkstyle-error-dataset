@@ -1,0 +1,4 @@
+159c159
+<         checkAbsent(schema, "DeviceVersion"                  );
+---
+>        checkAbsent(schema, "DeviceVersion"                  );

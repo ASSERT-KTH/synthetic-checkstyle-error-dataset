@@ -1,0 +1,4 @@
+46c46
+<         StringBuilder wordBuilder = new StringBuilder(brand.length());
+---
+>        StringBuilder wordBuilder = new StringBuilder(brand.length());

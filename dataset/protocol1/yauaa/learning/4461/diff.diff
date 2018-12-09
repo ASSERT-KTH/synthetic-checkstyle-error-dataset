@@ -1,0 +1,4 @@
+31c31
+<     private static final Pattern MULTIPLE_SPACES =
+---
+>     private static 	final Pattern MULTIPLE_SPACES =

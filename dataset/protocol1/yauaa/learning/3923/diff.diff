@@ -1,0 +1,4 @@
+68c68
+<         assertEquals(FunctionTemplate.NullHandling.NULL_IF_NULL, fnDefn.nulls());
+---
+>         assertEquals(FunctionTemplate.NullHandling.NULL_IF_NULL, fnDefn.nulls()) ;

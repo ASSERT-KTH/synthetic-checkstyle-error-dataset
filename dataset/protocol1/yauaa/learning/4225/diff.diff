@@ -1,0 +1,4 @@
+300c300
+<         assertEquals("five",                   splitter.getSplitRange(value, 6, 6));
+---
+>         assertEquals("five",                   splitter.getSplitRange(value, 6, 	6));

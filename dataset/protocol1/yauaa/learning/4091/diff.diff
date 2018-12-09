@@ -1,0 +1,5 @@
+93,94c93
+<                 // UnsupportedEncodingException: Can't happen because the UTF-8 is hardcoded here.
+<                 // IllegalArgumentException: Probably bad % encoding in there somewhere.
+---
+>                 // UnsupportedEncodingException: Can't happen because the UTF-8 is hardcoded here.                // IllegalArgumentException: Probably bad % encoding in there somewhere.

@@ -1,0 +1,5 @@
+37c37,38
+<         String filteredValue = prefix + actualValue + postfix;
+---
+>         String filteredValue = prefix + actualValue + postfix
+> ;

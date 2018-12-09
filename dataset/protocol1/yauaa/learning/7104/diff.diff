@@ -1,0 +1,5 @@
+33c33,34
+< import org.openjdk.jmh.runner.options.Options;
+---
+> import org.openjdk.jmh.runner.
+> options.Options;

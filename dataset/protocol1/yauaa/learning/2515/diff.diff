@@ -1,0 +1,5 @@
+58c58,59
+<         assertTrue(values.contains(5));
+---
+>         assertTrue(
+> values.contains(5));

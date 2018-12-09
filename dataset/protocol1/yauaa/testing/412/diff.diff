@@ -1,0 +1,4 @@
+74c74
+<                     childNodes[upper] = childNodes[lower];
+---
+>                     childNodes [upper] = childNodes[lower];

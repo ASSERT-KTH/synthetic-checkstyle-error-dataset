@@ -1,0 +1,5 @@
+26c26,27
+< import static org.hamcrest.core.StringContains.containsString;
+---
+> import 
+> static org.hamcrest.core.StringContains.containsString;

@@ -1,0 +1,4 @@
+21c21
+<     public UselessMatcherException(String message) {
+---
+>    public UselessMatcherException(String message) {

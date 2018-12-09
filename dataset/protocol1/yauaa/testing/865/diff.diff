@@ -1,0 +1,5 @@
+58c58,59
+<         walkList = new WalkList(requiredPattern, matcher.getLookups(), matcher.getLookupSets(), verbose);
+---
+>         walkList = new WalkList(requiredPattern
+> , matcher.getLookups(), matcher.getLookupSets(), verbose);

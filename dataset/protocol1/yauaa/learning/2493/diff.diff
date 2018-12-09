@@ -1,0 +1,4 @@
+20c20
+< public class UselessMatcherException extends Exception {
+---
+> public class UselessMatcherException 	extends Exception {

@@ -1,0 +1,4 @@
+38c38
+<         expectedEx.expectMessage(containsString("Found unexpected config entry: bad"));
+---
+>         expectedEx.expectMessage( containsString("Found unexpected config entry: bad"));

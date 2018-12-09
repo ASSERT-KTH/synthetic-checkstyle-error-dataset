@@ -1,0 +1,5 @@
+103c103,104
+<                 String resultingValue = lookupMap.get(value.toLowerCase());
+---
+>                 String resultingValue = lookupMap.get(value.
+> toLowerCase());

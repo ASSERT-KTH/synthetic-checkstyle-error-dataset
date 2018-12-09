@@ -1,0 +1,4 @@
+82c82
+<             final YauaaField field = method.getAnnotation(YauaaField.class);
+---
+>              final YauaaField field = method.getAnnotation(YauaaField.class);

@@ -1,0 +1,5 @@
+202c202,203
+<     @Test(expected = IllegalStateException.class)
+---
+>     @Test
+> (expected = IllegalStateException.class)

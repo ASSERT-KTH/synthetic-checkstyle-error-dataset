@@ -1,0 +1,5 @@
+24c24,25
+< import org.apache.hadoop.hive.serde2.objectinspector.ObjectInspector;
+---
+> import org.
+> apache.hadoop.hive.serde2.objectinspector.ObjectInspector;

@@ -1,0 +1,4 @@
+63c63
+<         pigServer.registerQuery("A = LOAD 'agents' USING mock.Storage();");
+---
+>         pigServer.registerQuery("A = LOAD 'agents' USING mock.Storage();"	);

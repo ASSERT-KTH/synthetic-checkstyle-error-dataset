@@ -1,0 +1,4 @@
+44c44
+<     private static final Logger LOG = LoggerFactory.getLogger(YauaaVersion.class);
+---
+>     private static final Logger LOG 	= LoggerFactory.getLogger(YauaaVersion.class);

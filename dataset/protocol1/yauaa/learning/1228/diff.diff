@@ -1,0 +1,5 @@
+31c31,32
+< import static nl.basjes.parse.useragent.classify.DeviceClass.RobotMobile;
+---
+> import 
+> static nl.basjes.parse.useragent.classify.DeviceClass.RobotMobile;

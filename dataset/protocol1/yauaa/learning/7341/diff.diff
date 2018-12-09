@@ -1,0 +1,5 @@
+692,693c692
+<             userAgentMaxLength = newUserAgentMaxLength;
+<         }
+---
+>             userAgentMaxLength = newUserAgentMaxLength;        }

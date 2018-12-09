@@ -1,0 +1,4 @@
+70c70
+<         public void setDeviceClass(TestRecord record, String value) {
+---
+>         public void setDeviceClass(TestRecord record, 	String value) {

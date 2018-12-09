@@ -1,0 +1,4 @@
+67c67
+<         assertEquals(1, out.size());
+---
+>        assertEquals(1, out.size());

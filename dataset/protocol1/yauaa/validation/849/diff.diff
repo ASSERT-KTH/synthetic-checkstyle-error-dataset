@@ -1,0 +1,4 @@
+77c77
+<         public String getUserAgentString(Object record) {
+---
+>         public String getUserAgentString(Object record) 	{

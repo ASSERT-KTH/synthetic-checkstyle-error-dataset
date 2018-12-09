@@ -1,0 +1,4 @@
+24c24
+< public final class EvilManualUseragentStringHacks {
+---
+> public final 	class EvilManualUseragentStringHacks {

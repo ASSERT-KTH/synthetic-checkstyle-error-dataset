@@ -1,0 +1,4 @@
+66c66
+<         Node valueNode = tuple.getValueNode();
+---
+>        Node valueNode = tuple.getValueNode();

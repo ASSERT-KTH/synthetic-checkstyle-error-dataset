@@ -1,0 +1,4 @@
+192c192
+<         return createSplitList(characters.toCharArray());
+---
+>         return createSplitList(characters	.toCharArray());

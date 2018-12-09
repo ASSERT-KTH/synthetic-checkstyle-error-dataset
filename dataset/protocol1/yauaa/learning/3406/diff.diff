@@ -1,0 +1,5 @@
+29,30c29
+<         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:DocumentationExample.yaml");
+<         assertTrue(uaa.runTests(false, true));
+---
+>         UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:DocumentationExample.yaml");        assertTrue(uaa.runTests(false, true));

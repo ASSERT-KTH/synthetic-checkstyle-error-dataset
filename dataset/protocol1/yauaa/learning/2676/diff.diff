@@ -1,0 +1,4 @@
+105c105
+<     private LRUMap<?, ?> getCache(UserAgentAnalyzer uaa) throws IllegalAccessException {
+---
+>    private LRUMap<?, ?> getCache(UserAgentAnalyzer uaa) throws IllegalAccessException {

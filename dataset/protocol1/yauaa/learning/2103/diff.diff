@@ -1,0 +1,4 @@
+80c80
+<         assertNotEquals(range1, notARange);
+---
+>         assertNotEquals (range1, notARange);

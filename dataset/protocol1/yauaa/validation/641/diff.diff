@@ -1,0 +1,5 @@
+35,36c35
+<         }
+<         CharStream inputStream = ctx.start.getInputStream();
+---
+>         }        CharStream inputStream = ctx.start.getInputStream();

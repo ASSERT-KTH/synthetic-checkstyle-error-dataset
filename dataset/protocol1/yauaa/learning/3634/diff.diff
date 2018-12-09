@@ -1,0 +1,4 @@
+181c181
+<                 public void wrongSetter(TestRecord testRecord, Double value) {
+---
+>                 public void wrongSetter(TestRecord testRecord, Double value ) {

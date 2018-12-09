@@ -1,0 +1,4 @@
+43c43
+< import nl.basjes.parse.useragent.analyze.treewalker.steps.walk.StepPrev;
+---
+> import nl.basjes	.parse.useragent.analyze.treewalker.steps.walk.StepPrev;

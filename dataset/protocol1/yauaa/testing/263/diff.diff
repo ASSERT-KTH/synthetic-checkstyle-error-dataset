@@ -1,0 +1,5 @@
+56c56,57
+<         PCollection<TestRecord> testRecords = input
+---
+>         PCollection<
+> TestRecord> testRecords = input

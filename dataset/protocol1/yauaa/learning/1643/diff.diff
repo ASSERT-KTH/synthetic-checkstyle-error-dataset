@@ -1,0 +1,5 @@
+50,51c50
+<     // CHECKSTYLE.OFF: VisibilityModifier doesn't work like that for @Parameter variables
+<     @Parameter
+---
+>     // CHECKSTYLE.OFF: VisibilityModifier doesn't work like that for @Parameter variables    @Parameter

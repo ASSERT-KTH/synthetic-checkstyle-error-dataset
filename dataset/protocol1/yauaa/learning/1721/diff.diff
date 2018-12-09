@@ -1,0 +1,4 @@
+115c115
+<                 case "git_commit_id_describe_short":
+---
+>                case "git_commit_id_describe_short":

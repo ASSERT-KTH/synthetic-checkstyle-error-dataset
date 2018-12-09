@@ -1,0 +1,4 @@
+130c130
+<         userAgentAnnotationAnalyzer.setCacheSize(1234);
+---
+>         userAgentAnnotationAnalyzer.setCacheSize( 1234);

@@ -1,0 +1,4 @@
+107c107
+<         assertEquals(1234, userAgentAnalyzer.getUserAgentMaxLength());
+---
+>        assertEquals(1234, userAgentAnalyzer.getUserAgentMaxLength());

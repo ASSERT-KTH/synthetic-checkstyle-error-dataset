@@ -1,0 +1,4 @@
+78c78
+<         assertEquals("One Two", userAgent.getValue("Combined1"));
+---
+>        assertEquals("One Two", userAgent.getValue("Combined1"));

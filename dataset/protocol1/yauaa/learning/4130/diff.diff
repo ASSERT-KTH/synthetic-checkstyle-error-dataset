@@ -1,0 +1,4 @@
+149c149
+<                 public void wrongSetter(TestRecord testRecord, String value, String extra) {
+---
+>                 public void wrongSetter(TestRecord 	testRecord, String value, String extra) {

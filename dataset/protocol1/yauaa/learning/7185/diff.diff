@@ -1,0 +1,4 @@
+143c143
+<             throw new InvalidParserConfigurationException("[Map] The mapper instance is null.");
+---
+>             throw new InvalidParserConfigurationException("[Map] The mapper instance is null.") ;

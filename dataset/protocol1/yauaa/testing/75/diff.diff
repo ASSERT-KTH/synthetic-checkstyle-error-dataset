@@ -1,0 +1,5 @@
+73c73,74
+<     private static final List<String> ALL_FIELD_NAMES = new ArrayList<>();
+---
+>     private static final List<String> ALL_FIELD_NAMES = new ArrayList<
+> >();

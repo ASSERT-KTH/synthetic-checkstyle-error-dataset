@@ -1,0 +1,4 @@
+36c36
+< import static nl.basjes.parse.useragent.utils.YamlUtils.getExactlyOneNodeTuple;
+---
+> import static nl.basjes.parse.useragent.utils	.YamlUtils.getExactlyOneNodeTuple;

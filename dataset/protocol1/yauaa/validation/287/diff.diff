@@ -1,0 +1,4 @@
+529c529
+<             add(new StepEndsWith(ctx.value.getText()));
+---
+>             add(new StepEndsWith(ctx.value.getText ()));

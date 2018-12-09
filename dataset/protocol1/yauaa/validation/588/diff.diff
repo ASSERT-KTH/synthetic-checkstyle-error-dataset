@@ -1,0 +1,4 @@
+40c40
+<                 foundCurrent = true;
+---
+>                  foundCurrent = true;

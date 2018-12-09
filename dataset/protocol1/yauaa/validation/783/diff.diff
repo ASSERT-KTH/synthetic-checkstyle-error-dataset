@@ -1,0 +1,5 @@
+45c45,46
+<         return walkNextStep(tree, input);
+---
+>         return walkNextStep(tree, 
+> input);

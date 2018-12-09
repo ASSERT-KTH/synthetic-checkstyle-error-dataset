@@ -1,0 +1,5 @@
+156c156,157
+<         checkAbsent(schema, "DeviceBrand"                    );
+---
+>         checkAbsent(
+> schema, "DeviceBrand"                    );

@@ -1,0 +1,4 @@
+94c94
+<         runTest("NotStringList1.yaml", "The value should be a string but it is a mapping");
+---
+>         runTest("NotStringList1.yaml", "The value should be a string but it is a mapping" );

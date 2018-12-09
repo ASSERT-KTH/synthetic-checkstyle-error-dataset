@@ -1,0 +1,4 @@
+62c62
+<         Match match1 = iterator.next(); // Ok
+---
+>        Match match1 = iterator.next(); // Ok

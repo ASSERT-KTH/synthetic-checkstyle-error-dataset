@@ -1,0 +1,5 @@
+118,119c118
+<         }
+<         String result = Normalize.brand(deviceName);
+---
+>         }        String result = Normalize.brand(deviceName);

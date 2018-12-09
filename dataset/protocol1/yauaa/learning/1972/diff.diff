@@ -1,0 +1,4 @@
+101c101
+<         useragentOI = (StringObjectInspector) inputOI;
+---
+>        useragentOI = (StringObjectInspector) inputOI;

@@ -1,0 +1,4 @@
+28c28
+< @SqlStatementCustomizingAnnotation(BindFieldsFactory.class)
+---
+> @SqlStatementCustomizingAnnotation(BindFieldsFactory.class )

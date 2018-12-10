@@ -1,0 +1,4 @@
+30c30
+<         register(LocalTime.class, Types.TIME, (p, i, v) -> p.setTime(i, Time.valueOf(v)));
+---
+>         register(LocalTime.class , Types.TIME, (p, i, v) -> p.setTime(i, Time.valueOf(v)));

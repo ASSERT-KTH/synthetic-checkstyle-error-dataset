@@ -1,0 +1,4 @@
+37c37
+<         boolean endOfFile = false;
+---
+>         boolean endOfFile= false;

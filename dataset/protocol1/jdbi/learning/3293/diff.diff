@@ -1,0 +1,4 @@
+31c31
+<         RowMappers mappers = registry.get(RowMappers.class);
+---
+>         RowMappers mappers = registry.get	(RowMappers.class);

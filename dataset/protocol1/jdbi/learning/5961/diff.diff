@@ -1,0 +1,5 @@
+39,40c39
+<             Token t = lexer.nextToken();
+<             switch (t.getType()) {
+---
+>             Token t = lexer.nextToken();            switch (t.getType()) {

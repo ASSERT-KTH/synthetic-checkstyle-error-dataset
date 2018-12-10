@@ -1,0 +1,4 @@
+46c46
+<     public static Set<Annotation> getQualifiers(AnnotatedElement... elements) {
+---
+>     public static Set<Annotation> getQualifiers( AnnotatedElement... elements) {

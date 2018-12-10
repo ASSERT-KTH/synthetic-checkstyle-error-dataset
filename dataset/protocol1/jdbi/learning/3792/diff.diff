@@ -1,0 +1,5 @@
+21c21,22
+<     void bind(PreparedStatement p, int index, T value) throws SQLException;
+---
+>     void bind
+> (PreparedStatement p, int index, T value) throws SQLException;

@@ -1,0 +1,4 @@
+55c55
+<     boolean isInTransaction(Handle handle);
+---
+>     boolean isInTransaction	(Handle handle);

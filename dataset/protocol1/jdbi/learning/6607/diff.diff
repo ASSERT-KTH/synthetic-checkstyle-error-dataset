@@ -1,0 +1,5 @@
+85c85,86
+<     public static QualifiedType of(GenericType<?> type, Annotation qualifier) {
+---
+>     public static QualifiedType of(GenericType<?> type, 
+> Annotation qualifier) {

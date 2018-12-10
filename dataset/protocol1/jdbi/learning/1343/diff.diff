@@ -1,0 +1,4 @@
+29c29
+<     Optional<Argument> build(QualifiedType type, Object value, ConfigRegistry config);
+---
+>     Optional<Argument> build(QualifiedType type, Object value, ConfigRegistry config );

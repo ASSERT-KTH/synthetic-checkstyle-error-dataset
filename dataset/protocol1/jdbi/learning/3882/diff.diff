@@ -1,0 +1,5 @@
+196c196,197
+<         bindings.add(currentBinding);
+---
+>         
+> bindings.add(currentBinding);

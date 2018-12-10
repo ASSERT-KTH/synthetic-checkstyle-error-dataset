@@ -1,0 +1,4 @@
+24c24
+< import org.jdbi.v3.sqlobject.locator.internal.UseAnnotationSqlLocatorImpl;
+---
+> import org.jdbi.v3. sqlobject.locator.internal.UseAnnotationSqlLocatorImpl;

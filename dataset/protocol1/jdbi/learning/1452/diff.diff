@@ -1,0 +1,5 @@
+72,73c72
+<                 () -> JdbiThreadLocals.invokeInContext(this.config, config, task));
+<     }
+---
+>                 () -> JdbiThreadLocals.invokeInContext(this.config, config, task));    }

@@ -1,0 +1,5 @@
+32c32,33
+<     public ExtensionMethod(Class<?> type, Method method) {
+---
+>     public ExtensionMethod(Class<?> type, Method 
+> method) {

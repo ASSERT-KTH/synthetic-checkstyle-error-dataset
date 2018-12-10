@@ -1,0 +1,5 @@
+22,23c22
+< public class UnableToProduceResultException extends StatementException {
+<     private static final long serialVersionUID = 1L;
+---
+> public class UnableToProduceResultException extends StatementException {    private static final long serialVersionUID = 1L;

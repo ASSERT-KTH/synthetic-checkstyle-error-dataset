@@ -1,0 +1,5 @@
+36c36,37
+<             collectors.register(type.newInstance());
+---
+>             collectors.register
+> (type.newInstance());

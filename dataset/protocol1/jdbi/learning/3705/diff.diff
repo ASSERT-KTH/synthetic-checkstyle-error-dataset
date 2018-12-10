@@ -1,0 +1,4 @@
+28c28
+<     public NoSuchExtensionException(Throwable cause) {
+---
+>     public NoSuchExtensionException(Throwable cause)  {

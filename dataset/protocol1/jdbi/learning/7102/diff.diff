@@ -1,0 +1,4 @@
+73c73
+<         return new JoinRowMapper(classes);
+---
+>         return new JoinRowMapper( classes);

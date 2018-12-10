@@ -1,0 +1,4 @@
+27c27
+<     private List<ColumnNameMatcher> columnNameMatchers;
+---
+>     private List<ColumnNameMatcher>  columnNameMatchers;

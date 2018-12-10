@@ -1,0 +1,5 @@
+40c40,41
+<     default void setRegistry(ConfigRegistry registry) {}
+---
+>     
+> default void setRegistry(ConfigRegistry registry) {}

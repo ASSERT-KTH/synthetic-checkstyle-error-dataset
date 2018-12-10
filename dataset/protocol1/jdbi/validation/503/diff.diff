@@ -1,0 +1,4 @@
+64c64
+<     public boolean isInTransaction(Handle handle) {
+---
+>     public boolean isInTransaction(	Handle handle) {

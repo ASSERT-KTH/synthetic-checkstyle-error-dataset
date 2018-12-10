@@ -1,0 +1,5 @@
+35,36c35
+<             String trimmed = extension.trim();
+<             if (!trimmed.isEmpty()) {
+---
+>             String trimmed = extension.trim();            if (!trimmed.isEmpty()) {

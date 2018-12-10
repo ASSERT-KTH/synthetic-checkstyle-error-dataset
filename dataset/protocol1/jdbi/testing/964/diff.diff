@@ -1,0 +1,4 @@
+85c85
+<     public static <T> RowMapper<T> of(Class<T> type) {
+---
+>     public static <T> RowMapper<T> of( Class<T> type) {

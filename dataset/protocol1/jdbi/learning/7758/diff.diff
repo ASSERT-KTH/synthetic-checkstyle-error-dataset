@@ -1,0 +1,4 @@
+21c21
+< public class SnakeCaseColumnNameMatcher implements ColumnNameMatcher {
+---
+> public  class SnakeCaseColumnNameMatcher implements ColumnNameMatcher {

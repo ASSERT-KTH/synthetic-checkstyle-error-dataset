@@ -1,0 +1,4 @@
+31c31
+<     Object invoke(Object target, Object[] args, HandleSupplier handle) throws Exception;
+---
+>     Object invoke(Object target,Object[] args, HandleSupplier handle) throws Exception;

@@ -1,0 +1,4 @@
+55c55
+<         this.methods = CLASS_METHODS.get(object.getClass());
+---
+>         this. methods = CLASS_METHODS.get(object.getClass());

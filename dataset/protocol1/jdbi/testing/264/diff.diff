@@ -1,0 +1,4 @@
+86c86
+<         return FieldMapper.of(type, DEFAULT_PREFIX);
+---
+>         return FieldMapper.of(type,  DEFAULT_PREFIX);

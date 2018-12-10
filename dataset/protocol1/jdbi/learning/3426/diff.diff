@@ -1,0 +1,4 @@
+58c58
+<                 Type type = types[i];
+---
+>                 Type  type = types[i];

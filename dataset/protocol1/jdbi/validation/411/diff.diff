@@ -1,0 +1,5 @@
+31c31,32
+<     default void customizeJdbi(Jdbi jdbi) {}
+---
+>     default void customizeJdbi(Jdbi 
+> jdbi) {}

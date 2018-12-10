@@ -1,0 +1,5 @@
+22c22,23
+<         register(byte.class, Types.TINYINT, PreparedStatement::setByte);
+---
+>         
+> register(byte.class, Types.TINYINT, PreparedStatement::setByte);

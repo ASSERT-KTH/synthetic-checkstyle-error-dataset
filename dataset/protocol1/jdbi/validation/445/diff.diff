@@ -1,0 +1,5 @@
+51c51,52
+<                         String key = text.substring(1, text.length() - 1);
+---
+>                         
+> String key = text.substring(1, text.length() - 1);

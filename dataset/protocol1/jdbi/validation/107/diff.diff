@@ -1,0 +1,4 @@
+98c98
+<                                                      Function<T, O> factory) {
+---
+>                                                      Function<T, O> factory ) {

@@ -1,0 +1,4 @@
+53c53
+<             return Optional.of(OptionalMapper.of(type));
+---
+>             return Optional.of (OptionalMapper.of(type));

@@ -1,0 +1,5 @@
+59c59,60
+<         return new Handles(this);
+---
+>         return new Handles
+> (this);

@@ -1,0 +1,5 @@
+33c33,34
+<     default void configureForType(ConfigRegistry registry, Annotation annotation, Class<?> sqlObjectType) {
+---
+>     default void configureForType(ConfigRegistry registry, Annotation annotation, 
+> Class<?> sqlObjectType) {

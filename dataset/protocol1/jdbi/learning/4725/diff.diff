@@ -1,0 +1,5 @@
+37c37,38
+<     private static String defaultName(String name, Method method) {
+---
+>     private static String defaultName(String name
+> , Method method) {

@@ -1,0 +1,4 @@
+19c19
+< import java.util.function.BiConsumer;
+---
+> import java. util.function.BiConsumer;

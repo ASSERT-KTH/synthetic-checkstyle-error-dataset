@@ -1,0 +1,5 @@
+24,25c24
+< public class KeyColumnImpl implements Configurer {
+<     @Override
+---
+> public class KeyColumnImpl implements Configurer {    @Override

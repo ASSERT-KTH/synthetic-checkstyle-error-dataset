@@ -1,0 +1,5 @@
+16c16,17
+< import static java.lang.annotation.ElementType.FIELD;
+---
+> import 
+> static java.lang.annotation.ElementType.FIELD;

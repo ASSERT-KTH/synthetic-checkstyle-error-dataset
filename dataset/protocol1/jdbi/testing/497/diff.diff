@@ -1,0 +1,4 @@
+23c23
+<     final Object value;
+---
+>     final Object value	;

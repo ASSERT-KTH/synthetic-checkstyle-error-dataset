@@ -1,0 +1,4 @@
+24c24
+<     public NoSuchCollectorException(String string, Throwable throwable) {
+---
+>     public NoSuchCollectorException(String string	, Throwable throwable) {

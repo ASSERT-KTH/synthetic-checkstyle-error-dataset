@@ -1,0 +1,4 @@
+19c19
+<     public ConnectionException(Throwable cause) {
+---
+>     public ConnectionException(Throwable cause){

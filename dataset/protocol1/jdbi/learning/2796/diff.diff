@@ -1,0 +1,4 @@
+489c489
+<     public TransactionIsolationLevel getTransactionIsolationLevel() {
+---
+>     public  TransactionIsolationLevel getTransactionIsolationLevel() {

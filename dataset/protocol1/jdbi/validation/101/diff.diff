@@ -1,0 +1,4 @@
+161c161
+<         public Configuration setOnSuccess(Consumer<List<Exception>> onSuccess) {
+---
+>         public Configuration setOnSuccess(	Consumer<List<Exception>> onSuccess) {

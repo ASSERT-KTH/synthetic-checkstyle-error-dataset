@@ -1,0 +1,5 @@
+45c45,46
+<     public static StatementCustomizer fetchSize(final int fetchSize) {
+---
+>     public static StatementCustomizer fetchSize
+> (final int fetchSize) {

@@ -1,0 +1,4 @@
+34c34
+<         RegisterColumnMapperFactories registerColumnMapperFactories = (RegisterColumnMapperFactories) annotation;
+---
+>         RegisterColumnMapperFactories registerColumnMapperFactories= (RegisterColumnMapperFactories) annotation;

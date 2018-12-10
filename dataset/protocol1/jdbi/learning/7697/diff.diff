@@ -1,0 +1,4 @@
+42c42
+<             TypeParameter<?> that = (TypeParameter<?>) o;
+---
+>             TypeParameter<	?> that = (TypeParameter<?>) o;

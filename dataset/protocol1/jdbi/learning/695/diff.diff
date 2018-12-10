@@ -1,0 +1,4 @@
+110c110
+<     public ColumnMappers register(QualifiedType type, ColumnMapper<?> mapper) {
+---
+>     public ColumnMappers register(QualifiedType type, ColumnMapper<?	> mapper) {

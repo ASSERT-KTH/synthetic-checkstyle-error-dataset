@@ -1,0 +1,5 @@
+46c46,47
+<             throw tooManyValues(left.value, right.value);
+---
+>             throw tooManyValues(left.value
+> , right.value);

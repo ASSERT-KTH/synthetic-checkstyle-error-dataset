@@ -1,0 +1,4 @@
+19c19
+< class BoxedArgumentFactory extends DelegatingArgumentFactory {
+---
+> class BoxedArgumentFactory extends DelegatingArgumentFactory  {

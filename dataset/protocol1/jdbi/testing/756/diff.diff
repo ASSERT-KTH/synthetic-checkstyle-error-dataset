@@ -1,0 +1,4 @@
+79c79
+<     void releaseSavepoint(Handle handle, String savepointName);
+---
+>     void releaseSavepoint(Handle handle, String  savepointName);

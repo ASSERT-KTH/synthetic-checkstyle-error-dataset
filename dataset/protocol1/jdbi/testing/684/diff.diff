@@ -1,0 +1,5 @@
+136c136,137
+<     private static <K, V, M extends Map<K, V>> M combine(M a, M b) {
+---
+>     private 
+> static <K, V, M extends Map<K, V>> M combine(M a, M b) {

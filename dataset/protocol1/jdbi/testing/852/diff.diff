@@ -1,0 +1,4 @@
+39c39
+<         collectors.put(LinkedHashSet.class, toCollection(LinkedHashSet::new));
+---
+>         collectors.put(LinkedHashSet.class, toCollection(LinkedHashSet::new) );

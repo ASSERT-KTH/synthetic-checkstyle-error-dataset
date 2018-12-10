@@ -1,0 +1,5 @@
+54c54,55
+<     R produce(Supplier<PreparedStatement> statementSupplier, StatementContext ctx) throws SQLException;
+---
+>     R produce(Supplier<PreparedStatement> statementSupplier, StatementContext ctx) 
+> throws SQLException;

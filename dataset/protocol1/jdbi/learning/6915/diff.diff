@@ -1,0 +1,5 @@
+22,23c22
+< public interface CallableStatementMapper {
+<     Object map(int position, CallableStatement stmt) throws SQLException;
+---
+> public interface CallableStatementMapper {    Object map(int position, CallableStatement stmt) throws SQLException;

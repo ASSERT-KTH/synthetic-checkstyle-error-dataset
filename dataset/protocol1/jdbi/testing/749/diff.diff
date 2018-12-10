@@ -1,0 +1,4 @@
+51c51
+<                 .map(type -> type.getAnnotation(SqlMethodDecoratingAnnotation.class))
+---
+>                 .map(type-> type.getAnnotation(SqlMethodDecoratingAnnotation.class))

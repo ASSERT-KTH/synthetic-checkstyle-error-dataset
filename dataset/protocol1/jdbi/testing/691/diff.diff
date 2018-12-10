@@ -1,0 +1,5 @@
+29c29,30
+<     public LoggableSetObjectArgument(T value, int sqlType) {
+---
+>     public 
+> LoggableSetObjectArgument(T value, int sqlType) {

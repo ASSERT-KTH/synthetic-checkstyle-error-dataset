@@ -1,0 +1,4 @@
+74c74
+<         return this.register(RowMapperFactory.of(type.getType(), mapper));
+---
+>         return this.register(RowMapperFactory.of	(type.getType(), mapper));

@@ -1,0 +1,4 @@
+41c41
+<         java.sql.Array array = r.getArray(columnNumber);
+---
+>         java.sql.Array array = r.getArray (columnNumber);

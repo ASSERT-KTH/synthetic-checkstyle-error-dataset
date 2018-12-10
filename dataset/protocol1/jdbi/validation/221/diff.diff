@@ -1,0 +1,4 @@
+43c43
+<         mappers.put(Boolean.class, new GetterMapper<>(ResultSet::getBoolean));
+---
+>         mappers.put(Boolean.class, new GetterMapper<> (ResultSet::getBoolean));

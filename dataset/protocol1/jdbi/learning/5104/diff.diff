@@ -1,0 +1,4 @@
+45c45
+<                 if (annotation.convertKeys() || k instanceof String) {
+---
+>                 if (annotation.	convertKeys() || k instanceof String) {

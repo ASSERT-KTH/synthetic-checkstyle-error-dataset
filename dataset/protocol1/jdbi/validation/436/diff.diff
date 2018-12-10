@@ -1,0 +1,5 @@
+56c56,57
+<         return map(r, r.findColumn(columnLabel), ctx);
+---
+>         return map(r, 
+> r.findColumn(columnLabel), ctx);

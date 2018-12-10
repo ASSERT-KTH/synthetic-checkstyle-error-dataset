@@ -1,0 +1,4 @@
+35c35
+<         register(new ListCollectorFactory());
+---
+>         register( new ListCollectorFactory());

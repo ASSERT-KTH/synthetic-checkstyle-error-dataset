@@ -1,0 +1,5 @@
+31c31,32
+<         if (!isStaticFactoryMethodFor(method, type)) {
+---
+>         if 
+> (!isStaticFactoryMethodFor(method, type)) {

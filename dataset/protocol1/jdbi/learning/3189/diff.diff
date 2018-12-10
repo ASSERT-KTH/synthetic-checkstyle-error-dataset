@@ -1,0 +1,4 @@
+35c35
+<         ELEMENT_TYPES.put(OptionalInt.class, Integer.class);
+---
+>         ELEMENT_TYPES.put(OptionalInt.class, Integer.	class);

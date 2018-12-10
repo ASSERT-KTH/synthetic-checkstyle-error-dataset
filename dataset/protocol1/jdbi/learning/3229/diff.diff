@@ -1,0 +1,4 @@
+28c28
+<     public static <T> Optional<T> findFirstPresent(Supplier<Optional<T>>... suppliers) {
+---
+>     public static <T> Optional<T>  findFirstPresent(Supplier<Optional<T>>... suppliers) {

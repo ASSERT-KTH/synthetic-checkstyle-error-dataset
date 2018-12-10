@@ -1,0 +1,4 @@
+40c40
+<     Optional<Type> elementType(Type containerType);
+---
+>     Optional<Type> elementType	(Type containerType);

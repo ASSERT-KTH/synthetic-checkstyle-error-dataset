@@ -1,0 +1,4 @@
+26c26
+<         return new ConstantHandleSupplier(handle);
+---
+>         return new ConstantHandleSupplier( handle);

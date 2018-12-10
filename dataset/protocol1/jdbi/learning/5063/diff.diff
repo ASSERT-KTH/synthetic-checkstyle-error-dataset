@@ -1,0 +1,5 @@
+103,104c103
+<         String sanitized = Arrays.stream(path.split(Pattern.quote(SLASH)))
+<             .map(String::trim)
+---
+>         String sanitized = Arrays.stream(path.split(Pattern.quote(SLASH)))            .map(String::trim)

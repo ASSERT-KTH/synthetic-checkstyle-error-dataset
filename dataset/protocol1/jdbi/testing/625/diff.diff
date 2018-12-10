@@ -1,0 +1,4 @@
+25c25
+<             throw new IllegalArgumentException(String.format(errorMessageTemplate, errorMessageArgs));
+---
+>             throw new IllegalArgumentException(String.format(errorMessageTemplate, errorMessageArgs) );

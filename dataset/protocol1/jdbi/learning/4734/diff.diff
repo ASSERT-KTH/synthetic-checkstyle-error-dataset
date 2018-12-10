@@ -1,0 +1,4 @@
+23c23
+< class LazyHandleSupplier implements HandleSupplier, AutoCloseable {
+---
+> class  LazyHandleSupplier implements HandleSupplier, AutoCloseable {

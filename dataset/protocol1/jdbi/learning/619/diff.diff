@@ -1,0 +1,4 @@
+26c26
+< class SqlMethodHandlerFactory implements HandlerFactory {
+---
+> class SqlMethodHandlerFactory implements HandlerFactory  {

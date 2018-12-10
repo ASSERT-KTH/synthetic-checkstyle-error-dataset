@@ -1,0 +1,5 @@
+78,79c78
+<     private static class ByOrdinal<E extends Enum<E>> extends EnumMapper<E> {
+<         private final E[] constants;
+---
+>     private static class ByOrdinal<E extends Enum<E>> extends EnumMapper<E> {        private final E[] constants;

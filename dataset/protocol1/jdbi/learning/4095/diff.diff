@@ -1,0 +1,4 @@
+34c34
+<         } else if (OutParameters.class.isAssignableFrom(returnClass)) {
+---
+>         } else if (OutParameters.class.isAssignableFrom(returnClass )) {

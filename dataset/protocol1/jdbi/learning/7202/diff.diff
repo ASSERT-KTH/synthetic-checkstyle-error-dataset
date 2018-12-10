@@ -1,0 +1,5 @@
+83c83,84
+<                 return SqlLoggerUtil.wrap(stmt::executeBatch, getContext(), getConfig(SqlStatements.class).getSqlLogger());
+---
+>                 return SqlLoggerUtil.wrap(stmt::executeBatch, getContext()
+> , getConfig(SqlStatements.class).getSqlLogger());

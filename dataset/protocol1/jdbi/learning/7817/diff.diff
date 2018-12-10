@@ -1,0 +1,4 @@
+76c76
+<         if (!isInstance.test(type, value)) {
+---
+>         if (!isInstance.test(type, value)	) {

@@ -1,0 +1,5 @@
+175c175,176
+<         try (Stream<T> stream = stream()) {
+---
+>         try 
+> (Stream<T> stream = stream()) {

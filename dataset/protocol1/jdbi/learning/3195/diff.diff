@@ -1,0 +1,4 @@
+84c84
+<     public RowMappers register(Type type, RowMapper<?> mapper) {
+---
+>     	public RowMappers register(Type type, RowMapper<?> mapper) {

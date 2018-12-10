@@ -1,0 +1,4 @@
+79c79
+<     private static List<String> getColumnNames(ResultSet rs, UnaryOperator<String> caseChange) throws SQLException {
+---
+>     private static List<String> getColumnNames(ResultSet rs, UnaryOperator<String>caseChange) throws SQLException {

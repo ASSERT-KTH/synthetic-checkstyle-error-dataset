@@ -1,0 +1,4 @@
+23c23
+<     Object map(int position, CallableStatement stmt) throws SQLException;
+---
+>     Object map (int position, CallableStatement stmt) throws SQLException;

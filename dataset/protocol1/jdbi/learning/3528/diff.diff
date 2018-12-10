@@ -1,0 +1,4 @@
+45c45
+<     <T> void register(Class<T> klass, int sqlType, StatementBinder<T> binder) {
+---
+>     <T> void register(Class<T> klass	, int sqlType, StatementBinder<T> binder) {

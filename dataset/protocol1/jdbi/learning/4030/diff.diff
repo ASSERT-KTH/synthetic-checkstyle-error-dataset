@@ -1,0 +1,5 @@
+69c69,70
+<                 throw new UnableToCreateStatementException(String.format("Exception while binding named parameter '%s'", name), e, context);
+---
+>                 throw new UnableToCreateStatementException(String.format("Exception while binding named parameter '%s'", name)
+> , e, context);

@@ -1,0 +1,4 @@
+112c112
+<         return new ParsedParameters(true, Collections.nCopies(count, "?"));
+---
+>         return new ParsedParameters(true, Collections.nCopies(count, "?")	);

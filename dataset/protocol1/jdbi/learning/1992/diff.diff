@@ -1,0 +1,5 @@
+95c95,96
+<                 + " method is annotated with @SqlUpdate so should return void, boolean, or Number but is returning: "
+---
+>                 + 
+> " method is annotated with @SqlUpdate so should return void, boolean, or Number but is returning: "

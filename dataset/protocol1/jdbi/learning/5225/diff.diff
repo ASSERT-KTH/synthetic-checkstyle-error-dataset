@@ -1,0 +1,4 @@
+28c28
+< @ConfiguringAnnotation(RegisterObjectArgumentFactoryImpl.class)
+---
+> @ConfiguringAnnotation(	RegisterObjectArgumentFactoryImpl.class)

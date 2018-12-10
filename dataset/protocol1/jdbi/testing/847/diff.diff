@@ -1,0 +1,5 @@
+225c225,226
+<                 TypeVariableKey variable = mapping.getKey();
+---
+>                 
+> TypeVariableKey variable = mapping.getKey();

@@ -1,0 +1,5 @@
+100c100,101
+<     public Map.Entry<K, V> map(ResultSet rs, StatementContext ctx) throws SQLException {
+---
+>     public Map.Entry<K, V> 
+> map(ResultSet rs, StatementContext ctx) throws SQLException {

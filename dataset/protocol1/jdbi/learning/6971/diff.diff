@@ -1,0 +1,5 @@
+25,26c25
+< class CollectorColumnMapper<T, A, R> implements ColumnMapper<R> {
+<     private final ColumnMapper<T> elementMapper;
+---
+> class CollectorColumnMapper<T, A, R> implements ColumnMapper<R> {    private final ColumnMapper<T> elementMapper;

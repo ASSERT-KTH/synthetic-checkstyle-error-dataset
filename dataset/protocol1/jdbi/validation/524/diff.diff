@@ -1,0 +1,5 @@
+87,88c87
+<             alreadyAdvanced = safeNext();
+<             if (!alreadyAdvanced) {
+---
+>             alreadyAdvanced = safeNext();            if (!alreadyAdvanced) {

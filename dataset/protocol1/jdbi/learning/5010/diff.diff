@@ -1,0 +1,4 @@
+189c189
+<         mapper.ifPresent(m -> cache.put(type, m));
+---
+>         mapper.ifPresent(m -> cache.put( type, m));

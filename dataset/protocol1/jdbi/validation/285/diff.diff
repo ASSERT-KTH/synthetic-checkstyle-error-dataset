@@ -1,0 +1,5 @@
+24c24,25
+< public class OutParameterListFactory implements SqlStatementCustomizerFactory {
+---
+> public 
+> class OutParameterListFactory implements SqlStatementCustomizerFactory {

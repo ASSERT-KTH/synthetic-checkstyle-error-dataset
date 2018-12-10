@@ -1,0 +1,4 @@
+29c29
+<         register(LocalDate.class, Types.DATE, (p, i, v) -> p.setDate(i, java.sql.Date.valueOf(v)));
+---
+>         register(LocalDate.class, Types.DATE, (p,i, v) -> p.setDate(i, java.sql.Date.valueOf(v)));

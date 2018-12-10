@@ -1,0 +1,4 @@
+40c40
+<     public Object map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException {
+---
+>     public Object  map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException {

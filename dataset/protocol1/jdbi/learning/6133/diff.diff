@@ -1,0 +1,4 @@
+26c26
+<         Configurer delegate = new RegisterBeanMapperImpl();
+---
+>         	Configurer delegate = new RegisterBeanMapperImpl();

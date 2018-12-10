@@ -1,0 +1,5 @@
+418c418,419
+<     default Object collectInto(Type containerType) {
+---
+>     default 
+> Object collectInto(Type containerType) {

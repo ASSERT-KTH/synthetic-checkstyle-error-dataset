@@ -1,0 +1,4 @@
+37c37
+<         StringBuilder b = new StringBuilder();
+---
+>         StringBuilder b = new  StringBuilder();

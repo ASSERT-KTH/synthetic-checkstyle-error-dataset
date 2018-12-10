@@ -1,0 +1,5 @@
+31c31,32
+< import org.jdbi.v3.core.mapper.GenericMapMapperFactory;
+---
+> import org.jdbi.v3.core.mapper.GenericMapMapperFactory
+> ;

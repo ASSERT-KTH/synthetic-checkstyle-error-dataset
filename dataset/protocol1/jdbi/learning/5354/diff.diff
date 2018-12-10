@@ -1,0 +1,4 @@
+39c39
+< @SqlStatementCustomizingAnnotation(BindBeanListFactory.class)
+---
+> @SqlStatementCustomizingAnnotation(BindBeanListFactory.class	)

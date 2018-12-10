@@ -1,0 +1,5 @@
+46c46,47
+<     public JdbiCollectors register(CollectorFactory factory) {
+---
+>     public JdbiCollectors 
+> register(CollectorFactory factory) {

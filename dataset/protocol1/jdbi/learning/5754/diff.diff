@@ -1,0 +1,5 @@
+29c29,30
+< public class SqlArrayTypes implements JdbiConfig<SqlArrayTypes> {
+---
+> public 
+> class SqlArrayTypes implements JdbiConfig<SqlArrayTypes> {

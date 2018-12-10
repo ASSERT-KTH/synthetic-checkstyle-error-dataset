@@ -1,0 +1,4 @@
+69c69
+<     public Query setFetchSize(final int fetchSize) {
+---
+>     public Query setFetchSize	(final int fetchSize) {

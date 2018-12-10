@@ -1,0 +1,4 @@
+39c39
+<     private static final TypeVariable<Class<Map.Entry>> VALUE_PARAM;
+---
+>     private static final TypeVariable<Class<Map.Entry	>> VALUE_PARAM;

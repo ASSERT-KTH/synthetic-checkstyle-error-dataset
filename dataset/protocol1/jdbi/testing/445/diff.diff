@@ -1,0 +1,5 @@
+26c26,27
+<     private static final Method HASHCODE_METHOD;
+---
+>     private static final 
+> Method HASHCODE_METHOD;

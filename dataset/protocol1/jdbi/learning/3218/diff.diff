@@ -1,0 +1,4 @@
+30c30
+<                           Collector<T, A, R> collector) {
+---
+>                           Collector< T, A, R> collector) {

@@ -1,0 +1,4 @@
+311c311
+<         LOG.trace("Handle [{}] rollback transaction in {}ms", this, (System.nanoTime() - start) / 1000000L);
+---
+>         LOG.trace("Handle [{}] rollback transaction in {}ms", this, (System.	nanoTime() - start) / 1000000L);

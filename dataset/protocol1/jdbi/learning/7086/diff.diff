@@ -1,0 +1,4 @@
+97c97
+<         return RowMapperFactory.of(type, BeanMapper.of(type, prefix));
+---
+>         return RowMapperFactory.of(type, BeanMapper.of(type , prefix));

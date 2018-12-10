@@ -1,0 +1,5 @@
+33,34c33
+<         RegisterRowMappers registerRowMappers = (RegisterRowMappers) annotation;
+<         Stream.of(registerRowMappers.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));
+---
+>         RegisterRowMappers registerRowMappers = (RegisterRowMappers) annotation;        Stream.of(registerRowMappers.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));

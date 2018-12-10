@@ -1,0 +1,4 @@
+33c33
+<             mappers.register(FieldMapper.factory(type));
+---
+>             mappers.register(FieldMapper.factory(type	));

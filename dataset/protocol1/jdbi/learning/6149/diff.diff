@@ -1,0 +1,4 @@
+30c30
+<         throw new UnsupportedOperationException();
+---
+>         throw new UnsupportedOperationException()	;

@@ -1,0 +1,5 @@
+37c37,38
+<         this.results = requireNonNull(results);
+---
+>         this.results 
+> = requireNonNull(results);

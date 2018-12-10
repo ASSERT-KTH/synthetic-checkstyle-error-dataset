@@ -1,0 +1,4 @@
+34c34
+<     Class<? extends RowReducer<?, ?>> value();
+---
+>     Class	<? extends RowReducer<?, ?>> value();

@@ -1,0 +1,5 @@
+113c113,114
+<                 .flatMap(factory -> toStream(factory.build(elementType, registry)))
+---
+>                 .flatMap(factory -> 
+> toStream(factory.build(elementType, registry)))

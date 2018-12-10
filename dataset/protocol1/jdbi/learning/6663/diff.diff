@@ -1,0 +1,5 @@
+17c17,18
+< import java.lang.annotation.Annotation;
+---
+> import 
+> java.lang.annotation.Annotation;

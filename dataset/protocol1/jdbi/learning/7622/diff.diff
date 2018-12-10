@@ -1,0 +1,4 @@
+36c36
+<     public R map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException {
+---
+>     public R map(	ResultSet r, int columnNumber, StatementContext ctx) throws SQLException {

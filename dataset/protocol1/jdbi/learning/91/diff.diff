@@ -1,0 +1,5 @@
+36c36,37
+<             JdbiConfig<?> copy = config.createCopy();
+---
+>             JdbiConfig<?> copy = config.createCopy
+> ();

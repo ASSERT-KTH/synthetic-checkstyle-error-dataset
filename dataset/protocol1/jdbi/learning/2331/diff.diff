@@ -1,0 +1,5 @@
+30,31c30
+< public @interface FetchSize {
+<     int value() default 0;
+---
+> public @interface FetchSize {    int value() default 0;

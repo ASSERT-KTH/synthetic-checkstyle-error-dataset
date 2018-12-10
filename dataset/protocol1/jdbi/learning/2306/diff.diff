@@ -1,0 +1,4 @@
+56c56
+<         this.customizers.addAll(that.customizers);
+---
+>         this.customizers.addAll	(that.customizers);

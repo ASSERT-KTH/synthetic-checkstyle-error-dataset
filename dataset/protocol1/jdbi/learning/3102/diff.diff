@@ -1,0 +1,4 @@
+24c24
+< import org.jdbi.v3.core.qualifier.QualifiedType;
+---
+> import org.jdbi.v3.core.	qualifier.QualifiedType;

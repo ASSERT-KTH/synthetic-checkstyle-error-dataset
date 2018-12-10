@@ -1,0 +1,5 @@
+39,40c39
+<         this.ascii = ascii;
+<     }
+---
+>         this.ascii = ascii;    }

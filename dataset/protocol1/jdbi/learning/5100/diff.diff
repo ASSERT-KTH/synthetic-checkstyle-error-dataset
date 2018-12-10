@@ -1,0 +1,4 @@
+22c22
+< @SuppressWarnings("PMD.AbstractClassWithoutAbstractMethod")
+---
+> @ SuppressWarnings("PMD.AbstractClassWithoutAbstractMethod")

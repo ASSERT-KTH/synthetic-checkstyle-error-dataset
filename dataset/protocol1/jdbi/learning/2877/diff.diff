@@ -1,0 +1,4 @@
+44c44
+< import static org.jdbi.v3.core.qualifier.Qualifiers.getQualifiers;
+---
+> import static org.jdbi.v3.core. qualifier.Qualifiers.getQualifiers;

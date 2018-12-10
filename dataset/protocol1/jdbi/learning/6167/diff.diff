@@ -1,0 +1,5 @@
+23c23,24
+< public class NoSuchCollectorException extends JdbiException {
+---
+> public class NoSuchCollectorException extends 
+> JdbiException {

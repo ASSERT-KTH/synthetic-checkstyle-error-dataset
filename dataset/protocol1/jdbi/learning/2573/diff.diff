@@ -1,0 +1,4 @@
+23c23
+< abstract class TypeCapture<T> {
+---
+> abstract class  TypeCapture<T> {

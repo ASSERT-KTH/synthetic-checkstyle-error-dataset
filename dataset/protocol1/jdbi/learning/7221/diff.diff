@@ -1,0 +1,5 @@
+52c52,53
+<             .flatMap(factory -> JdbiStreams.toStream(factory.build(expectedType, value, config)))
+---
+>             .flatMap(factory 
+> -> JdbiStreams.toStream(factory.build(expectedType, value, config)))

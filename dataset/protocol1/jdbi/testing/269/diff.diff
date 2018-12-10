@@ -1,0 +1,5 @@
+24c24,25
+<     public UnableToCreateSqlObjectException(String message) {
+---
+>     public UnableToCreateSqlObjectException(String 
+> message) {

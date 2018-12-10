@@ -1,0 +1,4 @@
+30c30
+<         return stmt -> stmt.setQueryTimeout(queryTimeout);
+---
+>         	return stmt -> stmt.setQueryTimeout(queryTimeout);

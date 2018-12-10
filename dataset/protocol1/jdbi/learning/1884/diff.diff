@@ -1,0 +1,5 @@
+17c17,18
+< import java.lang.annotation.Inherited;
+---
+> import 
+> java.lang.annotation.Inherited;

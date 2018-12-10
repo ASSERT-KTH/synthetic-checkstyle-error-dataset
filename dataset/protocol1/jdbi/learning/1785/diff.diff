@@ -1,0 +1,4 @@
+34c34
+<             final String prefix = ((BindMethods) annotation).value();
+---
+>             final String prefix = ((BindMethods) annotation).value()	;

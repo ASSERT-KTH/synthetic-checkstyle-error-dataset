@@ -1,0 +1,5 @@
+23c23,24
+<         register(java.util.Date.class, Types.TIMESTAMP, (p, i, v) -> p.setTimestamp(i, new Timestamp(v.getTime())));
+---
+>         register(java.util.Date.class, 
+> Types.TIMESTAMP, (p, i, v) -> p.setTimestamp(i, new Timestamp(v.getTime())));

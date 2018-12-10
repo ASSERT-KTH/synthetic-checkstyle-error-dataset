@@ -1,0 +1,4 @@
+217c217
+<             throw new IllegalArgumentException(String.format(CANNOT_ACCESS_PROPERTY, field.getName()), e);
+---
+>             throw new IllegalArgumentException(String.format(CANNOT_ACCESS_PROPERTY, field.getName()), e)	;

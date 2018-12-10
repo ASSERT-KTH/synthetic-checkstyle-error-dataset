@@ -1,0 +1,5 @@
+52c52,53
+<     private Optional<ColumnMapper<?>> elementTypeMapper(Type elementType, ConfigRegistry config) {
+---
+>     
+> private Optional<ColumnMapper<?>> elementTypeMapper(Type elementType, ConfigRegistry config) {

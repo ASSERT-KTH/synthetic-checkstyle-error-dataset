@@ -1,0 +1,4 @@
+26c26
+<     public String locate(Class<?> sqlObjectType, Method method, ConfigRegistry config) {
+---
+>     public String locate(Class<?> sqlObjectType, Method  method, ConfigRegistry config) {

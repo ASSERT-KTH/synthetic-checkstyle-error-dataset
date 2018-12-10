@@ -1,0 +1,5 @@
+58c58,59
+<         this.sqlLocator = Objects.requireNonNull(sqlLocator);
+---
+>         
+> this.sqlLocator = Objects.requireNonNull(sqlLocator);

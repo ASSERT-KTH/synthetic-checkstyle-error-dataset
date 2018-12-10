@@ -1,0 +1,4 @@
+25c25
+<     private final int sqlType;
+---
+>     private final int sqlType	;

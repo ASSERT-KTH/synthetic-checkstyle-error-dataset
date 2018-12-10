@@ -1,0 +1,5 @@
+38,39c38
+< class EssentialsMapperFactory implements ColumnMapperFactory {
+<     private final Map<Class<?>, ColumnMapper<?>> mappers = new IdentityHashMap<>();
+---
+> class EssentialsMapperFactory implements ColumnMapperFactory {    private final Map<Class<?>, ColumnMapper<?>> mappers = new IdentityHashMap<>();

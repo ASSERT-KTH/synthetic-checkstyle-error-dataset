@@ -1,0 +1,4 @@
+37c37
+<         register(new OptionalPrimitiveCollectorFactory());
+---
+>         register (new OptionalPrimitiveCollectorFactory());

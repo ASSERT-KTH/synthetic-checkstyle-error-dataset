@@ -1,0 +1,5 @@
+302,303c302
+<             Handle h = new Handle(config.createCopy(), connectionFactory::closeConnection, transactionhandler.get(), cache, conn);
+<             for (JdbiPlugin p : plugins) {
+---
+>             Handle h = new Handle(config.createCopy(), connectionFactory::closeConnection, transactionhandler.get(), cache, conn);            for (JdbiPlugin p : plugins) {

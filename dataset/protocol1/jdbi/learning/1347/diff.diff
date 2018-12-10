@@ -1,0 +1,4 @@
+79c79
+<                 throw new UnableToExecuteStatementException("Unable to configure JDBC statement", e, getContext());
+---
+>                 throw new UnableToExecuteStatementException	("Unable to configure JDBC statement", e, getContext());

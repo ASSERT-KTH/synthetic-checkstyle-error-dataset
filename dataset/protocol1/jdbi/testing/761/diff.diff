@@ -1,0 +1,4 @@
+71c71
+<     void rollbackToSavepoint(Handle handle, String savepointName);
+---
+>     void rollbackToSavepoint	(Handle handle, String savepointName);

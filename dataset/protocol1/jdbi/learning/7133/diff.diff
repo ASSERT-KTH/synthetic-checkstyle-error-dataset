@@ -1,0 +1,5 @@
+34,35c34
+< class MapCollectorFactory implements CollectorFactory {
+<     private final Map<Class<?>, Collector<?, ?, ?>> collectors = new IdentityHashMap<>();
+---
+> class MapCollectorFactory implements CollectorFactory {    private final Map<Class<?>, Collector<?, ?, ?>> collectors = new IdentityHashMap<>();

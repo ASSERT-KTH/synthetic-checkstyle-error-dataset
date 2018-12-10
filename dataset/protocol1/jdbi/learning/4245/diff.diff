@@ -1,0 +1,5 @@
+48c48,49
+<     private final List<Binding> bindings = new ArrayList<>();
+---
+>     private final List<Binding> bindings = new 
+> ArrayList<>();

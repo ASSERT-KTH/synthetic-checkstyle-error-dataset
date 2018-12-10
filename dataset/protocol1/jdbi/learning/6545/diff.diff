@@ -1,0 +1,4 @@
+41c41
+<         collectors.put(CopyOnWriteArrayList.class, toCollection(CopyOnWriteArrayList::new));
+---
+>         collectors.put(CopyOnWriteArrayList.class, toCollection(CopyOnWriteArrayList::new))	;

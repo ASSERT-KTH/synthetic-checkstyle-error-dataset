@@ -1,0 +1,4 @@
+42c42
+<         columnNameMatchers = new ArrayList<>(that.columnNameMatchers);
+---
+>         columnNameMatchers = new ArrayList<>(that.columnNameMatchers );

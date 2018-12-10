@@ -1,0 +1,4 @@
+301c301
+<             class LocalClass<T> {}
+---
+>             class LocalClass< T> {}

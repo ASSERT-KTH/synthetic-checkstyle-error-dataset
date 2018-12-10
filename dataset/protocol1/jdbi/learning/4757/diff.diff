@@ -1,0 +1,4 @@
+50c50
+<         this.attributes = new ConcurrentHashMap<>(that.attributes);
+---
+>         this.attributes = new ConcurrentHashMap<> (that.attributes);

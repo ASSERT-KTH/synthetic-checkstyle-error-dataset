@@ -1,0 +1,4 @@
+26c26
+<         register(long.class, Types.INTEGER, PreparedStatement::setLong);
+---
+>         register(long.class, Types.INTEGER , PreparedStatement::setLong);

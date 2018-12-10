@@ -1,0 +1,4 @@
+46c46
+<         return (t, ctx) -> t.equals(type)
+---
+>         return (t, ctx) -> t.equals(type	)

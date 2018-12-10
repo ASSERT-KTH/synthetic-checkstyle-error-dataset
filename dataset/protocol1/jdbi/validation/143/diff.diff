@@ -1,0 +1,5 @@
+128c128,129
+<     public static Jdbi create(final String url, final String username, final String password) {
+---
+>     public static Jdbi create(final String url, final String 
+> username, final String password) {

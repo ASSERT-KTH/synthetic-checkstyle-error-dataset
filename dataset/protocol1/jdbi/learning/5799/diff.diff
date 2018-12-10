@@ -1,0 +1,4 @@
+41c41
+<         return (stmt, arg) -> {
+---
+>         return (stmt	, arg) -> {

@@ -1,0 +1,5 @@
+423c423,424
+<     public <X extends Exception> void useTransaction(final TransactionIsolationLevel level, final HandleConsumer<X> callback) throws X {
+---
+>     public 
+> <X extends Exception> void useTransaction(final TransactionIsolationLevel level, final HandleConsumer<X> callback) throws X {

@@ -1,0 +1,4 @@
+26c26
+< import org.jdbi.v3.sqlobject.internal.ParameterUtil;
+---
+> import org.jdbi.v3.sqlobject.internal. ParameterUtil;

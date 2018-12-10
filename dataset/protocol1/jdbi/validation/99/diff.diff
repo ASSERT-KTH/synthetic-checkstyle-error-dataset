@@ -1,0 +1,5 @@
+20c20,21
+< import static org.jdbi.v3.core.generic.GenericTypes.getErasedType;
+---
+> import static org.jdbi.v3.core.generic.GenericTypes.getErasedType
+> ;

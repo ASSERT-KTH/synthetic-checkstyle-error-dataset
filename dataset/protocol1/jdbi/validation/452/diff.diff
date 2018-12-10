@@ -1,0 +1,4 @@
+59c59
+<             return new StaticMethodInstanceFactory<>(type, explicitFactoryMethods.get(0));
+---
+>             	return new StaticMethodInstanceFactory<>(type, explicitFactoryMethods.get(0));

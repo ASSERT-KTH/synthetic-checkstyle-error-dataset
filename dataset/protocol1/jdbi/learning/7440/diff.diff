@@ -1,0 +1,4 @@
+780c780
+<     public void updateNClob(String columnLabel, NClob nClob) {
+---
+>     	public void updateNClob(String columnLabel, NClob nClob) {

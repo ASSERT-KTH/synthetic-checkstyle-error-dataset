@@ -1,0 +1,5 @@
+38,39c38
+<         strictMatching = false;
+<     }
+---
+>         strictMatching = false;    }

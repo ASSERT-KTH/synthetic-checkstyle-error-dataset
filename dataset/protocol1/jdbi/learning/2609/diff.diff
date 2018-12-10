@@ -1,0 +1,4 @@
+67c67
+<             resolver = typeResolver = TypeResolver.accordingTo(runtimeType);
+---
+>             resolver =typeResolver = TypeResolver.accordingTo(runtimeType);

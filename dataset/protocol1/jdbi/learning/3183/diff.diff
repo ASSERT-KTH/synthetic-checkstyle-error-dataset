@@ -1,0 +1,4 @@
+54c54
+<             return magic.mappedResult(iterable, ctx);
+---
+>             return magic.mappedResult(iterable , ctx);

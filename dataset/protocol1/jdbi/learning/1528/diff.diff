@@ -1,0 +1,4 @@
+79c79
+<         Type type = method.getGenericReturnType();
+---
+>         Type type = method.getGenericReturnType() ;

@@ -1,0 +1,4 @@
+52c52
+<     public static QualifiedType of(Type type, Annotation qualifier) {
+---
+>     public static  QualifiedType of(Type type, Annotation qualifier) {

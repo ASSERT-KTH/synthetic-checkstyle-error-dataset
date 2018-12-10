@@ -1,0 +1,4 @@
+33c33
+<                 .filter(type -> type.isAnnotationPresent(SqlStatementCustomizingAnnotation.class))
+---
+>                 .filter(type -> type.isAnnotationPresent(	SqlStatementCustomizingAnnotation.class))

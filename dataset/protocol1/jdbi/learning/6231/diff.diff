@@ -1,0 +1,4 @@
+35c35
+<         this.length = length;
+---
+>         this.length = length	;

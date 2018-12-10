@@ -1,0 +1,5 @@
+58c58,59
+<         return s == null ? null : UUID.fromString(s);
+---
+>         return s == null ? null 
+> : UUID.fromString(s);

@@ -1,0 +1,4 @@
+55c55
+<                 eT -> config.get(SqlArrayTypes.class).findFor(eT);
+---
+>                 eT -> config. get(SqlArrayTypes.class).findFor(eT);

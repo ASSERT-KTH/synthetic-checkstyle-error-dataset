@@ -1,0 +1,5 @@
+30,31c30
+< public class Update extends SqlStatement<Update> {
+<     public Update(Handle handle, String sql) {
+---
+> public class Update extends SqlStatement<Update> {    public Update(Handle handle, String sql) {

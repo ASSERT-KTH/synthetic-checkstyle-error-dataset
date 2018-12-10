@@ -1,0 +1,4 @@
+33c33
+< @SqlStatementCustomizingAnnotation(MapToFactory.class)
+---
+> @SqlStatementCustomizingAnnotation(	MapToFactory.class)

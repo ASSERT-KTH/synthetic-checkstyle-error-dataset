@@ -1,0 +1,4 @@
+65c65
+<     private static InetAddress getInetAddress(ResultSet r, int i, StatementContext ctx) throws SQLException {
+---
+>     private static InetAddress getInetAddress(	ResultSet r, int i, StatementContext ctx) throws SQLException {

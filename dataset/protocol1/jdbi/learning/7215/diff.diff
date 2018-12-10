@@ -1,0 +1,4 @@
+34c34
+<         Class<? extends CollectorFactory> type = registerCollectorFactory.value();
+---
+>         Class<? extends CollectorFactory> type =registerCollectorFactory.value();

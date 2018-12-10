@@ -1,0 +1,4 @@
+43c43
+<         collectors.put(ConcurrentMap.class, toMap(ConcurrentHashMap::new));
+---
+>         collectors.put(ConcurrentMap.class,toMap(ConcurrentHashMap::new));

@@ -1,0 +1,4 @@
+28c28
+<         register(URL.class, Types.DATALINK, PreparedStatement::setURL);
+---
+>         register(URL.class, Types.DATALINK,PreparedStatement::setURL);

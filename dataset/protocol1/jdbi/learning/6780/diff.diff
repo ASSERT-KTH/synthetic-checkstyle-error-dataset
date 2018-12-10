@@ -1,0 +1,5 @@
+27c27,28
+<         register(Float.class, Types.FLOAT, PreparedStatement::setFloat);
+---
+>         register(Float.class, Types.FLOAT
+> , PreparedStatement::setFloat);

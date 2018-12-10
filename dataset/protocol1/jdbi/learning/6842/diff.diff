@@ -1,0 +1,5 @@
+20c20,21
+< class UntypedNullArgumentFactory implements ArgumentFactory {
+---
+> class 
+> UntypedNullArgumentFactory implements ArgumentFactory {

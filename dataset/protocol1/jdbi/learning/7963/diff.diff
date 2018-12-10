@@ -1,0 +1,4 @@
+49c49
+<     public SingleColumnMapper(ColumnMapper<T> mapper, String columnLabel) {
+---
+>     public SingleColumnMapper(ColumnMapper<T>  mapper, String columnLabel) {

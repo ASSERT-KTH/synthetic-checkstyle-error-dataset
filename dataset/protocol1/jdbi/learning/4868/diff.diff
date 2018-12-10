@@ -1,0 +1,4 @@
+131c131
+<     public static Type resolveMapEntryType(Type mapType) {
+---
+>     public static Type resolveMapEntryType (Type mapType) {

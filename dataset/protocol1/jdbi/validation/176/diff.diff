@@ -1,0 +1,4 @@
+47c47
+<         if (result == null && !entries.containsKey(type)) {
+---
+>         if (result == null && ! entries.containsKey(type)) {

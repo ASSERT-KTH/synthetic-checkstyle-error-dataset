@@ -1,0 +1,4 @@
+70c70
+<         return addCustomizer(StatementCustomizers.fetchSize(fetchSize));
+---
+>         return addCustomizer(StatementCustomizers.fetchSize (fetchSize));

@@ -1,0 +1,4 @@
+82c82
+<     public <E> E attach(Class<E> extensionType, HandleSupplier handle) {
+---
+>     public<E> E attach(Class<E> extensionType, HandleSupplier handle) {

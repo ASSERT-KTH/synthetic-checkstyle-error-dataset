@@ -1,0 +1,5 @@
+65c65,66
+<         ParsedParameters that = (ParsedParameters) o;
+---
+>         ParsedParameters that = 
+> (ParsedParameters) o;

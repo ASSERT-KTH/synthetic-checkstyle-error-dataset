@@ -1,0 +1,4 @@
+31c31
+< public @interface Qualifier {}
+---
+> public @interface Qualifier {	}

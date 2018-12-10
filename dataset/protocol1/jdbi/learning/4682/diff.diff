@@ -1,0 +1,4 @@
+21c21
+< class ConstructorInstanceFactory<T> extends InstanceFactory<T> {
+---
+> class ConstructorInstanceFactory<T> extends InstanceFactory< T> {

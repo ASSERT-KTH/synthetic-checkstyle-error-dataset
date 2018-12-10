@@ -1,0 +1,5 @@
+30,31c30
+< public @interface SqlScripts {
+<     SqlScript[] value();
+---
+> public @interface SqlScripts {    SqlScript[] value();

@@ -1,0 +1,4 @@
+45c45
+<         delegate.rollback(handle);
+---
+>         delegate.rollback( handle);

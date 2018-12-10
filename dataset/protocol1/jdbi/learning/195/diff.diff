@@ -1,0 +1,4 @@
+191c191
+<         final Binding currentBinding = getBinding();
+---
+>         final Binding currentBinding = getBinding()	;

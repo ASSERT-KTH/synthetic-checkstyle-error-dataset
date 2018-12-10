@@ -1,0 +1,4 @@
+64c64
+<         return findGenericParameter(type, parameterizedSupertype, 0);
+---
+>         return findGenericParameter(type, parameterizedSupertype	, 0);

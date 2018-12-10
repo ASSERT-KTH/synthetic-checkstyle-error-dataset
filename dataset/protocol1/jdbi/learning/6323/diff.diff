@@ -1,0 +1,4 @@
+140c140
+<     default This registerArgument(ArgumentFactory factory) {
+---
+>     default This  registerArgument(ArgumentFactory factory) {

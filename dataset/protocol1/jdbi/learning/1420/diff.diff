@@ -1,0 +1,4 @@
+28c28
+<         Arguments arguments = registry.get(Arguments.class);
+---
+>         Arguments arguments = registry.get(	Arguments.class);

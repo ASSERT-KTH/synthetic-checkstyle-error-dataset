@@ -1,0 +1,4 @@
+35c35
+<     public UnaryOperator<String> getCaseChange() {
+---
+>     public UnaryOperator< String> getCaseChange() {

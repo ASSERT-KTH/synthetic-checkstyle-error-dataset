@@ -1,0 +1,4 @@
+23c23
+<     GetterMapper(ColumnGetter<T> getter) {
+---
+>     GetterMapper(ColumnGetter<T>getter) {

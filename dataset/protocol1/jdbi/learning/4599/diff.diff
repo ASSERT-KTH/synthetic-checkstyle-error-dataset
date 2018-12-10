@@ -1,0 +1,4 @@
+124c124
+<         private final Object arr;
+---
+>         private  final Object arr;

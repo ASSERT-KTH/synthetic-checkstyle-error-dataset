@@ -1,0 +1,4 @@
+31c31
+< public @interface RegisterBeanMapper {
+---
+> public  @interface RegisterBeanMapper {

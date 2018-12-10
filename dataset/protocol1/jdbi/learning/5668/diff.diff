@@ -1,0 +1,4 @@
+51c51
+<     boolean transactional() default true;
+---
+>     boolean  transactional() default true;

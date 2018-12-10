@@ -1,0 +1,4 @@
+57c57
+<                 RowMapper<?> keyMapper = getKeyMapper(keyType, config);
+---
+>                 RowMapper<?> keyMapper = getKeyMapper	(keyType, config);

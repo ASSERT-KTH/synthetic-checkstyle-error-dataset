@@ -1,0 +1,5 @@
+35,36c35
+< public final class QualifiedType {
+<     private final Type type;
+---
+> public final class QualifiedType {    private final Type type;

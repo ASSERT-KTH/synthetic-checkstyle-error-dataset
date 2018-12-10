@@ -1,0 +1,4 @@
+33c33
+<     private final ThreadLocal<Boolean> didTxnRollback = ThreadLocal.withInitial(() -> false);
+---
+>     private final ThreadLocal<Boolean> didTxnRollback = ThreadLocal.withInitial(()-> false);

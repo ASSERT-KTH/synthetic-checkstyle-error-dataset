@@ -1,0 +1,5 @@
+24,25c24
+<         throw new UnsupportedOperationException("utility class");
+<     }
+---
+>         throw new UnsupportedOperationException("utility class");    }

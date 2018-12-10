@@ -1,0 +1,5 @@
+31,32c31
+<         RowMappers mappers = registry.get(RowMappers.class);
+<         if (prefix.isEmpty()) {
+---
+>         RowMappers mappers = registry.get(RowMappers.class);        if (prefix.isEmpty()) {

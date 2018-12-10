@@ -1,0 +1,4 @@
+38c38
+<     T apply(T previous, ResultSet rs, StatementContext ctx) throws SQLException;
+---
+>     T apply(T previous,  ResultSet rs, StatementContext ctx) throws SQLException;

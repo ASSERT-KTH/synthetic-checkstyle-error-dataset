@@ -1,0 +1,4 @@
+24c24
+<         super(string, throwable);
+---
+>         super(string, throwable );

@@ -1,0 +1,4 @@
+17c17
+< import static java.lang.annotation.ElementType.METHOD;
+---
+> import static java. lang.annotation.ElementType.METHOD;

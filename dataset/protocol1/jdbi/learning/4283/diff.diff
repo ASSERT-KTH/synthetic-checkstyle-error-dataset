@@ -1,0 +1,5 @@
+162c162,163
+<                 return ((Class<?>) type).getComponentType();
+---
+>                 
+> return ((Class<?>) type).getComponentType();

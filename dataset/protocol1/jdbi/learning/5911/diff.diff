@@ -1,0 +1,5 @@
+55c55,56
+<         return Optional.of(sqlMethodAnnotations.stream()
+---
+>         
+> return Optional.of(sqlMethodAnnotations.stream()

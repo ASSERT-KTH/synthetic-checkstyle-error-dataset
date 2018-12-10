@@ -1,0 +1,5 @@
+40c40,41
+<                 GenericTypes.findGenericParameter(type, Optional.class)
+---
+>                 GenericTypes.findGenericParameter(type, 
+> Optional.class)

@@ -1,0 +1,4 @@
+21c21
+<     T get(ResultSet rs, int i) throws SQLException;
+---
+>     T get	(ResultSet rs, int i) throws SQLException;

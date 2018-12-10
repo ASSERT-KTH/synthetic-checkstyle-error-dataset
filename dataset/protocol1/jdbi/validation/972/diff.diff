@@ -1,0 +1,4 @@
+46c46
+<                 } else if (type instanceof Class) {
+---
+>                 } else if  (type instanceof Class) {

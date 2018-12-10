@@ -1,0 +1,4 @@
+30c30
+< public @interface FetchSize {
+---
+> public @interface FetchSize{

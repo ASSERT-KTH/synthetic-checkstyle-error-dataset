@@ -1,0 +1,5 @@
+52c52,53
+<             throw new UnableToCreateSqlObjectException("Bridge handler couldn't unreflect " + sqlObjectType + " " + m, e);
+---
+>             throw new UnableToCreateSqlObjectException("Bridge handler couldn't unreflect " + sqlObjectType + " " + m, 
+> e);

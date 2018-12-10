@@ -1,0 +1,5 @@
+38c38,39
+<     private final List<QualifiedArgumentFactory> factories = new CopyOnWriteArrayList<>();
+---
+>     private final List<QualifiedArgumentFactory> 
+> factories = new CopyOnWriteArrayList<>();

@@ -1,0 +1,4 @@
+37c37
+<     private static final SqlScriptParser SQL_SCRIPT_PARSER = new SqlScriptParser((t, sb) -> sb.append(t.getText()));
+---
+>     private static final SqlScriptParser SQL_SCRIPT_PARSER = new  SqlScriptParser((t, sb) -> sb.append(t.getText()));

@@ -1,0 +1,5 @@
+65,66c65
+<             Optional<Type> nestedType = findGenericParameter(wrapperType, Optional.class);
+<             if (nestedType.isPresent()) {
+---
+>             Optional<Type> nestedType = findGenericParameter(wrapperType, Optional.class);            if (nestedType.isPresent()) {

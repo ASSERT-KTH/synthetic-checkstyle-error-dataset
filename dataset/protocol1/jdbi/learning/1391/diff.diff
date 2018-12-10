@@ -1,0 +1,5 @@
+61c61,62
+<                 .orElseThrow(() -> new IllegalStateException(getClass().getSimpleName()
+---
+>                 .orElseThrow(() -> new IllegalStateException
+> (getClass().getSimpleName()

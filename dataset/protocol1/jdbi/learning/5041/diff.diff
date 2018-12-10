@@ -1,0 +1,4 @@
+49c49
+<         register(new NVarcharMapper());
+---
+>         register(new NVarcharMapper ());

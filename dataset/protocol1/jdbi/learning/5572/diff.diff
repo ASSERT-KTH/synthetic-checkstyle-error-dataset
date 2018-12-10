@@ -1,0 +1,4 @@
+45c45
+<         mappers.put(URL.class, new GetterMapper<>(ResultSet::getURL));
+---
+>         mappers.put(URL.class, new GetterMapper<>(	ResultSet::getURL));

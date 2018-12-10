@@ -1,0 +1,5 @@
+100c100,101
+<         } else if (annotatedConstructors.size() == 1) {
+---
+>         } else 
+> if (annotatedConstructors.size() == 1) {

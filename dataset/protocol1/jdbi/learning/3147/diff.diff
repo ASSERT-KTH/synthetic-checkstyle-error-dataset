@@ -1,0 +1,5 @@
+25,26c25
+< public class H2DatabasePlugin implements JdbiPlugin {
+<     @Override
+---
+> public class H2DatabasePlugin implements JdbiPlugin {    @Override

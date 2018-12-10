@@ -1,0 +1,5 @@
+23,24c23
+< public class ElementTypeNotFoundException extends JdbiException {
+<     public ElementTypeNotFoundException(String string, Throwable throwable) {
+---
+> public class ElementTypeNotFoundException extends JdbiException {    public ElementTypeNotFoundException(String string, Throwable throwable) {

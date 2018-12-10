@@ -1,0 +1,4 @@
+30c30
+<     private final SqlArrayType<?> arrayType;
+---
+>     private final SqlArrayType<	?> arrayType;

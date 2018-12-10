@@ -1,0 +1,4 @@
+29c29
+<         return new LoggableToStringOrNPEArgument<>(value);
+---
+>         return new LoggableToStringOrNPEArgument	<>(value);

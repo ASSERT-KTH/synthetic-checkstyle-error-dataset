@@ -1,0 +1,5 @@
+279c279,280
+<     default <K, V> Stream<V> reduceRows(BiConsumer<Map<K, V>, RowView> accumulator) {
+---
+>     default <K
+> , V> Stream<V> reduceRows(BiConsumer<Map<K, V>, RowView> accumulator) {

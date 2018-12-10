@@ -1,0 +1,5 @@
+57c57,58
+<                     throw new IllegalStateException(VALUE_NOT_HANDLED_MESSAGE);
+---
+>                     
+> throw new IllegalStateException(VALUE_NOT_HANDLED_MESSAGE);

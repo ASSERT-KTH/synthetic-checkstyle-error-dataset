@@ -1,0 +1,4 @@
+31c31
+<     public SingleColumnMapper(ColumnMapper<T> mapper) {
+---
+>     public SingleColumnMapper(ColumnMapper< T> mapper) {

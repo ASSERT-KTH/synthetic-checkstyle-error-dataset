@@ -1,0 +1,5 @@
+29c29,30
+<         cfg.setReturner(() -> stmt.execute());
+---
+>         cfg.setReturner(() -> 
+> stmt.execute());

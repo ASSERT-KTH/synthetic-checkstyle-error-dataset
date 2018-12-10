@@ -1,0 +1,5 @@
+114c114,115
+<     private static String readResource(ClassLoader classLoader, String path) {
+---
+>     private 
+> static String readResource(ClassLoader classLoader, String path) {

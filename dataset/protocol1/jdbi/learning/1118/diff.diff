@@ -1,0 +1,4 @@
+70c70
+<                 if (e.name().equalsIgnoreCase(name)) {
+---
+>                 if (e.name(). equalsIgnoreCase(name)) {

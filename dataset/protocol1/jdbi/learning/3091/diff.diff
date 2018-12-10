@@ -1,0 +1,4 @@
+29c29
+<         int queryTimeout = ((QueryTimeOut) annotation).value();
+---
+>         int queryTimeout = ((QueryTimeOut) annotation).value ();

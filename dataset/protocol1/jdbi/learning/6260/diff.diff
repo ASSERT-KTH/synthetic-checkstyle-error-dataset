@@ -1,0 +1,4 @@
+57c57
+<         register(new NVarcharArgumentFactory());
+---
+>         register(new  NVarcharArgumentFactory());

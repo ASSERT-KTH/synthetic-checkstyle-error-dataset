@@ -1,0 +1,4 @@
+43c43
+<     <A extends Annotation> A getAnnotation(Class<A> annotationClass) {
+---
+>     <A extends Annotation> A getAnnotation(Class<A > annotationClass) {

@@ -1,0 +1,4 @@
+53c53
+<         Optional<ColumnMapper<?>> mapper = config.get(ColumnMappers.class).findFor(elementType);
+---
+>         Optional<ColumnMapper<?>> mapper = config. get(ColumnMappers.class).findFor(elementType);

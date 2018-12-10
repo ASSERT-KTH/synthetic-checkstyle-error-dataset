@@ -1,0 +1,4 @@
+50c50
+<     private R buildFromResultSet(Array array, StatementContext ctx) throws SQLException {
+---
+>     private R buildFromResultSet(Array array, StatementContext  ctx) throws SQLException {

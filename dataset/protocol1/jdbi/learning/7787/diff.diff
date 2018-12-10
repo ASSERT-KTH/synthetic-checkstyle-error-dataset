@@ -1,0 +1,5 @@
+61,62c61
+<             switch (t.getType()) {
+<                 case COMMENT:
+---
+>             switch (t.getType()) {                case COMMENT:

@@ -1,0 +1,5 @@
+27,28c27
+<         this.typeName = typeName;
+<     }
+---
+>         this.typeName = typeName;    }

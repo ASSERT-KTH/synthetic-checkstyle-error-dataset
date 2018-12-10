@@ -1,0 +1,4 @@
+32c32
+<     private static <K, V, M extends Map<K, V>> void putEntry(M map, Map.Entry<K, V> entry) {
+---
+>     private static <K, V, M extends Map<K, V>> void putEntry(M map, Map.Entry <K, V> entry) {

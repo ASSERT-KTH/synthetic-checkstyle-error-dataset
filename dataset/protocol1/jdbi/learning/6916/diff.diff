@@ -1,0 +1,4 @@
+165c165
+<     private final Map<Parameter, ConstructorMapper<?>> nestedMappers = new ConcurrentHashMap<>();
+---
+>     private final Map <Parameter, ConstructorMapper<?>> nestedMappers = new ConcurrentHashMap<>();

@@ -1,0 +1,4 @@
+28c28
+<         RegisterObjectArgumentFactory registerObjectArgumentFactory = (RegisterObjectArgumentFactory) annotation;
+---
+>         RegisterObjectArgumentFactory registerObjectArgumentFactory= (RegisterObjectArgumentFactory) annotation;

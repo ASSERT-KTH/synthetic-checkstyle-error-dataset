@@ -1,0 +1,4 @@
+74c74
+<             throw new IllegalStateException("iterator is closed");
+---
+>             	throw new IllegalStateException("iterator is closed");

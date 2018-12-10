@@ -1,0 +1,4 @@
+204c204
+<             stmt.bind(position++, arg);
+---
+>             	stmt.bind(position++, arg);

@@ -1,0 +1,4 @@
+50c50
+<             mappers[i] = ctx.findRowMapperFor(type)
+---
+>             mappers [i] = ctx.findRowMapperFor(type)

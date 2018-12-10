@@ -1,0 +1,5 @@
+25c25,26
+<         this.keyColumn = that.keyColumn;
+---
+>         this.keyColumn 
+> = that.keyColumn;

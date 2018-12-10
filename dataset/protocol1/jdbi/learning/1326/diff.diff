@@ -1,0 +1,4 @@
+297c297
+<         return configure(RowMappers.class, c -> c.register(type, mapper));
+---
+>         return configure( RowMappers.class, c -> c.register(type, mapper));

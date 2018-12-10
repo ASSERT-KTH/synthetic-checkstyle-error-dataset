@@ -1,0 +1,4 @@
+30c30
+<                 .flatMap(supplier -> toStream(supplier.get()))
+---
+>                 .flatMap(supplier -> toStream	(supplier.get()))

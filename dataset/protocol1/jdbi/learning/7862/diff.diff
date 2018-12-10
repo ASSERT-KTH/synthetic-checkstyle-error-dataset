@@ -1,0 +1,4 @@
+21c21
+< public class SqlScriptsHandler extends CustomizingStatementHandler<Script> {
+---
+> public  class SqlScriptsHandler extends CustomizingStatementHandler<Script> {

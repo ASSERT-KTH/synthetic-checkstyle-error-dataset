@@ -1,0 +1,4 @@
+56c56
+<     public static Class<?> getErasedType(Type type) {
+---
+>     public static Class<?>  getErasedType(Type type) {

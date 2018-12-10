@@ -1,0 +1,4 @@
+41c41
+<     public <R> R execute(ResultProducer<R> producer) {
+---
+>     public <R> R  execute(ResultProducer<R> producer) {

@@ -1,0 +1,4 @@
+55c55
+<         this.allowUnusedBindings = that.allowUnusedBindings;
+---
+>         this. allowUnusedBindings = that.allowUnusedBindings;

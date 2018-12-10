@@ -1,0 +1,5 @@
+117c117,118
+<         Objects.requireNonNull(properties, "null properties");
+---
+>         Objects.requireNonNull
+> (properties, "null properties");

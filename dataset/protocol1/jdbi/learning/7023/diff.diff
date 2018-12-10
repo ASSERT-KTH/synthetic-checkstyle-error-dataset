@@ -1,0 +1,5 @@
+49c49,50
+<     public Handlers register(HandlerFactory factory) {
+---
+>     public Handlers register(HandlerFactory 
+> factory) {

@@ -1,0 +1,4 @@
+86c86
+<         public E map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException {
+---
+>         public E map(ResultSet r , int columnNumber, StatementContext ctx) throws SQLException {

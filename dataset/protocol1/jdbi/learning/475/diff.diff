@@ -1,0 +1,4 @@
+29c29
+<         Stream.of(registerBeanMappers.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));
+---
+>         Stream.of(registerBeanMappers.value()).forEach(anno -> delegate.configureForType(registry, anno,sqlObjectType));

@@ -1,0 +1,5 @@
+30,31c30
+<         int fetchSize = ((FetchSize) annotation).value();
+<         return stmt -> ((Query) stmt).setFetchSize(fetchSize);
+---
+>         int fetchSize = ((FetchSize) annotation).value();        return stmt -> ((Query) stmt).setFetchSize(fetchSize);

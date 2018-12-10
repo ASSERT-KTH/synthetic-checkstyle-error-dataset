@@ -1,0 +1,4 @@
+44c44
+<     static ColumnMapperFactory of(Type type, ColumnMapper<?> mapper) {
+---
+>     static ColumnMapperFactory of(	Type type, ColumnMapper<?> mapper) {

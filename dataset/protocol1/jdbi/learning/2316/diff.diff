@@ -1,0 +1,5 @@
+53c53,54
+<                 throw new IllegalArgumentException("A " + arg.getClass() + " object was passed as a @DefineList "
+---
+>                 
+> throw new IllegalArgumentException("A " + arg.getClass() + " object was passed as a @DefineList "

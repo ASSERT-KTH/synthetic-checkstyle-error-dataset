@@ -1,0 +1,4 @@
+54c54
+<                 R result = getDelegate().inTransaction(handle, callback);
+---
+>                 	R result = getDelegate().inTransaction(handle, callback);

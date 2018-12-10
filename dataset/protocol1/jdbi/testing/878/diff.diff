@@ -1,0 +1,4 @@
+25c25
+<     public TypedValue(Type type, Set<Annotation> qualifiers, Object value) {
+---
+>     public TypedValue( Type type, Set<Annotation> qualifiers, Object value) {

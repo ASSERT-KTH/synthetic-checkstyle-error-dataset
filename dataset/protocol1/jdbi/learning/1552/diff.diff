@@ -1,0 +1,5 @@
+421c421,422
+<                     .orElseThrow(() -> new NoSuchCollectorException("No collector registered for container type " + containerType));
+---
+>                     .orElseThrow(() 
+> -> new NoSuchCollectorException("No collector registered for container type " + containerType));

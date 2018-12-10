@@ -1,0 +1,4 @@
+20c20
+< @FunctionalInterface
+---
+> 	@FunctionalInterface

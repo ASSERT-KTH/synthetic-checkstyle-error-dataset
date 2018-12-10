@@ -1,0 +1,4 @@
+471c471
+<         if (concurrentUpdatable && isReturningGeneratedKeys()) {
+---
+>         if (concurrentUpdatable && isReturningGeneratedKeys	()) {

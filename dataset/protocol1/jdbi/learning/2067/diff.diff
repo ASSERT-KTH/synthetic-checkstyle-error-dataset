@@ -1,0 +1,5 @@
+25c25,26
+<     public NoResultsException(String msg, Throwable e, StatementContext ctx) {
+---
+>     
+> public NoResultsException(String msg, Throwable e, StatementContext ctx) {

@@ -1,0 +1,4 @@
+24c24
+<         register(Clob.class, Types.CLOB, PreparedStatement::setClob);
+---
+>         register(Clob.	class, Types.CLOB, PreparedStatement::setClob);

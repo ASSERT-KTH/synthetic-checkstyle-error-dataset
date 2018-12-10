@@ -1,0 +1,4 @@
+135c135
+<     public static <T> RowMapper<T> of(Class<T> type, String prefix) {
+---
+>     public static <T> RowMapper<T> of(Class<T> type, String prefix ) {

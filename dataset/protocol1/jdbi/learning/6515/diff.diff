@@ -1,0 +1,4 @@
+16c16
+< public interface MapEntryConfig<This> {
+---
+> public interface  MapEntryConfig<This> {

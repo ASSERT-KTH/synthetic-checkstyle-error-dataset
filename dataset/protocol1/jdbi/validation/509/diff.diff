@@ -1,0 +1,5 @@
+39,40c39
+< class BoxedMapperFactory implements ColumnMapperFactory {
+<     private final Map<Class<?>, ColumnMapper<?>> mappers = new IdentityHashMap<>();
+---
+> class BoxedMapperFactory implements ColumnMapperFactory {    private final Map<Class<?>, ColumnMapper<?>> mappers = new IdentityHashMap<>();

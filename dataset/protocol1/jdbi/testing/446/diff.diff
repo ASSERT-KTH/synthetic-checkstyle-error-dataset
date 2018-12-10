@@ -1,0 +1,4 @@
+85c85
+<     default void forEach(Consumer<? super T> action) {
+---
+>     default void forEach(	Consumer<? super T> action) {

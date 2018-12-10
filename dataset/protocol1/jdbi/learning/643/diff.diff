@@ -1,0 +1,4 @@
+426c426
+<             return ResultIterable.of(rs, mapper, ctx).collect(collector);
+---
+>             return ResultIterable.of(rs, mapper, ctx).collect( collector);

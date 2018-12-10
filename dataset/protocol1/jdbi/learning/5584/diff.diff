@@ -1,0 +1,4 @@
+65c65
+<         } else if (isBoolean(method.getReturnType())) {
+---
+>         } else if (isBoolean (method.getReturnType())) {

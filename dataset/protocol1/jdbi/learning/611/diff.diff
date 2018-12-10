@@ -1,0 +1,4 @@
+51c51
+<             .filter(anno -> anno.annotationType().isAnnotationPresent(Qualifier.class))
+---
+>             .filter(anno -> anno.annotationType ().isAnnotationPresent(Qualifier.class))

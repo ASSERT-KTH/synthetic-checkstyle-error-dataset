@@ -1,0 +1,4 @@
+32c32
+<     public ElementTypeNotFoundException(String message) {
+---
+>     public ElementTypeNotFoundException(String message)  {

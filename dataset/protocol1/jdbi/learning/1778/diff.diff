@@ -1,0 +1,4 @@
+27c27
+<         this.forceEndTransactions = that.forceEndTransactions;
+---
+>         this.forceEndTransactions = that.forceEndTransactions	;

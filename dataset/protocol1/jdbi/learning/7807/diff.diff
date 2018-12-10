@@ -1,0 +1,5 @@
+26c26,27
+<         this.constructor = requireNonNull(constructor, "constructor is null");
+---
+>         this.constructor = requireNonNull(constructor
+> , "constructor is null");

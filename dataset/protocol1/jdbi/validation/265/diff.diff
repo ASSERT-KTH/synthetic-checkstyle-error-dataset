@@ -1,0 +1,5 @@
+44c44,45
+<         return throwingOnlyUnchecked(() -> type.cast(method.invoke(null, params)));
+---
+>         return throwingOnlyUnchecked(() -> type.cast(method.invoke
+> (null, params)));

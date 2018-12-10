@@ -1,0 +1,5 @@
+96c96,97
+<     public static <T> Collector<T, ?, Optional<T>> toOptional() {
+---
+>     public 
+> static <T> Collector<T, ?, Optional<T>> toOptional() {

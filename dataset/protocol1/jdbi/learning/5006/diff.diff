@@ -1,0 +1,4 @@
+42c42
+< import java.util.function.Predicate;
+---
+> import java.util.function.Predicate	;

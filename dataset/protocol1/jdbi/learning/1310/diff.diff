@@ -1,0 +1,4 @@
+27c27
+<     private final Map<Class<? extends JdbiConfig<?>>, JdbiConfig<?>> cache = synchronizedMap(new WeakHashMap<>());
+---
+>     private final Map<Class	<? extends JdbiConfig<?>>, JdbiConfig<?>> cache = synchronizedMap(new WeakHashMap<>());

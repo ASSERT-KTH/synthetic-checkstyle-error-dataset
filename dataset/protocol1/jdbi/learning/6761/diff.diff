@@ -1,0 +1,5 @@
+63c63,64
+<         return this.register(new InferredRowMapperFactory(mapper));
+---
+>         return this.register(new InferredRowMapperFactory
+> (mapper));

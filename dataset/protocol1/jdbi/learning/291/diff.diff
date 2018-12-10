@@ -1,0 +1,4 @@
+24c24
+< public class TimestampedFactory implements SqlStatementCustomizerFactory {
+---
+> public class TimestampedFactory implements SqlStatementCustomizerFactory{

@@ -1,0 +1,5 @@
+29c29,30
+<     public NoResultsException(Throwable e, StatementContext ctx) {
+---
+>     public NoResultsException(Throwable 
+> e, StatementContext ctx) {

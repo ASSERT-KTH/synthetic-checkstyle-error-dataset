@@ -1,0 +1,5 @@
+239c239,240
+<             if (AnnotatedElement.class.isAssignableFrom(TypeVariable.class)) {
+---
+>             if 
+> (AnnotatedElement.class.isAssignableFrom(TypeVariable.class)) {

@@ -1,0 +1,4 @@
+58c58
+<     T scanResultSet(Supplier<ResultSet> resultSetSupplier, StatementContext ctx) throws SQLException;
+---
+>     T scanResultSet(Supplier<ResultSet> resultSetSupplier, StatementContext ctx ) throws SQLException;

@@ -1,0 +1,5 @@
+22c22,23
+< public interface TransactionalConsumer<T extends Transactional<T>, X extends Exception> {
+---
+> public interface 
+> TransactionalConsumer<T extends Transactional<T>, X extends Exception> {

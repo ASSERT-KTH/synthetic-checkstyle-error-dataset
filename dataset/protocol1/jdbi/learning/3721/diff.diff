@@ -1,0 +1,5 @@
+39,40c39
+<             .map(GenericTypes::getErasedType)
+<             .map(type -> !type.isAssignableFrom(getClass()))
+---
+>             .map(GenericTypes::getErasedType)            .map(type -> !type.isAssignableFrom(getClass()))

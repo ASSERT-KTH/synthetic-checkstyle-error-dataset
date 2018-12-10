@@ -1,0 +1,4 @@
+22c22
+< import org.jdbi.v3.core.argument.internal.StatementBinder;
+---
+> import org. jdbi.v3.core.argument.internal.StatementBinder;

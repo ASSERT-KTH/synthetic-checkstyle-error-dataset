@@ -1,0 +1,4 @@
+144c144
+<             return Collections.singletonMap(klass.getMethod(methodName, parameterTypes), handler);
+---
+>             return Collections.singletonMap(klass.getMethod(methodName, parameterTypes), handler)	;

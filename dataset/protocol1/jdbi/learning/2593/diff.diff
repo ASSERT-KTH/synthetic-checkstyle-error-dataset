@@ -1,0 +1,5 @@
+25,26c25
+< class OptionalCollectorFactory implements CollectorFactory {
+<     @Override
+---
+> class OptionalCollectorFactory implements CollectorFactory {    @Override

@@ -1,0 +1,5 @@
+32c32,33
+<     public void apply(int pos, PreparedStatement stmt, StatementContext ctx) throws SQLException {
+---
+>     public void apply(int pos
+> , PreparedStatement stmt, StatementContext ctx) throws SQLException {

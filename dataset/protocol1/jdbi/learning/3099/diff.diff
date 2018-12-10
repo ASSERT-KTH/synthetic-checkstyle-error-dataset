@@ -1,0 +1,4 @@
+272c272
+<         protected Object reducedResult(Stream<?> stream, StatementContext ctx) {
+---
+>         protected Object reducedResult(Stream	<?> stream, StatementContext ctx) {

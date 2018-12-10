@@ -1,0 +1,5 @@
+37c37,38
+<         String prefix = registerConstructorMapper.prefix();
+---
+>         String prefix 
+> = registerConstructorMapper.prefix();

@@ -1,0 +1,4 @@
+49c49
+<     public Optional<ColumnMapper<?>> build(Type type, ConfigRegistry config) {
+---
+>     public Optional<ColumnMapper< ?>> build(Type type, ConfigRegistry config) {

@@ -1,0 +1,4 @@
+43c43
+<         mappers.put(String.class, new GetterMapper<>(ResultSet::getString));
+---
+>         mappers.put (String.class, new GetterMapper<>(ResultSet::getString));

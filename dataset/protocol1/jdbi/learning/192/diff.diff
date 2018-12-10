@@ -1,0 +1,5 @@
+71c71,72
+<             magic = ResultReturner.forOptionalReturn(sqlObjectType, method);
+---
+>             magic = 
+> ResultReturner.forOptionalReturn(sqlObjectType, method);

@@ -1,0 +1,4 @@
+45c45
+<             .filter(constructor -> constructor.isAnnotationPresent(JdbiConstructor.class))
+---
+>             .filter (constructor -> constructor.isAnnotationPresent(JdbiConstructor.class))

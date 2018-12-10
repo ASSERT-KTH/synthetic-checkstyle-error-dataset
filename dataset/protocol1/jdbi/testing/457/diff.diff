@@ -1,0 +1,5 @@
+28c28,29
+<         register(Instant.class, Types.TIMESTAMP, (p, i, v) -> p.setTimestamp(i, Timestamp.from(v)));
+---
+>         register(Instant.class, Types.TIMESTAMP, (p, 
+> i, v) -> p.setTimestamp(i, Timestamp.from(v)));

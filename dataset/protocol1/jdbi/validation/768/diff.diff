@@ -1,0 +1,4 @@
+34c34
+<     Class<? extends RowMapper<?>> value();
+---
+>     Class<? extends RowMapper <?>> value();

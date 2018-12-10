@@ -1,0 +1,5 @@
+33,34c33
+<         return (type, value, config) -> type.getQualifiers().equals(qualifiers)
+<             ? factory.build(type.getType(), value, config)
+---
+>         return (type, value, config) -> type.getQualifiers().equals(qualifiers)            ? factory.build(type.getType(), value, config)

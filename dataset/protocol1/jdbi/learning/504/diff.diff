@@ -1,0 +1,4 @@
+56c56
+<                 UseRowMapper useRowMapper = method.getAnnotation(UseRowMapper.class);
+---
+>                 UseRowMapper useRowMapper = method.getAnnotation(	UseRowMapper.class);

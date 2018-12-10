@@ -1,0 +1,5 @@
+52c52,53
+<     public <T> T getRow(Class<T> rowType) {
+---
+>     public <T> T getRow
+> (Class<T> rowType) {

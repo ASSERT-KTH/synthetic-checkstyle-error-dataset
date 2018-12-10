@@ -1,0 +1,4 @@
+30c30
+<     void useExtension(E extension) throws X;
+---
+>     	void useExtension(E extension) throws X;

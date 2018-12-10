@@ -1,0 +1,5 @@
+32,33c32
+<         Set<Annotation> qualifiers = getQualifiers(factory.getClass());
+<         return (type, value, config) -> type.getQualifiers().equals(qualifiers)
+---
+>         Set<Annotation> qualifiers = getQualifiers(factory.getClass());        return (type, value, config) -> type.getQualifiers().equals(qualifiers)

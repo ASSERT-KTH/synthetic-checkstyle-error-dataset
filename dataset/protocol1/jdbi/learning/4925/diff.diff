@@ -1,0 +1,5 @@
+85c85,86
+<         return new SqlObjects(this);
+---
+>         return 
+> new SqlObjects(this);

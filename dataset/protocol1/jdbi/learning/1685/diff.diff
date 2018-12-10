@@ -1,0 +1,4 @@
+44c44
+<             stmt.bindByType(index, arg, qualifiedType);
+---
+>             stmt.bindByType(index,  arg, qualifiedType);

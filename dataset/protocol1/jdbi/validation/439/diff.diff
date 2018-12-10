@@ -1,0 +1,5 @@
+41,42c41
+<         switch (val) {
+<             case Connection.TRANSACTION_READ_UNCOMMITTED: return READ_UNCOMMITTED;
+---
+>         switch (val) {            case Connection.TRANSACTION_READ_UNCOMMITTED: return READ_UNCOMMITTED;

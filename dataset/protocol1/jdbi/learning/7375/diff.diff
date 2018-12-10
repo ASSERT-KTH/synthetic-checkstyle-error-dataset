@@ -1,0 +1,5 @@
+292c292,293
+<     public boolean isLast() {
+---
+>     public boolean isLast
+> () {

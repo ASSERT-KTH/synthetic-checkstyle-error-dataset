@@ -1,0 +1,5 @@
+21,22c21
+< class ConstructorInstanceFactory<T> extends InstanceFactory<T> {
+<     private final Constructor<T> constructor;
+---
+> class ConstructorInstanceFactory<T> extends InstanceFactory<T> {    private final Constructor<T> constructor;

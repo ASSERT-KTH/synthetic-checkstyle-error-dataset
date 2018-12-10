@@ -1,0 +1,5 @@
+32c32,33
+< public @interface Define {
+---
+> public 
+> @interface Define {

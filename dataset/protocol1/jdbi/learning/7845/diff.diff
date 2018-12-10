@@ -1,0 +1,4 @@
+23c23
+<         register(BigDecimal.class, Types.NUMERIC, PreparedStatement::setBigDecimal);
+---
+>         register(BigDecimal.class, Types.NUMERIC, PreparedStatement::setBigDecimal) ;

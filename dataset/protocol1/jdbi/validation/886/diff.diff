@@ -1,0 +1,4 @@
+25c25
+< class ResultSetResultIterator<T> implements ResultIterator<T> {
+---
+> 	class ResultSetResultIterator<T> implements ResultIterator<T> {

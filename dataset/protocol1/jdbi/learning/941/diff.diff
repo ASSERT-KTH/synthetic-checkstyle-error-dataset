@@ -1,0 +1,4 @@
+48c48
+<                 argsList = Arrays.asList((Object[]) arg);
+---
+>                 argsList = Arrays.asList((Object[] ) arg);

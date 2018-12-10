@@ -1,0 +1,4 @@
+99c99
+<         return parameterType instanceof Class || parameterType instanceof ParameterizedType
+---
+>         	return parameterType instanceof Class || parameterType instanceof ParameterizedType

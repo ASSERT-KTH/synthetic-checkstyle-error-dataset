@@ -1,0 +1,5 @@
+32c32,33
+<     public final void visit(Type... types) {
+---
+>     public 
+> final void visit(Type... types) {

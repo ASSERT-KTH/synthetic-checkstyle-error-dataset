@@ -1,0 +1,5 @@
+44c44,45
+<     SqlArrayArgument(SqlArrayType<T> arrayType, Collection<T> list) {
+---
+>     SqlArrayArgument(SqlArrayType<T> arrayType
+> , Collection<T> list) {

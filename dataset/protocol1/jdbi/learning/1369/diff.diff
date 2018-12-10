@@ -1,0 +1,5 @@
+45,46c45
+<         Class<? extends Enum> componentType = (Class<? extends Enum>) findGenericParameter(containerType, EnumSet.class)
+<             .map(GenericTypes::getErasedType)
+---
+>         Class<? extends Enum> componentType = (Class<? extends Enum>) findGenericParameter(containerType, EnumSet.class)            .map(GenericTypes::getErasedType)

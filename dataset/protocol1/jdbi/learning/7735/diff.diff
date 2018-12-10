@@ -1,0 +1,5 @@
+45c45,46
+<         return new ByOrdinal<>(type);
+---
+>         return new ByOrdinal<>
+> (type);

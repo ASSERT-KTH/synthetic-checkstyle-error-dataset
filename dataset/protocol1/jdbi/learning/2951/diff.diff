@@ -1,0 +1,5 @@
+122c122,123
+<     default <X extends Exception> void useTransaction(TransactionalConsumer<This, X> callback) throws X {
+---
+>     default 
+> <X extends Exception> void useTransaction(TransactionalConsumer<This, X> callback) throws X {

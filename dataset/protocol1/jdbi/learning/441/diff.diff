@@ -1,0 +1,4 @@
+33c33
+<         RegisterRowMappers registerRowMappers = (RegisterRowMappers) annotation;
+---
+>         RegisterRowMappers registerRowMappers= (RegisterRowMappers) annotation;

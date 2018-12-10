@@ -1,0 +1,4 @@
+98c98
+<         if (path == null || path.isEmpty() || SLASH.equals(path)) {
+---
+>         if (path == null || path.isEmpty() || SLASH. equals(path)) {

@@ -1,0 +1,5 @@
+42c42,43
+<                 .orElseThrow(() -> new NoSuchMapperException("No mapper for type " + type + " nested in Optional"));
+---
+>                 .orElseThrow(() -> new NoSuchMapperException("No mapper for type " + type + " nested in Optional"))
+> ;

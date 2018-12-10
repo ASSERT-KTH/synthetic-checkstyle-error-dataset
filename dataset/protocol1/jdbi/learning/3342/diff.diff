@@ -1,0 +1,4 @@
+29c29
+<     void useStream(Stream<T> stream) throws X;
+---
+>     void useStream(Stream<T> stream) throws X ;

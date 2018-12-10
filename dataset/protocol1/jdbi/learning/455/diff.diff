@@ -1,0 +1,5 @@
+57,58c57
+<                 throw new IllegalArgumentException("An empty list was passed as a @DefineList parameter. Can't define "
+<                         + "an empty attribute.");
+---
+>                 throw new IllegalArgumentException("An empty list was passed as a @DefineList parameter. Can't define "                        + "an empty attribute.");

@@ -1,0 +1,4 @@
+34c34
+<         return string.replace("_", "");
+---
+>         return string.replace("_"	, "");

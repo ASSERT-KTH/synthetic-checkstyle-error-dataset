@@ -1,0 +1,4 @@
+25c25
+< public @interface RegisterColumnMapperFactories {
+---
+> public @interface  RegisterColumnMapperFactories {

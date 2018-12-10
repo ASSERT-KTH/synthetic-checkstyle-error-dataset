@@ -1,0 +1,5 @@
+24c24,25
+<     private static final EnumByNameMapperFactory BY_NAME = new EnumByNameMapperFactory();
+---
+>     private static final EnumByNameMapperFactory 
+> BY_NAME = new EnumByNameMapperFactory();

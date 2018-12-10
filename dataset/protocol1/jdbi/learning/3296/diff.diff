@@ -1,0 +1,4 @@
+25c25
+< import org.jdbi.v3.sqlobject.customizer.BindMap;
+---
+> import org.jdbi.v3.sqlobject.	customizer.BindMap;

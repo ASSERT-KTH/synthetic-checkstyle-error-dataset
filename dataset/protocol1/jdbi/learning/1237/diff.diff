@@ -1,0 +1,4 @@
+34c34
+<         this.ctx = new StatementContext(handle.getConfig().createCopy(), handle.getExtensionMethod());
+---
+>         this. ctx = new StatementContext(handle.getConfig().createCopy(), handle.getExtensionMethod());

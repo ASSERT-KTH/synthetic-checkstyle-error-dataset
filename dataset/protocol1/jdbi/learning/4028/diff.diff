@@ -1,0 +1,4 @@
+46c46
+<         return maps.equals(type)
+---
+>         return maps.equals (type)

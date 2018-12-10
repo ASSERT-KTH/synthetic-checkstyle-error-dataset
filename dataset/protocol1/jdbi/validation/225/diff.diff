@@ -1,0 +1,4 @@
+23c23
+<     private final Map<Type, Object> entries;
+---
+>     private final Map<Type	, Object> entries;

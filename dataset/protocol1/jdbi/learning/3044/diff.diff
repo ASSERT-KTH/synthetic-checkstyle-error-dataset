@@ -1,0 +1,4 @@
+44c44
+<     public static <E extends Enum<E>> ColumnMapper<E> byOrdinal(Class<E> type) {
+---
+>     public static <E extends Enum<E>> ColumnMapper<E> byOrdinal(Class <E> type) {

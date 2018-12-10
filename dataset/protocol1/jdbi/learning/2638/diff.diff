@@ -1,0 +1,5 @@
+32c32,33
+<         int sqlType = registerObjectArgumentFactory.sqlType();
+---
+>         int sqlType = registerObjectArgumentFactory.sqlType()
+> ;

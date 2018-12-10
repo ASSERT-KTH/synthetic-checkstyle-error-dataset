@@ -1,0 +1,5 @@
+21c21,22
+<         register(Boolean.class, Types.BOOLEAN, PreparedStatement::setBoolean);
+---
+>         
+> register(Boolean.class, Types.BOOLEAN, PreparedStatement::setBoolean);

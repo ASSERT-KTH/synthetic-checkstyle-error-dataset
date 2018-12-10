@@ -1,0 +1,4 @@
+44c44
+<         Stream.of(method, sqlObjectType)
+---
+>         Stream.of(	method, sqlObjectType)

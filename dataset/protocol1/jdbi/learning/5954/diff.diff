@@ -1,0 +1,4 @@
+31c31
+<             arguments.register(raf.value().newInstance());
+---
+>             arguments.register(raf. value().newInstance());

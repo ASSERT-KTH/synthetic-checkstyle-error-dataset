@@ -1,0 +1,5 @@
+48c48,49
+<     <V> V invokeInContext(ExtensionMethod extensionMethod, ConfigRegistry config, Callable<V> task) throws Exception;
+---
+>     <V> V invokeInContext(ExtensionMethod extensionMethod, ConfigRegistry config, Callable<V> task) 
+> throws Exception;

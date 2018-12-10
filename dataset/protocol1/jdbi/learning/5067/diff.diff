@@ -1,0 +1,5 @@
+37,38c37
+<         final String name = ParameterUtil.findParameterName(bindBeanList.value(), param)
+<                 .orElseThrow(() -> new UnsupportedOperationException("A @BindBeanList parameter was not given a name, "
+---
+>         final String name = ParameterUtil.findParameterName(bindBeanList.value(), param)                .orElseThrow(() -> new UnsupportedOperationException("A @BindBeanList parameter was not given a name, "

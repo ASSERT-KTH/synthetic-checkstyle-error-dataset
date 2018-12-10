@@ -1,0 +1,5 @@
+45c45,46
+<             QualifiedType elementType = magic.elementType(ctx);
+---
+>             QualifiedType 
+> elementType = magic.elementType(ctx);

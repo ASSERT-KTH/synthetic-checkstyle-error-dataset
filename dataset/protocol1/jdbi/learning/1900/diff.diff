@@ -1,0 +1,4 @@
+52c52
+<     public static TypeToken<?> of(Type type) {
+---
+>     public static TypeToken<? > of(Type type) {

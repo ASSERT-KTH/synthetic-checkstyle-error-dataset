@@ -1,0 +1,4 @@
+80c80
+<     public ReflectionMappers setStrictMatching(boolean strictMatching) {
+---
+>     public ReflectionMappers setStrictMatching( boolean strictMatching) {

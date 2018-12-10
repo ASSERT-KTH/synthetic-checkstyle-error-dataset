@@ -1,0 +1,5 @@
+21c21,22
+<     private final ColumnGetter<T> getter;
+---
+>     private final 
+> ColumnGetter<T> getter;

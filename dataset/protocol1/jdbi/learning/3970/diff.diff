@@ -1,0 +1,4 @@
+42c42
+<             Map<?, ?> map = (Map<?, ?>) arg;
+---
+>             Map<?	, ?> map = (Map<?, ?>) arg;

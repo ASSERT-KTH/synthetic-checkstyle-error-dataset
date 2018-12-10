@@ -1,0 +1,4 @@
+57c57
+<         return TypeToken.of(type).getRawType();
+---
+>         return TypeToken.	of(type).getRawType();

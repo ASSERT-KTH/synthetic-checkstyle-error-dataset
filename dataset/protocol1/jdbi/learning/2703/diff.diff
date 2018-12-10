@@ -1,0 +1,4 @@
+174c174
+<         return closed;
+---
+>         	return closed;

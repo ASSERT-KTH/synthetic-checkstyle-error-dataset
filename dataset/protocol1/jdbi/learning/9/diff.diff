@@ -1,0 +1,5 @@
+39c39,40
+<                 if (currentLevel != isolation && isolation != TransactionIsolationLevel.UNKNOWN) {
+---
+>                 if (currentLevel 
+> != isolation && isolation != TransactionIsolationLevel.UNKNOWN) {

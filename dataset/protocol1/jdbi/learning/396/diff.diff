@@ -1,0 +1,5 @@
+20,21c20
+< class GetterMapper<T> implements ColumnMapper<T> {
+<     private final ColumnGetter<T> getter;
+---
+> class GetterMapper<T> implements ColumnMapper<T> {    private final ColumnGetter<T> getter;

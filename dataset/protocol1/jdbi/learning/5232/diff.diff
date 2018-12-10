@@ -1,0 +1,4 @@
+25c25
+<     Type superclass = getClass().getGenericSuperclass();
+---
+>     Type superclass= getClass().getGenericSuperclass();

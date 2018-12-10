@@ -1,0 +1,5 @@
+74,75c74
+<         return this.register(new InferredColumnMapperFactory(mapper));
+<     }
+---
+>         return this.register(new InferredColumnMapperFactory(mapper));    }

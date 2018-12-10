@@ -1,0 +1,4 @@
+36c36
+<         this.types = Arrays.copyOf(types, types.length);
+---
+>         this.types = Arrays.copyOf(types	, types.length);

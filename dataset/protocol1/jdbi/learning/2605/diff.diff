@@ -1,0 +1,4 @@
+72c72
+<     public static JoinRowMapper forTypes(Type... classes) {
+---
+>     public static JoinRowMapper forTypes(Type... classes){

@@ -1,0 +1,4 @@
+53c53
+<         return rowType.cast(getRow((Type) rowType));
+---
+>         return rowType.cast(getRow ((Type) rowType));

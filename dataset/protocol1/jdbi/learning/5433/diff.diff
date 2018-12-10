@@ -1,0 +1,4 @@
+33c33
+<                         interfaceType.getClassLoader(), new Class<?>[] {interfaceType}, handler);
+---
+>                         interfaceType.getClassLoader	(), new Class<?>[] {interfaceType}, handler);

@@ -1,0 +1,5 @@
+744c744,745
+<     public void updateRowId(int columnIndex, RowId x) {
+---
+>     public 
+> void updateRowId(int columnIndex, RowId x) {

@@ -1,0 +1,4 @@
+74c74
+<     public static RowMapperFactory factory(Class<?> type, String prefix) {
+---
+>     public static RowMapperFactory factory(Class<?> type,  String prefix) {

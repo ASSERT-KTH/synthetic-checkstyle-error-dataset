@@ -1,0 +1,5 @@
+166,167c166
+<         return bounds.stream().filter(isObjectClass.negate()).collect(toList());
+<     }
+---
+>         return bounds.stream().filter(isObjectClass.negate()).collect(toList());    }

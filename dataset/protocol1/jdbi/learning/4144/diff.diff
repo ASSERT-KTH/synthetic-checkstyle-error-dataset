@@ -1,0 +1,4 @@
+296c296
+<     default <T> This registerRowMapper(GenericType<T> type, RowMapper<T> mapper) {
+---
+>     default <T> This registerRowMapper(GenericType<T > type, RowMapper<T> mapper) {

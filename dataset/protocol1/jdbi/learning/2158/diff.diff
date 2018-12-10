@@ -1,0 +1,4 @@
+377c377
+<     default <R> R collectInto(Class<R> containerType) {
+---
+>     default <R> R collectInto(Class< R> containerType) {

@@ -1,0 +1,5 @@
+50c50,51
+<                         String text = t.getText();
+---
+>                         String text = 
+> t.getText();

@@ -1,0 +1,4 @@
+78c78
+<     private static class ByOrdinal<E extends Enum<E>> extends EnumMapper<E> {
+---
+>     private static class ByOrdinal<E extends Enum<E>>  extends EnumMapper<E> {

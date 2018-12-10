@@ -1,0 +1,4 @@
+28c28
+<         RegisterBeanMapper registerBeanMapper = (RegisterBeanMapper) annotation;
+---
+>         RegisterBeanMapper registerBeanMapper  = (RegisterBeanMapper) annotation;

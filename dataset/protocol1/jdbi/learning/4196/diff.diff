@@ -1,0 +1,4 @@
+35c35
+<         Class<?> componentType = getErasedType(containerType).getComponentType();
+---
+>         Class	<?> componentType = getErasedType(containerType).getComponentType();

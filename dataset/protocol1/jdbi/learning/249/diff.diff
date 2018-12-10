@@ -1,0 +1,5 @@
+24c24,25
+< public class SingleColumnMapper<T> implements RowMapper<T> {
+---
+> public class 
+> SingleColumnMapper<T> implements RowMapper<T> {

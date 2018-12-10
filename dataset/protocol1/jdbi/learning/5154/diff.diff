@@ -1,0 +1,4 @@
+90c90
+<         return type.equals(boolean.class) || type.equals(Boolean.class);
+---
+>         return type.equals(boolean.class) || type. equals(Boolean.class);

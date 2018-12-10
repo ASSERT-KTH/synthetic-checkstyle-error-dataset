@@ -1,0 +1,5 @@
+30,31c30
+< class InferredRowMapperFactory implements RowMapperFactory {
+<     private final Type maps;
+---
+> class InferredRowMapperFactory implements RowMapperFactory {    private final Type maps;

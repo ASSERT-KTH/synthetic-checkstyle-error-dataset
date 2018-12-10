@@ -1,0 +1,5 @@
+20,21c20
+< public class AnnotationFactory {
+<     private AnnotationFactory() {}
+---
+> public class AnnotationFactory {    private AnnotationFactory() {}

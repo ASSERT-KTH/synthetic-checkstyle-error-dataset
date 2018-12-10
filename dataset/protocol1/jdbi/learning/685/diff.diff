@@ -1,0 +1,4 @@
+18c18
+< import java.lang.annotation.RetentionPolicy;
+---
+> import java. lang.annotation.RetentionPolicy;

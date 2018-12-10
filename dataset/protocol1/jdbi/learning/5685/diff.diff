@@ -1,0 +1,4 @@
+24c24
+< public abstract class TypeParameter<T> extends TypeCapture<T> {
+---
+> public  abstract class TypeParameter<T> extends TypeCapture<T> {

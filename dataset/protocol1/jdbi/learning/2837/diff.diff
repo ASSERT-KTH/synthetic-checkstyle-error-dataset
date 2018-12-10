@@ -1,0 +1,4 @@
+30c30
+<         if (t instanceof Error) {
+---
+>         if (t  instanceof Error) {

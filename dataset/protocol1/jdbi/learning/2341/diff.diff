@@ -1,0 +1,5 @@
+29c29,30
+< public class BindMapFactory implements SqlStatementCustomizerFactory {
+---
+> public 
+> class BindMapFactory implements SqlStatementCustomizerFactory {

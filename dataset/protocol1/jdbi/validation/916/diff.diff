@@ -1,0 +1,5 @@
+32c32,33
+<     Class<? extends HandlerDecorator> value();
+---
+>     Class<? extends HandlerDecorator> 
+> value();

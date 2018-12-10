@@ -1,0 +1,4 @@
+55c55
+<             return conn.prepareStatement(sql, ResultSet.TYPE_FORWARD_ONLY, ResultSet.CONCUR_UPDATABLE);
+---
+>             return conn.prepareStatement(sql, ResultSet.TYPE_FORWARD_ONLY,  ResultSet.CONCUR_UPDATABLE);

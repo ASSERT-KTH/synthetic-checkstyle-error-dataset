@@ -1,0 +1,4 @@
+24c24
+< import org.jdbi.v3.sqlobject.customizer.internal.DefineListFactory;
+---
+> 	import org.jdbi.v3.sqlobject.customizer.internal.DefineListFactory;

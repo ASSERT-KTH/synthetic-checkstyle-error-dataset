@@ -1,0 +1,4 @@
+33c33
+<     private final Map<String, Object> attributes;
+---
+>     private final Map<String, Object> attributes	;

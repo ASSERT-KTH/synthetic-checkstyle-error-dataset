@@ -1,0 +1,4 @@
+58c58
+<     private final CopyOnWriteArrayList<JdbiPlugin> plugins = new CopyOnWriteArrayList<>();
+---
+>     private final CopyOnWriteArrayList<JdbiPlugin> plugins= new CopyOnWriteArrayList<>();

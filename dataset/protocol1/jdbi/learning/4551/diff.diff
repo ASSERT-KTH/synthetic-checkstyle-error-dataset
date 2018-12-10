@@ -1,0 +1,4 @@
+115c115
+<         try (InputStream is = openStream(classLoader, path)) {
+---
+>         try ( InputStream is = openStream(classLoader, path)) {

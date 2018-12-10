@@ -1,0 +1,4 @@
+57c57
+<         if (erasedType.isArray()) {
+---
+>         if (erasedType.	isArray()) {

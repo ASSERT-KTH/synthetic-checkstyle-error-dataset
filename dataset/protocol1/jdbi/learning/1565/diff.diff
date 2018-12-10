@@ -1,0 +1,5 @@
+209c209,210
+<             bind(i, args[i]);
+---
+>             bind(i, 
+> args[i]);

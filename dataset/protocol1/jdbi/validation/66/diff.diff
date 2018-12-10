@@ -1,0 +1,4 @@
+49c49
+<         public String apply(String t) {
+---
+>         public String apply(String t){

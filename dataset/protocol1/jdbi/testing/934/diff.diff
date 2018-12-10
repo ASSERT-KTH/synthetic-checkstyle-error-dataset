@@ -1,0 +1,5 @@
+23c23,24
+<     public static void checkArgument(boolean expression, String errorMessageTemplate, Object... errorMessageArgs) {
+---
+>     public static void checkArgument
+> (boolean expression, String errorMessageTemplate, Object... errorMessageArgs) {

@@ -1,0 +1,4 @@
+39c39
+<             Iterator.super.forEachRemaining(action);
+---
+>             Iterator.super.forEachRemaining(action)	;

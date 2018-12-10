@@ -1,0 +1,5 @@
+18c18,19
+< public final class Preconditions {
+---
+> public final 
+> class Preconditions {

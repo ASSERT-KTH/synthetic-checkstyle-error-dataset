@@ -1,0 +1,5 @@
+32,33c32
+< class InferredColumnMapperFactory implements QualifiedColumnMapperFactory {
+<     private final QualifiedType maps;
+---
+> class InferredColumnMapperFactory implements QualifiedColumnMapperFactory {    private final QualifiedType maps;

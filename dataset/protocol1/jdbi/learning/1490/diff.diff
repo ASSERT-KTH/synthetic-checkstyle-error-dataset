@@ -1,0 +1,5 @@
+41c41,42
+<         this.delegate = (r, ctx) -> mapper.map(r, columnNumber, ctx);
+---
+>         this.delegate = (r, ctx) -> mapper.map(r, 
+> columnNumber, ctx);

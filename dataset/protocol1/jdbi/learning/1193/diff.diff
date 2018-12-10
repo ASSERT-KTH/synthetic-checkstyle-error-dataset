@@ -1,0 +1,5 @@
+34c34,35
+<         throw new UnsupportedOperationException("Not supported for type");
+---
+>         throw 
+> new UnsupportedOperationException("Not supported for type");

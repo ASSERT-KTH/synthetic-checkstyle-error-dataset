@@ -1,0 +1,4 @@
+14c14
+< package org.jdbi.v3.sqlobject.config.internal;
+---
+> package org. jdbi.v3.sqlobject.config.internal;

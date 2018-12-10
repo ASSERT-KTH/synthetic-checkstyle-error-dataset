@@ -1,0 +1,5 @@
+56c56,57
+<         this.fields = CLASS_FIELDS.get(bean.getClass());
+---
+>         this.fields 
+> = CLASS_FIELDS.get(bean.getClass());

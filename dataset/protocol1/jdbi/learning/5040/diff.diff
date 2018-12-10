@@ -1,0 +1,4 @@
+464c464
+<         setTransactionIsolation(level.intValue());
+---
+>         setTransactionIsolation (level.intValue());

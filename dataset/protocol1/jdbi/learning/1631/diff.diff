@@ -1,0 +1,4 @@
+30c30
+<         db.registerArrayType(int.class, "integer");
+---
+>         db.registerArrayType(int.class,"integer");

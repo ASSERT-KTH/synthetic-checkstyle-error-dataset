@@ -1,0 +1,4 @@
+73c73
+<     private static Object invoke(Object target, Method method, Object[] args) throws Exception {
+---
+>     private static Object invoke(Object target,  Method method, Object[] args) throws Exception {

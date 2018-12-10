@@ -1,0 +1,4 @@
+19c19
+<     static <T> SqlArrayTypeFactory factory(Class<T> type, String sqlTypeName) {
+---
+>     	static <T> SqlArrayTypeFactory factory(Class<T> type, String sqlTypeName) {

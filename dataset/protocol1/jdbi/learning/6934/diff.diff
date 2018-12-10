@@ -1,0 +1,4 @@
+47c47
+<             stmt.bindBeanList(name, IterableLike.toList(arg), Arrays.asList(bindBeanList.propertyNames()));
+---
+>             stmt.bindBeanList(name, IterableLike.toList(arg), Arrays.asList (bindBeanList.propertyNames()));

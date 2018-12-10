@@ -1,0 +1,4 @@
+55c55
+< public class BuiltInCollectorFactory implements CollectorFactory {
+---
+> public class BuiltInCollectorFactory  implements CollectorFactory {

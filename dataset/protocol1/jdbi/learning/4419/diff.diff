@@ -1,0 +1,5 @@
+21c21,22
+< class SqlArgumentFactory extends DelegatingArgumentFactory {
+---
+> class SqlArgumentFactory extends 
+> DelegatingArgumentFactory {

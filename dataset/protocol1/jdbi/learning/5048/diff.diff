@@ -1,0 +1,4 @@
+24c24
+<         return removeUnderscores(columnName).equalsIgnoreCase(removeUnderscores(javaName));
+---
+>         return removeUnderscores(columnName). equalsIgnoreCase(removeUnderscores(javaName));

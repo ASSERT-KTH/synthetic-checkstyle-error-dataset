@@ -1,0 +1,4 @@
+29c29
+<         List<Class<?>> sqlMethodAnnotations = Stream.of(method.getAnnotations())
+---
+>         List	<Class<?>> sqlMethodAnnotations = Stream.of(method.getAnnotations())

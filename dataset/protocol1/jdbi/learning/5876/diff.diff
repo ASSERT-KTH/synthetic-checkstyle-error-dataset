@@ -1,0 +1,4 @@
+31c31
+<     public Optional<Argument> build(Type expectedType, Object value, ConfigRegistry config) {
+---
+>     public Optional<Argument> build(Type expectedType,Object value, ConfigRegistry config) {

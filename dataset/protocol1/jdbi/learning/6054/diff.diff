@@ -1,0 +1,5 @@
+78c78,79
+<             t = lexer.nextToken();
+---
+>             t = lexer.nextToken
+> ();

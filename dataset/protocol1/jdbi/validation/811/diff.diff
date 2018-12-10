@@ -1,0 +1,4 @@
+25c25
+< public interface JdbiPlugin {
+---
+> public interface JdbiPlugin  {

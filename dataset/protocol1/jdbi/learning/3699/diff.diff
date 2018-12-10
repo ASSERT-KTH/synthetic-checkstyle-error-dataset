@@ -1,0 +1,4 @@
+114c114
+<             iterable.stream().forEach(i -> {}); // Make sure to consume the result
+---
+>             iterable. stream().forEach(i -> {}); // Make sure to consume the result

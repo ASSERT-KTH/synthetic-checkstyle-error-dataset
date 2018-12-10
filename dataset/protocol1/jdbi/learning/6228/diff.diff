@@ -1,0 +1,4 @@
+123c123
+<     public <T> T getColumn(String column, GenericType<T> type) {
+---
+>     public <T> T getColumn(	String column, GenericType<T> type) {

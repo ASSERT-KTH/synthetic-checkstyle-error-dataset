@@ -1,0 +1,4 @@
+30c30
+<     private final Set<Type> visited = new HashSet<>();
+---
+>     private final Set<Type> visited= new HashSet<>();

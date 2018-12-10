@@ -1,0 +1,4 @@
+136c136
+<         return (T) getColumn(column, type.getType());
+---
+>         return ( T) getColumn(column, type.getType());

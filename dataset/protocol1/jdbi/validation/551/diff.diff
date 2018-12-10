@@ -1,0 +1,4 @@
+66c66
+<     private static String scriptValue(SqlScript script, Method method) {
+---
+>     private static String scriptValue(SqlScript script, Method method	) {

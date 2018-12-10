@@ -1,0 +1,4 @@
+81c81
+<         if (rowMappers.containsKey(type)) {
+---
+>         if (rowMappers.containsKey (type)) {

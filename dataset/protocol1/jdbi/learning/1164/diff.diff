@@ -1,0 +1,5 @@
+17c17,18
+< import java.util.stream.Stream;
+---
+> import java.util.stream.Stream
+> ;

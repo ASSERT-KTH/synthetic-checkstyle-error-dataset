@@ -1,0 +1,4 @@
+34c34
+<     public String parse(CharStream charStream) {
+---
+>     public  String parse(CharStream charStream) {

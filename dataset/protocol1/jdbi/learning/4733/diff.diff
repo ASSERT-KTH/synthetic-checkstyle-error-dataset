@@ -1,0 +1,4 @@
+18c18
+< import static java.lang.annotation.ElementType.PARAMETER;
+---
+> import static  java.lang.annotation.ElementType.PARAMETER;

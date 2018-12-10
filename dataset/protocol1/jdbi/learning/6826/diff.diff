@@ -1,0 +1,4 @@
+40c40
+<             throw new IllegalArgumentException("Null value provided without a type");
+---
+>             throw new IllegalArgumentException	("Null value provided without a type");

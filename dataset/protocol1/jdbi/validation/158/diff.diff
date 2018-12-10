@@ -1,0 +1,5 @@
+105,106c105
+<         Objects.requireNonNull(url, "null url");
+<         return create(() -> DriverManager.getConnection(url));
+---
+>         Objects.requireNonNull(url, "null url");        return create(() -> DriverManager.getConnection(url));

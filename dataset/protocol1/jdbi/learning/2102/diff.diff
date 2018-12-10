@@ -1,0 +1,5 @@
+25c25,26
+<     public UnableToProduceResultException(Exception e, StatementContext ctx) {
+---
+>     public UnableToProduceResultException(Exception e
+> , StatementContext ctx) {

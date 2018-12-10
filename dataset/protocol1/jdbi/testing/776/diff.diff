@@ -1,0 +1,4 @@
+288c288
+<             Class<?> rawClass = (Class<?>) parameterizedType.getRawType();
+---
+>             Class<?> rawClass = (Class<?>)  parameterizedType.getRawType();

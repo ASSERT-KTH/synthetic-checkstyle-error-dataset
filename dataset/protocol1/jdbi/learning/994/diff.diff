@@ -1,0 +1,4 @@
+76c76
+<             return new IteratorReturner(qualifiedReturnType);
+---
+>             return new IteratorReturner(qualifiedReturnType) ;

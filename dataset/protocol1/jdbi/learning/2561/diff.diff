@@ -1,0 +1,4 @@
+256c256
+<         return configure(ColumnMappers.class, c -> c.register(type, mapper));
+---
+>         return configure(ColumnMappers.class, c -> c.register(type, mapper ));

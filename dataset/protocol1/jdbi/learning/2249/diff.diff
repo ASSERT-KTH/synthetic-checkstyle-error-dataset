@@ -1,0 +1,5 @@
+74,75c74
+<                 case ESCAPED_TEXT:
+<                     parsedSql.append(t.getText().substring(1));
+---
+>                 case ESCAPED_TEXT:                    parsedSql.append(t.getText().substring(1));

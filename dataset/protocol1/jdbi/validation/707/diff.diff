@@ -1,0 +1,5 @@
+50c50,51
+<     private static final Logger LOG = LoggerFactory.getLogger(Jdbi.class);
+---
+>     private static final Logger LOG 
+> = LoggerFactory.getLogger(Jdbi.class);

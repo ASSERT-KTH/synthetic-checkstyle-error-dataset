@@ -1,0 +1,4 @@
+141c141
+<         return configure(Arguments.class, c -> c.register(factory));
+---
+>         return configure(Arguments.class, c  -> c.register(factory));

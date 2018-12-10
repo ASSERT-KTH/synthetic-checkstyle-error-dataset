@@ -1,0 +1,4 @@
+31c31
+< public interface RowMapper<T> {
+---
+> public interface RowMapper<	T> {

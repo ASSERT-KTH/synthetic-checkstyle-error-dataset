@@ -1,0 +1,5 @@
+31,32c31
+<         binder.bind(stmt, pos, value);
+<     }
+---
+>         binder.bind(stmt, pos, value);    }

@@ -1,0 +1,5 @@
+72c72,73
+<             return s.charAt(0);
+---
+>             return 
+> s.charAt(0);

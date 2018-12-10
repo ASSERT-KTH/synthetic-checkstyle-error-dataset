@@ -1,0 +1,4 @@
+19c19
+< public abstract class GenericType<T> {
+---
+> public abstract class GenericType <T> {

@@ -1,0 +1,5 @@
+37c37,38
+< public class Arguments implements JdbiConfig<Arguments> {
+---
+> public class Arguments 
+> implements JdbiConfig<Arguments> {

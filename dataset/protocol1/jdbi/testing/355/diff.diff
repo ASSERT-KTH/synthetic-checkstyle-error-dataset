@@ -1,0 +1,4 @@
+105c105
+<                 throw new IllegalStateException("Multiple elements found in 'only'");
+---
+>                 throw new IllegalStateException("Multiple elements found in 'only'") ;

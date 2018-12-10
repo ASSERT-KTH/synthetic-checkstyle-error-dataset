@@ -1,0 +1,4 @@
+24c24
+< class BridgeMethodHandlerFactory implements HandlerFactory {
+---
+> class BridgeMethodHandlerFactory  implements HandlerFactory {

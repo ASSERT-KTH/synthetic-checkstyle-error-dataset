@@ -1,0 +1,4 @@
+98c98
+<         if (annotatedConstructors.size() > 1) {
+---
+>         if (annotatedConstructors.size() > 1)  {

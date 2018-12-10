@@ -1,0 +1,4 @@
+36c36
+<         register(OptionalLong.class, Types.BIGINT, (p, i, v) -> {
+---
+>         register(OptionalLong.class , Types.BIGINT, (p, i, v) -> {

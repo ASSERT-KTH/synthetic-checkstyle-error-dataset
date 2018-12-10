@@ -1,0 +1,4 @@
+49c49
+<             .map(AnnotatedElement::getAnnotations)
+---
+>             .map	(AnnotatedElement::getAnnotations)

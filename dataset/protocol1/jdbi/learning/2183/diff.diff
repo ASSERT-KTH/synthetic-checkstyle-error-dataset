@@ -1,0 +1,4 @@
+27c27
+< public class FetchSizeFactory implements SqlStatementCustomizerFactory {
+---
+> 	public class FetchSizeFactory implements SqlStatementCustomizerFactory {

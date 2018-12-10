@@ -1,0 +1,5 @@
+49c49,50
+<                     visitGenericArrayType((GenericArrayType) type);
+---
+>                     visitGenericArrayType((GenericArrayType) 
+> type);

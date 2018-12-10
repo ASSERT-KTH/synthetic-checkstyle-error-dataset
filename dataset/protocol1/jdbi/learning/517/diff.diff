@@ -1,0 +1,4 @@
+39c39
+< public class ObjectMethodArguments extends MethodReturnValueNamedArgumentFinder {
+---
+> public class  ObjectMethodArguments extends MethodReturnValueNamedArgumentFinder {

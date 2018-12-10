@@ -1,0 +1,4 @@
+26c26
+<     checkArgument(superclass instanceof ParameterizedType, "%s isn't parameterized", superclass);
+---
+>     checkArgument(superclass instanceof ParameterizedType,"%s isn't parameterized", superclass);

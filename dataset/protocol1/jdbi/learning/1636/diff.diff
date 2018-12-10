@@ -1,0 +1,4 @@
+25c25
+<     public LoggableSetNullOrBinderArgument(T value, int sqlType, StatementBinder<T> binder) {
+---
+>     public LoggableSetNullOrBinderArgument(T value, int sqlType, StatementBinder<T>binder) {

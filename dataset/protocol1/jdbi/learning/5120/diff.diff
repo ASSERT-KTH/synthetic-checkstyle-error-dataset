@@ -1,0 +1,5 @@
+29c29,30
+<         return columnName.regionMatches(true, 0, prefix, 0, prefix.length());
+---
+>         return columnName.regionMatches(true, 0, prefix, 
+> 0, prefix.length());

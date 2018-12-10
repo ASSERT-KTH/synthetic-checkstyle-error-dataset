@@ -1,0 +1,4 @@
+85c85
+<     public <T> ColumnMappers register(GenericType<T> type, ColumnMapper<T> mapper) {
+---
+>     public <T	> ColumnMappers register(GenericType<T> type, ColumnMapper<T> mapper) {

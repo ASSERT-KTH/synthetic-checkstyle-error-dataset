@@ -1,0 +1,4 @@
+30c30
+<     public void configureForType(ConfigRegistry registry, Annotation annotation, Class<?> sqlObjectType) {
+---
+>     public void configureForType(	ConfigRegistry registry, Annotation annotation, Class<?> sqlObjectType) {

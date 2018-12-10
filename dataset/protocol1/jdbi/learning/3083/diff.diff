@@ -1,0 +1,4 @@
+70c70
+<     public ConfigRegistry createCopy() {
+---
+>     public ConfigRegistry  createCopy() {

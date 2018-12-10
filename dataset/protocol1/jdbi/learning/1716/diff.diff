@@ -1,0 +1,5 @@
+27c27,28
+<     boolean columnNameMatches(String columnName, String javaName);
+---
+>     boolean columnNameMatches
+> (String columnName, String javaName);

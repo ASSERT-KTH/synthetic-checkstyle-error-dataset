@@ -1,0 +1,4 @@
+27c27
+< public class Batch extends BaseStatement<Batch> {
+---
+> public class Batch extends BaseStatement<Batch	> {

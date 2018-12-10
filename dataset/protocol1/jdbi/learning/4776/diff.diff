@@ -1,0 +1,4 @@
+60c60
+<     private static <T> ColumnMapper<T> primitiveMapper(ColumnGetter<T> getter) {
+---
+>     private static<T> ColumnMapper<T> primitiveMapper(ColumnGetter<T> getter) {

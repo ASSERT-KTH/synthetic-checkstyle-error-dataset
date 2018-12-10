@@ -1,0 +1,4 @@
+36c36
+<         Class<?> type = registerConstructorMapper.value();
+---
+>         Class<?> type = registerConstructorMapper.value ();

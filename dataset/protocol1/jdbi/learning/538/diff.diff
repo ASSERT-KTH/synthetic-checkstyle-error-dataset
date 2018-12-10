@@ -1,0 +1,5 @@
+45c45,46
+<     private static final Map<Class<?>, Map<String, PropertyDescriptor>> CLASS_PROPERTY_DESCRIPTORS = ExpiringMap
+---
+>     private static final Map<Class<?>, Map<String
+> , PropertyDescriptor>> CLASS_PROPERTY_DESCRIPTORS = ExpiringMap

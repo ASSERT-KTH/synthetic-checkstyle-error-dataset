@@ -1,0 +1,5 @@
+130,131c130
+<         this.prefix = prefix.toLowerCase();
+<         try {
+---
+>         this.prefix = prefix.toLowerCase();        try {

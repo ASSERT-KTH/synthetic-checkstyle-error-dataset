@@ -1,0 +1,4 @@
+50c50
+<         this.delegate = (r, ctx) -> mapper.map(r, columnLabel, ctx);
+---
+>         this.delegate = (	r, ctx) -> mapper.map(r, columnLabel, ctx);

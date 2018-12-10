@@ -1,0 +1,4 @@
+59c59
+<             && Objects.equals(parameters, that.parameters);
+---
+>             && Objects.equals(parameters	, that.parameters);

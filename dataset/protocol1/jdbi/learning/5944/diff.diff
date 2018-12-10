@@ -1,0 +1,4 @@
+34c34
+<             stmt.setNull(pos, sqlType);
+---
+>             stmt.setNull(pos , sqlType);

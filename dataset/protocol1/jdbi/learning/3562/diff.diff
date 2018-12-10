@@ -1,0 +1,5 @@
+33,34c33
+<         return EnumSet.class.isAssignableFrom(getErasedType(containerType))
+<             && containerType instanceof ParameterizedType;
+---
+>         return EnumSet.class.isAssignableFrom(getErasedType(containerType))            && containerType instanceof ParameterizedType;

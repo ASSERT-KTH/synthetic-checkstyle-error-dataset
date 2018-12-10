@@ -1,0 +1,4 @@
+80c80
+<                 Array.set(ary, i, list.get(i));
+---
+>                 Array.set(ary, i, list.get(i) );

@@ -1,0 +1,5 @@
+42c42,43
+<         collectors.put(TreeMap.class, toMap(TreeMap::new));
+---
+>         collectors.put(TreeMap.class
+> , toMap(TreeMap::new));

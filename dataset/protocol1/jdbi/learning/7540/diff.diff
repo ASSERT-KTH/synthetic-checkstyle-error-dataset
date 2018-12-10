@@ -1,0 +1,5 @@
+21,22c21
+< public class Handles implements JdbiConfig<Handles> {
+<     private boolean forceEndTransactions = true;
+---
+> public class Handles implements JdbiConfig<Handles> {    private boolean forceEndTransactions = true;

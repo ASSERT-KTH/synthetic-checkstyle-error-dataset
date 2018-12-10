@@ -1,0 +1,4 @@
+23c23
+<     public static <V, L> V invokeInContext(ThreadLocal<L> threadLocal, L context, Callable<V> task) throws Exception {
+---
+>     public static <V, L> V invokeInContext(ThreadLocal<L> threadLocal, L  context, Callable<V> task) throws Exception {

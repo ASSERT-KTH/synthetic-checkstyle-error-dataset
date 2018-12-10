@@ -1,0 +1,5 @@
+19,20c19
+< public class UnableToExecuteStatementException extends StatementException {
+<     private static final long serialVersionUID = 1L;
+---
+> public class UnableToExecuteStatementException extends StatementException {    private static final long serialVersionUID = 1L;

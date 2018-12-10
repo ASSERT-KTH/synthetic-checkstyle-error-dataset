@@ -1,0 +1,5 @@
+211c211,212
+<                 public Object next() {
+---
+>                 public 
+> Object next() {

@@ -1,0 +1,5 @@
+27c27,28
+< import org.jdbi.v3.sqlobject.UnableToCreateSqlObjectException;
+---
+> import 
+> org.jdbi.v3.sqlobject.UnableToCreateSqlObjectException;

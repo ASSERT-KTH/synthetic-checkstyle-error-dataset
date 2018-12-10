@@ -1,0 +1,5 @@
+55c55,56
+<         if (!mapper.isPresent() && elementType == Object.class) {
+---
+>         if (!mapper.isPresent() 
+> && elementType == Object.class) {

@@ -1,0 +1,4 @@
+31c31
+<     private final SqlStatementCustomizerFactory bindSqlStatementCustomizerFactory = new BindFactory();
+---
+>     private final SqlStatementCustomizerFactory bindSqlStatementCustomizerFactory = new BindFactory() ;

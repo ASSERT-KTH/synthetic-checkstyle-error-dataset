@@ -1,0 +1,4 @@
+23c23
+< import static java.lang.annotation.ElementType.METHOD;
+---
+> import static java.lang.annotation.ElementType. METHOD;

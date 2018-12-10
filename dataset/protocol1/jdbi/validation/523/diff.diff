@@ -1,0 +1,4 @@
+44c44
+<     default <R, X extends Exception> R withHandle(HandleCallback<R, X> callback) throws X {
+---
+>     default <R, X extends Exception> R withHandle(HandleCallback<R, X> callback	) throws X {

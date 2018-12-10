@@ -1,0 +1,4 @@
+26c26
+<     public CreateSqlObjectHandler(Method method) {
+---
+>     public CreateSqlObjectHandler(Method  method) {

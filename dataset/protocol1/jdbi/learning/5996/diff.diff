@@ -1,0 +1,4 @@
+30c30
+<         return r.wasNull() ? null : value;
+---
+>         return r.wasNull	() ? null : value;

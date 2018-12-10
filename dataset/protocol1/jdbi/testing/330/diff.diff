@@ -1,0 +1,4 @@
+31c31
+<             throw new NullPointerException(String.format(errorMessageTemplate, errorMessageArgs));
+---
+>             	throw new NullPointerException(String.format(errorMessageTemplate, errorMessageArgs));

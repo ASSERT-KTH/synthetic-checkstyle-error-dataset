@@ -1,0 +1,5 @@
+174,175c174
+<                 .filter(Objects::nonNull)
+<                 .map(m -> m.getAnnotation(Nested.class))
+---
+>                 .filter(Objects::nonNull)                .map(m -> m.getAnnotation(Nested.class))

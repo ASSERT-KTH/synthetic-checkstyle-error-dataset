@@ -1,0 +1,4 @@
+28c28
+<     public SqlStatementCustomizer createForType(Annotation annotation, Class<?> sqlObjectType) {
+---
+>     public SqlStatementCustomizer createForType(Annotation annotation, Class<? > sqlObjectType) {

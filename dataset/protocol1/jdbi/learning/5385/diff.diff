@@ -1,0 +1,5 @@
+16c16,17
+< public class ConnectionException extends JdbiException {
+---
+> public class ConnectionException 
+> extends JdbiException {

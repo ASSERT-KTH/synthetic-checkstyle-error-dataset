@@ -1,0 +1,5 @@
+52c52,53
+<         private ByName(Class<E> type) {
+---
+>         
+> private ByName(Class<E> type) {

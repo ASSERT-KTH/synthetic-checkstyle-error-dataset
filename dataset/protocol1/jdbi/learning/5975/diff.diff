@@ -1,0 +1,4 @@
+120c120
+<             super(type);
+---
+>             super	(type);

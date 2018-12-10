@@ -1,0 +1,4 @@
+232c232
+<         return bindings.size();
+---
+>         return bindings.size()	;

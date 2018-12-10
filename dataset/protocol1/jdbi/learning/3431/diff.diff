@@ -1,0 +1,4 @@
+31c31
+<     private static final Method PRIVATE_LOOKUP_IN = privateLookupIn();
+---
+>     private static final Method PRIVATE_LOOKUP_IN  = privateLookupIn();

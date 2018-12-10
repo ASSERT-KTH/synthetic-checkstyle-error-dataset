@@ -1,0 +1,5 @@
+33c33,34
+<     default SqlStatementCustomizer createForType(Annotation annotation, Class<?> sqlObjectType) {
+---
+>     default SqlStatementCustomizer createForType(Annotation 
+> annotation, Class<?> sqlObjectType) {

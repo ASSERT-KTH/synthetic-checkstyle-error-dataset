@@ -1,0 +1,5 @@
+245c245,246
+<             throw new IllegalArgumentException(String.format("Parameter at %d is not a number but %s", pos, obj.getClass()));
+---
+>             throw new IllegalArgumentException(String.format("Parameter at %d is not a number but %s", pos, obj.getClass()))
+> ;

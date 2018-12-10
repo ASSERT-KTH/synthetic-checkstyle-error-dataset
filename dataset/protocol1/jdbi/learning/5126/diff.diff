@@ -1,0 +1,5 @@
+41,42c41
+<                 ? Optional.of(arrayType)
+<                 : Optional.empty();
+---
+>                 ? Optional.of(arrayType)                : Optional.empty();

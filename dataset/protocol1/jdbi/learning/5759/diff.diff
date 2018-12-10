@@ -1,0 +1,4 @@
+67c67
+<         if (value != DEFAULT_MAX_ROWS) {
+---
+>         if (value  != DEFAULT_MAX_ROWS) {

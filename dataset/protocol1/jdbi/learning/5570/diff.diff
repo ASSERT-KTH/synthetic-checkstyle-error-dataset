@@ -1,0 +1,4 @@
+44c44
+<             return buildFromResultSet(array, ctx);
+---
+>             return buildFromResultSet(array, ctx)	;

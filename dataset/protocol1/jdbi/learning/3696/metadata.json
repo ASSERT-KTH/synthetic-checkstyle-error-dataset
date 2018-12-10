@@ -1,0 +1,1 @@
+{"injection_operator": "deletion-newline", "line": "21", "column": "8", "message": "Unused import - org.jdbi.v3.core.config.ConfigRegistry.", "type": "UnusedImports"}

@@ -1,0 +1,4 @@
+40c40
+<                 if (type instanceof TypeVariable) {
+---
+>                 if (type instanceof TypeVariable	) {

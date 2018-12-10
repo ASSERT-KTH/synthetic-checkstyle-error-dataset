@@ -1,0 +1,4 @@
+38c38
+<         if (sqlMethodAnnotations.size() > 1) {
+---
+>         if (	sqlMethodAnnotations.size() > 1) {

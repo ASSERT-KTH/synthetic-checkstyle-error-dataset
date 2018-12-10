@@ -1,0 +1,5 @@
+24c24,25
+< public class ValueColumnImpl implements Configurer {
+---
+> public class 
+> ValueColumnImpl implements Configurer {

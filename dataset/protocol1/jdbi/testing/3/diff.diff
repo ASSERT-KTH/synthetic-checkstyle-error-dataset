@@ -1,0 +1,4 @@
+38c38
+<         collectors.put(HashSet.class, toCollection(HashSet::new));
+---
+>         collectors.put(HashSet.class, toCollection	(HashSet::new));

@@ -1,0 +1,5 @@
+27c27,28
+<     public final Type getType() {
+---
+>     public final Type getType
+> () {

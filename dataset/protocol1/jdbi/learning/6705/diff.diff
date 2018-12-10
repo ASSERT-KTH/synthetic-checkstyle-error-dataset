@@ -1,0 +1,5 @@
+41,42c41
+<      */
+<     Optional<Argument> build(Type type, Object value, ConfigRegistry config);
+---
+>      */    Optional<Argument> build(Type type, Object value, ConfigRegistry config);

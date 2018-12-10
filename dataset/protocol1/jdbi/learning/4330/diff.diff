@@ -1,0 +1,4 @@
+34c34
+<     Class<? extends CollectorFactory> value();
+---
+>     Class<? extends CollectorFactory> value() ;

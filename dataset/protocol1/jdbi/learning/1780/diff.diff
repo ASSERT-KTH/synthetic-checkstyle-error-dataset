@@ -1,0 +1,4 @@
+26c26
+<     public UnableToCreateStatementException(String string, Throwable throwable) {
+---
+>     public UnableToCreateStatementException(String string,  Throwable throwable) {

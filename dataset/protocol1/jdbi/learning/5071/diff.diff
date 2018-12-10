@@ -1,0 +1,5 @@
+66,67c66
+<                 case NAMED_PARAM:
+<                     parsedSql.appendNamedParameter(t.getText().substring(1));
+---
+>                 case NAMED_PARAM:                    parsedSql.appendNamedParameter(t.getText().substring(1));

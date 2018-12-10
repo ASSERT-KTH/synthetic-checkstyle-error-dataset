@@ -1,0 +1,4 @@
+22c22
+<     List<Object> list = new ArrayList<>();
+---
+>     List <Object> list = new ArrayList<>();

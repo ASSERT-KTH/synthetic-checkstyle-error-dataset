@@ -1,0 +1,4 @@
+37c37
+<             stmt.setObject(pos, value);
+---
+>             stmt.setObject(pos, value) ;

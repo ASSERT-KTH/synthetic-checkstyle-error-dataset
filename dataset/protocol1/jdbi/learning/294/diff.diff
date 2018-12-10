@@ -1,0 +1,4 @@
+30c30
+<     Connection openConnection() throws SQLException;
+---
+>     Connection openConnection() throws SQLException ;

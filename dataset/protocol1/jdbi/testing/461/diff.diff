@@ -1,0 +1,4 @@
+137c137
+<         b.forEach((k, v) -> putEntry(a, k, v));
+---
+>         b.forEach((k	, v) -> putEntry(a, k, v));

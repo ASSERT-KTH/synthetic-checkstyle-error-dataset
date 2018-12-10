@@ -1,0 +1,5 @@
+60c60,61
+<         Class<?> klass = iterable.getClass();
+---
+>         
+> Class<?> klass = iterable.getClass();

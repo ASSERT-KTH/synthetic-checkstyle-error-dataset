@@ -1,0 +1,4 @@
+125c125
+<         return new ResultProducers(allowNoResults);
+---
+>         return new ResultProducers(allowNoResults	);

@@ -1,0 +1,4 @@
+107c107
+<             final Map<Method, Handler> handlers = new HashMap<>();
+---
+>             final Map<Method,  Handler> handlers = new HashMap<>();

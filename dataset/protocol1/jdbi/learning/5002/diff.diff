@@ -1,0 +1,4 @@
+21c21
+< import static java.lang.annotation.ElementType.CONSTRUCTOR;
+---
+> 	import static java.lang.annotation.ElementType.CONSTRUCTOR;

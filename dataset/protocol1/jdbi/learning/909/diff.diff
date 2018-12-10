@@ -1,0 +1,5 @@
+51,52c51
+<             .filter(anno -> anno.annotationType().isAnnotationPresent(Qualifier.class))
+<             .collect(toSet());
+---
+>             .filter(anno -> anno.annotationType().isAnnotationPresent(Qualifier.class))            .collect(toSet());

@@ -1,0 +1,5 @@
+31c31,32
+< public final class SqlStatements implements JdbiConfig<SqlStatements> {
+---
+> public final class SqlStatements 
+> implements JdbiConfig<SqlStatements> {

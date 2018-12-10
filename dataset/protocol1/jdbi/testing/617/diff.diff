@@ -1,0 +1,4 @@
+39c39
+<     String render(String template, StatementContext ctx);
+---
+>     String  render(String template, StatementContext ctx);

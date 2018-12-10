@@ -1,0 +1,4 @@
+36c36
+<             mappers.register(registerRowMapperFactory.value().newInstance());
+---
+>             mappers.register(registerRowMapperFactory.value().newInstance())	;

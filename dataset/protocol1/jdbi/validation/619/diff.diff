@@ -1,0 +1,5 @@
+441c441,442
+<     public <R, E, X extends Exception> R withExtension(Class<E> extensionType, ExtensionCallback<R, E, X> callback)
+---
+>     public <R, E, X extends Exception> R withExtension(Class<E> extensionType, ExtensionCallback<R, 
+> E, X> callback)

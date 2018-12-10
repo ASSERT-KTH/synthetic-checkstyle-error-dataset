@@ -1,0 +1,5 @@
+96c96,97
+<                 .collect(Collectors.toList());
+---
+>                 .collect(Collectors.toList())
+> ;

@@ -1,0 +1,4 @@
+23c23
+< public class UnableToManipulateTransactionIsolationLevelException extends JdbiException {
+---
+> public class UnableToManipulateTransactionIsolationLevelException  extends JdbiException {

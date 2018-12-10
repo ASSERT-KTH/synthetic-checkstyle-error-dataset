@@ -1,0 +1,5 @@
+31c31,32
+<         Class<?> returnClass = GenericTypes.getErasedType(returnType);
+---
+>         Class<?> 
+> returnClass = GenericTypes.getErasedType(returnType);

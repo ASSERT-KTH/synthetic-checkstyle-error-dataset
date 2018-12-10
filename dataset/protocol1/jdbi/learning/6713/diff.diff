@@ -1,0 +1,4 @@
+68c68
+<             Type type = field.getGenericType();
+---
+>             Type type =field.getGenericType();

@@ -1,0 +1,4 @@
+223c223
+<                 PropertyDescriptor property = properties.get(i);
+---
+>                 PropertyDescriptor property = properties.get(i)	;

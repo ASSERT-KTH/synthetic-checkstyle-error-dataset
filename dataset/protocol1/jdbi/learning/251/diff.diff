@@ -1,0 +1,4 @@
+26c26
+<     public Optional<Handler> buildHandler(Class<?> sqlObjectType, Method method) {
+---
+>     public Optional<Handler > buildHandler(Class<?> sqlObjectType, Method method) {

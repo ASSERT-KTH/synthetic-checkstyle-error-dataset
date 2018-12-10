@@ -1,0 +1,5 @@
+26,27c26
+< public class ParsedParameters {
+<     private final boolean positional;
+---
+> public class ParsedParameters {    private final boolean positional;

@@ -1,0 +1,4 @@
+34c34
+<     private final Map<Class<?>, Collector<?, ?, ?>> collectors = new IdentityHashMap<>();
+---
+>     private final Map<Class<?>, Collector<?	, ?, ?>> collectors = new IdentityHashMap<>();

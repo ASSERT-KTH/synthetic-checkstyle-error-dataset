@@ -1,0 +1,4 @@
+294c294
+<             try (ResultSet rs = supplier.get()) {
+---
+>             try (ResultSet rs = supplier. get()) {

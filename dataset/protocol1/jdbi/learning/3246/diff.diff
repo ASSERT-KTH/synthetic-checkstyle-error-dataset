@@ -1,0 +1,5 @@
+29c29,30
+<         return r.getNString(columnNumber);
+---
+>         
+> return r.getNString(columnNumber);

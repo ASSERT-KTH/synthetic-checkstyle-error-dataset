@@ -1,0 +1,4 @@
+21c21
+<     AbstractLoggableArgument(T value) {
+---
+>     AbstractLoggableArgument(T value){

@@ -1,0 +1,5 @@
+33c33,34
+<         BindBean bind = (BindBean) annotation;
+---
+>         BindBean 
+> bind = (BindBean) annotation;

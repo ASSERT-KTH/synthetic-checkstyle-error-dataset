@@ -1,0 +1,5 @@
+35,36c35
+<         this.maps = findGenericParameter(mapper.getClass(), RowMapper.class)
+<                 .orElseThrow(() -> new UnsupportedOperationException("Must use a concretely typed RowMapper here"));
+---
+>         this.maps = findGenericParameter(mapper.getClass(), RowMapper.class)                .orElseThrow(() -> new UnsupportedOperationException("Must use a concretely typed RowMapper here"));

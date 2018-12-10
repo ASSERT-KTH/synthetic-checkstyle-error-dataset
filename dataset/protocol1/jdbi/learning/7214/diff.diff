@@ -1,0 +1,5 @@
+57,58c57
+<         String s = r.getString(i);
+<         try {
+---
+>         String s = r.getString(i);        try {

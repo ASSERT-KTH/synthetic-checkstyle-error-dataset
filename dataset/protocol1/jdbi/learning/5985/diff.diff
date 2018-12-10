@@ -1,0 +1,5 @@
+26c26,27
+<         InvocationHandler invocationHandler = getInvocationHandler(annotationType);
+---
+>         InvocationHandler invocationHandler = getInvocationHandler
+> (annotationType);

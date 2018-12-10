@@ -1,0 +1,4 @@
+20c20
+< interface ColumnGetter<T> {
+---
+> interface  ColumnGetter<T> {

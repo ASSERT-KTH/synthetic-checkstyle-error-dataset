@@ -1,0 +1,4 @@
+74c74
+<         return ts == null ? null : ts.toLocalDateTime().toLocalDate();
+---
+>         return ts == null ? null : ts.	toLocalDateTime().toLocalDate();

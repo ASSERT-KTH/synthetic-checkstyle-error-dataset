@@ -1,0 +1,5 @@
+48c48,49
+< public @interface Timestamped {
+---
+> public 
+> @interface Timestamped {

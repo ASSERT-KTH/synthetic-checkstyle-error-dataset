@@ -1,0 +1,4 @@
+40c40
+<         collectors.put(LinkedHashMap.class, toMap(LinkedHashMap::new));
+---
+>         collectors.put(LinkedHashMap.class, toMap(LinkedHashMap::new ));

@@ -1,0 +1,4 @@
+55c55
+<                 String childName = actualName.substring(separator + 1);
+---
+>                 String childName = actualName. substring(separator + 1);

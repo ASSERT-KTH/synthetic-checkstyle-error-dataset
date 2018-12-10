@@ -1,0 +1,4 @@
+37c37
+<         return klass.cast(get((Type) klass));
+---
+>         	return klass.cast(get((Type) klass));

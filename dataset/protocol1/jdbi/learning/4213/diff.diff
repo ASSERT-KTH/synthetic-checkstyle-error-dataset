@@ -1,0 +1,4 @@
+204c204
+<         static BoundCustomizer of(SqlStatementCustomizer c) {
+---
+>         static BoundCustomizer of(SqlStatementCustomizer c)  {

@@ -1,0 +1,5 @@
+41c41,42
+<     default void logException(StatementContext context, SQLException ex) {}
+---
+>     default void logException
+> (StatementContext context, SQLException ex) {}

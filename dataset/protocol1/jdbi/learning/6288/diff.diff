@@ -1,0 +1,5 @@
+32c32,33
+<             ? factory.build(type.getType(), config)
+---
+>             ? factory.build(type.getType
+> (), config)

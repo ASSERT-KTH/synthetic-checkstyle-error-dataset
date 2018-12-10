@@ -1,0 +1,4 @@
+27c27
+< public class MaxRowsFactory implements SqlStatementCustomizerFactory {
+---
+> public  class MaxRowsFactory implements SqlStatementCustomizerFactory {

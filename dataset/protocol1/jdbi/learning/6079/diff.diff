@@ -1,0 +1,5 @@
+42,43c42
+<     @Nullable
+<     <A extends Annotation> A getAnnotation(Class<A> annotationClass) {
+---
+>     @Nullable    <A extends Annotation> A getAnnotation(Class<A> annotationClass) {

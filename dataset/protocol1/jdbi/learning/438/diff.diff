@@ -1,0 +1,4 @@
+22c22
+<     private boolean forceEndTransactions = true;
+---
+>     private boolean forceEndTransactions = true	;

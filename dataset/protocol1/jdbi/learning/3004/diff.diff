@@ -1,0 +1,4 @@
+27c27
+< public interface Cleanable extends AutoCloseable {
+---
+> public interface  Cleanable extends AutoCloseable {

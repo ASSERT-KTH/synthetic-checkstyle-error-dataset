@@ -1,0 +1,4 @@
+113c113
+<         of(iterable).forEachRemaining(result::add);
+---
+>         of(iterable). forEachRemaining(result::add);

@@ -1,0 +1,4 @@
+96c96
+<         String named = this.named.entrySet().stream()
+---
+>         String named = this.named.entrySet	().stream()

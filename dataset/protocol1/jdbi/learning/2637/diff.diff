@@ -1,0 +1,5 @@
+54c54,55
+<     public Optional<Handler> findFor(Class<?> sqlObjectType, Method method) {
+---
+>     public Optional<Handler> findFor(Class<?> sqlObjectType
+> , Method method) {

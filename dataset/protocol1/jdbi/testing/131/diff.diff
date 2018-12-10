@@ -1,0 +1,4 @@
+28c28
+<                 .orElseThrow(() -> new IllegalStateException("Sql annotation missing query"));
+---
+>                 .orElseThrow(() -> new IllegalStateException("Sql annotation missing query" ));

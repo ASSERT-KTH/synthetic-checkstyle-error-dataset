@@ -1,0 +1,5 @@
+72,73c72
+<             .reduce(Stream.empty(), Stream::concat)
+<             .collect(Collectors.toList());
+---
+>             .reduce(Stream.empty(), Stream::concat)            .collect(Collectors.toList());

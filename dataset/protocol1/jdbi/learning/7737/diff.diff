@@ -1,0 +1,4 @@
+25c25
+< public @interface RegisterRowMappers {
+---
+> public @interface RegisterRowMappers{

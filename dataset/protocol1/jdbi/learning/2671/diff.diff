@@ -1,0 +1,4 @@
+58c58
+<                         ? resultBearing.mapTo(returnType)
+---
+>                         ?  resultBearing.mapTo(returnType)

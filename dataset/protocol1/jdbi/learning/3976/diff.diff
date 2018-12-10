@@ -1,0 +1,4 @@
+484c484
+<     public void updateShort(String columnLabel, short x) {
+---
+>     public void updateShort(String columnLabel	, short x) {

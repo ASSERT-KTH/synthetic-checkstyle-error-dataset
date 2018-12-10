@@ -1,0 +1,4 @@
+31c31
+<         return (pos, stmt, ctx) -> stmt.setNString(pos, value);
+---
+>         return (pos, stmt, ctx) -> stmt.setNString(pos	, value);

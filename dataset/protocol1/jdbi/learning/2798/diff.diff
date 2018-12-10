@@ -1,0 +1,4 @@
+28c28
+<         return containerType instanceof ParameterizedType && Optional.class.equals(getErasedType(containerType));
+---
+>         return containerType instanceof ParameterizedType && Optional.class.equals(	getErasedType(containerType));

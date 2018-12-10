@@ -1,0 +1,4 @@
+33c33
+<     private final List<RowMapperFactory> factories = new CopyOnWriteArrayList<>();
+---
+>     	private final List<RowMapperFactory> factories = new CopyOnWriteArrayList<>();

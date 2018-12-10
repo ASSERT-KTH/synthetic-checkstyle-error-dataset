@@ -1,0 +1,4 @@
+50c50
+<     default void afterExecution(PreparedStatement stmt, StatementContext ctx) throws SQLException {}
+---
+>     default void afterExecution(PreparedStatement stmt, StatementContext ctx) throws  SQLException {}

@@ -1,0 +1,5 @@
+46c46,47
+<         Object result = entries.get(type);
+---
+>         
+> Object result = entries.get(type);

@@ -1,0 +1,4 @@
+24c24
+< public class AnnotationSqlLocator implements SqlLocator {
+---
+> public class AnnotationSqlLocator implements  SqlLocator {

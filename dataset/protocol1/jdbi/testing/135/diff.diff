@@ -1,0 +1,4 @@
+27c27
+<         return SqlAnnotations.getAnnotationValue(method, sql -> sql)
+---
+>         return SqlAnnotations. getAnnotationValue(method, sql -> sql)

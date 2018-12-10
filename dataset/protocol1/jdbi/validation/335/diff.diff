@@ -1,0 +1,4 @@
+22c22
+<     NONE(Connection.TRANSACTION_NONE),
+---
+>     NONE	(Connection.TRANSACTION_NONE),

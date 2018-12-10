@@ -1,0 +1,4 @@
+41c41
+<         return execute(returningUpdateCount());
+---
+>         return execute(returningUpdateCount()) ;

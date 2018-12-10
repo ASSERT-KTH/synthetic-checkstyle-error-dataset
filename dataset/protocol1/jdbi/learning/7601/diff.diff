@@ -1,0 +1,5 @@
+222c222,223
+<                 RowMapper<?> mapper = mappers.get(i);
+---
+>                 RowMapper<?> 
+> mapper = mappers.get(i);

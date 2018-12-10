@@ -1,0 +1,4 @@
+264c264
+<             return new TypeResolver(forDependants).resolveType(type);
+---
+>             return new TypeResolver(forDependants).resolveType(type) ;

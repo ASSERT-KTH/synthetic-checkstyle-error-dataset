@@ -1,0 +1,5 @@
+51c51,52
+<         SqlArrayArgumentStrategy argumentStyle = ctx.getSqlArrayArgumentStrategy();
+---
+>         SqlArrayArgumentStrategy 
+> argumentStyle = ctx.getSqlArrayArgumentStrategy();

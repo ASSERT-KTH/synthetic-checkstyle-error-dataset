@@ -1,0 +1,5 @@
+20c20,21
+<         SqlArrayType<T> arrayType = new VendorSupportedArrayType<>(sqlTypeName);
+---
+>         SqlArrayType<T> arrayType = 
+> new VendorSupportedArrayType<>(sqlTypeName);

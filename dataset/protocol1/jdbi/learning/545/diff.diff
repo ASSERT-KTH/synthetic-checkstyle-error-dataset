@@ -1,0 +1,5 @@
+40c40,41
+<             throw new IllegalStateException("Cannot declare @UseRowMapper and @UseRowReducer on the same method.");
+---
+>             throw 
+> new IllegalStateException("Cannot declare @UseRowMapper and @UseRowReducer on the same method.");

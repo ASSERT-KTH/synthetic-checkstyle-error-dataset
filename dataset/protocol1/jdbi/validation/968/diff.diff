@@ -1,0 +1,4 @@
+51c51
+<                 () -> findScripts(method, resolveSql));
+---
+>                 () -> findScripts	(method, resolveSql));

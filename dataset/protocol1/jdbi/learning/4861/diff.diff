@@ -1,0 +1,5 @@
+27c27,28
+<         register(Inet6Address.class, Types.OTHER, (p, i, v) -> p.setString(i, v.getHostAddress()));
+---
+>         register(Inet6Address.class, Types.OTHER, (p, i, v) 
+> -> p.setString(i, v.getHostAddress()));

@@ -1,0 +1,5 @@
+133c133,134
+<         getContext().setRenderedSql(renderedSql);
+---
+>         getContext().setRenderedSql
+> (renderedSql);

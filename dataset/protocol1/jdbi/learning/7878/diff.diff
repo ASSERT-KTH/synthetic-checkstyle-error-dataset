@@ -1,0 +1,5 @@
+630c630,631
+<         throw new UnsupportedOperationException();
+---
+>         throw new UnsupportedOperationException
+> ();

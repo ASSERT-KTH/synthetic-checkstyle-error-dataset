@@ -1,0 +1,4 @@
+71c71
+<     <R> R scanResultSet(ResultSetScanner<R> mapper);
+---
+>     <R> R  scanResultSet(ResultSetScanner<R> mapper);

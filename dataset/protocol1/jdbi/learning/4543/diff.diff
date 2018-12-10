@@ -1,0 +1,5 @@
+64,65c64
+<                 case QUOTED_TEXT:
+<                 case DOUBLE_QUOTED_TEXT:
+---
+>                 case QUOTED_TEXT:                case DOUBLE_QUOTED_TEXT:

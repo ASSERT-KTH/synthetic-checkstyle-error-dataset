@@ -1,0 +1,4 @@
+39c39
+<     public Optional<SqlArrayType<?>> build(Type elementType, ConfigRegistry config) {
+---
+>     public Optional<SqlArrayType<?>> build(Type elementType,ConfigRegistry config) {

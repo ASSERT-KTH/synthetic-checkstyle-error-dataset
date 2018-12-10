@@ -1,0 +1,5 @@
+20,21c20
+< public interface StatementBinder<T> {
+<     void bind(PreparedStatement p, int index, T value) throws SQLException;
+---
+> public interface StatementBinder<T> {    void bind(PreparedStatement p, int index, T value) throws SQLException;

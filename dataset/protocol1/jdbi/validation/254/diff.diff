@@ -1,0 +1,4 @@
+45c45
+<             case Connection.TRANSACTION_REPEATABLE_READ: return REPEATABLE_READ;
+---
+>             case  Connection.TRANSACTION_REPEATABLE_READ: return REPEATABLE_READ;

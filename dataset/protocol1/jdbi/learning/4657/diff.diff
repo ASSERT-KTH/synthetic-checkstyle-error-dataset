@@ -1,0 +1,4 @@
+32c32
+< public class RowMappers implements JdbiConfig<RowMappers> {
+---
+> public class RowMappers implements JdbiConfig<RowMappers>  {

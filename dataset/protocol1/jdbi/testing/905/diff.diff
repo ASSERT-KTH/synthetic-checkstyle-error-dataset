@@ -1,0 +1,4 @@
+63c63
+<         List<Class<? extends Annotation>> ordering = Arrays.asList(order.value());
+---
+>         List<Class<? extends Annotation>> ordering =  Arrays.asList(order.value());

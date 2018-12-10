@@ -1,0 +1,5 @@
+35c35,36
+<     public void closeConnection(Connection connection) {}
+---
+>     public void closeConnection(Connection 
+> connection) {}

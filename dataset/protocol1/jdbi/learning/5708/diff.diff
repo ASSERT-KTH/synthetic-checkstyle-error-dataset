@@ -1,0 +1,5 @@
+26,27c26
+< public class SqlQueryHandler extends CustomizingStatementHandler<Query> {
+<     private final ResultReturner magic;
+---
+> public class SqlQueryHandler extends CustomizingStatementHandler<Query> {    private final ResultReturner magic;

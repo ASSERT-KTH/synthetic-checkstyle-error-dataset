@@ -1,0 +1,4 @@
+69c69
+<         return of(resolver.resolveType(type));
+---
+>         return of(resolver.	resolveType(type));

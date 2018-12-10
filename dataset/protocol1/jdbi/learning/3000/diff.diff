@@ -1,0 +1,4 @@
+88c88
+<         ConfigRegistry instanceConfig = handle.getConfig().createCopy();
+---
+>         ConfigRegistry instanceConfig = handle.getConfig().createCopy	();

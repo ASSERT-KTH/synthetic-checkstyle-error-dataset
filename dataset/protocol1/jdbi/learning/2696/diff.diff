@@ -1,0 +1,5 @@
+29c29,30
+<         final Transaction txnAnnotation = method.getAnnotation(Transaction.class);
+---
+>         final Transaction txnAnnotation 
+> = method.getAnnotation(Transaction.class);

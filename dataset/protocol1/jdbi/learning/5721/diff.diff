@@ -1,0 +1,4 @@
+60c60
+<     public Handler applyDecorators(Handler base, Class<?> sqlObjectType, Method method) {
+---
+>     public Handler applyDecorators(Handler base, Class	<?> sqlObjectType, Method method) {

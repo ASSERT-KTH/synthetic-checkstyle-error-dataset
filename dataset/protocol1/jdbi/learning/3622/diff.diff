@@ -1,0 +1,4 @@
+50c50
+<         private final ConcurrentMap<String, E> insensitiveLookup = new ConcurrentHashMap<>();
+---
+>         private final ConcurrentMap<String	, E> insensitiveLookup = new ConcurrentHashMap<>();

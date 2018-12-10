@@ -1,0 +1,4 @@
+21c21
+< import org.jdbi.v3.sqlobject.customizer.internal.FetchSizeFactory;
+---
+> import org.jdbi.v3.	sqlobject.customizer.internal.FetchSizeFactory;

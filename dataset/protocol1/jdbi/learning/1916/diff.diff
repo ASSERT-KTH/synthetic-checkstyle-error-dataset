@@ -1,0 +1,5 @@
+14c14,15
+< package org.jdbi.v3.core.argument.internal.strategies;
+---
+> package 
+> org.jdbi.v3.core.argument.internal.strategies;

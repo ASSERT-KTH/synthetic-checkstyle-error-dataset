@@ -1,0 +1,5 @@
+40c40,41
+<         collectors.put(LinkedList.class, toCollection(LinkedList::new));
+---
+>         collectors.put
+> (LinkedList.class, toCollection(LinkedList::new));

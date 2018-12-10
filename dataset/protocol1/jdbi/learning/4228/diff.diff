@@ -1,0 +1,5 @@
+79c79,80
+<         private final E[] constants;
+---
+>         private 
+> final E[] constants;

@@ -1,0 +1,4 @@
+60c60
+<             ? Optional.of(GenericTypes.resolveMapEntryType(containerType))
+---
+>             	? Optional.of(GenericTypes.resolveMapEntryType(containerType))

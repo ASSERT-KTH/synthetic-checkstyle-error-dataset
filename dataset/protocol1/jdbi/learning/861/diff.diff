@@ -1,0 +1,4 @@
+38c38
+< @SqlStatementCustomizingAnnotation(BindListFactory.class)
+---
+> @SqlStatementCustomizingAnnotation(BindListFactory.	class)

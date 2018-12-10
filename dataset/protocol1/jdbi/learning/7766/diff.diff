@@ -1,0 +1,4 @@
+34c34
+<     Optional<RowMapper<?>> build(Type type, ConfigRegistry config);
+---
+>     Optional<RowMapper<?>> build(Type type, ConfigRegistry config	);

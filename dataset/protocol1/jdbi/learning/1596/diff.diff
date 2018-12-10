@@ -1,0 +1,4 @@
+49c49
+<     public int isNullable(int column) {
+---
+>     public int  isNullable(int column) {

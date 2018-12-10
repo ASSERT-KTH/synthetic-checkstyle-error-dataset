@@ -1,0 +1,4 @@
+40c40
+<     public final boolean equals(@Nullable Object o) {
+---
+>     public final boolean equals(@Nullable Object o	) {

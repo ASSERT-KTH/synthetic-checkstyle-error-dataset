@@ -1,0 +1,4 @@
+43c43
+< public @interface OutParameter {
+---
+> public @	interface OutParameter {

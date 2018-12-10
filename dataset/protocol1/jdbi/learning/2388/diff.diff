@@ -1,0 +1,4 @@
+20c20
+<     private final Type type;
+---
+>     private final Type type ;

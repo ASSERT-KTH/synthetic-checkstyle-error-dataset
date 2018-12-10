@@ -1,0 +1,5 @@
+27c27,28
+< import static org.jdbi.v3.core.internal.lexer.ColonStatementLexer.LITERAL;
+---
+> import 
+> static org.jdbi.v3.core.internal.lexer.ColonStatementLexer.LITERAL;

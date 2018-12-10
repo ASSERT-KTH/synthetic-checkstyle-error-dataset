@@ -1,0 +1,4 @@
+28c28
+<     void configureReturner(Script stmt, SqlObjectStatementConfiguration cfg) {
+---
+>     void configureReturner(Script stmt , SqlObjectStatementConfiguration cfg) {

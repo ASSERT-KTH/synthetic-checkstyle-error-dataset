@@ -1,0 +1,5 @@
+34c34,35
+<         TypeVariable<Class<Map>>[] mapParams = Map.class.getTypeParameters();
+---
+>         
+> TypeVariable<Class<Map>>[] mapParams = Map.class.getTypeParameters();

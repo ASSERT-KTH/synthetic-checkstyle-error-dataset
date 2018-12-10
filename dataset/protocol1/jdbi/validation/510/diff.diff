@@ -1,0 +1,4 @@
+43c43
+<     T map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException;
+---
+>     	T map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException;

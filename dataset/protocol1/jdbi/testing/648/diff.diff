@@ -1,0 +1,4 @@
+23c23
+< class EnumMapperFactory implements ColumnMapperFactory {
+---
+> class EnumMapperFactory implements ColumnMapperFactory{

@@ -1,0 +1,4 @@
+78c78
+<     public Arguments register(ArgumentFactory factory) {
+---
+>     public Arguments register( ArgumentFactory factory) {

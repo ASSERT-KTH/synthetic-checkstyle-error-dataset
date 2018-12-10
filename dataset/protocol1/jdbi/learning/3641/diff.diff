@@ -1,0 +1,4 @@
+22c22
+< import org.jdbi.v3.sqlobject.config.internal.RegisterConstructorMapperImpl;
+---
+> import org.jdbi.v3.sqlobject.	config.internal.RegisterConstructorMapperImpl;

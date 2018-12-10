@@ -1,0 +1,4 @@
+29c29
+<         T annotation = (T) Proxy.newProxyInstance(classLoader, interfaces, invocationHandler);
+---
+>         T annotation = (T) Proxy.newProxyInstance(classLoader, interfaces	, invocationHandler);

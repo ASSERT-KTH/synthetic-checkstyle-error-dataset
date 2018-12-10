@@ -1,0 +1,4 @@
+38c38
+<     <E> E attach(Class<E> extensionType, HandleSupplier handle);
+---
+>     <E> E attach(Class	<E> extensionType, HandleSupplier handle);

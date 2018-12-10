@@ -1,0 +1,4 @@
+29c29
+<         configureForType(registry, annotation, sqlObjectType);
+---
+>         configureForType(registry, annotation,sqlObjectType);

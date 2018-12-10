@@ -1,0 +1,4 @@
+48c48
+<         mappers.put(long.class, primitiveMapper(ResultSet::getLong));
+---
+>         mappers.put(long. class, primitiveMapper(ResultSet::getLong));

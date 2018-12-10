@@ -1,0 +1,4 @@
+81c81
+<     public void close(Connection conn) {}
+---
+>     public void close(Connection conn	) {}

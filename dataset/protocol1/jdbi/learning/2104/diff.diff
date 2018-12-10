@@ -1,0 +1,4 @@
+66c66
+<             Arrays.stream(type.getInterfaces()).forEach(interfaceClass -> methodMap.putAll(load(interfaceClass)));
+---
+>             Arrays.stream(type.getInterfaces()).forEach(interfaceClass ->methodMap.putAll(load(interfaceClass)));

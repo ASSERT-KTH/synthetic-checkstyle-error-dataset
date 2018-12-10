@@ -1,0 +1,4 @@
+120c120
+<         return positionals.isEmpty() && named.isEmpty() && namedArgumentFinder.isEmpty();
+---
+>         return positionals.isEmpty	() && named.isEmpty() && namedArgumentFinder.isEmpty();

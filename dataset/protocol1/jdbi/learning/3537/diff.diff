@@ -1,0 +1,5 @@
+71c71,72
+<     public void close(Connection conn, String sql, Statement stmt) throws SQLException {
+---
+>     public void close(Connection conn, String sql, 
+> Statement stmt) throws SQLException {

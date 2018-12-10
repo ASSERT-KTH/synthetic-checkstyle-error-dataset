@@ -1,0 +1,4 @@
+146c146
+<     public static <T> RowMapper<T> of(Constructor<T> constructor) {
+---
+>     public static <T	> RowMapper<T> of(Constructor<T> constructor) {

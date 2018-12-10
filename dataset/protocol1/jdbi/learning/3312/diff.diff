@@ -1,0 +1,4 @@
+181c181
+<         return getConfig(SqlArrayTypes.class).findFor(elementType);
+---
+>         return getConfig(SqlArrayTypes.class).findFor(elementType) ;

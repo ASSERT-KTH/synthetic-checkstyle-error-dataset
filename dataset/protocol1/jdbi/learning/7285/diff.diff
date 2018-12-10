@@ -1,0 +1,5 @@
+45c45,46
+<         return (t, c) -> t.equals(type) ? Optional.of(mapper) : Optional.empty();
+---
+>         return (t, c) 
+> -> t.equals(type) ? Optional.of(mapper) : Optional.empty();

@@ -1,0 +1,4 @@
+234c234
+<         Object obj = map.get(pos);
+---
+>         Object obj  = map.get(pos);

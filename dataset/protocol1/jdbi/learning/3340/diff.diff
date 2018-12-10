@@ -1,0 +1,4 @@
+257c257
+<                     reducer.accumulate(container, rowView);
+---
+>                     reducer.accumulate (container, rowView);

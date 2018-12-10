@@ -1,0 +1,5 @@
+133,134c133
+<                     case Types.LONGNVARCHAR:
+<                     case Types.LONGVARCHAR:
+---
+>                     case Types.LONGNVARCHAR:                    case Types.LONGVARCHAR:

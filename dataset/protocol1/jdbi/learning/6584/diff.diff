@@ -1,0 +1,4 @@
+30c30
+<     private volatile Handle handle;
+---
+>     private volatile Handle handle ;

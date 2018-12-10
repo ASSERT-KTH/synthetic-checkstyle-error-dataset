@@ -1,0 +1,4 @@
+60c60
+<     private static Character getCharacter(ResultSet r, int i) throws SQLException {
+---
+>     private static Character getCharacter(ResultSet r, int i) throws SQLException  {

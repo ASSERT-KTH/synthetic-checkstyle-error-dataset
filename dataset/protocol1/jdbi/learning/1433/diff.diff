@@ -1,0 +1,5 @@
+83c83,84
+<                 ClassOwnership.JVM_BEHAVIOR.getOwnerType(rawType), rawType, arguments);
+---
+>                 ClassOwnership.JVM_BEHAVIOR.getOwnerType(rawType), rawType, arguments)
+> ;

@@ -1,0 +1,4 @@
+48c48
+<                 .ifPresent(order -> annotationTypes.sort(createDecoratorComparator(order).reversed()));
+---
+>                 .ifPresent(order -> annotationTypes.sort(createDecoratorComparator(order	).reversed()));

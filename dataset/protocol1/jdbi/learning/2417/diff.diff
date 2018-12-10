@@ -1,0 +1,4 @@
+318c318
+<         return configure(RowMappers.class, c -> c.register(factory));
+---
+>         return configure(RowMappers.class, c ->c.register(factory));

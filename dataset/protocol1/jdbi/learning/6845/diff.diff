@@ -1,0 +1,4 @@
+49c49
+<             if (sqlType == null) {
+---
+>             if (sqlType == null ) {

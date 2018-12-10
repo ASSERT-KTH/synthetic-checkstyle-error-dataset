@@ -1,0 +1,5 @@
+22c22,23
+< public interface SqlParser {
+---
+> public 
+> interface SqlParser {

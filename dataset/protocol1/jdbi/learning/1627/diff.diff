@@ -1,0 +1,4 @@
+38c38
+<         while (!endOfFile) {
+---
+>         while (! endOfFile) {

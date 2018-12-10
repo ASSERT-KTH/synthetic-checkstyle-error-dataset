@@ -1,0 +1,4 @@
+44c44
+<     public boolean isCurrency(int column) {
+---
+>     public boolean isCurrency(int column ) {

@@ -1,0 +1,4 @@
+315c315
+<         if (type.equals(Void.TYPE)) {
+---
+>         if (type.equals (Void.TYPE)) {

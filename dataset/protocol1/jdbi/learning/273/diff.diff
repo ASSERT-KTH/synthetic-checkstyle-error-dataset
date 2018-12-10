@@ -1,0 +1,5 @@
+226c226,227
+<         this.allowUnusedBindings = allowUnusedBindings;
+---
+>         this.allowUnusedBindings = 
+> allowUnusedBindings;

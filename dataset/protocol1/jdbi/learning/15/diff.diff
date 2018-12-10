@@ -1,0 +1,5 @@
+64,65c64
+<                 .flatMap(lookup)
+<                 .map(arrayType -> new SqlArrayArgument<>(arrayType, value));
+---
+>                 .flatMap(lookup)                .map(arrayType -> new SqlArrayArgument<>(arrayType, value));

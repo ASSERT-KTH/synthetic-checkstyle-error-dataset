@@ -1,0 +1,4 @@
+51c51
+<             String[] columnNames = method.getAnnotation(GetGeneratedKeys.class).value();
+---
+>             String[] columnNames = method.getAnnotation(GetGeneratedKeys.class). value();

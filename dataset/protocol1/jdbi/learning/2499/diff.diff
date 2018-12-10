@@ -1,0 +1,5 @@
+27,28c27
+<         RegisterArgumentFactories factories = (RegisterArgumentFactories) annotation;
+<         Stream.of(factories.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));
+---
+>         RegisterArgumentFactories factories = (RegisterArgumentFactories) annotation;        Stream.of(factories.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));

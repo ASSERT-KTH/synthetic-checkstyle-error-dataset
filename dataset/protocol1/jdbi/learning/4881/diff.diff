@@ -1,0 +1,5 @@
+142c142,143
+<                 return Array.get(arr, index++);
+---
+>                 return Array.get(arr, index
+> ++);

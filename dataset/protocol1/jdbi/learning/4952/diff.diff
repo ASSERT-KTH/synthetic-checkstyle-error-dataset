@@ -1,0 +1,4 @@
+90c90
+<     public interface DangerousRunnable<T> {
+---
+>     public interface  DangerousRunnable<T> {

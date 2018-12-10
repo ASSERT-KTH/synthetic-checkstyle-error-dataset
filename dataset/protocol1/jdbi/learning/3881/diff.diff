@@ -1,0 +1,4 @@
+25c25
+<     public DelegatingTransactionHandler(TransactionHandler delegate) {
+---
+>     public DelegatingTransactionHandler( TransactionHandler delegate) {

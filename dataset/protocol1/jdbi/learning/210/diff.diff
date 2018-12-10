@@ -1,0 +1,4 @@
+60c60
+<             throw new UnableToProduceResultException("Could not produce statement result", e, getContext());
+---
+>             throw new UnableToProduceResultException( "Could not produce statement result", e, getContext());

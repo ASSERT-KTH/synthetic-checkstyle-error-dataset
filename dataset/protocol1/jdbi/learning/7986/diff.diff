@@ -1,0 +1,4 @@
+23c23
+<         this.type = GenericTypes.findGenericParameter(getClass(), GenericType.class)
+---
+>         this.	type = GenericTypes.findGenericParameter(getClass(), GenericType.class)

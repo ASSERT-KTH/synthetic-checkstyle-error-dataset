@@ -1,0 +1,5 @@
+25c25,26
+<         db.registerExtension(new SqlObjectFactory());
+---
+>         db.registerExtension(new 
+> SqlObjectFactory());

@@ -1,0 +1,4 @@
+27c27
+<         KeyColumn keyColumn = (KeyColumn) annotation;
+---
+>         KeyColumn keyColumn =(KeyColumn) annotation;

@@ -1,0 +1,5 @@
+42c42,43
+<         mappers.put(BigDecimal.class, new GetterMapper<>(ResultSet::getBigDecimal));
+---
+>         mappers.put(BigDecimal.class
+> , new GetterMapper<>(ResultSet::getBigDecimal));

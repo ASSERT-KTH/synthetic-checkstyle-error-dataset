@@ -1,0 +1,4 @@
+48c48
+<             throw new IllegalArgumentException("no result stored for " + type);
+---
+>             throw  new IllegalArgumentException("no result stored for " + type);

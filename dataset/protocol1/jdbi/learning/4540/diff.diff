@@ -1,0 +1,5 @@
+60c60,61
+<         return (ColumnMapper<Opt>) (r, columnNumber, ctx) -> {
+---
+>         return (ColumnMapper<Opt>) 
+> (r, columnNumber, ctx) -> {

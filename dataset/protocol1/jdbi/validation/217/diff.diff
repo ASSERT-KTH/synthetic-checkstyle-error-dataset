@@ -1,0 +1,4 @@
+121c121
+<             ((CallableStatement) statement).registerOutParameter(position, sqlType);
+---
+>             ((CallableStatement) statement).registerOutParameter (position, sqlType);

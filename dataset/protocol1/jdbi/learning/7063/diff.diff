@@ -1,0 +1,5 @@
+24c24,25
+<     public NoSuchMapperException(String string, Throwable throwable) {
+---
+>     public NoSuchMapperException(String string
+> , Throwable throwable) {

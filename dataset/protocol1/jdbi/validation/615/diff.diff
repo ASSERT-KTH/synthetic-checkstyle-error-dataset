@@ -1,0 +1,5 @@
+85c85,86
+<             throw new ResultSetException("Error thrown mapping result set into return type", e, context);
+---
+>             throw new 
+> ResultSetException("Error thrown mapping result set into return type", e, context);

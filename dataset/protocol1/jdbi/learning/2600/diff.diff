@@ -1,0 +1,4 @@
+198c198
+<     public Integer getQueryTimeout() {
+---
+>     public Integer getQueryTimeout () {

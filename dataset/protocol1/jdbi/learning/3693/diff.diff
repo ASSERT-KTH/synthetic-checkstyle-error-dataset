@@ -1,0 +1,4 @@
+58c58
+<                         .where(singletonMap(new TypeResolver.TypeVariableKey(typeParam.typeVariable), typeArg.runtimeType));
+---
+>                         .where(singletonMap(new TypeResolver.TypeVariableKey(typeParam.typeVariable), typeArg.runtimeType ));

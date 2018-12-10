@@ -1,0 +1,4 @@
+50c50
+<             return DefaultMethodHandler.lookupFor(sqlObjectType).unreflect(m);
+---
+>             return DefaultMethodHandler.lookupFor(sqlObjectType	).unreflect(m);

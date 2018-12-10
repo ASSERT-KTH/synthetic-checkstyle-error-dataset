@@ -1,0 +1,4 @@
+38c38
+<     private Extensions(Extensions that) {
+---
+>     private  Extensions(Extensions that) {

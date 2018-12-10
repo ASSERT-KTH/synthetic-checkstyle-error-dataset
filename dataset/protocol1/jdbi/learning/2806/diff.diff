@@ -1,0 +1,4 @@
+649c649
+<     public Array getArray(String columnLabel) {
+---
+>     public Array getArray(	String columnLabel) {

@@ -1,0 +1,4 @@
+30c30
+<     public UnableToManipulateTransactionIsolationLevelException(String msg, SQLException e) {
+---
+>     public UnableToManipulateTransactionIsolationLevelException(String msg , SQLException e) {

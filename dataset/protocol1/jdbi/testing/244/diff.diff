@@ -1,0 +1,4 @@
+75c75
+<             throw new IllegalStateException("Decorator class " + decoratorClass + "cannot be instantiated", e);
+---
+>             throw new IllegalStateException("Decorator class "  + decoratorClass + "cannot be instantiated", e);

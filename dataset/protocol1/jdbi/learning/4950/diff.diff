@@ -1,0 +1,5 @@
+45c45,46
+<     default void configureForMethod(ConfigRegistry registry, Annotation annotation, Class<?> sqlObjectType, Method method) {
+---
+>     default void configureForMethod
+> (ConfigRegistry registry, Annotation annotation, Class<?> sqlObjectType, Method method) {

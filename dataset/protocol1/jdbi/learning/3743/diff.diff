@@ -1,0 +1,4 @@
+117c117
+<     private static String getTypeWarning(final Class<?> type) {
+---
+>     private static String getTypeWarning(final Class<?>type) {

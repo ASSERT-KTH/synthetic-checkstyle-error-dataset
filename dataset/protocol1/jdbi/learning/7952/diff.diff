@@ -1,0 +1,4 @@
+144c144
+<         return resolveMapEntryType(TypeToken.of(keyType), TypeToken.of(valueType));
+---
+>         return resolveMapEntryType(TypeToken.of(keyType), TypeToken. of(valueType));

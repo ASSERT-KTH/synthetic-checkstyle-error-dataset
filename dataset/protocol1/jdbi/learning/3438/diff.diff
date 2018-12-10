@@ -1,0 +1,5 @@
+30,31c30
+< public @interface SqlCall {
+<     String value() default "";
+---
+> public @interface SqlCall {    String value() default "";

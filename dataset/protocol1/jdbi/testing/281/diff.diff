@@ -1,0 +1,4 @@
+83c83
+<             .orElseThrow(() -> new RuntimeException("Unprovidable collector was requested. This is an internal jdbi bug; please report it to the jdbi developers."));
+---
+>             .orElseThrow (() -> new RuntimeException("Unprovidable collector was requested. This is an internal jdbi bug; please report it to the jdbi developers."));

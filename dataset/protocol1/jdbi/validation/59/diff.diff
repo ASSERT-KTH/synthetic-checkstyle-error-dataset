@@ -1,0 +1,4 @@
+75c75
+<         final Constructor<T>[] constructors = (Constructor<T>[]) type.getDeclaredConstructors();
+---
+>         final Constructor <T>[] constructors = (Constructor<T>[]) type.getDeclaredConstructors();

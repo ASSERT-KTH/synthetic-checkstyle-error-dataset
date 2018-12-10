@@ -1,0 +1,4 @@
+29c29
+< class OptionalPrimitiveCollectorFactory implements CollectorFactory {
+---
+> class OptionalPrimitiveCollectorFactory implements CollectorFactory{

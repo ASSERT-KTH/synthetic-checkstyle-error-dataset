@@ -1,0 +1,4 @@
+115c115
+<         return columnMappers.findFor(type).map(SingleColumnMapper::new);
+---
+>         return columnMappers.findFor(type).map(SingleColumnMapper::new );

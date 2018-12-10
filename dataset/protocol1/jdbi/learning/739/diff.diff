@@ -1,0 +1,5 @@
+26c26,27
+<         return Collector.of(
+---
+>         
+> return Collector.of(

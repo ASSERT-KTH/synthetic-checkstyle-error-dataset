@@ -1,0 +1,4 @@
+70c70
+<                 .map(factory -> factory.attach(extensionType, handle));
+---
+>                 .map(factory -> factory.attach	(extensionType, handle));

@@ -1,0 +1,4 @@
+105c105
+<             List<String> keyNames = getMapKeys(rs.getMetaData(), ctx.getConfig(MapMappers.class).getCaseChange());
+---
+>             List<String> keyNames = getMapKeys(rs.getMetaData (), ctx.getConfig(MapMappers.class).getCaseChange());

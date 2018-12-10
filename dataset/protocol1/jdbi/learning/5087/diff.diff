@@ -1,0 +1,4 @@
+30c30
+<     protected Argument build(String value, ConfigRegistry config) {
+---
+>     protected Argument build(String value,  ConfigRegistry config) {

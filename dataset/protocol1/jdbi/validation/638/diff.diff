@@ -1,0 +1,5 @@
+18c18,19
+< abstract class AbstractLoggableArgument<T> implements Argument {
+---
+> abstract 
+> class AbstractLoggableArgument<T> implements Argument {

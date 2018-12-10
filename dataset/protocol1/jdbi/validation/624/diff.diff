@@ -1,0 +1,5 @@
+66c66,67
+<   public static Collector<Long, ?, OptionalLong> toOptionalLong() {
+---
+>   public static Collector<Long, ?
+> , OptionalLong> toOptionalLong() {

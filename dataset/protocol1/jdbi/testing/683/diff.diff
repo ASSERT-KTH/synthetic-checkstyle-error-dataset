@@ -1,0 +1,5 @@
+21,22c21
+< public class UnableToCreateSqlObjectException extends JdbiException {
+<     private static final long serialVersionUID = 1L;
+---
+> public class UnableToCreateSqlObjectException extends JdbiException {    private static final long serialVersionUID = 1L;

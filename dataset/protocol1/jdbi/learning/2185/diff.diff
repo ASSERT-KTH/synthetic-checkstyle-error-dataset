@@ -1,0 +1,4 @@
+55c55
+<         if (!UNSUPPORTED_TYPES.contains(array.getBaseType())) {
+---
+>         	if (!UNSUPPORTED_TYPES.contains(array.getBaseType())) {

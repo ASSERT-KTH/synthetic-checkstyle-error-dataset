@@ -1,0 +1,4 @@
+26c26
+< public interface RowReducer<C, R> {
+---
+> public interface  RowReducer<C, R> {

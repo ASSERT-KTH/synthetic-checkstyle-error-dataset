@@ -1,0 +1,4 @@
+33c33
+<     public JdbiException(Throwable cause) {
+---
+>     public JdbiException(Throwable cause ) {

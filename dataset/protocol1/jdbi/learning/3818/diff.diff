@@ -1,0 +1,4 @@
+20c20
+<  * @deprecated this class is not for end-user use and should not be in the public API.
+---
+>  * @deprecatedthis class is not for end-user use and should not be in the public API.

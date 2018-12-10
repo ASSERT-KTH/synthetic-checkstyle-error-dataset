@@ -1,0 +1,4 @@
+39c39
+<                 !(runtimeType instanceof TypeVariable),
+---
+>                 ! (runtimeType instanceof TypeVariable),

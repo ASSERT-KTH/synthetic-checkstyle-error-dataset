@@ -1,0 +1,4 @@
+28c28
+<     public static <T> T newProxy(Class<T> interfaceType, InvocationHandler handler) {
+---
+>     public static <T> T newProxy(	Class<T> interfaceType, InvocationHandler handler) {

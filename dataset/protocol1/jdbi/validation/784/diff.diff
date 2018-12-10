@@ -1,0 +1,4 @@
+25c25
+<     public UnableToRestoreAutoCommitStateException(Throwable throwable) {
+---
+>     public UnableToRestoreAutoCommitStateException (Throwable throwable) {

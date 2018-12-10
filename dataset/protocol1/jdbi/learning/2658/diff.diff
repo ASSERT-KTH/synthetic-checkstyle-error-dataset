@@ -1,0 +1,4 @@
+45c45
+<         this.typeName = arrayType.getTypeName();
+---
+>         this.typeName =arrayType.getTypeName();

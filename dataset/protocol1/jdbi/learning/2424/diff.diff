@@ -1,0 +1,4 @@
+79c79
+<     public int getPrecision(int column) {
+---
+>     public int getPrecision(	int column) {

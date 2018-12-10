@@ -1,0 +1,4 @@
+31c31
+<     private volatile boolean hasNext = false;
+---
+>     private volatile boolean  hasNext = false;

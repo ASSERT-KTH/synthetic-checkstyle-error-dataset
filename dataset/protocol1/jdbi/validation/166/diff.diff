@@ -1,0 +1,4 @@
+44c44
+<         mappers.put(Byte.class, new GetterMapper<>(ResultSet::getByte));
+---
+>         mappers.put(Byte.class, new GetterMapper<>(ResultSet::getByte) );

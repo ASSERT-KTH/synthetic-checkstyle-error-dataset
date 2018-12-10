@@ -1,0 +1,4 @@
+65c65
+<                 getConfig(SqlStatements.class).customize(stmt);
+---
+>                 getConfig(SqlStatements.	class).customize(stmt);

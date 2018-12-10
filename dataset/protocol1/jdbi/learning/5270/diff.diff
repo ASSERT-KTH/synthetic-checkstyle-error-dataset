@@ -1,0 +1,4 @@
+98c98
+<         if (getter == null) {
+---
+>         if (	getter == null) {

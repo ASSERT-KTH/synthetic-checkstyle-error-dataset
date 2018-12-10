@@ -1,0 +1,5 @@
+30,31c30
+<         this.typeVariable = (TypeVariable<?>) type;
+<     }
+---
+>         this.typeVariable = (TypeVariable<?>) type;    }

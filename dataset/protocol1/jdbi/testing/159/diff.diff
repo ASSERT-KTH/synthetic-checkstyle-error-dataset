@@ -1,0 +1,4 @@
+226c226
+<                 Type type = mapping.getValue();
+---
+>                 Type type = mapping.getValue	();

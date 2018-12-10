@@ -1,0 +1,5 @@
+237c237,238
+<     public SqlStatements createCopy() {
+---
+>     public SqlStatements createCopy
+> () {

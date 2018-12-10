@@ -1,0 +1,4 @@
+624c624
+<     public Array getArray(int columnIndex) {
+---
+>     public Array getArray	(int columnIndex) {

@@ -1,0 +1,4 @@
+34c34
+<             ? factory.build(type.getType(), value, config)
+---
+>             ? factory.build(type.getType (), value, config)

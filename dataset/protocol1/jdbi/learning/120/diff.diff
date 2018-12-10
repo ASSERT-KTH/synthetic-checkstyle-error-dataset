@@ -1,0 +1,4 @@
+29c29
+<     void close() throws SQLException;
+---
+>     void close () throws SQLException;

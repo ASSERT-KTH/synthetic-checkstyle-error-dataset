@@ -1,0 +1,4 @@
+73c73
+<                 list.add(elementMapper.map(rs, 2, ctx));
+---
+>                 list.add(elementMapper.map(rs, 2	, ctx));

@@ -1,0 +1,4 @@
+28c28
+<     void useHandle(Handle handle) throws X;
+---
+>     void useHandle (Handle handle) throws X;

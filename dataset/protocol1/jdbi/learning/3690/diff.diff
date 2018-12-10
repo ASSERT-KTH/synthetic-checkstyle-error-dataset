@@ -1,0 +1,5 @@
+36c36,37
+<             throw new IllegalStateException("unable to create a specified row mapper", e);
+---
+>             throw new IllegalStateException("unable to create a specified row mapper", e)
+> ;

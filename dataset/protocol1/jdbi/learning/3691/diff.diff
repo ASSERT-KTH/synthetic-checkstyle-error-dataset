@@ -1,0 +1,4 @@
+25c25
+<         return optional.map(Stream::of).orElseGet(Stream::empty);
+---
+>         return optional.map(Stream::of).orElseGet( Stream::empty);

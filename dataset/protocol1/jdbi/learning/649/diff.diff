@@ -1,0 +1,5 @@
+78c78,79
+<             throw Throwables.throwOnlyUnchecked(e.getCause());
+---
+>             throw Throwables.throwOnlyUnchecked
+> (e.getCause());

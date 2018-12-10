@@ -1,0 +1,4 @@
+446c446
+<                     .orElseThrow(() -> new NoSuchExtensionException("Extension not found: " + extensionType));
+---
+>                     .orElseThrow(() -> new NoSuchExtensionException("Extension not found: "  + extensionType));

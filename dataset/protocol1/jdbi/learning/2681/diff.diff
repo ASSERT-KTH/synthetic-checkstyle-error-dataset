@@ -1,0 +1,4 @@
+70c70
+<         return getResourceOnClasspath(type.getClassLoader(), path);
+---
+>         return getResourceOnClasspath	(type.getClassLoader(), path);

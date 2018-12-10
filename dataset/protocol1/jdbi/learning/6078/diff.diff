@@ -1,0 +1,4 @@
+38c38
+<         collectors.put(List.class, toList());
+---
+>         collectors.put(List. class, toList());

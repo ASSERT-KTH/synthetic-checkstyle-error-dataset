@@ -1,0 +1,5 @@
+58,59c58
+<             Class<?> elementType = erasedType.getComponentType();
+<             return lookup.apply(elementType)
+---
+>             Class<?> elementType = erasedType.getComponentType();            return lookup.apply(elementType)

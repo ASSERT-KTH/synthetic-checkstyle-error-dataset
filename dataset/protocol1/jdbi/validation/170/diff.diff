@@ -1,0 +1,4 @@
+31c31
+<             ctx.setCompletionMoment(Instant.now());
+---
+>             ctx.setCompletionMoment(Instant.now() );

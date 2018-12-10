@@ -1,0 +1,4 @@
+361c361
+<     public <R, X extends Exception> R inTransaction(final HandleCallback<R, X> callback) throws X {
+---
+>     public  <R, X extends Exception> R inTransaction(final HandleCallback<R, X> callback) throws X {

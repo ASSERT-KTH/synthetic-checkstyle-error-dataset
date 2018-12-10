@@ -1,0 +1,4 @@
+49c49
+<         return Collector.of(
+---
+>         return Collector.of	(

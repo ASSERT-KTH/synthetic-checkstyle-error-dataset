@@ -1,0 +1,4 @@
+38c38
+<     void apply(int position, PreparedStatement statement, StatementContext ctx) throws SQLException;
+---
+>     void apply(int position,  PreparedStatement statement, StatementContext ctx) throws SQLException;

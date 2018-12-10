@@ -1,0 +1,4 @@
+60c60
+<         while (t.getType() != EOF) {
+---
+>         while (t.getType	() != EOF) {

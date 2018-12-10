@@ -1,0 +1,4 @@
+34c34
+< class SqlMethodAnnotatedHandlerDecorator implements HandlerDecorator {
+---
+> class SqlMethodAnnotatedHandlerDecorator implements HandlerDecorator  {

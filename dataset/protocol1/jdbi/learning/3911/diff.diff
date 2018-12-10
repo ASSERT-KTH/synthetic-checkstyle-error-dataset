@@ -1,0 +1,4 @@
+23c23
+<     public boolean columnNameMatches(String columnName, String javaName) {
+---
+>     public boolean columnNameMatches( String columnName, String javaName) {

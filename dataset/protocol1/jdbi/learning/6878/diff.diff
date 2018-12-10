@@ -1,0 +1,5 @@
+1201,1202c1201
+<         return bind(position, new ObjectArgument(value, sqlType));
+<     }
+---
+>         return bind(position, new ObjectArgument(value, sqlType));    }

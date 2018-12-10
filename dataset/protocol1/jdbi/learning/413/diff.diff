@@ -1,0 +1,4 @@
+93c93
+<             if (!map.containsKey(pos)) {
+---
+>             if (!map.containsKey (pos)) {

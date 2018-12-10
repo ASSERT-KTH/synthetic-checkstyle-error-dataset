@@ -1,0 +1,4 @@
+865c865
+<         return bind(name, toArgument(Long.class, value));
+---
+>         	return bind(name, toArgument(Long.class, value));

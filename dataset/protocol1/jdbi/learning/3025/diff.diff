@@ -1,0 +1,4 @@
+96c96
+<             return !((Iterable<?>) obj).iterator().hasNext();
+---
+>             return !((Iterable<?>) obj).iterator(). hasNext();

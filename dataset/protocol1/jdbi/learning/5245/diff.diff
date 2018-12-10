@@ -1,0 +1,5 @@
+40,41c40
+<                 GenericTypes.findGenericParameter(type, Optional.class)
+<                     .orElseThrow(() -> new NoSuchMapperException("No mapper for raw Optional type")))
+---
+>                 GenericTypes.findGenericParameter(type, Optional.class)                    .orElseThrow(() -> new NoSuchMapperException("No mapper for raw Optional type")))

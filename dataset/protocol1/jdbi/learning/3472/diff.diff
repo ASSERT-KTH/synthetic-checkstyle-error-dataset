@@ -1,0 +1,4 @@
+182c182
+<                 return new Types.GenericArrayTypeImpl(componentType);
+---
+>                 return new Types.GenericArrayTypeImpl	(componentType);

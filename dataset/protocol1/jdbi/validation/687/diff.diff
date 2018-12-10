@@ -1,0 +1,5 @@
+100c100,101
+<         () -> new OptionalBuilder<>(empty, factory),
+---
+>         () -> new 
+> OptionalBuilder<>(empty, factory),

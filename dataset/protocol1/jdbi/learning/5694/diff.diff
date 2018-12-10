@@ -1,0 +1,4 @@
+42c42
+<         new SqlTimeArgumentFactory(),
+---
+>         new SqlTimeArgumentFactory	(),

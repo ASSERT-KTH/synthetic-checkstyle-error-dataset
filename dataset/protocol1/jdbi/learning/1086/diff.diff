@@ -1,0 +1,4 @@
+45c45
+<         return appendDotPath(clazz.getName());
+---
+>         return appendDotPath(clazz.getName	());

@@ -1,0 +1,4 @@
+24c24
+< import org.jdbi.v3.sqlobject.statement.SqlBatch;
+---
+> import org.jdbi.v3.sqlobject.statement.SqlBatch ;

@@ -1,0 +1,5 @@
+23c23,24
+<     public MappingException(String string, Throwable throwable) {
+---
+>     
+> public MappingException(String string, Throwable throwable) {

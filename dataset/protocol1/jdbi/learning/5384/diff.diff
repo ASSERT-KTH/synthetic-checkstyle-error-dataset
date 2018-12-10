@@ -1,0 +1,4 @@
+42c42
+<         final List<String> statements = getStatements();
+---
+>         final List<String> statements= getStatements();

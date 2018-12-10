@@ -1,0 +1,5 @@
+25c25,26
+<         Class[] interfaces = {annotationType};
+---
+>         
+> Class[] interfaces = {annotationType};

@@ -1,0 +1,5 @@
+98c98,99
+<         return this.register(ColumnMapperFactory.of(type, mapper));
+---
+>         return this.register(ColumnMapperFactory.of(type, mapper))
+> ;

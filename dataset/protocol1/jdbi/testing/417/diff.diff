@@ -1,0 +1,4 @@
+33c33
+<     Class<? extends SqlStatementCustomizerFactory> value();
+---
+>     Class<?  extends SqlStatementCustomizerFactory> value();

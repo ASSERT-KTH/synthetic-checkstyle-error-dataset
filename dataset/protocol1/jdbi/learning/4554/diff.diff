@@ -1,0 +1,4 @@
+42c42
+<     default boolean columnNameStartsWith(String columnName, String prefix) {
+---
+>     default boolean columnNameStartsWith( String columnName, String prefix) {

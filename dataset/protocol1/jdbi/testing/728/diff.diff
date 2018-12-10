@@ -1,0 +1,4 @@
+45c45
+<         JdbiCollectors collectorRegistry = config.get(JdbiCollectors.class);
+---
+>         JdbiCollectors  collectorRegistry = config.get(JdbiCollectors.class);

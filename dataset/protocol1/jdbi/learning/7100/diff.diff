@@ -1,0 +1,5 @@
+552c552,553
+<         private final TypeVariableImpl<?> typeVariableImpl;
+---
+>         private final TypeVariableImpl<?> 
+> typeVariableImpl;

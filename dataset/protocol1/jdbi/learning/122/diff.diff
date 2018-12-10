@@ -1,0 +1,4 @@
+37c37
+<             throw new IllegalStateException("unable to create a specified column mapper", e);
+---
+>             throw new IllegalStateException ("unable to create a specified column mapper", e);

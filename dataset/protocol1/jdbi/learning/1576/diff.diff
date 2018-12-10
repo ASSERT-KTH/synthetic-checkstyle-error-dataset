@@ -1,0 +1,4 @@
+150c150
+<                 addCleanable(() -> statementBuilder.close(connection, sql, stmt));
+---
+>                 addCleanable(() -> statementBuilder.close(connection, sql, stmt	));

@@ -1,0 +1,4 @@
+26c26
+<     SqlLogger NOP_SQL_LOGGER = new SqlLogger() {};
+---
+>     SqlLogger NOP_SQL_LOGGER = new SqlLogger() { };

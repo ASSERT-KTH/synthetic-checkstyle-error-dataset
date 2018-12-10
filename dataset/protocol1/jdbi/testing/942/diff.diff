@@ -1,0 +1,5 @@
+41,42c41
+<         return value == null ? empty.get() : factory.apply(value);
+<     }
+---
+>         return value == null ? empty.get() : factory.apply(value);    }

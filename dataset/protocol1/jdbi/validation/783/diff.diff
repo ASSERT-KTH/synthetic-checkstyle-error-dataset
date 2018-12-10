@@ -1,0 +1,4 @@
+54c54
+<     return toOptional(OptionalInt::empty, OptionalInt::of);
+---
+>     return toOptional( OptionalInt::empty, OptionalInt::of);

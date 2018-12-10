@@ -1,0 +1,4 @@
+36c36
+<             ColumnMapperFactory factory = registerColumnMapperFactory.value().newInstance();
+---
+>             ColumnMapperFactory factory =  registerColumnMapperFactory.value().newInstance();

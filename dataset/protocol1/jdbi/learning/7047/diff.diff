@@ -1,0 +1,4 @@
+119c119
+<     default <T> ResultIterable<T> mapTo(GenericType<T> type) {
+---
+>     default <T>  ResultIterable<T> mapTo(GenericType<T> type) {

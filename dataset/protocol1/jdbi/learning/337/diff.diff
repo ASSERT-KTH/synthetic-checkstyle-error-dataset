@@ -1,0 +1,5 @@
+48,49c48
+<                 case SqlScriptLexer.MULTI_LINE_COMMENT:
+<                     break;
+---
+>                 case SqlScriptLexer.MULTI_LINE_COMMENT:                    break;

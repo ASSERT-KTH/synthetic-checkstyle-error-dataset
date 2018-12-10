@@ -1,0 +1,4 @@
+61c61
+<                     throw new IllegalArgumentException("Unrecognizable token " + t);
+---
+>                     throw new  IllegalArgumentException("Unrecognizable token " + t);

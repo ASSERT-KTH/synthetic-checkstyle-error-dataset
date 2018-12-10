@@ -1,0 +1,5 @@
+24c24,25
+<     public NoSuchExtensionException(String string, Throwable throwable) {
+---
+>     public NoSuchExtensionException(String string, 
+> Throwable throwable) {

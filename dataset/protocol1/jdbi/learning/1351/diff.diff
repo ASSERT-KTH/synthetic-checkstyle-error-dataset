@@ -1,0 +1,4 @@
+196c196
+<         protected ResultIterator<?> reducedResult(Stream<?> stream, StatementContext ctx) {
+---
+>         protected ResultIterator<?> reducedResult(Stream<	?> stream, StatementContext ctx) {

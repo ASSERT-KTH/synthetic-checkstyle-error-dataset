@@ -1,0 +1,5 @@
+263c263,264
+<         protected Object mappedResult(ResultIterable<?> iterable, StatementContext ctx) {
+---
+>         protected Object 
+> mappedResult(ResultIterable<?> iterable, StatementContext ctx) {

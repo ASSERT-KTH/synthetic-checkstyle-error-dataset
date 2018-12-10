@@ -1,0 +1,4 @@
+31c31
+<         Configurer delegate = new RegisterColumnMapperImpl();
+---
+>         Configurer delegate= new RegisterColumnMapperImpl();

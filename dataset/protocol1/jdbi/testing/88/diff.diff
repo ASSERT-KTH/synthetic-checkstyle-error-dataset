@@ -1,0 +1,5 @@
+22c22,23
+<     final QualifiedType type;
+---
+>     final 
+> QualifiedType type;

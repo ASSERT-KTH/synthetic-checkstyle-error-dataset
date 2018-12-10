@@ -1,0 +1,5 @@
+88,89c88
+<                     .findFor(valueType)
+<                     .map(mapper -> new SingleColumnMapper<>(mapper, column))
+---
+>                     .findFor(valueType)                    .map(mapper -> new SingleColumnMapper<>(mapper, column))

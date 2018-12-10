@@ -1,0 +1,5 @@
+31c31,32
+< import static org.jdbi.v3.core.collector.MapCollectors.toMap;
+---
+> import 
+> static org.jdbi.v3.core.collector.MapCollectors.toMap;

@@ -1,0 +1,4 @@
+57c57
+<             return Optional.of(Arrays.stream(scripts.value()).map(s -> scriptValue(s, method)).map(resolveSql).collect(Collectors.joining(" ; ")));
+---
+>             return Optional.of(Arrays.stream(scripts.value()).map(s -> scriptValue(s, method)).map(resolveSql	).collect(Collectors.joining(" ; ")));

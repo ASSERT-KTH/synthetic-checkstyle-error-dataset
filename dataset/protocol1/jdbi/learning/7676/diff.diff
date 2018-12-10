@@ -1,0 +1,4 @@
+35c35
+< @SqlMethodDecoratingAnnotation(TransactionDecorator.class)
+---
+> @SqlMethodDecoratingAnnotation(TransactionDecorator.class	)

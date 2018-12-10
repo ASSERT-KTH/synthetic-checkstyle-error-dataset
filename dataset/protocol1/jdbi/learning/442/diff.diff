@@ -1,0 +1,5 @@
+65c65,66
+<     private static Supplier<ResultSet> getResultSet(Supplier<PreparedStatement> supplier, StatementContext ctx) {
+---
+>     private static Supplier<ResultSet> getResultSet(Supplier<PreparedStatement> supplier, 
+> StatementContext ctx) {

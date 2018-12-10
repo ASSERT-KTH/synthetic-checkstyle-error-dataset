@@ -1,0 +1,5 @@
+56c56,57
+<                 accumulator.accept(result, elementMapper.map(rs, 2, ctx));
+---
+>                 accumulator.accept(result, elementMapper.map(rs
+> , 2, ctx));

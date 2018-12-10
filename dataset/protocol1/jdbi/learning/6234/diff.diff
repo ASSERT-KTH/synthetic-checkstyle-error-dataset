@@ -1,0 +1,4 @@
+41c41
+<             mappers.register(ConstructorMapper.factory(type, prefix));
+---
+>             mappers.register(ConstructorMapper.factory(type, prefix ));

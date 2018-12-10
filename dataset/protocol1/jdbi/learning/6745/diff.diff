@@ -1,0 +1,4 @@
+27c27
+<         RegisterArgumentFactories factories = (RegisterArgumentFactories) annotation;
+---
+>         RegisterArgumentFactories factories= (RegisterArgumentFactories) annotation;

@@ -1,0 +1,5 @@
+57c57,58
+<                 throw new IllegalStateException("Unable to instantiate config class " + configClass
+---
+>                 throw new IllegalStateException("Unable to instantiate config class " 
+> + configClass

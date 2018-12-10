@@ -1,0 +1,4 @@
+59c59
+<         return (value == null ? "NULL" : String.valueOf(value))
+---
+>         return (value== null ? "NULL" : String.valueOf(value))

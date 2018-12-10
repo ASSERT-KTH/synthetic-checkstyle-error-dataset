@@ -1,0 +1,5 @@
+28c28,29
+<     public NoSuchCollectorException(Throwable cause) {
+---
+>     public 
+> NoSuchCollectorException(Throwable cause) {

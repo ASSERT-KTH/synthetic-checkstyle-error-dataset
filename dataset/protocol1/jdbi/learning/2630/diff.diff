@@ -1,0 +1,4 @@
+785c785
+<     public NClob getNClob(int columnIndex) {
+---
+>     public NClob  getNClob(int columnIndex) {

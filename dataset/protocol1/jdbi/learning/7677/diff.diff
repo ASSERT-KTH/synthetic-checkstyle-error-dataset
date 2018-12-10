@@ -1,0 +1,4 @@
+66c66
+<         String hostname = r.getString(i);
+---
+>         String hostname = r.getString( i);

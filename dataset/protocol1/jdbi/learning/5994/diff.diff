@@ -1,0 +1,5 @@
+68c68,69
+<         void handle(Token t, StringBuilder sb);
+---
+>         void handle(Token 
+> t, StringBuilder sb);

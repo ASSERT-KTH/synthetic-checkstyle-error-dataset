@@ -1,0 +1,5 @@
+33c33,34
+<     public UnableToProduceResultException(String string, Throwable throwable, StatementContext ctx) {
+---
+>     public UnableToProduceResultException
+> (String string, Throwable throwable, StatementContext ctx) {

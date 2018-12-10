@@ -1,0 +1,5 @@
+18,19c18
+< class EmptyResultSetMetaData implements ResultSetMetaData {
+<     static final EmptyResultSetMetaData INSTANCE = new EmptyResultSetMetaData();
+---
+> class EmptyResultSetMetaData implements ResultSetMetaData {    static final EmptyResultSetMetaData INSTANCE = new EmptyResultSetMetaData();

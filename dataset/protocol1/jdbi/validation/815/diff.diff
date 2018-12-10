@@ -1,0 +1,4 @@
+23c23
+< public class RegisterColumnMappersImpl implements Configurer {
+---
+> public class  RegisterColumnMappersImpl implements Configurer {

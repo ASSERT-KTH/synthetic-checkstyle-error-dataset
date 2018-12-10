@@ -1,0 +1,4 @@
+51c51
+<         Class<?> rawType = getErasedType(type);
+---
+>         Class< ?> rawType = getErasedType(type);

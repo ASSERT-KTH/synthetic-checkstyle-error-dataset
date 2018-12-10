@@ -1,0 +1,4 @@
+59c59
+<                     throw new ResultSetException("Error reading result set", e, ctx);
+---
+>                     	throw new ResultSetException("Error reading result set", e, ctx);

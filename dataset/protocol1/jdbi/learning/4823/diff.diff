@@ -1,0 +1,5 @@
+25c25,26
+<         register(int.class, Types.INTEGER, PreparedStatement::setInt);
+---
+>         register(int.class, 
+> Types.INTEGER, PreparedStatement::setInt);

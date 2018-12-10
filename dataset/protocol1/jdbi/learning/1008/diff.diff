@@ -1,0 +1,4 @@
+105c105
+<     private static Supplier<ResultSet> getGeneratedKeys(Supplier<PreparedStatement> supplier, StatementContext ctx) {
+---
+>     private static Supplier<	ResultSet> getGeneratedKeys(Supplier<PreparedStatement> supplier, StatementContext ctx) {

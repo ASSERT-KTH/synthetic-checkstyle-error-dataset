@@ -1,0 +1,4 @@
+55c55
+<     public MapMapper(boolean toLowerCase) {
+---
+>     public MapMapper (boolean toLowerCase) {

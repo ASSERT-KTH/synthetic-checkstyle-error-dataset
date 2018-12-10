@@ -1,0 +1,4 @@
+97c97
+<   public static <T, O> Collector<T, ?, O> toOptional(Supplier<O> empty,
+---
+>   public static <T, O	> Collector<T, ?, O> toOptional(Supplier<O> empty,

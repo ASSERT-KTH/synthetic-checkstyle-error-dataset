@@ -1,0 +1,4 @@
+101c101
+<         return new AbstractMap.SimpleImmutableEntry<>(keyMapper.map(rs, ctx), valueMapper.map(rs, ctx));
+---
+>         return new AbstractMap.SimpleImmutableEntry<>(keyMapper.map(rs, ctx), valueMapper.map(rs, ctx))	;

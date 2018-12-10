@@ -1,0 +1,5 @@
+236,237c236
+<                 .filter(Objects::nonNull)
+<                 .map(method -> method.getAnnotation(ColumnName.class))
+---
+>                 .filter(Objects::nonNull)                .map(method -> method.getAnnotation(ColumnName.class))

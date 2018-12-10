@@ -1,0 +1,4 @@
+24c24
+<                 ? Optional.of(config.get(Arguments.class).getUntypedNullArgument())
+---
+>                 ? Optional.of(	config.get(Arguments.class).getUntypedNullArgument())

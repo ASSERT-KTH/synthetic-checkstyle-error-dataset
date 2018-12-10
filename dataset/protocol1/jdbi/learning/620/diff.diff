@@ -1,0 +1,4 @@
+38c38
+<     public Optional<T> map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException {
+---
+>     public Optional<T> map(ResultSet r, int columnNumber	, StatementContext ctx) throws SQLException {

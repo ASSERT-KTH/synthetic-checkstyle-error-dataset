@@ -1,0 +1,4 @@
+47c47
+<         RowMapper<?>[] mappers = new RowMapper[types.length];
+---
+>         RowMapper<?>	[] mappers = new RowMapper[types.length];

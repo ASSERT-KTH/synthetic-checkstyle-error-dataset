@@ -1,0 +1,4 @@
+40c40
+<         statement.setCharacterStream(position, value, length);
+---
+>         statement.setCharacterStream(position, value, length)	;

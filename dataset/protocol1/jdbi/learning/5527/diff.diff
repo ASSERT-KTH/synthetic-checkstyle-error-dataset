@@ -1,0 +1,4 @@
+32c32
+<     private final List<HandlerFactory> factories = new CopyOnWriteArrayList<>();
+---
+>     private final List<HandlerFactory> factories = new CopyOnWriteArrayList<>	();

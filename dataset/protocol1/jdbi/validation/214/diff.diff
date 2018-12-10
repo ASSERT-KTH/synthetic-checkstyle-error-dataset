@@ -1,0 +1,5 @@
+115c115,116
+<     public static Jdbi create(final String url, final Properties properties) {
+---
+>     public 
+> static Jdbi create(final String url, final Properties properties) {

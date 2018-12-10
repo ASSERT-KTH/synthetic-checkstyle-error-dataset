@@ -1,0 +1,5 @@
+37c37,38
+<     int value() default MaxRowsFactory.DEFAULT_MAX_ROWS;
+---
+>     int value() default MaxRowsFactory.DEFAULT_MAX_ROWS
+> ;

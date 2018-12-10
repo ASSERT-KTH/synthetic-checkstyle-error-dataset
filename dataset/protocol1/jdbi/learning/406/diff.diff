@@ -1,0 +1,4 @@
+277c277
+<             return checkResult(stream.findFirst().orElse(null), returnType);
+---
+>             return checkResult(stream.findFirst().orElse( null), returnType);

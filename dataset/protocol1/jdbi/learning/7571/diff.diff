@@ -1,0 +1,4 @@
+54c54
+<     public ClasspathBuilder appendVerbatim(@Nonnull String s) {
+---
+>     public ClasspathBuilder appendVerbatim( @Nonnull String s) {

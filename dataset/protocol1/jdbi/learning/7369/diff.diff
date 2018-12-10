@@ -1,0 +1,4 @@
+949c949
+<         return bind(position, toArgument(Time.class, value));
+---
+>         return bind( position, toArgument(Time.class, value));

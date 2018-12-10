@@ -1,0 +1,4 @@
+33c33
+<         JdbiCollectors collectors = registry.get(JdbiCollectors.class);
+---
+>         JdbiCollectors collectors = registry.get(JdbiCollectors. class);

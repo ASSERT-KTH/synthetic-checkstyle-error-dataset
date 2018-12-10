@@ -1,0 +1,5 @@
+31c31,32
+<     private final List<HandlerDecorator> decorators = new CopyOnWriteArrayList<>();
+---
+>     private final List<HandlerDecorator> decorators 
+> = new CopyOnWriteArrayList<>();

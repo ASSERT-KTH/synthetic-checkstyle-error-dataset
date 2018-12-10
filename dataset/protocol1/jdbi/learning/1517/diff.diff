@@ -1,0 +1,4 @@
+22c22
+< import org.jdbi.v3.sqlobject.statement.internal.SqlQueryHandler;
+---
+> import org.jdbi.v3.sqlobject.statement. internal.SqlQueryHandler;

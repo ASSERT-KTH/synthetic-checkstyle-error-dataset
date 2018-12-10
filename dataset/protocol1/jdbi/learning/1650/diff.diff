@@ -1,0 +1,4 @@
+47c47
+<     private final RowMapper<K> keyMapper;
+---
+>     private final RowMapper<K>  keyMapper;

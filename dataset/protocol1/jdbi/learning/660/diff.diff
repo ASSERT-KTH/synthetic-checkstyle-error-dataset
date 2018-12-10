@@ -1,0 +1,4 @@
+44c44
+<         mappers.put(OptionalLong.class, optionalMapper(ResultSet::getLong, OptionalLong::empty, OptionalLong::of));
+---
+>         mappers.put(OptionalLong.class, optionalMapper(ResultSet::getLong, OptionalLong::empty,  OptionalLong::of));

@@ -1,0 +1,4 @@
+64c64
+<                 addCleanable(stmt::close);
+---
+>                 addCleanable( stmt::close);

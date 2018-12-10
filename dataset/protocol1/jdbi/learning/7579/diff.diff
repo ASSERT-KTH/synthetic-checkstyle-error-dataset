@@ -1,0 +1,5 @@
+85c85,86
+<                     .orElseThrow(() -> new NoSuchMapperException("No row mapper registered for map value " + valueType));
+---
+>                     .orElseThrow(() -> 
+> new NoSuchMapperException("No row mapper registered for map value " + valueType));

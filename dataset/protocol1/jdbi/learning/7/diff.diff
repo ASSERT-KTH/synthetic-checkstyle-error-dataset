@@ -1,0 +1,4 @@
+50c50
+<                     () -> returner.mappedResult(((ResultBearing) stmt).mapTo(mapTo), stmt.getContext()));
+---
+>                     () ->  returner.mappedResult(((ResultBearing) stmt).mapTo(mapTo), stmt.getContext()));

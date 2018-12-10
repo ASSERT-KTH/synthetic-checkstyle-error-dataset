@@ -1,0 +1,4 @@
+123c123
+<         return type instanceof Class<?> && ((Class<?>) type).isArray();
+---
+>         return type instanceof Class< ?> && ((Class<?>) type).isArray();

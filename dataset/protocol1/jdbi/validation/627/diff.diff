@@ -1,0 +1,4 @@
+31c31
+<                 ? Optional.of(EnumMapper.byName(clazz.asSubclass(Enum.class)))
+---
+>                 ? Optional.of (EnumMapper.byName(clazz.asSubclass(Enum.class)))

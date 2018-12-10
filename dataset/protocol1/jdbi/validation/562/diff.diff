@@ -1,0 +1,4 @@
+52c52
+<                         Object value = ctx.getAttribute(key);
+---
+>                         Object value = ctx.	getAttribute(key);

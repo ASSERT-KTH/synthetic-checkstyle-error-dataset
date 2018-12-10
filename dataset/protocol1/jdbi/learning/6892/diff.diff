@@ -1,0 +1,4 @@
+92c92
+<             return ((Collection<?>) obj).isEmpty();
+---
+>             return ((Collection<?>) obj). isEmpty();

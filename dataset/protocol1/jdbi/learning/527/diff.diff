@@ -1,0 +1,4 @@
+36c36
+<         SqlScriptLexer lexer = new SqlScriptLexer(charStream);
+---
+>         SqlScriptLexer lexer = new SqlScriptLexer(charStream	);

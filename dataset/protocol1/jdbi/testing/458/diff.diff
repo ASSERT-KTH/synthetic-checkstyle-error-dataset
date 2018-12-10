@@ -1,0 +1,4 @@
+33c33
+<             TOSTRING_METHOD = Object.class.getMethod("toString");
+---
+>             TOSTRING_METHOD = Object.class. getMethod("toString");

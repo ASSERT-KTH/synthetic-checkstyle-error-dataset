@@ -1,0 +1,4 @@
+93c93
+<                 out.getMap().put(index, obj);
+---
+>                 	out.getMap().put(index, obj);

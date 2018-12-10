@@ -1,0 +1,5 @@
+119c119,120
+<         private static final int DEFAULT_MAX_RETRIES = 5;
+---
+>         private static final int DEFAULT_MAX_RETRIES = 
+> 5;

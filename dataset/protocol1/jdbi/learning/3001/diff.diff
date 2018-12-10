@@ -1,0 +1,4 @@
+119c119
+<             throw new UncheckedIOException("Unable to read classpath resource at " + path, e);
+---
+>             throw new UncheckedIOException ("Unable to read classpath resource at " + path, e);

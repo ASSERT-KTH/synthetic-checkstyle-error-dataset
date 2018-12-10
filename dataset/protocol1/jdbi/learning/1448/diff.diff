@@ -1,0 +1,4 @@
+57c57
+<                 .map(a -> buildHandler(a.value(), sqlObjectType, method))
+---
+>                 . map(a -> buildHandler(a.value(), sqlObjectType, method))

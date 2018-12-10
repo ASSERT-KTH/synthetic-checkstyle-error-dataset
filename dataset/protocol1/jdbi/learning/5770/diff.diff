@@ -1,0 +1,5 @@
+21c21,22
+< public class SqlObjectStatementConfiguration implements JdbiConfig<SqlObjectStatementConfiguration> {
+---
+> public 
+> class SqlObjectStatementConfiguration implements JdbiConfig<SqlObjectStatementConfiguration> {

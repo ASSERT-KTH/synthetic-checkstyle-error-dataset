@@ -1,0 +1,4 @@
+23c23
+< class StaticMethodInstanceFactory<T> extends InstanceFactory<T> {
+---
+> class StaticMethodInstanceFactory	<T> extends InstanceFactory<T> {

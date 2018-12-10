@@ -1,0 +1,4 @@
+20c20
+<         super(cause);
+---
+>         super (cause);

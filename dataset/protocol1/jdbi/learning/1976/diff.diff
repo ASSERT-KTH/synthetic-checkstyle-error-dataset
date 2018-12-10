@@ -1,0 +1,4 @@
+58c58
+<                 RowMapper<?> valueMapper = getValueMapper(valueType, config);
+---
+>                 RowMapper	<?> valueMapper = getValueMapper(valueType, config);

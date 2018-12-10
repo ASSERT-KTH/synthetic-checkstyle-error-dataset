@@ -1,0 +1,4 @@
+24c24
+<         register(byte[].class, Types.VARBINARY, PreparedStatement::setBytes);
+---
+>         	register(byte[].class, Types.VARBINARY, PreparedStatement::setBytes);

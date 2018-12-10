@@ -1,0 +1,4 @@
+43c43
+<         return (Optional<T>) Optional.ofNullable(mapper.map(r, columnNumber, ctx));
+---
+>         return (Optional<T>) Optional.ofNullable(mapper.map( r, columnNumber, ctx));

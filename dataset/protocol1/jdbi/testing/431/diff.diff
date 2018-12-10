@@ -1,0 +1,4 @@
+26c26
+< @Target(ElementType.ANNOTATION_TYPE)
+---
+> @Target(ElementType. ANNOTATION_TYPE)

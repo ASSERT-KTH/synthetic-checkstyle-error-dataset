@@ -1,0 +1,4 @@
+77c77
+<     final void beforeBinding(final PreparedStatement stmt) {
+---
+>     final void beforeBinding (final PreparedStatement stmt) {

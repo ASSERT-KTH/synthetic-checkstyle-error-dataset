@@ -1,0 +1,4 @@
+137c137
+<     default <X extends Exception> void useTransaction(TransactionIsolationLevel isolation,
+---
+>     default <X  extends Exception> void useTransaction(TransactionIsolationLevel isolation,

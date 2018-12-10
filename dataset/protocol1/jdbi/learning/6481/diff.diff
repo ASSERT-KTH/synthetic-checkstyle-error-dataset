@@ -1,0 +1,4 @@
+34c34
+<         register(new OptionalCollectorFactory());
+---
+>         register(new OptionalCollectorFactory() );

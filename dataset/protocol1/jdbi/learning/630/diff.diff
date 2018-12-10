@@ -1,0 +1,4 @@
+179c179
+<     static RowMapper<?> rowMapperFor(UseRowMapper annotation) {
+---
+>     static RowMapper< ?> rowMapperFor(UseRowMapper annotation) {

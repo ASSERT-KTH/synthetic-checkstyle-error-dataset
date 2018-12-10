@@ -1,0 +1,5 @@
+111c111,112
+<         return this.register(QualifiedColumnMapperFactory.of(type, mapper));
+---
+>         return this.register(QualifiedColumnMapperFactory.of(type
+> , mapper));

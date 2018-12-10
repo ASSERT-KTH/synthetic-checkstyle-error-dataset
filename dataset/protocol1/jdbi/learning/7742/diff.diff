@@ -1,0 +1,5 @@
+33,34c33
+<         this.sql = sql;
+<     }
+---
+>         this.sql = sql;    }

@@ -1,0 +1,4 @@
+28c28
+<     public String map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException {
+---
+>     public  String map(ResultSet r, int columnNumber, StatementContext ctx) throws SQLException {

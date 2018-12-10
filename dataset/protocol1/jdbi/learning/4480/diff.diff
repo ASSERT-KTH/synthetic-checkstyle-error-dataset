@@ -1,0 +1,4 @@
+45c45
+<         return (stmt, queryTimeout) -> stmt.setQueryTimeout((Integer) queryTimeout);
+---
+>         return (stmt, queryTimeout) ->stmt.setQueryTimeout((Integer) queryTimeout);

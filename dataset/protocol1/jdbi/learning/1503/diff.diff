@@ -1,0 +1,4 @@
+60c60
+<     protected Optional<TypedValue> getValue(String name, StatementContext ctx) {
+---
+>     protected Optional<TypedValue> getValue(String name,  StatementContext ctx) {

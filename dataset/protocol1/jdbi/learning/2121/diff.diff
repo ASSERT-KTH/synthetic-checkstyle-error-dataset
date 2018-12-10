@@ -1,0 +1,5 @@
+32c32,33
+<     public static ArgumentFactory create(Class<?> type) {
+---
+>     public 
+> static ArgumentFactory create(Class<?> type) {

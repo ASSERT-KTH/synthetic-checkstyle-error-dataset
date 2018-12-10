@@ -1,0 +1,4 @@
+20c20
+< class ToStringBinder<T> implements StatementBinder<T> {
+---
+> class ToStringBinder<T> implements StatementBinder< T> {

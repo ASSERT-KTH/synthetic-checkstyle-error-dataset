@@ -1,0 +1,4 @@
+36c36
+<         return new ByName<>(type);
+---
+>         	return new ByName<>(type);

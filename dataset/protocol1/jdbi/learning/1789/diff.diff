@@ -1,0 +1,4 @@
+41c41
+<     private RowMappers(RowMappers that) {
+---
+>     private RowMappers (RowMappers that) {

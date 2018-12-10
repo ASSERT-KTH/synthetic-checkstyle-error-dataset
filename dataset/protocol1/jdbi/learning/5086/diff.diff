@@ -1,0 +1,4 @@
+297c297
+<                     sharedArg[i] = extras.get(i).next();
+---
+>                     sharedArg[i] = extras.get(i). next();

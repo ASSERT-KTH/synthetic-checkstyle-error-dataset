@@ -1,0 +1,4 @@
+72c72
+<                     while (!failures.isEmpty()) {
+---
+>                     while (!failures.isEmpty())  {

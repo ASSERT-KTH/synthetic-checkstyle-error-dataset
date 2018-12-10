@@ -1,0 +1,4 @@
+92c92
+<         return Optional.of(new TypedValue(type, qualifiers, value));
+---
+>         return Optional.of(new TypedValue(type, qualifiers, value ));

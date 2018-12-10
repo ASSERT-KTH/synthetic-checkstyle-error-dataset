@@ -1,0 +1,5 @@
+33c33,34
+<     Class<? extends RowMapperFactory> value();
+---
+>     Class<? 
+> extends RowMapperFactory> value();

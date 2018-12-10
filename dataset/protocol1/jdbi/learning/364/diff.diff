@@ -1,0 +1,4 @@
+20c20
+< import org.antlr.runtime.Token;
+---
+> import org.antlr.runtime.	Token;

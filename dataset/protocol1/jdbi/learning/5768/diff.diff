@@ -1,0 +1,4 @@
+68c68
+<             for (ColumnNameMatcher strategy : columnNameMatchers) {
+---
+>             for (ColumnNameMatcher strategy :  columnNameMatchers) {

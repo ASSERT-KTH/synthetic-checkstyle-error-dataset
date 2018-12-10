@@ -1,0 +1,4 @@
+46c46
+<         return containerType instanceof ParameterizedType && collectors.containsKey(getErasedType(containerType));
+---
+>         return containerType instanceof ParameterizedType && collectors.containsKey( getErasedType(containerType));

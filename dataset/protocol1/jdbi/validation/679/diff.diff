@@ -1,0 +1,4 @@
+143c143
+<         public Configuration setSerializationFailureSqlState(String serializationFailureSqlState) {
+---
+>         public Configuration  setSerializationFailureSqlState(String serializationFailureSqlState) {

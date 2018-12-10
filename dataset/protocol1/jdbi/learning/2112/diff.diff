@@ -1,0 +1,4 @@
+73c73
+<         return type.cast(getObject(pos));
+---
+>         return type.cast (getObject(pos));

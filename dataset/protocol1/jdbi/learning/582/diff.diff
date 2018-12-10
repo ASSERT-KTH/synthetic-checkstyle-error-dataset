@@ -1,0 +1,4 @@
+493c493
+<             throw new UnableToManipulateTransactionIsolationLevelException("unable to access current setting", e);
+---
+>             throw new UnableToManipulateTransactionIsolationLevelException("unable to access current setting"	, e);

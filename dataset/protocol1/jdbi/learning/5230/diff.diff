@@ -1,0 +1,5 @@
+29c29,30
+<         checkArgument(type instanceof TypeVariable, "%s should be a type variable.", type);
+---
+>         checkArgument
+> (type instanceof TypeVariable, "%s should be a type variable.", type);

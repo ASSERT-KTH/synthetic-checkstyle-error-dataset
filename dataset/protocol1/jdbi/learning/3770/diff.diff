@@ -1,0 +1,4 @@
+37c37
+<         Array array = r.getArray(columnNumber);
+---
+>         Array array =  r.getArray(columnNumber);

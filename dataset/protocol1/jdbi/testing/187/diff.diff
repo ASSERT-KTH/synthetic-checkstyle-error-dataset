@@ -1,0 +1,5 @@
+122c122,123
+<         putEntry(map, entry.getKey(), entry.getValue());
+---
+>         putEntry
+> (map, entry.getKey(), entry.getValue());

@@ -1,0 +1,4 @@
+53c53
+<         return Optional.ofNullable(mappers.get(rawType));
+---
+>         return Optional.ofNullable(mappers.get(rawType) );

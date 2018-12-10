@@ -1,0 +1,4 @@
+34c34
+<                 stmt.setQueryTimeout(seconds);
+---
+>                 stmt.setQueryTimeout(seconds	);

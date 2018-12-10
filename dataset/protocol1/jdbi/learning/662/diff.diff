@@ -1,0 +1,4 @@
+80c80
+<             if (handle == null) {
+---
+>             if (handle == null)  {

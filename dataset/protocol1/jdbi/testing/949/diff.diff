@@ -1,0 +1,5 @@
+28c28,29
+<     public UnableToCreateSqlObjectException(String message, Throwable cause) {
+---
+>     public UnableToCreateSqlObjectException(String message, 
+> Throwable cause) {

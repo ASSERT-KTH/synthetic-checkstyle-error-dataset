@@ -1,0 +1,4 @@
+35c35
+<                 .attach(method.getReturnType(), handle);
+---
+>                 .attach(method. getReturnType(), handle);

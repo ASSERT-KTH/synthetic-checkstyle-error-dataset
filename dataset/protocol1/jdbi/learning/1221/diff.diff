@@ -1,0 +1,4 @@
+29c29
+<         Stream.of(registerObjectArgumentFactories.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));
+---
+>         Stream.of(registerObjectArgumentFactories.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType)) ;

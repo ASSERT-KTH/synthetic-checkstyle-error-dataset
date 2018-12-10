@@ -1,0 +1,5 @@
+92,93c92
+<         return RowMapperFactory.of(clazz, ConstructorMapper.of(clazz, prefix));
+<     }
+---
+>         return RowMapperFactory.of(clazz, ConstructorMapper.of(clazz, prefix));    }

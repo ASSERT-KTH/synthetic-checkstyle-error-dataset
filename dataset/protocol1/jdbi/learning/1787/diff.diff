@@ -1,0 +1,5 @@
+19,20c19
+< public class CloseException extends JdbiException {
+<     private static final long serialVersionUID = 1L;
+---
+> public class CloseException extends JdbiException {    private static final long serialVersionUID = 1L;

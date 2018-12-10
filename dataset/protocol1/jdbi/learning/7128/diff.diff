@@ -1,0 +1,4 @@
+48c48
+<         this.registry = registry;
+---
+>         this.registry = registry ;

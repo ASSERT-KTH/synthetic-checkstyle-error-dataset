@@ -1,0 +1,5 @@
+59c59,60
+<                     return h.inTransaction(callback);
+---
+>                     return 
+> h.inTransaction(callback);

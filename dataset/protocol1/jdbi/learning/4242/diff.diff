@@ -1,0 +1,4 @@
+29c29
+<     private final List<CollectorFactory> factories = new CopyOnWriteArrayList<>();
+---
+>     private final  List<CollectorFactory> factories = new CopyOnWriteArrayList<>();

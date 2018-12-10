@@ -1,0 +1,5 @@
+34,35c34
+<         return interfaceType.cast(object);
+<     }
+---
+>         return interfaceType.cast(object);    }

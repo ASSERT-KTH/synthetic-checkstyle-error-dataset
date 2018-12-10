@@ -1,0 +1,5 @@
+127c127,128
+<         } else if (sqlObjectType.isAnnotationPresent(BatchChunkSize.class)) {
+---
+>         } else if (sqlObjectType.isAnnotationPresent
+> (BatchChunkSize.class)) {

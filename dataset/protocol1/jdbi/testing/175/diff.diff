@@ -1,0 +1,4 @@
+27c27
+< public final class BindListFactory implements SqlStatementCustomizerFactory {
+---
+> public  final class BindListFactory implements SqlStatementCustomizerFactory {

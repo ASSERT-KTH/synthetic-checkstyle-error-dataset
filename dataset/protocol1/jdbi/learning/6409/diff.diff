@@ -1,0 +1,4 @@
+36c36
+<         mappers.put(Timestamp.class, new GetterMapper<>(ResultSet::getTimestamp));
+---
+>         mappers.put	(Timestamp.class, new GetterMapper<>(ResultSet::getTimestamp));

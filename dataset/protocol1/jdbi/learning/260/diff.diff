@@ -1,0 +1,4 @@
+46c46
+<         this.args = Arrays.copyOf(args, args.length);
+---
+>         this.args = Arrays.copyOf(	args, args.length);

@@ -1,0 +1,5 @@
+78c78,79
+<     public static QualifiedType of(GenericType<?> type) {
+---
+>     public static QualifiedType of
+> (GenericType<?> type) {

@@ -1,0 +1,5 @@
+253c253,254
+<             return Types.toString(type);
+---
+>             return Types.toString
+> (type);

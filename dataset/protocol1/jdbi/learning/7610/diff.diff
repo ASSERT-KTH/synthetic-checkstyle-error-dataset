@@ -1,0 +1,5 @@
+37c37,38
+<         statement.setNull(position, sqlType);
+---
+>         statement.setNull(position, 
+> sqlType);

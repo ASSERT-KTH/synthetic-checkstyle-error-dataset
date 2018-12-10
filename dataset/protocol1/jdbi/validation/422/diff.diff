@@ -1,0 +1,4 @@
+67c67
+<     return toOptional(OptionalLong::empty, OptionalLong::of);
+---
+>     return toOptional( OptionalLong::empty, OptionalLong::of);

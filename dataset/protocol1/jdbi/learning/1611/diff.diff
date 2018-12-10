@@ -1,0 +1,4 @@
+36c36
+<         final BindMethodsList bindMethodsList = (BindMethodsList) annotation;
+---
+>         final BindMethodsList bindMethodsList = (BindMethodsList) annotation	;

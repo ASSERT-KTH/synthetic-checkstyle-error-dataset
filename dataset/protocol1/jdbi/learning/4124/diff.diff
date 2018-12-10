@@ -1,0 +1,4 @@
+51c51
+<         A result = collector.supplier().get();
+---
+>         	A result = collector.supplier().get();

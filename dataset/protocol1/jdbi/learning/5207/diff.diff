@@ -1,0 +1,4 @@
+167c167
+<     private void forEachConfigurer(AnnotatedElement element, BiConsumer<Configurer, Annotation> consumer) {
+---
+>     private  void forEachConfigurer(AnnotatedElement element, BiConsumer<Configurer, Annotation> consumer) {

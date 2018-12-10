@@ -1,0 +1,4 @@
+21c21
+< import static org.jdbi.v3.core.internal.lexer.DefineStatementLexer.LITERAL;
+---
+> 	import static org.jdbi.v3.core.internal.lexer.DefineStatementLexer.LITERAL;

@@ -1,0 +1,4 @@
+31c31
+<     private static final Map<Class<?>, Class<?>> ELEMENT_TYPES = new IdentityHashMap<>();
+---
+>     private static final Map<Class<?>, Class<?	>> ELEMENT_TYPES = new IdentityHashMap<>();

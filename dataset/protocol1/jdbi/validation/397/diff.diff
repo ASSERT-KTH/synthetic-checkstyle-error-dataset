@@ -1,0 +1,4 @@
+68c68
+<     void visitTypeVariable(TypeVariable<?> t) {}
+---
+>     void visitTypeVariable(TypeVariable<? > t) {}

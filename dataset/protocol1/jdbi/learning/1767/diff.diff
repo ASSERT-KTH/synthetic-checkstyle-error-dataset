@@ -1,0 +1,4 @@
+51c51
+<             return Optional.of(new NullArgument(Types.ARRAY));
+---
+>             return Optional.of(new NullArgument(	Types.ARRAY));

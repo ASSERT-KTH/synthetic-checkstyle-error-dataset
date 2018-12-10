@@ -1,0 +1,4 @@
+30c30
+<     Handle getHandle();
+---
+>     Handle  getHandle();

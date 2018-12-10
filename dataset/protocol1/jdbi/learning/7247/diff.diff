@@ -1,0 +1,5 @@
+59c59,60
+<             return lookup.apply(elementType)
+---
+>             
+> return lookup.apply(elementType)

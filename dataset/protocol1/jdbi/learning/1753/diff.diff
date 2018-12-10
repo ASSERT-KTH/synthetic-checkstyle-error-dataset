@@ -1,0 +1,4 @@
+46c46
+<         builders.put(klass, (T value) -> new LoggableSetNullOrBinderArgument<>(value, sqlType, binder));
+---
+>         builders.put(klass, (T value) -> new LoggableSetNullOrBinderArgument<>(value,sqlType, binder));

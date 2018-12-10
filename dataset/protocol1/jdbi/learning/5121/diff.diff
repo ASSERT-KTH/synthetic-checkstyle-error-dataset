@@ -1,0 +1,4 @@
+68c68
+<         this.config = ThreadLocal.withInitial(() -> config);
+---
+>         this.config = ThreadLocal.withInitial( () -> config);

@@ -1,0 +1,5 @@
+57c57,58
+<         ParsedSql that = (ParsedSql) o;
+---
+>         ParsedSql that 
+> = (ParsedSql) o;

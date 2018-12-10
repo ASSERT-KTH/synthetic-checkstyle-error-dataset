@@ -1,0 +1,4 @@
+34c34
+<     Optional<ColumnMapper<?>> build(Type type, ConfigRegistry config);
+---
+>     Optional<ColumnMapper<?>>  build(Type type, ConfigRegistry config);

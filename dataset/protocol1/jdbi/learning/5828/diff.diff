@@ -1,0 +1,4 @@
+36c36
+< public @interface ValueColumn {
+---
+> public @	interface ValueColumn {

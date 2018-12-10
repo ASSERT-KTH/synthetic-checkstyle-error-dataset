@@ -1,0 +1,4 @@
+132c132
+<     public ResultProducers allowNoResults(boolean allowNoResults) {
+---
+>     public ResultProducers allowNoResults(boolean  allowNoResults) {

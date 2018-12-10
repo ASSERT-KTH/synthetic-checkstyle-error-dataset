@@ -1,0 +1,4 @@
+317c317
+<     default This registerRowMapper(RowMapperFactory factory) {
+---
+>     default This registerRowMapper(RowMapperFactory factory){

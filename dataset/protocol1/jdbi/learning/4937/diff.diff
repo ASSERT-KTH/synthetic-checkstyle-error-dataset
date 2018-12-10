@@ -1,0 +1,4 @@
+45c45
+<     int sqlType() default Integer.MIN_VALUE;
+---
+>     int sqlType() default Integer.MIN_VALUE ;

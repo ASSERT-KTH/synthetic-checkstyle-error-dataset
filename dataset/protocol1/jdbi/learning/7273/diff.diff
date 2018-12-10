@@ -1,0 +1,5 @@
+110c110,111
+<     default <R, X extends Exception> R inTransaction(
+---
+>     default <R, X extends 
+> Exception> R inTransaction(

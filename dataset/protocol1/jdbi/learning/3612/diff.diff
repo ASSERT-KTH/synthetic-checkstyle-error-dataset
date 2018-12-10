@@ -1,0 +1,5 @@
+85c85,86
+<         return getResourceOnClasspath(selectClassLoader(), builder.build());
+---
+>         return getResourceOnClasspath(selectClassLoader
+> (), builder.build());

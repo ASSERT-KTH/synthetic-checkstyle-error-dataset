@@ -1,0 +1,4 @@
+24c24
+< import org.jdbi.v3.sqlobject.config.ConfiguringAnnotation;
+---
+> import org.jdbi.v3.sqlobject.config.	ConfiguringAnnotation;

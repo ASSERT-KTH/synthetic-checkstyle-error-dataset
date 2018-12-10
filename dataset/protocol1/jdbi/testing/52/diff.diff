@@ -1,0 +1,4 @@
+196c196
+<     default <R> R collect(Collector<T, ?, R> collector) {
+---
+>     default <R> R collect(Collector<T, ? , R> collector) {

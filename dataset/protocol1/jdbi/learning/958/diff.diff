@@ -1,0 +1,4 @@
+23c23
+< public class RegisterArgumentFactoriesImpl implements Configurer {
+---
+> public class RegisterArgumentFactoriesImpl implements Configurer{

@@ -1,0 +1,5 @@
+39,40c39
+<         @SuppressWarnings("unchecked")
+<         Function<Object, Argument> reusable = (Function<Object, Argument>) builders.get(expectedClass);
+---
+>         @SuppressWarnings("unchecked")        Function<Object, Argument> reusable = (Function<Object, Argument>) builders.get(expectedClass);

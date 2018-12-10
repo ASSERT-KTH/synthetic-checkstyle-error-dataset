@@ -1,0 +1,4 @@
+17c17
+< @SuppressWarnings("PMD.AvoidThrowingNullPointerException")
+---
+> @	SuppressWarnings("PMD.AvoidThrowingNullPointerException")

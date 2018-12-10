@@ -1,0 +1,4 @@
+21c21
+<         return (t, ctx) -> t.equals(type) ? Optional.of(arrayType) : Optional.empty();
+---
+>         return (t, ctx) -> t.	equals(type) ? Optional.of(arrayType) : Optional.empty();

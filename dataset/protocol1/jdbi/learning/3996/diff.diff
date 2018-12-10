@@ -1,0 +1,4 @@
+74c74
+<     public SqlArrayTypes register(Class<?> elementType, String sqlTypeName) {
+---
+>     public SqlArrayTypes register(Class<?> elementType	, String sqlTypeName) {

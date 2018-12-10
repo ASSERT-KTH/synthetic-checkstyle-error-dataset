@@ -1,0 +1,5 @@
+23c23,24
+< public class RegisterFieldMappersImpl implements Configurer {
+---
+> public class 
+> RegisterFieldMappersImpl implements Configurer {

@@ -1,0 +1,4 @@
+26c26
+< class NVarcharMapper implements ColumnMapper<String> {
+---
+> class NVarcharMapper implements  ColumnMapper<String> {

@@ -1,0 +1,4 @@
+80c80
+<                 Class<? super T> result = (Class<? super T>) rawType;
+---
+>                 Class<? super T> result = (Class<? super T	>) rawType;

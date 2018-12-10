@@ -1,0 +1,4 @@
+60c60
+<         return new SimpleTypeToken<T>(resolver.resolveType(runtimeType));
+---
+>         return new SimpleTypeToken <T>(resolver.resolveType(runtimeType));

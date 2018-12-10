@@ -1,0 +1,4 @@
+37c37
+<     default void closeConnection(Connection conn) throws SQLException {
+---
+>     default void closeConnection(Connection conn ) throws SQLException {

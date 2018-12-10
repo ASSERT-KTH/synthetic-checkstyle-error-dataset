@@ -1,0 +1,4 @@
+49c49
+<             String[] columnNames = ctx.getGeneratedKeysColumnNames();
+---
+>             String[] columnNames  = ctx.getGeneratedKeysColumnNames();

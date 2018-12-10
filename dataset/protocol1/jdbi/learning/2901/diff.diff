@@ -1,0 +1,4 @@
+96c96
+<         return getHandle().inTransaction(h -> callback.inTransaction((This) this));
+---
+>         return getHandle().inTransaction(	h -> callback.inTransaction((This) this));

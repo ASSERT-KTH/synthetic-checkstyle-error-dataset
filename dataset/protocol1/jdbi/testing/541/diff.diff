@@ -1,0 +1,5 @@
+33,34c33
+<         Object array = Array.newInstance(componentType, list.size());
+<         for (int i = 0; i < list.size(); i++) {
+---
+>         Object array = Array.newInstance(componentType, list.size());        for (int i = 0; i < list.size(); i++) {

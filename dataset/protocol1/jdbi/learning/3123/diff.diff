@@ -1,0 +1,5 @@
+32c32,33
+<     R withExtension(E extension) throws X;
+---
+>     R withExtension(E extension) throws X
+> ;

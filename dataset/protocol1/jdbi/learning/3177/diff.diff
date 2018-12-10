@@ -1,0 +1,4 @@
+80c80
+<         Set<Annotation> qualifiers = getQualifiers(method);
+---
+>         Set<Annotation	> qualifiers = getQualifiers(method);

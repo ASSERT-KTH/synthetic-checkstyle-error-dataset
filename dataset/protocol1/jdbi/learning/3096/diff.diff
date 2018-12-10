@@ -1,0 +1,5 @@
+99c99,100
+<     static SQLException mungeBatchException(SQLException e) {
+---
+>     static SQLException 
+> mungeBatchException(SQLException e) {

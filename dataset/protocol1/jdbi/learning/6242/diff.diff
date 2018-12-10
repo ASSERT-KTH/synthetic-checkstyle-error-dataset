@@ -1,0 +1,5 @@
+27,28c27
+<     public SqlStatementParameterCustomizer createForParameter(Annotation annotation,
+<                                                               Class<?> sqlObjectType,
+---
+>     public SqlStatementParameterCustomizer createForParameter(Annotation annotation,                                                              Class<?> sqlObjectType,

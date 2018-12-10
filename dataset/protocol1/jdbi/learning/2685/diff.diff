@@ -1,0 +1,4 @@
+222c222
+<     public PreparedBatch add(Map<String, ?> args) {
+---
+>     public PreparedBatch add(Map< String, ?> args) {

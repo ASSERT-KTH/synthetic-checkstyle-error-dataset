@@ -1,0 +1,4 @@
+61c61
+<                 throw new IllegalArgumentException("A @DefineList parameter was passed a list with null values in it.");
+---
+>                 throw new IllegalArgumentException(	"A @DefineList parameter was passed a list with null values in it.");

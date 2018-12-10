@@ -1,0 +1,5 @@
+144,145c144
+<                         return stmt.getInt(position);
+<                     case Types.BIGINT:
+---
+>                         return stmt.getInt(position);                    case Types.BIGINT:

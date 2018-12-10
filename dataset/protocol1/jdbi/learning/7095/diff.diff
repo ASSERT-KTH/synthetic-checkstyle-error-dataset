@@ -1,0 +1,5 @@
+149c149,150
+<                 .where(new TypeParameter<K>() {}, keyType)
+---
+>                 .where(new TypeParameter<K>() 
+> {}, keyType)

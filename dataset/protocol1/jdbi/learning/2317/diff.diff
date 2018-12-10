@@ -1,0 +1,5 @@
+36c36,37
+<             final QualifiedType mapTo;
+---
+>             final QualifiedType 
+> mapTo;

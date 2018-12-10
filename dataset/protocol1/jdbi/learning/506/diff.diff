@@ -1,0 +1,4 @@
+30c30
+<     R withStream(Stream<T> stream) throws X;
+---
+>     R withStream(Stream<T	> stream) throws X;

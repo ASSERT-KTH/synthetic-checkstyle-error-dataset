@@ -1,0 +1,4 @@
+23c23
+<     private final Connection connection;
+---
+>     private final Connection connection	;

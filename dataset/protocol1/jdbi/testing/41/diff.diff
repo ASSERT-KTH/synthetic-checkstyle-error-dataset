@@ -1,0 +1,5 @@
+41c41,42
+<     Class<? extends SqlParser> value();
+---
+>     
+> Class<? extends SqlParser> value();

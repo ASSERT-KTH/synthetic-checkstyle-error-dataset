@@ -1,0 +1,4 @@
+37c37
+<     default void forEachRemaining(Consumer<? super T> action) {
+---
+>     default void forEachRemaining(Consumer<	? super T> action) {

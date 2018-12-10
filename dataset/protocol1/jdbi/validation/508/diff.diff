@@ -1,0 +1,4 @@
+93c93
+<             .map(x -> x.getKey().toString() + ':' + x.getValue())
+---
+>             .map	(x -> x.getKey().toString() + ':' + x.getValue())

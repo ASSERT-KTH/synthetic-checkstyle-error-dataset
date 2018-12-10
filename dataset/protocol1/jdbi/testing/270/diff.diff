@@ -1,0 +1,5 @@
+54,55c54
+<             String.format("Multiple values for optional: [%s, %s, ...]",
+<                 stringify(first),
+---
+>             String.format("Multiple values for optional: [%s, %s, ...]",                stringify(first),

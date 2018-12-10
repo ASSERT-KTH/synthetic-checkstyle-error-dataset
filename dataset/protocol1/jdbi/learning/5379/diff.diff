@@ -1,0 +1,4 @@
+122c122
+<     public ColumnMappers register(ColumnMapperFactory factory) {
+---
+>     public  ColumnMappers register(ColumnMapperFactory factory) {

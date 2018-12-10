@@ -1,0 +1,5 @@
+50c50,51
+<     private ObjectArgumentFactory(Class<?> type, Integer sqlType) {
+---
+>     private ObjectArgumentFactory(Class<?> 
+> type, Integer sqlType) {

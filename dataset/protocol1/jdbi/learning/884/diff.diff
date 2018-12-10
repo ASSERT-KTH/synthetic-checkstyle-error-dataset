@@ -1,0 +1,5 @@
+139c139,140
+<     public T map(ResultSet rs, StatementContext ctx) throws SQLException {
+---
+>     public T map(ResultSet rs, StatementContext ctx) 
+> throws SQLException {

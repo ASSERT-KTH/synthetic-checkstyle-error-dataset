@@ -1,0 +1,4 @@
+22c22
+< public interface StreamConsumer<T, X extends Exception> {
+---
+> public interface StreamConsumer	<T, X extends Exception> {

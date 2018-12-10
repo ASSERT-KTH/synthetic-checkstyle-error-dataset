@@ -1,0 +1,4 @@
+29c29
+<             T result = r.invoke();
+---
+>             T result =r.invoke();

@@ -1,0 +1,4 @@
+30c30
+<         Set<Annotation> qualifiers = getQualifiers(factory.getClass());
+---
+>         Set<Annotation> qualifiers  = getQualifiers(factory.getClass());

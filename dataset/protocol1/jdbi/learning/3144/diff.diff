@@ -1,0 +1,4 @@
+65c65
+<     private List<String> splitToStatements(String script) {
+---
+>     private List<	String> splitToStatements(String script) {

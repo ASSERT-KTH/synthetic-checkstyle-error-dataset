@@ -1,0 +1,4 @@
+109c109
+<             Optional<RowMapper<?>> result = rowMappers.findFor(type.getType());
+---
+>             Optional<RowMapper<?>> result = rowMappers.findFor (type.getType());

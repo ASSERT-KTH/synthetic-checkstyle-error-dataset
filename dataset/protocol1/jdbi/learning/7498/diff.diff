@@ -1,0 +1,4 @@
+55c55
+<                     throw new IllegalStateException("Handle is closed");
+---
+>                     throw new IllegalStateException(	"Handle is closed");

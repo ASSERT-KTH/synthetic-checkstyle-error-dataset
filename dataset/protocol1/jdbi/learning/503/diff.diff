@@ -1,0 +1,4 @@
+204c204
+<         return scanResultSet((supplier, ctx) -> ResultIterable.of(supplier, GenericMapMapperFactory.getMapperForValueType(valueType, ctx.getConfig()), ctx));
+---
+>         return scanResultSet((supplier, ctx) -> ResultIterable.of(	supplier, GenericMapMapperFactory.getMapperForValueType(valueType, ctx.getConfig()), ctx));

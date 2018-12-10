@@ -1,0 +1,4 @@
+76c76
+<     public static StatementCustomizer maxFieldSize(final int maxFieldSize) {
+---
+>     public static StatementCustomizer maxFieldSize(	final int maxFieldSize) {

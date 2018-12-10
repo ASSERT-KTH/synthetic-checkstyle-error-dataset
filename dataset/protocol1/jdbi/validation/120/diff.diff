@@ -1,0 +1,4 @@
+94c94
+<     public static ParsedParameters named(List<String> names) {
+---
+>     public static ParsedParameters named(List<	String> names) {

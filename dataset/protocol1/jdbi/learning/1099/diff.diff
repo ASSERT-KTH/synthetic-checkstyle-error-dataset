@@ -1,0 +1,4 @@
+60c60
+<         Type argumentType = findGenericParameter(getClass(), AbstractArgumentFactory.class)
+---
+>         Type argumentType  = findGenericParameter(getClass(), AbstractArgumentFactory.class)

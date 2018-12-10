@@ -1,0 +1,4 @@
+38c38
+<             if (!localStuff.containsKey(handle)) {
+---
+>             if (! localStuff.containsKey(handle)) {

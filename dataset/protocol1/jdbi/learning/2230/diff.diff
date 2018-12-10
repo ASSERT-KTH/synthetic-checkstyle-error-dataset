@@ -1,0 +1,5 @@
+59,60c59
+<             return lookup.apply(elementType)
+<                     .map(arrayType -> new SqlArrayArgument<>(arrayType, value));
+---
+>             return lookup.apply(elementType)                    .map(arrayType -> new SqlArrayArgument<>(arrayType, value));

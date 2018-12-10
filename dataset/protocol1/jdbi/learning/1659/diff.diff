@@ -1,0 +1,4 @@
+38c38
+<     public void configureForMethod(ConfigRegistry registry, Annotation annotation, Class<?> sqlObjectType, Method method) {
+---
+>     public void configureForMethod(ConfigRegistry registry, Annotation  annotation, Class<?> sqlObjectType, Method method) {

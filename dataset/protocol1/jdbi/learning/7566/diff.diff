@@ -1,0 +1,5 @@
+37c37,38
+<                 .orElseThrow(() -> new UnsupportedOperationException("A @Define parameter was not given a name, "
+---
+>                 .orElseThrow(() 
+> -> new UnsupportedOperationException("A @Define parameter was not given a name, "

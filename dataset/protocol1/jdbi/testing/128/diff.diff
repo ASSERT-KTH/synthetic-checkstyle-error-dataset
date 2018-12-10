@@ -1,0 +1,4 @@
+28c28
+<     TemplateEngine NOP = (template, ctx) -> template;
+---
+>     	TemplateEngine NOP = (template, ctx) -> template;

@@ -1,0 +1,4 @@
+174c174
+<     default <R, X extends Exception> R withStream(StreamCallback<T, R, X> callback) throws X {
+---
+>     default < R, X extends Exception> R withStream(StreamCallback<T, R, X> callback) throws X {

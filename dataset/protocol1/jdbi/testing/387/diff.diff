@@ -1,0 +1,5 @@
+163,164c163
+<                         nestedMappers
+<                             .computeIfAbsent(field, f -> new FieldMapper<>(field.getType(), nestedPrefix))
+---
+>                         nestedMappers                            .computeIfAbsent(field, f -> new FieldMapper<>(field.getType(), nestedPrefix))

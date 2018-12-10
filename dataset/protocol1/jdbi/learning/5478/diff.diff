@@ -1,0 +1,4 @@
+55c55
+<             Object nestedValue = ((Optional<?>) value).orElse(null);
+---
+>             Object nestedValue = ((Optional<?>) value).orElse(null );

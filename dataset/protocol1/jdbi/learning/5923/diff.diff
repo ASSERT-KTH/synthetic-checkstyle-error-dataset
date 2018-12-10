@@ -1,0 +1,4 @@
+49c49
+<         mappers.put(float.class, primitiveMapper(ResultSet::getFloat));
+---
+>         mappers.put(float.class,primitiveMapper(ResultSet::getFloat));

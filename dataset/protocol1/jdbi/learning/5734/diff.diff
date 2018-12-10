@@ -1,0 +1,5 @@
+69,70c69
+<         return findFactoryFor(extensionType)
+<                 .map(factory -> factory.attach(extensionType, handle));
+---
+>         return findFactoryFor(extensionType)                .map(factory -> factory.attach(extensionType, handle));

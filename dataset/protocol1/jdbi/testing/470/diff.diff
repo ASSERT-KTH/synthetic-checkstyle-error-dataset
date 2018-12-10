@@ -1,0 +1,5 @@
+42c42,43
+<     void commit(Handle handle);
+---
+>     void commit(Handle handle)
+> ;

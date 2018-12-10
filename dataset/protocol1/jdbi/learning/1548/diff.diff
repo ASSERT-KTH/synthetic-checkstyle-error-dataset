@@ -1,0 +1,4 @@
+68c68
+<             return handlerType.getConstructor(Class.class, Method.class).newInstance(sqlObjectType, method);
+---
+>             return handlerType.getConstructor(Class.class, Method.class).newInstance(sqlObjectType,  method);

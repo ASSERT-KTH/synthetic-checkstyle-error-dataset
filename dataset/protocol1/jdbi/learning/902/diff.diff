@@ -1,0 +1,5 @@
+102c102,103
+<                 throw new UnableToExecuteStatementException("Exception thrown in statement customization", e, ctx);
+---
+>                 throw new UnableToExecuteStatementException("Exception thrown in statement customization"
+> , e, ctx);

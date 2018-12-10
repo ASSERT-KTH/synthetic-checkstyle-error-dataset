@@ -1,0 +1,5 @@
+124c124,125
+<         private Consumer<List<Exception>> onFailure = NOP, onSuccess = NOP;
+---
+>         private Consumer<List<Exception>> onFailure = NOP, onSuccess = 
+> NOP;

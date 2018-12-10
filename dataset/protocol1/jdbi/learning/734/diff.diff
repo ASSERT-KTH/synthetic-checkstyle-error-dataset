@@ -1,0 +1,5 @@
+41c41,42
+<     T map(ResultSet rs, StatementContext ctx) throws SQLException;
+---
+>     T map(ResultSet rs, StatementContext 
+> ctx) throws SQLException;

@@ -1,0 +1,4 @@
+17c17
+< import static org.jdbi.v3.core.result.ResultProducers.returningUpdateCount;
+---
+> import static org.	jdbi.v3.core.result.ResultProducers.returningUpdateCount;

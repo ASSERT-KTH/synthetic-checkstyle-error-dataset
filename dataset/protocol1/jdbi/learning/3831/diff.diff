@@ -1,0 +1,4 @@
+43c43
+<         if (array == null) {
+---
+>         if (	array == null) {

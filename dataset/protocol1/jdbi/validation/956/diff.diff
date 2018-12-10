@@ -1,0 +1,5 @@
+102,103c102
+<         OptionalBuilder::combine,
+<         OptionalBuilder::build);
+---
+>         OptionalBuilder::combine,        OptionalBuilder::build);

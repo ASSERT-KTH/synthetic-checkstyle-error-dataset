@@ -1,0 +1,4 @@
+33c33
+<     private final Map<Class<?>, ColumnMapper<?>> mappers = new IdentityHashMap<>();
+---
+>     private final Map<Class<?>, ColumnMapper<?>>  mappers = new IdentityHashMap<>();

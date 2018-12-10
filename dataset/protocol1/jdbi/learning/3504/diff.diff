@@ -1,0 +1,4 @@
+146c146
+<         final List<ColumnNameMatcher> columnNameMatchers =
+---
+>         final List<ColumnNameMatcher>  columnNameMatchers =

@@ -1,0 +1,4 @@
+34c34
+<     private ConfigRegistry(ConfigRegistry that) {
+---
+>     private ConfigRegistry(ConfigRegistry that)  {

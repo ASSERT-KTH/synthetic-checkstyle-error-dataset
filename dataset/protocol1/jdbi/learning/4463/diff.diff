@@ -1,0 +1,5 @@
+173c173,174
+<                 checkArgument(!cls.isPrimitive(), "Primitive type '%s' used as %s", cls, usedAs);
+---
+>                 checkArgument
+> (!cls.isPrimitive(), "Primitive type '%s' used as %s", cls, usedAs);

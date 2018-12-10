@@ -1,0 +1,4 @@
+32c32
+<             throw new IllegalArgumentException(format("Given method \"%s\" is not a valid factory method for %s", method, type));
+---
+>             throw new IllegalArgumentException(format("Given method \"%s\" is not a valid factory method for %s", method, type)) ;

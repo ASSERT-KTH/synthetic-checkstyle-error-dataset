@@ -1,0 +1,4 @@
+58c58
+<         RowMapper<T> mapper = (RowMapper<T>) findFor((Type) type).orElse(null);
+---
+>         RowMapper<T> mapper = (RowMapper<T>) findFor((Type ) type).orElse(null);

@@ -1,0 +1,4 @@
+26c26
+<         this.valueColumn = that.valueColumn;
+---
+>         this.valueColumn =  that.valueColumn;

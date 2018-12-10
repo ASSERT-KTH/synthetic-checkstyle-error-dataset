@@ -1,0 +1,5 @@
+66c66,67
+<         if (resolver == null) {
+---
+>         if (resolver 
+> == null) {

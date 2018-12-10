@@ -1,0 +1,4 @@
+50c50
+<     static TypeResolver accordingTo(Type type) {
+---
+>     static TypeResolver accordingTo(Type type ) {

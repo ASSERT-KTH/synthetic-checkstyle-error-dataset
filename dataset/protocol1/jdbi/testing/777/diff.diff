@@ -1,0 +1,4 @@
+51c51
+<             if (HASHCODE_METHOD.equals(method)) {
+---
+>             	if (HASHCODE_METHOD.equals(method)) {

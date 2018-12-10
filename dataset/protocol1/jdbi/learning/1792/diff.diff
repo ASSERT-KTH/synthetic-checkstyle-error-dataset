@@ -1,0 +1,4 @@
+29c29
+<     public SqlQueryHandler(Class<?> sqlObjectType, Method method) {
+---
+>     public SqlQueryHandler( Class<?> sqlObjectType, Method method) {

@@ -1,0 +1,4 @@
+41c41
+<         statement.setString(position, toString.apply(value));
+---
+>         statement.setString(position, toString.	apply(value));

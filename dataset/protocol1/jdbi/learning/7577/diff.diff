@@ -1,0 +1,5 @@
+149c149,150
+<         return Objects.hash(type, qualifiers);
+---
+>         return Objects.hash(type, 
+> qualifiers);

@@ -1,0 +1,4 @@
+133c133
+<                     throw new RuntimeException(MessageFormat.format("map key \"{0}\" (from column \"{1}\") appears twice in this resultset!", renamedKey, key));
+---
+>                     throw  new RuntimeException(MessageFormat.format("map key \"{0}\" (from column \"{1}\") appears twice in this resultset!", renamedKey, key));

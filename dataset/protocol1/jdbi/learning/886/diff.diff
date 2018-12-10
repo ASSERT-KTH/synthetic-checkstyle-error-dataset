@@ -1,0 +1,4 @@
+74c74
+<                     final String sql = getConfig(SqlStatements.class).getTemplateEngine().render(part, getContext());
+---
+>                     final String sql = getConfig(SqlStatements.class).getTemplateEngine().render	(part, getContext());

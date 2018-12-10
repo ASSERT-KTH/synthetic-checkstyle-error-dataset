@@ -1,0 +1,4 @@
+24c24
+<         return columnName.equalsIgnoreCase(javaName);
+---
+>         return columnName. equalsIgnoreCase(javaName);

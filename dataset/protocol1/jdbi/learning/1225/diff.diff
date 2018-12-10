@@ -1,0 +1,4 @@
+47c47
+<             .orElseThrow(() -> new IllegalStateException("Cannot determine EnumSet element type"));
+---
+>             .orElseThrow(() -> new IllegalStateException(	"Cannot determine EnumSet element type"));

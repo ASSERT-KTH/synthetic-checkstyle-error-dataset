@@ -1,0 +1,5 @@
+155,156c155
+<                     case Types.DOUBLE:
+<                         return stmt.getDouble(position);
+---
+>                     case Types.DOUBLE:                        return stmt.getDouble(position);

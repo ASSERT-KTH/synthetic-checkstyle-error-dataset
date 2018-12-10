@@ -1,0 +1,5 @@
+562c562,563
+<         return bind(position, toArgument(byte.class, value));
+---
+>         return bind(position, toArgument(byte.class, 
+> value));

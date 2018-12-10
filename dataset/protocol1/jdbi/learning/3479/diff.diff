@@ -1,0 +1,4 @@
+41c41
+<     protected ObjectPropertyNamedArgumentFinder(String prefix, Object obj) {
+---
+>     protected ObjectPropertyNamedArgumentFinder	(String prefix, Object obj) {

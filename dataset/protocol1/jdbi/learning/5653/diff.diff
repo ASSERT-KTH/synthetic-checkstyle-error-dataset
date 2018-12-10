@@ -1,0 +1,4 @@
+29c29
+<         db.registerArrayType(UUID.class, "uuid");
+---
+>         db. registerArrayType(UUID.class, "uuid");

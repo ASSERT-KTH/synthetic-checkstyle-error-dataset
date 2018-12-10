@@ -1,0 +1,4 @@
+77c77
+<         List<Constructor<T>> annotatedConstructors = Stream.of(constructors)
+---
+>         List<Constructor <T>> annotatedConstructors = Stream.of(constructors)

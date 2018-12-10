@@ -1,0 +1,4 @@
+59c59
+<     public Object getObject(int position) {
+---
+>     public  Object getObject(int position) {

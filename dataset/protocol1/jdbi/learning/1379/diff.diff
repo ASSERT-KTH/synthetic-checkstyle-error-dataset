@@ -1,0 +1,4 @@
+39c39
+<             mappers.register(ConstructorMapper.factory(type));
+---
+>             mappers.register( ConstructorMapper.factory(type));

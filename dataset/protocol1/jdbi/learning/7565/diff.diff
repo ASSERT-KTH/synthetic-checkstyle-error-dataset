@@ -1,0 +1,4 @@
+38c38
+<         ELEMENT_TYPES.put(OptionalLong.class, Long.class);
+---
+>         ELEMENT_TYPES.put(OptionalLong.class,Long.class);

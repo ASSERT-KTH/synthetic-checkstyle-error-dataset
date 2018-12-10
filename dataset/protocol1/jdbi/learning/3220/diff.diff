@@ -1,0 +1,4 @@
+58c58
+<         ColonStatementLexer lexer = new ColonStatementLexer(new ANTLRStringStream(sql));
+---
+>         ColonStatementLexer lexer = new ColonStatementLexer(new ANTLRStringStream(sql ));

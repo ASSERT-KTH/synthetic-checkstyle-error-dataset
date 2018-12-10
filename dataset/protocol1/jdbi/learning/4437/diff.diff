@@ -1,0 +1,4 @@
+26c26
+< public class Extensions implements JdbiConfig<Extensions> {
+---
+> public class Extensions implements JdbiConfig<Extensions>  {

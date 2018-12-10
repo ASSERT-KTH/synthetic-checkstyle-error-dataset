@@ -1,0 +1,4 @@
+51c51
+<     EmptyHandling onEmpty() default EmptyHandling.THROW;
+---
+>     EmptyHandling onEmpty()  default EmptyHandling.THROW;

@@ -1,0 +1,4 @@
+63c63
+<             handler = decorator.decorateHandler(handler, sqlObjectType, method);
+---
+>             handler = decorator.	decorateHandler(handler, sqlObjectType, method);

@@ -1,0 +1,5 @@
+70,71c70
+<                 .flatMap(f -> f.elementType(containerType));
+<     }
+---
+>                 .flatMap(f -> f.elementType(containerType));    }

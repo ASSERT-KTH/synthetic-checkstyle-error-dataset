@@ -1,0 +1,4 @@
+31c31
+<     static QualifiedArgumentFactory adapt(ArgumentFactory factory) {
+---
+>     static QualifiedArgumentFactory adapt (ArgumentFactory factory) {

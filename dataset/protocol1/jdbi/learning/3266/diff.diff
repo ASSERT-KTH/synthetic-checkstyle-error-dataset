@@ -1,0 +1,4 @@
+113c113
+<             handlers.putAll(handlerEntry((t, a, h) -> System.identityHashCode(t), Object.class, "hashCode"));
+---
+>             handlers.putAll(handlerEntry((t, a, h ) -> System.identityHashCode(t), Object.class, "hashCode"));

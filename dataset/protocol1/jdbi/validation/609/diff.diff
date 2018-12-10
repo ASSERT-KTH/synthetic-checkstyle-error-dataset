@@ -1,0 +1,4 @@
+59c59
+<                         b.append(t.getText().substring(1));
+---
+>                         b.append(t.getText().substring(1)	);

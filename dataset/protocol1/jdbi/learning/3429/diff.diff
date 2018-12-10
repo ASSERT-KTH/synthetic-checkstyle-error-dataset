@@ -1,0 +1,4 @@
+33c33
+<     public NoResultsException(String msg, StatementContext ctx) {
+---
+>     public NoResultsException(String msg, StatementContext  ctx) {

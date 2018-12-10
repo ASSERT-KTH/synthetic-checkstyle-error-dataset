@@ -1,0 +1,4 @@
+94c94
+<         boolean test(Type type, Object value);
+---
+>         boolean test	(Type type, Object value);

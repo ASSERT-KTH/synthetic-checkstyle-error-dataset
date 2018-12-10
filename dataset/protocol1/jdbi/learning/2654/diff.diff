@@ -1,0 +1,5 @@
+28,29c28
+<         @SuppressWarnings("unchecked")
+<         T annotation = (T) Proxy.newProxyInstance(classLoader, interfaces, invocationHandler);
+---
+>         @SuppressWarnings("unchecked")        T annotation = (T) Proxy.newProxyInstance(classLoader, interfaces, invocationHandler);

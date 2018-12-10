@@ -1,0 +1,4 @@
+49c49
+<                             + "SQL object methods may be default, or have a SQL method annotation, but not both.",
+---
+>                             + "SQL object methods may be default, or have a SQL method annotation, but not both." ,

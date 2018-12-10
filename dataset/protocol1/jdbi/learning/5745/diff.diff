@@ -1,0 +1,5 @@
+49,50c49
+<                             + "SQL object methods may be default, or have a SQL method annotation, but not both.",
+<                     sqlObjectType.getSimpleName(),
+---
+>                             + "SQL object methods may be default, or have a SQL method annotation, but not both.",                    sqlObjectType.getSimpleName(),

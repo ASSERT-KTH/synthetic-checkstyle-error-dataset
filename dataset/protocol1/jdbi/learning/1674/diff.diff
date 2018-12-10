@@ -1,0 +1,4 @@
+32c32
+<     public Batch(Handle handle) {
+---
+>     	public Batch(Handle handle) {

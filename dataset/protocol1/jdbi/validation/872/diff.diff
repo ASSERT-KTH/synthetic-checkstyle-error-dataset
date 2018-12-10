@@ -1,0 +1,4 @@
+62c62
+<     void visitClass(Class<?> t) {}
+---
+>     void visitClass(Class	<?> t) {}

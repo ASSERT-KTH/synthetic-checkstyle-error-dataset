@@ -1,0 +1,4 @@
+78c78
+<                 return MethodHandles.lookup().unreflect(method).bindTo(target).invokeWithArguments(args);
+---
+>                 return MethodHandles.lookup().unreflect(method).bindTo(target).invokeWithArguments(args );

@@ -1,0 +1,4 @@
+28c28
+<     public void bind(PreparedStatement p, int index, T value) throws SQLException {
+---
+>     public void bind(PreparedStatement p, int  index, T value) throws SQLException {

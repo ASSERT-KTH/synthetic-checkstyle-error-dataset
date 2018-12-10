@@ -1,0 +1,4 @@
+266c266
+<         return configure(ColumnMappers.class, c -> c.register(factory));
+---
+>         return configure(ColumnMappers.class, c -> c.register(	factory));

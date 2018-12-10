@@ -1,0 +1,5 @@
+144,145c144
+<             && Objects.equals(qualifiers, that.qualifiers);
+<     }
+---
+>             && Objects.equals(qualifiers, that.qualifiers);    }

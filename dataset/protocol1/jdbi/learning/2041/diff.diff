@@ -1,0 +1,4 @@
+24c24
+< public class RegisterRowMapperImpl implements Configurer {
+---
+> 	public class RegisterRowMapperImpl implements Configurer {

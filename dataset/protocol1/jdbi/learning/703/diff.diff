@@ -1,0 +1,5 @@
+26c26,27
+< public class InputStreamArgument implements Argument {
+---
+> public class InputStreamArgument implements 
+> Argument {

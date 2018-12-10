@@ -1,0 +1,5 @@
+59c59,60
+<             if (threadExtension.get() != null) {
+---
+>             if (threadExtension.get
+> () != null) {

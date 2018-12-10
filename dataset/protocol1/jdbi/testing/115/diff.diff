@@ -1,0 +1,4 @@
+26c26
+<         this.type = QualifiedType.of(type, qualifiers);
+---
+>         this.type =  QualifiedType.of(type, qualifiers);

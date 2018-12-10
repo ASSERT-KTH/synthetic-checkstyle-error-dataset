@@ -1,0 +1,5 @@
+60c60,61
+<                     .map(arrayType -> new SqlArrayArgument<>(arrayType, value));
+---
+>                     .map(arrayType -> new 
+> SqlArrayArgument<>(arrayType, value));

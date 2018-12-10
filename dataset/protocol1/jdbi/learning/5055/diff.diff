@@ -1,0 +1,4 @@
+16c16
+< import org.jdbi.v3.sqlobject.customizer.internal.BindMethodsListFactory;
+---
+> import org. jdbi.v3.sqlobject.customizer.internal.BindMethodsListFactory;

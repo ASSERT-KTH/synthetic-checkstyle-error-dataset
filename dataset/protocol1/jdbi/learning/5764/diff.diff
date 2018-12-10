@@ -1,0 +1,4 @@
+159c159
+<     public Object getColumn(int column, Type type) {
+---
+>     public Object getColumn	(int column, Type type) {

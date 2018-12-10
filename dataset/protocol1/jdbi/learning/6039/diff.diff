@@ -1,0 +1,4 @@
+26c26
+<         if (!nameFromAnnotation.isEmpty()) {
+---
+>         if (!nameFromAnnotation. isEmpty()) {

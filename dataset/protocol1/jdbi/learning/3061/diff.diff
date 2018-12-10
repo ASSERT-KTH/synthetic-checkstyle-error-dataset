@@ -1,0 +1,4 @@
+63c63
+<     private boolean looksLikeSqlObject(Class<?> extensionType) {
+---
+>     private boolean looksLikeSqlObject(Class<?	> extensionType) {

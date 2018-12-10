@@ -1,0 +1,5 @@
+103c103,104
+<             if (t instanceof SQLException) {
+---
+>             if 
+> (t instanceof SQLException) {

@@ -1,0 +1,4 @@
+354c354
+<                     Type[] upperBounds = wildcardType.getUpperBounds();
+---
+>                     Type[] upperBounds = wildcardType.getUpperBounds()	;

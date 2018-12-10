@@ -1,0 +1,4 @@
+33c33
+<     public ClasspathBuilder setExtension(@Nullable String extension) {
+---
+>     public ClasspathBuilder setExtension(@Nullable String extension)  {

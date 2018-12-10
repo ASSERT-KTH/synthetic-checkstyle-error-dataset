@@ -1,0 +1,5 @@
+54c54,55
+<         getBinding().addPositional(position, new OutParamArgument(sqlType, mapper, null));
+---
+>         getBinding().addPositional(position
+> , new OutParamArgument(sqlType, mapper, null));

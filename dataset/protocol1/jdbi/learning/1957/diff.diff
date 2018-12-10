@@ -1,0 +1,4 @@
+23c23
+< import org.jdbi.v3.sqlobject.config.internal.RegisterFieldMapperImpl;
+---
+> import org.jdbi.v3.sqlobject.config.internal.RegisterFieldMapperImpl	;

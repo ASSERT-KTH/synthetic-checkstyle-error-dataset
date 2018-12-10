@@ -1,0 +1,4 @@
+74c74
+<         final Connection conn = handle.getConnection();
+---
+>         final Connection conn = handle.getConnection() ;

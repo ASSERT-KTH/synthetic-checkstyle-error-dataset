@@ -1,0 +1,4 @@
+58c58
+<     private ClasspathBuilder addCarefully(@Nullable String part) {
+---
+>     private ClasspathBuilder addCarefully(@Nullable String part ) {

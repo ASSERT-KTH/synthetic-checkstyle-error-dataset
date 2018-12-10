@@ -1,0 +1,4 @@
+119c119
+<         public Builder append(String sqlFragment) {
+---
+>         public  Builder append(String sqlFragment) {

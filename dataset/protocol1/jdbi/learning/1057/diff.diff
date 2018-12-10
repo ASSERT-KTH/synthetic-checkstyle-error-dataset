@@ -1,0 +1,4 @@
+42c42
+<             throw new IllegalStateException("inconsistent SqlStatement hierarchy");
+---
+>             throw  new IllegalStateException("inconsistent SqlStatement hierarchy");

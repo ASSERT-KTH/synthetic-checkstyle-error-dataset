@@ -1,0 +1,4 @@
+47c47
+<                 throw new UnableToCreateStatementException("Exception while binding positional param at (0 based) position " + i, e, context);
+---
+>                 throw new UnableToCreateStatementException("Exception while binding positional param at (0 based) position " + i, e, context) ;

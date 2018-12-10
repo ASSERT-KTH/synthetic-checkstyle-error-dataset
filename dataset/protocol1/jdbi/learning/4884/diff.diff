@@ -1,0 +1,4 @@
+24c24
+<         register(java.sql.Date.class, Types.DATE, PreparedStatement::setDate);
+---
+>         register(java.sql.Date.class, Types.DATE, PreparedStatement::setDate) ;

@@ -1,0 +1,4 @@
+22c22
+< public class SqlObjectPlugin implements JdbiPlugin {
+---
+> 	public class SqlObjectPlugin implements JdbiPlugin {

@@ -1,0 +1,5 @@
+99c99,100
+<             throw new IllegalArgumentException(type + " may have at most one constructor annotated @ConstructorProperties");
+---
+>             throw new IllegalArgumentException
+> (type + " may have at most one constructor annotated @ConstructorProperties");

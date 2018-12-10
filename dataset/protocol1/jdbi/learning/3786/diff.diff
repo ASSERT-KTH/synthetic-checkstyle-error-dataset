@@ -1,0 +1,5 @@
+34,35c34
+<         Stream.of(registerRowMappers.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));
+<     }
+---
+>         Stream.of(registerRowMappers.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));    }

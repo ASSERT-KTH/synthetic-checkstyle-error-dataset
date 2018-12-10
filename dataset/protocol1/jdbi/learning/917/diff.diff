@@ -1,0 +1,4 @@
+44c44
+<         mappers.put(InetAddress.class, InternetMapperFactory::getInetAddress);
+---
+>         mappers.put(InetAddress.class, InternetMapperFactory::getInetAddress)	;

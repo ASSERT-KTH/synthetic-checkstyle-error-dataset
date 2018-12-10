@@ -1,0 +1,4 @@
+36c36
+<         final BindBeanList bindBeanList = (BindBeanList) annotation;
+---
+>         	final BindBeanList bindBeanList = (BindBeanList) annotation;

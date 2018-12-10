@@ -1,0 +1,4 @@
+50c50
+<     Collector<?, ?, ?> build(Type containerType);
+---
+>     	Collector<?, ?, ?> build(Type containerType);

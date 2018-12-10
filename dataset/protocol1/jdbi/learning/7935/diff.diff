@@ -1,0 +1,4 @@
+72c72
+<     public Object getRow(Type type) {
+---
+>     public Object getRow(Type type	) {

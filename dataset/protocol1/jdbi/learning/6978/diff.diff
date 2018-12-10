@@ -1,0 +1,4 @@
+29c29
+<         stringSetter.bind(p, index, String.valueOf(value));
+---
+>         stringSetter.bind(p,  index, String.valueOf(value));

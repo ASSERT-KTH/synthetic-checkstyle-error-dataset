@@ -1,0 +1,4 @@
+73c73
+<     public <T> RowMappers register(GenericType<T> type, RowMapper<T> mapper) {
+---
+>     public <T> RowMappers register(GenericType	<T> type, RowMapper<T> mapper) {

@@ -1,0 +1,4 @@
+50c50
+<             HandleCallback<Object, Exception> callback = th -> base.invoke(target, args, handle);
+---
+>             HandleCallback<Object , Exception> callback = th -> base.invoke(target, args, handle);

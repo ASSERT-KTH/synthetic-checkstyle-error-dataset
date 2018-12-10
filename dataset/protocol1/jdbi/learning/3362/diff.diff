@@ -1,0 +1,4 @@
+38c38
+<     private final Map<String, ParsedSql> cache = Collections.synchronizedMap(new WeakHashMap<>());
+---
+>     private final Map<String, ParsedSql> cache = Collections.synchronizedMap(new WeakHashMap<> ());

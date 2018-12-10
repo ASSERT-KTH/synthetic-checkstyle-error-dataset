@@ -1,0 +1,5 @@
+40c40,41
+<         this.rowMappers = registry.get(RowMappers.class);
+---
+>         this.rowMappers = registry.get(RowMappers.class)
+> ;

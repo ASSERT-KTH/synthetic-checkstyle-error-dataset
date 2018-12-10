@@ -1,0 +1,4 @@
+30c30
+< @Target({ElementType.METHOD, ElementType.PARAMETER})
+---
+> @Target({ElementType.METHOD, ElementType.	PARAMETER})

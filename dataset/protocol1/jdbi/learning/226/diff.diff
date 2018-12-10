@@ -1,0 +1,4 @@
+307c307
+<     default This registerRowMapper(Type type, RowMapper<?> mapper) {
+---
+>     default This registerRowMapper(Type type , RowMapper<?> mapper) {

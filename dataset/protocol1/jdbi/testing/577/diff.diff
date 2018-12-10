@@ -1,0 +1,5 @@
+47,48c47
+<                     .filter(type -> type.isAnnotationPresent(SqlStatementCustomizingAnnotation.class))
+<                     .findFirst()
+---
+>                     .filter(type -> type.isAnnotationPresent(SqlStatementCustomizingAnnotation.class))                    .findFirst()

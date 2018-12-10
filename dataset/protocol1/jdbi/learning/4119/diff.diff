@@ -1,0 +1,4 @@
+48c48
+<             ResultReturner returner = ResultReturner.forMethod(sqlObjectType, method);
+---
+>             ResultReturner returner = ResultReturner.forMethod	(sqlObjectType, method);

@@ -1,0 +1,5 @@
+157c157,158
+<             handle.setTransactionIsolation(level);
+---
+>             handle.setTransactionIsolation(level)
+> ;

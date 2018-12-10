@@ -1,0 +1,5 @@
+33c33,34
+<         return (type, value, config) -> type.getQualifiers().equals(qualifiers)
+---
+>         
+> return (type, value, config) -> type.getQualifiers().equals(qualifiers)

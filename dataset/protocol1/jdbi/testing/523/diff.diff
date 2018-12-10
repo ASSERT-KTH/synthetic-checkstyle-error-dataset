@@ -1,0 +1,5 @@
+45,46c45
+<             Stream.of(parameter.getAnnotations())
+<                     .map(Annotation::annotationType)
+---
+>             Stream.of(parameter.getAnnotations())                    .map(Annotation::annotationType)

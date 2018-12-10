@@ -1,0 +1,4 @@
+108c108
+<             throw new ResultSetException("Unable to advance result set", e, context);
+---
+>             throw new ResultSetException(	"Unable to advance result set", e, context);

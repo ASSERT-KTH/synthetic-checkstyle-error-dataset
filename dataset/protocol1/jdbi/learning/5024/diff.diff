@@ -1,0 +1,5 @@
+27c27,28
+< import org.jdbi.v3.core.argument.internal.ObjectPropertyNamedArgumentFinder;
+---
+> import org.jdbi.v3.core.argument.internal.ObjectPropertyNamedArgumentFinder
+> ;

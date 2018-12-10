@@ -1,0 +1,4 @@
+29c29
+<         register(URI.class, Types.VARCHAR, new ToStringBinder<>(PreparedStatement::setString));
+---
+>         register(URI.class,Types.VARCHAR, new ToStringBinder<>(PreparedStatement::setString));

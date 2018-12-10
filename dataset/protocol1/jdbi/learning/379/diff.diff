@@ -1,0 +1,4 @@
+33c33
+<         this.elementType = findGenericParameter(arrayType.getClass(), SqlArrayType.class)
+---
+>         this.elementType = findGenericParameter(arrayType.getClass() , SqlArrayType.class)

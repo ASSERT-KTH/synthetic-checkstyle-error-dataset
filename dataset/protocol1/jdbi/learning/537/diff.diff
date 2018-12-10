@@ -1,0 +1,4 @@
+83c83
+<         return Number.class.isAssignableFrom(type)
+---
+>         return Number. class.isAssignableFrom(type)

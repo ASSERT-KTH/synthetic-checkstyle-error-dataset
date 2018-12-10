@@ -1,0 +1,4 @@
+95c95
+<     default <R, X extends Exception> R inTransaction(TransactionalCallback<R, This, X> callback) throws X {
+---
+>     default <R, X extends Exception> R inTransaction(TransactionalCallback<R, This,X> callback) throws X {

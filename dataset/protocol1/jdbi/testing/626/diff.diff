@@ -1,0 +1,4 @@
+26c26
+<     OptionalBuilder(Supplier<O> empty, Function<T, O> factory) {
+---
+>     OptionalBuilder(Supplier<O> empty, Function<T, O>  factory) {

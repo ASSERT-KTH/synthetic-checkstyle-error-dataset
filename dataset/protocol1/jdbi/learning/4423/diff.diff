@@ -1,0 +1,4 @@
+58c58
+<     public ReflectionMappers setColumnNameMatchers(List<ColumnNameMatcher> columnNameMatchers) {
+---
+>     public ReflectionMappers setColumnNameMatchers(List	<ColumnNameMatcher> columnNameMatchers) {

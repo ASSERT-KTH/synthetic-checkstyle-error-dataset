@@ -1,0 +1,4 @@
+43c43
+<     public static ArgumentFactory create(Class<?> type, Integer sqlType) {
+---
+>     public static ArgumentFactory create (Class<?> type, Integer sqlType) {

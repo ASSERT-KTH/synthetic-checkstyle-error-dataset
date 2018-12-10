@@ -1,0 +1,4 @@
+20c20
+<     private final Supplier<O> empty;
+---
+>     	private final Supplier<O> empty;

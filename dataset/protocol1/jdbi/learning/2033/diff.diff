@@ -1,0 +1,5 @@
+81,82c81
+<                     "@{0} value given on {1}:{2}({3}) is {4}, which is negative or 0. This makes no sense.",
+<                     MaxRows.class.getSimpleName(),
+---
+>                     "@{0} value given on {1}:{2}({3}) is {4}, which is negative or 0. This makes no sense.",                    MaxRows.class.getSimpleName(),

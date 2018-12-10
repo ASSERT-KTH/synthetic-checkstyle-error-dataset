@@ -1,0 +1,4 @@
+35c35
+<         registry.get(RowMappers.class).register(JoinRowMapper.forTypes(registerJoinRowMapper.value()));
+---
+>         registry.get(RowMappers.class).register(JoinRowMapper.forTypes(registerJoinRowMapper.	value()));

@@ -1,0 +1,4 @@
+24c24
+<         L oldContext = threadLocal.get();
+---
+>         L oldContext = threadLocal.get ();

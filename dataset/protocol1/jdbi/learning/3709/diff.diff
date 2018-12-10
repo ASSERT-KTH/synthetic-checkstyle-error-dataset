@@ -1,0 +1,4 @@
+39c39
+<         collectors.put(HashMap.class, toMap(HashMap::new));
+---
+>         collectors.put	(HashMap.class, toMap(HashMap::new));

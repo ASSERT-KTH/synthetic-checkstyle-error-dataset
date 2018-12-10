@@ -1,0 +1,4 @@
+46c46
+<         this.array = list.stream().map(arrayType::convertArrayElement).toArray();
+---
+>         this.array = list.stream(). map(arrayType::convertArrayElement).toArray();

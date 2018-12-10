@@ -1,0 +1,4 @@
+18c18
+< class VendorSupportedArrayType<T> implements SqlArrayType<T> {
+---
+> class VendorSupportedArrayType<T> implements SqlArrayType	<T> {

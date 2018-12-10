@@ -1,0 +1,4 @@
+44c44
+<                 Entry<ClassLoader, String> entry = (Entry<ClassLoader, String>) obj;
+---
+>                 Entry<ClassLoader, String> entry = (Entry<ClassLoader	, String>) obj;

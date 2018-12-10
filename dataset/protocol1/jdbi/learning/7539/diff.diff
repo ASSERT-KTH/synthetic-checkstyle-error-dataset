@@ -1,0 +1,5 @@
+55,56c55
+<         return Optional.of(sqlMethodAnnotations.stream()
+<                 .map(type -> type.getAnnotation(SqlOperation.class))
+---
+>         return Optional.of(sqlMethodAnnotations.stream()                .map(type -> type.getAnnotation(SqlOperation.class))

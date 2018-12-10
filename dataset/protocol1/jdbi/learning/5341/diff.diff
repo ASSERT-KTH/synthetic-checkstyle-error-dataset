@@ -1,0 +1,4 @@
+25c25
+<     private final Class<?> type;
+---
+>     private final Class <?> type;

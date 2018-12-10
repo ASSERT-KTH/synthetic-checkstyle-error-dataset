@@ -1,0 +1,5 @@
+21c21,22
+< import org.jdbi.v3.sqlobject.customizer.internal.QueryTimeOutFactory;
+---
+> import org.jdbi.v3.sqlobject.customizer.internal.QueryTimeOutFactory
+> ;

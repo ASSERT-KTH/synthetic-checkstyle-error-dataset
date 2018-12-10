@@ -1,0 +1,4 @@
+35c35
+<     void begin(Handle handle);
+---
+>     void begin(Handle handle)	;

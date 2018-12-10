@@ -1,0 +1,5 @@
+314c314,315
+<             for (Type t = arg; t != null; t = mappings.get(TypeVariableKey.forLookup(t))) {
+---
+>             for (Type t = 
+> arg; t != null; t = mappings.get(TypeVariableKey.forLookup(t))) {

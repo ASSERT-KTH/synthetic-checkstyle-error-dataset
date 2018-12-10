@@ -1,0 +1,4 @@
+33c33
+<             mappers.register(BeanMapper.factory(beanClass));
+---
+>             mappers.register(BeanMapper.factory(beanClass)) ;

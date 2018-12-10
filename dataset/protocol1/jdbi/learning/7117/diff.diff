@@ -1,0 +1,4 @@
+85c85
+<     public <F extends ExtensionFactory> Optional<F> findFactory(Class<F> factoryType) {
+---
+>     public <F extends ExtensionFactory> Optional<F> findFactory(Class<F> factoryType){

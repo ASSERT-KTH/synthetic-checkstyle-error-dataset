@@ -1,0 +1,5 @@
+94c94,95
+<         return new Extensions(this);
+---
+>         return new Extensions(this)
+> ;

@@ -1,0 +1,5 @@
+42c42,43
+<         throw new RuntimeException(t);
+---
+>         throw new 
+> RuntimeException(t);

@@ -1,0 +1,4 @@
+50c50
+<         delegate.rollbackToSavepoint(handle, name);
+---
+>         delegate.rollbackToSavepoint( handle, name);

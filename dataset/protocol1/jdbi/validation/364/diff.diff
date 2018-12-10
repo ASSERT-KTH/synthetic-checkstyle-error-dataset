@@ -1,0 +1,5 @@
+19c19,20
+< import static java.lang.String.format;
+---
+> import static java.lang.String.format
+> ;

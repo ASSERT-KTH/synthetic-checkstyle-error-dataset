@@ -1,0 +1,4 @@
+46c46
+<         throw new UnsupportedOperationException("Not supported for method");
+---
+>         throw new UnsupportedOperationException ("Not supported for method");

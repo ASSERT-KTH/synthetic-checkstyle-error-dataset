@@ -1,0 +1,4 @@
+24c24
+<         register(Short.class, Types.SMALLINT, PreparedStatement::setShort);
+---
+>         register(Short.class,  Types.SMALLINT, PreparedStatement::setShort);

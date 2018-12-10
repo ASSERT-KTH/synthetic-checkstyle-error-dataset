@@ -1,0 +1,4 @@
+41c41
+<             return t.toLowerCase(Locale.ROOT);
+---
+>             return t.toLowerCase( Locale.ROOT);

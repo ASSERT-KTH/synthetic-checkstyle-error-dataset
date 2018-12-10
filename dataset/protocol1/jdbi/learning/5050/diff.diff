@@ -1,0 +1,4 @@
+24c24
+<     private UnaryOperator<String> caseChange;
+---
+>     private UnaryOperator <String> caseChange;

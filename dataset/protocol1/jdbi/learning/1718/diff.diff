@@ -1,0 +1,4 @@
+36c36
+<     default void logAfterExecution(StatementContext context) {}
+---
+>     default void logAfterExecution(StatementContext context) {	}

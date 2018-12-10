@@ -1,0 +1,4 @@
+40c40
+<             Token t = lexer.nextToken();
+---
+>             	Token t = lexer.nextToken();

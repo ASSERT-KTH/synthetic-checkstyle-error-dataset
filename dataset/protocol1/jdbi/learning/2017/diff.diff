@@ -1,0 +1,4 @@
+141c141
+<         ColumnMapper<T> mapper = (ColumnMapper<T>) findFor((Type) type).orElse(null);
+---
+>         ColumnMapper	<T> mapper = (ColumnMapper<T>) findFor((Type) type).orElse(null);

@@ -1,0 +1,5 @@
+58c58,59
+<             Class<?> elementType = erasedType.getComponentType();
+---
+>             Class<?> elementType = erasedType.getComponentType
+> ();

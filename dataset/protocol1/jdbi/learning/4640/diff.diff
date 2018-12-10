@@ -1,0 +1,5 @@
+61c61,62
+<             final Box boxed = ((ColumnMapper<Box>) new GetterMapper<>(columnGetter)).map(r, columnNumber, ctx);
+---
+>             final Box boxed = ((ColumnMapper<Box>) new GetterMapper<>(columnGetter)).map(r, 
+> columnNumber, ctx);

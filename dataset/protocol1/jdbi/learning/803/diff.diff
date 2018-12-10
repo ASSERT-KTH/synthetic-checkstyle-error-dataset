@@ -1,0 +1,5 @@
+55,56c55
+<         return factories.stream()
+<                 .flatMap(factory -> toStream(factory.buildHandler(sqlObjectType, method)))
+---
+>         return factories.stream()                .flatMap(factory -> toStream(factory.buildHandler(sqlObjectType, method)))

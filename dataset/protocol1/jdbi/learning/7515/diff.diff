@@ -1,0 +1,4 @@
+58c58
+<                     sb.append(t.getText());
+---
+>                     sb.append(t.getText	());

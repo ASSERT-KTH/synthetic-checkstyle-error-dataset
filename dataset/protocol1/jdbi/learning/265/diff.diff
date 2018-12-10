@@ -1,0 +1,4 @@
+60c60
+<                 entries.put(type, mapper.map(r, ctx));
+---
+>                 entries.put(type, mapper.map(	r, ctx));

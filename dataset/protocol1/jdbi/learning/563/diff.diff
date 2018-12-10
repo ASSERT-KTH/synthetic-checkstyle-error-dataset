@@ -1,0 +1,4 @@
+38c38
+<                 return IntStream.range(0, method.getParameterCount())
+---
+>                 return IntStream.range(0,  method.getParameterCount())

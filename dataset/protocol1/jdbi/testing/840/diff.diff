@@ -1,0 +1,4 @@
+268c268
+<     private static final class TypeMappingIntrospector extends TypeVisitor {
+---
+>     	private static final class TypeMappingIntrospector extends TypeVisitor {

@@ -1,0 +1,4 @@
+38c38
+<         Bind b = (Bind) annotation;
+---
+>         Bind b = (Bind) annotation	;

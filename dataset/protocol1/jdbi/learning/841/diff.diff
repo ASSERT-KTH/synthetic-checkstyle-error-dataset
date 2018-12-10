@@ -1,0 +1,4 @@
+35c35
+<             mappers.register(BeanMapper.factory(beanClass, prefix));
+---
+>             mappers.register( BeanMapper.factory(beanClass, prefix));

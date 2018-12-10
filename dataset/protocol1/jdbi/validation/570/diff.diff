@@ -1,0 +1,4 @@
+47c47
+<                 () -> Optional.ofNullable(method.getAnnotation(SqlBatch.class)).map(SqlBatch::value).map(resolveSql).filter(nonEmpty),
+---
+>                 () -> Optional.ofNullable(method.getAnnotation(SqlBatch.class)).map	(SqlBatch::value).map(resolveSql).filter(nonEmpty),

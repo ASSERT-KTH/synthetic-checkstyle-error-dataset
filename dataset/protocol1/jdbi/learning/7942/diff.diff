@@ -1,0 +1,4 @@
+64c64
+<         this.registry = registry;
+---
+>         this.registry = registry ;

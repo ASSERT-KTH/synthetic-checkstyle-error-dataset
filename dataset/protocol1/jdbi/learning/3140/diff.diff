@@ -1,0 +1,4 @@
+119c119
+<         private static List<String> getMapKeys(ResultSetMetaData meta, UnaryOperator<String> caseChange) throws SQLException {
+---
+>         private static List<String> getMapKeys (ResultSetMetaData meta, UnaryOperator<String> caseChange) throws SQLException {

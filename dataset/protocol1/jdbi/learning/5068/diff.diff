@@ -1,0 +1,4 @@
+49c49
+<     public List<ColumnNameMatcher> getColumnNameMatchers() {
+---
+>     public  List<ColumnNameMatcher> getColumnNameMatchers() {

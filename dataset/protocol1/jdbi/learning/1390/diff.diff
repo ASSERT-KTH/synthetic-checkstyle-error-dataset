@@ -1,0 +1,4 @@
+43c43
+<         mappers.put(boolean.class, primitiveMapper(ResultSet::getBoolean));
+---
+>         mappers.put(boolean.class , primitiveMapper(ResultSet::getBoolean));

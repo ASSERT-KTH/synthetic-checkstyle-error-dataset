@@ -1,0 +1,4 @@
+28c28
+<         db.setSqlArrayArgumentStrategy(SqlArrayArgumentStrategy.OBJECT_ARRAY);
+---
+>         db.setSqlArrayArgumentStrategy(SqlArrayArgumentStrategy. OBJECT_ARRAY);

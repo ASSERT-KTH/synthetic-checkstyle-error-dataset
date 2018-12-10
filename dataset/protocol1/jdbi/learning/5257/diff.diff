@@ -1,0 +1,4 @@
+33c33
+<             public void beforeExecution(final PreparedStatement stmt, final StatementContext ctx) throws SQLException {
+---
+>             public void beforeExecution(final PreparedStatement  stmt, final StatementContext ctx) throws SQLException {

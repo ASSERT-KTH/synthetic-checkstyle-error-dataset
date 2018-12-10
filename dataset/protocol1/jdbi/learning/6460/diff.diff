@@ -1,0 +1,4 @@
+56c56
+<         return containerType instanceof Class ? COLLECTORS.get(containerType) : null;
+---
+>         return containerType instanceof Class  ? COLLECTORS.get(containerType) : null;

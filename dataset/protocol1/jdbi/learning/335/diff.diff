@@ -1,0 +1,4 @@
+29c29
+<         registry.get(MapEntryMappers.class).setKeyColumn(name.isEmpty() ? null : name);
+---
+>         registry.get(MapEntryMappers.class).setKeyColumn(name.isEmpty() ? null :name);

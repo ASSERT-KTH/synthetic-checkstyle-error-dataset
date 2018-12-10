@@ -1,0 +1,4 @@
+142c142
+<         return StreamSupport.stream(spliteratorUnknownSize(iterator, 0), false)
+---
+>         return StreamSupport.	stream(spliteratorUnknownSize(iterator, 0), false)

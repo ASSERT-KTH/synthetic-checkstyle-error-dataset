@@ -1,0 +1,5 @@
+24c24,25
+<     private final Object[] lock = new Object[0];
+---
+>     private final Object[] 
+> lock = new Object[0];

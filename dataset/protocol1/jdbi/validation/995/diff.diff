@@ -1,0 +1,4 @@
+42c42
+<                 } else if (type instanceof WildcardType) {
+---
+>                 } else if (type instanceof WildcardType)  {

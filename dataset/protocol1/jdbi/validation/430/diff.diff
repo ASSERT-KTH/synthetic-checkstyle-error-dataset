@@ -1,0 +1,5 @@
+70,71c70
+<     void visitWildcardType(WildcardType t) {}
+< }
+---
+>     void visitWildcardType(WildcardType t) {}}

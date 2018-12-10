@@ -1,0 +1,4 @@
+264c264
+<             Collector collector = ctx.findCollectorFor(returnType.getType()).orElse(null);
+---
+>             Collector collector = ctx.findCollectorFor(returnType.getType()).orElse(null) ;

@@ -1,0 +1,4 @@
+33c33
+< public class ColumnMappers implements JdbiConfig<ColumnMappers> {
+---
+> public class  ColumnMappers implements JdbiConfig<ColumnMappers> {

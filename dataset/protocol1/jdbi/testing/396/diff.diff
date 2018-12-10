@@ -1,0 +1,5 @@
+26c26,27
+<     public JdbiException(String message, Throwable cause) {
+---
+>     public 
+> JdbiException(String message, Throwable cause) {

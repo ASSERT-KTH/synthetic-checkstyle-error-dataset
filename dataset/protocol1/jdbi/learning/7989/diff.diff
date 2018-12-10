@@ -1,0 +1,4 @@
+465c465
+<         return bind(position, new InputStreamArgument(value, length, false));
+---
+>         return bind(position, new InputStreamArgument	(value, length, false));

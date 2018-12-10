@@ -1,0 +1,4 @@
+26c26
+<         this.binder = binder;
+---
+>         this.binder= binder;

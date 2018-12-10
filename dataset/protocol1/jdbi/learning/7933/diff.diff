@@ -1,0 +1,5 @@
+40c40,41
+<     private Argument untypedNullArgument = new NullArgument(Types.OTHER);
+---
+>     private Argument untypedNullArgument 
+> = new NullArgument(Types.OTHER);

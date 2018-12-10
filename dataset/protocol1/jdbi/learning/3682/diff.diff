@@ -1,0 +1,4 @@
+41c41
+<         register(new JavaTimeMapperFactory());
+---
+>         register(new JavaTimeMapperFactory()) ;

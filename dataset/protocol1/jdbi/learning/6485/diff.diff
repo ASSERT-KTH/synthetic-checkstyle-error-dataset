@@ -1,0 +1,4 @@
+97c97
+<     public ColumnMappers register(Type type, ColumnMapper<?> mapper) {
+---
+>     public ColumnMappers register(Type  type, ColumnMapper<?> mapper) {

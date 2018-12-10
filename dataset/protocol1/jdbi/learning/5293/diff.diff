@@ -1,0 +1,4 @@
+26c26
+< public class SqlQueryHandler extends CustomizingStatementHandler<Query> {
+---
+> public class SqlQueryHandler extends CustomizingStatementHandler<Query > {

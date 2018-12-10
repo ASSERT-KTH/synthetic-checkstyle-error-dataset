@@ -1,0 +1,4 @@
+25c25
+<         register(String.class, Types.VARCHAR, PreparedStatement::setString);
+---
+>         register (String.class, Types.VARCHAR, PreparedStatement::setString);

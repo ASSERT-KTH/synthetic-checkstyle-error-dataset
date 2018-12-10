@@ -1,0 +1,5 @@
+14c14,15
+< package org.jdbi.v3.core.collector;
+---
+> package org.jdbi.v3.core.collector
+> ;

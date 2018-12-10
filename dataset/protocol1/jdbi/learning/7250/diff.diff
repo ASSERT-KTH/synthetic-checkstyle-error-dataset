@@ -1,0 +1,5 @@
+29c29,30
+<     private ParsedSql(String sql, ParsedParameters parameters) {
+---
+>     private ParsedSql(String sql, 
+> ParsedParameters parameters) {

@@ -1,0 +1,5 @@
+22,23c22
+< public class JavaTimeZoneIdArgumentFactory extends AbstractArgumentFactory<ZoneId> {
+<     public JavaTimeZoneIdArgumentFactory() {
+---
+> public class JavaTimeZoneIdArgumentFactory extends AbstractArgumentFactory<ZoneId> {    public JavaTimeZoneIdArgumentFactory() {

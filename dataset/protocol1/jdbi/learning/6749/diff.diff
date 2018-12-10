@@ -1,0 +1,4 @@
+69c69
+<             Map<String, Object> row = new LinkedHashMap<>(columnNames.size());
+---
+>             Map<String, Object> row = new LinkedHashMap<>(columnNames.size())	;

@@ -1,0 +1,4 @@
+76c76
+<                     .orElseThrow(() -> new NoSuchMapperException("No column mapper registered for map key " + keyType + " in column " + column));
+---
+>                     . orElseThrow(() -> new NoSuchMapperException("No column mapper registered for map key " + keyType + " in column " + column));

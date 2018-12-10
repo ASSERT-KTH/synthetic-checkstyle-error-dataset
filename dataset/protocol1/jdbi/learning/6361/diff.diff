@@ -1,0 +1,5 @@
+24c24,25
+< public interface ExtensionCallback<R, E, X extends Exception> {
+---
+> public interface ExtensionCallback<R, E
+> , X extends Exception> {

@@ -1,0 +1,4 @@
+39c39
+<             stmt.setObject(pos, value, sqlType);
+---
+>             	stmt.setObject(pos, value, sqlType);

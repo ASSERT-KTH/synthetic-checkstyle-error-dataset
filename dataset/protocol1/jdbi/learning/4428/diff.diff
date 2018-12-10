@@ -1,0 +1,4 @@
+186c186
+<                             .map(m -> m.getParameterCount() > 0 ? m.getParameters()[0] : null)
+---
+>                             .map(m -> m.getParameterCount() > 0 ?  m.getParameters()[0] : null)

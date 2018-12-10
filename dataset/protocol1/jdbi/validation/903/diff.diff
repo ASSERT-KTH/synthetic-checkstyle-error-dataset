@@ -1,0 +1,4 @@
+23c23
+< @ConfiguringAnnotation(RegisterBeanMappersImpl.class)
+---
+> @	ConfiguringAnnotation(RegisterBeanMappersImpl.class)

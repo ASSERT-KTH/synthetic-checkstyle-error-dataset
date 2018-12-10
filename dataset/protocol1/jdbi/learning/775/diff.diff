@@ -1,0 +1,5 @@
+43,44c43
+<         .entryLoader(ObjectMethodArguments::load)
+<         .build();
+---
+>         .entryLoader(ObjectMethodArguments::load)        .build();

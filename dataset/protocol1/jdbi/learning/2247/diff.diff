@@ -1,0 +1,4 @@
+37c37
+<             throw new IllegalArgumentException("@SqlCall methods may only return null or OutParameters at present");
+---
+>             throw new  IllegalArgumentException("@SqlCall methods may only return null or OutParameters at present");

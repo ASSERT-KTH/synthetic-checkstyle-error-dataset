@@ -1,0 +1,4 @@
+26c26
+<         register(UUID.class, Types.VARCHAR, PreparedStatement::setObject);
+---
+>         register(UUID.class, Types.VARCHAR	, PreparedStatement::setObject);

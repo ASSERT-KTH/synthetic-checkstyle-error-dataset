@@ -1,0 +1,4 @@
+35c35
+<             arguments.register(ObjectArgumentFactory.create(clazz));
+---
+>             arguments.register(ObjectArgumentFactory.create(clazz	));

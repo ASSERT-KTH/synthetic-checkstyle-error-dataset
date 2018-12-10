@@ -1,0 +1,4 @@
+63c63
+<     void savepoint(Handle handle, String savepointName);
+---
+>     void savepoint(Handle handle, String savepointName	);

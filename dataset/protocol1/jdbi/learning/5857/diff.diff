@@ -1,0 +1,4 @@
+45c45
+<                 throw new UnsupportedOperationException("@MapTo must take a GenericType, QualifiedType, or Type, but got a " + arg.getClass().getName());
+---
+>                 throw new UnsupportedOperationException("@MapTo must take a GenericType, QualifiedType, or Type, but got a " + arg.getClass().getName()	);

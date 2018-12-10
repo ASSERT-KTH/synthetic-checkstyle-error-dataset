@@ -1,0 +1,5 @@
+25c25,26
+<     public static <K, V, M extends Map<K, V>> Collector<Map.Entry<K, V>, ?, M> toMap(Supplier<M> mapFactory) {
+---
+>     public static <K, V, M extends Map<K, V>> Collector<Map.Entry<K, V>
+> , ?, M> toMap(Supplier<M> mapFactory) {

@@ -1,0 +1,5 @@
+44c44,45
+<         ThreadLocal<E> threadExtension = new ThreadLocal<>();
+---
+>         ThreadLocal<E> threadExtension 
+> = new ThreadLocal<>();

@@ -1,0 +1,4 @@
+54c54
+<                 statement.setBinaryStream(position, value, length);
+---
+>                 statement.setBinaryStream(position, value, length );

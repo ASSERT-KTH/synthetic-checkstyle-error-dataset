@@ -1,0 +1,4 @@
+31c31
+< @SqlStatementCustomizingAnnotation(MaxRowsFactory.class)
+---
+> @SqlStatementCustomizingAnnotation(MaxRowsFactory.class	)

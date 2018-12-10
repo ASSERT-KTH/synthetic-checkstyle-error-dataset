@@ -1,0 +1,5 @@
+37c37,38
+<     public static void checkState(boolean expression, String errorMessageTemplate, Object... errorMessageArgs) {
+---
+>     public static void checkState(boolean expression, 
+> String errorMessageTemplate, Object... errorMessageArgs) {

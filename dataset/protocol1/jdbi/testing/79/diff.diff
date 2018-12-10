@@ -1,0 +1,4 @@
+41c41
+<         collectors.put(TreeSet.class, toCollection(TreeSet::new));
+---
+>         collectors.put(TreeSet.class, toCollection(TreeSet::new	));

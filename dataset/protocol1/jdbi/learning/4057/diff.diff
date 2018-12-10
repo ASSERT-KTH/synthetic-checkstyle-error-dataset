@@ -1,0 +1,5 @@
+86c86,87
+<     static Class<?> getArrayClass(Class<?> componentType) {
+---
+>     static 
+> Class<?> getArrayClass(Class<?> componentType) {

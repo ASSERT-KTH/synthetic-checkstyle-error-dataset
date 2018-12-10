@@ -1,0 +1,4 @@
+35c35
+<     Handler decorateHandler(Handler base, Class<?> sqlObjectType, Method method);
+---
+>     Handler decorateHandler (Handler base, Class<?> sqlObjectType, Method method);

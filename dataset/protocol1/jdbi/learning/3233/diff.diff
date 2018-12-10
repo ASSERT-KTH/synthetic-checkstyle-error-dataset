@@ -1,0 +1,5 @@
+61c61,62
+<         final GetGeneratedKeys getGeneratedKeys = method.getAnnotation(GetGeneratedKeys.class);
+---
+>         final GetGeneratedKeys getGeneratedKeys = method.getAnnotation(GetGeneratedKeys.class)
+> ;

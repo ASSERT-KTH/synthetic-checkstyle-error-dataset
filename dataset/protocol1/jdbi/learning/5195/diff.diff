@@ -1,0 +1,4 @@
+63c63
+<     public <T> T getRow(GenericType<T> rowType) {
+---
+>     public <T> T getRow	(GenericType<T> rowType) {

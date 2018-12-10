@@ -1,0 +1,4 @@
+23c23
+< import static org.jdbi.v3.core.internal.lexer.HashStatementLexer.QUOTED_TEXT;
+---
+> import  static org.jdbi.v3.core.internal.lexer.HashStatementLexer.QUOTED_TEXT;

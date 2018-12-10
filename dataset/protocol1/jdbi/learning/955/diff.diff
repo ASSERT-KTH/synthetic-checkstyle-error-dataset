@@ -1,0 +1,4 @@
+25c25
+< abstract class BaseStatement<This> implements Closeable, Configurable<This> {
+---
+> abstract class BaseStatement<This> implements Closeable	, Configurable<This> {

@@ -1,0 +1,4 @@
+38c38
+<         return Modifier.isStatic(method.getModifiers())
+---
+>         return Modifier.isStatic (method.getModifiers())

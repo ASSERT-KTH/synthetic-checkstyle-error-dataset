@@ -1,0 +1,4 @@
+85c85
+<         RowMapper<?> mapper = ctx.findRowMapperFor(type)
+---
+>         RowMapper<? > mapper = ctx.findRowMapperFor(type)

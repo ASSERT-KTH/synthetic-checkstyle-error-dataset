@@ -1,0 +1,5 @@
+24c24,25
+<     public static <T> Stream<T> toStream(Optional<T> optional) {
+---
+>     public 
+> static <T> Stream<T> toStream(Optional<T> optional) {

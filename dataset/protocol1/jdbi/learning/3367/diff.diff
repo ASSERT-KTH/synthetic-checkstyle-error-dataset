@@ -1,0 +1,4 @@
+50c50
+<     public <C extends JdbiConfig<C>> C get(Class<C> configClass) {
+---
+>     public <	C extends JdbiConfig<C>> C get(Class<C> configClass) {

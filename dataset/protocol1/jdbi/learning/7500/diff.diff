@@ -1,0 +1,4 @@
+36c36
+<         this.toString = toString;
+---
+>         this.toString= toString;

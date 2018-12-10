@@ -1,0 +1,4 @@
+41c41
+<         QualifiedType qualifiedType = QualifiedType.of(type, getQualifiers(param));
+---
+>         QualifiedType qualifiedType =QualifiedType.of(type, getQualifiers(param));

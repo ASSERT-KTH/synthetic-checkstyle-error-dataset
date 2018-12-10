@@ -1,0 +1,5 @@
+132c132,133
+<             throw new IllegalArgumentException(String.format("Parameter at %d is not byte[] but %s", pos, obj.getClass()));
+---
+>             throw new 
+> IllegalArgumentException(String.format("Parameter at %d is not byte[] but %s", pos, obj.getClass()));

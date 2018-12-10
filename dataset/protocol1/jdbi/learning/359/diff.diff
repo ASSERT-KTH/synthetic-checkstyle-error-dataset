@@ -1,0 +1,4 @@
+40c40
+<     public SingleColumnMapper(ColumnMapper<T> mapper, int columnNumber) {
+---
+>     public SingleColumnMapper(ColumnMapper<T> mapper , int columnNumber) {

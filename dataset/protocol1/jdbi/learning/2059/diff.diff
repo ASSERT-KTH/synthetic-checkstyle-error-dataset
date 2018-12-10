@@ -1,0 +1,4 @@
+35c35
+<             expectedClass = value.getClass();
+---
+>             expectedClass = value.getClass() ;

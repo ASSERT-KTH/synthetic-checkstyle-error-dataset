@@ -1,0 +1,4 @@
+34c34
+<     SqlArrayArgument(SqlArrayType<T> arrayType, Object newArray) {
+---
+>     SqlArrayArgument (SqlArrayType<T> arrayType, Object newArray) {

@@ -1,0 +1,4 @@
+62c62
+<                 throw new UnsupportedOperationException("Unknown array argument style " + argumentStyle);
+---
+>                 throw new UnsupportedOperationException("Unknown array argument style "+ argumentStyle);

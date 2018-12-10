@@ -1,0 +1,4 @@
+53c53
+<             throw new IllegalArgumentException(type + " may have at most one constructor or static factory method annotated @JdbiConstructor");
+---
+>             throw new IllegalArgumentException	(type + " may have at most one constructor or static factory method annotated @JdbiConstructor");

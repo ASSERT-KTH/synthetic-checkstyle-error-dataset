@@ -1,0 +1,4 @@
+29c29
+< @ConfiguringAnnotation(UseAnnotationSqlLocatorImpl.class)
+---
+> @ConfiguringAnnotation( UseAnnotationSqlLocatorImpl.class)

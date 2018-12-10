@@ -1,0 +1,4 @@
+23c23
+< abstract class InstanceFactory<T> {
+---
+> abstract class InstanceFactory<	T> {

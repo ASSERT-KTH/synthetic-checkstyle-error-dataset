@@ -1,0 +1,4 @@
+44c44
+<         List<Constructor<T>> explicitConstructors = Stream.of(constructors)
+---
+>         List< Constructor<T>> explicitConstructors = Stream.of(constructors)

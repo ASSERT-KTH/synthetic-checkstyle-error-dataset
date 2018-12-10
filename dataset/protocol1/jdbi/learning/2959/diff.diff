@@ -1,0 +1,4 @@
+51c51
+<     static RowMapperFactory factory() {
+---
+>     static RowMapperFactory factory(){

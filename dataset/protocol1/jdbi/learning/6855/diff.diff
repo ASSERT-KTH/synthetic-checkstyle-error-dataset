@@ -1,0 +1,4 @@
+91c91
+<     protected abstract Argument build(T value, ConfigRegistry config);
+---
+>     protected abstract Argument build(T value	, ConfigRegistry config);

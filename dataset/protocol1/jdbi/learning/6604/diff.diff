@@ -1,0 +1,5 @@
+40c40,41
+<                 p.setNull(i, Types.BIGINT);
+---
+>                 p.setNull(i
+> , Types.BIGINT);

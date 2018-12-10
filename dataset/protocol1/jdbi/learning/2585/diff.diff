@@ -1,0 +1,4 @@
+27c27
+<         caseChange = CaseStrategy.LOCALE_LOWER;
+---
+>         caseChange = CaseStrategy. LOCALE_LOWER;

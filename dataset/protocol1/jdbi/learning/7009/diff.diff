@@ -1,0 +1,5 @@
+48c48,49
+<                 return statementSupplier.get().getUpdateCount();
+---
+>                 return statementSupplier.get().getUpdateCount
+> ();

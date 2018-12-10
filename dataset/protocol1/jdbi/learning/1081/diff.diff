@@ -1,0 +1,5 @@
+15c15,16
+< package org.jdbi.v3.lib.internal.com_google_guava.guava.v21_0;
+---
+> package 
+> org.jdbi.v3.lib.internal.com_google_guava.guava.v21_0;

@@ -1,0 +1,5 @@
+70,71c70
+<                     .findFor(keyType)
+<                     .orElseThrow(() -> new NoSuchMapperException("No row mapper registered for map key " + keyType));
+---
+>                     .findFor(keyType)                    .orElseThrow(() -> new NoSuchMapperException("No row mapper registered for map key " + keyType));

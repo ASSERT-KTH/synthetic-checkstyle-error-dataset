@@ -1,0 +1,4 @@
+63c63
+<     public static Optional<Type> findGenericParameter(Type type, Class<?> parameterizedSupertype) {
+---
+>     public static Optional< Type> findGenericParameter(Type type, Class<?> parameterizedSupertype) {

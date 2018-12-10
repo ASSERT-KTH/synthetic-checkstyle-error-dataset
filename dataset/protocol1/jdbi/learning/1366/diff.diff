@@ -1,0 +1,4 @@
+38c38
+<         return AnnotationFactory.create(NVarchar.class);
+---
+>         return AnnotationFactory.create (NVarchar.class);

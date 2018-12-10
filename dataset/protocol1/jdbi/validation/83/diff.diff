@@ -1,0 +1,5 @@
+57c57,58
+<     default <X extends Exception> void useHandle(HandleConsumer<X> consumer) throws X {
+---
+>     
+> default <X extends Exception> void useHandle(HandleConsumer<X> consumer) throws X {

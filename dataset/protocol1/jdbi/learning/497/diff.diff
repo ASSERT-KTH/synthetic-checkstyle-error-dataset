@@ -1,0 +1,4 @@
+34c34
+<             registry.get(RowMappers.class).register(registerRowMapper.value().newInstance());
+---
+>             registry.get(RowMappers.class).register(registerRowMapper.value().newInstance() );

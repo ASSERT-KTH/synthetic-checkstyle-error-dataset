@@ -1,0 +1,5 @@
+31c31,32
+<     private final Object[] array;
+---
+>     private 
+> final Object[] array;

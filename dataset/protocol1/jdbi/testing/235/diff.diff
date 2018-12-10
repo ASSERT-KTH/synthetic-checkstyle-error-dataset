@@ -1,0 +1,5 @@
+49c49,50
+<                         .map(elementMapper -> new CollectorColumnMapper(elementMapper, collector)));
+---
+>                         .map(elementMapper -> new 
+> CollectorColumnMapper(elementMapper, collector)));

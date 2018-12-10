@@ -1,0 +1,4 @@
+63c63
+<     public void setRegistry(ConfigRegistry registry) {
+---
+>     public void setRegistry(	ConfigRegistry registry) {

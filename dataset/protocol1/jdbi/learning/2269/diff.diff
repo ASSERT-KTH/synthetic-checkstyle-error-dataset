@@ -1,0 +1,5 @@
+26c26,27
+<     protected InstanceFactory(Executable executable) {
+---
+>     
+> protected InstanceFactory(Executable executable) {

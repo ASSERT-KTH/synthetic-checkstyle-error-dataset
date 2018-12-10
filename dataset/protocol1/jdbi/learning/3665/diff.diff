@@ -1,0 +1,4 @@
+56c56
+<         } else if (iterable instanceof Iterable<?>) {
+---
+>         } else if ( iterable instanceof Iterable<?>) {

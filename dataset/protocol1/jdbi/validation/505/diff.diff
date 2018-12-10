@@ -1,0 +1,5 @@
+54c54,55
+<                             throw new UnableToCreateStatementException("Undefined attribute for token '" + text + "'", ctx);
+---
+>                             throw new UnableToCreateStatementException("Undefined attribute for token '" + text + "'"
+> , ctx);

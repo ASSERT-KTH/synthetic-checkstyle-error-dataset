@@ -1,0 +1,5 @@
+25,26c25
+<         return getErasedType(containerType).isArray();
+<     }
+---
+>         return getErasedType(containerType).isArray();    }

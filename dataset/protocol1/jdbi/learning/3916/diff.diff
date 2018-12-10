@@ -1,0 +1,4 @@
+30c30
+<         Type returnType = GenericTypes.resolveType(method.getGenericReturnType(), sqlObjectType);
+---
+>         Type returnType = GenericTypes.resolveType(method. getGenericReturnType(), sqlObjectType);

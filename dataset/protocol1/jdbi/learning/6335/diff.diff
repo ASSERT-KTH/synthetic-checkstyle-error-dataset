@@ -1,0 +1,4 @@
+24c24
+<     public void customizeJdbi(Jdbi db) {
+---
+>     public void customizeJdbi(Jdbi db)  {

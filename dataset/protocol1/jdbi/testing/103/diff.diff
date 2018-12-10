@@ -1,0 +1,5 @@
+50c50,51
+<         List<HandlerDecorator> decorators = annotationTypes.stream()
+---
+>         List<HandlerDecorator> 
+> decorators = annotationTypes.stream()

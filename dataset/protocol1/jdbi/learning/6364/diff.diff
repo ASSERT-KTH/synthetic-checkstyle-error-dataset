@@ -1,0 +1,4 @@
+39c39
+<         String prefix = annotation.value().isEmpty() ? "" : annotation.value() + ".";
+---
+>         String  prefix = annotation.value().isEmpty() ? "" : annotation.value() + ".";

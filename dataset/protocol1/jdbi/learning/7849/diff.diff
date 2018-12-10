@@ -1,0 +1,4 @@
+93c93
+<             methodHandle = lookupFor(declaringClass).unreflectSpecial(method, declaringClass);
+---
+>             methodHandle = lookupFor(declaringClass).	unreflectSpecial(method, declaringClass);

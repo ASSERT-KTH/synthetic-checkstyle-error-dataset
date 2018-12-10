@@ -1,0 +1,5 @@
+185,186c185
+<                         Parameter setterParam = Optional.ofNullable(setter)
+<                             .map(m -> m.getParameterCount() > 0 ? m.getParameters()[0] : null)
+---
+>                         Parameter setterParam = Optional.ofNullable(setter)                            .map(m -> m.getParameterCount() > 0 ? m.getParameters()[0] : null)

@@ -1,0 +1,4 @@
+179c179
+<         ColumnMapper<?> cached = cache.get(type);
+---
+>         ColumnMapper<?>  cached = cache.get(type);

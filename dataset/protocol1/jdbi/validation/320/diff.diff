@@ -1,0 +1,4 @@
+38c38
+<         this.mapper = mapper.specialize(results, context);
+---
+>         this.mapper = mapper.specialize (results, context);

@@ -1,0 +1,4 @@
+65c65
+<     default <C extends JdbiConfig<C>> C getConfig(Class<C> configClass) {
+---
+>     default <C extends JdbiConfig<C>> C getConfig(	Class<C> configClass) {

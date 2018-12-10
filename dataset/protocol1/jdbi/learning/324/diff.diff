@@ -1,0 +1,4 @@
+30c30
+<     private final List<SqlArrayTypeFactory> factories = new CopyOnWriteArrayList<>();
+---
+>     private final List<	SqlArrayTypeFactory> factories = new CopyOnWriteArrayList<>();

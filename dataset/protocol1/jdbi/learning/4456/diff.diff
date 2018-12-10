@@ -1,0 +1,4 @@
+27c27
+< public class ResultProducers implements JdbiConfig<ResultProducers> {
+---
+> public class ResultProducers implements  JdbiConfig<ResultProducers> {

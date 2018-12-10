@@ -1,0 +1,4 @@
+38c38
+<     default Stream<V> stream(Map<K, V> container) {
+---
+>     default Stream<V> stream(Map<K,V> container) {

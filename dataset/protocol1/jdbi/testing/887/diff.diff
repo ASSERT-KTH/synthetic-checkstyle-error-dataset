@@ -1,0 +1,4 @@
+141c141
+<         for (Class<?> aType = type; aType != null; aType = aType.getSuperclass()) {
+---
+>         for (Class <?> aType = type; aType != null; aType = aType.getSuperclass()) {

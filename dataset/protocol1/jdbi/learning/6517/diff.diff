@@ -1,0 +1,4 @@
+26c26
+< public class LoggableToStringOrNPEArgument<T> extends AbstractLoggableArgument<T> {
+---
+> public class LoggableToStringOrNPEArgument<T>extends AbstractLoggableArgument<T> {

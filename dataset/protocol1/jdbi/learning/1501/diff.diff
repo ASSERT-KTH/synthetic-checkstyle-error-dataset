@@ -1,0 +1,4 @@
+31c31
+<     void apply(SqlStatement<?> q) throws SQLException;
+---
+>     	void apply(SqlStatement<?> q) throws SQLException;

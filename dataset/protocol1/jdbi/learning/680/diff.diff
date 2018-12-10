@@ -1,0 +1,4 @@
+20c20
+< import org.jdbi.v3.sqlobject.config.internal.RegisterColumnMapperFactoriesImpl;
+---
+> import org.jdbi.v3.sqlobject.config.internal.RegisterColumnMapperFactoriesImpl	;

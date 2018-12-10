@@ -1,0 +1,4 @@
+165c165
+<         return findFor(QualifiedType.of(type));
+---
+>         return findFor(QualifiedType.of(type)	);

@@ -1,0 +1,5 @@
+86c86,87
+<         return QualifiedType.of(type.getType(), qualifier);
+---
+>         
+> return QualifiedType.of(type.getType(), qualifier);

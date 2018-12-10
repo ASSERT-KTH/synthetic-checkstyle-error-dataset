@@ -1,0 +1,4 @@
+48c48
+<                 return magic.reducedResult(q.reduceRows(rowReducerFor(useRowReducer)), ctx);
+---
+>                 return magic.reducedResult(q.reduceRows(rowReducerFor	(useRowReducer)), ctx);

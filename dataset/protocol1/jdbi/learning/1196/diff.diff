@@ -1,0 +1,4 @@
+45c45
+<             GenericTypes.resolveType(method.getGenericReturnType(), sqlObjectType),
+---
+>             	GenericTypes.resolveType(method.getGenericReturnType(), sqlObjectType),

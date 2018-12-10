@@ -1,0 +1,5 @@
+22c22,23
+< import org.jdbi.v3.sqlobject.SqlMethodDecoratingAnnotation;
+---
+> import 
+> org.jdbi.v3.sqlobject.SqlMethodDecoratingAnnotation;

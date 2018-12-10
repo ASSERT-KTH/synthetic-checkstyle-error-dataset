@@ -1,0 +1,5 @@
+24c24,25
+< class OptionalMapper<T> implements ColumnMapper<Optional<T>> {
+---
+> class 
+> OptionalMapper<T> implements ColumnMapper<Optional<T>> {

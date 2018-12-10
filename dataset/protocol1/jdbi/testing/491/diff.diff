@@ -1,0 +1,4 @@
+75c75
+<         return RowMapperFactory.of(type, FieldMapper.of(type, prefix));
+---
+>         return RowMapperFactory. of(type, FieldMapper.of(type, prefix));

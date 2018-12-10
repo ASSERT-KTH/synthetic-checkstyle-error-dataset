@@ -1,0 +1,5 @@
+33,34c33
+<                 && Objects.equals(candidate.getName(), method.getName())
+<                 && candidate.getParameterCount() == method.getParameterCount())
+---
+>                 && Objects.equals(candidate.getName(), method.getName())                && candidate.getParameterCount() == method.getParameterCount())

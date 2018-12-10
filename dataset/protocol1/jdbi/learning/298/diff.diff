@@ -1,0 +1,4 @@
+33c33
+< class ListCollectorFactory implements CollectorFactory {
+---
+> class  ListCollectorFactory implements CollectorFactory {

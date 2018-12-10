@@ -1,0 +1,4 @@
+36c36
+<     private final ResultSet rs;
+---
+>     private final ResultSet  rs;

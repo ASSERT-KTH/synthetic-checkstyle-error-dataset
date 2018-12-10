@@ -1,0 +1,4 @@
+227c227
+<         return map(new SingleColumnMapper<>(mapper));
+---
+>         return map( new SingleColumnMapper<>(mapper));

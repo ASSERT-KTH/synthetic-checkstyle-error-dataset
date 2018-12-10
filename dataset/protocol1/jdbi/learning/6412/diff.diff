@@ -1,0 +1,4 @@
+38c38
+<             findGenericParameter(mapper.getClass(), ColumnMapper.class)
+---
+>             findGenericParameter (mapper.getClass(), ColumnMapper.class)

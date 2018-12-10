@@ -1,0 +1,4 @@
+36c36
+< public class MapMapper implements RowMapper<Map<String, Object>> {
+---
+> public class MapMapper implements RowMapper	<Map<String, Object>> {

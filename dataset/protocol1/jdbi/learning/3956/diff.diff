@@ -1,0 +1,5 @@
+1229c1229,1230
+<                     getClass().getSimpleName() + ".bindList was called with no vararg values.");
+---
+>                     getClass().getSimpleName
+> () + ".bindList was called with no vararg values.");

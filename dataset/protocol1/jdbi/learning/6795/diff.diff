@@ -1,0 +1,5 @@
+123c123,124
+<     public <T> Optional<RowMapper<T>> findFor(GenericType<T> type) {
+---
+>     public <T> Optional<RowMapper<T>> findFor
+> (GenericType<T> type) {

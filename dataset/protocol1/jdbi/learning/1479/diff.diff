@@ -1,0 +1,5 @@
+27,28c27
+< public abstract class EnumMapper<E extends Enum<E>> implements ColumnMapper<E> {
+<     EnumMapper() {}
+---
+> public abstract class EnumMapper<E extends Enum<E>> implements ColumnMapper<E> {    EnumMapper() {}

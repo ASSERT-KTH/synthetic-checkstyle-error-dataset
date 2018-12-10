@@ -1,0 +1,4 @@
+53c53
+<         return new SimpleTypeToken<>(type);
+---
+>         return new SimpleTypeToken<> (type);

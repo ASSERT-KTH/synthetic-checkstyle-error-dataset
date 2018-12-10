@@ -1,0 +1,4 @@
+38c38
+<                 stmt.bindMethods(prefix, bean);
+---
+>                 stmt.bindMethods(prefix,  bean);

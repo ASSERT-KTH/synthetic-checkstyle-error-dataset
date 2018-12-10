@@ -1,0 +1,4 @@
+28c28
+<     private final ThreadLocal<ExtensionMethod> extensionMethod = new ThreadLocal<>();
+---
+>     private final ThreadLocal<ExtensionMethod> extensionMethod = new ThreadLocal<>	();

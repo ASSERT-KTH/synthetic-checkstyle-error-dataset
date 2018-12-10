@@ -1,0 +1,4 @@
+43c43
+<     public static Optional<String> getAnnotationValue(Method method, Function<String, String> resolveSql) {
+---
+>     public static Optional<	String> getAnnotationValue(Method method, Function<String, String> resolveSql) {

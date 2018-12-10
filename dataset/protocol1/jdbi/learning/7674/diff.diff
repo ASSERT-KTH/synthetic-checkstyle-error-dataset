@@ -1,0 +1,4 @@
+29c29
+<     private SqlLocator sqlLocator;
+---
+>     private SqlLocator  sqlLocator;

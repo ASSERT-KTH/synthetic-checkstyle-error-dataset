@@ -1,0 +1,4 @@
+56c56
+<         mappers.put(ZonedDateTime.class, new GetterMapper<>(JavaTimeMapperFactory::getZonedDateTime));
+---
+>         mappers.	put(ZonedDateTime.class, new GetterMapper<>(JavaTimeMapperFactory::getZonedDateTime));

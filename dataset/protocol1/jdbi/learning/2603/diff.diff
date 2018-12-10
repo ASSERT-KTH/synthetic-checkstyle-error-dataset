@@ -1,0 +1,4 @@
+34c34
+<         Define define = (Define) annotation;
+---
+>         Define  define = (Define) annotation;

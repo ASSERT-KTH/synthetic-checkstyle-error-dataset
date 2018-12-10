@@ -1,0 +1,4 @@
+70c70
+<         }).parse(new ANTLRStringStream(script));
+---
+>         }).parse(new ANTLRStringStream(script)) ;

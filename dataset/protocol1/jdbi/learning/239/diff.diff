@@ -1,0 +1,4 @@
+34c34
+<     public SqlStatementParameterCustomizer createForParameter(Class<?> sqlObjectType,
+---
+>     public SqlStatementParameterCustomizer createForParameter(Class <?> sqlObjectType,

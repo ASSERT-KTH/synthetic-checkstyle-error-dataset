@@ -1,0 +1,4 @@
+28c28
+<         RegisterBeanMappers registerBeanMappers = (RegisterBeanMappers) annotation;
+---
+>         RegisterBeanMappers registerBeanMappers = ( RegisterBeanMappers) annotation;

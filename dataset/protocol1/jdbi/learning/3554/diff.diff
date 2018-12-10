@@ -1,0 +1,4 @@
+85c85
+<         final Set<Class<?>> builder = new LinkedHashSet<>();
+---
+>         final Set<	Class<?>> builder = new LinkedHashSet<>();

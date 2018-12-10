@@ -1,0 +1,4 @@
+21c21
+<     private final Function<T, O> factory;
+---
+>     private final Function<T, O> factory ;

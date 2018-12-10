@@ -1,0 +1,4 @@
+50c50
+<         mappers.put(Double.class, new GetterMapper<>(ResultSet::getDouble));
+---
+>         mappers.put(Double.class, new GetterMapper<>(	ResultSet::getDouble));

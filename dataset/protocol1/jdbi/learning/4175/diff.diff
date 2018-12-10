@@ -1,0 +1,5 @@
+105c105,106
+<     public RowMapper<Map.Entry<K, V>> specialize(ResultSet rs, StatementContext ctx) throws SQLException {
+---
+>     public RowMapper<Map.Entry<K, V>> specialize(ResultSet 
+> rs, StatementContext ctx) throws SQLException {

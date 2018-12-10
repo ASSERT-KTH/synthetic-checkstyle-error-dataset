@@ -1,0 +1,5 @@
+33,34c33
+<         BindBean bind = (BindBean) annotation;
+<         return (stmt, bean) -> {
+---
+>         BindBean bind = (BindBean) annotation;        return (stmt, bean) -> {

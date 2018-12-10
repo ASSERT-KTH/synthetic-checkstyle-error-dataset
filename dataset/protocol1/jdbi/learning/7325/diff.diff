@@ -1,0 +1,4 @@
+20c20
+< import java.lang.annotation.Annotation;
+---
+> import java.	lang.annotation.Annotation;

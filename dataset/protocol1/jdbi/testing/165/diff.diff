@@ -1,0 +1,4 @@
+52c52
+<                 .map(a -> buildDecorator(a.value()))
+---
+>                 .map(a -> buildDecorator	(a.value()))

@@ -1,0 +1,5 @@
+22c22,23
+< public class MapMappers implements JdbiConfig<MapMappers> {
+---
+> public 
+> class MapMappers implements JdbiConfig<MapMappers> {

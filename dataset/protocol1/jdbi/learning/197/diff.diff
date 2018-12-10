@@ -1,0 +1,4 @@
+41c41
+<     public static List<String> getColumnNames(ResultSet rs) throws SQLException {
+---
+>     public static List<String> getColumnNames(ResultSet rs) throws  SQLException {

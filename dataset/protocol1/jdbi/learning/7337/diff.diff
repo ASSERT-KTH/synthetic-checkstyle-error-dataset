@@ -1,0 +1,4 @@
+24c24
+<     ConstructorInstanceFactory(Constructor<T> constructor) {
+---
+>     ConstructorInstanceFactory(Constructor<T>constructor) {

@@ -1,0 +1,4 @@
+30c30
+<     void apply(SqlStatement<?> stmt, Object arg) throws SQLException;
+---
+>     void apply(SqlStatement<	?> stmt, Object arg) throws SQLException;

@@ -1,0 +1,4 @@
+28c28
+<         register(double.class, Types.DOUBLE, PreparedStatement::setDouble);
+---
+>         register(double.class, Types. DOUBLE, PreparedStatement::setDouble);

@@ -1,0 +1,4 @@
+780c780
+<     public final This bind(int position, float value) {
+---
+>     public final This bind(int position	, float value) {

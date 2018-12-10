@@ -1,0 +1,4 @@
+93c93
+<     public static ResultProducer<ResultBearing> returningGeneratedKeys(String... generatedKeyColumnNames) {
+---
+>     public  static ResultProducer<ResultBearing> returningGeneratedKeys(String... generatedKeyColumnNames) {

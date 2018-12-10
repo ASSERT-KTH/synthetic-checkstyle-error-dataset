@@ -1,0 +1,4 @@
+41c41
+<     String nameParameter(String rawName, StatementContext ctx);
+---
+>     String nameParameter(String rawName, StatementContext ctx)	;

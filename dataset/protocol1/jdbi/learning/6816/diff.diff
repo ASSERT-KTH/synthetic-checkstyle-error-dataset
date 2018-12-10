@@ -1,0 +1,4 @@
+89c89
+<         Set<Annotation> qualifiers = getQualifiers(getter, setter, setterParam);
+---
+>         Set<	Annotation> qualifiers = getQualifiers(getter, setter, setterParam);

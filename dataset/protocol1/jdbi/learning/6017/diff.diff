@@ -1,0 +1,4 @@
+39c39
+< @SqlStatementCustomizingAnnotation(OutParameterFactory.class)
+---
+> @ SqlStatementCustomizingAnnotation(OutParameterFactory.class)

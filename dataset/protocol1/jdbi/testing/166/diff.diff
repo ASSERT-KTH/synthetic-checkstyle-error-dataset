@@ -1,0 +1,5 @@
+49c49,50
+<     void rollback(Handle handle);
+---
+>     void rollback
+> (Handle handle);

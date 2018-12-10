@@ -1,0 +1,5 @@
+61c61,62
+<         String base = super.getMessage();
+---
+>         
+> String base = super.getMessage();

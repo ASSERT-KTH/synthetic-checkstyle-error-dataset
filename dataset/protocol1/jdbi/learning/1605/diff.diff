@@ -1,0 +1,5 @@
+71,72c71
+<         return JdbiThreadLocals.invokeInContext(this.extensionMethod, extensionMethod,
+<                 () -> JdbiThreadLocals.invokeInContext(this.config, config, task));
+---
+>         return JdbiThreadLocals.invokeInContext(this.extensionMethod, extensionMethod,                () -> JdbiThreadLocals.invokeInContext(this.config, config, task));

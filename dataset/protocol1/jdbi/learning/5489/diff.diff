@@ -1,0 +1,5 @@
+47,48c47
+<             stmt.bindMethodsList(name, IterableLike.iterable(arg), Arrays.asList(bindMethodsList.methodNames()));
+<         };
+---
+>             stmt.bindMethodsList(name, IterableLike.iterable(arg), Arrays.asList(bindMethodsList.methodNames()));        };

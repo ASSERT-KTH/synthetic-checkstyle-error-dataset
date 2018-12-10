@@ -1,0 +1,4 @@
+75c75
+<             if (Proxy.isProxyClass(target.getClass())) {
+---
+>             if (Proxy.isProxyClass(target.getClass())){

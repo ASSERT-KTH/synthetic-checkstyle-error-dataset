@@ -1,0 +1,4 @@
+29c29
+< public class Query extends SqlStatement<Query> implements ResultBearing {
+---
+> public class Query extends SqlStatement<Query	> implements ResultBearing {

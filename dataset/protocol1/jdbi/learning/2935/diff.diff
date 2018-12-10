@@ -1,0 +1,4 @@
+16c16
+< import static org.jdbi.v3.core.internal.lexer.HashStatementLexer.COMMENT;
+---
+> import static org.jdbi.v3.core.internal. lexer.HashStatementLexer.COMMENT;

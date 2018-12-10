@@ -1,0 +1,4 @@
+98c98
+<                 ctx.setGeneratedKeysColumnNames(generatedKeyColumnNames);
+---
+>                 ctx.setGeneratedKeysColumnNames(generatedKeyColumnNames) ;

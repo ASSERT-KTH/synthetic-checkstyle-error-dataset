@@ -1,0 +1,4 @@
+26c26
+<         this.delegate = delegate;
+---
+>         this.delegate = delegate ;

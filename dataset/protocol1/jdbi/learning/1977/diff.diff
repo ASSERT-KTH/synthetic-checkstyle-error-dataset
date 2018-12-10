@@ -1,0 +1,5 @@
+33c33,34
+<         this.type = requireNonNull(type);
+---
+>         
+> this.type = requireNonNull(type);

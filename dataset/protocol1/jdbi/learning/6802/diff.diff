@@ -1,0 +1,4 @@
+135c135
+<             elementType = returnType.mapType(type -> GenericTypes.findGenericParameter(type, ResultIterable.class))
+---
+>             elementType = returnType.mapType(type-> GenericTypes.findGenericParameter(type, ResultIterable.class))

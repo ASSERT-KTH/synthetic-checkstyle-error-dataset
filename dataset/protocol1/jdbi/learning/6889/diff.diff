@@ -1,0 +1,5 @@
+33c33,34
+<         RegisterRowMapperFactory registerRowMapperFactory = (RegisterRowMapperFactory) annotation;
+---
+>         RegisterRowMapperFactory registerRowMapperFactory = 
+> (RegisterRowMapperFactory) annotation;

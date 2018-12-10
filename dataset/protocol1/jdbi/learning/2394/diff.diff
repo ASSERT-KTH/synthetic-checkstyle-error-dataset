@@ -1,0 +1,4 @@
+59c59
+<         this.sqlType = sqlType;
+---
+>         this.sqlType  = sqlType;

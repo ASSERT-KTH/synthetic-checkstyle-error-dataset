@@ -1,0 +1,4 @@
+179c179
+<                 throw new UnableToExecuteStatementException(Batch.mungeBatchException(e), getContext());
+---
+>                 throw new UnableToExecuteStatementException(Batch.mungeBatchException(e), getContext()	);

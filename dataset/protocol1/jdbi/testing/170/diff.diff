@@ -1,0 +1,4 @@
+94c94
+<         return addCustomizer(StatementCustomizers.maxFieldSize(maxFields));
+---
+>         return addCustomizer(StatementCustomizers.maxFieldSize(maxFields ));

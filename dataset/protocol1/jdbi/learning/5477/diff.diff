@@ -1,0 +1,4 @@
+79c79
+<         cfg.setReturner(() -> returner.apply(u));
+---
+>         cfg.setReturner(() ->returner.apply(u));

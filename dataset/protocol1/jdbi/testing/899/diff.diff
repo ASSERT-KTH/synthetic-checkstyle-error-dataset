@@ -1,0 +1,4 @@
+45c45
+<     public JdbiException(String message) {
+---
+>     public JdbiException(String message)  {

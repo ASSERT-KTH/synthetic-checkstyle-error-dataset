@@ -1,0 +1,4 @@
+24c24
+<     public ElementTypeNotFoundException(String string, Throwable throwable) {
+---
+>     public  ElementTypeNotFoundException(String string, Throwable throwable) {

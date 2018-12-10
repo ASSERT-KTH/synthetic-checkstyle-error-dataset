@@ -1,0 +1,5 @@
+482c482,483
+<         if (!getConfig(Extensions.class).hasExtensionFor(extensionType)) {
+---
+>         if (!getConfig
+> (Extensions.class).hasExtensionFor(extensionType)) {

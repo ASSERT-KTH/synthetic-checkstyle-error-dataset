@@ -1,0 +1,5 @@
+31c31,32
+<         register(LocalDateTime.class, Types.TIMESTAMP, (p, i, v) -> p.setTimestamp(i, Timestamp.valueOf(v)));
+---
+>         register(LocalDateTime.class, Types.TIMESTAMP, (p, i, v) -> p.setTimestamp
+> (i, Timestamp.valueOf(v)));

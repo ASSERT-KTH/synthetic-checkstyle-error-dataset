@@ -1,0 +1,5 @@
+185,186c185
+<         RowMapper<T> mapper = specialize0(ctx, columnNames, columnNameMatchers, unmatchedColumns)
+<             .orElseThrow(() -> new IllegalArgumentException(String.format(
+---
+>         RowMapper<T> mapper = specialize0(ctx, columnNames, columnNameMatchers, unmatchedColumns)            .orElseThrow(() -> new IllegalArgumentException(String.format(

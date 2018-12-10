@@ -1,0 +1,4 @@
+629c629
+<     public Object getObject(String columnLabel, Map<String, Class<?>> map) {
+---
+>     public Object getObject(String columnLabel, Map<String, Class <?>> map) {

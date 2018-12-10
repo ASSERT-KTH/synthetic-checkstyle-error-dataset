@@ -1,0 +1,4 @@
+932c932
+<     public void updateAsciiStream(String columnLabel, InputStream x) {
+---
+>     public void updateAsciiStream(String columnLabel, InputStream  x) {

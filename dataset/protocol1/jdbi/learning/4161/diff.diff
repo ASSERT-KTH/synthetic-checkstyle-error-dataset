@@ -1,0 +1,4 @@
+21c21
+< public class MapEntryMappers implements JdbiConfig<MapEntryMappers>, MapEntryConfig<MapEntryMappers> {
+---
+> public class MapEntryMappers implements JdbiConfig<MapEntryMappers>	, MapEntryConfig<MapEntryMappers> {

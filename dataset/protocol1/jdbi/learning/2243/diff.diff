@@ -1,0 +1,4 @@
+27c27
+< import org.jdbi.v3.core.generic.GenericType;
+---
+> import org.jdbi.v3.	core.generic.GenericType;

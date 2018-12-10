@@ -1,0 +1,4 @@
+59c59
+<             return s == null ? null : new URI(s);
+---
+>             return s == null  ? null : new URI(s);

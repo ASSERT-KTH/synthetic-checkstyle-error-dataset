@@ -1,0 +1,4 @@
+19c19
+< import java.util.stream.Collector;
+---
+> import java.util.	stream.Collector;

@@ -1,0 +1,5 @@
+26,27c26
+< public class Extensions implements JdbiConfig<Extensions> {
+<     private final List<ExtensionFactory> factories = new CopyOnWriteArrayList<>();
+---
+> public class Extensions implements JdbiConfig<Extensions> {    private final List<ExtensionFactory> factories = new CopyOnWriteArrayList<>();

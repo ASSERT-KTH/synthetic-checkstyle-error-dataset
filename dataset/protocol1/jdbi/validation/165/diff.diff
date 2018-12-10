@@ -1,0 +1,4 @@
+30c30
+<             Call call = (Call) stmt;
+---
+>             Call call = (Call)  stmt;

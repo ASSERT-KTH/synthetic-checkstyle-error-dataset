@@ -1,0 +1,4 @@
+108c108
+<         private final StringBuilder sql = new StringBuilder();
+---
+>         private final StringBuilder sql = new StringBuilder() ;

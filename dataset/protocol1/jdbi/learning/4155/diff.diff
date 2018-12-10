@@ -1,0 +1,4 @@
+66c66
+<         throw new UnsupportedOperationException("Not supported for parameter");
+---
+>         throw new UnsupportedOperationException("Not supported for parameter" );

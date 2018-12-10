@@ -1,0 +1,4 @@
+34c34
+<                 .orElseThrow(() -> new UnsupportedOperationException("Must use a concretely typed SqlArrayType here"));
+---
+>                 .orElseThrow(() -> new UnsupportedOperationException ("Must use a concretely typed SqlArrayType here"));

@@ -1,0 +1,5 @@
+24c24,25
+<     public boolean accepts(Type containerType) {
+---
+>     public boolean accepts(Type 
+> containerType) {

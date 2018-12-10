@@ -1,0 +1,4 @@
+25c25
+<         super(string, throwable);
+---
+>         super(string, throwable );

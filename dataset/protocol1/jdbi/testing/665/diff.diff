@@ -1,0 +1,4 @@
+50c50
+<                     stmt.define(name, "null");
+---
+>                     stmt.define(name,"null");

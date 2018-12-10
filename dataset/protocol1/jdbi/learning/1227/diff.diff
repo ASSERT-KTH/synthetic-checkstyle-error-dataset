@@ -1,0 +1,5 @@
+378,379c378
+<         return bind(name, toArgument(Integer.class, value));
+<     }
+---
+>         return bind(name, toArgument(Integer.class, value));    }

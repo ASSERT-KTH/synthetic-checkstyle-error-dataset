@@ -1,0 +1,5 @@
+126c126,127
+<     private final Map<PropertyDescriptor, BeanMapper<?>> nestedMappers = new ConcurrentHashMap<>();
+---
+>     
+> private final Map<PropertyDescriptor, BeanMapper<?>> nestedMappers = new ConcurrentHashMap<>();

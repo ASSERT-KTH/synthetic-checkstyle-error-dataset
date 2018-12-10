@@ -1,0 +1,4 @@
+112c112
+<     public static Type resolveType(Type type, Type contextType) {
+---
+>     public static Type resolveType(Type  type, Type contextType) {

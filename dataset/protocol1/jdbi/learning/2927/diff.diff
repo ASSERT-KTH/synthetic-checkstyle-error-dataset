@@ -1,0 +1,4 @@
+31c31
+<     R inTransaction(T transactional) throws X;
+---
+>     R inTransaction(T transactional) throws X ;

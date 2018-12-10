@@ -1,0 +1,4 @@
+41c41
+<     public Optional<RowMapper<?>> build(Type type, ConfigRegistry config) {
+---
+>     public Optional<RowMapper<?>	> build(Type type, ConfigRegistry config) {

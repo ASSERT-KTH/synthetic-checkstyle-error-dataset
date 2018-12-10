@@ -1,0 +1,4 @@
+478c478
+<     public <E> E onDemand(Class<E> extensionType) throws NoSuchExtensionException {
+---
+>     public <E> E onDemand(Class <E> extensionType) throws NoSuchExtensionException {

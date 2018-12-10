@@ -1,0 +1,4 @@
+53c53
+<                     .collect(toMap(PropertyDescriptor::getName, Function.identity()));
+---
+>                     .collect( toMap(PropertyDescriptor::getName, Function.identity()));

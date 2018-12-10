@@ -1,0 +1,4 @@
+40c40
+<     public MapMappers setCaseChange(UnaryOperator<String> caseChange) {
+---
+>     public MapMappers setCaseChange(UnaryOperator<String>caseChange) {

@@ -1,0 +1,5 @@
+45c45,46
+<     void setArgs(Object[] args) {
+---
+>     
+> void setArgs(Object[] args) {

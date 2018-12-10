@@ -1,0 +1,4 @@
+43c43
+<     public static QualifiedType of(Type type) {
+---
+>     public static QualifiedType of(Type type){

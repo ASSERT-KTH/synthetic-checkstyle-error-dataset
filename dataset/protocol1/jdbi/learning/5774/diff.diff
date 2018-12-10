@@ -1,0 +1,4 @@
+132c132
+<         return Optional.ofNullable(Thread.currentThread().getContextClassLoader())
+---
+>         return Optional.ofNullable(Thread.	currentThread().getContextClassLoader())

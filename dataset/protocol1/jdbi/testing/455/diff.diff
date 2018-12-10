@@ -1,0 +1,4 @@
+31c31
+< public @interface NVarchar {}
+---
+> public @	interface NVarchar {}

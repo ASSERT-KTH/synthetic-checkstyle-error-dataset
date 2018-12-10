@@ -1,0 +1,5 @@
+82c82,83
+<         Method getter = getGetter(name, descriptor, ctx);
+---
+>         Method getter = getGetter(name, descriptor, 
+> ctx);

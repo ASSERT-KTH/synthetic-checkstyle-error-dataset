@@ -1,0 +1,4 @@
+43c43
+<         .entryLoader(ObjectMethodArguments::load)
+---
+>         	.entryLoader(ObjectMethodArguments::load)

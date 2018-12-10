@@ -1,0 +1,4 @@
+36c36
+<     static QualifiedColumnMapperFactory of(QualifiedType type, ColumnMapper<?> mapper) {
+---
+>     static QualifiedColumnMapperFactory of(QualifiedType type	, ColumnMapper<?> mapper) {

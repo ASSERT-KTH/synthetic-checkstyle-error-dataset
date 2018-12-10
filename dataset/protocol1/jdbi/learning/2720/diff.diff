@@ -1,0 +1,4 @@
+33c33
+<         sqlLocator = new AnnotationSqlLocator();
+---
+>         sqlLocator =  new AnnotationSqlLocator();

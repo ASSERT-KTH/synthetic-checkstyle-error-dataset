@@ -1,0 +1,4 @@
+100c100
+<     public <T> T getColumn(String column, Class<T> type) {
+---
+>     public <T> T getColumn(String column, Class<	T> type) {

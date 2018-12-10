@@ -1,0 +1,4 @@
+22c22
+< import static org.jdbi.v3.core.generic.GenericTypes.findGenericParameter;
+---
+> import static org. jdbi.v3.core.generic.GenericTypes.findGenericParameter;

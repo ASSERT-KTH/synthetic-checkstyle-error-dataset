@@ -1,0 +1,4 @@
+46c46
+<         mappers.put(Short.class, new GetterMapper<>(ResultSet::getShort));
+---
+>         mappers.put(Short.class, new GetterMapper <>(ResultSet::getShort));

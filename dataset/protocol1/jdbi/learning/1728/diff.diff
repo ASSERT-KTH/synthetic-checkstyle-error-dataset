@@ -1,0 +1,4 @@
+42c42
+<     public Batch add(String sql) {
+---
+>     	public Batch add(String sql) {

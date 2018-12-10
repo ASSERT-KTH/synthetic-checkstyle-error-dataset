@@ -1,0 +1,5 @@
+103c103,104
+<     public Map<String, Object> getAttributes() {
+---
+>     public Map<String, 
+> Object> getAttributes() {

@@ -1,0 +1,4 @@
+63c63
+<     private static Type findOptionalType(Type wrapperType, Object nestedValue) {
+---
+>     private static Type findOptionalType (Type wrapperType, Object nestedValue) {

@@ -1,0 +1,5 @@
+34,35c34
+<                 .orElseThrow(() -> new IllegalStateException("Can't locate SqlObject factory"))
+<                 .attach(method.getReturnType(), handle);
+---
+>                 .orElseThrow(() -> new IllegalStateException("Can't locate SqlObject factory"))                .attach(method.getReturnType(), handle);

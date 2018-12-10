@@ -1,0 +1,4 @@
+37c37
+<     Class<? extends ColumnMapper<?>> value();
+---
+>     Class<?  extends ColumnMapper<?>> value();

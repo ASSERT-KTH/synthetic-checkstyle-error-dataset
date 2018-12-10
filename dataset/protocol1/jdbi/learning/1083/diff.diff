@@ -1,0 +1,4 @@
+32c32
+<     boolean accepts(Type containerType);
+---
+>     boolean accepts(Type containerType)	;

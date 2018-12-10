@@ -1,0 +1,4 @@
+30c30
+<         return Optional.ofNullable(getErasedType(containerType).getComponentType());
+---
+>         return Optional.	ofNullable(getErasedType(containerType).getComponentType());

@@ -1,0 +1,4 @@
+53c53
+<   Stream<R> stream(C container);
+---
+>   Stream<R> stream( C container);

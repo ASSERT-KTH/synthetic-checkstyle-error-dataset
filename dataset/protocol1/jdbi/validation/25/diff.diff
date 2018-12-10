@@ -1,0 +1,4 @@
+95c95
+<                 .filter(c -> c.isAnnotationPresent(ConstructorProperties.class))
+---
+>                 .filter(c -> c.isAnnotationPresent	(ConstructorProperties.class))

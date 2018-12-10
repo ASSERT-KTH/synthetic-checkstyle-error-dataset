@@ -1,0 +1,4 @@
+52c52
+<     private static void bindNamed(ParsedParameters params, Binding binding, PreparedStatement statement, StatementContext context) {
+---
+>     private static void bindNamed(ParsedParameters params, Binding  binding, PreparedStatement statement, StatementContext context) {

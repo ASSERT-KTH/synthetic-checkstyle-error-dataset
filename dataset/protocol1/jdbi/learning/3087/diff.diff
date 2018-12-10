@@ -1,0 +1,4 @@
+91c91
+<     public Optional<RowMapper<?>> findFor(Type type) {
+---
+>     public Optional<RowMapper	<?>> findFor(Type type) {

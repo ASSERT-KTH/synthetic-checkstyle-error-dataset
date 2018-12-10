@@ -1,0 +1,4 @@
+322c322
+<                 "Expected %s type parameters but got %s", rawType.getTypeParameters().length, typeArguments.length);
+---
+>                 "Expected %s type parameters but got %s", rawType.getTypeParameters().length, typeArguments.	length);

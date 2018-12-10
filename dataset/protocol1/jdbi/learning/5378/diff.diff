@@ -1,0 +1,4 @@
+30c30
+<         checkArgument(interfaceType.isInterface(), "%s is not an interface", interfaceType);
+---
+>         	checkArgument(interfaceType.isInterface(), "%s is not an interface", interfaceType);

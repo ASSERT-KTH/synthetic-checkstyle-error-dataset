@@ -1,0 +1,4 @@
+70c70
+<         return new HandlerDecorators(this);
+---
+>         return new HandlerDecorators(this );

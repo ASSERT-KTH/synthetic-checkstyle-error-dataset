@@ -1,0 +1,4 @@
+32c32
+<         if (Void.TYPE.equals(returnClass)) {
+---
+>         if  (Void.TYPE.equals(returnClass)) {

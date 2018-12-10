@@ -1,0 +1,4 @@
+235c235
+<         return Stream.of(descriptor.getReadMethod(), descriptor.getWriteMethod())
+---
+>         return Stream.of(descriptor.getReadMethod (), descriptor.getWriteMethod())

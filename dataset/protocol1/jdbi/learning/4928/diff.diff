@@ -1,0 +1,4 @@
+39c39
+<         return findGenericParameter(containerType, EnumSet.class);
+---
+>         return findGenericParameter(containerType	, EnumSet.class);

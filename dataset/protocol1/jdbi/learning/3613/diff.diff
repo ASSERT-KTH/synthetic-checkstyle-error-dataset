@@ -1,0 +1,4 @@
+243c243
+<             return (Number) obj;
+---
+>             return (Number	) obj;

@@ -1,0 +1,4 @@
+96c96
+<         Method getter = descriptor.getReadMethod();
+---
+>         Method getter = descriptor. getReadMethod();

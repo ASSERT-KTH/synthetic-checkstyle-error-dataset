@@ -1,0 +1,4 @@
+75c75
+<     public Call registerOutParameter(String name, int sqlType, CallableStatementMapper mapper) {
+---
+>     public  Call registerOutParameter(String name, int sqlType, CallableStatementMapper mapper) {

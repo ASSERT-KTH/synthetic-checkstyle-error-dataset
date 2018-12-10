@@ -1,0 +1,4 @@
+30c30
+<     ParsedParameters(boolean positional, List<String> parameterNames) {
+---
+>     ParsedParameters(boolean positional, List<	String> parameterNames) {

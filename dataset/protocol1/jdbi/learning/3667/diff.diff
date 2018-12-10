@@ -1,0 +1,5 @@
+70,71c70
+<         List<Object> list = new ArrayList<>();
+<         try (ResultSet rs = array.getResultSet()) {
+---
+>         List<Object> list = new ArrayList<>();        try (ResultSet rs = array.getResultSet()) {

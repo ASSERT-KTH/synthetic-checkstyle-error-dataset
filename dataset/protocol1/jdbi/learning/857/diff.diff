@@ -1,0 +1,4 @@
+38c38
+<     public Collector<?, ?, ?> build(Type containerType) {
+---
+>     public Collector	<?, ?, ?> build(Type containerType) {

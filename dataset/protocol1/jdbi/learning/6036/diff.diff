@@ -1,0 +1,4 @@
+278c278
+<             return ((java.util.Date) obj).getTime();
+---
+>             return ((java.util.Date) obj).getTime ();

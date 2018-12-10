@@ -1,0 +1,5 @@
+28,29c28
+<         return stmt -> ((Call) stmt).registerOutParameter(outParam.name(), outParam.sqlType());
+<     }
+---
+>         return stmt -> ((Call) stmt).registerOutParameter(outParam.name(), outParam.sqlType());    }

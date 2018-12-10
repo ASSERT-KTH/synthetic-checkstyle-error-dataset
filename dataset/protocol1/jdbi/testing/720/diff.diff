@@ -1,0 +1,4 @@
+35c35
+<             throw new IllegalStateException("JVM error", wat);
+---
+>             throw new IllegalStateException("JVM error"	, wat);

@@ -1,0 +1,5 @@
+35,36c35
+< public interface ResultIterator<T> extends Iterator<T>, Closeable {
+<     @Override
+---
+> public interface ResultIterator<T> extends Iterator<T>, Closeable {    @Override

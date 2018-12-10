@@ -1,0 +1,4 @@
+31c31
+< public interface ResultSetScanner<T> {
+---
+> public interface  ResultSetScanner<T> {

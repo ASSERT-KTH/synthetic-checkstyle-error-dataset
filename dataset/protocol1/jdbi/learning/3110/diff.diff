@@ -1,0 +1,5 @@
+25,26c25
+< public @interface RegisterArgumentFactories {
+<     RegisterArgumentFactory[] value();
+---
+> public @interface RegisterArgumentFactories {    RegisterArgumentFactory[] value();

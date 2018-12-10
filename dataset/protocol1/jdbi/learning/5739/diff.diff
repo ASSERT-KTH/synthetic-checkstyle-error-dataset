@@ -1,0 +1,4 @@
+268c268
+<             return checkResult(iterable.findFirst().orElse(null), returnType);
+---
+>             return checkResult(iterable.findFirst ().orElse(null), returnType);

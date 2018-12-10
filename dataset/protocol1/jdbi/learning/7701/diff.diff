@@ -1,0 +1,4 @@
+40c40
+<                 e -> elements.add(arrayType.convertArrayElement((T) e)));
+---
+>                 e -> elements.add(arrayType.	convertArrayElement((T) e)));

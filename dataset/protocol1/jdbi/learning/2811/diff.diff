@@ -1,0 +1,5 @@
+26,27c26
+< public class EnumByOrdinalMapperFactory implements ColumnMapperFactory {
+<     @SuppressWarnings({ "unchecked", "rawtypes" })
+---
+> public class EnumByOrdinalMapperFactory implements ColumnMapperFactory {    @SuppressWarnings({ "unchecked", "rawtypes" })

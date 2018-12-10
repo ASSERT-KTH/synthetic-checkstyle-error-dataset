@@ -1,0 +1,4 @@
+897c897
+<     public void updateNClob(int columnIndex, Reader reader, long length) {
+---
+>     public void updateNClob(int columnIndex, Reader  reader, long length) {

@@ -1,0 +1,4 @@
+61c61
+<                 return magic.mappedResult(iterable, update.getContext());
+---
+>                 return magic.mappedResult(iterable, update.	getContext());

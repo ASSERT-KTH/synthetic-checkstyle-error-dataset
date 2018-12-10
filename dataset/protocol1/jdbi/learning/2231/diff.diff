@@ -1,0 +1,4 @@
+24c24
+<     public TransactionException(String string, Throwable throwable) {
+---
+>     public TransactionException	(String string, Throwable throwable) {

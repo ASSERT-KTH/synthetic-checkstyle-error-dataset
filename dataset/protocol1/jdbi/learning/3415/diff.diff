@@ -1,0 +1,4 @@
+30c30
+< public class HandlerDecorators implements JdbiConfig<HandlerDecorators> {
+---
+> 	public class HandlerDecorators implements JdbiConfig<HandlerDecorators> {

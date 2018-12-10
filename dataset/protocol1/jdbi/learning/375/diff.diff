@@ -1,0 +1,5 @@
+24,25c24
+< public interface SqlLoggable<T> {
+<     T invoke() throws SQLException;
+---
+> public interface SqlLoggable<T> {    T invoke() throws SQLException;

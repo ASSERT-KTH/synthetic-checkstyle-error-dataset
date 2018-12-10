@@ -1,0 +1,4 @@
+45c45
+<     default SqlStatementCustomizer createForMethod(Annotation annotation, Class<?> sqlObjectType, Method method) {
+---
+>     default SqlStatementCustomizer createForMethod( Annotation annotation, Class<?> sqlObjectType, Method method) {

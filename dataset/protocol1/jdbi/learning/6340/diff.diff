@@ -1,0 +1,4 @@
+72c72
+<                 row.put(columnNames.get(i), rs.getObject(i + 1));
+---
+>                 row.put(columnNames.get(i), rs.getObject(i + 1)	);

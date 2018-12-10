@@ -1,0 +1,4 @@
+46c46
+<     boolean readOnly() default false;
+---
+>     boolean readOnly()  default false;

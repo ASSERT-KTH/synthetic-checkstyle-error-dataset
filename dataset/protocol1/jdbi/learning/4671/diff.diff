@@ -1,0 +1,5 @@
+17c17,18
+<     private static final long serialVersionUID = 1L;
+---
+>     
+> private static final long serialVersionUID = 1L;

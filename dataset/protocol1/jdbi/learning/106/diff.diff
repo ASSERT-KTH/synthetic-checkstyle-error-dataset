@@ -1,0 +1,5 @@
+23,24c23
+< public class RegisterFieldMappersImpl implements Configurer {
+<     @Override
+---
+> public class RegisterFieldMappersImpl implements Configurer {    @Override

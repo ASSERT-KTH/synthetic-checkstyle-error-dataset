@@ -1,0 +1,5 @@
+35c35,36
+<             Array.set(array, i, list.get(i));
+---
+>             Array.set(array, i, list.get
+> (i));

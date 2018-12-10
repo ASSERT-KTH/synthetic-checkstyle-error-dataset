@@ -1,0 +1,4 @@
+41c41
+<             if ("equals".equals(name) && method.getParameterCount() == 1
+---
+>             if ("equals".equals(name ) && method.getParameterCount() == 1

@@ -1,0 +1,5 @@
+27,28c27
+<         final OutParameter outParam = (OutParameter) annotation;
+<         return stmt -> ((Call) stmt).registerOutParameter(outParam.name(), outParam.sqlType());
+---
+>         final OutParameter outParam = (OutParameter) annotation;        return stmt -> ((Call) stmt).registerOutParameter(outParam.name(), outParam.sqlType());

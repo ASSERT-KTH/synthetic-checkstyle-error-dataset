@@ -1,0 +1,4 @@
+22c22
+< import org.jdbi.v3.sqlobject.config.internal.RegisterCollectorFactoryImpl;
+---
+> import org.jdbi.v3.sqlobject.config.	internal.RegisterCollectorFactoryImpl;

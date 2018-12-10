@@ -1,0 +1,4 @@
+60c60
+<         this.batchChunkSize = determineBatchChunkSize(sqlObjectType, method);
+---
+>         this.batchChunkSize= determineBatchChunkSize(sqlObjectType, method);

@@ -1,0 +1,4 @@
+304c304
+<     private ResultIterator<?> executeBatch(final Handle handle, final PreparedBatch batch) {
+---
+>     	private ResultIterator<?> executeBatch(final Handle handle, final PreparedBatch batch) {

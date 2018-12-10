@@ -1,0 +1,4 @@
+42c42
+<         return Optional.ofNullable(reusable).map(r -> r.apply(value));
+---
+>         return Optional.ofNullable(reusable).map(	r -> r.apply(value));

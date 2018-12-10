@@ -1,0 +1,4 @@
+47c47
+<         return Arrays.stream(elements)
+---
+>         return Arrays.stream(elements )

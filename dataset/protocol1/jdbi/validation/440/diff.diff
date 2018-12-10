@@ -1,0 +1,5 @@
+302c302,303
+<             Handle h = new Handle(config.createCopy(), connectionFactory::closeConnection, transactionhandler.get(), cache, conn);
+---
+>             Handle h = new Handle
+> (config.createCopy(), connectionFactory::closeConnection, transactionhandler.get(), cache, conn);

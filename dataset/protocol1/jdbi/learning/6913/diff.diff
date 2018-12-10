@@ -1,0 +1,4 @@
+40c40
+<         Function<Object, Argument> reusable = (Function<Object, Argument>) builders.get(expectedClass);
+---
+>         Function<Object, Argument> reusable = (	Function<Object, Argument>) builders.get(expectedClass);

@@ -1,0 +1,5 @@
+23c23,24
+< import org.jdbi.v3.sqlobject.config.RegisterBeanMapper;
+---
+> import 
+> org.jdbi.v3.sqlobject.config.RegisterBeanMapper;

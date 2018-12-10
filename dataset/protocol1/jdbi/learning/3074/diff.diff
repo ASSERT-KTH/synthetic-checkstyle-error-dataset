@@ -1,0 +1,5 @@
+52c52,53
+<                 statement.setObject(position, value, sqlType);
+---
+>                 statement.setObject
+> (position, value, sqlType);

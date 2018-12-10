@@ -1,0 +1,4 @@
+82c82
+<         ResultSetMetaData meta = rs.getMetaData();
+---
+>         ResultSetMetaData meta = rs.getMetaData	();

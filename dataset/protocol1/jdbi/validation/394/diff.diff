@@ -1,0 +1,4 @@
+25c25
+< public class EnumByNameMapperFactory implements ColumnMapperFactory {
+---
+> public  class EnumByNameMapperFactory implements ColumnMapperFactory {

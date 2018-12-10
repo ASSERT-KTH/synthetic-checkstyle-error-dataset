@@ -1,0 +1,5 @@
+69c69,70
+<             .flatMap(config.get(ColumnMappers.class)::findFor)
+---
+>             .flatMap(config.get
+> (ColumnMappers.class)::findFor)

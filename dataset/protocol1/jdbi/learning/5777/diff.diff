@@ -1,0 +1,4 @@
+111c111
+<     public Optional<SqlArrayType<?>> findFor(Type elementType) {
+---
+>     public Optional<SqlArrayType <?>> findFor(Type elementType) {

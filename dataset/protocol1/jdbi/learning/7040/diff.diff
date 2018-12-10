@@ -1,0 +1,4 @@
+526c526
+<         SQLException exception = null;
+---
+>         SQLException exception  = null;

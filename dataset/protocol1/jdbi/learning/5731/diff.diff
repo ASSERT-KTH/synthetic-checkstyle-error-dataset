@@ -1,0 +1,5 @@
+144,145c144
+<         Optional<RowMapper<?>> mapper = factories.stream()
+<                 .flatMap(factory -> toStream(factory.build(type, registry)))
+---
+>         Optional<RowMapper<?>> mapper = factories.stream()                .flatMap(factory -> toStream(factory.build(type, registry)))

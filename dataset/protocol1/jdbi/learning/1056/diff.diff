@@ -1,0 +1,4 @@
+104c104
+<     public String getColumnTypeName(int column) {
+---
+>     public String  getColumnTypeName(int column) {

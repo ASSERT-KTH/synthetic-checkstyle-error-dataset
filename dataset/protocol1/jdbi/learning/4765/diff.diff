@@ -1,0 +1,4 @@
+78c78
+<     public SqlObjects setDefaultParameterCustomizerFactory(ParameterCustomizerFactory defaultParameterCustomizerFactory) {
+---
+>     public SqlObjects setDefaultParameterCustomizerFactory( ParameterCustomizerFactory defaultParameterCustomizerFactory) {

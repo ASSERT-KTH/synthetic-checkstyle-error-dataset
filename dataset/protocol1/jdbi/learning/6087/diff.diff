@@ -1,0 +1,4 @@
+175c175
+<     public Optional<ColumnMapper<?>> findFor(QualifiedType type) {
+---
+>     public Optional<ColumnMapper<? >> findFor(QualifiedType type) {

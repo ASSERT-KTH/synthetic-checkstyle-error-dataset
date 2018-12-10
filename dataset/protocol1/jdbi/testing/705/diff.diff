@@ -1,0 +1,4 @@
+30c30
+<     default void beforeBinding(PreparedStatement stmt, StatementContext ctx) throws SQLException {}
+---
+>     default void beforeBinding( PreparedStatement stmt, StatementContext ctx) throws SQLException {}

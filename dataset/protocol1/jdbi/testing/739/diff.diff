@@ -1,0 +1,4 @@
+46c46
+<         InvocationHandler handler = (proxy, method, args) -> {
+---
+>         InvocationHandler handler  = (proxy, method, args) -> {

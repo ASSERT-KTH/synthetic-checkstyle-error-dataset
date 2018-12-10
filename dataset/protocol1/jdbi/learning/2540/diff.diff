@@ -1,0 +1,4 @@
+30c30
+< public @interface CreateSqlObject {}
+---
+> public @	interface CreateSqlObject {}

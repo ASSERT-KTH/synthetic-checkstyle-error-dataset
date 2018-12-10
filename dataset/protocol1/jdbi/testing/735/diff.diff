@@ -1,0 +1,4 @@
+31c31
+<             EQUALS_METHOD = Object.class.getMethod("equals", Object.class);
+---
+>             EQUALS_METHOD =Object.class.getMethod("equals", Object.class);

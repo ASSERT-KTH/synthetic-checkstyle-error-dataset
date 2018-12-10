@@ -1,0 +1,5 @@
+35c35,36
+<     public SqlUpdateHandler(Class<?> sqlObjectType, Method method) {
+---
+>     public SqlUpdateHandler(Class<?> 
+> sqlObjectType, Method method) {

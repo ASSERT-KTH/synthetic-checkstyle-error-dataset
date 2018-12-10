@@ -1,0 +1,4 @@
+44c44
+<         QualifiedType returnType = QualifiedType.of(
+---
+>         QualifiedType  returnType = QualifiedType.of(

@@ -1,0 +1,5 @@
+30c30,31
+<         int fetchSize = ((FetchSize) annotation).value();
+---
+>         int fetchSize = ((FetchSize) annotation).value()
+> ;

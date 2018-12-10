@@ -1,0 +1,4 @@
+21c21
+< public class CaseInsensitiveColumnNameMatcher implements ColumnNameMatcher {
+---
+> public class CaseInsensitiveColumnNameMatcher implements ColumnNameMatcher{

@@ -1,0 +1,5 @@
+29c29,30
+<     void useTransaction(T transactional) throws X;
+---
+>     void useTransaction(T 
+> transactional) throws X;

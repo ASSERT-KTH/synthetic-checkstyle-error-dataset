@@ -1,0 +1,4 @@
+50c50
+<         return appendVerbatim(path.replace(DOT, SLASH));
+---
+>         return appendVerbatim(path.replace (DOT, SLASH));

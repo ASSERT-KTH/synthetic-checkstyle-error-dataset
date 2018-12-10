@@ -1,0 +1,4 @@
+46c46
+<         return (stmt, fetchSize) -> ((Query) stmt).setFetchSize((Integer) fetchSize);
+---
+>         return (stmt, fetchSize ) -> ((Query) stmt).setFetchSize((Integer) fetchSize);

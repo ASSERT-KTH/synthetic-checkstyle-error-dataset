@@ -1,0 +1,4 @@
+70c70
+<         return nestedValue == null ? Object.class : nestedValue.getClass();
+---
+>         return nestedValue == null ? Object.class : nestedValue.getClass	();

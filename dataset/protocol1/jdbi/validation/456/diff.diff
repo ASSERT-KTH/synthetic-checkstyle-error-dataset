@@ -1,0 +1,4 @@
+50c50
+<                 () -> Optional.ofNullable(method.getAnnotation(SqlUpdate.class)).map(SqlUpdate::value).map(resolveSql).filter(nonEmpty),
+---
+>                 () -> Optional.ofNullable(method.getAnnotation (SqlUpdate.class)).map(SqlUpdate::value).map(resolveSql).filter(nonEmpty),

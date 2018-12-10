@@ -1,0 +1,4 @@
+22c22
+< @ConfiguringAnnotation(RegisterColumnMapperFactoriesImpl.class)
+---
+> @ConfiguringAnnotation(RegisterColumnMapperFactoriesImpl. class)

@@ -1,0 +1,4 @@
+98c98
+<         return inTransaction(handle, callback);
+---
+>         return inTransaction(handle, callback)	;

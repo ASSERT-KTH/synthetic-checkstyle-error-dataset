@@ -1,0 +1,4 @@
+49c49
+<     public ClasspathBuilder appendDotPath(@Nonnull String path) {
+---
+>     public ClasspathBuilder appendDotPath(@Nonnull String path	) {

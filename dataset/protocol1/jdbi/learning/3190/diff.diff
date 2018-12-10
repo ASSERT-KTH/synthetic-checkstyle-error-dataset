@@ -1,0 +1,5 @@
+26,27c26
+<  */
+< public abstract class MethodReturnValueNamedArgumentFinder extends ObjectPropertyNamedArgumentFinder {
+---
+>  */public abstract class MethodReturnValueNamedArgumentFinder extends ObjectPropertyNamedArgumentFinder {

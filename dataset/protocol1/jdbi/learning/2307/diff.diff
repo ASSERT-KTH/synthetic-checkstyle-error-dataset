@@ -1,0 +1,4 @@
+54c54
+<                 config.setRegistry(this);
+---
+>                 	config.setRegistry(this);

@@ -1,0 +1,4 @@
+34c34
+<     public static final ArgumentFactory INSTANCE = new BuiltInArgumentFactory();
+---
+>     public static final ArgumentFactory INSTANCE =new BuiltInArgumentFactory();

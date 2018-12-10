@@ -1,0 +1,4 @@
+57c57
+<                 Object ary = array.getArray();
+---
+>                 Object ary =array.getArray();

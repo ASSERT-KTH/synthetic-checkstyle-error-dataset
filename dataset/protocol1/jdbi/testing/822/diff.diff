@@ -1,0 +1,5 @@
+27,28c27
+<         super("Unable to set isolation level to " + i, e);
+<     }
+---
+>         super("Unable to set isolation level to " + i, e);    }

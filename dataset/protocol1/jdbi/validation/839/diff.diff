@@ -1,0 +1,4 @@
+66c66
+<                 config.onFailure.accept(new ArrayList<>(failures));
+---
+>                 config.onFailure.accept(	new ArrayList<>(failures));

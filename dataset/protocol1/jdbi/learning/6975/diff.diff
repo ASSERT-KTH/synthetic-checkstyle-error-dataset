@@ -1,0 +1,5 @@
+24,25c24
+< class InternetArgumentFactory extends DelegatingArgumentFactory {
+<     InternetArgumentFactory() {
+---
+> class InternetArgumentFactory extends DelegatingArgumentFactory {    InternetArgumentFactory() {

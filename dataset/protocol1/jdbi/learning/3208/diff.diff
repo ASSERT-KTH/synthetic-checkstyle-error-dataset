@@ -1,0 +1,5 @@
+29c29,30
+<         String normalizedPrefix = removeUnderscores(prefix);
+---
+>         String normalizedPrefix = removeUnderscores
+> (prefix);

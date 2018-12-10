@@ -1,0 +1,4 @@
+28c28
+<         Stream.of(factories.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));
+---
+>         Stream.of(factories.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType))	;

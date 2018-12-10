@@ -1,0 +1,5 @@
+1186c1186,1187
+<     public final This bindBySqlType(String name, Object value, int sqlType) {
+---
+>     
+> public final This bindBySqlType(String name, Object value, int sqlType) {

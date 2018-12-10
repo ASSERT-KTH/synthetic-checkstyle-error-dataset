@@ -1,0 +1,5 @@
+35c35,36
+<     void configureReturner(Query q, SqlObjectStatementConfiguration cfg) {
+---
+>     void configureReturner
+> (Query q, SqlObjectStatementConfiguration cfg) {

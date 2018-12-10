@@ -1,0 +1,4 @@
+44c44
+<                 return annotationType.equals(that.annotationType());
+---
+>                 return annotationType. equals(that.annotationType());

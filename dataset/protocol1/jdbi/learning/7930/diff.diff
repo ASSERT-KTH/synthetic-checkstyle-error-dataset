@@ -1,0 +1,5 @@
+66c66,67
+<         final List<String> columnNames = getColumnNames(rs, caseStrategy.apply(ctx));
+---
+>         final List<String> 
+> columnNames = getColumnNames(rs, caseStrategy.apply(ctx));

@@ -1,0 +1,5 @@
+20c20,21
+< import org.jdbi.v3.sqlobject.locator.AnnotationSqlLocator;
+---
+> import org.jdbi.v3.sqlobject.locator.AnnotationSqlLocator
+> ;

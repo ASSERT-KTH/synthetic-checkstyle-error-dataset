@@ -1,0 +1,5 @@
+32c32,33
+<     public NoSuchExtensionException(String message) {
+---
+>     public NoSuchExtensionException
+> (String message) {

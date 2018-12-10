@@ -1,0 +1,5 @@
+147c147,148
+<             throw new UnsupportedOperationException("Cannot return ResultIterable from a @UseRowReducer method");
+---
+>             throw new UnsupportedOperationException
+> ("Cannot return ResultIterable from a @UseRowReducer method");

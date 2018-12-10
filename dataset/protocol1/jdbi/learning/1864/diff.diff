@@ -1,0 +1,5 @@
+30c30,31
+<     T withHandle(Handle handle) throws X;
+---
+>     T withHandle(Handle 
+> handle) throws X;

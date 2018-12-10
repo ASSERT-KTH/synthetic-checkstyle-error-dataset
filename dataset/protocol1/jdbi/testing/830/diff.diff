@@ -1,0 +1,4 @@
+63c63
+<     public static RowMapperFactory factory(Class<?> type) {
+---
+>     public static RowMapperFactory factory( Class<?> type) {

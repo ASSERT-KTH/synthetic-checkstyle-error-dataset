@@ -1,0 +1,4 @@
+25c25
+<     final TypeVariable<?> typeVariable;
+---
+>     final TypeVariable<?>typeVariable;

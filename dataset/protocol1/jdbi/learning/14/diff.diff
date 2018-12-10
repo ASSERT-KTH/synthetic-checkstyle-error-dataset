@@ -1,0 +1,5 @@
+105c105,106
+<         throw new UnsupportedOperationException();
+---
+>         throw 
+> new UnsupportedOperationException();

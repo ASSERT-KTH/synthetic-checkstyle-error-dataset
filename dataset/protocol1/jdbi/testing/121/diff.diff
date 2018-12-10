@@ -1,0 +1,4 @@
+39c39
+<         List<Class<? extends Annotation>> annotationTypes = Stream.of(method.getAnnotations())
+---
+>         List<Class<? extends Annotation>> annotationTypes = Stream.of (method.getAnnotations())

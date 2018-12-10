@@ -1,0 +1,4 @@
+48c48
+<         List<Method> explicitFactoryMethods = Stream.of(type.getDeclaredMethods())
+---
+>         List<Method> explicitFactoryMethods = Stream.of (type.getDeclaredMethods())

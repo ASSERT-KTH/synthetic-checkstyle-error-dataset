@@ -1,0 +1,4 @@
+42c42
+<     private static final Map<Class<?>, MethodHandles.Lookup> PRIVATE_LOOKUPS = synchronizedMap(new WeakHashMap<>());
+---
+>     private static final Map<Class<?>	, MethodHandles.Lookup> PRIVATE_LOOKUPS = synchronizedMap(new WeakHashMap<>());

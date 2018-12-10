@@ -1,0 +1,4 @@
+31c31
+<         return stmt -> ((Query) stmt).setFetchSize(fetchSize);
+---
+>         return stmt -> ((Query ) stmt).setFetchSize(fetchSize);

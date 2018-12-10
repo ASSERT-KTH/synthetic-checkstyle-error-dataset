@@ -1,0 +1,4 @@
+46c46
+<                 statement.setNull(position, Types.LONGVARCHAR);
+---
+>                 statement.setNull(position,  Types.LONGVARCHAR);

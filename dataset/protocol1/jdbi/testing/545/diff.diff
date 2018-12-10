@@ -1,0 +1,4 @@
+45c45
+<                 .map(e -> e.getAnnotation(DecoratorOrder.class))
+---
+>                 .map(e -> e.getAnnotation	(DecoratorOrder.class))

@@ -1,0 +1,4 @@
+30c30
+<     public static StatementCustomizer statementTimeout(final int seconds) {
+---
+>     public static StatementCustomizer statementTimeout(	final int seconds) {

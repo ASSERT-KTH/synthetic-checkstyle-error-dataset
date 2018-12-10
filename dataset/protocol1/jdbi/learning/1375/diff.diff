@@ -1,0 +1,5 @@
+23c23,24
+< public interface TransactionalCallback<R, T extends Transactional<T>, X extends Exception> {
+---
+> public 
+> interface TransactionalCallback<R, T extends Transactional<T>, X extends Exception> {

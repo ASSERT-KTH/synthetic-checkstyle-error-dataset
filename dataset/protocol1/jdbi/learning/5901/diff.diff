@@ -1,0 +1,4 @@
+30c30
+<         return removeUnderscores(columnName).regionMatches(true, 0, normalizedPrefix, 0, normalizedPrefix.length());
+---
+>         	return removeUnderscores(columnName).regionMatches(true, 0, normalizedPrefix, 0, normalizedPrefix.length());

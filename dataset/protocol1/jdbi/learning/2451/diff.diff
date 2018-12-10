@@ -1,0 +1,4 @@
+46c46
+<         return containerType instanceof Class && COLLECTORS.containsKey(containerType);
+---
+>         return containerType  instanceof Class && COLLECTORS.containsKey(containerType);

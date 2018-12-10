@@ -1,0 +1,4 @@
+51c51
+<             ResultIterable<?> iterable = useRowMapper == null
+---
+>             ResultIterable<?> iterable =  useRowMapper == null

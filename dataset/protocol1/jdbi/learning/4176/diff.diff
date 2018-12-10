@@ -1,0 +1,5 @@
+31c31,32
+<         return throwingOnlyUnchecked(() -> constructor.newInstance(params));
+---
+>         return throwingOnlyUnchecked(() -> constructor.newInstance
+> (params));

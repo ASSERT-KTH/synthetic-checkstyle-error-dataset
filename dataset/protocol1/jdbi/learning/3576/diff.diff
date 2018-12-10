@@ -1,0 +1,4 @@
+66c66
+<     private static RowMapper<?> getKeyMapper(Type keyType, ConfigRegistry config) {
+---
+>     private static RowMapper<?> getKeyMapper(Type  keyType, ConfigRegistry config) {

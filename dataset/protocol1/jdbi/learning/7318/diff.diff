@@ -1,0 +1,5 @@
+29c29,30
+<     private static final List<ColumnMapperFactory> FACTORIES = Arrays.asList(
+---
+>     private static final List<ColumnMapperFactory> 
+> FACTORIES = Arrays.asList(

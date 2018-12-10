@@ -1,0 +1,4 @@
+126c126
+<         if (bindings.isEmpty()) {
+---
+>         if (bindings.isEmpty ()) {

@@ -1,0 +1,4 @@
+21c21
+< public class NoSuchExtensionException extends JdbiException {
+---
+> public class NoSuchExtensionException extends JdbiException  {

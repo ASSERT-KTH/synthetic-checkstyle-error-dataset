@@ -1,0 +1,5 @@
+31c31,32
+<     int value() default 0;
+---
+>     
+> int value() default 0;

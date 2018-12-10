@@ -1,0 +1,5 @@
+45c45,46
+<   void accumulate(C container, RowView rowView);
+---
+>   void accumulate
+> (C container, RowView rowView);

@@ -1,0 +1,4 @@
+98c98
+<                 .map(a -> instantiateFactory(a).createForParameter(a, type, method, parameter, i, getParameterType(parameter)))
+---
+>                 .map(a -> instantiateFactory(a).createForParameter(a	, type, method, parameter, i, getParameterType(parameter)))

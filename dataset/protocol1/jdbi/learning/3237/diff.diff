@@ -1,0 +1,4 @@
+75c75
+<     public final Optional<Argument> build(Type type, Object value, ConfigRegistry config) {
+---
+>     public final Optional<Argument> build(Type type,Object value, ConfigRegistry config) {

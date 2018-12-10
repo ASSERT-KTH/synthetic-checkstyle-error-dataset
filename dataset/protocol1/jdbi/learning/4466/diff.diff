@@ -1,0 +1,5 @@
+27,28c27
+<         registry.get(SqlObjects.class).setSqlLocator(new AnnotationSqlLocator());
+<     }
+---
+>         registry.get(SqlObjects.class).setSqlLocator(new AnnotationSqlLocator());    }

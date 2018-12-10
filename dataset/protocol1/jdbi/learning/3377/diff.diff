@@ -1,0 +1,5 @@
+45,46c45
+<             name.ifPresent(n -> stmt.bindByType(n, arg, qualifiedType));
+<         };
+---
+>             name.ifPresent(n -> stmt.bindByType(n, arg, qualifiedType));        };

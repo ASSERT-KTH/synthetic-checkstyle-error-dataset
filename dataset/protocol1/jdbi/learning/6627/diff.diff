@@ -1,0 +1,4 @@
+35c35
+< public interface ResultIterator<T> extends Iterator<T>, Closeable {
+---
+> 	public interface ResultIterator<T> extends Iterator<T>, Closeable {

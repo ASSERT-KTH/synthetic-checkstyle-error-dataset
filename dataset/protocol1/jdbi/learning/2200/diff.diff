@@ -1,0 +1,4 @@
+24c24
+<     public LoggableBinderArgument(T value, StatementBinder<T> binder) {
+---
+>     public LoggableBinderArgument(T value, StatementBinder<T>binder) {

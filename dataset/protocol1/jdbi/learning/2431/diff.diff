@@ -1,0 +1,5 @@
+56c56,57
+<         String s = r.getString(i);
+---
+>         String s = r.getString
+> (i);

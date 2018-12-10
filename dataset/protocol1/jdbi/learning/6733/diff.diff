@@ -1,0 +1,4 @@
+58c58
+<     protected AbstractArgumentFactory(int sqlType) {
+---
+>     protected AbstractArgumentFactory	(int sqlType) {

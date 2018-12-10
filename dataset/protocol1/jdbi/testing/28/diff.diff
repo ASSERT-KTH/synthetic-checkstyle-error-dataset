@@ -1,0 +1,5 @@
+64,65c64
+<                             () -> invoke(extension, method, args)));
+<         };
+---
+>                             () -> invoke(extension, method, args)));        };

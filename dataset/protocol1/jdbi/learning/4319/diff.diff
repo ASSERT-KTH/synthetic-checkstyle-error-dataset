@@ -1,0 +1,5 @@
+99,100c99
+<             throw new UnableToCreateStatementException(String.format("No getter method found for "
+<                     + "bean property [%s] on [%s]",
+---
+>             throw new UnableToCreateStatementException(String.format("No getter method found for "                    + "bean property [%s] on [%s]",

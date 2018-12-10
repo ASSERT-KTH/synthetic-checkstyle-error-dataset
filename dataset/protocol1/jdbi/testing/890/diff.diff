@@ -1,0 +1,5 @@
+200c200,201
+<             throw new IllegalArgumentException(arg + " is not a " + type.getSimpleName(), e);
+---
+>             throw new IllegalArgumentException(arg + " is not a " + type.getSimpleName(), e)
+> ;

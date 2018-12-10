@@ -1,0 +1,4 @@
+38c38
+<         if (method.isAnnotationPresent(UseRowReducer.class)) {
+---
+>         if ( method.isAnnotationPresent(UseRowReducer.class)) {

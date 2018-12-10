@@ -1,0 +1,5 @@
+45c45,46
+<     static ResultReturner forOptionalReturn(Class<?> extensionType, Method method) {
+---
+>     
+> static ResultReturner forOptionalReturn(Class<?> extensionType, Method method) {

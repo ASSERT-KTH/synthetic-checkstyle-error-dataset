@@ -1,0 +1,5 @@
+26c26,27
+<         super(throwable);
+---
+>         super(throwable)
+> ;

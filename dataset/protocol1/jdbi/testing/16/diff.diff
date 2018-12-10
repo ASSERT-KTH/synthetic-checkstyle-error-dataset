@@ -1,0 +1,4 @@
+45c45
+<         if (left.set && right.set) {
+---
+>         if (left.set && right. set) {

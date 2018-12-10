@@ -1,0 +1,4 @@
+43c43
+<                 mapTo = QualifiedType.of((Type) arg);
+---
+>                 mapTo = QualifiedType.of((Type ) arg);

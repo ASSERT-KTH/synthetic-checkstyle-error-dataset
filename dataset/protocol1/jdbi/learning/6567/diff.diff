@@ -1,0 +1,5 @@
+33c33,34
+<         return create(type, null);
+---
+>         return create
+> (type, null);

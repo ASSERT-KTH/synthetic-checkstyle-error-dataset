@@ -1,0 +1,5 @@
+284c284,285
+<     Map<Object, Object> getMap() {
+---
+>     Map<Object, Object> getMap
+> () {

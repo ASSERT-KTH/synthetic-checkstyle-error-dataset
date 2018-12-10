@@ -1,0 +1,5 @@
+33c33,34
+<     private final Function<Update, Object> returner;
+---
+>     private final Function<Update, Object> returner
+> ;

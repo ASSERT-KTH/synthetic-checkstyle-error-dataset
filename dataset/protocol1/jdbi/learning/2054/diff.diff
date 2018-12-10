@@ -1,0 +1,5 @@
+70c70,71
+<             Object value = field.get(obj);
+---
+>             Object value 
+> = field.get(obj);

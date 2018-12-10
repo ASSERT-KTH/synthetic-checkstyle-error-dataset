@@ -1,0 +1,4 @@
+67c67
+<         String lastStatement = new SqlScriptParser((t, sb) -> {
+---
+>         String lastStatement =new SqlScriptParser((t, sb) -> {

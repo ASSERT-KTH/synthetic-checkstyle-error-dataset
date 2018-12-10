@@ -1,0 +1,4 @@
+30c30
+<     private final ColumnMapper<?> elementMapper;
+---
+>     	private final ColumnMapper<?> elementMapper;

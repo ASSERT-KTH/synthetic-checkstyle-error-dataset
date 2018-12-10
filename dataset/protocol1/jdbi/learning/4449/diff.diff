@@ -1,0 +1,5 @@
+71c71,72
+<         addStatement(lastStatement, statements);
+---
+>         addStatement
+> (lastStatement, statements);

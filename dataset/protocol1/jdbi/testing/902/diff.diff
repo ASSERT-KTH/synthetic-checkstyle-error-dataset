@@ -1,0 +1,4 @@
+59c59
+<     private static String stringify(Object value) {
+---
+>     private static String stringify( Object value) {

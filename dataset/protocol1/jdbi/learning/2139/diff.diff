@@ -1,0 +1,4 @@
+22c22
+< import org.jdbi.v3.core.array.SqlArrayArgumentFactory;
+---
+> import org.jdbi.v3.core.array.SqlArrayArgumentFactory	;

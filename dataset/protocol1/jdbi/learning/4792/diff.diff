@@ -1,0 +1,5 @@
+370c370,371
+<             ParameterizedType that = (ParameterizedType) other;
+---
+>             ParameterizedType 
+> that = (ParameterizedType) other;

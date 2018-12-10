@@ -1,0 +1,4 @@
+56c56
+<                 return extensionType + "@" + Integer.toHexString(System.identityHashCode(proxy));
+---
+>                 return extensionType + "@" + Integer.toHexString(System.identityHashCode (proxy));

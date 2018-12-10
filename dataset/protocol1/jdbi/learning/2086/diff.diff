@@ -1,0 +1,5 @@
+48c48,49
+<     public static <T> T throwingOnlyUnchecked(DangerousRunnable<T> dangerous) {
+---
+>     public static <T> T throwingOnlyUnchecked(DangerousRunnable<T> 
+> dangerous) {

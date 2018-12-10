@@ -1,0 +1,4 @@
+210c210
+<             throw new IllegalArgumentException("queryTimeout must not be < 0");
+---
+>             throw new IllegalArgumentException("queryTimeout must not be < 0")	;

@@ -1,0 +1,5 @@
+45c45,46
+<     public void apply(final int position, PreparedStatement statement, StatementContext ctx) throws SQLException {
+---
+>     public 
+> void apply(final int position, PreparedStatement statement, StatementContext ctx) throws SQLException {

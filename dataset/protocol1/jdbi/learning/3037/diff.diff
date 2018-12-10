@@ -1,0 +1,5 @@
+59c59,60
+<     default RowMapper<T> specialize(ResultSet rs, StatementContext ctx) throws SQLException {
+---
+>     default RowMapper<T> specialize(ResultSet rs, StatementContext ctx) 
+> throws SQLException {

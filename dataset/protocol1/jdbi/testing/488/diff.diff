@@ -1,0 +1,5 @@
+98c98,99
+<         return new FieldMapper<>(type, prefix);
+---
+>         return new FieldMapper<>
+> (type, prefix);

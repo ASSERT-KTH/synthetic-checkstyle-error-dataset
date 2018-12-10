@@ -1,0 +1,4 @@
+23c23
+<         register(Character.class, Types.CHAR, new ToStringBinder<>(PreparedStatement::setString));
+---
+>         register(Character.class, Types.CHAR, new ToStringBinder<> (PreparedStatement::setString));

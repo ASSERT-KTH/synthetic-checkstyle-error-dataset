@@ -1,0 +1,5 @@
+59,60c59
+<         return (value == null ? "NULL" : String.valueOf(value))
+<             + (sqlType == null ? "" : " (type " + sqlType + ")");
+---
+>         return (value == null ? "NULL" : String.valueOf(value))            + (sqlType == null ? "" : " (type " + sqlType + ")");

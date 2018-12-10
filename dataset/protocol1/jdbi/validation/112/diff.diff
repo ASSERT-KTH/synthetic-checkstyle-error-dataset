@@ -1,0 +1,5 @@
+77c77,78
+<         throw new UnsupportedOperationException("Savepoints not supported");
+---
+>         throw new UnsupportedOperationException
+> ("Savepoints not supported");

@@ -1,0 +1,5 @@
+147c147,148
+<     private static <K, V> Type resolveMapEntryType(TypeToken<K> keyType, TypeToken<V> valueType) {
+---
+>     private static <K, V> Type resolveMapEntryType(TypeToken<K> keyType, TypeToken<V> 
+> valueType) {

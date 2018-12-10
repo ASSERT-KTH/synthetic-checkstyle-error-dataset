@@ -1,0 +1,4 @@
+69c69
+<             for (E e : type.getEnumConstants()) {
+---
+>             for (E e : type.getEnumConstants()){

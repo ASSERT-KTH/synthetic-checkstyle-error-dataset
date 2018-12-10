@@ -1,0 +1,4 @@
+71c71
+<             return Optional.of(named.get(name));
+---
+>             return Optional.of(named.get(name))	;

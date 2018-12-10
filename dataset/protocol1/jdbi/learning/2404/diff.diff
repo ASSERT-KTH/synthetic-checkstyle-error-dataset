@@ -1,0 +1,4 @@
+23c23
+<     public static <T extends Annotation> T create(Class<T> annotationType) {
+---
+>     public static <T extends  Annotation> T create(Class<T> annotationType) {

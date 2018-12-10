@@ -1,0 +1,4 @@
+372c372
+<                 && Objects.equals(getOwnerType(), that.getOwnerType())
+---
+>                 &&  Objects.equals(getOwnerType(), that.getOwnerType())

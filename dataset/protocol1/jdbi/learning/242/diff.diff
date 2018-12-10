@@ -1,0 +1,4 @@
+25c25
+< class CollectorColumnMapper<T, A, R> implements ColumnMapper<R> {
+---
+> 	class CollectorColumnMapper<T, A, R> implements ColumnMapper<R> {

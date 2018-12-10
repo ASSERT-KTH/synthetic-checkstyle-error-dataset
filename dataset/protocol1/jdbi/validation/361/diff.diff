@@ -1,0 +1,4 @@
+95c95
+<         if (names.contains(ParsedSql.POSITIONAL_PARAM)) {
+---
+>         if (names. contains(ParsedSql.POSITIONAL_PARAM)) {

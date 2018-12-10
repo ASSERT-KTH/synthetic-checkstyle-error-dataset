@@ -1,0 +1,4 @@
+28c28
+<         Class<?> clazz = getErasedType(type);
+---
+>         	Class<?> clazz = getErasedType(type);

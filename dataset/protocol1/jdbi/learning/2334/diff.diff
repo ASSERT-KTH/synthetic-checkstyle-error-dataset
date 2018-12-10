@@ -1,0 +1,4 @@
+24c24
+<         this.stringSetter = stringSetter;
+---
+>         this.	stringSetter = stringSetter;

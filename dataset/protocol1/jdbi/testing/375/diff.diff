@@ -1,0 +1,5 @@
+94c94,95
+<     <R, X extends Exception> R inTransaction(Handle handle,
+---
+>     <R, X extends Exception> R inTransaction(Handle 
+> handle,

@@ -1,0 +1,4 @@
+93c93
+<                 throw new RuntimeException("column " + name + " appeared twice in this resultset!");
+---
+>                 throw new RuntimeException("column "+ name + " appeared twice in this resultset!");

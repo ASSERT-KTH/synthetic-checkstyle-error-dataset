@@ -1,0 +1,4 @@
+41c41
+<                 mapTo = QualifiedType.of(((GenericType<?>) arg).getType());
+---
+>                 mapTo = QualifiedType.of(((GenericType< ?>) arg).getType());

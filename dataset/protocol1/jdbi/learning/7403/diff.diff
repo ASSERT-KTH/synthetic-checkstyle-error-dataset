@@ -1,0 +1,4 @@
+58c58
+<         return collectors.get(erasedType);
+---
+>         return collectors.get(	erasedType);

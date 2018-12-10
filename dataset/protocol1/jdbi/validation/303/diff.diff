@@ -1,0 +1,5 @@
+30,31c30
+<         return clazz.isEnum()
+<                 ? Optional.of(EnumMapper.byName(clazz.asSubclass(Enum.class)))
+---
+>         return clazz.isEnum()                ? Optional.of(EnumMapper.byName(clazz.asSubclass(Enum.class)))

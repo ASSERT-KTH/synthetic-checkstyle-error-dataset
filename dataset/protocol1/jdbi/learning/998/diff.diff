@@ -1,0 +1,4 @@
+50c50
+<             return dangerous.run();
+---
+>             return  dangerous.run();

@@ -1,0 +1,4 @@
+36c36
+<     private static <K, V, M extends Map<K, V>> void putEntry(M map, K key, V value) {
+---
+>     private  static <K, V, M extends Map<K, V>> void putEntry(M map, K key, V value) {

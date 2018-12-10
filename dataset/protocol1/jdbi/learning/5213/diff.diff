@@ -1,0 +1,4 @@
+36c36
+<     protected Object invokeMethod(Method method, StatementContext ctx) {
+---
+>     protected Object invokeMethod (Method method, StatementContext ctx) {

@@ -1,0 +1,5 @@
+66c66,67
+<             .filter(map -> String.class.equals(GenericTypes.findGenericParameter(map, Map.class, 0).orElse(null)))
+---
+>             .filter
+> (map -> String.class.equals(GenericTypes.findGenericParameter(map, Map.class, 0).orElse(null)))

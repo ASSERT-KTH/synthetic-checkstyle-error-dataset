@@ -1,0 +1,4 @@
+39c39
+<             && type.isAssignableFrom(method.getReturnType());
+---
+>             && type.isAssignableFrom	(method.getReturnType());

@@ -1,0 +1,4 @@
+30c30
+<         return stmt -> stmt.bind(parameterName, OffsetDateTime.now());
+---
+>         return stmt-> stmt.bind(parameterName, OffsetDateTime.now());

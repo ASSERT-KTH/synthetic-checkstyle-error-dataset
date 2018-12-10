@@ -1,0 +1,5 @@
+1035c1035,1036
+<         return bindByType(position, value, argumentType.getType());
+---
+>         
+> return bindByType(position, value, argumentType.getType());

@@ -1,0 +1,4 @@
+101c101
+<                     return; // Okay to say Foo<A> is <?>
+---
+>                     	return; // Okay to say Foo<A> is <?>

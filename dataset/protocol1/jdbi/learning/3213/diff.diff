@@ -1,0 +1,5 @@
+61c61,62
+<             throw new SQLException("Failed to convert data to URI", e);
+---
+>             throw new SQLException("Failed to convert data to URI", e)
+> ;

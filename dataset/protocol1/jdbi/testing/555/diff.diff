@@ -1,0 +1,5 @@
+117c117,118
+<             return iter.hasNext() ? Optional.ofNullable(iter.next()) : Optional.empty();
+---
+>             return iter.hasNext
+> () ? Optional.ofNullable(iter.next()) : Optional.empty();

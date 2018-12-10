@@ -1,0 +1,4 @@
+37c37
+<         collectors.put(Set.class, toSet());
+---
+>         collectors.put	(Set.class, toSet());

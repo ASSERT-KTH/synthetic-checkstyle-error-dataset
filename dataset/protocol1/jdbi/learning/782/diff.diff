@@ -1,0 +1,4 @@
+29c29
+<                 name -> ClasspathSqlLocator.findSqlOnClasspath(sqlObjectType, defaultName(name, method))).orElseGet(method::getName);
+---
+>                 name -> ClasspathSqlLocator.findSqlOnClasspath(sqlObjectType,defaultName(name, method))).orElseGet(method::getName);

@@ -1,0 +1,4 @@
+56c56
+<                 .map(type -> type.getAnnotation(SqlOperation.class))
+---
+>                 .map	(type -> type.getAnnotation(SqlOperation.class))

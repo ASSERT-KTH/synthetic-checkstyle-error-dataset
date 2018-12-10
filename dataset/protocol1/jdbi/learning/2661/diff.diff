@@ -1,0 +1,5 @@
+40c40,41
+< public @interface BindBeanList {
+---
+> public 
+> @interface BindBeanList {

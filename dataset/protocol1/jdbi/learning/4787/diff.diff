@@ -1,0 +1,4 @@
+292c292
+<     default <U> U reduceRows(U seed, BiFunction<U, RowView, U> accumulator) {
+---
+>     default <U> U reduceRows(U  seed, BiFunction<U, RowView, U> accumulator) {

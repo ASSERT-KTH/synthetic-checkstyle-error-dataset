@@ -1,0 +1,5 @@
+49,50c49
+<                     case DEFINE:
+<                         String text = t.getText();
+---
+>                     case DEFINE:                        String text = t.getText();

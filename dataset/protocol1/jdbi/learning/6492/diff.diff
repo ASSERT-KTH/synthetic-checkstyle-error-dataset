@@ -1,0 +1,4 @@
+144c144
+<         Optional<RowMapper<?>> mapper = factories.stream()
+---
+>         Optional<RowMapper<?>> mapper = factories.stream ()

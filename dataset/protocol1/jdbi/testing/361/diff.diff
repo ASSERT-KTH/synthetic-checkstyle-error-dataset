@@ -1,0 +1,4 @@
+44c44
+<             if (arg == null || IterableLike.isEmpty(arg)) {
+---
+>             if (arg == null  || IterableLike.isEmpty(arg)) {

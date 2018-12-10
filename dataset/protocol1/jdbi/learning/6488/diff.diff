@@ -1,0 +1,4 @@
+36c36
+<                 .orElseThrow(() -> new UnsupportedOperationException("Must use a concretely typed RowMapper here"));
+---
+>                 .orElseThrow( () -> new UnsupportedOperationException("Must use a concretely typed RowMapper here"));

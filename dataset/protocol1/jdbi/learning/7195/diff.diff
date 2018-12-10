@@ -1,0 +1,4 @@
+31c31
+< public interface LinkedHashMapRowReducer<K, V> extends RowReducer<Map<K, V>, V> {
+---
+> public interface LinkedHashMapRowReducer<K, V> extends RowReducer< Map<K, V>, V> {

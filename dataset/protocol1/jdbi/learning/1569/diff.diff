@@ -1,0 +1,5 @@
+93c93,94
+<         throw new UnsupportedOperationException();
+---
+>         throw new 
+> UnsupportedOperationException();

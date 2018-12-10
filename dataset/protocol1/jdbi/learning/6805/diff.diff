@@ -1,0 +1,4 @@
+34c34
+<         COLLECTORS.put(OptionalInt.class, toOptionalInt());
+---
+>         COLLECTORS.put(OptionalInt.class, toOptionalInt ());

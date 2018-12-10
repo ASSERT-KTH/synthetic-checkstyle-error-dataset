@@ -1,0 +1,4 @@
+82c82
+<     public static <T> T throwingOnlyException(DangerousRunnable<T> dangerous) throws Exception {
+---
+>     public static < T> T throwingOnlyException(DangerousRunnable<T> dangerous) throws Exception {

@@ -1,0 +1,5 @@
+99c99,100
+<         public Map<String, T> map(ResultSet rs, StatementContext ctx) throws SQLException {
+---
+>         public Map<String, T> map
+> (ResultSet rs, StatementContext ctx) throws SQLException {

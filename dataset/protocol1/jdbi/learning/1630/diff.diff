@@ -1,0 +1,4 @@
+119c119
+<         return new SqlArrayTypes(this);
+---
+>         return new SqlArrayTypes(this) ;

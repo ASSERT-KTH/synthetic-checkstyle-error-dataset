@@ -1,0 +1,4 @@
+59c59
+< @SqlStatementCustomizingAnnotation(DefineListFactory.class)
+---
+> @SqlStatementCustomizingAnnotation(DefineListFactory.	class)

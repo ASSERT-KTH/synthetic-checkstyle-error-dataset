@@ -1,0 +1,5 @@
+32,33c32
+<                 call.registerOutParameter(outParam.name(), outParam.sqlType());
+<             }
+---
+>                 call.registerOutParameter(outParam.name(), outParam.sqlType());            }

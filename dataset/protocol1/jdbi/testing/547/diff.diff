@@ -1,0 +1,4 @@
+23c23
+< public @interface GetGeneratedKeys {
+---
+> public @ interface GetGeneratedKeys {

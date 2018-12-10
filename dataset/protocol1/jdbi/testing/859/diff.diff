@@ -1,0 +1,4 @@
+38c38
+<     Class<? extends ArgumentFactory> value();
+---
+>     Class <? extends ArgumentFactory> value();

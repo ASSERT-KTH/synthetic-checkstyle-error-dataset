@@ -1,0 +1,4 @@
+35c35
+<         register(new DefaultMethodHandlerFactory());
+---
+>         register(new DefaultMethodHandlerFactory()	);

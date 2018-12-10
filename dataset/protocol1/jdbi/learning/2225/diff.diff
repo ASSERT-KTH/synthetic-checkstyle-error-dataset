@@ -1,0 +1,5 @@
+29c29,30
+<     static QualifiedColumnMapperFactory adapt(ColumnMapperFactory factory) {
+---
+>     static QualifiedColumnMapperFactory adapt
+> (ColumnMapperFactory factory) {

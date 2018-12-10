@@ -1,0 +1,4 @@
+58c58
+<             String name = r.getString(columnNumber);
+---
+>             String name  = r.getString(columnNumber);

@@ -1,0 +1,4 @@
+121c121
+<         } else if (method.isAnnotationPresent(BatchChunkSize.class)) {
+---
+>         } else if (method.isAnnotationPresent	(BatchChunkSize.class)) {

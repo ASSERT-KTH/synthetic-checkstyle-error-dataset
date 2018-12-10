@@ -1,0 +1,5 @@
+45,46c45
+<         ExtensionMethod oldExtensionMethod = handle.getExtensionMethod();
+<         try {
+---
+>         ExtensionMethod oldExtensionMethod = handle.getExtensionMethod();        try {

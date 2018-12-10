@@ -1,0 +1,4 @@
+46c46
+<         mappers.put(URI.class, new GetterMapper<>(InternetMapperFactory::getURI));
+---
+>         mappers.put(URI.class, new GetterMapper<>	(InternetMapperFactory::getURI));

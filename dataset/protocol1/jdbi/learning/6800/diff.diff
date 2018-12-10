@@ -1,0 +1,4 @@
+23c23
+< public interface ExtensionConsumer<E, X extends Exception> {
+---
+> public  interface ExtensionConsumer<E, X extends Exception> {

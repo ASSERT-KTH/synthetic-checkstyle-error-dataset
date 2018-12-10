@@ -1,0 +1,4 @@
+37c37
+<     Class<? extends ColumnMapperFactory> value();
+---
+>     Class<? extends ColumnMapperFactory>value();

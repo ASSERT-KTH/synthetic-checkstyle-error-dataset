@@ -1,0 +1,5 @@
+26c26,27
+<     public UnableToExecuteStatementException(String message) {
+---
+>     public 
+> UnableToExecuteStatementException(String message) {

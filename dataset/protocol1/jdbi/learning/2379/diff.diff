@@ -1,0 +1,4 @@
+46c46
+<     private final Map<Class<? extends Configurer>, Configurer> configurers = synchronizedMap(new WeakHashMap<>());
+---
+>     private final Map<Class	<? extends Configurer>, Configurer> configurers = synchronizedMap(new WeakHashMap<>());

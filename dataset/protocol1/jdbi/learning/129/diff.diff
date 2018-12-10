@@ -1,0 +1,4 @@
+37c37
+<             arguments.register(ObjectArgumentFactory.create(clazz, sqlType));
+---
+>             arguments.	register(ObjectArgumentFactory.create(clazz, sqlType));

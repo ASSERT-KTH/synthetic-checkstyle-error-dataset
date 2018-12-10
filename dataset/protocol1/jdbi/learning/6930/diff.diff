@@ -1,0 +1,4 @@
+51c51
+<             if ("toString".equals(name) && method.getParameterCount() == 0) {
+---
+>             if ("toString". equals(name) && method.getParameterCount() == 0) {

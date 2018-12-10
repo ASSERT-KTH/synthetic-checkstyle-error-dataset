@@ -1,0 +1,5 @@
+22c22,23
+< public interface HandleCallback<T, X extends Exception> {
+---
+> public interface HandleCallback<T, X 
+> extends Exception> {

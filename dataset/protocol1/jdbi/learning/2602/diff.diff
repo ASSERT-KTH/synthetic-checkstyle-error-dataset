@@ -1,0 +1,4 @@
+30c30
+< class InferredRowMapperFactory implements RowMapperFactory {
+---
+> class InferredRowMapperFactory implements RowMapperFactory  {

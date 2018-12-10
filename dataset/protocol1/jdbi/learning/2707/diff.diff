@@ -1,0 +1,4 @@
+280c280
+<             throw new IllegalArgumentException(String.format("Parameter at %d is not Date but %s", pos, obj.getClass()));
+---
+>             throw  new IllegalArgumentException(String.format("Parameter at %d is not Date but %s", pos, obj.getClass()));

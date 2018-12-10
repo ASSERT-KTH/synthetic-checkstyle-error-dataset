@@ -1,0 +1,5 @@
+68c68,69
+<     public <E> Optional<E> findFor(Class<E> extensionType, HandleSupplier handle) {
+---
+>     public <E> Optional<E> 
+> findFor(Class<E> extensionType, HandleSupplier handle) {

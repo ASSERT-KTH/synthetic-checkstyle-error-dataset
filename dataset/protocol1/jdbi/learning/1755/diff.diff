@@ -1,0 +1,4 @@
+21c21
+<         register(boolean.class, Types.BOOLEAN, PreparedStatement::setBoolean);
+---
+>         register(boolean.class, Types.BOOLEAN, PreparedStatement::setBoolean)	;

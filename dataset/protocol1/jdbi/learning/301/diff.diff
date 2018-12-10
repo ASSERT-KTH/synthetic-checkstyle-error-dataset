@@ -1,0 +1,4 @@
+34c34
+<     public LoggableToStringOrNPEArgument(T value, Function<T, String> toString) {
+---
+>     public LoggableToStringOrNPEArgument(T value, Function<T, String> toString){

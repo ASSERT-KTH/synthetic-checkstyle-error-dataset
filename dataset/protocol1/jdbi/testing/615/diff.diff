@@ -1,0 +1,5 @@
+65c65,66
+<         return Comparator.comparingInt(type -> {
+---
+>         
+> return Comparator.comparingInt(type -> {

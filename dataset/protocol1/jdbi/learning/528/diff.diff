@@ -1,0 +1,5 @@
+29,30c29
+<         return Stream.of(suppliers)
+<                 .flatMap(supplier -> toStream(supplier.get()))
+---
+>         return Stream.of(suppliers)                .flatMap(supplier -> toStream(supplier.get()))

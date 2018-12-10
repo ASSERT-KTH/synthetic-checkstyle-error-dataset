@@ -1,0 +1,4 @@
+24c24
+< class NVarcharArgumentFactory extends AbstractArgumentFactory<String> {
+---
+> class NVarcharArgumentFactory extends AbstractArgumentFactory	<String> {

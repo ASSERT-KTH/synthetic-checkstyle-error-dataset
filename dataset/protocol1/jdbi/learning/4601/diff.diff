@@ -1,0 +1,4 @@
+290c290
+<         private final QualifiedType elementType;
+---
+>         private  final QualifiedType elementType;

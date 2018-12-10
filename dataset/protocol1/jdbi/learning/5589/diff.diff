@@ -1,0 +1,5 @@
+80c80,81
+<     private RowMapper<?> rowMapperFor(Type type) throws SQLException {
+---
+>     private RowMapper<?> rowMapperFor(Type type) throws 
+> SQLException {

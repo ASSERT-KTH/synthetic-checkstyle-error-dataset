@@ -1,0 +1,4 @@
+66c66
+<     private Handler buildHandler(Class<? extends Handler> handlerType, Class<?> sqlObjectType, Method method) {
+---
+>     private Handler buildHandler(Class<? extends Handler> handlerType, Class<?> sqlObjectType,  Method method) {

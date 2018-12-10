@@ -1,0 +1,4 @@
+49c49
+<             stmt.getConfig(SqlObjectStatementConfiguration.class).setReturner(
+---
+>             stmt.getConfig(SqlObjectStatementConfiguration.class).setReturner (

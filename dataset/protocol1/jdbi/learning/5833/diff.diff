@@ -1,0 +1,4 @@
+35c35
+<     private final ConcurrentHashMap<QualifiedType, ColumnMapper<?>> cache = new ConcurrentHashMap<>();
+---
+>     private final ConcurrentHashMap<QualifiedType, ColumnMapper<?>> cache= new ConcurrentHashMap<>();

@@ -1,0 +1,5 @@
+28c28,29
+< public class BuiltInMapperFactory implements ColumnMapperFactory {
+---
+> public class BuiltInMapperFactory implements 
+> ColumnMapperFactory {

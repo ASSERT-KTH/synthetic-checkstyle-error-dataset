@@ -1,0 +1,4 @@
+35c35
+<         Stream.of(registerColumnMapperFactories.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));
+---
+>         Stream.of	(registerColumnMapperFactories.value()).forEach(anno -> delegate.configureForType(registry, anno, sqlObjectType));

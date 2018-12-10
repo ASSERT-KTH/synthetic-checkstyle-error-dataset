@@ -1,0 +1,5 @@
+265c265,266
+<                 throw new IllegalArgumentException(String.format(MISSING_SETTER, property.getName()));
+---
+>                 throw new IllegalArgumentException
+> (String.format(MISSING_SETTER, property.getName()));

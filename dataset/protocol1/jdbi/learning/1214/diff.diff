@@ -1,0 +1,4 @@
+78c78
+<         return delegate.inTransaction(handle, level, callback);
+---
+>         return delegate.inTransaction(handle, level, callback	);

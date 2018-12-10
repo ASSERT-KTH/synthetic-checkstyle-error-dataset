@@ -1,0 +1,4 @@
+68c68
+<             throw new UnableToCreateStatementException("Error rendering SQL template: '" + template + "'", e, ctx);
+---
+>             throw new UnableToCreateStatementException("Error rendering SQL template: '" + template + "'",  e, ctx);

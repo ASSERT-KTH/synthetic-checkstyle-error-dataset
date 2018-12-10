@@ -1,0 +1,4 @@
+37c37
+<     private static boolean isStaticFactoryMethodFor(Method method, Class<?> type) {
+---
+>     	private static boolean isStaticFactoryMethodFor(Method method, Class<?> type) {

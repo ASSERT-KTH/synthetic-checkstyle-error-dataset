@@ -1,0 +1,5 @@
+28,29c28
+<         return SqlAnnotations.getAnnotationValue(method,
+<                 name -> ClasspathSqlLocator.findSqlOnClasspath(sqlObjectType, defaultName(name, method))).orElseGet(method::getName);
+---
+>         return SqlAnnotations.getAnnotationValue(method,                name -> ClasspathSqlLocator.findSqlOnClasspath(sqlObjectType, defaultName(name, method))).orElseGet(method::getName);

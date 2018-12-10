@@ -1,0 +1,5 @@
+53c53,54
+<             return producer.produce(this::internalExecute, getContext());
+---
+>             return producer.produce(this::internalExecute, getContext
+> ());

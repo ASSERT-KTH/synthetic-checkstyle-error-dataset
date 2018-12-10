@@ -1,0 +1,4 @@
+475c475
+<             this.name = checkNotNull(name, "name");
+---
+>             this.name = checkNotNull(name, "name"	);

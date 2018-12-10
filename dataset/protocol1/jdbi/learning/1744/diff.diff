@@ -1,0 +1,5 @@
+23c23,24
+<     ToStringBinder(StatementBinder<String> stringSetter) {
+---
+>     ToStringBinder(StatementBinder<String> 
+> stringSetter) {

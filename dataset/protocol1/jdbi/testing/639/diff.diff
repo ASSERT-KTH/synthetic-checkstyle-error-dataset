@@ -1,0 +1,4 @@
+53c53
+<     private static final String TYPE_NOT_INSTANTIABLE =
+---
+>     private static  final String TYPE_NOT_INSTANTIABLE =

@@ -1,0 +1,4 @@
+48c48
+<     private static class ByName<E extends Enum<E>> extends EnumMapper<E> {
+---
+>     private static class ByName<E  extends Enum<E>> extends EnumMapper<E> {

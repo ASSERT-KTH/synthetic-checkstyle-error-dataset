@@ -1,0 +1,4 @@
+44c44
+<         factories.addAll(that.factories);
+---
+>         factories.addAll(that.factories	);

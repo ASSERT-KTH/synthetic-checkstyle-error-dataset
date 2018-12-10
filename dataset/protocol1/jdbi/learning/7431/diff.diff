@@ -1,0 +1,4 @@
+37c37
+<             if ("annotationType".equals(name) && method.getParameterCount() == 0) {
+---
+>             if ("annotationType".equals(name) && method. getParameterCount() == 0) {

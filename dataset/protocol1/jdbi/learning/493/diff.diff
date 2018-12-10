@@ -1,0 +1,5 @@
+27c27,28
+<     private final ResultReturner magic;
+---
+>     private final 
+> ResultReturner magic;

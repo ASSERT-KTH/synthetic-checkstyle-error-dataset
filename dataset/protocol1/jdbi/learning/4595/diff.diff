@@ -1,0 +1,5 @@
+323c323,324
+<         return getConfig(JdbiCollectors.class).findElementTypeFor(containerType);
+---
+>         return getConfig(JdbiCollectors.class).findElementTypeFor
+> (containerType);

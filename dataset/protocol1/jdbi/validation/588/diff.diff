@@ -1,0 +1,4 @@
+41c41
+<         this.context.addCleanable(results::close);
+---
+>         this.	context.addCleanable(results::close);

@@ -1,0 +1,4 @@
+100c100
+<                 matcher -> matcher.columnNameStartsWith(columnName, prefix)));
+---
+>                 matcher ->matcher.columnNameStartsWith(columnName, prefix)));

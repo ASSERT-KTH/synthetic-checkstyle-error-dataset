@@ -1,0 +1,5 @@
+411c411,412
+<         private static final long serialVersionUID = 0;
+---
+>         private static final long serialVersionUID = 0
+> ;

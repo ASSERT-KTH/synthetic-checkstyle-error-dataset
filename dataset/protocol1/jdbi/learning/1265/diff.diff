@@ -1,0 +1,5 @@
+31c31,32
+<     public NullArgument(int sqlType) {
+---
+>     public NullArgument
+> (int sqlType) {

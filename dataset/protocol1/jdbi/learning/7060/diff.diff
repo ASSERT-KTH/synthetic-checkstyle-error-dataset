@@ -1,0 +1,4 @@
+125c125
+<     public <R, X extends Exception> R inTransaction(Handle handle,
+---
+>     public <R, X extends Exception> R inTransaction	(Handle handle,

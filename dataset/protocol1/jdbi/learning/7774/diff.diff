@@ -1,0 +1,4 @@
+60c60
+<             + (sqlType == null ? "" : " (type " + sqlType + ")");
+---
+>             + (sqlType == null ? "" : " (type " + sqlType + ")")	;

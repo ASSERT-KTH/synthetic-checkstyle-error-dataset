@@ -1,0 +1,4 @@
+38c38
+<             throw new IllegalStateException("unable to create a specified row mapper factory", e);
+---
+>             throw new IllegalStateException("unable to create a specified row mapper factory" , e);

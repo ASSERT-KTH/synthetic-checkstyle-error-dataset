@@ -1,0 +1,4 @@
+30c30
+<         throw new UnsupportedOperationException("utility class");
+---
+>         throw new UnsupportedOperationException("utility class" );

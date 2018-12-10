@@ -1,0 +1,5 @@
+24,25c24
+<                 .orElseThrow(() -> new UnsupportedOperationException("Missing generic type parameter."));
+<     }
+---
+>                 .orElseThrow(() -> new UnsupportedOperationException("Missing generic type parameter."));    }

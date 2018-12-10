@@ -1,0 +1,4 @@
+74c74
+<             return rowMapperFor(type).map(rs, ctx);
+---
+>             return rowMapperFor	(type).map(rs, ctx);

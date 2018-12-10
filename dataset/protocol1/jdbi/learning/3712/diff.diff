@@ -1,0 +1,4 @@
+82c82
+<     private static OffsetDateTime getOffsetDateTime(ResultSet r, int i) throws SQLException {
+---
+>     private static OffsetDateTime getOffsetDateTime(ResultSet r, int i ) throws SQLException {

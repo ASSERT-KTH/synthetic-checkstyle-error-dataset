@@ -1,0 +1,4 @@
+51c51
+<                 return conn.prepareStatement(sql, columnNames);
+---
+>                 return conn.prepareStatement(sql, columnNames );

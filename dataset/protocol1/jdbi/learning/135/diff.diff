@@ -1,0 +1,5 @@
+36c36,37
+<             throw new IllegalArgumentException(MessageFormat.format(
+---
+>             throw new IllegalArgumentException
+> (MessageFormat.format(

@@ -1,0 +1,4 @@
+23c23
+<     public SqlScriptsHandler(Class<?> sqlObjectType, Method method) {
+---
+>     public SqlScriptsHandler(Class<?	> sqlObjectType, Method method) {

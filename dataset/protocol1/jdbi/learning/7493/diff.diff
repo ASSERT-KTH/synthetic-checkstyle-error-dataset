@@ -1,0 +1,4 @@
+35c35
+<             return MethodHandles.class.getMethod("privateLookupIn", Class.class, MethodHandles.Lookup.class);
+---
+>             return MethodHandles.class.getMethod("privateLookupIn", Class.	class, MethodHandles.Lookup.class);

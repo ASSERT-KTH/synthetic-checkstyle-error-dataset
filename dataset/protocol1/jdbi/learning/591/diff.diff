@@ -1,0 +1,5 @@
+132c132,133
+<         Type keyType = resolveType(KEY, mapType);
+---
+>         
+> Type keyType = resolveType(KEY, mapType);

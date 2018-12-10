@@ -1,0 +1,4 @@
+43c43
+<     private static final Object[] NO_ARGS = new Object[0];
+---
+>     private  static final Object[] NO_ARGS = new Object[0];

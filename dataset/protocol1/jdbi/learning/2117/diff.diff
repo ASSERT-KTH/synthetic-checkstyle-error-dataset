@@ -1,0 +1,5 @@
+68,69c68
+<             .filter(value -> !Object.class.equals(value))
+<             .flatMap(config.get(ColumnMappers.class)::findFor)
+---
+>             .filter(value -> !Object.class.equals(value))            .flatMap(config.get(ColumnMappers.class)::findFor)

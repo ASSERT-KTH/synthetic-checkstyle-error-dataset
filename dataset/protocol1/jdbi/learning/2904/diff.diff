@@ -1,0 +1,4 @@
+24c24
+< public interface SqlLoggable<T> {
+---
+> public interface SqlLoggable <T> {

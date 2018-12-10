@@ -1,0 +1,5 @@
+25,26c25
+< public @interface OutParameterList {
+<     OutParameter[] value();
+---
+> public @interface OutParameterList {    OutParameter[] value();

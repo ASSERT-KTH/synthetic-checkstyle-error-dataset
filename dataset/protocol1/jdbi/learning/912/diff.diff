@@ -1,0 +1,4 @@
+39c39
+<                 .orElseThrow(() -> new UnsupportedOperationException("Must use a concretely typed ColumnMapper here")),
+---
+>                 .orElseThrow( () -> new UnsupportedOperationException("Must use a concretely typed ColumnMapper here")),

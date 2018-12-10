@@ -1,0 +1,4 @@
+52c52
+<         BiConsumer<A, T> accumulator = collector.accumulator();
+---
+>         BiConsumer<A , T> accumulator = collector.accumulator();

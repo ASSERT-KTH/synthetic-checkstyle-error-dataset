@@ -1,0 +1,4 @@
+54c54
+<         Function<Type, Optional<SqlArrayType<?>>> lookup =
+---
+>         Function<Type, Optional<SqlArrayType<	?>>> lookup =

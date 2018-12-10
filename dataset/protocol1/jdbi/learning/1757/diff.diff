@@ -1,0 +1,4 @@
+43c43
+<             Stream.of(type.getFields())
+---
+>             Stream.of(type.getFields ())

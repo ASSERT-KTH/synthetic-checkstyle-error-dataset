@@ -1,0 +1,5 @@
+67,68c67
+<     public interface TokenHandler {
+<         void handle(Token t, StringBuilder sb);
+---
+>     public interface TokenHandler {        void handle(Token t, StringBuilder sb);

@@ -1,0 +1,5 @@
+37c37,38
+<                     argument == null ? Object.class : argument.getClass();
+---
+>                     argument == null ? Object.class : argument.getClass
+> ();

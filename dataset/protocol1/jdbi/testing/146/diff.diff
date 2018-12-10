@@ -1,0 +1,4 @@
+44c44
+<     static <T, OPT_T> OptionalBuilder<T, OPT_T> combine(OptionalBuilder<T, OPT_T> left, OptionalBuilder<T, OPT_T> right) {
+---
+>     static <T, OPT_T> OptionalBuilder<T,OPT_T> combine(OptionalBuilder<T, OPT_T> left, OptionalBuilder<T, OPT_T> right) {

@@ -1,0 +1,4 @@
+244c244
+<                     .specialize0(ctx, columnNames, columnNameMatchers, unmatchedColumns);
+---
+>                     .specialize0(ctx, columnNames,  columnNameMatchers, unmatchedColumns);

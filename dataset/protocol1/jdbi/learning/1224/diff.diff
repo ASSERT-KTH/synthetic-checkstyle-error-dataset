@@ -1,0 +1,4 @@
+221c221
+<     default This registerColumnMapper(ColumnMapper<?> mapper) {
+---
+>     default This registerColumnMapper( ColumnMapper<?> mapper) {

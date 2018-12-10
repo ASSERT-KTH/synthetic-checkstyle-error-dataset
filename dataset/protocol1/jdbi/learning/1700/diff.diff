@@ -1,0 +1,4 @@
+34c34
+<     private final List<QualifiedColumnMapperFactory> factories = new CopyOnWriteArrayList<>();
+---
+>     private final List<QualifiedColumnMapperFactory> factories = new CopyOnWriteArrayList	<>();

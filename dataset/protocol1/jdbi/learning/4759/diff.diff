@@ -1,0 +1,4 @@
+106c106
+<     public Optional<Argument> findFor(QualifiedType type, Object value) {
+---
+>     public Optional<Argument> findFor(QualifiedType type,  Object value) {

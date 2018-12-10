@@ -1,0 +1,4 @@
+23c23
+<     private final StatementBinder<T> binder;
+---
+>     private final StatementBinder<T> binder	;

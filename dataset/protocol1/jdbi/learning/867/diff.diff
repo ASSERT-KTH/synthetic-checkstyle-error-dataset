@@ -1,0 +1,4 @@
+33c33
+<                 && Objects.equals(candidate.getName(), method.getName())
+---
+>                 && Objects.equals(candidate.getName(), method.getName ())

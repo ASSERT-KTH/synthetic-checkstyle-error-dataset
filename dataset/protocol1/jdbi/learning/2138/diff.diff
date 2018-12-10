@@ -1,0 +1,4 @@
+36c36
+<     public InputStreamArgument(InputStream stream, int length, boolean ascii) {
+---
+>     public InputStreamArgument(InputStream stream, int length,  boolean ascii) {

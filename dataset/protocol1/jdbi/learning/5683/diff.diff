@@ -1,0 +1,4 @@
+276c276
+<         return configure(Extensions.class, c -> c.register(factory));
+---
+>         return configure(Extensions.class	, c -> c.register(factory));

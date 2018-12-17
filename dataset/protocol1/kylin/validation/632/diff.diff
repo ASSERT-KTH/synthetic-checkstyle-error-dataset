@@ -1,0 +1,5 @@
+43,44c43
+<         for (int i = 0; i < n; i++) {
+<             if (i < sampleNumber) {
+---
+>         for (int i = 0; i < n; i++) {            if (i < sampleNumber) {

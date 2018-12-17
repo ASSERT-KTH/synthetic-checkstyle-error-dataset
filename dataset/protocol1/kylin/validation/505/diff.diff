@@ -1,0 +1,4 @@
+85c85
+<         void onLock(String lockPath, String client);
+---
+>         void onLock( String lockPath, String client);

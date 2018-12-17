@@ -1,0 +1,4 @@
+28c28
+<     public DistributedLock lockForCurrentThread() {
+---
+>     	public DistributedLock lockForCurrentThread() {

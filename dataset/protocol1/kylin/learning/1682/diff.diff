@@ -1,0 +1,5 @@
+227,228c227
+<                 badQueryManager.upsertEntryToProject(entry, project);
+<             } catch (IOException e) {
+---
+>                 badQueryManager.upsertEntryToProject(entry, project);            } catch (IOException e) {

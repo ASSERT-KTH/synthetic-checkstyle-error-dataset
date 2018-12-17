@@ -1,0 +1,5 @@
+45,46c45
+<         if (null == obj) {
+<             return null;
+---
+>         if (null == obj) {            return null;

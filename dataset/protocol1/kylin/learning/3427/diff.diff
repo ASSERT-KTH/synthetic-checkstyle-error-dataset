@@ -1,0 +1,5 @@
+87,88c87
+<         }
+<         Authentication authed = userCache.getIfPresent(userKey);
+---
+>         }        Authentication authed = userCache.getIfPresent(userKey);

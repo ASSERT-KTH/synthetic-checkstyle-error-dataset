@@ -1,0 +1,5 @@
+56,57c56
+<         if (metrics == null) {
+<             metrics = MetricsFactory.getInstance();
+---
+>         if (metrics == null) {            metrics = MetricsFactory.getInstance();

@@ -1,0 +1,5 @@
+111,112c111
+<             Message msg = MsgPicker.getMsg();
+<             logger.warn("Directly return exception as too many concurrent query requests for project: {}", project);
+---
+>             Message msg = MsgPicker.getMsg();            logger.warn("Directly return exception as too many concurrent query requests for project: {}", project);

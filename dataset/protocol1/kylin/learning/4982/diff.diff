@@ -1,0 +1,5 @@
+25,26c25
+<         if (indexes == null || indexes.length == 0) {
+<             return new BitSet();
+---
+>         if (indexes == null || indexes.length == 0) {            return new BitSet();

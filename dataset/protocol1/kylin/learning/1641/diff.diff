@@ -1,0 +1,4 @@
+173c173
+<             if (tbl.equalsIgnoreCase(table)) {
+---
+>             if (tbl.equalsIgnoreCase(table )) {

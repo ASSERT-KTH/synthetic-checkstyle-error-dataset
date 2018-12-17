@@ -1,0 +1,5 @@
+76,77c76
+<         hashCode = hashCode * prime + Long.valueOf(lastModified).hashCode();
+<         return hashCode;
+---
+>         hashCode = hashCode * prime + Long.valueOf(lastModified).hashCode();        return hashCode;

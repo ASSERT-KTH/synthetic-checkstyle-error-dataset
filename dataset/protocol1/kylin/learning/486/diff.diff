@@ -1,0 +1,4 @@
+382c382
+<         for (Long joint : getJoints()) {
+---
+>         	for (Long joint : getJoints()) {

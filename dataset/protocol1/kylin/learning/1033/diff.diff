@@ -1,0 +1,4 @@
+56c56
+<         if (cubeCache == null) {
+---
+>         if (cubeCache == null ) {

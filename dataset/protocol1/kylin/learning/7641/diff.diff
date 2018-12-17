@@ -1,0 +1,4 @@
+63c63
+<         out.writeShort(fixedLen);
+---
+>         out.writeShort( fixedLen);

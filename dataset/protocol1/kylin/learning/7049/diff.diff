@@ -1,0 +1,4 @@
+22c22
+< import org.apache.kylin.dimension.DictionaryDimEnc;
+---
+> import org.apache.kylin.dimension.	DictionaryDimEnc;

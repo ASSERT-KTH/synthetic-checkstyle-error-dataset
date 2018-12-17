@@ -1,0 +1,5 @@
+106,107c106
+<             throws IOException, JsonGenerationException, JsonMappingException {
+<         mapper.writeValue(out, value);
+---
+>             throws IOException, JsonGenerationException, JsonMappingException {        mapper.writeValue(out, value);

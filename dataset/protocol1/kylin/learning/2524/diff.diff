@@ -1,0 +1,4 @@
+48c48
+<     final private Set<CompareTupleFilter> mustTrueCompares;
+---
+>     final private Set<CompareTupleFilter> mustTrueCompares	;

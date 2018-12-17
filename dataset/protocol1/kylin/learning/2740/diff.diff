@@ -1,0 +1,4 @@
+46c46
+< public class GlobalDictHDFSStore extends GlobalDictStore {
+---
+> public class GlobalDictHDFSStore extends GlobalDictStore 	{

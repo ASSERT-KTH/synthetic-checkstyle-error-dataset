@@ -1,0 +1,4 @@
+95c95
+<         return StringUtils.equals(verboseMsg, another.verboseMsg);
+---
+>         return 	StringUtils.equals(verboseMsg, another.verboseMsg);

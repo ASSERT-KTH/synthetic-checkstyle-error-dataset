@@ -1,0 +1,4 @@
+40c40
+<     public static class NotEnoughBudgetException extends IllegalStateException {
+---
+>     public 	static class NotEnoughBudgetException extends IllegalStateException {

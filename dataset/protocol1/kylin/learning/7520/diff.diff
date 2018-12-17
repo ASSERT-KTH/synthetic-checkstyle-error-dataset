@@ -1,0 +1,4 @@
+94c94
+<     public IGTComparator getComparator() {
+---
+>     public IGTComparator getComparator() 	{

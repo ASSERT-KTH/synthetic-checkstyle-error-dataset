@@ -1,0 +1,5 @@
+57,58c57
+<             ((HttpServletResponse) response).addHeader("Access-Control-Allow-Origin", "*");
+<             ((HttpServletResponse) response).addHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");
+---
+>             ((HttpServletResponse) response).addHeader("Access-Control-Allow-Origin", "*");            ((HttpServletResponse) response).addHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");

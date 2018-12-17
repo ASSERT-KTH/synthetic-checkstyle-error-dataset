@@ -1,0 +1,4 @@
+80c80
+<         return getBadQueryHistoryManager().getBadQueriesForProject(project);
+---
+>         	return getBadQueryHistoryManager().getBadQueriesForProject(project);

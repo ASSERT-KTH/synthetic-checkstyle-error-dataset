@@ -1,0 +1,4 @@
+60c60
+<     public void serialize(SnapshotTable obj, DataOutputStream out) throws IOException {
+---
+>     public 	void serialize(SnapshotTable obj, DataOutputStream out) throws IOException {

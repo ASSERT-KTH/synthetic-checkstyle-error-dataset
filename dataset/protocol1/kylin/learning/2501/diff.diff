@@ -1,0 +1,4 @@
+124c124
+<                 .format(new Object[] { tableName, metaTableContent, metaTableKey }, new StringBuffer(),
+---
+>                 .format(new 	Object[] { tableName, metaTableContent, metaTableKey }, new StringBuffer(),

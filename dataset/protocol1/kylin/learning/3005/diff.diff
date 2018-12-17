@@ -1,0 +1,4 @@
+31c31
+<         for (JobTimeFilterEnum timeFilter : values()) {
+---
+>         for (JobTimeFilterEnum timeFilter : 	values()) {

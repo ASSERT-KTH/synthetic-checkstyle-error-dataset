@@ -1,0 +1,4 @@
+50c50
+<         return _getShard(hash, totalShards);
+---
+>         	return _getShard(hash, totalShards);

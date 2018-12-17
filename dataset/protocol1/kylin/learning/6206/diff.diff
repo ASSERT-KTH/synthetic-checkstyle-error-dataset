@@ -1,0 +1,4 @@
+213c213
+<         CustomProperties customProperties = new CustomProperties(this.properties);
+---
+>         	CustomProperties customProperties = new CustomProperties(this.properties);

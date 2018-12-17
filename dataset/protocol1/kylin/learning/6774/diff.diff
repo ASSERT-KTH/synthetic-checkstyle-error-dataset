@@ -1,0 +1,4 @@
+69c69
+<         for (int i = offset + size - 1; i >= offset; i--) {
+---
+>         for (int i 	= offset + size - 1; i >= offset; i--) {

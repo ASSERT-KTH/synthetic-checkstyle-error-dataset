@@ -1,0 +1,4 @@
+58c58
+<     public String readColumnString(TblColRef col, byte[] bytes, int offset, int length) {
+---
+>     public String readColumnString(TblColRef col, byte[] bytes	, int offset, int length) {

@@ -1,0 +1,4 @@
+125c125
+<         return queryService.getQueries(creator, project);
+---
+>         return queryService.getQueries(creator, project );

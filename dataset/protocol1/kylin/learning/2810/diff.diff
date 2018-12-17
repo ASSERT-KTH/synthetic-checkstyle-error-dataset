@@ -1,0 +1,4 @@
+398c398
+<             int smallCellMetadataWarningThreshold = kylinConfig.getSmallCellMetadataWarningThreshold();
+---
+>             	int smallCellMetadataWarningThreshold = kylinConfig.getSmallCellMetadataWarningThreshold();

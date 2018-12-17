@@ -1,0 +1,5 @@
+173,174c173
+<         if (i < n) {
+<             AppendDictNode c1 = new AppendDictNode(BytesUtil.subarray(node.part, i, n), node.isEndOfValue, node.children);
+---
+>         if (i < n) {            AppendDictNode c1 = new AppendDictNode(BytesUtil.subarray(node.part, i, n), node.isEndOfValue, node.children);

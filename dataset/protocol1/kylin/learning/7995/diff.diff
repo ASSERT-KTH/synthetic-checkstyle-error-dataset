@@ -1,0 +1,5 @@
+163,164c163
+<         for (AbstractExecutable task : subTasks) {
+<             if (task.getName() != null && task.getName().equalsIgnoreCase(name)) {
+---
+>         for (AbstractExecutable task : subTasks) {            if (task.getName() != null && task.getName().equalsIgnoreCase(name)) {

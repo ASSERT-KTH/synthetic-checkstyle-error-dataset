@@ -1,0 +1,4 @@
+191c191
+<                     .newArrayList(Iterators.filter(readableProjects.iterator(), new Predicate<ProjectInstance>() {
+---
+>                     	.newArrayList(Iterators.filter(readableProjects.iterator(), new Predicate<ProjectInstance>() {

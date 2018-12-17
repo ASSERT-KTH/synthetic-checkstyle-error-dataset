@@ -1,0 +1,4 @@
+103c103
+<     public List<ManagedUser> list() {
+---
+>     public 	List<ManagedUser> list() {

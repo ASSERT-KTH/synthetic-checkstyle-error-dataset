@@ -1,0 +1,4 @@
+77c77
+<         LinkedHashMap<String, String> ret = new LinkedHashMap<>(metadataUrl.getAllParameters());
+---
+>         LinkedHashMap<String, String> ret = new LinkedHashMap<>(metadataUrl.	getAllParameters());

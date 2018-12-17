@@ -1,0 +1,4 @@
+122c122
+<     public static void writeValueWithTyping(OutputStream out, Object value) throws IOException {
+---
+>     public static void writeValueWithTyping(OutputStream out, 	Object value) throws IOException {

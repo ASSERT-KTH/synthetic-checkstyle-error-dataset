@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.common.util.Dictionary;
+< import org.apache.kylin.common.util.RandomUtil;
+---
+> import org.apache.kylin.common.util.Dictionary;import org.apache.kylin.common.util.RandomUtil;

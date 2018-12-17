@@ -1,0 +1,4 @@
+57c57
+<         setUuid(cube.getUuid());
+---
+>         	setUuid(cube.getUuid());

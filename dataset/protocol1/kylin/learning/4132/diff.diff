@@ -1,0 +1,4 @@
+26c26
+< public class ContentReader<T extends RootPersistentEntity> {
+---
+> public class ContentReader<T extends RootPersistentEntity	> {

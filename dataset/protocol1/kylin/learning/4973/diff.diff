@@ -1,0 +1,5 @@
+489c489,490
+<                             pstat2 = connection.prepareStatement(sqls.getUpdateContentSql());
+---
+>                             pstat2 = connection.prepareStatement(sqls.getUpdateContentSql
+> ());

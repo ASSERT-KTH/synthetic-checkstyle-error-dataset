@@ -1,0 +1,4 @@
+245c245
+<             logger.warn("Error while deserialize queryStatistics due to " + e);
+---
+>             logger.warn("Error while deserialize queryStatistics due to " 	+ e);

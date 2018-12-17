@@ -1,0 +1,4 @@
+77c77
+<     public void wipeCacheWithRequestBody(@PathVariable String entity, @PathVariable String event,
+---
+>     public void wipeCacheWithRequestBody(@PathVariable String entity, @PathVariable String 	event,

@@ -1,0 +1,4 @@
+301c301
+<             dout = new DataOutputStream(new BufferedOutputStream(out, STREAM_BUFFER_SIZE));
+---
+>             dout = new DataOutputStream(new BufferedOutputStream(out, STREAM_BUFFER_SIZE ));

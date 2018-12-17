@@ -1,0 +1,4 @@
+86c86
+<                 CubeInstance copyForWrite = cube.latestCopyForWrite();
+---
+>                 CubeInstance copyForWrite = cube.	latestCopyForWrite();

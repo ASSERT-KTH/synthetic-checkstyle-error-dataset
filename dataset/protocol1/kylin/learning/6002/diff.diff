@@ -1,0 +1,4 @@
+50c50
+<     public boolean hasProjectOperationPermission(ProjectInstance project) {
+---
+>     public boolean hasProjectOperationPermission(ProjectInstance 	project) {

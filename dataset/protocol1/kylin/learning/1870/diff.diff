@@ -1,0 +1,5 @@
+74,75c74
+<         if (StringUtils.isNotEmpty(path)) {
+<             confFile = new File(path, xmlFileName);
+---
+>         if (StringUtils.isNotEmpty(path)) {            confFile = new File(path, xmlFileName);

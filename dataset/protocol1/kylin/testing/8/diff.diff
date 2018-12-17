@@ -1,0 +1,4 @@
+54c54
+<             logger.error("Caught exception in thread " + Thread.currentThread().getName() + ": ", t);
+---
+>             logger.error("Caught exception in thread " + Thread.currentThread().getName() + ": ", t)	;

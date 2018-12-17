@@ -1,0 +1,4 @@
+76c76
+<         metricsEvent.put(JobPropertyEnum.STEP_DURATION_DISTINCT_COLUMNS.toString(), dColumnDistinct);
+---
+>         metricsEvent.put(JobPropertyEnum.STEP_DURATION_DISTINCT_COLUMNS.toString (), dColumnDistinct);

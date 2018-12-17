@@ -1,0 +1,4 @@
+193c193
+<         this.hierarchyMasks = new ArrayList<HierarchyMask>();
+---
+>         	this.hierarchyMasks = new ArrayList<HierarchyMask>();

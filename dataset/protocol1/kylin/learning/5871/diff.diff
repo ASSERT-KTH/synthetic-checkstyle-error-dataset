@@ -1,0 +1,5 @@
+50,51c50
+<     public void serialize(T obj, DataOutputStream out) throws IOException {
+<         if (compact)
+---
+>     public void serialize(T obj, DataOutputStream out) throws IOException {        if (compact)

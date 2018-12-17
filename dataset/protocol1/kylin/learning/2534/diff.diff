@@ -1,0 +1,5 @@
+919,920c919
+<                                     boolean ret = statusList.contains(state);
+<                                     return ret;
+---
+>                                     boolean ret = statusList.contains(state);                                    return ret;

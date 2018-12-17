@@ -1,0 +1,4 @@
+70c70
+<                         String.format(Locale.ROOT, msg.getHBASE_FAIL(), ex.getMessage()), ex));
+---
+>                         String.format(Locale.ROOT, msg.getHBASE_FAIL(), ex.getMessage())	, ex));

@@ -1,0 +1,4 @@
+92c92
+<         if (cuboidsByLayer != null) {
+---
+>         if (cuboidsByLayer 	!= null) {

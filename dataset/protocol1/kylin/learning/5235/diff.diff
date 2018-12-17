@@ -1,0 +1,5 @@
+150,151c150
+<         for (Pair<TableDesc, TableExtDesc> pair : allMeta) {
+<             TableDesc tableDesc = pair.getFirst();
+---
+>         for (Pair<TableDesc, TableExtDesc> pair : allMeta) {            TableDesc tableDesc = pair.getFirst();

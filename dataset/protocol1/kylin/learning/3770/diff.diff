@@ -1,0 +1,4 @@
+50c50
+<         column = column.toUpperCase(Locale.ROOT);
+---
+>         	column = column.toUpperCase(Locale.ROOT);

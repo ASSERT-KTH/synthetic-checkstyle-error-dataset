@@ -1,0 +1,4 @@
+33c33
+< public class SQLResponse implements Serializable {
+---
+> public class SQLResponse 	implements Serializable {

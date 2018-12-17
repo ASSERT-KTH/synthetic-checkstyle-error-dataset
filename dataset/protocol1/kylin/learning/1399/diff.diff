@@ -1,0 +1,4 @@
+57c57
+<                 boolean notfound = cuboidSet.add(sc);
+---
+>                 boolean notfound = cuboidSet.add(sc)	;

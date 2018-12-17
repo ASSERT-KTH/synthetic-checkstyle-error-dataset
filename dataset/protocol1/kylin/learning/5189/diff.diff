@@ -1,0 +1,4 @@
+87c87
+<         List<String> inputToMeasure = Lists.newArrayListWithExpectedSize(paramCount);
+---
+>         List	<String> inputToMeasure = Lists.newArrayListWithExpectedSize(paramCount);

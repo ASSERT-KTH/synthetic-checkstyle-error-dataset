@@ -1,0 +1,4 @@
+36c36
+<     public final BytesConverter bytesConverter;
+---
+>     	public final BytesConverter bytesConverter;

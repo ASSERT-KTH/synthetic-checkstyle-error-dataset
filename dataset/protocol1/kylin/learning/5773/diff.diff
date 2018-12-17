@@ -1,0 +1,4 @@
+168c168
+<         result = prime * result + ((config == null) ? 0 : config.hashCode());
+---
+>         	result = prime * result + ((config == null) ? 0 : config.hashCode());

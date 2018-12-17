@@ -1,0 +1,5 @@
+130,131c130
+<                     while (result != null) {
+<                         AclRecord record = new AclRecord();
+---
+>                     while (result != null) {                        AclRecord record = new AclRecord();

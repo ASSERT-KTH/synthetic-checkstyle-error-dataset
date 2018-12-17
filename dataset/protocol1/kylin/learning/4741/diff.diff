@@ -1,0 +1,5 @@
+233,234c233
+<         if (buildType == CubeBuildTypeEnum.BUILD || buildType == CubeBuildTypeEnum.REFRESH) {
+<             checkAllowParallelBuilding(cube);
+---
+>         if (buildType == CubeBuildTypeEnum.BUILD || buildType == CubeBuildTypeEnum.REFRESH) {            checkAllowParallelBuilding(cube);

@@ -1,0 +1,5 @@
+45,46c45
+< import com.google.common.hash.HashFunction;
+< import com.google.common.hash.Hashing;
+---
+> import com.google.common.hash.HashFunction;import com.google.common.hash.Hashing;

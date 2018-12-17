@@ -1,0 +1,4 @@
+155c155
+<         testFilter(eq(col(1), 1, 5, 7));
+---
+>         testFilter(eq(col (1), 1, 5, 7));

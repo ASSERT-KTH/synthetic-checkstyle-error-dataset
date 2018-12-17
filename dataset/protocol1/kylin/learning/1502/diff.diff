@@ -1,0 +1,4 @@
+78c78
+<         result.setType(executable.getClass().getName());
+---
+>         result.setType(executable.getClass()	.getName());

@@ -1,0 +1,4 @@
+41c41
+<         response.sendError(HttpServletResponse.SC_UNAUTHORIZED, "Unauthorized");
+---
+>         response.sendError(HttpServletResponse.SC_UNAUTHORIZED	, "Unauthorized");

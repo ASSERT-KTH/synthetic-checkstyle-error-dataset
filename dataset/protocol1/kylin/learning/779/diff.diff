@@ -1,0 +1,4 @@
+103c103
+<                         DataModelDesc model = cube.getModel();
+---
+>                         DataModelDesc 	model = cube.getModel();

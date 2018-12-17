@@ -1,0 +1,4 @@
+302c302
+<             children = getOnTreeParentsByLayer(children, agg);
+---
+>             children = getOnTreeParentsByLayer (children, agg);

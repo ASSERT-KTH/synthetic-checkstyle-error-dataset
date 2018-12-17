@@ -1,0 +1,4 @@
+34c34
+<         if (!config.getStorageUrl().getScheme().equals("hbase"))
+---
+>         	if (!config.getStorageUrl().getScheme().equals("hbase"))

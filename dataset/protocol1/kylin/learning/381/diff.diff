@@ -1,0 +1,5 @@
+130,131c130
+<             if (!Character.isDigit(str.charAt(i))) {
+<                 if (i == 0 && str.charAt(0) == '-') {
+---
+>             if (!Character.isDigit(str.charAt(i))) {                if (i == 0 && str.charAt(0) == '-') {

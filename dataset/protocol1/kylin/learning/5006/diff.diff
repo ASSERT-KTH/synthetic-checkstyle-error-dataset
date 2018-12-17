@@ -1,0 +1,4 @@
+39c39
+<         RowKeyEncoder rowKeyEncoder = rowKeyEncoders.get(cuboid.getId());
+---
+>         RowKeyEncoder 	rowKeyEncoder = rowKeyEncoders.get(cuboid.getId());

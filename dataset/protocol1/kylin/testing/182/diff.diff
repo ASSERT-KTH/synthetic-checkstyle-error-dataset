@@ -1,0 +1,5 @@
+26,27c26
+< import org.springframework.security.core.authority.SimpleGrantedAuthority;
+< import org.springframework.security.ldap.userdetails.DefaultLdapAuthoritiesPopulator;
+---
+> import org.springframework.security.core.authority.SimpleGrantedAuthority;import org.springframework.security.ldap.userdetails.DefaultLdapAuthoritiesPopulator;

@@ -1,0 +1,5 @@
+155,156c155
+<     public Object decodeColumnValue(int col, ByteBuffer buf) {
+<         return serializers[col].deserialize(buf);
+---
+>     public Object decodeColumnValue(int col, ByteBuffer buf) {        return serializers[col].deserialize(buf);

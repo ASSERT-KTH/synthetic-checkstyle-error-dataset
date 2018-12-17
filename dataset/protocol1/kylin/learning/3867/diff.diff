@@ -1,0 +1,4 @@
+51c51
+<     public void setOffset(long offset) {
+---
+>     public void setOffset(long offset) 	{

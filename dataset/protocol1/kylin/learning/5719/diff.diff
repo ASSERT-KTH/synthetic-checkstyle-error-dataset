@@ -1,0 +1,4 @@
+55c55
+<         this.username = username;
+---
+>         this.username 	= username;

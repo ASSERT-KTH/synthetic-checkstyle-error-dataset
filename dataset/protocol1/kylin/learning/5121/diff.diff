@@ -1,0 +1,5 @@
+34,35c34
+<             tempFile = File.createTempFile(prefix, suffix);
+<             org.apache.commons.io.FileUtils.forceDelete(tempFile); // we need a directory, so delete the file first
+---
+>             tempFile = File.createTempFile(prefix, suffix);            org.apache.commons.io.FileUtils.forceDelete(tempFile); // we need a directory, so delete the file first

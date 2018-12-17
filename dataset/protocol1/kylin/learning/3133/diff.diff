@@ -1,0 +1,4 @@
+76c76
+<         this.setName(table.getName());
+---
+>         	this.setName(table.getName());

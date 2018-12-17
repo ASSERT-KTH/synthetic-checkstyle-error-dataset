@@ -1,0 +1,4 @@
+70c70
+<         Map<Long, Cuboid> cubeCache = schedulerCuboidCache.get(cubeDesc.getName());
+---
+>         Map<Long, Cuboid> cubeCache = schedulerCuboidCache.get(cubeDesc	.getName());

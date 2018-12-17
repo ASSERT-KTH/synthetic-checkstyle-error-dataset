@@ -1,0 +1,5 @@
+48c48,49
+<             final Pair<Integer, String> result = context.getConfig().getCliCommandExecutor().execute(getCmd(), patternedLogger);
+---
+>             final Pair<Integer, String> result = context.getConfig().getCliCommandExecutor().execute
+> (getCmd(), patternedLogger);

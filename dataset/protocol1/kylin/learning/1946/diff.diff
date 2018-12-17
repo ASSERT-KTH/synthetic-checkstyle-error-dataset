@@ -1,0 +1,4 @@
+59c59
+<         ByteArray[] splits = rowKeySplitter.getSplitBuffers();
+---
+>         ByteArray[] splits = rowKeySplitter.getSplitBuffers ();

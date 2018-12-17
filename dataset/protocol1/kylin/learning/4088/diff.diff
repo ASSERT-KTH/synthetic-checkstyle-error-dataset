@@ -1,0 +1,5 @@
+177c177,178
+<                     int childIdx = columns.trueBitIndexOf(childEntry.getKey());
+---
+>                     int childIdx = columns.trueBitIndexOf
+> (childEntry.getKey());

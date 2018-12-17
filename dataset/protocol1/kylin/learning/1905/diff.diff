@@ -1,0 +1,5 @@
+208,209c208
+<                 rebuildTrieTreeR(childOffset + headSize, node);
+<             }
+---
+>                 rebuildTrieTreeR(childOffset + headSize, node);            }

@@ -1,0 +1,4 @@
+315c315
+<         return CubeInstance.class.getSimpleName() + "-" + cubeDesc.getName();
+---
+>         return CubeInstance.class.getSimpleName() + "-" + cubeDesc.getName()	;

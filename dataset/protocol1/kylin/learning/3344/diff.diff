@@ -1,0 +1,5 @@
+29,30c29
+<     public final int nRows;
+<     public final long timeSpent;
+---
+>     public final int nRows;    public final long timeSpent;

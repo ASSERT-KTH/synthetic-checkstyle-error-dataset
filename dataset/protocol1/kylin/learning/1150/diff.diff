@@ -1,0 +1,5 @@
+73c73,74
+<         DictionaryDesc desc = new DictionaryDesc();
+---
+>         DictionaryDesc desc = new DictionaryDesc
+> ();

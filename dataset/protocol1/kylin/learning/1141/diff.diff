@@ -1,0 +1,4 @@
+43c43
+<         sourceColumn = dictInfo.getSourceTable() + "." + dictInfo.getSourceColumn();
+---
+>         sourceColumn = dictInfo.getSourceTable() + 	"." + dictInfo.getSourceColumn();

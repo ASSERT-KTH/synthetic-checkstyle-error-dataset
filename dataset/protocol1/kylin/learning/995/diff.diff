@@ -1,0 +1,5 @@
+146,147c146
+<     public static void deletePath(Configuration conf, Path path) throws IOException {
+<         FileSystem fs = FileSystem.get(path.toUri(), conf);
+---
+>     public static void deletePath(Configuration conf, Path path) throws IOException {        FileSystem fs = FileSystem.get(path.toUri(), conf);

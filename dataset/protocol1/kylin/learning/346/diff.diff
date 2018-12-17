@@ -1,0 +1,4 @@
+77c77
+<     protected static RealizationSignature getRealizationSignature(KylinConfig config, String realizationName) {
+---
+>     protected static RealizationSignature getRealizationSignature (KylinConfig config, String realizationName) {

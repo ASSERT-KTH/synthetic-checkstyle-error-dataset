@@ -1,0 +1,4 @@
+275c275
+<             ImmutableBitSet metrics = getMetricsColumns(record);
+---
+>             ImmutableBitSet metrics = getMetricsColumns(record)	;

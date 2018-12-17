@@ -1,0 +1,5 @@
+876,877c876
+<         Set<Long> currentCuboidSet = cube.getCuboidScheduler().getAllCuboidIds();
+<         return cubeService.getCuboidTreeResponse(cuboidScheduler, recommendCuboidStatsMap, displayHitFrequencyMap,
+---
+>         Set<Long> currentCuboidSet = cube.getCuboidScheduler().getAllCuboidIds();        return cubeService.getCuboidTreeResponse(cuboidScheduler, recommendCuboidStatsMap, displayHitFrequencyMap,

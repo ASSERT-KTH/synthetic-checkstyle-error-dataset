@@ -1,0 +1,4 @@
+30c30
+<     private static final Random rand = new Random();
+---
+>     private static final Random 	rand = new Random();

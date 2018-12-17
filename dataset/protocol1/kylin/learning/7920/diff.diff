@@ -1,0 +1,5 @@
+115,116c115
+<             s.append(prop.getKey());
+<             s.append("=");
+---
+>             s.append(prop.getKey());            s.append("=");

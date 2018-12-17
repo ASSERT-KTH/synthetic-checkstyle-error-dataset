@@ -1,0 +1,5 @@
+213,214c213
+<         int lastEnd = lastBegin;
+<         int temp = 0;
+---
+>         int lastEnd = lastBegin;        int temp = 0;

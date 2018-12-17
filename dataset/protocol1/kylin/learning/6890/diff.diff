@@ -1,0 +1,5 @@
+36,37c36
+<     public void convert(ByteArray currentObject, GTRecord record) {
+<         record.loadColumns(currentObject.asBuffer());
+---
+>     public void convert(ByteArray currentObject, GTRecord record) {        record.loadColumns(currentObject.asBuffer());

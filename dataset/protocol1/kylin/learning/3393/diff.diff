@@ -1,0 +1,5 @@
+146,147c146
+<             getTableManager().reloadSourceTableQuietly(entry.getKey(), entry.getValue());
+<             getTableManager().reloadTableExtQuietly(entry.getKey(), entry.getValue());
+---
+>             getTableManager().reloadSourceTableQuietly(entry.getKey(), entry.getValue());            getTableManager().reloadTableExtQuietly(entry.getKey(), entry.getValue());

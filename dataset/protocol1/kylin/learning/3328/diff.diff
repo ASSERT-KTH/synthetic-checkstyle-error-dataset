@@ -1,0 +1,5 @@
+141,142c141
+<     public boolean hasProjectAdminPermission(ProjectInstance project) {
+<         boolean _hasProjectAdminPermission = false;
+---
+>     public boolean hasProjectAdminPermission(ProjectInstance project) {        boolean _hasProjectAdminPermission = false;

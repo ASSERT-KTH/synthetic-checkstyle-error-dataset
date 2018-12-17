@@ -1,0 +1,5 @@
+113,114c113
+<     public int hashCode() {
+<         if (first == null)
+---
+>     public int hashCode() {        if (first == null)

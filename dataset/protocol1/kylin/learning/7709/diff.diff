@@ -1,0 +1,4 @@
+442c442
+<             throw new PersistentException(e);
+---
+>             throw new PersistentException(e );

@@ -1,0 +1,5 @@
+405,406c405
+<         long asyncFlushDiskOffset;
+<         Throwable asyncFlushException;
+---
+>         long asyncFlushDiskOffset;        Throwable asyncFlushException;

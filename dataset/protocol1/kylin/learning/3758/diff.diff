@@ -1,0 +1,4 @@
+294c294
+<     public static boolean match(String pattern, String str) {
+---
+>     public static boolean match(String pattern, String 	str) {

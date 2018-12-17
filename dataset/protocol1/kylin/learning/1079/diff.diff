@@ -1,0 +1,5 @@
+55,56c55
+<     public static String quoteIdentifierInSqlExpr(IJoinedFlatTableDesc flatDesc, String sqlExpr, String quotation) {
+<         Map<String, String> tabToAliasMap = buildTableToTableAliasMap(flatDesc);
+---
+>     public static String quoteIdentifierInSqlExpr(IJoinedFlatTableDesc flatDesc, String sqlExpr, String quotation) {        Map<String, String> tabToAliasMap = buildTableToTableAliasMap(flatDesc);

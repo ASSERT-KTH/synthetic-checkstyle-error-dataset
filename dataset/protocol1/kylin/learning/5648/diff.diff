@@ -1,0 +1,5 @@
+78,79c78
+<         GeneralResponse configRes = new GeneralResponse();
+<         configRes.put("config", config);
+---
+>         GeneralResponse configRes = new GeneralResponse();        configRes.put("config", config);

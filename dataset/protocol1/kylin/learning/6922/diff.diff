@@ -1,0 +1,4 @@
+48c48
+<             builder.enableDynamicDims(((CuboidToGridTableMappingExt) mapping).getDynamicDims());
+---
+>             builder.enableDynamicDims(( (CuboidToGridTableMappingExt) mapping).getDynamicDims());

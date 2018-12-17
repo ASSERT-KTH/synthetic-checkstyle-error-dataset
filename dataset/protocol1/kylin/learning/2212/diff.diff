@@ -1,0 +1,4 @@
+1678c1678
+<         for (int i = 0; i < size - s.length(); ++i)
+---
+>         for (int i = 0; i < size - s.length()	; ++i)

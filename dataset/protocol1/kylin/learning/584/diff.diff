@@ -1,0 +1,4 @@
+33c33
+<         this.wrappedLogger = wrappedLogger;
+---
+>         	this.wrappedLogger = wrappedLogger;

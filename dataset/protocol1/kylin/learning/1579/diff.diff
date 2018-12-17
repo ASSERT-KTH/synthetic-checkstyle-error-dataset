@@ -1,0 +1,4 @@
+1570c1570
+<         return toByteArrays(toBytes(column));
+---
+>         	return toByteArrays(toBytes(column));

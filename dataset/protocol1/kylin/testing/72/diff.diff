@@ -1,0 +1,5 @@
+199c199,200
+<             fileSystem.delete(path, true);
+---
+>             fileSystem.delete
+> (path, true);

@@ -1,0 +1,4 @@
+44c44
+<         final String userName = userEmail.substring(0, userEmail.indexOf("@"));
+---
+>         final String userName = userEmail.substring(0, 	userEmail.indexOf("@"));

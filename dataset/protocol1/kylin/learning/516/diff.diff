@@ -1,0 +1,5 @@
+96c96,97
+<             jobMetrics.increase("avgJobBuildTime", dashboardService.getMetricValue(sqlResponse.getResults().get(0).get(1)));
+---
+>             jobMetrics.increase
+> ("avgJobBuildTime", dashboardService.getMetricValue(sqlResponse.getResults().get(0).get(1)));

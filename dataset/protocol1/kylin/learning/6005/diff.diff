@@ -1,0 +1,5 @@
+258,259c258
+<                 password = deserialized[0].getAuthority().substring(AclConstant.PWD_PREFIX.length());
+<                 authorities = Arrays.asList(deserialized).subList(1, deserialized.length);
+---
+>                 password = deserialized[0].getAuthority().substring(AclConstant.PWD_PREFIX.length());                authorities = Arrays.asList(deserialized).subList(1, deserialized.length);

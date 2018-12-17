@@ -1,0 +1,4 @@
+136c136
+<         List<String> patterns = Lists.newArrayList();
+---
+>         List<String> patterns = Lists	.newArrayList();

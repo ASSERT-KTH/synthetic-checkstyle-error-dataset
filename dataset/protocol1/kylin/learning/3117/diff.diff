@@ -1,0 +1,4 @@
+57c57
+<         Map<String, Map<String, String>> tabToColsMap = buildTableToColumnsMap(flatDesc);
+---
+>         Map<String, Map<	String, String>> tabToColsMap = buildTableToColumnsMap(flatDesc);

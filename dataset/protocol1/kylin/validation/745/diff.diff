@@ -1,0 +1,4 @@
+70c70
+<         boolean asc = true;
+---
+>         boolean asc 	= true;

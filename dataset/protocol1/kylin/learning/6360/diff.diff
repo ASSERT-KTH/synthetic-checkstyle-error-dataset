@@ -1,0 +1,4 @@
+71c71
+<     public void removeExtFilterFromProject(String filterName, String projectName) throws IOException {
+---
+>     public void removeExtFilterFromProject(String filterName, String projectName) 	throws IOException {

@@ -1,0 +1,5 @@
+40,41c40
+<             T element = iterator.next();
+<             values.add(element);
+---
+>             T element = iterator.next();            values.add(element);

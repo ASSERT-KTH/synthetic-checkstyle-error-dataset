@@ -1,0 +1,5 @@
+29c29,30
+<     public SchedulerException(String message) {
+---
+>     public SchedulerException
+> (String message) {

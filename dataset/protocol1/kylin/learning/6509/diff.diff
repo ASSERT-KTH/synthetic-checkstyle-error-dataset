@@ -1,0 +1,4 @@
+90c90
+< import com.google.common.base.Predicates;
+---
+> import com.google.common.	base.Predicates;

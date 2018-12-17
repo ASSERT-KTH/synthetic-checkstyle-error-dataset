@@ -1,0 +1,4 @@
+44c44
+<         logger.info("Adding path " + path + " to class path");
+---
+>         logger.info("Adding path " + path + 	" to class path");

@@ -1,0 +1,5 @@
+31,32c31
+< import org.apache.kylin.metadata.cachesync.Broadcaster;
+< import org.apache.kylin.metadata.model.DataModelManager;
+---
+> import org.apache.kylin.metadata.cachesync.Broadcaster;import org.apache.kylin.metadata.model.DataModelManager;

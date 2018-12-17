@@ -1,0 +1,4 @@
+364c364
+<                 aggrMask[i] = !measureDescs[i].getFunction().getMeasureType().onlyAggrInBaseCuboid();
+---
+>                 aggrMask[i] 	= !measureDescs[i].getFunction().getMeasureType().onlyAggrInBaseCuboid();

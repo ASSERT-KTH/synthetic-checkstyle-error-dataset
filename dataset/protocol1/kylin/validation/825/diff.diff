@@ -1,0 +1,4 @@
+64c64
+< public class AccessController extends BasicController implements InitializingBean {
+---
+> public class 	AccessController extends BasicController implements InitializingBean {

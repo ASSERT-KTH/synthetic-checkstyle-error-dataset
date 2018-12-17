@@ -1,0 +1,5 @@
+42,43c42
+<     public String getAbsolutePath() {
+<         return tempFile.getAbsolutePath();
+---
+>     public String getAbsolutePath() {        return tempFile.getAbsolutePath();

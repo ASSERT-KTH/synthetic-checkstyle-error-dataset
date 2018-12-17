@@ -1,0 +1,4 @@
+108c108
+<     public boolean userExists(String userName) {
+---
+>     public boolean userExists(String userName ) {

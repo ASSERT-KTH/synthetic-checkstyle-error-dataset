@@ -1,0 +1,4 @@
+24c24
+<     public static Long sumLong(Collection<Long> input) {
+---
+>     public static Long sumLong(Collection<Long> 	input) {

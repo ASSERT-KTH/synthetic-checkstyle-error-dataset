@@ -1,0 +1,5 @@
+86,87c86
+<                     "Derived can only be defined on lookup table, cube " + cubeDesc + ", " + this);
+<         }
+---
+>                     "Derived can only be defined on lookup table, cube " + cubeDesc + ", " + this);        }

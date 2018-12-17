@@ -1,0 +1,4 @@
+382c382
+<         GTAggregateScanner scanner = prepareGTAggregationScanner(gridTable, parentId, cuboidId, aggregationColumns,
+---
+>         GTAggregateScanner scanner = prepareGTAggregationScanner(gridTable,parentId, cuboidId, aggregationColumns,

@@ -1,0 +1,4 @@
+95c95
+<     protected Comparator<String> getComparator(int idx) {
+---
+>     	protected Comparator<String> getComparator(int idx) {

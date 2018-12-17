@@ -1,0 +1,4 @@
+53c53
+<         for (GrantedAuthority authority : authorities) {
+---
+>         for (GrantedAuthority 	authority : authorities) {

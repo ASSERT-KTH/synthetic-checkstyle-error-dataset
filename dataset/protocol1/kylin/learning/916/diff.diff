@@ -1,0 +1,4 @@
+61c61
+<     public void setForce(boolean force) {
+---
+>     public 	void setForce(boolean force) {

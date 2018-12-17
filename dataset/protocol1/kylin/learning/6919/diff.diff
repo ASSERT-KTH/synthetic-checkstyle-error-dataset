@@ -1,0 +1,4 @@
+98c98
+<         IExtLookupTableCache tablesCache = getExtLookupProvider(extTableSnapshotInfo.getStorageType()).getLocalCache();
+---
+>         IExtLookupTableCache tablesCache 	= getExtLookupProvider(extTableSnapshotInfo.getStorageType()).getLocalCache();

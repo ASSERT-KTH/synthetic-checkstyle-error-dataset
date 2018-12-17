@@ -1,0 +1,5 @@
+25,26c25
+<     public CaseInsensitiveStringSet() {
+<         super(String.CASE_INSENSITIVE_ORDER);
+---
+>     public CaseInsensitiveStringSet() {        super(String.CASE_INSENSITIVE_ORDER);

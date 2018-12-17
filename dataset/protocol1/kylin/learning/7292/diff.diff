@@ -1,0 +1,4 @@
+188c188
+<             int childOffset = (int) (BytesUtil.readLong(trieBytes, n, sizeChildOffset) & childOffsetMask);
+---
+>             int childOffset = (int) (BytesUtil	.readLong(trieBytes, n, sizeChildOffset) & childOffsetMask);

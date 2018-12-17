@@ -1,0 +1,4 @@
+185c185
+<     protected byte defaultValue() {
+---
+>     protected byte defaultValue () {

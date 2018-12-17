@@ -1,0 +1,5 @@
+57,58c57
+<     public static long getMonthStart(long ts) {
+<         Calendar calendar = Calendar.getInstance(gmt, Locale.ROOT);
+---
+>     public static long getMonthStart(long ts) {        Calendar calendar = Calendar.getInstance(gmt, Locale.ROOT);

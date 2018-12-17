@@ -1,0 +1,4 @@
+498c498
+<             if (columnFamilies.contains(new String(family, StandardCharsets.UTF_8)) == false) {
+---
+>             	if (columnFamilies.contains(new String(family, StandardCharsets.UTF_8)) == false) {

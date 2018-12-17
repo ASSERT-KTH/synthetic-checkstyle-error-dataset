@@ -1,0 +1,5 @@
+66c66,67
+<     public KafkaConfigManager getKafkaManager() throws IOException {
+---
+>     public KafkaConfigManager getKafkaManager() throws IOException 
+> {

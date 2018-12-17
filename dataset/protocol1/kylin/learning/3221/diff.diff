@@ -1,0 +1,5 @@
+31,32c31
+<         }
+<         long hash = hashFunc.hashInt(integerValue).asLong();
+---
+>         }        long hash = hashFunc.hashInt(integerValue).asLong();

@@ -1,0 +1,5 @@
+245,246c245
+<             if (this.satisfyAll()) {
+<                 copy(another.column, another.begin, another.end, another.valueSet);
+---
+>             if (this.satisfyAll()) {                copy(another.column, another.begin, another.end, another.valueSet);

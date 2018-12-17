@@ -1,0 +1,4 @@
+44c44
+<     private static final Logger logger = LoggerFactory.getLogger(QueryMetrics2Facade.class);
+---
+>     private static final Logger 	logger = LoggerFactory.getLogger(QueryMetrics2Facade.class);

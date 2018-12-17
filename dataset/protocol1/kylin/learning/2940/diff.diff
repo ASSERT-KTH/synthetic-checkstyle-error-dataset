@@ -1,0 +1,4 @@
+270c270
+<         long freeMemory = runtime.freeMemory(); // out of the current heap, how much is free
+---
+>         long freeMemory = 	runtime.freeMemory(); // out of the current heap, how much is free

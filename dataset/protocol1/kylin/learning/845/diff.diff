@@ -1,0 +1,4 @@
+161c161
+<         return "true".equals(getString(key));
+---
+>         return 	"true".equals(getString(key));

@@ -1,0 +1,5 @@
+39,40c39
+<     public JsonSerializer(Class<T> clz, boolean compact) {
+<         this.clz = clz;
+---
+>     public JsonSerializer(Class<T> clz, boolean compact) {        this.clz = clz;

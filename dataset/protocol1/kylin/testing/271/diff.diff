@@ -1,0 +1,4 @@
+79c79
+<             final List<InMemCubeBuilder2> builderList = new CopyOnWriteArrayList<>();
+---
+>             final List<InMemCubeBuilder2> builderList = new CopyOnWriteArrayList<> ();

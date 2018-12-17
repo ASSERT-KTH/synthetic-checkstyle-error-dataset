@@ -1,0 +1,4 @@
+42c42
+<     public int getColumnLength(TblColRef col) {
+---
+>     public int getColumnLength(TblColRef col) 	{

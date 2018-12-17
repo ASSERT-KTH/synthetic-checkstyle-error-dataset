@@ -1,0 +1,5 @@
+172,173c172
+<             if (extDesc != null) {
+<                 TableExtDesc origExt = metaMgr.getTableExt(tableDesc.getIdentity(), project);
+---
+>             if (extDesc != null) {                TableExtDesc origExt = metaMgr.getTableExt(tableDesc.getIdentity(), project);

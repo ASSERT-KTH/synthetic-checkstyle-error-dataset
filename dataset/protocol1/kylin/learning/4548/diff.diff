@@ -1,0 +1,4 @@
+34c34
+<     private static final Logger logger = LoggerFactory.getLogger(TableACLService.class);
+---
+>     private static final Logger logger = LoggerFactory.getLogger(TableACLService	.class);

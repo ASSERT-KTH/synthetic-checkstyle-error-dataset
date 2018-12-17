@@ -1,0 +1,4 @@
+61c61
+<             CubeSignature that = (CubeSignature) o;
+---
+>             CubeSignature that = (CubeSignature) o	;

@@ -1,0 +1,5 @@
+55c55,56
+<             throw new BadRequestException(String.format(Locale.ROOT, msg.getFILTER_NOT_FOUND(), desc.getName()));
+---
+>             throw new BadRequestException(String.format(Locale.ROOT, msg.getFILTER_NOT_FOUND
+> (), desc.getName()));

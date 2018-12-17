@@ -1,0 +1,4 @@
+31c31
+<     public void increase(String key) {
+---
+>     	public void increase(String key) {

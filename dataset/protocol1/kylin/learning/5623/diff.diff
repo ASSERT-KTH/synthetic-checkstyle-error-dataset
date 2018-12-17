@@ -1,0 +1,5 @@
+116,117c116
+<             s.append("=");
+<             s.append(prop.getValue());
+---
+>             s.append("=");            s.append(prop.getValue());

@@ -1,0 +1,4 @@
+51c51
+<         if (record.getSourceClassName() != null) {
+---
+>         if (record.getSourceClassName() != null ) {

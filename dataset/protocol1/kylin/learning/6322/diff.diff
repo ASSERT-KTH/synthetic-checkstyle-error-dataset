@@ -1,0 +1,4 @@
+62c62
+<             return new String(Base64.encodeBase64(signature), "UTF-8");
+---
+>             return new String( Base64.encodeBase64(signature), "UTF-8");

@@ -1,0 +1,5 @@
+165,166c165
+<             short shard = calculateShard(bytes);
+<             BytesUtil.writeShort(shard, bytes, offset, RowConstants.ROWKEY_SHARDID_LEN);
+---
+>             short shard = calculateShard(bytes);            BytesUtil.writeShort(shard, bytes, offset, RowConstants.ROWKEY_SHARDID_LEN);

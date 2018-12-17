@@ -1,0 +1,4 @@
+173c173
+<     public String getINVALID_MODEL_DEFINITION() {
+---
+>     public 	String getINVALID_MODEL_DEFINITION() {

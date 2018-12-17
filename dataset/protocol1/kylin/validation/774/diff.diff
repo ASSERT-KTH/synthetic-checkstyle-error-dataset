@@ -1,0 +1,4 @@
+219c219
+<                 begin = rangeStartComparator.comparator.min(valueSet);
+---
+>                 begin = rangeStartComparator.comparator.min( valueSet);

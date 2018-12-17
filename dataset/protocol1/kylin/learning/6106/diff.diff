@@ -1,0 +1,4 @@
+201c201
+<     public boolean[] existsAll(List<Get> list) throws IOException {
+---
+>     public boolean[] existsAll(List<Get> list) throws 	IOException {

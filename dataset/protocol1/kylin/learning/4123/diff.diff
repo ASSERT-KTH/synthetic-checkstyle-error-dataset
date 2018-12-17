@@ -1,0 +1,4 @@
+66c66
+<             outputStream.write(buffer, 0, count);
+---
+>             outputStream.write(buffer	, 0, count);

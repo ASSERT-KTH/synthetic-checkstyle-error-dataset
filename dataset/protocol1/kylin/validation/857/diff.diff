@@ -1,0 +1,5 @@
+208,209c208
+<             this.column = column;
+<             this.begin = beginValue;
+---
+>             this.column = column;            this.begin = beginValue;

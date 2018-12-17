@@ -1,0 +1,4 @@
+41c41
+<     public static void closeQuietly(final ResultSet rs) {
+---
+>     public static void closeQuietly(final 	ResultSet rs) {

@@ -1,0 +1,5 @@
+200,201c200
+<             parts[i] = Arrays.hashCode(this.rowIndices.get(i));
+<         return Arrays.hashCode(parts);
+---
+>             parts[i] = Arrays.hashCode(this.rowIndices.get(i));        return Arrays.hashCode(parts);

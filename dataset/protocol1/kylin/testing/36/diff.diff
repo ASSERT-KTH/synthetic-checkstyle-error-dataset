@@ -1,0 +1,4 @@
+45c45
+<         Set<GrantedAuthority> userAuthorities = Sets.newHashSet(authorities);
+---
+>         Set<GrantedAuthority> userAuthorities = Sets	.newHashSet(authorities);

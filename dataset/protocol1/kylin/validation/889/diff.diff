@@ -1,0 +1,4 @@
+109c109
+<     private Collection<ColumnRange> translateToAndDimRanges(List<? extends TupleFilter> andFilters) {
+---
+>     private Collection<ColumnRange> translateToAndDimRanges(List	<? extends TupleFilter> andFilters) {

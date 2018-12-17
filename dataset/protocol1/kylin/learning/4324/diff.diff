@@ -1,0 +1,4 @@
+143c143
+<     public void setAuthenticationProvider(AuthenticationProvider authenticationProvider) {
+---
+>     public void setAuthenticationProvider (AuthenticationProvider authenticationProvider) {

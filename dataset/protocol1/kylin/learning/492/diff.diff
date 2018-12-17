@@ -1,0 +1,4 @@
+83c83
+<         if (!isPrincipal && !userGroupService.exists(name)) {
+---
+>         if (!isPrincipal && !	userGroupService.exists(name)) {

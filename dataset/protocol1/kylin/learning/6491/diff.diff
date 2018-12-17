@@ -1,0 +1,4 @@
+57c57
+<         this.builder = new AppendTrieDictionaryBuilder(baseDir, maxEntriesPerSlice, false);
+---
+>         this.builder = new AppendTrieDictionaryBuilder(baseDir, maxEntriesPerSlice	, false);

@@ -1,0 +1,4 @@
+72c72
+<         List<String> toDeleteCandidates = Lists.newArrayList();
+---
+>         List<String> toDeleteCandidates = 	Lists.newArrayList();

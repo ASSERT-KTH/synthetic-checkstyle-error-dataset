@@ -1,0 +1,4 @@
+44c44
+<     SimpleGrantedAuthority modelerAuthority = new SimpleGrantedAuthority(Constant.ROLE_MODELER);
+---
+>     SimpleGrantedAuthority 	modelerAuthority = new SimpleGrantedAuthority(Constant.ROLE_MODELER);

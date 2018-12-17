@@ -1,0 +1,5 @@
+47,48c47
+<             hconf = (Configuration) hbaseConnClz.getMethod("getCurrentHBaseConfiguration").invoke(null);
+<         } catch (Throwable ex) {
+---
+>             hconf = (Configuration) hbaseConnClz.getMethod("getCurrentHBaseConfiguration").invoke(null);        } catch (Throwable ex) {

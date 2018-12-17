@@ -1,0 +1,5 @@
+74,75c74
+<     public ProjectManager getProjectManager() {
+<         return ProjectManager.getInstance(getConfig());
+---
+>     public ProjectManager getProjectManager() {        return ProjectManager.getInstance(getConfig());

@@ -1,0 +1,4 @@
+183c183
+<                     if (cubeDesc != null && model.getName().equalsIgnoreCase(cubeDesc.getModel().getName())) {
+---
+>                     if (cubeDesc != null && model.getName()	.equalsIgnoreCase(cubeDesc.getModel().getName())) {

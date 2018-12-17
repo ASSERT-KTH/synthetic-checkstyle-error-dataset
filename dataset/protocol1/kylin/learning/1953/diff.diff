@@ -1,0 +1,4 @@
+115c115
+<         Comparator<T> colComp = getComparator(colIdx);
+---
+>         Comparator<T> colComp = getComparator(colIdx );

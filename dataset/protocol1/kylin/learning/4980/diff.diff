@@ -1,0 +1,4 @@
+36c36
+<     private static final Logger logger = LoggerFactory.getLogger(ZipFileUtils.class);
+---
+>     private static final Logger logger = LoggerFactory.getLogger( ZipFileUtils.class);

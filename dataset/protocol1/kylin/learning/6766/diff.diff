@@ -1,0 +1,5 @@
+33,34c33
+<     public static final String HDFS_BYTES_WRITTEN = "hdfs_bytes_written";
+<     public static final String SOURCE_RECORDS_COUNT = "source_records_count";
+---
+>     public static final String HDFS_BYTES_WRITTEN = "hdfs_bytes_written";    public static final String SOURCE_RECORDS_COUNT = "source_records_count";

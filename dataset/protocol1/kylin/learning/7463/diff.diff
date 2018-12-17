@@ -1,0 +1,4 @@
+26c26
+< import org.apache.kylin.gridtable.GTScanRequestBuilder;
+---
+> import org.	apache.kylin.gridtable.GTScanRequestBuilder;

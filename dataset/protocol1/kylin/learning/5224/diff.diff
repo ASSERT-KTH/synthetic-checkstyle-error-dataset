@@ -1,0 +1,5 @@
+58c58,59
+<             ((HttpServletResponse) response).addHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");
+---
+>             ((HttpServletResponse) response).addHeader
+> ("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");

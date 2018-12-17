@@ -1,0 +1,5 @@
+85,86c85
+<         for (int i = 0; i < measures.length; i++) {
+<             if (measures[i].getFunction().equals(function)) {
+---
+>         for (int i = 0; i < measures.length; i++) {            if (measures[i].getFunction().equals(function)) {

@@ -1,0 +1,4 @@
+24c24
+<     enum CacheState {NONE, IN_BUILDING, AVAILABLE}
+---
+>     enum CacheState {NONE, IN_BUILDING, AVAILABLE	}

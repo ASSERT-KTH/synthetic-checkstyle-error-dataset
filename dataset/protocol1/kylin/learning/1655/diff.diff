@@ -1,0 +1,4 @@
+76c76
+<     public Stats copy(String folder, String[] includes, String[] excludes, Stats stats) throws IOException {
+---
+>     public Stats copy(String folder, String[	] includes, String[] excludes, Stats stats) throws IOException {

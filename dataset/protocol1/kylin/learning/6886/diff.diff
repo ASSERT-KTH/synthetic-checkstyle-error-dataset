@@ -1,0 +1,5 @@
+54,55c54
+<     public String getAllResourceSql() {
+<         return getSqlFromProperties("format.sql.all-resource");
+---
+>     public String getAllResourceSql() {        return getSqlFromProperties("format.sql.all-resource");

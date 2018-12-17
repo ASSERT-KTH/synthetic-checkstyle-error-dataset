@@ -1,0 +1,4 @@
+96c96
+<         in.readFully(all, headPartial.length, all.length - headPartial.length);
+---
+>         in.readFully(all, headPartial.length, all.length - headPartial	.length);

@@ -1,0 +1,4 @@
+121c121
+<             if (between(beginValue, row[colIdx], endValue, colComp)) {
+---
+>             if (between (beginValue, row[colIdx], endValue, colComp)) {

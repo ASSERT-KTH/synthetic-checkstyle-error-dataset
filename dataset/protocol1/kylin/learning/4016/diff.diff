@@ -1,0 +1,5 @@
+80,81c80
+<         } else {
+<             throw new RuntimeException("Type " + partitionColType + " is not valid partition column type");
+---
+>         } else {            throw new RuntimeException("Type " + partitionColType + " is not valid partition column type");

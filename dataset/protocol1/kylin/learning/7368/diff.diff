@@ -1,0 +1,4 @@
+498c498
+<         if (totalSumForSanityCheck == null) {
+---
+>         if (totalSumForSanityCheck == 	null) {

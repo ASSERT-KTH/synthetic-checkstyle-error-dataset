@@ -1,0 +1,4 @@
+28c28
+< class CuboidTask extends RecursiveTask<CuboidResult> implements Comparable<CuboidTask> {
+---
+> class CuboidTask extends RecursiveTask<CuboidResult> 	implements Comparable<CuboidTask> {

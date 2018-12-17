@@ -1,0 +1,5 @@
+52,53c52
+<     MutableRate queryLatency;
+<     MutableQuantiles[] queryLatencyTimeMillisQuantiles;
+---
+>     MutableRate queryLatency;    MutableQuantiles[] queryLatencyTimeMillisQuantiles;

@@ -1,0 +1,4 @@
+195c195
+<         metricsEvent.put(QueryCubePropertyEnum.RETURN_COUNT.toString(), returnCount);
+---
+>         metricsEvent.put(QueryCubePropertyEnum.RETURN_COUNT.toString (), returnCount);

@@ -1,0 +1,4 @@
+27c27
+< import org.springframework.security.ldap.userdetails.DefaultLdapAuthoritiesPopulator;
+---
+> import org.springframework.security.ldap	.userdetails.DefaultLdapAuthoritiesPopulator;

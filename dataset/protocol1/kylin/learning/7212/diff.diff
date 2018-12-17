@@ -1,0 +1,4 @@
+27c27
+<     static final String JOB_INSTANCE = "JobInstance";
+---
+>     static 	final String JOB_INSTANCE = "JobInstance";

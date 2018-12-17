@@ -1,0 +1,4 @@
+55c55
+<         BitSet set = new BitSet(index);
+---
+>         BitSet set = new BitSet(index)	;

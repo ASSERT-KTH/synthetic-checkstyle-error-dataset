@@ -1,0 +1,5 @@
+41,42c41
+< import org.apache.kylin.source.IReadableTable;
+< import org.slf4j.Logger;
+---
+> import org.apache.kylin.source.IReadableTable;import org.slf4j.Logger;

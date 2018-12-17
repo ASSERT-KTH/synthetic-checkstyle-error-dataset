@@ -1,0 +1,4 @@
+56c56
+<         List<CubeSegment> r = new ArrayList<>();
+---
+>         List	<CubeSegment> r = new ArrayList<>();

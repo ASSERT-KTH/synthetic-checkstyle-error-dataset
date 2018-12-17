@@ -1,0 +1,5 @@
+161c161,162
+<                 worker.setName("inmem-cubing-cuboid-worker-" + worker.getPoolIndex());
+---
+>                 worker.setName
+> ("inmem-cubing-cuboid-worker-" + worker.getPoolIndex());

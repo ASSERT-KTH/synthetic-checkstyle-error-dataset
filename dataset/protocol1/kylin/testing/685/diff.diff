@@ -1,0 +1,5 @@
+203,204c203
+<         final BlockingQueue<CuboidResult> outputQueue;
+<         final Map<Long, List<CuboidResult>> pendingQueue = Maps.newHashMap();
+---
+>         final BlockingQueue<CuboidResult> outputQueue;        final Map<Long, List<CuboidResult>> pendingQueue = Maps.newHashMap();

@@ -1,0 +1,4 @@
+233c233
+<                             record.loadColumns(info.getAllColumns(), buf);
+---
+>                             record.loadColumns( info.getAllColumns(), buf);

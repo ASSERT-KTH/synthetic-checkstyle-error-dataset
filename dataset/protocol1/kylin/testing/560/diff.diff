@@ -1,0 +1,4 @@
+217c217
+<             if (!ArrayUtils.isEquals(this.rowIndices.get(i), that.rowIndices.get(i)))
+---
+>             if (!ArrayUtils.isEquals(this.rowIndices.get( i), that.rowIndices.get(i)))

@@ -1,0 +1,5 @@
+1260c1260,1261
+<     public int getEngineType() {
+---
+>     public int getEngineType() 
+> {

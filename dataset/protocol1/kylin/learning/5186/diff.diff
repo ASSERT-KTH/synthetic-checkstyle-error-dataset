@@ -1,0 +1,5 @@
+28,29c28
+<     public FIFOIterable(Queue<T> q) {
+<         this.q = q;
+---
+>     public FIFOIterable(Queue<T> q) {        this.q = q;

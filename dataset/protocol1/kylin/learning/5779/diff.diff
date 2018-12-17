@@ -1,0 +1,5 @@
+90,91c90
+<     public String getCreateIndexSql() {
+<         return getSqlFromProperties("format.sql.create-index");
+---
+>     public String getCreateIndexSql() {        return getSqlFromProperties("format.sql.create-index");

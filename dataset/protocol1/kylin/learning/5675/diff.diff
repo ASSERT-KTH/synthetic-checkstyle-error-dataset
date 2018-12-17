@@ -1,0 +1,4 @@
+30c30
+< abstract public class ExternalAclProvider {
+---
+> abstract public class 	ExternalAclProvider {

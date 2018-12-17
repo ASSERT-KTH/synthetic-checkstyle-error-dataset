@@ -1,0 +1,4 @@
+191c191
+<                             String sql = sqls.getAllResourceSqlString(loadContent);
+---
+>                             String sql = 	sqls.getAllResourceSqlString(loadContent);

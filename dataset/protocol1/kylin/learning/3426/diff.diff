@@ -1,0 +1,4 @@
+31c31
+<     private RecordConsumeBlockingQueueController<T> inputController;
+---
+>     private RecordConsumeBlockingQueueController<	T> inputController;

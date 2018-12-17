@@ -1,0 +1,4 @@
+71c71
+<         setGroupSearchFilter("(|(member={0})(memberUid={1}))");
+---
+>         setGroupSearchFilter("(|(member={0})(memberUid={1}))" );

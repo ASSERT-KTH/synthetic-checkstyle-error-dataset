@@ -1,0 +1,4 @@
+52c52
+<         if (dimEnc instanceof DictionaryDimEnc)
+---
+>         if ( dimEnc instanceof DictionaryDimEnc)

@@ -1,0 +1,5 @@
+659c659,660
+<         visitFolderInner(folderPath, recursive, null, false, visitor);
+---
+>         visitFolderInner
+> (folderPath, recursive, null, false, visitor);

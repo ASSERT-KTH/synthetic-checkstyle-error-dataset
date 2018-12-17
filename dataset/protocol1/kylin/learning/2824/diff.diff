@@ -1,0 +1,5 @@
+391,392c391
+<     public String getGENERATE_DIAG_PACKAGE_FAIL() {
+<         return "无法生成诊断包";
+---
+>     public String getGENERATE_DIAG_PACKAGE_FAIL() {        return "无法生成诊断包";

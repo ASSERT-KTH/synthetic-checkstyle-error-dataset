@@ -1,0 +1,4 @@
+80c80
+<     protected void fillColumnValue(TblColRef column, int columnLen, String valueStr, byte[] outputValue, int outputValueOffset) {
+---
+>     protected void fillColumnValue(TblColRef column, int 	columnLen, String valueStr, byte[] outputValue, int outputValueOffset) {

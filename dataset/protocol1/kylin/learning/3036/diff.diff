@@ -1,0 +1,4 @@
+46c46
+<         path = KylinConfig.getKylinHome();
+---
+>         path = KylinConfig.getKylinHome()	;

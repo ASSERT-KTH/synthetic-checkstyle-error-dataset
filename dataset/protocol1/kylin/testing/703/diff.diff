@@ -1,0 +1,4 @@
+118c118
+<     public int getColumnIndex(TblColRef colRef) {
+---
+>     public int getColumnIndex(TblColRef colRef) 	{

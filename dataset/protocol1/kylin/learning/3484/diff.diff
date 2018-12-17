@@ -1,0 +1,5 @@
+908c908,909
+<                 + " where " + QueryCubePropertyEnum.CUBE.toString() + " = '" + cubeName + "' " //
+---
+>                 + " where " + QueryCubePropertyEnum.CUBE.toString
+> () + " = '" + cubeName + "' " //

@@ -1,0 +1,5 @@
+421,422c421
+<             response.setSourceTableLastModifyTime(metaStoreTableSnapshot.getSignature().getLastModifiedTime());
+<             response.setCubesAndSegmentsUsage(snapshotUsageMap.get(metaStoreTableSnapshot.getResourcePath()));
+---
+>             response.setSourceTableLastModifyTime(metaStoreTableSnapshot.getSignature().getLastModifiedTime());            response.setCubesAndSegmentsUsage(snapshotUsageMap.get(metaStoreTableSnapshot.getResourcePath()));

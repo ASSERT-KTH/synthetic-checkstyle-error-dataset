@@ -1,0 +1,5 @@
+35,36c35
+< import org.apache.kylin.metadata.filter.CompareTupleFilter;
+< import org.apache.kylin.metadata.filter.ConstantTupleFilter;
+---
+> import org.apache.kylin.metadata.filter.CompareTupleFilter;import org.apache.kylin.metadata.filter.ConstantTupleFilter;

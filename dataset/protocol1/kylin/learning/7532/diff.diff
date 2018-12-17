@@ -1,0 +1,4 @@
+100c100
+<                     logger.debug("The SQL to execute in beeline: {} \n", hql);
+---
+>                     logger.debug ("The SQL to execute in beeline: {} \n", hql);

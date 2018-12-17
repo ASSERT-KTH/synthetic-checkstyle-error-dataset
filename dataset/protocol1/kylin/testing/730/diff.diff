@@ -1,0 +1,4 @@
+30c30
+<     public ByteBufferOutputStream(ByteBuffer buffer) {
+---
+>     public ByteBufferOutputStream (ByteBuffer buffer) {

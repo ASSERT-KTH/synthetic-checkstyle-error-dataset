@@ -1,0 +1,5 @@
+1524c1524,1525
+<         newCubeDesc.setDimensions(cubeDesc.getDimensions());
+---
+>         newCubeDesc.setDimensions(cubeDesc.getDimensions
+> ());

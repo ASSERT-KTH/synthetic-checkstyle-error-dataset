@@ -1,0 +1,4 @@
+116c116
+<                 int value = BytesUtil.readVInt(in);
+---
+>                 int value = 	BytesUtil.readVInt(in);

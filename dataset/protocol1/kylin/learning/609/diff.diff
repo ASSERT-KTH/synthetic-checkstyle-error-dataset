@@ -1,0 +1,4 @@
+38c38
+<         for (int i = 0; i < temp.size(); ++i) {
+---
+>         for 	(int i = 0; i < temp.size(); ++i) {

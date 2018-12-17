@@ -1,0 +1,5 @@
+1372,1373c1372
+<             if (dictDesc.getColumnRef().equals(col) && dictDesc.getResuseColumnRef() != null) {
+<                 return dictDesc.getResuseColumnRef();
+---
+>             if (dictDesc.getColumnRef().equals(col) && dictDesc.getResuseColumnRef() != null) {                return dictDesc.getResuseColumnRef();

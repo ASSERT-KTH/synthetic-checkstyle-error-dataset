@@ -1,0 +1,5 @@
+238,239c238
+<             logger.error("Failed to deal with the request.", e);
+<             throw new InternalErrorException("Failed to deal with the request:" + e.getMessage(), e);
+---
+>             logger.error("Failed to deal with the request.", e);            throw new InternalErrorException("Failed to deal with the request:" + e.getMessage(), e);

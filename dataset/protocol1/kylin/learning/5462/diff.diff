@@ -1,0 +1,4 @@
+28c28
+<     private Map<String, String> tableToProjects;//For KYLIN-2717 compatibility, the project of old table will be NULL
+---
+>     private Map<String, 	String> tableToProjects;//For KYLIN-2717 compatibility, the project of old table will be NULL

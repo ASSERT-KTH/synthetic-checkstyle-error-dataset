@@ -1,0 +1,5 @@
+70,71c70
+<                 enableDimCap = true;
+<                 break;
+---
+>                 enableDimCap = true;                break;

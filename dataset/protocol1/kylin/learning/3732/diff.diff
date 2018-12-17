@@ -1,0 +1,4 @@
+174c174
+<             this.root = new TreeNode(basicCuboidId, 0);
+---
+>             this.	root = new TreeNode(basicCuboidId, 0);

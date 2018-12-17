@@ -1,0 +1,5 @@
+55,56c55
+<     public String[] getCubes() {
+<         return this.cubes;
+---
+>     public String[] getCubes() {        return this.cubes;

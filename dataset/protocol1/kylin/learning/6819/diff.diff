@@ -1,0 +1,4 @@
+236c236
+<                     if (next != null)
+---
+>                     if 	(next != null)

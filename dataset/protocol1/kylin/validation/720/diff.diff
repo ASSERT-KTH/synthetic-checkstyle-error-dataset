@@ -1,0 +1,5 @@
+40,41c40
+< import org.apache.kylin.rest.service.UserService;
+< import org.apache.kylin.rest.util.AclPermissionUtil;
+---
+> import org.apache.kylin.rest.service.UserService;import org.apache.kylin.rest.util.AclPermissionUtil;

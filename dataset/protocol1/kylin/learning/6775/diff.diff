@@ -1,0 +1,5 @@
+99,100c99
+<         private long tableSize;
+<         private long cubeSize;
+---
+>         private long tableSize;        private long cubeSize;

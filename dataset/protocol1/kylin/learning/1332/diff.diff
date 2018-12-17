@@ -1,0 +1,4 @@
+33c33
+<         BitSet set = new BitSet(maxIndex);
+---
+>         BitSet set 	= new BitSet(maxIndex);

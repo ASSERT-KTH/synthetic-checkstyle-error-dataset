@@ -1,0 +1,4 @@
+100c100
+<         CubeInstance updatedCube = cubeMgr.getCube(cubeSeg.getCubeInstance().getName());
+---
+>         CubeInstance updatedCube = cubeMgr.getCube(cubeSeg.getCubeInstance()	.getName());

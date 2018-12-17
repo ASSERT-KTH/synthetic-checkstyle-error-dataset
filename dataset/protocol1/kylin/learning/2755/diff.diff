@@ -1,0 +1,5 @@
+38,39c38
+<         TableMetadataManager metaMgr = TableMetadataManager.getInstance(conf);
+<         SnapshotManager snapshotMgr = SnapshotManager.getInstance(conf);
+---
+>         TableMetadataManager metaMgr = TableMetadataManager.getInstance(conf);        SnapshotManager snapshotMgr = SnapshotManager.getInstance(conf);

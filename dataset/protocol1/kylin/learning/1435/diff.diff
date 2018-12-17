@@ -1,0 +1,4 @@
+53c53
+<     public void setBuildType(String buildType) {
+---
+>     	public void setBuildType(String buildType) {

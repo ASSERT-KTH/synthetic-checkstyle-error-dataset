@@ -1,0 +1,5 @@
+170,171c170
+<     public int getColumnIndex(TblColRef colRef) {
+<         Integer index = columnIndexMap.get(colRef);
+---
+>     public int getColumnIndex(TblColRef colRef) {        Integer index = columnIndexMap.get(colRef);

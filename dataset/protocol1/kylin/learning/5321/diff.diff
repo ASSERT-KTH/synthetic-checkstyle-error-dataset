@@ -1,0 +1,5 @@
+47c47,48
+<             int count = deflater.deflate(buffer); // returns the generated code... index
+---
+>             int count = deflater.deflate
+> (buffer); // returns the generated code... index

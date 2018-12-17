@@ -1,0 +1,5 @@
+108,109c108
+<             if (newLayer.isEmpty()) {
+<                 break;
+---
+>             if (newLayer.isEmpty()) {                break;

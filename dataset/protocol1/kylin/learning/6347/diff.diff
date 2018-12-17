@@ -1,0 +1,4 @@
+82c82
+<             confFile = new File(path + File.separator + "conf", xmlFileName);
+---
+>             confFile = new File(path + 	File.separator + "conf", xmlFileName);

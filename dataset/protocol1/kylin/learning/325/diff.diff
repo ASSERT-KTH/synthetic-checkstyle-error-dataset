@@ -1,0 +1,5 @@
+45,46c45
+<     public T deserialize(DataInputStream in) throws IOException {
+<         return JsonUtil.readValue(in, clz);
+---
+>     public T deserialize(DataInputStream in) throws IOException {        return JsonUtil.readValue(in, clz);

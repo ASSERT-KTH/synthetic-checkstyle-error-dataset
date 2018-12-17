@@ -1,0 +1,4 @@
+28c28
+< public class ErrorResponse extends EnvelopeResponse {
+---
+> public class ErrorResponse 	extends EnvelopeResponse {

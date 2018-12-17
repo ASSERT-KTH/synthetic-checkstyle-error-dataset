@@ -1,0 +1,4 @@
+30c30
+<     private CubeSegment cubeSegment;
+---
+>     	private CubeSegment cubeSegment;

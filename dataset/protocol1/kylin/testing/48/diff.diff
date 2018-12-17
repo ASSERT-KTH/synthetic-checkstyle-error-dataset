@@ -1,0 +1,5 @@
+166,167c166
+<             this.splitSeq = splitSeq;
+<             this.resultListener = resultListener;
+---
+>             this.splitSeq = splitSeq;            this.resultListener = resultListener;

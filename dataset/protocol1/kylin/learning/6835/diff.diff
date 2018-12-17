@@ -1,0 +1,5 @@
+39,40c39
+<     public static CuboidModeEnum getByModeName(String modeName) {
+<         if (Strings.isNullOrEmpty(modeName)) {
+---
+>     public static CuboidModeEnum getByModeName(String modeName) {        if (Strings.isNullOrEmpty(modeName)) {

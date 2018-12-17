@@ -1,0 +1,5 @@
+452,453c452
+<                     }
+<                     usages.add(cube.getName() + ":" + segment.getName());
+---
+>                     }                    usages.add(cube.getName() + ":" + segment.getName());

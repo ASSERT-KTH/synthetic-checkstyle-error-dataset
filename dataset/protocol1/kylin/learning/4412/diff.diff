@@ -1,0 +1,4 @@
+89c89
+<     public static <C extends Comparable<?>> List<Range<C>> remove(Range<C> self, Range<C> other) {
+---
+>     public static 	<C extends Comparable<?>> List<Range<C>> remove(Range<C> self, Range<C> other) {

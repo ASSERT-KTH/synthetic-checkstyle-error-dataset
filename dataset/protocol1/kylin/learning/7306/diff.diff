@@ -1,0 +1,5 @@
+277,278c277
+<     public List<HierarchyMask> getHierarchyMasks() {
+<         return hierarchyMasks;
+---
+>     public List<HierarchyMask> getHierarchyMasks() {        return hierarchyMasks;

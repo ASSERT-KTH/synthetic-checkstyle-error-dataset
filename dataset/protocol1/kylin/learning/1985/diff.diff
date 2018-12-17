@@ -1,0 +1,5 @@
+31,32c31
+<     public void setCuboidsRecommend(Set<Long> cuboidsRecommend) {
+<         this.cuboidsRecommend = cuboidsRecommend;
+---
+>     public void setCuboidsRecommend(Set<Long> cuboidsRecommend) {        this.cuboidsRecommend = cuboidsRecommend;

@@ -1,0 +1,4 @@
+56c56
+<         return "HBaseColumnFamilyDesc [name=" + name + ", columns=" + Arrays.toString(columns) + "]";
+---
+>         return "HBaseColumnFamilyDesc [name=" + name + ", columns=" + Arrays.toString(columns) + 	"]";

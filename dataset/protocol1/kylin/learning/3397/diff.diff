@@ -1,0 +1,5 @@
+66c66,67
+<         System.arraycopy(dimensions, 0, recordValues, 0, dimensions.length);
+---
+>         System.arraycopy
+> (dimensions, 0, recordValues, 0, dimensions.length);

@@ -1,0 +1,5 @@
+304,305c304
+<         stream.defaultReadObject();
+<         properties = (Map<String, String>) stream.readObject();
+---
+>         stream.defaultReadObject();        properties = (Map<String, String>) stream.readObject();

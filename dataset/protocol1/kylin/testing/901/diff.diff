@@ -1,0 +1,4 @@
+50c50
+< import org.apache.kylin.metadata.model.TblColRef;
+---
+> import org.apache.kylin.metadata.model.	TblColRef;

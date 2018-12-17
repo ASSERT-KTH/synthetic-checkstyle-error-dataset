@@ -1,0 +1,4 @@
+54c54
+<     public void addMeasure(int length) {
+---
+>     public void 	addMeasure(int length) {

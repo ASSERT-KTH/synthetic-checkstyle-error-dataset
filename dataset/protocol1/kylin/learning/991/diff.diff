@@ -1,0 +1,4 @@
+50c50
+<     public static SnapshotManager getInstance(KylinConfig config) {
+---
+>     public static SnapshotManager getInstance(KylinConfig 	config) {

@@ -1,0 +1,5 @@
+46,47c46
+<             IOUtils.closeQuietly(din);
+<             IOUtils.closeQuietly(res.content());
+---
+>             IOUtils.closeQuietly(din);            IOUtils.closeQuietly(res.content());

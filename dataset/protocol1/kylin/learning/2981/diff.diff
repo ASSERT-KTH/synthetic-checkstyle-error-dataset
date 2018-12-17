@@ -1,0 +1,4 @@
+39c39
+<     private static final Logger logger = LoggerFactory.getLogger(InputConverterUnitForRawData.class);
+---
+>     private static 	final Logger logger = LoggerFactory.getLogger(InputConverterUnitForRawData.class);

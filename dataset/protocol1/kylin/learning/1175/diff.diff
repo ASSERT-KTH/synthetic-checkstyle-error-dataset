@@ -1,0 +1,5 @@
+144,145c144
+<                 while ((j <= s - 1) && (nMinus1 != y)) {
+<                     long square = ((long) y) * y;
+---
+>                 while ((j <= s - 1) && (nMinus1 != y)) {                    long square = ((long) y) * y;

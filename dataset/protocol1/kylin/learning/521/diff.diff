@@ -1,0 +1,5 @@
+26c26,27
+< public class TooBigDictionaryException extends RuntimeException {
+---
+> public class TooBigDictionaryException extends RuntimeException 
+> {

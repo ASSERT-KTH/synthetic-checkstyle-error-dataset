@@ -1,0 +1,4 @@
+90c90
+<     public static long toCuboidId(CubeDesc cubeDesc, Set<TblColRef> dimensions, Collection<FunctionDesc> metrics) {
+---
+>     public static long toCuboidId(CubeDesc cubeDesc, Set<TblColRef> dimensions, 	Collection<FunctionDesc> metrics) {

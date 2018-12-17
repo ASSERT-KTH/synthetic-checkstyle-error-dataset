@@ -1,0 +1,5 @@
+48,49c48
+<     public boolean isRunable() {
+<         return code == JobStepStatusEnum.PENDING.getCode() || code == JobStepStatusEnum.ERROR.getCode();
+---
+>     public boolean isRunable() {        return code == JobStepStatusEnum.PENDING.getCode() || code == JobStepStatusEnum.ERROR.getCode();

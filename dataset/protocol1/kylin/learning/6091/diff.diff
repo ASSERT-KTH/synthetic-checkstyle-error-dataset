@@ -1,0 +1,4 @@
+104c104
+<         for (Object value : values) {
+---
+>         for ( Object value : values) {

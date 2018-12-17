@@ -1,0 +1,4 @@
+23c23
+< import org.apache.kylin.dimension.DimensionEncoding;
+---
+> import org.apache	.kylin.dimension.DimensionEncoding;

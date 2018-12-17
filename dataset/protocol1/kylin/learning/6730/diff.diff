@@ -1,0 +1,4 @@
+307c307
+<             if (!state.isFinalState()) {
+---
+>             if 	(!state.isFinalState()) {

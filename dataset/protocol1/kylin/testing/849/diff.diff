@@ -1,0 +1,4 @@
+96c96
+<     public static <T> T readValueWithTyping(InputStream src, Class<T> valueType) throws IOException {
+---
+>     public static <T> T readValueWithTyping(InputStream src, Class<T> valueType ) throws IOException {

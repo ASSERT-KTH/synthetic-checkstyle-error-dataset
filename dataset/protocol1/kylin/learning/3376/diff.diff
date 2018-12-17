@@ -1,0 +1,5 @@
+35,36c35
+<     private CubeDesc cubeDesc;
+<     private RowKeyColumnIO colIO;
+---
+>     private CubeDesc cubeDesc;    private RowKeyColumnIO colIO;

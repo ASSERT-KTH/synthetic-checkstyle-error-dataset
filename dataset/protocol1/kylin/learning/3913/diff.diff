@@ -1,0 +1,4 @@
+47c47
+<         return new InputStream() {
+---
+>         return new 	InputStream() {

@@ -1,0 +1,5 @@
+296c296,297
+<     final public long getResourceTimestamp(String resPath) throws IOException {
+---
+>     final public long getResourceTimestamp
+> (String resPath) throws IOException {

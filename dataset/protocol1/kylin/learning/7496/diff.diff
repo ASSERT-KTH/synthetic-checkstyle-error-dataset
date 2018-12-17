@@ -1,0 +1,5 @@
+82,83c82
+<     public String getUuid() {
+<         return uuid;
+---
+>     public String getUuid() {        return uuid;

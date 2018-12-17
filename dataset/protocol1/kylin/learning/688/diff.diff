@@ -1,0 +1,5 @@
+35,36c35
+<     public static Integer[][] getCuboidBitSet(Long[] cuboidIds, int nRowKey) {
+<         Preconditions.checkArgument(nRowKey < Long.SIZE,
+---
+>     public static Integer[][] getCuboidBitSet(Long[] cuboidIds, int nRowKey) {        Preconditions.checkArgument(nRowKey < Long.SIZE,

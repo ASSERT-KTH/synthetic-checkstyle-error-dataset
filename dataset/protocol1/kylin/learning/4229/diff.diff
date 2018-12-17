@@ -1,0 +1,5 @@
+45,46c45
+< import org.apache.kylin.rest.request.MetaRequest;
+< import org.apache.kylin.rest.request.PrepareSqlRequest;
+---
+> import org.apache.kylin.rest.request.MetaRequest;import org.apache.kylin.rest.request.PrepareSqlRequest;

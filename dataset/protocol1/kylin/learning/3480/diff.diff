@@ -1,0 +1,5 @@
+119,120c119
+<                 String createIfNeededSql = sqls.getCreateIfNeededSql(tableName);
+<                 logger.info("Creating table: {}", createIfNeededSql);
+---
+>                 String createIfNeededSql = sqls.getCreateIfNeededSql(tableName);                logger.info("Creating table: {}", createIfNeededSql);

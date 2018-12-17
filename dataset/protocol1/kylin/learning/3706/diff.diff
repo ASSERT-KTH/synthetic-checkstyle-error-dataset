@@ -1,0 +1,4 @@
+296c296
+<                     n.nValuesBeneath = n.isEndOfValue ? 1 : 0;
+---
+>                     n.nValuesBeneath = n	.isEndOfValue ? 1 : 0;

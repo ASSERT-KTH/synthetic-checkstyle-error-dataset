@@ -1,0 +1,5 @@
+71,72c71
+<     public void setTasksForCheck(List<ExecutablePO> tasksForCheck) {
+<         this.tasksForCheck = tasksForCheck;
+---
+>     public void setTasksForCheck(List<ExecutablePO> tasksForCheck) {        this.tasksForCheck = tasksForCheck;

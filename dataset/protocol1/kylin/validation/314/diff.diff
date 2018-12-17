@@ -1,0 +1,4 @@
+59c59
+<         String projectName = sqlRequest.getProject();
+---
+>         String projectName = sqlRequest.getProject ();

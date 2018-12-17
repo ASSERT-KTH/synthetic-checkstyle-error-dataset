@@ -1,0 +1,4 @@
+149c149
+<             ConsumerEntry entry = booking.get(consumer);
+---
+>             ConsumerEntry entry = 	booking.get(consumer);

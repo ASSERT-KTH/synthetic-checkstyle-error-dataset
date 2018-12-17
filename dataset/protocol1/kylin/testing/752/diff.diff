@@ -1,0 +1,4 @@
+44c44
+<         buf.append("os.arch:").append(System.getProperty("os.arch")).append("\n");
+---
+>         buf.append("os.arch:").append(System.	getProperty("os.arch")).append("\n");

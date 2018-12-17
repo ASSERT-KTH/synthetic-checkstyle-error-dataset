@@ -1,0 +1,4 @@
+128c128
+<         result = prime * result + ((uuid == null) ? 0 : uuid.hashCode());
+---
+>         	result = prime * result + ((uuid == null) ? 0 : uuid.hashCode());

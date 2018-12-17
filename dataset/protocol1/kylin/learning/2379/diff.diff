@@ -1,0 +1,4 @@
+112c112
+<         boolean _hasProjectReadPermission = false;
+---
+>         boolean 	_hasProjectReadPermission = false;

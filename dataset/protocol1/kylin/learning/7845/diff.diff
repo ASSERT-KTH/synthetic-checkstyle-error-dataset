@@ -1,0 +1,5 @@
+49c49,50
+<     public String getBuildType() {
+---
+>     public String getBuildType() 
+> {

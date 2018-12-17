@@ -1,0 +1,4 @@
+59c59
+<     public boolean getSuccessful() {
+---
+>     public boolean 	getSuccessful() {

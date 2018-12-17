@@ -1,0 +1,4 @@
+44c44
+<     public GTRecord min(GTRecord a, GTRecord b) {
+---
+>     public GTRecord min( GTRecord a, GTRecord b) {

@@ -1,0 +1,5 @@
+42,43c42
+<     public String getKeyEqualsSql() {
+<         return getSqlFromProperties("format.sql.key-equals");
+---
+>     public String getKeyEqualsSql() {        return getSqlFromProperties("format.sql.key-equals");

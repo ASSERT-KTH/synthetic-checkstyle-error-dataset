@@ -1,0 +1,4 @@
+69c69
+<     public IGTWriter rebuild() {
+---
+>     public 	IGTWriter rebuild() {

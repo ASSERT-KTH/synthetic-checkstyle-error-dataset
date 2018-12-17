@@ -1,0 +1,4 @@
+47c47
+<     public void encode(String valueStr, byte[] output, int outputOffset) {
+---
+>     public void encode(String valueStr, byte[] output, int outputOffset ) {

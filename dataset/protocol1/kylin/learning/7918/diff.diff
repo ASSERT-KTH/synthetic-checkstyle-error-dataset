@@ -1,0 +1,5 @@
+93,94c93
+<                 tool.copy(KylinConfig.getInstanceFromEnv(), KylinConfig.createInstanceFromUri(args[1]), args[2], true);
+<                 break;
+---
+>                 tool.copy(KylinConfig.getInstanceFromEnv(), KylinConfig.createInstanceFromUri(args[1]), args[2], true);                break;

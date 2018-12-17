@@ -1,0 +1,4 @@
+56c56
+<     private static final int MEM_CHUNK_SIZE_MB = 5;
+---
+>     private static final int MEM_CHUNK_SIZE_MB = 	5;

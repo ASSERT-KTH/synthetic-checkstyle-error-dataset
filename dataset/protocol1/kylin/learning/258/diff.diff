@@ -1,0 +1,5 @@
+31c31,32
+<         return new UUID(ThreadLocalRandom.current().nextLong(), ThreadLocalRandom.current().nextLong());
+---
+>         return new UUID(ThreadLocalRandom.current().nextLong(), ThreadLocalRandom.current
+> ().nextLong());

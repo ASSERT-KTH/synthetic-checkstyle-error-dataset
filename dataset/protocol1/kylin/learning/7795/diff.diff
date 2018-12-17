@@ -1,0 +1,5 @@
+47,48c47
+< import org.apache.kylin.engine.mr.common.MapReduceExecutable;
+< import org.apache.kylin.job.execution.DefaultChainedExecutable;
+---
+> import org.apache.kylin.engine.mr.common.MapReduceExecutable;import org.apache.kylin.job.execution.DefaultChainedExecutable;

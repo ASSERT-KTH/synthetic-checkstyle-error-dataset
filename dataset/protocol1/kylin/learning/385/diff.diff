@@ -1,0 +1,5 @@
+49c49,50
+<         buffer.setLength(0);
+---
+>         buffer.setLength
+> (0);

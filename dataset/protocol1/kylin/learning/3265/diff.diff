@@ -1,0 +1,4 @@
+81c81
+<         String projectName = newProject.getName();
+---
+>         String projectName = newProject.getName ();

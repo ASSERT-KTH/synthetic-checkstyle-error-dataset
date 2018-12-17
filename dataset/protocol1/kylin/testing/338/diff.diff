@@ -1,0 +1,4 @@
+36c36
+<     void removeSnapshotCache(ExtTableSnapshotInfo extTableSnapshotInfo);
+---
+>     void 	removeSnapshotCache(ExtTableSnapshotInfo extTableSnapshotInfo);

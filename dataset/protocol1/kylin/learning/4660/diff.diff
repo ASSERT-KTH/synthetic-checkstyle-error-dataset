@@ -1,0 +1,4 @@
+405c405
+<             response.setSnapshotType(TableSnapshotResponse.TYPE_EXT);
+---
+>             response.setSnapshotType (TableSnapshotResponse.TYPE_EXT);

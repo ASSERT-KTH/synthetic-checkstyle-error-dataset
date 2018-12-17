@@ -1,0 +1,4 @@
+25c25
+<     static final String READ = "READ";
+---
+>     static final String 	READ = "READ";

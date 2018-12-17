@@ -1,0 +1,4 @@
+30c30
+<     final long childCuboidId;
+---
+>     final long 	childCuboidId;

@@ -1,0 +1,4 @@
+95c95
+<     @RequestMapping(value = "/{project}/{tableName:.+}", method = { RequestMethod.GET }, produces = {
+---
+>     	@RequestMapping(value = "/{project}/{tableName:.+}", method = { RequestMethod.GET }, produces = {

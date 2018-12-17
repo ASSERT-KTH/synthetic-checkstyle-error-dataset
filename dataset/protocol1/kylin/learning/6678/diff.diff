@@ -1,0 +1,5 @@
+31,32c31
+<             Number element = iterator.next();
+<             ret += element.longValue();
+---
+>             Number element = iterator.next();            ret += element.longValue();

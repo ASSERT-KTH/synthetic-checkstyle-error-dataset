@@ -1,0 +1,4 @@
+53c53
+<         CubeSegment segment = cube.getSegmentById(segmentID);
+---
+>         CubeSegment 	segment = cube.getSegmentById(segmentID);

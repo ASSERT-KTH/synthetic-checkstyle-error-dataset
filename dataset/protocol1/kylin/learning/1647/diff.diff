@@ -1,0 +1,4 @@
+70c70
+<         return kafkaConfigs.subList(offset, offset + limit);
+---
+>         return kafkaConfigs.subList (offset, offset + limit);

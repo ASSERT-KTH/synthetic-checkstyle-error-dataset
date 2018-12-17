@@ -1,0 +1,5 @@
+89,90c89
+<         configRes.put("config", config);
+<         return configRes;
+---
+>         configRes.put("config", config);        return configRes;

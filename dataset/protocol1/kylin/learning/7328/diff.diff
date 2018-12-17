@@ -1,0 +1,5 @@
+224,225c224
+<             logger.error(message, e);
+<             throw new BadRequestException(message + " Caused by: " + e.getMessage(), null, e.getCause());
+---
+>             logger.error(message, e);            throw new BadRequestException(message + " Caused by: " + e.getMessage(), null, e.getCause());

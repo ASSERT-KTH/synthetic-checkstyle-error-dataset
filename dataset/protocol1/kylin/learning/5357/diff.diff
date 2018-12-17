@@ -1,0 +1,4 @@
+31c31
+<     public static final Permission OPERATION = new AclPermission(1 << 6, 'O'); // 64
+---
+>     public static final Permission OPERATION = new 	AclPermission(1 << 6, 'O'); // 64

@@ -1,0 +1,4 @@
+229c229
+<     public String getSnapshotLocalCacheState(@PathVariable final String tableName,
+---
+>     public String getSnapshotLocalCacheState(@	PathVariable final String tableName,

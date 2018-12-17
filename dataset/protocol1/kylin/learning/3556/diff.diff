@@ -1,0 +1,5 @@
+155,156c155
+<     public long getSourceCount() {
+<         return sourceCount;
+---
+>     public long getSourceCount() {        return sourceCount;

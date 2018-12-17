@@ -1,0 +1,5 @@
+54,55c54
+<         for (Map.Entry<String, String> entry : hiveConfiguration.entrySet()) {
+<             ret.put(HIVE_CONF_PREFIX + entry.getKey(), entry.getValue());
+---
+>         for (Map.Entry<String, String> entry : hiveConfiguration.entrySet()) {            ret.put(HIVE_CONF_PREFIX + entry.getKey(), entry.getValue());

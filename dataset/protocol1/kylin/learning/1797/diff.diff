@@ -1,0 +1,4 @@
+31c31
+<     protected final int versionTTL;
+---
+>     protected 	final int versionTTL;

@@ -1,0 +1,5 @@
+145,146c145
+<         for (int i = 0; i <= levels; i++) {
+<             allLevelCounts[i] = currentQueue.size();
+---
+>         for (int i = 0; i <= levels; i++) {            allLevelCounts[i] = currentQueue.size();

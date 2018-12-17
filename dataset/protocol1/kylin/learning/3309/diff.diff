@@ -1,0 +1,5 @@
+67,68c67
+<         out.writeInt(key.length);
+<         out.write(key);
+---
+>         out.writeInt(key.length);        out.write(key);

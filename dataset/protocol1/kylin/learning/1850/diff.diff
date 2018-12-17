@@ -1,0 +1,5 @@
+63,64c63
+<     public void deleteFromTableACL(String project, String name, String table, String type) throws IOException {
+<         aclEvaluate.checkProjectAdminPermission(project);
+---
+>     public void deleteFromTableACL(String project, String name, String table, String type) throws IOException {        aclEvaluate.checkProjectAdminPermission(project);

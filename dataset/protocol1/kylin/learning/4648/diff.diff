@@ -1,0 +1,4 @@
+38c38
+< import org.apache.kylin.metadata.model.PartitionDesc;
+---
+> import org.apache.kylin.metadata	.model.PartitionDesc;

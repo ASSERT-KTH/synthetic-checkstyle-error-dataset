@@ -1,0 +1,4 @@
+88c88
+<                 final String cell = row.get(flatDesc.getRowKeyColumnIndexes()[i]);
+---
+>                 final String cell = row.get (flatDesc.getRowKeyColumnIndexes()[i]);

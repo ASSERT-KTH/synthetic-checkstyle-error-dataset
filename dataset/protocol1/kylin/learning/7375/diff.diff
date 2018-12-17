@@ -1,0 +1,4 @@
+33c33
+<     public final static String ROLE_ADMIN = "ROLE_ADMIN";
+---
+>     public final static String ROLE_ADMIN = 	"ROLE_ADMIN";

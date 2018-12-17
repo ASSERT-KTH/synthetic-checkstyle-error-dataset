@@ -1,0 +1,5 @@
+49c49,50
+<         throw new IllegalStateException("Class MailNotificationUtil is an utility class !");
+---
+>         throw new IllegalStateException
+> ("Class MailNotificationUtil is an utility class !");

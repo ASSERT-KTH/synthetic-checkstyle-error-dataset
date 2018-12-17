@@ -1,0 +1,4 @@
+1540c1540
+<         newCubeDesc.setOverrideKylinProps(cubeDesc.getOverrideKylinProps());
+---
+>         newCubeDesc	.setOverrideKylinProps(cubeDesc.getOverrideKylinProps());

@@ -1,0 +1,5 @@
+834c834,835
+<     public CuboidTreeResponse getCurrentCuboids(@PathVariable String cubeName) {
+---
+>     public CuboidTreeResponse getCurrentCuboids(@PathVariable String cubeName) 
+> {

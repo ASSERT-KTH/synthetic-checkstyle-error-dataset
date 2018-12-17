@@ -1,0 +1,4 @@
+149c149
+<     final public byte[] getValueByteFromId(int id) throws IllegalArgumentException {
+---
+>     final public byte[] 	getValueByteFromId(int id) throws IllegalArgumentException {

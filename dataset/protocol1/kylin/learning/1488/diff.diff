@@ -1,0 +1,5 @@
+213,214c213
+<                                           Map<String, Map<String, String>> tableToColumnsMap) {
+<         Map<String, String> colToAliasMap = getColToColAliasMapInTable(tableName, tableToColumnsMap);
+---
+>                                           Map<String, Map<String, String>> tableToColumnsMap) {        Map<String, String> colToAliasMap = getColToColAliasMapInTable(tableName, tableToColumnsMap);

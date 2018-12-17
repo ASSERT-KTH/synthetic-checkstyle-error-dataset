@@ -1,0 +1,4 @@
+187c187
+<         public SplitThread(final int num, final RecordConsumeBlockingQueueController<?> inputController) {
+---
+>         public SplitThread(final int num, final RecordConsumeBlockingQueueController	<?> inputController) {

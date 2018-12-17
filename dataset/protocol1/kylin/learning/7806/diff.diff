@@ -1,0 +1,4 @@
+147c147
+<             setEndTime(System.currentTimeMillis());
+---
+>             setEndTime(System.currentTimeMillis() );

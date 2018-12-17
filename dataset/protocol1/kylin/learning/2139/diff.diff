@@ -1,0 +1,4 @@
+58c58
+<         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+---
+>         Authentication authentication = SecurityContextHolder.getContext ().getAuthentication();

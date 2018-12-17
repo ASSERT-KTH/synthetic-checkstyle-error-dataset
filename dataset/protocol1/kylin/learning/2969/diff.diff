@@ -1,0 +1,5 @@
+128c128,129
+<         return DefaultMetricsSystem.instance().register(name, "Query", this);
+---
+>         return DefaultMetricsSystem.instance
+> ().register(name, "Query", this);

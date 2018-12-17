@@ -1,0 +1,4 @@
+80c80
+<                 buf.append("- ").append(reason).append("\n");
+---
+>                 buf.append ("- ").append(reason).append("\n");

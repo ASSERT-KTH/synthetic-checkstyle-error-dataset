@@ -1,0 +1,4 @@
+130c130
+<         patterns.add("(^)(" + tableName.trim() + ")([\\.])");
+---
+>         patterns	.add("(^)(" + tableName.trim() + ")([\\.])");

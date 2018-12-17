@@ -1,0 +1,5 @@
+70c70,71
+<         long newResourceTimeCut = System.currentTimeMillis() - NEW_RESOURCE_THREADSHOLD_MS;
+---
+>         long newResourceTimeCut = System.currentTimeMillis
+> () - NEW_RESOURCE_THREADSHOLD_MS;

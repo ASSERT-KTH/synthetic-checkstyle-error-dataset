@@ -1,0 +1,4 @@
+93c93
+<     public abstract void commit(String workingDir, GlobalDictMetadata globalDictMetadata, boolean isAppendDictGlobal) throws IOException;
+---
+>     public abstract void commit(String workingDir	, GlobalDictMetadata globalDictMetadata, boolean isAppendDictGlobal) throws IOException;

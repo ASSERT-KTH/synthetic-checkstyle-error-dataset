@@ -1,0 +1,4 @@
+49c49
+<         System.out.println("resource path updated: " + snapshot.getResourcePath());
+---
+>         System.out.println("resource path updated: " + snapshot.	getResourcePath());

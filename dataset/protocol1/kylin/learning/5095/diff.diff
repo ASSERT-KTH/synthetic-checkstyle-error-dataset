@@ -1,0 +1,4 @@
+42c42
+<         Assert.notNull(sid, "Sid required");
+---
+>         Assert.notNull(sid, "Sid required" );

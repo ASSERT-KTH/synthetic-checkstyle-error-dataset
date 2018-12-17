@@ -1,0 +1,4 @@
+313c313
+<     private Set<Long> getOnTreeParentsByLayer(Collection<Long> children, final AggregationGroup agg) {
+---
+>     private Set<Long> getOnTreeParentsByLayer (Collection<Long> children, final AggregationGroup agg) {

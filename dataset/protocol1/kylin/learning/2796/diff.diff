@@ -1,0 +1,5 @@
+61,62c61
+<     public boolean between(T v, T start, T end) {
+<         return compare(start, v) <= 0 && compare(v, end) <= 0;
+---
+>     public boolean between(T v, T start, T end) {        return compare(start, v) <= 0 && compare(v, end) <= 0;

@@ -1,0 +1,5 @@
+262c262,263
+<                         metrics = getMetricsValues(slot.currentRecord);
+---
+>                         metrics = getMetricsValues
+> (slot.currentRecord);

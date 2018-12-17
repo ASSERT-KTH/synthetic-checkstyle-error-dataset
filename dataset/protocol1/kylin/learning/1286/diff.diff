@@ -1,0 +1,4 @@
+86c86
+<         for (String q : tableauTestQueries) {
+---
+>         for (String q : tableauTestQueries) 	{

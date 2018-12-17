@@ -1,0 +1,4 @@
+76c76
+<         logger.info("use ext lookup table:{}", extTableSnapshot.getResourcePath());
+---
+>         logger.info("use ext lookup table:{}",extTableSnapshot.getResourcePath());

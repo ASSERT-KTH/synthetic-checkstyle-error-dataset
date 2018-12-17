@@ -1,0 +1,4 @@
+31c31
+<     private boolean enableStatementCache = true;
+---
+>     	private boolean enableStatementCache = true;

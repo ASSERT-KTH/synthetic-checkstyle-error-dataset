@@ -1,0 +1,4 @@
+35c35
+< import org.apache.kylin.common.util.StringUtil;
+---
+> import org.apache.kylin.common.util.StringUtil	;

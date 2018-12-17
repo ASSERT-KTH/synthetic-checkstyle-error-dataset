@@ -1,0 +1,4 @@
+141c141
+<         for (String s : stats) {
+---
+>         for (String 	s : stats) {

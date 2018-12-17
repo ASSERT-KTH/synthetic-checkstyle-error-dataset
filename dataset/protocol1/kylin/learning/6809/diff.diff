@@ -1,0 +1,4 @@
+36c36
+<         this.record = new GTRecord(info);
+---
+>         this.record = new GTRecord(info)	;

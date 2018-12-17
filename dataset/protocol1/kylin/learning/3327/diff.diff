@@ -1,0 +1,5 @@
+90,91c90
+<     private List<String> hdfsGarbageFiles = Collections.emptyList();
+<     private long hdfsGarbageFileBytes = 0;
+---
+>     private List<String> hdfsGarbageFiles = Collections.emptyList();    private long hdfsGarbageFileBytes = 0;

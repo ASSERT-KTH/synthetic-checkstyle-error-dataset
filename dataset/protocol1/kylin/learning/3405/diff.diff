@@ -1,0 +1,4 @@
+42c42
+<         Message msg = MsgPicker.getMsg();
+---
+>         Message msg = MsgPicker.	getMsg();

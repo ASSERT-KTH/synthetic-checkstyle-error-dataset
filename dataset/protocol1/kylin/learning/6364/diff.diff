@@ -1,0 +1,4 @@
+88c88
+<     public static Integer getCurrentRunningQuery(String project) {
+---
+>     public 	static Integer getCurrentRunningQuery(String project) {

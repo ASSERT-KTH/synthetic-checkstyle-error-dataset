@@ -1,0 +1,4 @@
+34c34
+<     public static Message getMsg() {
+---
+>     public 	static Message getMsg() {

@@ -1,0 +1,5 @@
+35,36c35
+<     public LDAPAuthoritiesPopulator(ContextSource contextSource, String groupSearchBase, String adminRole) {
+<         super(contextSource, groupSearchBase);
+---
+>     public LDAPAuthoritiesPopulator(ContextSource contextSource, String groupSearchBase, String adminRole) {        super(contextSource, groupSearchBase);

@@ -1,0 +1,4 @@
+44c44
+<             throw new IllegalArgumentException("Failed to load kylin config instance");
+---
+>             throw new IllegalArgumentException ("Failed to load kylin config instance");

@@ -1,0 +1,4 @@
+84c84
+<     @RequestMapping(value = "", method = { RequestMethod.GET }, produces = { "application/json" })
+---
+>     @RequestMapping(value = "", method = 	{ RequestMethod.GET }, produces = { "application/json" })

@@ -1,0 +1,4 @@
+34c34
+<     public SSHClientOutput(int exitCode, String text) {
+---
+>     public SSHClientOutput (int exitCode, String text) {

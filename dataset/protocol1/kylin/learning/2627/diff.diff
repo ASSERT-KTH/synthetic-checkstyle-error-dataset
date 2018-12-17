@@ -1,0 +1,4 @@
+171c171
+<         if ((f.exists() && f.lastModified() != oldTS) || (f.exists() == false && oldTS != 0))
+---
+>         if ((f.exists() && f.lastModified() != oldTS) || (f.exists() == false && oldTS != 0 ))

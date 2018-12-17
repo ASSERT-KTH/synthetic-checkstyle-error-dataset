@@ -1,0 +1,4 @@
+80c80
+<     public static void closeQuietly(final AutoCloseable closeable) {
+---
+>     public static void closeQuietly (final AutoCloseable closeable) {

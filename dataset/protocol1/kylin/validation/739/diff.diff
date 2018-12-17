@@ -1,0 +1,5 @@
+39,40c39
+<         final Pair<ImmutableBitSet, ImmutableBitSet> parentDimensionAndMetricColumnBitSet = getDimensionAndMetricColumnBitSet(baseCuboidId, measureCount);
+<         ImmutableBitSet parentDimensions = parentDimensionAndMetricColumnBitSet.getFirst();
+---
+>         final Pair<ImmutableBitSet, ImmutableBitSet> parentDimensionAndMetricColumnBitSet = getDimensionAndMetricColumnBitSet(baseCuboidId, measureCount);        ImmutableBitSet parentDimensions = parentDimensionAndMetricColumnBitSet.getFirst();

@@ -1,0 +1,5 @@
+120,121c120
+<     public void queryEnd(Thread thread, String badReason) {
+<         Entry entry = runningQueries.remove(thread);
+---
+>     public void queryEnd(Thread thread, String badReason) {        Entry entry = runningQueries.remove(thread);

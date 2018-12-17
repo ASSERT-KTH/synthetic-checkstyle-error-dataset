@@ -1,0 +1,4 @@
+60c60
+<     public List<BadQueryEntry> getBadQuerySql(@PathVariable String project) {
+---
+>     public List<BadQueryEntry> getBadQuerySql(@PathVariable String 	project) {

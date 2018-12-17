@@ -1,0 +1,4 @@
+27c27
+<     public final static String FakeSchemaName = "defaultSchema";
+---
+>     public final static 	String FakeSchemaName = "defaultSchema";

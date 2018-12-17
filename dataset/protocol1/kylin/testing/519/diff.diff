@@ -1,0 +1,5 @@
+44c44,45
+<     public CubeJoinedFlatTableEnrich(IJoinedFlatTableDesc flatDesc, CubeDesc cubeDesc) {
+---
+>     public CubeJoinedFlatTableEnrich
+> (IJoinedFlatTableDesc flatDesc, CubeDesc cubeDesc) {

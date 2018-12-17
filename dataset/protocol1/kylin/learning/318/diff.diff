@@ -1,0 +1,5 @@
+183,184c183
+<     public CubeInstance updateCubeCost(CubeInstance cube, int cost) throws IOException {
+<         aclEvaluate.checkProjectWritePermission(cube);
+---
+>     public CubeInstance updateCubeCost(CubeInstance cube, int cost) throws IOException {        aclEvaluate.checkProjectWritePermission(cube);

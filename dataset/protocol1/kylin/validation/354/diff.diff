@@ -1,0 +1,4 @@
+41c41
+<     protected GTSimpleMemStore(GTInfo info, List<byte[]> rowList) {
+---
+>     protected GTSimpleMemStore(GTInfo info, List<	byte[]> rowList) {

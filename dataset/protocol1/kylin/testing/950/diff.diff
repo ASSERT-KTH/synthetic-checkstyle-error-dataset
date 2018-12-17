@@ -1,0 +1,4 @@
+39c39
+<     private String status = "READY";
+---
+>     private String status = 	"READY";

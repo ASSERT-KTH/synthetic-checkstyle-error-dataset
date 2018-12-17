@@ -1,0 +1,5 @@
+108,109c108
+<     public void annouceWipeCache(String entity, String event, String cacheKey) {
+<         Broadcaster broadcaster = Broadcaster.getInstance(getConfig());
+---
+>     public void annouceWipeCache(String entity, String event, String cacheKey) {        Broadcaster broadcaster = Broadcaster.getInstance(getConfig());

@@ -1,0 +1,5 @@
+89,90c89
+<     public void takeSnapshot(IReadableTable table, TableDesc tableDesc) throws IOException {
+<         this.signature = table.getSignature();
+---
+>     public void takeSnapshot(IReadableTable table, TableDesc tableDesc) throws IOException {        this.signature = table.getSignature();

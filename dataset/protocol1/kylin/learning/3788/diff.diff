@@ -1,0 +1,4 @@
+62c62
+<             final Output output = getManager().getOutput(task.getId());
+---
+>             final Output output = 	getManager().getOutput(task.getId());

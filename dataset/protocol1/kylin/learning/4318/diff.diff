@@ -1,0 +1,4 @@
+52c52
+<             signatureCalculator = (SignatureCalculator) signatureClass.getConstructor().newInstance();
+---
+>             signatureCalculator 	= (SignatureCalculator) signatureClass.getConstructor().newInstance();

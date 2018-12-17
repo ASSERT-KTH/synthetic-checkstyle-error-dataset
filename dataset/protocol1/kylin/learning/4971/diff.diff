@@ -1,0 +1,5 @@
+28,29c28
+<     public static <T extends Number> long sum(Iterator<T> iterator) {
+<         long ret = 0;
+---
+>     public static <T extends Number> long sum(Iterator<T> iterator) {        long ret = 0;

@@ -1,0 +1,4 @@
+43c43
+<         listDictSlicePath(fs, fs.getFileStatus(basePath), sliceList);
+---
+>         listDictSlicePath(fs, fs	.getFileStatus(basePath), sliceList);

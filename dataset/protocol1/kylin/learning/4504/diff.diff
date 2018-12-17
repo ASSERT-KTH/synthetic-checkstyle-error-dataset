@@ -1,0 +1,4 @@
+55c55
+<     public void setSuccessful(boolean successful) {
+---
+>     public void setSuccessful (boolean successful) {

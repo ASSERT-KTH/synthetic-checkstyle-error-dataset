@@ -1,0 +1,4 @@
+101c101
+<             throw new IllegalArgumentException("URI: " + uri + " -- does not match pattern " + fullRestPattern);
+---
+>             throw new IllegalArgumentException("URI: " + uri + 	" -- does not match pattern " + fullRestPattern);

@@ -1,0 +1,4 @@
+45c45
+<         Set<String> realizations = getRealizations(config, sqlResponse.getCube(), project);
+---
+>         Set<String> realizations 	= getRealizations(config, sqlResponse.getCube(), project);

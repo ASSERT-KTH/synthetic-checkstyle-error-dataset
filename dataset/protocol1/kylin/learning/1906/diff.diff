@@ -1,0 +1,5 @@
+51,52c51
+<     protected String getPath(KylinConfig kylinConfig) {
+<         return kylinConfig.getMetadataUrl().getIdentifier();
+---
+>     protected String getPath(KylinConfig kylinConfig) {        return kylinConfig.getMetadataUrl().getIdentifier();

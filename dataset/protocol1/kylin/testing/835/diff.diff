@@ -1,0 +1,4 @@
+340c340
+<             resultCollector.collectAndNotify(result);
+---
+>             resultCollector.collectAndNotify(result)	;

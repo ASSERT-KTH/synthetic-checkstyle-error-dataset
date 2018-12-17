@@ -1,0 +1,5 @@
+52c52,53
+<                 .getTableBlackList(username, AclPermissionUtil.getCurrentUserGroups());
+---
+>                 .getTableBlackList(username, AclPermissionUtil.getCurrentUserGroups
+> ());

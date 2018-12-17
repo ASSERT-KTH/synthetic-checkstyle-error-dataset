@@ -1,0 +1,4 @@
+28c28
+< public class StringEntity extends RootPersistentEntity implements Comparable<StringEntity> {
+---
+> public class StringEntity extends RootPersistentEntity implements Comparable<StringEntity> 	{

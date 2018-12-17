@@ -1,0 +1,4 @@
+23c23
+<     public static final int ROWKEY_COL_DEFAULT_LENGTH = 256;
+---
+>     public static final 	int ROWKEY_COL_DEFAULT_LENGTH = 256;

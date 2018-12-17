@@ -1,0 +1,4 @@
+36c36
+< public class SegmentAppendTrieDictBuilder implements IDictionaryBuilder {
+---
+> public class 	SegmentAppendTrieDictBuilder implements IDictionaryBuilder {

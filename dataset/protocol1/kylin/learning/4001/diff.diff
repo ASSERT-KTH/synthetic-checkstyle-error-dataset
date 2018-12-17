@@ -1,0 +1,4 @@
+69c69
+<         if (ex instanceof RuntimeException)
+---
+>         if (ex instanceof RuntimeException )

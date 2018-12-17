@@ -1,0 +1,4 @@
+42c42
+<         final String sql = new MessageFormat(format.getCheckTableExistsSql(), Locale.ROOT)
+---
+>         final String sql = new MessageFormat(format.getCheckTableExistsSql(),Locale.ROOT)

@@ -1,0 +1,5 @@
+59c59,60
+<     public void setSourcePartitionOffsetStart(Map<Integer, Long> sourcePartitionOffsetStart) {
+---
+>     public void setSourcePartitionOffsetStart(Map<Integer, Long> sourcePartitionOffsetStart) 
+> {

@@ -1,0 +1,4 @@
+36c36
+<     private static void rebuild(String table, String overwriteUUID, String project) throws IOException {
+---
+>     private static void rebuild(String table, String overwriteUUID, String project ) throws IOException {

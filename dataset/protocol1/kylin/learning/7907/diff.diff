@@ -1,0 +1,4 @@
+70c70
+<         this.partitionDateStart = cube.getDescriptor().getPartitionDateStart();
+---
+>         this.partitionDateStart = cube.	getDescriptor().getPartitionDateStart();

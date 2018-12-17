@@ -1,0 +1,5 @@
+80c80,81
+<     public CubeDesc getDesc(@PathVariable String cubeName) {
+---
+>     public CubeDesc getDesc(@PathVariable String cubeName) 
+> {

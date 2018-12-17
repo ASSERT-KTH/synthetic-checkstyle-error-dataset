@@ -1,0 +1,5 @@
+53,54c53
+<             if (isKeyColumn) {
+<                 keyIndexes[keyIdx] = i;
+---
+>             if (isKeyColumn) {                keyIndexes[keyIdx] = i;

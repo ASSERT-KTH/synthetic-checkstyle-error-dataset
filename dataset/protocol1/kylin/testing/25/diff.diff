@@ -1,0 +1,4 @@
+67c67
+<         return tableACLService.getCanAccessList(project, table, allIdentifiers, type);
+---
+>         return tableACLService.getCanAccessList(project, 	table, allIdentifiers, type);

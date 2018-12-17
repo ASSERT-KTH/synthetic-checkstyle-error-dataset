@@ -1,0 +1,5 @@
+50c50,51
+<     public void setModel(String model) {
+---
+>     public void setModel(String model) 
+> {

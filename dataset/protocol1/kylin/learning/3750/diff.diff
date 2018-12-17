@@ -1,0 +1,4 @@
+47c47
+<     public void setEndTime(Date endTime) {
+---
+>     public void setEndTime( Date endTime) {

@@ -1,0 +1,5 @@
+135,136c135
+<             return false;
+<         return backdoorToggles != null ? backdoorToggles.equals(that.backdoorToggles) : that.backdoorToggles == null;
+---
+>             return false;        return backdoorToggles != null ? backdoorToggles.equals(that.backdoorToggles) : that.backdoorToggles == null;

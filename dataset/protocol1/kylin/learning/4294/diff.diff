@@ -1,0 +1,4 @@
+45c45
+<     public Collection<HBaseColumnDesc> findHBaseColumnByFunction(FunctionDesc function) {
+---
+>     public Collection<HBaseColumnDesc> findHBaseColumnByFunction( FunctionDesc function) {

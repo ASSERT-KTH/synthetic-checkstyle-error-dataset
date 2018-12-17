@@ -1,0 +1,4 @@
+74c74
+<         StorageURL metadataUrl = config.getMetadataUrl();
+---
+>         StorageURL metadataUrl = config.getMetadataUrl ();

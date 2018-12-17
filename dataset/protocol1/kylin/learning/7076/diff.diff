@@ -1,0 +1,5 @@
+36,37c36
+<     private final Map<String, String> info = Maps.newHashMap();
+<     private ILogListener listener = null;
+---
+>     private final Map<String, String> info = Maps.newHashMap();    private ILogListener listener = null;

@@ -1,0 +1,5 @@
+346,347c346
+<         public int hashCode() {
+<             return Long.hashCode(currentCuboidId);
+---
+>         public int hashCode() {            return Long.hashCode(currentCuboidId);

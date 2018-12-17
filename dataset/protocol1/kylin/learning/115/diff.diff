@@ -1,0 +1,5 @@
+57,58c57
+<         result = 31 * result + (int) (lastBuildTime ^ (lastBuildTime >>> 32));
+<         return result;
+---
+>         result = 31 * result + (int) (lastBuildTime ^ (lastBuildTime >>> 32));        return result;

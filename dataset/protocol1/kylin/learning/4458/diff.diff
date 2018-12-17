@@ -1,0 +1,4 @@
+30c30
+<         builder.setTableName("Cuboid " + cuboid.getId());
+---
+>         builder.setTableName("Cuboid " + cuboid.getId ());

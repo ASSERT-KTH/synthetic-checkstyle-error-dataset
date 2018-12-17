@@ -1,0 +1,5 @@
+261,262c261
+<         try {
+<             logger.info("[" + username + "@" + hostname + "] Execute command: " + command);
+---
+>         try {            logger.info("[" + username + "@" + hostname + "] Execute command: " + command);

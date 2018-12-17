@@ -1,0 +1,4 @@
+39c39
+<         this.adminRoleAsAuthority = new SimpleGrantedAuthority(adminRole);
+---
+>         this	.adminRoleAsAuthority = new SimpleGrantedAuthority(adminRole);

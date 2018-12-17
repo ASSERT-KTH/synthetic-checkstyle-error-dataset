@@ -1,0 +1,4 @@
+40c40
+<     abstract void prepareForWrite(String workingDir, boolean isGlobal) throws IOException;
+---
+>     abstract void prepareForWrite (String workingDir, boolean isGlobal) throws IOException;

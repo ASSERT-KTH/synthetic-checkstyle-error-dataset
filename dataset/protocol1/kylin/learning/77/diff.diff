@@ -1,0 +1,5 @@
+28,29c28
+<     public int compareTo(T o) {
+<         return getKey().compareTo(o.getKey());
+---
+>     public int compareTo(T o) {        return getKey().compareTo(o.getKey());

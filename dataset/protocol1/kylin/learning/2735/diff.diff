@@ -1,0 +1,4 @@
+56c56
+<             hadoopJobConfFile = (HADOOP_JOB_CONF_FILENAME + "_" + suffix.toLowerCase(Locale.ROOT) + ".xml");
+---
+>             hadoopJobConfFile = (HADOOP_JOB_CONF_FILENAME + "_" + suffix.toLowerCase(Locale	.ROOT) + ".xml");

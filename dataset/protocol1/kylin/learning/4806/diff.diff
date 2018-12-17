@@ -1,0 +1,4 @@
+40c40
+<             list.add(str.substring(offset, index));
+---
+>             list.add(str.substring(offset	, index));

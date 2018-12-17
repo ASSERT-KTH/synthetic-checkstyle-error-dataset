@@ -1,0 +1,5 @@
+52,53c52
+<             signatureCalculator = (SignatureCalculator) signatureClass.getConstructor().newInstance();
+<         } catch (Exception e) {
+---
+>             signatureCalculator = (SignatureCalculator) signatureClass.getConstructor().newInstance();        } catch (Exception e) {

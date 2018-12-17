@@ -1,0 +1,5 @@
+37,38c37
+<         if (totalShards <= 1) {
+<             return 0;
+---
+>         if (totalShards <= 1) {            return 0;

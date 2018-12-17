@@ -1,0 +1,4 @@
+148c148
+<             newGroups.put(errGroup, stats.allGroups.get(errGroup));
+---
+>             newGroups.put(errGroup, stats.	allGroups.get(errGroup));

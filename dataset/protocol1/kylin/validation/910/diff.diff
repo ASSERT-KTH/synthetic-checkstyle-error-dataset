@@ -1,0 +1,4 @@
+51c51
+<     public HDFSResourceStore(KylinConfig kylinConfig) throws Exception {
+---
+>     public HDFSResourceStore(KylinConfig kylinConfig) throws 	Exception {

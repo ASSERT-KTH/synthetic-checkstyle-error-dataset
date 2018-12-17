@@ -1,0 +1,4 @@
+51c51
+<     private List<TblColRef> columnList = Lists.newArrayList();
+---
+>     private List<TblColRef> columnList 	= Lists.newArrayList();

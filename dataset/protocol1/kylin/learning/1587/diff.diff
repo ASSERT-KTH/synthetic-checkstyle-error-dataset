@@ -1,0 +1,5 @@
+58,59c58
+<     public static final String STEP_NAME_MERGE_UPDATE_DICTIONARY = "Update Dictionary Data";
+<     public static final String STEP_NAME_MERGE_STATISTICS_WITH_OLD = "Merge Cuboid Statistics with Old for Optimization";
+---
+>     public static final String STEP_NAME_MERGE_UPDATE_DICTIONARY = "Update Dictionary Data";    public static final String STEP_NAME_MERGE_STATISTICS_WITH_OLD = "Merge Cuboid Statistics with Old for Optimization";

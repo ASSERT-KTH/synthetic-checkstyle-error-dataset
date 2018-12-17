@@ -1,0 +1,5 @@
+37,38c37
+<     public static <T> T checkSame(Iterator<T> iterator) {
+<         Set<T> values = Sets.newHashSet();
+---
+>     public static <T> T checkSame(Iterator<T> iterator) {        Set<T> values = Sets.newHashSet();

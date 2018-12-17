@@ -1,0 +1,5 @@
+189,190c189
+<             long skipCount, long scanCount, long returnCount, long aggrCount, boolean ifSuccess, double weightPerHit) {
+<         metricsEvent.put(QueryCubePropertyEnum.CALL_COUNT.toString(), callCount);
+---
+>             long skipCount, long scanCount, long returnCount, long aggrCount, boolean ifSuccess, double weightPerHit) {        metricsEvent.put(QueryCubePropertyEnum.CALL_COUNT.toString(), callCount);

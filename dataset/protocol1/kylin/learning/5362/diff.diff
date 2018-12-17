@@ -1,0 +1,5 @@
+27c27,28
+< public class GeneralResponse extends Properties {
+---
+> public class GeneralResponse extends Properties 
+> {

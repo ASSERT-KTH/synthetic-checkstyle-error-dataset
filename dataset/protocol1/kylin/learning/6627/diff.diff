@@ -1,0 +1,4 @@
+52c52
+<                 public AtomicInteger load(String s) throws Exception {
+---
+>                 public AtomicInteger load( String s) throws Exception {

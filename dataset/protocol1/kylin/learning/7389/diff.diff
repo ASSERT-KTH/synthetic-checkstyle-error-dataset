@@ -1,0 +1,4 @@
+57c57
+<         OrderedProperties orderedProperties = new OrderedProperties(new TreeMap<String, String>());
+---
+>         OrderedProperties orderedProperties = new OrderedProperties (new TreeMap<String, String>());

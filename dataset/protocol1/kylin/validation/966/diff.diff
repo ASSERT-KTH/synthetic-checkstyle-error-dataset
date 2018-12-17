@@ -1,0 +1,4 @@
+82c82
+<     private HybridManager hybridManager;
+---
+>     private HybridManager 	hybridManager;

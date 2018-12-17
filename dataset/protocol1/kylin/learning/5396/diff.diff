@@ -1,0 +1,4 @@
+191c191
+<         switch (timeFilter) {
+---
+>         switch ( timeFilter) {

@@ -1,0 +1,4 @@
+72c72
+<     public static DictionaryDesc create(String column, String reuseColumn, String builderClass) {
+---
+>     public static DictionaryDesc create(String column	, String reuseColumn, String builderClass) {

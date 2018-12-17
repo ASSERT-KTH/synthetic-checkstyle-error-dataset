@@ -1,0 +1,5 @@
+39,40c39
+<         for (ICuboidWriter writer : cuboidWriters) {
+<             writer.write(cuboidId, record);
+---
+>         for (ICuboidWriter writer : cuboidWriters) {            writer.write(cuboidId, record);

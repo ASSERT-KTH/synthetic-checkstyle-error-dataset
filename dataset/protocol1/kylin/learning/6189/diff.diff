@@ -1,0 +1,4 @@
+65c65
+<             int count = inflater.inflate(buffer);
+---
+>             int count 	= inflater.inflate(buffer);

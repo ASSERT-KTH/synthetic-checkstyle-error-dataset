@@ -1,0 +1,5 @@
+42,43c42
+<         this.url = url;
+<         this.exception = exception.getLocalizedMessage();
+---
+>         this.url = url;        this.exception = exception.getLocalizedMessage();

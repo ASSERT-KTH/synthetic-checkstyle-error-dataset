@@ -1,0 +1,5 @@
+49,50c49
+<         }
+<         return INSTANCE;
+---
+>         }        return INSTANCE;

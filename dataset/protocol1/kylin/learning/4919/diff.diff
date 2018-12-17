@@ -1,0 +1,4 @@
+72c72
+<         key = new byte[in.readInt()];
+---
+>         key = new byte[in	.readInt()];

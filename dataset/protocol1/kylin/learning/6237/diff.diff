@@ -1,0 +1,4 @@
+77c77
+<             dynMetrics2gt.put(rtFunc, gtColIdx);
+---
+>             dynMetrics2gt.put(rtFunc	, gtColIdx);

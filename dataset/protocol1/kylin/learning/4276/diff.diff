@@ -1,0 +1,4 @@
+51c51
+<         UserDetails userDetails = authenticatedUser();
+---
+>         UserDetails userDetails = authenticatedUser ();

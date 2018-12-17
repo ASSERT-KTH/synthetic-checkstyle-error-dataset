@@ -1,0 +1,4 @@
+222c222
+<         customProperties.store(stream, comments);
+---
+>         customProperties.store( stream, comments);

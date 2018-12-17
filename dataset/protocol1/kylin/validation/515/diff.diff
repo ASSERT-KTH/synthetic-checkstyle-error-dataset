@@ -1,0 +1,4 @@
+26c26
+< import org.apache.kylin.dimension.FixedLenDimEnc;
+---
+> import org.	apache.kylin.dimension.FixedLenDimEnc;

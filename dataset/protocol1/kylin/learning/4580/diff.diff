@@ -1,0 +1,4 @@
+57c57
+<     @RequestMapping(value = "/announce/{entity}/{cacheKey}/{event}", method = { RequestMethod.PUT }, produces = { "application/json" })
+---
+>     @RequestMapping( value = "/announce/{entity}/{cacheKey}/{event}", method = { RequestMethod.PUT }, produces = { "application/json" })

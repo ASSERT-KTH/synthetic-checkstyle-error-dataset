@@ -1,0 +1,4 @@
+38c38
+<     public FuzzyMaskEncoder(CubeSegment seg, Cuboid cuboid) {
+---
+>     public FuzzyMaskEncoder (CubeSegment seg, Cuboid cuboid) {

@@ -1,0 +1,4 @@
+33c33
+<     public SchedulerException(String message, Throwable cause) {
+---
+>     public SchedulerException (String message, Throwable cause) {

@@ -1,0 +1,4 @@
+78c78
+<     static void closeQueryRequest(String project, int maxConcurrentQuery) {
+---
+>     static void closeQueryRequest(String project, 	int maxConcurrentQuery) {

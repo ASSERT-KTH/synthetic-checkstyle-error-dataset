@@ -1,0 +1,4 @@
+33c33
+<         return lockForClient(processAndHost());
+---
+>         return lockForClient (processAndHost());

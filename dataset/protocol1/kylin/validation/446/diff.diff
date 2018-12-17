@@ -1,0 +1,4 @@
+24c24
+< import org.apache.kylin.dict.lookup.SnapshotTable;
+---
+> import org.apache.kylin.dict.lookup.SnapshotTable	;

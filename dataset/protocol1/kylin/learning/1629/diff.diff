@@ -1,0 +1,4 @@
+30c30
+<     void write(long cuboidId, GTRecord record) throws IOException;
+---
+>     void write(long cuboidId, 	GTRecord record) throws IOException;

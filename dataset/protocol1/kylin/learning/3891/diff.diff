@@ -1,0 +1,4 @@
+339c339
+<         if (readChannel == null) {
+---
+>         if (readChannel 	== null) {

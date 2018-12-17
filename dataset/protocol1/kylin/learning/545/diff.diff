@@ -1,0 +1,5 @@
+73,74c73
+<     public void remove() {
+<         throw new UnsupportedOperationException();
+---
+>     public void remove() {        throw new UnsupportedOperationException();

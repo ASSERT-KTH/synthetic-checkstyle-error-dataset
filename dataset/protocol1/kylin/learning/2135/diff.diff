@@ -1,0 +1,5 @@
+23c23,24
+< abstract class ComponentSignature<T extends ComponentSignature> implements Serializable, Comparable<T> {
+---
+> abstract class ComponentSignature<T extends ComponentSignature> implements Serializable, Comparable<T> 
+> {

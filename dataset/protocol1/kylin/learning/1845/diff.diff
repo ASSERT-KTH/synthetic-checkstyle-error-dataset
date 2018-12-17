@@ -1,0 +1,5 @@
+66,67c66
+<         if (seg.getInputRecords() == 0) {
+<             if (seg.getConfig().isSkippingEmptySegments()) {
+---
+>         if (seg.getInputRecords() == 0) {            if (seg.getConfig().isSkippingEmptySegments()) {

@@ -1,0 +1,4 @@
+81c81
+<     ErrorResponse handleForbidden(HttpServletRequest req, Exception ex) {
+---
+>     ErrorResponse handleForbidden(HttpServletRequest req,Exception ex) {

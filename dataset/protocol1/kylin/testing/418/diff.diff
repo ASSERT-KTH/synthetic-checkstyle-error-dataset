@@ -1,0 +1,4 @@
+79c79
+<     @RequestMapping(value = "/table/{project}/{type}/{table}/{name}", method = {RequestMethod.DELETE}, produces = {"application/json"})
+---
+>     @RequestMapping(value = "/table/{project}/{type}/{table}/{name}", 	method = {RequestMethod.DELETE}, produces = {"application/json"})

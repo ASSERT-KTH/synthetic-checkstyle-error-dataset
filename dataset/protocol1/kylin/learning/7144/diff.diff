@@ -1,0 +1,4 @@
+25c25
+<         Long sum = 0L;
+---
+>         Long sum = 0L	;

@@ -1,0 +1,4 @@
+25c25
+< public class SplittedBytes implements java.io.Serializable {
+---
+> public class SplittedBytes 	implements java.io.Serializable {

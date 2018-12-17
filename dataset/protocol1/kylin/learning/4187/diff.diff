@@ -1,0 +1,5 @@
+105c105,106
+<     public MetricsResponse getChartData(@PathVariable String dimension, @PathVariable String metric, @PathVariable String category, @RequestParam(value = "projectName", required = false) String projectName, @RequestParam(value = "cubeName", required = false) String cubeName, @RequestParam(value = "startTime") String startTime, @RequestParam(value = "endTime") String endTime) {
+---
+>     public MetricsResponse getChartData
+> (@PathVariable String dimension, @PathVariable String metric, @PathVariable String category, @RequestParam(value = "projectName", required = false) String projectName, @RequestParam(value = "cubeName", required = false) String cubeName, @RequestParam(value = "startTime") String startTime, @RequestParam(value = "endTime") String endTime) {

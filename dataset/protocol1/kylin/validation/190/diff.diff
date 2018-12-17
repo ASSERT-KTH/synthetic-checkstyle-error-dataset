@@ -1,0 +1,4 @@
+65c65
+<         return !SnapshotTable.STORAGE_TYPE_METASTORE.equals(storageType);
+---
+>         return !SnapshotTable.STORAGE_TYPE_METASTORE.equals(storageType)	;

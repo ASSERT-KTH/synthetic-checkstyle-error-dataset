@@ -1,0 +1,4 @@
+27c27
+< import org.apache.kylin.common.util.RandomUtil;
+---
+> import org.apache.kylin.common.util	.RandomUtil;

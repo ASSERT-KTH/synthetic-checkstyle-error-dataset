@@ -1,0 +1,4 @@
+86c86
+<         if (this.state != another.state) {
+---
+>         if 	(this.state != another.state) {

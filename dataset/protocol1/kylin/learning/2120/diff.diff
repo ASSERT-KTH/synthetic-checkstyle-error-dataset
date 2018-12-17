@@ -1,0 +1,4 @@
+34c34
+<     @JsonProperty("column")
+---
+>     @JsonProperty( "column")

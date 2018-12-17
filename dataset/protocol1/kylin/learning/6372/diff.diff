@@ -1,0 +1,4 @@
+928c928
+<             if (segment.getStatus() != SegmentStatusEnum.READY) {
+---
+>             if (segment.getStatus() != SegmentStatusEnum.READY) 	{

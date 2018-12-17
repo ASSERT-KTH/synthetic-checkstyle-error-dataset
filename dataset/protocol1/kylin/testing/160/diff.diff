@@ -1,0 +1,5 @@
+76,77c76
+<             throw new BadRequestException(
+<                     String.format(Locale.ROOT, msg.getSTREAMING_CONFIG_ALREADY_EXIST(), config.getName()));
+---
+>             throw new BadRequestException(                    String.format(Locale.ROOT, msg.getSTREAMING_CONFIG_ALREADY_EXIST(), config.getName()));

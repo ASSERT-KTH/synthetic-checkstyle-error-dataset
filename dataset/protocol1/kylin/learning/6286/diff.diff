@@ -1,0 +1,5 @@
+32,33c32
+<     public static Long sumInteger(Collection<Integer> input) {
+<         Long sum = 0L;
+---
+>     public static Long sumInteger(Collection<Integer> input) {        Long sum = 0L;

@@ -1,0 +1,5 @@
+53,54c53
+<         if (reuseColumn != null) {
+<             reuseColumn = reuseColumn.toUpperCase(Locale.ROOT);
+---
+>         if (reuseColumn != null) {            reuseColumn = reuseColumn.toUpperCase(Locale.ROOT);

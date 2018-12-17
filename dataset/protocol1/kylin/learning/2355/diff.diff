@@ -1,0 +1,4 @@
+120c120
+<                 allUsers.add(((PrincipalSid) sid).getPrincipal());
+---
+>                 allUsers	.add(((PrincipalSid) sid).getPrincipal());

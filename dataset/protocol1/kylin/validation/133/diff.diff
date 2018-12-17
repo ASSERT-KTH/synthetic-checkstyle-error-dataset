@@ -1,0 +1,4 @@
+26c26
+< public class Array<T> implements Comparable<Array<T>>, java.io.Serializable {
+---
+> public class Array<T> implements Comparable<Array<T>>, java.	io.Serializable {

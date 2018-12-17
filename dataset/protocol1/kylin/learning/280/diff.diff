@@ -1,0 +1,5 @@
+74,75c74
+<         this.setColumns(table.getColumns());
+<         this.setDatabase(table.getDatabase());
+---
+>         this.setColumns(table.getColumns());        this.setDatabase(table.getDatabase());

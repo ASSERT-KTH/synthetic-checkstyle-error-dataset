@@ -1,0 +1,4 @@
+123c123
+<         setEndTime(System.currentTimeMillis());
+---
+>         setEndTime( System.currentTimeMillis());

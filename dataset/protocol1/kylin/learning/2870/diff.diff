@@ -1,0 +1,5 @@
+39,40c39
+<         public int compare(String o1, String o2) {
+<             long l1 = Long.parseLong(o1);
+---
+>         public int compare(String o1, String o2) {            long l1 = Long.parseLong(o1);

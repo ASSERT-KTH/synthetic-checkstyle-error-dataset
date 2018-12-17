@@ -1,0 +1,4 @@
+41c41
+<         return new CuboidManager(config);
+---
+>         	return new CuboidManager(config);

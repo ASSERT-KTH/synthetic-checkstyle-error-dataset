@@ -1,0 +1,4 @@
+38c38
+<     private boolean acceptPartial = false;
+---
+>     private 	boolean acceptPartial = false;

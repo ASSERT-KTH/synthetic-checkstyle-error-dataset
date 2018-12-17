@@ -1,0 +1,5 @@
+47,48c47
+<                     DictionaryDimEnc.ENCODING_NAME, IntegerDimEnc.ENCODING_NAME);
+<         } else if (dataType.isNumberFamily()) { //numbers include integers
+---
+>                     DictionaryDimEnc.ENCODING_NAME, IntegerDimEnc.ENCODING_NAME);        } else if (dataType.isNumberFamily()) { //numbers include integers

@@ -1,0 +1,5 @@
+43,44c43
+<         Assert.notNull(permission, "Permission required");
+<         this.id = id;
+---
+>         Assert.notNull(permission, "Permission required");        this.id = id;

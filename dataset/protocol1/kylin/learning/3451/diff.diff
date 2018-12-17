@@ -1,0 +1,4 @@
+35c35
+<         this.maxVersions = KylinConfig.getInstanceFromEnv().getAppendDictMaxVersions();
+---
+>         this	.maxVersions = KylinConfig.getInstanceFromEnv().getAppendDictMaxVersions();

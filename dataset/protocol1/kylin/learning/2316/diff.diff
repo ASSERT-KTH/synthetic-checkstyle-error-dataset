@@ -1,0 +1,5 @@
+30,31c30
+< import org.apache.kylin.cube.CubeSegment;
+< import org.apache.kylin.cube.model.DimensionDesc;
+---
+> import org.apache.kylin.cube.CubeSegment;import org.apache.kylin.cube.model.DimensionDesc;

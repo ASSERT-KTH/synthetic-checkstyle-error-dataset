@@ -1,0 +1,4 @@
+282c282
+<         StreamingConfig desc = null;
+---
+>         StreamingConfig 	desc = null;

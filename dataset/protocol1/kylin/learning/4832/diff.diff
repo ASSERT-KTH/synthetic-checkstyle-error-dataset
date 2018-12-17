@@ -1,0 +1,4 @@
+91c91
+<         cacheService.clearCacheForCubeMigration(request.getCube(), request.getProject(), request.getModel(), request.getTableToProjects());
+---
+>         cacheService.clearCacheForCubeMigration( request.getCube(), request.getProject(), request.getModel(), request.getTableToProjects());

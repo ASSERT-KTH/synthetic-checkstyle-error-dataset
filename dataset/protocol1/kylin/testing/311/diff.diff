@@ -1,0 +1,5 @@
+157,158c157
+<     public String toReadableText() {
+<         if (data == null) {
+---
+>     public String toReadableText() {        if (data == null) {

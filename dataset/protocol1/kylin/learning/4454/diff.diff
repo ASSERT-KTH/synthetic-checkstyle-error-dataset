@@ -1,0 +1,4 @@
+72c72
+<     private static final String DISABLED_ROLE = "--disabled--";
+---
+>     private static final String DISABLED_ROLE = "--disabled--"	;

@@ -1,0 +1,4 @@
+38c38
+<         super(mask, code);
+---
+>         	super(mask, code);

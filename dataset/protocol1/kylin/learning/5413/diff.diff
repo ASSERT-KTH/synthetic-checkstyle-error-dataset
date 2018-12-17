@@ -1,0 +1,5 @@
+110,111c110
+<     public static void main(String[] args) {
+<         if (args != null && args.length > 1) {
+---
+>     public static void main(String[] args) {        if (args != null && args.length > 1) {

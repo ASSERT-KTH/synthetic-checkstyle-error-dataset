@@ -1,0 +1,4 @@
+203c203
+<             logger.info("{} query has been running {} seconds (project:{}, thread: 0x{}, user:{}, query id:{}) -- {}",
+---
+>             logger.info( "{} query has been running {} seconds (project:{}, thread: 0x{}, user:{}, query id:{}) -- {}",

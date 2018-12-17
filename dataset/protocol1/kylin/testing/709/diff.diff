@@ -1,0 +1,4 @@
+53c53
+<     public static final String STORAGE_TYPE_METASTORE = "metaStore";
+---
+>     	public static final String STORAGE_TYPE_METASTORE = "metaStore";

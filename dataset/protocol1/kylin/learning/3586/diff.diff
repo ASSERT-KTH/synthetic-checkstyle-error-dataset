@@ -1,0 +1,4 @@
+30c30
+<         return t;
+---
+>         return t	;

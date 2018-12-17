@@ -1,0 +1,4 @@
+57c57
+<     private CachedCrudAssist<ManagedUser> crud;
+---
+>     private CachedCrudAssist<ManagedUser	> crud;

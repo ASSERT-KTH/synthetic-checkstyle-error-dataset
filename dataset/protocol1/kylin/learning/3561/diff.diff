@@ -1,0 +1,5 @@
+82,83c82
+<         Set<String> toSnapshot = Sets.newHashSet();
+<         Set<TableRef> toCheckLookup = Sets.newHashSet();
+---
+>         Set<String> toSnapshot = Sets.newHashSet();        Set<TableRef> toCheckLookup = Sets.newHashSet();

@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.common.util.DateFormat;
+< import org.apache.kylin.metadata.datatype.DataType;
+---
+> import org.apache.kylin.common.util.DateFormat;import org.apache.kylin.metadata.datatype.DataType;

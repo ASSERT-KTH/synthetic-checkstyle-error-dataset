@@ -1,0 +1,5 @@
+92,93c92
+<         if (tablesCache != null) {
+<             tablesCache.buildSnapshotCache(tableDesc, extTableSnapshotInfo, getExtLookupTableWithoutCache(tableDesc, extTableSnapshotInfo));
+---
+>         if (tablesCache != null) {            tablesCache.buildSnapshotCache(tableDesc, extTableSnapshotInfo, getExtLookupTableWithoutCache(tableDesc, extTableSnapshotInfo));

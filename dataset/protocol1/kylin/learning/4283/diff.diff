@@ -1,0 +1,4 @@
+365c365
+<         int[] array = new int[len];
+---
+>         int[] array 	= new int[len];

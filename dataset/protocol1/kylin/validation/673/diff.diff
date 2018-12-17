@@ -1,0 +1,5 @@
+109c109,110
+<         return other instanceof Pair && equals(first, ((Pair) other).first) && equals(second, ((Pair) other).second);
+---
+>         return other instanceof Pair && equals(first, ((Pair) other).first) && equals
+> (second, ((Pair) other).second);

@@ -1,0 +1,4 @@
+72c72
+<             tool.addExcludes(exclude.split("\\s*,\\s*"));
+---
+>             tool	.addExcludes(exclude.split("\\s*,\\s*"));

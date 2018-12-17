@@ -1,0 +1,4 @@
+57c57
+<     public abstract GlobalDictMetadata getMetadata(long version) throws IOException;
+---
+>     public abstract GlobalDictMetadata getMetadata(long version ) throws IOException;

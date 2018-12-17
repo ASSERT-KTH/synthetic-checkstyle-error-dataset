@@ -1,0 +1,5 @@
+64,65c64
+<             cubeCache.put(cuboidID, cuboid);
+<         }
+---
+>             cubeCache.put(cuboidID, cuboid);        }

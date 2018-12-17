@@ -1,0 +1,5 @@
+77,78c77
+<     private void initRow(String[] cols, int[] keyIndex) {
+<         T[] value = convertRow(cols);
+---
+>     private void initRow(String[] cols, int[] keyIndex) {        T[] value = convertRow(cols);

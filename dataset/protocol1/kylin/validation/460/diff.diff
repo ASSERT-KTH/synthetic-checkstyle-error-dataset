@@ -1,0 +1,4 @@
+48c48
+<             maxId = Math.max(maxId, id);
+---
+>             maxId = Math.max(maxId, id );

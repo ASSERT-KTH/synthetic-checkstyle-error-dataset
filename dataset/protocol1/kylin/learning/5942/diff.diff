@@ -1,0 +1,5 @@
+81,82c81
+<     public String[] buildValueOf(int idxOfMeasure, String[] row) {
+<         MeasureDesc measure = cubeDesc.getMeasures().get(idxOfMeasure);
+---
+>     public String[] buildValueOf(int idxOfMeasure, String[] row) {        MeasureDesc measure = cubeDesc.getMeasures().get(idxOfMeasure);

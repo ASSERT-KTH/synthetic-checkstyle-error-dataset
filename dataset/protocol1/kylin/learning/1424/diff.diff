@@ -1,0 +1,4 @@
+54c54
+<         if (getTableManager().getExtFilterDesc(desc.getName()) == null) {
+---
+>         if (getTableManager().getExtFilterDesc(desc.	getName()) == null) {

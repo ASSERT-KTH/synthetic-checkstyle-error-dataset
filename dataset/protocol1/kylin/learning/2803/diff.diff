@@ -1,0 +1,5 @@
+49c49,50
+<                 .format(new Object[] { tableName, metaTableKey, metaTableTs, metaTableContent }, new StringBuffer(),
+---
+>                 .format
+> (new Object[] { tableName, metaTableKey, metaTableTs, metaTableContent }, new StringBuffer(),

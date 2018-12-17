@@ -1,0 +1,5 @@
+59c59,60
+<     abstract void write(DataOutputStream out) throws IOException;
+---
+>     abstract void write
+> (DataOutputStream out) throws IOException;

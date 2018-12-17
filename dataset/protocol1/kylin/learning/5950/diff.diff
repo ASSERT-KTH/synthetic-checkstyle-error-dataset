@@ -1,0 +1,4 @@
+30c30
+<     public ContentReader(Serializer<T> serializer) {
+---
+>     public ContentReader(Serializer<T> 	serializer) {

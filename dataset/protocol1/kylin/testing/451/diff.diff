@@ -1,0 +1,4 @@
+27c27
+< public interface Executable {
+---
+> 	public interface Executable {

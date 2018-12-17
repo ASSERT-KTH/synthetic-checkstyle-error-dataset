@@ -1,0 +1,4 @@
+76c76
+<         this.cuboid = Cuboid.findForMandatory(cubeDesc, cuboidID);
+---
+>         this.cuboid = Cuboid.findForMandatory(cubeDesc,cuboidID);

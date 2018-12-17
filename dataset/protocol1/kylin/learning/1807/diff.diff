@@ -1,0 +1,4 @@
+333c333
+<                 result.add(path.substring(path.lastIndexOf("/") + 1));
+---
+>                 	result.add(path.substring(path.lastIndexOf("/") + 1));

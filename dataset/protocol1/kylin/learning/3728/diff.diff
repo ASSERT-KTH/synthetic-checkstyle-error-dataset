@@ -1,0 +1,5 @@
+228c228,229
+<         NavigableMap<byte[], byte[]> familyMap = result.getFamilyMap(Bytes.toBytes(AclConstant.ACL_ACES_FAMILY));
+---
+>         NavigableMap<byte[], byte[]> familyMap = result.getFamilyMap
+> (Bytes.toBytes(AclConstant.ACL_ACES_FAMILY));

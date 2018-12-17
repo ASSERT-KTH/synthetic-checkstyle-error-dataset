@@ -1,0 +1,5 @@
+160,161c160
+<         if (this.authorities == null) {
+<             this.authorities = Lists.newArrayList();
+---
+>         if (this.authorities == null) {            this.authorities = Lists.newArrayList();

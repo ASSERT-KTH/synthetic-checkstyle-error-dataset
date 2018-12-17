@@ -1,0 +1,4 @@
+51c51
+<         this.columns = columns;
+---
+>         this	.columns = columns;

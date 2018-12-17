@@ -1,0 +1,4 @@
+48c48
+<             JobInstance jobInstance = new JobInstance();
+---
+>             JobInstance jobInstance = new JobInstance()	;

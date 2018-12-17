@@ -1,0 +1,4 @@
+33c33
+<     public InputConverter(GTInfo info, RecordConsumeBlockingQueueController<T> inputController) {
+---
+>     public InputConverter(GTInfo info, RecordConsumeBlockingQueueController<T> inputController ) {

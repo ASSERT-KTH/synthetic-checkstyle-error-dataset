@@ -1,0 +1,4 @@
+39c39
+<         GTScanRequest req = new GTScanRequestBuilder().setInfo(gridTable.getInfo()).setRanges(null).setDimensions(null).setFilterPushDown(null).createGTScanRequest();
+---
+>         GTScanRequest req = new GTScanRequestBuilder().setInfo( gridTable.getInfo()).setRanges(null).setDimensions(null).setFilterPushDown(null).createGTScanRequest();

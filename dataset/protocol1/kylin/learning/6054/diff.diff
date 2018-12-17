@@ -1,0 +1,5 @@
+305,306c305
+<         IGTScanner scanner;
+<         Iterator<GTRecord> recordIterator;
+---
+>         IGTScanner scanner;        Iterator<GTRecord> recordIterator;

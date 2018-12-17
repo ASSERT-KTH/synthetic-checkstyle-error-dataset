@@ -1,0 +1,4 @@
+83c83
+<     private static ArrayList<HashSet<String>> tableauTestQueriesInToken = new ArrayList<HashSet<String>>();
+---
+>     private static ArrayList<HashSet<	String>> tableauTestQueriesInToken = new ArrayList<HashSet<String>>();

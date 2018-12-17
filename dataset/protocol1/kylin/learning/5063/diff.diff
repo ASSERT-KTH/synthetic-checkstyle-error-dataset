@@ -1,0 +1,4 @@
+241c241
+<             throw new IOException(errors.size() + " exceptions during in-mem cube build, cause set to the first, check log for more", errors.get(0));
+---
+>             throw new IOException(errors.size() 	+ " exceptions during in-mem cube build, cause set to the first, check log for more", errors.get(0));

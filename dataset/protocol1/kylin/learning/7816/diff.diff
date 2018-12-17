@@ -1,0 +1,5 @@
+164,165c164
+<         public Object call() throws Exception {
+<             logger.info("Deleting HBase table " + htableName);
+---
+>         public Object call() throws Exception {            logger.info("Deleting HBase table " + htableName);

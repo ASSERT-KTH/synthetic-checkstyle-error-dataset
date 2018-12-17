@@ -1,0 +1,4 @@
+44c44
+<     private final List<String> statements = Lists.newArrayList();
+---
+>     	private final List<String> statements = Lists.newArrayList();

@@ -1,0 +1,4 @@
+180c180
+<         snapshotCache.invalidate(extTableSnapshot.getResourcePath());
+---
+>         snapshotCache.invalidate(extTableSnapshot	.getResourcePath());

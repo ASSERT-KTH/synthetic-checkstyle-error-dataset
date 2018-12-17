@@ -1,0 +1,4 @@
+31c31
+<     public static final String MR_JOB_ID = "mr_job_id";
+---
+>     public static final String MR_JOB_ID 	= "mr_job_id";

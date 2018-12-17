@@ -1,0 +1,4 @@
+29c29
+<     IExtLookupTableCache getLocalCache();
+---
+>     	IExtLookupTableCache getLocalCache();

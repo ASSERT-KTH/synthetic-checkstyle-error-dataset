@@ -1,0 +1,4 @@
+69c69
+<             logger.info("SCP file " + localFile + " to " + remoteTargetDirectory);
+---
+>             logger.info ("SCP file " + localFile + " to " + remoteTargetDirectory);

@@ -1,0 +1,5 @@
+38,39c38
+<     private int baseId;
+<     private String sourceColumn;
+---
+>     private int baseId;    private String sourceColumn;

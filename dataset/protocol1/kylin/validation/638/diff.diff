@@ -1,0 +1,5 @@
+275,276c275
+<             for (ByteArray v : equalValues) {
+<                 if (rangeStartEndComparator.comparator.compare(beginValue, v) <= 0 && rangeStartEndComparator.comparator.compare(v, endValue) <= 0) {
+---
+>             for (ByteArray v : equalValues) {                if (rangeStartEndComparator.comparator.compare(beginValue, v) <= 0 && rangeStartEndComparator.comparator.compare(v, endValue) <= 0) {

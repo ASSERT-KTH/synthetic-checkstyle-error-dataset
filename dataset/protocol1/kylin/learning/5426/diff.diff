@@ -1,0 +1,4 @@
+49c49
+<     public long getTimestamp() {
+---
+>     public long getTimestamp () {

@@ -1,0 +1,4 @@
+119c119
+<         return flatDesc.getColumnIndex(colRef);
+---
+>         return flatDesc	.getColumnIndex(colRef);

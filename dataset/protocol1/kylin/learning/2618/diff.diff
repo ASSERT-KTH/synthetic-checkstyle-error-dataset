@@ -1,0 +1,5 @@
+296,297c296
+<                         logAppender.log(line);
+<                     }
+---
+>                         logAppender.log(line);                    }

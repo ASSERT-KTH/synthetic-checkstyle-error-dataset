@@ -1,0 +1,4 @@
+110c110
+<         void onLogEvent(String infoKey, Map<String, String> info);
+---
+>         void onLogEvent(String infoKey, Map<String,String> info);

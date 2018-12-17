@@ -1,0 +1,4 @@
+30c30
+<         throw new IllegalStateException("Class TimeUtil is an utility class !");
+---
+>         throw 	new IllegalStateException("Class TimeUtil is an utility class !");

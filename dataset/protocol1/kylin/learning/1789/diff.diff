@@ -1,0 +1,5 @@
+209c209,210
+<     public String getNULL_EMPTY_SQL() {
+---
+>     public String getNULL_EMPTY_SQL
+> () {

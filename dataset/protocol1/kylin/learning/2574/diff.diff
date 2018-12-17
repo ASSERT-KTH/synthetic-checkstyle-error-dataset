@@ -1,0 +1,5 @@
+73,74c73
+<         for (RowKeyColDesc rowKeyColDesc : cubeDesc.getRowkey().getRowKeyColumns()) {
+<             dimEncoding.get(rowKeyColDesc.getColRef());
+---
+>         for (RowKeyColDesc rowKeyColDesc : cubeDesc.getRowkey().getRowKeyColumns()) {            dimEncoding.get(rowKeyColDesc.getColRef());

@@ -1,0 +1,4 @@
+34c34
+<     public final static String ROLE_MODELER = "ROLE_MODELER";
+---
+>     public final static String ROLE_MODELER = 	"ROLE_MODELER";

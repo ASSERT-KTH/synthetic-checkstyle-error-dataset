@@ -1,0 +1,5 @@
+33,34c33
+<     private final int baseSleepTimeMs;
+<     private final int maxSleepTimeMs;
+---
+>     private final int baseSleepTimeMs;    private final int maxSleepTimeMs;

@@ -1,0 +1,4 @@
+56c56
+<         this.data = new HashMap<Array<T>, T[]>();
+---
+>         this.data = 	new HashMap<Array<T>, T[]>();

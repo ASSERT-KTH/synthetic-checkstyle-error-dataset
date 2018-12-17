@@ -1,0 +1,5 @@
+22,23c22
+< import org.apache.kylin.dict.AppendTrieDictionary;
+< import org.apache.kylin.dict.BytesConverter;
+---
+> import org.apache.kylin.dict.AppendTrieDictionary;import org.apache.kylin.dict.BytesConverter;

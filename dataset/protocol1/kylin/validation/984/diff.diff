@@ -1,0 +1,4 @@
+253c253
+<                     candidates.add(cubeInstance.getName());
+---
+>                     candidates.add(cubeInstance.getName() );

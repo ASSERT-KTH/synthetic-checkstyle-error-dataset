@@ -1,0 +1,4 @@
+47c47
+<         return Objects.equals(separator, that.separator);
+---
+>         return Objects.equals(separator, that	.separator);

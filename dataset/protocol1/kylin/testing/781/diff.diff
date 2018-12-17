@@ -1,0 +1,5 @@
+205,206c205
+<     public boolean equals(Object o) {
+<         if ((o instanceof SnapshotTable) == false)
+---
+>     public boolean equals(Object o) {        if ((o instanceof SnapshotTable) == false)

@@ -1,0 +1,5 @@
+42c42,43
+<     public boolean hasProjectReadPermission(ProjectInstance project) {
+---
+>     public boolean hasProjectReadPermission
+> (ProjectInstance project) {

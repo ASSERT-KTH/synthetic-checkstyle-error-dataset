@@ -1,0 +1,4 @@
+43c43
+<         return o instanceof Number ? toBigDecimal((Number) o) : toBigDecimal(o.toString());
+---
+>         return o instanceof Number ? toBigDecimal((Number) 	o) : toBigDecimal(o.toString());

@@ -1,0 +1,4 @@
+48c48
+<         Thread.currentThread().setName(originThreadName);
+---
+>         Thread.currentThread ().setName(originThreadName);

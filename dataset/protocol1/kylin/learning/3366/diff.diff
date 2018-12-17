@@ -1,0 +1,4 @@
+96c96
+<             p.childrenCount -= child.childrenCount;
+---
+>             p	.childrenCount -= child.childrenCount;

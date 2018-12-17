@@ -1,0 +1,4 @@
+69c69
+<     public SnapshotTable deserialize(DataInputStream in) throws IOException {
+---
+>     	public SnapshotTable deserialize(DataInputStream in) throws IOException {

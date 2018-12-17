@@ -1,0 +1,5 @@
+37,38c37
+<     private AppendTrieDictionaryBuilder builder;
+<     private int baseId;
+---
+>     private AppendTrieDictionaryBuilder builder;    private int baseId;

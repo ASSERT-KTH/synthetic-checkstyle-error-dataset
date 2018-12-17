@@ -1,0 +1,4 @@
+122c122
+<             return newCol.getType().isIntegerFamily();
+---
+>             return newCol.getType().isIntegerFamily()	;

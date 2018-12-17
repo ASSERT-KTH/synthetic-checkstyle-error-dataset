@@ -1,0 +1,4 @@
+30c30
+< public class HierarchyDesc implements java.io.Serializable {
+---
+> public class HierarchyDesc implements java.io.Serializable 	{

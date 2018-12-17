@@ -1,0 +1,4 @@
+30c30
+< public class JsonSerializer<T extends RootPersistentEntity> implements Serializer<T> {
+---
+> public class JsonSerializer<T extends RootPersistentEntity> 	implements Serializer<T> {

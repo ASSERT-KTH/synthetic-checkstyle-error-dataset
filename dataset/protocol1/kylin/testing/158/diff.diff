@@ -1,0 +1,4 @@
+66c66
+<     public static <T> T readValue(Reader src, Class<T> valueType)
+---
+>     	public static <T> T readValue(Reader src, Class<T> valueType)

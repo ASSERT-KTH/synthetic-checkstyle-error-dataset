@@ -1,0 +1,5 @@
+100,101c100
+<         File cwd = new File("");
+<         logger.debug("Current path: " + cwd.getAbsolutePath());
+---
+>         File cwd = new File("");        logger.debug("Current path: " + cwd.getAbsolutePath());

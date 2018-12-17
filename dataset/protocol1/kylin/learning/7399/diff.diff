@@ -1,0 +1,5 @@
+24,25c24
+<     public CaseInsensitiveStringMap() {
+<         super(String.CASE_INSENSITIVE_ORDER);
+---
+>     public CaseInsensitiveStringMap() {        super(String.CASE_INSENSITIVE_ORDER);

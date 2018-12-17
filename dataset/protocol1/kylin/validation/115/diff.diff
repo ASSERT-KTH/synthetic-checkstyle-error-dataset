@@ -1,0 +1,5 @@
+45c45,46
+<         for (long s : sizeMap.values()) {
+---
+>         for (long s : sizeMap.values()) 
+> {

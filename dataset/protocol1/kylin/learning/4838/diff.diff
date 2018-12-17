@@ -1,0 +1,4 @@
+41c41
+<         Field[] fields = AclPermission.class.getFields();
+---
+>         Field[] fields = AclPermission.class.getFields ();

@@ -1,0 +1,4 @@
+107c107
+<     public ExtTableSnapshotInfo getLatestSnapshot(TableSignature signature, String tableName) throws IOException {
+---
+>     public ExtTableSnapshotInfo getLatestSnapshot(TableSignature signature, String tableName) throws 	IOException {

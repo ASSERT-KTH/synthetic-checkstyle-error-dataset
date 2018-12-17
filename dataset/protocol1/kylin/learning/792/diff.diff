@@ -1,0 +1,4 @@
+48c48
+<                 if (keyColumn.equals(tableDesc.getColumns()[i].getName())) {
+---
+>                 if (keyColumn.equals( tableDesc.getColumns()[i].getName())) {

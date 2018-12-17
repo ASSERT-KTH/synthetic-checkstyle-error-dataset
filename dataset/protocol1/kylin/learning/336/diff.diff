@@ -1,0 +1,4 @@
+106c106
+<             long filesize = _lfile.length();
+---
+>             long filesize 	= _lfile.length();

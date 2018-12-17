@@ -1,0 +1,4 @@
+74c74
+<     public static DimensionEncoding readDimensionEncoding(ByteBuffer in) {
+---
+>     public static DimensionEncoding readDimensionEncoding(ByteBuffer 	in) {

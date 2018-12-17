@@ -1,0 +1,5 @@
+130,131c130
+<             } else {
+<                 existing.andMerge(newRange);
+---
+>             } else {                existing.andMerge(newRange);

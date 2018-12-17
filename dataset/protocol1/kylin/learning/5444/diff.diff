@@ -1,0 +1,4 @@
+52c52
+<         calendar.setTimeInMillis(getDayStart(ts));
+---
+>         calendar.setTimeInMillis( getDayStart(ts));

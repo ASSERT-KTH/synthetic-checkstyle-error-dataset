@@ -1,0 +1,4 @@
+61c61
+<             byte[] signature = md.digest(signatureSet.toString().getBytes("UTF-8"));
+---
+>             byte	[] signature = md.digest(signatureSet.toString().getBytes("UTF-8"));

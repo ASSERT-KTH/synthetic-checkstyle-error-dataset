@@ -1,0 +1,5 @@
+268,269c268
+<             for (TblColRef tblColRef : tblColRefs) {
+<                 if (allCols.contains(tblColRef.getIdentity()))
+---
+>             for (TblColRef tblColRef : tblColRefs) {                if (allCols.contains(tblColRef.getIdentity()))

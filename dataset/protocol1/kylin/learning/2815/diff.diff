@@ -1,0 +1,4 @@
+44c44
+<     public static <C extends Comparable<?>, V> NavigableMap<C, V> filter(NavigableMap<C, V> values, Range<C> filterRange) {
+---
+>     public static <C extends Comparable<?>, V> NavigableMap	<C, V> filter(NavigableMap<C, V> values, Range<C> filterRange) {

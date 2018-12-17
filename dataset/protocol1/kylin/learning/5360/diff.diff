@@ -1,0 +1,5 @@
+144,145c144
+<                 throw new BadRequestException("StremingConfig name should not be empty.");
+<             }
+---
+>                 throw new BadRequestException("StremingConfig name should not be empty.");            }

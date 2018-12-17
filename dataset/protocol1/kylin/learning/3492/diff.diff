@@ -1,0 +1,5 @@
+171c171,172
+<                             .contains(cubeName.toLowerCase(Locale.ROOT)))
+---
+>                             .contains
+> (cubeName.toLowerCase(Locale.ROOT)))

@@ -1,0 +1,4 @@
+28c28
+<     public FIFOIterable(Queue<T> q) {
+---
+>     public FIFOIterable(Queue<T> q) 	{

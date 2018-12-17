@@ -1,0 +1,5 @@
+58,59c58
+<                 uhcOffset = bodyLength;
+<                 uhcLength = colIO.getColumnLength(column);
+---
+>                 uhcOffset = bodyLength;                uhcLength = colIO.getColumnLength(column);

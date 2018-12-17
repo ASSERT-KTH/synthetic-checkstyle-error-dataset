@@ -1,0 +1,5 @@
+68,69c68
+<         int r = 0;
+<         int n = Math.min(a.length, b.length);
+---
+>         int r = 0;        int n = Math.min(a.length, b.length);

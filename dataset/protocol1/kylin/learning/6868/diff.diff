@@ -1,0 +1,5 @@
+36c36,37
+<         this.versionTTL = KylinConfig.getInstanceFromEnv().getAppendDictVersionTTL();
+---
+>         this.versionTTL = KylinConfig.getInstanceFromEnv().getAppendDictVersionTTL
+> ();

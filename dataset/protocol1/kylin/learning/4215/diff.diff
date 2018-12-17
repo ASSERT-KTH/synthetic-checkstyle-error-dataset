@@ -1,0 +1,5 @@
+106,107c106
+<             ByteArray shardSplit = new ByteArray(bytes, offset, RowConstants.ROWKEY_SHARDID_LEN);
+<             this.splitBuffers[this.bufferSize++] = shardSplit;
+---
+>             ByteArray shardSplit = new ByteArray(bytes, offset, RowConstants.ROWKEY_SHARDID_LEN);            this.splitBuffers[this.bufferSize++] = shardSplit;

@@ -1,0 +1,5 @@
+90,91c90
+<     protected void decodeFromLenPfxBytes(byte[] rowKey, int[] valueIdx, String[] result) {
+<         ByteBuffer byteBuffer = ByteBuffer.wrap(rowKey);
+---
+>     protected void decodeFromLenPfxBytes(byte[] rowKey, int[] valueIdx, String[] result) {        ByteBuffer byteBuffer = ByteBuffer.wrap(rowKey);

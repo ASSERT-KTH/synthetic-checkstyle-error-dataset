@@ -1,0 +1,4 @@
+112c112
+<             rowKeyColDesc.init(rowkeyColumns.length - i - 1, cubeDesc);
+---
+>             rowKeyColDesc.init(rowkeyColumns.length 	- i - 1, cubeDesc);

@@ -1,0 +1,4 @@
+92c92
+<                     logger.error("Failed to update last optimized for " + getCubeName(), e);
+---
+>                     logger.error("Failed to update last optimized for " + getCubeName(), e)	;

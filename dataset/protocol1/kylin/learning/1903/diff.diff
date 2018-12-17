@@ -1,0 +1,5 @@
+30c30,31
+<     public static JobTimeFilterEnum getByCode(int code) {
+---
+>     public static JobTimeFilterEnum getByCode(int code) 
+> {

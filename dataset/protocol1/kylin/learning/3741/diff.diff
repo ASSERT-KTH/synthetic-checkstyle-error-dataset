@@ -1,0 +1,5 @@
+48,49c48
+<     private ProjectInstance getProjectByJob(JobInstance job) {
+<         AbstractExecutable executable = ExecutableManager.getInstance(KylinConfig.getInstanceFromEnv())
+---
+>     private ProjectInstance getProjectByJob(JobInstance job) {        AbstractExecutable executable = ExecutableManager.getInstance(KylinConfig.getInstanceFromEnv())

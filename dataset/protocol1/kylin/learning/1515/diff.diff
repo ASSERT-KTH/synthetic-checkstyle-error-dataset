@@ -1,0 +1,5 @@
+67,68c67
+<             result.put(cuboidId, new HLLCounter(cubeDesc.getConfig().getCubeStatsHLLPrecision()));
+<             Integer[] cuboidBitSet = new Integer[Long.bitCount(cuboidId)];
+---
+>             result.put(cuboidId, new HLLCounter(cubeDesc.getConfig().getCubeStatsHLLPrecision()));            Integer[] cuboidBitSet = new Integer[Long.bitCount(cuboidId)];

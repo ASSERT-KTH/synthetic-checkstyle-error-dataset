@@ -1,0 +1,4 @@
+333c333
+<     public void remove(KylinConfig config, String path) throws IOException {
+---
+>     public void remove(KylinConfig config, String path) throws 	IOException {

@@ -1,0 +1,4 @@
+54c54
+<     public List<StreamingConfig> getStreamingConfigs(final String table, final String project, final Integer limit,
+---
+>     public List<StreamingConfig> getStreamingConfigs (final String table, final String project, final Integer limit,

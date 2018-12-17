@@ -1,0 +1,4 @@
+106c106
+<     private Set<String> getAuthoritiesInPrj(List<Sid> allSids) {
+---
+>     private Set<	String> getAuthoritiesInPrj(List<Sid> allSids) {

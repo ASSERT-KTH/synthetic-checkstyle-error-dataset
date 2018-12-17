@@ -1,0 +1,4 @@
+33c33
+<     public PersistentException(String message, Throwable cause) {
+---
+>     public PersistentException(String message,Throwable cause) {

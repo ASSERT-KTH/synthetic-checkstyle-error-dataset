@@ -1,0 +1,5 @@
+41,42c41
+<     private JsonUtil() {
+<         throw new IllegalStateException("Class JsonUtil is an utility class !");
+---
+>     private JsonUtil() {        throw new IllegalStateException("Class JsonUtil is an utility class !");

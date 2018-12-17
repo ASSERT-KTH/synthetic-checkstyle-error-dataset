@@ -1,0 +1,4 @@
+170c170
+<         snapshot.setKeyColumns(keyColumns);
+---
+>         snapshot.setKeyColumns (keyColumns);

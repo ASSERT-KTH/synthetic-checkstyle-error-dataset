@@ -1,0 +1,5 @@
+39,40c39
+<         for (GrantedAuthority authority : authorities) {
+<             groups.add(authority.getAuthority());
+---
+>         for (GrantedAuthority authority : authorities) {            groups.add(authority.getAuthority());

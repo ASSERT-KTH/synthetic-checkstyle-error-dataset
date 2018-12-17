@@ -1,0 +1,5 @@
+63,64c63
+<     public void setPrincipal(boolean principal) {
+<         this.principal = principal;
+---
+>     public void setPrincipal(boolean principal) {        this.principal = principal;

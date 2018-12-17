@@ -1,0 +1,4 @@
+98c98
+<         return getBoolean(DEBUG_TOGGLE_LOCAL_COPROCESSOR);
+---
+>         	return getBoolean(DEBUG_TOGGLE_LOCAL_COPROCESSOR);

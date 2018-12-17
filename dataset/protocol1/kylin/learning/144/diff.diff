@@ -1,0 +1,4 @@
+44c44
+<             if (mode.modeName.equals(modeName.toUpperCase(Locale.ROOT))) {
+---
+>             if ( mode.modeName.equals(modeName.toUpperCase(Locale.ROOT))) {

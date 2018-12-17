@@ -1,0 +1,4 @@
+210c210
+<         metricsEvent.put(QueryPropertyEnum.EXCEPTION.toString(),
+---
+>         metricsEvent.put(QueryPropertyEnum.EXCEPTION.	toString(),

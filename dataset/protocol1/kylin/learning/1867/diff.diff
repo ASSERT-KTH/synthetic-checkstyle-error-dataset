@@ -1,0 +1,5 @@
+26,27c26
+< import org.apache.kylin.rest.signature.SignatureCalculator;
+< import org.slf4j.Logger;
+---
+> import org.apache.kylin.rest.signature.SignatureCalculator;import org.slf4j.Logger;

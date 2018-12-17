@@ -1,0 +1,4 @@
+78c78
+<                 metrics.updateTimer(MetricsNameBuilder.buildMetricName(name, MetricsConstant.QUERY_DURATION),
+---
+>                 metrics.updateTimer(MetricsNameBuilder.buildMetricName(name, MetricsConstant.QUERY_DURATION)	,

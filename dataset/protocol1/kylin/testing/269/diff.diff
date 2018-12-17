@@ -1,0 +1,4 @@
+203c203
+<         final BlockingQueue<CuboidResult> outputQueue;
+---
+>         	final BlockingQueue<CuboidResult> outputQueue;

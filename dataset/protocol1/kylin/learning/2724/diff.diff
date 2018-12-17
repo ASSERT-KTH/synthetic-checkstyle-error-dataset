@@ -1,0 +1,5 @@
+44,45c44
+<     private SourceConfigurationUtil() {
+<         throw new IllegalStateException("Class SourceConfigurationUtil is an utility class !");
+---
+>     private SourceConfigurationUtil() {        throw new IllegalStateException("Class SourceConfigurationUtil is an utility class !");

@@ -1,0 +1,5 @@
+39,40c39
+<         try {
+<             Class<? extends CuboidScheduler> clz = ClassUtil.forName(clzName, CuboidScheduler.class);
+---
+>         try {            Class<? extends CuboidScheduler> clz = ClassUtil.forName(clzName, CuboidScheduler.class);

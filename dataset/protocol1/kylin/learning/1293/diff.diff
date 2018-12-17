@@ -1,0 +1,4 @@
+32c32
+<     void write(long cuboidId, GridTable table) throws IOException;
+---
+>     void write(long cuboidId, GridTable table ) throws IOException;

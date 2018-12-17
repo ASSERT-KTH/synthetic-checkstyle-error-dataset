@@ -1,0 +1,4 @@
+40c40
+<     private RowKeyColumnIO colIO;
+---
+>     	private RowKeyColumnIO colIO;

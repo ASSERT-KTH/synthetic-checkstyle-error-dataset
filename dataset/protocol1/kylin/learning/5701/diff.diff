@@ -1,0 +1,4 @@
+67c67
+<     public static void closeQuietly(final Connection conn) {
+---
+>     public static void closeQuietly(final Connection 	conn) {

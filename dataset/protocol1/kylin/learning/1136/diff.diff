@@ -1,0 +1,5 @@
+36,37c36
+< import org.apache.kylin.metadata.model.TableRef;
+< import org.apache.kylin.metadata.model.TblColRef;
+---
+> import org.apache.kylin.metadata.model.TableRef;import org.apache.kylin.metadata.model.TblColRef;

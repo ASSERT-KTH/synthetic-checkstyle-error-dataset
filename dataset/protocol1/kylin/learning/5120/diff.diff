@@ -1,0 +1,5 @@
+133,134c133
+<                 if (self.lowerBoundType() == BoundType.CLOSED && share.lowerBoundType() == BoundType.OPEN) {
+<                     ret.add(Range.closed(self.lowerEndpoint(), share.lowerEndpoint()));
+---
+>                 if (self.lowerBoundType() == BoundType.CLOSED && share.lowerBoundType() == BoundType.OPEN) {                    ret.add(Range.closed(self.lowerEndpoint(), share.lowerEndpoint()));

@@ -1,0 +1,4 @@
+1347c1347
+<         return add(a, b, EMPTY_BYTE_ARRAY);
+---
+>         return add(a, b, EMPTY_BYTE_ARRAY );

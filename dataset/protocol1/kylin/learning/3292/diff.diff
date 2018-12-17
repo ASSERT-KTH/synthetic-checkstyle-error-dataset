@@ -1,0 +1,4 @@
+60c60
+<         Set<String> allDatatypes = Sets.newHashSet();
+---
+>         Set<String> allDatatypes = Sets	.newHashSet();

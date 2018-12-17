@@ -1,0 +1,4 @@
+29c29
+< public class FIFOIterator<T> implements Iterator<T> {
+---
+> public class 	FIFOIterator<T> implements Iterator<T> {

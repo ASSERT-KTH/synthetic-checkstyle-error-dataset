@@ -1,0 +1,4 @@
+107c107
+<         Set<String> allAuthorities = new TreeSet<>();
+---
+>         Set<String> allAuthorities = new TreeSet<> ();

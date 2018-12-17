@@ -1,0 +1,4 @@
+348c348
+<         logger.info("notify list:{}", users);
+---
+>         logger.info("notify list:{}", users)	;

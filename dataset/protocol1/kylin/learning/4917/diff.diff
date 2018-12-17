@@ -1,0 +1,5 @@
+39,40c39
+<         Deflater deflater = new Deflater(1);
+<         deflater.setInput(data);
+---
+>         Deflater deflater = new Deflater(1);        deflater.setInput(data);

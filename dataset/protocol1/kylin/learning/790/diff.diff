@@ -1,0 +1,5 @@
+51,52c51
+<             DistinctColumnValuesProvider factTableValueProvider, DictionaryProvider dictProvider) throws IOException {
+<         CubeInstance cube = CubeManager.getInstance(config).getCube(cubeName);
+---
+>             DistinctColumnValuesProvider factTableValueProvider, DictionaryProvider dictProvider) throws IOException {        CubeInstance cube = CubeManager.getInstance(config).getCube(cubeName);

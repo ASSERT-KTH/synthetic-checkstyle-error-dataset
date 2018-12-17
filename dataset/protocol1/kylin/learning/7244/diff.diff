@@ -1,0 +1,4 @@
+86c86
+<         System.arraycopy(keyByteBuffer.array(), 0, result, 0, keyByteBuffer.position());
+---
+>         System.arraycopy(keyByteBuffer.array(), 0, result, 0, keyByteBuffer.position())	;

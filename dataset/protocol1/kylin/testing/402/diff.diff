@@ -1,0 +1,5 @@
+41,42c41
+<     public LockException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+<         super(message, cause, enableSuppression, writableStackTrace);
+---
+>     public LockException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {        super(message, cause, enableSuppression, writableStackTrace);

@@ -1,0 +1,4 @@
+36c36
+<     static final String CREATE_HQL_TMP_FILE_TEMPLATE = "cat >%s<<EOL\n%sEOL";
+---
+>     static final String CREATE_HQL_TMP_FILE_TEMPLATE = 	"cat >%s<<EOL\n%sEOL";

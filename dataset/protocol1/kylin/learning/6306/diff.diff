@@ -1,0 +1,5 @@
+76,77c76
+<         result.setName(executable.getName());
+<         result.setUuid(executable.getId());
+---
+>         result.setName(executable.getName());        result.setUuid(executable.getId());

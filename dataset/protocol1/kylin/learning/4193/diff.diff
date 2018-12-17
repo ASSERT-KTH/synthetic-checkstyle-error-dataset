@@ -1,0 +1,4 @@
+103c103
+<             return Collections.singletonList(self);
+---
+>             return 	Collections.singletonList(self);

@@ -1,0 +1,4 @@
+40c40
+< import org.apache.kylin.common.persistence.StringEntity;
+---
+> import org.apache.kylin.common	.persistence.StringEntity;

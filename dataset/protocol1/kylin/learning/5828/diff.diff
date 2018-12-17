@@ -1,0 +1,4 @@
+120c120
+<             DimensionEncoding[] dimEncs = new DimensionEncoding[BytesUtil.readVInt(in)];
+---
+>             DimensionEncoding[] dimEncs = new DimensionEncoding[BytesUtil.readVInt(in)]	;

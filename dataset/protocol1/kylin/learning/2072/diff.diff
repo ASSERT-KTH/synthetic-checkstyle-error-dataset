@@ -1,0 +1,4 @@
+48c48
+<     private static final Pattern PATTERN = Pattern.compile("/(.+)/(.+)/(.+)");
+---
+>     private static final 	Pattern PATTERN = Pattern.compile("/(.+)/(.+)/(.+)");

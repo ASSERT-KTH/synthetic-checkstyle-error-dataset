@@ -1,0 +1,4 @@
+108c108
+<         testAggregate(ImmutableBitSet.valueOf(0, 1, 2, 3, 4));
+---
+>         	testAggregate(ImmutableBitSet.valueOf(0, 1, 2, 3, 4));

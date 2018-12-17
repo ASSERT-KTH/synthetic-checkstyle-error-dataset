@@ -1,0 +1,4 @@
+260c260
+<             offset += firstByteOffset + parLen + (isEndOfValue ? sizeOfId : 0);
+---
+>             	offset += firstByteOffset + parLen + (isEndOfValue ? sizeOfId : 0);

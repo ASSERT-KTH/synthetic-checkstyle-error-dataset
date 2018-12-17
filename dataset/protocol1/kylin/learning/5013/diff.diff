@@ -1,0 +1,5 @@
+1539c1539,1540
+<         newCubeDesc.setAggregationGroups(cubeDesc.getAggregationGroups());
+---
+>         newCubeDesc.setAggregationGroups
+> (cubeDesc.getAggregationGroups());

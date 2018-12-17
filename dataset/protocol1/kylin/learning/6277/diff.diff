@@ -1,0 +1,5 @@
+35,36c35
+<         if (!KylinConfig.getInstanceFromEnv().isKylinMetricsReporterForJobEnabled()) {
+<             return;
+---
+>         if (!KylinConfig.getInstanceFromEnv().isKylinMetricsReporterForJobEnabled()) {            return;

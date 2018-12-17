@@ -1,0 +1,5 @@
+32,33c32
+<     public FIFOIterator(Queue<T> q) {
+<         this.q = q;
+---
+>     public FIFOIterator(Queue<T> q) {        this.q = q;

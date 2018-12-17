@@ -1,0 +1,5 @@
+28,29c28
+<     public String getCubeName() {
+<         return cubeName;
+---
+>     public String getCubeName() {        return cubeName;

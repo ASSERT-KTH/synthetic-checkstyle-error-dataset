@@ -1,0 +1,5 @@
+42,43c42
+<     public void setCube(String cube) {
+<         this.cube = cube;
+---
+>     public void setCube(String cube) {        this.cube = cube;

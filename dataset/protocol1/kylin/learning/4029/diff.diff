@@ -1,0 +1,5 @@
+67,68c67
+<         if (authority == null) {
+<             if (other.authority != null)
+---
+>         if (authority == null) {            if (other.authority != null)

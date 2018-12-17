@@ -1,0 +1,4 @@
+84c84
+<         result = prime * result + ((project == null) ? 0 : project.hashCode());
+---
+>         result = prime * result + ( (project == null) ? 0 : project.hashCode());

@@ -1,0 +1,4 @@
+350c350
+<                             byte[] value = data.get(row).get(family).get(qualifier).get(timestamp);
+---
+>                             byte[] value 	= data.get(row).get(family).get(qualifier).get(timestamp);

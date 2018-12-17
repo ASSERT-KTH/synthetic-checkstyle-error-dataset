@@ -1,0 +1,5 @@
+86,87c86
+<     protected void setModel(String model) {
+<         this.model = model;
+---
+>     protected void setModel(String model) {        this.model = model;

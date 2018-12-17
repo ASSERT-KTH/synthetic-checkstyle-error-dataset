@@ -1,0 +1,4 @@
+66c66
+<                     if (nRunningQueries.compareAndSet(nRunning, nRunning + 1)) {
+---
+>                     	if (nRunningQueries.compareAndSet(nRunning, nRunning + 1)) {

@@ -1,0 +1,4 @@
+31c31
+< import org.apache.kylin.common.KylinConfig;
+---
+> import org.apache.kylin.common	.KylinConfig;

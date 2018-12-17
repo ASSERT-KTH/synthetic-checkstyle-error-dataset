@@ -1,0 +1,4 @@
+27c27
+<     private final File tempFile;
+---
+>     private final File 	tempFile;

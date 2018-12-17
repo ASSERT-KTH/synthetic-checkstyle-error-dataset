@@ -1,0 +1,5 @@
+73,74c73
+<         if (permission instanceof Integer) {
+<             return Arrays.asList(kylinPermissionFactory.buildFromMask(((Integer) permission).intValue()));
+---
+>         if (permission instanceof Integer) {            return Arrays.asList(kylinPermissionFactory.buildFromMask(((Integer) permission).intValue()));

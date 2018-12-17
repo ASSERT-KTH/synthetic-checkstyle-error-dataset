@@ -1,0 +1,4 @@
+133c133
+<             ProjectInstance project = getProjectManager().getProject(projectName);
+---
+>             ProjectInstance project = 	getProjectManager().getProject(projectName);

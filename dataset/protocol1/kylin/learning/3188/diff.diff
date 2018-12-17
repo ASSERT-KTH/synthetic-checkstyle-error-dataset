@@ -1,0 +1,4 @@
+73c73
+<                 if (Permission.class.isAssignableFrom(fieldValue.getClass())) {
+---
+>                 if (Permission.class.isAssignableFrom(fieldValue.getClass ())) {

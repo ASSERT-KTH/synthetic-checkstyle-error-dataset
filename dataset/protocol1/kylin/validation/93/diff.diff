@@ -1,0 +1,5 @@
+128,129c128
+<         this.idBytes = Bytes.toBytes(id);
+<         this.dimensionColumns = translateIdToColumns(this.id);
+---
+>         this.idBytes = Bytes.toBytes(id);        this.dimensionColumns = translateIdToColumns(this.id);

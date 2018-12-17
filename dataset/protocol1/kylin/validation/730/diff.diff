@@ -1,0 +1,4 @@
+37c37
+<         Connection conn = HBaseConnection.get(config.getStorageUrl());
+---
+>         Connection conn = HBaseConnection.get(config.getStorageUrl ());

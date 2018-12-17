@@ -1,0 +1,4 @@
+44c44
+<         decrease(key, (float) 1);
+---
+>         decrease(key, (float) 1)	;

@@ -1,0 +1,4 @@
+31c31
+<     public WriteConflictException(String msg) {
+---
+>     public WriteConflictException (String msg) {

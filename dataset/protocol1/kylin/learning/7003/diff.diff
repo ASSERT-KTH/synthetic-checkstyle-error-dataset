@@ -1,0 +1,5 @@
+1873c1873,1874
+<     public static void zero(byte[] b) {
+---
+>     public static void zero
+> (byte[] b) {

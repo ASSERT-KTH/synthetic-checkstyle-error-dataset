@@ -1,0 +1,4 @@
+65c65
+<             IRealization realInstance = getRealization(config, realName, entry.getType());
+---
+>             IRealization realInstance = getRealization(config, realName, entry.getType ());

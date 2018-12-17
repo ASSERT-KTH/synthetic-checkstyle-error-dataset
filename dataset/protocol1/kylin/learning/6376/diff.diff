@@ -1,0 +1,5 @@
+36,37c36
+<     public static CaseInsensitiveString wrap(String str) {
+<         return new CaseInsensitiveString(str);
+---
+>     public static CaseInsensitiveString wrap(String str) {        return new CaseInsensitiveString(str);

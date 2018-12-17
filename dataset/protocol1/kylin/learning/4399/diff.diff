@@ -1,0 +1,4 @@
+64c64
+<     private Writer ongoingWriter;
+---
+>     private Writer 	ongoingWriter;

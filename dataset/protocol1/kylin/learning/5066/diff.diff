@@ -1,0 +1,5 @@
+35,36c35
+<         try {
+<             optionsHelper.parseOptions(getOptions(), args);
+---
+>         try {            optionsHelper.parseOptions(getOptions(), args);

@@ -1,0 +1,4 @@
+74c74
+<         return new RecordConsumeBlockingQueueController<>(inputConverterUnit, input, DEFAULT_BATCH_SIZE);
+---
+>         return new RecordConsumeBlockingQueueController<>(inputConverterUnit, 	input, DEFAULT_BATCH_SIZE);

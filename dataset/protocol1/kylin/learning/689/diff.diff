@@ -1,0 +1,5 @@
+40,41c40
+<         super.setPermissionFactory(permissionFactory);
+<         this.kylinPermissionFactory = permissionFactory;
+---
+>         super.setPermissionFactory(permissionFactory);        this.kylinPermissionFactory = permissionFactory;

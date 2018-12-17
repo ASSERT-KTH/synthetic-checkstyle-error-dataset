@@ -1,0 +1,4 @@
+37c37
+<         ImmutableBitSet allColumns = a.getInfo().getAllColumns();
+---
+>         ImmutableBitSet allColumns = 	a.getInfo().getAllColumns();

@@ -1,0 +1,4 @@
+36c36
+<     private final int maxEntriesPerSlice;
+---
+>     private final int maxEntriesPerSlice	;

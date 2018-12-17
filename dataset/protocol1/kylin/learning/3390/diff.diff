@@ -1,0 +1,4 @@
+109c109
+<                 .format(new Object[] { tableName, metaTableKey, metaTableTs }, new StringBuffer(), new FieldPosition(0))
+---
+>                 .format (new Object[] { tableName, metaTableKey, metaTableTs }, new StringBuffer(), new FieldPosition(0))

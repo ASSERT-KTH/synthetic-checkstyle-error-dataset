@@ -1,0 +1,4 @@
+146c146
+<         getProjectManager().dropProject(projectName);
+---
+>         getProjectManager().dropProject (projectName);

@@ -1,0 +1,5 @@
+96,97c96
+<             if (className == null) {
+<                 if (other.className != null)
+---
+>             if (className == null) {                if (other.className != null)

@@ -1,0 +1,5 @@
+101,102c101
+<                 logger.info("Hit fake response " + i);
+<                 return fakeResponses[i];
+---
+>                 logger.info("Hit fake response " + i);                return fakeResponses[i];

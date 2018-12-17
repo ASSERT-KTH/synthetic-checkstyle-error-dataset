@@ -1,0 +1,5 @@
+109,110c109
+<             email.setFrom(sender);
+<             email.setSubject(subject);
+---
+>             email.setFrom(sender);            email.setSubject(subject);

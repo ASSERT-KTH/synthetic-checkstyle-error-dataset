@@ -1,0 +1,4 @@
+39c39
+<         Deflater deflater = new Deflater(1);
+---
+>         Deflater deflater = new 	Deflater(1);

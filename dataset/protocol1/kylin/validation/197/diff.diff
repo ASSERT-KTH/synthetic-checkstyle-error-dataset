@@ -1,0 +1,5 @@
+204,205c204
+<     public List<AccessEntryResponse> revoke(@PathVariable String type, @PathVariable String uuid, AccessRequest accessRequest) throws IOException {
+<         AclEntity ae = accessService.getAclEntity(type, uuid);
+---
+>     public List<AccessEntryResponse> revoke(@PathVariable String type, @PathVariable String uuid, AccessRequest accessRequest) throws IOException {        AclEntity ae = accessService.getAclEntity(type, uuid);

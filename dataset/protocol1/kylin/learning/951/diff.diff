@@ -1,0 +1,4 @@
+28c28
+< public class RowKeyEncoderProvider implements java.io.Serializable {
+---
+> public class RowKeyEncoderProvider implements java.io.	Serializable {

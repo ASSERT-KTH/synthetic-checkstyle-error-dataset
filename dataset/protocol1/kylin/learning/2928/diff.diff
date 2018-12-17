@@ -1,0 +1,4 @@
+204c204
+<         store.putBigResource(path, snapshot, System.currentTimeMillis(), SnapshotTableSerializer.FULL_SERIALIZER);
+---
+>         store.putBigResource(path, snapshot, System	.currentTimeMillis(), SnapshotTableSerializer.FULL_SERIALIZER);

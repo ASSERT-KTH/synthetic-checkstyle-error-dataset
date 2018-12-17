@@ -1,0 +1,4 @@
+26c26
+< import org.apache.kylin.rest.signature.SignatureCalculator;
+---
+> import org	.apache.kylin.rest.signature.SignatureCalculator;

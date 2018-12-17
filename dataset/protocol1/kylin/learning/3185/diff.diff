@@ -1,0 +1,4 @@
+31c31
+<     private boolean forceMergeEmptySegment = false;
+---
+>     private boolean forceMergeEmptySegment = false	;

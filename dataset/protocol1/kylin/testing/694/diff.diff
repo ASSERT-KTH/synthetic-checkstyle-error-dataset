@@ -1,0 +1,4 @@
+42c42
+<     private Map<String, String> info = Maps.newHashMap();
+---
+>     private Map<String, String> info = Maps	.newHashMap();

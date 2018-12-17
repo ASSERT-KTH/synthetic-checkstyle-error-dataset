@@ -1,0 +1,4 @@
+156c156
+<                 if (comp == 0) { // continue in the matching child, reset n and loop again
+---
+>                 if (comp == 0) 	{ // continue in the matching child, reset n and loop again

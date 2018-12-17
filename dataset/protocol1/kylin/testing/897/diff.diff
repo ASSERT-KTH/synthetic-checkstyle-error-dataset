@@ -1,0 +1,4 @@
+49c49
+<     public BadRequestException(String msg, String code, Throwable cause) {
+---
+>     public BadRequestException(String msg, String code, Throwable 	cause) {

@@ -1,0 +1,5 @@
+67,68c67
+<         String value;
+<         DataType partitionColType = info.getColumnType(index);
+---
+>         String value;        DataType partitionColType = info.getColumnType(index);

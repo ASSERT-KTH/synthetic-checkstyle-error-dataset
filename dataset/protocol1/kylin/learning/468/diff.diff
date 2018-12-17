@@ -1,0 +1,4 @@
+34c34
+<     public Query(String name, String project, String sql, String description) {
+---
+>     public Query(String name, String project, String sql	, String description) {

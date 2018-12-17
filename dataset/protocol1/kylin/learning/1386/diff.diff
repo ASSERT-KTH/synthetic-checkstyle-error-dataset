@@ -1,0 +1,4 @@
+28c28
+<     public ShellException(String message) {
+---
+>     public ShellException( String message) {

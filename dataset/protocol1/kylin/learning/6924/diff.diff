@@ -1,0 +1,4 @@
+44c44
+<         StorageURL metadataUrl = kylinConfig.getMetadataUrl();
+---
+>         StorageURL metadataUrl = 	kylinConfig.getMetadataUrl();

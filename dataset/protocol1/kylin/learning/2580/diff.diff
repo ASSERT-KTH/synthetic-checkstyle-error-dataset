@@ -1,0 +1,5 @@
+68,69c68
+<             builder.addValue(value);
+<         } catch (Throwable e) {
+---
+>             builder.addValue(value);        } catch (Throwable e) {

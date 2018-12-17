@@ -1,0 +1,5 @@
+28,29c28
+<     public ShellException(String message) {
+<         super(message);
+---
+>     public ShellException(String message) {        super(message);

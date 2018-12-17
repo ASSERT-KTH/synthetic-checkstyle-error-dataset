@@ -1,0 +1,5 @@
+41,42c41
+<             rowKeyEncoder = new RowKeyEncoder(cubeSegment, cuboid);
+<             rowKeyEncoders.put(cuboid.getId(), rowKeyEncoder);
+---
+>             rowKeyEncoder = new RowKeyEncoder(cubeSegment, cuboid);            rowKeyEncoders.put(cuboid.getId(), rowKeyEncoder);

@@ -1,0 +1,4 @@
+24c24
+< import org.apache.kylin.common.KylinConfig;
+---
+> import org.apache.kylin.common	.KylinConfig;

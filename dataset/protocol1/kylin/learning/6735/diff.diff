@@ -1,0 +1,4 @@
+51c51
+<         return TableMetadataManager.getInstance(getConfig());
+---
+>         return TableMetadataManager.getInstance(getConfig ());

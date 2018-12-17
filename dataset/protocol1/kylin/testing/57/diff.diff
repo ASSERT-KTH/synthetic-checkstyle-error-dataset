@@ -1,0 +1,5 @@
+29,30c29
+<     private ExecutableState state;
+<     private Map<String, String> extra;
+---
+>     private ExecutableState state;    private Map<String, String> extra;

@@ -1,0 +1,4 @@
+240c240
+<             long realLastModify = getResourceTimestamp(resPath);
+---
+>             long realLastModify = getResourceTimestamp (resPath);

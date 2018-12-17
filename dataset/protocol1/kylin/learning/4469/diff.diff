@@ -1,0 +1,4 @@
+36c36
+<     static final String USER_AUTHORITY_COLUMN = "c";
+---
+>     static final String USER_AUTHORITY_COLUMN 	= "c";

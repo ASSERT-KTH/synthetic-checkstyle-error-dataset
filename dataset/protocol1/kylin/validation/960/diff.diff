@@ -1,0 +1,5 @@
+71,72c71
+<         setGroupSearchFilter("(|(member={0})(memberUid={1}))");
+<         Set<GrantedAuthority> authorities = super.getGroupMembershipRoles(userDn, username);
+---
+>         setGroupSearchFilter("(|(member={0})(memberUid={1}))");        Set<GrantedAuthority> authorities = super.getGroupMembershipRoles(userDn, username);

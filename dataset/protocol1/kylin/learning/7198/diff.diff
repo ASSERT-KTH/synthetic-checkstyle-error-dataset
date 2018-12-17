@@ -1,0 +1,4 @@
+164c164
+<                 if (self.upperBoundType() == BoundType.CLOSED && share.upperBoundType() == BoundType.OPEN) {
+---
+>                 if (self.upperBoundType() == BoundType.CLOSED && 	share.upperBoundType() == BoundType.OPEN) {

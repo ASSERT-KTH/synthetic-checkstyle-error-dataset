@@ -1,0 +1,4 @@
+30c30
+<     private Queue<T> q;
+---
+>     private Queue	<T> q;

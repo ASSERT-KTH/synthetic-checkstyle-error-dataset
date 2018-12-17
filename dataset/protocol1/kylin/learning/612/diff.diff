@@ -1,0 +1,5 @@
+33,34c33
+< import org.apache.kylin.common.util.EncryptUtil;
+< import org.springframework.beans.factory.config.PropertyPlaceholderConfigurer;
+---
+> import org.apache.kylin.common.util.EncryptUtil;import org.springframework.beans.factory.config.PropertyPlaceholderConfigurer;

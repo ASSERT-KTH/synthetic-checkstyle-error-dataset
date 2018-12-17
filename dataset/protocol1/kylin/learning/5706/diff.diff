@@ -1,0 +1,4 @@
+745c745
+<         aclEvaluate.checkProjectWritePermission(cube);
+---
+>         	aclEvaluate.checkProjectWritePermission(cube);

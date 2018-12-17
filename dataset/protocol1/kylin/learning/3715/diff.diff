@@ -1,0 +1,4 @@
+83c83
+<             if (arr[i] == bitIndex)
+---
+>             if (arr[i] 	== bitIndex)

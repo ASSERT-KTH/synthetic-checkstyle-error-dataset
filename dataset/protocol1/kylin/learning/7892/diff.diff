@@ -1,0 +1,5 @@
+698,699c698
+<             for (String columnName : mandatoryDimensionSet) {
+<                 TblColRef tblColRef = model.findColumn(columnName);
+---
+>             for (String columnName : mandatoryDimensionSet) {                TblColRef tblColRef = model.findColumn(columnName);

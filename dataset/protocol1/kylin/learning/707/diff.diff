@@ -1,0 +1,5 @@
+42,43c42
+<         }
+<         for (CuboidModeEnum mode : CuboidModeEnum.values()) {
+---
+>         }        for (CuboidModeEnum mode : CuboidModeEnum.values()) {

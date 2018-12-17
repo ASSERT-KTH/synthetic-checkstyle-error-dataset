@@ -1,0 +1,4 @@
+27c27
+<     private final org.slf4j.Logger wrappedLogger;
+---
+>     private 	final org.slf4j.Logger wrappedLogger;

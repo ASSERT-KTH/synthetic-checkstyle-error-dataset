@@ -1,0 +1,5 @@
+69,70c69
+<         int n = Math.min(a.length, b.length);
+<         boolean asc = true;
+---
+>         int n = Math.min(a.length, b.length);        boolean asc = true;

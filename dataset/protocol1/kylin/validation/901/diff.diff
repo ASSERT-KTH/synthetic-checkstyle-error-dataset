@@ -1,0 +1,5 @@
+254,255c254
+<         if (sqlResponse.isStorageCacheUsed()) {
+<             queryMetrics.addCacheHitCount(1);
+---
+>         if (sqlResponse.isStorageCacheUsed()) {            queryMetrics.addCacheHitCount(1);

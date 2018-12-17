@@ -1,0 +1,4 @@
+127c127
+<             Path latestVersion = getVersionDir(versions[versions.length - 1]);
+---
+>             Path latestVersion = getVersionDir(versions[versions.length - 1	]);

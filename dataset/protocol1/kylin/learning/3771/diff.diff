@@ -1,0 +1,5 @@
+26,27c26
+< import org.apache.kylin.dimension.DictionaryDimEnc;
+< import org.apache.kylin.dimension.DimensionEncoding;
+---
+> import org.apache.kylin.dimension.DictionaryDimEnc;import org.apache.kylin.dimension.DimensionEncoding;

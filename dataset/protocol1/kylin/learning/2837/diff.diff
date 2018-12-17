@@ -1,0 +1,4 @@
+46c46
+<         SegmentSignature that = (SegmentSignature) o;
+---
+>         SegmentSignature that = (SegmentSignature) o	;

@@ -1,0 +1,4 @@
+153c153
+<         Set<String> cols = getAllColumns(project, table);
+---
+>         Set<String> 	cols = getAllColumns(project, table);

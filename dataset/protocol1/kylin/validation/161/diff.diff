@@ -1,0 +1,4 @@
+96c96
+<         if (!KylinConfig.getInstanceFromEnv().isKylinMetricsReporterForQueryEnabled()) {
+---
+>         if (!KylinConfig.getInstanceFromEnv().isKylinMetricsReporterForQueryEnabled() ) {

@@ -1,0 +1,5 @@
+20c20,21
+< public interface AclPermissionType {
+---
+> public interface AclPermissionType 
+> {

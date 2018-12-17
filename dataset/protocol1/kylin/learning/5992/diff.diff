@@ -1,0 +1,4 @@
+37c37
+<             T t = input.next();
+---
+>             	T t = input.next();

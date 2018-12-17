@@ -1,0 +1,5 @@
+149,150c149
+<         TblColRef col = comp.getColumn();
+<         DataTypeOrder order = col.getType().getOrder();
+---
+>         TblColRef col = comp.getColumn();        DataTypeOrder order = col.getType().getOrder();

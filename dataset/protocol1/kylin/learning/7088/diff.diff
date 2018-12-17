@@ -1,0 +1,4 @@
+86c86
+<                 c.setQualifier(c.getQualifier().toUpperCase(Locale.ROOT));
+---
+>                 	c.setQualifier(c.getQualifier().toUpperCase(Locale.ROOT));

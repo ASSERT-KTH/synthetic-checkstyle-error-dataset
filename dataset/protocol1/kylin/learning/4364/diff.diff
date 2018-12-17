@@ -1,0 +1,5 @@
+57c57,58
+<     public DataTypeSerializer<Object> asDataTypeSerializer() {
+---
+>     public DataTypeSerializer<Object> asDataTypeSerializer() 
+> {

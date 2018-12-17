@@ -1,0 +1,4 @@
+48c48
+<             " or hasPermission(#project, 'MANAGEMENT')" +
+---
+>             	" or hasPermission(#project, 'MANAGEMENT')" +

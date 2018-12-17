@@ -1,0 +1,5 @@
+91,92c91
+<             r = runRemoteCommand(command, logAppender);
+<         }
+---
+>             r = runRemoteCommand(command, logAppender);        }

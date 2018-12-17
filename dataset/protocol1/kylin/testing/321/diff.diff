@@ -1,0 +1,5 @@
+98,99c98
+<     public String getTableName() {
+<         return flatDesc.getTableName();
+---
+>     public String getTableName() {        return flatDesc.getTableName();

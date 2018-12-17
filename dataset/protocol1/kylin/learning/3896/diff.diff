@@ -1,0 +1,4 @@
+35c35
+<             temp.add(list.get(index));
+---
+>             temp.add(list.get (index));

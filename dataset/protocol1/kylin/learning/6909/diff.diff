@@ -1,0 +1,4 @@
+114c114
+<             _hasProjectReadPermission = aclUtil.hasProjectReadPermission(project);
+---
+>             _hasProjectReadPermission = aclUtil.hasProjectReadPermission (project);

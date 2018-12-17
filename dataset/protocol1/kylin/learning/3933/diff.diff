@@ -1,0 +1,5 @@
+47,48c47
+<             IOUtils.closeQuietly(res.content());
+<         }
+---
+>             IOUtils.closeQuietly(res.content());        }

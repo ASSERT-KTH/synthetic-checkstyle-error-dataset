@@ -1,0 +1,5 @@
+49,50c49
+<     public void encodeColumnValue(int col, Object value, int roundingFlag, ByteBuffer buf) {
+<         DataTypeSerializer serializer = serializers[col];
+---
+>     public void encodeColumnValue(int col, Object value, int roundingFlag, ByteBuffer buf) {        DataTypeSerializer serializer = serializers[col];

@@ -1,0 +1,5 @@
+57,58c57
+<     private static boolean enabled = false;
+<     private static ConcurrentHashMap<String, QueryMetrics> metricsMap = new ConcurrentHashMap<String, QueryMetrics>();
+---
+>     private static boolean enabled = false;    private static ConcurrentHashMap<String, QueryMetrics> metricsMap = new ConcurrentHashMap<String, QueryMetrics>();

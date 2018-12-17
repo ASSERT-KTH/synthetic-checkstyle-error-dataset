@@ -1,0 +1,5 @@
+32,33c32
+< import org.apache.kylin.common.util.Pair;
+< import org.apache.kylin.metadata.badquery.BadQueryEntry;
+---
+> import org.apache.kylin.common.util.Pair;import org.apache.kylin.metadata.badquery.BadQueryEntry;

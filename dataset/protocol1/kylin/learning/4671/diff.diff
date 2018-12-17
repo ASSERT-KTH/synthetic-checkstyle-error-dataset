@@ -1,0 +1,5 @@
+507c507,508
+<         ProjectInstance project = cubeService.getProjectManager().getProject(projectName);
+---
+>         ProjectInstance project = cubeService.getProjectManager
+> ().getProject(projectName);

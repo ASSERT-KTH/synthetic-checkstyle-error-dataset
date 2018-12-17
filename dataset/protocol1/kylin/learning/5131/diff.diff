@@ -1,0 +1,5 @@
+116,117c116
+<         public List<Long> getSpanningCuboid(long cuboidId) {
+<             TreeNode node = index.get(cuboidId);
+---
+>         public List<Long> getSpanningCuboid(long cuboidId) {            TreeNode node = index.get(cuboidId);

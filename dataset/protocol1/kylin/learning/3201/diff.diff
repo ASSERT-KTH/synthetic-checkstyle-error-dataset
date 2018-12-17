@@ -1,0 +1,4 @@
+114c114
+<     public static void writeSignedLong(long num, byte[] bytes, int offset, int size) {
+---
+>     public static void writeSignedLong(long num, 	byte[] bytes, int offset, int size) {

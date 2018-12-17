@@ -1,0 +1,4 @@
+128c128
+<         return gtDataTypes.toArray(new DataType[gtDataTypes.size()]);
+---
+>         return gtDataTypes.toArray (new DataType[gtDataTypes.size()]);

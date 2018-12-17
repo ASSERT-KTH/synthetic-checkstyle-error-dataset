@@ -1,0 +1,4 @@
+60c60
+<     private static final Map<String, String> classRenameMap;
+---
+>     private static final Map<String	, String> classRenameMap;

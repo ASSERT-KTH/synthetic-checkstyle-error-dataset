@@ -1,0 +1,4 @@
+55c55
+<     public String getCreateIndexSql(String indexName, String tableName, String indexCol) {
+---
+>     public String getCreateIndexSql(String indexName, String 	tableName, String indexCol) {

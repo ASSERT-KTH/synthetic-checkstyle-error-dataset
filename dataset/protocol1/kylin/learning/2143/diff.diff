@@ -1,0 +1,4 @@
+61c61
+<     public static ILookupTable getInMemLookupTable(TableDesc tableDesc, String[] pkCols, IReadableTable readableTable)
+---
+>     public static ILookupTable getInMemLookupTable(TableDesc 	tableDesc, String[] pkCols, IReadableTable readableTable)

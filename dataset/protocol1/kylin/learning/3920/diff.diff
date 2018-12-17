@@ -1,0 +1,4 @@
+71c71
+<         for (Long cuboid : cuboids) {
+---
+>         for (Long cuboid 	: cuboids) {

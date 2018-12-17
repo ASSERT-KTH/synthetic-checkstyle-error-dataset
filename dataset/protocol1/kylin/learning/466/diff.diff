@@ -1,0 +1,4 @@
+128c128
+<         result = prime * result + ((params == null) ? 0 : Arrays.hashCode(params));
+---
+>         result = prime * result + ((params == null) ? 0 : Arrays.hashCode(params ));

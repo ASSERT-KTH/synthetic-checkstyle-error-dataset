@@ -1,0 +1,4 @@
+155c155
+<         final DataInputStream din;
+---
+>         final DataInputStream 	din;

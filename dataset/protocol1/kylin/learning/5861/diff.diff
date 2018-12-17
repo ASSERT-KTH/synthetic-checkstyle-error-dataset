@@ -1,0 +1,4 @@
+45c45
+<     public int hashCode() {
+---
+>     public int 	hashCode() {

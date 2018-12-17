@@ -1,0 +1,4 @@
+72c72
+<         patternMap.put(PATTERN_JOB_STATE, new Pair(ExecutableConstants.YARN_APP_STATE, 1));
+---
+>         patternMap.put(PATTERN_JOB_STATE, new Pair (ExecutableConstants.YARN_APP_STATE, 1));

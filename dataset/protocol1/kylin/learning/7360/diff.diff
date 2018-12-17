@@ -1,0 +1,4 @@
+64c64
+<             BadQueryHistory badQueryHistory = dgService.getProjectBadQueryHistory(project);
+---
+>             BadQueryHistory badQueryHistory = 	dgService.getProjectBadQueryHistory(project);

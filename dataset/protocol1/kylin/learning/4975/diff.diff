@@ -1,0 +1,5 @@
+30c30,31
+<     private static final Logger logger = LoggerFactory.getLogger(DBUtils.class);
+---
+>     private static final Logger logger = LoggerFactory.getLogger
+> (DBUtils.class);

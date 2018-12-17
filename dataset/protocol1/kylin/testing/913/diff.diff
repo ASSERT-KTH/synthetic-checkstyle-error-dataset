@@ -1,0 +1,5 @@
+40c40,41
+<     public void write(byte[] b, int off, int len) throws IOException {
+---
+>     public void write(byte[] b, int off, int len) throws IOException 
+> {

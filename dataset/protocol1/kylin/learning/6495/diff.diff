@@ -1,0 +1,5 @@
+260c260,261
+<     public String getPROJECT_RENAME() {
+---
+>     public String getPROJECT_RENAME
+> () {

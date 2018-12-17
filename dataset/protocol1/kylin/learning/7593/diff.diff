@@ -1,0 +1,4 @@
+106c106
+<         addValueR(curNode, valueBytes, 0);
+---
+>         addValueR(curNode,valueBytes, 0);

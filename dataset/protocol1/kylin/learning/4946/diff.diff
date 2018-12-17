@@ -1,0 +1,5 @@
+124,125c124
+<     public static TreeSet<Long> enumCalcCuboidCount(CubeDesc cube) {
+<         long baseCuboid = Cuboid.getBaseCuboidId(cube);
+---
+>     public static TreeSet<Long> enumCalcCuboidCount(CubeDesc cube) {        long baseCuboid = Cuboid.getBaseCuboidId(cube);

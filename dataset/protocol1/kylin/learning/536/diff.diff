@@ -1,0 +1,4 @@
+113c113
+<         return config.getSchedulerPriorityConsidered();
+---
+>         return config	.getSchedulerPriorityConsidered();

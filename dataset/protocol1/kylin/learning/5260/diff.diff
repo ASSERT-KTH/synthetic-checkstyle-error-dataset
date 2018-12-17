@@ -1,0 +1,5 @@
+424,425c424
+<     private Map<String, Integer> getProjectPermission(String project) {
+<         Map<String, Integer> SidWithPermission = new HashMap<>();
+---
+>     private Map<String, Integer> getProjectPermission(String project) {        Map<String, Integer> SidWithPermission = new HashMap<>();

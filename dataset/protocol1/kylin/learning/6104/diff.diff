@@ -1,0 +1,5 @@
+141,142c141
+<             if (logAppender != null) {
+<                 logAppender.log(line);
+---
+>             if (logAppender != null) {                logAppender.log(line);

@@ -1,0 +1,5 @@
+51,52c51
+<         if (record.getSourceClassName() != null) {
+<             sb.append(record.getSourceClassName());
+---
+>         if (record.getSourceClassName() != null) {            sb.append(record.getSourceClassName());

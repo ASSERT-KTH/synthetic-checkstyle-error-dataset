@@ -1,0 +1,5 @@
+31,32c31
+<         for (JobTimeFilterEnum timeFilter : values()) {
+<             if (timeFilter.getCode() == code) {
+---
+>         for (JobTimeFilterEnum timeFilter : values()) {            if (timeFilter.getCode() == code) {

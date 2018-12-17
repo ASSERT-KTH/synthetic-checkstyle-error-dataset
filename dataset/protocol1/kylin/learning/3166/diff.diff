@@ -1,0 +1,4 @@
+32c32
+<         increase(key, (float) 1);
+---
+>         increase (key, (float) 1);

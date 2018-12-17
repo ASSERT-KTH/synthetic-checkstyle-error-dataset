@@ -1,0 +1,4 @@
+57c57
+<     private static final Logger logger = LoggerFactory.getLogger(ProjectController.class);
+---
+>     private static final Logger logger 	= LoggerFactory.getLogger(ProjectController.class);

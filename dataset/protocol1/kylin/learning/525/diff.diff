@@ -1,0 +1,5 @@
+84c84,85
+<             return MetadataConstants.KYLIN_INTERMEDIATE_PREFIX + cubeDesc.getName().toLowerCase(Locale.ROOT) + "_"
+---
+>             return MetadataConstants.KYLIN_INTERMEDIATE_PREFIX + cubeDesc.getName
+> ().toLowerCase(Locale.ROOT) + "_"

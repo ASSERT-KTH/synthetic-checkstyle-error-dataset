@@ -1,0 +1,4 @@
+194c194
+<     public Dictionary copyToAnotherMeta(KylinConfig srcConfig, KylinConfig dstConfig) throws IOException {
+---
+>     public Dictionary copyToAnotherMeta(KylinConfig 	srcConfig, KylinConfig dstConfig) throws IOException {

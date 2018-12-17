@@ -1,0 +1,5 @@
+46,47c46
+<     public HBaseColumnDesc[] getColumns() {
+<         return columns;
+---
+>     public HBaseColumnDesc[] getColumns() {        return columns;

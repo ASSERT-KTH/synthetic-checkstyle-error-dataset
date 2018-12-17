@@ -1,0 +1,4 @@
+74c74
+<                 .expireAfterWrite(1, TimeUnit.DAYS).build(new CacheLoader<String, SnapshotTable>() {
+---
+>                 .expireAfterWrite(1, TimeUnit.DAYS).	build(new CacheLoader<String, SnapshotTable>() {

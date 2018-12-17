@@ -1,0 +1,5 @@
+230c230,231
+<         if (!sqlResponse.getIsException()) {
+---
+>         if (!sqlResponse.getIsException
+> ()) {

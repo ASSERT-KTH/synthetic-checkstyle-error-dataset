@@ -1,0 +1,4 @@
+87c87
+<     public void setParams(Map<String, String> params) {
+---
+>     public void setParams(Map<String,String> params) {

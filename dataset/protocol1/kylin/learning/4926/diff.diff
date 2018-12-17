@@ -1,0 +1,4 @@
+608c608
+<             throw new RuntimeException("Failed to instantiate " + clazz, e);
+---
+>             throw new RuntimeException ("Failed to instantiate " + clazz, e);

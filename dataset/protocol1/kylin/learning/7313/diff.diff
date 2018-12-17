@@ -1,0 +1,4 @@
+124c124
+<     public Map<String, String> getStepOutput(@PathVariable String jobId, @PathVariable String stepId) {
+---
+>     public Map<String, String> getStepOutput(@PathVariable String jobId, 	@PathVariable String stepId) {

@@ -1,0 +1,5 @@
+147c147,148
+<     public long getSourceOffsetEnd() {
+---
+>     public long getSourceOffsetEnd
+> () {

@@ -1,0 +1,5 @@
+125,126c125
+<         long baseCuboid = Cuboid.getBaseCuboidId(cube);
+<         TreeSet<Long> expectedCuboids = new TreeSet<Long>();
+---
+>         long baseCuboid = Cuboid.getBaseCuboidId(cube);        TreeSet<Long> expectedCuboids = new TreeSet<Long>();

@@ -1,0 +1,4 @@
+37c37
+<         return Thread.currentThread().getId() + "-" + processAndHost();
+---
+>         return Thread.currentThread().	getId() + "-" + processAndHost();

@@ -1,0 +1,5 @@
+32,33c32
+<     public DistributedLock lockForCurrentProcess() {
+<         return lockForClient(processAndHost());
+---
+>     public DistributedLock lockForCurrentProcess() {        return lockForClient(processAndHost());

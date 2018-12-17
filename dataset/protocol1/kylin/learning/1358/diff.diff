@@ -1,0 +1,4 @@
+50c50
+<     public static final SnapshotTableSerializer FULL_SERIALIZER = new SnapshotTableSerializer(false);
+---
+>     public static final SnapshotTableSerializer FULL_SERIALIZER = new SnapshotTableSerializer (false);

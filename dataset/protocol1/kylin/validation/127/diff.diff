@@ -1,0 +1,4 @@
+33c33
+<     public static HBaseResponse getHBaseInfo(String tableName, KylinConfig config) throws IOException {
+---
+>     public static HBaseResponse getHBaseInfo (String tableName, KylinConfig config) throws IOException {

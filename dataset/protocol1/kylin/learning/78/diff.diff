@@ -1,0 +1,5 @@
+47,48c47
+<         while (iterator.hasNext()) {
+<             max = max(max, iterator.next());
+---
+>         while (iterator.hasNext()) {            max = max(max, iterator.next());

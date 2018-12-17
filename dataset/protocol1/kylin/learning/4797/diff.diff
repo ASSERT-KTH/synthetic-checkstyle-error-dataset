@@ -1,0 +1,5 @@
+35,36c35
+< import org.apache.kylin.rest.exception.InternalErrorException;
+< import org.apache.kylin.rest.exception.NotFoundException;
+---
+> import org.apache.kylin.rest.exception.InternalErrorException;import org.apache.kylin.rest.exception.NotFoundException;

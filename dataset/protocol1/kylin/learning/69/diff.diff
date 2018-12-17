@@ -1,0 +1,4 @@
+29c29
+< import com.fasterxml.jackson.annotation.JsonProperty;
+---
+> import com.fasterxml.jackson.annotation	.JsonProperty;

@@ -1,0 +1,5 @@
+118c118,119
+<     public String getCcInCheck() {
+---
+>     public String getCcInCheck() 
+> {

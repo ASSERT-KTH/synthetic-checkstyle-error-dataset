@@ -1,0 +1,5 @@
+26,27c26
+< import org.apache.hadoop.conf.Configuration;
+< import org.slf4j.Logger;
+---
+> import org.apache.hadoop.conf.Configuration;import org.slf4j.Logger;

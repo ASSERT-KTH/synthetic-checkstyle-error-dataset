@@ -1,0 +1,4 @@
+200c200
+<             logger.debug("Delete temp file success. Temp file: {} .", path);
+---
+>             logger.debug("Delete temp file success. Temp file: {} .", path );

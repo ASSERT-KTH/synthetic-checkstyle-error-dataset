@@ -1,0 +1,4 @@
+524c524
+<     public String[] getIncludes() {
+---
+>     public String	[] getIncludes() {

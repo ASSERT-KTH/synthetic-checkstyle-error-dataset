@@ -1,0 +1,5 @@
+95,96c95
+<     public void incrQueryCount() {
+<         queryCount.incr();
+---
+>     public void incrQueryCount() {        queryCount.incr();

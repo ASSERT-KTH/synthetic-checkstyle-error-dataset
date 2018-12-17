@@ -1,0 +1,5 @@
+60,61c60
+<             }
+<             outputRowCount.addAndGet(input.drainTo(batchBuffer, batchSize - 1));
+---
+>             }            outputRowCount.addAndGet(input.drainTo(batchBuffer, batchSize - 1));

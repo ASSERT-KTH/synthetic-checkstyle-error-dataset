@@ -1,0 +1,4 @@
+70c70
+<         int year = calendar.get(Calendar.YEAR);
+---
+>         int 	year = calendar.get(Calendar.YEAR);

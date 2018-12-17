@@ -1,0 +1,4 @@
+265c265
+<         return manager.getOutput(this.getId()).getState();
+---
+>         return manager.getOutput(this.getId()).	getState();

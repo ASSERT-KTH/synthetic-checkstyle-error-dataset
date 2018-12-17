@@ -1,0 +1,5 @@
+92,93c92
+<         for (int i = 0; i < valueIdx.length; i++) {
+<             short keyLen = byteBuffer.getShort();
+---
+>         for (int i = 0; i < valueIdx.length; i++) {            short keyLen = byteBuffer.getShort();

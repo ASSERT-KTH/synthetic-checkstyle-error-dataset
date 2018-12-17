@@ -1,0 +1,5 @@
+145c145,146
+<         return Objects.toStringHelper(this).add("name", name).add("table", table).add("column", column)
+---
+>         return Objects.toStringHelper(this).add
+> ("name", name).add("table", table).add("column", column)

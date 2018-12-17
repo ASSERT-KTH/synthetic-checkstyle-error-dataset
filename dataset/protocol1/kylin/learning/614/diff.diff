@@ -1,0 +1,5 @@
+65,66c65
+<             this.maxValueLength = 0;
+<             this.nValues = 0;
+---
+>             this.maxValueLength = 0;            this.nValues = 0;

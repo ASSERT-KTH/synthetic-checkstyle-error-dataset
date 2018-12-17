@@ -1,0 +1,4 @@
+28c28
+< import org.apache.kylin.metadata.model.SegmentStatusEnum;
+---
+> import org.apache.kylin.metadata	.model.SegmentStatusEnum;

@@ -1,0 +1,5 @@
+107,108c107
+<     public boolean hasCubeReadPermission(CubeInstance cube) {
+<         return hasProjectReadPermission(cube.getProjectInstance());
+---
+>     public boolean hasCubeReadPermission(CubeInstance cube) {        return hasProjectReadPermission(cube.getProjectInstance());

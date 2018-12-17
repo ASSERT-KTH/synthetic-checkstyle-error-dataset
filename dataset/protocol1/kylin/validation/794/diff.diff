@@ -1,0 +1,5 @@
+46,47c46
+<             } else {
+<                 int j = rdm.nextInt(i);
+---
+>             } else {                int j = rdm.nextInt(i);

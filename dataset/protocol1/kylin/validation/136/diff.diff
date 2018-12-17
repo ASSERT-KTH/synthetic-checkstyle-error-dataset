@@ -1,0 +1,4 @@
+154c154
+<             String path = status.getPath().toUri().getPath();
+---
+>             String 	path = status.getPath().toUri().getPath();

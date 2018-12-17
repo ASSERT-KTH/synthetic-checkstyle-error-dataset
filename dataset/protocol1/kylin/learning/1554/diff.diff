@@ -1,0 +1,4 @@
+30c30
+< import org.apache.kylin.rest.response.GeneralResponse;
+---
+> import org.apache.kylin	.rest.response.GeneralResponse;

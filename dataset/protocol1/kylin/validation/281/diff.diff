@@ -1,0 +1,4 @@
+37c37
+<     private static final org.slf4j.Logger logger = LoggerFactory.getLogger(ClassUtil.class);
+---
+>     private static final org.slf4j.Logger logger = LoggerFactory	.getLogger(ClassUtil.class);

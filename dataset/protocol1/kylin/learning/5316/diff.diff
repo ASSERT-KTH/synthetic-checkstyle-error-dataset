@@ -1,0 +1,4 @@
+130c130
+<             result[i++] = getIndexOf(metric);
+---
+>             result	[i++] = getIndexOf(metric);

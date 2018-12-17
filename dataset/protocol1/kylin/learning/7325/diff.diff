@@ -1,0 +1,5 @@
+74,75c74
+<                 throws IOException {
+<             if ("cube".equals(entity) && event == Event.UPDATE) {
+---
+>                 throws IOException {            if ("cube".equals(entity) && event == Event.UPDATE) {

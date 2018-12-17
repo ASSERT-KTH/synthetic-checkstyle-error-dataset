@@ -1,0 +1,4 @@
+195c195
+<     public void load(InputStream stream) throws IOException {
+---
+>     public void load( InputStream stream) throws IOException {

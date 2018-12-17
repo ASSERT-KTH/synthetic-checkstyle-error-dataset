@@ -1,0 +1,5 @@
+152,153c152
+<             ByteArrayOutputStream byteBuf = new ByteArrayOutputStream();
+<             DataOutputStream headOut = new DataOutputStream(byteBuf);
+---
+>             ByteArrayOutputStream byteBuf = new ByteArrayOutputStream();            DataOutputStream headOut = new DataOutputStream(byteBuf);

@@ -1,0 +1,4 @@
+29c29
+<             msg.set(CnMessage.getInstance());
+---
+>             msg.set (CnMessage.getInstance());

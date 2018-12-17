@@ -1,0 +1,4 @@
+30c30
+<     public LazyRowKeyEncoder(CubeSegment cubeSeg, Cuboid cuboid) {
+---
+>     public LazyRowKeyEncoder(CubeSegment cubeSeg,Cuboid cuboid) {

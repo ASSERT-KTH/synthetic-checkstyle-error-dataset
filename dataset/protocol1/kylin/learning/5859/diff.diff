@@ -1,0 +1,4 @@
+143c143
+<     private void closeReader(Reader r) throws IOException {
+---
+>     private 	void closeReader(Reader r) throws IOException {

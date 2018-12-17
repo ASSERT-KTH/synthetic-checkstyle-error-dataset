@@ -1,0 +1,4 @@
+38c38
+<         wrappedLogger.info(message);
+---
+>         wrappedLogger.info( message);

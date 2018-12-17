@@ -1,0 +1,4 @@
+78c78
+<         return this == SUCCEED || this == DISCARDED;
+---
+>         return this == SUCCEED || this == 	DISCARDED;

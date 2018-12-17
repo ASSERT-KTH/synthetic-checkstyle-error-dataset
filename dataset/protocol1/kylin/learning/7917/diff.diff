@@ -1,0 +1,4 @@
+80c80
+<         String strValue = colIO.readColumnString(col, valueBytes, offset, length);
+---
+>         String strValue = colIO.readColumnString(col, valueBytes, 	offset, length);

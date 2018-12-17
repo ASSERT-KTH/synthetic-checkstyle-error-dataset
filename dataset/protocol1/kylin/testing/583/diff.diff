@@ -1,0 +1,4 @@
+41c41
+<         buffer.put(b, off, len);
+---
+>         buffer.put(b, off	, len);

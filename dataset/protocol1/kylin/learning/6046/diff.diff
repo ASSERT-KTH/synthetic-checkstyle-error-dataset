@@ -1,0 +1,4 @@
+249c249
+<             int shiftbits = (idx - 1) * 8;
+---
+>             int shiftbits = 	(idx - 1) * 8;

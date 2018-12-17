@@ -1,0 +1,4 @@
+38c38
+<         TableMetadataManager metaMgr = TableMetadataManager.getInstance(conf);
+---
+>         TableMetadataManager metaMgr = TableMetadataManager.getInstance (conf);

@@ -1,0 +1,5 @@
+71,72c71
+<     public State state() {
+<         return state;
+---
+>     public State state() {        return state;

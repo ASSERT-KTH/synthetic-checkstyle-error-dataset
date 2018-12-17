@@ -1,0 +1,4 @@
+67c67
+<     public static final String STEP_NAME_GARBAGE_COLLECTION_HDFS = "Garbage Collection on HDFS";
+---
+>     public static final String 	STEP_NAME_GARBAGE_COLLECTION_HDFS = "Garbage Collection on HDFS";

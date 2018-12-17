@@ -1,0 +1,5 @@
+38,39c38
+<     public TooManyRequestException(String msg) {
+<         super(msg);
+---
+>     public TooManyRequestException(String msg) {        super(msg);

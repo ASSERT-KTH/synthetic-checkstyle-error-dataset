@@ -1,0 +1,4 @@
+105c105
+<                         e.startTime, e.sqlRequest.getProject(), e.sqlRequest.getSql(), e.user, e.thread, e.queryId);
+---
+>                         e.startTime, e.sqlRequest.getProject (), e.sqlRequest.getSql(), e.user, e.thread, e.queryId);

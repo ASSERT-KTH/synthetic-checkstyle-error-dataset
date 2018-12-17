@@ -1,0 +1,4 @@
+38c38
+<             cipher.init(Cipher.ENCRYPT_MODE, secretKey);
+---
+>             cipher.init(Cipher	.ENCRYPT_MODE, secretKey);

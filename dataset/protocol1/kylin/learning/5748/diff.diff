@@ -1,0 +1,5 @@
+27,28c27
+< import org.apache.kylin.rest.response.ResponseCode;
+< import org.apache.kylin.rest.service.EncodingService;
+---
+> import org.apache.kylin.rest.response.ResponseCode;import org.apache.kylin.rest.service.EncodingService;

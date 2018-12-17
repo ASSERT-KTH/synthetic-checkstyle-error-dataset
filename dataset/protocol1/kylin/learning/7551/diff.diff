@@ -1,0 +1,5 @@
+52,53c52
+<         if (shardByColumns.size() > 1) {
+<             throw new IllegalStateException("Does not support multiple UHC now");
+---
+>         if (shardByColumns.size() > 1) {            throw new IllegalStateException("Does not support multiple UHC now");

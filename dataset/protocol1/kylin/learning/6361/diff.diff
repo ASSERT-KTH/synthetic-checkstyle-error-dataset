@@ -1,0 +1,4 @@
+67c67
+<             if (joinTable.getTableRef().equals(this.tableRef)) {
+---
+>             if (joinTable.getTableRef().equals(this.tableRef)) 	{

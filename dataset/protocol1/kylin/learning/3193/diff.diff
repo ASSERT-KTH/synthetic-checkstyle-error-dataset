@@ -1,0 +1,4 @@
+158c158
+<                 realDictMap.put(tblColRef, (Dictionary<String>) realDict.getDictionaryObject());
+---
+>                 realDictMap.put( tblColRef, (Dictionary<String>) realDict.getDictionaryObject());

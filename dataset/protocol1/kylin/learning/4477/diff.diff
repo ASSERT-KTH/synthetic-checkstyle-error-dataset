@@ -1,0 +1,5 @@
+287c287,288
+<     public String getINVALID_STREAMING_CONFIG_DEFINITION() {
+---
+>     public String getINVALID_STREAMING_CONFIG_DEFINITION() 
+> {

@@ -1,0 +1,5 @@
+103,104c103
+<     public void setEncoding(String encoding) {
+<         this.encoding = encoding;
+---
+>     public void setEncoding(String encoding) {        this.encoding = encoding;

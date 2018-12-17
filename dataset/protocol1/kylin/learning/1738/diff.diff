@@ -1,0 +1,4 @@
+116c116
+<         CubeSignatureRefresher metadataUpgrade = new CubeSignatureRefresher(args);
+---
+>         CubeSignatureRefresher metadataUpgrade = 	new CubeSignatureRefresher(args);

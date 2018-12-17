@@ -1,0 +1,5 @@
+222,223c222
+<     protected void removeTableFromProject(String tableName, String projectName) throws IOException {
+<         tableName = normalizeHiveTableName(tableName);
+---
+>     protected void removeTableFromProject(String tableName, String projectName) throws IOException {        tableName = normalizeHiveTableName(tableName);

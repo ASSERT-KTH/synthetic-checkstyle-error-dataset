@@ -1,0 +1,4 @@
+41c41
+<     public static final byte ROWVALUE_DELIMITER_BYTE = 7;
+---
+>     public static final byte 	ROWVALUE_DELIMITER_BYTE = 7;

@@ -1,0 +1,5 @@
+61,62c61
+<         try {
+<             AtomicInteger nRunningQueries = runningStats.get(project);
+---
+>         try {            AtomicInteger nRunningQueries = runningStats.get(project);

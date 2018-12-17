@@ -1,0 +1,5 @@
+92,93c92
+<         if (!sqlResponse.isHitExceptionCache() && !sqlResponse.getIsException()) {
+<             metrics.incrementCounter(MetricsNameBuilder.buildMetricName(name, MetricsConstant.QUERY_SUCCESS_COUNT));
+---
+>         if (!sqlResponse.isHitExceptionCache() && !sqlResponse.getIsException()) {            metrics.incrementCounter(MetricsNameBuilder.buildMetricName(name, MetricsConstant.QUERY_SUCCESS_COUNT));

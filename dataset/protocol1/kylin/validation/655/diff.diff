@@ -1,0 +1,4 @@
+115c115
+<         for (FileStatus fileStat : fs.listStatus(p)) {
+---
+>         for (FileStatus fileStat : 	fs.listStatus(p)) {

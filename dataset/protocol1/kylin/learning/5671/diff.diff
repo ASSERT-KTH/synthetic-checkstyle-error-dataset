@@ -1,0 +1,5 @@
+101,102c101
+<         this.results = results;
+<         this.cube = cube;
+---
+>         this.results = results;        this.cube = cube;

@@ -1,0 +1,4 @@
+27c27
+<     public Thread newThread(Runnable r) {
+---
+>     public Thread newThread(Runnable 	r) {

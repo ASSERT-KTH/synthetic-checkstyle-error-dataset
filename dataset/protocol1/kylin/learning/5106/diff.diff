@@ -1,0 +1,5 @@
+156,157c156
+<     protected void cleanUnusedHBaseTables() throws IOException {
+<         if ("hbase".equals(config.getStorageUrl().getScheme()) && !"".equals(config.getMetadataUrl().getScheme())) {
+---
+>     protected void cleanUnusedHBaseTables() throws IOException {        if ("hbase".equals(config.getStorageUrl().getScheme()) && !"".equals(config.getMetadataUrl().getScheme())) {

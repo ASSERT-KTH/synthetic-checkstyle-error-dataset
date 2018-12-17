@@ -1,0 +1,4 @@
+98c98
+<         else if (colIsNumber[idx])
+---
+>         else 	if (colIsNumber[idx])

@@ -1,0 +1,4 @@
+33c33
+<     public CuboidResult(long cuboidId, GridTable table, int nRows, long timeSpent, int aggrCacheMB) {
+---
+>     public 	CuboidResult(long cuboidId, GridTable table, int nRows, long timeSpent, int aggrCacheMB) {

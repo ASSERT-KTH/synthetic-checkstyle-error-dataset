@@ -1,0 +1,5 @@
+26,27c26
+<     private RandomUtil() {
+<         throw new IllegalStateException("Class RandomUtil is an utility class !");
+---
+>     private RandomUtil() {        throw new IllegalStateException("Class RandomUtil is an utility class !");

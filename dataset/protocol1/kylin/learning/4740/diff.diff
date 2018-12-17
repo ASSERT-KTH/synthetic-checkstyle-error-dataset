@@ -1,0 +1,5 @@
+291,292c291
+<         if (!isCubeInProject(newProjectName, cube)) {
+<             String owner = SecurityContextHolder.getContext().getAuthentication().getName();
+---
+>         if (!isCubeInProject(newProjectName, cube)) {            String owner = SecurityContextHolder.getContext().getAuthentication().getName();

@@ -1,0 +1,4 @@
+79c79
+<     abstract public boolean contains(Dictionary<?> another);
+---
+>     abstract public boolean contains(Dictionary<	?> another);

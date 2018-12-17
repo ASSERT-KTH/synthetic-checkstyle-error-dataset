@@ -1,0 +1,4 @@
+100c100
+<                 content.write(out);
+---
+>                 content	.write(out);

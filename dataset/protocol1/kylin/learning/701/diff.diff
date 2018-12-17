@@ -1,0 +1,4 @@
+34c34
+< import org.springframework.security.core.userdetails.UserDetails;
+---
+> import org.springframework.security.core.userdetails	.UserDetails;

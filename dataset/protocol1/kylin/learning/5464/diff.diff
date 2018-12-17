@@ -1,0 +1,5 @@
+52c52,53
+<     public CubeDimEncMap(CubeDesc cubeDesc, Map<TblColRef, Dictionary<String>> dictionaryMap) {
+---
+>     public CubeDimEncMap(CubeDesc cubeDesc, Map<TblColRef, Dictionary<String>> dictionaryMap) 
+> {

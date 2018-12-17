@@ -1,0 +1,4 @@
+71c71
+<         return getSqlFromProperties("format.sql.insert-without-content");
+---
+>         return getSqlFromProperties( "format.sql.insert-without-content");

@@ -1,0 +1,4 @@
+36c36
+<     public RawResource(String path, long lastModified, InputStream content) {
+---
+>     public RawResource (String path, long lastModified, InputStream content) {

@@ -1,0 +1,5 @@
+30,31c30
+<     public ByteBufferOutputStream(ByteBuffer buffer) {
+<         this.buffer = buffer;
+---
+>     public ByteBufferOutputStream(ByteBuffer buffer) {        this.buffer = buffer;

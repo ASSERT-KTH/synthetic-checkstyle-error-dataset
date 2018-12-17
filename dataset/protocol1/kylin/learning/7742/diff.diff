@@ -1,0 +1,4 @@
+58c58
+<         if (!super.isReady()) {
+---
+>         	if (!super.isReady()) {

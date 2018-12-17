@@ -1,0 +1,4 @@
+198c198
+<         return a == null ? b == null : a.equals(b);
+---
+>         return a == null ? b == null : a.equals(b );

@@ -1,0 +1,4 @@
+34c34
+< import org.apache.kylin.metadata.cachesync.CachedCrudAssist;
+---
+> import org.apache.kylin.metadata	.cachesync.CachedCrudAssist;

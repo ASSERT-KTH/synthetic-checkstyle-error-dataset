@@ -1,0 +1,5 @@
+292c292,293
+<             String owner = SecurityContextHolder.getContext().getAuthentication().getName();
+---
+>             String owner = SecurityContextHolder.getContext().getAuthentication().getName
+> ();

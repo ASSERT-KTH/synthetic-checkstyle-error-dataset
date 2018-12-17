@@ -1,0 +1,4 @@
+126c126
+<             if (StringUtils.isEmpty(partitionDateFormat)) {
+---
+>             if (StringUtils	.isEmpty(partitionDateFormat)) {

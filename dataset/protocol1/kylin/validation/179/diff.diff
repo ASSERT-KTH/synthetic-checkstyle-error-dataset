@@ -1,0 +1,5 @@
+79,80c79
+<     public void setType(String type) {
+<         this.type = type;
+---
+>     public void setType(String type) {        this.type = type;

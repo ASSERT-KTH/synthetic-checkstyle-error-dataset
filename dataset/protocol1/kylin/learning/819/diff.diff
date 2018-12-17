@@ -1,0 +1,4 @@
+119c119
+<             ManagedUser exist = userMap.get(user.getUsername());
+---
+>             ManagedUser exist = userMap.get (user.getUsername());

@@ -1,0 +1,5 @@
+47,48c47
+< import org.apache.kylin.rest.request.SQLRequest;
+< import org.apache.kylin.rest.request.SaveSqlRequest;
+---
+> import org.apache.kylin.rest.request.SQLRequest;import org.apache.kylin.rest.request.SaveSqlRequest;

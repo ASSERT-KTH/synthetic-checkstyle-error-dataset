@@ -1,0 +1,4 @@
+194c194
+<         metricsEvent.put(QueryCubePropertyEnum.SCAN_COUNT.toString(), scanCount);
+---
+>         metricsEvent.put(QueryCubePropertyEnum.	SCAN_COUNT.toString(), scanCount);

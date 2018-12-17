@@ -1,0 +1,4 @@
+105c105
+<     @RequestMapping(value = "/config", method = { RequestMethod.PUT }, produces = { "application/json" })
+---
+>     @RequestMapping(value = "/config", method = { RequestMethod.PUT },produces = { "application/json" })

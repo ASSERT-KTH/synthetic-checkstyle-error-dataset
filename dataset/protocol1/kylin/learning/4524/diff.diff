@@ -1,0 +1,4 @@
+51c51
+<                             || permissionName.equals(AclPermissionType.MANAGEMENT)
+---
+>                             || permissionName.equals(AclPermissionType.MANAGEMENT )

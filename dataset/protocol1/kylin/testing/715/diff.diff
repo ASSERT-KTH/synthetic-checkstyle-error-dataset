@@ -1,0 +1,5 @@
+46,47c46
+<             } catch (InterruptedException ie) {
+<                 logger.error("Thread interrupted: ");
+---
+>             } catch (InterruptedException ie) {                logger.error("Thread interrupted: ");

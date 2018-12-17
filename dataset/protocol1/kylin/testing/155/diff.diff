@@ -1,0 +1,5 @@
+352,353c352
+<                     reuseAggrs.collectStates(metrics);
+<                     setMetricsValues(smallest.currentRecord, metrics);
+---
+>                     reuseAggrs.collectStates(metrics);                    setMetricsValues(smallest.currentRecord, metrics);

@@ -1,0 +1,4 @@
+41c41
+<             long l2 = Long.parseLong(o2);
+---
+>             long l2 = Long.parseLong( o2);

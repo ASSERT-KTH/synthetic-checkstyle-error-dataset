@@ -1,0 +1,4 @@
+239c239
+<             assert this.column.equals(another.column);
+---
+>             assert 	this.column.equals(another.column);

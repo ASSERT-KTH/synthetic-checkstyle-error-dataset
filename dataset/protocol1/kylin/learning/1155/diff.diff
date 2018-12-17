@@ -1,0 +1,4 @@
+69c69
+<     public static String getMailContent(ExecutableState state, Map<String, Object> dataMap) {
+---
+>     public static String getMailContent(ExecutableState state, Map<String,Object> dataMap) {

@@ -1,0 +1,5 @@
+77,78c77
+<             String type = matcher2.group(1);
+<             String event = matcher2.group(2);
+---
+>             String type = matcher2.group(1);            String event = matcher2.group(2);

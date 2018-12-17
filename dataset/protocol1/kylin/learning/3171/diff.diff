@@ -1,0 +1,4 @@
+53c53
+<     private String getHadoopJobConfFilePath(String suffix, boolean appendSuffix) throws IOException {
+---
+>     private 	String getHadoopJobConfFilePath(String suffix, boolean appendSuffix) throws IOException {

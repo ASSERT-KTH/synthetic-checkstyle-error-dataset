@@ -1,0 +1,4 @@
+39c39
+<     public static GTInfo newGTInfo(Cuboid cuboid, IDimensionEncodingMap dimEncMap, CuboidToGridTableMapping mapping) {
+---
+>     public static GTInfo newGTInfo(Cuboid cuboid, IDimensionEncodingMap dimEncMap, 	CuboidToGridTableMapping mapping) {

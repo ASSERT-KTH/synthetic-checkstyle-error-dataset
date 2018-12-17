@@ -1,0 +1,5 @@
+79,80c79
+<     public void checkIdentifiersExists(String name, boolean isPrincipal) throws IOException {
+<         if (isPrincipal && !userService.userExists(name)) {
+---
+>     public void checkIdentifiersExists(String name, boolean isPrincipal) throws IOException {        if (isPrincipal && !userService.userExists(name)) {

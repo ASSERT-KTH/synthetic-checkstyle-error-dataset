@@ -1,0 +1,4 @@
+634c634
+<             this.tailOffset = diskFile.length();
+---
+>             this.tailOffset = diskFile.	length();

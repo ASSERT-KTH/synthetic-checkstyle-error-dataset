@@ -1,0 +1,4 @@
+796c796
+<         CubeInstance cube = cubeService.getCubeManager().getCube(cubeName);
+---
+>         CubeInstance cube = cubeService.getCubeManager().getCube(cubeName );

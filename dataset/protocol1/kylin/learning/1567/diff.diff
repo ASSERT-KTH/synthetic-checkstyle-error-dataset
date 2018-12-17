@@ -1,0 +1,4 @@
+31c31
+<     private boolean successful;
+---
+>     	private boolean successful;

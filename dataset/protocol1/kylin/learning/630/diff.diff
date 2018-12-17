@@ -1,0 +1,5 @@
+64,65c64
+<         if (args.length != 1) {
+<             printUsage();
+---
+>         if (args.length != 1) {            printUsage();

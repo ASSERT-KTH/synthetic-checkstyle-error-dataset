@@ -1,0 +1,5 @@
+88,89c88
+<                     cols[i] = String.valueOf(DateFormat.stringToMillis(cols[i]));
+<             }
+---
+>                     cols[i] = String.valueOf(DateFormat.stringToMillis(cols[i]));            }

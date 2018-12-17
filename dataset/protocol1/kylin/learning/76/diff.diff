@@ -1,0 +1,4 @@
+288c288
+<                     holder[0] = rawResource(rs, fetchContent, fetchTimestamp);
+---
+>                     holder[0] = rawResource (rs, fetchContent, fetchTimestamp);

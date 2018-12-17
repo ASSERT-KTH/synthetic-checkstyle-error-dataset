@@ -1,0 +1,4 @@
+172c172
+<     public Map<ObjectIdentity, Acl> readAclsById(List<ObjectIdentity> oids, List<Sid> sids) throws NotFoundException {
+---
+>     public Map<ObjectIdentity, Acl> readAclsById (List<ObjectIdentity> oids, List<Sid> sids) throws NotFoundException {

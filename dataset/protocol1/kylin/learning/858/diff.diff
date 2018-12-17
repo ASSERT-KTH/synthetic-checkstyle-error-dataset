@@ -1,0 +1,4 @@
+103c103
+<         this.affectedRowCount = affectedRowCount;
+---
+>         	this.affectedRowCount = affectedRowCount;

@@ -1,0 +1,4 @@
+70c70
+<     public String[] buildKey(String[] row) {
+---
+>     public 	String[] buildKey(String[] row) {

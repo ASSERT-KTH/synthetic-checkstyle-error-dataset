@@ -1,0 +1,4 @@
+111c111
+<         CliCommandExecutor executor = KylinConfig.getInstanceFromEnv().getCliCommandExecutor();
+---
+>         CliCommandExecutor executor = KylinConfig.getInstanceFromEnv().getCliCommandExecutor()	;

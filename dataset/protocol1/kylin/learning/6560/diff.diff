@@ -1,0 +1,5 @@
+702,703c702
+<                 String catalogName = JDBCTableMeta.getString(1);
+<                 String schemaName = JDBCTableMeta.getString(2);
+---
+>                 String catalogName = JDBCTableMeta.getString(1);                String schemaName = JDBCTableMeta.getString(2);

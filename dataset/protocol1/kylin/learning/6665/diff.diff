@@ -1,0 +1,5 @@
+67,68c67
+<                 System.arraycopy(bytes, offset, split.value, 0, length);
+<                 split.length = length;
+---
+>                 System.arraycopy(bytes, offset, split.value, 0, length);                split.length = length;

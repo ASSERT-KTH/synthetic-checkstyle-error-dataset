@@ -1,0 +1,4 @@
+42c42
+<         final String userEmail = samlCredential.getAttributeAsString("email");
+---
+>         final String 	userEmail = samlCredential.getAttributeAsString("email");

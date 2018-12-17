@@ -1,0 +1,4 @@
+26c26
+<     private JobTimeFilterEnum(int code) {
+---
+>     private JobTimeFilterEnum(int 	code) {

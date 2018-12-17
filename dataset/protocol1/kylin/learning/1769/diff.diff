@@ -1,0 +1,4 @@
+408c408
+<     public static long getExtraInfoAsLong(Output output, String key, long defaultValue) {
+---
+>     public static long getExtraInfoAsLong(Output output, String key, 	long defaultValue) {

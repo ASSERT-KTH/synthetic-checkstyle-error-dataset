@@ -1,0 +1,4 @@
+102c102
+<             if (str.length() == 8 && isInputFormatDate(str, COMPACT_DATE_PATTERN))
+---
+>             if ( str.length() == 8 && isInputFormatDate(str, COMPACT_DATE_PATTERN))

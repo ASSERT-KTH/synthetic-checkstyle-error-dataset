@@ -1,0 +1,4 @@
+38c38
+<     public KylinAclPermissionEvaluator(AclService aclService, PermissionFactory permissionFactory) {
+---
+>     public KylinAclPermissionEvaluator (AclService aclService, PermissionFactory permissionFactory) {

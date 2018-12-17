@@ -1,0 +1,4 @@
+87c87
+<         if (rootFactTable == null) {
+---
+>         if (rootFactTable 	== null) {

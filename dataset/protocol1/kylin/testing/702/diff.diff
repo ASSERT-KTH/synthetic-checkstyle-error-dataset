@@ -1,0 +1,5 @@
+40,41c40
+<     private MeasureDesc[] measures;
+<     private int[] measureIndex; // the index on CubeDesc.getMeasures()
+---
+>     private MeasureDesc[] measures;    private int[] measureIndex; // the index on CubeDesc.getMeasures()

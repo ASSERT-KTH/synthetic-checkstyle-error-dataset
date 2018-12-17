@@ -1,0 +1,4 @@
+30c30
+<     static final String ACL_TABLE_NAME = "_acl";
+---
+>     static final String ACL_TABLE_NAME = "_acl"	;

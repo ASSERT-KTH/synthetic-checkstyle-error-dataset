@@ -1,0 +1,4 @@
+86c86
+<                 tool.list(KylinConfig.getInstanceFromEnv(), args[1]);
+---
+>                 tool.list(KylinConfig	.getInstanceFromEnv(), args[1]);

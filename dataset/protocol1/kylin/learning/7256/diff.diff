@@ -1,0 +1,4 @@
+55c55
+<     public static long readShort(byte[] bytes, int offset, int size) {
+---
+>     public static long readShort(byte[] bytes, 	int offset, int size) {

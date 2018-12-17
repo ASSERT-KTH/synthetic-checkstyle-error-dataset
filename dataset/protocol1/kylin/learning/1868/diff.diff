@@ -1,0 +1,5 @@
+28,29c28
+<     public static short getShard(int integerValue, int totalShards) {
+<         if (totalShards <= 1) {
+---
+>     public static short getShard(int integerValue, int totalShards) {        if (totalShards <= 1) {

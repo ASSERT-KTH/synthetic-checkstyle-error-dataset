@@ -1,0 +1,5 @@
+46c46,47
+<         builder.enableColumnBlock(mapping.getColumnBlocks());
+---
+>         builder.enableColumnBlock
+> (mapping.getColumnBlocks());

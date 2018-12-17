@@ -1,0 +1,4 @@
+37c37
+<     public LockException(Throwable cause) {
+---
+>     public LockException(Throwable cause) 	{

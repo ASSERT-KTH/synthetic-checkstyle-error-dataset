@@ -1,0 +1,5 @@
+47c47,48
+<     public JobException(String message) {
+---
+>     public JobException
+> (String message) {

@@ -1,0 +1,4 @@
+51c51
+<     public void setTableName(String tableName) {
+---
+>     public void setTableName(String tableName ) {

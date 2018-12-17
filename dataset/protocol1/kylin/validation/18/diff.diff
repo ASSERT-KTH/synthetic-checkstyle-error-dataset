@@ -1,0 +1,5 @@
+29,30c29
+< import org.apache.kylin.gridtable.GTInfo;
+< import org.apache.kylin.gridtable.GTRecord;
+---
+> import org.apache.kylin.gridtable.GTInfo;import org.apache.kylin.gridtable.GTRecord;

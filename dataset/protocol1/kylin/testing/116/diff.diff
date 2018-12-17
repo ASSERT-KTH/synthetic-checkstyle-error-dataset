@@ -1,0 +1,4 @@
+139c139
+<         else if (this.data == null || o.data == null)
+---
+>         else if (this	.data == null || o.data == null)

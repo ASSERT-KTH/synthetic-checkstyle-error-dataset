@@ -1,0 +1,5 @@
+1284,1285c1284
+<     public Map<Integer, Long> getPartitionOffsetStart() {
+<         return partitionOffsetStart;
+---
+>     public Map<Integer, Long> getPartitionOffsetStart() {        return partitionOffsetStart;

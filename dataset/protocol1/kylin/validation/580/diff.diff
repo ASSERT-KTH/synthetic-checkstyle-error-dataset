@@ -1,0 +1,4 @@
+126c126
+<                     for (Permission p : AclPermissionFactory.getPermissions()) {
+---
+>                     for (Permission p : AclPermissionFactory.getPermissions() ) {

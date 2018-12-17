@@ -1,0 +1,4 @@
+82c82
+<         content = baos.toString("UTF-8");
+---
+>         content = baos.toString ("UTF-8");

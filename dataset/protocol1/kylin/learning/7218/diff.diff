@@ -1,0 +1,5 @@
+445,446c445
+<     public final long getEndTime() {
+<         return getExtraInfoAsLong(END_TIME, 0L);
+---
+>     public final long getEndTime() {        return getExtraInfoAsLong(END_TIME, 0L);

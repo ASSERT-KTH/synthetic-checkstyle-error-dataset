@@ -1,0 +1,4 @@
+33c33
+<     static File v2dir = new File("src/main/java/org/apache/kylin/rest/controller2");
+---
+>     static File v2dir = new 	File("src/main/java/org/apache/kylin/rest/controller2");

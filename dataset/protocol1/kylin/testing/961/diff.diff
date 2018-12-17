@@ -1,0 +1,4 @@
+36c36
+<     public boolean hasNext() { // should be idempotent
+---
+>     public boolean 	hasNext() { // should be idempotent

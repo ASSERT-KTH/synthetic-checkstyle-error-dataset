@@ -1,0 +1,4 @@
+123c123
+<         System.out.println(N + " records aggregated to " + count + ", " + calcSpeed(t) + "K rec/sec");
+---
+>         System.out.println( N + " records aggregated to " + count + ", " + calcSpeed(t) + "K rec/sec");

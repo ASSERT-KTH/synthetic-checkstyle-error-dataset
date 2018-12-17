@@ -1,0 +1,4 @@
+146c146
+<     public static void deletePath(Configuration conf, Path path) throws IOException {
+---
+>     public static void deletePath(Configuration conf,Path path) throws IOException {

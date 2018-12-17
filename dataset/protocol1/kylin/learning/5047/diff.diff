@@ -1,0 +1,4 @@
+90c90
+<     public static void rebuildLocalCache(TableDesc tableDesc, ExtTableSnapshotInfo extTableSnapshotInfo) {
+---
+>     public static void rebuildLocalCache(TableDesc tableDesc, 	ExtTableSnapshotInfo extTableSnapshotInfo) {

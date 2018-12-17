@@ -1,0 +1,4 @@
+220c220
+<     private CompareTupleFilter eq(ColumnTupleFilter col, int... values) {
+---
+>     private CompareTupleFilter eq( ColumnTupleFilter col, int... values) {

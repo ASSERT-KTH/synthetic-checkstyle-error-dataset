@@ -1,0 +1,5 @@
+157,158c157
+<             String filterMax = order.max((Set<String>) comp.getValues());
+<             return order.compare(filterMin, maxVal) <= 0 && order.compare(minVal, filterMax) <= 0;
+---
+>             String filterMax = order.max((Set<String>) comp.getValues());            return order.compare(filterMin, maxVal) <= 0 && order.compare(minVal, filterMax) <= 0;

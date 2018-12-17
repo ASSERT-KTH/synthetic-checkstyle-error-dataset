@@ -1,0 +1,4 @@
+62c62
+<         return compare(start, v) <= 0 && compare(v, end) <= 0;
+---
+>         return compare(start, v) <= 0 && compare(v, end ) <= 0;

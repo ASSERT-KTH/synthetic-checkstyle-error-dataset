@@ -1,0 +1,5 @@
+135,136c135
+<             getManager().addJobInfo(getId(), END_TIME, Long.toString(System.currentTimeMillis()));
+<             String output = null;
+---
+>             getManager().addJobInfo(getId(), END_TIME, Long.toString(System.currentTimeMillis()));            String output = null;

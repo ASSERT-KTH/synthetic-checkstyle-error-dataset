@@ -1,0 +1,5 @@
+33,34c33
+<     public final int maxId;
+<     public final int maxValueLength;
+---
+>     public final int maxId;    public final int maxValueLength;

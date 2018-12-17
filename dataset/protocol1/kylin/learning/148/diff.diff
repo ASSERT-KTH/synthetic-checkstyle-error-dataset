@@ -1,0 +1,4 @@
+177c177
+<     public String cat(KylinConfig config, String path) throws IOException {
+---
+>     public String cat(KylinConfig config, String path) throws 	IOException {

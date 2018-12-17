@@ -1,0 +1,5 @@
+96,97c96
+<                 buf.append(tmpHqlPath);
+<                 buf.append(";exit $ret_code");
+---
+>                 buf.append(tmpHqlPath);                buf.append(";exit $ret_code");

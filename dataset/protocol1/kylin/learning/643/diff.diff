@@ -1,0 +1,5 @@
+186,187c186
+<                 count += 2;
+<             } else if (Character.isHighSurrogate(ch)) {
+---
+>                 count += 2;            } else if (Character.isHighSurrogate(ch)) {

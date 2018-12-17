@@ -1,0 +1,5 @@
+40c40,41
+<     public Iterator<GTRecord> iterator() {
+---
+>     public Iterator<GTRecord> iterator() 
+> {

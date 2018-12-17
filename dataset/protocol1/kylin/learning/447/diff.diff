@@ -1,0 +1,4 @@
+41c41
+<         this.lookupTableName = lookupTableName;
+---
+>         this.lookupTableName 	= lookupTableName;

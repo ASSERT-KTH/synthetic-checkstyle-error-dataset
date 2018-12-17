@@ -1,0 +1,5 @@
+109,110c109
+<         logger.trace("judge user exist: {}", userName);
+<         return getKylinUserManager().exists(userName);
+---
+>         logger.trace("judge user exist: {}", userName);        return getKylinUserManager().exists(userName);

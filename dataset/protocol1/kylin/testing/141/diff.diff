@@ -1,0 +1,4 @@
+119c119
+<         public List<NodeInfo> getChildren() {
+---
+>         public 	List<NodeInfo> getChildren() {

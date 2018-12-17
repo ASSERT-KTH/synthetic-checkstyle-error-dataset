@@ -1,0 +1,4 @@
+39c39
+<             int c = allColumns.trueBitAt(i);
+---
+>             int 	c = allColumns.trueBitAt(i);

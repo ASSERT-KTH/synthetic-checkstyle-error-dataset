@@ -1,0 +1,4 @@
+52c52
+<     public String decode(byte[] bytes, int offset, int len) {
+---
+>     public String decode(byte[] bytes, int 	offset, int len) {

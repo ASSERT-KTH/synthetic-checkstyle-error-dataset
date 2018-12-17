@@ -1,0 +1,4 @@
+25c25
+<     public static final String NO_PROJECT = "NO_PROJECT";
+---
+>     	public static final String NO_PROJECT = "NO_PROJECT";

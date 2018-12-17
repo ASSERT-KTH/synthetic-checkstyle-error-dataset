@@ -1,0 +1,4 @@
+209c209
+<     public static int stringToDictId(String str) {
+---
+>     	public static int stringToDictId(String str) {

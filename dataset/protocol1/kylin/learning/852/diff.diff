@@ -1,0 +1,4 @@
+73c73
+<                 list.add(path.getPath());
+---
+>                 list.add( path.getPath());

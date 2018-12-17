@@ -1,0 +1,5 @@
+49,50c49
+< import org.apache.kylin.metadata.model.IJoinedFlatTableDesc;
+< import org.apache.kylin.metadata.model.TblColRef;
+---
+> import org.apache.kylin.metadata.model.IJoinedFlatTableDesc;import org.apache.kylin.metadata.model.TblColRef;

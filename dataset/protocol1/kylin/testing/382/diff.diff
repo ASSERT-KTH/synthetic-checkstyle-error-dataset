@@ -1,0 +1,4 @@
+31c31
+< import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;
+---
+> import com.fasterxml	.jackson.annotation.JsonAutoDetect.Visibility;

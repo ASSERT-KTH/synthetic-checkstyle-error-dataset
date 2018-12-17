@@ -1,0 +1,4 @@
+299c299
+<         return "StreamingConfig '%s' 已存在";
+---
+>         return 	"StreamingConfig '%s' 已存在";

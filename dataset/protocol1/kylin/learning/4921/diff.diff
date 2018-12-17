@@ -1,0 +1,5 @@
+109,110c109
+<         Broadcaster broadcaster = Broadcaster.getInstance(getConfig());
+<         broadcaster.announce(entity, event, cacheKey);
+---
+>         Broadcaster broadcaster = Broadcaster.getInstance(getConfig());        broadcaster.announce(entity, event, cacheKey);

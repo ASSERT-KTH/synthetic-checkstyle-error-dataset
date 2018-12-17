@@ -1,0 +1,4 @@
+34c34
+<     public TrimmedDimEnc() {
+---
+>     public 	TrimmedDimEnc() {

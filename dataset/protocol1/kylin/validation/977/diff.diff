@@ -1,0 +1,4 @@
+146c146
+<             logger.warn("failed to locate jar for class " + className + ", ignore it");
+---
+>             logger.	warn("failed to locate jar for class " + className + ", ignore it");

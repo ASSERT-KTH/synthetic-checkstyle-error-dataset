@@ -1,0 +1,4 @@
+110c110
+<             propertyKeys.addAll(Arrays.asList(StringUtil.splitByComma(whiteListProperties)));
+---
+>             propertyKeys.addAll(Arrays.asList(StringUtil	.splitByComma(whiteListProperties)));

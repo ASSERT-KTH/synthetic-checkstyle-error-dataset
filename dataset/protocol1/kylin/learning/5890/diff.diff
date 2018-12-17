@@ -1,0 +1,4 @@
+68c68
+<     abstract public Set<Long> calculateCuboidsForAggGroup(AggregationGroup agg);
+---
+>     abstract public 	Set<Long> calculateCuboidsForAggGroup(AggregationGroup agg);

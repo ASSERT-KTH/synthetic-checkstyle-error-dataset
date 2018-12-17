@@ -1,0 +1,5 @@
+213,214c213
+<             for (Map.Entry<String, String> counterEntry : counterMap.entrySet()) {
+<                 writer.append(new Text(counterEntry.getKey()), new Text(counterEntry.getValue()));
+---
+>             for (Map.Entry<String, String> counterEntry : counterMap.entrySet()) {                writer.append(new Text(counterEntry.getKey()), new Text(counterEntry.getValue()));

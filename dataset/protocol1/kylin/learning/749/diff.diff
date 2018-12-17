@@ -1,0 +1,5 @@
+36,37c36
+<         int comp;
+<         ImmutableBitSet allColumns = a.getInfo().getAllColumns();
+---
+>         int comp;        ImmutableBitSet allColumns = a.getInfo().getAllColumns();

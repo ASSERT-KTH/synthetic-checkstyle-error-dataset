@@ -1,0 +1,4 @@
+76c76
+<             incrCacheHitCount(name, sqlResponse);
+---
+>             incrCacheHitCount(name, sqlResponse)	;

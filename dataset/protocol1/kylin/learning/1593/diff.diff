@@ -1,0 +1,4 @@
+307c307
+<                 return Cuboid.cuboidSelectComparator.compare(cuboid1, cuboid2);
+---
+>                 return Cuboid.cuboidSelectComparator.compare(cuboid1, cuboid2 );

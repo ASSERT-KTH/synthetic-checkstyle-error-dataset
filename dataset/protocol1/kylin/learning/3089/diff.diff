@@ -1,0 +1,4 @@
+36c36
+<     public void convert(ByteArray currentObject, GTRecord record) {
+---
+>     public void 	convert(ByteArray currentObject, GTRecord record) {

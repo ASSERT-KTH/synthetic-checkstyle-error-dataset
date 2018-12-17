@@ -1,0 +1,5 @@
+36,37c36
+<         this.nRows = nRows;
+<         this.timeSpent = timeSpent;
+---
+>         this.nRows = nRows;        this.timeSpent = timeSpent;

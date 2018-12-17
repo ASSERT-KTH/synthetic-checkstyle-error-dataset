@@ -1,0 +1,5 @@
+64,65c64
+<         if ((streamingConfigs.size() - offset) < limit) {
+<             return streamingConfigs.subList(offset, streamingConfigs.size());
+---
+>         if ((streamingConfigs.size() - offset) < limit) {            return streamingConfigs.subList(offset, streamingConfigs.size());

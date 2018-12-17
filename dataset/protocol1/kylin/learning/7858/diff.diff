@@ -1,0 +1,5 @@
+51,52c51
+<         UserDetails userDetails = authenticatedUser();
+<         logger.debug("User login: {}", userDetails);
+---
+>         UserDetails userDetails = authenticatedUser();        logger.debug("User login: {}", userDetails);

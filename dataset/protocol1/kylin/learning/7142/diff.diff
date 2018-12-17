@@ -1,0 +1,5 @@
+154,155c154
+<                 } else if (realization.getType() == RealizationType.HYBRID) {
+<                     realizationSignature = getHybridSignature(config, realization.getName());
+---
+>                 } else if (realization.getType() == RealizationType.HYBRID) {                    realizationSignature = getHybridSignature(config, realization.getName());

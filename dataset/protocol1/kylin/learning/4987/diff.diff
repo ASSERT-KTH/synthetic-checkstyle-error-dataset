@@ -1,0 +1,5 @@
+42,43c42
+<     public String getText() {
+<         return text.toString();
+---
+>     public String getText() {        return text.toString();

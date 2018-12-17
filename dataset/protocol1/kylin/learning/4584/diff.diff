@@ -1,0 +1,5 @@
+32,33c32
+<     private long dateRangeEnd;
+<     private long sourceOffsetStart;
+---
+>     private long dateRangeEnd;    private long sourceOffsetStart;

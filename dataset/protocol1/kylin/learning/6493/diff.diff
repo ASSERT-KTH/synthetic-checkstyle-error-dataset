@@ -1,0 +1,4 @@
+1114c1114
+<                         }, new Predicate<CubingJob>() {
+---
+>                         }, new Predicate<CubingJob> () {

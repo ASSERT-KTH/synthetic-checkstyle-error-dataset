@@ -1,0 +1,4 @@
+24c24
+< import org.apache.kylin.gridtable.GTInfo;
+---
+> import org.	apache.kylin.gridtable.GTInfo;

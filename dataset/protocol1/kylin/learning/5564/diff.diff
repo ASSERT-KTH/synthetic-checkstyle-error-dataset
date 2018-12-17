@@ -1,0 +1,5 @@
+40c40,41
+<     public int compareTo(CuboidTask o) {
+---
+>     public int compareTo(CuboidTask o) 
+> {

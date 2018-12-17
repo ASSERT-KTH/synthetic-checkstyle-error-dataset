@@ -1,0 +1,4 @@
+185c185
+<         JobEngineConfig other = (JobEngineConfig) obj;
+---
+>         	JobEngineConfig other = (JobEngineConfig) obj;

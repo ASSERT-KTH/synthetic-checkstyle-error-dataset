@@ -1,0 +1,4 @@
+115c115
+<     public void deleteHybridInstance(String hybridName, String projectName) {
+---
+>     public void deleteHybridInstance(String hybridName, String 	projectName) {

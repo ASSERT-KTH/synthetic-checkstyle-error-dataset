@@ -1,0 +1,5 @@
+65,66c65
+<             int count = inflater.inflate(buffer);
+<             outputStream.write(buffer, 0, count);
+---
+>             int count = inflater.inflate(buffer);            outputStream.write(buffer, 0, count);

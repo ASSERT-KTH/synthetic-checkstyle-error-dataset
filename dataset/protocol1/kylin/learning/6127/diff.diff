@@ -1,0 +1,5 @@
+51,52c51
+<             start = encodeTime(tsRange.start.v, index, 1);
+<         } else {
+---
+>             start = encodeTime(tsRange.start.v, index, 1);        } else {

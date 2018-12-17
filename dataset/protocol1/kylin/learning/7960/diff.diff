@@ -1,0 +1,5 @@
+172,173c172
+<             throw new WriteConflictException(
+<                     "Overwriting conflict " + resPath + ", expect old TS " + oldTS + ", but found " + f.lastModified());
+---
+>             throw new WriteConflictException(                    "Overwriting conflict " + resPath + ", expect old TS " + oldTS + ", but found " + f.lastModified());

@@ -1,0 +1,4 @@
+43c43
+<         return getSqlFromProperties("format.sql.key-equals");
+---
+>         	return getSqlFromProperties("format.sql.key-equals");

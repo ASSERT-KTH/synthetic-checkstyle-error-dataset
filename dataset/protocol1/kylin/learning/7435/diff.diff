@@ -1,0 +1,5 @@
+56,57c56
+<             clientMode = HiveClientMode.BEELINE;
+<             beelineShell = kylinConfig.getSparkSqlBeelineShell();
+---
+>             clientMode = HiveClientMode.BEELINE;            beelineShell = kylinConfig.getSparkSqlBeelineShell();

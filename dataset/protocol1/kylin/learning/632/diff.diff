@@ -1,0 +1,5 @@
+82,83c82
+<             result = prime * result + ((className == null) ? 0 : className.hashCode());
+<             result = prime * result + ((value == null) ? 0 : value.hashCode());
+---
+>             result = prime * result + ((className == null) ? 0 : className.hashCode());            result = prime * result + ((value == null) ? 0 : value.hashCode());

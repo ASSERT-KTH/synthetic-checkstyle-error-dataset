@@ -1,0 +1,4 @@
+76c76
+<     private static final Option OPTION_CHECK = OptionBuilder.withArgName("check").hasArg().isRequired(false).withDescription("whether to check cube size, default true.").create("check");
+---
+>     private static final Option OPTION_CHECK = OptionBuilder.withArgName("check").hasArg().isRequired(false).withDescription("whether to check cube size, default true.").create("check")	;

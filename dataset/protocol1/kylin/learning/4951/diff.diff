@@ -1,0 +1,4 @@
+132c132
+<             return "DeriveInfo [type=" + type + ", join=" + join + ", columns=" + Arrays.toString(columns)
+---
+>             return "DeriveInfo [type=" + type + ", join=" + join + ", columns=" 	+ Arrays.toString(columns)

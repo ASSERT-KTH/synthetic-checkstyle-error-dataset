@@ -1,0 +1,5 @@
+255,256c255
+<             if (projectDataModel.getType() == RealizationType.CUBE) {
+<                 CubeInstance cube = getCubeManager().getCube(projectDataModel.getRealization());
+---
+>             if (projectDataModel.getType() == RealizationType.CUBE) {                CubeInstance cube = getCubeManager().getCube(projectDataModel.getRealization());

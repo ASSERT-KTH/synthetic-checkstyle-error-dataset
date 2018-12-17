@@ -1,0 +1,4 @@
+42c42
+<             Long cuboidId = cuboidIds[j];
+---
+>             Long cuboidId 	= cuboidIds[j];

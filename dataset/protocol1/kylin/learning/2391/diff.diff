@@ -1,0 +1,4 @@
+120c120
+<     public void addCacheHitCount(long count) {
+---
+>     public void addCacheHitCount(long count ) {

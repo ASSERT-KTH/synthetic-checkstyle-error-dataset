@@ -1,0 +1,4 @@
+114c114
+<         return getBoolean(DISABLE_RAW_QUERY_HACKER);
+---
+>         return getBoolean (DISABLE_RAW_QUERY_HACKER);

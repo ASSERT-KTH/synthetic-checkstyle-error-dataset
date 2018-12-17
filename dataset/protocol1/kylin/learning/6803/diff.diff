@@ -1,0 +1,4 @@
+52c52
+<             final String decryptedString = new String(cipher.doFinal(Base64.decodeBase64(strToDecrypt)), StandardCharsets.UTF_8);
+---
+>             final String decryptedString = new String(cipher.doFinal (Base64.decodeBase64(strToDecrypt)), StandardCharsets.UTF_8);

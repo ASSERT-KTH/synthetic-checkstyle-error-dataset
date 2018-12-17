@@ -1,0 +1,5 @@
+68,69c68
+<         if (extLookupTableCache == null) {
+<             return getExtLookupTableWithoutCache(tableDesc, extTableSnapshot);
+---
+>         if (extLookupTableCache == null) {            return getExtLookupTableWithoutCache(tableDesc, extTableSnapshot);

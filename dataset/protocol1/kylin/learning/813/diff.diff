@@ -1,0 +1,4 @@
+45c45
+<         logger.info("Cuboid " + cuboidId + " output takes " + (System.currentTimeMillis() - startTime) + "ms");
+---
+>         logger.info("Cuboid " + cuboidId + 	" output takes " + (System.currentTimeMillis() - startTime) + "ms");

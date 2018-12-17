@@ -1,0 +1,4 @@
+76c76
+<             write(dout);
+---
+>             	write(dout);

@@ -1,0 +1,4 @@
+126c126
+<     public String getKafkaData() {
+---
+>     public String getKafkaData () {

@@ -1,0 +1,4 @@
+248c248
+<     public void updateNotifyList(@PathVariable String cubeName, @RequestBody List<String> notifyList) {
+---
+>     	public void updateNotifyList(@PathVariable String cubeName, @RequestBody List<String> notifyList) {

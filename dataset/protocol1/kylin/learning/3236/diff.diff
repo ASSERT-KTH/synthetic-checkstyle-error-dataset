@@ -1,0 +1,4 @@
+36c36
+<         IdentityHashMap<K, Void> mapA = new IdentityHashMap<>();
+---
+>         IdentityHashMap<K, Void	> mapA = new IdentityHashMap<>();

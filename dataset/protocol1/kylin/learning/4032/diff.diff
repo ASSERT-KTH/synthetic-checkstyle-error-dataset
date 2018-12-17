@@ -1,0 +1,5 @@
+45,46c45
+<         KylinConfig config = KylinConfig.getInstanceFromEnv();
+<         int maxEntriesPerSlice = config.getAppendDictEntrySize();
+---
+>         KylinConfig config = KylinConfig.getInstanceFromEnv();        int maxEntriesPerSlice = config.getAppendDictEntrySize();

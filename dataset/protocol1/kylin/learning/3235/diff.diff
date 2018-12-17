@@ -1,0 +1,4 @@
+83c83
+<                 tool.reset(args.length == 1 ? KylinConfig.getInstanceFromEnv() : KylinConfig.createInstanceFromUri(args[1]));
+---
+>                 tool.reset(args.length 	== 1 ? KylinConfig.getInstanceFromEnv() : KylinConfig.createInstanceFromUri(args[1]));

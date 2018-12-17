@@ -1,0 +1,4 @@
+35c35
+<         final Object o = Class.forName(className).newInstance();
+---
+>         final 	Object o = Class.forName(className).newInstance();

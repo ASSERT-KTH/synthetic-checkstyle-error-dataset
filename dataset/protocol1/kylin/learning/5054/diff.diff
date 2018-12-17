@@ -1,0 +1,5 @@
+75,76c75
+<         this.setDatabase(table.getDatabase());
+<         this.setName(table.getName());
+---
+>         this.setDatabase(table.getDatabase());        this.setName(table.getName());

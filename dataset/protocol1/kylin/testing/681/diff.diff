@@ -1,0 +1,4 @@
+30c30
+<     public static final Serializer<StringEntity> serializer = new Serializer<StringEntity>() {
+---
+>     public static final Serializer<StringEntity> serializer = new 	Serializer<StringEntity>() {

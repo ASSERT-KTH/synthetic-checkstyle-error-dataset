@@ -1,0 +1,4 @@
+210c210
+<         try (AutoLock l = lock.lockForWrite()) {
+---
+>         try (AutoLock 	l = lock.lockForWrite()) {

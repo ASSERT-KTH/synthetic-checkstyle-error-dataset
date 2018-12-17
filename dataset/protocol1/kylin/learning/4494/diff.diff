@@ -1,0 +1,4 @@
+75c75
+<             new SQLResponse(null, null, 0, true, "near 1 syntax error"), //
+---
+>             new SQLResponse(null, null, 	0, true, "near 1 syntax error"), //

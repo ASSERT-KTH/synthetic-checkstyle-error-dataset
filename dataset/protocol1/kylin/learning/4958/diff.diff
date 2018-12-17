@@ -1,0 +1,5 @@
+41,42c41
+<     public String getPath() {
+<         return path;
+---
+>     public String getPath() {        return path;

@@ -1,0 +1,4 @@
+97c97
+<         this.measureDescs = cubeDesc.getMeasures().toArray(new MeasureDesc[measureCount]);
+---
+>         this	.measureDescs = cubeDesc.getMeasures().toArray(new MeasureDesc[measureCount]);

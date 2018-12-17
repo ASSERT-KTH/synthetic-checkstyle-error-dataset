@@ -1,0 +1,5 @@
+78,79c78
+<         }
+<         System.arraycopy(bytes, offset, split.value, 0, length);
+---
+>         }        System.arraycopy(bytes, offset, split.value, 0, length);

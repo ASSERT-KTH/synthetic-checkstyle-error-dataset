@@ -1,0 +1,5 @@
+114,115c114
+<     public ExtTableSnapshotInfo getSnapshot(String snapshotResPath) {
+<         try {
+---
+>     public ExtTableSnapshotInfo getSnapshot(String snapshotResPath) {        try {

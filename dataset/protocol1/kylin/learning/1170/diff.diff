@@ -1,0 +1,5 @@
+138,139c138
+<     public boolean exists(String username) {
+<         try (AutoReadWriteLock.AutoLock l = lock.lockForRead()) {
+---
+>     public boolean exists(String username) {        try (AutoReadWriteLock.AutoLock l = lock.lockForRead()) {

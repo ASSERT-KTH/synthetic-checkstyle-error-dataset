@@ -1,0 +1,5 @@
+109,110c109
+<     public DimensionEncoding getDimEnc(int col) {
+<         if (col < dimEncs.length) {
+---
+>     public DimensionEncoding getDimEnc(int col) {        if (col < dimEncs.length) {

@@ -1,0 +1,5 @@
+164,165c164
+<             throw new IllegalArgumentException("The Cubes name does duplicate, could not create: " + duplicateCubes);
+<         }
+---
+>             throw new IllegalArgumentException("The Cubes name does duplicate, could not create: " + duplicateCubes);        }

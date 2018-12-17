@@ -1,0 +1,5 @@
+42,43c42
+<     public String getId() {
+<         return String.valueOf(this.hashCode());
+---
+>     public String getId() {        return String.valueOf(this.hashCode());

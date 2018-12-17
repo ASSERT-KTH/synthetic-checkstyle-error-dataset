@@ -1,0 +1,4 @@
+165c165
+<         return "Cube renaming is not allowed.";
+---
+>         	return "Cube renaming is not allowed.";

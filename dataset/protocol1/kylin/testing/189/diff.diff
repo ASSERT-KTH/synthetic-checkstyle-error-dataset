@@ -1,0 +1,4 @@
+166c166
+<     protected InputStream openPushdown(String resPath) throws IOException {
+---
+>     protected InputStream openPushdown (String resPath) throws IOException {

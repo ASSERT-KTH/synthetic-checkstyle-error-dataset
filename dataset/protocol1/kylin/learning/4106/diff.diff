@@ -1,0 +1,5 @@
+242,243c242
+<     public static int gcAndGetSystemAvailMB() {
+<         final int tolerance = 1;
+---
+>     public static int gcAndGetSystemAvailMB() {        final int tolerance = 1;

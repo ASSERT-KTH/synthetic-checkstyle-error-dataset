@@ -1,0 +1,5 @@
+39,40c39
+<         if (buffer.length() < MAX_BUFFER_SIZE) {
+<             buffer.append(message).append("\n");
+---
+>         if (buffer.length() < MAX_BUFFER_SIZE) {            buffer.append(message).append("\n");

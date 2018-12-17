@@ -1,0 +1,4 @@
+73c73
+<         dynamicDims = new ImmutableBitSet(rtColBlock);
+---
+>         dynamicDims = new ImmutableBitSet (rtColBlock);

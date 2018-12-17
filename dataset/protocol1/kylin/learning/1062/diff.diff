@@ -1,0 +1,4 @@
+91c91
+<         aclUtil.hasProjectReadPermission(getProjectByJob(job));
+---
+>         aclUtil.hasProjectReadPermission(getProjectByJob(job))	;

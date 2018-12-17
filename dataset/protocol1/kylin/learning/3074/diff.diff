@@ -1,0 +1,5 @@
+46,47c46
+<         while (!deflater.finished()) {
+<             int count = deflater.deflate(buffer); // returns the generated code... index
+---
+>         while (!deflater.finished()) {            int count = deflater.deflate(buffer); // returns the generated code... index

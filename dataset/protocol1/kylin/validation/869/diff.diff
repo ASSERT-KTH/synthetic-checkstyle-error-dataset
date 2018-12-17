@@ -1,0 +1,4 @@
+74c74
+<     public T1 getKey() {
+---
+>     public T1 getKey() 	{

@@ -1,0 +1,4 @@
+92c92
+<     public void setJobSearchMode(String jobSearchMode) {
+---
+>     public void setJobSearchMode(String jobSearchMode ) {

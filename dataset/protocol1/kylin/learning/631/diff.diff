@@ -1,0 +1,5 @@
+63,64c63
+<     private String getCell(int i, String[] flatRow) {
+<         if (isNull(flatRow[i]))
+---
+>     private String getCell(int i, String[] flatRow) {        if (isNull(flatRow[i]))

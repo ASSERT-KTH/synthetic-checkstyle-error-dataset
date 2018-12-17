@@ -1,0 +1,4 @@
+55c55
+<             ProjectInstance projectInstance = new ProjectInstance();
+---
+>             ProjectInstance 	projectInstance = new ProjectInstance();

@@ -1,0 +1,4 @@
+35c35
+<     public JDBCResource(String path, long timestamp, InputStream content) {
+---
+>     public JDBCResource(String path, long timestamp, InputStream content ) {

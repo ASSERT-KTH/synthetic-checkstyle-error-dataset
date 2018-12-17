@@ -1,0 +1,4 @@
+183c183
+<         return new LinkedHashSet<Map.Entry<String, String>>(properties.entrySet());
+---
+>         return 	new LinkedHashSet<Map.Entry<String, String>>(properties.entrySet());

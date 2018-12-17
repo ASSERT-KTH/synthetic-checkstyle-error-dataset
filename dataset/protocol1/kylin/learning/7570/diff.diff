@@ -1,0 +1,4 @@
+134c134
+<         return this.set.equals(other.set);
+---
+>         return this.set.equals (other.set);

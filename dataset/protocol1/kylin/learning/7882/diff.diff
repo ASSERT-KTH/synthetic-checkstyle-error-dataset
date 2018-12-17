@@ -1,0 +1,5 @@
+142,143c142
+<             Map<TblColRef, Dictionary<String>> dictionaryMap, long startOffset, long endOffset) {
+<         Map<TblColRef, Dictionary<String>> realDictMap = Maps.newHashMap();
+---
+>             Map<TblColRef, Dictionary<String>> dictionaryMap, long startOffset, long endOffset) {        Map<TblColRef, Dictionary<String>> realDictMap = Maps.newHashMap();

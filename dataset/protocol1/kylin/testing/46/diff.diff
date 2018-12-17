@@ -1,0 +1,4 @@
+31c31
+<     public static final org.slf4j.Logger logger = LoggerFactory.getLogger(LoggableCachedThreadPool.class);
+---
+>     public static final org	.slf4j.Logger logger = LoggerFactory.getLogger(LoggableCachedThreadPool.class);

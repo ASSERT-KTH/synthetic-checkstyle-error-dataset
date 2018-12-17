@@ -1,0 +1,4 @@
+90c90
+<         Set<String> allIdentifiers = getAllIdentifiersInPrj(prj, type);
+---
+>         Set<String	> allIdentifiers = getAllIdentifiersInPrj(prj, type);

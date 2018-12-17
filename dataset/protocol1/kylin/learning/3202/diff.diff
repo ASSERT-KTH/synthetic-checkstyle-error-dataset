@@ -1,0 +1,4 @@
+65c65
+<             collectValue(col, splits[offset].array(), splits[offset].offset(), splits[offset].length());
+---
+>             collectValue(col, splits[offset].array(), splits[offset].offset (), splits[offset].length());

@@ -1,0 +1,4 @@
+50c50
+<         this.message = message;
+---
+>         	this.message = message;

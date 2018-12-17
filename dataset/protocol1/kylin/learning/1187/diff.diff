@@ -1,0 +1,4 @@
+34c34
+<     public int peekLength(ByteBuffer in) {
+---
+>     public int peekLength (ByteBuffer in) {

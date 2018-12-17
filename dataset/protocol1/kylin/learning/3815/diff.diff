@@ -1,0 +1,5 @@
+68,69c68
+<             return envRes;
+<         } catch (ConfigurationException | UnsupportedEncodingException e) {
+---
+>             return envRes;        } catch (ConfigurationException | UnsupportedEncodingException e) {

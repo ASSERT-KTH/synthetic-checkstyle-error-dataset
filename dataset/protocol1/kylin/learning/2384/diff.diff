@@ -1,0 +1,5 @@
+30,31c30
+<     private int regionCount;
+<     private long dateRangeStart;
+---
+>     private int regionCount;    private long dateRangeStart;

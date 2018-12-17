@@ -1,0 +1,5 @@
+70,71c70
+<         String json = in.readUTF();
+<         SnapshotTable obj = JsonUtil.readValue(json, SnapshotTable.class);
+---
+>         String json = in.readUTF();        SnapshotTable obj = JsonUtil.readValue(json, SnapshotTable.class);

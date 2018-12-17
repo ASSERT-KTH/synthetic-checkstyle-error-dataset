@@ -1,0 +1,4 @@
+32c32
+< public class HBaseColumnDesc implements java.io.Serializable {
+---
+> public class HBaseColumnDesc implements java	.io.Serializable {

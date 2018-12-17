@@ -1,0 +1,4 @@
+43c43
+<     @JsonProperty("size_kb")
+---
+>     @JsonProperty("size_kb" )

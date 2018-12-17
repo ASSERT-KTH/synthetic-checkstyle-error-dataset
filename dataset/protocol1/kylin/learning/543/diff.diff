@@ -1,0 +1,4 @@
+86c86
+<             jobInstanceList = jobService.searchJobsV2(jobRequest.getCubeName(), jobRequest.getProjectName(), statusList,
+---
+>             jobInstanceList = jobService.searchJobsV2(jobRequest.	getCubeName(), jobRequest.getProjectName(), statusList,

@@ -1,0 +1,4 @@
+54c54
+<         String baseDir = hdfsDir + "resources/SegmentDict" + dictInfo.getResourceDir() + "/"
+---
+>         String baseDir = hdfsDir + "resources/SegmentDict" + dictInfo.getResourceDir() 	+ "/"

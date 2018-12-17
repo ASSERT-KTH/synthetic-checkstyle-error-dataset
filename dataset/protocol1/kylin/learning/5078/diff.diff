@@ -1,0 +1,4 @@
+172c172
+<         Properties props = new Properties();
+---
+>         Properties props 	= new Properties();

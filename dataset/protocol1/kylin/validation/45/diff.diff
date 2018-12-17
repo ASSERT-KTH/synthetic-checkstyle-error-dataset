@@ -1,0 +1,4 @@
+43c43
+<         Thread.currentThread().setName(String.format(Locale.ROOT, format, args) + "-" + Thread.currentThread().getId());
+---
+>         Thread.currentThread().setName(String.format(Locale.ROOT, format,args) + "-" + Thread.currentThread().getId());

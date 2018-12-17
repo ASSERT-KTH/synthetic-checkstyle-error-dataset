@@ -1,0 +1,5 @@
+62,63c62
+<         if (limit == null || offset == null) {
+<             return kafkaConfigs;
+---
+>         if (limit == null || offset == null) {            return kafkaConfigs;

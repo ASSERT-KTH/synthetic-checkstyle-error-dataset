@@ -1,0 +1,4 @@
+47c47
+<             int position = 0;
+---
+>             int position = 	0;

@@ -1,0 +1,5 @@
+123,124c123
+<                 logger.info("cleaning cache for project " + project + " (currently remove all entries)");
+<                 cacheManager.getCache(QueryService.QUERY_CACHE).removeAll();
+---
+>                 logger.info("cleaning cache for project " + project + " (currently remove all entries)");                cacheManager.getCache(QueryService.QUERY_CACHE).removeAll();

@@ -1,0 +1,4 @@
+43c43
+<     final private Map<TblColRef, Dictionary<String>> dictionaryMap;
+---
+>     	final private Map<TblColRef, Dictionary<String>> dictionaryMap;

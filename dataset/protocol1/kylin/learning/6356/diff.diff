@@ -1,0 +1,4 @@
+159c159
+<         DeleteHTableRunnable(HBaseAdmin hbaseAdmin, String htableName) {
+---
+>         DeleteHTableRunnable(HBaseAdmin hbaseAdmin, String htableName) 	{

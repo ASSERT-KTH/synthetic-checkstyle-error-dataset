@@ -1,0 +1,4 @@
+124c124
+<         return "{" + getFirst() + "," + getSecond() + "}";
+---
+>         return 	"{" + getFirst() + "," + getSecond() + "}";

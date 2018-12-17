@@ -1,0 +1,5 @@
+45,46c45
+<         Iterator<T> iterator = v.iterator();
+<         T max = iterator.next();
+---
+>         Iterator<T> iterator = v.iterator();        T max = iterator.next();

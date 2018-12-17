@@ -1,0 +1,4 @@
+72c72
+<     public void setEnableLocalCache(boolean enableLocalCache) {
+---
+>     public void setEnableLocalCache(boolean 	enableLocalCache) {

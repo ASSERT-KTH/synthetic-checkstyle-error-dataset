@@ -1,0 +1,4 @@
+123c123
+<                 if (returnBegin == null || returnComp.compare(returnValue, returnBegin) < 0) {
+---
+>                 if (returnBegin 	== null || returnComp.compare(returnValue, returnBegin) < 0) {

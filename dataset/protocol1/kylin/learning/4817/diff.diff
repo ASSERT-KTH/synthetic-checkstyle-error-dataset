@@ -1,0 +1,4 @@
+50c50
+<     public final static String SERVER_MODE_JOB = "job";
+---
+>     public final static 	String SERVER_MODE_JOB = "job";

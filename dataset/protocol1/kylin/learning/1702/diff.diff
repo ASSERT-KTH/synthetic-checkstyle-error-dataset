@@ -1,0 +1,4 @@
+50c50
+<         return name != null ? name.equals(that.name) : that.name == null;
+---
+>         return 	name != null ? name.equals(that.name) : that.name == null;

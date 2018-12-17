@@ -1,0 +1,4 @@
+99c99
+<                 if (tmpHqlPath != null && logger.isDebugEnabled()) {
+---
+>                 if (tmpHqlPath != null && logger.isDebugEnabled()) 	{

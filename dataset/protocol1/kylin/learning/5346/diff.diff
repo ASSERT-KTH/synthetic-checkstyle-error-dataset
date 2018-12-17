@@ -1,0 +1,5 @@
+63,64c63
+<         Object[] dimensions = kvBuilder.buildKey(row);
+<         Object[] metricsValues = buildValue(row);
+---
+>         Object[] dimensions = kvBuilder.buildKey(row);        Object[] metricsValues = buildValue(row);

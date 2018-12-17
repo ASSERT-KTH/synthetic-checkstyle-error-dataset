@@ -1,0 +1,4 @@
+40c40
+<             T r = serializer.deserialize(din);
+---
+>             	T r = serializer.deserialize(din);

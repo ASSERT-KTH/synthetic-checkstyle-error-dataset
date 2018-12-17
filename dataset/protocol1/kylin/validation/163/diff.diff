@@ -1,0 +1,4 @@
+100c100
+<             Collection<ColumnRange> andRanges = translateToAndDimRanges(andFilter.getChildren());
+---
+>             Collection<ColumnRange> andRanges = translateToAndDimRanges(andFilter.getChildren())	;

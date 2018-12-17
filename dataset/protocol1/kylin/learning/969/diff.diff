@@ -1,0 +1,4 @@
+95c95
+<         this.inputRecordCnt = super.getInputRecordCount();
+---
+>         this.inputRecordCnt = super.	getInputRecordCount();

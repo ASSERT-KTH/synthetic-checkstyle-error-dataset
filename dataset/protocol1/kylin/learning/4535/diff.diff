@@ -1,0 +1,4 @@
+140c140
+<         if (!super.equals(obj))
+---
+>         if 	(!super.equals(obj))

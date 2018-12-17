@@ -1,0 +1,4 @@
+38c38
+<     CacheState getCacheState(ExtTableSnapshotInfo extTableSnapshotInfo);
+---
+>     CacheState getCacheState( ExtTableSnapshotInfo extTableSnapshotInfo);

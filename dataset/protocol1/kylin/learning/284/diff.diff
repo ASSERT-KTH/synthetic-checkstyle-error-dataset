@@ -1,0 +1,5 @@
+150,151c150
+<             int colLength = colIO.getColumnLength(column);
+<             fillColumnValue(column, colLength, values[i], bytes, offset);
+---
+>             int colLength = colIO.getColumnLength(column);            fillColumnValue(column, colLength, values[i], bytes, offset);

@@ -1,0 +1,4 @@
+34c34
+< public class IdentifierFileResourceStore extends FileResourceStore {
+---
+> public class IdentifierFileResourceStore extends 	FileResourceStore {

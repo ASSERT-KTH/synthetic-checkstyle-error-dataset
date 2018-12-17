@@ -1,0 +1,5 @@
+51c51,52
+<         DataModelManager metaManager = DataModelManager.getInstance(KylinConfig.getInstanceFromEnv());
+---
+>         DataModelManager metaManager = DataModelManager.getInstance(KylinConfig.getInstanceFromEnv
+> ());

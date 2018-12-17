@@ -1,0 +1,4 @@
+169c169
+<         Set<String> cols = new TreeSet<>(String.CASE_INSENSITIVE_ORDER);
+---
+>         Set<String> cols = new TreeSet<>(String.	CASE_INSENSITIVE_ORDER);

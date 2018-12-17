@@ -1,0 +1,4 @@
+53c53
+<         if (reuseColumn != null) {
+---
+>         if (reuseColumn 	!= null) {

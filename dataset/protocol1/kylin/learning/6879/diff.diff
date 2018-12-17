@@ -1,0 +1,4 @@
+204c204
+<                 if (!checkAllColumnsInTableDesc(lookupTable, newTableDesc)) {
+---
+>                 if (!	checkAllColumnsInTableDesc(lookupTable, newTableDesc)) {

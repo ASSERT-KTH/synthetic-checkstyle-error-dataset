@@ -1,0 +1,5 @@
+650,651c650
+<                     preparedContext = createPreparedContext(sqlRequest.getProject(), sqlRequest.getSql());
+<                 }
+---
+>                     preparedContext = createPreparedContext(sqlRequest.getProject(), sqlRequest.getSql());                }

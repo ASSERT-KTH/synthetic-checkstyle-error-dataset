@@ -1,0 +1,4 @@
+320c320
+<                             n = memPart.write(bytes, offset, length, writeOffset);
+---
+>                             n = memPart.write(bytes, offset, 	length, writeOffset);

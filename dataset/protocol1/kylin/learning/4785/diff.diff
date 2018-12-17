@@ -1,0 +1,5 @@
+103,104c103
+<     public JoinDesc getJoin() {
+<         return join;
+---
+>     public JoinDesc getJoin() {        return join;

@@ -1,0 +1,5 @@
+435,436c435
+<     public void deleteJobOutput(String uuid) throws PersistentException {
+<         try {
+---
+>     public void deleteJobOutput(String uuid) throws PersistentException {        try {

@@ -1,0 +1,4 @@
+39c39
+<         return buffer.remaining();
+---
+>         return buffer.	remaining();

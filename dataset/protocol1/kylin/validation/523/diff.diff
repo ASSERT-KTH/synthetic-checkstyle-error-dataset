@@ -1,0 +1,4 @@
+166c166
+<     public void batchGrant(@PathVariable String type, @PathVariable String uuid,
+---
+>     public void batchGrant (@PathVariable String type, @PathVariable String uuid,

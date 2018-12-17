@@ -1,0 +1,4 @@
+34c34
+<         final String className = args[1];
+---
+>         final String className = args[1]	;

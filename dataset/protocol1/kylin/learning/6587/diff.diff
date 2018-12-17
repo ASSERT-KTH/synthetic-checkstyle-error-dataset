@@ -1,0 +1,4 @@
+556c556
+<             return metastoreBigCellHdfsDirectory + "resources-jdbc";
+---
+>             return metastoreBigCellHdfsDirectory + 	"resources-jdbc";

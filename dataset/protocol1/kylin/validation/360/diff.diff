@@ -1,0 +1,4 @@
+184c184
+<         if (column != null ? !column.equals(that.column) : that.column != null) {
+---
+>         if (column != null ? !column.equals(that.	column) : that.column != null) {

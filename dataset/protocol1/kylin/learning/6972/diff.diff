@@ -1,0 +1,4 @@
+128c128
+<         List<CubeInstance> cubeInstances = cubeService.listAllCubes(cubeName, projectName, null, true);
+---
+>         List<CubeInstance> cubeInstances = cubeService.listAllCubes(cubeName, 	projectName, null, true);

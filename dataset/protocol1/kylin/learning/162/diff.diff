@@ -1,0 +1,4 @@
+644c644
+<             jobIdList.add(taskForCheck.getId());
+---
+>             jobIdList.add(taskForCheck.getId())	;

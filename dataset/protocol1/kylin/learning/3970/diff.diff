@@ -1,0 +1,5 @@
+41,42c41
+<     private static final Logger logger = LoggerFactory.getLogger(JDBCConnectionManager.class);
+<     private static final String PASSWORD = "password";
+---
+>     private static final Logger logger = LoggerFactory.getLogger(JDBCConnectionManager.class);    private static final String PASSWORD = "password";

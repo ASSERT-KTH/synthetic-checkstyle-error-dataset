@@ -1,0 +1,5 @@
+44,45c44
+<     public boolean isNeedProfile() {
+<         return needProfile;
+---
+>     public boolean isNeedProfile() {        return needProfile;

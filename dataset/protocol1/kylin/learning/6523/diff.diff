@@ -1,0 +1,4 @@
+30c30
+< import org.apache.kylin.metadata.model.ISegment;
+---
+> import org.	apache.kylin.metadata.model.ISegment;

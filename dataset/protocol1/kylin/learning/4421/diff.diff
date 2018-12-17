@@ -1,0 +1,4 @@
+43c43
+<         result.put(cuboidResult.cuboidId, cuboidResult);
+---
+>         	result.put(cuboidResult.cuboidId, cuboidResult);

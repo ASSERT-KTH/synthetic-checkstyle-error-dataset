@@ -1,0 +1,5 @@
+64,65c64
+<             DatabaseMetaData mdm = conn.getMetaData();
+<             logger.info("Connected to {0} {1}", mdm.getDatabaseProductName(), mdm.getDatabaseProductVersion());
+---
+>             DatabaseMetaData mdm = conn.getMetaData();            logger.info("Connected to {0} {1}", mdm.getDatabaseProductName(), mdm.getDatabaseProductVersion());

@@ -1,0 +1,4 @@
+47c47
+<             final PatternedLogger patternedLogger = new PatternedLogger(logger);
+---
+>             final PatternedLogger patternedLogger = 	new PatternedLogger(logger);

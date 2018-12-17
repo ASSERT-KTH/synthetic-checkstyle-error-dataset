@@ -1,0 +1,4 @@
+40c40
+<     protected static final Logger logger = LoggerFactory.getLogger(AbstractRowKeyEncoder.class);
+---
+>     protected static final Logger logger = 	LoggerFactory.getLogger(AbstractRowKeyEncoder.class);

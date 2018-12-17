@@ -1,0 +1,4 @@
+74c74
+<         try (ByteArrayOutputStream bout = new ByteArrayOutputStream();
+---
+>         try (ByteArrayOutputStream 	bout = new ByteArrayOutputStream();

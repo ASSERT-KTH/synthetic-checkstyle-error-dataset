@@ -1,0 +1,4 @@
+79c79
+<     private void collectValue(TblColRef col, byte[] valueBytes, int offset, int length) throws IOException {
+---
+>     private void collectValue(TblColRef col, byte[] valueBytes, int offset,int length) throws IOException {

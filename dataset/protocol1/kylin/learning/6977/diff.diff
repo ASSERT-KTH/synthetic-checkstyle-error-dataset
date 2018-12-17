@@ -1,0 +1,4 @@
+69c69
+<                     format(Locale.ROOT, "Table '%s' is compatible with all existing cubes", tableName));
+---
+>                     format(Locale.ROOT, "Table '%s' is compatible with all existing cubes", tableName ));

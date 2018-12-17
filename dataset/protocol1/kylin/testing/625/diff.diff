@@ -1,0 +1,4 @@
+48c48
+<                 Thread.currentThread().interrupt(); // ignore/reset
+---
+>                 Thread	.currentThread().interrupt(); // ignore/reset

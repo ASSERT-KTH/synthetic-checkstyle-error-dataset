@@ -1,0 +1,5 @@
+86,87c86
+<     public GeneralResponse getPublicConfig() throws IOException {
+<         final String config = adminService.getPublicConfig();
+---
+>     public GeneralResponse getPublicConfig() throws IOException {        final String config = adminService.getPublicConfig();

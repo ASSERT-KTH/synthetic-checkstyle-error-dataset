@@ -1,0 +1,4 @@
+267c267
+<         return (isNegativeVInt(firstByte) ? (i ^ -1L) : i);
+---
+>         return (isNegativeVInt( firstByte) ? (i ^ -1L) : i);

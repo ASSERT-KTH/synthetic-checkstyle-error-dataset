@@ -1,0 +1,4 @@
+334c334
+<     final public <T extends RootPersistentEntity> long putBigResource(String resPath, T obj, long ts,
+---
+>     final public <T extends RootPersistentEntity	> long putBigResource(String resPath, T obj, long ts,

@@ -1,0 +1,4 @@
+386c386
+<         TableDesc tableDesc = getTableManager().getTableDesc(tableName, project);
+---
+>         TableDesc 	tableDesc = getTableManager().getTableDesc(tableName, project);

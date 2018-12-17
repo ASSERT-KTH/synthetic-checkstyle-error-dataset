@@ -1,0 +1,5 @@
+98,99c98
+<     public void checkProjectOperationPermission(JobInstance job) {
+<         aclUtil.hasProjectOperationPermission(getProjectByJob(job));
+---
+>     public void checkProjectOperationPermission(JobInstance job) {        aclUtil.hasProjectOperationPermission(getProjectByJob(job));

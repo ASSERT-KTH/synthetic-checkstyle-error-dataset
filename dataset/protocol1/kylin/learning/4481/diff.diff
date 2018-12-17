@@ -1,0 +1,4 @@
+71c71
+<         int month = calendar.get(Calendar.MONTH);
+---
+>         int month = calendar.get( Calendar.MONTH);

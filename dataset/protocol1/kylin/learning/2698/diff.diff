@@ -1,0 +1,4 @@
+49c49
+<             for (GrantedAuthority auth : user.getAuthorities()) {
+---
+>             for (GrantedAuthority auth : user.getAuthorities ()) {

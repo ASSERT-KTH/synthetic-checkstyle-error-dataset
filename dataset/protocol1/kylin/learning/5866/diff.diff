@@ -1,0 +1,4 @@
+45c45
+< import org.apache.http.impl.conn.PoolingClientConnectionManager;
+---
+> import org.apache.http.impl.conn.PoolingClientConnectionManager	;

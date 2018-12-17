@@ -1,0 +1,4 @@
+18c18
+< package org.apache.kylin.common.persistence;
+---
+> package org.apache.	kylin.common.persistence;

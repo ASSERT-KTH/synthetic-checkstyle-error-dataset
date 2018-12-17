@@ -1,0 +1,4 @@
+59c59
+<         for (Object o : array) {
+---
+>         for (Object o : array) 	{

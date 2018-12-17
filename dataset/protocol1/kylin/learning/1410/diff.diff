@@ -1,0 +1,5 @@
+62,63c62
+<             return new String(Base64.encodeBase64(signature), "UTF-8");
+<         } catch (Exception e) {
+---
+>             return new String(Base64.encodeBase64(signature), "UTF-8");        } catch (Exception e) {

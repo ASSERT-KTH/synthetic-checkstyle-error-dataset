@@ -1,0 +1,5 @@
+29c29,30
+< public interface Serializer<T extends RootPersistentEntity> {
+---
+> public interface Serializer<T extends RootPersistentEntity> 
+> {

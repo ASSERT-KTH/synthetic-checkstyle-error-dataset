@@ -1,0 +1,4 @@
+525c525
+<         for (int i = 0; i < job.getTasks().size(); ++i) {
+---
+>         for (int i = 0; 	i < job.getTasks().size(); ++i) {

@@ -1,0 +1,4 @@
+722c722
+<                 throw new IllegalStateException("No resource found at -- " + path);
+---
+>                 throw new IllegalStateException("No resource found at -- " 	+ path);

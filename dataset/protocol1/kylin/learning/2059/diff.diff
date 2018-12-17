@@ -1,0 +1,4 @@
+41c41
+<     public PersistentException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+---
+>     public PersistentException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) 	{

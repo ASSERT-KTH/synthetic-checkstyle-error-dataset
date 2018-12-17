@@ -1,0 +1,5 @@
+29,30c29
+<     public Log4jConfigListener() {
+<         this.isDebugTomcat = KylinConfig.getInstanceFromEnv().isDevEnv();
+---
+>     public Log4jConfigListener() {        this.isDebugTomcat = KylinConfig.getInstanceFromEnv().isDevEnv();

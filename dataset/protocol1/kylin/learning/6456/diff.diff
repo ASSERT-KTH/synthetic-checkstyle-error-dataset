@@ -1,0 +1,4 @@
+66c66
+<     public abstract AppendDictSlice readSlice(String workingDir, String sliceFileName) throws IOException;
+---
+>     public abstract AppendDictSlice readSlice(String workingDir	, String sliceFileName) throws IOException;

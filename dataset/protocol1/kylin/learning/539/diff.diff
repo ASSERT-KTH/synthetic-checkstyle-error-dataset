@@ -1,0 +1,5 @@
+417c417,418
+<             return lastChunk == null ? 0 : lastChunk.tailOffset();
+---
+>             return lastChunk == null ? 0 : lastChunk.tailOffset
+> ();

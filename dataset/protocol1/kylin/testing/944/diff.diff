@@ -1,0 +1,4 @@
+87c87
+<                 ExtTableSnapshotInfoManager.logger.info("Snapshot with resource path " + notification.getKey()
+---
+>                 ExtTableSnapshotInfoManager.logger.info("Snapshot with resource path " + notification.getKey ()

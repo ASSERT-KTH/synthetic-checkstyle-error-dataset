@@ -1,0 +1,4 @@
+57c57
+<         setFilterCondition(dataModelDesc.getFilterCondition());
+---
+>         setFilterCondition (dataModelDesc.getFilterCondition());

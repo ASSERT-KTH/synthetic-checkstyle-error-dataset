@@ -1,0 +1,4 @@
+78c78
+<         queryLatency = registry.newRate("QueryLatency", "", true);
+---
+>         queryLatency = registry.newRate("QueryLatency", 	"", true);

@@ -1,0 +1,5 @@
+36,37c36
+<     public String getLookupTableName() {
+<         return lookupTableName;
+---
+>     public String getLookupTableName() {        return lookupTableName;

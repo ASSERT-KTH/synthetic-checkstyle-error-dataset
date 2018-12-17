@@ -1,0 +1,5 @@
+62,63c62
+<     public int compareTo(AppendDictSliceKey that) {
+<         return Bytes.compareTo(key, that.key);
+---
+>     public int compareTo(AppendDictSliceKey that) {        return Bytes.compareTo(key, that.key);

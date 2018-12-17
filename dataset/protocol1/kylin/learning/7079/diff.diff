@@ -1,0 +1,5 @@
+71,72c71
+<         for (HTableDescriptor desc : tableDescriptors) {
+<             String host = desc.getValue(IRealizationConstants.HTableTag);
+---
+>         for (HTableDescriptor desc : tableDescriptors) {            String host = desc.getValue(IRealizationConstants.HTableTag);

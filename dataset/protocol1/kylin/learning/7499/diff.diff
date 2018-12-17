@@ -1,0 +1,4 @@
+70c70
+<             throw new RuntimeException(msg.getGET_ENV_CONFIG_FAIL(), e);
+---
+>             throw new RuntimeException(msg.getGET_ENV_CONFIG_FAIL(), 	e);

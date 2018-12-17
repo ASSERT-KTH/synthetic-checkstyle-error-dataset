@@ -1,0 +1,5 @@
+117,118c117
+<                 for (Pair<String, AclPermission> p : acl) {
+<                     PrincipalSid sid = new PrincipalSid(p.getFirst());
+---
+>                 for (Pair<String, AclPermission> p : acl) {                    PrincipalSid sid = new PrincipalSid(p.getFirst());

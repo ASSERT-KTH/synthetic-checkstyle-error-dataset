@@ -1,0 +1,5 @@
+31,32c31
+<         List<String> list = new ArrayList<String>();
+<         int index = 0, offset = 0;
+---
+>         List<String> list = new ArrayList<String>();        int index = 0, offset = 0;

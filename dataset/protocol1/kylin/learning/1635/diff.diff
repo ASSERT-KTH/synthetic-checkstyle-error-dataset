@@ -1,0 +1,4 @@
+79c79
+<             @JsonProperty boolean defaultPassword, @JsonProperty boolean locked, @JsonProperty long lockedTime,
+---
+>             @JsonProperty boolean defaultPassword, @JsonProperty boolean locked, 	@JsonProperty long lockedTime,

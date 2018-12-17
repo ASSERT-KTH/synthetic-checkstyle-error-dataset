@@ -1,0 +1,4 @@
+433c433
+<     abstract protected long checkAndPutResourceImpl(String resPath, byte[] content, long oldTS, long newTS)
+---
+>     abstract protected long checkAndPutResourceImpl(String resPath, byte[] content, long oldTS, 	long newTS)

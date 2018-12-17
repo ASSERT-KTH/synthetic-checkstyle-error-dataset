@@ -1,0 +1,5 @@
+260,261c260
+<         void addChild(long childId, int parentlevel) {
+<             this.children.add(new TreeNode(childId, parentlevel + 1));
+---
+>         void addChild(long childId, int parentlevel) {            this.children.add(new TreeNode(childId, parentlevel + 1));

@@ -1,0 +1,5 @@
+214,215c214
+<                 serverHostname = InetAddress.getLocalHost().getHostName();
+<             } catch (UnknownHostException e) {
+---
+>                 serverHostname = InetAddress.getLocalHost().getHostName();            } catch (UnknownHostException e) {

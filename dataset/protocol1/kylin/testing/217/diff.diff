@@ -1,0 +1,4 @@
+30c30
+< import org.apache.kylin.cube.CubeInstance;
+---
+> import org	.apache.kylin.cube.CubeInstance;

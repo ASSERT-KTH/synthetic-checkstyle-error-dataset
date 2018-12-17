@@ -1,0 +1,4 @@
+69c69
+<         String passwordTxt = args[0];
+---
+>         String passwordTxt = args	[0];

@@ -1,0 +1,4 @@
+76c76
+<         Arrays.fill(bytes, offset, headerLength, RowConstants.BYTE_ZERO);
+---
+>         	Arrays.fill(bytes, offset, headerLength, RowConstants.BYTE_ZERO);

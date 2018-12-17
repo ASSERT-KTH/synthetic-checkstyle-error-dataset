@@ -1,0 +1,4 @@
+100c100
+<             if (isTokenWiseEqual(tokens, tableauTestQueriesInToken.get(i))) {
+---
+>             if (isTokenWiseEqual(tokens	, tableauTestQueriesInToken.get(i))) {

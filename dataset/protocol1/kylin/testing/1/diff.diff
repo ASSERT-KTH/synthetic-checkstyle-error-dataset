@@ -1,0 +1,5 @@
+96,97c96
+<     public static <T> T readValueWithTyping(InputStream src, Class<T> valueType) throws IOException {
+<         return typeMapper.readValue(src, valueType);
+---
+>     public static <T> T readValueWithTyping(InputStream src, Class<T> valueType) throws IOException {        return typeMapper.readValue(src, valueType);

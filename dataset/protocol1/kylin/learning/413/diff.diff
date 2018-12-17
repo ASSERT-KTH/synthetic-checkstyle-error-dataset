@@ -1,0 +1,4 @@
+106c106
+<                 ILookupTable table = cubeMgr.getLookupTable(cubeSeg, join);
+---
+>                 ILookupTable table = cubeMgr.getLookupTable( cubeSeg, join);

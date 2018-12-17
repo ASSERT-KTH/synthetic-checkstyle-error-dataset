@@ -1,0 +1,4 @@
+26c26
+< public class BufferedLogger implements Logger {
+---
+> public 	class BufferedLogger implements Logger {

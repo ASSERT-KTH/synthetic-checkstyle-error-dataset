@@ -1,0 +1,4 @@
+41c41
+<     public void collectAndNotify(CuboidResult cuboidResult) {
+---
+>     public 	void collectAndNotify(CuboidResult cuboidResult) {

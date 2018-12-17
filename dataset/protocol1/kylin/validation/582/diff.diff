@@ -1,0 +1,4 @@
+41c41
+<         List<T> result = new ArrayList<T>(sampleNumber);
+---
+>         List<T> result = new ArrayList	<T>(sampleNumber);

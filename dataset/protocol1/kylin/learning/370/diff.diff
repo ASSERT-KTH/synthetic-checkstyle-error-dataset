@@ -1,0 +1,4 @@
+85c85
+<         result = prime * result + ((sql == null) ? 0 : sql.hashCode());
+---
+>         result = prime * result + ((sql == null ) ? 0 : sql.hashCode());

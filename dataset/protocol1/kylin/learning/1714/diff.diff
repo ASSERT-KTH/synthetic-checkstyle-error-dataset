@@ -1,0 +1,4 @@
+783c783
+<                         JDBCTableMeta.getString(4), JDBCTableMeta.getString(5), null, null, null, null, null);
+---
+>                         JDBCTableMeta.getString(4), JDBCTableMeta.getString( 5), null, null, null, null, null);

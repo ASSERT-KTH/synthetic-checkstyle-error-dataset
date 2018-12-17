@@ -1,0 +1,4 @@
+48c48
+<     transient private int sizeOfId;
+---
+>     transient private 	int sizeOfId;

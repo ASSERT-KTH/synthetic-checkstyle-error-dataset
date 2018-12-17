@@ -1,0 +1,5 @@
+134,135c134
+<             result = 31 * result + (realizationSignatureSet != null ? realizationSignatureSet.hashCode() : 0);
+<             return result;
+---
+>             result = 31 * result + (realizationSignatureSet != null ? realizationSignatureSet.hashCode() : 0);            return result;

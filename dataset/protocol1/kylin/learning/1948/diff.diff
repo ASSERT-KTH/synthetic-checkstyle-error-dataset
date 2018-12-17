@@ -1,0 +1,5 @@
+76,77c76
+<             if (enableDimCap) {
+<                 if (cubeDesc.getAllCuboids().size() != cuboidSet.size()) {
+---
+>             if (enableDimCap) {                if (cubeDesc.getAllCuboids().size() != cuboidSet.size()) {

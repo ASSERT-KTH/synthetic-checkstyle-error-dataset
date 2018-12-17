@@ -1,0 +1,4 @@
+29c29
+<     public static final Logger logger = LoggerFactory.getLogger(CheckUtil.class);
+---
+>     public static final Logger 	logger = LoggerFactory.getLogger(CheckUtil.class);

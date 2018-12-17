@@ -1,0 +1,5 @@
+50,51c50
+<         try {
+<             Class signatureClass = getSignatureClass(project.getConfig());
+---
+>         try {            Class signatureClass = getSignatureClass(project.getConfig());

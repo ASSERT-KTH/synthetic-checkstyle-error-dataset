@@ -1,0 +1,4 @@
+18c18
+< package org.apache.kylin.common.util;
+---
+> package org.apache.kylin	.common.util;

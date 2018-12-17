@@ -1,0 +1,4 @@
+111c111
+<             return new RawResource(resPath, f.lastModified(), new FileInputStream(f));
+---
+>             return new 	RawResource(resPath, f.lastModified(), new FileInputStream(f));

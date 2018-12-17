@@ -1,0 +1,5 @@
+33,34c33
+<     final ConcurrentNavigableMap<Long, CuboidResult> result = new ConcurrentSkipListMap<Long, CuboidResult>();
+<     final ICuboidResultListener listener;
+---
+>     final ConcurrentNavigableMap<Long, CuboidResult> result = new ConcurrentSkipListMap<Long, CuboidResult>();    final ICuboidResultListener listener;

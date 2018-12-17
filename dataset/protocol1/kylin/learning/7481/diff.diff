@@ -1,0 +1,5 @@
+105c105,106
+<             List<ManagedUser> users = new ArrayList<>();
+---
+>             List<ManagedUser> users = new ArrayList<>
+> ();

@@ -1,0 +1,5 @@
+158,159c158
+<     public int[] getMetricsIndexes(Collection<FunctionDesc> metrics) {
+<         int[] result = new int[metrics.size()];
+---
+>     public int[] getMetricsIndexes(Collection<FunctionDesc> metrics) {        int[] result = new int[metrics.size()];

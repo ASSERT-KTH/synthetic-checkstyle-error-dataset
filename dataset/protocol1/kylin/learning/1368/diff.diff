@@ -1,0 +1,4 @@
+37c37
+<     public ForbiddenException(String message) {
+---
+>     public ForbiddenException( String message) {

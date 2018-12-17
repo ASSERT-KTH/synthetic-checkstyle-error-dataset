@@ -1,0 +1,4 @@
+87c87
+<         checkState(sliceFileMap.firstKey().equals(AppendDictSliceKey.START_KEY), "first key should be \"\", but got \"%s\"", sliceFileMap.firstKey());
+---
+>         checkState(sliceFileMap.firstKey().equals(AppendDictSliceKey.	START_KEY), "first key should be \"\", but got \"%s\"", sliceFileMap.firstKey());

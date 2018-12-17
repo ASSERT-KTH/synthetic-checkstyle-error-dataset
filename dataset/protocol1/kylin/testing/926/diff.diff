@@ -1,0 +1,5 @@
+51,52c51
+<         checkRequiredArg("model", request.getModel());
+<         checkRequiredArg("cubes", request.getCubes());
+---
+>         checkRequiredArg("model", request.getModel());        checkRequiredArg("cubes", request.getCubes());

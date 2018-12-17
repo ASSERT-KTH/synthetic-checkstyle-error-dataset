@@ -1,0 +1,4 @@
+128c128
+<         NavigableMap<Long, CuboidResult> result = buildAndCollect(
+---
+>         NavigableMap	<Long, CuboidResult> result = buildAndCollect(

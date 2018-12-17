@@ -1,0 +1,4 @@
+37c37
+<     private String tableName;
+---
+>     	private String tableName;

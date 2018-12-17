@@ -1,0 +1,4 @@
+159c159
+<         int[] result = new int[metrics.size()];
+---
+>         int[] result = new int[	metrics.size()];

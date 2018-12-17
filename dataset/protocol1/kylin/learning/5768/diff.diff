@@ -1,0 +1,5 @@
+31,32c31
+<     public static void main(String[] args) throws IOException {
+<         if ("rebuild".equals(args[0]))
+---
+>     public static void main(String[] args) throws IOException {        if ("rebuild".equals(args[0]))

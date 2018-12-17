@@ -1,0 +1,4 @@
+58c58
+<         return (str != null) ? str.toUpperCase(Locale.ROOT).hashCode() : 0;
+---
+>         return (str != null) ? str.	toUpperCase(Locale.ROOT).hashCode() : 0;

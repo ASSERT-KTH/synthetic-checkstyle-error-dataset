@@ -1,0 +1,4 @@
+106c106
+<         HybridInstance hybridInstance = HybridManager.getInstance(config).getHybridInstance(name);
+---
+>         HybridInstance hybridInstance = HybridManager.	getInstance(config).getHybridInstance(name);

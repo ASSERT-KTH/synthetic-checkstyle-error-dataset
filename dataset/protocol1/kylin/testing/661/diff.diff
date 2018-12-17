@@ -1,0 +1,4 @@
+147c147
+<         result = 31 * result + (backdoorToggles != null ? backdoorToggles.hashCode() : 0);
+---
+>         result = 31 * result + (backdoorToggles != 	null ? backdoorToggles.hashCode() : 0);

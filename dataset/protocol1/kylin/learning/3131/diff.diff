@@ -1,0 +1,5 @@
+70,71c70
+<         if (!dryRun && outLines.size() < lines.size()) {
+<             FileOutputStream os = new FileOutputStream(f);
+---
+>         if (!dryRun && outLines.size() < lines.size()) {            FileOutputStream os = new FileOutputStream(f);

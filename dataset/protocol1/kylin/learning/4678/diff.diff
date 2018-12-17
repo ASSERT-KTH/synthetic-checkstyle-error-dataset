@@ -1,0 +1,4 @@
+66c66
+<         setLastModified(cube.getDescriptor().getLastModified());
+---
+>         setLastModified(cube.getDescriptor().	getLastModified());

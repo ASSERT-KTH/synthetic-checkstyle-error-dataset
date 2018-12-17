@@ -1,0 +1,5 @@
+78,79c78
+<         }
+<         StreamingConfig streamingConfig = getStreamingManager().createStreamingConfig(config);
+---
+>         }        StreamingConfig streamingConfig = getStreamingManager().createStreamingConfig(config);

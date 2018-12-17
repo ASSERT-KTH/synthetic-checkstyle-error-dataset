@@ -1,0 +1,4 @@
+71c71
+<         ColumnDesc[] cols = tableDesc.getColumns();
+---
+>         ColumnDesc[	] cols = tableDesc.getColumns();

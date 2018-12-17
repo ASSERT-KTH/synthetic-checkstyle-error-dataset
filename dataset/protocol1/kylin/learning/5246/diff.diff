@@ -1,0 +1,5 @@
+42,43c42
+<         aclEvaluate.checkProjectAdminPermission(project);
+<         return getAllUserAuthorities();
+---
+>         aclEvaluate.checkProjectAdminPermission(project);        return getAllUserAuthorities();

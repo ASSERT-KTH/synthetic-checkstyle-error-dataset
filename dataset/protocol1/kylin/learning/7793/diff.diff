@@ -1,0 +1,5 @@
+50,51c50
+<                 serializer.serialize(obj, out);
+<                 bytesWritten += (out.size() - pos);
+---
+>                 serializer.serialize(obj, out);                bytesWritten += (out.size() - pos);

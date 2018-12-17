@@ -1,0 +1,4 @@
+95c95
+<     ErrorResponse handleBadRequest(HttpServletRequest req, Exception ex) {
+---
+>     ErrorResponse handleBadRequest(HttpServletRequest 	req, Exception ex) {

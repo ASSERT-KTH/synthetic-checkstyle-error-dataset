@@ -1,0 +1,4 @@
+36c36
+<         while (input.hasNext()) {
+---
+>         while 	(input.hasNext()) {

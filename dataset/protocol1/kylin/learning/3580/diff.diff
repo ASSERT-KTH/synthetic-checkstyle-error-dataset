@@ -1,0 +1,4 @@
+314c314
+<                     if (pattern.charAt(ii) != '?' && pattern.charAt(ii) != str.charAt(jj))
+---
+>                     if (pattern.charAt(ii) != '?' && pattern.charAt(ii) 	!= str.charAt(jj))

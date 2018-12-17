@@ -1,0 +1,5 @@
+350,351c350
+<                 for (Map.Entry<AppendDictSliceKey, String> entry : metadata.sliceFileMap.entrySet()) {
+<                     entry.getKey().write(out);
+---
+>                 for (Map.Entry<AppendDictSliceKey, String> entry : metadata.sliceFileMap.entrySet()) {                    entry.getKey().write(out);

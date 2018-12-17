@@ -1,0 +1,4 @@
+88c88
+<         logger.debug("Update Kylin Runtime Config, key=" + key + ", value=" + value);
+---
+>         logger.debug("Update Kylin Runtime Config, key=" + key + ", value=" 	+ value);

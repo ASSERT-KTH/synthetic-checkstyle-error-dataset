@@ -1,0 +1,5 @@
+1318,1319c1318
+<     public static int hashBytes(byte[] bytes, int offset, int length) {
+<         return hashCode(bytes, offset, length);
+---
+>     public static int hashBytes(byte[] bytes, int offset, int length) {        return hashCode(bytes, offset, length);

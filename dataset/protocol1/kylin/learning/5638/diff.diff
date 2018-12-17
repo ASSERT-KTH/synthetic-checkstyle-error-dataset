@@ -1,0 +1,4 @@
+340c340
+<             if (agg.isMandatoryOnlyValid()) {
+---
+>             if 	(agg.isMandatoryOnlyValid()) {

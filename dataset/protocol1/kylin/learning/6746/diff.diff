@@ -1,0 +1,4 @@
+70c70
+<             return (UserDetails) authentication.getDetails();
+---
+>             return (	UserDetails) authentication.getDetails();

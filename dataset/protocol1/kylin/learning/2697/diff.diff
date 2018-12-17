@@ -1,0 +1,5 @@
+39,40c39
+<             try {
+<                 input = props.getClass().getResourceAsStream(key);
+---
+>             try {                input = props.getClass().getResourceAsStream(key);

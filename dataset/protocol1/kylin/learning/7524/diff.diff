@@ -1,0 +1,5 @@
+862,863c862
+<         CubeInstance cube = cubeService.getCubeManager().getCube(cubeName);
+<         Map<Long, Long> recommendCuboidStatsMap = getRecommendCuboidList(cube);
+---
+>         CubeInstance cube = cubeService.getCubeManager().getCube(cubeName);        Map<Long, Long> recommendCuboidStatsMap = getRecommendCuboidList(cube);

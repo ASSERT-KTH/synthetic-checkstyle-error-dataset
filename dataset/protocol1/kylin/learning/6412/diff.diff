@@ -1,0 +1,5 @@
+335c335,336
+<             throw new IOException(INVALID_RESPONSE + response.getStatusLine().getStatusCode());
+---
+>             throw new IOException(INVALID_RESPONSE + response.getStatusLine
+> ().getStatusCode());

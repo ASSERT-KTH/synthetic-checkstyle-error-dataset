@@ -1,0 +1,4 @@
+116c116
+<             if (p.isEndOfValue || p.children.size() == 0) {
+---
+>             if ( p.isEndOfValue || p.children.size() == 0) {

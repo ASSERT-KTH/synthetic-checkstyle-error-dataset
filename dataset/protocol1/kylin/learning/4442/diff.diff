@@ -1,0 +1,5 @@
+275,276c275
+<         Writer(long startOffset) {
+<             this.writeOffset = startOffset;
+---
+>         Writer(long startOffset) {            this.writeOffset = startOffset;

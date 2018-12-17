@@ -1,0 +1,4 @@
+25c25
+< public interface ChainedExecutable extends Executable {
+---
+> 	public interface ChainedExecutable extends Executable {

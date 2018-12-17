@@ -1,0 +1,4 @@
+236c236
+<                 if (checkAck(in) != 0) {
+---
+>                 if (checkAck(in) 	!= 0) {

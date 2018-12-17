@@ -1,0 +1,5 @@
+82,83c82
+<             suffix = jobType;
+<         }
+---
+>             suffix = jobType;        }

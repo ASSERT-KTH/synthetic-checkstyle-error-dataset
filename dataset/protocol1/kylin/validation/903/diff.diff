@@ -1,0 +1,4 @@
+51c51
+<     protected AbstractRowKeyEncoder(CubeSegment cubeSeg, Cuboid cuboid) {
+---
+>     protected AbstractRowKeyEncoder(CubeSegment 	cubeSeg, Cuboid cuboid) {

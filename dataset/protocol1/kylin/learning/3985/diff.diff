@@ -1,0 +1,4 @@
+260c260
+<     private static boolean scanFiles_isIncluded(String path, String[] includes, String[] excludes) {
+---
+>     private static boolean scanFiles_isIncluded(String path, String[] includes, String[] 	excludes) {

@@ -1,0 +1,4 @@
+36c36
+<     public static boolean checkSignature(KylinConfig config, SQLResponse sqlResponse, String projectName) {
+---
+>     public 	static boolean checkSignature(KylinConfig config, SQLResponse sqlResponse, String projectName) {

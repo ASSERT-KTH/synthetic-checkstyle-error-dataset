@@ -1,0 +1,4 @@
+51c51
+<     public void setSourceOffsetEnd(long sourceOffsetEnd) {
+---
+>     public void setSourceOffsetEnd(long sourceOffsetEnd ) {

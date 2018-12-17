@@ -1,0 +1,4 @@
+41c41
+<         Double sum = (double) 0;
+---
+>         	Double sum = (double) 0;

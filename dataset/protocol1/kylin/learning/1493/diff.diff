@@ -1,0 +1,5 @@
+33,34c33
+<     public static AppendDictSliceKey wrap(byte[] key) {
+<         AppendDictSliceKey dictKey = new AppendDictSliceKey();
+---
+>     public static AppendDictSliceKey wrap(byte[] key) {        AppendDictSliceKey dictKey = new AppendDictSliceKey();

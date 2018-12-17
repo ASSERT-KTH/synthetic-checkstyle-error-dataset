@@ -1,0 +1,4 @@
+350c350
+<     public void close() throws IOException {
+---
+>     public void close() 	throws IOException {

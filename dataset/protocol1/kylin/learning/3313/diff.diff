@@ -1,0 +1,4 @@
+47c47
+<                 throw new RuntimeException(String.format(Locale.ROOT, "Can't find properties named %s for metastore", key), e);
+---
+>                 throw new RuntimeException(String.format(Locale.ROOT, "Can't find properties named %s for metastore", key)	, e);

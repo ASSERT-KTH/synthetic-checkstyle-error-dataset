@@ -1,0 +1,5 @@
+45,46c45
+<         this.stacktrace = Throwables.getStackTraceAsString(exception);
+<         this.data = null;
+---
+>         this.stacktrace = Throwables.getStackTraceAsString(exception);        this.data = null;

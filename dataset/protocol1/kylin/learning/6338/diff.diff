@@ -1,0 +1,4 @@
+61c61
+<         patternMap.put(PATTERN_APP_ID, new Pair(ExecutableConstants.YARN_APP_ID, 1));
+---
+>         patternMap.put(PATTERN_APP_ID,new Pair(ExecutableConstants.YARN_APP_ID, 1));

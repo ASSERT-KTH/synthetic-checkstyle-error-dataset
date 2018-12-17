@@ -1,0 +1,5 @@
+316,317c316
+<                 String converterName = in.readUTF();
+<                 BytesConverter converter;
+---
+>                 String converterName = in.readUTF();                BytesConverter converter;

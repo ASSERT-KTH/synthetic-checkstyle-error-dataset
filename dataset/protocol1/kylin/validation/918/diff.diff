@@ -1,0 +1,5 @@
+123,124c123
+<     public String toString() {
+<         return "{" + getFirst() + "," + getSecond() + "}";
+---
+>     public String toString() {        return "{" + getFirst() + "," + getSecond() + "}";

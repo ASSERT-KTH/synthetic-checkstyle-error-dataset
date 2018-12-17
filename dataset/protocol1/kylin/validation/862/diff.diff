@@ -1,0 +1,4 @@
+45c45
+< public class Cuboid implements Comparable<Cuboid>, Serializable {
+---
+> public class Cuboid implements Comparable<Cuboid>, Serializable 	{

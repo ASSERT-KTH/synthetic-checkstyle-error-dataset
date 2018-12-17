@@ -1,0 +1,5 @@
+41,42c41
+<         buf.append("kylin.version:").append(KylinVersion.getCurrentVersion()).append("\n");
+<         buf.append("commit:").append(KylinVersion.getGitCommitInfo()).append("\n");
+---
+>         buf.append("kylin.version:").append(KylinVersion.getCurrentVersion()).append("\n");        buf.append("commit:").append(KylinVersion.getGitCommitInfo()).append("\n");

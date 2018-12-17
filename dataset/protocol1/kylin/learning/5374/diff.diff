@@ -1,0 +1,4 @@
+298c298
+<             if (cuboidHolder.size() > cubeDesc.getConfig().getCubeAggrGroupMaxCombination()) {
+---
+>             if (cuboidHolder.size() > cubeDesc.	getConfig().getCubeAggrGroupMaxCombination()) {

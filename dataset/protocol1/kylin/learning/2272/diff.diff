@@ -1,0 +1,5 @@
+76,77c76
+<                         return (Permission) fieldValue;
+<                     }
+---
+>                         return (Permission) fieldValue;                    }

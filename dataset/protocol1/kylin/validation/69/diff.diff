@@ -1,0 +1,5 @@
+32c32,33
+<             return m.get(middle);
+---
+>             return m.get
+> (middle);

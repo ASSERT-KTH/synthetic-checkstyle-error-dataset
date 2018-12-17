@@ -1,0 +1,5 @@
+71,72c71
+<         ColumnDesc[] cols = tableDesc.getColumns();
+<         colIsDateTime = new boolean[cols.length];
+---
+>         ColumnDesc[] cols = tableDesc.getColumns();        colIsDateTime = new boolean[cols.length];

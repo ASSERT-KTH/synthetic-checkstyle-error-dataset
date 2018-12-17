@@ -1,0 +1,4 @@
+107c107
+<             else if (str.length() == 12 && isInputFormatDate(str, YYYYMMDDHHMM))
+---
+>             else if (str.length() == 12 && isInputFormatDate (str, YYYYMMDDHHMM))

@@ -1,0 +1,5 @@
+628,629c628
+<         FileChannel readChannel;
+<         int readerCount = 0; // allow parallel readers
+---
+>         FileChannel readChannel;        int readerCount = 0; // allow parallel readers

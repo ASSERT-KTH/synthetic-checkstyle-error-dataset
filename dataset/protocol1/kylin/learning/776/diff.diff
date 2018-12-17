@@ -1,0 +1,4 @@
+42c42
+<     protected List<List<String>> results;
+---
+>     protected List	<List<String>> results;

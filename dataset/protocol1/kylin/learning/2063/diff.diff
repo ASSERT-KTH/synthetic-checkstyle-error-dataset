@@ -1,0 +1,4 @@
+115c115
+<     public TblColRef[] getColumnRefs() {
+---
+>     public TblColRef[] getColumnRefs () {

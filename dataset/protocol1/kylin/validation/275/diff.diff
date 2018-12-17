@@ -1,0 +1,4 @@
+61c61
+<             this.defaultAuthorities.add(modelerAuthority);
+---
+>             this.defaultAuthorities.	add(modelerAuthority);

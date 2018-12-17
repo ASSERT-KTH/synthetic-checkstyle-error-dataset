@@ -1,0 +1,4 @@
+90c90
+<     public T2 getSecond() {
+---
+>     public T2 	getSecond() {

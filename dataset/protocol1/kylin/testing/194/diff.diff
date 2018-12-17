@@ -1,0 +1,4 @@
+70c70
+<     public boolean isUseDictionary(TblColRef col) {
+---
+>     public boolean isUseDictionary( TblColRef col) {

@@ -1,0 +1,4 @@
+51c51
+<         String projectName = ((CubingJob) executable).getProjectName();
+---
+>         String projectName = 	((CubingJob) executable).getProjectName();

@@ -1,0 +1,5 @@
+184c184,185
+<     private boolean updateBooking(MemoryConsumer consumer, int requestMB) {
+---
+>     private boolean updateBooking(MemoryConsumer consumer, int requestMB) 
+> {

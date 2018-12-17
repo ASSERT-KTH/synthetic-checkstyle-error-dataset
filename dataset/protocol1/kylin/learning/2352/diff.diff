@@ -1,0 +1,4 @@
+128c128
+<         ProjectInstance prj = projectService.getProjectManager().getProject(project);
+---
+>         ProjectInstance prj = projectService.getProjectManager()	.getProject(project);

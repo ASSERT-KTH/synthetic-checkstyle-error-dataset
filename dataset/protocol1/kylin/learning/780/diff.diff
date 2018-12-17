@@ -1,0 +1,4 @@
+78c78
+<                     .getSourceType() == ISourceAware.ID_STREAMING;
+---
+>                     .getSourceType() == ISourceAware.	ID_STREAMING;

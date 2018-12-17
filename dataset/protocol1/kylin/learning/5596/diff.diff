@@ -1,0 +1,4 @@
+33c33
+<     public String getDelimiter() {
+---
+>     public String getDelimiter () {

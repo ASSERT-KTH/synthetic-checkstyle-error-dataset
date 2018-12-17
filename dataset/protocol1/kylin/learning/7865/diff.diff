@@ -1,0 +1,4 @@
+231c231
+<             return (cuboidId & ~parentCuboid) == 0;
+---
+>             return (cuboidId & 	~parentCuboid) == 0;

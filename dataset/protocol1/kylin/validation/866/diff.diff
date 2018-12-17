@@ -1,0 +1,5 @@
+28,29c28
+< import org.apache.kylin.dimension.FixedLenHexDimEnc;
+< import org.apache.kylin.dimension.IntegerDimEnc;
+---
+> import org.apache.kylin.dimension.FixedLenHexDimEnc;import org.apache.kylin.dimension.IntegerDimEnc;

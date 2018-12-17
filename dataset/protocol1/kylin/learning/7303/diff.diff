@@ -1,0 +1,4 @@
+220c220
+<             logger.error("Failed to deal with the request:" + e.getLocalizedMessage(), e);
+---
+>             logger.error("Failed to deal with the request:" + e.getLocalizedMessage(),e);

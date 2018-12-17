@@ -1,0 +1,4 @@
+119c119
+<         DataType partitionColType = part.getPartitionDateColumnRef().getType();
+---
+>         DataType partitionColType = part.getPartitionDateColumnRef().	getType();

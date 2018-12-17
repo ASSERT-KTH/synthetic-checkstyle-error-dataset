@@ -1,0 +1,5 @@
+34c34,35
+<     public static String encrypt(String strToEncrypt) {
+---
+>     public static String encrypt(String strToEncrypt) 
+> {

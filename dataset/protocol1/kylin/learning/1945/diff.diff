@@ -1,0 +1,4 @@
+58c58
+<     private long lastBuildTime;
+---
+>     private long 	lastBuildTime;

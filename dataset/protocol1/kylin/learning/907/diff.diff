@@ -1,0 +1,5 @@
+90,91c90
+<         ParameterDesc param = function.getParameter();
+<         int colParamIdx = 0; // index among parameters of column type
+---
+>         ParameterDesc param = function.getParameter();        int colParamIdx = 0; // index among parameters of column type

@@ -1,0 +1,5 @@
+92c92,93
+<             result.add(Collections.<ColumnRange> emptyList());
+---
+>             result.add(Collections.<ColumnRange> emptyList
+> ());

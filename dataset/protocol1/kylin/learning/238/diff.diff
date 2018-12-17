@@ -1,0 +1,4 @@
+137c137
+<         IGTScanner scanner = req.decorateScanner(gen.generate(N));
+---
+>         IGTScanner scanner = req.decorateScanner(gen.generate(N) );

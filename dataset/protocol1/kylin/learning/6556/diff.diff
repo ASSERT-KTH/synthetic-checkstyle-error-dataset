@@ -1,0 +1,4 @@
+88c88
+<     private List<String> hiveGarbageTables = Collections.emptyList();
+---
+>     private 	List<String> hiveGarbageTables = Collections.emptyList();

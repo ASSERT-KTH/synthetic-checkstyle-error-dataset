@@ -1,0 +1,4 @@
+71c71
+<         return CubeDescManager.getInstance(getConfig());
+---
+>         return 	CubeDescManager.getInstance(getConfig());

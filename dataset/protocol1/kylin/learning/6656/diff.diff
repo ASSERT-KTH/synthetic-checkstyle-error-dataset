@@ -1,0 +1,5 @@
+165,166c165
+<     public Result append(Append append) throws IOException {
+<         throw new RuntimeException(this.getClass() + " does NOT implement this method.");
+---
+>     public Result append(Append append) throws IOException {        throw new RuntimeException(this.getClass() + " does NOT implement this method.");

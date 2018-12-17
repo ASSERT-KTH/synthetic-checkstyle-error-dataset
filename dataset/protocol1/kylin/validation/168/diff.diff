@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.dimension.DimensionEncoding;
+< import org.apache.kylin.gridtable.GTRecord;
+---
+> import org.apache.kylin.dimension.DimensionEncoding;import org.apache.kylin.gridtable.GTRecord;

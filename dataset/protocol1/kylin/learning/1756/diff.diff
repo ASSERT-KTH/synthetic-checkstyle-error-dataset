@@ -1,0 +1,4 @@
+61c61
+<     private final DiskPart diskPart;
+---
+>     private 	final DiskPart diskPart;

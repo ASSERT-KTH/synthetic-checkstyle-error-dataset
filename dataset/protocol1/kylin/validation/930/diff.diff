@@ -1,0 +1,4 @@
+193c193
+<     public byte[] getBytes() {
+---
+>     public byte[] getBytes() 	{

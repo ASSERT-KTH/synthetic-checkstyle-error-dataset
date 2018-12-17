@@ -1,0 +1,4 @@
+47c47
+<                 int j = rdm.nextInt(i);
+---
+>                 	int j = rdm.nextInt(i);

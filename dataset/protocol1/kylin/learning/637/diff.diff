@@ -1,0 +1,4 @@
+96c96
+<         for (ProjectInstance projectInstance : projectInstances) {
+---
+>         for 	(ProjectInstance projectInstance : projectInstances) {

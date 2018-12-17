@@ -1,0 +1,4 @@
+91c91
+<         return DraftManager.getInstance(getConfig());
+---
+>         return DraftManager.getInstance (getConfig());

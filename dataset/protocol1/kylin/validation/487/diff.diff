@@ -1,0 +1,4 @@
+39c39
+<     public ImplementationSwitch(Map<Integer, String> impls, Class<I> interfaceClz) {
+---
+>     public ImplementationSwitch(Map<Integer,String> impls, Class<I> interfaceClz) {

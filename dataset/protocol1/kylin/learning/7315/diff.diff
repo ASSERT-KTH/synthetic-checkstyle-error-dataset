@@ -1,0 +1,5 @@
+39,40c39
+<             int c = allColumns.trueBitAt(i);
+<             comp = comparator.compare(a.get(c), b.get(c));
+---
+>             int c = allColumns.trueBitAt(i);            comp = comparator.compare(a.get(c), b.get(c));

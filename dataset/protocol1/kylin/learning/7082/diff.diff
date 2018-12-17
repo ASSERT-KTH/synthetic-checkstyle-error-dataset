@@ -1,0 +1,5 @@
+88,89c88
+<             out.put((byte) v);
+<             mask = mask >> 8;
+---
+>             out.put((byte) v);            mask = mask >> 8;

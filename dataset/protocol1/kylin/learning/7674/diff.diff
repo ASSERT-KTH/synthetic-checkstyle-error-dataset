@@ -1,0 +1,4 @@
+66c66
+<         public void setClassName(String className) {
+---
+>         public void setClassName (String className) {

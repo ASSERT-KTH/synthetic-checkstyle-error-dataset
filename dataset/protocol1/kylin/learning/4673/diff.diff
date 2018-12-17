@@ -1,0 +1,5 @@
+61,62c61
+<     public void setContent(InputStream content) {
+<         this.content = content;
+---
+>     public void setContent(InputStream content) {        this.content = content;

@@ -1,0 +1,4 @@
+30c30
+< public class BadRequestException extends RuntimeException {
+---
+> public class BadRequestException extends RuntimeException 	{

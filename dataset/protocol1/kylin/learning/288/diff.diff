@@ -1,0 +1,5 @@
+196c196,197
+<     public GeneralResponse getSql(@PathVariable String cubeName) {
+---
+>     public GeneralResponse getSql(@PathVariable String cubeName) 
+> {

@@ -1,0 +1,4 @@
+113c113
+<     private boolean needMigrateTable(String tableName, ResourceStore store) throws IOException {
+---
+>     private 	boolean needMigrateTable(String tableName, ResourceStore store) throws IOException {

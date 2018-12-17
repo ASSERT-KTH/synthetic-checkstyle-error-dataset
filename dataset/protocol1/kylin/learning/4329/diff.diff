@@ -1,0 +1,4 @@
+33c33
+<         String key = String.format(Locale.ROOT, "/metadata-jdbc-%s.properties", dialect.toLowerCase(Locale.ROOT));
+---
+>         String key = String.format( Locale.ROOT, "/metadata-jdbc-%s.properties", dialect.toLowerCase(Locale.ROOT));

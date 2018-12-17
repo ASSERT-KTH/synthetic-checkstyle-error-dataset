@@ -1,0 +1,5 @@
+133,134c133
+<         try {
+<             _hasProjectWritePermission = aclUtil.hasProjectWritePermission(project);
+---
+>         try {            _hasProjectWritePermission = aclUtil.hasProjectWritePermission(project);

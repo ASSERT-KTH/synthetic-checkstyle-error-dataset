@@ -1,0 +1,5 @@
+60,61c60
+<                 throw new IllegalStateException(
+<                         "Missing config 'kylin.source.hive.sparksql-beeline-shell', please check kylin.properties");
+---
+>                 throw new IllegalStateException(                        "Missing config 'kylin.source.hive.sparksql-beeline-shell', please check kylin.properties");

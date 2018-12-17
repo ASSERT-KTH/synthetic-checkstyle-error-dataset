@@ -1,0 +1,4 @@
+168c168
+<     public Enumeration<String> propertyNames() {
+---
+>     public Enumeration<String> 	propertyNames() {

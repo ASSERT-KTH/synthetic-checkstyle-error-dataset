@@ -1,0 +1,4 @@
+49c49
+<         return new AutoLock() {
+---
+>         return new AutoLock() 	{

@@ -1,0 +1,5 @@
+77c77,78
+<             tempConfig.addProperty(entry.getKey(), entry.getValue());
+---
+>             tempConfig.addProperty
+> (entry.getKey(), entry.getValue());

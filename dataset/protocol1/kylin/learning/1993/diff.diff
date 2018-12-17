@@ -1,0 +1,5 @@
+27,28c27
+<     public TooBigDictionaryException(String message, Exception e) {
+<         super(message, e);
+---
+>     public TooBigDictionaryException(String message, Exception e) {        super(message, e);

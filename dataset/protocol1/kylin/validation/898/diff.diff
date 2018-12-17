@@ -1,0 +1,5 @@
+81,82c81
+<                         sqlResponse.getResults().size());
+<                 metrics.updateHistogram(MetricsNameBuilder.buildMetricName(name, MetricsConstant.QUERY_SCAN_ROWCOUNT),
+---
+>                         sqlResponse.getResults().size());                metrics.updateHistogram(MetricsNameBuilder.buildMetricName(name, MetricsConstant.QUERY_SCAN_ROWCOUNT),

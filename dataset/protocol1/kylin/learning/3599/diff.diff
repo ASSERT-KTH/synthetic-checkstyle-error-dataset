@@ -1,0 +1,4 @@
+70c70
+<             GlobalDictMetadata metadata = store.getMetadata(versions[versions.length - 1]);
+---
+>             GlobalDictMetadata metadata = store	.getMetadata(versions[versions.length - 1]);

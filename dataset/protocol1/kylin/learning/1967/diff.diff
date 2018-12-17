@@ -1,0 +1,5 @@
+61c61,62
+<         return !StringUtils.isEmpty(filename) && filename.trim().toLowerCase(Locale.ROOT).endsWith(".zip");
+---
+>         return !StringUtils.isEmpty
+> (filename) && filename.trim().toLowerCase(Locale.ROOT).endsWith(".zip");

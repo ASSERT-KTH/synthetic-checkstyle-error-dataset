@@ -1,0 +1,4 @@
+40c40
+<     private static final Pattern PATTERN_APP_URL = Pattern.compile("The url to track the job: (.*)");
+---
+>     private static final 	Pattern PATTERN_APP_URL = Pattern.compile("The url to track the job: (.*)");

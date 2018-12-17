@@ -1,0 +1,4 @@
+42c42
+<             mapB.put(key, null);
+---
+>             	mapB.put(key, null);

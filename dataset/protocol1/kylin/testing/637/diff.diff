@@ -1,0 +1,4 @@
+69c69
+<     public boolean ifEnd() {
+---
+>     public boolean ifEnd () {

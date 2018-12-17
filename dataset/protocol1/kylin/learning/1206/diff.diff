@@ -1,0 +1,5 @@
+64,65c64
+<         }
+<         return (short) x;
+---
+>         }        return (short) x;

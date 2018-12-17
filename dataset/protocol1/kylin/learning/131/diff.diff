@@ -1,0 +1,5 @@
+108c108,109
+<             HybridCubeCLI.main(args.toArray(new String[args.size()]));
+---
+>             HybridCubeCLI.main(args.toArray(new String[args.size
+> ()]));

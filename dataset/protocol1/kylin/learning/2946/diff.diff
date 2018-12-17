@@ -1,0 +1,4 @@
+86c86
+<             String permString = (String) permission;
+---
+>             String permString = (String	) permission;

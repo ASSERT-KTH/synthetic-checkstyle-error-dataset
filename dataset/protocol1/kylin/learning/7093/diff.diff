@@ -1,0 +1,4 @@
+556c556
+<                 origResData.put(resPath, readAll(raw.content()));
+---
+>                 origResData.put(resPath, readAll(raw.content ()));

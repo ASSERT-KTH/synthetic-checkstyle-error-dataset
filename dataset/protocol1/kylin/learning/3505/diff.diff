@@ -1,0 +1,4 @@
+83c83
+<             ResourceStore store = ResourceStore.getStore(kylinConfig);
+---
+>             ResourceStore 	store = ResourceStore.getStore(kylinConfig);

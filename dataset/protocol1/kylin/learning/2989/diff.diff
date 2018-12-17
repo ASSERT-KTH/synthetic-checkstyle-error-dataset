@@ -1,0 +1,5 @@
+118,119c118
+<     public static long readSignedLong(byte[] bytes, int offset, int size) {
+<         long integer = (bytes[offset] & 0x80) == 0 ? 0 : -1;
+---
+>     public static long readSignedLong(byte[] bytes, int offset, int size) {        long integer = (bytes[offset] & 0x80) == 0 ? 0 : -1;

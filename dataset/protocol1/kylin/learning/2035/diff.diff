@@ -1,0 +1,4 @@
+141c141
+<         ResourceParallelCopier copier = new ResourceParallelCopier(ResourceStore.getStore(from), ResourceStore.getStore(to));
+---
+>         ResourceParallelCopier copier = new ResourceParallelCopier( ResourceStore.getStore(from), ResourceStore.getStore(to));

@@ -1,0 +1,4 @@
+115c115
+<         return mapper.writeValueAsBytes(value);
+---
+>         return 	mapper.writeValueAsBytes(value);

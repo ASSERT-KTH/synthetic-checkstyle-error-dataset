@@ -1,0 +1,4 @@
+273c273
+<         final public Set<String> successGroups = Collections.synchronizedSet(new TreeSet<String>());
+---
+>         final public Set<String> successGroups = Collections	.synchronizedSet(new TreeSet<String>());

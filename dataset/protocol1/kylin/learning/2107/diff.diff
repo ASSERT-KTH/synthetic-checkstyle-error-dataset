@@ -1,0 +1,5 @@
+65,66c65
+<             return false;
+<         UserGrantedAuthority other = (UserGrantedAuthority) obj;
+---
+>             return false;        UserGrantedAuthority other = (UserGrantedAuthority) obj;

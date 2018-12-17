@@ -1,0 +1,4 @@
+316c316
+<                 if (ii == wordEnd) // matched at j
+---
+>                 if ( ii == wordEnd) // matched at j

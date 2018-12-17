@@ -1,0 +1,4 @@
+194c194
+<                 this.treeLevels = Math.max(this.treeLevels, parent.level + 1);
+---
+>                 this.treeLevels = Math.max(this.	treeLevels, parent.level + 1);

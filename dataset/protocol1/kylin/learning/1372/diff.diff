@@ -1,0 +1,4 @@
+62c62
+<     public void writeExternal(ObjectOutput out) throws IOException {
+---
+>     public void writeExternal(ObjectOutput out) 	throws IOException {

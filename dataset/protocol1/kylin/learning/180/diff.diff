@@ -1,0 +1,4 @@
+52c52
+<     public void setMessage(String message) {
+---
+>     public void 	setMessage(String message) {

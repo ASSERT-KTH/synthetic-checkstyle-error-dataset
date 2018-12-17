@@ -1,0 +1,4 @@
+695c695
+<             return jobs.subList(offset, jobs.size());
+---
+>             return 	jobs.subList(offset, jobs.size());

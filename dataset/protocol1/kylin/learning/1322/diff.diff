@@ -1,0 +1,4 @@
+75c75
+<             ColSpec spec = colSpecs.get(i);
+---
+>             ColSpec 	spec = colSpecs.get(i);

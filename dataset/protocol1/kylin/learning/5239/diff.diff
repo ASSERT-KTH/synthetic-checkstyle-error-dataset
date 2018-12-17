@@ -1,0 +1,5 @@
+93,94c93
+<     public ImmutableBitSet set(int bitIndex) {
+<         return set(bitIndex, true);
+---
+>     public ImmutableBitSet set(int bitIndex) {        return set(bitIndex, true);

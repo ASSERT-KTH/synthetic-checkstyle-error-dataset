@@ -1,0 +1,5 @@
+41,42c41
+<     public void collectAndNotify(CuboidResult cuboidResult) {
+<         logger.info("collecting CuboidResult cuboid id:" + cuboidResult.cuboidId);
+---
+>     public void collectAndNotify(CuboidResult cuboidResult) {        logger.info("collecting CuboidResult cuboid id:" + cuboidResult.cuboidId);

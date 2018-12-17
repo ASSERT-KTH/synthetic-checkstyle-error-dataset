@@ -1,0 +1,5 @@
+29,30c29
+<     public static final Logger logger = LoggerFactory.getLogger(CheckUtil.class);
+<     private static final Random rand = new Random();
+---
+>     public static final Logger logger = LoggerFactory.getLogger(CheckUtil.class);    private static final Random rand = new Random();

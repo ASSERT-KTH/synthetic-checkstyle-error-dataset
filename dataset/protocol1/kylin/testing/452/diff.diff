@@ -1,0 +1,5 @@
+51,52c51
+<     public RowKeyColDesc[] getRowKeyColumns() {
+<         return rowkeyColumns;
+---
+>     public RowKeyColDesc[] getRowKeyColumns() {        return rowkeyColumns;

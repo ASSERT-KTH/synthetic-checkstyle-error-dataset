@@ -1,0 +1,4 @@
+19c19
+< package org.apache.kylin.cube.common;
+---
+> package org.apache.kylin.	cube.common;

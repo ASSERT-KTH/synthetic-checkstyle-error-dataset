@@ -1,0 +1,4 @@
+49c49
+<     final protected void putResourceImpl(String resPath, ContentWriter content, long ts) throws IOException {
+---
+>     final protected void putResourceImpl (String resPath, ContentWriter content, long ts) throws IOException {

@@ -1,0 +1,4 @@
+24c24
+< import org.apache.hadoop.hbase.client.Connection;
+---
+> import 	org.apache.hadoop.hbase.client.Connection;

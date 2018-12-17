@@ -1,0 +1,4 @@
+61c61
+<         if (!(obj instanceof StringEntity))
+---
+>         if (!	(obj instanceof StringEntity))

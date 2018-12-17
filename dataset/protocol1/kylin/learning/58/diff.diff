@@ -1,0 +1,5 @@
+75,76c75
+<         this.modelName = modelName;
+<         this.modelDescData = modelDescData;
+---
+>         this.modelName = modelName;        this.modelDescData = modelDescData;

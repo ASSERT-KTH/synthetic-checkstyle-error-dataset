@@ -1,0 +1,5 @@
+28,29c28
+< import org.apache.kylin.cube.model.CubeDesc;
+< import org.apache.kylin.cube.model.RowKeyColDesc;
+---
+> import org.apache.kylin.cube.model.CubeDesc;import org.apache.kylin.cube.model.RowKeyColDesc;

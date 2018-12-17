@@ -1,0 +1,4 @@
+180c180
+<     public void setTotalScanCount(long totalScanCount) {
+---
+>     public void 	setTotalScanCount(long totalScanCount) {

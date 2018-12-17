@@ -1,0 +1,5 @@
+58c58,59
+<         if (cubeInstance == null) {
+---
+>         if (cubeInstance == null) 
+> {

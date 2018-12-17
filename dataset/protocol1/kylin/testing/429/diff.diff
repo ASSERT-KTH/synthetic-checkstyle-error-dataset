@@ -1,0 +1,5 @@
+130,131c130
+<     public void setKafkaData(String kafkaData) {
+<         this.kafkaData = kafkaData;
+---
+>     public void setKafkaData(String kafkaData) {        this.kafkaData = kafkaData;

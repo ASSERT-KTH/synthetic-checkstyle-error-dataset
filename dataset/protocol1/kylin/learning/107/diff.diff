@@ -1,0 +1,4 @@
+95c95
+<     public void setCubeName(String cubeName) {
+---
+>     public 	void setCubeName(String cubeName) {

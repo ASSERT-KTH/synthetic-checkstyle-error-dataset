@@ -1,0 +1,5 @@
+119,120c119
+<             this.jobId = jobId;
+<             this.jobType = jobType;
+---
+>             this.jobId = jobId;            this.jobType = jobType;

@@ -1,0 +1,5 @@
+52,53c52
+<         CubeInstance cube = CubeManager.getInstance(config).getCube(cubeName);
+<         CubeSegment segment = cube.getSegmentById(segmentID);
+---
+>         CubeInstance cube = CubeManager.getInstance(config).getCube(cubeName);        CubeSegment segment = cube.getSegmentById(segmentID);

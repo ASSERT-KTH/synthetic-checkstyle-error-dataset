@@ -1,0 +1,4 @@
+53c53
+<         prop.store(new PrintWriter(writer), "kylin properties");
+---
+>         prop.store(new PrintWriter(writer), "kylin properties")	;

@@ -1,0 +1,4 @@
+40c40
+<     public ShellException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+---
+>     public ShellException(String message, Throwable cause, 	boolean enableSuppression, boolean writableStackTrace) {

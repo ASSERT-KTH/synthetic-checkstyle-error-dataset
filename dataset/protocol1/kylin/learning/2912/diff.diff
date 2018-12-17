@@ -1,0 +1,4 @@
+46c46
+<         scanner.scan("", new ResourceVisitor() {
+---
+>         scanner.scan ("", new ResourceVisitor() {

@@ -1,0 +1,5 @@
+65c65,66
+<         if (authentication.getPrincipal() instanceof UserDetails) {
+---
+>         if (authentication.getPrincipal() instanceof UserDetails) 
+> {

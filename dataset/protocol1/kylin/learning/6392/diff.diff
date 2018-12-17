@@ -1,0 +1,5 @@
+115c115,116
+<     public StreamingRequest saveStreamingConfig(@RequestBody StreamingRequest streamingRequest) {
+---
+>     public StreamingRequest saveStreamingConfig(@RequestBody StreamingRequest streamingRequest) 
+> {

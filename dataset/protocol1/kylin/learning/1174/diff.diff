@@ -1,0 +1,5 @@
+45,46c45
+<     public DataModelDescResponse(DataModelDesc dataModelDesc) {
+<         setUuid(dataModelDesc.getUuid());
+---
+>     public DataModelDescResponse(DataModelDesc dataModelDesc) {        setUuid(dataModelDesc.getUuid());

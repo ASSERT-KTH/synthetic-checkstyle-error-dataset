@@ -1,0 +1,4 @@
+150c150
+<     public MutableAclRecord update(AclEntity ae, int accessEntryIndex, Permission newPermission) {
+---
+>     public MutableAclRecord update(AclEntity ae, int accessEntryIndex, Permission 	newPermission) {

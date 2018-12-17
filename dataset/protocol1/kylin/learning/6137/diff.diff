@@ -1,0 +1,4 @@
+60c60
+<                     logger.error("Initial task failed: " + taskClass, e);
+---
+>                     logger.error("Initial task failed: " + taskClass, e );

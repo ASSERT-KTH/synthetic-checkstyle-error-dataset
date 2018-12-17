@@ -1,0 +1,4 @@
+34c34
+<     public final int maxValueLength;
+---
+>     public 	final int maxValueLength;

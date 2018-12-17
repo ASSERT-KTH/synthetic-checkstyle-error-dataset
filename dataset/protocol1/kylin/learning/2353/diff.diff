@@ -1,0 +1,4 @@
+202c202
+<     public ImmutableBitSet makeGridTableColumns(Set<TblColRef> dimensions) {
+---
+>     public ImmutableBitSet makeGridTableColumns(Set<TblColRef	> dimensions) {

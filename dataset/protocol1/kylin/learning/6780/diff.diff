@@ -1,0 +1,5 @@
+97,98c97
+<                 BytesUtil.writeVInt(x.getKey(), out);
+<                 BytesUtil.writeVInt(x.getValue(), out);
+---
+>                 BytesUtil.writeVInt(x.getKey(), out);                BytesUtil.writeVInt(x.getValue(), out);

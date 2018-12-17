@@ -1,0 +1,4 @@
+111c111
+<                 System.arraycopy(record.get(c).array(), columnC.offset(), buf.array(), buf.offset() + pos, columnC.length());
+---
+>                 System.arraycopy(record.get(c).array(), columnC.offset(), buf.array (), buf.offset() + pos, columnC.length());

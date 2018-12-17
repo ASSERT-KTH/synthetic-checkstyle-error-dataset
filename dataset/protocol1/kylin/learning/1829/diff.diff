@@ -1,0 +1,5 @@
+26,27c26
+< import org.apache.kylin.job.execution.ExecutableManager;
+< import org.apache.kylin.metadata.TableMetadataManager;
+---
+> import org.apache.kylin.job.execution.ExecutableManager;import org.apache.kylin.metadata.TableMetadataManager;

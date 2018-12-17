@@ -1,0 +1,4 @@
+187c187
+<             if (other.config != null)
+---
+>             if (other.	config != null)

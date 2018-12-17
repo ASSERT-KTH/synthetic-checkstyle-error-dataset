@@ -1,0 +1,5 @@
+99,100c99
+<         }
+<         throw new IllegalArgumentException("Unsupported permission: " + permission);
+---
+>         }        throw new IllegalArgumentException("Unsupported permission: " + permission);

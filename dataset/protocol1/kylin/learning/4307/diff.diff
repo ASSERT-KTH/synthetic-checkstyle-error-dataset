@@ -1,0 +1,5 @@
+54,55c54
+<         String propString = writer.getBuffer().toString();
+<         IOUtils.closeQuietly(writer);
+---
+>         String propString = writer.getBuffer().toString();        IOUtils.closeQuietly(writer);

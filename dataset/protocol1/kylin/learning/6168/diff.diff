@@ -1,0 +1,4 @@
+45c45
+<         Iterator<T> iterator = v.iterator();
+---
+>         Iterator<T> iterator = 	v.iterator();

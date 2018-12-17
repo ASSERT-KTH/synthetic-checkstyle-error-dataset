@@ -1,0 +1,5 @@
+36,37c36
+<     private Class<I> interfaceClz;
+<     private Map<Integer, String> impls = Maps.newHashMap();
+---
+>     private Class<I> interfaceClz;    private Map<Integer, String> impls = Maps.newHashMap();

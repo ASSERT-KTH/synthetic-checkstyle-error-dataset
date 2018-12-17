@@ -1,0 +1,5 @@
+52,53c52
+<                 method.setAccessible(true);
+<                 method.invoke(urlClassLoader, new Object[] { file.toURI().toURL() });
+---
+>                 method.setAccessible(true);                method.invoke(urlClassLoader, new Object[] { file.toURI().toURL() });

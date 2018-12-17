@@ -1,0 +1,4 @@
+94c94
+<                 command = "T " + (_lfile.lastModified() / 1000) + " 0";
+---
+>                 command = "T " + (_lfile.lastModified() / 1000) + " 0"	;

@@ -1,0 +1,5 @@
+26,27c26
+< import org.apache.kylin.dimension.FixedLenDimEnc;
+< import org.apache.kylin.dimension.TimeDimEnc;
+---
+> import org.apache.kylin.dimension.FixedLenDimEnc;import org.apache.kylin.dimension.TimeDimEnc;

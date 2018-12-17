@@ -1,0 +1,4 @@
+26c26
+<     public void log(String message);
+---
+>     public void log(String message)	;

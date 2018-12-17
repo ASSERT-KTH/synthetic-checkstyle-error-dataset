@@ -1,0 +1,4 @@
+94c94
+<         final private byte[] bytes;
+---
+>         final private byte[	] bytes;

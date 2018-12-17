@@ -1,0 +1,5 @@
+121,122c121
+<             throws IOException {
+<         NavigableSet<String> all = src.listResourcesRecursively(folder);
+---
+>             throws IOException {        NavigableSet<String> all = src.listResourcesRecursively(folder);

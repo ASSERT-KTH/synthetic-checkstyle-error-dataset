@@ -1,0 +1,4 @@
+89c89
+<                     for (String res : noNull(store.listResources(dir2))) {
+---
+>                     for (String res : noNull (store.listResources(dir2))) {

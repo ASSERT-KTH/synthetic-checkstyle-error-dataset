@@ -1,0 +1,5 @@
+80,81c80
+<     public void setCubeSegmentData(String cubeSegmentData) {
+<         this.cubeSegmentData = cubeSegmentData;
+---
+>     public void setCubeSegmentData(String cubeSegmentData) {        this.cubeSegmentData = cubeSegmentData;

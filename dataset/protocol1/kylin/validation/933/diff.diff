@@ -1,0 +1,4 @@
+84c84
+<         update(getQueryMetrics("Server_Total"), sqlResponse);
+---
+>         update(getQueryMetrics("Server_Total" ), sqlResponse);

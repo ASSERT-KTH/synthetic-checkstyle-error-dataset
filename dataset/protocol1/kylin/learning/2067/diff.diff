@@ -1,0 +1,4 @@
+1186c1186
+<     private Set<TableRef> collectTablesOnJoinChain(Set<TblColRef> columns) {
+---
+>     private Set<TableRef> collectTablesOnJoinChain( Set<TblColRef> columns) {

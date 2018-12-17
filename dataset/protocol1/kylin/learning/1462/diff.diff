@@ -1,0 +1,5 @@
+99c99,100
+<             } else if (!className.equals(other.className))
+---
+>             } else if (!className.equals
+> (other.className))

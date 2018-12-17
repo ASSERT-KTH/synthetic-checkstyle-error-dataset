@@ -1,0 +1,4 @@
+21c21
+<     static final String MANAGEMENT = "MANAGEMENT";
+---
+>     static 	final String MANAGEMENT = "MANAGEMENT";

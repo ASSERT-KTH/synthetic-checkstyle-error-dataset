@@ -1,0 +1,4 @@
+51c51
+<             setToggles(Maps.<String, String> newHashMap());
+---
+>             setToggles (Maps.<String, String> newHashMap());

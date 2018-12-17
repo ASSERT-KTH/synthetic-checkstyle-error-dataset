@@ -1,0 +1,5 @@
+73,74c73
+<         gen.addDimension(100, 4, null);
+<         gen.addMeasure(8);
+---
+>         gen.addDimension(100, 4, null);        gen.addMeasure(8);

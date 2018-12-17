@@ -1,0 +1,4 @@
+205c205
+<             badQueryDetector.queryStart(Thread.currentThread(), sqlRequest, user, queryId);
+---
+>             badQueryDetector.queryStart(Thread.currentThread(), sqlRequest, user	, queryId);

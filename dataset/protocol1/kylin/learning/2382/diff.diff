@@ -1,0 +1,4 @@
+34c34
+< import org.apache.kylin.common.util.StringUtil;
+---
+> import org.apache.kylin.common	.util.StringUtil;

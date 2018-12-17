@@ -1,0 +1,4 @@
+48c48
+< public class SnapshotTableSerializer implements Serializer<SnapshotTable> {
+---
+> public class SnapshotTableSerializer implements Serializer	<SnapshotTable> {

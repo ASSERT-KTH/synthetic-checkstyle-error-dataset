@@ -1,0 +1,4 @@
+50c50
+<         return getTableACLByProject(project).getNoAccessList(table, type);
+---
+>         return getTableACLByProject(project).getNoAccessList(table, type)	;

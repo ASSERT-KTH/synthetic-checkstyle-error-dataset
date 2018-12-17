@@ -1,0 +1,5 @@
+51c51,52
+<         Preconditions.checkArgument(state != null, "state cannot be null");
+---
+>         Preconditions.checkArgument
+> (state != null, "state cannot be null");

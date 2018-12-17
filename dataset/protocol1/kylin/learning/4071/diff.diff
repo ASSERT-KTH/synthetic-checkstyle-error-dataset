@@ -1,0 +1,4 @@
+71c71
+<             throw new IllegalArgumentException("Cuboid " + cuboid + " is out of scope 0-" + max);
+---
+>             throw 	new IllegalArgumentException("Cuboid " + cuboid + " is out of scope 0-" + max);

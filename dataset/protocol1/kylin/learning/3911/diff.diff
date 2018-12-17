@@ -1,0 +1,5 @@
+40,41c40
+<         this.input = input;
+<         this.batchSize = batchSize;
+---
+>         this.input = input;        this.batchSize = batchSize;

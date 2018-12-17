@@ -1,0 +1,4 @@
+53c53
+<         logger.debug("Original: " + data.length + " bytes. " + "Compressed: " + output.length + " byte. Time: " + (System.currentTimeMillis() - startTime));
+---
+>         logger.debug("Original: " + data.length + " bytes. " + "Compressed: " + output.length + " byte. Time: " + (System.currentTimeMillis() - startTime) );

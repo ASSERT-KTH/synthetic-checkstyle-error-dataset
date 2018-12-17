@@ -1,0 +1,4 @@
+35c35
+<         this.hybridInstance = hybridInstance;
+---
+>         	this.hybridInstance = hybridInstance;

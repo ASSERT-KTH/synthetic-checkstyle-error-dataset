@@ -1,0 +1,5 @@
+74,75c74
+<             resultRowCountQuantiles[i] = registry.newQuantiles("ResultRowCount" + interval + "s", "Result row count in milli second", "ops", "", interval);
+<             cacheHitCountQuantiles[i] = registry.newQuantiles("CacheHitCount" + interval + "s", "Cache Hit Count in milli second", "ops", "", interval);
+---
+>             resultRowCountQuantiles[i] = registry.newQuantiles("ResultRowCount" + interval + "s", "Result row count in milli second", "ops", "", interval);            cacheHitCountQuantiles[i] = registry.newQuantiles("CacheHitCount" + interval + "s", "Cache Hit Count in milli second", "ops", "", interval);

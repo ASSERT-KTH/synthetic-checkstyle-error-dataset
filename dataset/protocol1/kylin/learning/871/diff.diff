@@ -1,0 +1,5 @@
+508c508,509
+<                 qualifierData.put(kv.getTimestamp(), kv.getValue());
+---
+>                 qualifierData.put
+> (kv.getTimestamp(), kv.getValue());

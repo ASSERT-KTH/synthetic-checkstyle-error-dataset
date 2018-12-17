@@ -1,0 +1,4 @@
+92c92
+<                     SplitThread last = new SplitThread(splits.size() + 1, inputController);
+---
+>                     SplitThread last = new SplitThread (splits.size() + 1, inputController);

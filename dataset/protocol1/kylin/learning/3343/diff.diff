@@ -1,0 +1,4 @@
+82c82
+<             logger.info("Start to migrate acl table data");
+---
+>             logger.info("Start to migrate acl table data")	;

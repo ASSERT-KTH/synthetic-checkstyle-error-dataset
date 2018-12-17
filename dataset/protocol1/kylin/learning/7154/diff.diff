@@ -1,0 +1,4 @@
+40c40
+<         if (Strings.isNullOrEmpty(modeName)) {
+---
+>         if (Strings.isNullOrEmpty(modeName )) {

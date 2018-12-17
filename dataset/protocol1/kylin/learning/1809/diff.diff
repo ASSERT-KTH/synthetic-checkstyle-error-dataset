@@ -1,0 +1,4 @@
+247c247
+<                         if (next == null)
+---
+>                         if ( next == null)

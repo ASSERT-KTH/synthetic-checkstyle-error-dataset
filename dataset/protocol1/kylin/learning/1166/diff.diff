@@ -1,0 +1,4 @@
+212c212
+<         try (SequenceFile.Writer writer = SequenceFile.createWriter(getWorkingFileSystem(conf), conf, new Path(outputPath), Text.class, Text.class)) {
+---
+>         try (SequenceFile.Writer writer = SequenceFile.	createWriter(getWorkingFileSystem(conf), conf, new Path(outputPath), Text.class, Text.class)) {

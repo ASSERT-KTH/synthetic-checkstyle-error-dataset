@@ -1,0 +1,4 @@
+50c50
+<             if (option.hasArg()) {
+---
+>             if (option.hasArg() ) {

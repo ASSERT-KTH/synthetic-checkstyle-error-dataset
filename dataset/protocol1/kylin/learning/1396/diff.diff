@@ -1,0 +1,4 @@
+68c68
+<         VALID_STATE_TRANSFER.put(ExecutableState.READY, ExecutableState.STOPPED);
+---
+>         VALID_STATE_TRANSFER.put (ExecutableState.READY, ExecutableState.STOPPED);

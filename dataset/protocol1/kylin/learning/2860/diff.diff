@@ -1,0 +1,5 @@
+68,69c68
+<             if (dictProvider != null) {
+<                 preBuiltDict = dictProvider.getDictionary(col);
+---
+>             if (dictProvider != null) {                preBuiltDict = dictProvider.getDictionary(col);

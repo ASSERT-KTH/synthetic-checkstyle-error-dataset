@@ -1,0 +1,4 @@
+160c160
+<             return order.compare(minVal, filterVal) < 0;
+---
+>             return order.compare(minVal, filterVal) 	< 0;

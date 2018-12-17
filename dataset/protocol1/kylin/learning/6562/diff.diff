@@ -1,0 +1,5 @@
+51,52c51
+<         }
+<         logger.debug("userDeail by search ldap with '" + userName + "' is: " + userDetails);
+---
+>         }        logger.debug("userDeail by search ldap with '" + userName + "' is: " + userDetails);

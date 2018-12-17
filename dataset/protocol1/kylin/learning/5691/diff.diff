@@ -1,0 +1,4 @@
+39c39
+<     public ErrorResponse(String url, Exception exception) {
+---
+>     public ErrorResponse(String url, Exception exception ) {

@@ -1,0 +1,5 @@
+408,409c408
+<     public String getDIAG_PACKAGE_NOT_AVAILABLE() {
+<         return "Diagnosis package is not available in directory: %s.";
+---
+>     public String getDIAG_PACKAGE_NOT_AVAILABLE() {        return "Diagnosis package is not available in directory: %s.";

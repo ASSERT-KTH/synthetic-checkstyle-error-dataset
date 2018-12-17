@@ -1,0 +1,4 @@
+30c30
+<     private Map<String, String> extra;
+---
+>     private Map<String, String	> extra;

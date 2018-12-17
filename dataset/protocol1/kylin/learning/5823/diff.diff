@@ -1,0 +1,5 @@
+162c162,163
+<             List<RealizationEntry> realizationEntries = projectInstance.getRealizationEntries(RealizationType.HYBRID);
+---
+>             List<RealizationEntry> realizationEntries = projectInstance.getRealizationEntries
+> (RealizationType.HYBRID);

@@ -1,0 +1,5 @@
+86c86,87
+<     public static Object newInstance(String clz) {
+---
+>     public static Object newInstance
+> (String clz) {

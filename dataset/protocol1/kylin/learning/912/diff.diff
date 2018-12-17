@@ -1,0 +1,5 @@
+32,33c32
+< import org.apache.kylin.common.KylinConfigBase;
+< import org.apache.kylin.common.util.EncryptUtil;
+---
+> import org.apache.kylin.common.KylinConfigBase;import org.apache.kylin.common.util.EncryptUtil;

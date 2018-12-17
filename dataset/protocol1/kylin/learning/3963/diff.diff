@@ -1,0 +1,4 @@
+81c81
+<                 tmpHqlPath = "/tmp/" + UUID.randomUUID().toString() + ".hql";
+---
+>                 tmpHqlPath = "/tmp/" + UUID.	randomUUID().toString() + ".hql";

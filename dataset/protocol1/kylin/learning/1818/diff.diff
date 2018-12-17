@@ -1,0 +1,5 @@
+47,48c47
+<     public void encode(String valueStr, byte[] output, int outputOffset) {
+<         throw new UnsupportedOperationException();
+---
+>     public void encode(String valueStr, byte[] output, int outputOffset) {        throw new UnsupportedOperationException();

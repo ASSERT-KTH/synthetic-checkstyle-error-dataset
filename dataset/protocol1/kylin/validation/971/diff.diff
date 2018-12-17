@@ -1,0 +1,4 @@
+51c51
+<                 Method method = urlClass.getDeclaredMethod("addURL", new Class[] { URL.class });
+---
+>                 Method method = urlClass.	getDeclaredMethod("addURL", new Class[] { URL.class });

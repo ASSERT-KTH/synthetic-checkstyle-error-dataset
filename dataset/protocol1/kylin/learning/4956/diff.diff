@@ -1,0 +1,4 @@
+150c150
+<         String formerProjectName = projectRequest.getFormerProjectName();
+---
+>         String formerProjectName 	= projectRequest.getFormerProjectName();

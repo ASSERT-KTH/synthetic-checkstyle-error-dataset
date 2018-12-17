@@ -1,0 +1,5 @@
+133,134c133
+<         if (toDeleteResources.isEmpty()) {
+<             logger.info("No metadata resource to clean up");
+---
+>         if (toDeleteResources.isEmpty()) {            logger.info("No metadata resource to clean up");

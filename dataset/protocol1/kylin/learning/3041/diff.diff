@@ -1,0 +1,5 @@
+62,63c62
+<         this.config = config;
+<         this.userMap = new CaseInsensitiveStringCache<>(config, "user");
+---
+>         this.config = config;        this.userMap = new CaseInsensitiveStringCache<>(config, "user");

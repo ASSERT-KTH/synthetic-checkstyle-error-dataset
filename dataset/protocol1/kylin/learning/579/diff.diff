@@ -1,0 +1,5 @@
+98,99c98
+<         QueryMetricEnum(String sql) {
+<             this.sql = sql;
+---
+>         QueryMetricEnum(String sql) {            this.sql = sql;

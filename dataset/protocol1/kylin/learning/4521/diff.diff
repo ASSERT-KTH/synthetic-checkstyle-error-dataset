@@ -1,0 +1,4 @@
+184c184
+<     public AppendDictSlice readSlice(String directory, String sliceFileName) throws IOException {
+---
+>     public 	AppendDictSlice readSlice(String directory, String sliceFileName) throws IOException {

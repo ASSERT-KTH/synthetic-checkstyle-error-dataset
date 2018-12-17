@@ -1,0 +1,5 @@
+37,38c37
+<         this.timeSpent = timeSpent;
+<         this.aggrCacheMB = aggrCacheMB;
+---
+>         this.timeSpent = timeSpent;        this.aggrCacheMB = aggrCacheMB;

@@ -1,0 +1,4 @@
+389c389
+<     private String getContent(HttpResponse response) throws IOException {
+---
+>     private String getContent(HttpResponse 	response) throws IOException {

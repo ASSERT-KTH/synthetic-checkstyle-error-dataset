@@ -1,0 +1,5 @@
+57,58c57
+<         setUuid(cube.getUuid());
+<         setVersion(cube.getVersion());
+---
+>         setUuid(cube.getUuid());        setVersion(cube.getVersion());

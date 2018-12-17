@@ -1,0 +1,5 @@
+52,53c52
+<     public void flush() throws IOException {
+<         for (ICuboidWriter writer : cuboidWriters) {
+---
+>     public void flush() throws IOException {        for (ICuboidWriter writer : cuboidWriters) {

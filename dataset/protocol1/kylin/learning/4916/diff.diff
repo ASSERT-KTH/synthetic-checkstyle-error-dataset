@@ -1,0 +1,4 @@
+177c177
+<         secureOwner(acl, sid);
+---
+>         secureOwner(acl, 	sid);

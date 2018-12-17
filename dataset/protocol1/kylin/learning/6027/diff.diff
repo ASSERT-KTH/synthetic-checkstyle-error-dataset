@@ -1,0 +1,4 @@
+53c53
+<             if (record.get(c).array() != null) {
+---
+>             if (record	.get(c).array() != null) {

@@ -1,0 +1,4 @@
+66c66
+<             if (eap.checkPermission(currentUser, authorities, entityType, entityUuid, p))
+---
+>             if (eap.checkPermission(currentUser, authorities, entityType, entityUuid, p ))

@@ -1,0 +1,4 @@
+122c122
+<             int index = rowkeyColumns[i].getBitIndex();
+---
+>             int index = rowkeyColumns[i]	.getBitIndex();

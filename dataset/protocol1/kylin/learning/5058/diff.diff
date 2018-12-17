@@ -1,0 +1,4 @@
+59c59
+<         return CubeManager.getInstance(getConfig());
+---
+>         return CubeManager	.getInstance(getConfig());

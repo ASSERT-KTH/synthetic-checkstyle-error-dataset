@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.job.exception.ShellException;
+< import org.apache.kylin.job.execution.AbstractExecutable;
+---
+> import org.apache.kylin.job.exception.ShellException;import org.apache.kylin.job.execution.AbstractExecutable;

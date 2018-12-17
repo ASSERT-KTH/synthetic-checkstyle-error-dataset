@@ -1,0 +1,5 @@
+333,334c333
+<     private void closeWriteChannel() {
+<         IOUtils.closeQuietly(writeChannel);
+---
+>     private void closeWriteChannel() {        IOUtils.closeQuietly(writeChannel);

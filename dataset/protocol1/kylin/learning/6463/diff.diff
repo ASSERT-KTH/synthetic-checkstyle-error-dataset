@@ -1,0 +1,5 @@
+111,112c111
+<             i = dynDim2gt.get(dimension);
+<         }
+---
+>             i = dynDim2gt.get(dimension);        }

@@ -1,0 +1,4 @@
+79c79
+<                 new StringBuffer(), new FieldPosition(0)).toString();
+---
+>                 new StringBuffer(), new FieldPosition(0) ).toString();

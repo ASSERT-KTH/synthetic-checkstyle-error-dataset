@@ -1,0 +1,4 @@
+48c48
+<     public GTRecord max(GTRecord a, GTRecord b) {
+---
+>     public GTRecord max (GTRecord a, GTRecord b) {

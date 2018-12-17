@@ -1,0 +1,4 @@
+31c31
+<     public byte[] value;
+---
+>     public byte[	] value;

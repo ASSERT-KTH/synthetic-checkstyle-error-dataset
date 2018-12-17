@@ -1,0 +1,5 @@
+100c100,101
+<     public String getINVALID_CUBE_NAME() {
+---
+>     public String getINVALID_CUBE_NAME() 
+> {

@@ -1,0 +1,5 @@
+85,86c85
+<                     worker.setName("dogged-cubing-cuboid-worker-" + worker.getPoolIndex());
+<                     return worker;
+---
+>                     worker.setName("dogged-cubing-cuboid-worker-" + worker.getPoolIndex());                    return worker;

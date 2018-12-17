@@ -1,0 +1,4 @@
+102c102
+<         putIfMissing(ret, "validationQuery", "select 1");
+---
+>         putIfMissing(ret, "validationQuery"	, "select 1");

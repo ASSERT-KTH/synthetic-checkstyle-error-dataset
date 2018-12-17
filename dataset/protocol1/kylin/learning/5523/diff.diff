@@ -1,0 +1,4 @@
+61c61
+<         VALID_STATE_TRANSFER.put(ExecutableState.STOPPED, ExecutableState.DISCARDED);
+---
+>         VALID_STATE_TRANSFER.put(ExecutableState.STOPPED	, ExecutableState.DISCARDED);

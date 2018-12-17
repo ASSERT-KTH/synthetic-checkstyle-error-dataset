@@ -1,0 +1,4 @@
+65c65
+<         for (Permission p : kylinPermissions) {
+---
+>         	for (Permission p : kylinPermissions) {

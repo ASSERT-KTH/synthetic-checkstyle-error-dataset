@@ -1,0 +1,4 @@
+225c225
+<             logger.error(e.getLocalizedMessage(), e);
+---
+>             logger.error(e.	getLocalizedMessage(), e);

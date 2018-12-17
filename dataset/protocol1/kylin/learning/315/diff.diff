@@ -1,0 +1,5 @@
+39,40c39
+<     public static void dump(File f) throws IOException {
+<         if (f.isDirectory()) {
+---
+>     public static void dump(File f) throws IOException {        if (f.isDirectory()) {

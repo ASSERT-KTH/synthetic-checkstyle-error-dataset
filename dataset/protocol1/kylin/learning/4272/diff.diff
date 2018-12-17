@@ -1,0 +1,4 @@
+736c736
+<             aclEvaluate.checkProjectOperationPermission(projectName);
+---
+>             aclEvaluate	.checkProjectOperationPermission(projectName);

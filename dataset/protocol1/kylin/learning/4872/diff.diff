@@ -1,0 +1,5 @@
+115,116c115
+<         for (BitSet set : metricsColBlocks) {
+<             gtColBlocks.add(new ImmutableBitSet(set));
+---
+>         for (BitSet set : metricsColBlocks) {            gtColBlocks.add(new ImmutableBitSet(set));

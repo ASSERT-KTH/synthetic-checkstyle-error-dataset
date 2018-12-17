@@ -1,0 +1,5 @@
+30c30,31
+<     public static UUID randomUUID() {
+---
+>     public static UUID randomUUID
+> () {

@@ -1,0 +1,5 @@
+160,161c160
+<     public List<TblColRef> getAllColumns() {
+<         return columnList;
+---
+>     public List<TblColRef> getAllColumns() {        return columnList;

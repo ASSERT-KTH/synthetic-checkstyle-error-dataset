@@ -1,0 +1,4 @@
+43c43
+<     public List<String> listUserAuthorities(@RequestParam(value = "project") String project) throws IOException {
+---
+>     public List<String> listUserAuthorities(@RequestParam(value 	= "project") String project) throws IOException {

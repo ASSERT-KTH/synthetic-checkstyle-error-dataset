@@ -1,0 +1,4 @@
+40c40
+<             groups.add(authority.getAuthority());
+---
+>             groups.add (authority.getAuthority());

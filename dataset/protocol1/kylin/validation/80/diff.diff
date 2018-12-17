@@ -1,0 +1,4 @@
+182c182
+<         return getDataModelManager().getModelsUsingTable(table, project);
+---
+>         return getDataModelManager ().getModelsUsingTable(table, project);

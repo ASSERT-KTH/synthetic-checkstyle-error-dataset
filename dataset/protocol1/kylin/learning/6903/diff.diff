@@ -1,0 +1,4 @@
+128c128
+<         return _hasProjectOperationPermission;
+---
+>         return 	_hasProjectOperationPermission;

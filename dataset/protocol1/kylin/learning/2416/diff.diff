@@ -1,0 +1,4 @@
+40c40
+<             buffer.append(message).append("\n");
+---
+>             buffer.	append(message).append("\n");

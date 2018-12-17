@@ -1,0 +1,4 @@
+130c130
+<     public void downloadQueryResult(@PathVariable String format, SQLRequest sqlRequest, HttpServletResponse response) {
+---
+>     public void downloadQueryResult(@PathVariable String format, SQLRequest sqlRequest, HttpServletResponse 	response) {

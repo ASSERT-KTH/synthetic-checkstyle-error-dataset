@@ -1,0 +1,4 @@
+25c25
+< import org.springframework.security.ldap.userdetails.LdapUserDetailsService;
+---
+> import org.springframework.	security.ldap.userdetails.LdapUserDetailsService;

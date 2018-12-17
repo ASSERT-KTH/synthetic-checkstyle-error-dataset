@@ -1,0 +1,5 @@
+49,50c49
+<             } catch (Throwable throwable) {
+<                 t = throwable;
+---
+>             } catch (Throwable throwable) {                t = throwable;

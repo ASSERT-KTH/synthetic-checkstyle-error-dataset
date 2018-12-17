@@ -1,0 +1,4 @@
+52c52
+<     public InternalErrorException(String arg0, Throwable arg1) {
+---
+>     public InternalErrorException(String arg0, Throwable arg1 ) {

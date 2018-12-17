@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.metadata.model.DataModelManager;
+< import org.springframework.stereotype.Controller;
+---
+> import org.apache.kylin.metadata.model.DataModelManager;import org.springframework.stereotype.Controller;

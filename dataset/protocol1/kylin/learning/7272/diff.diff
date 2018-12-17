@@ -1,0 +1,4 @@
+23c23
+<     public final long lastBuildTime;
+---
+>     public final 	long lastBuildTime;

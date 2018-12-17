@@ -1,0 +1,4 @@
+104c104
+<             List<Long> newLayer = Lists.newArrayList();
+---
+>             List<Long> newLayer = Lists	.newArrayList();

@@ -1,0 +1,5 @@
+340,341c340
+<     private void doSendMail(KylinConfig kylinConfig, List<String> users, Pair<String, String> email) {
+<         if (email == null) {
+---
+>     private void doSendMail(KylinConfig kylinConfig, List<String> users, Pair<String, String> email) {        if (email == null) {

@@ -1,0 +1,4 @@
+52c52
+<             this.splitBuffers[i] = new SplittedBytes(bytesLen);
+---
+>             this.	splitBuffers[i] = new SplittedBytes(bytesLen);

@@ -1,0 +1,4 @@
+110c110
+<         public void onEntityChange(Broadcaster broadcaster, String entity, Broadcaster.Event event, String cacheKey)
+---
+>         public void onEntityChange(Broadcaster broadcaster, String entity, Broadcaster.Event event, 	String cacheKey)

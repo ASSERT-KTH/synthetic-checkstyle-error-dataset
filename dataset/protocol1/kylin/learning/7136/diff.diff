@@ -1,0 +1,4 @@
+280c280
+<                 logger.debug(ConcurrentDiskStore.this + " write start @ " + writeOffset);
+---
+>                 logger.debug(ConcurrentDiskStore	.this + " write start @ " + writeOffset);

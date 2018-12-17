@@ -1,0 +1,4 @@
+23c23
+< public class WriteConflictException extends RuntimeException {
+---
+> public class WriteConflictException 	extends RuntimeException {

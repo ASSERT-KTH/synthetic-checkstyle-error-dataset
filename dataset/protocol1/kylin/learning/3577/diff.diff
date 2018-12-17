@@ -1,0 +1,5 @@
+79,80c79
+<         calendar.setTimeInMillis(ts);
+<         int year = calendar.get(Calendar.YEAR);
+---
+>         calendar.setTimeInMillis(ts);        int year = calendar.get(Calendar.YEAR);

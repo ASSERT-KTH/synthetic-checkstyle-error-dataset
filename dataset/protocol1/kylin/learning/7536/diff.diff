@@ -1,0 +1,5 @@
+323,324c323
+<     public String getROLLBACK_STREAMING_CONFIG_FAIL() {
+<         return "Action failed and failed to rollback the created streaming config.";
+---
+>     public String getROLLBACK_STREAMING_CONFIG_FAIL() {        return "Action failed and failed to rollback the created streaming config.";

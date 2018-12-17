@@ -1,0 +1,5 @@
+31,32c31
+< import org.apache.kylin.gridtable.GTScanRequest;
+< import org.apache.kylin.gridtable.IGTScanner;
+---
+> import org.apache.kylin.gridtable.GTScanRequest;import org.apache.kylin.gridtable.IGTScanner;

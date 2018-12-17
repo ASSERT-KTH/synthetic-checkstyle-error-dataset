@@ -1,0 +1,5 @@
+35,36c35
+<             return new JDBCSqlQueryFormat(cache.get(key));
+<         } else {
+---
+>             return new JDBCSqlQueryFormat(cache.get(key));        } else {

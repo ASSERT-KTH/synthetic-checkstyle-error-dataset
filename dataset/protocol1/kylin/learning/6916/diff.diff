@@ -1,0 +1,4 @@
+36c36
+< public class InputConverterUnitForRawData implements InputConverterUnit<String[]> {
+---
+> public class InputConverterUnitForRawData implements InputConverterUnit<String[	]> {

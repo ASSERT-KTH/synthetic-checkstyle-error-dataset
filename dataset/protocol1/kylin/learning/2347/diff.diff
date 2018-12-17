@@ -1,0 +1,4 @@
+106c106
+<         } else if (!name.equals(other.name))
+---
+>         } else if (!name.equals (other.name))

@@ -1,0 +1,4 @@
+45c45
+<     private Object[] initInstances(Map<Integer, String> impls) {
+---
+>     private Object[	] initInstances(Map<Integer, String> impls) {

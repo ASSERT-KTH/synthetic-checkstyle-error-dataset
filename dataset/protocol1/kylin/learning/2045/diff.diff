@@ -1,0 +1,5 @@
+69,70c69
+<     protected Set<String> getRealizations(KylinConfig config, String cubes, ProjectInstance project) {
+<         if (Strings.isNullOrEmpty(cubes)) {
+---
+>     protected Set<String> getRealizations(KylinConfig config, String cubes, ProjectInstance project) {        if (Strings.isNullOrEmpty(cubes)) {

@@ -1,0 +1,5 @@
+45,46c45
+<             throw new IllegalStateException("more than one distinct values exist in the collection:" + values);
+<         }
+---
+>             throw new IllegalStateException("more than one distinct values exist in the collection:" + values);        }

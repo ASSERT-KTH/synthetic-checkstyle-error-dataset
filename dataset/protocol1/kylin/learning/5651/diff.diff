@@ -1,0 +1,5 @@
+62,63c62
+<     public boolean hasOption(Option option) {
+<         return commandLine.hasOption(option.getOpt());
+---
+>     public boolean hasOption(Option option) {        return commandLine.hasOption(option.getOpt());

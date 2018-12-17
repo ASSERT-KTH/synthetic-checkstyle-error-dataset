@@ -1,0 +1,5 @@
+44,45c44
+<         scanner.close();
+<         logger.info("Cuboid " + cuboidId + " output takes " + (System.currentTimeMillis() - startTime) + "ms");
+---
+>         scanner.close();        logger.info("Cuboid " + cuboidId + " output takes " + (System.currentTimeMillis() - startTime) + "ms");

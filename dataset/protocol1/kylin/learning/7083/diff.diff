@@ -1,0 +1,5 @@
+71c71,72
+<     public void setStreamingConfig(String streamingConfig) {
+---
+>     public void setStreamingConfig(String streamingConfig) 
+> {

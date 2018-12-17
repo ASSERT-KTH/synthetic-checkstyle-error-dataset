@@ -1,0 +1,4 @@
+49c49
+<             logger.warn("Failed to get zookeeper connect string from HBase configuration", ex);
+---
+>             logger.warn("Failed to get zookeeper connect string from HBase configuration", ex );

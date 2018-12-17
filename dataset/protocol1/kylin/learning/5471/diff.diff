@@ -1,0 +1,4 @@
+44c44
+<     private final CubeJoinedFlatTableEnrich flatDesc;
+---
+>     private final CubeJoinedFlatTableEnrich flatDesc	;

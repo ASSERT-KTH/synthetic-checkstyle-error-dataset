@@ -1,0 +1,5 @@
+59c59,60
+<     private static <K, V> List<Map<K, V>> combination(Dim<K, V>[] dims) {
+---
+>     private static <K, V> List<Map<K, V>> combination(Dim<K, V>[] dims) 
+> {

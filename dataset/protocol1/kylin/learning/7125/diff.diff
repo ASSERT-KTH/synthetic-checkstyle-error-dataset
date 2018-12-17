@@ -1,0 +1,4 @@
+228c228
+<             out.put((byte) i);
+---
+>             out.put((	byte) i);

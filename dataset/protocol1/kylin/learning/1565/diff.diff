@@ -1,0 +1,4 @@
+44c44
+<     public static short getShard(byte[] byteValues, int offset, int length, int totalShards) {
+---
+>     public static short getShard(byte	[] byteValues, int offset, int length, int totalShards) {

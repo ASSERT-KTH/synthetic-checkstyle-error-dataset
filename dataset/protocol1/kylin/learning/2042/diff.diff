@@ -1,0 +1,4 @@
+80c80
+<         this.kafkaConfig = kafkaConfig;
+---
+>         this.kafkaConfig = 	kafkaConfig;

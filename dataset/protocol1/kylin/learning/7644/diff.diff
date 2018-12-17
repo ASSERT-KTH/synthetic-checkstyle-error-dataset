@@ -1,0 +1,5 @@
+160,161c160
+<         if (resources.size() <= groupSize) {
+<             String group = longestCommonPrefix(resources, prefixSoFar);
+---
+>         if (resources.size() <= groupSize) {            String group = longestCommonPrefix(resources, prefixSoFar);

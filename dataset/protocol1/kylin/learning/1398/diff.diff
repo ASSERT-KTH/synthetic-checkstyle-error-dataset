@@ -1,0 +1,4 @@
+114c114
+<         public void setWrapper(String user, String projectName, String cubeName, String jobId, String jobType,
+---
+>         public void setWrapper(String user, String projectName	, String cubeName, String jobId, String jobType,

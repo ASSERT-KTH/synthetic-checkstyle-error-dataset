@@ -1,0 +1,4 @@
+65c65
+<         } else if (AclPermission.READ.equals(p)) {
+---
+>         } else if (AclPermission.READ.equals(p) ) {

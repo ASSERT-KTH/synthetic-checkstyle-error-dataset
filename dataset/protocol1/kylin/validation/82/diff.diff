@@ -1,0 +1,5 @@
+33c33,34
+<     T deserialize(ByteBuffer in);
+---
+>     T deserialize
+> (ByteBuffer in);

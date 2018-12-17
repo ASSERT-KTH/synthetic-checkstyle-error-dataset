@@ -1,0 +1,4 @@
+78c78
+<             Channel channel = session.openChannel("exec");
+---
+>             Channel 	channel = session.openChannel("exec");

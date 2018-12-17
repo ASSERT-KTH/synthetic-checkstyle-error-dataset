@@ -1,0 +1,4 @@
+26c26
+<     public void convert(T currentObject, GTRecord record);
+---
+>     public void convert (T currentObject, GTRecord record);

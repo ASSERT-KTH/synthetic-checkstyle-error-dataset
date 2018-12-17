@@ -1,0 +1,5 @@
+67,68c67
+<     public static void closeQuietly(final Connection conn) {
+<         closeQuietly((AutoCloseable) conn);
+---
+>     public static void closeQuietly(final Connection conn) {        closeQuietly((AutoCloseable) conn);

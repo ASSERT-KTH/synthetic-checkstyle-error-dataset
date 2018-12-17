@@ -1,0 +1,5 @@
+103,104c103
+<     public String getCurrentUserName() {
+<         return aclUtil.getCurrentUserName();
+---
+>     public String getCurrentUserName() {        return aclUtil.getCurrentUserName();

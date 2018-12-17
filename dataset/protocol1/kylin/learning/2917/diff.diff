@@ -1,0 +1,5 @@
+52,53c52
+<         public void onClearAll(Broadcaster broadcaster) throws IOException {
+<             cleanAllDataCache();
+---
+>         public void onClearAll(Broadcaster broadcaster) throws IOException {            cleanAllDataCache();

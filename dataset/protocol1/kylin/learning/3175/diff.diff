@@ -1,0 +1,4 @@
+992c992
+<             result.addAll(innerSearchCubingJobsV2(cubeNameSubstring, null, projectName, statusList, timeFilter));
+---
+>             	result.addAll(innerSearchCubingJobsV2(cubeNameSubstring, null, projectName, statusList, timeFilter));

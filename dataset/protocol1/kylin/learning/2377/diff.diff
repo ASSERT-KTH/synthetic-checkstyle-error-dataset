@@ -1,0 +1,5 @@
+35,36c35
+<     public JsonSerializer(Class<T> clz) {
+<         this.clz = clz;
+---
+>     public JsonSerializer(Class<T> clz) {        this.clz = clz;

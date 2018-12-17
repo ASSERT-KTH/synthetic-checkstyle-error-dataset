@@ -1,0 +1,4 @@
+138c138
+<             long bitmask = 1L << allColumns[i].getBitIndex();
+---
+>             long bitmask 	= 1L << allColumns[i].getBitIndex();

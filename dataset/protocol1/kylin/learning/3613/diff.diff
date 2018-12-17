@@ -1,0 +1,4 @@
+76c76
+<             this.isStandardPartitioned = cube.getModel().isStandardPartitionedDateColumn();
+---
+>             this.isStandardPartitioned = cube.	getModel().isStandardPartitionedDateColumn();

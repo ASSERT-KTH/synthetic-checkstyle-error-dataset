@@ -1,0 +1,4 @@
+38c38
+<     private String reuseColumn;
+---
+>     	private String reuseColumn;

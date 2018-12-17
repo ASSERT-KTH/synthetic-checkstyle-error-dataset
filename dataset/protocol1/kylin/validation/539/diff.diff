@@ -1,0 +1,4 @@
+73c73
+<             r = ((Comparable<T>) a[i]).compareTo(b[i]);
+---
+>             r = ((Comparable<T>) a[i])	.compareTo(b[i]);

@@ -1,0 +1,4 @@
+252c252
+<         store.checkAndPutResource(path, output, JOB_OUTPUT_SERIALIZER);
+---
+>         store.checkAndPutResource(path, output, 	JOB_OUTPUT_SERIALIZER);

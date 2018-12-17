@@ -1,0 +1,5 @@
+256,257c256
+<                     Object[] metrics = getMetricsValues(smallest.currentRecord);
+<                     reuseAggrs.reset();
+---
+>                     Object[] metrics = getMetricsValues(smallest.currentRecord);                    reuseAggrs.reset();

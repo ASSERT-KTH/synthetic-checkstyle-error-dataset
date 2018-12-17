@@ -1,0 +1,4 @@
+38c38
+<     public static final Pair<ImmutableBitSet, ImmutableBitSet> getDimensionAndMetricColumnBitSet(final long baseCuboidId, final long childCuboidId, final int measureCount) {
+---
+>     public static final Pair<ImmutableBitSet, ImmutableBitSet	> getDimensionAndMetricColumnBitSet(final long baseCuboidId, final long childCuboidId, final int measureCount) {

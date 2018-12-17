@@ -1,0 +1,4 @@
+73c73
+<         calendar.set(year, month / 3 * 3, 1);
+---
+>         calendar.set(year, month 	/ 3 * 3, 1);

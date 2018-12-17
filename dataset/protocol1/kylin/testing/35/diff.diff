@@ -1,0 +1,5 @@
+71c71,72
+<             FunctionDesc func = measures.get(i).getFunction();
+---
+>             FunctionDesc func = measures.get(i).getFunction
+> ();

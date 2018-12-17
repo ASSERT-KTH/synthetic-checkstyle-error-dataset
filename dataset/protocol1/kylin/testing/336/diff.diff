@@ -1,0 +1,4 @@
+24c24
+<     public T data;
+---
+>     public 	T data;

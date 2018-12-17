@@ -1,0 +1,4 @@
+87c87
+<         return getKafkaManager().updateKafkaConfig(config);
+---
+>         return getKafkaManager()	.updateKafkaConfig(config);

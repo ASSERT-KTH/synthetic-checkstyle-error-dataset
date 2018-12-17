@@ -1,0 +1,5 @@
+196,197c196
+<         } catch (Throwable e) {
+<             logger.error(e.getLocalizedMessage(), e);
+---
+>         } catch (Throwable e) {            logger.error(e.getLocalizedMessage(), e);

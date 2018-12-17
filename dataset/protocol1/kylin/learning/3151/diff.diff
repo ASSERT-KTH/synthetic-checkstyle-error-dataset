@@ -1,0 +1,4 @@
+64c64
+<             logger.warn("Will use default signature since cannot find class " + config.getSQLResponseSignatureClass());
+---
+>             logger.warn("Will use default signature since cannot find class " + config.getSQLResponseSignatureClass() );

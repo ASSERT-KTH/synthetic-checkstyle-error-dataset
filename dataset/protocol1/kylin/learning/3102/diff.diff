@@ -1,0 +1,5 @@
+368,369c368
+<     private boolean setCache(boolean flag) throws IOException {
+<         String url = baseUrl + "/admin/config";
+---
+>     private boolean setCache(boolean flag) throws IOException {        String url = baseUrl + "/admin/config";

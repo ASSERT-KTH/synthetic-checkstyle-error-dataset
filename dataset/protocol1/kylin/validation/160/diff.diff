@@ -1,0 +1,4 @@
+93c93
+<     protected NavigableSet<String> listResourcesRecursivelyImpl(String folderPath) throws IOException {
+---
+>     protected NavigableSet<	String> listResourcesRecursivelyImpl(String folderPath) throws IOException {

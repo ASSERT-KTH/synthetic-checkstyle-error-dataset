@@ -1,0 +1,5 @@
+115,116c115
+<         this.splitBuffers[this.bufferSize++] = cuboidIdSplit;
+<         offset += RowConstants.ROWKEY_CUBOIDID_LEN;
+---
+>         this.splitBuffers[this.bufferSize++] = cuboidIdSplit;        offset += RowConstants.ROWKEY_CUBOIDID_LEN;

@@ -1,0 +1,4 @@
+44c44
+<     protected final CubeSegment cubeSeg;
+---
+>     	protected final CubeSegment cubeSeg;

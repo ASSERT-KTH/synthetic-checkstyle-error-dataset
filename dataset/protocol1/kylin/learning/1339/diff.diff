@@ -1,0 +1,4 @@
+42c42
+<         return currentObject == END_ROW;
+---
+>         return 	currentObject == END_ROW;

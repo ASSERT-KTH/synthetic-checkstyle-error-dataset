@@ -1,0 +1,4 @@
+122c122
+<         } else if (partitionColType.isTimeFamily()) {
+---
+>         } else 	if (partitionColType.isTimeFamily()) {

@@ -1,0 +1,4 @@
+99c99
+<         this.cubeName = cubeName;
+---
+>         this	.cubeName = cubeName;

@@ -1,0 +1,5 @@
+152,153c152
+<             DictionaryInfo dictInfo = new DictionaryInfo(tblColRef.getColumnDesc(), tblColRef.getDatatype(), signature);
+<             logger.info("writing dictionary for TblColRef:" + tblColRef.toString());
+---
+>             DictionaryInfo dictInfo = new DictionaryInfo(tblColRef.getColumnDesc(), tblColRef.getDatatype(), signature);            logger.info("writing dictionary for TblColRef:" + tblColRef.toString());

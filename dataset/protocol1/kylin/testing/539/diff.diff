@@ -1,0 +1,4 @@
+60c60
+<         Map<String, String> result = new HashMap();
+---
+>         Map<String	, String> result = new HashMap();

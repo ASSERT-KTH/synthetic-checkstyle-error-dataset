@@ -1,0 +1,5 @@
+43,44c43
+<             } catch (ExecutionException ee) {
+<                 logger.error("Execution exception when running task in " + Thread.currentThread().getName());
+---
+>             } catch (ExecutionException ee) {                logger.error("Execution exception when running task in " + Thread.currentThread().getName());

@@ -1,0 +1,4 @@
+45c45
+<                 return new JDBCSqlQueryFormat(props);
+---
+>                 return new JDBCSqlQueryFormat(props );

@@ -1,0 +1,5 @@
+802,803c802
+<             logger.info("Cannot get recommended cuboid list for cube " + cubeName);
+<         } else {
+---
+>             logger.info("Cannot get recommended cuboid list for cube " + cubeName);        } else {

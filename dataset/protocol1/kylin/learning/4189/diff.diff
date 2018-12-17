@@ -1,0 +1,5 @@
+62,63c62
+<     public Sid getSid() {
+<         return sid;
+---
+>     public Sid getSid() {        return sid;

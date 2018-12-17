@@ -1,0 +1,4 @@
+42c42
+<             rowKeyEncoders.put(cuboid.getId(), rowKeyEncoder);
+---
+>             	rowKeyEncoders.put(cuboid.getId(), rowKeyEncoder);

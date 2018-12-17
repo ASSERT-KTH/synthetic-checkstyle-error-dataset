@@ -1,0 +1,4 @@
+50c50
+<         headerLength = cubeSeg.getRowKeyPreambleSize();
+---
+>         headerLength = cubeSeg.getRowKeyPreambleSize ();

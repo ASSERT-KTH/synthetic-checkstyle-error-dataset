@@ -1,0 +1,4 @@
+34c34
+<         metrics.set(cardinality, cardinality + measureCount);
+---
+>         metrics.	set(cardinality, cardinality + measureCount);

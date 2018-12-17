@@ -1,0 +1,4 @@
+26c26
+< import org.springframework.security.saml.SAMLCredential;
+---
+> import org.springframework.security.	saml.SAMLCredential;

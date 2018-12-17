@@ -1,0 +1,4 @@
+72c72
+<     @SuppressWarnings("static-access")
+---
+>     @SuppressWarnings( "static-access")

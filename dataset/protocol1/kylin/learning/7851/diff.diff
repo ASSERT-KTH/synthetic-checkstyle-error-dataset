@@ -1,0 +1,4 @@
+44c44
+<         return buffer.hasRemaining() ? (buffer.get() & 0xFF) : -1;
+---
+>         return buffer.hasRemaining() ? (buffer.get() & 0xFF) : -	1;

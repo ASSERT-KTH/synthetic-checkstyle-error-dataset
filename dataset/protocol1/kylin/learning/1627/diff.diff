@@ -1,0 +1,5 @@
+82,83c82
+<             Arrays.fill(outputValue, outputValueOffset, outputValueOffset + columnLen, RowConstants.BYTE_ONE);
+<         } else {
+---
+>             Arrays.fill(outputValue, outputValueOffset, outputValueOffset + columnLen, RowConstants.BYTE_ONE);        } else {

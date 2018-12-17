@@ -1,0 +1,4 @@
+26c26
+<     abstract public DistributedLock lockForClient(String client);
+---
+>     abstract public DistributedLock lockForClient(String client );

@@ -1,0 +1,4 @@
+48c48
+<         if (exception instanceof BadRequestException) {
+---
+>         if (exception 	instanceof BadRequestException) {

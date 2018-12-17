@@ -1,0 +1,4 @@
+39c39
+<         for (GrantedAuthority authority : authorities) {
+---
+>         for ( GrantedAuthority authority : authorities) {

@@ -1,0 +1,4 @@
+76c76
+<     abstract public void encode(GTRecord record, ImmutableBitSet keyColumns, byte[] buf);
+---
+>     abstract public void encode (GTRecord record, ImmutableBitSet keyColumns, byte[] buf);

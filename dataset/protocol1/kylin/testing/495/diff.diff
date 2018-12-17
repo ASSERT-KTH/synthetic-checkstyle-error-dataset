@@ -1,0 +1,5 @@
+32,33c32
+< import com.fasterxml.jackson.annotation.JsonProperty;
+< import com.google.common.base.Objects;
+---
+> import com.fasterxml.jackson.annotation.JsonProperty;import com.google.common.base.Objects;

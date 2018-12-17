@@ -1,0 +1,4 @@
+571c571
+<                 writeActivated = true;
+---
+>                 writeActivated 	= true;

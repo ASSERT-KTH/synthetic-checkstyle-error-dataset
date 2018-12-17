@@ -1,0 +1,4 @@
+31c31
+<     public static final int ROWKEY_CUBOIDID_LEN = 8;
+---
+>     public static final int 	ROWKEY_CUBOIDID_LEN = 8;

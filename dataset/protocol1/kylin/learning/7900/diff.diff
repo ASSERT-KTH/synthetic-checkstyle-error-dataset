@@ -1,0 +1,4 @@
+43c43
+<     public TooManyRequestException(String msg, String code) {
+---
+>     public 	TooManyRequestException(String msg, String code) {

@@ -1,0 +1,4 @@
+68c68
+<                     result = new FixedLenDimEnc(0);
+---
+>                     result = new FixedLenDimEnc(0 );

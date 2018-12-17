@@ -1,0 +1,4 @@
+46c46
+<         buf.append("java.version:").append(System.getProperty("java.version")).append("\n");
+---
+>         buf	.append("java.version:").append(System.getProperty("java.version")).append("\n");

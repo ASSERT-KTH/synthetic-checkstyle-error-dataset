@@ -1,0 +1,4 @@
+228c228
+<             NULL_STR = new String(new byte[] { 0, 9, 127, (byte) 255 }, "ISO-8859-1");
+---
+>             NULL_STR = new String(new byte[] { 	0, 9, 127, (byte) 255 }, "ISO-8859-1");

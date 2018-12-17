@@ -1,0 +1,4 @@
+288c288
+<         for (String resourceRoot : SKIP_CHILDREN_CHECK_RESOURCE_ROOT) {
+---
+>         for (String resourceRoot 	: SKIP_CHILDREN_CHECK_RESOURCE_ROOT) {

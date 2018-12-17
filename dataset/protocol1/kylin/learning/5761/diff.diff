@@ -1,0 +1,5 @@
+95,96c95
+<     public void encode(GTRecord record, ImmutableBitSet keyColumns, byte[] buf) {
+<         ByteArray byteArray = new ByteArray(buf, getHeaderLength(), 0);
+---
+>     public void encode(GTRecord record, ImmutableBitSet keyColumns, byte[] buf) {        ByteArray byteArray = new ByteArray(buf, getHeaderLength(), 0);

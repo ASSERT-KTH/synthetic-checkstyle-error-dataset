@@ -1,0 +1,4 @@
+51c51
+<         DimensionEncoding dimEnc = dimEncMap.get(col);
+---
+>         DimensionEncoding dimEnc 	= dimEncMap.get(col);

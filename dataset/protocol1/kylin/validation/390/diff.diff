@@ -1,0 +1,4 @@
+56c56
+<                     FixedLenHexDimEnc.ENCODING_NAME, IntegerDimEnc.ENCODING_NAME);
+---
+>                     FixedLenHexDimEnc.ENCODING_NAME, IntegerDimEnc.ENCODING_NAME );

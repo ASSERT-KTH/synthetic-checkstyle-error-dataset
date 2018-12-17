@@ -1,0 +1,4 @@
+75c75
+<         getTableACLManager().deleteTableACLByTbl(project, table);
+---
+>         getTableACLManager().deleteTableACLByTbl (project, table);

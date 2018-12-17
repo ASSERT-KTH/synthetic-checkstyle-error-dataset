@@ -1,0 +1,5 @@
+47,48c47
+<         setLastModified(dataModelDesc.getLastModified());
+<         setVersion(dataModelDesc.getVersion());
+---
+>         setLastModified(dataModelDesc.getLastModified());        setVersion(dataModelDesc.getVersion());

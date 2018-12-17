@@ -1,0 +1,5 @@
+278,279c278
+<                 parentCandidate.add(Cuboid.getBaseCuboidId(cubeDesc));
+<                 return parentCandidate;
+---
+>                 parentCandidate.add(Cuboid.getBaseCuboidId(cubeDesc));                return parentCandidate;

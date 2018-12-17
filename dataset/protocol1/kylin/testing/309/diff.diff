@@ -1,0 +1,5 @@
+37c37,38
+<     Output getOutput();
+---
+>     Output getOutput
+> ();

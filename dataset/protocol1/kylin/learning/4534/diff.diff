@@ -1,0 +1,5 @@
+389,390c389
+<         if (groups.contains(Constant.ROLE_ADMIN)) {
+<             return "GLOBAL_ADMIN";
+---
+>         if (groups.contains(Constant.ROLE_ADMIN)) {            return "GLOBAL_ADMIN";

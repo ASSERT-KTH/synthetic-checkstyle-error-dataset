@@ -1,0 +1,4 @@
+39c39
+<         this.timestamp = timestamp;
+---
+>         this.	timestamp = timestamp;

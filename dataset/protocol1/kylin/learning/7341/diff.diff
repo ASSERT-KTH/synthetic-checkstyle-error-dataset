@@ -1,0 +1,5 @@
+63c63,64
+<         return new LookupStringTable(tableDesc, pkCols, readableTable);
+---
+>         return new LookupStringTable
+> (tableDesc, pkCols, readableTable);

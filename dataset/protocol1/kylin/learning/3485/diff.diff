@@ -1,0 +1,4 @@
+30c30
+< import org.apache.kylin.common.persistence.AclEntity;
+---
+> import org	.apache.kylin.common.persistence.AclEntity;

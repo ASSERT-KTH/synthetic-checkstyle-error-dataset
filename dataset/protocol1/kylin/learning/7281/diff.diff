@@ -1,0 +1,5 @@
+64,65c64
+<     public static short readShort(byte[] bytes) {
+<         return (short) readShort(bytes, 0, Shorts.BYTES);
+---
+>     public static short readShort(byte[] bytes) {        return (short) readShort(bytes, 0, Shorts.BYTES);

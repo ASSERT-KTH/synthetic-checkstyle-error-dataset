@@ -1,0 +1,5 @@
+212,213c212
+<     public static boolean isPositiveShort(int i) {
+<         return (i & 0xFFFF8000) == 0;
+---
+>     public static boolean isPositiveShort(int i) {        return (i & 0xFFFF8000) == 0;

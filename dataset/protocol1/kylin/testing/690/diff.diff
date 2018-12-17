@@ -1,0 +1,5 @@
+129,130c129
+<     public boolean equals(Object obj) {
+<         if (this == obj)
+---
+>     public boolean equals(Object obj) {        if (this == obj)

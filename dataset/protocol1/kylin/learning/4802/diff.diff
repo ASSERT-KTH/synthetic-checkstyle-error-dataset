@@ -1,0 +1,4 @@
+36c36
+<     public static short getShard(long longValue, int totalShards) {
+---
+>     public 	static short getShard(long longValue, int totalShards) {

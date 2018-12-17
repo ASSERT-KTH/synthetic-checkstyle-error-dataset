@@ -1,0 +1,4 @@
+37c37
+<     protected AclPermission(int mask, char code) {
+---
+>     protected AclPermission(int mask,char code) {

@@ -1,0 +1,5 @@
+200,201c200
+<         try {
+<             return new String(idBytes, offset, length, "ISO-8859-1");
+---
+>         try {            return new String(idBytes, offset, length, "ISO-8859-1");

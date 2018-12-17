@@ -1,0 +1,4 @@
+129c129
+<             logger.error("Failed to load Hive Table", e);
+---
+>             logger.error("Failed to load Hive Table", 	e);

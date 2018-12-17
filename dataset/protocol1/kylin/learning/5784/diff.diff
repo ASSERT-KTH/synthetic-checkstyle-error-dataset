@@ -1,0 +1,4 @@
+48c48
+<     public int read(byte[] b, int off, int len) throws IOException {
+---
+>     public int read(byte[] b, int off	, int len) throws IOException {

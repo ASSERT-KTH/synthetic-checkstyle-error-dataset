@@ -1,0 +1,5 @@
+135,136c135
+<         BufferedReader reader = new BufferedReader(
+<                 new InputStreamReader(proc.getInputStream(), StandardCharsets.UTF_8));
+---
+>         BufferedReader reader = new BufferedReader(                new InputStreamReader(proc.getInputStream(), StandardCharsets.UTF_8));

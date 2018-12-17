@@ -1,0 +1,4 @@
+32c32
+<     ILookupTable getCachedLookupTable(TableDesc tableDesc, ExtTableSnapshotInfo extTableSnapshotInfo, boolean buildIfNotExist);
+---
+>     ILookupTable getCachedLookupTable(TableDesc tableDesc, 	ExtTableSnapshotInfo extTableSnapshotInfo, boolean buildIfNotExist);

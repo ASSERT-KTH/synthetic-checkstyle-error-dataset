@@ -1,0 +1,4 @@
+91c91
+<     abstract protected T[] convertRow(String[] cols);
+---
+>     abstract protected 	T[] convertRow(String[] cols);

@@ -1,0 +1,4 @@
+43c43
+<     SimpleGrantedAuthority adminAuthority = new SimpleGrantedAuthority(Constant.ROLE_ADMIN);
+---
+>     SimpleGrantedAuthority adminAuthority = new 	SimpleGrantedAuthority(Constant.ROLE_ADMIN);

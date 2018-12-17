@@ -1,0 +1,4 @@
+81c81
+<                     : folderPath + path.substring(prefix.length());
+---
+>                     : folderPath + path.substring(prefix.length ());

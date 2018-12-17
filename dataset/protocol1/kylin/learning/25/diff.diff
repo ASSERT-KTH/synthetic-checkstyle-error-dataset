@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.common.util.MailTemplateProvider;
+< import org.apache.kylin.job.execution.ExecutableState;
+---
+> import org.apache.kylin.common.util.MailTemplateProvider;import org.apache.kylin.job.execution.ExecutableState;

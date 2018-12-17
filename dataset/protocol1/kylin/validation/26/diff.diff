@@ -1,0 +1,4 @@
+58c58
+<             public String apply(String input) {
+---
+>             public String apply(String input ) {

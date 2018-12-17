@@ -1,0 +1,4 @@
+48c48
+<             userDetails = ldapUserDetailsService.loadUserByUsername(userName);
+---
+>             userDetails = ldapUserDetailsService.loadUserByUsername(userName)	;

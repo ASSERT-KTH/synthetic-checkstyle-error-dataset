@@ -1,0 +1,4 @@
+226c226
+<             int c = col.getColumn().getColumnDesc().getZeroBasedIndex();
+---
+>             int c = col.getColumn().getColumnDesc().getZeroBasedIndex()	;

@@ -1,0 +1,4 @@
+55c55
+<         this.table = table;
+---
+>         this.table 	= table;

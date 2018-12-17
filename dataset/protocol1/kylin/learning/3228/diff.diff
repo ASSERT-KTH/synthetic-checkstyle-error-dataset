@@ -1,0 +1,4 @@
+57c57
+<     public int hashCode() {
+---
+>     	public int hashCode() {

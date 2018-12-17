@@ -1,0 +1,5 @@
+68,69c68
+<     public boolean checkIsGlobalAdmin() {
+<         return true;
+---
+>     public boolean checkIsGlobalAdmin() {        return true;

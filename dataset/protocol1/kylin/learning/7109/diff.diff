@@ -1,0 +1,5 @@
+48,49c48
+<     public static void addToggle(String key, String value) {
+<         Map<String, String> map = _backdoorToggles.get();
+---
+>     public static void addToggle(String key, String value) {        Map<String, String> map = _backdoorToggles.get();

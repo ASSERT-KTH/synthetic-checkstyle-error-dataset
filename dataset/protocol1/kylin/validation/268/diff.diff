@@ -1,0 +1,4 @@
+34c34
+<         return number instanceof BigDecimal ? (BigDecimal) number
+---
+>         return number instanceof BigDecimal ? 	(BigDecimal) number

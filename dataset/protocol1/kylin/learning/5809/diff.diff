@@ -1,0 +1,4 @@
+79c79
+<         this.setTableType(table.getTableType());
+---
+>         this.setTableType(table.getTableType ());

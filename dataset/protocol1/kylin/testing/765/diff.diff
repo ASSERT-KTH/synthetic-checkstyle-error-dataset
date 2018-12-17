@@ -1,0 +1,4 @@
+74c74
+<         hashCode = hashCode * prime + extra.hashCode();
+---
+>         hashCode = hashCode * prime + extra	.hashCode();

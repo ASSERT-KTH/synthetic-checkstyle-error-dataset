@@ -1,0 +1,4 @@
+38c38
+<     public RowKeyEncoder getRowkeyEncoder(Cuboid cuboid) {
+---
+>     public RowKeyEncoder getRowkeyEncoder(Cuboid cuboid) 	{

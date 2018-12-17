@@ -1,0 +1,5 @@
+37,38c37
+<     public UserGrantedAuthority(String authority) {
+<         setAuthority(authority);
+---
+>     public UserGrantedAuthority(String authority) {        setAuthority(authority);

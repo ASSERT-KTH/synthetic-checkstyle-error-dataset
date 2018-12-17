@@ -1,0 +1,4 @@
+411c411
+<             return Long.parseLong(str);
+---
+>             return Long.parseLong(str );

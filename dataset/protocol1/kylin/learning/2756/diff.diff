@@ -1,0 +1,4 @@
+192c192
+<                 map.put(tableName, colToAliasMap);
+---
+>                 map.put (tableName, colToAliasMap);

@@ -1,0 +1,4 @@
+141c141
+<         for (TblColRef col : this.getAllColumns()) {
+---
+>         for (TblColRef col : this.getAllColumns()) 	{

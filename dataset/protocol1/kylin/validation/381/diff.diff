@@ -1,0 +1,4 @@
+220c220
+<     @RequestMapping(value = "/{project}/{tableName}/{snapshotID}/snapshotLocalCache", method = { RequestMethod.PUT })
+---
+>     @RequestMapping(value 	= "/{project}/{tableName}/{snapshotID}/snapshotLocalCache", method = { RequestMethod.PUT })

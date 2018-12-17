@@ -1,0 +1,5 @@
+117c117,118
+<     public RestClient(String host, int port, String userName, String password) {
+---
+>     public RestClient(String host, int port, String userName, String password) 
+> {

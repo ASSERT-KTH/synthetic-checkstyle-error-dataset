@@ -1,0 +1,5 @@
+54,55c54
+<     public static void closeQuietly(final Statement stmt) {
+<         closeQuietly((AutoCloseable) stmt);
+---
+>     public static void closeQuietly(final Statement stmt) {        closeQuietly((AutoCloseable) stmt);

@@ -1,0 +1,5 @@
+30,31c30
+<     public final long timeSpent;
+<     public int aggrCacheMB;
+---
+>     public final long timeSpent;    public int aggrCacheMB;

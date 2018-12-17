@@ -1,0 +1,4 @@
+99c99
+<         String[] partsStr = Iterables.toArray(parts, String.class);
+---
+>         String[] partsStr = Iterables.toArray(parts,String.class);

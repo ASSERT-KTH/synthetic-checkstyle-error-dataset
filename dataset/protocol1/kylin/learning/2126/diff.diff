@@ -1,0 +1,4 @@
+452c452
+<                             pstat = connection.prepareStatement(sqls.getInsertSqlWithoutContent());
+---
+>                             pstat = connection.prepareStatement(sqls.getInsertSqlWithoutContent ());

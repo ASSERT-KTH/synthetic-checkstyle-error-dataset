@@ -1,0 +1,4 @@
+77c77
+<             queryMetrics.increase("avgQueryLatency", dashboardService.getMetricValue(sqlResponse.getResults().get(0).get(1)));
+---
+>             queryMetrics.increase("avgQueryLatency", dashboardService.getMetricValue(sqlResponse.getResults().get(0).get (1)));

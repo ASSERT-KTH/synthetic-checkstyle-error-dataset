@@ -1,0 +1,5 @@
+67,68c67
+<         List<MeasureDesc> measures = cubeDesc.getMeasures();
+<         int measureSize = measures.size();
+---
+>         List<MeasureDesc> measures = cubeDesc.getMeasures();        int measureSize = measures.size();

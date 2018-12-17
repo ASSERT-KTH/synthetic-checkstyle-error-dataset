@@ -1,0 +1,5 @@
+31,32c31
+< import org.apache.kylin.rest.service.DashboardService;
+< import org.apache.kylin.rest.service.QueryService;
+---
+> import org.apache.kylin.rest.service.DashboardService;import org.apache.kylin.rest.service.QueryService;

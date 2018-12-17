@@ -1,0 +1,5 @@
+139,140c139
+<         try (AutoReadWriteLock.AutoLock l = lock.lockForRead()) {
+<             return userMap.containsKey(username);
+---
+>         try (AutoReadWriteLock.AutoLock l = lock.lockForRead()) {            return userMap.containsKey(username);

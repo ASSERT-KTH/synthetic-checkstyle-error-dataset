@@ -1,0 +1,5 @@
+30,31c30
+< import org.apache.kylin.common.KylinConfig;
+< import org.slf4j.Logger;
+---
+> import org.apache.kylin.common.KylinConfig;import org.slf4j.Logger;

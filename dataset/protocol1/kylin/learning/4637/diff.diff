@@ -1,0 +1,5 @@
+37,38c37
+<         this.path = path;
+<         this.lastModified = lastModified;
+---
+>         this.path = path;        this.lastModified = lastModified;

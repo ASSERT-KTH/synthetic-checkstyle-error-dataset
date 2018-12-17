@@ -1,0 +1,4 @@
+73c73
+<         } else if (partitionColType.isStringFamily() || partitionColType.isIntegerFamily()) {//integer like 20160101
+---
+>         } else if (partitionColType.	isStringFamily() || partitionColType.isIntegerFamily()) {//integer like 20160101

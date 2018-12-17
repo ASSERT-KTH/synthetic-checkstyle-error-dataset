@@ -1,0 +1,4 @@
+264c264
+<         for (CubeInstance cubeInstance : cubes) {
+---
+>         for (CubeInstance cubeInstance : cubes) 	{

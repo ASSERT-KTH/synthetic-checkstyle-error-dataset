@@ -1,0 +1,4 @@
+79c79
+<                 allTablesNeedToBeDropped.add(desc.getTableName().getNameAsString());
+---
+>                 allTablesNeedToBeDropped.add( desc.getTableName().getNameAsString());

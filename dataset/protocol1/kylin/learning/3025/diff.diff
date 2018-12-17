@@ -1,0 +1,4 @@
+114c114
+<         if (!column.getName().equalsIgnoreCase(newCol.getName())) {
+---
+>         if (!column.getName().equalsIgnoreCase(newCol.	getName())) {

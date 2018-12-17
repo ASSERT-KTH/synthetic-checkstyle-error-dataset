@@ -1,0 +1,5 @@
+285,286c285
+<     public final long getLastModified() {
+<         return getOutput().getLastModified();
+---
+>     public final long getLastModified() {        return getOutput().getLastModified();

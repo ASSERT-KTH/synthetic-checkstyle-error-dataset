@@ -1,0 +1,5 @@
+81,82c81
+<         try {
+<             Broadcaster.getInstance(config).notifyClearAll();
+---
+>         try {            Broadcaster.getInstance(config).notifyClearAll();

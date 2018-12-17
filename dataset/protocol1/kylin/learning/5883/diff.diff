@@ -1,0 +1,5 @@
+35,36c35
+<         this.maxVersions = KylinConfig.getInstanceFromEnv().getAppendDictMaxVersions();
+<         this.versionTTL = KylinConfig.getInstanceFromEnv().getAppendDictVersionTTL();
+---
+>         this.maxVersions = KylinConfig.getInstanceFromEnv().getAppendDictMaxVersions();        this.versionTTL = KylinConfig.getInstanceFromEnv().getAppendDictVersionTTL();

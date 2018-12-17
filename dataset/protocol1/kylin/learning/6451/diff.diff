@@ -1,0 +1,4 @@
+58c58
+<             dictInfo.getDictionaryObject().dump(System.out);
+---
+>             dictInfo.getDictionaryObject().dump(System.out)	;

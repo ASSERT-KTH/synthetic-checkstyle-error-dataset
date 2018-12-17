@@ -1,0 +1,4 @@
+61c61
+<     protected long lastModified;
+---
+>     protected long 	lastModified;

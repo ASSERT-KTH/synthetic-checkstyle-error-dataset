@@ -1,0 +1,5 @@
+59c59,60
+<         return commandLine.getOptionValue(option.getOpt());
+---
+>         return commandLine.getOptionValue
+> (option.getOpt());

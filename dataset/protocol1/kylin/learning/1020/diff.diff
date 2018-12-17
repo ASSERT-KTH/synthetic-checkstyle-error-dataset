@@ -1,0 +1,5 @@
+222c222,223
+<     public static boolean isMetaDataPersistException(Exception e, final int maxDepth) {
+---
+>     public static boolean isMetaDataPersistException
+> (Exception e, final int maxDepth) {

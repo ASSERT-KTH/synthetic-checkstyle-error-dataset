@@ -1,0 +1,4 @@
+58c58
+<     public void setTableToProjects(Map<String, String> tableToProjects) {
+---
+>     public void 	setTableToProjects(Map<String, String> tableToProjects) {

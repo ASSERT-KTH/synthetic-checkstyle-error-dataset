@@ -1,0 +1,4 @@
+1855c1855
+<     public static boolean contains(byte[] array, byte target) {
+---
+>     public static boolean 	contains(byte[] array, byte target) {

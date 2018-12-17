@@ -1,0 +1,4 @@
+357c357
+<         if (extTableSnapshotInfo == null) {
+---
+>         if (extTableSnapshotInfo == null ) {

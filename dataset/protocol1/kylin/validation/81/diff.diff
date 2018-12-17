@@ -1,0 +1,4 @@
+82c82
+<                 metrics.updateHistogram(MetricsNameBuilder.buildMetricName(name, MetricsConstant.QUERY_SCAN_ROWCOUNT),
+---
+>                 metrics.updateHistogram(MetricsNameBuilder.buildMetricName(name, MetricsConstant.	QUERY_SCAN_ROWCOUNT),

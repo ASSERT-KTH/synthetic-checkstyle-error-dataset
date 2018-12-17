@@ -1,0 +1,4 @@
+34c34
+<     public T readContent(RawResource res) throws IOException {
+---
+>     public T readContent(RawResource res) throws 	IOException {

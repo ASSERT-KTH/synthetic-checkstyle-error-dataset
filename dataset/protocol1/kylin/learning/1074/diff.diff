@@ -1,0 +1,5 @@
+49,50c49
+<         if (len == 0) {
+<             return 0;
+---
+>         if (len == 0) {            return 0;

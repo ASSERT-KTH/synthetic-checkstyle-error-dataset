@@ -1,0 +1,4 @@
+32c32
+< import org.apache.kylin.common.persistence.ResourceStore;
+---
+> import org.apache.kylin.common	.persistence.ResourceStore;

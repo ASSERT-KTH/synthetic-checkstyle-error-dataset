@@ -1,0 +1,5 @@
+35,36c35
+<     private static long ONE_HOUR_TS = 60 * ONE_MINUTE_TS;
+<     private static long ONE_DAY_TS = 24 * ONE_HOUR_TS;
+---
+>     private static long ONE_HOUR_TS = 60 * ONE_MINUTE_TS;    private static long ONE_DAY_TS = 24 * ONE_HOUR_TS;

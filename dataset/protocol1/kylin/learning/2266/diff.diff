@@ -1,0 +1,5 @@
+52,53c52
+<     final ImmutableBitSet dimensions = ImmutableBitSet.valueOf(0, 1, 2, 3, 4);
+<     final ImmutableBitSet metrics = ImmutableBitSet.valueOf(5, 6);
+---
+>     final ImmutableBitSet dimensions = ImmutableBitSet.valueOf(0, 1, 2, 3, 4);    final ImmutableBitSet metrics = ImmutableBitSet.valueOf(5, 6);

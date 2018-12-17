@@ -1,0 +1,5 @@
+674,675c674
+<             throw new BadRequestException(msg.getEMPTY_CUBE_NAME());
+<         }
+---
+>             throw new BadRequestException(msg.getEMPTY_CUBE_NAME());        }

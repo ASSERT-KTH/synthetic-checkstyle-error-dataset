@@ -1,0 +1,4 @@
+497c497
+<         this.selectRule = selectRule;
+---
+>         this.	selectRule = selectRule;

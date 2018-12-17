@@ -1,0 +1,4 @@
+123c123
+<         StreamingConfig streamingConfig = deserializeSchemalDesc(streamingRequest);
+---
+>         StreamingConfig streamingConfig = deserializeSchemalDesc(streamingRequest)	;

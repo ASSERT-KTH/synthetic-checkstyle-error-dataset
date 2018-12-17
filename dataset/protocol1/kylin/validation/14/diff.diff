@@ -1,0 +1,5 @@
+33c33,34
+<     public List<T> sample(List<T> data, int sampleNumber) {
+---
+>     public List<T> sample
+> (List<T> data, int sampleNumber) {

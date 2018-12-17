@@ -1,0 +1,5 @@
+85c85,86
+<         extFilterService.removeExtFilterFromProject(filter, project);
+---
+>         extFilterService.removeExtFilterFromProject
+> (filter, project);

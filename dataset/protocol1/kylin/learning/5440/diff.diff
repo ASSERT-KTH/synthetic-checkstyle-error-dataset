@@ -1,0 +1,4 @@
+213c213
+<             for (Map.Entry<String, String> counterEntry : counterMap.entrySet()) {
+---
+>             for 	(Map.Entry<String, String> counterEntry : counterMap.entrySet()) {

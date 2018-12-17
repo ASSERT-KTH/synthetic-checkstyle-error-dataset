@@ -1,0 +1,5 @@
+63,64c63
+<         sb.append(": ");
+<         sb.append(message);
+---
+>         sb.append(": ");        sb.append(message);

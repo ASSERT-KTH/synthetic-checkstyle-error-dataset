@@ -1,0 +1,5 @@
+47,48c47
+<     public void setPermission(String permission) {
+<         this.permission = permission;
+---
+>     public void setPermission(String permission) {        this.permission = permission;

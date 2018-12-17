@@ -1,0 +1,4 @@
+38c38
+<             String str = in.readUTF();
+---
+>             String str = 	in.readUTF();

@@ -1,0 +1,4 @@
+92c92
+<         for (int i = 0; i < paramCount; i++, param = param.getNextParameter()) {
+---
+>         for (int i = 0; i < paramCount; i++, param = 	param.getNextParameter()) {

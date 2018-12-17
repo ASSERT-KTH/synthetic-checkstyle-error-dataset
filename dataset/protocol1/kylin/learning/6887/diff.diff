@@ -1,0 +1,4 @@
+37c37
+<                 "the size of row key could not be large than " + (Long.SIZE - 1));
+---
+>                 "the size of row key could not be large than " + (Long.SIZE 	- 1));

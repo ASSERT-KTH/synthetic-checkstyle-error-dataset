@@ -1,0 +1,4 @@
+34c34
+<     public ExecuteException(String message, Throwable cause) {
+---
+>     public ExecuteException(String message,Throwable cause) {

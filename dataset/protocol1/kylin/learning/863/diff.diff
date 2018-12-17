@@ -1,0 +1,4 @@
+39c39
+<     protected List<SelectedColumnMeta> columnMetas;
+---
+>     protected List<SelectedColumnMeta	> columnMetas;

@@ -1,0 +1,4 @@
+44c44
+<         this.formerProjectName = formerProjectName;
+---
+>         	this.formerProjectName = formerProjectName;

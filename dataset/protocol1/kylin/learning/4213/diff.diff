@@ -1,0 +1,5 @@
+234c234,235
+<             leftRowsForCurValue = Math.max(leftRowsForCurValue - 1, 0);
+---
+>             leftRowsForCurValue = Math.max
+> (leftRowsForCurValue - 1, 0);

@@ -1,0 +1,5 @@
+60c60,61
+<     public Map<String, String> getInfo() {
+---
+>     public Map<String, String> getInfo() 
+> {

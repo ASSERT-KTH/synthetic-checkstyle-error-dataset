@@ -1,0 +1,4 @@
+40c40
+<     public JobException(String message, Throwable cause) {
+---
+>     public JobException( String message, Throwable cause) {

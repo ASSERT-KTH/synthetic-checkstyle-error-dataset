@@ -1,0 +1,5 @@
+56,57c56
+<         }
+<         return (short) ((cuboidShardBase + shardOffset) % totalShards);
+---
+>         }        return (short) ((cuboidShardBase + shardOffset) % totalShards);

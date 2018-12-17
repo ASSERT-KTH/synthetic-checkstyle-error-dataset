@@ -1,0 +1,4 @@
+115c115
+<                 Arrays.fill(buf.array(), buf.offset() + pos, buf.offset() + pos + maxLength, defaultValue);
+---
+>                 Arrays.fill(buf.array(), buf.offset() + 	pos, buf.offset() + pos + maxLength, defaultValue);

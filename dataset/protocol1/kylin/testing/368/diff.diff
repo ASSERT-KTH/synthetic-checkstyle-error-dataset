@@ -1,0 +1,5 @@
+48,49c48
+<     public void setContent(String content) {
+<         this.content = content;
+---
+>     public void setContent(String content) {        this.content = content;

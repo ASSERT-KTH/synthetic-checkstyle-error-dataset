@@ -1,0 +1,4 @@
+77c77
+<             if (!path.startsWith(prefix))
+---
+>             if ( !path.startsWith(prefix))

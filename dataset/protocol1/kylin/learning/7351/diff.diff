@@ -1,0 +1,4 @@
+96c96
+<                 segmentSignatureSet.add(new SegmentSignature(cubeSeg.getName(), cubeSeg.getLastBuildTime()));
+---
+>                 segmentSignatureSet.add(new SegmentSignature (cubeSeg.getName(), cubeSeg.getLastBuildTime()));

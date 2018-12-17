@@ -1,0 +1,4 @@
+41c41
+<         TableDesc tableDesc = metaMgr.getTableDesc(table, project);
+---
+>         TableDesc tableDesc = metaMgr.getTableDesc(table, project );

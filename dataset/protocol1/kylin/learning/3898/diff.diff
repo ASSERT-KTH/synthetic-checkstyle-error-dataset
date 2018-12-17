@@ -1,0 +1,5 @@
+300,301c300
+<         public List<String> getAuthorities() {
+<             return authorities;
+---
+>         public List<String> getAuthorities() {            return authorities;

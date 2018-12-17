@@ -1,0 +1,4 @@
+24c24
+< import org.apache.kylin.cube.CubeManager;
+---
+> import org.apache.kylin.cube.	CubeManager;

@@ -1,0 +1,4 @@
+231c231
+<                     leftRowsForCurValue = (long) (nRows * (double) weight(curValue) / (double) spec.weightSum);
+---
+>                     	leftRowsForCurValue = (long) (nRows * (double) weight(curValue) / (double) spec.weightSum);

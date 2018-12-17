@@ -1,0 +1,5 @@
+166,167c166
+<             if (hbaseAdmin.tableExists(htableName)) {
+<                 if (hbaseAdmin.isTableEnabled(htableName)) {
+---
+>             if (hbaseAdmin.tableExists(htableName)) {                if (hbaseAdmin.isTableEnabled(htableName)) {

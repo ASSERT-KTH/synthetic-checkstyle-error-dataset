@@ -1,0 +1,4 @@
+85c85
+<             throw new InternalErrorException("Failed to dump project diagnosis info. " + e.getMessage(), e);
+---
+>             throw new InternalErrorException("Failed to dump project diagnosis info. " + e	.getMessage(), e);

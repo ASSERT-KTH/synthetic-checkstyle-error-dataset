@@ -1,0 +1,4 @@
+106c106
+<                         metricsColBlocks.get(cbIdx).set(gtColIdx);
+---
+>                         metricsColBlocks.get (cbIdx).set(gtColIdx);

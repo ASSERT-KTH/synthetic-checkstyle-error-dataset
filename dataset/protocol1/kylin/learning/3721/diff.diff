@@ -1,0 +1,5 @@
+37,38c37
+<     public SplittedBytes[] getSplitBuffers() {
+<         return splitBuffers;
+---
+>     public SplittedBytes[] getSplitBuffers() {        return splitBuffers;

@@ -1,0 +1,5 @@
+64,65c64
+<         sb.append(message);
+<         sb.append(lineSeparator);
+---
+>         sb.append(message);        sb.append(lineSeparator);

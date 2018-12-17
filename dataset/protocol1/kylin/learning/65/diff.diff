@@ -1,0 +1,4 @@
+122c122
+<         long count = 1;
+---
+>         long count = 	1;

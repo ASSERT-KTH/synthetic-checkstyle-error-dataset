@@ -1,0 +1,4 @@
+139c139
+<         return flatDesc.useAlias();
+---
+>         return flatDesc.useAlias ();

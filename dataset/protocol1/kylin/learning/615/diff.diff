@@ -1,0 +1,5 @@
+273,274c273
+<                     System.err.println("Failed to open " + path);
+<                     logger.error(ex.getLocalizedMessage(), ex);
+---
+>                     System.err.println("Failed to open " + path);                    logger.error(ex.getLocalizedMessage(), ex);

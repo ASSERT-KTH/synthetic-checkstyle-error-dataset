@@ -1,0 +1,4 @@
+47c47
+< import org.apache.kylin.rest.security.springacl.SidInfo;
+---
+> import org.apache.kylin.rest.security	.springacl.SidInfo;

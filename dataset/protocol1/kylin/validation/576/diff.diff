@@ -1,0 +1,5 @@
+74,75c74
+<         Set<GrantedAuthority> userAuthorities = new HashSet<GrantedAuthority>();
+<         userAuthorities.addAll(defaultAuthorities);
+---
+>         Set<GrantedAuthority> userAuthorities = new HashSet<GrantedAuthority>();        userAuthorities.addAll(defaultAuthorities);

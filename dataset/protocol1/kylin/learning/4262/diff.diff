@@ -1,0 +1,4 @@
+399c399
+<             int smallCellMetadataErrorThreshold = kylinConfig.getSmallCellMetadataErrorThreshold();
+---
+>             int smallCellMetadataErrorThreshold = 	kylinConfig.getSmallCellMetadataErrorThreshold();

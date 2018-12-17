@@ -1,0 +1,5 @@
+62,63c62
+<         classRenameMap = new HashMap<>();
+<         classRenameMap.put("org.apache.kylin.job.common.HadoopShellExecutable", "org.apache.kylin.engine.mr.common.HadoopShellExecutable");
+---
+>         classRenameMap = new HashMap<>();        classRenameMap.put("org.apache.kylin.job.common.HadoopShellExecutable", "org.apache.kylin.engine.mr.common.HadoopShellExecutable");

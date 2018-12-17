@@ -1,0 +1,5 @@
+36,37c36
+<         super(contextSource, groupSearchBase);
+<         setConvertToUpperCase(false);
+---
+>         super(contextSource, groupSearchBase);        setConvertToUpperCase(false);

@@ -1,0 +1,4 @@
+41c41
+<             rowKeyEncoder = new RowKeyEncoder(cubeSegment, cuboid);
+---
+>             rowKeyEncoder = new RowKeyEncoder(cubeSegment, cuboid)	;

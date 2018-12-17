@@ -1,0 +1,4 @@
+678c678
+<                 tailOffset = Math.max(diskOffset + n, tailOffset);
+---
+>                 tailOffset = Math.max (diskOffset + n, tailOffset);

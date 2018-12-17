@@ -1,0 +1,5 @@
+88c88,89
+<     public String getDISABLE_NOT_READY_CUBE() {
+---
+>     public String getDISABLE_NOT_READY_CUBE() 
+> {

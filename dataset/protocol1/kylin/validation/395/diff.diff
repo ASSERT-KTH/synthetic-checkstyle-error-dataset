@@ -1,0 +1,5 @@
+219,220c219
+<             out = fs.create(p, true);
+<             content.write(out);
+---
+>             out = fs.create(p, true);            content.write(out);

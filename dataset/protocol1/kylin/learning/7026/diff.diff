@@ -1,0 +1,4 @@
+31c31
+<     @JsonProperty("mandatory_dims")
+---
+>     	@JsonProperty("mandatory_dims")

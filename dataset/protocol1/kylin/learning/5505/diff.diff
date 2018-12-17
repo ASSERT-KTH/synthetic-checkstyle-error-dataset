@@ -1,0 +1,4 @@
+103c103
+<     private Pair<Integer, String> runRemoteCommand(String command, Logger logAppender) throws IOException {
+---
+>     private Pair<Integer, String> runRemoteCommand(String command,Logger logAppender) throws IOException {

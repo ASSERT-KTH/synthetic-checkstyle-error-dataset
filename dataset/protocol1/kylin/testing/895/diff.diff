@@ -1,0 +1,5 @@
+160c160,161
+<                 logger.error("Error cleaning up " + backPath, e);
+---
+>                 logger.error
+> ("Error cleaning up " + backPath, e);

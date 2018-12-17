@@ -1,0 +1,5 @@
+85,86c85
+<         if (permission instanceof String) {
+<             String permString = (String) permission;
+---
+>         if (permission instanceof String) {            String permString = (String) permission;

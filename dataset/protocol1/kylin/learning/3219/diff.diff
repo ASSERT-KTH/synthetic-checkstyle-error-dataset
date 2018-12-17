@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.metadata.model.ExternalFilterDesc;
+< import org.apache.kylin.rest.constant.Constant;
+---
+> import org.apache.kylin.metadata.model.ExternalFilterDesc;import org.apache.kylin.rest.constant.Constant;

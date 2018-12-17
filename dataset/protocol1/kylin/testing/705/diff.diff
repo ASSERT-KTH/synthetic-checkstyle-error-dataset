@@ -1,0 +1,4 @@
+97c97
+<     public void setRowkeyColumns(RowKeyColDesc[] rowkeyColumns) {
+---
+>     public 	void setRowkeyColumns(RowKeyColDesc[] rowkeyColumns) {

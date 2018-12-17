@@ -1,0 +1,5 @@
+28,29c28
+<     private String projectName;
+<     private String modelName;
+---
+>     private String projectName;    private String modelName;

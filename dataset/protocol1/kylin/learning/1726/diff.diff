@@ -1,0 +1,4 @@
+313c313
+<                 for (ii = wordStart, jj = j; ii < wordEnd; ii++, jj++)
+---
+>                 for (ii = wordStart, jj = j; ii < wordEnd; ii	++, jj++)

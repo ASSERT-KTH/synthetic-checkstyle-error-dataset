@@ -1,0 +1,5 @@
+43,44c43
+<     final private Map<TblColRef, Dictionary<String>> dictionaryMap;
+<     final private Map<TblColRef, DimensionEncoding> encMap = Maps.newHashMap();
+---
+>     final private Map<TblColRef, Dictionary<String>> dictionaryMap;    final private Map<TblColRef, DimensionEncoding> encMap = Maps.newHashMap();

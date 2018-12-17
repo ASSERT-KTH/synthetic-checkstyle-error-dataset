@@ -1,0 +1,4 @@
+72c72
+<             queryLatencyTimeMillisQuantiles[i] = registry.newQuantiles("QueryLatency" + interval + "s", "Query queue time in milli second", "ops", "", interval);
+---
+>             queryLatencyTimeMillisQuantiles[i] = registry.newQuantiles("QueryLatency" + interval + "s", "Query queue time in milli second", "ops", 	"", interval);

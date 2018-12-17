@@ -1,0 +1,4 @@
+87c87
+<     public void clearCache(CubeInstance cubeInstance) {
+---
+>     public void clearCache(CubeInstance cubeInstance) 	{

@@ -1,0 +1,5 @@
+501,502c501
+<     public String toString() {
+<         return Objects.toStringHelper(this).add("id", getId()).add("name", getName()).add("state", getStatus())
+---
+>     public String toString() {        return Objects.toStringHelper(this).add("id", getId()).add("name", getName()).add("state", getStatus())

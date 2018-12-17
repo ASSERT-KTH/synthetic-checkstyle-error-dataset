@@ -1,0 +1,5 @@
+33,34c33
+<     protected AclPermission(int mask) {
+<         super(mask);
+---
+>     protected AclPermission(int mask) {        super(mask);

@@ -1,0 +1,4 @@
+400c400
+<                 long candidate = doFindBestMatchCuboid2(cuboid, child);
+---
+>                 long candidate = doFindBestMatchCuboid2 (cuboid, child);

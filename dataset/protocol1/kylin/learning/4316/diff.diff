@@ -1,0 +1,4 @@
+520c520
+<     public long getPartialCubeFullMask() {
+---
+>     	public long getPartialCubeFullMask() {

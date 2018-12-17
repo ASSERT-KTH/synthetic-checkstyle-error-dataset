@@ -1,0 +1,4 @@
+438c438
+<                 if (diskOffset != tailOffset())
+---
+>                 if 	(diskOffset != tailOffset())

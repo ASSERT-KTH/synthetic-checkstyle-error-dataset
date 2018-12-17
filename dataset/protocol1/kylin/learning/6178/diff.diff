@@ -1,0 +1,5 @@
+271,272c271
+<                 ret.add(ae);
+<             } catch (IllegalArgumentException e) {
+---
+>                 ret.add(ae);            } catch (IllegalArgumentException e) {

@@ -1,0 +1,4 @@
+122c122
+<     public ExtTableSnapshotInfo getSnapshot(String tableName, String snapshotID) {
+---
+>     public ExtTableSnapshotInfo getSnapshot(String tableName,String snapshotID) {

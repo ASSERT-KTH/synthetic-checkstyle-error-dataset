@@ -1,0 +1,4 @@
+43c43
+<         return q.poll();
+---
+>         return q.poll ();

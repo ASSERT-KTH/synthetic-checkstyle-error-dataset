@@ -1,0 +1,5 @@
+40,41c40
+<         long hash = hashFunc.hashLong(longValue).asLong();
+<         return _getShard(hash, totalShards);
+---
+>         long hash = hashFunc.hashLong(longValue).asLong();        return _getShard(hash, totalShards);

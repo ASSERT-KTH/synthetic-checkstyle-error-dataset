@@ -1,0 +1,5 @@
+38,39c38
+<     public ExecuteException(Throwable cause) {
+<         super(cause);
+---
+>     public ExecuteException(Throwable cause) {        super(cause);

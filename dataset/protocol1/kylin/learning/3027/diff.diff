@@ -1,0 +1,5 @@
+64,65c64
+<             String realName = entry.getRealization();
+<             IRealization realInstance = getRealization(config, realName, entry.getType());
+---
+>             String realName = entry.getRealization();            IRealization realInstance = getRealization(config, realName, entry.getType());

@@ -1,0 +1,5 @@
+70,71c70
+<         if (enableSharding) {
+<             Arrays.fill(bytes, 0, RowConstants.ROWKEY_SHARDID_LEN, RowConstants.BYTE_ONE);
+---
+>         if (enableSharding) {            Arrays.fill(bytes, 0, RowConstants.ROWKEY_SHARDID_LEN, RowConstants.BYTE_ONE);

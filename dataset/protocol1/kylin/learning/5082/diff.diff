@@ -1,0 +1,5 @@
+239,240c239
+<         for (FunctionDesc metric : metricList) {
+<             result[i++] = metric.getExpression();
+---
+>         for (FunctionDesc metric : metricList) {            result[i++] = metric.getExpression();

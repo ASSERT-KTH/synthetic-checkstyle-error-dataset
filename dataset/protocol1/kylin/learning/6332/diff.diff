@@ -1,0 +1,4 @@
+55c55
+<         return checkExternalPermission(eap, authentication, e.getClass().getSimpleName(), e.getId(), permission);
+---
+>         return checkExternalPermission(eap, authentication, e.getClass ().getSimpleName(), e.getId(), permission);

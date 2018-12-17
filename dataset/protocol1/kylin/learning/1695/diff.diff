@@ -1,0 +1,4 @@
+174c174
+<     public static int compareByteUnsigned(byte b1, byte b2) {
+---
+>     	public static int compareByteUnsigned(byte b1, byte b2) {

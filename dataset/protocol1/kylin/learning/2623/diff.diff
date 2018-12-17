@@ -1,0 +1,5 @@
+36,37c36
+<             optionsHelper.parseOptions(getOptions(), args);
+<             execute(optionsHelper);
+---
+>             optionsHelper.parseOptions(getOptions(), args);            execute(optionsHelper);

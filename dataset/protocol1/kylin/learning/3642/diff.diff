@@ -1,0 +1,4 @@
+417c417
+<                     String.format(Locale.ROOT, msg.getINCONSISTENT_CUBE_DESC_SIGNATURE(), cube.getDescriptor()));
+---
+>                     String.format(Locale.ROOT, msg.getINCONSISTENT_CUBE_DESC_SIGNATURE()	, cube.getDescriptor()));

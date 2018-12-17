@@ -1,0 +1,5 @@
+165,166c165
+<             logger.info("System free memory less than " + alertMB + " MB. " + entries.size() + " queries running.");
+<         }
+---
+>             logger.info("System free memory less than " + alertMB + " MB. " + entries.size() + " queries running.");        }

@@ -1,0 +1,4 @@
+196c196
+<     private Set<Long> cuboidBlackSet = Sets.newHashSet();
+---
+>     private Set<Long> cuboidBlackSet = Sets.newHashSet ();

@@ -1,0 +1,5 @@
+99,100c99
+<         for (CubeInstance cube : cubeManager.listAllCubes()) {
+<             activeResources.addAll(cube.getSnapshots().values());
+---
+>         for (CubeInstance cube : cubeManager.listAllCubes()) {            activeResources.addAll(cube.getSnapshots().values());

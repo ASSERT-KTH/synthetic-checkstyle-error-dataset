@@ -1,0 +1,5 @@
+51,52c51
+<     public void setEnableStatementCache(boolean enableStatementCache) {
+<         this.enableStatementCache = enableStatementCache;
+---
+>     public void setEnableStatementCache(boolean enableStatementCache) {        this.enableStatementCache = enableStatementCache;

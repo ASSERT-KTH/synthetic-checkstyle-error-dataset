@@ -1,0 +1,5 @@
+21,22c21
+< import org.apache.kylin.cube.CubeSegment;
+< import org.apache.kylin.cube.cuboid.Cuboid;
+---
+> import org.apache.kylin.cube.CubeSegment;import org.apache.kylin.cube.cuboid.Cuboid;

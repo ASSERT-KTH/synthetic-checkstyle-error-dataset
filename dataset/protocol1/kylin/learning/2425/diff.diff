@@ -1,0 +1,4 @@
+239c239
+<         return changeCubeStatus(baseUrl + CUBES + cubeName + "/enable");
+---
+>         return 	changeCubeStatus(baseUrl + CUBES + cubeName + "/enable");

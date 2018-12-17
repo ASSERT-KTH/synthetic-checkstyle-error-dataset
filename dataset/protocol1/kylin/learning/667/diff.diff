@@ -1,0 +1,4 @@
+54c54
+<             for (String taskClass : taskClasses) {
+---
+>             for (String taskClass : 	taskClasses) {

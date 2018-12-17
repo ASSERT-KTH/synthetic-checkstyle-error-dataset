@@ -1,0 +1,5 @@
+242,243c242
+<                 try {
+<                     if (!ResourceTool.matchFilter(path, includes, excludes))
+---
+>                 try {                    if (!ResourceTool.matchFilter(path, includes, excludes))

@@ -1,0 +1,4 @@
+37c37
+< public class HBaseMappingDesc implements java.io.Serializable {
+---
+> public class HBaseMappingDesc implements java.io.Serializable 	{

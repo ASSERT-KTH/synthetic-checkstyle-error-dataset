@@ -1,0 +1,4 @@
+26c26
+<     private String streamingData;
+---
+>     private 	String streamingData;

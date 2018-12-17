@@ -1,0 +1,5 @@
+110c110,111
+<         return checkExternalPermission(eap, authentication, targetType, targetId.toString(), permission);
+---
+>         return checkExternalPermission
+> (eap, authentication, targetType, targetId.toString(), permission);

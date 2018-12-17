@@ -1,0 +1,4 @@
+144c144
+<                     if (ExtTableSnapshotInfo.STORAGE_TYPE_HBASE.equals(extTableSnapshot.getStorageType())) {
+---
+>                     if (ExtTableSnapshotInfo.STORAGE_TYPE_HBASE	.equals(extTableSnapshot.getStorageType())) {

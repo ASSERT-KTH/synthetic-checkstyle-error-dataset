@@ -1,0 +1,5 @@
+33,34c33
+< import org.apache.kylin.metadata.cachesync.Broadcaster;
+< import org.apache.kylin.metadata.cachesync.CachedCrudAssist;
+---
+> import org.apache.kylin.metadata.cachesync.Broadcaster;import org.apache.kylin.metadata.cachesync.CachedCrudAssist;

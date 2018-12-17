@@ -1,0 +1,5 @@
+394,395c394
+<             logger.info("Using project: " + project);
+<             logger.info("The original query:  " + sql);
+---
+>             logger.info("Using project: " + project);            logger.info("The original query:  " + sql);

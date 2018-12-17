@@ -1,0 +1,4 @@
+87c87
+<         return ByteArray.copyOf(buffer.array(), 0, buffer.position());
+---
+>         	return ByteArray.copyOf(buffer.array(), 0, buffer.position());

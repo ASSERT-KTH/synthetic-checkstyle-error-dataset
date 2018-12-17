@@ -1,0 +1,4 @@
+59c59
+<         String path = metadataUrl.getParameter("path");
+---
+>         String path = metadataUrl.getParameter ("path");

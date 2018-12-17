@@ -1,0 +1,4 @@
+327c327
+<     public static final class OrderedPropertiesBuilder {
+---
+>     public static final class OrderedPropertiesBuilder 	{

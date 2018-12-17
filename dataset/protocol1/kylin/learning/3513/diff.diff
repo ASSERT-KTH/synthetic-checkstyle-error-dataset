@@ -1,0 +1,4 @@
+56c56
+<         return cuboidTree.getCuboidCount(Cuboid.getBaseCuboidId(cubeDesc));
+---
+>         return cuboidTree.getCuboidCount (Cuboid.getBaseCuboidId(cubeDesc));

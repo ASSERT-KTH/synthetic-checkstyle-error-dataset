@@ -1,0 +1,5 @@
+77,78c77
+<     public static boolean matchFullRestPattern(String uri) {
+<         Matcher m = fullRestPattern.matcher(uri);
+---
+>     public static boolean matchFullRestPattern(String uri) {        Matcher m = fullRestPattern.matcher(uri);

@@ -1,0 +1,4 @@
+396c396
+<             this.splitResult = splitResult;
+---
+>             	this.splitResult = splitResult;

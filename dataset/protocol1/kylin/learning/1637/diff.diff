@@ -1,0 +1,4 @@
+49c49
+<     private static final Logger logger = LoggerFactory.getLogger(DiagnosisController.class);
+---
+>     private static final Logger logger = LoggerFactory.getLogger (DiagnosisController.class);

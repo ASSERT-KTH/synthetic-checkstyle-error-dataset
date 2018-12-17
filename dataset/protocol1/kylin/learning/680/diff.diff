@@ -1,0 +1,4 @@
+331c331
+<             logger.trace("Copying {}", path);
+---
+>             logger.trace("Copying {}", path );

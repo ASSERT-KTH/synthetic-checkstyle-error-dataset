@@ -1,0 +1,4 @@
+42c42
+<     public void init(DictionaryInfo dictInfo, int baseId, String hdfsDir) throws IOException {
+---
+>     public void init(DictionaryInfo dictInfo, int baseId	, String hdfsDir) throws IOException {

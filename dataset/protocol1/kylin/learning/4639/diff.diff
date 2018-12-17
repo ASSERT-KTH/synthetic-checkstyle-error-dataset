@@ -1,0 +1,5 @@
+200,201c200
+<         logger.info("{} tries to stop the query: {}, but not guaranteed to succeed.", user, queryId);
+<         QueryContextFacade.stopQuery(queryId, "stopped by " + user);
+---
+>         logger.info("{} tries to stop the query: {}, but not guaranteed to succeed.", user, queryId);        QueryContextFacade.stopQuery(queryId, "stopped by " + user);

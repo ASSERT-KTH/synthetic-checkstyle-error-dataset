@@ -1,0 +1,5 @@
+29,30c29
+<                 if (array == null) {
+<                     return true;
+---
+>                 if (array == null) {                    return true;

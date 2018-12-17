@@ -1,0 +1,4 @@
+348c348
+<         stringBuilder.append("Trace URL: ").append(response.getTraceUrl()).append(newLine);
+---
+>         stringBuilder.append("Trace URL: " ).append(response.getTraceUrl()).append(newLine);

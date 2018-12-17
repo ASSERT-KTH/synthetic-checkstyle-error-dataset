@@ -1,0 +1,4 @@
+69c69
+<         this.model = cube.getDescriptor().getModelName();
+---
+>         this.model = cube.getDescriptor ().getModelName();

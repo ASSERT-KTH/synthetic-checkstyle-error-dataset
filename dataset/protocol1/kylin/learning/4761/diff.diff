@@ -1,0 +1,5 @@
+458,459c458
+<         final Output output = getManager().getOutput(id);
+<         return output.getState() == ExecutableState.READY;
+---
+>         final Output output = getManager().getOutput(id);        return output.getState() == ExecutableState.READY;

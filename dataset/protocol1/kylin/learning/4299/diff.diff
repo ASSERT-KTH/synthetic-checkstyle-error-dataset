@@ -1,0 +1,5 @@
+48,49c48
+<     MutableCounterLong cacheHitCount;
+<     MutableQuantiles[] cacheHitCountQuantiles;
+---
+>     MutableCounterLong cacheHitCount;    MutableQuantiles[] cacheHitCountQuantiles;

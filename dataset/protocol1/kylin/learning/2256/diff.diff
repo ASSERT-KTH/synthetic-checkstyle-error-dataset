@@ -1,0 +1,5 @@
+51c51,52
+<     public ByteArray getCutRow() {
+---
+>     public ByteArray getCutRow
+> () {

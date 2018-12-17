@@ -1,0 +1,5 @@
+33,34c33
+<             throw new RuntimeException("input must be not null");
+<         }
+---
+>             throw new RuntimeException("input must be not null");        }

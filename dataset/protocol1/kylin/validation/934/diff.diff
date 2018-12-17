@@ -1,0 +1,5 @@
+112,113c112
+<         try {
+<             String[] loaded = tableService.loadHiveTablesToProject(tableNames, project);
+---
+>         try {            String[] loaded = tableService.loadHiveTablesToProject(tableNames, project);

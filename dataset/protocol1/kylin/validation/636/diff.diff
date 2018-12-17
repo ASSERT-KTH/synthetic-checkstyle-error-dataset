@@ -1,0 +1,5 @@
+25,26c25
+<     private MathUtil() {
+<         throw new IllegalStateException("Class MathUtil is an utility class !");
+---
+>     private MathUtil() {        throw new IllegalStateException("Class MathUtil is an utility class !");

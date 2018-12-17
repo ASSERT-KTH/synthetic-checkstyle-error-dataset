@@ -1,0 +1,4 @@
+69c69
+<         int n = Math.min(a.length, b.length);
+---
+>         int n = Math.min(a.length, b	.length);

@@ -1,0 +1,4 @@
+301c301
+<         List<String> workingJobList = new ArrayList<String>();
+---
+>         List<String> workingJobList = 	new ArrayList<String>();

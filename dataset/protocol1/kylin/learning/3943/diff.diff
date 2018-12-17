@@ -1,0 +1,5 @@
+324,325c324
+<         }
+<         baseSQL.append(" from ");
+---
+>         }        baseSQL.append(" from ");

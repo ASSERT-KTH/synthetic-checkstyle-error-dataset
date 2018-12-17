@@ -1,0 +1,4 @@
+45c45
+<         buf.append("os.version:").append(System.getProperty("os.version")).append("\n");
+---
+>         buf.append("os.version:").	append(System.getProperty("os.version")).append("\n");

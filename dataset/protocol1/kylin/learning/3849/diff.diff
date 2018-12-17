@@ -1,0 +1,5 @@
+30,31c30
+< import org.apache.kylin.cube.model.CubeDesc;
+< import org.apache.kylin.metadata.cachesync.Broadcaster;
+---
+> import org.apache.kylin.cube.model.CubeDesc;import org.apache.kylin.metadata.cachesync.Broadcaster;

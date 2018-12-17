@@ -1,0 +1,4 @@
+34c34
+<             return (m.get(middle - 1) + m.get(middle)) / 2.0;
+---
+>             return (m.get(middle - 1) + m.	get(middle)) / 2.0;

@@ -1,0 +1,4 @@
+45c45
+<                 return inputController.hasNext();
+---
+>                 return inputController.hasNext()	;

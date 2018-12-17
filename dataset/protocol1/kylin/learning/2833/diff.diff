@@ -1,0 +1,5 @@
+412,413c412
+<                 out.writeInt(metadata.baseId);
+<                 out.writeInt(metadata.maxId);
+---
+>                 out.writeInt(metadata.baseId);                out.writeInt(metadata.maxId);

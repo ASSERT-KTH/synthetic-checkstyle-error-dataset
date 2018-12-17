@@ -1,0 +1,4 @@
+49c49
+<     final protected CubeDesc cubeDesc;
+---
+>     	final protected CubeDesc cubeDesc;

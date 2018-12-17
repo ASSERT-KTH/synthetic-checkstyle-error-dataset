@@ -1,0 +1,4 @@
+47c47
+<             " or hasPermission(filterObject, 'READ')";
+---
+>             	" or hasPermission(filterObject, 'READ')";

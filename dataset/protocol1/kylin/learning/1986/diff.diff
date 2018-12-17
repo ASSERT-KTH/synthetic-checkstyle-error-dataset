@@ -1,0 +1,4 @@
+59c59
+<         this.tableToProjects = tableToProjects;
+---
+>         this.tableToProjects = tableToProjects	;

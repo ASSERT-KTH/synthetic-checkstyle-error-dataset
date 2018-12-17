@@ -1,0 +1,4 @@
+303c303
+<             throw new PersistentException(e);
+---
+>             throw new PersistentException( e);

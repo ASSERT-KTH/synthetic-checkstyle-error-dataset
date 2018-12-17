@@ -1,0 +1,5 @@
+257,258c257
+<                 this.valueSet = filter(this.valueSet, another.begin, another.end);
+<                 refreshBeginEndFromEquals();
+---
+>                 this.valueSet = filter(this.valueSet, another.begin, another.end);                refreshBeginEndFromEquals();

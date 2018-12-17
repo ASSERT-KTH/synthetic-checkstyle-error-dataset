@@ -1,0 +1,5 @@
+75,76c75
+<         if(!sqlResponse.getIsException()){
+<             queryMetrics.increase("queryCount", dashboardService.getMetricValue(sqlResponse.getResults().get(0).get(0)));
+---
+>         if(!sqlResponse.getIsException()){            queryMetrics.increase("queryCount", dashboardService.getMetricValue(sqlResponse.getResults().get(0).get(0)));

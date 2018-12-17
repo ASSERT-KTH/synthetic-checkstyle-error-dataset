@@ -1,0 +1,4 @@
+48c48
+< import org.apache.kylin.storage.hybrid.HybridManager;
+---
+> import org.apache	.kylin.storage.hybrid.HybridManager;

@@ -1,0 +1,5 @@
+475c475,476
+<         Scan scan = new Scan();
+---
+>         Scan scan = new Scan
+> ();

@@ -1,0 +1,4 @@
+49c49
+<         return JsonUtil.writeValueAsBytes(obj);
+---
+>         return JsonUtil.writeValueAsBytes (obj);

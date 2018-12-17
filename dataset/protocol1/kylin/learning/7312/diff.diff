@@ -1,0 +1,5 @@
+192,193c192
+<                 TableDesc factTable = cube.getModel().findFirstTable(fullTableName).getTableDesc();
+<                 List<String> violateColumns = checkAllColumnsInCube(cube, factTable, newTableDesc);
+---
+>                 TableDesc factTable = cube.getModel().findFirstTable(fullTableName).getTableDesc();                List<String> violateColumns = checkAllColumnsInCube(cube, factTable, newTableDesc);

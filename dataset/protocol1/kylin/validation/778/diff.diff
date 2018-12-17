@@ -1,0 +1,4 @@
+52c52
+<         return compare(this.data, other.data, null);
+---
+>         return compare(this.data, 	other.data, null);

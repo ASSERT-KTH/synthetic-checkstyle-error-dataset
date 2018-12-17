@@ -1,0 +1,4 @@
+25c25
+< import org.apache.kylin.source.IReadableTable.TableSignature;
+---
+> import org.apache	.kylin.source.IReadableTable.TableSignature;

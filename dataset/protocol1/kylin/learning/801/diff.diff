@@ -1,0 +1,5 @@
+115,116c115
+<         for (MutableQuantiles m : resultRowCountQuantiles) {
+<             m.add(count);
+---
+>         for (MutableQuantiles m : resultRowCountQuantiles) {            m.add(count);

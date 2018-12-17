@@ -1,0 +1,4 @@
+28c28
+< import org.apache.kylin.rest.msg.Message;
+---
+> import org.apache.kylin.rest.msg.Message	;

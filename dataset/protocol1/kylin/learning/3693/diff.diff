@@ -1,0 +1,5 @@
+64,65c64
+<         Object[] metricsValues = buildValue(row);
+<         Object[] recordValues = new Object[dimensions.length + metricsValues.length];
+---
+>         Object[] metricsValues = buildValue(row);        Object[] recordValues = new Object[dimensions.length + metricsValues.length];

@@ -1,0 +1,4 @@
+158c158
+<             return order.compare(filterMin, maxVal) <= 0 && order.compare(minVal, filterMax) <= 0;
+---
+>             return order.compare(filterMin, maxVal) <= 0 && order.compare(minVal, filterMax ) <= 0;

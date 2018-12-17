@@ -1,0 +1,4 @@
+34c34
+<     protected static final long serialVersionUID = 1L;
+---
+>     protected static final 	long serialVersionUID = 1L;

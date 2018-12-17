@@ -1,0 +1,5 @@
+111,112c111
+<             cuboidsByLayer.add(newLayer);
+<             totalNum += newLayer.size();
+---
+>             cuboidsByLayer.add(newLayer);            totalNum += newLayer.size();

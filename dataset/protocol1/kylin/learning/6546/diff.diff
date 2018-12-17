@@ -1,0 +1,4 @@
+20c20
+< package org.apache.kylin.cube.inmemcubing2;
+---
+> 	package org.apache.kylin.cube.inmemcubing2;

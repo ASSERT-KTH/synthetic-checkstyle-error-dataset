@@ -1,0 +1,4 @@
+268c268
+<                 this.dict = new TrieDictionary<String>();
+---
+>                 this.dict 	= new TrieDictionary<String>();

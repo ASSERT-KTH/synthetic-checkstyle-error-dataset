@@ -1,0 +1,4 @@
+69c69
+<         classRenameMap.put("org.apache.kylin.job.cube.UpdateCubeInfoAfterMergeStep", "org.apache.kylin.engine.mr.steps.UpdateCubeInfoAfterMergeStep");
+---
+>         classRenameMap.put("org.apache.kylin.job.cube.UpdateCubeInfoAfterMergeStep", 	"org.apache.kylin.engine.mr.steps.UpdateCubeInfoAfterMergeStep");

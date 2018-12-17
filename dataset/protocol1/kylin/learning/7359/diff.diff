@@ -1,0 +1,5 @@
+155c155,156
+<             this.authorities.add(new SimpleGrantedAuthority(grantedAuthority.getAuthority()));
+---
+>             this.authorities.add(new SimpleGrantedAuthority(grantedAuthority.getAuthority
+> ()));

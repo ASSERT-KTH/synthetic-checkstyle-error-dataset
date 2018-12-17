@@ -1,0 +1,4 @@
+134c134
+<         if (limit != null ? !limit.equals(that.limit) : that.limit != null)
+---
+>         if (limit != null ? !limit.equals(that.limit ) : that.limit != null)

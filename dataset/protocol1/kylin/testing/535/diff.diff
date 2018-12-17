@@ -1,0 +1,4 @@
+25c25
+< public interface ILookupTable extends Iterable<String[]>, Closeable {
+---
+> public interface ILookupTable extends Iterable<String[]>,Closeable {

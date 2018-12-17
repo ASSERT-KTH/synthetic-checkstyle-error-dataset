@@ -1,0 +1,4 @@
+84c84
+<             Arrays.fill(outputValue, outputValueOffset, outputValueOffset + columnLen, RowConstants.BYTE_ZERO);
+---
+>             Arrays.fill(outputValue, outputValueOffset, outputValueOffset 	+ columnLen, RowConstants.BYTE_ZERO);

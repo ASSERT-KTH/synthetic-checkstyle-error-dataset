@@ -1,0 +1,5 @@
+91,92c91
+<                     hllc.writeRegisters(wrap);
+<                     return wrap.position() - offset;
+---
+>                     hllc.writeRegisters(wrap);                    return wrap.position() - offset;

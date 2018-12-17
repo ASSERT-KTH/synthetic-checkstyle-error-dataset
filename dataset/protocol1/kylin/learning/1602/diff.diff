@@ -1,0 +1,5 @@
+204,205c204
+<         dataMap.put("job_engine", MailNotificationUtil.getLocalHostName());
+<         dataMap.put("error_log",
+---
+>         dataMap.put("job_engine", MailNotificationUtil.getLocalHostName());        dataMap.put("error_log",

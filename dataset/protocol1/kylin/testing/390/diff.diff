@@ -1,0 +1,4 @@
+254c254
+<                         out.writeUTF(dict.getValueFromId(row[j]) == null ? NULL_STR : dict.getValueFromId(row[j]));
+---
+>                         out.writeUTF( dict.getValueFromId(row[j]) == null ? NULL_STR : dict.getValueFromId(row[j]));

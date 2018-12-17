@@ -1,0 +1,5 @@
+82,83c82
+<         calendar.set(year, 0, 1);
+<         return calendar.getTimeInMillis();
+---
+>         calendar.set(year, 0, 1);        return calendar.getTimeInMillis();

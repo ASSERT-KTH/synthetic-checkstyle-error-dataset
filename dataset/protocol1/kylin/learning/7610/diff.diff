@@ -1,0 +1,4 @@
+34c34
+< import org.apache.hadoop.io.SequenceFile;
+---
+> import org	.apache.hadoop.io.SequenceFile;

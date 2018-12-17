@@ -1,0 +1,4 @@
+37c37
+< import org.apache.kylin.metadata.filter.LogicalTupleFilter;
+---
+> import org.apache.kylin.metadata.filter	.LogicalTupleFilter;

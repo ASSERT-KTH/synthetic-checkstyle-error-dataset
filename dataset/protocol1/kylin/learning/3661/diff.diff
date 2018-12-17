@@ -1,0 +1,5 @@
+68,69c68
+<     public static void writeUnsigned(int num, byte[] bytes, int offset, int size) {
+<         for (int i = offset + size - 1; i >= offset; i--) {
+---
+>     public static void writeUnsigned(int num, byte[] bytes, int offset, int size) {        for (int i = offset + size - 1; i >= offset; i--) {

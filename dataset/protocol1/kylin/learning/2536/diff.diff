@@ -1,0 +1,5 @@
+208,209c208
+<             if (categoryEnum == CategoryEnum.QUERY) {
+<                 dimensionSQL = new String[] { QueryDimensionEnum.valueOf(dimension).toSQL() };
+---
+>             if (categoryEnum == CategoryEnum.QUERY) {                dimensionSQL = new String[] { QueryDimensionEnum.valueOf(dimension).toSQL() };

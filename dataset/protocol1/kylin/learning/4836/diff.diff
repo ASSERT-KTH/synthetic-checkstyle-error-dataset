@@ -1,0 +1,5 @@
+35,36c35
+< import org.apache.kylin.source.kafka.KafkaConfigManager;
+< import org.apache.kylin.storage.hybrid.HybridManager;
+---
+> import org.apache.kylin.source.kafka.KafkaConfigManager;import org.apache.kylin.storage.hybrid.HybridManager;

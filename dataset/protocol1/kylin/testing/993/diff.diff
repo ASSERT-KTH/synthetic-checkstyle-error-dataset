@@ -1,0 +1,4 @@
+76c76
+<     public static <T> T readValue(byte[] src, Class<T> valueType)
+---
+>     public static <	T> T readValue(byte[] src, Class<T> valueType)

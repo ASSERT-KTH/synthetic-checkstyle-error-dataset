@@ -1,0 +1,4 @@
+172c172
+<         for (TblColRef colRef : colRefs) {
+---
+>         for 	(TblColRef colRef : colRefs) {

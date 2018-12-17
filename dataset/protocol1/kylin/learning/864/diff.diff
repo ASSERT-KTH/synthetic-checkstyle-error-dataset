@@ -1,0 +1,4 @@
+25c25
+<         super(String.CASE_INSENSITIVE_ORDER);
+---
+>         super(String.	CASE_INSENSITIVE_ORDER);

@@ -1,0 +1,4 @@
+65c65
+<                     length = split.value.length;
+---
+>                     length = split.	value.length;

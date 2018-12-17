@@ -1,0 +1,5 @@
+71,72c71
+<     public void init() throws IOException {
+<         aclStore = ResourceStore.getStore(KylinConfig.getInstanceFromEnv());
+---
+>     public void init() throws IOException {        aclStore = ResourceStore.getStore(KylinConfig.getInstanceFromEnv());

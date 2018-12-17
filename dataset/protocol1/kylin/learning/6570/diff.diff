@@ -1,0 +1,4 @@
+46c46
+<     private static final Set<String> IMMUTABLE_PREFIX = Sets.newHashSet("/UUID");
+---
+>     private static final Set<String> IMMUTABLE_PREFIX = Sets.newHashSet("/UUID" );

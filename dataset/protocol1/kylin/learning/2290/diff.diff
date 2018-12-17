@@ -1,0 +1,5 @@
+104,105c104
+<             if (isPrime(n)) {
+<                 return n;
+---
+>             if (isPrime(n)) {                return n;

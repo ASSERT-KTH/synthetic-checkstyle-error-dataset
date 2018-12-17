@@ -1,0 +1,4 @@
+62c62
+<     public void setVerboseMsg(String verboseMsg) {
+---
+>     public void setVerboseMsg(String verboseMsg) 	{

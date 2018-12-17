@@ -1,0 +1,4 @@
+255c255
+<         return "ManagedUser [username=" + username + ", authorities=" + authorities + "]";
+---
+>         return "ManagedUser [username=" + username + ", authorities=" 	+ authorities + "]";

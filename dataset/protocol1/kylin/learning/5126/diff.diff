@@ -1,0 +1,5 @@
+422,423c422
+<         List<KeyValue> tmp = new ArrayList<KeyValue>(kvs.size());
+<         tmp.addAll(kvs);
+---
+>         List<KeyValue> tmp = new ArrayList<KeyValue>(kvs.size());        tmp.addAll(kvs);

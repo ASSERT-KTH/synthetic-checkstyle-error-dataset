@@ -1,0 +1,5 @@
+317,318c317
+<             logger.error("error reset job status from RUNNING to READY", e);
+<             throw new RuntimeException(e);
+---
+>             logger.error("error reset job status from RUNNING to READY", e);            throw new RuntimeException(e);

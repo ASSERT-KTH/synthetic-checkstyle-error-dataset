@@ -1,0 +1,4 @@
+51c51
+<         for (HBaseColumnFamilyDesc cf : hbaseMapping.getColumnFamily()) {
+---
+>         for (HBaseColumnFamilyDesc cf : hbaseMapping	.getColumnFamily()) {

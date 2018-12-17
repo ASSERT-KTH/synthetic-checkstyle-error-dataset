@@ -1,0 +1,4 @@
+45c45
+<     SimpleGrantedAuthority analystAuthority = new SimpleGrantedAuthority(Constant.ROLE_ANALYST);
+---
+>     SimpleGrantedAuthority analystAuthority = new SimpleGrantedAuthority(Constant.	ROLE_ANALYST);

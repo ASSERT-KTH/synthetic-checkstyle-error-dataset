@@ -1,0 +1,4 @@
+49c49
+<     public final static String SERVER_MODE_QUERY = "query";
+---
+>     public final static String SERVER_MODE_QUERY = "query"	;

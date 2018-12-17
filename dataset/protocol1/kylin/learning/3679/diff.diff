@@ -1,0 +1,4 @@
+48c48
+<             return new File(path + File.separator + "conf", fileName);
+---
+>             	return new File(path + File.separator + "conf", fileName);

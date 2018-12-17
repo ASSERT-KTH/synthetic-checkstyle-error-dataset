@@ -1,0 +1,5 @@
+53,54c53
+<     public long decode(byte[] bytes) throws IOException {
+<         this.values.clear();
+---
+>     public long decode(byte[] bytes) throws IOException {        this.values.clear();

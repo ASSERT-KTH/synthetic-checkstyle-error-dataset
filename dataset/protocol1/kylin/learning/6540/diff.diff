@@ -1,0 +1,5 @@
+80,81c80
+<             final HttpServletResponse response) {
+<         try (AutoDeleteDirectory diagDir = new AutoDeleteDirectory("diag_project", "")) {
+---
+>             final HttpServletResponse response) {        try (AutoDeleteDirectory diagDir = new AutoDeleteDirectory("diag_project", "")) {

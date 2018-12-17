@@ -1,0 +1,5 @@
+135,136c135
+<             return false;
+<         ByteArray o = (ByteArray) obj;
+---
+>             return false;        ByteArray o = (ByteArray) obj;

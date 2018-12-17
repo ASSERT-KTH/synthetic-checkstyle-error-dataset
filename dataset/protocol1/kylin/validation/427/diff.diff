@@ -1,0 +1,5 @@
+178,179c178
+<             String segmentName, long sourceCuboidId, long targetCuboidId, long filterMask) {
+<         metricsEvent.put(QueryCubePropertyEnum.PROJECT.toString(), projectName);
+---
+>             String segmentName, long sourceCuboidId, long targetCuboidId, long filterMask) {        metricsEvent.put(QueryCubePropertyEnum.PROJECT.toString(), projectName);

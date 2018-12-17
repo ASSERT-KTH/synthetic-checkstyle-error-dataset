@@ -1,0 +1,5 @@
+42c42,43
+<         this.batchBuffer = Lists.newArrayListWithExpectedSize(batchSize);
+---
+>         this.batchBuffer = Lists.newArrayListWithExpectedSize
+> (batchSize);

@@ -1,0 +1,4 @@
+83c83
+<         ObjectIdentity objectIdentity = new ObjectIdentityImpl(ae);
+---
+>         ObjectIdentity objectIdentity = 	new ObjectIdentityImpl(ae);

@@ -1,0 +1,5 @@
+45,46c45
+<         this.sid = sid;
+<         this.permission = permission;
+---
+>         this.sid = sid;        this.permission = permission;

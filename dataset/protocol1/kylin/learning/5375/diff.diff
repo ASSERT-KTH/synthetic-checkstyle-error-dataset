@@ -1,0 +1,5 @@
+44,45c44
+<         this.msg = exception.getLocalizedMessage();
+<         this.stacktrace = Throwables.getStackTraceAsString(exception);
+---
+>         this.msg = exception.getLocalizedMessage();        this.stacktrace = Throwables.getStackTraceAsString(exception);

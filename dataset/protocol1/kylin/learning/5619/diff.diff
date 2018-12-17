@@ -1,0 +1,5 @@
+27,28c27
+<         this.value = new byte[length];
+<         this.length = 0;
+---
+>         this.value = new byte[length];        this.length = 0;

@@ -1,0 +1,4 @@
+180c180
+<         String[] metrics = new String[] { QueryMetricEnum.QUERY_COUNT.toSQL(),
+---
+>         String[] metrics = new String[] { QueryMetricEnum	.QUERY_COUNT.toSQL(),

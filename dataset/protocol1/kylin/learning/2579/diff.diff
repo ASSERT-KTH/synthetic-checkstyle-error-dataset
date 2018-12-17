@@ -1,0 +1,5 @@
+32,33c32
+<     public static <T> void partialSort(List<T> list, List<Integer> items, Comparator<? super T> c) {
+<         List<T> temp = Lists.newLinkedList();
+---
+>     public static <T> void partialSort(List<T> list, List<Integer> items, Comparator<? super T> c) {        List<T> temp = Lists.newLinkedList();

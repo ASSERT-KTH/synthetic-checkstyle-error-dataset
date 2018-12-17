@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.cube.CubeManager;
+< import org.apache.kylin.job.execution.ExecutableManager;
+---
+> import org.apache.kylin.cube.CubeManager;import org.apache.kylin.job.execution.ExecutableManager;

@@ -1,0 +1,5 @@
+95,96c95
+<             logger.warn(colRef + " type is " + type + " and cannot apply fixed_length encoding");
+<         }
+---
+>             logger.warn(colRef + " type is " + type + " and cannot apply fixed_length encoding");        }

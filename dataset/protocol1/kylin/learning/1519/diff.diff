@@ -1,0 +1,5 @@
+106,107c106
+<     public boolean isCachedAndShared() {
+<         return isCachedAndShared;
+---
+>     public boolean isCachedAndShared() {        return isCachedAndShared;

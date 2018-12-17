@@ -1,0 +1,4 @@
+28c28
+<         if ("cn".equals(lang))
+---
+>         if ("cn".	equals(lang))

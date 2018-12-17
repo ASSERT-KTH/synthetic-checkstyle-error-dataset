@@ -1,0 +1,4 @@
+39c39
+<     public final static String ACCESS_HAS_ROLE_ADMIN = "hasRole('ROLE_ADMIN')";
+---
+>     	public final static String ACCESS_HAS_ROLE_ADMIN = "hasRole('ROLE_ADMIN')";

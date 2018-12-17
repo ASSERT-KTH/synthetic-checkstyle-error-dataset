@@ -1,0 +1,4 @@
+122c122
+<             throw new UsernameNotFoundException(String.format(Locale.ROOT, msg.getUSER_NOT_FOUND(), userName));
+---
+>             throw new UsernameNotFoundException(String.format(Locale.ROOT, msg.getUSER_NOT_FOUND(), userName) );

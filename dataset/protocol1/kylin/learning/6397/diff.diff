@@ -1,0 +1,4 @@
+72c72
+<             new SQLResponse(null, null, 0, false, null), //
+---
+>             new SQLResponse(null, null	, 0, false, null), //

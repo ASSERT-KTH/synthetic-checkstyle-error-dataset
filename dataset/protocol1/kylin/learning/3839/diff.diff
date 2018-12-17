@@ -1,0 +1,5 @@
+124,125c124
+<             logger.info("Identical input " + table.getSignature() + ", reuse existing snapshot at " + dup);
+<             return getSnapshotTable(dup);
+---
+>             logger.info("Identical input " + table.getSignature() + ", reuse existing snapshot at " + dup);            return getSnapshotTable(dup);

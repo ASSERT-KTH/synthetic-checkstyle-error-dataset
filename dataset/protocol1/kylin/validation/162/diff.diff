@@ -1,0 +1,5 @@
+31,32c31
+<     public WriteConflictException(String msg) {
+<         super(msg);
+---
+>     public WriteConflictException(String msg) {        super(msg);

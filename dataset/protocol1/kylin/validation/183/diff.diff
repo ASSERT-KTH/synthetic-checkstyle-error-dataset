@@ -1,0 +1,5 @@
+58c58,59
+<     public synchronized I get(int id) {
+---
+>     public synchronized I get
+> (int id) {

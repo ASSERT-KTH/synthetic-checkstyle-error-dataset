@@ -1,0 +1,5 @@
+41,42c41
+<         for (GTRecord record : scanner) {
+<             write(cuboidId, record);
+---
+>         for (GTRecord record : scanner) {            write(cuboidId, record);

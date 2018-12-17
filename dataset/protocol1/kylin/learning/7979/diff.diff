@@ -1,0 +1,5 @@
+37,38c37
+<         this.data = data;
+<         this.offset = offset;
+---
+>         this.data = data;        this.offset = offset;

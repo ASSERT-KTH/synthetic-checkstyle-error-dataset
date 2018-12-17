@@ -1,0 +1,5 @@
+174,175c174
+<                 String msg = EntityUtils.toString(response.getEntity());
+<                 throw new IOException(INVALID_RESPONSE + response.getStatusLine().getStatusCode()
+---
+>                 String msg = EntityUtils.toString(response.getEntity());                throw new IOException(INVALID_RESPONSE + response.getStatusLine().getStatusCode()

@@ -1,0 +1,5 @@
+1227,1228c1227
+<     public void addError(String message) {
+<         this.errors.add(message);
+---
+>     public void addError(String message) {        this.errors.add(message);

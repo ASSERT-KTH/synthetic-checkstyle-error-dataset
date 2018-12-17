@@ -1,0 +1,5 @@
+44,45c44
+<         this.maxId = maxId;
+<         this.maxValueLength = maxValueLength;
+---
+>         this.maxId = maxId;        this.maxValueLength = maxValueLength;

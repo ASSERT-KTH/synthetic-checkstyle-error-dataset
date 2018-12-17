@@ -1,0 +1,5 @@
+52,53c52
+<         hr = new HBaseResponse();
+<         hr.setTableSize(tableSize);
+---
+>         hr = new HBaseResponse();        hr.setTableSize(tableSize);

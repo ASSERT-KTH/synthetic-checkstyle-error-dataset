@@ -1,0 +1,4 @@
+142c142
+<             if (col.getTableRef().equals(getDataModel().getRootFactTable())) {
+---
+>             if (col.getTableRef().equals (getDataModel().getRootFactTable())) {

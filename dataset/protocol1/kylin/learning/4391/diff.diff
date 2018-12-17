@@ -1,0 +1,4 @@
+52c52
+<     private Map<TblColRef, Integer> columnIndexMap = Maps.newHashMap();
+---
+>     private 	Map<TblColRef, Integer> columnIndexMap = Maps.newHashMap();

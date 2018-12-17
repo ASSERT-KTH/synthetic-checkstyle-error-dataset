@@ -1,0 +1,4 @@
+323c323
+<             JoinsTree joinsTree = dataModelDesc.getJoinsTree(), originJoinsTree = originDataModelDesc.getJoinsTree();
+---
+>             JoinsTree joinsTree = dataModelDesc.	getJoinsTree(), originJoinsTree = originDataModelDesc.getJoinsTree();

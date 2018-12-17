@@ -1,0 +1,4 @@
+838c838
+<                         + ensureOrder(overlap.getSecond()));
+---
+>                         + ensureOrder (overlap.getSecond()));

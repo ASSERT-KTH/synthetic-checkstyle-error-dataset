@@ -1,0 +1,4 @@
+101c101
+<         final String sql = new MessageFormat(format.getReplaceSqlWithoutContent(), Locale.ROOT)
+---
+>         final String sql = new MessageFormat(format	.getReplaceSqlWithoutContent(), Locale.ROOT)

@@ -1,0 +1,5 @@
+37,38c37
+<     static final int BIT_IS_LAST_CHILD = 0x80;
+<     static final int BIT_IS_END_OF_VALUE = 0x40;
+---
+>     static final int BIT_IS_LAST_CHILD = 0x80;    static final int BIT_IS_END_OF_VALUE = 0x40;

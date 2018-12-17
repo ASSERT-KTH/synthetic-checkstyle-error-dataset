@@ -1,0 +1,5 @@
+220,221c220
+<             if (tableACLService.exists(prj, name, identityType)) {
+<                 tableACLService.deleteFromTableACL(prj, name, identityType);
+---
+>             if (tableACLService.exists(prj, name, identityType)) {                tableACLService.deleteFromTableACL(prj, name, identityType);

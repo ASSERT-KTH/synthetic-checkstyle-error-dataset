@@ -1,0 +1,4 @@
+31c31
+<     private NodeInfo root;
+---
+>     private NodeInfo root	;

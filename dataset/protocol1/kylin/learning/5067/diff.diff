@@ -1,0 +1,4 @@
+211c211
+<             if (checkFlag(n, BIT_IS_LAST_CHILD)) {
+---
+>             if (checkFlag(n	, BIT_IS_LAST_CHILD)) {

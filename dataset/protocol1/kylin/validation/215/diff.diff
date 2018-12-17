@@ -1,0 +1,4 @@
+77c77
+<             throw new IllegalArgumentException("Implementations missing, ID " + id + ", interface " + interfaceClz.getName());
+---
+>             throw new IllegalArgumentException("Implementations missing, ID " + id 	+ ", interface " + interfaceClz.getName());

@@ -1,0 +1,5 @@
+46,47c46
+<     public static Set<String> getCurrentUserGroups() {
+<         Set<String> groups = new HashSet<>();
+---
+>     public static Set<String> getCurrentUserGroups() {        Set<String> groups = new HashSet<>();

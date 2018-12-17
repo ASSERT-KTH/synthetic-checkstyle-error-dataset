@@ -1,0 +1,4 @@
+31c31
+<     public FuzzyKeyEncoder(CubeSegment seg, Cuboid cuboid) {
+---
+>     public FuzzyKeyEncoder(CubeSegment seg,Cuboid cuboid) {

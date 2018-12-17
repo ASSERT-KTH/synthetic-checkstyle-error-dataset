@@ -1,0 +1,4 @@
+49c49
+<         for (int i = set.nextSetBit(0); i >= 0; i = set.nextSetBit(i + 1)) {
+---
+>         for (int i = set.nextSetBit( 0); i >= 0; i = set.nextSetBit(i + 1)) {

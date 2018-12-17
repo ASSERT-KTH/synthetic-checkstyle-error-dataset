@@ -1,0 +1,4 @@
+258c258
+<     private static class SimpleGrantedAuthoritySerializer extends JsonSerializer<List<SimpleGrantedAuthority>> {
+---
+>     private static class SimpleGrantedAuthoritySerializer extends JsonSerializer<	List<SimpleGrantedAuthority>> {

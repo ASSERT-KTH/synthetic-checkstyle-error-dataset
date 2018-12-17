@@ -1,0 +1,4 @@
+192c192
+<             return QueryContextFacade.getLongRunningQueries(runTimeMoreThan * 1000);
+---
+>             return QueryContextFacade	.getLongRunningQueries(runTimeMoreThan * 1000);

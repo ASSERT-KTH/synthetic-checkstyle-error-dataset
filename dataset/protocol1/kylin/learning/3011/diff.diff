@@ -1,0 +1,4 @@
+1915c1915
+<         System.arraycopy(buf, 0, b, offset, length);
+---
+>         System.arraycopy(buf, 0, b, offset, length );

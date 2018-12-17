@@ -1,0 +1,5 @@
+100,101c100
+<                 if (checkAck(in) != 0) {
+<                     throw new Exception(ERROR_IN_CHECK_ACK);
+---
+>                 if (checkAck(in) != 0) {                    throw new Exception(ERROR_IN_CHECK_ACK);

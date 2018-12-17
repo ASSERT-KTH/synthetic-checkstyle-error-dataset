@@ -1,0 +1,4 @@
+35c35
+<     public void setCalculate(boolean calculate) {
+---
+>     public void setCalculate( boolean calculate) {

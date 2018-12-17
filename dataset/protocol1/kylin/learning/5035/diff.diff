@@ -1,0 +1,5 @@
+49,50c49
+<     private List<String> updatedResources = Lists.newArrayList();
+<     private List<String> errorMsgs = Lists.newArrayList();
+---
+>     private List<String> updatedResources = Lists.newArrayList();    private List<String> errorMsgs = Lists.newArrayList();

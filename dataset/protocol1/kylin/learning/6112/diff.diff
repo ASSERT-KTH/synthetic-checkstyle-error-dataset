@@ -1,0 +1,4 @@
+288c288
+<         OrderedProperties that = (OrderedProperties) other;
+---
+>         OrderedProperties that = 	(OrderedProperties) other;

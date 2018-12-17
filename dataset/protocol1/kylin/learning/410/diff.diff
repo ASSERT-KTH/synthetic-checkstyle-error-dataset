@@ -1,0 +1,4 @@
+102c102
+<                 return fakeResponses[i];
+---
+>                 return fakeResponses	[i];

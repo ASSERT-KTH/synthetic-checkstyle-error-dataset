@@ -1,0 +1,5 @@
+31,32c31
+<     private volatile boolean hasException = false;
+<     private final BlockingQueue<T> input;
+---
+>     private volatile boolean hasException = false;    private final BlockingQueue<T> input;

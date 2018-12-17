@@ -1,0 +1,4 @@
+50c50
+<                 serializer.serialize(obj, out);
+---
+>                 serializer	.serialize(obj, out);

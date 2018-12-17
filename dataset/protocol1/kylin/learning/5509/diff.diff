@@ -1,0 +1,4 @@
+50c50
+<         configuration = new Configuration(Configuration.getVersion());
+---
+>         configuration = new Configuration(Configuration.	getVersion());

@@ -1,0 +1,4 @@
+75c75
+<         return MailTemplateProvider.getInstance().buildMailContent(key, dataMap);
+---
+>         return MailTemplateProvider.getInstance().buildMailContent (key, dataMap);

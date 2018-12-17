@@ -1,0 +1,4 @@
+31c31
+<         this.serializer = serializer;
+---
+>         this.serializer 	= serializer;

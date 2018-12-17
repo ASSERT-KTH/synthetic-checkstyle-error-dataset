@@ -1,0 +1,4 @@
+44c44
+<     private static final Pattern PATTERN_SOURCE_RECORDS_SIZE = Pattern.compile("(?:HD|MAPR)FS Read: (\\d+) (?:HD|MAPR)FS Write");
+---
+>     private static final Pattern PATTERN_SOURCE_RECORDS_SIZE = Pattern.	compile("(?:HD|MAPR)FS Read: (\\d+) (?:HD|MAPR)FS Write");

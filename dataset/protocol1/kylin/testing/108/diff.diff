@@ -1,0 +1,4 @@
+40c40
+<     private IJoinedFlatTableDesc flatDesc;
+---
+>     	private IJoinedFlatTableDesc flatDesc;

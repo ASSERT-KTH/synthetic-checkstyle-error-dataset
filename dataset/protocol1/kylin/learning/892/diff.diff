@@ -1,0 +1,4 @@
+24c24
+< public class ImmutableBitSet implements Iterable<Integer> {
+---
+> public class 	ImmutableBitSet implements Iterable<Integer> {

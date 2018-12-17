@@ -1,0 +1,4 @@
+36c36
+<         this.nRows = nRows;
+---
+>         this.nRows = nRows	;

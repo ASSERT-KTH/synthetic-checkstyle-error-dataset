@@ -1,0 +1,5 @@
+43,44c43
+<         if (!super.equals(o)) {
+<             return false;
+---
+>         if (!super.equals(o)) {            return false;

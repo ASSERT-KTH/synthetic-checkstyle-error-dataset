@@ -1,0 +1,5 @@
+92c92,93
+<         final String sql = new MessageFormat(format.getInsertSql(), Locale.ROOT)
+---
+>         final String sql = new MessageFormat
+> (format.getInsertSql(), Locale.ROOT)

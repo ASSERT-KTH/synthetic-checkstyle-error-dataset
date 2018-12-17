@@ -1,0 +1,4 @@
+44c44
+<         Set<GrantedAuthority> authorities = super.getGroupMembershipRoles(userDn, username);
+---
+>         Set<GrantedAuthority> authorities = super.getGroupMembershipRoles(userDn, username)	;

@@ -1,0 +1,5 @@
+43,44c43
+<     public void setParams(StateParam[] params) {
+<         this.params = params;
+---
+>     public void setParams(StateParam[] params) {        this.params = params;

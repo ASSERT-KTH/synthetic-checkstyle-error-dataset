@@ -1,0 +1,5 @@
+220,221c220
+<     public Map<String, ExecutableOutputPO> getAllOutputDigests(long timeStartInMillis, long timeEndInMillis) {
+<         final List<ExecutableOutputPO> jobOutputs = executableDao.getJobOutputDigests(timeStartInMillis,
+---
+>     public Map<String, ExecutableOutputPO> getAllOutputDigests(long timeStartInMillis, long timeEndInMillis) {        final List<ExecutableOutputPO> jobOutputs = executableDao.getJobOutputDigests(timeStartInMillis,

@@ -1,0 +1,4 @@
+60c60
+<         getTableACLManager().addTableACL(project, name, table, type);
+---
+>         getTableACLManager().addTableACL(project, name, table,type);

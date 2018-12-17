@@ -1,0 +1,4 @@
+24c24
+< public abstract class InitialTask {
+---
+> public abstract class InitialTask 	{

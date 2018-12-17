@@ -1,0 +1,5 @@
+46c46,47
+<     public static int simulateCuboidGeneration(CubeDesc cubeDesc, boolean validate) {
+---
+>     public static int simulateCuboidGeneration
+> (CubeDesc cubeDesc, boolean validate) {

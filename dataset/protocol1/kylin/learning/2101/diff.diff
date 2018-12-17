@@ -1,0 +1,4 @@
+327c327
+<             NavigableSet<String> resources = store.listResources(ResourceStore.EXECUTE_RESOURCE_ROOT);
+---
+>             NavigableSet<String> resources = 	store.listResources(ResourceStore.EXECUTE_RESOURCE_ROOT);

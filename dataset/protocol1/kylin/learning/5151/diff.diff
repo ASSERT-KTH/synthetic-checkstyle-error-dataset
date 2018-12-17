@@ -1,0 +1,4 @@
+284c284
+<         if (other == null || getClass() != other.getClass()) {
+---
+>         	if (other == null || getClass() != other.getClass()) {

@@ -1,0 +1,4 @@
+44c44
+<             " or hasPermission(filterObject, 'ADMINISTRATION')"+
+---
+>             " or hasPermission(filterObject, 'ADMINISTRATION')"	+

@@ -1,0 +1,4 @@
+52c52
+<         this.cardinality = cardinality;
+---
+>         this.cardinality = cardinality	;

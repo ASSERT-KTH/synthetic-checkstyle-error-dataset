@@ -1,0 +1,4 @@
+232c232
+<                 int b = getIndexOf(o2);
+---
+>                 	int b = getIndexOf(o2);

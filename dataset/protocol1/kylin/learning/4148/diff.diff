@@ -1,0 +1,4 @@
+67c67
+<     private static Logger logger = LoggerFactory.getLogger(InMemCubeBuilder.class);
+---
+>     private static Logger 	logger = LoggerFactory.getLogger(InMemCubeBuilder.class);

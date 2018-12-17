@@ -1,0 +1,5 @@
+44,45c44
+<                 logger.error("Execution exception when running task in " + Thread.currentThread().getName());
+<                 t = ee.getCause();
+---
+>                 logger.error("Execution exception when running task in " + Thread.currentThread().getName());                t = ee.getCause();

@@ -1,0 +1,4 @@
+481c481
+<                 hr = (HBaseResponse) Class.forName("org.apache.kylin.rest.service.HBaseInfoUtil")//
+---
+>                 hr 	= (HBaseResponse) Class.forName("org.apache.kylin.rest.service.HBaseInfoUtil")//

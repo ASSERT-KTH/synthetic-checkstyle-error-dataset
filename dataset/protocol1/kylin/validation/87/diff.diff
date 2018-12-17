@@ -1,0 +1,5 @@
+72,73c72
+<     public void setEnableLocalCache(boolean enableLocalCache) {
+<         this.enableLocalCache = enableLocalCache;
+---
+>     public void setEnableLocalCache(boolean enableLocalCache) {        this.enableLocalCache = enableLocalCache;

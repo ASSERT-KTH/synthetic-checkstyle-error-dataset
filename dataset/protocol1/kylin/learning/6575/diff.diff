@@ -1,0 +1,4 @@
+196c196
+<                             pstat.setLong(3, filter.lastModEndExclusive);
+---
+>                             pstat.setLong(3, filter.	lastModEndExclusive);

@@ -1,0 +1,4 @@
+49c49
+<     public AppendTrieDictionaryBuilder(String baseDir, int maxEntriesPerSlice, boolean isAppendDictGlobal) throws IOException {
+---
+>     public AppendTrieDictionaryBuilder(String baseDir, int 	maxEntriesPerSlice, boolean isAppendDictGlobal) throws IOException {

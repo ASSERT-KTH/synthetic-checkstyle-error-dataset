@@ -1,0 +1,4 @@
+105c105
+<         result = prime * result + ((columnFamilyName == null) ? 0 : columnFamilyName.hashCode());
+---
+>         result = prime * result + ((columnFamilyName == null) 	? 0 : columnFamilyName.hashCode());

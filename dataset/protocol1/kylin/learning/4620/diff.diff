@@ -1,0 +1,5 @@
+600,601c600
+<         if (!StringUtils.isEmpty(segmentIds)) {
+<             for (String segmentId : StringUtils.split(segmentIds)) {
+---
+>         if (!StringUtils.isEmpty(segmentIds)) {            for (String segmentId : StringUtils.split(segmentIds)) {

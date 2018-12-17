@@ -1,0 +1,4 @@
+57c57
+<         this.blankByte = blankByte;
+---
+>         	this.blankByte = blankByte;

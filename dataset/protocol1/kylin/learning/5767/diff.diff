@@ -1,0 +1,4 @@
+33c33
+<     boolean compact = false;
+---
+>     boolean compact = false	;

@@ -1,0 +1,4 @@
+35c35
+<                 : number instanceof BigInteger ? new BigDecimal((BigInteger) number)
+---
+>                 	: number instanceof BigInteger ? new BigDecimal((BigInteger) number)

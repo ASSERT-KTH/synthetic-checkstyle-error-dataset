@@ -1,0 +1,5 @@
+75,76c75
+<                 DataOutputStream dout = new DataOutputStream(bout)) {
+<             write(dout);
+---
+>                 DataOutputStream dout = new DataOutputStream(bout)) {            write(dout);

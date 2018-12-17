@@ -1,0 +1,5 @@
+41,42c41
+<             CubeDesc cubeDesc = cubeDescMgr.getCubeDesc(args[1]);
+<             simulateCuboidGeneration(cubeDesc, true);
+---
+>             CubeDesc cubeDesc = cubeDescMgr.getCubeDesc(args[1]);            simulateCuboidGeneration(cubeDesc, true);

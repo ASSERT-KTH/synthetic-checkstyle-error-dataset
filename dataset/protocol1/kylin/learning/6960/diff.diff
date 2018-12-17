@@ -1,0 +1,4 @@
+93c93
+<     public void setCubeService(CubeService cubeService) {
+---
+>     public void setCubeService(CubeService cubeService) 	{

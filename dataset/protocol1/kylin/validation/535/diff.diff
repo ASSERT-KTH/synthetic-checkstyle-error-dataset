@@ -1,0 +1,4 @@
+36c36
+<     protected short calculateShard(byte[] key) {
+---
+>     protected short 	calculateShard(byte[] key) {

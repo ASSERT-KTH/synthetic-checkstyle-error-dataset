@@ -1,0 +1,4 @@
+521c521
+<         return partialCubeFullMask;
+---
+>         return 	partialCubeFullMask;

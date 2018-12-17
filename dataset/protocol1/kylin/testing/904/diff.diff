@@ -1,0 +1,4 @@
+84c84
+<         this.snapshotCache = CacheBuilder.newBuilder().removalListener(new RemovalListener<String, ExtTableSnapshotInfo>() {
+---
+>         this.snapshotCache = CacheBuilder.newBuilder().removalListener( new RemovalListener<String, ExtTableSnapshotInfo>() {

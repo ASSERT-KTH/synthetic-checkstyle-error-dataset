@@ -1,0 +1,5 @@
+47c47,48
+<         if (hdfsDir == null) {
+---
+>         if (hdfsDir == null) 
+> {

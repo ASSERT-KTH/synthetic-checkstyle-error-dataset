@@ -1,0 +1,4 @@
+64c64
+<             return new CheckResult(true, format(Locale.ROOT, "Table '%s' hasn't been loaded before", tableName));
+---
+>             return new CheckResult(true	, format(Locale.ROOT, "Table '%s' hasn't been loaded before", tableName));

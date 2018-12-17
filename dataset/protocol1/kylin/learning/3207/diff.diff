@@ -1,0 +1,4 @@
+343c343
+<             int len = buf.position();
+---
+>             int len = buf	.position();

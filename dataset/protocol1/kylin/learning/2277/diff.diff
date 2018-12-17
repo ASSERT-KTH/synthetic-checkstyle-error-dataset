@@ -1,0 +1,5 @@
+77c77,78
+<         if (getKafkaManager().getKafkaConfig(config.getName()) != null) {
+---
+>         if (getKafkaManager
+> ().getKafkaConfig(config.getName()) != null) {

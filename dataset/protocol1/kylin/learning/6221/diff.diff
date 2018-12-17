@@ -1,0 +1,5 @@
+30,31c30
+<         for (int index : indexes) {
+<             maxIndex = Math.max(maxIndex, index);
+---
+>         for (int index : indexes) {            maxIndex = Math.max(maxIndex, index);

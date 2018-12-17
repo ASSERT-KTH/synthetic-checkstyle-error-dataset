@@ -1,0 +1,5 @@
+93,94c93
+<         if (starttlsEnabled) {
+<             email.setSslSmtpPort(port);
+---
+>         if (starttlsEnabled) {            email.setSslSmtpPort(port);

@@ -1,0 +1,5 @@
+30,31c30
+<         }
+<         if (!(args[0].equals("-className"))) {
+---
+>         }        if (!(args[0].equals("-className"))) {

@@ -1,0 +1,5 @@
+38,39c38
+<         this.segment = segment;
+<         this.info = info;
+---
+>         this.segment = segment;        this.info = info;

@@ -1,0 +1,5 @@
+58,59c58
+<     public String readColumnString(TblColRef col, byte[] bytes, int offset, int length) {
+<         DimensionEncoding dimEnc = dimEncMap.get(col);
+---
+>     public String readColumnString(TblColRef col, byte[] bytes, int offset, int length) {        DimensionEncoding dimEnc = dimEncMap.get(col);

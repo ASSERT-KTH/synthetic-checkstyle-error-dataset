@@ -1,0 +1,4 @@
+90c90
+<         String path = KylinConfig.getInstanceFromEnv().getHdfsWorkingDirectory() + "resources/GlobalDict/";
+---
+>         String path = KylinConfig.getInstanceFromEnv()	.getHdfsWorkingDirectory() + "resources/GlobalDict/";

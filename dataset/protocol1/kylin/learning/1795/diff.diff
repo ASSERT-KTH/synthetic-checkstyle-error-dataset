@@ -1,0 +1,5 @@
+158,159c158
+<         try {
+<             ProjectInstance currentProject = projectService.getProjectManager().getProject(formerProjectName);
+---
+>         try {            ProjectInstance currentProject = projectService.getProjectManager().getProject(formerProjectName);

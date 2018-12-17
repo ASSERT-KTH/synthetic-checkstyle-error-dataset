@@ -1,0 +1,4 @@
+37c37
+<     public InternalErrorException(String s) {
+---
+>     public InternalErrorException (String s) {

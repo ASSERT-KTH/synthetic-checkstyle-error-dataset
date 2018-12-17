@@ -1,0 +1,4 @@
+211c211
+<     public static void writeToSequenceFile(Configuration conf, String outputPath, Map<String, String> counterMap) throws IOException {
+---
+>     public static void writeToSequenceFile(Configuration conf, String outputPath, Map<String, String> counterMap) throws IOException 	{

@@ -1,0 +1,5 @@
+199c199,200
+<         metricsEvent.put(QueryCubePropertyEnum.WEIGHT_PER_HIT.toString(), weightPerHit);
+---
+>         metricsEvent.put(QueryCubePropertyEnum.WEIGHT_PER_HIT.toString
+> (), weightPerHit);

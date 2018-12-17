@@ -1,0 +1,4 @@
+251c251
+<             List<QueryContext.CubeSegmentStatisticsResult> cubeSegmentStatisticsList) {
+---
+>             List<	QueryContext.CubeSegmentStatisticsResult> cubeSegmentStatisticsList) {

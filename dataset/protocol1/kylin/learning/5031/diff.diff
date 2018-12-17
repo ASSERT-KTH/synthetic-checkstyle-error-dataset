@@ -1,0 +1,4 @@
+175c175
+<             dimEncs[i] = dimEncMap.get(dims.get(i));
+---
+>             dimEncs	[i] = dimEncMap.get(dims.get(i));

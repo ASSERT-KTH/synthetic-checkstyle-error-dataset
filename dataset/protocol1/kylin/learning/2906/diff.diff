@@ -1,0 +1,5 @@
+88,89c88
+<             if (StringUtils.isEmpty(path)) {
+<                 path = getHadoopJobConfFilePath(jobType, false);
+---
+>             if (StringUtils.isEmpty(path)) {                path = getHadoopJobConfFilePath(jobType, false);

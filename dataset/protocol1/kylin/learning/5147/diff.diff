@@ -1,0 +1,4 @@
+51c51
+<                 bytesWritten += (out.size() - pos);
+---
+>                 bytesWritten 	+= (out.size() - pos);

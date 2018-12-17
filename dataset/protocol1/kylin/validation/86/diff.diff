@@ -1,0 +1,4 @@
+259c259
+<         return StringUtils.reverse(sb.toString());
+---
+>         return StringUtils.	reverse(sb.toString());

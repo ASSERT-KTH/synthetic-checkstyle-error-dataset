@@ -1,0 +1,4 @@
+83c83
+<     public Map<String, String> removeFilter(@PathVariable String filter, @PathVariable String project) throws IOException {
+---
+>     public Map<String, String> removeFilter(@PathVariable String filter, @PathVariable String 	project) throws IOException {

@@ -1,0 +1,4 @@
+58c58
+<     public void setExtra(Map<String, String> extra) {
+---
+>     public void setExtra(Map<String, String> 	extra) {

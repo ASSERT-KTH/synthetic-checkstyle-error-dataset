@@ -1,0 +1,5 @@
+154,155c154
+<             float runningSec = (float) (now - e.startTime) / 1000;
+<             setQueryThreadInterrupted(e, runningSec);
+---
+>             float runningSec = (float) (now - e.startTime) / 1000;            setQueryThreadInterrupted(e, runningSec);

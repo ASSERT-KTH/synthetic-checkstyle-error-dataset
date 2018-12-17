@@ -1,0 +1,4 @@
+140c140
+<         public void setJobException(Throwable throwable) {
+---
+>         public void setJobException( Throwable throwable) {

@@ -1,0 +1,5 @@
+25,26c25
+< import org.apache.kylin.cube.model.RowKeyColDesc;
+< import org.apache.kylin.dimension.DictionaryDimEnc;
+---
+> import org.apache.kylin.cube.model.RowKeyColDesc;import org.apache.kylin.dimension.DictionaryDimEnc;

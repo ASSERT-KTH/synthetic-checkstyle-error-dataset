@@ -1,0 +1,4 @@
+100c100
+<         queryLatency.add(latency);
+---
+>         queryLatency.	add(latency);

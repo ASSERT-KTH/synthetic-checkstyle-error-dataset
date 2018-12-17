@@ -1,0 +1,4 @@
+332c332
+<                     updateJobOutput(task.getId(), ExecutableState.READY, null, null);
+---
+>                     updateJobOutput(task.getId(), ExecutableState.READY, 	null, null);

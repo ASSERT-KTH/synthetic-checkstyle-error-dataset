@@ -1,0 +1,4 @@
+647c647
+<             return readChannel.read(ByteBuffer.wrap(bytes, offset, length), diskOffset);
+---
+>             return readChannel.read(ByteBuffer.wrap(bytes, offset, length)	, diskOffset);

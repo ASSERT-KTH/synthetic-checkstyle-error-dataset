@@ -1,0 +1,4 @@
+280c280
+<                 sgaList.add(new SimpleGrantedAuthority(uga.getAuthority()));
+---
+>                 sgaList.add(new SimpleGrantedAuthority(uga.	getAuthority()));

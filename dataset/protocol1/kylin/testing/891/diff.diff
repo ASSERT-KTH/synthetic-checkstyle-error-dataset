@@ -1,0 +1,4 @@
+36c36
+<         buffer.put((byte) b);
+---
+>         buffer.put ((byte) b);

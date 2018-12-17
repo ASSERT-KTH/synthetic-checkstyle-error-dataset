@@ -1,0 +1,5 @@
+242,243c242
+<         } catch (FileNotFoundException e) {
+<             logger.error("Working Directory does not exist on HDFS.", e);
+---
+>         } catch (FileNotFoundException e) {            logger.error("Working Directory does not exist on HDFS.", e);

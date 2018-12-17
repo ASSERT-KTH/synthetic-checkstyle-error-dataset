@@ -1,0 +1,4 @@
+23c23
+< import org.springframework.context.annotation.Lazy;
+---
+> import org.springframework.context.	annotation.Lazy;

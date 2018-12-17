@@ -1,0 +1,5 @@
+131,132c131
+<         try (AutoReadWriteLock.AutoLock l = lock.lockForWrite()) {
+<             crud.delete(username.toUpperCase(Locale.ROOT));
+---
+>         try (AutoReadWriteLock.AutoLock l = lock.lockForWrite()) {            crud.delete(username.toUpperCase(Locale.ROOT));

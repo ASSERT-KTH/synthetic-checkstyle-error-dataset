@@ -1,0 +1,4 @@
+66c66
+<         Map<String, List<String>> datatypeValidEncodings = Maps.newHashMap();
+---
+>         Map<String	, List<String>> datatypeValidEncodings = Maps.newHashMap();

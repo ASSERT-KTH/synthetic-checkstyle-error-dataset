@@ -1,0 +1,4 @@
+49c49
+<         if (auth == null) {
+---
+>         if (auth 	== null) {

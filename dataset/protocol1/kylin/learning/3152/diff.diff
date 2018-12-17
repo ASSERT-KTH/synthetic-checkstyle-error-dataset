@@ -1,0 +1,4 @@
+33c33
+<     public RowKeyEncoderProvider(CubeSegment cubeSegment) {
+---
+>     public RowKeyEncoderProvider(CubeSegment cubeSegment) 	{

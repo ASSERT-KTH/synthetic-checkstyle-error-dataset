@@ -1,0 +1,5 @@
+114c114,115
+<         BitSet mutable = mutable();
+---
+>         BitSet mutable = mutable
+> ();

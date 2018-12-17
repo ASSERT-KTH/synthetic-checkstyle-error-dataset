@@ -1,0 +1,4 @@
+94c94
+<         putIfMissing(ret, "driverClassName", "com.mysql.jdbc.Driver");
+---
+>         putIfMissing( ret, "driverClassName", "com.mysql.jdbc.Driver");

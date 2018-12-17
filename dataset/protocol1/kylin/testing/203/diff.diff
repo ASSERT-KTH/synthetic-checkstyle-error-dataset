@@ -1,0 +1,5 @@
+77,78c77
+<     public static <T> RecordConsumeBlockingQueueController<T> getQueueController(InputConverterUnit<T> inputConverterUnit, BlockingQueue<T> input, int batchSize){
+<         return new RecordConsumeBlockingQueueController<>(inputConverterUnit, input, batchSize);
+---
+>     public static <T> RecordConsumeBlockingQueueController<T> getQueueController(InputConverterUnit<T> inputConverterUnit, BlockingQueue<T> input, int batchSize){        return new RecordConsumeBlockingQueueController<>(inputConverterUnit, input, batchSize);

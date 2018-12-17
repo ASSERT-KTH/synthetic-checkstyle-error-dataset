@@ -1,0 +1,4 @@
+48c48
+<     protected Set<String> getRealizations(KylinConfig config, String cubes, ProjectInstance project) {
+---
+>     protected Set<String> getRealizations(KylinConfig config	, String cubes, ProjectInstance project) {

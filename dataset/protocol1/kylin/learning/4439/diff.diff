@@ -1,0 +1,5 @@
+101,102c101
+<     public byte[] getFirstValue() {
+<         int nodeOffset = headSize;
+---
+>     public byte[] getFirstValue() {        int nodeOffset = headSize;

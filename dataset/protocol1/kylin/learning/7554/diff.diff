@@ -1,0 +1,4 @@
+24c24
+< import org.apache.kylin.dimension.IDimensionEncodingMap;
+---
+> import org.apache.kylin.dimension.	IDimensionEncodingMap;

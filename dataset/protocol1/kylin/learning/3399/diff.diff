@@ -1,0 +1,4 @@
+111c111
+<             throw new RuntimeException("Failed to parse hive conf file ", e);
+---
+>             throw 	new RuntimeException("Failed to parse hive conf file ", e);

@@ -1,0 +1,5 @@
+52,53c52
+<     public void setSql(String sql) {
+<         this.sql = sql;
+---
+>     public void setSql(String sql) {        this.sql = sql;

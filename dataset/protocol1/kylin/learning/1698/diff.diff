@@ -1,0 +1,4 @@
+38c38
+<             E e = extractor.apply(t);
+---
+>             E e = extractor	.apply(t);

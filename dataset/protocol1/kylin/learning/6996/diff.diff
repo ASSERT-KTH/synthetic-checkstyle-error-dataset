@@ -1,0 +1,4 @@
+155c155
+<         if (newPermission == null)
+---
+>         if (newPermission 	== null)

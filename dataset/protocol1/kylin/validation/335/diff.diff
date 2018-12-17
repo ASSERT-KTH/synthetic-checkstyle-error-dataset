@@ -1,0 +1,4 @@
+59c59
+<         String[] defaultRoles = StringUtils.split(defaultRole, ",");
+---
+>         String	[] defaultRoles = StringUtils.split(defaultRole, ",");

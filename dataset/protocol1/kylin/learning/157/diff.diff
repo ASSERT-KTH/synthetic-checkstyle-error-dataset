@@ -1,0 +1,4 @@
+47c47
+<                     logger.info("Current running query number " + notification.getValue().get() + " for project "
+---
+>                     logger.info("Current running query number " + notification.getValue().get () + " for project "

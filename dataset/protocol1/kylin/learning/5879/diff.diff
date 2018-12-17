@@ -1,0 +1,5 @@
+79,80c79
+<         if (config.isResourceStoreReconnectEnabled() && store.isUnreachableException(ex)) {
+<             if (isTimeOut(config.getResourceStoreReconnectTimeoutMs())) {
+---
+>         if (config.isResourceStoreReconnectEnabled() && store.isUnreachableException(ex)) {            if (isTimeOut(config.getResourceStoreReconnectTimeoutMs())) {

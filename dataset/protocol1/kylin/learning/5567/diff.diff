@@ -1,0 +1,5 @@
+240c240,241
+<         while (!queue.isEmpty()) {
+---
+>         while (!queue.isEmpty
+> ()) {

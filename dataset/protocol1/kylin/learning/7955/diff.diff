@@ -1,0 +1,4 @@
+113c113
+<     public static boolean getDisabledRawQueryLastHacker() {
+---
+>     public 	static boolean getDisabledRawQueryLastHacker() {

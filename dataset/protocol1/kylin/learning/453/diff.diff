@@ -1,0 +1,4 @@
+105c105
+<             for (String receiver : receivers) {
+---
+>             for (String receiver : receivers) 	{

@@ -1,0 +1,5 @@
+58,59c58
+<             Arrays.fill(byteArray.array(), byteArray.offset() + pos, byteArray.offset() + pos + colLength, fill);
+<             pos += colLength;
+---
+>             Arrays.fill(byteArray.array(), byteArray.offset() + pos, byteArray.offset() + pos + colLength, fill);            pos += colLength;

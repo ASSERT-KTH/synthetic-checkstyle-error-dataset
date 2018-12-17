@@ -1,0 +1,5 @@
+83,84c83
+<         FunctionDesc function = measure.getFunction();
+<         int[] colIdxOnFlatTable = flatDesc.getMeasureColumnIndexes()[idxOfMeasure];
+---
+>         FunctionDesc function = measure.getFunction();        int[] colIdxOnFlatTable = flatDesc.getMeasureColumnIndexes()[idxOfMeasure];

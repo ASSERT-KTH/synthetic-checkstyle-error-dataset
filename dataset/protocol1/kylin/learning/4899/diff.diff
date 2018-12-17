@@ -1,0 +1,5 @@
+44c44,45
+<             allCuboidsBitSet[j] = new Integer[Long.bitCount(cuboidId)];
+---
+>             allCuboidsBitSet[j] = new Integer[Long.bitCount
+> (cuboidId)];

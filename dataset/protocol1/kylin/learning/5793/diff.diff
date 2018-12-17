@@ -1,0 +1,4 @@
+32c32
+<             throw new IllegalArgumentException(String.valueOf("-className is required"));
+---
+>             throw 	new IllegalArgumentException(String.valueOf("-className is required"));

@@ -1,0 +1,5 @@
+38,39c38
+<             String str = in.readUTF();
+<             return new StringEntity(str);
+---
+>             String str = in.readUTF();            return new StringEntity(str);

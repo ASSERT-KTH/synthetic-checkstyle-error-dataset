@@ -1,0 +1,4 @@
+34c34
+<             tempFile = File.createTempFile(prefix, suffix);
+---
+>             tempFile = File.createTempFile(prefix, suffix)	;

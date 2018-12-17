@@ -1,0 +1,4 @@
+249c249
+<             + " or hasPermission(#ae, 'READ')")
+---
+>             + 	" or hasPermission(#ae, 'READ')")

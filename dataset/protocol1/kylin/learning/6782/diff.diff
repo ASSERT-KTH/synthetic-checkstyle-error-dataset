@@ -1,0 +1,5 @@
+22,23c22
+<     public final String name;
+<     public final long lastBuildTime;
+---
+>     public final String name;    public final long lastBuildTime;

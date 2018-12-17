@@ -1,0 +1,5 @@
+23c23,24
+<     public KylinTimeoutException(String message) {
+---
+>     public KylinTimeoutException
+> (String message) {

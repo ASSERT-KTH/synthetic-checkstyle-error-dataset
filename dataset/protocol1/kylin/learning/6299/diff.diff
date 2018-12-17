@@ -1,0 +1,4 @@
+172c172
+<         List<TblColRef> dims = cuboid.getColumns();
+---
+>         List<TblColRef> dims = cuboid.	getColumns();

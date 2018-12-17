@@ -1,0 +1,5 @@
+175,176c175
+<         offsetMap.put(this, o);
+<         o = build_writeNode(this, o, true, sizeChildOffset, sizeId, trieBytes);
+---
+>         offsetMap.put(this, o);        o = build_writeNode(this, o, true, sizeChildOffset, sizeId, trieBytes);

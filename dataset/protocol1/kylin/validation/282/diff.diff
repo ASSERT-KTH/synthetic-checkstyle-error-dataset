@@ -1,0 +1,4 @@
+27c27
+<     public T[] data;
+---
+>     public T	[] data;

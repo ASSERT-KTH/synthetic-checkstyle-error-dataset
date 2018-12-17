@@ -1,0 +1,5 @@
+39,40c39
+<     public ErrorResponse(String url, Exception exception) {
+<         super();
+---
+>     public ErrorResponse(String url, Exception exception) {        super();

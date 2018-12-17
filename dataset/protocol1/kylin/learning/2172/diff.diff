@@ -1,0 +1,5 @@
+221c221,222
+<         SidInfo owner = sidSerializer.deserialize(result.getValue(Bytes.toBytes(AclConstant.ACL_INFO_FAMILY),
+---
+>         SidInfo owner = sidSerializer.deserialize(result.getValue
+> (Bytes.toBytes(AclConstant.ACL_INFO_FAMILY),

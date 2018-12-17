@@ -1,0 +1,5 @@
+196,197c196
+<         public Distribution(ColSpec spec, long nRows) {
+<             assert spec.cardinality > 0;
+---
+>         public Distribution(ColSpec spec, long nRows) {            assert spec.cardinality > 0;

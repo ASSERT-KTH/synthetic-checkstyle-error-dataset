@@ -1,0 +1,5 @@
+91,92c91
+<     public GTInfo getInfo() {
+<         return info;
+---
+>     public GTInfo getInfo() {        return info;

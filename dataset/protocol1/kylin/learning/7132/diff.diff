@@ -1,0 +1,5 @@
+54c54,55
+<         for (Map.Entry<String, String> entry : hiveConfiguration.entrySet()) {
+---
+>         for (Map.Entry<String, String> entry : hiveConfiguration.entrySet
+> ()) {

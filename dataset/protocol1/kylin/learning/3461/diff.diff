@@ -1,0 +1,4 @@
+115c115
+<         mutable.andNot(another.set);
+---
+>         mutable.andNot(another.set)	;

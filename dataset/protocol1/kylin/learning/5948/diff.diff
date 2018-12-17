@@ -1,0 +1,4 @@
+48c48
+<         this.rowKeySplitter = new RowKeySplitter(cubeSegment);
+---
+>         this.rowKeySplitter 	= new RowKeySplitter(cubeSegment);

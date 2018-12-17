@@ -1,0 +1,4 @@
+41c41
+<         byte[] bytes = ManagementFactory.getRuntimeMXBean().getName().getBytes(StandardCharsets.UTF_8);
+---
+>         byte[] bytes = ManagementFactory.getRuntimeMXBean ().getName().getBytes(StandardCharsets.UTF_8);

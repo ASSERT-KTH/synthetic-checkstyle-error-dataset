@@ -1,0 +1,5 @@
+239,240c239
+<         } else {
+<             long realLastModify = getResourceTimestamp(resPath);
+---
+>         } else {            long realLastModify = getResourceTimestamp(resPath);

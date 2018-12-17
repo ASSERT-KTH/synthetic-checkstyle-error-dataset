@@ -1,0 +1,4 @@
+51c51
+<     public String getSid() {
+---
+>     public String getSid () {

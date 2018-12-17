@@ -1,0 +1,5 @@
+40,41c40
+<         ImmutableBitSet parentDimensions = parentDimensionAndMetricColumnBitSet.getFirst();
+<         ImmutableBitSet measureColumns = parentDimensionAndMetricColumnBitSet.getSecond();
+---
+>         ImmutableBitSet parentDimensions = parentDimensionAndMetricColumnBitSet.getFirst();        ImmutableBitSet measureColumns = parentDimensionAndMetricColumnBitSet.getSecond();

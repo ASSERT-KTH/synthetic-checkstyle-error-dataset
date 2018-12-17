@@ -1,0 +1,5 @@
+57,58c57
+<     public static byte[] decompress(byte[] data) throws IOException, DataFormatException {
+<         long startTime = System.currentTimeMillis();
+---
+>     public static byte[] decompress(byte[] data) throws IOException, DataFormatException {        long startTime = System.currentTimeMillis();

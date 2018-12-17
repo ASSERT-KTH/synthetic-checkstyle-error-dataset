@@ -1,0 +1,4 @@
+31c31
+<     public void serialize(T obj, DataOutputStream out) throws IOException;
+---
+>     public void serialize( T obj, DataOutputStream out) throws IOException;

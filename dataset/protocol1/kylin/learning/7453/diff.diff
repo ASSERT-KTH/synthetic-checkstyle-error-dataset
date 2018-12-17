@@ -1,0 +1,4 @@
+70c70
+<         return MailTemplateProvider.getInstance().buildMailContent(MailNotificationUtil.getMailTemplateKey(state),
+---
+>         return 	MailTemplateProvider.getInstance().buildMailContent(MailNotificationUtil.getMailTemplateKey(state),

@@ -1,0 +1,4 @@
+215c215
+<             logger.error("fail to get all job output:", e);
+---
+>             logger.error("fail to get all job output:", e)	;

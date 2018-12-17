@@ -1,0 +1,5 @@
+32c32,33
+<         public void serialize(StringEntity obj, DataOutputStream out) throws IOException {
+---
+>         public void serialize(StringEntity obj, DataOutputStream out) throws IOException 
+> {

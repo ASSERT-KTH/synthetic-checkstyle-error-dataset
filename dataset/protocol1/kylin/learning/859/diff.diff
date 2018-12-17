@@ -1,0 +1,4 @@
+44c44
+<     static String ACL_INFO_FAMILY_ENTRY_INHERIT_COLUMN = "i";
+---
+>     	static String ACL_INFO_FAMILY_ENTRY_INHERIT_COLUMN = "i";

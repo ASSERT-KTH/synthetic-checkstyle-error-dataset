@@ -1,0 +1,4 @@
+387c387
+<         updateJobOutput(jobId, ExecutableState.DISCARDED, null, null);
+---
+>         updateJobOutput(jobId, ExecutableState.	DISCARDED, null, null);

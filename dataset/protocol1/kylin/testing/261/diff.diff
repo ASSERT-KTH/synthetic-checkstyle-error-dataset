@@ -1,0 +1,4 @@
+65c65
+<         extFilterService.syncExtFilterToProject(new String[] { desc.getName() }, filterProject);
+---
+>         extFilterService.syncExtFilterToProject(new String[] { desc.getName() }, filterProject)	;

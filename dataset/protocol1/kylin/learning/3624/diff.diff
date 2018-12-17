@@ -1,0 +1,5 @@
+48,49c48
+<         this.seg = seg;
+<         this.dictionaryMap = null;
+---
+>         this.seg = seg;        this.dictionaryMap = null;

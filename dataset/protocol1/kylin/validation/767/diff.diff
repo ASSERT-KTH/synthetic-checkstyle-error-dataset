@@ -1,0 +1,5 @@
+101,102c101
+<             throw new NotFoundException("Could not find Hive table: " + tableName);
+<         return table;
+---
+>             throw new NotFoundException("Could not find Hive table: " + tableName);        return table;

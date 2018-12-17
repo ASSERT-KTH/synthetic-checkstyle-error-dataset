@@ -1,0 +1,5 @@
+146,147c146
+<         if (!tables.contains(table)) {
+<             throw new RuntimeException("Operation failed, table:" + table + " not exists");
+---
+>         if (!tables.contains(table)) {            throw new RuntimeException("Operation failed, table:" + table + " not exists");

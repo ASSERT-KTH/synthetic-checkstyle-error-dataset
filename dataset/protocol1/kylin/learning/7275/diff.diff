@@ -1,0 +1,4 @@
+34c34
+<             throw new RuntimeException(String.format(Locale.ROOT, "Property '%s' not found", key));
+---
+>             	throw new RuntimeException(String.format(Locale.ROOT, "Property '%s' not found", key));

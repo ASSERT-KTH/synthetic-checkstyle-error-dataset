@@ -1,0 +1,4 @@
+76c76
+<         result.setName(executable.getName());
+---
+>         result.setName(executable.	getName());

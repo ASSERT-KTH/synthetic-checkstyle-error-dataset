@@ -1,0 +1,4 @@
+621c621
+<             long tail = readySegs.get(readySegs.size() - 1).getTSRange().end.v;
+---
+>             long tail = readySegs	.get(readySegs.size() - 1).getTSRange().end.v;

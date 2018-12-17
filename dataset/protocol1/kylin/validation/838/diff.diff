@@ -1,0 +1,4 @@
+41c41
+<     public static final byte DEFAULT_BLANK_BYTE = DimensionEncoding.NULL;
+---
+>     public static final byte DEFAULT_BLANK_BYTE = DimensionEncoding	.NULL;

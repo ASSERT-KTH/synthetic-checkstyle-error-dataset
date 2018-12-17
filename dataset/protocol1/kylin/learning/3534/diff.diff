@@ -1,0 +1,4 @@
+33c33
+<         this(path, lastModified, (InputStream) null);
+---
+>         this( path, lastModified, (InputStream) null);

@@ -1,0 +1,5 @@
+63,64c63
+<     public void setStorageType(String storageType) {
+<         this.storageType = storageType;
+---
+>     public void setStorageType(String storageType) {        this.storageType = storageType;

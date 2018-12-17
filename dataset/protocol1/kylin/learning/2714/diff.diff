@@ -1,0 +1,4 @@
+339c339
+<         if (projectInstance == null || projectInstance.getSourceType() != ISourceAware.ID_HIVE){
+---
+>         if (projectInstance 	== null || projectInstance.getSourceType() != ISourceAware.ID_HIVE){

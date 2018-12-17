@@ -1,0 +1,5 @@
+185,186c185
+<         String resourceDir = snapshot.getResourceDir();
+<         NavigableSet<String> existings = store.listResources(resourceDir);
+---
+>         String resourceDir = snapshot.getResourceDir();        NavigableSet<String> existings = store.listResources(resourceDir);

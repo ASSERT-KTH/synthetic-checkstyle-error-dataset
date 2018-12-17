@@ -1,0 +1,5 @@
+26c26,27
+<     List<String> listAllAuthorities(String project) throws IOException;
+---
+>     List<String> listAllAuthorities
+> (String project) throws IOException;

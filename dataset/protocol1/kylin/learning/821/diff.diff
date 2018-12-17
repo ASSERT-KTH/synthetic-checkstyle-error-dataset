@@ -1,0 +1,4 @@
+124c124
+<                 cacheManager.getCache(QueryService.QUERY_CACHE).removeAll();
+---
+>                 cacheManager.getCache(QueryService	.QUERY_CACHE).removeAll();

@@ -1,0 +1,5 @@
+49,50c49
+<             this.code = ((BadRequestException) exception).getCode();
+<         } else {
+---
+>             this.code = ((BadRequestException) exception).getCode();        } else {

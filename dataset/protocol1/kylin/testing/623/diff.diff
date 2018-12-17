@@ -1,0 +1,4 @@
+143c143
+<                 logger.info("Deleting metadata " + res);
+---
+>                 logger.info("Deleting metadata " + res );

@@ -1,0 +1,4 @@
+124c124
+<                 if (preferJarKeyWord != null && url.getPath().indexOf(preferJarKeyWord) != -1)
+---
+>                 if (preferJarKeyWord != null && url.getPath().indexOf(preferJarKeyWord) != -1 )

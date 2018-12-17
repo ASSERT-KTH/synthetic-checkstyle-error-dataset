@@ -1,0 +1,5 @@
+78,79c78
+<         queryLatency = registry.newRate("QueryLatency", "", true);
+<         scanRowCount = registry.newRate("ScanRowCount", "", true);
+---
+>         queryLatency = registry.newRate("QueryLatency", "", true);        scanRowCount = registry.newRate("ScanRowCount", "", true);

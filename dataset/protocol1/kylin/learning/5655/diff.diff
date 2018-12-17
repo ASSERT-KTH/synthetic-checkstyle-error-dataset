@@ -1,0 +1,4 @@
+28c28
+<     public static final String YARN_APP_STATE = "yarn_application_state";
+---
+>     	public static final String YARN_APP_STATE = "yarn_application_state";

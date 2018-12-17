@@ -1,0 +1,4 @@
+72c72
+<         builder.setPrimaryKey(ImmutableBitSet.valueOf(0, 1, 2, 3, 4));
+---
+>         builder.setPrimaryKey(ImmutableBitSet.valueOf(0, 1, 2	, 3, 4));

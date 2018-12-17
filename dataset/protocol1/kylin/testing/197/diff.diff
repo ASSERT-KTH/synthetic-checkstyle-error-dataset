@@ -1,0 +1,5 @@
+37,38c37
+<     public static String getClientDetailInformation() {
+<         StringBuilder buf = new StringBuilder();
+---
+>     public static String getClientDetailInformation() {        StringBuilder buf = new StringBuilder();

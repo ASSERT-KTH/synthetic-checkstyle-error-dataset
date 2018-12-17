@@ -1,0 +1,5 @@
+239,240c239
+<     public RootPersistentEntity getAclEntity(String entityType, String uuid) {
+<         if (null == uuid) {
+---
+>     public RootPersistentEntity getAclEntity(String entityType, String uuid) {        if (null == uuid) {

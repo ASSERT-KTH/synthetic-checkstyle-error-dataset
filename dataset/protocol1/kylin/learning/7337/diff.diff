@@ -1,0 +1,4 @@
+60c60
+<     public static final String STEP_NAME_SAVE_STATISTICS = "Save Cuboid Statistics";
+---
+>     	public static final String STEP_NAME_SAVE_STATISTICS = "Save Cuboid Statistics";

@@ -1,0 +1,5 @@
+78c78,79
+<         return getDateFormat(pattern).format(new Date(millis));
+---
+>         return getDateFormat
+> (pattern).format(new Date(millis));

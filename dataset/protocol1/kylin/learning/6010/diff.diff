@@ -1,0 +1,4 @@
+65c65
+<     public static String getLocalHostName() {
+---
+>     	public static String getLocalHostName() {

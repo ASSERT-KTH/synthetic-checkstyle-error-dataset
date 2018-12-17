@@ -1,0 +1,4 @@
+67c67
+<     @PreAuthorize("hasRole('ROLE_ADMIN')")
+---
+>     @PreAuthorize( "hasRole('ROLE_ADMIN')")

@@ -1,0 +1,5 @@
+30,31c30
+<     private CubeSegment cubeSegment;
+<     private HashMap<Long, RowKeyEncoder> rowKeyEncoders;
+---
+>     private CubeSegment cubeSegment;    private HashMap<Long, RowKeyEncoder> rowKeyEncoders;

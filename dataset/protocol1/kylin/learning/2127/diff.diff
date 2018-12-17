@@ -1,0 +1,4 @@
+182c182
+<         final Set<String> allowedPropsNames = Sets.newHashSet(
+---
+>         final Set<String> allowedPropsNames = 	Sets.newHashSet(

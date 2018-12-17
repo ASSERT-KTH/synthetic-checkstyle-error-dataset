@@ -1,0 +1,5 @@
+88,89c88
+<                 if (!cubeSeg.getCubeDesc().isExtSnapshotTable(table.getTableIdentity())) {
+<                     toSnapshot.add(table.getTableIdentity());
+---
+>                 if (!cubeSeg.getCubeDesc().isExtSnapshotTable(table.getTableIdentity())) {                    toSnapshot.add(table.getTableIdentity());

@@ -1,0 +1,4 @@
+135c135
+<     public void setSegmentStatus(String segmentStatus) {
+---
+>     public void setSegmentStatus(String segmentStatus ) {

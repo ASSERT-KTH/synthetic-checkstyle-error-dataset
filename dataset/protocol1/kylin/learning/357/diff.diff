@@ -1,0 +1,4 @@
+58c58
+<         setVersion(cube.getVersion());
+---
+>         setVersion(cube	.getVersion());

@@ -1,0 +1,4 @@
+48c48
+<                     jobStats.dColumnDistinct, jobStats.dDictBuilding, jobStats.dCubingInmem, jobStats.dHfileConvert);
+---
+>                     jobStats.dColumnDistinct, jobStats.	dDictBuilding, jobStats.dCubingInmem, jobStats.dHfileConvert);

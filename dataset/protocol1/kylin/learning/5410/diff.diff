@@ -1,0 +1,5 @@
+193c193,194
+<                 List<String> violateColumns = checkAllColumnsInCube(cube, factTable, newTableDesc);
+---
+>                 List<String> violateColumns = checkAllColumnsInCube
+> (cube, factTable, newTableDesc);

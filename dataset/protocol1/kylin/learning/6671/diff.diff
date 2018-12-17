@@ -1,0 +1,5 @@
+43,44c43
+< import org.apache.kylin.common.util.AbstractApplication;
+< import org.apache.kylin.common.util.CliCommandExecutor;
+---
+> import org.apache.kylin.common.util.AbstractApplication;import org.apache.kylin.common.util.CliCommandExecutor;

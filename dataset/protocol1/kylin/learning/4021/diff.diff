@@ -1,0 +1,4 @@
+60c60
+<         for (HBaseColumnDesc hBaseColumnDesc : columns) {
+---
+>         	for (HBaseColumnDesc hBaseColumnDesc : columns) {

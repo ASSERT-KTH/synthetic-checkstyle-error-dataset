@@ -1,0 +1,4 @@
+54c54
+<         List<String> outLines = new ArrayList<>(lines.size());
+---
+>         List<String> outLines = new ArrayList<>(lines.	size());

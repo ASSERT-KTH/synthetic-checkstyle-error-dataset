@@ -1,0 +1,5 @@
+37,38c37
+<         if (this == o) {
+<             return true;
+---
+>         if (this == o) {            return true;

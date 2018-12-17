@@ -1,0 +1,5 @@
+78,79c78
+<                     throw new IllegalStateException("Expected cuboid set " + cubeDesc.getAllCuboids() + "; but actual cuboid set " + cuboidSet);
+<                 }
+---
+>                     throw new IllegalStateException("Expected cuboid set " + cubeDesc.getAllCuboids() + "; but actual cuboid set " + cuboidSet);                }

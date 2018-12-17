@@ -1,0 +1,4 @@
+23c23
+<     public TooManyCuboidException(String message) {
+---
+>     public TooManyCuboidException (String message) {

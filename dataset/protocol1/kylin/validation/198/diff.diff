@@ -1,0 +1,5 @@
+197,198c197
+<             logger.error(e.getLocalizedMessage(), e);
+<             throw new InternalErrorException(e.getLocalizedMessage());
+---
+>             logger.error(e.getLocalizedMessage(), e);            throw new InternalErrorException(e.getLocalizedMessage());

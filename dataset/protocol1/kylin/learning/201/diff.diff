@@ -1,0 +1,5 @@
+76,77c76
+<         this.setName(table.getName());
+<         this.setSourceType(table.getSourceType());
+---
+>         this.setName(table.getName());        this.setSourceType(table.getSourceType());

@@ -1,0 +1,5 @@
+33c33,34
+<     public T deserialize(DataInputStream in) throws IOException;
+---
+>     public T deserialize
+> (DataInputStream in) throws IOException;

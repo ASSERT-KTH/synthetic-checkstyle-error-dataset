@@ -1,0 +1,4 @@
+427c427
+<             for (Map.Entry<AppendDictSliceKey, String> entry : metadata.sliceFileMap.entrySet()) {
+---
+>             for (Map.Entry<AppendDictSliceKey, String> entry 	: metadata.sliceFileMap.entrySet()) {

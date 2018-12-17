@@ -1,0 +1,5 @@
+27,28c27
+<     public final  long cuboidId;
+<     public final  GridTable table;
+---
+>     public final  long cuboidId;    public final  GridTable table;

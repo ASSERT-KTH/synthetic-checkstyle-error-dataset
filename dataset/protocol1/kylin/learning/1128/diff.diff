@@ -1,0 +1,4 @@
+87c87
+<         return getSqlFromProperties("format.sql.test.drop");
+---
+>         return getSqlFromProperties("format.sql.test.drop")	;

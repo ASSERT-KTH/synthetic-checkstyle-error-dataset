@@ -1,0 +1,4 @@
+34c34
+<     public static final String STORAGE_TYPE_HBASE = "hbase";
+---
+>     public static final String STORAGE_TYPE_HBASE = "hbase"	;

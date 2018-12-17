@@ -1,0 +1,4 @@
+26c26
+< import org.apache.kylin.cube.CubeManager;
+---
+> 	import org.apache.kylin.cube.CubeManager;

@@ -1,0 +1,5 @@
+59c59,60
+<     public long lastModified() {
+---
+>     public long lastModified
+> () {

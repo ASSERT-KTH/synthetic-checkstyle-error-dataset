@@ -1,0 +1,5 @@
+55,56c55
+<     public void setCubeDesc(CubeDesc cubeRef) {
+<         this.cubeDesc = cubeRef;
+---
+>     public void setCubeDesc(CubeDesc cubeRef) {        this.cubeDesc = cubeRef;

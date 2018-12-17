@@ -1,0 +1,4 @@
+93c93
+<             List<CubeSegment> readySegments = cubeInstance.getSegments(SegmentStatusEnum.READY);
+---
+>             List<CubeSegment> readySegments = 	cubeInstance.getSegments(SegmentStatusEnum.READY);

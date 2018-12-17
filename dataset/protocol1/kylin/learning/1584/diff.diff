@@ -1,0 +1,5 @@
+61,62c61
+<     public static final String STEP_NAME_MERGE_CUBOID = "Merge Cuboid Data";
+<     public static final String STEP_NAME_UPDATE_CUBE_INFO = "Update Cube Info";
+---
+>     public static final String STEP_NAME_MERGE_CUBOID = "Merge Cuboid Data";    public static final String STEP_NAME_UPDATE_CUBE_INFO = "Update Cube Info";

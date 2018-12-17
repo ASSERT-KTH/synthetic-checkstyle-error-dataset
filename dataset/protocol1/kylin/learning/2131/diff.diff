@@ -1,0 +1,4 @@
+34c34
+<         if (str.startsWith(delimiter)) {
+---
+>         	if (str.startsWith(delimiter)) {

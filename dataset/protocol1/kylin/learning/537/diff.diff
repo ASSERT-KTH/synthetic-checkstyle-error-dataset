@@ -1,0 +1,4 @@
+54c54
+<     private static final Pattern PATTERN_SPARK_APP_URL = Pattern.compile("tracking URL: (.*)");
+---
+>     private static final 	Pattern PATTERN_SPARK_APP_URL = Pattern.compile("tracking URL: (.*)");

@@ -1,0 +1,5 @@
+36,37c36
+<     private static String threadProcessAndHost() {
+<         return Thread.currentThread().getId() + "-" + processAndHost();
+---
+>     private static String threadProcessAndHost() {        return Thread.currentThread().getId() + "-" + processAndHost();

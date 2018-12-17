@@ -1,0 +1,5 @@
+72,73c72
+<     public Map<String, String> updateExternalFilter(@RequestBody ExternalFilterRequest request) throws IOException {
+<         Map<String, String> result = new HashMap();
+---
+>     public Map<String, String> updateExternalFilter(@RequestBody ExternalFilterRequest request) throws IOException {        Map<String, String> result = new HashMap();

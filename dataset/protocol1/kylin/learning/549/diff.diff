@@ -1,0 +1,4 @@
+49c49
+<             Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5PADDING");
+---
+>             Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5PADDING" );

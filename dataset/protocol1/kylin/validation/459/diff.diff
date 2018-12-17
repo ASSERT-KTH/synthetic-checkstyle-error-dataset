@@ -1,0 +1,4 @@
+38c38
+<     private boolean global = false;
+---
+>     private 	boolean global = false;

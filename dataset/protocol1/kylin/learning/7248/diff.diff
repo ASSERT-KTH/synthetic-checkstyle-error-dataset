@@ -1,0 +1,4 @@
+82c82
+<         AtomicInteger nRunningQueries = runningStats.getIfPresent(project);
+---
+>         AtomicInteger nRunningQueries = runningStats.getIfPresent(project );

@@ -1,0 +1,5 @@
+137,138c137
+<             logger.info("No error or warning messages; The update succeeds.");
+<         }
+---
+>             logger.info("No error or warning messages; The update succeeds.");        }

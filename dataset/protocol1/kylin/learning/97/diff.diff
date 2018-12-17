@@ -1,0 +1,5 @@
+212c212,213
+<         for (final Map.Entry<String, Integer> entry : groups.entrySet()) {
+---
+>         for (final Map.Entry<String, Integer> entry : groups.entrySet()) 
+> {

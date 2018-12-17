@@ -1,0 +1,4 @@
+162c162
+<                     c = p + BytesUtil.readUnsigned(trieBytes, p - 1, 1)
+---
+>                     c = p + BytesUtil.readUnsigned(trieBytes, p - 1, 1 )

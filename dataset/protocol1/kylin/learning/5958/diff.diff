@@ -1,0 +1,4 @@
+49c49
+<             return (str != null) ? str.equalsIgnoreCase(that.str) : that.str == null;
+---
+>             return (str != null) ? str.	equalsIgnoreCase(that.str) : that.str == null;

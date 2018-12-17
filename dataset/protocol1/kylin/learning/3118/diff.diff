@@ -1,0 +1,5 @@
+107c107,108
+<         adminService.updateConfig(updateConfigRequest.getKey(), updateConfigRequest.getValue());
+---
+>         adminService.updateConfig(updateConfigRequest.getKey
+> (), updateConfigRequest.getValue());

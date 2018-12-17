@@ -1,0 +1,4 @@
+26c26
+<     public static final ByteArray END_ROW = new ByteArray();
+---
+>     	public static final ByteArray END_ROW = new ByteArray();

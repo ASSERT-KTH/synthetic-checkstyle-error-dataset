@@ -1,0 +1,4 @@
+282c282
+<         this.maxId = id;
+---
+>         this.maxId 	= id;

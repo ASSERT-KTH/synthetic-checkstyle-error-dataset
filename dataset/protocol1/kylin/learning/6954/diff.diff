@@ -1,0 +1,5 @@
+47,48c47
+<         Set<String> groups = new HashSet<>();
+<         Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+---
+>         Set<String> groups = new HashSet<>();        Authentication auth = SecurityContextHolder.getContext().getAuthentication();

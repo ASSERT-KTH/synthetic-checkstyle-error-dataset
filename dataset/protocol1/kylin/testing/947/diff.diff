@@ -1,0 +1,5 @@
+99,100c99
+<         public Long getRowCount() {
+<             return rowCount;
+---
+>         public Long getRowCount() {            return rowCount;

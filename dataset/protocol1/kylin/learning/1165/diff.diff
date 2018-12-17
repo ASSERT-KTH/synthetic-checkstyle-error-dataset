@@ -1,0 +1,4 @@
+31c31
+<     private HashMap<Long, RowKeyEncoder> rowKeyEncoders;
+---
+>     private HashMap<Long, RowKeyEncoder> 	rowKeyEncoders;

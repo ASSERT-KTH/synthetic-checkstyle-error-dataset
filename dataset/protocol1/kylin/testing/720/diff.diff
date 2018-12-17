@@ -1,0 +1,5 @@
+122,123c122
+<     public void setStreamingData(String streamingData) {
+<         this.streamingData = streamingData;
+---
+>     public void setStreamingData(String streamingData) {        this.streamingData = streamingData;

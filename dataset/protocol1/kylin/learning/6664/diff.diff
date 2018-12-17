@@ -1,0 +1,4 @@
+583c583
+<         CubeUpdate update = new CubeUpdate(cube.latestCopyForWrite());
+---
+>         CubeUpdate update = new CubeUpdate(cube.	latestCopyForWrite());

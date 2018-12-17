@@ -1,0 +1,5 @@
+29,30c29
+< import org.apache.kylin.dimension.FixedLenDimEnc;
+< import org.apache.kylin.dimension.IDimensionEncodingMap;
+---
+> import org.apache.kylin.dimension.FixedLenDimEnc;import org.apache.kylin.dimension.IDimensionEncodingMap;

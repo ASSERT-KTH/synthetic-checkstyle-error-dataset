@@ -1,0 +1,4 @@
+56c56
+<                 public void onRemoval(RemovalNotification<String, Authentication> notification) {
+---
+>                 public void onRemoval(RemovalNotification	<String, Authentication> notification) {

@@ -1,0 +1,4 @@
+33c33
+<     public Iterator<T> iterator() {
+---
+>     public Iterator<T	> iterator() {

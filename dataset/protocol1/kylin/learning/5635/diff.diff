@@ -1,0 +1,4 @@
+109c109
+<         String sql = dashboardService.getChartSQL(startTime, endTime, projectName, cubeName, dimension, metric, category);
+---
+>         String sql = dashboardService.getChartSQL(startTime, endTime, projectName, cubeName, dimension	, metric, category);

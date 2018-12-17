@@ -1,0 +1,4 @@
+50c50
+<             logger.error("User not found in LDAP, check whether he/she has been added to the groups.", e);
+---
+>             logger	.error("User not found in LDAP, check whether he/she has been added to the groups.", e);

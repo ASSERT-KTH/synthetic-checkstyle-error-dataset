@@ -1,0 +1,4 @@
+60c60
+<         DimensionEncoding result = encMap.get(col);
+---
+>         DimensionEncoding result = encMap	.get(col);

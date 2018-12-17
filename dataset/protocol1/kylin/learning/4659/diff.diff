@@ -1,0 +1,4 @@
+230c230
+<         customProperties.store(writer, comments);
+---
+>         customProperties.store(writer, comments );

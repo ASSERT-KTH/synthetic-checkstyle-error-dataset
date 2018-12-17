@@ -1,0 +1,5 @@
+89c89,90
+<         if (!extra.equals(another.extra)) {
+---
+>         if (!extra.equals
+> (another.extra)) {

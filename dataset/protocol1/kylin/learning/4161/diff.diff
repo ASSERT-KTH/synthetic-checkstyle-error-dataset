@@ -1,0 +1,4 @@
+38c38
+<     public T getCutRow();
+---
+>     public 	T getCutRow();

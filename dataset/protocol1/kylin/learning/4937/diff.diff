@@ -1,0 +1,5 @@
+91,92c91
+<     public List<String> getCubesAndSegmentsUsage() {
+<         return cubesAndSegmentsUsage;
+---
+>     public List<String> getCubesAndSegmentsUsage() {        return cubesAndSegmentsUsage;

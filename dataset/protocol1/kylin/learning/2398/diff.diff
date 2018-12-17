@@ -1,0 +1,4 @@
+74c74
+<     public static String getMailContent(String key, Map<String, Object> dataMap) {
+---
+>     public static String getMailContent(String key, Map<String, Object> 	dataMap) {

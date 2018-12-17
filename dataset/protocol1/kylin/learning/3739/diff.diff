@@ -1,0 +1,4 @@
+1025c1025
+<     @RequestMapping(value = "/{cube}/{project}/migrate", method = { RequestMethod.POST })
+---
+>     @RequestMapping(value = "/{cube}/{project}/migrate",method = { RequestMethod.POST })

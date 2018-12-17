@@ -1,0 +1,4 @@
+95c95
+<             BytesUtil.writeVInt(value.dependentMetricsMap.size(), out);
+---
+>             BytesUtil.writeVInt (value.dependentMetricsMap.size(), out);

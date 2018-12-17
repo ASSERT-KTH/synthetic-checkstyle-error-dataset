@@ -1,0 +1,4 @@
+36c36
+<     private final IDimensionEncodingMap dimEncMap;
+---
+>     private final IDimensionEncodingMap dimEncMap	;

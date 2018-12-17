@@ -1,0 +1,4 @@
+75c75
+<         hashCode = hashCode * prime + verboseMsg.hashCode();
+---
+>         	hashCode = hashCode * prime + verboseMsg.hashCode();

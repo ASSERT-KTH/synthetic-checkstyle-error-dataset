@@ -1,0 +1,4 @@
+34c34
+<         System.out.println("Running " + this.getClass().getName() + " " + StringUtils.join(args, " "));
+---
+>         System.out.println( "Running " + this.getClass().getName() + " " + StringUtils.join(args, " "));

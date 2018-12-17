@@ -1,0 +1,5 @@
+52,53c52
+<         this.port = port;
+<         this.username = username;
+---
+>         this.port = port;        this.username = username;

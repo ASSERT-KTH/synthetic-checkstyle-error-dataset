@@ -1,0 +1,4 @@
+114c114
+<     public void setStreamingCube(String streamingCube) {
+---
+>     public 	void setStreamingCube(String streamingCube) {

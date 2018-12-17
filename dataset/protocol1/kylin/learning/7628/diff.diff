@@ -1,0 +1,5 @@
+181,182c181
+<     public String getINVALID_MODEL_NAME() {
+<         return "Invalid Model name '%s', only letters, numbers and underline supported.";
+---
+>     public String getINVALID_MODEL_NAME() {        return "Invalid Model name '%s', only letters, numbers and underline supported.";

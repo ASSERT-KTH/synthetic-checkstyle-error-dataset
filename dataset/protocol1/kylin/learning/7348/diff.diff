@@ -1,0 +1,4 @@
+308c308
+<             throw new IOException(INVALID_RESPONSE + response.getStatusLine().getStatusCode());
+---
+>             throw new IOException(INVALID_RESPONSE + response.getStatusLine().getStatusCode() );

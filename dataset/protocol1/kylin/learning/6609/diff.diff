@@ -1,0 +1,5 @@
+46,47c46
+<         // init metrics system for kylin
+<         QueryMetricsFacade.init();
+---
+>         // init metrics system for kylin        QueryMetricsFacade.init();

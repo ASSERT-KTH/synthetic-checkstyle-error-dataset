@@ -1,0 +1,4 @@
+25c25
+< import org.apache.kylin.cube.inmemcubing.CuboidResult;
+---
+> import org.apache.kylin.cube.inmemcubing	.CuboidResult;

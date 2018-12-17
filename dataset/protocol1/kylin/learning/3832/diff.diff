@@ -1,0 +1,4 @@
+82c82
+<         MeasureDesc measure = cubeDesc.getMeasures().get(idxOfMeasure);
+---
+>         	MeasureDesc measure = cubeDesc.getMeasures().get(idxOfMeasure);

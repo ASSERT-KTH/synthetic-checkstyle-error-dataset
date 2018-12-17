@@ -1,0 +1,5 @@
+143,144c143
+<     public TblColRef getClusterBy() {
+<         return flatDesc.getClusterBy();
+---
+>     public TblColRef getClusterBy() {        return flatDesc.getClusterBy();

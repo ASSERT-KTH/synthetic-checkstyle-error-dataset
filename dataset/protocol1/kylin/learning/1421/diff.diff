@@ -1,0 +1,5 @@
+123,124c123
+<                     hasError = true;
+<                 }
+---
+>                     hasError = true;                }

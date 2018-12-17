@@ -1,0 +1,4 @@
+198c198
+<         hybridManager.reloadHybridInstance(hybridInstance.getName());
+---
+>         hybridManager.reloadHybridInstance( hybridInstance.getName());

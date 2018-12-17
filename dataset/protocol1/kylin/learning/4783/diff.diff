@@ -1,0 +1,4 @@
+103c103
+<     public void batchGrant(AclEntity ae, Map<Sid, Permission> sidToPerm) {
+---
+>     public void batchGrant(AclEntity ae, Map<Sid, Permission	> sidToPerm) {

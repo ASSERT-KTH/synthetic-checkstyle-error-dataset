@@ -1,0 +1,5 @@
+103,104c103
+<         for (int idx : indexes) {
+<             result[i++] = row[idx];
+---
+>         for (int idx : indexes) {            result[i++] = row[idx];

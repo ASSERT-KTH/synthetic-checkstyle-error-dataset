@@ -1,0 +1,4 @@
+117c117
+<             this.projectName = projectName == null ? null : projectName.toUpperCase(Locale.ROOT);
+---
+>             this.projectName = projectName == null ? null : 	projectName.toUpperCase(Locale.ROOT);

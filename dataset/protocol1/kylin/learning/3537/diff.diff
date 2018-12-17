@@ -1,0 +1,5 @@
+27,28c27
+<     public static void setMsg(String lang) {
+<         if ("cn".equals(lang))
+---
+>     public static void setMsg(String lang) {        if ("cn".equals(lang))

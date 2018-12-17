@@ -1,0 +1,5 @@
+46,47c46
+<     private static final ObjectMapper mapper = new ObjectMapper();
+<     private static final ObjectMapper indentMapper = new ObjectMapper();
+---
+>     private static final ObjectMapper mapper = new ObjectMapper();    private static final ObjectMapper indentMapper = new ObjectMapper();

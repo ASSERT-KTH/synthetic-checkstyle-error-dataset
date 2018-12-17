@@ -1,0 +1,4 @@
+63c63
+<     protected ImmutableBitSet gtDynColumns;
+---
+>     protected ImmutableBitSet gtDynColumns	;

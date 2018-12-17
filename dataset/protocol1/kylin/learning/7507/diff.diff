@@ -1,0 +1,4 @@
+260c260
+<                         MergeSlot slot = heap.poll();
+---
+>                         MergeSlot slot = heap	.poll();

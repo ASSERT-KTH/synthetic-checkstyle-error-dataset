@@ -1,0 +1,4 @@
+39c39
+<         while ((index = str.indexOf(delimiter, index + 1)) != -1) {
+---
+>         while ((index = str.indexOf(delimiter, index + 1)) != -1) 	{

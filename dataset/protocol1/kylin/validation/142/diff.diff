@@ -1,0 +1,5 @@
+84,85c84
+<         if (DictionaryDimEnc.ENCODING_NAME.equals(encodingName)) {
+<             if (type.isDate()) {
+---
+>         if (DictionaryDimEnc.ENCODING_NAME.equals(encodingName)) {            if (type.isDate()) {

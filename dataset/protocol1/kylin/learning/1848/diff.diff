@@ -1,0 +1,5 @@
+100,101c100
+<     public String getCLONE_BROKEN_CUBE() {
+<         return "损坏的 cube '%s' 不能被克隆";
+---
+>     public String getCLONE_BROKEN_CUBE() {        return "损坏的 cube '%s' 不能被克隆";

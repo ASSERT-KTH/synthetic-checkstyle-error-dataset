@@ -1,0 +1,4 @@
+65c65
+<             logger.info("Connected to {0} {1}", mdm.getDatabaseProductName(), mdm.getDatabaseProductVersion());
+---
+>             logger.info("Connected to {0} {1}",mdm.getDatabaseProductName(), mdm.getDatabaseProductVersion());

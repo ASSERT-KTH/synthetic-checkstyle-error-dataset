@@ -1,0 +1,5 @@
+78,79c78
+<     private boolean checkIfAllowRetry(Throwable ex) {
+<         if (config.isResourceStoreReconnectEnabled() && store.isUnreachableException(ex)) {
+---
+>     private boolean checkIfAllowRetry(Throwable ex) {        if (config.isResourceStoreReconnectEnabled() && store.isUnreachableException(ex)) {

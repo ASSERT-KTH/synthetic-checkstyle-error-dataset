@@ -1,0 +1,4 @@
+54c54
+<             logger.warn("Will use default signature since fail to construct signature due to " + e);
+---
+>             logger.warn("Will use default signature since fail to construct signature due to " + e)	;

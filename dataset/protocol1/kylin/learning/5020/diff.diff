@@ -1,0 +1,4 @@
+106c106
+<                     user = new ManagedUser(details.getUsername(), details.getPassword(), false,
+---
+>                     user = new ManagedUser(details.getUsername(), details.getPassword(), 	false,

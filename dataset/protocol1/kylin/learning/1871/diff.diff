@@ -1,0 +1,5 @@
+133,134c133
+<         try {
+<             tableService.loadTableToProject(tableDesc, null, project);
+---
+>         try {            tableService.loadTableToProject(tableDesc, null, project);

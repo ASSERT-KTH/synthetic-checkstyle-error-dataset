@@ -1,0 +1,5 @@
+95,96c95
+<     public void dropKafkaConfig(KafkaConfig config, String project) throws IOException {
+<         aclEvaluate.checkProjectAdminPermission(project);
+---
+>     public void dropKafkaConfig(KafkaConfig config, String project) throws IOException {        aclEvaluate.checkProjectAdminPermission(project);

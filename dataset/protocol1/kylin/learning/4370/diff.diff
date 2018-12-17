@@ -1,0 +1,5 @@
+65,66c65
+<         final Matcher matcher = PATTERN.matcher(substring);
+<         final Matcher matcher2 = PATTERN2.matcher(substring);
+---
+>         final Matcher matcher = PATTERN.matcher(substring);        final Matcher matcher2 = PATTERN2.matcher(substring);

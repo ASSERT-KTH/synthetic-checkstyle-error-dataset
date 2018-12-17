@@ -1,0 +1,4 @@
+79c79
+<     public Authentication authenticate(Authentication authentication) throws AuthenticationException {
+---
+>     	public Authentication authenticate(Authentication authentication) throws AuthenticationException {

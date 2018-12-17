@@ -1,0 +1,4 @@
+52c52
+<         HiveClientMode clientMode = HiveClientMode.valueOf(kylinConfig.getHiveClientMode().toUpperCase(Locale.ROOT));
+---
+>         	HiveClientMode clientMode = HiveClientMode.valueOf(kylinConfig.getHiveClientMode().toUpperCase(Locale.ROOT));

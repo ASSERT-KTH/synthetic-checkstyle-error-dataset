@@ -1,0 +1,5 @@
+74,75c74
+<             column = model.findColumn(table, column).getName();
+<         }
+---
+>             column = model.findColumn(table, column).getName();        }

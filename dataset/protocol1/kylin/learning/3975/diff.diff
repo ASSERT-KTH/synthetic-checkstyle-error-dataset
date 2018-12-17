@@ -1,0 +1,5 @@
+221,222c221
+<         try {
+<             conn = QueryConnection.getConnection(sqlRequest.getProject());
+---
+>         try {            conn = QueryConnection.getConnection(sqlRequest.getProject());

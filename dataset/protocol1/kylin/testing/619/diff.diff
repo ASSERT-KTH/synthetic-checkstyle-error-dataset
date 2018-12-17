@@ -1,0 +1,4 @@
+145c145
+<         result = 31 * result + (limit != null ? limit.hashCode() : 0);
+---
+>         result = 31 * result + (limit != 	null ? limit.hashCode() : 0);

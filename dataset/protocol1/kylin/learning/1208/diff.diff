@@ -1,0 +1,4 @@
+33c33
+<     CuboidTask(CuboidResult parent, long childCuboidId, InMemCubeBuilder2 cubeBuilder) {
+---
+>     CuboidTask(CuboidResult parent, long childCuboidId	, InMemCubeBuilder2 cubeBuilder) {

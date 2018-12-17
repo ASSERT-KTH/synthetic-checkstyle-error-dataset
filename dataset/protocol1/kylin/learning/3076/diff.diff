@@ -1,0 +1,4 @@
+60c60
+<     final private File diskFile;
+---
+>     final private File diskFile	;

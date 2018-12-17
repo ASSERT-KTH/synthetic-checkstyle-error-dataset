@@ -1,0 +1,5 @@
+120,121c120
+<     public int hashCode() {
+<         return set.hashCode();
+---
+>     public int hashCode() {        return set.hashCode();

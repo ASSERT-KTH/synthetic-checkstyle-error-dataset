@@ -1,0 +1,5 @@
+50,51c50
+<     public DataModelDesc getModel(@PathVariable String model_name) {
+<         DataModelManager metaManager = DataModelManager.getInstance(KylinConfig.getInstanceFromEnv());
+---
+>     public DataModelDesc getModel(@PathVariable String model_name) {        DataModelManager metaManager = DataModelManager.getInstance(KylinConfig.getInstanceFromEnv());

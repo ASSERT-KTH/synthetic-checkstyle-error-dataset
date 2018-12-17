@@ -1,0 +1,5 @@
+250,251c250
+<             throw e;
+<         } finally {
+---
+>             throw e;        } finally {

@@ -1,0 +1,5 @@
+80,81c80
+<         for (int i = 0; i < tableNames.length; i++) {
+<             createTableIfNeeded(tableNames[i]);
+---
+>         for (int i = 0; i < tableNames.length; i++) {            createTableIfNeeded(tableNames[i]);

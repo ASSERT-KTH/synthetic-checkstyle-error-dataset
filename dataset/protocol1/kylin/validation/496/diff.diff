@@ -1,0 +1,4 @@
+49c49
+<                 URLClassLoader urlClassLoader = (URLClassLoader) ClassLoader.getSystemClassLoader();
+---
+>                 URLClassLoader urlClassLoader = (URLClassLoader) 	ClassLoader.getSystemClassLoader();

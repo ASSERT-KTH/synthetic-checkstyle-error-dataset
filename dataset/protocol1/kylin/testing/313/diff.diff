@@ -1,0 +1,4 @@
+40c40
+<     private MeasureDesc[] measures;
+---
+>     private 	MeasureDesc[] measures;

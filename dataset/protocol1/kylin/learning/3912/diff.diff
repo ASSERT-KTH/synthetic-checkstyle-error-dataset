@@ -1,0 +1,5 @@
+181,182c181
+<         if (mandatory_dims == null || mandatory_dims.length == 0) {
+<             return;
+---
+>         if (mandatory_dims == null || mandatory_dims.length == 0) {            return;

@@ -1,0 +1,5 @@
+71,72c71
+<         } else {
+<             if (path.getPath().getName().startsWith(GlobalDictHDFSStore.IndexFormatV1.SLICE_PREFIX)) {
+---
+>         } else {            if (path.getPath().getName().startsWith(GlobalDictHDFSStore.IndexFormatV1.SLICE_PREFIX)) {

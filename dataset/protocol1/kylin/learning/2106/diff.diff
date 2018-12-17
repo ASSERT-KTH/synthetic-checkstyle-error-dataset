@@ -1,0 +1,5 @@
+60,61c60
+<         setOwner(cube.getOwner());
+<         setDescName(cube.getDescName());
+---
+>         setOwner(cube.getOwner());        setDescName(cube.getDescName());

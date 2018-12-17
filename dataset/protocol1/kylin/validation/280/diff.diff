@@ -1,0 +1,4 @@
+30c30
+< import org.apache.kylin.dimension.TimeDimEnc;
+---
+> import org.apache.kylin.dimension	.TimeDimEnc;

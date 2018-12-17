@@ -1,0 +1,4 @@
+74c74
+<     public void setFormat(int format) {
+---
+>     	public void setFormat(int format) {

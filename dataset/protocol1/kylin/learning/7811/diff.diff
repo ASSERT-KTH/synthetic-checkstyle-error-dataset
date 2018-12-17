@@ -1,0 +1,4 @@
+71c71
+<         logger.debug("Original: " + data.length + " bytes. " + "Decompressed: " + output.length + " bytes. Time: " + (System.currentTimeMillis() - startTime));
+---
+>         logger.debug("Original: " + data.length + " bytes. " + "Decompressed: " + output.length 	+ " bytes. Time: " + (System.currentTimeMillis() - startTime));

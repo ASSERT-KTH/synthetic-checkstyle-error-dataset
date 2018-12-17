@@ -1,0 +1,4 @@
+261c261
+<             logger.info("SegmentAppendTrieDict needn't to copy");
+---
+>             logger.info ("SegmentAppendTrieDict needn't to copy");

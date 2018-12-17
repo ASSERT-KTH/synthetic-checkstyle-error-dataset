@@ -1,0 +1,4 @@
+331c331
+<             ArrayList<String> result = Lists.newArrayListWithExpectedSize(resources.size());
+---
+>             ArrayList<String> result 	= Lists.newArrayListWithExpectedSize(resources.size());

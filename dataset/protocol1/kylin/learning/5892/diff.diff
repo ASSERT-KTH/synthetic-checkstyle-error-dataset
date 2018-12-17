@@ -1,0 +1,4 @@
+25c25
+<     public SegmentSignature(String name, long lastBuildTime) {
+---
+>     public SegmentSignature(String name, long 	lastBuildTime) {

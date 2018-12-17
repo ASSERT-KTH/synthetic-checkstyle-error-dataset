@@ -1,0 +1,5 @@
+55,56c55
+<     final GTInfo info;
+<     final SortedGTRecordGenerator gen;
+---
+>     final GTInfo info;    final SortedGTRecordGenerator gen;

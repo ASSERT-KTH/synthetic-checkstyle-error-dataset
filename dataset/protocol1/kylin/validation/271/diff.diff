@@ -1,0 +1,5 @@
+45c45,46
+<                 result.add(data.get(i));
+---
+>                 result.add
+> (data.get(i));

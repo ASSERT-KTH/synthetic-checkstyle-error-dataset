@@ -1,0 +1,4 @@
+27c27
+< public interface UserService extends UserDetailsManager {
+---
+> 	public interface UserService extends UserDetailsManager {

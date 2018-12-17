@@ -1,0 +1,4 @@
+46c46
+<             return Lists.newArrayList(BooleanDimEnc.ENCODING_NAME, DateDimEnc.ENCODING_NAME, TimeDimEnc.ENCODING_NAME,
+---
+>             return Lists.newArrayList(BooleanDimEnc.ENCODING_NAME, DateDimEnc.ENCODING_NAME, 	TimeDimEnc.ENCODING_NAME,

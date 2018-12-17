@@ -1,0 +1,5 @@
+29,30c29
+< import org.apache.kylin.dimension.DictionaryDimEnc.DictionarySerializer;
+< import org.apache.kylin.dimension.DimensionEncoding;
+---
+> import org.apache.kylin.dimension.DictionaryDimEnc.DictionarySerializer;import org.apache.kylin.dimension.DimensionEncoding;

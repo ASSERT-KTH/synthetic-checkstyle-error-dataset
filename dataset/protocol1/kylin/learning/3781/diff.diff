@@ -1,0 +1,4 @@
+97c97
+<                 value = getCell(colIdxOnFlatTable[colParamIdx++], row);
+---
+>                 value = getCell(colIdxOnFlatTable[colParamIdx++]	, row);

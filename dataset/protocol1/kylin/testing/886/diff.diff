@@ -1,0 +1,5 @@
+40,41c40
+<     public void write(byte[] b, int off, int len) throws IOException {
+<         buffer.put(b, off, len);
+---
+>     public void write(byte[] b, int off, int len) throws IOException {        buffer.put(b, off, len);

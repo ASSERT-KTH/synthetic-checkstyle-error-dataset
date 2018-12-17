@@ -1,0 +1,5 @@
+42,43c42
+<     public void init(DictionaryInfo dictInfo, int baseId, String hdfsDir) throws IOException {
+<         sourceColumn = dictInfo.getSourceTable() + "." + dictInfo.getSourceColumn();
+---
+>     public void init(DictionaryInfo dictInfo, int baseId, String hdfsDir) throws IOException {        sourceColumn = dictInfo.getSourceTable() + "." + dictInfo.getSourceColumn();

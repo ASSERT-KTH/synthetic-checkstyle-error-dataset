@@ -1,0 +1,5 @@
+91,92c91
+<             this.notifiers.add(new PersistenceNotifier());
+<         }
+---
+>             this.notifiers.add(new PersistenceNotifier());        }

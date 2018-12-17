@@ -1,0 +1,5 @@
+48,49c48
+<                     Permission perm = (Permission) fieldValue;
+<                     String permissionName = field.getName();
+---
+>                     Permission perm = (Permission) fieldValue;                    String permissionName = field.getName();

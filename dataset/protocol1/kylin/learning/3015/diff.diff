@@ -1,0 +1,4 @@
+30c30
+< import org.apache.kylin.metadata.model.DynamicFunctionDesc;
+---
+> import org.apache.kylin.metadata.model.DynamicFunctionDesc	;

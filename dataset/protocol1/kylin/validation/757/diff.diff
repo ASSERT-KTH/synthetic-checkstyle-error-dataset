@@ -1,0 +1,5 @@
+147,148c147
+<             if (cube == null) {
+<                 throw new IllegalArgumentException("Could not find cube: " + cubeName);
+---
+>             if (cube == null) {                throw new IllegalArgumentException("Could not find cube: " + cubeName);

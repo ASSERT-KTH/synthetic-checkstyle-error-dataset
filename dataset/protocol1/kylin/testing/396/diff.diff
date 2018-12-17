@@ -1,0 +1,4 @@
+34c34
+<     void buildSnapshotCache(TableDesc tableDesc, ExtTableSnapshotInfo extTableSnapshotInfo, ILookupTable sourceTable);
+---
+>     void buildSnapshotCache(TableDesc tableDesc	, ExtTableSnapshotInfo extTableSnapshotInfo, ILookupTable sourceTable);

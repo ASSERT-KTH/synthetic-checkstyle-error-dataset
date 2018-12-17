@@ -1,0 +1,4 @@
+87c87
+<                 StringUtil.toUpperCaseArray(c.getMeasureRefs(), c.getMeasureRefs());
+---
+>                 	StringUtil.toUpperCaseArray(c.getMeasureRefs(), c.getMeasureRefs());

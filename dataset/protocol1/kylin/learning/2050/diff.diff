@@ -1,0 +1,4 @@
+34c34
+<             instance = new Message();
+---
+>             instance = new Message ();

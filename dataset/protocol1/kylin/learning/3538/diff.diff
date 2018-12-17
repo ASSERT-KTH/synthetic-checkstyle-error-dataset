@@ -1,0 +1,4 @@
+77c77
+<             this.isStreaming = cube.getModel().getRootFactTable().getTableDesc()
+---
+>             this	.isStreaming = cube.getModel().getRootFactTable().getTableDesc()

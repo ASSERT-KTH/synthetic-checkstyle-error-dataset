@@ -1,0 +1,5 @@
+96c96,97
+<         public BytesRandomizer(int len) {
+---
+>         public BytesRandomizer(int len) 
+> {

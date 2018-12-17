@@ -1,0 +1,4 @@
+1308c1308
+<         Set<TblColRef> result = Sets.newHashSet();
+---
+>         Set<TblColRef> result = Sets.	newHashSet();

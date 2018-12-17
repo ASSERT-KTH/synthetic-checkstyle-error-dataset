@@ -1,0 +1,4 @@
+50c50
+<     public DataModelDesc getModel(@PathVariable String model_name) {
+---
+>     public DataModelDesc getModel( @PathVariable String model_name) {

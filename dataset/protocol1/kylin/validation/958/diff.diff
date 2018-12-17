@@ -1,0 +1,5 @@
+119c119,120
+<             return first.hashCode() * 17 + second.hashCode();
+---
+>             return first.hashCode
+> () * 17 + second.hashCode();

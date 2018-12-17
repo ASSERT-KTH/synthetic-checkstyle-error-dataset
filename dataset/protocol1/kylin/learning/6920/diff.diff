@@ -1,0 +1,4 @@
+47c47
+<     public void decrease(String key, Float decreased) {
+---
+>     public void decrease(String key, Float 	decreased) {

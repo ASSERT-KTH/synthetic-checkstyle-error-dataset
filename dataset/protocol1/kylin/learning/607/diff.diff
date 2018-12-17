@@ -1,0 +1,4 @@
+53c53
+<     protected AbstractInMemCubeBuilder(CuboidScheduler cuboidScheduler, IJoinedFlatTableDesc flatDesc,
+---
+>     protected AbstractInMemCubeBuilder(CuboidScheduler cuboidScheduler, IJoinedFlatTableDesc flatDesc	,

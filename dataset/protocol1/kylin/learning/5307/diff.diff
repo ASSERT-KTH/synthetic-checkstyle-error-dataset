@@ -1,0 +1,5 @@
+46c46,47
+<         return metadataUrl.getParameter("path");
+---
+>         return metadataUrl.getParameter
+> ("path");

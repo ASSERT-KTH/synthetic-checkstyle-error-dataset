@@ -1,0 +1,4 @@
+43c43
+<     private Cuboid cuboid;
+---
+>     	private Cuboid cuboid;

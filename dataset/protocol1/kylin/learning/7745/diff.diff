@@ -1,0 +1,5 @@
+21,22c21
+< import org.apache.kylin.common.util.ByteArray;
+< import org.apache.kylin.gridtable.GTRecord;
+---
+> import org.apache.kylin.common.util.ByteArray;import org.apache.kylin.gridtable.GTRecord;

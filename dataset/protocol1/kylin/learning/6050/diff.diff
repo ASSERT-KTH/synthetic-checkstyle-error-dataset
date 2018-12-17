@@ -1,0 +1,5 @@
+126,127c126
+<             this.splitBuffers[this.bufferSize++] = split;
+<             offset += colLength;
+---
+>             this.splitBuffers[this.bufferSize++] = split;            offset += colLength;

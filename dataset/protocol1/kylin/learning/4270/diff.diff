@@ -1,0 +1,4 @@
+101c101
+<     final public int getIdFromValue(T value, int roundingFlag) throws IllegalArgumentException {
+---
+>     final public int getIdFromValue(T 	value, int roundingFlag) throws IllegalArgumentException {

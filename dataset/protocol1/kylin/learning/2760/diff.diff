@@ -1,0 +1,5 @@
+503,504c503
+<         for (int i = 0; i < cubeJob.getTasks().size(); ++i) {
+<             AbstractExecutable task = cubeJob.getTasks().get(i);
+---
+>         for (int i = 0; i < cubeJob.getTasks().size(); ++i) {            AbstractExecutable task = cubeJob.getTasks().get(i);

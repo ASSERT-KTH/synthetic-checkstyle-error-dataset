@@ -1,0 +1,4 @@
+28c28
+<     static final String ACL_ACES_FAMILY = "a";
+---
+>     static final 	String ACL_ACES_FAMILY = "a";

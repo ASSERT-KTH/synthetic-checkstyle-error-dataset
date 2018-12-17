@@ -1,0 +1,4 @@
+79c79
+<         return "[" + Joiner.on("]-[").join(titleParts) + "]";
+---
+>         return "[" + Joiner.on ("]-[").join(titleParts) + "]";

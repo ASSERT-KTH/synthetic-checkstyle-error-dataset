@@ -1,0 +1,5 @@
+47c47,48
+<         return dimEncMap.getDictionary(col);
+---
+>         return dimEncMap.getDictionary
+> (col);

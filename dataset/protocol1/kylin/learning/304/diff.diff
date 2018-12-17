@@ -1,0 +1,4 @@
+161c161
+<         return "Cube '%s' is not a Streaming Cube.";
+---
+>         return 	"Cube '%s' is not a Streaming Cube.";

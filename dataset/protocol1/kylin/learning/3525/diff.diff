@@ -1,0 +1,5 @@
+60,61c60
+<     private static Class getSignatureClass(KylinConfig config) {
+<         try {
+---
+>     private static Class getSignatureClass(KylinConfig config) {        try {

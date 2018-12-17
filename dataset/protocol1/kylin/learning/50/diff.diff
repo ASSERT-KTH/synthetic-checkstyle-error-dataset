@@ -1,0 +1,4 @@
+56c56
+<         this.sid = sid;
+---
+>         this.sid = sid	;

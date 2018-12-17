@@ -1,0 +1,4 @@
+85c85
+<         static CubeSignature getCubeSignature(KylinConfig config, String realizationName) {
+---
+>         static CubeSignature getCubeSignature(KylinConfig 	config, String realizationName) {

@@ -1,0 +1,4 @@
+185c185
+<         String resourceDir = snapshot.getResourceDir();
+---
+>         String resourceDir 	= snapshot.getResourceDir();

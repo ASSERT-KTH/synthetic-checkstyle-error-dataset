@@ -1,0 +1,5 @@
+68,69c68
+<                 logger.debug("Prune segment {} due to 0 input record", seg);
+<                 return false;
+---
+>                 logger.debug("Prune segment {} due to 0 input record", seg);                return false;

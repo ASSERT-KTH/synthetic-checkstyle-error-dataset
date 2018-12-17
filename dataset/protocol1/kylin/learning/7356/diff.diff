@@ -1,0 +1,4 @@
+59c59
+<         List<KafkaConfig> kafkaConfigs;
+---
+>         List<KafkaConfig> kafkaConfigs	;

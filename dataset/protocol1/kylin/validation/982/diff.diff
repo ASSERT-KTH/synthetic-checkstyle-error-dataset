@@ -1,0 +1,5 @@
+43,44c43
+<         long mask = Long.highestOneBit(baseCuboidId);
+<         long parentCuboidIdActualLength = (long)Long.SIZE - Long.numberOfLeadingZeros(baseCuboidId);
+---
+>         long mask = Long.highestOneBit(baseCuboidId);        long parentCuboidIdActualLength = (long)Long.SIZE - Long.numberOfLeadingZeros(baseCuboidId);

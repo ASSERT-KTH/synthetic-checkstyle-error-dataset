@@ -1,0 +1,4 @@
+66c66
+<     public GTInfo getInfo() {
+---
+>     public 	GTInfo getInfo() {

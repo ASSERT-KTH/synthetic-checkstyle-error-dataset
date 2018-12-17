@@ -1,0 +1,5 @@
+46,47c46
+<         this.nValues = nValues;
+<         this.bytesConverter = bytesConverter;
+---
+>         this.nValues = nValues;        this.bytesConverter = bytesConverter;

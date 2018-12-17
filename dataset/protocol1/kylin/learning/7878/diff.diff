@@ -1,0 +1,5 @@
+27c27,28
+<     private JobStatusEnum(int statusCode) {
+---
+>     private JobStatusEnum(int statusCode) 
+> {

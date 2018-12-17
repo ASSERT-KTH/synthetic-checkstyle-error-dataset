@@ -1,0 +1,5 @@
+43c43,44
+<     private ProjectInstance getProjectInstanceByCubeName(String cube) {
+---
+>     private ProjectInstance getProjectInstanceByCubeName
+> (String cube) {

@@ -1,0 +1,5 @@
+50c50,51
+<         if (!tsRange.start.isMin) {
+---
+>         if (!tsRange.start.isMin) 
+> {

@@ -1,0 +1,4 @@
+167c167
+<         logger.info("cache hit percent: " + cacheHitCount * 1.0 / (cacheMissCount + cacheHitCount));
+---
+>         logger.info("cache hit percent: " 	+ cacheHitCount * 1.0 / (cacheMissCount + cacheHitCount));

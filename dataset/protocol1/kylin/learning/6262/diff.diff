@@ -1,0 +1,4 @@
+119c119
+<     public void setSegmentName(String segmentName) {
+---
+>     public void setSegmentName(String segmentName) 	{

@@ -1,0 +1,4 @@
+34c34
+< public class KylinAclPermissionEvaluator extends AclPermissionEvaluator {
+---
+> public 	class KylinAclPermissionEvaluator extends AclPermissionEvaluator {

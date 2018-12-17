@@ -1,0 +1,5 @@
+53c53,54
+<         while (!cuboidQueue.isEmpty()) {
+---
+>         while (!cuboidQueue.isEmpty()) 
+> {

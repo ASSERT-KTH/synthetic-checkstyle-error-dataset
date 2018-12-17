@@ -1,0 +1,4 @@
+36c36
+<         return name.compareTo(o.name);
+---
+>         return name.compareTo(o.name );

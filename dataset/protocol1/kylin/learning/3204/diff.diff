@@ -1,0 +1,5 @@
+99c99,100
+<             if (cubeDesc.getSignature() == null || (!cubeDesc.getSignature().equals(calculatedSign))) {
+---
+>             if (cubeDesc.getSignature() == null || (!cubeDesc.getSignature().equals
+> (calculatedSign))) {

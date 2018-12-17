@@ -1,0 +1,4 @@
+199c199
+<             result[i] = fileStatus[i].getPath();
+---
+>             result[i] = fileStatus[i]	.getPath();

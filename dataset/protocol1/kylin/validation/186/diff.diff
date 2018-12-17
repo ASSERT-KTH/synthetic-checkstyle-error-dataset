@@ -1,0 +1,5 @@
+207,208c207
+<         metricsEvent.put(QueryPropertyEnum.PROJECT.toString(), projectName);
+<         metricsEvent.put(QueryPropertyEnum.REALIZATION.toString(), realizationName);
+---
+>         metricsEvent.put(QueryPropertyEnum.PROJECT.toString(), projectName);        metricsEvent.put(QueryPropertyEnum.REALIZATION.toString(), realizationName);

@@ -1,0 +1,4 @@
+56c56
+<     public boolean ifCut(ByteArray currentObject) {
+---
+>     public boolean ifCut( ByteArray currentObject) {

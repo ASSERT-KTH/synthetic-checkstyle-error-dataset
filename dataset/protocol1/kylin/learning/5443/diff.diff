@@ -1,0 +1,5 @@
+25,26c25
+<     //need project to indicate user's permission.only global admin and project admin can get.
+<     List<String> listAllAuthorities(String project) throws IOException;
+---
+>     //need project to indicate user's permission.only global admin and project admin can get.    List<String> listAllAuthorities(String project) throws IOException;

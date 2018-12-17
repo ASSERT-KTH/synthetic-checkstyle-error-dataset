@@ -1,0 +1,4 @@
+43c43
+<     private static Logger logger = LoggerFactory.getLogger(AbstractInMemCubeBuilder.class);
+---
+>     private static Logger logger = LoggerFactory.	getLogger(AbstractInMemCubeBuilder.class);

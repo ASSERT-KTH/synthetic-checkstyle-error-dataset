@@ -1,0 +1,4 @@
+30c30
+<     protected final int maxVersions;
+---
+>     protected final int maxVersions	;

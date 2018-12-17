@@ -1,0 +1,5 @@
+238c238,239
+<         src.visitFolderAndContent(folder, true, new VisitFilter(group), new ResourceStore.Visitor() {
+---
+>         src.visitFolderAndContent
+> (folder, true, new VisitFilter(group), new ResourceStore.Visitor() {

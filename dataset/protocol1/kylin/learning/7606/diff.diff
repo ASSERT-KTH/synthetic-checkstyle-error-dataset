@@ -1,0 +1,5 @@
+44c44,45
+<     public String calculateSignature(KylinConfig config, SQLResponse sqlResponse, ProjectInstance project) {
+---
+>     public String calculateSignature(KylinConfig config, SQLResponse sqlResponse, ProjectInstance project) 
+> {

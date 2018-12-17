@@ -1,0 +1,4 @@
+170c170
+<     private LogicalTupleFilter and(TupleFilter... filters) {
+---
+>     private LogicalTupleFilter and( TupleFilter... filters) {

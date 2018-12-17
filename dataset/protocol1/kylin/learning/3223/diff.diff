@@ -1,0 +1,5 @@
+106,107c106
+<         String creator = SecurityContextHolder.getContext().getAuthentication().getName();
+<         Query newQuery = new Query(sqlRequest.getName(), sqlRequest.getProject(), sqlRequest.getSql(),
+---
+>         String creator = SecurityContextHolder.getContext().getAuthentication().getName();        Query newQuery = new Query(sqlRequest.getName(), sqlRequest.getProject(), sqlRequest.getSql(),

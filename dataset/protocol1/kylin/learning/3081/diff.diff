@@ -1,0 +1,4 @@
+69c69
+<             buf.append("hive -e \"");
+---
+>             buf.append("hive -e \"")	;

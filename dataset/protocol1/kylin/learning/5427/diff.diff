@@ -1,0 +1,4 @@
+377c377
+<         if (mgr.getProject(sqlRequest.getProject()) == null) {
+---
+>         if (mgr	.getProject(sqlRequest.getProject()) == null) {

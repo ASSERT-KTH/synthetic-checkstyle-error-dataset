@@ -1,0 +1,5 @@
+373,374c373
+<     public String getGET_ENV_CONFIG_FAIL() {
+<         return "无法获取 Kylin env Config";
+---
+>     public String getGET_ENV_CONFIG_FAIL() {        return "无法获取 Kylin env Config";

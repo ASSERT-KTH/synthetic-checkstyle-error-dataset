@@ -1,0 +1,4 @@
+77c77
+<             for (String dir : noNull(store.listResources(resourceRoot))) {
+---
+>             for (String dir : 	noNull(store.listResources(resourceRoot))) {

@@ -1,0 +1,5 @@
+33,34c33
+<         if (CUBE_INSTANCE.equals(entityType)) {
+<             CubeInstance cubeInstance = new CubeInstance();
+---
+>         if (CUBE_INSTANCE.equals(entityType)) {            CubeInstance cubeInstance = new CubeInstance();

@@ -1,0 +1,4 @@
+43c43
+<         if (!super.equals(o)) {
+---
+>         if (!super.equals(o) ) {

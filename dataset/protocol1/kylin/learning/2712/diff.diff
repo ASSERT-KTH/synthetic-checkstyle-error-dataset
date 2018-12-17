@@ -1,0 +1,4 @@
+85c85
+<         byte[] result = new byte[keyByteBuffer.position()];
+---
+>         byte[] result = new byte[keyByteBuffer.position()	];

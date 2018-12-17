@@ -1,0 +1,4 @@
+46c46
+<     private static InputStream wrap(final IOException brokenContentException) {
+---
+>     private static InputStream 	wrap(final IOException brokenContentException) {

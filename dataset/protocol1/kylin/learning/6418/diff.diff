@@ -1,0 +1,5 @@
+144,145c144
+<             for (Long child : getSpanningCuboid(cuboidId)) {
+<                 r += getCuboidCount(child);
+---
+>             for (Long child : getSpanningCuboid(cuboidId)) {                r += getCuboidCount(child);

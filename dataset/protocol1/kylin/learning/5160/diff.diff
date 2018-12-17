@@ -1,0 +1,4 @@
+275c275
+<         logger.trace("getResource method. resourcePath : {} , fetchConetent : {} , fetch TS : {}", resourcePath,
+---
+>         logger.trace("getResource method. resourcePath : {} , fetchConetent : {} , fetch TS : {}", resourcePath	,

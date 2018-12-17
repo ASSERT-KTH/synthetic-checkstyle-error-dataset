@@ -1,0 +1,4 @@
+60c60
+<         this.data = data;
+---
+>         this.data = 	data;

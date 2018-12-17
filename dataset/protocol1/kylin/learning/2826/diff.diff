@@ -1,0 +1,5 @@
+469,470c469
+<                 int n = Math.min(lastChunk.freeSpace(), length);
+<                 System.arraycopy(bytes, offset, lastChunk.data, lastChunk.length, n);
+---
+>                 int n = Math.min(lastChunk.freeSpace(), length);                System.arraycopy(bytes, offset, lastChunk.data, lastChunk.length, n);

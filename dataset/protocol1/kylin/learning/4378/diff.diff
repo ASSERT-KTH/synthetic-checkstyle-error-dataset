@@ -1,0 +1,4 @@
+108c108
+<             sshOutput = ssh.execCommand(command, remoteTimeoutSeconds, logAppender);
+---
+>             sshOutput = 	ssh.execCommand(command, remoteTimeoutSeconds, logAppender);

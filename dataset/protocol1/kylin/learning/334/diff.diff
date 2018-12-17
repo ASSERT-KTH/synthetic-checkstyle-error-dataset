@@ -1,0 +1,5 @@
+343,344c343
+<     public String getNOT_SUPPORTED_SQL() {
+<         return "不支持的 SQL";
+---
+>     public String getNOT_SUPPORTED_SQL() {        return "不支持的 SQL";

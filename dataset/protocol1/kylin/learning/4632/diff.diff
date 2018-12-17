@@ -1,0 +1,5 @@
+36,37c36
+<         if (this.containsKey(key)) {
+<             this.put(key, (this.get(key) + increased));
+---
+>         if (this.containsKey(key)) {            this.put(key, (this.get(key) + increased));

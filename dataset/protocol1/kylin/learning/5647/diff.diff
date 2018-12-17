@@ -1,0 +1,5 @@
+41,42c41
+<     public long getEndTime() {
+<         return endTime;
+---
+>     public long getEndTime() {        return endTime;

@@ -1,0 +1,4 @@
+35c35
+<             throw new IllegalArgumentException("Input list is null");
+---
+>             throw new IllegalArgumentException("Input list is null")	;

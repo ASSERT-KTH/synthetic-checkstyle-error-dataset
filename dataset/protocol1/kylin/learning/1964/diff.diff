@@ -1,0 +1,4 @@
+63c63
+<     public void setPrincipal(boolean principal) {
+---
+>     public void setPrincipal( boolean principal) {

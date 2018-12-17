@@ -1,0 +1,4 @@
+64c64
+<         Object[] metricsValues = buildValue(row);
+---
+>         Object[] metricsValues = buildValue(row)	;

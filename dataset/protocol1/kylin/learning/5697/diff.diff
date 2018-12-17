@@ -1,0 +1,4 @@
+201c201
+<                 if (s.charAt(i) != c)
+---
+>                 if (s.charAt(i) != c )

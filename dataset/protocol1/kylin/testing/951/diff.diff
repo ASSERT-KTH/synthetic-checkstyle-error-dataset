@@ -1,0 +1,4 @@
+63c63
+<                         logger.warn("More than one singleton exist");
+---
+>                         	logger.warn("More than one singleton exist");

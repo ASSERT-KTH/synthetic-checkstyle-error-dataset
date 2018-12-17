@@ -1,0 +1,5 @@
+97c97,98
+<         return Bytes.copy(this.array(), this.offset(), this.length());
+---
+>         return Bytes.copy(this.array(), this.offset(), this.length
+> ());

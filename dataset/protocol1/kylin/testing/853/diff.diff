@@ -1,0 +1,5 @@
+37,38c37
+<     public void setUuid(String uuid) {
+<         this.uuid = uuid;
+---
+>     public void setUuid(String uuid) {        this.uuid = uuid;

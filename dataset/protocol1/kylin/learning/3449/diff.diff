@@ -1,0 +1,4 @@
+41c41
+< import org.apache.kylin.dict.lookup.ExtTableSnapshotInfoManager;
+---
+> import org.apache.kylin.	dict.lookup.ExtTableSnapshotInfoManager;

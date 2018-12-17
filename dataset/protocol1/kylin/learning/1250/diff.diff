@@ -1,0 +1,5 @@
+38,39c38
+<         long startTime = System.currentTimeMillis();
+<         GTScanRequest req = new GTScanRequestBuilder().setInfo(gridTable.getInfo()).setRanges(null).setDimensions(null).setFilterPushDown(null).createGTScanRequest();
+---
+>         long startTime = System.currentTimeMillis();        GTScanRequest req = new GTScanRequestBuilder().setInfo(gridTable.getInfo()).setRanges(null).setDimensions(null).setFilterPushDown(null).createGTScanRequest();

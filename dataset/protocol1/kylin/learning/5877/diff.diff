@@ -1,0 +1,5 @@
+66,67c66
+<     public KafkaConfigManager getKafkaManager() throws IOException {
+<         return KafkaConfigManager.getInstance(getConfig());
+---
+>     public KafkaConfigManager getKafkaManager() throws IOException {        return KafkaConfigManager.getInstance(getConfig());

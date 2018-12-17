@@ -1,0 +1,4 @@
+112c112
+<     public MockHTable(String tableName, String... columnFamilies) {
+---
+>     public MockHTable( String tableName, String... columnFamilies) {

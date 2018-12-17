@@ -1,0 +1,4 @@
+53c53
+<         final String serverList = hconf.get("hbase.zookeeper.quorum");
+---
+>         final String 	serverList = hconf.get("hbase.zookeeper.quorum");

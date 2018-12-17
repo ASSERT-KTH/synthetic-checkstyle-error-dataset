@@ -1,0 +1,5 @@
+156c156,157
+<     public String getUPDATE_CUBE_NO_RIGHT() {
+---
+>     public String getUPDATE_CUBE_NO_RIGHT
+> () {

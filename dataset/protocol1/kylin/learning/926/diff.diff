@@ -1,0 +1,4 @@
+267c267
+<                     new ResourceStore.VisitFilter(timeStart, timeEndExclusive),
+---
+>                     new ResourceStore.VisitFilter(timeStart, timeEndExclusive ),

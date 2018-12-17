@@ -1,0 +1,4 @@
+153c153
+<     public static byte[] toBytes(Writable writable) {
+---
+>     public 	static byte[] toBytes(Writable writable) {

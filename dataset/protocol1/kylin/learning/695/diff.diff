@@ -1,0 +1,4 @@
+304c304
+<                 return new RawResource(path, ts, e); // let the caller handle broken content
+---
+>                 	return new RawResource(path, ts, e); // let the caller handle broken content

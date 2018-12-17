@@ -1,0 +1,4 @@
+243c243
+<     private void writeJobResource(String path, ExecutablePO job) throws IOException {
+---
+>     private void writeJobResource(String path	, ExecutablePO job) throws IOException {

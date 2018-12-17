@@ -1,0 +1,5 @@
+45,46c45
+<         for (int i = 0; i < columnsNum; i++) {
+<             boolean isKeyColumn = false;
+---
+>         for (int i = 0; i < columnsNum; i++) {            boolean isKeyColumn = false;

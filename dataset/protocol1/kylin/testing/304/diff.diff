@@ -1,0 +1,4 @@
+41c41
+<     Map<String, String> getParams();
+---
+>     Map<String, String> getParams()	;

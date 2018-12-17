@@ -1,0 +1,5 @@
+63c63,64
+<         public void onProjectDataChange(Broadcaster broadcaster, String project) throws IOException {
+---
+>         public void onProjectDataChange(Broadcaster broadcaster, String project) throws IOException 
+> {

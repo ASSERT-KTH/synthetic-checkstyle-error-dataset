@@ -1,0 +1,5 @@
+128,129c128
+<             this.buildDuration = buildDuration;
+<             this.waitResourceTime = waitResourceTime;
+---
+>             this.buildDuration = buildDuration;            this.waitResourceTime = waitResourceTime;

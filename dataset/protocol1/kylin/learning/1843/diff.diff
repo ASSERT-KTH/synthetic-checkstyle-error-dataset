@@ -1,0 +1,4 @@
+36c36
+<         return KylinConfig.getInstanceFromEnv().isTableACLEnabled();
+---
+>         return KylinConfig.getInstanceFromEnv().isTableACLEnabled ();

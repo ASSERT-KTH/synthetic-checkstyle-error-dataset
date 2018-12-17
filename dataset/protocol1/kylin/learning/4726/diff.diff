@@ -1,0 +1,5 @@
+128,129c128
+<         }
+<         cmd[2] = command;
+---
+>         }        cmd[2] = command;

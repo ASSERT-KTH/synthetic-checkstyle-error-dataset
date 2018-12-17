@@ -1,0 +1,5 @@
+48,49c48
+<     public List<String> getNoAccessList(String project, String table, String type) throws IOException {
+<         aclEvaluate.checkProjectWritePermission(project);
+---
+>     public List<String> getNoAccessList(String project, String table, String type) throws IOException {        aclEvaluate.checkProjectWritePermission(project);

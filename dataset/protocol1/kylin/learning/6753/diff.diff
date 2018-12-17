@@ -1,0 +1,5 @@
+33,34c33
+<     private AclPermissionUtil() {
+<         throw new IllegalStateException("Class AclPermissionUtil is an utility class !");
+---
+>     private AclPermissionUtil() {        throw new IllegalStateException("Class AclPermissionUtil is an utility class !");

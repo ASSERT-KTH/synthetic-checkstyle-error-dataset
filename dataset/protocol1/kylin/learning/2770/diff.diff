@@ -1,0 +1,5 @@
+28,29c28
+<     public static ImmutableBitSet valueOf(int... values) {
+<         BitSet set = new BitSet();
+---
+>     public static ImmutableBitSet valueOf(int... values) {        BitSet set = new BitSet();

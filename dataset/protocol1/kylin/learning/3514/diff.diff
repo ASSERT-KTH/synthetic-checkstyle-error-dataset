@@ -1,0 +1,5 @@
+573c573,574
+<                     .append(JsonUtil.writeValueAsString(this.hbaseMapping)).append("|")//
+---
+>                     .append(JsonUtil.writeValueAsString
+> (this.hbaseMapping)).append("|")//

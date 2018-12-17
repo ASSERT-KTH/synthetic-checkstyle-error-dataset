@@ -1,0 +1,4 @@
+55c55
+<             add(new SelectedColumnMeta(false, false, true, false, 2, true, 11, "COL", "COL", "", "", "", 10, 0, 4, "int4", false, true, false));
+---
+>             add(new SelectedColumnMeta(false, false, true, false, 2, true, 11, "COL", "COL", "", "","", 10, 0, 4, "int4", false, true, false));

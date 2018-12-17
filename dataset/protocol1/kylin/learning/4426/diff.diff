@@ -1,0 +1,5 @@
+30c30,31
+<     public static final Permission MANAGEMENT = new AclPermission(1 << 5, 'M'); // 32
+---
+>     public static final Permission MANAGEMENT = new AclPermission
+> (1 << 5, 'M'); // 32

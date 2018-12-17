@@ -1,0 +1,5 @@
+161,162c161
+<         try {
+<             final JobInstance jobInstance = jobService.getJobInstance(jobId);
+---
+>         try {            final JobInstance jobInstance = jobService.getJobInstance(jobId);

@@ -1,0 +1,4 @@
+39c39
+<             return new StringEntity(str);
+---
+>             return 	new StringEntity(str);

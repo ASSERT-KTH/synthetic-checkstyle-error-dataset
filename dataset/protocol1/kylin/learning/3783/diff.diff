@@ -1,0 +1,4 @@
+83c83
+<         LinkedHashMap<String, String> overrideProps = newProject.getOverrideKylinProps();
+---
+>         LinkedHashMap<String, String> overrideProps 	= newProject.getOverrideKylinProps();

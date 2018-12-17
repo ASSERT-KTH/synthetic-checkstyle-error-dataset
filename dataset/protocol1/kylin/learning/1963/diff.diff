@@ -1,0 +1,5 @@
+101,102c101
+<                 for (int position = 0; position < cuboidBitSet.length; position++) {
+<                     hc.putBytes(row_hashcodes[cuboidBitSet[position]]);
+---
+>                 for (int position = 0; position < cuboidBitSet.length; position++) {                    hc.putBytes(row_hashcodes[cuboidBitSet[position]]);

@@ -1,0 +1,4 @@
+92c92
+<         if (this.lastModified != another.lastModified) {
+---
+>         if (this	.lastModified != another.lastModified) {

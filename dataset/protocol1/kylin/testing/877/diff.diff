@@ -1,0 +1,4 @@
+88c88
+<             if ("true".equalsIgnoreCase(rowkeyColumns[i].getIndex()) && rowkeyColumns[i].isUsingDictionary()) {
+---
+>             if ("true".equalsIgnoreCase(rowkeyColumns[i].getIndex()) && rowkeyColumns	[i].isUsingDictionary()) {

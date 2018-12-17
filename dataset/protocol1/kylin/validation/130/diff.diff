@@ -1,0 +1,4 @@
+340c340
+<             logger.info("Model name should not be empty.");
+---
+>             logger.	info("Model name should not be empty.");

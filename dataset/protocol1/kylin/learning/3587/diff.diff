@@ -1,0 +1,4 @@
+489c489
+<             int index = i * 4;
+---
+>             	int index = i * 4;

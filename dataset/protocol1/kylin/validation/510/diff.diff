@@ -1,0 +1,4 @@
+163c163
+<                         long bit = allMasks[i] ^ allMasks[i - 1];
+---
+>                         long bit = allMasks[i] ^ 	allMasks[i - 1];

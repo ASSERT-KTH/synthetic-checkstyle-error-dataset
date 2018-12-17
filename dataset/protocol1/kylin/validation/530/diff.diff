@@ -1,0 +1,5 @@
+117,118c117
+<             RecordEvent queryMetricsEvent = new TimedRecordEvent(
+<                     KylinConfig.getInstanceFromEnv().getKylinMetricsSubjectQuery());
+---
+>             RecordEvent queryMetricsEvent = new TimedRecordEvent(                    KylinConfig.getInstanceFromEnv().getKylinMetricsSubjectQuery());

@@ -1,0 +1,5 @@
+907,908c907
+<         if (bytes.length - offset < SIZEOF_SHORT) {
+<             throw new IllegalArgumentException("Not enough room to put a short at" + " offset " + offset + " in a "
+---
+>         if (bytes.length - offset < SIZEOF_SHORT) {            throw new IllegalArgumentException("Not enough room to put a short at" + " offset " + offset + " in a "

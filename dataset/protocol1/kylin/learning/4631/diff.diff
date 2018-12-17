@@ -1,0 +1,5 @@
+78,79c78
+<     public BadQueryHistory getProjectBadQueryHistory(String project) throws IOException {
+<         aclEvaluate.checkProjectOperationPermission(project);
+---
+>     public BadQueryHistory getProjectBadQueryHistory(String project) throws IOException {        aclEvaluate.checkProjectOperationPermission(project);

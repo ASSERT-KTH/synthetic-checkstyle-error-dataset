@@ -1,0 +1,4 @@
+77c77
+<         this.colIO = new RowKeyColumnIO(dimEncoding);
+---
+>         this	.colIO = new RowKeyColumnIO(dimEncoding);

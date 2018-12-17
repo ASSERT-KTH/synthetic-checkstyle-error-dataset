@@ -1,0 +1,4 @@
+251c251
+<                     int[] row = rowIndices.get(i);
+---
+>                     int[] row = rowIndices.get( i);

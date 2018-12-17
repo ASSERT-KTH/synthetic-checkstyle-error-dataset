@@ -1,0 +1,5 @@
+38,39c38
+<     public void write(long cuboidId, GTRecord record) throws IOException {
+<         for (ICuboidWriter writer : cuboidWriters) {
+---
+>     public void write(long cuboidId, GTRecord record) throws IOException {        for (ICuboidWriter writer : cuboidWriters) {

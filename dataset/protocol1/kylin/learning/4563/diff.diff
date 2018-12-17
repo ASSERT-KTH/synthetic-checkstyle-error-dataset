@@ -1,0 +1,5 @@
+26c26,27
+<         for (Long x : input) {
+---
+>         for (Long x : input) 
+> {

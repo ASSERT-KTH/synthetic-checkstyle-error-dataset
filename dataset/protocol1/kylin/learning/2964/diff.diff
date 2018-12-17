@@ -1,0 +1,4 @@
+98c98
+<             String filePath = dgService.dumpJobDiagnosisInfo(jobId, diagDir.getFile());
+---
+>             String filePath = dgService.dumpJobDiagnosisInfo(jobId, diagDir.getFile())	;

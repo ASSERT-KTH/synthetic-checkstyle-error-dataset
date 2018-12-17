@@ -1,0 +1,5 @@
+74,75c74
+<     public static DimensionEncoding readDimensionEncoding(ByteBuffer in) {
+<         try {
+---
+>     public static DimensionEncoding readDimensionEncoding(ByteBuffer in) {        try {

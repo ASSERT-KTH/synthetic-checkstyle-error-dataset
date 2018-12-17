@@ -1,0 +1,5 @@
+38,39c38
+<         long startTime = System.currentTimeMillis();
+<         Deflater deflater = new Deflater(1);
+---
+>         long startTime = System.currentTimeMillis();        Deflater deflater = new Deflater(1);

@@ -1,0 +1,5 @@
+159c159,160
+<     protected byte[] getValueBytesFromIdImpl(int id) {
+---
+>     protected byte[] getValueBytesFromIdImpl
+> (int id) {

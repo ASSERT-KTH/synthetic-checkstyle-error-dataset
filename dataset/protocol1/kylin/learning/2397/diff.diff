@@ -1,0 +1,4 @@
+34c34
+<     public void contextInitialized(ServletContextEvent event) {
+---
+>     	public void contextInitialized(ServletContextEvent event) {

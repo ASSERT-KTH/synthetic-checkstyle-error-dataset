@@ -1,0 +1,5 @@
+53,54c53
+<         result = prime * result + ((str == null) ? 0 : str.hashCode());
+<         return result;
+---
+>         result = prime * result + ((str == null) ? 0 : str.hashCode());        return result;

@@ -1,0 +1,4 @@
+225c225
+<     public abstract void write(DataOutput out) throws IOException;
+---
+>     public abstract 	void write(DataOutput out) throws IOException;

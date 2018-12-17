@@ -1,0 +1,4 @@
+371c371
+<             AclEntity ae = getAclEntity("ProjectInstance", pi.getUuid());
+---
+>             AclEntity ae = getAclEntity( "ProjectInstance", pi.getUuid());

@@ -1,0 +1,4 @@
+48c48
+<             CaseInsensitiveString that = (CaseInsensitiveString) o;
+---
+>             CaseInsensitiveString that = (CaseInsensitiveString) o	;

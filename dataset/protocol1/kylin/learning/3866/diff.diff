@@ -1,0 +1,4 @@
+46c46
+<     static final private Map<String, FastDateFormat> formatMap = new ConcurrentHashMap<String, FastDateFormat>();
+---
+>     static final private Map<String, FastDateFormat> formatMap = new ConcurrentHashMap<String, 	FastDateFormat>();

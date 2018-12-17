@@ -1,0 +1,4 @@
+35c35
+<     <I> I adaptToBuildEngine(Class<I> engineInterface);
+---
+>     <I> I 	adaptToBuildEngine(Class<I> engineInterface);

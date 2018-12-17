@@ -1,0 +1,5 @@
+43c43,44
+<             throw new IllegalArgumentException("Not table found by " + table);
+---
+>             throw new IllegalArgumentException
+> ("Not table found by " + table);

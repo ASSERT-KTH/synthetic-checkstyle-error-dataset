@@ -1,0 +1,5 @@
+76,77c76
+<     public int getReserveMemoryMB() {
+<         return this.reserveMemoryMB;
+---
+>     public int getReserveMemoryMB() {        return this.reserveMemoryMB;

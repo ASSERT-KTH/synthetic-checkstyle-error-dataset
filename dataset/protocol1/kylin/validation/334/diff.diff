@@ -1,0 +1,4 @@
+40c40
+<             return Arrays.equals(this.data, ((Array<?>) o).data);
+---
+>             return 	Arrays.equals(this.data, ((Array<?>) o).data);

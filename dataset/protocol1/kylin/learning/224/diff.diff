@@ -1,0 +1,4 @@
+236c236
+<         final int[] count = new int[1];
+---
+>         final int[] count 	= new int[1];

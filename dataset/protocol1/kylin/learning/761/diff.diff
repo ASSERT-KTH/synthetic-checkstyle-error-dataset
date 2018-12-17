@@ -1,0 +1,4 @@
+48c48
+<     final private Map<String, Map<Long, Cuboid>> schedulerCuboidCache = Maps.newConcurrentMap();
+---
+>     final 	private Map<String, Map<Long, Cuboid>> schedulerCuboidCache = Maps.newConcurrentMap();

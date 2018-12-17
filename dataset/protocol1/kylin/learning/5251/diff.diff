@@ -1,0 +1,5 @@
+128c128,129
+<     protected void putResourceImpl(String resPath, ContentWriter content, long ts) throws IOException {
+---
+>     protected void putResourceImpl(String resPath, ContentWriter content, long ts) throws IOException 
+> {

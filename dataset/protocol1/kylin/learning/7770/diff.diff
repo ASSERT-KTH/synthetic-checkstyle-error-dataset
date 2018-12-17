@@ -1,0 +1,5 @@
+57,58c57
+<     public T max(T a, T b) {
+<         return compare(a, b) >= 0 ? a : b;
+---
+>     public T max(T a, T b) {        return compare(a, b) >= 0 ? a : b;

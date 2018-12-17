@@ -1,0 +1,5 @@
+1156c1156,1157
+<             preparedState.setShort(index, isNull ? 0 : Short.parseShort(param.getValue()));
+---
+>             preparedState.setShort(index, isNull ? 0 : Short.parseShort
+> (param.getValue()));

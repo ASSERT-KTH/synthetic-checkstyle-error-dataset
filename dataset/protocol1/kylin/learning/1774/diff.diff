@@ -1,0 +1,4 @@
+74c74
+<             .withDescription("Warning: will delete all kylin intermediate hive tables").create("force");
+---
+>             .withDescription("Warning: will delete all kylin intermediate hive tables").create("force" );

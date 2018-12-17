@@ -1,0 +1,4 @@
+89c89
+<         String clsName = kylinConfig.getResourceStoreImpls().get(metadataUrl.getScheme());
+---
+>         String clsName = kylinConfig.getResourceStoreImpls().get( metadataUrl.getScheme());

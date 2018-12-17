@@ -1,0 +1,4 @@
+113c113
+<     public void notifyMetadataChange(String entity, Event event, String cacheKey) throws IOException {
+---
+>     public 	void notifyMetadataChange(String entity, Event event, String cacheKey) throws IOException {

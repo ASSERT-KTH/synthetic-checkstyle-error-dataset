@@ -1,0 +1,5 @@
+48,49c48
+<     public String getStorageType() {
+<         return storageType;
+---
+>     public String getStorageType() {        return storageType;

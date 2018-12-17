@@ -1,0 +1,4 @@
+85c85
+<         if (BytesUtil.compareBytes(HEAD_MAGIC, 0, headPartial, 0, HEAD_MAGIC.length) != 0)
+---
+>         if (BytesUtil.compareBytes(HEAD_MAGIC, 0, headPartial	, 0, HEAD_MAGIC.length) != 0)

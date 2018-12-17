@@ -1,0 +1,5 @@
+67,68c67
+<     public String getBuilderClass() {
+<         return builderClass;
+---
+>     public String getBuilderClass() {        return builderClass;

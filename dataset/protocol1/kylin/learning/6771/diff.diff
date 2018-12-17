@@ -1,0 +1,5 @@
+47,48c47
+<     final private KylinConfig config;
+<     final private Map<String, Map<Long, Cuboid>> schedulerCuboidCache = Maps.newConcurrentMap();
+---
+>     final private KylinConfig config;    final private Map<String, Map<Long, Cuboid>> schedulerCuboidCache = Maps.newConcurrentMap();

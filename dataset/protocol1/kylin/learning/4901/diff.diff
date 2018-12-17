@@ -1,0 +1,5 @@
+186,187c186
+<                 for (MeasureDesc parent : measures) {
+<                     if (parent.getName().equals(child.getDependentMeasureRef())) {
+---
+>                 for (MeasureDesc parent : measures) {                    if (parent.getName().equals(child.getDependentMeasureRef())) {

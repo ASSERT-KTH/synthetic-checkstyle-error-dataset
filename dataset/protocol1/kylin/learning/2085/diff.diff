@@ -1,0 +1,5 @@
+35,36c35
+<     public String toString() {
+<         return modeName;
+---
+>     public String toString() {        return modeName;

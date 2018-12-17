@@ -1,0 +1,5 @@
+48,49c48
+<             CaseInsensitiveString that = (CaseInsensitiveString) o;
+<             return (str != null) ? str.equalsIgnoreCase(that.str) : that.str == null;
+---
+>             CaseInsensitiveString that = (CaseInsensitiveString) o;            return (str != null) ? str.equalsIgnoreCase(that.str) : that.str == null;

@@ -1,0 +1,5 @@
+40,41c40
+<     public static Double sumDouble(Collection<Double> input) {
+<         Double sum = (double) 0;
+---
+>     public static Double sumDouble(Collection<Double> input) {        Double sum = (double) 0;

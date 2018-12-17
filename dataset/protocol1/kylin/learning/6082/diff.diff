@@ -1,0 +1,4 @@
+73c73
+<             scanRowCountQuantiles[i] = registry.newQuantiles("ScanRowCount" + interval + "s", "Scan row count in milli second", "ops", "", interval);
+---
+>             scanRowCountQuantiles[i] = registry.newQuantiles("ScanRowCount" + interval 	+ "s", "Scan row count in milli second", "ops", "", interval);

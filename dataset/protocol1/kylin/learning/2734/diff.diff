@@ -1,0 +1,4 @@
+128c128
+<         if (path.startsWith("file:///")) {
+---
+>         	if (path.startsWith("file:///")) {

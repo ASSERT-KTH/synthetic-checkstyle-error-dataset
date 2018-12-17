@@ -1,0 +1,4 @@
+21c21
+< import static org.apache.kylin.job.constant.ExecutableConstants.MR_JOB_ID;
+---
+> import static org.apache.kylin.	job.constant.ExecutableConstants.MR_JOB_ID;

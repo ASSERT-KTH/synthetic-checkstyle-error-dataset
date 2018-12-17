@@ -1,0 +1,4 @@
+144c144
+<         cm.setDefaultMaxPerRoute(config.getRestClientDefaultMaxPerRoute());
+---
+>         cm.setDefaultMaxPerRoute(config	.getRestClientDefaultMaxPerRoute());

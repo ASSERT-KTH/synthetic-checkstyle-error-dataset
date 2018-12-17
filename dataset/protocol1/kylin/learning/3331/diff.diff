@@ -1,0 +1,4 @@
+80c80
+<             try (AutoReadWriteLock.AutoLock l = lock.lockForWrite()) {
+---
+>             try (AutoReadWriteLock.AutoLock l = lock.lockForWrite() ) {

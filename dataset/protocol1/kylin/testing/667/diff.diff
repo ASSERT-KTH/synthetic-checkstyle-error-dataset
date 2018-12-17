@@ -1,0 +1,4 @@
+55c55
+<     public ByteArray(byte[] data) {
+---
+>     public ByteArray(byte[] data ) {

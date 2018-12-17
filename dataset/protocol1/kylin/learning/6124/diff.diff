@@ -1,0 +1,4 @@
+30c30
+<     public final static String IDENTITY_USER = "user";
+---
+>     	public final static String IDENTITY_USER = "user";

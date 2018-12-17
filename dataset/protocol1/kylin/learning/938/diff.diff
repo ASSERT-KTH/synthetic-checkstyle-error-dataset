@@ -1,0 +1,4 @@
+36c36
+< public class ExtFilterService extends BasicService {
+---
+> 	public class ExtFilterService extends BasicService {

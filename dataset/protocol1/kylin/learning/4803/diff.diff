@@ -1,0 +1,5 @@
+65,66c65
+<     public static final String STEP_NAME_GARBAGE_COLLECTION = "Garbage Collection";
+<     public static final String STEP_NAME_GARBAGE_COLLECTION_HBASE = "Garbage Collection on HBase";
+---
+>     public static final String STEP_NAME_GARBAGE_COLLECTION = "Garbage Collection";    public static final String STEP_NAME_GARBAGE_COLLECTION_HBASE = "Garbage Collection on HBase";

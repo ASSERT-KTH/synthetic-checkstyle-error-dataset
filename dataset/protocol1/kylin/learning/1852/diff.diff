@@ -1,0 +1,5 @@
+96,97c96
+<             logger.info("Building snapshot of {}", tableIdentity);
+<             cubeMgr.buildSnapshotTable(cubeSeg, tableIdentity, uuid);
+---
+>             logger.info("Building snapshot of {}", tableIdentity);            cubeMgr.buildSnapshotTable(cubeSeg, tableIdentity, uuid);

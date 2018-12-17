@@ -1,0 +1,5 @@
+108,109c108
+<     public static Cuboid getBaseCuboid(CubeDesc cube) {
+<         return findById(cube.getInitialCuboidScheduler(), getBaseCuboidId(cube));
+---
+>     public static Cuboid getBaseCuboid(CubeDesc cube) {        return findById(cube.getInitialCuboidScheduler(), getBaseCuboidId(cube));

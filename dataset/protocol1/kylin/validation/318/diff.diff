@@ -1,0 +1,5 @@
+31,32c31
+<         BitSet dimension = new BitSet();
+<         dimension.set(0, cardinality);
+---
+>         BitSet dimension = new BitSet();        dimension.set(0, cardinality);

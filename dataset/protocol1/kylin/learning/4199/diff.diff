@@ -1,0 +1,4 @@
+305c305
+<         properties = (Map<String, String>) stream.readObject();
+---
+>         properties = (Map<	String, String>) stream.readObject();

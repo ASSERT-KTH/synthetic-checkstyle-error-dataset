@@ -1,0 +1,5 @@
+36c36,37
+<     void close() throws IOException;
+---
+>     void close
+> () throws IOException;

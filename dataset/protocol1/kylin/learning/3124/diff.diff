@@ -1,0 +1,4 @@
+220c220
+<     public void store(OutputStream stream, String comments) throws IOException {
+---
+>     public void store(OutputStream stream	, String comments) throws IOException {

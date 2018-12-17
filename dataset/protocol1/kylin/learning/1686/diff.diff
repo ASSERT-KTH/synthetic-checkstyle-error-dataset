@@ -1,0 +1,5 @@
+225c225,226
+<         while (offset < trieBytes.length) {
+---
+>         while (offset < trieBytes.length) 
+> {

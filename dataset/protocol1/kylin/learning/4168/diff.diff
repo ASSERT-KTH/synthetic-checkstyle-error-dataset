@@ -1,0 +1,4 @@
+140c140
+<         String v = getString(ATTR_STATEMENT_MAX_ROWS);
+---
+>         	String v = getString(ATTR_STATEMENT_MAX_ROWS);

@@ -1,0 +1,4 @@
+60c60
+<     public void setGlobal(boolean global) {
+---
+>     public void setGlobal( boolean global) {

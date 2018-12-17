@@ -1,0 +1,4 @@
+38c38
+<     Map<String, Long> cardinality = new HashMap<String, Long>();
+---
+>     Map<String, Long> cardinality = new HashMap<String, Long	>();

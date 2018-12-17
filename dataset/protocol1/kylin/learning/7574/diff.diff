@@ -1,0 +1,5 @@
+621,622c621
+<             long tail = readySegs.get(readySegs.size() - 1).getTSRange().end.v;
+<             long head = tail - desc.getRetentionRange();
+---
+>             long tail = readySegs.get(readySegs.size() - 1).getTSRange().end.v;            long head = tail - desc.getRetentionRange();

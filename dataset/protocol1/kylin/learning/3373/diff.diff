@@ -1,0 +1,4 @@
+388c388
+<         out.put(array, offset, length);
+---
+>         out.put( array, offset, length);

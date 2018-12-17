@@ -1,0 +1,5 @@
+105,106c105
+<                     UserDetails details = (UserDetails) authed.getDetails();
+<                     user = new ManagedUser(details.getUsername(), details.getPassword(), false,
+---
+>                     UserDetails details = (UserDetails) authed.getDetails();                    user = new ManagedUser(details.getUsername(), details.getPassword(), false,

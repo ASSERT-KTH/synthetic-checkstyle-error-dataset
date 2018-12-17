@@ -1,0 +1,4 @@
+647c647
+<     public CoprocessorRpcChannel coprocessorService(byte[] row) {
+---
+>     public CoprocessorRpcChannel coprocessorService(byte[	] row) {

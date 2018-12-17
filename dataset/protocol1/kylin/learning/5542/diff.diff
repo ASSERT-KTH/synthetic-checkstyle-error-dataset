@@ -1,0 +1,4 @@
+69c69
+<         cacheService.notifyMetadataChange(entity, Broadcaster.Event.getEvent(event), cacheKey);
+---
+>         cacheService	.notifyMetadataChange(entity, Broadcaster.Event.getEvent(event), cacheKey);

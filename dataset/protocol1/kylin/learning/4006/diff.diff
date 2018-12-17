@@ -1,0 +1,4 @@
+241c241
+<         Entry(SQLRequest sqlRequest, String user, Thread thread, String queryId) {
+---
+>         Entry(SQLRequest sqlRequest, String user,Thread thread, String queryId) {

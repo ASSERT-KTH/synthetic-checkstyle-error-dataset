@@ -1,0 +1,4 @@
+48c48
+<     private MailService(boolean enabled, boolean starttlsEnabled, String host, String port, String username, String password, String sender) {
+---
+>     private MailService(boolean enabled, boolean starttlsEnabled	, String host, String port, String username, String password, String sender) {

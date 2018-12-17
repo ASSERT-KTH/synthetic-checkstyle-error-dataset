@@ -1,0 +1,5 @@
+534c534,535
+<         if (info.containsKey(YARN_APP_ID) && !StringUtils.isEmpty(config.getJobTrackingURLPattern())) {
+---
+>         if (info.containsKey(YARN_APP_ID) && !StringUtils.isEmpty
+> (config.getJobTrackingURLPattern())) {

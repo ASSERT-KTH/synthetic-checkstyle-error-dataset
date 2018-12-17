@@ -1,0 +1,5 @@
+52,53c52
+<         StringWriter writer = new StringWriter();
+<         prop.store(new PrintWriter(writer), "kylin properties");
+---
+>         StringWriter writer = new StringWriter();        prop.store(new PrintWriter(writer), "kylin properties");

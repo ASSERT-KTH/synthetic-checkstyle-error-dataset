@@ -1,0 +1,4 @@
+35c35
+<     public final static String ROLE_ANALYST = "ROLE_ANALYST";
+---
+>     public final static String ROLE_ANALYST 	= "ROLE_ANALYST";

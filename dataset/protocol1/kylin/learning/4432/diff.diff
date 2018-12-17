@@ -1,0 +1,4 @@
+27c27
+<     String calculateSignature(KylinConfig config, SQLResponse sqlResponse, ProjectInstance project);
+---
+>     String calculateSignature(KylinConfig config,SQLResponse sqlResponse, ProjectInstance project);

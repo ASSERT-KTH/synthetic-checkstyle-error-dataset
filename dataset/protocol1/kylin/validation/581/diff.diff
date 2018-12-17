@@ -1,0 +1,5 @@
+42,43c42
+<     public IllegalStateTranferException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+<         super(message, cause, enableSuppression, writableStackTrace);
+---
+>     public IllegalStateTranferException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {        super(message, cause, enableSuppression, writableStackTrace);

@@ -1,0 +1,5 @@
+80,81c80
+<                 if (a.array() == null || b.array() == null) {
+<                     return -1;
+---
+>                 if (a.array() == null || b.array() == null) {                    return -1;

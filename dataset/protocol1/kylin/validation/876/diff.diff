@@ -1,0 +1,4 @@
+28c28
+< import org.springframework.ldap.core.ContextSource;
+---
+> import 	org.springframework.ldap.core.ContextSource;

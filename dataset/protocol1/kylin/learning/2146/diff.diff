@@ -1,0 +1,5 @@
+31,32c31
+<     public static JobStatusEnum getByCode(int statusCode) {
+<         for (JobStatusEnum status : values()) {
+---
+>     public static JobStatusEnum getByCode(int statusCode) {        for (JobStatusEnum status : values()) {

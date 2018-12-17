@@ -1,0 +1,5 @@
+104,105c104
+<                 for (HBaseColumnDesc hbaseColDesc : familyDesc.getColumns()) {
+<                     if (hbaseColDesc.containsMeasure(measure.getName())) {
+---
+>                 for (HBaseColumnDesc hbaseColDesc : familyDesc.getColumns()) {                    if (hbaseColDesc.containsMeasure(measure.getName())) {

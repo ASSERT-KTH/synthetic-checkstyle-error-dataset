@@ -1,0 +1,5 @@
+32,33c32
+<     private final BlockingQueue<T> input;
+<     private final int batchSize;
+---
+>     private final BlockingQueue<T> input;    private final int batchSize;

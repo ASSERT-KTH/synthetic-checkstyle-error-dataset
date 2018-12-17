@@ -1,0 +1,4 @@
+84c84
+<     protected String[] convertRow(String[] cols) {
+---
+>     protected String[] convertRow(String[] cols ) {

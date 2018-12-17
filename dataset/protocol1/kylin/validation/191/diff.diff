@@ -1,0 +1,4 @@
+28c28
+<     public final static String CODE_SUCCESS = "000";
+---
+>     public final static String CODE_SUCCESS = "000"	;

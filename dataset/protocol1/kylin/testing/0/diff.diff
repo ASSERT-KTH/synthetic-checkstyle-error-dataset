@@ -1,0 +1,4 @@
+44c44
+<                 logger.error("Execution exception when running task in " + Thread.currentThread().getName());
+---
+>                 logger.error("Execution exception when running task in " + Thread.currentThread().getName())	;

@@ -1,0 +1,5 @@
+318,319c318
+<         }
+<         dataSourceProp.putAll(tableExtDesc.getDataSourceProp());
+---
+>         }        dataSourceProp.putAll(tableExtDesc.getDataSourceProp());

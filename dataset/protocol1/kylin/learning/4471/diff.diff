@@ -1,0 +1,4 @@
+66c66
+<         if ((kafkaConfigs.size() - offset) < limit) {
+---
+>         if ((kafkaConfigs.size() - offset) < 	limit) {

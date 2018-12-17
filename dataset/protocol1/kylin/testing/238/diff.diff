@@ -1,0 +1,4 @@
+370c370
+<             scanner.setAggrMask(aggrMask);
+---
+>             scanner.setAggrMask (aggrMask);

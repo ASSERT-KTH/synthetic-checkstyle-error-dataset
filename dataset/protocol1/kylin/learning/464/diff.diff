@@ -1,0 +1,4 @@
+76c76
+<                     public SnapshotTable load(String key) throws Exception {
+---
+>                     public SnapshotTable load (String key) throws Exception {

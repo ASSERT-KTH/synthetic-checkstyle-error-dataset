@@ -1,0 +1,5 @@
+144,145c144
+<         String nowStr = sdf.format(now);
+<         response.setHeader("Content-Disposition", "attachment; filename=\"" + nowStr + ".result." + format + "\"");
+---
+>         String nowStr = sdf.format(now);        response.setHeader("Content-Disposition", "attachment; filename=\"" + nowStr + ".result." + format + "\"");

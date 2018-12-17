@@ -1,0 +1,4 @@
+30c30
+<         this.isDebugTomcat = KylinConfig.getInstanceFromEnv().isDevEnv();
+---
+>         this	.isDebugTomcat = KylinConfig.getInstanceFromEnv().isDevEnv();

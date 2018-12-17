@@ -1,0 +1,4 @@
+79c79
+<                 serializers[i] = dimEnc.asDataTypeSerializer();
+---
+>                 serializers	[i] = dimEnc.asDataTypeSerializer();

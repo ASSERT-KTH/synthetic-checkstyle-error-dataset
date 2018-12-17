@@ -1,0 +1,4 @@
+66c66
+<     public void syncExtFilterToProject(String[] filters, String project) throws IOException {
+---
+>     public void syncExtFilterToProject(String[] filters, 	String project) throws IOException {

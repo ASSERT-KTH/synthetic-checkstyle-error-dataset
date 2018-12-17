@@ -1,0 +1,4 @@
+486c486
+<         String outPath = getConfig().getHdfsWorkingDirectory() + "cardinality/" + job.getId() + "/" + tableName;
+---
+>         String outPath = getConfig().getHdfsWorkingDirectory() + 	"cardinality/" + job.getId() + "/" + tableName;

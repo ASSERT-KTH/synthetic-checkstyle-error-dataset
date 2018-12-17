@@ -1,0 +1,4 @@
+29c29
+<     static final String CREATE = "CREATE";
+---
+>     static final String CREATE 	= "CREATE";

@@ -1,0 +1,4 @@
+77c77
+<         metricsEvent.put(JobPropertyEnum.STEP_DURATION_DICTIONARY.toString(), dDictBuilding);
+---
+>         metricsEvent.put(JobPropertyEnum.STEP_DURATION_DICTIONARY.toString()	, dDictBuilding);

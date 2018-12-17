@@ -1,0 +1,5 @@
+284,285c284
+<         private Object[] getMetricsValues(GTRecord record) {
+<             ImmutableBitSet metrics = getMetricsColumns(record);
+---
+>         private Object[] getMetricsValues(GTRecord record) {            ImmutableBitSet metrics = getMetricsColumns(record);

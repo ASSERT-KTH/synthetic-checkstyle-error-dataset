@@ -1,0 +1,4 @@
+74c74
+<         Set<GrantedAuthority> userAuthorities = new HashSet<GrantedAuthority>();
+---
+>         Set<GrantedAuthority> userAuthorities = new 	HashSet<GrantedAuthority>();

@@ -1,0 +1,5 @@
+129,130c129
+<             this.waitResourceTime = waitResourceTime;
+<             this.perBytesTimeCost = perBytesTimeCost;
+---
+>             this.waitResourceTime = waitResourceTime;            this.perBytesTimeCost = perBytesTimeCost;

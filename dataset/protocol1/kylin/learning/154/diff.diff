@@ -1,0 +1,5 @@
+39,40c39
+<         while ((index = str.indexOf(delimiter, index + 1)) != -1) {
+<             list.add(str.substring(offset, index));
+---
+>         while ((index = str.indexOf(delimiter, index + 1)) != -1) {            list.add(str.substring(offset, index));

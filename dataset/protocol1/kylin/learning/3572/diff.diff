@@ -1,0 +1,5 @@
+37,38c37
+<     public void write(long cuboidId, GridTable gridTable) throws IOException {
+<         long startTime = System.currentTimeMillis();
+---
+>     public void write(long cuboidId, GridTable gridTable) throws IOException {        long startTime = System.currentTimeMillis();

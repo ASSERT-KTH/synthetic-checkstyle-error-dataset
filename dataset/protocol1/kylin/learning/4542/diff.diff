@@ -1,0 +1,4 @@
+181c181
+<         Map<Integer, Integer> result = Maps.newHashMap();
+---
+>         Map<Integer, Integer> result = Maps.	newHashMap();

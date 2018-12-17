@@ -1,0 +1,4 @@
+145c145
+<         return set.get(bitIndex);
+---
+>         return set	.get(bitIndex);

@@ -1,0 +1,4 @@
+149c149
+<                                 v = dist[i].next();
+---
+>                                 	v = dist[i].next();

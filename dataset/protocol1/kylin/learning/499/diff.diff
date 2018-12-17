@@ -1,0 +1,4 @@
+24c24
+<     ILookupTable getLookupTable(TableDesc tableDesc, ExtTableSnapshotInfo extTableSnapshot);
+---
+>     ILookupTable 	getLookupTable(TableDesc tableDesc, ExtTableSnapshotInfo extTableSnapshot);

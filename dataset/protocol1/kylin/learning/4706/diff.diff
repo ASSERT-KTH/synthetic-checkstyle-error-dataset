@@ -1,0 +1,4 @@
+26c26
+< public abstract class AbstractApplication {
+---
+> 	public abstract class AbstractApplication {

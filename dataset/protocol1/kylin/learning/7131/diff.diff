@@ -1,0 +1,4 @@
+50c50
+<     public void writeColumn(TblColRef col, String value, int roundingFlag, byte defaultValue, byte[] output, int outputOffset) {
+---
+>     public void writeColumn(TblColRef col, String value, int roundingFlag, byte defaultValue	, byte[] output, int outputOffset) {

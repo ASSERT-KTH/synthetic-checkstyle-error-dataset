@@ -1,0 +1,4 @@
+66c66
+<         UserGrantedAuthority other = (UserGrantedAuthority) obj;
+---
+>         	UserGrantedAuthority other = (UserGrantedAuthority) obj;

@@ -1,0 +1,4 @@
+100c100
+<             authorities.add(new SimpleGrantedAuthority(a));
+---
+>             authorities.add (new SimpleGrantedAuthority(a));

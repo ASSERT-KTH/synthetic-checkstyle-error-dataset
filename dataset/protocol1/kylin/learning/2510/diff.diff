@@ -1,0 +1,4 @@
+64c64
+<         metricsEvent.put(JobPropertyEnum.TYPE.toString(), jobType);
+---
+>         metricsEvent.put(JobPropertyEnum.TYPE	.toString(), jobType);

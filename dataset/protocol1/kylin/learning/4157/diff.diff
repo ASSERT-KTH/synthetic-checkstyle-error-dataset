@@ -1,0 +1,4 @@
+44c44
+<     public byte[] serialize(T obj) throws JsonProcessingException {
+---
+>     public byte[] serialize(T obj) throws JsonProcessingException 	{

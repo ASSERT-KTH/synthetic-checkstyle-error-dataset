@@ -1,0 +1,5 @@
+68c68,69
+<         this.kylinConfig = KylinConfig.getInstanceFromEnv();
+---
+>         this.kylinConfig = KylinConfig.getInstanceFromEnv
+> ();

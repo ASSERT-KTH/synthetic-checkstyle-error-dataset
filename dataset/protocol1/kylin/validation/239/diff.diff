@@ -1,0 +1,4 @@
+58c58
+<     boolean isLockedByMe(String lockPath);
+---
+>     	boolean isLockedByMe(String lockPath);

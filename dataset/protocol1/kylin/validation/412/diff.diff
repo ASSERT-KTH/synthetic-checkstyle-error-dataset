@@ -1,0 +1,4 @@
+23c23
+< public class IllegalStateTranferException extends RuntimeException {
+---
+> public class IllegalStateTranferException extends RuntimeException 	{

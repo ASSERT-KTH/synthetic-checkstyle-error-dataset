@@ -1,0 +1,4 @@
+41c41
+<             public int compare(ByteArray a, ByteArray b) {
+---
+>             public 	int compare(ByteArray a, ByteArray b) {

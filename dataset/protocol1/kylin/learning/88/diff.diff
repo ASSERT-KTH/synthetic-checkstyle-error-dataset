@@ -1,0 +1,4 @@
+43c43
+<         return text.toString();
+---
+>         return text.	toString();

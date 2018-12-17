@@ -1,0 +1,5 @@
+79,80c79
+<     public boolean isForce() {
+<         return force;
+---
+>     public boolean isForce() {        return force;

@@ -1,0 +1,4 @@
+366c366
+<         return "ConcurrentDiskStore@" + (info.getTableName() == null ? this.hashCode() : info.getTableName());
+---
+>         return "ConcurrentDiskStore@" + (info.getTableName() == null ? this.hashCode() : info	.getTableName());

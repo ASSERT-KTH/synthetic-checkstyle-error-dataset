@@ -1,0 +1,5 @@
+110,111c110
+<             for (String htableName : allTablesNeedToBeDropped) {
+<                 FutureTask futureTask = new FutureTask(new DeleteHTableRunnable(hbaseAdmin, htableName));
+---
+>             for (String htableName : allTablesNeedToBeDropped) {                FutureTask futureTask = new FutureTask(new DeleteHTableRunnable(hbaseAdmin, htableName));

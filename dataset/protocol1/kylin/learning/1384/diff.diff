@@ -1,0 +1,4 @@
+72c72
+<     private List<Permission> resolveKylinPermission(Object permission) {
+---
+>     private List	<Permission> resolveKylinPermission(Object permission) {

@@ -1,0 +1,5 @@
+34,35c34
+<             CubeInstance cubeInstance = new CubeInstance();
+<             cubeInstance.setUuid(uuid);
+---
+>             CubeInstance cubeInstance = new CubeInstance();            cubeInstance.setUuid(uuid);

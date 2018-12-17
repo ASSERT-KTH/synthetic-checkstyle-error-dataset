@@ -1,0 +1,4 @@
+68c68
+<             permString = p.getPattern();
+---
+>             	permString = p.getPattern();

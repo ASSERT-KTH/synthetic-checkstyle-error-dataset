@@ -1,0 +1,4 @@
+105c105
+<             else if (str.length() == 10 && isInputFormatDate(str, YYYYMMDDHH))
+---
+>             else if (str.length() == 10 && isInputFormatDate(str, YYYYMMDDHH) )

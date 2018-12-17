@@ -1,0 +1,4 @@
+112c112
+<         ByteArrayOutputStream bytes = new ByteArrayOutputStream();
+---
+>         ByteArrayOutputStream bytes = new ByteArrayOutputStream ();

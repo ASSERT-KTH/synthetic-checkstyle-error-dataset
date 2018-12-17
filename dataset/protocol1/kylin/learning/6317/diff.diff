@@ -1,0 +1,4 @@
+449c449
+<         GridTable newGridTable = newGridTableByCuboidID(cuboidId);
+---
+>         	GridTable newGridTable = newGridTableByCuboidID(cuboidId);

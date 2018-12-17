@@ -1,0 +1,4 @@
+96c96
+<         ByteArray byteArray = new ByteArray(buf, getHeaderLength(), 0);
+---
+>         ByteArray byteArray = new ByteArray(buf, 	getHeaderLength(), 0);

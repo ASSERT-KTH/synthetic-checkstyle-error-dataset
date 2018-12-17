@@ -1,0 +1,5 @@
+94c94,95
+<     public T2 getValue() {
+---
+>     public T2 getValue() 
+> {

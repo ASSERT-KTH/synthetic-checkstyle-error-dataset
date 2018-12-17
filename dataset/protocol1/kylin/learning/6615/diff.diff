@@ -1,0 +1,5 @@
+47,48c47
+<     final protected CubeDesc cubeDesc;
+<     final protected Map<TblColRef, Dictionary<String>> dictionaryMap;
+---
+>     final protected CubeDesc cubeDesc;    final protected Map<TblColRef, Dictionary<String>> dictionaryMap;

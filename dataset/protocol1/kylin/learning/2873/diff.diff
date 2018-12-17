@@ -1,0 +1,5 @@
+214,215c214
+<         for (FunctionDesc metric : metrics) {
+<             int idx = getIndexOf(metric);
+---
+>         for (FunctionDesc metric : metrics) {            int idx = getIndexOf(metric);

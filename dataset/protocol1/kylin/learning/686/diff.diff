@@ -1,0 +1,5 @@
+73c73,74
+<             for (Long childCuboid : directChildrenCache.get(cuboid)) {
+---
+>             for (Long childCuboid : directChildrenCache.get(cuboid)) 
+> {

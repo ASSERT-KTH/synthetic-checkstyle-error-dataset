@@ -1,0 +1,4 @@
+81c81
+<                 logger.warn("Invalid value for JobSearchMode: '" + jobRequest.getJobSearchMode() + "', skip it.");
+---
+>                 logger.warn("Invalid value for JobSearchMode: '" + jobRequest.getJobSearchMode() + 	"', skip it.");

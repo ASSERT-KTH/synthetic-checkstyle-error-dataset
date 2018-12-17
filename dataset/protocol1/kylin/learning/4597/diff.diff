@@ -1,0 +1,5 @@
+156,157c156
+<         for (int i = 0; i < rootResources.length; i++) {
+<             if (rootResources[i].exists()) {
+---
+>         for (int i = 0; i < rootResources.length; i++) {            if (rootResources[i].exists()) {

@@ -1,0 +1,4 @@
+182c182
+<             if (record.isEntriesInheriting() && record.getParentDomainObjectInfo() != null)
+---
+>             if (record.isEntriesInheriting() && record.getParentDomainObjectInfo () != null)

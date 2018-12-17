@@ -1,0 +1,4 @@
+51c51
+<     public void updateExternalFilter(ExternalFilterDesc desc) throws IOException {
+---
+>     public void updateExternalFilter( ExternalFilterDesc desc) throws IOException {

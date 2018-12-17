@@ -1,0 +1,4 @@
+35c35
+<     public JsonSerializer(Class<T> clz) {
+---
+>     public JsonSerializer(Class<	T> clz) {

@@ -1,0 +1,5 @@
+57,58c57
+<             metrics = MetricsFactory.getInstance();
+<         }
+---
+>             metrics = MetricsFactory.getInstance();        }

@@ -1,0 +1,5 @@
+151,152c151
+<     public void validateColumn(String project, String table, Collection<String> columns) throws IOException {
+<         Preconditions.checkState(columns != null && columns.size() > 0);
+---
+>     public void validateColumn(String project, String table, Collection<String> columns) throws IOException {        Preconditions.checkState(columns != null && columns.size() > 0);

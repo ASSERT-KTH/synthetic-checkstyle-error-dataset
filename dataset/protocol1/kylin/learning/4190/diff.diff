@@ -1,0 +1,4 @@
+98c98
+<         return (String[]) result.toArray(new String[result.size()]);
+---
+>         return (String[]) result.toArray(new String[result	.size()]);

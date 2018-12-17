@@ -1,0 +1,4 @@
+218c218
+<     private void addTableToProject(String[] tables, String project) throws IOException {
+---
+>     private void addTableToProject(String[] tables, String 	project) throws IOException {

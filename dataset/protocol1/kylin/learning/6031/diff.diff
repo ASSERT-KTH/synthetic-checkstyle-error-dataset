@@ -1,0 +1,4 @@
+52c52
+<             for (HBaseColumnDesc c : cf.getColumns()) {
+---
+>             for (HBaseColumnDesc c 	: cf.getColumns()) {

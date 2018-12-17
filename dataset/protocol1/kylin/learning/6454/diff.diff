@@ -1,0 +1,4 @@
+46c46
+<             throw new IllegalArgumentException("Build snapshot of hive view \'" + table + "\' not supported.");
+---
+>             	throw new IllegalArgumentException("Build snapshot of hive view \'" + table + "\' not supported.");

@@ -1,0 +1,5 @@
+395c395,396
+<         if (null != ostatus && !RealizationStatusEnum.READY.equals(ostatus)) {
+---
+>         if (null != ostatus && !RealizationStatusEnum.READY.equals(ostatus)) 
+> {

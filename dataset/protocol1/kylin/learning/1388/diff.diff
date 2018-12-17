@@ -1,0 +1,5 @@
+177,178c177
+<     private boolean isTableAlreadyMigrate(ResourceStore store, String tableName) throws IOException {
+<         return store.exists(MIGRATE_OK_PREFIX + tableName);
+---
+>     private boolean isTableAlreadyMigrate(ResourceStore store, String tableName) throws IOException {        return store.exists(MIGRATE_OK_PREFIX + tableName);

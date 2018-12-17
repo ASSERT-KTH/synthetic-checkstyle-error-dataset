@@ -1,0 +1,5 @@
+242,243c242
+<     public boolean purgeCube(String cubeName) throws Exception {
+<         return changeCubeStatus(baseUrl + CUBES + cubeName + "/purge");
+---
+>     public boolean purgeCube(String cubeName) throws Exception {        return changeCubeStatus(baseUrl + CUBES + cubeName + "/purge");

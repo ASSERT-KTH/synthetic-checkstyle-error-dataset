@@ -1,0 +1,5 @@
+73,74c73
+<                 if ((mask & cuboidId) > 0) {
+<                     cuboidBitSet[position] = i;
+---
+>                 if ((mask & cuboidId) > 0) {                    cuboidBitSet[position] = i;

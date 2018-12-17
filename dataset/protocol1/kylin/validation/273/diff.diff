@@ -1,0 +1,5 @@
+79,80c79
+<             userAuthorities.add(modelerAuthority);
+<             userAuthorities.add(analystAuthority);
+---
+>             userAuthorities.add(modelerAuthority);            userAuthorities.add(analystAuthority);

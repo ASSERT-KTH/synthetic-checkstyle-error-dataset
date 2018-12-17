@@ -1,0 +1,5 @@
+42,43c42
+<         ImmutableBitSet childDimensions = parentDimensions;
+<         long mask = Long.highestOneBit(baseCuboidId);
+---
+>         ImmutableBitSet childDimensions = parentDimensions;        long mask = Long.highestOneBit(baseCuboidId);

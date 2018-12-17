@@ -1,0 +1,5 @@
+35,36c35
+<     public int compareTo(SegmentSignature o) {
+<         return name.compareTo(o.name);
+---
+>     public int compareTo(SegmentSignature o) {        return name.compareTo(o.name);

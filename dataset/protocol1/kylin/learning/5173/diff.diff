@@ -1,0 +1,4 @@
+230c230
+<                 excludes[i] = StringUtil.trimSuffix(excludes[i], "/");
+---
+>                 excludes[i] = StringUtil	.trimSuffix(excludes[i], "/");

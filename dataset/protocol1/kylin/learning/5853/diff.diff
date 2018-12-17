@@ -1,0 +1,4 @@
+214c214
+<     private boolean getInheriting(Result result) {
+---
+>     private boolean getInheriting(Result result ) {

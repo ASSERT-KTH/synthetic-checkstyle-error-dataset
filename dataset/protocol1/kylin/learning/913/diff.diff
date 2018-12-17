@@ -1,0 +1,4 @@
+58c58
+<         return new RecordComparator(new ComparatorEx<ByteArray>() {
+---
+>         return new RecordComparator(new ComparatorEx<ByteArray	>() {

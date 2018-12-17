@@ -1,0 +1,4 @@
+101c101
+<     protected void outputCuboid(long cuboidId, GridTable gridTable, ICuboidWriter output) throws IOException {
+---
+>     protected void outputCuboid(long cuboidId, GridTable gridTable,ICuboidWriter output) throws IOException {

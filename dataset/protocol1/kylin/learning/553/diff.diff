@@ -1,0 +1,5 @@
+173c173,174
+<         if (derived != null ? !Arrays.equals(derived, that.derived) : that.derived != null) {
+---
+>         if (derived != null ? !Arrays.equals(derived, that.derived) : that.derived != null) 
+> {

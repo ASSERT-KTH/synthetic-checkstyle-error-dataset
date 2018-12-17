@@ -1,0 +1,4 @@
+77c77
+<         logger.info("Copy {} from {} to {}", folder, src, dst);
+---
+>         logger.info ("Copy {} from {} to {}", folder, src, dst);

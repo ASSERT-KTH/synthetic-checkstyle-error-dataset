@@ -1,0 +1,5 @@
+83,84c83
+<         try {
+<             HybridCubeCLI.main(args.toArray(new String[args.size()]));
+---
+>         try {            HybridCubeCLI.main(args.toArray(new String[args.size()]));

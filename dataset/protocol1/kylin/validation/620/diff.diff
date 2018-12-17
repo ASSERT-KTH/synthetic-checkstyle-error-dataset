@@ -1,0 +1,4 @@
+407c407
+<         for (Draft d : getDraftManager().list(projectName)) {
+---
+>         for (Draft d : getDraftManager().list( projectName)) {

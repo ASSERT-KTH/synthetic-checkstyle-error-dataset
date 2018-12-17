@@ -1,0 +1,5 @@
+51,52c51
+<             DictionaryInfoSerializer ser = new DictionaryInfoSerializer();
+<             DictionaryInfo dictInfo = ser.deserialize(new DataInputStream(new FileInputStream(f)));
+---
+>             DictionaryInfoSerializer ser = new DictionaryInfoSerializer();            DictionaryInfo dictInfo = ser.deserialize(new DataInputStream(new FileInputStream(f)));

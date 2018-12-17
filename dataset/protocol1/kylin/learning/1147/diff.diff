@@ -1,0 +1,5 @@
+921,922c921
+<         Statement stat = null;
+<         ResultSet resultSet = null;
+---
+>         Statement stat = null;        ResultSet resultSet = null;

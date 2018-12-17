@@ -1,0 +1,4 @@
+250c250
+<             throw e;
+---
+>             throw e	;

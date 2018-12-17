@@ -1,0 +1,4 @@
+371c371
+<                 return this.compareTo(o) == 0;
+---
+>                 return this.compareTo(o) 	== 0;

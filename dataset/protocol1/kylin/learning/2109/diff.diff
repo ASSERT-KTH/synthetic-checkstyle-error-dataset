@@ -1,0 +1,5 @@
+30,31c30
+<     public ContentReader(Serializer<T> serializer) {
+<         this.serializer = serializer;
+---
+>     public ContentReader(Serializer<T> serializer) {        this.serializer = serializer;

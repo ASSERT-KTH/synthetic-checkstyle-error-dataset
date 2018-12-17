@@ -1,0 +1,4 @@
+259c259
+<     private boolean changeCubeStatus(String url) throws Exception {
+---
+>     private 	boolean changeCubeStatus(String url) throws Exception {

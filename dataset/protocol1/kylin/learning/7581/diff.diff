@@ -1,0 +1,4 @@
+37c37
+< import org.apache.kylin.rest.security.ManagedUser;
+---
+> import org.apache	.kylin.rest.security.ManagedUser;

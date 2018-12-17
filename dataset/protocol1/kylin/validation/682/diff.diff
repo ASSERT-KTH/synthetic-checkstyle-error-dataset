@@ -1,0 +1,5 @@
+183,184c183
+<         checkSegmentOffset(realizationEntries);
+<         HybridInstance hybridInstance = HybridInstance.create(kylinConfig, hybridName, realizationEntries);
+---
+>         checkSegmentOffset(realizationEntries);        HybridInstance hybridInstance = HybridInstance.create(kylinConfig, hybridName, realizationEntries);

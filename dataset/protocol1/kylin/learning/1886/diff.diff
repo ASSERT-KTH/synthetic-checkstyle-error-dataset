@@ -1,0 +1,5 @@
+60c60,61
+<             throw new IllegalArgumentException("dictionary cannot be null");
+---
+>             throw new IllegalArgumentException
+> ("dictionary cannot be null");

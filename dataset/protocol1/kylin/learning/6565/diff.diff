@@ -1,0 +1,4 @@
+35c35
+<             cubeInstance.setUuid(uuid);
+---
+>             cubeInstance.setUuid (uuid);

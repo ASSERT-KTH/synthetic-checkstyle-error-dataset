@@ -1,0 +1,5 @@
+160,161c160
+<         getCubeDescManager().reloadCubeDescLocal(cube);
+<         logger.info("reload cubeDesc cache done");
+---
+>         getCubeDescManager().reloadCubeDescLocal(cube);        logger.info("reload cubeDesc cache done");

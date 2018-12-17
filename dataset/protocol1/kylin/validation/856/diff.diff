@@ -1,0 +1,5 @@
+37c37,38
+<                                 : new BigDecimal(number.doubleValue());
+---
+>                                 : new BigDecimal
+> (number.doubleValue());

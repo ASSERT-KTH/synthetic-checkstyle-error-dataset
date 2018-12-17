@@ -1,0 +1,5 @@
+47c47,48
+<         for (Option option : commandLine.getOptions()) {
+---
+>         for (Option option : commandLine.getOptions()) 
+> {

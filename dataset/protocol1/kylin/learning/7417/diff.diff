@@ -1,0 +1,4 @@
+138c138
+<             long bit = 1L << index;
+---
+>             long bit = 1L << index	;

@@ -1,0 +1,5 @@
+51,52c51
+<     public void setOffset(long offset) {
+<         this.offset = offset;
+---
+>     public void setOffset(long offset) {        this.offset = offset;

@@ -1,0 +1,5 @@
+198,199c198
+<         NavigableSet<String> result = store.listResources(path);
+<         System.out.println("" + result);
+---
+>         NavigableSet<String> result = store.listResources(path);        System.out.println("" + result);

@@ -1,0 +1,5 @@
+41c41,42
+<             System.exit(0);
+---
+>             System.exit
+> (0);

@@ -1,0 +1,4 @@
+36c36
+<                         : number instanceof Long ? new BigDecimal(number.longValue())
+---
+>                         : number 	instanceof Long ? new BigDecimal(number.longValue())

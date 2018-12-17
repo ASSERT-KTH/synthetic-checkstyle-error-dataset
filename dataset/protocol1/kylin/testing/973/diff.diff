@@ -1,0 +1,5 @@
+267,268c267
+<             if (this.useDictionary == true) {
+<                 this.dict = new TrieDictionary<String>();
+---
+>             if (this.useDictionary == true) {                this.dict = new TrieDictionary<String>();

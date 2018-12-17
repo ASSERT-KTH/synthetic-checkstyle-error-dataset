@@ -1,0 +1,4 @@
+154c154
+<             DictionaryManager dictionaryManager = DictionaryManager.getInstance(cubeSegment.getCubeDesc().getConfig());
+---
+>             DictionaryManager dictionaryManager = DictionaryManager.getInstance(cubeSegment	.getCubeDesc().getConfig());

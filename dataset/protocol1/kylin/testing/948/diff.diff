@@ -1,0 +1,4 @@
+84c84
+<         for (HybridInstance hybridInstance : hybridInstances) {
+---
+>         	for (HybridInstance hybridInstance : hybridInstances) {

@@ -1,0 +1,5 @@
+122c122,123
+<         HashMultimap<TblColRef, String> valueMap = HashMultimap.create();
+---
+>         HashMultimap<TblColRef, String> valueMap = HashMultimap.create
+> ();

@@ -1,0 +1,4 @@
+59c59
+<         return new Pair<T1, T2>(a, b);
+---
+>         return new Pair<	T1, T2>(a, b);

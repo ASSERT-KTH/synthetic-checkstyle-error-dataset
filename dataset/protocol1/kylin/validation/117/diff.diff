@@ -1,0 +1,5 @@
+56,57c56
+<                     FixedLenHexDimEnc.ENCODING_NAME, IntegerDimEnc.ENCODING_NAME);
+<         } else {
+---
+>                     FixedLenHexDimEnc.ENCODING_NAME, IntegerDimEnc.ENCODING_NAME);        } else {

@@ -1,0 +1,5 @@
+40,41c40
+<         FileSystem fs = HadoopUtil.getFileSystem(basePath);
+<         List<Path> sliceList = new ArrayList<>();
+---
+>         FileSystem fs = HadoopUtil.getFileSystem(basePath);        List<Path> sliceList = new ArrayList<>();

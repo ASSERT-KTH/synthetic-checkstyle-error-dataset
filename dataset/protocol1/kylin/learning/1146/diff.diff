@@ -1,0 +1,5 @@
+163,164c163
+<     private List<CubeInstance> getCubeByHybrid(HybridInstance hybridInstance) {
+<         List<CubeInstance> cubeInstances = Lists.newArrayList();
+---
+>     private List<CubeInstance> getCubeByHybrid(HybridInstance hybridInstance) {        List<CubeInstance> cubeInstances = Lists.newArrayList();

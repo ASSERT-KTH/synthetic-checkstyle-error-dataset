@@ -1,0 +1,4 @@
+77c77
+<                         longestDepth = parentDepth + 1;
+---
+>                         longestDepth = parentDepth 	+ 1;

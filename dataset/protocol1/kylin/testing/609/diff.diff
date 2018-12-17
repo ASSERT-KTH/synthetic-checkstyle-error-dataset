@@ -1,0 +1,4 @@
+93c93
+<     @RequestMapping(value = "/table/{project}/{type}/{table}/{name}", method = {RequestMethod.POST}, produces = {"application/json"})
+---
+>     @RequestMapping(value = "/table/{project}/{type}/{table}/{name}", method = {RequestMethod.POST}	, produces = {"application/json"})

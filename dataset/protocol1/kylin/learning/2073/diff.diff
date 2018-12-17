@@ -1,0 +1,5 @@
+67,68c67
+<             return kafkaConfigs.subList(offset, kafkaConfigs.size());
+<         }
+---
+>             return kafkaConfigs.subList(offset, kafkaConfigs.size());        }

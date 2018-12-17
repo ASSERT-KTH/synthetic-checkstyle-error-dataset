@@ -1,0 +1,4 @@
+134c134
+<         ResourceStore store = TableMetadataManager.getInstance(this.config).getStore();
+---
+>         ResourceStore 	store = TableMetadataManager.getInstance(this.config).getStore();

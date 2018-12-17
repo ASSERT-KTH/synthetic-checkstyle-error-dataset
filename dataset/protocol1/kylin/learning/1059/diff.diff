@@ -1,0 +1,4 @@
+42c42
+<         this.maxSleepTimeMs = config.getResourceStoreReconnectMaxMs();
+---
+>         this.maxSleepTimeMs = config	.getResourceStoreReconnectMaxMs();

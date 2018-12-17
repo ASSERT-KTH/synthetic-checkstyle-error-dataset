@@ -1,0 +1,4 @@
+34c34
+<     public IllegalStateTranferException(String message, Throwable cause) {
+---
+>     public IllegalStateTranferException( String message, Throwable cause) {

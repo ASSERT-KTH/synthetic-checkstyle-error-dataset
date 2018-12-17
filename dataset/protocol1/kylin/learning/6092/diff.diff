@@ -1,0 +1,5 @@
+80,81c80
+<             result = RealizationSignature.CubeSignature.getCubeSignature(config, realizationName);
+<         }
+---
+>             result = RealizationSignature.CubeSignature.getCubeSignature(config, realizationName);        }

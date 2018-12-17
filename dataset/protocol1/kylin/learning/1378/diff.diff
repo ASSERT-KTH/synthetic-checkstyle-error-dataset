@@ -1,0 +1,4 @@
+705c705
+<     public void setOperationTimeout(int operationTimeout) {
+---
+>     public void setOperationTimeout (int operationTimeout) {

@@ -1,0 +1,4 @@
+38c38
+<         for (int i = 0; i < allColumns.trueBitCount(); i++) {
+---
+>         for (int i = 0; i < allColumns.trueBitCount(); i++ ) {

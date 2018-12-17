@@ -1,0 +1,4 @@
+63c63
+<         colSpecs.add(spec);
+---
+>         colSpecs.add( spec);

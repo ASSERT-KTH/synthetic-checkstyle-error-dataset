@@ -1,0 +1,4 @@
+68c68
+<         fixedLen = in.readShort();
+---
+>         fixedLen = in.readShort()	;

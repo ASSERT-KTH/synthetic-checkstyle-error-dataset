@@ -1,0 +1,5 @@
+76c76,77
+<             if (info.getCodeSystem().maxCodeLength(i) < spec.length)
+---
+>             if (info.getCodeSystem
+> ().maxCodeLength(i) < spec.length)

@@ -1,0 +1,5 @@
+28,29c28
+<     public DistributedLock lockForCurrentThread() {
+<         return lockForClient(threadProcessAndHost());
+---
+>     public DistributedLock lockForCurrentThread() {        return lockForClient(threadProcessAndHost());

@@ -1,0 +1,4 @@
+79c79
+<             BufferedReader br = new BufferedReader(new InputStreamReader(req.getInputStream(), "utf-8"));
+---
+>             BufferedReader br = new BufferedReader(new 	InputStreamReader(req.getInputStream(), "utf-8"));

@@ -1,0 +1,5 @@
+105c105,106
+<     private IRealization getRealization(KylinConfig config, String name) {
+---
+>     private IRealization getRealization
+> (KylinConfig config, String name) {

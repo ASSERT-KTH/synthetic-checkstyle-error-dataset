@@ -1,0 +1,4 @@
+148c148
+<             IReadableTable.TableSignature signature = new IReadableTable.TableSignature();
+---
+>             IReadableTable.TableSignature 	signature = new IReadableTable.TableSignature();

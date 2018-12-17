@@ -1,0 +1,4 @@
+111c111
+<                 throw new RuntimeException(String.format(Locale.ROOT, "Checking snapshot of %s failed.", lookup), th);
+---
+>                 throw new RuntimeException(String	.format(Locale.ROOT, "Checking snapshot of %s failed.", lookup), th);

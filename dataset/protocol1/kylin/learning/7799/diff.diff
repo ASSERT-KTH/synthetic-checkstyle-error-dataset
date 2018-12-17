@@ -1,0 +1,4 @@
+50c50
+<     public NavigableMap<Long, CuboidResult> getAllResult() {
+---
+>     	public NavigableMap<Long, CuboidResult> getAllResult() {

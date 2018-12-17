@@ -1,0 +1,4 @@
+75c75
+<         for (String resourceRoot : new String[] { ResourceStore.SNAPSHOT_RESOURCE_ROOT,
+---
+>         for (String resourceRoot : new String[] { ResourceStore.	SNAPSHOT_RESOURCE_ROOT,

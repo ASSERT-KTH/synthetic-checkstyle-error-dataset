@@ -1,0 +1,5 @@
+24,25c24
+< import org.apache.kylin.cube.cuboid.Cuboid;
+< import org.apache.kylin.dimension.DimensionEncoding;
+---
+> import org.apache.kylin.cube.cuboid.Cuboid;import org.apache.kylin.dimension.DimensionEncoding;

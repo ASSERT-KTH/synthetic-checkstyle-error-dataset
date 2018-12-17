@@ -1,0 +1,5 @@
+82,83c82
+<     public String getTestCreateSql() {
+<         return getSqlFromProperties("format.sql.test.create");
+---
+>     public String getTestCreateSql() {        return getSqlFromProperties("format.sql.test.create");

@@ -1,0 +1,4 @@
+31c31
+< public class SAMLUserDetailsService implements org.springframework.security.saml.userdetails.SAMLUserDetailsService {
+---
+> 	public class SAMLUserDetailsService implements org.springframework.security.saml.userdetails.SAMLUserDetailsService {

@@ -1,0 +1,4 @@
+200c200
+<             byte[] bytes = slice.buildTrieBytes();
+---
+>             byte[] bytes = slice.	buildTrieBytes();

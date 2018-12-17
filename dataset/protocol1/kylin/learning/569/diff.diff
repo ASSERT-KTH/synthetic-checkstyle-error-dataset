@@ -1,0 +1,4 @@
+955c955
+<         byte[] tcBytes = new byte[length - SIZEOF_INT];
+---
+>         byte	[] tcBytes = new byte[length - SIZEOF_INT];

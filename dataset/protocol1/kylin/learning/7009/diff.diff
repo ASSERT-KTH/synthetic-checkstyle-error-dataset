@@ -1,0 +1,5 @@
+1163,1164c1163
+<             if (measure.getFunction().getMeasureType().isMemoryHungry()) {
+<                 return true;
+---
+>             if (measure.getFunction().getMeasureType().isMemoryHungry()) {                return true;

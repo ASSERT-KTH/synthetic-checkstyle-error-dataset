@@ -1,0 +1,5 @@
+48,49c48
+<         SnapshotTable snapshot = snapshotMgr.rebuildSnapshot(SourceManager.createReadableTable(tableDesc, null), tableDesc, overwriteUUID);
+<         System.out.println("resource path updated: " + snapshot.getResourcePath());
+---
+>         SnapshotTable snapshot = snapshotMgr.rebuildSnapshot(SourceManager.createReadableTable(tableDesc, null), tableDesc, overwriteUUID);        System.out.println("resource path updated: " + snapshot.getResourcePath());

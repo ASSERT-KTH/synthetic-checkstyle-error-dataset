@@ -1,0 +1,4 @@
+37c37
+<     public static <T> T checkSame(Iterator<T> iterator) {
+---
+>     public static <T> T checkSame(Iterator<T> iterator) 	{

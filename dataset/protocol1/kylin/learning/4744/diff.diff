@@ -1,0 +1,4 @@
+176c176
+<             InMemCubeBuilder.processErrors(errors);
+---
+>             InMemCubeBuilder.processErrors( errors);

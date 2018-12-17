@@ -1,0 +1,5 @@
+42,43c42
+<             if (files == null) {
+<                 return;
+---
+>             if (files == null) {                return;

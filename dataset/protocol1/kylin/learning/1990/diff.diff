@@ -1,0 +1,4 @@
+48c48
+<         return values.iterator().next();
+---
+>         return values.iterator().	next();

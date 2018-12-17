@@ -1,0 +1,4 @@
+31c31
+<     void serialize(T value, ByteBuffer out);
+---
+>     void 	serialize(T value, ByteBuffer out);

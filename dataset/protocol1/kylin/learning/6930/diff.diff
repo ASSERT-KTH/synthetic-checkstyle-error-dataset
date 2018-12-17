@@ -1,0 +1,5 @@
+101c101,102
+<         } else if ("BCrypt".equalsIgnoreCase(encryptMethod)) {
+---
+>         } else if ("BCrypt".equalsIgnoreCase
+> (encryptMethod)) {

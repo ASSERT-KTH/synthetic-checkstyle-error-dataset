@@ -1,0 +1,5 @@
+48,49c48
+<         } catch (Throwable ex) {
+<             logger.warn("Failed to get zookeeper connect string from HBase configuration", ex);
+---
+>         } catch (Throwable ex) {            logger.warn("Failed to get zookeeper connect string from HBase configuration", ex);

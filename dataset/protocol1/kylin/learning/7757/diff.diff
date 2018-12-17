@@ -1,0 +1,4 @@
+173c173
+<         DimensionEncoding[] dimEncs = new DimensionEncoding[dims.size()];
+---
+>         DimensionEncoding[] dimEncs = new DimensionEncoding[dims.size ()];

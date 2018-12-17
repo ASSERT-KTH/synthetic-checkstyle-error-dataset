@@ -1,0 +1,4 @@
+41c41
+<     private static MailTemplateProvider DEFAULT_INSTANCE = new MailTemplateProvider();
+---
+>     private static MailTemplateProvider DEFAULT_INSTANCE = new MailTemplateProvider ();

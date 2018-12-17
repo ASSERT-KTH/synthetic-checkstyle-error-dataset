@@ -1,0 +1,4 @@
+61c61
+<         } else if (AclPermission.MANAGEMENT.equals(p)) {
+---
+>         } else if (AclPermission.MANAGEMENT	.equals(p)) {

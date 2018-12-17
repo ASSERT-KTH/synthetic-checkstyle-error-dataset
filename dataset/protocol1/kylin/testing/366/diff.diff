@@ -1,0 +1,4 @@
+39c39
+< public class RowKeyDesc implements java.io.Serializable {
+---
+> public class RowKeyDesc implements java.io.Serializable 	{

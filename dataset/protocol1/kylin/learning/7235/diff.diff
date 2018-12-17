@@ -1,0 +1,4 @@
+23c23
+< public class JobOptimizeRequest {
+---
+> public class 	JobOptimizeRequest {

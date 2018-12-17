@@ -1,0 +1,5 @@
+28,29c28
+<     public final  GridTable table;
+<     public final int nRows;
+---
+>     public final  GridTable table;    public final int nRows;

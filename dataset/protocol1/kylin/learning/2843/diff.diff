@@ -1,0 +1,5 @@
+120,121c120
+<             if (getConfig().isQueryCacheSignatureEnabled()) {
+<                 logger.info("cleaning cache for project " + project + " (currently remove nothing)");
+---
+>             if (getConfig().isQueryCacheSignatureEnabled()) {                logger.info("cleaning cache for project " + project + " (currently remove nothing)");

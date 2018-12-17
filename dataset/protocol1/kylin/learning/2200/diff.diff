@@ -1,0 +1,5 @@
+79,80c79
+<     public int getTotalBudgetMB() {
+<         return totalBudgetMB;
+---
+>     public int getTotalBudgetMB() {        return totalBudgetMB;

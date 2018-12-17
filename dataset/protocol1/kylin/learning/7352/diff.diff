@@ -1,0 +1,5 @@
+100,101c100
+<     public static String dropSuffix(String str, String suffix) {
+<         if (str.endsWith(suffix))
+---
+>     public static String dropSuffix(String str, String suffix) {        if (str.endsWith(suffix))

@@ -1,0 +1,4 @@
+149c149
+<         double sec = (double) (t - genTime) / 1000;
+---
+>         double sec = (double) ( t - genTime) / 1000;

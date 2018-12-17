@@ -1,0 +1,5 @@
+75,76c75
+<         this.cubeName = cubeName;
+<         this.cubeDescData = cubeDescData;
+---
+>         this.cubeName = cubeName;        this.cubeDescData = cubeDescData;

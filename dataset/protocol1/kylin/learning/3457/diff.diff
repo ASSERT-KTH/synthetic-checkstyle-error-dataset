@@ -1,0 +1,4 @@
+57c57
+<                     logger.info("Running initial task: " + taskClass);
+---
+>                     logger.info ("Running initial task: " + taskClass);

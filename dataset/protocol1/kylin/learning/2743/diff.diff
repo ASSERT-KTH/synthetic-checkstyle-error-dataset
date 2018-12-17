@@ -1,0 +1,4 @@
+74c74
+<         this.setColumns(table.getColumns());
+---
+>         this.setColumns(table.getColumns() );

@@ -1,0 +1,5 @@
+30,31c30
+<         while (iterator.hasNext()) {
+<             Number element = iterator.next();
+---
+>         while (iterator.hasNext()) {            Number element = iterator.next();

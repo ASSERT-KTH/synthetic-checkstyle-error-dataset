@@ -1,0 +1,4 @@
+46c46
+<     public ExecuteResult(State state, String output) {
+---
+>     public 	ExecuteResult(State state, String output) {

@@ -1,0 +1,4 @@
+33c33
+<     public LockException(String message, Throwable cause) {
+---
+>     public LockException(String message, Throwable cause) 	{

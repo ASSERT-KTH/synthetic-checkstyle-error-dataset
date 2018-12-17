@@ -1,0 +1,4 @@
+39c39
+<                 System.out.println("Buffer size cannot hold the raw scans, resizing to 4 times : " + bufferSize);
+---
+>                 System.out.println("Buffer size cannot hold the raw scans, resizing to 4 times : " + bufferSize );

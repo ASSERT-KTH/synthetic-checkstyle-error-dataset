@@ -1,0 +1,4 @@
+302c302
+<     public final void setNotifyList(String notifications) {
+---
+>     	public final void setNotifyList(String notifications) {

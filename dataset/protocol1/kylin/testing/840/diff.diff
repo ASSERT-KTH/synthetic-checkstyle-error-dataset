@@ -1,0 +1,4 @@
+154c154
+<             return Bytes.compareTo(this.data, this.offset, this.length, o.data, o.offset, o.length);
+---
+>             return Bytes.compareTo(this.data, this.offset, this.length, o.data	, o.offset, o.length);

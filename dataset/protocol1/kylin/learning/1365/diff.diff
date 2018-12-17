@@ -1,0 +1,4 @@
+66c66
+<     public void listDictSlicePath(FileSystem fs, FileStatus path, List<Path> list) throws IOException {
+---
+>     public void listDictSlicePath(FileSystem 	fs, FileStatus path, List<Path> list) throws IOException {

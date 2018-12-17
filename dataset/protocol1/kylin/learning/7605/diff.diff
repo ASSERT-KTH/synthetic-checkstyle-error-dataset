@@ -1,0 +1,5 @@
+31c31,32
+<             msg.set(Message.getInstance());
+---
+>             msg.set
+> (Message.getInstance());

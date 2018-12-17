@@ -1,0 +1,5 @@
+158,159c158
+<     public String getProjectOfModel(String modelName) {
+<         for (ProjectInstance p : getProjectManager().listAllProjects()) {
+---
+>     public String getProjectOfModel(String modelName) {        for (ProjectInstance p : getProjectManager().listAllProjects()) {

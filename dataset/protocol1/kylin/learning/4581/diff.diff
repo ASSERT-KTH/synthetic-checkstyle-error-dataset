@@ -1,0 +1,5 @@
+770,771c770
+<         for (Draft d : listCubeDrafts(cubeName, null, projectName, true)) {
+<             return d;
+---
+>         for (Draft d : listCubeDrafts(cubeName, null, projectName, true)) {            return d;

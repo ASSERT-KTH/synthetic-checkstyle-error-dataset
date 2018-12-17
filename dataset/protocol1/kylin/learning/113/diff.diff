@@ -1,0 +1,5 @@
+50,51c50
+<         setOwner(dataModelDesc.getOwner());
+<         setDraft(dataModelDesc.isDraft());
+---
+>         setOwner(dataModelDesc.getOwner());        setDraft(dataModelDesc.isDraft());

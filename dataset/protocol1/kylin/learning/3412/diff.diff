@@ -1,0 +1,4 @@
+158c158
+<     public int[] getMetricsIndexes(Collection<FunctionDesc> metrics) {
+---
+>     public int[] getMetricsIndexes(Collection<	FunctionDesc> metrics) {

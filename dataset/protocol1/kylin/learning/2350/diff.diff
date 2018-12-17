@@ -1,0 +1,4 @@
+37c37
+<     public void log(String message) {
+---
+>     public void log(String message) 	{

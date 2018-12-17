@@ -1,0 +1,4 @@
+65c65
+<     abstract public String[] decode(R result);
+---
+>     abstract public String[] decode (R result);

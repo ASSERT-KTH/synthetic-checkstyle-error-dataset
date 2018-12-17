@@ -1,0 +1,4 @@
+39c39
+<                 "org.apache.kylin.storage.hbase.lookup.HBaseLookupProvider");
+---
+>                 "org.apache.kylin.storage.hbase.lookup.HBaseLookupProvider")	;

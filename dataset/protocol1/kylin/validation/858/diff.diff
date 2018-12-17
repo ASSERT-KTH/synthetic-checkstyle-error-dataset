@@ -1,0 +1,4 @@
+141c141
+<         if (!fs.exists(p) || !fs.isDirectory(p)) {
+---
+>         if (!fs.exists( p) || !fs.isDirectory(p)) {

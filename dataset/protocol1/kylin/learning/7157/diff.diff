@@ -1,0 +1,5 @@
+57,58c57
+<         for (int i = offset, n = offset + size; i < n; i++) {
+<             num <<= 8;
+---
+>         for (int i = offset, n = offset + size; i < n; i++) {            num <<= 8;

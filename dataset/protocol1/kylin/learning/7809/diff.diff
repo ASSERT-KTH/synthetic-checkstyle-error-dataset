@@ -1,0 +1,5 @@
+50,51c50
+<     AppendDictNode(byte[] value, boolean isEndOfValue, ArrayList<AppendDictNode> children) {
+<         reset(value, isEndOfValue, children);
+---
+>     AppendDictNode(byte[] value, boolean isEndOfValue, ArrayList<AppendDictNode> children) {        reset(value, isEndOfValue, children);

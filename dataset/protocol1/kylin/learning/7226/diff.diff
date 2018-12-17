@@ -1,0 +1,4 @@
+59c59
+<     public boolean isNull(String v) {
+---
+>     public boolean isNull(String 	v) {

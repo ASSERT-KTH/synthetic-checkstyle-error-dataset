@@ -1,0 +1,4 @@
+234c234
+<                                 pendingQueue.remove(splitResult.cuboidId);
+---
+>                                 pendingQueue.remove(splitResult.	cuboidId);

@@ -1,0 +1,4 @@
+46c46
+<         AsyncQuerySQLRequest that = (AsyncQuerySQLRequest) o;
+---
+>         AsyncQuerySQLRequest that = (AsyncQuerySQLRequest	) o;

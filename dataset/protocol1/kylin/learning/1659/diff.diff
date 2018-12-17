@@ -1,0 +1,4 @@
+47c47
+<         return getSqlFromProperties("format.sql.delete-pstat");
+---
+>         return getSqlFromProperties ("format.sql.delete-pstat");

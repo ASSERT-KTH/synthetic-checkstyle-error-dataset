@@ -1,0 +1,4 @@
+149c149
+<             for (ProjectInstance projectInstance : readableProjects) {
+---
+>             for (ProjectInstance projectInstance : readableProjects) 	{

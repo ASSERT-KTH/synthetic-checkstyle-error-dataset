@@ -1,0 +1,5 @@
+46,47c46
+<     public Dictionary<String> getDictionary(TblColRef col) {
+<         return dimEncMap.getDictionary(col);
+---
+>     public Dictionary<String> getDictionary(TblColRef col) {        return dimEncMap.getDictionary(col);

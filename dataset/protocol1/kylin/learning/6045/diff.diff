@@ -1,0 +1,4 @@
+40c40
+<         long hash = hashFunc.hashLong(longValue).asLong();
+---
+>         long hash = hashFunc.hashLong(longValue).	asLong();

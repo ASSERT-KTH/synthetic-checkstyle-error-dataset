@@ -1,0 +1,5 @@
+128,129c128
+<         } catch (Throwable e) {
+<             logger.error("Failed to load Hive Table", e);
+---
+>         } catch (Throwable e) {            logger.error("Failed to load Hive Table", e);

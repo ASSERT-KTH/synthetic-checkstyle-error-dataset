@@ -1,0 +1,5 @@
+1356,1357c1356
+<     public static byte[] add(final byte[] a, final byte[] b, final byte[] c) {
+<         byte[] result = new byte[a.length + b.length + c.length];
+---
+>     public static byte[] add(final byte[] a, final byte[] b, final byte[] c) {        byte[] result = new byte[a.length + b.length + c.length];

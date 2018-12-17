@@ -1,0 +1,5 @@
+244c244,245
+<         return tableService.getLookupTableSnapshots(project, tableName);
+---
+>         return tableService.getLookupTableSnapshots
+> (project, tableName);

@@ -1,0 +1,5 @@
+48c48,49
+<     public final static Comparator<Long> cuboidSelectComparator = new Comparator<Long>() {
+---
+>     public final static Comparator<Long> cuboidSelectComparator = new Comparator<Long>
+> () {

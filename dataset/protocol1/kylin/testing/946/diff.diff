@@ -1,0 +1,4 @@
+298c298
+<         GTAggregateScanner aggregationScanner = new GTAggregateScanner(baseInput, req);
+---
+>         	GTAggregateScanner aggregationScanner = new GTAggregateScanner(baseInput, req);

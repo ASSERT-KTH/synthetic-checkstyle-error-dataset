@@ -1,0 +1,5 @@
+75,76c75
+<     public IGTWriter append() {
+<         return new Writer();
+---
+>     public IGTWriter append() {        return new Writer();

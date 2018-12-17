@@ -1,0 +1,4 @@
+63c63
+<     public TblColRef getResuseColumnRef() {
+---
+>     public TblColRef 	getResuseColumnRef() {

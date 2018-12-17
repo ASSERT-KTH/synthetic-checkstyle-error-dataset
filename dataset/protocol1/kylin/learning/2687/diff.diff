@@ -1,0 +1,5 @@
+48,49c48
+<         this.rowKeySplitter = new RowKeySplitter(cubeSegment);
+<         this.colIO = new RowKeyColumnIO(cubeSegment.getDimensionEncodingMap());
+---
+>         this.rowKeySplitter = new RowKeySplitter(cubeSegment);        this.colIO = new RowKeyColumnIO(cubeSegment.getDimensionEncodingMap());

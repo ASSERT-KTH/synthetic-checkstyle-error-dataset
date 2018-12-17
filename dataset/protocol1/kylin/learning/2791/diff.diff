@@ -1,0 +1,5 @@
+100,101c100
+<                 return false;
+<         } else if (!description.equals(other.description))
+---
+>                 return false;        } else if (!description.equals(other.description))

@@ -1,0 +1,4 @@
+98c98
+<         Broadcaster.getInstance(getConfig()).registerStaticListener(cacheSyncListener, "cube");
+---
+>         Broadcaster.getInstance(getConfig()).registerStaticListener (cacheSyncListener, "cube");

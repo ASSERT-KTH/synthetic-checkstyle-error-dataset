@@ -1,0 +1,5 @@
+113,114c113
+<             curKey = AppendDictSliceKey.wrap(newRoot.firstValue());
+<             sliceFileMap.put(curKey, null);
+---
+>             curKey = AppendDictSliceKey.wrap(newRoot.firstValue());            sliceFileMap.put(curKey, null);

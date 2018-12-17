@@ -1,0 +1,4 @@
+32c32
+<         if ("rebuild".equals(args[0]))
+---
+>         if ("rebuild".	equals(args[0]))

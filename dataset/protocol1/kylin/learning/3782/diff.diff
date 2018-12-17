@@ -1,0 +1,4 @@
+46c46
+<     private String storageType;
+---
+>     private 	String storageType;

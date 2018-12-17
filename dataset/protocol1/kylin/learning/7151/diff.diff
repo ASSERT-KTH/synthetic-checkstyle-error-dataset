@@ -1,0 +1,5 @@
+71c71,72
+<         IDimensionEncodingMap dimEncoding = new CubeDimEncMap(cubeSeg);
+---
+>         IDimensionEncodingMap dimEncoding = new CubeDimEncMap
+> (cubeSeg);

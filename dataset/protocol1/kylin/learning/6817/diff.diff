@@ -1,0 +1,5 @@
+73,74c73
+<     public KafkaConfig createKafkaConfig(KafkaConfig config, String project) throws IOException {
+<         aclEvaluate.checkProjectAdminPermission(project);
+---
+>     public KafkaConfig createKafkaConfig(KafkaConfig config, String project) throws IOException {        aclEvaluate.checkProjectAdminPermission(project);

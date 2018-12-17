@@ -1,0 +1,4 @@
+69c69
+<         Map<String, String> confProps = new HashMap<>();
+---
+>         Map<String, String	> confProps = new HashMap<>();

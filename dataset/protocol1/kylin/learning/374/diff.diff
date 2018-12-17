@@ -1,0 +1,5 @@
+387,388c387
+<         IReadableTable hiveTable = SourceManager.createReadableTable(tableDesc, null);
+<         TableSignature signature = hiveTable.getSignature();
+---
+>         IReadableTable hiveTable = SourceManager.createReadableTable(tableDesc, null);        TableSignature signature = hiveTable.getSignature();

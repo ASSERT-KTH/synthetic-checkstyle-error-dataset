@@ -1,0 +1,4 @@
+306c306
+<                 checkRet.append(" can't be removed, It is referred in Cubes: ");
+---
+>                 checkRet.append( " can't be removed, It is referred in Cubes: ");

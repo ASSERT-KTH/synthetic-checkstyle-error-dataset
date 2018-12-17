@@ -1,0 +1,5 @@
+114,115c114
+<         ByteArray cuboidIdSplit = new ByteArray(bytes, offset, RowConstants.ROWKEY_CUBOIDID_LEN);
+<         this.splitBuffers[this.bufferSize++] = cuboidIdSplit;
+---
+>         ByteArray cuboidIdSplit = new ByteArray(bytes, offset, RowConstants.ROWKEY_CUBOIDID_LEN);        this.splitBuffers[this.bufferSize++] = cuboidIdSplit;

@@ -1,0 +1,4 @@
+266c266
+<         return getOnTreeParents(0L, cubeDesc.getAggregationGroups());
+---
+>         return getOnTreeParents( 0L, cubeDesc.getAggregationGroups());

@@ -1,0 +1,5 @@
+40,41c40
+<     public int getCode() {
+<         return code;
+---
+>     public int getCode() {        return code;

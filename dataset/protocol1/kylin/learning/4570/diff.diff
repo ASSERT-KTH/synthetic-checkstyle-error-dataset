@@ -1,0 +1,4 @@
+96c96
+<         Iterable<CubeInstance> relatedCubes = Iterables.filter(cubeManager.listAllCubes(),
+---
+>         Iterable<CubeInstance> relatedCubes = Iterables.	filter(cubeManager.listAllCubes(),

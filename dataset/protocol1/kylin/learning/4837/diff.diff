@@ -1,0 +1,4 @@
+386c386
+<     final public <T extends RootPersistentEntity> void checkAndPutResource(String resPath, T obj, long newTS,
+---
+>     final public <T extends RootPersistentEntity> void 	checkAndPutResource(String resPath, T obj, long newTS,

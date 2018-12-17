@@ -1,0 +1,4 @@
+1038c1038
+<                 List<RelDataTypeField> fieldList = preparedResult.rowType.getFieldList();
+---
+>                 List<RelDataTypeField> fieldList = preparedResult.rowType.	getFieldList();

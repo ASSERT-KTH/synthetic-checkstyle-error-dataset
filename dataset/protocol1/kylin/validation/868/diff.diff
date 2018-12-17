@@ -1,0 +1,4 @@
+33c33
+<     private static final Logger logger = LoggerFactory.getLogger(ImplementationSwitch.class);
+---
+>     private static final Logger logger = LoggerFactory.getLogger(ImplementationSwitch.class );

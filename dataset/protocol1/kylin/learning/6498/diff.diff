@@ -1,0 +1,4 @@
+291c291
+<     public static void writeUTFString(String str, ByteBuffer out) {
+---
+>     	public static void writeUTFString(String str, ByteBuffer out) {

@@ -1,0 +1,5 @@
+110c110,111
+<                     entry.getCallTimeMs(), entry.getSkippedRows(), entry.getScannedRows(), entry.getReturnedRows(),
+---
+>                     entry.getCallTimeMs(), entry.getSkippedRows(), entry.getScannedRows
+> (), entry.getReturnedRows(),

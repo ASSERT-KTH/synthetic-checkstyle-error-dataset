@@ -1,0 +1,4 @@
+113c113
+<     @RequestMapping(value = "/saved_queries/{id}", method = RequestMethod.DELETE, produces = { "application/json" })
+---
+>     @RequestMapping(value = "/saved_queries/{id}",method = RequestMethod.DELETE, produces = { "application/json" })

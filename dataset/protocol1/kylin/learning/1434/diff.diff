@@ -1,0 +1,4 @@
+42c42
+<     public static void compressZipFile(String sourceDir, String zipFileName) throws IOException, ArchiveException {
+---
+>     public static void compressZipFile(String sourceDir, 	String zipFileName) throws IOException, ArchiveException {

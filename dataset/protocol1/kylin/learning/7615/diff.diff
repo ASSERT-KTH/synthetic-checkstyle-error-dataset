@@ -1,0 +1,4 @@
+96c96
+<                     listener.onLogEvent(key, info);
+---
+>                     listener.onLogEvent( key, info);

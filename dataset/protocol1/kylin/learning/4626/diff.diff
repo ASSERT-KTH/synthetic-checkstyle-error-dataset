@@ -1,0 +1,4 @@
+68c68
+<     public void setOffset(Integer offset) {
+---
+>     public void setOffset(Integer offset) 	{

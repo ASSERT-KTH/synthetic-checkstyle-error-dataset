@@ -1,0 +1,4 @@
+64c64
+<         allDatatypes.addAll(DataType.STRING_FAMILY);
+---
+>         allDatatypes.addAll(DataType.STRING_FAMILY)	;

@@ -1,0 +1,5 @@
+47c47,48
+<         buf.append("java.vendor:").append(System.getProperty("java.vendor"));
+---
+>         buf.append("java.vendor:").append(System.getProperty
+> ("java.vendor"));

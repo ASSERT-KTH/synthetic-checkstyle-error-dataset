@@ -1,0 +1,5 @@
+47,48c47
+<         QueryMetricsFacade.init();
+<         QueryMetrics2Facade.init();
+---
+>         QueryMetricsFacade.init();        QueryMetrics2Facade.init();

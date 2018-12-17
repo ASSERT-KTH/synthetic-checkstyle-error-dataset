@@ -1,0 +1,4 @@
+419c419
+<         return dictionaries == null ? null : Collections.unmodifiableList(dictionaries);
+---
+>         return dictionaries == null 	? null : Collections.unmodifiableList(dictionaries);

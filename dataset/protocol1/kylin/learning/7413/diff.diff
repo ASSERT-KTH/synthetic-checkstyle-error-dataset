@@ -1,0 +1,5 @@
+103,104c103
+<             BCryptPasswordEncoder bCryptPasswordEncoder = new BCryptPasswordEncoder();
+<             System.out.println(encryptMethod + " encrypted password is: ");
+---
+>             BCryptPasswordEncoder bCryptPasswordEncoder = new BCryptPasswordEncoder();            System.out.println(encryptMethod + " encrypted password is: ");

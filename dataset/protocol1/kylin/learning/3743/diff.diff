@@ -1,0 +1,4 @@
+56c56
+<         PropertiesConfiguration tempConfig = new PropertiesConfiguration();
+---
+>         PropertiesConfiguration 	tempConfig = new PropertiesConfiguration();

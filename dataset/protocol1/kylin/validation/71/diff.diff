@@ -1,0 +1,4 @@
+260c260
+<         KylinConfig config = KylinConfig.getInstanceFromEnv();
+---
+>         	KylinConfig config = KylinConfig.getInstanceFromEnv();

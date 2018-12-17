@@ -1,0 +1,4 @@
+40c40
+<                 bytesWritten += (n < 0 ? Integer.MAX_VALUE : n);
+---
+>                 bytesWritten += (n < 0 ? Integer.MAX_VALUE 	: n);

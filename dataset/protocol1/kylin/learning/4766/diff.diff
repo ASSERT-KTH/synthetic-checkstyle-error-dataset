@@ -1,0 +1,5 @@
+104,105c104
+<             try {
+<                 JoinDesc join = cubeSeg.getModel().getJoinsTree().getJoinByPKSide(lookup);
+---
+>             try {                JoinDesc join = cubeSeg.getModel().getJoinsTree().getJoinByPKSide(lookup);

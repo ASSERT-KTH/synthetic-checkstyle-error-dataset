@@ -1,0 +1,5 @@
+102,103c102
+<     public void setSecond(T2 b) {
+<         this.second = b;
+---
+>     public void setSecond(T2 b) {        this.second = b;

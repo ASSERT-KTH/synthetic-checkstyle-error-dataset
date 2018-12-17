@@ -1,0 +1,4 @@
+340c340
+<         logger.info("Calculating base cuboid {}", baseCuboidId);
+---
+>         	logger.info("Calculating base cuboid {}", baseCuboidId);

@@ -1,0 +1,4 @@
+90c90
+<         else if (offset == 0 && length == data.length)
+---
+>         else 	if (offset == 0 && length == data.length)

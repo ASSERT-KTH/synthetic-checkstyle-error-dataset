@@ -1,0 +1,5 @@
+246,247c246
+<             queryMetrics.incrQuerySuccessCount();
+<         } else {
+---
+>             queryMetrics.incrQuerySuccessCount();        } else {

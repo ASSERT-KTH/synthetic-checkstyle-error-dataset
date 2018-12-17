@@ -1,0 +1,4 @@
+49c49
+<         long hash = hashFunc.hashBytes(byteValues, offset, length).asLong();
+---
+>         long hash = hashFunc.hashBytes( byteValues, offset, length).asLong();

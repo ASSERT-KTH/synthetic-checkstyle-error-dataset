@@ -1,0 +1,4 @@
+523c523
+<         QueryMetrics2Facade.updateMetrics(sqlRequest, sqlResponse);
+---
+>         	QueryMetrics2Facade.updateMetrics(sqlRequest, sqlResponse);

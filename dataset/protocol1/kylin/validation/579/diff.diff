@@ -1,0 +1,4 @@
+78c78
+<         if (!DimensionEncodingFactory.isValidEncoding(this.encodingName))
+---
+>         if (!DimensionEncodingFactory	.isValidEncoding(this.encodingName))

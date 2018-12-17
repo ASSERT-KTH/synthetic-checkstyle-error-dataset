@@ -1,0 +1,4 @@
+68c68
+<     private static Map<String, String> loadXmlConfiguration(String filename, boolean checkExist) {
+---
+>     private static Map<String	, String> loadXmlConfiguration(String filename, boolean checkExist) {

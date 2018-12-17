@@ -1,0 +1,5 @@
+180,181c180
+<         metricsEvent.put(QueryCubePropertyEnum.CUBE.toString(), cubeName);
+<         metricsEvent.put(QueryCubePropertyEnum.SEGMENT.toString(), segmentName);
+---
+>         metricsEvent.put(QueryCubePropertyEnum.CUBE.toString(), cubeName);        metricsEvent.put(QueryCubePropertyEnum.SEGMENT.toString(), segmentName);

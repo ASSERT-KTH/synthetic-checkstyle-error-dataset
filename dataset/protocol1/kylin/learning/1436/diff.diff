@@ -1,0 +1,5 @@
+105,106c105
+<         for (GTRecord record : scanner) {
+<             output.write(cuboidId, record);
+---
+>         for (GTRecord record : scanner) {            output.write(cuboidId, record);

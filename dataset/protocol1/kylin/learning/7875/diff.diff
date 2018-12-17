@@ -1,0 +1,4 @@
+1706c1706
+<         System.arraycopy(bytes, 0, result, 0, bytes.length);
+---
+>         System.arraycopy(bytes, 0, result	, 0, bytes.length);

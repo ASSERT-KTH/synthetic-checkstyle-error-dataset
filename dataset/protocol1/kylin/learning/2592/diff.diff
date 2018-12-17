@@ -1,0 +1,4 @@
+71c71
+<             Arrays.fill(bytes, 0, RowConstants.ROWKEY_SHARDID_LEN, RowConstants.BYTE_ONE);
+---
+>             Arrays.fill(bytes	, 0, RowConstants.ROWKEY_SHARDID_LEN, RowConstants.BYTE_ONE);

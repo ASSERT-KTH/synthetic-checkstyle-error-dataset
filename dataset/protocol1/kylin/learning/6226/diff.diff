@@ -1,0 +1,5 @@
+140c140,141
+<         for (GTRecord rec : scanner) {
+---
+>         for (GTRecord rec : scanner) 
+> {

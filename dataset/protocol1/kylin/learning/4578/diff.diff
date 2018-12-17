@@ -1,0 +1,4 @@
+275c275
+<     final public RawResource getResource(String resPath) throws IOException {
+---
+>     final 	public RawResource getResource(String resPath) throws IOException {

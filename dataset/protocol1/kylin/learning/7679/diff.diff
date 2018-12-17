@@ -1,0 +1,5 @@
+84,85c84
+<     public static void writeUnsigned(int num, int size, ByteBuffer out) {
+<         int mask = 0xff << ((size - 1) * 8);
+---
+>     public static void writeUnsigned(int num, int size, ByteBuffer out) {        int mask = 0xff << ((size - 1) * 8);

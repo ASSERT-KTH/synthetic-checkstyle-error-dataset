@@ -1,0 +1,4 @@
+847c847
+<             for (long queryCount : hitFrequencyMap.values()) {
+---
+>             for (long queryCount : hitFrequencyMap.values() ) {

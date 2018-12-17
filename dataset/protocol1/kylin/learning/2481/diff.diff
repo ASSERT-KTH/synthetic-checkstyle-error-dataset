@@ -1,0 +1,4 @@
+903c903
+<         String hitMeasure = QueryCubePropertyEnum.WEIGHT_PER_HIT.toString();
+---
+>         String 	hitMeasure = QueryCubePropertyEnum.WEIGHT_PER_HIT.toString();

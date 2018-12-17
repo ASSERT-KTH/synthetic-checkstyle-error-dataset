@@ -1,0 +1,4 @@
+95c95
+<         StringBuilder buf = new StringBuilder();
+---
+>         StringBuilder buf = new StringBuilder ();

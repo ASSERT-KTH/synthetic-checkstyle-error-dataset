@@ -1,0 +1,4 @@
+128c128
+<                 NavigableSet<String> paths = store.listResources(ResourceStore.EXECUTE_OUTPUT_RESOURCE_ROOT);
+---
+>                 NavigableSet<String> 	paths = store.listResources(ResourceStore.EXECUTE_OUTPUT_RESOURCE_ROOT);

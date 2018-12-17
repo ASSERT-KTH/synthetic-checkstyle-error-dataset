@@ -1,0 +1,5 @@
+49,50c49
+<             getManager().addJobInfo(getId(), patternedLogger.getInfo());
+<             return result.getFirst() == 0 ? new ExecuteResult(ExecuteResult.State.SUCCEED, result.getSecond())
+---
+>             getManager().addJobInfo(getId(), patternedLogger.getInfo());            return result.getFirst() == 0 ? new ExecuteResult(ExecuteResult.State.SUCCEED, result.getSecond())

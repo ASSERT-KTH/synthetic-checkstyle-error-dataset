@@ -1,0 +1,5 @@
+48,49c48
+<                 corruptedSliceList.add(path);
+<             } else {
+---
+>                 corruptedSliceList.add(path);            } else {

@@ -1,0 +1,4 @@
+72c72
+<     protected String version = KylinVersion.getCurrentVersion().toString();
+---
+>     protected String version 	= KylinVersion.getCurrentVersion().toString();

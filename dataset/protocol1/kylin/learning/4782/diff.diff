@@ -1,0 +1,4 @@
+65c65
+< import org.apache.kylin.metadata.model.ColumnDesc;
+---
+> import org.apache.kylin.metadata.model.	ColumnDesc;

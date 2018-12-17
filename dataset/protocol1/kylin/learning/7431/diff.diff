@@ -1,0 +1,4 @@
+197c197
+<         Path[] result = new Path[fileStatus.length];
+---
+>         Path[] result = new Path[fileStatus.	length];

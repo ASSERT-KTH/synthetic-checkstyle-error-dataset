@@ -1,0 +1,4 @@
+570c570
+<     public void cancelJob(JobInstance job) throws IOException {
+---
+>     public void cancelJob( JobInstance job) throws IOException {

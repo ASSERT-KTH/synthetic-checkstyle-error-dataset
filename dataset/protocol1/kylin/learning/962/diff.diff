@@ -1,0 +1,5 @@
+39,40c39
+<         this.timestamp = timestamp;
+<         this.params = params;
+---
+>         this.timestamp = timestamp;        this.params = params;

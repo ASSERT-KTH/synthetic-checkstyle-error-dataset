@@ -1,0 +1,4 @@
+47c47
+<                 streamingConfigs.add(config);
+---
+>                 streamingConfigs.add(config );

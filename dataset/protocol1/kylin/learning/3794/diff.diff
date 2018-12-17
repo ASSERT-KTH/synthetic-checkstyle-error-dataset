@@ -1,0 +1,5 @@
+124c124,125
+<                 logger.error("Failed to auth user: " + authentication.getName(), e);
+---
+>                 logger.error("Failed to auth user: " + authentication.getName
+> (), e);

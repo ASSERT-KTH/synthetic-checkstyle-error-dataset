@@ -1,0 +1,4 @@
+264c264
+<         if (queryMetrics != null) {
+---
+>         if ( queryMetrics != null) {

@@ -1,0 +1,5 @@
+30,31c30
+<     public static JobTimeFilterEnum getByCode(int code) {
+<         for (JobTimeFilterEnum timeFilter : values()) {
+---
+>     public static JobTimeFilterEnum getByCode(int code) {        for (JobTimeFilterEnum timeFilter : values()) {

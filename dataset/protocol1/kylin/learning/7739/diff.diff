@@ -1,0 +1,4 @@
+71c71
+<         SnapshotTable obj = JsonUtil.readValue(json, SnapshotTable.class);
+---
+>         	SnapshotTable obj = JsonUtil.readValue(json, SnapshotTable.class);

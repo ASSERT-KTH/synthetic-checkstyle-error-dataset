@@ -1,0 +1,4 @@
+76c76
+<     public GeneralResponse getConfig() throws IOException {
+---
+>     public GeneralResponse getConfig() throws 	IOException {

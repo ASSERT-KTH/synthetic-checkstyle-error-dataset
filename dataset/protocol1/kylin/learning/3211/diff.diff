@@ -1,0 +1,5 @@
+78,79c78
+<             String event = matcher2.group(2);
+<             BufferedReader br = new BufferedReader(new InputStreamReader(req.getInputStream(), "utf-8"));
+---
+>             String event = matcher2.group(2);            BufferedReader br = new BufferedReader(new InputStreamReader(req.getInputStream(), "utf-8"));

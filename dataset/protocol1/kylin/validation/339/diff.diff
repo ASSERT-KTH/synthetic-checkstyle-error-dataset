@@ -1,0 +1,5 @@
+170,171c170
+<         for (Object[] req : reqs) {
+<             Preconditions.checkArgument(req.length == 3, "error access requests.");
+---
+>         for (Object[] req : reqs) {            Preconditions.checkArgument(req.length == 3, "error access requests.");

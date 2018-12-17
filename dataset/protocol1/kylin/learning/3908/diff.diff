@@ -1,0 +1,4 @@
+110c110
+<                     logger.debug(consumer + " waited " + (System.currentTimeMillis() - waitStart) + " ms on the " + requestMB + " MB request");
+---
+>                     logger.debug(consumer 	+ " waited " + (System.currentTimeMillis() - waitStart) + " ms on the " + requestMB + " MB request");

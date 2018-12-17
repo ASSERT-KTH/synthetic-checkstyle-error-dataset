@@ -1,0 +1,5 @@
+49c49,50
+<             getManager().addJobInfo(getId(), patternedLogger.getInfo());
+---
+>             getManager().addJobInfo
+> (getId(), patternedLogger.getInfo());

@@ -1,0 +1,4 @@
+70c70
+<     public boolean isValid(long requestCuboid) {
+---
+>     public boolean isValid(long requestCuboid) 	{

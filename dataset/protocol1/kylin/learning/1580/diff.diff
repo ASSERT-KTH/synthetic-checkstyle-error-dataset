@@ -1,0 +1,5 @@
+67,68c67
+<         HelpFormatter formatter = new HelpFormatter();
+<         formatter.printHelp(programName, options);
+---
+>         HelpFormatter formatter = new HelpFormatter();        formatter.printHelp(programName, options);

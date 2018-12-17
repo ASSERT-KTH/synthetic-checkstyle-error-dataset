@@ -1,0 +1,4 @@
+76c76
+<     public abstract String writeSlice(String workingDir, AppendDictSliceKey key, AppendDictNode slice) throws IOException;
+---
+>     public abstract String writeSlice(String workingDir, 	AppendDictSliceKey key, AppendDictNode slice) throws IOException;

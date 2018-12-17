@@ -1,0 +1,5 @@
+49,50c49
+<         super(msg, cause);
+<         this.code = code;
+---
+>         super(msg, cause);        this.code = code;

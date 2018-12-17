@@ -1,0 +1,4 @@
+184c184
+<         final DefaultOutput result = new DefaultOutput();
+---
+>         final DefaultOutput result 	= new DefaultOutput();

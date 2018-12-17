@@ -1,0 +1,5 @@
+64,65c64
+<     public String getDescription() {
+<         return description;
+---
+>     public String getDescription() {        return description;

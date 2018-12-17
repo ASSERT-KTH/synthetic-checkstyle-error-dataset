@@ -1,0 +1,5 @@
+44,45c44
+<         list.add(str.substring(offset));
+<         return list.toArray(new String[0]);
+---
+>         list.add(str.substring(offset));        return list.toArray(new String[0]);

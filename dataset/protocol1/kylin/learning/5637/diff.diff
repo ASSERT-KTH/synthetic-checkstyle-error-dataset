@@ -1,0 +1,5 @@
+71,72c71
+<     public void readFields(DataInput in) throws IOException {
+<         key = new byte[in.readInt()];
+---
+>     public void readFields(DataInput in) throws IOException {        key = new byte[in.readInt()];

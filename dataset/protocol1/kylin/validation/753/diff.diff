@@ -1,0 +1,4 @@
+84c84
+<             assert byteArray.array().length == byteArray.length();
+---
+>             assert byteArray.array()	.length == byteArray.length();

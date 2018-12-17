@@ -1,0 +1,4 @@
+51c51
+<     private static class ConsumerEntry {
+---
+>     private 	static class ConsumerEntry {

@@ -1,0 +1,4 @@
+646c646
+<         public int read(long diskOffset, byte[] bytes, int offset, int length) throws IOException {
+---
+>         public int read(long diskOffset, byte[] bytes, int offset, 	int length) throws IOException {

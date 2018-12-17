@@ -1,0 +1,5 @@
+1142,1143c1142
+<                                             .contains(jobName.toLowerCase(Locale.ROOT));
+<                                 }
+---
+>                                             .contains(jobName.toLowerCase(Locale.ROOT));                                }

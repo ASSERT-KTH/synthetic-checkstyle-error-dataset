@@ -1,0 +1,5 @@
+44c44,45
+<     public TreeCuboidScheduler(CubeDesc cubeDesc, List<Long> allCuboidIds, Comparator<Long> cuboidComparator) {
+---
+>     public TreeCuboidScheduler
+> (CubeDesc cubeDesc, List<Long> allCuboidIds, Comparator<Long> cuboidComparator) {

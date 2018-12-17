@@ -1,0 +1,5 @@
+118c118,119
+<     public static String writeValueAsIndentString(Object value) throws JsonProcessingException {
+---
+>     public static String writeValueAsIndentString
+> (Object value) throws JsonProcessingException {

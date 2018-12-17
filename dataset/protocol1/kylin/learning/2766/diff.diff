@@ -1,0 +1,5 @@
+307,308c307
+<             logger.error("The KafkaConfig definition is invalid.", e);
+<             updateRequest(streamingRequest, false, e.getMessage());
+---
+>             logger.error("The KafkaConfig definition is invalid.", e);            updateRequest(streamingRequest, false, e.getMessage());

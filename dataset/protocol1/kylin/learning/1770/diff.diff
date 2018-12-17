@@ -1,0 +1,4 @@
+98c98
+<         Iterable<String> parts = Splitter.on(CharMatcher.anyOf("[]=,")).split(canonicalName);
+---
+>         Iterable<String> parts = Splitter.on(CharMatcher.anyOf("[]=,")).split (canonicalName);

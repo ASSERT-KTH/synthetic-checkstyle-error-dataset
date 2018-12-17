@@ -1,0 +1,4 @@
+88c88
+<     protected NavigableSet<String> listResourcesImpl(String folderPath) throws IOException {
+---
+>     protected 	NavigableSet<String> listResourcesImpl(String folderPath) throws IOException {

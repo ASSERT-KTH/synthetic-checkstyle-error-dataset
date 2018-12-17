@@ -1,0 +1,4 @@
+80c80
+<         resultRowCount = registry.newRate("ResultRowCount", "", true);
+---
+>         	resultRowCount = registry.newRate("ResultRowCount", "", true);

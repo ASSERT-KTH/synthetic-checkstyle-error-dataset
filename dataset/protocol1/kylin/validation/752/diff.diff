@@ -1,0 +1,4 @@
+83c83
+<     abstract public void encode(ByteArray bodyBytes, ByteArray outputBuf);
+---
+>     	abstract public void encode(ByteArray bodyBytes, ByteArray outputBuf);

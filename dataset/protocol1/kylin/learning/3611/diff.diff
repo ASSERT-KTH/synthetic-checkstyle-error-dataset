@@ -1,0 +1,4 @@
+33c33
+<     public JDBCResourceSQL(String dialect, String tableName, String metaTableKey, String metaTableTs, String metaTableContent) {
+---
+>     public JDBCResourceSQL(String dialect, 	String tableName, String metaTableKey, String metaTableTs, String metaTableContent) {

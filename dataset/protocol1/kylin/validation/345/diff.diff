@@ -1,0 +1,4 @@
+45c45
+<         this.tableName = tableName;
+---
+>         this	.tableName = tableName;

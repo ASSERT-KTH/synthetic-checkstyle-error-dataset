@@ -1,0 +1,4 @@
+44c44
+<     protected static final org.slf4j.Logger logger = LoggerFactory.getLogger(SSHClient.class);
+---
+>     protected static final org.slf4j.	Logger logger = LoggerFactory.getLogger(SSHClient.class);

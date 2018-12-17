@@ -1,0 +1,4 @@
+43c43
+<     public Set<GrantedAuthority> getGroupMembershipRoles(String userDn, String username) {
+---
+>     public Set<	GrantedAuthority> getGroupMembershipRoles(String userDn, String username) {

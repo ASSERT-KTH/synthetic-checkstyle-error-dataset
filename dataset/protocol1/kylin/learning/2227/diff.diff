@@ -1,0 +1,5 @@
+87,88c87
+<                 r.remove(dim.col);
+<                 iters[level] = null;
+---
+>                 r.remove(dim.col);                iters[level] = null;

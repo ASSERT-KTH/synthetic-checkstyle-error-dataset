@@ -1,0 +1,5 @@
+41c41,42
+<     public SchedulerException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+---
+>     public SchedulerException
+> (String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {

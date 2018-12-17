@@ -1,0 +1,4 @@
+51c51
+<             this.code = ResponseCode.CODE_UNDEFINED;
+---
+>             this	.code = ResponseCode.CODE_UNDEFINED;

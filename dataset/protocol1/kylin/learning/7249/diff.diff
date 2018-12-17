@@ -1,0 +1,4 @@
+47c47
+<     private static void chopOff(File f, String annoPtn) throws IOException {
+---
+>     private static void chopOff(File f, String 	annoPtn) throws IOException {

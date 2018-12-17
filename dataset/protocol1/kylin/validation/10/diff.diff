@@ -1,0 +1,5 @@
+67,68c67
+<     public static <T> int compare(T[] a, T[] b, boolean[] ascending) {
+<         int r = 0;
+---
+>     public static <T> int compare(T[] a, T[] b, boolean[] ascending) {        int r = 0;

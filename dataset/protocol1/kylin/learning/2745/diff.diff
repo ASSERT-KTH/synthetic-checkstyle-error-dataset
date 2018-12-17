@@ -1,0 +1,5 @@
+33,34c33
+<     public PersistentException(String message, Throwable cause) {
+<         super(message, cause);
+---
+>     public PersistentException(String message, Throwable cause) {        super(message, cause);

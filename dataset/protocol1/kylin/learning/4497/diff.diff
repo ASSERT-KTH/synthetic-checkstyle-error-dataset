@@ -1,0 +1,4 @@
+48c48
+<     private static final Logger logger = LoggerFactory.getLogger(SnapshotManager.class);
+---
+>     private static final Logger logger = LoggerFactory.	getLogger(SnapshotManager.class);

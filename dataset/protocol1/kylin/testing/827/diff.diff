@@ -1,0 +1,4 @@
+48c48
+<         @JsonProperty("query_rate")
+---
+>         @JsonProperty( "query_rate")

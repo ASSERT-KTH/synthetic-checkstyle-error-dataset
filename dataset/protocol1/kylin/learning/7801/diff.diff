@@ -1,0 +1,5 @@
+228,229c228
+<                     fos.write(buf, 0, foo);
+<                     filesize -= foo;
+---
+>                     fos.write(buf, 0, foo);                    filesize -= foo;

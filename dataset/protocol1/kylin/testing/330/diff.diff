@@ -1,0 +1,5 @@
+147,148c147
+<                     logger.error("Failed to delete resource " + res, e);
+<                 }
+---
+>                     logger.error("Failed to delete resource " + res, e);                }

@@ -1,0 +1,4 @@
+60c60
+<         return dimEnc.decode(bytes, offset, length);
+---
+>         return dimEnc.decode( bytes, offset, length);

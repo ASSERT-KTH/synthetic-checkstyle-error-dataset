@@ -1,0 +1,4 @@
+27c27
+<     public static final String TYPE_INNER = "inner";
+---
+>     public static final String TYPE_INNER = "inner"	;

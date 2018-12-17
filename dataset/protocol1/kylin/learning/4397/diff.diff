@@ -1,0 +1,4 @@
+42c42
+<     public String getKeyEqualsSql() {
+---
+>     	public String getKeyEqualsSql() {

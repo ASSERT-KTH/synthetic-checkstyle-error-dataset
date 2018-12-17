@@ -1,0 +1,4 @@
+148c148
+<         logger.info("total CuboidResult count:" + result.size());
+---
+>         	logger.info("total CuboidResult count:" + result.size());

@@ -1,0 +1,4 @@
+26c26
+<     public static GTInfo newGTInfo(Cuboid cuboid, IDimensionEncodingMap dimEncMap) {
+---
+>     public static GTInfo 	newGTInfo(Cuboid cuboid, IDimensionEncodingMap dimEncMap) {

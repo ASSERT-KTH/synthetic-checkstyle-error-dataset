@@ -1,0 +1,5 @@
+115,116c115
+<                 splitLength = 0;
+<             } else {
+---
+>                 splitLength = 0;            } else {

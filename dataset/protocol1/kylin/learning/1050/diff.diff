@@ -1,0 +1,4 @@
+25c25
+< public abstract class ComparatorEx<T> implements Comparator<T> {
+---
+> public abstract class ComparatorEx<T> implements 	Comparator<T> {

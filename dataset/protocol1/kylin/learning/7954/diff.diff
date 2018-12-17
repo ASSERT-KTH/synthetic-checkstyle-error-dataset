@@ -1,0 +1,4 @@
+27c27
+<     public static final ByteArray CUT_ROW = new ByteArray(0);
+---
+>     	public static final ByteArray CUT_ROW = new ByteArray(0);

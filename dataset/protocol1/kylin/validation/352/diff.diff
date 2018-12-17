@@ -1,0 +1,5 @@
+200c200,201
+<         Path p = getRealHDFSPath(resPath);
+---
+>         Path p = getRealHDFSPath
+> (resPath);

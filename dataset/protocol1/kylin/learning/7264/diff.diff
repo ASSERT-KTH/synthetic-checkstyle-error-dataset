@@ -1,0 +1,4 @@
+53c53
+<         setRootFactTableName(dataModelDesc.getRootFactTableName());
+---
+>         setRootFactTableName( dataModelDesc.getRootFactTableName());

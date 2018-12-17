@@ -1,0 +1,5 @@
+50,51c50
+<                     allCuboidsBitSet[j][position] = i;
+<                     position++;
+---
+>                     allCuboidsBitSet[j][position] = i;                    position++;

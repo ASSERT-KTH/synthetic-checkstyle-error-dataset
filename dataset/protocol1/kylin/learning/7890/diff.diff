@@ -1,0 +1,5 @@
+99,100c99
+<                     public boolean apply(@Nullable CubeInstance cube) {
+<                         if (cube == null || cube.allowBrokenDescriptor()) {
+---
+>                     public boolean apply(@Nullable CubeInstance cube) {                        if (cube == null || cube.allowBrokenDescriptor()) {

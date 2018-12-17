@@ -1,0 +1,4 @@
+51c51
+<         this.config = config;
+---
+>         this.config = config	;

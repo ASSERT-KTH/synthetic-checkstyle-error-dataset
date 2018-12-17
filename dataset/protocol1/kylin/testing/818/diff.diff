@@ -1,0 +1,4 @@
+31c31
+<     private Map<Integer, Long> sourcePartitionOffsetStart = Maps.newHashMap();
+---
+>     private Map<	Integer, Long> sourcePartitionOffsetStart = Maps.newHashMap();

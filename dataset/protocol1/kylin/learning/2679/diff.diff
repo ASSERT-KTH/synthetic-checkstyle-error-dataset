@@ -1,0 +1,5 @@
+48,49c48
+<                 } else if (isMinNull(b.array())) {
+<                     return 1;
+---
+>                 } else if (isMinNull(b.array())) {                    return 1;

@@ -1,0 +1,4 @@
+41c41
+<     public LockException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+---
+>     public LockException(String message, Throwable cause, boolean enableSuppression, boolean 	writableStackTrace) {

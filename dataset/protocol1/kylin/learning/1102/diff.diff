@@ -1,0 +1,4 @@
+43c43
+<     protected String getPath(KylinConfig kylinConfig) {
+---
+>     protected String getPath(KylinConfig kylinConfig) 	{

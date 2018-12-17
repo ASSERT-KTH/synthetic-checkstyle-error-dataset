@@ -1,0 +1,5 @@
+63c63,64
+<     private String getCell(int i, String[] flatRow) {
+---
+>     private String getCell(int i, String[] flatRow) 
+> {

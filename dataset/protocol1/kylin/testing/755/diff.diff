@@ -1,0 +1,4 @@
+99c99
+<     public void setAcceptPartial(boolean acceptPartial) {
+---
+>     public void setAcceptPartial( boolean acceptPartial) {

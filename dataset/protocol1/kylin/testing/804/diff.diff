@@ -1,0 +1,4 @@
+152c152
+<         logger.info("In Mem Cube Build2 start, " + cubeDesc.getName());
+---
+>         logger.info("In Mem Cube Build2 start, " + cubeDesc.getName ());

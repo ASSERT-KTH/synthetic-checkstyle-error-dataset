@@ -1,0 +1,4 @@
+39c39
+<             list.set(items.get(i), temp.get(i));
+---
+>             list.set(items	.get(i), temp.get(i));

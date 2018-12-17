@@ -1,0 +1,4 @@
+67c67
+<     public void setSourcePartitionOffsetEnd(Map<Integer, Long> sourcePartitionOffsetEnd) {
+---
+>     public void setSourcePartitionOffsetEnd( Map<Integer, Long> sourcePartitionOffsetEnd) {

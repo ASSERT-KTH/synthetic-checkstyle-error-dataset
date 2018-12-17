@@ -1,0 +1,5 @@
+110,111c110
+<             }
+<             cuboidsByLayer.add(newLayer);
+---
+>             }            cuboidsByLayer.add(newLayer);

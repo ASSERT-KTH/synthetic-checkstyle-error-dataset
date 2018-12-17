@@ -1,0 +1,4 @@
+213c213
+<         int result = 1;
+---
+>         int result = 	1;

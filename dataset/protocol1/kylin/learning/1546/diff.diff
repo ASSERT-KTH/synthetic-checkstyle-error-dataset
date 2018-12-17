@@ -1,0 +1,4 @@
+39c39
+<         Integer[][] allCuboidsBitSet = new Integer[cuboidIds.length][];
+---
+>         Integer[][] 	allCuboidsBitSet = new Integer[cuboidIds.length][];

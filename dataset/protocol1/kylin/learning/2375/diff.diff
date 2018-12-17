@@ -1,0 +1,5 @@
+60,61c60
+<         Map<Long, List<Long>> directChildrenCache = CuboidStatsUtil.createDirectChildrenCache(cuboidSet);
+<         List<Long> cuboids = Lists.newArrayList(cuboidSet);
+---
+>         Map<Long, List<Long>> directChildrenCache = CuboidStatsUtil.createDirectChildrenCache(cuboidSet);        List<Long> cuboids = Lists.newArrayList(cuboidSet);

@@ -1,0 +1,5 @@
+94c94,95
+<     public String getCheckTableExistsSql() {
+---
+>     public String getCheckTableExistsSql() 
+> {

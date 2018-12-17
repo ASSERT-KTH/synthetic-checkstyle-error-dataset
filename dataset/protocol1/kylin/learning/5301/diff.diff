@@ -1,0 +1,4 @@
+410c410
+<         return Collections.min(candidates, Cuboid.cuboidSelectComparator);
+---
+>         return 	Collections.min(candidates, Cuboid.cuboidSelectComparator);

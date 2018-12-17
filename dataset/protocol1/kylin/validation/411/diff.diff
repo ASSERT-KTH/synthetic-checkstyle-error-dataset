@@ -1,0 +1,4 @@
+85c85
+<     abstract public byte[] encode(Map<TblColRef, String> valueMap);
+---
+>     abstract public byte[] encode(Map	<TblColRef, String> valueMap);

@@ -1,0 +1,4 @@
+45c45
+<         if (null == obj) {
+---
+>         if (null == 	obj) {

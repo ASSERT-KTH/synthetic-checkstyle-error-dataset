@@ -1,0 +1,4 @@
+46c46
+<     public abstract Long[] listAllVersions() throws IOException;
+---
+>     public abstract Long[] 	listAllVersions() throws IOException;

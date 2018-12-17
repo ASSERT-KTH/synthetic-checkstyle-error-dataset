@@ -1,0 +1,5 @@
+86,87c86
+<     public static Map<String, String> readValueAsMap(String content) throws IOException {
+<         TypeReference<HashMap<String, String>> typeRef = new TypeReference<HashMap<String, String>>() {
+---
+>     public static Map<String, String> readValueAsMap(String content) throws IOException {        TypeReference<HashMap<String, String>> typeRef = new TypeReference<HashMap<String, String>>() {

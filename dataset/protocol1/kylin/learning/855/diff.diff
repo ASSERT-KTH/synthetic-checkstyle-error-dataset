@@ -1,0 +1,5 @@
+27c27,28
+<     public ResourceLimitExceededException(String message, Throwable cause) {
+---
+>     public ResourceLimitExceededException(String message, Throwable cause) 
+> {

@@ -1,0 +1,5 @@
+390,391c390
+<     public void rollbackJob(String jobId, String stepId) {
+<         AbstractExecutable job = getJob(jobId);
+---
+>     public void rollbackJob(String jobId, String stepId) {        AbstractExecutable job = getJob(jobId);

@@ -1,0 +1,4 @@
+356c356
+<                         pstat = connection.prepareStatement(sqls.getReplaceSql());
+---
+>                         pstat = connection.prepareStatement(sqls.getReplaceSql() );

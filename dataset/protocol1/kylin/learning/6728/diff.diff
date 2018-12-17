@@ -1,0 +1,4 @@
+69c69
+<     public Cuboid findMandatoryId(CubeDesc cubeDesc, long cuboidID) {
+---
+>     public Cuboid findMandatoryId(CubeDesc cubeDesc, long cuboidID ) {

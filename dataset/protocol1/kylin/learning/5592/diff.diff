@@ -1,0 +1,4 @@
+346c346
+<                 if (BytesUtil.sizeForValue((long) t * 4) <= s.mbpn_sizeChildOffset - 1) {
+---
+>                 if ( BytesUtil.sizeForValue((long) t * 4) <= s.mbpn_sizeChildOffset - 1) {

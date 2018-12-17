@@ -1,0 +1,4 @@
+304c304
+<             desc = JsonUtil.readValue(streamingRequest.getKafkaConfig(), KafkaConfig.class);
+---
+>             desc = JsonUtil.readValue(streamingRequest.getKafkaConfig(), KafkaConfig.	class);

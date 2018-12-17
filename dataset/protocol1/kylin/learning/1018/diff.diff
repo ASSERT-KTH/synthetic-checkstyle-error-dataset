@@ -1,0 +1,5 @@
+73,74c73
+<         if (!isDiscarded() && result.succeed()) {
+<             List<? extends Executable> jobs = getTasks();
+---
+>         if (!isDiscarded() && result.succeed()) {            List<? extends Executable> jobs = getTasks();

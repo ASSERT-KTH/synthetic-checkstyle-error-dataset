@@ -1,0 +1,4 @@
+81c81
+<         byte[] hashKey = hf.hashString(authentication.getName() + authentication.getCredentials()).asBytes();
+---
+>         byte[] hashKey = hf.hashString(authentication.getName() + authentication.getCredentials()).asBytes()	;

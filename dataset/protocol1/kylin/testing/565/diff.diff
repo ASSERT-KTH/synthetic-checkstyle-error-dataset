@@ -1,0 +1,5 @@
+85,86c85
+<         int[] tmp = new int[100];
+<         int x = 0;
+---
+>         int[] tmp = new int[100];        int x = 0;

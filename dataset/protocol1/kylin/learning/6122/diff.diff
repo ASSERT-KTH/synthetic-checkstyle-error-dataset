@@ -1,0 +1,4 @@
+189c189
+<         } else if (!config.equals(other.config))
+---
+>         } else if (!config.equals (other.config))

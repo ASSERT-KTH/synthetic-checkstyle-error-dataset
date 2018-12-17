@@ -1,0 +1,5 @@
+319,320c319
+<     private void makeMemoryBudget() {
+<         baseResult.aggrCacheMB = Math.max(baseCuboidMemTracker.getEstimateMB(), 10); // 10 MB at minimal
+---
+>     private void makeMemoryBudget() {        baseResult.aggrCacheMB = Math.max(baseCuboidMemTracker.getEstimateMB(), 10); // 10 MB at minimal

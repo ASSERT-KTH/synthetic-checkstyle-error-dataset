@@ -1,0 +1,5 @@
+153,154c153
+<                     for (RealizationEntry entry : realizationEntries) {
+<                         HybridInstance instance = getHybridManager().getHybridInstance(entry.getRealization());
+---
+>                     for (RealizationEntry entry : realizationEntries) {                        HybridInstance instance = getHybridManager().getHybridInstance(entry.getRealization());

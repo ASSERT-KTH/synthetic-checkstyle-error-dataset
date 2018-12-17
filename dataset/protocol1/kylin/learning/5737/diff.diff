@@ -1,0 +1,4 @@
+84c84
+<         for (DimensionDesc dim : cubeSeg.getCubeDesc().getDimensions()) {
+---
+>         for (DimensionDesc dim : 	cubeSeg.getCubeDesc().getDimensions()) {

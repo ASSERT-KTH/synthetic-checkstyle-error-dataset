@@ -1,0 +1,5 @@
+45,46c45
+<         this.maxValueLength = maxValueLength;
+<         this.nValues = nValues;
+---
+>         this.maxValueLength = maxValueLength;        this.nValues = nValues;

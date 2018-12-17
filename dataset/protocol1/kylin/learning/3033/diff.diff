@@ -1,0 +1,4 @@
+25c25
+< public class JobException extends Exception {
+---
+> 	public class JobException extends Exception {

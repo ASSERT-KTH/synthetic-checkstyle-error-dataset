@@ -1,0 +1,4 @@
+58c58
+<     public String getOptionValue(Option option) {
+---
+>     public String 	getOptionValue(Option option) {

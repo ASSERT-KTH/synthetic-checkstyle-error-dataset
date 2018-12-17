@@ -1,0 +1,5 @@
+127c127,128
+<         } else if (!qualifier.equals(other.qualifier))
+---
+>         } else if (!qualifier.equals
+> (other.qualifier))

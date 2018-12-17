@@ -1,0 +1,4 @@
+166c166
+<         logger.info("cache miss count: " + cacheMissCount);
+---
+>         logger.info ("cache miss count: " + cacheMissCount);

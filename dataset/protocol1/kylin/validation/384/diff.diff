@@ -1,0 +1,5 @@
+47,48c47
+<      */
+<     @RequestMapping(value = "/{model_name}", method = { RequestMethod.GET }, produces = { "application/json" })
+---
+>      */    @RequestMapping(value = "/{model_name}", method = { RequestMethod.GET }, produces = { "application/json" })

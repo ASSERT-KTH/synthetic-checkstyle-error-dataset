@@ -1,0 +1,4 @@
+46c46
+<     private static final ObjectMapper mapper = new ObjectMapper();
+---
+>     	private static final ObjectMapper mapper = new ObjectMapper();

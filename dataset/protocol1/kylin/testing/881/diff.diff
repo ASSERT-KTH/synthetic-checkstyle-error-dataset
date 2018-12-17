@@ -1,0 +1,4 @@
+46c46
+< import org.apache.kylin.rest.security.springacl.AclRecord;
+---
+> import org.apache.kylin.rest.security	.springacl.AclRecord;

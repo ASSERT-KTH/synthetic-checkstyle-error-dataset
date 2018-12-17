@@ -1,0 +1,5 @@
+69,70c69
+<     public void setForceMergeEmptySegment(boolean forceMergeEmptySegment) {
+<         this.forceMergeEmptySegment = forceMergeEmptySegment;
+---
+>     public void setForceMergeEmptySegment(boolean forceMergeEmptySegment) {        this.forceMergeEmptySegment = forceMergeEmptySegment;

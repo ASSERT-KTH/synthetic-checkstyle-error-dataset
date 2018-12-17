@@ -1,0 +1,4 @@
+295c295
+<         GTScanRequest req = new GTScanRequestBuilder().setInfo(baseCuboid.getInfo()).setRanges(null).setDimensions(null)
+---
+>         GTScanRequest req = new GTScanRequestBuilder ().setInfo(baseCuboid.getInfo()).setRanges(null).setDimensions(null)

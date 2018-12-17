@@ -1,0 +1,5 @@
+327,328c327
+<                 in.get(tmp);
+<                 result = new String(tmp, "ISO-8859-1");
+---
+>                 in.get(tmp);                result = new String(tmp, "ISO-8859-1");

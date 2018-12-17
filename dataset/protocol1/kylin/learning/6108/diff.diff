@@ -1,0 +1,5 @@
+68,69c68
+<         checkAuthorization(projectName);
+<         MetricsResponse queryMetrics = new MetricsResponse();
+---
+>         checkAuthorization(projectName);        MetricsResponse queryMetrics = new MetricsResponse();

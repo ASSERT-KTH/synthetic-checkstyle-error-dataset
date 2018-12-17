@@ -1,0 +1,4 @@
+24c24
+<         super(message);
+---
+>         super (message);

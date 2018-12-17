@@ -1,0 +1,4 @@
+59c59
+<                 uhcLength = colIO.getColumnLength(column);
+---
+>                 uhcLength = 	colIO.getColumnLength(column);

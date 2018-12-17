@@ -1,0 +1,4 @@
+19c19
+< package org.apache.kylin.dict.lookup;
+---
+> package org	.apache.kylin.dict.lookup;

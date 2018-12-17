@@ -1,0 +1,5 @@
+279,280c279
+<     public List<ExecutableOutputPO> getJobOutputDigests(long timeStart, long timeEndExclusive) {
+<         List<ExecutableOutputPO> jobOutputDigests = Lists.newArrayList();
+---
+>     public List<ExecutableOutputPO> getJobOutputDigests(long timeStart, long timeEndExclusive) {        List<ExecutableOutputPO> jobOutputDigests = Lists.newArrayList();

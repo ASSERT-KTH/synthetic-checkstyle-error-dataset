@@ -1,0 +1,4 @@
+510c510
+<         String[] dbTableName = HadoopUtil.parseHiveTableName(tableName);
+---
+>         	String[] dbTableName = HadoopUtil.parseHiveTableName(tableName);

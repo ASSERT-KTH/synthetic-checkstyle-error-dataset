@@ -1,0 +1,4 @@
+242c242
+<                     MergeSlot slot = open.removeFirst();
+---
+>                     MergeSlot slot 	= open.removeFirst();

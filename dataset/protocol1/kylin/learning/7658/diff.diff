@@ -1,0 +1,4 @@
+70c70
+<             conf.set("hadoop.tmp.dir", "/tmp");
+---
+>             conf.set("hadoop.tmp.dir"	, "/tmp");

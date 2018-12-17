@@ -1,0 +1,4 @@
+116c116
+<         aclEvaluate.checkProjectWritePermission(projectName);
+---
+>         aclEvaluate.checkProjectWritePermission( projectName);

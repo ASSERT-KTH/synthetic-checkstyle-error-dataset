@@ -1,0 +1,4 @@
+73c73
+<         colIsNumber = new boolean[cols.length];
+---
+>         colIsNumber = new boolean[	cols.length];

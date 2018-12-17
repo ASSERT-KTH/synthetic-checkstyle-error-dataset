@@ -1,0 +1,4 @@
+77c77
+<                         SnapshotTable snapshotTable = SnapshotManager.this.load(key, true);
+---
+>                         SnapshotTable snapshotTable = 	SnapshotManager.this.load(key, true);

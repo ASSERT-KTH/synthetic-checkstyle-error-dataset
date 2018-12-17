@@ -1,0 +1,5 @@
+34,35c34
+<         for (int index : items) {
+<             temp.add(list.get(index));
+---
+>         for (int index : items) {            temp.add(list.get(index));

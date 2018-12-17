@@ -1,0 +1,4 @@
+33c33
+< import org.apache.kylin.dict.AppendTrieDictionary;
+---
+> import org.apache	.kylin.dict.AppendTrieDictionary;

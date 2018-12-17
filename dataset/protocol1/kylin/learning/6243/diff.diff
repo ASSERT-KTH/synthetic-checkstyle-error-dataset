@@ -1,0 +1,4 @@
+57c57
+<             ((HttpServletResponse) response).addHeader("Access-Control-Allow-Origin", "*");
+---
+>             ((HttpServletResponse) response).	addHeader("Access-Control-Allow-Origin", "*");

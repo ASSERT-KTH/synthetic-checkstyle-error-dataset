@@ -1,0 +1,4 @@
+50c50
+< public class ExternalFilterController extends BasicController {
+---
+> public 	class ExternalFilterController extends BasicController {

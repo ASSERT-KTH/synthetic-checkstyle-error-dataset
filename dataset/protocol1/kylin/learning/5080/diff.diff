@@ -1,0 +1,4 @@
+311c311
+<     public ResultScanner getScanner(Scan scan) throws IOException {
+---
+>     public ResultScanner getScanner(Scan scan) 	throws IOException {

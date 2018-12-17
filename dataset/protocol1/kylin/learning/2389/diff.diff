@@ -1,0 +1,4 @@
+59c59
+<         int offset = 0;
+---
+>         int offset = 	0;

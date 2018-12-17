@@ -1,0 +1,4 @@
+22c22
+< public class SoutLogger implements Logger {
+---
+> public class 	SoutLogger implements Logger {

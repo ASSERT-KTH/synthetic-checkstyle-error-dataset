@@ -1,0 +1,5 @@
+38,39c38
+<     public int available() throws IOException {
+<         return buffer.remaining();
+---
+>     public int available() throws IOException {        return buffer.remaining();

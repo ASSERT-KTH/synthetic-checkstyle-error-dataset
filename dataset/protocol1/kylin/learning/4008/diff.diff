@@ -1,0 +1,4 @@
+34c34
+< import org.apache.kylin.metadata.badquery.BadQueryHistory;
+---
+> import org.apache.kylin.metadata.badquery.BadQueryHistory	;

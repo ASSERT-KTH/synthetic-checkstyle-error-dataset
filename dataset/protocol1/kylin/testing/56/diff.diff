@@ -1,0 +1,5 @@
+31,32c31
+<     public EnvelopeResponse(String code, T data, String msg) {
+<         this.code = code;
+---
+>     public EnvelopeResponse(String code, T data, String msg) {        this.code = code;

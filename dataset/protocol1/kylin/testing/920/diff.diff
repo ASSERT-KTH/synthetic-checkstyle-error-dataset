@@ -1,0 +1,4 @@
+52c52
+<     public String getStatus() {
+---
+>     public String getStatus () {

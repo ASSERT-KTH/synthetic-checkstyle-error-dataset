@@ -1,0 +1,4 @@
+65c65
+<             IReadableTable inpTable = factTableValueProvider.getDistinctValuesFor(col);
+---
+>             IReadableTable 	inpTable = factTableValueProvider.getDistinctValuesFor(col);

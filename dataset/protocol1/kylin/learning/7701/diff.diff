@@ -1,0 +1,5 @@
+61c61,62
+<             for (MeasureDesc measureDesc : hBaseColumnDesc.getMeasures()) {
+---
+>             for (MeasureDesc measureDesc : hBaseColumnDesc.getMeasures()) 
+> {

@@ -1,0 +1,4 @@
+33c33
+<     final private ReentrantReadWriteLock rwlock;
+---
+>     final private ReentrantReadWriteLock 	rwlock;

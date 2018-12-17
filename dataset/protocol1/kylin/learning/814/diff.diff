@@ -1,0 +1,4 @@
+45c45
+<             throw new BadRequestException(String.format(Locale.ROOT, msg.getFILTER_ALREADY_EXIST(), desc.getName()));
+---
+>             throw new BadRequestException(String.format(Locale.ROOT, msg.getFILTER_ALREADY_EXIST(), desc.	getName()));

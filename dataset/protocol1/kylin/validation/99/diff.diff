@@ -1,0 +1,4 @@
+70c70
+<     void unlock(String lockPath) throws IllegalStateException;
+---
+>     void unlock(String lockPath) 	throws IllegalStateException;

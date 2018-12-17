@@ -1,0 +1,4 @@
+54c54
+<         store = ResourceStore.getStore(config);
+---
+>         store = ResourceStore.getStore(config );

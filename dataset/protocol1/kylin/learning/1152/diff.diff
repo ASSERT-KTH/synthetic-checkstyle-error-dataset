@@ -1,0 +1,4 @@
+119c119
+<             if (sid instanceof PrincipalSid) {
+---
+>             if (sid instanceof PrincipalSid) 	{

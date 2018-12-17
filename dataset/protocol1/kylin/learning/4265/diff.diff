@@ -1,0 +1,4 @@
+28c28
+< public class CompoundCuboidWriter implements ICuboidWriter {
+---
+> public class CompoundCuboidWriter implements ICuboidWriter 	{

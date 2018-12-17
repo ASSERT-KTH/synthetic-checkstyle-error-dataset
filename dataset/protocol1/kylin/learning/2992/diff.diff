@@ -1,0 +1,5 @@
+738,739c738
+<         } finally {
+<             close(columnMeta, null, conn);
+---
+>         } finally {            close(columnMeta, null, conn);

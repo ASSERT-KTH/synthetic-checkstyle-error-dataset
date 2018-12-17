@@ -1,0 +1,4 @@
+31c31
+<     public static final String JOB_ERROR = "JOB_ERROR";
+---
+>     public 	static final String JOB_ERROR = "JOB_ERROR";

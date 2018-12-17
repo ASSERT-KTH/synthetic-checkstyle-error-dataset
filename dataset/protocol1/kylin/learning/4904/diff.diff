@@ -1,0 +1,4 @@
+35c35
+<     private int bufferSize;
+---
+>     private int 	bufferSize;

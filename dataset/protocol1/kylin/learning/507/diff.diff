@@ -1,0 +1,5 @@
+188c188,189
+<             table = HBaseConnection.get(kylinConfig.getStorageUrl()).getTable(TableName.valueOf(tableName));
+---
+>             table = HBaseConnection.get(kylinConfig.getStorageUrl()).getTable
+> (TableName.valueOf(tableName));

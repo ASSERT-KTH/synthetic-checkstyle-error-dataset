@@ -1,0 +1,5 @@
+471,472c471
+<             executableOutputDigestMap.put(uuid, jobOutput);
+<         }
+---
+>             executableOutputDigestMap.put(uuid, jobOutput);        }

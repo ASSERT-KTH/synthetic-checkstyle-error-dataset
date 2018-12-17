@@ -1,0 +1,4 @@
+30c30
+<         int cardinality = Long.bitCount(cuboidId);
+---
+>         int cardinality 	= Long.bitCount(cuboidId);

@@ -1,0 +1,5 @@
+230,231c230
+<                 return valueSet.isEmpty();
+<             } else if (begin.array() != null && end.array() != null) {
+---
+>                 return valueSet.isEmpty();            } else if (begin.array() != null && end.array() != null) {

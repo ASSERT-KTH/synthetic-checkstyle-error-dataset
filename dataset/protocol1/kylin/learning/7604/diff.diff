@@ -1,0 +1,5 @@
+149,150c149
+<             ConsumerEntry entry = booking.get(consumer);
+<             int curMB = entry == null ? 0 : entry.reservedMB;
+---
+>             ConsumerEntry entry = booking.get(consumer);            int curMB = entry == null ? 0 : entry.reservedMB;

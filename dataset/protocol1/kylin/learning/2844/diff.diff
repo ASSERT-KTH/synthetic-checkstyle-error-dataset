@@ -1,0 +1,5 @@
+135,136c135
+<         List<TblColRef> columns = cuboid.getColumns();
+<         String[] values = new String[columns.size()];
+---
+>         List<TblColRef> columns = cuboid.getColumns();        String[] values = new String[columns.size()];

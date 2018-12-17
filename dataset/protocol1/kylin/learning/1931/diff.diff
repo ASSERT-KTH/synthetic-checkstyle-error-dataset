@@ -1,0 +1,4 @@
+104c104
+<             if (other.name != null)
+---
+>             if (other.name 	!= null)

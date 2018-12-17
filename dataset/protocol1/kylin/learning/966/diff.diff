@@ -1,0 +1,5 @@
+351,352c351
+<         if (array == null) {
+<             writeVInt(-1, out);
+---
+>         if (array == null) {            writeVInt(-1, out);

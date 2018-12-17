@@ -1,0 +1,4 @@
+93c93
+<                 migrate(store, AclConstant.USER_TABLE_NAME, kylinConfig);
+---
+>                 migrate(store, AclConstant.USER_TABLE_NAME, 	kylinConfig);

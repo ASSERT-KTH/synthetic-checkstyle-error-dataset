@@ -1,0 +1,5 @@
+72,73c72
+<     private void initCuboid(long cuboidID) {
+<         if (this.cuboid != null && this.cuboid.getId() == cuboidID) {
+---
+>     private void initCuboid(long cuboidID) {        if (this.cuboid != null && this.cuboid.getId() == cuboidID) {

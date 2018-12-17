@@ -1,0 +1,4 @@
+35c35
+<         Message ret = msg.get();
+---
+>         Message ret = msg.get()	;

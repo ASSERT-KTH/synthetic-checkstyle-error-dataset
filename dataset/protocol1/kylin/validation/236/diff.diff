@@ -1,0 +1,4 @@
+62c62
+<             this.defaultAuthorities.add(analystAuthority);
+---
+>             	this.defaultAuthorities.add(analystAuthority);

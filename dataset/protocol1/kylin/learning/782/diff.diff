@@ -1,0 +1,4 @@
+34c34
+<         assert a.getInfo() == b.getInfo();
+---
+>         assert a.getInfo() == b	.getInfo();

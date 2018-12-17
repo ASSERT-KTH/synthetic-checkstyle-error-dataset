@@ -1,0 +1,4 @@
+42c42
+<     public void setCube(String cube) {
+---
+>     public void setCube (String cube) {

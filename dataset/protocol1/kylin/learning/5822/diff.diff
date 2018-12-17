@@ -1,0 +1,5 @@
+206,207c206
+<                 } else {
+<                     logger.info("Dry run, pending delete HDFS path " + path);
+---
+>                 } else {                    logger.info("Dry run, pending delete HDFS path " + path);

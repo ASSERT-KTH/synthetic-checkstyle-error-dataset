@@ -1,0 +1,4 @@
+66c66
+<     private ByteArray encodeTime(long ts, int index, int roundingFlag) {
+---
+>     private ByteArray encodeTime(long ts,int index, int roundingFlag) {

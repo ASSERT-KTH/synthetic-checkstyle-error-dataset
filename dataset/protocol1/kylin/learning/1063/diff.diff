@@ -1,0 +1,4 @@
+34c34
+<         return "[BROKEN] " + super.getName();
+---
+>         return "[BROKEN] " + super.	getName();

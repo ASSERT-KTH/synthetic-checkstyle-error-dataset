@@ -1,0 +1,4 @@
+41c41
+<         for (GTRecord record : scanner) {
+---
+>         for 	(GTRecord record : scanner) {

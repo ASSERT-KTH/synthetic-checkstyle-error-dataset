@@ -1,0 +1,5 @@
+123c123,124
+<                         ret.add(Range.closed(self.lowerEndpoint(), share.lowerEndpoint()));
+---
+>                         ret.add(Range.closed(self.lowerEndpoint(), share.lowerEndpoint
+> ()));

@@ -1,0 +1,5 @@
+65,66c65
+<     public boolean isForceMergeEmptySegment() {
+<         return forceMergeEmptySegment;
+---
+>     public boolean isForceMergeEmptySegment() {        return forceMergeEmptySegment;

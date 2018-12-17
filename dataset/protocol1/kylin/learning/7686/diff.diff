@@ -1,0 +1,4 @@
+120c120
+<     public String getENABLE_NOT_DISABLED_CUBE() {
+---
+>     public 	String getENABLE_NOT_DISABLED_CUBE() {

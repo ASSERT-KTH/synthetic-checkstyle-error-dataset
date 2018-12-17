@@ -1,0 +1,4 @@
+92c92
+<         String fileUrl = OptionsHelper.convertToFileURL(confFile.getAbsolutePath());
+---
+>         String fileUrl = OptionsHelper.convertToFileURL(confFile.getAbsolutePath() );

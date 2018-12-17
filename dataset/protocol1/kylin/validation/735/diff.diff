@@ -1,0 +1,4 @@
+31c31
+< public class ImplementationSwitch<I> {
+---
+> public class 	ImplementationSwitch<I> {

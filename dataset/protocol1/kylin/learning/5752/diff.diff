@@ -1,0 +1,5 @@
+55,56c55
+<     public String toString() {
+<         return "HBaseColumnFamilyDesc [name=" + name + ", columns=" + Arrays.toString(columns) + "]";
+---
+>     public String toString() {        return "HBaseColumnFamilyDesc [name=" + name + ", columns=" + Arrays.toString(columns) + "]";

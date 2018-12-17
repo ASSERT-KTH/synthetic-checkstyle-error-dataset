@@ -1,0 +1,4 @@
+170c170
+<             return Bytes.toStringBinary(data, offset, length);
+---
+>             return Bytes	.toStringBinary(data, offset, length);

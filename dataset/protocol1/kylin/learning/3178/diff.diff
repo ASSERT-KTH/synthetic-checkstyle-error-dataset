@@ -1,0 +1,4 @@
+105c105
+<                     UserDetails details = (UserDetails) authed.getDetails();
+---
+>                     UserDetails 	details = (UserDetails) authed.getDetails();

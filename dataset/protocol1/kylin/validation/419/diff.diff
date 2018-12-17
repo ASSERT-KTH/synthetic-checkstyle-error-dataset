@@ -1,0 +1,4 @@
+208c208
+<     @RequestMapping(value = "/hive/{database}", method = { RequestMethod.GET }, produces = { "application/json" })
+---
+>     @RequestMapping(value = "/hive/{database}", method = { RequestMethod	.GET }, produces = { "application/json" })

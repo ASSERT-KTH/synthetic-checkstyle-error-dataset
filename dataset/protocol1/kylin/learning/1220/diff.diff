@@ -1,0 +1,4 @@
+62c62
+<             dataSource = BasicDataSourceFactory.createDataSource(getDbcpProperties());
+---
+>             dataSource = BasicDataSourceFactory.createDataSource(getDbcpProperties ());

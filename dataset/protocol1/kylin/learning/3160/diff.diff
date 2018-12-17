@@ -1,0 +1,4 @@
+64c64
+<             for (OLAPTableScan tableScan : context.allTableScans) {
+---
+>             for (OLAPTableScan 	tableScan : context.allTableScans) {

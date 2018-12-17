@@ -1,0 +1,5 @@
+57c57,58
+<     static boolean openQueryRequest(String project, int maxConcurrentQuery) {
+---
+>     static boolean openQueryRequest
+> (String project, int maxConcurrentQuery) {

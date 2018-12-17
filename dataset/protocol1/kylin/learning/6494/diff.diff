@@ -1,0 +1,4 @@
+52c52
+<             .maximumSize(KylinConfig.getInstanceFromEnv().getServerUserCacheMaxEntries())
+---
+>             .maximumSize( KylinConfig.getInstanceFromEnv().getServerUserCacheMaxEntries())

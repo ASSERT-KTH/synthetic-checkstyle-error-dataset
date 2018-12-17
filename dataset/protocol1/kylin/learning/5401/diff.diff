@@ -1,0 +1,4 @@
+49c49
+<         this.segmentIDs = segmentIDs;
+---
+>         this.segmentIDs 	= segmentIDs;

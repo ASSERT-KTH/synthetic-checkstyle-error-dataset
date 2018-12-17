@@ -1,0 +1,5 @@
+74,75c74
+<         Object[] encodingConf = DimensionEncoding.parseEncodingConf(this.encoding);
+<         encodingName = (String) encodingConf[0];
+---
+>         Object[] encodingConf = DimensionEncoding.parseEncodingConf(this.encoding);        encodingName = (String) encodingConf[0];

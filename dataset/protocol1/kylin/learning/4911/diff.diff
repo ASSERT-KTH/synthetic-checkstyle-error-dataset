@@ -1,0 +1,4 @@
+458c458
+<         final Output output = getManager().getOutput(id);
+---
+>         final Output output = getManager()	.getOutput(id);

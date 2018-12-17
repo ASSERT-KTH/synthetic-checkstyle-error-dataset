@@ -1,0 +1,5 @@
+184,185c184
+<     public ModelRequest cloneModel(@PathVariable String modelName, @RequestBody ModelRequest modelRequest) {
+<         String project = StringUtils.trimToNull(modelRequest.getProject());
+---
+>     public ModelRequest cloneModel(@PathVariable String modelName, @RequestBody ModelRequest modelRequest) {        String project = StringUtils.trimToNull(modelRequest.getProject());

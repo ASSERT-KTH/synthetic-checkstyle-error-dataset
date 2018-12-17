@@ -1,0 +1,4 @@
+72c72
+<         Broadcaster.getInstance(config).registerListener(new ManagedUserSyncListener(), "user");
+---
+>         Broadcaster.getInstance(config).registerListener(new ManagedUserSyncListener(), "user")	;

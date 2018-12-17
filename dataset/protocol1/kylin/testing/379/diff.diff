@@ -1,0 +1,5 @@
+56c56,57
+<     abstract protected void putSmallResource(String resPath, ContentWriter content, long ts) throws IOException;
+---
+>     abstract protected void putSmallResource
+> (String resPath, ContentWriter content, long ts) throws IOException;

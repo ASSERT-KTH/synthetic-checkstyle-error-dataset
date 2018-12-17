@@ -1,0 +1,5 @@
+21,22c21
+< import org.apache.kylin.common.persistence.RootPersistentEntity;
+< import org.apache.kylin.cube.CubeInstance;
+---
+> import org.apache.kylin.common.persistence.RootPersistentEntity;import org.apache.kylin.cube.CubeInstance;

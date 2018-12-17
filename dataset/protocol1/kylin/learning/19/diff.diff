@@ -1,0 +1,4 @@
+31c31
+< public class HBaseColumnFamilyDesc implements java.io.Serializable {
+---
+> public class HBaseColumnFamilyDesc implements java	.io.Serializable {

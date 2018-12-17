@@ -1,0 +1,4 @@
+235c235
+<                     String path = status.getPath().getName();
+---
+>                     String path = 	status.getPath().getName();

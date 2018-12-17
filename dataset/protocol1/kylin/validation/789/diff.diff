@@ -1,0 +1,5 @@
+47,48c47
+<             if ((mask & baseCuboidId) > 0) {
+<                 if ((mask & childCuboidId) == 0) {
+---
+>             if ((mask & baseCuboidId) > 0) {                if ((mask & childCuboidId) == 0) {

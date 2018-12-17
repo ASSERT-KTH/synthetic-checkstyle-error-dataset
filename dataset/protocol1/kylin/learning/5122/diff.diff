@@ -1,0 +1,4 @@
+24c24
+< public class CaseInsensitiveStringSet extends TreeSet<String> {
+---
+> public 	class CaseInsensitiveStringSet extends TreeSet<String> {

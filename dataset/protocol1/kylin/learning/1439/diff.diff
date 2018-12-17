@@ -1,0 +1,5 @@
+51,52c51
+<     public static final String STEP_NAME_GET_CUBOID_KEY_DISTRIBUTION = "Calculate HTable Region Splits";
+<     public static final String STEP_NAME_CREATE_HBASE_TABLE = "Create HTable";
+---
+>     public static final String STEP_NAME_GET_CUBOID_KEY_DISTRIBUTION = "Calculate HTable Region Splits";    public static final String STEP_NAME_CREATE_HBASE_TABLE = "Create HTable";

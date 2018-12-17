@@ -1,0 +1,5 @@
+205c205,206
+<                     issues.add(format(Locale.ROOT, "Table '%s' is used as Lookup Table in cube[%s] and model[%s], but "
+---
+>                     issues.add
+> (format(Locale.ROOT, "Table '%s' is used as Lookup Table in cube[%s] and model[%s], but "

@@ -1,0 +1,5 @@
+29c29,30
+< public class LazyRowKeyEncoder extends RowKeyEncoder {
+---
+> public class LazyRowKeyEncoder extends RowKeyEncoder 
+> {

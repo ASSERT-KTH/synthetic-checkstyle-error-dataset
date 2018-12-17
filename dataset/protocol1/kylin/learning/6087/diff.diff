@@ -1,0 +1,4 @@
+45c45
+<     public static String createSignature(KylinConfig config, SQLResponse sqlResponse, String projectName) {
+---
+>     public static String createSignature( KylinConfig config, SQLResponse sqlResponse, String projectName) {

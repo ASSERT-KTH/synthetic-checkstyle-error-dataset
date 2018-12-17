@@ -1,0 +1,5 @@
+56,57c56
+<     public void init(CubeDesc cubeDesc) {
+<         DataModelDesc model = cubeDesc.getModel();
+---
+>     public void init(CubeDesc cubeDesc) {        DataModelDesc model = cubeDesc.getModel();

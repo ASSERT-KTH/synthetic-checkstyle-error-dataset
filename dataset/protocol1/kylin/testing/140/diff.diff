@@ -1,0 +1,4 @@
+271c271
+<                 for (int i = 0; i < rowNum; i++) {
+---
+>                 for (int i = 0; i < rowNum; i++) 	{

@@ -1,0 +1,5 @@
+101,102c101
+<             String measureRef = cubeDesc.getMeasures().get(i).getName();
+<             col.setMeasureRefs(new String[] { measureRef });
+---
+>             String measureRef = cubeDesc.getMeasures().get(i).getName();            col.setMeasureRefs(new String[] { measureRef });

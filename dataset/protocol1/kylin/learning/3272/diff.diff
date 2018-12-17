@@ -1,0 +1,5 @@
+31,32c31
+< import org.apache.kylin.storage.hybrid.HybridInstance;
+< import org.apache.kylin.storage.hybrid.HybridManager;
+---
+> import org.apache.kylin.storage.hybrid.HybridInstance;import org.apache.kylin.storage.hybrid.HybridManager;

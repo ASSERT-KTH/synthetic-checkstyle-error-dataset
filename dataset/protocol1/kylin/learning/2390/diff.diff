@@ -1,0 +1,4 @@
+30c30
+<     private Iterable<ICuboidWriter> cuboidWriters;
+---
+>     	private Iterable<ICuboidWriter> cuboidWriters;

@@ -1,0 +1,4 @@
+31c31
+<     public static ContentWriter create(byte[] data) {
+---
+>     public static ContentWriter create( byte[] data) {

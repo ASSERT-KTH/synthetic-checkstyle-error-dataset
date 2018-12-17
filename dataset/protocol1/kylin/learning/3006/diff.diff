@@ -1,0 +1,4 @@
+45c45
+< import org.apache.kylin.common.util.HadoopUtil;
+---
+> import org.apache.kylin.common.	util.HadoopUtil;

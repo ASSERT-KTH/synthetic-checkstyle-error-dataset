@@ -1,0 +1,4 @@
+352c352
+<             if (activeWriter != null || !activeReaders.isEmpty())
+---
+>             if (activeWriter != 	null || !activeReaders.isEmpty())

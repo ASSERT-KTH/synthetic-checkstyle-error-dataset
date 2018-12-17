@@ -1,0 +1,4 @@
+212c212
+<             return BytesUtil.readUnsigned(bytes, 0, bytes.length);
+---
+>             return BytesUtil.readUnsigned(bytes,0, bytes.length);

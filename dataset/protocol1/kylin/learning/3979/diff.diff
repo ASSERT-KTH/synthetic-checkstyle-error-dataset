@@ -1,0 +1,4 @@
+26c26
+<     public static final String TYPE_EXT = "ext";
+---
+>     public static final String TYPE_EXT = "ext"	;

@@ -1,0 +1,4 @@
+39c39
+<         String[] appArgs = new String[args.length - 2];
+---
+>         String[] appArgs = new String[args.length 	- 2];

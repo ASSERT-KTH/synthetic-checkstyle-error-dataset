@@ -1,0 +1,5 @@
+45,46c45
+<     public void setRunAtRemote(String host, int port, String user, String pwd) {
+<         this.remoteHost = host;
+---
+>     public void setRunAtRemote(String host, int port, String user, String pwd) {        this.remoteHost = host;

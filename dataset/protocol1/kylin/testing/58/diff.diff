@@ -1,0 +1,4 @@
+202c202
+<         ExtTableSnapshotInfo snapshot = store.getResource(resourcePath, SNAPSHOT_SERIALIZER);
+---
+>         ExtTableSnapshotInfo snapshot = store.getResource(resourcePath, SNAPSHOT_SERIALIZER );

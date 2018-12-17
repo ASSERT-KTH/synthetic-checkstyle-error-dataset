@@ -1,0 +1,5 @@
+249,250c249
+<             for (Long child : children) {
+<                 CuboidTask task = new CuboidTask(parent, child, this);
+---
+>             for (Long child : children) {                CuboidTask task = new CuboidTask(parent, child, this);

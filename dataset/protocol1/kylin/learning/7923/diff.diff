@@ -1,0 +1,5 @@
+87,88c87
+<         if (currentProject != null) {
+<             throw new BadRequestException(String.format(Locale.ROOT, msg.getPROJECT_ALREADY_EXIST(), projectName));
+---
+>         if (currentProject != null) {            throw new BadRequestException(String.format(Locale.ROOT, msg.getPROJECT_ALREADY_EXIST(), projectName));

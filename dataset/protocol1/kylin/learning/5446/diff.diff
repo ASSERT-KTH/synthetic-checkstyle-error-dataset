@@ -1,0 +1,5 @@
+56,57c56
+<             return Arrays.equals(this.key, that.key);
+<         }
+---
+>             return Arrays.equals(this.key, that.key);        }

@@ -1,0 +1,5 @@
+36,37c36
+<         if (!(o instanceof AbstractApplication)) {
+<             throw new IllegalArgumentException(String.valueOf(className + " is not a subClass of AbstractApplication"));
+---
+>         if (!(o instanceof AbstractApplication)) {            throw new IllegalArgumentException(String.valueOf(className + " is not a subClass of AbstractApplication"));

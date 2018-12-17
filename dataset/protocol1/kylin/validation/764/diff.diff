@@ -1,0 +1,4 @@
+23c23
+< public class AsyncQuerySQLRequest extends SQLRequest{
+---
+> 	public class AsyncQuerySQLRequest extends SQLRequest{

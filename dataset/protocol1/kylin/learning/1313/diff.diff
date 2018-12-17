@@ -1,0 +1,4 @@
+40c40
+< import org.slf4j.LoggerFactory;
+---
+> import org.	slf4j.LoggerFactory;

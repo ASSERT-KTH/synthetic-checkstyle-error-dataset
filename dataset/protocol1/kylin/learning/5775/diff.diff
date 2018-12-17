@@ -1,0 +1,4 @@
+415c415
+<         if (!cube.getDescriptor().checkSignature())
+---
+>         	if (!cube.getDescriptor().checkSignature())

@@ -1,0 +1,5 @@
+301,302c301
+<         List<String> workingJobList = new ArrayList<String>();
+<         Map<String, String> segmentId2JobId = Maps.newHashMap();
+---
+>         List<String> workingJobList = new ArrayList<String>();        Map<String, String> segmentId2JobId = Maps.newHashMap();

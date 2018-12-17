@@ -1,0 +1,5 @@
+74,75c74
+<     public static long getSystemAvailBytes() {
+<         Runtime runtime = Runtime.getRuntime();
+---
+>     public static long getSystemAvailBytes() {        Runtime runtime = Runtime.getRuntime();

@@ -1,0 +1,4 @@
+64c64
+<         String cubeName = cube.replace("=", "->");
+---
+>         String cubeName = cube.replace("=", "->" );

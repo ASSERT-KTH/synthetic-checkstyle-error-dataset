@@ -1,0 +1,4 @@
+66c66
+<     public void setTableSize(long tableSize) {
+---
+>     public 	void setTableSize(long tableSize) {

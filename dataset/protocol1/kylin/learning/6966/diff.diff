@@ -1,0 +1,4 @@
+247c247
+<                 Runtime.getRuntime().gc();
+---
+>                 Runtime.getRuntime().gc ();

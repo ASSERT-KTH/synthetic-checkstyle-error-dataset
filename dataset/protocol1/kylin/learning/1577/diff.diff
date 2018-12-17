@@ -1,0 +1,5 @@
+273,274c273
+<             throw new IllegalArgumentException("value too long to fit in integer");
+<         }
+---
+>             throw new IllegalArgumentException("value too long to fit in integer");        }

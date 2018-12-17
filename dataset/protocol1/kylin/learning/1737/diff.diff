@@ -1,0 +1,5 @@
+181,182c181
+<         Map<String, Map<String, String>> map = Maps.newHashMap();
+<         List<TblColRef> colRefs = flatDesc.getAllColumns();
+---
+>         Map<String, Map<String, String>> map = Maps.newHashMap();        List<TblColRef> colRefs = flatDesc.getAllColumns();

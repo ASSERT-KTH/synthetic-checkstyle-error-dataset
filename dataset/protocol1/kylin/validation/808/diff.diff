@@ -1,0 +1,4 @@
+30c30
+<     public IllegalStateTranferException(String message) {
+---
+>     public IllegalStateTranferException (String message) {

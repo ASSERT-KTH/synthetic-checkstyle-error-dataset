@@ -1,0 +1,4 @@
+47c47
+<             userAuthorities.add(new SimpleGrantedAuthority(Constant.ROLE_ADMIN));
+---
+>             userAuthorities.add (new SimpleGrantedAuthority(Constant.ROLE_ADMIN));

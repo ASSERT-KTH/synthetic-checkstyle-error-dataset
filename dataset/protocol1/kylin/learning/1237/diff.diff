@@ -1,0 +1,4 @@
+38c38
+<     public void write(long cuboidId, GTRecord record) throws IOException {
+---
+>     public void write (long cuboidId, GTRecord record) throws IOException {

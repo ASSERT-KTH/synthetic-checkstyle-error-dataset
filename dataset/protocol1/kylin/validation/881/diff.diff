@@ -1,0 +1,4 @@
+112c112
+<             if ((filter instanceof CompareTupleFilter) == false) {
+---
+>             	if ((filter instanceof CompareTupleFilter) == false) {

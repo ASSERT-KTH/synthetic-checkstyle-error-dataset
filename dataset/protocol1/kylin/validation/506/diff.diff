@@ -1,0 +1,4 @@
+70c70
+<     public T1 getFirst() {
+---
+>     public 	T1 getFirst() {

@@ -1,0 +1,4 @@
+137c137
+<             if (managedUser.getAuthorities().contains(new SimpleGrantedAuthority(Constant.ROLE_ADMIN))) {
+---
+>             if (managedUser.getAuthorities().contains (new SimpleGrantedAuthority(Constant.ROLE_ADMIN))) {

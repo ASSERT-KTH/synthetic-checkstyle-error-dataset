@@ -1,0 +1,4 @@
+134c134
+<             logger.info("No metadata resource to clean up");
+---
+>             logger.info ("No metadata resource to clean up");

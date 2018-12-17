@@ -1,0 +1,5 @@
+270,271c270
+<             logger.error("error get all Jobs:", e);
+<             throw new PersistentException(e);
+---
+>             logger.error("error get all Jobs:", e);            throw new PersistentException(e);

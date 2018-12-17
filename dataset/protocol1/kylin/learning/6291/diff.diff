@@ -1,0 +1,4 @@
+127c127
+<     public QueryMetrics registerWith(String name) {
+---
+>     public QueryMetrics registerWith(String 	name) {

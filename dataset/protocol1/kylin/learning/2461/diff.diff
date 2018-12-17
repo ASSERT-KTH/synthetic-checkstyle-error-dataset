@@ -1,0 +1,5 @@
+178,179c178
+<         for (int i = getMinId(); i <= getMaxId(); i++) {
+<             ret.add(getValueFromId(i));
+---
+>         for (int i = getMinId(); i <= getMaxId(); i++) {            ret.add(getValueFromId(i));

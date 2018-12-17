@@ -1,0 +1,4 @@
+40c40
+<         throw new IllegalStateException("Class ZooKeeperUtil is an utility class !");
+---
+>         throw new IllegalStateException ("Class ZooKeeperUtil is an utility class !");

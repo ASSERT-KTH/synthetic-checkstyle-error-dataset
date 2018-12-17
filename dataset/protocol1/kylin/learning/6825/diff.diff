@@ -1,0 +1,4 @@
+72c72
+<             IOUtils.writeLines(outLines, "\n", os, "UTF-8");
+---
+>             IOUtils.writeLines(outLines, "\n"	, os, "UTF-8");

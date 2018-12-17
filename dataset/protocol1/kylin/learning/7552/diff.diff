@@ -1,0 +1,5 @@
+395,396c395
+<     private boolean isContentOverflow(byte[] content, String resPath) throws SQLException {
+<         if (kylinConfig.isJsonAlwaysSmallCell() && isJsonMetadata(resPath)) {
+---
+>     private boolean isContentOverflow(byte[] content, String resPath) throws SQLException {        if (kylinConfig.isJsonAlwaysSmallCell() && isJsonMetadata(resPath)) {

@@ -1,0 +1,4 @@
+94c94
+<             byte[] keyBytes = new byte[keyLen];
+---
+>             byte	[] keyBytes = new byte[keyLen];

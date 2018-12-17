@@ -1,0 +1,4 @@
+686c686
+<             throw new InternalErrorException("Cannot find cube " + cubeName);
+---
+>             throw new InternalErrorException("Cannot find cube " + cubeName );

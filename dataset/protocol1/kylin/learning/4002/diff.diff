@@ -1,0 +1,4 @@
+51c51
+<         byte[] output = outputStream.toByteArray();
+---
+>         byte[	] output = outputStream.toByteArray();

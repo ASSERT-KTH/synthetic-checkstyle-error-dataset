@@ -1,0 +1,4 @@
+38c38
+<             throw new RuntimeException("If enableSharding false, you should never calculate shard");
+---
+>             throw 	new RuntimeException("If enableSharding false, you should never calculate shard");

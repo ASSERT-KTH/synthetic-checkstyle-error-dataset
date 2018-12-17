@@ -1,0 +1,5 @@
+41,42c41
+<     public int getCode() {
+<         return this.code;
+---
+>     public int getCode() {        return this.code;

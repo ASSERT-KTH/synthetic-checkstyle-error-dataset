@@ -1,0 +1,5 @@
+147,148c147
+<             setEndTime(System.currentTimeMillis());
+<             mgr.updateJobOutput(getId(), ExecutableState.ERROR, null, result.output());
+---
+>             setEndTime(System.currentTimeMillis());            mgr.updateJobOutput(getId(), ExecutableState.ERROR, null, result.output());

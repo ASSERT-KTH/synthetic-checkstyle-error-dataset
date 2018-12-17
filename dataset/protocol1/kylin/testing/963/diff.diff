@@ -1,0 +1,5 @@
+58c58,59
+<     public MetadataCleanupJob(KylinConfig config) {
+---
+>     public MetadataCleanupJob(KylinConfig config) 
+> {

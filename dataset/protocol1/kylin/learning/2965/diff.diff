@@ -1,0 +1,5 @@
+62,63c62
+<     public static final String STEP_NAME_UPDATE_CUBE_INFO = "Update Cube Info";
+<     public static final String STEP_NAME_HIVE_CLEANUP = "Hive Cleanup";
+---
+>     public static final String STEP_NAME_UPDATE_CUBE_INFO = "Update Cube Info";    public static final String STEP_NAME_HIVE_CLEANUP = "Hive Cleanup";

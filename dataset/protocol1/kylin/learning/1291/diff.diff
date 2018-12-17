@@ -1,0 +1,4 @@
+45c45
+<     public void write(long cuboidId, GridTable table) throws IOException {
+---
+>     public void write(long 	cuboidId, GridTable table) throws IOException {

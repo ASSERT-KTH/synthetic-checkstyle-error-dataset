@@ -1,0 +1,4 @@
+54c54
+<             sb.append(record.getLoggerName());
+---
+>             	sb.append(record.getLoggerName());

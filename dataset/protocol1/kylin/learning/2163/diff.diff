@@ -1,0 +1,4 @@
+227c227
+<             while (reader.next(key, value)) {
+---
+>             while (reader.	next(key, value)) {

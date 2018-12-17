@@ -1,0 +1,4 @@
+83c83
+<                 System.out.println(Arrays.toString(enumCuboids.toArray(new Long[enumCuboids.size()])));
+---
+>                 System.out.println( Arrays.toString(enumCuboids.toArray(new Long[enumCuboids.size()])));

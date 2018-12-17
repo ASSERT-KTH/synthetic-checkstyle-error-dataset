@@ -1,0 +1,4 @@
+50c50
+<             return result.getFirst() == 0 ? new ExecuteResult(ExecuteResult.State.SUCCEED, result.getSecond())
+---
+>             return result.getFirst() == 0 ? new ExecuteResult (ExecuteResult.State.SUCCEED, result.getSecond())

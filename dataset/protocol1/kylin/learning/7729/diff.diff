@@ -1,0 +1,5 @@
+148,149c148
+<             public List<String> call() throws Exception {
+<                 final ArrayList<String> collector = Lists.newArrayList();
+---
+>             public List<String> call() throws Exception {                final ArrayList<String> collector = Lists.newArrayList();

@@ -1,0 +1,4 @@
+660c660
+<     public <T extends Service, R> void coprocessorService(Class<T> service, byte[] startKey, byte[] endKey,
+---
+>     public <T extends Service, R> void coprocessorService(Class<T> service, 	byte[] startKey, byte[] endKey,

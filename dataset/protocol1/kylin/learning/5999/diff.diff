@@ -1,0 +1,5 @@
+621,622c621
+<         public VisitFilter(long lastModStart, long lastModEndExclusive) {
+<             this(null, lastModStart, lastModEndExclusive);
+---
+>         public VisitFilter(long lastModStart, long lastModEndExclusive) {            this(null, lastModStart, lastModEndExclusive);

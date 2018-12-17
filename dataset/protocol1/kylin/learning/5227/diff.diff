@@ -1,0 +1,4 @@
+32c32
+<     public static final String JOB_DISCARD = "JOB_DISCARD";
+---
+>     public static final 	String JOB_DISCARD = "JOB_DISCARD";

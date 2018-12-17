@@ -1,0 +1,5 @@
+44,45c44
+<         builder.setColumns(mapping.getDataTypes());
+<         builder.setPrimaryKey(mapping.getPrimaryKey());
+---
+>         builder.setColumns(mapping.getDataTypes());        builder.setPrimaryKey(mapping.getPrimaryKey());

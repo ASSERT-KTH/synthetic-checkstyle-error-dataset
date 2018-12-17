@@ -1,0 +1,5 @@
+58c58,59
+<     private static Map<Pattern, Pair<String, Integer>> patternMap = Maps.newHashMap(); // key is pattern, value is a pair, the first is property key, second is pattern index.
+---
+>     private static Map<Pattern, Pair<String, Integer>> patternMap = Maps.newHashMap
+> (); // key is pattern, value is a pair, the first is property key, second is pattern index.

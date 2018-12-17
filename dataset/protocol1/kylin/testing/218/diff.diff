@@ -1,0 +1,5 @@
+88c88,89
+<     public void dropStreamingConfig(StreamingConfig config, String project) throws IOException {
+---
+>     public void dropStreamingConfig(StreamingConfig config, String project) throws IOException 
+> {

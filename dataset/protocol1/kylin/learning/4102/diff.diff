@@ -1,0 +1,5 @@
+82,83c82
+<         if (index < 0) {
+<             this.children.add(child);
+---
+>         if (index < 0) {            this.children.add(child);

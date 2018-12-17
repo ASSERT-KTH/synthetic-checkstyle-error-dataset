@@ -1,0 +1,4 @@
+280c280
+<                 copyR(src, dst, child, pathsSkipChildrenCheck, copyImmutableResource);
+---
+>                 copyR(src, dst, child, pathsSkipChildrenCheck, 	copyImmutableResource);

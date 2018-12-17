@@ -1,0 +1,5 @@
+56,57c56
+<         args.add("-cubes");
+<         args.add(StringUtils.join(cubeNames, ","));
+---
+>         args.add("-cubes");        args.add(StringUtils.join(cubeNames, ","));

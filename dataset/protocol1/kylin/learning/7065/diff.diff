@@ -1,0 +1,5 @@
+38,39c38
+<             } catch (BufferOverflowException boe) {
+<                 System.out.println("Buffer size cannot hold the raw scans, resizing to 4 times : " + bufferSize);
+---
+>             } catch (BufferOverflowException boe) {                System.out.println("Buffer size cannot hold the raw scans, resizing to 4 times : " + bufferSize);

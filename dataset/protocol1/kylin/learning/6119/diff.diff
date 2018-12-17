@@ -1,0 +1,4 @@
+32c32
+< public class DictionaryDesc implements java.io.Serializable {
+---
+> public class DictionaryDesc implements java.	io.Serializable {

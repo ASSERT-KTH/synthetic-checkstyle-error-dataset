@@ -1,0 +1,4 @@
+261c261
+<         int[] intervals = config.getQueryMetricsPercentilesIntervals();
+---
+>         int[] intervals = config.	getQueryMetricsPercentilesIntervals();

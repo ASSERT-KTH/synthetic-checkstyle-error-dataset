@@ -1,0 +1,4 @@
+26c26
+<     public SplittedBytes(int length) {
+---
+>     public SplittedBytes (int length) {

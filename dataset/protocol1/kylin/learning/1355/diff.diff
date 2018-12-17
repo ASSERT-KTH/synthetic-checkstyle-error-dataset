@@ -1,0 +1,4 @@
+272c272
+<         for (Map.Entry<String, String> entry : this.entrySet()) {
+---
+>         for (Map.Entry<String, String	> entry : this.entrySet()) {

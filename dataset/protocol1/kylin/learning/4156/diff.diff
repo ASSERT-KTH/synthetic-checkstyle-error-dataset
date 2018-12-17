@@ -1,0 +1,5 @@
+226,227c226
+<         if (entry.reservedMB == 0) {
+<             booking.remove(entry.consumer);
+---
+>         if (entry.reservedMB == 0) {            booking.remove(entry.consumer);

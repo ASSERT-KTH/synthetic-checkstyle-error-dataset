@@ -1,0 +1,5 @@
+37c37,38
+< public class CrossDomainFilter implements Filter {
+---
+> public class CrossDomainFilter implements Filter 
+> {

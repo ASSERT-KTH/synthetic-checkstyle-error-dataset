@@ -1,0 +1,4 @@
+45c45
+<     final protected CuboidScheduler cuboidScheduler;
+---
+>     final 	protected CuboidScheduler cuboidScheduler;

@@ -1,0 +1,5 @@
+43c43,44
+<     protected ExecuteResult doWork(ExecutableContext context) throws ExecuteException {
+---
+>     protected ExecuteResult doWork
+> (ExecutableContext context) throws ExecuteException {

@@ -1,0 +1,4 @@
+51c51
+<     private final static com.google.common.cache.Cache<String, Authentication> userCache = CacheBuilder.newBuilder()
+---
+>     private final static com.google.common.cache.Cache<String, Authentication> userCache = 	CacheBuilder.newBuilder()

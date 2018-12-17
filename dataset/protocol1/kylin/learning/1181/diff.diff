@@ -1,0 +1,4 @@
+47c47
+<     final protected CubeDesc cubeDesc;
+---
+>     final protected CubeDesc cubeDesc	;

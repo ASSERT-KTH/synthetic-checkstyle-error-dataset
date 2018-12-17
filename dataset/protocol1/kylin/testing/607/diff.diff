@@ -1,0 +1,5 @@
+194,195c194
+<         try (AutoLock l = lock.lockForWrite()) {
+<             AclRecord aclRecord = getAclRecordByCache(objID(objectIdentity));
+---
+>         try (AutoLock l = lock.lockForWrite()) {            AclRecord aclRecord = getAclRecordByCache(objID(objectIdentity));

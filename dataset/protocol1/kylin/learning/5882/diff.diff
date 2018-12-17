@@ -1,0 +1,4 @@
+26c26
+< import org.apache.kylin.source.SourceManager;
+---
+> import org.apache.kylin.source.SourceManager	;

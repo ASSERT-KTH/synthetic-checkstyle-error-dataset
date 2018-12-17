@@ -1,0 +1,4 @@
+128c128
+<         if (sql != null ? !sql.equals(that.sql) : that.sql != null)
+---
+>         	if (sql != null ? !sql.equals(that.sql) : that.sql != null)

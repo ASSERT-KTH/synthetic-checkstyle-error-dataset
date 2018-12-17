@@ -1,0 +1,5 @@
+66,67c66
+<         resultRowCountQuantiles = new MutableQuantiles[intervals.length];
+<         cacheHitCountQuantiles = new MutableQuantiles[intervals.length];
+---
+>         resultRowCountQuantiles = new MutableQuantiles[intervals.length];        cacheHitCountQuantiles = new MutableQuantiles[intervals.length];

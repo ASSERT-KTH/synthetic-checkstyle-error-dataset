@@ -1,0 +1,4 @@
+419c419
+<             logger.error("error update job output id:" + output.getUuid(), e);
+---
+>             logger.error("error update job output id:" + output.getUuid(), 	e);

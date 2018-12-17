@@ -1,0 +1,4 @@
+54c54
+<             return Lists.newArrayList(BooleanDimEnc.ENCODING_NAME, DictionaryDimEnc.ENCODING_NAME,
+---
+>             return Lists.newArrayList(BooleanDimEnc.ENCODING_NAME, DictionaryDimEnc	.ENCODING_NAME,

@@ -1,0 +1,5 @@
+56,57c56
+<             System.out.println("Usage: ResourceTool download  LOCAL_DIR");
+<             System.out.println("Usage: ResourceTool upload    LOCAL_DIR");
+---
+>             System.out.println("Usage: ResourceTool download  LOCAL_DIR");            System.out.println("Usage: ResourceTool upload    LOCAL_DIR");

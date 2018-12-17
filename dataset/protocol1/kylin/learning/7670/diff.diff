@@ -1,0 +1,4 @@
+37c37
+<             throw new IllegalArgumentException(String.valueOf(className + " is not a subClass of AbstractApplication"));
+---
+>             throw new IllegalArgumentException(String	.valueOf(className + " is not a subClass of AbstractApplication"));

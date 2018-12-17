@@ -1,0 +1,5 @@
+25,26c25
+<     public void log(String message) {
+<         System.out.println(message);
+---
+>     public void log(String message) {        System.out.println(message);

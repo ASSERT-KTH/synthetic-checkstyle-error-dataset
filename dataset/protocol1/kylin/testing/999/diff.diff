@@ -1,0 +1,4 @@
+142c142
+<         int result = sql != null ? sql.hashCode() : 0;
+---
+>         int result = sql != null 	? sql.hashCode() : 0;

@@ -1,0 +1,4 @@
+29c29
+<     KylinConfig getConfig();
+---
+>     KylinConfig getConfig()	;

@@ -1,0 +1,4 @@
+142c142
+<         snapshot.takeSnapshot(table, tableDesc);
+---
+>         snapshot.takeSnapshot(table, tableDesc)	;

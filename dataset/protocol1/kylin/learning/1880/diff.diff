@@ -1,0 +1,4 @@
+33c33
+<     static final String ADMINISTRATION = "ADMINISTRATION";
+---
+>     static final 	String ADMINISTRATION = "ADMINISTRATION";

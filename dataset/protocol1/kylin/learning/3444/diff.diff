@@ -1,0 +1,5 @@
+53,54c53
+<             Constructor constructor = clazz.getConstructor();
+<             return (IExtLookupProvider) constructor.newInstance();
+---
+>             Constructor constructor = clazz.getConstructor();            return (IExtLookupProvider) constructor.newInstance();

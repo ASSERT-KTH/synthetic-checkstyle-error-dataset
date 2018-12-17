@@ -1,0 +1,5 @@
+1172c1172,1173
+<                         return lessThanUnsignedLong(lw, rw) ? -1 : 1;
+---
+>                         return lessThanUnsignedLong
+> (lw, rw) ? -1 : 1;

@@ -1,0 +1,4 @@
+32c32
+<     public Serializer(Class<T> type) {
+---
+>     	public Serializer(Class<T> type) {

@@ -1,0 +1,4 @@
+62c62
+<         allDatatypes.addAll(DataType.INTEGER_FAMILY);
+---
+>         allDatatypes.addAll(DataType	.INTEGER_FAMILY);

@@ -1,0 +1,4 @@
+46c46
+<         for (ICuboidWriter writer : cuboidWriters) {
+---
+>         for (ICuboidWriter 	writer : cuboidWriters) {

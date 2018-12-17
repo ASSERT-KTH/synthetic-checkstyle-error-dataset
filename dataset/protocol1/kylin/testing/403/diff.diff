@@ -1,0 +1,4 @@
+101c101
+<         this.length = pos;
+---
+>         this	.length = pos;

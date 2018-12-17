@@ -1,0 +1,4 @@
+49c49
+<     public void serialize(Object value, ByteBuffer out) {
+---
+>     public void serialize(Object value, ByteBuffer out ) {

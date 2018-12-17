@@ -1,0 +1,5 @@
+183,184c183
+<                 readableProjects.add(projectInstance);
+<             }
+---
+>                 readableProjects.add(projectInstance);            }

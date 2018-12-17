@@ -1,0 +1,5 @@
+122,123c122
+<                 for (ExecutablePO task : executable.getTasks()) {
+<                     toDeleteCandidates.add(ResourceStore.EXECUTE_OUTPUT_RESOURCE_ROOT + "/" + task.getUuid());
+---
+>                 for (ExecutablePO task : executable.getTasks()) {                    toDeleteCandidates.add(ResourceStore.EXECUTE_OUTPUT_RESOURCE_ROOT + "/" + task.getUuid());

@@ -1,0 +1,4 @@
+102c102
+<                 if (other.value != null)
+---
+>                 	if (other.value != null)

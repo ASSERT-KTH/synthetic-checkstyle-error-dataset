@@ -1,0 +1,5 @@
+64,65c64
+<         aclEvaluate.checkProjectAdminPermission(project);
+<         getTableACLManager().deleteTableACL(project, name, table, type);
+---
+>         aclEvaluate.checkProjectAdminPermission(project);        getTableACLManager().deleteTableACL(project, name, table, type);

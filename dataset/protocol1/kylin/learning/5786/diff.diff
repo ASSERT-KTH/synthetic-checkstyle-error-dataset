@@ -1,0 +1,5 @@
+88c88,89
+<                 logger.info("Migrate table : {}", aclTableName);
+---
+>                 logger.info
+> ("Migrate table : {}", aclTableName);

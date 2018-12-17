@@ -1,0 +1,5 @@
+197,198c197
+<         ResourceStore store = ResourceStore.getStore(config);
+<         NavigableSet<String> result = store.listResources(path);
+---
+>         ResourceStore store = ResourceStore.getStore(config);        NavigableSet<String> result = store.listResources(path);

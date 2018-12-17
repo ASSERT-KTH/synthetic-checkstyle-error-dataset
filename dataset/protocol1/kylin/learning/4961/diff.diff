@@ -1,0 +1,4 @@
+39c39
+< public class DimensionDesc implements java.io.Serializable {
+---
+> public class DimensionDesc implements java.io.	Serializable {

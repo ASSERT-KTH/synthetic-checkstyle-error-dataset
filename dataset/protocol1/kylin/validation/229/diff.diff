@@ -1,0 +1,5 @@
+27,28c27
+<     public WriteConflictException(String msg, Throwable t) {
+<         super(msg, t);
+---
+>     public WriteConflictException(String msg, Throwable t) {        super(msg, t);

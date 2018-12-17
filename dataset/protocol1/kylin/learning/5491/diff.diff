@@ -1,0 +1,4 @@
+101c101
+<         private long buildDuration;
+---
+>         private long 	buildDuration;

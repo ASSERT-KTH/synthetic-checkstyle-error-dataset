@@ -1,0 +1,4 @@
+43c43
+<     public void setFormerProjectName(String formerProjectName) {
+---
+>     public void setFormerProjectName(String formerProjectName) 	{

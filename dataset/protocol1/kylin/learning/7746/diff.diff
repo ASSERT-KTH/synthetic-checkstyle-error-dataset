@@ -1,0 +1,4 @@
+316c316
+<             List<String> users = getAllNofifyUsers(config);
+---
+>             List<String> users = getAllNofifyUsers( config);

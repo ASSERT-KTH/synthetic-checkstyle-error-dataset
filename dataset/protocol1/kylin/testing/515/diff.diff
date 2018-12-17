@@ -1,0 +1,4 @@
+158c158
+<     private NavigableSet<String> noNull(NavigableSet<String> list) {
+---
+>     private NavigableSet<String> noNull( NavigableSet<String> list) {

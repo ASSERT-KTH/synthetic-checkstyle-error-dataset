@@ -1,0 +1,5 @@
+218,219c218
+<     private void throwExceptionIfAny() throws IOException {
+<         List<Throwable> errors = Lists.newArrayList();
+---
+>     private void throwExceptionIfAny() throws IOException {        List<Throwable> errors = Lists.newArrayList();

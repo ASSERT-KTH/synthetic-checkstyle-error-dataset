@@ -1,0 +1,4 @@
+27c27
+< import org.apache.kylin.rest.constant.Constant;
+---
+> import org.apache.kylin.rest.constant.	Constant;

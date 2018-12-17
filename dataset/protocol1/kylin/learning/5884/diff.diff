@@ -1,0 +1,5 @@
+30,31c30
+< import org.apache.kylin.dimension.DimensionEncoding;
+< import org.apache.kylin.gridtable.DefaultGTComparator;
+---
+> import org.apache.kylin.dimension.DimensionEncoding;import org.apache.kylin.gridtable.DefaultGTComparator;

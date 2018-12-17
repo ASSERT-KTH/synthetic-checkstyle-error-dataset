@@ -1,0 +1,5 @@
+68,69c68
+<                     result = new FixedLenDimEnc(0);
+<                 } else {
+---
+>                     result = new FixedLenDimEnc(0);                } else {

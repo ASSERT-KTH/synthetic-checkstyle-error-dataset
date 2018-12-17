@@ -1,0 +1,5 @@
+23,24c23
+<     public TooManyCuboidException(String message) {
+<         super(message);
+---
+>     public TooManyCuboidException(String message) {        super(message);

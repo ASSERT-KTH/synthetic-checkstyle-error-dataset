@@ -1,0 +1,4 @@
+138c138
+<     public <T> NavigableMap<Long, CuboidResult> build(RecordConsumeBlockingQueueController<T> input)
+---
+>     public <T> NavigableMap<Long	, CuboidResult> build(RecordConsumeBlockingQueueController<T> input)

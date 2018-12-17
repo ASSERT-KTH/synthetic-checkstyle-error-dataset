@@ -1,0 +1,4 @@
+68c68
+<     public String getINVALID_BUILD_TYPE() {
+---
+>     public String getINVALID_BUILD_TYPE() 	{

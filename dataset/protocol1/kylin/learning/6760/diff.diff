@@ -1,0 +1,5 @@
+128c128,129
+<                 TblColRef c = dictDesc.getColumnRef();
+---
+>                 TblColRef c = dictDesc.getColumnRef
+> ();

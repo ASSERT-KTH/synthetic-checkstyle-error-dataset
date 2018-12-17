@@ -1,0 +1,4 @@
+27c27
+< public class MetricsResponse extends HashMap<String, Float> {
+---
+> public class MetricsResponse extends HashMap<String	, Float> {

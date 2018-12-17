@@ -1,0 +1,5 @@
+66,67c66
+<             protected ManagedUser initEntityAfterReload(ManagedUser user, String resourceName) {
+<                 return user;
+---
+>             protected ManagedUser initEntityAfterReload(ManagedUser user, String resourceName) {                return user;

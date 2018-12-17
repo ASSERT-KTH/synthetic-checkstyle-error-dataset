@@ -1,0 +1,4 @@
+973c973
+<             JobInstance jobInstance = getJobInstance(result.getId());
+---
+>             JobInstance jobInstance = getJobInstance(result.	getId());

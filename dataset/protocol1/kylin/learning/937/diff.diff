@@ -1,0 +1,4 @@
+35c35
+<         this.text = text;
+---
+>         this.text = text	;

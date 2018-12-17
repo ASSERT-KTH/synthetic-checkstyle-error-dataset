@@ -1,0 +1,5 @@
+79c79,80
+<     public PatternedLogger(Logger wrappedLogger, ILogListener listener) {
+---
+>     public PatternedLogger(Logger wrappedLogger, ILogListener listener) 
+> {

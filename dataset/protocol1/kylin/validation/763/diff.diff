@@ -1,0 +1,4 @@
+79c79
+<             throw new IllegalArgumentException("Not supported row key col encoding: '" + this.encoding + "'");
+---
+>             	throw new IllegalArgumentException("Not supported row key col encoding: '" + this.encoding + "'");

@@ -1,0 +1,5 @@
+59,60c59
+<     public void setColumn(String columnName) {
+<         this.column = columnName;
+---
+>     public void setColumn(String columnName) {        this.column = columnName;

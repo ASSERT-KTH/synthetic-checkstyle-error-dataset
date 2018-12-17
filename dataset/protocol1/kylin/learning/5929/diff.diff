@@ -1,0 +1,4 @@
+49c49
+<             this.put(key, (this.get(key) - decreased));
+---
+>             this.put(key, (this.get(key) - decreased))	;

@@ -1,0 +1,4 @@
+53c53
+<     boolean isLocked(String lockPath);
+---
+>     boolean 	isLocked(String lockPath);

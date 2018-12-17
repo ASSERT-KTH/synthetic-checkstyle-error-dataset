@@ -1,0 +1,5 @@
+229,230c229
+<             BytesUtil.writeUnsigned(n.id, trieBytes, o, sizeId);
+<             o += sizeId;
+---
+>             BytesUtil.writeUnsigned(n.id, trieBytes, o, sizeId);            o += sizeId;

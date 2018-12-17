@@ -1,0 +1,5 @@
+185,186c185
+<             throw new InternalErrorException("Failed to deal with the request:" + e.getMessage(), e);
+<         }
+---
+>             throw new InternalErrorException("Failed to deal with the request:" + e.getMessage(), e);        }

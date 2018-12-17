@@ -1,0 +1,4 @@
+110c110
+<         public IGTCodeSystem deserialize(ByteBuffer in) {
+---
+>         public 	IGTCodeSystem deserialize(ByteBuffer in) {

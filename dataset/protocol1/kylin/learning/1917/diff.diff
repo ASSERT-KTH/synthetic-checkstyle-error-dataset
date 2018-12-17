@@ -1,0 +1,4 @@
+35c35
+<     public static void writeByte(byte num, byte[] bytes, int offset, int size) {
+---
+>     public static void writeByte(byte num, byte[	] bytes, int offset, int size) {

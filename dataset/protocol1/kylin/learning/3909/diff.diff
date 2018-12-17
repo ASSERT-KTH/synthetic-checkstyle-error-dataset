@@ -1,0 +1,5 @@
+51,52c51
+<                     : ExecuteResult.createFailed(new ShellException(result.getSecond()));
+<         } catch (IOException e) {
+---
+>                     : ExecuteResult.createFailed(new ShellException(result.getSecond()));        } catch (IOException e) {

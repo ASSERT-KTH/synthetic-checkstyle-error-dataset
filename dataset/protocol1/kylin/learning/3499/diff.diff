@@ -1,0 +1,4 @@
+29c29
+<     void addTask(AbstractExecutable executable);
+---
+>     void addTask (AbstractExecutable executable);

@@ -1,0 +1,4 @@
+57c57
+<         List<NodeInfo> children = Lists.newArrayList();
+---
+>         List<NodeInfo	> children = Lists.newArrayList();

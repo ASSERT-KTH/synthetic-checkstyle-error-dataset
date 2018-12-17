@@ -1,0 +1,5 @@
+48,49c48
+<             JobInstance jobInstance = new JobInstance();
+<             jobInstance.setUuid(uuid);
+---
+>             JobInstance jobInstance = new JobInstance();            jobInstance.setUuid(uuid);

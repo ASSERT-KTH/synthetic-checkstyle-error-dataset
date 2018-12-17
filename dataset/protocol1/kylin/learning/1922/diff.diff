@@ -1,0 +1,4 @@
+25c25
+< public class TrimmedDimensionSerializer extends DataTypeSerializer<Object> {
+---
+> public class 	TrimmedDimensionSerializer extends DataTypeSerializer<Object> {

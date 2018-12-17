@@ -1,0 +1,5 @@
+55c55,56
+<         return StringUtils.join(Iterables.transform(Arrays.asList(serverList.split(",")), new Function<String, String>() {
+---
+>         return StringUtils.join
+> (Iterables.transform(Arrays.asList(serverList.split(",")), new Function<String, String>() {

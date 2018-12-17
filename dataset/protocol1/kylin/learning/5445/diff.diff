@@ -1,0 +1,4 @@
+36c36
+<     private static String threadProcessAndHost() {
+---
+>     	private static String threadProcessAndHost() {

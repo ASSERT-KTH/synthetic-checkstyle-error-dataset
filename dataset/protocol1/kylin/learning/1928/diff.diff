@@ -1,0 +1,5 @@
+61c61,62
+<         String message = formatMessage(record);
+---
+>         String message = formatMessage
+> (record);

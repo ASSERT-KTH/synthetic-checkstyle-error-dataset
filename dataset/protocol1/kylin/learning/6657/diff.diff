@@ -1,0 +1,5 @@
+236,237c236
+<     public void storeToXML(OutputStream stream, String comment) throws IOException {
+<         CustomProperties customProperties = new CustomProperties(this.properties);
+---
+>     public void storeToXML(OutputStream stream, String comment) throws IOException {        CustomProperties customProperties = new CustomProperties(this.properties);

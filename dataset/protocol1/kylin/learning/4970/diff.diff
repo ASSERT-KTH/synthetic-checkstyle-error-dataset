@@ -1,0 +1,5 @@
+35,36c35
+<     public final int nValues;
+<     public final BytesConverter bytesConverter;
+---
+>     public final int nValues;    public final BytesConverter bytesConverter;

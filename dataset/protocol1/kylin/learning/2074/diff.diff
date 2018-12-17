@@ -1,0 +1,5 @@
+56,57c56
+<         setMetrics(dataModelDesc.getMetrics());
+<         setFilterCondition(dataModelDesc.getFilterCondition());
+---
+>         setMetrics(dataModelDesc.getMetrics());        setFilterCondition(dataModelDesc.getFilterCondition());

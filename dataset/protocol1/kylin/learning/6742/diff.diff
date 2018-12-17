@@ -1,0 +1,4 @@
+50c50
+<                 if (!all.contains(auth.getAuthority())) {
+---
+>                 if (!all	.contains(auth.getAuthority())) {

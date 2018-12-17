@@ -1,0 +1,4 @@
+55c55
+<     private static final Comparator<String> defaultStrComparator = new Comparator<String>() {
+---
+>     private static final Comparator<String> defaultStrComparator = new 	Comparator<String>() {

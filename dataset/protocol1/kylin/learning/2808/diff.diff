@@ -1,0 +1,5 @@
+58c58,59
+<         return f.exists() && f.isFile(); // directory is not considered a resource
+---
+>         return f.exists() && f.isFile
+> (); // directory is not considered a resource

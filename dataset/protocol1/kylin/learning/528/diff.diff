@@ -1,0 +1,5 @@
+134,135c134
+<                         record.setParentDomainObjectInfo(getParentDomainObjectInfoFromRs(result));
+<                         record.setOwnerInfo(getOwnerSidInfo(result));
+---
+>                         record.setParentDomainObjectInfo(getParentDomainObjectInfoFromRs(result));                        record.setOwnerInfo(getOwnerSidInfo(result));

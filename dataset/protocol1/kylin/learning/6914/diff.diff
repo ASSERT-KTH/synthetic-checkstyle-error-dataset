@@ -1,0 +1,4 @@
+25c25
+<     public abstract String getKey();
+---
+>     	public abstract String getKey();

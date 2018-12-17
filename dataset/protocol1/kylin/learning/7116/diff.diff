@@ -1,0 +1,5 @@
+28,29c28
+<         Thread t = Executors.defaultThreadFactory().newThread(r);
+<         t.setDaemon(true);
+---
+>         Thread t = Executors.defaultThreadFactory().newThread(r);        t.setDaemon(true);

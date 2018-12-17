@@ -1,0 +1,4 @@
+323c323
+<     private CuboidResult updateCuboidResult(long cuboidId, GridTable table, int nRows, long timeSpent,
+---
+>     private CuboidResult updateCuboidResult(long cuboidId, GridTable table, int nRows, long 	timeSpent,

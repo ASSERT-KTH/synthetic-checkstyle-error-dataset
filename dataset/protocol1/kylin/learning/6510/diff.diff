@@ -1,0 +1,5 @@
+129,130c129
+<         result = prime * result + ((version == null) ? 0 : version.hashCode());
+<         return result;
+---
+>         result = prime * result + ((version == null) ? 0 : version.hashCode());        return result;

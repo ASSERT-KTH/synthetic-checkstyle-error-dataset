@@ -1,0 +1,4 @@
+83c83
+<     final protected ExecutableManager executableManager;
+---
+>     final protected 	ExecutableManager executableManager;

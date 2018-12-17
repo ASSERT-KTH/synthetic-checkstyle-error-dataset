@@ -1,0 +1,5 @@
+44,45c44
+<         logger.info("Adding path " + path + " to class path");
+<         File file = new File(path);
+---
+>         logger.info("Adding path " + path + " to class path");        File file = new File(path);

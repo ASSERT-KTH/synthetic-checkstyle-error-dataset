@@ -1,0 +1,4 @@
+94c94
+<         List<ProjectInstance> projectInstances = projectService.listAllProjects(null, null);
+---
+>         List<ProjectInstance> projectInstances = projectService	.listAllProjects(null, null);

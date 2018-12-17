@@ -1,0 +1,4 @@
+372c372
+<             private final Iterator<Result> iterator = ret.iterator();
+---
+>             private final Iterator<Result> iterator = ret.iterator ();

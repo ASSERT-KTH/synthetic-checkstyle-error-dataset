@@ -1,0 +1,4 @@
+129c129
+<         patterns.add("([\\.\\s])(" + tableName.trim() + ")([,\\s)])");
+---
+>         patterns	.add("([\\.\\s])(" + tableName.trim() + ")([,\\s)])");

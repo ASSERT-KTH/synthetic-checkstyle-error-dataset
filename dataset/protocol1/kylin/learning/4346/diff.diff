@@ -1,0 +1,4 @@
+1256c1256
+<         if (left[leftOffset + leftLen - 1] != right[rightOffset + rightLen - 1])
+---
+>         if (left[leftOffset + leftLen - 1] != 	right[rightOffset + rightLen - 1])

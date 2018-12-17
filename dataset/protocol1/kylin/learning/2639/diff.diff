@@ -1,0 +1,5 @@
+106c106,107
+<         final String whiteListProperties = KylinConfig.getInstanceFromEnv().getPropertiesWhiteList();
+---
+>         final String whiteListProperties = KylinConfig.getInstanceFromEnv().getPropertiesWhiteList
+> ();

@@ -1,0 +1,5 @@
+206c206,207
+<         HadoopUtil.getFileSystem(realHdfsPath).delete(new Path(realHdfsPath), true);
+---
+>         HadoopUtil.getFileSystem(realHdfsPath).delete
+> (new Path(realHdfsPath), true);

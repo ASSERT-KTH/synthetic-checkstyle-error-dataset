@@ -1,0 +1,4 @@
+102c102
+<         indentMapper.writeValue(out, value);
+---
+>         indentMapper.	writeValue(out, value);

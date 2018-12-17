@@ -1,0 +1,5 @@
+42,43c42
+<             throw new RuntimeException("error execute " + this.getClass().getName() + ". Root cause: " + e.getMessage(), e);
+<         }
+---
+>             throw new RuntimeException("error execute " + this.getClass().getName() + ". Root cause: " + e.getMessage(), e);        }

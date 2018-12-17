@@ -1,0 +1,5 @@
+40,41c40
+<         buf.append("kylin.home: ").append(new File(KylinConfig.getKylinHome()).getAbsolutePath()).append("\n");
+<         buf.append("kylin.version:").append(KylinVersion.getCurrentVersion()).append("\n");
+---
+>         buf.append("kylin.home: ").append(new File(KylinConfig.getKylinHome()).getAbsolutePath()).append("\n");        buf.append("kylin.version:").append(KylinVersion.getCurrentVersion()).append("\n");

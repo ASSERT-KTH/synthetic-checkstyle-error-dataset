@@ -1,0 +1,5 @@
+140,141c140
+<     public void addStatements(String[] stats) {
+<         for (String s : stats) {
+---
+>     public void addStatements(String[] stats) {        for (String s : stats) {

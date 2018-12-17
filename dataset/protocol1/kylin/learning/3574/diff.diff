@@ -1,0 +1,5 @@
+231,232c231
+<                             buf.clear();
+<                             buf.limit(len);
+---
+>                             buf.clear();                            buf.limit(len);

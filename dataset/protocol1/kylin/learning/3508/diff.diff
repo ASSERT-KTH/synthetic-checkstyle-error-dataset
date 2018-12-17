@@ -1,0 +1,4 @@
+23c23
+< public class CaseInsensitiveStringMap<T> extends TreeMap<String, T> {
+---
+> public class CaseInsensitiveStringMap	<T> extends TreeMap<String, T> {

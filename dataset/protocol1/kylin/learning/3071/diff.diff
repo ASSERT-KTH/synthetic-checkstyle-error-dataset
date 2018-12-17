@@ -1,0 +1,4 @@
+36c36
+<     public GTRecord min(Collection<GTRecord> v) {
+---
+>     public GTRecord min(Collection<GTRecord> v) 	{

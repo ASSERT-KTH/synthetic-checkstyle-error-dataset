@@ -1,0 +1,4 @@
+111c111
+<     public boolean equals(Object obj) {
+---
+>     public boolean equals(Object obj ) {

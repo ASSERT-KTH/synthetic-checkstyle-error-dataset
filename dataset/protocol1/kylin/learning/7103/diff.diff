@@ -1,0 +1,4 @@
+166c166
+<         t = System.currentTimeMillis() - t;
+---
+>         t = System.currentTimeMillis() 	- t;

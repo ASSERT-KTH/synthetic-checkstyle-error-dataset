@@ -1,0 +1,5 @@
+90,91c90
+<     public void clearCacheForCubeMigration(@RequestBody CubeMigrationRequest request) throws IOException {
+<         cacheService.clearCacheForCubeMigration(request.getCube(), request.getProject(), request.getModel(), request.getTableToProjects());
+---
+>     public void clearCacheForCubeMigration(@RequestBody CubeMigrationRequest request) throws IOException {        cacheService.clearCacheForCubeMigration(request.getCube(), request.getProject(), request.getModel(), request.getTableToProjects());

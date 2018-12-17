@@ -1,0 +1,4 @@
+78c78
+<         this.setUuid(table.getUuid());
+---
+>         	this.setUuid(table.getUuid());

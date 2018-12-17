@@ -1,0 +1,4 @@
+34c34
+<         for (Integer x : input) {
+---
+>         for ( Integer x : input) {

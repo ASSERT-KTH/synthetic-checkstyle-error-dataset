@@ -1,0 +1,5 @@
+117c117,118
+<         if (DimensionEncoding.isNull(bytes, 0, bytes.length)) {
+---
+>         if (DimensionEncoding.isNull
+> (bytes, 0, bytes.length)) {

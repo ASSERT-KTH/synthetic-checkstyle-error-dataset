@@ -1,0 +1,5 @@
+50,51c50
+<         } else if (dataType.isDateTimeFamily()) {
+<             return Lists.newArrayList(DateDimEnc.ENCODING_NAME, TimeDimEnc.ENCODING_NAME,
+---
+>         } else if (dataType.isDateTimeFamily()) {            return Lists.newArrayList(DateDimEnc.ENCODING_NAME, TimeDimEnc.ENCODING_NAME,

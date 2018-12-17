@@ -1,0 +1,5 @@
+96,97c96
+<         public BytesRandomizer(int len) {
+<             this.bytes = new byte[len];
+---
+>         public BytesRandomizer(int len) {            this.bytes = new byte[len];

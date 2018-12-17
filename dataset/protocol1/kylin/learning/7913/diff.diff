@@ -1,0 +1,5 @@
+22,23c22
+< import static org.apache.kylin.job.constant.ExecutableConstants.YARN_APP_ID;
+< import static org.apache.kylin.job.constant.ExecutableConstants.YARN_APP_URL;
+---
+> import static org.apache.kylin.job.constant.ExecutableConstants.YARN_APP_ID;import static org.apache.kylin.job.constant.ExecutableConstants.YARN_APP_URL;

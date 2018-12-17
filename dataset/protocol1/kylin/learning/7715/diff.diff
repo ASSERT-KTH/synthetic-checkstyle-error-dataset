@@ -1,0 +1,4 @@
+48c48
+<             max = max(max, iterator.next());
+---
+>             max = max(max, iterator	.next());

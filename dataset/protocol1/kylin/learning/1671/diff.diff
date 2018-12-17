@@ -1,0 +1,4 @@
+58c58
+<         switch (format) {
+---
+>         switch ( format) {

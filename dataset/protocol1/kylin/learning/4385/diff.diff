@@ -1,0 +1,5 @@
+82,83c82
+<     public static boolean hasMailNotification(ExecutableState state) {
+<         return getMailTemplateKey(state) != null;
+---
+>     public static boolean hasMailNotification(ExecutableState state) {        return getMailTemplateKey(state) != null;

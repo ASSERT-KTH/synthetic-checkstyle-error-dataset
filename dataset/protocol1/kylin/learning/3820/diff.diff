@@ -1,0 +1,4 @@
+731c731
+<             metaDirURI = "file:///" + metaDirURI;
+---
+>             metaDirURI = "file:///" 	+ metaDirURI;

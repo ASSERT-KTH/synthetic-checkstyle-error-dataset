@@ -1,0 +1,5 @@
+348c348,349
+<         return scanAndAggregateGridTable(parent.table, newGridTableByCuboidID(cuboidId), parent.cuboidId,
+---
+>         return scanAndAggregateGridTable(parent.table, newGridTableByCuboidID
+> (cuboidId), parent.cuboidId,

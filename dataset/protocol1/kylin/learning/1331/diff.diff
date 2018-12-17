@@ -1,0 +1,5 @@
+292c292,293
+<                 baseFilter.add(JobPropertyEnum.CUBE.toString() + " IN (" + cubeNames.substring(1) + ")");
+---
+>                 baseFilter.add
+> (JobPropertyEnum.CUBE.toString() + " IN (" + cubeNames.substring(1) + ")");

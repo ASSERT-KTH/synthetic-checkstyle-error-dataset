@@ -1,0 +1,5 @@
+70,71c70
+<     public String getDeletePstatSql() {
+<         final String sql = new MessageFormat(format.getDeletePstatSql(), Locale.ROOT)
+---
+>     public String getDeletePstatSql() {        final String sql = new MessageFormat(format.getDeletePstatSql(), Locale.ROOT)

@@ -1,0 +1,5 @@
+161,162c161
+<         for (String pattern : identifierPatterns) {
+<             if (Pattern.compile(pattern, Pattern.CASE_INSENSITIVE | Pattern.DOTALL).matcher(sqlExpr).find()) {
+---
+>         for (String pattern : identifierPatterns) {            if (Pattern.compile(pattern, Pattern.CASE_INSENSITIVE | Pattern.DOTALL).matcher(sqlExpr).find()) {

@@ -1,0 +1,5 @@
+49,50c49
+<             return Lists.newArrayList(DictionaryDimEnc.ENCODING_NAME);
+<         } else if (dataType.isDateTimeFamily()) {
+---
+>             return Lists.newArrayList(DictionaryDimEnc.ENCODING_NAME);        } else if (dataType.isDateTimeFamily()) {

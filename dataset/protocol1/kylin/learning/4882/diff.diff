@@ -1,0 +1,4 @@
+37c37
+<     public final TreeMap<AppendDictSliceKey, String> sliceFileMap; // slice key -> slice file name
+---
+>     public final TreeMap<AppendDictSliceKey,String> sliceFileMap; // slice key -> slice file name

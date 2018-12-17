@@ -1,0 +1,5 @@
+368c368,369
+<         int mbEstimateBaseAggrCache = (int) (aggregationScanner.getEstimateSizeOfAggrCache() / MemoryBudgetController.ONE_MB);
+---
+>         int mbEstimateBaseAggrCache = (int) (aggregationScanner.getEstimateSizeOfAggrCache
+> () / MemoryBudgetController.ONE_MB);

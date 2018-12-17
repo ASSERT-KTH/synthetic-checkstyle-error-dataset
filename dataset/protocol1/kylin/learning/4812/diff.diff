@@ -1,0 +1,5 @@
+77,78c77
+<     public static String formatToTimeStr(long millis, String pattern) {
+<         return getDateFormat(pattern).format(new Date(millis));
+---
+>     public static String formatToTimeStr(long millis, String pattern) {        return getDateFormat(pattern).format(new Date(millis));

@@ -1,0 +1,5 @@
+379,380c379
+<         sw.start();
+<         logger.info("Calculating cuboid " + cuboidId);
+---
+>         sw.start();        logger.info("Calculating cuboid " + cuboidId);

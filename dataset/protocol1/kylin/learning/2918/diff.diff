@@ -1,0 +1,4 @@
+48c48
+<     public void setSegmentIDs(List<String> segmentIDs) {
+---
+>     public void setSegmentIDs (List<String> segmentIDs) {

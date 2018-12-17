@@ -1,0 +1,4 @@
+56c56
+<                     InitialTask task = (InitialTask) Class.forName(taskClass).newInstance();
+---
+>                     InitialTask task = (InitialTask	) Class.forName(taskClass).newInstance();

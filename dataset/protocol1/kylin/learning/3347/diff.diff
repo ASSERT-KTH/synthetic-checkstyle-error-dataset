@@ -1,0 +1,4 @@
+64c64
+<         setSegments(cube.getSegments());
+---
+>         setSegments (cube.getSegments());

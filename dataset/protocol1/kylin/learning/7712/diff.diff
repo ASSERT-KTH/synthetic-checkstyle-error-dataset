@@ -1,0 +1,4 @@
+119c119
+<         nMetrics = gtColIdx - nDimensions;
+---
+>         nMetrics 	= gtColIdx - nDimensions;

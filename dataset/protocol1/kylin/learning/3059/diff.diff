@@ -1,0 +1,4 @@
+968c968
+<             int cut = str.indexOf(":");
+---
+>             int cut = str.indexOf(":")	;

@@ -1,0 +1,5 @@
+383,384c383
+<                 measureColumns);
+<         GTBuilder builder = newGridTable.rebuild();
+---
+>                 measureColumns);        GTBuilder builder = newGridTable.rebuild();

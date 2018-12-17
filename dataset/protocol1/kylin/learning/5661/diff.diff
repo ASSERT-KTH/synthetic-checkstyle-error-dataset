@@ -1,0 +1,4 @@
+65c65
+<                 tableWithSchema.add(tableScan.getTableRef().getTableIdentity());
+---
+>                 tableWithSchema.add(tableScan.getTableRef().getTableIdentity())	;

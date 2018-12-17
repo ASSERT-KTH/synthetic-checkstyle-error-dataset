@@ -1,0 +1,5 @@
+123c123,124
+<         DeriveInfo(DeriveType type, JoinDesc join, TblColRef[] columns, boolean isOneToOne) {
+---
+>         DeriveInfo
+> (DeriveType type, JoinDesc join, TblColRef[] columns, boolean isOneToOne) {

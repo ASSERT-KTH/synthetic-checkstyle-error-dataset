@@ -1,0 +1,5 @@
+449,450c449
+<             return null;
+<         return toHex(array);
+---
+>             return null;        return toHex(array);

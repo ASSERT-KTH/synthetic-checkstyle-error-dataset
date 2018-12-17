@@ -1,0 +1,5 @@
+36,37c36
+<     private Boolean enabled = Boolean.TRUE;
+<     private Boolean starttlsEnabled = Boolean.FALSE;
+---
+>     private Boolean enabled = Boolean.TRUE;    private Boolean starttlsEnabled = Boolean.FALSE;

@@ -1,5 +1,4 @@
-31,32c31
-<         // When using FreeBuilder one needs to use the JavaBean convention, which means that all setters will start
-<         // with set
+10c10
+< import java.util.HashSet;
 ---
->         // When using FreeBuilder one needs to use the JavaBean convention, which means that all setters will start        // with set
+> import java.util	.HashSet;

@@ -1,5 +1,4 @@
-570,571c570
-<                     // type bounds in the arguments are returned from asMemberOf with "? extends ? super XX"
-<                     //
+18c18
+<     public static final String NULL = "<NULL>";
 ---
->                     // type bounds in the arguments are returned from asMemberOf with "? extends ? super XX"                    //
+>     public static final String 	NULL = "<NULL>";

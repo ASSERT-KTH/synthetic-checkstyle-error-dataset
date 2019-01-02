@@ -1,5 +1,4 @@
-72,73c72
-<     public boolean initializeFromSettingsParameter(String rawParameter) { // NOSONAR: Always return true
-<         String trimmedRawParameter = rawParameter.trim();
+46c46
+<         assertFalse(values.contains(9));
 ---
->     public boolean initializeFromSettingsParameter(String rawParameter) { // NOSONAR: Always return true        String trimmedRawParameter = rawParameter.trim();
+>         assertFalse(values.contains(9) );

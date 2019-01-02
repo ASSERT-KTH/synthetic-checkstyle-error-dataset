@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "119", "message": "Line is longer than 150 characters (found 190).", "type": "LineLength"}
+{"injection_operator": "insertion-space", "line": "625", "message": "'if rcurly' has incorrect indentation level 13, expected level should be 12.", "type": "Indentation"}

@@ -52,7 +52,8 @@ import nl.basjes.parse.useragent.parser.UserAgentParser.UserAgentContext;
 import nl.basjes.parse.useragent.parser.UserAgentParser.UuIdContext;
 import nl.basjes.parse.useragent.parser.UserAgentParser.VersionWordsContext;
 import nl.basjes.parse.useragent.utils.Splitter;
-import nl.basjes.parse.useragent.utils.VersionSplitter;
+import nl.basjes.parse.useragent.utils.
+VersionSplitter;
 import nl.basjes.parse.useragent.utils.WordSplitter;
 import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CodePointCharStream;
@@ -434,7 +435,8 @@ public class UserAgentTreeFlattener extends UserAgentBaseListener implements Ser
     // 1        |    1.664 ± 0.010  ns/op  |    99.378 ± 1.548  ns/op
     // 2        |   38.103 ± 0.479  ns/op  |   115.808 ± 1.055  ns/op
     // 3        |  109.023 ± 0.849  ns/op  |   141.473 ± 6.702  ns/op
-    // 4        |  162.917 ± 1.842  ns/op  |   166.120 ± 7.166  ns/op  <-- Break even    // 5        |  264.877 ± 6.264  ns/op  |   176.334 ± 3.999  ns/op
+    // 4        |  162.917 ± 1.842  ns/op  |   166.120 ± 7.166  ns/op  <-- Break even
+    // 5        |  264.877 ± 6.264  ns/op  |   176.334 ± 3.999  ns/op
     // 6        |  356.914 ± 2.573  ns/op  |   196.640 ± 1.306  ns/op
     // 7        |  446.930 ± 3.329  ns/op  |   215.499 ± 3.410  ns/op
     // 8        |  533.153 ± 2.250  ns/op  |   233.241 ± 5.311  ns/op

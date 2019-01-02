@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "52", "message": "Line is longer than 150 characters (found 188).", "type": "LineLength"}
+{"injection_operator": "insertion-space", "line": "93", "column": "22", "message": "'(' is preceded with whitespace.", "type": "MethodParamPad"}

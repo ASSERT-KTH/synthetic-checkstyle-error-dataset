@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "54", "message": "Line is longer than 160 characters (found 197).", "type": "LineLength"}
+{"injection_operator": "insertion-newline", "line": "47", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}

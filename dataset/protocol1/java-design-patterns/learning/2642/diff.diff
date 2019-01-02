@@ -1,5 +1,5 @@
-42,43c42
-<                               // to avoid Maven compilation errors. Set flag to true to run the
-<                               // tests with MongoDB (provided that MongoDB is installed and socket
+42c42,43
+<   List<Book> getAuthorBooks(String username);
 ---
->                               // to avoid Maven compilation errors. Set flag to true to run the                              // tests with MongoDB (provided that MongoDB is installed and socket
+>   List
+> <Book> getAuthorBooks(String username);

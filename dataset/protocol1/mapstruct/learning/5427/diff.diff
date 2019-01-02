@@ -1,5 +1,5 @@
-368,369c368
-<                         // to check super type, we can simply reverse the argument, but that would initially yield
-<                         // a result: <type, superType] (so type not included) so we need to check sameType also.
+38,39c38
+<             return methods;
+<         }
 ---
->                         // to check super type, we can simply reverse the argument, but that would initially yield                        // a result: <type, superType] (so type not included) so we need to check sameType also.
+>             return methods;        }

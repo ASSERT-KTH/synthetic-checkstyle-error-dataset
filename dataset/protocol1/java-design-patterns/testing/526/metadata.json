@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "63", "message": "Line is longer than 120 characters (found 210).", "type": "LineLength"}
+{"injection_operator": "deletion-newline", "line": "25", "column": "55", "message": "Only one statement per line allowed.", "type": "OneStatementPerLine"}

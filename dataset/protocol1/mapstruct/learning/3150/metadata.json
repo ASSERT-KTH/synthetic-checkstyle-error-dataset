@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "98", "message": "Line is longer than 120 characters (found 164).", "type": "LineLength"}
+{"injection_operator": "insertion-space", "line": "6", "column": "23", "message": "'.' is followed by whitespace.", "type": "NoWhitespaceAfter"}

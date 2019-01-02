@@ -1,5 +1,4 @@
-46,47c46
-<         // init metrics system for kylin
-<         QueryMetricsFacade.init();
+61c61
+<         String json = JsonUtil.writeValueAsIndentString(obj);
 ---
->         // init metrics system for kylin        QueryMetricsFacade.init();
+>         String json = JsonUtil.writeValueAsIndentString(obj );

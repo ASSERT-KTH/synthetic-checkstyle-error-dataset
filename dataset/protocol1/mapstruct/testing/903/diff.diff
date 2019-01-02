@@ -1,5 +1,5 @@
-227,228c227
-<         //Reason: Whenever we forge methods we can reuse mappings if they are the same. However, if we take the name
-<         // into consideration, they'll never be the same, because we create safe methods names.
+8,9c8
+< import java.lang.annotation.Documented;
+< import java.lang.annotation.Retention;
 ---
->         //Reason: Whenever we forge methods we can reuse mappings if they are the same. However, if we take the name        // into consideration, they'll never be the same, because we create safe methods names.
+> import java.lang.annotation.Documented;import java.lang.annotation.Retention;

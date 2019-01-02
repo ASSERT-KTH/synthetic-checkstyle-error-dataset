@@ -1,5 +1,4 @@
-356,357c356
-<             // that some other thread is rotating the log and has closed the underlying channel. But since we were
-<             // successful in emptying the buffer *UNDER THE LOCK* we know that the rotating thread included the changes
+27c27
+< import org.neo4j.kernel.api.net.NetworkConnectionTracker;
 ---
->             // that some other thread is rotating the log and has closed the underlying channel. But since we were            // successful in emptying the buffer *UNDER THE LOCK* we know that the rotating thread included the changes
+> import org.neo4j	.kernel.api.net.NetworkConnectionTracker;

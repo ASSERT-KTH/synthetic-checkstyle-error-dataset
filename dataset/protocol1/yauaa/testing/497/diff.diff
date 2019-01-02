@@ -1,5 +1,4 @@
-95,96c95
-<                 // Now we know this is a fixed value. Yet we can have a problem in the lookup that was
-<                 // configured. If we have this then this is a FATAL error (it will fail always everywhere).
+48c48
+<         if (!(o instanceof TestRecord)) {
 ---
->                 // Now we know this is a fixed value. Yet we can have a problem in the lookup that was                // configured. If we have this then this is a FATAL error (it will fail always everywhere).
+>        if (!(o instanceof TestRecord)) {

@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "368", "message": "Line is longer than 120 characters (found 226).", "type": "LineLength"}
+{"injection_operator": "deletion-newline", "line": "38", "column": "36", "message": "'}' at column 36 should be on a new line.", "type": "RightCurly"}

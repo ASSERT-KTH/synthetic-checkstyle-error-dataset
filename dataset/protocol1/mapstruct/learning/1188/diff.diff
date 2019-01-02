@@ -1,5 +1,4 @@
-52,53c52
-<             //If we have factory method then we won't use the targetType
-<             return null;
+10c10
+< import org.mapstruct.ap.internal.model.common.Type;
 ---
->             //If we have factory method then we won't use the targetType            return null;
+> import org.mapstruct.ap.internal.model	.common.Type;

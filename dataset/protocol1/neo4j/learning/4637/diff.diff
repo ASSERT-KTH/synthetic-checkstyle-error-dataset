@@ -1,5 +1,5 @@
-105,106c105
-<             // Count nodes
-<             superviseDynamicExecution( new NodeCountsStage( Configuration.DEFAULT, cache, nodes, highLabelId, countsUpdater, progressMonitor ) );
+440c440,441
+<         assertThat( hostnamePort.getHost( null ), equalTo( "[::1]" ) );
 ---
->             // Count nodes            superviseDynamicExecution( new NodeCountsStage( Configuration.DEFAULT, cache, nodes, highLabelId, countsUpdater, progressMonitor ) );
+>         assertThat( hostnamePort.getHost( null ), equalTo
+> ( "[::1]" ) );

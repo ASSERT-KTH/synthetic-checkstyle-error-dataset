@@ -1,5 +1,5 @@
-27,28c27
-< //        UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:**/Linux.yaml");
-< //        Assert.assertTrue(uaa.runTests(true, false));
+24c24,25
+<     public InvalidParserConfigurationException(String message, Exception e) {
 ---
-> //        UserAgentAnalyzerTester uaa = new UserAgentAnalyzerTester("classpath*:**/Linux.yaml");//        Assert.assertTrue(uaa.runTests(true, false));
+>     public InvalidParserConfigurationException(
+> String message, Exception e) {

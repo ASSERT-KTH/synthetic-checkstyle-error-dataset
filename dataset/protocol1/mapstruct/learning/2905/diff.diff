@@ -1,5 +1,5 @@
-213,214c213
-<                 // note that this assumes that a new source file is created for each mapper which must not
-<                 // necessarily be the case, e.g. in case of several mapper interfaces declared as inner types
+129c129,130
+<     INHERITCONFIGURATION_CYCLE( "Cycle detected while evaluating inherited configurations. Inheritance path: %s" ),
 ---
->                 // note that this assumes that a new source file is created for each mapper which must not                // necessarily be the case, e.g. in case of several mapper interfaces declared as inner types
+>     INHERITCONFIGURATION_CYCLE( 
+> "Cycle detected while evaluating inherited configurations. Inheritance path: %s" ),

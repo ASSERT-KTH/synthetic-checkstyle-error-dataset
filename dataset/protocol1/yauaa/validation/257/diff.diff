@@ -1,5 +1,4 @@
-115,116c115
-<         // Special: The url is a HTTP.URI wo we should get everything below it too!
-<         assertPossible(possible, "HTTP.URI:request.user-agent.agent_information_url");
+243c243
+<         for (String actual : matcher.reveicedValues) {
 ---
->         // Special: The url is a HTTP.URI wo we should get everything below it too!        assertPossible(possible, "HTTP.URI:request.user-agent.agent_information_url");
+>        for (String actual : matcher.reveicedValues) {

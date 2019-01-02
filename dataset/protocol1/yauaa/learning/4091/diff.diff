@@ -1,5 +1,4 @@
-93,94c93
-<                 // UnsupportedEncodingException: Can't happen because the UTF-8 is hardcoded here.
-<                 // IllegalArgumentException: Probably bad % encoding in there somewhere.
+21c21
+<     public UselessMatcherException(String message) {
 ---
->                 // UnsupportedEncodingException: Can't happen because the UTF-8 is hardcoded here.                // IllegalArgumentException: Probably bad % encoding in there somewhere.
+>    public UselessMatcherException(String message) {

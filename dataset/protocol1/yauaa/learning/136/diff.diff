@@ -1,5 +1,4 @@
-106,107c106
-< //            ", parse_user_agent_field('"+TEST_INPUT+"', 'DeviceClass'     ) as DeviceClass " +
-<             "from (values(1))";
+39c39
+<         return null;
 ---
-> //            ", parse_user_agent_field('"+TEST_INPUT+"', 'DeviceClass'     ) as DeviceClass " +            "from (values(1))";
+>        return null;

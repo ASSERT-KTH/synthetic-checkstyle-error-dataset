@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "36", "column": "8", "message": "Unused import - spoon.support.visitor.SubInheritanceHierarchyResolver.", "type": "UnusedImports"}
+{"injection_operator": "insertion-newline", "line": "38", "message": "Line has trailing spaces.", "type": "RegexpSingleline"}

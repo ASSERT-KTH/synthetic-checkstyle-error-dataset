@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "31", "message": "Line is longer than 120 characters (found 134).", "type": "LineLength"}
+{"injection_operator": "insertion-tab", "line": "10", "column": "17", "message": "Line contains a tab character.", "type": "FileTabCharacter"}

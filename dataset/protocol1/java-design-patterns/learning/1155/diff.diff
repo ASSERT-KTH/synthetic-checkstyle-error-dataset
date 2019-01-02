@@ -1,5 +1,4 @@
-43,44c43
-<     // configures settings from hibernate.cfg.xml
-<     final StandardServiceRegistry registry = new StandardServiceRegistryBuilder().configure().build();
+49c49
+<     } else if (serviceName.equals("jndi/serviceB")) {
 ---
->     // configures settings from hibernate.cfg.xml    final StandardServiceRegistry registry = new StandardServiceRegistryBuilder().configure().build();
+>    } else if (serviceName.equals("jndi/serviceB")) {

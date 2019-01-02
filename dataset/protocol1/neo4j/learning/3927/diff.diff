@@ -1,5 +1,5 @@
-54,55c54
-<         // since lucene use ServiceLocator to load services, context class loader need to be replaced as well
-<         ClassLoader contextClassLoader = Thread.currentThread().getContextClassLoader();
+47c47,48
+<         super( NAME, topic, config, ORDER_SEND_DOWNSTREAM | RECYCLE_BATCHES );
 ---
->         // since lucene use ServiceLocator to load services, context class loader need to be replaced as well        ClassLoader contextClassLoader = Thread.currentThread().getContextClassLoader();
+>         super( NAME, topic, config, ORDER_SEND_DOWNSTREAM | RECYCLE_BATCHES 
+> );

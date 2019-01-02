@@ -1,5 +1,5 @@
-46,47c46
-<         assertEquals("Chrome",                   parsedAgent.getValue("AgentName"                )); // Chrome
-<         assertEquals("53.0.2785.124",            parsedAgent.getValue("AgentVersion"             )); // 53.0.2785.124
+68c68,69
+<                     wordBuilder.append(Character.toUpperCase(thisChar));
 ---
->         assertEquals("Chrome",                   parsedAgent.getValue("AgentName"                )); // Chrome        assertEquals("53.0.2785.124",            parsedAgent.getValue("AgentVersion"             )); // 53.0.2785.124
+>                     wordBuilder.append(Character.toUpperCase(
+> thisChar));

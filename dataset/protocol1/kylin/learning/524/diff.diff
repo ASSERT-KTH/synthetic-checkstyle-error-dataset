@@ -1,5 +1,4 @@
-25,26c25
-<     //need project to indicate user's permission.only global admin and project admin can get.
-<     List<String> listAllAuthorities(String project) throws IOException;
+22c22
+< import org.apache.kylin.common.util.Bytes;
 ---
->     //need project to indicate user's permission.only global admin and project admin can get.    List<String> listAllAuthorities(String project) throws IOException;
+> import org.apache.kylin.common.util.	Bytes;

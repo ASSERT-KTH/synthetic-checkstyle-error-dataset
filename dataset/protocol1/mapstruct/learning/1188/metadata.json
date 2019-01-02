@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "51", "column": "38", "message": "Must have at least one statement.", "type": "EmptyBlock"}
+{"injection_operator": "insertion-tab", "line": "10", "column": "39", "message": "Line contains a tab character.", "type": "FileTabCharacter"}

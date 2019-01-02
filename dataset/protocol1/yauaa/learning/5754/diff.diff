@@ -1,5 +1,4 @@
-42,43c42
-<         assertEquals("Phone",                    parsedAgent.getValue("DeviceClass"              )); // Phone
-<         assertEquals("Chrome 53",                parsedAgent.getValue("AgentNameVersionMajor"    )); // Chrome 53
+149c149
+<                 childIterable = new ChildIterable(false, start, end, clazz -> (
 ---
->         assertEquals("Phone",                    parsedAgent.getValue("DeviceClass"              )); // Phone        assertEquals("Chrome 53",                parsedAgent.getValue("AgentNameVersionMajor"    )); // Chrome 53
+>                childIterable = new ChildIterable(false, start, end, clazz -> (

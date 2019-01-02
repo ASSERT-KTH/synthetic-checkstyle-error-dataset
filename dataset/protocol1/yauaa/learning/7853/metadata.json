@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "24", "column": "8", "message": "Unused import - org.junit.runners.Parameterized.Parameter.", "type": "UnusedImports"}
+{"injection_operator": "insertion-newline", "line": "31", "message": "'uaa' has incorrect indentation level 0, expected level should be 12.", "type": "Indentation"}

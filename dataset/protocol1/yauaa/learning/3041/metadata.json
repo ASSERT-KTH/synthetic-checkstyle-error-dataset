@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "437", "message": "Line is longer than 150 characters (found 154).", "type": "LineLength"}
+{"injection_operator": "insertion-newline", "line": "56", "message": "'VersionSplitter' has incorrect indentation level 0, expected level should be 4.", "type": "Indentation"}

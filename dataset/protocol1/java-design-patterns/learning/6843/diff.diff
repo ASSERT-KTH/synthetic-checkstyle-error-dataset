@@ -1,5 +1,4 @@
-101,102c101
-<     // initialize on demand holder idiom
-<     InitializingOnDemandHolderIdiom demandHolderIdiom =
+54c54
+<     this.logGroupName = logGroupName;
 ---
->     // initialize on demand holder idiom    InitializingOnDemandHolderIdiom demandHolderIdiom =
+>    this.logGroupName = logGroupName;

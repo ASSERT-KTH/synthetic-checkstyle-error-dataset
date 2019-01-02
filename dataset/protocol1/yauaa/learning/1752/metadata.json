@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "65", "message": "Line is longer than 150 characters (found 156).", "type": "LineLength"}
+{"injection_operator": "deletion-space", "line": "41", "message": "'method def' child has incorrect indentation level 7, expected level should be 8.", "type": "Indentation"}

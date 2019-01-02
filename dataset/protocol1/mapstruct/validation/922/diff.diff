@@ -1,5 +1,5 @@
-364,365c364
-<             //TODO: Log error
-<             return null;
+8c8,9
+< import static org.mapstruct.ap.internal.prism.NullValueCheckStrategyPrism.ALWAYS;
 ---
->             //TODO: Log error            return null;
+> import static org.mapstruct.ap.internal.prism.NullValueCheckStrategyPrism.ALWAYS
+> ;

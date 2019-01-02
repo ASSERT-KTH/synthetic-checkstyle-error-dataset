@@ -1,5 +1,4 @@
-65,66c65
-<         // The base input stream
-<         StreamExecutionEnvironment                       senv        = StreamExecutionEnvironment.getExecutionEnvironment();
+41c41
+<         long memory = runtime.totalMemory() - runtime.freeMemory();
 ---
->         // The base input stream        StreamExecutionEnvironment                       senv        = StreamExecutionEnvironment.getExecutionEnvironment();
+>        long memory = runtime.totalMemory() - runtime.freeMemory();

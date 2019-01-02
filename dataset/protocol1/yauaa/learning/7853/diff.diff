@@ -1,5 +1,5 @@
-50,51c50
-<     // CHECKSTYLE.OFF: VisibilityModifier doesn't work like that for @Parameter variables
-<     @Parameter
+30c30,31
+<         assertTrue(uaa.runTests(false, true));
 ---
->     // CHECKSTYLE.OFF: VisibilityModifier doesn't work like that for @Parameter variables    @Parameter
+>         assertTrue(
+> uaa.runTests(false, true));

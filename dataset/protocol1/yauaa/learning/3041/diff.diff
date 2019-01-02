@@ -1,5 +1,5 @@
-437,438c437
-<     // 4        |  162.917 ± 1.842  ns/op  |   166.120 ± 7.166  ns/op  <-- Break even
-<     // 5        |  264.877 ± 6.264  ns/op  |   176.334 ± 3.999  ns/op
+55c55,56
+< import nl.basjes.parse.useragent.utils.VersionSplitter;
 ---
->     // 4        |  162.917 ± 1.842  ns/op  |   166.120 ± 7.166  ns/op  <-- Break even    // 5        |  264.877 ± 6.264  ns/op  |   176.334 ± 3.999  ns/op
+> import nl.basjes.parse.useragent.utils.
+> VersionSplitter;

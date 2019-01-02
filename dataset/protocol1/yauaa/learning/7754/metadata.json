@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "46", "message": "Line is longer than 150 characters (found 227).", "type": "LineLength"}
+{"injection_operator": "insertion-newline", "line": "69", "message": "'thisChar' has incorrect indentation level 0, expected level should be 24.", "type": "Indentation"}

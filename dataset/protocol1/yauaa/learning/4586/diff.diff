@@ -1,5 +1,4 @@
-115,116c115
-< // The actual class thrown here turns out to be
-< //   org.apache.beam.repackaged.beam_runners_direct_java.com.google.common.util.concurrent.UncheckedExecutionException
+60c60
+<     TV("TV"),
 ---
-> // The actual class thrown here turns out to be//   org.apache.beam.repackaged.beam_runners_direct_java.com.google.common.util.concurrent.UncheckedExecutionException
+>     	TV("TV"),

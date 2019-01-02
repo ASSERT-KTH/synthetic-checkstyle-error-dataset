@@ -1,5 +1,4 @@
-330,331c330
-<         // Looks like there's no mapping, so we'd like to do a page fault.
-<         LatchMap.Latch latch = pagedFile.pageFaultLatches.takeOrAwaitLatch( filePageId );
+25c25
+< import org.neo4j.graphdb.GraphDatabaseService;
 ---
->         // Looks like there's no mapping, so we'd like to do a page fault.        LatchMap.Latch latch = pagedFile.pageFaultLatches.takeOrAwaitLatch( filePageId );
+> import org.neo4j.graphdb.GraphDatabaseService	;

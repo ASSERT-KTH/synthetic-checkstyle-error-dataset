@@ -1,5 +1,4 @@
-119,120c119
-< // Turns out Apache Beam 2.5.0 made a total mess of this because they repackaged this class in at least 5 package names
-< // in the beam-runners-direct-java and also in the beam-sdks-java-core.
+625c625
+<             }
 ---
-> // Turns out Apache Beam 2.5.0 made a total mess of this because they repackaged this class in at least 5 package names// in the beam-runners-direct-java and also in the beam-sdks-java-core.
+>              }

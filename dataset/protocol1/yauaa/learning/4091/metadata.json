@@ -1,1 +1,1 @@
-{"injection_operator": "deletion-newline", "line": "93", "message": "Line is longer than 150 characters (found 186).", "type": "LineLength"}
+{"injection_operator": "deletion-space", "line": "21", "message": "'ctor def modifier' has incorrect indentation level 3, expected level should be 4.", "type": "Indentation"}

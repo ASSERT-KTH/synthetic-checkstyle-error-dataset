@@ -1,5 +1,4 @@
-98,99c98
-<             // don't use jar-file caching, as it caused occasionally closed input streams [at least under JDK 1.8.0_25]
-<             connection.setUseCaches( false );
+6c6
+< package org.mapstruct.ap.spi;
 ---
->             // don't use jar-file caching, as it caused occasionally closed input streams [at least under JDK 1.8.0_25]            connection.setUseCaches( false );
+> package org.mapstruct. ap.spi;

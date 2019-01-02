@@ -1,5 +1,4 @@
-160,161c160
-<         // Special: The url is a HTTP.URI wo we should get everything below it too!
-<         assertPossible(possible, "HTTP.URI:request.user-agent.last.agent_information_url");
+20c20
+< import org.antlr.v4.runtime.CharStream;
 ---
->         // Special: The url is a HTTP.URI wo we should get everything below it too!        assertPossible(possible, "HTTP.URI:request.user-agent.last.agent_information_url");
+> import org	.antlr.v4.runtime.CharStream;

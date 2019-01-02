@@ -1,5 +1,4 @@
-78,79c78
-<                 // We simply prefix a fake product name to continue parsing.
-<                 result = "Mozilla" + result;
+28c28
+< import java.util.HashSet;
 ---
->                 // We simply prefix a fake product name to continue parsing.                result = "Mozilla" + result;
+>  import java.util.HashSet;

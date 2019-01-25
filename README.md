@@ -1,4 +1,4 @@
-# synthetic-checkstyle-error-dataset
+# Synthetic Checkstyle error dataset
 
 Repo structure:
 

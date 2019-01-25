@@ -6,7 +6,7 @@ Repo structure:
 * dataset/protocol1/
   * &lt;project name>
     * (learning|testing|validation)
-      * &lt;numerical identifier> *-- each folder contains a single JSON and a single Java file containing a single error *
+      * &lt;numerical identifier> *-- each folder contains a single JSON and a single Java file containing a single error*
         * metadata.json
           * error_type
           * error_line

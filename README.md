@@ -5,7 +5,7 @@ Repo structure:
 * Readme.md
 * dataset/protocol1/
   * &lt;project name>
-    * (learning|testing|validation)
+    * (learning|testing|validation) *-- all made from differents files from the project*
       * &lt;numerical identifier> *-- each folder contains a single JSON and a single Java file containing a single error*
         * metadata.json
           * error_type
